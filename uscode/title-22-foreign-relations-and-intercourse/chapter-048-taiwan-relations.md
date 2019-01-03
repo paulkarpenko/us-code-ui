@@ -38,6 +38,14 @@ Pub. L. 96–8, § 18, Apr. 10, 1979, 93 Stat. 21, provided that: “This Act [e
 #### Short Title
 Pub. L. 96–8, § 1, Apr. 10, 1979, 93 Stat. 14, provided that: “This Act [enacting this chapter] may be cited as the ‘Taiwan Relations Act’.”
 
+#### Commitment to Taiwan
+Pub. L. 115–409, title II, § 209, Dec. 31, 2018, 132 Stat. 5398, provided that: “(a) United States Commitment to Taiwan.—It is the policy of the United States—“(1) to support the close economic, political, and security relationship between Taiwan and the United States; “(2) to faithfully enforce all existing United States Government commitments to Taiwan, consistent with the Taiwan Relations Act of 1979 (Public Law 96–8) [[22 U.S.C. 3301](./chapter-048-taiwan-relations.md#section-3301) et seq.], the 3 joint communiques, and the Six Assurances agreed to by President Ronald Reagan in July 1982; and “(3) to counter efforts to change the status quo and to support peaceful resolution acceptable to both sides of the Taiwan Strait. “(b) Arms Sales to Taiwan.—The President should conduct regular transfers of defense articles to Taiwan that are tailored to meet the existing and likely future threats from the People’s Republic of China, including supporting the efforts of Taiwan to develop and integrate asymmetric capabilities, as appropriate, including mobile, survivable, and cost-effective capabilities, into its military forces. “(c) Travel.—The President should encourage the travel of highlevel [sic] United States officials to Taiwan, in accordance with the Taiwan Travel Act (Public Law 115–135) [132 Stat. 341].”
+
+[Nothing in section 209 of Pub. L. 115–409, set out above, to be construed as authorizing the use of military force, see section 412 of Pub. L. 115–409, set out as a note under [section 2656 of this title](./chapter-038-department-of-state.md#section-2656).]
+
+#### Strengthening the Defense Partnership Between the United States and Taiwan
+Pub. L. 115–91, div. A, title XII, § 1259, Dec. 12, 2017, 131 Stat. 1685, provided that: “(a) Statement of Policy.—It is the policy of the United States to reinforce its commitments to Taiwan under the Taiwan Relations Act [Pub. L. 96–8, [22 U.S.C. 3301](./chapter-048-taiwan-relations.md#section-3301) et seq.] and consistent with the ‘Six Assurances’ as both governments work to improve Taiwan’s self-defense capability. “(b) Sense of Congress.—It is the sense of Congress that the United States should—“(1) strengthen and enhance its longstanding partnership and cooperation with Taiwan; “(2) conduct regular transfers of defense articles and defense services necessary to enable Taiwan to maintain a sufficient self-defense capability, based solely on the needs of Taiwan; “(3) invite the military forces of Taiwan to participate in military exercises, such as the ‘Red Flag’ exercises; “(4) carry out a program of exchanges of senior military officers and senior officials with Taiwan to improve military-to-military relations, as expressed in section 1284 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2544); “(5) support expanded exchanges focused on practical training for Taiwan personnel by and with United States military units, including exchanges among services; “(6) conduct bilateral naval exercises, to include pre-sail conferences, in the western Pacific Ocean with the Taiwan navy; and “(7) consider the advisability and feasibility of reestablishing port of call exchanges between the United States navy and the Taiwan navy.”
+
 #### Executive Order No. 12143
 Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, which provided for facilitation of the maintenance of commercial, cultural, and other relations between the peoples of the United States and Taiwan, was superseded by Ex. Ord. No. 13014, Aug. 15, 1996, 61 F.R. 42963, set out below.
 
@@ -101,6 +109,12 @@ William J. Clinton.
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
+#### Normalizing the Transfer of Defense Articles and Defense Services to Taiwan
+Pub. L. 115–91, div. A, title XII, § 1259A, Dec. 12, 2017, 131 Stat. 1685, provided that: “(a) Sense of Congress.—It is the sense of Congress that any requests from the Government of Taiwan for defense articles and defense services should receive a case-by-case review by the Secretary of Defense, in consultation with the Secretary of State, that is consistent with the standard processes and procedures in an effort to normalize the arms sales process with Taiwan. “(b) Report.—“(1) In general.—Not later than 120 days after the date on which the Secretary of Defense receives a Letter of Request from Taiwan with respect to the transfer of a defense article or defense service to Taiwan, the Secretary, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report that includes—“(A) the status of such request; “(B) if the transfer of such article or service would require a certification or report to Congress pursuant to any applicable provision of section 36 of the Arms Export Control Act ([22 U.S.C. 2776](./chapter-039-arms-export-control.md#section-2776)), the status of any Letter of Offer and Acceptance the Secretary of Defense intends to issue with respect to such request; and “(C) an assessment of whether the transfer of such article or service would be consistent with United States obligations under the Taiwan Relations Act (Public Law 96–8; [22 U.S.C. 3301](./chapter-048-taiwan-relations.md#section-3301) et seq.). “(2) Elements.—Each report required under paragraph (1) shall specify the following:“(A) The date the Secretary of Defense received the Letter of Request. “(B) The value of the sale proposed by such Letter of Request. “(C) A description of the defense article or defense service proposed to be transferred. “(D) The view of the Secretary of Defense with respect to such proposed sale and whether such sale would be consistent with United States defense initiatives with Taiwan. “(3) Form.—Each report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex. “(c) Briefing.—Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], and every 180 days thereafter, the Secretary of Defense, in coordination with the Secretary of State, shall provide a briefing to the appropriate congressional committees with respect to the security challenges faced by Taiwan and the military cooperation between the United States and Taiwan, including a description of any requests from Taiwan for the transfer of defense articles or defense services and the status, whether signed or unsigned, of any Letters of Offer and Acceptance with respect to such requests. “(d) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and “(B) the Committee on Armed Services and the Committee on Foreign Relations of the Senate. “(2) Defense article; defense service.—The terms ‘defense article’ and ‘defense service’ have the meanings given such terms in section 47 of the Arms Export Control Act ([22 U.S.C. 2794](./chapter-039-arms-export-control.md#section-2794)). “(3) Letter of request; letter of offer and acceptance.—The terms ‘Letter of Request’ and ‘Letter of Offer and Acceptance’ have the meanings given such terms for purposes of Chapter 5 of the Security Assistance Management Manual of the Defense Security Cooperation Agency, as in effect on the date of the enactment of this Act.”
+
 #### Consultation With Congress With Regard to Taiwan
 Pub. L. 107–228, div. B, title XII, § 1263, Sept. 30, 2002, 116 Stat. 1434, provided that: “Beginning 180 days after the date of enactment of this Act [Sept. 30, 2002], and every 180 days thereafter, the President shall provide detailed briefings to and consult with the appropriate congressional committees regarding the United States security assistance to Taiwan, including the provision of defense articles and defense services.”
 
@@ -149,6 +163,9 @@ The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (b)(5), is Pub
 
 The Immigration and Nationality Act, referred to in subsec. (b)(6), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
 #### Concerning the Participation of Taiwan in the International Civil Aviation Organization
 Pub. L. 113–17, § 1, July 12, 2013, 127 Stat. 480, directed the Secretary of State to develop a strategy to obtain observer status for Taiwan at the triennial International Civil Aviation Organization (ICAO) Assembly and other related meetings, activities, and mechanisms thereafter, to instruct the United States Mission to the ICAO to officially request observer status for Taiwan at such Assembly, meetings, activities, and mechanisms, to actively urge ICAO member states to support such observer status and participation for Taiwan, and to submit a report to Congress on the strategy developed by not later than 30 days after July 12, 2013.
 
@@ -161,6 +178,14 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 704], Nov. 29, 1
 **(a) Removal of per capita income restriction on Corporation activities with respect to investment projects on Taiwan** During the three-year period beginning on April 10, 1979, the $1,000 per capita income restriction in clause (2) of the second undesignated paragraph of [section 2191 of this title](./chapter-032-foreign-assistance.md#section-2191) shall not restrict the activities of the Overseas Private Investment Corporation in determining whether to provide any insurance, reinsurance, loans, or guaranties with respect to investment projects on Taiwan.
 
 **(b) Application by Corporation of other criteria** Except as provided in subsection (a) of this section, in issuing insurance, reinsurance, loans, or guaranties with respect to investment proj­ects on Taiwan, the Overseas Private Insurance 11 So in original. Probably should be “Investment”. Corporation shall apply the same criteria as those applicable in other parts of the world.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.
 
 
 <a id="section-3305"></a>
@@ -175,6 +200,11 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 704], Nov. 29, 1
 
 **(c) Preemption of laws, rules, regulations, or ordi­nances of District of Columbia, States, or political subdivisions of States** To the extent that any law, rule, regulation, or ordinance of the District of Columbia, or of any State or political subdivision thereof in which the Institute is incorporated or doing business, impedes or otherwise interferes with the performance of the functions of the Institute pursuant to this chapter, such law, rule, regulation, or ordinance shall be deemed to be preempted by this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
 
 <a id="section-3306"></a>
 ## § 3306. Services to United States citizens on Taiwan
@@ -187,6 +217,11 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 704], Nov. 29, 1
 (3) to assist and protect the interests of United States persons by performing other acts such as are authorized to be performed outside the United States for consular purposes by such laws of the United States as the President may specify.
 
 **(b) Acts by authorized employees** Acts performed by authorized employees of the Institute under this section shall be valid, and of like force and effect within the United States, as if performed by any other person authorized under the laws of the United States to perform such acts.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
 
 
 <a id="section-3307"></a>
@@ -203,6 +238,9 @@ The Federal Insurance Contributions Act, referred to in subsec. (a), is act Aug.
 #### Amendments
 1986—Pub. L. 99–514 substituted in subsecs. (a) and (b) “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
 
 <a id="section-3308"></a>
 ## § 3308. Activities of United States Government agencies
@@ -212,6 +250,11 @@ The Federal Insurance Contributions Act, referred to in subsec. (a), is act Aug.
 
 **(c) Institute books and records; access; audit** Any agency of the United States Government making funds available to the Institute in accordance with this chapter shall make arrangements with the Institute for the Comptroller General of the United States to have access to the books and records of the Institute and the opportunity to audit the operations of the Institute.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
 
 <a id="section-3309"></a>
 ## § 3309. Taiwan instrumentality
@@ -220,6 +263,11 @@ The Federal Insurance Contributions Act, referred to in subsec. (a), is act Aug.
 **(b) Offices and personnel** The President is requested to extend to the instrumentality established by Taiwan the same number of offices and complement of personnel as were previously operated in the United States by the governing authorities on Taiwan recognized as the Republic of China prior to January 1, 1979.
 
 **(c) Privileges and immunities** Upon the granting by Taiwan of comparable privileges and immunities with respect to the Institute and its appropriate personnel, the President is authorized to extend with respect to the Taiwan instrumentality and its appropriate personnel, such privileges and immunities (subject to appropriate conditions and obligations) as may be necessary for the effective performance of their functions.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
 
 
 <a id="section-3310"></a>
@@ -255,6 +303,9 @@ The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch
 
 #### Amendments
 1986—Subsec. (d)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
 
 #### Ex. Ord. No. 13054. Eligibility of Certain Overseas Employees for Noncompetitive Appointments
 Ex. Ord. No. 13054, July 7, 1997, 62 F.R. 36965, as amended by Ex. Ord. No. 13062, § 6, Sept. 29, 1997, 62 F.R. 51756, provided:
@@ -298,11 +349,19 @@ Section was enacted as part of the Export Enhancement Act of 1988 and as part of
 #### Amendments
 1983—Subsec. (d). Pub. L. 98–164 struck out subsec. (d) which required the Secretary of State to make semi-annual reports respecting economic relations between the United States and Taiwan.
 
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
 
 <a id="section-3312"></a>
 ## § 3312. Rules and regulations
 
 The President is authorized to prescribe such rules and regulations as he may deem appropriate to carry out the purposes of this chapter. During the three-year period beginning on January 1, 1979, such rules and regulations shall be transmitted promptly to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate. Such action shall not, however, relieve the Institute of the responsibilities placed upon it by this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
 
 
 <a id="section-3313"></a>
@@ -319,6 +378,11 @@ The President is authorized to prescribe such rules and regulations as he may de
 
 **(b) Committee reports to their respective Houses** Such committees shall report, as appropriate, to their respective Houses on the results of their monitoring.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
 
 <a id="section-3314"></a>
 ## § 3314. Definitions
@@ -329,14 +393,29 @@ For purposes of this chapter—
 
 (2) the term “Taiwan” includes, as the context may require, the islands of Taiwan and the Pescadores, the people on those islands, corporations and other entities and associations created or organized under the laws applied on those islands, and the governing authorities on Taiwan recognized by the United States as the Republic of China prior to January 1, 1979, and any successor governing authorities (including political subdivisions, agencies, and instrumentalities thereof).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
 
 <a id="section-3315"></a>
 ## § 3315. Authorization of appropriations
 
 In addition to funds otherwise available to carry out the provisions of this chapter, there are authorized to be appropriated to the Secretary of State for the fiscal year 1980 such funds as may be necessary to carry out such provisions. Such funds are authorized to remain available until expended.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
+
 
 <a id="section-3316"></a>
 ## § 3316. Severability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of the chapter and the application of such provision to any other person or circumstance shall not be affected thereby.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).

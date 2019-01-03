@@ -29,7 +29,7 @@ Pub. L. 87–794, title I, § 101, Oct. 11, 1962, 76 Stat. 872, provided that: �
 The legal authority for the establishment and operation of the Office of the Special Representative for Trade Negotiations in the Executive Office of the President was changed by section 141 of the Trade Act of 1974, which is set out as [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171). For abolition of the Office as established under Ex. Ord. No. 11075 [see below], and for establishment of the Office pursuant instead to the Trade Act of 1974, with provision for the transfer of assets, liabilities, contracts, property, records, unexpended balances and funds, and personnel to the Office as established pursuant to statute rather than Ex. Ord. 11075, see [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
 
 #### President’s Export Council
-For provisions relating to establishment of President’s Export Council and the Council’s functions concerning export expansion, see Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, set out as a note under [section 4601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim), War and National Defense.
+For provisions relating to establishment of President’s Export Council and the Council’s functions concerning export expansion, see Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, set out as a note under former [section 4601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim), War and National Defense.
 
 #### Executive Order No. 11075
 Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, as amended by Ex. Ord. No. 11106, Apr. 18, 1963, 28 F.R. 3911; Ex. Ord. No. 11113, June 15, 1963, 28 F.R. 6183, which related to the administration of the trade agreements program, was revoked by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under [section 2111 of this title](./chapter-012-trade-act-of-1974.md#section-2111).
@@ -367,9 +367,12 @@ Repeal of section applicable with respect to investigations initiated under [sec
 <a id="section-1864"></a>
 ## § 1864. Import sanctions for export violations
 
-Any person who violates any national security export control imposed under [section 4604 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4604&num=0&edition=prelim) or any regulation, order, or license issued under that section, may be subject to such controls on the importing of goods or technology into the United States as the President may prescribe.
+Any person who violates any national security export control imposed under section 4604 11 See References in Text note below. of title 50 or any regulation, order, or license issued under that section, may be subject to such controls on the importing of goods or technology into the United States as the President may prescribe.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 4604 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4604&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
 1988—Pub. L. 100–418 struck out designation “(a)” and struck out subsec. (b) which related to prerequisites to imposition of sanctions.

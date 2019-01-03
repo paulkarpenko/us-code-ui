@@ -154,9 +154,13 @@ Pub. L. 101–510, § 1481(d)(1), (2), substituted “Employment of non-citizens
 Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see section 1482(d) of Pub. L. 101–510, set out as a note under [section 119 of this title](./chapter-002-department-of-defense.md#section-119).
 
 #### Citizenship Requirement Not Applicable
-Pub. L. 115–31, div. C, title VIII, § 8002, May 5, 2017, 131 Stat. 245, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. C of Pub. L. 115–31, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [[22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 115–245, div. A, title VIII, § 8002, Sept. 28, 2018, 132 Stat. 2998, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. A of Pub. L. 115–245, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [[22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. C, title VIII, § 8002, Mar. 23, 2018, 132 Stat. 462.
+
+Pub. L. 115–31, div. C, title VIII, § 8002, May 5, 2017, 131 Stat. 245.
 
 Pub. L. 114–113, div. C, title VIII, § 8002, Dec. 18, 2015, 129 Stat. 2349.
 
@@ -848,11 +852,15 @@ Section applicable with respect to pay and allowances deposited (or scheduled to
 
 (4) The Western Hemisphere Institute for Security Cooperation.
 
+(5) The Joint Special Operations University.
+
 **(d) Application to Faculty Members at NDU.—** In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(5). Pub. L. 115–232 added par. (5).
+
 2006—Subsec. (c)(3) to (6). Pub. L. 109–364, § 904(b)(1)(A), redesignated pars. (4) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (5) which related to the George C. Marshall European Center for Security Studies and the Asia-Pacific Center for Security Studies, respectively.
 
 Subsec. (e). Pub. L. 109–364, § 904(b)(1)(B), struck out heading and text of subsec. (e). Text read as follows: “In addition to the persons specified in subsection (a), this section also applies with respect to the Director and the Deputy Director of the following:
@@ -1003,51 +1011,23 @@ Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072, 
 
 (4) Direct operating or production positions in the United States.
 
-**(c) Master Plan.—**
+**(c) Exceptions.—** The Secretary of Defense may permit a variation from the guidelines established under subsection (b) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
 
-(1) The Secretary of Defense shall include in the materials submitted to Congress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
+**(d) Involuntary Reductions of Civilian Positions.—** The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
 
-(2) The master plan referred to in paragraph (1) shall include the information described in paragraph (3). Such information shall include information for each of the two fiscal years immediately preceding such fiscal year and projected information for such fiscal year and each of the two fiscal years immediately following such fiscal year.
-
-(3) The information referred to in paragraph (2) is the following:
-
-  (A) A profile of the levels of civilian positions sufficient to establish and maintain a baseline for tracking annual accessions and losses of civilian positions and to provide for the analysis of trends in the levels of civilian positions within the Department of Defense as a whole and for each military department, major subordinate command of each military department, Defense Agency, and other principal component of the Department of Defense. The profile shall include information on the following:
-
-    (i) The total number of civilian employees.
-
-    (ii) Of the total number of civilian employees, the number of civilian employees in the United States, the number of civilian employees overseas, and the number of foreign national employees overseas.
-
-    (iii) Of the total number of civilian employees at the end of each fiscal year covered by the master plan, the number of full-time employees, the number of part-time employees, and the number of temporary and on-call employees.
-
-    (iv) Accessions and losses of civilian positions, shown in the aggregate and by the number of full-time employees, the number of part-time employees, and the number of temporary and on-call employees.
-
-    (v) The number of losses of civilian positions, by appropriation account, due to reductions in force, furloughs, or functional transfers or other significant transfers of work away from the military department, Defense Agency, or other component.
-
-    (vi) The extent to which accessions and losses of civilian positions are due to functional transfers or competitive actions that are related to the Department of Defense management review initiatives of the Secretary of Defense.
-
-    (vii) The total number of individuals employed by contractors and subcontractors of the Department of Defense under a contract or subcontract entered into pursuant to Office of Management and Budget Circular A–76 to perform commercial activities for the Department of Defense, a military department, a defense agency, or other component.
-
-  (B) For industrial-type and commercial-type activities funded through the Defense Business Operations Fund, the following information:
-
-    (i) Annual trends in the amount of funded workload for each activity, based upon the average number of months of accumulated, funded workload to be performed, or projected to be performed, by the activity.
-
-    (ii) The extent to which such workload is funded by funds that are appropriated from appropriation accounts and managed through the Defense Business Operations Fund.
-
-  (C) Information that indicates trends in the extent to which the military department, Defense Agency, or other component enters into contracts with persons outside of the Department of Defense, rather than uses civilian positions, to perform work for the military department, Defense Agency, or other component.
-
-  (D) Information that indicates the extent to which the Department of Defense management review initiatives of the Secretary of Defense and other productivity enhancement programs of the Department of Defense significantly affect the number of losses of civilian positions, particularly administrative and management positions.
-
-(4) The Secretary of Defense shall include in the materials referred to in paragraph (1) a report on the implementation of the master plan for the fiscal year immediately preceding the fiscal year for which such materials are submitted.
-
-**(d) Exceptions.—** The Secretary of Defense may permit a variation from the guidelines established under subsection (b) or a master plan prepared under subsection (c) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
-
-**(e) Involuntary Reductions of Civilian Positions.—** The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
-
-**(f) Reductions Based Primarily on Performance.—** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
+**(e) Reductions Based Primarily on Performance.—** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (c). Pub. L. 115–91, § 1051(a)(6)(A)(iii), struck out “or a master plan prepared under subsection (c)” after “established under subsection (b)”.
+
+Pub. L. 115–91, § 1051(a)(6)(A)(ii), which directed the “striking” of subsec. (d) as (c), was executed by redesignating subsec. (d) as (c), to reflect the probable intent of Congress.
+
+Pub. L. 115–91, § 1051(a)(6)(A)(i), struck out subsec. (c) which related to civilian positions master plan.
+
+Subsecs. (d) to (f). Pub. L. 115–91, § 1051(a)(6)(A)(ii), which directed the “striking” of subsecs. (e) and (f) as (d) and (e), respectively, was executed by redesignating subsecs. (e) and (f) as (d) and (e), respectively, to reflect the probable intent of Congress.
+
 2015—Subsec. (f). Pub. L. 114–92 added subsec. (f).
 
 2011—Subsec. (b). Pub. L. 112–81 inserted after first sentence “In establishing the guidelines, the Secretary shall ensure that nothing in the guidelines conflicts with the requirements of [section 129 of this title](./chapter-003-general-powers-and-functions.md#section-129) or the policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).”
@@ -1572,15 +1552,23 @@ The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. 
 
 (3) **DOTE.—** — The Director of the Office of Operational Test and Evaluation may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering to support operational test and evaluation missions of the Office.
 
+(4) **Strategic capabilities office.—** — The Director of the Strategic Capabilities Office may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Office.
+
+(5) **Diux.—** — The Director of the Defense Innovation Unit Experimental may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Unit.
+
 **(b) Personnel Management Authority.—** Under a program under subsection (a), the official responsible for administration of the program may—
 
 (1) without regard to any provision of title 5 governing the appointment of employees in the civil service—
 
   (A) in the case of the laboratories of the military departments designated pursuant to subsection (a)(1), appoint scientists and engineers to a total of not more than 40 scientific and engineering positions in such laboratories;
 
-  (B) in the case of the Defense Advanced Research Projects Agency, appoint individuals to a total of not more than 100 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency; and
+  (B) in the case of the Defense Advanced Research Projects Agency, appoint individuals to a total of not more than 100 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency;
 
   (C) in the case of the Office of Operational Test and Evaluation, appoint scientists and engineers to a total of not more than 10 scientific and engineering positions in the Office;
+
+  (D) in the case of the Strategic Capabilities Office, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Office; and
+
+  (E) in the case of the Defense Innovation Unit Experimental, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit;
 
 (2) notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
 
@@ -1594,11 +1582,18 @@ The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. 
 
 (1) **In general.—** — Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed four years.
 
-(2) **Extension.—** — The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, or the Office of Operational Test and Evaluation, as applicable.
+(2) **Extension.—** — The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, or the Defense Innovation Unit Experimental, as applicable.
 
 **(d) Maximum Amount of Additional Payments Payable.—** Notwithstanding any other provision of this section or [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee’s total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a)(4), (5). Pub. L. 115–232, § 1111(a), added pars. (4) and (5).
+
+Subsec. (b)(1)(D), (E). Pub. L. 115–232, § 1111(b), added subpars. (D) and (E).
+
+Subsec. (c)(2). Pub. L. 115–232, § 1111(c), substituted “the Office of Operational Test and Evaluation, the Strategic Capabilities Office, or the Defense Innovation Unit Experimental” for “or the Office of Operational Test and Evaluation”.
 
 #### Applicability of Personnel Management Authority to Personnel Currently Employed Under Superseded Authority
 Pub. L. 114–328, div. A, title XI, § 1121(c), Dec. 23, 2016, 130 Stat. 2452, provided that: “(1) In general.—Any individual employed as of the date of the enactment of this Act [Dec. 23, 2016] under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([5 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3104&num=0&edition=prelim) note) (as in effect on the day before such date) shall remain employed under [section 1599h of title 10](./chapter-081-civilian-employees.md#section-1599h), United States Code (as added by subsection (a)), after such date in accordance with such section 1599h and the applicable program carried out under such section 1599h. “(2) Date of appointment.—For purposes of subsection (c) of [section 1599h of title 10](./chapter-081-civilian-employees.md#section-1599h), United States Code (as so added), the date of the appointment of any employee who remains employed as described in paragraph (1) shall be the date of the appointment of such employee under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([5 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3104&num=0&edition=prelim) note) (as so in effect).”

@@ -19,6 +19,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Amendments
 1992—Pub. L. 102–366 inserted at end “It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.”
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–371, § 1, Dec. 21, 2018, 132 Stat. 5106, provided that: This Act [amending [section 696 of this title](./chapter-14b-small-business-investment-program.md#section-696)] may be cited as the “Small Business Access to Capital and Efficiency Act” or the “Small Business ACE Act”.
+
+Pub. L. 115–333, § 1, Dec. 19, 2018, 132 Stat. 4488, provided that: “This Act [amending sections 662, 681, and 687 of this title] may be cited as the ‘Spurring Business in Communities Act of 2017’.”
+
+Pub. L. 115–187, § 1, June 21, 2018, 132 Stat. 1489, provided that: “This Act [amending [section 683 of this title](./chapter-14b-small-business-investment-program.md#section-683)] may be cited as the ‘Small Business Investment Opportunity Act of 2017’.”
+
 #### Short Title of 2004 Amendment
 Pub. L. 108–232, § 1, May 28, 2004, 118 Stat. 649, provided that:“This Act [amending [section 697e of this title](./chapter-14b-small-business-investment-program.md#section-697e)] may be cited as the ‘Premier Certified Lenders Program Improvement Act of 2004’.”
 
@@ -183,9 +190,11 @@ As used in this chapter—
 
   (D) is restricted to Energy Saving qualified investments; and
 
-  (E) is issued at no cost (as defined in section 661a 11 See References in Text note below. of title 2) with respect to purchasing and guaranteeing the debenture; and
+  (E) is issued at no cost (as defined in section 661a 11 See References in Text note below. of title 2) with respect to purchasing and guaranteeing the debenture;
 
-(19) the term “Energy Saving qualified investment” means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources.
+(19) the term “Energy Saving qualified investment” means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources; and
+
+(20) the term “underlicensed State” means a State in which the number of licensees per capita is less than the median number of licensees per capita for all States, as calculated by the Administrator.
 
 ### Statutory Notes
 
@@ -199,6 +208,8 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (14), i
 [Section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim), referred to in par. (18)(E), was in the original “section 502 of the Credit Reform Act of 1990”, which was translated as reading “section 502 of the Federal Credit Reform Act of 1990”, to reflect the probable intent of Congress.
 
 #### Amendments
+2018—Par. (20). Pub. L. 115–333 added par. (20).
+
 2007—Pars. (18), (19). Pub. L. 110–140 added pars. (18) and (19).
 
 2000—Par. (5)(A)(i). Pub. L. 106–554, § 1(a)(9) [title IV, § 402(a)], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
@@ -306,9 +317,11 @@ Section, Pub. L. 85–699, title II, § 202(b), Aug. 21, 1958, 72 Stat. 691, aut
 
     (ii) the general business reputation of the owners and management of the applicant; and
 
-    (iii) the probability of successful operations of the applicant, including adequate profitability and financial soundness; and
+    (iii) the probability of successful operations of the applicant, including adequate profitability and financial soundness;
 
-  (C) shall not take into consideration any projected shortage or unavailability of leverage.
+  (C) shall not take into consideration any projected shortage or unavailability of leverage; and
+
+  (D) shall give first priority to an applicant that is located in an underlicensed State with below median financing, as determined by the Administrator.
 
 (4) **Exception**
 
@@ -322,11 +335,13 @@ Section, Pub. L. 85–699, title II, § 202(b), Aug. 21, 1958, 72 Stat. 691, aut
 
   (B) *Leverage* — An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of [section 682(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section682/a&num=0&edition=prelim), unless the applicant—
 
-    (i) files an application for a license not later than 180 days after December 2, 1997;
+    (i) is located in a State that—
 
-    (ii) is located in a State that is not served by a licensee; and
+      (I) is not served by a licensee; or
 
-    (iii) agrees to be limited to 1 tier of leverage available under [section 682(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section682/b&num=0&edition=prelim), until the applicant meets the requirements of [section 682(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section682/a&num=0&edition=prelim).
+      (II) is an underlicensed State; and
+
+    (ii) agrees to be limited to 1 tier of leverage available under [section 682(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section682/b&num=0&edition=prelim), until the applicant meets the requirements of [section 682(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section682/a&num=0&edition=prelim).
 
 **(d) Repealed. Pub. L. 104–208, div. D, title II, § 208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742**
 
@@ -346,6 +361,14 @@ Section, Pub. L. 85–699, title II, § 202(b), Aug. 21, 1958, 72 Stat. 691, aut
 For definition of “this chapter”, referred to in subsecs. (b), (c), and (e), see References in Text note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661).
 
 #### Amendments
+2018—Subsec. (c)(3)(D). Pub. L. 115–333, § 2(2)(A), added subpar. (D).
+
+Subsec. (c)(4)(B)(i). Pub. L. 115–333, § 2(2)(B)(ii), (iii), redesignated cl. (ii) as (i) and amended it generally. Prior to amendment, cl. read as follows: “is located in a State that is not served by a licensee; and”.
+
+Pub. L. 115–333, § 2(2)(B)(i), struck out cl. (i) which read as follows: “files an application for a license not later than 180 days after December 2, 1997;”.
+
+Subsec. (c)(4)(B)(ii), (iii). Pub. L. 115–333, § 2(2)(B)(ii), redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
+
 1997—Subsec. (c)(4)(B). Pub. L. 105–135, § 212, amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of [section 682(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section682/a&num=0&edition=prelim).”
 
 Subsec. (e). Pub. L. 105–135, § 214, added subsec. (e).
@@ -499,7 +522,7 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
     (i) 300 percent of such company’s private capital; or
 
-    (ii) $150,000,000.
+    (ii) $175,000,000.
 
   (B) *Multiple licenses under common control.—* — The maximum amount of outstanding leverage made available to two or more companies licensed under [section 681(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section681/c&num=0&edition=prelim) that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $350,000,000.
 
@@ -634,6 +657,8 @@ For purposes of this subsection, the term “venture capital” includes such co
 For definition of “this chapter”, referred to in subsecs. (b), (e), (g)(2), (4), (j), and (k), see References in Text note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661).
 
 #### Amendments
+2018—Subsec. (b)(2)(A)(ii). Pub. L. 115–187 substituted “$175,000,000” for “$150,000,000”.
+
 2015—Subsec. (b)(2)(B). Pub. L. 114–113 substituted “$350,000,000” for “$225,000,000”.
 
 2009—Subsec. (b)(2)(A), (B). Pub. L. 111–5, § 505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
@@ -919,23 +944,27 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
   (A) The Administration’s recommendations with respect to the feasibility and organization of a small business capital bank to encourage private financing of small business investment companies to replace Government financing of such companies.
 
-  (B) The Administration’s plans to insure the provision of small business investment company financing to all areas of the country and to all eligible small business concerns including steps taken to accomplish same.
+  (B) The Administration’s plans to insure the provision of small business investment company financing and licensing to all areas of the country and to all eligible small business concerns including steps taken to accomplish same.
 
-  (C) Steps taken by the Administration to maximize recoupment of Government funds incident to the inauguration and administration of the small business investment company program and to insure compliance with statutory and regulatory standards relating thereto.
+  (C) Steps taken by the Administration to improve the number of licensees in underlicensed States.
 
-  (D) An accounting by the Office of Management and Budget with respect to Federal expenditures to business by executive agencies, specifying the proportion of said expenditures going to business concerns falling above and below small business size standards applicable to small business investment companies.
+  (D) The Administration’s plans to support States that seek to increase the number of licensees in the State.
 
-  (E) An accounting by the Treasury Department with respect to tax revenues accruing to the Government from business concerns, incorporated and unincorporated, specifying the source of such revenues by concerns falling above and below the small business size standards applicable to small business investment companies.
+  (E) Steps taken by the Administration to maximize recoupment of Government funds incident to the inauguration and administration of the small business investment company program and to insure compliance with statutory and regulatory standards relating thereto.
 
-  (F) An accounting by the Treasury Department with respect to both tax losses and increased tax revenues related to small business investment company financing of both individual and corporate business taxpayers.
+  (F) An accounting by the Office of Management and Budget with respect to Federal expenditures to business by executive agencies, specifying the proportion of said expenditures going to business concerns falling above and below small business size standards applicable to small business investment companies.
 
-  (G) Recommendations of the Treasury Department with respect to additional tax incentives to improve and facilitate the operations of small business investment companies and to encourage the use of their financing facilities by eligible small business concerns.
+  (G) An accounting by the Treasury Department with respect to tax revenues accruing to the Government from business concerns, incorporated and unincorporated, specifying the source of such revenues by concerns falling above and below the small business size standards applicable to small business investment companies.
 
-  (H) A report from the Securities and Exchange Commission enumerating actions undertaken by that agency to simplify and minimize the regulatory requirements governing small business investment companies under the Federal securities laws and to eliminate overlapping regulation and jurisdiction as between the Securities and Exchange Commission, the Administration, and other agencies of the executive branch.
+  (H) An accounting by the Treasury Department with respect to both tax losses and increased tax revenues related to small business investment company financing of both individual and corporate business taxpayers.
 
-  (I) A report from the Securities and Exchange Commission with respect to actions taken to facilitate and stabilize the access of small business concerns to the securities markets.
+  (I) Recommendations of the Treasury Department with respect to additional tax incentives to improve and facilitate the operations of small business investment companies and to encourage the use of their financing facilities by eligible small business concerns.
 
-  (J) Actions undertaken by the Securities and Exchange Commission to simplify compliance by small business investment companies with the requirements of the Investment Company Act of 1940 [[15 U.S.C. 80a–1](./chapter-2d-investment-companies-and-advisers.md#section-80a-1) et seq.] and to facilitate the election to be taxed as regulated investment companies pursuant to [section 851 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section851&num=0&edition=prelim).
+  (J) A report from the Securities and Exchange Commission enumerating actions undertaken by that agency to simplify and minimize the regulatory requirements governing small business investment companies under the Federal securities laws and to eliminate overlapping regulation and jurisdiction as between the Securities and Exchange Commission, the Administration, and other agencies of the executive branch.
+
+  (K) A report from the Securities and Exchange Commission with respect to actions taken to facilitate and stabilize the access of small business concerns to the securities markets.
+
+  (L) Actions undertaken by the Securities and Exchange Commission to simplify compliance by small business investment companies with the requirements of the Investment Company Act of 1940 [[15 U.S.C. 80a–1](./chapter-2d-investment-companies-and-advisers.md#section-80a-1) et seq.] and to facilitate the election to be taxed as regulated investment companies pursuant to [section 851 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section851&num=0&edition=prelim).
 
 (3) In its annual report for the year ending on December 31, 1993, and in each succeeding annual report made pursuant to section 10(a) of the Small Business Act [[15 U.S.C. 639(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section639/a&num=0&edition=prelim)], the Administration shall include a full and detailed description or account relating to—
 
@@ -943,9 +972,11 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
   (B) the amount of government leverage that each licensee received in the previous year and the types of leverage instruments each licensee used;
 
-  (C) for each type of financing instrument, the sizes, geographic locations, and other characteristics of the small business investment companies using them, including the extent to which the investment companies have used the leverage from each instrument to make small business loans, equity investments, or both; and
+  (C) for each type of financing instrument, the sizes, geographic locations, and other characteristics of the small business investment companies using them, including the extent to which the investment companies have used the leverage from each instrument to make small business loans, equity investments, or both;
 
-  (D) the frequency with which each type of investment instrument has been used in the current year and a comparison of the current year with previous years.
+  (D) the frequency with which each type of investment instrument has been used in the current year and a comparison of the current year with previous years; and
+
+  (E) the geographic dispersion of licensees in each State compared to the population of the State, identifying underlicensed States.
 
 **(h) Certifications of eligibility**
 
@@ -976,7 +1007,7 @@ For definition of “this chapter”, referred to in subsecs. (a) to (h), see Re
 
 The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631) and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (g)(2)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (g)(2)(L), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 #### Codification
 Section 204 of Pub. L. 96–161, cited as a credit to this section, was repealed by section 529 of Pub. L. 96–221 effective at the close of Mar. 31, 1980. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when the amendment was in effect in such State.
@@ -986,6 +1017,12 @@ Section 104 of Pub. L. 96–104, cited as a credit to this section, was repealed
 Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisions of section 1 of Pub. L. 96–104, set out under [section 85 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section85&num=0&edition=prelim), Banks and Banking.
 
 #### Amendments
+2018—Subsec. (g)(2)(B). Pub. L. 115–333, § 2(3)(A)(i), inserted “and licensing” after “financing”.
+
+Subsec. (g)(2)(C) to (L). Pub. L. 115–333, § 2(3)(A)(ii), (iii), added subpars. (C) and (D) and redesignated former subpars. (C) to (J) as (E) to (L), respectively.
+
+Subsec. (g)(3)(E). Pub. L. 115–333, § 2(3)(B), added subpar. (E).
+
 2004—Subsec. (b). Pub. L. 108–447, which directed the amendment of section 308(b) of the Small Business Investment Act by substituting “Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—” and pars. (1) to (3) for last sentence, was executed to this section, which is section 308 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress. Prior to amendment, last sentence read as follows: “Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions.”
 
 1999—Subsec. (i)(2). Pub. L. 106–9 inserted at end: “In this paragraph, the term ‘interest’ includes only the maximum mandatory sum, expressed in dollars or as a percentage rate, that is payable with respect to the business loan amount received by the small business concern, and does not include the value, if any, of contingent obligations, including warrants, royalty, or conversion rights, granting the small business investment company an ownership interest in the equity or increased future revenue of the small business concern receiving the business loan.”
@@ -2851,11 +2888,15 @@ The Administration may, in addition to its authority under [section 695 of this 
 
     (i) *In general.—* — The collateral provided by the small business concern shall generally include a subordinate lien position on the property being financed under this subchapter, and is only 1 of the factors to be evaluated in the credit determination. Additional collateral shall be required only if the Administration determines, on a case-by-case basis, that additional security is necessary to protect the interest of the Government.
 
-    (ii) *Appraisals.—* — With respect to commercial real property provided by the small business concern as collateral, an appraisal of the property by a State licensed or certified appraiser—
+    (ii) *Appraisals.—*
 
-      (I) shall be required by the Administration before disbursement of the loan if the estimated value of that property is more than $250,000; or
+      (I) *In general.—* — With respect to commercial real property provided by the small business concern as collateral, an appraisal of the property by a State licensed or certified appraiser—
 
-      (II) may be required by the Administration or the lender before disbursement of the loan if the estimated value of that property is $250,000 or less, and such appraisal is necessary for appropriate evaluation of creditworthiness.
+        (aa) shall be required by the Administration before disbursement of the loan if the estimated value of that property is more than the Federal banking regulator appraisal threshold; or
+
+        (bb) may be required by the Administration or the lender before disbursement of the loan if the estimated value of that property is equal to or less than the Federal banking regulator appraisal threshold, and such appraisal is necessary for appropriate evaluation of creditworthiness.
+
+      (II) *Federal banking regulator appraisal threshold defined.—* — For purposes of this clause, the term “Federal banking regulator appraisal threshold” means the lesser of the threshold amounts set by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation for when a federally related transaction that is a commercial real estate transaction requires an appraisal prepared by a State licensed or certified appraiser.
 
 (4) If the project is to construct a new facility, up to 33 per centum of the total project may be leased, if reasonable projections of growth demonstrate that the assisted small business concern will need additional space within three years and will fully utilize such additional space within ten years.
 
@@ -2883,12 +2924,13 @@ The Administration may, in addition to its authority under [section 695 of this 
 
     (vii) the financing under [section 697a of this title](./chapter-14b-small-business-investment-program.md#section-697a) will provide better terms or rate of interest than the existing indebtedness at the time of refinancing.
 
+  (C) 22 See Refinancing Not Involving Expansions note below. Repealed. Pub. L. 111–240, title I, § 1122(b), Sept. 27, 2010, 124 Stat. 2512.
+
 ### Statutory Notes
 
-#### Effectiveness of Former Paragraph (7)(C)
-Subparagraph (C) of paragraph (7) of this section, as in effect on September 25, 2012 (see 2010 Amendment note below), effective in any fiscal year during which the cost to the Federal Government of making guarantees under such subparagraph (C) and section 503 of the Small Business Investment Act of 1958 ([15 U.S.C. 697](./chapter-14b-small-business-investment-program.md#section-697)) is zero, with certain exceptions, see section 521(a) of Pub. L. 114–113, set out as a note below.
-
 #### Amendments
+2018—Par. (3)(E)(ii). Pub. L. 115–371, redesignated introductory provisions of cl. (ii) as subcl. (I) of cl. (ii) and inserted heading, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, of subcl. (I) and realigned margins, in item (aa), substituted “is more than the Federal banking regulator appraisal threshold” for “is more than $250,000”, in item (bb), substituted “is equal to or less than the Federal banking regulator appraisal threshold” for “is $250,000 or less”, and added subcl. (II).
+
 2010—Par. (2)(A)(i). Pub. L. 111–240, § 1122(c), substituted “clause (ii), (iii), (iv), or (v)” for “subparagraph (B) or (C)”.
 
 Pub. L. 111–240, § 1112(1), substituted “$5,000,000” for “$1,500,000”.
@@ -3035,7 +3077,7 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L. 97–35, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Refinancing Not Involving Expansions
-Pub. L. 114–113, div. E, title V, § 521(a), Dec. 18, 2015, 129 Stat. 2463, provided that: “Subparagraph (C) of section 502(7) of the Small Business Investment Act of 1958 ([15 U.S.C. 696(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section696/7&num=0&edition=prelim)) [former [15 U.S.C. 696(7)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section696/7/C&num=0&edition=prelim)], as in effect on September 25, 2012, shall be in effect in any fiscal year during which the cost to the Federal Government of making guarantees under such subparagraph (C) [see 2010 Amendment note above] and section 503 of the Small Business Investment Act of 1958 ([15 U.S.C. 697](./chapter-14b-small-business-investment-program.md#section-697)) is zero, except that— “(1) subclause (I)(bb) and subclause (II) of clause (iv) of such subparagraph (C) shall not be in effect; “(2) unless, upon application by a development company and after determining that the refinance loan is needed for good cause, the Administrator of the Small Business Administration waives this paragraph, a development company shall limit its financings under section 502 of the Small Business Investment Act of 1958 ([15 U.S.C. 696](./chapter-14b-small-business-investment-program.md#section-696)) so that, during any fiscal year, new financings under such subparagraph (C) shall not exceed 50 percent of the dollars loaned under title V of the Small Business Investment Act of 1958 ([15 U.S.C. 695](./chapter-14b-small-business-investment-program.md#section-695) et seq.) during the previous fiscal year; and “(3) clause (iv)(I)(aa) of such subparagraph (C) shall be applied by substituting ‘job creation and retention’ for ‘job creation’.”
+Pub. L. 114–113, div. E, title V, § 521(a), Dec. 18, 2015, 129 Stat. 2463, provided that: “Subparagraph (C) of section 502(7) of the Small Business Investment Act of 1958 ([15 U.S.C. 696(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section696/7&num=0&edition=prelim)) [former [15 U.S.C. 696(7)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section696/7/C&num=0&edition=prelim), see 2010 Amendment note above for text], as in effect on September 25, 2012, shall be in effect in any fiscal year during which the cost to the Federal Government of making guarantees under such subparagraph (C) and section 503 of the Small Business Investment Act of 1958 ([15 U.S.C. 697](./chapter-14b-small-business-investment-program.md#section-697)) is zero, except that— “(1) subclause (I)(bb) and subclause (II) of clause (iv) of such subparagraph (C) shall not be in effect; “(2) unless, upon application by a development company and after determining that the refinance loan is needed for good cause, the Administrator of the Small Business Administration waives this paragraph, a development company shall limit its financings under section 502 of the Small Business Investment Act of 1958 ([15 U.S.C. 696](./chapter-14b-small-business-investment-program.md#section-696)) so that, during any fiscal year, new financings under such subparagraph (C) shall not exceed 50 percent of the dollars loaned under title V of the Small Business Investment Act of 1958 ([15 U.S.C. 695](./chapter-14b-small-business-investment-program.md#section-695) et seq.) during the previous fiscal year; and “(3) clause (iv)(I)(aa) of such subparagraph (C) shall be applied by substituting ‘job creation and retention’ for ‘job creation’.”
 
 
 <a id="section-697"></a>

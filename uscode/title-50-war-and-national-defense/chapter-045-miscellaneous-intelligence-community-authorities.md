@@ -250,7 +250,7 @@ For definition of “intelligence community”, see section 2 of Pub. L. 111–2
 ## § 3308a. Provision of certain information to Government Accountability Office by National Reconnaissance Office
 **(a) In general** The Director of the National Reconnaissance Office shall provide to the Comptroller General of the United States, in a timely manner, access to the cost, schedule, and performance information the Comptroller General requires to conduct assessments, as required by any of the appropriate congressional committees, of programs of the National Reconnaissance Office.
 
-**(b) Appropriate Congressional Committees Defined** In this section, the term “appropriate congressional committees” means—
+**(b) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
 
 (1) the congressional defense committees; and
 
@@ -1067,6 +1067,8 @@ For definition of “intelligence community”, referred to in text, see section
 
 (7) **Private cause of action** — Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
 
+(8) **Inclusion of contractor employees** — In this subsection, the term “employee” includes an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of an agency. With respect to such employees, the term “employing agency” shall be deemed to be the contracting agency.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1082,6 +1084,8 @@ Section 8H of the Inspector General Act of 1978, referred to in subsec. (j)(1)(C
 Section was formerly classified to [section 435b of this title](./chapter-015-national-security.md#section-435b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (j)(8). Pub. L. 115–118 added par. (8).
+
 2014—Subsec. (a)(9). Pub. L. 113–126, § 602(c), added par. (9).
 
 Subsec. (b). Pub. L. 113–126, § 602(a)(1)(A), substituted “Except as otherwise provided, not” for “Not” in introductory provisions.
@@ -1362,7 +1366,7 @@ Section was formerly classified as a note under [section 435 of this title](./ch
 ## § 3348. Reports relating to certain special access programs and similar programs
 **(a) In general**
 
-(1) Not later than February 1 of each year, the head of each covered department or agency shall submit to Congress a report on each special access program carried out in the department or agency.
+(1) Not later than February 1 of each year, the head of each covered department or agency shall submit to the congressional oversight committees a report on each special access program carried out in the department or agency.
 
 (2) Each such report shall set forth—
 
@@ -1380,7 +1384,7 @@ Section was formerly classified as a note under [section 435 of this title](./ch
 
 **(b) Newly designated programs**
 
-(1) Not later than February 1 of each year, the head of each covered department or agency shall submit to Congress a report that, with respect to each new special access program of that department or agency, provides—
+(1) Not later than February 1 of each year, the head of each covered department or agency shall submit to the congressional oversight committees a report that, with respect to each new special access program of that department or agency, provides—
 
   (A) notice of the designation of the program as a special access program; and
 
@@ -1396,29 +1400,37 @@ Section was formerly classified as a note under [section 435 of this title](./ch
 
 **(c) Revision in classification of programs**
 
-(1) Whenever a change in the classification of a special access program of a covered department or agency is planned to be made or whenever classified information concerning a special access program of a covered department or agency is to be declassified and made public, the head of the department or agency shall submit to Congress a report containing a description of the proposed change or the information to be declassified, the reasons for the proposed change or declassification, and notice of any public announcement planned to be made with respect to the proposed change or declassification.
+(1) Whenever a change in the classification of a special access program of a covered department or agency is planned to be made or whenever classified information concerning a special access program of a covered department or agency is to be declassified and made public, the head of the department or agency shall submit to the congressional oversight committees a report containing a description of the proposed change or the information to be declassified, the reasons for the proposed change or declassification, and notice of any public announcement planned to be made with respect to the proposed change or declassification.
 
 (2) Except as provided in paragraph (3), a report referred to in paragraph (1) shall be submitted not less than 14 days before the date on which the proposed change, declassification, or public announcement is to occur.
 
 (3) If the head of the department or agency determines that because of exceptional circumstances the requirement of paragraph (2) cannot be met with respect to a proposed change, declassification, or public announcement concerning a special access program of the department or agency, the head of the department or agency may submit the report required by paragraph (1) regarding the proposed change, declassification, or public announcement at any time before the proposed change, declassification, or public announcement is made and shall include in the report an explanation of the exceptional circumstances.
 
-**(d) Revision of criteria for designating programs** Whenever there is a modification or termination of the policy and criteria used for designating a program of a covered department or agency as a special access program, the head of the department or agency shall promptly notify Congress of such modification or termination. Any such notification shall contain the reasons for the modification or termination and, in the case of a modification, the provisions of the policy as modified.
+**(d) Revision of criteria for designating programs** Whenever there is a modification or termination of the policy and criteria used for designating a program of a covered department or agency as a special access program, the head of the department or agency shall promptly notify the congressional oversight committees of such modification or termination. Any such notification shall contain the reasons for the modification or termination and, in the case of a modification, the provisions of the policy as modified.
 
 **(e) Waiver of reporting requirement**
 
 (1) The head of a covered department or agency may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the head of the department or agency determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.
 
-(2) If the head of a department or agency exercises the authority provided under paragraph (1), the head of the department or agency shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, to Congress.
+(2) If the head of a department or agency exercises the authority provided under paragraph (1), the head of the department or agency shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, to the congressional oversight committees.
 
 **(f) Initiation of programs** A special access program may not be initiated by a covered department or agency until—
 
-(1) the appropriate oversight committees are notified of the program; and
+(1) the congressional oversight committees are notified of the program; and
 
 (2) a period of 30 days elapses after such notification is received.
 
 **(g) Definitions** For purposes of this section:
 
-(1) **Covered department or agency**
+(1) **Congressional oversight committees** — The term “congressional oversight committees” means—
+
+  (A) congressional leadership and authorizing and appropriations congressional committees with jurisdiction or shared jurisdiction over a department or agency;
+
+  (B) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+  (C) the Committee on Oversight and Government Reform of the House of Representatives.
+
+(2) **Covered department or agency**
 
   (A) Except as provided in subparagraph (B), the term “covered department or agency” means any department or agency of the Federal Government that carries out a special access program.
 
@@ -1430,17 +1442,25 @@ Section was formerly classified as a note under [section 435 of this title](./ch
 
     (iii) an agency in the Intelligence Community (as defined in [section 3003(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)).
 
-(2) **Special access program** — The term “special access program” means any program that, under the authority of Executive Order 12356 (or any successor Executive order), is established by the head of a department or agency whom the President has designated in the Federal Register as an original “secret” or “top secret” classification authority that imposes “need-to-know” controls or access controls beyond those controls normally required (by regulations applicable to such department or agency) for access to information classified as “confidential”, “secret”, or “top secret”.
+(3) **Special access program** — The term “special access program” means any program that, under the authority of Executive Order 12356 (or any successor Executive order), is established by the head of a department or agency whom the President has designated in the Federal Register as an original “secret” or “top secret” classification authority that imposes “need-to-know” controls or access controls beyond those controls normally required (by regulations applicable to such department or agency) for access to information classified as “confidential”, “secret”, or “top secret”.
 
 ### Statutory Notes
 
 #### References in Text
-Executive Order 12356, referred to in subsec. (g)(2), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which prescribed a uniform system for classifying, declassifying, and safeguarding national security information, and which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843.
+Executive Order 12356, referred to in subsec. (g)(3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which prescribed a uniform system for classifying, declassifying, and safeguarding national security information, and which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843.
 
 #### Codification
+Section 103 of Pub. L. 115–390, which directed amendment of the National Defense Authorization Act for Fiscal Year 1994 ([50 U.S.C. 3348](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3348)), was executed to this section, which is section 1152 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103–160), to reflect the probable intent of Congress. See 2018 Amendment notes below.
+
 Section was formerly classified as a note under [section 435 of this title](./chapter-015-national-security.md#section-435) prior to editorial reclassification as this section.
 
 #### Amendments
+2018—Subsecs. (a) to (e). Pub. L. 115–390, § 103(1), substituted “the congressional oversight committees” for “Congress” wherever appearing. See Codification note above.
+
+Subsec. (f)(1). Pub. L. 115–390, § 103(2), substituted “congressional oversight committees” for “appropriate oversight committees”. See Codification note above.
+
+Subsec. (g). Pub. L. 115–390, § 103(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively”. See Codification note above.
+
 1999—Subsec. (g)(1)(B)(ii). Pub. L. 106–65 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the Department of Energy, with respect to special access programs carried out under the atomic energy defense activities of that department (for which the Secretary of Energy is required to submit reports under [section 2122a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2122a&num=0&edition=prelim)); or”.
 
 #### Effective Date of 1999 Amendment
@@ -1850,7 +1870,7 @@ Section was formerly classified as a note under [section 403–1 of this title](
 
 (6) Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
 
-(7) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections 22 So in original. Probably should be “section”. 1801(a) and (b), respectively, of this title.
+(7) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections 11 So in original. Probably should be “section”. 1801(a) and (b), respectively, of this title.
 
 ### Statutory Notes
 
@@ -1945,9 +1965,7 @@ Subsec. (a). Pub. L. 115–31, § 401(a)(3), provided that the amendment made by
 
 2015—Subsec. (a). Pub. L. 114–113, which directed that subsec. (a) be amended to read as follows:
 
-“(a) Establishment
-
-“There shall be a National Counterintelligence Executive who shall be appointed by the President, by and with the advice and consent of the Senate.”,
+“(a) Establishment.—There shall be a National Counterintelligence Executive who shall be appointed by the President, by and with the advice and consent of the Senate.”,
 
 was deemed to not have taken effect by Pub. L. 115–31, § 401(a)(3). See 2017 Amendment note above.
 

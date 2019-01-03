@@ -112,7 +112,7 @@ Pub. L. 95–79, title VIII, § 803(b), July 30, 1977, 91 Stat. 333, provided th
 
 **(b) Other Personnel Policy Changes.—**
 
-(1) Except in a case covered by [section 6035 of this title](./chapter-555-administration.md#section-6035) or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
+(1) Except in a case covered by [section 8225 of this title](./chapter-825-administration.md#section-8225) or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
 
 (2) Paragraph (1) applies to a proposed military personnel policy change, other than a policy change covered by subsection (a), that would make available to female members of the armed forces assignment to any of the following that, as of the date of the proposed change, is closed to such assignment:
 
@@ -133,11 +133,16 @@ A prior section 652, added Pub. L. 95–485, title IV, § 405(d)(1), Oct. 20, 19
 Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, § 542, Nov. 30, 1993, 107 Stat. 1659, which was set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113), prior to repeal by Pub. L. 109–163, § 541(c).
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “section 8225” for “section 6035”.
+
 2015—Subsec. (a)(1). Pub. L. 114–92, § 524(a)(1), substituted “not less than 30 calendar days before such change is implemented” for “before any such change is implemented” and struck out at end “Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.”
 
 Subsec. (a)(5). Pub. L. 114–92, § 524(a)(2), struck out par. (5) which read as follows: “For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.”
 
 Subsec. (b)(1). Pub. L. 114–92, § 524(b), inserted “calendar” before “days”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-653"></a>

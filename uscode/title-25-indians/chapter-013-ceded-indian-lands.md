@@ -68,7 +68,7 @@ This act, referred to in text, means act Mar. 3, 1891, ch. 561, 26 Stat. 1095, w
 Sections 161 and 162 of title 43, referred to in text, were repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787.
 
 #### Codification
-Section was formerly classified to [section 1195 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1195&num=0&edition=prelim), Public Lands, prior to editorial reclassification and renumbering as this section, where it had originally appeared prior to transfer to Title 43.
+Section was formerly classified to [section 1197 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1197&num=0&edition=prelim), Public Lands, prior to editorial reclassification and renumbering as this section, where it had originally appeared prior to transfer to Title 43.
 
 
 <a id="section-427"></a>

@@ -516,11 +516,13 @@ Section effective on, and applicable beginning on, May 20, 2009, see section 100
 <a id="section-11319"></a>
 ## § 11319. Termination
 
-The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2018 11 So in original. Probably should be followed by a period.
+The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2020 11 So in original. Probably should be followed by a period.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–141 substituted “October 1, 2020” for “October 1, 2018”.
+
 2017—Pub. L. 115–31 substituted “October 1, 2018” for “October 1, 2017”.
 
 2014—Pub. L. 113–235 substituted “October 1, 2017” for “October 1, 2016”.
@@ -2910,6 +2912,9 @@ Pub. L. 101–645, title IV, § 401(b), Nov. 29, 1990, 104 Stat. 4723, provided 
 #### Regulations
 Pub. L. 101–645, title IV, § 401(d), Nov. 29, 1990, 104 Stat. 4723, provided that: “No later than 90 days after the date of the enactment of this Act [Nov. 29, 1990], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section [amending this section and enacting provisions set out as notes under this section].”
 
+#### Exemption of Department of Defense Off-Site Use and Off-Site Removal Only Non-Mobile Properties From Certain Excess Property Disposal Requirements
+Pub. L. 115–232, div. B, title XXVIII, § 2822, Aug. 13, 2018, 132 Stat. 2268, provided that: “(a) In General.—Excess or unutilized or underutilized non-mobile property of the Department of Defense that is situated on non-excess land shall be exempt from the requirements of title V of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11411](./chapter-119-homeless-assistance.md#section-11411) et seq.) upon a determination by the head of the department, agency, or other element of the Department having jurisdiction of the property that—“(1) the property is not feasible to relocate; “(2) the property is located in an area to which the general public is denied access in the interest of national security; and “(3) the exemption would facilitate the efficient disposal of excess property or result in more efficient real property management. “(b) Consultation.—Before making an initial determination under the authority in subsection (a), and periodically thereafter, the head of a department, agency, or other element of the Department shall consult with the Executive Director of the United States Interagency Council on Homelessness on types of non-mobile properties that may be feasible for relocation and suitable to assist the homeless. “(c) Reporting Requirement.—“(1) In general.—If any head of a department, agency, or other element of the Department makes a determination under subsection (a) during a fiscal year, not later than 90 days after the end of that fiscal year, the Secretary of Defense shall submit to the appropriate committees of Congress a report listing all the buildings, facilities, and other properties for which a determination was made under that subsection during that fiscal year. “(2) Form.—Any report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Homeland Security and Governmental Affairs of the Senate; and “(B) the Committee on Armed Services, the Committee on Financial Services, and the Committee on Oversight and Government Reform of the House of Representatives. “(d) Sunset.—The authority under subsection (a) shall expire on September 30, 2021.”
+
 #### Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals
 Pub. L. 102–550, title XIV, § 1411, Oct. 28, 1992, 106 Stat. 4039, provided that: “(a) Use of Available Space at National Guard Facilities.—The Secretary of Housing and Urban Development shall consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for homeless persons and families. The Secretary of Housing and Urban Development shall determine the availability of only such space that can be used for shelter purposes during periods it is not actively being used for National Guard purposes. The Secretary of Housing and Urban Development shall also determine the availability of incidental services at such facilities, including utilities, bedding, security, transportation, renovation of facilities, minor repairs undertaken specifically to make available space in a facility suitable for use as an overnight shelter for homeless individuals, and property liability insurance. “(b) Limitations.—In consultations under this section, the Secretary of Housing and Urban Development shall determine—“(1) the number and capacity of such facilities that may be made available for shelters for homeless persons and families without adversely affecting the military or emergency service preparedness of the State or the United States; and “(2) whether any available space is suitable for use as an overnight shelter for homeless individuals or can, with minor repairs, be made suitable for that use. “(c) Report.—The Secretary of Housing and Urban Development shall submit to the Congress, not later than the expiration of the 1-year period beginning on the date of the enactment of this Act [Oct. 28, 1992], a report regarding the consultations and determinations made by the Secretary under this section. The report shall include any recommendations of the Secretary regarding the need for, and feasibility of, using National Guard facilities for homeless shelters and any recommendations of the Secretary for administrative or legislative action to provide for such use.”
 
@@ -2977,7 +2982,7 @@ Par. (4). Pub. L. 114–95, § 9101(3), substituted “challenging State academi
 Pub. L. 114–95, title IX, § 9107, Dec. 10, 2015, 129 Stat. 2137, provided that: “Except as provided in section 9105(b) [set out as a note under [section 11434a of this title](./chapter-119-homeless-assistance.md#section-11434a)] or as otherwise provided in this Act [see Tables for classification], this title [probably means “this part”, meaning part A (§§ 9101–9107) of title IX of Pub. L. 114–95, amending this section and sections 11432 to 11435 of this title and enacting provisions set out as notes under [section 11434a of this title](./chapter-119-homeless-assistance.md#section-11434a)] and the amendments made by this title take effect on October 1, 2016.”
 
 #### Effective Date
-Part effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-11432"></a>
@@ -3426,6 +3431,9 @@ Subsec. (h). Pub. L. 114–95, § 9102(6), struck out subsec. (h) which related 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-11433"></a>
 ## § 11433. Local educational agency subgrants for the education of homeless children and youths
@@ -3603,6 +3611,9 @@ Subsec. (d)(16). Pub. L. 114–95, § 9103(4)(I), inserted before period at end 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-11434"></a>
 ## § 11434. Secretarial responsibilities
@@ -3680,6 +3691,9 @@ Subsec. (i). Pub. L. 114–95, § 9104(7), substituted “December 10, 2015” f
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-11434a"></a>
 ## § 11434a. Definitions
@@ -3738,6 +3752,9 @@ Pub. L. 114–95, title IX, § 9105(b), Dec. 10, 2015, 129 Stat. 2137, provided 
 
 Amendment by section 9105(a) of Pub. L. 114–95 effective Oct. 1, 2016, except as provided in section 9105(b) of Pub. L. 114–95 (set out above), see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Definition of Covered State
 Pub. L. 114–95, title IX, § 9105(c), Dec. 10, 2015, 129 Stat. 2137, provided that: “For purposes of this section [amending this section and enacting provisions set out as a note above] the term ‘covered State’ means a State that has a statutory law that defines or describes the phrase ‘awaiting foster care placement’, for purposes of a program under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431](./chapter-119-homeless-assistance.md#section-11431) et seq.).”
 
@@ -3761,6 +3778,9 @@ Another prior section 11435, Pub. L. 100–77, title VII, § 726, formerly § 72
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-11441-to-11447"></a>

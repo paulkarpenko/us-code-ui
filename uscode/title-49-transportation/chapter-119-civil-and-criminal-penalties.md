@@ -34,7 +34,7 @@ source: >-
 A prior section 11901, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1455; Pub. L. 96–454, § 8(a), Oct. 15, 1980, 94 Stat. 2019; Pub. L. 96–510, title III, § 306(c), Dec. 11, 1980, 94 Stat. 2810; Pub. L. 97–261, § 23, Sept. 20, 1982, 96 Stat. 1124; Pub. L. 98–554, title II, §§ 226(c)(6), 227(a)(1), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 103–180, §§ 6(b), 7(c), Dec. 3, 1993, 107 Stat. 2051, 2052, related to general civil penalties, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11901, 14901, and 16101 of this title.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11902"></a>
@@ -59,6 +59,9 @@ Section 11902, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1457, related to civil 
 
 Section 11902a, added Pub. L. 96–296, § 15(b)(1), July 1, 1980, 94 Stat. 809, related to penalties for violations of rules relating to loading and unloading motor vehicles. See [section 14905 of this title](./chapter-149-civil-and-criminal-penalties.md#section-14905).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11903"></a>
 ## § 11903. Record keeping and reporting violations
@@ -82,6 +85,9 @@ shall be fined not more than $5,000, imprisoned for not more than 2 years, or bo
 Provisions similar to those in this section were contained in [section 11909 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11909&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11903, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1457, related to rate, discrimination, and tariff violations, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 14903 of this title](./chapter-149-civil-and-criminal-penalties.md#section-14903).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11904"></a>
@@ -120,6 +126,9 @@ A prior section 11904, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1457; Pub. L. 9
 #### Amendments
 1997—Subsec. (a)(2). Pub. L. 105–102 struck out “a” before “person”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11905"></a>
 ## § 11905. Disobedience to subpoenas
@@ -132,6 +141,9 @@ A person not obeying a subpoena or requirement of the Board to appear and testif
 Provisions similar to those in this section were contained in [section 11913 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11913&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11905, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1459; Pub. L. 97–261, § 29(e), Sept. 20, 1982, 96 Stat. 1128, related to transportation of passengers without charge, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11906"></a>
@@ -152,6 +164,9 @@ A prior section 11906, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1459, related t
 #### Amendments
 1997—Pub. L. 105–102 substituted “violation of this part” for “violation of this title”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11907"></a>
 ## § 11907. Punishment of corporation for violations committed by certain individuals
@@ -164,6 +179,9 @@ An act or omission that would be a violation of this part if committed by a dire
 Provisions similar to those in this section were contained in [section 11915 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11915&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11907, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1459, related to interference with railroad car supply, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 11902 of this title](./chapter-119-civil-and-criminal-penalties.md#section-11902).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11908"></a>
@@ -197,3 +215,6 @@ Section 11915, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1464, related to punish
 Section 11916, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1464, related to conclusiveness of rates in certain prosecutions. See [section 14913 of this title](./chapter-149-civil-and-criminal-penalties.md#section-14913).
 
 Section 11917, added Pub. L. 96–454, § 9(a), Oct. 15, 1980, 94 Stat. 2021, related to weight-bumping in household goods transportation. See [section 14912 of this title](./chapter-149-civil-and-criminal-penalties.md#section-14912).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

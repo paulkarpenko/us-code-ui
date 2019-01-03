@@ -424,7 +424,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
   (C) A combination of payments described in subparagraphs (A) and (B).
 
-(3) A per diem allowance or maximum amount of reimbursement established for purposes of paragraph (2) shall be established, to the extent feasible, by locality.
+(3) A per diem allowance or maximum amount of reimbursement established for purposes of paragraph (2) shall be established, to the extent feasible, by locality. The Secretary of a military department shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the temporary duty assignment in the locality of a member of the armed forces under the jurisdiction of the Secretary.
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
@@ -539,6 +539,8 @@ Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 767], 96 Stat
 Dec. 29, 1981, Pub. L. 97–114, title VII, § 771, 95 Stat. 1590.
 
 #### Amendments
+2018—Subsec. (d)(3). Pub. L. 115–232 inserted at end “The Secretary of a military department shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the temporary duty assignment in the locality of a member of the armed forces under the jurisdiction of the Secretary.”
+
 2013—Subsec. (a)(6). Pub. L. 112–239, § 621(a)(1), added par. (6).
 
 Subsec. (f)(4). Pub. L. 112–239, § 621(a)(2), added par. (4).
@@ -680,8 +682,11 @@ Amendment by Pub. L. 90–168 effective on first day of first calendar month fol
 #### Termination of Amendments by Public Laws 99–500 and 99–591
 Pub. L. 100–26, § 8(a), Apr. 21, 1987, 101 Stat. 284, as amended by Pub. L. 100–180, div. A, title VI, § 612(b)(2), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendments made to [section 474(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d&num=0&edition=prelim), United States Code, by section 614(a) of the Defense Authorization Act [section 614(a) of Pub. L. 99–661] shall be executed as if that portion of section 9073 of the Defense Appropriations Act [section 101(c) [title IX, § 9073] of Pub. L. 99–500 and Pub. L. 99–591, enacting S.2638, § 615, which amended subsec. (d) of this section and enacted a provision set out as a note under this section] which is before the proviso had not been enacted. Such portion of section 9073 which is before the proviso shall not be in effect after the date of the enactment of this Act [Apr. 21, 1987], and the reference to ‘this section’ in such proviso shall be deemed to refer to section 614 of the Defense Authorization Act.”
 
+#### Repeal of Policy and Regulation
+Pub. L. 115–232, div. A, title VI, § 603(c)(1), Aug. 13, 2018, 132 Stat. 1795, provided that: “The policy, and any regulations issued pursuant to such policy, implemented by the Secretary of Defense on November 1, 2014, with respect to reductions in per diem allowances based on duration of temporary duty assignment or civilian travel shall have no force or effect.”
+
 #### Modification of Flat Rate Per Diem Requirement for Personnel on Long-Term Temporary Duty Assignments
-Pub. L. 114–328, div. A, title VI, § 672, Dec. 23, 2016, 130 Stat. 2178, provided that: “(a) Modification of Flat Rate.—“(1) In general.—The Secretary of Defense shall take such action as may be necessary to provide that, to the extent that regulations implementing travel and transportation authorities for military and civilian personnel of the Department of Defense impose a flat rate per diem for meals and incidental expenses for authorized travelers on long-term temporary duty assignments that is at a reduced rate compared to the per diem rate otherwise applicable, the Secretary concerned may waive the applicability of such reduced rate and pay such travelers actual expenses up to the full per diem rate for such travel in any case when the Secretary concerned determines that the reduced flat rate per diem for meals and incidental expenses is not sufficient under the circumstances of the temporary duty assignment. “(2) Applicability.—The Secretary concerned may exercise the authority provided pursuant to paragraph (1) with respect to per diem payable for any day on or after the date of the enactment of this Act [Dec. 23, 2016]. “(b) Delegation of Authority.—The authority pursuant to subsection (a) may be delegated by the Secretary concerned to an officer at the level of lieutenant general or vice admiral, or above. Such authority may not be delegated to an officer below that level. “(c) Waiver of Collection of Receipts.—The Secretary concerned or an officer to whom the authority pursuant to subsection (a) is delegated pursuant to subsection (b) may waive any requirement for the submittal of receipts by travelers on long-term temporary duty assignments for the purpose of receiving the full per diem rate pursuant to subsection (a) if the Secretary concerned or officer, as described in subsection (b), personally certifies that requiring travelers to submit receipts for that purpose will negatively affect mission performance or create an undue administrative burden. “(d) Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given that term in [section 101 of title 37](./chapter-001-definitions.md#section-101), United States Code.”
+Pub. L. 114–328, div. A, title VI, § 672, Dec. 23, 2016, 130 Stat. 2178, which related to waiver of reduced flat rate per diem for meals and incidental expenses for long-term temporary duty assignments, was repealed by Pub. L. 115–232, div. A, title VI, § 603(c)(2), Aug. 13, 2018, 132 Stat. 1795.
 
 #### Transmission of Certification of Travel and Transportation Allowances to Congress With Respect to Fiscal Year 1987
 Section 615(b) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) [title IX, § 9073] of Pub. L. 99–500 and Pub. L. 99–591, related to transmission to Congress by Secretary of Defense of certification of costs of travel and transportation allowances for fiscal year 1987. See Termination of Amendments by Public Laws 99–500 and 99–591 note above.
@@ -1200,6 +1205,30 @@ Except in the case of a member who, on the date of his separation, discharge, or
 
 (2) in a case covered by this section when such orders are not issued, with respect to a movement of baggage or household effects that begins after such date.
 
+**(p)**
+
+(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the armed forces for qualified relicensing costs of the spouse of the member when—
+
+  (A) the member is reassigned, either as a permanent change of station or permanent change of assignment, from a duty station in one State to a duty station in another State; and
+
+  (B) the movement of the member’s dependents is authorized at the expense of the United States under this section as part of the reassignment.
+
+(2) Reimbursement provided to a member under this subsection may not exceed $500 in connection with each reassignment described in paragraph (1).
+
+(3) Not later than December 31, 2021, the Secretary of Defense, in consultation with the Secretary of Homeland Security with respect to the Coast Guard, shall submit to the congressional defense committees, the Committee on Homeland Security and Government Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report—
+
+  (A) describing the extent to which the reimbursement authority provided by this subsection has been used; and
+
+  (B) containing a recommendation by the Secretaries regarding whether the authority should be extended beyond the date specified in paragraph (4).
+
+(4) No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after December 31, 2022.
+
+(5) In this subsection, the term “qualified relicensing costs” means costs, including exam and registration fees, that—
+
+  (A) are imposed by the State of the new duty station to secure a license or certification to engage in the same profession that the spouse of the member engaged in while in the State of the original duty station; and
+
+  (B) are paid or incurred by the member or spouse to secure the license or certification from the State of the new duty station after the date on which the orders directing the reassignment described in paragraph (1) are issued.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1270,6 +1299,8 @@ June 11, 1938, ch. 347, 52 Stat. 647.
 July 1, 1937, ch. 423, 50 Stat. 448.
 
 #### Amendments
+2017—Subsec. (p). Pub. L. 115–91 added subsec. (p).
+
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 Subsecs. (l) to (o). Pub. L. 112–239, § 621, added subsec. (l) and redesignated former subsecs. (l) to (n) as (m) to (o), respectively.
@@ -1988,11 +2019,13 @@ Pub. L. 99–145, title VI, § 619(b), Nov. 8, 1985, 99 Stat. 642, provided that
 
 **(d) Regulations.—** The Secretary concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-**(e) Termination.—** No reimbursement may be provided under this section for travel that occurs after December 31, 2017.
+**(e) Termination.—** No reimbursement may be provided under this section for travel that occurs after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (e). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (c). Pub. L. 114–328, § 621, substituted “(1) Except as provided by paragraph (2), the amount” for “The amount” and added par. (2).
 
 Subsec. (e). Pub. L. 114–328, § 611(7), substituted “December 31, 2017” for “December 31, 2016”.
@@ -2723,7 +2756,7 @@ Pub. L. 109–13, div. A, title I, § 1026(d), May 11, 2005, 119 Stat. 255, whic
 
 **(b) Eligibility.—** A member of the Army, Navy, Air Force, or Marine Corps or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—
 
-(1) assigned to duty as a recruiter for any of the armed forces;
+(1) assigned to duty at a recruiting facility of the armed forces;
 
 (2) assigned to duty at a military entrance processing facility of the armed forces; or
 
@@ -2734,6 +2767,8 @@ Pub. L. 109–13, div. A, title I, § 1026(d), May 11, 2005, 119 Stat. 255, whic
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232 substituted “at a recruiting facility” for “as a recruiter for any”.
+
 2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 411i of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-411i) as this section.
 
 Subsec. (c). Pub. L. 112–81, § 631(e)(22), added subsec. (c).
@@ -2944,7 +2979,7 @@ When he considers it necessary, the Secretary concerned may, with respect to the
 
 (1) section 2575, 2733, 4712, 6522, or 9712 of title 10;
 
-(2) [section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim); or
+(2) section 507 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14; or
 
 (3) chapter 171 of title 28.
 
@@ -3025,6 +3060,9 @@ Subsec. (b). Pub. L. 92–477, § 1(3), authorized additional movements of and t
 Pub. L. 90–236 inserted provision authorizing nontemporary storage of household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status.
 
 1967—Subsec. (a). Pub. L. 90–83 struck out “when it is located outside the United States, or in Alaska or Hawaii” after “shipped at United States expense”.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim) redesignated [section 2710 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2710&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.

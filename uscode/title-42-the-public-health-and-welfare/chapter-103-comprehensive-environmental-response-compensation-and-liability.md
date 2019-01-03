@@ -57,9 +57,19 @@ For purpose of this subchapter—
 
   (C) In the case of a hazardous substance which has been delivered by a common or contract carrier to a disposal or treatment facility and except as provided in section 9607(a)(3) or (4) of this title, (i) the term “owner or operator” shall not include such common or contract carrier, and (ii) such common or contract carrier shall not be considered to have caused or contributed to any release at such disposal or treatment facility resulting from circumstances or conditions beyond its control.
 
-  (D) The term “owner or operator” does not include a unit of State or local government which acquired ownership or control involuntarily through bankruptcy, tax delinquency, abandonment, or other circumstances in which the government involuntarily acquires title by virtue of its function as sovereign. The exclusion provided under this paragraph shall not apply to any State or local government which has caused or contributed to the release or threatened release of a hazardous substance from the facility, and such a State or local government shall be subject to the provisions of this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607).
+  (D) The term “owner or operator” does not include a unit of State or local government which acquired ownership or control through seizure or otherwise in connection with law enforcement activity, or through bankruptcy, tax delinquency, abandonment, or other circumstances in which the government acquires title by virtue of its function as sovereign. The exclusion provided under this paragraph shall not apply to any State or local government which has caused or contributed to the release or threatened release of a hazardous substance from the facility, and such a State or local government shall be subject to the provisions of this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607).
 
-  (E) *Exclusion of lenders not participants in management.—*
+  (E) *Exclusion of certain alaska native villages and native corporations.—*
+
+    (i) *In general.—* — The term “owner or operator” does not include, with respect to a facility conveyed to a Native village or Native Corporation (as those terms are defined in section 3 of the Alaska Native Claims Settlement Act [[43 U.S.C. 1602](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)]) under the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.]—
+
+      (I) the Native village or Native Corporation that received the facility from the United States Government; or
+
+      (II) a successor in interest to which the facility was conveyed under section 14(c) of such Act [[43 U.S.C. 1613(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1613/c&num=0&edition=prelim)].
+
+    (ii) *Limitation.—* — The exclusion provided under this subparagraph shall not apply to any entity described in clause (i) that causes or contributes to a release or threatened release of a hazardous substance from the facility conveyed as described in such clause.
+
+  (F) *Exclusion of lenders not participants in management.—*
 
     (i) *Indicia of ownership to protect security.—* — The term “owner or operator” does not include a person that is a lender that, without participating in the management of a vessel or facility, holds indicia of ownership primarily to protect the security interest of the person in the vessel or facility.
 
@@ -70,7 +80,7 @@ For purpose of this subchapter—
       (II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a response action under [section 9607(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9607/d/1&num=0&edition=prelim) or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
       if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements.
 
-  (F) *Participation in management.—* — For purposes of subparagraph (E)—
+  (G) *Participation in management.—* — For purposes of subparagraph (F)—
 
     (i) the term “participate in management”—
 
@@ -111,13 +121,13 @@ For purpose of this subchapter—
       (IX) conducting a response action under [section 9607(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9607/d&num=0&edition=prelim) or under the direction of an on-scene coordinator appointed under the National Contingency Plan,
       if the actions do not rise to the level of participating in management (within the meaning of clauses (i) and (ii)).
 
-  (G) *Other terms.—* — As used in this chapter:
+  (H) *Other terms.—* — As used in this chapter:
 
     (i) *Extension of credit.—* — The term “extension of credit” includes a lease finance transaction—
 
       (I) in which the lessor does not initially select the leased vessel or facility and does not during the lease term control the daily operations or maintenance of the vessel or facility; or
 
-      (II) that conforms with regulations issued by the appropriate Federal banking agency or the appropriate State bank supervisor (as those terms are defined in [section 1813 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim) 22 So in original. Probably should be followed by a closing parenthesis. or with regulations issued by the National Credit Union Administration Board, as appropriate.
+      (II) that conforms with regulations issued by the appropriate Federal banking agency or the appropriate State bank supervisor (as those terms are defined in [section 1813 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)) or with regulations issued by the National Credit Union Administration Board, as appropriate.
 
     (ii) *Financial or administrative function.—* — The term “financial or administrative function” includes a function such as that of a credit manager, accounts payable officer, accounts receivable officer, personnel manager, comptroller, or chief financial officer, or a similar function.
 
@@ -162,11 +172,11 @@ For purpose of this subchapter—
 
 (22) The term “release” means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment (including the abandonment or discarding of barrels, containers, and other closed receptacles containing any hazardous substance or pollutant or contaminant), but excludes (A) any release which results in exposure to persons solely within a workplace, with respect to a claim which such persons may assert against the employer of such persons, (B) emissions from the engine exhaust of a motor vehicle, rolling stock, aircraft, vessel, or pipeline pumping station engine, (C) release of source, byproduct, or special nuclear material from a nuclear incident, as those terms are defined in the Atomic Energy Act of 1954 [[42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.], if such release is subject to requirements with respect to financial protection established by the Nuclear Regulatory Commission under section 170 of such Act [[42 U.S.C. 2210](./chapter-023-development-and-control-of-atomic-energy.md#section-2210)], or, for the purposes of [section 9604 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9604) or any other response action, any release of source byproduct, or special nuclear material from any processing site designated under section 7912(a)(1) or 7942(a) of this title, and (D) the normal application of fertilizer.
 
-(23) The terms “remove” or “removal” means 33 So in original. Probably should be “mean”. the cleanup or removal of released hazardous substances from the environment, such actions as may be necessary taken in the event of the threat of release of hazardous substances into the environment, such actions as may be necessary to monitor, assess, and evaluate the release or threat of release of hazardous substances, the disposal of removed material, or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare or to the environment, which may otherwise result from a release or threat of release. The term includes, in addition, without being limited to, security fencing or other measures to limit access, provision of alternative water supplies, temporary evacuation and housing of threatened individuals not otherwise provided for, action taken under [section 9604(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/b&num=0&edition=prelim), and any emergency assistance which may be provided under the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.].
+(23) The terms “remove” or “removal” means 22 So in original. Probably should be “mean”. the cleanup or removal of released hazardous substances from the environment, such actions as may be necessary taken in the event of the threat of release of hazardous substances into the environment, such actions as may be necessary to monitor, assess, and evaluate the release or threat of release of hazardous substances, the disposal of removed material, or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare or to the environment, which may otherwise result from a release or threat of release. The term includes, in addition, without being limited to, security fencing or other measures to limit access, provision of alternative water supplies, temporary evacuation and housing of threatened individuals not otherwise provided for, action taken under [section 9604(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/b&num=0&edition=prelim), and any emergency assistance which may be provided under the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.].
 
-(24) The terms “remedy” or “remedial action” means 3 those actions consistent with permanent remedy taken instead of or in addition to removal actions in the event of a release or threatened release of a hazardous substance into the environment, to prevent or minimize the release of hazardous substances so that they do not migrate to cause substantial danger to present or future public health or welfare or the environment. The term includes, but is not limited to, such actions at the location of the release as storage, confinement, perimeter protection using dikes, trenches, or ditches, clay cover, neutralization, cleanup of released hazardous substances and associated contaminated materials, recycling or reuse, diversion, destruction, segregation of reactive wastes, dredging or excavations, repair or replacement of leaking containers, collection of leachate and runoff, onsite treatment or incineration, provision of alternative water supplies, and any monitoring reasonably required to assure that such actions protect the public health and welfare and the environment. The term includes the costs of permanent relocation of residents and businesses and community facilities where the President determines that, alone or in combination with other measures, such relocation is more cost-effective than and environmentally preferable to the transportation, storage, treatment, destruction, or secure disposition offsite of hazardous substances, or may otherwise be necessary to protect the public health or welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.
+(24) The terms “remedy” or “remedial action” means 2 those actions consistent with permanent remedy taken instead of or in addition to removal actions in the event of a release or threatened release of a hazardous substance into the environment, to prevent or minimize the release of hazardous substances so that they do not migrate to cause substantial danger to present or future public health or welfare or the environment. The term includes, but is not limited to, such actions at the location of the release as storage, confinement, perimeter protection using dikes, trenches, or ditches, clay cover, neutralization, cleanup of released hazardous substances and associated contaminated materials, recycling or reuse, diversion, destruction, segregation of reactive wastes, dredging or excavations, repair or replacement of leaking containers, collection of leachate and runoff, onsite treatment or incineration, provision of alternative water supplies, and any monitoring reasonably required to assure that such actions protect the public health and welfare and the environment. The term includes the costs of permanent relocation of residents and businesses and community facilities where the President determines that, alone or in combination with other measures, such relocation is more cost-effective than and environmentally preferable to the transportation, storage, treatment, destruction, or secure disposition offsite of hazardous substances, or may otherwise be necessary to protect the public health or welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.
 
-(25) The terms “respond” or “response” means 3 remove, removal, remedy, and remedial action;,44 So in original. all such terms (including the terms “removal” and “remedial action”) include enforcement activities related thereto.
+(25) The terms “respond” or “response” means 4 remove, removal, remedy, and remedial action;,33 So in original. all such terms (including the terms “removal” and “remedial action”) include enforcement activities related thereto.
 
 (26) The terms “transport” or “transportation” means 3 the movement of a hazardous substance by any mode, including a hazardous liquid pipeline facility (as defined in [section 60101(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section60101/a&num=0&edition=prelim)), and in the case of a hazardous substance which has been accepted for transportation by a common or contract carrier, the term “transport” or “transportation” shall include any stoppage in transit which is temporary, incidental to the transportation movement, and at the ordinary operating convenience of a common or contract carrier, and any such stoppage shall be considered as a continuity of movement and not as the storage of a hazardous substance.
 
@@ -178,7 +188,7 @@ For purpose of this subchapter—
 
 (30) The terms “territorial sea” and “contiguous zone” shall have the meaning provided in section 502 of the Federal Water Pollution Control Act [[33 U.S.C. 1362](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1362&num=0&edition=prelim)].
 
-(31) The term “national contingency plan” means the national contingency plan published under section 311(c) 55 See References in Text note below. of the Federal Water Pollution Control Act or revised pursuant to [section 9605 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9605).
+(31) The term “national contingency plan” means the national contingency plan published under section 311(c) 44 See References in Text note below. of the Federal Water Pollution Control Act or revised pursuant to [section 9605 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9605).
 
 (32) The terms “liable” or “liability” under this subchapter shall be construed to be the standard of liability which obtains under section 311 of the Federal Water Pollution Control Act [[33 U.S.C. 1321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321&num=0&edition=prelim)].
 
@@ -323,57 +333,81 @@ For purpose of this subchapter—
 
         (aa) is contaminated by petroleum or a petroleum product excluded from the definition of “hazardous substance” under this section; and
 
-        (bb) is a site determined by the Administrator or the State, as appropriate, to be—
-
-          (AA) of relatively low risk, as compared with other petroleum-only sites in the State; and
-
-          (BB) a site for which there is no viable responsible party and which will be assessed, investigated, or cleaned up by a person that is not potentially liable for cleaning up the site; and
+        (bb) is a site for which there is no viable responsible party and that is determined by the Administrator or the State, as appropriate, to be a site that will be assessed, investigated, or cleaned up by a person that is not potentially liable for cleaning up the site under this chapter or any other law pertaining to the cleanup of petroleum products; and
 
         (cc) is not subject to any order issued under section 9003(h) of the Solid Waste Disposal Act ([42 U.S.C. 6991b(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6991b/h&num=0&edition=prelim)); or
 
       (III) is mine-scarred land.
 
-(40) **Bona fide prospective purchaser.—** — The term “bona fide prospective purchaser” means a person (or a tenant of a person) that acquires ownership of a facility after January 11, 2002, and that establishes each of the following by a preponderance of the evidence:
+(40) **Bona fide prospective purchaser.—**
 
-  (A) *Disposal prior to acquisition.—* — All disposal of hazardous substances at the facility occurred before the person acquired the facility.
+  (A) *In general.—* — The term “bona fide prospective purchaser” means, with respect to a facility—
 
-  (B) *Inquiries.—*
+    (i) a person who—
 
-    (i) *In general.—* — The person made all appropriate inquiries into the previous ownership and uses of the facility in accordance with generally accepted good commercial and customary standards and practices in accordance with clauses (ii) and (iii).
+      (I) acquires ownership of the facility after January 11, 2002; and
 
-    (ii) *Standards and practices.—* — The standards and practices referred to in clauses (ii) and (iv) of paragraph (35)(B) shall be considered to satisfy the requirements of this subparagraph.
+      (II) establishes by a preponderance of the evidence each of the criteria described in clauses (i) through (viii) of subparagraph (B); and
 
-    (iii) *Residential use.—* — In the case of property in residential or other similar use at the time of purchase by a nongovernmental or noncommercial entity, a facility inspection and title search that reveal no basis for further investigation shall be considered to satisfy the requirements of this subparagraph.
+    (ii) a person—
 
-  (C) *Notices.—* — The person provides all legally required notices with respect to the discovery or release of any hazardous substances at the facility.
+      (I) who acquires a leasehold interest in the facility after January 11, 2002;
 
-  (D) *Care.—* — The person exercises appropriate care with respect to hazardous substances found at the facility by taking reasonable steps to—
+      (II) who establishes by a preponderance of the evidence that the leasehold interest is not designed to avoid liability under this chapter by any person; and
 
-    (i) stop any continuing release;
+      (III) with respect to whom any of the following conditions apply:
 
-    (ii) prevent any threatened future release; and
+        (aa) The owner of the facility that is subject to the leasehold interest is a person described in clause (i).
 
-    (iii) prevent or limit human, environmental, or natural resource exposure to any previously released hazardous substance.
+        (bb)
 
-  (E) *Cooperation, assistance, and access.—* — The person provides full cooperation, assistance, and access to persons that are authorized to conduct response actions or natural resource restoration at a vessel or facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response actions or natural resource restoration at the vessel or facility).
+          (AA) The owner of the facility that is subject to the leasehold interest was a person described in clause (i) at the time the leasehold interest was acquired, but can no longer establish by a preponderance of the evidence each of the criteria described in clauses (i) through (viii) of subparagraph (B) due to circumstances unrelated to any action of the person who holds the leasehold interest; and
 
-  (F) *Institutional control.—* — The person—
+          (BB) the person who holds the leasehold interest establishes by a preponderance of the evidence each of the criteria described in clauses (i), (iii), (iv), (v), (vi), (vii), and (viii) of subparagraph (B).
 
-    (i) is in compliance with any land use restrictions established or relied on in connection with the response action at a vessel or facility; and
+        (cc) The person who holds the leasehold interest establishes by a preponderance of the evidence each of the criteria described in clauses (i) through (viii) of subparagraph (B).
 
-    (ii) does not impede the effectiveness or integrity of any institutional control employed at the vessel or facility in connection with a response action.
+  (B) *Criteria.—* — The criteria described in this subparagraph are as follows:
 
-  (G) *Requests; subpoenas.—* — The person complies with any request for information or administrative subpoena issued by the President under this chapter.
+    (i) *Disposal prior to acquisition.—* — All disposal of hazardous substances at the facility occurred before the person acquired the facility.
 
-  (H) *No affiliation.—* — The person is not—
+    (ii) *Inquiries.—*
 
-    (i) potentially liable, or affiliated with any other person that is potentially liable, for response costs at a facility through—
+      (I) *In general.—* — The person made all appropriate inquiries into the previous ownership and uses of the facility in accordance with generally accepted good commercial and customary standards and practices in accordance with subclauses (II) and (III).
 
-      (I) any direct or indirect familial relationship; or
+      (II) *Standards and practices.—* — The standards and practices referred to in clauses (ii) and (iv) of paragraph (35)(B) shall be considered to satisfy the requirements of this clause.
 
-      (II) any contractual, corporate, or financial relationship (other than a contractual, corporate, or financial relationship that is created by the instruments by which title to the facility is conveyed or financed or by a contract for the sale of goods or services); or
+      (III) *Residential use.—* — In the case of property in residential or other similar use at the time of purchase by a nongovernmental or noncommercial entity, a facility inspection and title search that reveal no basis for further investigation shall be considered to satisfy the requirements of this clause.
 
-    (ii) the result of a reorganization of a business entity that was potentially liable.
+    (iii) *Notices.—* — The person provides all legally required notices with respect to the discovery or release of any hazardous substances at the facility.
+
+    (iv) *Care.—* — The person exercises appropriate care with respect to hazardous substances found at the facility by taking reasonable steps to—
+
+      (I) stop any continuing release;
+
+      (II) prevent any threatened future release; and
+
+      (III) prevent or limit human, environmental, or natural resource exposure to any previously released hazardous substance.
+
+    (v) *Cooperation, assistance, and access.—* — The person provides full cooperation, assistance, and access to persons that are authorized to conduct response actions or natural resource restoration at a vessel or facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response actions or natural resource restoration at the vessel or facility).
+
+    (vi) *Institutional control.—* — The person—
+
+      (I) is in compliance with any land use restrictions established or relied on in connection with the response action at a vessel or facility; and
+
+      (II) does not impede the effectiveness or integrity of any institutional control employed at the vessel or facility in connection with a response action.
+
+    (vii) *Requests; subpoenas.—* — The person complies with any request for information or administrative subpoena issued by the President under this chapter.
+
+    (viii) *No affiliation.—* — The person is not—
+
+      (I) potentially liable, or affiliated with any other person that is potentially liable, for response costs at a facility through—
+
+        (aa) any direct or indirect familial relationship; or
+
+        (bb) any contractual, corporate, or financial relationship (other than a contractual, corporate, or financial relationship that is created by the instruments by which title to the facility is conveyed or financed, by a tenancy, by the instruments by which a leasehold interest in the facility is created, or by a contract for the sale of goods or services); or
+
+      (II) the result of a reorganization of a business entity that was potentially liable.
 
 (41) **Eligible response site.—**
 
@@ -402,7 +436,7 @@ For purpose of this subchapter—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in pars. (5), (13), (20)(D), (G), (35)(C), (D), (39)(B)(iii), and (40)(G), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in pars. (5), (13), (20)(D), (G), (35)(C), (D), (39)(B)(iii), (D)(ii)(II)(bb), and (40)(A)(ii)(II), (B)(vii), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Safe Drinking Water Act, referred to in pars. (7), (10), and (39)(B)(iv), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -414,7 +448,9 @@ The Atomic Energy Act of 1954, referred to in pars. (10) and (22), is act Aug. 1
 
 The Solid Waste Disposal Act, referred to in pars. (14), (39)(B)(iv), (vi)(I), (ix), and (41)(B)(i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitles C and I of the Act are classified generally to subchapters III (§ 6921 et seq.) and IX (§ 6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
-The Farm Credit Act of 1971, referred to in par. (20)(G)(iv)(III), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (20)(E), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+
+The Farm Credit Act of 1971, referred to in par. (20)(H)(iv)(III), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
 
 The Disaster Relief and Emergency Assistance Act, referred to in par. (23), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
@@ -423,6 +459,26 @@ The Federal Water Pollution Control Act, referred to in par. (39)(B)(iv), is act
 The Toxic Substances Control Act, referred to in par. (39)(B)(iv), (viii)(II), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Par. (20)(D). Pub. L. 115–141, § 2, substituted “ownership or control through seizure or otherwise in connection with law enforcement activity, or through bankruptcy, tax delinquency, abandonment, or other circumstances in which the government acquires title by virtue” for “ownership or control involuntarily through bankruptcy, tax delinquency, abandonment, or other circumstances in which the government involuntarily acquires title by virtue”.
+
+Par. (20)(E), (F). Pub. L. 115–141, § 3(1), (2), added subpar. (E) and redesignated former subpar. (E) as (F). Former subpar. (F) redesignated (G).
+
+Par. (20)(G). Pub. L. 115–141, § 3(1), (3), redesignated subpar. (F) as (G) and substituted “subparagraph (F)” for “subparagraph (E)” in introductory provisions. Former subpar. (G) redesignated (H).
+
+Par. (20)(H). Pub. L. 115–141, § 3(1), (4), redesignated subpar. (G) as (H) and substituted “of title 12) or” for “of title 12 or” in cl. (i)(II).
+
+Par. (39)(D)(ii)(II)(bb). Pub. L. 115–141, § 4, amended item (bb) generally. Prior to amendment, item (bb) read as follows: “is a site determined by the Administrator or the State, as appropriate, to be—
+
+“(AA) of relatively low risk, as compared with other petroleum-only sites in the State; and
+
+“(BB) a site for which there is no viable responsible party and which will be assessed, investigated, or cleaned up by a person that is not potentially liable for cleaning up the site; and”.
+
+Par. (40). Pub. L. 115–141, § 5(a), made numerous amendments to structure of par. (40), resulting in substitution of subpar. (A) for former introductory provisions, insertion of subpar. (B) designation and introductory provisions, redesignation of former subpars. (A) to (H) as cls. (i) to (viii), respectively, of subpar. (B), and redesignation of cls. and subcls. within former subpars. (A) to (H) as subcls. and items, respectively, within cls (i) to (viii).
+
+Par. (40)(B). Pub. L. 115–141, § 5(a)(1)(B)–(D), just prior to redesignation of subpar. (B) as cl. (ii) of subpar. (B), substituted “subclauses (II) and (III)” for “clauses (ii) and (iii)” in subcl. (I) and “clause” for “subparagraph” in subcls. (II) and (III).
+
+Par. (40)(H)(i)(II). Pub. L. 115–141, § 5(a)(4)(A)(i), just prior to redesignation of subpar. (H)(i)(II) as cl. (viii)(I)(bb) of subpar. (B), inserted “, by a tenancy, by the instruments by which a leasehold interest in the facility is created,” after “financed”.
+
 2002—Par. (35)(A). Pub. L. 107–118, § 223(1), in introductory provisions substituted “deeds, easements, leases, or” for “deeds or” and in concluding provisions substituted “the defendant has satisfied” for “he has satisfied” and inserted before period at end “, provides full cooperation, assistance, and facility access to the persons that are authorized to conduct response actions at the facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action at the facility), is in compliance with any land use restrictions established or relied on in connection with the response action at a facility, and does not impede the effectiveness or integrity of any institutional control employed at the facility in connection with a response action”.
 
 Par. (35)(B). Pub. L. 107–118, § 223(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “To establish that the defendant had no reason to know, as provided in clause (i) of subparagraph (A) of this paragraph, the defendant must have undertaken, at the time of acquisition, all appropriate inquiry into the previous ownership and uses of the property consistent with good commercial or customary practice in an effort to minimize liability. For purposes of the preceding sentence the court shall take into account any specialized knowledge or experience on the part of the defendant, the relationship of the purchase price to the value of the property if uncontaminated, commonly known or reasonably ascertainable information about the property, the obviousness of the presence or likely presence of contamination at the property, and the ability to detect such contamination by appropriate inspection.”
@@ -512,6 +568,11 @@ Amendment by section 517(c)(2) of Pub. L. 99–499 effective Jan. 1, 1987, see s
 #### Effective Date of 1980 Amendment
 Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–141, div. N, § 1, Mar. 23, 2018, 132 Stat. 1052, provided that: “This division [amending this section and sections 9604, 9607, and 9628 of this title] may be cited as the ‘Brownfields Utilization, Investment, and Local Development Act of 2018’ or the ‘BUILD Act’.”
+
+Pub. L. 115–141, div. S, title XI, § 1101, Mar. 23, 2018, 132 Stat. 1147, provided that: “This title [amending [section 9603 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9603) and enacting provisions set out as a note under [section 9603 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9603)] may be cited as the ‘Fair Agricultural Reporting Method Act’ or the ‘FARM Act’.”
+
 #### Short Title of 2002 Amendments
 Pub. L. 107–118, § 1, Jan. 11, 2002, 115 Stat. 2356, provided that: “This Act [enacting [section 9628 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9628), amending this section and sections 9604, 9605, 9607, and 9622 of this title, and enacting provisions set out as notes under this section and [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607)] may be cited as the ‘Small Business Liability Relief and Brownfields Revitalization Act’.”
 
@@ -583,7 +644,31 @@ in a quantity equal to or greater than that determined pursuant to [section 9602
 
 (4) Notwithstanding the provisions of this subsection, the Administrator of the Environmental Protection Agency may in his discretion require any such person to retain any record identified pursuant to paragraph (1) of this subsection for such a time period in excess of the period specified in paragraph (2) of this subsection as the Administrator determines to be necessary to protect the public health or welfare.
 
-**(e) Applicability to registered pesticide product** This section shall not apply to the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act [[7 U.S.C. 136](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) et seq.] or to the handling and storage of such a pesticide product by an agricultural producer.
+**(e) Applicability to registered pesticide products and air emissions from animal waste at farms**
+
+(1) **In general** — This section shall not apply to—
+
+  (A) the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) et seq.) or the handling and storage of such a pesticide product by an agricultural producer; or
+
+  (B) air emissions from animal waste (including decomposing animal waste) at a farm.
+
+(2) **Definitions** — In this subsection:
+
+  (A) *Animal waste*
+
+    (i) *In general* — The term “animal waste” means feces, urine, or other excrement, digestive emission, urea, or similar substances emitted by animals (including any form of livestock, poultry, or fish).
+
+    (ii) *Inclusions* — The term “animal waste” includes animal waste that is mixed or commingled with bedding, compost, feed, soil, or any other material typically found with such waste.
+
+  (B) *Farm* — The term “farm” means a site or area (including associated structures) that—
+
+    (i) is used for—
+
+      (I) the production of a crop; or
+
+      (II) the raising or selling of animals (including any form of livestock, poultry, or fish); and
+
+    (ii) under normal conditions, produces during a farm year any agricultural products with a total value equal to not less than $1,000.
 
 **(f) Exemptions from notice and penalty provisions for substances reported under other Federal law or is in continuous release, etc.** No notification shall be required under subsection (a) or (b) of this section for any release of a hazardous substance—
 
@@ -606,9 +691,11 @@ The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title I
 
 This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–141 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “This section shall not apply to the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act or to the handling and storage of such a pesticide product by an agricultural producer.”
+
 1996—Subsec. (b)(2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 1986—Subsec. (b). Pub. L. 99–499, §§ 103, 109(a), adjusted left hand margin of text following “federally permitted release,” third place appearing so that there is no indentation of that text, inserted “or who submits in such a notification any information which he knows to be false or misleading”, and substituted “in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both” for “not more than $10,000 or imprisoned for not more than one year, or both” and “subsection” for “paragraph”.
@@ -622,6 +709,9 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1
 
 #### Effective Date of 1980 Amendment
 Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+
+#### Application
+Pub. L. 115–141, div. S, title XI, § 1103, Mar. 23, 2018, 132 Stat. 1148, provided that: “Nothing in this title [see Short Title of 2018 Amendment note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601)] or an amendment made by this title affects, or supersedes or modifies the responsibility or authority of any Federal official or employee to comply with or enforce, any requirement under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) et seq.), other than the hazardous substance notification requirements under section 103 of that Act ([42 U.S.C. 9603](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9603)) with respect to air emissions from animal waste at farms.”
 
 #### Contiguous Zone of United States
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
@@ -795,7 +885,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 **(g) Rates for wages and labor standards applicable to covered work**
 
-(1) All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall not approve any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
+(1) All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section or [section 9628(a)(1)(B)(ii)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9628/a/1/B/ii/III&num=0&edition=prelim) shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall not approve any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
 
 (2) The Secretary of Labor shall have, with respect to the labor standards specified in paragraph (1), the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
@@ -945,9 +1035,17 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
   (F) a State;
 
-  (G) an Indian Tribe other than in Alaska; or
+  (G) an Indian Tribe other than in Alaska;
 
-  (H) an Alaska Native Regional Corporation and an Alaska Native Village Corporation as those terms are defined in the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and following) and the Metlakatla Indian community.
+  (H) an Alaska Native Regional Corporation and an Alaska Native Village Corporation as those terms are defined in the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and following) and the Metlakatla Indian community;
+
+  (I) an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from taxation under section 501(a) of that title;
+
+  (J) a limited liability corporation in which all managing members are organizations described in subparagraph (I) or limited liability corporations whose sole members are organizations described in subparagraph (I);
+
+  (K) a limited partnership in which all general partners are organizations described in subparagraph (I) or limited liability corporations whose sole members are organizations described in subparagraph (I); or
+
+  (L) a qualified community development entity (as defined in [section 45D(c)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section45D/c/1&num=0&edition=prelim)).
 
 (2) **Brownfield site characterization and assessment grant program**
 
@@ -963,13 +1061,15 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
     (ii) *Site characterization and assessment* — A site characterization and assessment carried out with the use of a grant under clause (i) shall be performed in accordance with [section 9601(35)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/35/B&num=0&edition=prelim).
 
+  (C) *Exemption for certain publicly owned brownfield sites* — Notwithstanding paragraph (5)(B)(iii), an eligible entity described in any of subparagraphs (A) through (H) of paragraph (1) may receive a grant under this paragraph for property acquired by that eligible entity prior to January 11, 2002, even if the eligible entity does not qualify as a bona fide prospective purchaser, so long as the eligible entity has not caused or contributed to a release or threatened release of a hazardous substance at the property.
+
 (3) **Grants and loans for brownfield remediation**
 
-  (A) *Grants provided by the President* — Subject to paragraphs (4) and (5), the President shall establish a program to provide grants to—
+  (A) *Grants provided by the President* — Subject to paragraphs (5) and (6), the President shall establish a program to provide grants to—
 
     (i) eligible entities, to be used for capitalization of revolving loan funds; and
 
-    (ii) eligible entities or nonprofit organizations, where warranted, as determined by the President based on considerations under subparagraph (C), to be used directly for remediation of one or more brownfield sites owned by the entity or organization that receives the grant and in amounts not to exceed $200,000 for each site to be remediated.
+    (ii) eligible entities or nonprofit organizations, where warranted, as determined by the President based on considerations under subparagraph (C), to be used directly for remediation of one or more brownfield sites owned by the entity or organization that receives the grant and in amounts not to exceed $500,000 for each site to be remediated, which limit may be waived by the Administrator, but not to exceed a total of $650,000 for each site, based on the anticipated level of contamination, size, or ownership status of the site.
 
   (B) *Loans and grants provided by eligible entities* — An eligible entity that receives a grant under subparagraph (A)(i) shall use the grant funds to provide assistance for the remediation of brownfield sites in the form of—
 
@@ -991,7 +1091,31 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
   (D) *Transition* — Revolving loan funds that have been established before January 11, 2002, may be used in accordance with this paragraph.
 
-(4) **General provisions**
+  (E) *Exemption for certain publicly owned brownfield sites* — Notwithstanding paragraph (5)(B)(iii), an eligible entity described in any of subparagraphs (A) through (H) of paragraph (1) may receive a grant or loan under this paragraph for property acquired by that eligible entity prior to January 11, 2002, even if the eligible entity does not qualify as a bona fide prospective purchaser, so long as the eligible entity has not caused or contributed to a release or threatened release of a hazardous substance at the property.
+
+(4) **Multipurpose brownfields grants**
+
+  (A) *In general* — Subject to subparagraph (D) and paragraphs (5) and (6), the Administrator shall establish a program to provide multipurpose grants to an eligible entity based on the criteria under subparagraph (C) and the considerations under paragraph (3)(C), to carry out inventory, characterization, assessment, planning, or remediation activities at 1 or more brownfield sites in an area proposed by the eligible entity.
+
+  (B) *Grant amounts*
+
+    (i) *Individual grant amounts* — Each grant awarded under this paragraph shall not exceed $1,000,000.
+
+    (ii) *Cumulative grant amounts* — The total amount of grants awarded for each fiscal year under this paragraph may not exceed 15 percent of the funds made available for the fiscal year to carry out this subsection.
+
+  (C) *Criteria* — In awarding a grant under this paragraph, the Administrator shall consider the extent to which the eligible entity is able—
+
+    (i) to provide an overall plan for revitalization of the 1 or more brownfield sites in the proposed area in which the multipurpose grant will be used;
+
+    (ii) to demonstrate a capacity to conduct the range of eligible activities that will be funded by the multipurpose grant; and
+
+    (iii) to demonstrate that a multipurpose grant will meet the needs of the 1 or more brownfield sites in the proposed area.
+
+  (D) *Condition* — As a condition of receiving a grant under this paragraph, each eligible entity shall expend the full amount of the grant by not later than the date that is 5 years after the date on which the grant is awarded to the eligible entity, unless the Administrator provides an extension.
+
+  (E) *Ownership* — An eligible entity that receives a grant under this paragraph may not expend any of the grant funds for the remediation of a brownfield site unless the eligible entity owns the brownfield site.
+
+(5) **General provisions**
 
   (A) *Maximum grant amount*
 
@@ -1011,29 +1135,15 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
       (IV) such other similar factors as the Administrator considers appropriate to carry out this subsection.
 
-  (B) *Prohibition*
+  (B) *Prohibition* — No part of a grant or loan under this subsection may be used for the payment of—
 
-    (i) *In general* — No part of a grant or loan under this subsection may be used for the payment of—
+    (i) a penalty or fine;
 
-      (I) a penalty or fine;
+    (ii) a Federal cost-share requirement;
 
-      (II) a Federal cost-share requirement;
+    (iii) a response cost at a brownfield site for which the recipient of the grant or loan is potentially liable under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607); or
 
-      (III) an administrative cost;
-
-      (IV) a response cost at a brownfield site for which the recipient of the grant or loan is potentially liable under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607); or
-
-      (V) a cost of compliance with any Federal law (including a Federal law specified in [section 9601(39)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/39/B&num=0&edition=prelim)), excluding the cost of compliance with laws applicable to the cleanup.
-
-    (ii) *Exclusions* — For the purposes of clause (i)(III), the term “administrative cost” does not include the cost of—
-
-      (I) investigation and identification of the extent of contamination;
-
-      (II) design and performance of a response action; or
-
-      (III) monitoring of a natural resource.
-
-    (iii) *Exception* — Notwithstanding clause (i)(IV), the Administrator may use up to 25 percent of the funds made available to carry out this subsection to make a grant or loan under this subsection to eligible entities that satisfy all of the elements set forth in [section 9601(40) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/40&num=0&edition=prelim) to qualify as a bona fide prospective purchaser, except that the date of acquisition of the property was on or before January 11, 2002.
+    (iv) a cost of compliance with any Federal law (including a Federal law specified in [section 9601(39)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/39/B&num=0&edition=prelim)), excluding the cost of compliance with laws applicable to the cleanup.
 
   (C) *Assistance for development of local government site remediation programs* — A local government that receives a grant under this subsection may use not to exceed 10 percent of the grant funds to develop and implement a brownfields program that may include—
 
@@ -1041,9 +1151,21 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
     (ii) monitoring and enforcement of any institutional control used to prevent human exposure to any hazardous substance from a brownfield site.
 
-  (D) *Insurance* — A recipient of a grant or loan awarded under paragraph (2) or (3) that performs a characterization, assessment, or remediation of a brownfield site may use a portion of the grant or loan to purchase insurance for the characterization, assessment, or remediation of that site.
+  (D) *Insurance* — A recipient of a grant or loan awarded under paragraph (2), (3), or (4) that performs a characterization, assessment, or remediation of a brownfield site may use a portion of the grant or loan to purchase insurance for the characterization, assessment, or remediation of that site.
 
-(5) **Grant applications**
+  (E) *Administrative costs*
+
+    (i) *In general* — An eligible entity may use up to 5 percent of the amounts made available under a grant or loan under this subsection for administrative costs.
+
+    (ii) *Restriction* — For purposes of clause (i), the term “administrative costs” does not include—
+
+      (I) investigation and identification of the extent of contamination of a brownfield site;
+
+      (II) design and performance of a response action; or
+
+      (III) monitoring of a natural resource.
+
+(6) **Grant applications**
 
   (A) *Submission*
 
@@ -1085,13 +1207,23 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
     (x) The extent to which a grant would address or facilitate the identification and reduction of threats to the health or welfare of children, pregnant women, minority or low-income communities, or other sensitive populations.
 
-(6) **Implementation of brownfields programs**
+    (xi) The extent to which a grant would address a site adjacent to a body of water or a federally designated flood plain.
+
+    (xii) The extent to which a grant would facilitate—
+
+      (I) the location at a brownfield site of a facility that generates renewable electricity from wind, solar, or geothermal energy; or
+
+      (II) any energy efficiency improvement project at a brownfield site, including a project for a combined heat and power system or a district energy system.
+
+  (D) *Report on ranking criteria* — Not later than September 30, 2022, the Administrator shall submit to Congress a report regarding the Administrator’s use of the ranking criteria described in subparagraph (C) in awarding grants under this subsection.
+
+(7) **Implementation of brownfields programs**
 
   (A) *Establishment of program* — The Administrator may provide, or fund eligible entities or nonprofit organizations to provide, training, research, and technical assistance to individuals and organizations, as appropriate, to facilitate the inventory of brownfield sites, site assessments, remediation of brownfield sites, community involvement, or site preparation.
 
   (B) *Funding restrictions* — The total Federal funds to be expended by the Administrator under this paragraph shall not exceed 15 percent of the total amount appropriated to carry out this subsection in any fiscal year.
 
-(7) **Audits**
+(8) **Audits**
 
   (A) *In general* — The Inspector General of the Environmental Protection Agency shall conduct such reviews or audits of grants and loans under this subsection as the Inspector General considers necessary to carry out this subsection.
 
@@ -1105,11 +1237,11 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
     (iii) seek any other legal remedies available to the Administrator.
 
-  (D) *Report to Congress* — Not later than 3 years after January 11, 2002, the Inspector General of the Environmental Protection Agency shall submit to Congress a report that provides a description of the management of the program (including a description of the allocation of funds under this subsection).
+  (D) *Report to Congress* — Not later than September 30, 2022, the Inspector General of the Environmental Protection Agency shall submit to Congress a report that provides a description of the management of the program (including a description of the allocation of funds under this subsection).
 
-(8) **Leveraging** — An eligible entity that receives a grant under this subsection may use the grant funds for a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2) or (3).
+(9) **Leveraging** — An eligible entity that receives a grant under this subsection may use the grant funds for a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2), (3), or (4).
 
-(9) **Agreements** — Each grant or loan made under this subsection shall—
+(10) **Agreements** — Each grant or loan made under this subsection shall—
 
   (A) include a requirement of the National Contingency Plan only to the extent that the requirement is relevant and appropriate to the program under this subsection, as determined by the Administrator; and
 
@@ -1121,15 +1253,15 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
       (II) ensure that the cleanup protects human health and the environment;
 
-    (ii) requires that the recipient use the grant or loan exclusively for purposes specified in paragraph (2) or (3), as applicable;
+    (ii) requires that the recipient use the grant or loan exclusively for purposes specified in paragraph (2), (3), or (4), as applicable;
 
     (iii) in the case of an application by an eligible entity under paragraph (3)(A), requires the eligible entity to pay a matching share (which may be in the form of a contribution of labor, material, or services) of at least 20 percent, from non-Federal sources of funding, unless the Administrator determines that the matching share would place an undue hardship on the eligible entity; and
 
     (iv) contains such other terms and conditions as the Administrator determines to be necessary to carry out this subsection.
 
-(10) **Facility other than brownfield site** — The fact that a facility may not be a brownfield site within the meaning of [section 9601(39)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/39/A&num=0&edition=prelim) has no effect on the eligibility of the facility for assistance under any other provision of Federal law.
+(11) **Facility other than brownfield site** — The fact that a facility may not be a brownfield site within the meaning of [section 9601(39)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/39/A&num=0&edition=prelim) has no effect on the eligibility of the facility for assistance under any other provision of Federal law.
 
-(11) **Effect on Federal laws** — Nothing in this subsection affects any liability or response authority under any Federal law, including—
+(12) **Effect on Federal laws** — Nothing in this subsection affects any liability or response authority under any Federal law, including—
 
   (A) this chapter (including the last sentence of [section 9601(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/14&num=0&edition=prelim));
 
@@ -1141,37 +1273,73 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
   (E) the Safe Drinking Water Act ([42 U.S.C. 300f](./chapter-6a-public-health-service.md#section-300f) et seq.).
 
-(12) **Funding**
-
-  (A) *Authorization of appropriations* — There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2002 through 2006.
-
-  (B) *Use of certain funds* — Of the amount made available under subparagraph (A), $50,000,000, or, if the amount made available is less than $200,000,000, 25 percent of the amount made available, shall be used for site characterization, assessment, and remediation of facilities described in [section 9601(39)(D)(ii)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/39/D/ii/II&num=0&edition=prelim).
+(13) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
 
-The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(11)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
+The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(12)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
 Title III of the Amendments and Reauthorization Act of 1986, referred to in subsec. (e)(7)(E)(i), probably means title III of the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§ 11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under [section 11001 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11001) and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (g)(2), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Toxic Substances Control Act, referred to in subsecs. (i)(5)(C), (D) and (k)(11)(D), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in subsecs. (i)(5)(C), (D) and (k)(12)(D), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (i)(5)(C), (D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (k)(1)(H), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (k)(11)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (k)(12)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (k)(11)(E), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Safe Drinking Water Act, referred to in subsec. (k)(12)(E), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 In subsec. (g)(1), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and, in subsec. (g)(2), “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” substituted for “[section 276c of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276c&num=0&edition=prelim) of the United States Code”, on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2018—Subsec. (g)(1). Pub. L. 115–141, § 14(b), inserted “or [section 9628(a)(1)(B)(ii)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9628/a/1/B/ii/III&num=0&edition=prelim)” after “under this section”.
+
+Subsec. (k). Pub. L. 115–141, § 9(4), substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)” wherever appearing.
+
+Subsec. (k)(1)(I) to (L). Pub. L. 115–141, § 6, added subpars. (I) to (L).
+
+Subsec. (k)(2)(C). Pub. L. 115–141, § 7(1), added subpar. (C).
+
+Subsec. (k)(3)(A). Pub. L. 115–141, § 9(2), substituted “Subject to paragraphs (5) and (6)” for “Subject to paragraphs (4) and (5)” in introductory provisions.
+
+Subsec. (k)(3)(A)(ii). Pub. L. 115–141, § 8, substituted “$500,000 for each site to be remediated, which limit may be waived by the Administrator, but not to exceed a total of $650,000 for each site, based on the anticipated level of contamination, size, or ownership status of the site” for “$200,000 for each site to be remediated”.
+
+Subsec. (k)(3)(E). Pub. L. 115–141, § 7(2), added subpar. (E).
+
+Subsec. (k)(4). Pub. L. 115–141, § 9(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (k)(5). Pub. L. 115–141, § 9(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (k)(5)(B). Pub. L. 115–141, § 10(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to prohibited uses of grants or loans under subsec. (k).
+
+Subsec. (k)(5)(E). Pub. L. 115–141, § 10(2), added subpar. (E).
+
+Subsec. (k)(6). Pub. L. 115–141, § 9(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (k)(6)(C)(xi), (xii). Pub. L. 115–141, § 11(a), added cls. (xi) and (xii).
+
+Subsec. (k)(6)(D). Pub. L. 115–141, § 11(b), added subpar. (D).
+
+Subsec. (k)(7). Pub. L. 115–141, § 9(1), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (k)(8). Pub. L. 115–141, § 9(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Subsec. (k)(8)(D). Pub. L. 115–141, § 12, substituted “September 30, 2022” for “3 years after January 11, 2002”.
+
+Subsec. (k)(9) to (12). Pub. L. 115–141, § 9(1), redesignated pars. (8) to (11) as (9) to (12), respectively. Former par. (12) redesignated (13).
+
+Subsec. (k)(13). Pub. L. 115–141, § 13, amended par. (13) generally. Prior to amendment, par. (13) authorized appropriations for fiscal years 2002 through 2006 and specified conditions on use of certain funds.
+
+Pub. L. 115–141, § 9(1), redesignated par. (12) as (13).
+
 2005—Subsec. (k)(4)(B)(iii). Pub. L. 109–59 added cl. (iii).
 
 2004—Subsec. (k)(7)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
@@ -1778,7 +1946,7 @@ The amounts recoverable in an action under this section shall include interest o
 
 **(r) Prospective purchaser and windfall lien**
 
-(1) **Limitation on liability** — Notwithstanding subsection (a)(1), a bona fide prospective purchaser whose potential liability for a release or threatened release is based solely on the purchaser’s being considered to be an owner or operator of a facility shall not be liable as long as the bona fide prospective purchaser does not impede the performance of a response action or natural resource restoration.
+(1) **Limitation on liability** — Notwithstanding subsection (a)(1), a bona fide prospective purchaser whose potential liability for a release or threatened release is based solely on the bona fide prospective purchaser being considered to be an owner or operator of a facility shall not be liable as long as the bona fide prospective purchaser does not impede the performance of a response action or natural resource restoration.
 
 (2) **Lien** — If there are unrecovered response costs incurred by the United States at a facility for which an owner of the facility is not liable by reason of paragraph (1), and if each of the conditions described in paragraph (3) is met, the United States shall have a lien on the facility, or may by agreement with the owner, obtain from the owner a lien on any other property or other assurance of payment satisfactory to the Administrator, for the unrecovered response costs.
 
@@ -1824,6 +1992,8 @@ The Hazardous and Solid Waste Amendments of 1984, referred to in subsec. (k)(6)(
 The Small Business Act, referred to in subsec. (p)(1), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (r)(1). Pub. L. 115–141 substituted “bona fide prospective purchaser being considered” for “purchaser’s being considered”.
+
 2002—Subsecs. (o), (p). Pub. L. 107–118, § 102(a), added subsecs. (o) and (p).
 
 Subsec. (q). Pub. L. 107–118, § 221, added subsec. (q).
@@ -3797,9 +3967,25 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title VI, § 6001(a)], Nov. 29, 1999, 
 
     (ii) *Additional uses* — In addition to the uses under clause (i), a State or Indian tribe may use a grant under this subsection to—
 
-      (I) capitalize a revolving loan fund for brownfield remediation under [section 9604(k)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/k/3&num=0&edition=prelim); or
+      (I) capitalize a revolving loan fund for brownfield remediation under [section 9604(k)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/k/3&num=0&edition=prelim);
 
-      (II) purchase insurance or develop a risk sharing pool, an indemnity pool, or insurance mechanism to provide financing for response actions under a State response program.
+      (II) purchase insurance or develop a risk sharing pool, an indemnity pool, or insurance mechanism to provide financing for response actions under a State response program; or
+
+      (III) assist small communities, Indian tribes, rural areas, or disadvantaged areas in carrying out activities described in [section 9604(k)(7)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/k/7/A&num=0&edition=prelim) with respect to brownfield sites.
+
+    (iii) *Small communities, Indian tribes, rural areas, and disadvantaged areas*
+
+      (I) *In general* — To make grants to States or Indian tribes under clause (ii)(III), the Administrator may use, in addition to amounts available to carry out this subsection, not more than $1,500,000 of the amounts made available to carry out [section 9604(k)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/k/7&num=0&edition=prelim) in each fiscal year.
+
+      (II) *Limitation* — Each grant made under subclause (I) may be not more than $20,000.
+
+      (III) *Inclusion in other grants* — The Administrator may, at the request of a State or Indian tribe, include a grant under this clause in any other grant to the State or Indian tribe made under this subsection.
+
+    (iv) *Definitions* — In this subparagraph:
+
+      (I) *Disadvantaged area* — The term “disadvantaged area” means a community with an annual median household income that is less than 80 percent of the statewide annual median household income, as determined by the President based on the latest available decennial census.
+
+      (II) *Small community* — The term “small community” means a community with a population of not more than 15,000 individuals, as determined by the President based on the latest available decennial census.
 
 (2) **Elements** — The elements of a State or Indian tribe response program referred to in paragraph (1)(A)(i) are the following:
 
@@ -3829,7 +4015,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title VI, § 6001(a)], Nov. 29, 1999, 
 
   (D) Mechanisms for approval of a cleanup plan, and a requirement for verification by and certification or similar documentation from the State, an Indian tribe, or a licensed site professional to the person conducting a response action indicating that the response is complete.
 
-(3) **Funding** — There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006.
+(3) **Funding** — There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2019 through 2023.
 
 **(b) Enforcement in cases of a release subject to State program**
 
@@ -3916,6 +4102,13 @@ The Federal Water Pollution Control Act, referred to in subsec. (c)(3), is act J
 The Toxic Substances Control Act, referred to in subsec. (c)(4), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (c)(5), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+
+#### Amendments
+2018—Subsec. (a)(1)(B)(ii)(III). Pub. L. 115–141, § 14(a)(1), added subcl. (III).
+
+Subsec. (a)(1)(B)(iii), (iv). Pub. L. 115–141, § 14(a)(2), added cls. (iii) and (iv).
+
+Subsec. (a)(3). Pub. L. 115–141, § 15, amended par. (3) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006.”
 
 
 <a id="section-9631-to-9633"></a>

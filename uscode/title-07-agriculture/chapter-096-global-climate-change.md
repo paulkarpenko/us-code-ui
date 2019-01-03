@@ -162,19 +162,22 @@ The Secretary is authorized to undertake, through the Forest Service’s Northea
 
 
 <a id="section-6708"></a>
-## § 6708. Biomass energy demonstration projects
+## § 6708. Repealed. Pub. L. 115–334, title VIII, § 8301(a), Dec. 20, 2018, 132 Stat. 4840
 
-The Secretary, in consultation with the Secretary of Energy, may carry out projects that demonstrate the potential of short-rotation silvicultural methods to produce wood for electricity production and industrial energy needs. In carrying out such projects, the Secretary shall cooperate with private industries, Federal and State agencies, and other organizations.
+### Statutory Notes
+
+Section, Pub. L. 101–624, title XXIV, § 2410, Nov. 28, 1990, 104 Stat. 4061, related to biomass energy demonstration projects.
 
 
 <a id="section-6709"></a>
 ## § 6709. Interagency cooperation to maximize biomass growth
 
-The Secretary may enter into an agreement with the Secretary of Defense to—
+The Secretary may enter into an agreement with the Secretary of Defense to develop a program to manage forests and land on Department of Defense military installations so as to maximize their potential for biomass growth and sequestering carbon dioxide.
 
-(1) conduct a study of reforestation and improved management of Department of Defense military installations and lands; and
+### Statutory Notes
 
-(2) develop a program to manage such forests and lands so as to maximize their potential for biomass growth and sequestering carbon dioxide.
+#### Amendments
+2018—Pub. L. 115–334 substituted “to” for “to—” and “develop a program to manage forests and land on Department of Defense military installations” for “(2) develop a program to manage such forests and lands” and struck out par. (1) which read as follows: “conduct a study of reforestation and improved management of Department of Defense military installations and lands; and”.
 
 
 <a id="section-6710"></a>
@@ -294,8 +297,6 @@ This chapter, referred to in text, was in the original “this title”, meaning
 ### Statutory Notes
 
 #### Codification
-Another section 9009 of Pub. L. 107–171 is classified to [section 8109 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8109).
-
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Agricultural Risk Protection Act of 2000, and not as part of the Global Climate Change Prevention Act of 1990 which comprises this chapter.

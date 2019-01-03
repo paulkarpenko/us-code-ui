@@ -684,7 +684,25 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
   (B) *Requirement for cooperation* — The first grants to which paragraph (4) applies are grants for the fiscal year beginning after September 4, 2003.
 
-(8) **Background checks for auditors** — An individual seeking certification by the Department of Justice to serve as an auditor of prison compliance with the national standards described in subsection (a) shall, upon request, submit fingerprints in the manner determined by the Attorney General for criminal history record checks of the applicable State and Federal Bureau of Investigation repositories.
+(8) **Standards for auditors**
+
+  (A) *In general*
+
+    (i) *Background checks for auditors* — An individual seeking certification by the Department of Justice to serve as an auditor of prison compliance with the national standards described in subsection (a) shall, upon request, submit fingerprints in the manner determined by the Attorney General for criminal history record checks of the applicable State and Federal Bureau of Investigation repositories.
+
+    (ii) *Certification agreements* — Each auditor certified under this paragraph shall sign a certification agreement that includes the provisions of, or provisions that are substantially similar to, the Bureau of Justice Assistance’s Auditor Certification Agreement in use in April 2018.
+
+    (iii) *Auditor evaluation* — The PREA Management Office of the Bureau of Justice Assistance shall evaluate all auditors based on the criteria contained in the certification agreement. In the case that an auditor fails to comply with a certification agreement or to conduct audits in accordance with the PREA Auditor Handbook, audit methodology, and instrument approved by the PREA Management Office, the Office may take remedial or disciplinary action, as appropriate, including decertifying the auditor in accordance with subparagraph (B).
+
+  (B) *Auditor decertification*
+
+    (i) *In general* — The PREA Management Office may suspend an auditor’s certification during an evaluation of an auditor’s performance under subparagraph (A)(iii). The PREA Management Office shall promptly publish the names of auditors who have been decertified, and the reason for decertification. Auditors who have been decertified or are on suspension may not participate in audits described in subsection (a), including as an agent of a certified auditor.
+
+    (ii) *Notification* — In the case that an auditor is decertified, the PREA Management Office shall inform each facility or agency at which the auditor performed an audit during the relevant 3-year audit cycle, and may recommend that the agency repeat any affected audits, if appropriate.
+
+  (C) *Audit assignments* — The PREA Management Office shall establish a system, to be administered by the Office, for assigning certified auditors to Federal, State, and local facilities.
+
+  (D) *Disclosure of documentation* — The Director of the Bureau of Prisons shall comply with each request for documentation necessary to conduct an audit under subsection (a), which is made by a certified auditor in accordance with the provisions of the certification agreement described in subparagraph (A)(ii). The Director of the Bureau of Prisons may require an auditor to sign a confidentiality agreement or other agreement designed to address the auditor’s use of personally identifiable information, except that such an agreement may not limit an auditor’s ability to provide all such documentation to the Department of Justice, as required under section 115.401(j) of title 28, Code of Federal Regulations.
 
 ### Statutory Notes
 
@@ -692,6 +710,8 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 Section was formerly classified to [section 15607 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15607&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (e)(8). Pub. L. 115–274 amended par. (8) generally. Prior to amendment, text read as follows: “An individual seeking certification by the Department of Justice to serve as an auditor of prison compliance with the national standards described in subsection (a) shall, upon request, submit fingerprints in the manner determined by the Attorney General for criminal history record checks of the applicable State and Federal Bureau of Investigation repositories.”
+
 2016—Subsec. (e)(1)(A)(iii). Pub. L. 114–324, § 5, added cl. (iii).
 
 Subsec. (e)(2). Pub. L. 114–324, § 7(2)(A), added par. (2) and struck out former par. (2) which read as follows: “For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—

@@ -111,12 +111,9 @@ In order to minimize the burden caused by existing application and reporting pro
 
 **(c)** The funds received under a consolidated grant shall be expended in furtherance of the programs and purposes authorized for any of the grants which are being consolidated, which are authorized under any of the Acts administered by the department or agency making the grant, and which would be applicable to grants for such programs and purposes in the absence of the consolidation, but the Insular Areas shall determine the proportion of the funds granted which shall be allocated to such programs and purposes.
 
-**(d)** Each department or agency making grants-in-aid shall, by regulations published in the Federal Register, provide the method by which any Insular Area may submit (i) a single application for a consolidated grant for any fiscal year period, but not more than one such application for a consolidated grant shall be required by any department or agency unless notice of such requirement is transmitted to the appropriate committees of the United States Congress together with a complete explanation of the necessity for requiring such additional applications and (ii) a single report to such department or agency with respect to each such consolidated grant: Provided, That nothing in this paragraph shall preclude such department or agency from providing adequate procedures for accounting, auditing, evaluating, and reviewing any programs or activities receiving benefits from any consolidated grant. The administering authority of any department or agency, in its discretion, may (i) waive any requirement for matching funds otherwise required by law to be provided by the Insular Area involved and (ii) waive the requirement that any Insular Area submit an application or report in writing with respect to any consolidated grant.
+**(d)** Each department or agency making grants-in-aid shall, by regulations published in the Federal Register, provide the method by which any Insular Area may submit (i) a single application for a consolidated grant for any fiscal year period, but not more than one such application for a consolidated grant shall be required by any department or agency unless notice of such requirement is transmitted to the appropriate committees of the United States Congress together with a complete explanation of the necessity for requiring such additional applications and (ii) a single report to such department or agency with respect to each such consolidated grant: Provided, That nothing in this paragraph shall preclude such department or agency from providing adequate procedures for accounting, auditing, evaluating, and reviewing any programs or activities receiving benefits from any consolidated grant. The administering authority of any department or agency, in its discretion, may 11 See Application of Subsection (d) to Department of the Interior note below. (i) waive any requirement for matching funds otherwise required by law to be provided by the Insular Area involved and (ii) waive the requirement that any Insular Area submit an application or report in writing with respect to any consolidated grant.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 96–205, title VI, § 601, Mar. 12, 1980, 94 Stat. 90, as amended Pub. L. 98–213, § 6, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–454, title VI, § 601(b), Oct. 5, 1984, 98 Stat. 1736, provided that this section shall be applied with respect to the Department of the Interior by substituting “shall” for “may” in the last sentence of subsection (d), and adding the following sentence at the end of subsection (d): “Notwithstanding any other provision of law, in the case of American Samoa, Guam, the Virgin Islands, and the Northern Mariana Islands any department or agency shall waive any requirement for local matching funds under $200,000 (including in-kind contributions) required by law to be provided by American Samoa, Guam, the Virgin Islands, or the Northern Mariana Islands.”
 
 #### Amendments
 1978—Pub. L. 95–348, § 9(1), in introductory provision inserted “, notwithstanding any provision of law to the contrary,” after “Congress”.
@@ -128,6 +125,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Maintenance or Level of Effort Requirements; Adjustment or Modification by Administrator of Environmental Protection Agency
 Pub. L. 99–396, § 12(a), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding assistance grants, consolidated under the provisions of title V of the Act entitled ‘An Act to authorize certain appropriations for the territories of the United States, to amend certain Acts related thereto, and for other purposes’ (91 Stat. 1159, as amended) [[42 U.S.C. 4368b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4368b&num=0&edition=prelim); [48 U.S.C. 1469a](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1469a)], to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands or the Virgin Islands, the Administrator of the Environmental Protection Agency may, in his discretion, adjust or otherwise modify maintenance or level of effort requirements.”
+
+#### Application of Subsection (d) to Department of the Interior
+Pub. L. 96–205, title VI, § 601, Mar. 12, 1980, 94 Stat. 90, as amended Pub. L. 98–213, § 6, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–454, title VI, § 601(b), Oct. 5, 1984, 98 Stat. 1736, provided that this section shall be applied with respect to the Department of the Interior by substituting “shall” for “may” in the last sentence of subsection (d), and adding the following sentence at the end of subsection (d): “Notwithstanding any other provision of law, in the case of American Samoa, Guam, the Virgin Islands, and the Northern Mariana Islands any department or agency shall waive any requirement for local matching funds under $200,000 (including in-kind contributions) required by law to be provided by American Samoa, Guam, the Virgin Islands, or the Northern Mariana Islands.”
 
 
 <a id="section-1469a-1"></a>
@@ -154,7 +154,7 @@ Public Law 99–366, referred to in text, is Pub. L. 99–366, July 31, 1986, 10
 
 
 <a id="section-1469b"></a>
-## § 1469b. Auditing of transactions of Territorial and local governments
+## § 1469b. Auditing of transactions of territorial and local governments
 
 All financial transactions of the territorial and local governments herein provided for, including such transactions of all agencies or instrumentalities established or used by such governments, may be audited by the Government Accountability Office, at its discretion, in accordance with chapter 35 of title 31.
 
@@ -168,6 +168,8 @@ Section is from the appropriation act cited as the credit to this section.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 452.
 
 Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2542.
 

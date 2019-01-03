@@ -135,7 +135,7 @@ Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal comp
 
 **(b) Notification**
 
-(1) **Recipients of notice** — Notice required under subsection (a) shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to [section 11001(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001/c&num=0&edition=prelim), for any area likely to be affected by the release and to the State emergency planning commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
+(1) **Recipients of notice** — Notice required under subsection (a) shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to [section 11001(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001/c&num=0&edition=prelim), for any area likely to be affected by the release and to the State emergency response commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
 
 (2) **Contents** — Notice required under subsection (a) shall include each of the following (to the extent known at the time of the notice and so long as no delay in responding to the emergency results):
 
@@ -165,10 +165,45 @@ Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal comp
 
 **(d) Transportation exemption not applicable** The exemption provided in [section 11047 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11047) (relating to transportation) does not apply to this section.
 
+**(e) Addressing source water used for drinking water**
+
+(1) **Applicable State agency notification** — A State emergency response commission shall—
+
+  (A) promptly notify the applicable State agency of any release that requires notice under subsection (a);
+
+  (B) provide to the applicable State agency the information identified in subsection (b)(2); and
+
+  (C) provide to the applicable State agency a written followup emergency notice in accordance with subsection (c).
+
+(2) **Community water system notification**
+
+  (A) *In general* — An applicable State agency receiving notice of a release under paragraph (1) shall—
+
+    (i) promptly forward such notice to any community water system the source waters of which are affected by the release;
+
+    (ii) forward to the community water system the information provided under paragraph (1)(B); and
+
+    (iii) forward to the community water system the written followup emergency notice provided under paragraph (1)(C).
+
+  (B) *Direct notification* — In the case of a State that does not have an applicable State agency, the State emergency response commission shall provide the notices and information described in paragraph (1) directly to any community water system the source waters of which are affected by a release that requires notice under subsection (a).
+
+(3) **Definitions** — In this subsection:
+
+  (A) *Community water system* — The term “community water system” has the meaning given such term in section 1401(15) of the Safe Drinking Water Act [[42 U.S.C. 300f(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f/15&num=0&edition=prelim)].
+
+  (B) *Applicable State agency* — The term “applicable State agency” means the State agency that has primary responsibility to enforce the requirements of the Safe Drinking Water Act in the State.
+
 ### Statutory Notes
 
 #### References in Text
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and CERCLA, referred to in subsec. (a)(1), (3), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
+
+The Safe Drinking Water Act, referred to in subsec. (e)(3)(B), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+
+#### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–270, § 2018(a)(1), substituted “State emergency response commission” for “State emergency planning commission”.
+
+Subsec. (e). Pub. L. 115–270, § 2018(a)(2), added subsec. (e).
 
 
 <a id="section-11005"></a>
@@ -333,7 +368,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), 
 
 **(e) Availability of tier II information**
 
-(1) **Availability to State commissions, local committees, and fire departments** — Upon request by a State emergency planning commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person making the request. Any such request shall be with respect to a specific facility.
+(1) **Availability to State commissions, local committees, and fire departments** — Upon request by a State emergency response commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person making the request. Any such request shall be with respect to a specific facility.
 
 (2) **Availability to other State and local officials** — A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
 
@@ -347,6 +382,12 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), 
 
   (D) *Response in 45 days* — A State emergency response commission or local emergency planning committee shall respond to a request for tier II information under this paragraph no later than 45 days after the date of receipt of the request.
 
+(4) **Availability to community water systems**
+
+  (A) *In general* — An affected community water system may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the affected community water system.
+
+  (B) *Definition* — In this paragraph, the term “affected community water system” means a community water system (as defined in [section 300f(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f/15&num=0&edition=prelim)) that receives supplies of drinking water from a source water area, delineated under [section 300j–13 of this title](./chapter-6a-public-health-service.md#section-300j-13), in which a facility that is required to prepare and submit an inventory form under subsection (a)(1) is located.
+
 **(f) Fire department access** Upon request to an owner or operator of a facility which files an inventory form under this section by the fire department with jurisdiction over the facility, the owner or operator of the facility shall allow the fire department to conduct an on-site inspection of the facility and shall provide to the fire department specific location information on hazardous chemicals at the facility.
 
 **(g) Format of forms** The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
@@ -355,6 +396,11 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), 
 
 #### References in Text
 The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) and (d)(1)(A), (C)(i), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Subsec. (e)(1). Pub. L. 115–270, § 2018(b)(1), substituted “State emergency response commission” for “State emergency planning commission”.
+
+Subsec. (e)(4). Pub. L. 115–270, § 2018(b)(2), added par. (4).
 
 
 <a id="section-11023"></a>

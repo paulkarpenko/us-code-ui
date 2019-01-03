@@ -14,13 +14,18 @@ The Postal Service shall provide for the transportation of mail in accordance wi
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-5002"></a>
 ## § 5002. Transportation of mail of adjoining countries through the United States
 
 The Postal Service, with the consent of the President, may make arrangements to allow the mail of countries adjoining the United States to be transported over the territory of the United States from one point in that country to any other point therein, at the expense of the country to which the mail belongs, upon obtaining a like privilege for the transportation of United States mail through the country to which the privilege is granted.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-5003"></a>
@@ -38,11 +43,21 @@ The following are post roads:
 
 (5) letter-carrier routes established for the collection and delivery of mail.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-5004"></a>
 ## § 5004. Discontinuance of service on post roads
 
 The Postal Service may discontinue service on a post road or part thereof when, in its opinion, the public interest so requires.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-5005"></a>
@@ -90,6 +105,9 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-5006"></a>
 ## § 5006. Lien on compensation of contractor
@@ -103,6 +121,11 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 shall have a lien on money due the contractor or subcontractor for the service.
 
 **(b)** The Postal Service may pay the person establishing a lien under subsection (a) of this section the sum due him, when the contractor or subcontractor fails to pay the person the amount of his lien within 2 months after the expiration of the month in which the service was performed. It shall charge the amount so paid to the contract. The payments may not exceed the annual rate of pay of the contractor or subcontractor.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-5007"></a>
@@ -119,3 +142,6 @@ shall have a lien on money due the contractor or subcontractor for the service.
 
 #### Amendments
 1994—Pub. L. 103–272 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).

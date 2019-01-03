@@ -29,7 +29,7 @@ In this chapter:
 Rule 23 of the Federal Rules of Civil Procedure, referred to in par. (2), is set out in the Appendix to this title.
 
 #### Effective Date
-Chapter applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under [section 1332 of this title](./chapter-085-district-courts-jurisdiction.md#section-1332).
+Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under [section 1332 of this title](./chapter-085-district-courts-jurisdiction.md#section-1332).
 
 #### Findings and Purposes
 Pub. L. 109–2, § 2, Feb. 18, 2005, 119 Stat. 4, provided that: “(a) Findings.—Congress finds the following:“(1) Class action lawsuits are an important and valuable part of the legal system when they permit the fair and efficient resolution of legitimate claims of numerous parties by allowing the claims to be aggregated into a single action against a defendant that has allegedly caused harm. “(2) Over the past decade, there have been abuses of the class action device that have—“(A) harmed class members with legitimate claims and defendants that have acted responsibly; “(B) adversely affected interstate commerce; and “(C) undermined public respect for our judicial system. “(3) Class members often receive little or no benefit from class actions, and are sometimes harmed, such as where—“(A) counsel are awarded large fees, while leaving class members with coupons or other awards of little or no value; “(B) unjustified awards are made to certain plaintiffs at the expense of other class members; and “(C) confusing notices are published that prevent class members from being able to fully understand and effectively exercise their rights. “(4) Abuses in class actions undermine the national judicial system, the free flow of interstate commerce, and the concept of diversity jurisdiction as intended by the framers of the United States Constitution, in that State and local courts are—“(A) keeping cases of national importance out of Federal court; “(B) sometimes acting in ways that demonstrate bias against out-of-State defendants; and “(C) making judgments that impose their view of the law on other States and bind the rights of the residents of those States. “(b) Purposes.—The purposes of this Act [see Short Title of 2005 Amendments note set out under [section 1 of this title](./chapter-001-supreme-court.md#section-1)] are to—“(1) assure fair and prompt recoveries for class members with legitimate claims; “(2) restore the intent of the framers of the United States Constitution by providing for Federal court consideration of interstate cases of national importance under diversity jurisdiction; and “(3) benefit society by encouraging innovation and lowering consumer prices.”
@@ -55,17 +55,32 @@ Pub. L. 109–2, § 2, Feb. 18, 2005, 119 Stat. 4, provided that: “(a) Finding
 
 **(e) Judicial Scrutiny of Coupon Settlements.—** In a proposed settlement under which class members would be awarded coupons, the court may approve the proposed settlement only after a hearing to determine whether, and making a written finding that, the settlement is fair, reasonable, and adequate for class members. The court, in its discretion, may also require that a proposed settlement agreement provide for the distribution of a portion of the value of unclaimed coupons to 1 or more charitable or governmental organizations, as agreed to by the parties. The distribution and redemption of any proceeds under this subsection shall not be used to calculate attorneys’ fees under this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under [section 1332 of this title](./chapter-085-district-courts-jurisdiction.md#section-1332).
+
 
 <a id="section-1713"></a>
 ## § 1713. Protection against loss by class members
 
 The court may approve a proposed settlement under which any class member is obligated to pay sums to class counsel that would result in a net loss to the class member only if the court makes a written finding that nonmonetary benefits to the class member substantially outweigh the monetary loss.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under [section 1332 of this title](./chapter-085-district-courts-jurisdiction.md#section-1332).
+
 
 <a id="section-1714"></a>
 ## § 1714. Protection against discrimination based on geographic location
 
 The court may not approve a proposed settlement that provides for the payment of greater sums to some class members than to others solely on the basis that the class members to whom the greater sums are to be paid are located in closer geographic proximity to the court.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under [section 1332 of this title](./chapter-085-district-courts-jurisdiction.md#section-1332).
 
 
 <a id="section-1715"></a>
@@ -127,3 +142,8 @@ The court may not approve a proposed settlement that provides for the payment of
 (3) **Application of rights.—** — The rights created by this subsection shall apply only to class members or any person acting on a class member’s behalf, and shall not be construed to limit any other rights affecting a class member’s participation in the settlement.
 
 **(f) Rule of Construction.—** Nothing in this section shall be construed to expand the authority of, or impose any obligations, duties, or responsibilities upon, Federal or State officials.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under [section 1332 of this title](./chapter-085-district-courts-jurisdiction.md#section-1332).

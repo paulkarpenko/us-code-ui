@@ -57,11 +57,21 @@ Except as provided in sections 2006 and 2007 of this title, it shall be unlawful
 
   (C) of the exercise by such employee or prospective employee, on behalf of such employee or another person, of any right afforded by this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under [section 2001 of this title](./chapter-022-employee-polygraph-protection.md#section-2001).
+
 
 <a id="section-2003"></a>
 ## § 2003. Notice of protection
 
 The Secretary shall prepare, have printed, and distribute a notice setting forth excerpts from, or summaries of, the pertinent provisions of this chapter. Each employer shall post and maintain such notice in conspicuous places on its premises where notices to employees and applicants to employment are customarily posted.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under [section 2001 of this title](./chapter-022-employee-polygraph-protection.md#section-2001).
 
 
 <a id="section-2004"></a>
@@ -75,6 +85,11 @@ The Secretary shall prepare, have printed, and distribute a notice setting forth
 (3) make investigations and inspections and require the keeping of records necessary or appropriate for the administration of this chapter.
 
 **(b) Subpoena authority** For the purpose of any hearing or investigation under this chapter, the Secretary shall have the authority contained in sections 49 and 50 of title 15.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under [section 2001 of this title](./chapter-022-employee-polygraph-protection.md#section-2001).
 
 
 <a id="section-2005"></a>
@@ -98,6 +113,11 @@ The Secretary shall prepare, have printed, and distribute a notice setting forth
 (3) **Costs** — The court, in its discretion, may allow the prevailing party (other than the United States) reasonable costs, including attorney’s fees.
 
 **(d) Waiver of rights prohibited** The rights and procedures provided by this chapter may not be waived by contract or otherwise, unless such waiver is part of a written settlement agreed to and signed by the parties to the pending action or complaint under this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under [section 2001 of this title](./chapter-022-employee-polygraph-protection.md#section-2001).
 
 
 <a id="section-2006"></a>
@@ -201,6 +221,9 @@ Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356,
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under [section 193 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section193&num=0&edition=prelim), Armed Forces.
 
+#### Effective Date
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under [section 2001 of this title](./chapter-022-employee-polygraph-protection.md#section-2001).
+
 
 <a id="section-2007"></a>
 ## § 2007. Restrictions on use of exemptions
@@ -294,6 +317,11 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
   (B) maintains all opinions, reports, charts, written questions, lists, and other records relating to the test for a minimum period of 3 years after administration of the test.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under [section 2001 of this title](./chapter-022-employee-polygraph-protection.md#section-2001).
+
 
 <a id="section-2008"></a>
 ## § 2008. Disclosure of information
@@ -313,8 +341,18 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 (2) a governmental agency, but only insofar as the disclosed information is an admission of criminal conduct.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under [section 2001 of this title](./chapter-022-employee-polygraph-protection.md#section-2001).
+
 
 <a id="section-2009"></a>
 ## § 2009. Effect on other law and agreements
 
 Except as provided in subsections (a), (b), and (c) of [section 2006 of this title](./chapter-022-employee-polygraph-protection.md#section-2006), this chapter shall not preempt any provision of any State or local law or of any negotiated collective bargaining agreement that prohibits lie detector tests or is more restrictive with respect to lie detector tests than any provision of this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under [section 2001 of this title](./chapter-022-employee-polygraph-protection.md#section-2001).

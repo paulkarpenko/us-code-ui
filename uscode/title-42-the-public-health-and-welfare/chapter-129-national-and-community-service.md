@@ -746,7 +746,7 @@ A prior section 12521, Pub. L. 101–610, title I, § 111, as added Pub. L. 103�
 Another prior section 12521, Pub. L. 101–610, title I, § 111, Nov. 16, 1990, 104 Stat. 3132; Pub. L. 102–10, § 4(2), Mar. 12, 1991, 105 Stat. 30, prescribed general authority of Commission on National and Community Service to make grants for service-learning programs, prior to repeal by Pub. L. 103–82, title I, § 103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 
 #### Effective Date
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12523"></a>
@@ -771,6 +771,9 @@ In this part:
 A prior section 12522, Pub. L. 101–610, title I, § 111A, as added Pub. L. 103–82, title I, § 103(a)(2), Sept. 21, 1993, 107 Stat. 827, granted the Corporation authority to assist local applicants in nonparticipating States, prior to the general amendment of this part by Pub. L. 111–13.
 
 Another prior section 12522, Pub. L. 101–610, title I, § 112, Nov. 16, 1990, 104 Stat. 3133; Pub. L. 102–10, § 4(3), Mar. 12, 1991, 105 Stat. 30; Pub. L. 102–384, § 4, Oct. 5, 1992, 106 Stat. 1455, related to allotments, prior to repeal by Pub. L. 103–82, § 103(a)(2).
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12524"></a>
@@ -878,6 +881,9 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
 
 <a id="section-12525"></a>
 ## § 12525. Allotments
@@ -904,6 +910,9 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1
 A prior section 12524, Pub. L. 101–610, title I, § 112, as added Pub. L. 103–82, title I, § 103(a)(2), Sept. 21, 1993, 107 Stat. 827; amended Pub. L. 103–382, title III, §§ 391(y), 394(h)(2), Oct. 20, 1994, 108 Stat. 4026, 4028, related to grants and allotments, prior to the general amendment of this part by Pub. L. 111–13.
 
 Another prior section 12524, Pub. L. 101–610, title I, § 114, Nov. 16, 1990, 104 Stat. 3135; Pub. L. 102–10, § 4(4), Mar. 12, 1991, 105 Stat. 30, related to local applications for assistance, prior to repeal by Pub. L. 103–82, § 103(a)(2).
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12526"></a>
@@ -961,6 +970,9 @@ Another prior section 12525, Pub. L. 101–610, title I, § 115, Nov. 16, 1990, 
 
 A prior section 113 of Pub. L. 101–610 was classified to [section 12523 of this title](./chapter-129-national-and-community-service.md#section-12523) prior to repeal by Pub. L. 103–82.
 
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
 
 <a id="section-12527"></a>
 ## § 12527. Consideration of applications
@@ -978,6 +990,9 @@ A prior section 12526, Pub. L. 101–610, title I, § 114, as added Pub. L. 103�
 Another prior section 12526, Pub. L. 101–610, title I, § 116, Nov. 16, 1990, 104 Stat. 3138; Pub. L. 102–384, § 4, Oct. 5, 1992, 106 Stat. 1455, prescribed Federal and local project contributions, prior to repeal by Pub. L. 103–82, § 103(a)(2).
 
 A prior section 114 of Pub. L. 101–610 was classified to [section 12524 of this title](./chapter-129-national-and-community-service.md#section-12524) prior to repeal by Pub. L. 103–82.
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12528"></a>
@@ -998,6 +1013,9 @@ A prior section 12527, Pub. L. 101–610, title I, § 115, as added Pub. L. 103�
 Another prior section 12527, Pub. L. 101–610, title I, § 117, Nov. 16, 1990, 104 Stat. 3138; Pub. L. 102–10, § 4(5), Mar. 12, 1991, 105 Stat. 30, prescribed authorized uses of funds, prior to repeal by Pub. L. 103–82, § 103(a)(2).
 
 A prior section 115 of Pub. L. 101–610 was classified to [section 12525 of this title](./chapter-129-national-and-community-service.md#section-12525) prior to repeal by Pub. L. 103–82.
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12529"></a>
@@ -1033,6 +1051,9 @@ A prior section 12528, Pub. L. 101–610, title I, § 115A, as added Pub. L. 103
 A prior section 116 of Pub. L. 101–610 was classified to [section 12529 of this title](./chapter-129-national-and-community-service.md#section-12529) prior to the general amendment of this part by Pub. L. 111–13.
 
 Another prior section 116 of Pub. L. 101–610 was classified to [section 12526 of this title](./chapter-129-national-and-community-service.md#section-12526) prior to repeal by Pub. L. 103–82.
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12561"></a>
@@ -1104,6 +1125,9 @@ A prior section 12554, Pub. L. 101–610, title I, § 134, Nov. 16, 1990, 104 St
 A prior section 12555, Pub. L. 101–610, title I, § 135, Nov. 16, 1990, 104 Stat. 3149, which related to Federal and State employee status, was successively renumbered section 199O, then 199M, of Pub. L. 101–610 by Pub. L. 103–82, § 101(a), (e)(8)(B), and transferred to [section 12655n of this title](./chapter-129-national-and-community-service.md#section-12655n).
 
 A prior section 12556, Pub. L. 101–610, title I, § 136, Nov. 16, 1990, 104 Stat. 3150, directed Commission on National and Community Service to promulgate regulations implementing American Conservation Youth Corps program and established procedures for promulgation, prior to repeal by Pub. L. 102–10, § 5(7), Mar. 12, 1991, 105 Stat. 31.
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12561a"></a>
@@ -1261,7 +1285,7 @@ Subsecs. (c) to (i). Pub. L. 111–13, § 1202(b)(3)–(5), added subsecs. (c) t
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 #### Effective Date
-Part effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12563"></a>
@@ -1458,7 +1482,7 @@ A prior section 119 of Pub. L. 101–610 was renumbered section 118 and is class
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12571"></a>
@@ -1608,12 +1632,16 @@ Subsec. (f). Pub. L. 111–13, § 1301(6), added subsec. (f).
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 #### Effective Date
-Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 #### Overall Minimum Share Requirement
-Pub. L. 115–31, div. H, title IV, § 402, May 5, 2017, 131 Stat. 555, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
+Pub. L. 115–245, div. B, title IV, § 402, Sept. 28, 2018, 132 Stat. 3110, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. H, title IV, § 402, Mar. 23, 2018, 132 Stat. 756.
+
+Pub. L. 115–31, div. H, title IV, § 402, May 5, 2017, 131 Stat. 555.
 
 Pub. L. 114–113, div. H, title IV, § 404, Dec. 18, 2015, 129 Stat. 2642.
 
@@ -2073,6 +2101,9 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+
 
 <a id="section-12574"></a>
 ## § 12574. Types of national service positions eligible for approval for national service educational awards
@@ -2123,6 +2154,9 @@ Pars. (7), (8). Pub. L. 111–13, § 1303(5), (6), added par. (7) and redesignat
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+
 
 <a id="section-12575"></a>
 ## § 12575. Types of program assistance
@@ -2140,6 +2174,9 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 A prior section 12574, Pub. L. 101–610, title I, § 144, Nov. 16, 1990, 104 Stat. 3152, related to terms of service for national and community service, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 [former part D of this subchapter] by Pub. L. 103–82, § 102(a).
 
 A prior section 124 of Pub. L. 101–610 was renumbered section 199D, and is classified to [section 12655c of this title](./chapter-129-national-and-community-service.md#section-12655c).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12576"></a>
@@ -2227,6 +2264,9 @@ Subsec. (c)(3). Pub. L. 111–13, § 1305(3)(B), added par. (3) and struck out f
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12581a"></a>
@@ -2348,6 +2388,9 @@ A prior section 129 of Pub. L. 101–610 was renumbered section 199H and is clas
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12582"></a>
@@ -2501,6 +2544,9 @@ Subsec. (h). Pub. L. 111–13, § 1308(5), (8), redesignated subsec. (g) as (h) 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+
 
 <a id="section-12584"></a>
 ## § 12584. National service program assistance requirements
@@ -2578,6 +2624,9 @@ Subsec. (c)(3). Pub. L. 111–13, § 1309(2), added par. (3) and struck out form
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+
 
 <a id="section-12584a"></a>
 ## § 12584a. Ineligible service categories
@@ -2612,6 +2661,9 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 
 
 #### Prior Provisions
 A prior section 132 of Pub. L. 101–610 was renumbered section 199L and classified to [section 12655k of this title](./chapter-129-national-and-community-service.md#section-12655k), prior to repeal by Pub. L. 103–82, § 101(e)(8)(A).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12585"></a>
@@ -2786,6 +2838,9 @@ Subsec. (g). Pub. L. 111–13, § 1311(5), redesignated subsec. (f) as (g).
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+
 
 <a id="section-12592"></a>
 ## § 12592. Description of participants
@@ -2827,6 +2882,9 @@ Subsec. (c). Pub. L. 111–13, § 1312(3), substituted “(a)(4)” for “(a)(5
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12593"></a>
@@ -2875,6 +2933,9 @@ Subsec. (e)(2)(C). Pub. L. 111–13, § 1313(2), inserted “, particularly thos
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12594"></a>
@@ -2934,6 +2995,9 @@ Subsec. (c)(2)(B). Pub. L. 111–13, § 1314(2)(B)(ii), struck out “to allow r
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12595"></a>
@@ -3016,6 +3080,9 @@ Subsecs. (g), (h). Pub. L. 111–13, § 1315(5), struck out subsecs. (g) and (h)
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+
 
 <a id="section-12601"></a>
 ## § 12601. National service educational awards
@@ -3031,6 +3098,9 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Prior Provisions
 A prior section 141 of Pub. L. 101–610 was classified to [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) prior to the general amendment of subtitle D of title I of Pub. L. 101–610 [former part D of this subchapter] by Pub. L. 103–82, § 102(a).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12601a"></a>
@@ -3099,7 +3169,7 @@ Subsec. (d)(4). Pub. L. 111–13, § 1401(b)(3)(C), (D), inserted “, additiona
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 #### Effective Date
-Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 #### Segal AmeriCorps Education Award
 Pub. L. 109–234, title VII, § 7014, June 15, 2006, 120 Stat. 484, provided that: “Any national service educational award described in subtitle D of title I of the National and Community Service Act of 1990 ([42 U.S.C. 12601](./chapter-129-national-and-community-service.md#section-12601) et seq.), made with funds appropriated to, funds transferred to, or interest accumulated in the National Service Trust, shall hereafter be known as a ‘Segal AmeriCorps Education Award’.”
@@ -3231,6 +3301,9 @@ Subsec. (e)(1). Pub. L. 111–13, § 1402(6), inserted “or under [section 1256
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+
 #### Study To Evaluate the Effectiveness of Agency Coordination
 Pub. L. 111–13, title I, § 1711, Apr. 21, 2009, 123 Stat. 1550, provided that: “(a) Study.—In order to reduce administrative burdens and lower costs for national service programs carried out under the national service laws, the Corporation shall conduct a study to determine the feasibility and effectiveness of implementing a data matching system under which the statements of an individual declaring that such individual is in compliance with the requirements of section 146(a)(3) of the National and Community Service Act of 1990 ([42 U.S.C. 12602(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12602/a/3&num=0&edition=prelim)) shall be verified by the Corporation by comparing information provided by the individual with information relevant to such a declaration in the possession of other Federal agencies. Such study shall—“(1) review the feasibility of—“(A) expanding, and participating in, the data matching conducted by the Department of Education with the Social Security Administration and the Department of Homeland Security, pursuant to section 484(g) of the Higher Education Act of 1965 ([20 U.S.C. 1091(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1091/g&num=0&edition=prelim)); or “(B) establishing a comparable system of data matching with the Social Security Administration and the Department of Homeland Security; and “(2) identify—“(A) the costs, for both the Corporation and the other Federal agencies identified in paragraph (1), associated with expanding or establishing such a system of data matching; “(B) the benefits or detriments of such an expanded or comparable system both for the Corporation and for the other Federal agencies so identified; “(C) strategies for ensuring the privacy and security of participant information that is shared between Federal agencies and organizations receiving assistance under the national service laws; “(D) the information that needs to be shared in order to fulfill the eligibility requirements of section 146(a)(3) of the National and Community Service Act of 1990 ([42 U.S.C. 12602(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12602/a/3&num=0&edition=prelim)); “(E) an alternative system through which an individual’s compliance with section 146(a)(3) of such Act may be verified, should such an expanded or comparable system fail to verify the individual’s declaration of compliance; and “(F) recommendations for implementation of such an expanded or comparable system. “(b) Consultation.—The Corporation shall carry out the study in consultation with the Secretary of Education, the Commissioner of the Social Security Administration, the Secretary of Homeland Security, and other Federal agencies, entities, and individuals that the Corporation considers appropriate. “(c) Report.—Not later than 9 months after the effective date of this Act [for general effective date of Pub. L. 111–13 as Oct. 1, 2009, see Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950)], the Corporation shall submit to the authorizing committees a report on the results of the study required by subsection (a) and a plan for implementation of a pilot data matching program using promising strategies and approaches identified in such study, if the Corporation determines such program to be feasible. “(d) Pilot Program.—From amounts made available to carry out this section, the Corporation may develop and carry out a pilot data matching program based on the report submitted under subsection (c). “(e) Definitions.—In this section, the terms ‘Corporation’, ‘authorizing committees’, and ‘national service laws’ have the meanings given the terms in section 101 of the National and Community Service Act of 1990 ([42 U.S.C. 12511](./chapter-129-national-and-community-service.md#section-12511)).”
 
@@ -3279,6 +3352,9 @@ A prior section 147 of Pub. L. 101–610 was classified to [section 12577 of thi
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12605"></a>
@@ -3471,6 +3547,9 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12606"></a>
@@ -4013,7 +4092,7 @@ Amendment by section 104(b), (g) of Pub. L. 103–82 effective Oct. 1, 1993, see
 
     (v) consider applicants’ experience in other youth service programs.
 
-  (D) *Community service credit* — Service as a member of the cadre shall be considered as a community service opportunity for purposes of section 4403 of the National Defense Authorization Act for Fiscal Year 1993 and as employment with a public service or community service organization for purposes of section 4464 of that Act.
+  (D) *Community service credit* — Service as a member of the cadre shall be considered as a community service opportunity for purposes of section 4403 of the National Defense Authorization Act for Fiscal Year 1993.
 
   (E) *Training* — The Director shall provide to other members of the permanent cadre appropriate training in youth development techniques, including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
 
@@ -4026,14 +4105,14 @@ Amendment by section 104(b), (g) of Pub. L. 103–82 effective Oct. 1, 1993, see
 #### References in Text
 Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c)(2)(D), is section 4403 of Pub. L. 102–484 which is set out as a note under [section 1293 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1293&num=0&edition=prelim), Armed Forces.
 
-Section 4464 of that Act, referred to in subsec. (c)(2)(D), is section 4464 of Pub. L. 102–484 which is set out as a note under [section 1143a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143a&num=0&edition=prelim).
-
 [Section 5532 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5532&num=0&edition=prelim), referred to in subsec. (c)(3), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Codification
 Section was formerly classified to [section 12653h of this title](./chapter-129-national-and-community-service.md#section-12653h) prior to renumbering by Pub. L. 103–82, § 104(b).
 
 #### Amendments
+2018—Subsec. (c)(2)(D). Pub. L. 115–232 struck out “and as employment with a public service or community service organization for purposes of section 4464 of that Act” before period at end.
+
 2009—Subsec. (a). Pub. L. 111–13, § 1509(1)(A), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 111–13, § 1509(1)(B), inserted “including those” before “recommended” and “National” before “Civilian Community Corps”.
@@ -4160,11 +4239,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 (1) **Establishment** — Upon the establishment of the Program, the Secretary of Defense shall establish an office to provide for liaison between the Secretary and the National Civilian Community Corps.
 
-(2) **Duties** — The office shall—
-
-  (A) in order to assist in the recruitment of personnel for appointment in the permanent cadre, make available to the Director information in the registry established by [section 1143a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143a&num=0&edition=prelim); and
-
-  (B) provide other assistance in the coordination of Department of Defense activities with the Corps.
+(2) **Duties** — The office shall provide assistance in the coordination of Department of Defense activities with the Corps.
 
 **(b) Corps cadre**
 
@@ -4192,6 +4267,12 @@ A prior section 12622, Pub. L. 101–610, title I, § 166, Nov. 16, 1990, 104 St
 A prior section 162 of Pub. L. 101–610 was classified to [section 12613 of this title](./chapter-129-national-and-community-service.md#section-12613) prior to repeal by Pub. L. 103–82.
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–232 substituted “shall provide” for “shall—
+
+“(A) in order to assist in the recruitment of personnel for appointment in the permanent cadre, make available to the Director information in the registry established by [section 1143a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143a&num=0&edition=prelim); and
+
+“(B) provide other”.
+
 2009—Pub. L. 111–13, § 1512(b)(2)–(5)(A), substituted “Liaison office” for “Secretary of Defense” as subsec. (a) heading, struck out par. (1) heading “Liaison office” after subsec. (a) heading, redesignated subpars. (A) and (B) of former subsec. (a)(1) as pars. (1) and (2), respectively, of subsec. (a), redesignated cls. (i) and (ii) of former subsec. (a)(1)(B) as subpars. (A) and (B), respectively, of subsec. (a)(2), redesignated former pars. (2) to (4) of subsec. (a) as subsecs. (b) to (d), respectively, redesignated former subpars. (A) to (C) of former subsec. (a)(2) as pars. (1) to (3), respectively, of subsec. (b), and realigned margins.
 
 Pub. L. 111–13, § 1512(b)(1), substituted “Department of Defense” for “other departments” in section catchline.
@@ -6756,7 +6837,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 Amendment by section 405(p)(2) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under [section 8332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
-Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 #### Executive Order No. 13560
 Ex. Ord. No. 13560, Dec. 14, 2010, 75 F.R. 78875, which established the White House Council for Community Solutions, was superseded and revoked by Ex. Ord. No. 13748, § 5, Nov. 16, 2016, 81 F.R. 83621, set out as a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
@@ -6800,6 +6881,9 @@ Another prior section 12653a, Pub. L. 101–610, title I, § 195A, as added Pub.
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 
 <a id="section-12653c"></a>
@@ -7235,7 +7319,7 @@ Section 12653i, Pub. L. 101–610, title I, § 195I, as added Pub. L. 102–484,
 Section 12653j, Pub. L. 101–610, title I, § 195J, as added Pub. L. 102–484, div. A, title X, § 1092(a)(1), Oct. 23, 1992, 106 Stat. 2530, which provided for contract and grant authority of Corps Director, was renumbered section 161 of Pub. L. 101–610 and transferred to [section 12621 of this title](./chapter-129-national-and-community-service.md#section-12621).
 
 #### Effective Date
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12653o"></a>
@@ -7518,7 +7602,7 @@ Section 12653m, Pub. L. 101–610, title I, § 195M, as added Pub. L. 102–484,
 Section 12653n, Pub. L. 101–610, title I, § 195N, as added Pub. L. 102–484, div. A, title X, § 1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which limited funding for Corps programs, was renumbered section 165 of Pub. L. 101–610 and transferred to [section 12625 of this title](./chapter-129-national-and-community-service.md#section-12625), prior to repeal by Pub. L. 111–13, title I, § 1515, Apr. 21, 2009, 123 Stat. 1528.
 
 #### Effective Date
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12653p"></a>
@@ -7569,7 +7653,7 @@ Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as
 A prior section 12653o, Pub. L. 101–610, title I, § 195O, as added Pub. L. 102–484, div. A, title X, § 1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which defined terms used in former part H of this subchapter, was renumbered section 166 of Pub. L. 101–610 and transferred to [section 12626 of this title](./chapter-129-national-and-community-service.md#section-12626) and subsequently renumbered section 165 of Pub. L. 101–610 by section 1516(1) of Pub. L. 111–13.
 
 #### Effective Date
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12653s"></a>
@@ -7644,6 +7728,11 @@ Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as
 
 (4) 50 percent of such cost for the fourth year in which the recipient receives such assistance and each year thereafter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+
 
 <a id="section-12655"></a>
 ## § 12655. Nonprofit capacity building
@@ -7700,7 +7789,7 @@ Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as
 ### Statutory Notes
 
 #### Effective Date
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12655a"></a>
@@ -8312,7 +8401,7 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 ### Statutory Notes
 
 #### Effective Date
-Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
 
 <a id="section-12671"></a>

@@ -41,7 +41,7 @@ source: >-
 Provisions similar to those in this section were contained in sections 10701, 10704, and 10705 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13702"></a>
@@ -99,6 +99,9 @@ only if the rate for such transportation or service is contained in a tariff tha
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 10761 and 10762 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13703"></a>
@@ -218,6 +221,9 @@ Subsec. (e). Pub. L. 106–159, § 227(c), designated existing provisions as par
 
 Subsec. (f)(2). Pub. L. 104–287, § 5(28)(B), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
@@ -244,6 +250,9 @@ General references to “this title” deemed to refer also to chapters 509 and 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10735 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10735&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-13705"></a>
 ## § 13705. Requirements for through routes among motor carriers of passengers
@@ -255,6 +264,9 @@ Provisions similar to those in this section were contained in [section 10735 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 10703 and 10705 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13706"></a>
@@ -271,6 +283,9 @@ Provisions similar to those in this section were contained in sections 10703 and
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10744 of this title](./chapter-107-rates.md#section-10744) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13707"></a>
@@ -307,6 +322,9 @@ Provisions similar to those in this section were contained in [section 10743 of 
 #### Amendments
 2005—Subsec. (b)(3). Pub. L. 109–59 added par. (3).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-13708"></a>
 ## § 13708. Billing and collecting practices
@@ -320,6 +338,9 @@ Provisions similar to those in this section were contained in [section 10743 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10767 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10767&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13709"></a>
@@ -411,6 +432,9 @@ Provisions similar to those in this section were contained in [section 10701 of 
 
 Subsec. (e). Pub. L. 104–287, § 5(29)(B), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before such effective date”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
@@ -451,6 +475,9 @@ Provisions similar to those in this section were contained in sections 10762 and
 1996—Subsec. (a)(4). Pub. L. 104–287, § 5(30)(A), substituted “January 1, 1996,” for “the effective date of this section”.
 
 Subsec. (b). Pub. L. 104–287, § 5(30)(B), substituted “December 31, 1995” for “the day before the effective date of this section” and “January 1, 1996,” for “the effective date of this section”.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
@@ -508,6 +535,9 @@ Subsec. (d). Pub. L. 104–287, § 5(31)(B), substituted “January 1, 1996” f
 
 Subsec. (g). Pub. L. 104–287, § 5(31)(C), substituted “January 1, 1996” for “the effective date of this section”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
@@ -525,6 +555,9 @@ Provisions similar to those in this section were contained in [section 10721 of 
 #### Amendments
 2011—Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-13713"></a>
 ## § 13713. Food and grocery transportation
@@ -536,3 +569,6 @@ Provisions similar to those in this section were contained in [section 10721 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10732 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10732&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

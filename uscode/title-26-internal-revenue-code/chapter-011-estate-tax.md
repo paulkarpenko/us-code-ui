@@ -55,19 +55,37 @@ such gift shall not be included in the adjusted taxable gifts of the decedent fo
   (C) the value is determined by a court or pursuant to a settlement agreement with the Secretary.
   For purposes of subparagraph (A), the value of an item shall be treated as shown on a return if the item is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item.
 
-**(g) Modifications to gift tax payable to reflect different tax rates** For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent’s death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
+**(g) Modifications to tax payable**
 
-(1) the tax imposed by chapter 12 with respect to such gifts, and
+(1) **Modifications to gift tax payable to reflect different tax rates** — For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent’s death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
 
-(2) the credit allowed against such tax under section 2505, including in computing—
+  (A) the tax imposed by chapter 12 with respect to such gifts, and
 
-  (A) the applicable credit amount under section 2505(a)(1), and
+  (B) the credit allowed against such tax under section 2505, including in computing—
 
-  (B) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).
+    (i) the applicable credit amount under section 2505(a)(1), and
+
+    (ii) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).
+
+(2) **Modifications to estate tax payable to reflect different basic exclusion amounts** — The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this section with respect to any difference between—
+
+  (A) the basic exclusion amount under section 2010(c)(3) applicable at the time of the decedent’s death, and
+
+  (B) the basic exclusion amount under such section applicable with respect to any gifts made by the decedent.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–97 amended subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent’s death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
+
+“(1) the tax imposed by chapter 12 with respect to such gifts, and
+
+“(2) the credit allowed against such tax under section 2505, including in computing—
+
+“(A) the applicable credit amount under section 2505(a)(1), and
+
+“(B) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).”
+
 2013—Subsec. (c). Pub. L. 112–240 substituted in table separate tentative tax rates for amounts over $500,000 but not over $750,000, over $750,000 but not over $1,000,000, and over $1,000,000, respectively, for single tentative tax rate for amounts over $500,000.
 
 2010—Subsec. (b)(2). Pub. L. 111–312, § 302(d)(1)(A), substituted “if the modifications described in subsection (g)” for “if the provisions of subsection (c) (as in effect at the decedent’s death)”.
@@ -119,6 +137,9 @@ Subsec. (c). Pub. L. 97–34, § 402(a), (b)(1), designated existing provision a
 1978—Subsec. (e). Pub. L. 95–600 added subsec. (e).
 
 1976—Pub. L. 94–455 substituted provisions setting a unified rate schedule for estate and gift taxes ranging from 18 percent for the first $10,000 in taxable transfers to 70 percent of taxable transfers in excess of $5,000,000, with provision for adjustments for gift taxes paid by spouses, for provisions setting an estate tax of 3 percent of the first $5,000 of the taxable estate to 77 percent of the taxable estate in excess of $10,000,000.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–97, title I, § 11061(c), Dec. 22, 2017, 131 Stat. 2091, provided that: “The amendments made by this section [amending this section and [section 2010 of this title](./chapter-011-estate-tax.md#section-2010)] shall apply to estates of decedents dying and gifts made after December 31, 2017.”
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–240, title I, § 101(c)(3), Jan. 2, 2013, 126 Stat. 2318, provided that: “(A) In general.—Except as otherwise provided by in this paragraph, the amendments made by this subsection [amending this section and [section 2010 of this title](./chapter-011-estate-tax.md#section-2010)] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2012. “(B) Technical correction.—The amendment made by paragraph (2) [amending [section 2010 of this title](./chapter-011-estate-tax.md#section-2010)] shall take effect as if included in the amendments made by section 303 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 [Pub. L. 111–312].”
@@ -213,8 +234,10 @@ Pub. L. 98–369, div. A, title V, § 544(d), July 18, 1984, 98 Stat. 894, provi
 
     (i) such dollar amount, multiplied by
 
-    (ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2010” for “calendar year 1992” in subparagraph (B) thereof.
+    (ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2010” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.
+
+  (C) *Increase in basic exclusion amount* — In the case of estates of decedents dying or gifts made after December 31, 2017, and before January 1, 2026, subparagraph (A) shall be applied by substituting “$10,000,000” for “$5,000,000”.
 
 (4) **Deceased spousal unused exclusion amount** — For purposes of this subsection, with respect to a surviving spouse of a deceased spouse dying after December 31, 2010, the term “deceased spousal unused exclusion amount” means the lesser of—
 
@@ -247,6 +270,10 @@ The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct
 [Section 2521 of this title](./chapter-012-gift-tax.md#section-2521), referred to in subsec. (b), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
 
 #### Amendments
+2017—Subsec. (c)(3)(B)(ii). Pub. L. 115–97, § 11002(d)(1)(CC), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
+Subsec. (c)(3)(C). Pub. L. 115–97, § 11061(a), added subpar. (C).
+
 2013—Subsec. (c)(4)(B)(i). Pub. L. 112–240 substituted “applicable exclusion amount” for “basic exclusion amount”.
 
 2010—Subsec. (c). Pub. L. 111–312, § 302(a)(1), amended subsec. (c) generally, substituting pars. (1) and (2) for text which provided that the applicable credit amount for purposes of this section was the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax was to be computed were the applicable exclusion amount determined in accordance with the table, covering years 2002 to 2009, included in that text.
@@ -274,6 +301,11 @@ Subsecs. (c), (d). Pub. L. 105–34, § 501(a)(1)(B), added subsec. (c) and rede
 1981—Subsec. (a). Pub. L. 97–34, § 401(a)(1), substituted “$192,800” for “$47,000”.
 
 Subsec. (b). Pub. L. 97–34, § 401(a)(2)(A), struck out “$47,000” before “credit” from heading and in text substituted in subsec. (a) substitutions for “$192,800” amounts of “$62,800”, “$79,300”, “$96,300”, “$121,800”, and “$155,800” in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a) substitutions for “$47,000” amounts of “$30,000”, “$34,000”, “$38,000”, and “$42,500” in the case of decedents dying in 1977, 1978, 1979, and 1980, respectively.
+
+#### Effective Date of 2017 Amendment
+Amendment by section 11002(d)(1)(CC) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+Amendment by section 11061(a) of Pub. L. 115–97 applicable to estates of decedents dying and gifts made after Dec. 31, 2017, see section 11061(c) of Pub. L. 115–97, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective as if included in the amendments made by section 303 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, Pub. L. 111–312, see section 101(c)(3)(B) of Pub. L. 112–240, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
@@ -594,9 +626,9 @@ Amendment by section 1902(a)(12)(C) of Pub. L. 94–455 applicable to estates of
 
   (A) the applicable percentage of the value of land subject to a qualified conservation easement, reduced by the amount of any deduction under section 2055(f) with respect to such land, or
 
-  (II) 11 So in original. Probably should be “(B)”. $500,000.
+  (B) $500,000.
 
-(2) **Applicable percentage** — For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land ( 22 So in original. There is no corresponding closing parenthesis. determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+(2) **Applicable percentage** — For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5))). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
 (3) **Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(96), Dec. 19, 2014, 128 Stat. 4051]**
 
@@ -673,6 +705,10 @@ Amendment by section 1902(a)(12)(C) of Pub. L. 94–455 applicable to estates of
 Section 2057, referred to in subsec. (c)(10), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(97)(A), Dec. 19, 2014, 128 Stat. 4051, effective Dec. 19, 2014.
 
 #### Amendments
+2018—Subsec. (c)(1)(B). Pub. L. 115–141, § 401(a)(200), substituted “(B) $500,000.” for “(II) $500,000.”
+
+Subsec. (c)(2). Pub. L. 115–141, § 401(a)(201), substituted “paragraph (5))).” for “paragraph (5)).”
+
 2014—Subsec. (c)(1). Pub. L. 113–295, § 221(a)(96), substituted “(II) $500,000.” for “(B) the exclusion limitation.”
 
 Subsec. (c)(3). Pub. L. 113–295, § 221(a)(96), struck out par. (3), which set out table of exclusion limitations.
@@ -790,7 +826,7 @@ Pub. L. 91–614, title I, § 101(j), Dec. 31, 1970, 84 Stat. 1838, provided tha
 
   (A) $750,000, multiplied by
 
-  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.
 
 **(b) Qualified real property**
@@ -1152,6 +1188,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (a)(3)(B). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
 2004—Subsec. (c)(7)(D). Pub. L. 108–311 substituted “section 152(f)(2)” for “section 151(c)(4)”.
 
 1997—Subsec. (a)(3). Pub. L. 105–34, § 501(b), added par. (3).
@@ -1249,6 +1287,9 @@ Subsec. (e)(11). Pub. L. 95–600, § 702(d)(5)(B), added par. (11).
 Subsec. (f)(1). Pub. L. 95–472, § 4(c), inserted provision relating to the expiration of the statutory period for the assessment of additional tax due under subsec. (c) in the case of an involuntary conversion to which an election under subsec. (h) is applicable.
 
 Subsec. (h). Pub. L. 95–472, § 4(a), added subsec. (h).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under [section 2 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-2).
@@ -2075,7 +2116,7 @@ For purposes of this subsection, the complete termination before the date prescr
 
   (F) *Special rule where income beneficiary dies.—* — If (by reason of the death of any individual, or by termination or distribution of a trust in accordance with the terms of the trust instrument) by the due date for filing the estate tax return (including any extension thereof) a reformable interest is in a wholly charitable trust or passes directly to a person or for a use described in subsection (a), a deduction shall be allowed for such reformable interest as if it had met the requirements of paragraph (2) on the date of the decedent’s death. For purposes of the preceding sentence, the term “wholly charitable trust” means a charitable trust which, upon the allowance of a deduction, would be described in section 4947(a)(1).
 
-  (G) *Statute of limitations.—* — The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J) 11 So in original. Probably should be followed by an additional closing parenthesis. has occurred.
+  (G) *Statute of limitations.—* — The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J)) has occurred.
 
   (H) *Regulations.—* — The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing such adjustments in the application of the provisions of section 508 (relating to special rules relating to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations) as may be necessary by reason of the qualified reformation.
 
@@ -2122,7 +2163,7 @@ For purposes of this subsection, the complete termination before the date prescr
 
 (3) For exemption of gifts and bequests to or for the benefit of Library of Congress, see section 5 of the Act of March 3, 1925, as amended ([2 U.S.C. 161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section161&num=0&edition=prelim)).
 
-(4) For treatment of gifts and bequests for the benefit of the Naval Historical Center as gifts or bequests to or for the use of the United States, see [section 7222 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7222&num=0&edition=prelim), United States Code.
+(4) For treatment of gifts and bequests for the benefit of the Naval Historical Center as gifts or bequests to or for the use of the United States, see [section 8622 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8622&num=0&edition=prelim), United States Code.
 
 (5) For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 ([16 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section191&num=0&edition=prelim)).
 
@@ -2132,9 +2173,9 @@ For purposes of this subsection, the complete termination before the date prescr
 
 (8) For payment of tax on gifts and bequests of United States obligations to the United States, see [section 3113(e) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3113/e&num=0&edition=prelim), United States Code.
 
-(9) For treatment of gifts and bequests for benefit of the Naval Academy as gifts or bequests to or for the use of the United States, see [section 6973 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6973&num=0&edition=prelim), United States Code.
+(9) For treatment of gifts and bequests for benefit of the Naval Academy as gifts or bequests to or for the use of the United States, see [section 8473 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8473&num=0&edition=prelim), United States Code.
 
-(10) For treatment of gifts and bequests for benefit of the Naval Academy Museum as gifts or bequests to or for the use of the United States, see [section 6974 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6974&num=0&edition=prelim), United States Code.
+(10) For treatment of gifts and bequests for benefit of the Naval Academy Museum as gifts or bequests to or for the use of the United States, see [section 8474 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8474&num=0&edition=prelim), United States Code.
 
 (11) For exemption of gifts and bequests received by National Archives Trust Fund Board, see [section 2308 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2308&num=0&edition=prelim), United States Code.
 
@@ -2149,6 +2190,14 @@ Section 25 of the State Department Basic Authorities Act of 1956, referred to in
 Sections 1218(b) and 1234(b) of Pub. L. 109–280, which directed the amendment of section 2055 without specifying the act to be amended, were executed to this section, which is section 2055 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2018—Subsec. (e)(3)(G). Pub. L. 115–141 substituted “subparagraph (J))” for “subparagraph (J)”.
+
+Subsec. (g)(4). Pub. L. 115–232, § 809(h)(2)(A), substituted “[section 8622 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8622&num=0&edition=prelim), United States Code” for “[section 7222 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7222&num=0&edition=prelim), United States Code”.
+
+Subsec. (g)(9). Pub. L. 115–232, § 809(h)(2)(B), substituted “[section 8473 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8473&num=0&edition=prelim), United States Code” for “[section 6973 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6973&num=0&edition=prelim), United States Code”.
+
+Subsec. (g)(10). Pub. L. 115–232, § 809(h)(2)(C), substituted “[section 8474 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8474&num=0&edition=prelim), United States Code” for “[section 6974 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6974&num=0&edition=prelim), United States Code”.
+
 2007—Subsecs. (g), (h). Pub. L. 110–172 redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows:
 
 “(1) In general.—In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
@@ -2228,6 +2277,9 @@ Subsec. (e). Pub. L. 91–172, § 201(d)(1), substituted substantive provisions 
 #### Change of Name
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1461&num=0&edition=prelim), Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
@@ -2303,6 +2355,8 @@ Act Aug. 6, 1956, ch. 1020, § 3, 70 Stat. 1075, provided that: “The amendment
 
 #### Transfer of Functions
 United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation) abolished and functions and authorities transferred, see sections 6561 and 6562 of Title 22, Foreign Relations and Intercourse.
+
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of Title 22, Foreign Relations and Intercourse.
 
 #### Special Donations
 Pub. L. 99–514, title XIV, § 1422(d), Oct. 22, 1986, 100 Stat. 2717, provided that: “If the Secretary of the Interior acquires by donation after December 31, 1986, a conservation easement (within the meaning of section 2(h) of S. 720, 99th Congress, 1st Session, as in effect on August 16, 1986) [see Pub. L. 99–420, Sept. 25, 1986, § 102(h), 99 Stat. 955, 957], such donation shall qualify for treatment under section 2055(f) or 2522(d) of the Internal Revenue Code of 1954 [now 1986], as added by this section.”
@@ -3128,13 +3182,15 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 (3) **Marital deduction** — The amount which would be deductible with respect to property situated in the United States at the time of the decedent’s death under the principles of section 2056.
 
-(4) **State death taxes** — The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in 2058(a).11 So in original. Probably should be preceded by “section”.
+(4) **State death taxes** — The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in section 2058(a).
 
 **(b) Condition of allowance of deductions** No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(4). Pub. L. 115–141 inserted “section” before “2058(a).”
+
 2014—Subsec. (a)(4). Pub. L. 113–295 substituted “2058(a)” for “section 2011(a)”.
 
 2001—Subsec. (a)(4). Pub. L. 107–16 added par. (4).

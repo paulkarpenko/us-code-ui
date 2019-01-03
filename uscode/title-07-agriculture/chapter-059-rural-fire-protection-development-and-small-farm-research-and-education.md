@@ -2,7 +2,7 @@
 title: 7
 chapter: '59'
 heading: 'RURAL FIRE PROTECTION, DEVELOPMENT, AND SMALL FARM RESEARCH AND EDUCATION'
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -182,7 +182,7 @@ Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, as amended by Pub. L. 104–32
 <a id="section-2662"></a>
 ## § 2662. Programs authorized
 
-The Secretary of Agriculture may conduct, in cooperation and coordination with colleges and universities, the following programs to carry out the purposes and achieve the goals of this subchapter.
+The Secretary of Agriculture (referred to in this subchapter as the “Secretary”) may conduct, in cooperation and coordination with colleges and universities, the following programs to carry out the purposes and achieve the goals of this subchapter.
 
 **(a) Rural development extension programs** Rural development extension programs shall consist of the collection, interpretation, and dissemination of useful information and knowledge from research and other sources to units of multistate regional agencies, State, county, municipal, and other units of government, multicounty planning and development districts, organizations of citizens contributing to community and rural development, businesses, Indian tribes on Federal or State reservations or other federally recognized Indian tribal groups, and industries that employ or may employ people in rural areas. The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities. These programs also shall include technical services and educational activities, including instruction for persons not enrolled as students in colleges or universities, to facilitate and encourage the use and practical application of this information. These programs may also include feasibility studies and planning assistance.
 
@@ -198,7 +198,7 @@ The Secretary of Agriculture may conduct, in cooperation and coordination with c
 
 **(h) Rural development extension work**
 
-(1) **National program** — The Secretary of Agriculture shall establish a national program, to be administered by the National Institute of Food and Agriculture, to provide rural citizens with training in, technical and management assistance regarding, and educational opportunities to enhance their knowledge of—
+(1) **National program** — The Secretary shall establish a national program, to be administered by the National Institute of Food and Agriculture, to provide rural citizens with training in, technical and management assistance regarding, and educational opportunities to enhance their knowledge of—
 
   (A) beginning businesses through entrepreneurship;
 
@@ -315,6 +315,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 2662, Pub. L. 92–419, title V, § 502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, § 1440, Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Amendments
+2018—Pub. L. 115–334, § 6101(a)(3)(A), inserted “(referred to in this subchapter as the ‘Secretary’)” after “Agriculture” in introductory provisions.
+
+Subsec. (h)(1). Pub. L. 115–334, § 6101(a)(3)(B), substituted “Secretary” for “Secretary of Agriculture” in introductory provisions.
+
 2008—Subsec. (h)(1). Pub. L. 110–246, § 7511(c)(6)(A), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
 
 Subsec. (h)(4). Pub. L. 110–246, § 7511(c)(6)(B), substituted “National Institute of Food and Agriculture staff” for “Extension Service staff”.
@@ -422,7 +426,7 @@ Section, Pub. L. 101–624, title XXIII, § 2348, Nov. 28, 1990, 104 Stat. 4037,
 ## § 2663. Funding
 **(a) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out the purposes of this subchapter.
 
-**(b) Distributions** Such sums as are appropriated to carry out the provisions of section 2662(a) and (b) of this title shall be distributed by the Secretary of Agriculture as follows: Provided, That, beginning with the fiscal year ending September 30, 1982, no State may receive more than $75,000 until all States have been allotted a minimum of $75,000.
+**(b) Distributions** Such sums as are appropriated to carry out the provisions of section 2662(a) and (b) of this title shall be distributed by the Secretary as follows: Provided, That, beginning with the fiscal year ending September 30, 1982, no State may receive more than $75,000 until all States have been allotted a minimum of $75,000.
 
 (1) 4 per centum shall be retained by the Secretary for program administration and national coordination of State programs, and program assistance to the States;
 
@@ -453,6 +457,8 @@ Act of August 30, 1890, referred to in subsec. (e), is act Aug. 30, 1890, ch. 84
 A prior section 2663, Pub. L. 92–419, title V, § 503, Aug. 30, 1972, 86 Stat. 672; Pub. L. 94–259, § 1, Apr. 5, 1976, 90 Stat. 314; Pub. L. 95–113, title XIV, § 1441, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, § 4(1)–(3), Sept. 24, 1980, 94 Stat. 1173, 1174, related to program moneys, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–334 substituted “Secretary” for “Secretary of Agriculture” in introductory provisions.
+
 1996—Subsec. (c). Pub. L. 104–127, § 792(b)(2)(A)(ii), (iii), which directed substitution of “subsections (e), (h), and (i) of [section 2662 of this title](./chapter-059-rural-fire-protection-development-and-small-farm-research-and-education.md#section-2662) shall be distributed” for “section 2662(e)” and all that follows through “shall be distributed” and “objectives of subsections (e), (h), and (i) of [section 2662 of this title](./chapter-059-rural-fire-protection-development-and-small-farm-research-and-education.md#section-2662)” for “objectives of” and all that follows through “title”, could not be executed because of prior amendment by Pub. L. 102–237, which substituted “subsections (e) and (i) of [section 2662 of this title](./chapter-059-rural-fire-protection-development-and-small-farm-research-and-education.md#section-2662) shall be distributed” for “the provisions of [section 2662(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2662/e&num=0&edition=prelim) shall be distributed” and “objectives of those subsections” for “objectives of [section 2662(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2662/e&num=0&edition=prelim)”. See 1991 Amendment note below.
 
 Pub. L. 104–127, § 792(b)(2)(A)(i), (B), struck out “(1)” before “Such sums” and struck out par. (2) which read as follows: “The Secretary shall distribute the amounts appropriated to carry out [section 2662(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2662/f&num=0&edition=prelim) to colleges and universities in accordance with the requirements of such subsection.”
@@ -471,7 +477,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 <a id="section-2664"></a>
 ## § 2664. Cooperating colleges and universities
-**(a) Program administration** To ensure national coordination with other federally supported agricultural research and extension programs, administration of each State program shall be the responsibility of the colleges and universities eligible to receive funds under the Act of July 2, 1862 [[7 U.S.C. 301](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) et seq.], and the Act of August 30, 1890 [[7 U.S.C. 321](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) et seq.], including Tuskegee Institute. In States that contain more than one such institution, such administration shall be the responsibility of the institution designated by mutual agreement of all such institutions, subject to approval by the Secretary of Agriculture. The Secretary shall pay funds available to each State to such institution or university. Such administration shall be coordinated with other federally supported agricultural research and extension programs conducted in the State.
+**(a) Program administration** To ensure national coordination with other federally supported agricultural research and extension programs, administration of each State program shall be the responsibility of the colleges and universities eligible to receive funds under the Act of July 2, 1862 [[7 U.S.C. 301](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) et seq.], and the Act of August 30, 1890 [[7 U.S.C. 321](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) et seq.], including Tuskegee Institute. In States that contain more than one such institution, such administration shall be the responsibility of the institution designated by mutual agreement of all such institutions, subject to approval by the Secretary. The Secretary shall pay funds available to each State to such institution or university. Such administration shall be coordinated with other federally supported agricultural research and extension programs conducted in the State.
 
 **(b) Eligibility for participation** All private and publicly supported colleges and universities in a State shall be eligible to participate in programs authorized under this subchapter. Officials at universities or colleges other than those responsible for administering the programs that wish to participate in these programs shall submit program proposals to the college or university officials responsible for administering the programs who shall consider such proposals in the process of developing the budgets and plans of work.
 
@@ -489,6 +495,9 @@ Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 84
 #### Prior Provisions
 A prior section 2664, Pub. L. 92–419, title V, § 504, Aug. 30, 1972, 86 Stat. 673, related to conducting of programs authorized by this subchapter, by cooperating colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–334 substituted “subject to approval by the Secretary” for “subject to approval by the Secretary of Agriculture”.
+
 #### Effective Date
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
@@ -496,7 +505,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 <a id="section-2665"></a>
 ## § 2665. Withholding funds
 
-If the Secretary of Agriculture determines that a State is not eligible to receive part or all of the funds to which it is otherwise entitled for programs under section 2662(a) and (b) of this title because of a failure to comply with regulations issued by the Secretary under this subchapter, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the Congress next succeeding the session of the legislature of the State from which funds have been withheld in order that the State may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress shall not direct such sum to be paid, it shall be covered into the Treasury. If any portion of the moneys that are received by the designated officers of any State for the support and maintenance of programs authorized under this subchapter shall by any action or contingency be diminished or lost, or be misapplied, it shall be replaced by the State.
+If the Secretary determines that a State is not eligible to receive part or all of the funds to which it is otherwise entitled for programs under section 2662(a) and (b) of this title because of a failure to comply with regulations issued by the Secretary under this subchapter, the facts and reasons therefor shall be reported to the President, and the amount involved shall be kept separate in the Treasury until the expiration of the Congress next succeeding the session of the legislature of the State from which funds have been withheld in order that the State may, if it should so desire, appeal to Congress from the determination of the Secretary. If the next Congress shall not direct such sum to be paid, it shall be covered into the Treasury. If any portion of the moneys that are received by the designated officers of any State for the support and maintenance of programs authorized under this subchapter shall by any action or contingency be diminished or lost, or be misapplied, it shall be replaced by the State.
 
 ### Statutory Notes
 
@@ -504,6 +513,9 @@ If the Secretary of Agriculture determines that a State is not eligible to recei
 A prior section 2665, Pub. L. 92–419, title V, § 505, Aug. 30, 1972, 86 Stat. 673, related to agreements and plans, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 Provisions similar to those comprising this section were contained in former [section 2666 of this title](./chapter-059-rural-fire-protection-development-and-small-farm-research-and-education.md#section-2666), prior to its repeal by Pub. L. 97–98.
+
+#### Amendments
+2018—Pub. L. 115–334 substituted “If the Secretary” for “If the Secretary of Agriculture”.
 
 #### Effective Date
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
@@ -534,7 +546,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 <a id="section-2667"></a>
 ## § 2667. Regulations
 
-The Secretary of Agriculture may issue such regulations as the Secretary determines necessary to carry out the provisions of this subchapter.
+The Secretary may issue such regulations as the Secretary determines necessary to carry out the provisions of this subchapter.
 
 ### Statutory Notes
 
@@ -542,6 +554,9 @@ The Secretary of Agriculture may issue such regulations as the Secretary determi
 A prior section 2667, Pub. L. 92–419, title V, § 507, Aug. 30, 1972, 86 Stat. 674; Pub. L. 95–113, title XIV, § 1442, Sept. 29, 1977, 91 Stat. 1006; Pub. L. 96–355, § 4(4), Sept. 24, 1980, 94 Stat. 1174, set forth definitions for purposes of this subchapter, prior to repeal by Pub. L. 97–98, title XIV, § 1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 Provisions similar to those comprising this section were contained in former [section 2668 of this title](./chapter-059-rural-fire-protection-development-and-small-farm-research-and-education.md#section-2668), which was omitted from the Code.
+
+#### Amendments
+2018—Pub. L. 115–334 substituted “The Secretary may issue” for “The Secretary of Agriculture may issue”.
 
 #### Effective Date
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
@@ -585,3 +600,23 @@ Section, Pub. L. 92–419, title V, § 510, as added Pub. L. 95–113, title XIV
 
 #### Effective Date of Repeal
 Repeal effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+
+<a id="section-2671"></a>
+## § 2671. Establishment of technical assistance program
+**(a) Definition** In this section, the term “tribally designated housing entity” has the meaning given the term in [section 4103 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103&num=0&edition=prelim).
+
+**(b) In general** The Secretary shall, in coordination with the Office of Tribal Relations established under section 6921 11 See References in Text note below. of this title, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities of the Secretary.
+
+**(c) Technical assistance** Technical assistance provided under subsection (b) shall address the unique challenge of Tribal governments, Tribal producers, Tribal businesses, Tribal business entities, and tribally designated housing entities in accessing Department of Agriculture-supported rural infrastructure, rural cooperative development, rural business and industry, rural housing, and other rural development activities.
+
+### Statutory Notes
+
+#### References in Text
+[Section 6921 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6921), referred to in subsec. (b), was in the original “section 309 of the Department of Agriculture Reorganization Act of 1994”, and was translated as meaning section 309 of Pub. L. 103–354, the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994, to reflect the probable intent of Congress. The Department of Agriculture Reorganization Act of 1994 is title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209.
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of title V of the Rural Development Act of 1972 which comprises this subchapter.
+
+#### Definitions
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).

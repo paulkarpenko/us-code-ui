@@ -16,7 +16,7 @@ source: >-
 
 (2) **Use of government depositaries** — For authority of the Secretary to require payments to Government depositaries, see section 6302(c).
 
-**(c) Date fixed for payment of tax** In any case in which a tax is required to be paid on or before a certain date, or within a certain period, any reference in this title to the date fixed for payment of such tax shall be deemed a reference to the last day fixed for such payment (determined without regard to any extension of time for paying the tax.)
+**(c) Date fixed for payment of tax** In any case in which a tax is required to be paid on or before a certain date, or within a certain period, any reference in this title to the date fixed for payment of such tax shall be deemed a reference to the last day fixed for such payment (determined without regard to any extension of time for paying the tax).
 
 ### Statutory Notes
 
@@ -107,7 +107,7 @@ Repeal applicable to taxable periods beginning after Oct. 22, 2004, see section 
 ## § 6157. Payment of Federal unemployment tax on quarterly or other time period basis
 **(a) General rule** Every person who for the calendar year is an employer (as defined in section 3306(a)) shall—
 
-(1) if the person is such an employer for the preceding calendar year (determined by only taking into account wages paid and employment during such preceding calendar year), compute the tax imposed by section 3301 for each of the first 3 calendar quarters in the calendar year on wages paid for services which respect to which the person is such an employer for such preceding calendar year (as so determined), and
+(1) if the person is such an employer for the preceding calendar year (determined by only taking into account wages paid and employment during such preceding calendar year), compute the tax imposed by section 3301 for each of the first 3 calendar quarters in the calendar year on wages paid for services with respect to which the person is such an employer for such preceding calendar year (as so determined), and
 
 (2) if the person is not such an employer for the preceding calendar year with respect to any services (as so determined), compute the tax imposed by section 3301 on wages paid for services with respect to which the person is not such an employer for the preceding calendar year (as so determined)—
 
@@ -245,11 +245,26 @@ For provisions that nothing in repeal by Pub. L. 101–508 be construed to affec
 
 **(e) Administrative review** The Secretary shall establish procedures for an independent administrative review of terminations of installment agreements under this section for taxpayers who request such a review.
 
-**(f) Cross reference** For rights to administrative review and appeal, see section 7122(e).
+**(f) Installment agreement fees**
+
+(1) **Limitation on fee amount** — The amount of any fee imposed on an installment agreement under this section may not exceed the amount of such fee as in effect on the date of the enactment of this subsection.
+
+(2) **Waiver or reimbursement** — In the case of any taxpayer with an adjusted gross income, as determined for the most recent year for which such information is available, which does not exceed 250 percent of the applicable poverty level (as determined by the Secretary)—
+
+  (A) if the taxpayer has agreed to make payments under the installment agreement by electronic payment through a debit instrument, no fee shall be imposed on an installment agreement under this section, and
+
+  (B) if the taxpayer is unable to make payments under the installment agreement by electronic payment through a debit instrument, the Secretary shall, upon completion of the installment agreement, pay the taxpayer an amount equal to any such fees imposed.
+
+**(g) Cross reference** For rights to administrative review and appeal, see section 7122(e).
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of this subsection, referred to in subsec. (f)(1), is the date of the enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
+
 #### Amendments
+2018—Subsecs. (f), (g). Pub. L. 115–123 added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2006—Subsec. (f). Pub. L. 109–222 substituted “section 7122(e)” for “section 7122(d)”.
 
 2004—Subsec. (a). Pub. L. 108–357, § 843(a)(1), substituted “make payment on” for “satisfy liability for payment of” and inserted “full or partial” after “facilitate”.
@@ -281,6 +296,9 @@ Subsec. (e). Pub. L. 105–277 redesignated subsec. (d), relating to cross refer
 Subsec. (b)(5). Pub. L. 104–168, § 201(a), added par. (5).
 
 Subsec. (c). Pub. L. 104–168, § 202(a), added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–123, div. D, title II, § 41105(b), Feb. 9, 2018, 132 Stat. 157, provided that: “The amendments made by this section [amending this section] shall apply to agreements entered into on or after the date which is 60 days after the date of the enactment of this Act [Feb. 9, 2018].”
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–222, title V, § 509(d), May 17, 2006, 120 Stat. 364, provided that: “The amendments made by this section [amending this section and [section 7122 of this title](./chapter-074-closing-agreements-and-compromises.md#section-7122)] shall apply to offers-in-compromise submitted on and after the date which is 60 days after the date of the enactment of this Act [May 17, 2006].”

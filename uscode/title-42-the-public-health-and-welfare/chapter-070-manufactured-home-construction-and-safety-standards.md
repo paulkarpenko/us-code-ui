@@ -129,6 +129,9 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 #### Effective Date of 1998 Amendment
 Pub. L. 105–276, title V, § 599A(b), Oct. 21, 1998, 112 Stat. 2660, provided that: “The amendment made by this section [amending this section] is made on, and shall apply beginning upon, the date of the enactment of this Act [Oct. 21, 1998].”
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5403"></a>
 ## § 5403. Construction and safety standards
@@ -414,6 +417,9 @@ Subsec. (j). Pub. L. 106–569, § 604(6), (7), substituted “subsection (e)”
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 Pub. L. 102–486, title I, § 104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: “If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act [Oct. 24, 1992], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5403](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5403)) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled ‘Energy Efficient Design of Low-Rise Residential Buildings’ and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act.”
 
@@ -478,6 +484,9 @@ Pub. L. 102–486, title I, § 104(c), Oct. 24, 1992, 106 Stat. 2792, provided t
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5405"></a>
 ## § 5405. Judicial review of orders establishing standards; petition; additional evidence before Secretary; certified copy of transcript
@@ -496,6 +505,11 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 (6) The remedies provided for in this subsection shall be in addition to and not in substitution for any other remedies provided by law.
 
 **(b)** A certified copy of the transcript of the record and proceedings under this section shall be furnished by the Secretary to any interested party at his request and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the order have previously been initiated or become final under subsection (a).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5406"></a>
@@ -525,6 +539,9 @@ Subsec. (e). Pub. L. 106–569, § 606(3), redesignated subsec. (e) as (d).
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5407"></a>
@@ -571,6 +588,9 @@ Subsec. (c). Pub. L. 106–569, § 607(b), added subsec. (c).
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5408"></a>
 ## § 5408. Cooperation by Secretary with public and private agencies
@@ -585,6 +605,9 @@ The Secretary is authorized to advise, assist, and cooperate with other Federal 
 
 #### Amendments
 1980—Pub. L. 96–399 substituted “manufactured home” for “mobile home” in two places.
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5409"></a>
@@ -631,6 +654,9 @@ The Secretary is authorized to advise, assist, and cooperate with other Federal 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5410"></a>
 ## § 5410. Civil and criminal penalties
@@ -642,6 +668,9 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 
 #### Amendments
 1980—Subsec. (a). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5411"></a>
@@ -666,6 +695,9 @@ Rule 42 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 #### Amendments
 1980—Subsecs. (a), (e). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5412"></a>
 ## § 5412. Noncompliance with standards or defective nature of manufactured home; administrative or judicial determination; repurchase by manufacturer or repair by distributor or retailer; reimbursement of expenses, etc., by manufacturer; injunctive relief against manufacturer for failure to comply; jurisdiction and venue; damages; period of limitation
@@ -687,6 +719,9 @@ The value of such reasonable reimbursements as specified in paragraphs (1) and (
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5413"></a>
@@ -742,6 +777,9 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5414"></a>
 ## § 5414. Notification and correction of defects by manufacturer
@@ -796,6 +834,9 @@ Subsecs. (d), (f). Pub. L. 106–569, § 603(b)(3)(C), substituted “retailers�
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5415"></a>
 ## § 5415. Certification by manufacturer of conformity of manufactured home with standards; form and placement of certification
@@ -815,6 +856,9 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5416"></a>
 ## § 5416. Consumer’s manual; contents
@@ -828,6 +872,9 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 
 #### Amendments
 1980—Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5417"></a>
@@ -846,11 +893,19 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 
 Sections 73 and 74 of the Act of August 27, 1894, referred to in text, are classified to sections 8 and 9 of Title 15.
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5418"></a>
 ## § 5418. Use of services, research and testing facilities of public agencies and independent laboratories
 
 The Secretary, in exercising the authority under this chapter, shall utilize the services, research and testing facilities of public agencies and independent testing laboratories to the maximum extent practicable in order to avoid duplication.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5419"></a>
@@ -908,6 +963,9 @@ For the effective date of the Manufactured Housing Improvement Act of 2000, refe
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 #### Manufactured Housing
 Pub. L. 107–18, § 1, July 5, 2001, 115 Stat. 152, provided that: “(a) Availability of Fees.—Notwithstanding section 620(e)(2) of the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5419(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5419/e/2&num=0&edition=prelim)), any fees collected under that Act, including any fees collected before the date of enactment of the American Homeownership and Economic Opportunity Act of 2000 ([12 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) note) [Dec. 27, 2000] and remaining unobligated on the date of enactment of this Act [July 5, 2001], shall be available for expenditure to offset the expenses incurred by the Secretary under the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5401](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401) et seq.), otherwise in accordance with section 620 of that Act. “(b) Duration.—The authority for the use of fees provided for in subsection (a) shall remain in effect during the period beginning in fiscal year 2001 and ending on the effective date of the first appropriations Act referred to in section 620(e)(2) of the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5419(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5419/e/2&num=0&edition=prelim)) that is enacted with respect to a fiscal year after fiscal year 2001.”
 
@@ -916,6 +974,11 @@ Pub. L. 107–18, § 1, July 5, 2001, 115 Stat. 152, provided that: “(a) Avail
 ## § 5420. Failure to report violations; penalties
 
 Any person, other than an officer or employee of the United States, or a person exercising inspection functions under a State plan pursuant to [section 5422 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5422), who knowingly and willfully fails to report a violation of any construction or safety standard established under [section 5403 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5403) may be fined up to $1,000 or imprisoned for up to one year, or both.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5421"></a>
@@ -927,6 +990,9 @@ The rights afforded manufactured home purchasers under this chapter may not be w
 
 #### Amendments
 1980—Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 
 <a id="section-5422"></a>
@@ -998,6 +1064,9 @@ Subsec. (g). Pub. L. 106–569, § 610(2), added subsec. (g).
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to [5 U.S.C. 553](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5423"></a>
 ## § 5423. Grants to States
@@ -1018,6 +1087,9 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 #### Amendments
 1980—Subsec. (a)(1). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
 
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
+
 
 <a id="section-5424"></a>
 ## § 5424. Rules and regulations
@@ -1025,6 +1097,9 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 The Secretary is authorized to issue, amend, and revoke such rules and regulations as he deems necessary to carry out this chapter.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).
 
 #### Regulations and Procedures With Regard to Manufactured Homes
 Pub. L. 96–399, title III, § 308(c)(7), Oct. 8, 1980, 94 Stat. 1641, provided that: “In adopting regulations and procedures in accordance with this subsection [see Tables for classification] the Secretary of Housing and Urban Development shall have discretion to take actions in a manner which he deems necessary to insure that the public is fully aware of the distinctions between the various types of factory-built housing.”
@@ -1050,3 +1125,6 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Prior Provisions
 A prior section 626 of Pub. L. 93–383 was classified to [section 5425 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5425), prior to repeal by Pub. L. 106–569.
+
+#### Effective Date
+Section effective upon the expiration of 180 days following Aug. 22, 1974, see section 627 of Pub. L. 93–383, set out as a note under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401).

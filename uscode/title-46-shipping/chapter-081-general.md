@@ -603,19 +603,16 @@ A prior section 8105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 550, authorized S
 
 (2) **Civil penalty.—** — A violation of paragraph (1) is punishable by a civil penalty of not more than $10,000 for each day during which the violation continues.
 
-(3) **Continuing violations.—** — The maximum amount of a civil penalty for a violation under this subsection shall not exceed—
-
-  (A) $50,000 if the violation occurs in fiscal year 2006;
-
-  (B) $75,000 if the violation occurs in fiscal year 2007; and
-
-  (C) $100,000 if the violation occurs after fiscal year 2007.
+(3) **Continuing violations.—** — The maximum amount of a civil penalty for a violation under this subsection shall be $100,000.
 
 (4) **Determination of amount.—** — In determining the amount of the penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, the history of prior offenses, the ability to pay, and such other matters as justice may require.
 
 (5) **Compromise, modification, and remittal.—** — The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty imposed under this section.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (f)(3). Pub. L. 115–232 added par. (3) and struck out former par. (3) which related to continuing violations in fiscal years 2006 and 2007 and after fiscal year 2007.
 
 #### International Convention for Safety of Life at Sea
 For International Conventions for the Safety of Life at Sea to which the United States has been a party, see [section 1602 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1602&num=0&edition=prelim), Navigation and Navigable Waters, and notes thereunder.
@@ -636,83 +633,8 @@ Pub. L. 111–281, title IX, § 912(c), Oct. 15, 2010, 124 Stat. 3017, provided 
 
 
 <a id="section-8108"></a>
-## § 8108. Merchant Marine Personnel Advisory Committee
-**(a) Establishment.—** The Secretary shall establish a Merchant Marine Personnel Advisory Committee (in this section referred to as “the Committee”). The Committee—
+## § 8108. Repealed. Pub. L. 115–282, title VI, § 601(c)(3)(A), Dec. 4, 2018, 132 Stat. 4289]
 
-(1) shall act solely in an advisory capacity to the Secretary through the Commandant of the Coast Guard on matters relating to personnel in the United States merchant marine, including training, qualifications, certification, documentation, and fitness standards, and other matters as assigned by the Commandant;
+### Statutory Notes
 
-(2) shall review and comment on proposed Coast Guard regulations and policies relating to personnel in the United States merchant marine, including training, qualifications, certification, documentation, and fitness standards;
-
-(3) may be given special assignments by the Secretary and may conduct studies, inquiries, workshops, and fact finding in consultation with individuals and groups in the private sector and with State or local governments;
-
-(4) shall advise, consult with, and make recommendations reflecting its independent judgment to the Secretary;
-
-(5) shall meet not less than twice each year; and
-
-(6) may make available to Congress recommendations that the Committee makes to the Secretary.
-
-**(b) Membership.—**
-
-(1) **In general.—** — The Committee shall consist of not more than 19 members who are appointed by and serve terms of a duration determined by the Secretary. Before filling a position on the Committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Committee.
-
-(2) **Required members.—** — Subject to paragraph (3), the Secretary shall appoint as members of the Committee—
-
-  (A) 9 United States citizens with active licenses or certificates issued under chapter 71 or merchant mariner documents issued under chapter 73, including—
-
-    (i) 3 deck officers who represent the viewpoint of merchant marine deck officers, of whom—
-
-      (I) 2 shall be licensed for oceans any gross tons;
-
-      (II) 1 shall be licensed for inland river route with a limited or unlimited tonnage;
-
-      (III) 2 shall have a master’s license or a master of towing vessels license;
-
-      (IV) 1 shall have significant tanker experience; and
-
-      (V) to the extent practicable—
-
-        (aa) 1 shall represent the viewpoint of labor; and
-
-        (bb) another shall represent a management perspective;
-
-    (ii) 3 engineering officers who represent the viewpoint of merchant marine engineering officers, of whom—
-
-      (I) 2 shall be licensed as chief engineer any horsepower;
-
-      (II) 1 shall be licensed as either a limited chief engineer or a designated duty engineer; and
-
-      (III) to the extent practicable—
-
-        (aa) 1 shall represent a labor viewpoint; and
-
-        (bb) another shall represent a management perspective;
-
-    (iii) 2 unlicensed seamen, of whom—
-
-      (I) 1 shall represent the viewpoint of able-bodied seamen; and
-
-      (II) another shall represent the viewpoint of qualified members of the engine department; and
-
-    (iv) 1 pilot who represents the viewpoint of merchant marine pilots;
-
-  (B) 6 marine educators, including—
-
-    (i) 3 marine educators who represent the viewpoint of maritime academies, including—
-
-      (I) 2 who represent the viewpoint of State maritime academies and are jointly recommended by such State maritime academies; and
-
-      (II) 1 who represents either the viewpoint of the State maritime academies or the United States Merchant Marine Academy; and
-
-    (ii) 3 marine educators who represent the viewpoint of other maritime training institutions, 1 of whom shall represent the viewpoint of the small vessel industry;
-
-  (C) 2 individuals who represent the viewpoint of shipping companies employed in ship operation management; and
-
-  (D) 2 members who are appointed from the general public.
-
-(3) **Consultation.—** — The Secretary shall consult with the Secretary of Transportation in making an appointment under paragraph (2)(B)(i)(II).
-
-**(c) Chairman and Vice Chairman.—** The Secretary shall designate one member of the Committee as the Chairman and one member of the Committee as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
-
-**(d) Subcommittees.—** The Committee may establish and disestablish subcommittees and working groups for any purpose consistent with this section, subject to conditions imposed by the Committee. Members of the Committee and additional persons drawn from the general public may be assigned to such subcommittees and working groups. Only Committee members may chair subcommittee or working groups.
-
-**(e) Termination.—** The Committee shall terminate on September 30, 2020.
+Section, added Pub. L. 113–281, title III, § 310(a), Dec. 18, 2014, 128 Stat. 3045; amended Pub. L. 115–232, div. C, title XXXV, § 3541(b)(14), Aug. 13, 2018, 132 Stat. 2323, established the Merchant Marine Personnel Advisory Committee. See [section 15103 of this title](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15103).

@@ -440,7 +440,7 @@ Functions of President under this section delegated to Secretary of Commerce by 
 
 (1) the retired pay base determined under [section 1406(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406/g&num=0&edition=prelim); by
 
-(2) 2½ percent of the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.
+(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.
 The retired pay so computed may not exceed 75 percent of the retired pay base.
 
 **(b) Officers first becoming members on or after September 8, 1980** Each officer on the retired list who first became a member of a uniformed service on or after September 8, 1980, shall receive retired pay at the rate determined by multiplying—
@@ -460,13 +460,6 @@ The retired pay so computed may not exceed 75 percent of the retired pay base.
 (2) **Rounding** — Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(2)
-Pub. L. 114–92, div. A, title VI, §§ 631(c)(3), 635, Nov. 25, 2015, 129 Stat. 844, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(2) of this section is amended to read as follows:
-
-(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.
-
-See 2015 Amendment note below.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in section 853o of this title prior to repeal by Pub. L. 107–372.

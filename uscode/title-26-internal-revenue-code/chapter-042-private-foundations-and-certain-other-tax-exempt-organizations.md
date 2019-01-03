@@ -2,13 +2,13 @@
 title: 26
 chapter: '42'
 heading: PRIVATE FOUNDATIONS; AND CERTAIN OTHER TAX-EXEMPT ORGANIZATIONS
-section_count: 21
+section_count: 23
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
 <a id="section-4940"></a>
 ## § 4940. Excise tax based on investment income
-**(a) Tax-exempt foundations** There is hereby imposed on each private foundation which is exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on its activities, a tax equal to 2 percent of the net investment income of such foundation for the taxable year.
+**(a) Tax-exempt foundations** There is hereby imposed on each private foundation which is exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on of its activities, a tax equal to 2 percent of the net investment income of such foundation for the taxable year.
 
 **(b) Taxable foundations** There is hereby imposed on each private foundation which is not exempt from taxation under section 501(a) for the taxable year, with respect to the carrying on of its activities, a tax equal to—
 
@@ -561,7 +561,7 @@ Determination of status as substantial contributor within [section 507(d)(2) of 
 
   (B)
 
-    (i) substantially more than half of the assets of which are devoted directly to such activities or to functionally related businesses (as defined in paragraph (4)), or to both, or are stock of a corporation which is controlled by the foundation and substantially all of the assets of which are so devoted.
+    (i) substantially more than half of the assets of which are devoted directly to such activities or to functionally related businesses (as defined in paragraph (4)), or to both, or are stock of a corporation which is controlled by the foundation and substantially all of the assets of which are so devoted,
 
     (ii) which normally makes qualifying distributions (within the meaning of paragraph (1) or (2) of subsection (g)) directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated in an amount not less than two-thirds of its minimum investment return (as defined in subsection (e)), or
 
@@ -878,6 +878,48 @@ Applicability of section to organizations organized before May 27, 1969, see sec
 
   (B) “January 1, 2007” shall be substituted for “January 1, 1971” in paragraph (4)(E).
 
+**(g) Exception for certain holdings limited to independently-operated philanthropic business**
+
+(1) **In general** — Subsection (a) shall not apply with respect to the holdings of a private foundation in any business enterprise which meets the requirements of paragraphs (2), (3), and (4) for the taxable year.
+
+(2) **Ownership** — The requirements of this paragraph are met if—
+
+  (A) 100 percent of the voting stock in the business enterprise is held by the private foundation at all times during the taxable year, and
+
+  (B) all the private foundation’s ownership interests in the business enterprise were acquired by means other than by purchase.
+
+(3) **All profits to charity**
+
+  (A) *In general* — The requirements of this paragraph are met if the business enterprise, not later than 120 days after the close of the taxable year, distributes an amount equal to its net operating income for such taxable year to the private foundation.
+
+  (B) *Net operating income* — For purposes of this paragraph, the net operating income of any business enterprise for any taxable year is an amount equal to the gross income of the business enterprise for the taxable year, reduced by the sum of—
+
+    (i) the deductions allowed by chapter 1 for the taxable year which are directly connected with the production of such income,
+
+    (ii) the tax imposed by chapter 1 on the business enterprise for the taxable year, and
+
+    (iii) an amount for a reasonable reserve for working capital and other business needs of the business enterprise.
+
+(4) **Independent operation** — The requirements of this paragraph are met if, at all times during the taxable year—
+
+  (A) no substantial contributor (as defined in section 4958(c)(3)(C)) to the private foundation or family member (as determined under section 4958(f)(4)) of such a contributor is a director, officer, trustee, manager, employee, or contractor of the business enterprise (or an individual having powers or responsibilities similar to any of the foregoing),
+
+  (B) at least a majority of the board of directors of the private foundation are persons who are not—
+
+    (i) directors or officers of the business enterprise, or
+
+    (ii) family members (as so determined) of a substantial contributor (as so defined) to the private foundation, and
+
+  (C) there is no loan outstanding from the business enterprise to a substantial contributor (as so defined) to the private foundation or to any family member of such a contributor (as so determined).
+
+(5) **Certain deemed private foundations excluded** — This subsection shall not apply to—
+
+  (A) any fund or organization treated as a private foundation for purposes of this section by reason of subsection (e) or (f),
+
+  (B) any trust described in section 4947(a)(1) (relating to charitable trusts), and
+
+  (C) any trust described in section 4947(a)(2) (relating to split-interest trusts).
+
 ### Statutory Notes
 
 #### References in Text
@@ -887,6 +929,8 @@ The date of enactment of this subsection, referred to in subsecs. (e)(3)(A) and 
 Sections 1212(c), 1233(a), and 1243(a) of Pub. L. 109–280, which directed the amendment of section 4943 without specifying the act to be amended, were executed to this section, which is section 4943 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–123 added subsec. (g).
+
 2014—Subsecs. (e)(3)(B), (f)(7)(B). Pub. L. 113–295 substituted “January 1, 1971” for “January 1, 1970”.
 
 2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(c), substituted “10 percent” for “5 percent”. See Codification note above.
@@ -912,6 +956,9 @@ Subsec. (d)(2). Pub. L. 96–596, § 2(a)(2)(C), substituted provision ending th
 Subsec. (d)(3), (4). Pub. L. 96–596, § 2(a)(3)(C), (4)(B), redesignated par. (4) as (3), and in subpar. (A) of par. (3) as so redesignated, substituted “section 4942(j)(4)” for “section 4942(j)(5)”, and struck out par. (3), which defined correction period, with respect to excess business holdings of a private foundation in a business enterprise, as the period ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under [section 6212 of this title](./chapter-063-assessment.md#section-6212), extended by any period in which a deficiency cannot be assessed under [section 6213(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6213/a&num=0&edition=prelim) and any other period which the Secretary determines is reasonable and necessary to permit orderly disposition of such excess business holdings.
 
 1976—Subsecs. (c), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–123, div. D, title II, § 41110(b), Feb. 9, 2018, 132 Stat. 160, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 #### Effective Date of 2006 Amendment
 Amendment by section 1212(c) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under [section 4941 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4941).
@@ -1077,7 +1124,7 @@ In determining whether the organization meets the requirements of paragraph (4) 
 
 **(i) Other definitions** For purposes of this section—
 
-(1) **Correction** — The terms “correction” and “correct” means, with respect to any taxable expenditure, (A) recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
+(1) **Correction** — The terms “correction” and “correct” mean, with respect to any taxable expenditure, (A) recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
 
 (2) **Taxable period** — The term “taxable period” means, with respect to any taxable expenditure, the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of—
 
@@ -1306,7 +1353,7 @@ Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for 
 
   (A) Except as provided in subparagraph (B), a foreign organization described in subsection (b) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) for all taxable years beginning with the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction. The Secretary shall publish such notice in the Federal Register on the day on which he so notifies such foreign organization.
 
-  (B) Under regulations prescribed by the Secretary any foreign organization described in subsection (b) which is denied exemption from taxation under section 501(a) by reason of paragraph (1) may, with respect to the second taxable year following the taxable year in which notice is given under subparagraph (A) (or any taxable year thereafter), file claim for exemption from taxation under section 501(a). If the Secretary is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall not, with respect to taxable years beginning with the taxable year with respect to which such claim is filed, be denied exemption from taxation under section 501(a) by reason of any prohibited transaction which was engaged in before the date on which such notice was given under subparagraph (A).
+  (B) Under regulations prescribed by the Secretary, any foreign organization described in subsection (b) which is denied exemption from taxation under section 501(a) by reason of paragraph (1) may, with respect to the second taxable year following the taxable year in which notice is given under subparagraph (A) (or any taxable year thereafter), file claim for exemption from taxation under section 501(a). If the Secretary is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall not, with respect to taxable years beginning with the taxable year with respect to which such claim is filed, be denied exemption from taxation under section 501(a) by reason of any prohibited transaction which was engaged in before the date on which such notice was given under subparagraph (A).
 
 (4) **Disallowance of certain charitable deductions** — No gift or bequest shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if made—
 
@@ -1641,7 +1688,7 @@ Such term shall not include a private foundation (as defined in section 509(a)).
 
   (C) a 35-percent controlled entity,
 
-  (D) any person who is described in subparagraph (A), (B), or (C) with respect to an organization described in section 509(a)(3) and organized and operated exclusively for the benefit of, to perform the functions of, or to carry out the purposes of the applicable tax-exempt organization.11 So in original. The period probably should be a comma.
+  (D) any person who is described in subparagraph (A), (B), or (C) with respect to an organization described in section 509(a)(3) and organized and operated exclusively for the benefit of, to perform the functions of, or to carry out the purposes of the applicable tax-exempt organization,
 
   (E) which involves a donor advised fund (as defined in section 4966(d)(2)), any person who is described in paragraph (7) with respect to such donor advised fund (as so defined), and
 
@@ -1697,6 +1744,8 @@ Such term shall not include a private foundation (as defined in section 509(a)).
 Sections 1212(a)(3), 1232(a), (b), and 1242(a), (b) of Pub. L. 109–280, which directed the amendment of section 4958 without specifying the act to be amended, were executed to this section, which is section 4958 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2018—Subsec. (f)(1)(D). Pub. L. 115–141 substituted comma for period at end.
+
 2010—Subsec. (e)(1). Pub. L. 111–148 substituted “paragraph (3), (4), or (29)” for “paragraph (3) or (4)”.
 
 2007—Subsec. (c)(3)(A)(i)(II). Pub. L. 110–172, § 3(i)(1), substituted “subparagraph (C)(ii)” for “paragraph (1), (2), or (4) of section 509(a)”.
@@ -1752,6 +1801,97 @@ If a hospital organization to which section 501(r) applies fails to meet the req
 Section applicable to failures occurring after Mar. 23, 2010, see section 9007(f)(3) of Pub. L. 111–148, set out as an Effective Date of 2010 Amendment note under [section 501 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-501).
 
 
+<a id="section-4960"></a>
+## § 4960. Tax on excess tax-exempt organization executive compensation
+**(a) Tax imposed** There is hereby imposed a tax equal to the product of the rate of tax under section 11 and the sum of—
+
+(1) so much of the remuneration paid (other than any excess parachute payment) by an applicable tax-exempt organization for the taxable year with respect to employment of any covered employee in excess of $1,000,000, plus
+
+(2) any excess parachute payment paid by such an organization to any covered employee.
+For purposes of the preceding sentence, remuneration shall be treated as paid when there is no substantial risk of forfeiture (within the meaning of section 457(f)(3)(B)) of the rights to such remuneration.
+
+**(b) Liability for tax** The employer shall be liable for the tax imposed under subsection (a).
+
+**(c) Definitions and special rules** For purposes of this section—
+
+(1) **Applicable tax-exempt organization** — The term “applicable tax-exempt organization” means any organization which for the taxable year—
+
+  (A) is exempt from taxation under section 501(a),
+
+  (B) is a farmers’ cooperative organization described in section 521(b)(1),
+
+  (C) has income excluded from taxation under section 115(1), or
+
+  (D) is a political organization described in section 527(e)(1).
+
+(2) **Covered employee** — For purposes of this section, the term “covered employee” means any employee (including any former employee) of an applicable tax-exempt organization if the employee—
+
+  (A) is one of the 5 highest compensated employees of the organization for the taxable year, or
+
+  (B) was a covered employee of the organization (or any predecessor) for any preceding taxable year beginning after December 31, 2016.
+
+(3) **Remuneration** — For purposes of this section:
+
+  (A) *In general* — The term “remuneration” means wages (as defined in section 3401(a)), except that such term shall not include any designated Roth contribution (as defined in section 402A(c)) and shall include amounts required to be included in gross income under section 457(f).
+
+  (B) *Exception for remuneration for medical services* — The term “remuneration” shall not include the portion of any remuneration paid to a licensed medical professional (including a veterinarian) which is for the performance of medical or veterinary services by such professional.
+
+(4) **Remuneration from related organizations**
+
+  (A) *In general* — Remuneration of a covered employee by an applicable tax-exempt organization shall include any remuneration paid with respect to employment of such employee by any related person or governmental entity.
+
+  (B) *Related organizations* — A person or governmental entity shall be treated as related to an applicable tax-exempt organization if such person or governmental entity—
+
+    (i) controls, or is controlled by, the organization,
+
+    (ii) is controlled by one or more persons which control the organization,
+
+    (iii) is a supported organization (as defined in section 509(f)(3)) during the taxable year with respect to the organization,
+
+    (iv) is a supporting organization described in section 509(a)(3) during the taxable year with respect to the organization, or
+
+    (v) in the case of an organization which is a voluntary employees’ beneficiary association described in section 501(c)(9), establishes, maintains, or makes contributions to such voluntary employees’ beneficiary association.
+
+  (C) *Liability for tax* — In any case in which remuneration from more than one employer is taken into account under this paragraph in determining the tax imposed by subsection (a), each such employer shall be liable for such tax in an amount which bears the same ratio to the total tax determined under subsection (a) with respect to such remuneration as—
+
+    (i) the amount of remuneration paid by such employer with respect to such employee, bears to
+
+    (ii) the amount of remuneration paid by all such employers to such employee.
+
+(5) **Excess parachute payment** — For purposes of determining the tax imposed by subsection (a)(2)—
+
+  (A) *In general* — The term “excess parachute payment” means an amount equal to the excess of any parachute payment over the portion of the base amount allocated to such payment.
+
+  (B) *Parachute payment* — The term “parachute payment” means any payment in the nature of compensation to (or for the benefit of) a covered employee if—
+
+    (i) such payment is contingent on such employee’s separation from employment with the employer, and
+
+    (ii) the aggregate present value of the payments in the nature of compensation to (or for the benefit of) such individual which are contingent on such separation equals or exceeds an amount equal to 3 times the base amount.
+
+  (C) *Exception* — Such term does not include any payment—
+
+    (i) described in section 280G(b)(6) (relating to exemption for payments under qualified plans),
+
+    (ii) made under or to an annuity contract described in section 403(b) or a plan described in section 457(b),
+
+    (iii) to a licensed medical professional (including a veterinarian) to the extent that such payment is for the performance of medical or veterinary services by such professional, or
+
+    (iv) to an individual who is not a highly compensated employee as defined in section 414(q).
+
+  (D) *Base amount* — Rules similar to the rules of 280G(b)(3) shall apply for purposes of determining the base amount.
+
+  (E) *Property transfers; present value* — Rules similar to the rules of paragraphs (3) and (4) of section 280G(d) shall apply.
+
+(6) **Coordination with deduction limitation** — Remuneration the deduction for which is not allowed by reason of section 162(m) shall not be taken into account for purposes of this section.
+
+**(d) Regulations** The Secretary shall prescribe such regulations as may be necessary to prevent avoidance of the tax under this section, including regulations to prevent avoidance of such tax through the performance of services other than as an employee or by providing compensation through a pass-through or other entity to avoid such tax.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 115–97, title I, § 13602(c), Dec. 22, 2017, 131 Stat. 2159, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017.”
+
+
 <a id="section-4961"></a>
 ## § 4961. Abatement of second tier taxes where there is correction
 **(a) General rule** If any taxable event is corrected during the correction period for such event, then any second tier tax imposed with respect to such event (including interest, additions to the tax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and if collected shall be credited or refunded as an overpayment.
@@ -1771,12 +1911,9 @@ Section applicable to failures occurring after Mar. 23, 2010, see section 9007(f
 ### Statutory Notes
 
 #### Amendments
-1992—Subsec. (c)(1). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in heading.
+2018—Subsec. (c)(1). Pub. L. 115–141 substituted “United States Court of Federal Claims” for “United States Claims Court” in heading.
 
 1986—Subsec. (c)(1). Pub. L. 99–514 substituted “United States Claims Court” for “Court of Claims” in heading.
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date
 Pub. L. 96–596, § 2(d), Dec. 24, 1980, 94 Stat. 3474, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(1) First tier taxes.—The amendments made by this section [enacting this section and [section 4962 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4962) and amending sections 4941 to 4945, 4951, 4952, 4971, 4975, 6213, 6214, 6503, and 7422 of this title] with respect to any first tier tax shall take effect as if included in the Internal Revenue Code of 1986 [formerly I.R.C. 1954] when such tax was first imposed. “(2) Second tier taxes.—The amendments made by this section with respect to any second tier tax shall apply only with respect to taxes assessed after the date of the enactment of this Act [Dec. 24, 1980]. Nothing in the preceding sentence shall be construed to permit the assessment of a tax in a case to which, on the date of the enactment of this Act, the doctrine of res judicata applies. “(3) First and second tier tax.—For purposes of this subsection, the terms ‘first tier tax’ and ‘second tier tax’ have the respective meanings given to such terms by section 4962 of the Internal Revenue Code of 1986.”
@@ -2116,3 +2253,53 @@ Section applicable to taxable years beginning after Aug. 17, 2006, see section 1
 
 #### Effective Date
 Section applicable to taxable years beginning after Aug. 17, 2006, see section 1231(c) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under [section 4963 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4963).
+
+
+<a id="section-4968"></a>
+## § 4968. Excise tax based on investment income of private colleges and universities
+**(a) Tax imposed** There is hereby imposed on each applicable educational institution for the taxable year a tax equal to 1.4 percent of the net investment income of such institution for the taxable year.
+
+**(b) Applicable educational institution** For purposes of this subchapter—
+
+(1) **In general** — The term “applicable educational institution” means an eligible educational institution (as defined in section 25A(f)(2))—
+
+  (A) which had at least 500 tuition-paying students during the preceding taxable year,
+
+  (B) more than 50 percent of the tuition-paying students of which are located in the United States,
+
+  (C) which is not described in the first sentence of section 511(a)(2)(B) (relating to State colleges and universities), and
+
+  (D) the aggregate fair market value of the assets of which at the end of the preceding taxable year (other than those assets which are used directly in carrying out the institution’s exempt purpose) is at least $500,000 per student of the institution.
+
+(2) **Students** — For purposes of paragraph (1), the number of students of an institution (including for purposes of determining the number of students at a particular location) shall be based on the daily average number of full-time students attending such institution (with part-time students taken into account on a full-time student equivalent basis).
+
+**(c) Net investment income** For purposes of this section, net investment income shall be determined under rules similar to the rules of section 4940(c).
+
+**(d) Assets and net investment income of related organizations**
+
+(1) **In general** — For purposes of subsections (b)(1)(C) and (c), assets and net investment income of any related organization with respect to an educational institution shall be treated as assets and net investment income, respectively, of the educational institution, except that—
+
+  (A) no such amount shall be taken into account with respect to more than 1 educational institution, and
+
+  (B) unless such organization is controlled by such institution or is described in section 509(a)(3) with respect to such institution for the taxable year, assets and net investment income which are not intended or available for the use or benefit of the educational institution shall not be taken into account.
+
+(2) **Related organization** — For purposes of this subsection, the term “related organization” means, with respect to an educational institution, any organization which—
+
+  (A) controls, or is controlled by, such institution,
+
+  (B) is controlled by 1 or more persons which also control such institution, or
+
+  (C) is a supported organization (as defined in section 509(f)(3)), or an organization described in section 509(a)(3), during the taxable year with respect to such institution.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (b)(1)(A). Pub. L. 115–123, § 41109(a)(1), inserted “tuition-paying” after “500”.
+
+Subsec. (b)(1)(B). Pub. L. 115–123, § 41109(a)(2), inserted “tuition-paying” after “50 percent of the”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–123, div. D, title II, § 41109(b), Feb. 9, 2018, 132 Stat. 159, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+
+#### Effective Date
+Pub. L. 115–97, title I, § 13701(c), Dec. 22, 2017, 131 Stat. 2168, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017.”

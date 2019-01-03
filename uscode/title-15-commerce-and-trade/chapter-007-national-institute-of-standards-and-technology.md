@@ -47,6 +47,9 @@ Section 5115(c) of Pub. L. 100–418 provided that: “References in any other F
 
 Act Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–236, § 1, Aug. 14, 2018, 132 Stat. 2444, provided that: “This Act [amending [section 272 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-272) and enacting provisions set out as notes under [section 272 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-272)] may be cited as the ‘NIST Small Business Cybersecurity Act’.”
+
 #### Short Title of 2017 Amendment
 Pub. L. 114–329, title V, § 501(a), Jan. 6, 2017, 130 Stat. 3023, provided that: “This section [enacting [section 278k–1 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k-1), amending sections 278g–5, 278k, and 278l of this title and [section 2199 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2199&num=0&edition=prelim), Armed Forces, and enacting provisions set out as notes under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k)] may be cited as the ‘Manufacturing Extension Partnership Improvement Act’.”
 
@@ -187,9 +190,11 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 
     (vi) align with voluntary international standards to the fullest extent possible;
 
-    (vii) prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes; and
+    (vii) prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes;
 
-    (viii) include such other similar and consistent elements as the Director considers necessary; and
+    (viii) consider small business concerns (as defined in [section 632 of this title](./chapter-14a-aid-to-small-business.md#section-632)); and
+
+    (ix) include such other similar and consistent elements as the Director considers necessary; and
 
   (B) shall not prescribe or otherwise require—
 
@@ -215,6 +220,8 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 Section 202 of the American Innovation and Competitiveness Act, referred to in subsec. (c)(19), is section 202 of Pub. L. 114–329, title II, Jan. 6, 2017, 130 Stat. 2997. Subsec. (a) of that section, which defines “scientific and technical workshop”, is not classified to the Code.
 
 #### Amendments
+2018—Subsec. (e)(1)(A)(viii), (ix). Pub. L. 115–236 added cl. (viii) and redesignated former cl. (viii) as (ix).
+
 2017—Subsec. (b). Pub. L. 114–329, § 403(1), in introductory provisions, substituted “authorized to serve as the President’s principal adviser on standards policy pertaining to the Nation’s technological competitiveness and innovation ability and to take” for “authorized to take”.
 
 Subsec. (b)(3). Pub. L. 114–329, § 403(2), substituted “facilitate standards-related information sharing and cooperation between Federal agencies” for “compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government”.
@@ -223,9 +230,9 @@ Subsec. (b)(13). Pub. L. 114–329, § 403(3), substituted “technical standard
 
 Subsec. (c)(16) to (27). Pub. L. 114–329, §§ 104(b)(4), 202(d), added pars. (16) and (19) to (21), redesignated former pars. (16) and (17) as (17) and (18), respectively, and redesignated former pars. (18) to (23) as (22) to (27), respectively.
 
-2014—Subsec. (c)(15) to (23). Pub. L. 113–274, § 101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
-
 Subsec. (d). Pub. L. 114–329, § 205(a)(2)(B), substituted “sections 278k and 278l” for “sections 278k, 278l, and 278n”.
+
+2014—Subsec. (c)(15) to (23). Pub. L. 113–274, § 101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
 
 Subsec. (e). Pub. L. 113–274, § 101(b), added subsec. (e).
 
@@ -250,6 +257,12 @@ Par. (20). Pub. L. 100–235 added par. (20).
 1972—Par. (19). Pub. L. 92–317 inserted provisions authorizing use of National Bureau of Standards personnel for teaching and training activities without additional compensation.
 
 1950—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
+
+#### Construction of Pub. L. 115–236
+Pub. L. 115–236, § 2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.”
+
+#### Dissemination of Resources for Small Businesses
+Pub. L. 115–236, § 2(c), Aug. 14, 2018, 132 Stat. 2444, provided that: “(1) In general.—Not later than one year after the date of the enactment of this Act [Aug. 14, 2018], the Director, in carrying out section 2(e)(1)(A)(viii) of the National Institute of Standards and Technology Act [[15 U.S.C. 272(e)(1)(A)(viii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/e/1/A/viii&num=0&edition=prelim)], as added by subsection (b) of this Act, in consultation with the heads of other appropriate Federal agencies, shall disseminate clear and concise resources to help small business concerns identify, assess, manage, and reduce their cybersecurity risks. “(2) Requirements.—The Director shall ensure that the resources disseminated pursuant to paragraph (1)—“(A) are generally applicable and usable by a wide range of small business concerns; “(B) vary with the nature and size of the implementing small business concern, and the nature and sensitivity of the data collected or stored on the information systems or devices of the implementing small business concern; “(C) include elements, that promote awareness of simple, basic controls, a workplace cybersecurity culture, and third-party stakeholder relationships, to assist small business concerns in mitigating common cybersecurity risks; “(D) include case studies of practical application; “(E) are technology-neutral and can be implemented using technologies that are commercial and off-the-shelf; and “(F) are based on international standards to the extent possible, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701](./chapter-063-technology-innovation.md#section-3701) et seq.). “(3) National cybersecurity awareness and education program.—The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the efforts of the Director under section 401 of the Cybersecurity Enhancement Act of 2014 ([15 U.S.C. 7451](./chapter-100a-cybersecurity-enhancement.md#section-7451)). “(4) Small business development center cyber strategy.—In carrying out paragraph (1), the Director, to the extent practicable, shall consider any methods included in the Small Business Development Center Cyber Strategy developed under section 1841(a)(3)(B) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) [130 Stat. 2662]. “(5) Voluntary resources.—The use of the resources disseminated under paragraph (1) shall be considered voluntary. “(6) Updates.—The Director shall review and, if necessary, update the resources disseminated under paragraph (1) in accordance with the requirements under paragraph (2). “(7) Public availability.—The Director and the head of each Federal agency that so elects shall make prominently available on the respective agency’s public Internet website information about the resources and updates to the resources disseminated under paragraph (1). The Director and the heads shall each ensure that the information they respectively make prominently available is consistent, clear, and concise.”
 
 #### NIST Cybersecurity Priorities
 Pub. L. 114–329, title I, § 104(b)(1), (2), Jan. 6, 2017, 130 Stat. 2975, provided that: “(1) Critical infrastructure awareness.—The Director of NIST [National Institute of Standards and Technology] shall continue to raise public awareness of the voluntary, industry-led cybersecurity standards and best practices for critical infrastructure developed under section 2(c)(15) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(c)(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/15&num=0&edition=prelim)). “(2) Quantum computing.—Under section 2(b) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/b&num=0&edition=prelim)) and section 20 of that Act ([15 U.S.C. 278g–3](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3)), the Director of NIST shall—“(A) research information systems for future cybersecurity needs; and “(B) coordinate with relevant stakeholders to develop a process—“(i) to research and identify or, if necessary, develop cryptography standards and guidelines for future cybersecurity needs, including quantum-resistant cryptography standards; and “(ii) to provide recommendations to Congress, Federal agencies, and industry consistent with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113; 110 Stat. 775), for a secure and smooth transition to the standards under clause (i).”
@@ -280,6 +293,9 @@ Act Oct. 25, 1949, ch. 703, 63 Stat. 886, provided for the construction and equi
 
 #### Construction of a Guided-Missile Research Laboratory
 Act Oct. 25, 1949, ch. 728, 63 Stat. 905, provided for the construction and equipment of a research laboratory building, suitable for use as a guided-missile laboratory, together with necessary utilities and appurtenances thereto, under a limit of cost of $1,900,000, for the National Bureau of Standards.
+
+#### Definitions
+Pub. L. 115–236, § 2(a), Aug. 14, 2018, 132 Stat. 2444, provided that: “In this section [amending this section and enacting provisions set out as notes under this section]: “(1) Director.—The term ‘Director’ means the Director of the National Institute of Standards and Technology. “(2) Resources.—The term ‘resources’ means guidelines, tools, best practices, standards, methodologies, and other ways of providing information. “(3) Small business concern.—The term ‘small business concern’ has the meaning given such term in section 3 of the Small Business Act ([15 U.S.C. 632](./chapter-14a-aid-to-small-business.md#section-632)).”
 
 
 <a id="section-272a"></a>

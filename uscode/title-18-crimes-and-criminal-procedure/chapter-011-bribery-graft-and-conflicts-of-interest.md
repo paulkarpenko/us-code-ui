@@ -2,7 +2,7 @@
 title: 18
 chapter: '11'
 heading: 'BRIBERY, GRAFT, AND CONFLICTS OF INTEREST'
-section_count: 25
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -698,12 +698,6 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
     (ii) granting the waiver would not create the potential for use of undue influence or unfair advantage.
 
-(3) **Members of the independent payment advisory board.—**
-
-  (A) *In general.—* — Paragraph (1) shall apply to a member of the Independent Payment Advisory Board under section 1899A.11 See References in Text note below.
-
-  (B) *Agencies and congress.—* — For purposes of paragraph (1), the agency in which the individual described in subparagraph (A) served shall be considered to be the Independent Payment Advisory Board, the Department of Health and Human Services, and the relevant committees of jurisdiction of Congress, including the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate.
-
 **(d) Restrictions on Very Senior Personnel of the Executive Branch and Independent Agencies.—**
 
 (1) **Restrictions.—** — In addition to the restrictions set forth in subsections (a) and (b), any person who—
@@ -934,8 +928,6 @@ The National Defense Authorization Act for Fiscal Year 2004, referred to in subs
 
 Senior Executive Service, referred to in subsec. (c)(2)(A)(ii), see [section 5382 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), Government Organization and Employees.
 
-Section 1899A, referred to in subsec. (c)(3)(A), probably means section 1899A of the Social Security Act, which is classified to [section 1395kkk of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395kkk&num=0&edition=prelim), The Public Health and Welfare.
-
 The Lobbying Disclosure Act of 1995, referred to in subsec. (e)(8), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1601&num=0&edition=prelim) and Tables.
 
 Section 102(a) of the Ethics Reform Act of 1989, referred to in subsec. (e)(9)(L), (M), is section 102(a) of Pub. L. 101–194, which is set out below.
@@ -957,6 +949,8 @@ A prior section 207, act June 25, 1948, ch. 645, 62 Stat. 692, related to the ac
 Provisions similar to those comprising this section were contained in [section 284 of this title](./chapter-015-claims-and-services-in-matters-affecting-government.md#section-284) prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
+2018—Subsec. (c)(3). Pub. L. 115–123 struck out par. (3) which related to members of the independent payment advisory board.
+
 2010—Subsec. (c)(3). Pub. L. 111–148, § 3403(a)(2), added par. (3).
 
 2007—Subsec. (d)(1). Pub. L. 110–81, § 101(a), substituted “within 2 years” for “within 1 year” in concluding provisions.
@@ -1098,8 +1092,6 @@ Subsec. (d). Pub. L. 96–28, § 2, designated existing provisions as par. (1), 
 1978—Pub. L. 95–521 expanded section to include provisions designed to more effectively deal with the problem of the disproportionate influence former officers and employees might have upon the government processes and decision-making in their previous departments or agencies when they return in the role of representatives or advocates of nongovernmental groups or interests before those same departments or agencies.
 
 #### Change of Name
-“Independent Payment Advisory Board” substituted for “Independent Medicare Advisory Board” in subsec. (c)(3) on authority of section 10320(b) of Pub. L. 111–148, set out as a note under [section 1395kkk of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395kkk&num=0&edition=prelim), The Public Health and Welfare.
-
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (e)(9)(G) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 2007 Amendment
@@ -1635,8 +1627,80 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 Section effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as an Effective Date of 1966 Amendment note under [section 611 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
-<a id="section-220-to-222"></a>
-## § 220 to 222. Renumbered §§ 215 to 217]
+<a id="section-220"></a>
+## § 220. Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories
+**(a) Offense.—** Except as provided in subsection (b), whoever, with respect to services covered by a health care benefit program, in or affecting interstate or foreign commerce, knowingly and willfully—
+
+(1) solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind, in return for referring a patient or patronage to a recovery home, clinical treatment facility, or laboratory; or
+
+(2) pays or offers any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind—
+
+  (A) to induce a referral of an individual to a recovery home, clinical treatment facility, or laboratory; or
+
+  (B) in exchange for an individual using the services of that recovery home, clinical treatment facility, or laboratory,
+shall be fined not more than $200,000, imprisoned not more than 10 years, or both, for each occurrence.
+
+**(b) Applicability.—** Subsection (a) shall not apply to—
+
+(1) a discount or other reduction in price obtained by a provider of services or other entity under a health care benefit program if the reduction in price is properly disclosed and appropriately reflected in the costs claimed or charges made by the provider or entity;
+
+(2) a payment made by an employer to an employee or independent contractor (who has a bona fide employment or contractual relationship with such employer) for employment, if the employee’s payment is not determined by or does not vary by—
+
+  (A) the number of individuals referred to a particular recovery home, clinical treatment facility, or laboratory;
+
+  (B) the number of tests or procedures performed; or
+
+  (C) the amount billed to or received from, in part or in whole, the health care benefit program from the individuals referred to a particular recovery home, clinical treatment facility, or laboratory;
+
+(3) a discount in the price of an applicable drug of a manufacturer that is furnished to an applicable beneficiary under the Medicare coverage gap discount program under section 1860D–14A(g) of the Social Security Act ([42 U.S.C. 1395w–114a(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g&num=0&edition=prelim));
+
+(4) a payment made by a principal to an agent as compensation for the services of the agent under a personal services and management contract that meets the requirements of section 1001.952(d) of title 42, Code of Federal Regulations, as in effect on the date of enactment of this section;
+
+(5) a waiver or discount (as defined in section 1001.952(h)(5) of title 42, Code of Federal Regulations, or any successor regulation) of any coinsurance or copayment by a health care benefit program if—
+
+  (A) the waiver or discount is not routinely provided; and
+
+  (B) the waiver or discount is provided in good faith;
+
+(6) a remuneration described in section 1128B(b)(3)(I) of the Social Security Act ([42 U.S.C. 1320a–7b(b)(3)(I)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b/b/3/I&num=0&edition=prelim));
+
+(7) a remuneration made pursuant to an alternative payment model (as defined in section 1833(z)(3)(C) of the Social Security Act) or pursuant to a payment arrangement used by a State, health insurance issuer, or group health plan if the Secretary of Health and Human Services has determined that such arrangement is necessary for care coordination or value-based care; or
+
+(8) any other payment, remuneration, discount, or reduction as determined by the Attorney General, in consultation with the Secretary of Health and Human Services, by regulation.
+
+**(c) Regulations.—** The Attorney General, in consultation with the Secretary of Health and Human Services, may promulgate regulations to clarify the exceptions described in subsection (b).
+
+**(d) Preemption.—**
+
+(1) **Federal law.—** — This section shall not apply to conduct that is prohibited under section 1128B of the Social Security Act ([42 U.S.C. 1320a–7b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b&num=0&edition=prelim)).
+
+(2) **State law.—** — Nothing in this section shall be construed to occupy the field in which any provisions of this section operate to the exclusion of State laws on the same subject matter.
+
+**(e) Definitions.—** In this section—
+
+(1) the terms “applicable beneficiary” and “applicable drug” have the meanings given those terms in section 1860D–14A(g) of the Social Security Act ([42 U.S.C. 1395w–114a(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g&num=0&edition=prelim));
+
+(2) the term “clinical treatment facility” means a medical setting, other than a hospital, that provides detoxification, risk reduction, outpatient treatment and care, residential treatment, or rehabilitation for substance use, pursuant to licensure or certification under State law;
+
+(3) the term “health care benefit program” has the meaning given the term in section 24(b);
+
+(4) the term “laboratory” has the meaning given the term in section 353 of the Public Health Service Act ([42 U.S.C. 263a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section263a&num=0&edition=prelim)); and
+
+(5) the term “recovery home” means a shared living environment that is, or purports to be, free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 115–271, which was approved Oct. 24, 2018.
+
+Section 1833(z)(3)(C) of the Social Security Act, referred to in subsec. (b)(7), is classified to section 1395l(z)(3)(C) of Title 42, The Public Health and Welfare.
+
+#### Prior Provisions
+A prior section 220 was renumbered section 215.
+
+
+<a id="section-221-222"></a>
+## § 221, 222. Renumbered §§ 216, 217]
 
 
 <a id="section-223"></a>

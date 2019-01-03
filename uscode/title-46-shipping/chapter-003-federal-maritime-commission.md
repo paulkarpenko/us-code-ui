@@ -107,9 +107,40 @@ A vacancy or vacancies in the membership of the Federal Maritime Commission do n
 
 
 <a id="section-303"></a>
-## § 303. Record of meetings and votes
+## § 303. Meetings
+**(a) In General.—** The Federal Maritime Commission shall be deemed to be an agency for purposes of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim).
 
-The Federal Maritime Commission, through its secretary, shall keep a record of its meetings and the votes taken on any action, order, contract, or financial transaction of the Commission.
+**(b) Record.—** The Commission, through its secretary, shall keep a record of its meetings and the votes taken on any action, order, contract, or financial transaction of the Commission.
+
+**(c) Nonpublic Collaborative Discussions.—**
+
+(1) **In general.—** — Notwithstanding [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim), a majority of the Commissioners may hold a meeting that is not open to public observation to discuss official agency business if—
+
+  (A) no formal or informal vote or other official agency action is taken at the meeting;
+
+  (B) each individual present at the meeting is a Commissioner or an employee of the Commission;
+
+  (C) at least 1 Commissioner from each political party is present at the meeting, if applicable; and
+
+  (D) the General Counsel of the Commission is present at the meeting.
+
+(2) **Disclosure of nonpublic collaborative discussions.—** — Except as provided under paragraph (3), not later than 2 business days after the conclusion of a meeting under paragraph (1), the Commission shall make available to the public, in a place easily accessible to the public—
+
+  (A) a list of the individuals present at the meeting; and
+
+  (B) a summary of the matters discussed at the meeting, except for any matters the Commission properly determines may be withheld from the public under [section 552b(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b/c&num=0&edition=prelim).
+
+(3) **Exception.—** — If the Commission properly determines matters may be withheld from the public under section 555b(c) 11 So in original. Probably should be “section 552b(c)”. of title 5, the Commission shall provide a summary with as much general information as possible on those matters withheld from the public.
+
+(4) **Ongoing proceedings.—** — If a meeting under paragraph (1) directly relates to an ongoing proceeding before the Commission, the Commission shall make the disclosure under paragraph (2) on the date of the final Commission decision.
+
+(5) **Preservation of open meetings requirements for agency action.—** — Nothing in this subsection may be construed to limit the applicability of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) with respect to a meeting of the Commissioners other than that described in this subsection.
+
+(6) **Statutory construction.—** — Nothing in this subsection may be construed—
+
+  (A) to limit the applicability of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) with respect to any information which is proposed to be withheld from the public under paragraph (2)(B) of this subsection; or
+
+  (B) to authorize the Commission to withhold from any individual any record that is accessible to that individual under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -119,6 +150,9 @@ The Federal Maritime Commission, through its secretary, shall keep a record of i
 | 303 | 46 App.:1111(c) (related to records). | June 29, 1936, ch. 858, title II, § 201(c) (related to records), 49 Stat. 1986. |
 
 The words “true” and “yea-and-nay” are omitted as unnecessary.
+
+#### Amendments
+2018—Pub. L. 115–282 amended section generally. Prior to amendment, text read as follows: “The Federal Maritime Commission, through its secretary, shall keep a record of its meetings and the votes taken on any action, order, contract, or financial transaction of the Commission.”
 
 
 <a id="section-304"></a>
@@ -152,6 +186,9 @@ The Federal Maritime Commission may prescribe regulations to carry out its dutie
 
 The words “to carry out its duties and powers” are substituted for “in regard to its procedure and the conduct of its business” in 46 App. U.S.C. 1111(c) and “to carry out this chapter” in 46 App. U.S.C. 1716(a) for consistency in the revised title. The text of 46 App. U.S.C. 1716(b) is omitted as executed and obsolete.
 
+#### Transparency in Unfinished Regulatory Proceedings
+Pub. L. 115–282, title VII, § 712, Dec. 4, 2018, 132 Stat. 4298, provided that: “(a) In General.—Beginning not later than 60 days after the date of enactment of this Act [Dec. 4, 2018], the Federal Maritime Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives biannual reports that describe the Commission’s progress toward addressing the issues raised in each unfinished regulatory proceeding, regardless of whether the proceeding is subject to a statutory or regulatory deadline. “(b) Format of Reports.—Each report under subsection (a) shall, among other things, clearly identify for each unfinished regulatory proceeding—“(1) the popular title; “(2) the current stage of the proceeding; “(3) an abstract of the proceeding; “(4) what prompted the action in question; “(5) any applicable statutory, regulatory, or judicial deadline; “(6) the associated docket number; “(7) the date the rulemaking was initiated; “(8) a date for the next action; and “(9) if a date for next action identified in the previous report is not met, the reason for the delay.”
+
 
 <a id="section-306"></a>
 ## § 306. Annual report
@@ -165,9 +202,13 @@ The words “to carry out its duties and powers” are substituted for “in reg
 
 (3) any actions being taken by the Commission to offset those conditions;
 
-(4) any recommendations for additional legislation to offset those conditions; and
+(4) any recommendations for additional legislation to offset those conditions;
 
-(5) a list of petitions filed under [section 42302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section42302/b&num=0&edition=prelim) that the Commission rejected and the reasons for each rejection.
+(5) a list of petitions filed under [section 42302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section42302/b&num=0&edition=prelim) that the Commission rejected and the reasons for each rejection; and
+
+(6) an analysis of the impacts on competition for the purchase of certain covered services by alliances of ocean common carriers acting pursuant to an agreement under this part 11 So in original. Subtitle I of title 46 does not contain parts. between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition.
+
+**(c) Definition of Certain Covered Services.—** In this section, the term “certain covered services” has the meaning given the term in section 40102.
 
 ### Statutory Notes
 
@@ -178,6 +219,11 @@ The words “to carry out its duties and powers” are substituted for “in reg
 | 306(b) | 46 App.:1710a(g). | Pub. L. 100–418, title X, § 10002(g), Aug. 23, 1988, 102 Stat. 1572. |
 
 In subsection (a), the words “a statement of all receipts under this chapter” are omitted as inapplicable to the Commission.
+
+#### Amendments
+2018—Subsec. (b)(6). Pub. L. 115–282, § 703(1), added par. (6).
+
+Subsec. (c). Pub. L. 115–282, § 703(2), added subsec. (c).
 
 
 <a id="section-307"></a>
@@ -202,4 +248,9 @@ The words “by this chapter”, “after June 29, 1936”, and “further” ar
 <a id="section-308"></a>
 ## § 308. Authorization of appropriations
 
-There is authorized to be appropriated to the Federal Maritime Commission $24,700,000 for each of fiscal years 2016 and 2017 for the activities of the Commission authorized under this chapter and subtitle IV.
+There is authorized to be appropriated to the Federal Maritime Commission $28,012,310 for fiscal year 2018 and $28,544,543 for fiscal year 2019 for the activities of the Commission authorized under this chapter and subtitle IV.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–282 substituted “$28,012,310 for fiscal year 2018 and $28,544,543 for fiscal year 2019” for “$24,700,000 for each of fiscal years 2016 and 2017”.

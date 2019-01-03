@@ -58,6 +58,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(c) Violation** Violation of this section, or other importation, sale, or other disposition of personal property within a foreign country which violates its laws or regulations or governing international law and is prohibited by regulations and policies, rules, and procedures issued pursuant to [section 4343 of this title](./chapter-53a-disposition-of-personal-property-abroad.md#section-4343), shall be grounds for disciplinary action against an employee.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Dec. 22, 1987, see section 186(b) of Pub. L. 100–204, set out as a note under [section 4741 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4741&num=0&edition=prelim).
+
 
 <a id="section-4343"></a>
 ## § 4343. Regulations
@@ -71,3 +76,6 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### References in Text
 For the effective date of this chapter, referred to in subsec. (b), as being 180 days after Dec. 22, 1987, see section 186(b) of Pub. L. 100–204 set out as an Effective Date note under [section 4341 of this title](./chapter-53a-disposition-of-personal-property-abroad.md#section-4341).
+
+#### Effective Date
+Section effective 180 days after Dec. 22, 1987, see section 186(b) of Pub. L. 100–204, set out as a note under [section 4741 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4741&num=0&edition=prelim).

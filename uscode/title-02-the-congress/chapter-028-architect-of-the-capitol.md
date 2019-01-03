@@ -2,7 +2,7 @@
 title: 2
 chapter: '28'
 heading: ARCHITECT OF THE CAPITOL
-section_count: 67
+section_count: 69
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -629,7 +629,7 @@ Pub. L. 108–199, div. H, § 152, Jan. 23, 2004, 118 Stat. 448, provided that: 
 
 <a id="section-1821"></a>
 ## § 1821. Small purchase contracting authority
-**(a) In general** Notwithstanding any other provision of law—
+**(a) In general** To promote efficiency and economy in contracting and to avoid unnecessary burdens, the Architect of the Capitol is granted authority to utilize special simplified procedures for purchases of property and services the aggregate amount of which does not exceed $250,000. Notwithstanding any other provision of law—
 
 (1) [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) shall apply with respect to purchases and contracts for the Architect of the Capitol as if the reference to “$25,000” in paragraph (1) of such section were a reference to “$100,000”; and
 
@@ -646,6 +646,12 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 #### Prior Provisions
 Prior similar provisions were contained in Pub. L. 107–68, title I, § 131, Nov. 12, 2001, 115 Stat. 581.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–244, which directed amendment of “[2 U.S.C. 1821](./chapter-028-architect-of-the-capitol.md#section-1821)” by inserting “To promote efficiency and economy in contracting and to avoid unnecessary burdens, the Architect of the Capitol is granted authority to utilize special simplified procedures for purchases of property and services the aggregate amount of which does not exceed $250,000.” before “Notwithstanding any other provision” in introductory provisions, was executed by making the amendment to section 1201(a) of Pub. L. 108–7, div. H, title I, which is classified to this section, to reflect the probable intent of Congress.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–244, div. B, title I, § 133(b), Sept. 21, 2018, 132 Stat. 2936, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
 
 
 <a id="section-1822"></a>
@@ -955,6 +961,21 @@ Section is based on act July 11, 1888, popularly known as the “Legislative, Ex
 
 #### Effective Date of 1946 Amendment
 Act Aug. 2, 1946, ch. 753, title I, § 142, 60 Stat. 834, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, 60 Stat. 839, provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+
+
+<a id="section-1835"></a>
+## § 1835. Interagency details
+**(a) Authorizing details of employees under joint agency agreements** In addition to any other authority relating to the detail of employees, the Architect of the Capitol and the head of any other department, agency, or instrumentality of the United States Government may enter into a joint agency agreement under which—
+
+(1) employees of the Office of the Architect of the Capitol (including employees of the United States Botanic Garden) may be detailed to such department, agency, or instrumentality on a reimbursable or non-reimbursable basis; and
+
+(2) employees of such department, agency, or instrumentality may be detailed to the Office of the Architect of the Capitol on a reimbursable or non-reimbursable basis.
+
+**(b) Duration** The detail of an employee under a joint agency agreement under this section shall be for such duration as may be provided in the agreement, except that in the case of a detail made on a non-reimbursable basis, the duration of the detail may not exceed one year unless the Architect of the Capitol and the head of the department, agency, or instrumentality involved each determine that an extension of the detail of the employee is in the public interest.
+
+**(c) No effect on appropriations of recipient of non-reimbursable detail** For purposes of any law, rule, or regulation, the detail of an employee on a non-reimbursable basis under a joint agency agreement under this section for a fiscal year shall not be treated as an increase or modification of the appropriation for the fiscal year of the office to whom the employee is detailed.
+
+**(d) Effective date** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
 
 
 <a id="section-1841"></a>
@@ -1405,14 +1426,35 @@ Section is based on the words “to hereafter incur expenses authorized by the A
 ## § 1865. Capitol Police Buildings and Grounds Account
 **(a) Establishment** There is hereby established in the Treasury of the United States an account for the Architect of the Capitol to be known as “Capitol Police Buildings and Grounds” (hereinafter in this section referred to as the “account”).
 
-**(b) Use of funds** Funds in the account shall be used by the Architect of the Capitol for all necessary expenses for the maintenance, care, and operation of buildings and grounds of the United States Capitol Police.
+**(b) Use of funds** Funds in the account shall be used by the Architect of the Capitol for all necessary expenses for—
 
-**(c) Effective date; transfer of funds** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year. Any amounts provided to the Architect of the Capitol prior to August 2, 2002, for the maintenance, care, and operation of buildings of the United States Capitol Police during fiscal year 2002 shall be transferred to the account.
+(1) resilience and security programs of the Architect of the Capitol; and
+
+(2) the maintenance, care, and operation of buildings, grounds, and security enhancements for facilities of the United States Capitol Police and for other facilities associated with such resilience and security programs at any location.
+
+**(c) Approval of transfers of appropriations from Legislative Branch agencies**
+
+(1) For carrying out the purposes of the account, the Architect of the Capitol may receive transfers of appropriations from any agency of the Legislative Branch upon the approval of—
+
+  (A) the Committee on Appropriations of the House of Representatives, in the case of a transfer from an office of the House of Representatives;
+
+  (B) the Committee on Appropriations of the Senate, in the case of a transfer from an office of the Senate; or
+
+  (C) the Committees on Appropriations of the House of Representatives and the Senate, in the case of a transfer from any other office of the Government.
+
+(2) Amounts transferred under this subsection shall be merged with the account and made available under this section.
+
+(3) This subsection shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+
+**(d) Effective date; transfer of funds** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year. Any amounts provided to the Architect of the Capitol prior to August 2, 2002, for the maintenance, care, and operation of buildings of the United States Capitol Police during fiscal year 2002 shall be transferred to the account.
 
 ### Statutory Notes
 
 #### Codification
 Section was classified to section 166l of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Amendments
+2018—Subsecs. (b) to (d). Pub. L. 115–244 added subsec. (c), redesignated former subsec. (c) as (d), and amended subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: “Funds in the account shall be used by the Architect of the Capitol for all necessary expenses for the maintenance, care, and operation of buildings and grounds of the United States Capitol Police.”
 
 
 <a id="section-1866"></a>
@@ -1529,6 +1571,19 @@ Section 1101, referred to in subsec. (a), is section 1101 of title I of div. F o
 **(a)** Available balances of expired Architect of the Capitol appropriations shall be available to the Architect of the Capitol for reimbursing the Federal Employees Compensation Account (as established by [section 1109 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1109&num=0&edition=prelim)) for any amounts paid with respect to unemployment compensation payments for former employees of the Architect of the Capitol, notwithstanding any other provision of law, without regard to the fiscal year for which the obligation to make such payments is incurred.
 
 **(b)** This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
+
+
+<a id="section-1873"></a>
+## § 1873. Acceptance of travel expenses from non-Federal sources
+**(a) Permitting acceptance of expenses** Notwithstanding any other provision of law, the Architect of the Capitol may accept payment or authorize an employee of the Office of the Architect of the Capitol to accept payment on the Office’s behalf from non-Federal sources for travel, subsistence, and related expenses with respect to attendance of the employee (or the spouse of such employee) at any meeting or similar function relating to the employee’s official duties. Any cash payment so accepted shall be credited to the appropriation applicable to such expenses. In the case of a payment in kind so accepted, a pro rata reduction shall be made in any entitlement of the employee to payment from the Government for such expenses.
+
+**(b) Prohibiting acceptance from other sources** Except as provided in this section or [section 7342 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342&num=0&edition=prelim), the Office or an employee of the Office may not accept payment for expenses referred to in subsection (a). An employee who accepts any payment in violation of the preceding sentence—
+
+(1) may be required, in addition to any penalty provided by law, to repay, for deposit in the general fund of the Treasury, an amount equal to the amount of the payment so accepted; and
+
+(2) in the case of a repayment under paragraph (1), shall not be entitled to any payment from the Government for such expenses.
+
+**(c) Effective date** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
 
 
 <a id="section-1881"></a>

@@ -2147,7 +2147,13 @@ For definitions of terms used in this section, see [section 5301 of this title](
 
     (v) the banking entity does not, directly or indirectly, guarantee, assume, or otherwise insure the obligations or performance of the hedge fund or private equity fund or of any hedge fund or private equity fund in which such hedge fund or private equity fund invests;
 
-    (vi) the banking entity does not share with the hedge fund or private equity fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name;
+    (vi) the banking entity does not share with the hedge fund or private equity fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except that the hedge fund or private equity fund may share the same name or a variation of the same name as a banking entity that is an investment adviser to the hedge fund or private equity fund, if—
+
+      (I) such investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of [section 3106 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3106);
+
+      (II) such investment adviser does not share the same name or a variation of the same name as an insured depository institution, any company that controls an insured depository institution, or any company that is treated as a bank holding company for purposes of [section 3106 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3106); and
+
+      (III) such name does not contain the word “bank”;
 
     (vii) no director or employee of the banking entity takes or retains an equity interest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
 
@@ -2233,19 +2239,27 @@ For definitions of terms used in this section, see [section 5301 of this title](
 
 **(h) Definitions** In this section, the following definitions shall apply:
 
-(1) **Banking entity** — The term “banking entity” means any insured depository institution (as defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)), any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978, and any affiliate or subsidiary of any such entity. For purposes of this paragraph, the term “insured depository institution” does not include an institution that functions solely in a trust or fiduciary capacity, if—
+(1) **Banking entity** — The term “banking entity” means any insured depository institution (as defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)), any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978, and any affiliate or subsidiary of any such entity. For purposes of this paragraph, the term “insured depository institution” does not include an institution—
 
-  (A) all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
+  (A) that functions solely in a trust or fiduciary capacity, if—
 
-  (B) no deposits of such institution which are insured by the Federal Deposit Insurance Corporation are offered or marketed by or through an affiliate of such institution;
+    (i) all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
 
-  (C) such institution does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others or make commercial loans; and
+    (ii) no deposits of such institution which are insured by the Federal Deposit Insurance Corporation are offered or marketed by or through an affiliate of such institution;
 
-  (D) such institution does not—
+    (iii) such institution does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others or make commercial loans; and
 
-    (i) obtain payment or payment related services from any Federal Reserve bank, including any service referred to in [section 248a of this title](./chapter-003-federal-reserve-system.md#section-248a); or
+    (iv) such institution does not—
 
-    (ii) exercise discount or borrowing privileges pursuant to [section 461(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section461/b/7&num=0&edition=prelim).
+      (I) obtain payment or payment related services from any Federal Reserve bank, including any service referred to in [section 248a of this title](./chapter-003-federal-reserve-system.md#section-248a); or
+
+      (II) exercise discount or borrowing privileges pursuant to [section 461(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section461/b/7&num=0&edition=prelim); or
+
+  (B) that does not have and is not controlled by a company that has—
+
+    (i) more than $10,000,000,000 in total consolidated assets; and
+
+    (ii) total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5 percent of total consolidated assets.
 
 (2) **Hedge fund; private equity fund** — The terms “hedge fund” and “private equity fund” mean an issuer that would be an investment company, as defined in the Investment Company Act of 1940 ([15 U.S.C. 80a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–1&num=0&edition=prelim) et seq.), but for section 3(c)(1) or 3(c)(7) of that Act [[15 U.S.C. 80a–3(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/1&num=0&edition=prelim), (7)], or such similar funds as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule, as provided in subsection (b)(2), determine.
 
@@ -2259,7 +2273,7 @@ For definitions of terms used in this section, see [section 5301 of this title](
 
   (B) in any manner to select or to control (or to have employees, officers, or directors, or agents who constitute) a majority of the directors, trustees, or management of a fund; or
 
-  (C) to share with a fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name.
+  (C) to share with a fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except as permitted under subsection (d)(1)(G)(vi).
 
 (6) **Trading account** — The term “trading account” means any account used for acquiring or taking positions in the securities and instruments described in paragraph (4) principally for the purpose of selling in the near term (or otherwise with the intent to resell in order to profit from short-term price movements), and any such other accounts as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule as provided in subsection (b)(2), determine.
 
@@ -2285,6 +2299,19 @@ Section 102 of the Small Business Investment Act of 1958, referred to in subsec.
 Section 8 of the International Banking Act of 1978, referred to in subsec. (h)(1), is section 8 of Pub. L. 95–369, which enacted [section 3106 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3106) and amended [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841).
 
 The Investment Company Act of 1940, referred to in subsec. (h)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Subsec. (d)(1)(G)(vi). Pub. L. 115–174, § 204(1), inserted before semicolon “, except that the hedge fund or private equity fund may share the same name or a variation of the same name as a banking entity that is an investment adviser to the hedge fund or private equity fund, if—
+
+“(I) such investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of [section 3106 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3106);
+
+“(II) such investment adviser does not share the same name or a variation of the same name as an insured depository institution, any company that controls an insured depository institution, or any company that is treated as a bank holding company for purposes of [section 3106 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3106); and
+
+“(III) such name does not contain the word ‘bank’ ”.
+
+Subsec. (h)(1). Pub. L. 115–174, § 203, substituted “institution—” for “institution that functions solely in a trust or fiduciary capacity, if—” in introductory provisions, inserted “(A) that functions solely in a trust or fiduciary capacity, if—” after introductory provisions, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) and (ii) of former subpar. (D) as subcls. (I) and (II), respectively, of cl. (iv) of subpar. (A) and realigned margins, and added subpar. (B).
+
+Subsec. (h)(5)(C). Pub. L. 115–174, § 204(2), inserted “, except as permitted under subsection (d)(1)(G)(vi)” before period at end.
 
 #### Effective Date
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).

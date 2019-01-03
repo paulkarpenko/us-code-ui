@@ -67,9 +67,9 @@ For the purposes of this Act, the term—
 
     (i) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel;
 
-    (ii) in the case of an onshore or offshore facility, any person owning or operating such facility;
+    (ii) in the case of an onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity owning or operating such facility;
 
-    (iii) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;
+    (iii) in the case of any abandoned offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that owned or operated such facility immediately prior to such abandonment;
 
     (iv) in the case of any facility, title or control of which was conveyed due to bankruptcy, foreclosure, tax delinquency, abandonment, or similar means to a unit of State or local government, any person who owned, operated, or otherwise controlled activities at such facility immediately beforehand;
 
@@ -130,17 +130,19 @@ For the purposes of this Act, the term—
 
 (32) “responsible party” means the following:
 
-  (A) *Vessels.—* — In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term “responsible party” also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in [section 3703a(b)(3) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703a/b/3&num=0&edition=prelim)).
+  (A) *Vessels.—* — In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term “responsible party” also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010.
 
   (B) *Onshore facilities.—* — In the case of an onshore facility (other than a pipeline), any person owning or operating the facility, except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as the owner transfers possession and right to use the property to another person by lease, assignment, or permit.
 
   (C) *Offshore facilities.—* — In the case of an offshore facility (other than a pipeline or a deepwater port licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.)), the lessee or permittee of the area in which the facility is located or the holder of a right of use and easement granted under applicable State law or the Outer Continental Shelf Lands Act ([43 U.S.C. 1301–135](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301–135&num=0&edition=prelim)6) for the area in which the facility is located (if the holder is a different person than the lessee or permittee), except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as owner transfers possession and right to use the property to another person by lease, assignment, or permit.
 
-  (D) *Deepwater ports.—* — In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501–152](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501–152&num=0&edition=prelim)4), the licensee.
+  (D) *Foreign facilities.—* — In the case of a foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or other entity owning or operating the facility, and any leaseholder, permit holder, assignee, or holder of a right of use and easement granted under applicable foreign law for the area in which the facility is located.
 
-  (E) *Pipelines.—* — In the case of a pipeline, any person owning or operating the pipeline.
+  (E) *Deepwater ports.—* — In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501–152](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501–152&num=0&edition=prelim)4), the licensee.
 
-  (F) *Abandonment.—* — In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+  (F) *Pipelines.—* — In the case of a pipeline, any person owning or operating the pipeline.
+
+  (G) *Abandonment.—* — In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,,11 So in original. Second comma probably should not appear. offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
 
 (33) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 
@@ -215,6 +217,14 @@ The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Par. (32)(A). Pub. L. 115–232 struck out “(other than a vessel described in [section 3703a(b)(3) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703a/b/3&num=0&edition=prelim))” before period at end.
+
+2017—Par. (26)(A)(ii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(I), substituted “onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity” for “onshore or offshore facility, any person”.
+
+Par. (26)(A)(iii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(II), substituted “offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that” for “offshore facility, the person who”.
+
+Par. (32)(D) to (G). Pub. L. 115–91, § 3508(b)(1)(A)(ii), added subpar. (D), redesignated former subpars. (D) to (F) as (E) to (G), respectively, and in subpar. (G) substituted “, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that” for “or offshore facility, the persons who”.
+
 2010—Par. (32)(A). Pub. L. 111–281 inserted “In the case of a vessel, the term ‘responsible party’ also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in [section 3703a(b)(3) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703a/b/3&num=0&edition=prelim)).” after “chartering the vessel.”
 
 2004—Par. (26). Pub. L. 108–293, § 703(a), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘owner or operator’ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;”.
@@ -420,7 +430,7 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is t
 
   (E) *Site inspection and title search* — In the case of real property for residential use or other similar use purchased by a nongovernmental or noncommercial entity, inspection and title search of the facility and the real property on which the facility is located that reveal no basis for further investigation shall be considered to satisfy the requirements of this paragraph.
 
-(5) **Previous owner or operator** — Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) 11 So in original. Probably should be preceded by “section”. of this title and no defense under subsection (a) shall be available to such responsible party.
+(5) **Previous owner or operator** — Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under [section 2702(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/a&num=0&edition=prelim) and no defense under subsection (a) shall be available to such responsible party.
 
 (6) **Limitation on defense** — Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
 
@@ -432,6 +442,8 @@ The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L.
 This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
+2018—Subsec. (d)(5). Pub. L. 115–232 inserted “section” before “2702(a)”.
+
 2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 
 
@@ -506,7 +518,7 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 
   (B) *Report* — Not later than 1 year after August 18, 1990, the Secretary shall submit to the Congress a report on the results of the study conducted under subparagraph (A).
 
-  (C) *Rulemaking proceeding* — If the Secretary determines, based on the results of the study conducted under this 22 So in original. The word “this” probably should not appear. subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
+  (C) *Rulemaking proceeding* — If the Secretary determines, based on the results of the study conducted under subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
 
 (3) **Periodic reports** — The President shall, within 6 months after August 18, 1990, and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a).
 
@@ -520,6 +532,8 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 10
 The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
 
 #### Amendments
+2018—Subsec. (d)(2)(C). Pub. L. 115–232 substituted “under subparagraph (A)” for “under this subparagraph (A)”.
+
 2010—Subsec. (a)(2). Pub. L. 111–281, § 903(e)(1), struck out first comma after “$800,000”.
 
 Pub. L. 111–281, § 903(a)(2), made technical amendment to directory language of Pub. L. 109–241, § 603(a)(2). See 2006 Amendment note below.
@@ -820,27 +834,7 @@ Functions of President under this section delegated to Administrator of Environm
 
 **(f) Rights of subrogation** Payment of any claim or obligation by the Fund under this Act shall be subject to the United States Government acquiring by subrogation all rights of the claimant or State to recover from the responsible party.
 
-**(g) Audits**
-
-(1) **In general** — The Comptroller General of the United States shall conduct an audit, including a detailed accounting of each disbursement from the Fund in excess of $500,000 that is—
-
-  (A) disbursed by the National Pollution Fund Center and not reimbursed by the responsible party; and
-
-  (B) administered and managed by the receiving Federal agencies, including final payments made to agencies and contractors and, to the extent possible, subcontractors.
-
-(2) **Frequency** — The audits shall be conducted—
-
-  (A) at least once every 3 years after October 15, 2010, until 2016; and
-
-  (B) at least once every 5 years after the last audit conducted under subparagraph (A).
-
-(3) **Submission of results** — The Comptroller shall submit the results of each audit conducted under paragraph (1) to—
-
-  (A) the Senate Committee on Commerce, Science, and Transportation;
-
-  (B) the House of Representatives Committee on Transportation and Infrastructure; and
-
-  (C) the Secretary or Administrator of each agency referred to in paragraph (1)(B).
+**(g) Repealed. Pub. L. 115–282, title VIII, § 816(1), Dec. 4, 2018, 132 Stat. 4305**
 
 **(h) Period of limitations for claims**
 
@@ -870,7 +864,7 @@ Functions of President under this section delegated to Administrator of Environm
 
 **(l) Reports**
 
-(1) **In general** — Within one year after October 15, 2010, and annually thereafter, the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
+(1) **In general** — Each year, on the date on which the President submits to Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
 
   (A) provide a report on disbursements for the preceding fiscal year from the Fund, regardless of whether those disbursements were subject to annual appropriations, to—
 
@@ -882,18 +876,38 @@ Functions of President under this section delegated to Administrator of Environm
 
 (2) **Contents** — The report shall include—
 
-  (A) a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
+  (A) a list of each incident that—
 
-  (B) a description of how each such use of the Fund meets the requirements of subsection (a).
+    (i) occurred in the preceding fiscal year; and
+
+    (ii) resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more;
+
+  (B) a list of each incident that—
+
+    (i) occurred in the fiscal year preceding the preceding fiscal year; and
+
+    (ii) resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more; and
+
+  (C) an accounting of any amounts reimbursed to the Fund in the preceding fiscal year that were recovered from a responsible party for an incident that resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more.
 
 (3) **Agency recordkeeping** — Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended [section 1223 of this title](./chapter-025-ports-and-waterways-safety-program.md#section-1223) and enacted provisions set out as a note under [section 1223 of this title](./chapter-025-ports-and-waterways-safety-program.md#section-1223). Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under [section 3703 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703&num=0&edition=prelim), Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to [section 2736 of this title](./chapter-040-oil-pollution.md#section-2736). Section 8103 enacted provisions formerly set out as a note under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim), Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim) and enacted provisions formerly set out as a note under [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim). Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under [section 3703 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703&num=0&edition=prelim), Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to [section 2736 of this title](./chapter-040-oil-pollution.md#section-2736). Section 8103 enacted provisions formerly set out as a note under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim), Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–282, § 816(1), struck out subsec. (g) which related to audits.
+
+Subsec. (l)(1). Pub. L. 115–282, § 816(2), substituted “Each year, on the date on which the President submits to Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim),” for “Within one year after October 15, 2010, and annually thereafter,” in introductory provisions.
+
+Subsec. (l)(2). Pub. L. 115–282, § 816(3), amended par. (2) generally. Prior to amendment, text read as follows: “The report shall include—
+
+“(A) a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
+
+“(B) a description of how each such use of the Fund meets the requirements of subsection (a).”
+
 2010—Subsec. (a)(5)(B) to (D). Pub. L. 111–281, § 708(a), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
 Subsec. (g). Pub. L. 111–281, § 708(b)(1), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.”
@@ -1023,7 +1037,7 @@ Functions of President under this section delegated to Secretary of Department i
 
 (2) **Final damages** — Payment of such a claim shall not foreclose a claimant’s right to recovery of all damages to which the claimant otherwise is entitled under this Act or under any other law.
 
-**(c) Actions on behalf of Fund** At the request of the Secretary, the Attorney General shall commence an action on behalf of the Fund to recover any compensation paid by the Fund to any claimant pursuant to this Act, and all costs incurred by the Fund by reason of the claim, including interest (including prejudgment interest), administrative and adjudicative costs, and attorney’s fees. Such an action may be commenced against any responsible party or (subject to [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716)) guarantor, or against any other person who is liable, pursuant to any law, to the compensated claimant or to the Fund, for the cost or damages for which the compensation was paid. Such an action shall be commenced against the responsible foreign government or other responsible party to recover any removal costs or damages paid from the Fund as the result of the discharge, or substantial threat of discharge, of oil from a foreign offshore unit.
+**(c) Actions on behalf of Fund** At the request of the Secretary, the Attorney General shall commence an action on behalf of the Fund to recover any compensation paid by the Fund to any claimant pursuant to this Act, and all costs incurred by the Fund by reason of the claim, including interest (including prejudgment interest), administrative and adjudicative costs, and attorney’s fees. Such an action may be commenced against any responsible party or (subject to [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716)) guarantor, or against any other person who is liable, pursuant to any law, to the compensated claimant or to the Fund, for the cost or damages for which the compensation was paid. Such an action shall be commenced against the responsible foreign government or other responsible party to recover any removal costs or damages paid from the Fund as the result of the discharge, or substantial threat of discharge, of oil from a foreign offshore unit or other facility located seaward of the exclusive economic zone.
 
 **(d) Authority to settle** The head of any department or agency responsible for recovering amounts for which a person is liable under this subchapter may consider, compromise, and settle a claim for such amounts, including such costs paid from the Fund, if the claim has not been referred to the Attorney General. In any case in which the total amount to be recovered may exceed $500,000 (excluding interest), a claim may be compromised and settled under the preceding sentence only with the prior written approval of the Attorney General.
 
@@ -1033,6 +1047,8 @@ Functions of President under this section delegated to Secretary of Department i
 This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
+2017—Subsec. (c). Pub. L. 115–91 inserted “or other facility located seaward of the exclusive economic zone” after “foreign offshore unit”.
+
 2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 
 1996—Subsecs. (b), (c). Pub. L. 104–324 added subsec. (b) and redesignated former subsec. (b) as (c).
@@ -1152,14 +1168,19 @@ Specific functions of President under subsec. (e) of this section delegated to S
 
 <a id="section-2716a"></a>
 ## § 2716a. Financial responsibility civil penalties
-**(a) Administrative** Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716) or the regulations issued under that section, or with a denial or detention order issued under subsection (c)(2) 11 So in original. Probably should be “subsection (b)(2)”. of that section, shall be liable to the United States for a civil penalty, not to exceed $25,000 per day of violation. The amount of the civil penalty shall be assessed by the President by written notice. In determining the amount of the penalty, the President shall take into account the nature, circumstances, extent, and gravity of the violation, the degree of culpability, any history of prior violation, ability to pay, and such other matters as justice may require. The President may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which had been imposed under this paragraph. If any person fails to pay an assessed civil penalty after it has become final, the President may refer the matter to the Attorney General for collection.
+**(a) Administrative** Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716) or the regulations issued under that section, or with a denial or detention order issued under subsection (b)(2) of that section, shall be liable to the United States for a civil penalty, not to exceed $25,000 per day of violation. The amount of the civil penalty shall be assessed by the President by written notice. In determining the amount of the penalty, the President shall take into account the nature, circumstances, extent, and gravity of the violation, the degree of culpability, any history of prior violation, ability to pay, and such other matters as justice may require. The President may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which had been imposed under this paragraph. If any person fails to pay an assessed civil penalty after it has become final, the President may refer the matter to the Attorney General for collection.
 
-**(b) Judicial** In addition to, or in lieu of, assessing a penalty under subsection (a), the President may request the Attorney General to secure such relief as necessary to compel compliance with this 22 So in original. The word “this” probably should not appear. [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716), including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
+**(b) Judicial** In addition to, or in lieu of, assessing a penalty under subsection (a), the President may request the Attorney General to secure such relief as necessary to compel compliance with [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716), including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
 
 ### Statutory Notes
 
 #### Codification
 Section was not enacted as part of title I of Pub. L. 101–380 which comprises this subchapter.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–232, § 3547(d)(1), substituted “subsection (b)(2)” for “subsection (c)(2)”.
+
+Subsec. (b). Pub. L. 115–232, § 3547(d)(2), substituted “section 2716” for “this section 2716”.
 
 #### Delegation of Functions
 Specific functions of President under this section delegated to Secretary of Department in which Coast Guard is operating and Secretary of the Interior by section 5(b) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54765, as amended, set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).
@@ -1619,7 +1640,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 (1) **Associations and Councils** — Prior to the expiration of the 36-month period following August 18, 1990, each Association and Council established by this section shall report to the President and the Congress concerning its activities under this section, together with its recommendations.
 
-(2) **GAO** — Prior to the expiration of the 36-month period following August 18, 1990, the General Accounting Office shall report to the President and the Congress as to the handling of funds, including donated funds, by the entities carrying out the programs under this section, and the effectiveness of the demonstration programs carried out under this section, together with its recommendations.
+(2) **GAO** — Prior to the expiration of the 36-month period following August 18, 1990, the Government Accountability Office shall report to the President and the Congress as to the handling of funds, including donated funds, by the entities carrying out the programs under this section, and the effectiveness of the demonstration programs carried out under this section, together with its recommendations.
 
 **(m) Definitions** As used in this section, the term—
 
@@ -1658,12 +1679,11 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (l)(2). Pub. L. 115–232 substituted “Government Accountability Office” for “General Accounting Office”.
+
 2014—Subsec. (k)(3). Pub. L. 113–281 substituted “not less than $1,400,000” for “not more than $1,000,000” in introductory provisions.
 
 2006—Subsec. (m)(4). Pub. L. 109–241 substituted “of the department in which the Coast Guard is operating.” for “of Transportation.”
-
-#### Change of Name
-General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under [section 702 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section702&num=0&edition=prelim), Money and Finance.
 
 #### Delegation of Functions
 Functions of President under subsecs. (c)(2)(D) and (o) of this section delegated to Secretary of the Department in which the Coast Guard is operating by section 8(f), (g) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, as amended, set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).

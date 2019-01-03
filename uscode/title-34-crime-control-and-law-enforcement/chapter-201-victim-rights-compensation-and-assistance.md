@@ -2,7 +2,7 @@
 title: 34
 chapter: '201'
 heading: 'VICTIM RIGHTS, COMPENSATION, AND ASSISTANCE'
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -84,6 +84,12 @@ source: >-
 
   (C) Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
 
+(6)
+
+  (A) The Director may set aside up to $10,000,000 of the amounts remaining in the Fund in any fiscal year after distributing the amounts under paragraphs (2), (3), and (4), in a Child Pornography Victims Reserve, which may be used by the Attorney General for payments under [section 2259(d) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2259/d&num=0&edition=prelim).
+
+  (B) Amounts in the reserve may be carried over from fiscal year to fiscal year, but the total amount of the reserve shall not exceed $10,000,000. Notwithstanding subsection (c) and any limitation on Fund obligations in any future Act, unless the same should expressly refer to this section, any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
+
 **(e) Amounts awarded and unspent** Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
 
 **(f) “Offenses against the United States” as excluding** As used in this section, the term “offenses against the United States” does not include—
@@ -125,6 +131,8 @@ The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classifi
 Section was formerly classified to [section 10601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Subsec. (d)(6). Pub. L. 115–299 added par. (6).0
+
 2016—Subsec. (d)(3)(A)(i). Pub. L. 114–236 inserted “or section 3772, as it relates to direct services,” after “section 3771”.
 
 2015—Subsec. (d)(3)(A)(i). Pub. L. 114–22 inserted “section” before “3771”.
@@ -300,9 +308,11 @@ Pub. L. 98–473, title II, § 1409, Oct. 12, 1984, 98 Stat. 2178, provided that
 Pub. L. 107–56, title VI, § 621(e), Oct. 26, 2001, 115 Stat. 371, provided that: “Amounts transferred to the Crime Victims Fund for use in responding to the airplane hijackings and terrorist acts (including any related search, rescue, relief, assistance, or other similar activities) that occurred on September 11, 2001, shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund, notwithstanding— “(1) section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 [section 1(a)(2) [title VI, § 619] of Pub. L. 106–553, formerly set out as a note below], and any similar limitation on Fund obligations in such Act for Fiscal Year 2002 [see Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802, formerly set out as a note below]; and “(2) subsections (c) and (d) of section 1402 of the Victims of Crime Act of 1984 ([42 U.S.C. 10601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)) [now [34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)].”
 
 #### Limitation on Amounts Available for Obligation
-Pub. L. 115–31, div. B, title III, § 510, May 5, 2017, 131 Stat. 221, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 ([42 U.S.C. 10601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)) [now [34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)] in any fiscal year in excess of $2,573,000,000 shall not be available for obligation until the following fiscal year”.
+Pub. L. 115–141, div. B, title V, § 510, Mar. 23, 2018, 132 Stat. 437, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 ([34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)) in any fiscal year in excess of $4,436,000,000 shall not be available for obligation until the following fiscal year”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. B, title III, § 510, May 5, 2017, 131 Stat. 221.
 
 Pub. L. 114–113, div. B, title V, § 510, Dec. 18, 2015, 129 Stat. 2324.
 
@@ -1017,7 +1027,7 @@ Section not applicable with respect to a State compensation program that was an 
 
     (i) *In general* — Not less than 7 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by [section 10452 of this title](./chapter-101-justice-system-improvement.md#section-10452).
 
-    (ii) *Applicability of part 11 See References in Text note below.* — The requirements of this section shall not apply to funds allocated for the program described in clause (i).
+    (ii) *Applicability of part 22 See References in Text note below.* — The requirements of this section shall not apply to funds allocated for the program described in clause (i).
 
   (C) *Victims of sexual assault* — Of the amount made available under this subsection in each fiscal year, not less than 25 percent shall be used for direct services, training, and technical assistance to support projects focused solely or primarily on providing legal assistance to victims of sexual assault.
 
@@ -1518,6 +1528,158 @@ Subsec. (b)(2). Pub. L. 113–4, § 903(2)(B), substituted “stalking, and sex 
 Subsecs. (c), (d). Pub. L. 113–4, § 903(3), added subsecs. (c) and (d).
 
 
+<a id="section-20127"></a>
+## § 20127. Emergency and transitional pet shelter and housing assistance grant program
+(1) **Grant program**
+
+  (A) *In general* — The Secretary, acting in consultation with the Office of the Violence Against Women 11 So in original. Probably should be “Office on Violence Against Women”. of the Department of Justice, the Secretary of Housing and Urban Development, and the Secretary of Health and Human Services, shall award grants under this section to eligible entities to carry out programs to provide the assistance described in paragraph (3) with respect to victims of domestic violence, dating violence, sexual assault, or stalking and the pets, service animals, emotional support animals, or horses of such victims.
+
+  (B) *Memorandum of understanding* — The Secretary may enter into a memorandum of understanding with the head of another Department or agency, as appropriate, to carry out any of the authorities provided to the Secretary under this section.22 See References in Text note below.
+
+(2) **Application**
+
+  (A) *In general* — An eligible entity seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including—
+
+    (i) a description of the activities for which a grant under this section is sought;
+
+    (ii) such assurances as the Secretary determines to be necessary to ensure compliance by the entity with the requirements of this section; and
+
+    (iii) a certification that the entity, before engaging with any individual domestic violence victim, will disclose to the victim any mandatory duty of the entity to report instances of abuse and neglect (including instances of abuse and neglect of pets, service animals, emotional support animals, or horses).
+
+  (B) *Additional requirements* — In addition to the requirements of subparagraph (A), each application submitted by an eligible entity under that subparagraph shall—
+
+    (i) not include proposals for any activities that may compromise the safety of a domestic violence victim, including—
+
+      (I) background checks of domestic violence victims; or
+
+      (II) clinical evaluations to determine the eligibility of such a victim for support services;
+
+    (ii) not include proposals that would require mandatory services for victims or that a victim obtain a protective order in order to receive proposed services; and
+
+    (iii) reflect the eligible entity’s understanding of the dynamics of domestic violence, dating violence, sexual assault, or stalking.
+
+  (C) *Rules of construction* — Nothing in this paragraph shall be construed to require—
+
+    (i) domestic violence victims to participate in the criminal justice system in order to receive services; or
+
+    (ii) eligible entities receiving a grant under this section to breach client confidentiality.
+
+(3) **Use of funds** — Grants awarded under this section may only be used for programs that provide—
+
+  (A) emergency and transitional shelter and housing assistance for domestic violence victims with pets, service animals, emotional support animals, or horses, including assistance with respect to any construction or operating expenses of newly developed or existing emergency and transitional pet, service animal, emotional support animal, or horse shelter and housing (regardless of whether such shelter and housing is co-located at a victim service provider or within the community);
+
+  (B) short-term shelter and housing assistance for domestic violence victims with pets, service animals, emotional support animals, or horses, including assistance with respect to expenses incurred for the temporary shelter, housing, boarding, or fostering of the pets, service animals, emotional support animals, or horses of domestic violence victims and other expenses that are incidental to securing the safety of such a pet, service animal, emotional support animal, or horse during the sheltering, housing, or relocation of such victims;
+
+  (C) support services designed to enable a domestic violence victim who is fleeing a situation of domestic violence, dating violence, sexual assault, or stalking to—
+
+    (i) locate and secure—
+
+      (I) safe housing with the victim’s pet, service animal, emotional support animal, or horse; or
+
+      (II) safe accommodations for the victim’s pet, service animal, emotional support animal, or horse; or
+
+    (ii) provide the victim with pet, service animal, emotional support animal, or horse related services, such as transportation, care services, and other assistance; or
+
+  (D) for the training of relevant stakeholders on—
+
+    (i) the link between domestic violence, dating violence, sexual assault, or stalking and the abuse and neglect of pets, service animals, emotional support animals, and horses;
+
+    (ii) the needs of domestic violence victims;
+
+    (iii) best practices for providing support services to such victims;
+
+    (iv) best practices for providing such victims with referrals to victims’ services; and
+
+    (v) the importance of confidentiality.
+
+(4) **Grant conditions** — An eligible entity that receives a grant under this section shall, as a condition of such receipt, agree—
+
+  (A) to be bound by the nondisclosure of confidential information requirements of [section 12291(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/b/2&num=0&edition=prelim); and
+
+  (B) that the entity shall not condition the receipt of support, housing, or other benefits provided pursuant to this section on the participation of domestic violence victims in any or all of the support services offered to such victims through a program carried out by the entity using grant funds.
+
+(5) **Duration of assistance provided to victims**
+
+  (A) *In general* — Subject to subparagraph (B), assistance provided with respect to a pet, service animal, emotional support animal, or horse of a domestic violence victim using grant funds awarded under this section shall be provided for a period of not more than 24 months.
+
+  (B) *Extension* — An eligible entity that receives a grant under this section may extend the 24-month period referred to in subparagraph (A) for a period of not more than 6 months in the case of a domestic violence victim who—
+
+    (i) has made a good faith effort to acquire permanent housing for the victim and the victim’s pet, service animal, emotional support animal, or horse during that 24-month period; and
+
+    (ii) has been unable to acquire such permanent housing within that period.
+
+(6) **Report to the Secretary** — Not later than 1 year after the date on which an eligible entity receives a grant under this section and each year thereafter in which the grant funds are used, the entity shall submit to the Secretary a report that contains, with respect to assistance provided by the entity to domestic violence victims with pets, service animals, emotional support animals, or horses using grant funds received under this section, information on—
+
+  (A) the number of domestic violence victims with pets, service animals, emotional support animals, or horses provided such assistance; and
+
+  (B) the purpose, amount, type of, and duration of such assistance.
+
+(7) **Report to Congress**
+
+  (A) *Reporting requirement* — Not later than November 1 of each even-numbered fiscal year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains a compilation of the information contained in the reports submitted under paragraph (6).
+
+  (B) *Availability of report* — The Secretary shall transmit a copy of the report submitted under subparagraph (A) to—
+
+    (i) the Office on Violence Against Women of the Department of Justice;
+
+    (ii) the Office of Community Planning and Development of the Department of Housing and Urban Development; and
+
+    (iii) the Administration for Children and Families of the Department of Health and Human Services.
+
+(8) **Authorization of appropriations**
+
+  (A) *In general* — There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2019 through 2023.
+
+  (B) *Limitation* — Of the amount made available under subparagraph (A) in any fiscal year, not more than 5 percent may be used for evaluation, monitoring, salaries, and administrative expenses.
+
+(9) **Definitions** — In this section:
+
+  (A) *Domestic violence victim defined* — The term “domestic violence victim” means a victim of domestic violence, dating violence, sexual assault, or stalking.
+
+  (B) *Eligible entity* — The term “eligible entity” means—
+
+    (i) a State;
+
+    (ii) a unit of local government;
+
+    (iii) an Indian tribe; or
+
+    (iv) any other organization that has a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (as determined by the Secretary), including—
+
+      (I) a domestic violence and sexual assault victim service provider;
+
+      (II) a domestic violence and sexual assault coalition;
+
+      (III) a community-based and culturally specific organization;
+
+      (IV) any other nonprofit, nongovernmental organization; and
+
+      (V) any organization that works directly with pets, service animals, emotional support animals, or horses and collaborates with any organization referred to in clauses (i) through (iv), including—
+
+        (aa) an animal shelter; and
+
+        (bb) an animal welfare organization.
+
+  (C) *Emotional support animal* — The term “emotional support animal” means an animal that is covered by the exclusion specified in section 5.303 of title 24, Code of Federal Regulations (or a successor regulation), and that is not a service animal.
+
+  (D) *Pet* — The term “pet” means a domesticated animal, such as a dog, cat, bird, rodent, fish, turtle, or other animal that is kept for pleasure rather than for commercial purposes.
+
+  (E) *Service animal* — The term “service animal” has the meaning given the term in section 36.104 of title 28, Code of Federal Regulations (or a successor regulation).
+
+  (F) *Other terms* — Except as otherwise provided in this section, terms used in this section 2 shall have the meaning given such terms in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to par. (1)(B) and the second time appearing in par. (9)(F), was so in the original, meaning section 12502 of title XII of Pub. L. 115–334. For classification of section 12502 to the Code, see Codification note below.
+
+#### Codification
+Section is comprised of section 12502(b) of title XII of Pub. L. 115–334. Section 12502)(a) of Pub. L. 115–334 amended sections 2261A, 2262, 2264, and 2266 of Title 18, Crimes and Criminal Procedure. Section 12502(c) of Pub. L. 115–334 is not classified to the Code.
+
+#### Definition of Secretary
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
+
+
 <a id="section-20141"></a>
 ## § 20141. Services to victims
 **(a) Designation of responsible officials** The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the persons who will be responsible for identifying the victims of crime and performing the services described in subsection (c) at each stage of a criminal case.
@@ -1923,7 +2085,7 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
 (6) **Source other than this Fund** — The term “source other than this Fund” means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments (including payments from the September 11th Victim Compensation Fund ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note)), and court awarded compensation related to the act of international terrorism that gave rise to a claimant’s final judgment. The term “entitled or scheduled to receive” in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
 
-(7) **State sponsor of terrorism** — The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), [section 2371 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), [section 2780 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+(7) **State sponsor of terrorism** — The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) 1 of title 50, [section 2371 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), [section 2780 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 (8) **United States person** — The term “United States person” means a natural person who has suffered an injury arising from the actions of a foreign state for which the foreign state has been determined not to be immune from the jurisdiction of the courts of the United States under section 1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008) of title 28 or is eligible to make a claim under subsection (c)(2)(B) or subsection (c)(2)(C).
 
@@ -1941,6 +2103,8 @@ The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A
 The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The September 11th Victim Compensation Fund, referred to in subsec. (j)(6), probably means the September 11th Victim Compensation Fund of 2001, title IV of Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 237, which is set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
+
+[Section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim) can be found in [section 4813(c) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Codification
 Section was formerly classified to [section 10609 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10609&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

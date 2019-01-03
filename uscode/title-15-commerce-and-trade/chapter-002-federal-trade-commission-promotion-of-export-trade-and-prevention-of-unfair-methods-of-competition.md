@@ -4,7 +4,7 @@ chapter: '2'
 heading: >-
   FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR
   METHODS OF COMPETITION
-section_count: 82
+section_count: 83
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -628,6 +628,36 @@ Section was enacted as part of the Better Online Ticket Sales Act of 2016 or the
 Pub. L. 114–274, § 3, Dec. 14, 2016, 130 Stat. 1403, provided that: “In this Act [see Short Title of 2016 Amendment note set out under [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58)]: “(1) Commission.—The term ‘Commission’ means the Federal Trade Commission. “(2) Event.—The term ‘event’ means any concert, theatrical performance, sporting event, show, or similarly scheduled activity, taking place in a venue with a seating or attendance capacity exceeding 200 persons that—“(A) is open to the general public; and “(B) is promoted, advertised, or marketed in interstate commerce or for which event tickets are generally sold or distributed in interstate commerce. “(3) Event ticket.—The term ‘event ticket’ means any physical, electronic, or other form of a certificate, document, voucher, token, or other evidence indicating that the bearer, possessor, or person entitled to possession through purchase or otherwise has—“(A) a right, privilege, or license to enter an event venue or occupy a particular seat or area in an event venue with respect to one or more events; or “(B) an entitlement to purchase such a right, privilege, or license with respect to one or more future events. “(4) Ticket issuer.—The term ‘ticket issuer’ means any person who makes event tickets available, directly or indirectly, to the general public, and may include—“(A) the operator of the venue; “(B) the sponsor or promoter of an event; “(C) a sports team participating in an event or a league whose teams are participating in an event; “(D) a theater company, musical group, or similar participant in an event; and “(E) an agent for any such person.”
 
 
+<a id="section-45d"></a>
+## § 45d. Unfair or deceptive acts or practices with respect to substance use disorder treatment service and products
+**(a) Unlawful activity** It is unlawful to engage in an unfair or deceptive act or practice with respect to any substance use disorder treatment service or substance use disorder treatment product.
+
+**(b) Enforcement by the Federal Trade Commission**
+
+(1) **Unfair or deceptive acts or practices** — A violation of subsection (a) shall be treated as a violation of a rule under section 18 of the Federal Trade Commission Act ([15 U.S.C. 57a](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-57a)) regarding unfair or deceptive acts or practices.
+
+(2) **Powers of the Federal Trade Commission**
+
+  (A) *In general* — The Federal Trade Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.) were incorporated into and made a part of this section.
+
+  (B) *Privileges and immunities* — Any person who violates subsection (a) shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.) were incorporated and made part of this section.
+
+**(c) Authority preserved** Nothing in this subtitle shall be construed to limit the authority of the Federal Trade Commission or the Food and Drug Administration under any other provision of law.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+
+This subtitle, referred to in subsec. (c), is subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, Oct. 24, 2018, 132 Stat. 4082, known as the Opioid Addiction Recovery Fraud Prevention Act of 2018, which enacted this section and provisions set out as notes under this section and [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58).
+
+#### Codification
+Section was enacted as part of the Opioid Addiction Recovery Fraud Prevention Act of 2018, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Trade Commission Act which comprises this subchapter.
+
+#### Definitions
+Pub. L. 115–271, title VIII, § 8022, Oct. 24, 2018, 132 Stat. 4082, provided that: “For purposes of this subtitle [subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, see References in Text note above] only, and not [to] be construed or applied as to challenge or affect the characterization, definition, or treatment under any other statute, regulation, or rule: “(1) Substance use disorder treatment product.—The term ‘substance use disorder treatment product’ means a product for use or marketed for use in the treatment, cure, or prevention of a substance use disorder, including an opioid use disorder. “(2) Substance use disorder treatment service.—The term ‘substance use disorder treatment service’ means a service that purports to provide referrals to treatment, treatment, or recovery housing for people diagnosed with, having, or purporting to have a substance use disorder, including an opioid use disorder.”
+
+
 <a id="section-46"></a>
 ## § 46. Additional powers of Commission
 
@@ -681,7 +711,7 @@ The Commission shall also have power—
 
 (6) **Limitation** — The authority granted by this subsection shall not authorize the Commission to take any action or exercise any power with respect to a bank, a savings and loan institution described in [section 57a(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/3&num=0&edition=prelim), a Federal credit union described in [section 57a(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/4&num=0&edition=prelim), or a common carrier subject to the Act to regulate commerce, except in accordance with the undesignated proviso following the last designated subsection of this section.
 
-(7) **Assistance to certain countries** — The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to [section 4605(j)(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/4&num=0&edition=prelim).
+(7) **Assistance to certain countries** — The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 11 See References in Text note below. of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
 
 **(k) Referral of evidence for criminal proceedings**
 
@@ -713,6 +743,8 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (l), is defined in [section 44 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-44).
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-088-international-antitrust-enforcement-assistance.md#section-6201) and Tables.
+
+[Section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), see [section 4813(c) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Amendments
 2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment notes below.
@@ -1631,7 +1663,7 @@ Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as a
 
   (C) the appropriate Federal banking agency (as defined in [section 1813(q) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim)) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in [section 57a(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/3&num=0&edition=prelim), or a Federal credit union described in [section 57a(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/4&num=0&edition=prelim); and
 
-  (D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to [section 4605(j)(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/4&num=0&edition=prelim).
+  (D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 1 of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
   Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of [section 6211 of this title](./chapter-088-international-antitrust-enforcement-assistance.md#section-6211)) to any officer or employee of a foreign law enforcement agency.
 
 (7) In the event of the death, disability, or separation from service in the Commission of the custodian of any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony produced under any demand issued under this subchapter, or the official relief of the custodian from responsibility for the custody and control of such material, the Commission promptly shall—
@@ -1688,6 +1720,8 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 #### References in Text
 [Section 552(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/e&num=0&edition=prelim), referred to in subsec. (a)(2), was redesignated [section 552(f) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/f&num=0&edition=prelim), Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
+
+[Section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), referred to in subsec. (b)(6)(D), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), see [section 4813(c) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 [Section 3512 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3512&num=0&edition=prelim), referred to in subsec. (d)(1)(D), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 
@@ -2039,6 +2073,9 @@ For repeal of amendment renumbering this section by section 13 of Pub. L. 109–
 
 #### Termination Date of 2006 Amendment
 Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a note under [section 44 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-44).
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–271, title VIII, § 8021, Oct. 24, 2018, 132 Stat. 4082, provided that: “This subtitle [subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, enacting [section 45d of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45d) and provisions set out as a note under [section 45d of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45d)] may be cited as the ‘Opioid Addiction Recovery Fraud Prevention Act of 2018’.”
 
 #### Short Title of 2016 Amendment
 Pub. L. 114–274, § 1, Dec. 14, 2016, 130 Stat. 1401, provided that: “This Act [enacting [section 45c of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45c) and provisions set out as a note under [section 45c of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45c)] may be cited as the ‘Better Online Ticket Sales Act of 2016’ or the ‘BOTS Act of 2016’.”

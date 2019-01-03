@@ -2,7 +2,7 @@
 title: 18
 chapter: '77'
 heading: 'PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS'
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -63,7 +63,7 @@ Minor changes were made in phraseology.
 (2) entices, persuades, or induces any other person to go on board any vessel or to any other place with the intent that he or she may be made or held as a slave, or sent out of the country to be so made or held; or
 
 (3) obstructs, or attempts to obstruct, or in any way interferes with or prevents the enforcement of this section,
-shall be fined under this title, imprisoned not more than 20 years, or both.
+shall be fined under this title, imprisoned not more than 30 years, or both.
 
 **(b)** Whoever violates this section shall be fined under this title, imprisoned for any term of years or for life, or both if—
 
@@ -81,6 +81,8 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 Minor changes were made in paragraphing of section.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–392 substituted “not more than 30 years” for “not more than 20 years” in concluding provisions.
+
 2008—Pub. L. 110–457 amended section generally. Prior to amendment, section provided penalties for kidnapping or enticement of a person with intent to sell or hold such person as a slave.
 
 2000—Pub. L. 106–386, in last par., substituted “20 years” for “10 years” and inserted at end “If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.”
@@ -172,7 +174,7 @@ Mandatory-punishment provisions were rephrased in the alternative.
 <a id="section-1587"></a>
 ## § 1587. Possession of slaves aboard vessel
 
-Whoever, being the captain, master, or commander of any vessel found in any river, port, bay, harbor, or on the high seas within the jurisdiction of the United States, or hovering off the coast thereof, and having on board any person for the purpose of selling such person as a slave, or with intent to land such person for such purpose, shall be fined under this title or imprisoned not more than four years, or both.
+Whoever, being the captain, master, or commander of any vessel found in any river, port, bay, harbor, or on the high seas within the jurisdiction of the United States, or hovering off the coast thereof, and having on board any person for the purpose of selling such person as a slave, or with intent to land such person for such purpose, shall be fined under this title or imprisoned not more than 10 years, or both.
 
 ### Statutory Notes
 
@@ -184,6 +186,8 @@ Mandatory-punishment provisions were rephrased in the alternative.
 Minor change was made in phraseology.
 
 #### Amendments
+2018—Pub. L. 115–392 substituted “10 years” for “four years”.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
 
@@ -266,7 +270,7 @@ knowing, or, except where the act constituting the violation of paragraph (1) is
 
 **(c)** In a prosecution under subsection (a)(1) in which the defendant had a reasonable opportunity to observe the person so recruited, enticed, harbored, transported, provided, obtained, maintained, patronized, or solicited, the Government need not prove that the defendant knew, or recklessly disregarded the fact, that the person had not attained the age of 18 years.
 
-**(d)** Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be fined under this title, imprisoned for a term not to exceed 20 years, or both.
+**(d)** Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be fined under this title, imprisoned for a term not to exceed 25 years, or both.
 
 **(e)** In this section:
 
@@ -282,13 +286,19 @@ knowing, or, except where the act constituting the violation of paragraph (1) is
 
 (3) The term “commercial sex act” means any sex act, on account of which anything of value is given to or received by any person.
 
-(4) The term “serious harm” means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing commercial sexual activity in order to avoid incurring that harm.
+(4) The term “participation in a venture” means knowingly assisting, supporting, or facilitating a violation of subsection (a)(1).
 
-(5) The term “venture” means any group of two or more individuals associated in fact, whether or not a legal entity.
+(5) The term “serious harm” means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing commercial sexual activity in order to avoid incurring that harm.
+
+(6) The term “venture” means any group of two or more individuals associated in fact, whether or not a legal entity.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–392 substituted “25 years” for “20 years”.
+
+Subsec. (e)(4) to (6). Pub. L. 115–164 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
 2015—Subsec. (a). Pub. L. 114–22, § 118(b)(2), inserted “, except where the act constituting the violation of paragraph (1) is advertising,” after “knowing, or” in concluding provisions.
 
 Subsec. (a)(1). Pub. L. 114–22, § 118(b)(1), inserted “advertises,” after “obtains,”.
@@ -370,7 +380,7 @@ Section 103 of the Trafficking Victims Protection Act of 2000, referred to in su
 
 (2) An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
 
-(3) As used in this subsection, the term “full amount of the victim’s losses” has the same meaning as provided in section 2259(b)(3) and shall in addition include the greater of the gross income or value to the defendant of the victim’s services or labor or the value of the victim’s labor as guaranteed under the minimum wage and overtime guarantees of the Fair Labor Standards Act ([29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.).
+(3) As used in this subsection, the term “full amount of the victim’s losses” has the same meaning as provided in section 2259(c)(2) and shall in addition include the greater of the gross income or value to the defendant of the victim’s services or labor or the value of the victim’s labor as guaranteed under the minimum wage and overtime guarantees of the Fair Labor Standards Act ([29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.).
 
 (4) The forfeiture of property under this subsection shall be governed by the provisions of section 413 (other than subsection (d) of such section) of the Controlled Substances Act ([21 U.S.C. 853](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim)).
 
@@ -382,13 +392,20 @@ Section 103 of the Trafficking Victims Protection Act of 2000, referred to in su
 The Fair Labor Standards Act, referred to in subsec. (b)(3), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–299 substituted “section 2259(c)(2)” for “section 2259(b)(3)”.
+
 2008—Subsec. (b)(4). Pub. L. 110–457 added par. (4).
 
 
 <a id="section-1593a"></a>
 ## § 1593A. Benefitting financially from peonage, slavery, and trafficking in persons
 
-Whoever knowingly benefits, financially or by receiving anything of value, from participation in a venture which has engaged in any act in violation of section 1581(a), 1592, or 1595(a), knowing or in reckless disregard of the fact that the venture has engaged in such violation, shall be fined under this title or imprisoned in the same manner as a completed violation of such section.
+Whoever knowingly benefits, financially or by receiving anything of value, from participation in a venture which has engaged in any act in violation of this chapter, knowing or in reckless disregard of the fact that the venture has engaged in such violation, shall be fined under this title or imprisoned in the same manner as a completed violation of such section.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–393 substituted “this chapter” for “section 1581(a), 1592, or 1595(a)”.
 
 
 <a id="section-1594"></a>
@@ -445,24 +462,56 @@ Subsecs. (f), (g). Pub. L. 114–22, § 105(a)(3), (4), added subsec. (f) and re
 
 **(b)**
 
-(1) Any civil action filed under this section shall be stayed during the pendency of any criminal action arising out of the same occurrence in which the claimant is the victim.
+(1) Any civil action filed under subsection (a) shall be stayed during the pendency of any criminal action arising out of the same occurrence in which the claimant is the victim.
 
 (2) In this subsection, a “criminal action” includes investigation and prosecution and is pending until final adjudication in the trial court.
 
-**(c)** No action may be maintained under this section unless it is commenced not later than the later of—
+**(c)** No action may be maintained under subsection (a) unless it is commenced not later than the later of—
 
 (1) 10 years after the cause of action arose; or
 
 (2) 10 years after the victim reaches 18 years of age, if the victim was a minor at the time of the alleged offense.
 
+**(d)** In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates section 1591, the attorney general of the State, as parens patriae, may bring a civil action against such person on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsecs. (b)(1), (c). Pub. L. 115–164, § 6(b), substituted “subsection (a)” for “this section”.
+
+Subsec. (d). Pub. L. 115–164, § 6(a), added subsec. (d).
+
 2015—Subsec. (c). Pub. L. 114–22 substituted “not later than the later of—” for “not later than 10 years after the cause of action arose.” and added pars. (1) and (2).
 
 2008—Subsec. (a). Pub. L. 110–457, § 221(2)(A), struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
 
 Subsec. (c). Pub. L. 110–457, § 221(2)(B), added subsec. (c).
+
+
+<a id="section-1595a"></a>
+## § 1595A. Civil injunctions
+**(a) In General.—** Whenever it shall appear that any person is engaged or is about to engage in any act that constitutes or will constitute a violation of this chapter, chapter 110, or chapter 117, or a conspiracy under section 371 to commit a violation of this chapter, chapter 110, or chapter 117, the Attorney General may bring a civil action in a district court of the United States seeking an order to enjoin such act.
+
+**(b) Action by Court.—** The court shall proceed as soon as practicable to the hearing and determination of a civil action brought under subsection (a), and may, at any time before final determination, enter such a restraining order or prohibition, or take such other action, as is warranted to prevent a continuing and substantial injury to the United States or to any person or class of persons for whose protection the civil action is brought.
+
+**(c) Procedure.—**
+
+(1) **In general.—** — A proceeding under this section shall be governed by the Federal Rules of Civil Procedure, except that, if an indictment has been returned against the respondent, discovery shall be governed by the Federal Rules of Criminal Procedure.
+
+(2) **Sealed proceedings.—** — If a civil action is brought under subsection (a) before an indictment is returned against the respondent or while an indictment against the respondent is under seal—
+
+  (A) the court shall place the civil action under seal; and
+
+  (B) when the indictment is unsealed, the court shall unseal the civil action unless good cause exists to keep the civil action under seal.
+
+**(d) Rule of Construction.—** Nothing in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Civil Procedure, referred to in subsec. (c)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (c)(1), are set out in the Appendix to this title.
 
 
 <a id="section-1596"></a>

@@ -13,6 +13,11 @@ There is established in the executive branch of the Government an independent ag
 
 ### Statutory Notes
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–402, § 1, Dec. 31, 2018, 132 Stat. 5343, provided that: “This Act [amending [section 1862i of this title](./chapter-016-national-science-foundation.md#section-1862i) and enacting provisions set out as notes under sections 1862i and 1862p of this title] may be cited as the ‘Innovations in Mentoring, Training, and Apprenticeships Act’.”
+
+Pub. L. 115–303, § 1, Dec. 11, 2018, 132 Stat. 4399, provided that: “This Act [amending sections 1862n–1 and 1862n–1a of this title and enacting provisions set out as notes under [section 1862n–1 of this title](./chapter-016-national-science-foundation.md#section-1862n-1) and preceding [section 40901 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section40901&num=0&edition=prelim), National and Commercial Space Programs] may be cited as the ‘Women in Aerospace Education Act’.”
+
 #### Short Title of 2017 Amendment
 Pub. L. 115–6, § 1, Feb. 28, 2017, 131 Stat. 11, provided that: “This Act [amending [section 1885a of this title](./chapter-016-national-science-foundation.md#section-1885a) and enacting provisions set out as a note under [section 1885a of this title](./chapter-016-national-science-foundation.md#section-1885a)] may be cited as the ‘Promoting Women in Entrepreneurship Act’.”
 
@@ -637,7 +642,7 @@ Section was enacted as part of the Scientific and Advanced-Technology Act of 199
 
 (3) the establishment of innovative partnership arrangements that—
 
-  (A) involve associate-degree-granting colleges and other appropriate public and private sector entities,11 So in original. The comma probably should be a semicolon.
+  (A) involve associate-degree-granting colleges and other appropriate public and private sector entities;
 
   (B) provide for private sector donations, faculty opportunities to have short-term assignments with industry, sharing of program costs, equipment loans, and the cooperative use of laboratories, plants, and other facilities, and provision for state-of-the-art work experience opportunities for students enrolled in such programs; and
 
@@ -675,7 +680,7 @@ The centers shall serve as national and regional clearinghouses and models for t
     (iii) provide students with research experiences at bachelor’s-degree-granting institutions participating in the partnership, including stipend support for students participating in summer programs; and
 
     (iv) provide faculty mentors for students participating in activities under clause (iii), including summer salary support for faculty mentors.
-    Funds used by eligible partnerships to carry out clauses (i) and (ii) shall be from non-Federal sources. In-cash and in-kind resources used by eligible partnerships to carry out clauses (i) and (ii) shall not be considered to be contributions for purposes of applying subsection (f)(3).
+    Funds used by eligible partnerships to carry out clauses (i) and (ii) shall be from non-Federal sources. In-cash and in-kind resources used by eligible partnerships to carry out clauses (i) and (ii) shall not be considered to be contributions for purposes of applying subsection (i)(3).
 
   (C) Any institution participating in a partnership that receives a grant under this paragraph shall be ineligible to receive assistance under part B of title I of the Higher Education Act of 1965 [[20 U.S.C. 1011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1011&num=0&edition=prelim) et seq.] for the duration of the grant received under this paragraph.
 
@@ -685,13 +690,79 @@ The centers shall serve as national and regional clearinghouses and models for t
 
   (A) establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and entering higher-paying technical jobs in those fields; and
 
-  (B) make grants available to associate-degree-granting colleges to carry out the program identified in subsection 22 So in original. Probably should be “subparagraph”. (A).
+  (B) make grants available to associate-degree-granting colleges to carry out the program identified in subsection 11 So in original. Probably should be “subparagraph”. (A).
 
-**(d) Coordination with other Federal departments** In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c), the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 [[20 U.S.C. 1011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1011&num=0&edition=prelim) et seq.].
+**(d) Grants for associate degree programs in STEM fields**
 
-**(e) Limitation on funding** To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
+(1) **In-demand workforce grants** — The Director shall award grants to junior or community colleges to develop or improve associate degree or certificate programs in STEM fields, with respect to the region in which the respective college is located, and an in-demand industry sector or occupation.
 
-**(f) Functions of Director** In carrying out sections 1862h to 1862j of this title, the Director shall—
+(2) **Applications** — In considering applications for grants under paragraph (1), the Director shall prioritize—
+
+  (A) applications that consist of a partnership between the applying junior or community college and individual employers or an employer consortia,22 So in original. or industry or sector partnerships, and may include a university or other organization with demonstrated expertise in academic program development;
+
+  (B) applications that demonstrate current and future workforce demand in occupations directly related to the proposed associate degree or certificate program;
+
+  (C) applications that include commitments by the partnering employers or employer consortia, or industry or sector partnerships, to offer apprenticeships, internships, or other applied learning opportunities to students enrolled in the proposed associate degree or certificate program;
+
+  (D) applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields in the proposed associate degree or certificate program; and
+
+  (E) applications that describe how the applying junior or community college will support the collection of information and data for purposes of evaluation of the proposed associate degree or certificate program.
+
+**(e) Grants for STEM degree applied learning opportunities**
+
+(1) **In general** — The Director shall award grants to institutions of higher education partnering with private sector employers or private sector employer consortia, or industry or sector partnerships, that commit to offering apprenticeships, internships, research opportunities, or applied learning experiences to enrolled students in identified STEM baccalaureate degree programs.
+
+(2) **Purposes** — Awards under this subsection may be used—
+
+  (A) to develop curricula and programs for apprenticeship, internships, research opportunities, or applied learning experiences; or
+
+  (B) to provide matching funds to incentivize partnership and participation by private sector employers and industry.
+
+(3) **Applications** — In considering applications for grants under paragraph (1), the Director shall prioritize—
+
+  (A) applicants that consist of a partnership between—
+
+    (i) the applying institution of higher education; and
+
+    (ii) individual employers or an employer consortia,2 or industry or sector partnerships;
+
+  (B) applications that demonstrate current and future workforce demand in occupations directly related to the identified STEM fields;
+
+  (C) applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields; and
+
+  (D) applications that describe how the institution of higher education will support the collection and information of data for purposes of the evaluation of identified STEM degree programs.
+
+**(f) Grants for computer-based and online STEM education courses**
+
+(1) **In general** — The Director of the National Science Foundation shall award competitive grants to institutions of higher education or nonprofit organizations to conduct research on student outcomes and determine best practices for STEM education and technical skills education through distance learning or in a simulated work environment.
+
+(2) **Research areas** — The research areas eligible for funding under this subsection may include—
+
+  (A) post-secondary courses for technical skills development for STEM occupations;
+
+  (B) improving high-school level career and technical education in STEM subjects;
+
+  (C) encouraging and sustaining interest and achievement levels in STEM subjects among women and other populations historically underrepresented in STEM studies and careers; and
+
+  (D) combining computer-based and online STEM education and skills development with traditional mentoring and other mentoring arrangements, apprenticeships, internships, and other applied learning opportunities.
+
+**(g) Coordination with other Federal departments** In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c), the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 [[20 U.S.C. 1011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1011&num=0&edition=prelim) et seq.].
+
+**(h) Funding**
+
+(1) **Funding** — The Director shall allocate out of amounts made available for the Education and Human Resources Directorate—
+
+  (A) up to $5,000,000 to carry out the activities under subsection (d) for each of fiscal years 2019 through 2022, subject to the availability of appropriations;
+
+  (B) up to $2,500,000 to carry out the activities under subsection (e) for each of fiscal years 2019 through 2022, subject to the availability of appropriations; and
+
+  (C) up to $2,500,000 to carry out the activities under subsection (f) for each of fiscal years 2019 through 2022, subject to the availability of appropriations.
+
+(2) **Limitation on funding** — Amounts made available to carry out subsections (d), (e), and (f) shall be derived from amounts appropriated or otherwise made available to the National Science Foundation.
+
+(3) **Limitation on funding** — To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
+
+**(i) Functions of Director** In carrying out sections 1862h to 1862j of this title, the Director shall—
 
 (1) award grants on a competitive, merit basis;
 
@@ -703,7 +774,7 @@ The centers shall serve as national and regional clearinghouses and models for t
 
 (5) designate an officer of the National Science Foundation to serve as a liaison with associate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
 
-**(g) Definitions** As used in this section—
+**(j) Definitions** As used in this section—
 
 (1) the term “advanced-technology” includes advanced technical activities such as the modernization, miniaturization, integration, and computerization of electronic, hydraulic, pneumatic, laser, nuclear, chemical, telecommunication, fiber optic, robotic, and other technological applications to enhance productivity improvements in manufacturing, communication, transportation, commercial, and similar economic and national security activities;
 
@@ -715,23 +786,49 @@ The centers shall serve as national and regional clearinghouses and models for t
 
 (3) the term “bachelor-degree-granting institution” means an institution of higher education (as determined under section 101 of the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)]) that offers a baccalaureate degree program;
 
-(4) the term “eligible partnership” means one or more associate-degree-granting colleges in partnership with one or more separate bachelor-degree-granting institutions; and
+(4) the term “eligible partnership” means one or more associate-degree-granting colleges in partnership with one or more separate bachelor-degree-granting institutions;
 
-(5) the term “local educational agency” has the meaning given such term in section 2891(12) 33 See References in Text note below. of title 20.
+(5) the term “in-demand industry sector or occupation” has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim);
+
+(6) the term “junior or community college” has the meaning given the term in section 312 of the Higher Education Act of 1965 ([20 U.S.C. 1058](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058&num=0&edition=prelim));
+
+(7) the term “local educational agency” has the meaning given such term in section 2891(12) 33 See References in Text note below. of title 20.44 So in original. The period probably should be a semicolon.
+
+(8) the term “region” means a labor market area, as that term is defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim); and
+
+(9) the terms “mathematics, science, engineering, or technology” or “STEM” mean science, technology, engineering, and mathematics, including computer science.
 
 ### Statutory Notes
 
 #### References in Text
-Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (f), was in the original “this Act”, meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862j of this title and amended [section 1862 of this title](./chapter-016-national-science-foundation.md#section-1862). For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1861 of this title](./chapter-016-national-science-foundation.md#section-1861) and Tables.
+Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (i), was in the original “this Act”, meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862j of this title and amended [section 1862 of this title](./chapter-016-national-science-foundation.md#section-1862). For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1861 of this title](./chapter-016-national-science-foundation.md#section-1861) and Tables.
 
-The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§ 1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, § 101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, which formerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (g), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§ 1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, § 101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, which formerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
-[Section 2891(12) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2891/12&num=0&edition=prelim), referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 2891(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2891/12&num=0&edition=prelim)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see [section 7801 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), Education.
+[Section 2891(12) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2891/12&num=0&edition=prelim), referred to in subsec. (j)(7), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 2891(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2891/12&num=0&edition=prelim)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see [section 7801 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), Education.
 
 #### Codification
 Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (a)(3)(A). Pub. L. 115–402, § 3(3), substituted semicolon for comma at end.
+
+Subsec. (c)(1)(B). Pub. L. 115–402, § 3(4), which directed substitution of “subsection (i)(3)” for “subsection (f)(3)” in cl. (iv), was executed by making the substitution in concluding provisions of subpar. (B) following cl. (iv), to reflect the probable intent of Congress.
+
+Subsecs. (d) to (f). Pub. L. 115–402, § 3(2), added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (g) to (i), respectively.
+
+Subsec. (g). Pub. L. 115–402, § 3(1), redesignated subsec. (d) as (g).
+
+Subsec. (h). Pub. L. 115–402, § 3(5), substituted “Funding” for “Limitation on funding” in heading, designated existing provisions as par. (3) and inserted heading, and added pars. (1) and (2).
+
+Pub. L. 115–402, § 3(1), redesignated subsec. (e) as (h).
+
+Subsec. (i). Pub. L. 115–402, § 3(1), redesignated subsec. (f) as (i).
+
+Subsec. (j). Pub. L. 115–402, § 3(1), redesignated subsec. (g) as (j).
+
+Subsec. (j)(5) to (9). Pub. L. 115–402, § 3(6), added pars. (5) and (6), redesignated former par. (5) as (7), and added pars. (8) and (9).
+
 2007—Subsec. (a)(3)(A). Pub. L. 110–69, § 7031(a)(1)(A), which directed striking out “and” after the semicolon, was executed by striking out “and” after the comma, to reflect the probable intent of Congress.
 
 Subsec. (a)(3)(B), (C). Pub. L. 110–69, § 7031(a)(1)(B), (C), substituted “; and” for semicolon in subpar. (B) and added subpar. (C).
@@ -750,6 +847,9 @@ Subsec. (c)(1)(B)(iii), (iv). Pub. L. 107–368, § 21(b), added cls. (iii) and 
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
+
+#### Findings
+Pub. L. 115–402, § 2, Dec. 31, 2018, 132 Stat. 5343, provided that: “Congress finds the following: “(1) To remain competitive in the global economy, foster greater innovation, and provide a foundation for shared prosperity, the United States needs a workforce with the right mix of skills to meet the diverse needs of the economy. “(2) Evidence indicates that the returns on investments in technical skills in the labor market are strong when students successfully complete their education and gain credentials sought by employers. “(3) The responsibility for developing and sustaining a skilled technical workforce is fragmented across many groups, including educators, students, workers, employers, Federal, State, and local governments, civic associations, and other stakeholders. Such groups need to be able to coordinate and cooperate successfully with each other. “(4) Coordination among students, community colleges, secondary and post-secondary institutions, and employers would improve educational outcomes. “(5) Promising experiments currently underway may guide innovation and reform, but scalability of some of those experiments has not yet been tested. “(6) Evidence suggests that integration of academic education, technical skills development, and hands-on work experience improves outcomes and return on investment for students in secondary and post-secondary education and for skilled technical workers in different career stages. “(7) Outcomes show that mentoring can increase STEM student engagement and the rate of completion of STEM post-secondary degrees.”
 
 
 <a id="section-1862j"></a>
@@ -1161,7 +1261,7 @@ Pub. L. 107–368, § 4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 11
 
     (iii) offering programs to students participating in the program, both before and after the students receive their baccalaureate degree, to enable the students to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students’ fields; and
 
-    (iv) providing summer internships for freshman and sophomore students participating in the program; or
+    (iv) providing summer internships for freshman and sophomore students participating in the program, including research experiences at national laboratories and NASA centers; or
 
   (B) to develop and implement a program to recruit and prepare science, technology, engineering, or mathematics professionals to become qualified as mathematics and science teachers, through—
 
@@ -1318,11 +1418,11 @@ Pub. L. 107–368, § 4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 11
 
 (4) the term “high need local educational agency” has the meaning given such term in section 201 of the Higher Education Act of 1965 ([20 U.S.C. 1021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1021&num=0&edition=prelim));
 
-(5) the term “mathematics and science teacher” means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
+(5) the term “mathematics and science teacher” means a science, technology, engineering, mathematics, or computer science, including cybersecurity, teacher at the elementary school or secondary school level;
 
 (6) the term “scholarship” means an award under subsection (c);
 
-(7) the term “science, technology, engineering, or mathematics professional” means a person who holds a baccalaureate, master’s, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and
+(7) the term “science, technology, engineering, or mathematics professional” means an individual who holds a baccalaureate, master’s, or doctoral degree in science, technology, engineering, mathematics, or computer science, including cybersecurity, and is working in or had a career in such field or a related area; and
 
 (8) the term “stipend” means an award under subsection (d).
 
@@ -1349,12 +1449,21 @@ Section 7030 of Pub. L. 110–69, which directed that “Section 10 of the Natio
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (a)(3)(A)(iv). Pub. L. 115–303 inserted “, including research experiences at national laboratories and NASA centers” before semicolon.
+
+2017—Subsec. (i)(5). Pub. L. 115–91, § 1649C(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘mathematics and science teacher’ means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;”.
+
+Subsec. (i)(7). Pub. L. 115–91, § 1649C(2), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “the term ‘science, technology, engineering, or mathematics professional’ means a person who holds a baccalaureate, master’s, or doctoral degree in science, technology, engineering, or mathematics, and is working in or had a career in such field or a related area; and”.
+
 2015—Subsec. (i)(5). Pub. L. 114–59 inserted “computer science,” after “means a science,”.
 
 2007—Pub. L. 110–69 amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (l), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
 
 #### Change of Name
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–303, § 2(b), Dec. 11, 2018, 132 Stat. 4399, provided that: “The amendments made by subsection (a) [amending this section and [section 1862n–1a of this title](./chapter-016-national-science-foundation.md#section-1862n-1a)] shall apply with respect to grants awarded on or after October 1, 2018.”
 
 #### Definitions
 For definitions of terms used in this section, see section 4 of Pub. L. 107–368, set out as a note under [section 1862n of this title](./chapter-016-national-science-foundation.md#section-1862n).
@@ -1435,9 +1544,11 @@ For definitions of terms used in this section, see section 4 of Pub. L. 107–36
 
 (4) in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor’s degrees in their field and working toward a master’s degree—
 
-  (A) offering academic courses leading to a master’s degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools; and
+  (A) offering academic courses leading to a master’s degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools;
 
-  (B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields.
+  (B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
+
+  (C) providing internship opportunities for fellows, including research experiences at national laboratories and NASA Centers.
 
 **(d) Selection process**
 
@@ -1565,6 +1676,8 @@ Section 7030 of Pub. L. 110–69, which directed that “Section 10 of the Natio
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (c)(4)(C). Pub. L. 115–303 added subpar. (C).
+
 2017—Subsec. (k). Pub. L. 114–329 added subsec. (k).
 
 2015—Subsec. (a)(2)(B). Pub. L. 114–59, § 4(a)(1), inserted “or bachelor’s” after “master’s”.
@@ -1580,6 +1693,9 @@ Subsecs. (g) to (j). Pub. L. 114–59, § 4(a)(4), (5), added subsec. (g) and re
 2011—Subsec. (a)(2)(A). Pub. L. 111–358, § 511(b), inserted “including retiring professionals in those fields,” after “mathematics professionals,”.
 
 Subsec. (h)(1). Pub. L. 111–358, § 511(a), amended par. (1) generally. Prior to amendment, text read as follows: “An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–303 applicable with respect to grants awarded on or after Oct. 1, 2018, see section 2(b) of Pub. L. 115–303, set out as a note under [section 1862n–1 of this title](./chapter-016-national-science-foundation.md#section-1862n-1).
 
 
 <a id="section-1862n-2"></a>
@@ -2386,6 +2502,9 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 For definition of “STEM” as used in this section, see section 2 of Pub. L. 111–358, set out as a note under [section 6621 of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6621).
 
 Pub. L. 111–358, title V, § 502, Jan. 4, 2011, 124 Stat. 4005, as amended by Pub. L. 114–329, title I, § 103(e)(1), Jan. 6, 2017, 130 Stat. 2975, provided that: “In this subtitle [subtitle A (§§ 501–527) of title V of Pub. L. 111–358, enacting this section and sections 1862p–1 to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title]: “(1) Director.—The term ‘Director’ means the Director of the National Science Foundation. “(2) EPSCoR.—The term ‘EPSCoR’ means—“(A) the Established Program to Stimulate Competitive Research established by the Foundation; or “(B) a program similar to the Established Program to Stimulate Competitive Research at another Federal agency. “(3) Foundation.—The term ‘Foundation’ means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861](./chapter-016-national-science-foundation.md#section-1861)). “(4) Institution of higher education.—The term ‘institution of higher education’ has the meaning given such term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)). “(5) State.—The term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States. “(6) United States.—The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.”
+
+#### Research on Efficiency of Skilled Technical Labor Markets
+Pub. L. 115–402, § 4, Dec. 31, 2018, 132 Stat. 5346, provided that: “(a) Efficiency of Skilled Technical Labor Markets.—The Director of the National Science Foundation, working through the Directorate of Social, Behavioral & Economic Sciences, in coordination with the Secretary of Labor, shall support research on labor market analysis innovations, data and information sciences, electronic information tools and methodologies, and metrics. “(b) Skilled Technical Workforce.—“(1) Review.—The National Center for Science and Engineering Statistics of the National Science Foundation shall consult and coordinate with other relevant Federal statistical agencies, including the Institute of Education Sciences of the Department of Education, and the Committee on Science, Technology, Engineering, and Mathematics Education of the National Science and Technology Council established under section 101 of the America COMPETES [Reauthorization] Act of 2010 (Public Law 111–358) [[42 U.S.C. 6621](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6621)], to explore the feasibility of expanding its surveys to include the collection of objective data on the skilled technical workforce. “(2) Report.—Not later than 1 year after the date of enactment of this Act [Dec. 31, 2018], the Director of the National Science Foundation shall submit to Congress a report on the progress made in expanding the National Center for Science and Engineering Statistics surveys to include the skilled technical workforce, including a plan for multi-agency collaboration to improve data collection and reporting of data on the skilled technical workforce. “(3) Definition of skilled technical workforce.—The term ‘ “skilled technical workforce” ’ [sic] means workers with high school diplomas and two-year technical training or certifications who employ significant levels of STEM knowledge in their jobs.”
 
 
 <a id="section-1862p-1"></a>
@@ -4364,9 +4483,11 @@ Sec. 6. Prior Orders. (a) Subject to the provisions of this Order, the President
 (b) Executive Order No. 10910 of January 17, 1961, is hereby amended by deleting from its title the words “AND AWARD”, and by deleting the last two sentences of Section 1, and all of Section 2, thereof.
 
 #### Extension of Term of President’s Committee on the National Medal of Science
-Term of President’s Committee on the National Medal of Science extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Committee on the National Medal of Science extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President’s Committee on the National Medal of Science were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 

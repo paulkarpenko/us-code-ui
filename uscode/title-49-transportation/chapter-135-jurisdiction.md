@@ -31,7 +31,7 @@ The Secretary and the Board have jurisdiction, as specified in this part, over t
 Provisions similar to those in this section were contained in [section 10521 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10521&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13502"></a>
@@ -47,6 +47,9 @@ To the extent that transportation by a motor carrier between a place in Alaska a
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10522 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10522&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13503"></a>
@@ -92,6 +95,9 @@ Provisions similar to those in this section were contained in [section 10522 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10523 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10523&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-13504"></a>
 ## § 13504. Exempt motor carrier transportation entirely in one State
@@ -102,6 +108,9 @@ Neither the Secretary nor the Board has jurisdiction under this subchapter over 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10525 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10525&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13505"></a>
@@ -122,6 +131,9 @@ Provisions similar to those in this section were contained in [section 10525 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10524 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10524&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13506"></a>
@@ -218,6 +230,9 @@ Provisions similar to those in this section were contained in [section 10526 of 
 
 1997—Subsec. (a)(5). Pub. L. 105–102 substituted “1141j(a)))” for “1141j(a))”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
@@ -231,6 +246,9 @@ A motor carrier of property providing transportation exempt from jurisdiction un
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10528 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10528&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13508"></a>
@@ -289,6 +307,9 @@ shall be fined not more than $5,000.
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10529 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10529&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-13521"></a>
 ## § 13521. General jurisdiction
@@ -317,6 +338,9 @@ Provisions similar to those in this section were contained in [section 10529 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10541 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10541&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-13531"></a>
 ## § 13531. General jurisdiction
@@ -334,6 +358,9 @@ Provisions similar to those in this section were contained in [section 10541 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10561&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13541"></a>
@@ -364,6 +391,9 @@ Provisions similar to those in this section were contained in [section 10561 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10505 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10505&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

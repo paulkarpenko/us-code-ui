@@ -10,19 +10,39 @@ source: >-
 ## § 48101. Air navigation facilities and equipment
 **(a) General Authorization of Appropriations.—** Not more than a total of the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) to acquire, establish, and improve air navigation facilities under [section 44502(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44502/a/1/A&num=0&edition=prelim):
 
-(1) $2,731,000,000 for fiscal year 2012.
+(1) $3,330,000,000 for fiscal year 2018.
 
-(2) $2,715,000,000 for fiscal year 2013.
+(2) $3,398,000,000 for fiscal year 2019.
 
-(3) $2,730,000,000 for fiscal year 2014.
+(3) $3,469,000,000 for fiscal year 2020.
 
-(4) $2,730,000,000 for fiscal year 2015.
+(4) $3,547,000,000 for fiscal year 2021.
 
-(5) $2,855,000,000 for each of fiscal years 2016 and 2017.
+(5) $3,624,000,000 for fiscal year 2022.
+
+(6) $3,701,000,000 for fiscal year 2023.
 
 **(b) Availability of Amounts.—** Amounts appropriated under this section remain available until expended.
 
-**(c) Automated Surface Observation System/Automated Weather Observing System Upgrade.—** Of the amounts appropriated under subsection (a), such sums as may be necessary may be used for the implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.
+**(c) Authorized Expenditures.—** Of the amounts appropriated under subsection (a), such sums as may be necessary may be used for the following:
+
+(1) The implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.
+
+(2) The acquisition and construction of remote towers (as defined in section 161 of the FAA Reauthorization Act of 2018).
+
+(3) The remediation and elimination of identified cybersecurity vulnerabilities in the air traffic control system.
+
+(4) The construction of facilities dedicated to improving the cybersecurity of the National Airspace System.
+
+(5) Systems associated with the Data Communications program.
+
+(6) The infrastructure, sustainment, and the elimination of the deferred maintenance backlog of air navigation facilities and other facilities for which the Federal Aviation Administration is responsible.
+
+(7) The modernization and digitization of the Civil Aviation Registry.
+
+(8) The construction of necessary Priority 1 National Airspace System facilities.
+
+(9) Cost-beneficial construction, rehabilitation, or retrofitting programs designed to reduce Federal Aviation Administration facility operating costs.
 
 **(d) Life-Cycle Cost Estimates.—** The Administrator of the Federal Aviation Administration shall establish life-cycle cost estimates for any air traffic control modernization project the total life-cycle costs of which equal or exceed $50,000,000.
 
@@ -39,7 +59,34 @@ source: >-
 
 In subsection (a), the words “to the Secretary of Transportation” are added for clarity and consistency in this chapter. The words “for fiscal years beginning after September 30, 1990” and “$2,500,000,000 for fiscal year 1991” are omitted as obsolete.
 
+#### References in Text
+Section 161 of the FAA Reauthorization Act of 2018, referred to in subsec. (c)(2), is section 161 of Pub. L. 115–254, which is set out as a note under [section 47104 of this title](./chapter-471-airport-development.md#section-47104).
+
 #### Amendments
+2018—Subsec. (a)(1) to (4). Pub. L. 115–254, § 112(a), added pars. (1) to (4) and struck out former pars. (1) to (4) which read as follows:
+
+“(1) $2,731,000,000 for fiscal year 2012.
+
+“(2) $2,715,000,000 for fiscal year 2013.
+
+“(3) $2,730,000,000 for fiscal year 2014.
+
+“(4) $2,730,000,000 for fiscal year 2015.”
+
+Subsec. (a)(5). Pub. L. 115–254, § 112(a), added par. (5) and struck out former par. (5) which read as follows: “$2,855,000,000 for each of fiscal years 2016 through 2018.”
+
+Pub. L. 115–141, § 105(1), substituted “2016 through 2018” for “2016 and 2017”.
+
+Subsec. (a)(6). Pub. L. 115–254, § 112(a), added par. (6).
+
+Pub. L. 115–141, § 105(2), struck out par. (6) which read as follows: “$1,423,589,041 for the period beginning on October 1, 2017, and ending on March 31, 2018.”
+
+Subsec. (c). Pub. L. 115–254, § 112(b)(2), substituted “may be used for the following:” and pars. (1) to (9) for “may be necessary may be used for the implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.”
+
+Pub. L. 115–254, § 112(b)(1), substituted “Authorized Expenditures” for “Automated Surface Observation System/Automated Weather Observing System Upgrade” in heading.
+
+2017—Subsec. (a)(6). Pub. L. 115–63 added par. (6).
+
 2016—Subsec. (a)(5). Pub. L. 114–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “$2,058,333,333 for the period beginning on October 1, 2015, and ending on July 15, 2016.”
 
 Pub. L. 114–141 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “$1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
@@ -144,7 +191,7 @@ Pub. L. 106–181, title I, § 106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, whi
 
 <a id="section-48102"></a>
 ## § 48102. Research and development
-**(a) Authorization of Appropriations.—** Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title and, for each of fiscal years 2012 through 2015, under subsection (g):
+**(a) Authorization of Appropriations.—** Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title:
 
 (1) for fiscal year 2004, $346,317,000, including—
 
@@ -258,17 +305,29 @@ Pub. L. 106–181, title I, § 106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, whi
 
 (7) $170,000,000 for fiscal year 2011;
 
-(8) $168,000,000 for each of fiscal years 2012 through 2015; and
+(8) $168,000,000 for each of fiscal years 2012 through 2015;
 
-(9) $166,000,000 for each of fiscal years 2016 and 2017.
+(9) $166,000,000 for each of fiscal years 2016 and 2017;
+
+(10) $189,000,000 for fiscal year 2018;
+
+(11) $194,000,000 for fiscal year 2019;
+
+(12) $199,000,000 for fiscal year 2020;
+
+(13) $204,000,000 for fiscal year 2021;
+
+(14) $209,000,000 for fiscal year 2022; and
+
+(15) $214,000,000 for fiscal year 2023.
 
 **(b) Research Priorities.—**
 
-(1) The Administrator shall consider the advice and recommendations of the research advisory committee established by [section 44508 of this title](./chapter-445-facilities-personnel-and-research.md#section-44508) in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
+(1) The Administrator shall prioritize safety in considering the advice and recommendations of the research advisory committee established by [section 44508 of this title](./chapter-445-facilities-personnel-and-research.md#section-44508) in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
 
-(2) At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
+(2) As safety related activities shall be the highest research priority, at least 70 percent of the amount appropriated under subsection (a) of this section shall be for safety research and development projects.
 
-(3) At least 3 percent of the amount appropriated under subsection (a) of this section shall be available to the Administrator of the Federal Aviation Administration to make grants under [section 44511 of this title](./chapter-445-facilities-personnel-and-research.md#section-44511).
+(3) At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.
 
 **(c) Transfers Between Categories.—**
 
@@ -290,51 +349,7 @@ Pub. L. 106–181, title I, § 106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, whi
 
 **(f) Availability of Amounts.—** Amounts appropriated under subsection (a) of this section remain available until expended.
 
-**(g) Specific Authorizations.—** The following programs described in the research, engineering, and development account of the national aviation research plan required under section 44501(c) are authorized:
-
-(1) Fire Research and Safety.
-
-(2) Propulsion and Fuel Systems.
-
-(3) Advanced Materials/Structural Safety.
-
-(4) Atmospheric Hazards—Aircraft Icing/Digital System Safety.
-
-(5) Continued Airworthiness.
-
-(6) Aircraft Catastrophic Failure Prevention Research.
-
-(7) Flightdeck/Maintenance/System Integration Human Factors.
-
-(8) System Safety Management.
-
-(9) Air Traffic Control/Technical Operations Human Factors.
-
-(10) Aeromedical Research.
-
-(11) Weather Program.
-
-(12) Unmanned Aircraft Systems Research.
-
-(13) NextGen—Alternative Fuels for General Aviation.
-
-(14) Joint Planning and Development Office.
-
-(15) NextGen—Wake Turbulence Research.
-
-(16) NextGen—Air Ground Integration Human Factors.
-
-(17) NextGen—Self Separation Human Factors.
-
-(18) NextGen—Weather Technology in the Cockpit.
-
-(19) Environment and Energy Research.
-
-(20) NextGen Environmental Research—Aircraft Technologies, Fuels, and Metrics.
-
-(21) System Planning and Resource Management.
-
-(22) The William J. Hughes Technical Center Laboratory Facility.
+**(g) Annual Submission of the National Aviation Research Plan.—** The Administrator shall submit the national aviation research plan to Congress no later than the date of submission of the President’s budget request to Congress for that fiscal year, as required under section 44501(c).
 
 **(h) Research Grants Program Involving Undergraduate Students.—**
 
@@ -385,6 +400,22 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254, § 703(a)(1), struck out “and, for each of fiscal years 2012 through 2015, under subsection (g)” after “this title” in introductory provisions.
+
+Subsec. (a)(10). Pub. L. 115–254, § 703(a)(2), (3), added par. (10) and struck out former par. (10) which read as follows: “$176,500,000 for fiscal year 2018.”
+
+Pub. L. 115–141 amended par. (10) generally. Prior to amendment, par. (10) read as follows: “$88,008,219 for the period beginning on October 1, 2017 and ending on March 31, 2018.”
+
+Subsec. (a)(11) to (15). Pub. L. 115–254, § 703(a)(2), (3), added pars. (11) to (15).
+
+Subsec. (b)(1). Pub. L. 115–254, § 703(b)(1), substituted “prioritize safety in considering” for “consider”.
+
+Subsec. (b)(2), (3). Pub. L. 115–254, § 703(b)(2)–(4), added par. (2), redesignated former par. (2) as (3), and struck out former par. (3) which read as follows: “At least 3 percent of the amount appropriated under subsection (a) of this section shall be available to the Administrator of the Federal Aviation Administration to make grants under [section 44511 of this title](./chapter-445-facilities-personnel-and-research.md#section-44511).”
+
+Subsec. (g). Pub. L. 115–254, § 703(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) authorized certain programs described in the research, engineering, and development account of the national aviation research plan required under section 44501(c).
+
+2017—Subsec. (a)(10). Pub. L. 115–63 added par. (10).
+
 2016—Subsec. (a)(9). Pub. L. 114–190 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$124,093,750 for the period beginning on October 1, 2015, and ending on July 15, 2016.”
 
 Pub. L. 114–141 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$78,375,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
@@ -489,7 +520,19 @@ Pub. L. 105–155, § 4, Feb. 11, 1998, 112 Stat. 6, provided that: “(a) Repro
 
 <a id="section-48103"></a>
 ## § 48103. Airport planning and development and noise compatibility planning and programs
-**(a) In General.—** There shall be available to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 to make grants for airport planning and airport development under section 47104, airport noise compatibility planning under section 47505(a)(2), and carrying out noise compatibility programs under section 47504(c) $3,350,000,000 for each of fiscal years 2012 through 2017.
+**(a) In General.—** There shall be available to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 to make grants for airport planning and airport development under section 47104, airport noise compatibility planning under section 47505(a)(2), and carrying out noise compatibility programs under section 47504(c)—
+
+(1) $3,350,000,000 for fiscal year 2018;
+
+(2) $3,350,000,000 for fiscal year 2019;
+
+(3) $3,350,000,000 for fiscal year 2020;
+
+(4) $3,350,000,000 for fiscal year 2021;
+
+(5) $3,350,000,000 for fiscal year 2022; and
+
+(6) $3,350,000,000 for fiscal year 2023.
 
 **(b) Availability of Amounts.—** Amounts made available under subsection (a) shall remain available until expended.
 
@@ -507,6 +550,12 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to [section 9502 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254 substituted “section 47504(c)—” and pars. (1) to (6) for “section 47504(c) $3,350,000,000 for each of fiscal years 2012 through 2018.”
+
+Pub. L. 115–141 substituted “2012 through 2018.” for “2012 through 2017 and $1,670,410,959 for the period beginning on October 1, 2017, and ending on March 31, 2018.”
+
+2017—Subsec. (a). Pub. L. 115–63 inserted before period at end “and $1,670,410,959 for the period beginning on October 1, 2017, and ending on March 31, 2018”.
+
 2016—Subsec. (a). Pub. L. 114–190 substituted “fiscal years 2012 through 2017.” for “fiscal years 2012 through 2015 and $2,652,083,333 for the period beginning on October 1, 2015, and ending on July 15, 2016..”
 
 Pub. L. 114–141 substituted “$2,652,083,333 for the period beginning on October 1, 2015, and ending on July 15, 2016.” for “$1,675,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016”.
@@ -609,13 +658,12 @@ Pub. L. 106–181, title I, § 159, Apr. 5, 2000, 114 Stat. 90, provided that: �
 
 <a id="section-48104"></a>
 ## § 48104. Operations and maintenance
-**(a) Authorization of Appropriations.—** the 11 So in original. Probably should be capitalized. balance of the money available in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) may be appropriated to the Secretary of Transportation out of the Fund for—
+
+The balance of the money available in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) may be appropriated to the Secretary of Transportation out of the Fund for—
 
 (1) direct costs the Secretary incurs to flight check, operate, and maintain air navigation facilities referred to in [section 44502(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44502/a/1/A&num=0&edition=prelim) safely and efficiently; and
 
 (2) the costs of services provided under international agreements related to the joint financing of air navigation services assessed against the United States Government.
-
-**(b)** , (c). Repealed. Pub. L. 106–181, title I, § 106(d)(2), Apr. 5, 2000, 114 Stat. 73.]
 
 ### Statutory Notes
 
@@ -637,6 +685,8 @@ In subsection (b), the text of 49 App.:2205(c)(2) and (3) and the reference to f
 This makes a clarifying amendment to the catchline for 49:48104(b).
 
 #### Amendments
+2018—Pub. L. 115–254, which directed substitution of “The” for “(a) Authorization of Appropriations.—the” in section 48104, without specifying the Code title to be amended, was executed by making the substitution in this section, to reflect the probable intent of Congress.
+
 2000—Subsec. (a). Pub. L. 106–181, § 106(d)(1), struck out “Except as provided in this section,” before “the balance of the money” in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 106–181, § 106(d)(2), struck out heading and text of subsecs. (b) and (c), which set out funding limitations for fiscal year 1993 and fiscal years 1994 to 1998, respectively.
@@ -663,13 +713,15 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 <a id="section-48105"></a>
 ## § 48105. Weather reporting services
 
-To reimburse the Secretary of Commerce for the cost incurred by the National Oceanic and Atmospheric Administration of providing weather reporting services to the Federal Aviation Administration, the Secretary of Transportation may expend from amounts available under [section 48104 of this title](./chapter-481-airport-and-airway-trust-fund-authorizations.md#section-48104) not more than the following amounts:
+To sustain the aviation weather reporting programs of the Federal Aviation Administration, the Secretary of Transportation may expend from amounts available under [section 48104 of this title](./chapter-481-airport-and-airway-trust-fund-authorizations.md#section-48104) not more than the following amounts:
 
 (1) for the fiscal year ending September 30, 1993, $35,596,000.
 
 (2) for the fiscal year ending September 30, 1994, $37,800,000.
 
 (3) for the fiscal year ending September 30, 1995, $39,000,000.
+
+(4) $39,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -679,6 +731,11 @@ To reimburse the Secretary of Commerce for the cost incurred by the National Oce
 | 48105 | 49 App.:2205(d). | Sept. 3, 1982, Pub. L. 97–248, § 506(d), 96 Stat. 678; Dec. 30, 1987, Pub. L. 100–223, § 105(c)(2), 101 Stat. 1493; Nov. 5, 1990, Pub. L. 101–508, §§ 9108, 9204, 104 Stat. 1388–355, 1388–373; Oct. 31, 1992, Pub. L. 102–581, § 103(d), 106 Stat. 4877. |
 
 The words “for fiscal years beginning after September 30, 1982” are omitted as obsolete. The words “Secretary of Commerce” are substituted for “National Oceanic and Atmospheric Administration” because of 15:1501. The words “The Federal Aviation Administration with” are omitted as surplus.
+
+#### Amendments
+2018—Pub. L. 115–254, § 114(1), substituted “To sustain the aviation weather reporting programs of the Federal Aviation Administration, the Secretary of Transportation” for “To reimburse the Secretary of Commerce for the cost incurred by the National Oceanic and Atmospheric Administration of providing weather reporting services to the Federal Aviation Administration, the Secretary of Transportation”.
+
+Par. (4). Pub. L. 115–254, § 114(2), added par. (4).
 
 
 <a id="section-48106"></a>
@@ -816,19 +873,11 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 
 <a id="section-48112"></a>
-## § 48112. Adjustment to AIP program funding
-
-On the effective date of a general appropriations Act providing appropriations for a fiscal year beginning after September 30, 2000, for the Federal Aviation Administration, the amount made available for a fiscal year under section 48103 shall be increased by the amount, if any, by which—
-
-(1) the amount authorized to be appropriated under section 48101 for such fiscal year; exceeds
-
-(2) the amounts appropriated for programs funded under such section for such fiscal year.
-Any contract authority made available by this section shall be subject to an obligation limitation.
+## § 48112. Repealed. Pub. L. 115–254, div. B, title I, § 115, Oct. 5, 2018, 132 Stat. 3201]
 
 ### Statutory Notes
 
-#### Effective Date
-Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under [section 106 of this title](./chapter-001-organization.md#section-106).
+Section, added Pub. L. 106–181, title I, § 107(a), Apr. 5, 2000, 114 Stat. 73, related to adjustment to AIP program funding.
 
 
 <a id="section-48113"></a>
@@ -852,7 +901,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
     (i) in fiscal year 2013, be equal to 90 percent of the estimated level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year; and
 
-    (ii) in fiscal year 2014 and each fiscal year thereafter, be equal to the sum of—
+    (ii) in fiscal years 2014 through 2018, be equal to the sum of—
 
       (I) 90 percent of the estimated level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year; and
 
@@ -861,7 +910,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
   (B) *Guarantee.—* — No funds may be appropriated or limited for aviation investment programs listed in subsection (b)(1) unless the amount described in subparagraph (A) has been provided.
 
-(2) **Additional authorizations of appropriations from the general fund.—** — In any fiscal year through fiscal year 2017, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
+(2) **Additional authorizations of appropriations from the general fund.—** — In any fiscal year through fiscal year 2018, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
 
 **(b) Definitions.—** In this section, the following definitions apply:
 
@@ -881,7 +930,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 (1) **Total airport and airway trust fund funding.—** — It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause total budget resources in a fiscal year for aviation investment programs described in subsection (b) to be less than the amount required by subsection (a)(1)(A) for such fiscal year.
 
-(2) **Capital priority.—** — It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2017 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
+(2) **Capital priority.—** — It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2018 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
 
 ### Statutory Notes
 
@@ -891,6 +940,12 @@ Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)
 Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is classified to [section 907 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section907&num=0&edition=prelim), The Congress.
 
 #### Amendments
+2018—Subsec. (a)(1)(A)(ii). Pub. L. 115–254 substituted “in fiscal years 2014 through 2018” for “in fiscal year 2014 and each fiscal year thereafter” in introductory provisions.
+
+2017—Subsec. (a)(2). Pub. L. 115–63, § 107(a)(1), substituted “2018” for “2017”.
+
+Subsec. (c)(2). Pub. L. 115–63, § 107(a)(2), substituted “2018” for “2017”.
+
 2016—Subsec. (a)(2). Pub. L. 114–190, § 1106(a)(1), substituted “fiscal year 2017,” for “fiscal year 2016,”.
 
 Subsec. (c)(2). Pub. L. 114–190, § 1106(a)(2), substituted “fiscal year 2017” for “fiscal year 2016”.

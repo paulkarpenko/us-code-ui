@@ -388,7 +388,7 @@ Repeal effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out 
 
 <a id="section-7608"></a>
 ## § 7608. Authority of internal revenue enforcement officers
-**(a) Enforcement of subtitle E and other laws pertaining to liquor, tobacco, and firearms** Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible may—
+**(a) Enforcement of subtitle E and other laws pertaining to liquor, tobacco, and firearms** Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible, may—
 
 (1) carry firearms;
 
@@ -1284,11 +1284,11 @@ in cases where such expenses are not otherwise provided for by law. Any amount p
 
 **(b) Awards to whistleblowers**
 
-(1) **In general** — If the Secretary proceeds with any administrative or judicial action described in subsection (a) based on information brought to the Secretary’s attention by an individual, such individual shall, subject to paragraph (2), receive as an award at least 15 percent but not more than 30 percent of the collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action (including any related actions) or from any settlement in response to such action. The determination of the amount of such award by the Whistleblower Office shall depend upon the extent to which the individual substantially contributed to such action.
+(1) **In general** — If the Secretary proceeds with any administrative or judicial action described in subsection (a) based on information brought to the Secretary’s attention by an individual, such individual shall, subject to paragraph (2), receive as an award at least 15 percent but not more than 30 percent of the proceeds collected as a result of the action (including any related actions) or from any settlement in response to such action (determined without regard to whether such proceeds are available to the Secretary). The determination of the amount of such award by the Whistleblower Office shall depend upon the extent to which the individual substantially contributed to such action.
 
 (2) **Award in case of less substantial contribution**
 
-  (A) *In general* — In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action (including any related actions) or from any settlement in response to such action, taking into account the significance of the individual’s information and the role of such individual and any legal representative of such individual in contributing to such action.
+  (A) *In general* — In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds collected as a result of the action (including any related actions) or from any settlement in response to such action (determined without regard to whether such proceeds are available to the Secretary), taking into account the significance of the individual’s information and the role of such individual and any legal representative of such individual in contributing to such action.
 
   (B) *Nonapplication of paragraph where individual is original source of information* — Subparagraph (A) shall not apply if the information resulting in the initiation of the action described in paragraph (1) was originally provided by the individual described in paragraph (1).
 
@@ -1300,7 +1300,7 @@ in cases where such expenses are not otherwise provided for by law. Any amount p
 
   (A) against any taxpayer, but in the case of any individual, only if such individual’s gross income exceeds $200,000 for any taxable year subject to such action, and
 
-  (B) if the tax, penalties, interest, additions to tax, and additional amounts in dispute exceed $2,000,000.
+  (B) if the proceeds in dispute exceed $2,000,000.
 
 (6) **Additional rules**
 
@@ -1310,14 +1310,33 @@ in cases where such expenses are not otherwise provided for by law. Any amount p
 
   (C) *Submission of information* — No award may be made under this subsection based on information submitted to the Secretary unless such information is submitted under penalty of perjury.
 
+**(c) Proceeds** For purposes of this section, the term “proceeds” includes—
+
+(1) penalties, interest, additions to tax, and additional amounts provided under the internal revenue laws, and
+
+(2) any proceeds arising from laws for which the Internal Revenue Service is authorized to administer, enforce, or investigate, including—
+
+  (A) criminal fines and civil forfeitures, and
+
+  (B) violations of reporting requirements.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1), (2)(A). Pub. L. 115–123, § 41108(a)(2), (b), substituted “proceeds collected as a result of the action” for “collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action” and inserted “(determined without regard to whether such proceeds are available to the Secretary)” after “in response to such action”.
+
+Subsec. (b)(5)(B). Pub. L. 115–123, § 41108(c), substituted “proceeds” for “tax, penalties, interest, additions to tax, and additional amounts”.
+
+Subsec. (c). Pub. L. 115–123, § 41108(a)(1), added subsec. (c).
+
 2006—Pub. L. 109–432 designated existing provisions as subsec. (a), inserted heading, in par. (1), substituted “or” for “and” at end, in concluding provisions, struck out “(other than interest)” after “amounts”, and added subsec. (b).
 
 1996—Pub. L. 104–168 substituted “of underpayments and fraud, etc.” for “and punishment of frauds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary, under regulations prescribed by the Secretary, is authorized to pay such sums, not exceeding in the aggregate the sum appropriated therefor, as he may deem necessary for detecting and bringing to trial and punishment persons guilty of violating the internal revenue laws, or conniving at the same, in cases where such expenses are not otherwise provided for by law.”
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–123, div. D, title II, § 41108(d), Feb. 9, 2018, 132 Stat. 158, provided that: “The amendments made by this section [amending this section] shall apply to information provided before, on, or after the date of the enactment of this Act [Feb. 9, 2018] with respect to which a final determination for an award has not been made before such date of enactment.”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–432 applicable to information provided on or after Dec. 20, 2006, see section 406(d) of Pub. L. 109–432, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
@@ -1485,11 +1504,13 @@ Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that: �
 
 (4) **Coordination with subsections (a) and (b)** — Paragraph (1) shall not apply with respect to any rum subject to tax under subsection (a) or (b).
 
+(5) **Determination of amount of taxes collected** — For purposes of this subsection, the amount of taxes collected under section 5001(a)(1) shall be determined without regard to section 5001(c).
+
 **(f) Limitation on cover over of tax on distilled spirits** For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2017), or
+(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2022), or
 
-(2) the tax imposed under section 5001(a)(1), on each proof gallon.
+(2) the tax imposed under subsection (a)(1) of section 5001, determined as if subsection (c)(1) of such section did not apply, on each proof gallon.
 
 **(g) Drawback for medicinal alcohol, etc.** In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
 
@@ -1517,6 +1538,12 @@ Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec.
 The Harmonized Tariff Schedule of the United States ([19 U.S.C. 1202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim)), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (e)(5). Pub. L. 115–123, § 41102(b)(1), added par. (5).
+
+Subsec. (f)(1). Pub. L. 115–123, § 41102(a)(1), substituted “January 1, 2022” for “January 1, 2017”.
+
+2017—Subsec. (f)(2). Pub. L. 115–97 substituted “subsection (a)(1) of section 5001, determined as if subsection (c)(1) of such section did not apply” for “section 5001(a)(1)”.
+
 2015—Subsec. (f)(1). Pub. L. 114–113 substituted “January 1, 2017” for “January 1, 2015”.
 
 2014—Subsec. (f)(1). Pub. L. 113–295 substituted “January 1, 2015” for “January 1, 2014”.
@@ -1580,6 +1607,14 @@ Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and 
 1958—Subsec. (a)(1). Pub. L. 85–859, § 204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, § 204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–123, div. D, title II, § 41102(a)(2), Feb. 9, 2018, 132 Stat. 155, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2016.”
+
+Pub. L. 115–123, div. D, title II, § 41102(b)(2), Feb. 9, 2018, 132 Stat. 155, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2017.”
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to distilled spirits removed after Dec. 31, 2017, see section 13807(d) of Pub. L. 115–97, set out as a note under [section 5001 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5001).
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title I, § 172(b), Dec. 18, 2015, 129 Stat. 3071, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2014.”
@@ -1705,7 +1740,7 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 
 **(d) Federal personnel** In addition to the amount determined under subsection (a), the United States shall pay to each specified possession at such times and in such manner as determined by the Secretary—
 
-(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.),11 See References in Text note below. and
+(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Servicemembers Civil Relief Act ([50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.), and
 
 (2) the amount of the taxes deducted and withheld under chapter 24 with respect to amounts paid for services performed as an employee of the United States (or any agency thereof) in a specified possession with respect to an individual unless section 931 or 932(c) applies.
 
@@ -1714,9 +1749,11 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, was classified to sections 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified principally to chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–141 substituted “[50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.” for “50 App. U.S.C. 501 et seq.”
+
 2003—Subsec. (d)(1). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act”.
 
 1988—Subsec. (a). Pub. L. 100–647 substituted “an individual to whom” for “an individual to which”.

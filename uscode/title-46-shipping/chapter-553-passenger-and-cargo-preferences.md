@@ -90,7 +90,7 @@ This section codifies the Joint Resolution of March 26, 1934 (ch. 90, 48 Stat. 5
 
   (C) may impose on any person that violates this section, or a regulation prescribed under this section, a civil penalty of not more than $25,000 for each violation willfully and knowingly committed, with each day of a continuing violation following the date of shipment to be a separate violation; and
 
-  (D) may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) 11 See References in Text note below. of the Office of Federal Procurement Policy Act ([41 U.S.C. 421(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section421/c/1&num=0&edition=prelim) 22 So in original. Probably should be followed by a second closing parenthesis. or contract with respect to each violation.
+  (D) may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) 11 See References in Text note below. of the Office of Federal Procurement Policy Act ([41 U.S.C. 1303(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)) or contract with respect to each violation.
 
 **(e) Security of Government-Impelled Cargo.—**
 
@@ -120,6 +120,8 @@ In subsection (a), the words “the provisions of this subsection shall not appl
 Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as [section 1303(a)(1) of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (d)(2)(D). Pub. L. 115–232 substituted “1303(a)(1))” for “421(c)(1)”.
+
 2014—Subsec. (e)(1). Pub. L. 113–281, § 306(1), substituted “reimburse, subject to the availability of appropriations, the owners or operators of vessels” for “provide armed personnel aboard vessels” and “commodities for the cost of providing armed personnel aboard such vessels” for “commodities”.
 
 Subsec. (e)(2), (3). Pub. L. 113–281, § 306(2), added par. (2) and struck out former pars. (2) and (3) which read as follows:

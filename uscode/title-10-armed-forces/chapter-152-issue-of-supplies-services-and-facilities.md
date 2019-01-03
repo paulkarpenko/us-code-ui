@@ -2,7 +2,7 @@
 title: 10
 chapter: '152'
 heading: 'ISSUE OF SUPPLIES, SERVICES, AND FACILITIES'
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -486,7 +486,7 @@ Section, added Pub. L. 102–484, div. D, title XLIII, § 4304(a), Oct. 23, 1992
 
   (A) Except as provided in subparagraph (B), articles and services referred to in paragraph (1) are articles and services that are manufactured or performed by any working-capital funded industrial facility of the armed forces.
 
-  (B) The authority in this section does not apply to sales of articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, which are governed by regulations required by [section 4543 of this title](./chapter-433-procurement.md#section-4543).
+  (B) The authority in this section does not apply to sales of articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, which are governed by regulations required by [section 7543 of this title](./chapter-763-procurement.md#section-7543).
 
 **(b) Designation of Participating Industrial Facilities.—** The Secretary may designate facilities referred to in subsection (a) as the facilities from which articles and services manufactured or performed by such facilities may be sold under this section.
 
@@ -545,6 +545,8 @@ Section, added Pub. L. 102–484, div. D, title XLIII, § 4304(a), Oct. 23, 1992
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(2)(B). Pub. L. 115–232 substituted “section 7543” for “section 4543”.
+
 2001—Subsec. (c)(1)(B). Pub. L. 107–107, § 343(a)(1), substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
 
 Subsec. (c)(3). Pub. L. 107–107, § 343(a)(2), added par. (3).
@@ -554,6 +556,9 @@ Subsec. (c)(3). Pub. L. 107–107, § 343(a)(2), added par. (3).
 1999—Subsec. (c). Pub. L. 106–65, § 331(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
 
 Subsec. (g)(2), (3). Pub. L. 106–65, § 331(b), added par. (2) and redesignated former par. (2) as (3).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, provided that: “Section 2553 [now 2563] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995.”
@@ -569,7 +574,7 @@ Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, p
 
 (2) to the extent that the provision of such assistance does not adversely affect the military preparedness of the armed forces; and
 
-(3) if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of [section 377 of this title](./chapter-016-security-cooperation.md#section-377) 11 See References in Text note below. and other applicable provisions of law.
+(3) if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of [section 277 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-277) and other applicable provisions of law.
 
 **(c) Inapplicability to Certain Events.—** Subsections (a) and (b) do not apply to the following sporting events:
 
@@ -597,23 +602,9 @@ Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, p
 
 **(d) Terms and Conditions.—** The Secretary of Defense may require such terms and conditions in connection with the provision of assistance under this section as the Secretary considers necessary and appropriate to protect the interests of the United States.
 
-**(e) Report on Assistance.—** Not later than January 30 of each year following a year in which the Secretary of Defense provides assistance under this section, the Secretary shall submit to Congress a report on the assistance provided. The report shall set forth—
+**(e) Relationship to Other Laws.—** Assistance provided under this section shall be subject to the provisions of sections 275 and 276 of this title.
 
-(1) a description of the assistance provided;
-
-(2) the amount expended by the Department in providing the assistance;
-
-(3) if the assistance was provided under subsection (a), the certification of the Attorney General with respect to the assistance under that subsection; and
-
-(4) if the assistance was provided under subsection (b)—
-
-  (A) an explanation why the assistance could not reasonably be met by a source other than the Department; and
-
-  (B) the amount the Department was reimbursed under that subsection.
-
-**(f) Relationship to Other Laws.—** Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title.1
-
-**(g) Funding for Support of Certain Events.—**
+**(f) Funding for Support of Certain Events.—**
 
 (1) Amounts for the provision of support for a sporting event described in paragraph (4) or (5) of subsection (c) may be derived from the Support for International Sporting Competitions, Defense account established by section 5802 of the Omnibus Consolidated Appropriations Act, 1997 (Public Law 104–208; [10 U.S.C. 2564](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2564) note), notwithstanding any limitation under that section relating to the availability of funds in such account for the provision of support for international sporting competitions.
 
@@ -621,12 +612,15 @@ Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, p
 
 ### Statutory Notes
 
-#### References in Text
-[Section 377 of this title](./chapter-016-security-cooperation.md#section-377), referred to in subsec. (b)(3), was renumbered [section 277 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-277) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
-
-Sections 375 and 376 of this title, referred to in subsec. (f), were renumbered sections 275 and 276 of this title, respectively, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
-
 #### Amendments
+2017—Subsec. (b)(3). Pub. L. 115–91, § 1051(a)(20)(A), substituted “section 277” for “section 377”.
+
+Subsec. (e). Pub. L. 115–91, § 1051(a)(20)(D), substituted “sections 275 and 276” for “sections 375 and 376”. Directory language which read “by ‘striking sections 375 and 376’ ” was executed as if it had read “by striking ‘sections 375 and 376’ ”, to reflect the probable intent of Congress.
+
+Pub. L. 115–91, § 1051(a)(20)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required reports on assistance provided under this section.
+
+Subsecs. (f), (g). Pub. L. 115–91, § 1051(a)(20)(C), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
+
 2008—Subsec. (c)(4), (5). Pub. L. 110–181, § 372(a)(1), added pars. (4) and (5).
 
 Subsec. (g). Pub. L. 110–181, § 372(a)(2), added subsec. (g).
@@ -641,7 +635,7 @@ Subsec. (c)(1). Pub. L. 105–85, § 1073(a)(56), substituted “September 23, 1
 Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Support for International Sporting Competitions, Defense, Account
-Pub. L. 104–208, div. A, title V, § 5802, Sept. 30, 1996, 110 Stat. 3009–522, as amended by Pub. L. 110–181, div. A, title III, § 372(b), Jan. 28, 2008, 122 Stat. 82, provided that: “There is hereby established on the books of the Treasury an account, ‘Support for International Sporting Competitions, Defense’ (hereinafter referred to in this section as the ‘Account’) to be available until expended for logistical and security support for international sporting competitions and for support of sporting competitions authorized under section 2564(c)(4) and (5), of title 10, United States Code, (other than pay and non-travel-related allowances of members of the Armed Forces of the United States, except for members of the reserve components thereof called or ordered to active duty in connection with providing such support): Provided, That there shall be credited to the Account: (a) unobligated balances of the funds appropriated in Public Laws 103–335 [108 Stat. 2605] and 104–61 [109 Stat. 642] under the headings ‘Summer Olympics’; (b) any reimbursements received by the Department of Defense in connection with support to the 1993 World University Games; the 1994 World Cup Games; and the 1996 Games of the XXVI Olympiad held in Atlanta, Georgia; (c) any reimbursements received by the Department of Defense after the date of enactment of this Act [Sept. 30, 1996] for logistical and security support provided to international sporting competitions; and (d) amounts specifically appropriated to the Account, all to remain available until expended: Provided further, That none of the funds made available to the Account may be obligated until 15 days after the congressional defense committees have been notified in writing by the Secretary of Defense as to the purpose for which these funds will be obligated.”
+Pub. L. 104–208, div. A, title V, § 5802, Sept. 30, 1996, 110 Stat. 3009–522, as amended by Pub. L. 110–181, div. A, title III, § 372(b), Jan. 28, 2008, 122 Stat. 82, provided that: “There is hereby established on the books of the Treasury an account, ‘Support for International Sporting Competitions, Defense’ (hereinafter referred to in this section as the ‘Account’) to be available until expended for logistical and security support for international sporting competitions and for support of sporting competitions authorized under section 2564(c)(4) and (5), of title 10, United States Code, (other than pay and non-travel-related allowances of members of the Armed Forces of the United States, except for members of the reserve components thereof called or ordered to active duty in connection with providing such support): Provided, That there shall be credited to the Account: (a) unobligated balances of the funds appropriated in Public Laws 103–335 [108 Stat. 2605] and 104–61 [109 Stat. 642] under the headings ‘Summer Olympics’; (b) any reimbursements received by the Department of Defense in connection with support to the 1993 World University Games; the 1994 World Cup Games; and the 1996 Games of the XXVI Olympiad held in Atlanta, Georgia; (c) any reimbursements received by the Department of Defense after the date of enactment of this Act [Sept. 30, 1996] for logistical and security support provided to international sporting competitions; and (d) amounts specifically appropriated to the Account, all to remain available until expended: Provided further, That none of the funds made available to the Account may be obligated until 15 days after the congressional defense committees [Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate] have been notified in writing by the Secretary of Defense as to the purpose for which these funds will be obligated.”
 
 
 <a id="section-2564a"></a>
@@ -754,3 +748,26 @@ A prior section 2567, added Pub. L. 109–364, div. A, title X, § 1076(b)(1), O
 ## § 2568. Retention of combat uniforms by members deployed in support of contingency operations
 
 The Secretary of a military department may authorize a member of the armed forces under the jurisdiction of the Secretary who has been deployed in support of a contingency operation for at least 30 days to retain, after that member is no longer so deployed, the combat uniform issued to that member as organizational clothing and individual equipment.
+
+
+<a id="section-2568a"></a>
+## § 2568a. Damaged personal protective equipment: award to members separating from the Armed Forces and veterans
+**(a) In General.—** The Secretary of a military department, acting through a disposition service distribution center of the Defense Logistics Agency, may award to a covered individual the demilitarized PPE of that covered individual. The award of PPE under this section shall be without cost to the covered individual.
+
+**(b) Definitions.—** In this section:
+
+(1) The term “covered individual” means—
+
+  (A) a member of the armed forces—
+
+    (i) under the jurisdiction of the Secretary concerned; and
+
+    (ii) who is separating from the armed forces; or
+
+  (B) a veteran who was under the jurisdiction of the Secretary concerned while a member of the armed forces.
+
+(2) The term “PPE” means personal protective equipment that was damaged in combat or otherwise—
+
+  (A) during the deployment of a covered individual; and
+
+  (B) after September 11, 2001.

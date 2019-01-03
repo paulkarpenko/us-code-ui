@@ -2,7 +2,7 @@
 title: 42
 chapter: '67'
 heading: CHILD ABUSE PREVENTION AND TREATMENT AND ADOPTION REFORM
-section_count: 46
+section_count: 44
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -94,7 +94,7 @@ Pub. L. 93–247, § 1(a), formerly § 1, Jan. 31, 1974, 88 Stat. 4, as renumber
 
 For short title of title II of Pub. L. 99–401, which enacted subchapter IV of this chapter, as the “Temporary Child Care for Handicapped Children and Crisis Nurseries Act of 1986”, see section 201 of Pub. L. 99–401, formerly set out as a note under [section 5117 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5117&num=0&edition=prelim).
 
-Pub. L. 100–505, § 1, Oct. 18, 1988, 102 Stat. 2533, provided that: “This Act [enacting subchapter IV–A of this chapter and provisions formerly set out as a note under [section 670 of this title](./chapter-007-social-security.md#section-670)] may be cited as the ‘Abandoned Infants Assistance Act of 1988’.”
+Pub. L. 100–505, § 1, Oct. 18, 1988, 102 Stat. 2533, which provided that Pub. L. 100–505, enacting subchapter IV–A of this chapter and provisions formerly set out as a note under [section 670 of this title](./chapter-007-social-security.md#section-670), could be cited as the “Abandoned Infants Assistance Act of 1988”, was repealed by Pub. L. 115–271, title VII, § 7065(b), Oct. 24, 2018, 132 Stat. 4028.
 
 #### Regulations
 Pub. L. 100–294, title IV, § 401(a), Apr. 25, 1988, 102 Stat. 126, provided that: “For any rule or regulation needed to implement this Act [see Short Title of 1988 Amendment note above], the Secretary of Health and Human Services shall— “(1) publish proposed regulations for purposes of implementing the amendments made by this Act before the expiration of the 90-day period beginning on the date of the enactment of this Act [Apr. 25, 1988]; “(2) allow not less than 45 days for public comment on such proposed regulations; and “(3) publish final regulations for purposes of implementing the amendments made by this Act before the end of the 195-day period beginning on the date of the enactment of this Act.”
@@ -739,6 +739,136 @@ Pub. L. 100–294, title I, § 105, Apr. 25, 1988, 102 Stat. 118, directed the D
 
 (6) **Collaborations between child protective service entities and domestic violence service entities** — The Secretary may award grants to public or private agencies and organizations under this section to develop or expand effective collaborations between child protective service entities and domestic violence service entities to improve collaborative investigation and intervention procedures, provision for the safety of the nonabusing parent involved and children, and provision of services to children exposed to domestic violence that also support the caregiving role of the non-abusing parent.
 
+(7) **Grants to States to improve and coordinate their response to ensure the safety, permanency, and well-being of infants affected by substance use**
+
+  (A) *Program authorized* — The Secretary is authorized to make grants to States for the purpose of assisting child welfare agencies, social services agencies, substance use disorder treatment agencies, hospitals with labor and delivery units, medical staff, public health and mental health agencies, and maternal and child health agencies to facilitate collaboration in developing, updating, implementing, and monitoring plans of safe care described in [section 5106a(b)(2)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/iii&num=0&edition=prelim). [Section 5106h(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106h/a/2&num=0&edition=prelim) shall not apply to the program authorized under this paragraph.
+
+  (B) *Distribution of funds*
+
+    (i) *Reservations* — Of the amounts made available to carry out subparagraph (A), the Secretary shall reserve—
+
+      (I) no more than 3 percent for the purposes described in subparagraph (G); and
+
+      (II) up to 3 percent for grants to Indian Tribes and tribal organizations to address the needs of infants born with, and identified as being affected by, substance abuse or withdrawal symptoms resulting from prenatal drug exposure or a fetal alcohol spectrum disorder and their families or caregivers, which to the extent practicable, shall be consistent with the uses of funds described under subparagraph (D).
+
+    (ii) *Allotments to States and territories* — The Secretary shall allot the amount made available to carry out subparagraph (A) that remains after application of clause (i) to each State that applies for such a grant, in an amount equal to the sum of—
+
+      (I) $500,000; and
+
+      (II) an amount that bears the same relationship to any funds made available to carry out subparagraph (A) and remaining after application of clause (i), as the number of live births in the State in the previous calendar year bears to the number of live births in all States in such year.
+
+    (iii) *Ratable reduction* — If the amount made available to carry out subparagraph (A) is insufficient to satisfy the requirements of clause (ii), the Secretary shall ratably reduce each allotment to a State.
+
+  (C) *Application* — A State desiring a grant under this paragraph shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include—
+
+    (i) a description of—
+
+      (I) the impact of substance use disorder in such State, including with respect to the substance or class of substances with the highest incidence of abuse in the previous year in such State, including—
+
+        (aa) the prevalence of substance use disorder in such State;
+
+        (bb) the aggregate rate of births in the State of infants affected by substance abuse or withdrawal symptoms or a fetal alcohol spectrum disorder (as determined by hospitals, insurance claims, claims submitted to the State Medicaid program, or other records), if available and to the extent practicable; and
+
+        (cc) the number of infants identified, for whom a plan of safe care was developed, and for whom a referral was made for appropriate services, as reported under [section 5106a(d)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/d/18&num=0&edition=prelim);
+
+      (II) the challenges the State faces in developing, implementing, and monitoring plans of safe care in accordance with [section 5106a(b)(2)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/iii&num=0&edition=prelim);
+
+      (III) the State’s lead agency for the grant program and how that agency will coordinate with relevant State entities and programs, including the child welfare agency, the substance use disorder treatment agency, hospitals with labor and delivery units, health care providers, the public health and mental health agencies, programs funded by the Substance Abuse and Mental Health Services Administration that provide substance use disorder treatment for women, the State Medicaid program, the State agency administering the block grant program under title V of the Social Security Act ([42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.), the State agency administering the programs funded under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431&num=0&edition=prelim) et seq.), the maternal, infant, and early childhood home visiting program under section 511 of the Social Security Act ([42 U.S.C. 711](./chapter-007-social-security.md#section-711)), the State judicial system, and other agencies, as determined by the Secretary, and Indian Tribes and tribal organizations, as appropriate, to implement the activities under this paragraph;
+
+      (IV) how the State will monitor local development and implementation of plans of safe care, in accordance with [section 5106a(b)(2)(B)(iii)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/iii/II&num=0&edition=prelim), including how the State will monitor to ensure plans of safe care address differences between substance use disorder and medically supervised substance use, including for the treatment of a substance use disorder;
+
+      (V) if applicable, how the State plans to utilize funding authorized under part E of title IV of the Social Security Act ([42 U.S.C. 670](./chapter-007-social-security.md#section-670) et seq.) to assist in carrying out any plan of safe care, including such funding authorized under section 471(e) of such Act [[42 U.S.C. 671(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section671/e&num=0&edition=prelim)] (as in effect on October 1, 2018) for mental health and substance abuse prevention and treatment services and in-home parent skill-based programs and funding authorized under such section 472(j) [[42 U.S.C. 672(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section672/j&num=0&edition=prelim)] (as in effect on October 1, 2018) for children with a parent in a licensed residential family-based treatment facility for substance abuse; and
+
+      (VI) an assessment of the treatment and other services and programs available in the State to effectively carry out any plan of safe care developed, including identification of needed treatment, and other services and programs to ensure the well-being of young children and their families affected by substance use disorder, such as programs carried out under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431&num=0&edition=prelim) et seq.) and comprehensive early childhood development services and programs such as Head Start programs;
+
+    (ii) a description of how the State plans to use funds for activities described in subparagraph (D) for the purposes of ensuring State compliance with requirements under clauses (ii) and (iii) of [section 5106a(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B&num=0&edition=prelim); and
+
+    (iii) an assurance that the State will comply with requirements to refer a child identified as substance-exposed to early intervention services as required pursuant to a grant under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431&num=0&edition=prelim) et seq.).
+
+  (D) *Uses of funds* — Funds awarded to a State under this paragraph may be used for the following activities, which may be carried out by the State directly, or through grants or subgrants, contracts, or cooperative agreements:
+
+    (i) Improving State and local systems with respect to the development and implementation of plans of safe care, which—
+
+      (I) shall include parent and caregiver engagement, as required under [section 5106a(b)(2)(B)(iii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/iii/I&num=0&edition=prelim), regarding available treatment and service options, which may include resources available for pregnant, perinatal, and postnatal women; and
+
+      (II) may include activities such as—
+
+        (aa) developing policies, procedures, or protocols for the administration or development of evidence-based and validated screening tools for infants who may be affected by substance use withdrawal symptoms or a fetal alcohol spectrum disorder and pregnant, perinatal, and postnatal women whose infants may be affected by substance use withdrawal symptoms or a fetal alcohol spectrum disorder;
+
+        (bb) improving assessments used to determine the needs of the infant and family;
+
+        (cc) improving ongoing case management services;
+
+        (dd) improving access to treatment services, which may be prior to the pregnant woman’s delivery date; and
+
+        (ee) keeping families safely together when it is in the best interest of the child.
+
+    (ii) Developing policies, procedures, or protocols in consultation and coordination with health professionals, public and private health facilities, and substance use disorder treatment agencies to ensure that—
+
+      (I) appropriate notification to child protective services is made in a timely manner, as required under [section 5106a(b)(2)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/ii&num=0&edition=prelim);
+
+      (II) a plan of safe care is in place, in accordance with [section 5106a(b)(2)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/iii&num=0&edition=prelim), before the infant is discharged from the birth or health care facility; and
+
+      (III) such health and related agency professionals are trained on how to follow such protocols and are aware of the supports that may be provided under a plan of safe care.
+
+    (iii) Training health professionals and health system leaders, child welfare workers, substance use disorder treatment agencies, and other related professionals such as home visiting agency staff and law enforcement in relevant topics including—
+
+      (I) State mandatory reporting laws established under [section 5106a(b)(2)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/i&num=0&edition=prelim) and the referral and process requirements for notification to child protective services when child abuse or neglect reporting is not mandated;
+
+      (II) the co-occurrence of pregnancy and substance use disorder, and implications of prenatal exposure;
+
+      (III) the clinical guidance about treating substance use disorder in pregnant and postpartum women;
+
+      (IV) appropriate screening and interventions for infants affected by substance use disorder, withdrawal symptoms, or a fetal alcohol spectrum disorder and the requirements under [section 5106a(b)(2)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/iii&num=0&edition=prelim); and
+
+      (V) appropriate multigenerational strategies to address the mental health needs of the parent and child together.
+
+    (iv) Establishing partnerships, agreements, or memoranda of understanding between the lead agency and other entities (including health professionals, health facilities, child welfare professionals, juvenile and family court judges, substance use and mental disorder treatment programs, early childhood education programs, maternal and child health and early intervention professionals (including home visiting providers), peer-to-peer recovery programs such as parent mentoring programs, and housing agencies) to facilitate the implementation of, and compliance with, [section 5106a(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2&num=0&edition=prelim) and clause (ii) of this subparagraph, in areas which may include—
+
+      (I) developing a comprehensive, multi-disciplinary assessment and intervention process for infants, pregnant women, and their families who are affected by substance use disorder, withdrawal symptoms, or a fetal alcohol spectrum disorder, that includes meaningful engagement with and takes into account the unique needs of each family and addresses differences between medically supervised substance use, including for the treatment of substance use disorder, and substance use disorder;
+
+      (II) ensuring that treatment approaches for serving infants, pregnant women, and perinatal and postnatal women whose infants may be affected by substance use, withdrawal symptoms, or a fetal alcohol spectrum disorder, are designed to, where appropriate, keep infants with their mothers during both inpatient and outpatient treatment; and
+
+      (III) increasing access to all evidence-based medication-assisted treatment approved by the Food and Drug Administration, behavioral therapy, and counseling services for the treatment of substance use disorders, as appropriate.
+
+    (v) Developing and updating systems of technology for improved data collection and monitoring under [section 5106a(b)(2)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/iii&num=0&edition=prelim), including existing electronic medical records, to measure the outcomes achieved through the plans of safe care, including monitoring systems to meet the requirements of this Act and submission of performance measures.
+
+  (E) *Reporting* — Each State that receives funds under this paragraph, for each year such funds are received, shall submit a report to the Secretary, disaggregated by geographic location, economic status, and major racial and ethnic groups, except that such disaggregation shall not be required if the results would reveal personally identifiable information on, with respect to infants identified under [section 5106a(b)(2)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/ii&num=0&edition=prelim)—
+
+    (i) the number who experienced removal associated with parental substance use;
+
+    (ii) the number who experienced removal and subsequently are reunified with parents, and the length of time between such removal and reunification;
+
+    (iii) the number who are referred to community providers without a child protection case;
+
+    (iv) the number who receive services while in the care of their birth parents;
+
+    (v) the number who receive post-reunification services within 1 year after a reunification has occurred; and
+
+    (vi) the number who experienced a return to out-of-home care within 1 year after reunification.
+
+  (F) *Secretary’s report to Congress* — The Secretary shall submit an annual report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Education and the Workforce and the Committee on Appropriations of the House of Representatives that includes the information described in subparagraph (E) and recommendations or observations on the challenges, successes, and lessons derived from implementation of the grant program.
+
+  (G) *Assisting States’ implementation* — The Secretary shall use the amount reserved under subparagraph (B)(i)(I) to provide written guidance and technical assistance to support States in complying with and implementing this paragraph, which shall include—
+
+    (i) technical assistance, including programs of in-depth technical assistance, to additional States, territories, and Indian Tribes and tribal organizations in accordance with the substance-exposed infant initiative developed by the National Center on Substance Abuse and Child Welfare;
+
+    (ii) guidance on the requirements of this Act with respect to infants born with and identified as being affected by substance use or withdrawal symptoms or fetal alcohol spectrum disorder, as described in clauses (ii) and (iii) of [section 5106a(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B&num=0&edition=prelim), including by—
+
+      (I) enhancing States’ understanding of requirements and flexibilities under the law, including by clarifying key terms;
+
+      (II) addressing state-identified challenges with developing, implementing, and monitoring plans of safe care, including those reported under subparagraph (C)(i)(II);
+
+      (III) disseminating best practices on implementation of plans of safe care, on such topics as differential response, collaboration and coordination, and identification and delivery of services for different populations, while recognizing needs of different populations and varying community approaches across States; and
+
+      (IV) helping States improve the long-term safety and well-being of young children and their families;
+
+    (iii) supporting State efforts to develop information technology systems to manage plans of safe care; and
+
+    (iv) preparing the Secretary’s report to Congress described in subparagraph (F).
+
+  (H) *Sunset* — The authority under this paragraph shall sunset on September 30, 2023.
+
 **(b) Discretionary grants** In addition to grants or contracts made under subsection (a), grants or contracts under this section may be used for the following:
 
 (1) Respite and crisis nursery programs provided by community-based organizations under the direction and supervision of hospitals.
@@ -806,10 +936,19 @@ Pub. L. 100–294, title I, § 105, Apr. 25, 1988, 102 Stat. 118, directed the D
 
 ### Statutory Notes
 
+#### References in Text
+The Social Security Act, referred to in subsec. (a)(7)(C)(i)(III), (V), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part E of title IV of the Act is classified generally to part E (§ 670 et seq.) of subchapter IV of chapter 7 of this title. Title V of the Act is classified generally to subchapter V (§ 701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(7)(C)(i)(III), (VI), (iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+
+This Act, referred to in subsec. (a)(7)(D)(v), (G)(ii), means Pub. L. 93–247, Jan. 31, 1974, 88 Stat. 4, known as the Child Abuse Prevention and Treatment Act, which is classified principally to subchapters I (§ 5101 et seq.) and III (§ 5116 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101) and Tables.
+
 #### Prior Provisions
 A prior section 105 of Pub. L. 93–247 was renumbered section 104 and is classified to [section 5105 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5105).
 
 #### Amendments
+2018—Subsec. (a)(7). Pub. L. 115–271 added par. (7).
+
 2010—Pub. L. 111–320, § 114(1), substituted “States, Indian tribes or tribal organizations,” for “States” in section catchline.
 
 Subsec. (a). Pub. L. 111–320, § 114(2)(A), substituted “entities that are States, Indian tribes or tribal organizations, or” for “States,” and “such entities” for “such agencies or organizations” in introductory provisions.
@@ -1017,7 +1156,7 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
     (vi) procedures for immediate steps to be taken to ensure and protect the safety of a victim of child abuse or neglect and of any other child under the same care who may also be in danger of child abuse or neglect and ensuring their placement in a safe environment;
 
-    (vii) provisions for immunity from prosecution under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect;
+    (vii) provisions for immunity from civil or criminal liability under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect, or who otherwise provide information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect;
 
     (viii) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child’s parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III shall only be made available to—
 
@@ -1079,9 +1218,13 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
     (xxi) provisions and procedures for referral of a child under the age of 3 who is involved in a substantiated case of child abuse or neglect to early intervention services funded under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431&num=0&edition=prelim) et seq.);
 
-    (xxii) provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act ([42 U.S.C. 671(a)(20)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section671/a/20&num=0&edition=prelim)) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household; and
+    (xxii) provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act ([42 U.S.C. 671(a)(20)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section671/a/20&num=0&edition=prelim)) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household;
 
     (xxiii) provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
+
+    (xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim)); and
+
+    (xxv) provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;
 
   (C) an assurance that the State has in place procedures for responding to the reporting of medical neglect (including instances of withholding of medically indicated treatment from infants with disabilities who have life-threatening conditions), procedures or programs, or both (within the State child protective services system), to provide for—
 
@@ -1236,7 +1379,9 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
 (16) The number of children determined to be eligible for referral, and the number of children referred, under subsection (b)(2)(B)(xxi), to agencies providing early intervention services under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431&num=0&edition=prelim) et seq.).
 
-(17) The number of infants—
+(17) The number of children determined to be victims described in subsection (b)(2)(B)(xxiv).
+
+(18) The number of infants—
 
   (A) identified under subsection (b)(2)(B)(ii);
 
@@ -1282,27 +1427,6 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 114–198, title V, § 503(c)(2), July 22, 2016, 130 Stat. 730, provided that, effective May 29, 2017, subsection (d) of this section is amended by redesignating the paragraph (17) added by Pub. L. 114–198 as (18). See 2016 Amendment note below.
-
-Pub. L. 114–22, title VIII, § 802(a), (b), May 29, 2015, 129 Stat. 263, provided that, effective 2 years after May 29, 2015, this section is amended—
-
-(1) in subsection (b)(2)(B)—
-
-(A) in clause (xxii), by striking “and” at the end; and
-
-(B) by adding at the end the following:
-
-“(xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in [section 7102(10) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/10&num=0&edition=prelim)); and
-
-“(xxv) provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;”; and
-
-(2) in subsection (d), by adding at the end the following:
-
-“(17) The number of children determined to be victims described in subsection (b)(2)(B)(xxiv).”
-
-See 2015 Amendment notes below.
-
 #### References in Text
 The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§ 620 et seq.) and part E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
@@ -1314,6 +1438,8 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(2)(F), is
 A prior section 106 of Pub. L. 93–247 was renumbered section 105 and is classified to [section 5106 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106).
 
 #### Amendments
+2019—Subsec. (b)(2)(B)(vii). Pub. L. 115–424 amended cl. (vii) generally. Prior to amendment, cl. (vii) read as follows: “provisions for immunity from prosecution under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect;”.
+
 2016—Subsec. (b)(2)(B)(ii). Pub. L. 114–198, § 503(b)(1), substituted “substance abuse” for “illegal substance abuse” in introductory provisions.
 
 Subsec. (b)(2)(B)(iii). Pub. L. 114–198, § 503(b)(2), substituted “substance abuse” for “illegal substance abuse” and inserted before semicolon at end “to ensure the safety and well-being of such infant following release from the care of health care providers, including through—
@@ -1832,8 +1958,7 @@ Section was enacted as part of the Child Abuse, Domestic Violence, Adoption and 
 
 <a id="section-5106g"></a>
 ## § 5106g. Definitions
-
-For purposes of this subchapter—
+**(a) Definitions** For purposes of this subchapter—
 
 (1) the term “Alaska Native” has the meaning given the term “Native” in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim);
 
@@ -1859,28 +1984,18 @@ For purposes of this subchapter—
 
     (iii) otherwise be futile in terms of the survival of the infant; or
 
-  (C) the provision of such treatment would be virtually futile in terms of the survival of the infant and the treatment itself under such circumstances would be inhumane; 11 So in original. The semicolon probably should be a period.
+  (C) the provision of such treatment would be virtually futile in terms of the survival of the infant and the treatment itself under such circumstances would be inhumane.
+
+**(b) Special rule**
+
+(1) **In general** — For purposes of section 3(2) 11 See References in Text note below. and subsection (a)(4), a child shall be considered a victim of “child abuse and neglect” and of “sexual abuse” if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section.
+
+(2) **State option** — Notwithstanding the definition of “child” in section 3(1),1 a State may elect to define that term for purposes of the application of paragraph (1) to section 3(2) 1 and subsection (a)(4) as a person who has not attained the age of 24.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 114–22, title VIII, § 802(a), (c)(1), (3), May 29, 2015, 129 Stat. 263, 264, provided that, effective 2 years after May 29, 2015, this section is amended—
-
-(1) by striking “For purposes” and inserting the following:
-
-“(a) Definitions.—For purposes”;
-
-(2) by adding at the end the following:
-
-“(b) Special Rule.—
-
-“(1) In general.—For purposes of section 3(2) and subsection (a)(4), a child shall be considered a victim of ‘child abuse and neglect’ and of ‘sexual abuse’ if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section.
-
-“(2) State option.—Notwithstanding the definition of ‘child’ in section 3(1), a State may elect to define that term for purposes of the application of paragraph (1) to section 3(2) and subsection (a)(4) as a person who has not attained the age of 24.”; and
-
-(3) in subsection (a)(5)(C), as so designated, by striking “inhumane;” and inserting “inhumane.”
-
-See 2015 Amendment notes below.
+#### References in Text
+Section 3, referred to in subsec. (b), means section 3 of Pub. L. 93–247, which is set out as a Definitions note under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101).
 
 #### Prior Provisions
 A prior section 111 of Pub. L. 93–247 was renumbered section 109 and is classified to [section 5106e of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106e).
@@ -3030,280 +3145,31 @@ Pub. L. 99–401, title II, § 201, Aug. 27, 1986, 100 Stat. 907, as amended by 
 
 
 <a id="section-5117aa"></a>
-## § 5117aa. Authorization of appropriations
-**(a) In general**
-
-(1) **Authorization** — For the purpose of carrying out this subchapter, there are authorized to be appropriated $45,000,000 for fiscal year 2010 and such sums as may be necessary for fiscal years 2011 through 2015.
-
-(2) **Limitation** — Not more than 5 percent of the amounts appropriated under paragraph (1) for any fiscal year may be obligated for carrying out [section 5117aa–12(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5117aa–12/a&num=0&edition=prelim).
-
-**(b) Administrative expenses**
-
-(1) **Authorization** — For the purpose of the administration of this subchapter by the Secretary, there is authorized to be appropriated for each fiscal year specified in subsection (a)(1) an amount equal to 5 percent of the amount authorized in such subsection to be appropriated for the fiscal year. With respect to the amounts appropriated under such subsection, the preceding sentence may not be construed to prohibit the expenditure of the amounts for the purpose described in such sentence.
-
-(2) **Limitation** — The Secretary may not obligate any of the amounts appropriated under paragraph (1) for a fiscal year unless, from the amounts appropriated under subsection (a)(1) for the fiscal year, the Secretary has obligated for the purpose described in such paragraph an amount equal to the amounts obligated by the Secretary for such purpose in fiscal year 2010.
-
-**(c) Availability of funds** Amounts appropriated under this section shall remain available until expended.
+## § 5117aa. Repealed. Pub. L. 115–271, title VII, § 7065(b), Oct. 24, 2018, 132 Stat. 4028
 
 ### Statutory Notes
 
-#### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101) and Tables.
+Section 5117aa–21, Pub. L. 100–505, title III, § 301, Oct. 18, 1988, 102 Stat. 2537; Pub. L. 108–36, title III, § 305(a), June 25, 2003, 117 Stat. 824; Pub. L. 111–320, title IV, § 401(c), Dec. 20, 2010, 124 Stat. 3513, provided definitions for this subchapter.
 
-#### Amendments
-2010—Subsec. (a)(1). Pub. L. 111–320, § 401(d)(1), substituted “2010” for “2004” and “2011 through 2015” for “2005 through 2008”.
-
-Subsec. (b)(2). Pub. L. 111–320, § 401(d)(2), substituted “fiscal year 2010” for “fiscal year 2003”.
-
-2003—Subsec. (a). Pub. L. 108–36, § 304(a)(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations, with certain limitations, for fiscal years 1997 to 2001.
-
-Subsec. (b). Pub. L. 108–36, § 304(a)(2), (4), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “For the purpose of carrying out [section 5117aa–12(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5117aa–12/b&num=0&edition=prelim), there is authorized to be appropriated $5,000,000 for each of the fiscal years 1992 through 1995.”
-
-Subsec. (c). Pub. L. 108–36, § 304(a)(4), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
-
-Pub. L. 108–36, § 304(a)(3), inserted par. headings and substituted “this subchapter” for “this part” in par. (1) and “fiscal year 2003.” for “fiscal year 1991.” in par. (2).
-
-Subsec. (d). Pub. L. 108–36, § 304(a)(4), redesignated subsec. (d) as (c).
-
-1996—Subsec. (a)(1). Pub. L. 104–235 substituted “$35,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2001.” for “$20,000,000 for fiscal year 1992, $25,000,000 for fiscal year 1993, $30,000,000 for fiscal year 1994, and $35,000,000 for fiscal year 1995.”
-
-1991—Pub. L. 102–236 substituted provisions relating to appropriations to carry out this part for fiscal years 1992 to 1995, with certain limitations, for provisions relating to appropriations to make grants under [section 5117aa–11 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5117aa-11) for fiscal years 1989 to 1991.
+Section 5117aa–22, Pub. L. 100–505, title III, § 302, formerly title I, § 104, Oct. 18, 1988, 102 Stat. 2536; Pub. L. 102–236, § 6, Dec. 12, 1991, 105 Stat. 1815; Pub. L. 104–235, title II, § 222, Oct. 3, 1996, 110 Stat. 3092; renumbered title III, § 302, and amended Pub. L. 108–36, title III, § 304, June 25, 2003, 117 Stat. 824; Pub. L. 111–320, title IV, § 401(d), Dec. 20, 2010, 124 Stat. 3513, related to authorization of appropriations.
 
 
-<a id="section-5117aa-11"></a>
-## § 5117aa–11. Findings
-
-The Congress finds that—
-
-(1) studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants and young children and a lack of suitable shelter homes for such infants and young children have led to the abandonment of such infants and young children in hospitals for extended periods;
-
-(2) an unacceptable number of these infants and young children will be medically cleared for discharge, yet remain in hospitals as boarder babies;
-
-(3) hospital-based child care for these infants and young children is extremely costly and deprives them of an adequate nurturing environment;
-
-(4) appropriate training is needed for personnel working with infants and young children with life-threatening conditions and other special needs, including those with HIV/AIDS, and those who have been exposed to dangerous drugs;
-
-(5) infants and young children who are abandoned in hospitals are particularly difficult to place in foster homes, and are being abandoned in hospitals in increasing numbers by mothers dying of HIV/AIDS, by parents abusing drugs, or by parents incapable of providing adequate care;
-
-(6) there is a need for comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;
-
-(7) there is a need to support the families of such infants and young children through the provision of services that will prevent the abandonment of the infants and children; and
-
-(8) private, Federal, State, and local resources should be coordinated to establish and maintain services described in paragraph (7) and to ensure the optimal use of all such resources.
+<a id="section-5117aa-11-5117aa-12"></a>
+## § 5117aa–11, 5117aa–12. Repealed. Pub. L. 115–271, title VII, § 7065(b), Oct. 24, 2018, 132 Stat. 4028
 
 ### Statutory Notes
 
-#### Amendments
-2010—Par. (4). Pub. L. 111–320, § 401(a)(1), substituted “including those with HIV/AIDS” for “including those who are infected with the human immunodeficiency virus (commonly known as ‘HIV’), those who have acquired immune deficiency syndrome (commonly known as ‘AIDS’)”.
-
-Par. (5). Pub. L. 111–320, § 401(a)(2), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
-
-2003—Par. (1). Pub. L. 108–36, § 301(1), (8), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “throughout the Nation, the number of infants and young children who have been exposed to drugs taken by their mothers during pregnancy has increased dramatically;”.
-
-Par. (2). Pub. L. 108–36, § 301(8), redesignated par. (3) as (2). Former par. (2) redesignated (1).
-
-Pub. L. 108–36, § 301(2), substituted “studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants” for “the inability of parents who abuse drugs to provide adequate care for such infants”.
-
-Pars. (3), (4). Pub. L. 108–36, § 301(8), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
-
-Par. (5). Pub. L. 108–36, § 301(8), redesignated par. (8) as (5). Former par. (5) redesignated (4).
-
-Pub. L. 108–36, § 301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “training is inadequate for foster care personnel working with medically fragile infants and young children and infants and young children exposed to drugs;”.
-
-Pars. (6), (7). Pub. L. 108–36, § 301(4), (8), redesignated pars. (9) and (10) as (6) and (7), respectively, and struck out former pars. (6) and (7) which read as follows:
-
-“(6) a particularly devastating development is the increase in the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;
-
-“(7) many such infants and young children have at least one parent who is an intravenous drug abuser;”.
-
-Par. (8). Pub. L. 108–36, § 301(9), added par. (8). Former par. (8) redesignated (5).
-
-Pub. L. 108–36, § 301(5), substituted “infants and young children who are abandoned in hospitals” for “such infants and young children” and inserted “by parents abusing drugs,” after “deficiency syndrome,”.
-
-Par. (9). Pub. L. 108–36, § 301(8), redesignated par. (9) as (6).
-
-Pub. L. 108–36, § 301(6), substituted “comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;” for “comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;”.
-
-Par. (10). Pub. L. 108–36, § 301(8), redesignated par. (10) as (7).
-
-Par. (11). Pub. L. 108–36, § 301(7), struck out par. (11) which read as follows: “there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.”
-
-1991—Par. (3). Pub. L. 102–236, § 2(1), substituted “an unacceptable number” for “the vast majority”.
-
-Par. (6). Pub. L. 102–236, § 2(2), substituted “the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;” for “the number of cases of acquired immune deficiency syndrome in infants and young children, and the number of such cases has doubled within the last 13 months;”.
-
-Par. (7). Pub. L. 102–236, § 2(3), substituted “many such” for “more than 80 percent of” and struck out “with acquired immune deficiency syndrome” after “young children”.
-
-Par. (8). Pub. L. 102–236, § 2(4), substituted “such infants and young children” for “infants and young children with acquired immune deficiency syndrome”.
-
-Pars. (10), (11). Pub. L. 102–236, § 2(5), added par. (10) and redesignated former par. (10) as (11).
-
-#### Short Title
-For short title of this subchapter as the “Abandoned Infants Assistance Act of 1988”, see section 1 of Pub. L. 100–505, set out as a note under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101).
+Section, Pub. L. 100–505, § 2, Oct. 18, 1988, 102 Stat. 2533; Pub. L. 102–236, § 2, Dec. 12, 1991, 105 Stat. 1812; Pub. L. 108–36, title III, § 301, June 25, 2003, 117 Stat. 822; Pub. L. 111–320, title IV, § 401(a), Dec. 20, 2010, 124 Stat. 3513, related to congressional findings.
 
 
-<a id="section-5117aa-12"></a>
-## § 5117aa–12. Establishment of local projects
-**(a) In general** The Secretary of Health and Human Services may make grants to public and nonprofit private entities for the purpose of developing, implementing, and operating projects to demonstrate methods—
-
-(1) to prevent the abandonment of infants and young children, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child;
-
-(2) to identify and address the needs of abandoned infants and young children;
-
-(3) to assist abandoned infants and young children to reside with their natural families or in foster care, as appropriate;
-
-(4) to recruit, train, and retain foster families for abandoned infants and young children;
-
-(5) to carry out residential care programs for abandoned infants and young children who are unable to reside with their families or to be placed in foster care;
-
-(6) to carry out programs of respite care for families and foster families of infants and young children described in subsection (b);
-
-(7) to recruit and train health and social services personnel to work with families, foster care families, and residential care programs for abandoned infants and young children; and
-
-(8) to prevent the abandonment of infants and young children, and to care for the infants and young children who have been abandoned, through model programs providing health, educational, and social services at a single site in a geographic area in which a significant number of infants and young children described in subsection (b) reside (with special consideration given to applications from entities that will provide the services of the project through community-based organizations).
-
-**(b) Priority in provision of services** The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees to give priority to abandoned infants and young children who—
-
-(1) are infected with, or have been perinatally exposed to, the human immunodeficiency virus, or have a life-threatening illness or other special medical need; or
-
-(2) have been perinatally exposed to a dangerous drug.
-
-**(c) Case plan with respect to foster care** The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, if the applicant expends the grant to carry out any program of providing care to infants and young children in foster homes or in other nonmedical residential settings away from their parents, the applicant will ensure that—
-
-(1) a case plan of the type described in paragraph (1) of [section 675 of this title](./chapter-007-social-security.md#section-675) is developed for each such infant and young child (to the extent that such infant and young child is not otherwise covered by such a plan); and
-
-(2) the program includes a case review system of the type described in paragraph (5) of such section (covering each such infant and young child who is not otherwise subject to such a system).
-
-**(d) Administration of grant**
-
-(1) The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees—
-
-  (A) to use the funds provided under this section only for the purposes specified in the application submitted to, and approved by, the Secretary pursuant to subsection (e);
-
-  (B) to establish such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement and accounting of Federal funds paid to the applicant under this section;
-
-  (C) to report to the Secretary annually on the utilization, cost, and outcome of activities conducted, and services furnished, under this section; and
-
-  (D) that if, during the majority of the 180-day period preceding October 18, 1988, the applicant has carried out any program with respect to the care of abandoned infants and young children, the applicant will expend the grant only for the purpose of significantly expanding, in accordance with subsection (a), activities under such program above the level provided under such program during the majority of such period.
-
-(2) Subject to the availability of amounts made available in appropriations Acts for the fiscal year involved, the duration of a grant under subsection (a) shall be for a period of 3 years, except that the Secretary—
-
-  (A) may terminate the grant if the Secretary determines that the entity involved has substantially failed to comply with the agreements required as a condition of the provision of the grant; and
-
-  (B) shall continue the grant for one additional year if the Secretary determines that the entity has satisfactorily complied with such agreements.
-
-**(e) Requirement of application** The Secretary may not make a grant under subsection (a) unless—
-
-(1) an application for the grant is submitted to the Secretary;
-
-(2) with respect to carrying out the purpose for which the grant is to be made, the application provides assurances of compliance satisfactory to the Secretary; and
-
-(3) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
-
-**(f) Technical assistance to grantees** The Secretary may, without charge to any grantee under subsection (a), provide technical assistance (including training) with respect to the planning, development, and operation of projects described in such subsection. The Secretary may provide such technical assistance directly, through contracts, or through grants.
-
-**(g) Technical assistance with respect to process of applying for grant** The Secretary may provide technical assistance (including training) to public and nonprofit private entities with respect to the process of applying to the Secretary for a grant under subsection (a). The Secretary may provide such technical assistance directly, through contracts, or through grants.
-
-**(h) Priority requirement** In making grants under subsection (a), the Secretary shall give priority to applicants located in States that have developed and implemented procedures for expedited termination of parental rights and placement for adoption of infants determined to be abandoned under State law.
+<a id="section-5117aa-21-5117aa-22"></a>
+## § 5117aa–21, 5117aa–22. Repealed. Pub. L. 115–271, title VII, § 7065(b), Oct. 24, 2018, 132 Stat. 4028
 
 ### Statutory Notes
 
-#### Amendments
-2003—Pub. L. 108–36, § 302(1), substituted “Establishment of local projects” for “Establishment of program of demonstration projects” in section catchline.
+Section 5117aa–11, Pub. L. 100–505, title I, § 101, Oct. 18, 1988, 102 Stat. 2534; Pub. L. 102–236, § 3, Dec. 12, 1991, 105 Stat. 1812; Pub. L. 104–235, title II, § 221, Oct. 3, 1996, 110 Stat. 3091; Pub. L. 108–36, title III, § 302, June 25, 2003, 117 Stat. 823, related to establishment of local projects.
 
-Subsec. (b). Pub. L. 108–36, § 302(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, in carrying out the purpose described in subsection (a) (other than with respect to paragraph (6) of such subsection), the applicant will give priority to abandoned infants and young children—
-
-“(1) who are infected with the human immunodeficiency virus or who have been perinatally exposed to the virus; or
-
-“(2) who have been perinatally exposed to a dangerous drug.”
-
-1996—Subsec. (h). Pub. L. 104–235 added subsec. (h).
-
-1991—Subsec. (a)(1). Pub. L. 102–236, § 3(c)(1), inserted before semicolon at end “, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child”.
-
-Subsec. (a)(2). Pub. L. 102–236, § 3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
-
-Subsec. (a)(3). Pub. L. 102–236, § 3(a)(2)(A)(iii), struck out “, particularly those with acquired immune deficiency syndrome,” after “young children”.
-
-Subsec. (a)(4). Pub. L. 102–236, § 3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
-
-Subsec. (a)(5). Pub. L. 102–236, § 3(a)(2)(A)(ii), (c)(2), substituted “who are unable to reside with their families or to be placed in foster care” for “, particularly those with acquired immune deficiency syndrome”.
-
-Subsec. (a)(6). Pub. L. 102–236, § 3(a)(2)(A)(i), substituted “described in subsection (b)” for “with acquired immune deficiency syndrome”.
-
-Subsec. (a)(7). Pub. L. 102–236, § 3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
-
-Subsec. (a)(8). Pub. L. 102–236, § 3(b), added par. (8).
-
-Subsecs. (b), (c). Pub. L. 102–236, § 3(a)(1), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
-
-Subsec. (d). Pub. L. 102–236, § 3(d), designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, realigned margins, and added par. (2).
-
-Pub. L. 102–236, § (3)(a)(1)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
-
-Subsec. (d)(1). Pub. L. 102–236, § 3(a)(2)(B), substituted “subsection (e)” for “subsection (d)”.
-
-Subsecs. (e) to (g). Pub. L. 102–236, § 3(a)(1)(A), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
-
-
-<a id="section-5117aa-21"></a>
-## § 5117aa–21. Evaluations, study, and reports by Secretary
-**(a) Evaluations of local programs** The Secretary shall, directly or through contracts with public and nonprofit private entities, provide for evaluations of projects carried out under [section 5117aa–11 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5117aa-11) and for the dissemination of information developed as a result of such projects.
-
-**(b) Study and report on number of abandoned infants and young children**
-
-(1) **In general** — The Secretary shall conduct a study for the purpose of determining—
-
-  (A) an estimate of the annual number of infants and young children relinquished, abandoned, or found deceased in the United States and the number of such infants and young children who are infants and young children described in [section 5117aa–11(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5117aa–11/b&num=0&edition=prelim);
-
-  (B) an estimate of the annual number of infants and young children who are victims of homicide;
-
-  (C) characteristics and demographics of parents who have abandoned an infant within 1 year of the infant’s birth; and
-
-  (D) an estimate of the annual costs incurred by the Federal Government and by State and local governments in providing housing and care for abandoned infants and young children.
-
-(2) **Deadline** — Not later than 36 months after June 25, 2003, the Secretary shall complete the study required under paragraph (1) and submit to Congress a report describing the findings made as a result of the study.
-
-**(c) Evaluation** The Secretary shall evaluate and report on effective methods of intervening before the abandonment of an infant or young child so as to prevent such abandonments, and effective methods for responding to the needs of abandoned infants and young children.
-
-### Statutory Notes
-
-#### Amendments
-2003—Pub. L. 108–36 amended section generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to evaluations of demonstration projects, dissemination of information on assistance programs to individuals with special needs, a study and report on the estimated number of abandoned children to be completed by Apr. 1, 1992, and a study and report on effective care methods to be completed by Apr. 1, 1991.
-
-1991—Subsec. (b). Pub. L. 102–236, § 4(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
-
-Subsec. (c). Pub. L. 102–236, § 4(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
-
-Subsec. (c)(1)(A). Pub. L. 102–236, § 4(b)(1), substituted “infants and young children who are infants and young children described in [section 5117aa–11(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5117aa–11/b&num=0&edition=prelim)” for “infants who have acquired immune deficiency syndrome”.
-
-Subsec. (c)(2). Pub. L. 102–236, § 4(b)(2), which directed striking out “ ‘The Secretary and all that follows through ‘Act,’ ” and inserting “Not later than April 1, 1992, the Secretary shall”, was executed by making the substitution for “The Secretary shall, not later than 12 months after the date of the enactment of this Act,” to reflect the probable intent of Congress.
-
-Subsec. (d). Pub. L. 102–236, § 4(a)(1), redesignated subsec. (c) as (d).
-
-
-<a id="section-5117aa-22"></a>
-## § 5117aa–22. Definitions
-
-In this subchapter:
-
-(1) **Abandoned; abandonment** — The terms “abandoned” and “abandonment”, used with respect to infants and young children, mean that the infants and young children are medically cleared for discharge from acute-care hospital settings, but remain hospitalized because of a lack of appropriate out-of-hospital placement alternatives.
-
-(2) **Dangerous drug** — The term “dangerous drug” means a controlled substance, as defined in [section 802 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim).
-
-(3) **Natural family** — The term “natural family” shall be broadly interpreted to include natural parents, grandparents, family members, guardians, children residing in the household, and individuals residing in the household on a continuing basis who are in a care-giving situation, with respect to infants and young children covered under this subchapter.
-
-(4) **Secretary** — The term “Secretary” means the Secretary of Health and Human Services.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101) and Tables.
-
-#### Amendments
-2010—Pars. (2) to (5). Pub. L. 111–320 redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The term ‘acquired immune deficiency syndrome’ includes infection with the etiologic agent for such syndrome, any condition indicating that an individual is infected with such etiologic agent, and any condition arising from such etiologic agent.”
-
-2003—Pub. L. 108–36 amended section generally. Prior to amendment, section defined “acquired immune deficiency syndrome” and “Secretary”.
+Section 5117aa–12, Pub. L. 100–505, title I, § 102, Oct. 18, 1988, 102 Stat. 2535; Pub. L. 102–236, § 4, Dec. 12, 1991, 105 Stat. 1814; Pub. L. 108–36, title III, § 303, June 25, 2003, 117 Stat. 823, related to evaluations, study, and reports by Secretary.
 
 
 <a id="section-5118-to-5118e"></a>

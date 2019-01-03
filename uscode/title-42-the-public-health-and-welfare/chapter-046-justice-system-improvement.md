@@ -2118,16 +2118,15 @@ Section 3797c was editorially reclassified as [section 10553 of Title 34](https:
 ### Statutory Notes
 
 #### Codification
-Section 3797dd was editorially reclassified as [section 10681 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10681&num=0&edition=prelim), Crime Control and Law Enforcement.
+Section 3797dd was editorially reclassified as former [section 10681 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10681&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-3797ee-1"></a>
-## § 3797ee–1. Omitted
+## § 3797ee–1. Repealed. Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 90–351, title I, § 3002, as added Pub. L. 110–199, title I, § 114(2), Apr. 9, 2008, 122 Stat. 677, which authorized appropriations for fiscal years 2009 and 2010, was omitted as obsolete.
+Section, Pub. L. 90–351, title I, § 3002, as added Pub. L. 110–199, title I, § 114(2), Apr. 9, 2008, 122 Stat. 677, authorized appropriations for fiscal years 2009 and 2010.
 
 
 <a id="section-3797ff"></a>
@@ -2203,12 +2202,11 @@ Section 3797d was editorially reclassified as [section 10554 of Title 34](https:
 
 
 <a id="section-3797k"></a>
-## § 3797k. Omitted
+## § 3797k. Repealed. Pub. L. 115–141, div. S, title V, § 502(5), Mar. 23, 2018, 132 Stat. 1131
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 90–351, title I, § 2705, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–162, title XI, § 1169(a), Jan. 5, 2006, 119 Stat. 3122, which authorized appropriations for fiscal years 2001 through 2009, was omitted as obsolete.
+Section, Pub. L. 90–351, title I, § 2705, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–162, title XI, § 1169(a), Jan. 5, 2006, 119 Stat. 3122, authorized appropriations for fiscal years 2001 through 2009.
 
 
 <a id="section-3797l"></a>
@@ -2271,7 +2269,7 @@ Section 3797o was editorially reclassified as [section 10566 of Title 34](https:
 ### Statutory Notes
 
 #### Codification
-Section 3797q was editorially reclassified as [section 10581 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10581&num=0&edition=prelim), Crime Control and Law Enforcement.
+Section 3797q was editorially reclassified as [section 10581 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10581&num=0&edition=prelim), Crime Control and Law Enforcement, which was repealed by Pub. L. 115–391, title V, § 504(g)(2), Dec. 21, 2018, 132 Stat. 5234.
 
 #### Prior Provisions
 Prior sections 3797q–1 to 3797q–6 were repealed by Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298.
@@ -2335,12 +2333,12 @@ Section 3797s–4 was editorially reclassified as [section 10595 of Title 34](ht
 
 
 <a id="section-3797u"></a>
-## § 3797u. Omitted
+## § 3797u. Transferred
 
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 90–351, title I, § 2926, as added Pub. L. 110–199, title I, § 113, Apr. 9, 2008, 122 Stat. 676, which authorized appropriations for fiscal years 2009 and 2010, was omitted as obsolete.
+Section 3797s–5 was editorially reclassified as [section 10595a of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10595a&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 
 <a id="section-3797u-1"></a>
@@ -2460,7 +2458,7 @@ Section 3797w–1 was editorially reclassified as [section 10632 of Title 34](ht
 ### Statutory Notes
 
 #### Codification
-Section 3797w–2 was editorially reclassified as [section 10633 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10633&num=0&edition=prelim), Crime Control and Law Enforcement.
+Section 3797w–2 was editorially reclassified as [section 10633 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10633&num=0&edition=prelim), Crime Control and Law Enforcement, which was repealed by Pub. L. 115–391, title V, § 504(g)(1), Dec. 21, 2018, 132 Stat. 5234.
 
 
 <a id="section-3797y-2"></a>

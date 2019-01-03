@@ -14,7 +14,7 @@ Congress declares that the Federal Government has the sole responsibility for th
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Short Title of 2002 Amendment
 Pub. L. 107–110, title X, § 1041, Jan. 8, 2002, 115 Stat. 2007, provided that: “This part [part D (§§ 1041–1045) of title X of Pub. L. 107–110, enacting this chapter and sections 2501 to 2511 of this title, amending [section 13d–2 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13d-2), and repealing former sections 2501 to 2511 of this title] may be cited as the ‘Native American Education Improvement Act of 2001’.”
@@ -356,6 +356,9 @@ Another prior section 2001, Pub. L. 95–561, title XI, § 1121, Nov. 1, 1978, 9
 
 “(C) any school board of a school operated under a grant under the Tribally Controlled Schools Act of 1988.”
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
@@ -409,6 +412,9 @@ A prior section 2002, Pub. L. 95–561, title XI, § 1122, as added Pub. L. 103�
 
 Another prior section 2002, Pub. L. 95–561, title XI, § 1122, Nov. 1, 1978, 92 Stat. 2318; Pub. L. 96–46, § 2(b)(5), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 100–297, title V, § 5105, Apr. 28, 1988, 102 Stat. 367, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-2003"></a>
 ## § 2003. Codification of regulations
@@ -425,6 +431,9 @@ This Act, referred to in subsec. (a), means Pub. L. 95–561, Nov. 1, 1978, 92 S
 A prior section 2003, Pub. L. 95–561, title XI, § 1123, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3985, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2003, Pub. L. 95–561, title XI, § 1123, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, § 5106, Apr. 28, 1988, 102 Stat. 367, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2004"></a>
@@ -469,6 +478,9 @@ Another prior section 2003, Pub. L. 95–561, title XI, § 1123, Nov. 1, 1978, 9
 A prior section 2004, Pub. L. 95–561, title XI, § 1124, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3986, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2004, Pub. L. 95–561, title XI, § 1124, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 98–511, title V, § 503, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, § 3, Aug. 15, 1985, 99 Stat. 380; Pub. L. 100–297, title V, § 5120, Apr. 28, 1988, 102 Stat. 384, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2005"></a>
@@ -649,6 +661,9 @@ Another prior section 2005, Pub. L. 95–561, title XI, § 1125, Nov. 1, 1978, 9
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Use of Tribal Priority Allocations Funds for School Facilities
 Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: “That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with [former] [25 U.S.C. 2005(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2005/a&num=0&edition=prelim) [see now [25 U.S.C. 2005(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2005/b&num=0&edition=prelim)], so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds”.
 
@@ -726,6 +741,9 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 A prior section 2006, Pub. L. 95–561, title XI, § 1126, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3988, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2006, Pub. L. 95–561, title XI, § 1126, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 96–46, § 2(b)(6), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, § 504, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, § 4, Aug. 15, 1985, 99 Stat. 381; Pub. L. 100–427, § 1(c)(3), Sept. 9, 1988, 102 Stat. 1603, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2007"></a>
@@ -866,6 +884,9 @@ Another prior section 2006, Pub. L. 95–561, title XI, § 1126, Nov. 1, 1978, 9
 A prior section 2007, Pub. L. 95–561, title XI, § 1127, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3989, related to allotment formula, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2007, Pub. L. 95–561, title XI, § 1127, Nov. 1, 1978, 92 Stat. 2320, related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2008"></a>
@@ -1073,6 +1094,9 @@ Section 2008, Pub. L. 95–561, title XI, § 1128, Nov. 1, 1978, 92 Stat. 2320; 
 
 Section 2008a, Pub. L. 95–561, title XI, § 1128A, as added Pub. L. 100–297, title V, § 5108(a), Apr. 28, 1988, 102 Stat. 369; amended Pub. L. 100–427, § 4, Sept. 9, 1988, 102 Stat. 1604; Pub. L. 101–301, § 5(f), May 24, 1990, 104 Stat. 208, related to administrative cost grants.
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-2009"></a>
 ## § 2009. Division of Budget Analysis
@@ -1096,6 +1120,9 @@ Section 2008a, Pub. L. 95–561, title XI, § 1128A, as added Pub. L. 100–297,
 A prior section 2009, Pub. L. 95–561, title XI, § 1129, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3998, related to Division of Budget Analysis, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2009, Pub. L. 95–561, title XI, § 1129, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 98–511, title V, §§ 506, 507(a), Oct. 19, 1984, 98 Stat. 2395, 2396; Pub. L. 99–89, § 6, Aug. 15, 1985, 99 Stat. 382; Pub. L. 99–570, title IV, § 4133(b)(4), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§ 5109, 5110, 5118, Apr. 28, 1988, 102 Stat. 375, 376, 382; Pub. L. 100–427, §§ 6, 9(d), Sept. 9, 1988, 102 Stat. 1605, 1607, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2010"></a>
@@ -1250,6 +1277,9 @@ A prior section 2010, Pub. L. 95–561, title XI, § 1130, as added Pub. L. 103�
 
 Another prior section 2010, Pub. L. 95–561, title XI, § 1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V, § 5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, § 7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-2011"></a>
 ## § 2011. Policy for Indian control of Indian education
@@ -1280,6 +1310,9 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 95–561, Nov. 1, 1978, 9
 A prior section 2011, Pub. L. 95–561, title XI, § 1131, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4001, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 92 Stat. 2322; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–511, title V, § 507(b), Oct. 19, 1984, 98 Stat. 2396; Pub. L. 100–297, title V, §§ 5112(a), (b)(1), 5114, 5115, Apr. 28, 1988, 102 Stat. 377, 378, 380; Pub. L. 100–427, § 9(a)–(c), Sept. 9, 1988, 102 Stat. 1606, related to education personnel, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2012"></a>
@@ -1637,6 +1670,9 @@ A prior section 2012, Pub. L. 95–561, title XI, § 1132, as added Pub. L. 103�
 
 Another prior section 2012, Pub. L. 95–561, title XI, § 1132, Nov. 1, 1978, 92 Stat. 2326; Pub. L. 96–46, § 2(b)(9), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, § 508, Oct. 19, 1984, 98 Stat. 2397, related to establishment of a computerized management information system, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Adjustments to Rates of Basic Compensation or Annual Salary Rates for Education Positions
 Pub. L. 104–208, div. A, title I, § 101(d) [title I], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: “That in fiscal year 1997 and thereafter, notwithstanding the provisions of [former] [25 U.S.C. 2012(h)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2012/h/1/A&num=0&edition=prelim) and (B) [see now [25 U.S.C. 2012(g)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2012/g/1/A&num=0&edition=prelim), (B)], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary [of the Interior] shall establish adjustments to the rates of basic compensation or annual salary rates established under [former] [25 U.S.C. 2012(h)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2012/h/1/A&num=0&edition=prelim) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: Provided further, That any reduction to rates of basic compensation or annual salary rates below the rates established under [former] [25 U.S.C. 2012(h)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2012/h/1/A&num=0&edition=prelim) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under [former] [25 U.S.C. 2012(h)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2012/h/1/A&num=0&edition=prelim) and (B) so long as the individual remains in the same position at the same school”.
 
@@ -1686,6 +1722,9 @@ A prior section 2013, Pub. L. 95–561, title XI, § 1133, as added Pub. L. 103�
 
 Another prior section 2013, Pub. L. 95–561, title XI, § 1133, Nov. 1, 1978, 92 Stat. 2327, related to Bureau education policies, practices, and procedures, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-2014"></a>
 ## § 2014. Recruitment of Indian educators
@@ -1698,6 +1737,9 @@ The Secretary shall institute a policy for the recruitment of qualified Indian e
 A prior section 2014, Pub. L. 95–561, title XI, § 1134, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4010, related to Bureau education policies, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2014, Pub. L. 95–561, title XI, § 1134, Nov. 1, 1978, 92 Stat. 2327, related to uniform education procedures and practices by Bureau divisions, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2015"></a>
@@ -1721,6 +1763,9 @@ A prior section 2015, Pub. L. 95–561, title XI, § 1135, as added Pub. L. 103�
 
 Another prior section 2015, Pub. L. 95–561, title XI, § 1135, Nov. 1, 1978, 92 Stat. 2327, related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-2016"></a>
 ## § 2016. Rights of Indian students
@@ -1741,6 +1786,9 @@ A prior section 2016, Pub. L. 95–561, title XI, § 1136, as added Pub. L. 103�
 Another prior section 2016, Pub. L. 95–561, title XI, § 1136, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 97–375, title II, § 208(b), Dec. 21, 1982, 96 Stat. 1825; Pub. L. 98–511, title V, § 509, Oct. 19, 1984, 98 Stat. 2397; Pub. L. 99–89, § 7, Aug. 15, 1985, 99 Stat. 383, related to annual reports to Congressional committees and audits, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 A prior section 2016a, Pub. L. 100–297, title VI, § 6210, Apr. 28, 1988, 102 Stat. 427, directed Assistant Secretary of the Interior for Bureau of Indian Affairs to submit to appropriate committees of Congress, the President, and the Secretary by September 30 of every other year a report on education of Indian children, prior to repeal by Pub. L. 100–427, § 27, Sept. 9, 1988, 102 Stat. 1614.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2017"></a>
@@ -1772,6 +1820,9 @@ This Act, referred to in subsec. (b), means Pub. L. 95–561, Nov. 1, 1978, 92 S
 A prior section 2017, Pub. L. 95–561, title XI, § 1137, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011; amended Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–362, title VIII, § 801(c)(4), Nov. 10, 1998, 112 Stat. 3288, related to biennial report, prior to the general amendment of this chapter by Pub. L. 107–110. See [section 2015 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2015).
 
 Another prior section 2017, Pub. L. 95–561, title XI, § 1137, Nov. 1, 1978, 92 Stat. 2327, related to constitutional and civil rights of Indian children attending Bureau schools, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2018"></a>
@@ -1817,6 +1868,9 @@ The date of enactment of this chapter, referred to in subsec. (c)(1), probably m
 A prior section 2018, Pub. L. 95–561, title XI, § 1138, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to rights of Indian students, prior to the general amendment of this chapter by Pub. L. 107–110. See [section 2016 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2016).
 
 Another prior section 2018, Pub. L. 95–561, title XI, § 1138, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 98–511, title V, § 510, Oct. 19, 1984, 98 Stat. 2397, related to regulations implementing administrative provisions, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2019"></a>
@@ -1907,6 +1961,9 @@ Another prior section 2019, Pub. L. 95–561, title XI, § 1139, Nov. 1, 1978, 9
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-2020"></a>
 ## § 2020. Tribal departments or divisions of education
@@ -1956,6 +2013,9 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 A prior section 2020, Pub. L. 95–561, title XI, § 1140, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to voluntary services, prior to the general amendment of this chapter by Pub. L. 107–110. See [section 2012 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2012).
 
 Another prior section 2020, Pub. L. 95–561, title XI, § 1140, as added Pub. L. 98–511, title V, § 511, Oct. 19, 1984, 98 Stat. 2397; amended Pub. L. 99–89, § 8, Aug. 15, 1985, 99 Stat. 383, related to voluntary services, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2021"></a>
@@ -2083,3 +2143,6 @@ Section 2026, Pub. L. 95–561, title XI, § 1146, as added Pub. L. 103–382, t
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
+#### Effective Date
+Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

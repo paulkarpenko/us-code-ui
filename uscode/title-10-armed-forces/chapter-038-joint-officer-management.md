@@ -38,7 +38,7 @@ source: >-
 
   (B) successfully completes—
 
-    (i) a full tour of duty in a joint assignment, as described in section 664(f) 11 See References in Text note below. of this title; or
+    (i) a full tour of duty in a joint assignment, as described in [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim); or
 
     (ii) such other assignments and experiences in a manner that demonstrate the officer’s mastery of knowledge, skills, and abilities in joint matters, as determined under such regulations and policy as the Secretary of Defense may prescribe.
 
@@ -46,7 +46,7 @@ source: >-
 
 (3) In the case of an officer in a grade below brigadier general or rear admiral (lower half), a waiver under paragraph (2) may be granted only if—
 
-  (A) the officer has completed two full tours of duty in a joint duty assignment, as described in section 664(f) 1 of this title, in such a manner as to demonstrate the officer’s mastery of knowledge, skills, and abilities on joint matters; and
+  (A) the officer has completed two full tours of duty in a joint duty assignment, as described in [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim), in such a manner as to demonstrate the officer’s mastery of knowledge, skills, and abilities on joint matters; and
 
   (B) the Secretary of Defense determines that the types of joint duty experiences completed by the officer have been of sufficient breadth to prepare the officer adequately for service as a general or flag officer in a joint duty assignment position.
 
@@ -94,10 +94,9 @@ source: >-
 
 ### Statutory Notes
 
-#### References in Text
-[Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (c)(1)(B)(i), (3)(A), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
-
 #### Amendments
+2017—Subsec. (c)(1)(B)(i), (3)(A). Pub. L. 115–91 substituted “664(d)” for “664(f)”.
+
 2008—Pub. L. 110–417 amended section catchline generally, substituting “Management policies for joint qualified officers” for “Management policies for officers who are joint qualified”, and in subsec. (a), substituted “as a joint qualified officer or in such other manner as the Secretary of Defense directs” for “in such manner as the Secretary of Defense directs”.
 
 2006—Pub. L. 109–364, § 516(e)(1), substituted “officers who are joint qualified” for “joint specialty officers” in section catchline.
@@ -334,7 +333,7 @@ Pub. L. 99–433, title IV, § 406(d), Oct. 1, 1986, 100 Stat. 1033, provided th
 
 **(d) Full Tour of Duty.—** An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of any of the following:
 
-(1) A joint duty assignment that meets the the 11 So in original. requirement in subsection (a).
+(1) A joint duty assignment that meets the requirement in subsection (a).
 
 (2) Accrued joint experience in joint duty assignments as described in subsection (e).
 
@@ -349,6 +348,8 @@ Pub. L. 99–433, title IV, § 406(d), Oct. 1, 1986, 100 Stat. 1033, provided th
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–232 substituted “the requirement” for “the the requirement”.
+
 2016—Subsec. (a). Pub. L. 114–328, § 510(a), substituted “assignment shall be not less than two years.” for “assignment—
 
 “(1) for general and flag officers shall be not less than two years; and
@@ -516,7 +517,7 @@ Pub. L. 102–484, div. A, title IX, § 933, Oct. 23, 1992, 106 Stat. 2476, as a
 Pub. L. 99–433, title IV, § 406(e), Oct. 1, 1986, 100 Stat. 1034, provided that: “Subsection (a) of [section 664 of title 10](./chapter-038-joint-officer-management.md#section-664), United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 1, 1986]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
 
 #### Waiver of Qualifications for Appointment as Service Chief
-For waiver of the requirements of this section for the length of a joint duty assignment, see section 532(c) of Pub. L. 99–433, formerly set out as a note under [section 3033 of this title](./chapter-305-the-army-staff.md#section-3033).
+For waiver of the requirements of this section for the length of a joint duty assignment, see section 532(c) of Pub. L. 99–433, formerly set out as a note under [section 3033 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3033&num=0&edition=prelim).
 
 
 <a id="section-665"></a>

@@ -2,7 +2,7 @@
 title: 6
 chapter: '4'
 heading: TRANSPORTATION SECURITY
-section_count: 55
+section_count: 59
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
@@ -270,7 +270,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 (3) shall, prior to and during the deployment, consult with local security and law enforcement officials in the jurisdiction where the VIPR team is or will be deployed, to develop and agree upon the appropriate operational protocols and provide relevant information about the mission of the VIPR team, as appropriate;
 
-(4) shall, prior to and during the deployment, consult with all transportation entities directly affected by the deployment of a VIPR team, as appropriate, including railroad carriers, air carriers, airport owners, over-the-road bus operators and terminal owners and operators, motor carriers, public transportation agencies, owners or operators of highways, port operators and facility owners, vessel owners and operators and pipeline operators; and
+(4) shall, prior to and during the deployment, consult with all transportation entities directly affected by the deployment of a VIPR team as to specific locations and times within the facilities of such entities at which VIPR teams are to be deployed to maximize the effectiveness of such deployment, as appropriate, including railroad carriers, air carriers, airport owners, over-the-road bus operators and terminal owners and operators, motor carriers, public transportation agencies, owners or operators of highways, port operators and facility owners, vessel owners and operators and pipeline operators; and
 
 (5) shall require, as appropriate based on risk, in the case of a VIPR team deployed to an airport, that the VIPR team conduct operations—
 
@@ -278,14 +278,29 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
   (B) in nonsterile areas.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out this section such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018.
+**(b) Performance measures** Not later than 1 year after October 5, 2018, the Administrator shall develop and implement a system of qualitative performance measures and objectives by which to assess the roles, activities, and effectiveness of VIPR team operations on an ongoing basis, including a mechanism through which the transportation entities referred to in subsection (a)(4) may submit feedback on VIPR team operations involving their systems or facilities.
+
+**(c) Plan** Not later than 1 year after October 5, 2018, the Administrator shall develop and implement a plan for ensuring the interoperability of communications among VIPR team participants and between VIPR teams and any transportation entities with systems or facilities that are involved in VIPR team operations. Such plan shall include an analysis of the costs and resources required to carry out such plan.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(4). Pub. L. 115–254, § 1968(b)(1), substituted “team as to specific locations and times within the facilities of such entities at which VIPR teams are to be deployed to maximize the effectiveness of such deployment,” for “team,”.
+
+Subsec. (b). Pub. L. 115–254, § 1968(b)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “There are authorized to be appropriated to the Secretary to carry out this section such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018.”
+
+Pub. L. 115–254, § 1930(b), which directed amendment of “section 1303(b) of the National Transit Systems Security Act of 2007 ([6 U.S.C. 1112(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1112/b&num=0&edition=prelim))” by substituting “such sums as necessary, including funds to develop at least 30, but not more than 60, VIPR teams, for fiscal years 2019 through 2021” for “to the extent appropriated, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018”, could not be executed to this section, which is section 1303(b) of the Implementing Recommendations of the 9/11 Commission Act of 2007, because the words to be substituted for did not appear.
+
+Subsec. (c). Pub. L. 115–254, § 1968(b)(2), added subsec. (c).
+
 2016—Subsec. (a)(5). Pub. L. 114–190, § 3601(1), added par. (5).
 
 Subsec. (b). Pub. L. 114–190, § 3601(2), substituted “such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018” for “such sums as necessary for fiscal years 2007 through 2011”.
+
+#### VIPR Team Statistics
+Pub. L. 115–254, div. K, title I, § 1930(a), Oct. 5, 2018, 132 Stat. 3568, provided that: “(a) VIPR Team Statistics.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [Oct. 5, 2018], and annually thereafter, the Administrator [of the Transportation Security Administration] shall notify the appropriate committees of Congress [Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] of the number of VIPR teams available for deployment at transportation facilities, including—“(A) the number of VIPR team operations that include explosive detection canine teams; and “(B) the distribution of VIPR team operations deployed across different modes of transportation. “(2) Annex.—The notification under paragraph (1) may contain a classified annex. “(3) Definition of vipr team.—In this subsection, the term ‘VIPR’ means a Visible Intermodal Prevention and Response team authorized under section 1303 of the National Transit Systems Security Act of 2007 [probably means section 1303 of the Implementing Recommendations of the 9/11 Commission Act of 2007] ([6 U.S.C. 1112](./chapter-004-transportation-security.md#section-1112)).”
+
+[For definition of “explosive detection canine teams” as used in section 1930(a) of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a note under [section 101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section101&num=0&edition=prelim), Transportation.]
 
 
 <a id="section-1113"></a>
@@ -431,6 +446,49 @@ This chapter, referred to in text, was in the original a reference to titles XII
 
 **(g) Authorization** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section for fiscal years 2007 through 2011.
 
+**(h) Third party canine teams for air cargo security**
+
+(1) **In general** — In order to enhance the screening of air cargo and ensure that third party explosives detection canine assets are leveraged for such purpose, the Administrator shall, not later than 180 days after October 5, 2018—
+
+  (A) develop and issue standards for the use of such third party explosives detection canine assets for the primary screening of air cargo;
+
+  (B) develop a process to identify qualified non-Federal entities that will certify canine assets that meet the standards established by the Administrator under subparagraph (A);
+
+  (C) ensure that entities qualified to certify canine assets shall be independent from entities that will train and provide canines to end users of such canine assets;
+
+  (D) establish a system of Transportation Security Administration audits of the process developed under subparagraph (B); and
+
+  (E) provide that canines certified for the primary screening of air cargo can be used by air carriers, foreign air carriers, freight forwarders, and shippers.
+
+(2) **Implementation** — Beginning on the date that the development of the process under paragraph (1)(B) is complete, the Administrator shall—
+
+  (A) facilitate the deployment of such assets that meet the certification standards of the Administration, as determined by the Administrator;
+
+  (B) make such standards available to vendors seeking to train and deploy third party explosives detection canine assets; and
+
+  (C) ensure that all costs for the training and certification of canines, and for the use of supplied canines, are borne by private industry and not the Federal Government.
+
+(3) **Definitions** — In this subsection:
+
+  (A) *Air carrier* — The term “air carrier” has the meaning given the term in [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim).
+
+  (B) *Foreign air carrier* — The term “foreign air carrier” has the meaning given the term in [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim).
+
+  (C) *Third party explosives detection canine asset* — The term “third party explosives detection canine asset” means any explosives detection canine or handler not owned or employed, respectively, by the Transportation Security Administration.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (h). Pub. L. 115–254 added subsec. (h).
+
+#### Public Area Security
+Pub. L. 115–254, div. K, title I, §§ 1926–1929, Oct. 5, 2018, 132 Stat. 3564–3568, provided that: “SEC. 1926. DEFINITIONS.“In this subtitle [subtitle C (§§ 1926–1936) of title I of div. K of Pub. L. 115–254, amending [section 1112 of this title](./chapter-004-transportation-security.md#section-1112) and enacting provisions set out as notes under [section 1112 of this title](./chapter-004-transportation-security.md#section-1112) and sections 114 and 44903 of Title 49, Transportation]:“(1) Behavioral standards.—The term ‘behavioral standards’ means standards for the evaluation of explosives detection working canines for certain factors, including canine temperament, work drive, suitability for training, environmental factors used in evaluations, and canine familiarity with natural or man-made surfaces or working conditions relevant to the canine’s expected work area. “(2) Medical standards.—The term ‘medical standards’ means standards for the evaluation of explosives detection working canines for certain factors, including canine health, management of heredity health conditions, breeding practices, genetics, pedigree, and long-term health tracking. “(3) Technical standards.—The term ‘technical standards’ means standards for the evaluation of explosives detection working canines for certain factors, including canine search techniques, handler-canine communication, detection testing conditions and logistics, and learned explosive odor libraries. “SEC. 1927. EXPLOSIVES DETECTION CANINE CAPACITY BUILDING.“(a) In General.—Not later than 90 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Transportation Security Administration] shall establish a working group to determine ways to support decentralized, non-Federal domestic canine breeding capacity to produce high quality explosives detection canines and modernize canine training standards. “(b) Working Group Composition.—The working group established under subsection (a) shall be comprised of representatives from the following:“(1) The TSA [Transportation Security Administration]. “(2) The Science and Technology Directorate of the Department [of Homeland Security]. “(3) National domestic canine associations with expertise in breeding and pedigree. “(4) Universities with expertise related to explosives detection canines and canine breeding. “(5) Domestic canine breeders and vendors. “(c) Chairpersons.—The Administrator shall approve of 2 individuals from among the representatives of the working group specified in subsection (b) to serve as the Chairpersons of the working group as follows:“(1) One Chairperson shall be from an entity specified in paragraph (1) or (2) of that subsection. “(2) One Chairperson shall be from an entity specified in paragraph (3), (4), or (5) of that subsection. “(d) Proposed Standards and Recommendations.—Not later than 180 days after the date the working group is established under subsection (a), the working group shall submit to the Administrator—“(1) proposed behavioral standards, medical standards, and technical standards for domestic canine breeding and canine training described in that subsection; and “(2) recommendations on how the TSA can engage stakeholders to further the development of such domestic non-Federal canine breeding capacity and training. “(e) Strategy.—Not later than 180 days after the date the recommendations are submitted under subsection (d), the Administrator shall develop and submit to the appropriate committees of Congress [Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] a strategy for working with non-Federal stakeholders to facilitate expanded [sic] the domestic canine breeding capacity described in subsection (a), based on such recommendations. “(f) Consultation.—In developing the strategy under subsection (e), the Administrator shall consult with the Under Secretary for Science and Technology of the Department [of Homeland Security], the Commissioner for U.S. Customs and Border Protection, the Director of the United States Secret Service, and the heads of such other Federal departments or agencies as the Administrator considers appropriate to incorporate, to the extent practicable, mission needs across the Department for an expanded non-Federal domestic explosives detection canine breeding capacity that can be leveraged to help meet the Department’s operational needs. “(g) Termination.—The working group established under subsection (a) shall terminate on the date that the strategy is submitted under subsection (e), unless the Administrator extends the termination date for the purposes of section 1928. “(h) Nonapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this Act [see Short Title of 2018 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim)]. “SEC. 1928. THIRD PARTY DOMESTIC CANINES.“(a) In General.—Not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], to enhance the efficiency and efficacy of transportation security by increasing the supply of canine teams for use by the TSA [Transportation Security Administration] and transportation stakeholders, the Administrator [of the Transportation Security Administration] shall develop and issue behavioral standards, medical standards, and technical standards, based on the recommendations of the working group under section 1927, that a third party explosives detection canine must satisfy to be certified for the screening of individuals and property, including detection of explosive vapors among individuals and articles of property, in public areas of an airport under [section 44901 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44901&num=0&edition=prelim), United States Code. “(b) Augmenting Public Area Security.—“(1) In general.—The Administrator shall develop guidance on the coordination of development and deployment of explosives detection canine teams for use by transportation stakeholders to enhance public area security at transportation hubs, including airports. “(2) Consultation.—In developing the guidance under paragraph (1), the Administrator shall consult with—“(A) the working group established under section 1927; “(B) the officials responsible for carrying out section 1941 [amending this section]; and “(C) such transportation stakeholders, canine providers, law enforcement, privacy groups, and transportation security providers as the Administrator considers relevant. “(c) Agreement.—Subject to subsections (d), (e), and (f), not later than 270 days after the issuance of standards under subsection (a), the Administrator shall, to the extent possible, enter into an agreement with at least 1 third party to test and certify the capabilities of canines in accordance with the standards under subsection (a). “(d) Expedited Deployment.—In entering into an agreement under subsection (c), the Administrator shall use—“(1) the other transaction authority under [section 114(m) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/m&num=0&edition=prelim), United States Code; or “(2) such other authority of the Administrator as the Administrator considers appropriate to expedite the deployment of additional canine teams. “(e) Process.—Before entering into an agreement under subsection (c), the Administrator shall—“(1) evaluate and verify the third party’s ability to effectively evaluate the capabilities of canines; “(2) designate key elements required for appropriate evaluation venues where third parties may conduct testing; and “(3) periodically assess the program at evaluation centers to ensure the proficiency of the canines beyond the initial testing and certification by the third party. “(f) Consultation.—To determine best practices for the use of third parties to test and certify the capabilities of canines, the Administrator shall consult with the following persons before entering into an agreement under subsection (c):“(1) The Secretary of State. “(2) The Secretary of Defense. “(3) Non-profit organizations that train, certify, and provide the services of canines for various purposes. “(4) Institutions of higher education with research programs related to use of canines for the screening of individuals and property, including detection of explosive vapors among individuals and articles of property. “(g) Third Party Explosives Detection Canine Provider List.—“(1) In general.—Not later than 90 days after the date the Administrator enters into an agreement under subsection (c), the Administrator shall develop and maintain a list of the names of each third party from which the TSA procures explosive detection canines, including for each such third party the relevant contractual period of performance. “(2) Distribution.—The Administrator shall make the list under paragraph (1) available to appropriate transportation stakeholders in such form and manner as the Administrator prescribes. “(h) Oversight.—The Administrator shall establish a process to ensure appropriate oversight of the certification program and compliance with the standards under subsection (a), including periodic audits of participating third parties. “(i) Authorization.—“(1) TSA.—The Administrator shall develop and implement a process for the TSA to procure third party explosives detection canines certified under this section. “(2) Aviation stakeholders.—“(A) In general.—The Administrator shall authorize an aviation stakeholder, under the oversight of and in coordination with the Federal Security Director at an applicable airport, to contract with, procure or purchase, and deploy one or more third party explosives detection canines certified under this section to augment public area security at that airport. “(B) Applicable large hub airports.—“(i) In general.—Except as provided under subparagraph [clause] (ii), notwithstanding any law to the contrary, and subject to the other provisions of this paragraph, an applicable large hub airport may provide a certified canine described in subparagraph (A) on an in-kind basis to the TSA to be deployed as a passenger screening canine at that airport unless the applicable large hub airport consents to the use of that certified canine elsewhere. “(ii) Exception.—The Administrator may, on a case-by-case basis, deploy a certified canine described in subparagraph (A) to a transportation facility other than the applicable large hub airport described in clause (i) for not more than 90 days per year if the Administrator— “(I) determines that such deployment is necessary to meet operational or security needs; and “(II) notifies the applicable large hub airport described in clause (i). “(iii) Nondeployable canines.—Any certified canine provided to the TSA under clause (i) that does not complete training for deployment under that clause shall be the responsibility of the large hub airport unless the TSA agrees to a different outcome. “(C) Handlers.—Not later than 30 days before a canine begins training to become a certified canine under subparagraph (B), the airport shall notify the TSA of such training and the Administrator shall assign a TSA canine handler to participate in the training with that canine, as appropriate. “(D) Limitation.—The Administrator may not reduce the staffing allocation model for an applicable large hub airport based on that airport’s provision of a certified canine under this paragraph. “(j) Definitions.—In this section:“(1) Applicable large hub airport.—The term ‘applicable large hub airport’ means a large hub airport (as defined in [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim), United States Code) that has less than 100 percent of the allocated passenger screening canine teams staffed by the TSA. “(2) Aviation stakeholder.—The term ‘aviation stakeholder’ includes an airport, airport operator, and air carrier. “SEC. 1929. TRACKING AND MONITORING OF CANINE TRAINING AND TESTING.“Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Transportation Security Administration] shall use, to the extent practicable, a digital monitoring system for all training, testing, and validation or certification of public and private canine assets utilized or funded by the TSA [Transportation Security Administration] to facilitate improved review, data analysis, and record keeping of canine testing performance and program administration.”
+
+#### Expansion of National Explosives Detection Canine Team Program
+Pub. L. 115–254, div. K, title I, § 1971, Oct. 5, 2018, 132 Stat. 3613, provided that: “(a) In General.—The Secretary [of Homeland Security], where appropriate, shall encourage State, local, and tribal governments and private owners of high-risk transportation facilities to strengthen security through the use of explosives detection canine teams. “(b) Increased Capacity.—“(1) In general.—Before the date the Inspector General of the Department [of Homeland Security] submits the report under section 1970 [132 Stat. 3612], the Administrator [of the Transportation Security Administration] may increase the number of State and local surface and maritime transportation canines by not more than 70 explosives detection canine teams. “(2) Additional teams.—Beginning on the date the Inspector General of the Department submits the report under section 1970, the Secretary may increase the State and local surface and maritime transportation canines up to 200 explosives detection canine teams unless more are identified in the risk-based surface transportation security strategy under section 1964 [enacting provisions set out as a note under [section 114 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114&num=0&edition=prelim), Transportation], consistent with section 1965 [enacting provisions set out as a note under [section 114 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114&num=0&edition=prelim)] or with the President’s most recent budget submitted under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code. “(3) Recommendations.—Before initiating any increase in the number of explosives detection teams under paragraph (2), the Secretary shall consider any recommendations in the report under section 1970 on the efficacy and management of the explosives detection canine program. “(c) Deployment.—The Secretary shall—“(1) use the additional explosives detection canine teams, as described in subsection (b)(1), as part of the Department’s efforts to strengthen security across the Nation’s surface and maritime transportation networks; “(2) make available explosives detection canine teams to all modes of transportation, subject to the requirements under section 1968 [amending [section 1112 of this title](./chapter-004-transportation-security.md#section-1112) and enacting provisions set out as a note under [section 114 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114&num=0&edition=prelim)], to address specific vulnerabilities or risks, on an as-needed basis and as otherwise determined appropriate by the Secretary; and “(3) consider specific needs and training requirements for explosives detection canine teams to be deployed across the Nation’s surface and maritime transportation networks, including in venues of multiple modes of transportation, as the Secretary considers appropriate. “(d) Authorization.—There are authorized to be appropriated to the Secretary to the extent of appropriations to carry out this section for each of fiscal years 2019 through 2021.”
+
+[For definition of “explosives detection canine teams” as used in section 1971 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a note under [section 101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section101&num=0&edition=prelim), Transportation.]
+
 
 <a id="section-1117"></a>
 ## § 1117. Roles of the Department of Homeland Security and the Department of Transportation
@@ -449,6 +507,115 @@ The Intelligence Reform and Terrorism Prevention Act of 2004, referred to in tex
 The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101) and Tables.
 
 Executive Order No. 13416, referred to in text, is set out as a note under [section 1101 of this title](./chapter-004-transportation-security.md#section-1101).
+
+
+<a id="section-1118"></a>
+## § 1118. Biometrics expansion
+**(a) In general** The Administrator and the Commissioner of U.S. Customs and Border Protection shall consult with each other on the deployment of biometric technologies.
+
+**(b) Rule of construction** Nothing in this section shall be construed to permit the Commissioner of U.S. Customs and Border Protection to facilitate or expand the deployment of biometric technologies, or otherwise collect, use, or retain biometrics, not authorized by any provision of or amendment made by the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 118 Stat. 3638) or the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53; 121 Stat. 266).
+
+**(c) Report required** Not later than 270 days after October 5, 2018, the Secretary shall submit to the appropriate committees of Congress, and to any Member of Congress upon the request of that Member, a report that includes specific assessments from the Administrator and the Commissioner of U.S. Customs and Border Protection with respect to the following:
+
+(1) The operational and security impact of using biometric technology to identify travelers.
+
+(2) The potential effects on privacy of the expansion of the use of biometric technology under paragraph (1), including methods proposed or implemented to mitigate any risks to privacy identified by the Administrator or the Commissioner related to the active or passive collection of biometric data.
+
+(3) Methods to analyze and address any matching performance errors related to race, gender, or age identified by the Administrator with respect to the use of biometric technology, including the deployment of facial recognition technology; 11 So in original. The semicolon probably should be a period.
+
+(4) With respect to the biometric entry-exit program, the following:
+
+  (A) Assessments of—
+
+    (i) the error rates, including the rates of false positives and false negatives, and accuracy of biometric technologies;
+
+    (ii) the effects of biometric technologies, to ensure that such technologies do not unduly burden categories of travelers, such as a certain race, gender, or nationality;
+
+    (iii) the extent to which and how biometric technologies could address instances of travelers to the United States overstaying their visas, including—
+
+      (I) an estimate of how often biometric matches are contained in an existing database;
+
+      (II) an estimate of the rate at which travelers using fraudulent credentials identifications are accurately rejected; and
+
+      (III) an assessment of what percentage of the detection of fraudulent identifications could have been accomplished using conventional methods;
+
+    (iv) the effects on privacy of the use of biometric technologies, including methods to mitigate any risks to privacy identified by the Administrator or the Commissioner of U.S. Customs and Border Protection related to the active or passive collection of biometric data; and
+
+    (v) the number of individuals who stay in the United States after the expiration of their visas each year.
+
+  (B) A description of—
+
+    (i) all audits performed to assess—
+
+      (I) error rates in the use of biometric technologies; or
+
+      (II) whether the use of biometric technologies and error rates in the use of such technologies disproportionately affect 22 So in original. Probably should be “affects”. a certain race, gender, or nationality; and
+
+    (ii) the results of the audits described in clause (i).
+
+  (C) A description of the process by which domestic travelers are able to opt-out of scanning using biometric technologies.
+
+  (D) A description of—
+
+    (i) what traveler data is collected through scanning using biometric technologies, what agencies have access to such data, and how long the agencies possess such data;
+
+    (ii) specific actions that the Department and other relevant Federal departments and agencies take to safeguard such data; and
+
+    (iii) a short-term goal for the prompt deletion of the data of individual United States citizens after such data is used to verify traveler identities.
+
+**(d) Publication of assessments** The Secretary, the Administrator, and the Commissioner shall, if practicable, publish a public version of the assessment required by subsection (c)(2) on the Internet website of the TSA and of the U.S. Customs and Border Protection.
+
+### Statutory Notes
+
+#### References in Text
+The Intelligence Reform and Terrorism Prevention Act of 2004, referred to in subsec. (b), is Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3638. For complete classification of this Act to the Code, see Tables.
+
+The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (b), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the TSA Modernization Act and also as part of the FAA Reauthorization Act of 2018, and not as part of the Implementing Recommendations of the 9/11 Commission Act of 2007 which comprises this chapter.
+
+#### Definitions
+For definitions of “Administrator”, “appropriate committees of Congress”, “Department”, “Secretary”, and “TSA” as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under [section 101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section101&num=0&edition=prelim), Transportation.
+
+
+<a id="section-1119"></a>
+## § 1119. Voluntary use of credentialing
+**(a) In general** An applicable individual who is subject to credentialing or a background investigation may satisfy that requirement by obtaining a valid transportation security card.
+
+**(b) Issuance of cards** The Secretary of Homeland Security—
+
+(1) shall expand the transportation security card program, consistent with [section 70105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105&num=0&edition=prelim), to allow an applicable individual who is subject to credentialing or a background investigation to apply for a transportation security card; and
+
+(2) may charge reasonable fees, in accordance with [section 469(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section469/a&num=0&edition=prelim), for providing the necessary credentialing and background investigation.
+
+**(c) Vetting** The Administrator shall develop and implement a plan to utilize, in addition to any background check required for initial issue, the Federal Bureau of Investigation’s Rap Back Service and other vetting tools as appropriate, including the No-Fly and Selectee lists, to get immediate notification of any criminal activity relating to any person with a valid transportation security card.
+
+**(d) Definitions** In this section:
+
+(1) **Applicable individual who is subject to credentialing or a background investigation** — The term “applicable individual who is subject to credentialing or a background investigation” means only an individual who—
+
+  (A) because of employment is regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard and is required to have a background records check to obtain a hazardous materials endorsement on a commercial driver’s license issued by a State under [section 5103a of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103a&num=0&edition=prelim); or
+
+  (B) is required to have a credential and background records check under [section 622(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section622/d/2&num=0&edition=prelim) at a facility with activities that are regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard.
+
+(2) **Valid transportation security card** — The term “valid transportation security card” means a transportation security card that is—
+
+  (A) issued under [section 70105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105&num=0&edition=prelim);
+
+  (B) not expired;
+
+  (C) shows no signs of tampering; and
+
+  (D) bears a photograph of the individual representing such card.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the TSA Modernization Act and also as part of the FAA Reauthorization Act of 2018, and not as part of the Implementing Recommendations of the 9/11 Commission Act of 2007 which comprises this chapter.
+
+#### Definition
+For definition of “Administrator” as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under [section 101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section101&num=0&edition=prelim), Transportation.
 
 
 <a id="section-1131"></a>
@@ -1273,6 +1440,73 @@ There are authorized to be appropriated to the Secretary of Transportation to ca
 Not later than 180 days after August 3, 2007, the Secretary shall develop a national plan for railroad and over-the-road bus security public outreach and awareness. Such a plan shall be designed to increase awareness of measures that the general public, passengers, and employees of railroad carriers and over-the-road bus operators can take to increase the security of the national railroad and over-the-road bus transportation systems. Such a plan shall also provide outreach to railroad carriers and over-the-road bus operators and their employees to improve their awareness of available technologies, ongoing research and development efforts, and available Federal funding sources to improve security. Not later than 9 months after August 3, 2007, the Secretary shall implement the plan developed under this section.
 
 
+<a id="section-1155"></a>
+## § 1155. Security awareness program
+**(a) Establishment** The Administrator shall establish a program to promote surface transportation security through the training of surface transportation operators and frontline employees on each of the skills identified in subsection (c).
+
+**(b) Application** The program established under subsection (a) shall apply to all modes of surface transportation, including public transportation, rail, highway, motor carrier, and pipeline.
+
+**(c) Training** The program established under subsection (a) shall cover, at a minimum, the skills necessary to recognize, assess, and respond to suspicious items or actions that could indicate a threat to transportation.
+
+**(d) Assessment**
+
+(1) **In general** — The Administrator shall conduct an assessment of current training programs for surface transportation operators and frontline employees.
+
+(2) **Contents** — The assessment shall identify—
+
+  (A) whether other training is being provided, either voluntarily or in response to other Federal requirements; and
+
+  (B) whether there are any gaps in existing training.
+
+**(e) Updates** The Administrator shall ensure the program established under subsection (a) is updated as necessary to address changes in risk and terrorist methods and to close any gaps identified in the assessment under subsection (d).
+
+**(f) Suspicious activity reporting**
+
+(1) **In general** — The Secretary shall maintain a national telephone number for an individual to use to report suspicious activity under this section to the Administration.
+
+(2) **Procedures** — The Administrator shall establish procedures for the Administration—
+
+  (A) to review and follow-up, as necessary, on each report received under paragraph (1); and
+
+  (B) to share, as necessary and in accordance with law, the report with appropriate Federal, State, local, and tribal entities.
+
+(3) **Rule of construction** — Nothing in this section may be construed to—
+
+  (A) replace or affect in any way the use of 9–1–1 services in an emergency; or
+
+  (B) replace or affect in any way the security training program requirements specified in sections 1137, 1167, and 1184 of this title.
+
+**(g) Definition of frontline employee** In this section, the term “frontline employee” includes—
+
+(1) an employee of a public transportation agency who is a transit vehicle driver or operator, dispatcher, maintenance and maintenance support employee, station attendant, customer service employee, security employee, or transit police, or any other employee who has direct contact with riders on a regular basis, and any other employee of a public transportation agency that the Administrator determines should receive security training under this section or that is receiving security training under other law;
+
+(2) over-the-road bus drivers, security personnel, dispatchers, maintenance and maintenance support personnel, ticket agents, other terminal employees, and other employees of an over-the-road bus operator or terminal owner or operator that the Administrator determines should receive security training under this section or that is receiving security training under other law; or
+
+(3) security personnel, dispatchers, locomotive engineers, conductors, trainmen, other onboard employees, maintenance and maintenance support personnel, bridge tenders, and any other employees of railroad carriers that the Administrator determines should receive security training under this section or that is receiving security training under other law.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the TSA Modernization Act and also as part of the FAA Reauthorization Act of 2018, and not as part of the Implementing Recommendations of the 9/11 Commission Act of 2007 which comprises this chapter.
+
+#### Definitions
+For definitions of “Administrator” and “Secretary” as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under [section 101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section101&num=0&edition=prelim), Transportation.
+
+
+<a id="section-1156"></a>
+## § 1156. Nuclear material and explosive detection technology
+
+The Secretary, in coordination with the Director of the National Institute of Standards and Technology and the head of each relevant Federal department or agency researching nuclear material detection systems or explosive detection systems, shall research, facilitate, and, to the extent practicable, deploy next generation technologies, including active neutron interrogation, to detect nuclear material and explosives in transportation systems and transportation facilities.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the TSA Modernization Act and also as part of the FAA Reauthorization Act of 2018, and not as part of the Implementing Recommendations of the 9/11 Commission Act of 2007 which comprises this chapter.
+
+#### Definition
+For definition of “Secretary” as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under [section 101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section101&num=0&edition=prelim), Transportation.
+
+
 <a id="section-1161"></a>
 ## § 1161. Railroad transportation security risk assessment and National Strategy
 **(a) Risk assessment** The Secretary shall establish a Federal task force, including the Transportation Security Administration and other agencies within the Department, the Department of Transportation, and other appropriate Federal agencies, to complete, within 6 months of August 3, 2007, a nationwide risk assessment of a terrorist attack on railroad carriers. The assessment shall include—
@@ -1351,7 +1585,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall develop a nati
 
 **(f) Annual updates** Consistent with the requirements of section 114(t) 1 of title 49, the Secretary shall update the assessment and National Strategy each year and transmit a report, which may be submitted in both classified and redacted formats, to the appropriate congressional committees containing the updated assessment and recommendations.
 
-**(g) Funding** Out of funds appropriated pursuant to [section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.
+**(g) Funding** Out of funds appropriated pursuant to section 114(w) 1 of title 49, there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.
 
 ### Statutory Notes
 
@@ -1359,6 +1593,8 @@ Not later than 180 days after August 3, 2007, the Secretary shall develop a nati
 [Section 114(t) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/t&num=0&edition=prelim), referred to in subsecs. (b)(1), (d), and (f), was redesignated [section 114(s) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/s&num=0&edition=prelim) by Pub. L. 110–161, div. E, title V, § 568(a), Dec. 26, 2007, 121 Stat. 2092.
 
 Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a note under [section 1101 of this title](./chapter-004-transportation-security.md#section-1101).
+
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (g), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 
 <a id="section-1162"></a>
@@ -1512,7 +1748,7 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
 
 **(b) Uses of funds** A recipient of a grant under this section shall use the grant funds for one or more of the following:
 
-(1) Security and redundancy for critical communications, computer, and train control systems essential for secure railroad operations.
+(1) Security and redundancy for critical communications, computer, and train control systems essential for secure railroad operations, including communications interoperability where appropriate with relevant outside agencies and entities.
 
 (2) Accommodation of railroad cargo or passenger security inspection facilities, related infrastructure, and operations at or near United States international borders or other ports of entry.
 
@@ -1520,15 +1756,15 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
 
 (4) Chemical, biological, radiological, or explosive detection, including canine patrols for such detection.
 
-(5) The security of intercity passenger railroad stations, trains, and infrastructure, including security capital improvement projects that the Secretary determines enhance railroad station security.
+(5) The security and preparedness of intercity passenger railroad stations, trains, and infrastructure, including security capital improvement projects that the Secretary determines enhance railroad station security.
 
 (6) Technologies to reduce the vulnerabilities of railroad cars, including structural modification of railroad cars transporting security-sensitive materials to improve their resistance to acts of terrorism.
 
-(7) The sharing of intelligence and information about security threats.
+(7) The sharing of intelligence and information about security threats and preparedness, including connectivity to the National Terrorist Screening Center.
 
 (8) To obtain train tracking and communications equipment, including equipment that is interoperable with Federal, State, and local agencies and tribal governments.
 
-(9) To hire, train, and employ police and security officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation.
+(9) To hire, train, and employ police, security, and preparedness officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation.
 
 (10) Overtime reimbursement, including reimbursement of State, local, and tribal governments for costs, for enhanced security personnel assigned to duties related to railroad security during periods of high or severe threat levels and National Special Security Events or other periods of heightened security as determined by the Secretary.
 
@@ -1586,7 +1822,7 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
 
 **(i) Authorization of appropriations**
 
-(1) **In general** — Out of funds appropriated pursuant to [section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), there shall be made available to the Secretary to carry out this section—
+(1) **In general** — Out of funds appropriated pursuant to section 114(w) 11 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
 
   (A) $300,000,000 for fiscal year 2008;
 
@@ -1597,6 +1833,20 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
   (D) $300,000,000 for fiscal year 2011.
 
 (2) **Period of availability** — Sums appropriated to carry out this section shall remain available until expended.
+
+### Statutory Notes
+
+#### References in Text
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (i)(1), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+
+#### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–254, § 1973(a)(1), substituted “, including communications interoperability where appropriate with relevant outside agencies and entities.” for period at end.
+
+Subsec. (b)(5). Pub. L. 115–254, § 1973(a)(2), substituted “security and preparedness of” for “security of”.
+
+Subsec. (b)(7). Pub. L. 115–254, § 1973(a)(3), substituted “security threats and preparedness, including connectivity to the National Terrorist Screening Center” for “security threats”.
+
+Subsec. (b)(9). Pub. L. 115–254, § 1973(a)(4), substituted “, security, and preparedness officers” for “and security officers”.
 
 
 <a id="section-1164"></a>
@@ -1625,15 +1875,21 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
 
   (C) to secure Amtrak stations;
 
-  (D) to obtain a watchlist identification system approved by the Secretary;
+  (D) to obtain a watchlist identification system approved by the Secretary, or to connect to the National Terrorism Screening Center watchlist;
 
   (E) to obtain train tracking and interoperable communications systems that are coordinated with Federal, State, and local agencies and tribal governments to the maximum extent possible;
 
   (F) to hire, train, and employ police and security officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation;
 
-  (G) for operating and capital costs associated with security awareness, preparedness, and response training, including training under [section 1167 of this title](./chapter-004-transportation-security.md#section-1167), and training developed by universities, institutions of higher education, and nonprofit employee labor organizations, for railroad employees, including frontline employees; and
+  (G) for operating and capital costs associated with security awareness, preparedness, and response training, including training under [section 1167 of this title](./chapter-004-transportation-security.md#section-1167), and training developed by universities, institutions of higher education, and nonprofit employee labor organizations, for railroad employees, including frontline employees;
 
-  (H) for live or simulated exercises, including exercises described in [section 1166 of this title](./chapter-004-transportation-security.md#section-1166).
+  (H) for live or simulated exercises, including exercises described in [section 1166 of this title](./chapter-004-transportation-security.md#section-1166);
+
+  (I) for improvements to passenger verification systems;
+
+  (J) for improvements to employee and contractor verification systems, including identity verification technology; or
+
+  (K) for improvements to the security of Amtrak computer systems, including cybersecurity assessments and programs.
 
 **(b) Conditions** The Secretary shall award grants to Amtrak under this section for projects contained in a systemwide security plan approved by the Secretary developed pursuant to [section 1162 of this title](./chapter-004-transportation-security.md#section-1162). Not later than 5 business days after awarding a grant to Amtrak under this section, the Secretary shall transfer the grant funds to the Secretary of Transportation to be disbursed to Amtrak.
 
@@ -1641,7 +1897,7 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
 
 **(d) Availability of funds**
 
-(1) **In general** — Out of funds appropriated pursuant to [section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), there shall be made available to the Secretary and the Administrator of the Transportation Security Administration to carry out this section—
+(1) **In general** — Out of funds appropriated pursuant to section 114(w) 11 See References in Text note below. of title 49, there shall be made available to the Secretary and the Administrator of the Transportation Security Administration to carry out this section—
 
   (A) $150,000,000 for fiscal year 2008;
 
@@ -1652,6 +1908,23 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
   (D) $175,000,000 for fiscal year 2011.
 
 (2) **Availability of appropriated funds** — Amounts appropriated pursuant to paragraph (1) shall remain available until expended.
+
+### Statutory Notes
+
+#### References in Text
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (d)(1), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+
+#### Amendments
+2018—Subsec. (a)(3)(D). Pub. L. 115–254, § 1973(b)(1), inserted “, or to connect to the National Terrorism Screening Center watchlist” after “Secretary”.
+
+Subsec. (a)(3)(G). Pub. L. 115–254, § 1973(b)(2), substituted semicolon for “; and” at end.
+
+Subsec. (a)(3)(H). Pub. L. 115–254, § 1973(b)(3), substituted semicolon for period at end.
+
+Subsec. (a)(3)(I) to (K). Pub. L. 115–254, § 1973(b)(4), added subpars. (I) to (K).
+
+#### Passenger Rail Vetting
+Pub. L. 115–254, div. K, title I, § 1974, Oct. 5, 2018, 132 Stat. 3615, provided that: “(a) In General.—Not later than 180 days after the date on which the Amtrak Board of Directors submits a request to the Administrator [of the Transportation Security Administration], the Administrator shall issue a decision on the use by Amtrak of the Transportation Security Administration’s Secure Flight Program or a similar passenger vetting system to enhance passenger rail security. “(b) Considerations.—In making a decision under subsection (a), the Administrator shall—“(1) consider the technological, privacy, operational, and security impacts of such a decision; and “(2) describe such impacts in any strategic plan developed under subsection (c). “(c) Strategic Plan.—If the Administrator decides to grant the request by Amtrak under subsection (a), the decision shall include a strategic plan for working with rail stakeholders to enhance passenger rail security by—“(1) vetting passengers using terrorist watch lists maintained by the Federal Government or a similar passenger vetting system maintained by the Transportation Security Administration; and “(2) where applicable and in consultation with the Commissioner of U.S. Customs and Border Protection, assessing whether the vetting process should be integrated into preclearance operations established under section 813 of the Trade Facilitation and Trade Enforcement Act of 2015 ([19 U.S.C. 4432](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4432&num=0&edition=prelim)). “(d) Notices.—The Administrator shall notify the appropriate committees of Congress [Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] of any decision made under subsection (a) and the details of the strategic plan under subsection (c). “(e) Rule of Construction.—Nothing in this section shall be construed to limit the Administrator’s authority to set the access to, or terms and conditions of using, the Secure Flight Program or a similar passenger vetting system.”
 
 
 <a id="section-1165"></a>
@@ -1893,7 +2166,7 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
 
 **(e) Authorization of appropriations**
 
-(1) **In general** — Out of funds appropriated pursuant to [section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), there shall be made available to the Secretary to carry out this section—
+(1) **In general** — Out of funds appropriated pursuant to section 114(w) 11 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
 
   (A) $33,000,000 for fiscal year 2008;
 
@@ -1909,6 +2182,8 @@ Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a not
 
 #### References in Text
 This Act, referred to in subsec. (c)(1), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101) and Tables.
+
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (e)(1), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 
 <a id="section-1169"></a>
@@ -2010,7 +2285,7 @@ The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act Ju
 
 (1) The Secretary shall develop a system to detect both undeclared passengers and contraband, with a primary focus on the detection of nuclear and radiological materials entering the United States by railroad.
 
-(2) **System requirements.—** — In developing the system under paragraph (1), the Secretary may, in consultation with the Domestic Nuclear Detection Office, Customs and Border Protection, and the Transportation Security Administration—
+(2) **System requirements.—** — In developing the system under paragraph (1), the Secretary may, in consultation with the Domestic Nuclear Detection Office,11 See Change of Name note below. Customs and Border Protection, and the Transportation Security Administration—
 
   (A) deploy radiation detection equipment and nonintrusive imaging equipment at locations where railroad shipments cross an international border to enter the United States;
 
@@ -2041,6 +2316,11 @@ The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act Ju
 (2) **Radiation detection equipment** — The term “radiation detection equipment” means any technology that is capable of detecting or identifying nuclear and radiological material or nuclear and radiological explosive devices.
 
 (3) **Inspection** — The term “inspection” means the comprehensive process used by Customs and Border Protection to assess goods entering the United States to appraise them for duty purposes, to detect the presence of restricted or prohibited items, and to ensure compliance with all applicable laws.
+
+### Statutory Notes
+
+#### Change of Name
+Reference to the Domestic Nuclear Detection Office deemed to be a reference to the Countering Weapons of Mass Destruction Office, see section 2(b)(1)(A) of Pub. L. 115–387, set out as a note under [section 591 of this title](./chapter-001-homeland-security-organization.md#section-591).
 
 
 <a id="section-1172"></a>
@@ -2242,7 +2522,7 @@ Not later than November 2, 2007, the Secretary of Transportation shall develop a
 
 **(k) Authorization**
 
-(1) **In general** — From the amounts appropriated pursuant to [section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), there shall be made available to the Secretary to make grants under this section—
+(1) **In general** — From the amounts appropriated pursuant to section 114(w) 11 See References in Text note below. of title 49, there shall be made available to the Secretary to make grants under this section—
 
   (A) $12,000,000 for fiscal year 2008;
 
@@ -2253,6 +2533,11 @@ Not later than November 2, 2007, the Secretary of Transportation shall develop a
   (D) $25,000,000 for fiscal year 2011.
 
 (2) **Period of availability** — Sums appropriated to carry out this section shall remain available until expended.
+
+### Statutory Notes
+
+#### References in Text
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (k)(1), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 
 <a id="section-1183"></a>
@@ -2407,7 +2692,7 @@ Not later than November 2, 2007, the Secretary of Transportation shall develop a
 
 **(e) Authorization of appropriations**
 
-(1) **In general** — From the amounts appropriated pursuant to [section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), there shall be made available to the Secretary to carry out this section—
+(1) **In general** — From the amounts appropriated pursuant to section 114(w) 11 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
 
   (A) $2,000,000 for fiscal year 2008;
 
@@ -2423,6 +2708,8 @@ Not later than November 2, 2007, the Secretary of Transportation shall develop a
 
 #### References in Text
 This Act, referred to in subsec. (c)(1), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101) and Tables.
+
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (e)(1), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 
 <a id="section-1186"></a>
@@ -2572,7 +2859,7 @@ Not later than 1 year after August 3, 2007, the Secretary of Transportation and 
 
     (viii) other systems and information the Secretary determines appropriate.
 
-**(b) Funding** From the amounts appropriated pursuant to [section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), there shall be made available to the Secretary to carry out this section—
+**(b) Funding** From the amounts appropriated pursuant to section 114(w) 11 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
 
 (1) $7,000,000 for fiscal year 2008 of which $3,000,000 may be used for equipment;
 
@@ -2583,6 +2870,11 @@ Not later than 1 year after August 3, 2007, the Secretary of Transportation and 
 **(c) Report** Not later than 1 year after the issuance of regulations under subsection (a), the Secretary shall issue a report to the appropriate congressional committees on the program developed and evaluation carried out under this section.
 
 **(d) Limitation** The Secretary may not mandate the installation or utilization of a technology described under this section without additional congressional authority provided after August 3, 2007.
+
+### Statutory Notes
+
+#### References in Text
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (b)(1), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 
 <a id="section-1205"></a>
@@ -2609,13 +2901,18 @@ Not later than 1 year after August 3, 2007, the Secretary of Transportation and 
 
 **(d) Regulations** Not later than 18 months after August 3, 2007, the Secretary and the Secretary of Transportation shall develop and transmit to pipeline operators security recommendations for natural gas and hazardous liquid pipelines and pipeline facilities. If the Secretary determines that regulations are appropriate, the Secretary shall consult with the Secretary of Transportation on the extent of risk and appropriate mitigation measures, and the Secretary or the Secretary of Transportation, consistent with the Annex to the Memorandum of Understanding executed on August 9, 2006, shall promulgate such regulations and carry out necessary inspection and enforcement actions. Any regulations shall incorporate the guidance provided to pipeline operators by the September 5, 2002, Department of Transportation Research and Special Programs Administration’s Pipeline Security Information Circular and contain additional requirements as necessary based upon the results of the inspections performed under subsection (b). The regulations shall include the imposition of civil penalties for noncompliance.
 
-**(e) Funding** From the amounts appropriated pursuant to [section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), there shall be made available to the Secretary to carry out this section—
+**(e) Funding** From the amounts appropriated pursuant to section 114(w) 11 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
 
 (1) $2,000,000 for fiscal year 2008;
 
 (2) $2,000,000 for fiscal year 2009; and
 
 (3) $2,000,000 for fiscal year 2010.
+
+### Statutory Notes
+
+#### References in Text
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (e)(1), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 
 <a id="section-1208"></a>

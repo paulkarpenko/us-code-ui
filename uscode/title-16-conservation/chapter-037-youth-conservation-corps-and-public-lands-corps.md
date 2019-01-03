@@ -2,7 +2,7 @@
 title: 16
 chapter: '37'
 heading: YOUTH CONSERVATION CORPS AND PUBLIC LANDS CORPS
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -174,7 +174,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
 
 #### Short Title
 For short title of title II of Pub. L. 91–378, as added by Pub. L. 103–82, title I, § 105(6), Sept. 21, 1993, 107 Stat. 848, as the “Public Lands Corps Act of 1993”, see Short Title note set out under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
@@ -265,6 +265,9 @@ The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L.
 
 2005—Pars. (8) to (13). Pub. L. 109–154 added pars. (8) and (12) and redesignated former pars. (8) to (11) as pars. (9) to (11) and (13), respectively.
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
+
 
 <a id="section-1723"></a>
 ## § 1723. Public Lands Corps program
@@ -317,6 +320,9 @@ Subsec. (d). Pub. L. 109–154, § 2(c), designated first sentence as par. (1), 
 
 Subsec. (e). Pub. L. 109–154, § 2(g)(1)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture” in introductory provisions.
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
+
 
 <a id="section-1724"></a>
 ## § 1724. Conservation centers and program support
@@ -357,6 +363,9 @@ Subsec. (c). Pub. L. 109–154, § 2(g)(2)(B), substituted “Secretary may” f
 
 Subsec. (d). Pub. L. 109–154, § 2(d)(3), added subsec. (d).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
+
 
 <a id="section-1725"></a>
 ## § 1725. Resource assistants
@@ -370,6 +379,9 @@ Subsec. (d). Pub. L. 109–154, § 2(d)(3), added subsec. (d).
 2005—Subsec. (a). Pub. L. 109–154, § 2(g)(3)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each”, “the Secretary to carry out” for “such Secretary to carry out”, “Secretary may” for “Secretaries may”, and “Secretary shall” for “Secretaries shall”.
 
 Subsec. (b). Pub. L. 109–154, § 2(g)(3)(B), substituted “the Secretary, appropriate” for “Secretary of the Interior or the Secretary of Agriculture, appropriate”.
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
 
 
 <a id="section-1725a"></a>
@@ -390,6 +402,29 @@ Subsec. (b). Pub. L. 109–154, § 2(g)(3)(B), substituted “the Secretary, app
 
 #### Codification
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Public Lands Corps Act of 1993 which comprises this subchapter.
+
+
+<a id="section-1725b"></a>
+## § 1725b. Forest Service hire authority
+**(a) In general** The Secretary of Agriculture may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of such title, a qualified candidate described in subsection (b) directly to a position with the Department of Agriculture, Forest Service for which the candidate meets Office of Personnel Management qualification standards.
+
+**(b) Qualifications** Subsection (a) applies to a former resource assistant (as defined in section 203 of the Public Land Corps Act 11 See References in Text note below. ([16 U.S.C. 1722](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1722))) who—
+
+(1) completed a rigorous internship with a land managing agency, such as the Forest Service Resource Assistant Program;
+
+(2) successfully fulfilled the requirements of the internship program; and
+
+(3) earned an undergraduate or graduate degree from an accredited institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)).
+
+**(c) Limitation** The direct hire authority under this section may not be exercised with respect to a specific qualified candidate after the end of the 2-year period beginning on the date on which the candidate completed the undergraduate or graduate degree, as the case may be, or has successfully fulfilled the requirements of the internship program, whichever is later.
+
+### Statutory Notes
+
+#### References in Text
+Section 203 of the Public Land Corps Act, referred to in subsec. (b), probably means section 203 of the Public Lands Corps Act of 1993, title II of Pub. L. 91–378, which is classified to [section 1722 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1722).
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018 and not as part of the Public Lands Corps Act of 1993 which comprises this subchapter.
 
 
 <a id="section-1726"></a>
@@ -413,6 +448,9 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 
 Subsec. (c). Pub. L. 109–154, § 2(e)(2), added subsec. (c).
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
+
 
 <a id="section-1727"></a>
 ## § 1727. National service educational awards
@@ -425,11 +463,19 @@ Subsec. (c). Pub. L. 109–154, § 2(e)(2), added subsec. (c).
 #### References in Text
 The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitles C and D of title I of the Act are classified generally to divisions C (§ 12571 et seq.) and D (§ 12601 et seq.), respectively, of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
 
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
+
 
 <a id="section-1728"></a>
 ## § 1728. Nondisplacement
 
 The nondisplacement requirements of [section 12637 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12637&num=0&edition=prelim) shall be applicable to all activities carried out by the Public Lands Corps, to all activities carried out under this subchapter by a qualified youth or conservation corps, and to the selection and service of resource assistants.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
 
 
 <a id="section-1729"></a>
@@ -452,6 +498,9 @@ The nondisplacement requirements of [section 12637 of title 42](https://uscode.h
 Subsec. (b). Pub. L. 109–154, § 2(g)(4)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture”.
 
 Subsec. (c). Pub. L. 109–154, § 2(f)(1), added subsec. (c).
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).
 
 
 <a id="section-1730"></a>

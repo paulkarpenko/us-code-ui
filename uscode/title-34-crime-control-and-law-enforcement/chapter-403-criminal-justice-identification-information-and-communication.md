@@ -20,11 +20,13 @@ source: >-
 
   (B) firearms eligibility determinations;
 
-  (C) identification of sexual offenders;
+  (C) identification of all individuals who have been convicted of a crime punishable by imprisonment for a term exceeding 1 year 11 So in original. Probably should be followed by a semicolon.
 
-  (D) identification of domestic violence offenders; and
+  (D) identification of sexual offenders;
 
-  (E) background checks for other authorized purposes unrelated to criminal justice; and
+  (E) identification of domestic violence offenders; and
+
+  (F) background checks for other authorized purposes unrelated to criminal justice; and
 
 (4) capture information for statistical and research purposes to improve the administration of criminal justice.
 
@@ -40,11 +42,11 @@ source: >-
 
 (5) systems to facilitate full participation in any compact relating to the Interstate Identification Index of the National Crime Information Center;
 
-(6) systems to facilitate full participation in the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act ([18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note) 11 See References in Text note below. for firearms eligibility determinations;
+(6) systems to facilitate full participation in the national instant criminal background check system established under [section 40901(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901/b&num=0&edition=prelim) for firearms eligibility determinations, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917);
 
 (7) integrated criminal justice information systems to manage and communicate criminal justice information among law enforcement agencies, courts, prosecutors, and corrections agencies;
 
-(8) noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act ([18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note); 1
+(8) noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act ([18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note); 22 See References in Text note below.
 
 (9) court-based criminal justice information systems that promote—
 
@@ -72,7 +74,7 @@ source: >-
 
 **(c) Assurances**
 
-(1) **In general** — To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act ([18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note).1
+(1) **In general** — To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act ([18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note).2
 
 (2) **Information sharing** — Such assurances shall include a provision that ensures that a statewide strategy for information sharing systems is underway, or will be initiated, to improve the functioning of the criminal justice system, with an emphasis on integration of all criminal justice components, law enforcement, courts, prosecution, corrections, and probation and parole. The strategy shall be prepared after consultation with State and local officials with emphasis on the recommendation of officials whose duty it is to oversee, plan, and implement integrated information technology systems, and shall contain—
 
@@ -90,11 +92,11 @@ source: >-
 
   (G) a plan for coordinating the programs funded under this subchapter with other federally funded information technology programs, including directly funded local programs such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program established pursuant to part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10381](./chapter-101-justice-system-improvement.md#section-10381) et seq.].
 
-**(d) Matching funds** The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the Attorney General waives, wholly or in part, the requirements of this subsection.
+**(d) Matching funds** The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the State has achieved compliance with an implementation plan under [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917) or the Attorney General waives, wholly or in part, the requirements of this subsection.
 
 **(e) Authorization of appropriations**
 
-(1) **In general** — There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2002 through 2007.
+(1) **In general** — There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2018 through 2022.
 
 (2) **Limitations** — Of the amount made available to carry out this section in any fiscal year—
 
@@ -109,7 +111,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subsecs. (b)(6), (8) and (c)(1), is section 103(b) of Pub. L. 103–159, which was set out as a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification as [section 40901(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901/b&num=0&edition=prelim).
+Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subsecs. (b)(8) and (c)(1), is section 103(b) of Pub. L. 103–159, which was set out as a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification as [section 40901(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901/b&num=0&edition=prelim).
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part Q of title I of the Act is classified generally to subchapter XVI (§ 10381 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
@@ -117,6 +119,14 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 Section was formerly classified to [section 14601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14601&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (a)(3)(C) to (F). Pub. L. 115–141, § 604(a)(1), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+
+Subsec. (b)(6). Pub. L. 115–141, § 604(a)(2), substituted “40901(b) of this title” for “([18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note)” and inserted before semicolon at end “, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917)”.
+
+Subsec. (d). Pub. L. 115–141, § 604(a)(3), inserted the State has achieved compliance with an implementation plan under [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917) or” after “unless”.
+
+Subsec. (e)(1). Pub. L. 115–141, § 604(a)(4), substituted “2018 through 2022” for “2002 through 2007”.
+
 2006—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime Reduction Programs, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
 
 2001—Subsec. (b)(18). Pub. L. 107–56, § 1015(1), added par. (18).
@@ -133,13 +143,15 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 <a id="section-40302"></a>
 ## § 40302. Funding for improvement of criminal records
-(1) **Grants for the improvement of criminal records** — The Attorney General, through the Bureau of Justice Statistics, shall, subject to appropriations and with preference to States that as of November 30, 1993, have the lowest percent currency of case dispositions in computerized criminal history files, make a grant to each State to be used—
+(1) **Grants for the improvement of criminal records** — The Attorney General, through the Bureau of Justice Statistics, shall, subject to appropriations and with preference to States that, as of March 23, 2018, have the lowest percent currency of case dispositions in computerized criminal history files and that will utilize funding under this subsection to prioritize the identification and transmittal of felony conviction records and domestic violence records, make a grant to each State to be used—
 
   (A) for the creation of a computerized criminal history record system or improvement of an existing system;
 
-  (B) to improve accessibility to the national instant criminal background system; and
+  (B) to improve accessibility to the national instant criminal background system;
 
-  (C) upon establishment of the national system, to assist the State in the transmittal of criminal records to the national system.
+  (C) to assist the State in the transmittal of criminal records to the national system; and
+
+  (D) to establish and achieve compliance with an implementation plan under [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917).
 
 (2) **Authorization of appropriations** — There are authorized to be appropriated for grants under paragraph (1) a total of $200,000,000 for fiscal year 1994 and all fiscal years thereafter.
 
@@ -153,6 +165,12 @@ Section was enacted as part of the Brady Handgun Violence Prevention Act and not
 Section was formerly classified as a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–141, § 604(b)(1), in introductory provisions, substituted “, as of March 23, 2018,” for “as of November 30, 1993,” and “files and that will utilize funding under this subsection to prioritize the identification and transmittal of felony conviction records and domestic violence records,” for “files,”.
+
+Par. (1)(C). Pub. L. 115–141, § 604(b)(3)(A), struck out “upon establishment of the national system,” before “to assist the State”.
+
+Par. (1)(D). Pub. L. 115–141, § 604(b)(2), (3)(B), (4), added subpar. (D).
+
 1996—Par. (2). Pub. L. 104–294, § 603(i)(1), amended directory language of Pub. L. 103–322, § 210603(b). See 1994 Amendment note below.
 
 1994—Par. (2). Pub. L. 103–322, § 210603(b), as amended by Pub. L. 104–294, § 603(i)(1), struck out “, which may be appropriated from the Violent Crime Reduction Trust Fund established by [section 1115 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115&num=0&edition=prelim), United States Code,” after “grants under paragraph (1)”.

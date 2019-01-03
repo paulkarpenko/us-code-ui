@@ -108,12 +108,22 @@ The Consumer Credit Reporting Reform Act of 1996 [see Short Title note set out u
 
 **(b) False Representation.—** It shall be unlawful for any person to make false representation to obtain any personal information from an individual’s motor vehicle record.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under [section 2721 of this title](./chapter-123-prohibition-on-release-and-use-of-certain-personal-information-from-state-motor-vehicle-records.md#section-2721).
+
 
 <a id="section-2723"></a>
 ## § 2723. Penalties
 **(a) Criminal Fine.—** A person who knowingly violates this chapter shall be fined under this title.
 
 **(b) Violations by State Department of Motor Vehicles.—** Any State department of motor vehicles that has a policy or practice of substantial noncompliance with this chapter shall be subject to a civil penalty imposed by the Attorney General of not more than $5,000 a day for each day of substantial noncompliance.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under [section 2721 of this title](./chapter-123-prohibition-on-release-and-use-of-certain-personal-information-from-state-motor-vehicle-records.md#section-2721).
 
 
 <a id="section-2724"></a>
@@ -129,6 +139,11 @@ The Consumer Credit Reporting Reform Act of 1996 [see Short Title note set out u
 (3) reasonable attorneys’ fees and other litigation costs reasonably incurred; and
 
 (4) such other preliminary and equitable relief as the court determines to be appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under [section 2721 of this title](./chapter-123-prohibition-on-release-and-use-of-certain-personal-information-from-state-motor-vehicle-records.md#section-2721).
 
 
 <a id="section-2725"></a>
@@ -153,3 +168,6 @@ Section 106(5) of Public Law 106–229, referred to in par. (5), is classified t
 
 #### Amendments
 2000—Pars. (4), (5). Pub. L. 106–346 added pars. (4) and (5).
+
+#### Effective Date
+Section effective on the date that is 3 years after Sept. 13, 1994, with provisions relating to release of personal information before the effective date and compliance after such date, see section 300003 of Pub. L. 103–322, set out as a note under [section 2721 of this title](./chapter-123-prohibition-on-release-and-use-of-certain-personal-information-from-state-motor-vehicle-records.md#section-2721).

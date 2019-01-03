@@ -248,11 +248,29 @@ Pub. L. 96–342, title III, § 302(d), Sept. 8, 1980, 94 Stat. 1083, provided t
 
     (iii) The Compact of Free Association between Palau and the United States (section 201 of Public Law 99–658 (100 Stat. 3678; [48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note)).
 
-(2) Notwithstanding paragraph (1), the Secretary concerned may authorize the enlistment of a person not described in paragraph (1) if the Secretary determines that such enlistment is vital to the national interest.
+(2) Notwithstanding paragraph (1), and subject to paragraph (3), the Secretary concerned may authorize the enlistment of a person not described in paragraph (1) if the Secretary determines that such person possesses a critical skill or expertise—
+
+  (A) that is vital to the national interest; and
+
+  (B) that the person will use in the primary daily duties of that person as a member of the armed forces.
+
+(3)
+
+  (A) No person who enlists under paragraph (2) may report to initial training until after the Secretary concerned has completed all required background investigations and security and suitability screening as determined by the Secretary of Defense regarding that person.
+
+  (B) A Secretary concerned may not authorize more than 1,000 enlistments under paragraph (2) per military department in a calendar year until after—
+
+    (i) the Secretary of Defense submits to Congress written notice of the intent of that Secretary concerned to authorize more than 1,000 such enlistments in a calendar year; and
+
+    (ii) a period of 30 days has elapsed after the date on which Congress receives the notice.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–232, § 521(a)(1), inserted “and subject to paragraph (3),” after “Notwithstanding paragraph (1),” substituted “person possesses a critical skill or expertise—” for “enlistment is vital to the national interest.”, and added subpars. (A) and (B).
+
+Subsec. (b)(3). Pub. L. 115–232, § 521(a)(2), added par. (3).
+
 2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Prohibition on Waiver for Commissioning or Enlistment in the Armed Forces for any Individual Convicted of a Felony Sexual Offense
@@ -417,7 +435,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
     (ii) The participant making a revocation or initial election under clause (i) shall be eligible for educational assistance under either such chapter at such time as the participant satisfies through service the applicable eligibility requirements under either such chapter.
 
-**(i) Repayment.—** If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+**(i) Repayment.—** If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 **(j) Funding.—**
 
@@ -444,6 +462,8 @@ The National and Community Service Act of 1990, referred to in subsec. (l)(1), i
 A prior section 510 was renumbered [section 12102 of this title](./chapter-1203-enlisted-members.md#section-12102).
 
 #### Amendments
+2017—Subsec. (i). Pub. L. 115–91 inserted “or 373” before “of title 37”.
+
 2006—Subsec. (c)(3)(D). Pub. L. 109–163, § 545(a), substituted “in Americorps or another domestic national service program” for “in the Peace Corps, Americorps, or another national service program”.
 
 Subsec. (d). Pub. L. 109–163, § 545(b), as amended by Pub. L. 109–364, inserted “and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program” before period at end.
@@ -534,9 +554,19 @@ Pub. L. 108–375, div. A, title V, § 551(b), Oct. 28, 2004, 118 Stat. 1911, pr
 
 **(b)**
 
-(1) Unless sooner ordered to active duty under chapter 39 of this title or another provision of law, a person enlisted under subsection (a) shall, within 365 days after such enlistment, be discharged from the reserve component in which enlisted and immediately be enlisted in the regular component of an armed force. The Secretary concerned may extend the 365-day period for any person for up to an additional 365 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.
+(1) Unless sooner ordered to active duty under chapter 39 of this title or another provision of law, a person enlisted under subsection (a) shall, within 365 days after such enlistment, be discharged from the reserve component in which enlisted and immediately be enlisted in the regular component of an armed force.
 
-(2) During the period beginning on the date on which the person enlists under subsection (a) and ending on the date on which the person is enlisted in a regular component under paragraph (1), the person shall be in the Ready Reserve of the armed force concerned.
+(2) The Secretary concerned may extend the 365-day period described in paragraph (1) for any person for up to an additional 365 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.
+
+(3)
+
+  (A) The Secretary concerned may extend by up to an additional 365 days the period of extension under paragraph (2) for a person who enlisted before October 1, 2017, under [section 504(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section504/b/2&num=0&edition=prelim) if the Secretary determines that the period of extension under this paragraph is required for the performance of adequate background and security reviews of that person.
+
+  (B) A person whose period of extension under paragraph (2) is extended under this paragraph shall undergo all security and suitability screening requirements and receive a favorable military security suitability determination before entering into service in a regular or reserve component. Screening priority shall be given to those persons who were enlisted for a military occupational specialty that requires specialized language or medical skills that are vital to the national interest.
+
+  (C) The authority to make an extension under this paragraph shall expire one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018. The expiration of such authority shall not effect the validity of any extension made in accordance with this paragraph on or before that date.
+
+(4) During the period beginning on the date on which the person enlists under subsection (a) and ending on the date on which the person is enlisted in a regular component under this subsection, the person shall be in the Ready Reserve of the armed force concerned.
 
 **(c)** A person who is under orders to report for induction into an armed force under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.), except as provided in clause (ii) or (iii) of section 6(c)(2)(A) of that Act ([50 U.S.C. 3806(c)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/c/2/A&num=0&edition=prelim)), may not be enlisted under subsection (a).
 
@@ -545,12 +575,16 @@ Pub. L. 108–375, div. A, title V, § 551(b), Oct. 28, 2004, 118 Stat. 1911, pr
 ### Statutory Notes
 
 #### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (b)(3)(C), means the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
 The Military Selective Service Act, referred to in subsec. (c), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 3801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 513, act Aug. 10, 1956, ch. 1041, 70A Stat. 18, related to promotion of enlisted members of Reserve components, prior to repeal by Pub. L. 85–861, § 36B(1), Sept. 2, 1958, 72 Stat. 1570.
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–91 redesignated second sentence of par. (1) as (2) and inserted “described in paragraph (1)” after “the 365-day period”, added par. (3), and redesignated former par. (2) as (4) and substituted “this subsection” for “paragraph (1)”.
+
 2016—Subsec. (c). Pub. L. 114–328 substituted “([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 451 et seq.)” and inserted “([50 U.S.C. 3806(c)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/c/2/A&num=0&edition=prelim))” after “of that Act”.
 
 2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
@@ -921,7 +955,7 @@ Feb. 12, 1925, ch. 225, title I, 43 Stat. 900.
 1985—Pub. L. 99–145 substituted “enlistment” for “enlistments”.
 
 #### Effective Date
-Pub. L. 98–525, title XIV, § 1404, Oct. 19, 1984, 98 Stat. 2621, provided that: “The amendments made by sections 1401 [enacting this section and sections 956, 979 to 981, 1047 to 1050, 1074b [now 1074c], 1093, 1589, 2007 to 2009, 2484, 2638, and 2639 of this title, amending sections 1074, 1077, 1079, 2104, and 7204 of this title, and repealing [section 7208 of this title](./chapter-631-secretary-of-the-navy-miscellaneous-powers-and-duties.md#section-7208)], 1402 [enacting [section 306a of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section306a&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and amending sections 206 and 404 of Title 37], and 1403 [amending provisions set out as a note under [section 138 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138) and repealing provisions set out as notes under sections 138 and 2102 of this title] take effect on October 1, 1985.”
+Pub. L. 98–525, title XIV, § 1404, Oct. 19, 1984, 98 Stat. 2621, provided that: “The amendments made by sections 1401 [enacting this section and sections 956, 979 to 981, 1047 to 1050, 1074b [now 1074c], 1093, 1589, 2007 to 2009, 2484, 2638, and 2639 of this title, amending sections 1074, 1077, 1079, 2104, and 7204 of this title, and repealing [section 7208 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7208&num=0&edition=prelim)], 1402 [enacting [section 306a of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section306a&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and amending sections 206 and 404 of Title 37], and 1403 [amending provisions set out as a note under [section 138 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138) and repealing provisions set out as notes under sections 138 and 2102 of this title] take effect on October 1, 1985.”
 
 
 <a id="section-520c"></a>

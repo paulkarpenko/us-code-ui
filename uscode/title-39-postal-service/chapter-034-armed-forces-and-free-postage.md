@@ -118,7 +118,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under [section 3601 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3601&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Effective Date
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Operation Desert Shield
 Pub. L. 101–509, title VI, § 631(b), Nov. 5, 1990, 104 Stat. 1480, provided that: “This section [amending this section] shall apply to military personnel participating in ‘Operation Desert Shield’.”
@@ -173,17 +173,32 @@ Repeal effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as a
 
 (5) braille writers, typewriters, educational or other materials or devices, or parts thereof, used for writing by, or specifically designed or adapted for use of, a blind person or a person having a physical impairment as described in subsection (a)(1) of this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3404"></a>
 ## § 3404. Unsealed letters sent by blind or physically handicapped persons
 
 Unsealed letters sent by a blind person or a person having a physical impairment, as described in [section 3403(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3403/a/1&num=0&edition=prelim), in raised characters or sightsaving type, or in the form of sound recordings, may be mailed free of postage.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3405"></a>
 ## § 3405. Markings
 
 All matter relating to blind or other handicapped persons mailed under section 3403 or 3404 of this title, shall bear the words “Free Matter for the Blind or Handicapped”, or words to that effect specified by the Postal Service, in the upper right-hand corner of the address area.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3406"></a>

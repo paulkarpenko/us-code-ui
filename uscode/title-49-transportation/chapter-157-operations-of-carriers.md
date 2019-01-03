@@ -35,7 +35,7 @@ Provisions similar to those in this section were contained in [section 11101 of 
 1996—Subsec. (e). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-15721"></a>
@@ -53,6 +53,9 @@ In this subchapter, the following definitions apply:
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11141 of this title](./chapter-111-operations.md#section-11141) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-15722"></a>
@@ -76,6 +79,9 @@ Provisions similar to those in this section were contained in [section 11141 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11144 of this title](./chapter-111-operations.md#section-11144) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-15723"></a>
 ## § 15723. Reports by carriers, lessors, and associations
@@ -87,3 +93,6 @@ Provisions similar to those in this section were contained in [section 11144 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11145 of this title](./chapter-111-operations.md#section-11145) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

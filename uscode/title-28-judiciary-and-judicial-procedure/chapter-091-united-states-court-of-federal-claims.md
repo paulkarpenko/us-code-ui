@@ -615,7 +615,7 @@ The Court of Federal Claims shall have jurisdiction to hear and to render judgme
 ### Statutory Notes
 
 #### References in Text
-Sections 6226 and 6228(a) of the Internal Revenue Code of 1986, referred to in text, are classified to sections 6226 and 6228(a) of Title 26, Internal Revenue Code.
+Sections 6226 and 6228(a) of the Internal Revenue Code of 1986, referred to in text, are classified to sections 6226 and 6228(a) of Title 26, Internal Revenue Code. [Section 6226 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6226&num=0&edition=prelim) was repealed and reenacted by Pub. L. 114–74, title XI, § 1101(a), (c)(1), Nov. 2, 2015, 129 Stat. 625, 630, and as so reenacted no longer relates to judicial review, see [section 6234 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6234&num=0&edition=prelim). Section 6228 was repealed by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
 1992—Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court”.
@@ -626,7 +626,7 @@ Sections 6226 and 6228(a) of the Internal Revenue Code of 1986, referred to in t
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of this title](./chapter-007-united-states-court-of-federal-claims.md#section-171).
 
 #### Effective Date
-Section applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of this section to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 6221 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6221&num=0&edition=prelim), Internal Revenue Code.
+Section applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of this section to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section702&num=0&edition=prelim), Internal Revenue Code.
 
 
 <a id="section-1509"></a>

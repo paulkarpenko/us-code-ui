@@ -2,7 +2,7 @@
 title: 46
 chapter: '563'
 heading: EMERGENCY ACQUISITION OF VESSELS
-section_count: 7
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -163,3 +163,103 @@ When a vessel requisitioned for use but not ownership is returned to the owner, 
 | 56307 | 46 App.:1242(a) (4th sentence). | June 29, 1936, ch. 858, title IX, § 902(a) (4th sentence), 49 Stat. 2015; Pub. L. 97–31, § 12(131), Aug. 6, 1981, 95 Stat. 165. |
 
 The words “requisitioned for use but not ownership” are substituted for “taken and used under authority of this section, but the ownership thereof is not required by the United States” to eliminate unnecessary words.
+
+
+<a id="section-56308"></a>
+## § 56308. Transfer of substitute vessels
+
+In the case of any vessel constructed in the United States after January 1, 1937, which has been taken by the United States for use in any manner, the Secretary of Transportation, if in his opinion the transfer would aid in carrying out the policies of this Act,11 See References in Text note below. is authorized to transfer to the owner of such vessel another vessel which is deemed by the Secretary to be of comparable type with adjustments for depreciation and difference in design or speed, and to the extent applicable, such other adjustments and terms and conditions, including transfer of mortgage obligations in favor of the United States binding upon the old vessel, as the Secretary may prescribe.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, means act Mar. 8, 1946, ch. 82, 60 Stat. 41, known as the Merchant Ship Sales Act of 1946, which was classified principally to chapter 54 (§ 4401 et seq.) of Title 50, War and National Defense. The Act has been repealed, except for sections 8(d) and 11, which were transferred to this section and [section 57100 of this title](./chapter-571-general-authority.md#section-57100), respectively, by Pub. L. 115–91. Provisions relating to the policies of the Act were contained in [section 4401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4401&num=0&edition=prelim) prior to repeal by Pub. L. 115–91.
+
+#### Codification
+Section, as added and amended by Pub. L. 115–91, is based on act Mar. 8, 1946, ch. 82, § 8(d), 60 Stat. 46, as amended by Pub. L. 97–31, § 12(154), Aug. 6, 1981, 95 Stat. 167, which was formerly classified to [section 4404(d) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4404/d&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
+
+#### Amendments
+2017—Pub. L. 115–91, § 3502(b)(5)(C), which directed striking out “adjustments with respect to the retained vessels as provided for in section 9, and”, was executed by striking out “adjustments with respect to the retained vessel as provided for in section 9, and” after “extent applicable,” to reflect the probable intent of Congress.
+
+Pub. L. 115–91, § 3502(b)(5)(B), which directed insertion of “of Transportation” after “Secretary”, was executed by making the insertion after “Secretary” the first time appearing to reflect the probable intent of Congress.
+
+Pub. L. 115–91, § 3502(b)(5)(A), inserted section enumerator and catchline.
+
+Pub. L. 115–91, § 3502(a)(2), transferred section 8(d) of act Mar. 8, 1946, to this chapter and renumbered it as this section. See Codification note above.
+
+
+<a id="section-56309"></a>
+## § 56309. Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters
+
+During any period in which vessels may be requisitioned under this chapter, the President is authorized and empowered through the Secretary of Transportation to purchase, or to requisition, or for any part of such period to charter or requisition the use of, or to take over the title to or possession of, for such use or disposition as he shall direct, any merchant vessel not owned by citizens of the United States which is lying idle in waters within the jurisdiction of the United States and which the President finds to be necessary to the national defense. Just compensation shall be determined and made to the owner or owners of any such vessel in accordance with the applicable provisions of this chapter. Such compensation hereunder, or advances on account thereof, shall be deposited with the Treasurer of the United States in a separate deposit fund. Payments for such compensation and also for payment of any valid claim upon such vessel in accord with the provisions of section 56305, shall be made from such fund upon the certificate of the Secretary of Transportation.
+
+### Statutory Notes
+
+#### Codification
+Section, as added and amended by section 3504(a) of Pub. L. 115–91, is based on act Aug. 9, 1954, ch. 659, § 1, 68 Stat. 675; Pub. L. 96–70, title III, § 3302(c), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–31, § 12(152), Aug. 6, 1981, 95 Stat. 167, which was formerly classified to [section 196 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section196&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
+
+#### Amendments
+2017—Pub. L. 115–91, § 3504(a)(2), inserted section enumerator and catchline and, in text, substituted “this chapter” for “section 902 of the Merchant Marine Act, 1936, as amended” in two places and “section 56305” for “the second paragraph of subsection (d) of such section 902, as amended”.
+
+Pub. L. 115–91, § 3504(a)(1), transferred section 1 of act Aug. 9, 1954, to this chapter and renumbered it as this section. See Codification note above.
+
+#### References
+Pub. L. 115–91, div. C, title XXXV, § 3504(f), Dec. 12, 2017, 131 Stat. 1913, provided that: “Any reference in a law, regulation, document, paper, or other record of the United States to a section that is redesignated and transferred by this section [sections 1 to 3 of act Aug. 9, 1954, former [50 U.S.C. 196](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section196&num=0&edition=prelim) to 198] is deemed to refer to such section as so redesignated and transferred [now [46 U.S.C. 56309](./chapter-563-emergency-acquisition-of-vessels.md#section-56309) to 56311].”
+
+
+<a id="section-56310"></a>
+## § 56310. Voluntary purchase or charter agreements
+
+During any period in which vessels may be requisitioned under this chapter as amended,11 So in original. the President is authorized through the Secretary of Transportation to acquire by voluntary agreement of purchase or charter the ownership or use of any merchant vessel not owned by citizens of the United States.
+
+### Statutory Notes
+
+#### Codification
+Section, as added and amended by section 3504(b) of Pub. L. 115–91, is based on act Aug. 9, 1954, ch. 659, § 2, 68 Stat. 675; Pub. L. 97–31, § 12(152), Aug. 6, 1981, 95 Stat. 167, which was formerly classified to [section 197 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section197&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
+
+#### Amendments
+2017—Pub. L. 115–91, § 3504(b)(2), inserted section enumerator and catchline and, in text, substituted “this chapter” for “section 902 of the Merchant Marine Act, 1936,”.
+
+Pub. L. 115–91, § 3504(b)(1), transferred section 2 of act Aug. 9, 1954, to this chapter and renumbered it as this section. See Codification note above.
+
+
+<a id="section-56311"></a>
+## § 56311. Requisitioned vessels
+**(a)** Any vessel not documented under the laws of the United States, acquired by or made available to the Secretary of Transportation under section 56309 or 56310, as applicable, or otherwise, may, notwithstanding any other provision of law, in the discretion of the Secretary of the department in which the Coast Guard is operating be documented as a vessel of the United States under such rules and regulations or orders, and with such limitations, as the Secretary of the department in which the Coast Guard is operating may prescribe or issue as necessary or appropriate to carry out the purposes and provisions of section 56309 or 56310, as applicable, and in accordance with the provisions of subsection (c), engage in the coastwise trade when so documented. Any document issued to a vessel under the provisions of this subsection shall be surrendered at any time that such surrender may be ordered by the Secretary of the department in which the Coast Guard is operating. No vessel, the surrender of the documents of which has been so ordered, shall, after the effective date of such order, have the status of a vessel of the United States unless documented anew.
+
+**(b)** The President may, notwithstanding any other provisions of law, by rules and regulations or orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shall cease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
+
+**(c)** Any vessel while documented under the provisions of this section, when chartered under section 56309 or 56310, as applicable, by the Secretary of Transportation to Government agencies or departments or to private operators, may engage in the coastwise trade under permits issued by the Secretary of Transportation, who is authorized to issue permits for such purpose pursuant to such rules and regulations as he may prescribe. The Secretary of Transportation is authorized to prescribe such rules and regulations as he may deem necessary or appropriate to carry out the purposes and provisions of this section. Section 57109 shall not apply with respect to vessels chartered to Government agencies or departments or to private operators or otherwise used or disposed of under section 56309 or 56310, as applicable. Existing laws covering the inspection of steam vessels are made applicable to vessels documented under this section only to such extent and upon such conditions as may be required by regulations of the Secretary of the department in which the Coast Guard is operating: Provided, That in determining to what extent those laws should be made applicable, due consideration shall be given to the primary purpose of transporting commodities essential to the national defense.
+
+**(d)** The Secretary of Transportation without regard to the 11 So in original. The word “the” probably should not appear. [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) may repair, reconstruct, or recondition any vessels to be utilized under section 56309 or 56310, as applicable. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under section 56309 or 56310, as applicable, may, with the aid of any funds available and without regard to the provisions of [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under section 56309 or 56310, as applicable 22 So in original. Probably should be followed by a comma. to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of chapter 575, and any department or agency of the United States Government is authorized to enter into such charters.
+
+**(e)** In case of any voyage of a vessel documented under the provisions of this section begun before the date of termination of an effective period of [section 196 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section196&num=0&edition=prelim), but is completed after such date, the provisions of this section shall continue in effect with respect to such vessel until such voyage is completed.
+
+### Statutory Notes
+
+#### Codification
+Section, as added and amended by section 3504(c) of Pub. L. 115–91, is based on act Aug. 9, 1954, ch. 659, § 3, 68 Stat. 675; Pub. L. 89–670, § 6(b)(1), (2), Oct. 15, 1966, 80 Stat. 938; Pub. L. 97–31, § 12(152), Aug. 6, 1981, 95 Stat. 167, which was formerly classified to [section 198 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section198&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
+
+#### Amendments
+2017—Pub. L. 115–91, § 3504(c)(3)(A), substituted “section 56309 or 56310, as applicable” for “this Act” wherever appearing, except in first sentence of subsec. (c) and second sentence of subsec. (d).
+
+Pub. L. 115–91, § 3504(c)(2), inserted section enumerator and catchline.
+
+Pub. L. 115–91, § 3504(c)(1), transferred section 3 of act Aug. 9, 1954, to this chapter and renumbered it as this section. See Codification note above.
+
+Subsec. (c). Pub. L. 115–91, § 3504(c)(3)(B), substituted “section 56309 or 56310, as applicable,” for “this Act” in first sentence and “Section 57109” for “The second paragraph of section 9 of the Shipping Act, 1916, as amended,” in third sentence.
+
+Subsec. (d). Pub. L. 115–91, § 3504(c)(3)(C)(i)–(iii), substituted, in first sentence, “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” for “provisions of section 3709 of the Revised Statutes”, in second sentence, “section 56309 or 56310, as applicable,” for “this Act” and “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” for “said section 3709”, and, in third sentence, “chapter 575” for “title VII of the Merchant Marine Act, 1936”.
+
+Subsec. (f). Pub. L. 115–91, § 3504(c)(3)(C)(iv), struck out subsec. (f) which read as follows: “When used in this Act, the term ‘documented’ means ‘registered’, ‘enrolled and licensed’, or ‘licensed’.” See [section 56312 of this title](./chapter-563-emergency-acquisition-of-vessels.md#section-56312).
+
+#### Transfer of Functions
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+“Secretary of the department in which the Coast Guard is operating” substituted in subsec. (a) for “Secretary of the Treasury” pursuant to section 6(b)(1), (2) of Pub. L. 89–670, which transferred Coast Guard to Department of Transportation and transferred to and vested in Secretary of Transportation functions, powers, and duties relating to Coast Guard, of Secretary of the Treasury and of all other officers and offices of Department of the Treasury, and which provided that notwithstanding such transfer Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+
+
+<a id="section-56312"></a>
+## § 56312. Documented defined
+
+In sections 56309 through 56311, the term “documented” means, with respect to a vessel, that a certificate of documentation has been issued for the vessel under chapter 121.

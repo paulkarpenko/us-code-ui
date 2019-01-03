@@ -546,9 +546,11 @@ Sec. 3. (a) The Committee shall report to the President and shall advise the Dir
 Sec. 4. Consonant with law, each Federal department and agency represented on the Committee shall furnish necessary assistance to the Committee in accordance with section 214 of the Act of May 3, 1945, 59 Stat. 134 ([31 U.S.C. 691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section691&num=0&edition=prelim)) [[31 U.S.C. 1346(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1346/b&num=0&edition=prelim)]. The Department of the Interior shall furnish necessary administrative services for the Committee.
 
 #### Extension of Term of Committee for the Preservation of the White House
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Committee for the Preservation of the White House extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extensions of term of the Committee for the Preservation of the White House were contained in the following prior Executive Orders:
+Previous extensions of term of Committee for the Preservation of the White House were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 

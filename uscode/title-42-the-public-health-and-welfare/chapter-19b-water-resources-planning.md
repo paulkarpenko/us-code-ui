@@ -753,13 +753,15 @@ For the purpose of this subchapter the term “State” means a State, the Distr
 ## § 1962d–20. Comprehensive plans for development, utilization, and conservation of water and related resources
 **(a) Federal State cooperation**
 
-(1) **Comprehensive plans** — The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, or non-Federal interest working with a State or group of States in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State or group of States, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
+(1) **Comprehensive plans** — The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, non-Federal interest working with a State or group of States, or regional coalition of governmental entities in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State, interest, or entity, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
 
 (2) **Technical assistance**
 
   (A) *In general* — At the request of a governmental agency or non-Federal interest, the Secretary may provide technical assistance to such agency or non-Federal interest in managing water resources.
 
   (B) *Types of assistance* — Technical assistance under this paragraph may include provision and integration of hydrologic, economic, and environmental data and analyses.
+
+(3) **Institution of higher education** — Notwithstanding [section 236 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section236&num=0&edition=prelim), in carrying out this subsection, the Secretary may work with an institution of higher education, as determined appropriate by the Secretary.
 
 **(b) Fees**
 
@@ -789,6 +791,10 @@ For the purpose of this subchapter the term “State” means a State, the Distr
 Section was enacted as part of the Water Resources Development Act of 1974, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–270, § 1159(1), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, or non-Federal interest working with a State or group of States in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State or group of States, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.”
+
+Subsec. (a)(3). Pub. L. 115–270, § 1159(2), added par. (3).
+
 2016—Subsec. (a)(1). Pub. L. 114–322, § 1128(1), substituted “, group of States, or non-Federal interest” for “or other non-Federal interest” and inserted “or group of States” after “working with a State” and after “boundaries of such State”.
 
 Subsec. (c)(1). Pub. L. 114–322, § 1128(2), inserted at end “The Secretary may allow 2 or more States to combine all or a portion of the funds that the Secretary makes available to the States in carrying out subsection (a)(1).”
@@ -1091,7 +1097,7 @@ Section was enacted as part of the Flood Control Act of 1968, and not as part of
 
 **(b) Definition of non-Federal interest** The term “non-Federal interest” means—
 
-(1) a legally constituted public body (including a federally recognized Indian tribe and, as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim), a Native village, Regional Corporation, and Village Corporation); or
+(1) a legally constituted public body (including an Indian tribe and a tribal organization (as those terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))); or
 
 (2) a nonprofit entity with the consent of the affected local government,
 that has full authority and capability to perform the terms of its agreement and to pay damages, if necessary, in the event of failure to perform.
@@ -1133,6 +1139,8 @@ The Water Supply Act of 1958, as amended, referred to in subsec. (h), is Pub. L.
 Section was enacted as part of the Flood Control Act of 1970, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–270 substituted “(including an Indian tribe and a tribal organization (as those terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))); or” for “(including a federally recognized Indian tribe and, as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim), a Native village, Regional Corporation, and Village Corporation); or”.
+
 Subsec. (b)(1). Pub. L. 114–322 inserted “and, as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim), a Native village, Regional Corporation, and Village Corporation” after “Indian tribe”.
 
 2014—Subsec. (a)(4)(A). Pub. L. 113–121, § 1018(a)(1), inserted “or a project under an environmental infrastructure assistance program” after “law” in introductory provisions.
@@ -1170,6 +1178,9 @@ Pub. L. 113–121, title I, § 1018(c), June 10, 2014, 128 Stat. 1226, provided 
 
 #### Effective Date of 2007 Amendment
 Pub. L. 110–114, title II, § 2003(e), Nov. 8, 2007, 121 Stat. 1070, as amended by Pub. L. 113–121, title I, § 1018(b), June 10, 2014, 128 Stat. 1225, provided that: “The amendments made by subsections (a), (b), and (d) [amending this section and provisions set out as a note under this section] only apply to partnership agreements entered into after the date of enactment of this Act [Nov. 8, 2007]; except that, at the request of a non-Federal interest for a project, the district engineer for the district in which the project is located may amend a project partnership agreement entered into on or before such date and under which construction on the project, or construction of design deficiency corrections on the project, has not been initiated, or under which construction of the project has not been completed and the work to be performed by the non-Federal interests has not been carried out and is creditable only toward any remaining non-Federal cost share, as of such date of enactment for the purpose of incorporating such amendments.”
+
+#### Local Government Water Management Plans
+Pub. L. 115–270, title I, § 1164, Oct. 23, 2018, 132 Stat. 3797, provided that: “With the consent of the non-Federal interest for a feasibility study for a water resources development project, the Secretary [of the Army] may enter into a written agreement under section 221(a) of the Flood Control Act of 1970 [[42 U.S.C. 1962d–5b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b/a&num=0&edition=prelim)], with a unit of local government in the watershed that has adopted a local or regional water management plan, to allow the unit of local government to participate in the feasibility study to determine if there is an opportunity to include additional feasible elements in the project in order to help achieve the purposes identified in the local or regional water management plan.”
 
 #### Guidelines
 Pub. L. 113–121, title I, § 1018(d), June 10, 2014, 128 Stat. 1226, provided that: “(1) In general.—Not later than 1 year after the date of enactment of this Act [June 10, 2014], the Secretary [of the Army] shall update any guidance or regulations for carrying out section 221(a)(4) of the Flood Control Act of 1970 ([42 U.S.C. 1962d–5b(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b/a/4&num=0&edition=prelim)) (as amended by subsection (a)) that are in existence on the date of enactment of this Act or issue new guidelines, as determined to be appropriate by the Secretary. “(2) Inclusions.—Any guidance, regulations, or guidelines updated or issued under paragraph (1) shall include, at a minimum—“(A) the milestone for executing an in-kind memorandum of understanding for construction by a non-Federal interest; “(B) criteria and procedures for evaluating a request to execute an in-kind memorandum of understanding for construction by a non-Federal interest that is earlier than the milestone under subparagraph (A) for that execution; and “(C) criteria and procedures for determining whether work carried out by a non-Federal interest is integral to a project. “(3) Public and stakeholder participation.—Before issuing any new or revised guidance, regulations, or guidelines or any subsequent updates to those documents, the Secretary shall—“(A) consult with affected non-Federal interests; “(B) publish the proposed guidelines developed under this subsection in the Federal Register; and “(C) provide the public with an opportunity to comment on the proposed guidelines.”
@@ -1235,7 +1246,11 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 ## § 1962d–8. Beach nourishment
 **(a) In general** The Secretary of the Army, acting through the Chief of Engineers, is authorized to provide periodic beach nourishment in the case of each water resources development project where such nourishment has been authorized for a limited period for such additional period as he determines necessary but in no event shall such additional period extend beyond the fiftieth year which begins after the date of initiation of construction of such project.
 
-**(b) Review** Notwithstanding subsection (a), the Secretary shall, at the request of the non-Federal interest, carry out a study to determine the feasibility of extending the period of nourishment described in subsection (a) for a period not to exceed 15 additional years beyond the maximum period described in subsection (a).
+**(b) Review**
+
+(1) **In general** — Notwithstanding subsection (a), the Secretary shall, at the request of the non-Federal interest, carry out a study to determine the feasibility of extending the period of nourishment described in subsection (a) for a period not to exceed 15 additional years beyond the maximum period described in subsection (a).
+
+(2) **Timing** — The 15 additional years provided under paragraph (1) shall begin on the date of initiation of construction of congressionally authorized nourishment.
 
 **(c) Plan for reducing risk to people and property**
 
@@ -1249,7 +1264,7 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 
 (2) include in the subsequent annual report to Congress required under [section 2282d of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2282d&num=0&edition=prelim), any recommendations that require specific congressional authorization.
 
-**(e) Special rule** Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 6 years after the expiration of such period.
+**(e) Special rule** Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 10-year period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 6 years after the expiration of such period.
 
 ### Statutory Notes
 
@@ -1257,6 +1272,10 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–270, § 1158(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e). Pub. L. 115–270, § 1158(2), substituted “10-year period” for “5 year-period”.
+
 2016—Subsec. (e). Pub. L. 114–322 substituted “6 years” for “3 years”.
 
 2014—Pub. L. 113–121 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).

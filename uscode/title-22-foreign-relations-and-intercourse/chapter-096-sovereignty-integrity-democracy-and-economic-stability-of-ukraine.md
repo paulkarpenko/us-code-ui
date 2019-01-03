@@ -179,7 +179,7 @@ Section 314(a) of the Uniting and Strengthening America by Providing Appropriate
 
   (A) *In general* — The requirement to block and prohibit all transactions in all property and interests in property under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
 
-  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in [section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
+  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in section 4618 11 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
 
 (4) **Exception to comply with United Nations headquarters agreement** — Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
@@ -201,6 +201,8 @@ Section 314(a) of the Uniting and Strengthening America by Providing Appropriate
 
 #### References in Text
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+[Section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim), referred to in subsec. (b)(3)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
 2017—Subsecs. (d), (e). Pub. L. 115–44, which directed amendment of section 8 of the “Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014” by adding subsec. (d) and redesignating former subsec. (d) as (e), was executed to this section, which is section 8 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress.
@@ -228,11 +230,11 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A
 
   (A) *In general* — The authority to block and prohibit all transactions in all property and interests in property under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
 
-  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in [section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
+  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in section 4618 11 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
 
 (4) **Exception to comply with United Nations headquarters agreement** — Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
-**(c) Waiver** except 11 So in original. Probably should be capitalized. as provided in subsection (d), the President may waive the application of sanctions under subsection (b) with respect to a person if the President—
+**(c) Waiver** except 22 So in original. Probably should be capitalized. as provided in subsection (d), the President may waive the application of sanctions under subsection (b) with respect to a person if the President—
 
 (1) determines that such a waiver is in the national security interests of the United States; and
 
@@ -244,7 +246,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A
 
 (2) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
 
-**(e) 22 So in original. Two subsecs. (e) have been enacted. Application of new sanctions** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
+**(e) 33 So in original. Two subsecs. (e) have been enacted. Application of new sanctions** The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
 
 (1) a written determination that the waiver—
 
@@ -254,12 +256,14 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A
 
 (2) a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
 
-**(e) 2 Regulatory authority** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
+**(e) 3 Regulatory authority** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
 ### Statutory Notes
 
 #### References in Text
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+[Section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim), referred to in subsec. (b)(3)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
 Sections 227 and 230(b) of Pub. L. 115–44, which directed the amendment of section 9 of the “Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014”, were executed to this section, which is section 9 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress. See 2017 Amendment notes below.
@@ -271,7 +275,7 @@ Subsec. (a)(1). Pub. L. 115–44, § 227(1)(B), substituted “President determi
 
 Subsec. (c). Pub. L. 115–44, § 227(3), substituted “except as provided in subsection (d), the President” for “The President” in introductory provisions. See Codification note above.
 
-Subsecs. (d), (e). Pub. L. 115–44, § 230(b), added subsec. (d) and redesignated former subsec. (d), as added by Pub. L. 115–44, § 227(2), and relating to application of new sanctions, as (e). See Codification note above.
+Subsecs. (d), (e). Pub. L. 115–44, § 230(b), added subsec. (d) and redesignated former subsec. (d), relating to application of new sanctions, as (e). See Codification note above.
 
 Pub. L. 115–44, § 227(2), (4), added subsec. (d) and redesignated former subsec. (d), relating to regulatory authority, as (e). See Codification note above.
 
@@ -361,8 +365,8 @@ Executive Order No. 13757, referred to in subsec. (f)(1)(F), is Ex. Ord. No. 137
 A prior section 8909, Pub. L. 113–95, § 10, Apr. 3, 2014, 128 Stat. 1096, which related to annual report on military and security developments involving the Russian Federation, and was superseded by Pub. L. 113–291, div. A, title XII, § 1245, Dec. 19, 2014, 128 Stat. 3566, which is not classified to the Code, was repealed by Pub. L. 113–291, div. A, title XII, § 1245(f), formerly § 1245(e), Dec. 19, 2014, 128 Stat. 3568, renumbered § 1245(f), Pub. L. 114–328, div. A, title XII, § 1235(b)(1), Dec. 23, 2016, 130 Stat. 2491.
 
 
-<a id="section-8909"></a>
-## § 8909. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses
+<a id="section-8910"></a>
+## § 8910. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses
 **(a) In general** The President shall impose the sanctions described in subsection (b) with respect to a foreign person if the President determines that the foreign person, based on credible information, on or after August 2, 2017—
 
 (1) is responsible for, complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses in any territory forcibly occupied or otherwise controlled by the Government of the Russian Federation;

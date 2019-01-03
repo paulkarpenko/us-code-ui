@@ -19,7 +19,7 @@ Congress finds and declares that—
 
 **(d)** no provision of this chapter shall constitute a precedent for reopening, renegotiating, or legislating upon any past settlement involving land claims or other matters with any Native organizations, or any tribe, band, or identifiable group of American Indians;
 
-**(e)** no provision of this chapter shall effect a change or changes in the petroleum reserve policy reflected in sections 7421 through 7438 22 See References in Text note below. of title 10 except as specifically provided in this chapter;
+**(e)** no provision of this chapter shall effect a change or changes in the petroleum reserve policy reflected in sections 8721 through 8738 of title 10 except as specifically provided in this chapter;
 
 **(f)** no provision of this chapter shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, nor to grant implied consent to Natives to sue the United States or any of its officers with respect to the claims extinguished by the operation of this chapter; and
 
@@ -28,9 +28,13 @@ Congress finds and declares that—
 ### Statutory Notes
 
 #### References in Text
-[Section 7434 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7434&num=0&edition=prelim), referred to in subsec. (e), was repealed by Pub. L. 104–66, title I, § 1051(g), Dec. 21, 1995, 109 Stat. 716.
-
 The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Subsec. (e). Pub. L. 115–232 substituted “sections 8721 through 8738 of title 10” for “sections 7421 through 7438 of title 10”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Short Title of 2004 Amendment
 Pub. L. 108–452, § 1(a), Dec. 10, 2004, 118 Stat. 3575, provided that: “This Act [amending sections 1611, 1613, 1617, 1621, 1629g, and 1635 of this title, enacting provisions set out as notes under sections 852, 1602, 1611, 1617, and 1635 of this title, and amending provisions set out as notes under [section 852 of this title](./chapter-020-reservations-and-grants-to-states-for-public-purposes.md#section-852) and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions] may be cited as the ‘Alaska Land Transfer Acceleration Act’.”
@@ -1307,7 +1311,7 @@ The United States Court of Claims, referred to in subsec. (c), and the United St
 
 Act of July 13, 1970 (84 Stat. 431), referred to in subsec. (c), is Pub. L. 91–335, July 13, 1970, 84 Stat. 431, which was classified to [section 1211 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1211&num=0&edition=prelim), Indians, prior to omission from the Code as being of special and not general application.
 
-Act of June 18, 1934, referred to in subsec. (d)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of Title 25, Indians. Act of June 18, 1934 is not amended by the act of May 1, 1936. However, section 1 of act May 1, 1936, ch. 254, 49 Stat. 1250, relates to applicability of certain provisions of act June 18, 1934 to the Territory of Alaska, and is classified to [section 5119 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5119&num=0&edition=prelim). For complete classification of Act June 18, 1934 to the Code, see Short Title note set out under [section 5101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5101&num=0&edition=prelim) and Tables. For complete classification of Act May 1, 1936 to the Code, see Tables.
+Act of June 18, 1934, referred to in subsec. (d)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of Title 25, Indians. Act of June 18, 1934, is not amended by the act of May 1, 1936. However, section 1 of act May 1, 1936, ch. 254, 49 Stat. 1250, relates to applicability of certain provisions of act June 18, 1934, to the Territory of Alaska, and is classified to [section 5119 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5119&num=0&edition=prelim). For complete classification of Act June 18, 1934, to the Code, see Short Title note set out under [section 5101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5101&num=0&edition=prelim) and Tables. For complete classification of Act May 1, 1936, to the Code, see Tables.
 
 Act of September 2, 1957, referred to in subsec. (d)(1), is Pub. L. 85–271, Sept. 2, 1957, 71 Stat. 596, which is not classified to the Code.
 
@@ -1677,7 +1681,7 @@ This subsection shall be effective as of December 18, 1971, and, with respect to
 #### References in Text
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
-The Johnson-O’Malley Act of April 16, 1934, as amended ([25 U.S.C. 452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section452&num=0&edition=prelim)), referred to in subsec. (e), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, which was classified to sections 452 et seq., of Title 25, Indians, prior to editorial reclassification as sections 5342 et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
+The Johnson-O’Malley Act of April 16, 1934, as amended ([25 U.S.C. 452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section452&num=0&edition=prelim)), referred to in subsec. (e), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, which was classified to section 452 et seq. of Title 25, Indians, prior to editorial reclassification as section 5342 et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 Public Law 815, 81st Congress (64 Stat. 967), referred to in subsec. (e), is act Sept. 23, 1950, ch. 995, as amended generally by Pub. L. 85–620, title I, § 101, Aug. 12, 1958, 72 Stat. 548, which was classified generally to chapter 19 (§ 631 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, § 331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 

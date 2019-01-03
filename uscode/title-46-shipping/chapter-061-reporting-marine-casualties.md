@@ -62,11 +62,11 @@ source: >-
 
 (2) the loss of a mechanically propelled vessel of 100 or more gross tons;
 
-(3) property damage initially estimated at $500,000 or more; or
+(3) property damage initially estimated at $2,000,000 or more; or
 
-(4) serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
+(4) serious threat, as determined by the Commandant with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
 
-**(j)** The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
+**(j)** The Secretary shall publish all marine casualty reports prepared in accordance with this section in an electronic form.
 
 ### Statutory Notes
 
@@ -87,6 +87,12 @@ Subsection (d) makes it clear that the reporting requirements under subsection (
 Subsection (e) provides for the classification of marine casualties by regulation according to the gravity of the casualty, injuries to individuals, property damage, dangers created, and size, occupation, and means of propulsion of each vessel.
 
 #### Amendments
+2018—Subsec. (i)(3). Pub. L. 115–265 substituted “$2,000,000” for “$500,000”.
+
+Subsec. (i)(4). Pub. L. 115–232, § 3541(b)(11), struck out “of the Coast Guard” after “Commandant”.
+
+Subsec. (j). Pub. L. 115–232, § 3546(d), struck out “, as soon as possible, and no later than January 1, 2005,” after “The Secretary shall”.
+
 2014—Subsec. (c). Pub. L. 113–281, § 312(1), added subsec. (c).
 
 Subsecs. (h), (i). Pub. L. 113–281, § 312(2), in subsec. (h), struck out “(1)” before “The Secretary” and redesignated par. (2) as subsec. (i) and, in subsec. (i), substituted “section” for “paragraph” in introductory provisions and redesignated former subpars. (A) to (D) as pars. (1) to (4), respectively. Former subsec. (i) redesignated (j).

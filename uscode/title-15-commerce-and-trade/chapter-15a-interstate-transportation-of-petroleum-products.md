@@ -161,7 +161,7 @@ The Secretary of the Interior, in carrying out this chapter, is authorized to co
 ### Statutory Notes
 
 #### Codification
-Section was not enacted as a part act Feb. 22, 1935, which comprises this chapter.
+Section was not enacted as a part of act Feb. 22, 1935, which comprises this chapter.
 
 #### Delegation of Functions
 Delegation of President’s authority to Secretary of the Interior, see note set out under [section 715j of this title](./chapter-15a-interstate-transportation-of-petroleum-products.md#section-715j).

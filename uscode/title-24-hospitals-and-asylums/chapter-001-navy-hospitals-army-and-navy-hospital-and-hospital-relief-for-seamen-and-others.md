@@ -314,14 +314,11 @@ Hospitalization of the dependents of naval and Marine Corps personnel and of the
 
 ### Statutory Notes
 
-#### Partial Repeal
-Act June 7, 1956, ch. 374, § 306(2), 70 Stat. 254, repealed this section except insofar as it relates to persons outside the Naval Service mentioned in [section 34 of this title](./chapter-001-navy-hospitals-army-and-navy-hospital-and-hospital-relief-for-seamen-and-others.md#section-34). See Effective Date of Partial Repeal note below.
-
 #### Amendments
 1986—Pub. L. 99–251 amended second sentence generally. Prior to amendment, second sentence read as follows: “Dental treatment shall be administered only as an adjunct to inpatient hospital care and shall not include dental prosthesis or orthodontia.”
 
-#### Effective Date of Partial Repeal
-Partial repeal of section by act June 7, 1956, effective six months after June 7, 1956, see section 307 of act June 7, 1956, ch. 374, 70 Stat. 254.
+#### Partial Repeal; Effective Date
+Act June 7, 1956, ch. 374, § 306(2), 70 Stat. 254, repealed this section except insofar as it relates to persons outside the Naval Service mentioned in [section 34 of this title](./chapter-001-navy-hospitals-army-and-navy-hospital-and-hospital-relief-for-seamen-and-others.md#section-34). Section 307 of act June 7, 1956, ch. 374, 70 Stat. 254, provided that such repeal was effective six months after June 7, 1956.
 
 
 <a id="section-36"></a>

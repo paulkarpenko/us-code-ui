@@ -749,6 +749,8 @@ Section effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–
 
   (B) For the purposes of subparagraph (A), property or material shall be deemed to be reasonably available to the defendant if the Government provides ample opportunity for inspection, viewing, and examination at a Government facility of the property or material by the defendant, his or her attorney, and any individual the defendant may seek to qualify to furnish expert testimony at trial.
 
+(3) In any criminal proceeding, a victim, as defined under section 2259(c)(4), shall have reasonable access to any property or material that constitutes child pornography, as defined under section 2256(8), depicting the victim, for inspection, viewing, and examination at a Government facility or court, by the victim, his or her attorney, and any individual the victim may seek to qualify to furnish expert testimony, but under no circumstances may such child pornography be copied, photographed, duplicated, or otherwise reproduced. Such property or material may be redacted to protect the privacy of third parties.
+
 ### Statutory Notes
 
 #### References in Text
@@ -757,6 +759,8 @@ The Federal Rules of Evidence, referred to in subsec. (c)(1), are set out in the
 The Federal Rules of Criminal Procedure, referred to in subsecs. (f) and (m)(2)(A), are set out in the Appendix to this title.
 
 #### Amendments
+2018—Subsec. (m)(3). Pub. L. 115–299 added par. (3).
+
 2009—Subsec. (b)(1)(A). Pub. L. 111–16 substituted “7 days” for “5 days”.
 
 2006—Subsec. (h)(1). Pub. L. 109–248, § 507, inserted “, and provide reasonable compensation and payment of expenses for,” after “The court may appoint”.

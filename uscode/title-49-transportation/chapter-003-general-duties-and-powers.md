@@ -2,7 +2,7 @@
 title: 49
 chapter: '3'
 heading: GENERAL DUTIES AND POWERS
-section_count: 33
+section_count: 34
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -932,7 +932,7 @@ Pub. L. 102–240, title I, § 1036(b), Dec. 18, 1991, 105 Stat. 1978, provided 
 
 **(f) Reports.—**
 
-(1) **Report to congress.—** — Not later than 2 years after the date of enactment of this section and biennially thereafter, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
+(1) **Report to congress.—** — Not later than 2 years after the date of enactment of this section and biennially thereafter, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, and make publicly available on the Department of Transportation website, a report that describes—
 
   (A) progress in aligning Federal environmental reviews under this section; and
 
@@ -952,6 +952,9 @@ Pub. L. 102–240, title I, § 1036(b), Dec. 18, 1991, 105 Stat. 1978, provided 
 The date of enactment of this section, referred to in subsecs. (a), (c)(1), (e), and (f)(1), (2), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2019—Subsec. (f)(1). Pub. L. 115–420 inserted “, and make publicly available on the Department of Transportation website,” after “House of Representatives” in introductory provisions.
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
@@ -978,6 +981,105 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 (2) **Covered project.—** — The term “covered project” means a project competitively selected by the Department to receive a discretionary grant award, letter of intent, loan commitment, loan guarantee commitment, or line of credit commitment in an amount equal to or greater than $750,000.
 
 (3) **Department.—** — The term “Department” means the Department of Transportation, including the modal administrations of the Department.
+
+
+<a id="section-312"></a>
+## § 312. Alternative timing system
+**(a) In General.—** Subject to the availability of appropriations, the Secretary of Transportation shall provide for the establishment, sustainment, and operation of a land-based, resilient, and reliable alternative timing system—
+
+(1) to reduce critical dependencies and provide a complement to and backup for the timing component of the Global Positioning System (referred to in this section as “GPS”); and
+
+(2) to ensure the availability of uncorrupted and non-degraded timing signals for military and civilian users in the event that GPS timing signals are corrupted, degraded, unreliable, or otherwise unavailable.
+
+**(b) Establishment of Requirements.—**
+
+(1) **In general.—** — Not later than 180 days after the date of enactment of the National Timing Resilience and Security Act of 2018, the Secretary of Transportation shall establish requirements for the procurement of the system required by subsection (a) as a complement to and backup for the timing component of GPS in accordance with the timing requirements study required by section 1618 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2595).
+
+(2) **Requirements.—** — The Secretary of Transportation shall ensure, to the maximum extent practicable, that the system established under subsection (a) will—
+
+  (A) be wireless;
+
+  (B) be terrestrial;
+
+  (C) provide wide-area coverage;
+
+  (D) be synchronized with coordinated universal time;
+
+  (E) be resilient and extremely difficult to disrupt or degrade;
+
+  (F) be able to penetrate underground and inside buildings;
+
+  (G) be capable of deployment to remote locations;
+
+  (H) be developed, constructed, and operated incorporating applicable private sector expertise;
+
+  (I) work in concert with and complement any other similar positioning, navigation, and timing systems, including enhanced long-range navigation systems and Nationwide Differential GPS systems;
+
+  (J) be available for use by Federal and non-Federal government agencies for public purposes at no net cost to the Federal Government within 10 years of initiation of operation;
+
+  (K) be capable of adaptation and expansion to provide position and navigation capabilities;
+
+  (L) incorporate the recommendations from any GPS back-up demonstration program initiated and completed by the Secretary, in coordination with other Federal agencies, before the date specified in subsection (c)(1); and
+
+  (M) incorporate such other elements as the Secretary considers appropriate.
+
+**(c) Implementation Plan.—**
+
+(1) **Plan required.—** — Not later than 180 days after the date of enactment of the National Timing Resilience and Security Act of 2018, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report setting forth the following:
+
+  (A) A plan to develop, construct, and operate the system required by subsection (a).
+
+  (B) A description and assessment of the advantages of a system to provide a follow-on complementary and backup positioning and navigation capability to the timing component of GPS.
+
+(2) **Deadline for commencement of operation.—** — The system required by subsection (a) shall be in operation by not later than 2 years after the date of enactment of the National Timing Resilience and Security Act of 2018.
+
+(3) **Minimum duration of operational capability.—** — The system required by subsection (a) shall be designed to be fully operational for not less than 20 years.
+
+**(d) LORAN Facilities.—**
+
+(1) **In general.—** — If the Secretary of Transportation determines that any LORAN infrastructure, including the underlying real property and any spectrum associated with LORAN, in the possession of the Coast Guard is required by the Department of Transportation for the purpose of establishing the system required by subsection (a), the Commandant shall transfer such property, spectrum, and equipment to the Secretary.
+
+(2) **CERCLA not affected.—** — This subsection shall not be construed to limit the application of or otherwise affect section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9620(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9620/h&num=0&edition=prelim)) with respect to the Federal Government facilities described in paragraph (1).
+
+**(e) Cooperative Agreement.—**
+
+(1) **In general.—** — The Secretary of Transportation may enter into a cooperative agreement (as that term is described in [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)) with an entity upon such terms and conditions as the Secretary of Transportation determines will fulfill the purpose and requirements of this section and be in the public interest.
+
+(2) **Requirements.—** — The cooperative agreement under paragraph (1) shall, at a minimum, require the Secretary of Transportation to—
+
+  (A) authorize the entity to sell timing and other services to commercial and non-commercial third parties, subject to any national security requirements determined by the Secretary, in consultation with the Secretary of Defense;
+
+  (B) require the entity to develop, construct, and operate at private expense the backup timing system in accordance with this section;
+
+  (C) allow the entity to make any investments in technologies necessary over the life of such agreement to meet future requirements for advanced timing resilience and technologies;
+
+  (D) require the entity to share 25 percent of the gross proceeds received by the entity from the sale of timing services to third parties with the Secretary for at least 10 years after the date upon which the Secretary enters into the cooperative agreement;
+
+  (E) require the entity—
+
+    (i) to assume all financial risk for the completion and operational capability of the system, after the Secretary provides any LORAN facilities necessary for the system under subsection (d), if required for the alternative timing system; and
+
+    (ii) to furnish performance and payment bonds in connection with the system in a reasonable amount as determined by the Secretary; and
+
+  (F) require the entity to make any investments in technologies necessary over the life of the agreement to meet future requirements for advanced timing resiliency.
+
+(3) **Competition required.—** — The Secretary shall use competitive procedures similar to those authorized under [section 2667 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667&num=0&edition=prelim) in selecting an entity to enter into a cooperative agreement pursuant to this subsection.
+
+(4) **Authorization to purchase services.—** — The Secretary may not purchase timing system services from the entity for use by the Department of Transportation or for provision to other Federal and non-Federal governmental agencies until the system achieves operational status, and then only if the necessary funds for such purchases are provided for in subsequent yearly appropriations acts made available to the Secretary for each and every year in which such purchases are made.
+
+(5) **Determination requirement.—** — The Secretary may not enter into a cooperative agreement under this subsection unless the Secretary determines that the cooperative agreement is in the best financial interest of the Federal Government. The Secretary shall notify the Committee on 11 So in original. Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such determination not later than 30 days after the date of the determination.
+
+(6) **Definition.—** — In this subsection the term “entity” means a non-Federal entity with the demonstrated technical expertise and requisite administrative and financial resources to meet any terms and conditions established by the Secretary for purposes of this subsection.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the National Timing Resilience and Security Act of 2018, referred to in subsecs. (b)(1) and (c)(1), (2), is the date of enactment of section 514 of Pub. L. 115–282, which was approved Dec. 4, 2018.
+
+Section 1618 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (b)(1), is section 1618 of Pub. L. 114–328, div. A, title XVI, Dec. 23, 2016, 130 Stat. 2595, which is not classified to the Code.
+
+#### Codification
+Pub. L. 115–282, title V, § 514(b), Dec. 4, 2018, 132 Stat. 4276, which directed the addition of section 312 at end of chapter 30 of this title, was executed by adding this section at the end of subchapter I of this chapter to reflect the probable intent of Congress and because no chapter 30 has been enacted in this title.
 
 
 <a id="section-321"></a>
@@ -1074,6 +1176,9 @@ In subsection (e), before clause (1), the words “or in support of” are omitt
 
 #### References in Text
 [Section 103(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section103/c/1&num=0&edition=prelim), referred to in subsec. (b), was struck out by Pub. L. 110–432, div. A, title I, § 101, Oct. 16, 2008, 122 Stat. 4851. Provisions similar to those contained in former subsec. (c)(1) of section 103 are now contained in subsec. (g)(1) of section 103.
+
+#### Electronic Signatures
+Pub. L. 115–271, title VIII, § 8108(c), Oct. 24, 2018, 132 Stat. 4107, provided that: “Not later than 18 months after the date of the deadline under subsection (a)(2) [section 8108(a)(2) of Pub. L. 115–271, set out in a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees], the Secretary of Transportation shall issue a final rule revising part 40 of title 49, Code of Federal Regulations, to authorize, to the extent practicable, the use of electronic signatures or digital signatures executed to electronic forms instead of traditional handwritten signatures executed on paper forms.”
 
 #### Availability of Receipts From Fitness Centers For Operation and Maintenance of Facilities
 Pub. L. 106–69, title III, § 329, Oct. 9, 1999, 113 Stat. 1021, provided that: “Hereafter, notwithstanding any other provision of law, receipts, in amounts determined by the Secretary, collected from users of fitness centers operated by or for the Department of Transportation shall be available to support the operation and maintenance of those facilities.”
@@ -1426,6 +1531,9 @@ Pub. L. 108–176, title VIII, § 805(b), Dec. 12, 2003, 117 Stat. 2588, provide
 
 #### Effective Date of 1984 Amendment
 Pub. L. 98–443, § 5(b), Oct. 4, 1984, 98 Stat. 1705, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 1985.”
+
+#### Department of Transportation Public Drug and Alcohol Testing Database
+Pub. L. 115–271, title VIII, § 8103, Oct. 24, 2018, 132 Stat. 4104, provided that: “(a) In General.—Subject to subsection (c), the Secretary of Transportation shall—“(1) not later than March 31, 2019, establish and make publicly available on its website a database of the drug and alcohol testing data reported by employers for each mode of transportation; and “(2) update the database annually. “(b) Contents.—The database under subsection (a) shall include, for each mode of transportation—“(1) the total number of drug and alcohol tests by type of substance tested; “(2) the drug and alcohol test results by type of substance tested; “(3) the reason for the drug or alcohol test, such as pre-employment, random, post-accident, reasonable suspicion or cause, return-to-duty, or follow-up, by type of substance tested; and “(4) the number of individuals who refused testing. “(c) Commercially Sensitive Data.—The Department of Transportation shall not release any commercially sensitive data or personally identifiable data furnished by an employer under this section unless the data is aggregated or otherwise in a form that does not identify the employer providing the data. “(d) Savings Clause.—Nothing in this section may be construed as limiting or otherwise affecting the requirements of the Secretary of Transportation to adhere to requirements applicable to confidential business information and sensitive security information, consistent with applicable law.”
 
 
 <a id="section-330"></a>

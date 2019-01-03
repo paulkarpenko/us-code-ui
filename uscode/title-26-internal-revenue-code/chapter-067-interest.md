@@ -14,19 +14,13 @@ source: >-
 
 (1) **Extensions of time disregarded** — The last date prescribed for payment shall be determined without regard to any extension of time for payment or any installment agreement entered into under section 6159.
 
-(2) **Installment payments** — In the case of an election under section 6156(a) 11 See References in Text note below. to pay the tax in installments—
+(2) **Jeopardy** — The last date prescribed for payment shall be determined without regard to any notice and demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
 
-  (A) The date prescribed for payment of each installment of the tax shown on the return shall be determined under section 6156(b),1 and
+(3) **Accumulated earnings tax** — In the case of the tax imposed by section 531 for any taxable year, the last date prescribed for payment shall be deemed to be the due date (without regard to extensions) for the return of tax imposed by subtitle A for such taxable year.
 
-  (B) The last date prescribed for payment of the first installment shall be deemed the last date prescribed for payment of any portion of the tax not shown on the return.
+(4) **Last date for payment not otherwise prescribed** — In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date the liability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
 
-(3) **Jeopardy** — The last date prescribed for payment shall be determined without regard to any notice and demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
-
-(4) **Accumulated earnings tax** — In the case of the tax imposed by section 531 for any taxable year, the last date prescribed for payment shall be deemed to be the due date (without regard to extensions) for the return of tax imposed by subtitle A for such taxable year.
-
-(5) **Last date for payment not otherwise prescribed** — In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date the liability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
-
-**(c) Suspension of interest in certain income, estate, gift, and certain excise tax cases** In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
+**(c) Suspension of interest in certain income, estate, gift, and certain excise tax cases** In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period.
 
 **(d) Income tax reduced by carryback or adjustment for certain unused deductions**
 
@@ -89,7 +83,7 @@ source: >-
 
   (A) $1,000,000, multiplied by
 
-  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.
 
 (4) **Treatment of payments** — If the amount of tax imposed by chapter 11 which is extended as provided in section 6166 exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amount of the tax which is extended as provided in section 6166.
@@ -98,16 +92,14 @@ source: >-
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)
-Pub. L. 114–74, title XI, § 1101(f)(9), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c) of this section is amended by striking the last sentence. See 2015 Amendment note below.
-
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
-#### References in Text
-Section 6156, referred to in subsec. (b)(2), was repealed by Pub. L. 108–357, title VIII, § 867(b)(1), Oct. 22, 2004, 118 Stat. 1622.
-
 #### Amendments
+2018—Subsec. (b)(2) to (5). Pub. L. 115–141, § 401(b)(47), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which related to dates prescribed for installment payments.
+
+2017—Subsec. (j)(3)(B). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
 2015—Subsec. (c). Pub. L. 114–74 struck out at end “In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.”
 
 2005—Subsec. (d)(4). Pub. L. 109–135 substituted “6611(f)(4)(A)” for “6611(f)(3)(A)”.
@@ -228,8 +220,11 @@ Subsecs. (k), (l). Pub. L. 91–53 added subsec. (k) and redesignated former sub
 
 Subsecs. (g) to (j). Pub. L. 85–866, §§ 83(a)(1), 84(a), added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–135 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 409(d) of Pub. L. 109–135, set out as a note under [section 961 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-961).
@@ -325,7 +320,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 Amendment by Pub. L. 89–384 applicable with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in [section 1351(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1351/b&num=0&edition=prelim)) sustained after December 31, 1958, see section 2 of Pub. L. 89–384, set out as an Effective Date note under [section 1351 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1351).
 
 #### Effective Date of 1964 Amendment
-Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts, for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under [section 815 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-815).
+Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts, for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under [section 6501 of this title](./chapter-066-limitations.md#section-6501).
 
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–834 applicable with respect to taxable years ending after Dec. 31, 1961, see section 2(h) of Pub. L. 87–834, set out as an Effective Date note under [section 46 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-46).
@@ -341,6 +336,8 @@ Pub. L. 85–866, title I, § 83(d), Sept. 2, 1958, 72 Stat. 1664, provided that
 For effective date of amendment by section 206(e) of Pub. L. 85–866, see section 206(f) of Pub. L. 85–866, set out as a note under [section 6161 of this title](./chapter-062-time-and-place-for-paying-tax.md#section-6161).
 
 #### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
 #### Administration of Penalties and Interest
@@ -641,7 +638,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 Pub. L. 89–721, § 1(b), Nov. 2, 1966, 80 Stat. 1150, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to refunds made more than 45 days after the date of the enactment of this Act [Nov. 2, 1966].”
 
 #### Effective Date of 1964 Amendment
-Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts, for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under [section 815 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-815).
+Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts, for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under [section 6501 of this title](./chapter-066-limitations.md#section-6501).
 
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–834 applicable with respect to taxable years ending after Dec. 31, 1961, see section 2(h) of Pub. L. 87–834, set out as an Effective Date note under [section 46 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-46).
@@ -661,7 +658,7 @@ Pub. L. 94–12, title I, § 101(b), Mar. 29, 1975, 89 Stat. 28, as amended by P
 
 **(b) Adjustments** For provisions prohibiting interest on certain adjustments in tax, see section 6413(a).
 
-**(c) Other restrictions on interest** For other restrictions on interest, see 2014(e) 11 So in original. Probably should be preceded by “sections”. (relating to refunds attributable to foreign tax credits), 6412 (relating to floor stock refunds), 6413(d) (relating to taxes under the Federal Unemployment Tax Act), 6416 (relating to certain taxes on sales and services), 6419 (relating to the excise tax on wagering), and 6420 (relating to payments in the case of gasoline used on the farm for farming purposes), and 6421 (relating to payments in the case of gasoline used for certain nonhighway purposes or by local transit systems).
+**(c) Other restrictions on interest** For other restrictions on interest, see sections 2014(e) (relating to refunds attributable to foreign tax credits), 6412 (relating to floor stock refunds), 6413(d) (relating to taxes under the Federal Unemployment Tax Act), 6416 (relating to certain taxes on sales and services), 6419 (relating to the excise tax on wagering), 6420 (relating to payments in the case of gasoline used on the farm for farming purposes), and 6421 (relating to payments in the case of gasoline used for certain nonhighway purposes or by local transit systems).
 
 ### Statutory Notes
 
@@ -669,6 +666,8 @@ Pub. L. 94–12, title I, § 101(b), Mar. 29, 1975, 89 Stat. 28, as amended by P
 The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see [section 3311 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3311) and Tables.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–141 inserted “sections” before “2014(e)” and substituted “6420” for “and 6420”.
+
 2001—Subsec. (c). Pub. L. 107–16 struck out “section 2011(c) (relating to refunds due to credit for State taxes),” after “see”.
 
 1956—Subsec. (c). Act June 29, 1956, inserted reference to [section 6421 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6421).

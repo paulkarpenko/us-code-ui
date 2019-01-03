@@ -135,15 +135,13 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 <a id="section-482"></a>
 ## § 482. Quarterly reports: personnel and unit readiness
-**(a) Quarterly Reports Required.—** Not later than 30 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. Each report shall contain the information required by subsections (b), (d), (e), (f), and (g).
+**(a) Quarterly Reports Required.—** Not later than 30 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The reports for the first and third quarters of a calendar year shall contain the information required by subsections (b), (d), (e), (f), and (g). The reports for the second and fourth quarters of a calendar year shall contain the information required by subsection (j).
 
-**(b) Readiness Problems and Remedial Actions.—** Each report shall specifically describe—
+**(b) Readiness Problems.—** A report for the second or fourth quarter of a calendar year shall specifically describe—
 
-(1) each readiness problem and deficiency identified using the assessments considered under subsection (c);
+(1) each readiness problem and deficiency in the ground, sea, air, space, and cyber forces, and in such other such areas as determined by the Secretary of Defense, identified using the assessments considered under subsection (c); and
 
-(2) planned remedial actions; and
-
-(3) the key indicators and other relevant information related to each identified problem and deficiency.
+(2) the key indicators and other relevant information related to each identified problem and deficiency.
 
 **(c) Consideration of Readiness Assessments.—** The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
 
@@ -157,19 +155,19 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 (3) as part of any regularly established process of periodic readiness reviews for the Department of Defense as a whole.
 
-**(d) Combatant Command Assigned Mission Assessments.—**
+**(d) Combatant Command Assessments.—**
 
-(1) Each report shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
+(1) A report for the second or fourth quarter of a calendar year shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
 
-(2) For purposes of this subsection, the term “assigned mission” means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
+(2) A report for the second or fourth quarter of a calendar year under this section shall also include an assessment by each commander of a geographic or functional combatant command of the readiness of the command to conduct operations in a multidomain battle that integrates ground, air, sea, space, and cyber forces.
 
-(3) The assessment included in the report under paragraph (1) by the Commander of the United States Strategic Command shall include a separate assessment prepared by the Commander of United States Cyber Command relating to the readiness of United States Cyber Command and the readiness of the cyber force of each of the military departments.
+(3) For purposes of this subsection, the term “assigned mission” means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
 
-**(e) Risk Assessment of Dependence on Contractor Support.—** Each report shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, “Policies and Procedures for Determining Workforce Mix”.
+**(e) Risk Assessment of Dependence on Contractor Support.—** A report for the second or fourth quarter of a calendar year shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, “Policies and Procedures for Determining Workforce Mix”.
 
 **(f) Combat Support and Related Agencies Assessment.—**
 
-(1) Each report shall also include an assessment by the Secretary of Defense of the military readiness of the combat support and related agencies, including, for each such agency—
+(1) A report for the second or fourth quarter of a calendar year shall also include an assessment by the Secretary of Defense of the military readiness of the combat support and related agencies, including, for each such agency—
 
   (A) a determination with respect to the responsiveness and readiness of the agency to support operating forces in the event of a war or threat to national security, including—
 
@@ -205,7 +203,7 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 **(g) Major Exercise Assessments.—**
 
-(1) Each report under this section shall also include information on each major exercise conducted by a geographic or functional combatant command or military department, including—
+(1) A report for the second or fourth quarter of a calendar year under this section shall also include information on each major exercise conducted by a geographic or functional combatant command or military department, including—
 
   (A) a list of exercises by name for the period covered by the report;
 
@@ -219,9 +217,37 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 **(i) Classification of Reports.—** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
+**(j) Remedial Actions.—** A report for the first or third quarter of a calendar year shall include—
+
+(1) a description of the mitigation plans of the Secretary to address readiness shortfalls and operational deficiencies identified in the report submitted for the preceding calendar quarter; and
+
+(2) for each such shortfall or deficiency, a timeline for resolution, the cost necessary for such resolution, the mitigation strategy the Department will employ until the resolution is in place, and any legislative remedies required.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232, § 332(1), inserted “in the ground, sea, air, space, and cyber forces, and in such other such areas as determined by the Secretary of Defense,” after “deficiency”.
+
+Subsec. (d). Pub. L. 115–232, § 332(2)(A), struck out “Assigned Mission” after “Command” in heading.
+
+Subsec. (d)(2), (3). Pub. L. 115–232, § 332(2)(B)–(D), added par. (2), redesignated former par. (2) as (3), and struck out former par. (3) which read as follows: “The assessment included in the report under paragraph (1) by the Commander of the United States Strategic Command shall include a separate assessment prepared by the Commander of United States Cyber Command relating to the readiness of United States Cyber Command and the readiness of the cyber force of each of the military departments.”
+
+2017—Subsec. (a). Pub. L. 115–91, § 331(a)(1), substituted “The reports for the first and third quarters of a calendar year” for “Each report” and inserted at end “The reports for the second and fourth quarters of a calendar year shall contain the information required by subsection (j).”.
+
+Subsec. (b). Pub. L. 115–91, § 331(a)(2)(A), (B), in heading, struck out “and Remedial Actions” after “Problems” and in introductory provisions, substituted “A report for the second or fourth quarter of a calendar year” for “Each report”.
+
+Subsec. (b)(2), (3). Pub. L. 115–91, § 331(a)(2)(C)–(E), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “planned remedial actions; and”.
+
+Subsec. (d)(1). Pub. L. 115–91, § 331(a)(3), substituted “A report for the second or fourth quarter of a calendar year” for “Each report”.
+
+Subsec. (e). Pub. L. 115–91, § 331(a)(4), substituted “A report for the second or fourth quarter of a calendar year” for “Each report”.
+
+Subsec. (f)(1). Pub. L. 115–91, § 331(a)(5), substituted “A report for the second or fourth quarter of a calendar year” for “Each report” in introductory provisions.
+
+Subsec. (g)(1). Pub. L. 115–91, § 331(a)(6), substituted “A report for the second or fourth quarter of a calendar year” for “Each report” in introductory provisions.
+
+Subsec. (j). Pub. L. 115–91, § 331(a)(7), added subsec. (j).
+
 2016—Subsec. (a). Pub. L. 114–328, § 331(a), (b)(1), substituted “Not later than 30 days after the end of each calendar-year quarter” for “Not later than 45 days after the end of each calendar-year quarter” and “subsections (b), (d), (e), (f), and (g)” for “subsections (b), (d), (e), (f), (g), (h), and (i)”.
 
 Subsecs. (d) to (j). Pub. L. 114–328, § 331(b)(2), (3), (c), added subsec. (h), redesignated subsecs. (f) to (j) as (d) to (g) and (i), respectively, and struck out former subsecs. (d) and (e), which related to prepositioned stocks and readiness of National Guard to perform civil support missions, respectively.
@@ -340,13 +366,28 @@ Section, added Pub. L. 105–85, div. A, title III, § 323(a), Nov. 18, 1997, 11
 
 <a id="section-484"></a>
 ## § 484. Quarterly cyber operations briefings
+**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees quarterly briefings on all offensive and significant defensive military operations in cyberspace carried out by the Department of Defense during the immediately preceding quarter.
 
-The Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate quarterly briefings on all offensive and significant defensive military operations in cyberspace carried out by the Department of Defense during the immediately preceding quarter.
+**(b) Elements.—** Each briefing under subsection (a) shall include, with respect to the military operations in cyberspace described in such subsection, the following:
+
+(1) An update, set forth separately for each geographic and functional command, that describes the operations carried out by the command and any hostile cyber activity directed at the command.
+
+(2) An overview of authorities and legal issues applicable to the operations, including any relevant legal limitations.
+
+(3) An outline of any interagency activities and initiatives relating to the operations.
+
+(4) Any other matters the Secretary determines to be appropriate.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 484, added Pub. L. 105–85, div. A, title III, § 324(a)(1), Nov. 18, 1997, 111 Stat. 1677, which related to annual report on aircraft inventory, was repealed by Pub. L. 112–81, div. A, title X, § 1061(6)(A), Dec. 31, 2011, 125 Stat. 1583.
+
+#### Amendments
+2017—Pub. L. 115–91 designated existing provisions as subsec. (a), inserted heading, substituted “congressional defense committees” for “Committees on Armed Services of the House of Representatives and the Senate”, and added subsec. (b).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title XVI, § 1632(b), Dec. 12, 2017, 131 Stat. 1738, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 12, 2017], and shall apply with respect to briefings required [to] be provided under [section 484 of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-484), United States Code, on or after that date.”
 
 #### Initial Briefing
 Pub. L. 112–239, div. A, title IX, § 939(b), Jan. 2, 2013, 126 Stat. 1888, provided that: “The first briefing required under [section 484 of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-484), United States Code, as added by subsection (a), shall be provided not later than March 1, 2013.”

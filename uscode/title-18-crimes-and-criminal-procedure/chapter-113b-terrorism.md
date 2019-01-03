@@ -35,7 +35,7 @@ As used in this chapter—
 
   (B) armed conflict, whether or not war has been declared, between two or more nations; or
 
-  (C) armed conflict between military forces of any origin; and
+  (C) armed conflict between military forces of any origin;
 
 (5) the term “domestic terrorism” means activities that—
 
@@ -49,7 +49,17 @@ As used in this chapter—
 
     (iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and
 
-  (C) occur primarily within the territorial jurisdiction of the United States.
+  (C) occur primarily within the territorial jurisdiction of the United States; and
+
+(6) the term “military force” does not include any person that—
+
+  (A) has been designated as a—
+
+    (i) foreign terrorist organization by the Secretary of State under section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim)); or
+
+    (ii) specially designated global terrorist (as such term is defined in section 594.310 of title 31, Code of Federal Regulations) by the Secretary of State or the Secretary of the Treasury; or
+
+  (B) has been determined by the court to not be a “military force”.
 
 ### Statutory Notes
 
@@ -60,9 +70,14 @@ Section 101(a)(22) of the Immigration and Nationality Act, referred to in par. (
 A prior section 2331 was renumbered 2332 of this title.
 
 #### Amendments
+2018—Par. (6). Pub. L. 115–253 added par. (6).
+
 2001—Par. (1)(B)(iii). Pub. L. 107–56, § 802(a)(1), substituted “by mass destruction, assassination, or kidnapping” for “by assassination or kidnapping”.
 
 Par. (5). Pub. L. 107–56, § 802(a)(2)–(4), added par. (5).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–253, § 2(b), Oct. 3, 2018, 132 Stat. 3183, provided that: “The amendments made by this section [amending this section] shall apply to any civil action pending on or commenced after the date of the enactment of this Act [Oct. 3, 2018].”
 
 #### Effective Date
 Pub. L. 102–572, title X, § 1003(c), Oct. 29, 1992, 106 Stat. 4524, provided that: “This section [enacting this section and sections 2333 to 2338 of this title, amending former [section 2331 of this title](./chapter-113b-terrorism.md#section-2331), and renumbering former [section 2331 of this title](./chapter-113b-terrorism.md#section-2331) as 2332] and the amendments made by this section shall apply to any pending case or any cause of action arising on or after 4 years before the date of enactment of this Act [Oct. 29, 1992].”
@@ -339,7 +354,7 @@ Section, added Pub. L. 104–132, title V, § 521(a), Apr. 24, 1996, 110 Stat. 1
 
 <a id="section-2332d"></a>
 ## § 2332d. Financial transactions
-**(a) Offense.—** Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405) 11 See References in Text note below. as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
+**(a) Offense.—** Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) 11 See References in Text note below. of the Export Administration Act of 1979 (50 U.S.C. App. 2405) as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
 
 **(b) Definitions.—** As used in this section—
 
@@ -358,7 +373,7 @@ Section, added Pub. L. 104–132, title V, § 521(a), Apr. 24, 1996, 110 Stat. 1
 ### Statutory Notes
 
 #### References in Text
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (a), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim).
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (a), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), see [section 4813(c) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Codification
 Another section 2332d was renumbered [section 2332e of this title](./chapter-113b-terrorism.md#section-2332e).
@@ -683,12 +698,22 @@ Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided th
 
 (2) **Liability.—** — In an action under subsection (a) for an injury arising from an act of international terrorism committed, planned, or authorized by an organization that had been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim)), as of the date on which such act of international terrorism was committed, planned, or authorized, liability may be asserted as to any person who aids and abets, by knowingly providing substantial assistance, or who conspires with the person who committed such an act of international terrorism.
 
+**(e) Use of Blocked Assets to Satisfy Judgments of U.S. Nationals.—** For purposes of section 201 of the Terrorism Risk Insurance Act of 2002 ([28 U.S.C. 1610](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1610&num=0&edition=prelim) note), in any action in which a national of the United States has obtained a judgment against a terrorist party pursuant to this section, the term “blocked asset” shall include any asset of that terrorist party (including the blocked assets of any agency or instrumentality of that party) seized or frozen by the United States under section 805(b) of the Foreign Narcotics Kingpin Designation Act ([21 U.S.C. 1904(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1904/b&num=0&edition=prelim)).
+
 ### Statutory Notes
 
+#### References in Text
+Section 201 of the Terrorism Risk Insurance Act of 2002, referred to in subsec. (e), is section 201 of Pub. L. 107–297, of which subsecs. (a), (b), and (d) are set out as a note under [section 1610 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1610&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of section 201 to the Code, see Tables.
+
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–253 added subsec. (e).
+
 2016—Subsec. (d). Pub. L. 114–222 added subsec. (d).
 
 1994—Subsec. (b). Pub. L. 103–429 substituted “section 46314, 46502, 46505, or 46506 of title 49” for “section 902(i), (k), (l), (n), or (r) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1472(i), (k), (l), (n), or (r))”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–253, § 3(b), Oct. 3, 2018, 132 Stat. 3184, provided that: “The amendments made by this section [amending this section] shall apply to any judgment entered before, on, or after the date of enactment of this Act [Oct. 3, 2018].”
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–222, § 7, Sept. 28, 2016, 130 Stat. 855, provided that: “The amendments made by this Act [enacting [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim), Judiciary and Judicial Procedure, and amending this section and [section 1605 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim)] shall apply to any civil action— “(1) pending on, or commenced on or after, the date of enactment of this Act [Sept. 28, 2016]; and “(2) arising out of an injury to a person, property, or business on or after September 11, 2001.”
@@ -725,7 +750,38 @@ Pub. L. 112–239, div. A, title XII, § 1251(c), Jan. 2, 2013, 126 Stat. 2017, 
 
 (3) that foreign court offers a remedy which is substantially the same as the one available in the courts of the United States.
 
+**(e) Consent of Certain Parties to Personal Jurisdiction.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), for purposes of any civil action under [section 2333 of this title](./chapter-113b-terrorism.md#section-2333), a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
+
+  (A) after the date that is 120 days after the date of enactment of this subsection, accepts—
+
+    (i) any form of assistance, however provided, under chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2346&num=0&edition=prelim) et seq.);
+
+    (ii) any form of assistance, however provided, under section 481 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291&num=0&edition=prelim)) for international narcotics control and law enforcement; or
+
+    (iii) any form of assistance, however provided, under chapter 9 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2349bb](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2349bb&num=0&edition=prelim) et seq.); or
+
+  (B) in the case of a defendant benefiting from a waiver or suspension of section 1003 of the Anti-Terrorism Act of 1987 ([22 U.S.C. 5202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5202&num=0&edition=prelim)) after the date that is 120 days after the date of enactment of this subsection—
+
+    (i) continues to maintain any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States; or
+
+    (ii) establishes or procures any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States.
+
+(2) **Applicability.—** — Paragraph (1) shall not apply to any defendant who ceases to engage in the conduct described in paragraphs (1)(A) and (1)(B) for 5 consecutive calendar years.
+
 ### Statutory Notes
+
+#### References in Text
+The date of enactment of this subsection, referred to in subsec. (e)(1)(A), (B), is the date of enactment of Pub. L. 115–253, which was approved Oct. 3, 2018.
+
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. Chapter 9 of part II of the Act is classified generally to part IX (§ 2349bb et seq.) of subchapter II of chapter 32 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Subsec. (e). Pub. L. 115–253 added subsec. (e).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–253, § 4(b), Oct. 3, 2018, 132 Stat. 3185, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Oct. 3, 2018].”
 
 #### Effective Date
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under [section 2331 of this title](./chapter-113b-terrorism.md#section-2331).

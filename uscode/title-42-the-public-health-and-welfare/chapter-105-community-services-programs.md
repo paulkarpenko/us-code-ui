@@ -6738,7 +6738,7 @@ For purposes of this subchapter—
 
 (10) the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, and the Commonwealth of the Northern Mariana Islands; and
 
-(11) the term “State educational agency” has the meaning given that term under section 7801 11 See References in Text note below. of title 20.
+(11) the term “State educational agency” has the meaning given that term under section 7801 1 of title 20.
 
 ### Statutory Notes
 

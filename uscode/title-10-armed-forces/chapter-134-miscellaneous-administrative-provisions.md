@@ -369,7 +369,7 @@ The Secretary of Defense and the Secretary of each military department may pay a
 Section is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(b)], Dec. 19, 1985, 99 Stat. 1185, 1202.
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 7209 of this title](./chapter-631-secretary-of-the-navy-miscellaneous-powers-and-duties.md#section-7209) prior to repeal by Pub. L. 100–370, § 1(e)(3)(A).
+Provisions similar to those in this section were contained in [section 7209 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7209&num=0&edition=prelim) prior to repeal by Pub. L. 100–370, § 1(e)(3)(A).
 
 
 <a id="section-2253"></a>
@@ -635,40 +635,17 @@ Pub. L. 110–181, div. A, title VIII, § 882(b), Jan. 28, 2008, 122 Stat. 264, 
 
 **(c) Treatment of Excess Amounts.—** In the event the total amount of fees collected under subsection (a) with respect to a conference exceeds the actual costs of the Department of Defense with respect to the conference, the amount of such excess shall be deposited into the Treasury as miscellaneous receipts.
 
-**(d) Annual Reports.—**
+### Statutory Notes
 
-(1) Not later than 45 days after the President submits to Congress the budget for a fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary of Defense shall submit to the congressional defense committees a budget justification document summarizing the use of the fee-collection authority provided by this section.
-
-(2) Each report shall include the following:
-
-  (A) A list of all conferences conducted during the preceding two calendar years for which fees were collected under this section.
-
-  (B) For each conference included on the list under subparagraph (A):
-
-    (i) The estimated costs of the Department for the conference.
-
-    (ii) The actual costs of the Department for the conference, including a separate statement of the amount of any conference coordinator fees associated with the conference.
-
-    (iii) The amount of fees collected under this section for the conference.
-
-  (C) An estimate of the number of conferences to be conducted during the calendar year in which the report is submitted for which the Department will collect fees under this section.
+#### Amendments
+2017—Subsec. (d). Pub. L. 115–91 struck out subsec. (d) which required annual reports on conferences, including information on costs and fees collected.
 
 
 <a id="section-2263"></a>
 ## § 2263. United States contributions to the North Atlantic Treaty Organization common-funded budgets
 **(a) In General.—** The total amount contributed by the Secretary of Defense in any fiscal year for the common-funded budgets of NATO may be an amount in excess of the maximum amount that would otherwise be applicable to those contributions in such fiscal year under the fiscal year 1998 baseline limitation.
 
-**(b) Reports.—**
-
-(1) Not later than October 30 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the contributions made by the Secretary to the common-funded budgets of NATO in the preceding fiscal year.
-
-(2) Each report under paragraph (1) shall include, for the fiscal year covered by such report, the following:
-
-  (A) The amounts contributed by the Secretary to each of the separate budgets and programs of the North Atlantic Treaty Organization under the common-funded budgets of NATO.
-
-  (B) For each budget and program to which the Secretary made such a contribution, the percentage of such budget or program during the fiscal year that such contribution represented.
-
-**(c) Definitions.—** In this section:
+**(b) Definitions.—** In this section:
 
 (1) **Common-funded budgets of nato.—** — The term “common-funded budgets of NATO” means the Military Budget, the Security Investment Program, and the Civil Budget of the North Atlantic Treaty Organization (and any successor or additional account or program of NATO).
 
@@ -677,7 +654,10 @@ Pub. L. 110–181, div. A, title VIII, § 882(b), Jan. 28, 2008, 122 Stat. 264, 
 ### Statutory Notes
 
 #### References in Text
-The resolution of ratification of the Protocols to the North Atlantic Treaty of 1949 on the Accession of Poland, Hungary, and the Czech Republic approved by the Senate on April 30, 1998, referred to in subsec. (c)(2), was adopted in the 105th Congress and is not classified to the Code. See Cong. Rec., vol. 144, pt. 5, p. 7555, Apr. 30, 1998.
+The resolution of ratification of the Protocols to the North Atlantic Treaty of 1949 on the Accession of Poland, Hungary, and the Czech Republic approved by the Senate on April 30, 1998, referred to in subsec. (b)(2), was adopted in the 105th Congress and is not classified to the Code. See Cong. Rec., vol. 144, pt. 5, p. 7555, Apr. 30, 1998.
+
+#### Amendments
+2017—Subsecs. (b), (c). Pub. L. 115–91 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required annual reports on contributions to the common-funded budgets of NATO.
 
 #### Effective Date
 Pub. L. 110–417, [div. A], title X, § 1004(b), Oct. 14, 2008, 122 Stat. 4583, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2008, and shall apply to fiscal years that begin on or after that date.”
@@ -693,9 +673,9 @@ Pub. L. 110–417, [div. A], title X, § 1004(b), Oct. 14, 2008, 122 Stat. 4583,
 
 (2) for which the Department of Defense requires reimbursement under [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim) or any other provision of law; and
 
-(3) for which the Department of Defense received reimbursement after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.
+(3) for which the Department of Defense received reimbursement after December 19, 2014.
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (b)(3), is the date of the enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
+#### Amendments
+2017—Subsec. (b)(3). Pub. L. 115–91 substituted “December 19, 2014” for “the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015”.

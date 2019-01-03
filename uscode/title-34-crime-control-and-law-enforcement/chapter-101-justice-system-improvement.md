@@ -2,7 +2,7 @@
 title: 34
 chapter: '101'
 heading: JUSTICE SYSTEM IMPROVEMENT
-section_count: 217
+section_count: 227
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -27,7 +27,51 @@ Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 #### Effective Date
 Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that: “(a) Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Act note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later. “(b)(1) The amendment made by section 609F [amending sections 10281, 10282, 10284, and 10285 of this title] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984. “(2) Section 609Z [repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] shall take effect on October 1, 1984.”
 
-#### Short Title of 2017 Act
+#### Short Title of 2019 Amendment
+Pub. L. 115–424, § 1, Jan. 7, 2019, 132 Stat. 5465, provided that: “This Act [enacting [section 20342 of this title](./chapter-203-victims-of-child-abuse.md#section-20342) and amending sections 20301 to 20307, 20323, and 20333 of this title and [section 5106a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Victims of Child Abuse Act Reauthorization Act of 2018’.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–401, § 1, Dec. 31, 2018, 132 Stat. 5336, provided that: “This Act [enacting chapter 219 of this title, amending sections 40504 and 50112 of this title, and amending provisions set out as a note under [section 40504 of this title](./chapter-405-reporting-of-unidentified-and-missing-persons.md#section-40504)] may be cited as the ‘Ashanti Alert Act of 2018’.”
+
+Pub. L. 115–393, § 1(a), Dec. 21, 2018, 132 Stat. 5265, provided that: “This Act [enacting sections 11295a, 20709b, and 20709c of this title, [section 645a of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section645a&num=0&edition=prelim), Domestic Security, [section 1595A of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1595A&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 7105b of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105b&num=0&edition=prelim), Foreign Relations and Intercourse, amending sections 10381, 11291 to 11294, 11296, 11297, 12451, 20333, 20701, 20702, 20705, 20709, and 41303 of this title, [section 1232 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1232&num=0&edition=prelim), Aliens and Nationality, sections 1593A and 3056 of Title 18, and sections 7105, 7109a, 7110, and 7113 of Title 22, enacting provisions set out as a note under [section 20702 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20702), and repealing provisions set out as a note under [section 20702 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20702)] may be cited as the ‘Trafficking Victims Protection Act of 2017’.”
+
+Pub. L. 115–391, title V, § 501, Dec. 21, 2018, 132 Stat. 5222, provided that: “This title [enacting sections 10741, 60505, and 60506 of this title, amending sections 10261, 10591, 10593, 10631, 60502, 60504, 60511, 60521, 60531, and 60541 of this title, [section 3624 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3624&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 3797s—5 and 17555 of Title 42, The Public Health and Welfare, repealing sections 10581, 10633, 10681, 60532, and 60544 of this title, and enacting provisions set out as notes under [section 60501 of this title](./chapter-605-recidivism-prevention.md#section-60501) and [section 3621 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3621&num=0&edition=prelim)] may be cited as the ‘Second Chance Reauthorization Act of 2018’.”
+
+Pub. L. 115–385, § 1, Dec. 21, 2018, 132 Stat. 5123, provided that: “This Act [enacting sections 11314, 11321, and 11322 of this title, amending sections 11102, 11103, 11114, 11116, 11117, 11131 to 11133, 11161, 11162, 11182, 11280, and 11311 to 11313 of this title and [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), The Public Health and Welfare, repealing sections 11141 to 11146 and 11181 of this title and [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), enacting provisions set out as notes under this section and [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102), and amending provisions set out as a note under this section] may be cited as the ‘Juvenile Justice Reform Act of 2018’.”
+
+Pub. L. 115–274, § 1, Oct. 31, 2018, 132 Stat. 4160, provided that: “This Act [amending [section 30307 of this title](./chapter-303-prison-rape-elimination.md#section-30307) and enacting provisions set out as a note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure] may be cited as the ‘United States Parole Commission Extension Act of 2018’.”
+
+Pub. L. 115–271, title VIII, § 8091, Oct. 24, 2018, 132 Stat. 4103, provided that: “This subtitle [subtitle H (§§ 8091, 8092) of title VIII of Pub. L. 115–271, amending [section 10261 of this title](./chapter-101-justice-system-improvement.md#section-10261)] may be cited as the ‘Reauthorizing and Extending Grants for Recovery from Opioid Use Programs Act of 2018’ or the ‘REGROUP Act of 2018’.”
+
+Pub. L. 115–267, § 1, Oct. 11, 2018, 132 Stat. 3756, provided that: “This Act [enacting [section 11295a of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11295a), amending sections 11291 to 11294, 11296, and 11297 of this title, and enacting provisions set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291)] may be cited as the ‘Missing Children’s Assistance Act of 2018’.”
+
+Pub. L. 115–257, § 1, Oct. 9, 2018, 132 Stat. 3660, provided that: “This Act [amending [section 40701 of this title](./chapter-407-dna-identification.md#section-40701)] may be cited as the ‘Justice Served Act of 2018’.”
+
+Pub. L. 115–185, § 1, June 18, 2018, 132 Stat. 1485, provided that: “This Act [enacting chapter 607 of this title] may be cited as the ‘Project Safe Neighborhoods Grant Program Authorization Act of 2018’.”
+
+Pub. L. 115–166, § 1, Apr. 13, 2018, 132 Stat. 1274, provided that: “This Act [amending [section 20504 of this title](./chapter-205-amber-alert.md#section-20504)] may be cited as the ‘Ashlynne Mike AMBER Alert in Indian Country Act’.”
+
+Pub. L. 115–141, div. Q, § 1, Mar. 23, 2018, 132 Stat. 1115, provided that: “This division [enacting sections 12622 and 12623 of this title, amending sections 11293 and 12621 of this title, and enacting provisions set out as a note under this section and [section 12623 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12623)] may be cited as the ‘Kevin and Avonte’s Law of 2018’.”
+
+Pub. L. 115–141, div. Q, title I, § 101, Mar. 23, 2018, 132 Stat. 1116, provided that: “This title [enacting [section 12622 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12622) and amending [section 12621 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12621)] may be cited as the ‘Missing Americans Alert Program Act of 2018’.”
+
+Pub. L. 115–141, div. S, title V, § 501, Mar. 23, 2018, 132 Stat. 1128, provided that: “This title [enacting sections 10555 and 10556 of this title, amending sections 10551 to 10554 of this title, and repealing [section 3797e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797e&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Student, Teachers, and Officers Preventing School Violence Act of 2018’ or the ‘STOP School Violence Act of 2018’.”
+
+Pub. L. 115–141, div. S, title VI, § 601, Mar. 23, 2018, 132 Stat. 1132, provided that: “This title [enacting [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917) and amending sections 40301, 40302, 40901, 40912, and 40913 of this title] may be cited as the ‘Fix NICS Act of 2018’.”
+
+Pub. L. 115–113, § 1, Jan. 10, 2018, 131 Stat. 2276, provided that: “This Act [amending [section 10381 of this title](./chapter-101-justice-system-improvement.md#section-10381) and enacting provisions set out as notes preceding [section 50101 of this title](./chapter-501-emergency-federal-law-enforcement-assistance.md#section-50101)] may be cited as the ‘Law Enforcement Mental Health and Wellness Act of 2017’.”
+
+Pub. L. 115–107, § 1, Jan. 8, 2018, 131 Stat. 2266, provided that: “This Act [amending sections 40701 and 40723 of this title and provisions set out as a note under [section 40701 of this title](./chapter-407-dna-identification.md#section-40701)] may be cited as the ‘Sexual Assault Forensic Evidence Reporting Act of 2017’ or the ‘SAFER Act of 2017’.”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–82, § 1, Nov. 2, 2017, 131 Stat. 1266, provided that: “This Act [amending [section 21117 of this title](./chapter-211-combating-child-exploitation.md#section-21117)] may be cited as the ‘Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017’ or the ‘PROTECT Our Children Act of 2017’.”
+
+Pub. L. 115–76, § 1, Nov. 2, 2017, 131 Stat. 1246, provided that: “This Act [enacting subchapter XXXIX of chapter 101 of this title, [section 383 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section383&num=0&edition=prelim), Domestic Security, and provisions set out as a note under this section] may be cited as the ‘Strengthening State and Local Cyber Crime Fighting Act of 2017’.”
+
+Pub. L. 115–70, § 1(a), Oct. 18, 2017, 131 Stat. 1208, provided that: “This Act [enacting chapter 217 of this title and sections 2325 and 2328 of Title 18, Crimes and Criminal Procedure, amending [section 2326 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2326&num=0&edition=prelim) and [section 1397m–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397m–1&num=0&edition=prelim), The Public Health and Welfare, repealing [section 2325 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2325&num=0&edition=prelim), and enacting provisions set out as a note under this section] may be cited as the ‘Elder Abuse Prevention and Prosecution Act’.”
+
+Pub. L. 115–70, title IV, § 401, Oct. 18, 2017, 131 Stat. 1213, provided that: “This title [enacting sections 2325 and 2328 of Title 18, Crimes and Criminal Procedure, amending [section 2326 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2326&num=0&edition=prelim), and repealing [section 2325 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2325&num=0&edition=prelim)] may be cited as the ‘Robert Matava Elder Abuse Prosecution Act of 2017’.”
+
 Pub. L. 115–50, § 1, Aug. 18, 2017, 131 Stat. 1001, provided that: “This Act [amending sections 12591, 12592, 40702, and 40703 of this title] may be cited as the ‘Rapid DNA Act of 2017’.”
 
 Pub. L. 115–37, § 1, June 2, 2017, 131 Stat. 854, provided that: “This Act [amending [section 10381 of this title](./chapter-101-justice-system-improvement.md#section-10381)] may be cited as the ‘American Law Enforcement Heroes Act of 2017’.”
@@ -265,11 +309,13 @@ Pub. L. 94–430, § 1, Sept. 29, 1976, 90 Stat. 1346, provided: “That this Ac
 #### Short Title of 1974 Act
 Pub. L. 93–415, § 1, Sept. 7, 1974, 88 Stat. 1109, provided: “That this Act [see Tables for classification] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 1974’.”
 
+Pub. L. 93–415, title II, § 220, as added by Pub. L. 115–385, title II, § 204(c)(2), Dec. 21, 2018, 132 Stat. 5131, provided that: “This part [part B (§§ 220–223) of title II of Pub. L. 93–415, enacting part B of subchapter II of chapter 111 of this title] may be cited as the ‘Charles Grassley Juvenile Justice and Delinquency Prevention Program’.”
+
 Pub. L. 93–415, title III, § 301, Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 96–509, § 18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: “This title [enacting subchapter III of chapter 111 of this title] may be cited as the ‘Runaway and Homeless Youth Act’.”
 
 Pub. L. 93–415, title IV, § 401, as added by Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, § 1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title [enacting subchapter IV of chapter 111 of this title] may be cited as the ‘Missing Children’s Assistance Act’.”
 
-Pub. L. 93–415, title V, § 501, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, provided that: “This title [enacting subchapter V of chapter 111 of this title] may be cited as the ‘Incentive Grants for Local Delinquency Prevention Programs Act of 2002’.”
+Pub. L. 93–415, title V, § 501, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894; amended by Pub. L. 115–385, title III, § 301, Dec. 21, 2018, 132 Stat. 5145, provided that: “This title [enacting subchapter V of chapter 111 of this title] may be cited as the ‘Incentive Youth Promise Grants for Local Delinquency Prevention Programs Act of 2018’.”
 
 A prior section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, provided that title V (enacting subchapter V of chapter 72 of Title 42, The Public Health and Welfare) could be cited as the “Incentive Grants for Local Delinquency Prevention Programs Act”, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273, § 12222(a).
 
@@ -283,6 +329,8 @@ Pub. L. 91–644, § 1, Jan. 2, 1971, 84 Stat. 1880, provided: “That this Act 
 
 #### Short Title of 1968 Act
 Pub. L. 90–351, § 1, June 19, 1968, 82 Stat. 197, provided: “That this Act [see Tables for classification] may be cited as the ‘Omnibus Crime Control and Safe Streets Act of 1968’.”
+
+Pub. L. 90–351, title I, § 3030, as added by Pub. L. 115–76, § 3(a), Nov. 2, 2017, 131 Stat. 1247, provided that: “This part [part MM (§§ 3030–3036) of title I of Pub. L. 90–351, enacting subchapter XXXIX of chapter 101 of this title] may be cited as the ‘National White Collar Crime Control Act of 2017’.”
 
 #### Separability
 Pub. L. 90–351, title XI, § 1601, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of any part of this Act [see Short Title of 1968 Act note above] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” [Another section 1601 of Pub. L. 90–351 is classified to [section 10361 of this title](./chapter-101-justice-system-improvement.md#section-10361).]
@@ -1009,6 +1057,9 @@ Pub. L. 111–211, title II, § 251(c), July 29, 2010, 124 Stat. 2298, provided 
 
 [For definition of “Indian tribe” as used in section 251(c) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under [section 2801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2801&num=0&edition=prelim), Indians.]
 
+#### Data Collection
+Pub. L. 115–391, title VI, § 610, Dec. 21, 2018, 132 Stat. 5245, provided that: “(a) National Prisoner Statistics Program.—Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], and annually thereafter, pursuant to the authority under section 302 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3732](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3732&num=0&edition=prelim)) [now [34 U.S.C. 10132](./chapter-101-justice-system-improvement.md#section-10132)], the Director of the Bureau of Justice Statistics, with information that shall be provided by the Director of the Bureau of Prisons, shall include in the National Prisoner Statistics Program the following:“(1) The number of prisoners (as such term is defined in [section 3635 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3635&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act) who are veterans of the Armed Forces of the United States. “(2) The number of prisoners who have been placed in solitary confinement at any time during the previous year. “(3) The number of female prisoners known by the Bureau of Prisons to be pregnant, as well as the outcomes of such pregnancies, including information on pregnancies that result in live birth, stillbirth, miscarriage, abortion, ectopic pregnancy, maternal death, neonatal death, and preterm birth. “(4) The number of prisoners who volunteered to participate in a substance abuse treatment program, and the number of prisoners who have participated in such a program. “(5) The number of prisoners provided medication-assisted treatment with medication approved by the Food and Drug Administration while in custody in order to treat substance use disorder. “(6) The number of prisoners who were receiving medication-assisted treatment with medication approved by the Food and Drug Administration prior to the commencement of their term of imprisonment. “(7) The number of prisoners who are the parent or guardian of a minor child. “(8) The number of prisoners who are single, married, or otherwise in a committed relationship. “(9) The number of prisoners who have not achieved a GED, high school diploma, or equivalent prior to entering prison. “(10) The number of prisoners who, during the previous year, received their GED or other equivalent certificate while incarcerated. “(11) The numbers of prisoners for whom English is a second language. “(12) The number of incidents, during the previous year, in which restraints were used on a female prisoner during pregnancy, labor, or postpartum recovery, as well as information relating to the type of restraints used, and the circumstances under which each incident occurred. “(13) The vacancy rate for medical and healthcare staff positions, and average length of such a vacancy. “(14) The number of facilities that operated, at any time during the previous year, without at least 1 clinical nurse, certified paramedic, or licensed physician on site. “(15) The number of facilities that during the previous year were accredited by the American Correctional Association. “(16) The number and type of recidivism reduction partnerships described in [section 3621(h)(5) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3621/h/5&num=0&edition=prelim), United States Code, as added by section 102(a) of this Act, entered into by each facility. “(17) The number of facilities with remote learning capabilities. “(18) The number of facilities that offer prisoners video conferencing. “(19) Any changes in costs related to legal phone calls and visits following implementation of [section 3632(d)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/d/1&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act. “(20) The number of aliens in prison during the previous year. “(21) For each Bureau of Prisons facility, the total number of violations that resulted in reductions in rewards, incentives, or time credits, the number of such violations for each category of violation, and the demographic breakdown of the prisoners who have received such reductions. “(22) The number of assaults on Bureau of Prisons staff by prisoners and the number of criminal prosecutions of prisoners for assaulting Bureau of Prisons staff. “(23) The capacity of each recidivism reduction program and productive activity to accommodate eligible inmates at each Bureau of Prisons facility. “(24) The number of volunteers who were certified to volunteer in a Bureau of Prisons facility, broken down by level (level I and level II), and by each Bureau of Prisons facility. “(25) The number of prisoners enrolled in recidivism reduction programs and productive activities at each Bureau of Prisons facility, broken down by risk level and by program, and the number of those enrolled prisoners who successfully completed each program. “(26) The breakdown of prisoners classified at each risk level by demographic characteristics, including age, sex, race, and the length of the sentence imposed. “(b) Report to Judiciary Committees.—Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], and annually thereafter for a period of 7 years, the Director of the Bureau of Justice Statistics shall submit a report containing the information described in paragraphs (1) through (26) of subsection (a) to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.”
+
 #### Inclusion of Honor Violence in National Crime Victimization Survey
 Pub. L. 113–235, div. B, title II, Dec. 16, 2014, 128 Stat. 2191, provided in part: “That beginning not later than 2 years after the date of enactment of this Act [div. B of Pub. L. 113–235, Dec. 16, 2014], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to honor violence”.
 
@@ -1654,7 +1705,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 Section was formerly classified to [section 3763 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3763&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Prior Provisions
-A prior section 517 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, § 7(6), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 213, provided for personnel of Administration, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157..
+A prior section 517 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; Pub. L. 91–644, title I, § 7(6), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 213, provided for personnel of Administration, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 #### Amendments
 2006—Subsec. (a)(1). Pub. L. 109–162 substituted “pursuant to section 3762a” for “pursuant to section 3761 or 3762a”.
@@ -2097,8 +2148,6 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 ### Statutory Notes
 
 #### References in Text
-Provisions of title 5 relating to appointments, referred to in subsec. (c), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5.
 
 #### Codification
@@ -2710,19 +2759,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 (25)
 
-  (A) Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XXX—
-
-    (i) $50,000,000 for fiscal year 2002;
-
-    (ii) $54,000,000 for fiscal year 2003;
-
-    (iii) $58,000,000 for fiscal year 2004; and 88 So in original. The word “and” probably should not appear.
-
-    (iv) $60,000,000 for fiscal year 2005.99 So in original. The period probably should be a semicolon.
-
-    (v) 1010 So in original. Two cls. (v) have been enacted. $70,000,000 for each of fiscal years 2007 and 2008.1111 So in original. The period probably should be “; and”.
-
-    (v) 10 $70,000,000 for fiscal year 2006.
+  (A) Except as provided in subparagraph (C), there is authorized to be appropriated to carry out subchapter XXX $75,000,000 for each of fiscal years 2018 through 2023.
 
   (B) The Attorney General shall reserve not less than 1 percent and not more than 4.5 percent of the sums appropriated for this program in each fiscal year for research and evaluation of this program.
 
@@ -2730,7 +2767,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 (26) There are authorized to be appropriated to carry out subchapter XXVIII $10,000,000 for each of fiscal years 2009 and 2010.
 
-(27) There are authorized to be appropriated to carry out subchapter XXXVIII $103,000,000 for each of fiscal years 2017 through 2021.
+(27) There are authorized to be appropriated to carry out subchapter XXXVIII $103,000,000 for each of fiscal years 2017 and 2018, and $330,000,000 for each of fiscal years 2019 through 2023.
+
+(28) There are authorized to be appropriated to carry out section 10741(a)(4) 1 of subchapter XL $5,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
 
 **(b)** Funds appropriated for any fiscal year may remain available for obligation until expended.
 
@@ -2745,12 +2784,32 @@ Part V, referred to in subsec. (a)(3), (20), is former part V of title I of Pub.
 
 Section 2401(c) of title II of Division B of the 21st Century Department of Justice Appropriations Authorization Act, referred to in subsec. (a)(25)(C), probably means section 2301(c) of title II of div. B of Pub. L. 107–273, Nov. 2, 2002, 116 Stat. 1798, which is not classified to the Code. Pub. L. 107–273 does not contain a section 2401.
 
+Section 10741(a)(4) of subchapter XL, referred to in subsec. (a)(28), was in the original “section 3031(a)(4) of part NN”, and was translated as meaning section 3041(a)(4) of part NN of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Part NN only comprises section 3041.
+
 #### Codification
 Section was formerly classified to [section 3793 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3793&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 Another section 1001 of Pub. L. 90–351 enacted [section 7313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (a)(25)(A). Pub. L. 115–271, § 8206, substituted “Except as provided in subparagraph (C), there is authorized to be appropriated to carry out subchapter XXX $75,000,000 for each of fiscal years 2018 through 2023.” for “Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XXX—
+
+“(i) $50,000,000 for fiscal year 2002;
+
+“(ii) $54,000,000 for fiscal year 2003;
+
+“(iii) $58,000,000 for fiscal year 2004; and
+
+“(iv) $60,000,000 for fiscal year 2005.
+
+“(v) $70,000,000 for each of fiscal years 2007 and 2008.
+
+“(v) $70,000,000 for fiscal year 2006.”
+
+Subsec. (a)(27). Pub. L. 115–271, § 8092, substituted “and 2018, and $330,000,000 for each of fiscal years 2019 through 2023” for “through 2021”.
+
+Subsec. (a)(28). Pub. L. 115–391, § 502(c)(3), added par. (28).
+
 2016—Subsec. (a)(23). Pub. L. 114–155 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “There are authorized to be appropriated to carry out subchapter XII–M of this chapter, $25,000,000 for each of fiscal years 1999 through 2001, and $50,000,000 for each of fiscal years 2002 through 2012.”
 
 Subsec. (a)(24)(J) to (N). Pub. L. 114–324 added subpars. (J) to (N).
@@ -3587,6 +3646,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ### Statutory Notes
 
+#### References in Text
 The September 11th Victim Compensation Fund of 2001, referred to in subsec. (e)(2)(O)(i), is title IV of Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 237, which is set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
 
 #### Codification
@@ -3647,7 +3707,7 @@ On and after December 26, 2007, funds available to conduct appeals under section
 ### Statutory Notes
 
 #### References in Text
-The 1968 Act, referred to in text, is the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1205(c) of the Act is classified to [section 10285(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10285/c&num=0&edition=prelim). Subparts 1 and 2 of such part L means subparts 1 and 2 of part L of title I of the Act which are classified generally to this part and part B (§ 10301 et seq.) of this subchapter. Sections 1001(a)(4) and 1202 of such title I mean sections 1001(a)(4) and 1202 of title I of the Act, which are classified to sections 10261(a)(4) and 10282, respectively, of this title. Paragraphs (2) and (3) of such section 1202 mean pars. (2) and (3) of [section 10282 of this title](./chapter-101-justice-system-improvement.md#section-10282), which were redesignated subsec. (a)(2) and (3), respectively, of that section by Pub. L. 115–36, § 5(1), June 2, 2017, 131. Stat. 852. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+The 1968 Act, referred to in text, is the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Section 1205(c) of the Act is classified to [section 10285(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10285/c&num=0&edition=prelim). Subparts 1 and 2 of such part L means subparts 1 and 2 of part L of title I of the Act which are classified generally to this part and part B (§ 10301 et seq.) of this subchapter. Sections 1001(a)(4) and 1202 of such title I mean sections 1001(a)(4) and 1202 of title I of the Act, which are classified to sections 10261(a)(4) and 10282, respectively, of this title. Paragraphs (2) and (3) of such section 1202 mean pars. (2) and (3) of [section 10282 of this title](./chapter-101-justice-system-improvement.md#section-10282), which were redesignated subsec. (a)(2) and (3), respectively, of that section by Pub. L. 115–36, § 5(1), June 2, 2017, 131 Stat. 852. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 #### Codification
 Section was enacted as part of the Department of Justice Appropriations Act, 2008, and also as part of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008, and the Consolidated Appropriations Act, 2008, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
@@ -3736,7 +3796,7 @@ Section was formerly classified to [section 3796d of Title 42](https://uscode.ho
 Section was formerly classified to [section 3796d–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796d–1&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-2017—Subsec. (c). Pub. L. 115–36 designated existing provisions as par. (1) and inserted heading, substituted “Subject to paragraph (2), no child for “No child”, and added par. (2).
+2017—Subsec. (c). Pub. L. 115–36 designated existing provisions as par. (1) and inserted heading, substituted “Subject to paragraph (2), no child” for “No child”, and added par. (2).
 
 2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(G), substituted “person” for “dependent” wherever appearing.
 
@@ -4369,7 +4429,7 @@ Section was formerly classified to [section 3796cc–6 of Title 42](https://usco
 
 (11) to establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
 
-(12) to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities;
+(12) to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
 
 (13) to develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
 
@@ -4391,9 +4451,11 @@ Section was formerly classified to [section 3796cc–6 of Title 42](https://usco
 
 (20) to provide specialized training to corrections officers to recognize individuals who have a mental illness;
 
-(21) to enhance the ability of corrections officers to address the mental health of individuals under the care and custody of jails and prisons, including specialized training and strategies for verbal de-escalation of crises; and
+(21) to enhance the ability of corrections officers to address the mental health of individuals under the care and custody of jails and prisons, including specialized training and strategies for verbal de-escalation of crises;
 
-(22) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (21).
+(22) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (21); and
+
+(23) to establish peer mentoring mental health and wellness pilot programs within State, tribal, and local law enforcement agencies.
 
 **(c) Preferential consideration of applications for certain grants** In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to an application—
 
@@ -4457,7 +4519,11 @@ Section was formerly classified to [section 3796cc–6 of Title 42](https://usco
 
 (4) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2011 through 2015.
 
-**(k) Report** Not later than 180 days after July 29, 2010, the Attorney General shall submit to Congress a report describing the extent and effectiveness of the Community Oriented Policing (COPS) initiative as applied in Indian country, including particular references to—
+**(k) COPS anti-meth program** The Attorney General shall use amounts otherwise appropriated to carry out this section for a fiscal year (beginning with fiscal year 2019) to make competitive grants, in amounts of not less than $1,000,000 for such fiscal year, to State law enforcement agencies with high seizures of precursor chemicals, finished methamphetamine, laboratories, and laboratory dump seizures for the purpose of locating or investigating illicit activities, such as precursor diversion, laboratories, or methamphetamine traffickers.
+
+**(l) COPS anti-heroin task force program** The Attorney General shall use amounts otherwise appropriated to carry out this section, or other amounts as appropriated, for a fiscal year (beginning with fiscal year 2019) to make competitive grants to State law enforcement agencies in States with high per capita rates of primary treatment admissions, for the purpose of locating or investigating illicit activities, through Statewide collaboration, relating to the distribution of heroin, fentanyl, or carfentanil or relating to the unlawful distribution of prescription opioids.
+
+**(m) Report** Not later than 180 days after July 29, 2010, the Attorney General shall submit to Congress a report describing the extent and effectiveness of the Community Oriented Policing (COPS) initiative as applied in Indian country, including particular references to—
 
 (1) the problem of intermittent funding;
 
@@ -4477,6 +4543,16 @@ Section was formerly classified to [section 3796dd of Title 42](https://uscode.h
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to [section 10541 of this title](./chapter-101-justice-system-improvement.md#section-10541).
 
 #### Amendments
+2018—Subsec. (b)(12). Pub. L. 115–393 inserted before semicolon at end “, including the training of school resource officers in the prevention of human trafficking offenses”.
+
+Subsec. (b)(23). Pub. L. 115–113 added par. (23).
+
+Subsec. (k). Pub. L. 115–271, § 8210, added subsec. (k). Former subsec. (k) redesignated (l), then (m).
+
+Subsec. (l). Pub. L. 115–271, § 8211, added subsec. (l).
+
+Subsec. (m). Pub. L. 115–271 redesignated subsec. (k) as (l), then (m).
+
 2017—Subsec. (b)(2). Pub. L. 115–37 inserted “, including by prioritizing the hiring and training of veterans (as defined in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim))” after “Nation”.
 
 2016—Subsec. (b)(17). Pub. L. 114–199, § 2(1), (3), added par. (17). Former par. (17) redesignated (18).
@@ -5046,7 +5122,7 @@ Funds or a portion of funds allocated under this subchapter may be used by a Sta
 Section was formerly classified to [section 3796ee–6 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796ee–6&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
-A prior section 1806 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1822, and classified to former [section 3796ee–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796ee–5&num=0&edition=prelim), The Public Health and Welfare, required each State and unit of local government to submit an annual evaluation of programs, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub.L. 107–273.
+A prior section 1806 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, § 20201(a)(3), Sept. 13, 1994, 108 Stat. 1822, and classified to former [section 3796ee–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796ee–5&num=0&edition=prelim), The Public Health and Welfare, required each State and unit of local government to submit an annual evaluation of programs, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
 
 <a id="section-10408"></a>
@@ -5552,7 +5628,7 @@ Pub. L. 106–386, div. B, title IV, § 1405, Oct. 28, 2000, 114 Stat. 1515, pro
 
 (1) shall have sole jurisdiction over all duties and functions described in [section 10444 of this title](./chapter-101-justice-system-improvement.md#section-10444); and
 
-(2) shall be solely responsible for coordination with other departments, agencies, or offices of all activities authorized or undertaken under the Violence Against Women Act of 1994 (title VI 11 So in original. Probably should be “title IV”. of Public 103–322) and the Violence Against Women Act of 2000 (Division B of Public Law 106–386).
+(2) shall be solely responsible for coordination with other departments, agencies, or offices of all activities authorized or undertaken under the Violence Against Women Act of 1994 (title VI of Public 103–322) 11 So in original. Probably should be “(title IV of Public Law 103–322)”. and the Violence Against Women Act of 2000 (Division B of Public Law 106–386).
 
 ### Statutory Notes
 
@@ -5715,9 +5791,9 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
   (J) other entities that the State or the Attorney General identifies as needed for the planning process;
 
-(3) grantees shall coordinate the State implementation plan described in paragraph (2) with the State plans described in [section 10407 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10407&num=0&edition=prelim) and the programs described in [section 20103 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20103) and [section 280b–1b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280b–1b&num=0&edition=prelim).
+(3) grantees shall coordinate the State implementation plan described in paragraph (2) with the State plans described in [section 10407 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10407&num=0&edition=prelim) and the programs described in [section 20103 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20103) and [section 280b–1b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280b–1b&num=0&edition=prelim).22 So in original. The period should probably be a semicolon.
 
-(4) 22 So in original. There are two pars. designated “(4)”. of the amount granted—
+(4) 33 So in original. There are two pars. designated “(4)”. of the amount granted—
 
   (A) not less than 25 percent shall be allocated for law enforcement;
 
@@ -5725,11 +5801,11 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
   (C) not less than 30 percent shall be allocated for victims services of which at least 10 percent shall be distributed to culturally specific community-based organizations; and
 
-  (D) not less than 5 percent shall be allocated to State and local courts (including juvenile courts); and
+  (D) not less than 5 percent shall be allocated to State and local courts (including juvenile courts); and 44 So in original. The word “and” probably should not appear.
 
-(4) 2 any Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.33 See References in Text note below.
+(4) 3 any Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.2, 55 See References in Text note below.
 
-(5) not later than 2 years after the date of enactment of this Act,3 and every year thereafter, not less than 20 percent of the total amount granted to a State under this subchapter 3 shall be allocated for programs or projects in 2 or more allocations listed in paragraph (4) that meaningfully address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
+(5) not later than 2 years after the date of enactment of this Act,5 and every year thereafter, not less than 20 percent of the total amount granted to a State under this subchapter 5 shall be allocated for programs or projects in 2 or more allocations listed in paragraph (4) that meaningfully address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
 
 **(d) Application requirements** An application for a grant under this section shall include—
 
@@ -5751,7 +5827,7 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
   (A) disburse the appropriate sums provided for under this subchapter; or
 
-  (B) inform the applicant why the application does not conform to the terms of section 10181 3 of this title or to the requirements of this section.
+  (B) inform the applicant why the application does not conform to the terms of section 10181 5 of this title or to the requirements of this section.
 
 (2) **Regulations** — In disbursing monies under this subchapter, the Attorney General shall issue regulations to ensure that States will—
 
@@ -5765,7 +5841,7 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
 (3) **Conditions** — In disbursing grants under this subchapter, the Attorney General may impose reasonable conditions on grant awards to ensure that the States meet statutory, regulatory, and other program requirements.
 
-**(f) Federal share** The Federal share of a grant made under this subchapter 3 may not exceed 75 percent of the total costs of the projects described in the application submitted, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under [section 12291(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/b/1&num=0&edition=prelim) shall not count toward the total costs of the projects.
+**(f) Federal share** The Federal share of a grant made under this subchapter 5 may not exceed 75 percent of the total costs of the projects described in the application submitted, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under [section 12291(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/b/1&num=0&edition=prelim) shall not count toward the total costs of the projects.
 
 **(g) Indian tribes** Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter.
 
@@ -5817,7 +5893,7 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
 (1) funds from a subgrant awarded under this subchapter are returned to the State; or
 
-(2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4) 44 So in original. Probably should be followed by a period.
+(2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4) 66 So in original. Probably should be followed by a period.
 
 ### Statutory Notes
 
@@ -7437,7 +7513,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ### Statutory Notes
 
 #### References in Text
-The Justice System Improvement Act of 1979, referred to in subsec. (e), is Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter (§ 10101 et seq.). For complete classification of this Act to the Code, see Short Title of 1979 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+The Justice System Improvement Act of 1979, referred to in subsec. (e), is Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1979 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 Subchapter V of this chapter, referred to in subsec. (h), was repealed and former subchapter VI was redesignated as V by Pub. L. 98–473, title II, §§ 607, 608(e), Oct. 12, 1984, 98 Stat. 2086, 2087, which was also repealed and a new subchapter V enacted by Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
@@ -7465,35 +7541,59 @@ The operations of the Law Enforcement Assistance Administration were closed out 
 
 <a id="section-10551"></a>
 ## § 10551. Program authorized
-**(a) In general** The Director of the Office of Community Oriented Policing Services (in this section referred to as the “Director”) is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.
+**(a) In general**
 
-**(b) Uses of funds** Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used to improve security at schools and on school grounds in the jurisdiction of the grantee through one or more of the following:
+(1) **COPS grants** — The Director of the Office of Community Oriented Policing Services (referred to in this subchapter as the “COPS Director”) is authorized to make grants to States, units of local government, and Indian tribes for the purposes described in paragraphs (5) through (9) of subsection (b).
 
-(1) Placement and use of metal detectors, locks, lighting, and other deterrent measures.
+(2) **BJA grants** — The Director of the Bureau of Justice Assistance (referred to in this subchapter as the “BJA Director”) is authorized to make grants to States, units of local government, and Indian tribes for the purposes described in paragraphs (1) through (4) of subsection (b).
 
-(2) Security assessments.
+**(b) Uses of funds** Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used to improve security at schools and on school grounds in the jurisdiction of the grantee through evidence-based school safety programs that may include one or more of the following:
 
-(3) Security training of personnel and students.
+(1) Training school personnel and students to prevent student violence against others and self.
 
-(4) The development and operation of crisis intervention teams that may include coordination with law enforcement agencies and specialized training for school officials in responding to mental health crises.
+(2) The development and operation of anonymous reporting systems for threats of school violence, including mobile telephone applications, hotlines, and Internet websites.
+
+(3) The development and operation of—
+
+  (A) school threat assessment and intervention teams that may include coordination with law enforcement agencies and school personnel; and
+
+  (B) specialized training for school officials in responding to mental health crises.
+
+(4) Any other measure that, in the determination of the BJA Director, may provide a significant improvement in training, threat assessments and reporting, and violence prevention.
 
 (5) Coordination with local law enforcement.
 
-(6) Any other measure that, in the determination of the Director, may provide a significant improvement in security.
+(6) Training for local law enforcement officers to prevent student violence against others and self.
 
-**(c) Preferential consideration** In awarding grants under this subchapter, the Director shall give preferential consideration, if feasible, to an application from a jurisdiction that has a demonstrated need for improved security, has a demonstrated need for financial assistance, and has evidenced the ability to make the improvements for which the grant amounts are sought.
+(7) Placement and use of metal detectors, locks, lighting, and other deterrent measures.
 
-**(d) Matching funds**
+(8) Acquisition and installation of technology for expedited notification of local law enforcement during an emergency.
 
-(1) The portion of the costs of a program provided by a grant under subsection (a) may not exceed 50 percent.
+(9) Any other measure that, in the determination of the COPS Director, may provide a significant improvement in security.
+
+**(c) Contracts and subawards** A State, unit of local government, or Indian tribe may, in using a grant under this subchapter for purposes authorized under subsection (b), use the grant to contract with or make 1 or more subawards to 1 or more—
+
+(1) local educational agencies;
+
+(2) nonprofit organizations, excluding schools; or
+
+(3) units of local government or tribal organizations.
+
+**(d) Services and benefits for schools** An entity that receives a subaward or contract under subsection (c) may use such funds to provide services or benefits described under subsection (b) to 1 or more schools.
+
+**(e) Preferential consideration** In awarding grants under this subchapter, the COPS Director and the BJA Director shall give preferential consideration, if feasible, to an application from a jurisdiction that has a demonstrated need for improved security, has a demonstrated need for financial assistance, has evidenced the ability to make the improvements for which the grant amounts are sought, and will use evidence-based strategies and programs, such as those identified by the Comprehensive School Safety Initiative of the Department of Justice.
+
+**(f) Matching funds**
+
+(1) The portion of the costs of a program provided by a grant under subsection (a) may not exceed 75 percent.
 
 (2) Any funds appropriated by Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of a matching requirement funded under this subsection.
 
-(3) The Director may provide, in the guidelines implementing this section, for the requirement of paragraph (1) to be waived or altered in the case of a recipient with a financial need for such a waiver or alteration.
+(3) The COPS Director and the BJA Director may each provide, in the guidelines implementing this section, for the requirement of paragraph (1) to be waived or altered in the case of a recipient with a financial need for such a waiver or alteration.
 
-**(e) Equitable distribution** In awarding grants under this subchapter, the Director shall ensure, to the extent practicable, an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.
+**(g) Equitable distribution** In awarding grants under this subchapter, the COPS Director and the BJA shall each ensure, to the extent practicable, an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.
 
-**(f) Administrative costs** The Director may reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
+**(h) Administrative costs** The COPS Director and the BJA Director may each reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
 
 ### Statutory Notes
 
@@ -7501,6 +7601,36 @@ The operations of the Law Enforcement Assistance Administration were closed out 
 Section was formerly classified to [section 3797a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141, § 502(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’) is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.”
+
+Subsec. (b). Pub. L. 115–141, § 502(1)(B), inserted “evidence-based school safety programs that may include” after “through” in introductory provisions, added pars. (1) to (9), and struck out former pars. (1) to (6) which read as follows:
+
+“(1) Placement and use of metal detectors, locks, lighting, and other deterrent measures.
+
+“(2) Security assessments.
+
+“(3) Security training of personnel and students.
+
+“(4) The development and operation of crisis intervention teams that may include coordination with law enforcement agencies and specialized training for school officials in responding to mental health crises.
+
+“(5) Coordination with local law enforcement.
+
+“(6) Any other measure that, in the determination of the Director, may provide a significant improvement in security.”
+
+Subsecs. (c), (d). Pub. L. 115–141, § 502(1)(D), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+
+Subsec. (e). Pub. L. 115–141, § 502(1)(C), (E), redesignated subsec. (c) as (e), substituted “COPS Director and the BJA Director” for “Director” and “has evidenced” for “and has evidenced” and inserted before period at end “, and will use evidence-based strategies and programs, such as those identified by the Comprehensive School Safety Initiative of the Department of Justice”. Former subsec. (e) redesignated (g).
+
+Subsec. (f). Pub. L. 115–141, § 502(1)(C), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
+
+Subsec. (f)(1). Pub. L. 115–141, § 502(1)(F)(i), substituted “75 percent” for “50 percent”.
+
+Subsec. (f)(3). Pub. L. 115–141, § 502(1)(F)(ii), substituted “COPS Director and the BJA Director may each” for “Director may”.
+
+Subsec. (g). Pub. L. 115–141, § 502(1)(C), (G), redesignated subsec. (e) as (g) and substituted “COPS Director and the BJA shall each” for “Director shall”.
+
+Subsec. (h). Pub. L. 115–141, § 502(1)(C), (H), redesignated subsec. (f) as (h) and substituted “COPS Director and the BJA Director may each” for “Director may”.
+
 2016—Subsec. (b)(4) to (6). Pub. L. 114–255 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 2006—Subsec. (a). Pub. L. 109–271, § 8(j)(1), substituted “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’)” for “The Attorney General, acting through the Office of Community Oriented Policing Services,”.
@@ -7512,21 +7642,31 @@ Subsecs. (b) to (f). Pub. L. 109–271, § 8(j)(2), substituted “Director” f
 
 <a id="section-10552"></a>
 ## § 10552. Applications
-**(a) In general** To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the Director at such time, in such manner, and accompanied by such information as the Director may require. Each application shall—
+**(a) In general** To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the COPS Director or the BJA Director, as the case may be, at such time, in such manner, and accompanied by such information as the COPS Director or the BJA Director may require. Each application shall—
 
 (1) include a detailed explanation of—
 
   (A) the intended uses of funds provided under the grant; and
 
-  (B) how the activities funded under the grant will meet the purpose of this subchapter; and
+  (B) how the activities funded under the grant will meet the purpose of this subchapter;
 
-(2) be accompanied by an assurance that the application was prepared after consultation with individuals not limited to law enforcement officers (such as school violence researchers, child psychologists, social workers, teachers, principals, and other school personnel) to ensure that the improvements to be funded under the grant are—
+(2) be accompanied by an assurance that the application was prepared after consultation with individuals not limited to law enforcement officers (such as school violence researchers, licensed mental health professionals, social workers, teachers, principals, and other school personnel) to ensure that the improvements to be funded under the grant are—
 
   (A) consistent with a comprehensive approach to preventing school violence; and
 
-  (B) individualized to the needs of each school at which those improvements are to be made.
+  (B) individualized to the needs of each school at which those improvements are to be made;
 
-**(b) Guidelines** Not later than 90 days after October 28, 2000, the Director shall promulgate guidelines to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
+(3) include an assurance that the applicant shall maintain and report such data, records, and information (programmatic and financial) as the COPS Director or the BJA Director may reasonably require;
+
+(4) include a certification, made in a form acceptable to the COPS Director or the BJA Director, as the case may be, that—
+
+  (A) the programs to be funded by the grant meet all the requirements of this subchapter;
+
+  (B) all the information contained in the application is correct; and
+
+  (C) the applicant will comply with all provisions of this subchapter and all other applicable Federal laws.
+
+**(b) Guidelines** Not later than 90 days after March 23, 2018, the COPS Director and the BJA Director shall each promulgate guidelines to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
 
 ### Statutory Notes
 
@@ -7534,13 +7674,22 @@ Subsecs. (b) to (f). Pub. L. 109–271, § 8(j)(2), substituted “Director” f
 Section was formerly classified to [section 3797b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797b&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141, § 502(2)(A)(i), in introductory provisions, substituted “the COPS Director or the BJA Director, as the case may be,” for “the Director” after “application to” and “the COPS Director or the BJA Director may” for “the Director may”.
+
+Subsec. (a)(2). Pub. L. 115–141, § 502(2)(A)(iii)(I), substituted “licensed mental health professionals” for “child psychologists” in introductory provisions.
+
+Subsec. (a)(3), (4). Pub. L. 115–141, § 502(2)(A)(ii), (iii)(II), (iv), added pars. (3) and (4).
+
+Subsec. (b). Pub. L. 115–141, § 502(2)(B), substituted “March 23, 2018” for “October 28, 2000” and “COPS Director and the BJA Director shall each” for “Director shall”.
+
 2006—Pub. L. 109–271 substituted “Director” for “Attorney General” wherever appearing.
 
 
 <a id="section-10553"></a>
-## § 10553. Annual report to Congress
+## § 10553. Annual report to Congress; grant accountability
+**(a) Annual report** Not later than November 30th of each year, the COPS Director and the BJA Director shall each submit a report to the Congress regarding the activities carried out under this subchapter. Each such report shall include, for the preceding fiscal year, the number of grants funded under this subchapter, the amount of funds provided under those grants, and the activities for which those funds were used.
 
-Not later than November 30th of each year, the Director shall submit a report to the Congress regarding the activities carried out under this subchapter. Each such report shall include, for the preceding fiscal year, the number of grants funded under this subchapter, the amount of funds provided under those grants, and the activities for which those funds were used.
+**(b) Grant accountability** [Section 10706 of this title](./chapter-101-justice-system-improvement.md#section-10706) (relating to grant accountability) shall apply to grants awarded by the COPS Director and the BJA Director under this subchapter. For purposes of the preceding sentence, any references in [section 10706 of this title](./chapter-101-justice-system-improvement.md#section-10706) to the Attorney General shall be considered references to the COPS Director or the BJA Director, as appropriate, and any references in that section to subchapter XXXVIII shall be considered references to this subchapter.
 
 ### Statutory Notes
 
@@ -7548,6 +7697,10 @@ Not later than November 30th of each year, the Director shall submit a report to
 Section was formerly classified to [section 3797c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797c&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Pub. L. 115–141, § 502(3)(A), inserted “; grant accountability” after “Congress” in section catchline.
+
+Pub. L. 115–141, § 502(3)(B)–(D), designated existing provisions as subsec. (a), inserted heading, and substituted “COPS Director and the BJA Director shall each” for “Director shall”, and added subsec. (b).
+
 2006—Pub. L. 109–271 substituted “Director” for “Attorney General”.
 
 
@@ -7556,16 +7709,76 @@ Section was formerly classified to [section 3797c of Title 42](https://uscode.ho
 
 For purposes of this subchapter—
 
-(1) the term “school” means a public elementary or secondary school;
+(1) the term “school” means an elementary or secondary school, including a Bureau-funded school (as defined in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim);
 
-(2) the term “unit of local government” means a county, municipality, town, township, village, parish, borough, or other unit of general government below the State level; and
+(2) the term “unit of local government” means a county, municipality, town, township, village, parish, borough, or other unit of general government below the State level;
 
-(3) the term “Indian tribe” has the same meaning as in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
+(3) the term “Indian tribe” has the same meaning as in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim);
+
+(4) the term “evidence-based” means a program, practice, technology, or equipment that—
+
+  (A) demonstrates a statistically significant effect on relevant outcomes based on—
+
+    (i) strong evidence from not less than 1 well-designed and well-implemented experimental study;
+
+    (ii) moderate evidence from not less than 1 well-designed and well-implemented quasi-experimental study; or
+
+    (iii) promising evidence from not less than 1 well-designed and well-implemented correlational study with statistical controls for selection bias;
+
+  (B) demonstrates a rationale based on high-quality research findings or positive evaluation that such program, practice, technology, or equipment is likely to improve relevant outcomes, and includes ongoing efforts to examine the effects of the program, practice, technology, or equipment; or
+
+  (C) in the case of technology or equipment, demonstrates that use of the technology or equipment is—
+
+    (i) consistent with best practices for school security, including—
+
+      (I) applicable standards for school security established by a Federal or State government agency; and
+
+      (II) findings and recommendations of public commissions and task forces established to make recommendations or set standards for school security; and
+
+    (ii) compliant with all applicable codes, including building and life safety codes; and
+
+(5) the term “tribal organization” has the same meaning given the term in section 5304(l) of title 25.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 3797d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797d&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Par. (1). Pub. L. 115–141, § 502(4)(A), substituted “an” for “a public” and inserted “, including a Bureau-funded school (as defined in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim)” after “secondary school”.
+
+Pars. (4), (5). Pub. L. 115–141, § 502(4)(B)–(D), added pars. (4) and (5).
+
+
+<a id="section-10555"></a>
+## § 10555. Authorization of appropriations
+**(a) In general** There are authorized to be appropriated—
+
+(1) $75,000,000 for fiscal year 2018, of which—
+
+  (A) $50,000,000 shall be made available to the BJA Director to carry out this subchapter; and
+
+  (B) $25,000,000 shall be made available to the COPS Director to carry out this subchapter; and
+
+(2) $100,000,000 for each of fiscal years 2019 through 2028, of which, for each fiscal year—
+
+  (A) $67,000,000 shall be made available to the BJA Director to carry out this subchapter; and
+
+  (B) $33,000,000 shall be made available to the COPS Director to carry out this subchapter.
+
+**(b) Offset** Any funds appropriated for the Comprehensive School Safety Initiative of the National Institute of Justice in fiscal year 2018 shall instead be used for the purposes in subsection (a).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 2705 of title I of Pub. L. 90–351, as added Pub. L. 106–386, div. B, title I, § 1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–162, title XI, § 1169(a), Jan. 5, 2006, 119 Stat. 3122, was classified to [section 3797e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797e&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by section 502(5) of title V of div. S of Pub. L. 115–141.
+
+
+<a id="section-10556"></a>
+## § 10556. Rules of construction
+**(a) No funds to provide firearms or training** No amounts provided as a grant under this subchapter may be used for the provision to any person of a firearm or training in the use of a firearm.
+
+**(b) No effect on other laws** Nothing in this subchapter may be construed to preclude or contradict any other provision of law authorizing the provision of firearms or training in the use of firearms.
 
 
 <a id="section-10561"></a>
@@ -7766,185 +7979,21 @@ Subsec. (a)(3), (4). Pub. L. 107–273, § 5001(b)(5)(C)–(E), added par. (3) a
 
 
 <a id="section-10581"></a>
-## § 10581. Mental health and drug treatment alternatives to incarceration programs
-**(a) Definitions** In this section—
-
-(1) the term “eligible entity” means a State, unit of local government, Indian tribe, or nonprofit organization; and
-
-(2) the term “eligible participant” means an individual who—
-
-  (A) comes into contact with the criminal justice system or is arrested or charged with an offense that is not—
-
-    (i) a crime of violence, as defined under applicable State law or in [section 3156 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3156&num=0&edition=prelim); or
-
-    (ii) a serious drug offense, as defined in [section 924(e)(2)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section924/e/2/A&num=0&edition=prelim);
-
-  (B) has a history of, or a current—
-
-    (i) substance use disorder;
-
-    (ii) mental illness; or
-
-    (iii) co-occurring mental illness and substance use disorder; and
-
-  (C) has been approved for participation in a program funded under this section by the relevant law enforcement agency, prosecuting attorney, defense attorney, probation official, corrections official, judge, representative of a mental health agency, or representative of a substance abuse agency, as required by law.
-
-**(b) Program authorized** The Attorney General may make grants to eligible entities to develop, implement, or expand a treatment alternative to incarceration program for eligible participants, including—
-
-(1) pre-booking treatment alternative to incarceration programs, including—
-
-  (A) law enforcement training on substance use disorders, mental illness, and co-occurring mental illness and substance use disorders;
-
-  (B) receiving centers as alternatives to incarceration of eligible participants;
-
-  (C) specialized response units for calls related to substance use disorders, mental illness, or co-occurring mental illness and substance use disorders; and
-
-  (D) other arrest and pre-booking treatment alternatives to incarceration models; or
-
-(2) post-booking treatment alternative to incarceration programs, including—
-
-  (A) specialized clinical case management;
-
-  (B) pre-trial services related to substances 11 So in original. Probably should be “substance”. use disorders, mental illness, and co-occurring mental illness and substance use disorders;
-
-  (C) prosecutor and defender based programs;
-
-  (D) specialized probation;
-
-  (E) treatment and rehabilitation programs; and
-
-  (F) problem-solving courts, including mental health courts, drug courts, co-occurring mental health and substance abuse courts, DWI courts, and veterans treatment courts.
-
-**(c) Application**
-
-(1) **In general** — An eligible entity desiring a grant under this section shall submit an application to the Attorney General—
-
-  (A) that meets the criteria under paragraph (2); and
-
-  (B) at such time, in such manner, and accompanied by such information as the Attorney General may require.
-
-(2) **Criteria** — An eligible entity, in submitting an application under paragraph (1), shall—
-
-  (A) provide extensive evidence of collaboration with State and local government agencies overseeing health, community corrections, courts, prosecution, substance abuse, mental health, victims services, and employment services, and with local law enforcement agencies;
-
-  (B) demonstrate consultation with the Single State Authority for Substance Abuse of the State (as that term is defined in [section 60521(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60521/e&num=0&edition=prelim));
-
-  (C) demonstrate that evidence-based treatment practices will be utilized; and
-
-  (D) demonstrate that evidence-based screening and assessment tools will be used to place participants in the treatment alternative to incarceration program.
-
-**(d) Requirements** Each eligible entity awarded a grant for a treatment alternative to incarceration program under this section shall—
-
-(1) determine the terms and conditions of participation in the program by eligible participants, taking into consideration the collateral consequences of an arrest, prosecution or criminal conviction;
-
-(2) ensure that each substance abuse and mental health treatment component is licensed and qualified by the relevant jurisdiction;
-
-(3) for programs described in subsection (b)(2), organize an enforcement unit comprised of appropriately trained law enforcement professionals under the supervision of the State, Tribal, or local criminal justice agency involved, the duties of which shall include—
-
-  (A) the verification of addresses and other contact information of each eligible participant who participates or desires to participate in the program; and
-
-  (B) if necessary, the location, apprehension, arrest, and return to custody of an eligible participant in the program who has absconded from the facility of a treatment provider or has otherwise significantly violated the terms and conditions of the program, consistent with Federal and State confidentiality requirements;
-
-(4) notify the relevant criminal justice entity if any eligible participant in the program absconds from the facility of the treatment provider or otherwise violates the terms and conditions of the program, consistent with Federal and State confidentiality requirements;
-
-(5) submit periodic reports on the progress of treatment or other measured outcomes from participation in the program of each eligible participant in the program to the relevant State, Tribal, or local criminal justice agency, including mental health courts, drug courts, co-occurring mental health and substance abuse courts, DWI courts, and veterans treatment courts;
-
-(6) describe the evidence-based methodology and outcome measurements that will be used to evaluate the program, and specifically explain how such measurements will provide valid measures of the impact of the program; and
-
-(7) describe how the program could be broadly replicated if demonstrated to be effective.
-
-**(e) Use of funds** An eligible entity shall use a grant received under this section for expenses of a treatment alternative to incarceration program, including—
-
-(1) salaries, personnel costs, equipment costs, and other costs directly related to the operation of the program, including the enforcement unit;
-
-(2) payments for treatment providers that are approved by the relevant State or Tribal jurisdiction and licensed, if necessary, to provide needed treatment to eligible offenders participating in the program, including aftercare supervision, vocational training, education, and job placement; and
-
-(3) payments to public and nonprofit private entities that are approved by the State or Tribal jurisdiction and licensed, if necessary, to provide alcohol and drug addiction treatment to eligible offenders participating in the program.
-
-**(f) Supplement not supplant** An eligible entity shall use Federal funds received under this section only to supplement the funds that would, in the absence of those Federal funds, be made available from other Federal and non-Federal sources for the activities described in this section, and not to supplant those funds. The Federal share of a grant made under this section may not exceed 50 percent of the total costs of the program described in an application under subsection (d).
-
-**(g) Geographic distribution** The Attorney General shall ensure that, to the extent practicable, the geographical distribution of grants under this section is equitable and includes a grant to an eligible entity in—
-
-(1) each State;
-
-(2) rural, suburban, and urban areas; and
-
-(3) Tribal jurisdictions.
-
-**(h) Reports and evaluations** Each fiscal year, each recipient of a grant under this section during that fiscal year shall submit to the Attorney General a report on the outcomes of activities carried out using that grant in such form, containing such information, and on such dates as the Attorney General shall specify.
-
-**(i) Accountability** All grants awarded by the Attorney General under this section shall be subject to the following accountability provisions:
-
-(1) **Audit requirement**
-
-  (A) *Definition* — In this paragraph, the term “unresolved audit finding” means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date on which the final audit report is issued.
-
-  (B) *Audits* — Beginning in the first fiscal year beginning after December 13, 2016, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
-
-  (C) *Mandatory exclusion* — A recipient of grant funds under this section that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this section during the first 2 fiscal years beginning after the end of the 12-month period described in subparagraph (A).
-
-  (D) *Priority* — In awarding grants under this section, the Attorney General shall give priority to eligible applicants that did not have an unresolved audit finding during the 3 fiscal years before submitting an application for a grant under this section.
-
-  (E) *Reimbursement* — If an entity is awarded grant funds under this section during the 2-fiscal-year period during which the entity is barred from receiving grants under subparagraph (C), the Attorney General shall—
-
-    (i) deposit an amount equal to the amount of the grant funds that were improperly awarded to the grantee into the General Fund of the Treasury; and
-
-    (ii) seek to recoup the costs of the repayment to the fund from the grant recipient that was erroneously awarded grant funds.
-
-(2) **Nonprofit organization requirements**
-
-  (A) *Definition* — For purposes of this paragraph and the grant programs under this subchapter, the term “nonprofit organization” means an organization that is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and is exempt from taxation under section 501(a) of such title.
-
-  (B) *Prohibition* — The Attorney General may not award a grant under this subchapter to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in [section 511(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section511/a&num=0&edition=prelim).
-
-  (C) *Disclosure* — Each nonprofit organization that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
-
-(3) **Conference expenditures**
-
-  (A) *Limitation* — No amounts made available to the Department of Justice under this section may be used by the Attorney General, or by any individual or entity awarded discretionary funds through a cooperative agreement under this section, to host or support any expenditure for conferences that uses more than $20,000 in funds made available by the Department of Justice, unless the head of the relevant agency or department, provides prior written authorization that the funds may be expended to host the conference.
-
-  (B) *Written approval* — Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment.
-
-  (C) *Report* — The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all conference expenditures approved under this paragraph.
-
-(4) **Annual certification** — Beginning in the first fiscal year beginning after December 13, 2016, the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification—
-
-  (A) indicating whether—
-
-    (i) all audits issued by the Office of the Inspector General under paragraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
-
-    (ii) all mandatory exclusions required under paragraph (1)(C) have been issued; and
-
-    (iii) all reimbursements required under paragraph (1)(E) have been made; and
-
-  (B) that includes a list of any grant recipients excluded under paragraph (1) from the previous year.
-
-(5) **Preventing duplicative grants**
-
-  (A) *In general* — Before the Attorney General awards a grant to an applicant under this section, the Attorney General shall compare potential grant awards with other grants awarded under this Act to determine if duplicate grant awards are awarded for the same purpose.
-
-  (B) *Report* — If the Attorney General awards duplicate grants to the same applicant for the same purpose the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes—
-
-    (i) a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
-
-    (ii) the reason the Attorney General awarded the duplicate grants.
+## § 10581. Repealed. Pub. L. 115–391, title V, § 504(g)(2), Dec. 21, 2018, 132 Stat. 5234
 
 ### Statutory Notes
 
-#### References in Text
-This Act, referred to in subsec. (i)(5)(A), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+Section, Pub. L. 90–351, title I, § 2901, as added Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298, related to mental health and drug treatment alternatives to incarceration programs.
 
-#### Codification
 Section was formerly classified to [section 3797q of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797q&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### Prior Provisions
 A prior section 2901 of title I of Pub. L. 90–351, as added Pub. L. 110–199, title I, § 112(a), Apr. 9, 2008, 122 Stat. 672, authorized the Attorney General to make grants for qualified drug treatment programs as alternatives to imprisonment, prior to repeal by Pub. L. 114–255, div. B, title XIV, § 14013, Dec. 13, 2016, 130 Stat. 1298.
 
 
 <a id="section-10591"></a>
 ## § 10591. Grants authorized
 
-The Attorney General may make grants to States, units of local government, territories, and Indian Tribes to—
+The Attorney General may make grants to States, units of local government, territories, nonprofit organizations, and Indian Tribes to—
 
 (1) develop, implement, and expand comprehensive and clinically-appropriate family-based substance abuse treatment programs as alternatives to incarceration for nonviolent parent drug offenders; and
 
@@ -7956,6 +8005,8 @@ The Attorney General may make grants to States, units of local government, terri
 Section was formerly classified to [section 3797s of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797s&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–391 inserted “nonprofit organizations,” before “and Indian” in introductory provisions.
+
 2016—Par. (2). Pub. L. 114–198 inserted before period at end “or pregnant women”.
 
 #### Construction of 2008 Amendment
@@ -8014,10 +8065,19 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
 (3) The program shall be located in an area separate from the general population of the prison.
 
+**(c) Priority considerations** The Attorney General shall give priority consideration to grant applications for grants under [section 10591 of this title](./chapter-101-justice-system-improvement.md#section-10591) that are submitted by a nonprofit organization that demonstrates a relationship with State and local criminal justice agencies, including—
+
+(1) within the judiciary and prosecutorial agencies; or
+
+(2) with the local corrections agencies, which shall be documented by a written agreement that details the terms of access to facilities and participants and provides information on the history of the organization of working with correctional populations.
+
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 3797s–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797s–2&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–391 added subsec. (c).
 
 #### Construction of 2008 Amendment
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of this title](./chapter-605-recidivism-prevention.md#section-60504).
@@ -8051,6 +8111,24 @@ An entity that receives a grant under this subchapter during a fiscal year shall
 
 #### Codification
 Section was formerly classified to [section 3797s–4 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797s–4&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Construction of 2008 Amendment
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of this title](./chapter-605-recidivism-prevention.md#section-60504).
+
+
+<a id="section-10595a"></a>
+## § 10595a. Authorization of appropriations
+**(a) In general** There are authorized to be appropriated to carry out this subchapter $10,000,000 for each of fiscal years 2019 through 2023.
+
+**(b) Use of amounts** Of the amount made available to carry out this subchapter in any fiscal year, not less than 5 percent shall be used for grants to Indian Tribes.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 3797s–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797s–5&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–391 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter $10,000,000 for each of fiscal years 2009 and 2010.”
 
 #### Construction of 2008 Amendment
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of this title](./chapter-605-recidivism-prevention.md#section-60504).
@@ -8327,7 +8405,7 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
 <a id="section-10631"></a>
 ## § 10631. Adult and juvenile offender State and local reentry demonstration projects
-**(a) Grant authorization** The Attorney General shall make grants of up to $1,000,000 to States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.
+**(a) Grant authorization** The Attorney General shall make grants to States, local governments, territories, or Indian tribes, or any combination thereof (in this section referred to as an “eligible entity”), in partnership with interested persons (including Federal corrections and supervision agencies), service providers, and nonprofit organizations for the purpose of strategic planning and implementation of adult and juvenile offender reentry projects.
 
 **(b) Adult offender reentry demonstration projects** Funds for adult offender demonstration projects may be expended for—
 
@@ -8335,7 +8413,7 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
 (2) providing substance abuse treatment and services (including providing a full continuum of substance abuse treatment services that encompasses outpatient and comprehensive residential services and recovery);
 
-(3) providing coordinated supervision and comprehensive services for offenders upon release from prison, jail, or a juvenile facility, including housing and mental and physical health care to facilitate re-entry into the community, and which, to the extent applicable, are provided by community-based entities (including coordinated reentry veteran-specific services for eligible veterans);
+(3) providing coordinated supervision and comprehensive services for offenders upon release from prison, jail, or a juvenile facility, including housing and mental and physical health care to facilitate re-entry into the community, or reentry courts, and which, to the extent applicable, are provided by community-based entities (including coordinated reentry veteran-specific services for eligible veterans);
 
 (4) providing programs that—
 
@@ -8345,63 +8423,113 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
 (5) encouraging the involvement of prison, jail, or juvenile facility mentors in the reentry process and enabling those mentors to remain in contact with offenders while in custody and after reentry into the community;
 
-(6) providing victim-appropriate services, encouraging the timely and complete payment of restitution and fines by offenders to victims, and providing services such as security and counseling to victims upon release of offenders; and
+(6) providing victim-appropriate services, encouraging the timely and complete payment of restitution and fines by offenders to victims, and providing services such as security and counseling to victims upon release of offenders;
 
-(7) protecting communities against dangerous offenders by using validated assessment tools to assess the risk factors of returning inmates and developing or adopting procedures to ensure that dangerous felons are not released from prison prematurely.
+(7) protecting communities against dangerous offenders by using validated assessment tools to assess the risk factors of returning inmates and developing or adopting procedures to ensure that dangerous felons are not released from prison prematurely; and
+
+(8) promoting employment opportunities consistent with the Transitional Jobs strategy (as defined in [section 60502 of this title](./chapter-605-recidivism-prevention.md#section-60502)).
 
 **(c) Juvenile offender reentry demonstration projects** Funds for the juvenile offender reentry demonstration projects may be expended for any activity described in subsection (b).
 
-**(d) Applications** A State, unit of local government, territory, or Indian Tribe, or combination thereof, desiring a grant under this section shall submit an application to the Attorney General that—
+**(d) Combined grant application; priority consideration**
 
-(1) contains a reentry strategic plan, as described in subsection (h), which describes the long-term strategy and incorporates a detailed implementation schedule, including the plans of the applicant to pay for the program after the Federal funding is discontinued;
+(1) **In general** — The Attorney General shall develop a procedure to allow applicants to submit a single application for a planning grant under subsection (e) and an implementation grant under subsection (f).
 
-(2) identifies the local government role and the role of governmental agencies and nonprofit organizations that will be coordinated by, and that will collaborate on, the offender reentry strategy of the applicant, and certifies the involvement of such agencies and organizations;
+(2) **Priority consideration** — The Attorney General shall give priority consideration to grant applications under subsections (e) and (f) that include a commitment by the applicant to partner with a local evaluator to identify and analyze data that will—
 
-(3) describes the evidence-based methodology and outcome measures that will be used to evaluate the program funded with a grant under this section, and specifically explains how such measurements will provide valid measures of the impact of that program; and
+  (A) enable the grantee to target the intended offender population; and
 
-(4) describes how the project could be broadly replicated if demonstrated to be effective.
+  (B) serve as a baseline for purposes of the evaluation.
 
-**(e) Requirements** The Attorney General may make a grant to an applicant under this section only if the application—
+**(e) Planning grants**
 
-(1) reflects explicit support of the chief executive officer of the State, unit of local government, territory, or Indian Tribe applying for a grant under this section;
+(1) **In general** — Except as provided in paragraph (3), the Attorney General may make a grant to an eligible entity of not more than $75,000 to develop a strategic, collaborative plan for an adult or juvenile offender reentry demonstration project as described in subsection (h) that includes—
 
-(2) provides extensive discussion of the role of State corrections departments, community corrections agencies, juvenile justice systems, or local jail systems in ensuring successful reentry of offenders into their communities;
+  (A) a budget and a budget justification;
 
-(3) provides extensive evidence of collaboration with State and local government agencies overseeing health, housing, child welfare, education, substance abuse, victims services, and employment services, and with local law enforcement agencies;
+  (B) a description of the outcome measures that will be used to measure the effectiveness of the program in promoting public safety and public health;
 
-(4) provides a plan for analysis of the statutory, regulatory, rules-based, and practice-based hurdles to reintegration of offenders into the community; and
+  (C) the activities proposed;
 
-(5) includes the use of a State, local, territorial, or Tribal task force, described in subsection (i), to carry out the activities funded under the grant.
+  (D) a schedule for completion of the activities described in subparagraph (C); and
 
-**(f) Priority considerations** The Attorney General shall give priority to grant applications under this section that best—
+  (E) a description of the personnel necessary to complete the activities described in subparagraph (C).
 
-(1) focus initiative on geographic areas with a disproportionate population of offenders released from prisons, jails, and juvenile facilities;
+(2) **Maximum total grants and geographic diversity**
 
-(2) include—
+  (A) *Maximum amount* — The Attorney General may not make initial planning grants and implementation grants to 1 eligible entity in a total amount that is more than a $1,000,000.
 
-  (A) input from nonprofit organizations, in any case where relevant input is available and appropriate to the grant application;
+  (B) *Geographic diversity* — The Attorney General shall make every effort to ensure equitable geographic distribution of grants under this section and take into consideration the needs of underserved populations, including rural and tribal communities.
 
-  (B) consultation with crime victims and offenders who are released from prisons, jails, and juvenile facilities; and
+(3) **Period of grant** — A planning grant made under this subsection shall be for a period of not longer than 1 year, beginning on the first day of the month in which the planning grant is made.
 
-  (C) coordination with families of offenders;
+**(f) Implementation grants**
 
-(3) demonstrate effective case assessment and management abilities in order to provide comprehensive and continuous reentry, including—
+(1) **Applications** — An eligible entity desiring an implementation grant under this subsection shall submit to the Attorney General an application that—
 
-  (A) planning while offenders are in prison, jail, or a juvenile facility, prerelease transition housing, and community release;
+  (A) contains a reentry strategic plan as described in subsection (h), which describes the long-term strategy and incorporates a detailed implementation schedule, including the plans of the applicant to fund the program after Federal funding is discontinued;
 
-  (B) establishing prerelease planning procedures to ensure that the eligibility of an offender for Federal or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services; and
+  (B) identifies the local government role and the role of governmental agencies and nonprofit organizations that will be coordinated by, and that will collaborate on, the offender reentry strategy of the applicant, and certifies the involvement of such agencies and organizations;
 
-  (C) delivery of continuous and appropriate mental health services, drug treatment, medical care, job training and placement, educational services, or any other service or support needed for reentry;
+  (C) describes the evidence-based methodology and outcome measures that will be used to evaluate the program funded with a grant under this subsection, and specifically explains how such measurements will provide valid measures of the impact of that program; and
 
-(4) review the process by which the applicant adjudicates violations of parole, probation, or supervision following release from prison, jail, or a juvenile facility, taking into account public safety and the use of graduated, community-based sanctions for minor and technical violations of parole, probation, or supervision (specifically those violations that are not otherwise, and independently, a violation of law);
+  (D) describes how the project could be broadly replicated if demonstrated to be effective.
 
-(5) provide for an independent evaluation of reentry programs that include, to the maximum extent possible, random assignment and controlled studies to determine the effectiveness of such programs;
+(2) **Requirements** — The Attorney General may make a grant to an applicant under this subsection only if the application—
 
-(6) target high-risk offenders for reentry programs through validated assessment tools;
+  (A) reflects explicit support of the chief executive officer, or their designee, of the State, unit of local government, territory, or Indian tribe applying for a grant under this subsection;
 
-(7) provide mental health treatment and transitional services for those with mental illnesses or with co-occurring disorders, including housing placement or assistance; and
+  (B) provides discussion of the role of Federal corrections, State corrections departments, community corrections agencies, juvenile justice systems, and tribal or local jail systems in ensuring successful reentry of offenders into their communities;
 
-(8) target offenders with histories of homelessness, substance abuse, or mental illness, including a prerelease assessment of the housing status of the offender and behavioral health needs of the offender with clear coordination with mental health, substance abuse, and homelessness services systems to achieve stable and permanent housing outcomes with appropriate support service.
+  (C) provides evidence of collaboration with State, local, or tribal government agencies overseeing health, housing, child welfare, education, substance abuse, victims services, and employment services, and with local law enforcement agencies;
+
+  (D) provides a plan for analysis of the statutory, regulatory, rules-based, and practice-based hurdles to reintegration of offenders into the community;
+
+  (E) includes the use of a State, local, territorial, or tribal task force, described in subsection (i), to carry out the activities funded under the grant;
+
+  (F) provides a plan for continued collaboration with a local evaluator as necessary to meeting the requirements under subsection (h); and
+
+  (G) demonstrates that the applicant participated in the planning grant process or engaged in comparable planning for the reentry project.
+
+(3) **Priority considerations** — The Attorney General shall give priority to grant applications under this subsection that best—
+
+  (A) focus initiative on geographic areas with a disproportionate population of offenders released from prisons, jails, and juvenile facilities;
+
+  (B) include—
+
+    (i) input from nonprofit organizations, in any case where relevant input is available and appropriate to the grant application;
+
+    (ii) consultation with crime victims and offenders who are released from prisons, jails, and juvenile facilities;
+
+    (iii) coordination with families of offenders;
+
+    (iv) input, where appropriate, from the juvenile justice coordinating council of the region;
+
+    (v) input, where appropriate, from the reentry coordinating council of the region; or
+
+    (vi) input, where appropriate, from other interested persons;
+
+  (C) demonstrate effective case assessment and management abilities in order to provide comprehensive and continuous reentry, including—
+
+    (i) planning for prerelease transitional housing and community release that begins upon admission for juveniles and jail inmates, and, as appropriate, for prison inmates, depending on the length of the sentence;
+
+    (ii) establishing prerelease planning procedures to ensure that the eligibility of an offender for Federal, tribal, or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services, including assistance identifying and securing suitable housing; or
+
+    (iii) delivery of continuous and appropriate mental health services, drug treatment, medical care, job training and placement, educational services, vocational services, and any other service or support needed for reentry;
+
+  (D) review the process by which the applicant adjudicates violations of parole, probation, or supervision following release from prison, jail, or a juvenile facility, taking into account public safety and the use of graduated, community-based sanctions for minor and technical violations of parole, probation, or supervision (specifically those violations that are not otherwise, and independently, a violation of law);
+
+  (E) provide for an independent evaluation of reentry programs that include, to the maximum extent possible, random assignment and controlled studies to determine the effectiveness of such programs;
+
+  (F) target moderate and high-risk offenders for reentry programs through validated assessment tools; or
+
+  (G) target offenders with histories of homelessness, substance abuse, or mental illness, including a prerelease assessment of the housing status of the offender and behavioral health needs of the offender with clear coordination with mental health, substance abuse, and homelessness services systems to achieve stable and permanent housing outcomes with appropriate support service.
+
+(4) **Period of grant** — A grant made under this subsection shall be effective for a 2-year period—
+
+  (A) beginning on the date on which the planning grant awarded under subsection (e) concludes; or
+
+  (B) in the case of an implementation grant awarded to an eligible entity that did not receive a planning grant, beginning on the date on which the implementation grant is awarded.
 
 **(g) Uses of grant funds**
 
@@ -8419,19 +8547,27 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
 **(h) Reentry strategic plan**
 
-(1) **In general** — As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.
+(1) **In general** — As a condition of receiving financial assistance under subsection (f), each application shall develop a comprehensive reentry strategic plan that—
 
-(2) **Coordination** — In developing a reentry plan under this subsection, an applicant shall coordinate with communities and stakeholders, including persons in the fields of public safety, juvenile and adult corrections, housing, health, education, substance abuse, children and families, victims services, employment, and business and members of nonprofit organizations that can provide reentry services.
+  (A) contains a plan to assess inmate reentry needs and measurable annual and 3-year performance outcomes;
 
-(3) **Measurements of progress** — Each reentry plan developed under this subsection shall measure the progress of the applicant toward increasing public safety by reducing rates of recidivism and enabling released offenders to transition successfully back into their communities.
+  (B) uses, to the maximum extent possible, randomly assigned and controlled studies, or rigorous quasi-experimental studies with matched comparison groups, to determine the effectiveness of the program funded with a grant under subsection (f); and
+
+  (C) includes as a goal of the plan to reduce the rate of recidivism for offenders released from prison, jail or a juvenile facility with funds made available under subsection (f).
+
+(2) **Local evaluator** — A partnership with a local evaluator described in subsection (d)(2) shall require the local evaluator to use the baseline data and target population characteristics developed under a subsection (e) planning grant to derive a target goal for recidivism reduction during the 3-year period beginning on the date of implementation of the program.
+
+(3) **Coordination** — In developing a reentry plan under this subsection, an applicant shall coordinate with communities and stakeholders, including persons in the fields of public safety, juvenile and adult corrections, housing, health, education, substance abuse, children and families, victims services, employment, and business and members of nonprofit organizations that can provide reentry services.
+
+(4) **Measurements of progress** — Each reentry plan developed under this subsection shall measure the progress of the applicant toward increasing public safety by reducing rates of recidivism and enabling released offenders to transition successfully back into their communities.
 
 **(i) Reentry Task Force**
 
-(1) **In general** — As a condition of receiving financial assistance under this section, each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
+(1) **In general** — As a condition of receiving financial assistance under subsection (f), each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
 
   (A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders’ time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
 
-  (B) provide the analysis described in subsection (e)(4).
+  (B) provide the analysis described in subsection (f)(2)(D).
 
 (2) **Membership** — The task force or other authority under this subsection shall be comprised of—
 
@@ -8449,7 +8585,7 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
 **(j) Strategic performance outcomes**
 
-(1) **In general** — Each applicant shall identify in the reentry strategic plan developed under subsection (h), specific performance outcomes relating to the long-term goals of increasing public safety and reducing recidivism.
+(1) **In general** — Each applicant for an implementation grant under subsection (f) shall identify in the reentry strategic plan developed under subsection (h), specific performance outcomes relating to the long-term goals of increasing public safety and reducing recidivism.
 
 (2) **Performance outcomes** — The performance outcomes identified under paragraph (1) shall include, with respect to offenders released back into the community—
 
@@ -8461,19 +8597,33 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
   (D) reduction in violations of conditions of supervised release;
 
-  (E) increased payment of child support;
+  (E) increased payment of child support, where appropriate;
 
-  (F) increased housing opportunities;
+  (F) increased number of staff trained to administer reentry services;
 
-  (G) reduction in drug and alcohol abuse; and
+  (G) increased proportion of individuals served by the program among those eligible to receive services;
 
-  (H) increased participation in substance abuse and mental health services.
+  (H) increased number of individuals receiving risk screening needs assessment, and case planning services;
 
-(3) **Other outcomes** — A grantee under this section may include in the reentry strategic plan developed under subsection (h) other performance outcomes that increase the success rates of offenders who transition from prison, jails, or juvenile facilities.
+  (I) increased enrollment in, and completion of treatment services, including substance abuse and mental health services among those assessed as needing such services;
 
-(4) **Coordination** — A grantee under this section shall coordinate with communities and stakeholders about the selection of performance outcomes identified by the applicant, and shall consult with the Attorney General for assistance with data collection and measurement activities as provided for in the grant application materials.
+  (J) increased enrollment in and degrees earned from educational programs, including high school, GED, vocational training, and college education;
 
-(5) **Report** — Each grantee under this section shall submit to the Attorney General an annual report that—
+  (K) increased number of individuals obtaining and retaining employment;
+
+  (L) increased number of individuals obtaining and maintaining housing;
+
+  (M) increased self-reports of successful community living, including stability of living situation and positive family relationships;
+
+  (N) reduction in drug and alcohol use; and
+
+  (O) reduction in recidivism rates for individuals receiving reentry services after release, as compared to either baseline recidivism rates in the jurisdiction of the grantee or recidivism rates of the control or comparison group.
+
+(3) **Other outcomes** — A grantee under this section may include in the reentry strategic plan developed under subsection (h) other performance outcomes that increase the success rates of offenders who transition from prison, jails, or juvenile facilities, including a cost-benefit analysis to determine the cost effectiveness of the reentry program.
+
+(4) **Coordination** — A grantee under subsection (f) shall coordinate with communities and stakeholders about the selection of performance outcomes identified by the applicant, and shall consult with the Attorney General for assistance with data collection and measurement activities as provided for in the grant application materials.
+
+(5) **Report** — Each grantee under subsection (f) shall submit to the Attorney General an annual report that—
 
   (A) identifies the progress of the grantee toward achieving its strategic performance outcomes; and
 
@@ -8481,15 +8631,15 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
 **(k) Performance measurement**
 
-(1) **In general** — The Attorney General, in consultation with grantees under this section, shall—
+(1) **In general** — The Attorney General, in consultation with grantees under subsection (f), shall—
 
-  (A) identify primary and secondary sources of information to support the measurement of the performance indicators identified under this section;
+  (A) identify primary and secondary sources of information to support the measurement of the performance indicators identified under subsection (f);
 
-  (B) identify sources and methods of data collection in support of performance measurement required under this section;
+  (B) identify sources and methods of data collection in support of performance measurement required under subsection (f);
 
-  (C) provide to all grantees technical assistance and training on performance measures and data collection for purposes of this section; and
+  (C) provide to all grantees technical assistance and training on performance measures and data collection for purposes of subsection (f); and
 
-  (D) consult with the Substance Abuse and Mental Health Services Administration and the National Institute on Drug Abuse on strategic performance outcome measures and data collection for purposes of this section relating to substance abuse and mental health.
+  (D) consult with the Substance Abuse and Mental Health Services Administration and the National Institute on Drug Abuse on strategic performance outcome measures and data collection for purposes of subsection (f) relating to substance abuse and mental health.
 
 (2) **Coordination** — The Attorney General shall coordinate with other Federal agencies to identify national and other sources of information to support performance measurement of grantees.
 
@@ -8499,11 +8649,11 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
 (1) the grantee has adopted a reentry plan that reflects input from nonprofit organizations, in any case where relevant input is available and appropriate to the grant application;
 
-(2) the reentry plan of the grantee includes performance measures to assess progress of the grantee toward a 10 percent reduction in the rate of recidivism over a 2-year period;
+(2) the reentry plan of the grantee includes performance measures to assess progress of the grantee toward a 10 percent reduction in the rate of recidivism over a 2-year period beginning on the date on which the most recent implementation grant is made to the grantee under subsection (f);
 
 (3) the grantee will coordinate with the Attorney General, nonprofit organizations (if relevant input from nonprofit organizations is available and appropriate), and other experts regarding the selection and implementation of the performance measures described in subsection (k); and
 
-(4) the grantee has made adequate progress, as determined by the Attorney General, toward reducing the rate of recidivism by 10 percent over a 2-year period.
+(4) the grantee has made adequate progress, as determined by the Attorney General, toward reducing the rate of recidivism by 10 percent during the 2-year period described in paragraph (2).
 
 **(m) National Adult and Juvenile Offender Reentry Resource Center**
 
@@ -8545,13 +8695,55 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 
 **(o) Authorization of appropriations**
 
-(1) **In general** — To carry out this section, there are authorized to be appropriated $55,000,000 for each of fiscal years 2009 and 2010.
+(1) **In general** — To carry out this section, there are authorized to be appropriated $35,000,000 for each of fiscal years 2019 through 2023.
 
 (2) **Limitation; equitable distribution**
 
   (A) *Limitation* — Of the amount made available to carry out this section for any fiscal year, not more than 3 percent or less than 2 percent may be used for technical assistance and training.
 
   (B) *Equitable distribution* — The Attorney General shall ensure that grants awarded under this section are equitably distributed among the geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
+
+**(p) Definition** In this section, the term “reentry court” means a program that—
+
+(1) monitors juvenile and adult eligible offenders reentering the community;
+
+(2) provides continual judicial supervision;
+
+(3) provides juvenile and adult eligible offenders reentering the community with coordinated and comprehensive reentry services and programs, such as—
+
+  (A) drug and alcohol testing and assessment for treatment;
+
+  (B) assessment for substance abuse from a substance abuse professional who is approved by the State or Indian tribe and licensed by the appropriate entity to provide alcohol and drug addiction treatment, as appropriate;
+
+  (C) substance abuse treatment, including medication-assisted treatment, from a provider that is approved by the State or Indian tribe, and licensed, if necessary, to provide medical and other health services;
+
+  (D) health (including mental health) services and assessment;
+
+  (E) aftercare and case management services that—
+
+    (i) facilitate access to clinical care and related health services; and
+
+    (ii) coordinate with such clinical care and related health services; and
+
+  (F) any other services needed for reentry;
+
+(4) convenes community impact panels, victim impact panels, or victim impact educational classes;
+
+(5) provides and coordinates the delivery of community services to juvenile and adult eligible offenders, including—
+
+  (A) housing assistance;
+
+  (B) education;
+
+  (C) job training;
+
+  (D) conflict resolution skills training;
+
+  (E) batterer intervention programs; and
+
+  (F) other appropriate social services; and
+
+(6) establishes and implements graduated sanctions and incentives.
 
 ### Statutory Notes
 
@@ -8562,6 +8754,50 @@ Section was formerly classified to [section 3797u–8 of Title 42](https://uscod
 Section was formerly classified to [section 3797w of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797w&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–391, § 502(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Attorney General shall make grants of up to $1,000,000 to States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.”
+
+Subsec. (b)(3). Pub. L. 115–391, § 502(a)(2)(A), inserted “or reentry courts,” after “community,”.
+
+Subsec. (b)(8). Pub. L. 115–391, § 502(a)(2)(B)–(D), added par. (8).
+
+Subsecs. (d) to (f). Pub. L. 115–391, § 502(a)(3), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to applications, requirements, and priority considerations for grants, respectively.
+
+Subsec. (h)(1), (2). Pub. L. 115–391, § 502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text read as follows: “As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.” Former par. (2) redesignated (3).
+
+Subsec. (h)(3), (4). Pub. L. 115–391, § 502(a)(4)(A), redesignated pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (i)(1). Pub. L. 115–391, § 502(a)(5)(A), substituted “under subsection (f)” for “under this section” in introductory provisions.
+
+Subsec. (i)(1)(B). Pub. L. 115–391, § 502(a)(5)(B), substituted “subsection (f)(2)(D)” for “subsection (e)(4)”.
+
+Subsec. (j)(1). Pub. L. 115–391, § 502(a)(6)(A), inserted “for an implementation grant under subsection (f)” after “applicant”.
+
+Subsec. (j)(2)(E). Pub. L. 115–391, § 502(a)(6)(B)(i), inserted “, where appropriate” after “support”.
+
+Subsec. (j)(2)(F) to (O). Pub. L. 115–391, § 502(a)(6)(B)(ii), added subpars. (F) to (O) and struck out former subpars. (F) to (H) which read as follows:
+
+“(F) increased housing opportunities;
+
+“(G) reduction in drug and alcohol abuse; and
+
+“(H) increased participation in substance abuse and mental health services.”
+
+Subsec. (j)(3). Pub. L. 115–391, § 502(a)(6)(C), substituted “facilities, including a cost-benefit analysis to determine the cost effectiveness of the reentry program.” for “facilities.”
+
+Subsec. (j)(4). Pub. L. 115–391, § 502(a)(6)(D), substituted “subsection (f)” for “this section”.
+
+Subsec. (j)(5). Pub. L. 115–391, § 502(a)(6)(E), substituted “subsection (f)” for “this section” in introductory provisions.
+
+Subsec. (k)(1). Pub. L. 115–391, § 502(a)(7), substituted “subsection (f)” for “this section” wherever appearing.
+
+Subsec. (l)(2). Pub. L. 115–391, § 502(a)(8)(A), inserted “beginning on the date on which the most recent implementation grant is made to the grantee under subsection (f)” after “2-year period”.
+
+Subsec. (l)(4). Pub. L. 115–391, § 502(a)(8)(B), substituted “during the 2-year period described in paragraph (2)” for “over a 2-year period”.
+
+Subsec. (o)(1). Pub. L. 115–391, § 502(a)(9), substituted “appropriated $35,000,000 for each of fiscal years 2019 through 2023.” for “appropriated $55,000,000 for each of fiscal years 2009 and 2010.”
+
+Subsec. (p). Pub. L. 115–391, § 502(a)(10), added subsec. (p).
+
 2016—Subsec. (f)(3)(C). Pub. L. 114–255, § 14009(a)(1), inserted “mental health services,” before “drug treatment”.
 
 Subsec. (f)(7). Pub. L. 114–255, § 14006, added par. (7).
@@ -8621,114 +8857,13 @@ Section was formerly classified to [section 3797w–1 of Title 42](https://uscod
 
 
 <a id="section-10633"></a>
-## § 10633. State, Tribal, and local reentry courts
-**(a) Grants authorized** The Attorney General may award grants, in accordance with this section, of not more than $500,000 to—
-
-(1) State, Tribal, and local courts; and
-
-(2) State agencies, municipalities, public agencies, nonprofit organizations, territories, and Indian Tribes that have agreements with courts to take the lead in establishing a reentry court (as described in section 10631(b)(19) 11 So in original. [Section 10631(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10631/b&num=0&edition=prelim) does not contain a par. (19). of this title).
-
-**(b) Use of grant funds** Grant funds awarded under this section shall be administered in accordance with such guidelines, regulations, and procedures as promulgated by the Attorney General, and may be used to—
-
-(1) monitor juvenile and adult offenders reentering the community;
-
-(2) provide juvenile and adult offenders reentering the community with coordinated and comprehensive reentry services and programs such as—
-
-  (A) drug and alcohol testing and assessment for treatment;
-
-  (B) assessment for substance abuse from a substance abuse professional who is approved by the State or Indian Tribe and licensed by the appropriate entity to provide alcohol and drug addiction treatment, as appropriate;
-
-  (C) substance abuse treatment from a provider that is approved by the State or Indian Tribe, and licensed, if necessary, to provide medical and other health services;
-
-  (D) health (including mental health) services and assessment;
-
-  (E) aftercare and case management services that—
-
-    (i) facilitate access to clinical care and related health services; and
-
-    (ii) coordinate with such clinical care and related health services; and
-
-  (F) any other services needed for reentry;
-
-(3) convene community impact panels, victim impact panels, or victim impact educational classes;
-
-(4) provide and coordinate the delivery of community services to juvenile and adult offenders, including—
-
-  (A) housing assistance;
-
-  (B) education;
-
-  (C) job training;
-
-  (D) conflict resolution skills training;
-
-  (E) batterer intervention programs; and
-
-  (F) other appropriate social services; and
-
-(5) establish and implement graduated sanctions and incentives.
-
-**(c) Rule of construction** Nothing in this section shall be construed as preventing a grantee that operates a drug court under subchapter XXX at the time a grant is awarded under this section from using funds from such grant to supplement such drug court in accordance with paragraphs (1) through (5) of subsection (b).
-
-**(d) Application** To be eligible for a grant under this section, an entity described in subsection (a) shall, in addition to any other requirements required by the Attorney General, submit to the Attorney General an application that—
-
-(1) describes the program to be assisted under this section and the need for such program;
-
-(2) describes a long-term strategy and detailed implementation plan for such program, including how the entity plans to pay for the program after the Federal funding is discontinued;
-
-(3) identifies the governmental and community agencies that will be coordinated by the project;
-
-(4) certifies that—
-
-  (A) all agencies affected by the program, including community corrections and parole entities, have been appropriately consulted in the development of the program;
-
-  (B) there will be appropriate coordination with all such agencies in the implementation of the program; and
-
-  (C) there will be appropriate coordination and consultation with the Single State Authority for Substance Abuse (as that term is defined in [section 60521(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60521/e&num=0&edition=prelim)) of the State; and
-
-(5) describes the methodology and outcome measures that will be used to evaluate the program.
-
-**(e) Federal share**
-
-(1) **Matching requirement** — The Federal share of a grant under this section may not exceed 50 percent of the program funded under such grant.
-
-(2) **In-kind contributions**
-
-  (A) *In general* — Subject to subparagraph (B), the recipient of a grant under this section may meet the matching requirement under paragraph (1) by making in-kind contributions of goods or services that are directly related to the purpose for which such grant was awarded.
-
-  (B) *Maximum percentage* — Not more than 50 percent of the amount provided by a recipient of a grant under this section to meet the matching requirement under paragraph (1) may be provided through in-kind contributions under subparagraph (A).
-
-(3) **Supplement not supplant** — Federal funds received under this section shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for the activities funded under this section.
-
-**(f) Annual report** Each entity receiving a grant under this section shall submit to the Attorney General, for each fiscal year in which funds from the grant are expended, a report, at such time and in such manner as the Attorney General may reasonably require, that contains—
-
-(1) a summary of the activities carried out under the program assisted by the grant;
-
-(2) an assessment of whether the activities are meeting the need for the program identified in the application submitted under subsection (d); and
-
-(3) such other information as the Attorney General may require.
-
-**(g) Authorization of appropriations**
-
-(1) **In general** — There are authorized to be appropriated $10,000,000 for each of fiscal years 2009 and 2010 to carry out this section.
-
-(2) **Limitations; equitable distribution**
-
-  (A) *Limitations* — Of the amount made available to carry out this section in any fiscal year—
-
-    (i) not more than 2 percent may be used by the Attorney General for salaries and administrative expenses; and
-
-    (ii) not more than 5 percent nor less than 2 percent may be used for technical assistance and training.
-
-  (B) *Equitable distribution* — The Attorney General shall ensure that grants awarded under this section are equitably distributed among the geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
+## § 10633. Repealed. Pub. L. 115–391, title V, § 504(g)(1), Dec. 21, 2018, 132 Stat. 5234
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 3797w–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797w–2&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+Section, Pub. L. 90–351, title I, § 2978, as added Pub. L. 110–199, title I, § 111, Apr. 9, 2008, 122 Stat. 669, related to State, Tribal, and local reentry courts.
 
-#### Construction of 2008 Amendment
-For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of this title](./chapter-605-recidivism-prevention.md#section-60504).
+Section was formerly classified to [section 3797w–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797w–2&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-10641"></a>
@@ -8914,9 +9049,7 @@ Section was formerly classified to [section 3797y–3 of Title 42](https://uscod
 
   (C) *Period of grant* — A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant is made. Applicants may not receive more than 1 such planning grant.
 
-  (D) *Amount* — The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount.
-
-  (E) *Collaboration set aside* — Up to 5 percent of all planning funds shall be used to foster collaboration between State and local governments in furtherance of the purposes set forth in the Mentally Ill Offender Treatment and Crime Reduction Act of 2004.
+  (D) *Collaboration set aside* — Up to 5 percent of all planning funds shall be used to foster collaboration between State and local governments in furtherance of the purposes set forth in the Mentally Ill Offender Treatment and Crime Reduction Act of 2004.
 
 (5) **Implementation grants**
 
@@ -9044,7 +9177,7 @@ Section was formerly classified to [section 3797y–3 of Title 42](https://uscod
 
 (2) **Non-Federal share** — The non-Federal share of payments made under this section may be made in cash or in-kind fairly evaluated, including planned equipment or services.
 
-**(e) Federal use of funds** The Attorney General, in consultation with the Secretary, in administering grants under this section, may use up to 3 percent of funds appropriated to—
+**(e) Federal use of funds** The Attorney General, in consultation with the Secretary, in administering grants under this section, shall use not less than 6 percent of funds appropriated to—
 
 (1) research the use of alternatives to prosecution through pretrial diversion in appropriate cases involving individuals with mental illness;
 
@@ -9068,7 +9201,7 @@ Section was formerly classified to [section 3797y–3 of Title 42](https://uscod
 
   (B) submit, not later than 2 years after October 30, 2004, a report to Congress containing recommendations for improved interdepartmental collaboration regarding the provision of services to preliminarily qualified offenders.
 
-**(g) Minimum allocation** Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section.
+**(g) Collaboration set-aside** The Attorney General shall use not less than 8 percent of funds appropriated to provide technical assistance to State and local governments receiving grants under this subchapter to foster collaboration between such governments in furtherance of the purposes set forth in section 3 of the Mentally Ill Offender Treatment and Crime Reduction Act of 2004 ([34 U.S.C. 10651](./chapter-101-justice-system-improvement.md#section-10651) note).
 
 **(h) Law enforcement response to mentally ill offenders improvement grants**
 
@@ -9309,7 +9442,7 @@ Section was formerly classified to [section 3797y–3 of Title 42](https://uscod
 ### Statutory Notes
 
 #### References in Text
-The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to in subsec. (b)(4)(E), is Pub. L. 108–414, Oct. 30, 2004, 118 Stat. 2327, which enacted this subchapter and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to in subsec. (b)(4)(D), is Pub. L. 108–414, Oct. 30, 2004, 118 Stat. 2327, which enacted this subchapter and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 This Act, referred to in subsec. (n)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
@@ -9317,6 +9450,12 @@ This Act, referred to in subsec. (n)(1), is Pub. L. 90–351, June 19, 1968, 82 
 Section was formerly classified to [section 3797aa of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797aa&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (b)(4)(D), (E). Pub. L. 115–391, § 612(1)(A), (B), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: “The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount.”
+
+Subsec. (e). Pub. L. 115–391, § 612(2), substituted “shall use not less than 6 percent” for “may use up to 3 percent” in introductory provisions.
+
+Subsec. (g). Pub. L. 115–391, § 612(3), amended subsec. (g) generally. Prior to amendment, text read as follows: “Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section.”
+
 2016—Subsec. (a)(7). Pub. L. 114–255, § 14028(a)(1), substituted “Mental illness; mental health disorder” for “Mental illness” in heading and “terms ‘mental illness’ and ‘mental health disorder’ mean” for “term ‘mental illness’ means” in introductory provisions.
 
 Subsec. (a)(9). Pub. L. 114–255, § 14028(a)(2), added par. (9) and struck out former par. (9) which defined the term “preliminarily qualified offender”.
@@ -9745,32 +9884,19 @@ The Higher Education Act of 1965, referred to in subsec. (b)(3)(A)(i), (ii), is 
 #### Codification
 Section was formerly classified to [section 3797cc–21 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797cc–21&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Another section 3001 of Pub. L. 90–351 is classified to [section 10681 of this title](./chapter-101-justice-system-improvement.md#section-10681).
+Another section 3001 of Pub. L. 90–351 was classified to [section 10681 of this title](./chapter-101-justice-system-improvement.md#section-10681), prior to repeal by Pub. L. 115–391.
 
 
 <a id="section-10681"></a>
-## § 10681. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities
-**(a) Grant program authorized** The Attorney General may carry out a grant program under which the Attorney General may make grants to States, units of local government, territories, Indian Tribes, and other public and private entities to—
-
-(1) evaluate methods to improve academic and vocational education for offenders in prisons, jails, and juvenile facilities;
-
-(2) identify, and make recommendations to the Attorney General regarding, best practices relating to academic and vocational education for offenders in prisons, jails, and juvenile facilities, based on the evaluation under paragraph (1); and
-
-(3) improve the academic and vocational education programs (including technology career training) available to offenders in prisons, jails, and juvenile facilities.
-
-**(b) Application** To be eligible for a grant under this subchapter, a State or other entity described in subsection (a) shall submit to the Attorney General an application in such form and manner, at such time, and accompanied by such information as the Attorney General specifies.
-
-**(c) Report** Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a) receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.
+## § 10681. Repealed. Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228
 
 ### Statutory Notes
 
-#### Codification
+Section, Pub. L. 90–351, title I, § 3001, as added Pub. L. 110–199, title I, § 114(2), Apr. 9, 2008, 122 Stat. 677, related to grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities. See [section 10741 of this title](./chapter-101-justice-system-improvement.md#section-10741).
+
 Section was formerly classified to [section 3797dd of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797dd&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 Another section 3001 of Pub. L. 90–351 is classified to [section 10671 of this title](./chapter-101-justice-system-improvement.md#section-10671).
-
-#### Construction of 2008 Amendment
-For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of this title](./chapter-605-recidivism-prevention.md#section-60504).
 
 
 <a id="section-10691"></a>
@@ -10070,3 +10196,89 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in par. (1),
 Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
 Section was formerly classified to [section 3797ff–6 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797ff–6&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-10721"></a>
+## § 10721. Establishment of grant program
+**(a) Authorization** The Director of the Bureau of Justice Assistance is authorized to enter into a cooperative agreement with or make a grant to an eligible entity for the purpose of improving the identification, investigation, and prosecution of white collar crime (including each category of such crimes set forth in paragraphs (1) through (3) of subsection (b)) by providing comprehensive, direct, and practical training and technical assistance to law enforcement officers, investigators, auditors and prosecutors in States and units of local government.
+
+**(b) White collar crime defined** For purposes of this subchapter, the term “white collar crime” includes—
+
+(1) high-tech crime, including cyber and electronic crime and related threats;
+
+(2) economic crime, including financial fraud and mortgage fraud; and
+
+(3) Internet-based crime against children and child pornography.
+
+
+<a id="section-10722"></a>
+## § 10722. Purposes
+
+The purposes of this subchapter include the following:
+
+(1) To ensure that training is available for State, local, tribal and territorial law enforcement agencies and officers nationwide to support local efforts to identify, prevent, investigate, and prosecute cyber and financial crimes, including those crimes facilitated via computer networks and other electronic means, and crimes involving financial and economic impacts such as intellectual property crimes.
+
+(2) To deliver training to State, local, tribal, and territorial law enforcement officers, and other criminal justice professionals concerning the use of proven methodologies to prevent, detect, and respond to such crimes, recognize emerging issues, manage electronic and financial crime evidence and to improve local criminal justice agency responses to such threats.
+
+(3) To provide operational and technical assistance and training concerning tools, products, resources, guidelines, and procedures to aid and enhance criminal intelligence analysis, conduct cyber crime and financial crime investigations, and related justice information sharing at the local and State levels.
+
+(4) To provide appropriate training on protections for privacy, civil rights, and civil liberties in the conduct of criminal intelligence analysis and cyber and electronic crime and financial crime investigations, including in the development of policies, guidelines, and procedures by State, local, tribal, and territorial law enforcement agencies to protect and enhance privacy, civil rights, and civil liberties protections and identify weaknesses and gaps in the protection of privacy, civil rights, and civil liberties.
+
+
+<a id="section-10723"></a>
+## § 10723. Authorized programs
+
+A grant or cooperative agreement awarded under this subchapter may be made only for the following programs, with respect to the prevention, investigation, and prosecution of certain criminal activities:
+
+(1) Programs to provide a nationwide support system for State and local criminal justice agencies.
+
+(2) Programs to assist State and local criminal justice agencies to develop, establish, and maintain intelligence-focused policing strategies and related information sharing.
+
+(3) Programs to provide training and investigative support services to State and local criminal justice agencies to provide such agencies with skills and resources needed to investigate and prosecute such criminal activities and related criminal activities.
+
+(4) Programs to provide research support, to establish partnerships, and to provide other resources to aid State and local criminal justice agencies to prevent, investigate, and prosecute such criminal activities and related problems.
+
+(5) Programs to provide information and research to the general public to facilitate the prevention of such criminal activities.
+
+(6) Programs to establish or support national training and research centers regionally to provide training and research services for State and local criminal justice agencies.
+
+(7) Programs to provide training and oversight to State and local criminal justice agencies to develop and comply with applicable privacy, civil rights, and civil liberties related policies, procedures, rules, laws, and guidelines.
+
+(8) Any other programs specified by the Attorney General as furthering the purposes of this subchapter.
+
+
+<a id="section-10724"></a>
+## § 10724. Application
+
+To be eligible for an award of a grant or cooperative agreement under this subchapter, an entity shall submit to the Director of the Bureau of Justice Assistance an application in such form and manner, and containing such information, as required by the Director of the Bureau of Justice Assistance.
+
+
+<a id="section-10725"></a>
+## § 10725. Eligibility
+
+States, units of local government, not-for-profit entities, and institutions of higher-education with demonstrated capacity and experience in delivering training, technical assistance and other resources including direct, practical laboratory training to law enforcement officers, investigators, auditors and prosecutors in States and units of local government and over the Internet shall be eligible to receive an award under this subchapter.
+
+
+<a id="section-10726"></a>
+## § 10726. Rules and regulations
+
+The Director of the Bureau of Justice Assistance shall promulgate such rules and regulations as are necessary to carry out this subchapter, including rules and regulations for submitting and reviewing applications under [section 10725 of this title](./chapter-101-justice-system-improvement.md#section-10725).
+
+
+<a id="section-10741"></a>
+## § 10741. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities
+**(a) Grant program authorized** The Attorney General may carry out a grant program under which the Attorney General may make grants to States, units of local government, territories, Indian Tribes, and other public and private entities to—
+
+(1) evaluate methods to improve academic and vocational education for offenders in prisons, jails, and juvenile facilities;
+
+(2) identify, and make recommendations to the Attorney General regarding, best practices relating to academic and vocational education for offenders in prisons, jails, and juvenile facilities, based on the evaluation under paragraph (1);
+
+(3) improve the academic and vocational education programs (including technology career training) available to offenders in prisons, jails, and juvenile facilities; and
+
+(4) implement methods to improve academic and vocational education for offenders in prisons, jails, and juvenile facilities consistent with the best practices identified in subsection (c).
+
+**(b) Application** To be eligible for a grant under this subchapter, a State or other entity described in subsection (a) shall submit to the Attorney General an application in such form and manner, at such time, and accompanied by such information as the Attorney General specifies.
+
+**(c) Best practices** Not later than 180 days after December 21, 2018, the Attorney General shall identify and publish best practices relating to academic and vocational education for offenders in prisons, jails, and juvenile facilities. The best practices shall consider the evaluations performed and recommendations made under grants made under subsection (a) before December 21, 2018.
+
+**(d) Report** Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a) receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.

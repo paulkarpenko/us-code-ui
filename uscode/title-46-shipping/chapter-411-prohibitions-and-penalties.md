@@ -2,7 +2,7 @@
 title: 46
 chapter: '411'
 heading: PROHIBITIONS AND PENALTIES
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -89,8 +89,7 @@ In subsection (c)(2), the words “may not prevent” are substituted for “Nor
 
 <a id="section-41104"></a>
 ## § 41104. Common carriers
-
-A common carrier, either alone or in conjunction with any other person, directly or indirectly, may not—
+**(a) In General.—** A common carrier, either alone or in conjunction with any other person, directly or indirectly, may not—
 
 (1) allow a person to obtain transportation for property at less than the rates or charges established by the carrier in its tariff or service contract by means of false billing, false classification, false weighing, false measurement, or any other unjust or unfair device or means;
 
@@ -126,9 +125,15 @@ A common carrier, either alone or in conjunction with any other person, directly
 
 (10) unreasonably refuse to deal or negotiate;
 
-(11) knowingly and willfully accept cargo from or transport cargo for the account of an ocean transportation intermediary that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501) and a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902); or
+(11) knowingly and willfully accept cargo from or transport cargo for the account of a non-vessel-operating common carrier that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501), or an ocean transportation intermediary that does not have a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902);
 
-(12) knowingly and willfully enter into a service contract with an ocean transportation intermediary that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501) and a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902), or with an affiliate of such an ocean transportation intermediary.
+(12) knowingly and willfully enter into a service contract with an ocean transportation intermediary that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501) and a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902), or with an affiliate of such an ocean transportation intermediary; or
+
+(13) continue to participate simultaneously in a rate discussion agreement and an agreement to share vessels, in the same trade, if the interplay of the authorities exercised by the specified agreements is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost.
+
+**(b) Rule of Construction.—** Notwithstanding any other provision of law, there is no private right of action to enforce the prohibition under subsection (a)(13).
+
+**(c) Agreement Violation.—** Participants in an agreement found by the Commission to violate subsection (a)(13) shall have 90 days from the date of such Commission finding to withdraw from the agreement as necessary to comply with that subsection.
 
 ### Statutory Notes
 
@@ -136,6 +141,18 @@ A common carrier, either alone or in conjunction with any other person, directly
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 41104 | 46 App.:1709(b) (1)–(12). | Pub. L. 98–237, § 10(b)(1)–(12), Mar. 20, 1984, 98 Stat. 77; Pub. L. 101–595, title VII, § 710(c), Nov. 16, 1990, 104 Stat. 2997; Pub. L. 102–251, title II, § 201(b), Mar. 9, 1992, 106 Stat. 60; Pub. L. 105–258, title I, § 109(a), Oct. 14, 1998, 112 Stat. 1909; Pub. L. 105–383, title IV, § 424(b), Nov. 13, 1998, 112 Stat. 3441. |
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–282, § 708(a)(1), designated existing provisions as subsec. (a) and inserted heading.
+
+Subsec. (a)(11). Pub. L. 115–282, § 708(a)(2)(A), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “knowingly and willfully accept cargo from or transport cargo for the account of an ocean transportation intermediary that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501) and a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902); or”.
+
+Subsec. (a)(13). Pub. L. 115–282, § 708(a)(2)(B), (C), added par. (13).
+
+Subsecs. (b), (c). Pub. L. 115–282, § 708(a)(3), added subsecs. (b) and (c).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–282, title VII, § 708(b), Dec. 4, 2018, 132 Stat. 4296, provided that: “[Section 41104(a)(13) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a/13&num=0&edition=prelim), United States Code, as amended, shall apply to any agreement filed or with an effective date before, on, or after the date of enactment of this Act [Dec. 4, 2018].”
 
 
 <a id="section-41105"></a>
@@ -151,9 +168,13 @@ A conference or group of two or more common carriers may not—
 
 (4) negotiate with a non-ocean carrier or group of non-ocean carriers (such as truck, rail, or air operators) on any matter relating to rates or services provided to ocean common carriers within the United States by those non-ocean carriers, unless the negotiations and any resulting agreements are not in violation of the antitrust laws and are consistent with the purposes of this part, except that this paragraph does not prohibit the setting and publishing of a joint through rate by a conference, joint venture, or association of ocean common carriers;
 
-(5) deny in the export foreign commerce of the United States compensation to an ocean freight forwarder or limit that compensation to less than a reasonable amount;
+(5) negotiate with a tug or towing vessel service provider on any matter relating to rates or services provided within the United States by those tugs or towing vessels;
 
-(6) allocate shippers among specific carriers that are parties to the agreement or prohibit a carrier that is a party to the agreement from soliciting cargo from a particular shipper, except as—
+(6) with respect to a vessel operated by an ocean common carrier within the United States, negotiate for the purchase of certain covered services, unless the negotiations and any resulting agreements are not in violation of the antitrust laws and are consistent with the purposes of this part, except that this paragraph does not prohibit the setting and publishing of a joint through rate by a conference, joint venture, or association of ocean common carriers;
+
+(7) deny in the export foreign commerce of the United States compensation to an ocean freight forwarder or limit that compensation to less than a reasonable amount;
+
+(8) allocate shippers among specific carriers that are parties to the agreement or prohibit a carrier that is a party to the agreement from soliciting cargo from a particular shipper, except as—
 
   (A) authorized by [section 40303(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40303/d&num=0&edition=prelim);
 
@@ -161,9 +182,9 @@ A conference or group of two or more common carriers may not—
 
   (C) agreed to by a shipper in a service contract;
 
-(7) for service pursuant to a service contract, engage in any unjustly discriminatory practice in the matter of rates or charges with respect to any locality, port, or person due to the person’s status as a shippers’ association or ocean transportation intermediary; or
+(9) for service pursuant to a service contract, engage in any unjustly discriminatory practice in the matter of rates or charges with respect to any locality, port, or person due to the person’s status as a shippers’ association or ocean transportation intermediary; or
 
-(8) for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage with respect to any locality, port, or person due to the person’s status as a shippers’ association or ocean transportation intermediary.
+(10) for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage with respect to any locality, port, or person due to the person’s status as a shippers’ association or ocean transportation intermediary.
 
 ### Statutory Notes
 
@@ -173,6 +194,20 @@ A conference or group of two or more common carriers may not—
 | 41105 | 46 App.:1709(c). | Pub. L. 98–237, § 10(c), Mar. 20, 1984, 98 Stat. 77; Pub. L. 105–258, title I, § 109(b), Oct. 14, 1998, 112 Stat. 1910; Pub. L. 105–383, title IV, § 424(b), Nov. 13, 1998, 112 Stat. 3441. |
 
 In paragraph (5), the words “ocean freight forwarder” are substituted for “ocean transportation intermediary, as defined by section 1702(17)(A) of this Appendix” because the definition of “ocean transportation intermediary” in section 1702(17)(A) contains a definition of “ocean freight forwarder” which is restated as a separate definition.
+
+#### Amendments
+2018—Pars. (5) to (10). Pub. L. 115–282 added pars. (5) and (6) and redesignated former pars. (5) to (8) as (7) to (10), respectively.
+
+
+<a id="section-41105a"></a>
+## § 41105A. Authority
+
+Nothing in section 41105, as amended by the Federal Maritime Commission Authorization Act of 2017, shall be construed to limit the authority of the Department of Justice regarding antitrust matters.
+
+### Statutory Notes
+
+#### References in Text
+Section 41105, as amended by the Federal Maritime Commission Authorization Act of 2017, referred to in text, is [section 41105 of this title](./chapter-411-prohibitions-and-penalties.md#section-41105) as amended by title VII of Pub. L. 115–282.
 
 
 <a id="section-41106"></a>
@@ -214,7 +249,7 @@ In subsection (b), the words “is subject to an action in rem to enforce the li
 
 <a id="section-41108"></a>
 ## § 41108. Additional penalties
-**(a) Suspension of Tariffs.—** For a violation of section 41104(1), (2), or (7) of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
+**(a) Suspension of Tariffs.—** For a violation of section 41104(1), (2), or (7) 11 See References in Text note below. of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
 
 **(b) Operating Under Suspended Tariff.—** A common carrier that accepts or handles cargo for carriage under a tariff that has been suspended, or after its right to use that tariff has been suspended, is liable to the United States Government for a civil penalty of not more than $50,000 for each shipment.
 
@@ -246,6 +281,9 @@ In subsection (b), the words “is subject to an action in rem to enforce the li
 
 In subsection (c)(1)(B), the words “Secretary of Homeland Security” are substituted for “Secretary of the Treasury” because the functions of the Secretary of the Treasury relating to the Customs Service were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178).
 
+#### References in Text
+Pars. (1), (2), and (7) of [section 41104 of this title](./chapter-411-prohibitions-and-penalties.md#section-41104), referred to in subsec. (a), redesignated pars. (1), (2), and (7), respectively, of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim) by Pub. L. 115–282, title VII, § 708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
+
 
 <a id="section-41109"></a>
 ## § 41109. Assessment of penalties
@@ -253,7 +291,7 @@ In subsection (c)(1)(B), the words “Secretary of Homeland Security” are subs
 
 **(b) Factors in Determining Amount.—** In determining the amount of a civil penalty, the Commission shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, and other matters justice may require.
 
-**(c) Exception.—** A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) of this title or to defraud the Commission by concealing such a violation.
+**(c) Exception.—** A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) 11 See References in Text note below. of this title or to defraud the Commission by concealing such a violation.
 
 **(d) Prohibited Basis of Penalty.—** The Commission or a court may not order a person to pay the difference between the amount billed and agreed upon in writing with a common carrier or its agent and the amount set forth in a tariff or service contract by that common carrier for the transportation service provided.
 
@@ -275,3 +313,6 @@ In subsection (c)(1)(B), the words “Secretary of Homeland Security” are subs
 | 41109(e) | 46 App.:1712(f)(2). |  |
 | 41109(f) | 46 App.:1712(d). |  |
 | 41109(g) | 46 App.:1712(e). |  |
+
+#### References in Text
+Pars. (1) and (2) of [section 41104 of this title](./chapter-411-prohibitions-and-penalties.md#section-41104), referred to in subsec. (c), redesignated pars. (1) and (2), respectively, of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim) by Pub. L. 115–282, title VII, § 708(a)(1), Dec. 4, 2018, 132 Stat. 4295.

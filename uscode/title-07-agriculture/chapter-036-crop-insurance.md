@@ -2,7 +2,7 @@
 title: 7
 chapter: '36'
 heading: CROP INSURANCE
-section_count: 30
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -60,25 +60,41 @@ Pub. L. 106–224, title I, § 173, June 20, 2000, 114 Stat. 398, provided that:
 
 (5) **Corporation** — The term “Corporation” means the Federal Crop Insurance Corporation established under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
 
-(6) **Department** — The term “Department” means the United States Department of Agriculture.
+(6) **Cover crop termination** — The term “cover crop termination” means a practice that historically and under reasonable circumstances results in the termination of the growth of a cover crop.
 
-(7) **Farm financial benchmarking** — The term “farm financial benchmarking” means—
+(7) **Department** — The term “Department” means the United States Department of Agriculture.
+
+(8) **Farm financial benchmarking** — The term “farm financial benchmarking” means—
 
   (A) the process of comparing the performance of an agricultural enterprise against the performance of other similar enterprises, through the use of comparable and reliable data, in order to identify business management strengths, weaknesses, and steps necessary to improve management performance and business profitability; and
 
   (B) benchmarking of the type conducted by farm management and producer associations consistent with the activities described in or funded pursuant to [section 5925f of this title](./chapter-088-research.md#section-5925f).
 
-(8) **Loss ratio** — The term “loss ratio” means the ratio of all sums paid by the Corporation as indemnities under any eligible crop insurance policy to that portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
+(9) **Hemp** — The term “hemp” has the meaning given the term in section 1639o of this title.
 
-(9) **Organic crop** — The term “organic crop” means an agricultural commodity that is organically produced consistent with [section 6502 of this title](./chapter-094-organic-certification.md#section-6502).
+(10) **Loss ratio** — The term “loss ratio” means the ratio of all sums paid by the Corporation as indemnities under any eligible crop insurance policy to that portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
 
-(10) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+(11) **Organic crop** — The term “organic crop” means an agricultural commodity that is organically produced consistent with [section 6502 of this title](./chapter-094-organic-certification.md#section-6502).
 
-(11) **Transitional yield** — The term “transitional yield” means the maximum average production per acre or equivalent measure that is assigned to acreage for a crop year by the Corporation in accordance with the regulations of the Corporation whenever the producer fails—
+(12) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(13) **Transitional yield** — The term “transitional yield” means the maximum average production per acre or equivalent measure that is assigned to acreage for a crop year by the Corporation in accordance with the regulations of the Corporation whenever the producer fails—
 
   (A) to certify that acceptable documentation of production and acreage for the crop year is in the possession of the producer; or
 
   (B) to present the acceptable documentation on the demand of the Corporation or an insurance company reinsured by the Corporation.
+
+(14) **Veteran farmer or rancher** — The term “veteran farmer or rancher” means a farmer or rancher who—
+
+  (A) has served in the Armed Forces (as defined in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim)); and
+
+  (B)
+
+    (i) has not operated a farm or ranch;
+
+    (ii) has operated a farm or ranch for not more than 5 years; or
+
+    (iii) is a veteran (as defined in section 101 of that title) who has first obtained status as a veteran (as so defined) during the most recent 5-year period.
 
 **(c) Protection of confidential information**
 
@@ -119,6 +135,10 @@ The Commodity Exchange Act, referred to in subsec. (d)(1)(B), (2), is act Sept. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(6) to (13). Pub. L. 115–334, § 11101, added pars. (6) and (9) and redesignated former pars. (6) to (11) as (7), (8), and (10) to (13), respectively.
+
+Subsec. (b)(14). Pub. L. 115–334, § 12306(b)(1), added par. (14).
+
 2014—Subsec. (b)(3) to (6). Pub. L. 113–79, § 11016(a), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively. Former par. (6) redesignated (7).
 
 Subsec. (b)(7) to (10). Pub. L. 113–79, § 11027(a), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
@@ -234,7 +254,7 @@ The payment for capital stock in the Federal Crop Insurance Corporation shall be
 ### Statutory Notes
 
 #### Codification
-Section was not enacted as part of the Federal Crop Insurance Act which comprises this chapter.
+Section was not enacted as part of the Federal Crop Insurance Act which comprises this subchapter.
 
 #### Transfer of Functions
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 1503 of this title](./chapter-036-crop-insurance.md#section-1503).
@@ -385,9 +405,27 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (1) **Surveys and investigations** — The Corporation may conduct surveys and investigations relating to crop insurance, agriculture-related risks and losses, and other issues related to carrying out this subchapter.
 
-(2) **Data collection** — The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
+(2) **Data collection**
 
-(3) **Sharing of records** — Notwithstanding [section 1502(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1502/c&num=0&edition=prelim), records submitted in accordance with this subchapter and [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333) shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, and approved insurance providers for use in carrying out this subchapter, such [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333), and other agricultural programs.
+  (A) *In general* — The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
+
+  (B) *National Agricultural Statistics Service* — Data collected by the National Agricultural Statistics Service, whether published or unpublished, shall be—
+
+    (i) provided in an aggregate form to the Corporation for the purpose of providing insurance under this subchapter; and
+
+    (ii) kept confidential by the Corporation in the same manner and to the same extent as is required under—
+
+      (I) [section 2276 of this title](./chapter-055-department-of-agriculture.md#section-2276); and
+
+      (II) the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).
+
+  (C) *Noninsured crop disaster assistance program* — In collecting data under this subsection, the Secretary shall ensure that—
+
+    (i) appropriate data are collected through the noninsured crop disaster assistance program established by [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333); and
+
+    (ii) not less frequently than annually, the Farm Service Agency shares, and the Corporation considers, the data described in clause (i).
+
+(3) **Sharing of records** — Notwithstanding [section 1502(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1502/c&num=0&edition=prelim), records submitted in accordance with this subchapter and [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333) shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, applicants who have received payment under [section 1522(b)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522/b/2/E&num=0&edition=prelim), and approved insurance providers for use in carrying out this subchapter, such [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333), and other agricultural programs.
 
 **(i) Expenditures** The Corporation shall determine the character and necessity for its expenditures under this subchapter and the manner in which they shall be incurred, allowed, and paid, without regard to the provisions of any other laws governing the expenditure of public funds and such determinations shall be final and conclusive upon all other officers of the Government.
 
@@ -446,12 +484,18 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which is set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
+
 [Section 405(c)(2)(C)(iii) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/c/2/C/iii&num=0&edition=prelim), referred to in subsec. (m)(1), was redesignated [section 405(c)(2)(C)(iv) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405/c/2/C/iv&num=0&edition=prelim) by Pub. L. 103–296, title III, § 321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (h)(2). Pub. L. 115–334, § 11102, designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) and (C).
+
+Subsec. (h)(3). Pub. L. 115–334, § 11103, inserted “applicants who have received payment under [section 1522(b)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522/b/2/E&num=0&edition=prelim),” after “divisions,”.
+
 2008—Subsec. (d). Pub. L. 110–246, § 12002(a)(1), substituted “Subject to [section 1508(j)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/j/2/A&num=0&edition=prelim), the Corporation” for “The Corporation” in first sentence.
 
 Subsecs. (g) to (i), (m). Pub. L. 110–246, § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
@@ -615,15 +659,45 @@ Section 1506b, acts June 29, 1954, ch. 409, title II, § 201, 68 Stat. 317; May 
 
 **(e) Utilization of producer cooperative associations** In carrying out the provisions of this subchapter the Board may, in its discretion, utilize producer-owned and producer-controlled cooperative associations.
 
-**(f) Use of resources, data, boards, and committees of Federal agencies** The Board should use, to the maximum extent possible, the resources, data, boards, and the committees of (1) the Soil Conservation Service, in assisting the Board in the classification of land as to risk and production capability and in the development of acceptable conservation practices; (2) the Forest Service, in assisting the Board in the development of a timber insurance plan; (3) the Agricultural Stabilization and Conservation Service, in assisting the Board in the determination of individual producer yields and in serving as a local contact point for farmers where the Board deems necessary; and (4) other Federal agencies in any way the Board deems necessary in carrying out this subchapter.
+**(f) Use of resources, data, boards, and committees of Federal agencies** If the Board determines it is necessary, the Board shall use, to the maximum extent practicable, the resources, data, boards, and the committees of—
+
+(1) the Natural Resources Conservation Service, in assisting the Board in—
+
+  (A) the classification of land as to risk and production capability; and
+
+  (B) the consideration of acceptable conservation practices, including good farming practices with respect to conservation (such as cover crop termination);
+
+(2) the Forest Service, in assisting the Board in the development of a timber insurance plan;
+
+(3) the Farm Service Agency, in assisting the Board in—
+
+  (A) the determination of individual producer yields;
+
+  (B) sharing information on beginning farmers and ranchers and veteran farmers and ranchers;
+
+  (C) investigating potential waste, fraud, or abuse;
+
+  (D) sharing information to support the transition of crops and counties from the noninsured crop disaster assistance program established by [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333) to insurance under this subchapter; and
+
+  (E) serving as a local point of contact for the dissemination of information on risk management options available to farmers and ranchers; and
+
+(4) other Federal agencies, in assisting the Board in any way the Board determines is necessary in carrying out this subchapter.
 
 **(g) Specialty Crops Coordinator**
 
-(1) The Corporation shall establish a management-level position to be known as the Specialty Crops Coordinator.
+(1) **In general.—** — The Corporation shall establish a management-level position to be known as the Specialty Crops Coordinator.
 
 (2) The Specialty Crops Coordinator shall have primary responsibility for addressing the needs of specialty crop producers, and for providing information and advice, in connection with the activities of the Corporation to improve and expand the insurance program for specialty crops. In carrying out this paragraph, the Specialty Crops Coordinator shall act as the liaison of the Corporation with representatives of specialty crop producers and assist the Corporation with the knowledge, expertise, and familiarity of the producers with risk management and production issues pertaining to specialty crops.
 
 (3) The Specialty Crops Coordinator shall use information collected from Corporation field office directors in States in which specialty crops have a significant economic effect and from other sources, including the extension service and colleges and universities.
+
+(4) **Specialty crop liaisons.—** — The Specialty Crops Coordinator shall—
+
+  (A) designate a Specialty Crops Liaison in each regional field office; and
+
+  (B) share the contact information of the Specialty Crops Liaisons with specialty crop producers.
+
+(5) **Website.—** — The Specialty Crops Coordinator shall establish a website focused on the efforts of the Corporation to provide and expand crop insurance for specialty crop producers.
 
 ### Statutory Notes
 
@@ -637,6 +711,10 @@ In subsec. (b), reference to “subchapter I of chapter 81 of title 5” substit
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–334, § 11104, rewrote subsec. (f), inserting subsec. heading and introductory provisions, adding pars. (1), (3), and (4), realigning margins in par. (2), and striking out former introductory provisions and former pars. (1), (2), and (4). Prior to amendment, text of subsec. (f) read as follows: “The Board should use, to the maximum extent possible, the resources, data, boards, and the committees of (1) the Soil Conservation Service, in assisting the Board in the classification of land as to risk and production capability and in the development of acceptable conservation practices; (2) the Forest Service, in assisting the Board in the development of a timber insurance plan; (3) the Agricultural Stabilization and Conservation Service, in assisting the Board in the determination of individual producer yields and in serving as a local contact point for farmers where the Board deems necessary; and (4) other Federal agencies in any way the Board deems necessary in carrying out this subchapter.”
+
+Subsec. (g). Pub. L. 115–334, § 11105(a), inserted subsec. and par. (1) headings and added pars. (4) and (5).
+
 2008—Subsecs. (b) to (f). Pub. L. 110–246, § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
 
 2000—Subsec. (c). Pub. L. 106–224, in cl. (2), substituted “actuarial services, services relating to loss adjustment and rating plans of insurance,” for “actuarial, loss adjustment,” and inserted “and to enable the Corporation to concentrate on regulating the provision of insurance under this chapter and evaluating new products and materials submitted under section 1508(h) or 1523 of this title” after “private sector”.
@@ -691,7 +769,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 (1) **In general** — If sufficient actuarial data are available (as determined by the Corporation), the Corporation may insure, or provide reinsurance for insurers of, producers of agricultural commodities grown in the United States under 1 or more plans of insurance determined by the Corporation to be adapted to the agricultural commodity concerned. To qualify for coverage under a plan of insurance, the losses of the insured commodity must be due to drought, flood, or other natural disaster (as determined by the Secretary).
 
-(2) **Period** — Except in the cases of tobacco, potatoes, and sweet potatoes, insurance shall not extend beyond the period during which the insured commodity is in the field. As used in the preceding sentence, in the case of an aquacultural species, the term “field” means the environment in which the commodity is produced.
+(2) **Period** — Except in the cases of tobacco, potatoes, sweet potatoes, and hemp, insurance shall not extend beyond the period during which the insured commodity is in the field. As used in the preceding sentence, in the case of an aquacultural species, the term “field” means the environment in which the commodity is produced.
 
 (3) **Exclusion of losses due to certain actions of producer**
 
@@ -703,7 +781,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
     (iii) the failure of the producer to follow good farming practices, including scientifically sound sustainable and organic farming practices.
 
-  (B) *Good farming practices*
+  (B) *Good farming practices determination review*
 
     (i) *Informal administrative process* — A producer shall have the right to a review of a determination regarding good farming practices made under subparagraph (A)(iii) in accordance with an informal administrative process to be established by the Corporation.
 
@@ -741,27 +819,39 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
     (ii) *Submission to Corporation* — To the maximum extent practicable, the Corporation shall allow producers and approved insurance providers to use electronic methods to submit information required by the Corporation.
 
-(6) **Addition of new and specialty crops**
+(6) **Addition of new and specialty crops (including value-added crops)**
 
-  (A) *Data collection* — Not later than 180 days after October 13, 1994, the Secretary shall issue guidelines for publication in the Federal Register for data collection to assist the Corporation in formulating crop insurance policies for new and specialty crops.
+  (A) *Annual review* — Not later than 1 year after December 20, 2018, and annually thereafter, the manager of the Corporation shall prepare, to the maximum extent practicable, based on data shared from the noninsured crop disaster assistance program established by [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333), written agreements, or other data, and present to the Board not less than 1 of each of the following:
 
-  (B) *Addition of new crops* — Not later than 1 year after October 13, 1994, and annually thereafter, the Corporation shall report to Congress on the progress and expected timetable for expanding crop insurance coverage under this subchapter to new and specialty crops.
+    (i) Research and development for a policy or plan of insurance for a commodity for which there is no existing policy or plan of insurance.
 
-  (C) *Addition of direct sale perishable crops* — Not later than 1 year after October 13, 1994, the Corporation shall report to Congress on the feasibility of offering a crop insurance program designed to meet the needs of specialized producers of vegetables and other perishable crops who market through direct marketing channels.
+    (ii) Expansion of an existing policy or plan of insurance to additional counties or States, including malting barley endorsements or contract options.
 
-  (D) *Addition of nursery crops* — Not later than 2 years after April 4, 1996, the Corporation shall conduct a study and limited pilot program on the feasibility of insuring nursery crops.
+    (iii) Research and development for a new policy or plan of insurance, or endorsement, for commodities with existing policies or plans of insurance, such as dollar plans.
 
-(7) **Adequate coverage for States**
+  (B) *Report* — Not later than 1 year after October 13, 1994, and annually thereafter, the Corporation shall report to Congress on the progress and expected timetable for expanding crop insurance coverage under this subchapter to new and specialty crops.
 
-  (A) *Definition of adequately served* — In this paragraph, the term “adequately served” means having a participation rate that is at least 50 percent of the national average participation rate.
+(7) **Adequate coverage for States and underserved producers**
 
-  (B) *Review* — The Board shall review the policies and plans of insurance that are offered by approved insurance providers under this subchapter to determine if each State is adequately served by the policies and plans of insurance.
+  (A) *Definitions* — In this paragraph:
+
+    (i) *Adequately served* — The term“adequately served” means having a participation rate, by crop, that is at least 50 percent of the national average participation rate.
+
+    (ii) *Underserved producer* — The term “underserved producer” means an individual (including a member of an Indian Tribe) that is—
+
+      (I) a beginning farmer or rancher;
+
+      (II) a veteran farmer or rancher; or
+
+      (III) a socially disadvantaged farmer or rancher.
+
+  (B) *Review* — Using resources and information available to the Board or the Secretary, the Board shall review the policies and plans of insurance that are offered by approved insurance providers under this subchapter, including policies and plans of insurance for underserved producers, to determine if each State is adequately served by the policies and plans of insurance.
 
   (C) *Report*
 
-    (i) *In general* — Not later than 30 days after completion of the review under subparagraph (B), the Board shall submit to Congress a report on the results of the review.
+    (i) *In general* — Not later than 30 days after completion of the review under subparagraph (B), and not less frequently than once every 3 years thereafter, the Board shall make publicly available and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the review.
 
-    (ii) *Recommendations* — The report shall include recommendations to increase participation in States that are not adequately served by the policies and plans of insurance.
+    (ii) *Recommendations* — The report under clause (i) shall include recommendations to increase participation in States and among underserved producers that are not adequately served by the policies and plans of insurance, including any plans for administrative action or recommendations for Congressional action.
 
 (8) **Special provisions for cotton and rice** — Notwithstanding any other provision of this subchapter, beginning with the 2001 crops of upland cotton, extra long staple cotton, and rice, the Corporation shall offer plans of insurance, including prevented planting coverage and replanting coverage, under this subchapter that cover losses of upland cotton, extra long staple cotton, and rice resulting from failure of irrigation water supplies due to drought and saltwater intrusion.
 
@@ -807,13 +897,31 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
     (ii) *Prohibition* — No sanctions shall apply with respect to the policy or plans of insurance upon which compensation is received, including the reinsurance for those policies or plans.
 
+(11) **Cover crops**
+
+  (A) *In general* — The voluntary practice of cover cropping shall be considered a good farming practice under paragraph (3)(A)(iii) if the cover crop is terminated in accordance with subparagraph (B).
+
+  (B) *Termination*
+
+    (i) *In general* — The termination of a cover crop shall be carried out according to—
+
+      (I) guidelines established by the Secretary; or
+
+      (II) an exception to the guidelines approved under clause (ii).
+
+    (ii) *Exception to guidelines* — The Corporation shall approve an exception to the guidelines under clause (i)(I) if that exception is recommended by—
+
+      (I) the Natural Resources Conservation Service; or
+
+      (II) an agricultural expert, as determined by the Corporation, unless the exception is determined to be unreasonable by the Corporation.
+
+  (C) *Insurability of subsequent crop* — Cover crop termination shall not affect the insurability of a subsequently planted insurable crop if the cover crop is terminated in accordance with subparagraph (B).
+
+  (D) *Summer fallow* — In a county in which summer fallow is an insurable practice, a cover crop in that county that is terminated in accordance with subparagraph (B) shall be considered as summer fallow for the purpose of insurability.
+
 **(b) Catastrophic risk protection**
 
-(1) **Coverage availability**
-
-  (A) *In general* — Except as provided in subparagraph (B), the Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.
-
-  (B) *Exception* — Coverage described in subparagraph (A) shall not be available for crops and grasses used for grazing.
+(1) **Coverage availability** — The Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.
 
 (2) **Amount of coverage**
 
@@ -859,7 +967,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 (5) **Administrative fee**
 
-  (A) *Basic fee* — Each producer shall pay an administrative fee for catastrophic risk protection in the amount of $300 per crop per county.
+  (A) *Basic fee* — Each producer shall pay an administrative fee for catastrophic risk protection in the amount of $655 per crop per county.
 
   (B) *Payment of catastrophic risk protection fee on behalf of producers*
 
@@ -879,7 +987,11 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
     (ii) *Limitation* — No funds deposited in the crop insurance fund under this subparagraph may be used to compensate an approved insurance provider or agent for the delivery of services under this subsection.
 
-  (E) *Waiver of fee* — The Corporation shall waive the amounts required under this paragraph for limited resource farmers and beginning farmers or ranchers, as defined by the Corporation.
+  (E) *Waiver of fee*
+
+    (i) *In general* — The Corporation shall waive the amounts required under this paragraph for limited resource farmers and beginning farmers or ranchers, as defined by the Corporation, and veteran farmers or ranchers.
+
+    (ii) *Coordination* — The Corporation shall coordinate with other agencies of the Department that provide programs or services to farmers and ranchers described in clause (i) to make available coverage under the waiver under that clause and to share eligibility information to reduce paperwork and avoid duplication.
 
 (6) **Participation requirement** — A producer may obtain catastrophic risk coverage for a crop of the producer on land in the county only if the producer obtains the coverage for the crop on all insurable land of the producer in the county.
 
@@ -1127,6 +1239,12 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
   (D) *Nonirrigated crops* — Beginning with the 2015 crop year, the Corporation shall make available separate enterprise units for irrigated and nonirrigated acreage of crops in counties.
 
+  (E) *Enterprise units across county lines* — The Corporation may allow a producer to establish a single enterprise unit by combining an enterprise unit with—
+
+    (i) 1 or more other enterprise units in 1 or more other counties; or
+
+    (ii) all basic units and all optional units in 1 or more other counties.
+
 (6) **Premium subsidy for area revenue plans** — Subject to paragraph (4), in the case of a policy or plan of insurance that covers losses due to a reduction in revenue in an area, the amount of the premium paid by the Corporation shall be as follows:
 
   (A) In the case of additional area coverage equal to or greater than 70 percent, but less than 75 percent, of the recorded county yield indemnified at not greater than 100 percent of the expected market price, the amount shall be equal to the sum of—
@@ -1173,7 +1291,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
     (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
-(8) **Premium for beginning farmers or ranchers** — Notwithstanding any other provision of this subsection regarding payment of a portion of premiums, a beginning farmer or rancher shall receive premium assistance that is 10 percentage points greater than premium assistance that would otherwise be available under paragraphs (2) (except for subparagraph (A) of that paragraph), (5), (6), and (7) for the applicable policy, plan of insurance, and coverage level selected by the beginning farmer or rancher.
+(8) **Premium for beginning and veteran farmers or ranchers** — Notwithstanding any other provision of this subsection regarding payment of a portion of premiums, a beginning farmer or rancher or veteran farmer or rancher shall receive premium assistance that is 10 percentage points greater than premium assistance that would otherwise be available under paragraphs (2) (except for subparagraph (A) of that paragraph), (5), (6), and (7) for the applicable policy, plan of insurance, and coverage level selected by the beginning farmer or rancher or veteran farmer or rancher.
 
 **(f) Eligibility**
 
@@ -1213,7 +1331,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
       (III) a producer that rotates a crop produced on a farm to a crop that has not been produced on the farm; or
 
-    (iii) if the producer is a beginning farmer or rancher who was previously involved in a farming or ranching operation, including involvement in the decisionmaking or physical involvement in the production of the crop or livestock on the farm, for any acreage obtained by the beginning farmer or rancher, a yield that is the higher of—
+    (iii) if the producer is a beginning farmer or rancher or veteran farmer or rancher who was previously involved in a farming or ranching operation, including involvement in the decisionmaking or physical involvement in the production of the crop or livestock on the farm, for any acreage obtained by the beginning farmer or rancher or veteran farmer or rancher, a yield that is the higher of—
 
       (I) the actual production history of the previous producer of the crop or livestock on the acreage determined under subparagraph (A); or
 
@@ -1257,7 +1375,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
       (I) replace each excluded yield with a yield equal to 60 percent of the applicable transitional yield; or
 
-      (II) in the case of beginning farmers or ranchers, replace each excluded yield with a yield equal to 80 percent of the applicable transitional yield.
+      (II) in the case of beginning farmers or ranchers and veteran farmers or ranchers, replace each excluded yield with a yield equal to 80 percent of the applicable transitional yield.
 
   (C) *Election to exclude certain history*
 
@@ -1281,6 +1399,18 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
   (B) *Adjustment amount* — The amount by which the Corporation adjusts the actual production history of a producer of an agricultural commodity shall reflect the degree to which the success of the systematic, area-wide efforts described in subparagraph (A), on average, increases the yield of the commodity on the producer’s farm, as determined by the Corporation.
 
+(6) **Continued authority**
+
+  (A) *In general* — The Corporation shall establish—
+
+    (i) underwriting rules that limit the decrease in the actual production history of a producer, at the election of the producer, to not more than 10 percent of the actual production history of the previous crop year provided that the production decline was the result of drought, flood, natural disaster, or other insurable loss (as determined by the Corporation); and
+
+    (ii) actuarially sound premiums to cover additional risk.
+
+  (B) *Other authority* — The authority provided under subparagraph (A) is in addition to any other authority that adjusts the actual production history of the producer under this subchapter.
+
+  (C) *Effect* — Nothing in this paragraph shall be construed to require a change in the administration of any provision of this subchapter as the subchapter was administered for the 2018 reinsurance year.
+
 **(h) Submission of policies and materials to Board**
 
 (1) **Authority to submit**
@@ -1291,13 +1421,17 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
     (ii) rates of premiums for multiple peril crop insurance pertaining to wheat, soybeans, field corn, and any other crops determined by the Secretary.
 
-  (B) *Review and submission by Corporation* — The Corporation shall review any policy developed under [section 1522(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522/c&num=0&edition=prelim) or any pilot program developed under [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523) and submit the policy or program to the Board under this subsection if the Corporation, at the sole discretion of the Corporation, finds that the policy or program—
+  (B) *Review and submission by Corporation*
 
-    (i) will likely result in a viable and marketable policy consistent with this subsection;
+    (i) *In general* — The Corporation shall review any policy developed under [section 1522(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522/c&num=0&edition=prelim) or any pilot program developed under [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523) and submit the policy or program to the Board under this subsection if the Corporation, at the sole discretion of the Corporation, finds that the policy or program—
 
-    (ii) would provide crop insurance coverage in a significantly improved form; and
+      (I) subject to clause (ii), will likely result in a viable and marketable policy consistent with this subsection;
 
-    (iii) adequately protects the interests of producers.
+      (II) would provide crop insurance coverage in a significantly improved form; and
+
+      (III) adequately protects the interests of producers.
+
+    (ii) *Waiver for hemp* — The Corporation may waive the viability and marketability requirement under clause (i)(I) in the case of a policy or pilot program relating to the production of hemp.
 
 (2) **Submission of policies** — A policy or other material submitted to the Board under this subsection may be prepared without regard to the limitations contained in this subchapter, including the requirements concerning the levels of coverage and rates and the requirement that a price level for each commodity insured must equal the expected market price for the commodity as established by the Board.
 
@@ -1329,9 +1463,11 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
     (i) shall make the development and approval of a revenue policy for peanut producers a priority so that a revenue policy is available to peanut producers in time for the 2015 crop year;
 
-    (ii) shall make the development and approval of a margin coverage policy for rice producers a priority so that a margin coverage policy is available to rice producers in time for the 2015 crop year; and
+    (ii) shall make the development and approval of a margin coverage policy for rice producers a priority so that a margin coverage policy is available to rice producers in time for the 2015 crop year;
 
-    (iii) may approve a submission that is made pursuant to this subsection that would, beginning with the 2015 crop year, allow producers that purchase policies in accordance with subsection (e)(5)(A) to separate enterprise units by risk rating for acreage of crops in counties.
+    (iii) may approve a submission that is made pursuant to this subsection that would, beginning with the 2015 crop year, allow producers that purchase policies in accordance with subsection (e)(5)(A) to separate enterprise units by risk rating for acreage of crops in counties; and
+
+    (iv) in the case of reviewing policies and other materials relating to the production of hemp, may waive the viability and marketability requirement under subparagraph (A)(ii)(I).
 
 (4) **Guidelines for submission and review** — The Corporation shall issue regulations to establish guidelines for the submission, and Board review, of policies or other material submitted to the Board under this subsection. At a minimum, the guidelines shall ensure the following:
 
@@ -1581,7 +1717,15 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 (2) **Reduction in benefits**
 
-  (A) *In general* — During the first 4 crop years of planting, as determined by the Secretary, native sod acreage that has been tilled for the production of an annual crop after February 7, 2014, shall be subject to a reduction in benefits under this subchapter as described in this paragraph.
+  (A) *In general*
+
+    (i) *First 4 crop years* — During the first 4 crop years of planting, as determined by the Secretary, native sod acreage that has been tilled for the production of an annual crop beginning on February 8, 2014, and ending on December 20, 2018, shall be subject to a reduction in benefits under this subchapter as described in this paragraph.
+
+    (ii) *Subsequent crop years* — Native sod acreage that has been tilled for the production of an insurable crop after December 20, 2018, shall be subject to a reduction in benefits under this subchapter as described in this paragraph for not more than 4 cumulative years—
+
+      (I) during the first 10 years after initial tillage; and
+
+      (II) during each of which a crop on that acreage is insured under subsection (c).
 
   (B) *De minimis acreage exemption* — The Secretary shall exempt areas of 5 acres or less from subparagraph (A).
 
@@ -1614,7 +1758,7 @@ The Organic Foods Production Act of 1990, referred to in subsec. (c)(6)(D)(i), i
 
 Section 118 of the Federal Crop Insurance Reform Act of 1994, referred to in subsec. (k)(5), is section 118 of Pub. L. 103–354, which is set out as a note under [section 1506 of this title](./chapter-036-crop-insurance.md#section-1506).
 
-This subchapter, referred to in subsec. (k)(8)(F)(i)(II), (III), was in the original “this Act”, meaning the Federal Crop Insurance Act, which is subtitle A of title V of act Feb. 16, 1938, ch. 30.
+This subchapter, referred to in subsecs. (g)(6)(B), (C) and (k)(8)(F)(i)(II), (III), was in the original “this Act”, meaning the Federal Crop Insurance Act, which is subtitle A of title V of act Feb. 16, 1938, ch. 30.
 
 The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
 
@@ -1624,6 +1768,60 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334, § 11106, substituted “sweet potatoes, and hemp” for “and sweet potatoes”.
+
+Subsec. (a)(3)(B). Pub. L. 115–334, § 11107(1), inserted “determination review” after “practices” in heading.
+
+Subsec. (a)(6). Pub. L. 115–334, § 11105(b)(1), inserted “(including value-added crops)” after “crops” in heading.
+
+Subsec. (a)(6)(A). Pub. L. 115–334, § 11105(b)(2), added subpar. (A) and struck out former subsec. (A). Prior to amendment, text read as follows: “Not later than 180 days after October 13, 1994, the Secretary shall issue guidelines for publication in the Federal Register for data collection to assist the Corporation in formulating crop insurance policies for new and specialty crops.”
+
+Subsec. (a)(6)(B). Pub. L. 115–334, § 11105(b)(3), substituted “Report” for “Addition of new crops” in heading.
+
+Subsec. (a)(6)(C), (D). Pub. L. 115–334, § 11105(b)(4), struck out subpars. (C) and (D) which read as follows:
+
+“(C) Addition of direct sale perishable crops.—Not later than 1 year after October 13, 1994, the Corporation shall report to Congress on the feasibility of offering a crop insurance program designed to meet the needs of specialized producers of vegetables and other perishable crops who market through direct marketing channels.
+
+“(D) Addition of nursery crops.—Not later than 2 years after April 4, 1996, the Corporation shall conduct a study and limited pilot program on the feasibility of insuring nursery crops.”
+
+Subsec. (a)(7). Pub. L. 115–334, § 11108(1), inserted “and underserved producers” after “States” in heading.
+
+Subsec. (a)(7)(A). Pub. L. 115–334, § 11108(2)(A), (C), substituted “Definitions” for “Definition of adequately served” in subpar. heading, inserted introductory provisions, designated existing provisions as cl. (i), inserted cl. heading, substituted “The term” for “In this paragraph, the term”, and added cl. (ii).
+
+Subsec. (a)(7)(A)(i). Pub. L. 115–334, § 11108(2)(B), which directed substitution of “participation rate, by crop,” for “participation rate”, was executed by making the substitution the first place appearing, to reflect the probable intent of Congress.
+
+Subsec. (a)(7)(B). Pub. L. 115–334, § 11108(3), substituted “Using resources and information available to the Board or the Secretary, the Board” for “The Board” and “subchapter, including policies and plans of insurance for underserved producers,” for “subchapter”.
+
+Subsec. (a)(7)(C). Pub. L. 115–334, § 11108(4), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows:
+
+“(i) In general.—Not later than 30 days after completion of the review under subparagraph (B), the Board shall submit to Congress a report on the results of the review.
+
+“(ii) Recommendations.—The report shall include recommendations to increase participation in States that are not adequately served by the policies and plans of insurance.”
+
+Subsec. (a)(11). Pub. L. 115–334, § 11107(2), added par. (11).
+
+Subsec. (b)(1). Pub. L. 115–334, § 11109(a), struck out subpar. (A) designation and heading, substituted “The” for “Except as provided in subparagraph (B), the”, and struck out subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Coverage described in subparagraph (A) shall not be available for crops and grasses used for grazing.”
+
+Subsec. (b)(5)(A). Pub. L. 115–334, § 11110, substituted “$655” for “$300”.
+
+Subsec. (b)(5)(E). Pub. L. 115–334, § 12306(b)(2)(A), designated existing provisions as cl. (i), inserted heading, inserted “, and veteran farmers or ranchers” before period at end, and added cl. (ii).
+
+Subsec. (e)(5)(E). Pub. L. 115–334, § 11111, added subpar. (E).
+
+Subsec. (e)(8). Pub. L. 115–334, § 12306(b)(2)(B), inserted “and veteran” after “beginning” in heading and “or veteran farmer or rancher” after “beginning farmer or rancher” in two places in text.
+
+Subsec. (g)(2)(B)(iii). Pub. L. 115–334, § 12306(b)(2)(C)(i), inserted “or veteran farmer or rancher” after “beginning farmer or rancher” in two places in introductory provisions.
+
+Subsec. (g)(4)(B)(ii)(II). Pub. L. 115–334, § 12306(b)(2)(C)(ii), inserted “and veteran farmers or ranchers” after “beginning farmers or ranchers”.
+
+Subsec. (g)(6). Pub. L. 115–334, § 11112, added par. (6).
+
+Subsec. (h)(1)(B). Pub. L. 115–334, § 11113(1), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i) and inserted “subject to clause (ii),” before “will likely” in subcl. (I), realigned margins, and added cl. (ii).
+
+Subsec. (h)(3)(C)(iv). Pub. L. 115–334, § 11113(2), added cl. (iv).
+
+Subsec. (o)(2)(A). Pub. L. 115–334, § 11114, designated existing provisions as cl. (i), inserted heading, substituted “beginning on February 8, 2014, and ending on December 20, 2018,” for “after February 7, 2014,”, and added cl. (ii).
+
 2015—Subsec. (k)(8). Pub. L. 114–94, § 32205, repealed Pub. L. 114–74, § 201, effective Nov. 2, 2015, and provided that the provisions of law amended by such section are restored as if such section had not been enacted. See notes below and Effective Date of 2015 Amendment note below.
 
 Subsec. (k)(8)(A). Pub. L. 114–74, § 201(1), which directed substitution of “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
@@ -2226,6 +2424,17 @@ Section applicable beginning with the 2001 crop of an agricultural commodity, se
 
 **(e) Relation to other coverages** The Stacked Income Protection Plan is in addition to all other coverages available to producers of upland cotton.
 
+**(f) Limitation** Effective beginning with the 2019 crop year, a farm shall not be eligible for the Stacked Income Protection Plan for upland cotton for a crop year for which the farm is enrolled in coverage for seed cotton under—
+
+(1) price loss coverage under [section 9016 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9016); or
+
+(2) agriculture risk coverage under [section 9017 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9017).
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (f). Pub. L. 115–123 added subsec. (f).
+
 
 <a id="section-1508c"></a>
 ## § 1508c. Peanut revenue crop insurance
@@ -2242,6 +2451,12 @@ Section applicable beginning with the 2001 crop of an agricultural commodity, se
   (A) make the adjustment in an open and transparent manner; and
 
   (B) submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the reasons for the adjustment.
+
+
+<a id="section-1508d"></a>
+## § 1508d. Coverage for forage and grazing
+
+Notwithstanding [section 1508a of this title](./chapter-036-crop-insurance.md#section-1508a), and in addition to any other available coverage, for crops that can be both grazed and mechanically harvested on the same acres during the same growing season, producers shall be allowed to purchase separate policies for each intended use, as determined by the Corporation, and any indemnity paid under those policies for each intended use shall not be considered to be for the same loss for the purposes of [section 1508(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/n&num=0&edition=prelim).
 
 
 <a id="section-1509"></a>
@@ -2435,9 +2650,15 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
   (A) at the request of the Corporation or, subject to paragraph (2), on its own initiative if the Farm Service Agency has reason to suspect the existence of program fraud, waste, or abuse, conducting fact finding relative to allegations of program fraud, waste, or abuse;
 
-  (B) reporting to the Corporation, in writing in a timely manner, the results of any fact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities; and
+  (B) reporting to the Corporation, in writing in a timely manner, the results of any fact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities;
 
-  (C) assisting the Corporation and approved insurance providers in auditing a statistically appropriate number of claims made under any policy or plan of insurance under this subchapter.
+  (C) assisting the Corporation and approved insurance providers in auditing a statistically appropriate number of claims made under any policy or plan of insurance under this subchapter; and
+
+  (D) using published aggregate data from the National Agricultural Statistics Service or any other data source to—
+
+    (i) detect yield disparities or other data anomalies that indicate potential fraud; and
+
+    (ii) target the relevant counties, crops, regions, companies, or agents associated with that potential fraud for audits and other enforcement actions.
 
 (2) **FSA inquiry** — If, within five calendar days after receiving a report submitted under paragraph (1)(B), the Corporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
 
@@ -2471,7 +2692,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 (2) **Review**
 
-  (A) *Review required* — The Corporation shall conduct a review of any agent identified pursuant to paragraph (1)(A), and any person identified pursuant to paragraph (1)(B), to determine whether the higher loss claims associated with the agent or the higher number of accepted or denied claims (as applicable) associated with the person are the result of fraud, waste, or abuse.
+  (A) *Review required* — The Corporation shall conduct a review of any agent identified under paragraph (1)(A), and any person identified under paragraph (1)(B), to determine whether the higher loss claims associated with the agent or the higher number of accepted or denied claims (as applicable) associated with the person are the result of fraud, waste, or abuse.
 
   (B) *Remedial action* — The Corporation shall take appropriate remedial action with respect to any occurrence of fraud, waste, or abuse identified in a review conducted under this paragraph.
 
@@ -2487,7 +2708,17 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
   (C) The elected coverage level, including the price election, of the insured.
 
-(2) **Time for submission** — The information required by paragraph (1) with respect to a policy or plan of insurance shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable sales closing date for the crop to be insured.
+  (D) The actual production history to be used to establish insurable yields.
+
+(2) **Time for submission**
+
+  (A) *In general* — The information required to be submitted under subparagraphs (A) through (C) of paragraph (1) with respect to a policy or plan of insurance shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable sales closing date for the crop to be insured.
+
+  (B) *Actual production history*
+
+    (i) *In general* — The information required to be submitted under paragraph (1)(D) with respect to an applicable policy or plan of insurance for a covered commodity (as defined in [section 9011 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9011)) shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable production reporting date for the crop to be insured.
+
+    (ii) *Correction of errors* — Nothing in clause (i) limits the ability of an approved insurance provider to correct any error in the information submitted under paragraph (1)(D) after receipt of the information by the Corporation in accordance with clause (i).
 
 **(h) Sanctions for program noncompliance and fraud**
 
@@ -2559,7 +2790,19 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 (3) **Use of private sector** — The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection, which shall be subject to competition on a periodic basis, as determined by the Secretary.
 
-**(k) Funding**
+**(k) Continuing education for loss adjusters and agents**
+
+(1) **In general** — The Corporation shall establish requirements for continuing education for loss adjusters and agents of approved insurance providers.
+
+(2) **Requirements** — The requirements for continuing education described in paragraph (1) shall ensure that loss adjusters and agents of approved insurance providers are familiar with—
+
+  (A) the policies and plans of insurance available under this subchapter, including the regulations promulgated to carry out this subchapter;
+
+  (B) efforts to promote program integrity through the elimination of waste, fraud, and abuse; and
+
+  (C) other aspects of adjusting, delivering, and servicing policies and plans of insurance by adjustors and agents, as determined by the Secretary, including conservation activities and agronomic practices (including organic and sustainable practices) that are common and appropriate to the area in which the insured crop being inspected is produced.
+
+**(l) Funding**
 
 (1) **Information technology**
 
@@ -2592,13 +2835,25 @@ The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
+This subchapter, referred to in subsec. (k)(2)(A), was in the original “this Act”, meaning the Federal Crop Insurance Act, which is subtitle A of title V of act Feb. 16, 1938, ch. 30.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
-A prior section, act Feb. 16, 1938, ch. 30, title V, § 515, 52 Stat. 77, provided for appointment and compensation of an advisory committee, prior to repeal by Pub. L. 96–365, title I, § 108, Sept. 26, 1980, 94 Stat. 1317.
+A prior section 1515, act Feb. 16, 1938, ch. 30, title V, § 515, 52 Stat. 77, provided for appointment and compensation of an advisory committee, prior to repeal by Pub. L. 96–365, title I, § 108, Sept. 26, 1980, 94 Stat. 1317.
 
 #### Amendments
+2018—Subsec. (d)(1)(D). Pub. L. 115–334, § 11115(1), added subpar. (D).
+
+Subsec. (f)(2)(A). Pub. L. 115–334, § 11115(2), substituted “under paragraph” for “pursuant to paragraph” in two places.
+
+Subsec. (g)(1)(D). Pub. L. 115–334, § 11116(1), added subpar. (D).
+
+Subsec. (g)(2). Pub. L. 115–334, § 11116(2), designated existing provisions as subpar. (A), inserted heading, substituted “The information required to be submitted under subparagraphs (A) through (C) of paragraph (1)” for “The information required by paragraph (1)”, and added subpar. (B).
+
+Subsecs. (k), (l). Pub. L. 115–334, § 11117, added subsec. (k) and redesignated former subsec. (k) as (l).
+
 2014—Subsec. (c). Pub. L. 113–79, § 11019, designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
 
 Subsec. (j)(1). Pub. L. 113–79, § 11020(1), added par. (1) and struck out former par. (1). Text read as follows: “The Secretary shall upgrade the information management systems of the Corporation used in the administration and enforcement and this subchapter. In upgrading the systems, the Secretary shall ensure that new hardware and software are compatible with the hardware and software used by other agencies of the Department to maximize data sharing and promote the purpose of this section.”
@@ -2638,7 +2893,7 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (B) Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
 
-  (C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523), subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523).
+  (C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523), subject to the limitations in subsection (a)(3)(E)(ii) of that section.
 
   (D) Costs associated with the reimbursement, contracting, and partnerships for research and development under [section 1522 of this title](./chapter-036-crop-insurance.md#section-1522).
 
@@ -2652,7 +2907,7 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (C) All administrative and operating expense reimbursements due under a reinsurance agreement with an approved insurance provider.
 
-  (D) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523), subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523).
+  (D) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523), subject to the limitations in subsection (a)(3)(E)(ii) of that section.
 
   (E) Costs associated with the reimbursement, contracting, and partnerships for research and development under [section 1522 of this title](./chapter-036-crop-insurance.md#section-1522).
 
@@ -2668,7 +2923,7 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (C) *Reviews, compliance, and integrity*
 
-    (i) *In general* — For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
+    (i) *In general* — For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $7,000,000 for each fiscal year, to pay costs—
 
       (I) to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
 
@@ -2695,6 +2950,10 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 ### Statutory Notes
 
 #### Amendments
+2018—Subsecs. (a)(2)(C), (b)(1)(D). Pub. L. 115–123 substituted “subsection (a)(3)(E)(ii) of that section” for “subsections (a)(3)(E)(ii) and (b)(10) of [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523)”.
+
+Subsec. (b)(2)(C)(i). Pub. L. 115–334 substituted “$7,000,000” for “$9,000,000” in introductory provisions.
+
 2014—Subsec. (b)(2)(C). Pub. L. 113–79 added subpar. (C).
 
 2000—Subsec. (a)(2). Pub. L. 106–224, § 147(a), in introductory provisions, substituted “years the following:” for “years—”, in subpar. (A), substituted “The” for “the” and a period for “; and” at end, in subpar. (B), substituted “Premium” for “premium”, and added subpars. (C) and (D).
@@ -2793,7 +3052,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 <a id="section-1518"></a>
 ## § 1518. “Agricultural commodity” defined
 
-“Agricultural commodity”, as used in this subchapter, means wheat, cotton, flax, corn, dry beans, oats, barley, rye, tobacco, rice, peanuts, soybeans, sugar beets, sugar cane, tomatoes, grain sorghum, sunflowers, raisins, oranges, sweet corn, dry peas, freezing and canning peas, forage, apples, grapes, potatoes, timber and forests, nursery crops, citrus, and other fruits and vegetables, nuts, tame hay, native grass, aquacultural species (including, but not limited to, any species of finfish, mollusk, crustacean, or other aquatic invertebrate, amphibian, reptile, or aquatic plant propagated or reared in a controlled or selected environment), or any other agricultural commodity, excluding stored grain, determined by the Board, or any one or more of such commodities, as the context may indicate.
+“Agricultural commodity”, as used in this subchapter, means wheat, cotton, flax, corn, dry beans, oats, barley, rye, tobacco, rice, peanuts, soybeans, sugar beets, sugar cane, tomatoes, grain sorghum, sunflowers, raisins, oranges, sweet corn, dry peas, freezing and canning peas, forage, apples, grapes, potatoes, timber and forests, nursery crops, citrus, and other fruits and vegetables, nuts, tame hay, native grass, hemp, aquacultural species (including, but not limited to, any species of finfish, mollusk, crustacean, or other aquatic invertebrate, amphibian, reptile, or aquatic plant propagated or reared in a controlled or selected environment), or any other agricultural commodity, excluding stored grain, determined by the Board, or any one or more of such commodities, as the context may indicate.
 
 ### Statutory Notes
 
@@ -2804,6 +3063,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A former section 1518, act Feb. 16, 1938, ch. 30, title V, § 518, 52 Stat. 77, was transferred to [section 1519 of this title](./chapter-036-crop-insurance.md#section-1519) at the time of the renumbering of such section 518 of act Feb. 16, 1938, as section 519 by act June 21, 1941, ch. 214, § 9, 55 Stat. 256.
 
 #### Amendments
+2018—Pub. L. 115–334 inserted “hemp,” before “aquacultural species”.
+
 2008—Pub. L. 110–246, § 12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 
 2000—Pub. L. 106–224 struck out “livestock and” before “stored grain” and “under subsection (a) or (m) of [section 1508 of this title](./chapter-036-crop-insurance.md#section-1508)” after “by the Board”.
@@ -2895,7 +3156,15 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (A) *In general* — The Corporation shall provide a payment to an applicant for research and development costs in accordance with this subsection.
 
-  (B) *Reimbursement* — An applicant who submits a policy under [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim) shall be eligible for the reimbursement of reasonable research and development costs directly related to the policy if the policy is approved by the Board for sale to producers.
+  (B) *Reimbursement*
+
+    (i) *In general* — An applicant who submits a policy under [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim) shall be eligible for the reimbursement of reasonable research and development costs if the policy is approved by the Board for sale to producers.
+
+    (ii) *Reasonable costs* — For the purpose of reimbursing research and development and maintenance costs under this section, costs of the applicant shall be considered reasonable costs if the costs are based on—
+
+      (I) for any employees or contracted personnel, wage rates equal to not more than 2 times the hourly wage rate plus benefits, as provided by the Bureau of Labor Statistics for the year in which such costs are incurred, calculated using the formula applied to an applicant by the Corporation in reviewing proposed project budgets under this section on October 1, 2016; and
+
+      (II) other actual documented costs incurred by the applicant.
 
 (2) **Advance payments**
 
@@ -2969,7 +3238,13 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (J) *Continued eligibility* — A determination that an applicant is not eligible for advance payments under this paragraph shall not prevent an applicant from reimbursement under paragraph (1)(B).
 
-(3) **Marketability** — The Corporation shall approve a reimbursement under paragraph (1) only after determining that the policy is marketable based on a reasonable marketing plan, as determined by the Board.
+  (K) *Waiver for hemp* — The Board may waive the viability and marketability requirements under this paragraph in the case of research and development relating to a policy to insure the production of hemp.
+
+(3) **Marketability**
+
+  (A) *In general* — Subject to subparagraph (B), the Corporation shall approve a reimbursement under paragraph (1) only after determining that the policy is marketable based on a reasonable marketing plan, as determined by the Board.
+
+  (B) *Waiver for hemp* — The Corporation may waive the marketability requirement under subparagraph (A) in the case of research and development relating to a policy to insure the production of hemp.
 
 (4) **Maintenance payments**
 
@@ -2977,7 +3252,7 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (B) *Duration* — Payments with respect to maintenance costs may be provided for a period of not more than four reinsurance years subsequent to Board approval for payment under this subsection.
 
-  (C) *Options for maintenance* — On the expiration of the 4-year period described in subparagraph (B), the approved insurance provider responsible for maintenance of the policy may—
+  (C) *Options for maintenance* — On the expiration of the 4-year period described in subparagraph (B), the applicant responsible for maintenance of the policy may—
 
     (i) maintain the policy and charge a fee to approved insurance providers that elect to sell the policy under this subsection; or
 
@@ -2985,13 +3260,21 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (D) *Fee*
 
-    (i) *Amount* — Subject to approval by the Board, the amount of the fee that is payable by an approved insurance provider that elects to sell the policy shall be an amount that is determined by the approved insurance provider maintaining the policy.
+    (i) *Amount* — Subject to approval by the Board, the amount of the fee that is payable by an approved insurance provider that elects to sell the policy shall be an amount that is determined by the applicant maintaining the policy.
 
     (ii) *Approval* — The Board shall approve the amount of a fee determined under clause (i) for maintenance of the policy unless the Board determines that the amount of the fee—
 
       (I) is unreasonable in relation to the maintenance costs associated with the policy; or
 
       (II) unnecessarily inhibits the use of the policy.
+
+    (iii) *Review* — After the Board approves the amount of a fee under clause (ii), the fee shall remain in effect and not be reviewed by the Board unless—
+
+      (I) the applicant petitions the Board for reconsideration of the fee;
+
+      (II) a substantial change is made to the policy, as determined by the Board; or
+
+      (III) there is substantial evidence that the fee is inhibiting sales or use of the policy, as determined by the Board.
 
 (5) **Treatment of payment** — Payments made under this subsection for a policy shall be considered as payment in full by the Corporation for the research and development conducted with regard to the policy and any property rights to the policy.
 
@@ -3025,161 +3308,7 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
 (6) **Research and development priorities** — The Corporation shall establish as one of the highest research and development priorities of the Corporation the development of policies that increase participation by producers of underserved agricultural commodities, including sweet sorghum, biomass sorghum, rice, peanuts, sugarcane, alfalfa, pennycress, dedicated energy crops, and specialty crops.
 
-(7) **Study of multiyear coverage**
-
-  (A) *In general* — The Corporation shall contract with a qualified person to conduct a study to determine whether offering policies that provide coverage for multiple years would reduce fraud, waste, and abuse by persons that participate in the Federal crop insurance program.
-
-  (B) *Report* — Not later than 1 year after June 20, 2000, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
-
-(8) **Contract for revenue coverage plans** — The Corporation shall enter into a contract for research and development regarding one or more revenue coverage plans that are designed to enable producers to take maximum advantage of fluctuations in market prices and thereby maximize revenue realized from the sale of an agricultural commodity. A revenue coverage plan may include the use of existing market instruments or the development of new market instruments. Not later than 15 months after June 20, 2000, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the contract entered into under this paragraph.
-
-(9) **Contract for cost of production policy**
-
-  (A) *Authority* — The Corporation shall enter into a contract for research and development regarding a cost of production policy.
-
-  (B) *Research and development* — The research and development shall—
-
-    (i) take into consideration the differences in the cost of production on a county-by-county basis; and
-
-    (ii) cover as many commodities as is practicable.
-
-(10) **Energy crop insurance policy**
-
-  (A) *Definition of dedicated energy crop* — In this subsection, the term “dedicated energy crop” means an annual or perennial crop that—
-
-    (i) is grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products; and
-
-    (ii) is not typically used for food, feed, or fiber.
-
-  (B) *Authority* — The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding a policy to insure dedicated energy crops.
-
-  (C) *Research and development* — Research and development described in subparagraph (B) shall evaluate the effectiveness of risk management tools for the production of dedicated energy crops, including policies and plans of insurance that—
-
-    (i) are based on market prices and yields;
-
-    (ii) to the extent that insufficient data exist to develop a policy based on market prices and yields, evaluate the policies and plans of insurance based on the use of weather or rainfall indices to protect the interests of crop producers; and
-
-    (iii) provide protection for production or revenue losses, or both.
-
-(11) **Aquaculture insurance policy**
-
-  (A) *Definition of aquaculture* — In this subsection:
-
-    (i) *In general* — The term “aquaculture” means the propagation and rearing of aquatic species in controlled or selected environments, including shellfish cultivation on grants or leased bottom and ocean ranching.
-
-    (ii) *Exclusion* — The term “aquaculture” does not include the private ocean ranching of Pacific salmon for profit in any State in which private ocean ranching of Pacific salmon is prohibited by any law (including regulations).
-
-  (B) *Authority*
-
-    (i) *In general* — As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Corporation shall offer to enter into 3 or more contracts with qualified entities to carry out research and development regarding a policy to insure the production of aquacultural species in aquaculture operations.
-
-    (ii) *Bivalve species* — At least 1 of the contracts described in clause (i) shall address insurance of bivalve species, including—
-
-      (I) American oysters (crassostrea virginica);
-
-      (II) hard clams (mercenaria mercenaria);
-
-      (III) Pacific oysters (crassostrea gigas);
-
-      (IV) Manila clams (tapes phillipinnarium); or
-
-      (V) blue mussels (mytilus edulis).
-
-    (iii) *Freshwater species* — At least 1 of the contracts described in clause (i) shall address insurance of freshwater species, including—
-
-      (I) catfish (icataluridae);
-
-      (II) rainbow trout (oncorhynchus mykiss);
-
-      (III) largemouth bass (micropterus salmoides);
-
-      (IV) striped bass (morone saxatilis);
-
-      (V) bream (abramis brama);
-
-      (VI) shrimp (penaeus); or
-
-      (VII) tilapia (oreochromis niloticus).
-
-    (iv) *Saltwater species* — At least 1 of the contracts described in clause (i) shall address insurance of saltwater species, including—
-
-      (I) Atlantic salmon (salmo salar); or
-
-      (II) shrimp (penaeus).
-
-  (C) *Research and development* — Research and development described in subparagraph (B) shall evaluate the effectiveness of policies and plans of insurance for the production of aquacultural species in aquaculture operations, including policies and plans of insurance that—
-
-    (i) are based on market prices and yields;
-
-    (ii) to the extent that insufficient data exist to develop a policy based on market prices and yields, evaluate how best to incorporate insuring of production of aquacultural species in aquaculture operations into existing policies covering adjusted gross revenue; and
-
-    (iii) provide protection for production or revenue losses, or both.
-
-(12) **Poultry insurance policy**
-
-  (A) *Definition of poultry* — In this paragraph, the term “poultry” has the meaning given the term in [section 182 of this title](./chapter-009-packers-and-stockyards.md#section-182).
-
-  (B) *Authority* — The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding a policy to insure commercial poultry production.
-
-  (C) *Research and development* — Research and development described in subparagraph (B) shall evaluate the effectiveness of risk management tools for the production of poultry, including policies and plans of insurance that provide protection for production or revenue losses, or both, while the poultry is in production.
-
-(13) **Apiary policies** — The Corporation shall offer to enter into a contract with a qualified entity to carry out research and development regarding insurance policies that cover loss of bees.
-
-(14) **Adjusted gross revenue policies for beginning producers** — The Corporation shall offer to enter into a contract with a qualified entity to carry out research and development into needed modifications of adjusted gross revenue insurance policies, consistent with principles of actuarial sufficiency, to permit coverage for beginning producers with no previous production history, including permitting those producers to have production and premium rates based on information with similar farming operations.
-
-(15) **Skiprow cropping practices**
-
-  (A) *In general* — The Corporation shall offer to enter into a contract with a qualified entity to carry out research into needed modifications of policies to insure corn and sorghum produced in the Central Great Plains (as determined by the Agricultural Research Service) through use of skiprow cropping practices.
-
-  (B) *Research* — Research described in subparagraph (A) shall—
-
-    (i) review existing research on skiprow cropping practices and actual production history of producers using skiprow cropping practices; and
-
-    (ii) evaluate the effectiveness of risk management tools for producers using skiprow cropping practices, including—
-
-      (I) the appropriateness of rules in existence as of the date of enactment of this paragraph relating to the determination of acreage planted in skiprow patterns; and
-
-      (II) whether policies for crops produced through skiprow cropping practices reflect actual production capabilities.
-
-(16) **Margin coverage for catfish**
-
-  (A) *In general* — The Corporation shall offer to enter into a contract with a qualified entity to conduct research and development regarding a policy to insure producers against reduction in the margin between the market value of catfish and selected costs incurred in the production of catfish.
-
-  (B) *Eligibility* — Eligibility for the policy described in subparagraph (A) shall be limited to freshwater species of catfish that are propagated and reared in controlled or selected environments.
-
-  (C) *Implementation* — The Board shall review the policy described in subparagraph (B) under [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim) and approve the policy if the Board finds that the policy—
-
-    (i) will likely result in a viable and marketable policy consistent with this subsection;
-
-    (ii) would provide crop insurance coverage in a significantly improved form;
-
-    (iii) adequately protects the interests of producers; and
-
-    (iv) meets other requirements of this subchapter determined appropriate by the Board.
-
-(17) **Biomass and sweet sorghum energy crop insurance policies**
-
-  (A) *In general* — The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding—
-
-    (i) a policy to insure biomass sorghum that is grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products; and
-
-    (ii) a policy to insure sweet sorghum that is grown for a purpose described in clause (i).
-
-  (B) *Research and development* — Research and development with respect to each of the policies required in subparagraph (A) shall evaluate the effectiveness of risk management tools for the production of biomass sorghum or sweet sorghum, including policies and plans of insurance that—
-
-    (i) are based on market prices and yields;
-
-    (ii) to the extent that insufficient data exist to develop a policy based on market prices and yields, evaluate the policies and plans of insurance based on the use of weather indices, including excessive or inadequate rainfall, to protect the interest of crop producers; and
-
-    (iii) provide protection for production or revenue losses, or both.
-
-(18) **Study on swine catastrophic disease program**
-
-  (A) *In general* — The Corporation shall contract with 1 or more qualified entities to conduct a study to determine the feasibility of insuring swine producers for a catastrophic event.
-
-  (B) *Report* — Not later than 1 year after February 7, 2014, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
-
-(19) **Whole farm diversified risk management insurance plan**
+(7) **Whole farm diversified risk management insurance plan**
 
   (A) *In general* — Unless the Corporation approves a whole farm insurance plan, similar to the plan described in this paragraph, to be available to producers for the 2016 reinsurance year, the Corporation shall conduct activities or enter into contracts to carry out research and development to develop a whole farm risk management insurance plan, with a liability limitation of $1,500,000, that allows a diversified crop or livestock producer the option to qualify for an indemnity if actual gross farm revenue is below 85 percent of the average gross farm revenue or the expected gross farm revenue that can reasonably be expected of the producer, as determined by the Corporation.
 
@@ -3193,51 +3322,309 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (D) *Market readiness* — The Corporation may include coverage for the value of any packing, packaging, or any other similar on-farm activity the Corporation determines to be the minimum required in order to remove the commodity from the field.
 
-(20) **Study on poultry catastrophic disease program**
+  (E) *Review of modifications to improve effectiveness*
 
-  (A) *In general* — The Corporation shall contract with a qualified person to conduct a study to determine the feasibility of insuring poultry producers for a catastrophic event.
+    (i) *In general* — Not later than 18 months after December 20, 2018—
 
-  (B) *Report* — Not later than 1 year after February 7, 2014, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
+      (I) the Corporation shall hold stakeholder meetings to solicit producer and agent feedback; and
 
-(21) **Poultry business interruption insurance policy**
+      (II) the Board shall—
 
-  (A) *Definitions* — In this paragraph, the terms “poultry” and “poultry grower” have the meanings given those terms in [section 182 of this title](./chapter-009-packers-and-stockyards.md#section-182).
+        (aa) review procedures and paperwork requirements on agents and producers; and
 
-  (B) *Authority* — The Corporation shall offer to enter into a contract or cooperative agreement with an institution of higher education or other legal entity to carry out research and development regarding a policy to insure the commercial production of poultry against business interruptions caused by integrator bankruptcy.
+        (bb) modify procedures and requirements, as appropriate, to decrease burdens and increase flexibility and effectiveness.
 
-  (C) *Research and development* — As part of the research and development conducted pursuant to a contract or cooperative agreement entered into under subparagraph (B), the entity shall—
+    (ii) *Factors* — In carrying out items (aa) and (bb) of subclause (i)(II), the Board shall consider—
 
-    (i) evaluate the market place for business interruption insurance that is available to poultry growers;
+      (I) removing caps on nursery and livestock production;
 
-    (ii) determine what statutory authority would be necessary to implement a business interruption insurance through the Corporation;
+      (II) allowing a waiver to expand operations, especially for small and beginning farmers;
 
-    (iii) assess the feasibility of a policy or plan of insurance offered under this subchapter to insure against a portion of losses due to business interruption or to the bankruptcy of an business integrator; and
+      (III) minimizing paperwork for producers and agents;
 
-    (iv) analyze the costs to the Federal Government of a Federal business interruption insurance program for poultry growers or producers.
+      (IV) implementing an option for producers with less than $1,000,000 in gross revenue that requires significantly less paperwork and recordkeeping;
 
-  (D) *Deadline for contract or cooperative agreement* — Not later than 180 days after February 7, 2014, the Corporation shall offer to enter into the contract or cooperative agreement required by subparagraph (B).
+      (V) developing and using alternative records such as time-stamped photographs or technology applications to document planting and production history;
 
-  (E) *Deadline for completion of research and development* — Not later than 1 year after February 7, 2014, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the research and development conducted pursuant to the contract or cooperative agreement entered into under subparagraph (B).] 22 So in original. The closing bracket probably should not appear.
+      (VI) treating the different growth stages of aquaculture species as separate crops to recognize the difference in perils at different phases of growth;
 
-(22) **Study of food safety insurance**
+      (VII) moderating the impacts of disaster years on historic revenue, such as—
 
-  (A) *In general* — The Corporation shall offer to enter into a contract with 1 or more qualified entities to conduct a study to determine whether offering policies that provide coverage for specialty crops from food safety and contamination issues would benefit agricultural producers.
+        (aa) using an average of the historic and projected revenue;
 
-  (B) *Subject* — The study described in subparagraph (A) shall evaluate policies and plans of insurance coverage that provide protection for production or revenue impacted by food safety concerns including, at a minimum, government, retail, or national consumer group announcements of a health advisory, removal, or recall related to a contamination concern.
+        (bb) counting indemnities as historic revenue for loss years;
 
-  (C) *Report* — Not later than 1 year after February 7, 2014, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
+        (cc) counting payments under [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333) as historic revenue for loss years; or
 
-(23) **Alfalfa crop insurance policy**
+        (dd) using an assigned yield floor similar to the limitation described in [section 1508(g)(6)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/g/6/A/i&num=0&edition=prelim), as determined by the Secretary;
 
-  (A) *In general* — The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding a policy to insure alfalfa.
+      (VIII) improving agent training and outreach to underserved regions and sectors such as small dairy farms; and
 
-  (B) *Report* — Not later than 1 year after February 7, 2014, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subparagraph (A).
+      (IX) providing coverage and indemnification of insurable losses—
 
-(24) **Relation to limitations** — A policy developed under this subsection may be prepared without regard to the limitations of this subchapter, including—
+        (aa) after the losses exceed the deductible; and
+
+        (bb) up to the maximum amount of total coverage.
+
+  (F) *Beginning farmer or rancher defined* — Notwithstanding [section 1502(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1502/b/3&num=0&edition=prelim), with respect to plans described under this paragraph, the term “beginning farmer or rancher” means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 10 crop years.
+
+(8) **Relation to limitations** — A policy developed under this subsection may be prepared without regard to the limitations of this subchapter, including—
 
   (A) the requirement concerning the levels of coverage and rates; and
 
   (B) the requirement that the price level for each insured agricultural commodity must equal the expected market price for the agricultural commodity, as established by the Board.
+
+(9) **Tropical storm or hurricane insurance**
+
+  (A) *In general* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development, regarding a policy to insure crops (including tomatoes, peppers, and citrus) against losses due to a tropical storm or hurricane.
+
+  (B) *Research and development* — Research and development under subparagraph (A) shall—
+
+    (i) evaluate the effectiveness of risk management tools for a low frequency and catastrophic loss weather event; and
+
+    (ii) result in a policy that provides protection for at least 1 of the following:
+
+      (I) Production loss.
+
+      (II) Revenue loss.
+
+  (C) *Report* — Not later than 1 year after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research and development carried out under this paragraph; and
+
+    (ii) any recommendations with respect to those results.
+
+(10) **Quality loss**
+
+  (A) *In general* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development, regarding the establishment of each of the following alternative methods of adjusting for quality losses:
+
+    (i) A method that does not impact the actual production history of a producer.
+
+    (ii) A method that provides that, in circumstances in which a producer has suffered a quality loss to the insured crop of the producer that is insufficient to trigger an indemnity payment, the producer may elect to exclude that quality loss from the actual production history of the producer.
+
+    (iii) 1 or more methods that combine the methods described in clauses (i) and (ii).
+
+  (B) *Requirements* — Notwithstanding subsections (g) and (m) of [section 1508 of this title](./chapter-036-crop-insurance.md#section-1508), any method developed under subparagraph (A) that is used by the Corporation shall be—
+
+    (i) optional for a producer to use; and
+
+    (ii) offered at an actuarially sound premium rate.
+
+  (C) *Report* — Not later than 1 year after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research and development carried out under subparagraph (A); and
+
+    (ii) any recommendations with respect to those results.
+
+(11) **Citrus**
+
+  (A) *In general* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development, regarding the insurance of citrus fruit commodities and commodity types, including research and development of—
+
+    (i) improvements to 1 or more existing policies, including the whole-farm revenue protection pilot policy;
+
+    (ii) alternative methods of insuring revenue for citrus fruit commodities and commodity types; and
+
+    (iii) the development of new, or expansion of existing, revenue policies for citrus fruit commodities and commodity types.
+
+  (B) *Report* — Not later than 1 year after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research and development carried out under subparagraph (A); and
+
+    (ii) any recommendations with respect to those results.
+
+(12) **Hops**
+
+  (A) *In general* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development, regarding a policy to insure the production of hops or revenue derived from the production of hops.
+
+  (B) *Report* — Not later than 1 year after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research and development carried out under subparagraph (A); and
+
+    (ii) any recommendations with respect to those results.
+
+(13) **Subsurface irrigation practices**
+
+  (A) *In general* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development, regarding the creation of a separate practice for subsurface irrigation, including the establishment of a separate transitional yield within a county that is reflective of the average gain in productivity and yield associated with the installation of a subsurface irrigation system.
+
+  (B) *Report* — Not later than 18 months after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research and development carried out under subparagraph (A); and
+
+    (ii) any recommendations with respect to those results.
+
+(14) **Grain sorghum**
+
+  (A) *In general* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development—
+
+    (i) regarding improvements to 1 or more policies to insure irrigated grain sorghum;
+
+    (ii) regarding alternative methods for producers with not more than 4 years of production history to insure irrigated grain sorghum; and
+
+    (iii) to assess, by county, the difference in the rate, average yield, and coverage level of grain sorghum policies compared to policies for other feed grains in that county.
+
+  (B) *Report* — Not later than 18 months after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research and development carried out under subparagraph (A); and
+
+    (ii) any recommendations with respect to those results.
+
+(15) **Limited irrigation practices**
+
+  (A) *Authority* — The Corporation shall—
+
+    (i) consider expanding the availability of the limited irrigation insurance program to neighboring and similarly situated States (such as the States of Colorado and Nebraska), as determined by the Secretary;
+
+    (ii) carry out research, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research, on the marketability of the existing limited irrigation insurance program; and
+
+    (iii) make recommendations on how to improve participation in that program.
+
+  (B) *Research* — In carrying out research under subparagraph (A), a qualified person shall—
+
+    (i) collaborate with researchers on the subjects of—
+
+      (I) reduced irrigation practices or limited irrigation practices; and
+
+      (II) expected yield reductions following the application of reduced irrigation;
+
+    (ii) collaborate with State and Federal officials responsible for the collection of water and the regulation of water use for the purpose of irrigation;
+
+    (iii) provide recommendations to encourage producers to carry out limited irrigation practices or reduced irrigation and water conservation practices; and
+
+    (iv) develop web-based applications that will streamline access to coverage for producers electing to conserve water use on irrigated crops.
+
+  (C) *Report* — Not later than 18 months after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research carried out under subparagraphs (A) and (B);
+
+    (ii) any recommendations to encourage producers to carry out limited irrigation practices or reduced irrigation and water conservation practices; and
+
+    (iii) the actions taken by the Corporation to carry out the recommendations described in clause (ii).
+
+(16) **Insurable irrigation practices for rice**
+
+  (A) *In general* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development, to include new and innovative irrigation practices under the current rice policy or the development of a distinct policy endorsement rated for rice produced using—
+
+    (i) alternate wetting and drying practices (also referred to as “intermittent flooding”); and
+
+    (ii) furrow irrigation practices.
+
+  (B) *Report* — Not later than 18 months after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research and development carried out under paragraph (1); and
+
+    (ii) any recommendations with respect to those results.
+
+(17) **Greenhouse policy**
+
+  (A) *In general*
+
+    (i) *Research and development* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development, regarding a policy to insure in a controlled environment such as a greenhouse—
+
+      (I) the production of floriculture, nursery, and bedding plants;
+
+      (II) the establishment of cuttings or tissue culture in a growing medium; or
+
+      (III) other similar production, as determined by the Secretary.
+
+    (ii) *Availability of policy* — Notwithstanding the last sentence of [section 1508(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/a/1&num=0&edition=prelim), and [section 1508(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/a/2&num=0&edition=prelim), the Corporation shall make a policy described in clause (i) available if the requirements of [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim) are met.
+
+  (B) *Research and development described* — Research and development described in subparagraph (A)(i) shall evaluate the effectiveness of policies for the production of plants in a controlled environment, including policies that—
+
+    (i) are based on the risk of—
+
+      (I) plant diseases introduced from the environment;
+
+      (II) contaminated cuttings, seedlings, or tissue culture; or
+
+      (III) Federal or State quarantine or destruction orders associated with the contaminated items described in subclause (II);
+
+    (ii) consider other causes of loss applicable to a controlled environment, such as a loss of electricity due to weather;
+
+    (iii) consider appropriate best practices to minimize the risk of loss;
+
+    (iv) consider whether to provide coverage for various types of plants under 1 policy or to provide coverage for 1 species or type of plant per policy;
+
+    (v) have streamlined reporting and paperwork requirements that take into account short propagation schedules, variable crop years, and the variety of plants that may be produced in a single facility; and
+
+    (vi) provide protection for revenue losses.
+
+  (C) *Report* — Not later than 2 years after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+    (i) the results of the research and development carried out under subparagraphs (A)(i) and (B); and
+
+    (ii) any recommendations with respect to those results.
+
+(18) **Local foods**
+
+  (A) *In general*
+
+    (i) *Feasibility study* — The Corporation shall carry out a study to determine the feasibility of, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out a study to determine the feasibility of, a policy to insure production—
+
+      (I) of floriculture, fruits, vegetables, poultry, livestock, or the products of floriculture, fruits, vegetables, poultry, or livestock; and
+
+      (II) that is targeted toward local consumers and markets.
+
+    (ii) *Availability of policy* — Notwithstanding the last sentence of [section 1508(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/a/1&num=0&edition=prelim), and [section 1508(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/a/2&num=0&edition=prelim), the Corporation shall make available a policy described in clause (i) if—
+
+      (I) the results of the feasibility study under clause (i) are viable; and
+
+      (II) the requirements of [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim) are met.
+
+  (B) *Feasibility study described* — The feasibility study described in subparagraph (A)(i) shall evaluate the effectiveness of policies for production targeted toward local consumers and markets, including policies that—
+
+    (i) consider small-scale production in various areas, including urban, suburban, and rural areas;
+
+    (ii) consider a variety of marketing strategies;
+
+    (iii) allow for production in soil and in alternative systems such as vertical systems, greenhouses, rooftops, or hydroponic systems;
+
+    (iv) consider the price premium when accounting for production or revenue losses;
+
+    (v) consider whether to provide coverage—
+
+      (I) for various types of production under 1 policy; and
+
+      (II) for 1 species or type of plant per policy; and
+
+    (vi) have streamlined reporting and paperwork requirements.
+
+  (C) *Report* — Not later than 2 years after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
+
+    (i) examines whether a version of existing policies such as the whole-farm revenue protection insurance plan may be tailored to provide improved coverage for producers of local foods;
+
+    (ii) describes the results of the feasibility study carried out under subparagraph (A)(i); and
+
+    (iii) includes any recommendations with respect to those results.
+
+(19) **High-risk, highly productive batture land policy**
+
+  (A) *In general*
+
+    (i) *Research and development* — The Corporation shall carry out research and development, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research and development, regarding a policy to insure producers of corn, cotton, and soybeans—
+
+      (I) with operations on highly productive batture land within the Lower Mississippi River Valley;
+
+      (II) that have a history of production of not less than 5 years; and
+
+      (III) that have been impacted by more frequent flooding over the past 10 years due to sedimentation or federally constructed engineering improvements.
+
+    (ii) *Availability of policy* — Notwithstanding the last sentence of [section 1508(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/a/1&num=0&edition=prelim), and [section 1508(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/a/2&num=0&edition=prelim), the Corporation shall make a policy described in clause (i) available if the requirements of [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim) are met.
+
+  (B) *Research and development described* — Research and development described in subparagraph (A)(i) shall evaluate the feasibility of less cost-prohibitive policies for batture-land producers in high risk areas, including policies that—
+
+    (i) consider premium rate adjustments;
+
+    (ii) consider automatic yield exclusion for consecutive-year losses; and
+
+    (iii) allow for flexibility of final plant dates and prevent plant regulations.
+
+  (C) *Report* — Not later than 2 years after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
+
+    (i) examines whether a version of existing policies may be tailored to provide improved coverage for batture-land producers;
+
+    (ii) describes the results of the research and development carried out under subparagraphs (A) and (B); and
+
+    (iii) includes any recommendations with respect to those results.
 
 **(d) Partnerships for risk management development and implementation**
 
@@ -3273,7 +3660,11 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
 (2) **Contracting**
 
-  (A) *Conducting and contracting for research and development* — Of the amounts made available from the insurance fund established under [section 1516(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1516/c&num=0&edition=prelim), the Corporation may use to conduct research and development and carry out contracting and partnerships under subsections (c) and (d) not more than $12,500,000 for fiscal year 2008 and each subsequent fiscal year.
+  (A) *Conducting and contracting for research and development* — Of the amounts made available from the insurance fund established under [section 1516(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1516/c&num=0&edition=prelim), the Corporation may use to conduct research and development and carry out contracting and partnerships under subsections (c) and (d) not more than—
+
+    (i) $12,500,000 for each of fiscal years 2008 through 2018; and
+
+    (ii) $8,000,000 for fiscal year 2019 and each fiscal year thereafter.
 
   (B) *Underserved States* — Of the amount made available under subparagraph (A) for a fiscal year, the Corporation shall use not more than $5,000,000 for the fiscal year to conduct research and development and carry out contracting for research and development to carry out the purpose described in subsection (c)(1)(A).
 
@@ -3293,13 +3684,26 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of the Food, Conservation, and Energy Act of 2008 and the date of enactment of this paragraph, referred to in subsec. (c)(11)(B)(i), (15)(B)(ii)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(1)(B). Pub. L. 115–334, § 11120(a)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: “An applicant who submits a policy under [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim) shall be eligible for the reimbursement of reasonable research and development costs directly related to the policy if the policy is approved by the Board for sale to producers.”
+
+Subsec. (b)(2)(K). Pub. L. 115–334, § 11121(1), added subpar. (K).
+
+Subsec. (b)(3). Pub. L. 115–334, § 11121(2), designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), the Corporation” for “The Corporation”, and added subpar. (B).
+
+Subsec. (b)(4)(C). Pub. L. 115–334, § 11120(a)(2)(A), substituted “applicant” for “approved insurance provider” in introductory provisions.
+
+Subsec. (b)(4)(D)(i). Pub. L. 115–334, § 11120(a)(2)(B)(i), substituted “determined by the applicant” for “determined by the approved insurance provider”.
+
+Subsec. (b)(4)(D)(iii). Pub. L. 115–334, § 11120(a)(2)(B)(ii), added cl. (iii).
+
+Subsec. (c)(7) to (24). Pub. L. 115–334, § 11122, redesignated par. (19) as (7) and added subpars. (E) and (F), redesignated par. (24) as (8), added pars. (9) to (19), and struck out former pars. (7) to (18) and (20) to (23) which related, respectively, to study of multiyear coverage, contract for revenue coverage plans, contract for cost of production policy, energy crop insurance policy, aquaculture insurance policy, poultry insurance policy, apiary policies, adjusted gross revenue policies for beginning producers, skiprow cropping practices, margin coverage for catfish, biomass and sweet sorghum energy crop insurance policies, study on swine catastrophic disease program, study on poultry catastrophic disease program, poultry business interruption insurance policy, study of food safety insurance, and alfalfa crop insurance policy.
+
+Subsec. (e)(2)(A). Pub. L. 115–334, § 11123, substituted “not more than—” and cl. (i) for “not more than $12,500,000 for fiscal year 2008 and each subsequent fiscal year.” and added cl. (ii).
+
 2014—Subsec. (b)(2)(E). Pub. L. 113–79, § 11010(b), added subpar. (E) and struck out former subpar. (E) which related to Board approval of up to 50 percent of the projected total research and development costs to be paid in advance to an applicant.
 
 Subsec. (b)(4)(A). Pub. L. 113–79, § 11028(b)(1), substituted “paragraph (1)” for “paragraphs (1)”.
@@ -3363,6 +3767,9 @@ Subsec. (e)(2)(A). Pub. L. 110–246, § 12024(2), substituted “$12,500,000 fo
 Subsec. (e)(3). Pub. L. 110–246, § 12024(3), substituted “the Corporation may use—” for “the Corporation may use the excess amount to carry out another function authorized under this section.” and added subpars. (A) and (B).
 
 Subsec. (e)(4). Pub. L. 110–246, § 12033(c)(2)(B), substituted “this subchapter” for “this chapter” in two places.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title XI, § 11120(b), Dec. 20, 2018, 132 Stat. 4927, provided that: “(1) In general.—The amendments made by this section [amending this section] shall apply to reimbursement requests made on or after October 1, 2016. “(2) Resubmission of denied request.—An applicant that was denied all or a portion of a reimbursement request under paragraph (1) of section 522(b) of the Federal Crop Insurance Act ([7 U.S.C. 1522(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522/b&num=0&edition=prelim)) during the period between October 1, 2016, and the date of the enactment of this Act [Dec. 20, 2018] shall be given an opportunity to resubmit such request.”
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -3439,14 +3846,6 @@ Pub. L. 107–20, title II, § 2103, July 24, 2001, 115 Stat. 165, provided that
 (8) **Location** — The Corporation shall conduct the livestock pilot programs under this subsection in a number of counties that is determined by the Corporation to be adequate to provide a comprehensive evaluation of the feasibility, effectiveness, and demand among producers for the risk management tools evaluated in the pilot programs.
 
 (9) **Eligible producers** — Any producer of a type of livestock covered by a pilot program under this subsection that owns or operates a farm or ranch in a county selected as a location for that pilot program shall be eligible to participate in that pilot program.
-
-(10) **Limitation on expenditures** — The Corporation shall conduct all livestock programs under this subchapter so that, to the maximum extent practicable, all costs associated with conducting the livestock programs (other than research and development costs covered by [section 1522 of this title](./chapter-036-crop-insurance.md#section-1522)) are not expected to exceed the following:
-
-  (A) $10,000,000 for each of fiscal years 2001 and 2002.
-
-  (B) $15,000,000 for fiscal year 2003.
-
-  (C) $20,000,000 for fiscal year 2004 and each subsequent fiscal year.
 
 **(c) Revenue insurance pilot program**
 
@@ -3562,7 +3961,7 @@ Pub. L. 107–20, title II, § 2103, July 24, 2001, 115 Stat. 165, provided that
 
 (3) **Review and approval of submissions**
 
-  (A) *In general* — The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph 22 So in original. Probably should be followed by a period.
+  (A) *In general* — The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph.
 
   (B) *Requirements* — To be eligible for approval under this subsection, the approved insurance provider shall have—
 
@@ -3643,6 +4042,10 @@ The date of enactment of this subsection, referred to in subsecs. (f)(3), (g)(4)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(10). Pub. L. 115–123 struck out par. (10) which related to limitation on expenditures.
+
+Subsec. (i)(3)(A). Pub. L. 115–334 inserted period at end.
+
 2014—Subsec. (a)(1). Pub. L. 113–79, § 11025(1), inserted “, at the sole discretion of the Corporation,” after “the Corporation may”.
 
 Subsec. (a)(5). Pub. L. 113–79, § 11025(2), struck out par. (5) which related to evaluation of the pilot program.
@@ -3670,21 +4073,11 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 ## § 1524. Education and risk management assistance
 **(a) Education assistance**
 
-(1) **In general** — Subject to the amounts made available under paragraph (5)—
+(1) **In general** — Subject to the amounts made available under paragraph (4), the Secretary, acting through the National Institute of Food and Agriculture, shall carry out the program established under paragraph (2).
 
-  (A) the Corporation shall carry out the program established under paragraph (2); and
+(2) **Partnerships for risk management education**
 
-  (B) the Secretary, acting through the National Institute of Food and Agriculture, shall carry out the program established under paragraph (3).
-
-(2) **Education and information** — The Corporation shall establish a program under which crop insurance education and information is provided to producers in States in which (as determined by the Secretary)—
-
-  (A) there is traditionally, and continues to be, a low level of Federal crop insurance participation and availability; and
-
-  (B) producers are underserved by the Federal crop insurance program.
-
-(3) **Partnerships for risk management education**
-
-  (A) *Authority* — The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, farm financial benchmarking, and other risk management strategies.
+  (A) *Authority* — The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers and providing technical assistance to agricultural producers on a full range of farm viability and risk management activities, including futures, options, agricultural trade options, crop insurance, business planning, enterprise analysis, transfer and succession planning, management coaching, market assessment, cash flow analysis, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, farm financial benchmarking, conservation activities, and other risk management strategies.
 
   (B) *Basis for grants* — A grant under this paragraph shall be awarded on the basis of merit and shall be subject to peer or merit review.
 
@@ -3692,7 +4085,7 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 
   (D) *Administrative costs* — The Secretary may use not more than 4 percent of the funds made available for grants under this paragraph for administrative costs incurred by the Secretary in carrying out this paragraph.
 
-(4) **Requirements** — In carrying out the programs established under paragraphs (2) and (3), the Secretary shall place special emphasis on risk management strategies (including farm financial benchmarking), education, and outreach specifically targeted at—
+(3) **Requirements** — In carrying out the program established under paragraph (2), the Secretary shall place special emphasis on farm viability and risk management strategies (including farm financial benchmarking, business planning and technical assistance, market assessment, transfer and succession planning, and crop insurance participation), education, and outreach specifically targeted at—
 
   (A) beginning farmers or ranchers;
 
@@ -3702,17 +4095,17 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 
   (D) farmers or ranchers that—
 
-    (i) are preparing to retire; and
+    (i) are preparing to retire;
 
-    (ii) are using transition strategies to help new farmers or ranchers get started; and
+    (ii) are using transition strategies to help new farmers or ranchers get started; 11 So in original. Probably should be followed by “and”.
 
-  (E) new or established farmers or ranchers that are converting production and marketing systems to pursue new markets.
+    (iii) are converting production and marketing systems to pursue new markets; and 22 So in original. The word “and” probably should not appear.
 
-(5) **Funding** — From the insurance fund established under [section 1516(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1516/c&num=0&edition=prelim), there is transferred—
+  (E) producers that are underserved by the Federal crop insurance program established under this subchapter, as determined by the Corporation; and
 
-  (A) for the education and information program established under paragraph (2), $5,000,000 for fiscal year 2001 and each subsequent fiscal year; and
+  (F) veteran farmers or ranchers.
 
-  (B) for the partnerships for risk management education program established under paragraph (3), $5,000,000 for fiscal year 2001 and each subsequent fiscal year.
+(4) **Funding** — From the insurance fund established under [section 1516(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1516/c&num=0&edition=prelim), there is transferred for the partnerships for risk management education program established under paragraph (2), $10,000,000 for fiscal year 2019 and each subsequent fiscal year, of which not less than $5,000,000 shall be used to carry out paragraph (3)(E).
 
 **(b) Agricultural management assistance**
 
@@ -3744,7 +4137,7 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 
   (F) conduct any other activity relating to an activity described in subparagraphs (A) through (E), as determined by the Secretary.
 
-(3) **Payment limitation** — The total amount of payments made to a person (as defined in section 1308(5) 11 See References in Text note below. of this title) (before the amendment made by section 1603(a) 1 of the Food, Conservation, and Energy Act of 2008) under this subsection for any year may not exceed $50,000.
+(3) **Payment limitation** — The total amount of payments made to a person (as defined in section 1308(5) 33 See References in Text note below. of this title) (before the amendment made by section 1603(a) 1 of the Food, Conservation, and Energy Act of 2008) under this subsection for any year may not exceed $50,000.
 
 (4) **Commodity Credit Corporation**
 
@@ -3773,6 +4166,24 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334, § 11125(a)(1), substituted “paragraph (4), the Secretary” for “paragraph (5)—”, subpar. (A), and “(B) the Secretary” before “, acting through”, and substituted “paragraph (2)” for “paragraph (3)”. Prior to amendment, subpar. (A) read as follows: “the Corporation shall carry out the program established under paragraph (2); and”.
+
+Subsec. (a)(2). Pub. L. 115–334, § 11125(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Corporation shall establish a program under which crop insurance education and information is provided to producers in States in which (as determined by the Secretary)—
+
+“(A) there is traditionally, and continues to be, a low level of Federal crop insurance participation and availability; and
+
+“(B) producers are underserved by the Federal crop insurance program.”
+
+Subsec. (a)(2)(A). Pub. L. 115–334, § 11125(a)(4), substituted “and providing technical assistance to agricultural producers on a full range of farm viability and” for “about the full range of” and inserted “business planning, enterprise analysis, transfer and succession planning, management coaching, market assessment, cash flow analysis,” after “insurance,” and “conservation activities,” after “benchmarking,”.
+
+Subsec. (a)(3). Pub. L. 115–334, § 11125(a)(3), (5)(A), redesignated par. (4) as (3) and, in introductory provisions, substituted “program established under paragraph (2)” for “programs established under paragraphs (2) and (3)” and inserted “farm viability and” after emphasis on” and “, business planning and technical assistance, market assessment, transfer and succession planning, and crop insurance participation” after “benchmarking”. Former par. (3) redesignated (2).
+
+Subsec. (a)(3)(D)(iii), (E). Pub. L. 115–334, § 11125(a)(5)(B), (C), added subpars. (D)(iii) and (E) and struck out former subpar. (E) which read as follows: “new or established farmers or ranchers that are converting production and marketing systems to pursue new markets.”
+
+Subsec. (a)(3)(F). Pub. L. 115–334, § 12306(b)(3)(A)–(C), added subpar. (F).
+
+Subsec. (a)(4). Pub. L. 115–334, § 11125(a)(6), substituted “transferred for the partnerships” for “transferred—”, subpar. (A), and “(B) for the partnerships”, substituted “paragraph (2), $10,000,000 for fiscal year 2019” for “paragraph (3), $5,000,000 for fiscal year 2001”, and inserted “, of which not less than $5,000,000 shall be used to carry out paragraph (3)(E)” before period at end. Prior to amendment, subpar. (A) read as follows: “for the education and information program established under paragraph (2), $5,000,000 for fiscal year 2001 and each subsequent fiscal year; and”.
+
 2014—Subsec. (a)(3)(A). Pub. L. 113–79, § 11027(c)(1), inserted “farm financial benchmarking,” after “risk reduction,”.
 
 Subsec. (a)(4). Pub. L. 113–79, § 11027(c)(2), inserted “(including farm financial benchmarking)” after “management strategies” in introductory provisions.
@@ -3945,7 +4356,7 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 
 (17) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
 
-(18) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in [section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim).
+(18) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 11 See References in Text note below. of this title.
 
 (19) **State** — The term “State” means—
 
@@ -4021,7 +4432,7 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 
 (4) **Farm revenue**
 
-  (A) *In general* — For purposes of this subsection, the total farm revenue for a farm,11 So in original. The comma probably should not appear. shall equal the sum obtained by adding—
+  (A) *In general* — For purposes of this subsection, the total farm revenue for a farm,22 So in original. The comma probably should not appear. shall equal the sum obtained by adding—
 
     (i) the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
 
@@ -4029,11 +4440,11 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 
       (II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
-    (ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 22 See References in Text note below. of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8713](./chapter-113-agricultural-commodity-support-programs.md#section-8713), 8753] or successor sections;
+    (ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 1 of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8713](./chapter-113-agricultural-commodity-support-programs.md#section-8713), 8753] or successor sections;
 
-    (iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 2 of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8714](./chapter-113-agricultural-commodity-support-programs.md#section-8714), 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 2 of that Act [[7 U.S.C. 8715](./chapter-113-agricultural-commodity-support-programs.md#section-8715)];
+    (iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 1 of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8714](./chapter-113-agricultural-commodity-support-programs.md#section-8714), 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 1 of that Act [[7 U.S.C. 8715](./chapter-113-agricultural-commodity-support-programs.md#section-8715)];
 
-    (iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C 2 of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8731](./chapter-113-agricultural-commodity-support-programs.md#section-8731) et seq., 8751 et seq.] or successor subtitles;
+    (iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C 1 of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8731](./chapter-113-agricultural-commodity-support-programs.md#section-8731) et seq., 8751 et seq.] or successor subtitles;
 
     (v) the amount of payments for prevented planting on a farm;
 
@@ -4426,6 +4837,8 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 ### Statutory Notes
 
 #### References in Text
+[Section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim), referred to in subsec. (a)(18), was redesignated [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim) by section 12301(b)(3) of Pub. L. 115–334.
+
 Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658.
 
 Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), were repealed by Pub. L. 113–79, title I, § 1102(a), Feb. 7, 2014, 128 Stat. 658.

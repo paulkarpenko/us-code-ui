@@ -111,7 +111,7 @@ References in laws to fix pay in accordance with this chapter and subchapter III
 
 (5) members of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, and the United States Secret Service Uniformed Division; members of the police force of the National Zoological Park whose pay is fixed under [section 5375 of this title](./chapter-053-pay-rates-and-systems.md#section-5375); and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under [section 5378 of this title](./chapter-053-pay-rates-and-systems.md#section-5378);
 
-(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) of title 14;
+(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
 
 (7) employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
 
@@ -119,15 +119,15 @@ References in laws to fix pay in accordance with this chapter and subchapter III
 
 (9) employees of the Government Publishing Office whose pay is fixed under [section 305 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section305&num=0&edition=prelim);
 
-(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under [section 7044 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7044&num=0&edition=prelim); the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under [section 7043 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7043&num=0&edition=prelim); civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under [section 1746(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1746/b&num=0&edition=prelim);
+(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 7371, 8748, or 9371 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 7438, 8452, and 9438, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under [section 8544 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8544&num=0&edition=prelim); the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under [section 8543 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8543&num=0&edition=prelim); civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under [section 1746(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1746/b&num=0&edition=prelim);
 
 (11) aliens or noncitizens of the United States who occupy positions outside the United States;
 
-(12) Repealed. Pub. L. 104–201, div. C, title XXXV, § 3548(a)(2)(B), Sept. 23, 1996, 110 Stat. 3868;]
+(12) Repealed. Pub. L. 104–201, div. C, title XXXV, § 3548(a)(2)(B), Sept. 23, 1996, 110 Stat. 2868;]
 
 (13) employees who serve without pay or at nominal rates of pay;
 
-(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under [section 8474(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8474/c/2&num=0&edition=prelim)), except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by [section 7802 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7802&num=0&edition=prelim);
+(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under [section 8474(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8474/c/2&num=0&edition=prelim)), except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs, this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by [section 7802 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7802&num=0&edition=prelim);
 
 (15) employees whose pay is fixed under a cooperative agreement between the United States and—
 
@@ -159,7 +159,7 @@ References in laws to fix pay in accordance with this chapter and subchapter III
 
 (27) members of the police of the Library of Congress whose pay is fixed under [section 167 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section167&num=0&edition=prelim);
 
-(28) civilian members of the faculty of the Air Force Institute of Technology whose pay is fixed under [section 9314 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9314&num=0&edition=prelim);
+(28) civilian members of the faculty of the Air Force Institute of Technology whose pay is fixed under [section 9414 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9414&num=0&edition=prelim);
 
 (29) administrative law judges appointed under section 3105; or
 
@@ -247,6 +247,10 @@ The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–
 Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in [section 5316 of this title](./chapter-053-pay-rates-and-systems.md#section-5316).
 
 #### Amendments
+2018—Subsec. (c)(10). Pub. L. 115–232, § 809(c)(1)(A), substituted “section 1595, 7371, 8748, or 9371 of title 10” for “section 1595, 4021, 7478, or 9021 of title 10”, “sections 7438, 8452, and 9438, respectively, of title 10” for “sections 4338, 6952, and 9338, respectively, of title 10”, “[section 8544 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8544&num=0&edition=prelim)” for “[section 7044 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7044&num=0&edition=prelim)”, and “[section 8543 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8543&num=0&edition=prelim)” for “[section 7043 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7043&num=0&edition=prelim)”.
+
+Subsec. (c)(28). Pub. L. 115–232, § 809(c)(1)(B), substituted “[section 9414 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9414&num=0&edition=prelim)” for “[section 9314 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9314&num=0&edition=prelim)”.
+
 2015—Subsec. (a)(1)(vii), (viii), (x). Pub. L. 114–113 struck out “or” at end of cl. (vii), added cl. (viii), and substituted semicolon for period at end of cl. (x).
 
 2011—Subsec. (c)(30). Pub. L. 111–350 substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
@@ -343,8 +347,14 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 1968—Subsec. (c). Pub. L. 90–610 inserted par. (27).
 
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 432 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section432&num=0&edition=prelim) redesignated [section 2531 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2531&num=0&edition=prelim) by Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223, and references to [section 432 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section432&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” in subsecs. (a)(1)(D) and (c)(9) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–282, § 5, Oct. 15, 2010, 124 Stat. 3044, provided that: “This Act [enacting chapter 102 of this title, amending this section and sections 5541, 6304, and 6324 of this title, enacting provisions set out as notes under [section 10201 of this title](./chapter-102-united-states-secret-service-uniformed-division-personnel.md#section-10201), and amending provisions set out as notes under [section 3056A of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056A&num=0&edition=prelim), Crimes and Criminal Procedure] and the amendments made by this Act shall take effect on the first day of the first pay period which begins after the date of the enactment of this Act [Oct. 15, 2010].”
@@ -416,7 +426,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended ([48 U.S.C. 1407](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1407&num=0&edition=prelim) et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, § 308(e), Oct. 19, 1982, 96 Stat. 1710.
 
 #### Civilian Members of Faculty of Air Force Institute of Technology on November 8, 1985
-Pub. L. 99–145, title V, § 504(c), Nov. 8, 1985, 99 Stat. 622, provided that: “[Section 9314(b)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9314/b/2&num=0&edition=prelim), United States Code (as added by subsection (a)(1)(B)), and [section 5102(c)(28) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5102/c/28&num=0&edition=prelim), United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act [Nov. 8, 1985]— “(1) is a civilian member of the faculty of the United States Air Force Institute of Technology; “(2) is paid a rate of basic pay under the General Schedule; and “(3) elects, under procedures prescribed by the Secretary of the Air Force, to continue to be paid under the General Schedule.”
+Pub. L. 99–145, title V, § 504(c), Nov. 8, 1985, 99 Stat. 622, as amended by Pub. L. 115–232, div. A, title VIII, § 809(c)(2), Aug. 13, 2018, 132 Stat. 1841, provided that: “[Section 9414(b)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9414/b/2&num=0&edition=prelim), United States Code (as added by subsection (a)(1)(B)), and [section 5102(c)(28) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5102/c/28&num=0&edition=prelim), United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act [Nov. 8, 1985]— “(1) is a civilian member of the faculty of the United States Air Force Institute of Technology; “(2) is paid a rate of basic pay under the General Schedule; and “(3) elects, under procedures prescribed by the Secretary of the Air Force, to continue to be paid under the General Schedule.”
 
 #### Prohibition of Decrease in Basic Pay Rate of Subsec. (c)(7), (8), or (14) Employees
 Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c)(7), (8), or (14) employees in service before effective date of the amendments as to such employees, see section 9(a)(2) of Pub. L. 92–392, Aug. 19, 1972, 86 Stat. 574, set out as a note under [section 5343 of this title](./chapter-053-pay-rates-and-systems.md#section-5343).
@@ -522,7 +532,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
     (i) considerable specialized or supervisory training and experience;
 
-    (ii) comprehensive working knowledge of a special and complex subject matter; procedure, or practice, or of the principles of the profession, art, or science involved; and
+    (ii) comprehensive working knowledge of a special and complex subject matter, procedure, or practice, or of the principles of the profession, art, or science involved; and
 
     (iii) to a considerable extent the exercise of independent judgment;
 
@@ -928,7 +938,7 @@ Amendment by Pub. L. 94–233 effective on sixtieth day following Mar. 15, 1976,
 #### Effective Date of 1974 Amendments
 Amendment by Pub. L. 93–463 effective Oct. 23, 1974, see section 418 of Pub. L. 93–463, set out as a note under [section 2 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2&num=0&edition=prelim), Agriculture.
 
-Amendment by Pub. L. 93–415 effective Sept. 7, 1974, see former section 263(a) of Pub. L. 93–415, which is classified as an Effective Date note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.
+Amendment by Pub. L. 93–415 effective Sept. 7, 1974, see section 263(a) of Pub. L. 93–415, formerly set out as an Effective Date note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Amendment by Pub. L. 93–406, § 1051(b)(2), effective on 90th day after Sept. 2, 1974, see section 1051(d) of Pub. L. 93–406, set out as a note under [section 7802 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7802&num=0&edition=prelim), Internal Revenue Code.
 

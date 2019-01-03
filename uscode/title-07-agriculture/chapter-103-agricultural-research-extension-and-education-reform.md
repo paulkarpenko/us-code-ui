@@ -2,7 +2,7 @@
 title: 7
 chapter: '103'
 heading: 'AGRICULTURAL RESEARCH, EXTENSION, AND EDUCATION REFORM'
-section_count: 34
+section_count: 36
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -391,15 +391,15 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (C) the proposed funding levels to be allocated to, and the expected publication date, scope, and allocation level for, each request for applications to be published under or associated with—
 
-    (i) each priority area specified in subsection (b)(2) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157);
+    (i) each grant and cooperative agreement awarded under subsection (d) of [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279);
 
-    (ii) each research and extension project carried out under [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5811/a&num=0&edition=prelim);
+    (ii) each priority area specified in subsection (b)(2) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157);
 
-    (iii) each grant awarded under [section 5925b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5925b/a&num=0&edition=prelim);
+    (iii) each research and extension project carried out under [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5811/a&num=0&edition=prelim);
 
-    (iv) each grant awarded under [section 7632(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7632/d&num=0&edition=prelim); and
+    (iv) each grant awarded under [section 5925b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5925b/a&num=0&edition=prelim); and
 
-    (v) each grant awarded under [section 3319f(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3319f/c/1&num=0&edition=prelim); and
+    (v) each grant awarded under [section 7632(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7632/d&num=0&edition=prelim); and
 
   (D) any other information the Secretary determines will increase congressional oversight with respect to covered programs.
 
@@ -407,15 +407,15 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (4) **Prohibition** — Unless the President submits the information described in paragraph (2)(C) for a fiscal year, the President may not carry out any program during that fiscal year that is authorized under—
 
-  (A) subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157);
+  (A) subsection (d) of [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279);
 
-  (B) [section 5811 of this title](./chapter-088-research.md#section-5811);
+  (B) subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157);
 
-  (C) [section 5925b of this title](./chapter-088-research.md#section-5925b);
+  (C) [section 5811 of this title](./chapter-088-research.md#section-5811);
 
-  (D) [section 7632 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7632); or
+  (D) [section 5925b of this title](./chapter-088-research.md#section-5925b); or
 
-  (E) [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f).
+  (E) [section 7632 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7632).
 
 **(f) Report of the Secretary of Agriculture** Each year on a date that is not later than the date on which the President submits the annual budget, the Secretary shall submit to Congress a report containing a description of the agricultural research, extension, and education activities carried out by the Federal Government during the fiscal year that immediately precedes the year for which the report is submitted, including—
 
@@ -445,6 +445,18 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
 
 #### Amendments
+2018—Subsec. (e)(2)(C)(i). Pub. L. 115–334, § 12301(a)(2)(C)(i)(III), added cl. (i). Former cl. (i) redesignated (ii).
+
+Subsec. (e)(2)(C)(ii). Pub. L. 115–334, § 12301(a)(2)(C)(i)(II), (IV), redesignated cl. (i) as (ii) and made technical amendment to reference in original act which appears in text as reference to subsection (b)(2) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157). Former cl. (ii) redesignated (iii).
+
+Subsec. (e)(2)(C)(iii) to (v). Pub. L. 115–334, § 12301(a)(2)(C)(i)(I), (II), (V), redesignated cls. (ii) to (iv) as (iii) to (v), respectively, and struck out former cl. (v) which read as follows: “each grant awarded under [section 3319f(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3319f/c/1&num=0&edition=prelim); and”.
+
+Subsec. (e)(4)(A). Pub. L. 115–334, § 12301(a)(2)(C)(ii)(III), added subpar. (A). Former subpar. (A) redesignated (B).
+
+Subsec. (e)(4)(B). Pub. L. 115–334, § 12301(a)(2)(C)(ii)(II), (IV), redesignated subpar. (A) as (B) and made technical amendment to reference in original act which appears in text as reference to subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157). Former subpar. (B) redesignated (C).
+
+Subsec. (e)(4)(C) to (E). Pub. L. 115–334, § 12301(a)(2)(C)(ii)(I), (V), (VI), redesignated subpars. (B) to (D) as (C) to (E), respectively, and struck out former subpar. (E) which read as follows: “[section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f).”
+
 2014—Subsec. (a). Pub. L. 113–79, § 7513(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In this section, the term ‘competitive programs’ includes only competitive programs for which annual appropriations are requested in the annual budget submission of the President.”
 
 Subsecs. (e) to (g). Pub. L. 113–79, § 7513(2), added subsecs. (e) to (g).
@@ -586,7 +598,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(b) Integrated approach** The grant program described under subsection (a) shall be carried out under this section in a manner that facilitates the integration of food safety standards and guidance with the variety of agricultural production systems, encompassing conventional, sustainable, organic, and conservation and environmental practices.
 
-**(c) Priority** In awarding grants under this section, the Secretary shall give priority to projects that target small and medium-sized farms, beginning farmers, socially disadvantaged farmers, small processors, or small fresh fruit and vegetable merchant wholesalers.
+**(c) Priority** In awarding grants under this section, the Secretary shall give priority to projects that target small and medium-sized farms, beginning farmers, socially disadvantaged farmers, veteran farmers or ranchers (as defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim)), small processors, or small fresh fruit and vegetable merchant wholesalers.
 
 **(d) Program coordination**
 
@@ -604,11 +616,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (2) **Encouraged features** — The Secretary shall encourage projects carried out using grant funds under this section to include co-management of food safety, conservation systems, and ecological health.
 
-(3) **Maximum term and size of grant**
-
-  (A) *In general* — A grant under this section shall have a term that is not more than 3 years.
-
-  (B) *Limitation on grant funding* — The Secretary may not provide grant funding to an entity under this section after such entity has received 3 years of grant funding under this section.
+(3) **Term of grant** — A grant under this section shall have a term that is not more than 3 years.
 
 **(f) Grant eligibility**
 
@@ -636,7 +644,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(i) Best practices and model programs** Based on evaluations of, and responses arising from, projects funded under this section, the Secretary may issue a set of recommended best practices and models for food safety training programs for agricultural producers, small food processors, and small fresh fruit and vegetable merchant wholesalers.
 
-**(j) Authorization of appropriations** For the purposes of making grants under this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2011 through 2015.
+**(j) Authorization of appropriations** For the purposes of making grants under this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -645,6 +653,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Prior Provisions
 A prior section 7625, Pub. L. 105–185, title IV, § 405, June 23, 1998, 112 Stat. 572; Pub. L. 107–171, title VII, §§ 7130, 7207(b), May 13, 2002, 116 Stat. 435, 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by Pub. L. 110–234, title VII, § 7305, May 22, 2008, 122 Stat. 1242, and Pub. L. 110–246, § 4(a), title VII, § 7305, June 18, 2008, 122 Stat. 1664, 2003. Repeal of prior section 7625 and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008.
+
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–334, § 12306(e), inserted “veteran farmers or ranchers (as defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim)),” after “socially disadvantaged farmers,”.
+
+Subsec. (e)(3). Pub. L. 115–334, § 7301(a), amended par. (3) generally. Prior to amendment, par. (3) related to maximum term and size of grant.
+
+Subsec. (j). Pub. L. 115–334, § 7301(b), substituted “there is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023.” for “there are authorized to be appropriated such sums as may be necessary for fiscal years 2011 through 2015.”
 
 #### Construction
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of Title 21, Food and Drugs.
@@ -658,9 +673,29 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 **(c) Criteria for grants** Grants under this section shall be awarded to address priorities in United States agriculture, determined by the Secretary in consultation with the Advisory Board, that involve integrated research, extension, and education activities.
 
-**(d) Term of grant** A grant under this section shall have a term of not more than 5 years.
+**(d) Matching funds requirement**
 
-**(e) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018.
+(1) **In general** — Subject to paragraph (3), with respect to a grant under this section that provides a particular benefit to a specific agricultural commodity, the recipient of the grant shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
+
+(2) **In-kind support** — Non-Federal matching funds described in paragraph (1) may include in-kind support.
+
+(3) **Waiver** — The Secretary may waive the matching funds requirement under paragraph (1) with respect to a grant if the Secretary determines that—
+
+  (A) the results of the grant are of a particular benefit to a specific agricultural commodity, but those results are likely to be applicable to agricultural commodities generally; or
+
+  (B)
+
+    (i) the grant—
+
+      (I) involves a minor commodity; and
+
+      (II) deals with scientifically important research; and
+
+    (ii) the recipient is unable to satisfy the matching funds requirement.
+
+**(e) Term of grant** A grant under this section shall have a term of not more than 5 years.
+
+**(f) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.
 
 ### Statutory Notes
 
@@ -668,6 +703,14 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–334, § 7614(b)(3)(A)(ii), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 115–334, § 7614(b)(3)(A)(i), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Pub. L. 115–334, § 7302, substituted “2023” for “2018”.
+
+Subsec. (f). Pub. L. 115–334, § 7614(b)(3)(A)(i), redesignated subsec. (e) as (f).
+
 2014—Subsec. (d). Pub. L. 113–79, § 7128(b)(3)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to matching funds requirement.
 
 Subsec. (e). Pub. L. 113–79, § 7302, substituted “2018” for “2012”.
@@ -685,6 +728,9 @@ Subsec. (f). Pub. L. 110–246, § 7306, substituted “2012” for “2007”.
 Subsec. (e). Pub. L. 107–171, § 7125(1), (2), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 107–171, § 7125(1), (3), redesignated subsec. (e) as (f) and substituted “2007” for “2002”.
+
+#### Effective Date of 2018 Amendment
+Amendment by section 7614(b)(3)(A) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -752,9 +798,13 @@ Amendment by section 7511(c)(31) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 **(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
 
-(1) such sums as may be necessary for each of fiscal years 1999 through 2013; and
+(1) such sums as may be necessary for each of fiscal years 1999 through 2013;
 
-(2) $10,000,000 for each of fiscal years 2014 through 2018.
+(2) $10,000,000 for each of fiscal years 2014 through 2018; and
+
+(3) $15,000,000 for each of fiscal years 2019 through 2023.
+
+**(f) Limitation on indirect costs** A recipient of a grant under this section may not use more than 10 percent of the funds provided by the grant for the indirect costs of carrying out the initiatives described in subsection (a).
 
 ### Statutory Notes
 
@@ -762,6 +812,10 @@ Amendment by section 7511(c)(31) of Pub. L. 110–246 effective Oct. 1, 2009, se
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (e)(3). Pub. L. 115–334, § 7303(1), added par. (3).
+
+Subsec. (f). Pub. L. 115–334, § 7303(2), added subsec. (f).
+
 2014—Subsec. (e). Pub. L. 113–79 amended subsec. (e) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2012.”
 
 2008—Subsec. (a). Pub. L. 110–246, § 7307(1), substituted “grants” for “grant” in heading.
@@ -814,7 +868,7 @@ Section, Pub. L. 105–185, title IV, § 409, as added Pub. L. 107–171, title 
 
 (1) such sums as are necessary for each of fiscal years 2008 through 2013; and
 
-(2) $3,000,000 for each of fiscal years 2014 through 2018.
+(2) $3,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -825,6 +879,8 @@ Pub. L. 107–19, referred to in subsec. (a), is Pub. L. 107–19, July 10, 2001
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (d)(2). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (d). Pub. L. 113–79 substituted “section—” for “section such sums as are necessary for each of fiscal years 2008 through 2012.” and added pars. (1) and (2).
 
 2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(32), substituted “Director of the National Institute of Food and Agriculture” for “Administrator of the Cooperative State Research, Education, and Extension Service”.
@@ -835,6 +891,9 @@ Subsecs. (b) to (d). Pub. L. 110–246, § 7309, added subsecs. (b) to (d) and s
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 7511(c)(32) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under [section 1522 of this title](./chapter-036-crop-insurance.md#section-1522).
+
+#### Definitions
+Secretary means the Secretary of Agriculture, see section 7401(1) of Pub. L. 107–171, set out as a note under [section 3319b of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319b).
 
 
 <a id="section-7632"></a>
@@ -899,19 +958,47 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) product, taste, quality, and appearance;
 
-  (B) environmental responses and tolerances;
+  (B) size-controlling rootstock systems for perennial crops;
 
-  (C) nutrient management, including plant nutrient uptake efficiency;
+  (C) environmental responses and tolerances;
 
-  (D) pest and disease management, including resistance to pests and diseases resulting in reduced application management strategies; and
+  (D) nutrient management, including plant nutrient uptake efficiency;
 
-  (E) enhanced phytonutrient content;
+  (E) pest and disease management, including resistance to pests and diseases resulting in reduced application management strategies; and
 
-(2) efforts to identify and address threats from pests and diseases, including threats to specialty crop pollinators;
+  (F) enhanced phytonutrient content;
 
-(3) efforts to improve production efficiency, handling and processing, productivity, and profitability over the long term (including specialty crop policy and marketing);
+(2) efforts to identify and address threats from pests and diseases, including—
 
-(4) new innovations and technology, including improved mechanization and technologies that delay or inhibit ripening; and
+  (A) threats to specialty crop pollinators;
+
+  (B) emerging and invasive species; and
+
+  (C) a more effective understanding and utilization of existing natural enemy complexes;
+
+(3) efforts—
+
+  (A) to improve production efficiency, handling and processing, productivity, and profitability over the long term (including specialty crop policy and marketing); and
+
+  (B) to achieve a better understanding of—
+
+    (i) the soil rhizosphere microbiome;
+
+    (ii) pesticide application systems and certified drift-reduction technologies; and
+
+    (iii) systems to improve and extend the storage life of specialty crops;
+
+(4) new innovations and technology, including—
+
+  (A) mechanization and automation of labor-intensive tasks in production and processing;
+
+  (B) technologies that delay or inhibit ripening;
+
+  (C) decision support systems driven by phenology and environmental factors;
+
+  (D) improved monitoring systems for agricultural pests; and
+
+  (E) effective systems for preharvest and postharvest management of quarantine pests; and
 
 (5) methods to prevent, detect, monitor, control, and respond to potential food safety hazards in the production and processing of specialty crops, including fresh produce.
 
@@ -965,7 +1052,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (2) **Term** — The term of a grant under this section may not exceed 10 years.
 
-(3) **Other conditions** — The Secretary may set such other conditions on the award of a grant under the Initiative as the Secretary determines to be appropriate.
+(3) **Matching requirement**
+
+  (A) *In general* — An entity receiving a grant under this section shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
+
+  (B) *In-kind support* — Non-Federal matching funds described in subparagraph (A) may include in-kind support.
+
+(4) **Other conditions** — The Secretary may set such other conditions on the award of a grant under the Initiative as the Secretary determines to be appropriate.
 
 **(h) Priorities** In making grants under the Initiative, the Secretary shall provide a higher priority to projects that—
 
@@ -1019,7 +1112,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (D) *Availability of funds* — Funds reserved under subparagraph (C) shall remain available and reserved for the purpose described in such subparagraph until expended.
 
-(2) **Authorization of appropriations for fiscal years 2014 through 2018** — In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2014 through 2018.
+(2) **Authorization of appropriations for fiscal years 2014 through 2023** — In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2014 through 2023.
 
 (3) **Fiscal year 2013** — There is authorized to be appropriated to carry out this section $100,000,000 for fiscal year 2013.
 
@@ -1036,6 +1129,18 @@ The date of enactment of this section, referred to in subsec. (k)(4), is the dat
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(1)(B) to (F). Pub. L. 115–334, § 7305(a)(1), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
+
+Subsec. (b)(2). Pub. L. 115–334, § 7305(a)(2), substituted “including—” and subpars. (A) to (C) for “including threats to specialty crop pollinators;”.
+
+Subsec. (b)(3). Pub. L. 115–334, § 7305(a)(3), substituted “efforts—” for “efforts”, inserted subpar. (A) designation before “to improve”, and added subpar. (B).
+
+Subsec. (b)(4). Pub. L. 115–334, § 7305(a)(4), substituted “including—” and subpars. (A) to (E) for “including improved mechanization and technologies that delay or inhibit ripening; and”.
+
+Subsec. (g)(3), (4). Pub. L. 115–334, § 7614(b)(3)(B), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (k)(2). Pub. L. 115–334, § 7305(b), substituted “2023” for “2018” in heading and text.
+
 2014—Subsec. (a). Pub. L. 113–79, § 7306(1), added pars. (1) and (4) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Subsec. (b)(1). Pub. L. 113–79, § 7306(2)(A), substituted “genomics, and other methods” for “and genomics” in introductory provisions.
@@ -1084,11 +1189,20 @@ Subsec. (h)(2). Pub. L. 112–240, § 701(e)(2)(B), inserted “for fiscal years
 
 Subsec. (h)(3) to (5). Pub. L. 112–240, § 701(e)(2)(C), (D), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
+#### Effective Date of 2018 Amendment
+Amendment by section 7614(b)(3)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Mechanization and Automation for Specialty Crops
+Pub. L. 115–334, title VII, § 7610, Dec. 20, 2018, 132 Stat. 4830, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Dec. 20, 2018], the Secretary [of Agriculture] shall conduct a review of the programs of the Department of Agriculture that affect the production or processing of specialty crops. “(b) Requirements.—The review under subsection (a) shall identify—“(1) programs that currently are, or previously have been, effectively used to accelerate the development and use of automation or mechanization in the production or processing of specialty crops; and “(2) programs that may be more effectively used to accelerate the development and use of automation or mechanization in the production or processing of specialty crops. “(c) Strategy.—With respect to programs identified under subsection (b), the Secretary shall develop and implement a strategy to accelerate the development and use of automation and mechanization in the production or processing of specialty crops.”
+
+#### Emergency Citrus Disease Research and Development Trust Fund
+Pub. L. 115–334, title XII, § 12605, Dec. 20, 2018, 132 Stat. 5006, provided that: “(a) Definition of Citrus.—In this section, the term ‘citrus’ means edible fruit of the family Rutaceae, including any hybrid of that fruit and any product of that hybrid that is produced for commercial purposes in the United States. “(b) Establishment of Trust Fund.—There is established in the Treasury of the United States a trust fund, to be known as the Emergency Citrus Disease Research and Development Trust Fund (referred to in this section as the ‘Citrus Trust Fund’), consisting of such amounts as shall be transferred to the Citrus Trust Fund pursuant to subsection (d). “(c) Use of Fund.—From amounts in the Citrus Trust Fund, the Secretary shall, beginning in fiscal year 2019, carry out the Emergency Citrus Disease Research and Extension Program in section 412(j) of the Agricultural Research, Extension, and Education Reform Act of 1998 ([7 U.S.C. 7632(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7632/j&num=0&edition=prelim)). “(d) Funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Citrus Trust Fund $25,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.”
 
 #### Coordination of Projects and Activities
 Pub. L. 110–234, title VII, § 7311(b), May 22, 2008, 122 Stat. 1245, and Pub. L. 110–246, § 4(a), title VII, § 7311(b), June 18, 2008, 122 Stat. 1664, 2006, provided that: “In carrying out the amendment made by this section [enacting this section], the Secretary [of Agriculture] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 ([7 U.S.C. 6971](./chapter-098-department-of-agriculture-reorganization.md#section-6971)) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized.”
@@ -1197,7 +1311,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **(d) Indirect costs** Federal funds provided by the Secretary under a contract, grant, or cooperative agreement under this section shall be subject to reduction for indirect costs of the recipient of the funds in an amount not to exceed 19 percent of the total Federal funds provided under the contract, grant, or cooperative agreement.
 
-**(e) Authorization of appropriations** In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2018.
+**(e) Authorization of appropriations** In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2023.
 
 ### Statutory Notes
 
@@ -1205,6 +1319,8 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (e). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Subsec. (e). Pub. L. 110–246, § 7312, added subsec. (e).
@@ -1269,7 +1385,7 @@ The Secretary of Agriculture shall be the principal official in the executive br
 
 (1) such sums as are necessary for each of fiscal years 1999 through 2013; and
 
-(2) $3,000,000 for each of fiscal years 2014 through 2018.
+(2) $3,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -1284,6 +1400,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3), is act 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (f)(2). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (f). Pub. L. 113–79 struck out “such sums as are necessary” after “appropriated”, substituted “section—” for “section for each of fiscal years 1999 through 2012.”, and added pars. (1) and (2).
 
 2008—Subsec. (f). Pub. L. 110–246, § 7313, substituted “2012” for “2007”.
@@ -1328,7 +1446,7 @@ The Secretary of Agriculture shall continue to develop a national program of saf
 
 **(b) Cooperation** The Secretary may carry out the education program in cooperation with public and private partners.
 
-**(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
+**(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
 
 ### Statutory Notes
 
@@ -1338,6 +1456,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (c). Pub. L. 113–79 substituted “2018” for “2012”.
 
 #### Effective Date
@@ -1347,8 +1467,8 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
-<a id="section-7656"></a>
-## § 7656. Forestry products advanced utilization research
+<a id="section-7655c"></a>
+## § 7655c. Forestry products advanced utilization research
 **(a) Establishment** The Secretary shall establish a forestry and forestry products research and extension initiative to develop and disseminate science-based tools that address the needs of the forestry sector and their respective regions, forest and timberland owners and managers, and forestry products engineering, manufacturing, and related interests.
 
 **(b) Activities** The initiative described in subsection (a) shall include the following activities:
@@ -1405,7 +1525,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(f) Authorization of appropriations**
 
-(1) **In general** — There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2018.
+(1) **In general** — There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2023.
 
 (2) **Matching funds** — To the extent practicable, the Secretary shall match any funds made available under paragraph (1) with funds made available under [section 1646 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1646&num=0&edition=prelim).
 
@@ -1413,6 +1533,81 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Prior Provisions
 A prior section 617 of Pub. L. 105–185, title VI, June 23, 1998, 112 Stat. 607, which was not classified to the Code, was repealed by Pub. L. 107–171, title VII, § 7302, May 13, 2002, 116 Stat. 455.
+
+#### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–334 substituted “2023” for “2018”.
+
+
+<a id="section-7655d"></a>
+## § 7655d. Clarification of research and development program for wood building construction
+**(a) In general** The Secretary shall conduct performance-driven research and development, education, and technical assistance for the purpose of facilitating the use of innovative wood products in wood building construction in the United States.
+
+**(b) Activities** In carrying out subsection (a), the Secretary shall—
+
+(1) after receipt of input and guidance from, and collaboration with, the wood products industry, conservation organizations, and institutions of higher education, conduct research and development, education, and technical assistance at the Forest Products Laboratory or through the State and Private Forestry deputy area that meets measurable performance goals for the achievement of the priorities described in subsection (c); and
+
+(2) after coordination and collaboration with the wood products industry and conservation organizations, make competitive grants to institutions of higher education to conduct research and development, education, and technical assistance that meets measurable performance goals for the achievement of the priorities described in subsection (c).
+
+**(c) Priorities** The research and development, education, and technical assistance conducted under subsection (a) shall give priority to—
+
+(1) ways to improve the commercialization of innovative wood products;
+
+(2) analyzing the safety of tall wood building materials;
+
+(3) calculations by the Forest Products Laboratory of the lifecycle environmental footprint, from extraction of raw materials through the manufacturing process, of tall wood building construction;
+
+(4) analyzing methods to reduce the lifecycle environmental footprint of tall wood building construction;
+
+(5) analyzing the potential implications of the use of innovative wood products in building construction on wildlife; and
+
+(6) 1 or more other research areas identified by the Secretary, in consultation with conservation organizations, institutions of higher education, and the wood products industry.
+
+**(d) Timeframe** To the maximum extent practicable, the measurable performance goals for the research and development, education, and technical assistance conducted under subsection (a) shall be achievable within a 5-year timeframe.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
+
+#### Definitions
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+Pub. L. 115–334, title VIII, § 8641, Dec. 20, 2018, 132 Stat. 4871, provided that: “In this part [part III (§§ 8641–8644) of subtitle F of title VIII of Pub. L. 115–334, enacting this section and [section 7655d of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7655d) and amending [section 8113 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8113)]: “(1) Innovative wood product.—The term ‘innovative wood product’ means a type of building component or system that uses large panelized wood construction, including mass timber. “(2) Mass timber.—The term ‘mass timber’ includes—“(A) cross-laminated timber; “(B) nail laminated timber; “(C) glue laminated timber; “(D) laminated strand lumber; and “(E) laminated veneer lumber. “(3) Secretary.—The term ‘Secretary’ means the Secretary [of Agriculture], acting through the Research and Development deputy area and the State and Private Forestry deputy area of the Forest Service. “(4) Tall wood building.—The term ‘tall wood building’ means a building designed to be—“(A) constructed with mass timber; and “(B) more than 85 feet in height.”
+
+
+<a id="section-7656"></a>
+## § 7656. Wood innovation grant program
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means—
+
+  (A) an individual;
+
+  (B) a public or private entity (including a center of excellence that consists of 1 or more partnerships between forestry, engineering, architecture, or business schools at 1 or more institutions of higher education); or
+
+  (C) a State, local, or Tribal government.
+
+(2) **Secretary** — The term “Secretary” means the Secretary, acting through the Chief of the Forest Service.
+
+**(b) Grant program**
+
+(1) **In general** — The Secretary, in carrying out the wood innovation grant program of the Secretary described in the notice of the Secretary entitled “Request for Proposals: 2016 Wood Innovations Funding Opportunity” (80 Fed. Reg. 63498 (October 20, 2015)), may make a wood innovation grant to 1 or more eligible entities each year for the purpose of advancing the use of innovative wood products.
+
+(2) **Proposals** — To be eligible to receive a grant under this subsection, an eligible entity shall submit to the Secretary a proposal at such time, in such manner, and containing such information as the Secretary may require.
+
+**(c) Incentivizing use of existing milling capacity** In selecting among proposals of eligible entities under subsection (b)(2), the Secretary shall give priority to proposals that include the use or retrofitting (or both) of existing sawmill facilities located in counties in which the average annual unemployment rate exceeded the national average unemployment rate by more than 1 percent in the previous calendar year.
+
+**(d) Matching requirement** As a condition of receiving a grant under subsection (b), an eligible entity shall provide funds equal to the amount received by the eligible entity under the grant, to be derived from non-Federal sources.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
+
+#### Definitions
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+For definition of “innovative wood product”, see section 8641 of Pub. L. 115–334, set out as a note under [section 7655c of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7655c).
 
 
 <a id="section-7657"></a>

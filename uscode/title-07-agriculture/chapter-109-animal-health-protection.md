@@ -130,10 +130,15 @@ In this chapter:
 
 (17) **United States** — The term “United States” means all of the States.
 
+(18) **Veterinary countermeasure** — The term “veterinary countermeasure” means any biological product (including an animal vaccine or diagnostic), pharmaceutical product (including a therapeutic), non-pharmaceutical product (including a disinfectant), or other product or equipment to prevent, detect, respond to, or mitigate harm to public or animal health resulting from, animal pests or diseases.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in introductory provisions and par. (16), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under [section 8301 of this title](./chapter-109-animal-health-protection.md#section-8301) and Tables.
+
+#### Amendments
+2018—Par. (18). Pub. L. 115–334 added par. (18).
 
 #### Transfer of Functions
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -437,30 +442,194 @@ Pub. L. 113–79, title XII, § 12107, Feb. 7, 2014, 128 Stat. 982, provided tha
 
 
 <a id="section-8308a"></a>
-## § 8308a. National animal health laboratory network
-**(a) Definition of eligible laboratory** In this section, the term “eligible laboratory” means a diagnostic laboratory that meets specific criteria developed by the Secretary, in consultation with State animal health officials, State veterinary diagnostic laboratories, and veterinary diagnostic laboratories at institutions of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)).
+## § 8308a. Animal disease prevention and management
+**(a) National Animal Health Laboratory Network**
 
-**(b) In general** The Secretary, in consultation with State veterinarians, shall offer to enter into contracts, grants, cooperative agreements, or other legal instruments with eligible laboratories for any of the following purposes:
+(1) **Definition of eligible laboratory** — In this subsection, the term “eligible laboratory” means a diagnostic laboratory that meets specific criteria developed by the Secretary, in consultation with State animal health officials, State veterinary diagnostic laboratories, and veterinary diagnostic laboratories at institutions of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)).
 
-(1) To enhance the capability of the Secretary to respond in a timely manner to emerging or existing bioterrorist threats to animal health.
+(2) **In general** — The Secretary, in consultation with State veterinarians, shall offer to enter into contracts, grants, cooperative agreements, or other legal instruments with eligible laboratories for any of the following purposes:
 
-(2) To provide the capacity and capability for standardized—
+  (A) To enhance the capability of the Secretary to respond in a timely manner to emerging or existing bioterrorist threats to animal health.
 
-  (A) test procedures, reference materials, and equipment;
+  (B) To provide the capacity and capability for standardized—
 
-  (B) laboratory biosafety and biosecurity levels;
+    (i) test procedures, reference materials, and equipment;
 
-  (C) quality management system requirements;
+    (ii) laboratory biosafety and biosecurity levels;
 
-  (D) interconnected electronic reporting and transmission of data; and
+    (iii) quality management system requirements;
 
-  (E) evaluation for emergency preparedness.
+    (iv) interconnected electronic reporting and transmission of data; and
 
-(3) To coordinate the development, implementation, and enhancement of national veterinary diagnostic laboratory capabilities, with special emphasis on surveillance planning and vulnerability analysis, technology development and validation, training, and outreach.
+    (v) evaluation for emergency preparedness.
 
-**(c) Priority** To the extent practicable and to the extent capacity and specialized expertise may be necessary, the Secretary shall give priority to existing Federal facilities, State facilities, and facilities at institutions of higher education.
+  (C) To coordinate the development, implementation, and enhancement of national veterinary diagnostic laboratory capabilities, with special emphasis on surveillance planning and vulnerability analysis, technology development and validation, training, and outreach.
 
-**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2014 through 2018.
+(3) **Priority** — To the extent practicable and to the extent capacity and specialized expertise may be necessary, the Secretary shall give priority to existing Federal facilities, State facilities, and facilities at institutions of higher education.
+
+**(b) National Animal Disease Preparedness and Response Program**
+
+(1) **Program required** — The Secretary shall establish a program, to be known as the National Animal Disease Preparedness and Response Program (referred to in this section as “the Program”), to address the increasing risk of the introduction and spread within the United States of animal pests and diseases affecting the economic interests of the livestock and related industries of the United States, including the maintenance and expansion of export markets.
+
+(2) **Program activities** — Activities under the Program shall include, to the extent practicable, the following:
+
+  (A) Enhancing animal pest and disease analysis and surveillance.
+
+  (B) Expanding outreach and education.
+
+  (C) Targeting domestic inspection activities at vulnerable points in the safeguarding continuum.
+
+  (D) Enhancing and strengthening threat identification technology.
+
+  (E) Improving biosecurity.
+
+  (F) Enhancing emergency preparedness and response capabilities, including training additional emergency response personnel.
+
+  (G) Conducting technology development to enhance electronic sharing of animal health data for risk analysis between State and Federal animal health officials.
+
+  (H) Enhancing the development and effectiveness of animal health technologies to treat and prevent animal disease, including—
+
+    (i) veterinary biologics and diagnostics;
+
+    (ii) animal drugs for minor uses and minor species;
+
+    (iii) animal medical devices; and
+
+    (iv) emerging veterinary countermeasures.
+
+  (I) Such other activities as determined appropriate by the Secretary, in consultation with eligible entities specified in paragraph (3).
+
+(3) **Eligible entities** — To carry out the Program, the Secretary shall offer to enter into cooperative agreements or other legal instruments, as authorized under [section 8312 of this title](./chapter-109-animal-health-protection.md#section-8312) (referred to in this section as “agreements”) with eligible entities, to be selected by the Secretary, which may include any of the following entities, either individually or in combination:
+
+  (A) A State department of agriculture.
+
+  (B) The office of the chief animal health official of a State.
+
+  (C) An entity eligible to receive funds under a capacity and infrastructure program (as defined in [section 6971(f)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6971/f/1/C&num=0&edition=prelim)).
+
+  (D) A college of veterinary medicine, including a veterinary emergency team at such college.
+
+  (E) A State or national livestock producer organization with direct and significant economic interest in livestock production.
+
+  (F) A State emergency agency.
+
+  (G) A State, national, allied, or regional veterinary organization or specialty board recognized by the American Veterinary Medical Association.
+
+  (H) An Indian Tribe.
+
+  (I) A Federal agency.
+
+(4) **Special funding considerations** — In entering into agreements under this subsection, the Secretary shall give priority to applications submitted by—
+
+  (A) a State department of agriculture or an office of the chief animal health official of a State; or
+
+  (B) an eligible entity that will carry out program activities in a State or region in which—
+
+    (i) an animal pest or disease is a Federal concern; or
+
+    (ii) the Secretary determines a potential exists for the spread of an animal pest or disease after taking into consideration—
+
+      (I) the agricultural industries in the State or region;
+
+      (II) factors contributing to animal pest or disease in the State or region, such as the climate, natural resources, and geography of, and native and exotic wildlife species and other disease vectors in, the State or region; and
+
+      (III) the movement of animals in the State or region.
+
+(5) **Consultation** — For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultation carried out under this paragraph.
+
+(6) **Application**
+
+  (A) *In general* — An eligible entity specified in paragraph (3) seeking to enter into an agreement under the Program shall submit to the Secretary an application containing such information as the Secretary may require.
+
+  (B) *Notification* — The Secretary shall notify each applicant of—
+
+    (i) the requirements to be imposed on the eligible entity that is the recipient of funds under the Program for auditing of, and reporting on, the use of such funds; and
+
+    (ii) the criteria to be used to ensure activities supported using such funds are based on sound scientific data or thorough risk assessments.
+
+  (C) *Non-Federal contributions* — When deciding whether to enter into an agreement under the Program with an eligible entity described in paragraph (3), the Secretary—
+
+    (i) may take into consideration an eligible entity’s ability to contribute non-Federal funds to carry out such an agreement; and
+
+    (ii) shall not require such an eligible entity to make such a contribution as a condition to enter into an agreement.
+
+(7) **Use of funds**
+
+  (A) *Use consistent with terms of cooperative agreement* — The recipient of funds under the Program shall use the funds for the purposes and in the manner provided in the agreement under which the funds are provided.
+
+  (B) *Sub-agreement* — Nothing in this section prevents an eligible entity from using funds received under the Program to enter into sub-agreements with another eligible entity or with a political subdivision of a State that has legal responsibilities relating to animal disease prevention, surveillance, or rapid response.
+
+(8) **Reporting requirement** — Not later than 90 days after the date of completion of an activity conducted using funds provided under the Program, the recipient of such funds shall submit to the Secretary a report that describes the purposes and results of the activities.
+
+**(c) National Animal Vaccine Bank**
+
+(1) **Establishment** — The Secretary shall establish a national animal vaccine and veterinary countermeasures bank (to be known as the National Animal Vaccine and Veterinary Countermeasures Bank and referred to in this subsection as the “Vaccine Bank”) to benefit the domestic interests of the United States.
+
+(2) **Elements of Vaccine Bank** — Through the Vaccine Bank, the Secretary shall—
+
+  (A) maintain sufficient quantities of veterinary countermeasures to appropriately and rapidly respond to the most damaging animal diseases affecting or with potential to affect human health or the economy of the United States; and
+
+  (B) leverage, when appropriate, the mechanisms and infrastructure that have been developed for the management, storage, and distribution of the National Veterinary Stockpile.
+
+(3) **Priority for response to foot and mouth disease** — The Secretary shall prioritize the acquisition and maintenance of sufficient quantities of foot and mouth disease vaccine and accompanying diagnostic products for the Vaccine Bank. As part of such prioritization, the Secretary may offer to enter into one or more contracts with one or more entities that are capable of producing foot and mouth disease vaccine and that have surge production capacity of the vaccine.
+
+**(d) Funding**
+
+(1) **Mandatory funding**
+
+  (A) *Fiscal years 2019 through 2022* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $120,000,000 for the period of fiscal years 2019 through 2022, of which not less than $5,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
+
+  (B) *Subsequent fiscal years* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2023 and each fiscal year thereafter, of which not less than $18,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
+
+(2) **Authorization of appropriations**
+
+  (A) *National animal health laboratory network* — In addition to the funds made available under paragraph (1), there is authorized to be appropriated $30,000,000 for each of fiscal years 2019 through 2023 to carry out subsection (a).
+
+  (B) *National Animal Disease Preparedness and Response Program; National Animal Vaccine and Veterinary Countermeasures Bank* — In addition to the funds made available under paragraph (1), there is authorized to be appropriated such sums as are necessary for each of fiscal years 2019 through 2023 to carry out subsections (b) and (c).
+
+  (C) *Additionality* — The funds authorized for appropriation under this paragraph are in addition to any funds authorized or otherwise made available under this section or [section 8316 of this title](./chapter-109-animal-health-protection.md#section-8316).
+
+(3) **Administrative costs**
+
+  (A) *Secretary* — Of the funds made available under this section or [section 8316 of this title](./chapter-109-animal-health-protection.md#section-8316) to carry out the National Animal Health Laboratory Network under subsection (a) and the National Animal Disease Preparedness and Response Program under subsection (b), not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary.
+
+  (B) *Eligible entities* — Of the funds made available under this section or [section 8316 of this title](./chapter-109-animal-health-protection.md#section-8316) to carry out the National Animal Disease Preparedness and Response Program under subsection (b), not more than 10 percent may be retained by an eligible entity that receives funds under any agreement entered into under such subsection, including any sub-agreement under paragraph (7)(B) of such subsection to pay administrative costs incurred by the eligible entity to carry out activities under the Program.
+
+(4) **Duration of availability** — Funds made available under this subsection, including any proceeds credited under paragraph (5), shall remain available until expended.
+
+(5) **Proceeds from veterinary countermeasures sales** — Any proceeds of a sale of veterinary countermeasures from the Vaccine Bank shall be—
+
+  (A) deposited into the Treasury of the United States; and
+
+  (B) credited to the account for the operation of the Vaccine Bank to be made available for expenditure without further appropriation.
+
+(6) **Limitations on use of funds for certain purposes** — Funds made available under the National Animal Health Laboratory Network, the National Animal Disease Preparedness and Response Program, and the Vaccine Bank shall not be used for the construction of a new building or facility or the acquisition or expansion of an existing building or facility, including site grading and improvement and architect fees.
+
+**(e) Availability and purpose of funding**
+
+(1) **In general** — Using the funds made available under subsection (d), the Secretary of Agriculture shall offer to enter into contracts, grants, cooperative agreements, or other legal instruments under subsections (a) through (c) during each of the fiscal years 2019 through 2023.
+
+(2) **Effect** — Nothing in paragraph (1) shall be construed to terminate a contract, grant, cooperative agreement, or other legal instrument entered into during the period specified in such paragraph.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2018—Pub. L. 115–334, § 12101(b)(1), substituted “Animal disease prevention and management” for “National animal health laboratory network” in section catchline.
+
+Subsec. (a). Pub. L. 115–334, § 12101(b)(2), (4), substituted “National Animal Health Laboratory Network” for “Definition of eligible laboratory” in heading, inserted par. (1) designation and heading and substituted “In this subsection,” for “In this section,”, redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, and realigned margins.
+
+Subsec. (a)(2). Pub. L. 115–334, § 12101(b)(3)(B), redesignated pars. (1) to (3) of former subsec. (b) as subpars. (A) to (C), respectively, and realigned margins.
+
+Subsec. (a)(2)(B). Pub. L. 115–334, § 12101(b)(3)(A), redesignated subpars. (A) to (E) of former subsec. (b)(2) as cls. (i) to (v), respectively, and realigned margins.
+
+Subsec. (b). Pub. L. 115–334, § 12101(b)(5), added subsec. (b). Former subsec. (b) redesignated (a)(2).
+
+Subsec. (c). Pub. L. 115–334, § 12101(c), added subsec. (c). Former subsec. (c) redesignated (a)(3).
+
+Subsecs. (d), (e). Pub. L. 115–334, § 12101(d), added subsecs. (d) and (e) and struck out former subsec. (d) which authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2014 through 2018.
 
 
 <a id="section-8309"></a>
@@ -841,12 +1010,15 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 <a id="section-8318"></a>
 ## § 8318. Veterinary training
 
-The Secretary of Agriculture may develop a program to maintain in all regions of the United States a sufficient number of Federal and State veterinarians who are well trained in recognition and diagnosis of exotic and endemic animal diseases.
+The Secretary of Agriculture may develop a program to maintain in all regions of the United States a sufficient number of Federal and State veterinarians and veterinary teams, including those based at colleges of veterinary medicine, who are well trained in recognition and diagnosis of exotic and endemic animal diseases and who are capable of providing effective services before, during, and after emergencies.
 
 ### Statutory Notes
 
 #### Codification
 Section was not enacted as part of the Animal Health Protection Act which comprises this chapter.
+
+#### Amendments
+2018—Pub. L. 115–334 inserted “and veterinary teams, including those based at colleges of veterinary medicine,” before “who are well trained” and “and who are capable of providing effective services before, during, and after emergencies” before period at end.
 
 
 <a id="section-8319"></a>
@@ -929,9 +1101,7 @@ Section was enacted as part of the Specialty Crops Competitiveness Act of 2004, 
 
 **(c) Applicability of other laws** In carrying out this section, the Secretary may make use of the authorities under the Animal Health Protection Act ([7 U.S.C. 8301](./chapter-109-animal-health-protection.md#section-8301) et seq.), including the authority to carry out operations and measures to detect, control, and eradicate pests and diseases and the authority to pay claims arising out of the destruction of any animal, article, or means of conveyance.
 
-**(d) Authorization of appropriations** There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2018.
-
-**(e) Eligible entity defined** In this section, the term “eligible entity” means a State, a political subdivision of a State, Indian tribe, or other appropriate entity, as determined by the Secretary of Agriculture.
+**(d) Eligible entity defined** In this section, the term “eligible entity” means a State, a political subdivision of a State, Indian tribe, or other appropriate entity, as determined by the Secretary of Agriculture.
 
 ### Statutory Notes
 
@@ -944,6 +1114,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Animal Health Protection Act, which in part comprises this chapter.
 
 #### Amendments
+2018—Subsecs. (d), (e). Pub. L. 115–334 redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2018.”
+
 2014—Subsec. (d). Pub. L. 113–79 substituted “2018” for “2012”.
 
 #### Effective Date

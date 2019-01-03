@@ -270,6 +270,82 @@ Pub. L. 114–125, title VIII, § 801, Feb. 24, 2016, 130 Stat. 199, provided th
 
 Pub. L. 114–125, title VIII, § 811, Feb. 24, 2016, 130 Stat. 217, provided that: “This subtitle [subtitle B (§§ 811–819) of title VIII of Pub. L. 114–125, enacting subchapter VII of this chapter and amending [section 8311 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8311&num=0&edition=prelim), Agriculture, [section 1356 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1356&num=0&edition=prelim), Aliens and Nationality, and [section 44901 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44901&num=0&edition=prelim), Transportation] may be cited as the ‘Preclearance Authorization Act of 2015’.”
 
+#### Ex. Ord. No. 13785. Establishing Enhanced Collection and Enforcement of Antidumping and Countervailing Duties and Violations of Trade and Customs Laws
+Ex. Ord. No. 13785, Mar. 31, 2017, 82 F.R. 16719, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote the efficient and effective administration of United States trade laws, it is hereby ordered as follows:
+
+Section 1. Policy. Importers that unlawfully evade antidumping and countervailing duties expose United States employers to unfair competition and deprive the Federal Government of lawful revenue. As of May 2015, $2.3 billion in antidumping and countervailing duties owed to the Government remained uncollected, often from importers that lack assets located in the United States. It is therefore the policy of the United States to impose appropriate bonding requirements, based on risk assessments, on entries of articles subject to antidumping and countervailing duties, when necessary to protect the revenue of the United States.
+
+Sec. 2. Definitions. For the purposes of this order:
+
+(a) the term “importer” has the meaning given in [section 4321 of title 19](./chapter-028-trade-facilitation-and-trade-enforcement.md#section-4321), United States Code; and
+
+(b) the term “covered importer” means any importer of articles subject to antidumping or countervailing duties for which one of the following is true: U.S. Customs and Border Protection (CBP) has no record of previous imports by the importer; CBP has a record of the importer’s failure to fully pay antidumping or countervailing duties; or CBP has a record of the importer’s failure to pay antidumping or countervailing duties in a timely manner.
+
+Sec. 3. Implementation Plan Development. Within 90 days of the date of this order, the Secretary of Homeland Security shall, in consultation with the Secretary of the Treasury, the Secretary of Commerce, and the United States Trade Representative, develop a plan that would require covered importers that, based on a risk assessment conducted by CBP, pose a risk to the revenue of the United States, to provide security for antidumping and countervailing duty liability through bonds and other legal measures, and also would identify other appropriate enforcement measures. This plan shall be consistent with the requirements of section 4321 and [section 1623 of title 19](./chapter-004-tariff-act-of-1930.md#section-1623), United States Code, and corresponding regulations.
+
+Sec. 4. Trade and Suspected Customs Law Violations Enforcement. (a) Within 90 days of the date of this order, the Secretary of Homeland Security, through the Commissioner of CBP, shall develop and implement a strategy and plan for combating violations of United States trade and customs laws for goods and for enabling interdiction and disposal, including through methods other than seizure, of inadmissible merchandise entering through any mode of transportation, to the extent authorized by law.
+
+(b) To ensure the timely and efficient enforcement of laws protecting Intellectual Property Rights (IPR) holders from the importation of counterfeit goods, the Secretary of the Treasury and the Secretary of Homeland Security shall take all appropriate steps, including rulemaking if necessary, to ensure that CBP can, consistent with law, share with rights holders:
+
+(i) any information necessary to determine whether there has been an IPR infringement or violation; and
+
+(ii) any information regarding merchandise voluntarily abandoned, as defined in section 127.12 of title 19, Code of Federal Regulations, before seizure, if the Commissioner of CBP reasonably believes that the successful importation of the merchandise would have violated United States trade laws.
+
+Sec. 5. Priority Enforcement. The Attorney General, in consultation with the Secretary of Homeland Security, shall develop recommended prosecution practices and allocate appropriate resources to ensure that Federal prosecutors accord a high priority to prosecuting significant offenses related to violations of trade laws.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 13796. Addressing Trade Agreement Violations and Abuses
+Ex. Ord. No. 13796, Apr. 29, 2017, 82 F.R. 20819, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. Every trade agreement and investment agreement entered into by the United States, and all trade relations and trade preference programs of the United States, should enhance our economic growth, contribute favorably to our balance of trade, and strengthen the American manufacturing base. Many United States free trade agreements, investment agreements, and trade relations have failed, in whole or in part, to meet these criteria. The result has been large and persistent trade deficits, a lack of reciprocal treatment of American goods and investment, the offshoring of factories and jobs, the loss of American intellectual property and reduced technological innovation, downward pressure on wage and income growth, and an impaired tax base. It is the policy of the United States to negotiate new trade agreements, investment agreements, and trade relations that benefit American workers and domestic manufacturers, farmers, and ranchers; protect our intellectual property; and encourage domestic research and development. It is also the policy of the United States to renegotiate or terminate any existing trade agreement, investment agreement, or trade relation that, on net, harms the United States economy, United States businesses, United States intellectual property rights and innovation rate, or the American people.
+
+Sec. 2. Conduct Performance Reviews. The Secretary of Commerce and the United States Trade Representative (USTR), in consultation with the Secretary of State, the Secretary of the Treasury, the Attorney General, and the Director of the Office of Trade and Manufacturing Policy, shall conduct comprehensive performance reviews of:
+
+(a) all bilateral, plurilateral, and multilateral trade agreements and investment agreements to which the United States is a party; and
+
+(b) all trade relations with countries governed by the rules of the World Trade Organization (WTO) with which the United States does not have free trade agreements but with which the United States runs significant trade deficits in goods.
+
+Sec. 3. Report of Violations and Abuses. (a) Each performance review shall be submitted to the President by the Secretary of Commerce and the USTR within 180 days of the date of this order and shall identify:
+
+(i) those violations or abuses of any United States trade agreement, investment agreement, WTO rule governing any trade relation under the WTO, or trade preference program that are harming American workers or domestic manufacturers, farmers, or ranchers; harming our intellectual property rights; reducing our rate of innovation; or impairing domestic research and development;
+
+(ii) unfair treatment by trade and investment partners that is harming American workers or domestic manufacturers, farmers, or ranchers; harming our intellectual property rights; reducing our rate of innovation; or impairing domestic research and development;
+
+(iii) instances where a trade agreement, investment agreement, trade relation, or trade preference program has failed with regard to such factors as predicted new jobs created, favorable effects on the trade balance, expanded market access, lowered trade barriers, or increased United States exports; and
+
+(iv) lawful and appropriate actions to remedy or correct deficiencies identified pursuant to subsections (a)(i) through (a)(iii) of this section.
+
+(b) The findings of the performance reviews required by this order shall help guide United States trade policy and trade negotiations.
+
+Sec. 4. Remedy of Trade Violations and Abuses. The Secretary of Commerce, the USTR, and other heads of executive departments and agencies, as appropriate, shall take every appropriate and lawful action to address violations of trade law, abuses of trade law, or instances of unfair treatment.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-4312"></a>
 ## § 4312. Improving partnership programs
@@ -590,7 +666,7 @@ Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 Sections 10(f) and 14(a)(2) of the Federal Advisory Committee Act, referred to in subsecs. (d) and (f), are sections 10(f) and 14(a)(2), respectively, of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
-Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of section 109 of Pub. L. 114–125 repealed section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, formerly set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071), effective on the date on which the Advisory Committee was established under subsection (a) of this section. Notice of the establishment of the Advisory Committee on Mar. 29, 2016, was published at 81 F.R. 18865.
+Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of section 109 of Pub. L. 114–125 repealed section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (Pub. L. 100–203), formerly set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071), effective on the date on which the Advisory Committee was established under subsection (a) of this section. Notice of the establishment of the Advisory Committee on Mar. 29, 2016, was published at 81 F.R. 18865.
 
 
 <a id="section-4318"></a>
@@ -681,7 +757,7 @@ Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of sect
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 111 of Pub. L. 114–125. Subsec. (c) of section 111 of Pub. L. 114–125 amended section 343(a) of Pub. L. 107–210, which is set out as a Mandatory Advanced Electronic Information for Cargo and Other Improved Customs Reporting Procedures note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071).
+Section is comprised of section 111 of Pub. L. 114–125. Subsec. (c) of section 111 of Pub. L. 114–125 amended [section 1415 of this title](./chapter-004-tariff-act-of-1930.md#section-1415).
 
 
 <a id="section-4320"></a>
@@ -1640,6 +1716,15 @@ Subsection (a), referred to in text, means section 609(a) of Pub. L. 114–125, 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(1)(A)
+Pub. L. 115–254, div. F, title VI, § 1470(h), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (c)(1)(A) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsec. (c)(1)(A). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
+
 #### Ex. Ord. No. 13733. Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Facilitation and Trade Enforcement Act of 2015
 Ex. Ord. No. 13733, July 22, 2016, 81 F.R. 49515, provided:
 
@@ -1760,7 +1845,7 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 <a id="section-4433"></a>
 ## § 4433. Establishment of preclearance operations
 
-Pursuant to [section 1629 of this title](./chapter-004-tariff-act-of-1930.md#section-1629) and [section 1103(a)(7) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1103/a/7&num=0&edition=prelim), and provided that an aviation security preclearance agreement (as defined in [section 44901(d)(4)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44901/d/4/B&num=0&edition=prelim)) is in effect, the Secretary may establish and maintain U.S. Customs and Border Protection preclearance operations in a foreign country—
+Pursuant to [section 1629 of this title](./chapter-004-tariff-act-of-1930.md#section-1629) and [section 1103(a)(7) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1103/a/7&num=0&edition=prelim), and provided that an aviation security preclearance agreement (as defined in section 44901(d)(4)(B) 11 See References in Text note below. of title 49) is in effect, the Secretary may establish and maintain U.S. Customs and Border Protection preclearance operations in a foreign country—
 
 (1) to prevent terrorists, instruments of terrorism, and other security threats from entering the United States;
 
@@ -1771,6 +1856,11 @@ Pursuant to [section 1629 of this title](./chapter-004-tariff-act-of-1930.md#sec
 (4) to ensure the prompt processing of persons eligible to travel to the United States; and
 
 (5) to accomplish such other objectives as the Secretary determines are necessary to protect the United States.
+
+### Statutory Notes
+
+#### References in Text
+[Section 44901(d)(4)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44901/d/4/B&num=0&edition=prelim), referred to in text, was redesignated [section 44901(d)(2)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44901/d/2/B&num=0&edition=prelim) by Pub. L. 115–254, div. K, title I, § 1991(d)(1)(C)(iii), Oct. 5, 2018, 132 Stat. 3628.
 
 
 <a id="section-4434"></a>
@@ -2087,7 +2177,7 @@ The United States-Israel Enhanced Security Cooperation Act of 2012, referred to 
 
 The United States-Israel Strategic Partnership Act of 2014, referred to in subsec. (a)(5), is Pub. L. 113–296, Dec. 19, 2014, 128 Stat. 4075. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 8601 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8601&num=0&edition=prelim), Foreign Relations and Intercourse, and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (a)(6)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(6)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(6)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 

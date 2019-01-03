@@ -60,7 +60,7 @@ source: >-
 
   (A) is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
 
-  (B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 15 of this title, [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), or any other provision of law during a war or during a national emergency declared by the President or Congress.
+  (B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 13 of this title, section 712 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, or any other provision of law during a war or during a national emergency declared by the President or Congress.
 
 (14) The term “supplies” includes material, equipment, and stores of all kinds.
 
@@ -233,6 +233,12 @@ source: >-
 
   (C) remain unexploded, whether by malfunction, design, or any other cause.
 
+(6) **Energy resilience.—** — The term “energy resilience” means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
+
+(7) **Energy security.—** — The term “energy security” means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
+
+(8) **Military installation resilience.—** — The term “military installation resilience” means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, or from anticipated or unanticipated changes in environmental conditions, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
+
 **(f) Rules of Construction.—** In this title—
 
 (1) “shall” is used in an imperative sense;
@@ -319,6 +325,14 @@ The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug
 Pub. L. 107–296, § 1704(b)(1), which directed amendment of [section 101(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/9&num=0&edition=prelim) by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+2018—Subsec. (a)(13)(B). Pub. L. 115–232, § 1204(a)(3), substituted “chapter 13” for “chapter 15”.
+
+Subsec. (e)(6). Pub. L. 115–232, § 312(f), struck out “task critical assets and other” before “mission essential operations”.
+
+Subsec. (e)(8). Pub. L. 115–232, § 2805(e), added par. (8).
+
+2017—Subsec. (e)(6), (7). Pub. L. 115–91 added pars. (6) and (7).
+
 2016—Subsec. (d)(6)(B)(v). Pub. L. 114–328 substituted “([50 U.S.C. 3809(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809/b/2&num=0&edition=prelim))” for “(50 U.S.C. App. 460(b)(2))”.
 
 2013—Subsec. (a)(13)(B). Pub. L. 112–239 inserted “[section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim),” after “chapter 15 of this title,”.
@@ -425,8 +439,11 @@ Par. 36. Pub. L. 90–235 added par. (36).
 
 Par. (35). Pub. L. 85–861, § 33(a)(1), added par. (35).
 
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Effective Date of 2013 Amendment
-Pub. L. 112–239, div. A, title VI, § 681(d), Jan. 2, 2013, 126 Stat. 1795, provided that: “(1) Inclusion of prior orders.—The amendments made by this section [amending this section, [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), and [section 3301 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3301&num=0&edition=prelim), Veterans’ Benefits] shall apply to any call or order to active duty authorized under [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), United States Code, on or after December 31, 2011, by the Secretary of the executive department in which the Coast Guard is operating. “(2) Credit for prior service.—The amendments made by this section shall be deemed to have been enacted on December 31, 2011, for purposes of applying the amendments to the following provisions of law:“(A) [Section 5538 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), United States Code, relating to nonreduction in pay. “(B) [Section 701 of title 10](./chapter-040-leave.md#section-701), United States Code, relating to the accumulation and retention of leave. “(C) [Section 12731 of title 10](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), United States Code, relating to age and service requirements for receipt of retired pay for non-regular service.”
+Pub. L. 112–239, div. A, title VI, § 681(d), Jan. 2, 2013, 126 Stat. 1795, provided that: “(1) Inclusion of prior orders.—The amendments made by this section [amending this section, [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), and [section 3301 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3301&num=0&edition=prelim), Veterans’ Benefits] shall apply to any call or order to active duty authorized under section 712 [now 3713] of title 14, United States Code, on or after December 31, 2011, by the Secretary of the executive department in which the Coast Guard is operating. “(2) Credit for prior service.—The amendments made by this section shall be deemed to have been enacted on December 31, 2011, for purposes of applying the amendments to the following provisions of law:“(A) [Section 5538 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), United States Code, relating to nonreduction in pay. “(B) [Section 701 of title 10](./chapter-040-leave.md#section-701), United States Code, relating to the accumulation and retention of leave. “(C) [Section 12731 of title 10](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), United States Code, relating to age and service requirements for receipt of retired pay for non-regular service.”
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–296, title XVII, § 1704(g), Nov. 25, 2002, 116 Stat. 2316, provided that: “The amendments made by this section (other than subsection (f)) [see Tables for classification] shall take effect on the date of transfer of the Coast Guard to the Department [of Homeland Security].”
@@ -454,6 +471,9 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Effective Date of 1958 Amendment
 Pub. L. 85–861, § 33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: “This section [see Tables for classification] is effective as of August 10, 1956, for all purposes.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–232, div. A, title VI, § 621(a), Aug. 13, 2018, 132 Stat. 1798, provided that: “This section [enacting [section 1065 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1065) and provisions set out as a note under [section 1065 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1065)] may be cited as the ‘Purple Heart and Disabled Veterans Equal Access Act of 2018’.”
 
 #### Short Title of 2016 Amendment
 Pub. L. 114–328, div. E, § 5001, Dec. 23, 2016, 130 Stat. 2894, provided that: “This division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification] may be cited as the ‘Military Justice Act of 2016’.”
@@ -502,9 +522,13 @@ Authority vested by this title in “military departments”, “the Secretary c
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
-Pub. L. 114–328, div. A, title X, § 1081(d), Dec. 23, 2016, 130 Stat. 2420, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+Pub. L. 115–232, div. A, title X, § 1081(g), Aug. 13, 2018, 132 Stat. 1987, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 115–91, div. A, title X, § 1081(j), Dec. 12, 2017, 131 Stat. 1601.
+
+Pub. L. 114–328, div. A, title X, § 1081(d), Dec. 23, 2016, 130 Stat. 2420.
 
 Pub. L. 114–92, div. A, title X, § 1081(e), Nov. 25, 2015, 129 Stat. 1002.
 
@@ -538,6 +562,10 @@ Pub. L. 102–484, div. A, title X, § 1055, Oct. 23, 1992, 106 Stat. 2503.
 
 #### Congressional Defense Committees Defined
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 115–232, § 3, Aug. 13, 2018, 132 Stat. 1658.
+
+Pub. L. 115–91, § 3, Dec. 12, 2017, 131 Stat. 1305.
 
 Pub. L. 114–328, § 3, Dec. 23, 2016, 130 Stat. 2025.
 

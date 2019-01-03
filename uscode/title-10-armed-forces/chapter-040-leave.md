@@ -2,7 +2,7 @@
 title: 10
 chapter: '40'
 heading: LEAVE
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -321,7 +321,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ## § 703. Reenlistment leave
 **(a)** Leave for not more than 90 days may be authorized, in the discretion of the Secretary concerned, or his designated representative, to a member of an armed force who reenlists. Leave authorized under this section shall be deducted from leave accrued during active service before reenlistment or charged against leave that may accrue during future active service, or both.
 
-**(b)** Under regulations prescribed by the Secretary of Defense, and notwithstanding subsection (a), a member who is on active duty in an area described in [section 310(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section310/a/2&num=0&edition=prelim) and who, by reenlistment, extension of enlistment, or other voluntary action, extends his required tour of duty in that area for at least six months may be—
+**(b)** Under regulations prescribed by the Secretary of Defense, and notwithstanding subsection (a), a member who is on active duty in an area described in section 310(a)(2) or paragraph (1) or (3) of [section 351(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section351/a&num=0&edition=prelim) and who, by reenlistment, extension of enlistment, or other voluntary action, extends his required tour of duty in that area for at least six months may be—
 
 (1) authorized not more than thirty days of leave, exclusive of travel time, at an authorized place selected by the member; and
 
@@ -339,6 +339,8 @@ Leave under this subsection may not be charged or credited to leave that accrued
 The 4th sentence of section 31a(a) of existing title 37 is omitted as executed. The words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–91 inserted “or paragraph (1) or (3) of section 351(a)” after “section 310(a)(2)” in introductory provisions.
+
 1972—Subsec. (b). Pub. L. 92–481 substituted “June 30, 1973” for “June 30, 1972”.
 
 1970—Subsec. (b). Pub. L. 91–302 substituted “June 30, 1972” for “June 30, 1970”.
@@ -445,7 +447,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 (3) has completed a tour of duty (as defined in accordance with regulations prescribed by the Secretary concerned) at a location outside the 48 contiguous States and the District of Columbia that is designated by the Secretary concerned for the purposes of this section; and
 
 (4) at the end of that tour of duty executes an agreement to extend that tour for a period of not less than one year;
-may, in lieu of receiving special pay under [section 314 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section314&num=0&edition=prelim) for duty performed during such extension of duty, elect to receive one of the benefits specified in subsection (b). Receipt of any such benefit is in addition to any other leave or transportation to which the member may be entitled.
+may, in lieu of receiving special pay under section 314 or 352 of title 37 for duty performed during such extension of duty, elect to receive one of the benefits specified in subsection (b). Receipt of any such benefit is in addition to any other leave or transportation to which the member may be entitled.
 
 **(b)** The benefits authorized by subsection (a) are—
 
@@ -458,6 +460,8 @@ may, in lieu of receiving special pay under [section 314 of title 37](https://us
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 inserted “or 352” after “section 314” in concluding provisions.
+
 2008—Subsec. (b)(2). Pub. L. 110–181 inserted “for members whose qualifying tour of duty is 12 months or less, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months,” after “for not more than 15 days”.
 
 2003–Pub. L. 108–136, § 621(b)(2), struck out “enlisted” before “members” in section catchline.
@@ -482,7 +486,7 @@ Pub. L. 96–579, § 5(c)(2), Dec. 23, 1980, 94 Stat. 3367, provided: “[Sectio
 
   (A) that is designated by the President as a combat zone; and
 
-  (B) in which hardship duty pay is authorized to be paid under [section 305 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section305&num=0&edition=prelim); and
+  (B) in which hardship duty pay is authorized to be paid under section 305 or 352(a) of title 37; and
 
 (2) meets such other criteria as the Secretary of Defense may prescribe in the regulations required by subsection (a).
 
@@ -493,6 +497,11 @@ Pub. L. 96–579, § 5(c)(2), Dec. 23, 1980, 94 Stat. 3367, provided: “[Sectio
 (2) Round-trip transportation at Government expense from the area or location in which the member is serving in connection with the exercise of the period of rest and recuperation.
 
 **(d) Construction With Other Leave.—** Any benefits provided a member under this section are in addition to any other leave or absence to which the member may be entitled.
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (b)(1)(B). Pub. L. 115–91 inserted “or 352(a)” after “section 305”.
 
 
 <a id="section-706"></a>
@@ -697,3 +706,100 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 **(b) Regulations.—** The Secretary of Defense and, in the case of the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to establish the criteria for the applicability of subsection (a).
 
 **(c) Conclusiveness of Settlement.—** The settlement of an application for reimbursement under subsection (a) is final and conclusive.
+
+
+<a id="section-710"></a>
+## § 710. Career flexibility to enhance retention of members
+**(a) Programs Authorized.—** Each Secretary of a military department may carry out programs under which members of the regular components and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
+
+**(b) Period of Inactivation From Active Service; Effect of Inactivation.—**
+
+(1) The period of inactivation from active service under a program under this section of a member participating in the program shall be such period as the Secretary of the military department concerned shall specify in the agreement of the member under subsection (c), except that such period may not exceed three years.
+
+(2) Any service by a Reserve officer while participating in a program under this section shall be excluded from computation of the total years of service of that officer pursuant to [section 14706(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14706/a&num=0&edition=prelim).
+
+(3) Any period of participation of a member in a program under this section shall not count toward—
+
+  (A) eligibility for retirement or transfer to the Ready Reserve under either chapter 571 or 1223 of this title; or
+
+  (B) computation of retired or retainer pay under chapter 71 or 1223 of this title.
+
+**(c) Agreement.—** Each member of the armed forces who participates in a program under this section shall enter into a written agreement with the Secretary of the military department concerned under which agreement that member shall agree as follows:
+
+(1) To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of the armed force concerned during the period of the inactivation of the member from active service under the program.
+
+(2) To undergo during the period of the inactivation of the member from active service under the program such inactive service training as the Secretary concerned shall require in order to ensure that the member retains proficiency, at a level determined by the Secretary concerned to be sufficient, in the military skills, professional qualifications, and physical readiness of the member during the inactivation of the member from active service.
+
+(3) Following completion of the period of the inactivation of the member from active service under the program, to serve two months as a member of the armed forces on active service for each month of the period of the inactivation of the member from active service under the program.
+
+**(d) Conditions of Release.—** The Secretary of Defense shall prescribe regulations specifying the guidelines regarding the conditions of release that must be considered and addressed in the agreement required by subsection (c). At a minimum, the Secretary shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active service.
+
+**(e) Order to Active Service.—** Under regulations prescribed by the Secretary of the military department concerned, a member of the armed forces participating in a program under this section may, in the discretion of such Secretary, be required to terminate participation in the program and be ordered to active service.
+
+**(f) Pay and Allowances.—**
+
+(1) During each month of participation in a program under this section, a member who participates in the program shall be paid basic pay in an amount equal to two-thirtieths of the amount of monthly basic pay to which the member would otherwise be entitled under [section 204 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section204&num=0&edition=prelim) as a member of the uniformed services on active service in the grade and years of service of the member when the member commences participation in the program.
+
+(2)
+
+  (A) A member who participates in a program shall not, while participating in the program, be paid any special or incentive pay or bonus to which the member is otherwise entitled under an agreement under chapter 5 of title 37 that is in force when the member commences participation in the program.
+
+  (B) The inactivation from active service of a member participating in a program shall not be treated as a failure of the member to perform any period of service required of the member in connection with an agreement for a special or incentive pay or bonus under chapter 5 of title 37 that is in force when the member commences participation in the program.
+
+(3)
+
+  (A) Subject to subparagraph (B), upon the return of a member to active service after completion by the member of participation in a program—
+
+    (i) any agreement entered into by the member under chapter 5 of title 37 for the payment of a special or incentive pay or bonus that was in force when the member commenced participation in the program shall be revived, with the term of such agreement after revival being the period of the agreement remaining to run when the member commenced participation in the program; and
+
+    (ii) any special or incentive pay or bonus shall be payable to the member in accordance with the terms of the agreement concerned for the term specified in clause (i).
+
+  (B)
+
+    (i) Subparagraph (A) shall not apply to any special or incentive pay or bonus otherwise covered by that subparagraph with respect to a member if, at the time of the return of the member to active service as described in that subparagraph—
+
+      (I) such pay or bonus is no longer authorized by law; or
+
+      (II) the member does not satisfy eligibility criteria for such pay or bonus as in effect at the time of the return of the member to active service.
+
+    (ii) Subparagraph (A) shall cease to apply to any special or incentive pay or bonus otherwise covered by that subparagraph with respect to a member if, during the term of the revived agreement of the member under subparagraph (A)(i), such pay or bonus ceases being authorized by law.
+
+  (C) A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
+
+  (D) Any service required of a member under an agreement covered by this paragraph after the member returns to active service as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
+
+(4)
+
+  (A) Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by [section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim) for—
+
+    (i) travel performed from the residence of the member, at the time of release from active service to participate in the program, to the location in the United States designated by the member as his residence during the period of participation in the program; and
+
+    (ii) travel performed to the residence of the member upon return to active service at the end of the participation of the member in the program.
+
+  (B) An allowance is payable under this paragraph only with respect to travel of a member to and from a single residence.
+
+(5) A member who participates in a program is entitled to carry forward the leave balance existing as of the day on which the member begins participation and accumulated in accordance with [section 701 of this title](./chapter-040-leave.md#section-701), but not to exceed 60 days.
+
+**(g) Promotion.—**
+
+(1)
+
+  (A) An officer participating in a program under this section shall not, while participating in the program, be eligible for consideration for promotion under chapter 36 or 1405 of this title.
+
+  (B) Upon the return of an officer to active service after completion by the officer of participation in a program—
+
+    (i) the Secretary of the military department concerned shall adjust the date of rank of the officer in such manner as the Secretary of Defense shall prescribe in regulations for purposes of this section; and
+
+    (ii) the officer shall be eligible for consideration for promotion when officers of the same competitive category, grade, and seniority are eligible for consideration for promotion.
+
+(2) An enlisted member participating in a program shall not be eligible for consideration for promotion during the period that—
+
+  (A) begins on the date of the inactivation of the member from active service under the program; and
+
+  (B) ends at such time after the return of the member to active service under the program that the member is treatable as eligible for promotion by reason of time in grade and such other requirements as the Secretary of the military department concerned shall prescribe in regulations for purposes of the program.
+
+**(h) Continued Entitlements.—** A member participating in a program under this section shall, while participating in the program, be treated as a member of the armed forces on active duty for a period of more than 30 days for purposes of—
+
+(1) the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title; and
+
+(2) retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title.

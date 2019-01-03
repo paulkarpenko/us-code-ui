@@ -57,7 +57,7 @@ Subsection (c) clarifies that the Secretary has the flexibility to maintain this
 1989—Subsec. (b)(2). Pub. L. 101–225 amended par. (2) generally, adding subpars. (A) and (B).
 
 #### Effective Date
-Chapter effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 #### Records and Other Information; Establishment, Centralization and Computerization
 Pub. L. 100–710, title I, § 104(e)(2), Nov. 23, 1988, 102 Stat. 4751, provided that: “To establish, centralize, and computerize records and other information maintained under chapters 121, 125, and 313 of title 46, United States Code, from the effective date of this title [Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301)] through September 30, 1993, the Secretary of Transportation shall spend (out of amounts appropriated for the Department of Transportation under an appropriations law) not less than an amount that is equal to the amounts estimated to be— “(A) collected under [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), United States Code, for fees paid for services and things of value provided under chapter 313 of title 46, United States Code (as enacted by section 101 of this Act), and for documenting vessels under chapter 121 of title 46; and “(B) transferred to or collected by the Secretary under chapter 125 of title 46, United States Code (as enacted by section 101 of this Act).”
@@ -98,6 +98,9 @@ Subsection (a) of this section requires the Secretary to maintain a unique numbe
 Subsections (b), (c), (d), and (e) contain other requirements and restrictions concerning vessel identification markings.
 
 This section consolidates the requirements of sections 12114, 12115, 12116, and 12118 of title 46. For this reason, section 106 of this bill repeals those sections.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 #### Vessels Not Having Unique Number; Applicability of Provisions for Number Assignment
 Pub. L. 100–710, title I, § 104(f), Nov. 23, 1988, 102 Stat. 4751, provided that: “[Section 12502(a)(1) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12502/a/1&num=0&edition=prelim), United States Code (as enacted by section 101 of this Act), applies to a vessel of the United States that does not have a unique number as prescribed by the Secretary of Transportation under that section until the earlier of the following: “(1) the next time the vessel is documented, numbered, or titled. “(2) January 1, 1995.”
@@ -157,6 +160,9 @@ Under paragraph (c)(1), the Secretary must maintain information on a State-title
 
 1989—Subsec. (a)(2). Pub. L. 101–225 amended par. (2) generally, adding subpars. (A) and (B).
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-12504"></a>
 ## § 12504. Information available from the system
@@ -176,6 +182,9 @@ This section requires that the Secretary make available information maintained i
 
 #### Amendments
 1989—Pub. L. 101–225 substituted “Secretary of Transportation, the Secretary” for “Secretary, the Secretary of Transportation”.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-12505"></a>
@@ -212,6 +221,9 @@ Subsec. (e). Pub. L. 101–595 redesignated subsec. (e) as (b).
 
 Subsec. (f). Pub. L. 101–595 struck out subsec. (f) which read as follows: “The amounts retained by a State under this section may be used to make information available to the Secretary and to pay incremental administrative costs.”
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 #### Annual Fee Prior to Jan. 1, 1992
 Pub. L. 100–710, title I, § 104(e)(1), Nov. 23, 1988, 102 Stat. 4751, provided that: “Before January 1, 1992, the annual fee under [section 12505 of title 46](./chapter-125-vessel-identification-system.md#section-12505), United States Code (as enacted by section 101 of this Act), is $1.00.”
 
@@ -231,6 +243,9 @@ The Secretary of Transportation may delegate to an agency, a State, or a qualifi
 Revised section 12506
 
 This section allows the Secretary to delegate the authority to establish and maintain the vessel identification system to an agency, a State, or a qualified person. The Secretary may also delegate the authority to charge fees under section 12505 for requesting information from or making information available to the vessel identification system.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-12507"></a>
@@ -259,3 +274,6 @@ This section allows the Secretary to delegate the authority to establish and mai
 Revised section 12507
 
 This section establishes criminal and civil penalties for certain violations of chapter 125 of title 46 (as enacted by this Act).
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).

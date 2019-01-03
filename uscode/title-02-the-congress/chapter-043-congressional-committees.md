@@ -54,12 +54,6 @@ source: >-
 
 ### Statutory Notes
 
-#### Partial Repeal
-Section 2(a) of S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that, until otherwise provided by law or resolution of the Senate, the provisions of subsections (a) through (h) of this section shall not apply to committees of the Senate.
-
-#### Abolition of Additional Clerical Staff Positions
-Section 2(d) of Senate Resolution 281, Ninety-sixth Congress, approved March 11, 1980, provided that effective February 28, 1981, the additional clerical staff positions established by subsection (g) of this section (as in effect for committees of the Senate prior to November 14, 1979) are abolished.
-
 #### Codification
 Section was formerly classified to [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a) prior to editorial reclassification and renumbering as this section.
 
@@ -100,7 +94,7 @@ Subsec. (c). Pub. L. 91–510, § 301(b), inserted “of the Senate (other than 
 
 Subsec. (e). Pub. L. 91–510, § 477(a)(3), repealed provisions prescribing basic annual compensation of professional staff members and clerical staff members of standing committees and limiting such compensation, together with additional compensation authorized by law, to maximum amount authorized by Classification Act of 1949.
 
-Subsec. (g). Pub. L. 91–510, § 301(c), added subsec. (g). Former provisions, declaring any individual employed as a professional staff member of any committee as provided in this section ineligible for appointment to any office or position in executive branch of Government for period of one year after he shall have ceased to be such a member, were repealed by act Feb. 24, 1949, ch. 8, 63 Stat. 6.
+Subsec. (g). Pub. L. 91–510, § 301(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 91–510, § 301(c), added subsec. (h) and struck out former provisions which related to employees of House and Senate Appropriation Committees through fiscal year 1947, all other committee employees through Jan. 31, 1947, and appropriations for compensation of committee employees as contained in Legislative Branch Appropriation Act, 1947, act July 1, 1946, ch. 530, 60 Stat. 386.
 
@@ -114,7 +108,7 @@ Subsec. (j). Pub. L. 91–510, § 304, added subsec. (j).
 
 1955—Subsec. (e). Act Aug. 5, 1955, increased maximum basic annual compensation of professional staff and clerical staff from $8,000 to $8,820.
 
-1949—Subsec. (g). Act Feb. 24, 1949, repealed subsec. (g).
+1949—Subsec. (g). Act Feb. 24, 1949, struck out subsec. (g) which declared any individual employed as a professional staff member of any committee as provided in this section ineligible for appointment to any office or position in the executive branch for a period of one year after ceasing to be such a member.
 
 1947—Subsec. (e). Act July 30, 1947, omitted figure $2,000 as lowest salary to be paid clerks.
 
@@ -146,6 +140,12 @@ Act Aug. 2, 1946, ch. 753, title II, § 245, 60 Stat. 839, provided that: “Thi
 Pub. L. 91–510, § 1, Oct. 26, 1970, 84 Stat. 1140, provided that Pub. L. 91–510 [see Tables for classification] may be cited as the “Legislative Reorganization Act of 1970.”
 
 Act Aug. 2, 1946, ch. 753, § 1(a), 60 Stat. 812, provided that such Act [see Tables for classification] may be cited as the “Legislative Reorganization Act of 1946.”
+
+#### Partial Repeal
+Section 2(a) of S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that, until otherwise provided by law or resolution of the Senate, the provisions of subsections (a) through (h) of this section shall not apply to committees of the Senate.
+
+#### Abolition of Additional Clerical Staff Positions
+Section 2(d) of Senate Resolution 281, Ninety-sixth Congress, approved March 11, 1980, provided that effective February 28, 1981, the additional clerical staff positions established by subsection (g) of this section (as in effect for committees of the Senate prior to November 14, 1979) are abolished.
 
 #### Travel for Studies and Examinations of Executive Agencies
 Pub. L. 104–53, title I, § 105, Nov. 19, 1995, 109 Stat. 521, provided that: “(a) Notwithstanding any other provision of law, or any rule, regulation, or other authority, travel for studies and examinations under section 202(b) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 72a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section72a/b&num=0&edition=prelim)) [now [2 U.S.C. 4301(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4301/b&num=0&edition=prelim)] shall be governed by applicable laws or regulations of the House of Representatives or as promulgated from time to time by the Chairman of the Committee on Appropriations of the House of Representatives. “(b) Subsection (a) shall take effect on the date of the enactment of this Act [Nov. 19, 1995] and shall apply to travel performed on or after that date.”

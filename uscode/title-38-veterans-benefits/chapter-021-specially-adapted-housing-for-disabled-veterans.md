@@ -2,7 +2,7 @@
 title: 38
 chapter: '21'
 heading: SPECIALLY ADAPTED HOUSING FOR DISABLED VETERANS
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -55,11 +55,7 @@ source: >-
 
   (C) the nature and condition of the proposed housing unit are such as to be suitable to the veteran’s needs for dwelling purposes.
 
-(4)
-
-  (A) Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2017.
-
-  (B) In each of fiscal years 2014 through 2017, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
+(4) In any fiscal year, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 
 **(b) Adaptations to Residence of Veteran.—**
 
@@ -91,6 +87,12 @@ source: >-
 Prior section 2101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, related to eligibility for mustering-out payments, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+2018—Subsec. (a)(4). Pub. L. 115–251 substituted “In any fiscal year, the Secretary” for “(B) In each of fiscal years 2014 through 2018, the Secretary” and struck out subpar. (A) which read as follows: “Except as provided in subparagraph (B), the Secretary’s authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2018.”
+
+2017—Subsec. (a)(4)(A). Pub. L. 115–62, § 407(1), substituted “September 30, 2018” for “September 30, 2017”.
+
+Subsec. (a)(4)(B). Pub. L. 115–62, § 407(2), substituted “2018” for “2017”.
+
 2016—Subsec. (a)(4)(A). Pub. L. 114–228, § 408(1), substituted “September 30, 2017” for “September 30, 2016”.
 
 Subsec. (a)(4)(B). Pub. L. 114–228, § 408(2), substituted “2017” for “2016”.
@@ -204,7 +206,14 @@ Pub. L. 113–291, div. A, title X, § 1079, Dec. 19, 2014, 128 Stat. 3521, as a
 
   (B) the individual has or will acquire a beneficial property interest (as so determined) in such housing or residence.
 
-**(c) Regulations.—** Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.
+**(c) Limitation.—** Notwithstanding subsections (a) and (b), this section shall not apply to the provision of assistance under [section 2102B of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2102b).
+
+**(d) Regulations.—** Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsecs. (c), (d). Pub. L. 115–177 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 
 <a id="section-2102"></a>
@@ -418,6 +427,28 @@ Subsec. (e). Pub. L. 110–289, § 2604, substituted “after December 31, 2011�
 Pub. L. 112–154, title II, § 205(d), Aug. 6, 2012, 126 Stat. 1178, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 6, 2012] and shall apply with respect to assistance furnished in accordance with [section 2102A of title 38](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2102a), United States Code, on or after that date.”
 
 
+<a id="section-2102b"></a>
+## § 2102B. Adaptations to residences of veterans in rehabilitation programs
+**(a) In General.—** Subject to subsections (b) and (c), the Secretary may assist a veteran who is entitled to services and assistance under chapter 31 of this title and is pursuing a rehabilitation program under such chapter in acquiring such adaptations to such veteran’s residence as are determined necessary by the Secretary to accomplish the purposes of such rehabilitation program.
+
+**(b) Amount.—**
+
+(1) The aggregate amount of assistance available to a veteran under subsection (a) may not exceed $77,307. The Secretary may waive this limitation for a veteran if the Secretary determines a waiver is necessary for the rehabilitation program of the veteran.
+
+(2) Effective on October 1 of each year (beginning in 2017), the Secretary shall increase the amount described in paragraph (1) by the percentage calculated under [section 2102(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2102/e/2&num=0&edition=prelim).
+
+(3) Beginning on October 1, 2019, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a biennial report on the use of the waiver authority under paragraph (1).
+
+**(c) Regulations.—** The Secretary shall prescribe such regulations as may be necessary to carry out this section.
+
+**(d) Rehabilitation Program Defined.—** In this section, the term “rehabilitation program” has the meaning given such term in [section 3101 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3101).
+
+### Statutory Notes
+
+#### Regulations
+Pub. L. 115–177, § 1(b), June 1, 2018, 132 Stat. 1376, provided that: “The Secretary may provide assistance under section 2102B of such title [meaning title 38, United States Code], as added by subsection (a), in advance of regulations by issuing notice specifying the criteria for the application, approval, and oversight processes relating to the provision of assistance under such section.”
+
+
 <a id="section-2103"></a>
 ## § 2103. Furnishing of plans and specifications
 **(a) Plans and Specifications.—** The Secretary is authorized to furnish to individuals eligible for assistance under this chapter, without cost to the individuals, model plans and specifications of suitable housing units.
@@ -439,9 +470,11 @@ Pub. L. 110–289 substituted “individuals” for “veterans” in two places
 
 <a id="section-2104"></a>
 ## § 2104. Benefits additional to benefits under other laws
-**(a)** Any individual who accepts the benefits of this chapter shall not by reason thereof be denied the benefits of chapter 37 of this title; however, except as provided in subsection (b) of this section, the assistance authorized by [section 2101 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2101) shall not be available to any individual more than once.
+**(a)** Any individual who accepts the benefits of this chapter shall not by reason thereof be denied the benefits of chapter 37 of this title.
 
-**(b)** An individual eligible for assistance under [section 2101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2101/b&num=0&edition=prelim) shall not by reason of such eligibility be denied benefits for which such individual becomes eligible under [section 2101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2101/a&num=0&edition=prelim) or benefits relating to home health services under [section 1717(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1717/a/2&num=0&edition=prelim). However, no particular type of adaptation, improvement, or structural alteration provided to an individual under [section 1717(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1717/a/2&num=0&edition=prelim) may be provided to such individual under [section 2101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2101/b&num=0&edition=prelim).
+**(b)** An individual eligible for assistance under [section 2101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2101/b&num=0&edition=prelim) shall not by reason of such eligibility be denied benefits for which such individual becomes eligible under [section 2101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2101/a&num=0&edition=prelim) or benefits relating to home health services under [section 1717(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1717/a/2&num=0&edition=prelim).
+
+**(c)** The Secretary may not provide assistance to a veteran under this chapter if the Secretary determines such assistance would result in a duplication of benefits under this title to the veteran.
 
 ### Statutory Notes
 
@@ -449,6 +482,12 @@ Pub. L. 110–289 substituted “individuals” for “veterans” in two places
 Prior section 2104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to time limitations, prior to repeal by Pub. L. 89–50, § 1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–177, § 1(c)(3)(A), struck out “; however, except as provided in subsection (b) of this section, the assistance authorized by [section 2101 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2101) shall not be available to any individual more than once” before period at end.
+
+Subsec. (b). Pub. L. 115–177, § 1(c)(3)(B), struck out “However, no particular type of adaptation, improvement, or structural alteration provided to an individual under [section 1717(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1717/a/2&num=0&edition=prelim) may be provided to such individual under [section 2101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2101/b&num=0&edition=prelim).” at end.
+
+Subsec. (c). Pub. L. 115–177, § 1(c)(3)(C), added subsec. (c).
+
 2008—Subsec. (a). Pub. L. 110–289, § 2602(b)(5)(A), substituted “individual” for “veteran” in two places.
 
 Subsec. (b). Pub. L. 110–289, § 2602(b)(5)(B), substituted “An individual” for “A veteran” and “an individual” for “a veteran” and substituted “such individual” for “such veteran” in two places.
@@ -488,7 +527,13 @@ Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub.
 
 <a id="section-2106"></a>
 ## § 2106. Veterans’ mortgage life insurance
-**(a)** The United States shall automatically insure any eligible individual age 69 or younger who is or has been granted assistance in securing a suitable housing unit under this chapter against the death of the individual unless the individual (1) submits to the Secretary in writing the individual’s election not to be insured under this section, or (2) fails to respond in a timely manner to a request from the Secretary for information on which the premium for such insurance can be based.
+**(a)** The Secretary shall insure any individual under 70 years of age who has received assistance under this chapter against the death of the individual except for an individual who—
+
+(1) elects in writing to not receive insurance under this section;
+
+(2) fails to respond in a timely manner to a request from the Secretary for information on which the premium for such insurance can be based; or
+
+(3) receives such assistance under [section 2102B of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2102b).
 
 **(b)** The amount of insurance provided an individual under this section may not exceed the lesser of $150,000, or after January 1, 2012, $200,000, or the amount of the loan outstanding on the housing unit. The amount of such insurance shall be reduced according to the amortization schedule of the loan and may not at any time exceed the amount of the outstanding loan with interest. If there is no outstanding loan on the housing unit, insurance is not payable under this section. If an eligible individual elects not to be insured under this section, the individual may thereafter be insured under this section, but only upon submission of an application, payment of required premiums, and compliance with such health requirements and other terms and conditions as may be prescribed by the Secretary.
 
@@ -521,6 +566,8 @@ Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub.
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–177 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The United States shall automatically insure any eligible individual age 69 or younger who is or has been granted assistance in securing a suitable housing unit under this chapter against the death of the individual unless the individual (1) submits to the Secretary in writing the individual’s election not to be insured under this section, or (2) fails to respond in a timely manner to a request from the Secretary for information on which the premium for such insurance can be based.”
+
 2010—Subsec. (b). Pub. L. 111–275 substituted “$150,000, or after January 1, 2012, $200,000,” for “$90,000”.
 
 2008—Subsec. (a). Pub. L. 110–289, § 2602(b)(6)(A), (F), substituted “any eligible individual” for “any eligible veteran” and “the individual’s” for “the veterans’ ” and substituted “the individual” for “the veteran” in two places.
@@ -622,11 +669,15 @@ The Secretary shall provide for the coordination of the administration of progra
 
 **(f) Funding.—** From amounts appropriated to the Department for readjustment benefits for each fiscal year for which the Secretary is authorized to make a grant under this section, $1,000,000 shall be available for that fiscal year for the purposes of the program under this section.
 
-**(g) Duration.—** The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2017.
+**(g) Duration.—** The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2020.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–251 substituted “September 30, 2020” for “September 30, 2018”.
+
+2017—Subsec. (g). Pub. L. 115–62 substituted “September 30, 2018” for “September 30, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
 
 

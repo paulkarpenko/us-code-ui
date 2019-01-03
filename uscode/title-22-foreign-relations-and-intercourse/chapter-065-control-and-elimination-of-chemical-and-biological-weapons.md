@@ -77,7 +77,7 @@ The President shall—
 
 (1) use the authorities of the Arms Export Control Act [[22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.] to control the export of those defense articles and defense services, and
 
-(2) use the authorities of the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.] to control the export of those goods and technology,
+(2) use the authorities of the Export Administration Act of 1979 to control the export of those goods and technology,
 that the President determines would assist the government of any foreign country in acquiring the capability to develop, produce, stockpile, deliver, or use chemical or biological weapons.
 
 ### Statutory Notes
@@ -85,7 +85,7 @@ that the President determines would assist the government of any foreign country
 #### References in Text
 The Arms Export Control Act, referred to in par. (1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 
 <a id="section-5604"></a>
@@ -139,7 +139,7 @@ Functions of President under this section delegated to Secretary of State, with 
 
 (4) **Denial of United States Government credit or other financial assistance** — The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of the United States Government, including the Export-Import Bank of the United States.
 
-(5) **Exports of national security-sensitive goods and technology** — The authorities of [section 4605 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim) shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under [section 4604(c)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4604/c/1&num=0&edition=prelim).
+(5) **Exports of national security-sensitive goods and technology** — The authorities of section 4605 11 See References in Text note below. of title 50 shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under section 4604(c)(1) 1 of title 50.
 
 **(b) Additional sanctions if certain conditions not met**
 
@@ -158,7 +158,7 @@ Functions of President under this section delegated to Secretary of State, with 
 
   (B) *Bank loans* — The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities or products.
 
-  (C) *Further export restrictions* — The authorities of [section 4605 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim) shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
+  (C) *Further export restrictions* — The authorities of section 4605 1 of title 50 shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
 
   (D) *Import restrictions* — Restrictions shall be imposed on the importation into the United States of articles (which may include petroleum or any petroleum product) that are the growth, product, or manufacture of that country.
 
@@ -212,7 +212,7 @@ Functions of President under this section delegated to Secretary of State, with 
 
   (A) A sanction described in paragraph (4) or (5) of subsection (a) or in any of subparagraphs (A) through (D) of subsection (b)(2) shall not apply to any activity pursuant to any contract or international agreement entered into before the date of the presidential determination under [section 5604(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5604/a/1&num=0&edition=prelim) unless the President determines, on a case-by-case basis, that to apply such sanction to that activity would prevent the performance of a contract or agreement that would have the effect of assisting a country in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals.
 
-  (B) The same restrictions of subsection (p) of [section 4605 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim), as that subsection is so redesignated by [section 304(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section304/b&num=0&edition=prelim), which are applicable to exports prohibited under [section 4605 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim), shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of [section 4605(p) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/p&num=0&edition=prelim).
+  (B) The same restrictions of subsection (p) of section 4605 1 of title 50, as that subsection is so redesignated by [section 304(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section304/b&num=0&edition=prelim), which are applicable to exports prohibited under section 4605 1 of title 50, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of section 4605(p) 1 of title 50.
 
 (2) **Sanctions applied to existing contracts** — The sanctions described in paragraphs (1), (2), and (3) of subsection (a) shall apply to contracts, agreements, and licenses without regard to the date the contract or agreement was entered into or the license was issued (as the case may be), except that such sanctions shall not apply to any contract or agreement entered into or license issued before the date of the presidential determination under [section 5604(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5604/a/1&num=0&edition=prelim) if the President determines that the application of such sanction would be detrimental to the national security interests of the United States.
 
@@ -223,7 +223,9 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87
 
 The Arms Export Control Act, referred to in subsec. (a)(2)(A), (3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-[Section 304(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section304/b&num=0&edition=prelim), referred to in subsec. (e)(1)(B), is section 304(b) of Pub. L. 102–182, title III, Dec. 4, 1991, 105 Stat. 1246, which amended [section 4605 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim), War and National Defense.
+Sections 4604(c)(1) and 4605 of title 50, referred to in subsecs. (a)(5), (b)(2)(C), and (e)(1)(B), were repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+[Section 304(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section304/b&num=0&edition=prelim), referred to in subsec. (e)(1)(B), is section 304(b) of Pub. L. 102–182, title III, Dec. 4, 1991, 105 Stat. 1246, which amended former [section 4605 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim), War and National Defense.
 
 #### Codification
 In subsec. (b)(2)(F)(iv), “[section 40102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim)” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.

@@ -268,7 +268,7 @@ To carry out this chapter, there are authorized to be appropriated $4,400,000 fo
 1978—Pub. L. 95–381 increased authorization from $1,000,000 to $4,000,000, and struck out provisions authorizing appropriation of $1,000,000 for fiscal year ending Sept. 30, 1978.
 
 #### Effective Date of 1979 Amendment
-Pub. L. 96–72, § 23(b), Sept. 29, 1979, 93 Stat. 536, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1979.”
+Pub. L. 96–72, § 23(b), Sept. 29, 1979, 93 Stat. 536,which provided that the amendment made to this section by Pub. L. 96–72 would take effect on Oct. 1, 1979, was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Effective Date of 1978 Amendment
 Pub. L. 95–381, § 4, Sept. 22, 1978, 92 Stat. 726, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on October 1, 1978.”

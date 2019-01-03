@@ -64,6 +64,9 @@ The date of the enactment of the Food, Conservation, and Energy Act of 2008, ref
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
 
 <a id="section-2102"></a>
 ## § 2102. Jurisdiction
@@ -74,6 +77,9 @@ Legislation in the Senate of the United States amending section 2497 or 2497a of
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-2111"></a>
@@ -1596,7 +1602,7 @@ Amendment by Pub. L. 109–280 applicable with respect to goods entered, or with
 Pub. L. 108–429, title II, § 2004(i)(3), Dec. 3, 2004, 118 Stat. 2595, provided that: “The amendments made by this subsection [amending this section] shall take effect on February 1, 2006.”
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 130 of Pub. L. 103–465, set out as an Effective Date note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as an Effective Date note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under [section 2581 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2581).
@@ -1643,9 +1649,11 @@ Sec. 5. General. The Committee shall function for such period as may be necessar
 William J. Clinton.
 
 #### Extension of Term of Trade and Environment Policy Advisory Committee
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Trade and Environment Policy Advisory Committee were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -1965,7 +1973,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 Amendment by Pub. L. 104–65 applicable with respect to an individual appointed as United States Trade Representative or as a Deputy United States Trade Representative on or after Dec. 19, 1995, see section 21(c) of Pub. L. 104–65, set out as a note under [section 207 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 621(b) of Pub. L. 103–465, set out as a note under [section 1677k of this title](./chapter-004-tariff-act-of-1930.md#section-1677k).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 621(b) of Pub. L. 103–465, set out as a note under [section 1677k of this title](./chapter-004-tariff-act-of-1930.md#section-1677k).
 
 #### Chief Negotiator for Intellectual Property Enforcement
 Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2872, provided in part: “That there is established a position of Chief Negotiator for Intellectual Property Enforcement.”
@@ -2043,7 +2051,7 @@ The Trade Representative and the Secretary shall serve, ex officio and without v
 #### Sec. 4. Overseas Private Investment Corporation
 (a) The Trade Representative shall serve, ex officio, as an additional voting member of the Board of Directors of the Overseas Private Investment Corporation. The Trade Representative shall be the Vice Chair of such Board.
 
-(b) There shall be an additional member of the Board of Directors of the Overseas Private Investment Corporation who shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and who shall not be an official or employee of the Government of the United States. Such Director shall be appointed for a term of no more than three years.
+(b) There shall be an additional member of the Board of Directors of the Overseas Private Investment Corporation [now the United States International Development Finance Corporation] who shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and who shall not be an official or employee of the Government of the United States. Such Director shall be appointed for a term of no more than three years.
 
 #### Sec. 5. Transfer of Functions
 (a)(1) There are transferred to the Secretary all functions of the Secretary of the Treasury, the General Counsel of the Department of the Treasury, or the Department of the Treasury pursuant to the following:
@@ -2138,7 +2146,7 @@ In addition to his role with regard to GATT matters, the Trade Representative wi
 
 To ensure that all trade negotiations are handled consistently and that our negotiating leverage is employed to the maximum, the Trade Representative will manage the negotiation of particular issues. Where appropriate, the Trade Representative may delegate responsibility for negotiations to other agencies with expertise on the issues under consideration. He will coordinate the operational aspects of negotiations through a Trade Negotiating Committee, chaired by the Trade Representative and including the Departments of Commerce, State, Treasury, Agriculture and Labor.
 
-The Trade Representative will be concerned not only with ongoing negotiations and coordination of specific, immediate issues, but also—very importantly—with the development of long-term United States trade strategies and policies. He will oversee implementation of the MTN agreements, and will advise the President on the effects of other Government policies (e.g., antitrust, taxation) on U.S. trade. In order to participate more fully in oversight of international investment and export financing activities, the Trade Representative will become a member of the National Advisory Council on International Monetary and Financial Policies and the Boards of the Export-Import Bank and the Overseas Private Investment Corporation.
+The Trade Representative will be concerned not only with ongoing negotiations and coordination of specific, immediate issues, but also—very importantly—with the development of long-term United States trade strategies and policies. He will oversee implementation of the MTN agreements, and will advise the President on the effects of other Government policies (e.g., antitrust, taxation) on U.S. trade. In order to participate more fully in oversight of international investment and export financing activities, the Trade Representative will become a member of the National Advisory Council on International Monetary and Financial Policies and the Boards of the Export-Import Bank and the Overseas Private Investment Corporation [now the United States International Development Finance Corporation].
 
 In performing these functions, the Trade Representative will act as the principal trade spokesman of the President. To assure that our trade policies take into account the broadest range of perspectives, the Trade Representative will consult with the Trade Policy Committee, whose mandate and membership will be expanded. The Trade Representative will, as appropriate, invite agencies such as the Export-Import Bank and the Overseas Private Investment Corporation to participate in TPC meetings in addition to the permanent TPC members. When different departmental views on trade matters exist within the TPC as will be the case from time to time in this complex policy area, I will expect the Trade Representative to resolve policy disagreements in his best judgment, subject to appeal to the President.
 
@@ -2187,7 +2195,7 @@ To succeed in global competition, we must have a better understanding of the pro
 
 Commerce will also expand its traditional trade policy focus on industrial issues to deal with the international trade and investment problems of our growing services sector. Under the proposal, there will be comprehensive service industry representation in our industry advisory process, as well as a continuing effort to bring services under international discipline. I expect the Commerce Department to play a major role in developing new service sector initiatives for consideration within the Government.
 
-After an investigation lasting over a year, I have found that this reorganization is necessary to carry out the policy set forth in [section 901(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901/a&num=0&edition=prelim) of the United States Code. As described above, this reorganization will increase significantly our ability to implement the MTN agreements efficiently and effectively and will improve greatly the services of the government with regard to export development. These improvements will be achieved with no increase in personnel or expenditures, except for an annual expense of about $300,000 for the salaries and clerical support of the three additional senior Commerce Department officials and a non-recurring expense of approximately $600,000 in connection with the transfers of functions provided in the plan. I find that the reorganization made by this plan makes necessary the provisions for the appointment and pay of a Deputy Secretary, an Under Secretary for International Trade, and two additional Assistant Secretaries of the Department of Commerce, and additional members of the Boards of Directors of the Export-Import Bank and the Overseas Private Investment Corporation.
+After an investigation lasting over a year, I have found that this reorganization is necessary to carry out the policy set forth in [section 901(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901/a&num=0&edition=prelim) of the United States Code. As described above, this reorganization will increase significantly our ability to implement the MTN agreements efficiently and effectively and will improve greatly the services of the government with regard to export development. These improvements will be achieved with no increase in personnel or expenditures, except for an annual expense of about $300,000 for the salaries and clerical support of the three additional senior Commerce Department officials and a non-recurring expense of approximately $600,000 in connection with the transfers of functions provided in the plan. I find that the reorganization made by this plan makes necessary the provisions for the appointment and pay of a Deputy Secretary, an Under Secretary for International Trade, and two additional Assistant Secretaries of the Department of Commerce, and additional members of the Boards of Directors of the Export-Import Bank and the Overseas Private Investment Corporation [now the United States International Development Finance Corporation].
 
 It is indeed appropriate that this proposal follows so soon after the overwhelming approval by the Congress of the Trade Agreements Act of 1979 [[19 U.S.C. 2501](./chapter-013-trade-agreements-act-of-1979.md#section-2501) et seq.], for it will sharpen and unify trade policy direction, improve the efficiency of trade law enforcement, and enable us to negotiate abroad from a position of strength. The extensive discussions between Administration officials and the Congress on this plan have been a model of the kind of cooperation that can exist between the two branches. I look forward to our further cooperation in successfully implementing both this reorganization proposal and the MTN agreements.
 
@@ -2489,7 +2497,7 @@ Subsec. (e)(2). Pub. L. 101–382, § 132(b)(2)(D), (E), substituted “revenue 
 1988—Subsec. (b)(1). Pub. L. 100–418 inserted reference to [section 2903(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2903/a/1&num=0&edition=prelim).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§ 1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§ 1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-2194"></a>
@@ -3040,7 +3048,7 @@ Subsec. (a)(2)(E). Pub. L. 100–418, § 1304(a)(6)–(8), added subpar. (E).
 Subsec. (b)(1). Pub. L. 100–418, § 1304(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “On or before the date which is one year after October 30, 1984, and each year thereafter, the Trade Representative shall submit the analysis and estimate under subsection (a) of this section to the Committee on Finance of the Senate and to the Committee on Ways and Means of the House of Representatives.”
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 316 of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 316 of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
 
 #### Severability
 Pub. L. 105–277, div. C, title XII, § 1206, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “If any provision of this title [amending this section and enacting provisions set out under this section], or any amendment made by this title, or the application of that provision to any person or circumstance, is held by a court of competent jurisdiction to violate any provision of the Constitution of the United States, then the other provisions of that title, and the application of that provision to other persons and circumstances, shall not be affected.”
@@ -3217,7 +3225,7 @@ Subsec. (g). Pub. L. 103–465, § 313(3), added subsec. (g).
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section1&num=0&edition=prelim), Patents.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 316 of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 316 of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 516(a) of Pub. L. 103–182, set out as an Effective Date note under [section 3461 of this title](./chapter-021-north-american-free-trade.md#section-3461).
@@ -3751,7 +3759,7 @@ Amendment by Pub. L. 109–169 effective on the date on which the United States-
 Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under [section 4001 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4001).
 
 #### Effective and Termination Dates of 2004 Amendments
-Amendment by Pub. L. 108–302 effective on the date on which the United States-Morocco Free Trade Agreement enters into force (July 1, 2005) and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 108–302, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
+Amendment by Pub. L. 108–302 effective on the date on which the United States-Morocco Free Trade Agreement enters into force (Jan. 1, 2006) and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 108–302, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
 Amendment by Pub. L. 108–286 effective on the date on which the United States-Australia Free Trade Agreement enters into force (Jan. 1, 2005) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 108–286, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
@@ -4008,7 +4016,7 @@ Subsec. (h)(3). Pub. L. 96–39, § 1106(d)(7)(A), (B), inserted reference to su
 Subsec. (h)(4). Pub. L. 96–39, § 1106(d)(7)(A), inserted reference to subsec. (i)(3) of this section.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 304(a) of Pub. L. 103–465, set out as a note under [section 2252 of this title](./chapter-012-trade-act-of-1974.md#section-2252).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 304(a) of Pub. L. 103–465, set out as a note under [section 2252 of this title](./chapter-012-trade-act-of-1974.md#section-2252).
 
 #### Effective Date of 1988 Amendments
 Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
@@ -4099,7 +4107,7 @@ Subsecs. (c) to (e). Pub. L. 103–465, § 302(d), added subsec. (c) and redesig
 1988—Subsecs. (c) to (e). Pub. L. 100–647 redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
 #### Effective Date of 1994 Amendment
-Amendment by section 129(a)(7) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 130 of Pub. L. 103–465, set out as an Effective Date note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
+Amendment by section 129(a)(7) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as an Effective Date note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
 Amendment by section 302(c), (d) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 304(a) of Pub. L. 103–465, set out as a note under [section 2252 of this title](./chapter-012-trade-act-of-1974.md#section-2252).
 
@@ -9329,9 +9337,9 @@ Subsecs. (c), (d). Pub. L. 98–573, § 304(c), added subsec. (c) and redesignat
 Subsec. (e). Pub. L. 98–573, § 304(c), (f), redesignated subsec. (d) as (e), inserted “For purposes of this section—” before par. (1), in par. (1) substituted provisions defining “commerce” as including, but not limited to services (including transfers of information) associated with international trade, whether or not such services are related to specific goods, and foreign direct investment by United States persons with implications for trade in goods or services for provision defining “commerce” as including, but not limited to, services associated with international trade, whether or not such services are related to specific products, and added pars. (3) to (6).
 
 #### Effective Date of 1994 Amendment
-Amendment by section 314(a)–(c) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 316(a) of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
+Amendment by section 314(a)–(c) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 316(a) of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
 
-Amendment by section 621(a)(9) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 621(b) of Pub. L. 103–465, set out as a note under [section 1677k of this title](./chapter-004-tariff-act-of-1930.md#section-1677k).
+Amendment by section 621(a)(9) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 621(b) of Pub. L. 103–465, set out as a note under [section 1677k of this title](./chapter-004-tariff-act-of-1930.md#section-1677k).
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–418, title I, § 1301(c), Aug. 23, 1988, 102 Stat. 1176, provided that: “The amendments made by this section [enacting sections 2417 to 2419 of this title and amending this section and sections 2412 to 2416 of this title] shall apply to— “(1) petitions filed, and investigations initiated, under section 302 of the Trade Act of 1974 [[19 U.S.C. 2412](./chapter-012-trade-act-of-1974.md#section-2412)] on or after the date of the enactment of this Act [Aug. 23, 1988]; and “(2) petitions filed, and investigations initiated, before the date of enactment of this Act, if by that date no decision had been made under section 304 [[19 U.S.C. 2414](./chapter-012-trade-act-of-1974.md#section-2414)] regarding the petition or investigation.”
@@ -9577,7 +9585,7 @@ Subsec. (a)(4). Pub. L. 103–465, § 314(d)(3), struck out “(other than the a
 Subsec. (b)(2). Pub. L. 98–573, § 306(c)(2)(C)(ii), struck out “private sector” after “appropriate”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 316(a) of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 316(a) of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under [section 2412 of this title](./chapter-012-trade-act-of-1974.md#section-2412) on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under this section regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under [section 2411 of this title](./chapter-012-trade-act-of-1974.md#section-2411).
@@ -9712,7 +9720,7 @@ Subsec. (d). Pub. L. 114–125, § 602(a)(1), (b)(3), redesignated subsec. (c) a
 1988—Pub. L. 100–418 amended section generally, substituting provisions relating to monitoring of foreign compliance for provisions relating to administration. See [section 2419 of this title](./chapter-012-trade-act-of-1974.md#section-2419).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 316(a) of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 316(a) of Pub. L. 103–465, set out as an Effective Date note under [section 3581 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3581).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under [section 2412 of this title](./chapter-012-trade-act-of-1974.md#section-2412) on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under [section 2414 of this title](./chapter-012-trade-act-of-1974.md#section-2414) regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under [section 2411 of this title](./chapter-012-trade-act-of-1974.md#section-2411).
@@ -10870,7 +10878,7 @@ Pub. L. 104–188, title I, § 1953, Aug. 20, 1996, 110 Stat. 1926, provided tha
 
   (E) Such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute.
 
-  (F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) or such country has not taken steps to support the efforts of the United States to combat terrorism.
+  (F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 4605(j)(1)(A) 11 See References in Text note below. of title 50 or such country has not taken steps to support the efforts of the United States to combat terrorism.
 
   (G) Such country has not taken or is not taking steps to afford internationally recognized worker rights to workers in the country (including any designated zone in that country).
 
@@ -10919,6 +10927,9 @@ Pub. L. 104–188, title I, § 1953, Aug. 20, 1996, 110 Stat. 1926, provided tha
 
 ### Statutory Notes
 
+#### References in Text
+[Section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim), referred to in subsec. (b)(2)(F), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim), see [section 4813(c)(1)(A)(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A/i&num=0&edition=prelim), as enacted by Pub. L. 115–232.
+
 #### Prior Provisions
 A prior section 2462, Pub. L. 93–618, title V, § 502(a)–(c), (e), Jan. 3, 1975, 88 Stat. 2066–2069; Pub. L. 94–455, title XVIII, § 1802, Oct. 4, 1976, 90 Stat. 1763; Pub. L. 96–39, title XI, §§ 1106(g)(1), (2), 1111(a)(1), (2), July 26, 1979, 93 Stat. 312, 313, 315; Pub. L. 98–573, title V, § 503, Oct. 30, 1984, 98 Stat. 3019; Pub. L. 99–47, § 8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, § 1887(a)(5), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 99–570, title IX, § 9002(a), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 101–179, title III, § 301, Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–382, title I, § 131, Aug. 20, 1990, 104 Stat. 643; Pub. L. 103–66, title XIII, § 13802(a), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–149, § 4(b)(9), Nov. 23, 1993, 107 Stat. 1506, related to beneficiary developing countries, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
@@ -10933,6 +10944,9 @@ Subsec. (b)(2)(H). Pub. L. 106–200, § 412(a)(1), added subpar. (H).
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–295, § 35(b), Oct. 11, 1996, 110 Stat. 3538, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1996.”
+
+#### Effective Date
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under [section 2461 of this title](./chapter-012-trade-act-of-1974.md#section-2461).
 
 #### Delegation of Functions
 Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers of the President granted in subsec. (f)(2) of this section to notify a country of the President’s intention to terminate that country’s status as a beneficiary developing country for purposes of the Generalized System of Preferences were delegated to the United States Trade Representative.
@@ -11020,7 +11034,7 @@ Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers o
       (I) a quantity of an eligible article having an appraised value in excess of the applicable amount for the calendar year, or
 
       (II) a quantity of an eligible article equal to or exceeding 50 percent of the appraised value of the total imports of that article into the United States during any calendar year,
-    the President shall, not later than July 1 of the next calendar year, terminate the duty-free treatment for that article from that beneficiary developing country.
+    the President shall, not later than November 1 of the next calendar year, terminate the duty-free treatment for that article from that beneficiary developing country.
 
     (ii) *Annual adjustment of applicable amount* — For purposes of applying clause (i), the applicable amount is—
 
@@ -11034,7 +11048,7 @@ Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers o
 
   (D) *Least-developed beneficiary developing countries and beneficiary sub-Saharan African countries* — Subparagraph (A) shall not apply to any least-developed beneficiary developing country or any beneficiary sub-Saharan African country.
 
-  (E) *Articles not produced in the United States excluded* — Subparagraph (A)(i)(II) shall not apply with respect to any eligible article if a like or directly competitive article was not produced in the United States on January 1, 1995.
+  (E) *Articles not produced in the United States excluded* — Subparagraph (A)(i)(II) shall not apply with respect to any eligible article if a like or directly competitive article was not produced in the United States in any of the preceding 3 calendar years.
 
   (F) *De minimis waivers*
 
@@ -11048,7 +11062,7 @@ Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers o
 
 **(d) Waiver of competitive need limitation**
 
-(1) **In general** — The President may waive the application of subsection (c)(2) with respect to any eligible article of any beneficiary developing country if, before July 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2)(A) was made with respect to such eligible article, the President—
+(1) **In general** — The President may waive the application of subsection (c)(2) with respect to any eligible article of any beneficiary developing country if, before November 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2)(A) was made with respect to such eligible article, the President—
 
   (A) receives the advice of the International Trade Commission under [section 1332 of this title](./chapter-004-tariff-act-of-1930.md#section-1332) on whether any industry in the United States is likely to be adversely affected by such waiver,
 
@@ -11062,7 +11076,7 @@ Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers o
 
   (B) the extent to which such country provides adequate and effective protection of intellectual property rights.
 
-(3) **Other bases for waiver** — The President may waive the application of subsection (c)(2) if, before July 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2) was made with respect to a beneficiary developing country, the President determines that—
+(3) **Other bases for waiver** — The President may waive the application of subsection (c)(2) if, before November 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2) was made with respect to a beneficiary developing country, the President determines that—
 
   (A) there has been a historical preferential trade relationship between the United States and such country,
 
@@ -11083,7 +11097,7 @@ Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers o
 
       (II) had exported (either directly or indirectly) to the United States a quantity of articles that was duty-free under this subchapter that had an aggregate appraised value of more than 10 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during that year.
 
-    (ii) Not later than July 1 of each year, the President should revoke any waiver that has then been in effect with respect to an article for 5 years or more if the beneficiary developing country has exported to the United States (directly or indirectly) during the preceding calendar year a quantity of the article—
+    (ii) Not later than November 1 of each year, the President should revoke any waiver that has then been in effect with respect to an article for 5 years or more if the beneficiary developing country has exported to the United States (directly or indirectly) during the preceding calendar year a quantity of the article—
 
       (I) having an appraised value in excess of 1.5 times the applicable amount set forth in subsection (c)(2)(A)(ii) for that calendar year; or
 
@@ -11112,6 +11126,12 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 A prior section 2463, Pub. L. 93–618, title V, § 503, Jan. 3, 1975, 88 Stat. 2069; Pub. L. 96–39, title XI, § 1111(a)(3), July 26, 1979, 93 Stat. 315; Pub. L. 98–573, title V, § 504, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47, § 8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, § 1889(7), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–418, title I, § 1903, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–382, title II, § 226, Aug. 20, 1990, 104 Stat. 660; Pub. L. 103–465, title IV, § 404(e)(3), Dec. 8, 1994, 108 Stat. 4961, related to eligible articles, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
+2018—Subsec. (c)(2)(A)(i). Pub. L. 115–141, § 502(1)(A), substituted “November 1” for “July 1” in concluding provisions.
+
+Subsec. (c)(2)(E). Pub. L. 115–141, § 502(1)(B), substituted “in any of the preceding 3 calendar years” for “on January 1, 1995”.
+
+Subsec. (d)(1), (3), (4)(B)(ii). Pub. L. 115–141, § 502(2), substituted “November 1” for “July 1”.
+
 2015—Subsec. (b)(1)(A). Pub. L. 114–27, § 204(1), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
 
 Subsec. (b)(1)(E). Pub. L. 114–27, § 204(2), substituted “Except as provided in paragraph (5), footwear” for “Footwear”.
@@ -11133,6 +11153,9 @@ Subsec. (b)(4). Pub. L. 108–429, § 1555(a), added par. (4).
 #### Effective Date of 2004 Amendment
 Pub. L. 108–429, title I, § 1555(c), Dec. 3, 2004, 118 Stat. 2579, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to any article entered, or withdrawn from warehouse for consumption, on or after the date on which the President makes a designation with respect to the article under section 503(b)(4) of the Trade Act of 1974 [subsec. (b)(4) of this section], as added by subsection (a).”
 
+#### Effective Date
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under [section 2461 of this title](./chapter-012-trade-act-of-1974.md#section-2461).
+
 #### Application of Competitive Need Limitation and Waiver Under Generalized System of Preferences With Respect to Articles of Beneficiary Developing Countries Exported to the United States During Calendar Year 2014
 Pub. L. 114–27, title II, § 203, June 29, 2015, 129 Stat. 372, provided that: “(a) In General.—For purposes of applying and administering subsections (c)(2) and (d) of section 503 of the Trade Act of 1974 ([19 U.S.C. 2463](./chapter-012-trade-act-of-1974.md#section-2463)) with respect to an article described in subsection (b) of this section, subsections (c)(2) and (d) of section 503 of such Act shall be applied and administered by substituting ‘October 1’ for ‘July 1’ each place such date appears. “(b) Article Described.—An article described in this subsection is an article of a beneficiary developing country that is designated by the President as an eligible article under subsection (a) of section 503 of the Trade Act of 1974 ([19 U.S.C. 2463](./chapter-012-trade-act-of-1974.md#section-2463)) and with respect to which a determination described in subsection (c)(2)(A) of such section was made with respect to exports (directly or indirectly) to the United States of such eligible article during calendar year 2014 by the beneficiary developing country.”
 
@@ -11150,11 +11173,14 @@ A prior section 2464, Pub. L. 93–618, title V, § 504, Jan. 3, 1975, 88 Stat. 
 #### Amendments
 2000—Pub. L. 106–200 inserted before period at end “, including the findings of the Secretary of Labor with respect to the beneficiary country’s implementation of its international commitments to eliminate the worst forms of child labor”.
 
+#### Effective Date
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under [section 2461 of this title](./chapter-012-trade-act-of-1974.md#section-2461).
+
 
 <a id="section-2466a"></a>
 ## § 2466a. Date of termination
 
-No duty-free treatment provided under this subchapter shall remain in effect after December 31, 2017.
+No duty-free treatment provided under this subchapter shall remain in effect after December 31, 2020.
 
 ### Statutory Notes
 
@@ -11162,6 +11188,8 @@ No duty-free treatment provided under this subchapter shall remain in effect aft
 A prior section 2465, Pub. L. 93–618, title V, § 505, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 98–573, title V, § 506(a), Oct. 30, 1984, 98 Stat. 3023; Pub. L. 103–66, title XIII, § 13802(b)(1), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–465, title VI, § 601(a), Dec. 8, 1994, 108 Stat. 4990, related to termination of duty-free treatment and reports, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
+2018—Pub. L. 115–141 substituted “December 31, 2020” for “December 31, 2017”.
+
 2015—Pub. L. 114–27 substituted “December 31, 2017” for “July 31, 2013”.
 
 2011—Pub. L. 112–40 substituted “July 31, 2013” for “December 31, 2010”.
@@ -11180,6 +11208,9 @@ A prior section 2465, Pub. L. 93–618, title V, § 505, Jan. 3, 1975, 88 Stat. 
 
 1997—Pub. L. 105–34 substituted “June 30, 1998” for “May 31, 1997”.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–141, div. M, title V, § 501(b), Mar. 23, 2018, 132 Stat. 1050, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall apply to articles entered on or after the 30th day after the date of the enactment of this Act [Mar. 23, 2018]. “(2) Retroactive application for certain liquidations and reliquidations.—“(A) In general.—Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514](./chapter-004-tariff-act-of-1930.md#section-1514)) or any other provision of law and subject to subparagraph (B), any entry of a covered article to which duty-free treatment or other preferential treatment under title V of the Trade Act of 1974 [Pub. L. 93–618] ([19 U.S.C. 2461](./chapter-012-trade-act-of-1974.md#section-2461) et seq.) would have applied if the entry had been made on December 31, 2017, that was made—“(i) after December 31, 2017, and “(ii) before the effective date specified in paragraph (1), shall be liquidated or reliquidated as though such entry occurred on the effective date specified in paragraph (1). “(B) Requests.—A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act that contains sufficient information to enable U.S. Customs and Border Protection—“(i) to locate the entry; or “(ii) to reconstruct the entry if it cannot be located. “(C) Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of a covered article under subparagraph (A) shall be paid, without interest, not later than 90 days after the date of the liquidation or reliquidation (as the case may be). “(3) Definitions.—In this subsection:“(A) Covered article.—The term ‘covered article’ means an article from a country that is a beneficiary developing country under title V of the Trade Act of 1974 [Pub. L. 93–618] ([19 U.S.C. 2461](./chapter-012-trade-act-of-1974.md#section-2461) et seq.) as of the effective date specified in paragraph (1). “(B) Enter; entry.—The terms ‘enter’ and ‘entry’ include a withdrawal from warehouse for consumption.”
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–27, title II, § 201(b), June 29, 2015, 129 Stat. 371, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall apply to articles entered on or after the 30th day after the date of the enactment of this Act [June 29, 2015]. “(2) Retroactive application for certain liquidations and reliquidations.—“(A) In general.—Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514](./chapter-004-tariff-act-of-1930.md#section-1514)) or any other provision of law and subject to subparagraph (B), any entry of a covered article to which duty-free treatment or other preferential treatment under title V of the Trade Act of 1974 ([19 U.S.C. 2461](./chapter-012-trade-act-of-1974.md#section-2461) et seq.) would have applied if the entry had been made on July 31, 2013, that was made—“(i) after July 31, 2013; and “(ii) before the effective date specified in paragraph (1), shall be liquidated or reliquidated as though such entry occurred on the effective date specified in paragraph (1). “(B) Requests.—A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act that contains sufficient information to enable U.S. Customs and Border Protection—“(i) to locate the entry; or “(ii) to reconstruct the entry if it cannot be located. “(C) Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of a covered article under subparagraph (A) shall be paid, without interest, not later than 90 days after the date of the liquidation or reliquidation (as the case may be). “(3) Definitions.—In this subsection:“(A) Covered article.—The term ‘covered article’ means an article from a country that is a beneficiary developing country under title V of the Trade Act of 1974 ([19 U.S.C. 2461](./chapter-012-trade-act-of-1974.md#section-2461) et seq.) as of the effective date specified in paragraph (1). “(B) Enter; entry.—The terms ‘enter’ and ‘entry’ include a withdrawal from warehouse for consumption.”
 
@@ -11191,6 +11222,9 @@ Pub. L. 106–170, title V, § 508(b), Dec. 17, 1999, 113 Stat. 1923, provided t
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–277, div. J, title I, § 1011(b), Oct. 21, 1998, 112 Stat. 2681–900, provided that: “(1) In general.—The amendments made by this section [amending this section] apply to articles entered on or after the date of the enactment of this Act [Oct. 21, 1998]. “(2) Retroactive application for certain liquidations and reliquidations.—“(A) General rule.—Notwithstanding section 514 of the Tariff Act of 1930 [[19 U.S.C. 1514](./chapter-004-tariff-act-of-1930.md#section-1514)] or any other provision of law, and subject to paragraph (3), any entry—“(i) of an article to which duty-free treatment under title V of the Trade Act of 1974 [[19 U.S.C. 2461](./chapter-012-trade-act-of-1974.md#section-2461) et seq.] would have applied if such entry had been made on July 1, 1998, and such title had been in effect on July 1, 1998, and “(ii) that was made—“(I) after June 30, 1998, and “(II) before the date of enactment of this Act, shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry. “(B) Entry.—As used in this paragraph, the term ‘entry’ includes a withdrawal from warehouse for consumption. “(3) Requests.—Liquidation or reliquidation may be made under paragraph (2) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of enactment of this Act, that contains sufficient information to enable the Customs Service—“(A) to locate the entry; or “(B) to reconstruct the entry if it cannot be located.”
+
+#### Effective Date
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under [section 2461 of this title](./chapter-012-trade-act-of-1974.md#section-2461).
 
 #### Retroactive Application for Certain Liquidations and Reliquidations
 Pub. L. 107–210, div. D, title XLI, § 4101(b), Aug. 6, 2002, 116 Stat. 1040, as amended by Pub. L. 108–429, title II, § 2004(a)(20), Dec. 3, 2004, 118 Stat. 2591, provided that: “(1) In general.—Notwithstanding section 514 of the Tariff Act of 1930 [[19 U.S.C. 1514](./chapter-004-tariff-act-of-1930.md#section-1514)] or any other provision of law, and subject to paragraph (2), the entry of any article—“(A) to which duty-free treatment under title V of the Trade Act of 1974 [[19 U.S.C. 2461](./chapter-012-trade-act-of-1974.md#section-2461) et seq.] would have applied if the entry had been made on September 30, 2001, “(B) that was made after September 30, 2001, and before the date of the enactment of this Act [Aug. 6, 2002], and “(C) to which duty-free treatment under title V of that Act did not apply, shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry. “(2) Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—“(A) to locate the entry; or “(B) to reconstruct the entry if it cannot be located. “(3) Definition.—As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.”
@@ -11213,6 +11247,9 @@ The appropriate agencies of the United States shall assist beneficiary developin
 
 #### Prior Provisions
 A prior section 2466, Pub. L. 93–618, title V, § 506, as added Pub. L. 98–573, title V, § 507(a), Oct. 30, 1984, 98 Stat. 3023, related to agricultural exports of beneficiary developing countries, prior to the general amendment of this subchapter by Pub. L. 104–188.
+
+#### Effective Date
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under [section 2461 of this title](./chapter-012-trade-act-of-1974.md#section-2461).
 
 
 <a id="section-2467"></a>
@@ -11411,6 +11448,9 @@ For purposes of this subchapter:
 2002—Par. (4)(D). Pub. L. 107–210 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “a minimum age for the employment of children; and”.
 
 2000—Par. (6). Pub. L. 106–200 added par. (6).
+
+#### Effective Date
+Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under [section 2461 of this title](./chapter-012-trade-act-of-1974.md#section-2461).
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -11910,7 +11950,7 @@ For purposes of this subchapter—
 
 (17) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
 
-(18) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in [section 2279(e) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim).
+(18) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 33 See References in Text note below. of title 7.
 
 (19) **State** — The term “State” means—
 
@@ -11986,7 +12026,7 @@ For purposes of this subchapter—
 
 (4) **Farm revenue**
 
-  (A) *In general* — For purposes of this subsection, the total farm revenue for a farm,33 So in original. The comma probably should not appear. shall equal the sum obtained by adding—
+  (A) *In general* — For purposes of this subsection, the total farm revenue for a farm,44 So in original. The comma probably should not appear. shall equal the sum obtained by adding—
 
     (i) the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
 
@@ -11994,11 +12034,11 @@ For purposes of this subchapter—
 
       (II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
-    (ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 44 See References in Text note below. of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8713&num=0&edition=prelim), 8753] or successor sections;
+    (ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 3 of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8713&num=0&edition=prelim), 8753] or successor sections;
 
-    (iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 4 of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8714](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8714&num=0&edition=prelim), 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 4 of that Act [[7 U.S.C. 8715](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8715&num=0&edition=prelim)];
+    (iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 3 of the Food, Conservation, and Energy Act of 2008 [[7 U.S.C. 8714](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8714&num=0&edition=prelim), 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 3 of that Act [[7 U.S.C. 8715](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8715&num=0&edition=prelim)];
 
-    (iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 4 or successor subtitles;
+    (iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 3 or successor subtitles;
 
     (v) the amount of payments for prevented planting on a farm;
 
@@ -12212,7 +12252,7 @@ For purposes of this subchapter—
 
     (ii) provide disaster assistance under this subsection at a level that the Secretary determines to be equitable and appropriate.
 
-  (C) *Waiver for 2008 calendar year* — In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year but does not meet the requirements of subparagraph (A), the Secretary shall waive subparagraph (A) if the eligible livestock producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under subparagraph (A) to the Secretary not later than 90 days after the date of enactment of this subchapter.4
+  (C) *Waiver for 2008 calendar year* — In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year but does not meet the requirements of subparagraph (A), the Secretary shall waive subparagraph (A) if the eligible livestock producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under subparagraph (A) to the Secretary not later than 90 days after the date of enactment of this subchapter.3
 
   (D) *Equitable relief*
 
@@ -12292,7 +12332,7 @@ For purposes of this subchapter—
 
 (4) **Waivers for certain crop years**
 
-  (A) *2008 crop year* — In the case of an eligible producer that suffered losses in an insurable commodity or noninsurable commodity during the 2008 crop year but does not meet the requirements of paragraph (1), the Secretary shall waive paragraph (1) if the eligible producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after the date of enactment of this subchapter.4
+  (A) *2008 crop year* — In the case of an eligible producer that suffered losses in an insurable commodity or noninsurable commodity during the 2008 crop year but does not meet the requirements of paragraph (1), the Secretary shall waive paragraph (1) if the eligible producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after the date of enactment of this subchapter.3
 
   (B) *2009 crop year* — In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
 
@@ -12352,7 +12392,7 @@ For purposes of this subchapter—
 
       (I)
 
-        (aa) except as provided in item (bb), lack access to a policy or plan of insurance under subtitle A 4; or
+        (aa) except as provided in item (bb), lack access to a policy or plan of insurance under subtitle A 3; or
 
         (bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practices used by producers of the same crop in other regions of the United States; and
 
@@ -12378,6 +12418,8 @@ For purposes of this subchapter—
 
 #### References in Text
 The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1501 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1501&num=0&edition=prelim) and Tables.
+
+[Section 2279(e) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim), referred to in subsec. (a)(18), was redesignated [section 2279(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim) by section 12301(b)(3) of Pub. L. 115–334.
 
 Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658.
 
@@ -12478,7 +12520,7 @@ Subsec. (g)(6). Pub. L. 110–398, § 2(b)(5), added par. (6).
 Subsec. (h)(5). Pub. L. 110–398, § 2(b)(7), added par. (5).
 
 #### Effective Date
-Enactment of this subchapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 #### Transition Provisions
 Pub. L. 110–234, title XV, § 15101(b), May 22, 2008, 122 Stat. 1499, and Pub. L. 110–246, § 4(a), title XV, § 15101(b), June 18, 2008, 122 Stat. 1664, 2261, provided that: “For purposes of the 2008 crop year, the Secretary [of Agriculture] shall carry out subsections (f)(4) and (h) of section 901 of the Trade Act of 1974 [[19 U.S.C. 2497(f)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2497/f/4&num=0&edition=prelim), (h)] (as added by subsection (a)) in accordance with the terms and conditions of sections 1001 through 1001D of the Food Security Act of 1985 (16 [probably should be 7] U.S.C. 1308 et seq.), as in effect on September 30, 2007.”

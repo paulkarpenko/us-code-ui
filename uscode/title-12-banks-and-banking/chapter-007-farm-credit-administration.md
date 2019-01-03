@@ -58,7 +58,7 @@ Section, acts June 16, 1933, ch. 98, title VI, § 64, 48 Stat. 267; Jan. 31, 193
 Section, acts June 16, 1938, ch. 98, title VI, § 66, 48 Stat. 269; Oct. 28, 1949, ch. 782, title XII, § 1201, 63 Stat. 972; Oct. 24, 1951, ch. 554, § 3, 65 Stat. 614; June 28, 1955, ch. 189, § 5, 69 Stat. 178, limited to $14,620 per annum compensation which could be paid directors, officers, or employees of banks for cooperatives, production credit corporations, and production credit associations.
 
 #### Effective Date of Repeal
-Act Aug. 11, 1955, ch. 785, title I, § 112, 69 Stat. 662, provided that: “This title [repealing this section and amending [section 1141f of this title](./chapter-7a-agricultural-marketing.md#section-1141f)] shall take effect on the first day of the month next following one hundred and twenty days after its enactment [Aug. 11, 1955].”
+Act Aug. 11, 1955, ch. 785, title I, § 112, 69 Stat. 662, provided that: “This title [repealing this section and amending [section 1141f of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1141f&num=0&edition=prelim)] shall take effect on the first day of the month next following one hundred and twenty days after its enactment [Aug. 11, 1955].”
 
 
 <a id="section-640-1"></a>
@@ -90,7 +90,7 @@ Section 636e, act Aug. 6, 1953, ch. 335, § 6, 67 Stat. 393, covered duties of F
 
 Section 636f, acts Aug. 6, 1953, ch. 335, § 7, 67 Stat. 393; Aug. 11, 1955, ch. 785, title I, § 110(c), 69 Stat. 662; Oct. 4, 1961, Pub. L. 87–353, § 3(n), 75 Stat. 774, provided for abolishment of certain offices and funds under program as it existed prior to 1953.
 
-Section 636g, acts Aug. 6, 1953, ch. 335, § 8, 67 Stat. 394; July 26, 1956, ch. 741, title I, § 107(a), 70 Stat. 666; Aug. 18, 1959, Pub. L. 86–168, title I, § 104(h), 73 Stat. 387, authorized delegation of powers to institutions in farm credit districts. See [section 2253 of this title](./chapter-023-farm-credit-system.md#section-2253).
+Section 636g, acts Aug. 6, 1953, ch. 335, § 8, 67 Stat. 394; July 26, 1956, ch. 741, title I, § 107(a), 70 Stat. 666; Aug. 18, 1959, Pub. L. 86–168, title I, § 104(h), 73 Stat. 387, authorized delegation of powers to institutions in farm credit districts.
 
 Section 636h, act Aug. 6, 1953, ch. 335, § 17(b), 67 Stat. 399, covered administrative expenditures of Farm Credit Administration. See [section 2249 of this title](./chapter-023-farm-credit-system.md#section-2249).
 

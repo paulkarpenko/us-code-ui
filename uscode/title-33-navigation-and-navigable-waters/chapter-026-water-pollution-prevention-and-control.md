@@ -2,7 +2,7 @@
 title: 33
 chapter: '26'
 heading: WATER POLLUTION PREVENTION AND CONTROL
-section_count: 111
+section_count: 113
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -44,6 +44,15 @@ source: >-
 1977—Subsec. (b). Pub. L. 95–217, § 26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
 
 Subsec. (g). Pub. L. 95–217, § 5(a), added subsec. (g).
+
+#### Short Title of 2019 Amendment
+Pub. L. 115–436, § 1, Jan. 14, 2019, 132 Stat. 5558, provided that: “This Act [enacting [section 1377a of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1377a) and [section 4370j of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370j&num=0&edition=prelim), The Public Health and Welfare, amending sections 1319, 1342, and 1362 of this title, enacting provisions set out as a note under [section 4370j of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370j&num=0&edition=prelim), and renumbering provisions set out as a note under this section] may be cited as the ‘Water Infrastructure Improvement Act’.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–282, title IX, § 901, Dec. 4, 2018, 132 Stat. 4322, provided that: “This title [enacting sections 4729 and 4730 of Title 16, Conservation, amending sections 1319, 1322, 1365, and 1369 of this title, sections 4712 and 4725 of Title 16, [section 42 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section42&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 11301 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section11301&num=0&edition=prelim), Shipping, repealing [section 4711 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim), enacting provisions set out as a note under [section 1322 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1322) and [section 4711 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim), and repealing provisions set out as a note under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342)] may be cited as the ‘Vessel Incidental Discharge Act of 2018’.”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–91, div. C, title XXXV, § 3508(a), Dec. 12, 2017, 131 Stat. 1915, provided that: “This section [amending sections 1321, 2701, and 2715 of this title] may be cited as the ‘Foreign Spill Protection Act of 2017’.”
 
 #### Short Title of 2008 Amendment
 Pub. L. 110–365, § 1, Oct. 8, 2008, 122 Stat. 4021, provided that: “This Act [amending sections 1268 and 1271a of this title] may be cited as the ‘Great Lakes Legacy Reauthorization Act of 2008’.”
@@ -93,7 +102,7 @@ Pub. L. 95–217, § 1, Dec. 27, 1977, 91 Stat. 1566, provided: “That this Act
 #### Short Title
 Pub. L. 92–500, § 1, Oct. 18, 1972, 86 Stat. 816, provided that: “That this Act [enacting this chapter, amending [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1972’.”
 
-Act June 30, 1948, ch. 758, title V, § 519, formerly § 518, as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 896, amended Pub. L. 95–217, § 2, Dec. 27, 1977, 91 Stat. 1566, renumbered § 519, Pub. L. 100–4, title V, § 506, Feb. 4, 1987, 101 Stat. 76, provided that: “This Act [this chapter] may be cited as the ‘Federal Water Pollution Control Act’ (commonly referred to as the Clean Water Act).”
+Act June 30, 1948, ch. 758, title V, § 520, formerly § 518, as added by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 896, amended Pub. L. 95–217, § 2, Dec. 27, 1977, 91 Stat. 1566, renumbered § 519, Pub. L. 100–4, title V, § 506, Feb. 4, 1987, 101 Stat. 76, renumbered § 520, Pub. L. 115–436, § 5(b)(1), Jan. 14, 2019, 132 Stat. 5561, provided that: “This Act [this chapter] may be cited as the ‘Federal Water Pollution Control Act’ (commonly referred to as the Clean Water Act).”
 
 #### Savings Provision
 Pub. L. 92–500, § 4, Oct. 18, 1972, 86 Stat. 896, provided that: “(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972] shall abate by reason of the taking effect of the amendment made by section 2 of this Act [which enacted this chapter]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee. “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972] shall continue in full force and effect after the date of enactment of this Act [Oct. 18, 1972] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act [this chapter]. “(c) The Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act [Oct. 18, 1972] shall remain applicable to all grants made from funds authorized for the fiscal year ending June 30, 1972, and prior fiscal years, including any increases in the monetary amount of any such grant which may be paid from authorizations for fiscal years beginning after June 30, 1972, except as specifically otherwise provided in section 202 of the Federal Water Pollution Control Act as amended by this Act [[section 1282 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1282)] and in subsection (c) of section 3 of this Act.”
@@ -245,9 +254,17 @@ Section was not enacted as part of the Federal Water Pollution Control Act which
 
 (5) establish and maintain research fellowships at public or nonprofit private educational institutions or research organizations;
 
-(6) collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having related responsibilities, basic data on chemical, physical, and biological effects of varying water quality and other information pertaining to pollution and the prevention, reduction, and elimination thereof; and
+(6) collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having related responsibilities, basic data on chemical, physical, and biological effects of varying water quality and other information pertaining to pollution and the prevention, reduction, and elimination thereof;
 
-(7) develop effective and practical processes, methods, and prototype devices for the prevention, reduction, and elimination of pollution.
+(7) develop effective and practical processes, methods, and prototype devices for the prevention, reduction, and elimination of pollution; and
+
+(8) make grants to nonprofit organizations—
+
+  (A) to provide technical assistance to rural, small, and tribal municipalities for the purpose of assisting, in consultation with the State in which the assistance is provided, such municipalities and tribal governments in the planning, developing, and acquisition of financing for eligible projects and activities described in [section 1383(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/c&num=0&edition=prelim);
+
+  (B) to provide technical assistance and training for rural, small, and tribal publicly owned treatment works and decentralized wastewater treatment systems to enable such treatment works and systems to protect water quality and achieve and maintain compliance with the requirements of this chapter; and
+
+  (C) to disseminate information to rural, small, and tribal municipalities and municipalities that meet the affordability criteria established under [section 1383(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/i/2&num=0&edition=prelim) by the State in which the municipality is located with respect to planning, design, construction, and operation of publicly owned treatment works and decentralized wastewater treatment systems.
 
 **(c) Research and studies on harmful effects of pollutants; cooperation with Secretary of Health and Human Services** In carrying out the provisions of subsection (a) of this section the Administrator shall conduct research on, and survey the results of other scientific studies on, the harmful effects on the health or welfare of persons caused by pollutants. In order to avoid duplication of effort, the Administrator shall, to the extent practicable, conduct such research in cooperation with and through the facilities of the Secretary of Health and Human Services.
 
@@ -340,7 +357,7 @@ In carrying out this subsection, the Administrator may enter into contracts with
 
 **(t) Thermal discharges** The Administrator shall, in cooperation with State and Federal agencies and public and private organizations, conduct continuing comprehensive studies of the effects and methods of control of thermal discharges. In evaluating alternative methods of control the studies shall consider (1) such data as are available on the latest available technology, economic feasibility including cost-effectiveness analysis, and (2) the total impact on the environment, considering not only water quality but also air quality, land use, and effective utilization and conservation of freshwater and other natural resources. Such studies shall consider methods of minimizing adverse effects and maximizing beneficial effects of thermal discharges. The results of these studies shall be reported by the Administrator as soon as practicable, but not later than 270 days after October 18, 1972, and shall be made available to the public and the States, and considered as they become available by the Administrator in carrying out [section 1326 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1326) and by the States in proposing thermal water quality standards.
 
-**(u) Authorization of appropriations** There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, not to exceed $14,039,000 for the fiscal year ending September 30, 1980, not to exceed $20,697,000 for the fiscal year ending September 30, 1981, not to exceed $22,770,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of this section, other than subsections (g)(1) and (2), (p), (r), and (t), except that such authorizations are not for any research, development, or demonstration activity pursuant to such provisions; (2) not to exceed $7,500,000 for fiscal years 1973, 1974, and 1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, $3,000,000 for fiscal year 1980, $3,000,000 for fiscal year 1981, $3,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(1); (3) not to exceed $2,500,000 for fiscal years 1973, 1974, and 1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, $1,500,000 for fiscal year 1980, $1,500,000 for fiscal year 1981, $1,500,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(2); (4) not to exceed $10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (p); (5) not to exceed $15,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (r); and (6) not to exceed $10,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (t).
+**(u) Authorization of appropriations** There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, not to exceed $14,039,000 for the fiscal year ending September 30, 1980, not to exceed $20,697,000 for the fiscal year ending September 30, 1981, not to exceed $22,770,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of this section, other than subsections (g)(1) and (2), (p), (r), and (t), except that such authorizations are not for any research, development, or demonstration activity pursuant to such provisions; (2) not to exceed $7,500,000 for fiscal years 1973, 1974, and 1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, $3,000,000 for fiscal year 1980, $3,000,000 for fiscal year 1981, $3,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(1); (3) not to exceed $2,500,000 for fiscal years 1973, 1974, and 1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, $1,500,000 for fiscal year 1980, $1,500,000 for fiscal year 1981, $1,500,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(2); (4) not to exceed $10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (p); (5) not to exceed $15,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (r); (6) not to exceed $10,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (t); and (7) not to exceed $25,000,000 for each of fiscal years 2019 through 2023 for carrying out subsections (b)(3), (b)(8), and (g).
 
 **(v) Studies concerning pathogen indicators in coastal recreation waters** Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), the Administrator shall initiate, and, not later than 3 years after October 10, 2000, shall complete, in cooperation with the heads of other Federal agencies, studies to provide additional information for use in developing—
 
@@ -352,12 +369,20 @@ In carrying out this subsection, the Administrator may enter into contracts with
 
 (4) guidance for State application of the criteria for pathogens and pathogen indicators to be published under [section 1314(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1314/a/9&num=0&edition=prelim) to account for the diversity of geographic and aquatic conditions.
 
+**(w) Nonprofit organization** For purposes of subsection (b)(8), the term “nonprofit organization” means a nonprofit organization that the Administrator determines, after consultation with the States regarding what small publicly owned treatments works in the State find to be most beneficial and effective, is qualified and experienced in providing on-site training and technical assistance to small publicly owned treatment works.
+
 ### Statutory Notes
 
 #### Codification
 In subsecs. (b)(4) and (g)(3)(A), “section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for references to sections 3648 and 3709 of the Revised Statutes on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2018—Subsec. (b)(8). Pub. L. 115–270, § 4103(a)(1), added par. (8).
+
+Subsec. (u)(7). Pub. L. 115–270, § 4103(b), added par. (7).
+
+Subsec. (w). Pub. L. 115–270, § 4103(a)(2), added subsec. (w).
+
 2002—Subsecs. (a)(5), (n)(3), (4), (o)(2). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(a), (d). See 1998 Amendment notes below.
 
 2000—Subsec. (v). Pub. L. 106–284 added subsec. (v).
@@ -1689,45 +1714,47 @@ Section was enacted as part of the Financial Services and General Government App
 
 **(b) Administration and staffing of Office** The Office shall be headed by a Director, who shall be detailed by the Administrator, following consultation with the Administrators of EPA regions I and II, from among the employees of the Agency who are in civil service. The Administrator shall delegate to the Director such authority and detail such additional staff as may be necessary to carry out the duties of the Director under this section.
 
-**(c) Duties of Office** The Office shall assist the Management Conference of the Long Island Sound Study in carrying out its goals. Specifically, the Office shall—
+**(c) Duties of Office** The Office shall assist the conference study in carrying out its goals. Specifically, the Office shall—
 
 (1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330), including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
 
 (2) conduct or commission studies deemed necessary for strengthened implementation of the Comprehensive Conservation and Management Plan including, but not limited to—
 
-  (A) population growth and the adequacy of wastewater treatment facilities,
+  (A) population growth and the adequacy of wastewater treatment facilities;
 
-  (B) the use of biological methods for nutrient removal in sewage treatment plants,
+  (B) the use of biological methods for nutrient removal in sewage treatment plants;
 
-  (C) contaminated sediments, and dredging activities,
+  (C) contaminated sediments, and dredging activities;
 
-  (D) nonpoint source pollution abatement and land use activities in the Long Island Sound watershed,
+  (D) nonpoint source pollution abatement and land use activities in the Long Island Sound watershed;
 
-  (E) wetland protection and restoration,
+  (E) wetland protection and restoration;
 
-  (F) atmospheric deposition of acidic and other pollutants into Long Island Sound,
+  (F) atmospheric deposition of acidic and other pollutants into Long Island Sound;
 
-  (G) water quality requirements to sustain fish, shellfish, and wildlife populations, and the use of indicator species to assess environmental quality,
+  (G) water quality requirements to sustain fish, shellfish, and wildlife populations, and the use of indicator species to assess environmental quality;
 
-  (H) State water quality programs, for their adequacy pursuant to implementation of the Comprehensive Conservation and Management Plan, and
+  (H) State water quality programs, for their adequacy pursuant to implementation of the Comprehensive Conservation and Management Plan;
 
-  (I) options for long-term financing of wastewater treatment projects and water pollution control programs.
+  (I) options for long-term financing of wastewater treatment projects and water pollution control programs;
+
+  (J) environmental vulnerabilities of the Long Island Sound watershed, including—
+
+    (i) the identification and assessment of such vulnerabilities in the watershed;
+
+    (ii) the development and implementation of adaptation strategies to reduce such vulnerabilities; and
+
+    (iii) the identification and assessment of the effects of sea level rise on water quality, habitat, and infrastructure; and 11 So in original.
 
 (3) coordinate the grant, research and planning programs authorized under this section;
 
-(4) coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act [[16 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1431&num=0&edition=prelim) et seq., 1447 et seq.; [33 U.S.C. 1401](./chapter-027-ocean-dumping.md#section-1401) et seq., 2801 et seq.];
+(4) develop and implement strategies to increase public education and awareness with respect to the ecological health and water quality conditions of Long Island Sound;
 
-(5) provide administrative and technical support to the conference;
+(5) provide administrative and technical support to the conference study;
 
-(6) collect and make available to the public publications, and other forms of information the conference determines to be appropriate, relating to the environmental quality of Long Island Sound;
+(6) collect and make available to the public (including on a publicly accessible website) publications, and other forms of information the conference study determines to be appropriate, relating to the environmental quality of Long Island Sound;
 
-(7) not more than two years after the date of the issuance of the final Comprehensive Conservation and Management Plan for Long Island Sound under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330), and biennially thereafter, issue a report to the Congress which—
-
-  (A) summarizes the progress made by the States in implementing the Comprehensive Conservation and Management Plan;
-
-  (B) summarizes any modifications to the Comprehensive Conservation and Management Plan in the twelve-month period immediately preceding such report; and
-
-  (C) incorporates specific recommendations concerning the implementation of the Comprehensive Conservation and Management Plan; and
+(7) monitor the progress made toward meeting the identified goals, actions, and schedules of the Comprehensive Conservation and Management Plan, including through the implementation and support of a monitoring system for the ecological health and water quality conditions of Long Island Sound; and
 
 (8) convene conferences and meetings for legislators from State governments and political subdivisions thereof for the purpose of making recommendations for coordinating legislative efforts to facilitate the environmental restoration of Long Island Sound and the implementation of the Comprehensive Conservation and Management Plan.
 
@@ -1737,7 +1764,7 @@ Section was enacted as part of the Financial Services and General Government App
 
 (2) State, interstate, and regional water pollution control agencies, and other public or nonprofit private agencies, institutions, and organizations held to be eligible for grants pursuant to this subsection.
 
-(3) Citizen involvement and citizen education grants under this subsection shall not exceed 95 per centum of the costs of such work. All other grants under this subsection shall not exceed 50 per centum of the research, studies, or work. All grants shall be made on the condition that the non-Federal share of such costs are provided from non-Federal sources.
+(3) Citizen involvement and citizen education grants under this subsection shall not exceed 95 per centum of the costs of such work. All other grants under this subsection shall not exceed 60 percent of the research, studies, or work. All grants shall be made on the condition that the non-Federal share of such costs are provided from non-Federal sources.
 
 **(e) Assistance to distressed communities**
 
@@ -1745,18 +1772,64 @@ Section was enacted as part of the Financial Services and General Government App
 
 (2) **Priority** — In making assistance available under this section for the upgrading of wastewater treatment facilities, the Administrator may give priority to a distressed community.
 
-**(f) Authorizations**
+**(f) Report**
 
-(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d), such sums as may be necessary for each of the fiscal years 2001 through 2010.
+(1) **In general** — Not later than 2 years after the date of enactment of this Act, and biennially thereafter, the Director of the Office, in consultation with the Governor of each Long Island Sound State, shall submit to Congress a report that—
 
-(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) not to exceed $40,000,000 for each of fiscal years 2001 through 2010.
+  (A) summarizes and assesses the progress made by the Office and the Long Island Sound States in implementing the Long Island Sound Comprehensive Conservation and Management Plan, including an assessment of the progress made toward meeting the performance goals and milestones contained in the Plan;
+
+  (B) assesses the key ecological attributes that reflect the health of the ecosystem of the Long Island Sound watershed;
+
+  (C) describes any substantive modifications to the Long Island Sound Comprehensive Conservation and Management Plan made during the 2-year period preceding the date of submission of the report;
+
+  (D) provides specific recommendations to improve progress in restoring and protecting the Long Island Sound watershed, including, as appropriate, proposed modifications to the Long Island Sound Comprehensive Conservation and Management Plan;
+
+  (E) identifies priority actions for implementation of the Long Island Sound Comprehensive Conservation and Management Plan for the 2-year period following the date of submission of the report; and
+
+  (F) describes the means by which Federal funding and actions will be coordinated with the actions of the Long Island Sound States and other entities.
+
+(2) **Public availability** — The Administrator shall make the report described in paragraph (1) available to the public, including on a publicly accessible website.
+
+**(g) Federal entities**
+
+(1) **Coordination** — The Administrator shall coordinate the actions of all Federal departments and agencies that affect water quality in the Long Island Sound watershed in order to improve the water quality and living resources of the watershed.
+
+(2) **Methods** — In carrying out this section, the Administrator, acting through the Director of the Office, may—
+
+  (A) enter into interagency agreements; and
+
+  (B) make intergovernmental personnel appointments.
+
+(4) **Consistency with comprehensive conservation and management plan** — To the maximum extent practicable, the head of each Federal department or agency that owns or occupies real property, or carries out activities, within the Long Island Sound watershed shall ensure that the property and all activities carried out by the department or agency are consistent with the Long Island Sound Comprehensive Conservation and Management Plan (including any related subsequent agreements and plans).
+
+**(h) Authorization of appropriations** There is authorized to be appropriated to the Administrator to carry out this section $40,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
 #### References in Text
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (c)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+The date of enactment of this Act, referred to in subsec. (f)(1), probably means the date of enactment of Pub. L. 115–270, which was approved Oct. 23, 2018.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–270, § 4104(a)(1)(A), substituted “conference study” for “Management Conference of the Long Island Sound Study” in introductory provisions.
+
+Subsec. (c)(2)(J). Pub. L. 115–270, § 4104(a)(1)(B), added subpar. (J).
+
+Subsec. (c)(4). Pub. L. 115–270, § 4104(a)(1)(C), added par. (4) and struck out former par. (4) which read as follows: “coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act;”.
+
+Subsec. (c)(5). Pub. L. 115–270, § 4104(a)(1)(D), inserted “study” after “conference”.
+
+Subsec. (c)(6). Pub. L. 115–270, § 4104(a)(1)(E), inserted “(including on a publicly accessible website)” after “the public” and “study” after “conference”.
+
+Subsec. (c)(7). Pub. L. 115–270, § 4104(a)(1)(F), added par. (7) and struck out former par. (7) which related to a report to Congress on the Comprehensive Conservation and Management Plan.
+
+Subsec. (d)(3). Pub. L. 115–270, § 4104(a)(2), substituted “60 percent” for “50 per centum”.
+
+Subsecs. (f), (g). Pub. L. 115–270, § 4104(a)(4), added subsecs. (f) and (g). Former subsec. (f) redesignated (h).
+
+Subsec. (h). Pub. L. 115–270, § 4104(c)(1), amended subsec. (h) generally. Prior to amendment text related to authorizations.
+
+Pub. L. 115–270, § 4104(a)(3), redesignated subsec. (f) as (h).
+
 2005—Subsec. (f). Pub. L. 109–137 substituted “2010” for “2005” in pars. (1) and (2).
 
 2000—Subsec. (c)(1). Pub. L. 106–457, § 402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
@@ -1768,7 +1841,7 @@ Subsec. (f). Pub. L. 106–457, §§ 403(1), 404, redesignated subsec. (e) as (f
 1996—Subsec. (e). Pub. L. 104–303 substituted “2001” for “1996” in pars. (1) and (2).
 
 #### Long Island Sound Stewardship
-Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Long Island Sound Stewardship Act of 2006’. “SEC. 2. FINDINGS AND PURPOSE.“(a) Findings.—Congress finds that—“(1) Long Island Sound is a national treasure of great cultural, environmental, and ecological importance; “(2) 8,000,000 people live within the Long Island Sound watershed and 28,000,000 people (approximately 10 percent of the population of the United States) live within 50 miles of Long Island Sound; “(3) activities that depend on the environmental health of Long Island Sound contribute more than $5,000,000,000 each year to the regional economy; “(4) the portion of the shoreline of Long Island Sound that is accessible to the general public (estimated at less than 20 percent of the total shoreline) is not adequate to serve the needs of the people living in the area; “(5) existing shoreline facilities are in many cases overburdened and underfunded; “(6) large parcels of open space already in public ownership are strained by the effort to balance the demand for recreation with the needs of sensitive natural resources; “(7) approximately 1/3 of the tidal marshes of Long Island Sound have been filled, and much of the remaining marshes have been ditched, diked, or impounded, reducing the ecological value of the marshes; and “(8) much of the remaining exemplary natural landscape is vulnerable to further development. “(b) Purpose.—The purpose of this Act is to establish the Long Island Sound Stewardship Initiative to identify, protect, and enhance upland sites within the Long Island Sound ecosystem with significant ecological, educational, open space, public access, or recreational value through a bi-State network of sites best exemplifying these values. “SEC. 3. DEFINITIONS.“In this Act, the following definitions apply:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency. “(2) Advisory committee.—The term ‘Advisory Committee’ means the Long Island Sound Stewardship Advisory Committee established by section 8. “(3) Region.—The term ‘Region’ means the Long Island Sound Stewardship Initiative Region established by section 4(a). “(4) State.—The term ‘State’ means each of the States of Connecticut and New York. “(5) Stewardship.—The term ‘stewardship’ means land acquisition, land conservation agreements, site planning, plan implementation, land and habitat management, public access improvements, site monitoring, and other activities designed to enhance and preserve natural resource-based recreation and ecological function of upland areas. “(6) Stewardship site.—The term ‘stewardship site’ means any area of State, local, or tribal government, or privately owned land within the Region that is designated by the Administrator under section 5(a). “(7) Systematic site selection.—The term ‘systematic site selection’ means a process of selecting stewardship sites that—“(A) has explicit goals, methods, and criteria; “(B) produces feasible, repeatable, and defensible results; “(C) provides for consideration of natural, physical, and biological patterns; “(D) addresses replication, connectivity, species viability, location, and public recreation values; “(E) uses geographic information systems technology and algorithms to integrate selection criteria; and “(F) will result in achieving the goals of stewardship site selection at the lowest cost. “(8) Qualified applicants.—The term ‘qualified applicant’ means a non-Federal person that owns title to property located within the borders of the Region. “(9) Threat.—The term ‘threat’ means a threat that is likely to destroy or seriously degrade a conservation target or a recreation area. “SEC. 4. LONG ISLAND SOUND STEWARDSHIP INITIATIVE REGION.“(a) Establishment.—There is established in the States of Connecticut and New York the Long Island Sound Stewardship Initiative Region. “(b) Boundaries.—The Region consists of the immediate coastal upland areas along—“(1) Long Island Sound between mean high water and the inland boundary, as described on the map entitled ‘Long Island Sound Stewardship Region’ and dated April 21, 2004; and “(2) the Peconic Estuary as described on the map entitled ‘Peconic Estuary Program Study Area Boundaries’ and included in the Comprehensive Conservation and Management Plan for the Peconic Estuary Program and dated November 15, 2001. “SEC. 5. DESIGNATION OF STEWARDSHIP SITES.“(a) In General.—The Administrator may designate a stewardship site in accordance with this Act any area that contributes to accomplishing the purpose of this Act. “(b) Publication of List of Recommended Sites.—The Administrator shall—“(1) publish in the Federal Register and make available in general circulation in the States of Connecticut and New York the list of sites recommended by the Advisory Committee; and “(2) provide a 90-day period for—“(A) the submission of public comment on the list; and “(B) an opportunity for owners of such sites to decline designation of such sites as stewardship sites. “(c) Opinion Regarding Owner’s Responsibilities.—The Administrator may not designate an area as a stewardship site under this Act unless the Administrator provides to the owner of the area, and the owner acknowledges to the Administrator receipt of, a comprehensive opinion in plain English setting forth expressly the responsibility of the owner that arises from such designation. “(d) Designation of Stewardship Sites.—Not later than 150 days after receiving from the Advisory Committee its list of recommended sites, the Administrator—“(1) shall review the recommendations of the Advisory Committee; and “(2) may designate as a stewardship site any site included in the list. “SEC. 6. RECOMMENDATIONS BY ADVISORY COMMITTEE.“(a) In General.—The Advisory Committee shall—“(1) in accordance with this section, evaluate applications—“(A) for designation of areas as stewardship sites; “(B) to develop management plans to address threats to stewardship sites; and “(C) to act on opportunities to protect and enhance stewardship sites; “(2) develop recommended guidelines, criteria, schedules, and due dates for the submission of applications and the evaluation by the Advisory Committee of information to recommend areas for designation as stewardship sites that fulfill terms of a multi-year management plan; “(3) recommend to the Administrator a list of sites for designation as stewardship sites that further the purpose of this Act; “(4) develop management plans to address threats to stewardship sites; “(5) raise awareness of the values of and threats to stewardship sites; “(6) recommend that the Administrator award grants to qualified applicants; and “(7) recommend to the Administrator ways to leverage additional resources for improved stewardship of the Region. “(b) Identification of Sites.—“(1) In general.—Any qualified applicant may submit an application to the Advisory Committee to have a site recommended to the Administrator for designation as a stewardship site. “(2) Identification.—The Advisory Committee shall review each application submitted under this subsection to determine whether the site exhibits values that promote the purpose of this Act. “(3) Natural resource-based recreation areas.—In reviewing an application for recommendation of a recreation area for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—“(A) public access; “(B) community support; “(C) high population density; “(D) environmental justice (as defined in section 385.3 of title 33, Code of Federal Regulations (or successor regulations)); “(E) open spaces; and “(F) cultural, historic, and scenic characteristics. “(4) Natural areas with ecological value.—In reviewing an application for recommendation of a natural area with ecological value for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—“(A) measurable conservation targets for the Region; and “(B) prioritizing new sites using systematic site selection, which shall include consideration of—“(i) ecological uniqueness; “(ii) species viability; “(iii) habitat heterogeneity; “(iv) size; “(v) quality; “(vi) open spaces; “(vii) land cover; “(viii) scientific, research, or educational value; and “(ix) threats. “(5) Deviation from process.—The Advisory Committee may accept an application to recommend a site other than as provided in this subsection, if the Advisory Committee—“(A) determines that the site makes significant ecological or recreational contributions to the Region; and “(B) provides to the Administrator the reasons for deviating from the process otherwise described in this subsection. “(c) Submission of List of Recommended Sites.—“(1) In general.—After completion of the site identification process set forth in subsection (b), the Advisory Committee shall submit to the Administrator its list of sites recommended for designation as stewardship sites. “(2) Limitation.—The Advisory Committee shall not include a site in the list submitted under this subsection unless, prior to submission of the list, the owner of the site is—“(A) notified of the inclusion of the site in the list; and “(B) allowed to decline inclusion of the site in the list. “(3) Public comment.—In identifying sites for inclusion in the list, the Advisory Committee shall provide an opportunity for submission of, and consider, public comments. “SEC. 7. GRANTS AND ASSISTANCE.“(a) In General.—The Administrator may provide grants, subject to the availability of appropriations, and other assistance for projects to fulfill the purpose of this Act. “(b) Federal Share.—The Federal share of the cost of an activity carried out using any assistance or grant under this Act shall not exceed 60 percent of the total cost of the activity. “SEC. 8. LONG ISLAND SOUND STEWARDSHIP ADVISORY COMMITTEE.“(a) Establishment.—There is established a committee to be known as the ‘Long Island Sound Stewardship Advisory Committee’. “(b) Membership.—“(1) In general.—The Administrator may appoint the members of the Advisory Committee in accordance with this subsection and the guidance in section 320(c) of the Federal Water Pollution Control Act ([33 U.S.C. 1330(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1330/c&num=0&edition=prelim)), except that the Governor of each State may appoint 2 members of the Advisory Committee. “(2) Additional members.—In addition to the other members appointed under this subsection, the Advisory Committee may include—“(A) a representative of the Regional Plan Association; “(B) a representative of marine trade organizations; and “(C) a representative of private landowner interests. “(3) Consideration of interests.—In appointing members of the Advisory Committee, the Administrator shall consider—“(A) Federal, State, and local government interests and tribal interests; “(B) the interests of nongovernmental organizations; “(C) academic interests; “(D) private interests including land, agriculture, and business interests; and “(E) recreational and commercial fishing interests. “(4) Chairperson.—In addition to the other members appointed under this subsection, the Administrator may appoint as a member of the Advisory Committee an individual to serve as the Chairperson, who may be the Director of the Long Island Sound Office of the Environmental Protection Agency. “(5) Completion of appointments.—The Administrator shall complete the appointment of all members of the Advisory Committee by not later than 180 days after the date of enactment of this Act [Oct. 16, 2006].“(A) [sic] Vacancies.—A vacancy on the Advisory Committee—“(i) shall be filled not later than 90 days after the vacancy occurs; “(ii) shall not affect the powers of the Advisory Committee; and “(iii) shall be filled in the same manner as the original appointment was made. “(c) Term.—“(1) In general.—A member of the Advisory Committee shall be appointed for a term of 4 years. “(2) Multiple terms.—An individual may be appointed as a member of the Advisory Committee for more than 1 term. “(d) Powers.—The Advisory Committee may hold such hearings, meet and act at such times and places, take such testimony, and receive such evidence as the Advisory Committee considers advisable to carry out this Act. “(e) Meetings.—“(1) In general.—The Advisory Committee shall meet at the call of the Chairperson, but no fewer than 4 times each year. “(2) Initial meeting.—Not later than 30 days after the date on which all members of the Advisory Committee have been appointed, the Chairperson shall call the initial meeting of the Advisory Committee. “(3) Quorum.—A majority of the members of the Advisory Committee shall constitute a quorum, but a lesser number of members may hold hearings. “(f) Adaptive Management.—“(1) In general.—The Advisory Committee shall use an adaptive management framework to identify the best policy initiatives and actions through—“(A) definition of strategic goals; “(B) definition of policy options for methods to achieve strategic goals; “(C) establishment of measures of success; “(D) identification of uncertainties; “(E) development of informative models of policy implementation; “(F) separation of the landscape into geographic units; “(G) monitoring key responses at different spatial and temporal scales; and “(H) evaluation of outcomes and incorporation into management strategies. “(2) Application of adaptive management framework.—The Advisory Committee shall apply the adaptive management framework to the process for making recommendations under subsections (b) through (f) of section 6 to the Administrator regarding sites that should be designated as stewardship sites. “(3) Adaptive management.—The adaptive management framework required by this subsection shall consist of a scientific process—“(A) for—“(i) developing predictive models; “(ii) making management policy decisions based upon the model outputs; “(iii) revising the management policies as data become available with which to evaluate the policies; and “(iv) acknowledging uncertainty, complexity, and variance in the spatial and temporal aspects of natural systems; and “(B) that requires that management be viewed as experimental. “(g) Termination of Advisory Committee.—The Advisory Committee shall terminate on December 31, 2011. “SEC. 9. REPORTS.“(a) Administrator.—The Administrator shall publish and make available to the public on the Internet and in paper form—“(1) not later than 1 year after the date of enactment of this Act [Oct. 16, 2006], a report that—“(A) assesses the role of this Act in protecting the Long Island Sound; “(B) establishes in coordination with the Advisory Committee guidelines, criteria, schedules, and due dates for evaluating information to designate stewardship sites; “(C) includes information about any grants that are available for the purchase of land or property rights to protect stewardship sites; and “(D) accounts for funds received and expended during the previous fiscal year; “(2) an update of such report, at least every other year; and “(3) information on funding and any new stewardship sites more frequently than every other year. “(b) Advisory Committee.—“(1) Report.—For each of fiscal years 2007 through 2011, the Advisory Committee shall submit to the Administrator and the decisionmaking body of the Long Island Sound Study Management Conference established under section 320 of the Federal Water Pollution Control Act ([33 U.S.C. 1330](./chapter-026-water-pollution-prevention-and-control.md#section-1330)), an annual report that contains—“(A) a detailed statement of the findings and conclusions of the Advisory Committee since the last report under this subsection; “(B) a description of all sites recommended by the Advisory Committee to the Administrator for designation as stewardship sites; “(C) the recommendations of the Advisory Committee for such legislation and administrative actions as the Advisory Committee considers appropriate; and “(D) in accordance with paragraph (2), the recommendations of the Advisory Committee for the awarding of grants. “(2) Recommendation for grants.—“(A) In general.—The Advisory Committee shall recommend that the Administrator award grants to qualified applicants to help to secure and improve the open space, public access, or ecological values of stewardship sites, through—“(i) purchase of the property of a stewardship site; “(ii) purchase of relevant property rights to a stewardship site; or “(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a management plan that is necessary for the conservation of natural resources. “(B) Equitable distribution of funds.—The Advisory Committee shall exert due diligence to ensure that its recommendations result in an equitable distribution of funds between the States. “SEC. 10. PRIVATE PROPERTY PROTECTION; NO REGULATORY AUTHORITY.“(a) Access to Private Property.—Nothing in this Act—“(1) requires any private property owner to allow public access (including Federal, State, or local government access) to the private property; or “(2) modifies the application of any provision of Federal, State, or local law with regard to public access to or use of private property, except as entered into by voluntary agreement of the owner or custodian of the property. “(b) Liability.—Establishment of the Region does not create any liability, or have any effect on any liability under any other law, of any private property owner with respect to any person injured on the private property. “(c) Recognition of Authority to Control Land Use.—Nothing in this Act modifies the authority of Federal, State, or local governments to regulate land use. “(d) Participation of Private Property Owners Not Required.—Nothing in this Act requires the owner of any private property located within the boundaries of the Region to participate in any land conservation, financial or technical assistance, or other programs established under this Act. “(e) Purchase of Land or Interest in Land From Willing Sellers Only.—Funds appropriated to carry out this Act may be used to purchase land or interests in land only from willing sellers. “(f) Manner of Acquisition.—All acquisitions of land under this Act shall be made in a voluntary manner and shall not be the result of forced takings. “(g) Effect of Establishment.—“(1) In general.—The boundaries of the Region represent the area within which Federal funds appropriated for the purpose of this Act may be expended. “(2) Regulatory authority.—The establishment of the Region and the boundaries of the Region do not provide any regulatory authority not in existence immediately before the enactment of this Act [Oct. 16, 2006] on land use in the Region by any management entity, except for such property rights as may be purchased from or donated by the owner of the property (including public lands donated by a State or local government). “SEC. 11. AUTHORIZATION OF APPROPRIATIONS.“(a) In General.—There is authorized to be appropriated to the Administrator $25,000,000 for each of fiscal years 2007 through 2011 to carry out this Act, including for—“(1) acquisition of land and interests in land; “(2) development and implementation of site management plans; “(3) site enhancements to reduce threats or promote stewardship; and “(4) administrative expenses of the Advisory Committee and the Administrator. “(b) Use of Funds.—Amounts made available to the Administrator under this section each fiscal year shall be used by the Administrator after reviewing the recommendations included in the annual reports of the Advisory Committee under section 9. “(c) Authorization of Gifts, Devises, and Bequests for System.—In furtherance of the purpose of this Act, the Administrator may accept and use any gift, devise, or bequest of real or personal property, proceeds therefrom, or interests therein, to carry out this Act. Such acceptance may be subject to the terms of any restrictive or affirmative covenant, or condition of servitude, if such terms are considered by the Administrator to be in accordance with law and compatible with the purpose for which acceptance is sought. “(d) Limitation on Administrative Costs.—Of the amount available each fiscal year to carry out this Act, not more than 8 percent may be used for administrative costs.”
+Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–270, title IV, § 4104(b), (c)(2), Oct. 23, 2018, 132 Stat. 3875, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Long Island Sound Stewardship Act of 2006’. “SEC. 2. FINDINGS AND PURPOSE.“(a) Findings.—Congress finds that—“(1) Long Island Sound is a national treasure of great cultural, environmental, and ecological importance; “(2) 8,000,000 people live within the Long Island Sound watershed and 28,000,000 people (approximately 10 percent of the population of the United States) live within 50 miles of Long Island Sound; “(3) activities that depend on the environmental health of Long Island Sound contribute more than $5,000,000,000 each year to the regional economy; “(4) the portion of the shoreline of Long Island Sound that is accessible to the general public (estimated at less than 20 percent of the total shoreline) is not adequate to serve the needs of the people living in the area; “(5) existing shoreline facilities are in many cases overburdened and underfunded; “(6) large parcels of open space already in public ownership are strained by the effort to balance the demand for recreation with the needs of sensitive natural resources; “(7) approximately 1/3 of the tidal marshes of Long Island Sound have been filled, and much of the remaining marshes have been ditched, diked, or impounded, reducing the ecological value of the marshes; and “(8) much of the remaining exemplary natural landscape is vulnerable to further development. “(b) Purpose.—The purpose of this Act is to establish the Long Island Sound Stewardship Initiative to identify, protect, and enhance upland sites within the Long Island Sound ecosystem with significant ecological, educational, open space, public access, or recreational value through a bi-State network of sites best exemplifying these values. “SEC. 3. DEFINITIONS.“In this Act, the following definitions apply:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency. “(2) Advisory committee.—The term ‘Advisory Committee’ means the Long Island Sound Stewardship Advisory Committee established by section 8. “(3) Region.—The term ‘Region’ means the Long Island Sound Stewardship Initiative Region established by section 4(a). “(4) State.—The term ‘State’ means each of the States of Connecticut and New York. “(5) Stewardship.—The term ‘stewardship’ means land acquisition, land conservation agreements, site planning, plan implementation, land and habitat management, public access improvements, site monitoring, and other activities designed to enhance and preserve natural resource-based recreation and ecological function of upland areas. “(6) Stewardship site.—The term ‘stewardship site’ means any area of State, local, or tribal government, or privately owned land within the Region that is designated by the Administrator under section 5(a). “(7) Systematic site selection.—The term ‘systematic site selection’ means a process of selecting stewardship sites that—“(A) has explicit goals, methods, and criteria; “(B) produces feasible, repeatable, and defensible results; “(C) provides for consideration of natural, physical, and biological patterns; “(D) addresses replication, connectivity, species viability, location, and public recreation values; “(E) uses geographic information systems technology and algorithms to integrate selection criteria; and “(F) will result in achieving the goals of stewardship site selection at the lowest cost. “(8) Qualified applicants.—The term ‘qualified applicant’ means a non-Federal person that owns title to property located within the borders of the Region. “(9) Threat.—The term ‘threat’ means a threat that is likely to destroy or seriously degrade a conservation target or a recreation area. “SEC. 4. LONG ISLAND SOUND STEWARDSHIP INITIATIVE REGION.“(a) Establishment.—There is established in the States of Connecticut and New York the Long Island Sound Stewardship Initiative Region. “(b) Boundaries.—The Region consists of the immediate coastal upland areas along—“(1) Long Island Sound between mean high water and the inland boundary, as described on the map entitled ‘Long Island Sound Stewardship Region’ and dated April 21, 2004; and “(2) the Peconic Estuary as described on the map entitled ‘Peconic Estuary Program Study Area Boundaries’ and included in the Comprehensive Conservation and Management Plan for the Peconic Estuary Program and dated November 15, 2001. “SEC. 5. DESIGNATION OF STEWARDSHIP SITES.“(a) In General.—The Administrator may designate a stewardship site in accordance with this Act any area that contributes to accomplishing the purpose of this Act. “(b) Publication of List of Recommended Sites.—The Administrator shall—“(1) publish in the Federal Register and make available in general circulation in the States of Connecticut and New York the list of sites recommended by the Advisory Committee; and “(2) provide a 90-day period for—“(A) the submission of public comment on the list; and “(B) an opportunity for owners of such sites to decline designation of such sites as stewardship sites. “(c) Opinion Regarding Owner’s Responsibilities.—The Administrator may not designate an area as a stewardship site under this Act unless the Administrator provides to the owner of the area, and the owner acknowledges to the Administrator receipt of, a comprehensive opinion in plain English setting forth expressly the responsibility of the owner that arises from such designation. “(d) Designation of Stewardship Sites.—Not later than 150 days after receiving from the Advisory Committee its list of recommended sites, the Administrator—“(1) shall review the recommendations of the Advisory Committee; and “(2) may designate as a stewardship site any site included in the list. “SEC. 6. RECOMMENDATIONS BY ADVISORY COMMITTEE.“(a) In General.—The Advisory Committee shall—“(1) in accordance with this section, evaluate applications—“(A) for designation of areas as stewardship sites; “(B) to develop management plans to address threats to stewardship sites; and “(C) to act on opportunities to protect and enhance stewardship sites; “(2) develop recommended guidelines, criteria, schedules, and due dates for the submission of applications and the evaluation by the Advisory Committee of information to recommend areas for designation as stewardship sites that fulfill terms of a multi-year management plan; “(3) recommend to the Administrator a list of sites for designation as stewardship sites that further the purpose of this Act; “(4) develop management plans to address threats to stewardship sites; “(5) raise awareness of the values of and threats to stewardship sites; “(6) recommend that the Administrator award grants to qualified applicants; and “(7) recommend to the Administrator ways to leverage additional resources for improved stewardship of the Region. “(b) Identification of Sites.—“(1) In general.—Any qualified applicant may submit an application to the Advisory Committee to have a site recommended to the Administrator for designation as a stewardship site. “(2) Identification.—The Advisory Committee shall review each application submitted under this subsection to determine whether the site exhibits values that promote the purpose of this Act. “(3) Natural resource-based recreation areas.—In reviewing an application for recommendation of a recreation area for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—“(A) public access; “(B) community support; “(C) high population density; “(D) environmental justice (as defined in section 385.3 of title 33, Code of Federal Regulations (or successor regulations)); “(E) open spaces; and “(F) cultural, historic, and scenic characteristics. “(4) Natural areas with ecological value.—In reviewing an application for recommendation of a natural area with ecological value for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—“(A) measurable conservation targets for the Region; and “(B) prioritizing new sites using systematic site selection, which shall include consideration of—“(i) ecological uniqueness; “(ii) species viability; “(iii) habitat heterogeneity; “(iv) size; “(v) quality; “(vi) open spaces; “(vii) land cover; “(viii) scientific, research, or educational value; and “(ix) threats. “(5) Deviation from process.—The Advisory Committee may accept an application to recommend a site other than as provided in this subsection, if the Advisory Committee—“(A) determines that the site makes significant ecological or recreational contributions to the Region; and “(B) provides to the Administrator the reasons for deviating from the process otherwise described in this subsection. “(c) Submission of List of Recommended Sites.—“(1) In general.—After completion of the site identification process set forth in subsection (b), the Advisory Committee shall submit to the Administrator its list of sites recommended for designation as stewardship sites. “(2) Limitation.—The Advisory Committee shall not include a site in the list submitted under this subsection unless, prior to submission of the list, the owner of the site is—“(A) notified of the inclusion of the site in the list; and “(B) allowed to decline inclusion of the site in the list. “(3) Public comment.—In identifying sites for inclusion in the list, the Advisory Committee shall provide an opportunity for submission of, and consider, public comments. “SEC. 7. GRANTS AND ASSISTANCE.“(a) In General.—The Administrator may provide grants, subject to the availability of appropriations, and other assistance for projects to fulfill the purpose of this Act. “(b) Federal Share.—The Federal share of the cost of an activity carried out using any assistance or grant under this Act shall not exceed 60 percent of the total cost of the activity. “SEC. 8. LONG ISLAND SOUND STEWARDSHIP ADVISORY COMMITTEE.“(a) Establishment.—There is established a committee to be known as the ‘Long Island Sound Stewardship Advisory Committee’. “(b) Membership.—“(1) In general.—The Administrator may appoint the members of the Advisory Committee in accordance with this subsection and the guidance in section 320(c) of the Federal Water Pollution Control Act ([33 U.S.C. 1330(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1330/c&num=0&edition=prelim)), except that the Governor of each State may appoint 2 members of the Advisory Committee. “(2) Additional members.—In addition to the other members appointed under this subsection, the Advisory Committee may include—“(A) a representative of the Regional Plan Association; “(B) a representative of marine trade organizations; and “(C) a representative of private landowner interests. “(3) Consideration of interests.—In appointing members of the Advisory Committee, the Administrator shall consider—“(A) Federal, State, and local government interests and tribal interests; “(B) the interests of nongovernmental organizations; “(C) academic interests; “(D) private interests including land, agriculture, and business interests; and “(E) recreational and commercial fishing interests. “(4) Chairperson.—In addition to the other members appointed under this subsection, the Administrator may appoint as a member of the Advisory Committee an individual to serve as the Chairperson, who may be the Director of the Long Island Sound Office of the Environmental Protection Agency. “(5) Completion of appointments.—The Administrator shall complete the appointment of all members of the Advisory Committee by not later than 180 days after the date of enactment of this Act [Oct. 16, 2006].“(A) [sic] Vacancies.—A vacancy on the Advisory Committee—“(i) shall be filled not later than 90 days after the vacancy occurs; “(ii) shall not affect the powers of the Advisory Committee; and “(iii) shall be filled in the same manner as the original appointment was made. “(c) Term.—“(1) In general.—A member of the Advisory Committee shall be appointed for a term of 4 years. “(2) Multiple terms.—An individual may be appointed as a member of the Advisory Committee for more than 1 term. “(d) Powers.—The Advisory Committee may hold such hearings, meet and act at such times and places, take such testimony, and receive such evidence as the Advisory Committee considers advisable to carry out this Act. “(e) Meetings.—“(1) In general.—The Advisory Committee shall meet at the call of the Chairperson, but no fewer than 4 times each year. “(2) Initial meeting.—Not later than 30 days after the date on which all members of the Advisory Committee have been appointed, the Chairperson shall call the initial meeting of the Advisory Committee. “(3) Quorum.—A majority of the members of the Advisory Committee shall constitute a quorum, but a lesser number of members may hold hearings. “(f) Adaptive Management.—“(1) In general.—The Advisory Committee shall use an adaptive management framework to identify the best policy initiatives and actions through—“(A) definition of strategic goals; “(B) definition of policy options for methods to achieve strategic goals; “(C) establishment of measures of success; “(D) identification of uncertainties; “(E) development of informative models of policy implementation; “(F) separation of the landscape into geographic units; “(G) monitoring key responses at different spatial and temporal scales; and “(H) evaluation of outcomes and incorporation into management strategies. “(2) Application of adaptive management framework.—The Advisory Committee shall apply the adaptive management framework to the process for making recommendations under subsections (b) through (f) of section 6 to the Administrator regarding sites that should be designated as stewardship sites. “(3) Adaptive management.—The adaptive management framework required by this subsection shall consist of a scientific process—“(A) for—“(i) developing predictive models; “(ii) making management policy decisions based upon the model outputs; “(iii) revising the management policies as data become available with which to evaluate the policies; and “(iv) acknowledging uncertainty, complexity, and variance in the spatial and temporal aspects of natural systems; and “(B) that requires that management be viewed as experimental. “(g) Termination of Advisory Committee.—The Advisory Committee shall terminate on December 31, 2021. “SEC. 9. REPORTS.“(a) Administrator.—The Administrator shall publish and make available to the public on the Internet and in paper form—“(1) not later than 1 year after the date of enactment of this Act [Oct. 16, 2006], a report that—“(A) assesses the role of this Act in protecting the Long Island Sound; “(B) establishes in coordination with the Advisory Committee guidelines, criteria, schedules, and due dates for evaluating information to designate stewardship sites; “(C) includes information about any grants that are available for the purchase of land or property rights to protect stewardship sites; and “(D) accounts for funds received and expended during the previous fiscal year; “(2) an update of such report, at least every other year; and “(3) information on funding and any new stewardship sites more frequently than every other year. “(b) Advisory Committee.—“(1) Report.—For each of fiscal years 2007 through 2011, the Advisory Committee shall submit to the Administrator and the decisionmaking body of the Long Island Sound Study Management Conference established under section 320 of the Federal Water Pollution Control Act ([33 U.S.C. 1330](./chapter-026-water-pollution-prevention-and-control.md#section-1330)), an annual report that contains—“(A) a detailed statement of the findings and conclusions of the Advisory Committee since the last report under this subsection; “(B) a description of all sites recommended by the Advisory Committee to the Administrator for designation as stewardship sites; “(C) the recommendations of the Advisory Committee for such legislation and administrative actions as the Advisory Committee considers appropriate; and “(D) in accordance with paragraph (2), the recommendations of the Advisory Committee for the awarding of grants. “(2) Recommendation for grants.—“(A) In general.—The Advisory Committee shall recommend that the Administrator award grants to qualified applicants to help to secure and improve the open space, public access, or ecological values of stewardship sites, through—“(i) purchase of the property of a stewardship site; “(ii) purchase of relevant property rights to a stewardship site; or “(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a management plan that is necessary for the conservation of natural resources. “(B) Equitable distribution of funds.—The Advisory Committee shall exert due diligence to ensure that its recommendations result in an equitable distribution of funds between the States. “SEC. 10. PRIVATE PROPERTY PROTECTION; NO REGULATORY AUTHORITY.“(a) Access to Private Property.—Nothing in this Act—“(1) requires any private property owner to allow public access (including Federal, State, or local government access) to the private property; or “(2) modifies the application of any provision of Federal, State, or local law with regard to public access to or use of private property, except as entered into by voluntary agreement of the owner or custodian of the property. “(b) Liability.—Establishment of the Region does not create any liability, or have any effect on any liability under any other law, of any private property owner with respect to any person injured on the private property. “(c) Recognition of Authority to Control Land Use.—Nothing in this Act modifies the authority of Federal, State, or local governments to regulate land use. “(d) Participation of Private Property Owners Not Required.—Nothing in this Act requires the owner of any private property located within the boundaries of the Region to participate in any land conservation, financial or technical assistance, or other programs established under this Act. “(e) Purchase of Land or Interest in Land From Willing Sellers Only.—Funds appropriated to carry out this Act may be used to purchase land or interests in land only from willing sellers. “(f) Manner of Acquisition.—All acquisitions of land under this Act shall be made in a voluntary manner and shall not be the result of forced takings. “(g) Effect of Establishment.—“(1) In general.—The boundaries of the Region represent the area within which Federal funds appropriated for the purpose of this Act may be expended. “(2) Regulatory authority.—The establishment of the Region and the boundaries of the Region do not provide any regulatory authority not in existence immediately before the enactment of this Act [Oct. 16, 2006] on land use in the Region by any management entity, except for such property rights as may be purchased from or donated by the owner of the property (including public lands donated by a State or local government). “SEC. 11. AUTHORIZATION OF APPROPRIATIONS.“(a) In General.—There is authorized to be appropriated to the Administrator $25,000,000 for each of fiscal years 2019 through 2023 to carry out this Act, including for—“(1) acquisition of land and interests in land; “(2) development and implementation of site management plans; “(3) site enhancements to reduce threats or promote stewardship; and “(4) administrative expenses of the Advisory Committee and the Administrator. “(b) Use of Funds.—Amounts made available to the Administrator under this section each fiscal year shall be used by the Administrator after reviewing the recommendations included in the annual reports of the Advisory Committee under section 9. “(c) Authorization of Gifts, Devises, and Bequests for System.—In furtherance of the purpose of this Act, the Administrator may accept and use any gift, devise, or bequest of real or personal property, proceeds therefrom, or interests therein, to carry out this Act. Such acceptance may be subject to the terms of any restrictive or affirmative covenant, or condition of servitude, if such terms are considered by the Administrator to be in accordance with law and compatible with the purpose for which acceptance is sought. “(d) Limitation on Administrative Costs.—Of the amount available each fiscal year to carry out this Act, not more than 8 percent may be used for administrative costs.”
 
 
 <a id="section-1270"></a>
@@ -1901,7 +1974,7 @@ Subsec. (h). Pub. L. 107–303, § 202(7), added subsec. (h) and struck out head
 Subsec. (i). Pub. L. 107–303, § 202(8), substituted “section—” for “section $2,000,000”, inserted “(1) $2,000,000” before “for each of fiscal years 1991,”, substituted “1995;” for “1995.”, and added pars. (2) and (3).
 
 #### Federal Program Coordination
-Section 304 of Pub. L. 101–596, as amended by Pub. L. 104–127, title III, § 336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005, provided that: “(a) Designation of Lake Champlain as a Priority Area Under the Environmental Quality Incentives Program.—“(1) In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act [[33 U.S.C. 1270(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1270/h&num=0&edition=prelim)], shall be designated by the Secretary of Agriculture as a priority area under the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3839aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3839aa&num=0&edition=prelim) et seq.]. “(2) Technical assistance reimbursement.—To carry out the purposes of this subsection, the technical assistance reimbursement from the Agricultural Stabilization and Conservation Service authorized under the Soil Conservation and Domestic Allotment Act [[16 U.S.C. 590a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590a&num=0&edition=prelim) et seq.], shall be increased from 5 per centum to 10 per centum. “(3) Comprehensive agricultural monitoring.—The Secretary, in consultation with the Management Conference and appropriate State and Federal agencies, shall develop a comprehensive agricultural monitoring and evaluation network for all major drainages within the Lake Champlain basin. “(4) Allocation of funds.—In allocating funds under this subsection, the Secretary of Agriculture shall consult with the Management Conference established under section 120 of the Federal Water Pollution Control Act and to the extent allowable by law, allocate funds to those agricultural enterprises located at sites that the Management Conference determines to be priority sites, on the basis of a concern for ensuring implementation of nonpoint source pollution controls throughout the Lake Champlain basin. “(b) Cooperation of the United States Geological Survey of the Department of the Interior.—For the purpose of enhancing and expanding basic data collection and monitoring in operation in the Lake Champlain basin, as defined under section 120 of the Federal Water Pollution Control Act [[33 U.S.C. 1270](./chapter-026-water-pollution-prevention-and-control.md#section-1270)], the Secretary of the Interior, acting through the heads of water resources divisions of the New York and New England districts of the United States Geological Survey, shall—“(1) in cooperation with appropriate universities and private research institutions, and the appropriate officials of the appropriate departments and agencies of the States of New York and Vermont, develop an integrated geographic information system of the Lake Champlain basin; “(2) convert all partial recording sites in the Lake Champlain basin to continuous monitoring stations with full gauging capabilities and status; and “(3) establish such additional continuous monitoring station sites in the Lake Champlain basin as are necessary to carry out basic data collection and monitoring, as defined by the Secretary of the Interior, including groundwater mapping, and water quality and sediment data collection. “(c) Cooperation of the United States Fish and Wildlife Service of the Department of the Interior.—“(1) Resource conservation program.—The Secretary of the Interior, acting through the United States Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—“(A) establish and implement a fisheries resources restoration, development and conservation program, including dedicating a level of hatchery production within the Lake Champlain basin at or above the level that existed immediately preceding the date of enactment of this Act [Nov. 16, 1990]; and “(B) conduct a wildlife species and habitat assessment survey in the Lake Champlain basin, including—“(i) a survey of Federal threatened and endangered species, listed or proposed for listing under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), New York State and State of Vermont threatened and endangered species and other species of special concern, migratory nongame species of management concern, and national resources plan species; “(ii) a survey of wildlife habitats such as islands, wetlands, and riparian areas; and “(iii) a survey of migratory bird populations breeding, migrating and wintering within the Lake Champlain basin. “(2) To accomplish the purposes of paragraph (1), the Director of the United States Fish and Wildlife Service is authorized to carry out activities related to—“(A) controlling sea lampreys and other nonindigenous aquatic animal nuisances; “(B) improving the health of fishery resources; “(C) conducting investigations about and assessing the status of fishery resources, and disseminating that information to all interested parties; and “(D) conducting and periodically updating a survey of the fishery resources and their habitats and food chains in the Lake Champlain basin. “(d) Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section. “(2) There is authorized to be appropriated to the Department of [the] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
+Section 304 of Pub. L. 101–596, as amended by Pub. L. 104–127, title III, § 336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 115–334, title II, § 2301(d)(2)(F), Dec. 20, 2018, 132 Stat. 4555, provided that: “(a) Designation of Lake Champlain as a Priority Area Under the Environmental Quality Incentives Program.—“(1) In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act [[33 U.S.C. 1270(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1270/h&num=0&edition=prelim)], shall be designated by the Secretary of Agriculture as a priority area under the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3839aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3839aa&num=0&edition=prelim) et seq.]. “(2) Technical assistance reimbursement.—To carry out the purposes of this subsection, the technical assistance reimbursement from the Agricultural Stabilization and Conservation Service authorized under the Soil Conservation and Domestic Allotment Act [[16 U.S.C. 590a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590a&num=0&edition=prelim) et seq.], shall be increased from 5 per centum to 10 per centum. “(3) Comprehensive agricultural monitoring.—The Secretary, in consultation with the Management Conference and appropriate State and Federal agencies, shall develop a comprehensive agricultural monitoring and evaluation network for all major drainages within the Lake Champlain basin. “(4) Allocation of funds.—In allocating funds under this subsection, the Secretary of Agriculture shall consult with the Management Conference established under section 120 of the Federal Water Pollution Control Act and to the extent allowable by law, allocate funds to those agricultural enterprises located at sites that the Management Conference determines to be priority sites, on the basis of a concern for ensuring implementation of nonpoint source pollution controls throughout the Lake Champlain basin. “(b) Cooperation of the United States Geological Survey of the Department of the Interior.—For the purpose of enhancing and expanding basic data collection and monitoring in operation in the Lake Champlain basin, as defined under section 120 of the Federal Water Pollution Control Act [[33 U.S.C. 1270](./chapter-026-water-pollution-prevention-and-control.md#section-1270)], the Secretary of the Interior, acting through the heads of water resources divisions of the New York and New England districts of the United States Geological Survey, shall—“(1) in cooperation with appropriate universities and private research institutions, and the appropriate officials of the appropriate departments and agencies of the States of New York and Vermont, develop an integrated geographic information system of the Lake Champlain basin; “(2) convert all partial recording sites in the Lake Champlain basin to continuous monitoring stations with full gauging capabilities and status; and “(3) establish such additional continuous monitoring station sites in the Lake Champlain basin as are necessary to carry out basic data collection and monitoring, as defined by the Secretary of the Interior, including groundwater mapping, and water quality and sediment data collection. “(c) Cooperation of the United States Fish and Wildlife Service of the Department of the Interior.—“(1) Resource conservation program.—The Secretary of the Interior, acting through the United States Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—“(A) establish and implement a fisheries resources restoration, development and conservation program, including dedicating a level of hatchery production within the Lake Champlain basin at or above the level that existed immediately preceding the date of enactment of this Act [Nov. 16, 1990]; and “(B) conduct a wildlife species and habitat assessment survey in the Lake Champlain basin, including—“(i) a survey of Federal threatened and endangered species, listed or proposed for listing under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), New York State and State of Vermont threatened and endangered species and other species of special concern, migratory nongame species of management concern, and national resources plan species; “(ii) a survey of wildlife habitats such as islands, wetlands, and riparian areas; and “(iii) a survey of migratory bird populations breeding, migrating and wintering within the Lake Champlain basin. “(2) To accomplish the purposes of paragraph (1), the Director of the United States Fish and Wildlife Service is authorized to carry out activities related to—“(A) controlling sea lampreys and other nonindigenous aquatic animal nuisances; “(B) improving the health of fishery resources; “(C) conducting investigations about and assessing the status of fishery resources, and disseminating that information to all interested parties; and “(D) conducting and periodically updating a survey of the fishery resources and their habitats and food chains in the Lake Champlain basin. “(d) Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section. “(2) There is authorized to be appropriated to the Department of [the] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
 
 
 <a id="section-1271"></a>
@@ -2276,6 +2349,8 @@ Subsecs. (c), (d). Pub. L. 113–121, § 5011(3)–(5), redesignated subsec. (d)
 
   (B) *Limitation* — None of the funds made available under this subsection may be used for the administration of a management conference under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
 
+(6) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $30,000,000 for each of fiscal years 2020 and 2021.
+
 **(e) Annual budget plan** The President, as part of the annual budget submission of the President to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), shall submit information regarding each Federal agency involved in protection and restoration of the Columbia River Basin, including an interagency crosscut budget that displays for each Federal agency—
 
 (1) the amounts obligated for the preceding fiscal year for protection and restoration projects, programs, and studies relating to the Columbia River Basin;
@@ -2283,6 +2358,11 @@ Subsecs. (c), (d). Pub. L. 113–121, § 5011(3)–(5), redesignated subsec. (d)
 (2) the estimated budget for the current fiscal year for protection and restoration projects, programs, and studies relating to the Columbia River Basin; and
 
 (3) the proposed budget for protection and restoration projects, programs, and studies relating to the Columbia River Basin.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (d)(6). Pub. L. 115–270 added par. (6).
 
 
 <a id="section-1281"></a>
@@ -3358,12 +3438,16 @@ The Reclamation Projects Authorization and Adjustment Act of 1992, referred to i
 
 
 <a id="section-1301"></a>
-## § 1301. Sewer overflow control grants
-**(a) In general** In any fiscal year in which the Administrator has available for obligation at least $1,350,000,000 for the purposes of [section 1381 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1381)—
+## § 1301. Sewer overflow and stormwater reuse municipal grants
+**(a) In general**
 
-(1) the Administrator may make grants to States for the purpose of providing grants to a municipality or municipal entity for planning, design, and construction of treatment works to intercept, transport, control, or treat municipal combined sewer overflows and sanitary sewer overflows; and
+(1) **Grants to States** — The Administrator may make grants to States for the purpose of providing grants to a municipality or municipal entity for planning, design, and construction of—
 
-(2) subject to subsection (g), the Administrator may make a direct grant to a municipality or municipal entity for the purposes described in paragraph (1).
+  (A) treatment works to intercept, transport, control, treat, or reuse municipal combined sewer overflows, sanitary sewer overflows, or stormwater; and
+
+  (B) any other measures to manage, reduce, treat, or recapture stormwater or subsurface drainage water eligible for assistance under [section 1383(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/c&num=0&edition=prelim).
+
+(2) **Direct municipal grants** — Subject to subsection (g), the Administrator may make a direct grant to a municipality or municipal entity for the purposes described in paragraph (1).
 
 **(b) Prioritization** In selecting from among municipalities applying for grants under subsection (a), a State or the Administrator shall give priority to an applicant that—
 
@@ -3385,19 +3469,19 @@ The Reclamation Projects Authorization and Adjustment Act of 1992, referred to i
 
 **(d) Cost-sharing** The Federal share of the cost of activities carried out using amounts from a grant made under subsection (a) shall be not less than 55 percent of the cost. The non-Federal share of the cost may include, in any amount, public and private funds and in-kind services, and may include, notwithstanding [section 1383(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/h&num=0&edition=prelim), financial assistance, including loans, from a State water pollution control revolving fund.
 
-**(e) Administrative reporting requirements** If a project receives grant assistance under subsection (a) and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.
+**(e) Administrative requirements** A project that receives assistance under this section shall be carried out subject to the same requirements as a project that receives assistance from a State water pollution control revolving fund under subchapter VI of this chapter, except to the extent that the Governor of the State in which the project is located determines that a requirement of subchapter VI of this chapter is inconsistent with the purposes of this section. For the purposes of this subsection, a Governor may not determine that the requirements of subchapter VI of this chapter relating to the application of [section 1372 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1372) are inconsistent with the purposes of this section.
 
-**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2002 and 2003. Such sums shall remain available until expended.
+**(f) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to carry out this section $225,000,000 for each of fiscal years 2019 through 2020.
+
+(2) **Minimum allocations** — To the extent there are sufficient eligible project applications, the Administrator shall ensure that a State uses not less than 20 percent of the amount of the grants made to the State under subsection (a) in a fiscal year to carry out projects to intercept, transport, control, treat, or reuse municipal combined sewer overflows, sanitary sewer overflows, or stormwater through the use of green infrastructure, water and energy efficiency improvements, and other environmentally innovative activities.
 
 **(g) Allocation of funds**
 
-(1) **Fiscal year 2002** — Subject to subsection (h), the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2002 for making grants to municipalities and municipal entities under subsection (a)(2), in accordance with the criteria set forth in subsection (b).
+(1) **Fiscal year 2019** — Subject to subsection (h), the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2019 for making grants to municipalities and municipal entities under subsection (a)(2) in accordance with the criteria set forth in subsection (b).
 
-(2) **Fiscal year 2003** — Subject to subsection (h), the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2003 as follows:
-
-  (A) Not to exceed $250,000,000 for making grants to municipalities and municipal entities under subsection (a)(2), in accordance with the criteria set forth in subsection (b).
-
-  (B) All remaining amounts for making grants to States under subsection (a)(1), in accordance with a formula to be established by the Administrator, after providing notice and an opportunity for public comment, that allocates to each State a proportional share of such amounts based on the total needs of the State for municipal combined sewer overflow controls and sanitary sewer overflow controls identified in the most recent survey conducted pursuant to [section 1375(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1375/b/1&num=0&edition=prelim).
+(2) **Fiscal year 2020 and thereafter** — Subject to subsection (h), the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2020 and each fiscal year thereafter for making grants to States under subsection (a)(1) in accordance with a formula to be established by the Administrator, after providing notice and an opportunity for public comment, that allocates to each State a proportional share of such amounts based on the total needs of the State for municipal combined sewer overflow controls, sanitary sewer overflow controls, and stormwater identified in the most recent detailed estimate and comprehensive study submitted pursuant to [section 1375 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1375) and any other information the Administrator considers appropriate.
 
 **(h) Administrative expenses** Of the amounts appropriated to carry out this section for each fiscal year—
 
@@ -3408,6 +3492,17 @@ The Reclamation Projects Authorization and Adjustment Act of 1992, referred to i
 **(i) Reports** Not later than December 31, 2003, and periodically thereafter, the Administrator shall transmit to Congress a report containing recommended funding levels for grants under this section. The recommended funding levels shall be sufficient to ensure the continued expeditious implementation of municipal combined sewer overflow and sanitary sewer overflow controls nationwide.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–270, § 4106(1), substituted “Sewer overflow and stormwater reuse municipal grants” for “Sewer overflow control grants” in section catchline.
+
+Subsec. (a). Pub. L. 115–270, § 4106(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to purposes for making sewer overflow control grants to States, municipalities, and municipal entities.
+
+Subsec. (e). Pub. L. 115–270, § 4106(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “If a project receives grant assistance under subsection (a) and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.”
+
+Subsec. (f). Pub. L. 115–270, § 4106(4), amended subsec. (f) generally, Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2002 and 2003. Such sums shall remain available until expended.”
+
+Subsec. (g). Pub. L. 115–270, § 4106(5), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to allocation of funds.
 
 #### Information on CSOS and SSOS
 Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–227, provided that: “(1) Report to congress.—Not later than 3 years after the date of enactment of this Act [Dec. 21, 2000], the Administrator of the Environmental Protection Agency shall transmit to Congress a report summarizing—“(A) the extent of the human health and environmental impacts caused by municipal combined sewer overflows and sanitary sewer overflows, including the location of discharges causing such impacts, the volume of pollutants discharged, and the constituents discharged; “(B) the resources spent by municipalities to address these impacts; and “(C) an evaluation of the technologies used by municipalities to address these impacts. “(2) Technology clearinghouse.—After transmitting a report under paragraph (1), the Administrator shall maintain a clearinghouse of cost-effective and efficient technologies for addressing human health and environmental impacts due to municipal combined sewer overflows and sanitary sewer overflows.”
@@ -4109,6 +4204,36 @@ Pub. L. 95–217, § 73, Dec. 27, 1977, 91 Stat. 1609, directed Administrator, w
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 
+<a id="section-1314a"></a>
+## § 1314a. Wastewater technology clearinghouse
+**(a) In general**
+
+(1) **In general** — The Administrator of the Environmental Protection Agency shall—
+
+  (A) for each of the programs described in paragraph (2), update the information for those programs to include information on cost-effective and alternative wastewater recycling and treatment technologies, including onsite and decentralized systems; and
+
+  (B) disseminate to units of local government and nonprofit organizations seeking Federal funds for wastewater technology information on the cost effectiveness of alternative wastewater treatment and recycling technologies, including onsite and decentralized systems.
+
+(2) **Programs described** — The programs referred to in paragraph (1)(A) are programs that provide technical assistance for wastewater management, including—
+
+  (A) programs for nonpoint source management under [section 1329 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1329); and
+
+  (B) the permit program for the disposal of sewer sludge under [section 1345 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1345).
+
+**(b) Report to Congress** Not later than 1 year after October 23, 2018, and not less frequently than every 3 years thereafter, the Administrator of the Environmental Protection Agency shall submit to Congress a report that describes—
+
+(1) the type and amount of information provided under subsection (a) to units of local government and nonprofit organizations regarding alternative wastewater treatment and recycling technologies;
+
+(2) the States and regions that have made greatest use of alternative wastewater treatment and recycling technologies; and
+
+(3) the actions taken by the Administrator to assist States in the deployment of alternative wastewater treatment and recycling technologies, including onsite and decentralized systems.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the America’s Water Infrastructure Act of 2018, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
+
+
 <a id="section-1315"></a>
 ## § 1315. State reports on water quality
 **(a)** Omitted
@@ -4286,7 +4411,7 @@ Subsec. (d). Pub. L. 100–4, § 310(b), added subsec. (d).
 
   (B) by bringing a civil action under subsection (b) of this section.
 
-(3) Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by him or by a State or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
+(3) Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by him or by a State or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
 
 (4) A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State in which the violation occurs and other affected States. In any case in which an order under this subsection (or notice to a violator under paragraph (1) of this subsection) is issued to a corporation, a copy of such order (or notice) shall be served on any appropriate corporate officers. An order issued under this subsection relating to a violation of [section 1318 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1318) shall not take effect until the person to whom it is issued has had an opportunity to confer with the Administrator concerning the alleged violation.
 
@@ -4304,21 +4429,21 @@ Subsec. (d). Pub. L. 100–4, § 310(b), added subsec. (d).
 
 (1) **Negligent violations** — Any person who—
 
-  (A) negligently violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by the Secretary of the Army or by a State; or
+  (A) negligently violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by the Secretary of the Army or by a State; or
 
   (B) negligently introduces into a sewer system or into a publicly owned treatment works any pollutant or hazardous substance which such person knew or reasonably should have known could cause personal injury or property damage or, other than in compliance with all applicable Federal, State, or local requirements or permits, which causes such treatment works to violate any effluent limitation or condition in any permit issued to the treatment works under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or a State;
   shall be punished by a fine of not less than $2,500 nor more than $25,000 per day of violation, or by imprisonment for not more than 1 year, or by both. If a conviction of a person is for a violation committed after a first conviction of such person under this paragraph, punishment shall be by a fine of not more than $50,000 per day of violation, or by imprisonment of not more than 2 years, or by both.
 
 (2) **Knowing violations** — Any person who—
 
-  (A) knowingly violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by the Secretary of the Army or by a State; or
+  (A) knowingly violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by the Secretary of the Army or by a State; or
 
   (B) knowingly introduces into a sewer system or into a publicly owned treatment works any pollutant or hazardous substance which such person knew or reasonably should have known could cause personal injury or property damage or, other than in compliance with all applicable Federal, State, or local requirements or permits, which causes such treatment works to violate any effluent limitation or condition in a permit issued to the treatment works under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or a State;
   shall be punished by a fine of not less than $5,000 nor more than $50,000 per day of violation, or by imprisonment for not more than 3 years, or by both. If a conviction of a person is for a violation committed after a first conviction of such person under this paragraph, punishment shall be by a fine of not more than $100,000 per day of violation, or by imprisonment of not more than 6 years, or by both.
 
 (3) **Knowing endangerment**
 
-  (A) *General rule* — Any person who knowingly violates section 1311, 1312, 1313, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or by a State, or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by the Secretary of the Army or by a State, and who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment of not more than 15 years, or both. A person which is an organization shall, upon conviction of violating this subparagraph, be subject to a fine of not more than $1,000,000. If a conviction of a person is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment shall be doubled with respect to both fine and imprisonment.
+  (A) *General rule* — Any person who knowingly violates section 1311, 1312, 1313, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or by a State, or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by the Secretary of the Army or by a State, and who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment of not more than 15 years, or both. A person which is an organization shall, upon conviction of violating this subparagraph, be subject to a fine of not more than $1,000,000. If a conviction of a person is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment shall be doubled with respect to both fine and imprisonment.
 
   (B) *Additional provisions* — For the purpose of subparagraph (A) of this paragraph—
 
@@ -4348,7 +4473,7 @@ Subsec. (d). Pub. L. 100–4, § 310(b), added subsec. (d).
 
 (7) **Hazardous substance defined** — For the purpose of this subsection, the term “hazardous substance” means (A) any substance designated pursuant to [section 1321(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/b/2/A&num=0&edition=prelim), (B) any element, compound, mixture, solution, or substance designated pursuant to [section 9602 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9602&num=0&edition=prelim), (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act [[42 U.S.C. 6921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6921&num=0&edition=prelim)] (but not including any waste the regulation of which under the Solid Waste Disposal Act [[42 U.S.C. 6901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) et seq.] has been suspended by Act of Congress), (D) any toxic pollutant listed under [section 1317(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1317/a&num=0&edition=prelim), and (E) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to [section 2606 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2606&num=0&edition=prelim).
 
-**(d) Civil penalties; factors considered in determining amount** Any person who violates section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator, or by a State, or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by a State,,11 So in original. or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title, and any person who violates any order issued by the Administrator under subsection (a) of this section, shall be subject to a civil penalty not to exceed $25,000 per day for each violation. In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.
+**(d) Civil penalties; factors considered in determining amount** Any person who violates section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328,,11 So in original. or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator, or by a State, or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title, and any person who violates any order issued by the Administrator under subsection (a) of this section, shall be subject to a civil penalty not to exceed $25,000 per day for each violation. In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.
 
 **(e) State liability for judgments and expenses** Whenever a municipality is a party to a civil action brought by the United States under this section, the State in which such municipality is located shall be joined as a party. Such State shall be liable for payment of any judgment, or any expenses incurred as a result of complying with any judgment, entered against the municipality in such action to the extent that the laws of that State prevent the municipality from raising revenues needed to comply with such judgment.
 
@@ -4358,7 +4483,7 @@ Subsec. (d). Pub. L. 100–4, § 310(b), added subsec. (d).
 
 (1) **Violations** — Whenever on the basis of any information available—
 
-  (A) the Administrator finds that any person has violated section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or has violated any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or by a State, or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by a State, or
+  (A) the Administrator finds that any person has violated section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328, or 1345 of this title, or has violated any permit condition or limitation implementing any of such sections in a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) by the Administrator or by a State, or in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by a State, or
 
   (B) the Secretary of the Army (hereinafter in this subsection referred to as the “Secretary”) finds that any person has violated any permit condition or limitation in a permit issued under [section 1344 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1344) by the Secretary,
   the Administrator or Secretary, as the case may be, may, after consultation with the State in which the violation occurs, assess a class I civil penalty or a class II civil penalty under this subsection.
@@ -4418,12 +4543,28 @@ Subsec. (d). Pub. L. 100–4, § 310(b), added subsec. (d).
 
 (11) **Protection of existing procedures** — Nothing in this subsection shall change the procedures existing on the day before February 4, 1987, under other subsections of this section for issuance and enforcement of orders by the Administrator.
 
+**(h) Implementation of integrated plans**
+
+(1) **In general** — In conjunction with an enforcement action under subsection (a) or (b) relating to municipal discharges, the Administrator shall inform a municipality of the opportunity to develop an integrated plan, as defined in [section 1342(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342/s&num=0&edition=prelim).
+
+(2) **Modification** — Any municipality under an administrative order under subsection (a) or settlement agreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with [section 1342(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342/s&num=0&edition=prelim) may request a modification of the administrative order or settlement agreement based on that integrated plan.
+
 ### Statutory Notes
 
 #### References in Text
 The Solid Waste Disposal Act, referred to in subsec. (c)(7), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2019—Subsec. (h). Pub. L. 115–436 added subsec. (h).
+
+2018—Subsec. (a)(3). Pub. L. 115–282, § 903(c)(2)(A), substituted “1322(p), 1328” for “1328”.
+
+Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 115–282, § 903(c)(2)(B), substituted “1322(p), 1328” for “1328”.
+
+Subsec. (d). Pub. L. 115–282, § 903(c)(2)(C), substituted “1322(p), 1328,” for “1328” and “State,” for “State,,”.
+
+Subsec. (g)(1)(A). Pub. L. 115–282, § 903(c)(2)(D), substituted “1322(p), 1328” for “1328”.
+
 1990—Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 101–380 inserted “1321(b)(3),” after “1318,”.
 
 1987—Subsec. (c). Pub. L. 100–4, § 312, amended subsec. (c) generally, revising provisions of par. (1), adding pars. (2), (3), (5), and (7), redesignating former pars. (2) and (4) as (3) and (6), respectively, and revising provisions of redesignated par. (4).
@@ -4512,7 +4653,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (10) “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
 
-(11) “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel;
+(11) “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel, and, for the purposes of applying subsections (b), (c), (e), and (o), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act 22 See References in Text note below.) or any other facility located seaward of the exclusive economic zone;
 
 (12) “act of God” means an act occasioned by an unanticipated grave natural disaster;
 
@@ -4558,7 +4699,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (C) carries oil of any kind as fuel for main propulsion; and
 
-  (D) operates on the navigable waters of the United States, as defined in section 2101(17a) of that title;
+  (D) operates on the navigable waters of the United States, as defined in section 2101(23) of that title;
 
 (27) the term “best available science” means science that—
 
@@ -4687,7 +4828,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (A) the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim);
 
-  (B) a permit to proceed under section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313); 22 See References in Text note below. and
+  (B) a permit to proceed under section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313); 2 and
 
   (C) a permit to depart required under section 1443 2 of title 19;
   as applicable. Clearance or a permit refused or revoked under this paragraph may be granted upon the filing of a bond or other surety satisfactory to the Secretary of the department in which the Coast Guard is operating or the Administrator.
@@ -5466,6 +5607,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
+Section 1001 of the Oil Pollution Act, referred to in subsec. (a)(11), probably means section 1001 of Pub. L. 101–380, known as the Oil Pollution Act of 1990, which is classified to [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
+
 The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsecs. (a)(35) and (t)(2)(C)(vii)(IV), (VII)(ee), (D)(ii)(III), (IV)(bb), (E)(ii)(II), (4)(A), is subtitle F (§§ 1601–1608) of title I of div. A of Pub. L. 112–141, July 6, 2012, 126 Stat. 588, which is set out as a note below.
 
 The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
@@ -5498,6 +5641,10 @@ The Federal Advisory Committee Act, referred to in subsec. (t)(2)(C)(viii), is P
 In subsec. (b)(12)(A), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
 
 #### Amendments
+2018—Subsec. (a)(26)(D). Pub. L. 115–232 substituted “section 2101(23)” for “section 2101(17a)”.
+
+2017—Subsec. (a)(11). Pub. L. 115–91 substituted “any facility” for “and any facility” and inserted “, and, for the purposes of applying subsections (b), (c), (e), and (o), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act) or any other facility located seaward of the exclusive economic zone” after “public vessel”.
+
 2014—Subsec. (j)(4)(A). Pub. L. 113–281, § 313(1), substituted “qualified—” for “qualified personnel of Federal, State, and local agencies.” in introductory provisions and added cls. (i) and (ii).
 
 Subsec. (j)(4)(B)(ii). Pub. L. 113–281, § 313(2), substituted “, local, and tribal” for “and local” and “wildlife, including advance planning with respect to the closing and reopening of fishing areas following a discharge;” for “wildlife;”.
@@ -5741,6 +5888,8 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Coast Guard Response Plan Requirements
+Pub. L. 115–282, title VIII, § 823(a), Dec. 4, 2018, 132 Stat. 4311, provided that: “(1) In general.—For purposes of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701) et seq.), the Commandant of the Coast Guard may approve a vessel response plan under section 311 of the Federal Water Pollution Control Act ([33 U.S.C. 1321](./chapter-026-water-pollution-prevention-and-control.md#section-1321)) for a vessel operating in any area covered by the Captain of the Port Zone (as established by the Commandant) that includes the Arctic, if the Commandant verifies that—“(A) equipment required to be available for response under the plan has been tested and proven capable of operating in the environmental conditions expected in the area in which it is intended to be operated; and “(B) the operators of such equipment have conducted training on the equipment within the area covered by such Captain of the Port Zone. “(2) Post-approval requirements.—In approving a vessel response plan under paragraph (1), the Commandant shall—“(A) require that the oil spill removal organization identified in the vessel response plan conduct regular exercises and drills using the response resources identified in the plan in the area covered by the Captain of the Port Zone that includes the Arctic; and “(B) allow such oil spill removal organization to take credit for a response to an actual spill or release in the area covered by such Captain of the Port Zone, instead of conducting an exercise or drill required under subparagraph (A), if the oil spill removal organization—“(i) documents which exercise or drill requirements were met during the response; and “(ii) submits a request for credit to, and receives approval from, the Commandant.”
+
 Pub. L. 113–281, title III, § 317, Dec. 18, 2014, 128 Stat. 3050, provided that: “(a) Vessel Response Plan Contents.—The Secretary of the department in which the Coast Guard is operating shall require that each vessel response plan prepared for a mobile offshore drilling unit includes information from the facility response plan prepared for the mobile offshore drilling unit regarding the planned response to a worst case discharge, and to a threat of such a discharge. “(b) Definitions.—In this section:“(1) Mobile offshore drilling unit.—The term ‘mobile offshore drilling unit’ has the meaning given that term in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701)). “(2) Response plan.—The term ‘response plan’ means a response plan prepared under section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)). “(3) Worst case discharge.—The term ‘worst case discharge’ has the meaning given that term under section 311(a) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/a&num=0&edition=prelim)). “(c) Rule of Construction.—Nothing in this section shall be construed to require the Coast Guard to review or approve a facility response plan for a mobile offshore drilling unit.”
 
 #### Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States
@@ -6028,8 +6177,8 @@ Section was enacted as part of the Coast Guard Authorization Act of 2010, and no
 
 
 <a id="section-1322"></a>
-## § 1322. Marine sanitation devices
-**(a) Definitions** For the purpose of this section, the term—
+## § 1322. Marine sanitation devices; discharges incidental to the normal operation of vessels
+**(a) Definitions** In this section, the term—
 
 (1) “new vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on the navigable waters, the construction of which is initiated after promulgation of standards and regulations under this section;
 
@@ -6043,7 +6192,7 @@ Section was enacted as part of the Coast Guard Authorization Act of 2010, and no
 
 (6) “sewage” means human body wastes and the wastes from toilets and other receptacles intended to receive or retain body wastes except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater;
 
-(7) “manufacturer” means any person engaged in the manufacturing, assembling, or importation of marine sanitation devices or of vessels subject to standards and regulations promulgated under this section;
+(7) “manufacturer” means any person engaged in the manufacturing, assembling, or importation of marine sanitation devices, marine pollution control device equipment, or vessels subject to standards and regulations promulgated under this section;
 
 (8) “person” means an individual, partnership, firm, corporation, association, or agency of the United States, but does not include an individual on board a public vessel;
 
@@ -6069,7 +6218,7 @@ Section was enacted as part of the Coast Guard Authorization Act of 2010, and no
 
     (iii) a discharge that is not covered by part 122.3 of title 40, Code of Federal Regulations (as in effect on February 10, 1996);
 
-(13) “marine pollution control device” means any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
+(13) “marine pollution control device” means, except as provided in subsection (p), any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
 
   (A) designed to receive, retain, treat, control, or discharge a discharge incidental to the normal operation of a vessel; and
 
@@ -6121,27 +6270,71 @@ Section was enacted as part of the Coast Guard Authorization Act of 2010, and no
 
 **(g) Sales limited to certified devices; certification of test device; recordkeeping; reports**
 
-(1) No manufacturer of a marine sanitation device shall sell, offer for sale, or introduce or deliver for introduction in interstate commerce, or import into the United States for sale or resale any marine sanitation device manufactured after the effective date of the standards and regulations promulgated under this section unless such device is in all material respects substantially the same as a test device certified under this subsection.
+(1) No manufacturer of a marine sanitation device or marine pollution control device equipment shall sell, offer for sale, or introduce or deliver for introduction in interstate commerce, or import into the United States for sale or resale any marine sanitation device or marine pollution control device equipment manufactured after the effective date of the standards and regulations promulgated under this section unless such device or equipment is in all material respects substantially the same as a test device or equipment certified under this subsection.
 
-(2) Upon application of the manufacturer, the Secretary of the department in which the Coast Guard is operating shall so certify a marine sanitation device if he determines, in accordance with the provisions of this paragraph, that it meets the appropriate standards and regulations promulgated under this section. The Secretary of the department in which the Coast Guard is operating shall test or require such testing of the device in accordance with procedures set forth by the Administrator as to standards of performance and for such other purposes as may be appropriate. If the Secretary of the department in which the Coast Guard is operating determines that the device is satisfactory from the standpoint of safety and any other requirements of maritime law or regulation, and after consideration of the design, installation, operation, material, or other appropriate factors, he shall certify the device. Any device manufactured by such manufacturer which is in all material respects substantially the same as the certified test device shall be deemed to be in conformity with the appropriate standards and regulations established under this section.
+(2) Upon application of the manufacturer, the Secretary of the department in which the Coast Guard is operating shall so certify a marine sanitation device or marine pollution control device equipment if he determines, in accordance with the provisions of this paragraph, that it meets the appropriate standards and regulations promulgated under this section. The Secretary of the department in which the Coast Guard is operating shall test or require such testing of the device or equipment in accordance with procedures set forth by the Administrator as to standards of performance and for such other purposes as may be appropriate. If the Secretary of the department in which the Coast Guard is operating determines that the device or equipment is satisfactory from the standpoint of safety and any other requirements of maritime law or regulation, and after consideration of the design, installation, operation, material, or other appropriate factors, he shall certify the device or equipment. Any device or equipment manufactured by such manufacturer which is in all material respects substantially the same as the certified test device or equipment shall be deemed to be in conformity with the appropriate standards and regulations established under this section.
 
 (3) Every manufacturer shall establish and maintain such records, make such reports, and provide such information as the Administrator or the Secretary of the department in which the Coast Guard is operating may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this section and regulations issued thereunder and shall, upon request of an officer or employee duly designated by the Administrator or the Secretary of the department in which the Coast Guard is operating, permit such officer or employee at reasonable times to have access to and copy such records. All information reported to or otherwise obtained by the Administrator or the Secretary of the Department in which the Coast Guard is operating or their representatives pursuant to this subsection which contains or relates to a trade secret or other matter referred to in [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim) shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this section. This paragraph shall not apply in the case of the construction of a vessel by an individual for his own use.
 
-**(h) Sale and resale of properly equipped vessels; operability of certified marine sanitation devices** After the effective date of standards and regulations promulgated under this section, it shall be unlawful—
+**(h) Sale and resale of properly equipped vessels; operability of certified marine sanitation devices**
 
-(1) for the manufacturer of any vessel subject to such standards and regulations to manufacture for sale, to sell or offer for sale, or to distribute for sale or resale any such vessel unless it is equipped with a marine sanitation device which is in all material respects substantially the same as the appropriate test device certified pursuant to this section;
+(1) **In general** — Subject to paragraph (2), after the effective date of standards and regulations promulgated under this section, it shall be unlawful—
 
-(2) for any person, prior to the sale or delivery of a vessel subject to such standards and regulations to the ultimate purchaser, wrongfully to remove or render inoperative any certified marine sanitation device or element of design of such device installed in such vessel;
+  (A) for the manufacturer of any vessel subject to such standards and regulations to manufacture for sale, to sell or offer for sale, or to distribute for sale or resale any such vessel unless it is equipped with a marine sanitation device and marine pollution control device equipment which is in all material respects substantially the same as the appropriate test device certified pursuant to this section;
 
-(3) for any person to fail or refuse to permit access to or copying of records or to fail to make reports or provide information required under this section; and
+  (B) for any person, prior to the sale or delivery of a vessel subject to such standards and regulations to the ultimate purchaser, wrongfully to remove or render inoperative any certified marine sanitation device or element of design of such device or any certified marine pollution control device equipment or element of design of such equipment installed in such vessel;
 
-(4) for a vessel subject to such standards and regulations to operate on the navigable waters of the United States, if such vessel is not equipped with an operable marine sanitation device certified pursuant to this section.
+  (C) for any person to fail or refuse to permit access to or copying of records or to fail to make reports or provide information required under this section; and
+
+  (D) for a vessel subject to such standards and regulations to operate on the navigable waters of the United States, if such vessel is not equipped with an operable marine sanitation device certified pursuant to this section.
+
+(2) **Effect of subsection** — Nothing in this subsection requires certification of a marine pollution control device for use on any vessel of the Armed Forces.
 
 **(i) Jurisdiction to restrain violations; contempts** The district courts of the United States shall have jurisdictions to restrain violations of subsection (g)(1) of this section and subsections (h)(1) through (3) of this section. Actions to restrain such violations shall be brought by, and in, the name of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony or to appear and produce documents, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 **(j) Penalties** Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
-**(k) Enforcement authority** The provisions of this section shall be enforced by the Secretary of the department in which the Coast Guard is operating and he may utilize by agreement, with or without reimbursement, law enforcement officers or other personnel and facilities of the Administrator, other Federal agencies, or the States to carry out the provisions of this section. The provisions of this section may also be enforced by a State.
+**(k) Enforcement authority**
+
+(1) **Administrator** — This section shall be enforced by the Administrator, to the extent provided in [section 1319 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1319).
+
+(2) **Secretary**
+
+  (A) *In general* — This section shall be enforced by the Secretary of the department in which the Coast Guard is operating, who may use, by agreement, with or without reimbursement, law enforcement officers or other personnel and facilities of the Administrator, other Federal agencies, or the States to carry out the provisions of this section.
+
+  (B) *Inspections* — For purposes of ensuring compliance with this section, the Secretary—
+
+    (i) may carry out an inspection (including the taking of ballast water samples) of any vessel at any time; and
+
+    (ii) shall—
+
+      (I) establish procedures for—
+
+        (aa) reporting violations of this section; and
+
+        (bb) accumulating evidence regarding those violations; and
+
+      (II) use appropriate and practicable measures of detection and environmental monitoring of vessels.
+
+  (C) *Detention* — The Secretary may detain a vessel if the Secretary—
+
+    (i) has reasonable cause to believe that the vessel—
+
+      (I) has failed to comply with an applicable requirement of this section; or
+
+      (II) is being operated in violation of such a requirement; and
+
+    (ii) the Secretary provides to the owner or operator of the vessel a notice of the intent to detain.
+
+(3) **States**
+
+  (A) *In general* — This section may be enforced by a State or political subdivision of a State (including the attorney general of a State), including by filing a civil action in an appropriate Federal district court to enforce any violation of subsection (p).
+
+  (B) *Jurisdiction* — The appropriate Federal district court shall have jurisdiction with respect to a civil action filed pursuant to subparagraph (A), without regard to the amount in controversy or the citizenship of the parties—
+
+    (i) to enforce the requirements of this section; and
+
+    (ii) to apply appropriate civil penalties under this section or [section 1319(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1319/d&num=0&edition=prelim), as appropriate.
 
 **(l) Boarding and inspection of vessels; execution of warrants and other process** Anyone authorized by the Secretary of the department in which the Coast Guard is operating to enforce the provisions of this section may, except as to public vessels, (1) board and inspect any vessel upon the navigable waters of the United States and (2) execute any warrant or other process issued by an officer or court of competent jurisdiction.
 
@@ -6347,12 +6540,1036 @@ Section was enacted as part of the Coast Guard Authorization Act of 2010, and no
 
 (6) **Prohibition relating to recreational vessels** — After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
 
+**(p) Uniform national standards for discharges incidental to normal operation of vessels**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Aquatic nuisance species* — The term “aquatic nuisance species” means a nonindigenous species that threatens—
+
+    (i) the diversity or abundance of a native species;
+
+    (ii) the ecological stability of—
+
+      (I) waters of the United States; or
+
+      (II) waters of the contiguous zone; or
+
+    (iii) a commercial, agricultural, aquacultural, or recreational activity that is dependent on—
+
+      (I) waters of the United States; or
+
+      (II) waters of the contiguous zone.
+
+  (B) *Ballast water*
+
+    (i) *In general* — The term “ballast water” means any water, suspended matter, and other materials taken onboard a vessel—
+
+      (I) to control or maintain trim, draught, stability, or stresses of the vessel, regardless of the means by which any such water or suspended matter is carried; or
+
+      (II) during the cleaning, maintenance, or other operation of a ballast tank or ballast water management system of the vessel.
+
+    (ii) *Exclusion* — The term “ballast water” does not include any substance that is added to the water described in clause (i) that is directly related to the operation of a properly functioning ballast water management system.
+
+  (C) *Ballast water discharge standard* — The term “ballast water discharge standard” means—
+
+    (i) the numerical ballast water discharge standard established by section 151.1511 or 151.2030 of title 33, Code of Federal Regulations (or successor regulations); or
+
+    (ii) if a standard referred to in clause (i) is superseded by a numerical standard of performance under this subsection, that superseding standard.
+
+  (D) *Ballast water exchange* — The term “ballast water exchange” means the replacement of water in a ballast water tank using 1 of the following methods:
+
+    (i) Flow-through exchange, in which ballast water is flushed out by pumping in midocean water at the bottom of the tank if practicable, and continuously overflowing the tank from the top, until 3 full volumes of water have been changed to minimize the number of original organisms remaining in the tank.
+
+    (ii) Empty and refill exchange, in which ballast water taken on in ports, estuarine waters, or territorial waters is pumped out until the pump loses suction, after which the ballast tank is refilled with midocean water.
+
+  (E) *Ballast water management system* — The term “ballast water management system” means any marine pollution control device (including all ballast water treatment equipment, ballast tanks, pipes, pumps, and all associated control and monitoring equipment) that processes ballast water—
+
+    (i) to kill, render nonviable, or remove organisms; or
+
+    (ii) to avoid the uptake or discharge of organisms.
+
+  (F) *Best available technology economically achievable* — The term “best available technology economically achievable” means—
+
+    (i) best available technology economically achievable (within the meaning of [section 1311(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1311/b/2/A&num=0&edition=prelim));
+
+    (ii) best available technology (within the meaning of [section 1314(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1314/b/2/B&num=0&edition=prelim)); and
+
+    (iii) best available technology, as determined in accordance with section 125.3(d)(3) of title 40, Code of Federal Regulations (or successor regulations).
+
+  (G) *Best conventional pollutant control technology* — The term “best conventional pollutant control technology” means—
+
+    (i) best conventional pollutant control technology (within the meaning of [section 1311(b)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1311/b/2/E&num=0&edition=prelim));
+
+    (ii) best conventional pollutant control technology (within the meaning of [section 1314(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1314/b/4&num=0&edition=prelim)); and
+
+    (iii) best conventional pollutant control technology, as determined in accordance with section 125.3(d)(2) of title 40, Code of Federal Regulations (or successor regulations).
+
+  (H) *Best management practice*
+
+    (i) *In general* — The term “best management practice” means a schedule of activities, prohibitions of practices, maintenance procedures, and other management practices to prevent or reduce the pollution of—
+
+      (I) the waters of the United States; or
+
+      (II) the waters of the contiguous zone.
+
+    (ii) *Inclusions* — The term “best management practice” includes any treatment requirement, operating procedure, or practice to control—
+
+      (I) vessel runoff;
+
+      (II) spillage or leaks;
+
+      (III) sludge or waste disposal; or
+
+      (IV) drainage from raw material storage.
+
+  (I) *Best practicable control technology currently available* — The term “best practicable control technology currently available” means—
+
+    (i) best practicable control technology currently available (within the meaning of [section 1311(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1311/b/1/A&num=0&edition=prelim));
+
+    (ii) best practicable control technology currently available (within the meaning of [section 1314(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1314/b/1&num=0&edition=prelim)); and
+
+    (iii) best practicable control technology currently available, as determined in accordance with section 125.3(d)(1) of title 40, Code of Federal Regulations (or successor regulations).
+
+  (J) *Captain of the Port Zone* — The term “Captain of the Port Zone” means a Captain of the Port Zone established by the Secretary pursuant to sections 92, 93, and 633 11 See References to Redesignated Sections of Title 14 note below. of title 14.
+
+  (K) *Empty ballast tank* — The term “empty ballast tank” means a tank that—
+
+    (i) has previously held ballast water that has been drained to the limit of the functional or operational capabilities of the tank (such as loss of suction);
+
+    (ii) is recorded as empty on a vessel log; and
+
+    (iii) contains unpumpable residual ballast water and sediment.
+
+  (L) *Great Lakes Commission* — The term “Great Lakes Commission” means the Great Lakes Commission established by article IV A of the Great Lakes Compact 22 So in original. Probably should be “Great Lakes Basin Compact”. to which Congress granted consent in the Act of July 24, 1968 (Public Law 90–419; 82 Stat. 414).
+
+  (M) *Great Lakes State* — The term “Great Lakes State” means any of the States of—
+
+    (i) Illinois;
+
+    (ii) Indiana;
+
+    (iii) Michigan;
+
+    (iv) Minnesota;
+
+    (v) New York;
+
+    (vi) Ohio;
+
+    (vii) Pennsylvania; and
+
+    (viii) Wisconsin.
+
+  (N) *Great Lakes System* — The term “Great Lakes System” has the meaning given the term in [section 1268(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/a/3&num=0&edition=prelim).
+
+  (O) *Internal waters* — The term “internal waters” has the meaning given the term in section 2.24 of title 33, Code of Federal Regulations (or a successor regulation).
+
+  (P) *Marine pollution control device* — The term “marine pollution control device” means any equipment or management practice (or combination of equipment and a management practice), for installation or use onboard a vessel, that is—
+
+    (i) designed to receive, retain, treat, control, or discharge a discharge incidental to the normal operation of a vessel; and
+
+    (ii) determined by the Administrator and the Secretary to be the most effective equipment or management practice (or combination of equipment and a management practice) to reduce the environmental impacts of the discharge, consistent with the factors for consideration described in paragraphs (4) and (5).
+
+  (Q) *Nonindigenous species* — The term “nonindigenous species” means an organism of a species that enters an ecosystem beyond the historic range of the species.
+
+  (R) *Organism* — The term “organism” includes—
+
+    (i) an animal, including fish and fish eggs and larvae;
+
+    (ii) a plant;
+
+    (iii) a pathogen;
+
+    (iv) a microbe;
+
+    (v) a virus;
+
+    (vi) a prokaryote (including any archean or bacterium);
+
+    (vii) a fungus; and
+
+    (viii) a protist.
+
+  (S) *Pacific Region*
+
+    (i) *In general* — The term “Pacific Region” means any Federal or State water—
+
+      (I) adjacent to the State of Alaska, California, Hawaii, Oregon, or Washington; and
+
+      (II) extending from shore.
+
+    (ii) *Inclusion* — The term “Pacific Region” includes the entire exclusive economic zone (as defined in [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701)) adjacent to each State described in clause (i)(I).
+
+  (T) *Port or place of destination* — The term “port or place of destination” means a port or place to which a vessel is bound to anchor or moor.
+
+  (U) *Render nonviable* — The term “render nonviable”, with respect to an organism in ballast water, means the action of a ballast water management system that renders the organism permanently incapable of reproduction following treatment.
+
+  (V) *Saltwater flush*
+
+    (i) *In general* — The term “saltwater flush” means—
+
+      (I)
+
+        (aa) the addition of as much midocean water into each empty ballast tank of a vessel as is safe for the vessel and crew; and
+
+        (bb) the mixing of the flushwater with residual ballast water and sediment through the motion of the vessel; and
+
+      (II) the discharge of that mixed water, such that the resultant residual water remaining in the tank—
+
+        (aa) has the highest salinity possible; and
+
+        (bb) is at least 30 parts per thousand.
+
+    (ii) *Multiple sequences* — For purposes of clause (i), a saltwater flush may require more than 1 fill-mix-empty sequence, particularly if only small quantities of water can be safely taken onboard a vessel at 1 time.
+
+  (W) *Secretary* — The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
+
+  (X) *Small Vessel General Permit* — The term “Small Vessel General Permit” means the permit that is the subject of the notice of final permit issuance entitled “Final National Pollutant Discharge Elimination System (NPDES) Small Vessel General Permit for Discharges Incidental to the Normal Operation of Vessels Less Than 79 Feet” (79 Fed. Reg. 53702 (September 10, 2014)).
+
+  (Y) *Small vessel or fishing vessel* — The term “small vessel or fishing vessel” means a vessel that is—
+
+    (i) less than 79 feet in length; or
+
+    (ii) a fishing vessel, fish processing vessel, or fish tender vessel (as those terms are defined in [section 2101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim)), regardless of the length of the vessel.
+
+  (Z) *Vessel General Permit* — The term “Vessel General Permit” means the permit that is the subject of the notice of final permit issuance entitled “Final National Pollutant Discharge Elimination System (NPDES) General Permit for Discharges Incidental to the Normal Operation of a Vessel” (78 Fed. Reg. 21938 (April 12, 2013)).
+
+(2) **Applicability**
+
+  (A) *In general* — Except as provided in subparagraph (B), this subsection applies to—
+
+    (i) any discharge incidental to the normal operation of a vessel; and
+
+    (ii) any discharge incidental to the normal operation of a vessel (such as most graywater) that is commingled with sewage, subject to the conditions that—
+
+      (I) nothing in this subsection prevents a State from regulating sewage discharges; and
+
+      (II) any such commingled discharge shall comply with all applicable requirements of—
+
+        (aa) this subsection; and
+
+        (bb) any law applicable to discharges of sewage.
+
+  (B) *Exclusion* — This subsection does not apply to any discharge incidental to the normal operation of a vessel—
+
+    (i) from—
+
+      (I) a vessel of the Armed Forces subject to subsection (n);
+
+      (II) a recreational vessel subject to subsection (o);
+
+      (III) a small vessel or fishing vessel, except that this subsection shall apply to any discharge of ballast water from a small vessel or fishing vessel; or
+
+      (IV) a floating craft that is permanently moored to a pier, including a “floating” casino, hotel, restaurant, or bar;
+
+    (ii) of ballast water from a vessel—
+
+      (I) that continuously takes on and discharges ballast water in a flow-through system, if the Administrator determines that system cannot materially contribute to the spread or introduction of an aquatic nuisance species into waters of the United States;
+
+      (II) in the National Defense Reserve Fleet that is scheduled for disposal, if the vessel does not have an operable ballast water management system;
+
+      (III) that discharges ballast water consisting solely of water taken onboard from a public or commercial source that, at the time the water is taken onboard, meets the applicable requirements or permit requirements of the Safe Drinking Water Act ([42 U.S.C. 300f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f&num=0&edition=prelim) et seq.);
+
+      (IV) that carries all permanent ballast water in sealed tanks that are not subject to discharge; or
+
+      (V) that only discharges ballast water into a reception facility; or
+
+    (iii) that results from, or contains material derived from, an activity other than the normal operation of the vessel, such as material resulting from an industrial or manufacturing process onboard the vessel.
+
+(3) **Continuation in effect of existing requirements**
+
+  (A) *Vessel general permit* — Notwithstanding the expiration date of the Vessel General Permit or any other provision of law, all provisions of the Vessel General Permit shall remain in force and effect, and shall not be modified, until the applicable date described in subparagraph (C).
+
+  (B) *Nonindigenous Aquatic Nuisance Prevention and Control Act regulations* — Notwithstanding section 903(a)(2)(A) of the Vessel Incidental Discharge Act of 2018, all regulations promulgated by the Secretary pursuant to section 1101 of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4711](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim)) (as in effect on the day before December 4, 2018), including the regulations contained in subparts C and D of part 151 of title 33, Code of Federal Regulations, and subpart 162.060 of part 162 of title 46, Code of Federal Regulations (as in effect on the day before December 4, 2018), shall remain in force and effect until the applicable date described in subparagraph (C).
+
+  (C) *Repeal on existence of final, effective, and enforceable requirements* — Effective beginning on the date on which the requirements promulgated by the Secretary under subparagraphs (A), (B), and (C) of paragraph (5) with respect to every discharge incidental to the normal operation of a vessel that is subject to regulation under this subsection are final, effective, and enforceable, the requirements of the Vessel General Permit and the regulations described in subparagraph (B) shall have no force or effect.
+
+(4) **National standards of performance for marine pollution control devices and water quality orders**
+
+  (A) *Establishment*
+
+    (i) *In general* — Not later than 2 years after December 4, 2018, the Administrator, in concurrence with the Secretary (subject to clause (ii)), and in consultation with interested Governors (subject to clause (iii)), shall promulgate Federal standards of performance for marine pollution control devices for each type of discharge incidental to the normal operation of a vessel that is subject to regulation under this subsection.
+
+    (ii) *Concurrence with Secretary*
+
+      (I) *Request* — The Administrator shall submit to the Secretary a request for written concurrence with respect to a proposed standard of performance under clause (i).
+
+      (II) *Effect of failure to concur* — A failure by the Secretary to concur with the Administrator under clause (i) by the date that is 60 days after the date on which the Administrator submits a request for concurrence under subclause (I) shall not prevent the Administrator from promulgating the relevant standard of performance in accordance with the deadline under clause (i), subject to the condition that the Administrator shall include in the administrative record of the promulgation—
+
+        (aa) documentation of the request submitted under subclause (I); and
+
+        (bb) the response of the Administrator to any written objections received from the Secretary relating to the proposed standard of performance during the 60-day period beginning on the date of submission of the request.
+
+    (iii) *Consultation with Governors*
+
+      (I) *In general* — The Administrator, in promulgating a standard of performance under clause (i), shall develop the standard of performance—
+
+        (aa) in consultation with interested Governors; and
+
+        (bb) in accordance with the deadlines under that clause.
+
+      (II) *Process* — The Administrator shall develop a process for soliciting input from interested Governors, including information sharing relevant to such process, to allow interested Governors to inform the development of standards of performance under clause (i).
+
+      (III) *Objection by governors*
+
+        (aa) *Submission* — An interested Governor that objects to a proposed standard of performance under clause (i) may submit to the Administrator in writing a detailed objection to the proposed standard of performance, describing the scientific, technical, or operational factors that form the basis of the objection.
+
+        (bb) *Response* — Before finalizing a standard of performance under clause (i) that is subject to an objection under item (aa) from 1 or more interested Governors, the Administrator shall provide a written response to each interested Governor that submitted an objection under that item that details the scientific, technical, or operational factors that form the basis for that standard of performance.
+
+        (cc) *Judicial review* — A response of the Administrator under item (bb) shall not be subject to judicial review.
+
+    (iv) *Procedure* — The Administrator shall promulgate the standards of performance under this subparagraph in accordance with—
+
+      (I) this paragraph; and
+
+      (II) [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+
+  (B) *Stringency*
+
+    (i) *In general* — Subject to clause (iii), the standards of performance promulgated under this paragraph shall require—
+
+      (I) with respect to conventional pollutants, toxic pollutants, and nonconventional pollutants (including aquatic nuisance species), the application of the best practicable control technology currently available;
+
+      (II) with respect to conventional pollutants, the application of the best conventional pollutant control technology; and
+
+      (III) with respect to toxic pollutants and nonconventional pollutants (including aquatic nuisance species), the application of the best available technology economically achievable for categories and classes of vessels, which shall result in reasonable progress toward the national goal of eliminating discharges of all pollutants.
+
+    (ii) *Best management practices* — The Administrator shall require the use of best management practices to control or abate any discharge incidental to the normal operation of a vessel if—
+
+      (I) numeric standards of performance are infeasible under clause (i); or
+
+      (II) the best management practices are reasonably necessary—
+
+        (aa) to achieve the standards of performance; or
+
+        (bb) to carry out the purpose and intent of this subsection.
+
+    (iii) *Minimum requirements* — Subject to subparagraph (D)(ii)(II), the combination of any equipment or best management practice comprising a marine pollution control device shall not be less stringent than the following provisions of the Vessel General Permit:
+
+      (I) All requirements contained in parts 2.1 and 2.2 (relating to effluent limits and related requirements), including with respect to waters subject to Federal protection, in whole or in part, for conservation purposes.
+
+      (II) All requirements contained in part 5 (relating to vessel class-specific requirements) that concern effluent limits and authorized discharges (within the meaning of that part), including with respect to waters subject to Federal protection, in whole or in part, for conservation purposes.
+
+  (C) *Classes, types, and sizes of vessels* — The standards promulgated under this paragraph may distinguish—
+
+    (i) among classes, types, and sizes of vessels; and
+
+    (ii) between new vessels and existing vessels.
+
+  (D) *Review and revision*
+
+    (i) *In general* — Not less frequently than once every 5 years, the Administrator, in consultation with the Secretary, shall—
+
+      (I) review the standards of performance in effect under this paragraph; and
+
+      (II) if appropriate, revise those standards of performance—
+
+        (aa) in accordance with subparagraphs (A) through (C); and
+
+        (bb) as necessary to establish requirements for any discharge that is subject to regulation under this subsection.
+
+    (ii) *Maintaining protectiveness*
+
+      (I) *In general* — Except as provided in subclause (II), the Administrator shall not revise a standard of performance under this subsection to be less stringent than an applicable existing requirement.
+
+      (II) *Exceptions* — The Administrator may revise a standard of performance to be less stringent than an applicable existing requirement—
+
+        (aa) if information becomes available that—
+
+          (AA) was not reasonably available when the Administrator promulgated the initial standard of performance or comparable requirement of the Vessel General Permit, as applicable (including the subsequent scarcity or unavailability of materials used to control the relevant discharge); and
+
+          (BB) would have justified the application of a less-stringent standard of performance at the time of promulgation; or
+
+        (bb) if the Administrator determines that a material technical mistake or misinterpretation of law occurred when promulgating the existing standard of performance or comparable requirement of the Vessel General Permit, as applicable.
+
+  (E) *Best management practices for aquatic nuisance species emergencies and further protection of water quality*
+
+    (i) *In general* — Notwithstanding any other provision of this subsection, the Administrator, in concurrence with the Secretary (subject to clause (ii)), and in consultation with States, may require, by order, the use of an emergency best management practice for any region or category of vessels in any case in which the Administrator determines that such a best management practice—
+
+      (I) is necessary to reduce the reasonably foreseeable risk of introduction or establishment of an aquatic nuisance species; or
+
+      (II) will mitigate the adverse effects of a discharge that contributes to a violation of a water quality requirement under [section 1313 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1313), other than a requirement based on the presence of an aquatic nuisance species.
+
+    (ii) *Concurrence with Secretary*
+
+      (I) *Request* — The Administrator shall submit to the Secretary a request for written concurrence with respect to an order under clause (i).
+
+      (II) *Effect of failure to concur* — A failure by the Secretary to concur with the Administrator under clause (i) by the date that is 60 days after the date on which the Administrator submits a request for concurrence under subclause (I) shall not prevent the Administrator from issuing the relevant order, subject to the condition that the Administrator shall include in the administrative record of the issuance—
+
+        (aa) documentation of the request submitted under subclause (I); and
+
+        (bb) the response of the Administrator to any written objections received from the Secretary relating to the proposed order during the 60-day period beginning on the date of submission of the request.
+
+    (iii) *Duration* — An order issued by the Administrator under clause (i) shall expire not later than the date that is 4 years after the date of issuance.
+
+    (iv) *Extensions* — The Administrator may reissue an order under clause (i) for such subsequent periods of not longer than 4 years as the Administrator determines to be appropriate.
+
+(5) **Implementation, compliance, and enforcement requirements**
+
+  (A) *Establishment*
+
+    (i) *In general* — As soon as practicable, but not later than 2 years, after the date on which the Administrator promulgates any new or revised standard of performance under paragraph (4) with respect to a discharge, the Secretary, in consultation with States, shall promulgate the regulations required under this paragraph with respect to that discharge.
+
+    (ii) *Minimum requirements* — Subject to subparagraph (C)(ii)(II), the regulations promulgated under this paragraph shall not be less stringent with respect to ensuring, monitoring, and enforcing compliance than—
+
+      (I) the requirements contained in part 3 of the Vessel General Permit (relating to corrective actions);
+
+      (II) the requirements contained in part 4 of the Vessel General Permit (relating to inspections, monitoring, reporting, and recordkeeping), including with respect to waters subject to Federal protection, in whole or in part, for conservation purposes;
+
+      (III) the requirements contained in part 5 of the Vessel General Permit (relating to vessel class-specific requirements) regarding monitoring, inspection, and educational and training requirements (within the meaning of that part), including with respect to waters subject to Federal protection, in whole or in part, for conservation purposes; and
+
+      (IV) any comparable, existing requirements promulgated under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) et seq.) (including section 1101 of that Act ([16 U.S.C. 4711](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim)) (as in effect on the day before December 4, 2018)) applicable to that discharge.
+
+    (iii) *Coordination with States* — The Secretary, in coordination with the Governors of the States, shall develop, publish, and periodically update inspection, monitoring, data management, and enforcement procedures for the enforcement by States of Federal standards and requirements under this subsection.
+
+    (iv) *Effective date* — In determining the effective date of a regulation promulgated under this paragraph, the Secretary shall take into consideration the period of time necessary—
+
+      (I) to communicate to affected persons the applicability of the regulation; and
+
+      (II) for affected persons reasonably to comply with the regulation.
+
+    (v) *Procedure* — The Secretary shall promulgate the regulations under this subparagraph in accordance with—
+
+      (I) this paragraph; and
+
+      (II) [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+
+  (B) *Implementation regulations for marine pollution control devices* — The Secretary shall promulgate such regulations governing the design, construction, testing, approval, installation, and use of marine pollution control devices as are necessary to ensure compliance with the standards of performance promulgated under paragraph (4).
+
+  (C) *Compliance assurance*
+
+    (i) *In general* — The Secretary shall promulgate requirements (including requirements for vessel owners and operators with respect to inspections, monitoring, reporting, sampling, and recordkeeping) to ensure, monitor, and enforce compliance with—
+
+      (I) the standards of performance promulgated by the Administrator under paragraph (4); and
+
+      (II) the implementation regulations promulgated by the Secretary under subparagraph (B).
+
+    (ii) *Maintaining protectiveness*
+
+      (I) *In general* — Except as provided in subclause (II), the Secretary shall not revise a requirement under this subparagraph or subparagraph (B) to be less stringent with respect to ensuring, monitoring, or enforcing compliance than an applicable existing requirement.
+
+      (II) *Exceptions* — The Secretary may revise a requirement under this subparagraph or subparagraph (B) to be less stringent than an applicable existing requirement—
+
+        (aa) in accordance with this subparagraph or subparagraph (B), as applicable;
+
+        (bb) if information becomes available that—
+
+          (AA) the Administrator determines was not reasonably available when the Administrator promulgated the existing requirement of the Vessel General Permit, or that the Secretary determines was not reasonably available when the Secretary promulgated the existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) et seq.) or the applicable existing requirement under this subparagraph, as applicable (including subsequent scarcity or unavailability of materials used to control the relevant discharge); and
+
+          (BB) would have justified the application of a less-stringent requirement at the time of promulgation; or
+
+        (cc) if the Administrator determines that a material technical mistake or misinterpretation of law occurred when promulgating an existing requirement of the Vessel General Permit, or if the Secretary determines that a material mistake or misinterpretation of law occurred when promulgating an existing requirement under the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) et seq.) or this subsection.
+
+  (D) *Data availability* — Beginning not later than 1 year after December 4, 2018, the Secretary shall provide to the Governor of a State, on request by the Governor, access to Automated Identification System arrival data for inbound vessels to specific ports or places of destination in the State.
+
+(6) **Additional provisions regarding ballast water**
+
+  (A) *In general* — In addition to the other applicable requirements of this subsection, the requirements of this paragraph shall apply with respect to any discharge incidental to the normal operation of a vessel that is a discharge of ballast water.
+
+  (B) *Empty ballast tanks*
+
+    (i) *Requirements* — Except as provided in clause (ii), the owner or operator of a vessel with empty ballast tanks bound for a port or place of destination subject to the jurisdiction of the United States shall, prior to arriving at that port or place of destination, conduct a ballast water exchange or saltwater flush—
+
+      (I) not less than 200 nautical miles from any shore for a voyage originating outside the United States or Canadian exclusive economic zone; or
+
+      (II) not less than 50 nautical miles from any shore for a voyage originating within the United States or Canadian exclusive economic zone.
+
+    (ii) *Exceptions* — Clause (i) shall not apply—
+
+      (I) if the unpumpable residual waters and sediments of an empty ballast tank were subject to treatment, in compliance with applicable requirements, through a type-approved ballast water management system approved by the Secretary;
+
+      (II) except as otherwise required under this subsection, if the unpumpable residual waters and sediments of an empty ballast tank were sourced within—
+
+        (aa) the same port or place of destination; or
+
+        (bb) contiguous portions of a single Captain of the Port Zone;
+
+      (III) if complying with an applicable requirement of clause (i)—
+
+        (aa) would compromise the safety of the vessel; or
+
+        (bb) is otherwise prohibited by any Federal, Canadian, or international law (including regulations) pertaining to vessel safety;
+
+      (IV) if design limitations of the vessel prevent a ballast water exchange or saltwater flush from being conducted in accordance with clause (i); or
+
+      (V) if the vessel is operating exclusively within the internal waters of the United States or Canada.
+
+  (C) *Period of use of installed ballast water management systems*
+
+    (i) *In general* — Except as provided in clause (ii), a vessel shall be deemed to be in compliance with a standard of performance for a marine pollution control device that is a ballast water management system if the ballast water management system—
+
+      (I) is maintained in proper working condition, as determined by the Secretary;
+
+      (II) is maintained and used in accordance with manufacturer specifications;
+
+      (III) continues to meet the ballast water discharge standard applicable to the vessel at the time of installation, as determined by the Secretary; and
+
+      (IV) has in effect a valid type-approval certificate issued by the Secretary.
+
+    (ii) *Limitation* — Clause (i) shall cease to apply with respect to any vessel on, as applicable—
+
+      (I) the expiration of the service life, as determined by the Secretary, of—
+
+        (aa) the ballast water management system; or
+
+        (bb) the vessel;
+
+      (II) the completion of a major conversion (as defined in [section 2101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim)) of the vessel; or
+
+      (III) a determination by the Secretary that there are other type-approved systems for the vessel or category of vessels, with respect to the use of which the environmental, health, and economic benefits would exceed the costs.
+
+  (D) *Review of ballast water management system type-approval testing methods*
+
+    (i) *Definition of live; living* — Notwithstanding any other provision of law (including regulations), for purposes of section 151.1511 of title 33, and part 162 of title 46, Code of Federal Regulations (or successor regulations), the terms “live” and “living” shall not—
+
+      (I) include an organism that has been rendered nonviable; or
+
+      (II) preclude the consideration of any method of measuring the concentration of organisms in ballast water that are capable of reproduction.
+
+    (ii) *Draft policy* — Not later than 180 days after December 4, 2018, the Secretary, in coordination with the Administrator, shall publish a draft policy letter, based on the best available science, describing type-approval testing methods and protocols for ballast water management systems, if any, that—
+
+      (I) render nonviable organisms in ballast water; and
+
+      (II) may be used in addition to the methods established under subpart 162.060 of title 46, Code of Federal Regulations (or successor regulations)—
+
+        (aa) to measure the concentration of organisms in ballast water that are capable of reproduction;
+
+        (bb) to certify the performance of each ballast water management system under this subsection; and
+
+        (cc) to certify laboratories to evaluate applicable treatment technologies.
+
+    (iii) *Public comment* — The Secretary shall provide a period of not more than 60 days for public comment regarding the draft policy letter published under clause (ii).
+
+    (iv) *Final policy*
+
+      (I) *In general* — Not later than 1 year after December 4, 2018, the Secretary, in coordination with the Administrator, shall publish a final policy letter describing type-approval testing methods, if any, for ballast water management systems that render nonviable organisms in ballast water.
+
+      (II) *Method of evaluation* — The ballast water management systems under subclause (I) shall be evaluated by measuring the concentration of organisms in ballast water that are capable of reproduction based on the best available science that may be used in addition to the methods established under subpart 162.060 of title 46, Code of Federal Regulations (or successor regulations).
+
+      (III) *Revisions* — The Secretary shall revise the final policy letter under subclause (I) in any case in which the Secretary, in coordination with the Administrator, determines that additional testing methods are capable of measuring the concentration of organisms in ballast water that have not been rendered nonviable.
+
+    (v) *Factors for consideration* — In developing a policy letter under this subparagraph, the Secretary, in coordination with the Administrator—
+
+      (I) shall take into consideration a testing method that uses organism grow-out and most probable number statistical analysis to determine the concentration of organisms in ballast water that are capable of reproduction; and
+
+      (II) shall not take into consideration a testing method that relies on a staining method that measures the concentration of—
+
+        (aa) organisms greater than or equal to 10 micrometers; and
+
+        (bb) organisms less than or equal to 50 micrometers.
+
+  (E) *Intergovernmental response framework*
+
+    (i) *In general* — The Secretary, in consultation with the Administrator and acting in coordination with, or through, the Aquatic Nuisance Species Task Force established by section 1201(a) of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4721(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4721/a&num=0&edition=prelim)), shall establish a framework for Federal and intergovernmental response to aquatic nuisance species risks from discharges from vessels subject to ballast water and incidental discharge compliance requirements under this subsection, including the introduction, spread, and establishment of aquatic nuisance species populations.
+
+    (ii) *Ballast discharge risk response* — The Administrator, in coordination with the Secretary and taking into consideration information from the National Ballast Information Clearinghouse developed under section 1102(f) of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4712(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4712/f&num=0&edition=prelim)), shall establish a risk assessment and response framework using ballast water discharge data and aquatic nuisance species monitoring data for the purposes of—
+
+      (I) identifying and tracking populations of aquatic invasive species;
+
+      (II) evaluating the risk of any aquatic nuisance species population tracked under subclause (I) establishing and spreading in waters of the United States or waters of the contiguous zone; and
+
+      (III) establishing emergency best management practices that may be deployed rapidly, in a local or regional manner, to respond to emerging aquatic nuisance species threats.
+
+(7) **Petitions by Governors for review**
+
+  (A) *In general* — The Governor of a State (or a designee) may submit to the Administrator or the Secretary a petition—
+
+    (i) to issue an order under paragraph (4)(E); or
+
+    (ii) to review any standard of performance, regulation, or policy promulgated under paragraph (4), (5), or (6), respectively, if there exists new information that could reasonably result in a change to—
+
+      (I) the standard of performance, regulation, or policy; or
+
+      (II) a determination on which the standard of performance, regulation, or policy was based.
+
+  (B) *Inclusion* — A petition under subparagraph (A) shall include a description of any applicable scientific or technical information that forms the basis of the petition.
+
+  (C) *Determination*
+
+    (i) *Timing* — The Administrator or the Secretary, as applicable, shall grant or deny—
+
+      (I) a petition under subparagraph (A)(i) by not later than the date that is 180 days after the date on which the petition is submitted; and
+
+      (II) a petition under subparagraph (A)(ii) by not later than the date that is 1 year after the date on which the petition is submitted.
+
+    (ii) *Effect of grant* — If the Administrator or the Secretary determines under clause (i) to grant a petition—
+
+      (I) in the case of a petition under subparagraph (A)(i), the Administrator shall immediately issue the relevant order under paragraph (4)(E); or
+
+      (II) in the case of a petition under subparagraph (A)(ii), the Administrator or Secretary shall publish in the Federal Register, by not later than 30 days after the date of that determination, a notice of proposed rulemaking to revise the relevant standard, requirement, regulation, or policy under paragraph (4), (5), or (6), as applicable.
+
+    (iii) *Notice of denial* — If the Administrator or the Secretary determines under clause (i) to deny a petition, the Administrator or Secretary shall publish in the Federal Register, by not later than 30 days after the date of that determination, a detailed explanation of the scientific, technical, or operational factors that form the basis of the determination.
+
+    (iv) *Review* — A determination by the Administrator or the Secretary under clause (i) to deny a petition shall be—
+
+      (I) considered to be a final agency action; and
+
+      (II) subject to judicial review in accordance with [section 1369 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1369), subject to clause (v).
+
+    (v) *Exceptions*
+
+      (I) *Venue* — Notwithstanding [section 1369(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1369/b&num=0&edition=prelim), a petition for review of a determination by the Administrator or the Secretary under clause (i) to deny a petition submitted by the Governor of a State under subparagraph (A) may be filed in any United States district court of competent jurisdiction.
+
+      (II) *Deadline for filing* — Notwithstanding [section 1369(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1369/b&num=0&edition=prelim), a petition for review of a determination by the Administrator or the Secretary under clause (i) shall be filed by not later than 180 days after the date on which the justification for the determination is published in the Federal Register under clause (iii).
+
+(8) **Prohibition**
+
+  (A) *In general* — It shall be unlawful for any person to violate—
+
+    (i) a provision of the Vessel General Permit in force and effect under paragraph (3)(A);
+
+    (ii) a regulation promulgated pursuant to section 1101 of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4711](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim)) (as in effect on the day before December 4, 2018) in force and effect under paragraph (3)(B); or
+
+    (iii) an applicable requirement or regulation under this subsection.
+
+  (B) *Compliance with regulations* — Effective beginning on the effective date of a regulation promulgated under paragraph (4), (5), (6), or (10), as applicable, it shall be unlawful for the owner or operator of a vessel subject to the regulation—
+
+    (i) to discharge any discharge incidental to the normal operation of the vessel into waters of the United States or waters of the contiguous zone, except in compliance with the regulation; or
+
+    (ii) to operate in waters of the United States or waters of the contiguous zone, if the vessel is not equipped with a required marine pollution control device that complies with the requirements established under this subsection, unless—
+
+      (I) the owner or operator of the vessel denotes in an entry in the official logbook of the vessel that the equipment was not operational; and
+
+      (II) either—
+
+        (aa) the applicable discharge was avoided; or
+
+        (bb) an alternate compliance option approved by the Secretary as meeting the applicable standard was employed.
+
+  (C) *Affirmative defense* — No person shall be found to be in violation of this paragraph if—
+
+    (i) the violation was in the interest of ensuring the safety of life at sea, as determined by the Secretary; and
+
+    (ii) the applicable emergency circumstance was not the result of negligence or malfeasance on the part of—
+
+      (I) the owner or operator of the vessel;
+
+      (II) the master of the vessel; or
+
+      (III) the person in charge of the vessel.
+
+  (D) *Treatment* — Each day of continuing violation of an applicable requirement of this subsection shall constitute a separate offense.
+
+  (E) *In rem liability* — A vessel operated in violation of this subsection is liable in rem for any civil penalty assessed for the violation.
+
+  (F) *Revocation of clearance* — The Secretary shall withhold or revoke the clearance of a vessel required under [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) if the owner or operator of the vessel is in violation of this subsection.
+
+(9) **Effect on other laws**
+
+  (A) *State authority*
+
+    (i) *In general* — Except as provided in clauses (ii) through (v) and paragraph (10), effective beginning on the date on which the requirements promulgated by the Secretary under subparagraphs (A), (B), and (C) of paragraph (5) with respect to every discharge incidental to the normal operation of a vessel that is subject to regulation under this subsection are final, effective, and enforceable, no State, political subdivision of a State, or interstate agency may adopt or enforce any law, regulation, or other requirement of the State, political subdivision, or interstate agency with respect to any such discharge.
+
+    (ii) *Identical or lesser State laws* — Clause (i) shall not apply to any law, regulation, or other requirement of a State, political subdivision of a State, or interstate agency in effect on or after December 4, 2018—
+
+      (I) that is identical to a Federal requirement under this subsection applicable to the relevant discharge; or
+
+      (II) compliance with which would be achieved concurrently in achieving compliance with a Federal requirement under this subsection applicable to the relevant discharge.
+
+    (iii) *State enforcement of Federal requirements* — A State may enforce any standard of performance or other Federal requirement of this subsection in accordance with subsection (k) or other applicable Federal authority.
+
+    (iv) *Exception for certain fees*
+
+      (I) *In general* — Subject to subclauses (II) and (III), a State that assesses any fee pursuant to any State or Federal law relating to the regulation of a discharge incidental to the normal operation of a vessel before December 4, 2018, may assess or retain a fee to cover the costs of administration, inspection, monitoring, and enforcement activities by the State to achieve compliance with the applicable requirements of this subsection.
+
+      (II) *Maximum amount*
+
+        (aa) *In general* — Except as provided in item (bb), a State may assess a fee for activities under this clause equal to not more than $1,000 against the owner or operator of a vessel that—
+
+          (AA) has operated outside of that State; and
+
+          (BB) arrives at a port or place of destination in the State (excluding movement entirely within a single port or place of destination).
+
+        (bb) *Vessels engaged in coastwise trade* — A State may assess against the owner or operator of a vessel registered in accordance with applicable Federal law and lawfully engaged in the coastwise trade not more than $5,000 in fees under this clause per vessel during a calendar year.
+
+      (III) *Adjustment for inflation*
+
+        (aa) *In general* — A State may adjust the amount of a fee authorized under this clause not more frequently than once every 5 years to reflect the percentage by which the Consumer Price Index for All Urban Consumers published by the Department of Labor for the month of October immediately preceding the date of adjustment exceeds the Consumer Price Index for All Urban Consumers published by the Department of Labor for the month of October that immediately precedes the date that is 5 years before the date of adjustment.
+
+        (bb) *Effect of subclause* — Nothing in this subclause prevents a State from adjusting a fee in effect before December 4, 2018, to the applicable maximum amount under subclause (II).
+
+        (cc) *Applicability* — This subclause applies only to increases in fees to amounts greater than the applicable maximum amount under subclause (II).
+
+    (v) *Alaska graywater* — Clause (i) shall not apply with respect to any discharge of graywater (as defined in section 1414 of the Consolidated Appropriations Act, 2001 (Public Law 106–554; 114 Stat. 2763A–323)) from a passenger vessel (as defined in [section 2101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim)) in the State of Alaska (including all waters in the Alexander Archipelago) carrying 50 or more passengers.
+
+    (vi) *Preservation of authority* — Nothing in this subsection preempts any State law, public initiative, referendum, regulation, requirement, or other State action, except as expressly provided in this subsection.
+
+  (B) *Established regimes* — Except as expressly provided in this subsection, nothing in this subsection affects the applicability to a vessel of any other provision of Federal law, including—
+
+    (i) this section;
+
+    (ii) [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321);
+
+    (iii) the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.); and
+
+    (iv) title X of the Coast Guard Authorization Act of 2010 ([33 U.S.C. 3801](./chapter-051-clean-hulls.md#section-3801) et seq.).
+
+  (C) *Permitting* — Effective beginning on December 4, 2018—
+
+    (i) the Small Vessel General Permit is repealed; and
+
+    (ii) the Administrator, or a State in the case of a permit program approved under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342), shall not require, or in any way modify, a permit under that section for—
+
+      (I) any discharge that is subject to regulation under this subsection;
+
+      (II) any discharge incidental to the normal operation of a vessel from a small vessel or fishing vessel, regardless of whether that discharge is subject to regulation under this subsection; or
+
+      (III) any discharge described in paragraph (2)(B)(ii).
+
+  (D) *No effect on civil or criminal actions* — Nothing in this subsection, or any standard, regulation, or requirement established under this subsection, modifies or otherwise affects, preempts, or displaces—
+
+    (i) any cause of action; or
+
+    (ii) any provision of Federal or State law establishing a remedy for civil relief or criminal penalty.
+
+  (E) *No effect on certain secretarial authority* — Nothing in this subsection affects the authority of the Secretary of Commerce or the Secretary of the Interior to administer any land or waters under the administrative control of the Secretary of Commerce or the Secretary of the Interior, respectively.
+
+  (F) *No limitation on State inspection authority* — Nothing in this subsection limits the authority of a State to inspect a vessel pursuant to paragraph (5)(A)(iii) in order to monitor compliance with an applicable requirement of this section.
+
+(10) **Additional regional requirements**
+
+  (A) *Minimum Great Lakes System requirements*
+
+    (i) *In general* — Except as provided in clause (ii), the owner or operator of a vessel entering the St. Lawrence Seaway through the mouth of the St. Lawrence River shall conduct a complete ballast water exchange or saltwater flush—
+
+      (I) *not less than 200 nautical miles from any shore for a voyage originating outside the United States or Canadian exclusive economic zone; or*
+
+      (II) *not less than 50 nautical miles from any shore for a voyage originating within the United States or Canadian exclusive economic zone.*
+
+    (ii) *Exceptions* — Clause (i) shall not apply to a vessel if—
+
+      (I) complying with an applicable requirement of clause (i)—
+
+        (aa) would compromise the safety of the vessel; or
+
+        (bb) is otherwise prohibited by any Federal, Canadian, or international law (including regulations) pertaining to vessel safety;
+
+      (II) design limitations of the vessel prevent a ballast water exchange from being conducted in accordance with an applicable requirement of clause (i);
+
+      (III) the vessel—
+
+        (aa) is certified by the Secretary as having no residual ballast water or sediments onboard; or
+
+        (bb) retains all ballast water while in waters subject to the requirement; or
+
+      (IV) empty ballast tanks on the vessel are sealed and certified by the Secretary in a manner that ensures that—
+
+        (aa) no discharge or uptake occurs; and
+
+        (bb) any subsequent discharge of ballast water is subject to the requirement.
+
+  (B) *Enhanced Great Lakes System requirements*
+
+    (i) *Petitions by Governors for proposed enhanced standards and requirements*
+
+      (I) *In general* — The Governor of a Great Lakes State (or a State employee designee) may submit a petition in accordance with subclause (II) to propose that other Governors of Great Lakes States endorse an enhanced standard of performance or other requirement with respect to any discharge that—
+
+        (aa) is subject to regulation under this subsection; and
+
+        (bb) occurs within the Great Lakes System.
+
+      (II) *Submission* — A Governor shall submit a petition under subclause (I), in writing, to—
+
+        (aa) the Executive Director of the Great Lakes Commission, in such manner as may be prescribed by the Great Lakes Commission;
+
+        (bb) the Governor of each other Great Lakes State; and
+
+        (cc) the Director of the Great Lakes National Program Office established by [section 1268(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/b&num=0&edition=prelim).
+
+      (III) *Preliminary assessment by Great Lakes Commission*
+
+        (aa) *In general* — After the date of receipt of a petition under subclause (II)(aa), the Great Lakes Commission (acting through the Great Lakes Panel on Aquatic Nuisance Species, to the maximum extent practicable) may develop a preliminary assessment regarding each enhanced standard of performance or other requirement described in the petition.
+
+        (bb) *Provisions* — The preliminary assessment developed by the Great Lakes Commission under item (aa)—
+
+          (AA) may be developed in consultation with relevant experts and stakeholders;
+
+          (BB) may be narrative in nature;
+
+          (CC) may include the preliminary views, if any, of the Great Lakes Commission on the propriety of the proposed enhanced standard of performance or other requirement;
+
+          (DD) shall be submitted, in writing, to the Governor of each Great Lakes State and the Director of the Great Lakes National Program Office and published on the internet website of the Great Lakes National Program Office; and
+
+          (EE) except as provided in clause (iii), shall not be taken into consideration, or provide a basis for review, by the Administrator or the Secretary for purposes of that clause.
+
+    (ii) *Proposed enhanced standards and requirements*
+
+      (I) *Publication in Federal Register*
+
+        (aa) *Request by Governor* — Not earlier than the date that is 90 days after the date on which the Executive Director of the Great Lakes Commission receives from a Governor of a Great Lakes State a petition under clause (i)(II)(aa), the Governor may request the Director of the Great Lakes National Program Office to publish, for a period requested by the Governor of not less than 30 days, and the Director shall so publish, in the Federal Register for public comment—
+
+          (AA) a copy of the petition; and
+
+          (BB) if applicable as of the date of publication, any preliminary assessment of the Great Lakes Commission developed under clause (i)(III) relating to the petition.
+
+        (bb) *Review of public comments* — On receipt of a written request of a Governor of a Great Lakes State, the Director of the Great Lakes National Program Office shall make available all public comments received in response to the notice under item (aa).
+
+        (cc) *No response required* — Notwithstanding any other provision of law, a Governor of a Great Lakes State or the Director of the Great Lakes National Program Office shall not be required to provide a response to any comment received in response to the publication of a petition or preliminary assessment under item (aa).
+
+        (dd) *Purpose* — Any public comments received in response to the publication of a petition or preliminary assessment under item (aa) shall be used solely for the purpose of providing information and feedback to the Governor of each Great Lakes State regarding the decision to endorse the proposed standard or requirement.
+
+        (ee) *Effect of petition* — A proposed standard or requirement developed under subclause (II) may differ from the proposed standard or requirement described in a petition published under item (aa).
+
+      (II) *Coordination to develop proposed standard or requirement* — After the expiration of the public comment period for the petition under subclause (I), any interested Governor of a Great Lakes State may work in coordination with the Great Lakes Commission to develop a proposed standard of performance or other requirement applicable to a discharge referred to in the petition.
+
+      (III) *Requirements* — A proposed standard of performance or other requirement under subclause (II)—
+
+        (aa) shall be developed—
+
+          (AA) in consultation with representatives from the Federal and provincial governments of Canada;
+
+          (BB) after notice and opportunity for public comment on the petition published under subclause (I); and
+
+          (CC) taking into consideration the preliminary assessment, if any, of the Great Lakes Commission under clause (i)(III);
+
+        (bb) shall be specifically endorsed in writing by—
+
+          (AA) the Governor of each Great Lakes State, if the proposed standard or requirement would impose any additional equipment requirement on a vessel; or
+
+          (BB) not fewer than 5 Governors of Great Lakes States, if the proposed standard or requirement would not impose any additional equipment requirement on a vessel; and
+
+        (cc) in the case of a proposed requirement to prohibit 1 or more types of discharge regulated under this subsection, whether treated or not treated, into waters within the Great Lakes System, shall not apply outside the waters of the Great Lakes States of the Governors endorsing the proposed requirement under item (bb).
+
+    (iii) *Promulgation by Administrator and Secretary*
+
+      (I) *Submission*
+
+        (aa) *In general* — The Governors endorsing a proposed standard or requirement under clause (ii)(III)(bb) may jointly submit to the Administrator and the Secretary for approval each proposed standard of performance or other requirement developed and endorsed pursuant to clause (ii).
+
+        (bb) *Inclusion* — Each submission under item (aa) shall include an explanation regarding why the applicable standard of performance or other requirement is—
+
+          (AA) at least as stringent as a comparable standard of performance or other requirement under this subsection;
+
+          (BB) in accordance with maritime safety; and
+
+          (CC) in accordance with applicable maritime and navigation laws and regulations.
+
+        (cc) *Withdrawal*
+
+          (AA) *In general* — The Governor of any Great Lakes State that endorses a proposed standard or requirement under clause (ii)(III)(bb) may withdraw the endorsement by not later than the date that is 90 days after the date on which the Administrator and the Secretary receive the proposed standard or requirement.
+
+          (BB) *Effect on Federal review* — If, after the withdrawal of an endorsement under subitem (AA), the proposed standard or requirement does not have the applicable number of endorsements under clause (ii)(III)(bb), the Administrator and the Secretary shall terminate the review under this clause.
+
+        (dd) *Dissenting opinions* — The Governor of a Great Lakes State that does not endorse a proposed standard or requirement under clause (ii)(III)(bb) may submit to the Administrator and the Secretary any dissenting opinions of the Governor.
+
+      (II) *Joint notice* — On receipt of a proposed standard of performance or other requirement under subclause (I), the Administrator and the Secretary shall publish in the Federal Register a joint notice that, at minimum—
+
+        (aa) states that the proposed standard or requirement is publicly available; and
+
+        (bb) provides an opportunity for public comment regarding the proposed standard or requirement during the 90-day period beginning on the date of receipt by the Administrator and the Secretary of the proposed standard or requirement.
+
+      (III) *Review*
+
+        (aa) *In general* — As soon as practicable after the date of publication of a joint notice under subclause (II)—
+
+          (AA) the Administrator shall commence a review of each proposed standard of performance or other requirement covered by the notice to determine whether that standard or requirement is at least as stringent as comparable standards and requirements under this subsection; and
+
+          (BB) the Secretary shall commence a review of each proposed standard of performance or other requirement covered by the notice to determine whether that standard or requirement is in accordance with maritime safety and applicable maritime and navigation laws and regulations.
+
+        (bb) *Consultation* — In carrying out item (aa), the Administrator and the Secretary—
+
+          (AA) shall consult with the Governor of each Great Lakes State and representatives from the Federal and provincial governments of Canada;
+
+          (BB) shall take into consideration any relevant data or public comments received under subclause (II)(bb); and
+
+          (CC) shall not take into consideration any preliminary assessment by the Great Lakes Commission under clause (i)(III), or any dissenting opinion under subclause (I)(dd), except to the extent that such an assessment or opinion is relevant to the criteria for the applicable determination under item (aa).
+
+      (IV) *Approval or disapproval* — Not later than 180 days after the date of receipt of each proposed standard of performance or other requirement under subclause (I), the Administrator and the Secretary shall—
+
+        (aa) determine, as applicable, whether each proposed standard or other requirement satisfies the criteria under subclause (III)(aa);
+
+        (bb) approve each proposed standard or other requirement, unless the Administrator or the Secretary, as applicable, determines under item (aa) that the proposed standard or other requirement does not satisfy the criteria under subclause (III)(aa); and
+
+        (cc) submit to the Governor of each Great Lakes State, and publish in the Federal Register, a notice of the determination under item (aa).
+
+      (V) *Action on disapproval*
+
+        (aa) *Rationale and recommendations* — If the Administrator and the Secretary disapprove a proposed standard of performance or other requirement under subclause (IV)(bb), the notices under subclause (IV)(cc) shall include—
+
+          (AA) a description of the reasons why the standard or requirement is, as applicable, less stringent than a comparable standard or requirement under this subsection, inconsistent with maritime safety, or inconsistent with applicable maritime and navigation laws and regulations; and
+
+          (BB) any recommendations regarding changes the Governors of the Great Lakes States could make to conform the disapproved portion of the standard or requirement to the requirements of this subparagraph.
+
+        (bb) *Review* — Disapproval of a proposed standard or requirement by the Administrator and the Secretary under this subparagraph shall be considered to be a final agency action subject to judicial review under [section 1369 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1369).
+
+      (VI) *Action on approval* — On approval by the Administrator and the Secretary of a proposed standard of performance or other requirement under subclause (IV)(bb)—
+
+        (aa) the Administrator shall establish, by regulation, the proposed standard or requirement within the Great Lakes System in lieu of any comparable standard or other requirement promulgated under paragraph (4); and
+
+        (bb) the Secretary shall establish, by regulation, any requirements necessary to implement, ensure compliance with, and enforce the standard or requirement under item (aa), or to apply the proposed requirement, within the Great Lakes System in lieu of any comparable requirement promulgated under paragraph (5).
+
+      (VII) *No judicial review for certain actions* — An action or inaction of a Governor of a Great Lakes State or the Great Lakes Commission under this subparagraph shall not be subject to judicial review.
+
+      (VIII) *Great Lakes Compact* — Nothing in this subsection limits, alters, or amends the Great Lakes Compact 2 to which Congress granted consent in the Act of July 24, 1968 (Public Law 90–419; 82 Stat. 414).
+
+      (IX) *Authorization of appropriations* — There is authorized to be appropriated to the Great Lakes Commission $5,000,000, to be available until expended.
+
+  (C) *Minimum Pacific Region requirements*
+
+    (i) *Definition of commercial vessel* — In this subparagraph, the term “commercial vessel” means a vessel operating between—
+
+      (I) 2 ports or places of destination within the Pacific Region; or
+
+      (II) a port or place of destination within the Pacific Region and a port or place of destination on the Pacific Coast of Canada or Mexico north of parallel 20 degrees north latitude, inclusive of the Gulf of California.
+
+    (ii) *Ballast water exchange*
+
+      (I) *In general* — Except as provided in subclause (II) and clause (iv), the owner or operator of a commercial vessel shall conduct a complete ballast water exchange in waters more than 50 nautical miles from shore.
+
+      (II) *Exemptions* — Subclause (I) shall not apply to a commercial vessel—
+
+        (aa) using, in compliance with applicable requirements, a type-approved ballast water management system approved by the Secretary; or
+
+        (bb) voyaging—
+
+          (AA) between or to a port or place of destination in the State of Washington, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 46 degrees north latitude, including the internal waters of the Columbia River, and the internal waters of Canada south of parallel 50 degrees north latitude, including the waters of the Strait of Georgia and the Strait of Juan de Fuca;
+
+          (BB) between ports or places of destination in the State of Oregon, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 40 degrees north latitude and the parallel 50 degrees north latitude;
+
+          (CC) between ports or places of destination in the State of California within the San Francisco Bay area east of the Golden Gate Bridge, including the Port of Stockton and the Port of Sacramento, if the ballast water to be discharged from the commercial vessel originated solely from ports or places within that area;
+
+          (DD) between the Port of Los Angeles, the Port of Long Beach, and the El Segundo offshore marine oil terminal, if the ballast water to be discharged from the commercial vessel originated solely from the Port of Los Angeles, the Port of Long Beach, or the El Segundo offshore marine oil terminal;
+
+          (EE) between a port or place of destination in the State of Alaska within a single Captain of the Port Zone;
+
+          (FF) between ports or places of destination in different counties of the State of Hawaii, if the vessel may conduct a complete ballast water exchange in waters that are more than 10 nautical miles from shore and at least 200 meters deep; or
+
+          (GG) between ports or places of destination within the same county of the State of Hawaii, if the vessel does not transit outside State marine waters during the voyage.
+
+    (iii) *Low-salinity ballast water*
+
+      (I) *In general* — Except as provided in subclause (II) and clause (iv), the owner or operator of a commercial vessel that transports ballast water sourced from waters with a measured salinity of less than 18 parts per thousand and voyages to a Pacific Region port or place of destination with a measured salinity of less than 18 parts per thousand shall conduct a complete ballast water exchange—
+
+        (aa) not less than 50 nautical miles from shore, if the ballast water was sourced from a Pacific Region port or place of destination; or
+
+        (bb) more than 200 nautical miles from shore, if the ballast water was not sourced from a Pacific Region port or place of destination.
+
+      (II) *Exception* — Subclause (I) shall not apply to a commercial vessel voyaging to a port or place of destination in the Pacific Region that is using, in compliance with applicable requirements, a type-approved ballast water management system approved by the Secretary to achieve standards of performance of—
+
+        (aa) less than 1 organism per 10 cubic meters, if that organism—
+
+          (AA) is living, or has not been rendered nonviable; and
+
+          (BB) is 50 or more micrometers in minimum dimension;
+
+        (bb) less than 1 organism per 10 milliliters, if that organism—
+
+          (AA) is living, or has not been rendered nonviable; and
+
+          (BB) is more than 10, but less than 50, micrometers in minimum dimension;
+
+        (cc) concentrations of indicator microbes that are less than—
+
+          (AA) 1 colony-forming unit of toxicogenic Vibrio cholera (serotypes O1 and O139) per 100 milliliters or less than 1 colony-forming unit of that microbe per gram of wet weight of zoological samples;
+
+          (BB) 126 colony-forming units of escherichia coli per 100 milliliters; and
+
+          (CC) 33 colony-forming units of intestinal enterococci per 100 milliliters; and
+
+        (dd) concentrations of such additional indicator microbes and viruses as may be specified in the standards of performance established by the Administrator under paragraph (4).
+
+    (iv) *General exceptions* — The requirements of clauses (ii) and (iii) shall not apply to a commercial vessel if—
+
+      (I) complying with the requirement would compromise the safety of the commercial vessel;
+
+      (II) design limitations of the commercial vessel prevent a ballast water exchange from being conducted in accordance with clause (ii) or (iii), as applicable;
+
+      (III) the commercial vessel—
+
+        (aa) is certified by the Secretary as having no residual ballast water or sediments onboard; or
+
+        (bb) retains all ballast water while in waters subject to those requirements; or
+
+      (IV) empty ballast tanks on the commercial vessel are sealed and certified by the Secretary in a manner that ensures that—
+
+        (aa) no discharge or uptake occurs; and
+
+        (bb) any subsequent discharge of ballast water is subject to those requirements.
+
+  (D) *Establishment of State no-discharge zones*
+
+    (i) *State prohibition* — Subject to clause (ii), after the effective date of regulations promulgated by the Secretary under paragraph (5), if any State determines that the protection and enhancement of the quality of some or all of the waters within the State require greater environmental protection, the State may prohibit 1 or more types of discharge regulated under this subsection, whether treated or not treated, into such waters.
+
+    (ii) *Applicability* — A prohibition by a State under clause (i) shall not apply until the date on which the Administrator makes the applicable determinations described in clause (iii).
+
+    (iii) *Prohibition by Administrator*
+
+      (I) *Determination* — On application of a State, the Administrator, in concurrence with the Secretary (subject to subclause (II)), shall, by regulation, prohibit the discharge from a vessel of 1 or more discharges subject to regulation under this subsection, whether treated or not treated, into the waters covered by the application if the Administrator determines that—
+
+        (aa) prohibition of the discharge would protect and enhance the quality of the specified waters within the State;
+
+        (bb) adequate facilities for the safe and sanitary removal and treatment of the discharge are reasonably available for the water and all vessels to which the prohibition would apply;
+
+        (cc) the discharge can be safely collected and stored until a vessel reaches a discharge facility or other location; and
+
+        (dd) in the case of an application for the prohibition of discharges of ballast water in a port (or in any other location where cargo, passengers, or fuel are loaded and unloaded)—
+
+          (AA) the adequate facilities described in item (bb) are reasonably available for commercial vessels, after considering, at a minimum, water depth, dock size, pumpout facility capacity and flow rate, availability of year-round operations, proximity to navigation routes, and the ratio of pumpout facilities to the population and discharge capacity of commercial vessels operating in those waters; and
+
+          (BB) the prohibition will not unreasonably interfere with the safe loading and unloading of cargo, passengers, or fuel.
+
+      (II) *Concurrence with Secretary*
+
+        (aa) *Request* — The Administrator shall submit to the Secretary a request for written concurrence with respect to a prohibition under subclause (I).
+
+        (bb) *Effect of failure to concur* — A failure by the Secretary to concur with the Administrator under subclause (I) by the date that is 60 days after the date on which the Administrator submits a request for concurrence under item (aa) shall not prevent the Administrator from prohibiting the relevant discharge in accordance with subclause (III), subject to the condition that the Administrator shall include in the administrative record of the promulgation—
+
+          (AA) documentation of the request submitted under item (aa); and
+
+          (BB) the response of the Administrator to any written objections received from the Secretary relating to the proposed standard of performance during the 60-day period beginning on the date of submission of the request.
+
+      (III) *Timing* — The Administrator shall approve or disapprove an application submitted under subclause (I) by not later than 90 days after the date on which the application is submitted to the Administrator.
+
+  (E) *Maintenance in effect of more-stringent standards* — In any case in which a requirement established under this paragraph is more stringent or environmentally protective than a comparable requirement established under paragraph (4), (5), or (6), the more-stringent or more-protective requirement shall control.
+
 ### Statutory Notes
 
 #### References in Text
 For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
+The Act of July 24, 1968, referred to in subsec. (p)(1)(L), (10)(B)(iii)(VIII), is Pub. L. 90–419, July 24, 1968, 82 Stat. 414, which is not classified to the Code.
+
+The Safe Drinking Water Act, referred to in subsec. (p)(2)(B)(ii)(III), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+Section 903(a)(2)(A) of the Vessel Incidental Discharge Act of 2018, referred to in subsec. (p)(3)(B), is section 903(a)(2)(A) of title IX of Pub. L. 115–282, Dec. 4, 2018, 132 Stat. 4354, which repealed [section 4711 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim), Conservation, and provisions set out as a note under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342).
+
+The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (p)(3)(B), (5)(A)(ii)(IV), (C)(ii)(II)(bb)(AA), (cc), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§ 4701 et seq.) of Title 16, Conservation. Section 1101 of the Act (as in effect on the day before December 4, 2018), means section 1101 of the Act, which was classified to [section 4711 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711&num=0&edition=prelim), prior to repeal by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354. For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) and Tables.
+
+Section 1414 of the Consolidated Appropriations Act, 2001 (Public Law 106–554; 114 Stat. 2763A–323), referred to in subsec. (p)(9)(A)(v), probably means section 1414 of title XIV of div. B of H.R. 5666 of the 106th Congress, as enacted into law by section 1(a)(4) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–322, which is set out in a note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
+
+The Act to Prevent Pollution from Ships, referred to in subsec. (p)(9)(B)(iii), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+
+The Coast Guard Authorization Act of 2010, referred to in subsec. (p)(9)(B)(iv), is Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 2905. Title X of the Act is classified principally to chapter 51 (§ 3801 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
+2018—Pub. L. 115–282, § 903(b)(1), substituted “Marine sanitation devices; discharges incidental to the normal operation of vessels” for “Marine sanitation devices” in section catchline.
+
+Subsec. (a). Pub. L. 115–282, § 903(b)(1), inserted heading and substituted “In” for “For the purpose of” in introductory provisions.
+
+Subsec. (a)(7). Pub. L. 115–282, § 903(b)(2)(A), substituted “devices, marine pollution control device equipment, or vessels” for “devices or of vessels”.
+
+Subsec. (a)(13). Pub. L. 115–282, § 903(b)(2)(B), inserted “, except as provided in subsection (p),” after “means” in introductory provisions.
+
+Subsec. (g)(1). Pub. L. 115–282, § 903(b)(3)(A), (B), inserted “or marine pollution control device equipment” after “marine sanitation device” in two places and “or equipment” after “such device” and “test device”.
+
+Subsec. (g)(2). Pub. L. 115–282, § 903(b)(3)(A), (C), inserted “or marine pollution control device equipment” after “marine sanitation device” and “or equipment” after “the device”, “Any device”, and “certified test device”wherever appearing.
+
+Subsec. (h). Pub. L. 115–282, § 903(b)(4)(D), inserted heading.
+
+Subsec. (h)(1). Pub. L. 115–282, § 903(b)(4)(C), (D), designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), after” for “After”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and realigned margins.
+
+Pub. L. 115–282, § 903(b)(4)(A), inserted “and marine pollution control device equipment” after “marine sanitation device”.
+
+Subsec. (h)(2). Pub. L. 115–282, § 903(b)(4)(E), added par. (2). Former par. (2) redesignated subpar. (B) of subsec. (h)(1).
+
+Pub. L. 115–282, § 903(b)(4)(B), inserted “or any certified marine pollution control device equipment or element of design of such equipment” after “such device”.
+
+Subsec. (h)(3), (4). Pub. L. 115–282, § 903(b)(4)(C), redesignated pars. (3) and (4) as subpars. (C) and (D), respectively, of subsec. (h)(1).
+
+Subsec. (k). Pub. L. 115–282, § 903(c), designated first sentence of existing provisions as par. (2)(A), substituted “This” for “The provisions of this” and “operating, who may use, by agreement” for “operating and he may utilize by agreement” in par. (2)(A) as redesignated, inserted headings for subsec. (k), par. (2), and par. (2)(A), added pars. (1), (2)(B), (2)(C), and (3), and struck out former second sentence which read as follows: “The provisions of this section may also be enforced by a State.”
+
+Subsec. (p). Pub. L. 115–282, § 903(a)(1), added subsec. (p).
+
 2008—Subsec. (o). Pub. L. 110–288 added subsec. (o).
 
 1996—Subsec. (a)(8). Pub. L. 104–106, § 325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
@@ -6380,6 +7597,9 @@ Subsec. (f)(4). Pub. L. 95–217, § 59(e), designated existing provisions as su
 #### Change of Name
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (e) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### References to Redesignated Sections of Title 14
+Sections 92, 93, and 633 of title 14 renumbered sections 501, 504, and 503, respectively, of title 14 by section 105(b) of Pub. L. 115–282, Dec. 4, 2018, 132 Stat. 4200, and references to sections 92, 93, and 633 of title 14 considered to refer to such sections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 Of Title 14, Coast Guard.
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -6388,6 +7608,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### Purposes of 2018 Amendment; Findings
+Pub. L. 115–282, title IX, § 902, Dec. 4, 2018, 132 Stat. 4322, provided that: “(a) Purposes.—The purposes of this title [see Short Title of 2018 Amendment note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251)] are—“(1) to provide for the establishment of uniform, environmentally sound standards and requirements for the management of discharges incidental to the normal operation of a vessel; “(2) to charge the Environmental Protection Agency with primary responsibility for establishing standards relating to the discharge of pollutants from vessels; “(3) to charge the Coast Guard with primary responsibility for prescribing, administering, and enforcing regulations, consistent with the discharge standards established by the Environmental Protection Agency, for the design, construction, installation, and operation of the equipment and management practices required onboard vessels; and “(4) to preserve the flexibility of States, political subdivisions, and certain regions with respect to the administration and enforcement of standards relating to the discharge of pollutants from vessels engaged in maritime commerce and transportation. “(b) Findings.—Congress finds that—“(1) the Environmental Protection Agency is the principal Federal authority charged under the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.) with regulating through the issuance of permits for the discharge of pollutants into the navigable waters of the United States; “(2) the Coast Guard is the principal Federal authority charged with administering, enforcing, and prescribing regulations relating to the discharge of pollutants from vessels; and “(3) during the period of 1973 to 2010—“(A) the Environmental Protection Agency promulgated regulations exempting certain discharges incidental to the normal operation of vessels from otherwise applicable permitting requirements of the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.); and “(B) Congress enacted laws on numerous occasions governing the regulation of discharges incidental to the normal operation of vessels, including—“(i) the Act to Prevent Pollution from Ships ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) et seq.); “(ii) the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) et seq.); “(iii) the National Invasive Species Act of 1996 ([16 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) note; Public Law 104–332) [see Short Title of 1996 Amendment note set out under [section 4701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4701&num=0&edition=prelim)]; “(iv) section 415 of the Coast Guard Authorization Act of 1998 (Public Law 105–383; 112 Stat. 3434) and section 623 of the Coast Guard and Maritime Transportation Act of 2004 ([33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) note; Public Law 108–293), which established interim and permanent requirements, respectively, for the regulation of vessel discharges of certain bulk cargo residue; “(v) title XIV of division B of Appendix D of the Consolidated Appropriations Act, 2001 (Public Law 106–554; 114 Stat. 2763A–315) [[33 U.S.C. 1901](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) note], which prohibited or limited certain vessel discharges in certain areas of Alaska; “(vi) section 204 of the Maritime Transportation Security Act of 2002 ([33 U.S.C. 1902a](./chapter-033-prevention-of-pollution-from-ships.md#section-1902a)), which established requirements for the regulation of vessel discharges of agricultural cargo residue material in the form of hold washings; and “(vii) title X of the Coast Guard Authorization Act of 2010 ([33 U.S.C. 3801](./chapter-051-clean-hulls.md#section-3801) et seq.), which provided for the implementation of the International Convention on the Control of Harmful Anti-Fouling Systems on Ships, 2001.”
 
 #### Purpose of 1996 Amendment
 Pub. L. 104–106, div. A, title III, § 325(a), Feb. 10, 1996, 110 Stat. 254, provided that: “The purposes of this section [amending this section and [section 1362 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1362) and enacting provisions set out as a note below] are to— “(1) enhance the operational flexibility of vessels of the Armed Forces domestically and internationally; “(2) stimulate the development of innovative vessel pollution control technology; and “(3) advance the development by the United States Navy of environmentally sound ships.”
@@ -7218,9 +8441,61 @@ Pub. L. 100–4, title III, § 317(a), Feb. 4, 1987, 101 Stat. 61, provided that
 
 **(r) Discharges incidental to the normal operation of recreational vessels** No permit shall be required under this chapter by the Administrator (or a State, in the case of a permit program approved under subsection (b)) for the discharge of any graywater, bilge water, cooling water, weather deck runoff, oil water separator effluent, or effluent from properly functioning marine engines, or any other discharge that is incidental to the normal operation of a vessel, if the discharge is from a recreational vessel.
 
+**(s) Integrated plans**
+
+(1) **Definition of integrated plan** — In this subsection, the term “integrated plan” means a plan developed in accordance with the Integrated Municipal Stormwater and Wastewater Planning Approach Framework, issued by the Environmental Protection Agency and dated June 5, 2012.
+
+(2) **In general** — The Administrator (or a State, in the case of a permit program approved by the Administrator) shall inform municipalities of the opportunity to develop an integrated plan that may be incorporated into a permit under this section.
+
+(3) **Scope**
+
+  (A) *Scope of permit incorporating integrated plan* — A permit issued under this section that incorporates an integrated plan may integrate all requirements under this chapter addressed in the integrated plan, including requirements relating to—
+
+    (i) a combined sewer overflow;
+
+    (ii) a capacity, management, operation, and maintenance program for sanitary sewer collection systems;
+
+    (iii) a municipal stormwater discharge;
+
+    (iv) a municipal wastewater discharge; and
+
+    (v) a water quality-based effluent limitation to implement an applicable wasteload allocation in a total maximum daily load.
+
+  (B) *Inclusions in integrated plan* — An integrated plan incorporated into a permit issued under this section may include the implementation of—
+
+    (i) projects, including innovative projects, to reclaim, recycle, or reuse water; and
+
+    (ii) green infrastructure.
+
+(4) **Compliance schedules**
+
+  (A) *In general* — A permit issued under this section that incorporates an integrated plan may include a schedule of compliance, under which actions taken to meet any applicable water quality-based effluent limitation may be implemented over more than 1 permit term if the schedule of compliance—
+
+    (i) is authorized by State water quality standards; and
+
+    (ii) meets the requirements of section 122.47 of title 40, Code of Federal Regulations (as in effect on January 14, 2019).
+
+  (B) *Time for compliance* — For purposes of subparagraph (A)(ii), the requirement of section 122.47 of title 40, Code of Federal Regulations, for compliance by an applicable statutory deadline under this chapter does not prohibit implementation of an applicable water quality-based effluent limitation over more than 1 permit term.
+
+  (C) *Review* — A schedule of compliance incorporated into a permit issued under this section may be reviewed at the time the permit is renewed to determine whether the schedule should be modified.
+
+(5) **Existing authorities retained**
+
+  (A) *Applicable standards* — Nothing in this subsection modifies any obligation to comply with applicable technology and water quality-based effluent limitations under this chapter.
+
+  (B) *Flexibility* — Nothing in this subsection reduces or eliminates any flexibility available under this chapter, including the authority of a State to revise a water quality standard after a use attainability analysis under section 131.10(g) of title 40, Code of Federal Regulations (or a successor regulation), subject to the approval of the Administrator under [section 1313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1313/c&num=0&edition=prelim).
+
+(6) **Clarification of State authority**
+
+  (A) *In general* — Nothing in [section 1311(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1311/b/1/C&num=0&edition=prelim) precludes a State from authorizing in the water quality standards of the State the issuance of a schedule of compliance to meet water quality-based effluent limitations in permits that incorporate provisions of an integrated plan.
+
+  (B) *Transition rule* — In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019, resolving an enforcement action under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (s). Pub. L. 115–436 added subsec. (s).
+
 2014—Subsec. (l)(3). Pub. L. 113–79 added par. (3).
 
 2008—Subsec. (r). Pub. L. 110–288 added subsec. (r).
@@ -7263,7 +8538,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to compliance with national pollutant discharge elimination system permits with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 #### Permit Requirements for Discharges From Certain Vessels
-Pub. L. 110–299, §§ 1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, § 1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, § 703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, § 602, Dec. 18, 2014, 128 Stat. 3061, provided that: “SECTION 1. DEFINITIONS.“In this Act:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency. “(2) Covered vessel.—The term ‘covered vessel’ means a vessel that is—“(A) less than 79 feet in length; or “(B) a fishing vessel (as defined in [section 2101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim), United States Code), regardless of the length of the vessel. “(3) Other terms.—The terms ‘contiguous zone’, ‘discharge’, ‘ocean’, and ‘State’ have the meanings given the terms in section 502 of the Federal Water Pollution Control Act ([33 U.S.C. 1362](./chapter-026-water-pollution-prevention-and-control.md#section-1362)). “SEC. 2. DISCHARGES INCIDENTAL TO NORMAL OPERATION OF VESSELS.“(a) No Permit Requirement.—Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act [July 31, 2008] and ending on December 18, 2017, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act ([33 U.S.C. 1342](./chapter-026-water-pollution-prevention-and-control.md#section-1342)), shall not require a permit under that section for a covered vessel for—“(1) any discharge of effluent from properly functioning marine engines; “(2) any discharge of laundry, shower, and galley sink wastes; or “(3) any other discharge incidental to the normal operation of a covered vessel. “(b) Exceptions.—Subsection (a) shall not apply with respect to—“(1) rubbish, trash, garbage, or other such materials discharged overboard; “(2) other discharges when the vessel is operating in a capacity other than as a means of transportation, such as when—“(A) used as an energy or mining facility; “(B) used as a storage facility or a seafood processing facility; “(C) secured to a storage facility or a seafood processing facility; or “(D) secured to the bed of the ocean, the contiguous zone, or waters of the United States for the purpose of mineral or oil exploration or development; “(3) any discharge of ballast water; or “(4) any discharge in a case in which the Administrator or State, as appropriate, determines that the discharge—“(A) contributes to a violation of a water quality standard; or “(B) poses an unacceptable risk to human health or the environment.”
+Pub. L. 110–299, §§ 1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, § 1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, § 703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, § 602, Dec. 18, 2014, 128 Stat. 3061; Pub. L. 115–100, § 1, Jan. 3, 2018, 131 Stat. 2245, which exempted from permit requirements, for the period from July 31, 2008, through Jan. 19, 2018, discharges incidental to the normal operation of vessels, subject to certain exceptions, was repealed by Pub. L. 115–282, title IX, § 903(a)(2)(A)(ii), Dec. 4, 2018, 132 Stat. 4354.
 
 #### Stormwater Permit Requirements
 Pub. L. 102–240, title I, § 1068, Dec. 18, 1991, 105 Stat. 2007, provided that: “(a) General Rule.—Notwithstanding the requirements of sections 402(p)(2)(B), (C), and (D) of the Federal Water Pollution Control Act [[33 U.S.C. 1342(p)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342/p/2/B&num=0&edition=prelim), (C), (D)], permit application deadlines for stormwater discharges associated with industrial activities from facilities that are owned or operated by a municipality shall be established by the Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’) pursuant to the requirements of this section. “(b) Permit Applications.—“(1) Individual applications.—The Administrator shall require individual permit applications for discharges described in subsection (a) on or before October 1, 1992; except that any municipality that has participated in a timely part I group application for an industrial activity discharging stormwater that is denied such participation in a group application or for which a group application is denied shall not be required to submit an individual application until the 180th day following the date on which the denial is made. “(2) Group applications.—With respect to group applications for permits for discharges described in subsection (a), the Administrator shall require—“(A) part I applications on or before September 30, 1991, except that any municipality with a population of less than 250,000 shall not be required to submit a part I application before May 18, 1992; and “(B) part II applications on or before October 1, 1992, except that any municipality with a population of less than 250,000 shall not be required to submit a part II application before May 17, 1993. “(c) Municipalities With Less Than 100,000 Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act [[33 U.S.C. 1342(p)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342/p/2/A&num=0&edition=prelim), (E)]. “(d) Uncontrolled Sanitary Landfill Defined.—For the purposes of this section, the term ‘uncontrolled sanitary landfill’ means a landfill or open dump, whether in operation or closed, that does not meet the requirements for run-on and run-off controls established pursuant to subtitle D of the Solid Waste Disposal Act [[42 U.S.C. 6941](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6941&num=0&edition=prelim) et seq.]. “(e) Limitation on Statutory Construction.—Nothing in this section shall be construed to affect any application or permit requirement, including any deadline, to apply for or obtain a permit for stormwater discharges subject to section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act [[33 U.S.C. 1342(p)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342/p/2/A&num=0&edition=prelim), (E)]. “(f) Regulations.—The Administrator shall issue final regulations with respect to general permits for stormwater discharges associated with industrial activity on or before February 1, 1992.”
@@ -7821,9 +9096,13 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (26) **Treatment works.—** — The term “treatment works” has the meaning given the term in [section 1292 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1292).
 
+(27) **Green infrastructure.—** — The term “green infrastructure” means the range of measures that use plant or soil systems, permeable pavement or other permeable surfaces or substrates, stormwater harvest and reuse, or landscaping to store, infiltrate, or evapotranspirate stormwater and reduce flows to sewer systems or to surface waters.
+
 ### Statutory Notes
 
 #### Amendments
+2019—Par. (27). Pub. L. 115–436 added par. (27).
+
 2014—Par. (26). Pub. L. 113–121 added par. (26).
 
 2008—Par. (25). Pub. L. 110–288 added par. (25).
@@ -7935,7 +9214,7 @@ except that such action may be brought immediately after such notification in th
 
 **(e) Statutory or common law rights not restricted** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any effluent standard or limitation or to seek any other relief (including relief against the Administrator or a State agency).
 
-**(f) Effluent standard or limitation** For purposes of this section, the term “effluent standard or limitation under this chapter” means (1) effective July 1, 1973, an unlawful act under subsection (a) of [section 1311 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1311); (2) an effluent limitation or other limitation under section 1311 or 1312 of this title; (3) standard of performance under [section 1316 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1316); (4) prohibition, effluent standard or pretreatment standards under [section 1317 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1317); (5) certification under [section 1341 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1341); (6) a permit or condition thereof issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342), which is in effect under this chapter (including a requirement applicable by reason of [section 1323 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1323)); or (7) a regulation under [section 1345(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1345/d&num=0&edition=prelim),.11 So in original.
+**(f) Effluent standard or limitation** For purposes of this section, the term “effluent standard or limitation under this chapter” means (1) effective July 1, 1973, an unlawful act under subsection (a) of [section 1311 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1311); (2) an effluent limitation or other limitation under section 1311 or 1312 of this title; (3) standard of performance under [section 1316 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1316); (4) prohibition, effluent standard or pretreatment standards under [section 1317 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1317); (5) a standard of performance or requirement under [section 1322(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322/p&num=0&edition=prelim); (6) a certification under [section 1341 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1341); (7) a permit or condition of a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) that is in effect under this chapter (including a requirement applicable by reason of [section 1323 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1323)); or (8) a regulation under [section 1345(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1345/d&num=0&edition=prelim).
 
 **(g) “Citizen” defined** For the purposes of this section the term “citizen” means a person or persons having an interest which is or may be adversely affected.
 
@@ -7947,6 +9226,8 @@ except that such action may be brought immediately after such notification in th
 The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–282 substituted “(5) a standard of performance or requirement under [section 1322(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322/p&num=0&edition=prelim); (6) a certification under [section 1341 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1341); (7) a permit or condition of a permit issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) that is in effect under this chapter (including a requirement applicable by reason of [section 1323 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1323)); or (8) a regulation under [section 1345(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1345/d&num=0&edition=prelim).” for “(5) certification under [section 1341 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1341); (6) a permit or condition thereof issued under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342), which is in effect under this chapter (including a requirement applicable by reason of [section 1323 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1323)); or (7) a regulation under [section 1345(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1345/d&num=0&edition=prelim),.”
+
 1987—Subsec. (a). Pub. L. 100–4, § 314(c), inserted “and [section 1319(g)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1319/g/6&num=0&edition=prelim)” after “subsection (b) of this section” in introductory text.
 
 Subsec. (c)(3). Pub. L. 100–4, § 504, added par. (3).
@@ -7995,13 +9276,29 @@ The Administrator shall request the Attorney General to appear and represent the
 
 ### Statutory Notes
 
+#### Amendment of Subsection (f)
+Pub. L. 115–232, div. A, title VIII, § 836(g)(5), (h), Aug. 13, 2018, 132 Stat. 1873, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (f) of this section is amended as follows:
+
+(1) in paragraph (1), by striking “commercial items” and inserting “commercial products or commercial services”; and
+
+(2) in paragraph (2), by striking “the term” and all that follows and inserting “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.”.
+
+See 2018 Amendment notes below.
+
 #### Codification
 Subsec. (c) of this section authorized the President to cause to be issued, not more than 180 days after October 18, 1972, an order (1) requiring each Federal agency authorized to enter into contracts or to extend Federal assistance by way of grant, loan, or contract, to effectuate the purpose and policy of this chapter, and (2) setting forth procedures, sanctions and penalties as the President determines necessary to carry out such requirement.
 
 In subsec. (f)(2), “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” substituted for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–232, § 836(g)(5)(A), substituted “commercial products or commercial services” for “commercial items”.
+
+Subsec. (f)(2). Pub. L. 115–232, § 836(g)(5)(B), substituted “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.” for “the term ‘commercial item’ has the meaning given such term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim).”
+
 1994—Subsec. (f). Pub. L. 103–355 added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
@@ -8026,11 +9323,19 @@ For provisions concerning the administration of this chapter with respect to Fed
 
 (3) **Award of fees.—** — In any judicial proceeding under this subsection, the court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party whenever it determines that such award is appropriate.
 
+(4) **Discharges incidental to normal operation of vessels.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B), any interested person may file a petition for review of a final agency action under [section 1322(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322/p&num=0&edition=prelim) of the Administrator or the Secretary of the department in which the Coast Guard is operating in accordance with the requirements of this subsection.
+
+  (B) *Venue exception.—* — Subject to [section 1322(p)(7)(C)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322/p/7/C/v&num=0&edition=prelim), a petition for review of a final agency action under [section 1322(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322/p&num=0&edition=prelim) of the Administrator or the Secretary of the department in which the Coast Guard is operating may be filed only in the United States Court of Appeals for the District of Columbia Circuit.
+
 **(c) Additional evidence** In any judicial proceeding brought under subsection (b) of this section in which review is sought of a determination under this chapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such terms and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(4). Pub. L. 115–282 added par. (4).
+
 1988—Subsec. (b)(3), (4). Pub. L. 100–236 redesignated par. (4) as (3) and struck out former par. (3) relating to venue, which provided for selection procedure in subpar. (A), administrative provisions in subpar. (B), and transfers in subpar. (C).
 
 1987—Subsec. (b)(1). Pub. L. 100–4, §§ 308(b), 406(d)(3), 505(a), substituted “transacts business which is directly affected by such action” for “transacts such business”, “120” for “ninety”, and “120th” for “ninetieth”, substituted “1316, or 1345 of this title” for “or 1316 of this title” in cl. (E), and added cl. (G).
@@ -8362,6 +9667,40 @@ Pub. L. 106–377, § 1(a)(1) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A�
 Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1083.
 
 
+<a id="section-1377a"></a>
+## § 1377a. Green infrastructure promotion
+**(a) In general** The Administrator shall promote the use of green infrastructure in, and coordinate the integration of green infrastructure into, permitting and enforcement under this chapter, planning efforts, research, technical assistance, and funding guidance of the Environmental Protection Agency.
+
+**(b) Coordination of efforts** The Administrator shall ensure that the Office of Water coordinates efforts to increase the use of green infrastructure with—
+
+(1) other Federal departments and agencies;
+
+(2) State, tribal, and local governments; and
+
+(3) the private sector.
+
+**(c) Regional green infrastructure promotion** The Administrator shall direct each regional office of the Environmental Protection Agency, as appropriate based on local factors, and consistent with the requirements of this chapter, to promote and integrate the use of green infrastructure within the region, including through—
+
+(1) outreach and training regarding green infrastructure implementation for State, tribal, and local governments, tribal communities, and the private sector; and
+
+(2) the incorporation of green infrastructure into permitting and other regulatory programs, codes, and ordinance development, including the requirements under consent decrees and settlement agreements in enforcement actions.
+
+**(d) Green infrastructure information-sharing** The Administrator shall promote green infrastructure information-sharing, including through an internet website, to share information with, and provide technical assistance to, State, tribal, and local governments, tribal communities, the private sector, and the public, regarding green infrastructure approaches for—
+
+(1) reducing water pollution;
+
+(2) protecting water resources;
+
+(3) complying with regulatory requirements; and
+
+(4) achieving other environmental, public health, and community goals.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 519 of act June 30, 1948, was renumbered section 520 and is set out as a note under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251).
+
+
 <a id="section-1381"></a>
 ## § 1381. Grants to States for establishment of revolving funds
 **(a) General authority** Subject to the provisions of this subchapter, the Administrator shall make capitalization grants to each State for the purpose of establishing a water pollution control revolving fund to accomplish the objectives, goals, and policies of this chapter by providing assistance for projects and activities identified in [section 1383(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/c&num=0&edition=prelim).
@@ -8468,13 +9807,19 @@ Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5006 of Pub. 
 
 (9) for reusing or recycling wastewater, stormwater, or subsurface drainage water;
 
-(10) for measures to increase the security of publicly owned treatment works; and
+(10) for measures to increase the security of publicly owned treatment works;
 
 (11) to any qualified nonprofit entity, as determined by the Administrator, to provide assistance to owners and operators of small and medium publicly owned treatment works—
 
   (A) to plan, develop, and obtain financing for eligible projects under this subsection, including planning, design, and associated preconstruction activities; and
 
-  (B) to assist such treatment works in achieving compliance with this chapter.
+  (B) to assist such treatment works in achieving compliance with this chapter; and
+
+(12) to any qualified nonprofit entity, as determined by the Administrator, to provide assistance to an eligible individual (as defined in subsection (j))—
+
+  (A) for the repair or replacement of existing individual household decentralized wastewater treatment systems; or
+
+  (B) in a case in which an eligible individual resides in a household that could be cost-effectively connected to an available publicly owned treatment works, for the connection of the applicable household to such treatment works.
 
 **(d) Types of assistance** Except as otherwise limited by State law, a water pollution control revolving fund of a State under this section may be used only—
 
@@ -8578,9 +9923,15 @@ Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5006 of Pub. 
 
   (D) *Consideration* — If the State provides additional subsidization to a municipality or intermunicipal, interstate, or State agency under this subsection that meets the criteria under paragraph (1)(A), the State shall take the criteria set forth in [section 1382(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1382/b/5&num=0&edition=prelim) into consideration.
 
+**(j) Definition of eligible individual** In subsection (c)(12), the term “eligible individual” means a member of a household, the members of which have a combined income (for the most recent 12-month period for which information is available) equal to not more than 50 percent of the median nonmetropolitan household income for the State in which the household is located, according to the most recent decennial census.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(12). Pub. L. 115–270, § 4107(a)(1), added par. (12).
+
+Subsec. (j). Pub. L. 115–270, § 4107(a)(2), added subsec. (j).
+
 2016—Subsec. (i)(1). Pub. L. 114–322, § 5012(1), substituted “to an eligible recipient” for “to a municipality or intermunicipal, interstate, or State agency” in introductory provisions.
 
 Subsec. (i)(1)(A). Pub. L. 114–322, § 5012(2), inserted “in assistance to a municipality or intermunicipal, interstate, or State agency” before “to benefit” in introductory provisions.

@@ -509,7 +509,7 @@ Chapter 13 contemplates the filing of a plan only by the debtor.
 
   (B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-  (C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4,
+  (C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 11 See Adjustment of Dollar Amounts notes below. per month for each individual in excess of 4,
   the plan may not provide for payments over a period that is longer than 5 years.
 
 (2) If the current monthly income of the debtor and the debtor’s spouse combined, when multiplied by 12, is less than—
@@ -518,7 +518,7 @@ Chapter 13 contemplates the filing of a plan only by the debtor.
 
   (B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-  (C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4,
+  (C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4,
   the plan may not provide for payments over a period that is longer than 3 years, unless the court, for cause, approves a longer period, but the court may not approve a period that is longer than 5 years.
 
 **(e)** Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1325(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
@@ -526,9 +526,6 @@ Chapter 13 contemplates the filing of a plan only by the debtor.
 **(f)** A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute “disposable income” under section 1325.
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 1322(b)(2) of the House amendment represents a compromise agreement between similar provisions in the House bill and Senate amendment. Under the House amendment, the plan may modify the rights of holders of secured claims other than a claim secured by a security interest in real property that is the debtor’s principal residence. It is intended that a claim secured by the debtor’s principal residence may be treated with under section 1322(b)(5) of the House amendment.
@@ -715,7 +712,7 @@ For purposes of paragraph (5), section 506 shall not apply to a claim described 
 
   (B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-  (C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
+  (C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 11 See Adjustment of Dollar Amounts notes below. per month for each individual in excess of 4.
 
 (4) For purposes of this subsection, the “applicable commitment period”—
 
@@ -729,16 +726,13 @@ For purposes of paragraph (5), section 506 shall not apply to a claim described 
 
       (II) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-      (III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
+      (III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 1 per month for each individual in excess of 4; and
 
   (B) may be less than 3 or 5 years, whichever is applicable under subparagraph (A), but only if the plan provides for payment in full of all allowed unsecured claims over a shorter period.
 
 **(c)** After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate amendment to significantly protect secured creditors in chapter 13. Unless the secured creditor accepts the plan, the plan must provide that the secured creditor retain the lien securing the creditor’s allowed secured claim in addition to receiving value, as of the effective date of the plan of property to be distributed under the plan on account of the claim not less than the allowed amount of the claim. To this extent, a secured creditor in a case under chapter 13 is treated identically with a recourse creditor under section 1111(b)(1) of the House amendment except that the secured creditor in a case under chapter 13 may receive any property of a value as of the effective date of the plan equal to the allowed amount of the creditor’s secured claim rather than being restricted to receiving deferred cash payments. Of course, the secured creditors’ lien only secures the value of the collateral and to the extent property is distributed of a present value equal to the allowed amount of the creditor’s secured claim the creditor’s lien will have been satisfied in full. Thus the lien created under section 1325(a)(5)(B)(i) is effective only to secure deferred payments to the extent of the amount of the allowed secured claim. To the extent the deferred payments exceed the value of the allowed amount of the secured claim and the debtor subsequently defaults, the lien will not secure unaccrued interest represented in such deferred payments.
@@ -843,7 +837,7 @@ By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (
 
   (B) by monthly payments not to exceed the greater of—
 
-    (i) $25; or
+    (i) $25; 11 See Adjustment of Dollar Amounts notes below. or
 
     (ii) the amount payable to unsecured nonpriority creditors, as provided by the plan, multiplied by 5 percent, and the result divided by the number of months in the plan.
 
@@ -856,9 +850,6 @@ By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (
 (2) such compensation is payable in a case under this chapter only to the extent permitted by subsection (b)(3).
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 1326(a)(2) of the House amendment adopts a comparable provision contained in the House bill providing for standing trustees.

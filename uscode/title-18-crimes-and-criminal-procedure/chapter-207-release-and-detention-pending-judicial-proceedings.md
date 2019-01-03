@@ -688,7 +688,7 @@ Pretrial services functions shall include the following:
 
 (12)
 
-  (A) As directed by the court and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243 or 4246 of this title, and report such person’s conduct and condition to the court ordering release and the Attorney General or his designee.
+  (A) As directed by the court and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243, 4246, or 4248 of this title, and report such person’s conduct and condition to the court ordering release and the Attorney General or his designee.
 
   (B) Any violation of the conditions of release shall immediately be reported to the court and the Attorney General or his designee.
 
@@ -701,6 +701,8 @@ Pretrial services functions shall include the following:
 ### Statutory Notes
 
 #### Amendments
+2018—Par. (12)(A). Pub. L. 115–391 substituted “, 4246, or 4248” for “or 4246”.
+
 2010—Pars. (14), (15). Pub. L. 111–174 added par. (14) and redesignated former par. (14) as (15).
 
 2008—Par. (4). Pub. L. 110–406 inserted “, and contract with any appropriate public or private agency or person, or expend funds, to monitor and provide treatment as well as nontreatment services to any such persons released in the community, including equipment and emergency housing, corrective and preventative guidance and training, and other services reasonably deemed necessary to protect the public and ensure that such persons appear in court as required” before period at end.

@@ -2568,6 +2568,9 @@ Section, Pub. L. 90–534, § 7, Sept. 28, 1968, 82 Stat. 884, which authorized 
 #### Codification
 Section, act May 19, 1947, ch. 80, § 1, 61 Stat. 102, which directed the Secretary of the Interior to divide the trust funds on deposit in the Treasury of the United States to the joint credit of the Shoshone and Arapaho Tribes of the Wind River Reservation, was omitted from the Code as being of special and not general application.
 
+#### Wind River Indian Reservation; Compensation for Lands of the Riverton Reclamation Project
+Act Aug. 15, 1953, ch. 509, § 2, 67 Stat. 612, which provided that, subject only to the existing rights and interests which were not extinguished and terminated by act Aug. 15, 1953, ch. 509, 67 Stat. 592, all unentered and vacant lands of the Riverton reclamation project within the ceded portion of the Wind River Indian Reservation were restored to the public domain for administration, use, occupancy, and disposal under the reclamation and public land laws of the United States, was editorially reclassified and is set out as a note under [section 597 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section597&num=0&edition=prelim), Public Lands.
+
 
 <a id="section-612"></a>
 ## § 612. Omitted
@@ -4205,7 +4208,7 @@ Section, Pub. L. 101–42, § 4, June 28, 1989, 103 Stat. 92, which related to p
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 101–42, § 5, June 28, 1989, 103 Stat. 92; Pub. L. 104–208, div. B, title V, § 501, Sept. 30, 1996, 110 Stat. 3009–537, which related to transfer to the Secretary of the Interior of land to be held in trust for the Tribe, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 101–42, § 5, June 28, 1989, 103 Stat. 92; Pub. L. 104–208, div. B, title V, § 501, Sept. 30, 1996, 110 Stat. 3009–537; Pub. L. 115–103, title III, § 301, Jan. 8, 2018, 131 Stat. 2258, which related to transfer to the Secretary of the Interior of land to be held in trust for the Tribe, was omitted from the Code as being of special and not general application.
 
 
 <a id="section-715d"></a>
@@ -5601,6 +5604,9 @@ Section, Pub. L. 86–322, § 8, Sept. 21, 1959, 73 Stat. 594, related to educat
 
 #### Codification
 Section, Pub. L. 103–116, § 2, Oct. 27, 1993, 107 Stat. 1118, which set out declaration of policy, Congressional findings, and purpose of this subchapter, was omitted from the Code as being of special and not general application.
+
+#### Effective Date
+Pub. L. 103–116, § 17, Oct. 27, 1993, 107 Stat. 1138, which generally provided that the provisions of Pub. L. 103–116 were to become effective upon the transfer of the Existing Reservation to the Secretary, was editorially reclassified and is set out as a note under former [section 931 of this title](./chapter-014-miscellaneous.md#section-931).
 
 #### Short Title
 Pub. L. 103–116, § 1, Oct. 27, 1993, 107 Stat. 1118, provided that Pub. L. 103–116, enacting this subchapter and provisions set out as a note under [section 931 of this title](./chapter-014-miscellaneous.md#section-931) and repealing subchapter XLIII (§ 931 et seq.) of this chapter, could be cited as the “Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993”.

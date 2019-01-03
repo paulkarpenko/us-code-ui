@@ -39,6 +39,9 @@ It is hereby declared to be the policy of the Congress to provide for the inspec
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1033"></a>
 ## § 1033. Definitions
@@ -161,6 +164,9 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II 
 #### Amendments
 1992—Subsec. (a)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1034"></a>
 ## § 1034. Inspection of egg products
@@ -202,6 +208,9 @@ This chapter, referred to in subsecs. (a) and (d), was in the original “this A
 #### Effective Date of 1991 Amendment
 Pub. L. 102–237, title X, § 1012(h), Dec. 13, 1991, 105 Stat. 1901, provided that: “This section and the amendments made by this section [amending this section and sections 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031)] shall become effective 12 months after the Secretary of Agriculture promulgates final regulations implementing this section and the amendments.” [Final regulations were promulgated Aug. 20, 1998, effective Aug. 27, 1999. See 63 F.R. 45663.]
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1035"></a>
 ## § 1035. Sanitary operating practices in official plants
@@ -214,6 +223,9 @@ Pub. L. 102–237, title X, § 1012(h), Dec. 13, 1991, 105 Stat. 1901, provided 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1036"></a>
 ## § 1036. Pasteurization and labeling of egg products at official plants
@@ -225,6 +237,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1037"></a>
@@ -283,6 +298,9 @@ This chapter, referred to in subsecs. (b)(1), (2), (e)(7), (8), and (f), was in 
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under [section 1034 of this title](./chapter-015-egg-products-inspection.md#section-1034).
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1038"></a>
 ## § 1038. Cooperation with appropriate State and other governmental agencies; utilization of employees; reimbursement
@@ -294,6 +312,9 @@ The Secretary shall, whenever he determines that it would effectuate the purpose
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1039"></a>
 ## § 1039. Eggs and egg products not intended for use as human food; inspection; denaturing or otherwise identifying
@@ -304,6 +325,9 @@ Inspection shall not be provided under this chapter at any plant for the process
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1040"></a>
@@ -318,6 +342,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Change of Name
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1041"></a>
@@ -379,6 +406,9 @@ Subsec. (e). Pub. L. 102–237, § 1012(d)(3), redesignated subsec. (b) as (e).
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under [section 1034 of this title](./chapter-015-egg-products-inspection.md#section-1034).
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1042"></a>
 ## § 1042. Reporting of violation to United States attorney for institution of criminal proceedings; procedure; presentation of views
@@ -399,6 +429,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under [section 1034 of this title](./chapter-015-egg-products-inspection.md#section-1034).
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1043"></a>
 ## § 1043. Rules and regulations; administration and enforcement
@@ -409,6 +442,9 @@ The Secretary shall promulgate such rules and regulations as he deems necessary 
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1044"></a>
@@ -441,6 +477,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Amendments
 1971—Subsecs. (b), (c). Pub. L. 92–67 added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1045"></a>
 ## § 1045. Limitation on entry of eggs and egg products and other materials into official plants
@@ -451,6 +490,9 @@ The Secretary may limit the entry of eggs and egg products and other materials i
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1046"></a>
@@ -482,6 +524,9 @@ This chapter, referred to in subsecs. (a) to (c), was in the original “this Ac
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under [section 1034 of this title](./chapter-015-egg-products-inspection.md#section-1034).
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1047"></a>
 ## § 1047. Refusal or withdrawal of inspection services; hearing; grounds; person deemed to have responsible connection with business; finality of order of Secretary; judicial review; other provisions for refusal of services unaffected
@@ -493,6 +538,9 @@ The Secretary (for such period, or indefinitely, as he deems necessary to effect
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1048"></a>
 ## § 1048. Administrative detention of violative articles; duration; release; removal of official marks
@@ -503,6 +551,9 @@ Whenever any eggs or egg products subject to this chapter, are found by any auth
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1049"></a>
@@ -522,6 +573,9 @@ The Fair Packaging and Labeling Act, referred to in subsec. (a), is Pub. L. 89�
 
 The supplemental rules for certain admiralty and maritime claims, referred to in subsec. (a), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1050"></a>
 ## § 1050. Jurisdiction of district courts; United States as plaintiff in enforcement and restraining proceedings; subpenas for witnesses
@@ -532,6 +586,9 @@ The United States district courts and the District Court of the Virgin Islands a
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1051"></a>
@@ -545,6 +602,9 @@ For the efficient administration and enforcement of this chapter, the provisions
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
 
 The last paragraph of [section 49 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section49&num=0&edition=prelim), and the provisions of section 409(l) of title 47, referred to in text, which related to immunity of witnesses, were repealed by sections 211 and 242, respectively, of Pub. L. 91–452, Oct. 15, 1970, title II, 84 Stat. 929, 930. For provisions relating to immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1052"></a>
@@ -575,6 +635,9 @@ The Fair Packaging and Labeling Act, referred to in subsecs. (b) and (c), is Pub
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under [section 1034 of this title](./chapter-015-egg-products-inspection.md#section-1034).
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1053"></a>
 ## § 1053. Inspection and administration costs
@@ -590,6 +653,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 The Wholesome Poultry Products Act, referred to in subsec. (b), is Pub. L. 90–492, Aug. 18, 1968, 82 Stat. 791, which enacted sections 467a to 467f and 470 of this title, amended sections 451 to 461, 463 to 465, and 467 of this title, and enacted provisions set out as notes under [section 451 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-451). For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 451 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-451) and Tables.
 
 The Wholesome Meat Act, referred to in subsec. (b), is Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which enacted sections 601, 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amended sections 603 to 623 of this title, repealed [section 96 of this title](./chapter-004-animals-meats-and-meat-and-dairy-products.md#section-96) and [section 1306(b) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1306/b&num=0&edition=prelim), Customs Duties, and enacted provisions set out as notes under [section 601 of this title](./chapter-012-meat-inspection.md#section-601). For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-012-meat-inspection.md#section-601) and Tables.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
 
 
 <a id="section-1054"></a>
@@ -620,6 +686,9 @@ This chapter, referred to in subsec. (a)(1), (2)(A), (E), was in the original �
 #### Amendments
 1994—Pub. L. 103–437 substituted “Agriculture, Nutrition, and Forestry” for “Agriculture and Forestry” in introductory provisions.
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1055"></a>
 ## § 1055. Authorization of appropriations
@@ -631,6 +700,9 @@ Such sums as are necessary to carry out the provisions of this chapter are hereb
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
 
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).
+
 
 <a id="section-1056"></a>
 ## § 1056. Separability
@@ -641,3 +713,6 @@ If any provision of this chapter or the application thereof to any person or cir
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031) and Tables.
+
+#### Effective Date
+For effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under [section 1031 of this title](./chapter-015-egg-products-inspection.md#section-1031).

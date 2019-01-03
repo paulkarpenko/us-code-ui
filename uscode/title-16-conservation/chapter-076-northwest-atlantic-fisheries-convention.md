@@ -85,9 +85,6 @@ source: >-
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Short Title
-Pub. L. 104–43, title II, § 201, Nov. 3, 1995, 109 Stat. 377, provided that: “This title [enacting this chapter] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
-
 #### Amendments
 2016—Subsec. (a)(1). Pub. L. 114–327, § 502(1), in introductory provisions, struck out “General Council and the Fisheries” before “Commission”.
 
@@ -103,6 +100,9 @@ Subsec. (f)(1)(A). Pub. L. 114–327, § 502(6), made technical amendment to ref
 
 #### Short Title of 2016 Amendment
 Pub. L. 114–327, title V, § 501(a), Dec. 16, 2016, 130 Stat. 1995, provided that: “This title [amending this section and sections 5602 to 5604, 5606, 5607, 5609, and 5610 of this title and repealing [section 5612 of this title](./chapter-076-northwest-atlantic-fisheries-convention.md#section-5612)] may be cited as the ‘Northwest Atlantic Fisheries Convention Amendments Act’.”
+
+#### Short Title
+Pub. L. 104–43, title II, § 201, Nov. 3, 1995, 109 Stat. 377, provided that: “This title [enacting this chapter] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
 
 
 <a id="section-5602"></a>

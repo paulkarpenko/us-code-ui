@@ -12,7 +12,7 @@ source: >-
 
 (1) the Government of Iran has ceased providing support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism (as defined in section 301 [[22 U.S.C. 8541](./chapter-092-comprehensive-iran-sanctions-accountability-and-divestment.md#section-8541)]) under—
 
-  (A) [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or any successor thereto);
+  (A) [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or any successor thereto); 11 See References in Text note below.
 
   (B) [section 2780(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim); or
 
@@ -40,6 +40,8 @@ source: >-
 
 #### References in Text
 This Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, known as the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, [section 80a–13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–13&num=0&edition=prelim), Commerce and Trade, [section 310 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section310&num=0&edition=prelim), Money and Finance, and [section 4315 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4315&num=0&edition=prelim), War and National Defense, enacted provisions set out as notes under [section 80a–13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–13&num=0&edition=prelim) and [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), and amended provisions set out as notes under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim). Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, [section 310 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section310&num=0&edition=prelim), and [section 4315 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4315&num=0&edition=prelim), enacted provisions set out as a note under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), and amended provisions set out as a note under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim). Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim). Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and [section 4315 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4315&num=0&edition=prelim). Section 109 of the Act enacted [section 8517 of this title](./chapter-092-comprehensive-iran-sanctions-accountability-and-divestment.md#section-8517) and amended [section 310 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section310&num=0&edition=prelim). Section 205 of the Act amended [section 80a–13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–13&num=0&edition=prelim), enacted provisions set out as a note under [section 80a–13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–13&num=0&edition=prelim), and amended provisions set out as a note under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 8501 of this title](./chapter-092-comprehensive-iran-sanctions-accountability-and-divestment.md#section-8501) and Tables.
+
+[Section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim), referred to in subsec. (a)(1)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) can be found in [section 4813(c)(1)(A)(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A/i&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Amendments
 2013—Subsec. (b)(1). Pub. L. 112–239 substituted “105B(a), or 105C(a)” for “or 105B(a)” and “105B(b), or 105C(b)” for “or 105B(b)”.
@@ -637,6 +639,14 @@ Barack Obama.
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
 
+Determination of President of the United States, No. 2019–04, Oct. 31, 2018, 83 F.R. 57673.
+
+Determination of President of the United States, No. 2018–08, May 14, 2018, 83 F.R. 26345.
+
+Determination of President of the United States, No. 2018–1 [2018–01], Nov. 15, 2017, 82 F.R. 59503.
+
+Determination of President of the United States, No. 2017–06, May 17, 2017, 82 F.R. 28391.
+
 Determination of President of the United States, No. 2017–01, Nov. 14, 2016, 81 F.R. 85833.
 
 Determination of President of the United States, No. 2016–06, May 19, 2016, 81 F.R. 37481.
@@ -1156,7 +1166,7 @@ In this subchapter:
 
 (13) **State sponsor of terrorism** — The term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to—
 
-  (A) [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or any successor thereto);
+  (A) [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or any successor thereto); 11 See References in Text note below.
 
   (B) [section 2780(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim); or
 
@@ -1168,6 +1178,9 @@ In this subchapter:
 
 #### Termination of Section
 For termination of section, see [section 8551(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8551/a&num=0&edition=prelim).
+
+#### References in Text
+[Section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim), referred to in par. (13)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) can be found in [section 4813(c)(1)(A)(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A/i&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 
 <a id="section-8543"></a>
@@ -1305,6 +1318,6 @@ The Secretary of Commerce may designate any employee of the Office of Export Enf
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. Section 12 of the Act is now classified to [section 4614 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4614&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613). Section 12 of the Act was classified to [section 4614 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4614&num=0&edition=prelim) prior to repeal.
 
 The International Emergency Economic Powers Act, referred to in pars. (1) and (3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.

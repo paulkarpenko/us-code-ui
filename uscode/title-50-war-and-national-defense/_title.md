@@ -2,8 +2,8 @@
 title: 50
 heading: WAR AND NATIONAL DEFENSE
 positive_law: false
-sections: 1274
-chapters: 61
+sections: 1286
+chapters: 62
 ---
 # Title 50. WAR AND NATIONAL DEFENSE
 
@@ -69,3 +69,4 @@ chapters: 61
 - 55 — DEFENSE PRODUCTION
 - 56 — EXPORT ADMINISTRATION
 - 57 — CLAIMS UNDER THE CLARIFICATION ACT
+- 58 — EXPORT CONTROL REFORM

@@ -801,7 +801,7 @@ Notwithstanding sections 1902, 1923, and 1925 of this title, if the beneficiary 
 ### Statutory Notes
 
 #### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 726 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section726&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 726 of this title](./chapter-007-employees.md#section-726) as this section.
 
 Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
 
@@ -822,7 +822,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 ### Statutory Notes
 
 #### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 727 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section727&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 727 of this title](./chapter-007-employees.md#section-727) as this section.
 
 Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
 
@@ -846,7 +846,7 @@ Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925�
 ### Statutory Notes
 
 #### Amendments
-1991—Pub. L. 102–83 renumbered [section 728 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section728&num=0&edition=prelim) as this section and substituted “Secretary” for “Administrator” wherever appearing.
+1991—Pub. L. 102–83 renumbered [section 728 of this title](./chapter-007-employees.md#section-728) as this section and substituted “Secretary” for “Administrator” wherever appearing.
 
 #### Effective Date
 Pub. L. 100–687, div. B, title XIV, § 1401(a)(3), Nov. 18, 1988, 102 Stat. 4129, provided that: “The amendments made by this subsection [enacting this section and section 763 [now 1963] of this title] shall take effect with respect to insurance policies maturing after the date of the enactment of this Act [Nov. 18, 1988].”
@@ -1526,7 +1526,7 @@ Subsec. (d). Pub. L. 99–576, § 701(36)(B), substituted “the Administrator�
 
 (3)
 
-  (A) Subject to subparagraphs (B) and (C), the amount for which a person is insured under this subchapter is as follows:
+  (A) Subject to subparagraphs (B), (C), and (D), the amount for which a person is insured under this subchapter is as follows:
 
     (i) In the case of a member, $400,000.
 
@@ -1537,6 +1537,16 @@ Subsec. (d). Pub. L. 99–576, § 701(36)(B), substituted “the Administrator�
   (B) A member may elect in writing to be insured or to insure the member’s spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member’s child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member’s spouse, be evenly divisible by $10,000.
 
   (C) In no case may the amount of insurance coverage under this subsection of a member’s spouse exceed the amount of insurance coverage of the member.
+
+  (D) In the case of a member who elects under paragraph (2)(A) not to be insured under this section, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations 11 So in original. Probably should be followed by a comma. the member—
+
+    (i) shall be insured under this subchapter for the maximum amount provided under subparagraph (A) for the period of such deployment; and
+
+    (ii) upon the end of such deployment—
+
+      (I) shall be insured in the amount elected by the member under subparagraph (B); or
+
+      (II) shall not be insured, if so elected under paragraph (2)(A).
 
 (4)
 
@@ -1596,6 +1606,10 @@ shall be deemed to have been on active duty, active duty for training, or inacti
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(3)(A). Pub. L. 115–232, § 625(1), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions.
+
+Subsec. (a)(3)(D). Pub. L. 115–232, § 625(2), added subpar. (D).
+
 2013—Subsec. (a)(1)(A)(ii), (C)(ii). Pub. L. 112–239 inserted “(other than a dependent who is also a member of a uniformed service and, because of such membership, is automatically insured under this paragraph)” after “insurable dependent of the member”.
 
 2010—Subsec. (a)(3)(B). Pub. L. 111–275 substituted “spouse,” for “spouse,,”.

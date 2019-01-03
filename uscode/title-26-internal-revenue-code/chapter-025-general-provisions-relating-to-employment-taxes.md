@@ -133,7 +133,7 @@ Repeal applicable to taxable years beginning after Dec. 31, 2010, see section 21
 
   (C) the services performed by the person are performed pursuant to a written contract between such person and the person for whom the services are performed and such contract provides that the person will not be treated as an employee with respect to such services for Federal tax purposes.
 
-(3) **Coordination with retirement plans for self­employed** — This section shall not apply for purposes of subtitle A to the extent that the individual is treated as an employee under section 401(c)(1) (relating to self-employed individuals).
+(3) **Coordination with retirement plans for self-employed** — This section shall not apply for purposes of subtitle A to the extent that the individual is treated as an employee under section 401(c)(1) (relating to self-employed individuals).
 
 ### Statutory Notes
 
@@ -178,7 +178,7 @@ Pub. L. 97–248, title II, § 269(c)(3), Sept. 3, 1982, 96 Stat. 553, provided 
 
   (B) the employer shall not be entitled to recover from the employee any tax so determined, and
 
-  (C) sections 11 So in original. Probably should be “section”. 3402(d) and section 6521 shall not apply.
+  (C) section 3402(d) and section 6521 shall not apply.
 
 (2) **Section not to apply where employer deducts wage but not social security taxes** — This section shall not apply to any employer with respect to any wages if—
 
@@ -191,6 +191,8 @@ Pub. L. 97–248, title II, § 269(c)(3), Sept. 3, 1982, 96 Stat. 553, provided 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d)(1)(C). Pub. L. 115–141 substituted “section 3402(d)” for “sections 3402(d)”.
+
 1990—Subsec. (d)(3). Pub. L. 101–508 substituted “subsection (d)(3)” for “subsection (d)(4)”.
 
 1988—Subsec. (d)(3). Pub. L. 100–647 substituted “subsection (d)(4)” for “subsection (d)(3)”.

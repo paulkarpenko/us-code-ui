@@ -906,7 +906,7 @@ The effective date of this section, referred to in subsec. (a)(1), is the date o
 2006—Subsec. (b). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 #### Effective Date
-Subchapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Commission on Postal Service
 Pub. L. 94–421, § 7, Sept. 24, 1976, 90 Stat. 1307, related to establishment, appointment and compensation of personnel and officers of a Commission on Postal Service and its duty to determine public service aspects of Postal Service and extent to which public service aspects of Postal Service are to be supported by appropriations, to study rate making, and to review service levels and electronic fund transfers and communication techniques, with appropriate recommendations to be transmitted to President and Congress on or before Mar. 15, 1977, 60 days after which transmittal it was to cease to exist.
@@ -968,7 +968,7 @@ No mailer may be reimbursed for any amount paid under any rate or fee which, aft
 2006—Pub. L. 109–435 substituted “sections 3662 through 3664” for “section 3628”.
 
 #### Effective Date
-Subchapter effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3682"></a>
@@ -990,6 +990,9 @@ Pub. L. 97–242, § 1(b), Aug. 24, 1982, 96 Stat. 300, provided that: “The si
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under [section 3601 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3601&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+#### Effective Date
+Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3683"></a>
@@ -1023,6 +1026,9 @@ Former sections 4452 and 4554 of this title, referred to in text, mean sections 
 #### Effective Date of 1993 Amendment
 Pub. L. 103–123, title VII, § 706(b), Oct. 28, 1993, 107 Stat. 1272, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to mail sent after September 30, 1993.”
 
+#### Effective Date
+Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3684"></a>
 ## § 3684. Limitations
@@ -1038,6 +1044,9 @@ Except as provided in [section 3627 of this title](./chapter-036-postal-rates-cl
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under [section 20301 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301&num=0&edition=prelim), Voting and Elections.
+
+#### Effective Date
+Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3685"></a>
@@ -1058,6 +1067,11 @@ The Postal Service shall not require the names of persons owning less than 1 per
 **(b)** Each publication having such mail privileges shall furnish to the Postal Service information in such form and detail, and at such times, as the Postal Service requires to determine whether the publication continues to qualify for such privileges.
 
 **(c)** The Postal Service shall make appropriate rules and regulations to carry out the purposes of this section, including provision for suspension or revocation of periodical publication mail privileges for failure to furnish the required information.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3686"></a>

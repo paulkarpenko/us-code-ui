@@ -2,7 +2,7 @@
 title: 12
 chapter: '16'
 heading: FEDERAL DEPOSIT INSURANCE CORPORATION
-section_count: 71
+section_count: 73
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -1257,6 +1257,16 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
   (B) *Reduction or elimination of information found to be unnecessary.—* — After completing the review required by subparagraph (A), a Federal banking agency, in conjunction with the other relevant Federal banking agencies, shall reduce or eliminate any requirement to file information or schedules under paragraph (3) (other than information or schedules that are otherwise required by law) if the agency determines that the continued collection of such information or schedules is no longer necessary or appropriate.
 
+(12) **Short form reporting.—**
+
+  (A) *In general.—* — The appropriate Federal banking agencies shall issue regulations that allow for a reduced reporting requirement for a covered depository institution when the institution makes the first and third report of condition for a year, as required under paragraph (3).
+
+  (B) *Definition.—* — In this paragraph, the term “covered depository institution” means an insured depository institution that—
+
+    (i) has less than $5,000,000,000 in total consolidated assets; and
+
+    (ii) satisfies such other criteria as the appropriate Federal banking agencies determine appropriate.
+
 **(b) Assessments**
 
 (1) **Risk-based assessment system**
@@ -1808,6 +1818,8 @@ The calendar year in which the Financial Institutions Reform, Recovery, and Enfo
 Section is derived from subsec. (h) of former [section 264 of this title](./chapter-003-federal-reserve-system.md#section-264). See Codification note under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811).
 
 #### Amendments
+2018—Subsec. (a)(12). Pub. L. 115–174 added par. (12).
+
 2010—Subsec. (a)(2)(A). Pub. L. 111–203, § 363(2)(A)(i)(I), in the first sentence, struck out “the Director of the Office of Thrift Supervision,” before “the Federal” and substituted “Finance Agency” for “Finance Board” and, in the second sentence, substituted “to the Federal Housing” for “the Director of the Office of Thrift Supervision, the Federal Housing”, inserted “to” before “any Federal home”, and substituted “Finance Agency” for “Finance Board”.
 
 Subsec. (a)(2)(B). Pub. L. 111–203, § 363(2)(A)(i)(II), substituted “the Comptroller of the Currency and the Board of Governors of the Federal Reserve System,” for “the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision,”.
@@ -3626,7 +3638,7 @@ Nothing contained in section 205 of Pub. L. 89–695 amending subsec. Fourth of 
 
 (4) **18-month rule for certain small institutions** — Paragraphs (1), (2), and (3) shall apply with “18-month” substituted for “12-month” if—
 
-  (A) the insured depository institution has total assets of less than $1,000,000,000;
+  (A) the insured depository institution has total assets of less than $3,000,000,000;
 
   (B) the institution is well capitalized, as defined in section 1831o of this title;
 
@@ -3670,7 +3682,7 @@ Nothing contained in section 205 of Pub. L. 89–695 amending subsec. Fourth of 
 
 (9) **Standards for determining adequacy of State examinations** — The Federal Financial Institutions Examination Council shall issue guidelines establishing standards to be used at the discretion of the appropriate Federal banking agency for purposes of making a determination under paragraph (3).
 
-(10) **Agencies authorized to increase maximum asset amount of institutions for certain purposes** — At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency’s discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $200,000,000 to an amount not to exceed $1,000,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
+(10) **Agencies authorized to increase maximum asset amount of institutions for certain purposes** — At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency’s discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $200,000,000 to an amount not to exceed $3,000,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
 
 **(e) Examination fees**
 
@@ -3863,6 +3875,10 @@ Title II of that Act, referred to in subsec. (b)(3)(A), probably means title II 
 Subsecs. (a), (b), [former] (e), and [former] (f) are derived from subsec. (k) of former [section 264 of this title](./chapter-003-federal-reserve-system.md#section-264). See Codification note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811).
 
 #### Amendments
+2018—Subsec. (d)(4)(A). Pub. L. 115–174, § 210(1), substituted “$3,000,000,000” for “$1,000,000,000”.
+
+Subsec. (d)(10). Pub. L. 115–174, § 210(2), substituted “$3,000,000,000” for “$1,000,000,000”.
+
 2015—Subsec. (d)(4)(A). Pub. L. 114–94, § 83001(1)(A), substituted “$1,000,000,000” for “$500,000,000”.
 
 Subsec. (d)(4)(C)(ii). Pub. L. 114–94, § 83001(1)(B), substituted “$200,000,000” for “$100,000,000”.
@@ -8317,6 +8333,26 @@ Pub. L. 101–73, title II, § 220(b)(1), Aug. 9, 1989, 103 Stat. 265, directed 
 
 (2) **Rulemaking** — The Board of Governors of the Federal Reserve System may issue such rules as may be necessary to define terms and to carry out the purposes this subsection. Before proposing or adopting a rule under this paragraph, the Board of Governors of the Federal Reserve System shall consult with the Comptroller of the Currency and the Corporation as to the terms of the rule.
 
+**(aa) Treatment of certain municipal obligations**
+
+(1) **Definitions** — In this subsection—
+
+  (A) the term “investment grade”, with respect to an obligation, has the meaning given the term in section 1.2 of title 12, Code of Federal Regulations, or any successor thereto;
+
+  (B) the term “liquid and readily-marketable” has the meaning given the term in section 249.3 of title 12, Code of Federal Regulations, or any successor thereto; and
+
+  (C) the term “municipal obligation” means an obligation of—
+
+    (i) a State or any political subdivision thereof; or
+
+    (ii) any agency or instrumentality of a State or any political subdivision thereof.
+
+(2) **Municipal obligations** — For purposes of the final rule entitled “Liquidity Coverage Ratio: Liquidity Risk Measurement Standards” (79 Fed. Reg. 61439 (October 10, 2014)), the final rule entitled “Liquidity Coverage Ratio: Treatment of U.S. Municipal Securities as High-Quality Liquid Assets” (81 Fed. Reg. 21223 (April 11, 2016)), and any other regulation that incorporates a definition of the term “high-quality liquid asset” or another substantially similar term, the appropriate Federal banking agencies shall treat a municipal obligation as a high-quality liquid asset that is a level 2B liquid asset if that obligation is, as of the date of calculation—
+
+  (A) liquid and readily-marketable; and
+
+  (B) investment grade.
+
 ### Statutory Notes
 
 #### References in Text
@@ -8345,6 +8381,10 @@ Section 302 of Pub. L. 93–501, cited as a credit to this section, was repealed
 Subsecs. (a) to (f) and former subsec. (g) are derived from subsec. (v)(2) to (8) of former [section 264 of this title](./chapter-003-federal-reserve-system.md#section-264). See Codification note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811).
 
 #### Amendments
+2018—Subsec. (z). Pub. L. 115–174, § 403(a)(1), moved subsec. (z) to follow subsec. (y).
+
+Subsec. (aa). Pub. L. 115–174, § 403(a)(2), added subsec. (aa).
+
 2012—Subsec. (x)(1). Pub. L. 112–215 inserted “the Bureau of Consumer Financial Protection,” before “any Federal banking agency” and substituted “such Bureau, agency” for “such agency” in two places.
 
 Subsec. (x)(2)(B). Pub. L. 112–215, § 1(2)(A), inserted “the Bureau of Consumer Financial Protection,” before “any Federal banking agency”.
@@ -8385,7 +8425,7 @@ Subsec. (d)(4)(A)(i). Pub. L. 111–203, § 613(b), amended cl. (i) generally. P
 
 “(II) expressly permits all out-of-State banks to establish de novo branches in such State; and”.
 
-Subsec. (y). Pub. L. 111–203, § 611(a), which directed amendment of section by adding subsec. (y) at the end, was executed by adding subsec. (y) after subsec. (x), as the probable intent of Congress, even though Pub. L. 111–203, § 615(a), which added subsec. (z) at the end, was effective earlier. See Amendment note and Effective Date of 2010 Amendment note below.
+Subsec. (y). Pub. L. 111–203, § 611(a), added subsec. (y).
 
 Subsec. (z). Pub. L. 111–203, § 615(a), added subsec. (z).
 
@@ -8736,6 +8776,9 @@ Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (c)(9) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
+
+#### Amendment to Liquidity Coverage Ratio Regulations
+Pub. L. 115–174, title IV, § 403(b), May 24, 2018, 132 Stat. 1361, provided that: “Not later than 90 days after the date of enactment of this Act [May 24, 2018], the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Comptroller of the Currency shall amend the final rule entitled ‘Liquidity Coverage Ratio: Liquidity Risk Measurement Standards’ (79 Fed. Reg. 61439 (October 10, 2014)) and the final rule entitled ‘Liquidity Coverage Ratio: Treatment of U.S. Municipal Securities as High-Quality Liquid Assets’ (81 Fed. Reg. 21223 (April 11, 2016)) to implement the amendments made by this section [amending this section].”
 
 #### Banking Agency Publication Requirements
 Pub. L. 105–18, title V, § 50004, June 12, 1997, 111 Stat. 212, provided that: “(a) In General.—A qualifying regulatory agency may take any of the following actions with respect to depository institutions or other regulated entities whose principal place of business is within, or with respect to transactions or activities within, an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, if the agency determines that the action would facilitate recovery from the major disaster:“(1) Procedure.—Exercising the agency’s authority under provisions of law other than this section without complying with—“(A) any requirement of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code; or “(B) any provision of law that requires notice or opportunity for hearing or sets maximum or minimum time limits with respect to agency action. “(2) Publication requirements.—Making exceptions, with respect to institutions or other entities for which the agency is the primary Federal regulator, to—“(A) any publication requirement with respect to establishing branches or other deposit-taking facilities; or “(B) any similar publication requirement. “(b) Publication Required.—A qualifying regulatory agency shall publish in the Federal Register a statement that—“(1) describes any action taken under this section; and “(2) explains the need for the action. “(c) Qualifying Regulatory Agency Defined.—For purposes of this section, the term ‘qualifying regulatory agency’ means—“(1) the Board of Governors of the Federal Reserve System; “(2) the Comptroller of the Currency; “(3) the Director of the Office of Thrift Supervision; “(4) the Federal Deposit Insurance Corporation; “(5) the Financial Institutions Examination Council; “(6) the National Credit Union Administration; and “(7) with respect to chapter 53 of title 31, United States Code, the Secretary of the Treasury. “(d) Expiration.—Any exception made under this section shall expire not later than February 28, 1998.”
@@ -9129,6 +9172,74 @@ Administrative procedure and judicial review provisions of subchapter II (§ 551
 Responsibility for the Secretary of the Treasury to assure compliance with requirements of this section, and Secretary’s authority to delegate such responsibility to the appropriate bank supervisory agency, or other supervisory agency, see [section 1958 of this title](./chapter-021-financial-recordkeeping.md#section-1958).
 
 
+<a id="section-1829c"></a>
+## § 1829c. Making online banking initiation legal and easy
+**(a) Definitions** In this section:
+
+(1) **Affiliate** — The term “affiliate” has the meaning given the term in [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841).
+
+(2) **Driver’s license** — The term “driver’s license” means a license issued by a State to an individual that authorizes the individual to operate a motor vehicle on public streets, roads, or highways.
+
+(3) **Federal bank secrecy laws** — The term “Federal bank secrecy laws” means—
+
+  (A) [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b);
+
+  (B) [section 1953 of this title](./chapter-021-financial-recordkeeping.md#section-1953); and
+
+  (C) subchapter II of chapter 53 of title 31.
+
+(4) **Financial institution** — The term “financial institution” means—
+
+  (A) an insured depository institution;
+
+  (B) an insured credit union; or
+
+  (C) any affiliate of an insured depository institution or insured credit union.
+
+(5) **Financial product or service** — The term “financial product or service” has the meaning given the term in [section 5481 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5481).
+
+(6) **Insured credit union** — The term “insured credit union” has the meaning given the term in [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
+
+(7) **Insured depository institution** — The term “insured depository institution” has the meaning given the term in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+(8) **Online service** — The term “online service” means any Internet-based service, such as a website or mobile application.
+
+(9) **Personal identification card** — The term “personal identification card” means an identification document issued by a State or local government to an individual solely for the purpose of identification of that individual.
+
+(10) **Personal information** — The term “personal information” means the information displayed on or electronically encoded on a driver’s license or personal identification card that is reasonably necessary to fulfill the purpose and uses permitted by subsection (b).
+
+(11) **Scan** — The term “scan” means the act of using a device or software to decipher, in an electronically readable format, personal information displayed on or electronically encoded on a driver’s license or personal identification card.
+
+(12) **State** — The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States.
+
+**(b) Use of a driver’s license or personal identification card**
+
+(1) **In general** — When an individual initiates a request through an online service to open an account with a financial institution or obtain a financial product or service from a financial institution, the financial institution may record personal information from a scan of the driver’s license or personal identification card of the individual, or make a copy or receive an image of the driver’s license or personal identification card of the individual, and store or retain such information in any electronic format for the purposes described in paragraph (2).
+
+(2) **Uses of information** — Except as required to comply with Federal bank secrecy laws, a financial institution may only use the information obtained under paragraph (1)—
+
+  (A) to verify the authenticity of the driver’s license or personal identification card;
+
+  (B) to verify the identity of the individual; and
+
+  (C) to comply with a legal requirement to record, retain, or transmit the personal information in connection with opening an account or obtaining a financial product or service.
+
+(3) **Deletion of image** — A financial institution that makes a copy or receives an image of a driver’s license or personal identification card of an individual in accordance with paragraphs (1) and (2) shall, after using the image for the purposes described in paragraph (2), permanently delete—
+
+  (A) any image of the driver’s license or personal identification card, as applicable; and
+
+  (B) any copy of any such image.
+
+(4) **Disclosure of personal information** — Nothing in this section shall be construed to amend, modify, or otherwise affect any State or Federal law that governs a financial institution’s disclosure and security of personal information that is not publicly available.
+
+**(c) Relation to State law** The provisions of this section shall preempt and supersede any State law that conflicts with a provision of this section, but only to the extent of such conflict.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Economic Growth, Regulatory Relief, and Consumer Protection Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+
+
 <a id="section-1830"></a>
 ## § 1830. Nondiscrimination
 
@@ -9395,6 +9506,66 @@ Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–5
 
 #### Exemptions; Regulations
 Pub. L. 93–533, § 11(c), Dec. 22, 1974, 88 Stat. 1729, provided that: “The Federal Deposit Insurance Corporation or the Federal Home Loan Bank Board as appropriate may by regulation exempt classes or types of transactions from the provisions added by this section [enacting this section and [section 1730f of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1730f&num=0&edition=prelim)] if the Corporation or the Board determines that the purposes of such provisions would not be advanced materially by their application to such transactions.”
+
+
+<a id="section-1831bb"></a>
+## § 1831bb. Capital requirements for certain acquisition, development, or construction loans
+**(a) In general** The appropriate Federal banking agencies may only require a depository institution to assign a heightened risk weight to a high volatility commercial real estate (HVCRE) exposure (as such term is defined under section 324.2 of title 12, Code of Federal Regulations, as of October 11, 2017, or if a successor regulation is in effect as of May 24, 2018, such term or any successor term contained in such successor regulation) under any risk-based capital requirement if such exposure is an HVCRE ADC loan.
+
+**(b) HVCRE ADC loan defined** For purposes of this section and with respect to a depository institution, the term “HVCRE ADC loan”—
+
+(1) means a credit facility secured by land or improved real property that, prior to being reclassified by the depository institution as a non-HVCRE ADC loan pursuant to subsection (d)—
+
+  (A) primarily finances, has financed, or refinances the acquisition, development, or construction of real property;
+
+  (B) has the purpose of providing financing to acquire, develop, or improve such real property into income-producing real property; and
+
+  (C) is dependent upon future income or sales proceeds from, or refinancing of, such real property for the repayment of such credit facility;
+
+(2) does not include a credit facility financing—
+
+  (A) the acquisition, development, or construction of properties that are—
+
+    (i) one- to four-family residential properties;
+
+    (ii) real property that would qualify as an investment in community development; or
+
+    (iii) agricultural land;
+
+  (B) the acquisition or refinance of existing income-producing real property secured by a mortgage on such property, if the cash flow being generated by the real property is sufficient to support the debt service and expenses of the real property, in accordance with the institution’s applicable loan underwriting criteria for permanent financings;
+
+  (C) improvements to existing income-producing improved real property secured by a mortgage on such property, if the cash flow being generated by the real property is sufficient to support the debt service and expenses of the real property, in accordance with the institution’s applicable loan underwriting criteria for permanent financings; or
+
+  (D) commercial real property projects in which—
+
+    (i) the loan-to-value ratio is less than or equal to the applicable maximum supervisory loan-to-value ratio as determined by the appropriate Federal banking agency;
+
+    (ii) the borrower has contributed capital of at least 15 percent of the real property’s appraised, “as completed” value to the project in the form of—
+
+      (I) cash;
+
+      (II) unencumbered readily marketable assets;
+
+      (III) paid development expenses out-of-pocket; or
+
+      (IV) contributed real property or improvements; and
+
+    (iii) the borrower contributed the minimum amount of capital described under clause (ii) before the depository institution advances funds (other than the advance of a nominal sum made in order to secure the depository institution’s lien against the real property) under the credit facility, and such minimum amount of capital contributed by the borrower is contractually required to remain in the project until the credit facility has been reclassified by the depository institution as a non-HVCRE ADC loan under subsection (d);
+
+(3) does not include any loan made prior to January 1, 2015; and
+
+(4) does not include a credit facility reclassified as a non-HVCRE ADC loan under subsection (d).
+
+**(c) Value of contributed real property** For purposes of this section, the value of any real property contributed by a borrower as a capital contribution shall be the appraised value of the property as determined under standards prescribed pursuant to [section 3339 of this title](./chapter-34a-appraisal-subcommittee-of-federal-financial-institutions-examination-council.md#section-3339), in connection with the extension of the credit facility or loan to such borrower.
+
+**(d) Reclassification as a Non-HVRCE ADC loan** For purposes of this section and with respect to a credit facility and a depository institution, upon—
+
+(1) the substantial completion of the development or construction of the real property being financed by the credit facility; and
+
+(2) cash flow being generated by the real property being sufficient to support the debt service and expenses of the real property,
+in accordance with the institution’s applicable loan underwriting criteria for permanent financings, the credit facility may be reclassified by the depository institution as a Non-HVCRE ADC loan.
+
+**(e) Existing authorities** Nothing in this section shall limit the supervisory, regulatory, or enforcement authority of an appropriate Federal banking agency to further the safe and sound operation of an institution under the supervision of the appropriate Federal banking agency.
 
 
 <a id="section-1831c"></a>
@@ -9729,11 +9900,25 @@ Pub. L. 102–242, title I, § 151(a)(3), Dec. 19, 1991, 105 Stat. 2284, provide
 (3) is consistent with the conservator’s fiduciary duty to minimize the institution’s losses.
 Effective 90 days after the date on which the institution was placed in conservatorship, the institution may not accept such deposits.
 
-**(e) Restriction on interest rate paid** Any insured depository institution which, under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
+**(e) Restriction on interest rate paid**
 
-(1) the rate paid on deposits of similar maturity in such institution’s normal market area for deposits accepted in the institution’s normal market area; or
+(1) **Definitions** — In this subsection—
 
-(2) the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the institution’s normal market area.
+  (A) the terms “agent institution”, “reciprocal deposits”, and “well capitalized” have the meanings given those terms in subsection (i); and
+
+  (B) the term “covered insured depository institution” means an insured depository institution that—
+
+    (i) under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker; or
+
+    (ii) while acting as an agent institution under subsection (i), accepts reciprocal deposits while not well capitalized.
+
+(2) **Prohibition** — A covered insured depository institution may not pay a rate of interest on funds or reciprocal deposits described in paragraph (1) that, at the time that the funds or reciprocal deposits are accepted, significantly exceeds the limit set forth in paragraph (3).
+
+(3) **Limit on interest rates** — The limit on the rate of interest referred to in paragraph (2) shall be—
+
+  (A) the rate paid on deposits of similar maturity in the normal market area of the covered insured depository institution for deposits accepted in the normal market area of the covered insured depository institution; or
+
+  (B) the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the normal market area of the covered insured depository institution.
 
 **(f) Additional restrictions** The Corporation may impose, by regulation or order, such additional restrictions on the acceptance of brokered deposits by any institution as the Corporation may determine to be appropriate.
 
@@ -9783,9 +9968,55 @@ Effective 90 days after the date on which the institution was placed in conserva
 
 (2) in the market area in which such deposits would otherwise be accepted.
 
+**(i) Limited exception for reciprocal deposits**
+
+(1) **In general** — Reciprocal deposits of an agent institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker to the extent that the total amount of such reciprocal deposits does not exceed the lesser of—
+
+  (A) $5,000,000,000; or
+
+  (B) an amount equal to 20 percent of the total liabilities of the agent institution.
+
+(2) **Definitions** — In this subsection:
+
+  (A) *Agent institution* — The term “agent institution” means an insured depository institution that places a covered deposit through a deposit placement network at other insured depository institutions in amounts that are less than or equal to the standard maximum deposit insurance amount, specifying the interest rate to be paid for such amounts, if the insured depository institution—
+
+    (i)
+
+      (I) when most recently examined under [section 1820(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1820/d&num=0&edition=prelim) was found to have a composite condition of outstanding or good; and
+
+      (II) is well capitalized;
+
+    (ii) has obtained a waiver pursuant to subsection (c); or
+
+    (iii) does not receive an amount of reciprocal deposits that causes the total amount of reciprocal deposits held by the agent institution to be greater than the average of the total amount of reciprocal deposits held by the agent institution on the last day of each of the 4 calendar quarters preceding the calendar quarter in which the agent institution was found not to have a composite condition of outstanding or good or was determined to be not well capitalized.
+
+  (B) *Covered deposit* — The term “covered deposit” means a deposit that—
+
+    (i) is submitted for placement through a deposit placement network by an agent institution; and
+
+    (ii) does not consist of funds that were obtained for the agent institution, directly or indirectly, by or through a deposit broker before submission for placement through a deposit placement network.
+
+  (C) *Deposit placement network* — The term “deposit placement network” means a network in which an insured depository institution participates, together with other insured depository institutions, for the processing and receipt of reciprocal deposits.
+
+  (D) *Network member bank* — The term “network member bank” means an insured depository institution that is a member of a deposit placement network.
+
+  (E) *Reciprocal deposits* — The term “reciprocal deposits” means deposits received by an agent institution through a deposit placement network with the same maturity (if any) and in the same aggregate amount as covered deposits placed by the agent institution in other network member banks.
+
+  (F) *Well capitalized* — The term “well capitalized” has the meaning given the term in section 1831o(b)(1) of this title.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–174, § 202(b), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows:
+
+“Any insured depository institution which, under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
+
+“(1) the rate paid on deposits of similar maturity in such institution’s normal market area for deposits accepted in the institution’s normal market area; or
+
+“(2) the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the institution’s normal market area.”
+
+Subsec. (i). Pub. L. 115–174, § 202(a), added subsec. (i).
+
 1994—Subsec. (g)(3). Pub. L. 103–325 inserted “that is not well capitalized (as defined in section 1831o of this title)” after “includes any insured depository institution”, substituted “of such institution” for “of any insured depository institution”, and struck out “(with respect to such deposits)” after “offering rates of interest” and “having the same type of charter” after “other insured depository institutions”.
 
 1992—Subsec. (a). Pub. L. 102–550, § 1605(a)(1)(A), substituted “An insured” for “A insured”.
@@ -10977,6 +11208,11 @@ Section effective 1 year after Dec. 19, 1991, see section 131(f) of Pub. L. 102�
 
 #### Regulations
 Pub. L. 102–242, title I, § 131(b), Dec. 19, 1991, 105 Stat. 2266, provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](./chapter-016-federal-deposit-insurance-corporation.md#section-1813))) (and the Corporation, acting in the Corporation’s capacity as insurer of depository institutions under that Act [[12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act [[12 U.S.C. 1831](./chapter-016-federal-deposit-insurance-corporation.md#section-1831)o] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act [Dec. 19, 1991], and those regulations shall become effective not later than 1 year after that date of enactment.”
+
+#### Supplementary Leverage Ratio for Custodial Banks
+Pub. L. 115–174, title IV, § 402, May 24, 2018, 132 Stat. 1359, provided that: “(a) Definition.—In this section, the term ‘custodial bank’ means any depository institution holding company predominantly engaged in custody, safekeeping, and asset servicing activities, including any insured depository institution subsidiary of such a holding company. “(b) Regulations.—“(1) Definition.—In this subsection, the term ‘central bank’ means—“(A) the Federal Reserve System; “(B) the European Central Bank; and “(C) central banks of member countries of the Organisation for Economic Co-operation and Development, if—“(i) the member country has been assigned a zero percent risk weight under sections 3.32, 217.32, and 324.32 of title 12, Code of Federal Regulations, or any successor regulation; and “(ii) the sovereign debt of such member country is not in default or has not been in default during the previous 5 years. “(2) Regulations.—The appropriate Federal banking agencies shall promulgate regulations to amend sections 3.10, 217.10, and 324.10 of title 12, Code of Federal Regulations, to specify that—“(A) subject to subparagraph (B), funds of a custodial bank that are deposited with a central bank shall not be taken into account when calculating the supplementary leverage ratio as applied to the custodial bank; and “(B) with respect to the funds described in subparagraph (A), any amount that exceeds the total value of deposits of the custodial bank that are linked to fiduciary or custodial and safekeeping accounts shall be taken into account when calculating the supplementary leverage ratio as applied to the custodial bank. “(c) Rule of Construction.—Nothing in subsection (b) shall be construed to limit the authority of the appropriate Federal banking agencies to tailor or adjust the supplementary leverage ratio or any other leverage ratio for any company that is not a custodial bank.”
+
+[For definitions of terms used in section 402 of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).]
 
 #### Deposit of Insurance Proceeds
 Pub. L. 105–18, title V, § 50003, June 12, 1997, 111 Stat. 211, provided that: “(a) In General.—The appropriate Federal banking agency may, by order, permit an insured depository institution to subtract from the institution’s total assets, in calculating compliance with the leverage limit prescribed under section 38 of the Federal Deposit Insurance Act [[12 U.S.C. 1831](./chapter-016-federal-deposit-insurance-corporation.md#section-1831)o], an amount not exceeding the qualifying amount attributable to insurance proceeds, if the agency determines that—“(1) the institution—“(A) had its principal place of business within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, on the day before the date of any such determination; “(B) derives more than 60 percent of its total deposits from persons who normally reside within, or whose principal place of business is normally within, areas of intense devastation caused by the major disaster; “(C) was adequately capitalized (as defined in section 38 of the Federal Deposit Insurance Act) before the major disaster; and “(D) has an acceptable plan for managing the increase in its total assets and total deposits; and “(2) the subtraction is consistent with the purpose of section 38 of the Federal Deposit Insurance Act. “(b) Time Limit on Exceptions.—Any exception made under this section shall expire not later than February 28, 1999. “(c) Definitions.—For purposes of this section:“(1) Appropriate federal banking agency.—The term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)]. “(2) Insured depository institution.—The term ‘insured depository institution’ has the same meaning as in section 3 of the Federal Deposit Insurance Act. “(3) Leverage limit.—The term ‘leverage limit’ has the same meaning as in section 38 of the Federal Deposit Insurance Act [[12 U.S.C. 1831](./chapter-016-federal-deposit-insurance-corporation.md#section-1831)o]. “(4) Qualifying amount attributable to insurance proceeds.—The term ‘qualifying amount attributable to insurance proceeds’ means the amount (if any) by which the institution’s total assets exceed the institution’s average total assets during the calendar quarter ending before the date of any determination referred to in subsection (a)(1)(A), because of the deposit of insurance payments or governmental assistance made with respect to damage caused by, or other costs resulting from, the major disaster.”

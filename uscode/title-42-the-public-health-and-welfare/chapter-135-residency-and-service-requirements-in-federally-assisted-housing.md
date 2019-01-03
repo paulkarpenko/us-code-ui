@@ -381,7 +381,7 @@ Section was enacted as part of the Quality Housing and Work Responsibility Act o
 Section is comprised of section 576 of Pub. L. 105–276. Subsec. (d) of section 576 of Pub. L. 105–276 amended sections 1437d and 1437n of this title.
 
 #### Effective Date
-Subchapter effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement any provision of subchapter before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437).
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement any provision of this section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437).
 
 
 <a id="section-13662"></a>
@@ -404,6 +404,9 @@ Subchapter effective and applicable beginning upon Oct. 1, 1999, except as other
 
 #### Codification
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
+
+#### Effective Date
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement any provision of this section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437).
 
 
 <a id="section-13663"></a>
@@ -434,6 +437,9 @@ Section was enacted as part of the Quality Housing and Work Responsibility Act o
 
 #### Codification
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
+
+#### Effective Date
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement any provision of this section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437).
 
 
 <a id="section-13664"></a>
@@ -471,3 +477,6 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 #### Codification
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
+
+#### Effective Date
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement any provision of this section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437).

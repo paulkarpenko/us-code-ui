@@ -40,6 +40,9 @@ Par. (5). Pub. L. 103–238, § 3(2), inserted “and their habitats” before �
 #### Effective Date
 Pub. L. 92–522, § 4, Oct. 21, 1972, 86 Stat. 1029, provided that: “The provisions of this Act [enacting this chapter] shall take effect upon the expiration of the sixty-day period following the date of its enactment [Oct. 21, 1972].”
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–329, § 1, Dec. 18, 2018, 132 Stat. 4475, provided that: “This Act [amending [section 1389 of this title](./chapter-031-marine-mammal-protection.md#section-1389) and enacting provisions set out as a note under [section 1389 of this title](./chapter-031-marine-mammal-protection.md#section-1389)] may be cited as the ‘Endangered Salmon Predation Prevention Act’.”
+
 #### Short Title of 2007 Amendment
 Pub. L. 109–479, title IX, § 901, Jan. 12, 2007, 120 Stat. 3660, provided that: “This title [enacting subchapter VI of this chapter and amending [section 1377 of this title](./chapter-031-marine-mammal-protection.md#section-1377)] may be cited as the ‘United States-Russia Polar Bear Conservation and Management Act of 2006’.”
 
@@ -300,6 +303,9 @@ Pub. L. 94–265, title IV, § 404(b), Apr. 13, 1976, 90 Stat. 361, provided tha
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531).
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 #### Construction of Amendment by Pub. L. 102–587
 Pub. L. 103–238, § 24(a)(1), Apr. 30, 1994, 108 Stat. 565, provided that: “The amendments set forth in section 3004(b) of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) [Pub. L. 102–587, amending this section]— “(A) are deemed to have been made by that section to section 3(12) of the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1362(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1362/12&num=0&edition=prelim)); and “(B) shall not be considered to have been made by that section to section 3(11) of that Act ([16 U.S.C. 1362(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1362/11&num=0&edition=prelim)).”
 
@@ -388,7 +394,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
   (A)
 
-    (i) Upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
+    (i) Except as provided by clause (ii), upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
 
       (I) finds that the total of such taking during each five-year (or less) period concerned will have a negligible impact on such species or stock and will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 ([16 U.S.C. 916](./chapter-014-regulation-of-whaling.md#section-916) et seq.), pursuant to [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim); and
 
@@ -398,9 +404,15 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
         (bb) requirements pertaining to the monitoring and reporting of such taking.
 
-    (ii) For a military readiness activity (as defined in section 315(f) of Public Law 107–314; [16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) note), a determination of “least practicable adverse impact on such species or stock” under clause (i)(II)(aa) shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
+    (ii) In the case of a military readiness activity (as defined in section 315(f) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; [16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) note), clause (i) shall be applied—
 
-    (iii) Notwithstanding clause (i), for any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314; [16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) note), the Secretary shall publish the notice required by such clause only in the Federal Register.
+      (I) in the matter preceding clause (I), by substituting “seven consecutive years” for “five consecutive years”; and
+
+      (II) in clause (I), by substituting “seven-year” for “five-year”.
+
+    (iii) For a military readiness activity (as defined in section 315(f) of Public Law 107–314; [16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) note), a determination of “least practicable adverse impact on such species or stock” under clause (i)(II)(aa) shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
+
+    (iv) Notwithstanding clause (i), for any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314; [16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) note), the Secretary shall publish the notice required by such clause only in the Federal Register.
 
   (B) The Secretary shall withdraw, or suspend for a time certain (either on an individual or class basis, as appropriate) the permission to take marine mammals under subparagraph (A) pursuant to a specified activity within a specified geographical region if the Secretary finds, after notice and opportunity for public comment (as required under subparagraph (A) unless subparagraph (C)(i) applies), that—
 
@@ -543,6 +555,10 @@ The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i)(I), is a
 Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended [section 718b of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718b) and provisions listed in a table of National Wildlife Refuges set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd) and enacted provisions set out as a note under [section 1536 of this title](./chapter-035-endangered-species.md#section-1536). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2018—Subsec. (a)(5)(A)(i). Pub. L. 115–232, § 316(1), substituted “Except as provided by clause (ii), upon request” for “Upon request” in introductory provisions.
+
+Subsec. (a)(5)(A)(ii) to (iv). Pub. L. 115–232, § 316(2), (3), added cl. (ii) and redesignated formers cls. (ii) and (iii) as (iii) and (iv), respectively.
+
 2003—Subsec. (a)(5)(A). Pub. L. 108–136, § 319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
 
 Subsec. (a)(5)(D)(vi), (vii). Pub. L. 108–136, § 319(c)(2), added cls. (vi) and (vii).
@@ -639,6 +655,9 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531).
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -740,6 +759,9 @@ Subsec. (d)(1). Pub. L. 97–58, § 3(b)(3), struck out “or endangered” afte
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531).
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 
 <a id="section-1373"></a>
 ## § 1373. Regulations on taking of marine mammals
@@ -787,6 +809,9 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### References in Text
 The effective date of this chapter, referred to in subsec. (f), means the effective date of Pub. L. 92–522, See section 4 of Pub. L. 92–522, set out as an Effective Date note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to the Secretary reporting to Congress on the current status of marine mammal species and population stocks subject to this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and pages 54 and 107 of House Document No. 103–7.
@@ -1051,6 +1076,9 @@ Subsec. (h)(2)(B). Pub. L. 100–711, § 4(d), added cls. (iv) to (ix).
 #### Effective Date of 1997 Amendment
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362).
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 #### Modification of Permits Existing Prior to April 30, 1994
 Pub. L. 103–238, § 5(c), Apr. 30, 1994, 108 Stat. 541, provided that: “Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1374(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/c/2&num=0&edition=prelim)) before the date of the enactment of this Act [Apr. 30, 1994] is hereby modified to be consistent with that section as amended by this Act.”
 
@@ -1074,6 +1102,9 @@ Subsec. (b). Pub. L. 103–238, § 13(b), inserted “(except as provided in [se
 
 1981—Subsec. (a). Pub. L. 97–58 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 
 <a id="section-1375a"></a>
 ## § 1375a. Use of fines for protection and recovery of manatees, polar bears, sea otters, and walruses
@@ -1096,6 +1127,11 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 **(b) Penalties** Any vessel subject to the jurisdiction of the United States that is employed in any manner in the unlawful taking of any marine mammal shall be liable for a civil penalty of not more than $25,000. Such penalty shall be assessed by the district court of the United States having jurisdiction over the vessel. Clearance of a vessel against which a penalty has been assessed, from a port of the United States, may be withheld until such penalty is paid, or until a bond or otherwise satisfactory surety is posted. Such penalty shall constitute a maritime lien on such vessel which may be recovered by action in rem in the district court of the United States having jurisdiction over the vessel.
 
 **(c) Reward for information leading to conviction** Upon the recommendation of the Secretary, the Secretary of the Treasury is authorized to pay an amount equal to one-half of the fine incurred but not to exceed $2,500 to any person who furnishes information which leads to a conviction for a violation of this subchapter. Any officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall not be eligible for payment under this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 
 <a id="section-1377"></a>
@@ -1141,6 +1177,9 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 #### Change of Name
 “United States magistrate judges” substituted for “United States magistrates” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 #### Transfer of Functions
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
@@ -1203,6 +1242,9 @@ Subsec. (c). Pub. L. 100–711, § 4(c), added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362).
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 
 <a id="section-1379"></a>
@@ -1403,6 +1445,9 @@ Subsecs. (k), (l). Pub. L. 97–58, § 4(a)(1), redesignated subsecs. (c) and (d
 
 1978—Subsec. (d). Pub. L. 95–316 added subsec. (d).
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 #### Enforcement by Hawaii of Laws Relating to Conservation and Management of Humpback Whales With Respect to Recreational and Commercial Vessels
 Pub. L. 108–447, div. B, title II, § 213, Dec. 8, 2004, 118 Stat. 2884, provided that: “Hereafter, notwithstanding any other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law.”
 
@@ -1461,6 +1506,9 @@ Provisions of [section 1373(f) of this title](https://uscode.house.gov/view.xhtm
 #### Effective Date of 1997 Amendment
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362).
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
 
@@ -1474,6 +1522,11 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 **(c) Reduction of level of taking of marine mammals in tuna fishery** Additionally, the Secretary and Secretary of State are directed to commence negotiations within the Inter-American Tropical Tuna Commission in order to effect essential compliance with the regulatory provisions of this chapter so as to reduce to the maximum extent feasible the incidental taking of marine mammals by vessels involved in the tuna fishery. The Secretary and Secretary of State are further directed to request the Director of Investigations of the Inter-American Tropical Tuna Commission to make recommendations to all member nations of the Commission as soon as is practicable as to the utilization of methods and gear devised under subsection (a) of this section.
 
 **(d) Research and observation** Furthermore, after timely notice and during the period of research provided in this section, duly authorized agents of the Secretary are hereby empowered to board and to accompany any commercial fishing vessel documented under the laws of the United States, there being space available, on a regular fishing trip for the purpose of conducting research or observing operations in regard to the development of improved fishing methods and gear as authorized by this section. Such research and observation shall be carried out in such manner as to minimize interference with fishing operations. The Secretary shall provide for the cost of quartering and maintaining such agents. No master, operator, or owner of such a vessel shall impair or in any way interfere with the research or observation being carried out by agents of the Secretary pursuant to this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 
 <a id="section-1382"></a>
@@ -1499,6 +1552,9 @@ Subsec. (e). Pub. L. 103–238, § 7(a), added subsec. (e).
 
 1980—Subsec. (d). Pub. L. 96–470 substituted “include in the annual report to the public and the Congress required under [section 1373(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1373/f&num=0&edition=prelim)” for “forthwith submit to Congress”.
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 
 <a id="section-1383"></a>
 ## § 1383. Application to other treaties and conventions
@@ -1519,6 +1575,9 @@ A prior subsec. (b) of section 113 of Pub. L. 92–522 amended [section 659 of t
 1994—Subsec. (a). Pub. L. 103–238, § 7(b)(1), directed the amendment of this section by “designating the existing paragraph” as subsec. (a), notwithstanding the existing first par. of this section was already designated (a).
 
 Subsecs. (b) to (d). Pub. L. 103–238, § 7(b)(2), added subsecs. (b) to (d). See Codification note above.
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -1757,7 +1816,7 @@ If there was no incidental taking of marine mammals during the reporting period,
 
 (2) the term “Secretary” means the Secretary of Commerce.
 
-(3) the term “vessel engaged in a fishery” means a fishing vessel as defined in section 2101(11a) of title 46 or a fish processing vessel as defined in section 2101(11b) of that title, which is engaged in fishery.
+(3) the term “vessel engaged in a fishery” means a fishing vessel as defined in [section 2101(12) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/12&num=0&edition=prelim) or a fish processing vessel as defined in section 2101(13) of that title, which is engaged in fishery.
 
 (4) the term “vessel of the United States” has the same meaning as it does in section 1802(27) 2 of this title.
 
@@ -1767,6 +1826,8 @@ If there was no incidental taking of marine mammals during the reporting period,
 [Section 1802 of this title](./chapter-038-fishery-conservation-and-management.md#section-1802), referred to in subsec. (o)(1), (4), was subsequently amended, and section 1802(8) and (27) no longer defines the terms “fishery” and “vessel of the United States”. However, such terms are defined elsewhere in that section.
 
 #### Amendments
+2018—Subsec. (o)(3). Pub. L. 115–232 substituted “section 2101(12)” for “section 2101(11a)” and “section 2101(13)” for “section 2101(11b)”.
+
 1996—Subsecs. (a)(1), (b)(2)(B)(ii), (o)(1), (4). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802(8), (27) and 1824(b) of this title.
 
 1995—Pub. L. 104–43 amended directory language of Pub. L. 103–238. See 1994 Amendment note below.
@@ -1865,6 +1926,9 @@ Subsec. (b). Pub. L. 95–316, § 3(2), added reference to sections 1379 and 138
 1977—Subsec. (a). Pub. L. 95–136, § 2(1), inserted “, and not to exceed $11,500,000 for the fiscal year ending September 30, 1978,” after “fiscal years”.
 
 Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850,000 for the fiscal year ending September 30, 1978” after “thereafter”.
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 
 <a id="section-1385"></a>
@@ -2535,22 +2599,69 @@ The amounts authorized to be appropriated under this subsection are in addition 
 
 (3) a strategic stock.
 
-**(f) California sea lions and Pacific harbor seals; investigation and report**
+**(f) Temporary marine mammal removal authority on the waters of the Columbia River or its tributaries**
 
-(1) The Secretary shall engage in a scientific investigation to determine whether California sea lions and Pacific harbor seals—
+(1) Removal authority Notwithstanding any other provision of this chapter, the Secretary may issue a permit to an eligible entity to authorize the intentional lethal taking on the waters of the Columbia River and its tributaries of individually identifiable sea lions that are part of a population or stock that is not categorized under this chapter as depleted or strategic for the purpose of protecting—
 
-  (A) are having a significant negative impact on the recovery of salmonid fishery stocks which have been listed as endangered species or threatened species under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), or which the Secretary finds are approaching such endangered species or threatened species status; or
+  (A) species of salmon, steelhead, or eulachon that are listed as endangered species or threatened species under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.); and
 
-  (B) are having broader impacts on the coastal ecosystems of Washington, Oregon, and California.
-  The Secretary shall conclude this investigation and prepare a report on its results no later than October 1, 1995.
+  (B) species of lamprey or sturgeon that are not so listed as endangered or threatened but are listed as a species of concern.
 
-(2) Upon completion of the scientific investigation required under paragraph (1), the Secretary shall enter into discussions with the Pacific States Marine Fisheries Commission, on behalf of the States of Washington, Oregon, and California, for the purpose of addressing any issues or problems identified as a result of the scientific investigation, and to develop recommendations to address such issues or problems. Any recommendations resulting from such discussions shall be submitted, along with the report, to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(2) **Permit process**
 
-(3) The Secretary shall make the report and the recommendations submitted under paragraph (2) available to the public for review and comment for a period of 90 days.
+  (A) *In general* — An eligible entity may apply to the Secretary for a permit under this subsection.
 
-(4) There are authorized to be appropriated to the Secretary such sums as are necessary to carry out the provisions of this subsection.
+  (B) *Timelines and procedures of application* — The timelines and procedures described in subsection (c) shall apply to applications for permits under this subsection in the same manner such timelines apply to applications under subsection (b).
 
-(5) The amounts appropriated under [section 4107(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/c&num=0&edition=prelim) and allocated to the Pacific States Marine Fisheries Commission may be used by the Commission to participate in discussions with the Secretary under paragraph (2).
+  (C) *Coordination* — The Secretary shall establish procedures to coordinate issuance of permits under this subsection, including application procedures and timelines, delegation and revocation of permits to and between eligible entities, monitoring, periodic review, and geographic, seasonal take, and species-specific considerations.
+
+  (D) *Duration of permit* — A permit under this subsection shall be effective for a period of not more than 5 years, and may be renewed by the Secretary.
+
+(3) **Limitations on annual takings** — The Secretary shall apply the process for determining limitations on annual take of sea lions under subsection (c) to determinations on limitations under this subsection, and the cumulative number of sea lions authorized to be taken each year under all permits in effect under this subsection shall not exceed 10 percent of the annual potential biological removal level for sea lions.
+
+(4) **Qualified individuals** — Intentional lethal takings under this subsection shall—
+
+  (A) be humane within the meaning of such term under [section 1362(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1362/4&num=0&edition=prelim);
+
+  (B) require that capture, husbandry, transportation, and euthanasia protocols are based on standards propagated by an Institutional Animal Care and Use Committee and that primary euthanasia be limited to humane chemical methods; and
+
+  (C) be implemented by agencies or qualified individuals described in subsection (c)(4), or by individuals employed by the eligible entities described in paragraph (6).
+
+(5) **Suspension of permitting authority** — If, 5 years after December 18, 2018, the Secretary, after consulting with State and tribal fishery managers, determines that lethal removal authority is no longer necessary to protect salmonid and other fish species from sea lion predation, the Secretary shall suspend the issuance of permits under this subsection.
+
+(6) **Eligible entity defined**
+
+  (A) *Definition* — In this subsection, the term “eligible entity” means—
+
+    (i) with respect to removal in the mainstem of the Columbia River, from river mile 112 to the McNary Dam and its tributaries in the State of Washington, and its tributaries in the State of Oregon above Bonneville Dam, the State of Washington, the State of Oregon, and the State of Idaho;
+
+    (ii) with respect to removal in the mainstem Columbia River from river mile 112 to the McNary Dam and its tributaries within the State of Washington and in any of its tributaries above Bonneville Dam within the State of Oregon, the Nez Perce Tribe, the Confederated Tribes of the Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, and the Confederated Tribes and Bands of the Yakama Nation; and
+
+    (iii) with respect to removal in the Willamette River and other tributaries of the Columbia River within the State of Oregon below Bonneville Dam, a committee recognized by the Secretary under subparagraph (D).
+
+  (B) *Delegation authority* — The Secretary may allow eligible entities described in clause (i) or (ii) of subparagraph (A) to delegate their authority under a permit under this subsection to the Columbia River Intertribal Fish Commission for removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries within the State of Oregon above Bonneville Dam and below McNary Dam.
+
+  (C) *Additional delegation authority* — The Secretary may allow an eligible entity described in subparagraph (A)(i) to delegate its authority under a permit under this subsection to any entity described in subclause (i) or (ii) of subparagraph (A) with respect to removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries in the State of Oregon above Bonneville Dam and below McNary Dam.
+
+  (D) *Committee requirements*
+
+    (i) *In general* — The Secretary shall recognize a committee established in accordance with this subparagraph as being eligible for a permit under this subsection, for purposes of subparagraph (A)(iii).
+
+    (ii) *Membership* — A committee established under this subparagraph shall consist of the State of Oregon and each of the following:
+
+      (I) The Confederated Tribes of Siletz Indians or the Confederated Tribes of the Grand Ronde Community, or both.
+
+      (II) The Confederated Tribes of the Warm Springs or the Confederated Tribes of the Umatilla Reservation, or both.
+
+    (iii) *Majority agreement required* — A committee established under this subparagraph may take action with respect to a permit application and removal under this subsection only with majority agreement by the committee members.
+
+    (iv) *Nonapplicability of FACA* — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a committee established under this subparagraph.
+
+(7) **Individual exception** — For purposes of this subsection, any sea lion located upstream of river mile 112 and downstream of McNary Dam, or in any tributary to the Columbia River that includes spawning habitat of threatened or endangered salmon or steelhead is deemed to be individually identifiable.
+
+(8) **Significant negative impact exception** — For purposes of this subsection, any sea lion located in the mainstem of the Columbia River upstream of river mile 112 and downstream of McNary Dam, or in any tributary to the Columbia River that includes spawning habitat of threatened or endangered salmon or steelhead is deemed to be having a significant negative impact, within the meaning of subsection (b)(1).
+
+(9) **Definition** — In this subsection, the term “Indian tribe” has the meaning given such term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 **(g) Regionwide pinniped-fishery interaction study**
 
@@ -2589,12 +2700,18 @@ The amounts authorized to be appropriated under this subsection are in addition 
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (i)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (f)(6)(D)(iv) and (i)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2018—Subsec. (f). Pub. L. 115–329 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to a scientific investigation and report on the impact of California sea lions and Pacific harbor seals.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Treaty Rights of Federally Recognized Indian Tribes
+Pub. L. 115–329, § 4, Dec. 18, 2018, 132 Stat. 4478, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361)] or the amendments made by this Act shall be construed to enlarge, confirm, adjudicate, affect, or modify any treaty or other right of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))).”
 
 
 <a id="section-1401"></a>
@@ -2619,6 +2736,9 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 1984—Subsec. (b)(1). Pub. L. 98–364 substituted “The President shall make his selection from a list of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals. Such list shall be submitted to him by the Chairman of the Council on Environmental Quality and unanimously agreed to by that Chairman, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation and the Chairman of the National Academy of Sciences” for “The President shall make his selection from a list, submitted to him by the Chairman of the Council on Environmental Quality, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, and the Chairman of the National Academy of Sciences, of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals”.
 
 1982—Subsec. (b)(1). Pub. L. 97–389 inserted requirement that, effective Sept. 1, 1982, the three members of the Commission be appointed by and with the advice and consent of the Senate.
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -2667,6 +2787,9 @@ The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, No
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531).
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 
 <a id="section-1403"></a>
 ## § 1403. Committee of Scientific Advisors on Marine Mammals
@@ -2677,6 +2800,9 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 **(c) Consultation with Commission on studies and recommendations; explanation for nonadoption** The Commission shall consult with the Committee on all studies and recommendations which it may propose to make or has made, on research programs conducted or proposed to be conducted under the authority of this chapter, and on all applications for permits for scientific research. Any recommendations made by the Committee or any of its members which are not adopted by the Commission shall be transmitted by the Commission to the appropriate Federal agency and to the appropriate committees of Congress with a detailed explanation of the Commission’s reasons for not accepting such recommendations.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 #### Termination of Advisory Committees
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -2698,6 +2824,11 @@ Section, Pub. L. 92–522, title II, § 204, Oct. 21, 1972, 86 Stat. 1045, which
 ## § 1405. Coordination with other Federal agencies
 
 The Commission shall have access to all studies and data compiled by Federal agencies regarding marine mammals. With the consent of the appropriate Secretary or Agency head, the Commission may also utilize the facilities or services of any Federal agency and shall take every feasible step to avoid duplication of research and to carry out the purposes of this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 
 <a id="section-1406"></a>
@@ -2722,6 +2853,9 @@ The Commission, in carrying out its responsibilities under this subchapter, may�
 
 1981—Par. (3). Pub. L. 97–58 substituted “contracts or agreements with, or provide such grants to, other organizations” for “contracts or agreements with other organizations”.
 
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
+
 
 <a id="section-1407"></a>
 ## § 1407. Authorization of appropriations
@@ -2739,6 +2873,9 @@ Provisions similar to those in this section were contained in Pub. L. 97–58, �
 1978—Pub. L. 95–316 added provisions authorizing appropriations for the fiscal years ending Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981.
 
 1977—Pub. L. 95–136 substituted “five fiscal years” for “four fiscal years” and “the sums appropriated for any fiscal year other than the fiscal year ending September 30, 1978, shall not exceed $1,000,000, and the sum appropriated for the fiscal year ending September 30, 1978, shall not exceed $2,000,000” for “the sums appropriated for any such year shall not exceed $1,000,000” and struck out requirement that not less than two-thirds of the sums appropriated pursuant to this section for any such year be expended on research and studies under authority of section 1402(a)(2) and (3) of this title.
+
+#### Effective Date
+Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 
 <a id="section-1411"></a>

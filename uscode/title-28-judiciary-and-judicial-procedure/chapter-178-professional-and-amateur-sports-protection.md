@@ -45,11 +45,21 @@ It shall be unlawful for—
 (2) a person to sponsor, operate, advertise, or promote, pursuant to the law or compact of a governmental entity,
 a lottery, sweepstakes, or other betting, gambling, or wagering scheme based, directly or indirectly (through the use of geographical references or otherwise), on one or more competitive games in which amateur or professional athletes participate, or are intended to participate, or on one or more performances of such athletes in such games.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as a note under [section 3701 of this title](./chapter-178-professional-and-amateur-sports-protection.md#section-3701).
+
 
 <a id="section-3703"></a>
 ## § 3703. Injunctions
 
 A civil action to enjoin a violation of section 3702 may be commenced in an appropriate district court of the United States by the Attorney General of the United States, or by a professional sports organization or amateur sports organization whose competitive game is alleged to be the basis of such violation.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as a note under [section 3701 of this title](./chapter-178-professional-and-amateur-sports-protection.md#section-3701).
 
 
 <a id="section-3704"></a>
@@ -78,3 +88,6 @@ A civil action to enjoin a violation of section 3702 may be commenced in an appr
 
 #### References in Text
 The effective date of this chapter, referred to in subsec. (a)(3)(A), is Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as an Effective Date note under [section 3701 of this title](./chapter-178-professional-and-amateur-sports-protection.md#section-3701).
+
+#### Effective Date
+Section effective Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as a note under [section 3701 of this title](./chapter-178-professional-and-amateur-sports-protection.md#section-3701).

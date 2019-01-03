@@ -20,7 +20,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 11701 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11701) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-15902"></a>
@@ -33,6 +33,9 @@ The Board may bring a civil action to enforce an order of the Board, except a ci
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11702 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11702) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-15903"></a>
 ## § 15903. Enforcement by the Attorney General
@@ -44,6 +47,9 @@ Provisions similar to those in this section were contained in [section 11702 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11703 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11703) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-15904"></a>
@@ -81,6 +87,9 @@ Provisions similar to those in this section were contained in [section 11705 of 
 
 1997—Subsec. (c)(1). Pub. L. 105–102 substituted “15901(b)” for “section 11501(b)”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-15905"></a>
 ## § 15905. Limitation on actions by and against pipeline carriers
@@ -110,6 +119,9 @@ whichever is later.
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11706 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11706) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-15906"></a>
 ## § 15906. Liability of pipeline carriers under receipts and bills of lading
@@ -129,3 +141,6 @@ Provisions similar to those in this section were contained in [section 11706 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11707 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11707) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

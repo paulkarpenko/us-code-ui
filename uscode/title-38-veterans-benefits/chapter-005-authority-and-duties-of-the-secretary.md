@@ -54,7 +54,7 @@ Provisions similar to those in this section were contained in [section 223(c) of
 
 **(b)** If the Secretary determines that a veteran, surviving spouse, child of a veteran, or other person has suffered loss as a consequence of reliance upon a determination by the Department of eligibility or entitlement to benefits, without knowledge that it was erroneously made, the Secretary may provide such relief on account of such error as the Secretary determines is equitable, including the payment of moneys to any person whom the Secretary determines is equitably entitled to such moneys.
 
-**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2017.
+**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2020.
 
 ### Statutory Notes
 
@@ -64,6 +64,10 @@ Prior sections 503 and 504 were renumbered sections 1503 and 1504 of this title,
 Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–251 substituted “December 31, 2020” for “December 31, 2018”.
+
+2017—Subsec. (c). Pub. L. 115–62 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (c). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (c). Pub. L. 114–58 substituted “December 31, 2016” for “December 31, 2015”.
@@ -448,7 +452,7 @@ Provisions similar to those in this section were contained in [section 216 of th
 
 **(g) Authorization of Appropriations.—**
 
-(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2017.
+(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2020.
 
 (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -466,11 +470,15 @@ Provisions similar to those in this section were contained in [section 216 of th
 
 **(k) Annual Report to Congress.—** For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 
-**(l) Termination.—** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2017.
+**(l) Termination.—** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2020.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsecs. (g)(1), (l). Pub. L. 115–251 substituted “2020” for “2019”.
+
+2017—Subsecs. (g)(1), (l). Pub. L. 115–62 substituted “2019” for “2017”.
+
 2016—Subsecs. (g)(1), (l). Pub. L. 114–228 substituted “2017” for “2016”.
 
 2015—Subsec. (g)(1). Pub. L. 114–58 substituted “2016” for “2015”.
@@ -589,6 +597,12 @@ Provisions similar to those in this section were contained in [section 215 of th
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 219 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section219&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
+
+#### Education Campaign for Airborne Hazards and Open Burn Pit Registry
+Pub. L. 115–232, div. A, title X, § 1050, Aug. 13, 2018, 132 Stat. 1962, provided that: “(a) Education Campaign.—Beginning not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall carry out an annual education campaign to inform individuals who may be eligible to enroll in the Airborne Hazards and Open Burn Pit Registry of such eligibility. Each such campaign shall include at least one electronic method and one physical mailing method to provide such information. “(b) Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term ‘Airborne Hazards and Open Burn Pit Registry’ means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note) [set out below].”
+
+#### Coordination by Veterans Health Administration of Efforts To Understand Effects of Burn Pits
+Pub. L. 115–91, div. A, title VII, § 738, Dec. 12, 2017, 131 Stat. 1446, provided that: “The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters.”
 
 #### Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits
 Pub. L. 114–92, div. A, title VII, § 728, Nov. 25, 2015, 129 Stat. 873, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], and periodically thereafter, the Secretary of Defense shall submit to the Secretary of Veterans Affairs such information in the possession of the Secretary of Defense as the Secretary of Veterans Affairs considers necessary to supplement and support—“(1) the development of information to be included in the Airborne Hazards and Open Burn Pit Registry established by the Department of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note); and “(2) research and development activities conducted by the Department of Veterans Affairs to explore the potential health risks of exposure by members of the Armed Forces to environmental factors in Iraq and Afghanistan, in particular the connection of such exposure to respiratory illnesses such as chronic cough, chronic obstructive pulmonary disease, constrictive bronchiolitis, and pulmonary fibrosis. “(b) Inclusion of Certain Information.—The Secretary of Defense shall include in the information submitted to the Secretary of Veterans Affairs under subsection (a) information on any research and surveillance efforts conducted by the Department of Defense to evaluate the incidence and prevalence of respiratory illnesses among members of the Armed Forces who were exposed to open burn pits while deployed overseas.”
@@ -894,7 +908,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(c)**
 
-(1) Not later than July 1 of each year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to veterans who are minority group members. Each such report shall include—
+(1) Not later than July 1 of every other year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to veterans who are minority group members. Each such report shall include—
 
   (A) an assessment of the needs of veterans who are minority group members with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
 
@@ -920,7 +934,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (5) Pacific-Islander American.
 
-**(e)** The Committee shall cease to exist December 31, 2017.
+**(e)** The Committee shall cease to exist September 30, 2022.
 
 ### Statutory Notes
 
@@ -930,6 +944,12 @@ Prior section 544, added Pub. L. 90–77, title I, § 108(a), Aug. 31, 1967, 81 
 Another prior section 544, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, § 4, Aug. 29, 1950, 73 Stat. 434. See sections 1542 and 1543 of this title.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–251, § 166(b), substituted “every other year” for “each year” in introductory provisions.
+
+Subsec. (e). Pub. L. 115–251, § 166(a), substituted “September 30, 2022” for “September 30, 2018”.
+
+2017—Subsec. (e). Pub. L. 115–62 substituted “September 30, 2018” for “December 31, 2017”.
+
 2016—Subsec. (e). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (e). Pub. L. 114–58 substituted “December 31, 2016” for “December 31, 2015”.

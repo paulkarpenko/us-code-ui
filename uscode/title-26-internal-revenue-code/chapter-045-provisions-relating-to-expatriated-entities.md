@@ -10,7 +10,7 @@ source: >-
 ## § 4985. Stock compensation of insiders in expatriated corporations
 **(a) Imposition of tax** In the case of an individual who is a disqualified individual with respect to any expatriated corporation, there is hereby imposed on such person a tax equal to—
 
-(1) the rate of tax specified in section 1(h)(1)(C), multiplied by
+(1) the rate of tax specified in section 1(h)(1)(D), multiplied by
 
 (2) the value (determined under subsection (b)) of the specified stock compensation held (directly or indirectly) by or for the benefit of such individual or a member of such individual’s family (as defined in section 267) at any time during the 12-month period beginning on the date which is 6 months before the expatriation date.
 
@@ -115,6 +115,12 @@ Section 4996, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 St
 Section 4997, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 249; amended Pub. L. 97–448, title II, § 201(i)(1), Jan. 12, 1983, 96 Stat. 2395, related to records and information, and regulations, bearing on the windfall profit.
 
 Section 4998, added Pub. L. 96–223, title I, § 101(a)(1), Apr. 2, 1980, 94 Stat. 250, related to cross references.
+
+#### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–97 substituted “section 1(h)(1)(D)” for “section 1(h)(1)(C)”.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–97, title I, § 13604(b), Dec. 22, 2017, 131 Stat. 2165, provided that: “The amendment made by this section [amending this section] shall apply to corporations first becoming expatriated corporations (as defined in section 4985 of the Internal Revenue Code of 1986) after the date of enactment of this Act [Dec. 22, 2017].”
 
 #### Effective Date
 Pub. L. 108–357, title VIII, § 802(d), Oct. 22, 2004, 118 Stat. 1568, provided that: “The amendments made by this section [enacting this chapter and amending sections 162, 275, and 3121 of this title] shall take effect on March 4, 2003; except that periods before such date shall not be taken into account in applying the periods in subsections (a) and (e)(1) of section 4985 of the Internal Revenue Code of 1986, as added by this section.”

@@ -2,7 +2,7 @@
 title: 18
 chapter: '303'
 heading: BUREAU OF PRISONS
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -41,27 +41,29 @@ Compensation of Director, see [section 5315 of Title 5](https://uscode.house.gov
 
 (5) provide notice of release of prisoners in accordance with subsections (b) and (c);
 
-  (D) 11 So in original. Probably should be “(6)”. establish prerelease planning procedures that help prisoners—
+(6) establish prerelease planning procedures that help prisoners—
 
-    (i) apply for Federal and State benefits upon release (including Social Security Cards, Social Security benefits, and veterans’ benefits); and
+  (A) apply for Federal and State benefits upon release (including Social Security benefits, and veterans’ benefits);
 
-    (ii) secure such identification and benefits prior to release, subject to any limitations in law; and
+  (B) obtain identification, including a social security card, driver’s license or other official photo identification, and a birth certificate; and
 
-  (E) 22 So in original. Probably should be “(7)”. establish reentry planning procedures that include providing Federal prisoners with information in the following areas:
+  (C) secure such identification and benefits prior to release from a sentence to a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term of community confinement, subject to any limitations in law; and
 
-    (i) Health and nutrition.
+(7) establish reentry planning procedures that include providing Federal prisoners with information in the following areas:
 
-    (ii) Employment.
+  (A) Health and nutrition.
 
-    (iii) Literacy and education.
+  (B) Employment.
 
-    (iv) Personal finance and consumer skills.
+  (C) Literacy and education.
 
-    (v) Community resources.
+  (D) Personal finance and consumer skills.
 
-    (vi) Personal growth and development.
+  (E) Community resources.
 
-    (vii) Release requirements and procedures.
+  (F) Personal growth and development.
+
+  (G) Release requirements and procedures.
 
 **(b) Notice of Release of Prisoners.—**
 
@@ -115,6 +117,18 @@ The remainder of said [section 753b of title 18](https://uscode.house.gov/view.x
 The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2), (3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(D), (E). Pub. L. 115–391, § 604(b)(1), redesignated pars. (D) and (E) as (6) and (7), respectively.
+
+Subsec. (a)(6). Pub. L. 115–391, § 604(b)(1), (2)(E), redesignated par. (D) as (6) and cls. (i) to (iii) as subpars. (A) to (C), respectively.
+
+Subsec. (a)(6)(i). Pub. L. 115–391, § 604(b)(2)(A), struck out “Social Security Cards,” before “Social Security benefits” and “and” after “benefits);”.
+
+Subsec. (a)(6)(ii). Pub. L. 115–391, § 604(b)(2)(C), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (a)(6)(iii). Pub. L. 115–391, § 604(b)(2)(B), (D), redesignated cl. (ii) as (iii) and inserted “from a sentence to a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term of community confinement” after “prior to release”.
+
+Subsec. (a)(7). Pub. L. 115–391, § 604(b)(1), (3), redesignated par. (E) as (7) and cls. (i) to (vii) as subpars. (A) to (G), respectively.
+
 2010—Subsec. (a)(4). Pub. L. 111–211, § 261(a)(1), inserted “, tribal,” after “State”.
 
 Subsec. (b)(1). Pub. L. 111–211, § 261(a)(2), substituted “officers of each State, tribal, and local jurisdiction” for “officer of the State and of the local jurisdiction”.
@@ -175,6 +189,15 @@ Pub. L. 105–119, title VI, § 611, Nov. 26, 1997, 111 Stat. 2517.
 Pub. L. 104–208, div. A, title I, § 101(a) [title VI, § 611], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
 
 Pub. L. 104–134, title I, § 101[(a)] [title VI, § 611], Apr. 26, 1996, 110 Stat. 1321, 1321–64; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+
+#### De-Escalation Training
+Pub. L. 115–391, title VI, § 606, Dec. 21, 2018, 132 Stat. 5244, provided that: “Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], the Director of the Bureau of Prisons shall incorporate into training programs provided to officers and employees of the Bureau of Prisons (including officers and employees of an organization with which the Bureau of Prisons has a contract to provide services relating to imprisonment) specialized and comprehensive training in procedures to— “(1) de-escalate encounters between a law enforcement officer or an officer or employee of the Bureau of Prisons, and a civilian or a prisoner (as such term is defined in [section 3635 of title 18](./chapter-229-postsentence-administration.md#section-3635), United States Code, as added by section 101(a) of this Act); and “(2) identify and appropriately respond to incidents that involve the unique needs of individuals who have a mental illness or cognitive deficit.”
+
+#### Pilot Programs
+Pub. L. 115–391, title VI, § 608, Dec. 21, 2018, 132 Stat. 5245, provided that: “(a) In General.—The Bureau of Prisons shall establish each of the following pilot programs for 5 years, in at least 20 facilities:“(1) Mentorship for youth.—A program to pair youth with volunteers from faith-based or community organizations, which may include formerly incarcerated offenders, that have relevant experience or expertise in mentoring, and a willingness to serve as a mentor in such a capacity. “(2) Service to abandoned, rescued, or otherwise vulnerable animals.—A program to equip prisoners with the skills to provide training and therapy to animals seized by Federal law enforcement under asset forfeiture authority and to organizations that provide shelter and similar services to abandoned, rescued, or otherwise vulnerable animals. “(b) Reporting Requirement.—Not later than 1 year after the conclusion of the pilot programs, the Attorney General shall report to Congress on the results of the pilot programs under this section. Such report shall include cost savings, numbers of participants, and information about recidivism rates among participants. “(c) Definition.—In this title, the term ‘youth’ means a prisoner (as such term is defined in [section 3635 of title 18](./chapter-229-postsentence-administration.md#section-3635), United States Code, as added by section 101(a) of this Act) who was 21 years of age or younger at the time of the commission or alleged commission of the criminal offense for which the individual is being prosecuted or serving a term of imprisonment, as the case may be.”
+
+#### Healthcare Products
+Pub. L. 115–391, title VI, § 611, Dec. 21, 2018, 132 Stat. 5247, provided that: “(a) Availability.—The Director of the Bureau of Prisons shall make the healthcare products described in subsection (c) available to prisoners for free, in a quantity that is appropriate to the healthcare needs of each prisoner. “(b) Quality Products.—The Director shall ensure that the healthcare products provided under this section conform with applicable industry standards. “(c) Products.—The healthcare products described in this subsection are tampons and sanitary napkins.”
 
 #### Sexually Explicit Commercially Published Material
 Pub. L. 107–77, title VI, § 614, Nov. 28, 2001, 115 Stat. 801, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Federal Bureau of Prisons may be used to distribute or make available any commercially published information or material to a prisoner when it is made known to the Federal official having authority to obligate or expend such funds that such information or material is sexually explicit or features nudity.”
@@ -437,3 +460,22 @@ The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2
 (1) committed by prisoners against themselves, other prisoners, prison visitors, and officers and employees of the Bureau of Prisons; and
 
 (2) committed by prison visitors against themselves, prisoners, other visitors, and officers and employees of the Bureau of Prisons.
+
+
+<a id="section-4050"></a>
+## § 4050. Secure firearms storage
+**(a) Definitions.—** In this section—
+
+(1) the term “employee” means a qualified law enforcement officer employed by the Bureau of Prisons; and
+
+(2) the terms “firearm” and “qualified law enforcement officer” have the meanings given those terms under section 926B.
+
+**(b) Secure Firearms Storage.—** The Director of the Bureau of Prisons shall ensure that each chief executive officer of a Federal penal or correctional institution—
+
+(1)
+
+  (A) provides a secure storage area located outside of the secure perimeter of the institution for employees to store firearms; or
+
+  (B) allows employees to store firearms in a vehicle lockbox approved by the Director of the Bureau of Prisons; and
+
+(2) notwithstanding any other provision of law, allows employees to carry concealed firearms on the premises outside of the secure perimeter of the institution.

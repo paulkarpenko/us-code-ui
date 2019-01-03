@@ -2,7 +2,7 @@
 title: 42
 chapter: '149'
 heading: NATIONAL ENERGY POLICY AND PROGRAMS
-section_count: 247
+section_count: 250
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -14,7 +14,7 @@ source: >-
 
 (2) **Director** — The term “Director” means the Director of ARPA-E appointed under subsection (d).
 
-(3) **Fund** — The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (n)(1).
+(3) **Fund** — The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (o)(1).
 
 **(b) Establishment** There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of energy technologies.
 
@@ -186,7 +186,21 @@ source: >-
 
 (2) are not intended to supersede or modify any existing authorities.
 
-**(n) Funding**
+**(n) Protection of information** The following types of information collected by ARPA–E from recipients of financial assistance awards shall be considered commercial and financial information obtained from a person and privileged or confidential and not subject to disclosure under [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim):
+
+(1) Plans for commercialization of technologies developed under the award, including business plans, technology-to-market plans, market studies, and cost and performance models.
+
+(2) Investments provided to an awardee from third parties (such as venture capital firms, hedge funds, and private equity firms), including amounts and the percentage of ownership of the awardee provided in return for the investments.
+
+(3) Additional financial support that the awardee—
+
+  (A) plans to or has invested into the technology developed under the award; or
+
+  (B) is seeking from third parties.
+
+(4) Revenue from the licensing or sale of new products or services resulting from research conducted under the award.
+
+**(o) Funding**
 
 (1) **Fund** — There is established in the Treasury of the United States a fund, to be known as the “Energy Transformation Acceleration Fund”, which shall be administered by the Director for the purposes of carrying out this section.
 
@@ -221,9 +235,13 @@ source: >-
 #### References in Text
 Level II of the Executive Schedule, referred to in subsec. (g)(3)(A)(ii), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
-Par. (5), referred to in subsec. (n)(2), was redesignated par. (4) of this section and former par. (4) was struck out by Pub. L. 111–358, title IX, § 904(10)(B), (C), Jan. 4, 2011, 124 Stat. 4048.
+Par. (5), referred to in subsec. (o)(2), was redesignated par. (4) of this section and former par. (4) was struck out by Pub. L. 111–358, title IX, § 904(10)(B), (C), Jan. 4, 2011, 124 Stat. 4048.
 
 #### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–246, § 202(1), substituted “subsection (o)(1)” for “subsection (n)(1)”.
+
+Subsecs. (n), (o). Pub. L. 115–246, § 202(2), (3), added subsec. (n) and redesignated former subsec. (n) as (o).
+
 2011—Subsec. (a)(3). Pub. L. 111–358, § 904(1), substituted “subsection (n)(1)” for “subsection (m)(1)”.
 
 Subsec. (c)(2)(A). Pub. L. 111–358, § 904(2), inserted “and applied” after “advances in fundamental”.
@@ -344,6 +362,9 @@ Except as otherwise provided, in this Act:
 
 #### References in Text
 This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–248, § 1, Sept. 28, 2018, 132 Stat. 3154, provided that: “This Act [enacting sections 16278 to 16280 of this title and amending sections 16021, 16271 to 16274, and 16275 to 16277 of this title] may be cited as the ‘Nuclear Energy Innovation Capabilities Act of 2017’.”
 
 #### Short Title of 2011 Amendment
 Pub. L. 111–364, § 1, Jan. 4, 2011, 124 Stat. 4056, provided that: “This Act [amending sections 16131 to 16134 and 16137 of this title and enacting provisions set out as a note under [section 16131 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16131)] may be cited as the ‘Diesel Emissions Reduction Act of 2010’.”
@@ -2777,9 +2798,14 @@ For short title of title V of Pub. L. 109–58, which enacted this subchapter, a
 
 <a id="section-16013"></a>
 ## § 16013. Prohibition on assumption by United States Government of liability for certain foreign incidents
-**(a) In general** Notwithstanding any other provision of law, no officer of the United States or of any department, agency, or instrumentality of the United States Government may enter into any contract or other arrangement, or into any amendment or modification of a contract or other arrangement, the purpose or effect of which would be to directly or indirectly impose liability on the United States Government, or any department, agency, or instrumentality of the United States Government, or to otherwise directly or indirectly require an indemnity by the United States Government, for nuclear incidents occurring in connection with the design, construction, or operation of a production facility or utilization facility in any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which, as of September 11, 2001, had been determined by the Secretary of State under [section 2371(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim), [section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), or [section 2780(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim) to have repeatedly provided support for acts of international terrorism). This section shall not apply to nuclear incidents occurring as a result of missions, carried out under the direction of the Secretary, the Secretary of Defense, or the Secretary of State, that are necessary to safely secure, store, transport, or remove nuclear materials for nuclear safety or nonproliferation purposes.
+**(a) In general** Notwithstanding any other provision of law, no officer of the United States or of any department, agency, or instrumentality of the United States Government may enter into any contract or other arrangement, or into any amendment or modification of a contract or other arrangement, the purpose or effect of which would be to directly or indirectly impose liability on the United States Government, or any department, agency, or instrumentality of the United States Government, or to otherwise directly or indirectly require an indemnity by the United States Government, for nuclear incidents occurring in connection with the design, construction, or operation of a production facility or utilization facility in any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which, as of September 11, 2001, had been determined by the Secretary of State under [section 2371(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim), section 4605(j)(1) 11 See References in Text note below. of title 50, or [section 2780(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim) to have repeatedly provided support for acts of international terrorism). This section shall not apply to nuclear incidents occurring as a result of missions, carried out under the direction of the Secretary, the Secretary of Defense, or the Secretary of State, that are necessary to safely secure, store, transport, or remove nuclear materials for nuclear safety or nonproliferation purposes.
 
 **(b) Definitions** The terms used in this section shall have the same meaning as those terms have under [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014), unless otherwise expressly provided in this section.
+
+### Statutory Notes
+
+#### References in Text
+[Section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 
 <a id="section-16014"></a>
@@ -2894,7 +2920,7 @@ This subtitle, referred to in text, is subtitle B (§§ 621–639) of title VI o
 
 **(b) Content** The Project shall consist of the research, development, design, construction, and operation of a prototype plant, including a nuclear reactor that—
 
-(1) is based on research and development activities supported by the Generation IV Nuclear Energy Systems Initiative under section 16272(d) 11 See References in Text note below. of this title; and
+(1) is based on research and development activities supported by the Generation IV Nuclear Energy Systems Initiative under [section 16272(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16272/c&num=0&edition=prelim); and
 
 (2) shall be used—
 
@@ -2906,8 +2932,8 @@ This subtitle, referred to in text, is subtitle B (§§ 621–639) of title VI o
 
 ### Statutory Notes
 
-#### References in Text
-[Section 16272(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16272/d&num=0&edition=prelim), referred to in subsec. (b)(1), was in the original a reference to section 942(d) of Pub. L. 109–58, which is classified to [section 16251(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16251/d&num=0&edition=prelim) but was translated as meaning section 952(d) of Pub. L. 109–58 to reflect the probable intent of Congress, because section 952(d) relates to Generation IV Nuclear Energy Systems Initiative and section 942(d) relates to limitations on production incentives for cellulosic biofuels.
+#### Amendments
+2018—Pub. L. 115–248 substituted “section 16272(c)” for “section 16272(d)”, which had been an editorial translation of a reference in original text to section 942(d) of Pub. L. 109–58.
 
 
 <a id="section-16023"></a>
@@ -6345,61 +6371,70 @@ The Secretary shall—
 
 <a id="section-16274"></a>
 ## § 16274. Nuclear energy
-**(a) In general** The Secretary shall conduct programs of civilian nuclear energy research, development, demonstration, and commercial application, including activities described in this part. Programs under this part shall take into consideration the following objectives:
+**(a) Mission**
 
-(1) Enhancing nuclear power’s viability as part of the United States energy portfolio.
+(1) **In general** — The Secretary shall carry out programs of civilian nuclear research, development, demonstration, and commercial application, including activities under this part.
 
-(2) Providing the technical means to reduce the likelihood of nuclear proliferation.
+(2) **Considerations** — The programs carried out under paragraph (1) shall take into consideration the following objectives:
 
-(3) Maintaining a cadre of nuclear scientists and engineers.
+  (A) Providing research infrastructure to promote scientific progress and enable users from academia, the National Laboratories, and the private sector to make scientific discoveries relevant for nuclear, chemical, and materials science engineering.
 
-(4) Maintaining National Laboratory and university nuclear programs, including their infrastructure.
+  (B) Maintaining nuclear energy research and development programs at the National Laboratories and institutions of higher education, including infrastructure at the National Laboratories and institutions of higher education.
 
-(5) Supporting both individual researchers and multidisciplinary teams of researchers to pioneer new approaches in nuclear energy, science, and technology.
+  (C) Providing the technical means to reduce the likelihood of nuclear proliferation.
 
-(6) Developing, planning, constructing, acquiring, and operating special equipment and facilities for the use of researchers.
+  (D) Increasing confidence margins for public safety of nuclear energy systems.
 
-(7) Supporting technology transfer and other appropriate activities to assist the nuclear energy industry, and other users of nuclear science and engineering, including activities addressing reliability, availability, productivity, component aging, safety, and security of nuclear power plants.
+  (E) Reducing the environmental impact of activities relating to nuclear energy.
 
-(8) Reducing the environmental impact of nuclear energy-related activities.
+  (F) Supporting technology transfer from the National Laboratories to the private sector.
 
-**(b) Authorization of appropriations for core programs** There are authorized to be appropriated to the Secretary to carry out nuclear energy research, development, demonstration, and commercial application activities, including activities authorized under this part, other than those described in subsection (c)—
+  (G) Enabling the private sector to partner with the National Laboratories to demonstrate novel reactor concepts for the purpose of resolving technical uncertainty associated with the objectives described in subparagraphs (A) through (F).
 
-(1) $330,000,000 for fiscal year 2007;
+**(b) Definitions** In this part:
 
-(2) $355,000,000 for fiscal year 2008; and
+(1) **Advanced nuclear reactor** — The term “advanced nuclear reactor” means—
 
-(3) $495,000,000 for fiscal year 2009.
+  (A) a nuclear fission reactor with significant improvements over the most recent generation of nuclear fission reactors, which may include—
 
-**(c) Nuclear infrastructure and facilities** There are authorized to be appropriated to the Secretary to carry out activities under [section 16275 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16275)—
+    (i) inherent safety features;
 
-(1) $135,000,000 for fiscal year 2007;
+    (ii) lower waste yields;
 
-(2) $140,000,000 for fiscal year 2008; and
+    (iii) greater fuel utilization;
 
-(3) $145,000,000 for fiscal year 2009.
+    (iv) superior reliability;
 
-**(d) Allocations** From amounts authorized under subsection (a), the following sums are authorized:
+    (v) resistance to proliferation;
 
-(1) For activities under [section 16273 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16273)—
+    (vi) increased thermal efficiency; and
 
-  (A) $150,000,000 for fiscal year 2007;
+    (vii) the ability to integrate into electric and nonelectric applications; or
 
-  (B) $155,000,000 for fiscal year 2008; and
+  (B) a nuclear fusion reactor.
 
-  (C) $275,000,000 for fiscal year 2009.
+(2) **Commission** — The term “Commission” means the Nuclear Regulatory Commission.
 
-(2) For activities under [section 16274 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16274)—
+(3) **Fast neutron** — The term “fast neutron” means a neutron with kinetic energy above 100 kiloelectron volts.
 
-  (A) $43,600,000 for fiscal year 2007;
+(4) **National Laboratory**
 
-  (B) $50,100,000 for fiscal year 2008; and
+  (A) *In general* — Except as provided in subparagraph (B), the term “National Laboratory” has the meaning given the term in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
 
-  (C) $56,000,000 for fiscal year 2009.
+  (B) *Limitation* — With respect to the Lawrence Livermore National Laboratory, the Los Alamos National Laboratory, and the Sandia National Laboratories, the term “National Laboratory” means only the civilian activities of the laboratory.
 
-(3) For activities under [section 16277 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16277), $6,000,000 for each of fiscal years 2007 through 2009.
+(5) **Neutron flux** — The term “neutron flux” means the intensity of neutron radiation measured as a rate of flow of neutrons applied over an area.
 
-**(e) Limitation** None of the funds authorized under this section may be used to decommission the Fast Flux Test Facility.
+(6) **Neutron source** — The term “neutron source” means a research machine that provides neutron irradiation services for—
+
+  (A) research on materials sciences and nuclear physics; and
+
+  (B) testing of advanced materials, nuclear fuels, and other related components for reactor systems.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–248 amended section generally. Prior to amendment, section related to civilian nuclear energy research programs and authorizations of appropriations to carry out such programs.
 
 
 <a id="section-16274a"></a>
@@ -6408,21 +6443,7 @@ The Secretary shall—
 
 **(b) Nuclear Energy Systems Support Program** The Secretary shall carry out a Nuclear Energy Systems Support Program to support research and development activities addressing reliability, availability, productivity, component aging, safety, and security of existing nuclear power plants.
 
-**(c) Nuclear Power 2010 Program**
-
-(1) **In general** — The Secretary shall carry out a Nuclear Power 2010 Program, consistent with recommendations of the Nuclear Energy Research Advisory Committee of the Department in the report entitled “A Roadmap to Deploy New Nuclear Power Plants in the United States by 2010” and dated October 2001.
-
-(2) **Administration** — The Program shall include—
-
-  (A) use of the expertise and capabilities of industry, institutions of higher education, and National Laboratories in evaluation of advanced nuclear fuel cycles and fuels testing;
-
-  (B) consideration of a variety of reactor designs suitable for both developed and developing nations;
-
-  (C) participation of international collaborators in research, development, and design efforts, as appropriate; and
-
-  (D) encouragement for participation by institutions of higher education and industry.
-
-**(d) Generation IV Nuclear Energy Systems Initiative**
+**(c) Generation IV Nuclear Energy Systems Initiative**
 
 (1) **In general** — The Secretary shall carry out a Generation IV Nuclear Energy Systems Initiative to develop an overall technology plan for and to support research and development necessary to make an informed technical decision about the most promising candidates for eventual commercial application.
 
@@ -6436,18 +6457,28 @@ The Secretary shall—
 
   (D) use improved instrumentation.
 
-**(e) Reactor production of hydrogen** The Secretary shall carry out research to examine designs for high-temperature reactors capable of producing large-scale quantities of hydrogen.
+**(d) Reactor production of hydrogen** The Secretary shall carry out research to examine designs for high-temperature reactors capable of producing large-scale quantities of hydrogen.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsecs. (c) to (e). Pub. L. 115–248 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to establishment and administration of a Nuclear Power 2010 Program.
 
 
 <a id="section-16275"></a>
 ## § 16275. Advanced fuel cycle initiative
-**(a) In general** The Secretary, acting through the Director of the Office of Nuclear Energy, Science and Technology, shall conduct an advanced fuel recycling technology research, development, and demonstration program (referred to in this section as the “program”) to evaluate proliferation-resistant fuel recycling and transmutation technologies that minimize environmental and public health and safety impacts as an alternative to aqueous reprocessing technologies deployed as of August 8, 2005, in support of evaluation of alternative national strategies for spent nuclear fuel and the Generation IV advanced reactor concepts.
+**(a) In general** The Secretary shall conduct an advanced fuel recycling technology research, development, and demonstration program (referred to in this section as the “program”) to evaluate proliferation-resistant fuel recycling and transmutation technologies that minimize environmental and public health and safety impacts as an alternative to aqueous reprocessing technologies deployed as of August 8, 2005, in support of evaluation of alternative national strategies for spent nuclear fuel and the Generation IV advanced reactor concepts.
 
 **(b) Annual review** The program shall be subject to annual review by the Nuclear Energy Research Advisory Committee of the Department or other independent entity, as appropriate.
 
 **(c) International cooperation** In carrying out the program, the Secretary is encouraged to seek opportunities to enhance the progress of the program through international cooperation.
 
 **(d) Reports** The Secretary shall submit, as part of the annual budget submission of the Department, a report on the activities of the program.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–248 struck out “, acting through the Director of the Office of Nuclear Energy, Science and Technology,” after “The Secretary”.
 
 
 <a id="section-16276"></a>
@@ -6480,11 +6511,16 @@ The Secretary shall—
 
 (3) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
 
-(4) reactor improvements as part of a taking into consideration effort that emphasizes research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+(4) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
 
 **(e) Operations and maintenance** Funding for a project provided under this section may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
 
 **(f) Definition** In this section, the term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in subsection (b)(2).
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (d)(4). Pub. L. 115–248 substituted “that emphasize” for “as part of a taking into consideration effort that emphasizes”.
 
 
 <a id="section-16277"></a>
@@ -6507,8 +6543,8 @@ The Secretary shall—
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
 
-<a id="section-16291"></a>
-## § 16291. Department of Energy civilian nuclear infrastructure and facilities
+<a id="section-16278"></a>
+## § 16278. Department of Energy civilian nuclear infrastructure and facilities
 **(a) In general** The Secretary shall operate and maintain infrastructure and facilities to support the nuclear energy research, development, demonstration, and commercial application programs, including radiological facilities management, isotope production, and facilities management.
 
 **(b) Duties** In carrying out this section, the Secretary shall—
@@ -6521,56 +6557,224 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 (4) develop a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment, with the goal of ensuring that Department programs under this part will be generally recognized to be among the best in the world.
 
-**(c) Plan** The Secretary shall develop a comprehensive plan for the facilities at the Idaho National Laboratory, especially taking into account the resources available at other National Laboratories. In developing the plan, the Secretary shall—
+**(c) Versatile neutron source**
 
-(1) evaluate the facilities planning processes utilized by other physical science and engineering research and development institutions, both in the United States and abroad, that are generally recognized as being among the best in the world, and consider how those processes might be adapted toward developing such facilities plan;
+(1) **Mission need**
 
-(2) avoid duplicating, moving, or transferring nuclear science and engineering facilities, equipment, expertise, and other assets that currently exist at other National Laboratories;
+  (A) *In general* — Not later than December 31, 2017, the Secretary shall determine the mission need for a versatile reactor-based fast neutron source, which shall operate as a national user facility.
 
-(3) consider the establishment of a national transuranic analytic chemistry laboratory as a user facility at the Idaho National Laboratory;
+  (B) *Consultations required* — In carrying out subparagraph (A), the Secretary shall consult with the private sector, institutions of higher education, the National Laboratories, and relevant Federal agencies to ensure that the user facility described in subparagraph (A) will meet the research needs of the largest practicable majority of prospective users.
 
-(4) include a plan to develop, if feasible, the Advanced Test Reactor and Test Reactor Area into a user facility that is more readily accessible to academic and industrial researchers;
+(2) **Establishment** — As soon as practicable after determining the mission need under paragraph (1)(A), the Secretary shall submit to the appropriate committees of Congress a detailed plan for the establishment of the user facility.
 
-(5) consider the establishment of a fast neutron source as a user facility;
+(3) **Facility requirements**
 
-(6) consider the establishment of new hot cells and the configuration of hot cells most likely to advance research, development, demonstration, and commercial application in nuclear science and engineering, especially in the context of the condition and availability of these facilities elsewhere in the National Laboratories; and
+  (A) *Capabilities* — The Secretary shall ensure that the user facility will provide, at a minimum, the following capabilities:
 
-(7) include a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment.
+    (i) Fast neutron spectrum irradiation capability.
 
-**(d) Transmittal to Congress** Not later than 1 year after August 8, 2005, the Secretary shall transmit the plan under subsection (c) to Congress.
+    (ii) Capacity for upgrades to accommodate new or expanded research needs.
+
+  (B) *Considerations* — In carrying out the plan submitted under paragraph (2), the Secretary shall consider the following:
+
+    (i) Capabilities that support experimental high-temperature testing.
+
+    (ii) Providing a source of fast neutrons at a neutron flux, higher than that at which current research facilities operate, sufficient to enable research for an optimal base of prospective users.
+
+    (iii) Maximizing irradiation flexibility and irradiation volume to accommodate as many concurrent users as possible.
+
+    (iv) Capabilities for irradiation with neutrons of a lower energy spectrum.
+
+    (v) Multiple loops for fuels and materials testing in different coolants.
+
+    (vi) Additional pre-irradiation and post-irradiation examination capabilities.
+
+    (vii) Lifetime operating costs and lifecycle costs.
+
+(4) **Deadline for establishment** — The Secretary shall, to the maximum extent practicable, complete construction of, and approve the start of operations for, the user facility by not later than December 31, 2025.
+
+(5) **Reporting** — The Secretary shall include in the annual budget request of the Department an explanation for any delay in the progress of the Department in completing the user facility by the deadline described in paragraph (4).
+
+(6) **Coordination** — The Secretary shall leverage the best practices for management, construction, and operation of national user facilities from the Office of Science.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsecs. (c), (d). Pub. L. 115–248 added subsec. (c) and struck out former subsecs. (c) and (d) which required development of a comprehensive plan for the facilities at the Idaho National Laboratory and transmittal of the plan to Congress.
 
 
-<a id="section-16291a"></a>
-## § 16291a. Security of nuclear facilities
+<a id="section-16279"></a>
+## § 16279. Security of nuclear facilities
 
-The Secretary, acting through the Director of the Office of Nuclear Energy, Science and Technology, shall conduct a research and development program on cost-effective technologies for increasing—
+The Secretary shall conduct a research and development program on cost-effective technologies for increasing—
 
 (1) the safety of nuclear facilities from natural phenomena; and
 
 (2) the security of nuclear facilities from deliberate attacks.
 
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–248 struck out “, acting through the Director of the Office of Nuclear Energy, Science and Technology,” after “The Secretary” in introductory provisions.
+
+
+<a id="section-16280"></a>
+## § 16280. High-performance computation and supportive research
+**(a) Modeling and simulation** The Secretary shall carry out a program to enhance the capabilities of the United States to develop new reactor technologies through high-performance computation modeling and simulation techniques.
+
+**(b) Coordination** In carrying out the program under subsection (a), the Secretary shall coordinate with relevant Federal agencies as described by the National Strategic Computing Initiative established by Executive Order 13702 (80 Fed. Reg. 46177 (July 29, 2015)), while taking into account the following objectives:
+
+(1) Using expertise from the private sector, institutions of higher education, and the National Laboratories to develop computational software and capabilities that prospective users may access to accelerate research and development of advanced nuclear reactor systems and reactor systems for space exploration.
+
+(2) Developing computational tools to simulate and predict nuclear phenomena that may be validated through physical experimentation.
+
+(3) Increasing the utility of the research infrastructure of the Department by coordinating with the Advanced Scientific Computing Research program within the Office of Science.
+
+(4) Leveraging experience from the Energy Innovation Hub for Modeling and Simulation.
+
+(5) Ensuring that new experimental and computational tools are accessible to relevant research communities, including private sector entities engaged in nuclear energy technology development.
+
+**(c) Supportive research activities** The Secretary shall consider support for additional research activities to maximize the utility of the research facilities of the Department, including physical processes—
+
+(1) to simulate degradation of materials and behavior of fuel forms; and
+
+(2) for validation of computational tools.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order 13702, referred to in subsec. (b), is set out as a note under [section 5501 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5501&num=0&edition=prelim), Commerce and Trade.
+
+#### Amendments
+2018—Pub. L. 115–248 amended section generally. Prior to amendment, section related to survey and plan regarding alternatives to industrial radioactive sources.
+
+
+<a id="section-16291"></a>
+## § 16291. Enabling nuclear energy innovation
+**(a) National Reactor Innovation Center** There is authorized a program to enable the testing and demonstration of reactor concepts to be proposed and funded, in whole or in part, by the private sector.
+
+**(b) Technical expertise** In carrying out the program under subsection (a), the Secretary shall leverage the technical expertise of relevant Federal agencies and the National Laboratories in order to minimize the time required to enable construction and operation of privately funded experimental reactors at National Laboratories or other Department-owned sites.
+
+**(c) Objectives** The reactors described in subsection (b) shall operate to meet the following objectives:
+
+(1) Enabling physical validation of advanced nuclear reactor concepts.
+
+(2) Resolving technical uncertainty and increasing practical knowledge relevant to safety, resilience, security, and functionality of advanced nuclear reactor concepts.
+
+(3) General research and development to improve nascent technologies.
+
+**(d) Sharing technical expertise** In carrying out the program under subsection (a), the Secretary may enter into a memorandum of understanding with the Chairman of the Commission in order to share technical expertise and knowledge through—
+
+(1) enabling the testing and demonstration of advanced nuclear reactor concepts to be proposed and funded, in whole or in part, by the private sector;
+
+(2) operating a database to store and share data and knowledge relevant to nuclear science and engineering between Federal agencies and the private sector;
+
+(3) developing and testing electric and nonelectric integration and energy conversion systems relevant to advanced nuclear reactors;
+
+(4) leveraging expertise from the Commission with respect to safety analysis; and
+
+(5) enabling technical staff of the Commission to actively observe and learn about technologies developed under the program.
+
+**(e) Agency coordination** The Chairman of the Commission and the Secretary shall enter into a memorandum of understanding regarding the following:
+
+(1) Ensuring that—
+
+  (A) the Department has sufficient technical expertise to support the timely research, development, demonstration, and commercial application by the civilian nuclear industry of safe and innovative advanced nuclear reactor technology; and
+
+  (B) the Commission has sufficient technical expertise to support the evaluation of applications for licenses, permits, and design certifications and other requests for regulatory approval for advanced nuclear reactors.
+
+(2) The use of computers and software codes to calculate the behavior and performance of advanced nuclear reactors based on mathematical models of the physical behavior of advanced nuclear reactors.
+
+(3) Ensuring that—
+
+  (A) the Department maintains and develops the facilities necessary to enable the timely research, development, demonstration, and commercial application by the civilian nuclear industry of safe and innovative reactor technology; and
+
+  (B) the Commission has access to the facilities described in subparagraph (A), as needed.
+
+**(f) Reporting requirements**
+
+(1) **In general** — Not later than 180 days after September 28, 2018, the Secretary, in consultation with the National Laboratories, relevant Federal agencies, and other stakeholders, shall submit to the appropriate committees of Congress a report assessing the capabilities of the Department to authorize, host, and oversee privately funded experimental advanced nuclear reactors as described in subsection (b).
+
+(2) **Contents** — The report submitted under paragraph (1) shall address—
+
+  (A) the safety review and oversight capabilities of the Department, including options to leverage expertise from the Commission and the National Laboratories;
+
+  (B) options to regulate privately proposed and funded experimental reactors hosted by the Department;
+
+  (C) potential sites capable of hosting privately funded experimental advanced nuclear reactors;
+
+  (D) the efficacy of the available contractual mechanisms of the Department to partner with the private sector and Federal agencies, including cooperative research and development agreements, strategic partnership projects, and agreements for commercializing technology;
+
+  (E) the liability of the Federal Government with respect to the disposal of low-level radioactive waste, spent nuclear fuel, or high-level radioactive waste (as those terms are defined in [section 10101 of this title](./chapter-108-nuclear-waste-policy.md#section-10101));
+
+  (F) the impact on the aggregate inventory in the United States of low-level radioactive waste, spent nuclear fuel, or high-level radioactive waste (as those terms are defined in [section 10101 of this title](./chapter-108-nuclear-waste-policy.md#section-10101));
+
+  (G) potential cost structures relating to physical security, decommissioning, liability, and other long-term project costs; and
+
+  (H) other challenges or considerations identified by the Secretary.
+
+(3) **Updates** — Once every 2 years, the Secretary shall update relevant provisions of the report submitted under paragraph (1) and submit to the appropriate committees of Congress the update.
+
+**(g) Savings clauses**
+
+(1) **Licensing requirement** — Nothing in this section authorizes the Secretary or any person to construct or operate a nuclear reactor for the purpose of demonstrating the suitability for commercial application of the nuclear reactor unless licensed by the Commission in accordance with [section 5842 of this title](./chapter-073-development-of-energy-sources.md#section-5842).
+
+(2) **Financial protection** — Any activity carried out under this section that involves the risk of public liability shall be subject to the financial protection or indemnification requirements of [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) (commonly known as the “Price-Anderson Act”).
+
+
+<a id="section-16291a"></a>
+## § 16291a. Budget plan
+**(a) In general** Not later than 1 year after September 28, 2018, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives 2 alternative 10-year budget plans for civilian nuclear energy research and development by the Secretary, as described in subsections (b) through (d).
+
+**(b) Budget plan alternative 1** One of the budget plans submitted under subsection (a) shall assume constant annual funding for 10 years at the appropriated level for the civilian nuclear energy research and development of the Department for fiscal year 2016.
+
+**(c) Budget plan alternative 2** One of the budget plans submitted under subsection (a) shall be an unconstrained budget.
+
+**(d) Inclusions** Each alternative budget plan submitted under subsection (a) shall include—
+
+(1) a prioritized list of the programs, projects, and activities of the Department to best support the development of advanced nuclear reactor technologies;
+
+(2) realistic budget requirements for the Department to implement sections 16275(c), 16277, and 16278 of this title; and
+
+(3) the justification of the Department for continuing or terminating existing civilian nuclear energy research and development programs.
+
 
 <a id="section-16292"></a>
-## § 16292. Alternatives to industrial radioactive sources
-**(a) Survey**
+## § 16292. Advanced Nuclear Energy Licensing Cost-Share Grant Program
+**(a) Definitions** In this section:
 
-(1) **In general** — Not later than August 1, 2006, the Secretary shall submit to Congress the results of a survey of industrial applications of large radioactive sources.
+(1) **Commission** — The term “Commission” means the Nuclear Regulatory Commission.
 
-(2) **Administration** — The survey shall—
+(2) **Program** — The term “program” means the Advanced Nuclear Energy Cost-Share Grant Program established under subsection (b).
 
-  (A) consider well-logging sources as one class of industrial sources;
+(3) **Secretary** — The term “Secretary” means the Secretary of Energy.
 
-  (B) include information on current domestic and international Department, Department of Defense, State Department, and commercial programs to manage and dispose of radioactive sources; and
+**(b) Establishment** The Secretary shall establish a grant program, to be known as the “Advanced Nuclear Energy Cost-Share Grant Program”, under which the Secretary shall make cost-share grants to applicants for the purpose of funding a portion of the Commission fees of the applicant for pre-application review activities and application review activities.
 
-  (C) analyze available disposal options for currently deployed or future sources and, if deficiencies are noted for either deployed or future sources, recommend legislative options that Congress may consider to remedy identified deficiencies.
+**(c) Requirement** The Secretary shall seek out technology diversity in making grants under the program.
 
-**(b) Plan**
+**(d) Cost-share amount** The Secretary shall determine the cost-share amount for each grant under the program in accordance with [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
 
-(1) **In general** — In conjunction with the survey conducted under subsection (a), the Secretary shall establish a research and development program to develop alternatives to sources described in subsection (a) that reduce safety, environmental, or proliferation risks to either workers using the sources or the public.
+**(e) Use of funds** A recipient of a grant under the program may use the grant funds to cover Commission fees, including those fees associated with—
 
-(2) **Accelerators** — Miniaturized particle accelerators for well-logging or other industrial applications and portable accelerators for production of short-lived radioactive materials at an industrial site shall be considered as part of the research and development efforts.
+(1) developing a licensing project plan;
 
-(3) **Report** — Not later than August 1, 2006, the Secretary shall submit to Congress a report describing the details of the program plan.
+(2) obtaining a statement of licensing feasibility;
+
+(3) reviewing topical reports; and
+
+(4) other—
+
+  (A) pre-application review activities;
+
+  (B) application review activities; and
+
+  (C) interactions with the Commission.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Nuclear Energy Innovation Capabilities Act of 2017, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
 
 <a id="section-16293"></a>
@@ -7140,40 +7344,75 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 
 
 <a id="section-16316"></a>
-## § 16316. Catalysis research program
-**(a) Establishment** The Secretary, acting through the Office of Science, shall support a program of research and development in catalysis science consistent with the statutory authorities of the Department related to research and development.
+## § 16316. Solar Fuels Research Initiative
+**(a) Initiative**
 
-**(b) Components** The program shall include efforts to—
+(1) **In general** — The Secretary shall carry out a research initiative, to be known as the “Solar Fuels Research Initiative” (referred to in this section as the “Initiative”) to expand theoretical and fundamental knowledge of photochemistry, electrochemistry, biochemistry, and materials science useful for the practical development of experimental systems to convert solar energy to chemical energy.
 
-(1) enable catalyst design using combinations of experimental and mechanistic methodologies coupled with computational modeling of catalytic reactions at the molecular level;
+(2) **Leveraging** — In carrying out programs and activities under the Initiative, the Secretary shall leverage expertise and resources from—
 
-(2) develop techniques for high throughput synthesis, assay, and characterization at nanometer and subnanometer scales in-situ under actual operating conditions;
+  (A) the Basic Energy Sciences Program and the Biological and Environmental Research Program of the Office of Science; and
 
-(3) synthesize catalysts with specific site architectures;
+  (B) the Office of Energy Efficiency and Renewable Energy.
 
-(4) conduct research on the use of precious metals for catalysis; and
+(3) **Teams**
 
-(5) translate molecular understanding to the design of catalytic compounds.
+  (A) *In general* — In carrying out the Initiative, the Secretary shall organize activities among multidisciplinary teams to leverage, to the maximum extent practicable, expertise from the National Laboratories, institutions of higher education, and the private sector.
 
-**(c) Duties of the Office of Science** In carrying out the program, the Director of the Office of Science shall—
+  (B) *Goals* — The multidisciplinary teams described in subparagraph (A) shall pursue aggressive, milestone-driven, basic research goals.
 
-(1) support both individual investigators and multidisciplinary teams of investigators to pioneer new approaches in catalytic design;
+  (C) *Resources* — The Secretary shall provide sufficient resources to the multidisciplinary teams described in subparagraph (A) to achieve the goals described in subparagraph (B) over a period of time to be determined by the Secretary.
 
-(2) develop, plan, construct, acquire, share, or operate special equipment or facilities for the use of investigators in collaboration with national user facilities, such as nanoscience and engineering centers;
+(4) **Additional activities** — The Secretary may organize additional activities under this subsection through Energy Frontier Research Centers, Energy Innovation Hubs, or other organizational structures.
 
-(3) support technology transfer activities to benefit industry and other users of catalysis science and engineering; and
+**(b) Artificial photosynthesis**
 
-(4) coordinate research and development activities with industry and other Federal agencies.
+(1) **In general** — The Secretary shall carry out under the Initiative a program to support research needed to bridge scientific barriers to, and discover knowledge relevant to, artificial photosynthetic systems.
 
-**(d) Assessment** Not later than 3 years after August 8, 2005, the Secretary shall enter into an arrangement with the National Academy of Sciences to—
+(2) **Activities** — As part of the program described in paragraph (1)—
 
-(1) review the catalysis program to measure—
+  (A) the Director of the Office of Basic Energy Sciences shall support basic research to pursue distinct lines of scientific inquiry, including—
 
-  (A) gains made in the fundamental science of catalysis; and
+    (i) photoinduced production of hydrogen and oxygen from water; and
 
-  (B) progress towards developing new fuels for energy production and material fabrication processes; and
+    (ii) the sustainable photoinduced reduction of carbon dioxide to fuel products including hydrocarbons, alcohols, carbon monoxide, and natural gas; and
 
-(2) submit to Congress a report describing the results of the review.
+  (B) the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
+
+(3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
+
+(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+
+**(c) Biochemistry, replication of natural photosynthesis, and related processes**
+
+(1) **In general** — The Secretary shall carry out under the Initiative a program to support research needed to replicate natural photosynthetic processes by use of artificial photosynthetic components and materials.
+
+(2) **Activities** — As part of the program described in paragraph (1)—
+
+  (A) the Director of the Office of Basic Energy Sciences shall support basic research to expand fundamental knowledge to replicate natural synthesis processes, including—
+
+    (i) the photoinduced reduction of dinitrogen to ammonia;
+
+    (ii) the absorption of carbon dioxide from ambient air;
+
+    (iii) molecular-based charge separation and storage;
+
+    (iv) photoinitiated electron transfer; and
+
+    (v) catalysis in biological or biomimetic systems;
+
+  (B) the Associate Director of Biological and Environmental Research shall support systems biology and genomics approaches to understand genetic and physiological pathways connected to photosynthetic mechanisms; and
+
+  (C) the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
+
+(3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
+
+(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–246 amended section generally. Prior to amendment, section related to catalysis research program.
 
 
 <a id="section-16317"></a>
@@ -7184,21 +7423,100 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 
 
 <a id="section-16318"></a>
-## § 16318. Solid state lighting
+## § 16318. Electricity Storage Research Initiative
+**(a) Initiative**
 
-The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next Generation Lighting Initiative carried out under [section 16192 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16192).
+(1) **In general** — The Secretary shall carry out a research initiative, to be known as the “Electricity Storage Research Initiative” (referred to in this section as the “Initiative”)—
+
+  (A) to expand theoretical and fundamental knowledge to control, store, and convert—
+
+    (i) electrical energy to chemical energy; and
+
+    (ii) chemical energy to electrical energy; and
+
+  (B) to support scientific inquiry into the practical understanding of chemical and physical processes that occur within systems involving crystalline and amorphous solids, polymers, and organic and aqueous liquids.
+
+(2) **Leveraging** — In carrying out programs and activities under the Initiative, the Secretary shall leverage expertise and resources from—
+
+  (A) the Basic Energy Sciences Program, the Advanced Scientific Computing Research Program, and the Biological and Environmental Research Program of the Office of Science; and
+
+  (B) the Office of Energy Efficiency and Renewable Energy.
+
+(3) **Teams**
+
+  (A) *In general* — In carrying out the Initiative, the Secretary shall organize activities among multidisciplinary teams to leverage, to the maximum extent practicable, expertise from the National Laboratories, institutions of higher education, and the private sector.
+
+  (B) *Goals* — The multidisciplinary teams described in subparagraph (A) shall pursue aggressive, milestone-driven, basic research goals.
+
+  (C) *Resources* — The Secretary shall provide sufficient resources to the multidisciplinary teams described in subparagraph (A) to achieve the goals described in subparagraph (B) over a period of time to be determined by the Secretary.
+
+(4) **Additional activities** — The Secretary may organize additional activities under this subsection through Energy Frontier Research Centers, Energy Innovation Hubs, or other organizational structures.
+
+**(b) Multivalent systems**
+
+(1) **In general** — The Secretary shall carry out under the Initiative a program to support research needed to bridge scientific barriers to, and discover knowledge relevant to, multivalent ion materials in electric energy storage systems.
+
+(2) **Activities** — As part of the program described in paragraph (1)—
+
+  (A) the Director of the Office of Basic Energy Sciences shall investigate electrochemical properties and the dynamics of materials, including charge transfer phenomena and mass transport in materials; and
+
+  (B) the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
+
+(3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
+
+(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+
+**(c) Electrochemistry modeling and simulation**
+
+(1) **In general** — The Secretary shall carry out under the Initiative a program to support research to model and simulate organic electrolytes, including the static and dynamic electrochemical behavior and phenomena of organic electrolytes at the molecular and atomic level in monovalent and multivalent systems.
+
+(2) **Activities** — As part of the program described in paragraph (1)—
+
+  (A) the Director of the Office of Basic Energy Sciences, in coordination with the Associate Director of Advanced Scientific Computing Research, shall support the development of high performance computational tools through a joint development process to maximize the effectiveness of current and projected high performance computing systems; and
+
+  (B) the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
+
+(3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
+
+(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+
+**(d) Mesoscale electrochemistry**
+
+(1) **In general** — The Secretary shall carry out under the Initiative a program to support research needed to reveal electrochemistry in confined mesoscale spaces, including scientific discoveries relevant to—
+
+  (A) bio-electrochemistry and electrochemical energy conversion and storage in confined spaces; and
+
+  (B) the dynamics of the phenomena described in subparagraph (A).
+
+(2) **Activities** — As part of the program described in paragraph (1)—
+
+  (A) the Director of the Office of Basic Energy Sciences and the Associate Director of Biological and Environmental Research shall investigate phenomena of mesoscale electrochemical confinement for the purpose of replicating and controlling new electrochemical behavior; and
+
+  (B) the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
+
+(3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
+
+(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–246 amended section generally. Prior to amendment, text read as follows: “The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next Generation Lighting Initiative carried out under [section 16192 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16192).”
 
 
 <a id="section-16319"></a>
 ## § 16319. Advanced scientific computing research and development program
-(1) **In general** — The Secretary shall conduct an advanced scientific computing research and development program that includes activities related to applied mathematics and activities authorized by the Department of Energy High-End Computing Revitalization Act of 2004 ([15 U.S.C. 5541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5541&num=0&edition=prelim) et seq.).
+(1) **In general** — The Secretary shall conduct an advanced scientific computing research and development program that includes activities related to applied mathematics and activities authorized by the American Super Computing Leadership Act of 2017 ([15 U.S.C. 5541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5541&num=0&edition=prelim) et seq.).
 
 (2) **Goal** — The Secretary shall carry out the program with the goal of supporting departmental missions, and providing the high-performance computational, networking, advanced visualization technologies, and workforce resources, that are required for world leadership in science.
 
 ### Statutory Notes
 
 #### References in Text
-The Department of Energy High-End Computing Revitalization Act of 2004, referred to in par. (1), is Pub. L. 108–423, Nov. 30, 2004, 118 Stat. 2400, which is classified principally to subchapter III (§ 5541 et seq.) of chapter 81 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5501&num=0&edition=prelim) and Tables.
+The American Super Computing Leadership Act of 2017, referred to in par. (1), is Pub. L. 108–423, Nov. 30, 2004, 118 Stat. 2400, which is classified principally to subchapter III (§ 5541 et seq.) of chapter 81 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5501&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Par. (1). Pub. L. 115–246 substituted “American Super Computing Leadership Act of 2017” for “Department of Energy High-End Computing Revitalization Act of 2004”.
 
 
 <a id="section-16320"></a>
@@ -7393,10 +7711,15 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 
 <a id="section-16324"></a>
-## § 16324. Rare Isotope Accelerator
-**(a) Establishment** The Secretary shall construct and operate a Rare Isotope Accelerator. The Secretary shall commence construction no later than September 30, 2008.
+## § 16324. Facility for Rare Isotope Beams
+**(a) Establishment** The Secretary shall construct and operate a Facility for Rare Isotope Beams. The Secretary shall commence construction no later than September 30, 2008.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section. The Secretary shall not spend more than $1,100,000,000 in Federal funds for all activities associated with the Rare Isotope Accelerator, prior to operation of the Accelerator.
+**(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section. The Secretary shall not spend more than $1,100,000,000 in Federal funds for all activities associated with the Facility for Rare Isotope Beams, prior to operation of the Accelerator.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–246, substituted “Facility for Rare Isotope Beams” for “Rare Isotope Accelerator” in section catchline and in subsecs. (a) and (b).
 
 
 <a id="section-16325"></a>
@@ -7524,11 +7847,17 @@ This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594,
 
 **(b) Research and development**
 
-(1) **In general** — Except as provided in paragraphs (2) and (3) and subsection (f), the Secretary shall require not less than 20 percent of the cost of a research or development activity described in subsection (a) to be provided by a non-Federal source.
+(1) **In general** — Except as provided in paragraphs (2), (3), and (4) and subsection (f), the Secretary shall require not less than 20 percent of the cost of a research or development activity described in subsection (a) to be provided by a non-Federal source.
 
 (2) **Exclusion** — Paragraph (1) shall not apply to a research or development activity described in subsection (a) that is of a basic or fundamental nature, as determined by the appropriate officer of the Department.
 
 (3) **Reduction** — The Secretary may reduce or eliminate the requirement of paragraph (1) for a research and development activity of an applied nature if the Secretary determines that the reduction is necessary and appropriate.
+
+(4) **Exemption for institutions of higher education and other nonprofit institutions**
+
+  (A) *In general* — Paragraph (1) shall not apply to a research or development activity performed by an institution of higher education or nonprofit institution (as defined in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3703](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3703&num=0&edition=prelim))).
+
+  (B) *Termination date* — The exemption under subparagraph (A) shall apply during the 2-year period beginning on September 28, 2018.
 
 **(c) Demonstration and commercial application**
 
@@ -7576,6 +7905,11 @@ This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594,
 
 #### References in Text
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–246, § 108(a)(1), substituted “Except as provided in paragraphs (2), (3), and (4)” for “Except as provided in paragraphs (2) and (3)”.
+
+Subsec. (b)(4). Pub. L. 115–246, § 108(a)(2), added par. (4).
 
 
 <a id="section-16356"></a>
@@ -7673,7 +8007,7 @@ Not later than 12 months after August 8, 2005, and biennially thereafter, the Se
 
 
 <a id="section-16360"></a>
-## § 16360. Strategy and plan for science and energy facilities and infrastructure
+## § 16360. Strategy for facilities and infrastructure
 **(a) Facility and infrastructure policy**
 
 (1) **In general** — The Secretary shall develop and implement a strategy for facilities and infrastructure supported primarily from the Office of Science, the Office of Energy Efficiency and Renewable Energy, the Office of Fossil Energy, or the Office of Nuclear Energy, Science and Technology Programs at all National Laboratories and single-purpose research facilities.
@@ -7690,7 +8024,7 @@ Not later than 12 months after August 8, 2005, and biennially thereafter, the Se
 
 **(b) Report**
 
-(1) **In general** — The Secretary shall prepare and submit, along with the budget request of the President submitted to Congress for fiscal year 2008, a report describing the strategy developed under subsection (a).
+(1) **In general** — The Secretary shall prepare and submit, along with the budget request of the President submitted to Congress for fiscal year 2018, a report describing the strategy developed under subsection (a).
 
 (2) **Contents** — For each National Laboratory and single-purpose research facility that is primarily used for science and energy research, the report shall contain—
 
@@ -7702,24 +8036,62 @@ Not later than 12 months after August 8, 2005, and biennially thereafter, the Se
 
   (D) the current status of each facility and infrastructure project compared to the original baseline cost, schedule, and scope.
 
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–246, § 205(a)(1), substituted “Strategy for facilities and infrastructure” for “Strategy and plan for science and energy facilities and infrastructure” in section catchline.
+
+Subsec. (b)(1). Pub. L. 115–246, § 205(a)(2), substituted “2018” for “2008”.
+
 
 <a id="section-16361"></a>
 ## § 16361. Strategic research portfolio analysis and coordination plan
-**(a) In general** The Secretary shall periodically review all of the science and technology activities of the Department in a strategic framework that takes into account both the frontiers of science to which the Department can contribute and the national needs relevant to the Department’s statutory missions.
+**(a) In general** The Secretary shall periodically review all of the science and technology activities of the Department in a strategic framework that takes into account—
 
-**(b) Coordination analysis and plan** As part of the review under subsection (a), the Secretary shall develop a coordination plan to improve coordination and collaboration in research, development, demonstration, and commercial application activities across Department organizational boundaries.
+(1) the frontiers of science to which the Department can contribute;
 
-**(c) Plan contents** The plan shall describe—
+(2) the national needs relevant to the statutory missions of the Department; and
 
-(1) cross-cutting scientific and technical issues and research questions that span more than one program or major office of the Department;
+(3) global energy dynamics.
 
-(2) how the applied technology programs of the Department are coordinating their activities, and addressing those questions;
+**(b) Coordination analysis and plan**
 
-(3) ways in which the technical interchange within the Department, particularly between the Office of Science and the applied technology programs, can be enhanced, including ways in which the research agendas of the Office of Science and the applied programs can interact and assist each other;
+(1) **In general** — As part of the review under subsection (a), the Secretary shall develop a plan to improve coordination and collaboration in research, development, demonstration, and commercial application activities across organizational boundaries of the Department.
 
-(4) a description of how the Secretary will ensure that the Department’s overall research agenda include, in addition to fundamental, curiosity-driven research, fundamental research related to topics of concern to the applied programs, and applications in Departmental technology programs of research results generated by fundamental, curiosity-driven research.
+(2) **Plan contents** — The plan developed under paragraph (1) shall describe—
 
-**(d) Plan transmittal** Not later than 12 months after August 8, 2005, and every 4 years thereafter, the Secretary shall transmit to Congress the results of the review under subsection (a) and the coordination plan under subsection (b).
+  (A) crosscutting scientific and technical issues and research questions that span more than one program or major office of the Department;
+
+  (B) ways in which the applied technology programs of the Department are coordinating activities and addressing the questions referred to in subparagraph (A);
+
+  (C) ways in which the technical interchange within the Department, particularly between the Office of Science and the applied technology programs, could be enhanced, including ways in which the research agendas of the Office of Science and the applied programs could better interact and assist each other;
+
+  (D) ways in which the Secretary would ensure that the overall research agenda of the Department includes, in addition to fundamental, curiosity-driven research, fundamental research related to topics of concern to the applied programs, and applications in Departmental technology programs of research results generated by fundamental, curiosity-driven research;
+
+  (E) critical assessments of any ongoing programs that have experienced subpar performance or cost overruns of 10 percent or more over 1 or more years;
+
+  (F) any activities that may be more effectively left to the States, industry, nongovernmental organizations, institutions of higher education, or other stakeholders; and
+
+  (G) detailed evaluations and proposals for innovation hubs, institutes, and research centers of the Department, including—
+
+    (i) an affirmation that the hubs, institutes, and research centers will—
+
+      (I) advance the mission of the Department; and
+
+      (II) prioritize research, development, and demonstration; and
+
+    (ii) an affirmation that any hubs, institutes, or research centers that are established or renewed within the Office of Science are consistent with the mission of the Office of Science described in subsection (c) of [section 7139 of this title](./chapter-084-department-of-energy.md#section-7139).
+
+**(c) Submission to Congress** Every 4 years, the Secretary shall submit to Congress—
+
+(1) the results of the review under subsection (a); and
+
+(2) the coordination plan under subsection (b).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 16358, Pub. L. 109–58, title IX, § 994, Aug. 8, 2005, 119 Stat. 914, which required the Secretary to periodically review Department of Energy science and technology activities taking into account the frontiers of science to which the Department can contribute and the national needs relevant to the Department’s statutory missions, was repealed by Pub. L. 115–246, title II, § 204, Sept. 28, 2018, 132 Stat. 3135.
 
 
 <a id="section-16362"></a>
@@ -7863,7 +8235,9 @@ Barack Obama.
 
 **(f) Technology transfer responsibility** Nothing in this section affects the technology transfer responsibilities of Federal employees under the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) et seq.).
 
-**(g) Planning and reporting**
+**(g) Early stage technology demonstration** The Secretary shall permit the directors of the National Laboratories to use funds authorized to support technology transfer within the Department to carry out early stage and precommercial technology demonstration activities to remove technology barriers that limit private sector interest and demonstrate potential commercial applications of any research and technologies arising from National Laboratory activities.
+
+**(h) Planning and reporting**
 
 (1) **In general** — Not later than 180 days after August 8, 2005, the Secretary shall submit to Congress a technology transfer execution plan.
 
@@ -7875,6 +8249,8 @@ Barack Obama.
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsecs. (g), (h). Pub. L. 115–246 added subsec. (g) and redesignated former subsec. (g) as (h).
+
 2014—Subsec. (e). Pub. L. 113–291 inserted “based on future planned activities and the amount of the appropriations for the fiscal year” after “each fiscal year”.
 
 

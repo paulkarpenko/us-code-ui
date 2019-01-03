@@ -31,7 +31,7 @@ there is hereby imposed a tax equal to 100 percent of the unpaid minimum require
 
 (2) **Correct** — The term “correct” means, with respect to an accumulated funding deficiency or CSEC accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency or CSEC accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
 
-(3) **Taxable period** — The term “taxable period” means, with respect to an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable 11 So in original. Probably should be followed by a comma. and ending on the earlier of—
+(3) **Taxable period** — The term “taxable period” means, with respect to an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, and ending on the earlier of—
 
   (A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
 
@@ -50,7 +50,6 @@ there is hereby imposed a tax equal to 100 percent of the unpaid minimum require
 (1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, or
 
 (2) to comment on the imposition of such tax.
-In the case of a multiemployer plan which is in reorganization under section 418,22 See References in Text note below. the same notice and opportunity shall be provided to the Pension Benefit Guaranty Corporation.
 
 **(e) Liability for tax**
 
@@ -68,7 +67,7 @@ In the case of a multiemployer plan which is in reorganization under section 418
 
   (A) the amount of the liquidity shortfall for any quarter, over
 
-  (B) the amount of such shortfall which is paid by the required installment under section 430(j) or 433(f), whichever is applicable 1 for such quarter (but only if such installment is paid on or before the due date for such installment).
+  (B) the amount of such shortfall which is paid by the required installment under section 430(j) or 433(f), whichever is applicable, for such quarter (but only if such installment is paid on or before the due date for such installment).
 
 (2) **Additional tax** — If the plan has a liquidity shortfall as of the close of any quarter and as of the close of each of the following 4 quarters, there is hereby imposed a tax equal to 100 percent of the amount on which tax was imposed by paragraph (1) for such first quarter.
 
@@ -126,7 +125,7 @@ In the case of a multiemployer plan which is in reorganization under section 418
 
     (i) *In general* — The tax imposed by subparagraph (A) shall be paid by each plan sponsor.
 
-    (ii) *Plan sponsor* — For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9).2
+    (ii) *Plan sponsor* — For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(j)(9).
 
 (5) **Waiver** — In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
 
@@ -147,13 +146,19 @@ In the case of a multiemployer plan which is in reorganization under section 418
 ### Statutory Notes
 
 #### References in Text
-Section 418, referred to in subsec. (d), was repealed by Pub. L. 113–235, div. O, title I, § 108(b)(1), Dec. 16, 2014, 128 Stat. 2787.
-
-[Section 432(i)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432/i/9&num=0&edition=prelim), referred to in subsec. (g)(4)(C)(ii), was redesignated [section 432(j)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section432/j/9&num=0&edition=prelim) by Pub. L. 113–235, div. O, title I, § 109(b)(3), Dec. 16, 2014, 128 Stat. 2791.
-
 Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (i), is classified to [section 1202(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1202/b&num=0&edition=prelim), Labor.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–141, § 401(a)(225), which directed substitution of “minimum required contribution, accumulated funding deficiency, or CSEC accumulated funding deficiency, whichever is applicable” for “minimum required contribution,” and all that followed through “whichever is applicable”, resulted in no change in text of concluding provisions after the probable intent execution of Pub. L. 113–97, § 202(c)(8)(B)(ii). See 2014 Amendment note below. Had the amendment by Pub. L. 113–97 not been executed, amendment by Pub. L. 115–141 would still require execution as the probable intent of Congress because the original text directed to be stricken would have read “minimum required contribution or accumulated funding deficiency, whichever is applicable”, with no comma following “contribution”.
+
+Subsec. (c)(3). Pub. L. 115–141, § 401(a)(226), substituted “applicable, and ending” for “applicable and ending”.
+
+Subsec. (d). Pub. L. 115–141, § 401(b)(44), struck out concluding provisions which read as follows: “In the case of a multiemployer plan which is in reorganization under section 418, the same notice and opportunity shall be provided to the Pension Benefit Guaranty Corporation.”
+
+Subsec. (f)(1)(B). Pub. L. 115–141, § 401(a)(227), substituted “applicable, for” for “applicable for”.
+
+Subsec. (g)(4)(C)(ii). Pub. L. 115–141, § 401(a)(228), substituted “section 432(j)(9)” for “section 432(i)(9)”.
+
 2014—Subsec. (a)(3). Pub. L. 113–97, § 202(c)(8)(A), added par. (3).
 
 Subsec. (b). Pub. L. 113–97, § 202(c)(8)(B)(ii), which directed substitution of “minimum required contribution, accumulated funding deficiency, or CSEC accumulated funding deficiency” for “minimum required contributions or accumulated funding deficiency”, was executed by making the substitution for “minimum required contribution or accumulated funding deficiency” in concluding provisions, to reflect the probable intent of Congress.
@@ -262,6 +267,9 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pu
 #### Effective Date
 Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under [section 410 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-410).
 
+#### Savings Provision
+For provisions that nothing in amendment by section 401(b)(44) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
@@ -319,7 +327,7 @@ For provisions directing that if any amendments made by subtitle D [§§ 1401–
   (A) so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the amount of contributions described in section 401(m)(4)(A), or
 
   (B) so much of the contributions to a simple retirement account (within the meaning of section 408(p)) or a simple plan (within the meaning of section 401(k)(11)) which are not deductible when contributed solely because such contributions are not made in connection with a trade or business of the employer.
-  For purposes of subparagraph (A), the deductible limits under section 404(a)(7) shall first be applied to amounts contributed to a defined benefit plan and then to amounts described in subparagraph (A). Subparagraph (B) shall not apply to contributions made on behalf of the employer or a member of the employer’s family (as defined in section 447(e)(1)).
+  For purposes of subparagraph (A), the deductible limits under section 404(a)(7) shall first be applied to amounts contributed to a defined benefit plan and then to amounts described in subparagraph (A). Subparagraph (B) shall not apply to contributions made on behalf of the employer or a member of the employer’s family (as defined in section 447(e)(1)).11 See References in Text note below.
 
 (7) **Defined benefit plan exception** — In determining the amount of nondeductible contributions for any taxable year, an employer may elect for such year not to take into account any contributions to a defined benefit plan except, in the case of a multiemployer plan, to the extent that such contributions exceed the full-funding limitation (as defined in section 431(c)(6)). For purposes of this paragraph, the deductible limits under section 404(a)(7) shall first be applied to amounts contributed to defined contribution plans and then to amounts described in this paragraph. If an employer makes an election under this paragraph for a taxable year, paragraph (6) shall not apply to such employer for such taxable year.
 
@@ -342,6 +350,9 @@ For provisions directing that if any amendments made by subtitle D [§§ 1401–
 (2) **Employer** — In the case of a plan which provides contributions or benefits for employees some or all of whom are self-employed individuals within the meaning of section 401(c)(1), the term “employer” means the person treated as the employer under section 401(c)(4).
 
 ### Statutory Notes
+
+#### References in Text
+Section 447(e), referred to in subsec. (c)(6), was repealed and provisions were redesignated as section 447(e) which do not relate to members of the employer’s family by Pub. L. 115–97, title I, § 13102(a)(5)(C), Dec. 22, 2017, 131 Stat. 2103.
 
 #### Prior Provisions
 A prior section, added Pub. L. 93–406, title II, § 2001(f)(1), Sept. 2, 1974, 88 Stat. 955; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, § 312(e)(3), Aug. 13, 1981, 95 Stat. 285; Pub. L. 97–448, title I, § 103(c)(10)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, § 491(d)(40), July 18, 1984, 98 Stat. 851, related to tax on excess contributions for self-employed individuals, prior to repeal applicable to years beginning after Dec. 31, 1983, by Pub. L. 97–248, title II, § 237(c)(1), Sept. 3, 1982, 96 Stat. 511.
@@ -841,7 +852,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (D) transfer to, or use by or for the benefit of, a disqualified person of the income or assets of a plan;
 
-  (E) act by a disqualified person who is a fiduciary whereby he deals with the income or assets of a plan in his own interests or for his own account; or
+  (E) act by a disqualified person who is a fiduciary whereby he deals with the income or assets of a plan in his own interest or for his own account; or
 
   (F) receipt of any consideration for his own personal account by any disqualified person who is a fiduciary from any party dealing with the plan in connection with a transaction involving the income or assets of the plan.
 
@@ -878,7 +889,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (2) any contract, or reasonable arrangement, made with a disqualified person for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor;
 
-(3) any loan to an 11 So in original. Probably should be “a”. leveraged employee stock ownership plan (as defined in subsection (e)(7)), if—
+(3) any loan to a leveraged employee stock ownership plan (as defined in subsection (e)(7)), if—
 
   (A) such loan is primarily for the benefit of participants and beneficiaries of the plan, and
 
@@ -906,7 +917,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
     (ii) in a manner that would be inconsistent with the best interests of participants and beneficiaries of employee benefit plans;
 
-(7) the exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary but only if the plan receives no less than adequate consideration pursuant to such conversion;
+(7) the exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary, but only if the plan receives no less than adequate consideration pursuant to such conversion;
 
 (8) any transaction between a plan and a common or collective trust fund or pooled investment fund maintained by a disqualified person which is a bank or trust company supervised by a State or Federal agency or between a plan and a pooled investment fund of an insurance company qualified to do business in a State if—
 
@@ -932,7 +943,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (16) a sale of stock held by a trust which constitutes an individual retirement account under section 408(a) to the individual for whose benefit such account is established if—
 
-  (A) such stock is in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(w)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/w/1&num=0&edition=prelim)),22 So in original. Another closing parenthesis probably should precede the comma.
+  (A) such stock is in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(w)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/w/1&num=0&edition=prelim))),
 
   (B) such stock is held by such trust as of the date of the enactment of this paragraph,
 
@@ -944,7 +955,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (F) the stock is sold in a single transaction for cash not later than 120 days after the S corporation election is made;
 
-(17) Any 33 So in original. Probably should not be capitalized. transaction in connection with the provision of investment advice described in subsection (e)(3)(B) to a participant or beneficiary in a plan that permits such participant or beneficiary to direct the investment of plan assets in an individual account, if—
+(17) any transaction in connection with the provision of investment advice described in subsection (e)(3)(B) to a participant or beneficiary in a plan that permits such participant or beneficiary to direct the investment of plan assets in an individual account, if—
 
   (A) the transaction is—
 
@@ -954,7 +965,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
     (iii) the direct or indirect receipt of fees or other compensation by the fiduciary adviser or an affiliate thereof (or any employee, agent, or registered representative of the fiduciary adviser or affiliate) in connection with the provision of the advice or in connection with an acquisition, holding, or sale of a security or other property available as an investment under the plan pursuant to the investment advice; and
 
-  (B) the requirements of subsection (f)(8) are met,44 So in original. The comma probably should be a semicolon.
+  (B) the requirements of subsection (f)(8) are met,11 So in original. The comma probably should be a semicolon.
 
 (18) any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary of Labor), between a plan and a disqualified person (other than a fiduciary described in subsection (e)(3)) with respect to a plan if—
 
@@ -962,9 +973,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (B) at the time of the transaction, the interest of the plan (together with the interests of any other plans maintained by the same plan sponsor), does not exceed 10 percent of the aggregate size of the block trade,
 
-  (C) the terms of the transaction, including the price, are at least as favorable to the plan as an arm’s length 55 So in original. Probably should be “arm’s-length”. transaction, and
+  (C) the terms of the transaction, including the price, are at least as favorable to the plan as an arm’s length 22 So in original. Probably should be “arm’s-length”. transaction, and
 
-  (D) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm’s length 5 transaction with an unrelated party,4
+  (D) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm’s length 2 transaction with an unrelated party,1
 
 (19) any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary of Labor), between a plan and a disqualified person if—
 
@@ -980,23 +991,23 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
     (ii) neither the execution system nor the parties to the transaction take into account the identity of the parties in the execution of trades,
 
-  (C) the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm’s length 5 transaction with an unrelated party,
+  (C) the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm’s length 2 transaction with an unrelated party,
 
-  (D) if 66 So in original. The word “if” probably should not appear. the disqualified person has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
+  (D) if 33 So in original. The word “if” probably should not appear. the disqualified person has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
 
-  (E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,4
+  (E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,1
 
-(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,4
+(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,1
 
-(21) any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either) and a plan (as defined in this section) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other disqualified person person,77 So in original. if—
+(21) any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either) and a plan (as defined in this section) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other disqualified person, if—
 
   (A) the transaction is in connection with the purchase, holding, or sale of securities or other investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
 
-  (B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm’s length 5 foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm’s-length foreign exchange transactions involving unrelated parties,
+  (B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm’s length 2 foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm’s-length foreign exchange transactions involving unrelated parties,
 
   (C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
-  (D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction,4
+  (D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction,1
 
 (22) any transaction described in subsection (c)(1)(A) involving the purchase and sale of a security between a plan and any other account managed by the same investment manager, if—
 
@@ -1017,7 +1028,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
   (H) the investment manager has adopted, and cross-trades are effected in accordance with, written cross-trading policies and procedures that are fair and equitable to all accounts participating in the cross-trading program, and that include a description of the manager’s pricing policies and procedures, and the manager’s policies and procedures for allocating cross trades in an objective manner among accounts participating in the cross-trading program, and
 
   (I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
-  The written report shall also notify the plan fiduciary of the plan’s right to terminate participation in the investment manager’s cross-trading program at any time,4 or
+  The written report shall also notify the plan fiduciary of the plan’s right to terminate participation in the investment manager’s cross-trading program at any time,1 or
 
 (23) except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period.
 
@@ -1197,7 +1208,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
       (I) the only investment advice provided under the program is the advice generated by the computer model described in clause (ii), and
 
-      (II) any transaction described in (d)(17)(A)(ii) 88 So in original. Probably should be “subsection (d)(17)(A)(ii)”. occurs solely at the direction of the participant or beneficiary.
+      (II) any transaction described in subsection (d)(17)(A)(ii) occurs solely at the direction of the participant or beneficiary.
     Nothing in the preceding sentence shall preclude the participant or beneficiary from requesting investment advice other than that described in clause (i), but only if such request has not been solicited by any person connected with carrying out the arrangement.
 
   (D) *Express authorization by separate fiduciary* — The requirements of this subparagraph are met with respect to an arrangement if the arrangement is expressly authorized by a plan fiduciary other than the person offering the investment advice program, any person providing investment options under the plan, or any affiliate of either.
@@ -1218,7 +1229,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
     (i) the fiduciary adviser provides to a participant or a beneficiary before the initial provision of the investment advice with regard to any security or other property offered as an investment option, a written notification (which may consist of notification by means of electronic communication)—
 
-      (I) of the role of any party that has a material affiliation or contractual relationship with the fiduciary adviser,99 So in original. The comma probably should not appear. in the development of the investment advice program and in the selection of investment options available under the plan,
+      (I) of the role of any party that has a material affiliation or contractual relationship with the fiduciary adviser in the development of the investment advice program and in the selection of investment options available under the plan,
 
       (II) of the past performance and historical rates of return of the investment options available under the plan,
 
@@ -1226,7 +1237,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
       (IV) of any material affiliation or contractual relationship of the fiduciary adviser or affiliates thereof in the security or other property,
 
-      (V) the 1010 So in original. Probably should be “of the”. manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
+      (V) of the manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
 
       (VI) of the types of services provided by the fiduciary adviser in connection with the provision of investment advice by the fiduciary adviser,
 
@@ -1346,6 +1357,20 @@ The Investment Advisers Act of 1940, referred to in subsec. (f)(8)(J)(i)(I), is 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(8)(J)(i)(IV), (10)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. Section 6 of the Act is classified to [section 78f of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78f&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (d)(3). Pub. L. 115–141, § 401(a)(229), substituted “a leveraged” for “an leveraged” in introductory provisions.
+
+Subsec. (d)(16)(A). Pub. L. 115–141, § 401(a)(190), substituted “1813(w)(1))),” for “1813(w)(1)),”.
+
+Subsec. (d)(17). Pub. L. 115–141, § 401(a)(230), substituted “any transaction” for “Any transaction” in introductory provisions.
+
+Subsec. (d)(21). Pub. L. 115–141, § 401(a)(231), substituted “person” for “person person” in introductory provisions.
+
+Subsec. (f)(8)(C)(iv)(II). Pub. L. 115–141, § 401(a)(232), inserted “subsection” before “(d)(17)(A)(ii)”.
+
+Subsec. (f)(8)(F)(i)(I). Pub. L. 115–141, § 401(a)(233), struck out comma after “adviser”.
+
+Subsec. (f)(8)(F)(i)(V). Pub. L. 115–141, § 401(a)(234), inserted “of” before “the manner”.
+
 2008—Subsec. (d)(17). Pub. L. 110–458, § 106(a)(2)(A), substituted “that permits” for “and that permits” in introductory provisions.
 
 Subsec. (d)(18). Pub. L. 110–458, § 106(b)(2)(A), in introductory provisions, substituted “disqualified person” for “party in interest” and “subsection (e)(3)” for “subsection (e)(3)(B)”.
@@ -2395,7 +2420,7 @@ Pub. L. 105–34, title X, § 1073(c), Aug. 5, 1997, 111 Stat. 948, provided tha
 
 **(f) Continuation coverage requirements of group health plans**
 
-(1) **In general** — A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) 11 See References in Text note below. is not reduced below the coverage provided by the plan as of May 1, 1993, and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
+(1) **In general** — A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act ([42 U.S.C. 1396s(h)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396s/h/6&num=0&edition=prelim))) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
 
 (2) **Continuation coverage** — For purposes of paragraph (1), the term “continuation coverage” means coverage under the plan which meets the following requirements:
 
@@ -2508,7 +2533,7 @@ Pub. L. 105–34, title X, § 1073(c), Aug. 5, 1997, 111 Stat. 948, provided tha
       (I) beginning on the date of the TAA-related loss of coverage, and
 
       (II) ending on the first day of the 60-day election period described in clause (i),
-    shall be disregarded for purposes of determining the 63-day periods referred to in section 9801(c)(2), section 701(c)(2) of the Employee Retirement Income Security Act of 1974, and section 2701(c)(2) 1 of the Public Health Service Act.
+    shall be disregarded for purposes of determining the 63-day periods referred to in section 9801(c)(2), section 701(c)(2) of the Employee Retirement Income Security Act of 1974, and section 2704(c)(2) of the Public Health Service Act.
 
     (iv) *Definitions* — For purposes of this subsection:
 
@@ -2581,17 +2606,17 @@ Pub. L. 105–34, title X, § 1073(c), Aug. 5, 1997, 111 Stat. 948, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsec. (f)(1), does not contain a section 2162. The reference probably should be to section 1928 of the Social Security Act, which is classified to [section 1396s of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396s&num=0&edition=prelim), The Public Health and Welfare, and which relates to pediatric vaccines.
-
 The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§ 1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
-The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
-
-Section 2701 of the Public Health Service Act, referred to in subsec. (f)(5)(C)(iii), was classified to [section 300gg of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg&num=0&edition=prelim), The Public Health and Welfare, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to [section 300gg–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–3&num=0&edition=prelim). A new section 2701, related to fair health insurance premiums, was added and amended by Pub. L. 111–148, title I, § 1201(4), title X, § 10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to [section 300gg of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg&num=0&edition=prelim).
+The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), (5)(C)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Section 2704(c)(2) of the Act is classified to [section 300gg–3(c)(2) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–3/c/2&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–141, § 401(a)(235), substituted “section 1928(h)(6) of the Social Security Act ([42 U.S.C. 1396s(h)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396s/h/6&num=0&edition=prelim))” for “section 2162 of the Public Health Service Act”.
+
+Subsec. (f)(5)(C)(iii). Pub. L. 115–141, § 401(a)(236), substituted “section 2704(c)(2)” for “section 2701(c)(2)” in concluding provisions.
+
 2011—Subsec. (f)(2)(B)(i)(V), (VI). Pub. L. 112–40 substituted “January 1, 2014” for “February 12, 2011”.
 
 2010—Subsec. (f)(2)(B)(i)(V), (VI). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
@@ -3132,7 +3157,7 @@ then there is hereby imposed on the employer an assessable payment equal to the 
 
   (E) *Full-time equivalents treated as full-time employees* — Solely for purposes of determining whether an employer is an applicable large employer under this paragraph, an employer shall, in addition to the number of full-time employees for any month otherwise determined, include for such month a number of full-time employees determined by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
 
-  (F) *Exemption for health coverage under TRICARE or the Veterans Administration* — Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
+  (F) *Exemption for health coverage under TRICARE or the Department of Veterans Affairs* — Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
 
     (i) chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
 
@@ -3180,6 +3205,8 @@ then there is hereby imposed on the employer an assessable payment equal to the 
 The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former [section 139D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-139d) and [section 18101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18101&num=0&edition=prelim), amended sections 36B, 162, 4980H, 6056, and 6724 of this title and [section 218b of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section218b&num=0&edition=prelim), Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056 of this title and former [section 139D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-139d). For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (c)(2)(F). Pub. L. 115–141 substituted “Department of Veterans Affairs” for “Veterans Administration” in heading.
+
 2015—Subsec. (c)(2)(F). Pub. L. 114–41 added subpar. (F).
 
 2011—Subsec. (b)(3). Pub. L. 112–10 struck out par. (3). Text read as follows: “No assessable payment shall be imposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month.”
@@ -3286,13 +3313,13 @@ there is hereby imposed a tax equal to 40 percent of the excess benefit.
 
       (I) the dollar amount in clause (i)(I) shall be increased by $1,650, and
 
-      (II) the dollar amount in clause (i)(II) shall be increased by $3,450,11 So in original. The comma probably should be a period.
+      (II) the dollar amount in clause (i)(II) shall be increased by $3,450.
 
-    (v) *Subsequent years* — In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for for the calendar year preceding such year, increased by an amount equal to the product of—
+    (v) *Subsequent years* — In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for the calendar year preceding such year, increased by an amount equal to the product of—
 
       (I) such amount as so determined, multiplied by
 
-      (II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for “1992” in subparagraph (B) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for “2016” in subparagraph (A)(ii) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
     If any amount determined under this clause is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50.
 
 **(c) Liability to pay tax**
@@ -3431,6 +3458,12 @@ Section 3(y) of the Fair Labor Standards Act of 1938, referred to in subsec. (f)
 Section 3(16)(B) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(7), is classified to [section 1002(16)(B) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/16/B&num=0&edition=prelim), Labor.
 
 #### Amendments
+2018—Subsec. (b)(3)(C)(iv)(II). Pub. L. 115–141, § 401(a)(237), substituted period for comma at end.
+
+Subsec. (b)(3)(C)(v). Pub. L. 115–141, § 401(a)(238), substituted “determined for” for “determined for for” in introductory provisions.
+
+2017—Subsec. (b)(3)(C)(v)(II). Pub. L. 115–97 substituted “for ‘2016’ in subparagraph (A)(ii)” for “for ‘1992’ in subparagraph (B)”.
+
 2016—Subsec. (d)(2)(D), (E). Pub. L. 114–255, § 18001(a)(4)(B), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 Subsec. (f)(4). Pub. L. 114–255, § 18001(a)(4)(A), inserted at end “Section 9831(d)(1) shall not apply for purposes of this section.”.
@@ -3475,6 +3508,9 @@ Subsec. (d)(3). Pub. L. 111–152, § 1401(a)(5), added par. (3).
 
 Subsec. (f)(3). Pub. L. 111–148, § 10901(a), inserted “individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act ([8 U.S.C. 1288(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1288/b&num=0&edition=prelim)), determined without regard to paragraph (2) thereof),” before “and individuals engaged in the construction, mining”.
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–255 applicable to years beginning after Dec. 31, 2016, see section 18001(a)(7) of Pub. L. 114–255, set out as a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
 
@@ -3482,4 +3518,4 @@ Amendment by Pub. L. 114–255 applicable to years beginning after Dec. 31, 2016
 Pub. L. 111–148, title X, § 10901(c), Mar. 23, 2010, 124 Stat. 1016, as amended by Pub. L. 111–152, title I, § 1401(b)(2), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, § 101(a), Dec. 18, 2015, 129 Stat. 3037, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019.”
 
 #### Effective Date
-Pub. L. 111–148, title IX, § 9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, § 1401(b)(1), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, § 101(a), Dec. 18, 2015, 129 Stat. 3037, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2019.”
+Pub. L. 111–148, title IX, § 9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, § 1401(b)(1), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, § 101(a), Dec. 18, 2015, 129 Stat. 3037; Pub. L. 115–120, div. D, § 4002, Jan. 22, 2018, 132 Stat. 38, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2021.”

@@ -249,11 +249,13 @@ All fees shall be paid to the Secretary, and the Secretary may refund any sum pa
 ## § 2401. Definitions and rules of construction
 **(a) Definitions** As used in this chapter:
 
-(1) **Basic seed** — The term “basic seed” means the seed planted to produce certified or commercial seed.
+(1) **Asexually reproduced** — The term “asexually reproduced” means produced by a method of plant propagation using vegetative material (other than seed) from a single parent, including cuttings, grafting, tissue culture, and propagation by root division.
 
-(2) **Breeder** — The term “breeder” means the person who directs the final breeding creating a variety or who discovers and develops a variety. If the actions are conducted by an agent on behalf of a principal, the principal, rather than the agent, shall be considered the breeder. The term does not include a person who redevelops or rediscovers a variety the existence of which is publicly known or a matter of common knowledge.
+(2) **Basic seed** — The term “basic seed” means the seed planted to produce certified or commercial seed.
 
-(3) **Essentially derived variety**
+(3) **Breeder** — The term “breeder” means the person who directs the final breeding creating a variety or who discovers and develops a variety. If the actions are conducted by an agent on behalf of a principal, the principal, rather than the agent, shall be considered the breeder. The term does not include a person who redevelops or rediscovers a variety the existence of which is publicly known or a matter of common knowledge.
+
+(4) **Essentially derived variety**
 
   (A) *In general* — The term “essentially derived variety” means a variety that—
 
@@ -265,17 +267,17 @@ All fees shall be paid to the Secretary, and the Secretary may refund any sum pa
 
   (B) *Methods* — An essentially derived variety may be obtained by the selection of a natural or induced mutant or of a somaclonal variant, the selection of a variant individual from plants of the initial variety, backcrossing, transformation by genetic engineering, or other method.
 
-(4) **Kind** — The term “kind” means one or more related species or subspecies singly or collectively known by one common name, such as soybean, flax, or radish.
+(5) **Kind** — The term “kind” means one or more related species or subspecies singly or collectively known by one common name, such as soybean, flax, or radish.
 
-(5) **Seed** — The term “seed”, with respect to a tuber propagated variety, means the tuber or the part of the tuber used for propagation.
+(6) **Seed** — The term “seed”, with respect to a tuber propagated variety, means the tuber or the part of the tuber used for propagation.
 
-(6) **Sexually reproduced** — The term “sexually reproduced” includes any production of a variety by seed, but does not include the production of a variety by tuber propagation.
+(7) **Sexually reproduced** — The term “sexually reproduced” includes any production of a variety by seed, but does not include the production of a variety by tuber propagation.
 
-(7) **Tuber propagated** — The term “tuber propagated” means propagated by a tuber or a part of a tuber.
+(8) **Tuber propagated** — The term “tuber propagated” means propagated by a tuber or a part of a tuber.
 
-(8) **United States** — The terms “United States” and “this country” mean the United States, the territories and possessions of the United States, and the Commonwealth of Puerto Rico.
+(9) **United States** — The terms “United States” and “this country” mean the United States, the territories and possessions of the United States, and the Commonwealth of Puerto Rico.
 
-(9) **Variety** — The term “variety” means a plant grouping within a single botanical taxon of the lowest known rank, that, without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by the expression of at least one characteristic and considered as a unit with regard to the suitability of the plant grouping for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other matter.
+(10) **Variety** — The term “variety” means a plant grouping within a single botanical taxon of the lowest known rank, that, without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by the expression of at least one characteristic and considered as a unit with regard to the suitability of the plant grouping for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other matter.
 
 **(b) Rules of construction** For the purposes of this chapter:
 
@@ -300,6 +302,8 @@ All fees shall be paid to the Secretary, and the Secretary may refund any sum pa
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334 added par. (1) and redesignated former pars. (1) to (9) as (2) to (10), respectively.
+
 1994—Pub. L. 103–349 amended section generally, substituting provisions consisting of subsecs. (a) and (b) for former provisions consisting of subsecs. (a) to (j).
 
 #### Effective Date of 1994 Amendment
@@ -311,7 +315,7 @@ Pub. L. 103–349, § 14, Oct. 6, 1994, 108 Stat. 3144, provided that: “(a) In
 
 <a id="section-2402"></a>
 ## § 2402. Right to plant variety protection; plant varieties protectable
-**(a) In general** The breeder of any sexually reproduced or tuber propagated plant variety (other than fungi or bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
+**(a) In general** The breeder of any sexually reproduced, tuber propagated, or asexually reproduced plant variety (other than fungi or bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
 
 (1) new, in the sense that, on the date of filing of the application for plant variety protection, propagating or harvested material of the variety has not been sold or otherwise disposed of to other persons, by or with the consent of the breeder, or the successor in interest of the breeder, for purposes of exploitation of the variety—
 
@@ -342,6 +346,8 @@ Pub. L. 103–349, § 14, Oct. 6, 1994, 108 Stat. 3144, provided that: “(a) In
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334 substituted “, tuber propagated, or asexually reproduced” for “or tuber propagated”.
+
 1996—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
 
 1994—Pub. L. 103–349 amended section generally, substituting present provisions for substantially similar former provisions.
@@ -783,7 +789,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 (2) import the variety into, or export it from, the United States;
 
-(3) sexually multiply, or propagate by a tuber or a part of a tuber, the variety as a step in marketing (for growing purposes) the variety;
+(3) sexually or asexually multiply, or propagate by a tuber or a part of a tuber, the variety as a step in marketing (for growing purposes) the variety;
 
 (4) use the variety in producing (as distinguished from developing) a hybrid or different variety therefrom;
 
@@ -839,6 +845,8 @@ The effective date of this provision, referred to in subsec. (b)(3), probably me
 The Plant Variety Protection Act Amendments of 1994, referred to in subsec. (b)(3), is Pub. L. 103–349, Oct. 6, 1994, 108 Stat. 3136. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 2321 of this title](./chapter-057-plant-variety-protection.md#section-2321) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–334 inserted “or asexually” after “sexually”.
+
 1994—Subsec. (a). Pub. L. 103–349, § 9(1)(A), substituted “protected” for “novel” in two places in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 103–349, § 9(1)(B), substituted “or market the protected” for “the novel”.
@@ -994,7 +1002,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 <a id="section-2568"></a>
 ## § 2568. False marking; cease and desist orders
-**(a)** Each of the following acts, if performed in connection with the sale, offering for sale, or advertising of sexually reproducible plant material or tubers or parts of tubers, is prohibited, and the Secretary may, if the Secretary determines after an opportunity for hearing that the act is being so performed, issue an order to cease and desist, said order being binding unless appealed under [section 2461 of this title](./chapter-057-plant-variety-protection.md#section-2461):
+**(a)** Each of the following acts, if performed in connection with the sale, offering for sale, or advertising of sexually or asexually reproducible plant material or tubers or parts of tubers, is prohibited, and the Secretary may, if the Secretary determines after an opportunity for hearing that the act is being so performed, issue an order to cease and desist, said order being binding unless appealed under [section 2461 of this title](./chapter-057-plant-variety-protection.md#section-2461):
 
 (1) Use of the words “U.S. Protected Variety” or any word or number importing that the material is a variety protected under certificate, when it is not.
 
@@ -1011,6 +1019,8 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334 inserted “or asexually” after “sexually” in introductory provisions.
+
 1994—Subsec. (a). Pub. L. 103–349 inserted “or tubers or parts of tubers” after “plant material” and substituted “if the Secretary determines” for “if he determines” in introductory provisions, and added par. (4).
 
 1980—Subsec. (a)(3). Pub. L. 96–574 substituted provisions respecting prohibitions for use of phrases “Unauthorized Propagation Prohibited” and “Unauthorized Seed Multiplication Prohibited” for provisions respecting prohibitions for use of phrase “propagation prohibited”.

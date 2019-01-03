@@ -193,7 +193,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
     (iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act); and
 
-    (v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking);
+    (v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking), chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes);
 
   (C) payment of costs for publicizing awards available under section 619 of the Tariff Act of 1930 ([19 U.S.C. 1619](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1619&num=0&edition=prelim));
 
@@ -408,6 +408,8 @@ The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec
 [Section 524(c)(11) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c/11&num=0&edition=prelim), referred to in subsec. (m), was redesignated section 524(c)(10) by Pub. L. 104–66, title I, § 1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
 
 #### Amendments
+2018—Subsec. (a)(2)(B)(v). Pub. L. 115–392 inserted “, chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes)” after “(relating to human trafficking)”.
+
 2015—Pub. L. 114–22, § 105(c)(1)(A), renumbered [section 9703 of this title](./chapter-097-miscellaneous.md#section-9703), relating to Department of the Treasury Forfeiture Fund, as this section.
 
 Subsec. (a)(1)(I). Pub. L. 114–22, § 105(c)(1)(B)(i)(I), substituted “Payment” for “payment” and period for semicolon at end.

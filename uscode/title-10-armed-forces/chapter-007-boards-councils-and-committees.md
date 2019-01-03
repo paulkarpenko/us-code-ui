@@ -2,7 +2,7 @@
 title: 10
 chapter: '7'
 heading: 'BOARDS, COUNCILS, AND COMMITTEES'
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -103,7 +103,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
   (B) Vulnerability identification and mitigation.
 
-  (C) Architecture development(including space system architectures and associated user terminals and ground segments).
+  (C) Architecture development (including space system architectures and associated user terminals and ground segments).
 
   (D) Resource prioritization.
 
@@ -123,7 +123,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 (6) An assessment of the readiness of the command, control, and communications system for the national leadership of the United States and of each layer of the system, as that layer relates to nuclear command, control, and communications.
 
-**(f) Collection of Assessments on Certain Threats.—** The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)) 11 So in original. Another closing parenthesis probably should appear. regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
+**(f) Collection of Assessments on Certain Threats.—** The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))) regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
 
 **(g) Budget and Funding Matters.—**
 
@@ -161,7 +161,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
   (D) The enhanced polar system.
 
-(3) In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in section 2366(e) 22 See References in Text note below. of this title.
+(3) In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in sections 2366(e) and 2366a(d) of this title.
 
 **(j) Notification of Reduction of Certain Warning Time.—**
 
@@ -179,7 +179,31 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
   (C) the plan of the Secretary and the Chairman to ensure that the Council is able to make a positive determination in the following year.
 
-**(k) National Leadership of the United States Defined.—** In this section, the term “national leadership of the United States” means the following:
+**(k) Status of Acquisition Programs.—**
+
+(1) On a quarterly basis, each program manager of a covered acquisition program shall transmit to the co-chairs of the Council, acting through the senior steering group of the Council, a report that identifies—
+
+  (A) the covered acquisition program;
+
+  (B) the requirements of the program;
+
+  (C) the development timeline of the program; and
+
+  (D) the status of the program, including whether the program is delayed and, if so, whether such delay will result in a program schedule delay.
+
+(2) Not later than seven days after the end of each semiannual period, the co-chairs of the Council shall submit to the congressional defense committees a report that identifies, with respect to the reports transmitted to the Council under paragraph (1) for the two quarters in such period—
+
+  (A) each covered acquisition program that is delayed more than 180 days; and
+
+  (B) any covered acquisition program that should have been included in such reports but was excluded, and the reasons for such exclusion.
+
+(3) In this subsection, the term “covered acquisition program” means each acquisition program of the Department of Defense that materially contributes to—
+
+  (A) the nuclear command, control, and communications systems of the United States; or
+
+  (B) the continuity of government systems of the United States.
+
+**(l) National Leadership of the United States Defined.—** In this section, the term “national leadership of the United States” means the following:
 
 (1) The President.
 
@@ -189,10 +213,13 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2366(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2366/e&num=0&edition=prelim), referred to in subsec. (i)(3), defines term “Milestone B approval”, but does not define term “Milestone A approval”. Provisions defining term “Milestone A approval” are contained in [section 2366a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2366a/d&num=0&edition=prelim).
-
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91, § 1081(a)(13)(A), substituted “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)))” for “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))”.
+
+Subsec. (i)(3). Pub. L. 115–91, § 1081(a)(13)(B), substituted “sections 2366(e) and 2366a(d)” for “section 2366(e)”.
+
+Subsecs. (k), (l). Pub. L. 115–91, § 1654(a)(1), added subsec. (k) and redesignated former subsec. (k) as (l).
+
 2016—Subsec. (d)(1). Pub. L. 114–328, § 1661(a)(1), inserted “, and including with respect to the integrated tactical warning and attack assessment systems, processes, and enablers, and continuity of the governmental functions of the Department of Defense” before period at end.
 
 Subsec. (d)(2)(C). Pub. L. 114–328, § 1661(a)(2), inserted “(including space system architectures and associated user terminals and ground segments)” before period at end.
@@ -207,14 +234,21 @@ Subsecs. (i) to (k). Pub. L. 114–328, § 1661(b), added subsecs. (i) and (j) a
 
 Subsecs. (f) to (i). Pub. L. 114–92, § 1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
+#### Department of Defense Instruction
+Pub. L. 115–91, div. A, title XVI, § 1654(a)(2), Dec. 12, 2017, 131 Stat. 1759, provided that: “The Secretary of Defense shall issue a Department of Defense Instruction, or revise such an Instruction, to ensure that program managers carry out subsection (k)(1) of [section 171a of title 10](./chapter-007-boards-councils-and-committees.md#section-171a), United States Code, as added by paragraph (1).”
+
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsecs. (e) and (g)(2) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
+#### Execution and Programmatic Oversight
+Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, provided that: “(1) Database.—Not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the Chief Information Officer of the Department of Defense, as Executive Secretary of the Council on Oversight of the National Leadership Command, Control, and Communications System established under [section 171a of title 10](./chapter-007-boards-councils-and-committees.md#section-171a), United States Code (or a successor to the Chief Information Officer assigned responsibility for policy, oversight, guidance, and coordination for nuclear command and control systems), shall, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, develop a database relating to the execution of all nuclear command, control, and communications acquisition programs of the Department of Defense with an approved Materiel Development Decision. The database shall be updated not less frequently than annually and upon completion of a major program element of such a program. “(2) Database elements.—The database required by paragraph (1) shall include, at a minimum, the following elements for each program described in that paragraph, consistent with Department of Defense Instruction 5000.02:“(A) Projected dates for Milestones A, B, and C, including cost thresholds and objectives for major elements of life cycle cost. “(B) Projected dates for program design reviews and critical design reviews. “(C) Projected dates for developmental and operation tests. “(D) Projected dates for initial operational capability and final operational capability. “(E) An acquisition program baseline. “(F) Program acquisition unit cost and average procurement unit cost. “(G) Contract type. “(H) Key performance parameters. “(I) Key system attributes. “(J) A risk register. “(K) Technology readiness levels. “(L) Manufacturing readiness levels. “(M) Integration readiness levels. “(N) Any other critical elements that affect the stability of the program. “(3) Briefings.—The co-chairs of the Council on Oversight of the National Leadership Command, Control, and Communications System shall brief the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] on the status of the database required by paragraph (1)—“(A) not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017]; and “(B) upon completion of the database.”
+
 
 <a id="section-172"></a>
-## § 172. Ammunition storage board
+## § 172. Explosive safety board
+**(a) In General.—** The Secretary of Defense, acting through a joint board that includes members selected by the Secretaries of the military departments, composed of military officers designated as the chair and voting members of the board for each military department, and other civilian officers and employees of the Department of Defense, as necessary, shall provide oversight on storage and transportation of supplies of ammunition and components thereof for use of the Army, Navy, Air Force, Marine Corps, and Coast Guard, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations. When the Coast Guard is not operating as a service in the Department of the Navy, the Secretary of Homeland Security shall appoint an officer of the Coast Guard to serve as a voting member of the board.
 
-The Secretaries of the military departments, acting through a joint board selected by them composed of officers, civilian officers and employees of the Department of Defense, or both, shall keep informed on stored supplies of ammunition and components thereof for use of the Army, Navy, Air Force, and Marine Corps, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations.
+**(b) Oversight by Secretaries of the Military Departments.—** The Secretaries of the military departments shall provide research, development, test, evaluation, and manufacturing oversight for energetic materials supporting military requirements.
 
 ### Statutory Notes
 
@@ -228,6 +262,14 @@ In subsection (a), the words “informed on stored” are substituted for the wo
 In subsection (b), the words “in carrying out” are substituted for the words “in the execution of”.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–23 substituted “Marine Corps, and Coast Guard” for “and Marine Corps” and inserted at end “When the Coast Guard is not operating as a service in the Department of the Navy, the Secretary of Homeland Security shall appoint an officer of the Coast Guard to serve as a voting member of the board.”
+
+2017—Pub. L. 115–91, § 341(b)(1), substituted “Explosive safety” for “Ammunition storage” in section catchline.
+
+Pub. L. 115–91, § 341(a)(1)–(8), designated existing provisions as subsec. (a) and inserted heading, inserted “that includes members” after “joint board”, substituted “selected by the Secretaries of the military departments” for “selected by them”, inserted “military” before “officers”, “designated as the chair and voting members of the board for each military department” after “officers”, and “and other” before “civilian officers”, and substituted “as necessary” for “or both” and “provide oversight on storage and transportation of” for “keep informed on stored”.
+
+Subsec. (b). Pub. L. 115–91, § 341(a)(9), added subsec. (b).
+
 2011—Pub. L. 111–383 struck out subsec. (a) designation before “The Secretaries” and struck out subsec. (b) which read as follows: “The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress.”
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “a joint board selected by them composed of officers, civilian officers and employees of the Department of Defense, or both” for “a joint board of officers selected by them”.
@@ -471,7 +513,7 @@ Subsec. (d). Pub. L. 112–239, § 585(3), substituted “annually to its Board 
 
   (B) the Dean of the Uniformed Services University of the Health Sciences, who shall be an ex officio member, and
 
-  (C) four members appointed by the ex officio members of the Council designated in clauses (A) and (B).
+  (C) six members appointed by the ex officio members of the Council designated in clauses (A) and (B).
 
 (2) The term of office of each member of the Council appointed under clause (C) of paragraph (1) shall be four years, except that—
 
@@ -514,6 +556,8 @@ Subsec. (d). Pub. L. 112–239, § 585(3), substituted “annually to its Board 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(1)(C). Pub. L. 115–232 substituted “six members” for “four members”.
+
 1999—Subsec. (c)(1)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
@@ -532,15 +576,17 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 ## § 179. Nuclear Weapons Council
 **(a) Establishment; Membership.—** There is a Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:
 
-(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+(1) The Under Secretary of Defense for Acquisition and Sustainment.
 
 (2) The Vice Chairman of the Joint Chiefs of Staff.
 
 (3) The Under Secretary for Nuclear Security of the Department of Energy.
 
-(4) The Under Secretary of Defense for Policy.
+(4) The Under Secretary of Defense for Research and Engineering.
 
-(5) The Commander of the United States Strategic Command.
+(5) The Under Secretary of Defense for Policy.
+
+(6) The Commander of the United States Strategic Command.
 
 **(b) Chairman; Meetings.—**
 
@@ -609,7 +655,7 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 
     (ii) A detailed assessment by the Nuclear Weapons Council regarding how the Administrator for Nuclear Security implemented any agreements and decisions of the Council made during such prior fiscal year.
 
-    (iii) An assessment from each of the Chairman of the Joints 11 So in original. Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
+    (iii) An assessment from each of the Chairman of the Joint Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
 
   (C) With respect to a report described in subparagraph (B), the Secretary may waive the requirement to include the certification described in clause (i) of such subparagraph if the Secretary—
 
@@ -637,7 +683,9 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 
     (ii) any comments of the Chairman.
 
-(6) In this subsection:
+(6) If a House of Congress adopts a bill authorizing or appropriating funds for the Department of Defense that, as determined by the Council, provides funds in an amount that will result in a delay in the nuclear certification or delivery of F–35A dual-capable aircraft, the Council shall notify the congressional defense committees of the determination.
+
+(7) In this subsection:
 
   (A) The term “budget” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
 
@@ -648,6 +696,14 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232, § 1661(1), substituted “Acquisition and Sustainment” for “Acquisition, Technology, and Logistics”.
+
+Subsec. (a)(4) to (6). Pub. L. 115–232, § 1661(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+2017—Subsec. (f)(3)(B)(iii). Pub. L. 115–91, § 1081(a)(14), substituted “Joint” for “Joints”.
+
+Subsec. (f)(6), (7). Pub. L. 115–91, § 1653, added par. (6) and redesignated former par. (6) as (7).
+
 2015—Subsec. (g). Pub. L. 114–92 struck out subsec. (g) which related to annual report.
 
 2014—Subsec. (f)(3) to (6). Pub. L. 113–291 added pars. (3) to (6).
@@ -788,27 +844,21 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
 **(b) Mission.—** In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall assist the Chairman of the Joint Chiefs of Staff in—
 
-(1) assessing joint military capabilities, and identifying, approving, and prioritizing gaps in such capabilities, to meet applicable requirements in the national defense strategy under section 118 11 See References in Text note below. of this title;
+(1) assessing joint military capabilities, and identifying, approving, and prioritizing gaps in such capabilities, to meet applicable requirements in the national defense strategy under [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim);
 
 (2) reviewing and validating whether a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense fulfills a gap in joint military capabilities;
 
-(3) developing recommendations, in consultation with the advisors to the Council under subsection (d), for program cost and fielding targets pursuant to [section 2448a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2448a) that—
-
-  (A) require a level of resources that is consistent with the level of priority assigned to the associated capability gap; and
-
-  (B) have an estimated period of time for the delivery of an initial operational capability that is consistent with the urgency of the associated capability gap;
-
-(4) establishing and approving joint performance requirements that—
+(3) establishing and approving joint performance requirements that—
 
   (A) ensure interoperability, where appropriate, between and among joint military capabilities; and
 
   (B) are necessary, as designated by the Chairman of the Joint Chiefs of Staff, to fulfill capability gaps of more than one armed force, Defense Agency, or other entity of the Department;
 
-(5) reviewing performance requirements for any existing or proposed capability that the Chairman of the Joint Chiefs of Staff determines should be reviewed by the Council;
+(4) reviewing performance requirements for any existing or proposed capability that the Chairman of the Joint Chiefs of Staff determines should be reviewed by the Council;
 
-(6) identifying new joint military capabilities based on advances in technology and concepts of operation; and
+(5) identifying new joint military capabilities based on advances in technology and concepts of operation; and
 
-(7) identifying alternatives to any acquisition program that meets approved joint military capability requirements for the purposes of sections 2366a(b), 2366b(a)(4), and 2433(e)(2) of this title.
+(6) identifying alternatives to any acquisition program that meets approved joint military capability requirements for the purposes of sections 2366a(b), 2366b(a)(4), and 2433(e)(2) of this title.
 
 **(c) Composition.—**
 
@@ -868,10 +918,11 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
 ### Statutory Notes
 
-#### References in Text
-[Section 118 of this title](./chapter-002-department-of-defense.md#section-118), referred to in subsec. (b)(1), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. Requirements in the national defense strategy are now set out in subsec. (g) of [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
-
 #### Amendments
+2018—Subsec. (b)(3) to (7). Pub. L. 115–232 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which related to development of recommendations for program cost and fielding targets pursuant to [section 2448a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2448a).
+
+2017—Subsec. (b)(1). Pub. L. 115–91 substituted “section 113(g)” for “section 118”.
+
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to Joint Requirements Oversight Council and consisted of its establishment, mission, composition, advisors, organization, availability of oversight information to Congressional defense committees, and definitions.
 
 2015—Subsec. (d)(3). Pub. L. 114–92 added par. (3).
@@ -1048,6 +1099,123 @@ A prior section 183, added Pub. L. 105–85, div. A, title IX, § 904(a), Nov. 1
 Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277, provided that: “Each member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries as of the date of the enactment of this Act [Jan. 28, 2008] shall serve as an initial member of the Department of Defense Board of Actuaries under [section 183 of title 10](./chapter-007-boards-councils-and-committees.md#section-183), United States Code (as added by paragraph (1)), from that date until the date otherwise provided for the completion of such individual’s term as a member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries, as the case may be, unless earlier removed by the Secretary of Defense.”
 
 
+<a id="section-183a"></a>
+## § 183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions
+**(a) Establishment.—**
+
+(1) The Secretary of Defense shall establish a Military Aviation and Installation Assurance Siting Clearinghouse (in this section referred to as the “Clearinghouse”).
+
+(2) The Clearinghouse shall be—
+
+  (A) organized under the authority, direction, and control of an Assistant Secretary of Defense designated by the Secretary; and
+
+  (B) assigned such personnel and resources as the Secretary considers appropriate to carry out this section.
+
+**(b) Functions.—**
+
+(1) The Clearinghouse shall coordinate Department of Defense review of applications for energy projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) and received by the Department of Defense from the Secretary of Transportation. In performing such coordination, the Clearinghouse shall provide procedures to ensure affected local military installations are consulted.
+
+(2) The Clearinghouse shall accelerate the development of planning tools necessary to determine the acceptability to the Department of Defense of proposals included in an application for an energy project submitted pursuant to such section.
+
+(3) The Clearinghouse shall perform such other functions as the Secretary of Defense assigns.
+
+**(c) Review of Proposed Actions.—**
+
+(1) Not later than 60 days after receiving from the Secretary of Transportation a proper application for an energy project under [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) that may have an adverse impact on military operations and readiness, the Clearinghouse shall conduct a preliminary review of such application. The review shall—
+
+  (A) assess the likely scope, duration, and level of risk of any adverse impact of such energy project on military operations and readiness; and
+
+  (B) identify any feasible and affordable actions that could be taken by the Department, the developer of such energy project, or others to mitigate the adverse impact and to minimize risks to national security while allowing the energy project to proceed with development.
+
+(2) If the Clearinghouse finds under paragraph (1) that an energy project will have an adverse impact on military operations and readiness, the Clearinghouse shall issue to the applicant a notice of presumed risk that describes the concerns identified by the Department in the preliminary review and requests a discussion of possible mitigation actions.
+
+(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary’s evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to [section 44718(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/f&num=0&edition=prelim).
+
+(4) The Clearinghouse shall develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of energy projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) that may have an adverse impact on military operations and readiness.
+
+(5) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
+
+(6) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar or airport surveillance radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
+
+**(d) Comprehensive Review.—**
+
+(1) The Secretary of Defense shall develop a comprehensive strategy for addressing the impacts upon the military of projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim).
+
+(2) In developing the strategy required by paragraph (1), the Secretary shall—
+
+  (A) assess the magnitude of interference posed by projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim);
+
+  (B) solely for the purpose of informing preliminary reviews under subsection (c)(1) and early outreach efforts under subsection (c)(5), identify distinct geographic areas selected as proposed locations for projects filed, or for projects that are reasonably expected to be filed in the near future, with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) where the Secretary of Defense can demonstrate such projects could have an adverse impact on military operations and readiness, including military training routes, and categorize the risk of adverse impact in such areas;
+
+  (C) develop procedures for the initial identification of such geographic areas identified under subparagraph (B), to include a process to provide notice and seek public comment prior to making a final designation of the geographic areas, including maps of the area and the basis for identification;
+
+  (D) develop procedures to periodically review and modify, consistent with the notice and public comment process under subparagraph (C), geographic areas identified under subparagraph (B) and to solicit and identify additional geographic areas as appropriate;
+
+  (E) at the conclusion of the notice and public comment period conducted under subparagraph (C), make a final finding on the designation of a geographic area of concern or delegate the authority to make such finding to a Deputy Secretary of Defense, an Under Secretary of Defense, or a Principal Deputy Under Secretary of Defense; and
+
+  (F) specifically identify feasible and affordable long-term actions that may be taken to mitigate adverse impacts of projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim), on military operations and readiness, including—
+
+    (i) investment priorities of the Department of Defense with respect to research and development;
+
+    (ii) modifications to military operations to accommodate applications for such projects;
+
+    (iii) recommended upgrades or modifications to existing systems or procedures by the Department of Defense;
+
+    (iv) acquisition of new systems by the Department and other departments and agencies of the Federal Government and timelines for fielding such new systems; and
+
+    (v) modifications to the projects for which such applications are filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim), including changes in size, location, or technology.
+
+(3) The Clearinghouse shall make access to data reflecting geographic areas identified under subparagraph (B) of paragraph (2) and reviewed and modified under subparagraph (C) of such paragraph available online.
+
+**(e) Department of Defense Finding of Unacceptable Risk.—**
+
+(1) The Secretary of Defense may not object to an energy project filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim), except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project, in isolation or cumulatively with other projects, would result in an unacceptable risk to the national security of the United States. The Secretary of Defense’s finding of unacceptable risk to national security shall be transmitted to the Secretary of Transportation for inclusion in the report required under [section 44718(b)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/b/2&num=0&edition=prelim).
+
+(2)
+
+  (A) Not later than 30 days after making a finding of unacceptable risk under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on such finding and the basis for such finding. Such report shall include an explanation of the operational impact that led to the finding, a discussion of the mitigation options considered, and an explanation of why the mitigation options were not feasible or did not resolve the conflict. The report may include a classified annex. Unclassified reports shall also be provided to the project proponent. The Secretary of Defense may provide public notice through the Federal Register of the finding.
+
+  (B) The Secretary of Defense shall notify the appropriate State agency of a finding made under paragraph (1).
+
+(3) The Secretary of Defense may only delegate the responsibility for making a finding of unacceptable risk under paragraph (1) to the Deputy Secretary of Defense, an under secretary of defense, or a deputy under secretary of defense.
+
+(4) The Clearinghouse shall develop procedures for making a finding of unacceptable risk, including with respect to how to implement cumulative effects analysis. Such procedures shall be subject to public comment prior to finalization.
+
+**(f) Authority to Accept Contributions of Funds.—** The Secretary of Defense is authorized to request and accept a voluntary contribution of funds from an applicant for a project filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim). Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such a project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
+
+**(g) Effect of Department of Defense Hazard Assessment.—** An action taken pursuant to this section shall not be considered to be a substitute for any assessment or determination required of the Secretary of Transportation under [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim).
+
+**(h) Definitions.—** In this section:
+
+(1) The term “adverse impact on military operations and readiness” means any adverse impact upon military operations and readiness, including flight operations, research, development, testing, and evaluation, and training, that is demonstrable and is likely to impair or degrade the ability of the armed forces to perform their warfighting missions.
+
+(2) The term “energy project” means a project that provides for the generation or transmission of electrical energy.
+
+(3) The term “landowner” means a person that owns a fee interest in real property on which a proposed energy project is planned to be located.
+
+(4) The term “military installation” has the meaning given that term in [section 2801(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2801/c/4&num=0&edition=prelim).
+
+(5) The term “military readiness” includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
+
+(6) The term “military training route” means a training route developed as part of the Military Training Route Program, carried out jointly by the Federal Aviation Administration and the Secretary of Defense, for use by the armed forces for the purpose of conducting low-altitude, high-speed military training.
+
+(7) The term “unacceptable risk to the national security of the United States” means the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill, that the Secretary of Defense can demonstrate would—
+
+  (A) endanger safety in air commerce directly related to the activities of the Department of Defense;
+
+  (B) interfere with the efficient use of the navigable airspace directly related to the activities of the Department of Defense; or
+
+  (C) significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
+
+### Statutory Notes
+
+#### Applicability of Existing Rules and Regulations
+Pub. L. 115–91, div. A, title III, § 311(c), Dec. 12, 2017, 131 Stat. 1348, provided that: “Notwithstanding the amendments made by subsection (a) [enacting this section], any rule or regulation promulgated to carry out section 358 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383] ([49 U.S.C. 44718](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) note), that is in effect on the day before the date of the enactment of this Act [Dec. 12, 2017] shall continue in effect and apply to the extent such rule or regulation is consistent with the authority under [section 183a of title 10](./chapter-007-boards-councils-and-committees.md#section-183a), United States Code, as added by subsection (a), until such rule or regulation is otherwise amended or repealed.”
+
+#### Deadline for Initial Identification of Geographic Areas
+Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, provided that: “The initial identification of geographic areas under [section 183a(d)(2)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section183a/d/2/B&num=0&edition=prelim), United States Code, as added by subsection (a), shall be completed not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017].”
+
+
 <a id="section-184"></a>
 ## § 184. Renumbered § 342]
 
@@ -1136,7 +1304,7 @@ Subsec. (d). Pub. L. 112–239, § 901(c)(4), amended subsec. (d) generally. Pri
 Subsec. (e). Pub. L. 111–383, § 829(a), added subsec. (e).
 
 #### Change of Name
-Reference to the Assistant Secretary of the Air Force for Acquisition deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, see section 934(b) of Pub. L. 114–328, set out as a note under [section 8016 of this title](./chapter-803-department-of-the-air-force.md#section-8016).
+Reference to the Assistant Secretary of the Air Force for Acquisition deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, see section 934(b) of Pub. L. 114–328, set out as a note under [section 9016 of this title](./chapter-903-department-of-the-air-force.md#section-9016).
 
 #### First Meeting of Board
 Pub. L. 109–364, div. A, title VIII, § 843(c), Oct. 17, 2006, 120 Stat. 2339, provided that: “The first meeting of the Strategic Materials Protection Board, established by [section 187 of title 10](./chapter-007-boards-councils-and-committees.md#section-187), United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act [Oct. 17, 2006].”
@@ -1287,20 +1455,13 @@ Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, pr
 
 (3) While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis shall be allowed travel expenses in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-**(f) Auditing Requirements.—**
-
-(1) Notwithstanding any other provision of law, contractors with the Department of Defense may present, and the Defense Contract Audit Agency shall accept without performing additional audits, a summary of audit findings prepared by a commercial auditor if—
-
-  (A) the auditor previously performed an audit of the allowability, measurement, assignment to accounting periods, and allocation of indirect costs of the contractor; and
-
-  (B) such audit was performed using relevant commercial accounting standards (such as Generally Accepted Accounting Principles) and relevant commercial auditing standards established by the commercial auditing industry for the relevant accounting period.
-
-(2) The Defense Contract Audit Agency may audit direct costs of Department of Defense cost contracts and shall rely on commercial audits of indirect costs without performing additional audits, except that in the case of companies or business units that have a predominance of cost-type contracts as a percentage of sales, the Defense Contract Audit Agency may audit both direct and indirect costs.
-
 ### Statutory Notes
 
 #### References in Text
 Level IV of the Executive Schedule, referred to in subsec. (e)(2), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2017—Subsec. (f). Pub. L. 115–91 struck out subsec. (f) which related to auditing requirements.
 
 #### Effective Date
 Pub. L. 114–328, div. A, title VIII, § 820(d), Dec. 23, 2016, 130 Stat. 2276, provided that: “The amendments made by this section [enacting this section and amending sections 1501 and 1502 of Title 41, Public Contracts] shall take effect on October 1, 2018.”

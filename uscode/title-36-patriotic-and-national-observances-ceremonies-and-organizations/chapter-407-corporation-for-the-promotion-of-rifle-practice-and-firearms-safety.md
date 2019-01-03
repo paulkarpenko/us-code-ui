@@ -418,6 +418,16 @@ In subsection (b)(2), the words “for the use of” and “performance of” ar
 
 (2) The Secretary may not transfer more than 10,000 surplus caliber .45 M1911/M1911A1 pistols to the corporation during any year and may only transfer such pistols as long as pistols described in paragraph (1) remain available for transfer.
 
+**(i) Authorized Navy Transfers.—**
+
+(1) Notwithstanding subsections (a) and (b), the Secretary of the Navy may transfer to the corporation, in accordance with the procedures prescribed in this subchapter, M–1 Garand and caliber .22 rimfire rifles held within the inventories of the United States Navy and the United States Marine Corps and stored at Defense Distribution Depot, Anniston, Alabama, or Naval Surface Warfare Center, Crane, Indiana, as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018.
+
+(2) The items specified for transfer under paragraph (1)—
+
+  (A) shall be used as awards for competitors in marksmanship competitions held by the United States Marine Corps or the United States Navy and may not be resold; and
+
+  (B) shall be rendered inoperable prior to award and transfer to marksmanship competitors.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -448,11 +458,15 @@ Sections 4307 and 4308 of title 10, referred to in subsecs. (a) and (d), were re
 
 The date of the enactment of this subsection, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
 
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (i), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
 #### Amendments
+2017—Subsec. (i). Pub. L. 115–91 added subsec. (i).
+
 2015—Subsec. (h). Pub. L. 114–92 added subsec. (h).
 
 #### Transfers of Surplus Firearms to Corporation for the Promotion of Rifle Practice and Firearms Safety: Pilot Program and Limitation
-Pub. L. 114–92, div. A, title X, § 1087(b), (c), Nov. 25, 2015, 129 Stat. 1013, 1014, provided that: “(b) Pilot Program.—“(1) One-year authority.—The Secretary of the Army may carry out a one-year pilot program under which the Secretary may transfer to the Corporation for the Promotion of Rifle Practice and Firearms Safety not more than 10,000 firearms described in paragraph (2). “(2) Firearms described.—The firearms described in this paragraph are surplus caliber .45 M1911/M1911A1 pistols and spare parts and related accessories for those pistols that, on the date of the enactment of this section [Nov. 25, 2015], are under the control of the Secretary and are surplus to the requirements of the Department of the Army. “(3) Transfer requirements.—Transfers of surplus caliber .45 M1911/M1911A1 pistols from the Army to the Corporation under the pilot program shall be made in accordance with subchapter II of chapter 407 of title 36, United States Code. “(4) Reports to congress.—“(A) Interim report.—Not later than 90 days after the Secretary initiates the pilot program under this subsection, the Secretary shall submit to Congress an interim report on the pilot program. “(B) Final report.—Not later than 15 days after the Secretary completes the pilot program under this subsection, the Secretary shall submit to Congress a final report on the pilot program. “(C) Contents of report.—Each report required by this subsection shall include, for the period covered by the report—“(i) the number of firearms described in subsection (a)(2) transferred under the pilot program; and “(ii) information on any crimes committed using firearms transferred under the pilot program. “(c) Limitation on Transfer of Surplus Caliber .45 M1911/M1911A1 Pistols.—The Secretary may not transfer firearms described in subsection (b)(2) under subchapter II of chapter 407 of title 36, United States Code, until the date that is 60 days after the date of the submittal of the final report required under subsection (b)(4)(B).”
+Pub. L. 114–92, div. A, title X, § 1087(b), (c), Nov. 25, 2015, 129 Stat. 1013, 1014, which related to a one-year pilot program under which the Secretary could transfer to the Corporation for the Promotion of Rifle Practice and Firearms Safety certain firearms, was repealed by Pub. L. 115–91, div. A, title X, § 1091(c), Dec. 12, 2017, 131 Stat. 1608.
 
 
 <a id="section-40728a"></a>
@@ -539,7 +553,7 @@ Pub. L. 114–328, div. A, title X, § 1096(d), Dec. 23, 2016, 130 Stat. 2441, p
 In subsection (a)(4), the words “other supplies” are substituted for “accessories and accouterments” for consistency in the revised title.
 
 #### References in Text
-Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is section 1208 of Pub. L. 101–189, div. A, title XII, Nov. 29, 1989, 103 Stat. 1566, which was set out as a note under [section 372 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section372&num=0&edition=prelim), Armed Forces, and was repealed and restated in [section 2576a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2576a&num=0&edition=prelim) by Pub. L. 104–201, div. A, title X, § 1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640. [Section 372 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section372&num=0&edition=prelim) was renumbered [section 272 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section272&num=0&edition=prelim) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is section 1208 of Pub. L. 101–189, div. A, title XII, Nov. 29, 1989, 103 Stat. 1566, which was set out as a note under [section 372 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section372&num=0&edition=prelim), Armed Forces, and was repealed and restated in [section 2576a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2576a&num=0&edition=prelim) by Pub. L. 104–201, div. A, title X, § 1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640. [Section 372 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section372&num=0&edition=prelim) was renumbered section 272 by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Amendments
 2015—Subsec. (a)(1). Pub. L. 114–92, § 1087(a)(2)(B)(i), substituted “subsections (a) and (h) of section 40728” for “section 40728(a)”.

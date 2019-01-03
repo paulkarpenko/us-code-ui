@@ -1157,7 +1157,7 @@ In this subchapter (unless the context otherwise requires):
 
 (1) **Requirement** — During the period ending 30 months after the date on which an order is first issued under [section 7443(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7443/b/3&num=0&edition=prelim), the Secretary shall conduct a referendum among producers who, during a representative period as determined by the Secretary, have been engaged in the production of canola or rapeseed for the purpose of ascertaining whether the order then in effect shall be continued.
 
-(2) **Advance notice** — The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. The notice shall be provided, without advertising expenses, by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county cooperative extension offices and county Consolidated Farm Service Agency offices, and by other appropriate means specified in the order. The notice shall contain information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent information.
+(2) **Advance notice** — The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. The notice shall be provided, without advertising expenses, by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county cooperative extension offices and county Consolidated Farm Service Agency 11 See Change of Name note below. offices, and by other appropriate means specified in the order. The notice shall contain information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent information.
 
 (3) **Approval of order** — The order shall be continued only if the Secretary determines that the order has been approved by not less than a majority of the producers voting in the referendum.
 
@@ -1206,6 +1206,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 2008—Subsecs. (a)(2), (b)(3)(B)(i). Pub. L. 110–246, § 7511(c)(28), substituted “cooperative extension” for “Cooperative State Research, Education, and Extension Service”.
+
+#### Change of Name
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to [section 6932 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6932) by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

@@ -31,7 +31,7 @@ In this title the following definitions shall apply:
 
   (D) entity that operates the business or substantially all of the property of the debtor under a lease or operating agreement.
 
-(3) The term “assisted person” means any person whose debts consist primarily of consumer debts and the value of whose nonexempt property is less than $150,000.
+(3) The term “assisted person” means any person whose debts consist primarily of consumer debts and the value of whose nonexempt property is less than $150,000.11 See Adjustment of Dollar Amounts notes below.
 
 (4) The term “attorney” means attorney, professional law association, corporation, or partnership, authorized under applicable law to practice law.(4A) The term “bankruptcy assistance” means any goods or services sold or otherwise provided to an assisted person with the express or implied purpose of providing information, advice, counsel, document preparation, or filing, or attendance at a creditors’ meeting or appearing in a case or proceeding on behalf of another or providing legal representation with respect to a case or proceeding under this title.
 
@@ -149,7 +149,7 @@ In this title the following definitions shall apply:
 
 (18) The term “family farmer” means—
 
-  (A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $3,237,000 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
+  (A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $3,237,000 1 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
 
     (i) the taxable year preceding; or
 
@@ -160,7 +160,7 @@ In this title the following definitions shall apply:
 
     (i) more than 80 percent of the value of its assets consists of assets related to the farming operation;
 
-    (ii) its aggregate debts do not exceed $3,237,000 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+    (ii) its aggregate debts do not exceed $3,237,000 1 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
 
     (iii) if such corporation issues stock, such stock is not publicly traded.
 
@@ -168,7 +168,7 @@ In this title the following definitions shall apply:
 
   (A) an individual or individual and spouse engaged in a commercial fishing operation—
 
-    (i) whose aggregate debts do not exceed $1,500,000 and not less than 80 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such individual or such individual and spouse; and
+    (i) whose aggregate debts do not exceed $1,500,000 1 and not less than 80 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such individual or such individual and spouse; and
 
     (ii) who receive from such commercial fishing operation more than 50 percent of such individual’s or such individual’s and spouse’s gross income for the taxable year preceding the taxable year in which the case concerning such individual or such individual and spouse was filed; or
 
@@ -184,7 +184,7 @@ In this title the following definitions shall apply:
 
       (I) more than 80 percent of the value of its assets consists of assets related to the commercial fishing operation;
 
-      (II) its aggregate debts do not exceed $1,500,000 and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for 1 dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such corporation or such partnership; and
+      (II) its aggregate debts do not exceed $1,500,000 1 and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for 1 dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such corporation or such partnership; and
 
       (III) if such corporation issues stock, such stock is not publicly traded.(19B) The term “family fisherman with regular annual income” means a family fisherman whose annual income is sufficiently stable and regular to enable such family fisherman to make payments under a plan under chapter 12 of this title.
 
@@ -220,7 +220,7 @@ In this title the following definitions shall apply:
 
 (25) The term “forward contract” means—
 
-  (A) a contract (other than a commodity contract, as defined in section 761) for the purchase, sale, or transfer of a commodity, as defined in [section 761(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section761/8&num=0&edition=prelim), or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in this section) 11 So in original. Probably should be followed by a comma. consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+  (A) a contract (other than a commodity contract, as defined in section 761) for the purchase, sale, or transfer of a commodity, as defined in [section 761(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section761/8&num=0&edition=prelim), or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in this section) 22 So in original. Probably should be followed by a comma. consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
   (B) any combination of agreements or transactions referred to in subparagraphs (A) and (C);
 
@@ -426,7 +426,7 @@ In this title the following definitions shall apply:
 
     (ii) any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
 
-(42) The term “petition” means petition filed under section 301, 302, 303 and 22 So in original. Probably should be “or”. See 2010 Amendment note below. 1504 of this title, as the case may be, commencing a case under this title. (42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
+(42) The term “petition” means petition filed under section 301, 302, 303 and 33 So in original. Probably should be “or”. See 2010 Amendment note below. 1504 of this title, as the case may be, commencing a case under this title. (42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
 
   (A) contingent on the production of a liquid or gaseous hydrocarbon from particular real property; and
 
@@ -512,9 +512,9 @@ In this title the following definitions shall apply:
 
 (51) The term “security interest” means lien created by an agreement. (51A) The term “settlement payment” means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade. (51B) The term “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto. (51C) The term “small business case” means a case filed under chapter 11 of this title in which the debtor is a small business debtor. (51D) The term “small business debtor”—
 
-  (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
+  (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 1 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
 
-  (B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 (excluding debt owed to 1 or more affiliates or insiders).
+  (B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 1 (excluding debt owed to 1 or more affiliates or insiders).
 
 (52) The term “State” includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
 
@@ -566,7 +566,7 @@ In this title the following definitions shall apply:
 
     (vi) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in clause (i) through (v), including any guarantee or reimbursement obligation by or to a swap participant or financial participant in connection with any agreement or transaction referred to in any such clause, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 
-  (B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act.(53C) The term “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor. (56A) 33 So in original. The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized. (53D) The term “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
+  (B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act.(53C) The term “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor. (56A) 44 So in original. The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized. (53D) The term “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
 
 (54) The term “transfer” means—
 
@@ -585,9 +585,6 @@ In this title the following definitions shall apply:
 (55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 101(2) defines “affiliate.” The House amendment contains a provision that is a compromise between the definition in the House-passed version of H.R. 8200 and the Senate amendment in the nature of a substitute to H.R. 8200. Subparagraphs (A) and (B) are derived from the Senate amendment and subparagraph (D) is taken from the House bill, while subparagraph (C) represents a compromise, taking the House position with respect to a person whose business is operated under a lease or an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and the Senate position on leased property. Thus, the definition of “affiliate” excludes persons substantially all of whose property is operated under a lease agreement by a debtor, such as a small company which owns equipment all of which is leased to a larger nonrelated company.
@@ -1383,7 +1380,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)** Subchapter IV of chapter 7 of this title applies only in a case under such chapter concerning a commodity broker.
 
-**(e) Scope of Application.—** Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+**(e) Scope of Application.—** Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 11 See References in Text note below. of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 
 **(f)** Except as provided in [section 901 of this title](./chapter-009-adjustment-of-debts-of-a-municipality.md#section-901), only chapters 1 and 9 of this title apply in a case under such chapter 9.
 
@@ -1409,7 +1406,7 @@ Section 103 prescribes which chapters of the proposed bankruptcy code apply in v
 #### References in Text
 Section 25A of the Federal Reserve Act, referred to in subsec. (e), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section611&num=0&edition=prelim) and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), is classified to [section 4422 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4422&num=0&edition=prelim), Banks and Banking.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), was classified to [section 4422 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4422&num=0&edition=prelim), Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–327 substituted “362(o)” for “362(n)”.
@@ -1818,7 +1815,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (1) a railroad;
 
-(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
+(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 11 See References in Text note below. of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
 
 (3)
 
@@ -1846,9 +1843,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
   (D) reasonably believes that a creditor may attempt to obtain a transfer that is avoidable under [section 547 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-547).
 
-**(d)** Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
+**(d)** Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
 
-**(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.
+**(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 22 See Adjustment of Dollar Amounts notes below. and noncontingent, liquidated, secured debts of less than $750,000,2 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 2 and noncontingent, liquidated, secured debts of less than $750,000 2 may be a debtor under chapter 13 of this title.
 
 **(f)** Only a family farmer or family fisherman with regular annual income may be a debtor under chapter 12 of this title.
 
@@ -1883,9 +1880,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 (4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 109(b) of the House amendment adopts a provision contained in H.R. 8200 as passed by the House. Railroad liquidations will occur under chapter 11, not chapter 7.
@@ -1923,7 +1917,7 @@ Section 3(h) of the Federal Deposit Insurance Act, referred to in subsec. (b)(2)
 
 Section 25A of the Federal Reserve Act, referred to in subsecs. (b)(2) and (d), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section611&num=0&edition=prelim) and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), is classified to [section 4422 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4422&num=0&edition=prelim), Banks and Banking.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), was classified to [section 4422 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4422&num=0&edition=prelim), Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b)(3)(B), is classified to [section 3101 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3101&num=0&edition=prelim), Banks and Banking.
 

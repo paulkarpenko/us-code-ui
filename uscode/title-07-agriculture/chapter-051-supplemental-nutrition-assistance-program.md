@@ -2,7 +2,7 @@
 title: 7
 chapter: '51'
 heading: SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
-section_count: 31
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -97,7 +97,7 @@ As used in this chapter, the term:
 
 **(d) Benefit.—** The term “benefit” means the value of supplemental nutrition assistance provided to a household by means of—
 
-(1) an electronic benefit transfer under [section 2016(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/i&num=0&edition=prelim); or
+(1) an electronic benefit transfer under [section 2016(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/h&num=0&edition=prelim); or
 
 (2) other means of providing assistance, as determined by the Secretary.
 
@@ -109,7 +109,7 @@ As used in this chapter, the term:
 
 **(h)** “Drug addiction or alcoholic treatment and rehabilitation program” means any such program conducted by a private nonprofit organization or institution, or a publicly operated community mental health center, under part B of title XIX of the Public Health Service Act ([42 U.S.C. 300x](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300x&num=0&edition=prelim) et seq.) to provide treatment that can lead to the rehabilitation of drug addicts or alcoholics.
 
-**(i) EBT Card.—** The term “EBT card” means an electronic benefit transfer card issued under [section 2016(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/i&num=0&edition=prelim).
+**(i) EBT Card.—** The term “EBT card” means an electronic benefit transfer card issued under [section 2016(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/h&num=0&edition=prelim).
 
 **(j)** “Elderly or disabled member” means a member of a household who—
 
@@ -189,9 +189,9 @@ As used in this chapter, the term:
 
 **(o)** “Retail food store” means—
 
-(1) an establishment or house-to-house trade route that sells food for home preparation and consumption and—
+(1) an establishment, house-to-house trade route, or online entity that sells food for home preparation and consumption and—
 
-  (A) offers for sale, on a continuous basis, a variety of at least 7 foods in each of the 4 categories of staple foods specified in subsection (r)(1), including perishable foods in at least 3 of the categories; or
+  (A) offers for sale, on a continuous basis, a variety of at least 7 foods in each of the 4 categories of staple foods specified in subsection (q)(1), including perishable foods in at least 3 of the categories; or
 
   (B) has over 50 percent of the total sales of the establishment or route in staple foods,
   as determined by visual inspection, sales records, purchase records, counting of stockkeeping units, or other inventory or accounting recordkeeping methods that are customary or reasonable in the retail food industry;
@@ -244,7 +244,7 @@ As used in this chapter, the term:
 
 **(t)** “Supplemental nutrition assistance program” means the program operated pursuant to this chapter.
 
-**(u)** “Thrifty food plan” means the diet required to feed a family of four persons consisting of a man and a woman twenty through fifty, a child six through eight, and a child nine through eleven years of age, determined in accordance with the Secretary’s calculations. The cost of such diet shall be the basis for uniform allotments for all households regardless of their actual composition, except that the Secretary shall—
+**(u)** “Thrifty food plan” means the diet required to feed a family of four persons consisting of a man and a woman twenty through fifty, a child six through eight, and a child nine through eleven years of age, determined in accordance with the Secretary’s calculations. By 2022 and at 5-year intervals thereafter, the Secretary shall re-evaluate and publish the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance. The cost of such diet shall be the basis for uniform allotments for all households regardless of their actual composition, except that the Secretary shall—
 
 (1) make household-size adjustments (based on the unrounded cost of such diet) taking into account economies of scale;
 
@@ -254,7 +254,7 @@ As used in this chapter, the term:
 
 (4) on October 1, 1996, and each October 1 thereafter, adjust the cost of the diet to reflect the cost of the diet in the preceding June, and round the result to the nearest lower dollar increment for each household size, except that on October 1, 1996, the Secretary may not reduce the cost of the diet in effect on September 30, 1996, and except that on October 1, 2003, in the case of households residing in Alaska and Hawaii the Secretary may not reduce the cost of such diet in effect on September 30, 2002.
 
-**(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in the Indian Self-Determination Act ([25 U.S.C. 450b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/b&num=0&edition=prelim)),11 See References in Text note below. as well as any Indian tribe, band, or community holding a treaty with a State government.
+**(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), as well as any Indian tribe, band, or community holding a treaty with a State government.
 
 ### Statutory Notes
 
@@ -265,12 +265,22 @@ The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, 
 
 The Railroad Retirement Act of 1974, referred to in subsec. (j)(7), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
-The Indian Self-Determination Act ([25 U.S.C. 450b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/b&num=0&edition=prelim)), referred to in subsec. (v), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. [Section 450b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim) was editorially reclassified as [section 5304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim) and, as amended generally by Pub. L. 100–472, title I, § 103, Oct. 5, 1988, 102 Stat. 2286, no longer defines the term “Indian tribe” in subsec. (b). However, such term is defined elsewhere in that section. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)” in par. (1).
+
+Subsec. (i). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
+
+Subsec. (o)(1). Pub. L. 115–334, § 4001(a), substituted “establishment, house-to-house trade route, or online entity” for “establishment or house-to-house trade route” in introductory provisions.
+
+Subsec. (o)(1)(A). Pub. L. 115–334, § 4022(1)(B), substituted “subsection (q)(1)” for “subsection (r)(1)”.
+
+Subsec. (u). Pub. L. 115–334, § 4002, inserted after first sentence “By 2022 and at 5-year intervals thereafter, the Secretary shall re-evaluate and publish the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance.”
+
+Subsec. (v). Pub. L. 115–334, § 4003(c), substituted “[section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)” for “the Indian Self-Determination Act ([25 U.S.C. 450b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/b&num=0&edition=prelim))”.
+
 2014—Subsec. (g). Pub. L. 113–79, § 4030(a)(1), substituted “coupon” for “coupon,” before period at end.
 
 Subsec. (k). Pub. L. 113–79, § 4014(c), inserted “subject to [section 2018(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2018/h&num=0&edition=prelim)” after “concessional prices” wherever appearing.
@@ -629,7 +639,19 @@ Reference to community health center, migrant health center, public housing heal
 
 (3) **Disqualified participants** — An individual who is disqualified from participation in the food distribution program on Indian reservations under this subsection is not eligible to participate in the supplemental nutrition assistance program under this chapter for a period of time to be determined by the Secretary.
 
-(4) **Administrative costs** — The Secretary is authorized to pay such amounts for administrative costs and distribution costs on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.
+(4) **Administrative costs**
+
+  (A) *In general* — Subject to subparagraph (B), the Secretary shall pay not less than 80 percent of administrative costs and distribution costs on Indian reservations as the Secretary determines necessary for effective administration of such distribution by a State agency or tribal organization.
+
+  (B) *Waiver* — The Secretary shall waive up to 100 percent of the non-Federal share of the costs described in subparagraph (A) if the Secretary determines that—
+
+    (i) the tribal organization is financially unable to provide a greater non-Federal share of the costs; or
+
+    (ii) providing a greater non-Federal share of the costs would be a substantial burden for the tribal organization.
+
+  (C) *Limitation* — The Secretary may not reduce any benefits or services under the food distribution program on Indian reservations under this subsection to any tribal organization that is granted a waiver under subparagraph (B).
+
+  (D) *Tribal contribution* — The Secretary may allow a tribal organization to use funds provided to the tribal organization through a Federal agency or other Federal benefit to satisfy all or part of the non-Federal share of the costs described in subparagraph (A) if that use is otherwise consistent with the purpose of the funds.
 
 (5) **Bison meat** — Subject to the availability of appropriations to carry out this paragraph, the Secretary may purchase bison meat for recipients of food distributed under this subsection, including bison meat from—
 
@@ -637,35 +659,50 @@ Reference to community health center, migrant health center, public housing heal
 
   (B) producer-owned cooperatives of bison ranchers.
 
-(6) **Traditional and locally-grown food fund**
+(6) **Traditional and locally- and regionally-grown food fund**
 
-  (A) *In general* — Subject to the availability of appropriations, the Secretary shall establish a fund for use in purchasing traditional and locally-grown foods for recipients of food distributed under this subsection.
+  (A) *In general* — Subject to the availability of appropriations, the Secretary shall establish a fund for use in purchasing traditional and locally- and regionally-grown foods for recipients of food distributed under this subsection.
 
   (B) *Native American producers* — Where practicable, of the food provided under subparagraph (A), at least 50 percent shall be produced by Native American farmers, ranchers, and producers.
 
-  (C) *Definition of traditional and locally grown* — The Secretary shall determine the definition of the term “traditional and locally-grown” with respect to food distributed under this paragraph.
+  (C) *Definition of traditional and locally- and regionally-grown* — The Secretary shall determine the definition of the term “traditional and locally- and regionally-grown” with respect to food distributed under this paragraph.
 
-  (D) *Survey* — In carrying out this paragraph, the Secretary shall—
+  (D) *Purchase of foods* — In carrying out this paragraph, the Secretary shall purchase or offer to purchase those traditional foods that may be procured cost-effectively.
 
-    (i) survey participants of the food distribution program on Indian reservations established under this subsection to determine which traditional foods are most desired by those participants; and
+  (E) *Authorization of appropriations* — There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2008 through 2023.
 
-    (ii) purchase or offer to purchase those traditional foods that may be procured cost-effectively.
+(7) **Availability of funds**
 
-  (E) *Report* — Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.
+  (A) *In general* — Funds made available for a fiscal year to carry out this subsection shall remain available for obligation for a period of 2 fiscal years.
 
-  (F) *Authorization of appropriations* — There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2008 through 2018.
+  (B) *Administrative costs* — Funds made available for a fiscal year to carry out paragraph (4) shall remain available for obligation by the State agency or tribal organization for a period of 2 fiscal years.
 
 **(c) Regulations; transmittal of copy of regulations to Congressional committees prior to issuance** The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of this paragraph, referred to in subsec. (b)(6)(E), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(4). Pub. L. 115–334, § 4003(a)(1), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary is authorized to pay such amounts for administrative costs and distribution costs on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
+
+Subsec. (b)(6). Pub. L. 115–334, § 4003(a)(2)(A), substituted “locally- and regionally-grown” for “locally-grown” in heading.
+
+Subsec. (b)(6)(A). Pub. L. 115–334, § 4003(a)(2)(B), substituted “locally- and regionally-grown” for “locally-grown”.
+
+Subsec. (b)(6)(C). Pub. L. 115–334, § 4003(a)(2)(C), substituted “locally- and regionally-grown” for “locally grown” in heading and text.
+
+Subsec. (b)(6)(D). Pub. L. 115–334, § 4003(a)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out this paragraph, the Secretary shall—
+
+“(i) survey participants of the food distribution program on Indian reservations established under this subsection to determine which traditional foods are most desired by those participants; and
+
+“(ii) purchase or offer to purchase those traditional foods that may be procured cost-effectively.”
+
+Subsec. (b)(6)(E), (F). Pub. L. 115–334, § 4003(a)(2)(E), (F), redesignated subpar. (F) as (E), substituted “2023” for “2018”, and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: “Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.”
+
+Subsec. (b)(7). Pub. L. 115–334, § 4003(a)(3), added par. (7).
+
 2014—Subsec. (a). Pub. L. 113–79, § 4030(b), substituted “Benefits issued and used” for “benefits issued and used”.
 
 Subsec. (b)(6)(F). Pub. L. 113–79, § 4004(a), substituted “2018” for “2012”.
@@ -712,13 +749,16 @@ Pub. L. 99–198, title XV, § 1505(b), Dec. 23, 1985, 99 Stat. 1567, provided t
 #### Effective Date of 1977 Amendment
 Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by that section is effective Oct. 1, 1977.
 
+#### Demonstration Project for Tribal Organizations
+Pub. L. 115–334, title IV, § 4003(b), Dec. 20, 2018, 132 Stat. 4625, provided that: “(1) Definitions.—In this subsection:“(A) Demonstration project.—The term ‘demonstration project’ means the demonstration project established under paragraph (2). “(B) Food distribution program.—The term ‘food distribution program’ means the food distribution program on Indian reservations carried out under section 4(b) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2013(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2013/b&num=0&edition=prelim)). “(C) Indian reservation.—The term ‘Indian reservation’ has the meaning given the term ‘reservation’ in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](./chapter-051-supplemental-nutrition-assistance-program.md#section-2012)). “(D) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(E) Self-determination contract.—The term ‘self-determination contract’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(F) Tribal organization.—The term ‘tribal organization’ has the meaning given the term in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](./chapter-051-supplemental-nutrition-assistance-program.md#section-2012)). “(2) Establishment.—Subject to the availability of appropriations, the Secretary [of Agriculture] shall establish a demonstration project under which 1 or more tribal organizations may enter into self-determination contracts to purchase agricultural commodities under the food distribution program for the Indian reservation of that tribal organization. “(3) Eligibility.—“(A) Consultation.—The Secretary shall consult with the Secretary of the Interior and Indian tribes to determine the process and criteria under which a tribal organization may participate in the demonstration project. “(B) Criteria.—The Secretary shall select for participation in the demonstration project tribal organizations that—“(i) are successfully administering the food distribution program of the tribal organization under section 4(b)(2)(B) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2013(b)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2013/b/2/B&num=0&edition=prelim)), “(ii) have the capacity to purchase agricultural commodities in accordance with paragraph (4) for the food distribution program of the tribal organization, and “(iii) meet any other criteria determined by the Secretary, in consultation with the Secretary of the Interior and Indian tribes. “(4) Procurement of agricultural commodities.—Any agricultural commodities purchased by a tribal organization under the demonstration project shall—“(A) be domestically produced, “(B) supplant, not supplement, the type of agricultural commodities in existing food packages for that tribal organization, “(C) be of similar or higher nutritional value as the type of agricultural commodities that would be supplanted in the existing food package for that tribal organization, and “(D) meet any other criteria determined by the Secretary. “(5) Report.—Not later than 1 year after the date on which funds are appropriated under paragraph (6) and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under the demonstration project during the preceding year. “(6) Funding.—“(A) Authorization of appropriations.—There is authorized to be appropriated to the Secretary to carry out this subsection $5,000,000, to remain available until expended. “(B) Appropriations in advance.—Only funds appropriated under subparagraph (A) in advance specifically to carry out this subsection shall be available to carry out this subsection.”
+
 #### Feasibility Study, Report, and Demonstration Project for Indian Tribes
 Pub. L. 113–79, title IV, § 4004(b), Feb. 7, 2014, 128 Stat. 785, provided that: “(1) Definitions.—In this subsection:“(A) Indian; indian tribe.—The terms ‘Indian’ and ‘Indian tribe’ have the meaning given the terms in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)]. “(B) Tribal organization.—The term ‘tribal organization’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)]. “(2) Study.—The Secretary [of Agriculture] shall conduct a study to determine the feasibility of tribal administration of Federal food assistance programs, services, functions, and activities (or portions thereof), in lieu of State agencies or other administrating entities. “(3) Report.—Not later than 18 months after the date of enactment of this Act [Feb. 7, 2014], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—“(A) contains a list of programs, services, functions, and activities with respect to which it would be feasible to be administered by a tribal organization; “(B) a description of whether that administration would necessitate a statutory or regulatory change; and “(C) such other issues that may be determined by the Secretary and developed through consultation pursuant to paragraph (4). “(4) Consultation with indian tribes.—In developing the report required by paragraph (3), the Secretary shall consult with tribal organizations. “(5) Funding.—Out of any funds made available under section 18 [probably means section 18 of Pub. L. 88–525, [7 U.S.C. 2027](./chapter-051-supplemental-nutrition-assistance-program.md#section-2027)] for fiscal year 2014, the Secretary shall make available to carry out the study and report described in paragraphs (2) and (3) $1,000,000, to remain available until expended. “(6) Traditional and local foods demonstration project.—“(A) In general.—Subject to the availability of appropriations, the Secretary shall pilot a demonstration project by awarding a grant to 1 or more tribal organizations authorized to administer the food distribution program on Indian reservations under section 4(b) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2013(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2013/b&num=0&edition=prelim)) for the purpose of purchasing nutritious and traditional foods, and when practicable, foods produced locally by Indian producers, for distribution to recipients of foods distributed under that program. “(B) Administration.—The Secretary may award a grant on a noncompetitive basis to 1 or more tribal organizations that have the administrative and financial capability to conduct a demonstration project, as determined by the Secretary. “(C) Consultation, technical assistance, and training.—During the implementation phase of the demonstration project, the Secretary shall consult with Indian tribes and provide outreach to Indian farmers, ranchers, and producers regarding the training and capacity to participate in the demonstration project. “(D) Funding.—“(i) Authorization of appropriations.—There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2014 through 2018. “(ii) Relationship to other authorities.—The funds and authorities provided under this subparagraph are in addition to any other funds or authorities the Secretary may have to carry out activities described in this paragraph.”
 
 
 <a id="section-2014"></a>
 ## § 2014. Eligible households
-**(a) Income and other financial resources as substantial limiting factors in obtaining more nutritious diet; recipients under Social Security Act** Participation in the supplemental nutrition assistance program shall be limited to those households whose incomes and other financial resources, held singly or in joint ownership, are determined to be a substantial limiting factor in permitting them to obtain a more nutritious diet. Notwithstanding any other provisions of this chapter except subsections (b), (d)(2), (g), and (r) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015) and section 2012(n)(4) 11 See References in Text note below. of this title, households in which each member receives benefits under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.), supplemental security income benefits under title XVI of the Social Security Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.], or aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq., 1201 et seq., 1351 et seq., or 1381 et seq.], shall be eligible to participate in the supplemental nutrition assistance program. Except for sections 2015, 2025(e)(1), and section 2012(n)(4) 1 of this title, households in which each member receives benefits under a State or local general assistance program that complies with standards established by the Secretary for ensuring that the program is based on income criteria comparable to or more restrictive than those under subsection (c)(2), and not limited to one-time emergency payments that cannot be provided for more than one consecutive month, shall be eligible to participate in the supplemental nutrition assistance program. Assistance under this program shall be furnished to all eligible households who make application for such participation.
+**(a) Income and other financial resources as substantial limiting factors in obtaining more nutritious diet; recipients under Social Security Act** Participation in the supplemental nutrition assistance program shall be limited to those households whose incomes and other financial resources, held singly or in joint ownership, are determined to be a substantial limiting factor in permitting them to obtain a more nutritious diet. Notwithstanding any other provisions of this chapter except subsections (b), (d)(2), (g), and (r) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015) and [section 2012(m)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/m/4&num=0&edition=prelim), households in which each member receives benefits under a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.), supplemental security income benefits under title XVI of the Social Security Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.], or aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq., 1201 et seq., 1351 et seq., or 1381 et seq.], shall be eligible to participate in the supplemental nutrition assistance program. Except for sections 2015, 2025(e)(1), and [section 2012(m)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/m/4&num=0&edition=prelim), households in which each member receives benefits under a State or local general assistance program that complies with standards established by the Secretary for ensuring that the program is based on income criteria comparable to or more restrictive than those under subsection (c)(2), and not limited to one-time emergency payments that cannot be provided for more than one consecutive month, shall be eligible to participate in the supplemental nutrition assistance program. Assistance under this program shall be furnished to all eligible households who make application for such participation.
 
 **(b) Eligibility standards** Except as otherwise provided in this chapter, the Secretary shall establish uniform national standards of eligibility (other than the income standards for Alaska, Hawaii, Guam, and the Virgin Islands of the United States established in accordance with subsections (c) and (e) of this section) for participation by households in the supplemental nutrition assistance program in accordance with the provisions of this section. No plan of operation submitted by a State agency shall be approved unless the standards of eligibility meet those established by the Secretary, and no State agency shall impose any other standards of eligibility as a condition for participating in the program.
 
@@ -919,9 +959,17 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
 
   (D) *Homeless households*
 
-    (i) *Alternative deduction* — In lieu of the deduction provided under subparagraph (A), a State agency may elect to allow a household in which all members are homeless individuals, but that is not receiving free shelter throughout the month, to receive a deduction of $143 per month.
+    (i) *Alternative deduction* — The State agency shall allow a deduction of $143 a month for households—
 
-    (ii) *Ineligibility* — The State agency may make a household with extremely low shelter costs ineligible for the alternative deduction under clause (i).
+      (I) in which all members are homeless individuals;
+
+      (II) that are not receiving free shelter throughout the month; and
+
+      (III) that do not opt to claim an excess shelter expense deduction under subparagraph (A).
+
+    (ii) *Adjustment* — For fiscal year 2019 and each subsequent fiscal year the amount of the homeless shelter deduction specified in clause (i) shall be adjusted to reflect changes for the 12-month period ending the preceding November 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
+    (iii) *Ineligibility* — The State agency may make a household with extremely low shelter costs ineligible for the alternative deduction under clause (i).
 
 **(f) Calculation of household income; prospective or retrospective accounting basis; consistency**
 
@@ -1125,7 +1173,7 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
 
 **(l) Earnings to participants of on-the-job training programs; exception** Notwithstanding section 181(a)(2) of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3241(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3241/a/2&num=0&edition=prelim)], earnings to individuals participating in on-the-job training under title I of such Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] shall be considered earned income for purposes of the supplemental nutrition assistance program, except for dependents less than 19 years of age.
 
-**(m) Simplified calculation of income for self-employed**
+**(m) Simplified calculation of income for the self-employed**
 
 (1) **In general** — Not later than 1 year after August 22, 1996, the Secretary shall establish a procedure by which a State may submit a method, designed to not increase Federal costs, for the approval of the Secretary, that the Secretary determines will produce a reasonable estimate of income excluded under subsection (d)(9) in lieu of calculating the actual cost of producing self-employment income.
 
@@ -1140,8 +1188,6 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
 #### References in Text
 The Social Security Act, referred to in subsecs. (a), (d)(5), (11), (12), (16), (18), (f)(4), (g)(2)(D), (6)(A)(i), (j), (k)(1)(A), and (n), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles I, II, IV, X, XIV, XVI, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), IV (§ 601 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-Section 2012(n)(4), referred to in subsec. (a), was redesignated as section 2012(m)(4) by Pub. L. 113–79, title IV, § 4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
-
 [Section 3507 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3507&num=0&edition=prelim), referred to in subsec. (d)(13), was repealed by Pub. L. 111–226, title II, § 219(a)(1), Aug. 10, 2010, 124 Stat. 2403.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (e)(6)(C)(iv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621&num=0&edition=prelim) and Tables.
@@ -1154,6 +1200,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 4022(2), substituted “2012(m)(4)” for “2012(n)(4)” in two places.
+
+Subsec. (e)(6)(D). Pub. L. 115–334, § 4004, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i). Text of former cl. (i) read as follows: “In lieu of the deduction provided under subparagraph (A), a State agency may elect to allow a household in which all members are homeless individuals, but that is not receiving free shelter throughout the month, to receive a deduction of $143 per month.”
+
 2014—Subsec. (a). Pub. L. 113–79, § 4008(b), substituted “subsections (b), (d)(2), (g), and (r) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015)” for “sections 2015(b), 2015(d)(2), and 2015(g) of this title”.
 
 Subsec. (d)(14). Pub. L. 113–79, § 4022(b)(1)(A), inserted “or a pilot project under [section 2025(h)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/h/1/F&num=0&edition=prelim)” after “[section 2015(d)(4)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/4/I&num=0&edition=prelim)”.
@@ -1882,31 +1932,67 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (A) *In general.—*
 
-    (i) *Implementation.—* — Each State agency shall implement an employment and training program designed by the State agency and approved by the Secretary for the purpose of assisting members of households participating in the supplemental nutrition assistance program in gaining skills, training, work, or experience that will increase their ability to obtain regular employment.
+    (i) *Implementation.—* — Each State agency shall implement an employment and training program designed by the State agency, in consultation with the State workforce development board, or, if the State demonstrates that consultation with private employers or employer organizations would be more effective or efficient, in consultation with private employers or employer organizations, and approved by the Secretary for the purpose of assisting members of households participating in the supplemental nutrition assistance program in gaining skills, training, work, or experience that will—
 
-    (ii) *Statewide workforce development system.—* — Each component of an employment and training program carried out under this paragraph shall be delivered through a statewide workforce development system, unless the component is not available locally through such a system.
+      (I) increase the ability of the household members to obtain regular employment; and
 
-  (B) For purposes of this chapter, an “employment and training program” means a program that contains one or more of the following components, except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application:
+      (II) meet State or local workforce needs.
 
-    (i) Job search programs.
+    (ii) *Statewide workforce development system.—* — Each component of an employment and training program carried out under this paragraph and implemented to meet the purposes of clause (i) shall be delivered through a statewide workforce development system, unless the component is not available locally through such a system.
 
-    (ii) Job search training programs that include, to the extent determined appropriate by the State agency, reasonable job search training and support activities that may consist of jobs skills assessments, job finding clubs, training in techniques for employability, job placement services, or other direct training or support activities, including educational programs, determined by the State agency to expand the job search abilities or employability of those subject to the program.
+  (B) *Definitions.—* — In this chapter:
 
-    (iii) Workfare programs operated under [section 2029 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2029).
+    (i) *Employment and training program.—* — The term “employment and training program” means a program that contains case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and one or more of the following components, except that the State agency shall retain the option to apply employment requirements prescribed under this clause to a program applicant at the time of application:
 
-    (iv) Programs designed to improve the employability of household members through actual work experience or training, or both, and to enable individuals employed or trained under such programs to move promptly into regular public or private employment. An employment or training experience program established under this clause shall—
+      (I) Supervised job search programs that occur at State-approved locations at which the activities of participants shall be directly supervised and the timing and activities of participants tracked in accordance with guidelines issued by the State.
 
-      (I) not provide any work that has the effect of replacing the employment of an individual not participating in the employment or training experience program; and
+      (II) Job search training programs that include, to the extent determined appropriate by the State agency, reasonable job search training and support activities that may consist of employability assessments, training in techniques to increase employability, job placement services, or other direct training or support activities, including educational programs, determined by the State agency to expand the job search abilities or employability of those subject to the program.
 
-      (II) provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours.
+      (III) Workfare programs operated under [section 2029 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2029).
 
-    (v) Educational programs or activities to improve basic skills and literacy, or otherwise improve employability, including educational programs determined by the State agency to expand the job search abilities or employability of those subject to the program under this paragraph.
+      (IV) Programs designed to improve the employability of household members through actual work experience or training, or both, and to enable individuals employed or trained under such programs to move promptly into regular public or private employment, including subsidized employment and apprenticeships. An employment or training experience program established under this clause shall—
 
-    (vi) Programs designed to increase the self-sufficiency of recipients through self-employment, including programs that provide instruction for self-employment ventures.
+        (aa) not provide any work that has the effect of replacing the employment of an individual not participating in the employment or training experience program; and
 
-    (vii) Programs intended to ensure job retention by providing job retention services, if the job retention services are provided for a period of not more than 90 days after an individual who received employment and training services under this paragraph gains employment.
+        (bb) provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours.
 
-    (viii) As approved by the Secretary or the State under regulations issued by the Secretary, other employment, educational and training programs, projects, and experiments, such as a supported work program, aimed at accomplishing the purpose of the employment and training program.
+      (V) Educational programs or activities to improve basic skills and literacy, or otherwise improve employability, including educational programs determined by the State agency to expand the job search abilities or employability of those subject to the program under this paragraph.
+
+      (VI) Programs designed to increase the self-sufficiency of recipients through self-employment, including programs that provide instruction for self-employment ventures.
+
+      (VII) Programs intended to ensure job retention by providing job retention services, if the job retention services are provided for a period of not less than 30 days but not more than 90 days after an individual who received employment and training services under this paragraph gains employment.
+
+      (VIII) Programs and activities under clause (iv) of [section 2025(h)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/h/1/F&num=0&edition=prelim) that the Secretary determines, based on results from the independent evaluations conducted under clause (vii)(I) of such section, have the most demonstrable impact on the ability of participants to find and retain employment that leads to increased household income and reduced reliance on public assistance.
+
+      (IX) As approved by the Secretary or the State under regulations issued by the Secretary, other employment, educational and training programs, projects, and experiments, such as a supported work program, aimed at accomplishing the purpose of the employment and training program.
+
+    (ii) *Workforce partnership.—*
+
+      (I) *In general.—* — The term “workforce partnership” means a program that—
+
+        (aa) is operated by—
+
+          (AA) a private employer, an organization representing private employers, or a nonprofit organization providing services relating to workforce development; or
+
+          (BB) an entity identified as an eligible provider of training services under section 122(d) of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3152(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3152/d&num=0&edition=prelim));
+
+        (bb) the Secretary certifies, or the State agency certifies to the Secretary—
+
+          (AA) subject to subparagraph (N)(ii), would assist participants who are members of households participating in the supplemental nutrition assistance program in gaining high-quality, work-relevant skills, training, work, or experience that will increase the ability of the participants to obtain regular employment;
+
+          (BB) subject to subparagraph (N)(ii), would provide participants with not less than 20 hours per week of training, work, or experience under subitem (AA);
+
+          (CC) would not use any funds authorized to be appropriated by this chapter;
+
+          (DD) would provide sufficient information, on request by the State agency, for the State agency to determine that participants who are members of households participating in the supplemental nutrition assistance program are fulfilling any applicable work requirement under this subsection or subsection (o);
+
+          (EE) would be willing to serve as a reference for participants who are members of households participating in the supplemental nutrition assistance program for future employment or work-related programs; and
+
+          (FF) meets any other criteria established by the Secretary, on the condition that the Secretary shall not establish any additional criteria that would impose significant paperwork burdens on the workforce partnership; and
+
+        (cc) is in compliance with the Fair Labor Standards Act of 1938 ([29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.), if applicable.
+
+      (II) *Inclusion.—* — The term “workforce partnership” includes a multistate program.
 
   (C) The State agency may provide that participation in an employment and training program may supplement or supplant other employment-related requirements imposed on those subject to the program.
 
@@ -1918,7 +2004,13 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
     (iii) Any exemption of a category or individual under this subparagraph shall be periodically evaluated to determine whether the exemption continues to be valid.
 
-  (E) Each State agency shall establish requirements for participation by individuals not exempt under subparagraph (D) in one or more employment and training programs under this paragraph, including the extent to which any individual is required to participate. Such requirements may vary among participants.
+  (E) *Requirements for participation for certain individuals.—*
+
+    (i) *In general.—* — Each State agency shall establish requirements for participation by individuals not exempt under subparagraph (D) in one or more employment and training programs under this paragraph, including the extent to which any individual is required to participate.
+
+    (ii) *Variation.—* — The requirements under clause (i) may vary among participants.
+
+    (iii) *Application to workforce partnerships.—* — To the extent that a State agency requires an individual to participate in an employment and training program, the State agency shall consider an individual participating in a workforce partnership to be in compliance with the employment and training requirements.
 
   (F)
 
@@ -1930,7 +2022,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (G) The State agency may operate any program component under this paragraph in which individuals elect to participate.
 
-  (H) Federal funds made available to a State agency for purposes of the component authorized under subparagraph (B)(v) shall not be used to supplant non-Federal funds used for existing services and activities that promote the purposes of this component.
+  (H) Federal funds made available to a State agency for purposes of the component authorized under subparagraph (B)(i)(V) shall not be used to supplant non-Federal funds used for existing services and activities that promote the purposes of this component.
 
   (I)
 
@@ -1955,6 +2047,56 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
   (L) The Secretary shall ensure that State agencies comply with the requirements of this paragraph and [section 2020(e)(19) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/e/19&num=0&edition=prelim).
 
   (M) The facilities of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] may be used to find employment and training opportunities for household members under the programs under this paragraph.
+
+  (N) *Workforce partnerships.—*
+
+    (i) *Certification.—* — In certifying that a program meets the requirements of subitems (AA) and (BB) of subparagraph (B)(ii)(I)(bb) to be certified as a workforce partnership, the Secretary or the State agency shall require that the program submit to the Secretary or State agency sufficient information that describes—
+
+      (I) the services and activities of the program that would provide participants with not less than 20 hours per week of training, work, or experience under those subitems; and
+
+      (II) how the program would provide services and activities described in subclause (I) that would directly enhance the employability or job readiness of the participant.
+
+    (ii) *Supplement, not supplant.—* — A State agency may use a workforce partnership to supplement, not to supplant, the employment and training program of the State agency.
+
+    (iii) *Participation.—* — A State agency—
+
+      (I) shall—
+
+        (aa) maintain a list of workforce partnerships certified under subparagraph (B)(ii)(I)(bb); and
+
+        (bb) not less frequently than at certification and recertification, provide to a household member subject to work requirements under subsection (d)(1) or subsection (o), electronically or by other means, the list described in item (aa); but
+
+      (II) may not require any member of a household participating in the supplemental nutrition assistance program to participate in a workforce partnership.
+
+    (iv) *Effect.—*
+
+      (I) *In general.—* — A workforce partnership shall not replace the employment or training of an individual not participating in the workforce partnership.
+
+      (II) *Selection.—* — Nothing in this subsection or subsection (o) affects the criteria or screening process for selecting participants by a workforce partnership.
+
+    (v) *Limitation on reporting requirements.—* — In carrying out this subparagraph, the Secretary and each applicable State agency shall limit the reporting requirements of a workforce partnership to—
+
+      (I) on notification that an individual is receiving supplemental nutrition assistance program benefits, notifying the applicable State agency that the individual is participating in the workforce partnership;
+
+      (II) identifying participants who have completed or are no longer participating in the workforce partnership;
+
+      (III) identifying changes to the workforce partnership that result in the workforce partnership no longer meeting the certification requirements of the Secretary or the State agency under subparagraph (B)(ii)(I)(bb); and
+
+      (IV) providing sufficient information, on request by the State agency, for the State agency to verify that a participant is fulfilling any applicable work requirements under this subsection or subsection (o).
+
+  (O) *Referral of certain individuals.—*
+
+    (i) *In general.—* — In accordance with such regulations as may be issued by the Secretary, with respect to any individual who is not eligible for an exemption under paragraph (2) and who is determined by the operator of an employment and training program component to be ill-suited to participate in that employment and training program component, the State agency shall—
+
+      (I) refer the individual to an appropriate employment and training program component;
+
+      (II) refer the individual to an appropriate workforce partnership, if available;
+
+      (III) reassess the physical and mental fitness of the individual under paragraph (1)(A); or
+
+      (IV) to the maximum extent practicable, coordinate with other Federal, State, or local workforce or assistance programs to identify work opportunities or assistance for the individual.
+
+    (ii) *Process.—* — In carrying out clause (i), the State agency shall ensure that an individual undergoing and complying with the process established under that clause shall not be found to have refused without good cause to participate in an employment and training program.
 
 **(e) Students** No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household if the individual is enrolled at least half-time in an institution of higher education, unless the individual—
 
@@ -2070,9 +2212,13 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (A) a program under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.];
 
-  (B) a program under [section 2296 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2296&num=0&edition=prelim); and
+  (B) a program under [section 2296 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2296&num=0&edition=prelim);
 
-  (C) a program of employment and training operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under subsection (d)(4), other than a job search program or a job search training program.
+  (C) a program of employment and training operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under subsection (d)(4), other than a supervised job search program or job search training program;
+
+  (D) a program of employment and training for veterans operated by the Department of Labor or the Department of Veterans Affairs, and approved by the Secretary; and
+
+  (E) a workforce partnership under subsection (d)(4)(N).
 
 (2) **Work requirement** — Subject to the other provisions of this subsection, no individual shall be eligible to participate in the supplemental nutrition assistance program as a member of any household if, during the preceding 36-month period, the individual received supplemental nutrition assistance program benefits for not less than 3 months (consecutive or otherwise) during which the individual did not—
 
@@ -2098,7 +2244,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
 (4) **Waiver**
 
-  (A) *In general* — On the request of a State agency, the Secretary may waive the applicability of paragraph (2) to any group of individuals in the State if the Secretary makes a determination that the area in which the individuals reside—
+  (A) *In general* — On the request of a State agency and with the support of the chief executive officer of the State, the Secretary may waive the applicability of paragraph (2) to any group of individuals in the State if the Secretary makes a determination that the area in which the individuals reside—
 
     (i) has an unemployment rate of over 10 percent; or
 
@@ -2124,7 +2270,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
     (ii) *Limitation* — An individual shall not receive any benefits pursuant to clause (i) for more than a single 3-month period in any 36-month period.
 
-(6) **15-percent exemption**
+(6) **Exemptions**
 
   (A) *Definitions* — In this paragraph:
 
@@ -2142,17 +2288,19 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
       (V) is not receiving supplemental nutrition assistance program benefits under paragraph (5).
 
-  (B) *General rule* — Subject to subparagraphs (C) through (G), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
+  (B) *General rule* — Subject to subparagraphs (C) through (H), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
 
-  (C) *Fiscal year 1998* — Subject to subparagraphs (E) and (G), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out [section 2025(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c&num=0&edition=prelim) for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
+  (C) *Fiscal year 1998* — Subject to subparagraphs (F) and (H), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out [section 2025(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c&num=0&edition=prelim) for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
 
-  (D) *Subsequent fiscal years* — Subject to subparagraphs (E) through (G), for fiscal year 1999 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
+  (D) *Fiscal years 1999 through 2019* — Subject to subparagraphs (F) through (H), for fiscal year 1999 and each subsequent fiscal year through fiscal year 2019, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
 
-  (E) *Caseload adjustments* — The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C) or (D) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
+  (E) *Subsequent fiscal years* — Subject to subparagraphs (F) through (H), for fiscal year 2020 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
 
-  (F) *Exemption adjustments* — During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
+  (F) *Caseload adjustments* — The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C), (D), or (E) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
 
-  (G) *Reporting requirement* — A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
+  (G) *Exemption adjustments* — During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
+
+  (H) *Reporting requirement* — A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
 
 (7) **Other program rules** — Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
 
@@ -2193,9 +2341,9 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (c)(3), (5), (d)(1)(D)(iii)(II), (2), (4)(I)(i)(II), (K), (e)(6), (7), (g), (i)(2), (l)(1), (3), (m), and (n)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part D of title IV of the Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. Title IV–A of the Act (part A of title IV) is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§ 601 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (c)(3), (5), (d)(1)(D)(iii)(II), (2), (4)(I)(i)(II), (K), (e)(6), (7), (g), (i)(2), (l)(1), (3), (m), and (n)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part D of title IV of the Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. Title IV–A of the Act (part A of title IV) is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§ 601 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (d)(2), (4)(F)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (d)(2), (4)(B)(ii)(I)(cc), (F)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsecs. (d)(4)(M), (e)(3)(A), and (o)(1)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
@@ -2205,6 +2353,46 @@ Section 212(a) of Pub. L. 93–66, referred to in subsec. (g), is Pub. L. 93–6
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (d)(4)(A)(i). Pub. L. 115–334, § 4005(a)(1)(A), inserted “, in consultation with the State workforce development board, or, if the State demonstrates that consultation with private employers or employer organizations would be more effective or efficient, in consultation with private employers or employer organizations,” after “designed by the State agency” and substituted “that will—
+
+“(I) increase the ability of the household members to obtain regular employment; and
+
+“(II) meet State or local workforce needs.”
+
+for “that will increase their ability to obtain regular employment.”
+
+Subsec. (d)(4)(A)(ii). Pub. L. 115–334, § 4005(a)(1)(B), inserted “and implemented to meet the purposes of clause (i)” after “carried out under this paragraph”.
+
+Subsec. (d)(4)(B). Pub. L. 115–334, § 4005(a)(2)(A)–(C), (E)–(I), inserted subpar. (B) heading, substituted “In this chapter:” for “For purposes of this chapter, an” in introductory provisions, inserted “(i) Employment and training program.—The term” before “employment and training program”, and, in cl. (i) as so designated, inserted “case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and” before “one or more” and substituted “this clause” for “this subparagraph” in introductory provisions, redesignated former cls. (i) to (vii) as subcls. (I) to (VII), respectively, substituted “employability assessments, training in techniques to increase employability” for “jobs skills assessments, job finding clubs, training in techniques for employability” in subcl. (II), inserted “, including subsidized employment and apprenticeships” after “public or private employment” in introductory provisions of subcl. (IV), redesignated subcls. (I) and (II) of former cl. (iv) as items (aa) and (bb), respectively, of subcl. (IV), inserted “not less than 30 days but” before “not more than 90 days” in subcl. (VII), added subcl. (VIII), and redesignated former cl. (viii) as subcl. (IX).
+
+Subsec. (d)(4)(B)(i)(I). Pub. L. 115–334, § 4005(a)(2)(D), added subcl. (I) and struck out former subcl. (I) which read as follows: “Job search programs.”
+
+Subsec. (d)(4)(B)(ii). Pub. L. 115–334, § 4005(a)(2)(C), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II) of subsec. (d)(4)(B).
+
+Subsec. (d)(4)(E). Pub. L. 115–334, § 4005(a)(3), inserted subpar. heading, designated first and second sentences as cls. (i) and (ii), respectively, and inserted cl. headings, substituted “The requirements under clause (i)” for “Such requirements” in cl. (ii), and added cl. (iii).
+
+Subsec. (d)(4)(H). Pub. L. 115–334, § 4005(a)(4), substituted “subparagraph (B)(i)(V)” for “subparagraph (B)(v)”.
+
+Subsec. (d)(4)(N), (O). Pub. L. 115–334, § 4005(a)(5), added subpars. (N) and (O).
+
+Subsec. (o)(1)(C) to (E). Pub. L. 115–334, § 4005(b)(1), in subpar. (C) substituted “supervised job search program or job search training program” for “job search program or a job search training program” and added subpars. (D) and (E).
+
+Subsec. (o)(4)(A). Pub. L. 115–334, § 4005(b)(2), inserted “and with the support of the chief executive officer of the State” after “request of a State agency”.
+
+Subsec. (o)(6). Pub. L. 115–334, § 4005(b)(3)(A), substituted “Exemptions” for “15-percent exemption” in heading.
+
+Subsec. (o)(6)(B). Pub. L. 115–334, § 4005(b)(3)(B), substituted “subparagraphs (C) through (H)” for “subparagraphs (C) through (G)”.
+
+Subsec. (o)(6)(C). Pub. L. 115–334, § 4005(b)(3)(C), substituted “subparagraphs (F) and (H)” for “subparagraphs (E) and (G)”.
+
+Subsec. (o)(6)(D). Pub. L. 115–334, § 4005(b)(3)(D), in heading substituted “Fiscal years 1999 through 2019” for “Subsequent fiscal years” and in text substituted “subparagraphs (F) through (H)” for “subparagraphs (E) through (G)” and “each subsequent fiscal year through fiscal year 2019” for “each subsequent fiscal year”.
+
+Subsec. (o)(6)(E). Pub. L. 115–334, § 4005(b)(3)(G), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Pub. L. 115–334, § 4005(b)(3)(E), substituted “subparagraph (C), (D), or (E)” for “subparagraph (C) or (D)”.
+
+Subsec. (o)(6)(F) to (H). Pub. L. 115–334, § 4005(b)(3)(F), redesignated subpars. (E) to (G) as (F) to (H), respectively.
+
 2014—Subsec. (d)(4)(B)(vii), (F)(iii). Pub. L. 113–79, § 4030(d), realigned margins.
 
 Subsec. (d)(4)(M). Pub. L. 113–128, § 512(l)(2)(A), substituted “activities under title I of the Workforce Innovation and Opportunity Act” for “activities under title I of the Workforce Investment Act of 1998”.
@@ -2636,6 +2824,16 @@ Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that n
 
     (ii) *Commercial practices* — In issuing regulations to carry out this paragraph, the Secretary shall consider existing commercial practices for other point-of-sale debit transactions.
 
+  (C) *Operation of individual point of sale device by farmers’ markets and direct marketing farmers* — A farmers’ market or direct marketing farmer that is exempt under paragraph (2)(B)(i) shall be allowed to operate an individual electronic benefit transfer point of sale device at more than 1 location under the same supplemental nutrition assistance program authorization, if—
+
+    (i) the farmers’ market or direct marketing farmer provides to the Secretary information on location and hours of operation at each location; and
+
+    (ii)
+
+      (I) the point of sale device used by the farmers’ market or direct marketing farmer is capable of providing location information of the device through the electronic benefit transfer system; or
+
+      (II) if the Secretary determines that the technology is not available for a point of sale device to meet the requirement under subclause (I), the farmers’ market or direct marketing farmer provides to the Secretary any other information, as determined by the Secretary, necessary to ensure the integrity of transactions processed using the point of sale device.
+
 **(g) Staggered issuance procedures**
 
 (1) The State agency may establish a procedure for staggering the issuance of benefits to eligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
@@ -2668,7 +2866,7 @@ Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that n
 
     (iii) the need to permit monitoring and investigations by authorized law enforcement agencies.
 
-(2) The Secretary shall issue final regulations that establish standards for the approval of such a system. The standards shall include—
+(2) The Secretary shall issue final regulations that establish standards for the approval of such a system and shall periodically review such regulations and modify such regulations to take into account evolving technology and comparable industry standards. The standards shall include—
 
   (A) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
 
@@ -2764,11 +2962,29 @@ Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that n
 
 (12) **Recovering electronic benefits.—**
 
-  (A) *In general.—* — A State agency shall establish a procedure for recovering electronic benefits from the account of a household due to inactivity.
+  (A) *In general.—* — A State agency shall establish a procedure for recovering electronic benefits from the account of a household due to inactivity, or due to the death of all members of the household.
 
-  (B) *Benefit storage.—* — A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
+  (B) *Benefit storage.—*
 
-  (C) *Benefit expunging.—* — A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months.
+    (i) *In general.—* — A State agency may store recovered electronic benefits off-line in accordance with clause (ii), if the household has not accessed the account after 3 months.
+
+    (ii) *Notice of benefit storage.—* — A State agency shall—
+
+      (I) send notice to a household the benefits of which are stored under clause (i); and
+
+      (II) not later than 48 hours after request by the household, make the stored benefits available to the household.
+
+  (C) *Benefit expunging.—*
+
+    (i) *In general.—* — Subject to clause (ii), a State agency shall expunge benefits that have not been accessed by a household after a period of 9 months, or upon verification that all members of the household are deceased.
+
+    (ii) *Notice of benefit expunging.—* — Not later than 30 days before benefits are to be expunged under clause (i), a State agency shall—
+
+      (I) provide sufficient notice to the household that benefits will be expunged due to inactivity, and the date upon which benefits will be expunged;
+
+      (II) for benefits stored off-line in accordance with subparagraph (B), provide the household an opportunity to request that such benefits be restored to the household; and
+
+      (III) not later than 48 hours after request by the household, make the benefits available to the household.
 
   (D) *Notice.—* — A State agency shall—
 
@@ -2776,41 +2992,51 @@ Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that n
 
     (ii) not later than 48 hours after request by the household, make the stored benefits available to the household.
 
-(13) **Interchange fees.—** — No interchange fees shall apply to electronic benefit transfer transactions under this subsection.
+(13) **Fees.—**
+
+  (A) *Interchange fees.—* — No interchange fees shall apply to electronic benefit transfer transactions under this subsection.
+
+  (B) *Other fees.—* — Effective through fiscal year 2023, neither a State, nor any agent, contractor, or subcontractor of a State who facilitates the provision of supplemental nutrition assistance program benefits in such State may impose a fee for switching (as defined in subsection (j)(1)(H)) or routing such benefits.
 
 (14) **Mobile technologies.—**
 
-  (A) *In general.—* — Subject to subparagraph (B), the Secretary shall approve retail food stores to redeem benefits through electronic means other than wired point of sale devices for electronic benefit transfer transactions, if the retail food stores—
+  (A) *In general.—* — Subject to subparagraph (B), the Secretary shall authorize the use of mobile technologies for the purpose of accessing supplemental nutrition assistance program benefits.
 
-    (i) establish recipient protections regarding privacy, ease of use, access, and support similar to the protections provided for transactions made in retail food stores;
+  (B) *Demonstration projects on access of benefits through mobile technologies.—*
 
-    (ii) bear the costs of obtaining, installing, and maintaining mobile technologies, including mechanisms needed to process EBT cards and transaction fees;
+    (i) *Demonstration projects.—* — Before authorizing implementation of subparagraph (A) in all States, the Secretary shall approve not more than 5 demonstration project proposals submitted by State agencies that will pilot the use of mobile technologies for supplemental nutrition assistance program benefits access.
 
-    (iii) demonstrate the foods purchased with benefits issued under this section through mobile technologies are purchased at a price not higher than the price of the same food purchased by other methods used by the retail food store, as determined by the Secretary;
+    (ii) *Project requirements.—* — To be eligible to participate in a demonstration project under clause (i), a State agency shall submit to the Secretary for approval a plan that—
 
-    (iv) provide adequate documentation for each authorized transaction, as determined by the Secretary; and
+      (I) provides recipient protections regarding privacy, ease of use, household access to benefits, and support similar to the protections provided under existing methods;
 
-    (v) meet other criteria as established by the Secretary.
+      (II) ensures that all recipients, including those without access to mobile payment technology and those who shop across State borders, have a means of benefit access;
 
-  (B) *Demonstration project on acceptance of benefits of mobile transactions.—*
+      (III) requires retail food stores, unless exempt under [section 2016(f)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/f/2/B&num=0&edition=prelim), to bear the costs of acquiring and arranging for the implementation of point-of-sale equipment and supplies for the redemption of benefits that are accessed through mobile technologies;
 
-    (i) *In general.—* — Before authorizing implementation of subparagraph (A) in all States, the Secretary shall pilot the use of mobile technologies determined by the Secretary to be appropriate to test the feasibility and implications for program integrity, by allowing retail food stores to accept benefits from recipients of supplemental nutrition assistance through mobile transactions.
+      (IV) requires that foods purchased with benefits issued under this section through mobile technologies are purchased at a price not higher than the price of the same food purchased by other methods used by the retail food store, as determined by the Secretary;
 
-    (ii) *Demonstration projects.—* — To be eligible to participate in a demonstration project under clause (i), a retail food store shall submit to the Secretary for approval a plan that includes—
+      (V) ensures adequate documentation for each authorized transaction, adequate security measures to deter fraud, and adequate access to retail food stores that accept benefits accessed through mobile technologies, as determined by the Secretary;
 
-      (I) a description of the technology;
+      (VI) provides for an evaluation of the demonstration project, including, but not limited to, an evaluation of household access to benefits;
 
-      (II) the manner by which the retail food store will provide proof of the transaction to households;
+      (VII) requires that the State demonstration projects are voluntary for all retail food stores and that all recipients are able to use benefits in non-participating retail food stores; and
 
-      (III) the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate the impact of the demonstration on participant access, ease of use, and program integrity; and
+      (VIII) meets other criteria as established by the Secretary.
 
-      (IV) such other criteria as the Secretary may require.
+    (iii) *Priority.—* — The Secretary may prioritize demonstration project proposals that would—
 
-    (iii) *Date of completion.—* — The demonstration projects under this subparagraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.
+      (I) reduce fraud;
+
+      (II) encourage positive nutritional outcomes; and
+
+      (III) meet such other criteria as determined by the Secretary.
+
+    (iv) *Date of project approval.—* — The Secretary shall solicit and approve the qualifying demonstration projects required under subparagraph (B)(i) not later than January 1, 2021.
 
   (C) *Report to congress.—* — The Secretary shall—
 
-    (i) by not later than January 1, 2017, authorize implementation of subparagraph (A) in all States, unless the Secretary makes a finding, based on the data provided under subparagraph (B), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
+    (i) by not later than January 1, 2022, authorize implementation of subparagraph (A) in all States, unless the Secretary makes a finding, based on the data provided under subparagraph (B), that implementation in all States requires further study by way of an extended pilot period or is not in the best interest of the supplemental nutrition assistance program; and
 
     (ii) if the determination made in clause (i) is not to implement subparagraph (A) in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.
 
@@ -2860,7 +3086,7 @@ Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that n
 
   (G) *Smart card* — The term “smart card” means an intelligent benefit card described in [section 2026(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2026/f&num=0&edition=prelim).
 
-  (H) *Switching* — The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+  (H) *Switching* — The term “switching” means the routing of an intrastate or interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in one State to the issuer of the card that may be in the same or different State.
 
 (2) **Requirement** — Not later than October 1, 2002, the Secretary shall ensure that systems that provide for the electronic issuance, use, and redemption of program benefits in the form of electronic benefit transfer cards are interoperable, and supplemental nutrition assistance program benefits are portable, among all States.
 
@@ -2900,7 +3126,7 @@ Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that n
 
   (B) *Limitation* — The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
 
-**(k) Option to accept program benefits through on-line transactions**
+**(k) Acceptance of program benefits through online transactions**
 
 (1) **In general** — Subject to paragraph (4), the Secretary shall approve retail food stores to accept benefits from recipients of supplemental nutrition assistance through on-line transactions.
 
@@ -2940,14 +3166,6 @@ Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that n
 
     (vi) such other criteria, including security criteria, as established by the Secretary.
 
-  (C) *Date of completion* — The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.
-
-(5) **Report to Congress** — The Secretary shall—
-
-  (A) by not later than January 1, 2017, authorize implementation of paragraph (1) in all States, unless the Secretary makes a finding, based on the data provided under paragraph (4), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
-
-  (B) if the determination made in subparagraph (A) is not to implement in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.
-
 ### Statutory Notes
 
 #### References in Text
@@ -2957,6 +3175,54 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (f)(5)(C). Pub. L. 115–334, § 4006(a), added subpar. (C).
+
+Subsec. (h)(2). Pub. L. 115–334, § 4006(b), in introductory provisions, inserted “and shall periodically review such regulations and modify such regulations to take into account evolving technology and comparable industry standards” after “such a system”.
+
+Subsec. (h)(12)(A). Pub. L. 115–334, § 4006(c)(1), inserted “, or due to the death of all members of the household” after “due to inactivity”.
+
+Subsec. (h)(12)(B), (C). Pub. L. 115–334, § 4006(c)(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) Benefit storage.—A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
+
+(C) Benefit expunging.—A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months.”
+
+Subsec. (h)(13). Pub. L. 115–334, § 4006(d)(1), amended par. (13) generally. Prior to amendment, text read as follows: “No interchange fees shall apply to electronic benefit transfer transactions under this subsection.”
+
+Subsec. (h)(14)(A). Pub. L. 115–334, § 4006(e)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to redemption of benefits by retail food stores through electronic means other than wired point of sale devices for electronic benefit transfer transactions, if certain criteria had been met.
+
+Subsec. (h)(14)(B). Pub. L. 115–334, § 4006(e)(2)(A), substituted “Demonstration projects on access of benefits through mobile technologies” for “Demonstration project on acceptance of benefits of mobile transactions” in heading.
+
+Subsec. (h)(14)(B)(i). Pub. L. 115–334, § 4006(e)(2)(B), amended cl. (i) generally. Prior to amendment, text read as follows: “Before authorizing implementation of subparagraph (A) in all States, the Secretary shall pilot the use of mobile technologies determined by the Secretary to be appropriate to test the feasibility and implications for program integrity, by allowing retail food stores to accept benefits from recipients of supplemental nutrition assistance through mobile transactions.”
+
+Subsec. (h)(14)(B)(ii). Pub. L. 115–334, § 4006(e)(2)(C)(i) to (iii), in heading substituted “Project requirements” for “Demonstration projects” and, in introductory provisions, substituted “State agency” for “retail food store” and struck out “includes” after “a plan that”.
+
+Subsec. (h)(14)(B)(ii)(I) to (VIII). Pub. L. 115–334, § 4006(e)(2)(C)(iv), added subcls. (I) to (VIII) and struck out former subcls. (I) to (IV) which read as follows:
+
+“(I) a description of the technology;
+
+“(II) the manner by which the retail food store will provide proof of the transaction to households;
+
+“(III) the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate the impact of the demonstration on participant access, ease of use, and program integrity; and
+
+“(IV) such other criteria as the Secretary may require.”
+
+Subsec. (h)(14)(B)(iii), (iv). Pub. L. 115–334, § 4006(e)(2)(D), (E), added cl. (iii) and amended former cl. (iii) generally, which general amendment also redesignated former cl. (iii) as (iv). Prior to amendment, text of cl. (iii) read as follows: “The demonstration projects under this subparagraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.”
+
+Subsec. (h)(14)(C)(i). Pub. L. 115–334, § 4006(e)(3), substituted “2022” for “2017” and inserted “requires further study by way of an extended pilot period or” before “is not in the best interest”.
+
+Subsec. (j)(1)(H). Pub. L. 115–334, § 4006(d)(2), amended subpar. (H) generally. Prior to amendment, text read as follows: “The term ‘switching’ means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.”
+
+Subsec. (k). Pub. L. 115–334, § 4001(b)(1), substituted “Acceptance of program benefits through online transactions” for “Option to accept program benefits through on-line transactions” in heading.
+
+Subsec. (k)(4)(C). Pub. L. 115–334, § 4001(b)(2), struck out subpar. (C). Prior to amendment, text read as follows: “The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.”
+
+Subsec. (k)(5). Pub. L. 115–334, § 4001(b)(3), struck out par. (5). Prior to amendment, text read as follows: “The Secretary shall—
+
+“(A) by not later than January 1, 2017, authorize implementation of paragraph (1) in all States, unless the Secretary makes a finding, based on the data provided under paragraph (4), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
+
+“(B) if the determination made in subparagraph (A) is not to implement in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.”
+
 2014—Subsec. (b). Pub. L. 113–79, § 4011(b)(2)(A), substituted “purchase food from retail food stores” for “purchase food in retail food stores”.
 
 Subsec. (f)(2). Pub. L. 113–79, § 4002(b)(1), added par. (2) and struck out former par. (2). Text read as follows: “The cost of documents or systems that may be required by this subsection may not be imposed upon a retail food store participating in the supplemental nutrition assistance program.”
@@ -3185,7 +3451,7 @@ Pub. L. 94–4, Feb. 20, 1975, 89 Stat. 6, provided that notwithstanding the pro
 
 **(e) Allotments for households residing in centers**
 
-(1) **In general** — In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in section 2012(n)(5) 11 See References in Text note below. of this title, a State agency may provide an allotment for the individual to—
+(1) **In general** — In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in [section 2012(m)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/m/5&num=0&edition=prelim), a State agency may provide an allotment for the individual to—
 
   (A) the center as an authorized representative of the individual for a period that is less than 1 month; and
 
@@ -3199,7 +3465,7 @@ Pub. L. 94–4, Feb. 20, 1975, 89 Stat. 6, provided that notwithstanding the pro
 
   (A) *Applicability*
 
-    (i) *In general* — Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) 1 of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a).
+    (i) *In general* — Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of [section 2012(m)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/m/5&num=0&edition=prelim) (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a).
 
     (ii) *Limitation* — Unless the Secretary authorizes implementation of this paragraph in all States under paragraph (3), clause (i) shall apply only to residents of covered facilities participating in a pilot project under paragraph (2).
 
@@ -3278,12 +3544,14 @@ Pub. L. 94–4, Feb. 20, 1975, 89 Stat. 6, provided that notwithstanding the pro
 #### References in Text
 The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1305) and Tables.
 
-Section 2012(n)(5), referred to in subsecs. (e)(1) and (f)(1)(A)(i), was redesignated as section 2012(m)(5) by Pub. L. 113–79, title IV, § 4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (e)(1). Pub. L. 115–334 substituted “2012(m)(5)” for “2012(n)(5)” in introductory provisions.
+
+Subsec. (f)(1)(A)(i). Pub. L. 115–334 substituted “2012(m)(5)” for “2012(n)(5)”.
+
 2008—Subsec. (a). Pub. L. 110–246, § 4107, substituted “8 percent of the cost of the thrifty food plan for a household containing 1 member, as determined by the Secretary under [section 2012 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2012), rounded to the nearest whole dollar increment” for “$10 per month”.
 
 Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
@@ -3393,9 +3661,27 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
 <a id="section-2018"></a>
 ## § 2018. Approval of retail food stores and wholesale food concerns
-**(a) Applications; qualifications; certificate of approval; periodic reauthorization**
+**(a) Authorization to accept and redeem benefits**
 
-(1) Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem benefits under the supplemental nutrition assistance program and for the approval of those applicants whose participation will effectuate the purposes of the supplemental nutrition assistance program. In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following: (A) the nature and extent of the food business conducted by the applicant; (B) the volume of benefit transactions which may reasonably be expected to be conducted by the applicant food store or wholesale food concern; (C) whether the applicant is located in an area with significantly limited access to food; and (D) the business integrity and reputation of the applicant. Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval. No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
+(1) **Applications**
+
+  (A) *In general* — Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem benefits under the supplemental nutrition assistance program and for the approval of those applicants whose participation will effectuate the purposes of the supplemental nutrition assistance program.
+
+  (B) *Factors for consideration* — In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following:
+
+    (i) the nature and extent of the food business conducted by the applicant;
+
+    (ii) the volume of benefit transactions which may reasonably be expected to be conducted by the applicant food store or wholesale food concern;
+
+    (iii) whether the applicant is located in an area with significantly limited access to food;
+
+    (iv) any information, if available, about the ability of the anticipated or existing electronic benefit transfer equipment and service provider of the applicant to provide sufficient information through the electronic benefit transfer system to minimize the risk of fraudulent transactions; and
+
+    (v) the business integrity and reputation of the applicant.
+
+  (C) *Certificate* — Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval.
+
+  (D) *Visit required* — No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
 
 (2) The Secretary shall issue regulations providing for—
 
@@ -3404,6 +3690,8 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
   (B) periodic notice to participating retail food stores and wholesale food concerns of the definitions of “retail food store”, “staple foods”, “eligible foods”, and “perishable foods”.
 
 (3) **Authorization periods.—** — The Secretary shall establish specific time periods during which authorization to accept and redeem benefits shall be valid under the supplemental nutrition assistance program.
+
+(4) **Electronic benefit transfer equipment and service providers.—** — Before implementing clause (iv) of paragraph (1)(B), the Secretary shall issue guidance for retail food stores on how to select electronic benefit transfer equipment and service providers that are able to meet the requirements of that clause.
 
 **(b) Effective and efficient operation of program; effect of disqualification; posting of bond**
 
@@ -3415,7 +3703,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
   (B) A buyer or transferee may not, as a result of the sale or transfer of such store or concern, be required to furnish a bond under [section 2021(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2021/d&num=0&edition=prelim).
 
-**(c) Information submitted by applicants; safeguards; disclosure to and use by State agencies** Regulations issued pursuant to this chapter shall require an applicant retail food store or wholesale food concern to submit information, which may include relevant income and sales tax filing documents, purchase invoices, or program-related records, which will permit a determination to be made as to whether such applicant qualifies, or continues to qualify, for approval under the provisions of this chapter or the regulations issued pursuant to this chapter. The regulations may require retail food stores and wholesale food concerns to provide written authorization for the Secretary to verify all relevant tax filings with appropriate agencies and to obtain corroborating documentation from other sources so that the accuracy of information provided by the stores and concerns may be verified. Regulations issued pursuant to this chapter shall provide for safeguards which limit the use or disclosure of information obtained under the authority granted by this subsection to purposes directly connected with administration and enforcement of the provisions of this chapter or the regulations issued pursuant to this chapter, except that such information may be disclosed to and used by Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and State agencies that administer the special supplemental nutrition program for women, infants and children, authorized under section 17 of the Child Nutrition Act of 1966 [[42 U.S.C. 1786](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1786&num=0&edition=prelim)], for purposes of administering the provisions of that Act [[42 U.S.C. 1771](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) et seq.] and the regulations issued under that Act. Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
+**(c) Information submitted by applicants; safeguards; disclosure to and use by State agencies** Regulations issued pursuant to this chapter shall require an applicant retail food store or wholesale food concern to submit information, which may include relevant income and sales tax filing documents, purchase invoices, records relating to electronic benefit transfer equipment and related services, transaction and redemption data provided through the electronic benefit transfer system, or program-related records, which will permit a determination to be made as to whether such applicant qualifies, or continues to qualify, for approval under the provisions of this chapter or the regulations issued pursuant to this chapter. The regulations may require retail food stores and wholesale food concerns to provide written authorization for the Secretary to verify all relevant tax filings with appropriate agencies and to obtain corroborating documentation from other sources so that the accuracy of information provided by the stores and concerns may be verified. Regulations issued pursuant to this chapter shall provide for safeguards which limit the use or disclosure of information obtained under the authority granted by this subsection to purposes directly connected with administration and enforcement of the provisions of this chapter or the regulations issued pursuant to this chapter, except that such information may be disclosed to and used by Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and State agencies that administer the special supplemental nutrition program for women, infants and children, authorized under section 17 of the Child Nutrition Act of 1966 [[42 U.S.C. 1786](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1786&num=0&edition=prelim)], for purposes of administering the provisions of that Act [[42 U.S.C. 1771](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) et seq.] and the regulations issued under that Act. Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
 
 **(d) Hearing upon failure of applicant to receive approval; waiting period for new application** Any retail food store or wholesale food concern which has failed upon application to receive approval to participate in the supplemental nutrition assistance program may obtain a hearing on such refusal as provided in [section 2023 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2023). A retail food store or wholesale food concern that is denied approval to accept and redeem benefits because the store or concern does not meet criteria for approval established by the Secretary may not, for at least 6 months, submit a new application to participate in the program. The Secretary may establish a longer time period under the preceding sentence, including permanent disqualification, that reflects the severity of the basis of the denial.
 
@@ -3437,6 +3725,50 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
 (3) **Report to Congress** — Not later than 90 days after September 30, 2014, and 90 days after the last day of each fiscal year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the effectiveness of a program under this subsection using any information received from States under [section 2020(e)(25) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/e/25&num=0&edition=prelim) as well as any other information the Secretary may have relating to the manner in which benefits are used.
 
+**(i) Review of program operations**
+
+(1) **Review by the Secretary** — The Secretary—
+
+  (A) shall review a representative sample of currently authorized facilities referred to in [section 2012(k)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/k/3&num=0&edition=prelim) to determine whether benefits are properly used by or on behalf of participating households residing in such facilities and whether such facilities are using more than 1 source of Federal or State funding to meet the food needs of residents;
+
+  (B) may carry out similar reviews for currently participating residential drug and alcohol treatment and rehabilitation programs, and group living arrangements for the blind and disabled, referred to in [section 2012(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/k&num=0&edition=prelim);
+
+  (C) shall gather information, and such facilities, programs, and arrangements shall be required to submit information deemed necessary for a full and thorough review; and
+
+  (D) shall report the results of these reviews to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate not later than 18 months after December 20, 2018, along with recommendations regarding—
+
+    (i) any additional requirements or oversight that would be appropriate for such facilities, programs, and arrangements; and
+
+    (ii) whether such facilities, programs, and arrangements should continue to be authorized to participate in the supplemental nutrition assistance program.
+
+(2) **Limitation** — Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution for a period of 18 months from December 20, 2018.
+
+**(j) Incentives**
+
+(1) **Definition of eligible incentive food** — In this subsection, the term “eligible incentive food” means—
+
+  (A) a staple food that is identified for increased consumption, consistent with the most recent dietary recommendations; and
+
+  (B) a fruit, vegetable, dairy, whole grain, or product thereof.
+
+(2) **Guidance**
+
+  (A) *In general* — The Secretary shall issue guidance to clarify the process by which an approved retail food store may seek a waiver to offer an incentive, which may be used only for the purchase of an eligible incentive food at the point of purchase, to a household purchasing food with benefits issued under this chapter.
+
+  (B) *Guidance* — The guidance under subparagraph (A) shall establish a process under which an approved retail food store, prior to carrying out an incentive program under this subsection, shall provide to the Secretary information describing the incentive program, including—
+
+    (i) the types of incentives that will be offered;
+
+    (ii) the types of foods that will be incentivized for purchase; and
+
+    (iii) an explanation of how the incentive program intends to support meeting dietary intake goals.
+
+(3) **No limitation on benefits** — A waiver granted under this subsection shall not be used to carry out any activity that limits the use of benefits under this chapter or any other Federal nutrition law.
+
+(4) **Effect** — Guidance provided under this subsection shall not affect any requirements under [section 7517 of this title](./chapter-102-emergency-food-assistance.md#section-7517), including the eligibility of a retail food store to participate in a project funded under such section.
+
+(5) **Report** — The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report describing the types of incentives approved under this subsection.
+
 ### Statutory Notes
 
 #### References in Text
@@ -3446,6 +3778,16 @@ That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), i
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334, § 4006(f)(1), inserted subsec. heading, designated existing provisions, comprised of four sentences, as par. (1), inserted par. heading, designated first through fourth sentences as subpars. (A) to (D), respectively, inserted subpar. headings, redesignated former cls. (A) to (D) of second sentence as cls. (i) to (iii) and (v) of subpar. (B), respectively, and added cl. (iv) of subpar. (B).
+
+Subsec. (a)(4). Pub. L. 115–334, § 4006(f)(2), added par. (4).
+
+Subsec. (c). Pub. L. 115–334, § 4006(f)(3), inserted “records relating to electronic benefit transfer equipment and related services, transaction and redemption data provided through the electronic benefit transfer system,” after “purchase invoices,”.
+
+Subsec. (i). Pub. L. 115–334, § 4007, added subsec. (i).
+
+Subsec. (j). Pub. L. 115–334, § 4008, added subsec. (j).
+
 2014—Subsec. (a)(1). Pub. L. 113–79, § 4002(e)(1), substituted “; (C) whether the applicant is located in an area with significantly limited access to food; and (D)” for “; and (C)”.
 
 Subsec. (a)(3). Pub. L. 113–79, § 4030(f), realigned margins.
@@ -3544,19 +3886,19 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 <a id="section-2019"></a>
 ## § 2019. Redemption of program benefits
 
-Regulations issued pursuant to this chapter shall provide for the redemption of benefits accepted by retail food stores through approved wholesale food concerns or through financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or which are insured under the Federal Credit Union Act [[12 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) et seq.] and have retail food stores or wholesale food concerns in their field of membership, with the cooperation of the Treasury Department, except that retail food stores defined in section 2012(p)(4) 11 See References in Text note below. of this title shall be authorized to redeem their members’ food benefits prior to receipt by the members of the food so purchased, retail food stores authorized to accept and redeem benefits through on-line transactions shall be authorized to accept benefits prior to the delivery of food if the delivery occurs within a reasonable time of the purchase, as determined by the Secretary, and publicly operated community mental health centers or private nonprofit organizations or institutions which serve meals to narcotics addicts or alcoholics in drug addiction or alcoholic treatment and rehabilitation programs, public and private nonprofit shelters that prepare and serve meals for battered women and children, and public or private nonprofit group living arrangements that serve meals to disabled or blind residents, shall not be authorized to redeem benefits through financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation or the Federal Credit Union Act. Notwithstanding the preceding sentence, a center, organization, institution, shelter, group living arrangement, or establishment described in that sentence may be authorized to redeem benefits through a financial institution described in that sentence if the center, organization, institution, shelter, group living arrangement, or establishment is equipped with 1 or more point-of-sale devices and is operating in an area in which an electronic benefit transfer system described in [section 2016(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/h&num=0&edition=prelim) has been implemented. No financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of benefits that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of benefits, for the presentation of benefits by financial institutions to the Federal Reserve banks.
+Regulations issued pursuant to this chapter shall provide for the redemption of benefits accepted by retail food stores through approved wholesale food concerns or through financial institutions which are insured by the Federal Deposit Insurance Corporation, or which are insured under the Federal Credit Union Act [[12 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) et seq.] and have retail food stores or wholesale food concerns in their field of membership, with the cooperation of the Treasury Department, except that retail food stores defined in section 2012(o)(4) of this title shall be authorized to redeem their members’ food benefits prior to receipt by the members of the food so purchased, retail food stores authorized to accept and redeem benefits through on-line transactions shall be authorized to accept benefits prior to the delivery of food if the delivery occurs within a reasonable time of the purchase, as determined by the Secretary, and publicly operated community mental health centers or private nonprofit organizations or institutions which serve meals to narcotics addicts or alcoholics in drug addiction or alcoholic treatment and rehabilitation programs, public and private nonprofit shelters that prepare and serve meals for battered women and children, and public or private nonprofit group living arrangements that serve meals to disabled or blind residents, shall not be authorized to redeem benefits through financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Credit Union Act. Notwithstanding the preceding sentence, a center, organization, institution, shelter, group living arrangement, or establishment described in that sentence may be authorized to redeem benefits through a financial institution described in that sentence if the center, organization, institution, shelter, group living arrangement, or establishment is equipped with 1 or more point-of-sale devices and is operating in an area in which an electronic benefit transfer system described in [section 2016(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/h&num=0&edition=prelim) has been implemented. No financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of benefits that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of benefits, for the presentation of benefits by financial institutions to the Federal Reserve banks.
 
 ### Statutory Notes
 
 #### References in Text
 The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
 
-Section 2012(p)(4), referred to in text, was redesignated as section 2012(o)(4) by Pub. L. 113–79, title IV, § 4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334, in first sentence, struck out “or the Federal Savings and Loan Insurance Corporation” after “the Federal Deposit Insurance Corporation” in two places and substituted “2012(o)(4)” for “2012(p)(4)”.
+
 2014—Pub. L. 113–79 inserted “retail food stores authorized to accept and redeem benefits through on-line transactions shall be authorized to accept benefits prior to the delivery of food if the delivery occurs within a reasonable time of the purchase, as determined by the Secretary,” after “food so purchased,”.
 
 2008—Pub. L. 110–246, § 4115(b)(7), in section catchline, substituted “program benefits” for “coupons” and, in text, substituted “section 2012(p)(4)” for “section 2012(k)(4)” and “section 2016(h)” for “section 2016(i)” and substituted “benefits” for “coupons” wherever appearing.
@@ -3622,9 +3964,6 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–603 effective Jan. 1, 1973, see section 411(h) of Pub. L. 92–603, set out as a note under [section 2012 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2012).
 
-#### Transfer of Functions
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see Pub. L. 101–73, title IV, §§ 401–406, Aug. 9, 1989, 103 Stat. 354–363, set out as a note under [section 1437 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1437&num=0&edition=prelim), Banks and Banking.
-
 #### Regulations
 Pub. L. 99–198, title XV, § 1523(b), Dec. 23, 1985, 99 Stat. 1580, provided that: “The Secretary of Agriculture, in consultation with the Board of Governors of the Federal Reserve System, shall issue regulations implementing the amendment made by subsection (a) [amending this section].”
 
@@ -3641,15 +3980,15 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
 (1) **In general** — The State agency of each participating State shall have responsibility for certifying applicant households and issuing EBT cards.
 
-(2) **Local administration** — The responsibility of the agency of the State government shall not be affected by whether the program is operated on a State-administered or county-administered basis, as provided under section 2012(t)(1) 11 See References in Text note below. of this title.
+(2) **Local administration** — The responsibility of the agency of the State government shall not be affected by whether the program is operated on a State-administered or county-administered basis, as provided under [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim).
 
 (3) **Records**
 
   (A) *In general* — Each State agency shall keep such records as may be necessary to determine whether the program is being conducted in compliance with this chapter (including regulations issued under this chapter).
 
-  (B) *Inspection and audit* — Records described in subparagraph (A) shall—
+  (B) *Inspection and audit* — All records, and the entire information systems in which records are contained, that are covered in subparagraph (A) shall—
 
-    (i) be available for inspection and audit at any reasonable time;
+    (i) be made available for inspection and audit by the Secretary, subject to data and security protocols agreed to by the State agency and Secretary;
 
     (ii) subject to subsection (e)(8), be available for review in any action filed by a household to enforce any provision of this chapter (including regulations issued under this chapter); and
 
@@ -3689,7 +4028,7 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
   (D) Title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.).
 
-**(d) Plan of operation by State agency; approval by Secretary; Indians** The State agency (as defined in section 2012(t)(1) 1 of this title) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in section 2012(t)(1) 1 of this title shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in section 2012(t)(1) 1 of this title) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in section 2012(t)(2) 1 of this title is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim)) 1 and similar Acts of Congress, the tribal organization’s management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to section 2012(t)(2) 1 of this title. A State agency, as defined in section 2012(t)(1) 1 of this title, before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State’s plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
+**(d) Plan of operation by State agency; approval by Secretary; Indians** The State agency (as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim)) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim) shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim)) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in [section 2012(s)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/2&num=0&edition=prelim) is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim)) 1 and similar Acts of Congress, the tribal organization’s management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to [section 2012(s)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/2&num=0&edition=prelim). A State agency, as defined in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim), before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State’s plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
 
 **(e) Requisites of State plan of operation** The State plan of operation required under subsection (d) of this section shall provide, among such other provisions as may be required by regulation—
 
@@ -3823,7 +4162,7 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
 (16) at the option of the State agency, for the establishment and operation of an automatic data processing and information retrieval system that meets such conditions as the Secretary may prescribe and that is designed to provide efficient and effective administration of the supplemental nutrition assistance program;
 
-(17) at the option of the State agency, that information may be requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1137 of the Social Security Act [[42 U.S.C. 1320b–7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–7&num=0&edition=prelim)] and that any additional information available from agencies administering State unemployment compensation laws under the provisions of section 303(d) of the Social Security Act [[42 U.S.C. 503(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section503/d&num=0&edition=prelim)] may be requested and utilized by the State agency described in section 2012(t)(1) 1 of this title to the extent permitted under the provisions of section 303(d) of the Social Security Act;
+(17) at the option of the State agency, that information may be requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1137 of the Social Security Act [[42 U.S.C. 1320b–7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–7&num=0&edition=prelim)] and that any additional information available from agencies administering State unemployment compensation laws under the provisions of section 303(d) of the Social Security Act [[42 U.S.C. 503(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section503/d&num=0&edition=prelim)] may be requested and utilized by the State agency described in [section 2012(s)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/s/1&num=0&edition=prelim) to the extent permitted under the provisions of section 303(d) of the Social Security Act;
 
 (18) that the State agency shall establish a system and take action on a periodic basis—
 
@@ -3835,7 +4174,7 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
     (ii) a State agency that obtains in­formation collected under section 1611(e)(1)(I)(i)(I) of the Social Security Act ([42 U.S.C. 1382(e)(1)(I)(i)(I)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382/e/1/I/i/I&num=0&edition=prelim)) pursuant to section 1611(e)(1)(I)(ii)(II) of that Act ([42 U.S.C. 1382(e)(1)(I)(ii)(II)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382/e/1/I/ii/II&num=0&edition=prelim)), or under another program determined by the Secretary to be comparable to the program carried out under that section, shall be considered in compliance with this subparagraph.
 
-(19) the plans of the State agency for carrying out employment and training programs under [section 2015(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/4&num=0&edition=prelim), including the nature and extent of such programs, the geographic areas and households to be covered under such program, and the basis, including any cost information, for exemptions of categories and individuals and for the choice of employment and training program components reflected in the plans;
+(19) the plans of the State agency for carrying out employment and training programs under [section 2015(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/4&num=0&edition=prelim), including the nature and extent of such programs, the geographic areas and households to be covered under such program, the extent to which such programs will be carried out in coordination with the activities carried out under title I of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.), and the basis, including any cost information, for exemptions of categories and individuals and for the choice of employment and training program components reflected in the plans;
 
 (20) in a project area in which 5,000 or more households participate in the supplemental nutrition assistance program, for the establishment and operation of a unit for the detection of fraud in the supplemental nutrition assistance program, including the investigation, and assistance in the prosecution, of such fraud;
 
@@ -3843,7 +4182,7 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
 (22) the guidelines the State agency uses in carrying out [section 2015(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/i&num=0&edition=prelim);
 
-(23) if a State elects to carry out a Simplified Supplemental Nutrition Assistance Program under [section 2035 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2035), the plans of the State agency for operating the program, including—
+(23) if a State elects to carry out a simplified supplemental nutrition assistance program under [section 2035 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2035), the plans of the State agency for operating the program, including—
 
   (A) the rules and procedures to be followed by the State agency to determine supplemental nutrition assistance program benefits;
 
@@ -3851,7 +4190,7 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
   (C) a description of the method by which the State agency will carry out a quality control system under [section 2025(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c&num=0&edition=prelim);
 
-(24) that the State agency shall request wage data directly from the National Directory of New Hires established under section 453(i) of the Social Security Act ([42 U.S.C. 653(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653/i&num=0&edition=prelim)) relevant to determining eligibility to receive supplemental nutrition assistance program benefits and determining the correct amount of those benefits at the time of certification; and
+(24) that the State agency shall request wage data directly from the National Directory of New Hires established under section 453(i) of the Social Security Act ([42 U.S.C. 653(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653/i&num=0&edition=prelim)) relevant to determining eligibility to receive supplemental nutrition assistance program benefits and determining the correct amount of those benefits at the time of certification;
 
 (25) if the State elects to carry out a program to contract with private establishments to offer meals at concessional prices, as described in paragraphs (3), (4), and (9) of [section 2012(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/k&num=0&edition=prelim)—
 
@@ -3867,7 +4206,19 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
     (i) the number of households and individual recipients authorized to participate in the program, including any information on whether the individual recipient is elderly, disabled, or homeless; and
 
-    (ii) an assessment of whether the program is meeting an established need, as documented under subparagraph (A)(i).
+    (ii) an assessment of whether the program is meeting an established need, as documented under subparagraph (A)(i); and
+
+(26) that for a household participating in the supplemental nutrition assistance program, the State agency shall pursue clarification and verification, if applicable, of information relating to the circumstances of the household received from data matches for the purpose of ensuring an accurate eligibility and benefit determination, only if the information—
+
+  (A) appears to present significantly conflicting information from the information that was used by the State agency at the time of certification of the household;
+
+  (B) is obtained from data matches carried out under subsection (q), (r), or (x); or
+
+  (C)
+
+    (i) is less than 60 days old relative to the current month of participation of the household; and
+
+    (ii) if accurate, would have been required to be reported by the household based on the reporting requirements assigned to the household by the State agency under [section 2015(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/c&num=0&edition=prelim).
 
 **(f) Repealed. Pub. L. 111–296, title II, § 241(b)(2), Dec. 13, 2010, 124 Stat. 3236**
 
@@ -3967,33 +4318,17 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
   (B) *Determination of allotment* — If a household applies for recertification under subparagraph (A), the allotment of the household for all subsequent months shall be determined without regard to this subsection.
 
-**(t) Grants for simple application and eligibility determination systems and improved access to benefits**
+**(t) Grants for simplified application and eligibility determination systems and improved access to benefits**
 
-(1) **In general** — Subject to the availability of appropriations under [section 2027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a&num=0&edition=prelim), for each fiscal year, the Secretary shall use not more than $5,000,000 of funds made available under [section 2027(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a/1&num=0&edition=prelim) to make grants to pay 100 percent of the costs of eligible entities approved by the Secretary to carry out projects to develop and implement—
-
-  (A) simple supplemental nutrition assistance program application and eligibility determination systems; or
-
-  (B) measures to improve access to supplemental nutrition assistance program benefits by eligible households.
+(1) **In general** — Subject to the availability of appropriations under [section 2027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a&num=0&edition=prelim), for each fiscal year, the Secretary shall use not more than $5,000,000 of funds made available under [section 2027(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a/1&num=0&edition=prelim) to make grants to pay 100 percent of the costs of eligible entities approved by the Secretary to carry out projects to develop and implement supplemental nutrition assistance program simplified application and eligibility determination systems.
 
 (2) **Types of projects** — A project under paragraph (1) may consist of—
 
   (A) coordinating application and eligibility determination processes, including verification practices, under the supplemental nutrition assistance program and other Federal, State, and local assistance programs;
 
-  (B) establishing methods for applying for benefits and determining eligibility that—
+  (B) establishing enhanced technological methods that improve the administrative infrastructure used in processing applications and determining eligibility; or
 
-    (i) more extensively use—
-
-      (I) communications by telephone; and
-
-      (II) electronic alternatives such as the Internet; or
-
-    (ii) otherwise improve the administrative infrastructure used in processing applications and determining eligibility;
-
-  (C) developing procedures, training materials, and other resources aimed at reducing barriers to participation and reaching eligible households;
-
-  (D) improving methods for informing and enrolling eligible households; or
-
-  (E) carrying out such other activities as the Secretary determines to be appropriate.
+  (C) carrying out such other activities as the Secretary determines to be appropriate.
 
 (3) **Limitation** — A grant under this subsection shall not be made for the ongoing cost of carrying out any project.
 
@@ -4049,11 +4384,51 @@ Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the 
 
 (3) **Rules of construction** — Nothing in this subsection requires a change to existing data exchange standards for Federal reporting found to be effective and efficient.
 
+**(w) Advice regarding employment and training services** For households containing at least one adult, with no elderly or disabled members and with no earned income at their last certification or required report, a State agency shall, at the time of recertification, be required to advise members of the household not exempt under [section 2015(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/2&num=0&edition=prelim) regarding available employment and training services.
+
+**(x) National Accuracy Clearinghouse**
+
+(1) **Definition of indication of multiple issuance** — In this subsection, the term “indication of multiple issuance” means an indication, based on a computer match, that supplemental nutrition assistance program benefits are being issued to an individual by more than 1 State agency simultaneously.
+
+(2) **Establishment**
+
+  (A) *In general* — The Secretary shall establish an interstate data system, to be known as the “National Accuracy Clearinghouse”, to prevent multiple issuances of supplemental nutrition assistance program benefits to an individual by more than 1 State agency simultaneously.
+
+  (B) *Data matching* — The Secretary shall require that State agencies make available to the National Accuracy Clearinghouse only such information as is necessary for the purpose described in subparagraph (A).
+
+  (C) *Data protection* — The information made available by State agencies under subparagraph (B)—
+
+    (i) shall be used only for the purpose described in subparagraph (A);
+
+    (ii) shall be exempt from the disclosure requirements of [section 552(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/a&num=0&edition=prelim) pursuant to [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim), to the extent such information is obtained or received by the Secretary;
+
+    (iii) shall not be retained for longer than is necessary to accomplish the purpose in subparagraph (A);
+
+    (iv) shall be used in a manner that protects the identity and location of a vulnerable individual (including a victim of domestic violence) that is an applicant for, or recipient of, supplemental nutrition assistance program benefits; and
+
+    (v) shall meet security standards as determined by the Secretary.
+
+(3) **Issuance of interim final regulations** — Not later than 18 months after December 20, 2018, the Secretary shall promulgate regulations (which shall include interim final regulations) to carry out this subsection that—
+
+  (A) incorporate best practices and lessons learned from the pilot program under [section 2036c(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2036c/c&num=0&edition=prelim);
+
+  (B) require a State agency to take appropriate action, as determined by the Secretary, with respect to each indication of multiple issuance of supplemental nutrition assistance program benefits, or each indication that an individual receiving such benefits in 1 State has applied to receive such benefits in another State, while ensuring timely and fair service to applicants for, and recipients of, such benefits;
+
+  (C) establish standards to limit and protect the information submitted through or retained by the National Accuracy Clearinghouse consistent with paragraph (2)(C);
+
+  (D) establish safeguards to protect—
+
+    (i) the information submitted through or retained by the National Accuracy Clearinghouse, including by limiting the period of time that information is retained to the period necessary to accomplish the purpose described in paragraph (2)(A); and
+
+    (ii) the privacy of information that is submitted through or retained by the National Accuracy Clearinghouse consistent with subsection (e)(8); and
+
+  (E) include such other rules and standards the Secretary determines appropriate to carry out this subsection.
+
+(4) **Timing** — The initial match and corresponding actions required by paragraph (3)(B) shall occur within 3 years after December 20, 2018.
+
 ### Statutory Notes
 
 #### References in Text
-Subsec. (t) of [section 2012 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2012), referred to in subsecs. (a)(2), (d), and (e)(17), was redesignated as subsec. (s) by Pub. L. 113–79, title IV, § 4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
-
 The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(A), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6101&num=0&edition=prelim) and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (c)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
@@ -4063,6 +4438,8 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(2)(D), is Pub. L. 88–
 The Indian Self-Determination Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim)), referred to in subsec. (d), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians, prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 The Immigration and Nationality Act, referred to in subsec. (e)(15), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+
+The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(19), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 113–128, set out as a Short Title note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (o)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -4076,6 +4453,50 @@ The Child Nutrition Act of 1966, referred to in subsec. (u)(2)(A), is Pub. L. 89
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+Subsec. (a)(2). Pub. L. 115–334, § 4022(5)(A), substituted “2012(s)(1)” for “2012(t)(1)”.
+
+Subsec. (a)(3)(B). Pub. L. 115–334, § 4013(a)(1), substituted “All records, and the entire information systems in which records are contained, that are covered” for “Records described” in introductory provisions.
+
+Subsec. (a)(3)(B)(i). Pub. L. 115–334, § 4013(a)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “be available for inspection and audit at any reasonable time;”.
+
+Subsec. (d). Pub. L. 115–334, § 4022(5)(B), substituted “2012(s)(1)” for “2012(t)(1)” wherever appearing and “2012(s)(2)” for “2012(t)(2)” in two places.
+
+Subsec. (e)(17). Pub. L. 115–334, § 4022(5)(C)(i), substituted “2012(s)(1)” for “2012(t)(1)”.
+
+Subsec. (e)(19). Pub. L. 115–334, § 4005(c)(1), inserted “the extent to which such programs will be carried out in coordination with the activities carried out under title I of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.),” before “and the basis,”.
+
+Subsec. (e)(23). Pub. L. 115–334, § 4022(5)(C)(ii), substituted “simplified supplemental nutrition assistance program” for “Simplified Supplemental Nutrition Assistance Program” in introductory provisions.
+
+Subsec. (e)(26). Pub. L. 115–334, § 4009, added par. (26).
+
+Subsec. (t). Pub. L. 115–334, § 4010(1), substituted “simplified application” for “simple application” in heading.
+
+Subsec. (t)(1). Pub. L. 115–334, § 4010(2), substituted “implement supplemental nutrition assistance program simplified application and eligibility determination systems” for “implement—
+
+“(A) simple supplemental nutrition assistance program application and eligibility determination systems; or
+
+“(B) measures to improve access to supplemental nutrition assistance program benefits by eligible households”.
+
+Subsec. (t)(2)(B). Pub. L. 115–334, § 4010(3)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “establishing methods for applying for benefits and determining eligibility that—
+
+“(i) more extensively use—
+
+“(I) communications by telephone; and
+
+“(II) electronic alternatives such as the Internet; or
+
+“(ii) otherwise improve the administrative infrastructure used in processing applications and determining eligibility;”.
+
+Subsec. (t)(2)(C) to (E). Pub. L. 115–334, § 4010(3)(B), (C), redesignated subpar. (E) as (C) and struck out former subpars. (C) and (D) which read as follows:
+
+“(C) developing procedures, training materials, and other resources aimed at reducing barriers to participation and reaching eligible households;
+
+“(D) improving methods for informing and enrolling eligible households; or”.
+
+Subsec. (w). Pub. L. 115–334, § 4005(c)(2), added subsec. (w).
+
+Subsec. (x). Pub. L. 115–334, § 4011, added subsec. (x).
+
 Subsec. (e)(3). Pub. L. 113–79, § 4013(1), inserted “and after compliance with the requirement specified in paragraph (24)” after “[section 2025(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/e&num=0&edition=prelim)”.
 
 Subsec. (e)(24). Pub. L. 113–79, § 4013(2)–(4), added par. (24).
@@ -5001,6 +5422,8 @@ Amendment by Pub. L. 92–603 effective Jan. 1, 1973, see section 411(h) of Pub.
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 substituted “exchange for benefits, or anything” for “exchange for coupons, authorization cards or access devices, or anything”.
+
 2014—Subsec. (b)(1). Pub. L. 113–79 substituted “a benefit” for “an benefit” in two places.
 
 2008—Subsec. (a). Pub. L. 110–246, § 4115(b)(10)(A), substituted “benefits” for “coupons”.
@@ -5015,7 +5438,7 @@ Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance 
 
 Subsec. (d). Pub. L. 110–246, § 4115(b)(10)(D), substituted “Benefits” for “Coupons”.
 
-Subsec. (e). Pub. L. 110–246, § 4115(b)(10)(G), which directed amendment of subsec. (e) by substituting “benefits” for “coupon, authorization cards or access devices”, was executed by making the substitution for “coupons, authorization cards or access devices”, to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 110–246, § 4115(b)(10)(G), which directed amendment of subsec. (e) by substituting “benefits” for “coupon, authorization cards or access devices”, could not be executed because the phrase “coupon, authorization cards or access devices” did not appear.
 
 Pub. L. 110–246, § 4115(b)(10)(E), (F), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of failing to provide the report required under [section 2016(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/d&num=0&edition=prelim) or of violating the regulations issued under section 2016(d) and (e) of this title shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
 
@@ -5061,7 +5484,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
 <a id="section-2025"></a>
 ## § 2025. Administrative cost-sharing and quality control
-**(a) Administrative costs** Subject to subsection (k), the Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency’s operation of the supplemental nutrition assistance program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of benefits after their delivery to receiving points within the State, (3) the issuance of benefits to all eligible households, (4) informational activities relating to the supplemental nutrition assistance program, including those undertaken under [section 2020(e)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/e/1/A&num=0&edition=prelim), but not including recruitment activities designed to persuade an individual to apply for program benefits or that promote the program through television, radio, or billboard advertisements, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g), (7) supplemental nutrition assistance program investigations and prosecutions, and (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act ([42 U.S.C. 1320b–7(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–7/d&num=0&edition=prelim)): Provided, That the Secretary is authorized at the Secretary’s discretion to pay any State agency administering the supplemental nutrition assistance program on all or part of an Indian reservation under [section 2020(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/d&num=0&edition=prelim) or in a Native village within the State of Alaska identified in [section 1610(b) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1610/b&num=0&edition=prelim), such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the supplemental nutrition assistance program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
+**(a) Administrative costs** Subject to subsection (k), the Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency’s operation of the supplemental nutrition assistance program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of benefits after their delivery to receiving points within the State, (3) the issuance of benefits to all eligible households, (4) informational activities relating to the supplemental nutrition assistance program, including those undertaken under [section 2020(e)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/e/1/A&num=0&edition=prelim), but not including recruitment activities designed to persuade an individual to apply for program benefits or that promote the program through television, radio, or billboard advertisements, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g), (7) supplemental nutrition assistance program investigations and prosecutions, (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act ([42 U.S.C. 1320b–7(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–7/d&num=0&edition=prelim)), and (9) establishing and operating a longitudinal database in accordance with [section 2026(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2026/n&num=0&edition=prelim): Provided, That the Secretary is authorized at the Secretary’s discretion to pay any State agency administering the supplemental nutrition assistance program on all or part of an Indian reservation under [section 2020(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/d&num=0&edition=prelim) or in a Native village within the State of Alaska identified in [section 1610(b) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1610/b&num=0&edition=prelim), such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the supplemental nutrition assistance program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
 
 **(b) Work supplementation or support program**
 
@@ -5103,11 +5526,19 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
       (II) for each fiscal year thereafter, the amount specified in subclause (I) adjusted by the percentage by which the thrifty food plan is adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) between June 30, 2013, and June 30 of the immediately preceding fiscal year.
 
-  (B) *Adjustment of Federal share of administrative costs for fiscal years before fiscal year 2003*
+  (B) *Quality control system integrity*
 
-    (i) *In general* — Subject to clause (ii), with respect to any fiscal year before fiscal year 2003, the Secretary shall adjust a State agency’s federally funded share of administrative costs under subsection (a), other than the costs already shared in excess of 50 percent under the proviso in the first sentence of subsection (a) or under subsection (g), by increasing that share of all such administrative costs by 1 percentage point to a maximum of 60 percent of all such administrative costs for each full ⅒ of a percentage point by which the payment error rate is less than 6 percent.
+    (i) *In general* — Not later than 180 days after December 20, 2018, the Secretary shall issue interim final regulations that—
 
-    (ii) *Limitation* — Only States with a rate of invalid decisions in denying eligibility that is less than a nationwide percentage that the Secretary determines to be reasonable shall be entitled to the adjustment under clause (i).
+      (I) ensure that the quality control system established under this subsection produces valid statistical results;
+
+      (II) provide for oversight of contracts entered into by a State agency for the purpose of improving payment accuracy;
+
+      (III) ensure the accuracy of data collected under the quality control system established under this subsection; and
+
+      (IV) for each fiscal year, to the maximum extent practicable, provide for the evaluation of the integrity of the quality control process of not fewer than 2 State agencies, selected in accordance with criteria determined by the Secretary.
+
+    (ii) *Debarment* — In accordance with the nonprocurement debarment procedures under part 417 of title 2, Code of Federal Regulations, or successor regulations, the Secretary shall debar any person that, in carrying out the quality control system established under this subsection, knowingly submits, or causes to be submitted, false information to the Secretary.
 
   (C) *Establishment of liability amount for fiscal year 2003 and thereafter* — With respect to fiscal year 2004 and any fiscal year thereafter for which the Secretary determines that, for the second or subsequent consecutive fiscal year, a 95 percent statistical probability exists that the payment error rate of a State agency exceeds 105 percent of the national performance measure for payment error rates announced under paragraph (6), the Secretary shall establish an amount for which the State agency may be liable (referred to in this paragraph as the “liability amount”) that is equal to the product obtained by multiplying—
 
@@ -5181,7 +5612,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
   (B) Errors resulting from the use by a State agency of correctly processed information concerning households or individuals received from Federal agencies or from actions based on policy information approved or disseminated, in writing, by the Secretary or the Secretary’s designee.
 
-(4) **Reporting requirements** — The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency’s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d). If a State agency fails to meet the reporting requirements established by the Secretary, the Secretary shall base the determination on all pertinent information available to the Secretary.
+(4) **Reporting requirements** — The Secretary may require a State agency to report any factors that the Secretary considers necessary, including providing access to applicable State records and the entire information systems in which the records are contained, to determine a State agency’s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d). If a State agency fails to meet the reporting requirements established by the Secretary, the Secretary shall base the determination on all pertinent information available to the Secretary.
 
 (5) **Procedures** — To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency’s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d). The Secretary shall initiate efforts to collect the amount owed by the State agency as a claim established under paragraph (1) for a fiscal year, subject to the conclusion of any formal or informal appeal procedure and administrative or judicial review under [section 2023 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2023) (as provided for in paragraph (7)), before the end of the fiscal year following such fiscal year.
 
@@ -5249,7 +5680,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
   (E) a significant circumstance beyond the control of the State agency.
 
-**(d) Bonuses for States that demonstrate high or most improved performance**
+**(d) State performance indicators**
 
 (1) **Fiscal years 2003 and 2004**
 
@@ -5269,9 +5700,9 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
     (ii) subject to paragraph (3), award performance bonus payments in the following fiscal year, in a total amount of $48,000,000 for each fiscal year, to State agencies that meet standards for high or most improved performance established by the Secretary under subparagraph (A)(ii).
 
-(2) **Fiscal years 2005 and thereafter**
+(2) **Fiscal years 2005 through 2017**
 
-  (A) *Regulations* — With respect to fiscal year 2005 and each fiscal year thereafter, the Secretary shall—
+  (A) *Regulations* — With respect to fiscal year 2005 through fiscal year 2017, the Secretary shall—
 
     (i) establish, by regulation, performance criteria relating to—
 
@@ -5283,7 +5714,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
     (iii) before issuing proposed regulations to carry out clauses (i) and (ii), solicit ideas for performance criteria and standards for high and most improved performance from State agencies and organizations that represent State interests.
 
-  (B) *Performance bonus payments* — With respect to fiscal year 2005 and each fiscal year thereafter, the Secretary shall—
+  (B) *Performance bonus payments* — With respect to fiscal year 2005 through fiscal year 2017, the Secretary shall—
 
     (i) measure the performance of each State agency with respect to the criteria established under subparagraph (A)(i); and
 
@@ -5301,29 +5732,51 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
   (C) actions to prevent fraud, waste, and abuse.
 
+(6) **Fiscal year 2018 and fiscal years thereafter**
+
+  (A) With respect to fiscal year 2018 and each fiscal year thereafter, the Secretary shall establish, by regulation, performance criteria relating to—
+
+    (i) actions taken to correct errors, reduce rates of error, and improve eligibility determinations; and
+
+    (ii) other indicators of effective administration determined by the Secretary.
+
+  (B) The Secretary shall not award performance bonus payments to State agencies in fiscal year 2019 for fiscal year 2018 performance.
+
 **(e) Use of social security account numbers; access to information** The Secretary and State agencies shall (1) require, as a condition of eligibility for participation in the supplemental nutrition assistance program, that each household member furnish to the State agency their social security account number (or numbers, if they have more than one number), and (2) use such account numbers in the administration of the supplemental nutrition assistance program. The Secretary and State agencies shall have access to the information regarding individual supplemental nutrition assistance program applicants and participants who receive benefits under title XVI of the Social Security Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.] that has been provided to the Commissioner of Social Security, but only to the extent that the Secretary and the Commissioner of Social Security determine necessary for purposes of determining or auditing a household’s eligibility to receive assistance or the amount thereof under the supplemental nutrition assistance program, or verifying information related thereto.
 
 **(f) Payment of certain legal fees** Notwithstanding any other provision of law, counsel may be employed and counsel fees, court costs, bail, and other expenses incidental to the defense of officers and employees of the Department of Agriculture may be paid in judicial or administrative proceedings to which such officers and employees have been made parties and that arise directly out of their performance of duties under this chapter.
 
 **(g) Cost sharing for computerization**
 
-(1) **In general** — Except as provided in paragraphs (2) and (3), the Secretary is authorized to pay to each State agency the amount provided under subsection (a)(6) for the costs incurred by the State agency in the planning, design, development, or installation of 1 or more automatic data processing and information retrieval systems that the Secretary determines—
+(1) **In general** — Except as provided in paragraph (2), the Secretary is authorized to pay to each State agency the amount provided under subsection (a)(6) for the costs incurred by the State agency in the—
 
-  (A) would assist in meeting the requirements of this chapter;
+  (A) planning, design, development, or installation of 1 or more automatic data processing and information retrieval systems that the Secretary determines—
 
-  (B) meet such conditions as the Secretary prescribes;
+    (i) would assist in meeting the requirements of this chapter;
 
-  (C) are likely to provide more efficient and effective administration of the supplemental nutrition assistance program;
+    (ii) meet such conditions as the Secretary prescribes;
 
-  (D) would be compatible with other systems used in the administration of State programs, including the program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.);
+    (iii) are likely to provide more efficient and effective administration of the supplemental nutrition assistance program;
 
-  (E) would be tested adequately before and after implementation, including through pilot projects in limited areas for major systems changes as determined under rules promulgated by the Secretary, data from which shall be thoroughly evaluated before the Secretary approves the system to be implemented more broadly; and
+    (iv) would be compatible with other systems used in the administration of State programs, including the program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.);
 
-  (F) would be operated in accordance with an adequate plan for—
+    (v) would be tested adequately before and after implementation, including a requirement that—
 
-    (i) continuous updating to reflect changed policy and circumstances; and
+      (I) such testing shall be accomplished through pilot projects in limited areas for major systems changes (as determined under rules promulgated by the Secretary);
 
-    (ii) testing the effect of the system on access for eligible households and on payment accuracy.
+      (II) each pilot project described in subclause (I) that is carried out before the implementation of a system shall be conducted in a live-production environment; and
+
+      (III) the data resulting from each pilot project carried out under this clause shall be thoroughly evaluated before the Secretary approves the system to be implemented more broadly;
+
+    (vi) would be operated in accordance with an adequate plan for—
+
+      (I) continuous updating to reflect changed policy and circumstances; and
+
+      (II) testing the effect of the system on access for eligible households and on payment accuracy; and
+
+    (vii) would be accessible by the Secretary for inspection and audit under [section 2020(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/a/3/B&num=0&edition=prelim); and
+
+  (B) operation of 1 or more automatic data processing and information retrieval systems that the Secretary determines may continue to be operated in accordance with clauses (i) through (vii) of subparagraph (A).
 
 (2) **Limitation** — The Secretary shall not make payments to a State agency under paragraph (1) to the extent that the State agency—
 
@@ -5335,7 +5788,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
 (1) **In general.—**
 
-  (A) *Amounts.—* — To carry out employment and training programs, the Secretary shall reserve for allocation to State agencies, to remain available for 24 months, from funds made available for each fiscal year under [section 2027(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a/1&num=0&edition=prelim), $90,000,000 for each fiscal year.
+  (A) *Amounts.—* — To carry out employment and training programs, the Secretary shall reserve for allocation to State agencies, to remain available for 24 months, from funds made available for each fiscal year under [section 2027(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a/1&num=0&edition=prelim), $103,900,000 for each fiscal year.
 
   (B) *Allocation.—* — Funds made available under subparagraph (A) shall be made available to and reallocated among State agencies under a reasonable formula that—
 
@@ -5345,13 +5798,47 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
   (C) *Reallocation.—*
 
-    (i) *In general.—* — If a State agency will not expend all of the funds allocated to the State agency for a fiscal year under subparagraph (B), the Secretary shall reallocate the unexpended funds to other States (during the fiscal year or the subsequent fiscal year) as the Secretary considers appropriate and equitable.
+    (i) *In general.—* — If a State agency will not expend all of the funds allocated to the State agency for a fiscal year under subparagraph (B), the Secretary, subject to clauses (ii) through (v), shall reallocate the unexpended funds to other States (during the fiscal year or the subsequent fiscal year) as the Secretary considers appropriate and equitable.
 
     (ii) *Timing.—* — The Secretary shall collect such information as the Secretary determines to be necessary about the expenditures and anticipated expenditures by the State agencies of the funds initially allocated to the State agencies under subparagraph (A) to make reallocations of unexpended funds under clause (i) within a timeframe that allows each State agency to which funds are reallocated at least 270 days to expend the reallocated funds.
 
     (iii) *Opportunity.—* — The Secretary shall ensure that all State agencies have an opportunity to obtain reallocated funds.
 
-  (D) *Minimum allocation.—* — Notwithstanding subparagraph (B), the Secretary shall ensure that each State agency operating an employment and training program shall receive not less than $50,000 for each fiscal year.
+    (iv) *Priority.—* — The Secretary shall reallocate funds under this subparagraph as follows:
+
+      (I)
+
+        (aa) Subject to items (bb) and (cc), not less than 50 percent shall be reallocated to State agencies requesting such funds to conduct employment and training programs and activities for which such State agencies had previously received funding under subparagraph (F)(viii) that the Secretary determines have the most demonstrable impact on the ability of participants to find and retain employment that leads to increased household income and reduced reliance on public assistance.
+
+        (bb) The Secretary shall base the determination under item (aa) on—
+
+          (AA) project results from the independent evaluations conducted under subparagraph (F)(vii)(I); or
+
+          (BB) if the project results from the independent evaluations conducted under subparagraph (F)(vii)(I) are not yet available, the reports under subparagraph (F)(vii)(II) or other information relating to performance of the programs and activities funded under subparagraph (F)(viii).
+
+        (cc) Employment and training activities funded under this subclause are not subject to subparagraph (F)(vii), but are subject to monitoring under paragraph (h)(5).
+
+      (II) Not less than 30 percent shall be reallocated to State agencies requesting such funds to implement or continue employment and training programs and activities under [section 2015(d)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/4/B/i&num=0&edition=prelim) that the Secretary determines have the most demonstrable impact on the ability of participants to find and retain employment that leads to increased household income and reduced reliance on public assistance, including programs and activities that are targeted to—
+
+        (aa) individuals 50 years of age or older;
+
+        (bb) formerly incarcerated individuals;
+
+        (cc) individuals participating in a substance abuse treatment program;
+
+        (dd) homeless individuals;
+
+        (ee) people with disabilities seeking to enter the workforce;
+
+        (ff) other individuals with substantial barriers to employment; or
+
+        (gg) households facing multi-generational poverty, to support employment and workforce participation through an integrated and family-focused approach in providing supportive services.
+
+      (III) The Secretary shall reallocate any remaining funds available under this subparagraph, to State agencies requesting such funds to use for employment and training programs and activities that the Secretary determines have the most demonstrable impact on the ability of participants to find and retain employment that leads to increased household income and reduced reliance on public assistance under [section 2015(d)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/4/B/i&num=0&edition=prelim).
+
+    (v) *Consideration.—* — In reallocating funds under this subparagraph, a State agency that receives reallocated funds under clause (iv)(I) may also be considered for reallocated funding under clause (iv)(II).
+
+  (D) *Minimum allocation.—* — Notwithstanding subparagraph (B), the Secretary shall ensure that each State agency operating an employment and training program shall receive not less than $100,000 for each fiscal year.
 
   (E) *Additional allocations for states that ensure availability of work opportunities.—*
 
@@ -5619,6 +6106,8 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
       (V) other indicators approved by the Secretary.
 
+    (v) *State option.—* — The State agency may report relevant data from a workforce partnership carried out under [section 2015(d)(4)(N) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/4/N&num=0&edition=prelim) to demonstrate the number of program participants served by the workforce partnership.
+
   (C) *Oversight of state employment and training activities.—* — The Secretary shall assess State employment and training programs on a periodic basis to ensure—
 
     (i) compliance with Federal employment and training program rules and regulations;
@@ -5744,7 +6233,43 @@ The Social Security Act, referred to in subsecs. (e), (g)(1)(D), (h)(1)(F)(i)(I)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2014—Subsec. (a). Pub. L. 113–79, § 4030(i), made technical amendment to reference in original act which was executed in text by striking out period after “[section 1610(b) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1610/b&num=0&edition=prelim)” in proviso following par. (8).
+2018—Subsec. (a). Pub. L. 115–334, § 4015(b), in first sentence substituted “(8)” for “and (8)” and added cl. (9).
+
+Subsec. (c)(1)(B). Pub. L. 115–334, § 4013(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to adjustment of Federal share of administrative costs for fiscal years before fiscal year 2003.
+
+Subsec. (c)(4). Pub. L. 115–334, § 4013(c), inserted “, including providing access to applicable State records and the entire information systems in which the records are contained,” after “the Secretary considers necessary”.
+
+Subsec. (d). Pub. L. 115–334, § 4013(d)(1), substituted “State performance indicators” for “Bonuses for States that demonstrate high or most improved performance” in heading.
+
+Subsec. (d)(2). Pub. L. 115–334, § 4013(d)(2)(A), substituted “through 2017” for “and thereafter” in heading.
+
+Subsec. (d)(2)(A), (B). Pub. L. 115–334, § 4013(d)(2)(B), (C), substituted “through fiscal year 2017” for “and each fiscal year thereafter” in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 115–334, § 4013(d)(3), added par. (6).
+
+Subsec. (g)(1). Pub. L. 115–334, § 4012(2), (3), in introductory provisions, substituted “paragraph (2)” for “paragraphs (2) and (3)”, substituted “in the—” for “in the”, and inserted subpar. (A) designation before “planning”, and redesignated subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) as so designated.
+
+Subsec. (g)(1)(A)(v). Pub. L. 115–334, § 4012(2), (4), redesignated subsec. (g)(1)(E) as cl. (v) of subsec. (g)(1)(A) and substituted “, including a requirement that—”, subcls. (I) and (II), and “(III) the data resulting from each pilot project carried out under this clause” for “, including through pilot projects in limited areas for major systems changes as determined under rules promulgated by the Secretary, data from which”.
+
+Subsec. (g)(1)(A)(vi). Pub. L. 115–334, § 4012(1), (2), redesignated subsec. (g)(1)(F) as cl. (vi) of subsec. (g)(1)(A) and cls. (i) and (ii) of former subpar. (F) as subcls. (I) and (II), respectively, of cl. (vi).
+
+Subsec. (g)(1)(A)(vii). Pub. L. 115–334, §§ 4012(5), 4013(e), added cl. (vii).
+
+Subsec. (g)(1)(B). Pub. L. 115–334, § 4012(2), (6), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subsec. (g)(1)(A).
+
+Subsec. (g)(1)(C) to (F). Pub. L. 115–334, § 4012(2), redesignated subpars. (C) to (F) as cls. (iii) to (vi), respectively, of subsec. (g)(1)(A).
+
+Subsec. (h)(1)(A). Pub. L. 115–334, § 4005(d)(1)(A), substituted “$103,900,000” for “$90,000,000”.
+
+Subsec. (h)(1)(C)(i). Pub. L. 115–334, § 4005(d)(1)(B)(i), inserted “, subject to clauses (ii) through (v),” before “shall reallocate”.
+
+Subsec. (h)(1)(C)(iv), (v). Pub. L. 115–334, § 4005(d)(1)(B)(ii), added cls. (iv) and (v).
+
+Subsec. (h)(1)(D). Pub. L. 115–334, § 4005(d)(1)(C), substituted “$100,000” for “$50,000”.
+
+Subsec. (h)(5)(B)(v). Pub. L. 115–334, § 4005(d)(2), added cl. (v).
+
+2014—Subsec. (a). Pub. L. 113–79, § 4030(i), made technical amendment to reference in original act which was executed in text by striking out period after “[section 1610(b) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1610/b&num=0&edition=prelim)” in proviso following cl. (8).
 
 Subsec. (a)(4). Pub. L. 113–79, § 4018(a), inserted “designed to persuade an individual to apply for program benefits or that promote the program through television, radio, or billboard advertisements” after “recruitment activities”.
 
@@ -6156,7 +6681,7 @@ Pub. L. 99–198, title XV, § 1538, Dec. 23, 1985, 99 Stat. 1587, as amended by
 
       (III) is inconsistent with—
 
-        (aa) paragraphs (4) and (5) of section 2012(n) 11 See References in Text note below. of this title;
+        (aa) paragraphs (4) and (5) of [section 2012(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/m&num=0&edition=prelim);
 
         (bb) the last sentence of [section 2014(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014/a&num=0&edition=prelim), insofar as a waiver denies assistance to an otherwise eligible household or individual if the household or individual has not failed to comply with any work, behavioral, or other conduct requirement under this or another program;
 
@@ -6218,13 +6743,11 @@ Pub. L. 99–198, title XV, § 1538, Dec. 23, 1985, 99 Stat. 1587, as amended by
 
     (iii) *Notice of denial.—* — On denial of a waiver request under clause (i)(III), the Secretary shall provide a copy of the waiver request and a description of the reasons for the denial to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(2) The Secretary shall, jointly with the Secretary of Labor, implement two pilot projects involving the performance of work in return for supplemental nutrition assistance program benefits in each of the seven administrative regions of the Food and Nutrition Service of the Department of Agriculture, such projects to be (A) appropriately divided in each region between locations that are urban and rural in characteristics and among locations selected to provide a representative cross-section of political subdivisions in the States and (B) submitted for approval prior to project implementation, together with the names of the agencies or organizations that will be engaged in such projects, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. Under such pilot projects, any person who is subject to the work registration requirements pursuant to [section 2015(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d&num=0&edition=prelim), and is a member of a household that does not have earned income equal to or exceeding the allotment to which the household is otherwise entitled pursuant to [section 2017(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2017/a&num=0&edition=prelim), shall be ineligible to participate in the supplemental nutrition assistance program as a member of any household during any month in which such person refuses, after not being offered employment in the private sector of the economy for more than thirty days (ten days in at least one pilot project area designated by the Secretary) after the initial registration for employment referred to in [section 2015(d)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/1/A/i&num=0&edition=prelim), to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.], for which employment compensation shall be paid in the form of the allotment to which the household is otherwise entitled pursuant to [section 2017(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2017/a&num=0&edition=prelim), with each hour of employment entitling the household to a portion of the allotment equal in value to 100 per centum of the Federal minimum hourly rate under the Fair Labor Standards Act of 1938, as amended ([29 U.S.C. 206(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/1&num=0&edition=prelim)); which employment shall not, together with any other hours worked in any other capacity by such person exceed forty hours a week; and which employment shall not be used by the employer to fill a job opening created by the action of such employer in laying off or terminating the employment of any regular employee not supported under this paragraph in anticipation of filling the vacancy so created by hiring an employee or employees to be supported under this paragraph, if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program. The Secretary and the Secretary of Labor shall jointly issue reports to the appropriate committees of Congress on the progress of such pilot projects no later than six and twelve months following September 29, 1977, shall issue interim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot projects based upon their operation from their commencement through the fiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation.
-
-(3)
+(2)
 
   (A) The Secretary may conduct demonstration projects to test improved consistency or coordination between the supplemental nutrition assistance program employment and training program and the Job Opportunities and Basic Skills program under title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.).
 
-  (B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under [section 2015(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d&num=0&edition=prelim) to permit a State to operate an employment and training program for supplemental nutrition assistance program recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F 1 of title IV of the Social Security Act ([42 U.S.C. 681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section681&num=0&edition=prelim) et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) 1 of such Act ([42 U.S.C. 682(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section682/f&num=0&edition=prelim)).
+  (B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under [section 2015(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d&num=0&edition=prelim) to permit a State to operate an employment and training program for supplemental nutrition assistance program recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F 11 See References in Text note below. of title IV of the Social Security Act ([42 U.S.C. 681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section681&num=0&edition=prelim) et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) 1 of such Act ([42 U.S.C. 682(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section682/f&num=0&edition=prelim)).
 
   (C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 1 of such Act ([42 U.S.C. 602](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602&num=0&edition=prelim)) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) 1) and sections 481 through 487 1 of such Act ([42 U.S.C. 681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section681&num=0&edition=prelim) through 687). Each reference to “aid to families with dependent children” in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
 
@@ -6391,20 +6914,150 @@ The results of such studies and reports shall be considered in developing or upd
 
 (2) submit information at such time and in such manner as the Secretary may require.
 
+**(m) Evaluation of child support enforcement cooperation requirements**
+
+(1) **In general** — The Secretary, in consultation with the Secretary of Health and Human Services, shall conduct an independent evaluation of a representative sample of States—
+
+  (A) to assess the implementation and impact of the eligibility requirements described in subsections (l) through (n) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015) in States that have formerly implemented or continue to implement those requirements, and the feasibility of implementing those requirements in other States;
+
+  (B) to assess the factors that contributed to the decision of States that formerly implemented the eligibility requirements described in each of subsections (l) through (n) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015) to cease such implementation;
+
+  (C) to review alternatives to the eligibility requirements described in each of subsections (l) through (n) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015) that are used by other States to assist participants in the supplemental nutrition assistance program to make or receive child support payments and the effectiveness of those alternatives; and
+
+  (D) to evaluate the costs and benefits to households and to State agencies, of requiring State agencies to implement each of the eligibility requirements described in subsections (l) through (n) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015).
+
+(2) **Evaluation** — The evaluation under paragraph (1) shall include, to the maximum extent practicable, an assessment of—
+
+  (A) the manner in which applicable State agencies implement and enforce the eligibility requirements described in subparagraph (A) of such paragraph, including—
+
+    (i) the procedures used by each State to determine cooperation, to sanction participants for failure to cooperate, and to determine good cause for noncooperation under each of subsections (l) through (n) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015); and
+
+    (ii) the manner in which each State aligns the procedures for implementing those eligibility requirements with procedures for implementing other Federal programs that require cooperation with child support enforcement, including the program of block grants to States for temporary assistance for needy families established under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.), the Medicaid program under title XIX of the Social Security Act ([42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.), and programs carried out under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9857](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857&num=0&edition=prelim) et seq.);
+
+  (B) the Federal, State, and local costs associated with implementing those eligibility requirements, including costs incurred under this chapter and by child support enforcement agencies for personnel, technology upgrades, and other costs;
+
+  (C) the effect of those eligibility requirements on the establishment of new child support orders, the establishment of paternity, changes in child support payments to custodial households, and changes in arrears owed on child support orders;
+
+  (D) with respect to the eligibility requirements under each of subsections (l) through (n) of [section 2015 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2015)—
+
+    (i) the number of individuals subject to those requirements;
+
+    (ii) the number of individuals in each State who meet those requirements; and
+
+    (iii) the number of individuals in each State who fail to meet those requirements;
+
+  (E) the number of individuals in each State for whom good cause for noncooperation has been found under section 2015(l)(2) of this title;
+
+  (F) the impact of those eligibility requirements on the supplemental nutrition assistance program eligibility, benefit levels, food security, income, and economic stability of—
+
+    (i) individuals subject to those requirements;
+
+    (ii) the household members of those individuals, including children; and
+
+    (iii) households with nontraditional family structures, including a household in which a grandparent is the primary caretaker of a grandchild of the grandparent.
+
+(3) **State agency cooperation** — Each State agency selected under paragraph (1) shall provide information to the Secretary necessary to conduct the evaluation under such paragraph.
+
+(4) **Report** — Not later than 3 years after December 20, 2018, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the findings from the evaluation conducted under paragraph (1).
+
+**(n) Longitudinal data for research**
+
+(1) **In general** — Subject to paragraphs (3) through (5), a State agency may, on approval by the Secretary, establish a longitudinal database that contains information about households and members of households that receive benefits under the supplemental nutrition assistance program in the State.
+
+(2) **Purpose** — Each longitudinal database established under paragraph (1) shall be used solely to conduct research on participation in and the operation of the supplemental nutrition assistance program, including duration of participation in the program.
+
+(3) **Requirements for databases** — Prior to the approval of State agencies to establish longitudinal databases under paragraph (1), the Secretary shall—
+
+  (A) identify features that shall be standard across States such as database format to facilitate use of longitudinal databases established under paragraph (1) for research purposes;
+
+  (B) identify features of longitudinal databases established under paragraph (1) that may vary across States;
+
+  (C) identify a procedure for States operating longitudinal databases under paragraph (1) to use a unique identifier to provide relevant information on household members who receive benefits under the supplemental nutrition assistance program for the purpose of comparing participation data in multiple participating States over time while protecting participant privacy;
+
+  (D) establish the manner in which data security and privacy protections, as required by Federal law and consistent with other appropriate practices, shall be implemented and maintained;
+
+  (E) provide direction to State agencies on the responsibilities of and funding arrangements for State agencies and any State contractors (including entities providing technical assistance) relating to the establishment and operation of a longitudinal database;
+
+  (F) provide a description of the documentation that States shall submit to the Secretary prior to allowing researchers access to a longitudinal database;
+
+  (G) consult with other Federal research agencies, including the Bureau of the Census;
+
+  (H) consult with States that have already established databases used for purposes similar to the purposes outlined in this subsection; and
+
+  (I) identify any other requirements determined appropriate by the Secretary.
+
+(4) **Included data**
+
+  (A) *In general* — Subject to subparagraph (B), each longitudinal database established under paragraph (1)—
+
+    (i) shall include monthly information about households and members of households that receive benefits under the supplemental nutrition assistance program in the participating State taken from existing information collected by the State agency including, if available,—
+
+      (I) demographic characteristics;
+
+      (II) income and financial resources (as described in [section 2014(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014/g&num=0&edition=prelim));
+
+      (III) employment status;
+
+      (IV) household circumstances, such as deductible expenses; and
+
+      (V) the amount of the monthly allotment received under the supplemental nutrition assistance program; and
+
+    (ii) may include information from other State data sources such as—
+
+      (I) earnings and employment data from the State department of labor;
+
+      (II) health insurance program data; or
+
+      (III) data from participation in other programs administered by the State.
+
+  (B) *Data protection* — Any State that establishes a longitudinal database under paragraph (1) shall, in accordance with all applicable Federal and State privacy standards and requirements—
+
+    (i) protect the privacy of information about each member of each household that receives benefits under the supplemental nutrition assistance program in such State by ensuring that no personally identifiable information (including social security number, home address, or contact information) is included in the longitudinal database; and
+
+    (ii) make the data under this paragraph available to researchers and the Secretary.
+
+(5) **Approval** — The Secretary shall approve the establishment of longitudinal databases under paragraph (1) in States that—
+
+  (A) meet the requirements for databases under paragraph (3) and (4)(B);
+
+  (B) reflect a range of participant numbers, demographics, operational structures, and geographic regions; and
+
+  (C) have the capacity to provide on a periodic and ongoing basis household and participant data derived from the eligibility system and other data sources of the State.
+
+(6) **Grants**
+
+  (A) *In general* — In carrying out this subsection, the Secretary may provide grants to States that have been approved by the Secretary in accordance with paragraph (5) out of funds made available under paragraph (9).
+
+  (B) *Method of awarding grants* — Grants awarded under this paragraph shall be made in such amounts and under such terms and conditions as the Secretary determines necessary to carry out the purposes of this subsection.
+
+(7) **Report**
+
+  (A) *In general* — Not later than 4 years after the effective date of this subsection, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the feasibility of expanding implementation of longitudinal databases to every State.
+
+  (B) *Contents* — The report required under subparagraph (A) shall describe—
+
+    (i) the cost of expanding implementation of longitudinal databases with consistent data to every State;
+
+    (ii) the challenges and benefits of using State longitudinal databases with consistent data; and
+
+    (iii) alternatives to expanding implementation of longitudinal databases with consistent data to every State that may achieve similar research outcomes and the advantages and disadvantages of those alternatives.
+
+(8) **Effect** — Nothing in this subsection shall be construed to prevent or limit the ability of State agencies to establish or continue operating databases used for purposes similar to the purposes outlined in this subsection.
+
+(9) **Funding** — Of the funds made available under [section 2027 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2027), the Secretary shall use to carry out this subsection—
+
+  (A) $20,000,000 for fiscal year 2019 to remain available through fiscal year 2021; and
+
+  (B) $5,000,000 for fiscal year 2022 and each fiscal year thereafter.
+
 ### Statutory Notes
 
 #### References in Text
-[Section 2012(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/n&num=0&edition=prelim), referred to in subsec. (b)(1)(B)(iv)(III)(aa), was redesignated as [section 2012(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/m&num=0&edition=prelim) by Pub. L. 113–79, title IV, § 4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
+The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (2)(A), (B), (I), (d)(1)(B), (3)(C), and (m)(2)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV, part A of title IV, title XVI, and title XIX of the Act are classified generally to subchapter IV (§ 601 et seq.), part A (§ 601 et seq.) of subchapter IV, subchapter XVI (§ 1381 et seq.), and subchapter XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (3)(A), (B), (I) and (d)(1)(B), (3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV, part A of title IV, and title XVI of the Act are classified generally to subchapter IV (§ 601 et seq.), part A (§ 601 et seq.) of subchapter IV, and subchapter XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+Sections 481 to 487 of the Social Security Act, referred to in subsec. (b)(2)(C), (E), were classified to section 681 to 687, respectively, of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
-
-The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
-
-Sections 481 to 487 of the Social Security Act, referred to in subsec. (b)(3)(C), (E), were classified to section 681 to 687, respectively, of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
-
-Section 402 of the Social Security Act, referred to in subsec. (b)(3)(C), which was classified to [section 602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602&num=0&edition=prelim), The Public Health and Welfare, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, § 103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsecs. (a)(19) and (g).
+Section 402 of the Social Security Act, referred to in subsec. (b)(2)(C), which was classified to [section 602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602&num=0&edition=prelim), The Public Health and Welfare, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, § 103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsecs. (a)(19) and (g).
 
 The Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (e), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357. Part 1 of subtitle A of title I of the Omnibus Budget Reconciliation Act amended this chapter generally. For complete classification of this Act to the Code, see Tables.
 
@@ -6412,10 +7065,22 @@ The Food Stamp and Commodity Distribution Amendments of 1981, referred to in sub
 
 The Food Stamp Act Amendments of 1982, referred to in subsec. (e), is subtitle E of title I of Pub. L. 97–253, Sept. 8, 1982, 96 Stat. 772, which amended this chapter generally. For complete classification of this Act to the Code, see Short Title of 1982 Amendment note set out under [section 2011 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) and Tables.
 
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (m)(2)(A)(ii), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
+
+The effective date of this subsection, referred to in subsec. (n)(7)(A), probably means the date of enactment of Pub. L. 115–334, which added subsec. (n) and which was approved Dec. 20, 2018.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(1)(B)(iv)(III)(aa). Pub. L. 115–334, § 4022(7), substituted “2012(m)” for “2012(n)”.
+
+Subsec. (b)(2), (3). Pub. L. 115–334, § 4005(e), redesignated par. (3) as (2) and struck out former par. (2) which related to two pilot projects involving the performance of work in return for supplemental nutrition assistance program benefits and joint issuance of initial and interim reports by the Secretary of Agriculture and the Secretary of Labor to appropriate committees of Congress and a final report describing the results of such projects based upon their operation from commencement through the fiscal year ending Sept. 30, 1981.
+
+Subsec. (m). Pub. L. 115–334, § 4014, added subsec. (m).
+
+Subsec. (n). Pub. L. 115–334, § 4015(a), added subsec. (n).
+
 2014—Subsec. (b)(1)(B)(iv)(III)(hh). Pub. L. 113–79, § 4022(b)(3), inserted “(h)(1)(F),” after “(g),”.
 
 Subsec. (b)(2). Pub. L. 113–128 substituted “a program carried out under title I of the Workforce Innovation and Opportunity Act” for “a program carried out under title I of the Workforce Investment Act of 1998”.
@@ -6647,11 +7312,74 @@ Pub. L. 104–193, title VIII, § 855, Aug. 22, 1996, 110 Stat. 2342, directed t
 Pub. L. 102–237, title IX, § 912, Dec. 13, 1991, 105 Stat. 1887, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(NN), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(NN), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that: “The Secretary of Agriculture shall solicit requests to participate in the demonstration projects required by section 17(h) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2026(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2026/h&num=0&edition=prelim)) by May 1, 1992. The projects shall commence operations no later than January 1, 1993.”
 
 
+<a id="section-2026a"></a>
+## § 2026a. Healthy fluid milk incentives projects
+**(a) Definition of fluid milk** In this section the term “fluid milk” means all varieties of pasteurized cow’s milk that—
+
+(1) is without flavoring or sweeteners,
+
+(2) is consistent with the most recent dietary recommendations,
+
+(3) is packaged in liquid form, and
+
+(4) contains vitamins A and D at levels consistent with the Food and Drug Administration, State, and local standards for fluid milk.
+
+**(b) Projects** The Secretary of Agriculture shall carry out, under such terms and conditions as the Secretary considers to be appropriate, healthy fluid milk incentive projects to develop and test methods to increase the purchase and consumption of fluid milk by members of households that receive supplemental nutrition assistance program benefits by providing an incentive for the purchase of fluid milk at the point of purchase to members of households purchasing food with supplemental nutrition assistance program benefits.
+
+**(c) Grants or cooperative agreements**
+
+(1) **In general** — To carry out this section, the Secretary, on a competitive basis, shall enter into cooperative agreements with, or provide grants to, governmental entities or nonprofit organizations for projects that meet the purpose and selection criteria specified in this subsection.
+
+(2) **Application** — To be eligible to enter into a cooperative agreement or receive a grant under this subsection, a government entity or nonprofit organization shall submit to the Secretary an application containing such information as the Secretary may require.
+
+(3) **Selection criteria** — Projects proposed in applications shall be evaluated against publicly disseminated criteria that shall incorporate a scientifically based strategy that is designed to improve diet quality and nutritional outcomes through the increased purchase of fluid milk by members of households that participate in the supplemental nutrition assistance program.
+
+(4) **Use of funds** — Funds made available to carry out this section shall not be used for any project that limits the use of benefits provided under the Food and Nutrition Act of 2008 [[7 U.S.C. 2011](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) et seq.].
+
+**(d) Evaluation and reporting**
+
+(1) **Evaluation**
+
+  (A) *Independent evaluation*
+
+    (i) *In general* — The Secretary shall provide for an independent evaluation of projects selected under this section that measures, to the maximum extent practicable, the impact on health and nutrition.
+
+    (ii) *Requirement* — The independent evaluation under this subparagraph shall use rigorous methodologies, particularly random assignment or other methods that are capable of producing scientifically valid information regarding which activities are effective.
+
+  (B) *Costs* — The Secretary may use funds not to exceed 7 percent of the funding provided to carry out this section to pay costs associated with evaluating the outcomes of the healthy fluid milk incentive projects.
+
+(2) **Reporting** — Not later than December 31 of 2020, and biennially thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes a description of—
+
+  (A) the status of each healthy fluid milk incentives project, and
+
+  (B) the results of any completed evaluation that—
+
+    (i) include, to the maximum extent practicable, the impact of the healthy fluid milk incentive projects on health and nutrition outcomes among households participating in such projects, and
+
+    (ii) have not been submitted in a previous report under this paragraph.
+
+(3) **Public dissemination** — In addition to the reporting requirements under paragraph (2), evaluation results shall be shared publicly to promote wide use of successful strategies.
+
+**(e) Funding**
+
+(1) **Authorization of appropriations** — There is authorized to be appropriated $20,000,000 to carry out and evaluate the outcomes of projects under this section, to remain available until expended.
+
+(2) **Appropriations in advance** — Only funds appropriated under paragraph (1) in advance specifically to carry out this section shall be available to carry out this section.
+
+### Statutory Notes
+
+#### References in Text
+The Food and Nutrition Act of 2008, referred to in subsec. (c)(4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) and Tables.
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Food and Nutrition Act of 2008 which comprises this chapter.
+
+
 <a id="section-2027"></a>
 ## § 2027. Appropriations and allotments
 **(a) Authorization of allotments; monthly reports of expenditures to Congressional committees; restriction on use of funds; nutrition education improvements**
 
-(1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2018. Not to exceed one-fourth of 1 per centum of the previous year’s appropriation is authorized in each such fiscal year to carry out the provisions of [section 2026 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2026), subject to paragraph (3).
+(1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2023. Not to exceed one-fourth of 1 per centum of the previous year’s appropriation is authorized in each such fiscal year to carry out the provisions of [section 2026 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2026), subject to paragraph (3).
 
 (2) No funds authorized to be appropriated under this chapter or any other Act of Congress shall be used by any person, firm, corporation, group, or organization at any time, directly or indirectly, to interfere with or impede the implementation of any provision of this chapter or any rule, regulation, or project thereunder, except that this limitation shall not apply to the provision of legal and related assistance in connection with any proceeding or action before any State or Federal agency or court. The President shall ensure that this paragraph is complied with by such order or other means as the President deems appropriate.
 
@@ -6702,6 +7430,8 @@ Subsec. (f) of [section 2016 of this title](./chapter-051-supplemental-nutrition
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (a)(1). Pub. L. 113–79, § 4024, substituted “through 2018” for “through 2012”.
 
 Subsec. (e). Pub. L. 113–79, § 4030(j), substituted “[section 2016(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/f&num=0&edition=prelim)” for “sections 2016(f) of this title”.
@@ -7484,7 +8214,7 @@ Repeal effective May 13, 2002 and applicable beginning on Oct. 1, 2002, see sect
 
     (i)
 
-      (I) to meet the food needs of low-income individuals through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;; 11 So in original.
+      (I) to meet the food needs of low-income individuals through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;
 
       (II) to increase the self-reliance of communities in providing for the food needs of the communities; and
 
@@ -7514,9 +8244,11 @@ Repeal effective May 13, 2002 and applicable beginning on Oct. 1, 2002, see sect
 
   (A) $1,000,000 for fiscal year 1996;
 
-  (B) $5,000,000 for each of fiscal years 2008 through 2014; and
+  (B) $5,000,000 for each of fiscal years 2008 through 2014;
 
-  (C) $9,000,000 for fiscal year 2015 and each fiscal year thereafter.
+  (C) $9,000,000 for each of fiscal years 2015 through 2018; and
+
+  (D) $5,000,000 for fiscal year 2019 and each fiscal year thereafter.
 
 **(c) Eligible entities** To be eligible for a grant under subsection (b), a public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners, must—
 
@@ -7595,6 +8327,14 @@ Section 4406(a)(7) of Pub. L. 110–246 directed amendment of section 25 of the 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(1)(B)(i)(I). Pub. L. 115–334, § 4022(8), substituted “service;” for “service;;”.
+
+Subsec. (b)(2)(B). Pub. L. 115–334, § 4017(1), struck out “and” at end.
+
+Subsec. (b)(2)(C). Pub. L. 115–334, § 4017(2), substituted “each of fiscal years 2015 through 2018; and” for “fiscal year 2015 and each fiscal year thereafter.”
+
+Subsec. (b)(2)(D). Pub. L. 115–334, § 4017(3), added subpar. (D).
+
 2014—Subsec. (a)(1)(B)(i)(I). Pub. L. 113–79, § 4026(1)(A)(i)(I), inserted “through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;” after “individuals”.
 
 Subsec. (a)(1)(B)(i)(III). Pub. L. 113–79, § 4026(1)(A)(i)(II), inserted “food access,” after “food,”.
@@ -7731,11 +8471,13 @@ The Social Security Act, referred to in subsecs. (c) and (f), is act Aug. 14, 19
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–334 substituted “carry out a simplified supplemental nutrition assistance program” for “carry out a out a Simplified Food Stamp Program”.
+
 2014—Subsec. (f)(3)(C). Pub. L. 113–79 substituted “subsections” for “subsection”.
 
 2008—Pub. L. 110–246, § 4002(a)(12)(A), substituted “Simplified supplemental nutrition assistance program” for “Simplified Food Stamp Program” in section catchline.
 
-Subsec. (b). Pub. L. 110–246, § 4002(a)(12)(B), which directed amendment of subsec. (b) by substituting “simplified supplemental nutrition assistance program” for “simplified food stamp program”, was executed by making the substitution for “Simplified Food Stamp Program”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 110–246, § 4002(a)(12)(B), which directed amendment of subsec. (b) by substituting “simplified supplemental nutrition assistance program” for “simplified food stamp program”, could not be executed because the term “simplified food stamp program” did not appear.
 
 Subsec. (c)(4)(B), (C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
@@ -7755,7 +8497,7 @@ Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246
 ## § 2036. Availability of commodities for emergency food assistance program
 **(a) Purchase of commodities**
 
-(1) **In general** — From amounts made available to carry out this chapter, for each of the fiscal years 2014 through 2018, the Secretary shall purchase a dollar amount described in paragraph (2) of a variety of nutritious and useful commodities of the types that the Secretary has the authority to acquire through the Commodity Credit Corporation or under [section 612c of this title](./chapter-026-agricultural-adjustment.md#section-612c) and distribute the commodities to States for distribution in accordance with [section 7515 of this title](./chapter-102-emergency-food-assistance.md#section-7515).
+(1) **In general** — From amounts made available to carry out this chapter, for each of the fiscal years 2014 through 2023, the Secretary shall purchase a dollar amount described in paragraph (2) of a variety of nutritious and useful commodities of the types that the Secretary has the authority to acquire through the Commodity Credit Corporation or under [section 612c of this title](./chapter-026-agricultural-adjustment.md#section-612c) and distribute the commodities to States for distribution in accordance with [section 7515 of this title](./chapter-102-emergency-food-assistance.md#section-7515).
 
 (2) **Amounts** — The Secretary shall use to carry out paragraph (1)—
 
@@ -7763,19 +8505,29 @@ Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246
 
   (B) for fiscal year 2009, $250,000,000;
 
-  (C) for each of fiscal years 2010 through 2018, the dollar amount of commodities specified in subparagraph (B) adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) between June 30, 2008, and June 30 of the immediately preceding fiscal year;
+  (C) for each of fiscal years 2010 through 2023, the dollar amount of commodities specified in subparagraph (B) adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) between June 30, 2008, and June 30 of the immediately preceding fiscal year;
 
-  (D) for each of fiscal years 2015 through 2018, the sum obtained by adding the total dollar amount of commodities specified in subparagraph (C) and—
+  (D) for each of fiscal years 2015 through 2023, the sum obtained by adding the total dollar amount of commodities specified in subparagraph (C) and—
 
     (i) for fiscal year 2015, $50,000,000;
 
     (ii) for fiscal year 2016, $40,000,000;
 
-    (iii) for fiscal year 2017, $20,000,000; and
+    (iii) for fiscal year 2017, $20,000,000;
 
-    (iv) for fiscal year 2018, $15,000,000; and
+    (iv) for fiscal year 2018, $15,000,000;
 
-  (E) for fiscal year 2019 and each subsequent fiscal year, the total dollar amount of commodities specified in subparagraph (D)(iv) adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) to reflect changes between June 30, 2017, and June 30 of the immediately preceding fiscal year.
+    (v) for fiscal year 2019, $23,000,000;
+
+    (vi) for fiscal year 2020, $35,000,000;
+
+    (vii) for fiscal year 2021, $35,000,000;
+
+    (viii) for fiscal year 2022, $35,000,000; and
+
+    (ix) for fiscal year 2023, $35,000,000; and
+
+  (E) for fiscal year 2024 and each subsequent fiscal year, the total dollar amount of commodities specified in subparagraph (D)(ix) adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) to reflect changes between June 30, 2023, and June 30 of the immediately preceding fiscal year.
 
 (3) **Funds availability** — For purposes of the funds described in this subsection, the Secretary shall—
 
@@ -7797,6 +8549,14 @@ Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(1), (2)(C). Pub. L. 115–334, § 4018(e)(1), (2)(A), substituted “2023” for “2018”.
+
+Subsec. (a)(2)(D). Pub. L. 115–334, § 4018(e)(2)(B)(i), substituted “2023” for “2018” in introductory provisions.
+
+Subsec. (a)(2)(D)(v) to (ix). Pub. L. 115–334, § 4018(e)(2)(B)(ii), added cls. (v) to (ix).
+
+Subsec. (a)(2)(E). Pub. L. 115–334, § 4018(e)(2)(C), substituted “2024” for “2019”, “subparagraph (D)(ix)” for “subparagraph (D)(iv)”, and “June 30, 2023” for “June 30, 2017”.
+
 2014—Subsec. (a)(1). Pub. L. 113–79, § 4030(m), made technical amendment to reference in original act which appears in text as reference to [section 7515 of this title](./chapter-102-emergency-food-assistance.md#section-7515).
 
 Pub. L. 113–79, § 4027(a)(1), substituted “2014 through 2018” for “2008 through 2012”.
@@ -7850,15 +8610,37 @@ Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided t
 
   (A) *In general* — A State agency that elects to provide nutrition education and obesity prevention services under this subsection shall submit to the Secretary for approval a nutrition education State plan.
 
-  (B) *Requirements* — Except as provided in subparagraph (C), a nutrition education State plan shall—
+  (B) *Requirements* — A nutrition education State plan shall—
 
     (i) identify the uses of the funding for local projects;
 
-    (ii) ensure that the interventions are appropriate for eligible individuals who are members of low-income populations by recognizing the constrained resources, and the potential eligibility for Federal food assistance programs, of members of those populations; and
+    (ii) ensure that the interventions are appropriate for eligible individuals who are members of low-income populations by recognizing the constrained resources, and the potential eligibility for Federal food assistance programs, of members of those populations;
 
-    (iii) conform to standards established by the Secretary through regulations, guidance, or grant award documents.
+    (iii) describe how the State agency shall use an electronic reporting system to—
 
-  (C) *Transition period* — During each of fiscal years 2011 and 2012, a nutrition education State plan under this section shall be consistent with the requirements of [section 2020(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/f&num=0&edition=prelim) (as that section, other than paragraph (3)(C), existed on the day before December 13, 2010).
+      (I) measure and evaluate the projects; and
+
+      (II) account for the allowable State agency administrative costs including for—
+
+        (aa) salaries and benefits of State agency personnel;
+
+        (bb) office supplies and equipment;
+
+        (cc) travel costs;
+
+        (dd) development and production of nutrition education materials;
+
+        (ee) memberships, subscriptions, and professional activities;
+
+        (ff) lease or rental costs;
+
+        (gg) maintenance and repair expenses;
+
+        (hh) indirect costs; and
+
+        (ii) cost of using publicly-owned building space; and
+
+    (iv) conform to standards established by the Secretary through regulations, guidance, or grant award documents.
 
 (3) **Use of funds**
 
@@ -7870,7 +8652,7 @@ Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided t
 
     (iii) community and public health approaches to improve nutrition.
 
-  (B) *Consultation* — In identifying allowable uses of funds under subparagraph (A) and in seeking to strengthen delivery, oversight, and evaluation of nutrition education, the Administrator of the Food and Nutrition Service shall consult with the Director of the Centers for Disease Control and Prevention and outside stakeholders and experts, including—
+  (B) *Consultation* — In identifying allowable uses of funds under subparagraph (A) and in seeking to strengthen delivery, oversight, and evaluation of nutrition education, the Administrator of the Food and Nutrition Service shall consult with the Director of the Centers for Disease Control and Prevention, the Director of the National Institute of Food and Agriculture, and outside stakeholders and experts, including—
 
     (i) representatives of the academic and research communities;
 
@@ -7882,7 +8664,49 @@ Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided t
 
 (4) **Notification** — To the maximum extent practicable, State agencies shall notify applicants, participants, and eligible individuals under this chapter of the availability of nutrition education and obesity prevention services under this section in local communities.
 
-(5) **Coordination** — Subject to the approval of the Secretary, projects carried out with funds received under this section may be coordinated with other health promotion or nutrition improvement strategies, whether public or privately funded, if the projects carried out with funds received under this section remain under the administrative control of the State agency.
+(5) **Coordination** — Subject to the approval of the Secretary, projects carried out with funds received under this section may be coordinated with the expanded food and nutrition education program or other health promotion or nutrition improvement strategies, whether public or privately funded, if the projects carried out with funds received under this section remain under the administrative control of the State agency.
+
+(6) **Information clearinghouse** — The Secretary shall establish an online clearinghouse that makes available to State agencies, local agencies, institutions of higher education, and community organizations best practices for planning, implementing, and evaluating nutrition education and obesity prevention services to ensure that projects carried out with funds received under this section are appropriate for the target population.
+
+(7) **Technical assistance** — The Secretary shall provide technical assistance to a State agency in developing and implementing a nutrition education State plan, including—
+
+  (A) by identifying common challenges faced by entities described in paragraph (6) that participate in projects carried out with funds received under this section;
+
+  (B) by coordinating efforts to address those common challenges;
+
+  (C) by collecting and disseminating information on evidence-based practices relating to nutrition education and obesity prevention;
+
+  (D) by facilitating communication between and among grantees and subgrantees of funds received under this section;
+
+  (E) by assisting State agencies in creating or maintaining systems to compile program data; and
+
+  (F) by performing or assisting with other activities, as determined by the Secretary.
+
+(8) **Annual State report** — Each State agency that delivers nutrition education and obesity prevention services under this subsection shall submit to the Secretary an annual report, which shall be made publicly available by the Secretary, that includes—
+
+  (A) the use of funds on the State agency’s program, including for each category of allowable State agency administrative costs identified in paragraph (2)(B)(iii)(II);
+
+  (B) a description of each project carried out by that agency under this subsection, including, with respect to the project, the target population, interventions, educational materials used, key performance indicators used, and evaluations made;
+
+  (C) a comprehensive analysis of the impacts and outcomes—
+
+    (i) of the project, including with respect to the elements described in subparagraph (A); and
+
+    (ii) to the extent practicable, of completed multiyear projects; and
+
+  (D) the status of any ongoing multiyear project.
+
+(9) **Annual Federal report** — The Administrator of the Food and Nutrition Service, in consultation with the Director of the National Institute of Food and Agriculture, shall annually submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
+
+  (A) evaluates the level of coordination between—
+
+    (i) the nutrition education and obesity prevention grant program under this section;
+
+    (ii) the expanded food and nutrition education program under [section 3175 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3175); and
+
+    (iii) any other nutrition education program administered by the Department of Agriculture; and
+
+  (B) includes the use of funds on such programs including State agency administrative costs reported by States under paragraph (8)(A).
 
 **(d) Funding**
 
@@ -7959,6 +8783,18 @@ Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided t
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(2)(B). Pub. L. 115–334, § 4019(1)(A)(i), substituted “A” for “Except as provided in subparagraph (C), a” in introductory provisions.
+
+Subsec. (c)(2)(B)(iii), (iv). Pub. L. 115–334, § 4019(1)(A)(ii) to (iv), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (c)(2)(C). Pub. L. 115–334, § 4019(1)(B), struck out subpar. (C). Prior to amendment, text read as follows: “During each of fiscal years 2011 and 2012, a nutrition education State plan under this section shall be consistent with the requirements of [section 2020(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/f&num=0&edition=prelim) (as that section, other than paragraph (3)(C), existed on the day before December 13, 2010).”
+
+Subsec. (c)(3)(B). Pub. L. 115–334, § 4019(2), inserted “, the Director of the National Institute of Food and Agriculture,” before “and outside stakeholders” in introductory provisions.
+
+Subsec. (c)(5). Pub. L. 115–334, § 4019(3), inserted “the expanded food and nutrition education program or” before “other health promotion”.
+
+Subsec. (c)(6) to (9). Pub. L. 115–334, § 4019(4), added pars. (6) to (9).
+
 2014—Subsec. (b). Pub. L. 113–79 inserted “and physical activity” after “healthy food choices”.
 
 Subsec. (d)(1)(B) to (F). Pub. L. 112–240 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: “for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.”
@@ -7982,7 +8818,7 @@ Section effective Oct. 1, 2010, except as otherwise specifically provided, see s
 
 **(c) Funding**
 
-(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.
+(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2023.
 
 (2) **Mandatory funding**
 
@@ -7991,6 +8827,11 @@ Section effective Oct. 1, 2010, except as otherwise specifically provided, see s
   (B) *Receipt and acceptance* — The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section the funds transferred under subparagraph (A), without further appropriation.
 
   (C) *Maintenance of funding* — The funding provided under subparagraph (A) shall supplement (and not supplant) other Federal funding for programs carried out under this chapter.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–334 substituted “2023” for “2018”.
 
 
 <a id="section-2036c"></a>
@@ -8015,3 +8856,48 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 #### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+
+<a id="section-2036d"></a>
+## § 2036d. Pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity
+**(a) In general** The Secretary may, on application of eligible entities, approve not more than 10 pilot projects to support public-private partnerships that address food insecurity and poverty.
+
+**(b) Definitions** For purposes of this section—
+
+(1) the term “eligible entity” means—
+
+  (A) a nonprofit organization;
+
+  (B) a community-based organization;
+
+  (C) an institution of higher education; or
+
+  (D) a private entity, as determined by the Secretary; and
+
+(2) the term “public agency” means a department, agency, other unit, or instrumentality of Federal, State, or local government.
+
+**(c) Project requirements** Projects approved under this section shall—
+
+(1) be limited to 2 years in length; and
+
+(2) include a collaboration between one or more public agencies and one or more eligible entities that—
+
+  (A) improves the effectiveness and impact of the supplemental nutrition assistance program;
+
+  (B) develops food security solutions that are specific to the needs of a community or region; and
+
+  (C) strengthens the capacity of communities to address food insecurity and poverty.
+
+**(d) Evaluation** The Secretary shall provide for an independent evaluation of pilot projects approved under this section that includes—
+
+(1) a summary of the activities conducted under the pilot projects;
+
+(2) an assessment of the effectiveness of the pilot projects; and
+
+(3) best practices regarding the use of public-private partnerships to improve the effectiveness of public benefit programs to address food insecurity and poverty.
+
+**(e) Funding**
+
+(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $5,000,000 to remain available until expended.
+
+(2) **Appropriation in advance** — Only funds appropriated under paragraph (1) in advance specifically to carry out this section shall be available to carry out this section.

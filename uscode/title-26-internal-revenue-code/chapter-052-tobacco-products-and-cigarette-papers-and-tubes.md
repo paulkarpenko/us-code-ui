@@ -25,7 +25,7 @@ Cigars not exempt from tax under this chapter which are removed but not intended
 
 **(d) Cigarette tubes** On cigarette tubes, manufactured in or imported into the United States, there shall be imposed a tax of 6.30 cents for each 50 tubes or fractional part thereof, except that if cigarette tubes measure more than 6½ inches in length, they shall be taxable at the rate prescribed, counting each 2¾ inches, or fraction thereof, of the length of each as one cigarette tube.
 
-**(e) Smokeless tobacco** On smokeless tobacco, manufacturered 11 So in original. Probably should be “manufactured”. in or imported into the United States, there shall be imposed the following taxes:
+**(e) Smokeless tobacco** On smokeless tobacco, manufactured in or imported into the United States, there shall be imposed the following taxes:
 
 (1) **Snuff** — On snuff, $1.51 per pound and a proportionate tax at the like rate on all fractional parts of a pound.
 
@@ -40,6 +40,8 @@ Cigars not exempt from tax under this chapter which are removed but not intended
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–141 substituted “manufactured” for “manufacturered” in introductory provisions.
+
 2009—Subsec. (a)(1). Pub. L. 111–3, § 701(a)(1), substituted “$50.33 per thousand” for “$1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001)”.
 
 Subsec. (a)(2). Pub. L. 111–3, § 701(a)(2), (3), substituted “52.75 percent” for “20.719 percent (18.063 percent on cigars removed during 2000 or 2001)” and “40.26 cents per cigar” for “$48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001)”.

@@ -117,7 +117,7 @@ Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act o
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Plan for Licensing Operators of Fishing Industry Vessels
-Pub. L. 100–424, § 3, Sept. 9, 1988, 102 Stat. 1590, provided that: “The Secretary of the department in which the Coast Guard is operating shall, within two years after the date of enactment of this Act [Sept. 9, 1988], and in close consultation with the Commercial Fishing Industry Vessel Advisory Committee established under [section 4508 of title 46](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4508), United States Code (as amended by this Act), prepare and submit to the Congress a plan for the licensing of operators of documented fishing, fish processing, and fish tender vessels. The plan shall take into consideration the nature and variety of the different United States fisheries and of the vessels engaged in those fisheries, the need to license all operators or only those working in certain types of fisheries or vessels, and other relevant factors.”
+Pub. L. 100–424, § 3, Sept. 9, 1988, 102 Stat. 1590, required the Secretary of the department in which the Coast Guard is operating, within two years after Sept. 9, 1988, to prepare and submit to the Congress a plan for the licensing of operators of documented fishing, fish processing, and fish tender vessels.
 
 
 <a id="section-7102"></a>
@@ -188,7 +188,7 @@ Section 7105 requires all individuals who wish to be issued a license or certifi
 ## § 7106. Duration of licenses
 **(a) In General.—** A license issued under this part is valid for a 5-year period and may be renewed for additional 5-year periods; except that the validity of a license issued to a radio officer is conditioned on the continuous possession by the holder of a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.
 
-**(b) Advance Renewals.—** A renewed license issued under this part may be issued up to 8 months in advance but is not effective until the date that the previously issued license expires or until the completion of any active suspension or revocation of that previously issued merchant mariner’s document, whichever is later.
+**(b) Advance Renewals.—** A renewed license issued under this part may be issued up to 8 months in advance but is not effective until the date that the previously issued license expires or until the completion of any active suspension or revocation of that previously issued license, whichever is later.
 
 ### Statutory Notes
 
@@ -200,6 +200,8 @@ Section 7105 requires all individuals who wish to be issued a license or certifi
 Section 7106 sets a 5 year time limit on the validity of a license. It also requires a licensed radio officer to be in continuous possession of an FCC license.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–282 substituted “license,” for “merchant mariner’s document,”.
+
 2010—Pub. L. 111–281 amended section generally. Prior to amendment, text read as follows: “A license issued under this part is valid for 5 years and may be renewed for additional 5-year periods. However, the validity of a license issued to a radio officer is conditioned on the continuous possession by the holder of a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.”
 
 1990—Pub. L. 101–380 inserted “and may be renewed for additional 5-year periods” after “for 5 years”.
@@ -215,7 +217,7 @@ Pub. L. 101–380, title IV, § 4102(d), Aug. 18, 1990, 104 Stat. 510, provided 
 ## § 7107. Duration of certificates of registry
 **(a) In General.—** A certificate of registry issued under this part is valid for a 5-year period and may be renewed for additional 5-year periods; except that the validity of a certificate issued to a medical doctor or professional nurse is conditioned on the continuous possession by the holder of a license as a medical doctor or registered nurse, respectively, issued by a State.
 
-**(b) Advance Renewals.—** A renewed certificate of registry issued under this part may be issued up to 8 months in advance but is not effective until the date that the previously issued certificate of registry expires or until the completion of any active suspension or revocation of that previously issued merchant mariner’s document, whichever is later.
+**(b) Advance Renewals.—** A renewed certificate of registry issued under this part may be issued up to 8 months in advance but is not effective until the date that the previously issued certificate of registry expires or until the completion of any active suspension or revocation of that previously issued certificate of registry, whichever is later.
 
 ### Statutory Notes
 
@@ -227,6 +229,8 @@ Pub. L. 101–380, title IV, § 4102(d), Aug. 18, 1990, 104 Stat. 510, provided 
 Section 7107 specifies that there is no time limit on the validity of a certificate of registry issued to a medical doctor or a professional nurse but is conditioned on the continuous possession of the appropriate license issued by a State.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–282 substituted “certificate of registry,” for “merchant mariner’s document,”.
+
 2010—Pub. L. 111–281 amended section generally. Prior to amendment, text read as follows: “A certificate of registry issued under this part is valid for 5 years and may be renewed for additional 5-year periods. However, the validity of a certificate issued to a medical doctor or professional nurse is conditioned on the continuous possession by the holder of a license as a medical doctor or registered nurse, respectively, issued by a State.”
 
 1990—Pub. L. 101–380 substituted “is valid for 5 years and may be renewed for additional 5-year periods” for “is not limited in duration”.
@@ -359,49 +363,11 @@ Section 7114 allows the Secretary to prescribe reasonable fees for the issuance 
 
 
 <a id="section-7115"></a>
-## § 7115. Merchant Mariner Medical Advisory Committee
-**(a) Establishment.—**
-
-(1) **In general.—** — There is established a Merchant Mariner Medical Advisory Committee (in this section referred to as the “Committee”).
-
-(2) **Functions.—** — The Committee shall advise the Secretary on matters relating to—
-
-  (A) medical certification determinations for issuance of licences, certificates of registry, and merchant mariners’ documents;
-
-  (B) medical standards and guidelines for the physical qualifications of operators of commercial vessels;
-
-  (C) medical examiner education; and
-
-  (D) medical research.
-
-**(b) Membership.—**
-
-(1) **In general.—** — The Committee shall consist of 14 members, none of whom is a Federal employee, and shall include—
-
-  (A) ten who are health-care professionals with particular expertise, knowledge, or experience regarding the medical examinations of merchant mariners or occupational medicine; and
-
-  (B) four who are professional mariners with knowledge and experience in mariner occupational requirements.
-
-(2) **Status of members.—** — Members of the Committee shall not be considered Federal employees or otherwise in the service or the employment of the Federal Government, except that members shall be considered special Government employees, as defined in [section 202(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202/a&num=0&edition=prelim), United States Code, and shall be subject to any administrative standards of conduct applicable to the employees of the department in which the Coast Guard is operating.
-
-**(c) Appointments; Terms; Vacancies.—**
-
-(1) **Appointments.—** — The Secretary shall appoint the members of the Committee, and each member shall serve at the pleasure of the Secretary.
-
-(2) **Terms.—** — Each member shall be appointed for a term of five years, except that, of the members first appointed, three members shall be appointed for a term of two years.
-
-(3) **Vacancies.—** — Any member appointed to fill the vacancy prior to the expiration of the term for which that member’s predecessor was appointed shall be appointed for the remainder of that term.
-
-**(d) Chairman and Vice Chairman.—** The Secretary shall designate one member of the Committee as the Chairman and one member as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
-
-**(e) Compensation; Reimbursement.—** Members of the Committee shall serve without compensation, except that, while engaged in the performance of duties away from their homes or regular places of business of the member, the member of the Committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
-
-**(f) Staff; Services.—** The Secretary shall furnish to the Committee the personnel and services as are considered necessary for the conduct of its business.
+## § 7115. Repealed. Pub. L. 115–282, title VI, § 601(c)(2), Dec. 4, 2018, 132 Stat. 4289]
 
 ### Statutory Notes
 
-#### First Meeting
-Pub. L. 111–281, title II, § 210(b), Oct. 15, 2010, 124 Stat. 2914, provided that: “No later than six months after the date of enactment of this Act [Oct. 15, 2010], the Merchant Mariner Medical Advisory Committee established by the amendment made by this section [enacting this section] shall hold its first meeting.”
+Section, added Pub. L. 111–281, title II, § 210(a), Oct. 15, 2010, 124 Stat. 2913, established the Merchant Mariner Medical Advisory Committee. See [section 15104 of this title](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15104).
 
 
 <a id="section-7116"></a>

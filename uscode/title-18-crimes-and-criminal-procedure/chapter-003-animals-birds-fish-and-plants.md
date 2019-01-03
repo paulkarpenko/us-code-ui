@@ -36,7 +36,7 @@ Words “in any United States court of competent jurisdiction”, in sections 67
 ## § 42. Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations
 **(a)**
 
-(1) The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called “flying foxes” or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; of the bighead carp of the species Hypophthalmichthys nobilis; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act,11 See References in Text note below. insofar as such importation is subject to regulation under that Act.
+(1) The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called “flying foxes” or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; of the quagga mussel of the species Dreissena rostriformis or Dreissena bugensis; of the bighead carp of the species Hypophthalmichthys nobilis; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act,11 See References in Text note below. insofar as such importation is subject to regulation under that Act.
 
 (2) As used in this subsection, the term “wild” relates to any creatures that, whether or not raised in captivity, normally are found in a wild state; and the terms “wildlife” and “wildlife resources” include those resources that comprise wild mammals, wild birds, fish (including mollusks and crustacea), and all other classes of wild creatures whatsoever, and all types of aquatic and land vegetation upon which such wildlife resources are dependent.
 
@@ -84,6 +84,8 @@ This Act, referred to in subsec. (a)(3), probably refers to Pub. L. 86–702, wh
 The enactment of the Lacey Act Amendments of 1981, referred to in subsec. (c), means the date of enactment of Pub. L. 97–79, which was approved Nov. 16, 1981.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–282 inserted “of the quagga mussel of the species Dreissena rostriformis or Dreissena bugensis;” after “Dreissena polymorpha;”.
+
 2010—Subsec. (a)(1). Pub. L. 111–307 inserted “of the bighead carp of the species Hypophthalmichthys nobilis;” after “Dreissena polymorpha;”.
 
 1996—Subsec. (a)(1). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1208. See 1990 Amendment note below.
@@ -358,6 +360,9 @@ Pub. L. 111–294, § 2, Dec. 9, 2010, 124 Stat. 3177, provided that: “The Con
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 115–334, title XII, § 12616(d), (e), Dec. 20, 2018, 132 Stat. 5016, provided that, effective on the date that is one year after Dec. 20, 2018, subsec. (a) of this section is amended by striking “(e)” and inserting “(d)”. See 2018 Amendment note below.
+
 #### References in Text
 Section 26 of the Animal Welfare Act, referred to in text, is [section 2156 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim), Agriculture.
 
@@ -365,9 +370,14 @@ Section 26 of the Animal Welfare Act, referred to in text, is [section 2156 of T
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334 substituted “(d)” for “(e)”.
+
 2014—Pub. L. 113–79 designated existing provisions as subsec. (a), inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c).
 
 2008—Pub. L. 110–246, § 14207(b), substituted “5 years” for “3 years”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–334 effective on the date that is one year after Dec. 20, 2018, see section 12616(e) of Pub. L. 115–334, set out as a note under [section 2156 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim), Agriculture.
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.

@@ -187,6 +187,9 @@ the President shall suspend the implementation of the import restrictions under 
 #### Codification
 [Section 2603 of this title](./chapter-014-convention-on-cultural-property.md#section-2603), referred to in subsec. (g)(1)(B), was in the original “section 204”, and was translated as [section 2603 of this title](./chapter-014-convention-on-cultural-property.md#section-2603), which is section 304 of Pub. L. 97–446, as the probable intent of Congress.
 
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
+
 #### Ex. Ord. No. 12555. Protection of Cultural Property
 Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, as amended by Ex. Ord. No. 13286, § 44, Feb. 28, 2003, 68 F.R. 10627, provided:
 
@@ -263,6 +266,9 @@ and application of the import restrictions set forth in [section 2606 of this ti
 #### Codification
 [Section 2602 of this title](./chapter-014-convention-on-cultural-property.md#section-2602), referred to in subsec. (c)(4), was in the original “section 203”, and was translated as [section 2602 of this title](./chapter-014-convention-on-cultural-property.md#section-2602), which is section 303 of Pub. L. 97–446, as the probable intent of Congress.
 
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
+
 #### Delegation of Functions
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under [section 2602 of this title](./chapter-014-convention-on-cultural-property.md#section-2602).
 
@@ -281,6 +287,9 @@ After any agreement enters into force under [section 2602 of this title](./chapt
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as a note under [section 6531 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6531&num=0&edition=prelim).
+
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
 
 
 <a id="section-2605"></a>
@@ -391,6 +400,9 @@ Subsec. (b)(3)(B). Pub. L. 100–204, § 307(b), amended subpar. (B) generally. 
 #### Effective Date of 1987 Amendment
 Pub. L. 100–204, title III, § 307(c), Dec. 22, 1987, 101 Stat. 1380, provided that: “The amendment made by subsection (a) [amending this section] shall apply to members of the Cultural Property Advisory Committee first appointed after the date of enactment of this Act [Dec. 22, 1987].”
 
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
+
 #### Transfer of Functions
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22, Foreign Relations and Intercourse.
 
@@ -441,6 +453,9 @@ the customs officer concerned shall refuse to release the material from customs 
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
+
 #### Delegation of Functions
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under [section 2602 of this title](./chapter-014-convention-on-cultural-property.md#section-2602).
 
@@ -455,6 +470,9 @@ No article of cultural property documented as appertaining to the inventory of a
 #### References in Text
 For the effective date of this chapter, referred to in text, see section 315 of Pub. L. 97–446, set out as an Effective Date note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
 
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
+
 
 <a id="section-2608"></a>
 ## § 2608. Temporary disposition of materials and articles subject to this chapter
@@ -464,6 +482,11 @@ Pending a final determination as to whether any archaeological or ethnological m
 (1) sufficient safeguards will be taken by the institution for the protection of such material or article; and
 
 (2) sufficient bond is posted by the institution to ensure its return to the Secretary.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
 
 
 <a id="section-2609"></a>
@@ -502,6 +525,9 @@ No return of material may be made under paragraph (1) or (2) unless the State Pa
 #### Codification
 [Section 2607 of this title](./chapter-014-convention-on-cultural-property.md#section-2607), referred to in subsec. (c)(1), was in the original “section 208”, and was translated as [section 2607 of this title](./chapter-014-convention-on-cultural-property.md#section-2607), which is section 308 of Pub. L. 97–446, as the probable intent of Congress.
 
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
+
 
 <a id="section-2610"></a>
 ## § 2610. Evidentiary requirements
@@ -520,6 +546,9 @@ Notwithstanding the provisions of [section 1615 of this title](./chapter-004-tar
 
 #### References in Text
 For the effective date of this chapter, referred to in par. (2)(B), see section 315 of Pub. L. 97–446, set out as an Effective Date note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
+
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
 
 
 <a id="section-2611"></a>
@@ -545,11 +574,21 @@ The provisions of this chapter shall not apply to—
 
   (D) if none of the preceding subparagraphs apply, has been within the United States for a period of not less than twenty consecutive years and the claimant establishes that it purchased the material or article for value without knowledge or reason to believe that it was imported in violation of law.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
+
 
 <a id="section-2612"></a>
 ## § 2612. Regulations
 
 The Secretary shall prescribe such rules and regulations as are necessary and appropriate to carry out the provisions of this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
 
 
 <a id="section-2613"></a>
@@ -558,6 +597,9 @@ The Secretary shall prescribe such rules and regulations as are necessary and ap
 In the customs territory of the United States, and in the Virgin Islands, the provisions of this chapter shall be enforced by appropriate customs officers. In any other territory or area within the United States, but not within such customs territory or the Virgin Islands, such provisions shall be enforced by such persons as may be designated by the President.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under [section 2601 of this title](./chapter-014-convention-on-cultural-property.md#section-2601).
 
 #### Delegation of Functions
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under [section 2602 of this title](./chapter-014-convention-on-cultural-property.md#section-2602).

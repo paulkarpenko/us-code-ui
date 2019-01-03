@@ -561,9 +561,9 @@ Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–
 
 <a id="section-7140"></a>
 ## § 7140. Office of Science; establishment; appointment of Director; compensation; duties
-**(a)** There shall be within the Department an Office of Science to be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
+**(a) Establishment** There shall be within the Department an Office of Science to be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
 
-**(b)** It shall be the duty and responsibility of the Director—
+**(b) Duties and responsibilities of Director** It shall be the duty and responsibility of the Director—
 
 (1) to advise the Secretary with respect to the physical research program transferred to the Department from the Energy Research and Development Administration;
 
@@ -577,9 +577,13 @@ Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–
 
 (6) to carry out such additional duties assigned to the Office by the Secretary.
 
+**(c) Mission** The mission of the Office of Science shall be the delivery of scientific discoveries, capabilities, and major scientific tools to transform the understanding of nature and to advance the energy, economic, and national security of the United States.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–246 added subsec. (c).
+
 2005—Subsec. (b)(6). Pub. L. 109–58 added par. (6) and struck out former par. (6) which read as follows: “to carry out such additional duties assigned to the Office by the Secretary relating to basic and applied research, including but not limited to supervision or support of research activities carried out by any of the Assistant Secretaries designated by [section 7133 of this title](./chapter-084-department-of-energy.md#section-7133), as the Secretary considers advantageous.”
 
 1998—Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research” in section catchline and in subsec. (a).
@@ -1179,7 +1183,7 @@ Section, Pub. L. 95–91, title III, § 306, Aug. 4, 1977, 91 Stat. 581, transfe
 <a id="section-7156a"></a>
 ## § 7156a. Transfers from Department of the Navy
 
-There are transferred to and vested in the Secretary all functions vested by chapter 641 of title 10, in the Secretary of the Navy as they relate to the administration of and jurisdiction over—
+There are transferred to and vested in the Secretary all functions vested by chapter 869 of title 10, in the Secretary of the Navy as they relate to the administration of and jurisdiction over—
 
 (1) Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912;
 
@@ -1193,6 +1197,14 @@ There are transferred to and vested in the Secretary all functions vested by cha
 
 (6) Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 In the administration of any of the functions transferred to, and vested in, the Secretary by this section the Secretary shall take into consideration the requirements of national security.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–232 substituted “chapter 869 of title 10” for “chapter 641 of title 10” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-7157"></a>
@@ -1284,9 +1296,13 @@ Pub. L. 101–271, § 2(c), Apr. 11, 1990, 104 Stat. 136, provided that: “The 
 Pub. L. 101–549, title VIII, § 808, Nov. 15, 1990, 104 Stat. 2690, provided that: “(a) Definition.—For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies. “(b) Rate Incentives Study.—Within 18 months after enactment [Nov. 15, 1990], the Federal Energy Regulatory Commission, in consultation with the Environmental Protection Agency, shall complete a study which calculates the net environmental benefits of renewable energy, compared to nonrenewable energy, and assigns numerical values to them. The study shall include, but not be limited to, environmental impacts on air, water, land use, water use, human health, and waste disposal. “(c) Model Regulations.—In conjunction with the study in subsection (b), the Commission shall propose one or more models for incorporating the net environmental benefits into the regulatory treatment of renewable energy in order to provide economic compensation for those benefits. “(d) Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment [Nov. 15, 1990].”
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
-Pub. L. 99–500, § 101(e) [title III], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, § 101(e) [title III], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: “That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account, and may remain available until expended: Provided further, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000.”
+Pub. L. 99–500, § 101(e) [title III], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, § 101(e) [title III], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: “That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account [Federal Energy Regulatory Commission, Salaries and Expenses], and may remain available until expended: Provided further, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–244, div. A, title III, Sept. 21, 2018, 132 Stat. 2915.
+
+Pub. L. 115–141, div. D, title III, Mar. 23, 2018, 132 Stat. 527.
 
 Pub. L. 115–31, div. D, title III, May 5, 2017, 131 Stat. 319.
 
@@ -1776,14 +1792,19 @@ Pub. L. 108–136, div. C, title XXXI, § 3112, Nov. 24, 2003, 117 Stat. 1743, p
 
 <a id="section-7236"></a>
 ## § 7236. Armed services personnel
-**(a)** The Secretary is authorized to provide for participation of Armed Forces personnel in carrying out functions authorized to be performed, on August 4, 1977, in the Energy Research and Development Administration and under chapter 641 of title 10. Members of the Armed Forces may be detailed for service in the Department by the Secretary concerned (as such term is defined in section 101 of such title) pursuant to cooperative agreements with the Secretary.
+**(a)** The Secretary is authorized to provide for participation of Armed Forces personnel in carrying out functions authorized to be performed, on August 4, 1977, in the Energy Research and Development Administration and under chapter 869 of title 10. Members of the Armed Forces may be detailed for service in the Department by the Secretary concerned (as such term is defined in section 101 of such title) pursuant to cooperative agreements with the Secretary.
 
 **(b)** The detail of any personnel to the Department under this section shall in no way affect status, office, rank, or grade which officers or enlisted men may occupy or hold or any emolument, perquisite, right, privilege, or benefit incident to, or arising out of, such status, office, rank, or grade. A member so detailed shall not be subject to direction or control by his armed force, or any officer thereof, directly or indirectly, with respect to the responsibilities exercised in the position to which detailed.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 substituted “chapter 869 of title 10” for “chapter 641 of title 10”.
+
 1978—Subsec. (b). Pub. L. 95–509 struck out requirement that a detailed member be charged to the limitations applicable to the Department and prohibition of such member from being charged to any statutory or other limitation or strengths applicable to the Armed Forces.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-7237"></a>
@@ -4685,7 +4706,11 @@ Sec. 6. Administration and Judicial Review. (a) This Executive Order shall be ca
 William J. Clinton.
 
 #### Extension of Term of Advisory Board on Radiation and Worker Health
-Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of Advisory Board on Radiation and Worker Health was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 
 <a id="section-7384f"></a>
@@ -5885,12 +5910,15 @@ The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 
 
   (B) shall not be subject to subsection (b) of that section.
 
-**(i) Sunset** The Board shall terminate on the date that is 5 years after December 19, 2014.
+**(i) Sunset** The Board shall terminate on the date that is 10 years after December 19, 2014.
 
 ### Statutory Notes
 
 #### References in Text
 Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (h)(2)(A), (B), is Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 151], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, which is not classified to the Code.
+
+#### Amendments
+2017—Subsec. (i). Pub. L. 115–91 substituted “10 years” for “5 years”.
 
 #### Ex. Ord. No. 13699. Establishing the Advisory Board on Toxic Substances and Worker Health
 Ex. Ord. No. 13699, June 26, 2015, 80 F.R. 37529, provided:

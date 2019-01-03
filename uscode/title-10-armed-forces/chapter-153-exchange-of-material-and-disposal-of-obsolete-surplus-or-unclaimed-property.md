@@ -111,13 +111,13 @@ Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638, 
 
     (ii) is dedicated to, or otherwise memorializes, the death in combat or combat-related duties of members of the armed forces; and
 
-    (iii) was brought to the United States from abroad as a memorial of combat abroad.
+    (iii) was brought to the United States from abroad before 1907 as a memorial of combat abroad.
 
 (3) The prohibition imposed by paragraph (1) does not apply to a transfer of a veterans memorial object if—
 
   (A) the transfer of that veterans memorial object is specifically authorized by law; or
 
-  (B) the transfer is made after September 30, 2017.
+  (B) the transfer is made after September 30, 2022.
 
 ### Statutory Notes
 
@@ -129,6 +129,10 @@ Pub. L. 110–329, div. C, title VIII, § 8075, Sept. 30, 2008, 122 Stat. 3638, 
 The word “may” is substituted for the words “are each authorized, in their discretion”. The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words “under regulations to be prescribed by him” are substituted for the words “subject to rules and regulations covering the same in each department”. The words “without expense to the United States” are substituted for the words “and the Government shall be at no expense in connection with any such loan or gift”. The words “local unit” are inserted in clause (7) to conform to clauses (5), (6), and (8).
 
 #### Amendments
+2017—Subsec. (e)(2)(B)(iii). Pub. L. 115–91, § 2864(a), substituted “from abroad before 1907” for “from abroad”.
+
+Subsec. (e)(3)(B). Pub. L. 115–91, § 2864(b), substituted “September 30, 2022” for “September 30, 2017”.
+
 2013—Subsec. (e). Pub. L. 112–239 added subsec. (e).
 
 2008—Subsec. (d)(1). Pub. L. 110–417, § 352(1), inserted at end “The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary’s delegee.”
@@ -177,6 +181,9 @@ Subsec. (b)(2). Pub. L. 101–510, § 325(2), inserted “, or services provided
 
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)), the Secretary of a military department or the Secretary of Transportation” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim), the Secretary of a military department or the Secretary of the Treasury”.
 
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. B, title XXVIII, § 2864(d), Dec. 12, 2017, 131 Stat. 1869, provided that: “The amendments made by this section [amending this section] shall take effect October 1, 2017.”
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
@@ -218,7 +225,7 @@ The words “by the military department having jurisdiction over it” are inser
 
 <a id="section-2575"></a>
 ## § 2575. Disposition of unclaimed property
-**(a)** The Secretary of any military department, and the Secretary of Homeland Security, under such regulations as they may respectively prescribe, may each by public or private sale or otherwise, dispose of all lost, abandoned, or unclaimed personal property that comes into the custody or control of the Secretary’s department, other than property subject to section 4712, 6522, or 9712 of this title or subject to subsection (c). However, property may not be disposed of until diligent effort has been made to find the owner (or the heirs, next of kin, or legal representative of the owner). The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days. If the owner (or the heirs, next of kin, or legal representative of the owner) is determined but not found, the property may not be disposed of until the expiration of 45 days after the date when notice, giving the time and place of the intended sale or other disposition, has been sent by certified or registered mail to that person at his last known address. When diligent effort to determine the owner (or heirs, next of kin, or legal representative of the owner) is unsuccessful, the property may be disposed of without delay, except that if it has a fair market value of more than $300, the Secretary may not dispose of the property until 45 days after the date it is received at a storage point designated by the Secretary.
+**(a)** The Secretary of any military department, and the Secretary of Homeland Security, under such regulations as they may respectively prescribe, may each by public or private sale or otherwise, dispose of all lost, abandoned, or unclaimed personal property that comes into the custody or control of the Secretary’s department, other than property subject to section 7712, 8392, or 9712 of this title or subject to subsection (c). However, property may not be disposed of until diligent effort has been made to find the owner (or the heirs, next of kin, or legal representative of the owner). The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days. If the owner (or the heirs, next of kin, or legal representative of the owner) is determined but not found, the property may not be disposed of until the expiration of 45 days after the date when notice, giving the time and place of the intended sale or other disposition, has been sent by certified or registered mail to that person at his last known address. When diligent effort to determine the owner (or heirs, next of kin, or legal representative of the owner) is unsuccessful, the property may be disposed of without delay, except that if it has a fair market value of more than $300, the Secretary may not dispose of the property until 45 days after the date it is received at a storage point designated by the Secretary.
 
 **(b)**
 
@@ -258,6 +265,8 @@ In subsection (b), the words “may file * * * within five years” are substitu
 In subsection (c), the words “No property * * * may * * * except” are substituted for the words “Any property * * * shall be limited”. The last sentence is substituted for 5:150i (proviso).
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 substituted “section 7712, 8392, or 9712” for “section 4712, 6522, or 9712”.
+
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1996—Subsec. (b). Pub. L. 104–106, § 374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office.”
@@ -293,6 +302,9 @@ Subsec. (c). Pub. L. 101–189, § 322(b)(1), (3), substituted “owner (or the 
 Subsec. (c). Pub. L. 96–513, § 511(84)(B), substituted “United States Soldiers’ and Airmen’s Home” for “Soldiers’ Home”.
 
 1965—Subsec. (a). Pub. L. 89–143 provided for notice by certified mail and substituted provision for disposition of property without delay when diligent effort to determine ownership is unsuccessful and after three months following receipt at designated storage point of property with fair market value of $25 or more, for former provision for disposition of property one year after receipt at designated storage point.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -366,7 +378,7 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
 (3) the transfer is made without the expenditure of any funds available to the Department of Defense for the procurement of defense equipment;
 
-(4) all costs incurred subsequent to the transfer of the property are borne or reimbursed by the recipient; and 11 So in original.
+(4) all costs incurred subsequent to the transfer of the property are borne or reimbursed by the recipient;
 
 (5) the recipient, on an annual basis, and with the authorization of the relevant local governing body or authority, certifies that it has adopted publicly available protocols for the appropriate use of controlled property, the supervision of such use, and the evaluation of the effectiveness of such use, including auditing and accountability policies; and
 
@@ -399,6 +411,8 @@ Section 1051(e) of the National Defense Authorization Act for Fiscal Year 2016, 
 Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title XII, § 1208, Nov. 29, 1989, 103 Stat. 1566, as amended, which was set out as a note under [section 372 of this title](./chapter-016-security-cooperation.md#section-372), prior to repeal by Pub. L. 104–201, § 1033(b)(1). [Section 372 of this title](./chapter-016-security-cooperation.md#section-372) was renumbered [section 272 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-272) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Amendments
+2017—Subsec. (b)(4). Pub. L. 115–91 struck out “and” at end.
+
 2015—Subsec. (a)(1)(A). Pub. L. 114–92, § 1052(1)(A), substituted “counterdrug, counterterrorism, and border security activities” for “counter-drug and counter-terrorism activities”.
 
 Subsec. (a)(2). Pub. L. 114–92, § 1052(1)(B), substituted “the Attorney General, the Director of National Drug Control Policy, and the Secretary of Homeland Security, as appropriate” for “the Attorney General and the Director of National Drug Control Policy”.
@@ -614,6 +628,16 @@ Another section 2582 was renumbered [section 2583 of this title](./chapter-153-e
 
   (B) the dog is located within the United States and suitable adoption is available where the dog is located.
 
+(3)
+
+  (A) In the case of a military working dog located outside the continental United States at the time of retirement that is suitable for adoption at that time, the Secretary of the military department concerned shall undertake transportation of the dog to the continental United States (including transportation by contract at United States expense) for adoption under this section unless—
+
+    (i) the dog is adopted as described in paragraph (2)(A); or
+
+    (ii) transportation of the dog to the continental United States would not be in the best interests of the dog for medical reasons.
+
+  (B) Nothing in this paragraph shall be construed to alter the preference in adoption of retired military working dogs for former handlers as set forth in subsection (g).
+
 **(g) Preference in Adoption of Retired Military Working Dogs for Former Handlers.—**
 
 (1) In providing for the adoption under this section of a retired military working dog described in paragraph (1) or (3) of subsection (a), the Secretary of the military department concerned shall accord a preference to the former handler of the dog unless the Secretary determines that adoption of the dog by the former handler would not be in the best interests of the dog.
@@ -631,6 +655,8 @@ Another section 2582 was renumbered [section 2583 of this title](./chapter-153-e
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (f)(3). Pub. L. 115–232 added par. (3).
+
 2016—Subsec. (h)(1). Pub. L. 114–328 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A military working dog.”
 
 2015—Subsec. (a). Pub. L. 114–92, § 342(a), substituted “shall make” for “may make” in introductory provisions.

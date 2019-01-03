@@ -2,7 +2,7 @@
 title: 34
 chapter: '207'
 heading: COMBATING DOMESTIC TRAFFICKING IN PERSONS
-section_count: 11
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -66,7 +66,7 @@ source: >-
 
 (1) $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii); and
 
-(2) $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2).
+(2) $250,000 for each of the fiscal years 2014 through 2021 to carry out the activities described in subsection (a)(2).
 
 ### Statutory Notes
 
@@ -76,38 +76,196 @@ Section is comprised of section 201 of Pub. L. 109–164. Subsec. (b) of section
 Section was formerly classified to [section 14044 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (c)(2). Pub. L. 115–393 substituted “2021” for “2017”.
+
 2013—Subsec. (c)(2). Pub. L. 113–4 substituted “$250,000 for each of the fiscal years 2014 through 2017” for “$1,000,000 for each of the fiscal years 2008 through 2011”.
 
 2008—Subsec. (c)(1). Pub. L. 110–457, § 302(2)(A), substituted “$1,500,000 for each of the fiscal years 2008 through 2011” for “$2,500,000 for each of the fiscal years 2006 and 2007” in two places.
 
 Subsec. (c)(2). Pub. L. 110–457, § 302(2)(B), which directed substitution of “2008 through 2011” for “2006 and 2007”, was executed by making the substitution for “2006 through 2007”, to reflect the probable intent of Congress.
 
+#### Best Practices in Delivering Justice for Victims of Trafficking
+Pub. L. 115–392, § 8, Dec. 21, 2018, 132 Stat. 5253, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 21, 2018], the Attorney General shall issue guidance to all offices and components of the Department of Justice— “(1) emphasizing that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim), United States Code) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18, United States Code, and is a party to a severe form of trafficking in persons, as that term is defined in section 103(9) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)); “(2) recommending and implementing best practices for the collection of special assessments under [section 3014 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3014&num=0&edition=prelim), United States Code, as added by section 101 of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 228), including a directive that civil liens are an authorized collection method and remedy under [section 3613 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3613&num=0&edition=prelim), United States Code; and “(3) clarifying that commercial sexual exploitation is a form of gender-based violence.”
+
+#### Ending Government Partnerships With the Commercial Sex Industry
+Pub. L. 115–392, § 19, Dec. 21, 2018, 132 Stat. 5258, provided that: “No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that— “(1) has the primary purpose of providing adult entertainment; and “(2) derives profits from the commercial sex trade.”
+
 #### Recommendations To Prevent Sex Trafficking of Indian Women
 Pub. L. 111–211, title II, § 264, July 29, 2010, 124 Stat. 2300, provided that: “Any report of the Secretary of Health and Human Services to Congress on the development of Indian victim services and victim advocate training programs shall include any recommendations that the Secretary determines to be necessary to prevent the sex trafficking of Indian women.”
 
 
 <a id="section-20702"></a>
-## § 20702. Establishment of grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking
-**(a) Grant program** The Secretary of Health and Human Services may make grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victims’ service organizations to establish, develop, expand, and strengthen assistance programs for United States citizens or aliens admitted for permanent residence who are the subject of sex trafficking or severe forms of trafficking in persons that occurs, in whole or in part, within the territorial jurisdiction of the United States.
+## § 20702. Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking
+**(a) Definitions** In this section:
 
-**(b) Selection factor** In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants with experience in the delivery of services to persons who have been subjected to sexual abuse or commercial sexual exploitation and to applicants who would employ survivors of sexual abuse or commercial sexual exploitation as a part of their proposed project.
+(1) **Assistant Secretary** — The term “Assistant Secretary” means the Assistant Secretary for Children and Families of the Department of Health and Human Services.
 
-**(c) Limitation on Federal share** The Federal share of a grant made under this section may not exceed 75 percent of the total costs of the projects described in the application submitted.
+(2) **Assistant Attorney General** — The term “Assistant Attorney General” means the Assistant Attorney General for the Office of Justice Programs of the Department of Justice.
 
-**(d) Authorization of appropriations** There are authorized to be appropriated $8,000,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in this section.
+(3) **Eligible entity** — The term “eligible entity” means a State or unit of local government that—
+
+  (A) has significant criminal activity involving sex trafficking of minors;
+
+  (B) has demonstrated cooperation between Federal, State, local, and, where applicable, tribal law enforcement agencies, prosecutors, and social service providers in addressing sex trafficking of minors;
+
+  (C) has developed a workable, multi-disciplinary plan to combat sex trafficking of minors, including—
+
+    (i) building or establishing a residential care facility for minor victims of sex trafficking;
+
+    (ii) the provision of rehabilitative care to minor victims of sex trafficking;
+
+    (iii) the provision of specialized training for law enforcement officers and social service providers for all forms of sex trafficking, with a focus on sex trafficking of minors;
+
+    (iv) prevention, deterrence, and prosecution of offenses involving sex trafficking of minors;
+
+    (v) cooperation or referral agreements with organizations providing outreach or other related services to runaway and homeless youth; and
+
+    (vi) law enforcement protocols or procedures to screen all individuals arrested for prostitution, whether adult or minor, for victimization by sex trafficking and by other crimes, such as sexual assault and domestic violence; and
+
+  (D) provides assurance that a minor victim of sex trafficking shall not be required to collaborate with law enforcement to have access to residential care or services provided with a grant under this section.
+
+(4) **Minor victim of sex trafficking** — The term “minor victim of sex trafficking” means an individual who—
+
+  (A) is younger than 18 years of age, and is a victim of an offense described in [section 1591(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/a&num=0&edition=prelim) or a comparable State law; or
+
+  (B)
+
+    (i) is not younger than 18 years of age nor older than 20 years of age;
+
+    (ii) before the individual reached 18 years of age, was described in subparagraph (A); and
+
+    (iii) was receiving shelter or services as a minor victim of sex trafficking.
+
+(5) **Qualified nongovernmental organization** — The term “qualified nongovernmental organization” means an organization that—
+
+  (A) is not a State or unit of local government, or an agency of a State or unit of local government;
+
+  (B) has demonstrated experience providing services to victims of sex trafficking or related populations (such as runaway and homeless youth), or employs staff specialized in the treatment of sex trafficking victims; and
+
+  (C) demonstrates a plan to sustain the provision of services beyond the period of a grant awarded under this section.
+
+(6) **Sex trafficking of a minor** — The term “sex trafficking of a minor” means an offense described in [section 1591(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/a&num=0&edition=prelim) or a comparable State law, against a minor.
+
+**(b) Sex trafficking block grants**
+
+(1) **Grants authorized**
+
+  (A) *In general* — The Assistant Attorney General, in consultation with the Assistant Secretary, may make block grants to 4 eligible entities located in different regions of the United States to combat sex trafficking of minors.
+
+  (B) *Requirement* — Not fewer than 1 of the block grants made under subparagraph (A) shall be awarded to an eligible entity with a State population of less than 5,000,000.
+
+  (C) *Grant amount* — Subject to the availability of appropriations under subsection (g) to carry out this section, each grant made under this section shall be for an amount not less than $1,500,000 and not greater than $2,000,000.
+
+  (D) *Duration*
+
+    (i) *In general* — A grant made under this section shall be for a period of 1 year.
+
+    (ii) *Renewal*
+
+      (I) *In general* — The Assistant Attorney General may renew a grant under this section for up to 3 1-year periods.
+
+      (II) *Priority* — In making grants in any fiscal year after the first fiscal year in which grants are made under this section, the Assistant Attorney General shall give priority to an eligible entity that received a grant in the preceding fiscal year and is eligible for renewal under this subparagraph, taking into account any evaluation of the eligible entity conducted under paragraph (4), if available.
+
+  (E) *Consultation* — In carrying out this section, the Assistant Attorney General shall consult with the Assistant Secretary with respect to—
+
+    (i) evaluations of grant recipients under paragraph (4);
+
+    (ii) avoiding unintentional duplication of grants; and
+
+    (iii) any other areas of shared concern.
+
+(2) **Use of funds**
+
+  (A) *Allocation* — Not less than 67 percent of each grant made under paragraph (1) shall be used by the eligible entity to provide residential care and services (as described in clauses (i) through (iv) of subparagraph (B)) to minor victims of sex trafficking through qualified nongovernmental organizations.
+
+  (B) *Authorized activities* — Grants awarded pursuant to paragraph (2) may be used for—
+
+    (i) providing residential care to minor victims of sex trafficking, including temporary or long-term placement as appropriate;
+
+    (ii) providing 24-hour emergency social services response for minor victims of sex trafficking;
+
+    (iii) providing minor victims of sex trafficking with clothing and other daily necessities needed to keep such victims from returning to living on the street;
+
+    (iv) case management services for minor victims of sex trafficking;
+
+    (v) mental health counseling for minor victims of sex trafficking, including specialized counseling and substance abuse treatment;
+
+    (vi) legal services for minor victims of sex trafficking;
+
+    (vii) specialized training for social service providers, public sector personnel, and private sector personnel likely to encounter sex trafficking victims on issues related to the sex trafficking of minors and severe forms of trafficking in persons;
+
+    (viii) outreach and education programs to provide information about deterrence and prevention of sex trafficking of minors;
+
+    (ix) programs to provide treatment to individuals charged or cited with purchasing or attempting to purchase sex acts in cases where—
+
+      (I) a treatment program can be mandated as a condition of a sentence, fine, suspended sentence, or probation, or is an appropriate alternative to criminal prosecution; and
+
+      (II) the individual was not charged with purchasing or attempting to purchase sex acts with a minor; and
+
+    (x) screening and referral of minor victims of severe forms of trafficking in persons.
+
+(3) **Application**
+
+  (A) *In general* — Each eligible entity desiring a grant under this section shall submit an application to the Assistant Attorney General at such time, in such manner, and accompanied by such information as the Assistant Attorney General may reasonably require.
+
+  (B) *Contents* — Each application submitted pursuant to subparagraph (A) shall—
+
+    (i) describe the activities for which assistance under this section is sought; and
+
+    (ii) provide such additional assurances as the Assistant Attorney General determines to be essential to ensure compliance with the requirements of this section.
+
+(4) **Evaluation** — The Assistant Attorney General shall enter into a contract with an academic or non-profit organization that has experience in issues related to sex trafficking of minors and evaluation of grant programs to conduct an annual evaluation of each grant made under this section to determine the impact and effectiveness of programs funded with the grant.
+
+**(c) Mandatory exclusion** An eligible entity that receives a grant under this section that is found to have utilized grant funds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
+
+**(d) Compliance requirement** An eligible entity shall not be eligible to receive a grant under this section if, during the 5 fiscal years before the eligible entity submits an application for the grant, the eligible entity has been found to have violated the terms or conditions of a Government grant program by utilizing grant funds for unauthorized expenditures or otherwise unallowable costs.
+
+**(e) Administrative cap** The cost of administering the grants authorized by this section shall not exceed 3 percent of the total amount appropriated to carry out this section.
+
+**(f) Audit requirement** For fiscal years 2016 and 2017, the Inspector General of the Department of Justice shall conduct an audit of all 4 eligible entities that receive block grants under this section.
+
+**(g) Match requirement** An eligible entity that receives a grant under this section shall provide a non-Federal match in an amount equal to not less than—
+
+(1) 15 percent of the grant during the first year;
+
+(2) 25 percent of the grant during the first renewal period;
+
+(3) 40 percent of the grant during the second renewal period; and
+
+(4) 50 percent of the grant during the third renewal period.
+
+**(h) No limitation on section 20705 grants** An entity that applies for a grant under [section 20705 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20705) is not prohibited from also applying for a grant under this section.
+
+**(i) Authorization of appropriations** There are authorized to be appropriated $8,000,000 to the Attorney General for each of the fiscal years 2018 through 2021 to carry out this section.
+
+**(j) GAO evaluation** Not later than 30 months after March 7, 2013, the Comptroller General of the United States shall submit a report to Congress that contains—
+
+(1) an evaluation of the impact of this section in aiding minor victims of sex trafficking in the jurisdiction of the entity receiving the grant; and
+
+(2) recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate.
 
 ### Statutory Notes
+
+#### References in Text
+March 7, 2013, referred to in subsec. (j), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 113–4, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Codification
 Section was formerly classified to [section 14044a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Pub. L. 115–393, § 301(e)(1)(A), amended section to read as it read on Mar 6, 2017. See 2013 Amendment note below. Prior to amendment, section consisted of subsecs. (a) to (d) relating to grant programs to develop, expand, and strengthen assistance programs for certain persons subject to trafficking.
+
+Subsec. (i). Pub. L. 115–393, § 301(e)(3), substituted “2018 through 2021” for “2014 through 2017”.
+
 2013—Pub. L. 113–4 temporarily amended section generally, so as to consist of subsecs. (a) to (j) relating to grant programs to develop, expand, and strengthen assistance programs for certain persons subject to trafficking. See Effective and Termination Dates of 2013 Amendment note below.
 
 2008—Subsec. (d). Pub. L. 110–457 substituted “$8,000,000 for each of the fiscal years 2008 through 2011” for “$10,000,000 for each of the fiscal years 2006 and 2007”.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–393, title III, § 301(e)(2), Dec. 21, 2018, 132 Stat. 5272, provided that: “The amendments made by paragraph (1) [amending this section and repealing provisions set out as a note under this section] shall take effect as though enacted on March 6, 2017.”
+
 #### Effective and Termination Dates of 2013 Amendment
-Pub. L. 113–4, title XII, § 1241(b), Mar. 7, 2013, 127 Stat. 153, provided that: “The amendment made by subsection (a) [amending this section] shall be effective during the 4-year period beginning on the date of the enactment of this Act [March 7, 2013].”
+Pub. L. 113–4, title XII, § 1241(b), Mar. 7, 2013, 127 Stat. 153, which provided that the amendment made to this section by section 1241(a) of Pub. L. 113–4 would be effective during the 4-year period beginning on Mar. 7, 2013, was repealed by Pub. L. 115–393, title III, § 301(e)(1)(B), Dec. 21, 2018, 132 Stat. 5272.
 
 
 <a id="section-20703"></a>
@@ -372,6 +530,9 @@ This title, referred to in subsec. (b)(3)(A), (4)(A), is title I of Pub. L. 114�
 #### Codification
 Section was formerly classified to [section 14044b–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044b–1&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Grant Accountability
+Pub. L. 115–392, § 22, Dec. 21, 2018, 132 Stat. 5259, provided that: “(a) Definitions.—In this section—“(1) the term ‘covered agency’ means an agency authorized to award grants under this Act [see section 1(a) of Pub. L. 115–392, set out as a Short Title of 2018 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure]; “(2) the term ‘covered grant’ means a grant authorized to be awarded under this Act; and “(3) the term ‘covered official’ means the head of a covered agency. “(b) Accountability.—All covered grants shall be subject to the following accountability provisions:“(1) Audit requirement.—“(A) Definition.—In this paragraph, the term ‘unresolved audit finding’ means a finding in the final audit report of the Inspector General of a covered agency that the audited grantee has utilized funds under a covered grant for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued. “(B) Audits.—Beginning in the first fiscal year beginning after the date of enactment of this Act [Dec. 21, 2018], and in each fiscal year thereafter, the Inspector General of a covered agency shall conduct audits of recipients of covered grants to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year. “(C) Mandatory exclusion.—A recipient of funds under a covered grant that is found to have an unresolved audit finding shall not be eligible to receive funds under a covered grant during the first 2 fiscal years beginning after the end of the 12-month period described in subparagraph (A). “(D) Priority.—In awarding covered grants, a covered official shall give priority to eligible applicants that did not have an unresolved audit finding during the 3 fiscal years before submitting an application for the covered grant. “(E) Reimbursement.—If an entity is awarded funds under a covered grant during the 2-fiscal-year period during which the entity is barred from receiving covered grants under subparagraph (C), a covered official shall—“(i) deposit an amount equal to the amount of the grant funds that were improperly awarded to the grantee into the General Fund of the Treasury; and “(ii) seek to recoup the costs of the repayment to the fund from the recipient of the covered grant that was erroneously awarded grant funds. “(2) Nonprofit organization requirements.—“(A) Definition.—For purposes of this paragraph and each covered grant program, the term ‘nonprofit organization’ means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 [[26 U.S.C. 501(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim)] and is exempt from taxation under section 501(a) of such Code. “(B) Prohibition.—A covered grant may not be awarded to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986 [[26 U.S.C. 511(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section511/a&num=0&edition=prelim)]. “(C) Disclosure.—Each nonprofit organization that is awarded a covered grant and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the applicable covered official, in the application for the covered grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, a covered official shall make the information disclosed under this subparagraph available for public inspection. “(3) Conference expenditures.—“(A) Limitation.—No amounts made available to a covered agency to carry out a covered grant program may be used by a covered official, or by any individual or entity awarded discretionary funds through a cooperative agreement under a covered grant program, to host or support any expenditure for conferences that uses more than $20,000 in funds made available by the covered agency, unless the covered official provides prior written authorization that the funds may be expended to host the conference. “(B) Written approval.—Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food, beverages, audio-visual equipment, honoraria for speakers, and entertainment. “(C) Report.—“(i) Department of justice.—The Deputy Attorney General shall submit an annual report to the appropriate committees of Congress on all conference expenditures approved under this paragraph. “(ii) Department of health and human services.—The Deputy Secretary of Health and Human Services shall submit to the appropriate committees of Congress an annual report on all conference expenditures approved under this paragraph. “(iii) Department of homeland security.—The Deputy Secretary of Homeland Security shall submit to the appropriate committees of Congress an annual report on all conference expenditures approved under this paragraph. “(4) Annual certification.—Beginning in the first fiscal year beginning after the date of enactment of this Act, each covered official shall submit to the appropriate committees of Congress an annual certification—“(A) indicating whether—“(i) all audits issued by the Office of the Inspector General of the applicable covered agency under paragraph (1) have been completed and reviewed by the appropriate official; “(ii) all mandatory exclusions required under paragraph (1)(C) have been issued; and “(iii) all reimbursements required under paragraph (1)(E) have been made; and “(B) that includes a list of any recipients of a covered grant excluded under paragraph (1) from the previous year. “(c) Preventing Duplicative Grants.—“(1) In general.—Before a covered official awards a covered grant, the covered official shall compare potential awards under the covered grant program with other covered grants awarded to determine if duplicate grant awards are awarded for the same purpose. “(2) Report.—If a covered official awards duplicate covered grants to the same applicant for the same purpose the covered official shall submit to the appropriate committees of Congress a report that includes—“(A) a list of all duplicate covered grants awarded, including the total dollar amount of any duplicate covered grants awarded; and “(B) the reason the covered official awarded the duplicate covered grants.”
+
 
 <a id="section-20705"></a>
 ## § 20705. Enhancing State and local efforts to combat trafficking in persons
@@ -385,9 +546,11 @@ Section was formerly classified to [section 14044b–1 of Title 42](https://usco
 
   (C) to investigate and prosecute persons who engage in the purchase of commercial sex acts and prioritize the investigations and prosecutions of those cases involving minor victims;
 
-  (D) to educate persons charged with, or convicted of, purchasing or attempting to purchase commercial sex acts; and
+  (D) to educate persons charged with, or convicted of, purchasing or attempting to purchase commercial sex acts;
 
-  (E) to educate and train law enforcement personnel in how to establish trust of persons subjected to trafficking and encourage cooperation with prosecution efforts.
+  (E) to educate and train law enforcement personnel in how to establish trust of persons subjected to trafficking and encourage cooperation with prosecution efforts; and
+
+  (F) as appropriate, to designate at least 1 prosecutor for cases of severe forms of trafficking in persons (as such term is defined in [section 7102(9) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim).11 So in original. The period probably should be preceded by a closing parenthesis.
 
 (2) **Definition** — In this subsection, the term “related offenses” includes violations of tax laws, transacting in illegally derived proceeds, money laundering, racketeering, and other violations of criminal laws committed in connection with an act of sex trafficking or a severe form of trafficking in persons.
 
@@ -397,7 +560,7 @@ Section was formerly classified to [section 14044b–1 of Title 42](https://usco
 
 **(d) No limitation on section 20702 grant applications** An entity that applies for a grant under [section 20702 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20702) is not prohibited from also applying for a grant under this section.
 
-**(e) Authorization of appropriations** There are authorized to be appropriated to the Attorney General to carry out this section $10,000,000 for each of the fiscal years 2014 through 2017.
+**(e) Authorization of appropriations** There are authorized to be appropriated to the Attorney General to carry out this section $10,000,000 for each of the fiscal years 2014 through 2021.
 
 **(f) GAO evaluation and report** Not later than 30 months after March 7, 2013, the Comptroller General of the United States shall conduct a study of and submit to Congress a report evaluating the impact of this section on—
 
@@ -411,6 +574,10 @@ Section was formerly classified to [section 14044b–1 of Title 42](https://usco
 Section was formerly classified to [section 14044c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044c&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2019—Subsec. (a)(1)(F). Pub. L. 115–425 added subpar. (F).
+
+2018—Subsec. (e). Pub. L. 115–393 substituted “2021” for “2017”.
+
 2013—Subsec. (a)(1)(A). Pub. L. 113–4, § 1242(1)(A), struck out “, which involve United States citizens, or aliens admitted for permanent residence, and” after “related offenses”.
 
 Subsec. (a)(1)(B) to (E). Pub. L. 113–4, § 1242(1)(B)–(D), added subpar. (B), redesignated former subpars. (B) to (D) as (C) to (E), respectively, and in subpar. (C) inserted “and prioritize the investigations and prosecutions of those cases involving minor victims” after “commercial sex acts”.
@@ -471,26 +638,54 @@ Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)
 
 
 <a id="section-20708"></a>
-## § 20708. Grants for law enforcement training programs
+## § 20708. Grants for specialized human trafficking training and technical assistance for service providers
 **(a) Definitions** In this section:
 
 (1) **Act of trafficking** — The term “act of trafficking” means an act or practice described in paragraph (9) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim).
 
-(2) **Eligible entity** — The term “eligible entity” means a State or a local government.
+(2) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State or unit of local government;
+
+  (B) a federally recognized Indian tribal government, as determined by the Secretary of the Interior;
+
+  (C) a victim service provider;
+
+  (D) a nonprofit or for-profit organization (including a tribal nonprofit or for-profit organization);
+
+  (E) a national organization; or
+
+  (F) an institution of higher education (including tribal institutions of higher education).
 
 (3) **State** — The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and any other territory or possession of the United States.
 
 (4) **Victim of trafficking** — The term “victim of trafficking” means a person subjected to an act of trafficking.
 
-**(b) Grants authorized** The Attorney General may award grants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking.
+**(b) Grants authorized** The Attorney General may award grants to eligible entities to—
+
+(1) provide training to identify and protect victims of trafficking;
+
+(2) improve the quality and quantity of services offered to trafficking survivors; and
+
+(3) improve victim service providers’ partnerships with Federal, State, tribal, and local law enforcement agencies and other relevant entities.
 
 **(c) Use of funds** A grant awarded under this section shall be used to—
 
 (1) train law enforcement personnel to identify and protect victims of trafficking, including training such personnel to utilize Federal, State, or local resources to assist victims of trafficking;
 
-(2) train law enforcement or State or local prosecutors to identify, investigate, or prosecute acts of trafficking; or
+(2) train law enforcement or State or local prosecutors to identify, investigate, or prosecute acts of trafficking;
 
-(3) train law enforcement or State or local prosecutors to utilize laws that prohibit acts of trafficking and to assist in the development of State and local laws to prohibit acts of trafficking.
+(3) train law enforcement or State or local prosecutors to utilize laws that prohibit acts of trafficking and to assist in the development of State and local laws to prohibit acts of trafficking;
+
+(4) provide technical assistance on the range of services available to victim service providers who serve trafficking victims;
+
+(5) develop and distribute materials, including materials identifying best practices in accordance with Federal law and policies, to support victim service providers working with human trafficking victims;
+
+(6) identify and disseminate other publicly available materials in accordance with Federal law to help build capacity of service providers;
+
+(7) provide training at relevant conferences, through webinars, or through other mechanisms in accordance with Federal law; or
+
+(8) assist service providers in developing additional resources such as partnerships with Federal, State, tribal, and local law enforcement agencies and other relevant entities in order to access a range of available services in accordance with Federal law.
 
 **(d) Restrictions**
 
@@ -506,6 +701,14 @@ Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)
 Section was formerly classified to [section 14044f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044f&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Pub. L. 115–392, § 10(a)(1), substituted “specialized human trafficking training and technical assistance for service providers” for “law enforcement training programs” in section catchline.
+
+Subsec. (a)(2). Pub. L. 115–392, § 10(a)(2), substituted “means—” and subpars. (A) to (F) for “means a State or a local government.”
+
+Subsec. (b). Pub. L. 115–392, § 10(a)(3), added subsec. (b) and struck out former subsec. (b). Text read as follows: “The Attorney General may award grants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking.”
+
+Subsec. (c)(4) to (8). Pub. L. 115–392, § 10(a)(4), added pars. (4) to (8).
+
 2013—Subsec. (a)(1). Pub. L. 113–4 substituted “paragraph (9)” for “paragraph (8)”.
 
 
@@ -533,9 +736,17 @@ Section was formerly classified to [section 14044f of Title 42](https://uscode.h
 
   (A) *Law enforcement officers* — The Attorney General shall ensure that each anti-human trafficking program operated by the Department of Justice, including each anti-human trafficking training program for Federal, State, or local law enforcement officers, includes technical training on—
 
-    (i) effective methods for investigating and prosecuting covered offenders; and
+    (i) effective methods for investigating and prosecuting covered offenders;
 
-    (ii) facilitating the provision of physical and mental health services by health care providers to persons subject to severe forms of trafficking in persons.
+    (ii) facilitating the provision of physical and mental health services by health care providers to persons subject to severe forms of trafficking in persons;
+
+    (iii) individually screening all adults and children who are suspected of engaging in commercial sex acts or who are subject to labor exploitation that may be in violation of child labor laws to determine whether each individual screened is a victim of human trafficking; and
+
+    (iv) how—
+
+      (I) victims of sex or labor trafficking often engage in criminal acts as a direct result of severe trafficking in persons; and
+
+      (II) such individuals are victims of a crime and affirmative measures should be taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization.
 
   (B) *Federal prosecutors* — The Attorney General shall ensure that each anti-human trafficking program operated by the Department of Justice for United States attorneys or other Federal prosecutors includes training on seeking restitution for offenses under chapter 77 of title 18 to ensure that each United States attorney or other Federal prosecutor, upon obtaining a conviction for such an offense, requests a specific amount of restitution for each victim of the offense without regard to whether the victim requests restitution.
 
@@ -549,13 +760,13 @@ Section was formerly classified to [section 14044f of Title 42](https://uscode.h
 
 (1) prepare an annual report on—
 
-  (A) the rates of—
+  (A) the number of—
 
-    (i) arrest of individuals by State law enforcement officers for a covered offense;
+    (i) arrests of individuals by State law enforcement officers for a covered offense, noting the number of covered offenders;
 
-    (ii) prosecution (including specific charges) of individuals in State court systems for a covered offense; and
+    (ii) prosecutions (including specific charges) of individuals in State court systems for a covered offense, noting the number of covered offenders; and
 
-    (iii) conviction of individuals in State court systems for a covered offense; and
+    (iii) convictions of individuals in State court systems for a covered offense, noting the number of covered offenders; and
 
   (B) sentences imposed on individuals convicted in State court systems for a covered offense; and
 
@@ -571,6 +782,26 @@ Section was formerly classified to [section 14044f of Title 42](https://uscode.h
 
   (E) the Attorney General.
 
+**(f) Department of Justice victim screening protocol**
+
+(1) **In general** — Not later than 180 days after December 21, 2018, the Attorney General shall issue a screening protocol for use during all anti-trafficking law enforcement operations in which the Department of Justice is involved.
+
+(2) **Requirements** — The protocol required to be issued under paragraph (1) shall—
+
+  (A) require the individual screening of all adults and children who are suspected of engaging in commercial sex acts or who are subject to labor exploitation that may be in violation of child labor laws to determine whether each individual screened is a victim of human trafficking;
+
+  (B) require affirmative measures to avoid arresting, charging, or prosecuting human trafficking victims for any offense that is the direct result of their victimization;
+
+  (C) require all Federal law enforcement officers and relevant department personnel who participate in human trafficking investigations to receive training on enforcement of the protocol;
+
+  (D) be developed in consultation with State and local law enforcement agencies, the Department of Health and Human Services, survivors of human trafficking, and nongovernmental organizations that specialize in the identification, prevention, and restoration of victims of human trafficking; and
+
+  (E) include—
+
+    (i) procedures and practices to ensure that the screening process minimizes trauma or revictimization of the person being screened; and
+
+    (ii) guidelines on assisting victims of human trafficking in identifying and receiving victim services.
+
 ### Statutory Notes
 
 #### Codification
@@ -578,8 +809,78 @@ Section is comprised of section 114 of Pub. L. 114–22. Subsec. (d) of section 
 
 Section was formerly classified to [section 14044g of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044g&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+2019—Subsec. (e)(1)(A). Subsec. (e)(1)(A). Pub. L. 115–425, § 121(b)(1), (2), substituted “number” for “rates” in introductory provisions and inserted “, noting the number of covered offenders” after “covered offense” wherever appearing.
+
+Subsec. (e)(1)(A)(i). Pub. L. 115–425, § 121(b)(3), substituted “arrests” for “arrest”.
+
+Subsec. (e)(1)(A)(ii). Pub. L. 115–425, § 121(b)(4), substituted “prosecutions” for “prosecution”.
+
+Subsec. (e)(1)(A)(iii). Pub. L. 115–425, § 121(b)(5), substituted “convictions” for “conviction”.
+
+2018—Subsec. (c)(1)(A)(iii), (iv). Pub. L. 115–393, § 502(1), added cls. (iii) and (iv).
+
+Subsec. (f). Pub. L. 115–393, § 502(2), added subsec. (f).
+
 #### Using Existing Task Forces and Components To Target Offenders Who Exploit Children
 Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239, provided that: “Not later than 180 days after the date of enactment of this Act [May 29, 2015], the Attorney General shall ensure that— “(1) all task forces and working groups within the Innocence Lost National Initiative engage in activities, programs, or operations to increase the investigative capabilities of State and local law enforcement officers in the detection, investigation, and prosecution of persons who patronize, or solicit children for sex; and “(2) all components and task forces with jurisdiction to detect, investigate, and prosecute cases of child labor trafficking engage in activities, programs, or operations to increase the capacity of such components to deter and punish child labor trafficking.”
+
+
+<a id="section-20709a"></a>
+## § 20709a. Holistic training for Federal law enforcement officers and prosecutors
+
+All training required under [section 20709 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20709) and [section 7105(c)(4) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/4&num=0&edition=prelim) 11 See References in Text note below. shall—
+
+(1) emphasize that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim)) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense;
+
+(2) develop specific curriculum for—
+
+  (A) under appropriate circumstances, arresting and prosecuting buyers of commercial sex, child labor that is a violation of law, or forced labor as a form of primary prevention; and
+
+  (B) investigating and prosecuting individuals who knowingly benefit financially from participation in a venture that has engaged in any act of human trafficking; and
+
+(3) specify that any comprehensive approach to eliminating human trafficking shall include a demand reduction component.
+
+### Statutory Notes
+
+#### References in Text
+[Section 7105(c)(4) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/4&num=0&edition=prelim), referred to in text, was in the original “section 105(c)(4) of the Trafficking Victims Protection Act of 2000” and was translated as if it read “section 107(c)(4)” of the Act to reflect the probable intent of Congress. There is no section 105(c)(4) of the Trafficking Victims Protection Act of 2000 and section 107(c)(4) relates to the training of Government personnel.
+
+
+<a id="section-20709b"></a>
+## § 20709b. Encouraging a victim-centered approach to training of Federal law enforcement personnel
+**(a) Training curriculum improvements** The Attorney General, Secretary of Homeland Security, and Secretary of Labor shall periodically, but not less frequently than once every 2 years, implement improvements to the training programs on human trafficking for employees of the Department of Justice, Department of Homeland Security, and Department of Labor, respectively, after consultation with survivors of human trafficking, or trafficking victims service providers, and Federal law enforcement agencies responsible for the prevention, deterrence, and prosecution of offenses involving human trafficking (such as individuals serving as, or who have served as, investigators in a Federal agency and who have expertise in identifying human trafficking victims and investigating human trafficking cases).
+
+**(b) Advanced training curriculum**
+
+(1) **In general** — Not later than 1 year after December 21, 2018, the Attorney General and the Secretary of Homeland Security shall develop an advanced training curriculum, to supplement the basic curriculum for investigative personnel of the Department of Justice and the Department of Homeland Security, respectively, that—
+
+  (A) emphasizes a multidisciplinary, collaborative effort by law enforcement officers who provide a broad range of investigation and prosecution options in response to perpetrators, and victim service providers, who offer services and resources for victims;
+
+  (B) provides guidance about the recruitment techniques employed by human traffickers to clarify that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim)) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense; and
+
+  (C) explains that—
+
+    (i) victims of sex or labor trafficking often engage in criminal acts as a direct result of severe trafficking in persons and such individuals are victims of a crime and affirmative measures should be taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization; and
+
+    (ii) a comprehensive approach to eliminating human trafficking should include demand reduction as a component.
+
+(2) **Use of curriculum** — The Attorney General and the Secretary of Homeland Security shall provide training using the curriculum developed under paragraph (1) to—
+
+  (A) all law enforcement officers employed by the Department of Justice and the Department of Homeland Security, respectively, who may be involved in the investigation of human trafficking offenses; and
+
+  (B) members of task forces that participate in the investigation of human trafficking offenses.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 501 of Pub. L. 115–393. Subsec. (c) of section 501 of Pub. L. 115–393 amended [section 7105 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+
+<a id="section-20709c"></a>
+## § 20709c. Training of tribal law enforcement and prosecutorial personnel
+
+The Attorney General, in consultation with the Director of the Office of Tribal Justice, shall carry out a program under which tribal law enforcement officials may receive technical assistance and training to pursue a victim-centered approach to investigating and prosecuting severe forms of trafficking in persons (as defined in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)).
 
 
 <a id="section-20710"></a>
@@ -611,11 +912,9 @@ Section was formerly classified as a note under [section 5611 of Title 42](https
 
   (A) the development by each United States attorney, in consultation with State, local, and tribal government agencies, of a district-specific strategic plan to coordinate the identification of victims and the investigation and prosecution of human trafficking crimes;
 
-  (B) the appointment of not fewer than 1 assistant United States attorney in each district dedicated to the prosecution of human trafficking cases or responsible for implementing the National Strategy;
+  (B) the participation in any Federal, State, local, or tribal human trafficking task force operating in the district of the United States attorney; and
 
-  (C) the participation in any Federal, State, local, or tribal human trafficking task force operating in the district of the United States attorney; and
-
-  (D) any other efforts intended to enhance the level of coordination and cooperation, as determined by the Attorney General.
+  (C) any other efforts intended to enhance the level of coordination and cooperation, as determined by the Attorney General.
 
 (2) Case coordination within the Department of Justice, including specific integration, coordination, and collaboration, as appropriate, on human trafficking investigations between and among the United States attorneys, the Human Trafficking Prosecution Unit, the Child Exploitation and Obscenity Section, and the Federal Bureau of Investigation.
 
@@ -625,7 +924,51 @@ Section was formerly classified as a note under [section 5611 of Title 42](https
 
 (5) Encouragement of cooperation, coordination, and mutual support between private sector and other entities and organizations and Federal agencies to combat human trafficking, including the involvement of State, local, and tribal government agencies to the extent Federal programs are involved.
 
+(6) A national strategy to prevent human trafficking and reduce demand for human trafficking victims.
+
+**(c) Human Trafficking Justice Coordinators** The Attorney General shall designate in each Federal judicial district not less than 1 assistant United States attorney to serve as the Human Trafficking Coordinator for the district who, in addition to any other responsibilities, works with a human trafficking victim-witness specialist and shall be responsible for—
+
+(1) implementing the National Strategy with respect to all forms of human trafficking, including labor trafficking and sex trafficking;
+
+(2) prosecuting, or assisting in the prosecution of, human trafficking cases;
+
+(3) conducting public outreach and awareness activities relating to human trafficking;
+
+(4) ensuring the collection of data required to be collected under clause (viii) of section 7103(d)(7)(Q)) of title 22, as added by section 17 of the Abolish Human Trafficking Act of 2017,11 See References in Text note below. is sought;
+
+(5) coordinating with other Federal agencies, State, tribal, and local law enforcement agencies, victim service providers, and other relevant non-governmental organizations to build partnerships on activities relating to human trafficking; and
+
+(6) ensuring the collection of restitution for victims is sought as required to be ordered under [section 1593 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1593&num=0&edition=prelim) and section 2429 of such title.
+
+**(d) Department of Justice Coordinator** Not later than 60 days after December 21, 2018, the Attorney General shall designate an official who shall coordinate human trafficking efforts within the Department of Justice who, in addition to any other responsibilities, shall be responsible for—
+
+(1) coordinating, promoting, and supporting the work of the Department of Justice relating to human trafficking, including investigation, prosecution, training, outreach, victim support, grant-making, and policy activities;
+
+(2) in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
+
+  (A) identify signs of human trafficking;
+
+  (B) conduct investigations in human trafficking cases;
+
+  (C) address evidentiary issues and other legal issues; and
+
+  (D) appropriately assess, respond to, and interact with victims and witnesses in human trafficking cases, including in administrative, civil, and criminal judicial proceedings; and
+
+(3) carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, human trafficking.
+
 ### Statutory Notes
+
+#### References in Text
+Clause (viii) of section 7103(d)(7)(Q)) of title 22, as added by section 17 of the Abolish Human Trafficking Act of 2017, referred to subsec. (c)(4), probably should be a reference to the clause as added by section 16 of the Abolish Human Trafficking Act of 2017, which is section 16 of Pub. L. 115–392, Dec. 21, 2018, 132 Stat. 5257.
+
+Section 2429 of such title, as added by section 3 of the Abolish Human Trafficking Act of 2017, referred to in subsec. (c)(6), means [section 2429 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2429&num=0&edition=prelim), as added by section 3(a) of Pub. L. 115–392, Dec. 21, 2018, 132 Stat. 5251.
 
 #### Codification
 Section was formerly classified to [section 14044h of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044h&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Subsec. (b)(1)(B) to (D). Pub. L. 115–392, § 15(1), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “the appointment of not fewer than 1 assistant United States attorney in each district dedicated to the prosecution of human trafficking cases or responsible for implementing the National Strategy;”.
+
+Subsec. (b)(6). Pub. L. 115–392, § 9, added par. (6).
+
+Subsecs. (c), (d). Pub. L. 115–392, § 15(2), added subsecs. (c) and (d).

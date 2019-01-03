@@ -11,9 +11,9 @@ source: >-
 
 ### Statutory Notes
 
-Section 1181, act Sept. 3, 1954, ch. 1257, title I, § 102, 68 Stat. 1149, defined terms used in the Reserve Officer Personnel Act of 1954. See sections 101(d)(4), 12003 to 12005, 12202, 12642, 12646, 12647, and 12772 of Title 10, Armed Forces, and [section 720 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section720&num=0&edition=prelim), Coast Guard.
+Section 1181, act Sept. 3, 1954, ch. 1257, title I, § 102, 68 Stat. 1149, defined terms used in the Reserve Officer Personnel Act of 1954. See sections 101(d)(4), 12003 to 12005, 12202, 12642, 12646, 12647, and 12772 of Title 10, Armed Forces, and [section 3731 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3731&num=0&edition=prelim), Coast Guard.
 
-Section 1182, act Sept. 3, 1954, ch. 1257, title VII, § 703, 68 Stat. 1189, contained savings provisions. See [section 723 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section723&num=0&edition=prelim).
+Section 1182, act Sept. 3, 1954, ch. 1257, title VII, § 703, 68 Stat. 1189, contained savings provisions. See [section 3734 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3734&num=0&edition=prelim).
 
 
 <a id="section-1191-to-1202"></a>
@@ -21,11 +21,11 @@ Section 1182, act Sept. 3, 1954, ch. 1257, title VII, § 703, 68 Stat. 1189, con
 
 ### Statutory Notes
 
-Section 1191, acts Sept. 3, 1954, ch. 1257, title II, § 201, 68 Stat. 1150; June 30, 1955, ch. 247, § 1(a), 69 Stat. 218, related to constructive service credit on initial appointment. See [section 12207 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12207&num=0&edition=prelim), Armed Forces, and [section 727 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section727&num=0&edition=prelim), Coast Guard.
+Section 1191, acts Sept. 3, 1954, ch. 1257, title II, § 201, 68 Stat. 1150; June 30, 1955, ch. 247, § 1(a), 69 Stat. 218, related to constructive service credit on initial appointment. See [section 12207 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12207&num=0&edition=prelim), Armed Forces, and [section 3738 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3738&num=0&edition=prelim), Coast Guard.
 
-Section 1192, act Sept. 3, 1954, ch. 1257, title II, § 202, 68 Stat. 1150, related to eligibility for promotion and to standards and qualifications for active status. See sections 12642 and 14301 et seq. of Title 10, Armed Forces, and [section 732 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section732&num=0&edition=prelim), Coast Guard.
+Section 1192, act Sept. 3, 1954, ch. 1257, title II, § 202, 68 Stat. 1150, related to eligibility for promotion and to standards and qualifications for active status. See sections 12642 and 14301 et seq. of Title 10, Armed Forces, and [section 3743 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3743&num=0&edition=prelim), Coast Guard.
 
-Section 1193, act Sept. 3, 1954, ch. 1257, title II, § 203, 68 Stat. 1150, related to appointment, composition, duration of service, quorum, and oath of service of selection boards, and to communications by officers eligible for promotion. See section 14101 et seq. of Title 10, Armed Forces, and [section 730 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section730&num=0&edition=prelim), Coast Guard.
+Section 1193, act Sept. 3, 1954, ch. 1257, title II, § 203, 68 Stat. 1150, related to appointment, composition, duration of service, quorum, and oath of service of selection boards, and to communications by officers eligible for promotion. See section 14101 et seq. of Title 10, Armed Forces, and [section 3741 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3741&num=0&edition=prelim), Coast Guard.
 
 Section 1194, act Sept. 3, 1954, ch. 1257, title II, § 204, 68 Stat. 1151, authorized retention of officers with incomplete reserve service. See [section 12645 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12645&num=0&edition=prelim), Armed Forces.
 
@@ -33,17 +33,17 @@ Section 1195, acts Sept. 3, 1954, ch. 1257, title II, § 205, 68 Stat. 1151; Jun
 
 Section 1196, act Sept. 3, 1954, ch. 1257, title II, § 206, 68 Stat. 1152, provided for advancement in grade on retirement or transfer to Retired Reserve. See sections 12771 to 12773 of Title 10.
 
-Section 1197, act Sept. 3, 1954, ch. 1257, title II, § 207, 68 Stat. 1152, related to grade on entry upon active duty. See [section 12320 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12320&num=0&edition=prelim), Armed Forces, and [section 745 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section745&num=0&edition=prelim), Coast Guard.
+Section 1197, act Sept. 3, 1954, ch. 1257, title II, § 207, 68 Stat. 1152, related to grade on entry upon active duty. See [section 12320 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12320&num=0&edition=prelim), Armed Forces, and [section 3756 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3756&num=0&edition=prelim), Coast Guard.
 
-Section 1198, act Sept. 3, 1954, ch. 1257, title II, § 208, 68 Stat. 1152, provided for recommendation for promotion of officer previously removed from active status. See [section 14317 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14317&num=0&edition=prelim), Armed Forces, and [section 733 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section733&num=0&edition=prelim), Coast Guard.
+Section 1198, act Sept. 3, 1954, ch. 1257, title II, § 208, 68 Stat. 1152, provided for recommendation for promotion of officer previously removed from active status. See [section 14317 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14317&num=0&edition=prelim), Armed Forces, and [section 3744 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3744&num=0&edition=prelim), Coast Guard.
 
-Section 1199, act Sept. 3, 1954, ch. 1257, title II, § 209, 68 Stat. 1152, authorized the President to suspend provisions of Reserve Officer Personnel Act of 1954 in time of war or national emergency. See [section 123 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section123&num=0&edition=prelim), Armed Forces, [section 722 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section722&num=0&edition=prelim), Coast Guard, and [section 111 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section111&num=0&edition=prelim), National Guard.
+Section 1199, act Sept. 3, 1954, ch. 1257, title II, § 209, 68 Stat. 1152, authorized the President to suspend provisions of Reserve Officer Personnel Act of 1954 in time of war or national emergency. See [section 123 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section123&num=0&edition=prelim), Armed Forces, [section 3733 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3733&num=0&edition=prelim), Coast Guard, and [section 111 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section111&num=0&edition=prelim), National Guard.
 
-Section 1200, act Sept. 3, 1954, ch. 1257, title II, § 210, 68 Stat. 1152, provided that there shall be no requirement for sea or foreign service for promotion of Reserve officers. See [section 779 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section779&num=0&edition=prelim), Coast Guard.
+Section 1200, act Sept. 3, 1954, ch. 1257, title II, § 210, 68 Stat. 1152, provided that there shall be no requirement for sea or foreign service for promotion of Reserve officers.
 
 Section 1201, act Sept. 3, 1954, ch. 1257, title II, § 211, 68 Stat. 1153, related to grades of Reserve officers. See [section 12202 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12202&num=0&edition=prelim), Armed Forces.
 
-Section 1202, act Sept. 3, 1954, ch. 1257, title II, § 212, 68 Stat. 1153, related to active status of officers assigned to Selective Service System. See [section 12647 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12647&num=0&edition=prelim), Armed Forces, and [section 740 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section740&num=0&edition=prelim), Coast Guard.
+Section 1202, act Sept. 3, 1954, ch. 1257, title II, § 212, 68 Stat. 1153, related to active status of officers assigned to Selective Service System. See [section 12647 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12647&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-1221-to-1227"></a>
@@ -280,41 +280,41 @@ Section 1357, act Sept. 3, 1954, ch. 1257, title V, § 527, as added June 30, 19
 
 ### Statutory Notes
 
-Section 1381, act Sept. 3, 1954, ch. 1257, title VI, § 601, 68 Stat. 1183, defined terms used in sections 1381 to 1399 of this title. See [section 720 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section720&num=0&edition=prelim), Coast Guard.
+Section 1381, act Sept. 3, 1954, ch. 1257, title VI, § 601, 68 Stat. 1183, defined terms used in sections 1381 to 1399 of this title. See [section 3731 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3731&num=0&edition=prelim), Coast Guard.
 
-Section 1382, act Sept. 3, 1954, ch. 1257, title VI, § 602, 68 Stat. 1183, related to applicability of sections 1381 to 1399 of this title. See [section 721 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section721&num=0&edition=prelim).
+Section 1382, act Sept. 3, 1954, ch. 1257, title VI, § 602, 68 Stat. 1183, related to applicability of sections 1381 to 1399 of this title. See [section 3732 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3732&num=0&edition=prelim).
 
-Section 1383, act Sept. 3, 1954, ch. 1257, title VI, § 603, 68 Stat. 1184, related to authorized numbers and distribution of officers in the Coast Guard Reserve. See [section 724 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section724&num=0&edition=prelim).
+Section 1383, act Sept. 3, 1954, ch. 1257, title VI, § 603, 68 Stat. 1184, related to authorized numbers and distribution of officers in the Coast Guard Reserve. See [section 3735 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3735&num=0&edition=prelim).
 
-Section 1384, act Sept. 3, 1954, ch. 1257, title VI, § 604, 68 Stat. 1184, related to promotions and selection boards. See [section 729 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section729&num=0&edition=prelim).
+Section 1384, act Sept. 3, 1954, ch. 1257, title VI, § 604, 68 Stat. 1184, related to promotions and selection boards. See [section 3740 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3740&num=0&edition=prelim).
 
-Section 1385, act Sept. 3, 1954, ch. 1257, title VI, § 605, 68 Stat. 1185, provided for precedence. See [section 725 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section725&num=0&edition=prelim).
+Section 1385, act Sept. 3, 1954, ch. 1257, title VI, § 605, 68 Stat. 1185, provided for precedence. See [section 3736 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3736&num=0&edition=prelim).
 
-Section 1386, acts Sept. 3, 1954, ch. 1257, title VI, § 606, 68 Stat. 1185; June 30, 1955, ch. 247, § 5(a), 69 Stat. 221, related to running mates. See [section 726 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section726&num=0&edition=prelim).
+Section 1386, acts Sept. 3, 1954, ch. 1257, title VI, § 606, 68 Stat. 1185; June 30, 1955, ch. 247, § 5(a), 69 Stat. 221, related to running mates. See [section 3737 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3737&num=0&edition=prelim).
 
-Section 1387, act Sept. 3, 1954, ch. 1257, title VI, § 607, 68 Stat. 1186, related to promotion zones. See [section 731 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section731&num=0&edition=prelim).
+Section 1387, act Sept. 3, 1954, ch. 1257, title VI, § 607, 68 Stat. 1186, related to promotion zones. See [section 3742 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3742&num=0&edition=prelim).
 
-Section 1388, acts Sept. 3, 1954, ch. 1257, title VI, § 608, 68 Stat. 1186; June 30, 1955, ch. 247, § 5(b), 69 Stat. 221, related to date of rank upon promotion. See [section 736 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section736&num=0&edition=prelim).
+Section 1388, acts Sept. 3, 1954, ch. 1257, title VI, § 608, 68 Stat. 1186; June 30, 1955, ch. 247, § 5(b), 69 Stat. 221, related to date of rank upon promotion. See [section 3747 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3747&num=0&edition=prelim).
 
-Section 1389, act Sept. 3, 1954, ch. 1257, title VI, § 609, 68 Stat. 1186, related to minimum points for consideration for promotion. See [section 785 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section785&num=0&edition=prelim).
+Section 1389, act Sept. 3, 1954, ch. 1257, title VI, § 609, 68 Stat. 1186, related to minimum points for consideration for promotion.
 
-Section 1390, act Sept. 3, 1954, ch. 1257, title VI, § 610, 68 Stat. 1186, related to qualifications for promotion. See [section 734 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section734&num=0&edition=prelim).
+Section 1390, act Sept. 3, 1954, ch. 1257, title VI, § 610, 68 Stat. 1186, related to qualifications for promotion. See [section 3745 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3745&num=0&edition=prelim).
 
-Section 1391, act Sept. 3, 1954, ch. 1257, title VI, § 611, 68 Stat. 1186, related to failure of selection and elimination. See [section 740 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section740&num=0&edition=prelim).
+Section 1391, act Sept. 3, 1954, ch. 1257, title VI, § 611, 68 Stat. 1186, related to failure of selection and elimination. See [section 3751 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3751&num=0&edition=prelim).
 
-Section 1392, act Sept. 3, 1954, ch. 1257, title VI, § 612, 68 Stat. 1187, provided for removal from promotion list by the President. See [section 738 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section738&num=0&edition=prelim).
+Section 1392, act Sept. 3, 1954, ch. 1257, title VI, § 612, 68 Stat. 1187, provided for removal from promotion list by the President. See [section 3749 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3749&num=0&edition=prelim).
 
-Section 1393, act Sept. 3, 1954, ch. 1257, title VI, § 613, 68 Stat. 1187, related to maximum ages for active status. See [section 742 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section742&num=0&edition=prelim).
+Section 1393, act Sept. 3, 1954, ch. 1257, title VI, § 613, 68 Stat. 1187, related to maximum ages for active status. See [section 3753 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3753&num=0&edition=prelim).
 
-Section 1394, act Sept. 3, 1954, ch. 1257, title VI, § 614, 68 Stat. 1187, related to type of promotion. See [section 737 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section737&num=0&edition=prelim).
+Section 1394, act Sept. 3, 1954, ch. 1257, title VI, § 614, 68 Stat. 1187, related to type of promotion. See [section 3748 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3748&num=0&edition=prelim).
 
-Section 1395, act Sept. 3, 1954, ch. 1257, title VI, § 615, 68 Stat. 1188, related to promotion of officers serving on active duty. See [section 728 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section728&num=0&edition=prelim).
+Section 1395, act Sept. 3, 1954, ch. 1257, title VI, § 615, 68 Stat. 1188, related to promotion of officers serving on active duty. See [section 3739 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3739&num=0&edition=prelim).
 
-Section 1396, act Sept. 3, 1954, ch. 1257, title VI, § 616, 68 Stat. 1188, provided for appointment of former Navy and Coast Guard officers. See [section 744 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section744&num=0&edition=prelim).
+Section 1396, act Sept. 3, 1954, ch. 1257, title VI, § 616, 68 Stat. 1188, provided for appointment of former Navy and Coast Guard officers. See [section 3755 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3755&num=0&edition=prelim).
 
-Section 1397, act Sept. 3, 1954, ch. 1257, title VI, § 617, 68 Stat. 1188, provided for recall of retired officers. See [section 746 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section746&num=0&edition=prelim).
+Section 1397, act Sept. 3, 1954, ch. 1257, title VI, § 617, 68 Stat. 1188, provided for recall of retired officers. See [section 3757 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3757&num=0&edition=prelim).
 
-Section 1398, act Sept. 3, 1954, ch. 1257, title VI, § 618, 68 Stat. 1188, authorized the Secretary to promulgate regulations. See [section 794 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section794&num=0&edition=prelim).
+Section 1398, act Sept. 3, 1954, ch. 1257, title VI, § 618, 68 Stat. 1188, authorized the Secretary to promulgate regulations.
 
 
 <a id="section-1399"></a>

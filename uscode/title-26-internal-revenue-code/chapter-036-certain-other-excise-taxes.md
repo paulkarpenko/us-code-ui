@@ -267,11 +267,7 @@ A prior section 4472 was contained in subchapter C of this chapter prior to repe
 
   (B) *Destroyed* — For purposes of subparagraph (A), a highway motor vehicle is destroyed if such vehicle is damaged by reason of an accident or other casualty to such an extent that it is not economic to rebuild.
 
-**(d) One tax liability per period**
-
-(1) **In general** — To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
-
-(2) **Cross reference** — For privilege of paying tax imposed by this section in installments, see section 6156.11 See References in Text note below.
+**(d) One tax liability per period** To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
 
 **(e) Electronic filing** Any taxpayer who files a return under this section with respect to 25 or more vehicles for any taxable period shall file such return electronically.
 
@@ -279,10 +275,13 @@ A prior section 4472 was contained in subchapter C of this chapter prior to repe
 
 ### Statutory Notes
 
-#### References in Text
-Section 6156, referred to in subsec. (d)(2), was repealed by Pub. L. 108–357, title VIII, § 867(b)(1), Oct. 22, 2004, 118 Stat. 1622.
-
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–141 amended subsec. (d) generally. Prior to amendment, text read as follows:
+
+“(1) In general.—To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
+
+“(2) Cross reference.—For privilege of paying tax imposed by this section in installments, see section 6156.”
+
 2015—Subsec. (f). Pub. L. 114–94 substituted “2023” for “2017”.
 
 2012—Subsec. (f). Pub. L. 112–141 substituted “2017” for “2013”.
@@ -389,6 +388,9 @@ Section effective June 29, 1956, see section 211 of act June 29, 1956, set out a
 #### Regulations
 Pub. L. 100–17, title V, § 507(c), Apr. 2, 1987, 101 Stat. 260, provided that: “The Secretary of the Treasury or the delegate of the Secretary shall within 120 days after the date of the enactment of this section [Apr. 2, 1987] prescribe regulations governing payment of the tax imposed by section 4481 of the Internal Revenue Code of 1986 on any highway motor vehicle operated by a motor carrier domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country. Such regulations shall include a procedure by which the operator of such motor vehicle shall evidence that such operator has paid such tax at the time such motor vehicle enters the United States. In the event of the failure to provide evidence of payment, such regulations may provide for denial of entry of such motor vehicle into the United States.”
 
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
 #### Special Rules in the Case of Certain Owner-Operators
 Pub. L. 98–369, div. A, title IX, § 901(b), July 18, 1984, 98 Stat. 1003, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(1) Special rule for taxable period beginning on july 1, 1984.—In the case of a small owner-operator, the amount of the tax imposed by section 4481 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] on the use of any highway motor vehicle subject to tax under section 4481(a) of such Code (as amended by subsection (a)) for the taxable period which begins on July 1, 1984, shall be the lesser of—“(A) $3 for each 1,000 pounds of taxable gross weight (or fraction thereof), or “(B) the amount of the tax which would be imposed under such section 4481(a) without regard to this paragraph. “(2) Exemption for vehicles used for less than 5,000 miles (and certain other amendments) to take effect on july 1, 1984.—In the case of a small owner-operator, notwithstanding subsection (f)(2) of section 513 of the Highway Revenue Act of 1982 [section 513(f)(2) of Pub. L. 97–424, set out as an Effective Date of 1983 Amendment note above], the amendments made by subsections (b), (c), and (d) of such section [amending sections 4481 to 4483 of this title] shall take effect on July 1, 1984. “(3) Small owner-operator defined.—For purposes of this subsection, the term ‘small owner-operator’ has the meaning given such term by section 513(f)(2) of the Highway Revenue Act of 1982. “(4) Taxable gross weight.—For purposes of this subsection, the term ‘taxable gross weight’ has the same meaning as when used in section 4481 of the Internal Revenue Code of 1986.”
 
@@ -403,7 +405,7 @@ Pub. L. 97–424, title V, § 513(g), Jan. 6, 1983, 96 Stat. 2180, provided that
 ## § 4482. Definitions
 **(a) Highway motor vehicle** For purposes of this subchapter, the term “highway motor vehicle” means any motor vehicle which is a highway vehicle.
 
-**(b) Taxable gross weight** For purposes of this subchapter, the term “taxable gross weight” when used with respect to any highway motor vehicle, means the sum of—
+**(b) Taxable gross weight** For purposes of this subchapter, the term “taxable gross weight”, when used with respect to any highway motor vehicle, means the sum of—
 
 (1) the actual unloaded weight of—
 

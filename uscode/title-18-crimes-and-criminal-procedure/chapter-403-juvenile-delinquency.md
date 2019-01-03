@@ -2,7 +2,7 @@
 title: 18
 chapter: '403'
 heading: JUVENILE DELINQUENCY
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -20,15 +20,13 @@ The phrase “who has not attained his eighteenth birthday” was substituted fo
 
 Minor change was made in translation of section references to “this chapter”.
 
-#### Codification
-Another section 501 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is set out as a note under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim), Crime Control and Law Enforcement.
-
-Another section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, was set out as a note under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
-
 #### Amendments
 1994—Pub. L. 103–322 inserted before period at end “or a violation by such a person of section 922(x)”.
 
 1974—Pub. L. 93–415 amended section generally, inserting “or for the purpose of proceedings and disposition under this chapter for an alleged act of juvenile delinquency, a person who has not attained his twenty-first birthday” after “eighteenth birthday,” and substituting “committed by a person prior to his eighteenth birthday which would have been a crime if committed by an adult”, for “committed by a juvenile and not punishable by death or life imprisonment.”
+
+#### Repeals
+Section 501 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1133, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5032"></a>
@@ -44,11 +42,6 @@ Based on title 18, U.S.C., 1940 ed., § 922 (June 16, 1938, ch. 486, § 2, 52 St
 The final sentence of said [section 922 of title 18](./chapter-044-firearms.md#section-922), U.S.C., 1940 ed., was incorporated in [section 5033 of this title](./chapter-403-juvenile-delinquency.md#section-5033).
 
 Changes were made in arrangement and phraseology.
-
-#### Codification
-Another section 502 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is classified to [section 11311 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11311&num=0&edition=prelim), Crime Control and Law Enforcement.
-
-Another section 502 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to [section 5781 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5781&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
 
 #### Amendments
 1996—Pub. L. 104–294, in first par., inserted “section 922(x)” before “or section 924(b)” and struck out “or (x)” after “or (h)”, and in third par., inserted “or as authorized under [section 3401(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3401/g&num=0&edition=prelim)” after “shall proceed by information”.
@@ -83,6 +76,9 @@ Pub. L. 98–473, § 1201(c), added three pars. at end of section relating to ju
 
 1974—Pub. L. 93–415 amended section generally, substituting “Delinquency proceedings in district courts; transfer for criminal prosecution”, for “Proceedings against juvenile delinquent” in section catchline, inserting provisions relating to certification to, and procedures in, district courts, transfer upon motion by Attorney General with respect to a juvenile sixteen years and older, factors considered in transfer, notice of transfer, barring of subsequent criminal or juvenile delinquency proceedings upon entering plea of guilty or upon taking of evidence, and admissibility of statements by a juvenile in subsequent criminal prosecution, and substituting provision relating to consent upon advice of counsel for treatment as an adult, for provision requiring consent for treatment as a juvenile.
 
+#### Repeals
+Section 502 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1134, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+
 
 <a id="section-5033"></a>
 ## § 5033. Custody prior to appearance before magistrate judge
@@ -100,16 +96,14 @@ This revised section and [section 5032 of this title](./chapter-403-juvenile-del
 
 The other provisions of said section 922 are incorporated in [section 5032 of this title](./chapter-403-juvenile-delinquency.md#section-5032).
 
-#### Codification
-Another section 503 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, is classified to [section 11312 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11312&num=0&edition=prelim), Crime Control and Law Enforcement.
-
-Another section 503 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to [section 5782 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5782&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
-
 #### Amendments
 1974—Pub. L. 93–415 amended section generally, substituting “Custody prior to appearance before magistrate”, for “Jurisdiction; written consent; jury trial precluded” in section catchline, and substituting provisions relating to advice of rights by arresting officer, notification of Attorney General, parents, guardian or custodian, and appearance before magistrate, for provisions relating to jurisdiction of district courts, jury, consent by juvenile, and apprisal of rights by Judge of District Court.
 
 #### Change of Name
 Words “magistrate judge” substituted for “magistrate” in catchline and wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Repeals
+Section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5034"></a>
@@ -128,11 +122,6 @@ The reference to particular sections dealing with probation was omitted as unnec
 
 Changes were made in phraseology and arrangement.
 
-#### Codification
-Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1895, is classified to [section 11313 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11313&num=0&edition=prelim), Crime Control and Law Enforcement.
-
-Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to [section 5783 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5783&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
-
 #### Amendments
 1988—Pub. L. 100–690 substituted “facility) upon” for “facility upon” in last par.
 
@@ -142,6 +131,9 @@ Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 #### Change of Name
 Words “magistrate judge” substituted for “magistrate” in catchline and wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Repeals
+Section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5035"></a>
@@ -156,13 +148,11 @@ Based on title 18, U.S.C., 1940 ed., § 925 (June 16, 1938, ch. 486, § 5, 52, S
 
 Minor changes were made in arrangement and phraseology.
 
-#### Codification
-Another section 505 of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1896, was classified to [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), The Public Health and Welfare, prior to being omitted from the Code.
-
-Another section 505 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5028, was classified to [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
-
 #### Amendments
 1974—Pub. L. 93–415 amended section generally, substituting “Detention prior to disposition”, for “Arrest, detention and bail” in section catchline, striking out provisions relating to discretionary power of arresting officer or marshal to confine juvenile in jail, provisions relating to bail and default of bail, and inserting provisions relating to mandatory separation of juvenile from adjudicated delinquents, and provisions relating to the physical conditions of confining facility.
+
+#### Repeals
+Section 505 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5036"></a>
@@ -177,11 +167,11 @@ Based on title 18, U.S.C., 1940 ed., § 926 (June 16, 1938, ch. 486, § 6, 52 St
 
 The words “foster homes” were inserted to remove any doubt as to the authority to commit to such foster homes in accordance with past and present administrative practice.
 
-#### Codification
-Another section 506 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5029, was classified to [section 5785 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5785&num=0&edition=prelim), The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
-
 #### Amendments
 1974—Pub. L. 93–415 amended section generally, substituting “Speedy trial” for “Contracts for support; payment” in section catchline, and substituting provisions relating to dismissal of information due to delay, for provisions relating to contracts with public or private agencies for custody and care of juvenile delinquents.
+
+#### Repeals
+Section 506 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5037"></a>
@@ -301,6 +291,9 @@ Pub. L. 99–646, § 21(b), Nov. 10, 1986, 100 Stat. 3597, provided that: “The
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Repeals
+Section 507 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1136, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+
 
 <a id="section-5038"></a>
 ## § 5038. Use of juvenile records
@@ -348,7 +341,10 @@ Subsec. (f). Pub. L. 104–294 substituted “section 401 of the Controlled Subs
 1977—Subsec. (a)(6). Pub. L. 95–115 added par. (6).
 
 #### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see former section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, which is classified as a note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, formerly set out as a note under [section 11101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11101&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+#### Repeals
+Section 508 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1137, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5039"></a>
@@ -361,11 +357,19 @@ No juvenile committed, whether pursuant to an adjudication of delinquency or con
 #### Amendments
 1994—Pub. L. 103–322 inserted “, whether pursuant to an adjudication of delinquency or conviction for an offense,” after “committed” in first par.
 
+#### Repeals
+Section 509 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+
 
 <a id="section-5040"></a>
 ## § 5040. Support
 
 The Attorney General may contract with any public or private agency or individual and such community-based facilities as halfway houses and foster homes for the observation and study and the custody and care of juveniles in his custody. For these purposes, the Attorney General may promulgate such regulations as are necessary and may use the appropriation for “support of United States prisoners” or such other appropriations as he may designate.
+
+### Statutory Notes
+
+#### Repeals
+Section 510 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 <a id="section-5041"></a>
@@ -391,3 +395,71 @@ Any juvenile probationer shall be accorded notice and a hearing with counsel bef
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, with section as in effect prior to such amendment to remain in effect for five years as and individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473, see section 235(a)(1), (b)(1)(D) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Repeals
+Section 512 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+
+
+<a id="section-5043"></a>
+## § 5043. Juvenile solitary confinement
+**(a) Definitions.—** In this section—
+
+(1) the term “covered juvenile” means—
+
+  (A) a juvenile who—
+
+    (i) is being proceeded against under this chapter for an alleged act of juvenile delinquency; or
+
+    (ii) has been adjudicated delinquent under this chapter; or
+
+  (B) a juvenile who is being proceeded against as an adult in a district court of the United States for an alleged criminal offense;
+
+(2) the term “juvenile facility” means any facility where covered juveniles are—
+
+  (A) committed pursuant to an adjudication of delinquency under this chapter; or
+
+  (B) detained prior to disposition or conviction; and
+
+(3) the term “room confinement” means the involuntary placement of a covered juvenile alone in a cell, room, or other area for any reason.
+
+**(b) Prohibition on Room Confinement in Juvenile Facilities.—**
+
+(1) **In general.—** — The use of room confinement at a juvenile facility for discipline, punishment, retaliation, or any reason other than as a temporary response to a covered juvenile’s behavior that poses a serious and immediate risk of physical harm to any individual, including the covered juvenile, is prohibited.
+
+(2) **Juveniles posing risk of harm.—**
+
+  (A) *Requirement to use least restrictive techniques.—*
+
+    (i) *In general.—* — Before a staff member of a juvenile facility places a covered juvenile in room confinement, the staff member shall attempt to use less restrictive techniques, including—
+
+      (I) talking with the covered juvenile in an attempt to de-escalate the situation; and
+
+      (II) permitting a qualified mental health professional to talk to the covered juvenile.
+
+    (ii) *Explanation.—* — If, after attempting to use less restrictive techniques as required under clause (i), a staff member of a juvenile facility decides to place a covered juvenile in room confinement, the staff member shall first—
+
+      (I) explain to the covered juvenile the reasons for the room confinement; and
+
+      (II) inform the covered juvenile that release from room confinement will occur—
+
+        (aa) immediately when the covered juvenile regains self-control, as described in subparagraph (B)(i); or
+
+        (bb) not later than after the expiration of the time period described in subclause (I) or (II) of subparagraph (B)(ii), as applicable.
+
+  (B) *Maximum period of confinement.—* — If a covered juvenile is placed in room confinement because the covered juvenile poses a serious and immediate risk of physical harm to himself or herself, or to others, the covered juvenile shall be released—
+
+    (i) immediately when the covered juvenile has sufficiently gained control so as to no longer engage in behavior that threatens serious and immediate risk of physical harm to himself or herself, or to others; or
+
+    (ii) if a covered juvenile does not sufficiently gain control as described in clause (i), not later than—
+
+      (I) 3 hours after being placed in room confinement, in the case of a covered juvenile who poses a serious and immediate risk of physical harm to others; or
+
+      (II) 30 minutes after being placed in room confinement, in the case of a covered juvenile who poses a serious and immediate risk of physical harm only to himself or herself.
+
+  (C) *Risk of harm after maximum period of confinement.—* — If, after the applicable maximum period of confinement under subclause (I) or (II) of subparagraph (B)(ii) has expired, a covered juvenile continues to pose a serious and immediate risk of physical harm described in that subclause—
+
+    (i) the covered juvenile shall be transferred to another juvenile facility or internal location where services can be provided to the covered juvenile without relying on room confinement; or
+
+    (ii) if a qualified mental health professional believes the level of crisis service needed is not currently available, a staff member of the juvenile facility shall initiate a referral to a location that can meet the needs of the covered juvenile.
+
+  (D) *Spirit and purpose.—* — The use of consecutive periods of room confinement to evade the spirit and purpose of this subsection shall be prohibited.

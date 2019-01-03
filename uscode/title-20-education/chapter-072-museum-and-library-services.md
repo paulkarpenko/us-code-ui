@@ -2,7 +2,7 @@
 title: 20
 chapter: '72'
 heading: MUSEUM AND LIBRARY SERVICES
-section_count: 30
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
@@ -13,7 +13,11 @@ As used in this chapter:
 
 (1) **Determined to be obscene** — The term “determined to be obscene” means determined, in a final judgment of a court of record and of competent jurisdiction in the United States, to be obscene.
 
-(2) **Digital literacy skills** — The term “digital literacy skills” means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information.
+(2) **Digital literacy skills** — The term “digital literacy skills” means the skills associated with—
+
+  (A) using technology to enable users to find, evaluate, organize, create, and communicate information; and
+
+  (B) developing digital citizenship and the responsible use of technology.
 
 (3) **Director** — The term “Director” means the Director of the Institute appointed under [section 9103 of this title](./chapter-072-museum-and-library-services.md#section-9103).
 
@@ -23,7 +27,7 @@ As used in this chapter:
 
   (B) not reviewable by any other court.
 
-(5) **Indian tribe** — The term “Indian tribe” means any tribe, band, nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.)), which is recognized by the Secretary of the Interior as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+(5) **Indian tribe** — The term “Indian tribe” means any tribe, band, nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.)), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 (6) **Institute** — The term “Institute” means the Institute of Museum and Library Services established under [section 9102 of this title](./chapter-072-museum-and-library-services.md#section-9102).
 
@@ -46,16 +50,23 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 A prior section 202 of Pub. L. 94–462 was classified to [section 961 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section961&num=0&edition=prelim) prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
 #### Amendments
+2018—Par. (2). Pub. L. 115–410, § 2(1), substituted “means the skills associated with—” and subpars. (A) and (B) for “means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information.”
+
+Par. (5). Pub. L. 115–410, § 2(2), struck out “by the Secretary of the Interior” after “which is recognized”.
+
 2010—Pars. (2) to (8). Pub. L. 111–340 added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
 
 2003—Par. (1). Pub. L. 108–81, § 101(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘Commission’ means the National Commission on Libraries and Information Science established under [section 1502 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1502&num=0&edition=prelim).”
 
-Pars. (3) to (5). Pub. L. 108–81, § 101(2)–(4), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out heading and text of former par. (4). Text read as follows: “The term ‘Museum Board’ means the National Museum Services Board established under [section 9175 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9175&num=0&edition=prelim).”
+Pars. (3) to (5). Pub. L. 108–81, § 101(2)–(4), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out heading and text of former par. (4). Text read as follows: “The term ‘Museum Board’ means the National Museum Services Board established under [section 9175 of this title](./chapter-072-museum-and-library-services.md#section-9175).”
 
 Pars. (6), (7). Pub. L. 108–81, § 101(5), added pars. (6) and (7).
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–81, title V, § 506, Sept. 25, 2003, 117 Stat. 1005, provided that: “The amendments made by this Act [enacting sections 9105a and 9107 to 9109 of this title, amending this section, sections 956a, 974, 1503 to 1505, 9102, 9103, 9106, 9121 to 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, and [section 170 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170&num=0&edition=prelim), Internal Revenue Code, repealing sections 9174 and 9175 of this title, enacting provisions set out as a note under this section, and repealing provisions set out as notes under sections 9102, 9103, and 9105 of this title] shall take effect on the date of enactment of this Act [Sept. 25, 2003], except that the amendments made by sections 203, 204, and 305 of this Act [amending sections 9123, 9131, and 9176 of this title] shall take effect on October 1, 2003.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–410, § 1(a), Dec. 31, 2018, 132 Stat. 5412, provided that: “This Act [enacting [section 9175 of this title](./chapter-072-museum-and-library-services.md#section-9175) and amending sections 9101, 9103, 9105a, 9108, 9111, 9121 to 9123, 9131, 9134, 9141, 9151, 9162, 9165, 9171 to 9173, and 9176 of this title] may be cited as the ‘Museum and Library Services Act of 2018’.”
 
 #### Short Title of 2010 Amendment
 Pub. L. 111–340, § 1(a), Dec. 22, 2010, 124 Stat. 3594, provided that: “This Act [enacting part 4 of subchapter II of this chapter and sections 9110 and 9111 of this title, amending this section and sections 953, 958, 9103, 9105, 9105a, 9107, 9108, 9121, 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, repealing chapter 34 of this title, and enacting provisions set out as notes under [section 9102 of this title](./chapter-072-museum-and-library-services.md#section-9102)] may be cited as the ‘Museum and Library Services Act of 2010’.”
@@ -113,7 +124,7 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 199
 
 (1) **In general** — The Institute shall be headed by a Director, appointed by the President, by and with the advice and consent of the Senate.
 
-(2) **Term** — The Director shall serve for a term of 4 years.
+(2) **Term** — The Director shall serve for a term of 4 years, except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director’s term, the Director may serve for not more than 1 additional year or until a successor is appointed and confirmed, whichever is earlier.
 
 (3) **Qualifications** — Beginning with the first individual appointed to the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to library and information services. Beginning with the second individual appointed to the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to museum services.
 
@@ -143,21 +154,21 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 199
 
 **(f) Coordination** The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that such policies and activities are coordinated with—
 
-(1) activities under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646);
+(1) programs and activities under the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.] (including programs and activities under subparts 2 and 3 of part B of title II [[20 U.S.C. 6641](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6641) et seq., 6661 et seq.], and parts A and B of title IV [[20 U.S.C. 7101](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7101) et seq., 7171 et seq.], of such Act);
 
 (2) programs and activities under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) ([42 U.S.C. 9836(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836/d/2&num=0&edition=prelim)); 11 See References in Text note below.
 
 (3) activities under the Workforce Innovation and Opportunity Act [[29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) et seq.] (including activities under section 121(e) of such Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)])); 22 So in original. The second closing parenthesis probably should not appear. and
 
-(4) Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.
+(4) Federal programs and activities that increase the capacity of libraries and museums to act as partners in supporting economic and community development, providing education and research, improving digital literacy skills, strengthening financial literacy and other types of literacy skills, and enhancing public safety and health awareness.
 
-**(g) Interagency collaboration** The Director shall work jointly with the individuals heading relevant Federal departments and agencies, including the Secretary of Labor, the Secretary of Education, the Administrator of the Small Business Administration, the Chairman of the Federal Communications Commission, the Director of the National Science Foundation, the Secretary of Health and Human Services, the Secretary of State, the Administrator of the Environmental Protection Agency, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Chairman of the National Endowment for the Arts, the Chairman of the National Endowment of the Humanities, and the Director of the Office of Management and Budget, or the designees of such individuals, on—
+**(g) Interagency collaboration** The Director shall work jointly with the individuals heading relevant Federal departments and agencies, including the Secretary of Labor, the Secretary of Education, the Administrator of the Small Business Administration, the Chairman of the Federal Communications Commission, the Director of the National Science Foundation, the Secretary of Health and Human Services, the Secretary of State, the Administrator of the Environmental Protection Agency, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Chairman of the National Endowment for the Arts, the Chairman of the National Endowment of the Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office, or the designees of such individuals, on—
 
-(1) initiatives, materials, or technology to support workforce development activities undertaken by libraries;
+(1) initiatives, materials, technology, or research to support education, workforce development, economic and business development, and related activities and services undertaken by libraries;
 
 (2) resource and policy approaches to eliminate barriers to fully leveraging the role of libraries and museums in supporting the early learning, literacy, lifelong learning, digital literacy, workforce development, and education needs of the people of the United States; and
 
-(3) initiatives, materials, or technology to support educational, cultural, historical, scientific, environmental, and other activities undertaken by museums.
+(3) initiatives, materials, technology, or research to support educational, cultural, historical, scientific, environmental, and other activities undertaken by museums.
 
 **(h) Regulatory authority** The Director may promulgate such rules and regulations as are necessary and appropriate to implement the provisions of this chapter.
 
@@ -180,6 +191,8 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 199
 #### References in Text
 This chapter, referred to in subsec. (e)(2) and the second place it appears in subsec. (i)(2), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§ 6641 et seq.) and 3 (§ 6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§ 7101 et seq.) and B (§ 7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+
 The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. Cl. (vii) of section 641(d)(2)(H) of that Act was redesignated cl. (vi) by Pub. L. 114–95, title IX, § 9215(nn)(2)(A)(ii), Dec. 10, 2015, 129 Stat. 2176, and is now classified to [section 9836(d)(2)(H)(vi) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836/d/2/H/vi&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
@@ -188,6 +201,18 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is 
 A prior section 204 of Pub. L. 94–462 was classified to [section 963 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section963&num=0&edition=prelim) prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–410, § 3(1), inserted “, except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director’s term, the Director may serve for not more than 1 additional year or until a successor is appointed and confirmed, whichever is earlier” before period at end.
+
+Subsec. (f)(1). Pub. L. 115–410, § 3(2)(A), added par. (1) and struck out former par. (1) which read as follows: “activities under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646);”.
+
+Subsec. (f)(4). Pub. L. 115–410, § 3(2)(B), added par. (4) and struck out former par. (4) which read as follows: “Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.”
+
+Subsec. (g). Pub. L. 115–410, § 3(3)(A), in introductory provisions, substituted “Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office,” for “Humanities, and the Director of the Office of Management and Budget,”.
+
+Subsec. (g)(1). Pub. L. 115–410, § 3(3)(B), added par. (1) and struck out former par. (1) which read as follows: “initiatives, materials, or technology to support workforce development activities undertaken by libraries;”.
+
+Subsec. (g)(3). Pub. L. 115–410, § 3(3)(C), substituted “technology, or research” for “or technology”.
+
 2015—Subsec. (f)(1). Pub. L. 114–95 added par. (1) and struck out former par. (1) which read as follows: “activities under [section 6383 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6383&num=0&edition=prelim);”.
 
 2014—Subsec. (f)(3). Pub. L. 113–128 substituted “activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))” for “activities under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.) (including activities under section 134(c) of such Act) ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim))”.
@@ -287,7 +312,7 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 706], Sept. 30, 199
 
       (I) not less than one shall be knowledgeable about electronic information and technical aspects of library and information services and sciences; and
 
-      (II) not less than one other shall be knowledgeable about the library and information service needs of underserved communities; and
+      (II) not less than one other shall be knowledgeable about the library and information service needs of underserved communities, including rural communities; and
 
     (ii) the remainder shall have special competence in, or knowledge of, the needs for library and information services in the United States.
 
@@ -301,9 +326,9 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 706], Sept. 30, 199
 
     (ii) the remainder shall be individuals recognized for their broad knowledge, expertise, or experience in museums or commitment to museums.
 
-(3) **Geographic and other representation** — Members of the Museum and Library Services Board shall be appointed to reflect persons from various geographic regions of the United States. The Museum and Library Services Board may not include, at any time, more than three appointive members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums and libraries.
+(3) **Geographic and other representation** — Members of the Museum and Library Services Board shall be appointed to reflect persons from, and the needs of, various geographic regions of the United States, including rural areas. The Museum and Library Services Board may not include, at any time, more than three appointive members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums and libraries.
 
-(4) **Voting** — The Director, the Deputy Director of the Office of Library Services, and the Deputy Director of the Office of Museum Services shall be nonvoting members of the Museum and Library Services Board.
+(4) **Voting** — The Director, the Deputy Director of the Office of Library Services, the Deputy Director of the Office of Museum Services, and the General Counsel of the Institute shall be nonvoting members of the Museum and Library Services Board.
 
 **(c) Terms**
 
@@ -325,21 +350,23 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 706], Sept. 30, 199
 
 **(e) Chairperson** The Director shall serve as Chairperson of the Museum and Library Services Board.
 
-**(f) Meetings**
+**(f) Secretary** The General Counsel of the Institute shall serve as Secretary of the Museum and Library Services Board.
+
+**(g) Meetings**
 
 (1) **In general** — The Museum and Library Services Board shall meet not less than 2 times each year and at the call of the Director.
 
 (2) **Vote** — All decisions by the Museum and Library Services Board with respect to the exercise of its duties and powers shall be made by a majority vote of the members of the Board who are present and authorized to vote.
 
-**(g) Quorum** A majority of the voting members of the Museum and Library Services Board shall constitute a quorum for the conduct of business at official meetings, but a lesser number of members may hold hearings.
+**(h) Quorum** A majority of the voting members of the Museum and Library Services Board shall constitute a quorum for the conduct of business at official meetings, but a lesser number of members may hold hearings.
 
-**(h) Compensation and travel expenses**
+**(i) Compensation and travel expenses**
 
 (1) **Compensation** — Each member of the Museum and Library Services Board who is not an officer or employee of the Federal Government may be compensated at a rate to be fixed by the President, but not to exceed the daily equivalent of the maximum annual rate of pay authorized for a position above grade GS–15 of the General Schedule under [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), for each day (including travel time) during which such member is engaged in the performance of the duties of the Museum and Library Services Board. Members of the Museum and Libraries Services Board who are full-time officers or employees of the Federal Government may not receive additional pay, allowances, or benefits by reason of their service on the Museum and Library Services Board.
 
 (2) **Travel expenses** — Each member of the Museum and Library Services Board shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 
-**(i) Coordination** The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of [section 9103 of this title](./chapter-072-museum-and-library-services.md#section-9103).
+**(j) Coordination** The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of [section 9103 of this title](./chapter-072-museum-and-library-services.md#section-9103).
 
 ### Statutory Notes
 
@@ -349,6 +376,14 @@ A prior section 207 of Pub. L. 94–462 was renumbered section 208 and is classi
 Another prior section 207 of Pub. L. 94–462 was classified to [section 966 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section966&num=0&edition=prelim) prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
 #### Amendments
+2018—Subsec. (b)(2)(A)(i)(II). Pub. L. 115–410, § 4(1), inserted “, including rural communities” after “underserved communities”.
+
+Subsec. (b)(3). Pub. L. 115–410, § 4(2), in first sentence, inserted “, and the needs of,” after “persons from” and “, including rural areas” after “United States”.
+
+Subsec. (b)(4). Pub. L. 115–410, § 4(3), substituted “the Deputy Director of the Office of Museum Services, and the General Counsel of the Institute” for “and the Deputy Director of the Office of Museum Services”.
+
+Subsecs. (f) to (j). Pub. L. 115–410, § 4(4), (5), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+
 2012—Subsec. (b)(1)(D), (E). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “President”.
 
 2010—Subsec. (b)(1)(D) to (F). Pub. L. 111–340, § 104(1)(A), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The Chairman of the National Commission on Libraries and Information Science.”
@@ -396,47 +431,79 @@ The Director, with the advice of the Museum and Library Services Board, may annu
 
 
 <a id="section-9108"></a>
-## § 9108. Policy research, analysis, data collection, and dissemination
-**(a) In general** The Director shall annually conduct policy research, analysis, and data collection to extend and improve the Nation’s museum, library, and information services.
+## § 9108. Policy research, data collection, analysis and modeling, evaluation, and dissemination
+**(a) In general** The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation’s museum, library, and information services.
 
-**(b) Requirements** The policy research, analysis, and data collection shall be conducted in ongoing collaboration (as determined appropriate by the Director), and in consultation, with—
+**(b) Objectives** The objectives of the policy research, data collection, analysis and modeling, evaluation, and dissemination of information carried out under this section include the following:
 
-(1) State library administrative agencies;
+(1) To enhance and expand the capacity of museums, libraries, and information services to anticipate, respond to, and meet the evolving needs of communities and the public, including by identifying trends and developments that may impact the need for and delivery of services.
 
-(2) national, State, and regional library and museum organizations; and
+(2) To provide information and data on the role, value, and impact of museum, library, and information resources, including the identification of trends and potential gaps in the availability and use of museum and library services by their communities and the public.
 
-(3) other relevant agencies and organizations.
+(3) To measure the effectiveness of museums, libraries, and information services throughout the United States, including the impact of Federal programs authorized under this chapter.
 
-**(c) Objectives** The policy research, analysis, and data collection shall be used to—
+(4) To identify indicators and outcomes that can be used to create enhancements to the efficiency and efficacy of museum, library, and information services.
 
-(1) identify national needs for and trends in museum, library, and information services;
+(5) To promote advancement and growth in museum, library, and information services through sharing of best practices and effective strategies in order to better serve the people of the United States.
 
-(2) measure and report on the impact and effectiveness of museum, library, and information services throughout the United States, including the impact of Federal programs authorized under this chapter;
+(6) To facilitate planning for, and building of, institutional capacity in order to improve—
 
-(3) identify best practices; and
+  (A) museum, library, and information services at the national, State, local, and regional levels; and
 
-(4) develop plans to improve museum, library, and information services of the United States and to strengthen national, State, local, regional, and international communications and cooperative networks.
+  (B) international communications and cooperative networks.
 
-**(d) Dissemination** Each year, the Director shall widely disseminate, as appropriate to accomplish the objectives under subsection (c), the results of the policy research, analysis, and data collection carried out under this section.
+(7) To support and enhance collaborative professional networks and consortia that use shared, meaningful, and actionable data analysis and modeling to advance museum, library, and information services and address community needs.
 
-**(e) Authority to contract** The Director is authorized—
+**(c) Authority to contract and enter into other arrangements** The Director is authorized to enter into grants, contracts, cooperative agreements, and other arrangements with Federal agencies, public and private organizations, and other entities with expertise the Director determines appropriate, to further the objectives described in subsection (b) and to carry out the responsibilities under subsection (f).
 
-(1) to enter into contracts, grants, cooperative agreements, and other arrangements with Federal agencies and other public and private organizations to carry out the objectives under subsection (c); and
+**(d) Consultation and public engagement** In carrying out subsection (a) and in furtherance of the objectives described in subsection (b), the Director—
 
-(2) to publish and disseminate, in a form determined appropriate by the Director, the reports, findings, studies, and other materials prepared under paragraph (1).
+(1) shall conduct ongoing collaboration (as determined appropriate by the Director) and consult with—
 
-**(f) Authorization of appropriations**
+  (A) State library administrative agencies; and
 
-(1) **In general** — There are authorized to be appropriated to carry out this section $3,500,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016.
+  (B) National, State, tribal, and regional museum and library organizations; and
+
+(2) may also collaborate or consult with—
+
+  (A) cooperative networks of geographic- or discipline-based museums and libraries; and
+
+  (B) other applicable agencies, organizations (including international organizations), entities (including entities with expertise in the fields of data collection, analysis and modeling, and evaluation), and community stakeholders.
+
+**(e) Assistance to museums and libraries** The Director shall provide technical support and assistance (and other resources, to the extent practicable) to ensure consistency in data reporting and help the museum and library fields with meeting the objectives of this section.
+
+**(f) Dissemination**
+
+(1) **In general** — Each year, the Director shall widely disseminate, as appropriate to further the objectives described in subsection (b)—
+
+  (A) the results, data, reports, findings, studies, surveys, and other information obtained under this section;
+
+  (B) the means and approaches by which the objectives described in subsection (b) were accomplished; and
+
+  (C) information regarding the manner and extent to which collaboration and consultation were conducted, as required by subsection (d).
+
+(2) **Formats to be used** — The information described in paragraph (1) shall be shared in formats that facilitate access and ease of use and are searchable.
+
+**(g) Authorization of appropriations**
+
+(1) **In general** — There are authorized to be appropriated to carry out this section $3,500,000 for each of the fiscal years 2020 through 2025.
 
 (2) **Availability of funds** — Sums appropriated under paragraph (1) for any fiscal year shall remain available for obligation until expended.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c)(2), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (b)(3), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
 #### Amendments
+2018—Pub. L. 115–410, § 5(1), substituted “Policy research, data collection, analysis and modeling, evaluation, and dissemination” for “Policy research, analysis, data collection, and dissemination” in section catchline.
+
+Subsecs. (a) to (f). Pub. L. 115–410, § 5(3), added subsecs. (a) to (f) and struck out former subsecs. (a) to (e) which required the Director annually to conduct policy research, analysis, and data collection to improve the Nation’s museum, library, and information services, set out requirements and objectives for the research, required dissemination of the results, and provided contract authority. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 115–410, § 5(2), redesignated subsec. (f) as (g).
+
+Subsec. (g)(1). Pub. L. 115–410, § 5(4), substituted “each of the fiscal years 2020 through 2025” for “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016”.
+
 2010—Pub. L. 111–340 amended section catchline and text generally. Prior to amendment, text read as follows: “From amounts described in sections 9123(c) and 9176(b) of this title, the Director shall carry out and publish analyses of the impact of museum and library services. Such analyses—
 
 “(1) shall be conducted in ongoing consultation with—
@@ -469,41 +536,77 @@ The Director is authorized to conduct hearings at such times and places as the D
 <a id="section-9111"></a>
 ## § 9111. Administrative funds
 
-Notwithstanding any other provision of this chapter, the Director shall establish one account to be used to pay the Federal administrative costs of carrying out this chapter, and not more than a total of 7 percent of the funds appropriated under sections 9108(f), 9123, and 9176 of this title shall be placed in such account.
+Notwithstanding any other provision of this chapter, the Director shall establish one account to be used to pay the Federal administrative costs of carrying out this chapter, and not more than $17,000,000 of the total funds appropriated under sections 9108(g), 9123, and 9176 of this title shall be placed in such account.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
+#### Amendments
+2018—Pub. L. 115–410 substituted “$17,000,000 of the total funds” for “a total of 7 percent of the funds” and “sections 9108(g), 9123, and 9176 of this title” for “sections 9108(f), 9123, and 9176 of this title”.
+
 
 <a id="section-9121"></a>
 ## § 9121. National leadership grants, contracts, or cooperative agreements
-**(a) In general** From the amounts reserved under [section 9131(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9131/a/1/B&num=0&edition=prelim) for any fiscal year the Director shall establish and carry out a program of awarding grants or entering into contracts or cooperative agreements to enhance the quality of library services nationwide and to provide coordination between libraries and museums. Such grants, contracts, and cooperative agreements shall be used for activities that may include—
+**(a) In general** From the amounts reserved under [section 9131(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9131/a/1/B&num=0&edition=prelim) for any fiscal year the Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums, including by carrying out activities such as—
 
 (1) building workforce and institutional capacity for managing the national information infrastructure and serving the information and education needs of the public;
 
 (2)
 
-  (A) research and demonstration projects related to the improvement of libraries or the enhancement of library and information services through effective and efficient use of new technologies, including projects that enable library users to acquire digital literacy skills and that make information resources more accessible and available; and
+  (A) research and demonstration projects related to the improvement of libraries or the enhancement of library and information services through effective and efficient use of new and emerging technologies, including projects that enable library users to acquire digital literacy skills and that make information resources more accessible and available; and
 
   (B) dissemination of information derived from such projects;
 
-(3) preserving or digitizing of library materials and resources, giving priority to projects emphasizing coordination, avoidance of duplication, and access by researchers beyond the institution or library entity undertaking the project, including the development of national, regional, statewide, or local emergency plans that would ensure the preservation of knowledge and library collections in the event of a disaster; and
+(3) conserving, preserving, and digitizing library materials and resources, giving priority to projects emphasizing coordination, optimizing conditions for storage and future use, offering staff training, avoiding duplication, and providing access by researchers beyond the institution or library entity undertaking the project;
 
-(4) model programs demonstrating cooperative efforts between libraries and museums.
+(4) enhancing the ability of libraries to provide services to affected communities in the event of an emergency or disaster through—
+
+  (A) the development of national, regional, statewide, or local emergency and disaster management plans that—
+
+    (i) address communication and coordination of information and services for affected communities; and
+
+    (ii) ensure the preservation of knowledge and library collections; and
+
+  (B) the implementation of the emergency and disaster management plans described in subparagraph (A), or otherwise enabling libraries to provide services consistent with this chapter to affected communities in the event of an emergency or disaster; and
+
+(5) model programs demonstrating cooperative efforts between libraries and museums.
 
 **(b) Grants, contracts, or cooperative agreements**
 
-(1) **In general** — The Director may carry out the activities described in subsection (a) by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.
+(1) **In general** — The Director may carry out the activities described in subsection (a) by entering into arrangements, including grants, contracts, cooperative agreements, and other forms of assistance, with libraries, library consortia and associations, institutions of higher education, museums, and other entities that the Director determines appropriate.
 
-(2) **Competitive basis** — Grants, contracts, and cooperative agreements under this section shall be awarded on a competitive basis.
+(2) **Competitive basis** — Grants, contracts, cooperative agreements, and other arrangements or forms of assistance under this section shall be awarded on a competitive basis.
 
-**(c) Special rule** The Director shall make every effort to ensure that activities assisted under this section are administered by appropriate library and museum professionals or experts.
+**(c) Special rule** The Director shall make every effort to ensure that activities assisted under this section—
+
+(1) are administered by appropriate library and museum professionals or experts;
+
+(2) reflect and serve a range of library types and geographically diverse areas;
+
+(3) include evaluation, analysis, and dissemination components; and
+
+(4) to the extent practicable, actively involve, have direct impact on, or provide future application in, libraries.
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsec. (a)(4)(B), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
+
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–410, § 14(1)(A), in introductory provisions, struck out “of awarding grants or entering into contracts or cooperative agreements” after “carry out a program” and substituted “museums, including by carrying out activities such as” for “museums. Such grants, contracts, and cooperative agreements shall be used for activities that may include”.
+
+Subsec. (a)(2)(A). Pub. L. 115–410, § 14(1)(B), inserted “and emerging” after “new”.
+
+Subsec. (a)(3) to (5). Pub. L. 115–410, § 14(1)(C), (D), added pars. (3) and (4) and redesignated former par. (4) as (5).
+
+Subsec. (b)(1). Pub. L. 115–410, § 14(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Director may carry out the activities described in subsection (a) by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.”
+
+Subsec. (b)(2). Pub. L. 115–410, § 14(2)(B), substituted “cooperative agreements, and other arrangements or forms of assistance” for “and cooperative agreements”.
+
+Subsec. (c). Pub. L. 115–410, § 14(3), inserted dash after “under this section” and par. (1) designation before “are administered”, substituted “experts;” for “experts.”, and added pars. (2) to (4).
+
 2010—Subsec. (a)(1), (2). Pub. L. 111–340, § 206(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) education, recruitment, and training of persons in library and information science, particularly in areas of new technology and other critical needs, including graduate fellowships, traineeships, institutes, or other programs;
@@ -539,11 +642,11 @@ Nothing in this subchapter shall be construed to interfere with State and local 
 ## § 9123. Laura Bush 21st Century Librarian Program
 **(a) Purpose** It is the purpose of this part to develop a diverse workforce of librarians by—
 
-(1) recruiting and educating the next generation of librarians, including by encouraging middle or high school students and postsecondary students to pursue careers in library and information science;
+(1) recruiting and educating the next generation of librarians from diverse and underrepresented backgrounds, including by encouraging at the middle school, high school, and postsecondary levels students to pursue careers in library and information science;
 
-(2) developing faculty and library leaders, including by increasing the institutional capacity of graduate schools of library and information science; and
+(2) developing faculty and library leaders from diverse and underrepresented backgrounds, including by increasing the institutional capacity of graduate schools of library and information science; and
 
-(3) enhancing the training and professional development of librarians and the library workforce to meet the needs of their communities, including those needs relating to literacy and education, workforce development, lifelong learning, and digital literacy.
+(3) enhancing the training and professional development of librarians and the library workforce to enable librarians and the library workforce to meet the needs of their communities, including those needs relating to education, lifelong learning, workforce development, economic and business development, health information, critical thinking skills, digital literacy skills, financial and other types of literacy skills, and new and emerging technology.
 
 **(b) Activities** From the amounts provided under [section 9123(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9123/a/2&num=0&edition=prelim), the Director may enter into arrangements, including grants, contracts, cooperative agreements, and other forms of assistance, with libraries, library consortia and associations, institutions of higher education (as defined in [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001)), and other entities that the Director determines appropriate, for projects that further the purpose of this part, such as projects that—
 
@@ -561,13 +664,22 @@ Nothing in this subchapter shall be construed to interfere with State and local 
 
 **(c) Evaluation** The Director shall establish procedures for reviewing and evaluating projects supported under this part.
 
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–410, § 15(1)(A), inserted “from diverse and underrepresented backgrounds” after “librarians” and substituted “at the middle school, high school, and postsecondary levels” for “middle or high school students and postsecondary”.
+
+Subsec. (a)(2). Pub. L. 115–410, § 15(1)(B), inserted “from diverse and underrepresented backgrounds” after “library leaders”.
+
+Subsec. (a)(3). Pub. L. 115–410, § 15(1)(C), added par. (3) and struck out former par. (3) which read as follows: “enhancing the training and professional development of librarians and the library workforce to meet the needs of their communities, including those needs relating to literacy and education, workforce development, lifelong learning, and digital literacy.”
+
 
 <a id="section-9131"></a>
 ## § 9131. Purpose
 
 It is the purpose of this subchapter—
 
-(1) to enhance coordination among Federal programs that relate to library and information services;
+(1) to enhance coordination among Federal programs that relate to library, education, and information services;
 
 (2) to promote continuous improvement in library services in all types of libraries in order to better serve the people of the United States;
 
@@ -575,19 +687,37 @@ It is the purpose of this subchapter—
 
 (4) to encourage resource sharing among all types of libraries for the purpose of achieving economical and efficient delivery of library services to the public;
 
-(5) to promote literacy, education, and lifelong learning and to enhance and expand the services and resources provided by libraries, including those services and resources relating to workforce development, 21st century skills, and digital literacy skills;
+(5) to promote literacy, education, and lifelong learning, including by building learning partnerships with school libraries in our Nation’s schools, including tribal schools, and developing resources, capabilities, and programs in support of State, tribal, and local efforts to offer a well-rounded educational experience to all students;
 
-(6) to enhance the skills of the current library workforce and to recruit future professionals to the field of library and information services;
+(6) to enable libraries to develop services that meet the needs of communities throughout the Nation, including people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers;
 
-(7) to ensure the preservation of knowledge and library collections in all formats and to enable libraries to serve their communities during disasters;
+(7) to enable libraries to serve as anchor institutions to support community revitalization through enhancing and expanding the services and resources provided by libraries, including those services and resources relating to workforce development, economic and business development, critical thinking skills, health information, digital literacy skills, financial literacy and other types of literacy skills, and new and emerging technology;
 
-(8) to enhance the role of libraries within the information infrastructure of the United States in order to support research, education, and innovation; and
+(8) to enhance the skills of the current library workforce and to recruit future professionals, including those from diverse and underrepresented backgrounds, to the field of library and information services;
 
-(9) to promote library services that provide users with access to information through national, State, local, regional, and international collaborations and networks.
+(9) to ensure the preservation of knowledge and library collections in all formats and to enable libraries to serve their communities during disasters;
+
+(10) to enhance the role of libraries within the information infrastructure of the United States in order to support research, education, and innovation;
+
+(11) to promote library services that provide users with access to information through national, State, local, regional, and international collaborations and networks; and
+
+(12) to encourage, support, and disseminate model programs of library and museum collaboration.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–410, § 7(1), inserted “, education,” after “library”.
+
+Par. (5). Pub. L. 115–410, § 7(2), added par. (5) and struck out former par. (5) which read as follows: “to promote literacy, education, and lifelong learning and to enhance and expand the services and resources provided by libraries, including those services and resources relating to workforce development, 21st century skills, and digital literacy skills;”.
+
+Pars. (6), (7). Pub. L. 115–410, § 7(4), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
+
+Par. (8). Pub. L. 115–410, § 7(3), (5), redesignated par. (6) as (8) and inserted “, including those from diverse and underrepresented backgrounds,” after “professionals”.
+
+Pars. (9) to (11). Pub. L. 115–410, § 7(3), redesignated pars. (7) to (9) as (9) to (11), respectively.
+
+Par. (12). Pub. L. 115–410, § 7(6)–(8), added par. (12).
+
 2010—Par. (1). Pub. L. 111–340, § 201(1), added par. (1) and struck out former par. (1) which read as follows: “to consolidate Federal library service programs;”.
 
 Par. (2). Pub. L. 111–340, § 201(2), inserted “continuous” after “promote”.
@@ -616,15 +746,17 @@ As used in this subchapter:
 
   (B) a public elementary school or secondary school library;
 
-  (C) an academic library;
+  (C) a tribal library;
 
-  (D) a research library, which for the purposes of this subchapter means a library that—
+  (D) an academic library;
+
+  (E) a research library, which for the purposes of this subchapter means a library that—
 
     (i) makes publicly available library services and materials suitable for scholarly research and not otherwise available to the public; and
 
     (ii) is not an integral part of an institution of higher education; and
 
-  (E) a private library or other special library, but only if the State in which such private or special library is located determines that the library should be considered a library for purposes of this subchapter.
+  (F) a private library or other special library, but only if the State in which such private or special library is located determines that the library should be considered a library for purposes of this subchapter.
 
 (2) **Library consortium** — The term “library consortium” means any local, statewide, regional, interstate, or international cooperative association of library entities which provides for the systematic and effective coordination of the resources of school, public, academic, and special libraries and information centers, for improved services for the clientele of such library entities.
 
@@ -637,6 +769,8 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### Amendments
+2018—Par. (1)(C) to (F). Pub. L. 115–410 added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+
 2003—Pars. (1) to (6). Pub. L. 108–81 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Indian tribe’ means any tribe, band, nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation, as defined in or established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.), which is recognized by the Secretary of the Interior as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
 
 1997—Par. (2)(E). Pub. L. 105–128 inserted “or other special library” after “a private library” and “or special” after “such private”.
@@ -646,9 +780,9 @@ As used in this subchapter:
 ## § 9133. Authorization of appropriations
 **(a) In general** There are authorized to be appropriated—
 
-(1) to carry out parts 1, 2, and 3, $232,000,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016; and
+(1) to carry out parts 1, 2, and 3, $232,000,000 for each of the fiscal years 2020 through 2025; and
 
-(2) to carry out part 4, $24,500,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016.
+(2) to carry out part 4, $24,500,000 for each of the fiscal years 2020 through 2025.
 
 **(b) Forward funding**
 
@@ -659,6 +793,8 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–410 substituted “each of the fiscal years 2020 through 2025” for “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016” in pars. (1) and (2).
+
 2010—Subsec. (a). Pub. L. 111–340, § 202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
 
 Subsec. (c). Pub. L. 111–340, § 202(b), struck out heading and text of subsec. (c). Text read as follows: “Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter.”
@@ -685,7 +821,7 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
 (1) **In general** — From the amount appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) for any fiscal year, the Director—
 
-  (A) shall reserve 1.75 percent to award grants in accordance with [section 9161 of this title](./chapter-072-museum-and-library-services.md#section-9161); and
+  (A) shall reserve 2.25 percent to award grants in accordance with [section 9161 of this title](./chapter-072-museum-and-library-services.md#section-9161); and
 
   (B) shall reserve 3.75 percent to award national leadership grants or contracts in accordance with [section 9162 of this title](./chapter-072-museum-and-library-services.md#section-9162).
 
@@ -703,19 +839,25 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
   (B) *Ratable reductions* — Notwithstanding subparagraph (A), if the sum appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) and not reserved under subsection (a) for any fiscal year is insufficient to fully satisfy the requirement of subparagraph (A), each of the minimum allotments under such subparagraph shall be reduced ratably.
 
-  (C) *Special rule*
+  (C) *Exception*
 
-    (i) *In general* — Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
+    (i) *In general* — Notwithstanding subparagraph (A), if the sum appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) and not reserved under subsection (a) for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2019—
 
-    (ii) *Award basis* — The Director shall award grants pursuant to clause (i) on a competitive basis and after taking into consideration available recommendations from the Pacific Region Educational Laboratory in Honolulu, Hawaii.
+      (I) the minimum allotment for each State otherwise receiving a minimum allotment of $680,000 under subparagraph (A) shall be increased to $1,000,000; and
 
-    (iii) *Administrative costs* — The Director may provide not more than 5 percent of the funds made available for grants under this subparagraph to pay the administrative costs of the Pacific Region Educational Laboratory regarding activities assisted under this subparagraph.
+      (II) the minimum allotment for each State otherwise receiving a minimum allotment of $60,000 under subparagraph (A) shall be increased to $100,000.
+
+    (ii) *Insufficient funds to award alternative minimum* — If the sum appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) and not reserved under subsection (a) for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2019, yet is insufficient to fully satisfy the requirement of clause (i), such excess amount shall first be allotted among the States described in clause (i)(I) so as to increase equally the minimum allotment for each such State above $680,000. After the requirement of clause (i)(I) is fully satisfied for any fiscal year, any remainder of such excess amount shall be allotted among the States described in clause (i)(II) so as to increase equally the minimum allotment for each such State above $60,000.
 
 (4) **Data** — The population of each State and of all the States shall be determined by the Director on the basis of the most recent data available from the Bureau of the Census.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–410, § 10(1), substituted “2.25 percent” for “1.75 percent”.
+
+Subsec. (b)(3)(C). Pub. L. 115–410, § 10(2), added subpar. (C) and struck out former subpar. (C) which related to special rule for grants to various United States territories.
+
 2010—Subsec. (b)(3)(A). Pub. L. 111–340, § 203(1), substituted “$680,000” for “$340,000” and “$60,000” for “$40,000”.
 
 Subsec. (b)(3)(C), (D). Pub. L. 111–340, § 203(2), (3), redesignated subpar. (D) as (C) and struck out former subpar. (C), which related to the minimum allotments for States when the appropriated sums exceed the aggregate of allotments for all States for fiscal year 2003.
@@ -811,7 +953,7 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
 (6) describe how the State library administrative agency will work with other State agencies and offices where appropriate to coordinate resources, programs, and activities and leverage, but not replace, the Federal and State investment in—
 
-  (A) elementary and secondary education, including coordination with the activities within the State that are supported by a grant under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646);
+  (A) programs and activities under the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.] (including programs and activities under subparts 2 and 3 of part B of title II [[20 U.S.C. 6641](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6641) et seq., 6661 et seq.], and parts A and B of title IV [[20 U.S.C. 7101](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7101) et seq., 7171 et seq.], of such Act);
 
   (B) early childhood education, including coordination with—
 
@@ -821,11 +963,13 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
   (C) workforce development, including coordination with—
 
-    (i) the activities carried out by the State workforce development board under [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim); and
+    (i) the activities carried out by the State workforce development board under section 101 of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)];
 
-    (ii) the State’s one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim); and
+    (ii) the State’s one-stop delivery system established under section 121(e) of such Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)]; and
 
-  (D) other Federal programs and activities that relate to library services, including economic and community development and health information;
+    (iii) the activities carried out by the State in support of adult education and literacy under title II of such Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.]; and
+
+  (D) other Federal programs and activities that relate to library services, including economic, business, and community development, health information, critical thinking skills, digital literacy skills, financial literacy and other types of literacy skills;
 
 (7) provide assurances that the State will comply with subsection (f); and
 
@@ -935,11 +1079,21 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 ### Statutory Notes
 
 #### References in Text
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(6)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§ 6641 et seq.) and 3 (§ 6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§ 7101 et seq.) and B (§ 7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(6)(C)(iii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title II of the Act, known as the Adult Education and Family Literacy Act, is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of these Acts to the Code, see sections 1(a) and 201 of Pub. L. 113–128, set out as Short Title notes under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
+
 For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see § 1(a)(4) [div. B, title XVII, § 1712(b)] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
 
 #### Amendments
+2018—Subsec. (b)(6)(A). Pub. L. 115–410, § 11(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “elementary and secondary education, including coordination with the activities within the State that are supported by a grant under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646);”.
+
+Subsec. (b)(6)(C)(iii). Pub. L. 115–410, § 11(2), added cl. (iii).
+
+Subsec. (b)(6)(D). Pub. L. 115–410, § 11(3), inserted “, business,” after “economic” and substituted “, health information, critical thinking skills, digital literacy skills, financial literacy and other types of literacy skills” for “and health information”.
+
 2015—Subsec. (b)(6)(A). Pub. L. 114–95 substituted “including coordination with the activities within the State that are supported by a grant under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646)” for “including coordination with the activities within the State that are supported by a grant under [section 6383 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6383&num=0&edition=prelim)”.
 
 2014—Subsec. (b)(6)(C)(i). Pub. L. 113–128, § 512(t)(2)(A), substituted “the activities carried out by the State workforce development board under [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)” for “the activities carried out by the State workforce investment board under [section 2821(d) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821/d&num=0&edition=prelim)”.
@@ -983,7 +1137,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 2000, 1
 ## § 9162. Grants to States
 **(a) In general** Of the funds provided to a State library administrative agency under [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123), such agency shall expend, either directly or through subgrants or cooperative agreements, at least 96 percent of such funds for—
 
-(1) expanding services for learning and access to information and educational resources in a variety of formats, in all types of libraries, for individuals of all ages in order to support such individuals’ needs for education, lifelong learning, workforce development, and digital literacy skills;
+(1) expanding services for learning and access to information and educational resources in a variety of formats (including new and emerging technology), in all types of libraries, for individuals of all ages in order to support such individuals’ needs for education, lifelong learning, workforce development, economic and business development, health information, critical thinking skills, digital literacy skills, and financial literacy and other types of literacy skills;
 
 (2) establishing or enhancing electronic and other linkages and improved coordination among and between libraries and entities, as described in [section 9134(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9134/b/6&num=0&edition=prelim), for the purpose of improving the quality of and access to library and information services;
 
@@ -991,9 +1145,9 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 2000, 1
 
   (A) providing training and professional development, including continuing education, to enhance the skills of the current library workforce and leadership, and advance the delivery of library and information services; and
 
-  (B) enhancing efforts to recruit future professionals to the field of library and information services;
+  (B) enhancing efforts to recruit future professionals, including those from diverse and underrepresented backgrounds, to the field of library and information services;
 
-(4) developing public and private partnerships with other agencies and community-based organizations;
+(4) developing public and private partnerships with other agencies, tribes, and community-based organizations;
 
 (5) targeting library services to individuals of diverse geographic, cultural, and socioeconomic backgrounds, to individuals with disabilities, and to individuals with limited functional literacy or information skills;
 
@@ -1008,6 +1162,12 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 2000, 1
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–410, § 12(1), inserted “(including new and emerging technology)” after “formats” and substituted “workforce development, economic and business development, health information, critical thinking skills, digital literacy skills, and financial literacy and other types of literacy skills” for “workforce development, and digital literacy skills”.
+
+Subsec. (a)(3)(B). Pub. L. 115–410, § 12(2), inserted “, including those from diverse and underrepresented backgrounds,” after “professionals”.
+
+Subsec. (a)(4). Pub. L. 115–410, § 12(3), inserted “, tribes,” after “agencies”.
+
 2010—Subsec. (a). Pub. L. 111–340, § 205(1), inserted “in order to support such individuals’ needs for education, lifelong learning, workforce development, and digital literacy skills” before semicolon at end in par. (1), added pars. (2) and (3), redesignated former par. (2) as (7) and substituted “collaborations and networks; and” for “electronic networks;”, struck out former par. (3) which read “providing electronic and other linkages among and between all types of libraries;”, and added par. (8).
 
 Subsec. (b). Pub. L. 111–340, § 205(2), added subsec. (b) and struck out heading and text of former subsec. (b). Prior to amendment, text read as follows: “Each State library administrative agency receiving funds under this part may apportion the funds available for the purposes described in subsection (a) of this section among such purposes, as appropriate, to meet the needs of the individual State.”
@@ -1032,7 +1192,12 @@ Subsec. (b). Pub. L. 108–81, § 206(2), substituted “among such purposes,”
 <a id="section-9163"></a>
 ## § 9163. State advisory councils
 
-Each State desiring assistance under this subchapter may establish a State advisory council which is broadly representative of the library entities in the State, including public, school, academic, special, and institutional libraries, and libraries serving individuals with disabilities.
+Each State desiring assistance under this subchapter may establish a State advisory council which is broadly representative of the library entities in the State, including public, tribal, school, academic, special, and institutional libraries, and libraries serving people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–410 inserted “tribal,” after “public,” and substituted “and libraries serving people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers” for “and libraries serving individuals with disabilities”.
 
 
 <a id="section-9165"></a>
@@ -1061,23 +1226,25 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 It is the purpose of this subchapter—
 
-(1) to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our heritage;
+(1) to encourage and support museums in carrying out their educational role, as core providers of learning and in conjunction with schools, families, and communities;
 
-(2) to encourage and support museums in carrying out their educational role, as core providers of learning and in conjunction with schools, families, and communities;
+(2) to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our diverse heritage;
 
 (3) to encourage leadership, innovation, and applications of the most current technologies and practices to enhance museum services through international, national, regional, State, and local networks and partnerships;
 
-(4) to assist, encourage, and support museums in carrying out their stewardship responsibilities to achieve the highest standards in conservation and care of the cultural, historic, natural, and scientific heritage of the United States to benefit future generations;
+(4) to assist, encourage, and support museums in carrying out their stewardship responsibilities to achieve the highest standards in conservation and care of the diverse cultural, historic, natural, and scientific heritage of the United States to benefit future generations;
 
-(5) to assist, encourage, and support museums in achieving the highest standards of management and service to the public, and to ease the financial burden borne by museums as a result of their increasing use by the public;
+(5) to assist, encourage, and support museums in achieving the highest standards of management and service to the public, and to ease the financial burden borne by museums as they serve their communities in new and different ways;
 
 (6) to support resource sharing and partnerships among museums, libraries, schools, and other community organizations;
 
 (7) to encourage and support museums as a part of economic development and revitalization in communities;
 
-(8) to ensure museums of various types and sizes in diverse geographic regions of the United States are afforded attention and support; and
+(8) to ensure museums of various types and sizes in diverse geographic regions of the United States are afforded attention and support;
 
-(9) to support efforts at the State level to leverage museum resources and maximize museum services.
+(9) to support efforts at the State and regional levels to leverage museum resources and maximize museum services; and
+
+(10) to assist museums in their civic engagement efforts to ensure that every person in the United States has access to high-quality museum services.
 
 ### Statutory Notes
 
@@ -1085,6 +1252,18 @@ It is the purpose of this subchapter—
 A prior section 272 of Pub. L. 94–462 was renumbered section 273 and is classified to [section 9172 of this title](./chapter-072-museum-and-library-services.md#section-9172).
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–410, § 16(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our heritage;”.
+
+Par. (2). Pub. L. 115–410, § 16(3), added par. (2). Former par. (2) redesignated (1).
+
+Par. (4). Pub. L. 115–410, § 16(4), inserted “diverse” before “cultural”.
+
+Par. (5). Pub. L. 115–410, § 16(5), substituted “as they serve their communities in new and different ways” for “as a result of their increasing use by the public”.
+
+Par. (9). Pub. L. 115–410, § 16(7), substituted “State and regional levels” for “State level” and “services; and” for “services.”
+
+Par. (10). Pub. L. 115–410, § 16(6), (8), added par. (10).
+
 2010—Par. (3). Pub. L. 111–340, § 301(1), inserted “through international, national, regional, State, and local networks and partnerships” after “services”.
 
 Pars. (7) to (9). Pub. L. 111–340, § 301(2)–(4), added pars. (7) to (9).
@@ -1103,7 +1282,7 @@ Pars. (7) to (9). Pub. L. 111–340, § 301(2)–(4), added pars. (7) to (9).
 
 As used in this subchapter:
 
-(1) **Museum** — The term “museum” means a public or private nonprofit agency or institution organized on a permanent basis for essentially educational or aesthetic purposes, that utilizes a professional staff, owns or utilizes tangible objects, cares for the tangible objects, and exhibits the tangible objects to the public on a regular basis. Such term includes museums that have tangible and digital collections and includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.
+(1) **Museum** — The term “museum” means a public, tribal, or private nonprofit agency or institution organized on a permanent basis for essentially educational, cultural heritage, or aesthetic purposes, that utilizes a professional staff, owns or utilizes tangible objects, cares for the tangible objects, and exhibits the tangible objects to the public on a regular basis. Such term includes museums that have tangible and digital collections and includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.
 
 (2) **State** — The term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
@@ -1113,6 +1292,10 @@ As used in this subchapter:
 A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classified to [section 9173 of this title](./chapter-072-museum-and-library-services.md#section-9173).
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–410, § 17(2), inserted “, cultural heritage,” after “educational”.
+
+Pub. L. 115–410, § 17(1), which directed insertion of “, tribal,” after “public”, was executed by making the insertion after “public” the first time appearing, to reflect the probable intent of Congress.
+
 2010—Par. (1). Pub. L. 111–340 inserted “includes museums that have tangible and digital collections and” after “Such term”.
 
 2003—Par. (1). Pub. L. 108–81, § 302, inserted at end: “Such term includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.”
@@ -1124,7 +1307,7 @@ A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classi
 
 (1) supporting museums in providing learning and access to collections, information, and educational resources in a variety of formats (including exhibitions, programs, publications, and websites) for individuals of all ages;
 
-(2) supporting museums in building learning partnerships with the Nation’s schools and developing museum resources and programs in support of State and local school curricula;
+(2) supporting museums in building learning partnerships with the Nation’s schools, including tribal schools, and developing museum resources, capabilities, and programs in support of State and local efforts to offer a well-rounded educational experience to all students;
 
 (3) supporting the conservation and preservation of museum collections, including efforts to—
 
@@ -1132,35 +1315,45 @@ A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classi
 
   (B) prepare for and respond to disasters and emergency situations;
 
-  (C) establish endowments for conservation; and
+  (C) establish endowments for conservation;
 
-  (D) train museum staff in collections care;
+  (D) curate, stabilize, and organize object-related information; and
+
+  (E) train museum staff in collections care;
 
 (4) supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;
 
-(5) stimulating greater collaboration, in order to share resources and strengthen communities, among museums and—
+(5) creating shared technology tools and data resources, and developing museum staff training plans to improve and maximize museum services through organizations such as museum associations, professional networks, community-based organizations, and foundations, and through other collaborative mechanisms;
+
+(6) stimulating greater collaboration, in order to share resources and strengthen communities, among museums and—
 
   (A) libraries;
 
   (B) schools;
 
-  (C) international, Federal, State, regional, and local agencies or organizations;
+  (C) institutions of higher education;
 
-  (D) nongovernmental organizations; and
+  (D) international, Federal, State, regional, tribal, and local agencies or organizations;
 
-  (E) other community organizations;
+  (E) nongovernmental organizations;
 
-(6) encouraging the use of new technologies and media, including new ways to disseminate information, to enhance access to museum collections, programs, and services;
+  (F) other community organizations; and
 
-(7) supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;
+  (G) other relevant research and policy organizations;
 
-(8) supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;
+(7) encouraging the use of new and emerging technologies and media, including new ways to disseminate information, engage varied audiences in experiential learning, and support teachers and students to enhance access to and engagement with museum collections, programs, and services;
+
+(8) supporting museums in developing, carrying out, and providing programs and services that meet the needs of communities throughout the Nation, including people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers, and for State institutions;
 
 (9) supporting professional development and technical assistance programs to enhance museum operations, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals, in order to ensure the highest standards in all aspects of museum operations;
 
-(10) supporting museums in research, program evaluation, and the collection and dissemination of information to museum professionals and the public; and
+(10) supporting museums in research, program evaluation, and the collection and dissemination of information to museum professionals and the public;
 
-(11) encouraging, supporting, and disseminating model programs of museum and library collaboration.
+(11) encouraging, supporting, and disseminating model programs of museum and library collaboration;
+
+(12) enabling museums to serve as anchor institutions to support community revitalization and the creation of opportunities for advancement; and
+
+(13) developing public and private partnerships with other agencies and community-based organizations to expand and enhance museum services.
 
 **(b) Federal share**
 
@@ -1174,7 +1367,7 @@ A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classi
 
 (1) **In general** — The Director shall establish procedures for reviewing and evaluating arrangements described in subsection (a) entered into under this subchapter.
 
-(2) **Grant distribution** — In awarding grants, the Director shall take into consideration the equitable distribution of grants to museums of various types and sizes and to different geographic areas of the United States 11 So in original. Probably should be followed by a period.
+(2) **Grant distribution** — In awarding grants, the Director shall take into consideration the equitable distribution of grants to museums of various types and sizes and to different geographic areas of the United States.
 
 (3) **Applications for technical assistance**
 
@@ -1182,14 +1375,46 @@ A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classi
 
   (B) *Individual museums* — Individual museums may receive not more than 3 technical assistance awards under subparagraph (A). Subsequent awards for technical assistance shall be subject to review outside the Institute.
 
-**(d) Services for Native Americans** From amounts appropriated under [section 9176 of this title](./chapter-072-museum-and-library-services.md#section-9176), the Director shall reserve 1.75 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517)), to enable such tribes and organizations to carry out the activities described in subsection (a).
+**(d) Services for Native Americans** From amounts appropriated under [section 9176 of this title](./chapter-072-museum-and-library-services.md#section-9176), the Director shall reserve 2.25 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517)), to enable such tribes and organizations to carry out the activities described in subsection (a).
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 274 of Pub. L. 94–462 was classified to [section 9174 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9174&num=0&edition=prelim), prior to repeal by Pub. L. 108–81.
+A prior section 274 of Pub. L. 94–462 was classified to [section 9174 of this title](./chapter-072-museum-and-library-services.md#section-9174), prior to repeal by Pub. L. 108–81.
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–410, § 18(a)(1), added par. (2) and struck out former par. (2) which read as follows: “supporting museums in building learning partnerships with the Nation’s schools and developing museum resources and programs in support of State and local school curricula;”.
+
+Subsec. (a)(3)(D), (E). Pub. L. 115–410, § 18(a)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (a)(5). Pub. L. 115–410, § 18(a)(5), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 115–410, § 18(a)(4), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(6)(C). Pub. L. 115–410, § 18(a)(6)(B), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (a)(6)(D). Pub. L. 115–410, § 18(a)(6)(A), (C), redesignated subpar. (C) as (D) and inserted “tribal,” after “regional,”. Former subpar. (D) redesignated (E).
+
+Subsec. (a)(6)(E), (F). Pub. L. 115–410, § 18(a)(6)(A), (D), redesignated subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (a)(6)(G). Pub. L. 115–410, § 18(a)(6)(D)–(F), added subpar. (G).
+
+Subsec. (a)(7). Pub. L. 115–410, § 18(a)(4), (7), redesignated par. (4) as (7), struck it out, and added a new par. (7). Prior to amendment, par. read as follows: “supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;”.
+
+Pub. L. 115–410, § 18(a)(3), struck out par. (7) which read as follows: “supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;”.
+
+Subsec. (a)(8). Pub. L. 115–410, § 18(a)(8), added par. (8) and struck out former par. (8) which read as follows: “supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;”.
+
+Subsec. (a)(12), (13). Pub. L. 115–410, § 18(a)(9)–(11), added pars. (12) and (13).
+
+Subsec. (c)(2). Pub. L. 115–410, § 18(c)(1)(A), inserted period at end.
+
+Subsec. (c)(3)(A). Pub. L. 115–410, § 18(c)(1)(B)(i), amended subpar. (A) of par. (3) to duplicate amendment made by Pub. L. 111–340, § 303(2)(C)(i), which had been directed to subpar. (A) of par. (2) but executed to par. (3) to reflect the probable intent of Congress, thus resulting in no change in text. See 2010 Amendment note below.
+
+Subsec. (c)(3)(B). Pub. L. 115–410, § 18(c)(1)(B)(ii), amended subpar. (B) of par. (3) to duplicate amendment made by Pub. L. 111–340, § 303(2)(C)(ii), which had been directed to subpar. (B) of par. (2) but executed to par. (3) to reflect the probable intent of Congress, thus resulting in no change in text. See 2010 Amendment note below.
+
+Subsec. (d). Pub. L. 115–410, § 18(b), (c)(2), substituted “2.25 percent” for “1.75 percent” and made technical amendment to reference in original act which appears in text as reference to [section 9176 of this title](./chapter-072-museum-and-library-services.md#section-9176).
+
 2015—Subsec. (d). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517).
 
 2010—Subsec. (a). Pub. L. 111–340, § 303(1)(A), inserted “, States, local governments,” after “with museums” in introductory provisions.
@@ -1220,30 +1445,59 @@ Subsec. (c)(3)(B). Pub. L. 111–340, § 303(2)(C)(ii), which directed the subst
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
-<a id="section-9174-9175"></a>
-## § 9174, 9175. Repealed. Pub. L. 108–81, title III, § 304, Sept. 25, 2003, 117 Stat. 1002
+<a id="section-9174"></a>
+## § 9174. Repealed. Pub. L. 108–81, title III, § 304, Sept. 25, 2003, 117 Stat. 1002
 
 ### Statutory Notes
 
-Section 9174, Pub. L. 94–462, title II, § 274, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–304, related to National Award for Museum Service.
-
-Section 9175, Pub. L. 94–462, title II, § 275, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–304, related to National Museum Services Board.
+Section, Pub. L. 94–462, title II, § 274, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–304, related to National Award for Museum Service.
 
 
-<a id="section-9176"></a>
-## § 9176. Authorization of appropriations
-**(a) Grants** For the purpose of carrying out this subchapter, there are authorized to be appropriated to the Director $38,600,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016.
+<a id="section-9175"></a>
+## § 9175. 21st century museum professional program
+**(a) Purpose** It is the purpose of this section to develop and enhance the diverse workforce of museum professionals in order to best anticipate and serve the needs of their local communities and the public by—
 
-**(b) Sums remaining available** Sums appropriated pursuant to subsection (a) for any fiscal year shall remain available for obligation until expended.
+(1) recruiting and educating future museum professionals from diverse and underrepresented backgrounds, including through encouraging middle or high school students and postsecondary students to pursue careers and build skills in museum services;
 
-**(c) Funding rules** Notwithstanding any other provision of this subchapter, if the amount appropriated under subsection (a) for a fiscal year is greater than the amount appropriated under such subsection for fiscal year 2011 by more than $10,000,000, then an amount of not less than 30 percent but not more than 50 percent of the increase in appropriated funds shall be available, from the funds appropriated under such subsection for the fiscal year, to enter into arrangements under [section 9173 of this title](./chapter-072-museum-and-library-services.md#section-9173) to carry out the State assessments described in [section 9173(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9173/a/4&num=0&edition=prelim) and to assist States in the implementation of such plans.
+(2) developing museum leaders from diverse and underrepresented backgrounds, including by increasing the capacity of institutions that offer early career and mid-career professional development, specialized training, and leadership programs that directly relate to museum studies and management; and
+
+(3) supporting the professional development of current museum professionals and the museum workforce to enable them to meet identified needs of their communities.
+
+**(b) Activities** From the amounts provided under [section 9176 of this title](./chapter-072-museum-and-library-services.md#section-9176), the Director may enter into arrangements, including grants, contracts, cooperative agreements, and other forms of assistance, with museums, museum consortia and associations, institutions of higher education (as defined in [section 9165(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9165/b&num=0&edition=prelim)), and other entities that the Director determines appropriate, for projects that further the purpose of this section, such as projects that—
+
+(1) increase the number of students from diverse and underrepresented backgrounds enrolled in graduate and undergraduate museum-related programs as well as other relevant programs offered through other education-focused entities, such as State and local governments, associations, and nonprofit organizations, in order to effectively prepare the students for, and retain the students in, careers in museum services;
+
+(2) recruit future museum professionals from diverse and underrepresented backgrounds, including efforts to attract promising middle school, high school, or postsecondary students to consider careers in museum services such as through offering paid internships, mentoring, and fellowship opportunities;
+
+(3) develop new or enhance current professional development and retention programs for museum professionals and the museum workforce, including through mid-career skill-building, mentoring, and fellowships, and by supporting the development of local and regional networks for those who may not have easy access to such opportunities; and
+
+(4) support and conduct research, needs assessments, pilot programs, and evaluation of education and professional development programs to explore successful approaches that can successfully recruit, prepare, educate, and retain the next generation of museum professionals.
+
+**(c) Evaluation** The Director shall establish procedures for reviewing and evaluating arrangements supported under this section.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 275 of Pub. L. 94–462 was classified to [section 9175 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9175&num=0&edition=prelim), prior to repeal by Pub. L. 108–81.
+A prior section 9175, Pub. L. 94–462, title II, § 275, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–304, related to National Museum Services Board, prior to repeal by Pub. L. 108–81, title III, § 304, Sept. 25, 2003, 117 Stat. 1002.
+
+A prior section 275 of Pub. L. 94–462 was renumbered section 276 and is classified to [section 9176 of this title](./chapter-072-museum-and-library-services.md#section-9176).
+
+
+<a id="section-9176"></a>
+## § 9176. Authorization of appropriations
+**(a) Grants** For the purpose of carrying out this subchapter, there are authorized to be appropriated to the Director $38,600,000 for each of the fiscal years 2020 through 2025.
+
+**(b) Sums remaining available** Sums appropriated pursuant to subsection (a) for any fiscal year shall remain available for obligation until expended.
+
+**(c) Funding rules** Notwithstanding any other provision of this subchapter, if the amount appropriated under subsection (a) for a fiscal year is greater than the amount appropriated under such subsection for fiscal year 2020 by more than $10,000,000, then an amount of not less than 30 percent but not more than 50 percent of the increase in appropriated funds shall be available, from the funds appropriated under such subsection for the fiscal year, to enter into arrangements under [section 9173 of this title](./chapter-072-museum-and-library-services.md#section-9173) to carry out the State assessments described in [section 9173(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9173/a/4&num=0&edition=prelim) and to assist States in the implementation of such plans.
+
+### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–410, § 20(1), substituted “each of the fiscal years 2020 through 2025” for “fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016”.
+
+Subsec. (c). Pub. L. 115–410, § 20(2), substituted “fiscal year 2020” for “fiscal year 2011”.
+
 2010—Subsec. (a). Pub. L. 111–340, § 304(1), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “For the purpose of carrying out this subchapter, there are authorized to be appropriated to the Director $38,600,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
 
 Subsec. (b). Pub. L. 111–340, § 304(2), (3), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Prior to amendment, text of former subsec. (b) read as follows: “Not more than 10 percent of the funds appropriated under this section for a fiscal year may be used to pay for the administrative costs of carrying out this subchapter.”

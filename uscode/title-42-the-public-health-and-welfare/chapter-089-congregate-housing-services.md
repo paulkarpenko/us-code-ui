@@ -431,7 +431,7 @@ The Secretary shall act on each application within 60 days of its submission.
 
   (H) the extent to which the owner will provide funds from other services in excess of that required by this section.
 
-(2) **Evaluation of provision of congregate services programs** — The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, by regulation under subsection (n) 44 So in original. Probably should be subsection “(m)”., establish procedures for States, Indian tribes, and units of general local government receiving assistance under this section—
+(2) **Evaluation of provision of congregate services programs** — The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, by regulation under subsection (n),44 So in original. Probably should be subsection “(m),”. establish procedures for States, Indian tribes, and units of general local government receiving assistance under this section—
 
   (A) to review and evaluate the performance of the congregate services programs of eligible housing projects receiving assistance under this section in such State; and
 
@@ -543,7 +543,7 @@ The Secretary shall act on each application within 60 days of its submission.
 
   (A) means any city, town, township, county, parish, village, or other general purpose political subdivision of a State; and
 
-  (B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B) 1111 So in original. Probably should be subsection “(h)(1)(B)”..
+  (B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B).1111 So in original. Probably should be subsection “(h)(1)(B).”
 
 **(l) Reports to Congress**
 

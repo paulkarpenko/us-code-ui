@@ -232,7 +232,7 @@ Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that: “(a) In
 
 <a id="section-1721"></a>
 ## § 1721. Consular and Border Security Programs
-**(a) Separate fund.—** There is established in the Treasury a separate fund to be known as the “Consular and Border Security Programs” account into which the following fees shall be deposited for the purposes of the consular and border security programs.
+**(a) Separate fund** There is established in the Treasury a separate fund to be known as the “Consular and Border Security Programs” account into which the following fees shall be deposited for the purposes of the consular and border security programs.
 
 **(b) to (g) Omitted**
 
@@ -249,7 +249,7 @@ Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that: “(a) In
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended [section 214 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section214&num=0&edition=prelim), Aliens and Nationality, and subsec. (g) of section 7081 amended provisions set out as a note under [section 214 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section214&num=0&edition=prelim).
+Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim), Foreign Relations and Intercourse, and subsec. (g) of section 7081 amended provisions set out as a note under [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim).
 
 
 <a id="section-1722"></a>
@@ -565,13 +565,16 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (2) **Laws under which determinations were made** — The laws specified in this paragraph are the following:
 
-  (A) [Section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or successor statute).
+  (A) [Section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or successor statute).11 See References in Text note below.
 
   (B) [Section 2780(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim).
 
   (C) [Section 2371(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) can be found in [section 4813(c)(1)(A)(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A/i&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of this title](./chapter-013-immigration-and-naturalization-service.md#section-1551).

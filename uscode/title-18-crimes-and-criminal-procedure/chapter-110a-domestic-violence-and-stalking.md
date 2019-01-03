@@ -65,15 +65,17 @@ Whoever—
 
     (i) that person;
 
-    (ii) an immediate family member (as defined in section 115) of that person; or
+    (ii) an immediate family member (as defined in section 115) of that person;
 
     (iii) a spouse or intimate partner of that person; or
+
+    (iv) the pet, service animal, emotional support animal, or horse of that person; or
 
   (B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of subparagraph (A); or
 
 (2) with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, uses the mail, any interactive computer service or electronic communication service or electronic communication system of interstate commerce, or any other facility of interstate or foreign commerce to engage in a course of conduct that—
 
-  (A) places that person in reasonable fear of the death of or serious bodily injury to a person described in clause (i), (ii), or (iii) of paragraph (1)(A); or
+  (A) places that person in reasonable fear of the death of or serious bodily injury to a person, a pet, a service animal, an emotional support animal, or a horse described in clause (i), (ii), (iii), or (iv) of paragraph (1)(A); or
 
   (B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of paragraph (1)(A),
   shall be punished as provided in [section 2261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261/b&num=0&edition=prelim).
@@ -81,6 +83,10 @@ Whoever—
 ### Statutory Notes
 
 #### Amendments
+2018—Par. (1)(A)(iv). Pub. L. 115–334, § 12502(a)(1)(A), added cl. (iv).
+
+Par. (2)(A). Pub. L. 115–334, § 12502(a)(1)(B), inserted “, a pet, a service animal, an emotional support animal, or a horse” after “to a person” and substituted “(iii), or (iv)” for “or (iii)”.
+
 2013—Pub. L. 113–4 amended section generally. Prior to amendment, section related to stalking.
 
 2006—Pub. L. 109–162 amended section catchline and text generally, revising and restating former provisions relating to stalking so as to include surveillance with intent to kill, injure, harass, or intimidate which results in substantial emotional distress to a person within the purview of the offense proscribed.
@@ -95,9 +101,9 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 ## § 2262. Interstate violation of protection order
 **(a) Offenses.—**
 
-(1) **Travel or conduct of offender.—** — A person who travels in interstate or foreign commerce, or enters or leaves Indian country or is present within the special maritime and territorial jurisdiction of the United States, with the intent to engage in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, and subsequently engages in such conduct, shall be punished as provided in subsection (b).
+(1) **Travel or conduct of offender.—** — A person who travels in interstate or foreign commerce, or enters or leaves Indian country or is present within the special maritime and territorial jurisdiction of the United States, with the intent to engage in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person or the pet, service animal, emotional support animal, or horse of that person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, and subsequently engages in such conduct, shall be punished as provided in subsection (b).
 
-(2) **Causing travel of victim.—** — A person who causes another person to travel in interstate or foreign commerce or to enter or leave Indian country by force, coercion, duress, or fraud, and in the course of, as a result of, or to facilitate such conduct or travel engages in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, shall be punished as provided in subsection (b).
+(2) **Causing travel of victim.—** — A person who causes another person to travel in interstate or foreign commerce or to enter or leave Indian country by force, coercion, duress, or fraud, and in the course of, as a result of, or to facilitate such conduct or travel engages in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person or the pet, service animal, emotional support animal, or horse of that person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, shall be punished as provided in subsection (b).
 
 **(b) Penalties.—** A person who violates this section shall be fined under this title, imprisoned—
 
@@ -109,12 +115,18 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 (4) as provided for the applicable conduct under chapter 109A if the offense would constitute an offense under chapter 109A (without regard to whether the offense was committed in the special maritime and territorial jurisdiction of the United States or in a Federal prison); and
 
-(5) for not more than 5 years, in any other case,
+(5) for not more than 5 years, in any other case, including any case in which the offense is committed against a pet, service animal, emotional support animal, or horse,
 or both fined and imprisoned.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334, § 12502(a)(2)(A)(i), inserted “or the pet, service animal, emotional support animal, or horse of that person” after “another person”.
+
+Subsec. (a)(2). Pub. L. 115–334, § 12502(a)(2)(A)(ii), inserted “or the pet, service animal, emotional support animal, or horse of that person” after “proximity to, another person”.
+
+Subsec. (b)(5). Pub. L. 115–334, § 12502(a)(2)(B), inserted “including any case in which the offense is committed against a pet, service animal, emotional support animal, or horse,” after “in any other case,”.
+
 2013—Subsec. (a)(1). Pub. L. 113–4, which directed amendment of subsec. (a)(2) by inserting “is present” after “Indian country or”, was executed by making the insertion in subsec. (a)(1) to reflect the probable intent of Congress.
 
 2006—Subsec. (a)(1). Pub. L. 109–162 inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
@@ -167,9 +179,11 @@ In any proceeding pursuant to section 3142 for the purpose of determining whethe
 
   (D) lost income;
 
-  (E) attorneys’ fees, plus any costs incurred in obtaining a civil protection order; and
+  (E) attorneys’ fees, plus any costs incurred in obtaining a civil protection order;
 
-  (F) any other losses suffered by the victim as a proximate result of the offense.
+  (F) veterinary services relating to physical care for the victim’s pet, service animal, emotional support animal, or horse; and
+
+  (G) any other losses suffered by the victim as a proximate result of the offense.
 
 (4) **Order mandatory.—**
 
@@ -186,6 +200,8 @@ In any proceeding pursuant to section 3142 for the purpose of determining whethe
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(3)(F), (G). Pub. L. 115–334 added subpar. (F) and redesignated former subpar. (F) as (G).
+
 1996—Subsec. (a). Pub. L. 104–132, § 205(d)(1), inserted “or 3663A” after “3663”.
 
 Subsec. (b)(1). Pub. L. 104–132, § 205(d)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
@@ -334,9 +350,17 @@ In this chapter:
 
   (C) the frequency of interaction between the persons involved in the relationship.
 
+(11) **Pet.—** — The term “pet” means a domesticated animal, such as a dog, cat, bird, rodent, fish, turtle, or other animal that is kept for pleasure rather than for commercial purposes.
+
+(12) **Emotional support animal.—** — The term “emotional support animal” means an animal that is covered by the exclusion specified in section 5.303 of title 24, Code of Federal Regulations (or a successor regulation), and that is not a service animal.
+
+(13) **Service animal.—** — The term “service animal” has the meaning given the term in section 36.104 of title 28, Code of Federal Regulations (or a successor regulation).
+
 ### Statutory Notes
 
 #### Amendments
+2018—Pars. (11) to (13). Pub. L. 115–334 added pars. (11) to (13).
+
 2006—Par. (5). Pub. L. 109–162, § 106(d)(1), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
 
 Par. (7)(A). Pub. L. 109–162, § 106(d)(2), which directed amendment of cls. (i) and (ii) by substituting “2261A—

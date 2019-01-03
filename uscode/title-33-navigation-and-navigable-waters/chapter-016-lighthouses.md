@@ -32,7 +32,7 @@ Section 715, act June 17, 1910, ch. 301, § 5, 36 Stat. 537, related to transfer
 
 ### Statutory Notes
 
-Section, acts June 17, 1910, ch. 301, § 9, 36 Stat. 538; July 27, 1939, ch. 388, § 1, 53 Stat. 1130, related to employment of temporary draftsmen. See [section 653 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section653&num=0&edition=prelim), Coast Guard.
+Section, acts June 17, 1910, ch. 301, § 9, 36 Stat. 538; July 27, 1939, ch. 388, § 1, 53 Stat. 1130, related to employment of temporary draftsmen. See [section 902 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section902&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -82,9 +82,9 @@ Section, R.S. § 4679, provided that no additional salary should be allowed to a
 
 ### Statutory Notes
 
-Section 720, acts June 17, 1910, ch. 301, § 7, 36 Stat. 538; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to general control by Commandant of Coast Guard. See [section 81 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim), Coast Guard.
+Section 720, acts June 17, 1910, ch. 301, § 7, 36 Stat. 538; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to general control by Commandant of Coast Guard. See [section 541 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section541&num=0&edition=prelim), Coast Guard.
 
-Section 720a, act Aug. 16, 1937, ch. 665, § 3, 50 Stat. 667, related to establishment and maintenance of aids to navigation in certain waters. See [section 81 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim), Coast Guard.
+Section 720a, act Aug. 16, 1937, ch. 665, § 3, 50 Stat. 667, related to establishment and maintenance of aids to navigation in certain waters. See [section 541 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section541&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -104,7 +104,7 @@ Section, acts June 17, 1910, ch. 301, § 4, 36 Stat. 537; Mar. 4, 1913, ch. 141,
 
 ### Statutory Notes
 
-Section 721a, acts Aug. 16, 1937, ch. 665, § 2, 50 Stat. 667; July 11, 1941, ch. 290, § 2, 55 Stat. 585, related to deposit of damage payments and disbursement. See [section 642 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section642&num=0&edition=prelim), Coast Guard.
+Section 721a, acts Aug. 16, 1937, ch. 665, § 2, 50 Stat. 667; July 11, 1941, ch. 290, § 2, 55 Stat. 585, related to deposit of damage payments and disbursement. See [section 546 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section546&num=0&edition=prelim), Coast Guard.
 
 Section 722, acts July 7, 1884, ch. 332, 23 Stat. 198; June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to necessity for contract for expenditure of appropriations.
 
@@ -133,9 +133,9 @@ The words “superintendent of lighthouses” substituted for “inspector” on
 
 The light-house service was a service under control of Commissioner of Lighthouses within Bureau of Lighthouses.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2 eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2 eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -145,7 +145,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Statutory Notes
 
-Section, act Mar. 4, 1913, ch. 168, 37 Stat. 1018, related to procurement of supplies and equipment for special works of Lighthouse Service. See [section 649 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section649&num=0&edition=prelim), Coast Guard.
+Section, act Mar. 4, 1913, ch. 168, 37 Stat. 1018, related to procurement of supplies and equipment for special works of Lighthouse Service. See [section 940 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section940&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by the President [Aug. 4, 1949], see section 19 of act Aug. 19, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -178,9 +178,9 @@ R.S. § 4662 derived from act Mar. 2, 1795, ch. 40, §§ 1, 2, 1 Stat. 426.
 
 ### Statutory Notes
 
-Section 729, acts June 17, 1910, ch. 301, § 9, 36 Stat. 538; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to purchase by Commandant of sites for lighthouses. See sections 92(f) and 653 of Title 14, Coast Guard.
+Section 729, acts June 17, 1910, ch. 301, § 9, 36 Stat. 538; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to purchase by Commandant of sites for lighthouses. See sections 501(f) and 902 of Title 14, Coast Guard.
 
-Section 730, acts Mar. 4, 1913, ch. 168, 37 Stat. 1018; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Oct. 22, 1913, ch. 32, 38 Stat. 225, related to purchase of additional land for lighthouses and depots. See [section 92(f) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section92/f&num=0&edition=prelim).
+Section 730, acts Mar. 4, 1913, ch. 168, 37 Stat. 1018; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Oct. 22, 1913, ch. 32, 38 Stat. 225, related to purchase of additional land for lighthouses and depots. See [section 501(f) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section501/f&num=0&edition=prelim).
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 19, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -194,12 +194,12 @@ The Secretary of Transportation is authorized whenever he shall deem it advisabl
 ### Statutory Notes
 
 #### Codification
-Section is based on last paragraph under heading “FOR LIFE-SAVING AND LIFE-BOAT STATIONS” of act Mar. 3, 1875, ch. 130, 18 Stat. 372, insofar as such paragraph provided for the right to use and occupy sites for pier-head beacons. Provisions of such paragraph relating to the right to use and occupy sites for Coast Guard Stations and houses of refuge were classified to section 96 of former Title 14, Coast Guard, and were repealed by act Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561, and restated as [section 92(f) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section92/f&num=0&edition=prelim), Coast Guard.
+Section is based on last paragraph under heading “FOR LIFE-SAVING AND LIFE-BOAT STATIONS” of act Mar. 3, 1875, ch. 130, 18 Stat. 372, insofar as such paragraph provided for the right to use and occupy sites for pier-head beacons. Provisions of such paragraph relating to the right to use and occupy sites for Coast Guard Stations and houses of refuge were classified to section 96 of former Title 14, Coast Guard, and were repealed by act Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561, and restated as [section 92(f) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section92/f&num=0&edition=prelim), Coast Guard. [Section 92(f) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section92/f&num=0&edition=prelim) was subsequently renumbered [section 501(f) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section501/f&num=0&edition=prelim).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 Bureau of Lighthouses and its functions transferred and consolidated with Coast Guard by Reorg. Plan No. II of 1939, § 2(a), set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -209,9 +209,9 @@ Bureau of Lighthouses and its functions transferred and consolidated with Coast 
 
 ### Statutory Notes
 
-Section 731, acts Mar. 4, 1909, ch. 299, § 1, 35 Stat. 972; June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to lease of sites for temporary lights. See [section 92 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section92&num=0&edition=prelim), Coast Guard.
+Section 731, acts Mar. 4, 1909, ch. 299, § 1, 35 Stat. 972; June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to lease of sites for temporary lights. See [section 501 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section501&num=0&edition=prelim), Coast Guard.
 
-Section 732, acts Aug. 28, 1916, ch. 414, § 2, 39 Stat. 538; July 11, 1941, ch. 290, § 1, 55 Stat. 584, related to exchange of right-of-way pertaining to Coast Guard. See [section 92 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section92&num=0&edition=prelim).
+Section 732, acts Aug. 28, 1916, ch. 414, § 2, 39 Stat. 538; July 11, 1941, ch. 290, § 1, 55 Stat. 584, related to exchange of right-of-way pertaining to Coast Guard. See [section 501 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section501&num=0&edition=prelim).
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -250,9 +250,9 @@ R.S. § 4677 derived from act July 15, 1870, ch. 292, § 3, 16 Stat. 309.
 #### Transfer of Functions
 “Commandant of the Coast Guard” substituted in text for “Light-House Board” on authority of sections 6 and 13 of act June 17, 1910, which abolished the board and transferred its powers and duties to the Commissioner of Lighthouses, who was the head of the Bureau of Lighthouses. Said sections 6 and 13 were repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished the Coast Guard by enacting Title 14, Coast Guard. Section 2(a) of Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, consolidated the Bureau of Lighthouses with the Coast Guard, the Chief of which is the Commandant of the Coast Guard.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -262,7 +262,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Statutory Notes
 
-Section, R.S. § 4676; acts June 10, 1910, ch. 301, § 6, 36 Stat. 538; Aug. 16, 1937, ch. 665, § 1, 50 Stat. 666, related to placement of markers over sunken craft and other obstructions. See [section 86 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section86&num=0&edition=prelim), Coast Guard.
+Section, R.S. § 4676; acts June 10, 1910, ch. 301, § 6, 36 Stat. 538; Aug. 16, 1937, ch. 665, § 1, 50 Stat. 666, related to placement of markers over sunken craft and other obstructions. See [section 545 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section545&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -292,7 +292,7 @@ Section 740a, act May 22, 1926, ch. 371, § 6, 44 Stat. 626, related to post-lan
 
 Section 740b, acts June 23, 1874, ch. 455, § 1, 18 Stat. 220; June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to lights and buoys on Mississippi, Ohio, and Missouri Rivers.
 
-Sections covered by [section 81 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim), Coast Guard.
+Sections covered by [section 541 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section541&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -307,7 +307,7 @@ Section 741, acts May 14, 1908, ch. 168, § 7, 35 Stat. 162; June 17, 1910, ch. 
 
 Section 742, R.S. § 4674; acts Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; June 17, 1910, ch. 301, § 6, 36 Stat. 538; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to discontinuance and reestablishment of lights.
 
-Provisions of section 742 were substantially incorporated into sections 92 and 93 of Title 14, Coast Guard.
+Provisions of section 742 were substantially incorporated into sections 501 and 504 of Title 14, Coast Guard.
 
 
 <a id="section-743"></a>
@@ -359,9 +359,9 @@ In all appropriations hereafter made for “General expenses, Coast Guard,” th
 #### Transfer of Functions
 “Coast Guard” substituted in text for “Lighthouse Service” on authority of Reorg. Plan No. II of 1939, § 2(a), set out in the Appendix to Title 5, Government Organization and Employees, which transferred and consolidated Bureau of Lighthouses, of which Lighthouse Service was a part, with Coast Guard.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -404,9 +404,9 @@ On and after February 25, 1929, the appropriation, “General expenses, Coast Gu
 #### Transfer of Functions
 “Coast Guard” substituted in text for “Lighthouse Service” on authority of Reorg. Plan No. II of 1939, § 2(a), set out in the Appendix to Title 5, Government Organization and Employees, which transferred and consolidated Bureau of Lighthouses, of which Lighthouse Service was a part, with Coast Guard.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -423,7 +423,7 @@ The appropriation, “General expenses, Coast Guard,” shall be available, unde
 
 All functions of all officers of Department of the Treasury, and all functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -438,9 +438,9 @@ In all appropriations hereafter made for “General expenses, Coast Guard” the
 #### Transfer of Functions
 “Coast Guard” substituted in text for “Lighthouse Service” on authority of Reorg. Plan No. II of 1939, § 2(a), set out in the Appendix to Title 5, Government Organization and Employees, which transferred and consolidated Bureau of Lighthouses, of which Lighthouse Service was a part, with Coast Guard.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -450,7 +450,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Statutory Notes
 
-Section, acts July 27, 1912, ch. 255, § 2, 37 Stat. 239; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to reimbursement of lighthouse keepers for clothing, etc., furnished shipwrecked persons. See [section 486 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section486&num=0&edition=prelim), Coast Guard.
+Section, acts July 27, 1912, ch. 255, § 2, 37 Stat. 239; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to reimbursement of lighthouse keepers for clothing, etc., furnished shipwrecked persons. See [section 2777 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2777&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date preceding chapter 1 of Title 14, Coast Guard.
@@ -471,9 +471,9 @@ Section, act Aug. 1, 1914, ch. 223, § 1, 38 Stat. 658, related to leaves of abs
 
 Section 751, act Mar. 3, 1915, ch. 81, § 4, 38 Stat. 927, related to leave of absence to employees of Lighthouse Service. See section 6301 et seq. of Title 5, Government Organization and Employees.
 
-Section 752, acts Mar. 4, 1913, ch. 168, 37 Stat. 1019; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to sale of condemned supplies, etc., and land not used; disposition of funds. See [section 93 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim), Coast Guard.
+Section 752, acts Mar. 4, 1913, ch. 168, 37 Stat. 1019; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to sale of condemned supplies, etc., and land not used; disposition of funds. See [section 504 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section504&num=0&edition=prelim), Coast Guard.
 
-Section 752a, act May 22, 1926, ch. 371, § 5, 44 Stat. 626, related to sale of equipment; disposition of receipts. See [section 641 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section641&num=0&edition=prelim).
+Section 752a, act May 22, 1926, ch. 371, § 5, 44 Stat. 626, related to sale of equipment; disposition of receipts. See [section 901 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section901&num=0&edition=prelim).
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -485,7 +485,7 @@ Repeal effective first day of third month after approval by President [Aug. 4, 1
 ### Statutory Notes
 
 #### Codification
-Section, act June 15, 1938, ch. 398, 52 Stat. 692, related to disposal of materials to the Boys Scouts of America. See [section 641 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section641&num=0&edition=prelim), Coast Guard.
+Section, act June 15, 1938, ch. 398, 52 Stat. 692, related to disposal of materials to the Boys Scouts of America. See [section 901 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section901&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-753-754"></a>
@@ -495,7 +495,7 @@ Section, act June 15, 1938, ch. 398, 52 Stat. 692, related to disposal of materi
 
 Section 753, act June 20, 1918, ch. 103, § 4, 40 Stat. 608, related to sale of publications of Lighthouse Service. See sections 1705, 1708 of Title 44, Public Printing and Documents.
 
-Section 754, acts July 27, 1912, ch. 255, § 2, 37 Stat. 239; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to sale of clothing to employees. See [section 485 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section485&num=0&edition=prelim), Coast Guard.
+Section 754, acts July 27, 1912, ch. 255, § 2, 37 Stat. 239; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to sale of clothing to employees. See [section 2708 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2708&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -504,16 +504,19 @@ Repeal effective first day of third month after approval by President [Aug. 4, 1
 <a id="section-754a"></a>
 ## § 754a. Purchase of commissary and quartermaster supplies
 
-Officers and crews of vessels of the Lighthouse Service and light keepers and depot keepers of the Lighthouse Service shall be permitted to purchase commissary and quartermaster supplies from the Army, Navy, or Marine Corps at the price charged officers and enlisted men of the Army, Navy, or Marine Corps.
+Officers and crews of vessels of the Lighthouse Service and light keepers and depot keepers of the Lighthouse Service shall be permitted to purchase commissary and quartermaster supplies from the Army, Navy, or Marine Corps at the price charged officers and enlisted members of the Army, Navy, or Marine Corps.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–232 substituted “enlisted members” for “enlisted men”.
 
 #### Transfer of Functions
 Bureau of Lighthouses, of which Lighthouse Service was a part, transferred and consolidated with Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -523,21 +526,21 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Statutory Notes
 
-Section 755, act June 16, 1880, ch. 235, 21 Stat. 263, related to police powers of masters of Lighthouse Service. See [section 89 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim), Coast Guard.
+Section 755, act June 16, 1880, ch. 235, 21 Stat. 263, related to police powers of masters of Lighthouse Service. See [section 522 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section522&num=0&edition=prelim), Coast Guard.
 
-Section 756, act Mar. 3, 1915, ch. 81, § 6, 38 Stat. 928, related to use of appropriations with Forest Service. See [section 141 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim).
+Section 756, act Mar. 3, 1915, ch. 81, § 6, 38 Stat. 928, related to use of appropriations with Forest Service. See [section 701 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim).
 
-Section 757, act Aug. 29, 1916, ch. 417, 39 Stat. 602, related to cooperation with Army and Navy Departments in time of or in preparation for war. See sections 3, 88, 92, 93, 141, 144, 145, and 632 of Title 14.
+Section 757, act Aug. 29, 1916, ch. 417, 39 Stat. 602, related to cooperation with Army and Navy Departments in time of or in preparation for war. See sections 103, 501, 504, 505, 521, 701, 704, and 705 of Title 14.
 
-Section 758, act Aug. 29, 1916, ch. 417, 39 Stat. 602, related to transfer of vessels, equipment, etc., to Navy or Army Departments in case of vocational emergency. See sections 3, 88, 92, 93, 141, 144, 145, and 632 of Title 14.
+Section 758, act Aug. 29, 1916, ch. 417, 39 Stat. 602, related to transfer of vessels, equipment, etc., to Navy or Army Departments in case of vocational emergency. See sections 103, 501, 504, 505, 521, 701, 704, and 705 of Title 14.
 
-Section 759, acts June 20, 1906, ch. 3447, § 3, 34 Stat. 324; June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to unauthorized establishment of lights and penalty. See [section 83 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim).
+Section 759, acts June 20, 1906, ch. 3447, § 3, 34 Stat. 324; June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to unauthorized establishment of lights and penalty. See [section 542 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section542&num=0&edition=prelim).
 
-Section 760, act May 14, 1908, ch. 168, § 5, 35 Stat. 162, related to failure to maintain lights on bridges and penalty. See [section 85 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section85&num=0&edition=prelim).
+Section 760, act May 14, 1908, ch. 168, § 5, 35 Stat. 162, related to failure to maintain lights on bridges and penalty. See [section 544 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section544&num=0&edition=prelim).
 
-Section 761, acts May 14, 1908, ch. 168, § 6, 35 Stat. 162; June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to wrongful interference with Government aids to navigation and penalty. See [section 84 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section84&num=0&edition=prelim).
+Section 761, acts May 14, 1908, ch. 168, § 6, 35 Stat. 162; June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to wrongful interference with Government aids to navigation and penalty. See [section 543 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section543&num=0&edition=prelim).
 
-Section 762, act Mar. 3, 1915, ch. 81, § 8, 38 Stat. 928, related to wrongful interference with private aids to navigation and penalty. See [section 84 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section84&num=0&edition=prelim).
+Section 762, act Mar. 3, 1915, ch. 81, § 8, 38 Stat. 928, related to wrongful interference with private aids to navigation and penalty. See [section 543 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section543&num=0&edition=prelim).
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
@@ -574,9 +577,9 @@ Act June 21, 1955, ch. 170, § 2, 69 Stat. 167, provided that: “This Act [amen
 #### Transfer of Functions
 Bureau of Lighthouses, of which Lighthouse Service was a part, transferred and consolidated with Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -620,9 +623,9 @@ Any officer or employee of the Lighthouse Service who, on June 30, 1939, meets t
 #### Transfer of Functions
 Bureau of Lighthouses, of which Lighthouse Service was a part, transferred and consolidated with Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -640,9 +643,9 @@ Sections 763 and 763a–1 of this title, referred to in text, was, in the origin
 #### Transfer of Functions
 Bureau of Lighthouses, of which Lighthouse Service was a part, transferred and consolidated with Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -722,7 +725,7 @@ Section 767, acts Mar. 3, 1915, ch. 81, § 7, 38 Stat. 928; June 20, 1918, ch. 1
 
 Section 768, acts Aug. 24, 1912, ch. 355, § 8, 37 Stat. 487; Mar. 3, 1915, ch. 81, § 7, 38 Stat. 928; June 20, 1918, ch. 103, § 7, 40 Stat. 608; June 6, 1939, ch. 185, 53 Stat. 810, related to oaths to expense accounts.
 
-Section 769, act Feb. 25, 1929, ch. 313, § 3, 45 Stat. 1262, related to aids to navigation in Panama. See [section 81 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim), Coast Guard.
+Section 769, act Feb. 25, 1929, ch. 313, § 3, 45 Stat. 1262, related to aids to navigation in Panama. See [section 541 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section541&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of Repeal
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.

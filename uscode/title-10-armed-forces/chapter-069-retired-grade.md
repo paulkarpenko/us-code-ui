@@ -10,7 +10,7 @@ source: >-
 ## § 1370. Commissioned officers: general rule; exceptions
 **(a) Rule for Retirement in Highest Grade Held Satisfactorily.—**
 
-(1) Unless entitled to a higher retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps who retires under any provision of law other than chapter 61 or chapter 1223 of this title shall, except as provided in paragraph (2), be retired in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
+(1) Unless entitled to a different retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps who retires under any provision of law other than chapter 61 or chapter 1223 of this title shall, subject to paragraph (2) and subsection (b), be retired in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months. When an officer is under investigation for alleged misconduct at the time of retirement, the Secretary concerned may conditionally determine the highest grade of satisfactory service of the officer pending completion of the investigation. Such grade is subject to resolution under subsection (b)(3).
 
 (2)
 
@@ -26,15 +26,21 @@ source: >-
 
   (F) Notwithstanding subparagraph (E), during fiscal years 2013 through 2025, the number of lieutenant colonels and colonels of the Army, Air Force, and Marine Corps, and the number of commanders and captains of the Navy, for whom a reduction is made under this section during any fiscal year of service-in-grade otherwise required under this paragraph may not exceed four percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
 
-  (G) Notwithstanding subparagraph (E), during fiscal years 2013 through 2017, the total number of brigadier generals and major generals of the Army, Air Force, and Marine Corps, and the total number of rear admirals (lower half) and rear admirals of the Navy, for whom a reduction is made under this section during any fiscal year of service-in-grade otherwise required under this paragraph may not exceed 10 percent of the authorized active-duty strength for that fiscal year for officers of that armed force in those grades.
+  (G) Notwithstanding subparagraph (E), during fiscal years 2013 through 2025, the total number of brigadier generals and major generals of the Army, Air Force, and Marine Corps, and the total number of rear admirals (lower half) and rear admirals of the Navy, for whom a reduction is made under this section during any fiscal year of service-in-grade otherwise required under this paragraph may not exceed 10 percent of the authorized active-duty strength for that fiscal year for officers of that armed force in those grades.
 
-(3) A reserve or temporary officer who is notified that he will be released from active duty without his consent and thereafter requests retirement under section 3911, 6323, or 8911 of this title and is retired pursuant to that request is considered for purposes of this section, to have been retired involuntarily. An officer retired pursuant to [section 1186(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1186/b/1&num=0&edition=prelim) is considered for purposes of this section to have been retired voluntarily.
+(3) A reserve or temporary officer who is notified that he will be released from active duty without his consent and thereafter requests retirement under section 7311, 8323, or 9311 of this title and is retired pursuant to that request is considered for purposes of this section, to have been retired involuntarily. An officer retired pursuant to [section 1186(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1186/b/1&num=0&edition=prelim) is considered for purposes of this section to have been retired voluntarily.
 
-**(b) Retirement in Next Lower Grade.—** An officer whose length of service in the highest grade he held while on active duty does not meet the service in grade requirements specified in subsection (a) shall be retired in the next lower grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
+**(b) Retirement in Lower Grade.—**
+
+(1) An officer whose length of service in the highest grade he held while on active duty does not meet the service in grade requirements specified in subsection (a) shall be retired in the next lower grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
+
+(2) In the case of an officer or person whom the Secretary concerned determines committed misconduct in a lower grade, the Secretary concerned may determine the officer or person has not served satisfactorily in any grade equal to or higher than that lower grade.
+
+(3) A determination or certification of the retired grade of an officer shall be resolved following a conditional determination under subsection (a)(1) or (d)(1) or conditional certification under subsection (c)(4), if the investigation of or personnel action against the officer, as applicable, results in adverse findings. If the retired grade of an officer is reduced, the retired pay of the officer under chapter 71 of this title shall be recalculated, and any modification of the retired pay of the officer shall go into effect on the effective date of the reduction in retired grade.
 
 **(c) Officers in O–9 and O–10 Grades.—**
 
-(1) An officer who is serving in or has served in the grade of general or admiral or lieutenant general or vice admiral may be retired in that grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and Congress that the officer served on active duty satisfactorily in that grade.
+(1) Subject to subsection (b), an officer who is serving in or has served in the grade of general or admiral or lieutenant general or vice admiral may be retired in that grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and Congress that the officer served on active duty satisfactorily in that grade.
 
 (2) In the case of an officer covered by paragraph (1), the three-year service-in-grade requirement in paragraph (2)(A) of subsection (a) may not be reduced or waived under that subsection—
 
@@ -50,9 +56,11 @@ source: >-
 
   (C) A determination referred to in subparagraph (B) is a determination that there is potentially adverse information concerning an officer and that such information has not previously been submitted to the Senate in connection with the consideration by the Senate of a nomination of that officer for an appointment for which the advice and consent of the Senate is required.
 
+(4) The Secretary of Defense may make a conditional certification regarding satisfactory service in grade under paragraph (1) with respect to an officer under that paragraph notwithstanding the fact that there is pending the disposition of an adverse personnel action against the officer for alleged misconduct. The retired grade of an officer following such a conditional certification is subject to resolution under subsection (b)(3).
+
 **(d) Reserve Officers.—**
 
-(1) Unless entitled to a higher grade, or to credit for satisfactory service in a higher grade, under some other provision of law, a person who is entitled to retired pay under chapter 1223 of this title shall, upon application under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), be credited with satisfactory service in the highest grade in which that person served satisfactorily at any time in the armed forces, as determined by the Secretary concerned in accordance with this subsection.
+(1) Unless entitled to a different grade, or to credit for satisfactory service in a different grade, under some other provision of law, a person who is entitled to retired pay under chapter 1223 of this title, subject to subsection (b), shall, upon application under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), be credited with satisfactory service in the highest grade in which that person served satisfactorily at any time in the armed forces, as determined by the Secretary concerned in accordance with this subsection. When an officer is under investigation for alleged misconduct at the time of retirement, the Secretary concerned may conditionally determine the highest grade of satisfactory service of the officer pending completion of the investigation. Such grade is subject to resolution under subsection (b)(3).
 
 (2) In order to be credited with satisfactory service in an officer grade (other than a warrant officer grade) below the grade of lieutenant colonel or commander, a person covered by paragraph (1) must have served satisfactorily in that grade (as determined by the Secretary of the military department concerned) as a reserve commissioned officer in an active status, or in a retired status on active duty, for not less than six months.
 
@@ -94,9 +102,51 @@ source: >-
 
 (3) In the case of an officer to whom subsection (c) applies, the requirement for notification under paragraph (1) is satisfied if the notification is included in the certification submitted with respect to that officer under paragraph (1) of such subsection.
 
+**(f) Finality of Retired Grade Determinations.—**
+
+(1) Except as otherwise provided by law, a determination or certification of the retired grade of an officer pursuant to this section is administratively final on the day the officer is retired, and may not be reopened.
+
+(2) A determination or certification of the retired grade of an officer may be reopened as follows:
+
+  (A) If the retirement or retired grade of the officer was procured by fraud.
+
+  (B) If substantial evidence comes to light after the retirement that could have led to a lower retired grade under this section if known by competent authority at the time of retirement.
+
+  (C) If a mistake of law or calculation was made in the determination of the retired grade.
+
+  (D) In the case of a retired grade following a conditional determination under subsection (a)(1) or (d)(1) or conditional certification under subsection (c)(4), if the investigation of or personnel action against the officer, as applicable, results in adverse findings.
+
+  (E) If the Secretary concerned determines, pursuant to regulations prescribed by the Secretary of Defense, that good cause exists to reopen the determination or certification.
+
+(3) If a determination or certification of the retired grade of an officer is reopened, the Secretary concerned—
+
+  (A) shall notify the officer of the reopening; and
+
+  (B) may not make an adverse determination on the retired grade of the officer until the officer has had a reasonable opportunity to respond regarding the basis of the reopening.
+
+(4) If a certification of the retired grade of an officer covered by subsection (c) is reopened, the Secretary concerned shall also notify the President and Congress of the reopening.
+
+(5) If the retired grade of an officer is reduced through the reopening of the officer’s retired grade, the retired pay of the officer under chapter 71 of this title shall be recalculated, and any modification of the retired pay of the officer shall go into effect on the effective date of the reduction of the officer’s retired grade.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232, § 509(a)(1), (b)(2)(A), substituted “different” for “higher” and “subject to paragraph (2) and subsection (b)” for “except as provided in paragraph (2)” and inserted at end “When an officer is under investigation for alleged misconduct at the time of retirement, the Secretary concerned may conditionally determine the highest grade of satisfactory service of the officer pending completion of the investigation. Such grade is subject to resolution under subsection (b)(3).”
+
+Subsec. (a)(3). Pub. L. 115–232, § 809(a), substituted “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
+
+Subsec. (b). Pub. L. 115–232, § 509(b)(1), struck out “Next” before “Lower Grade” in heading, designated existing provisions as par. (1), and added pars. (2) and (3).
+
+Subsec. (c)(1). Pub. L. 115–232, § 509(b)(2)(B), substituted “Subject to subsection (b), an officer” for “An officer”.
+
+Subsec. (c)(4). Pub. L. 115–232, § 509(a)(2), added par. (4).
+
+Subsec. (d)(1). Pub. L. 115–232, § 509(a)(3), (b)(2)(C), substituted “different” for “higher” in two places and inserted “, subject to subsection (b),” before “shall” and “When an officer is under investigation for alleged misconduct at the time of retirement, the Secretary concerned may conditionally determine the highest grade of satisfactory service of the officer pending completion of the investigation. Such grade is subject to resolution under subsection (b)(3).” at end.
+
+Subsec. (f). Pub. L. 115–232, § 509(c), added subsec. (f).
+
+2017—Subsec. (a)(2)(G). Pub. L. 115–91 substituted “2025” for “2017”.
+
 2016—Subsec. (a)(2)(F). Pub. L. 114–328 substituted “2025” for “2018”.
 
 2013—Subsec. (a)(2)(E). Pub. L. 112–239, § 507(1), inserted “(i)” after “exceed” and “or (ii) in the case of officers of that armed force in a grade specified in subparagraph (G), two officers, whichever number is greater” before period at end.
@@ -166,6 +216,9 @@ Subsec. (d). Pub. L. 103–337, § 1641, added subsec. (d).
 1993—Subsec. (a)(2)(A). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
 1990—Subsec. (a)(2). Pub. L. 101–510 inserted “(A)” after “(2)”, inserted before period at end of first sentence “, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the five-year period beginning on October 1, 1990”, designated second and third sentences as subpar. (B), substituted “subparagraph (A)” for “the preceding sentence”, and added subpar. (C).
+
+#### Effective Date of 2018 Amendment
+Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1999 Amendment
 Pub. L. 106–65, div. A, title X, § 1066(b), Oct. 5, 1999, 113 Stat. 772, provided that the amendment made by section 1066(b) is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.

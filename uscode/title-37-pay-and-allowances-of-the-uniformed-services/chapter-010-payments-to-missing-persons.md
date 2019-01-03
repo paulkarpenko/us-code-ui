@@ -82,7 +82,7 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 (1) for the period he is in that status, entitled to receive or have credited to his account the same pay and allowances, as defined in this chapter, to which he was entitled at the beginning of that period or may thereafter become entitled; and
 
-(2) for the period, not to exceed one year, required for his hospitalization and rehabilitation after termination of that status, under regulations prescribed by the Secretaries concerned, with respect to incentive pay, considered to have satisfied the requirements of [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301) so as to entitle him to a continuance of that pay.
+(2) for the period, not to exceed one year, required for his hospitalization and rehabilitation after termination of that status, under regulations prescribed by the Secretaries concerned, with respect to incentive pay, considered to have satisfied the requirements of section 301 or [section 351(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section351/a/2&num=0&edition=prelim) so as to entitle him to a continuance of that pay.
 However, a member who is performing full-time training duty or other full-time duty without pay, or inactive-duty training with or without pay, is entitled to the pay and allowances to which he would have been entitled if he had been on active duty with pay. Notwithstanding [section 1523 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1523&num=0&edition=prelim) or any other provision of law, the promotion of a member while he is in a missing status is fully effective for all purposes.
 
 **(b)** The expiration of a member’s term of service while he is in a missing status does not end his entitlement to pay and allowances under subsection (a). Notwithstanding the death of a member while in a missing status, entitlement to pay and allowances under subsection (a) ends on the date—
@@ -123,6 +123,8 @@ In subsection (d), the words “A member . . . he . . . in a missing status” a
 In subsection (e), the words “A member in a missing status” are substituted for “a person missing under the conditions specified in section 2 of this Act” to conform to the definition in revised section 551(2) of this chapter. The words “under subsection (a) of this section” are substituted for “as provided in section 2 of this Act”.
 
 #### Amendments
+2017—Subsec. (a)(2). Pub. L. 115–91 inserted “or section 351(a)(2)” after “section 301”.
+
 1996—Subsec. (a). Pub. L. 104–106, § 569(c)(2)(A), substituted “for all purposes” for “for all purposes, even though the Secretary concerned determines under [section 556(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section556/b&num=0&edition=prelim) that the member died before the promotion was made”.
 
 Subsec. (b)(2). Pub. L. 104–106, § 569(c)(2)(B), inserted “or under chapter 76 of title 10” before period at end.

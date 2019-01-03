@@ -20,7 +20,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 11701 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11701) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Consumer Complaint Information
 Pub. L. 109–59, title IV, § 4214, Aug. 10, 2005, 119 Stat. 1759, provided that: “(a) Establishment of System.—Not later than 1 year after the date of enactment of this Act [Aug. 10, 2005], the Secretary shall—“(1) establish (A) a system for filing and logging consumer complaints relating to household goods motor carriers for the purpose of compiling or linking complaint information gathered by the Department of Transportation and the States with regard to such carriers, (B) a database of the complaints, and (C) a procedure for the public to have access, subject to [section 552(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/a&num=0&edition=prelim), United States Code, to aggregated information and for carriers to challenge duplicate or fraudulent information in the database; “(2) issue regulations requiring each motor carrier of household goods to submit on a quarterly basis a report summarizing—“(A) the number of shipments that originate and are delivered for individual shippers during the reporting period by the carrier; “(B) the number and general category of complaints lodged by consumers with the carrier; “(C) the number of claims filed with the carrier for loss and damage in excess of $500; “(D) the number of such claims resolved during the reporting period; “(E) the number of such claims declined in the reporting period; and “(F) the number of such claims that are pending at the close of the reporting period; and “(3) develop a procedure to forward a complaint, including the motor carrier bill of lading number, if known, related to the complaint to a motor carrier named in such complaint and to an appropriate State authority (as defined in [section 14710(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section14710/d&num=0&edition=prelim), United States Code) in the State in which the complainant resides. “(b) Use of Information.—The Secretary shall consider information in the data base established under subsection (a) in its household goods compliance and enforcement program.”
@@ -51,6 +51,9 @@ Pub. L. 109–59, title IV, § 4214, Aug. 10, 2005, 119 Stat. 1759, provided tha
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11702 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11702) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14703"></a>
 ## § 14703. Enforcement by the Attorney General
@@ -65,6 +68,9 @@ The Attorney General may, and on request of either the Secretary or the Board sh
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11703 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11703) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14704"></a>
@@ -106,6 +112,9 @@ Provisions similar to those in this section were contained in [section 11705 of 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14705"></a>
 ## § 14705. Limitation on actions by and against carriers
@@ -133,6 +142,9 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11706 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11706) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14706"></a>
@@ -215,6 +227,9 @@ Provisions similar to those in this section were contained in sections 10730 and
 
 1996—Subsec. (g)(3). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Review of Liability of Carriers
 Pub. L. 109–59, title IV, § 4215, Aug. 10, 2005, 119 Stat. 1760, provided that: “(a) Review.—Not later than 1 year after the date of enactment of this Act [Aug. 10, 2005], the Surface Transportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage. “(b) Determinations.—The review required by subsection (a) shall include a determination of—“(1) whether the current regulations provide adequate protection; “(2) the benefits of purchase by a shipper of insurance to supplement the carrier’s limitations on liability; and “(3) whether there are abuses of the current regulations that leave the shipper unprotected in the event of loss and damage to a shipment of household goods.”
 
@@ -236,6 +251,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (c), are set out in
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11708 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11708) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14708"></a>
@@ -308,6 +326,9 @@ Subsec. (d)(3). Pub. L. 109–59, § 4208(d), added subpar. (A) and redesignated
 
 1996—Subsec. (g). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14709"></a>
 ## § 14709. Tariff reconciliation rules for motor carriers of property
@@ -327,6 +348,9 @@ Provisions similar to those in this section were contained in [section 11712 of 
 
 #### Amendments
 1996—Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14710"></a>

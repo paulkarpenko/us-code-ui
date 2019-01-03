@@ -18,6 +18,12 @@ Based on title 28, U.S.C., 1940 ed., § 321 (Mar. 3, 1911, ch. 231, § 215, 36 S
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, § 2, cl. 2.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–332, § 1, Dec. 19, 2018, 132 Stat. 4487, provided that: “This Act [amending [section 1631 of this title](./chapter-099-general-provisions.md#section-1631)] may be cited as the ‘Protecting Access to the Courts for Taxpayers Act’.”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–72, div. B, § 1001, Oct. 26, 2017, 131 Stat. 1229, provided that: “This division [enacting [section 1232 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1232&num=0&edition=prelim), Bankruptcy, amending [section 1930 of this title](./chapter-123-fees-and-costs.md#section-1930) and sections 1222, 1228, and 1229 of Title 11, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and [section 1222 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1222&num=0&edition=prelim)] may be cited as the ‘Bankruptcy Judgeship Act of 2017’.”
+
 #### Short Title of 2016 Amendment
 Pub. L. 114–319, § 1, Dec. 16, 2016, 130 Stat. 1618, provided that: “This Act [amending [section 1605 of this title](./chapter-097-jurisdictional-immunities-of-foreign-states.md#section-1605) and enacting provisions set out as notes under [section 1605 of this title](./chapter-097-jurisdictional-immunities-of-foreign-states.md#section-1605)] may be cited as the ‘Foreign Cultural Exchange Jurisdictional Immunity Clarification Act’.”
 

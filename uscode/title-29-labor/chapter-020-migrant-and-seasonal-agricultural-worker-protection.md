@@ -16,11 +16,21 @@ source: >-
 
 (2) provides assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (1) and that the State agency’s performance of functions so delegated will be at least comparable to the performance of such functions by the Department of Labor.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1802"></a>
 ## § 1802. State laws and regulations
 
 This chapter is intended to supplement State law, and compliance with this chapter shall not excuse any person from compliance with appropriate State law and regulation.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1803"></a>
@@ -32,6 +42,9 @@ The Secretary may deny a certificate of registration to any farm labor contracto
 
 #### References in Text
 The Farm Labor Contractor Registration Act of 1963, referred to in text, is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1811"></a>
@@ -112,6 +125,9 @@ Pars. (8)(B)(ii), (10)(B)(iii). Pub. L. 99–603 substituted “1101(a)(15)(H)(i
 #### Effective Date of 1986 Amendment
 Pub. L. 99–603, title I, § 101(b)(2), Nov. 6, 1986, 100 Stat. 3372, as amended by Pub. L. 100–525, § 2(a)(2), Oct. 24, 1988, 102 Stat. 2610, provided that: “The amendments made by paragraph (1) [amending this section and sections 1813 and 1851 of this title and repealing [section 1816 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1816)] shall apply to the employment, recruitment, referral, or utilization of the services of an individual occurring on or after the first day of the seventh month beginning after the date of the enactment of this Act [Nov. 6, 1986]; except that if the provisions of section 274A of the Immigration and Nationality Act [[8 U.S.C. 1324a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324a&num=0&edition=prelim)] are terminated as of a date under [former] subsection (l) of such section, then such amendments shall no longer apply as of such date.” [The provisions of [section 1324a of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324a&num=0&edition=prelim), Aliens and Nationality, were not terminated under subsection (l) of section 1324a, and that subsection was repealed by Pub. L. 104–208.]
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1813"></a>
 ## § 1813. Applicability of chapter
@@ -156,6 +172,9 @@ Pub. L. 99–603, title I, § 101(b)(2), Nov. 6, 1986, 100 Stat. 3372, as amende
 #### References in Text
 That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, known as the Labor Management Relations Act, 1947, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1814"></a>
 ## § 1814. Certificate of registration required
@@ -172,6 +191,9 @@ That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 St
 #### References in Text
 The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49) and Tables.
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1815"></a>
 ## § 1815. Issuance of certificate of registration
@@ -187,6 +209,11 @@ The Secretary, after appropriate investigation and approval, shall issue a certi
 (4) a set of fingerprints of the applicant; and
 
 (5) a declaration, subscribed and sworn to by the applicant, consenting to the designation by a court of the Secretary as an agent available to accept service of summons in any action against the applicant, if the applicant has left the jurisdiction in which the action is commenced or otherwise has become unavailable to accept service.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1816"></a>
@@ -232,6 +259,9 @@ The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, or utilization of services of an individual occurring on or after first day of seventh month beginning after Nov. 6, 1986, see section 101(b)(2) of Pub. L. 99–603, as amended, set out as a note under [section 1802 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1802).
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1821"></a>
 ## § 1821. Transfer or assignment; expiration; renewal
@@ -248,6 +278,9 @@ Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, o
 #### References in Text
 The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (b)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1822"></a>
 ## § 1822. Notice of address change; amendment of certificate of registration
@@ -263,6 +296,11 @@ During the period for which the certificate of registration is in effect, each f
   (B) use, or cause to be used, another vehicle than that covered by the certificate to transport any migrant or seasonal agricultural worker, or
 
   (C) use, or cause to be used, another real property or facility to house any migrant agricultural worker than that covered by the certificate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1823"></a>
@@ -333,6 +371,9 @@ Compliance with the disclosure requirement of paragraph (8) for a migrant agricu
 #### Effective Date of 1995 Amendment
 Pub. L. 104–49, § 4(c), Nov. 15, 1995, 109 Stat. 434, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1831 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1831)] shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor to implement such amendments.” [Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.]
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1832"></a>
 ## § 1832. Wages, supplies, and other working arrangements
@@ -341,6 +382,11 @@ Pub. L. 104–49, § 4(c), Nov. 15, 1995, 109 Stat. 434, provided that: “The a
 **(b) Purchase of goods or services by worker** No farm labor contractor, agricultural employer, or agricultural association shall require any migrant agricultural worker to purchase any goods or services solely from such farm labor contractor, agricultural employer, or agricultural association.
 
 **(c) Violation of terms of working arrangement** No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any migrant agricultural worker.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1841"></a>
@@ -354,6 +400,11 @@ Pub. L. 104–49, § 4(c), Nov. 15, 1995, 109 Stat. 434, provided that: “The a
 (2) Notwithstanding paragraph (1) of this subsection, if a request for the inspection of a facility or real property is made to the appropriate State or local agency at least forty-five days prior to the date on which it is occupied by migrant agricultural workers and such agency has not conducted an inspection by such date, the facility or property may be so occupied.
 
 **(c) Applicability to providers of housing on a commercial basis to the general public** This section does not apply to any person who, in the ordinary course of that person’s business, regularly provides housing on a commercial basis to the general public and who provides housing to migrant agricultural workers of the same character and on the same or comparable terms and conditions as is provided to the general public.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1842"></a>
@@ -417,6 +468,9 @@ Pub. L. 104–49, § 4(c), Nov. 15, 1995, 109 Stat. 434, provided that: “The a
 #### Effective Date of 1995 Amendment
 Amendment by Pub. L. 104–49 effective upon expiration of 90 days after the date final regulations are issued by Secretary of Labor to implement such amendment, see section 4(c) of Pub. L. 104–49, set out as a note under [section 1821 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1821).
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1843"></a>
 ## § 1843. Wages, supplies, and other working arrangements
@@ -425,6 +479,11 @@ Amendment by Pub. L. 104–49 effective upon expiration of 90 days after the dat
 **(b) Purchase of goods or services by worker** No farm labor contractor, agricultural employer, or agricultural association shall require any seasonal agricultural worker to purchase any goods or services solely from such farm labor contractor, agricultural employer, or agricultural association.
 
 **(c) Violation of terms of working arrangement** No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any seasonal agricultural worker.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1844"></a>
@@ -493,6 +552,9 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Pub. L. 104–49, § 5(c), Nov. 15, 1995, 109 Stat. 435, provided that: “The amendment made by subsection (a) [amending this section] takes effect upon the expiration of 180 days after the date of enactment of this Act [Nov. 15, 1995] or upon the issuance of final regulations under subsection (b) [set out below], whichever occurs first.”
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 #### Regulations
 Pub. L. 104–49, § 5(b), Nov. 15, 1995, 109 Stat. 435, provided that: “Within 180 days of the date of the enactment of this Act [Nov. 15, 1995], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act ([29 U.S.C. 1841(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1841/b/3&num=0&edition=prelim)) as amended by subsection (a).” [Final regulations implementing Pub. L. 104–49 were signed May 13, 1996, published May 16, 1996, 61 F.R. 24858, and effective the same day.]
 
@@ -502,11 +564,21 @@ Pub. L. 104–49, § 5(b), Nov. 15, 1995, 109 Stat. 435, provided that: “Withi
 
 No person shall utilize the services of any farm labor contractor to supply any migrant or seasonal agricultural worker unless the person first takes reasonable steps to determine that the farm labor contractor possesses a certificate of registration which is valid and which authorizes the activity for which the contractor is utilized. In making that determination, the person may rely upon either possession of a certificate of registration, or confirmation of such registration by the Department of Labor. The Secretary shall maintain a central public registry of all persons issued a certificate of registration.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1852"></a>
 ## § 1852. Information on employment conditions
 
 Each farm labor contractor, without regard to any other provisions of this chapter, shall obtain at each place of employment and make available for inspection to every worker he furnishes for employment, a written statement of the conditions of such employment as described in sections 1821(b) and 1831(b) of this title.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1853"></a>
@@ -514,6 +586,11 @@ Each farm labor contractor, without regard to any other provisions of this chapt
 **(a) Applicability to contracting activity or worker protection** No farm labor contractor shall violate, without justification, the terms of any written agreements made with an agricultural employer or an agricultural association pertaining to any contracting activity or worker protection under this chapter.
 
 **(b) Statutory liability** Written agreements under this section do not relieve a person of any responsibility that such person would otherwise have under this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1854"></a>
@@ -530,12 +607,20 @@ Each farm labor contractor, without regard to any other provisions of this chapt
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, or utilization of services of an individual occurring on or after first day of seventh month beginning after Nov. 6, 1986, see section 101(b)(2) of Pub. L. 99–603, as amended, set out as a note under [section 1802 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1802).
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1855"></a>
 ## § 1855. Judicial enforcement
 **(a) Injunctive relief** The Secretary may petition any appropriate district court of the United States for temporary or permanent injunctive relief if the Secretary determines that this chapter, or any regulation under this chapter, has been violated.
 
 **(b) Control of civil litigation** Except as provided in [section 518(a) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section518/a&num=0&edition=prelim), relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter, but all such litigation shall be subject to the direction and control of the Attorney General.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1856"></a>
@@ -562,6 +647,9 @@ Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, o
 
 #### References in Text
 The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1861"></a>
@@ -646,6 +734,9 @@ Pub. L. 104–49, § 2(b), Nov. 15, 1995, 109 Stat. 433, provided that: “The a
 #### Effective Date of 1992 Amendment
 Pub. L. 102–392, title III, § 325(c), Oct. 6, 1992, 106 Stat. 1728, provided that the amendment of this section by section 325(a) of Pub. L. 102–392 would apply to actions commenced after Oct. 6, 1992, but not after the expiration of 9 months after such date, with waiver and extension provisions for certain actions, prior to repeal by Pub. L. 104–49, § 1(a)(1), Nov. 15, 1995, 109 Stat. 432.
 
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1862"></a>
 ## § 1862. Discrimination prohibited
@@ -653,17 +744,32 @@ Pub. L. 102–392, title III, § 325(c), Oct. 6, 1992, 106 Stat. 1728, provided 
 
 **(b) Proceedings for redress of violations** A migrant or seasonal agricultural worker who believes, with just cause, that he has been discriminated against by any person in violation of this section may, within 180 days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this section have been violated, the Secretary shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown, to restrain violation of subsection (a) and order all appropriate relief, including rehiring or reinstatement of the worker, with back pay, or damages.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1863"></a>
 ## § 1863. Waiver of rights
 
 Agreements by employees purporting to waive or to modify their rights under this chapter shall be void as contrary to public policy, except that a waiver or modification of rights in favor of the Secretary shall be valid for purposes of enforcement of this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
+
 
 <a id="section-1871"></a>
 ## § 1871. Rules and regulations
 
 The Secretary may issue such rules and regulations as are necessary to carry out this chapter, consistent with the requirements of chapter 5 of title 5.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
 
 
 <a id="section-1872"></a>
@@ -673,3 +779,8 @@ The Secretary may issue such rules and regulations as are necessary to carry out
 **(b) Attendance and testimony of witnesses, and production of evidence; subpena authority** The Secretary may issue subpenas requiring the attendance and testimony of witnesses or the production of any evidence in connection with such investigations. The Secretary may administer oaths, examine witnesses, and receive evidence. For the purpose of any hearing or investigation provided for in this chapter, the authority contained in sections 49 and 50 of title 15, relating to the attendance of witnesses and the production of books, papers, and documents, shall be available to the Secretary. The Secretary shall conduct investigations in a manner which protects the confidentiality of any complainant or other party who provides information to the Secretary in good faith.
 
 **(c) Prohibited activities** It shall be a violation of this chapter for any person to unlawfully resist, oppose, impede, intimidate, or interfere with any official of the Department of Labor assigned to perform an investigation, inspection, or law enforcement function pursuant to this chapter during the performance of such duties.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).

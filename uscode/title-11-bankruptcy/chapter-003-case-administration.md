@@ -49,9 +49,9 @@ Subsection (b) requires the court to determine the extent, if any, to which the 
 
 **(b)** An involuntary case against a person is commenced by the filing with the bankruptcy court of a petition under chapter 7 or 11 of this title—
 
-(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
+(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 11 See Adjustment of Dollar Amounts notes below. more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
 
-(2) if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 of such claims;
+(2) if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 1 of such claims;
 
 (3) if such person is a partnership—
 
@@ -115,9 +115,6 @@ Subsection (b) requires the court to determine the extent, if any, to which the 
 (3) Upon the expiration of the statute of limitations described in [section 3282 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3282&num=0&edition=prelim), for a violation of section 152 or 157 of such title, the court, upon the motion of the debtor and for good cause, may expunge any records relating to a petition filed under this section.
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 303(b)(1) is modified to make clear that unsecured claims against the debtor must be determined by taking into account liens securing property held by third parties.

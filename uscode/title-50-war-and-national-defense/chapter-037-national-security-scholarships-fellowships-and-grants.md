@@ -2,7 +2,7 @@
 title: 50
 chapter: '37'
 heading: 'NATIONAL SECURITY SCHOLARSHIPS, FELLOWSHIPS, AND GRANTS'
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -194,13 +194,15 @@ source: >-
 
   (B) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of subparagraph (A), convert the appointment of such individual, without competition, to a career or career-conditional appointment.
 
-(2) **Treatment of certain service** — In the case of an eligible program participant described in clause (ii) or (iii) of paragraph (3)(C) who receives an appointment under paragraph (1)(A), the head of a Department or Federal agency or office referred to in paragraph (1) may count any period that the individual served in a position with the Federal Government toward satisfaction of the service requirement under paragraph (1)(B) if that service—
+(2) **Treatment of certain service** — In the case of an eligible program participant described in clause (ii) or (iii) of paragraph (4)(C) who receives an appointment under paragraph (1)(A), the head of a Department or Federal agency or office referred to in paragraph (1) may count any period that the individual served in a position with the Federal Government toward satisfaction of the service requirement under paragraph (1)(B) if that service—
 
   (A) in the case of an appointment under clause (i) of paragraph (1)(A), was in a position that is identified under clause (i) of subsection (b)(2)(A) as contributing to the national security of the United States; or
 
   (B) in the case of an appointment under clause (ii) of paragraph (1)(A), was in the Federal agency or office in which the appointment under that clause is made.
 
-(3) **Eligible program participant defined** — In this subsection, the term “eligible program participant” means an individual who—
+(3) **Career tenure** — In the case of an individual whose appointment to a position in the excepted service is converted to a career or career-conditional appointment under paragraph (1)(B), the period of service described in such paragraph shall be treated, for purposes of the service requirements for career tenure under title 5, as if it were service in a position under a career or career-conditional appointment.
+
+(4) **Eligible program participant defined** — In this subsection, the term “eligible program participant” means an individual who—
 
   (A) has successfully completed an academic program for which a scholarship or fellowship under this section was awarded;
 
@@ -220,6 +222,10 @@ source: >-
 In subsec. (a)(4), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2017—Subsec. (k)(2). Pub. L. 115–91, § 1625(2), substituted “paragraph (4)(C)” for “paragraph (3)(C)” in introductory provisions.
+
+Subsec. (k)(3), (4). Pub. L. 115–91, § 1625(1), (3), added par. (3) and redesignated former par. (3) as (4).
+
 2013—Subsec. (k). Pub. L. 112–239 amended subsec. (k) generally. Prior to amendment, text read as follows: “The Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, or the head of a Federal agency or office identified by the Secretary of Defense under subsection (g) as having national security responsibilities—
 
 “(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
@@ -644,3 +650,15 @@ Section effective on the date the Secretary of Defense submits the report requir
 **(e) Service** Upon a determination that it is in the national interests of the United States, the Secretary shall call upon members of the Corps to provide foreign language services to the Department of Defense or another department or agency of the United States. If a member of the Corps is, as of the time of such determination, employed by or performing under a contract for an element of another Federal agency, the Secretary shall first obtain the concurrence of the head of that agency.
 
 **(f) Funding** The Secretary may impose fees, in amounts up to full-cost recovery, for language services and technical assistance rendered by members of the Corps. Amounts of fees received under this section shall be credited to the account of the Department providing funds for any costs incurred by the Department in connection with the Corps. Amounts so credited to such account shall be merged with amounts in such account, and shall be available to the same extent, and subject to the same conditions and limitations, as amounts in such account. Any amounts so credited shall remain available until expended.
+
+
+<a id="section-1914"></a>
+## § 1914. Department of Defense program to protect United States students against foreign agents
+**(a) Program** The Secretary of Defense shall develop and implement a program to prepare United States students studying abroad through Department of Defense National Security Education Programs to recognize and protect themselves against recruitment efforts by intelligence agents.
+
+**(b) Briefing** Not later than 180 days after December 12, 2017, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the program required under subsection (a).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2018, and not as part of the David L. Boren National Security Education Act of 1991 which comprises this chapter.

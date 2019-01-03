@@ -180,7 +180,7 @@ The words “or threatens” are omitted as being included in “intimidating”
 
 (1) a law enforcement officer of a State or political subdivision of a State, or an officer or employee of the United States Government, authorized to carry arms in an official capacity;
 
-(2) another individual the Administrator of the Federal Aviation Administration or the Under Secretary of Transportation for Security by regulation authorizes to carry a dangerous weapon in air transportation or intrastate air transportation; or
+(2) another individual the Administrator of the Federal Aviation Administration or the Administrator of the Transportation Security Administration by regulation authorizes to carry a dangerous weapon in air transportation or intrastate air transportation; or
 
 (3) an individual transporting a weapon (except a loaded firearm) in baggage not accessible to a passenger in flight if the air carrier was informed of the presence of the weapon.
 
@@ -211,6 +211,8 @@ In subsection (d)(1), the words “State or political subdivision of a State” 
 In subsection (d)(3), the word “contained” is omitted as surplus.
 
 #### Amendments
+2018—Subsec. (d)(2). Pub. L. 115–254 substituted “Administrator of the Transportation Security Administration” for “Under Secretary of Transportation for Security”.
+
 2001—Subsec. (c). Pub. L. 107–56, § 810(g), substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
 
 Subsec. (d)(2). Pub. L. 107–71, § 140(d)(8), inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
@@ -220,9 +222,6 @@ Subsec. (e). Pub. L. 107–56, § 811(j), added subsec. (e).
 1996—Subsec. (b). Pub. L. 104–132, § 705(b)(1), substituted “10 years” for “one year”.
 
 Subsec. (c). Pub. L. 104–132, § 705(b)(2), substituted “15 years” for “5 years”.
-
-#### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
 <a id="section-46506"></a>

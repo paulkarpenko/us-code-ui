@@ -108,7 +108,7 @@ Mandatory punishment provision was rephrased in the alternative.
 
 <a id="section-2277"></a>
 ## § 2277. Explosives or dangerous weapons aboard vessels
-**(a)** Whoever brings, carries, or possesses any dangerous weapon, instrument, or device, or any dynamite, nitroglycerin, or other explosive article or compound on board of any vessel documented under the laws of the United States, or any vessel purchased, requisitioned, chartered, or taken over by the United States pursuant to the provisions of Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, without previously obtaining the permission of the owner or the master of such vessel; orWhoever brings, carries, or possesses any such weapon or explosive on board of any vessel in the possession and under the control of the United States or which has been seized and forfeited by the United States or upon which a guard has been placed by the United States pursuant to the provisions of [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), without previously obtaining the permission of the captain of the port in which such vessel is located, shall be fined under this title or imprisoned not more than one year, or both.
+**(a)** Whoever brings, carries, or possesses any dangerous weapon, instrument, or device, or any dynamite, nitroglycerin, or other explosive article or compound on board of any vessel documented under the laws of the United States, or any vessel purchased, requisitioned, chartered, or taken over by the United States pursuant to the provisions of Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, without previously obtaining the permission of the owner or the master of such vessel; orWhoever brings, carries, or possesses any such weapon or explosive on board of any vessel in the possession and under the control of the United States or which has been seized and forfeited by the United States or upon which a guard has been placed by the United States pursuant to the provisions of section 191 11 See References in Text note below. of Title 50, without previously obtaining the permission of the captain of the port in which such vessel is located, shall be fined under this title or imprisoned not more than one year, or both.
 
 **(b)** This section shall not apply to the personnel of the Armed Forces of the United States or to officers or employees of the United States or of a State or of a political subdivision thereof, while acting in the performance of their duties, who are authorized by law or by rules or regulations to own or possess any such weapon or explosive.
 
@@ -124,7 +124,9 @@ Words “This section” were substituted in subsection (b) for the words “The
 Minor changes were made in phraseology.
 
 #### References in Text
-Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, referred to in subsec. (a), expired July 1, 1953. For provisions covering the subject matter of that Act, see sections 196 to 198 of Title 50, War and National Defense.
+Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, referred to in subsec. (a), expired July 1, 1953.
+
+[Section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), referred to in subsec. (a), was redesignated and transferred to [section 70051 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70051&num=0&edition=prelim), Shipping, by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
 
 #### Amendments
 2006—Subsec. (a). Pub. L. 109–304 substituted “documented” for “registered, enrolled, or licensed”.
@@ -590,7 +592,12 @@ For definitions of terms used in this section, see [section 2280(d) of this titl
 <a id="section-2282b"></a>
 ## § 2282B. Violence against aids to maritime navigation
 
-Whoever intentionally destroys, seriously damages, alters, moves, or tampers with any aid to maritime navigation maintained by the Saint Lawrence Seaway Development Corporation under the authority of section 4 of the Act of May 13, 1954 ([33 U.S.C. 984](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section984&num=0&edition=prelim)), by the Coast Guard pursuant to [section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim), United States Code, or lawfully maintained under authority granted by the Coast Guard pursuant to [section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim), United States Code, if such act endangers or is likely to endanger the safe navigation of a ship, shall be fined under this title or imprisoned for not more than 20 years, or both.
+Whoever intentionally destroys, seriously damages, alters, moves, or tampers with any aid to maritime navigation maintained by the Saint Lawrence Seaway Development Corporation under the authority of section 4 of the Act of May 13, 1954 ([33 U.S.C. 984](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section984&num=0&edition=prelim)), by the Coast Guard pursuant to section 81 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, United States Code, or lawfully maintained under authority granted by the Coast Guard pursuant to [section 83 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim), United States Code, if such act endangers or is likely to endanger the safe navigation of a ship, shall be fined under this title or imprisoned for not more than 20 years, or both.
+
+### Statutory Notes
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim) redesignated [section 541 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section541&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 81 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-2283"></a>

@@ -245,7 +245,7 @@ Section was formerly classified to [section 10512 of Title 42](https://uscode.ho
 
 <a id="section-50112"></a>
 ## § 50112. Authorization of appropriations
-**(a) Assistance in form of funds** There is authorized to be appropriated $20,000,000 for each fiscal year ending after September 30, 2021, to provide under this chapter Federal law enforcement assistance in the form of funds.
+**(a) Assistance in form of funds** There is authorized to be appropriated $20,000,000 for each fiscal year ending after September 30, 2022, to provide under this chapter Federal law enforcement assistance in the form of funds.
 
 **(b) Assistance other than funds** There are authorized to be appropriated for each fiscal year ending after September 30, 1984, such sums as may be necessary to provide under this chapter Federal law enforcement assistance other than funds.
 
@@ -255,4 +255,6 @@ Section was formerly classified to [section 10512 of Title 42](https://uscode.ho
 Section was formerly classified to [section 10513 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10513&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–401 substituted “September 30, 2022” for “September 30, 2021”.
+
 2016—Subsec. (a). Pub. L. 114–198 substituted “September 30, 2021” for “September 30, 1984”.

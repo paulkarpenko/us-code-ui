@@ -18,7 +18,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### Effective Date
-Chapter subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
 
 #### Short Title
 Pub. L. 108–159, title V, § 511, Dec. 4, 2003, 117 Stat. 2003, provided that: “This title [enacting this chapter] may be cited as the ‘Financial Literacy and Education Improvement Act’.”
@@ -332,6 +332,9 @@ Barack Obama.
 
 Subsec. (d). Pub. L. 111–203, § 1013(d)(6), inserted at end “The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman.”
 
+#### Effective Date
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
+
 
 <a id="section-9703"></a>
 ## § 9703. Duties of the Commission
@@ -360,6 +363,28 @@ Subsec. (d). Pub. L. 111–203, § 1013(d)(6), inserted at end “The Director o
   (I) promote bringing individuals who lack basic banking services into the financial mainstream by opening and maintaining an account with a financial institution; and
 
   (J) improve financial literacy and education through all other related skills, including personal finance and related economic education, with the primary goal of programs not simply to improve knowledge, but rather to improve consumers’ financial choices and outcomes.
+
+(3) **Best practices for teaching financial literacy**
+
+  (A) *In general* — After soliciting public comments and consulting with and receiving input from relevant parties, including a diverse set of institutions of higher education and other parties, the Commission shall, by not later than 1 year after May 24, 2018, establish best practices for institutions of higher education regarding methods to—
+
+    (i) teach financial literacy skills; and
+
+    (ii) provide useful and necessary information to assist students at institutions of higher education when making financial decisions related to student borrowing.
+
+  (B) *Best practices* — The best practices described in subparagraph (A) shall include the following:
+
+    (i) Methods to ensure that each student has a clear sense of the student’s total borrowing obligations, including monthly payments, and repayment options.
+
+    (ii) The most effective ways to engage students in financial literacy education, including frequency and timing of communication with students.
+
+    (iii) Information on how to target different student populations, including part-time students, first-time students, and other nontraditional students.
+
+    (iv) Ways to clearly communicate the importance of graduating on a student’s ability to repay student loans.
+
+  (C) *Maintenance of best practices* — The Commission shall maintain and periodically update the best practices information required under this paragraph and make the best practices available to the public.
+
+  (D) *Rule of construction* — Nothing in this paragraph shall be construed to require an institution of higher education to adopt the best practices required under this paragraph.
 
 **(b) Website**
 
@@ -449,6 +474,12 @@ Subsec. (d). Pub. L. 111–203, § 1013(d)(6), inserted at end “The Director o
 
 ### Statutory Notes
 
+#### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–174 added par. (3).
+
+#### Effective Date
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
+
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
 
@@ -479,6 +510,9 @@ For definitions of terms used in this section, see section 2 of Pub. L. 108–15
 
 ### Statutory Notes
 
+#### Effective Date
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
+
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
 
@@ -494,6 +528,11 @@ For definitions of terms used in this section, see section 2 of Pub. L. 108–15
 (1) **In general** — The Director of the Office of Financial Education of the Department of the Treasury shall provide assistance to the Commission, upon request of the Commission, without reimbursement.
 
 (2) **Detail of Government employees** — Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+### Statutory Notes
+
+#### Effective Date
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-9706"></a>
@@ -520,6 +559,9 @@ For definitions of terms used in this section, see section 2 of Pub. L. 108–15
 
 ### Statutory Notes
 
+#### Effective Date
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
+
 #### Definitions
 For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
 
@@ -544,11 +586,21 @@ For definitions of terms used in this section, see section 2 of Pub. L. 108–15
 
 **(f) Authorization of appropriations** There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
+
 
 <a id="section-9708"></a>
 ## § 9708. Authorization of appropriations
 
 There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this chapter, including administrative expenses of the Commission.
+
+### Statutory Notes
+
+#### Effective Date
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under [section 1681 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-9709"></a>

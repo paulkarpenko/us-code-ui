@@ -51,16 +51,13 @@ Section 190c, acts Aug. 2, 1946, ch. 753, title I, § 135, 60 Stat. 832; Oct. 26
 (1) its analysis, appraisal, and evaluation of the application, administration, and execution of the laws enacted by the Congress, and
 
 (2) its formulation, consideration, and enactment of such modifications of or changes in those laws, and of such additional legislation, as may be necessary or appropriate,
-each standing committee of the Senate and the House of Representatives shall review and study, on a continuing basis, the application, administration, and execution of those laws, or parts of laws, the subject matter of which is within the jurisdiction of that committee. Such committees may carry out the required analysis, appraisal, and evaluation themselves, or by contract, or may require a Government agency to do so and furnish a report thereon to the Congress. Such committees may rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
+each standing committee of the Senate 11 See Partial Repeal note below. and the House of Representatives shall review and study, on a continuing basis, the application, administration, and execution of those laws, or parts of laws, the subject matter of which is within the jurisdiction of that committee. Such committees may carry out the required analysis, appraisal, and evaluation themselves, or by contract, or may require a Government agency to do so and furnish a report thereon to the Congress. Such committees may rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
 
-**(b) Reports to the Senate and the House of Representatives** In each odd-numbered year beginning on or after January 1, 1973, each standing committee of the Senate shall submit, not later than March 31, to the Senate, and each standing committee of the House shall submit, not later than January 2, to the House, a report on the activities of that committee under this section during the Congress ending at noon on January 3 of such year.
+**(b) Reports to the Senate and the House of Representatives** In each odd-numbered year beginning on or after January 1, 1973, each standing committee of the Senate shall submit, not later than March 31, to the Senate,1 and each standing committee of the House shall submit, not later than January 2, to the House, a report on the activities of that committee under this section during the Congress ending at noon on January 3 of such year.
 
-**(c) Exceptions** The preceding provisions of this section do not apply to the Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget, House Oversight, Rules, and Standards of Official Conduct of the House.
+**(c) Exceptions** The preceding provisions of this section do not apply to the Committees on Appropriations and the Budget of the Senate 1 and the Committees on Appropriations, the Budget, House Oversight, Rules, and Standards of Official Conduct of the House.
 
 ### Statutory Notes
-
-#### Partial Repeal
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
 #### Amendments
 1996—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
@@ -91,6 +88,9 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 #### Effective Date
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
 
+#### Partial Repeal
+Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
+
 
 <a id="section-190e"></a>
 ## § 190e. Repealed. Pub. L. 91–510, title II, § 242(b)(1), Oct. 26, 1970, 84 Stat. 1172
@@ -107,14 +107,11 @@ Repeal effective immediately prior to noon on Jan. 3, 1971, see section 601(1) o
 ## § 190f. General appropriation bills
 **(a) Repealed. Pub. L. 91–510, title I, § 108(d), Oct. 26, 1970, 84 Stat. 1149**
 
-**(b) Standard appropriation classification schedule** The Committees on Appropriations of the two Houses are authorized and directed, acting jointly, to develop a standard appropriation classification schedule which will clearly define in concise and uniform accounts the subtotals of appropriations asked for by agencies in the executive branch of the Government. That part of the printed hearings containing each such agency’s request for appropriations shall be preceded by such a schedule.
+**(b) Standard appropriation classification schedule** The Committees on Appropriations of the two Houses 11 See Partial Repeal note below. are authorized and directed, acting jointly, to develop a standard appropriation classification schedule which will clearly define in concise and uniform accounts the subtotals of appropriations asked for by agencies in the executive branch of the Government. That part of the printed hearings containing each such agency’s request for appropriations shall be preceded by such a schedule.
 
-**(c) Nonconsideration if a provision reappropriates unexpended balances** No general appropriation bill or amendment thereto shall be received or considered in either House if it contains a provision reappropriating unexpended balances of appropriations; except that this provision shall not apply to appropriations in continuation of appropriations for public works on which work has commenced.
+**(c) Nonconsideration if a provision reappropriates unexpended balances** No general appropriation bill or amendment thereto shall be received or considered in either House 1 if it contains a provision reappropriating unexpended balances of appropriations; except that this provision shall not apply to appropriations in continuation of appropriations for public works on which work has commenced.
 
 ### Statutory Notes
-
-#### Partial Repeal
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
 #### Codification
 Section constitutes subsections (a) to (c) of section 139 of act Aug. 2, 1946. Subsection (d) of section 139, which required the two Houses of Congress to make a study of existing permanent appropriations with a view to limiting the number thereof and to recommending what permanent appropriations should be discontinued, and of the disposition of funds resulting from the sale of Government property or services by all departments and agencies in the executive branch of the Government with a view to recommending a uniform system of control with respect to those funds, was omitted from the Code as being of a temporary character.
@@ -128,22 +125,25 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 #### Effective Date
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
 
+#### Partial Repeal
+Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
+
 
 <a id="section-190g"></a>
 ## § 190g. Nonconsideration of certain private bills and resolutions
 
-No private bill or resolution (including so-called omnibus claims or pension bills), and no amendment to any bill or resolution, authorizing or directing (1) the payment of money for property damages, for personal injuries or death for which suit may be instituted under the Federal Tort Claims Act, or for a pension (other than to carry out a provision of law or treaty stipulation); (2) the construction of a bridge across a navigable stream; or (3) the correction of a military or naval record, shall be received or considered in either the Senate or the House of Representatives.
+No private bill or resolution (including so-called omnibus claims or pension bills), and no amendment to any bill or resolution, authorizing or directing (1) the payment of money for property damages, for personal injuries or death for which suit may be instituted under the Federal Tort Claims Act, or for a pension (other than to carry out a provision of law or treaty stipulation); (2) the construction of a bridge across a navigable stream; or (3) the correction of a military or naval record, shall be received or considered in either the Senate 11 See Partial Repeal note below. or the House of Representatives.
 
 ### Statutory Notes
-
-#### Partial Repeal
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
 #### References in Text
 The Federal Tort Claims Act, referred to in text, is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Effective Date
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
+
+#### Partial Repeal
+Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
 
 <a id="section-190h"></a>

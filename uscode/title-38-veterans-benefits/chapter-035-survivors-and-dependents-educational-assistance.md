@@ -989,15 +989,15 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 ## § 3532. Computation of educational assistance allowance
 **(a)**
 
-(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $788 for full-time, $592 for three-quarter-time, or $394 for half-time pursuit.
+(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $1,224 for full-time, $967 for three-quarter-time, or $710 for half-time pursuit.
 
 (2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of the lesser of—
 
   (A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay; or
 
-  (B) $788 per month for a full-time course.
+  (B) $1,224 per month for a full-time course.
 
-**(b)** The educational assistance allowance to be paid on behalf of an eligible person who is pursuing a full-time program of education which consists of institutional courses and alternate phases of training in a business or industrial establishment with the training in the business or industrial establishment being strictly supplemental to the institutional portion, shall be computed at the rate of $788 per month.
+**(b)** The educational assistance allowance to be paid on behalf of an eligible person who is pursuing a full-time program of education which consists of institutional courses and alternate phases of training in a business or industrial establishment with the training in the business or industrial establishment being strictly supplemental to the institutional portion, shall be computed at the rate of $1,224 per month.
 
 **(c)**
 
@@ -1033,23 +1033,6 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 (3) In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual’s available entitlement under this chapter.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (a) and (b)
-Pub. L. 115–48, § 203, Aug. 16, 2017, 131 Stat. 989, provided that, effective with respect to a month that begins on or after Oct. 1, 2018, this section is amended as follows:
-
-(1) in subsection (a)(1):
-
-(A) by striking “$788” and inserting “$1,224”;
-
-(B) by striking “$592” and inserting “$967”; and
-
-(C) by striking “$394” and inserting “$710”; and
-
-(2) in subsection (a)(2)(B), by striking “$788” and inserting “$1,224”; and
-
-(3) in subsection (b), by striking “$788” and inserting “$1,224”.
-
-See 2017 Amendment notes below.
 
 #### Amendments
 2017—Subsec. (a)(1). Pub. L. 115–48, § 203(a)(1)(A), substituted “$1,224” for “$788”, “$967” for “$592”, and “$710” for “$394”.

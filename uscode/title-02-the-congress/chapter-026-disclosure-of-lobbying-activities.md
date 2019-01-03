@@ -22,6 +22,9 @@ The Congress finds that—
 #### Effective Date
 Pub. L. 104–65, § 24, Dec. 19, 1995, 109 Stat. 705, provided that: “(a) Except as otherwise provided in this section, this Act [see Short Title note below] and the amendments made by this Act shall take effect on January 1, 1996. “(b) The repeals and amendments made under sections 9, 10, 11, and 12 [amending [section 4804 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4804&num=0&edition=prelim), Commerce and Trade, [section 219 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section219&num=0&edition=prelim), Crimes and Criminal Procedure, sections 611, 613, 614, 616, 618, and 4002 of Title 22, Foreign Relations and Intercourse, [section 1352 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1352&num=0&edition=prelim), Money and Finance, and [section 1490p of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1490p&num=0&edition=prelim), The Public Health and Welfare, repealing sections 261 to 270 of this title and [section 3537b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3537b&num=0&edition=prelim), and repealing provisions set out as a note under [section 261 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section261&num=0&edition=prelim)] shall take effect as provided under subsection (a), except that such repeals and amendments—“(1) shall not affect any proceeding or suit commenced before the effective date under subsection (a), and in all such proceedings or suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted; and “(2) shall not affect the requirements of Federal agencies to compile, publish, and retain information filed or received before the effective date of such repeals and amendments.”
 
+#### Short Title of 2019 Amendment
+Pub. L. 115–418, § 1, Jan. 3, 2019, 132 Stat. 5440, provided that: “This Act [amending sections 1603 and 1604 of this title] may be cited as the ‘Justice Against Corruption on K Street Act of 2018’ or the ‘JACK Act’.”
+
 #### Short Title of 2007 Amendment
 Pub. L. 110–81, § 1(a), Sept. 14, 2007, 121 Stat. 735, provided that: “This Act [see Tables for classification] may be cited as the ‘Honest Leadership and Open Government Act of 2007’.”
 
@@ -281,9 +284,11 @@ Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a
 
   (A) the general issue areas in which the registrant expects to engage in lobbying activities on behalf of the client; and
 
-  (B) to the extent practicable, specific issues that have (as of the date of the registration) already been addressed or are likely to be addressed in lobbying activities; and
+  (B) to the extent practicable, specific issues that have (as of the date of the registration) already been addressed or are likely to be addressed in lobbying activities;
 
-(6) the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 20 years before the date on which the employee first acted as a lobbyist on behalf of the client, the position in which such employee served.
+(6) the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 20 years before the date on which the employee first acted as a lobbyist on behalf of the client, the position in which such employee served; and
+
+(7) for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
 No disclosure is required under paragraph (3)(B) if the organization that would be identified as affiliated with the client is listed on the client’s publicly accessible Internet website as being a member of or contributor to the client, unless the organization in whole or in major part plans, supervises, or controls such lobbying activities. If a registrant relies upon the preceding sentence, the registrant must disclose the specific Internet address of the web page containing the information relied upon. Nothing in paragraph (3)(B) shall be construed to require the disclosure of any information about individuals who are members of, or donors to, an entity treated as a client by this chapter or an organization identified under that paragraph.
 
 **(c) Guidelines for registration**
@@ -305,6 +310,8 @@ may so notify the Secretary of the Senate and the Clerk of the House of Represen
 This chapter, referred to in subsec. (b), was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601) and Tables.
 
 #### Amendments
+2019—Subsec. (b)(7). Pub. L. 115–418 added par. (7).
+
 2007—Subsec. (a)(1). Pub. L. 110–81, § 201(b)(2)(A), inserted “or on the first business day after such 45th day if the 45th day is not a business day,” after “earlier,”.
 
 Subsec. (a)(3)(A). Pub. L. 110–81, § 201(b)(2)(B), substituted “quarterly period” for “semiannual period” in concluding provisions.
@@ -352,9 +359,11 @@ Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a
 
 (3) in the case of a lobbying firm, a good faith estimate of the total amount of all income from the client (including any payments to the registrant by any other person for lobbying activities on behalf of the client) during the quarterly period, other than income for matters that are unrelated to lobbying activities;
 
-(4) in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period; and
+(4) in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period;
 
-(5) for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments.
+(5) for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments; and
+
+(6) for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
 
 **(c) Estimates of income or expenses** For purposes of this section, estimates of income or expenses shall be made as follows:
 
@@ -403,6 +412,8 @@ Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a
 This chapter, referred to in subsec. (e), was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601) and Tables.
 
 #### Amendments
+2019—Subsec. (b)(6). Pub. L. 115–418 added par. (6).
+
 2007—Subsec. (a). Pub. L. 110–81, § 201(a)(1), substituted, in heading, “Quarterly” for “Semiannual” and, in text, “20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under [section 1603 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1603), or on the first business day after such 20th day if the 20th day is not a business day,” for “45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under [section 1603 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1603),” and “such quarterly period” for “such semiannual period”.
 
 Subsec. (b). Pub. L. 110–81, § 201(a)(2)(A), substituted “quarterly report” for “semiannual report” in introductory provisions.

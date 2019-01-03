@@ -2,7 +2,7 @@
 title: 31
 chapter: '13'
 heading: APPROPRIATIONS
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -35,6 +35,9 @@ In subsection (a), the word “Appropriations” is substituted for “sums appr
 In subsection (c), before clause (1), the words “specific or indefinite” are omitted as surplus. The words “made subsequent to August 24, 1912” are omitted as executed. The words “without reference to a fiscal year” are omitted as surplus. In clause (1), the words “is for” are substituted for “belongs to one of the following four classes” to eliminate unnecessary words. The words “last specifically named in and excepted from the operation of the provisions of [section 713 of this title](./chapter-007-government-accountability-office.md#section-713)” and the words related to section 5 of the Act of June 20, 1874 (31:713), in section 6(last sentence) of the Act of March 3, 1919 (ch. 99, 40 Stat. 1309), are omitted because section 5 was repealed by section 3 of the Act of July 6, 1949 (ch. 299, 63 Stat. 407).
 
 In subsection (d), the words “passed after June 30, 1906” are omitted as executed.
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–158, § 1, Mar. 27, 2018, 132 Stat. 1242, provided that: “This Act [enacting [section 1355 of this title](./chapter-013-appropriations.md#section-1355)] may be cited as the ‘Eliminating Government-funded Oil-painting Act’ or the ‘EGO Act’.”
 
 #### Short Title of 1984 Amendment
 Pub. L. 98–359, § 1, July 13, 1984, 98 Stat. 402, provided: “That this Act [amending [section 1322 of this title](./chapter-013-appropriations.md#section-1322)] may be cited as the ‘Postal Savings System Statute of Limitations Act’.”
@@ -784,7 +787,7 @@ In subsection (c), the words “officers and employees of the United States Gove
 
 (1) refunds to the limit of liability of an individual tax account; and
 
-(2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), or 6431 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
+(2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A,11 See References in Text note below. 36B, 168(k)(4)(F), 53(e),1 54B(h),1 or 6431 1 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
 
 ### Statutory Notes
 
@@ -803,7 +806,7 @@ Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, c
 
 The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code, and Tables.
 
-Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431, respectively, of Title 26, Internal Revenue Code. [Section 36A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36A&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of [section 53 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section53&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038.
+Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431, respectively, of Title 26, Internal Revenue Code. [Section 36A of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36A&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037. Subsec. (e) of [section 53 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section53&num=0&edition=prelim) was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038. Sections 54B and 6431 of Title 26 were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(2), is section 3081(b)(2) of Pub. L. 110–289, div. C, title III, July 30, 2008, 122 Stat. 2906, which is not classified to the Code.
 
@@ -854,7 +857,7 @@ Amendment by section 1001(e)(2) of Pub. L. 111–5 applicable to taxable years b
 
 Amendment by section 1004(b)(8) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under [section 24 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section24&num=0&edition=prelim), Internal Revenue Code.
 
-Amendment by section 1531(c)(1) of Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under [section 54 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section54&num=0&edition=prelim), Internal Revenue Code.
+Amendment by section 1531(c)(1) of Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under [section 6211 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6211&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 Amendment by section 3011(b)(3) of Pub. L. 110–289 applicable to residences purchased on or after Apr. 9, 2008, in taxable years ending on or after such date, see section 3011(c) of Pub. L. 110–289, set out as a note under [section 26 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section26&num=0&edition=prelim), Internal Revenue Code.
@@ -863,7 +866,7 @@ Amendment by section 3081(c) of Pub. L. 110–289 applicable to taxable years en
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
-Amendment by section 15316(c)(6) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under [section 54 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section54&num=0&edition=prelim), Internal Revenue Code.
+Amendment by section 15316(c)(6) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under [section 6049 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6049&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–432 applicable to taxable years beginning after Dec. 20, 2006, see section 402(c) of Pub. L. 109–432, set out as a note under [section 53 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section53&num=0&edition=prelim), Internal Revenue Code.
@@ -1022,9 +1025,11 @@ Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
 Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
-Pub. L. 115–31, div. E, title VII, § 702, May 5, 2017, 131 Stat. 377, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+Pub. L. 115–141, div. E, title VII, § 702, Mar. 23, 2018, 132 Stat. 588, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. E, title VII, § 702, May 5, 2017, 131 Stat. 377.
 
 Pub. L. 114–113, div. E, title VII, § 702, Dec. 18, 2015, 129 Stat. 2473.
 
@@ -1873,3 +1878,14 @@ Subsec. (c)(1). Pub. L. 101–280, § 4(c)(3), substituted “all executive agen
 (2) Paragraph (1) shall cease to apply with respect to a contractor otherwise covered by that paragraph on the date on which the contractor submits the report required by such section 4212(d) for the fiscal year concerned.
 
 **(b)** The Secretary of Labor shall make available in a database a list of the contractors that have complied with the provisions of such section 4212(d).
+
+
+<a id="section-1355"></a>
+## § 1355. Prohibition on use of funds for portraits
+**(a)** No funds appropriated or otherwise made available to the Federal Government may be used to pay for the painting of a portrait of an officer or employee of the Federal Government, including the President, the Vice President, a Member of Congress, the head of an executive agency, or the head of an office of the legislative branch.
+
+**(b)** In this section—
+
+(1) the term “executive agency” has the meaning given the term in [section 133 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section133&num=0&edition=prelim); and
+
+(2) the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress.

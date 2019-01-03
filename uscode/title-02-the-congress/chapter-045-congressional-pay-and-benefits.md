@@ -92,6 +92,10 @@ Pub. L. 88–426, title II, § 201, Aug. 14, 1964, 78 Stat. 413, provided that: 
 Pub. L. 113–3, § 3, Feb. 4, 2013, 127 Stat. 51, provided that: “(a) Holding Salaries in Escrow.—“(1) In general.—If by April 15, 2013, a House of Congress has not agreed to a concurrent resolution on the budget for fiscal year 2014 pursuant to section 301 of the Congressional Budget Act of 1974 [[2 U.S.C. 632](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-632)], during the period described in paragraph (2) the payroll administrator of that House of Congress shall deposit in an escrow account all payments otherwise required to be made during such period for the compensation of Members of Congress who serve in that House of Congress, and shall release such payments to such Members only upon the expiration of such period. “(2) Period described.—With respect to a House of Congress, the period described in this paragraph is the period which begins on April 16, 2013, and ends on the earlier of—“(A) the day on which the House of Congress agrees to a concurrent resolution on the budget for fiscal year 2014 pursuant to section 301 of the Congressional Budget Act of 1974 [[2 U.S.C. 632](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-632)]; or “(B) the last day of the One Hundred Thirteenth Congress. “(3) Withholding and remittance of amounts from payments held in escrow.—The payroll administrator shall provide for the same withholding and remittance with respect to a payment deposited in an escrow account under paragraph (1) that would apply to the payment if the payment were not subject to paragraph (1). “(4) Release of amounts at end of the congress.—In order to ensure that this section is carried out in a manner that shall not vary the compensation of Senators or Representatives in violation of the twenty-seventh article of amendment to the Constitution of the United States, the payroll administrator of a House of Congress shall release for payments to Members of that House of Congress any amounts remaining in any escrow account under this section on the last day of the One Hundred Thirteenth Congress. “(5) Role of secretary of the treasury.—The Secretary of the Treasury shall provide the payroll administrators of the Houses of Congress with such assistance as may be necessary to enable the payroll administrators to carry out this section. “(b) Treatment of Delegates as Members.—In this section, the term ‘Member’ includes a Delegate or Resident Commissioner to the Congress. “(c) Payroll Administrator Defined.—In this section, the ‘payroll administrator’ of a House of Congress means—“(1) in the case of the House of Representatives, the Chief Administrative Officer of the House of Representatives, or an employee of the Office of the Chief Administrative Officer who is designated by the Chief Administrative Officer to carry out this section; and “(2) in the case of the Senate, the Secretary of the Senate, or an employee of the Office of the Secretary of the Senate who is designated by the Secretary to carry out this section.”
 
 #### Cost of Living Adjustment
+Pub. L. 115–244, div. B, title II, § 212, Sept. 21, 2018, 132 Stat. 2946, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 4501](./chapter-045-congressional-pay-and-benefits.md#section-4501)) (relating to cost of living adjustments for Members of Congress) during fiscal year 2019.”
+
+Pub. L. 115–141, § 7(a), Mar. 23, 2018, 132 Stat. 351, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 4501](./chapter-045-congressional-pay-and-benefits.md#section-4501)) (relating to cost of living adjustments for Members of Congress) during fiscal year 2018.”
+
 Pub. L. 114–223, div. C, § 175, as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1012, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 4501](./chapter-045-congressional-pay-and-benefits.md#section-4501)) (relating to cost of living adjustments for Members of Congress) during fiscal year 2017.”
 
 Pub. L. 114–113, § 9, Dec. 18, 2015, 129 Stat. 2245, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 4501](./chapter-045-congressional-pay-and-benefits.md#section-4501)) (relating to cost of living adjustments for Members of Congress) during fiscal year 2016.”
@@ -353,7 +357,7 @@ Section was formerly classified identically to sections 38b and 125a of this tit
 
 <a id="section-4507"></a>
 ## § 4507. Longevity compensation
-**(a) Eligible employees** This section shall apply to—
+**(a) Eligible employees** This section shall apply 11 See Inapplicability of Section to Certain Employees note below. to—
 
 (1) each employee of the Senate whose compensation is paid from the appropriation for Salaries, Officers and Employees under the following headings:
 
@@ -365,7 +369,7 @@ Section was formerly classified identically to sections 38b and 125a of this tit
 
 (2) each employee of the Senate authorized by Senate resolution to be appointed by the Secretary of the Senate or the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and
 
-(3) each employee of the Capitol Guide Service established under section 2166 11 See References in Text note below. of this title.
+(3) each employee of the Capitol Guide Service established under section 2166 22 See References in Text note below. of this title.
 
 **(b) Rate of compensation; limitation on increases; computation of service; effective date of payment**
 
@@ -384,9 +388,6 @@ Section was formerly classified identically to sections 38b and 125a of this tit
 (4) Longevity compensation shall be payable on and after the first day of the first month following completion of each period of creditable service upon which such compensation is based.
 
 ### Statutory Notes
-
-#### Inapplicability of Section to Certain Employees On and After October 1, 1983
-This section not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 4509 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4509).
 
 #### References in Text
 [Section 2166 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2166), referred to in subsec. (a)(3), was repealed by Pub. L. 110–437, title IV, § 422(a), Oct. 20, 2008, 122 Stat. 4996.
@@ -463,16 +464,16 @@ For transfer of authorities, personnel, assets, and liabilities of the Capitol G
 
 Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
+#### Inapplicability of Section to Certain Employees
+This section not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 4509 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4509).
+
 
 <a id="section-4508"></a>
 ## § 4508. Longevity compensation for telephone operators on United States telephone exchange and members of Capitol Police paid by Chief Administrative Officer of House
 
-The provisions of subsections (a) and (b) of [section 4507 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4507) (as amended by section 110 of Pub. L. 95–391), shall apply to telephone operators (including the chief operator and assistant chief operators) on the United States Capitol telephone exchange and members of the Capitol Police whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives in the same manner and to the same extent as such provisions apply to individuals whose compensation is disbursed by the Secretary of the Senate. For purposes of so applying such subsections, creditable service shall include service performed as an employee of the United States Capitol telephone exchange or a member of the Capitol Police whether compensation therefor is disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate.
+The provisions of subsections (a) and (b) of section 4507 11 See Inapplicability of Section 4507 to Certain Employees note below. of this title (as amended by section 110 of Pub. L. 95–391), shall apply to telephone operators (including the chief operator and assistant chief operators) on the United States Capitol telephone exchange and members of the Capitol Police whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives in the same manner and to the same extent as such provisions apply to individuals whose compensation is disbursed by the Secretary of the Senate. For purposes of so applying such subsections, creditable service shall include service performed as an employee of the United States Capitol telephone exchange or a member of the Capitol Police whether compensation therefor is disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate.
 
 ### Statutory Notes
-
-#### Inapplicability of Section to Certain Employees On and After October 1, 1983
-[Section 4507 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4507), referred to in text, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 4509 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4509).
 
 #### Codification
 Section was formerly classified to [section 60j–2 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60j-2) prior to editorial reclassification and renumbering as this section.
@@ -482,6 +483,9 @@ Section was formerly classified to [section 60j–2 of this title](./chapter-004
 
 #### Transfer of Functions
 Statutory functions, duties, or authority of Chief Administrative Officer of the House of Representatives or the Secretary of the Senate as disbursing officers for the Capitol Police transferred to Chief of the Capitol Police, and references in any law or resolution before Feb. 20, 2003, to funds paid or disbursed by Chief Administrative Officer of the House of Representatives and Secretary of the Senate relating to pay and allowances of Capitol Police employees deemed to refer to Chief of the Capitol Police. See [section 1907(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1907/a&num=0&edition=prelim).
+
+#### Inapplicability of Section 4507 to Certain Employees
+[Section 4507 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4507), referred to in text, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 4509 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4509).
 
 
 <a id="section-4509"></a>
@@ -724,7 +728,7 @@ Section is from the Congressional Operations Appropriations Act, 1988, which is 
 
 1990—Pub. L. 101–520 designated existing provisions as par. (1), inserted “or whenever any of the events described in par. (2) occurs,” after “Secretary of the Senate,”, substituted “may adjust the rates of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Clerk of the House of Representatives to the extent necessary to ensure—” and subpars. (A) and (B) for “may, with respect to personnel whose pay is disbursed by the Clerk of the House of Representatives, exercise the same authority to the extent necessary to ensure parity of treatment between personnel of the respective Houses of Congress having comparable duties and responsibilities.”, and added pars. (2) and (3).
 
-#### January 9, 2009
+#### Speaker Pelosi, January 9, 2009, as amended by Speaker Boehner, January 3, 2011, and by Speaker Ryan, September 28, 2017
 Pursuant to the authority vested in the Speaker by section 311(d) of the Legislative Branch Appropriations Act, 1988 ([2 U.S.C. 60a–2a](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-2a)) [now [2 U.S.C. 4532](./chapter-045-congressional-pay-and-benefits.md#section-4532)], in order to ensure parity of treatment between employees of the House of Representatives and certain other employees of the Government, it is hereby—
 
 Ordered,
@@ -732,7 +736,7 @@ Ordered,
 #### pay for specified positions
 Section 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the Chief Administrative Officer, the Chaplain, the Parliamentarian, the Legislative Counsel, the Law Revision Counsel, the General Counsel to the House, the Inspector General, the Director of Interparliamentary Affairs and the Director of the Office of Emergency Planning, Preparedness, and Operations is $172,500.
 
-(b) Subject to the approval of the Speaker, the Clerk, the Sergeant-at-Arms, the General Counsel to the House, the Director of the Office of Emergency Planning, Preparedness, and Operations, the Attending Physician to the Congress, and the Law Revision Counsel may establish the pay for the Deputy Clerk, the Deputy Sergeant-at-Arms, the Deputy General Counsel, the Deputy Director of the Office of Emergency Planning, Preparedness, and Operations, the Chief of Staff to the Office of the Attending Physician, and, notwithstanding section 2(b)(2), the Deputy Law Revision Counsel, respectively, at a maximum annual rate of $170,696.
+(b) Subject to the approval of the Speaker, the Clerk, the Sergeant-at-Arms, the Chief Administrative Officer, the General Counsel to the House, the Attending Physician to the Congress, and the Law Revision Counsel may establish pay for the Deputy Clerks, the House Employment Counsel, the Deputy Sergeants-at-Arms, the Deputy Chief Administrative Officers, the Chief Information Officer, the Chief Information Security Officer, the Deputy General Counsel, the Chief of Staff to the Office of the Attending Physician and, notwithstanding section 2(b)(2), the Deputy Law Revision Counsel, respectively, at a maximum annual rate of $170,696.
 
 #### pay for certain other positions
 Sec. 2. (a) Subject to the maximums under subsection (b), the following Members, officers, and employees are authorized to establish annual rates of pay for their respective employees:
@@ -776,17 +780,9 @@ Sec. 4. Each Member of the House may establish the pay for employees in the offi
 #### miscellaneous pay provisions
 Sec. 5. (a) Subject to the approval of the Speaker, the Clerk may establish the pay for 3 employees at a maximum annual rate of $168,411.
 
-(b) Subject to the approval of the Speaker, the Sergeant-at-Arms may establish the pay—
+(b) Subject to the approval of the Speaker, the Sergeant-at-Arms may establish the pay for 2 employees at a maximum annual rate of $168,411.
 
-(1) for 2 employees at a maximum annual rate of $168,411; and
-
-(2) for 2 employees at a maximum annual rate equal to 75 percent of the maximum under paragraph (1).
-
-(c) Subject to the approval of the Speaker, the Chief Administrative Officer may establish the pay—
-
-(1) for 2 employees at a maximum annual rate of $168,411; and
-
-(2) for 3 employees at a maximum annual rate of $170,696.
+(c) Subject to the approval of the Speaker, the Chief Administrative Officer may establish the pay for 2 employees at a maximum annual rate of $168,411.
 
 #### general limitation
 Sec. 6. The maximum annual rate of pay is $168,411 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
@@ -796,10 +792,6 @@ Sec. 7. An employee who, under applicable rules and regulations, is paid from 2 
 
 #### effective date
 Sec. 8. The provisions of this Order shall take effect on January 1, 2009.
-
-Nancy Pelosi
-
-Speaker of the House
 
 Prior Orders of the Speaker of the House of Representatives were issued on the following dates:
 
@@ -1295,10 +1287,10 @@ Pub. L. 100–202, § 101(i) [title III, § 311(c)], Dec. 22, 1987, 101 Stat. 13
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under [section 5341 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5341&num=0&edition=prelim), Government Organization and Employees.
 
-#### May 5, 2017
+#### March 23, 2018
 By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 ([2 U.S.C. 4571](./chapter-045-congressional-pay-and-benefits.md#section-4571)) in order—
 
-(1) to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 ([5 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim) note; Public Law 101–194) and the amendments made by such section [amending [section 4501 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4501), [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim), Government Organization and Employees, and [section 461 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section461&num=0&edition=prelim), Judiciary and Judicial Procedure]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2017, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code, and
+(1) to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 ([5 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim) note; Public Law 101–194) and the amendments made by such section [amending [section 4501 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4501), [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim), Government Organization and Employees, and [section 461 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section461&num=0&edition=prelim), Judiciary and Judicial Procedure]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2018, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code, and
 
 (2) to provide (subject to such provisions of law) for the restoration of, and to maintain in effect, the same pay relationships that existed on December 31, 1986, between personnel and Senators and between Senate positions,
 
@@ -1344,34 +1336,34 @@ Sec. 4. (a) The following individuals are authorized to increase the annual rate
 
 (11) The Secretary for the Majority and the Secretary for the Minority, for any employee under their respective jurisdictions.
 
-(12) The appointing authority of any Senate entity not referred to under paragraphs (1) through (11) for any employee under its jurisdiction.
+(12) The appointing authority of any Senate entity not referred to under paragraphs (1) through (11), for any employee under its jurisdiction.
 
 (b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as such rate is adjusted in section 7(b) of this Order).
 
 #### committee staffs
 Sec. 5. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575)) (as modified by this Order), and to the other provisions of this Order, the chairman of any standing, special, or select committee of the Senate (including the majority and minority policy committees and the Conference of the Majority and the Conference of the Minority of the Senate), and the chairman of any joint committee of the Congress whose funds are disbursed by the Secretary of the Senate, are each authorized to increase the annual rate of compensation of any employee of the committee, or any subcommittee thereof, of which such chairman is chairman, subject to applicable limitations adjusted by this Order.
 
-(b) The maximum annual rate of “$171,315” referred to in section 105(e) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/e&num=0&edition=prelim)) (as provided for in section 5(b) of the Order of the President pro tempore of December 28, 2015) shall remain unchanged.
+(b) The maximum annual rate of “$171,315” referred to in section 105(e) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/e&num=0&edition=prelim)) (as provided for in section 5(b) of the Order of the President pro tempore of May 5, 2017) shall remain unchanged.
 
 #### senators’ offices
 Sec. 6. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575)), as modified by this Order, and to the other provisions of this Order, each Senator is authorized to increase the annual rate of compensation of any employee in the office of the Senator, subject to applicable limitations adjusted by this Order.
 
-(b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2016, increased by an additional 2.88 percent.
+(b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2017, increased by an additional 2.29 percent.
 
-(c) The figures “$2,839” and “$169,459” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim)) (as provided in section 6(c) of the Order of the President pro tempore of December 28, 2015) shall be deemed to be the figures “$2,921” and “$169,459”, respectively.
+(c) The figures “$2,921” and “$169,459” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim)) (as provided in section 6(c) of the Order of the President pro tempore of May 5, 2017) shall be deemed to be the figures “$2,988” and “$169,459”, respectively.
 
 (d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 [Pub. L. 95–94] ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575) note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 (Public Law 102–392; 106 Stat. 1706) shall be $508,377.
 
 #### general limitation
-Sec. 7. (a) The figure “$2,839” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided in section 7(a) of the Order of the President pro tempore of December 28, 2015) shall be deemed to be the figure “$2,921”.
+Sec. 7. (a) The figure “$2,921” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided in section 7(a) of the Order of the President pro tempore of May 5, 2017) shall be deemed to be the figure “$2,988”.
 
-(b) The maximum annual rate of compensation of “$169,459” appearing in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided for in section 7(b) of the Order of the President pro tempore of December 28, 2015) shall remain unchanged.
+(b) The maximum annual rate of compensation of “$169,459” appearing in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided for in section 7(b) of the Order of the President pro tempore of May 5, 2017) shall remain unchanged.
 
 #### notifying disbursing office of increases
-Sec. 8. In order for an employee to receive the increase in the annual rate of compensation of the employee pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that the individual authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim))) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim)), except that if the notice required by the preceding sentence is given within five days (not counting Saturdays, Sundays, or holidays) after the date on which this Order is issued, such increase may become effective on January 1, 2017.
+Sec. 8. In order for an employee to receive the increase in the annual rate of compensation of the employee pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that the individual authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim))) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim)), except that if the notice required by the preceding sentence is given within five days (not counting Saturdays, Sundays, or holidays) after the date on which this Order is issued, such increase may become effective on January 1, 2018.
 
 #### dual compensation
-Sec. 9. The figure “$34,160” referred to in [section 5533(c)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c/1&num=0&edition=prelim), United States Code (as provided in section 9 of the Order of the President pro tempore of December 28, 2015) shall be deemed to be the figure “$35,144”.
+Sec. 9. The figure “$35,144” referred to in [section 5533(c)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c/1&num=0&edition=prelim), United States Code (as provided in section 9 of the Order of the President pro tempore of May 5, 2017) shall be deemed to be the figure “$35,949”.
 
 #### office of the senate legal counsel
 Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall be $172,500.
@@ -1381,13 +1373,15 @@ Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall b
 (c) The maximum annual rate of compensation of each Assistant Senate Legal Counsel may not at any time exceed the rate equal to the difference between the annual rate of compensation for a position referred to in section 2(a) and $4,900.
 
 #### effective date
-Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2017.
+Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2018.
 
 Orrin G. Hatch
 
 President pro tempore
 
 Prior Orders of the President pro tempore of the Senate were issued on the following dates:
+
+May 5, 2017, eff. Jan. 1, 2017.
 
 Dec. 28, 2015, eff. Jan. 1, 2016.
 
@@ -1566,7 +1560,7 @@ Section was formerly classified to [section 61 of this title](./chapter-004-offi
 
 (1)
 
-  (A) Except as is otherwise provided in subparagraphs (B) and (C), the aggregate of gross compensation paid employees in the office of a Senator shall not exceed during each fiscal year the following: $1,518,333 if the population of the State is less than 5,000,000; $1,573,297 if such population is 5,000,000 but less than 6,000,000; $1,628,265 if such population is 6,000,000 but less than 7,000,000; $1,683,230 if such population is 7,000,000 but less than 8,000,000; $1,738,197 if such population is 8,000,000 but less than 9,000,000; $1,793,161 if such population is 9,000,000 but less than 10,000,000; $1,848,130 if such population is 10,000,000 but less than 11,000,000; $1,903,096 if such population is 11,000,000 but less than 12,000,000; $1,958,061 if such population is 12,000,000 but less than 13,000,000; $2,013,027 if such population is 13,000,000 but less than 14,000,000; $2,067,994 if such population is 14,000,000 but less than 15,000,000; $2,122,960 if such population is 15,000,000 but less than 16,000,000; $2,177,928 if such population is 16,000,000 but less than 17,000,000; $2,232,894 if such population is 17,000,000 but less than 18,000,000; $2,268,057 if such population is 18,000,000 but less than 19,000,000; $2,303,224 if such population is 19,000,000 but less than 20,000,000; $2,338,391 if such population is 20,000,000 but less than 21,000,000; $2,373,558 if such population is 21,000,000 but less than 22,000,000; $2,408,725 if such population is 22,000,000 but less than 23,000,000; $2,443,891 if such population is 23,000,000 but less than 24,000,000; $2,479,054 if such population is 24,000,000 but less than 25,000,000; $2,514,218 if such population is 25,000,000 but less than 26,000,000; $2,549,387 if such population is 26,000,000 but less than 27,000,000; $2,584,552 if such population is 27,000,000 but less than 28,000,000; and $2,619,720 if such population is 28,000,000 or more. For any fiscal year, the population of a State shall be deemed to be whichever of the following is the higher:
+  (A) Except as is otherwise provided in subparagraphs (B) and (C), the aggregate of gross compensation paid employees in the office of a Senator shall not exceed during each fiscal year the following: 11 See Codification note below. $1,518,333 if the population of the State is less than 5,000,000; $1,573,297 if such population is 5,000,000 but less than 6,000,000; $1,628,265 if such population is 6,000,000 but less than 7,000,000; $1,683,230 if such population is 7,000,000 but less than 8,000,000; $1,738,197 if such population is 8,000,000 but less than 9,000,000; $1,793,161 if such population is 9,000,000 but less than 10,000,000; $1,848,130 if such population is 10,000,000 but less than 11,000,000; $1,903,096 if such population is 11,000,000 but less than 12,000,000; $1,958,061 if such population is 12,000,000 but less than 13,000,000; $2,013,027 if such population is 13,000,000 but less than 14,000,000; $2,067,994 if such population is 14,000,000 but less than 15,000,000; $2,122,960 if such population is 15,000,000 but less than 16,000,000; $2,177,928 if such population is 16,000,000 but less than 17,000,000; $2,232,894 if such population is 17,000,000 but less than 18,000,000; $2,268,057 if such population is 18,000,000 but less than 19,000,000; $2,303,224 if such population is 19,000,000 but less than 20,000,000; $2,338,391 if such population is 20,000,000 but less than 21,000,000; $2,373,558 if such population is 21,000,000 but less than 22,000,000; $2,408,725 if such population is 22,000,000 but less than 23,000,000; $2,443,891 if such population is 23,000,000 but less than 24,000,000; $2,479,054 if such population is 24,000,000 but less than 25,000,000; $2,514,218 if such population is 25,000,000 but less than 26,000,000; $2,549,387 if such population is 26,000,000 but less than 27,000,000; $2,584,552 if such population is 27,000,000 but less than 28,000,000; and $2,619,720 if such population is 28,000,000 or more. For any fiscal year, the population of a State shall be deemed to be whichever of the following is the higher:
 
     (I) the population of such State (as determined for purposes of this paragraph) for the preceding fiscal year; or
 
@@ -1597,7 +1591,7 @@ Section was formerly classified to [section 61 of this title](./chapter-004-offi
 
     (iv) the amount described in [section 6314(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section6314/b/3&num=0&edition=prelim) (as determined without regard to subparagraph (A)(ii) and (iv) thereof).
 
-(2) Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $2,677 or in excess of $169,459 per annum. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
+(2) Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $2,988 1 or in excess of $169,459 1 per annum. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
 
 **(e) Gross rate of compensation of employee of committee of Senate employed by joint committee, select committee, or standing committee**
 
@@ -1617,21 +1611,28 @@ Section was formerly classified to [section 61 of this title](./chapter-004-offi
 
     (ii) an employee of a subcommittee shall be considered to be an employee of the full committee.
 
-  (B) Subject to adjustment as provided by law, no employee of a committee of the Senate shall be paid at a per annum gross rate in excess of $171,315.
+  (B) Subject to adjustment as provided by law, no employee of a committee of the Senate shall be paid at a per annum gross rate in excess of $171,315.1
 
-**(f) General limitation** No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $2,677 or in excess of $169,459 unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
+**(f) General limitation** No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $2,988 1 or in excess of $169,459 1 unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
 
 ### Statutory Notes
-
-#### Increase in Aggregate Compensation of Employees in Offices of Senators
-For increase in amounts in table in subsection (d)(1)(A) of this section, that is not reflected in text, see 2002 to 2017 Amendment notes below.
 
 #### Codification
 Section was formerly classified to [section 61–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61-1) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
+The table set out in subsec. (d)(1)(A) is taken from the Salary Directive of the President pro tempore of the Senate issued on Dec. 20, 2001. Subsequent Salary Directives and public laws have cumulatively adjusted the amounts listed in the table by various dollar amounts and percentages, but those adjustments are not reflected in the text. For descriptions of the modifications made to the table that have occurred since 2001, see 2002 and subsequent Amendment notes below.
+
+The dollar amounts set out in the text of subsecs. (d)(2), (e)(3)(B), and (f) are based on modifications, when present, made by periodic Salary Directives of the President pro tempore of the Senate, the latest of which is set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571). Descriptions of the changes made to the text, both by such Salary Directives and by public laws, can be found in the Amendment notes below.
+
 Section is comprised of subsecs. (a) to (f) and (j) of section 105 of Pub. L. 90–57, the Legislative Branch Appropriation Act, 1968. Subsec. (j), which was redesignated subsec. (g) of this section for purposes of codification, was repealed by Pub. L. 104–186. Other subsections of such section 105 provided as follows: subsecs. (g) and (h) amended [section 4507(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4507/b&num=0&edition=prelim) and [section 5533(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c&num=0&edition=prelim), respectively; subsec. (i) repealed sections 60f, 72a–1, 72a–1a, and 72a–4 of this title and amended provisions set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571); subsec. (k) is set out as an Effective Date note below.
 
 #### Amendments
+2018—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2018, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2017, to be increased by an additional 2.29 percent.
+
+Subsec. (d)(2). Figures “$2,921” and “$169,459” to be deemed to refer, effective Jan. 1, 2018, to the figures “$2,988” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+
+Subsec. (f). Figure “$2,921” to be deemed to refer, effective Jan. 1, 2018, to the figure “$2,988”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+
 2017—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2017, by section 6(b) of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2016, to be increased by an additional 2.88 percent.
 
 Subsec. (d)(2). Figures “$2,839” and “$169,459” to be deemed to refer, effective Jan. 1, 2017, to the figures “$2,921” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
@@ -2183,9 +2184,9 @@ Pub. L. 94–157, title I, § 111(c), Dec. 18, 1975, 89 Stat. 832, provided in p
 #### Aggregate of Gross Compensation for Employees in Office of Senator for Each Fiscal Year; Increase in Amount; Reduction in Amounts for Committee Chairmen, Ranking Minority Members, etc.
 Pub. L. 95–94, title I, § 111(a), (b), Aug. 5, 1977, 91 Stat. 662, as amended by Pub. L. 95–240, title II, § 206, Mar. 7, 1978, 92 Stat. 117, eff. Oct. 1, 1977; Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819; Pub. L. 102–392, title I, § 1, Oct. 6, 1992, 106 Stat. 1706, eff. Oct. 1, 1992, provided that: “(a) Except as provided in subsection (b), the aggregate of the gross compensation which may be paid to employees in the office of a Senator during each fiscal year under section 105(d) of the Legislative Branch Appropriation Act, 1968, as amended and modified ([2 U.S.C. 61–1(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61–1/d&num=0&edition=prelim)) [now [2 U.S.C. 4575(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d&num=0&edition=prelim)], is increased by an amount equal to 3 times the maximum annual gross rate of compensation that may be paid to an employee of the office of a Senator. “(b) [Repealed. Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819].”
 
-[The amount of the increase referred to in section 111(a) of Pub. L. 95–94, set out above, was set at $508,377 by § 6(d) of the Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).]
+[The amount of the increase referred to in section 111(a) of Pub. L. 95–94, set out above, was set at $508,377 by § 6(d) of the Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).]
 
-[Prior amounts of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1): Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d); Jan. 5, 2010, § 6(d); Jan. 27, 2014, § 6(d); Dec. 23, 2014, § 6(d); Dec. 28, 2015, § 6(d).]
+[Prior amounts of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under former section 60a–1 and [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571): Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d); Jan. 5, 2010, § 6(d); Jan. 27, 2014, § 6(d); Dec. 23, 2014, § 6(d); Dec. 28, 2015, § 6(d); May 5, 2017, § 6(d).]
 
 [Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819, provided that the repeal of section 111(b) of Pub. L. 95–94 is effective as of the first day of the 100th Congress [Jan. 6, 1987]].
 
@@ -2434,27 +2435,35 @@ Section was formerly classified to [section 66a of this title](./chapter-004-off
 ## § 4579. Student loan repayment program for Senate employees
 **(a) Definitions** In this section:
 
-(1) **Eligible employee** — The term “eligible employee” means an individual, except as provided under subsection (b)(3)—
+(1) **Departure date** — The term “departure date” means the earlier of—
+
+  (A) the date on which the term of a departing Senator or Vice President ends; or
+
+  (B) the date on which the departing Senator or Vice President will retire or resign.
+
+(2) **Departing Senator or Vice President** — The term “departing Senator or Vice President” means a Senator or Vice President who will not serve in the next term due to retirement, resignation, a decision to not seek reelection, or a failure to secure reelection.
+
+(3) **Eligible employee** — The term “eligible employee” means an individual, except as provided under subsection (b)(3)—
 
   (A) who is an employee of the Senate; and
 
-  (B) whose rate of pay as an employee of the Senate, on the date on which such eligibility is determined, does not exceed the rate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area).
+  (B) whose rate of pay as an employee of the Senate, on the date on which such eligibility is determined, does not exceed the rate of basic pay payable for a position at level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
 
-(2) **Employee of the Senate** — The term “employee of the Senate”—
+(4) **Employee of the Senate** — The term “employee of the Senate”—
 
   (A) has the meaning given the term under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301); and
 
   (B) includes any employee of the Office of Congressional Accessibility Services whose pay is disbursed by the Secretary of the Senate.
 
-(3) **Employing office** — The term “employing office”—
+(5) **Employing office** — The term “employing office”—
 
   (A) means the employing office, as defined under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301), of an employee of the Senate; and
 
   (B) includes the Office of Congressional Accessibility Services with respect to employees of that office whose pay is disbursed by the Secretary of the Senate.
 
-(4) **Secretary** — The term “Secretary” means the Secretary of the Senate.
+(6) **Secretary** — The term “Secretary” means the Secretary of the Senate.
 
-(5) **Student loan** — The term “student loan” means—
+(7) **Student loan** — The term “student loan” means—
 
   (A) a loan made, insured, or guaranteed under part B, D, or E of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1071&num=0&edition=prelim) et seq., 1087a et seq., or 1087aa et seq.); and
 
@@ -2468,7 +2477,7 @@ Section was formerly classified to [section 66a of this title](./chapter-004-off
 
     (i) the employing office shall agree to repay, by direct payments on behalf of the eligible employee, any student loan indebtedness of the eligible employee that is outstanding at the time the eligible employee and the employing office enter into the agreement, subject to this section; and
 
-    (ii) the eligible employee shall agree to complete the 1-year required period of employment described in subsection (c)(1) with the employing office in exchange for the student loan payments.
+    (ii) the eligible employee shall agree to complete the required period of employment described in subsection (c)(1) with the employing office in exchange for the student loan payments.
 
   (B) *Contents of service agreements*
 
@@ -2494,7 +2503,15 @@ Section was formerly classified to [section 66a of this title](./chapter-004-off
 
 **(c) Program conditions**
 
-(1) **Period of employment** — The term of the required period of employment under a service agreement under this section shall be 1 year. On completion of the required period of employment under such a service agreement, the eligible employee and the employing office may enter into additional service agreements for successive 1-year periods of employment.
+(1) **Period of employment**
+
+  (A) *In general* — Except as provided in subparagraph (B), the term of the required period of employment under a service agreement under this section shall be 1 year. On completion of the required period of employment under such a service agreement, the eligible employee and the employing office may enter into additional service agreements for successive 1-year periods of employment.
+
+  (B) *Departing Senators and Vice Presidents* — After the date that is 1 year before the departure date of a departing Senator or Vice President, the departing Senator or Vice President may enter into a service agreement under this section with an eligible employee of the office of the Senator or Vice President (including an eligible employee who has completed a required period of employment under a previous service agreement) that includes a required period of employment that—
+
+    (i) is less than 1 year; and
+
+    (ii) shall end on the last day of the last full pay period ending on or before the departure date of the departing Senator or Vice President.
 
 (2) **Amount of payments**
 
@@ -2520,11 +2537,15 @@ Section was formerly classified to [section 66a of this title](./chapter-004-off
 
 (2) **Termination of agreement** — The duty of an eligible employee to fulfill the required period of employment under the service agreement shall be terminated if—
 
-  (A) funds are not made available to cover the cost of the student loan repayment program carried out under this section; or
+  (A) funds are not made available to cover the cost of the student loan repayment program carried out under this section;
 
-  (B) the employee and the head of the employing office involved mutually agree to terminate the service agreement under subsection (f)(7).
+  (B) the employee and the head of the employing office involved mutually agree to terminate the service agreement;
 
-(3) **Another employing office** — An employing office who hires an eligible employee during a required period of employment under such a service agreement may assume the remaining obligations (as of the date of the hiring) of the employee’s prior employing office under the agreement.
+  (C) the agreement is terminated as provided under subsection (f)(7)(A); or
+
+  (D) the employee separates from service with the office of a departing Senator or Vice President.
+
+(3) **Another employing office** — An employing office who hires an eligible employee during a required period of employment (including a required period of employment described in subsection (c)(1)(B)) under such a service agreement may assume the remaining obligations (as of the date of the hiring) of the employee’s prior employing office under the agreement.
 
 (4) **Failure of employee to reimburse** — If an eligible employee fails to reimburse the Senate for the amount owed under paragraph (1), such amount shall be collected—
 
@@ -2574,7 +2595,25 @@ Section was formerly classified to [section 66a of this title](./chapter-004-off
 
 (6) **No relief from liability** — An agreement to make student loan payments under this section shall not exempt an eligible employee from the responsibility or liability of the employee with respect to the loan involved and the eligible employee shall continue to be responsible for making student loan payments on the portion of any loan that is not covered under the terms of the service agreement.
 
-(7) **Reduction in payments** — Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office. If the head of the employing office decides to reduce the amount of student loan payments for an eligible employee, the head of the office and the employee may mutually agree to terminate the service agreement.
+(7) **Change in payments**
+
+  (A) *Reduction*
+
+    (i) *In general* — Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office.
+
+    (ii) *Notice* — If the head of an employing office decides to reduce the amount of student loan payments to an eligible employee under clause (i)—
+
+      (I) the employing office shall concurrently notify the eligible employee and the Secretary of the Senate of the reduction; and
+
+      (II) not later than 30 days after the date of the concurrent notice, the eligible employee may terminate the service agreement.
+
+  (B) *Increase* — Notwithstanding the terms of a service agreement under this section, the head of an employing office, with the consent of an eligible employee, may increase the amount of student loan payments made under the agreement with the eligible employee, if—
+
+    (i) the office has adequate funds available for the purpose of agreements under this section;
+
+    (ii) the amount of the increased payment does not exceed the limitations under this section; and
+
+    (iii) the total amount of the loan payments to be made (including such increase) during the remainder of the required period of employment does not exceed the amount of student loan indebtedness of the eligible employee as of the date of the increase.
 
 (8) **No right to continued employment** — A service agreement under this section shall not be construed to create a right to, promise of, or entitlement to the continued employment of the eligible employee.
 
@@ -2631,6 +2670,24 @@ Section was formerly classified to [section 60c–5 of this title](./chapter-004
 Section is from the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002.
 
 #### Amendments
+2018—Subsec. (a)(1), (2). Pub. L. 115–141, § 103(a)(1)(B), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively.
+
+Subsec. (a)(3). Pub. L. 115–141, § 103(a)(1)(A), redesignated par. (1) as (3). Former par. (3) redesignated (5).
+
+Subsec. (a)(3)(B). Pub. L. 115–141, § 103(a)(1)(C), substituted “rate of basic pay payable for a position at level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).” for “rate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area).”
+
+Subsec. (a)(4) to (7). Pub. L. 115–141, § 103(a)(1)(A), redesignated pars. (2) to (5) as (4) to (7), respectively.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 115–141, § 103(a)(2), struck out “1-year” before “required period”.
+
+Subsec. (c)(1). Pub. L. 115–141, § 103(a)(3), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the term” for “The term”, and added subpar. (B).
+
+Subsec. (d)(2). Pub. L. 115–141, § 103(a)(4)(A), struck out “or” at end of subpar. (A), substituted a semicolon for “under subsection (f)(7).” at end of subpar. (B), and added subpars. (C) and (D).
+
+Subsec. (d)(3). Pub. L. 115–141, § 103(a)(4)(B), inserted “(including a required period of employment described in subsection (c)(1)(B))” after “required period of employment”.
+
+Subsec. (f)(7). Pub. L. 115–141, § 103(a)(5), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office. If the head of the employing office decides to reduce the amount of student loan payments for an eligible employee, the head of the office and the employee may mutually agree to terminate the service agreement.”
+
 2011—Subsec. (a)(1). Pub. L. 112–74, § 1001(a)(1), inserted “, except as provided under subsection (b)(3)” after “means an individual” in introductory provisions.
 
 Subsec. (a)(2), (3). Pub. L. 112–74, § 1001(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
@@ -2644,6 +2701,9 @@ Subsec. (b)(3). Pub. L. 112–74, § 1001(b), added par. (3).
 2002—Subsec. (a). Pub. L. 107–117, § 916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
 
 Subsec. (g)(1). Pub. L. 107–117, § 916(2), substituted “subsection (h)(1)(A)” for “subsection (i)(1)(A)” in subpar. (A) and “subsection (h)(1)(B)” for “subsection (i)(1)(B)” in subpar. (B).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–141, div. I, title I, § 103(b), Mar. 23, 2018, 132 Stat. 774, provided that: “The amendments made by this section [amending this section] shall— “(1) take effect on the date of enactment of this Act [Mar. 23, 2018]; and “(2) apply to a service agreement under section 102 of the Legislative Branch Appropriations Act, 2002 ([2 U.S.C. 4579](./chapter-045-congressional-pay-and-benefits.md#section-4579)) that is in effect on the date of enactment of this Act or entered into on or after the date of enactment of this Act.”
 
 #### Effective Date of 2011 Amendment
 Pub. L. 112–74, div. G, title I, § 1001(c), Dec. 23, 2011, 125 Stat. 1124, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 23, 2011] and apply to service agreements entered into under section 102 of the Legislative Branch Appropriations Act, 2002 ([2 U.S.C. 60c–5](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60c-5)) [now [2 U.S.C. 4579](./chapter-045-congressional-pay-and-benefits.md#section-4579)] or [section 5379 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5379&num=0&edition=prelim), United States Code, on or after that date.”

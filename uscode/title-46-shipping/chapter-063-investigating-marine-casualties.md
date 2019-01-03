@@ -2,7 +2,7 @@
 title: 46
 chapter: '63'
 heading: INVESTIGATING MARINE CASUALTIES
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -186,3 +186,9 @@ Subsec. (d). Pub. L. 109–241, § 902(e)(2)(A), (D), formerly § 902(e)(2)(A), 
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(5)(B)–(7), is effective with enactment of Pub. L. 109–241.
+
+
+<a id="section-6309"></a>
+## § 6309. Voyage data recorder access
+
+Notwithstanding any other provision of law, the Coast Guard shall have full, concurrent, and timely access to and ability to use voyage data recorder data and audio held by any Federal agency in all marine casualty investigations, regardless of which agency is the investigative lead.

@@ -739,7 +739,7 @@ Repeal effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a
 ### Statutory Notes
 
 #### Effective Date
-Part effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 4951 of this title](./chapter-066-domestic-volunteer-services.md#section-4951).
+Section effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 4951 of this title](./chapter-066-domestic-volunteer-services.md#section-4951).
 
 
 <a id="section-5001"></a>
@@ -1459,6 +1459,11 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 The Director may not reduce the activities, projects, or volunteers funded under the other parts of this subchapter in order to support projects under this part.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 4951 of this title](./chapter-066-domestic-volunteer-services.md#section-4951).
+
 
 <a id="section-5041-5042"></a>
 ## § 5041, 5042. Repealed. Pub. L. 95–510, § 102(a), Oct. 24, 1978, 92 Stat. 1781
@@ -2045,7 +2050,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 #### Amendments
 2009—Par. (2). Pub. L. 111–13, § 2154(1), inserted “, the Commonwealth of the Northern Mariana Islands,” after “American Samoa”.
 
-Pars. (7) to (12). Pub. L. 111–13, § 2154(2), (5), redesignated pars. (8) to (13) as (7) to (12), respectively, and struck out former par. (7), which read as follows: “the term ‘boarder baby’ means an infant who is abandoned, as defined in [section 5117aa–21 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5117aa-21);”.
+Pars. (7) to (12). Pub. L. 111–13, § 2154(2), (5), redesignated pars. (8) to (13) as (7) to (12), respectively, and struck out former par. (7), which read as follows: “the term ‘boarder baby’ means an infant who is abandoned, as defined in [section 5117aa–21 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5117aa–21&num=0&edition=prelim);”.
 
 Pars. (13), (14). Pub. L. 111–13, § 2154(5), redesignated pars. (14) and (15) as (13) and (14), respectively. Former par. (13) redesignated (12).
 

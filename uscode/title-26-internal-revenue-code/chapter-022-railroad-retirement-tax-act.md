@@ -312,38 +312,13 @@ The compensation of an employee representative for the purpose of ascertaining t
 
 **(b) Tier 2 tax** In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the percentage determined under section 3241 for any calendar year of the compensation paid during such calendar year by such employer for services rendered to such employer.
 
-**(c) Special rate for certain individuals hired in 2010**
-
-(1) **In general** — In the case of compensation paid by a qualified employer during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010, with respect to having a qualified individual in the employer’s employ for services rendered to such qualified employer, the applicable percentage under subsection (a) shall be equal to the rate of tax in effect under section 3111(b) for the calendar year.
-
-(2) **Qualified employer** — The term “qualified employer” means any employer other than the United States, any State, or any political subdivision thereof, or any instrumentality of the foregoing.
-
-(3) **Qualified individual** — For purposes of this subsection, the term “qualified individual” means any individual who—
-
-  (A) begins employment with a qualified employer after February 3, 2010, and before January 1, 2011,
-
-  (B) certifies by signed affidavit, under penalties of perjury, that such individual has not been employed for more than 40 hours during the 60-day period ending on the date such individual begins such employment,
-
-  (C) is not employed by the qualified employer to replace another employee of such employer unless such other employee separated from employment voluntarily or for cause, and
-
-  (D) is not an individual described in section 51(i)(1) (applied by substituting “qualified employer” for “taxpayer” each place it appears).
-
-(4) **Election** — A qualified employer may elect to have this subsection not apply. Such election shall be made in such manner as the Secretary may require.
-
-(5) **Special rule for first calendar quarter of 2010**
-
-  (A) *Nonapplication of exemption during first quarter* — Paragraph (1) shall not apply with respect to compensation paid during the first calendar quarter of 2010.
-
-  (B) *Crediting of first quarter exemption during second quarter* — The amount by which the tax imposed under subsection (a) would (but for subparagraph (A)) have been reduced with respect to compensation paid by a qualified employer during the first calendar quarter of 2010 shall be treated as a payment against the tax imposed under subsection (a) with respect to the qualified employer for the second calendar quarter of 2010 which is made on the date that such tax is due.
-
-**(d) Cross reference** For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
+**(c) Cross reference** For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of the enactment of Pub. L. 111–147, which was approved Mar. 18, 2010.
-
 #### Amendments
+2018—Subsecs. (c), (d). Pub. L. 115–141 redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided for a special rate for certain individuals hired in 2010.
+
 2014—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
 2010—Subsecs. (c), (d). Pub. L. 111–147 added subsec. (c) and redesignated former subsec. (c) as (d).
@@ -460,6 +435,9 @@ Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day 
 
 #### Effective Date of 1954 Amendment
 Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], see section 407 of act Aug. 31, 1954, as amended, set out as a note under [section 3201 of this title](./chapter-022-railroad-retirement-tax-act.md#section-3201).
+
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by subsec. (b) of this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101).

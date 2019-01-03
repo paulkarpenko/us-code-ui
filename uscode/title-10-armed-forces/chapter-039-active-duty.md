@@ -78,7 +78,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 <a id="section-673"></a>
 ## § 673. Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense
-**(a) Timely Consideration and Action.—** The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unit transfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920a, or 920c of this title (article 120, 120a, or 120c of the Uniform Code of Military Justice) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
+**(a) Timely Consideration and Action.—** The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unit transfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
 
 **(b) Regulations.—** The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member’s commanding officer within 72 hours of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within 72 hours of submission of the request for review.
 
@@ -88,9 +88,17 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 A prior section 673 was renumbered [section 12302 of this title](./chapter-1209-active-duty.md#section-12302).
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “920c, or 930” for “920a, or 920c” and “120c, or 130” for “120a, or 120c”.
+
 2013—Subsec. (a). Pub. L. 113–66, § 1091(a)(8), inserted “of the Uniform Code of Military Justice” after “120c”.
 
 Subsec. (b). Pub. L. 113–66, § 1712, substituted “The Secretary concerned” for “The Secretaries of the military departments”.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Standardization of Policies Related to Expedited Transfer in Cases of Sexual Assault or Domestic Violence
+Pub. L. 115–232, div. A, title V, § 536, Aug. 13, 2018, 132 Stat. 1761, provided that: “(a) Policies for Members.—The Secretary of Defense shall modify, in accordance with [section 673 of title 10](./chapter-039-active-duty.md#section-673), United States Code, all policies that the Secretary determines necessary to establish a standardized expedited transfer process for a member of the Army, Navy, Air Force, or Marine Corps who is the alleged victim of—“(1) sexual assault (regardless of whether the case is handled under the Sexual Assault Prevention and Response Program or Family Advocacy Program); or “(2) physical domestic violence (as defined by the Secretary in regulations prescribed under this section) committed by the spouse or intimate partner of the member, regardless of whether the spouse or intimate partner is a member of the Armed Forces. “(b) Policy for Dependents of Members.—The Secretary of Defense shall establish a policy to allow the transfer of a member of the Army, Navy, Air Force, or Marine Corps whose dependent is the victim of sexual assault perpetrated by a member of the Armed Forces who is not related to the victim.”
 
 
 <a id="section-673a"></a>
@@ -107,7 +115,7 @@ Subsec. (b). Pub. L. 113–66, § 1712, substituted “The Secretary concerned�
 
 <a id="section-674"></a>
 ## § 674. Temporary administrative reassignment or removal of a member on active duty accused of committing a sexual assault or related offense
-**(a) Guidance for Timely Consideration and Action.—** The Secretary concerned may provide guidance, within guidelines provided by the Secretary of Defense, for commanders regarding their authority to make a timely determination, and to take action, regarding whether a member of the armed forces serving on active duty who is alleged to have committed an offense under section 920, 920a, 920b, 920c, or 925 of this title (article 120, 120a, 120b, 120c, or 125 of the Uniform Code of Military Justice) or an attempt to commit such an offense as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80 of the Uniform Code of Military Justice) should be temporarily reassigned or removed from a position of authority or from an assignment, not as a punitive measure, but solely for the purpose of maintaining good order and discipline within the member’s unit.
+**(a) Guidance for Timely Consideration and Action.—** The Secretary concerned may provide guidance, within guidelines provided by the Secretary of Defense, for commanders regarding their authority to make a timely determination, and to take action, regarding whether a member of the armed forces serving on active duty who is alleged to have committed an offense under section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice) or an attempt to commit such an offense as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80 of the Uniform Code of Military Justice) should be temporarily reassigned or removed from a position of authority or from an assignment, not as a punitive measure, but solely for the purpose of maintaining good order and discipline within the member’s unit.
 
 **(b) Time for Determination.—** A determination described in subsection (a) may be made at any time after receipt of notification of an unrestricted report of a sexual assault or other sex-related offense that identifies the member as an alleged perpetrator.
 
@@ -117,7 +125,12 @@ Subsec. (b). Pub. L. 113–66, § 1712, substituted “The Secretary concerned�
 A prior section 674 was renumbered [section 12306 of this title](./chapter-1209-active-duty.md#section-12306).
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “920b, 920c, or 930” for “920a, 920b, 920c, or 925” and “120b, 120c, or 130” for “120a, 120b, 120c, or 125”.
+
 2014—Subsec. (b). Pub. L. 113–291 substituted “after receipt” for “afer receipt”.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note) [amendments effective Jan. 1, 2019], see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 
 <a id="section-675"></a>
@@ -193,7 +206,7 @@ A prior section 687, added Pub. L. 87–651, title I, § 102(a), Sept. 7, 1962, 
 
 (1) A retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps.
 
-(2) A member of the Retired Reserve who was retired under section 1293, 3911, 3914, 6323, 8911, or 8914 of this title.
+(2) A member of the Retired Reserve who was retired under section 1293, 7311, 7314, 8323, 9311, or 9314 of this title.
 
 (3) A member of the Fleet Reserve or Fleet Marine Corps Reserve.
 
@@ -205,7 +218,7 @@ A prior section 687, added Pub. L. 87–651, title I, § 102(a), Sept. 7, 1962, 
 
 (2) An officer who—
 
-  (A) after having been notified that the officer was to be considered for early retirement under [section 638 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-638) by a board convened under [section 611(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/b&num=0&edition=prelim) and before being considered by that board, requested retirement under section 3911, 6323, or 8911 of this title; and
+  (A) after having been notified that the officer was to be considered for early retirement under [section 638 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-638) by a board convened under [section 611(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/b&num=0&edition=prelim) and before being considered by that board, requested retirement under section 7311, 8323, or 9311 of this title; and
 
   (B) was retired pursuant to that request.
 
@@ -231,15 +244,22 @@ A prior section 687, added Pub. L. 87–651, title I, § 102(a), Sept. 7, 1962, 
 A prior section 688, added Pub. L. 96–513, title I, § 106, Dec. 12, 1980, 94 Stat. 2868; amended Pub. L. 98–94, title X, § 1017(b)(1)–(3), Sept. 24, 1983, 97 Stat. 669; Pub. L. 99–145, title V, § 516, Nov. 8, 1985, 99 Stat. 630; Pub. L. 102–190, div. A, title V, § 506(a), Dec. 5, 1991, 105 Stat. 1359; Pub. L. 103–160, div. A, title V, § 563, Nov. 30, 1993, 107 Stat. 1669, provided that certain retired members of the armed forces could be ordered to active duty, prior to repeal by Pub. L. 104–201, div. A, title V, § 521(a), (b), Sept. 23, 1996, 110 Stat. 2515, 2517, effective Sept. 30, 1997. See sections 688 to 690 of this title.
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–232 substituted “section 1293, 7311, 7314, 8323, 9311, or 9314” for “section 1293, 3911, 3914, 6323, 8911, or 8914”.
+
+Subsec. (d)(2)(A). Pub. L. 115–232 substituted “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
+
 2001—Subsec. (e)(2)(D). Pub. L. 107–107 added subpar. (D).
 
 1997—Subsec. (e). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title V, § 509(c), Dec. 28, 2001, 115 Stat. 1091, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 690 of this title](./chapter-039-active-duty.md#section-690)] shall apply with respect to officers serving on active duty as a defense attaché or service attaché on or after the date of the enactment of this Act [Dec. 28, 2001].”
 
 #### Effective Date
-Pub. L. 104–201, div. A, title V, § 521(b), Sept. 23, 1996, 110 Stat. 2517, provided that: “The amendments made by this section [enacting this section and sections 689 and 690 of this title, amending [section 6151 of this title](./chapter-561-miscellaneous-rights-and-benefits.md#section-6151), and repealing former [section 688 of this title](./chapter-039-active-duty.md#section-688)] shall take effect on September 30, 1997.”
+Pub. L. 104–201, div. A, title V, § 521(b), Sept. 23, 1996, 110 Stat. 2517, provided that: “The amendments made by this section [enacting this section and sections 689 and 690 of this title, amending [section 6151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6151&num=0&edition=prelim), and repealing former [section 688 of this title](./chapter-039-active-duty.md#section-688)] shall take effect on September 30, 1997.”
 
 
 <a id="section-688a"></a>
@@ -254,13 +274,22 @@ Pub. L. 104–201, div. A, title V, § 521(b), Sept. 23, 1996, 110 Stat. 2517, p
 
 **(e) Inapplicability of Certain Provisions.—** Retired members ordered to active duty under subsection (a) shall not be counted for purposes of section 688 or 690 of this title.
 
-**(f) Expiration of Authority.—** A retired member may not be ordered to active duty under this section after December 31, 2011.
+**(f) Expiration of Authority.—** A retired member may not be ordered to active duty under this section outside a period as follows:
+
+(1) The period beginning on December 2, 2002, and ending on December 31, 2011.
+
+(2) The period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 and ending on December 31, 2022.
 
 **(g) High-Demand, Low-Density Military Capability Defined.—** In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91 substituted “outside a period as follows:” for “after December 31, 2011.” and added pars. (1) and (2).
+
 2011—Subsec. (f). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 2006—Pub. L. 109–364, § 621(d)(2)(A), substituted “Retired members: temporary authority to order to active duty in high-demand, low-density assignments” for “Retired aviators: temporary authority to order to active duty” in section catchline.
@@ -363,13 +392,13 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 **(b)** Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-(1) For the Army, 476,000.
+(1) For the Army, 487,500.
 
-(2) For the Navy, 323,900.
+(2) For the Navy, 335,400.
 
-(3) For the Marine Corps, 185,000.
+(3) For the Marine Corps, 186,100.
 
-(4) For the Air Force, 321,000.
+(4) For the Air Force, 329,100.
 
 **(c)** The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
@@ -382,6 +411,10 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “487,500” for “483,500” in par. (1), “335,400” for “327,900” in par. (2), “186,100” for “186,000” in par. (3), and “329,100” for “325,100” in par. (4).
+
+2017—Subsec. (b). Pub. L. 115–91 substituted “483,500” for “476,000” in par. (1), “327,900” for “323,900” in par. (2), “186,000” for “185,000” in par. (3), and “325,100” for “321,000” in par. (4).
+
 2016—Subsec. (b). Pub. L. 114–328 substituted “476,000” for “475,000” in par. (1), “323,900” for “329,200” in par. (2), “185,000” for “184,000” in par. (3), and “321,000” for “317,000” in par. (4).
 
 2015—Subsec. (b). Pub. L. 114–92, § 402(1), substituted “475,000” for “490,000” in par. (1), “329,200” for “323,600” in par. (2), “184,000” for “184,100” in par. (3), and “317,000” for “310,900” in par. (4).

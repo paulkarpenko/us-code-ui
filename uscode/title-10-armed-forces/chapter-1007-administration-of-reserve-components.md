@@ -9,9 +9,12 @@ source: >-
 <a id="section-10201"></a>
 ## § 10201. Assistant Secretary of Defense for Manpower and Reserve Affairs
 
-As provided in [section 138(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138/b/2&num=0&edition=prelim), the official in the Department of Defense with responsibility for overall supervision of reserve affairs of the Department of Defense is the Assistant Secretary of Defense for Manpower and Reserve Affairs.
+As provided in section 138(b)(2) 11 See References in Text note below. of this title, the official in the Department of Defense with responsibility for overall supervision of reserve affairs of the Department of Defense is the Assistant Secretary of Defense for Manpower and Reserve Affairs.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 138(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138/b/2&num=0&edition=prelim), referred to in text, was struck out and subsec. (b)(4) was redesignated subsec. (b)(2) by Pub. L. 115–91, div. A, title IX, § 907(b), Dec. 12, 2017, 131 Stat. 1514.
 
 #### Amendments
 2014—Pub. L. 113–291 amended section generally. Prior to amendment, text read as follows: “As provided in [section 138(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138/b/2&num=0&edition=prelim), the official in the Department of Defense with responsibility for overall supervision of reserve component affairs of the Department of Defense is the Assistant Secretary of Defense for Reserve Affairs.”
@@ -517,9 +520,7 @@ Pub. L. 109–163, div. A, title V, § 513(b), Jan. 6, 2006, 119 Stat. 3232, pro
 For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Conversion of Certain Military Technician (Dual Status) Positions to Civilian Positions
-Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, as amended by Pub. L. 114–328, div. A, title X, § 1084(a), Dec. 23, 2016, 130 Stat. 2421, provided that: “(1) In general.—By not later than October 1, 2017, the Secretary of Defense shall convert not fewer than 20 percent of all military technician positions to positions filled by individuals who are employed under [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim), United States Code, or [section 1601 of title 10](./chapter-083-civilian-defense-intelligence-employees.md#section-1601), United States Code, and are not military technicians. The positions to be converted are described in paragraph (2). “(2) Covered positions.—The positions described in this paragraph are military technician (dual status) positions as follows:“(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section. “(B) Such other military technician (dual status) positions as the Secretary shall specify for purposes of this subsection. “(3) Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.”
-
-[Pub. L. 114–328, div. A, title X, § 1084(a)(2), Dec. 23, 2016, 130 Stat. 2421, which directed amendment of par. (2) of section 1053(a) of Pub. L. 114–92, set out above, by striking “in the report” and all that follows and inserting “by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section.”, was executed to subpar. (A) of par. (2) to reflect the probable intent of Congress.]
+Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, as amended by Pub. L. 114–328, div. A, title X, § 1084(a), Dec. 23, 2016, 130 Stat. 2421; Pub. L. 115–91, div. A, title X, § 1083, Dec. 12, 2017, 131 Stat. 1602, provided that: “(1) In general.—By not later than October 1, 2017, the Secretary of Defense shall convert not fewer than 12.6 percent of all military technician positions to positions filled by individuals who are employed under [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim), United States Code, or [section 1601 of title 10](./chapter-083-civilian-defense-intelligence-employees.md#section-1601), United States Code, and are not military technicians. The positions to be converted are described in paragraph (2). “(2) Covered positions.—The positions described in this paragraph are military technician (dual status) positions as follows:“(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section. “(B) Such other military technician (dual status) positions as the Secretary shall specify for purposes of this subsection. “(3) Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.”
 
 
 <a id="section-10217"></a>
@@ -759,7 +760,7 @@ Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, pr
 
   (B) members of a reserve component who are individual mobilization augmentees.
 
-**(g) Termination.—** The program under this section shall terminate on October 1, 2018.
+**(g) Termination.—** The program under this section shall terminate on October 1, 2020.
 
 ### Statutory Notes
 
@@ -767,6 +768,8 @@ Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, pr
 Section 582 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a), is section 582 of Pub. L. 110–181, which is set out as a note under [section 10101 of this title](./chapter-1003-reserve-components-generally.md#section-10101).
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–91 substituted “October 1, 2020” for “October 1, 2018”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “October 1, 2018” for “October 1, 2017”.
 
 2013—Subsecs. (f), (g). Pub. L. 113–66 added subsec. (f) and redesignated former subsec. (f) as (g).

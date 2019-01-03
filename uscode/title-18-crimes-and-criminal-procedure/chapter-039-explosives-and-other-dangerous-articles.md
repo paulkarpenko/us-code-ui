@@ -251,16 +251,16 @@ Pub. L. 104–132, title V, § 501, Apr. 24, 1996, 110 Stat. 1281, provided that
 
 (2) “weapons of mass destruction program” means a program or plan for the development, acquisition, or production of any weapon or weapons of mass destruction (as defined in section 2332a(c));
 
-(3) “foreign terrorist power” means a terrorist organization designated under section 219 of the Immigration and Nationality Act, or a state sponsor of terrorism designated under section 6(j) of the Export Administration Act of 1979 or section 620A of the Foreign Assistance Act of 1961; and
+(3) “foreign terrorist power” means a terrorist organization designated under section 219 of the Immigration and Nationality Act, or a state sponsor of terrorism designated under section 6(j) 11 See References in Text note below. of the Export Administration Act of 1979 or section 620A of the Foreign Assistance Act of 1961; and
 
-(4) “nuclear weapon” means any weapon that contains or uses nuclear material as defined in section 831(f)(1).11 See References in Text note below.
+(4) “nuclear weapon” means any weapon that contains or uses nuclear material as defined in section 831(f)(1).1
 
 ### Statutory Notes
 
 #### References in Text
 Section 219 of the Immigration and Nationality Act, referred to in subsec. (d)(3), is classified to [section 1189 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim), Aliens and Nationality.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), is classified to [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), War and National Defense.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), was classified to [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), see [section 4813(c) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (d)(3), is classified to [section 2371 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), Foreign Relations and Intercourse.
 

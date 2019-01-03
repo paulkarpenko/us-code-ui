@@ -453,7 +453,7 @@ Changes were made in phraseology.
 
 **(b)**
 
-(1) A juror shall be paid an attendance fee of $40 per day for actual attendance at the place of trial or hearing. A juror shall also be paid the attendance fee for the time necessarily occupied in going to and returning from such place at the beginning and end of such service or at any time during such service.
+(1) A juror shall be paid an attendance fee of $50 per day for actual attendance at the place of trial or hearing. A juror shall also be paid the attendance fee for the time necessarily occupied in going to and returning from such place at the beginning and end of such service or at any time during such service.
 
 (2) A petit juror required to attend more than ten days in hearing one case may be paid, in the discretion of the trial judge, an additional fee, not exceeding $10 more than the attendance fee, for each day in excess of ten days on which he is required to hear such case.
 
@@ -506,6 +506,8 @@ Changes were made in phraseology.
 This section incorporates in [section 1871 of title 28](./chapter-121-juries-trial-by-jury.md#section-1871), U.S.C., with changes in phraseology, the provisions of act of June 25, 1948 (ch. 652, 62 Stat. 1016), which became law subsequent to the enactment of the revision.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–141 substituted “$50” for “$40”.
+
 2008—Subsec. (b)(2). Pub. L. 110–406 substituted “ten days” for “thirty days” in two places.
 
 1992—Subsec. (c)(5). Pub. L. 102–572 added par. (5).
@@ -523,6 +525,9 @@ This section incorporates in [section 1871 of title 28](./chapter-121-juries-tri
 1949—Act July 14, 1949, increased the per diem fee paid jurors from $5 to $7, provided for per diem fee payments not to exceed $10 for each day in excess of thirty days, increased the mileage payment from 5 cents per mile to 7 cents, and provided for the certification of the judge in cases where the jury fee is in excess of $7 per diem.
 
 Act May 24, 1949, increased jury fees and mileage and subsistence allowances.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–141, div. E, title III, § 307(b), Mar. 23, 2018, 132 Stat. 556, provided that: “The amendment made in subsection (a) [amending this section] shall take effect 45 days after the date of enactment of this Act [Mar. 23, 2018].”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–406, § 3(b), Oct. 13, 2008, 122 Stat. 4292, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2009.”

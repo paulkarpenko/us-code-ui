@@ -20,7 +20,7 @@ Section was enacted as part of the Department of Agriculture Organic Act of 1956
 <a id="section-1001-to-1006"></a>
 ## § 1001 to 1006. Short title
 
-Sections 1001 to 1006, 1006c to 1006e, 1007, 1008 to 1010, 1011, 1012, and 1013 to 1029 of this title may be cited as “The Bankhead-Jones Farm Tenant Act.”
+Sections 1001 to 1006, 1006c to 1006e, 1007, 1008 to 1010, 1011, 1012, and 1013 to 1029 of this title may be cited as “The Bankhead-Jones Farm Tenant Act”.
 
 ### Statutory Notes
 
@@ -205,9 +205,6 @@ The Secretary is authorized and directed to develop a program of land conservati
 
 ### Statutory Notes
 
-#### Repeals
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Amendments
 1981—Pub. L. 97–98 inserted development of energy resources to the enumeration of aims for which the Secretary may develop programs of land conservation and land utilization.
 
@@ -218,8 +215,8 @@ Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 St
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
-#### Savings Provision
-Repeal by Pub. L. 94–579, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
 
 #### Transfer of Functions
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished, and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
@@ -265,9 +262,6 @@ To effectuate the program provided for in [section 1010 of this title](./chapter
 
 ### Statutory Notes
 
-#### Repeals
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 The Act, referred to in subsec. (c), is the Bankhead-Jones Farm Tenant Act which is classified generally to this chapter (§ 1000 et seq.). For complete classification of the Act to the Code, see [section 1000 of this title](./chapter-033-farm-tenancy.md#section-1000) and Tables.
 
@@ -302,6 +296,9 @@ Subsec. (f). Pub. L. 87–869 substituted “by a fine of not more than $500 or 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
+
 #### Transfer of Functions
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished, and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
@@ -311,9 +308,6 @@ Functions of Secretary of Agriculture with respect to uses of mineral deposits i
 
 #### Delegation of Functions
 Authority of President under subsec. (c) of this section to transfer to Federal, State, or Territorial agencies lands acquired by Secretary of Agriculture under subsec. (a) of this section delegated to Administrator of General Services, see section 1(14) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
 
 #### Existing Rights-of-Way
 Provisions of section 706(a) of Pub. L. 94–579, except as pertaining to rights-of-way, not to be construed as affecting the authority of the Secretary of Agriculture under this section, see note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
@@ -329,11 +323,8 @@ As soon as practicable after the end of each calendar year, the Secretary shall 
 
 ### Statutory Notes
 
-#### Repeals
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
+#### Repeal; Savings Provision
+This section is section 33 of act July 22, 1937. Section is being treated as repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. The table of repealed laws contained in section 706(a) of Pub. L. 94–579 did not list section 33 of act July 22, 1937, but did list [section 1012 of Title 7](./chapter-033-farm-tenancy.md#section-1012). Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
 
 #### Existing Rights-of-Way
 Provisions of section 706(a) of Pub. L. 94–579, except as pertaining to rights-of-way, not to be construed as affecting the authority of the Secretary of Agriculture under this section, see note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
@@ -371,6 +362,9 @@ Section, act July 22, 1937, ch. 517, title III, § 34, 50 Stat. 526, related to 
 The provisions of this subchapter shall extend to Puerto Rico and the Virgin Islands. In the case of Alaska, Puerto Rico, and the Virgin Islands, the term “county” as used in this subchapter may be the entire area, or any subdivision thereof as may be determined by the Secretary, and payments under [section 1012 of this title](./chapter-033-farm-tenancy.md#section-1012) shall be made to the Governor or to the fiscal agent of such subdivision.
 
 ### Statutory Notes
+
+#### Codification
+Another section 342 of Pub. L. 87–128 is classified to [section 1990a of this title](./chapter-050-agricultural-credit.md#section-1990a).
 
 #### Effective Date
 Section effective Oct. 15, 1961, by former section 300.1 of Title 6, Code of Federal Regulations, see Effective Date note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).

@@ -75,21 +75,65 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 <a id="section-3503"></a>
 ## § 3503. Fire-retardant materials
-**(a)** A passenger vessel of the United States having berth or stateroom accommodations for at least 50 passengers shall be granted a certificate of inspection only if the vessel is constructed of fire-retardant materials. Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.
+**(a)**
+
+(1) A passenger vessel of the United States having berth or stateroom accommodations for at least 50 passengers shall be granted a certificate of inspection only if—
+
+  (A) the vessel is constructed of fire-retardant materials; and
+
+  (B) the vessel—
+
+    (i) is operating engines, boilers, main electrical distribution panels, fuel tanks, oil tanks, and generators that meet current Coast Guard regulations; and
+
+    (ii) is operating boilers and main electrical generators that are contained within noncombustible enclosures equipped with fire suppression systems.
+
+(2) Before December 1, 2028, this subsection does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.
 
 **(b)**
 
-(1) When a vessel is exempted from the fire-retardant standards of this section—
+(1) The owner or managing operator of an exempted vessel described in subsection (a)(2) shall—
 
-  (A) the owner or managing operator of the vessel shall notify prospective passengers that the vessel does not comply with applicable fire safety standards due primarily to the wooden construction of passenger berthing areas;
+  (A) notify in writing prospective passengers, prior to purchase, and each crew member that the vessel does not comply with applicable fire safety standards due primarily to the wooden construction of passenger berthing areas;
 
-  (B) the owner or managing operator of the vessel may not disclaim liability to a passenger for death, injury, or any other loss caused by fire due to the negligence of the owner or managing operator;
+  (B) display in clearly legible font prominently throughout the vessel, including in each state room the following: “THIS VESSEL FAILS TO COMPLY WITH SAFETY RULES AND REGULATIONS OF THE U.S. COAST GUARD.”;
 
-  (C) the penalties provided in [section 3504(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3504/c&num=0&edition=prelim) apply to a violation of this subsection; and
+  (C) acquire prior to the vessel entering service, and maintain, liability insurance in an amount to be prescribed by the Federal Maritime Commission;
 
-  (D) the owner or managing operator of the vessel shall notify the Coast Guard of structural alterations to the vessel, and with regard to those alterations comply with any noncombustible material requirements that the Coast Guard prescribes for nonpublic spaces. Coast Guard requirements shall be consistent with preservation of the historic integrity of the vessel in areas carrying or accessible to passengers or generally visible to the public.
+  (D) make annual structural alteration to not less than 10 percent of the areas of the vessel that are not constructed of fire retardant materials;
 
-(2) The Secretary shall prescribe regulations under this subsection on the manner in which prospective passengers are to be notified.
+  (E) prioritize alterations in galleys, engineering areas of the vessel, including all spaces and compartments containing, or adjacent to spaces and compartments containing, engines, boilers, main electrical distribution panels, fuel tanks, oil tanks, and generators;
+
+  (F) ensure, to the satisfaction of the Secretary, that the combustible fire-load has been reduced pursuant to subparagraph (D) during each annual inspection for certification;
+
+  (G) ensure the vessel has multiple forms of egress off the vessel’s bow and stern;
+
+  (H) provide advance notice to the Coast Guard regarding the structural alterations made pursuant to subparagraph (D) and comply with any noncombustible material requirements prescribed by the Coast Guard;
+
+  (I) annually notify all ports of call and State emergency management offices of jurisdiction that the vessel does not comply with the requirement under subsection (a)(1);
+
+  (J) provide crewmembers manning such vessel shipboard training that—
+
+    (i) is specialized for exempted vessels;
+
+    (ii) exceeds requirements related to standards for firefighting training under chapter I of title 46, Code of Federal Regulations, as in effect on October 1, 2017; and
+
+    (iii) is approved by the Coast Guard; and
+
+  (K) to the extent practicable, take all steps to retain previously trained crew knowledgeable of such vessel or to hire crew trained in operations aboard exempted vessels.
+
+(2) The owner or managing operator of an exempted vessel described in subsection (a)(2) may not disclaim liability to a passenger or crew member of such vessel for death, injury, or any other loss caused by fire due to the negligence of the owner or managing operator.
+
+(3) The Secretary shall—
+
+  (A) conduct an annual audit and inspection of each exempted vessel described in subsection (a)(2);
+
+  (B) in implementing subparagraph (b)(1)(F), consider, to the extent practicable, the goal of preservation of the historic integrity of such vessel in areas carrying or accessible to passengers or generally visible to the public; and
+
+  (C) prescribe regulations to carry out this section, including to prescribe the manner in which prospective passengers are to be notified under paragraph (1)(A).
+
+(4) The penalties provided in [section 3504(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3504/c&num=0&edition=prelim) shall apply to a violation of this subsection.
+
+**(c)** In addition to otherwise applicable penalties, the Secretary may immediately withdraw a certificate of inspection for an exempted vessel described in subsection (a)(2) that does not comply with any requirement under subsection (b).
 
 ### Statutory Notes
 
@@ -101,6 +145,22 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Section 3503 requires the use of fire retardant materials on a vessel having berthing facilities for at least 50 passengers. This requirement in the case of vessels engaged in foreign trade is consistent with our international treaty obligations, which impose extensive and additional fire safety standards. A waiver that grandfathers existing inland river passenger vessels is also included.
 
 #### Amendments
+2018—Pub. L. 115–282 amended section generally. Prior to amendment, text read as follows:
+
+“(a) A passenger vessel of the United States having berth or stateroom accommodations for at least 50 passengers shall be granted a certificate of inspection only if the vessel is constructed of fire-retardant materials. Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.
+
+“(b)(1) When a vessel is exempted from the fire-retardant standards of this section—
+
+“(A) the owner or managing operator of the vessel shall notify prospective passengers that the vessel does not comply with applicable fire safety standards due primarily to the wooden construction of passenger berthing areas;
+
+“(B) the owner or managing operator of the vessel may not disclaim liability to a passenger for death, injury, or any other loss caused by fire due to the negligence of the owner or managing operator;
+
+“(C) the penalties provided in [section 3504(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3504/c&num=0&edition=prelim) apply to a violation of this subsection; and
+
+“(D) the owner or managing operator of the vessel shall notify the Coast Guard of structural alterations to the vessel, and with regard to those alterations comply with any noncombustible material requirements that the Coast Guard prescribes for nonpublic spaces. Coast Guard requirements shall be consistent with preservation of the historic integrity of the vessel in areas carrying or accessible to passengers or generally visible to the public.
+
+“(2) The Secretary shall prescribe regulations under this subsection on the manner in which prospective passengers are to be notified.”
+
 1996—Subsec. (a). Pub. L. 104–324 substituted “Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.” for “Before November 1, 1998, this section does not apply to a vessel in operation before January 1, 1968, and operating only on the inland rivers.”
 
 1991—Subsec. (a). Pub. L. 102–241, § 20(1), substituted “1998” for “1993”.
@@ -194,12 +254,6 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 (2) **Fire safety codes.—** — In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the U.S. Coast Guard and under international law, as appropriate.
 
-(3) **Effective date.—**
-
-  (A) *In general.—* — Except as provided in subparagraph (B), the requirements of paragraph (1) shall take effect 18 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
-
-  (B) *Latch and key requirements.—* — The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
-
 **(b) Video Recording.—**
 
 (1) **Requirement to maintain surveillance.—** — The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes, as determined by the Secretary.
@@ -264,7 +318,7 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
   (C) any information to law enforcement officials performing official duties in the course and scope of an investigation; and
 
-(2) treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin.
+(2) treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services as confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin.
 
 **(f) Crew Access to Passenger Staterooms.—** The owner of a vessel to which this section applies shall—
 
@@ -373,13 +427,13 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
   (B) fails to pay a penalty imposed on the owner under this subsection.
 
-**(i) Procedures.—** Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
+**(i) Procedures.—** The Secretary shall maintain guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
 
 **(j) Regulations.—** The Secretary and the Commandant shall each issue such regulations as are necessary to implement this section.
 
 **(k) Application.—**
 
-(1) **In general.—** — This section and section 3508 apply to a passenger vessel (as defined in section 2101(22)) that—
+(1) **In general.—** — This section and section 3508 apply to a passenger vessel (as defined in section 2101(31)) that—
 
   (A) is authorized to carry at least 250 passengers;
 
@@ -391,18 +445,24 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 (2) **Federal and state vessels.—** — This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
 
-**(l) Definitions.—** In this section and section 3508:
-
-(1) **Commandant.—** — The term “Commandant” means the Commandant of the Coast Guard.
-
-(2) **Owner.—** — The term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
+**(l) Definition.—** In this section and section 3508, the term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
 
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a)(1)(C), (3) and (i), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsec. (a)(1)(C), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
 
 #### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–232, § 3543(a)(1), struck out par. (3) which related to effective date of par. (1) requirements.
+
+Subsec. (e)(2). Pub. L. 115–232, § 3543(a)(2), substituted “services as confidential” for “services confidential”.
+
+Subsec. (i). Pub. L. 115–232, § 3543(a)(3), substituted “The Secretary shall maintain” for “Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue”.
+
+Subsec. (k)(1). Pub. L. 115–232, § 3541(b)(9)(A), substituted “section 2101(31)” for “section 2101(22)” in introductory provisions.
+
+Subsec. (l). Pub. L. 115–232, § 3541(b)(9)(B), added subsec. (l) and struck out former subsec. (l) which defined “Commandant” and “owner”.
+
 2014—Subsec. (g)(3)(A)(ii). Pub. L. 113–281, § 321(a)(1), substituted “each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A)” for “the incident to an Internet based portal maintained by the Secretary”.
 
 Subsec. (g)(3)(A)(iii). Pub. L. 113–281, § 321(a)(2), substituted “Internet website maintained by the Secretary of Transportation under paragraph (4)(A)” for “Internet based portal maintained by the Secretary”.
@@ -417,7 +477,7 @@ Pub. L. 111–207, § 2, July 27, 2010, 124 Stat. 2243, provided that: “The Co
 
 <a id="section-3508"></a>
 ## § 3508. Crime scene preservation training for passenger vessel crewmembers
-**(a) In General.—** Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall develop training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States and abroad that offer the curriculum for training and certification under subsection (c).
+**(a) In General.—** The Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall maintain training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States and abroad that offer the curriculum for training and certification under subsection (c).
 
 **(b) Minimum Standards.—** The standards established by the Secretary under subsection (a) shall include—
 
@@ -427,19 +487,27 @@ Pub. L. 111–207, § 2, July 27, 2010, 124 Stat. 2243, provided that: “The Co
 
 (3) the provision or recognition of off-site training and certification courses in the United States and foreign countries to develop and provide the required training and certification described in subsection (a) and to enhance security awareness and security practices related to the preservation of evidence in response to crimes on board passenger vessels.
 
-**(c) Certification Requirement.—** Beginning 2 years after the standards are established under subsection (b), no vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
+**(c) Certification Requirement.—** No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
 
-**(d) Interim Training Requirement.—** No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who has been properly trained in the prevention detection, evidence preservation and the reporting requirements of criminal activities in the international maritime environment. The owner of a such a vessel shall maintain certification or other documentation, as prescribed by the Secretary, verifying the training of such individual and provide such documentation upon request for inspection in connection with enforcement of the provisions of this section. This subsection shall take effect 1 year after the date of enactment of the Cruise Vessel Safety and Security Act of 2010 and shall remain in effect until superseded by the requirements of subsection (c).
+**(d) Civil Penalty.—** Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $50,000.
 
-**(e) Civil Penalty.—** Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $50,000.
+**(e) Denial of Entry.—** The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
 
-**(f) Denial of Entry.—** The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
+(1) commits an act or omission for which a penalty may be imposed under subsection (d); or
 
-(1) commits an act or omission for which a penalty may be imposed under subsection (e); or
-
-(2) fails to pay a penalty imposed on the owner under subsection (e).
+(2) fails to pay a penalty imposed on the owner under subsection (d).
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a) and (d), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–232, § 3543(b)(1), substituted “The Secretary” for “Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary” and “maintain” for “develop”.
+
+Subsec. (c). Pub. L. 115–232, § 3543(b)(2), substituted “No” for “Beginning 2 years after the standards are established under subsection (b), no”.
+
+Subsec. (d). Pub. L. 115–232, § 3543(b)(3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to interim training requirement.
+
+Subsec. (e). Pub. L. 115–232, § 3543(b)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(1), (2). Pub. L. 115–232, § 3543(b)(4), substituted “subsection (d)” for “subsection (e)”.
+
+Subsec. (f). Pub. L. 115–232, § 3543(b)(3), redesignated subsec. (f) as (e).

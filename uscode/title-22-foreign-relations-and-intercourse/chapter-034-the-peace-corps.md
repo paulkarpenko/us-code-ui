@@ -2,7 +2,7 @@
 title: 22
 chapter: '34'
 heading: THE PEACE CORPS
-section_count: 36
+section_count: 37
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -27,6 +27,9 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Effective Date
 Pub. L. 87–293, title I, § 28, formerly § 27, Sept. 22, 1961, 75 Stat. 625, as renumbered by Pub. L. 99–83, title XI, § 1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act [see Short Title note below] shall take effect on the date of its enactment [Sept. 22, 1961].”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–256, § 1(a), Oct. 9, 2018, 132 Stat. 3650, provided that: “This Act [enacting [section 2504a of this title](./chapter-034-the-peace-corps.md#section-2504a), amending sections 2504, 2506 to 2507e, 2509, and 2522 of this title and [section 8142 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8142&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as notes under [section 2504 of this title](./chapter-034-the-peace-corps.md#section-2504), may be cited as the ‘Sam Farr and Nick Castle Peace Corps Reform Act of 2018’.”
 
 #### Short Title of 2011 Amendment
 Pub. L. 112–57, § 1, Nov. 21, 2011, 125 Stat. 736, provided that: “This Act [enacting sections 2507a to 2507i of this title, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title] may be cited as the ‘Kate Puzey Peace Corps Volunteer Protection Act of 2011’.”
@@ -383,9 +386,11 @@ Pub. L. 97–113, title VI, § 601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided
 
 **(d) Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 661**
 
-**(e) Health care** Volunteers shall receive such health care (including, if necessary, for volunteers and trainees, services under [section 2507b of this title](./chapter-034-the-peace-corps.md#section-2507b)) during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under [section 2507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2507/a&num=0&edition=prelim) shall receive such immunization and dental care preparatory to their service, and former volunteers shall receive such health examinations within six months after termination of their service, including services provided in accordance with [section 2507b of this title](./chapter-034-the-peace-corps.md#section-2507b) (except that the six-month limitation shall not apply in the case of such services), as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter. Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 [[42 U.S.C. 14401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14401&num=0&edition=prelim) et seq.].
+**(e) Health care** Volunteers shall receive such health care (including, if necessary, for volunteers and trainees, services under [section 2507b of this title](./chapter-034-the-peace-corps.md#section-2507b)) during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under [section 2507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2507/a&num=0&edition=prelim) shall receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f), and former volunteers shall receive such health examinations within six months after termination of their service, including services provided in accordance with [section 2507b of this title](./chapter-034-the-peace-corps.md#section-2507b) (except that the six-month limitation shall not apply in the case of such services), as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter. Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 [[42 U.S.C. 14401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14401&num=0&edition=prelim) et seq.].
 
-**(f) Retirement and other credits based upon length of service**
+**(f) Prescription of medications** The Director of the Peace Corps shall consult with health experts outside the Peace Corps, including experts licensed in the field of mental health, and follow guidance by the Centers for Disease Control and Prevention regarding the prescription of medications to a volunteer.
+
+**(g) Retirement and other credits based upon length of service**
 
 (1) Any period of satisfactory service of a volunteer under this chapter shall be credited in connection with subsequent employment in the same manner as a like period of civilian employment by the United States Government—
 
@@ -395,19 +400,19 @@ Pub. L. 97–113, title VI, § 601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided
 
 (2) For the purposes of paragraph (1)(A) of this subsection, volunteers and volunteer leaders shall be deemed to be receiving compensation during their service at the respective rates of readjustment allowances payable under subsection (c) and [section 2505(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2505/1&num=0&edition=prelim).
 
-**(g) Assignment to other entities** The President may detail or assign volunteers or otherwise make them available to any entity referred to in paragraph (1) of [section 2509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2509/a&num=0&edition=prelim) on such terms and conditions as he may determine: Provided, That not to exceed two hundred volunteers may be assigned to carry out secretarial or clerical duties on the staffs of the Peace Corps representatives abroad: Provided, however, That any volunteer so detailed or assigned shall continue to be entitled to the allowances, benefits and privileges of volunteers authorized under or pursuant to this chapter.
+**(h) Assignment to other entities** The President may detail or assign volunteers or otherwise make them available to any entity referred to in paragraph (1) of [section 2509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2509/a&num=0&edition=prelim) on such terms and conditions as he may determine: Provided, That not to exceed two hundred volunteers may be assigned to carry out secretarial or clerical duties on the staffs of the Peace Corps representatives abroad: Provided, however, That any volunteer so detailed or assigned shall continue to be entitled to the allowances, benefits and privileges of volunteers authorized under or pursuant to this chapter.
 
-**(h) Tort claims; absentee voting; general average contributions for transportation of baggage; check cashing and currency exchange; claims for overpayment of pay; passport fees** Volunteers shall be deemed employees of the United States Government for the purposes of the Federal Tort Claims Act and any other Federal tort liability statute, [section 3342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3342&num=0&edition=prelim), section 5732 and [section 5584 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5584&num=0&edition=prelim) (and readjustment allowances paid under this chapter shall be considered as pay for purposes of such section), and [section 214 of this title](./chapter-004-passports.md#section-214).
+**(i) Tort claims; absentee voting; general average contributions for transportation of baggage; check cashing and currency exchange; claims for overpayment of pay; passport fees** Volunteers shall be deemed employees of the United States Government for the purposes of the Federal Tort Claims Act and any other Federal tort liability statute, [section 3342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3342&num=0&edition=prelim), section 5732 and [section 5584 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5584&num=0&edition=prelim) (and readjustment allowances paid under this chapter shall be considered as pay for purposes of such section), and [section 214 of this title](./chapter-004-passports.md#section-214).
 
-**(i) Termination of service** The service of a volunteer may be terminated at any time at the pleasure of the President.
+**(j) Termination of service** The service of a volunteer may be terminated at any time at the pleasure of the President.
 
-**(j) Oath of office** Upon enrollment in the Peace Corps, every volunteer shall take the oath prescribed for persons appointed to any office of honor or profit by [section 3331 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3331&num=0&edition=prelim).
+**(k) Oath of office** Upon enrollment in the Peace Corps, every volunteer shall take the oath prescribed for persons appointed to any office of honor or profit by [section 3331 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3331&num=0&edition=prelim).
 
-**(k) Counseling programs for returned volunteers** In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the President may, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteers would be counseled with respect to opportunities for further education and employment.
+**(l) Counseling programs for returned volunteers** In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the President may, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteers would be counseled with respect to opportunities for further education and employment.
 
-**(l) Legal expenses of defendant in judicial or administrative proceedings** Notwithstanding any other provision of law, counsel may be employed and counsel fees, court costs, bail, and other expenses incident to the defense of volunteers may be paid in foreign judicial or administrative proceedings to which volunteers have been made parties and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers.
+**(m) Legal expenses of defendant in judicial or administrative proceedings** Notwithstanding any other provision of law, counsel may be employed and counsel fees, court costs, bail, and other expenses incident to the defense of volunteers may be paid in foreign judicial or administrative proceedings to which volunteers have been made parties and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers.
 
-**(m) Allowances and expenses of minor children** The minor children of a volunteer living with the volunteer may receive—
+**(n) Allowances and expenses of minor children** The minor children of a volunteer living with the volunteer may receive—
 
 (1) such living, travel, education, and leave allowances, such housing, transportation, subsistence, and essential special items of clothing as the President may determine;
 
@@ -415,24 +420,76 @@ Pub. L. 97–113, title VI, § 601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided
 
 (3) such orientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine; and
 
-(4) the benefits of subsection (l) of this section on the same basis as volunteers.
+(4) the benefits of subsection (l) 11 See References in Text note below. of this section on the same basis as volunteers.
 
-**(n) Moving expenses** The costs of packing and unpacking, transporting to and from a place of storage, and storing the furniture and household and personal effects of a volunteer who has one or more minor children at the time of his entering a period of pre-enrollment training may be paid from the date of his departure from his place of residence to enter training until no later than three months after termination of his service.
+**(o) Moving expenses** The costs of packing and unpacking, transporting to and from a place of storage, and storing the furniture and household and personal effects of a volunteer who has one or more minor children at the time of his entering a period of pre-enrollment training may be paid from the date of his departure from his place of residence to enter training until no later than three months after termination of his service.
+
+**(p) Independent review of volunteer death**
+
+(1) Not later than 10 days after receiving notification of the death of a volunteer, the President shall provide a briefing to the Inspector General of the Peace Corps that includes—
+
+  (A)
+
+    (i) the available facts and circumstances surrounding the death of the volunteer, including a preliminary timeline of the events immediately preceding the death of the volunteer, subsequent actions taken by the Peace Corps, and any information available to the Peace Corps reflecting on the cause or root cause of the death of the volunteer; and
+
+    (ii) a description of any steps the Peace Corps plans to take to inquire further into the cause or root cause of the death of the volunteer, including the anticipated date of the completion of such inquiry; or
+
+  (B) an explanation of why the Peace Corps has determined that no further inquiry into the cause or root cause of the death of the volunteer is necessary, including—
+
+    (i) a description of the steps the Peace Corps took to determine further inquiry was not necessary; and
+
+    (ii) the basis for such determination.
+
+(2) If the Peace Corps has performed or engaged another entity to perform a root cause analysis or similar report that describes the cause or root cause of a volunteer death, the President shall provide the Inspector General of the Peace Corps with—
+
+  (A) a copy of all information provided to such entity at the time such information is provided to such entity or used by the Peace Corps to perform the analysis;
+
+  (B) a copy of any report or study received from the entity or used by the Peace Corps to perform the analysis; and
+
+  (C) any supporting documentation upon which the Peace Corps or such entity relied to make its determination, including the volunteer’s complete medical record, as soon as such information is available to the Peace Corps.
+
+(3) If a volunteer dies, the Peace Corps shall take reasonable measures, in accordance with local laws, to preserve any information or material, in any medium or format, that may be relevant to determining the cause or root cause of the death of the volunteer, including personal effects, medication, and other tangible items belonging to the volunteer, as long as such measures do not interfere with the legal procedures of the host country if the government of the host country is exercising jurisdiction over the investigation of such death. The Inspector General of the Peace Corps shall be provided an opportunity to inspect such items before their final disposition.
+
+(4) Consistent with the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General of the Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
+
+(5) For the purposes of undertaking a review under this section, an officer or employee of the United States or a member of the Armed Forces may be detailed to the Inspector General of the Peace Corps from another department of the United States Government on a nonreimbursable basis, as jointly agreed to by the Inspector General and the detailing department, for a period not to exceed 1 year. This paragraph may not be construed to limit or modify any other source of authority for reimbursable or nonreimbursable details. A nonreimbursable detail made under this section may not be considered an augmentation of the appropriations of the Peace Corps.
+
+(6) Upon request, the Peace Corps may make available necessary funds to the Inspector General of the Peace Corps for reviews conducted by the Inspector General under this section. The request shall be limited to costs relating to hiring, procuring, or otherwise obtaining medical-related experts or expert services, and associated travel.
+
+(7) The undertaking of a review under this section may not be considered a transfer of program operating responsibilities to the Inspector General of the Peace Corps.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (e) to (h), and (m), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsecs. (a), (e) to (i), and (n), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 14401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14401&num=0&edition=prelim) and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+
+Subsection (l) of this section, referred to in subsec. (n)(4), was redesignated as subsec. (m) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
+
+The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–256, § 101(a)(1)(A), substituted “receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f)” for “receive such immunization and dental care preparatory to their service”.
+
+Subsecs. (f), (g). Pub. L. 115–256, § 101(a)(1)(B), (C), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 115–256, § 101(a)(1)(B), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 115–256, § 101(a)(1)(D), which directed substitution of “section), and” for “section, and” could not be executed because “section, and” did not appear in text.
+
+Pub. L. 115–256, § 101(a)(1)(B), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsecs. (j) to (o). Pub. L. 115–256, § 101(a)(1)(B), redesignated subsecs. (i) to (n) as (j) to (o), respectively.
+
+Subsec. (p). Pub. L. 115–256, § 301, added subsec. (p).
+
 2011—Subsec. (a). Pub. L. 112–57, § 8(a)(1), inserted “(including training under [section 2507a of this title](./chapter-034-the-peace-corps.md#section-2507a))” after “training”.
 
 Subsec. (e). Pub. L. 112–57, § 8(b), in first sentence, inserted “(including, if necessary, for volunteers and trainees, services under [section 2507b of this title](./chapter-034-the-peace-corps.md#section-2507b))” after “health care” and “including services provided in accordance with [section 2507b of this title](./chapter-034-the-peace-corps.md#section-2507b) (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
@@ -515,11 +572,19 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Delegation of Functions
 Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions in subsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
 
+#### Implementation of Recommendations by the Inspector General of the Peace Corps
+Pub. L. 115–256, title I, § 101(b), Oct. 9, 2018, 132 Stat. 3652, provided that: “(1) Inspector general report.—As promptly as practicable, the Director [of the Peace Corps] shall implement the actions outlined in the agency response for all open recommendations of the Inspector General of the Peace Corps set forth in the report entitled ‘Final Program Evaluation Report: OIG Follow-up Evaluation of Issues Identified in the 2010 Peace Corps/Morocco Assessment of Medical Care’ (Report No. IG–16–01–E). “(2) Semiannual reports.—“(A) Initial report.—Not later than 180 days after the date of the enactment of this Act [Oct. 9, 2018], the Director shall submit a report to the appropriate congressional committees that describes the Director’s strategy for implementing the recommendations referred to in paragraph (1). “(B) Subsequent reports.—Not later than 180 days after the submission of the report required under subparagraph (A), and semiannually thereafter, the Director shall submit a report to the appropriate congressional committees that describes the progress in implementing the recommendations referred to in paragraph (1) until all such recommendations have been implemented in accordance with the agency’s response to the report referred to in such paragraph. “(3) Notification.—After the submission of each report required under paragraph (2), the Inspector General of the Peace Corps may notify the appropriate congressional committees of any recommendations from the report referred to in paragraph (1) that the Inspector General determines remain unresolved.”
+
+[For definition of “appropriate congressional committees” as used in section 101(b) of Pub. L. 115–256, set out above, see section 2 of Pub. L. 115–256, set out as a note below.]
+
 #### Evaluation of Health-Care Services Provided to Peace Corps Volunteers
 Pub. L. 102–565, § 3, Oct. 28, 1992, 106 Stat. 4266, provided that: “(a) In General.—The Director of the Peace Corps shall contract with an eligible organization or organizations to conduct before January 1, 1997, a total of three evaluations of the health-care needs of the Peace Corps volunteers and the adequacy of the system through which the Peace Corps provides health-care services in meeting those needs. “(b) Requirements of the Evaluations.—Each evaluation shall include an assessment of the adequacy of the Peace Corps health-care system—“(1) to provide diagnostic, treatment, and referral services to meet the health-care needs of Peace Corps volunteers, and “(2) to conduct health examinations of applicants for enrollment as Peace Corps volunteers and to provide immunization and dental care preparatory to service of applicants for enrollment who have accepted an invitation to begin a period of training for service as a Peace Corps volunteer. “(c) Reports to the Peace Corps.—An organization making an evaluation under this section shall submit to the Director of the Peace Corps a report containing its findings and recommendations not later than May 31, 1993, December 31, 1994, and December 31, 1996, as the case may be. Each report shall include recommendations regarding appropriate standards and procedures for ensuring the furnishing of quality medical care and for measuring the quality of care provided to Peace Corps volunteers. “(d) Report to Congress.—Not later than 90 days after receipt of a report required by subsection (c), the Director of the Peace Corps shall transmit the report, together with the Director’s comments, to the appropriate congressional committees. “(e) Definitions.—For purposes of this section—“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and “(2) the term ‘eligible organization’ means an independent health-care accreditation organization or other independent organization with expertise in evaluating health-care systems similar to that of the Peace Corps.”
 
 #### Legal Expenses Incurred Prior to Sept. 13, 1966
 Pub. L. 89–572, § 2(b), Sept. 13, 1966, 80 Stat. 765, provided that: “The authority contained in subsection (a) [adding subsec. (l) to this section] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act [Sept. 13, 1966].”
+
+#### Definitions
+Pub. L. 115–256, § 2, Oct. 9, 2018, 132 Stat. 3650, provided that: “In this Act [see Short Title of 2018 Amendment note set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501)]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; “(B) the Committee on Appropriations of the Senate; “(C) the Committee on Foreign Affairs of the House of Representatives; and “(D) the Committee on Appropriations of the House of Representatives. “(2) Director.—The term ‘Director’ means the Director of the Peace Corps. “(3) Peace corps volunteer.—The term ‘Peace Corps volunteer’ means an individual described in section 5(a) of the Peace Corps Act ([22 U.S.C. 2504(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/a&num=0&edition=prelim)).”
 
 #### Ex. Ord. No. 11103. Appointment of Former Volunteers to Civilian Career Services
 Ex. Ord. No. 11103, Apr. 10, 1963, 28 F.R. 3571, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
@@ -535,6 +600,41 @@ Sec. 3. Certificates of satisfactory service for the purposes of this order shal
 Sec. 4. Any appointment under this order shall be effected within a period of one year after completion of the appointee’s service under the Peace Corps Act [see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501)]: Provided, That such period may be extended to not more than three years in the case of persons who, following such service, are engaged in military service, in the pursuit of studies at a recognized institution of higher learning, or in other activities which, in the view of the appointing authority, warrant an extension of such period.
 
 Sec. 5. Any law, Executive Order, or regulation which would disqualify an applicant for appointment in the competitive service or in the excepted service concerned shall also disqualify an applicant for appointment under this order.
+
+
+<a id="section-2504a"></a>
+## § 2504a. Health care for volunteers at Peace Corps posts
+**(a) In general** The President shall ensure that each overseas post has the services of a medical office that is consistent in size and scope with the needs of the Peace Corps at such post, including, if necessary, by detailing to any such post the licensed medical staff of other United States departments, agencies, or establishments.
+
+**(b) Hiring criteria** In selecting medical officers and support staff for overseas Peace Corps posts, the Director of the Peace Corps shall hire well-qualified and capable personnel to support the effectiveness of health care for Peace Corps volunteers by evaluating each candidate’s—
+
+(1) medical training, experience, and accreditations or other qualifications;
+
+(2) record of performance;
+
+(3) administrative capabilities;
+
+(4) understanding of the local language and culture;
+
+(5) ability to work in the English language;
+
+(6) interpersonal skills; and
+
+(7) such other factors that the Director determines appropriate.
+
+**(c) Certain training** The Director of the Peace Corps shall ensure that each Peace Corps medical officer serving in a malaria-endemic country receives training in the recognition of the side effects of such medications.
+
+**(d) Review and evaluation**
+
+(1) **In general** — The Director of the Peace Corps, acting through the Associate Director of the Office of Health Services and the country directors, shall review and evaluate the performance and health care delivery of all Peace Corps medical staff, including medical officers, to—
+
+  (A) ensure compliance with all relevant Peace Corps policies, practices, and guidelines; and
+
+  (B) ensure that medical staff complete the necessary continuing medical education to maintain their skills and satisfy licensing and credentialing standards, as designated by the Director.
+
+(2) **Report to Congress** — The Director of the Peace Corps shall include, in the annual Peace Corps congressional budget justification, a confirmation that the review and evaluation of all Peace Corps medical staff required under paragraph (1) has been completed.
+
+**(e) Antimalarial drugs** The Director of the Peace Corps shall consult with experts at the Centers for Disease Control and Prevention regarding recommendations for prescribing malaria prophylaxis, in order to provide the best standard of care within the context of the Peace Corps environment.
 
 
 <a id="section-2505"></a>
@@ -615,6 +715,34 @@ Appointment of former volunteer leaders to civilian career services, see Ex. Ord
 
   (B) officers and employees of the Office of the Inspector General of the Peace Corps.
 
+(8)
+
+  (A) The Director of the Peace Corps may designate Peace Corps positions as critical management or management support positions that require specialized technical or professional skills and knowledge of Peace Corps operations. Such positions may include positions in the following fields:
+
+    (i) Volunteer health services.
+
+    (ii) Financial management.
+
+    (iii) Information technology.
+
+    (iv) Procurement.
+
+    (v) Personnel.
+
+    (vi) Legal services.
+
+    (vii) Safety and security.
+
+  (B) Subject to subparagraphs (C) and (D), with respect to positions designated pursuant to subparagraph (A), the Director may make or extend renewable appointments or assignments under paragraph (2) notwithstanding limitations under subparagraphs (A) and (B) of paragraph (2) and paragraph (5).
+
+  (C) In exercising authority under subparagraph (B), the Director shall ensure that all decisions regarding the appointment, assignment, or extension of employees to any position designated pursuant to subparagraph (A)—
+
+    (i) are consistent with Federal law and Peace Corps policy; and
+
+    (ii) are based upon operational and programmatic factors.
+
+  (D) The term of any appointment or assignment to any position designated pursuant to subparagraph (A) may not exceed 5 years.
+
 **(b) Repealed. Pub. L. 96–465, title II, § 2205(9), Oct. 17, 1980, 94 Stat. 2160**
 
 **(c) Peace Corps representatives; terms and conditions of service; removal** In each country or area in which volunteers serve abroad, the President may appoint an employee or a volunteer as a Peace Corps representative to have direction of other employees of the Peace Corps abroad and to oversee the activities carried on under this chapter in such country or area. Unless a representative is a volunteer, the compensation, allowances and benefits, and other terms and conditions of service of each such representative, shall be the same as those of a person appointed, or assigned pursuant to paragraph (1) or (2) of subsection (a) of this section, except that any such representative may, notwithstanding any provision of law, be removed by the President in his discretion.
@@ -630,6 +758,8 @@ The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 
 Amendment by Pub. L. 98–473 is based on section 703 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
+2018—Subsec. (a)(8). Pub. L. 115–256 added par. (8).
+
 2011—Subsec. (a)(3). Pub. L. 112–57, § 5(1), inserted “, or contracted with for personal services under [section 2509(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2509/a/5&num=0&edition=prelim),” after “employed, appointed, or assigned under this subsection”.
 
 Subsec. (a)(7). Pub. L. 112–57, § 6, added par. (7).
@@ -706,9 +836,11 @@ Pub. L. 89–134, § 5(b), Aug. 24, 1965, 79 Stat. 551, provided that: “Under 
 
 <a id="section-2507"></a>
 ## § 2507. Training program
-**(a) Applicants for enrollment and enrolled volunteers** The President shall make provision for such training, including training under [section 2507a of this title](./chapter-034-the-peace-corps.md#section-2507a), as he deems appropriate for each applicant for enrollment as a volunteer and each enrolled volunteer. All of the provisions of this chapter applicable respectively to volunteers and volunteer leaders shall be applicable to applicants for enrollment as such during any period of training occurring prior to enrollment, and the respective terms “volunteers” and “volunteer leaders” shall include such applicants during any such period of training.
+**(a) Applicants for enrollment and enrolled volunteers** The President shall make provision for such training, including training under [section 2507a of this title](./chapter-034-the-peace-corps.md#section-2507a), as the President deems appropriate for each applicant for enrollment as a volunteer and each enrolled volunteer. All of the provisions of this chapter applicable respectively to volunteers and volunteer leaders shall be applicable to applicants for enrollment as such during any period of training occurring prior to enrollment, and the respective terms “volunteers” and “volunteer leaders” shall include such applicants during any such period of training. As part of the training provided to all volunteers under subsection (a), and in coordination with the Inspector General of the Peace Corps, the President shall provide all volunteers with information regarding the mandate of the Inspector General and the availability (including contact information) of the Inspector General and the Office of Victim Advocacy as a resource for volunteers. The President shall ensure that volunteers receive such information at least once during training that occurs prior to enrollment and at least once during each significant instance of training after enrollment.
 
 **(b) Citizen trainees for voluntary programs; foreign nationals as trainees; advances of funds or reimbursement basis; use of credits** The President may also make provision, on the basis of advances of funds or reimbursement to the United States, for training for citizens of the United States, other than those referred to in subsection (a) of this section, who have been selected for service abroad in programs not carried out under authority of this chapter which are similar to those authorized by this chapter. The provisions of [section 2508 of this title](./chapter-034-the-peace-corps.md#section-2508) shall apply, on a similar advance of funds or a reimbursement basis, with respect to persons while within the United States for training under authority of this subsection. Advances or reimbursements received under this subsection may be credited to the current applicable appropriation, fund, or account and shall be available for the purposes for which such appropriation, fund, or account is authorized to be used.
+
+**(c) Training records** The President shall implement procedures to maintain a record verifying each individual completing training provided to meet each requirement in this section and sections 2507a, 2507b, 2507f, and 2507g(b) of this title.
 
 ### Statutory Notes
 
@@ -716,6 +848,10 @@ Pub. L. 89–134, § 5(b), Aug. 24, 1965, 79 Stat. 551, provided that: “Under 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–256, § 201(1) substituted “the President deems” for “he deems” and inserted at end: “As part of the training provided to all volunteers under subsection (a), and in coordination with the Inspector General of the Peace Corps, the President shall provide all volunteers with information regarding the mandate of the Inspector General and the availability (including contact information) of the Inspector General and the Office of Victim Advocacy as a resource for volunteers. The President shall ensure that volunteers receive such information at least once during training that occurs prior to enrollment and at least once during each significant instance of training after enrollment.”
+
+Subsec. (c). Pub. L. 115–256, § 201(2), added subsec. (c).
+
 2011—Subsec. (a). Pub. L. 112–57 inserted “, including training under [section 2507a of this title](./chapter-034-the-peace-corps.md#section-2507a),” after “for such training”.
 
 1992—Subsec. (c). Pub. L. 102–511 struck out subsec. (c) which read as follows: “Training hereinabove provided for shall include instruction in the philosophy, strategy, tactics, and menace of communism.”
@@ -732,7 +868,23 @@ Functions of President under this section delegated to Director of Peace Corps b
 
 **(c) Subsequent training** Once a volunteer has arrived in his or her country of service, the President shall provide the volunteer with training tailored to the country of service that includes cultural training relating to gender relations, risk-reduction strategies, treatment available in such country (including sexual assault forensic exams, post-exposure prophylaxis (PEP) for HIV exposure, screening for sexually transmitted diseases, and pregnancy testing), MedEvac procedures, and information regarding a victim’s right to pursue legal action against a perpetrator.
 
-**(d) Information regarding crimes and risks** Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country.
+**(d) Information regarding crimes and risks**
+
+(1) **In general** — Each applicant for enrollment as a volunteer shall be provided, with respect to each country in which the applicant may be invited to serve, with specific, aggregated, and easily accessible information regarding crimes against and risks to volunteers, including—
+
+  (A) an overview of past crimes against volunteers in such country, including statistics regarding unreported crime collected through anonymous surveys;
+
+  (B) the current early termination rate of volunteers serving in such country;
+
+  (C) health risks prevalent in such country;
+
+  (D) the nature and frequency of sexual harassment reported by volunteers serving in such country;
+
+  (E) the extent and types of services provided by the Peace Corps to volunteers serving in such country, including access to medical care, counseling services, and assistance from the Office of Victim Advocacy; and
+
+  (F) the level of satisfaction reported by volunteers serving in such country.
+
+(2) **Option to timely decline** — Upon receiving information 11 So in original. Probably should be preceded by “the”. described in paragraph (1), the applicant shall have the option to change the country of consideration and identify a substitute country.
 
 **(e) Contact information** The President shall provide each applicant, before the applicant enrolls as a volunteer, with—
 
@@ -772,7 +924,7 @@ Functions of President under this section delegated to Director of Peace Corps b
 
     (ii) Peace Corps staff or law enforcement to prevent or lessen a serious or imminent threat to the health or safety of the victim or another person.
 
-    (iii) SARLs, victim advocates or healthcare providers when required for the provision of victim services.
+    (iii) SARLs, Victim’s Advocates, or healthcare providers when required for the provision of victim services.
 
     (iv) State and Federal courts when ordered, or if disclosure is required by Federal or State statute.
 
@@ -792,6 +944,11 @@ Functions of President under this section delegated to Director of Peace Corps b
 
 ### Statutory Notes
 
+#### Amendments
+2018—Subsec. (d). Pub. L. 115–256, § 302(1), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country.”
+
+Subsec. (f)(2)(B)(iii). Pub. L. 115–256, § 302(2), substituted “Victim’s Advocates,” for “victim advocates”.
+
 #### Offset of Costs and Personnel
 Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that: “Notwithstanding any other provision of law, the Direct [probably should be “Director”] of the Peace Corps shall— “(1) eliminate such initiatives, positions, and programs within the Peace Corps (other than within the Office of Inspector General) as the Director deems necessary to ensure any and all costs incurred to carry out the provisions of this Act [see Short Title of 2011 Amendment note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501)], and the amendments made by this Act, are entirely offset; “(2) ensure no net increase in personnel are added to carry out the provisions of this Act, with any new full or part time employees or equivalents offset by eliminating an equivalent number of existing staff (other than within the Office of Inspector General); “(3) report to Congress not later than 60 days after the date of the enactment of this Act [Nov. 21, 2011] the actions taken to ensure compliance with paragraphs (1) and (2), including the specific initiatives, positions, and programs within the Peace Corps that have been eliminated to ensure that the costs of carrying out this Act will be offset; and “(4) not implement any other provision of this Act (other than paragraphs (1), (2), and (3)) or any amendment made by this Act until the Director has certified that the actions specified in paragraphs (1), (2), and (3) have been completed.”
 
@@ -804,13 +961,29 @@ Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that: “Notwiths
 
 (2) mandates, for each Peace Corps country program, the designation of a Sexual Assault Response Liaison (SARL), who shall receive comprehensive training on procedures to respond to reports of sexual assault, with duties including ensuring that volunteers who are victims of sexual assault are moved to a safe environment and accompanying victims through the in-country response at the request of the victim;
 
-(3) requires SARLs to immediately contact a Victim Advocate upon receiving a report of sexual assault in accordance with the restricted and unrestricted reporting guidelines promulgated by the Peace Corps;
+(3) requires any employee of the Peace Corps to immediately contact a Victim’s Advocate upon receiving a report of sexual assault in accordance with the restricted and unrestricted reporting guidelines promulgated by the Peace Corps and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c);
 
 (4) to the extent practicable, conforms to best practices in the sexual assault field;
 
-(5) is applicable to all posts at which volunteers serve; and
+(5) is applicable to all posts at which volunteers serve;
 
-(6) includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault.
+(6) includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault; and
+
+(7) maintains a record documenting the resignation of any employee or volunteer of the Peace Corps who resigns before a determination has been made regarding an alleged violation of the sexual misconduct policy or other serious policy violations;
+
+(8) takes into account the record maintained under paragraph (7) before such employee or volunteer is hired, enrolled, or otherwise invited to work with the Peace Corps;
+
+(9) provides orientation or information regarding the awareness and prevention of sexual assault and sexual harassment to—
+
+  (A) Peace Corps-selected host families; and
+
+  (B) a designated person of authority at the volunteer’s initial workplace; and
+
+(10) ensures, to the extent practicable and appropriate, that any assault on, or any harm or injury to, a volunteer that is committed by any member of a host family or any national of a host country that was assigned by the Peace Corps to facilitate volunteer work is—
+
+  (A) documented in an appropriate site history file and in the global tracking and recording system established pursuant to [section 2507h(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2507h/c&num=0&edition=prelim); and
+
+  (B) taken into account with respect to determinations regarding placements of future volunteers at such post and the provision of any funds or other benefit by the Peace Corps.
 
 **(b) Development and consultation with experts** In developing the sexual assault policy under subsection (a), the President shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field, including experts with international experience.
 
@@ -834,16 +1007,23 @@ Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that: “Notwiths
 
 **(d) Training** The President shall train all staff outside the United States regarding the sexual assault policy developed under subsection (a).
 
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–256, § 303(1), substituted “any employee of the Peace Corps” for “SARLs”, “Victim’s Advocate” for “Victim Advocate”, and inserted “and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c)” before semicolon at end.
+
+Subsec. (a)(7) to (10). Pub. L. 115–256, § 303(2)–(4), added pars. (7) to (10).
+
 
 <a id="section-2507c"></a>
 ## § 2507c. Office of Victim Advocacy
 **(a) Establishment of Office of Victims 11 So in original. Probably should be “Victim”. Advocacy**
 
-(1) **In general** — The President shall establish an Office of Victim Advocacy in Peace Corps headquarters headed by a full-time victim advocate who shall report directly to the Director. The Office of Victim Advocacy may deploy personnel abroad when necessary to help assist victims.
+(1) **In general** — The President shall establish an Office of Victim Advocacy in Peace Corps headquarters headed by a full-time Victim’s Advocate who shall report directly to the Director. The Office of Victim Advocacy may deploy personnel abroad when necessary to help assist victims.
 
-(2) **Prohibition** — Peace Corps Medical Officers, Safety and Security Officers, and program staff may not serve as victim advocates. The victim advocate referred to in paragraph (1) may not have any other duties in the Peace Corps that are not reasonably connected to victim advocacy.
+(2) **Prohibition** — Peace Corps Medical Officers, Safety and Security Officers, and program staff may not serve as Victim’s Advocates. The Victim’s Advocate referred to in paragraph (1) may not have any other duties in the Peace Corps that are not reasonably connected to victim advocacy.
 
-(3) **Exemption** — The victim advocate and any additional victim advocates shall be exempt from the limitations specified in subparagraphs (A) and (B) of paragraph (2) and paragraph (5) under [section 2506(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2506/a&num=0&edition=prelim).
+(3) **Exemption** — The Victim’s Advocate and any additional Victim’s Advocates shall be exempt from the limitations specified in subparagraphs (A) and (B) of paragraph (2) and paragraph (5) under [section 2506(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2506/a&num=0&edition=prelim).
 
 **(b) Responsibilities**
 
@@ -857,16 +1037,23 @@ Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that: “Notwiths
 
 **(d) Transition** The Office of Victim Advocacy shall assist volunteers who are victims of crime and whose service has terminated in receiving the services specified in [section 2507b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2507b/c&num=0&edition=prelim) requested by such volunteer.
 
-**(e) Sunset** This section shall cease to be effective on October 1, 2018.
+**(e) Policymaking** The Director of the Peace Corps shall include the head of the Office of Victim Advocacy in agency-wide policymaking processes in the same manner and to the same extent as the directors or associate directors of other offices within the Peace Corps.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–256, § 304(1), (2), substituted “Victim’s Advocate” for “victim advocate” and “Victim’s Advocates” for “victim advocates” wherever appearing.
+
+Subsec. (e). Pub. L. 115–256, § 304(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “This section shall cease to be effective on October 1, 2018.”
 
 
 <a id="section-2507d"></a>
 ## § 2507d. Establishment of Sexual Assault Advisory Council
 **(a) Establishment** There is established a Sexual Assault Advisory Council (in this section referred to as the “Council”).
 
-**(b) Membership** The Council shall be composed of not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011, who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. No Peace Corps employee shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
+**(b) Membership** The Council shall be composed of not fewer than 8 and not more than 14 individuals selected by the President who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization. No Peace Corps employee shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
 
-**(c) Functions; meetings** The Council shall meet not less often than annually to review the sexual assault risk-reduction and response training developed under [section 2507a of this title](./chapter-034-the-peace-corps.md#section-2507a), the sexual assault policy developed under [section 2507b of this title](./chapter-034-the-peace-corps.md#section-2507b), and such other matters related to sexual assault the Council views as appropriate, to ensure that such training and policy conform to the extent practicable to best practices in the sexual assault field.
+**(c) Functions; meetings** The Council shall meet not less often than annually to review the sexual assault risk-reduction and response training developed under [section 2507a of this title](./chapter-034-the-peace-corps.md#section-2507a), the sexual assault policy developed and implemented under [section 2507b of this title](./chapter-034-the-peace-corps.md#section-2507b), and such other matters related to sexual assault the Council views as appropriate, to ensure that such training and policy conform to the extent practicable to best practices in the sexual assault field. To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that such volunteers provide the Peace Corps express consent to be interviewed by the Council), to volunteer surveys under [section 2507e of this title](./chapter-034-the-peace-corps.md#section-2507e), to all data collected from restricted reporting, and to any other information necessary to conduct case reviews, except that the Council may not have access to any personally identifying information associated with such surveys, data, or information.
 
 **(d) Reports** On an annual basis for 5 years after November 21, 2011, and at the discretion of the Council thereafter, the Council shall submit to the President and the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on its findings based on the reviews conducted pursuant to subsection (c).
 
@@ -874,21 +1061,28 @@ Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that: “Notwiths
 
 **(f) Nonapplicability of FACA** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
 
-**(g) Sunset** This section shall cease to be effective on October 1, 2018.
+**(g) Sunset** This section shall cease to be effective on October 1, 2023.
 
 ### Statutory Notes
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–256, § 305(1), substituted “not fewer than 8 and not more than 14 individuals selected by the President” for “not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011,” and inserted “At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization.” after “sexual assault field.”
+
+Subsec. (c). Pub. L. 115–256, § 305(2), inserted “and implemented” after “sexual assault policy developed” and inserted at end “To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that such volunteers provide the Peace Corps express consent to be interviewed by the Council), to volunteer surveys under [section 2705e of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2705e&num=0&edition=prelim), to all data collected from restricted reporting, and to any other information necessary to conduct case reviews, except that the Council may not have access to any personally identifying information associated with such surveys, data, or information.”
+
+Subsec. (g). Pub. L. 115–256, § 305(3), substituted “2023” for “2018”.
+
 
 <a id="section-2507e"></a>
 ## § 2507e. Volunteer feedback and Peace Corps review
 **(a) Monitoring and evaluation** Not later than 1 year after November 21, 2011, the President shall establish goals, metrics, and monitoring and evaluation plans for all Peace Corps programs. Monitoring and evaluation plans shall incorporate best practices from monitoring and evaluation studies and analyses.
 
-**(b) Performance plans and elements** The President shall establish performance plans with performance elements and standards for Peace Corps representatives and shall review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of the President to remove a Peace Corps representative.
+**(b) Performance plans and elements** The President shall establish performance plans with performance elements and standards for Peace Corps representatives, ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c),,11 So in original. and review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of the President to remove a Peace Corps representative.
 
-**(c) Annual volunteer surveys** Annually through September 30, 2018, the President shall conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (a).
+**(c) Annual volunteer surveys** Annually through September 30, 2023, the President shall conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (b). The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.
 
 **(d) Peace Corps Inspector General** The Inspector General of the Peace Corps shall—
 
@@ -916,9 +1110,16 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
   (E) An evaluation of the effectiveness of management of each post within a country.
 
-  (F) An evaluation of the country’s congruence with the Peace Corp’s 11 So in original. Probably should be “Corps’ ”. mission and strategic priorities.
+  (F) An evaluation of the country’s congruence with the Peace Corp’s 22 So in original. Probably should be “Corps’ ”. mission and strategic priorities.
 
 (2) **Briefing** — Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall brief such committees on each portfolio review required under paragraph (1). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–256, § 202(1), inserted “, ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c),” after “standards for Peace Corps representatives” and substituted “, and review” for “and shall review”.
+
+Subsec. (c). Pub. L. 115–256, § 202(2), substituted “2023” for “2018”, “subsection (b)” for “subsection (a)”, and inserted at end “The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.”
 
 
 <a id="section-2507f"></a>
@@ -1034,6 +1235,18 @@ Functions of President under this section delegated to Director of Peace Corps b
 
 **(j) Malpractice protection** The provisions of [section 2702 of this title](./chapter-038-department-of-state.md#section-2702) shall apply to volunteers and persons employed, appointed, or assigned under this chapter, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section..11 So in original. For purposes of this subsection, references to the Secretary in subsection (b) of such section shall be deemed to be references to the Director of the Peace Corps, references to the Secretary in subsection (f) of such section shall be deemed to be references to the President, and the reference in subsection (g) of such section to a principal representative of the United States shall be deemed to be a reference to a Peace Corps representative.
 
+**(k) Opening or closing overseas offices and country programs**
+
+(1) Except as provided in paragraph (2), the Director of the Peace Corps may not open, close, significantly reduce, or suspend a domestic or overseas office or country program unless the Director has notified and consulted with the appropriate congressional committees at least 15 days in advance.
+
+(2) The Director of the Peace Corps may waive the application of paragraph (1) for a period of not more than 5 days after an action described in such paragraph if the Director determines such action is necessary to ameliorate a substantial security risk to Peace Corps volunteers or other Peace Corps personnel.
+
+(3) For the purposes of this subsection, the term “appropriate congressional committees” means—
+
+  (A) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
+
+  (B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1047,6 +1260,8 @@ The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Ma
 In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2018—Subsec. (k). Pub. L. 115–256 added subsec. (k).
+
 2011—Subsec. (a)(5). Pub. L. 112–57 substituted “the purposes of any law administered by the Office of Personnel Management (except that the President may determine the applicability to such individuals of provisions of the Foreign Service Act of 1980 ([22 U.S.C. 3901](./chapter-052-foreign-service.md#section-3901) et seq.))” for “any purpose”.
 
 1999—Subsec. (a)(4). Pub. L. 106–30 substituted “[section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim)” for “[31 U.S.C. 665(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section665/b&num=0&edition=prelim)”.
@@ -1499,33 +1714,44 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 
 <a id="section-2522"></a>
 ## § 2522. Definitions
-**(a)** The term “abroad” means any area outside the United States.
 
-**(b)** The term “United States” means the several States and the District of Columbia.
+In this chapter:
 
-**(c)** The term “function” includes any duty, obligation, right, power, authority, responsibility, privilege, discretion, activity, and program.
+(1) The term “abroad” means any area outside the United States.
 
-**(d)** The term “health care” includes all appropriate examinations, preventive, curative and restorative health and medical care, and supplementary services when necessary.
+(2) The term “function” includes any duty, obligation, right, power, authority, responsibility, privilege, discretion, activity, and program.
 
-**(e)** For the purposes of this chapter or any other Act, the period of any individual’s service as a volunteer under this chapter shall include—
+(3) The term “health care” includes all appropriate examinations, preventive, curative and restorative health and medical care, and supplementary services when necessary.
 
-(i) except for the purposes of [section 2504(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/f&num=0&edition=prelim), any period of training under [section 2507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2507/a&num=0&edition=prelim) prior to enrollment as a volunteer under this chapter; and
+(4) The term “medical officer” means a physician, nurse practitioner, physician’s assistant, or registered nurse with the professional qualifications, expertise, and abilities consistent with the needs of the Peace Corps and the post to which he or she is assigned, as determined by the Director of the Peace Corps.
 
-(ii) the period between enrollment as a volunteer and the termination of service as such volunteer by the President or by death or resignation.
+(5) The word “transportation” in sections 2504(b), 2504(m),11 So in original. See References in Text note below. and 2505(2) of this title includes transportation of not to exceed three hundred pounds per person of unaccompanied necessary personal and household effects.
 
-**(f)** The term “United States Government agency” includes any department, board, wholly or partly owned corporation, or instrumentality, commission, or establishment of the United States Government.
+(6) The term “United States” means the several States and the District of Columbia.
 
-**(g)** The word “transportation” in sections 2504(b), 2504(m), and 2505(2) of this title includes transportation of not to exceed three hundred pounds per person of unaccompanied necessary personal and household effects.
+(7) The term “United States Government agency” includes any department, board, wholly or partly owned corporation, or instrumentality, commission, or establishment of the United States Government.
+
+(8) For the purposes of this chapter or any other Act, the period of any individual’s service as a volunteer under this chapter shall include—
+
+  (i) except for the purposes of section 2504(f) 1 of this title, any period of training under [section 2507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2507/a&num=0&edition=prelim) prior to enrollment as a volunteer under this chapter; and
+
+  (ii) the period between enrollment as a volunteer and the termination of service as such volunteer by the President or by death or resignation.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in introductory provisions and par. (8), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+
+[Section 2504(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/m&num=0&edition=prelim), referred to in par. (5), was redesignated section 2504(n) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
+
+[Section 2504(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/f&num=0&edition=prelim), referred to in par. (8)(i), was redesignated section 2504(g) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
 #### Prior Provisions
 A prior section 26 of Pub. L. 87–293 was renumbered section 27 and is classified to [section 2523 of this title](./chapter-034-the-peace-corps.md#section-2523).
 
 #### Amendments
+2018—Pub. L. 115–256 inserted introductory provisions, redesignated subsecs. (a), (b), (c), (d), (e), (f), and (g) as pars. (1), (6), (2), (3), (8), (7), and (5), respectively, so as to appear in numerical order, realigned margins, and added par. (4) defining “medical officer” after par. (3).
+
 1970—Subsec. (g). Pub. L. 91–352 inserted reference to [section 2504(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/m&num=0&edition=prelim).
 
 1966—Subsec. (b). Pub. L. 89–572 struck out territories from definition of “United States”.

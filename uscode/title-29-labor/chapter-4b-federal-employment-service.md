@@ -885,6 +885,27 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)(2)
+Pub. L. 115–224, § 4, title III, § 301, July 31, 2018, 132 Stat. 1564, 1622, provided that, effective July 1, 2019, subsection (e)(2) of this section is amended—
+
+(1) by striking subparagraph (B) and inserting the following:
+
+“(B) consult with eligible agencies (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim))), State educational agencies, and local educational agencies concerning the provision of workforce and labor market information in order to—
+
+“(i) meet the needs of secondary school and postsecondary school students who seek such information; and
+
+“(ii) annually inform the development and implementation of programs of study defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim)), and career pathways;”;
+
+(2) in subparagraph (G), by striking “and” after the semicolon;
+
+(3) in subparagraph (H), by striking the period at the end and inserting “; and”; and
+
+(4) by adding at the end the following:
+
+“(I) provide, on an annual and timely basis to each eligible agency (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim))), the data and information described in subparagraphs (A) and (B) of subsection (a)(1).”
+
+See 2018 Amendment notes below.
+
 #### References in Text
 Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 134(d) of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to [section 2864(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/d&num=0&edition=prelim). The Wagner-Peyser Act, of which this section is a part, does not contain a section 134.
 
@@ -896,6 +917,10 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set out as a Short Title note under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49).
 
 #### Amendments
+2018—Subsec. (e)(2)(B). Pub. L. 115–224, § 301(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;”.
+
+Subsec. (e)(2)(I). Pub. L. 115–224, § 301(2)–(4), added subpar. (I).
+
 2014—Pub. L. 113–128, § 308(a), substituted “Workforce and labor market information system” for “Employment statistics” in section catchline.
 
 Subsec. (a)(1). Pub. L. 113–128, § 308(b), substituted “workforce and labor market information system” for “employment statistics system of employment statistics” in introductory provisions.
@@ -927,6 +952,9 @@ Subsec. (g). Pub. L. 113–128, § 308(g), substituted “$60,153,000 for fiscal
 Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(A)], struck out “of this section” after “statistical purposes”.
 
 Subsec. (e)(2)(G). Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(B)], and Pub. L. 105–332, § 5(b)(1)(B), amended subpar. (G) identically, substituting “comple­mentarity” for “complementary”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).

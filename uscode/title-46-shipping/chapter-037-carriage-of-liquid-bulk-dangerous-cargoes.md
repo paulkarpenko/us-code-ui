@@ -13,9 +13,7 @@ In this chapter—
 
 (1) “existing”, when referring to a type of vessel to which this chapter applies, means a vessel that is not a new vessel.
 
-(2) Repealed. Pub. L. 100–424, § 8(c)(2), Sept. 9, 1988, 102 Stat. 1593.]
-
-(3) “new”, when referring to a type of vessel to which this chapter applies, means a vessel—
+(2) “new”, when referring to a type of vessel to which this chapter applies, means a vessel—
 
   (A) for which the building contract is placed after June 1, 1979;
 
@@ -25,7 +23,7 @@ In this chapter—
 
   (D) that has undergone a major conversion under a contract made after June 1, 1979, or construction work that began after January 1, 1980, or was completed after June 1, 1982.
 
-(4) “person” means an individual (even if not a citizen or national of the United States), a corporation, partnership, association, or other entity (even if not organized or existing under the laws of a State), the United States Government, a State or local government, a government of a foreign country, or an entity of one of those governments.
+(3) “person” means an individual (even if not a citizen or national of the United States), a corporation, partnership, association, or other entity (even if not organized or existing under the laws of a State), the United States Government, a State or local government, a government of a foreign country, or an entity of one of those governments.
 
 ### Statutory Notes
 
@@ -42,6 +40,8 @@ In this chapter—
 Section 3701 contains definitions that are of a special nature with limited applicability to this chapter.
 
 #### Amendments
+2018—Pars. (2) to (4). Pub. L. 115–232 redesignated pars. (3) and (4) as (2) and (3), respectively.
+
 1988—Par. (2). Pub. L. 100–424 struck out par. (2) which read as follows: “ ‘major conversion’ means a conversion of an existing vessel that substantially changes the dimensions or carrying capacity of the vessel or changes the type of vessel or substantially prolongs its life or that otherwise so changes the vessel that it is essentially a new vessel, as decided by the Secretary.”
 
 1986—Pars. (5), (6). Pub. L. 99–509 struck out par. (5) defining “State” as including Trust Territory of the Pacific Islands in addition to its meaning under [section 2101(36) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/36&num=0&edition=prelim), and struck out par. (6) defining “United States” as including the Trust Territory of the Pacific Islands in addition to its meaning under [section 2101(44) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/44&num=0&edition=prelim).
@@ -206,21 +206,11 @@ Pub. L. 101–380, title IV, § 4116(c), (d), Aug. 18, 1990, 104 Stat. 523, as a
 
 (2) a vessel of less than 5,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) equipped with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil;
 
-(3) before January 1, 2015—
+(3) a vessel documented under chapter 121 of this title that was equipped with a double hull before August 12, 1992;
 
-  (A) a vessel unloading oil in bulk at a deepwater port licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501&num=0&edition=prelim) et seq.); or
+(4) a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
 
-  (B) a delivering vessel that is offloading in lightering activities—
-
-    (i) within a lightering zone established under [section 3715(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3715/b/5&num=0&edition=prelim); and
-
-    (ii) more than 60 miles from the baseline from which the territorial sea of the United States is measured;
-
-(4) a vessel documented under chapter 121 of this title that was equipped with a double hull before August 12, 1992;
-
-(5) a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
-
-(6) a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).11 See References in Text note below.
+(5) a vessel in the National Defense Reserve Fleet pursuant to section 57100.
 
 **(c)**
 
@@ -232,63 +222,15 @@ Pub. L. 101–380, title IV, § 4116(c), (d), Aug. 18, 1990, 104 Stat. 523, as a
 
   (C) had its appraised salvage value determined by the Coast Guard and is qualified for documentation as a wrecked vessel under [section 12112 of this title](./chapter-121-documentation-of-vessels.md#section-12112).
 
-(2) A vessel of less than 5,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation as a wrecked vessel under [section 12112 of this title](./chapter-121-documentation-of-vessels.md#section-12112) before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
+(2) A vessel of less than 5,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) for which a building contract or contract for major conversion was placed before June 30, 1990, and that was delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualified for documentation as a wrecked vessel under [section 12112 of this title](./chapter-121-documentation-of-vessels.md#section-12112) before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
 
-(3) A vessel for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation as a wrecked vessel under [section 12112 of this title](./chapter-121-documentation-of-vessels.md#section-12112) before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
+(3) A vessel for which a building contract or contract for major conversion was placed before June 30, 1990, and that was delivered under that contract before January 1, 1994, and a vessel that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualified for documentation as a wrecked vessel under [section 12112 of this title](./chapter-121-documentation-of-vessels.md#section-12112) before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
 
-  (A) in the case of a vessel of at least 5,000 gross tons but less than 15,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)—
+  (A) in the case of a vessel of at least 5,000 gross tons but less than 15,000 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 as prescribed by the Secretary under section 14104, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides;
 
-    (i) after January 1, 1995, if the vessel is 40 years old or older and has a single hull, or is 45 years old or older and has a double bottom or double sides;
+  (B) in the case of a vessel of at least 15,000 gross tons but less than 30,000 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 as prescribed by the Secretary under section 14104, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides; and
 
-    (ii) after January 1, 1996, if the vessel is 39 years old or older and has a single hull, or is 44 years old or older and has a double bottom or double sides;
-
-    (iii) after January 1, 1997, if the vessel is 38 years old or older and has a single hull, or is 43 years old or older and has a double bottom or double sides;
-
-    (iv) after January 1, 1998, if the vessel is 37 years old or older and has a single hull, or is 42 years old or older and has a double bottom or double sides;
-
-    (v) after January 1, 1999, if the vessel is 36 years old or older and has a single hull, or is 41 years old or older and has a double bottom or double sides;
-
-    (vi) after January 1, 2000, if the vessel is 35 years old or older and has a single hull, or is 40 years old or older and has a double bottom or double sides; and
-
-    (vii) after January 1, 2005, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides;
-
-  (B) in the case of a vessel of at least 15,000 gross tons but less than 30,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)—
-
-    (i) after January 1, 1995, if the vessel is 40 years old or older and has a single hull, or is 45 years old or older and has a double bottom or double sides;
-
-    (ii) after January 1, 1996, if the vessel is 38 years old or older and has a single hull, or is 43 years old or older and has a double bottom or double sides;
-
-    (iii) after January 1, 1997, if the vessel is 36 years old or older and has a single hull, or is 41 years old or older and has a double bottom or double sides;
-
-    (iv) after January 1, 1998, if the vessel is 34 years old or older and has a single hull, or is 39 years old or older and has a double bottom or double sides;
-
-    (v) after January 1, 1999, if the vessel is 32 years old or older and has a single hull, or 37 years old or older and has a double bottom or double sides;
-
-    (vi) after January 1, 2000, if the vessel is 30 years old or older and has a single hull, or is 35 years old or older and has a double bottom or double sides;
-
-    (vii) after January 1, 2001, if the vessel is 29 years old or older and has a single hull, or is 34 years old or older and has a double bottom or double sides;
-
-    (viii) after January 1, 2002, if the vessel is 28 years old or older and has a single hull, or is 33 years old or older and has a double bottom or double sides;
-
-    (ix) after January 1, 2003, if the vessel is 27 years old or older and has a single hull, or is 32 years old or older and has a double bottom or double sides;
-
-    (x) after January 1, 2004, if the vessel is 26 years old or older and has a single hull, or is 31 years old or older and has a double bottom or double sides; and
-
-    (xi) after January 1, 2005, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides; and
-
-  (C) in the case of a vessel of at least 30,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)—
-
-    (i) after January 1, 1995, if the vessel is 28 years old or older and has a single hull, or 33 years old or older and has a double bottom or double sides;
-
-    (ii) after January 1, 1996, if the vessel is 27 years old or older and has a single hull, or is 32 years old or older and has a double bottom or double sides;
-
-    (iii) after January 1, 1997, if the vessel is 26 years old or older and has a single hull, or is 31 years old or older and has a double bottom or double sides;
-
-    (iv) after January 1, 1998, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides;
-
-    (v) after January 1, 1999, if the vessel is 24 years old or older and has a single hull, or 29 years old or older and has a double bottom or double sides; and
-
-    (vi) after January 1, 2000, if the vessel is 23 years old or older and has a single hull, or is 28 years old or older and has a double bottom or double sides.
+  (C) in the case of a vessel of at least 30,000 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 as prescribed by the Secretary under section 14104, if the vessel is 23 years old or older and has a single hull, or is 28 years old or older and has a double bottom or double sides.
 
 (4) Except as provided in subsection (b) of this section—
 
@@ -300,46 +242,31 @@ Pub. L. 101–380, title IV, § 4116(c), (d), Aug. 18, 1990, 104 Stat. 523, as a
 
 **(e)**
 
-(1) For the purposes of this section and except as otherwise provided in paragraphs (2) and (3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or as an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104).
+(1) For the purposes of this section, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or as an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104).
 
-(2)
-
-  (A) The Secretary may waive the application of paragraph (1) to a tank vessel if—
-
-    (i) the owner of the tank vessel applies to the Secretary for the waiver before January 1, 1998;
-
-    (ii) the Secretary determines that—
-
-      (I) the owner of the tank vessel has entered into a binding agreement to alter the tank vessel in a shipyard in the United States to reduce the gross tonnage of the tank vessel by converting a portion of the cargo tanks of the tank vessel into protectively located segregated ballast tanks; and
-
-      (II) that conversion will result in a significant reduction in the risk of a discharge of oil;
-
-    (iii) at least 60 days before the date of the issuance of the waiver, the Secretary—
-
-      (I) publishes notice that the Secretary has received the application and made the determinations required by clause (ii), including a description of the agreement entered into pursuant to clause (ii)(I); and
-
-      (II) provides an opportunity for submission of comments regarding the application; and
-
-    (iv) the alterations referred to in clause (ii)(I) are completed before the later of—
-
-      (I) the date by which the first special survey of the tank vessel is required to be completed after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998; or
-
-      (II) July 1, 1999.
-
-  (B) A waiver under subparagraph (A) shall not be effective after the expiration of the 3-year period beginning on the first date on which the tank vessel would have been prohibited by subsection (c) from operating if the alterations referred to in subparagraph (A)(ii)(I) were not made.
-
-(3) This subsection does not apply to a tank vessel that, before July 1, 1997, had undergone, or was the subject of a contract for, alterations that reduce the gross tonnage of the tank vessel, as shown by reliable evidence acceptable to the Secretary.
+(2) This subsection does not apply to a tank vessel that, before July 1, 1997, had undergone, or was the subject of a contract for, alterations that reduce the gross tonnage of the tank vessel, as shown by reliable evidence acceptable to the Secretary.
 
 ### Statutory Notes
 
-#### References in Text
-The Deepwater Port Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501&num=0&edition=prelim) and Tables.
-
-Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (b)(6), is section 11 of act Mar. 8, 1946, ch. 82, 60 Stat. 49, which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified to [section 4405 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4405&num=0&edition=prelim).
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (e)(2)(A)(iv)(I), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
-
 #### Amendments
+2018—Subsec. (b)(3) to (6). Pub. L. 115–232, § 3544(a)(1), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which related to certain vessels before January 1, 2015, unloading oil in bulk or offloading in lightering activities.
+
+Subsec. (c)(2). Pub. L. 115–232, § 3544(a)(2), substituted “that was delivered” for “that is delivered” and “that qualified” for “that qualifies” and struck out “after January 1, 2015,” after “the United States”.
+
+Subsec. (c)(3). Pub. L. 115–232, § 3544(a)(3), in introductory provisions, substituted “that was delivered” for “that is delivered” and “that qualified” for “that qualifies”.
+
+Subsec. (c)(3)(A). Pub. L. 115–232, § 3544(a)(4), added subpar. (A) and struck out former subpar. (A) which set various age limits for vessels between 5,000 and 15,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302).
+
+Subsec. (c)(3)(B). Pub. L. 115–232, § 3544(a)(5), added subpar. (B) and struck out former subpar. (B) which set various age limits for vessels between 15,000 and 30,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302).
+
+Subsec. (c)(3)(C). Pub. L. 115–232, § 3544(a)(6), added subpar. (C) and struck out former subpar. (C) which set various age limits for vessels of at least 30,000 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302).
+
+Subsec. (e)(1). Pub. L. 115–232, § 3544(a)(7)(A), stuck out “and except as otherwise provided in paragraphs (2) and (3) of this subsection” after “purposes of this section”.
+
+Subsec. (e)(2), (3). Pub. L. 115–232, § 3544(a)(7)(B), redesignated par. (3) as (2) and struck out former par. (2) which related to waiver of the application of paragraph (1) to certain tank vessels.
+
+2017—Subsec. (b)(6). Pub. L. 115–91 substituted “section 57100” for “section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744)”.
+
 2006—Subsec. (c)(1)(C), (2), (3). Pub. L. 109–304 substituted “documentation as a wrecked vessel under [section 12112 of this title](./chapter-121-documentation-of-vessels.md#section-12112)” for “documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14)”.
 
 1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
@@ -402,17 +329,13 @@ Section 3704 requires any tank vessel that is entitled to engage in the coastwis
 
 (3) a cargo tank protection system consisting of a fixed deck froth system and a fixed inert gas system.
 
-**(b)**
+**(b)** An existing crude oil tanker of at least 40,000 deadweight tons shall be equipped with—
 
-(1) An existing crude oil tanker of at least 40,000 deadweight tons shall be equipped with—
+(1) segregated ballast tanks; or
 
-  (A) segregated ballast tanks; or
+(2) a crude oil washing system.
 
-  (B) a crude oil washing system.
-
-(2) Compliance with paragraph (1) of this subsection may be delayed until June 1, 1985, for any tanker of less than 70,000 deadweight tons that has dedicated clean ballast tanks.
-
-**(c)** An existing crude oil tanker of at least 20,000 deadweight tons but less than 40,000 deadweight tons, and at least 15 years of age, shall be equipped with segregated ballast tanks or a crude oil washing system before January 2, 1986, or the date on which the tanker reaches 15 years of age, whichever is later.
+**(c)** An existing crude oil tanker of at least 20,000 deadweight tons but less than 40,000 deadweight tons, and at least 15 years of age, shall be equipped with segregated ballast tanks or a crude oil washing system.
 
 **(d)** An existing crude oil tanker of at least 20,000 deadweight tons shall be equipped with an inert gas system. However, for a crude oil tanker of less than 40,000 deadweight tons not fitted with high capacity tank washing machines, the Secretary may grant an exemption if the vessel’s owner can show clearly that compliance would be unreasonable and impracticable due to the vessel’s design characteristics.
 
@@ -441,6 +364,11 @@ Section 3705(d) requires existing crude oil tankers of 20,000 deadweight tons or
 
 Section 3705(e) requires existing crude oil tankers of 20,000 deadweight tons or above, engaged in the transfer of oil from Outer Continental Shelf oil exploitation or production facilities, to have segregated ballast tanks or be operated with dedicated clean ballast tanks or special ballast arrangements.
 
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–232, § 3544(b)(1), struck out par. (1) designation after “(b)”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “Compliance with paragraph (1) of this subsection may be delayed until June 1, 1985, for any tanker of less than 70,000 deadweight tons that has dedicated clean ballast tanks.”
+
+Subsec. (c). Pub. L. 115–232, § 3544(b)(2), struck out “before January 2, 1986, or the date on which the tanker reaches 15 years of age, whichever is later” before period at end.
+
 
 <a id="section-3706"></a>
 ## § 3706. Product carrier minimum standards
@@ -450,7 +378,7 @@ Section 3705(e) requires existing crude oil tankers of 20,000 deadweight tons or
 
 **(c)** An existing product carrier of at least 40,000 deadweight tons shall be equipped with segregated ballast tanks or may operate with dedicated clean ballast tanks.
 
-**(d)** An existing product carrier of at least 20,000 deadweight tons but less than 40,000 deadweight tons, and at least 15 years of age, shall be equipped with segregated ballast tanks or may operate with dedicated clean ballast tanks before January 2, 1986, or the date on which it reaches 15 years of age, whichever is later.
+**(d)** An existing product carrier of at least 20,000 deadweight tons but less than 40,000 deadweight tons, and at least 15 years of age, shall be equipped with segregated ballast tanks or may operate with dedicated clean ballast tanks.
 
 **(e)** An existing product carrier of at least 40,000 deadweight tons, or an existing product carrier of at least 20,000 deadweight tons but less than 40,000 deadweight tons that is fitted with high-capacity tank washing machines, shall be equipped with an inert gas system.
 
@@ -476,6 +404,9 @@ Section 3706(c) requires existing product carriers of 40,000 deadweight tons or 
 Section 3706(d) requires existing product carriers of 20,000 deadweight tons or above, but less than 40,000 deadweight tons, that are 15 years or older, to have segregated ballast tanks by January 1, 1985, or on the date on which it reaches 15 years of age or, in the alternative, that the vessel operate with dedicated clean ballast tanks.
 
 Section 3706(e) requires existing product carriers of 40,000 deadweight tons or above, or to existing product carriers, fitted with high-capacity tank washing machines, of 20,000 deadweight tons but less than 40,000 deadweight tons, to install an inert gas system.
+
+#### Amendments
+2018—Subsec. (d). Pub. L. 115–232 struck out “before January 2, 1986, or the date on which it reaches 15 years of age, whichever is later” before period at end.
 
 
 <a id="section-3707"></a>
@@ -747,7 +678,7 @@ The regulations to be prescribed by the Secretary shall include a number of spec
 Section 1016 of the Oil Pollution Act of 1990, referred to in subsec. (a)(3), is classified to [section 2716 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Amendments
-2016—Subsec. (a)(2). Pub. L. 114–120, § 306(a)(4), substituted semicolon for “; and”.
+2016—Subsec. (a)(2). Pub. L. 114–120 struck out “and” at end.
 
 1990—Subsec. (a)(3) to (5). Pub. L. 101–380 added pars. (3) to (5).
 
@@ -849,7 +780,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 <a id="section-3719"></a>
 ## § 3719. Reduction of oil spills from single hull non-self-propelled tank vessels
 
-The Secretary shall, in consultation with the Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and the size and nature of service of single hull non-self-propelled tank vessels and towing vessels, prescribe regulations requiring a single hull non-self-propelled tank vessel that operates in the open ocean or coastal waters, or the vessel towing it, to have at least one of the following:
+The Secretary shall, in consultation with the National Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and the size and nature of service of single hull non-self-propelled tank vessels and towing vessels, prescribe regulations requiring a single hull non-self-propelled tank vessel that operates in the open ocean or coastal waters, or the vessel towing it, to have at least one of the following:
 
 (1) A crew member and an operable anchor on board the tank vessel that together are capable of arresting the tank vessel without additional assistance under reasonably foreseeable sea conditions.
 
@@ -858,6 +789,9 @@ The Secretary shall, in consultation with the Towing Safety Advisory Committee a
 (3) Any other measure or combination of measures that the Secretary determines will provide protection against grounding of the tank vessel comparable to that provided by the measures described in paragraph (1) or (2).
 
 ### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–282 inserted “National” before “Towing Safety” in introductory provisions.
 
 #### Regulations
 Pub. L. 104–324, title IX, § 901(b), Oct. 19, 1996, 110 Stat. 3946, provided that: “The Secretary of the department in which the Coast Guard is operating shall issue regulations required under [section 3719 of title 46](./chapter-037-carriage-of-liquid-bulk-dangerous-cargoes.md#section-3719), United States Code, as added by subsection (a), by not later than October 1, 1997.”

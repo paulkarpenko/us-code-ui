@@ -2,7 +2,7 @@
 title: 38
 chapter: '7'
 heading: EMPLOYEES
-section_count: 20
+section_count: 23
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -59,13 +59,19 @@ Prior sections 703 and 704 were renumbered sections 1903 and 1904 of this title,
 
 Provisions similar to those in this section were contained in [section 233 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section233&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
 
+#### Outreach on Availability of Mental Health Services Available to Employees of the Department of Veterans Affairs
+Pub. L. 115–73, title II, § 202, Oct. 26, 2017, 131 Stat. 1241, provided that: “The Secretary of Veterans Affairs shall conduct a program of outreach to employees of the Department of Veterans Affairs to inform those employees of any mental health services, including telemedicine options, that are available to them.”
+
+#### Protocols To Address Threats Against Employees of the Department of Veterans Affairs
+Pub. L. 115–73, title II, § 203, Oct. 26, 2017, 131 Stat. 1241, provided that: “The Secretary of Veterans Affairs shall ensure protocols are in effect to address threats from individuals receiving health care from the Department of Veterans Affairs directed towards employees of the Department who are providing such health care.”
+
 #### Clinic Management Training for Employees at Medical Facilities of the Department of Veterans Affairs
 Pub. L. 113–146, title III, § 303, Aug. 7, 2014, 128 Stat. 1788, provided that: “(a) Clinic Management Training Program.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall commence a role-specific clinic management training program to provide in-person, standardized education on systems and processes for health care practice management and scheduling to all appropriate employees, as determined by the Secretary, at medical facilities of the Department. “(2) Elements.—“(A) In general.—The clinic management training program required by paragraph (1) shall include the following:“(i) Training on how to manage the schedules of health care providers of the Department, including the following: “(I) Maintaining such schedules in a manner that allows appointments to be booked at least eight weeks in advance. “(II) Proper planning procedures for vacation, leave, and graduate medical education training schedules. “(ii) Training on the appropriate number of appointments that a health care provider should conduct on a daily basis, based on specialty. “(iii) Training on how to determine whether there are enough available appointment slots to manage demand for different appointment types and mechanisms for alerting management of insufficient slots. “(iv) Training on how to properly use the appointment scheduling system of the Department, including any new scheduling system implemented by the Department. “(v) Training on how to optimize the use of technology, including the following: “(I) Telemedicine. “(II) Electronic mail. “(III) Text messaging. “(IV) Such other technologies as specified by the Secretary. “(vi) Training on how to properly use physical plant space at medical facilities of the Department to ensure efficient flow and privacy for patients and staff. “(B) Role-specific.—The Secretary shall ensure that each employee of the Department included in the clinic management training program required by paragraph (1) receives education under such program that is relevant to the responsibilities of such employee. “(3) Sunset.—The clinic management training program required by paragraph (1) shall terminate on the date that is 2 years after the date on which the Secretary commences such program. “(b) Training Materials.—“(1) In general.—After the termination of the clinic management training program required by subsection (a), the Secretary shall provide training materials on health care management to each of the following employees of the Department that are relevant to the position and responsibilities of such employee upon the commencement of employment of such employee:“(A) Any manager of a medical facility of the Department. “(B) Any health care provider at a medical facility of the Department. “(C) Such other employees of the Department as the Secretary considers appropriate. “(2) Update.—The Secretary shall regularly update the training materials required under paragraph (1).”
 
 [For definition of “facility of the Department” as used in section 303 of Pub. L. 113–146, set out above, see section 2 of Pub. L. 113–146, set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).]
 
 #### Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs
-Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, § 951, July 22, 2016, 130 Stat. 778, provided that: “(a) Limitation.—The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:“(1) With respect to each of fiscal years 2017 through 2018, $230,000,000. “(2) With respect to each of fiscal years 2019 through 2021, $225,000,000. “(3) With respect to each of fiscal years 2022 through 2024, $360,000,000. “(b) Sense of Congress.—It is the sense of Congress that the limitation under subsection (a) should not disproportionately impact lower-wage employees and that the Department of Veterans Affairs is encouraged to use bonuses to incentivize high-performing employees in areas in which retention is challenging.”
+Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, § 951, July 22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, § 305, June 6, 2018, 132 Stat. 1469, provided that: “(a) Limitation.—The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:“(1) With respect to each of fiscal years 2017 through 2018, $250,000,000, of which not less than $20,000,000 shall be for recruitment, relocation, and retention bonuses. “(2) With respect to each of fiscal years 2019 through 2021, $290,000,000, of which not less than $20,000,000 shall be for recruitment, relocation, and retention bonuses. “(3) With respect to each of fiscal years 2022 through 2024, $360,000,000. “(b) Sense of Congress.—It is the sense of Congress that the limitation under subsection (a) should not disproportionately impact lower-wage employees and that the Department of Veterans Affairs is encouraged to use bonuses to incentivize high-performing employees in areas in which retention is challenging.”
 
 
 <a id="section-705"></a>
@@ -286,7 +292,7 @@ A prior section 712 was renumbered [section 1912 of this title](./chapter-019-in
 A prior section 713 was renumbered [section 1913 of this title](./chapter-019-insurance.md#section-1913).
 
 #### Amendments
-2017—Pub. L. 115–41 amended section generally. Prior to amendment, section related to removal of senior executives based on performance or misconduct
+2017—Pub. L. 115–41 amended section generally. Prior to amendment, section related to removal of senior executives based on performance or misconduct.
 
 #### Construction
 Pub. L. 113–146, title VII, § 707(d), Aug. 7, 2014, 128 Stat. 1801, provided a rule of construction related to appeal of a removal, transfer, or other personnel action that was pending before Aug. 7, 2014, and provided that the authority provided by former [section 713 of this title](./chapter-007-employees.md#section-713) would be in addition to the authority provided by section 3592 or subchapter V of chapter 75 of title 5.
@@ -388,7 +394,7 @@ Pub. L. 113–146, title VII, § 707(c), Aug. 7, 2014, 128 Stat. 1800, provided 
 
   (A) in the case in which the Assistant Secretary determines to refer the whistleblower disclosure under [section 323(c)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section323/c/1/D&num=0&edition=prelim) to an office or other investigative entity, a final decision with respect to the whistleblower disclosure has been made by such office or other investigative entity; or
 
-  (B) in the case in which the Assistant Secretary determines not to the refer the whistleblower disclosure under such section, the Assistant Secretary makes such determination.
+  (B) in the case in which the Assistant Secretary determines not to the 11 So in original. refer the whistleblower disclosure under such section, the Assistant Secretary makes such determination.
 
 **(f) Termination of Investigations by Office of Special Counsel.—**
 
@@ -621,6 +627,95 @@ Pub. L. 115–41, title II, § 205(c), June 23, 2017, 131 Stat. 877, provided th
 (1) a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character; or
 
 (2) a position in the Senior Executive Service as a noncareer appointee (as such term is defined in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim)).
+
+
+<a id="section-726"></a>
+## § 726. Annual report on performance awards and bonuses awarded to certain high-level employees
+**(a) In General.—** Not later than 100 days after the end of each fiscal year, the Secretary shall submit to the appropriate committees of Congress a report that contains, for the most recent fiscal year ending before the submittal of the report, a description of all performance awards or bonuses awarded to each of the following:
+
+(1) Regional Office Director of the Department.
+
+(2) Director of a Medical Center of the Department.
+
+(3) Director of a Veterans Integrated Service Network.
+
+(4) Senior executive of the Department.
+
+**(b) Elements.—** Each report submitted under subsection (a) shall include the following with respect to each performance award or bonus awarded to an individual described in such subsection:
+
+(1) The amount of each award or bonus.
+
+(2) The job title of the individual awarded the award or bonus.
+
+(3) The location where the individual awarded the award or bonus works.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “appropriate committees of Congress” means the Committees on Veterans’ Affairs and Appropriations of the Senate and House of Representatives.
+
+(2) The term “senior executive” means—
+
+  (A) a career appointee; or
+
+  (B) an individual—
+
+    (i) in an administrative or executive position; and
+
+    (ii) appointed under section 7306(a) or [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim).
+
+(3) The term “career appointee” has the meaning given that term in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section 501(a) of Pub. L. 115–182, which directed that this section be added at the end of this chapter, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
+
+#### Amendments
+2018—Subsec. (c)(3). Pub. L. 115–251 struck out “, United States Code” after “of title 5”.
+
+
+<a id="section-727"></a>
+## § 727. Reassignment of senior executives
+**(a) Approval of Reassignments.—** No individual employed in a senior executive position at the Department may be reassigned to another such position at the Department unless such reassignment is approved in writing and signed by the Secretary.
+
+**(b) Semiannual Reports Required.—**
+
+(1) Not later than June 30 and December 31 of each year, the Secretary shall submit to Congress a report on the reassignment of individuals employed in senior executive positions at the Department to other such positions at the Department during the period covered by the report.
+
+(2) Each report submitted under paragraph (1) shall describe the purpose of each reassignment and the costs associated with such reassignment.
+
+(3) For purposes of paragraph (2), costs associated with a reassignment may only include the following:
+
+  (A) A salary increase.
+
+  (B) Temporary travel expenses for the individual or the family of the individual.
+
+  (C) Moving expenses.
+
+  (D) A paid incentive.
+
+**(c) Senior Executive Position Defined.—** In this section, the term “senior executive position” has the meaning given such term in [section 713(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section713/d&num=0&edition=prelim).
+
+
+<a id="section-728"></a>
+## § 728. Misuse of Department purchase cards
+**(a) In General.—**
+
+(1) The Secretary shall prohibit any employee of the Department who the Secretary or the Inspector General of the Department determines has knowingly misused a purchase card from serving as a purchase card holder or approving official.
+
+(2) Such a prohibition shall be in addition to any other applicable penalty.
+
+**(b) Misuse.—** For purposes of this section, the term “misuse” means—
+
+(1) splitting purchases;
+
+(2) exceeding applicable purchase card limits or purchase thresholds;
+
+(3) purchasing any unauthorized item;
+
+(4) using a purchase card without being an authorized purchase card holder; or
+
+(5) violating ethics standards.
 
 
 <a id="section-731"></a>

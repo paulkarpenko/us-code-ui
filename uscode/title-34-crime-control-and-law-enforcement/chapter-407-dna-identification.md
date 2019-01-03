@@ -26,6 +26,8 @@ source: >-
 
 (8) To ensure that the collection and processing of DNA evidence by law enforcement agencies from crimes, including sexual assault and other violent crimes against persons, is carried out in an appropriate and timely manner and in accordance with the protocols and practices developed under subsection (o)(1).
 
+(9) To increase the capacity of State and local prosecution offices to address the backlog of violent crime cases in which suspects have been identified through DNA evidence.
+
 **(b) Eligibility** For a State or unit of local government to be eligible to receive a grant under this section, the chief executive officer of the State or unit of local government shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require. The application shall, as required by the Attorney General—
 
 (1) provide assurances that the State or unit of local government has implemented, or will implement not later than 120 days after the date of such application, a comprehensive plan for the expeditious DNA analysis of samples in accordance with this section;
@@ -66,7 +68,9 @@ source: >-
 
   (C) For each of fiscal years 2014 through 2019, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
 
-(4) **Allocation of grant awards for audits** — For each of fiscal years 2014 through 2017, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
+(4) **Allocation of grant awards for audits** — For each of fiscal years 2014 through 2022, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
+
+(5) **Allocation of grant awards for prosecutors** — For each fiscal year, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(9), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
 
 **(d) Analysis of samples**
 
@@ -288,6 +292,12 @@ This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–5
 Section was formerly classified to [section 14135 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Subsec. (a)(9). Pub. L. 115–257, § 2(a)(1), added par. (9).
+
+Subsec. (c)(4). Pub. L. 115–107 substituted “2022” for “2017”.
+
+Subsec. (c)(5). Pub. L. 115–257, § 2(a)(2), added par. (5).
+
 2014—Subsec. (c)(3)(B). Pub. L. 113–182, § 2(1)(A), substituted “2014 through 2019” for “2010 through 2018”.
 
 Subsec. (c)(3)(C). Pub. L. 113–182, § 2(1)(B), substituted “2019” for “2018”.
@@ -397,7 +407,7 @@ Subsec. (j)(1) to (5). Pub. L. 108–405, § 202(b)(5), substituted pars. (1) to
 Subsec. (k) to (m). Pub. L. 108–405, § 202(b)(6), added subsecs. (k) to (m).
 
 #### Termination Date of 2013 Amendment
-Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134, provided that: “Effective on December 31, 2018, subsections (a)(6) and (n) of section 2 of the DNA Analysis Backlog Elimination Act of 2000 ([42 U.S.C. 14135(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135/a/6&num=0&edition=prelim) and (n)) [now [34 U.S.C. 40701(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40701/a/6&num=0&edition=prelim), (n)] are repealed.”
+Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134, as amended by Pub. L. 115–107, § 3(b), Jan. 8, 2018, 131 Stat. 2266, provided that: “Effective on December 31, 2023, subsections (a)(6) and (n) of section 2 of the DNA Analysis Backlog Elimination Act of 2000 ([42 U.S.C. 14135(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135/a/6&num=0&edition=prelim) and (n)) [now [34 U.S.C. 40701(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40701/a/6&num=0&edition=prelim), (n)] are repealed.”
 
 #### Reports to Congress
 Pub. L. 113–4, title X, § 1003, Mar. 7, 2013, 127 Stat. 131, provided that: “Not later than 90 days after the end of each fiscal year for which a grant is made for the purpose described in section 2(a)(7) of the DNA Analysis Backlog Elimination Act of 2000 [[34 U.S.C. 40701(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40701/a/7&num=0&edition=prelim)], as amended by section 1002, the Attorney General shall submit to Congress a report that— “(1) lists the States and units of local government that have been awarded such grants and the amount of the grant received by each such State or unit of local government; “(2) states the number of extensions granted by the Attorney General under section 2(n)(3) of the DNA Analysis Backlog Elimination Act of 2000 [[34 U.S.C. 40701(n)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40701/n/3&num=0&edition=prelim)], as added by section 1002; and “(3) summarizes the processing status of the samples of sexual assault evidence identified in Sexual Assault Forensic Evidence Reports established under section 2(n)(4) of the DNA Analysis Backlog Elimination Act of 2000 [[34 U.S.C. 40701(n)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40701/n/4&num=0&edition=prelim)], including the number of samples that have not been tested.”
@@ -662,7 +672,7 @@ Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended b
 
   (C) sustain or establish a training program for forensic nurse examiners.
 
-(2) **Directive to the Attorney General** — Not later than the beginning of fiscal year 2018, the Attorney General shall coordinate with the Secretary of Health and Human Services to inform Federally Qualified Health Centers, Community Health Centers, hospitals, colleges and universities, and other appropriate health-related entities about the role of forensic nurses and existing resources available within the Department of Justice and the Department of Health and Human Services to train or employ forensic nurses to address the needs of communities dealing with sexual assault, domestic violence, and elder abuse. The Attorney General shall collaborate on this effort with nongovernmental organizations representing forensic nurses.
+(2) **Directive to the Attorney General** — Not later than the beginning of fiscal year 2018, the Attorney General shall coordinate with the Secretary of Health and Human Services to inform Federally Qualified Health Centers, Community Health Centers, hospitals, colleges and universities, and other appropriate health-related entities about the role of forensic nurses, both adult and pediatric, and existing resources available within the Department of Justice and the Department of Health and Human Services to train or employ forensic nurses to address the needs of communities dealing with sexual assault, domestic violence, elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents. The Attorney General shall collaborate on this effort with nongovernmental organizations representing forensic nurses.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.
 
@@ -675,6 +685,8 @@ Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended b
 Section was formerly classified to [section 14136a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14136a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (c)(2). Pub. L. 115–107 inserted “, both adult and pediatric,” after “role of forensic nurses” and substituted “elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents” for “and elder abuse”.
+
 2016—Subsecs. (c), (d). Pub. L. 114–324 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 2014—Subsec. (c). Pub. L. 113–182 substituted “2015 through 2019” for “2009 through 2014”.

@@ -2,20 +2,37 @@
 title: 34
 chapter: '409'
 heading: NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
 <a id="section-40901"></a>
-## § 40901. Illegal immigrant gun purchase notification
-**(a) In general** Notwithstanding any other provision of law or of this chapter, all records obtained by the National Instant Criminal Background Check system relevant to whether an individual is prohibited from possessing a firearm because such person is an alien illegally or unlawfully in the United States shall be made available to U.S. Immigration and Customs Enforcement.
+## § 40901. Implementation plan
+**(a) In general** Not later than 1 year after March 23, 2018, the Attorney General, in coordination with the States and Indian tribal governments, shall establish, for each State or Indian tribal government, a plan to ensure maximum coordination and automation of the reporting or making available of appropriate records to the National Instant Criminal Background Check System established under [section 40901 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40901) and the verification of the accuracy of those records during a 4-year period specified in the plan. The records shall be limited to those of an individual described in subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) 11 So in original. Probably should be followed by a period.
 
-**(b) Regulations** The Attorney General, at his or her discretion, shall promulgate guidelines relevant to what records relevant to illegal aliens shall be provided pursuant to the provisions of this chapter.
+**(b) Benchmark requirements** Each plan established under this section shall include annual benchmarks to enable the Attorney General to assess the implementation of the plan, including—
 
-### Statutory Notes
+(1) qualitative goals and quantitative measures; and
 
-#### Codification
-Section was formerly classified in a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
+(2) a needs assessment, including estimated compliance costs.
+
+**(c) Compliance determination** Not later than the end of each fiscal year beginning after the date of the establishment of an implementation plan under this section, the Attorney General shall determine whether each State or Indian tribal government has achieved substantial compliance with the benchmarks included in the plan.
+
+**(d) Accountability** The Attorney General—
+
+(1) shall disclose and publish, including on the website of the Department of Justice—
+
+  (A) the name of each State or Indian tribal government that received a determination of failure to achieve substantial compliance with an implementation plan under subsection (c) for the preceding fiscal year; and
+
+  (B) a description of the reasons for which the Attorney General has determined that the State or Indian tribal government is not in substantial compliance with the implementation plan, including, to the greatest extent possible, a description of the types and amounts of records that have not been submitted; and
+
+(2) if a State or Indian tribal government described in paragraph (1) subsequently receives a determination of substantial compliance, shall—
+
+  (A) immediately correct the applicable record; and
+
+  (B) not later than 3 days after the determination, remove the record from the website of the Department of Justice and any other location where the record was published.
+
+**(e) Incentives** For each of fiscal years 2018 through 2022, the Attorney General shall give affirmative preference to all Bureau of Justice Assistance discretionary grant applications of a State or Indian tribal government that received a determination of substantial compliance under subsection (c) for the fiscal year in which the grant was solicited.
 
 
 <a id="section-40902"></a>
@@ -97,11 +114,75 @@ Section was formerly classified in a note under [section 922 of Title 18](https:
 
   (E) *Annual report* — The Attorney General shall submit an annual report to Congress that describes the compliance of each department or agency with the provisions of this paragraph.
 
+  (F) *Semiannual certification and reporting*
+
+    (i) *In general* — The head of each Federal department or agency shall submit a semiannual written certification to the Attorney General indicating whether the department or agency is in compliance with the record submission requirements under subparagraph (C).
+
+    (ii) *Submission dates* — The head of a Federal department or agency shall submit a certification to the Attorney General under clause (i)—
+
+      (I) not later than July 31 of each year, which shall address all relevant records, including those that have not been transmitted to the Attorney General, in possession of the department or agency during the period beginning on January 1 of the year and ending on June 30 of the year; and
+
+      (II) not later than January 31 of each year, which shall address all relevant records, including those that have not been transmitted to the Attorney General, in possession of the department or agency during the period beginning on July 1 of the previous year and ending on December 31 of the previous year.
+
+    (iii) *Contents* — A certification required under clause (i) shall state, for the applicable period—
+
+      (I) the total number of records of the Federal department or agency demonstrating that a person falls within one of the categories described in subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim);
+
+      (II) for each category of records described in subclause (I), the total number of records of the Federal department or agency that have been provided to the Attorney General; and
+
+      (III) the efforts of the Federal department or agency to ensure complete and accurate reporting of relevant records, including efforts to monitor compliance and correct any reporting failures or inaccuracies.
+
+  (G) *Implementation plan*
+
+    (i) *In general* — Not later than 1 year after March 23, 2018, the head of each Federal department or agency, in coordination with the Attorney General, shall establish a plan to ensure maximum coordination and automated reporting or making available of records to the Attorney General as required under subparagraph (C), and the verification of the accuracy of those records, including the pre-validation of those records, where appropriate, during a 4-year period specified in the plan. The records shall be limited to those of an individual described in subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim).
+
+    (ii) *Benchmark requirements* — Each plan established under clause (i) shall include annual benchmarks to enable the Attorney General to assess implementation of the plan, including—
+
+      (I) qualitative goals and quantitative measures;
+
+      (II) measures to monitor internal compliance, including any reporting failures and inaccuracies;
+
+      (III) a needs assessment, including estimated compliance costs; and
+
+      (IV) an estimated date by which the Federal department or agency will fully comply with record submission requirements under subparagraph (C).
+
+    (iii) *Compliance determination* — Not later than the end of each fiscal year beginning after the date of the establishment of a plan under clause (i), the Attorney General shall determine whether the applicable Federal department or agency has achieved substantial compliance with the benchmarks included in the plan.
+
+  (H) *Accountability* — The Attorney General shall publish, including on the website of the Department of Justice, and submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives a semiannual report that discloses—
+
+    (i) the name of each Federal department or agency that has failed to submit a required certification under subparagraph (F);
+
+    (ii) the name of each Federal department or agency that has submitted a required certification under subparagraph (F), but failed to certify compliance with the record submission requirements under subparagraph (C);
+
+    (iii) the name of each Federal department or agency that has failed to submit an implementation plan under subparagraph (G);
+
+    (iv) the name of each Federal department or agency that is not in substantial compliance with an implementation plan under subparagraph (G);
+
+    (v) a detailed summary of the data, broken down by department or agency, contained in the certifications submitted under subparagraph (F);
+
+    (vi) a detailed summary of the contents and status, broken down by department or agency, of the implementation plans established under subparagraph (G); and
+
+    (vii) the reasons for which the Attorney General has determined that a Federal department or agency is not in substantial compliance with an implementation plan established under subparagraph (G).
+
+  (I) *Noncompliance penalties* — For each of fiscal years 2019 through 2022, each political appointee of a Federal department or agency that has failed to certify compliance with the record submission requirements under subparagraph (C), and is not in substantial compliance with an implementation plan established under subparagraph (G), shall not be eligible for the receipt of bonus pay, excluding overtime pay, until the department or agency—
+
+    (i) certifies compliance with the record submission requirements under subparagraph (C); or
+
+    (ii) achieves substantial compliance with an implementation plan established under subparagraph (G).
+
+  (J) *Technical assistance* — The Attorney General may use funds made available for the national instant criminal background check system established under subsection (b) to provide technical assistance to a Federal department or agency, at the request of the department or agency, in order to help the department or agency comply with the record submission requirements under subparagraph (C).
+
+  (K) *Application to Federal courts* — For purposes of this paragraph—
+
+    (i) the terms “department or agency of the United States” and “Federal department or agency” include a Federal court; and
+
+    (ii) the Director of the Administrative Office of the United States Courts shall perform, for a Federal court, the functions assigned to the head of a department or agency.
+
 (2) **Other authority** — The Attorney General shall develop such computer software, design and obtain such telecommunications and computer hardware, and employ such personnel, as are necessary to establish and operate the system in accordance with this section.
 
 **(f) Written reasons provided on request** If the national instant criminal background check system determines that an individual is ineligible to receive a firearm and the individual requests the system to provide the reasons for the determination, the system shall provide such reasons to the individual, in writing, within 5 business days after the date of the request.
 
-**(g) Correction of erroneous system information** If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records of the system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records.
+**(g) Correction of erroneous system information** If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records of the system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records. For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.
 
 **(h) Regulations** After 90 days’ notice to the public and an opportunity for hearing by interested parties, the Attorney General shall prescribe regulations to ensure the privacy and security of the information of the system established under this section.
 
@@ -127,6 +208,10 @@ Section was enacted as part of the Brady Handgun Violence Prevention Act, and no
 Section was formerly classified as a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (e)(1)(F) to (K). Pub. L. 115–141, § 602(1), added subpars. (F) to (K).
+
+Subsec. (g). Pub. L. 115–141, § 602(2), inserted at end “For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.”
+
 2008—Subsec. (e)(1). Pub. L. 110–180 designated first and second sentences as subpars. (A) and (B), respectively, inserted subpar. headings, substituted “furnish electronic versions of the information described under subparagraph (A)” for “furnish such information” in subpar. (B), and added subpar. (C).
 
 1996—Subsecs. (e)(1), (g). Pub. L. 104–294, § 603(h), made technical amendment to reference in original act which appears in text as reference to subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim).
@@ -140,7 +225,7 @@ Subsec. (k). Pub. L. 104–294, § 603(i)(1), amended directory language of Pub.
 #### Effective Date of 1996 Amendment
 Amendment by section 603(i)(1) of Pub. L. 104–294 effective as if the amendment had been included in section 210603(b) of Pub. L. 103–322 on Sept. 13, 1994, see section 603(i)(2) of Pub. L. 104–294, set out as a note under [section 40302 of this title](./chapter-403-criminal-justice-identification-information-and-communication.md#section-40302).
 
-#### Destruction of Identifying Information for Persons Not Prohibited from Possessing or Receiving Firearms
+#### Destruction of Identifying Information for Persons Not Prohibited From Possessing or Receiving Firearms
 Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632, provided that: “Hereafter, none of the funds appropriated pursuant to this Act [div. B of Pub. L. 112–55, see Tables for classification] or any other provision of law may be used for— “(1) the implementation of any tax or fee in connection with the implementation of subsection [sic] 922(t) of title 18, United States Code; and “(2) any system to implement subsection [sic] 922(t) of title 18, United States Code, that does not require and result in the destruction of any identifying information submitted by or on behalf of any person who has been determined not to be prohibited from possessing or receiving a firearm no more than 24 hours after the system advises a Federal firearms licensee that possession or receipt of a firearm by the prospective transferee would not violate subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), United States Code, or State law.”
 
 Similar provisions were contained in the following prior appropriation acts:
@@ -422,7 +507,7 @@ Barack Obama.
 
 <a id="section-40915"></a>
 ## § 40915. Requirements to obtain waiver
-**(a) In general** Beginning 3 years after January 8, 2008, a State shall be eligible to receive a waiver of the 10 percent matching requirement for National Criminal History Improvement Grants under the Crime Identification Technology Act of 1988 ([42 U.S.C. 14601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14601&num=0&edition=prelim)) 11 See References in Text note below. if the State provides at least 90 percent of the information described in subsection (c). The length of such a waiver shall not exceed 2 years.
+**(a) In general** Beginning 3 years after January 8, 2008, a State shall be eligible to receive a waiver of the 10 percent matching requirement for National Criminal History Improvement Grants under [section 40301 of this title](./chapter-403-criminal-justice-identification-information-and-communication.md#section-40301) if the State is in compliance with an implementation plan established under subsection (b) or provides at least 90 percent of the information described in subsection (c). The length of such a waiver shall not exceed 2 years.
 
 **(b) State estimates**
 
@@ -430,7 +515,7 @@ Barack Obama.
 
   (A) *In general* — To assist the Attorney General in making a determination under subsection (a) of this section, and under [section 40914 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40914), concerning the compliance of the States in providing information to the Attorney General for the purpose of receiving a waiver under subsection (a) of this section, or facing a loss of funds under [section 40914 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40914), by a date not later than 180 days after January 8, 2008, each State shall provide the Attorney General with a reasonable estimate, as calculated by a method determined by the Attorney General and in accordance with [section 40914(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40914/d&num=0&edition=prelim), of the number of the records described in subparagraph (C) applicable to such State that concern persons who are prohibited from possessing or receiving a firearm under subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim).
 
-  (B) *Failure to provide initial estimate* — A State that fails to provide an estimate described in subparagraph (A) by the date required under such subparagraph shall be ineligible to receive any funds under [section 40913 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40913), until such date as it provides such estimate to the Attorney General.
+  (B) *Failure to provide initial estimate* — A State that fails to provide an estimate described in subparagraph (A) by the date required under such subparagraph shall be ineligible to receive any funds under [section 40913 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40913), until such date as it provides such estimate to the Attorney General or has established an implementation plan under [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917).
 
   (C) *Record defined* — For purposes of subparagraph (A), a record is the following:
 
@@ -477,11 +562,13 @@ Barack Obama.
 
 ### Statutory Notes
 
-#### References in Text
-The Crime Identification Technology Act of 1988, referred to in subsec. (a), probably means the Crime Identification Technology Act of 1998, Pub. L. 105–251, title I, Oct. 9, 1998, 112 Stat. 1871, which was classified as subchapter I (§ 14601) of chapter 140 of Title 42, The Public Health and Welfare, prior to editorial reclassification as [section 40301 of this title](./chapter-403-criminal-justice-identification-information-and-communication.md#section-40301).
-
 #### Codification
 Section was formerly classified in a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–141, § 603(a)(1), substituted “[section 40301 of this title](./chapter-403-criminal-justice-identification-information-and-communication.md#section-40301)” for “the Crime Identification Technology Act of 1988 ([42 U.S.C. 14601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14601&num=0&edition=prelim))” and inserted “is in compliance with an implementation plan established under subsection (b) or” before “provides at least 90 percent of the information described in subsection (c)”.
+
+Subsec. (b)(1)(B). Pub. L. 115–141, § 603(a)(2), inserted “or has established an implementation plan under [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917)” after “the Attorney General”.
 
 
 <a id="section-40916"></a>
@@ -498,7 +585,7 @@ Section was formerly classified in a note under [section 922 of Title 18](https:
 
 (2) assist States in establishing or enhancing their own capacities to perform NICS background checks;
 
-(3) supply accurate and timely information to the Attorney General concerning final dispositions of criminal records to databases accessed by NICS;
+(3) supply accurate and timely information to the Attorney General concerning final dispositions of criminal records to databases accessed by NICS, including through increased efforts to pre-validate the contents of those records to expedite eligibility determinations;
 
 (4) supply accurate and timely information to the Attorney General concerning the identity of persons who are prohibited from obtaining a firearm under [section 922(g)(4) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/g/4&num=0&edition=prelim) to be used by the Federal Bureau of Investigation solely to conduct NICS background checks;
 
@@ -514,20 +601,47 @@ Section was formerly classified in a note under [section 922 of Title 18](https:
 
 **(e) Authorization of appropriations**
 
-(1) **In general** — There are authorized to be appropriated to carry out this section $125,000,000 for fiscal year 2009, $250,000,000 for fiscal year 2010, $250,000,000 for fiscal year 2011, $125,000,000 for fiscal year 2012, and $125,000,000 for fiscal year 2013.
+(1) **In general** — There are authorized to be appropriated to carry out this section $125,000,000 for fiscal year 2009, $250,000,000 for fiscal year 2010, $250,000,000 for fiscal year 2011, $125,000,000 for fiscal year 2012, $125,000,000 for fiscal year 2013, and $125,000,000 for each of fiscal years 2018 through 2022.
 
-(2) **Allocations** — For fiscal years 2009 and 2010, the Attorney General shall endeavor to allocate at least ½ of the authorized appropriations to those States providing more than 50 percent of the records required to be provided under sections 40912 and 40913 of this title. For fiscal years 2011, 2012, and 2013, the Attorney General shall endeavor to allocate at least ½ of the authorized appropriations to those States providing more than 70 percent of the records required to be provided under section 11 So in original. Probably should be “sections”. 40912 and 40913 of this title. The allocations in this paragraph shall be subject to the discretion of the Attorney General, who shall have the authority to make adjustments to the distribution of the authorized appropriations as necessary to maximize incentives for State compliance.
+(2) **Domestic Abuse and Violence Prevention Initiative**
+
+  (A) *Establishment* — For each of fiscal years 2018 through 2022, the Attorney General shall create a priority area under the NICS Act Record Improvement Program (commonly known as “NARIP”) for a Domestic Abuse and Violence Prevention Initiative that emphasizes the need for grantees to identify and upload all felony conviction records and domestic violence records.
+
+  (B) *Funding* — The Attorney General—
+
+    (i) may use not more than 50 percent of the amounts made available under this subsection for each of fiscal years 2018 through 2022 to carry out the initiative described in subparagraph (A); and
+
+    (ii) shall give a funding preference under NARIP to States that—
+
+      (I) have established an implementation plan under [section 40917 of this title](./chapter-409-national-instant-criminal-background-check-system.md#section-40917); and
+
+      (II) will use amounts made available under this subparagraph to improve efforts to identify and upload all felony conviction records and domestic violence records described in clauses (i), (v), and (vi) of [section 40912(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40912/b/1/C&num=0&edition=prelim) by not later than September 30, 2022.
 
 **(f) User fee** The Federal Bureau of Investigation shall not charge a user fee for background checks pursuant to [section 922(t) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/t&num=0&edition=prelim).
+
+**(g) Technical assistance** The Attorney General shall direct the Office of Justice Programs, the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and the Federal Bureau of Investigation to—
+
+(1) assist States that are not currently eligible for grants under this section to achieve compliance with all eligibility requirements; and
+
+(2) provide technical assistance and training services to grantees under this section.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified in a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–141, § 603(b)(1), inserted before semicolon at end “, including through increased efforts to pre-validate the contents of those records to expedite eligibility determinations”.
 
-<a id="section-40931"></a>
-## § 40931. Penalties for noncompliance
+Subsec. (e)(1). Pub. L. 115–141, § 603(b)(2)(A), struck out “and” after “2012,” and inserted before period at end “, and $125,000,000 for each of fiscal years 2018 through 2022”.
+
+Subsec. (e)(2). Pub. L. 115–141, § 603(b)(2)(B), added par. (2) and struck out former par. (2) which related to allocations for fiscal years 2009 to 2013.
+
+Subsec. (g). Pub. L. 115–141, § 603(b)(3), added subsec. (g).
+
+
+<a id="section-40917"></a>
+## § 40917. Penalties for noncompliance
 **(a) Attorney General report**
 
 (1) **In general** — Not later than January 31 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of the States in automating the databases containing information described under sections 40912 and 40913 of this title, and in providing that information pursuant to the requirements of sections 40912 and 40913 of this title.
@@ -556,8 +670,8 @@ Section was formerly classified in a note under [section 922 of Title 18](https:
 Section was formerly classified in a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
 
-<a id="section-40941"></a>
-## § 40941. Relief from disabilities program required as condition for participation in grant programs
+<a id="section-40931"></a>
+## § 40931. Relief from disabilities program required as condition for participation in grant programs
 **(a) Program described** A relief from disabilities program is implemented by a State in accordance with this section if the program—
 
 (1) permits a person who, pursuant to State law, has been adjudicated as described in subsection (g)(4) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) or has been committed to a mental institution, to apply to the State for relief from the disabilities imposed by subsections (d)(4) and (g)(4) of such section by reason of the adjudication or commitment;
@@ -567,6 +681,18 @@ Section was formerly classified in a note under [section 922 of Title 18](https:
 (3) permits a person whose application for the relief is denied to file a petition with the State court of appropriate jurisdiction for a de novo judicial review of the denial.
 
 **(b) Authority to provide relief from certain disabilities with respect to firearms** If, under a State relief from disabilities program implemented in accordance with this section, an application for relief referred to in subsection (a)(1) of this section is granted with respect to an adjudication or a commitment to a mental institution or based upon a removal of a record under [section 40912(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40912/c/1/B&num=0&edition=prelim), the adjudication or commitment, as the case may be, is deemed not to have occurred for purposes of subsections (d)(4) and (g)(4) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified in a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-40941"></a>
+## § 40941. Illegal immigrant gun purchase notification
+**(a) In general** Notwithstanding any other provision of law or of this chapter, all records obtained by the National Instant Criminal Background Check system relevant to whether an individual is prohibited from possessing a firearm because such person is an alien illegally or unlawfully in the United States shall be made available to U.S. Immigration and Customs Enforcement.
+
+**(b) Regulations** The Attorney General, at his or her discretion, shall promulgate guidelines relevant to what records relevant to illegal aliens shall be provided pursuant to the provisions of this chapter.
 
 ### Statutory Notes
 

@@ -387,6 +387,9 @@ Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21, 1991, see section 109(c) of Pub. L. 102–166, set out as a note under [section 2000e of this title](./chapter-021-civil-rights.md#section-2000e).
 
+#### Effective Date
+Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under [section 12111 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12111).
+
 
 <a id="section-12116"></a>
 ## § 12116. Defenses
@@ -429,6 +432,9 @@ This chapter, referred to in subsecs. (a) and (e)(3), was in the original “thi
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under [section 705 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section705&num=0&edition=prelim), Labor.
+
+#### Effective Date
+Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under [section 12111 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12111).
 
 
 <a id="section-12117"></a>
@@ -488,6 +494,9 @@ In subsec. (c)(3), “chapter 81 of title 41” substituted for “the Drug-Free
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under [section 705 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section705&num=0&edition=prelim), Labor.
 
+#### Effective Date
+Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under [section 12111 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12111).
+
 
 <a id="section-12131"></a>
 ## § 12131. Posting notices
@@ -499,11 +508,19 @@ Every employer, employment agency, labor organization, or joint labor-management
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
+#### Effective Date
+Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under [section 12111 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12111).
+
 
 <a id="section-12132"></a>
 ## § 12132. Regulations
 
 Not later than 1 year after July 26, 1990, the Commission shall issue regulations in an accessible format to carry out this subchapter in accordance with subchapter II of chapter 5 of title 5.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under [section 12111 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12111).
 
 
 <a id="section-12133"></a>
@@ -518,6 +535,9 @@ Not later than 1 year after July 26, 1990, the Commission shall issue regulation
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (b), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under [section 12111 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12111).
 
 
 <a id="section-12134"></a>
@@ -581,11 +601,21 @@ George W. Bush.
 
 Subject to the provisions of this subchapter, no qualified individual with a disability shall, by reason of such disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of a public entity, or be subjected to discrimination by any such entity.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 18 months after July 26, 1990, see section 205(a) of Pub. L. 101–336, set out as a note under [section 12131 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12131).
+
 
 <a id="section-12142"></a>
 ## § 12142. Enforcement
 
 The remedies, procedures, and rights set forth in [section 794a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794a&num=0&edition=prelim) shall be the remedies, procedures, and rights this subchapter provides to any person alleging discrimination on the basis of disability in violation of [section 12132 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12132).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 18 months after July 26, 1990, see section 205(a) of Pub. L. 101–336, set out as a note under [section 12131 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12131).
 
 
 <a id="section-12143"></a>
@@ -1763,7 +1793,7 @@ Subsec. (c)(2). Pub. L. 102–166, § 315(2), inserted “, except for the emplo
 #### Effective Date of 1995 Amendment
 Amendment by section 201(c)(3) of Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see [section 1311(d) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1311/d&num=0&edition=prelim), The Congress.
 
-Amendment by section 210(g) of Pub. L. 104–1 effective 1 year after transmission to Congress of study under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), see [section 1331(h)(2) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1331/h/2&num=0&edition=prelim).
+Amendment by section 210(g) of Pub. L. 104–1 effective 1 year after transmission to Congress of study under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), see [section 1331(i)(2) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1331/i/2&num=0&edition=prelim).
 
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as a note under [section 1981 of this title](./chapter-021-civil-rights.md#section-1981).

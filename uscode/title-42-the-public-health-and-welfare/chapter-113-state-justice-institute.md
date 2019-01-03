@@ -101,6 +101,9 @@ This chapter, referred to in subsecs. (a), (b)(1)(C), and (f), was in the origin
 
 1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
+
 #### Battered Women’s Testimony
 Pub. L. 102–527, Oct. 27, 1992, 106 Stat. 3459, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Battered Women’s Testimony Act of 1992’. “SEC. 2. AUTHORITY OF STATE JUSTICE INSTITUTE.“The State Justice Institute shall—“(1) collect nationwide and analyze information regarding—“(A) the admissibility and quality of expert testimony on the experiences of battered women offered as part of the defense in criminal cases under State law, and “(B) sources of, and methods to obtain, funds to pay costs incurred to provide such testimony, particularly in cases involving indigent women defendants, “(2) develop training materials to assist—“(A) battered women, operators of domestic violence shelters, battered women’s advocates, and attorneys to use such expert testimony in appropriate cases, particularly appropriate cases involving indigent women defendants, and “(B) individuals with expertise in the experiences of battered women to develop skills appropriate to providing such expert testimony, and “(3) disseminate such information and such training materials, and provide related technical assistance, to battered women, such operators, such advocates, such attorneys, and such individuals. “SEC. 3. ADMINISTRATIVE PROVISIONS.“For purposes of this Act—“(1) subsections (d) and (e) of section 206 of the State Justice Institute Act of 1984 [[42 U.S.C. 10705(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10705/d&num=0&edition=prelim), (e)], and “(2) subsections (a) and (b) of section 207 of such Act [[42 U.S.C. 10706(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10706/a&num=0&edition=prelim), (b)], shall apply in the same manner as such subsections apply with respect to grants and contracts made under such Act [[42 U.S.C. 10701](./chapter-113-state-justice-institute.md#section-10701) et seq.]. “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.“There is authorized to be appropriated $600,000 to carry out this Act.”
 
@@ -178,6 +181,9 @@ This chapter, referred to in subsecs. (a)(3) and (j), was in the original “thi
 #### Effective Date of 1992 Amendment
 Pub. L. 102–572, title VIII, § 804, Oct. 29, 1992, 106 Stat. 4516, provided that: “The provisions of this title [amending this section and sections 10705 and 10713 of this title] shall take effect on the date of the enactment of this Act [Oct. 29, 1992].”
 
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
+
 
 <a id="section-10704"></a>
 ## § 10704. Officers and employees
@@ -216,6 +222,9 @@ This chapter, referred to in subsecs. (a)(2) and (c)(1), (2), was in the origina
 Subsec. (d)(2). Pub. L. 108–372, § 3(b), inserted “, notwithstanding section 8914 of such title” after “(relating to health insurance)”.
 
 1988—Subsec. (d)(2). Pub. L. 100–690 and Pub. L. 100–702 amended par. (2) identically, substituting “chapters 83 and 84” for “chapter 83”.
+
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
 
 
 <a id="section-10705"></a>
@@ -352,6 +361,9 @@ Subsec. (d). Pub. L. 100–702, § 604, which directed the substitution of “co
 
 Pub. L. 100–690, § 7321(b)(4), substituted “court (or other unit of State or local government)” for “judicial system”.
 
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
+
 
 <a id="section-10706"></a>
 ## § 10706. Limitations on grants and contracts
@@ -387,6 +399,9 @@ This chapter, referred to in text, was in the original “this title”, except 
 
 “(B) the application for refunding has been finally denied in accordance with [section 10708 of this title](./chapter-113-state-justice-institute.md#section-10708).”
 
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
+
 
 <a id="section-10707"></a>
 ## § 10707. Restrictions on activities of the Institute
@@ -421,6 +436,9 @@ This chapter, referred to in text, was in the original “this title”, except 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701) and Tables.
 
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
+
 
 <a id="section-10708"></a>
 ## § 10708. Administrative provisions
@@ -436,6 +454,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 #### Amendments
 1988—Pub. L. 100–702 substituted “Administrative provisions” for “Special procedures” in section catchline, and amended text generally, changing structure of section from a single unlettered paragraph to one consisting of subsecs. (a) and (b).
 
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
+
 
 <a id="section-10709"></a>
 ## § 10709. Presidential coordination
@@ -446,6 +467,9 @@ The President may, to the extent not inconsistent with any other applicable law,
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701) and Tables.
+
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
 
 
 <a id="section-10710"></a>
@@ -462,6 +486,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701) and Tables.
+
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
 
 
 <a id="section-10711"></a>
@@ -493,6 +520,9 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 #### Amendments
 2004—Subsecs. (a)(3), (b)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
+
 
 <a id="section-10712"></a>
 ## § 10712. Report by Attorney General
@@ -503,6 +533,9 @@ Not later than October 1, 2002, the Attorney General, in consultation with the F
 
 #### Amendments
 2002—Pub. L. 107–179 substituted “Not later than October 1, 2002” for “On October 1, 1987”.
+
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).
 
 
 <a id="section-10713"></a>
@@ -525,3 +558,6 @@ This chapter, referred to in text, was in the original “this title”, meaning
 1988—Pub. L. 100–702, § 607, which amended section generally, substituting appropriations authorization of $15,000,000 for fiscal years 1989 and 1990, such amounts to remain available until expended for authorization of $15,000,000 for fiscal years 1989, 1990, 1991, and 1992, was repealed by Pub. L. 101–162, title V.
 
 Pub. L. 100–690, § 7321(a), as revived by Pub. L. 101–162, title V, amended section generally, substituting appropriations authorization of $15,000,000 for fiscal years 1989 through 1992 for authorization of $13,000,000 for fiscal year 1986 and $15,000,000 for fiscal years 1987 and 1988.
+
+#### Effective Date
+Section effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under [section 10701 of this title](./chapter-113-state-justice-institute.md#section-10701).

@@ -2,7 +2,7 @@
 title: 7
 chapter: '107'
 heading: RENEWABLE ENERGY RESEARCH AND DEVELOPMENT
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -37,7 +37,7 @@ Except as otherwise provided, in this chapter:
 
 (4) **Biobased product** — The term “biobased product” means a product determined by the Secretary to be a commercial or industrial product (other than food or feed) that is—
 
-  (A) composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials and forestry materials; or
+  (A) composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials, renewable chemicals, and forestry materials; or
 
   (B) an intermediate ingredient or feedstock.
 
@@ -55,7 +55,13 @@ Except as otherwise provided, in this chapter:
 
 (7) **Biorefinery** — The term “biorefinery” means a facility (including equipment and processes) that—
 
-  (A) converts renewable biomass into biofuels and biobased products; and
+  (A) converts renewable biomass or an intermediate ingredient or feedstock of renewable biomass into any 1 or more, or a combination, of—
+
+    (i) biofuels;
+
+    (ii) renewable chemicals; or
+
+    (iii) biobased products; and
 
   (B) may produce electricity.
 
@@ -133,13 +139,15 @@ Except as otherwise provided, in this chapter:
 
 (16) **Renewable energy system**
 
-  (A) *In general* — Subject to subparagraph (B), the term “renewable energy system” means a system that—
+  (A) *In general* — Subject to subparagraph (C), the term “renewable energy system” means a system that produces usable energy from a renewable energy source.
 
-    (i) produces usable energy from a renewable energy source; and
+  (B) *Inclusions* — The term “renewable energy system” includes—
 
-    (ii) may include distribution components necessary to move energy produced by such system to the initial point of sale.
+    (i) distribution components necessary to move energy produced by a system described in subparagraph (A) to the initial point of sale; and
 
-  (B) *Limitation* — A system described in subparagraph (A) may not include a mechanism for dispensing energy at retail.
+    (ii) other components and ancillary infrastructure of a system described in subparagraph (A), such as a storage system.
+
+  (C) *Limitation* — A system described in subparagraph (A) may not include a mechanism for dispensing energy at retail.
 
 (17) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
 
@@ -152,6 +160,18 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8101, Pub. L. 107–171, title IX, § 9001, May 13, 2002, 116 Stat. 475; Pub. L. 109–58, title IX, § 943(a)(1), Aug. 8, 2005, 119 Stat. 880, contained definitions for this chapter, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2018—Par. (4)(A). Pub. L. 115–334, § 9001(1), substituted “agricultural materials, renewable chemicals,” for “agricultural materials”.
+
+Par. (7)(A). Pub. L. 115–334, § 9001(2), substituted “or an intermediate ingredient or feedstock of renewable biomass into any 1 or more, or a combination, of—” and cls. (i) to (iii) for “into biofuels and biobased products; and”.
+
+Par. (16)(A). Pub. L. 115–334, § 9001(3)(A), substituted “subparagraph (C), the term ‘renewable energy system’ means a system that produces usable energy from a renewable energy source.” for “subparagraph (B), the term ‘renewable energy system’ means a system that—
+
+“(i) produces usable energy from a renewable energy source; and
+
+“(ii) may include distribution components necessary to move energy produced by such system to the initial point of sale.”
+
+Par. (16)(B), (C). Pub. L. 115–334, § 9001(3)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+
 2014—Par. (9). Pub. L. 113–79, § 9001(2), added par. (9). Former par. (9) redesignated (10).
 
 Par. (10) to (13). Pub. L. 113–79, § 9001(1), redesignated pars. (9) to (12) as (10) to (13), respectively. Former par. (13) redesignated (15).
@@ -353,6 +373,8 @@ Barack Obama.
 
     (ii) *Exception* — Clause (i) shall not apply to final criteria that have been issued (as of the date of enactment of that Act) by the Secretary.
 
+    (iii) *Renewable chemicals* — Not later than 180 days after December 20, 2018, the Secretary shall update the criteria issued under clause (i) to provide criteria for determining which renewable chemicals may qualify to receive the label under paragraph (1).
+
   (B) *Requirements* — Criteria issued under subparagraph (A) shall—
 
     (i) encourage the purchase of products with the maximum biobased content;
@@ -379,11 +401,33 @@ Barack Obama.
 
 **(e) Inclusion** Effective beginning on the date that is 90 days after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Architect of the Capitol, the Sergeant at Arms of the Senate, and the Chief Administrative Officer of the House of Representatives shall consider the biobased product designations made under this section in making procurement decisions for the Capitol Complex.
 
-**(f) National testing center registry** The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.
+**(f) Manufacturers of renewable chemicals and biobased products**
+
+(1) **NAICS codes** — The Secretary and the Secretary of Commerce shall jointly develop North American Industry Classification System codes for—
+
+  (A) renewable chemicals manufacturers; and
+
+  (B) biobased products manufacturers.
+
+(2) **National testing center registry** — The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.
 
 **(g) Forest products laboratory coordination** In determining whether products are eligible for the “USDA Certified Biobased Product” label, the Secretary (acting through the Forest Products Laboratory) shall provide appropriate technical and other assistance to the program and applicants for forest products.
 
-**(h) Reports**
+**(h) Streamlining**
+
+(1) **In general** — Not later than 1 year after December 20, 2018, the Secretary shall establish guidelines for an integrated process under which biobased products may be, in 1 expedited approval process—
+
+  (A) determined to be eligible for a Federal procurement preference under subsection (a); and
+
+  (B) approved to use the “USDA Certified Biobased Product” label under subsection (b).
+
+(2) **Initiation** — The Secretary shall ensure that a review of a biobased product under the integrated qualification process established pursuant to paragraph (1) may be initiated on receipt of a recommendation or petition from a manufacturer, vendor, or other interested party.
+
+(3) **Product designations** — The Secretary may issue a product designation pursuant to subsection (a)(3)(B), or approve the use of the “USDA Certified Biobased Product” label under subsection (b), through streamlined procedures, which shall not be subject to chapter 7 of title 5.
+
+**(i) Requirement of procuring agencies** A procuring agency (as defined in subsection (a)(1)) shall not establish regulations, guidance, or criteria regarding the procurement of biobased products, pursuant to this section or any other law, that impose limitations on that procurement that are more restrictive than the limitations established by the Secretary under the regulations to implement this section.
+
+**(j) Reports**
 
 (1) **In general** — Not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each year thereafter, the Secretary shall submit to Congress a report on the implementation of this section.
 
@@ -417,20 +461,22 @@ Barack Obama.
 
   (B) *Report* — Not later than 1 year after February 7, 2014, the Secretary shall submit to Congress a report describing the results of the study conducted under subparagraph (A).
 
-**(i) Funding**
+**(k) Funding**
 
-(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2018.
+(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2023.
 
-(2) **Discretionary funding** — There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2014 through 2018.
+(2) **Discretionary funding** — There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2019 through 2023.
 
-**(j) Biobased product inclusion** In this section, the term “biobased product” (as defined in [section 8101 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8101)) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
+**(l) Biobased product inclusion** In this section, the term “biobased product” (as defined in [section 8101 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8101)) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
+
+**(m) Rural development mission area** In carrying out this section, except as provided in subsection (g), the Secretary shall act through the rural development mission area.
 
 ### Statutory Notes
 
 #### References in Text
 Subparagraph (B)(v) of subsection (a)(3) of this section, referred to in subsec. (a)(3)(C), was redesignated subparagraph (B)(vii) by Pub. L. 113–79, title IX, § 9002(a)(1)(B)(i)(II), Feb. 7, 2014, 128 Stat. 927.
 
-The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A), (e), and (h)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(2)(A), (e), and (j)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -439,6 +485,22 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8102, Pub. L. 107–171, title IX, § 9002, May 13, 2002, 116 Stat. 476; Pub. L. 109–58, title II, § 205, title IX, § 943(a)(2), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881, related to Federal procurement of biobased products, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(2)(A)(iii). Pub. L. 115–334, § 9002(1), added cl. (iii).
+
+Subsec. (f). Pub. L. 115–334, § 9002(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.”
+
+Subsecs. (h), (i). Pub. L. 115–334, § 9002(4), added subsecs. (h) and (i). Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
+
+Subsecs. (j), (k). Pub. L. 115–334, § 9002(3), redesignated subsecs. (h) and (i) as (j) and (k), respectively. Former subsec. (j) redesignated (l)
+
+Subsec. (k)(1). Pub. L. 115–334, § 9002(5)(A), substituted “2023” for “2018”.
+
+Subsec. (k)(2). Pub. L. 115–334, § 9002(5)(B), substituted “$3,000,000 for each of fiscal years 2019 through 2023” for “$2,000,000 for each of fiscal years 2014 through 2018”.
+
+Subsec. (l). Pub. L. 115–334, § 9002(3), redesignated subsec. (j) as (l).
+
+Subsec. (m). Pub. L. 115–334, § 9002(6), added subsec. (m).
+
 2014—Subsec. (a)(2)(A)(i)(III). Pub. L. 113–79, § 9002(a)(1)(A), added subcl. (III).
 
 Subsec. (a)(3)(B)(v). Pub. L. 113–79, § 9002(a)(1)(B)(i)(III), added cl. (v). Former cl. (v) redesignated (vii).
@@ -575,9 +637,21 @@ Barack Obama.
 
 (3) **Eligible technology** — The term “eligible technology” means, as determined by the Secretary—
 
-  (A) a technology that is being adopted in a viable commercial-scale operation of a biorefinery that produces an advanced biofuel; and
+  (A) a technology that is being adopted in a viable commercial-scale operation of a biorefinery that produces any 1 or more, or a combination, of—
 
-  (B) a technology not described in subparagraph (A) that has been demonstrated to have technical and economic potential for commercial application in a biorefinery that produces an advanced biofuel.
+    (i) an advanced biofuel;
+
+    (ii) a renewable chemical; or
+
+    (iii) a biobased product; and
+
+  (B) a technology not described in subparagraph (A) that has been demonstrated to have technical and economic potential for commercial application in a biorefinery that produces any 1 or more, or a combination, of—
+
+    (i) an advanced biofuel;
+
+    (ii) a renewable chemical; or
+
+    (iii) a biobased product.
 
 **(c) Assistance** The Secretary shall make available to eligible entities guarantees for loans made to fund the development, construction, and retrofitting of commercial-scale biorefineries using eligible technology.
 
@@ -641,13 +715,17 @@ Barack Obama.
 
   (A) *In general* — Subject to subparagraph (B), of the funds of the Commodity Credit Corporation, the Secretary shall use for the cost of loan guarantees under this section, to remain available until expended—
 
-    (i) $100,000,000 for fiscal year 2014; and
+    (i) $100,000,000 for fiscal year 2014;
 
-    (ii) $50,000,000 for each of fiscal years 2015 and 2016.
+    (ii) $50,000,000 for each of fiscal years 2015 and 2016;
+
+    (iii) $50,000,000 for fiscal year 2019; and
+
+    (iv) $25,000,000 for fiscal year 2020.
 
   (B) *Biobased product manufacturing* — Of the total amount of funds made available for fiscal years 2014 and 2015 under subparagraph (A), the Secretary may use for the cost of loan guarantees under this section not more than 15 percent of such funds to promote biobased product manufacturing.
 
-(2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2018.
+(2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -661,6 +739,14 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8103, Pub. L. 107–171, title IX, § 9003, May 13, 2002, 116 Stat. 478, related to biorefinery development grants, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(3)(A). Pub. L. 115–334, § 9003(1)(A), substituted “produces any 1 or more, or a combination, of—” and cls. (i) to (iii) for “produces an advanced biofuel; and”.
+
+Subsec. (b)(3)(B). Pub. L. 115–334, § 9003(1)(B), substituted “produces any 1 or more, or a combination, of—” and cls. (i) to (iii) for “produces an advanced biofuel.”
+
+Subsec. (g)(1)(A)(iii), (iv). Pub. L. 115–334, § 9003(2)(A), added cls. (iii) and (iv).
+
+Subsec. (g)(2). Pub. L. 115–334, § 9003(2)(B), substituted “2023” for “2018”.
+
 2014—Pub. L. 113–79, § 9003(a)(1), inserted “, renewable chemical, and biobased product manufacturing” after “Biorefinery” in section catchline.
 
 Subsec. (a). Pub. L. 113–79, § 9003(a)(2), inserted “renewable chemicals, and biobased product manufacturing” after “advanced biofuels,” in introductory provisions.
@@ -701,56 +787,13 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-8104"></a>
-## § 8104. Repowering assistance
-**(a) In general** The Secretary shall carry out a program to encourage biorefineries in existence on the date of enactment of the Food, Conservation, and Energy Act of 2008 to replace fossil fuels used to produce heat or power to operate the biorefineries by making payments for—
-
-(1) the installation of new systems that use renewable biomass; or
-
-(2) the new production of energy from renewable biomass.
-
-**(b) Payments**
-
-(1) **In general** — The Secretary may make payments under this section to any biorefinery that meets the requirements of this section for a period determined by the Secretary.
-
-(2) **Amount** — The Secretary shall determine the amount of payments to be made under this section to a biorefinery after considering—
-
-  (A) the quantity of fossil fuels a renewable biomass system is replacing;
-
-  (B) the percentage reduction in fossil fuel used by the biorefinery that will result from the installation of the renewable biomass system; and
-
-  (C) the cost and cost effectiveness of the renewable biomass system.
-
-**(c) Eligibility** To be eligible to receive a payment under this section, a biorefinery shall demonstrate to the Secretary that the renewable biomass system of the biorefinery is feasible based on an independent feasibility study that takes into account the economic, technical and environmental aspects of the system.
-
-**(d) Funding**
-
-(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to make payments under this section $12,000,000 for fiscal year 2014, to remain available until expended.
-
-(2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2018.
+## § 8104. Repealed. Pub. L. 115–334, title IX, § 9004, Dec. 20, 2018, 132 Stat. 4885
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+Section, Pub. L. 107–171, title IX, § 9004, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1313, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, § 701(f)(3), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, § 9004, Feb. 7, 2014, 128 Stat. 930, related to repowering assistance program.
 
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
-
-#### Prior Provisions
 A prior section 8104, Pub. L. 107–171, title IX, § 9004, May 13, 2002, 116 Stat. 480, related to a biodiesel fuel education program, prior to the general amendment of this chapter by Pub. L. 110–246. See [section 8106 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8106).
-
-#### Amendments
-2014—Subsec. (d)(1). Pub. L. 113–79, § 9004(1), substituted “$12,000,000 for fiscal year 2014” for “$35,000,000 for fiscal year 2009”.
-
-Subsec. (d)(2). Pub. L. 113–79, § 9004(2), substituted “$10,000,000 for each of fiscal years 2014 through 2018” for “$15,000,000 for each of fiscal years 2009 through 2013”.
-
-2013—Subsec. (d)(2). Pub. L. 112–240 substituted “2013” for “2012”.
-
-#### Effective Date of 2013 Amendment
-Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-#### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8105"></a>
@@ -773,7 +816,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (3) other appropriate factors, as determined by the Secretary.
 
-**(e) Equitable distribution** The Secretary may limit the amount of payments that may be received by a single eligible producer under this section in order to distribute the total amount of funding available in an equitable manner.
+**(e) Equitable distribution**
+
+(1) **Amount** — The Secretary shall limit the amount of payments that may be received by a single eligible producer under this section in order to distribute the total amount of funding available in an equitable manner.
+
+(2) **Feedstock** — The total amount of payments made in a fiscal year under this section to one or more eligible producers for the production of advanced biofuels derived from a single eligible commodity, including intermediate ingredients of that single commodity or use of that single commodity and its intermediate ingredients in combination with another commodity, shall not exceed one-third of the total amount of funds made available under subsection (g).
 
 **(f) Other requirements** To receive a payment under this section, an eligible producer shall meet any other requirements of Federal and State law (including regulations) applicable to the production of advanced biofuels.
 
@@ -787,11 +834,13 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (C) $85,000,000 for fiscal year 2011;
 
-  (D) $105,000,000 for fiscal year 2012; and
+  (D) $105,000,000 for fiscal year 2012;
 
-  (E) $15,000,000 for each of fiscal years 2014 through 2018.
+  (E) $15,000,000 for each of fiscal years 2014 through 2018; and
 
-(2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+  (F) $7,000,000 for each of fiscal years 2019 through 2023.
+
+(2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
 (3) **Limitation** — Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
 
@@ -804,6 +853,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8105, Pub. L. 107–171, title IX, § 9005, May 13, 2002, 116 Stat. 480, related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334, § 9005(1), designated existing provisions as par. (1), inserted heading, substituted “The Secretary shall” for “The Secretary may” and added par. (2).
+
+Subsec. (g)(1)(F). Pub. L. 115–334, § 9005(2)(A), added subpar. (F).
+
+Subsec. (g)(2). Pub. L. 115–334, § 9005(2)(B), substituted “2019 through 2023” for “2014 through 2018”.
+
 2014—Subsec. (g)(1)(E). Pub. L. 113–79, § 9005(1), added subpar. (E).
 
 Subsec. (g)(2). Pub. L. 113–79, § 9005(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
@@ -831,11 +886,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(c) Consultation** In carrying out this section, the Secretary shall consult with the Secretary of Energy.
 
-**(d) Funding**
-
-(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2018.
-
-(2) **Discretionary funding** — There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
+**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -846,6 +897,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8106, Pub. L. 107–171, title IX, § 9006, May 13, 2002, 116 Stat. 482; Pub. L. 109–171, title I, § 1301, Feb. 8, 2006, 120 Stat. 6, related to assistance to farmers, ranchers, and rural small businesses to purchase renewable energy systems and make energy efficiency improvements, prior to the general amendment of this chapter by Pub. L. 110–246. See [section 8107 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8107).
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–334 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to mandatory and discretionary funding.
+
 2014—Subsec. (d)(1). Pub. L. 113–79, § 9006(1), substituted “Mandatory funding” for “Fiscal years 2009 through 2012” in heading and “2018” for “2012” in text.
 
 Subsec. (d)(2). Pub. L. 113–79, § 9006(2), substituted “Discretionary funding” for “Authorization of appropriations” in heading and “each of fiscal years 2014 through 2018” for “fiscal year 2013” in text.
@@ -917,11 +970,29 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(c) Financial assistance for energy efficiency improvements and renewable energy systems**
 
-(1) **In general** — In addition to any similar authority, the Secretary shall provide loan guarantees and grants to agricultural producers and rural small businesses—
+(1) **In general**
 
-  (A) to purchase renewable energy systems, including systems that may be used to produce and sell electricity; and
+  (A) *Assistance* — In addition to any similar authority, the Secretary shall provide—
 
-  (B) to make energy efficiency improvements.
+    (i) loan guarantees and grants to agricultural producers and rural small businesses—
+
+      (I) to purchase renewable energy systems, including systems that may be used to produce and sell electricity; and
+
+      (II) to make energy efficiency improvements; and
+
+    (ii) loan guarantees to agricultural producers to purchase and install energy efficient equipment or systems for agricultural production or processing that exceed—
+
+      (I) energy efficiency building codes, if applicable;
+
+      (II) Federal or State energy efficiency standards, if applicable; and
+
+      (III) other energy efficiency standards determined appropriate by the Secretary.
+
+  (B) *Limitations* — With respect to loan guarantees under subparagraph (A)(ii)—
+
+    (i) if no codes or standards described in such subparagraph apply to the energy efficient equipment or system to be purchased or installed pursuant to such subparagraph, the Secretary shall require, to the maximum extent practicable, such equipment or system to meet the same efficiency measurements as the most efficient available equipment or system in the market; and
+
+    (ii) the Secretary shall not provide such a loan guarantee for the purchase or installation of any energy efficient equipment or system unless more than one type of such equipment or system is available in the market.
 
 (2) **Award considerations** — In determining the amount of a loan guarantee or grant provided under this section, the Secretary shall take into consideration, as applicable—
 
@@ -947,6 +1018,8 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (C) *Maximum amount of combined grant and loan guarantee* — The combined amount of a grant and loan guaranteed under this subsection shall not exceed 75 percent of the cost of the activity funded under this subsection.
 
+  (D) *Loan guarantees for energy efficient equipment to agricultural producers* — Using funds made available under paragraphs (1) and (3) of subsection (f), in each fiscal year the Secretary may use for loan guarantees under paragraph (1)(A)(ii) an amount that does not exceed 15 percent of such funds.
+
 (4) **Tiered application process**
 
   (A) *In general* — In providing loan guarantees and grants under this subsection, the Secretary shall use a 3-tiered application process that reflects the size of proposed projects in accordance with this paragraph.
@@ -963,13 +1036,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(e) Lower-cost activities**
 
-(1) **Limitation on use of funds** — Except as provided in paragraph (2), the Secretary shall use not less than 20 percent of the funds made available under subsection (g) to provide grants of $20,000 or less.
+(1) **Limitation on use of funds** — Except as provided in paragraph (2), the Secretary shall use not less than 20 percent of the funds made available under subsection (f) to provide grants of $20,000 or less.
 
-(2) **Exception** — Effective beginning on June 30 of each fiscal year, paragraph (1) shall not apply to funds made available under subsection (g) for the fiscal year.
+(2) **Exception** — Effective beginning on June 30 of each fiscal year, paragraph (1) shall not apply to funds made available under subsection (f) for the fiscal year.
 
-**(f) Report** Not later than 4 years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a report on the implementation of this section, including the outcomes achieved by projects funded under this section.
-
-**(g) Funding**
+**(f) Funding**
 
 (1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
 
@@ -989,12 +1060,9 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (B) *Other use* — Funds not obligated under subparagraph (A) by April 1 of each fiscal year to carry out subsection (b) shall become available to carry out subsection (c).
 
-(3) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+(3) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
-
-#### References in Text
-The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (f), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -1003,6 +1071,22 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8107, Pub. L. 107–171, title IX, § 9007, May 13, 2002, 116 Stat. 483, related to application of hydrogen and fuel cell technologies, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–334, § 9007(1)(A), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any similar authority, the Secretary shall provide loan guarantees and grants to agricultural producers and rural small businesses—
+
+“(A) to purchase renewable energy systems, including systems that may be used to produce and sell electricity; and
+
+“(B) to make energy efficiency improvements.”
+
+Subsec. (c)(3)(D). Pub. L. 115–334, § 9007(1)(B), added subpar. (D).
+
+Subsec. (e). Pub. L. 115–334, § 9007(2), substituted “subsection (f)” for “subsection (g)” in pars, (1) and (2).
+
+Subsec. (f). Pub. L. 115–334, § 9007(3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than 4 years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a report on the implementation of this section, including the outcomes achieved by projects funded under this section.”
+
+Subsec. (f)(3). Pub. L. 115–334, § 9007(4), substituted “2019 through 2023” for “2014 through 2018”.
+
+Subsec. (g). Pub. L. 115–334, § 9007(3), redesignated subsec. (g) as (f).
+
 2014—Subsec. (b)(2)(D), (E). Pub. L. 113–79, § 9007(a)(1), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 Subsec. (c)(3), (4). Pub. L. 113–79, § 9007(a)(2), added par. (4), redesignated former par. (4) as (3), and struck out former par. (3) which related to grants to agricultural producers or rural small businesses to conduct feasibility studies.
@@ -1034,7 +1118,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (C) any other entity that is an eligible borrower of the Rural Utilities Service, as determined under section 1710.101 of title 7, Code of Federal Regulations (or a successor regulation).
 
-(2) **Energy efficiency measures** — The term “energy efficiency measures” means, for or at property served by an eligible entity, structural improvements and investments in cost-effective, commercial technologies to increase energy efficiency.
+(2) **Energy efficiency measures** — The term “energy efficiency measures” means, for or at property served by an eligible entity, structural improvements and investments in cost-effective, commercial technologies to increase energy efficiency (including cost-effective on- or off-grid renewable energy or energy storage systems).
 
 (3) **Qualified consumer** — The term “qualified consumer” means a consumer served by an eligible entity that has the ability to repay a loan made under subsection (d), as determined by the eligible entity.
 
@@ -1066,15 +1150,17 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (3) **No interest** — A loan under this subsection shall bear no interest.
 
-(4) **Repayment** — With respect to a loan under paragraph (1)—
+(4) **Eligibility for other loans** — The Secretary shall not include any debt incurred by a borrower under this section in the calculation of the debt-equity ratio of the borrower for purposes of eligibility for loans under the Rural Electrification Act of 1936 ([7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.).
+
+(5) **Repayment** — With respect to a loan under paragraph (1)—
 
   (A) the term shall not exceed 20 years from the date on which the loan is closed; and
 
-  (B) except as provided in paragraph (6), the repayment of each advance shall be amortized for a period not to exceed 10 years.
+  (B) except as provided in paragraph (7), the repayment of each advance shall be amortized for a period not to exceed 10 years.
 
-(5) **Amount of advances** — Any advance of loan funds to an eligible entity in any single year shall not exceed 50 percent of the approved loan amount.
+(6) **Amount of advances** — Any advance of loan funds to an eligible entity in any single year shall not exceed 50 percent of the approved loan amount.
 
-(6) **Special advance for start-up activities**
+(7) **Special advance for start-up activities**
 
   (A) *In general* — In order to assist an eligible entity in defraying the appropriate start-up costs (as determined by the Secretary) of establishing new programs or modifying existing programs to carry out subsection (d), the Secretary shall allow an eligible entity to request a special advance.
 
@@ -1086,13 +1172,15 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
     (ii) at the election of the eligible entity, may be deferred to the end of the 10-year period.
 
-(7) **Limitation** — All special advances shall be made under a loan described in paragraph (1) during the first 10 years of the term of the loan.
+(8) **Limitation** — All special advances shall be made under a loan described in paragraph (1) during the first 10 years of the term of the loan.
+
+(9) **Accounting** — The Secretary shall take appropriate steps to streamline the accounting requirements on borrowers under this section while maintaining adequate assurances of the repayment of the loans.
 
 **(d) Loans to qualified consumers**
 
 (1) **Terms of loans** — Loans made by an eligible entity to qualified consumers using loan funds provided by the Secretary under subsection (c)—
 
-  (A) may bear interest, not to exceed 3 percent, to be used for purposes that include—
+  (A) may bear interest, not to exceed 5 percent, to be used for purposes that include—
 
     (i) to establish a loan loss reserve; and
 
@@ -1102,7 +1190,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (C) shall not be used to fund purchases of, or modifications to, personal property unless the personal property is or becomes attached to real property (including a manufactured home) as a fixture;
 
-  (D) shall be repaid through charges added to the electric bill for the property for, or at which, energy efficiency measures are or will be implemented, on the condition that this requirement does not prohibit—
+  (D) shall be repaid through charges added to the recurring service bill for the property for, or at which, energy efficiency measures are or will be implemented, on the condition that this requirement does not prohibit—
 
     (i) the voluntary prepayment of a loan by the owner of the property; or
 
@@ -1134,12 +1222,44 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(g) Effective period** Subject to the availability of funds and except as otherwise provided in this section, the loans and other expenditures required to be made under this section shall be available until expended, with the Secretary authorized to make new loans as loans are repaid.
 
-**(h) Authorization of appropriations** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2018.
+**(h) Publication** Not later than 120 days after the end of each fiscal year, the Secretary shall publish a description of—
+
+(1) the number of applications received under this section for that fiscal year;
+
+(2) the number of loans made to eligible entities under this section for that fiscal year; and
+
+(3) the recipients of the loans described in paragraph (2).
+
+**(i) Authorization of appropriations** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
+#### References in Text
+The Rural Electrification Act of 1936, referred to in subsec. (c)(4), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+
 #### Codification
 Section was not enacted as part of title IX of Pub. L. 107–171, which comprises this chapter.
+
+#### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–334, § 6303(1), substituted “efficiency (including cost-effective on- or off-grid renewable energy or energy storage systems).” for “efficiency.”
+
+Subsec. (c)(4). Pub. L. 115–334, § 6303(2)(B), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (c)(5). Pub. L. 115–334, § 6303(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (c)(5)(B). Pub. L. 115–334, § 6303(2)(C), substituted “(7)” for “(6)”.
+
+Subsec. (c)(6) to (8). Pub. L. 115–334, § 6303(2)(A), redesignated pars. (5) to (7) as (6) to (8), respectively.
+
+Subsec. (c)(9). Pub. L. 115–334, § 6303(2)(D), added par. (9).
+
+Subsec. (d)(1)(A). Pub. L. 115–334, § 6303(3)(A), substituted “5 percent” for “3 percent” in introductory provisions.
+
+Subsec. (d)(1)(D). Pub. L. 115–334, § 6303(3)(B), substituted “recurring service” for “electric” in introductory provisions.
+
+Subsec. (h). Pub. L. 115–334, § 6303(5), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 115–334, § 6303(4), (6), redesignated subsec. (h) as (i) and substituted “2023” for “2018”.
 
 
 <a id="section-8108"></a>
@@ -1148,9 +1268,15 @@ Section was not enacted as part of title IX of Pub. L. 107–171, which comprise
 
 (1) **Biobased product** — The term “biobased product” means—
 
-  (A) an industrial product (including chemicals, materials, and polymers) produced from biomass; or
+  (A) an industrial product (including chemicals, materials, and polymers) produced from biomass;
 
-  (B) a commercial or industrial product (including animal feed and electric power) derived in connection with the conversion of biomass to fuel.
+  (B) a commercial or industrial product (including animal feed and electric power) derived in connection with the conversion of biomass to fuel; or
+
+  (C) carbon dioxide that—
+
+    (i) is intended for permanent sequestration or utilization; and
+
+    (ii) is a byproduct of the production of the products described in subparagraphs (A) and (B).
 
 (2) **Demonstration** — The term “demonstration” means demonstration of technology in a pilot plant or semi-works scale facility, including a plant or facility located on a farm.
 
@@ -1230,9 +1356,11 @@ Section was not enacted as part of title IX of Pub. L. 107–171, which comprise
 
     (xi) an individual with expertise in plant biology and biomass feedstock development;
 
-    (xii) an individual with expertise in agronomy, crop science, or soil science; and
+    (xii) an individual with expertise in agronomy, crop science, or soil science;
 
-    (xiii) at the option of the points of contact, other members.
+    (xiii) an individual with expertise in carbon dioxide capture, utilization, and sequestration; and
+
+    (xiv) at the option of the points of contact, other members.
 
   (B) *Appointment* — The members of the Advisory Committee shall be appointed by the points of contact.
 
@@ -1274,9 +1402,11 @@ Section was not enacted as part of title IX of Pub. L. 107–171, which comprise
 
     (i) to enhance the economic viability of biofuels and power;
 
-    (ii) to serve as substitutes for petroleum-based feedstocks and products; and
+    (ii) to serve as substitutes for petroleum-based feedstocks and products;
 
     (iii) to enhance the value of coproducts produced using the technologies and processes; and
+
+    (iv) to permanently sequester or utilize carbon dioxide described in subsection (a)(1)(C); and
 
   (C) a diversity of economically and environmentally sustainable domestic sources of renewable biomass for conversion to biofuels, bioenergy, and biobased products.
 
@@ -1286,9 +1416,11 @@ Section was not enacted as part of title IX of Pub. L. 107–171, which comprise
 
   (B) *Biofuels and biobased products development* — Research, development, and demonstration activities to support—
 
-    (i) the development of diverse cost-effective technologies for the use of cellulosic biomass in the production of biofuels and biobased products; and
+    (i) the development of diverse cost-effective technologies for the use of cellulosic biomass in the production of biofuels and biobased products;
 
-    (ii) product diversification through technologies relevant to production of a range of biobased products (including chemicals, animal feeds, and cogenerated power) that potentially can increase the feasibility of fuel production in a biorefinery.
+    (ii) product diversification through technologies relevant to production of a range of biobased products (including chemicals, animal feeds, and cogenerated power) that potentially can increase the feasibility of fuel production in a biorefinery; and
+
+    (iii) the development of technologies to permanently sequester or utilize carbon dioxide described in subsection (a)(1)(C).
 
   (C) *Biofuels development analysis*
 
@@ -1386,7 +1518,7 @@ Section was not enacted as part of title IX of Pub. L. 107–171, which comprise
 
   (E) $3,000,000 for each of fiscal years 2014 through 2017.
 
-(2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+(2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -1402,6 +1534,16 @@ A prior section 8108, Pub. L. 107–171, title IX, § 9010, May 13, 2002, 116 St
 A prior section 9008 of Pub. L. 107–171 amended title III of Pub. L. 106–224, which was classified to chapter 112 (§ 8601 et seq.) of this title prior to repeal by Pub. L. 110–246, § 9001(b).
 
 #### Amendments
+2018—Subsec. (a)(1)(C). Pub. L. 115–334, § 7507(1), added subpar. (C).
+
+Subsec. (d)(2)(A)(xiii), (xiv). Pub. L. 115–334, § 7507(2), added cl. (xiii) and redesignated former cl. (xiii) as (xiv).
+
+Subsec. (e)(2)(B)(iv). Pub. L. 115–334, § 7507(3)(A), added cl. (iv).
+
+Subsec. (e)(3)(B)(iii). Pub. L. 115–334, § 7507(3)(B), added cl. (iii).
+
+Subsec. (h)(2). Pub. L. 115–334, § 7507(4), substituted “2023” for “2018”.
+
 2014—Subsec. (h)(1)(E). Pub. L. 113–79, § 9008(1), added subpar. (E).
 
 Subsec. (h)(2). Pub. L. 113–79, § 9008(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$35,000,000 for each of fiscal years 2009 through 2013”.
@@ -1416,71 +1558,13 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-8109"></a>
-## § 8109. Rural Energy Self-Sufficiency Initiative
-**(a) Definitions** In this section:
-
-(1) **Eligible rural community** — The term “eligible rural community” means a community located in a rural area (as defined in [section 1991(a)(13)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a/13/A&num=0&edition=prelim)).
-
-(2) **Initiative** — The term “Initiative” means the Rural Energy Self-Sufficiency Initiative established under this section.
-
-(3) **Integrated renewable energy system** — The term “integrated renewable energy system” means a community-wide energy system that—
-
-  (A) reduces conventional energy use; and
-
-  (B) increases the use of energy from renewable sources.
-
-**(b) Establishment** The Secretary shall establish a Rural Energy Self-Sufficiency Initiative to provide financial assistance for the purpose of enabling eligible rural communities to substantially increase the energy self-sufficiency of the eligible rural communities.
-
-**(c) Grant assistance**
-
-(1) **In general** — The Secretary shall make grants available under the Initiative to eligible rural communities to carry out an activity described in paragraph (2).
-
-(2) **Use of grant funds** — An eligible rural community may use a grant—
-
-  (A) to conduct an energy assessment that assesses the total energy use of all energy users in the eligible rural community;
-
-  (B) to formulate and analyze ideas for reducing energy usage by the eligible rural community from conventional sources; and
-
-  (C) to develop and install an integrated renewable energy system.
-
-(3) **Grant selection**
-
-  (A) *Application* — To be considered for a grant, an eligible rural community shall submit an application to the Secretary that describes the ways in which the community would use the grant to carry out an activity described in paragraph (2).
-
-  (B) *Preference* — The Secretary shall give preference to those applications that propose to carry out an activity in coordination with—
-
-    (i) institutions of higher education or nonprofit foundations of institutions of higher education;
-
-    (ii) Federal, State, or local government agencies;
-
-    (iii) public or private power generation entities; or
-
-    (iv) government entities with responsibility for water or natural resources.
-
-(4) **Report** — An eligible rural community receiving a grant under the Initiative shall submit to the Secretary a report on the project of the eligible rural community.
-
-(5) **Cost-sharing** — The amount of a grant under the Initiative shall not exceed 50 percent of the cost of the activities described in the application.
-
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2013.
+## § 8109. Repealed. Pub. L. 115–334, title IX, § 9008, Dec. 20, 2018, 132 Stat. 4886
 
 ### Statutory Notes
 
-#### Codification
-Another section 9009 of Pub. L. 107–171 amended [section 6711 of this title](./chapter-096-global-climate-change.md#section-6711).
+Section, Pub. L. 107–171, title IX, § 9009, as added Pub. L. 110–234, title IX, § 9001(a), May 22, 2008, 122 Stat. 1324, and Pub. L. 110–246, § 4(a), title IX, § 9001(a), June 18, 2008, 122 Stat. 1664, 2085; amended Pub. L. 112–240, title VII, § 701(f)(8), Jan. 2, 2013, 126 Stat. 2365, established Rural Energy Self-Sufficiency Initiative.
 
-Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
-
-#### Prior Provisions
 A prior section 8109, Pub. L. 107–171, title IX, § 9011, as added Pub. L. 108–199, div. A, title VII, § 778(b), Jan. 23, 2004, 118 Stat. 41, related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by Pub. L. 110–246. See [section 8114 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8114).
-
-#### Amendments
-2013—Subsec. (d). Pub. L. 112–240 substituted “2013” for “2012”.
-
-#### Effective Date of 2013 Amendment
-Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-#### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8110"></a>
@@ -1499,7 +1583,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (1) **In general**
 
-  (A) *Purchases and sales* — For each of the 2008 through 2018 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that [section 7272 of this title](./chapter-100-agricultural-market-transition.md#section-7272) is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
+  (A) *Purchases and sales* — For each of the 2008 through 2023 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that [section 7272 of this title](./chapter-100-agricultural-market-transition.md#section-7272) is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
 
   (B) *Competitive procedures* — In carrying out the purchases and sales required under subparagraph (A), the Secretary shall, to the maximum extent practicable, use competitive procedures, including the receiving, offering, and accepting of bids, when entering into contracts with eligible entities and bioenergy producers, provided that such procedures are consistent with the purposes of subparagraph (A).
 
@@ -1507,7 +1591,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (2) **Notice**
 
-  (A) *In general* — As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2018, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
+  (A) *In general* — As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2023, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
 
   (B) *Reestimates* — Not later than the January 1, April 1, and July 1 of the calendar year following the date of a notice under subparagraph (A), the Secretary shall reestimate the quantity of eligible commodities determined under subparagraph (A), and provide notice and make purchases and sales based on such reestimates.
 
@@ -1561,6 +1645,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 9010 of Pub. L. 107–171 was classified to [section 8108 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8108), prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(1)(A), (2)(A). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (b)(1)(A), (2)(A). Pub. L. 113–79 substituted “2018” for “2013”.
 
 2013—Subsec. (b)(1)(A), (2)(A). Pub. L. 112–240 substituted “2013” for “2012”.
@@ -1646,9 +1732,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
       (I) is a byproduct of a preventative treatment that is removed to reduce hazardous fuel or to reduce or contain disease or insect infestation; and
 
-      (II) if harvested from Federal land, is harvested in accordance with [section 6512(e) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6512/e&num=0&edition=prelim); and
+      (II) if harvested from Federal land, is harvested in accordance with [section 6512(e) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6512/e&num=0&edition=prelim);
 
-    (iii) eligible material that is delivered to a qualified biomass conversion facility to be used for heat, power, biobased products, research, or advanced biofuels.
+    (iii) eligible material that is delivered to a qualified biomass conversion facility to be used for heat, power, biobased products, research, or advanced biofuels; and
+
+    (iv) algae.
 
   (C) *Exclusions* — The term “eligible material” does not include—
 
@@ -1678,17 +1766,15 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
     (iii) food waste and yard waste;
 
-    (iv) algae;
-
-    (v) woody eligible material that—
+    (iv) woody eligible material that—
 
       (I) is removed outside contract acreage; and
 
       (II) is not a byproduct of a preventative treatment to reduce hazardous fuel or to reduce or contain disease or insect infestation;
 
-    (vi) any woody eligible material collected or harvested outside contract acreage that would otherwise be used for existing market products; or
+    (v) any woody eligible material collected or harvested outside contract acreage that would otherwise be used for existing market products; or
 
-    (vii) bagasse.
+    (vi) bagasse.
 
 (7) **Producer** — The term “producer” means an owner or operator of contract acreage that is physically located within a BCAP project area.
 
@@ -1698,7 +1784,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (B) a biomass conversion facility.
 
-(9) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in [section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim).
+(9) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 11 See References in Text note below. of this title.
 
 **(b) Establishment and purpose** The Secretary shall establish and administer a Biomass Crop Assistance Program to—
 
@@ -1772,7 +1858,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
       (III) a plan that is equivalent to a conservation or forest stewardship plan; and
 
-    (iv) any additional requirements that Secretary 11 So in original. Probably should be preceded by “the”. determines to be necessary.
+    (iv) any additional requirements that Secretary 22 So in original. Probably should be preceded by “the”. determines to be necessary.
 
   (C) *Duration* — A contract under this subsection shall have a term of not more than—
 
@@ -1844,15 +1930,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(f) Funding**
 
-(1) **In general** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.
+(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2019 through 2023.
 
 (2) **Collection, harvest, storage, and transportation payments** — Of the amount made available under paragraph (1) for each fiscal year, the Secretary shall use not less than 10 percent, nor more than 50 percent, of the amount to make collection, harvest, transportation, and storage payments under subsection (d)(2).
 
-(3) **Technical assistance**
-
-  (A) *In general* — Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.
-
-  (B) *Relationship to other laws* — To the extent funds obligated or expended under subparagraph (A) include funds of the Commodity Credit Corporation, such funds shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by [section 714i of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714i&num=0&edition=prelim).
+(3) **Technical assistance** — Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.
 
 ### Statutory Notes
 
@@ -1863,6 +1945,8 @@ The Food Security Act of 1985, referred to in subsecs. (a)(5)(A)(ii), (B)(iii), 
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (a)(5)(B)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
+[Section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim), referred to in subsec. (a)(9), was redesignated [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim) by section 12301(b)(3) of Pub. L. 115–334.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
@@ -1870,6 +1954,14 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 9011 of Pub. L. 107–171 was classified to [section 8109 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8109), prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(6)(B)(iv). Pub. L. 115–334, § 9010(1)(A), added cl. (iv).
+
+Subsec. (a)(6)(C)(iv) to (vii). Pub. L. 115–334, § 9010(1)(B), redesignated cls. (v) to (vii) as (iv) to (vi), respectively, and struck out former cl. (iv) which read as follows: “algae;”.
+
+Subsec. (f)(1). Pub. L. 115–334, § 9010(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.”
+
+Subsec. (f)(3). Pub. L. 115–334, § 9010(2)(B), amended par. (3) generally. Prior to amendment, par. (3) related to funds for technical assistance.
+
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to the Biomass Crop Assistance Program.
 
 2013—Subsec. (f). Pub. L. 112–240 designated existing provisions as par. (1), inserted heading, and added par (2).
@@ -1890,66 +1982,102 @@ Section, Pub. L. 107–171, title IX, § 9012, as added Pub. L. 110–234, title
 
 
 <a id="section-8113"></a>
-## § 8113. Community wood energy program
+## § 8113. Community Wood Energy and Wood Innovation Program
 **(a) Definitions** In this section:
 
-(1) **Biomass consumer cooperative** — The term “biomass consumer cooperative” means a consumer membership organization the purpose of which is to provide members with services or discounts relating to the purchase of biomass heating products or biomass heating systems.
-
-(2) **Community wood energy plan** — The term “community wood energy plan” means an assessment of—
-
-  (A) available feedstocks necessary to supply a community wood energy system; and
-
-  (B) the long-term feasibility of supplying and operating a community wood energy system.
-
-(3) **Community wood energy system**
+(1) **Community wood energy system**
 
   (A) *In general* — The term “community wood energy system” means an energy system that—
 
-    (i) primarily services public facilities owned or operated by State or local governments, including schools, town halls, libraries, and other public buildings; and
+    (i) produces thermal energy or combined thermal energy and electricity where thermal is the primary energy output;
 
-    (ii) uses woody biomass as the primary fuel.
+    (ii) services public facilities owned or operated by State or local governments (including schools, town halls, libraries, and other public buildings) or private or nonprofit facilities (including commercial and business facilities, such as hospitals, office buildings, apartment buildings, and manufacturing and industrial buildings); and
 
-  (B) *Inclusions* — The term “community wood energy system” includes single facility central heating, district heating, combined heat and energy systems, and other related biomass energy systems.
+    (iii) uses woody biomass, including residuals—
 
-**(b) Grant program**
+      (I) that have not been adulterated with glue or other chemical treatments from wood processing facilities, as the primary fuel; and
 
-(1) **In general** — The Secretary, acting through the Chief of the Forest Service, shall establish a program to be known as the “Community Wood Energy Program” to provide—
+      (II) for which the use of that biomass for energy production does not cause conversion of forests to nonforest use.
 
-  (A) grants of up to $50,000 to State and local governments (or designees) to develop community wood energy plans;
+  (B) *Inclusions* — The term “community wood energy system” includes single-facility central heating, district heating systems serving multiple buildings, combined heat and electric systems where thermal energy is the primary energy output, and other related biomass energy systems.
 
-  (B) competitive grants to State and local governments to acquire or upgrade community wood energy systems; and
+(2) **Innovative wood product facility** — The term “innovative wood product facility” means a manufacturing or processing plant or mill that produces—
 
-  (C) grants of up to $50,000 to biomass consumer cooperatives for the purpose of establishing or expanding biomass consumer cooperatives that will provide consumers with services or discounts relating to—
+  (A) building components or systems that use large panelized wood construction, including mass timber;
 
-    (i) the purchase of biomass heating systems;
+  (B) wood products derived from nanotechnology or other new technology processes, as determined by the Secretary; or
 
-    (ii) biomass heating products, including wood chips, wood pellets, and advanced biofuels; or
+  (C) other innovative wood products that use low-value, low-quality wood, as determined by the Secretary.
 
-    (iii) the delivery and storage of biomass of heating products.
+(3) **Mass timber** — The term “mass timber” includes—
 
-(2) **Considerations** — In selecting applicants for grants under paragraph (1)(B), the Secretary shall consider—
+  (A) cross-laminated timber;
 
-  (A) the energy efficiency of the proposed system;
+  (B) nail-laminated timber;
 
-  (B) the cost effectiveness of the proposed system; and
+  (C) glue-laminated timber;
 
-  (C) other conservation and environmental criteria that the Secretary considers appropriate.
+  (D) laminated strand lumber; and
 
-(3) **Use of plan** — A State or local government applying to receive a competitive grant described in paragraph (1)(B) shall submit to the Secretary as part of the grant application the applicable community wood energy plan.
+  (E) laminated veneer lumber.
 
-**(c) Limitation** A community wood energy system acquired with grant funds provided under subsection (b)(1)(B) shall not exceed an output of—
+(4) **Program** — The term “Program” means the Community Wood Energy and Wood Innovation Program established under subsection (b).
 
-(1) 50,000,000 Btu per hour for heating; and
+**(b) Competitive grant program** The Secretary, acting through the Chief of the Forest Service, shall establish a competitive grant program to be known as the “Community Wood Energy and Wood Innovation Program”.
 
-(2) 2 megawatts for electric power production.
+**(c) Matching grants**
 
-**(d) Matching funds**
+(1) **In general** — Under the Program, the Secretary shall make grants to cover not more than 35 percent of the capital cost for installing a community wood energy system or building an innovative wood product facility.
 
-(1) **State and local governments** — A State or local government that receives a grant under subparagraph (A) or (B) of subsection (b)(1) shall contribute an amount of non-Federal funds towards the development of the community wood energy plan, or acquisition of the community wood energy systems that is at least equal to the amount of grant funds received by the State or local government under that subsection.
+(2) **Special circumstances** — The Secretary may establish special circumstances, such as in the case of a community wood energy system project or innovative wood product facility project involving a school or hospital in a low-income community, under which grants under the Program may cover up to 50 percent of the capital cost.
 
-(2) **Biomass consumer cooperatives** — A biomass consumer cooperative that receives a grant under subsection (b)(1)(C) shall contribute an amount of non-Federal funds (which may include State, local, and nonprofit funds and membership dues) toward the establishment or expansion of a biomass consumer cooperative that is at least equal to 50 percent of the amount of Federal funds received for that purpose.
+(3) **Source of matching funds** — Matching funds required pursuant to this subsection from a grant recipient shall be derived from non-Federal funds.
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2018.
+**(d) Project cap** The total amount of grants under the Program for a community wood energy system project or innovative wood product facility project may not exceed—
+
+(1) in the case of grants under the general authority provided under subsection (c)(1), $1,000,000; and
+
+(2) in the case of grants for which the special circumstances apply under subsection (c)(2), $1,500,000.
+
+**(e) Selection criteria** In selecting applicants for grants under the Program, the Secretary shall consider the following:
+
+(1) The energy efficiency of the proposed community wood energy system or innovative wood product facility.
+
+(2) The cost effectiveness of the proposed community wood energy system or innovative wood product facility.
+
+(3) The extent to which the proposed community wood energy system or innovative wood product facility represents the best available commercial technology.
+
+(4) The extent to which the proposed community wood energy system uses the most stringent control technology that has been required or achieved in practice for a wood-fired boiler of similar size and type.
+
+(5)
+
+  (A) The extent to which the proposed community wood energy system will displace conventional fossil fuel generation.
+
+  (B) Whether the proposed community wood energy system minimizes emission increases to the greatest extent possible.
+
+(6) The extent to which the proposed community wood energy system will increase delivered thermal efficiency of the systems replaced.
+
+(7) The extent to which the applicant has demonstrated a high likelihood of project success by completing detailed engineering and design work in advance of the grant application.
+
+(8) Other technical, economic, conservation, and environmental criteria that the Secretary considers appropriate.
+
+**(f) Grant priorities** In selecting applicants for grants under the Program, the Secretary shall give priority to proposals that use the most stringent control technology that has been required or achieved in practice for a wood-fired boiler and—
+
+(1) would be carried out in a location where markets are needed for the low-value, low-quality wood;
+
+(2) would be carried out in a location with limited access to natural gas pipelines;
+
+(3) would include the use or retrofitting (or both) of existing sawmill facilities located in a location where the average annual unemployment rate exceeded the national average unemployment rate by more than 1 percent during the previous calendar year; or
+
+(4) would be carried out in a location where the project will aid with forest restoration.
+
+**(g) Limitations**
+
+(1) **Capacity of community wood energy systems** — A community wood energy system acquired with grant funds under the Program shall not exceed nameplate capacity of 5 megawatts of thermal energy or combined thermal and electric energy.
+
+(2) **Funding for innovative wood product facilities** — Not more than 25 percent of funds provided as grants under the Program for a fiscal year may go to applicants proposing innovative wood product facilities, unless the Secretary has received an insufficient number of qualified proposals for community wood energy systems.
+
+**(h) Funding** There is authorized to be appropriated to carry out the Program $25,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -1957,6 +2085,8 @@ Section, Pub. L. 107–171, title IX, § 9012, as added Pub. L. 110–234, title
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334 amended section generally. Prior to amendment, text related to the Community Wood Energy Program.
+
 2014—Subsec. (a). Pub. L. 113–79, § 9012(a), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Subsec. (b)(1)(C). Pub. L. 113–79, § 9012(b), added subpar. (C).
@@ -2060,8 +2190,6 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
       (III) *Reduction* — The sun grant center or subcenter may reduce or eliminate the requirement for non-Federal funds under subclause (I) for applied research (as defined in subsection (f)(1) of [section 6971 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6971) (as added by section 7511(a)(4)) 1 if the sun grant center or subcenter determines that the reduction is necessary and appropriate pursuant to guidance issued by the Secretary.
 
-      (IV) *Relation to other matching fund requirement* — The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply in the case of a grant provided by a sun grant center or subcenter under this paragraph.
-
     (v) *Buildings and facilities* — Funds made available for grants shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
 
     (vi) *Limitation on indirect costs* — A sun grant center or subcenter may not recover the indirect costs of making grants under subparagraph (A).
@@ -2090,7 +2218,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (2) a description of progress made in facilitating the priorities described in subsection (d)(1).
 
-**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2018, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).
+**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2023, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).
 
 ### Statutory Notes
 
@@ -2106,6 +2234,10 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 Provisions similar to those in this section were contained in [section 8109 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8109) prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (c)(1)(C)(iv)(IV). Pub. L. 115–334, § 7614(b)(4)(A), struck out subcl. (IV). Prior to amendment, text read as follows: “The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply in the case of a grant provided by a sun grant center or subcenter under this paragraph.”
+
+Subsec. (g). Pub. L. 115–334, § 7414, substituted “2023” for “2018”.
+
 2014—Subsec. (a)(4)(B). Pub. L. 113–79, § 7516(a)(1), substituted “other appropriate Federal agencies (as determined by the Secretary)” for “the Department of Energy”.
 
 Subsec. (b)(1)(A). Pub. L. 113–79, § 7516(a)(2)(A), struck out “at South Dakota State University” after “center”.
@@ -2138,8 +2270,46 @@ Subsec. (f)(1). Pub. L. 113–79, § 7516(b), substituted “subsection (c)(1)(C
 
 Subsec. (g). Pub. L. 113–79, § 7516(a)(5), substituted “2018” for “2012”.
 
+#### Effective Date of 2018 Amendment
+Amendment by section 7614(b)(4)(A) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+
+<a id="section-8115"></a>
+## § 8115. Carbon utilization and biogas education program
+**(a) Definitions** In this section:
+
+(1) **Carbon dioxide** — The term “carbon dioxide” means carbon dioxide that is produced as a byproduct of the production of a biobased product.
+
+(2) **Eligible entity** — The term “eligible entity” means an entity that—
+
+  (A) is—
+
+    (i) an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from taxation under section 501(a) of that title; or
+
+    (ii) an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim));
+
+  (B) has demonstrated knowledge about—
+
+    (i) sequestration and utilization of carbon dioxide; or
+
+    (ii) aggregation of organic waste from multiple sources into a single biogas system; and
+
+  (C) has a demonstrated ability to conduct educational and technical support programs.
+
+**(b) Establishment** The Secretary, in consultation with the Secretary of Energy, shall make competitive grants to eligible entities—
+
+(1) to provide education to the public about the economic and emissions benefits of permanent sequestration or utilization of carbon dioxide with a primary objective of providing benefits and opportunities for rural businesses, rural communities, and utilities serving rural communities; or
+
+(2) to provide education to agricultural producers and other stakeholders about opportunities for aggregation of organic waste from multiple sources into a single biogas system.
+
+**(c) Funding** There are authorized to be appropriated for each of fiscal years 2019 through 2023—
+
+(1) $1,000,000 to carry out subsection (b)(1); and
+
+(2) $1,000,000 to carry out subsection (b)(2).

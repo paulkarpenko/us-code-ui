@@ -38,11 +38,8 @@ The head of any department or agency of the Government of the United States havi
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Existing Rights-of-Way
 Provisions of section 706(a) of Pub. L. 94–579, except as pertaining to rights-of-way, not to be construed as affecting the authority of the Secretary of Agriculture under this section, see section 706(b) of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
@@ -86,11 +83,8 @@ The right of way through the public lands of the United States is granted to any
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-935"></a>
@@ -100,11 +94,8 @@ Any railroad company whose right of way, or whose track or roadbed upon such rig
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-936"></a>
@@ -114,11 +105,8 @@ The legislature of the proper Territory may provide for the manner in which priv
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-937"></a>
@@ -128,11 +116,8 @@ Any railroad company desiring to secure the benefits of sections 934 to 939 of t
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
@@ -147,11 +132,8 @@ Sections 934 to 939 of this title shall not apply to any lands within the limits
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-939"></a>
@@ -161,11 +143,8 @@ Congress reserves the right at any time to alter, amend, or repeal sections 934 
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-940"></a>
@@ -196,9 +175,6 @@ The right of way through the lands of the United States in Alaska is granted to 
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
 
@@ -210,8 +186,8 @@ Section was formerly classified to [section 411 of Title 48](https://uscode.hous
 #### Short Title
 Sections 942–1 to 942–9 of this title are popularly known as the “Alaska Right of Way Act”.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Admission of Alaska as State
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959. 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
@@ -224,14 +200,11 @@ Any railroad company whose right of way, or whose track or roadbed upon such rig
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Codification
 Section was formerly classified to [section 412 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section412&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-942-3"></a>
@@ -241,9 +214,6 @@ Where any company, the right of way to which is granted by sections 687a, 687a�
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
 
@@ -252,8 +222,8 @@ The first sentence of this section to the colon is from section 4 of act May 14,
 
 Section was formerly classified to [section 413 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section413&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-942-4"></a>
@@ -263,9 +233,6 @@ Any company mentioned in sections 687a, 687a–2 to 687a–5,11 See References i
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
 
@@ -274,8 +241,8 @@ Section is comprised of the proviso of section 4 of act May 14, 1898. The remain
 
 Section was formerly classified to [section 414 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section414&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Extension of Time To Complete Railroad
 The time of the Western Alaska Construction Company to comply with the provisions of this section and [section 942–6 of this title](./chapter-022-rights-of-way-and-other-easements-in-public-lands.md#section-942-6), in acquiring and completing its railroad, was extended by act Apr. 9, 1904, ch. 1165, 33 Stat. 165.
@@ -288,17 +255,14 @@ Any company desiring to secure the benefits of sections 687a, 687a–2 to 687a�
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
 
 #### Codification
 Section was formerly classified to [section 415 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section415&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Transfer of Functions
 “Such officer as the Secretary of the Interior may designate” substituted in text for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
@@ -311,17 +275,14 @@ The Secretary of the Interior is authorized to issue a permit, by instrument in 
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Sections 687a and 687a–2 to 687a–5 of this title, referred to in third par., were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
 
 #### Codification
 Section was formerly classified to [section 416 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section416&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Admission of Alaska as State
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 399, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
@@ -334,17 +295,14 @@ Sections 687a, 687a–2 to 687a–5,11 See References in Text note below. and 94
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
 
 #### Codification
 Section was formerly classified to [section 417 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section417&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-942-8"></a>
@@ -354,17 +312,14 @@ Congress reserves the right at any time to alter, amend, or repeal sections 687a
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
 
 #### Codification
 Section was formerly classified to [section 418 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section418&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-942-9"></a>
@@ -374,14 +329,11 @@ The map and profile of definite location of such railroad, wagon road, or tramwa
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Codification
 Section was formerly classified to [section 419 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section419&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-943"></a>
@@ -391,14 +343,11 @@ All lands in the State of Minnesota described in and withdrawn from sale by the 
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-944"></a>
@@ -408,11 +357,8 @@ Where, under sections 934 to 939 of this title, or under special Acts of Congres
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-945"></a>
@@ -463,16 +409,13 @@ The right of way through the public lands and reservations of the United States 
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Amendments
 1926—Act May 28, 1926, substituted “canal ditch company, irrigation or drainage district” for “canal or ditch company or drainage district” and inserted “or, if not a private corporation, a copy of the law under which the same is formed” after “articles of incorporation” and “, and, upon presentation of satisfactory showing by the applicant, such additional right of way as the Secretary of the Interior may deem necessary for the proper operation and maintenance of said reservoirs, canals, and laterals” after “marginal limits thereof”.
 
 1917—Act Mar. 4, 1917, inserted “or drainage district,” after “any canal or ditch company,” and “or drainage,” after “for the purpose of irrigation”.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-947"></a>
@@ -482,11 +425,8 @@ Any canal or ditch company desiring to secure the benefits of sections 946 to 94
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
@@ -501,11 +441,8 @@ The provisions of sections 946 to 949 of this title shall apply to all canals, d
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
@@ -520,11 +457,8 @@ Nothing in sections 946 to 949 of this title shall authorize such canal or ditch
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-950"></a>
@@ -534,11 +468,8 @@ In addition to the rights of way granted by sections 946 to 949 of this title, a
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-951"></a>
@@ -548,11 +479,8 @@ Rights of way for ditches, canals, or reservoirs heretofore or hereafter approve
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-952"></a>
@@ -562,11 +490,8 @@ Any person, livestock company, or transportation corporation engaged in breeding
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-953"></a>
@@ -576,11 +501,8 @@ Any person, livestock company, or corporation desiring to avail themselves of th
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-954"></a>
@@ -590,11 +512,8 @@ At any time after the completion of such reservoir or reservoirs, which shall be
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
@@ -611,11 +530,8 @@ Congress may at any time amend, alter, or repeal sections 952 to 955 of this tit
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-956"></a>
@@ -625,11 +541,8 @@ The Secretary of the Interior is authorized and empowered, under general regulat
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-957"></a>
@@ -639,14 +552,11 @@ The Secretary of the Interior is authorized and empowered, under general regulat
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Codification
 The words “national forests” substituted in text for “forest reservations” pursuant to act Mar. 4, 1907, which changed the designation of forest reserves to national forests.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-958"></a>
@@ -656,11 +566,8 @@ In the form provided by existing law the Secretary of the Interior may file and 
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-959"></a>
@@ -669,11 +576,6 @@ Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-wa
 That the Secretary of the Interior be, and hereby is, authorized and empowered, under general regulations to be fixed by him, to permit the use of rights of way through the public lands, forest and other reservations of the United States, and the Yosemite, Sequoia, and General Grant national parks, California, for electrical plants, poles, and lines for the generation and distribution of electrical power, and for telephone and telegraph purposes, and for canals, ditches, pipes and pipe lines, flumes, tunnels, or other water conduits, and for water plants, dams, and reservoirs used to promote irrigation or mining or quarrying, or the manufacturing or cutting of timber or lumber, or the supplying of water for domestic, public, or any other beneficial uses to the extent of the ground occupied by such canals, ditches, flumes, tunnels, reservoirs, or other water conduits or water plants, or electrical or other works permitted hereunder, and not to exceed fifty feet on each side of the marginal limits thereof, or not to exceed fifty feet on each side of the center line of such pipes and pipe lines, electrical, telegraph, and telephone lines and poles, by any citizen, association, or corporation of the United States, where it is intended by such to exercise the use permitted hereunder or any one or more of the purposes herein named: Provided, That such permits shall be allowed within or through any of said parks or any forest, military, Indian, or other reservation only upon the approval of the chief officer of the Department under whose supervision such park or reservation falls and upon a finding by him that the same is not incompatible with the public interest: Provided further, That all permits given hereunder for telegraph and telephone purposes shall be subject to the provisions of title sixty-five of the Revised Statutes of the United States, and amendments thereto, regulating rights of way for telegraph companies over the public domain: And provided further, That any permission given by the Secretary of the Interior under the provisions of this Act may be revoked by him or his successor in his discretion, and shall not be held to confer any right, or easement, or interest in, to, or over any public land, reservation, or park.
 
 ### Statutory Notes
-
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. For definition of “public lands” for purposes of Pub. L. 94–579, see [section 1702(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702/e&num=0&edition=prelim).
-
-Section repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to units of the National Park System. See [section 100902(a) of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100902/a&num=0&edition=prelim), National Park Service and Related Programs.
 
 #### References in Text
 Title sixty-five of the Revised Statutes of the United States, and amendments thereto, referred to in text, which consisted of R.S. §§ 5263 to 5269, was classified to sections 1 to 6 and 8 of Title 47, Telecommunications, and was repealed by act July 16, 1947, ch. 256, § 1, 61 Stat. 327.
@@ -686,6 +588,11 @@ Act Feb. 15, 1901, ch. 372, 31 Stat. 790, was also classified to sections 79 and
 #### General Grant National Park Abolished
 Act Mar. 4, 1940, ch. 40, § 2, 54 Stat. 43, which is classified to [section 80a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section80a&num=0&edition=prelim), Conservation, abolished the General Grant National Park and added the lands to the Kings Canyon National Park as the General Grant grove section.
 
+#### Repeals
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. For definition of “public lands” for purposes of Pub. L. 94–579, see [section 1702(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702/e&num=0&edition=prelim).
+
+Section repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to units of the National Park System. See [section 100902(a) of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100902/a&num=0&edition=prelim), National Park Service and Related Programs.
+
 #### Savings Provision
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
@@ -696,11 +603,6 @@ Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-wa
 That the head of the department having jurisdiction over the lands be, and he hereby is, authorized and empowered, under general regulations to be fixed by him, to grant an easement for rights-of-way, for a period not exceeding fifty years from the date of the issuance of such grant, over, across, and upon the public lands, national forests, and reservations of the United States for electrical poles and lines for the transmission and distribution of electrical power, and for poles and lines for communication purposes, and for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to the extent of two hundred feet on each side of the center line of such lines and poles and not to exceed four hundred feet by four hundred feet for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to any citizen, association, or corporation of the United States, where it is intended by such to exercise the right-of-way herein granted for any one or more of the purposes herein named: Provided, That such right-of-way shall be allowed within or through any national park, national forest, military, Indian, or any other reservation only upon the approval of the chief officer of the department under whose supervision or control such reservation falls, and upon a finding by him that the same is not incompatible with the public interest: Provided further, That all or any part of such right-of-way may be forfeited and annulled by declaration of the head of the department having jurisdiction over the lands for nonuse for a period of two years or for abandonment.
 
 ### Statutory Notes
-
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. For definition of “public lands” for purposes of Pub. L. 94–579, see [section 1702(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702/e&num=0&edition=prelim).
-
-Section repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to units of the National Park System. See [section 100902(b) of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100902/b&num=0&edition=prelim), National Park Service and Related Programs.
 
 #### References in Text
 Heretofore, referred to in text, probably means before Mar. 4, 1911.
@@ -715,6 +617,11 @@ Acts Mar. 4, 1911, ch. 238, 36 Stat. 1253; May 27, 1952, ch. 338, 66 Stat. 95, w
 #### Amendments
 1952—Act May 27, 1952, inserted reference to rights-of-way for radio, television, and other forms of communication, and increased from 40 feet to 400 feet the maximum width of rights-of-way for lines and poles.
 
+#### Repeals
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. For definition of “public lands” for purposes of Pub. L. 94–579, see [section 1702(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702/e&num=0&edition=prelim).
+
+Section repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to units of the National Park System. See [section 100902(a) of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100902/a&num=0&edition=prelim), National Park Service and Related Programs.
+
 #### Savings Provision
 Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
@@ -726,14 +633,11 @@ The right of way through the public lands of the United States situate in the St
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Short Title
 Sections 962 to 965 of this title are popularly known as the “Oil Pipe Line Act”.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-963"></a>
@@ -743,11 +647,8 @@ Any company or corporation desiring to secure the benefits of sections 962 to 96
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
@@ -762,11 +663,8 @@ If any section of said pipe line shall not be completed within five years after 
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-965"></a>
@@ -776,11 +674,8 @@ Nothing in sections 962 to 965 of this title shall authorize the use of such rig
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-966"></a>
@@ -790,11 +685,8 @@ A right of way through the public lands of the United States in the State of Ark
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-967"></a>
@@ -804,11 +696,8 @@ Any citizen of the United States, company, or corporation desiring to secure the
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
@@ -823,11 +712,8 @@ Nothing in sections 966 to 970 of this title shall authorize the use of such rig
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-969"></a>
@@ -837,11 +723,8 @@ If any section of said pipe line shall not be completed within one year after th
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under and through the public lands and lands in the National Forest System.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-970"></a>
@@ -851,14 +734,11 @@ If any citizen, company, or corporation taking advantage of the benefits of sect
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Act of July 2, 1890, referred to in text, is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-971"></a>

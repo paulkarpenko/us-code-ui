@@ -16,7 +16,7 @@ source: >-
 
 **(b) Requirement for Consideration of All Officers In and Above the Zone.—** Whenever a promotion board (other than a vacancy promotion board) is convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) for consideration of officers in a competitive category who are eligible under this chapter for consideration for promotion to the next higher grade, each officer in the promotion zone, and each officer above the promotion zone, for that grade and competitive category shall be considered for promotion.
 
-**(c) Previously Selected Officers Not Eligible To Be Considered.—** A promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) may not consider for promotion to the next higher grade any of the following officers:
+**(c) Certain Officers Not To Be Considered.—** A promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) may not consider for promotion to the next higher grade any of the following officers:
 
 (1) An officer whose name is on a promotion list for that grade as a result of recommendation for promotion to that grade by an earlier selection board convened under that section or [section 14502 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14502) or under chapter 36 of this title.
 
@@ -27,6 +27,8 @@ source: >-
 (4) An officer who has been nominated by the President for promotion to that grade under any other provision of law, if that nomination is pending before the Senate.
 
 (5) An officer in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who is on an approved all-fully-qualified-officers list under [section 14308(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/b/4&num=0&edition=prelim).
+
+(6) An officer excluded under subsection (j).
 
 **(d) Officers Below the Zone.—** The Secretary of the military department concerned may, by regulation, prescribe procedures to limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion. The regulations shall include criteria for determining which officers below the promotion zone are exceptionally well qualified for promotion.
 
@@ -58,9 +60,31 @@ source: >-
 
 **(i) Reserve Officers Employed as Military Technician (dual Status).—** A reserve officer of the Army or Air Force employed as a military technician (dual status) under [section 10216 of this title](./chapter-1007-administration-of-reserve-components.md#section-10216) who has been retained beyond the mandatory removal date for years of service pursuant to subsection (f) of such section or [section 14702(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14702/a/2&num=0&edition=prelim) is not eligible for consideration for promotion by a mandatory promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim).
 
+**(j) Authority To Allow Officers To Opt Out of Selection Board Consideration.—**
+
+(1) The Secretary of a military department may provide that an officer under the jurisdiction of the Secretary may, upon the officer’s request and with the approval of the Secretary, be excluded from consideration by a selection board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) to consider officers for promotion to the next higher grade.
+
+(2) The Secretary concerned may only approve a request under paragraph (1) if—
+
+  (A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, or a career progression requirement delayed by the assignment or education;
+
+  (B) the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
+
+  (C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+
+**(k) Certain Officers Not to Be Considered for Selection for Promotion.—** The Secretary of the military department concerned may provide that an officer who is in an active status, but is in a duty status in which the only points the officer accrues under [section 12732(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/2&num=0&edition=prelim) are pursuant to subparagraph (C)(i) of that section (relating to membership in a reserve component), shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the reserve active-status list.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232, § 505(b)(1)(A), substituted “Certain Officers Not” for “Previously Selected Officers Not Eligible” in heading.
+
+Subsec. (c)(6). Pub. L. 115–232, § 505(b)(1)(B), added par. (6).
+
+Subsec. (j). Pub. L. 115–232, § 505(b)(2), added subsec. (j).
+
+Subsec. (k). Pub. L. 115–232, § 513, added subsec. (k).
+
 2011—Subsec. (i). Pub. L. 112–81 added subsec. (i).
 
 2002—Subsec. (g). Pub. L. 107–314 amended subsec. (g) generally. Prior to amendment, text read as follows: “A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) if the officer—
@@ -307,7 +331,11 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (2) an officer in a grade below colonel in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) may be promoted at any time to fill the vacancy for which the officer was selected.
 
-**(f) Effective Date of Promotion After Federal Recognition.—** The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
+**(f) Effective Date of Promotion After Federal Recognition.—**
+
+(1) The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
+
+(2) If the Secretary concerned determines that there was an undue delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force, and the delay was not attributable to the action (or inaction) of such officer, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion.
 
 **(g) Army and Air Force General Officer Promotions.—** A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
@@ -317,6 +345,10 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–232, § 518(a)(1), which directed amendment of subsec. (f) by inserting “(1)” before “The effective date of promotion”, was executed by making the insertion before “The effective date of a promotion” to reflect the probable intent of Congress.
+
+Subsec. (f)(2). Pub. L. 115–232, § 518(a)(2), added par. (2).
+
 2015—Subsec. (b)(4)(E). Pub. L. 114–92 added subpar. (E).
 
 2006—Subsec. (a). Pub. L. 109–364 inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
@@ -330,6 +362,9 @@ Subsec. (c)(3). Pub. L. 107–107, § 506(b)(1)(A), (2), redesignated par. (2) a
 1997—Subsec. (e)(2). Pub. L. 105–85, § 514(c)(1), inserted “a grade below colonel in” after “an officer in”.
 
 Subsec. (g). Pub. L. 105–85, § 514(c)(2), inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. A, title V, § 518(b), Aug. 13, 2018, 132 Stat. 1754, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 13, 2018], and shall apply with respect to promotions of officers whose State effective date is on or after that date.”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to officers on promotion lists established on or after such date, see section 511(e) of Pub. L. 109–364, set out as a note under [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
@@ -425,9 +460,9 @@ Pub. L. 103–337, div. A, title XVI, § 1684(b), Oct. 5, 1994, 108 Stat. 3024, 
 
   (E) Substantiated adverse information about the officer that is material to the decision to appoint the officer is under review by the Secretary of Defense or the Secretary concerned.
 
-(2) If disciplinary action is not taken against the officer, if the charges against the officer are withdrawn or dismissed, if the officer is not separated by the Secretary of the military department concerned as the result of having been required to show cause for retention, if the officer is acquitted of the charges, or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion, as the case may be, then (unless action to delay the officer’s appointment to the higher grade has been taken under subsection (b)) the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable), list of officers found qualified for Federal recognition, or list of officers nominated by the President to the Senate for appointment in a higher reserve grade and shall, upon promotion to the next higher grade, have the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list as the officer would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the reserve active-status list as the Secretary considers appropriate under the circumstances.
+(2) If disciplinary action is not taken against the officer, if the charges against the officer are withdrawn or dismissed, if the officer is not separated by the Secretary of the military department concerned as the result of having been required to show cause for retention, if the officer is acquitted of the charges, or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion, as the case may be, then (unless action to delay the officer’s appointment to the higher grade has been taken under subsection (b)) the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable), list of officers found qualified for Federal recognition, or list of officers nominated by the President to the Senate for appointment in a higher reserve grade and shall, upon promotion to the next higher grade, have the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list as the officer would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the reserve active-status list as the Secretary considers appropriate under the circumstances.
 
-**(b) Delay for Lack of Qualifications.—** Under regulations prescribed by the Secretary of Defense, the appointment of an officer to a higher grade may also be delayed if there is cause to believe that the officer has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or is mentally, physically, morally, or professionally unqualified to perform the duties of the grade to which selected. If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to the higher grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to the higher grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable), the list of officers found qualified for Federal recognition, or list of officers nominated by the President to the Senate for appointment in a higher reserve grade, and shall, upon promotion to that grade, have the same date of rank, the same effective date for pay and allowances of that grade, and the same position on the reserve active-status list as the officer would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the reserve active-status list as the Secretary considers appropriate under the circumstances.
+**(b) Delay for Lack of Qualifications.—** Under regulations prescribed by the Secretary of Defense, the appointment of an officer to a higher grade may also be delayed if there is cause to believe that the officer has not met the requirement for exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable, or is mentally, physically, morally, or professionally unqualified to perform the duties of the grade to which selected. If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to the higher grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to the higher grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable), the list of officers found qualified for Federal recognition, or list of officers nominated by the President to the Senate for appointment in a higher reserve grade, and shall, upon promotion to that grade, have the same date of rank, the same effective date for pay and allowances of that grade, and the same position on the reserve active-status list as the officer would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the reserve active-status list as the Secretary considers appropriate under the circumstances.
 
 **(c) Notice to Officer.—**
 
@@ -453,6 +488,8 @@ Pub. L. 103–337, div. A, title XVI, § 1684(b), Oct. 5, 1994, 108 Stat. 3024, 
 Provisions similar to those in this section were contained in sections 3363(e), 3380(b), 5902(d), 8363(g), and 8380(b) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+2018—Subsecs. (a)(2), (b). Pub. L. 115–232 substituted “section 7233, 8167, or 9233” for “section 3583, 5947, or 8583” in subsec. (a)(2) and in two places in subsec. (b).
+
 2011—Subsec. (b). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–364, § 511(b)(3). See 2006 Amendment note below.
 
 2006—Subsec. (a)(1). Pub. L. 109–364, § 511(b)(1), substituted “Secretary of Defense” for “Secretary of the military department concerned” in introductory provisions.
@@ -468,6 +505,9 @@ Pub. L. 109–364, § 511(b)(1), substituted “Secretary of Defense” for “S
 2001—Subsec. (a)(2). Pub. L. 107–107, § 505(c)(2)(B)(i), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list”.
 
 Subsec. (b). Pub. L. 107–107, § 505(c)(2)(B)(ii), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list” in second sentence.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–383, div. A, title X, § 1075(g), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(g)(4) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.

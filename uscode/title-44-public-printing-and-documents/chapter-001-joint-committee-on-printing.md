@@ -26,6 +26,19 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2019 Amendment
+Pub. L. 115–435, title II, § 201, Jan. 14, 2019, 132 Stat. 5534, provided that: “This title [enacting [section 3520A of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3520a), amending sections 3502, 3504, 3506, 3511, and 3520 of this title, and enacting provisions set out as notes under [section 3506 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3506) and [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees] may be cited as the ‘Open, Public, Electronic, and Necessary Government Data Act’ or the ‘OPEN Government Data Act’.”
+
+Pub. L. 115–435, title III, § 301, Jan. 14, 2019, 132 Stat. 5544, provided that: “This title [enacting subchapter III of chapter 35 of this title, amending [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, and sections 6302 and 6314 of Title 49, Transportation, enacting provisions set out as notes under [section 3561 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3561), amending provisions set out as a note under [section 20155 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20155&num=0&edition=prelim), and repealing provisions set out as a note under [section 3501 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3501)] may be cited as the ‘Confidential Information Protection and Statistical Efficiency Act of 2018’.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–120, div. A, § 1, Jan. 22, 2018, 132 Stat. 28, provided that: “This division [amending [section 1506 of this title](./chapter-015-federal-register-and-code-of-federal-regulations.md#section-1506) and enacting provisions set out as a note under [section 1506 of this title](./chapter-015-federal-register-and-code-of-federal-regulations.md#section-1506)] may be cited as the ‘Federal Register Printing Savings Act of 2017’.”
+
+Pub. L. 115–114, § 1, Jan. 10, 2018, 131 Stat. 2278, provided that: “This Act [enacting [section 3559 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3559)] may be cited as the ‘Connected Government Act’.”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–85, § 1, Nov. 21, 2017, 131 Stat. 1274, provided that: “This Act [amending sections 2902, 2904, 2906, and 3102 of this title] may be cited as the ‘Federal Agency Mail Management Act of 2017’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–283, § 1, Dec. 18, 2014, 128 Stat. 3073, provided that: “This Act [enacting subchapter II of chapter 35 of this title, amending sections 143 and 511 of Title 6, Domestic Security, sections 2222, 2223, and 2315 of Title 10, Armed Forces, and sections 278g–3, 278g–4, and 7406 of Title 15, Commerce and Trade, repealing subchapters II and III of chapter 35 of this title, and enacting provisions set out as notes under sections 3553 and 3554 of this title] may be cited as the ‘Federal Information Security Modernization Act of 2014’.”
 
@@ -35,7 +48,7 @@ Pub. L. 113–187, § 1(a), Nov. 26, 2014, 128 Stat. 2003, provided that: “Thi
 Pub. L. 110–404, § 1, Oct. 13, 2008, 122 Stat. 4281, provided that: “This Act [enacting [section 2120 of this title](./chapter-021-national-archives-and-records-administration.md#section-2120), amending sections 2112, 2501, and 2504 of this title, and enacting provisions set out as notes under sections 2107, 2112, 2120, 2501, 2504, and 2505 of this title] may be cited as the ‘Presidential Historical Records Preservation Act of 2008’.”
 
 #### Short Title of 2004 Amendment
-Pub. L. 108–383, § 1, Oct. 30, 2004, 118 Stat. 2218, provided that: “This Act [enacting [section 2119 of this title](./chapter-021-national-archives-and-records-administration.md#section-2119), amending sections 2112, 2504, 2903, 2909, and 3303a of this title, and amending provisions set out as a note under [section 2901 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2901)] may be cited as the ‘National Archives and Records Administration Efficiency Act of 2004’.”
+Pub. L. 108–383, § 1, Oct. 30, 2004, 118 Stat. 2218, provided that: “This Act [enacting [section 2119 of this title](./chapter-021-national-archives-and-records-administration.md#section-2119), amending sections 2112, 2504, 2903, 2909, and 3303a of this title, and amending provisions set out as a note under [section 2901 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2901)] may be cited as the ‘National Archives and Records Administration Efficiency Act of 2004’.”
 
 #### Short Title of 2002 Amendments
 Pub. L. 107–347, § 1(a), Dec. 17, 2002, 116 Stat. 2899, provided that: “This Act [see Tables for classification] may be cited as the ‘E-Government Act of 2002’.”
@@ -47,7 +60,7 @@ Pub. L. 107–347, title III, § 301(a), Dec. 17, 2002, 116 Stat. 2946, provided
 Pub. L. 107–198, § 1, June 28, 2002, 116 Stat. 729, provided that: “This Act [enacting [section 3520 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3520), amending sections 3504 and 3506 of this title, renumbering former [section 3520 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3520) as section 3521, and enacting provisions set out as a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees] may be cited as the ‘Small Business Paperwork Relief Act of 2002’.”
 
 #### Short Title of 2000 Amendment
-Pub. L. 106–444, § 1, Nov. 6, 2000, 114 Stat. 1929, provided that: “This Act [enacting [section 2910 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2910)] may be cited as the ‘Freedmen’s Bureau Records Preservation Act of 2000’.”
+Pub. L. 106–444, § 1, Nov. 6, 2000, 114 Stat. 1929, provided that: “This Act [enacting [section 2910 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2910)] may be cited as the ‘Freedmen’s Bureau Records Preservation Act of 2000’.”
 
 #### Short Title of 1995 Amendment
 Pub. L. 104–13, § 1, May 22, 1995, 109 Stat. 163, provided that: “This Act [enacting chapter 35 of this title, amending [section 91 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section91&num=0&edition=prelim), Census, and enacting provisions set out as a note under [section 3501 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3501)] may be cited as the ‘Paperwork Reduction Act of 1995’.”
@@ -75,7 +88,7 @@ Pub. L. 96–511, § 1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act
 Pub. L. 95–591, § 1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act [enacting sections 2201 to 2207 of this title, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under [section 2201 of this title](./chapter-022-presidential-records.md#section-2201)] may be cited as the ‘Presidential Records Act of 1978’.”
 
 #### Short Title of 1976 Amendment
-Pub. L. 94–575, § 1, Oct. 21, 1976, 90 Stat. 2723, provided that: “This Act [amending sections 2107, 2112, 2115, 2116, 2901, 2902, 2904, 2906, 2907, 3102, 3103, 3107, 3301, and 3302 of this title, repealing [section 2910 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2910), and enacting provisions set out as a note under [section 2901 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2901)] may be cited as the ‘Federal Records Management Amendments of 1976’.”
+Pub. L. 94–575, § 1, Oct. 21, 1976, 90 Stat. 2723, provided that: “This Act [amending sections 2107, 2112, 2115, 2116, 2901, 2902, 2904, 2906, 2907, 3102, 3103, 3107, 3301, and 3302 of this title, repealing [section 2910 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2910), and enacting provisions set out as a note under [section 2901 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2901)] may be cited as the ‘Federal Records Management Amendments of 1976’.”
 
 #### Short Title of 1974 Amendment
 Pub. L. 93–526, title II, § 201, Dec. 19, 1974, 88 Stat. 1698, provided that: “This title [enacting sections 3315 to 3324 of this title] may be cited as the ‘Public Documents Act’.”

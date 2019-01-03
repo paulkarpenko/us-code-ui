@@ -100,7 +100,7 @@ Subsec. (c)(2)(A). Pub. L. 114–94, § 3030(g)(2), substituted “public transp
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
@@ -178,3 +178,6 @@ Section 10544, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1368; Pub. L. 96–258,
 Section 10561, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1369; Pub. L. 99–521, § 6(c), Oct. 22, 1986, 100 Stat. 2994; Pub. L. 103–272, § 5(m)(20), July 5, 1994, 108 Stat. 1377, related to jurisdiction of Commission over services of household goods freight forwarders. See [section 13531 of this title](./chapter-135-jurisdiction.md#section-13531).
 
 A prior section 10562, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1369; Pub. L. 97–449, § 5(g)(3), Jan. 12, 1983, 96 Stat. 2443, related to exempt freight forwarder service, prior to repeal by Pub. L. 99–521, §§ 6(d)(1), 15, Oct. 22, 1986, 100 Stat. 2994, 2999, effective 60 days after Oct. 22, 1986.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

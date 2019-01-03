@@ -80,7 +80,7 @@ Subsec. (f). Pub. L. 112–213, § 405(a)(4), substituted “may” for “shall
 2009—Subsec. (g). Pub. L. 111–84 added subsec. (g).
 
 #### Effective Date
-Chapter effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+Section effective 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 #### Regulations
 Pub. L. 110–140, title XI, § 1121(c), Dec. 19, 2007, 121 Stat. 1762, provided that: “(1) Interim regulations.—Not later than 90 days after the date of enactment of this Act [Dec. 19, 2007], the Secretary of Transportation shall issue temporary regulations to implement the program under this section. Subchapter II of chapter 5 of title 5, United States Code, does not apply to a temporary regulation issued under this paragraph or to an amendment to such a temporary regulation. “(2) Final regulations.—Not later than October 1, 2008, the Secretary of Transportation shall issue final regulations to implement the program under this section.”
@@ -92,11 +92,21 @@ Pub. L. 110–140, title XI, § 1121(c), Dec. 19, 2007, 121 Stat. 1762, provided
 
 **(b) Short-Term Incentives.—** The Secretary shall consult shippers and other participants in transportation logistics and develop proposals for short-term incentives to encourage the use of short sea transportation.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-55603"></a>
 ## § 55603. Interagency coordination
 
 The Secretary of Transportation shall establish a board to identify and seek solutions to impediments hindering effective use of short sea transportation. The board shall include representatives of the Environmental Protection Agency and other Federal, State, and local governmental entities and private sector entities.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-55604"></a>
@@ -109,6 +119,11 @@ The Secretary of Transportation, in consultation with the Administrator of the E
 (2) technology, vessel design, and other improvements that would reduce emissions, increase fuel economy, and lower costs of short sea transportation and increase the efficiency of intermodal transfers; and
 
 (3) solutions to impediments to short sea transportation projects designated under section 55601.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-55605"></a>
@@ -138,3 +153,6 @@ In this chapter, the term “short sea transportation” means the carriage by a
 2015—Par. (1)(C), (D). Pub. L. 114–92 added subpars. (C) and (D).
 
 2012—Pub. L. 112–213, which directed amendment of section 55605, without specifying the title to be amended, by substituting “by a documented vessel” for “by vessel” in the matter preceding par. (1), was executed to this section, to reflect the probable intent of Congress.
+
+#### Effective Date
+Section effective 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.

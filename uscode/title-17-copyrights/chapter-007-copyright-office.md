@@ -129,7 +129,7 @@ Amendment by Pub. L. 101–318 effective 6 months after July 3, 1990, and applic
 
 (4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document;
 
-(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license;
+(5) for the filing, under section 115(b),11 See References in Text note below. of a notice of intention to obtain a compulsory license;
 
 (6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author;
 
@@ -167,6 +167,9 @@ The Register is authorized to fix fees for other services, including the cost of
 (3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
 
 ### Statutory Notes
+
+#### References in Text
+Subsection (b) of section 115, referred to in subsec. (a)(5), was struck out and a new subsection (b) was added by Pub. L. 115–264, title I, § 102(a)(2), Oct. 11, 2018, 132 Stat. 3678.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–175, § 106(4), inserted at end of concluding provisions “Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements.”

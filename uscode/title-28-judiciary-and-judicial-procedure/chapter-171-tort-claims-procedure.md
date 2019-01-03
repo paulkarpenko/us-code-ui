@@ -103,13 +103,13 @@ The head of each federal agency shall report annually to Congress all claims pai
 
 ### Statutory Notes
 
-#### Repeal
-Pub. L. 89–348, § 1(1), Nov. 8, 1965, 79 Stat. 1310, repealed the requirement that an annual report to Congress be made of the administrative adjustment of tort claims of $2,500 or less, stating the name of each claimant, the amount claimed, the amount awarded, and a brief description of the claim.
-
 #### Historical and Revision Notes
 Based on title 28, U.S.C., 1940 ed., § 922 (Aug. 2, 1946, ch. 753, § 404, 60 Stat. 843).
 
 Changes were made in phraseology.
+
+#### Repeal
+Pub. L. 89–348, § 1(1), Nov. 8, 1965, 79 Stat. 1310, repealed the requirement that an annual report to Congress be made of the administrative adjustment of tort claims of $2,500 or less, stating the name of each claimant, the amount claimed, the amount awarded, and a brief description of the claim.
 
 
 <a id="section-2674"></a>
@@ -389,7 +389,7 @@ Amendment by act Sept. 26, 1950, to take effect upon effective date of transfer 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of all other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of all other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 For transfer of certain functions relating to claims and litigation, insofar as they pertain to the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order No. 34 [§ 1a(2)(4)], eff. July 1, 1949.
 

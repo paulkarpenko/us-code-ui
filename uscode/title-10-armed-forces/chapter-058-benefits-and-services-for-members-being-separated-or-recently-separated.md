@@ -2,7 +2,7 @@
 title: 10
 chapter: '58'
 heading: BENEFITS AND SERVICES FOR MEMBERS BEING SEPARATED OR RECENTLY SEPARATED
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -34,18 +34,18 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 
 <a id="section-1142"></a>
-## § 1142. Preseparation counseling; transmittal of medical records to Department of Veterans Affairs
+## § 1142. Preseparation counseling; transmittal of certain records to Department of Veterans Affairs
 **(a) Requirement.—**
 
-(1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whose discharge or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
+(1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whose discharge (regardless of character of discharge) or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
 
 (2) In carrying out this section, the Secretary concerned shall use the services available under [section 1144 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1144).
 
 (3)
 
-  (A) In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement, preseparation counseling shall commence as soon as possible during the 12-month period preceding the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 90 days before the date of discharge or release.
+  (A) In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement, preseparation counseling shall commence not later than 365 days before the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 365 days before the date of retirement or other separation.
 
-  (B) In the event that a retirement or other separation is unanticipated until there are 90 or fewer days before the anticipated retirement or separation date, or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 90-day requirement under subparagraph (A) unfeasible, preseparation counseling shall begin as soon as possible within the remaining period of service.
+  (B) In the event that a retirement or other separation is unanticipated until there are 365 or fewer days before the anticipated retirement or separation date, or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 365-day requirement under subparagraph (A) unfeasible, preseparation counseling shall begin as soon as possible within the remaining period of service.
 
 (4)
 
@@ -69,11 +69,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (4) Provision of information on civilian occupations and related assistance programs, including information concerning—
 
-  (A) certification and licensure requirements that are applicable to civilian occupations;
+  (A) certification and licensure requirements that are applicable to civilian occupations, including State-submitted and approved lists of military training and skills that satisfy occupational certifications and licenses;
 
   (B) civilian occupations that correspond to military occupational specialties; and
 
-  (C) Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under [section 1143a of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1143a), and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program.
+  (C) Government and private-sector programs for job search and job placement assistance, including information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program.
 
 (5) If the member has a spouse, inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs.
 
@@ -101,11 +101,99 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (17) A description, developed in consultation with the Secretary of Veterans Affairs, of health care and other benefits to which the member may be entitled under the laws administered by the Secretary of Veterans Affairs, and information regarding the means by which the member can receive additional counseling regarding the member’s actual entitlement to such benefits and apply for such benefits.
 
-**(c) Transmittal of Medical Information to Department of Veterans Affairs.—** In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member’s service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
+(18) A description, developed in consultation with the Secretary of Veterans Affairs, of the assistance and support services for family caregivers of eligible veterans under the program conducted by the Secretary of Veterans Affairs pursuant to [section 1720G of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1720G&num=0&edition=prelim), including the veterans covered by the program, the caregivers eligible for assistance and support through the program, and the assistance and support available through the program.
+
+**(c) Counseling Pathways.—**
+
+(1) Each Secretary concerned, in consultation with the Secretaries of Labor and Veterans Affairs, shall establish at least three pathways for members of the military department concerned receiving individualized counseling under this section. The Secretaries shall design the pathways to address the needs of members, based on the following factors:
+
+  (A) Rank.
+
+  (B) Term of service.
+
+  (C) Gender.
+
+  (D) Whether the member was a member of a regular or reserve component of an armed force.
+
+  (E) Disability.
+
+  (F) Character of discharge (including expedited discharge and discharge under conditions other than honorable).
+
+  (G) Health (including mental health).
+
+  (H) Military occupational specialty.
+
+  (I) Whether the member intends, after separation, retirement, or discharge, to—
+
+    (i) seek employment;
+
+    (ii) enroll in a program of higher education;
+
+    (iii) enroll in a program of vocational training; or
+
+    (iv) become an entrepreneur.
+
+  (J) The educational history of the member.
+
+  (K) The employment history of the member.
+
+  (L) Whether the member has secured—
+
+    (i) employment;
+
+    (ii) enrollment in a program of education; or
+
+    (iii) enrollment in a program of vocational training.
+
+  (M) Other factors the Secretary of Defense and the Secretary of Homeland Security, in consultation with the Secretaries of Labor and Veterans Affairs, determine appropriate.
+
+(2) Each member described in subsection (a) shall meet in person or by video conference with a counselor before beginning counseling under this section to—
+
+  (A) take a self-assessment designed by the Secretary concerned (in consultation with the Secretaries of Labor and Veterans Affairs) to ensure that the Secretary concerned places the member in the appropriate pathway under this subsection;
+
+  (B) receive information from the counselor regarding reenlistment in the armed forces; and
+
+  (C) receive information from the counselor regarding resources (including resources regarding military sexual trauma)—
+
+    (i) for members of the armed forces separated, retired, or discharged;
+
+    (ii) located in the community in which the member will reside after separation, retirement, or discharge.
+
+(3) At the meeting under paragraph (2), the member may elect to have the Secretary concerned (in consultation with the Secretaries of Labor and Veterans Affairs) provide the contact information of the member to the resources described in paragraph (2)(B).11 So in original. Probably should be “paragraph (2)(C).”
+
+**(d) Transmittal of Medical Information to Department of Veterans Affairs.—** In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member’s service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
+
+**(e) Joint Service Transcript.—** The Secretary concerned shall provide a copy of the joint service transcript of a member described in subsection (a) to—
+
+(1) that member—
+
+  (A) at the meeting with a counselor under subsection (c)(2); and
+
+  (B) on the day the member separates, retires, or is discharged; and
+
+(2) the Secretary of Veterans Affairs on the day the member separates, retires, or is discharged.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–232, § 552(a)(1)(A), substituted “certain” for “medical” in section catchline.
+
+Subsec. (a)(1). Pub. L. 115–232, § 552(a)(1)(B)(i), inserted “(regardless of character of discharge)” after “discharge”.
+
+Subsec. (a)(3)(A). Pub. L. 115–232, § 552(a)(1)(B)(ii), substituted “not later than 365 days before” for “as soon as possible during the 12-month period preceding”, “365 days” for “90 days” and “retirement or other separation” for “discharge or release”.
+
+Subsec. (a)(3)(B). Pub. L. 115–232, § 552(a)(1)(B)(iii), substituted “365” for “90” and “365-day” for “90-day”.
+
+Subsec. (b)(4)(C). Pub. L. 115–232, § 553(b)(2), struck out “the public and community service jobs program carried out under [section 1143a of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1143a), and” after “including”.
+
+Subsecs. (c), (d). Pub. L. 115–232, § 552(a)(1)(C), (D), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (e). Pub. L. 115–232, § 552(a)(1)(E), added subsec. (e).
+
+2017—Subsec. (b)(4)(A). Pub. L. 115–91, § 542(d), inserted “, including State-submitted and approved lists of military training and skills that satisfy occupational certifications and licenses” before semicolon at end.
+
+Subsec. (b)(18). Pub. L. 115–91, § 541(a), added par. (18).
+
 2016—Subsec. (b)(11). Pub. L. 114–328 inserted before period at end “and information concerning the availability of treatment options and resources to address substance abuse, including alcohol, prescription drug, and opioid abuse”.
 
 2015—Subsec. (a)(4)(A). Pub. L. 114–92, § 552(1), substituted “the first 180 continuous days of active duty of the member” for “that member’s first 180 days of active duty”.
@@ -173,6 +261,15 @@ Subsec. (b)(10). Pub. L. 102–484, § 4401(b), added par. (10).
 #### Effective Date of 2011 Amendment
 Pub. L. 112–56, title II, § 221(c), Nov. 21, 2011, 125 Stat. 716, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1144 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1144)] shall take effect on the date that is 1 year after the date of the enactment of this Act [Nov. 21, 2011].”
 
+#### Deadline for Counseling Pathways
+Pub. L. 115–232, div. A, title V, § 552(a)(2), Aug. 13, 2018, 132 Stat. 1770, provided that: “Each Secretary concerned shall carry out subsection (c) of such section [[10 U.S.C. 1142(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1142/c&num=0&edition=prelim)], as amended by paragraph (1), not later than 1 year after the date of the enactment of this Act [Aug. 13, 2018].”
+
+#### Notification of Members of the Armed Forces Undergoing Certain Administrative Separations of Potential Eligibility for Veterans Benefits
+Pub. L. 115–91, div. A, title V, § 528, Dec. 12, 2017, 131 Stat. 1383, provided that: “(a) Notification Required.—A member of the Armed Forces who receives an administrative separation or mandatory discharge under conditions other than honorable shall be provided written notification that the member may petition the Veterans Benefits Administration of the Department of Veterans Affairs to receive, despite the characterization of the member’s service, certain benefits under the laws administered by the Secretary of Veterans Affairs. “(b) Deadline for Notification.—Notification under subsection (a) shall be provided to a member described in such subsection in conjunction with the member’s notification of the administrative separation or mandatory discharge or as soon thereafter as practicable.”
+
+#### Participation of Potential Caregivers in Appropriate Preseparation Counseling
+Pub. L. 115–91, div. A, title V, § 541(b), Dec. 12, 2017, 131 Stat. 1393, provided that: “(1) In general.—In accordance with procedures established by the Secretary of Defense, each Secretary of a military department shall take appropriate actions to achieve the following:“(A) To determine whether each member of the Armed Forces under the jurisdiction of such Secretary who is undergoing preseparation counseling pursuant to [section 1142 of title 10](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1142), United States Code (as amended by subsection (a)), and who may require caregiver services after separation from the Armed Forces has identified an individual to provide such services after the member’s separation. “(B) In the case of a member described in subparagraph (A) who has identified an individual to provide caregiver services after the member’s separation, at the election of the member, to permit such individual to participate in appropriate sessions of the member’s preseparation counseling in order to inform such individual of—“(i) the assistance and support services available to caregivers of members after separation from the Armed Forces; and “(ii) the manner in which the member’s transition to civilian life after separation may likely affect such individual as a caregiver. “(2) Caregivers.—For purposes of this subsection, individuals who provide caregiver services refers to individuals (including a spouse, partner, parent, sibling, adult child, other relative, or friend) who provide physical or emotional assistance to former members of the Armed Forces during and after their transition from military life to civilian life following separation from the Armed Forces. “(3) Deadline for commencement.—Each Secretary of a miliary [sic] department shall commence the actions required pursuant to this subsection by not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017].”
+
 #### Application of Preseparation Counseling Requirements to Coast Guard
 Pub. L. 103–337, div. A, title V, § 543(a), Oct. 5, 1994, 108 Stat. 2769, provided that: “As soon as possible after the date of the enactment of this Act [Oct. 5, 1994], the Secretary of Transportation shall implement the requirements of [section 1142 of title 10](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1142), United States Code, for the Coast Guard.”
 
@@ -182,11 +279,33 @@ Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, pro
 
 <a id="section-1143"></a>
 ## § 1143. Employment assistance
-**(a) Employment Skills Verification.—** The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+**(a) Employment Skills Verification.—**
+
+(1) The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+
+(2) In order to improve the accuracy and completeness of a certification or verification of job skills and experience required by paragraph (1), the Secretary of Defense shall—
+
+  (A) establish a database to record all training performed by members of the Army, Navy, Air Force, and Marine Corps that may have application to employment in the civilian sector; and
+
+  (B) make unclassified information regarding such information available to States and other potential employers referred to in subsection (c) so that State and other entities may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
+
+(3) The Secretary of Defense shall ensure that a certification or verification of job skills and experience required by paragraph (1) is rendered in such a way that States and other potential employers can confirm the accuracy and authenticity of the certification or verification.
 
 **(b) Employment Assistance Centers.—** The Secretary of Defense shall establish permanent employment assistance centers at appropriate military installations. The Secretary of Homeland Security shall establish permanent employment assistance centers at appropriate Coast Guard installations.
 
-**(c) Information to Civilian Entities.—** For the purpose of assisting members covered by subsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
+**(c) Information to Civilian Entities.—**
+
+(1) For the purpose of assisting members covered by subsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
+
+(2)
+
+  (A) A State may—
+
+    (i) use a certification or verification of job skills and experience provided to a member of the armed forces under subsection (a); and
+
+    (ii) in the case of members of the Army, Navy, Air Force, and Marine Corps, request the Department of Defense to confirm the accuracy and authenticity of the certification or verification.
+
+  (B) A response confirming or denying the information shall be provided within five business days.
 
 **(d) Employment Preference by Nonappropriated Fund Instrumentalities.—** The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under [section 1784(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1784/a/2&num=0&edition=prelim), except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
@@ -205,6 +324,10 @@ Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, pro
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91, § 542(a), (b), designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (c). Pub. L. 115–91, § 542(c), designated existing provisions as par. (1) and added par. (2).
+
 2013—Subsec. (a). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard”.
 
 2011—Subsec. (e). Pub. L. 112–81 added subsec. (e).
@@ -228,6 +351,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
+
+#### Authority To Expand Eligibility for the United States Military Apprenticeship Program
+Pub. L. 115–91, div. A, title V, § 546, Dec. 12, 2017, 131 Stat. 1397, provided that: “(a) Expansion Authorized.—The Secretary of Defense may expand eligibility for the United Services Military Apprenticeship Program to include any member of the uniformed services. “(b) Definition.—In this section, the term ‘uniformed services’ has the meaning given such term in [section 101(a)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/5&num=0&edition=prelim), United States Code.”
 
 #### Pilot Program To Assist Members of the Armed Forces in Obtaining Post-Service Employment
 Pub. L. 113–291, div. A, title V, § 555, Dec. 19, 2014, 128 Stat. 3379, provided that: “(a) Program Authorized.—The Secretary of Defense may conduct the program described in subsection (c) to enhance the efforts of the Department of Defense to provide job placement assistance and related employment services to eligible members of the Armed Forces described in subsection (b) for the purposes of—“(1) assisting such members in obtaining post-service employment; and “(2) reducing the amount of ‘Unemployment Compensation for Ex-Servicemembers’ that the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating pays into the Unemployment Trust Fund. “(b) Eligible Members.—Employment services provided under the program are limited to members of the Armed Forces, including members of the reserve components, who are being separated from the Armed Forces or released from active duty. “(c) Evaluation of Use of Civilian Employment Staffing Agencies.—“(1) Program described.—The Secretary of Defense may execute a program to evaluate the feasibility and cost-effectiveness of utilizing the services of civilian employment staffing agencies to assist eligible members of the Armed Forces in obtaining post-service employment. “(2) Program management.—To manage the program authorized by this subsection, the Secretary of Defense may select a civilian organization (in this section referred to as the ‘program manager’) whose principal members have experience—“(A) administering pay-for-performance programs; and “(B) within the employment staffing industry. “(3) Exclusion.—The program manager may not be a staffing agency. “(d) Eligible Civilian Employment Staffing Agencies.—In consultation with the program manager if utilized under subsection (c)(2), the Secretary of Defense shall establish the eligibility requirements to be used for the selection of civilian employment staffing agencies to participate in the program. In establishing the eligibility requirements for the selection of the civilian employment staffing agencies, the Secretary of Defense shall also take into account civilian employment staffing agencies that are willing to work and consult with State and county Veterans Affairs offices and State National Guard offices, when appropriate. “(e) Payment of Staffing Agency Fees.—To encourage employers to employ an eligible member of the Armed Forces under the program if executed under this section, the Secretary of Defense shall pay a participating civilian employment staffing agency a portion of its agency fee (not to exceed 50 percent above the member’s hourly wage). Payment of the agency fee will only be made after the member has been employed and paid by the private sector and the hours worked have been verified by the Secretary. The staffing agency shall be paid on a weekly basis only for hours the member worked, but not to exceed a total of 800 hours. “(f) Oversight Requirements.—In conducting the program, the Secretary of Defense shall establish—“(1) program monitoring standards; and “(2) reporting requirements, including the hourly wage for each eligible member of the Armed Forces obtaining employment under the program, the numbers of hours worked during the month, and the number of members who remained employed with the same employer after completing the first 800 hours of employment. “(g) Source and Limitation on Program Obligations.—Of the amounts authorized to be appropriated to the Secretary of Defense for operation and maintenance for each fiscal year during which the program under this section is authorized, not more than $35,000,000 may be used to carry out the program. “(h) Reporting Requirements.—“(1) Report required.—If the Secretary of Defense executes the program under this section, the Secretary shall submit to the appropriate congressional committees a report describing the results of the program, particularly whether the program achieved the purposes specified in subsection (a). The report shall be submitted not later than January 15, 2019. “(2) Comparison with other programs.—The report shall include a comparison of the results of the program conducted under this section and the results of other employment assistant programs utilized by the Department of Defense. The comparison shall include the number of members of the Armed Forces obtaining employment through each program and the cost to the Department per member. “(3) Appropriate congressional committees defined.—In this section, the term ‘appropriate congressional committees’ means the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate. “(i) Duration of Authority.—The authority of the Secretary of Defense to carry out programs under this section expires on September 30, 2018.”
@@ -255,78 +381,21 @@ Pub. L. 102–484, div. D, title XLIV, subtitle G, Oct. 23, 1992, 106 Stat. 2757
 
 
 <a id="section-1143a"></a>
-## § 1143a. Encouragement of postseparation public and community service
-**(a) In General.—** The Secretary of Defense shall implement a program to encourage members and former members of the armed forces to enter into public and community service jobs after discharge or release from active duty.
-
-**(b) Personnel Registry.—** The Secretary shall maintain a registry of members and former members of the armed forces discharged or released from active duty who request registration for assistance in pursuing public and community service job opportunities. The registry shall include information on the particular job skills, qualifications, and experience of the registered personnel.
-
-**(c) Registry of Public Service and Community Service Organizations.—** The Secretary shall also maintain a registry of public service and community service organizations. The registry shall contain information regarding each organization, including its location, its size, the types of public and community service positions in the organization, points of contact, procedures for applying for such positions, and a description of each such position that is likely to be available. Any such organization may request registration under this subsection and, subject to guidelines prescribed by the Secretary, be registered.
-
-**(d) Assistance To Be Provided.—**
-
-(1) The Secretary shall actively attempt to match personnel registered under subsection (b) with public and community service job opportunities and to facilitate job-seeking contacts between such personnel and the employers offering the jobs.
-
-(2) The Secretary shall offer personnel registered under subsection (b) counselling services regarding—
-
-  (A) public service and community service organizations; and
-
-  (B) procedures and techniques for qualifying for and applying for jobs in such organizations.
-
-(3) The Secretary may provide personnel registered under subsection (b) with access to the interstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
-
-**(e) Consultation Requirement.—** In carrying out this section, the Secretary shall consult closely with the Secretary of Labor, the Secretary of Veterans Affairs, the Secretary of Education, the Director of the Office of Personnel Management, appropriate representatives of State and local governments, and appropriate representatives of businesses and nonprofit organizations in the private sector.
-
-**(f) Delegation.—** The Secretary, with the concurrence of the Secretary of Labor, may designate the Secretary of Labor as the executive agent of the Secretary of Defense for carrying out all or part of the responsibilities provided in this section. Such a designation does not relieve the Secretary of Defense from the responsibility for the implementation of the provisions of this section.
-
-**(g) Definitions.—** In this section, the term “public service and community service organization” includes the following organizations:
-
-(1) Any organization that provides the following services:
-
-  (A) Elementary, secondary, or postsecondary school teaching or administration.
-
-  (B) Support of such teaching or school administration.
-
-  (C) Law enforcement.
-
-  (D) Public health care.
-
-  (E) Social services.
-
-  (F) Any other public or community service.
-
-(2) Any nonprofit organization that coordinates the provision of services described in paragraph (1).
-
-**(h) Coast Guard.—** This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall implement the requirements of this section for the Coast Guard when it is not operating as a service in the Navy.
+## § 1143a. Repealed. Pub. L. 115–232, div. A, title V, § 553(a)(1), Aug. 13, 2018, 132 Stat. 1772]
 
 ### Statutory Notes
 
-#### Amendments
-2013—Subsec. (h). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “for the Coast Guard”.
-
-2002—Subsec. (h). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
-
-1994—Pub. L. 103–337, § 542(a)(3)(A), struck out “: Department of Defense” after “service” in section catchline.
-
-Subsec. (h). Pub. L. 103–337, § 542(a)(3)(B), added subsec. (h).
-
-#### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
-
-#### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
-
-#### Program of Educational Leave Relating to Continuing Public and Community Service
-Pub. L. 102–484, div. D, title XLIV, § 4463, Oct. 23, 1992, 106 Stat. 2740, as amended by Pub. L. 103–160, div. A, title V, § 561(o), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, § 561(g), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, § 1 [[div. A], title V, § 571(g)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–296, title XVII, § 1704(e)(3), Nov. 25, 2002, 116 Stat. 2315, provided that under regulations prescribed by the Secretary of Defense and subject to certain eligibility requirements, the Secretary concerned could grant to an eligible member of the Armed Forces a leave of absence not to exceed one year to permit the member to pursue education or training relevant to public and community service, and provided that this authority would expire on Dec. 31, 2001.
+Section, added Pub. L. 102–484, div. D, title XLIV, § 4462(a)(1), Oct. 23, 1992, 106 Stat. 2738; amended Pub. L. 103–337, div. A, title V, § 542(a)(3), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, § 1076(f)(14), Jan. 2, 2013, 126 Stat. 1952, related to encouraging members and former members of the armed forces to enter into public and community service jobs after discharge or release from active duty.
 
 #### Increased Early Retirement Retired Pay for Public or Community Service
-Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741, provided that: “(a) Recomputation of Retired Pay.—(1) If a member or former member of the Armed Forces retired under section 4403(a) [[10 U.S.C. 1293](./chapter-065-retirement-of-warrant-officers-for-length-of-service.md#section-1293) note] or any other provision of law authorizing retirement from the Armed Forces (other than for disability) before the completion of at least 20 years of active duty service (as computed under the applicable provision of law) is employed by a public service or community service organization listed on the registry maintained under [section 1143a(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143a/c&num=0&edition=prelim), United States Code (as added by section 4462(a)), within the period of the member’s enhanced retirement qualification period, the member’s or former member’s retired or retainer pay shall be recomputed effective on the first day of the first month beginning after the date on which the member or former member attains 62 years of age. “(2) For purposes of recomputing a member’s or former member’s retired pay—“(A) the years of the member’s or former member’s employment by a public service or community service organization referred to in paragraph (1) during the member’s or former member’s enhanced retirement qualification period shall be treated as years of active duty service in the Armed Forces; and “(B) in applying [section 1401a of title 10](./chapter-071-computation-of-retired-pay.md#section-1401a), United States Code, the member’s or former member’s years of active duty service shall be deemed as of the date of retirement to have included the years of employment referred to in subparagraph (A). “(3) [Section 1405(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1405/b&num=0&edition=prelim), United States Code, shall apply in determining years of service under this subsection. “(4) In this subsection, the term ‘enhanced retirement qualification period’, with respect to a member or former member retired under a provision of law referred to in paragraph (1), means the period beginning on the date of the retirement of the member or former member and ending the number of years (including any fraction of a year) after that date which when added to the number of years (including any fraction of a year) of service credited for purposes of computing the retired pay of the member or former member upon retirement equals 20 years. “(b) SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) [see 1447(6)] of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member’s or former member’s active service shall be treated as having included the member’s or former member’s years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when the member or former member became eligible for retired pay under this section. “(2) In this subsection, the term ‘Survivor Benefit Plan’ means the plan established under subchapter II of chapter 73 of title 10, United States Code.”
+Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741, which related to increased early retirement retired pay for public or community service, was repealed by Pub. L. 115–232, div. A, title V, § 553(c), Aug. 13, 2018, 132 Stat. 1772, applicable with respect to an individual who retires from the Armed Forces on or after Aug. 13, 2018.
 
 
 <a id="section-1144"></a>
 ## § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
 **(a) In General.—**
 
-(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member within the time periods provided under paragraph (3) of [section 1142(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1142/a&num=0&edition=prelim), except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
+(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Subject to subsection (f)(2), such services shall be provided to a member within the time periods provided under paragraph (3) of [section 1142(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1142/a&num=0&edition=prelim), except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
 
 (2) The Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
 
@@ -348,13 +417,11 @@ Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741, p
 
 (7) Work with military and veterans’ service organizations and other appropriate organizations in promoting and publicizing job fairs for such members.
 
-(8) Provide information regarding the public and community service jobs program carried out under [section 1143a of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1143a).
+(8) Provide information about disability-related employment and education protections.
 
-(9) Provide information about disability-related employment and education protections.
+(9) Provide information regarding the required deduction, pursuant to subsection (h) of [section 1175a of this title](./chapter-059-separation.md#section-1175a), from disability compensation paid by the Secretary of Veterans Affairs of amounts equal to any voluntary separation pay received by the member under such section.
 
-(10) Provide information regarding the required deduction, pursuant to subsection (h) of [section 1175a of this title](./chapter-059-separation.md#section-1175a), from disability compensation paid by the Secretary of Veterans Affairs of amounts equal to any voluntary separation pay received by the member under such section.
-
-(11) Acting through the Secretary of the department in which the Coast Guard is operating, provide information on career and employment opportunities available to members with transportation security cards issued under [section 70105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105&num=0&edition=prelim).
+(10) Acting through the Secretary of the department in which the Coast Guard is operating, provide information on career and employment opportunities available to members with transportation security cards issued under [section 70105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105&num=0&edition=prelim).
 
 **(c) Participation.—**
 
@@ -390,19 +457,37 @@ Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741, p
 
 **(e) Participation in Apprenticeship Programs.—** As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; [29 U.S.C. 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
 
-**(f) Additional Training Opportunities.—**
+**(f) Program Contents.—**
 
-(1) As part of the program carried out under this section, the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall permit a member of the armed forces eligible for assistance under the program to elect to receive additional training in any of the following subjects:
+(1) The program carried out under this section shall consist of instruction as follows:
 
-  (A) Preparation for higher education or training.
+  (A) One day of preseparation training specific to the armed force concerned, as determined by the Secretary concerned.
 
-  (B) Preparation for career or technical training.
+  (B) One day of instruction regarding—
 
-  (C) Preparation for entrepreneurship.
+    (i) benefits under laws administered by the Secretary of Veterans Affairs; and
 
-  (D) Other training options determined by the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy.
+    (ii) other subjects determined by the Secretary concerned.
 
-(2) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall ensure that a member of the armed forces who elects to receive additional training in subjects available under paragraph (1) is able to receive the training.
+  (C) One day of instruction regarding preparation for employment.
+
+  (D) Two days of instruction regarding a topic selected by the member from the following subjects:
+
+    (i) Preparation for employment.
+
+    (ii) Preparation for education.
+
+    (iii) Preparation for vocational training.
+
+    (iv) Preparation for entrepreneurship.
+
+    (v) Other options determined by the Secretary concerned.
+
+(2) The Secretary concerned may permit a member to attend training and instruction under the program established under this section—
+
+  (A) before the time periods established under [section 1142(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1142/a/3&num=0&edition=prelim);
+
+  (B) in addition to such training and instruction required during such time periods.
 
 ### Statutory Notes
 
@@ -412,6 +497,12 @@ Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out a
 The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232, § 552(b)(1)(A), substituted “Subject to subsection (f)(2), such services” for “Such services”.
+
+Subsec. (b)(8) to (11). Pub. L. 115–232, § 553(b)(1), redesignated pars. (9) to (11) as (8) to (10), respectively, and struck out former par. (8) which read as follows: “Provide information regarding the public and community service jobs program carried out under [section 1143a of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1143a).”
+
+Subsec. (f). Pub. L. 115–232, § 552(b)(1)(B), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to additional training opportunities.
+
 2016—Subsec. (b)(10). Pub. L. 114–328, § 563, added par. (10).
 
 Subsec. (b)(11). Pub. L. 114–328, § 564(a), added par. (11).
@@ -468,6 +559,9 @@ Amendment by section 221(a) of Pub. L. 112–56 effective on the date that is 1 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Deadline for Transition Assistance Program
+Pub. L. 115–232, div. A, title V, § 552(b)(2), Aug. 13, 2018, 132 Stat. 1771, provided that: “The Transition Assistance Program shall comply with the requirements of [section 1144(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1144/f&num=0&edition=prelim), United States Code, as amended by paragraph (1), not later than 1 year after the date of the enactment of this Act [Aug. 13, 2018].”
+
 #### Deadline for Implementation
 Pub. L. 114–328, div. A, title V, § 564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: “The program carried out under [section 1144 of title 10](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1144), United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016].”
 
@@ -504,7 +598,7 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 
   (A) A member who is involuntarily separated from active duty.
 
-  (B) A member of a reserve component who is separated from active duty to which called or ordered in support of a contingency operation if the active duty is active duty for a period of more than 30 days.
+  (B) A member of a reserve component who is separated from active duty to which called or ordered under [section 12304b of this title](./chapter-1209-active-duty.md#section-12304b) or a provision of law referred to in [section 101(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim) if the active duty is active duty for a period of more than 30 days.
 
   (C) A member who is separated from active duty for which the member is involuntarily retained under [section 12305 of this title](./chapter-1209-active-duty.md#section-12305) in support of a contingency operation.
 
@@ -520,7 +614,7 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 
 (5)
 
-  (A) The Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
+  (A) The Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination and a mental health assessment conducted pursuant to [section 1074n of this title](./chapter-055-medical-and-dental-care.md#section-1074n) immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
 
   (B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member’s unit commander.
 
@@ -574,13 +668,39 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 
 (2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
 
-**(d) Definition.—** In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of a person who is no longer a member of the armed forces or a covered beneficiary.
+**(d) Physical Examinations for Certain Members of a Reserve Component.—**
 
-**(e) Coast Guard.—** The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
+(1) The Secretary concerned shall provide a physical examination pursuant to subsection (a)(5) to each member of a reserve component who—
+
+  (A) during the two-year period before the date on which the member is scheduled to be separated from the armed forces served on active duty in support of a contingency operation for a period of more than 30 days;
+
+  (B) will not otherwise receive such an examination under such subsection; and
+
+  (C) elects to receive such a physical examination.
+
+(2) The Secretary concerned shall—
+
+  (A) provide the physical examination under paragraph (1) to a member during the 90-day period before the date on which the member is scheduled to be separated from the armed forces; and
+
+  (B) issue orders to such a member to receive such physical examination.
+
+(3) A member may not be entitled to health care benefits pursuant to subsection (a), (b), or (c) solely by reason of being provided a physical examination under paragraph (1).
+
+(4) In providing to a member a physical examination under paragraph (1), the Secretary concerned shall provide to the member a record of the physical examination.
+
+**(e) Definition.—** In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of a person who is no longer a member of the armed forces or a covered beneficiary.
+
+**(f) Coast Guard.—** The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(2)(B). Pub. L. 115–91, § 511(b), substituted “under [section 12304b of this title](./chapter-1209-active-duty.md#section-12304b) or a provision of law referred to in [section 101(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim)” for “in support of a contingency operation”.
+
+Subsec. (a)(5)(A). Pub. L. 115–91, § 706(a), inserted “and a mental health assessment conducted pursuant to [section 1074n of this title](./chapter-055-medical-and-dental-care.md#section-1074n)” after “a physical examination”.
+
+Subsecs. (d) to (f). Pub. L. 115–91, § 705, added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
 2013—Subsec. (e). Pub. L. 112–239 inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
 
 2011—Subsec. (a)(4). Pub. L. 112–81 inserted at end “For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active duty.”
@@ -1066,7 +1186,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (A) Selection of eligible members of the armed forces to participate in the Program shall be made on the basis of applications submitted to the Secretary within the time periods specified in subparagraph (B). An application shall be in such form and contain such information as the Secretary may require.
 
-  (B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, separated, or released from active duty, whichever applies to the member.
+  (B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (A)(iii), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, transferred to the Retired Reserve, or separated or released from active duty, whichever applies to the member.
 
 (3) **Selection criteria; educational background requirements; honorable service requirement.—**
 
@@ -1080,7 +1200,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
     (ii) to otherwise meet the certification or licensing requirements for a career or technical teacher in the State in which the member seeks assistance for placement under the Program.
 
-  (D) A member of the armed forces is eligible to participate in the Program only if the member’s last period of service in the armed forces was honorable, as characterized by the Secretary concerned. A member selected to participate in the Program before the retirement of the member or the separation or release of the member from active duty may continue to participate in the Program after the retirement, separation, or release only if the member’s last period of service is characterized as honorable by the Secretary concerned.
+  (D) A member of the armed forces is eligible to participate in the Program only if the member’s last period of service in the armed forces was honorable, as characterized by the Secretary concerned. A member selected to participate in the Program before the retirement of the member, the transfer of the member to the Retired Reserve, or the separation or release of the member from active duty may continue to participate in the Program after the retirement, transfer, separation, or release only if the member’s last period of service is characterized as honorable by the Secretary concerned.
 
 (4) **Selection priorities.—** — In selecting eligible members of the armed forces to receive assistance under the Program, the Secretary—
 
@@ -1190,6 +1310,10 @@ The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935,
 The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (d)(2)(B). Pub. L. 115–232, § 554(a), inserted “(A)(iii),” after “(A)(i),” and “transferred to the Retired Reserve, or” after “member is retired,” and substituted “separated or released” for “separated, or released”.
+
+Subsec. (d)(3)(D). Pub. L. 115–232, § 554(b), inserted “, the transfer of the member to the Retired Reserve,” after “retirement of the member” and “transfer,” after “after the retirement,”.
+
 2015—Subsec. (a)(1). Pub. L. 114–95, § 9215(uuu)(2)(A), substituted “section 4310 of the Elementary and Secondary Education Act of 1965” for “section 5210(1) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7221i(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7221i/1&num=0&edition=prelim))”.
 
 Subsec. (a)(3)(C). Pub. L. 114–95, § 9215(uuu)(2)(B), substituted “section 5211(b) of the Elementary and Secondary Education Act of 1965” for “section 6211(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7345(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7345/b&num=0&edition=prelim))”.
@@ -1205,3 +1329,14 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 Pub. L. 112–239, div. A, title V, § 541(a), Jan. 2, 2013, 126 Stat. 1728, provided that: “(1) Transfer.—The responsibility and authority for operation and administration of the Troops-to-Teachers Program in chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([former] [20 U.S.C. 6671](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6671&num=0&edition=prelim) et seq.) is transferred from the Secretary of Education to the Secretary of Defense. “(2) Memorandum of agreement.—In connection with the transfer of responsibility and authority for operation and administration of the Troops-to-Teachers Program from the Secretary of Education to the Secretary of Defense under paragraph (1), the Secretaries shall enter into a memorandum of agreement pursuant to which the Secretary of Education will undertake the following:“(A) Disseminate information about the Troops-to-Teachers Program to eligible schools (as defined in subsection (a) of [section 1154 of title 10](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1154), United States Code, as added by subsection (b)). “(B) Advise the Department of Defense on how to prepare eligible members of the Armed Forces described in subsection (d) of such section 1154 to become participants in the Program, to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) of such section 1154, and to find post-service employment in an eligible school. “(C) Advise the Department of Defense on how to identify teacher preparation programs for participants in the Program. “(D) Inform the Department of Defense of academic subject areas with critical teacher shortages. “(E) Identify geographic areas with critical teacher shortages, especially in high-need schools (as defined in subsection (a) of such section 1154). “(3) Effective date.—The transfer of responsibility and authority for operation and administration of the Troops-to-Teachers Program under paragraph (1) shall take effect—“(A) on the first day of the first month beginning more than 90 days after the date of the enactment of this Act [Jan. 2, 2013]; or “(B) on such earlier date as the Secretary of Education and the Secretary of Defense may jointly provide.”
 
 Pub. L. 112–239, div. A, title V, § 541(d)(3), Jan. 2, 2013, 126 Stat. 1735, provided that: “The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([former] [20 U.S.C. 6671](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6671&num=0&edition=prelim) et seq.) by paragraph (1) shall not affect— “(A) the validity or terms of any agreement entered into under such chapter, as in effect immediately before such repeal, before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a) [set out as a note above]; or “(B) the authority to pay assistance, make grants, or obtain reimbursement in connection with such an agreement as in effect before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a).”
+
+
+<a id="section-1155"></a>
+## § 1155. Statement of benefits
+**(a) Before Separation.—** Not later than 30 days before a member retires, is released, is discharged, or otherwise separates from the armed forces (or as soon as is practicable in the case of an unanticipated separation), the Secretary concerned shall provide that member with a current assessment of all benefits to which that member may be entitled under laws administered by—
+
+(1) the Secretary of Defense; and
+
+(2) the Secretary of Veterans Affairs.
+
+**(b) Statement for Reserves.—** The Secretary concerned shall provide a member of a reserve component with a current assessment of benefits described in subsection (a) upon release of that member from active duty.

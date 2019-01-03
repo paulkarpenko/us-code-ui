@@ -1339,13 +1339,13 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 (2) **State and local government inspections** — Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
 
-(3) **Audits and reports by States** — For fiscal year 2017, each State shall annually—
+(3) **Audits and reports by States** — For fiscal year 2018, each State shall annually—
 
   (A) audit food safety inspections of schools conducted under paragraphs (1) and (2); and
 
   (B) submit to the Secretary a report of the results of the audit.
 
-(4) **Audit by the Secretary** — For fiscal year 2017, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+(4) **Audit by the Secretary** — For fiscal year 2018, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
 
 (5) **School food safety program**
 
@@ -1420,6 +1420,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2018—Subsec. (h)(3). Pub. L. 115–141, which directed substitution of “for fiscal year 2018” for “for fiscal year 2017”, was executed by substituting “For fiscal year 2018” for “For fiscal year 2017”, to reflect the probable intent of Congress.
+
+Subsec. (h)(4). Pub. L. 115–141, which directed substitution of “for fiscal year 2018” for “for fiscal year 2017”, was executed by substituting “For fiscal year 2018” for “For fiscal year 2017”, to reflect the probable intent of Congress.
+
 2017—Subsec. (h)(3). Pub. L. 115–31, which directed substitution of “for fiscal year 2017” for “for each of fiscal years 2011 through 2015”, was executed by substituting “For fiscal year 2017” for “For each of fiscal years 2011 through 2015”, to reflect the probable intent of Congress.
 
 Subsec. (h)(4). Pub. L. 115–31, which directed substitution of “for fiscal year 2017” for “for each of fiscal years 2011 through 2015”, was executed by substituting “For fiscal year 2017” for “For each of fiscal years 2011 through 2015”, to reflect the probable intent of Congress.
@@ -2867,6 +2871,9 @@ Amendment by Pub. L. 87–688 applicable only with respect to funds appropriated
 
 #### Effective Date of 1952 Amendment
 Amendment by act July 12, 1952, effective only with respect to funds appropriated after July 12, 1952, see section 1(d) of act July 12, 1952, set out as a note under [section 1753 of this title](./chapter-013-school-lunch-programs.md#section-1753).
+
+#### Buy American Requirements
+Pub. L. 115–334, title IV, § 4207, Dec. 20, 2018, 132 Stat. 4666, provided that: “(a) Enforcement.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2018], the Secretary of Agriculture shall—“(1) enforce full compliance with the requirements of section 12(n) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760(n)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1760/n&num=0&edition=prelim)) for purchases of agricultural commodities, including fish, meats, vegetables, and fruits, and the products thereof, and “(2) ensure that States and school food authorities fully understand their responsibilities under such Act [[42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.]. “(b) Requirement.—The products of the agricultural commodities described in subsection (a)(1) shall be processed in the United States and substantially contain—“(1) meats, vegetables, fruits, and other agricultural commodities produced in—“(A) a State, “(B) the District of Columbia, “(C) the Commonwealth of Puerto Rico, or “(D) any territory or possession of the United States, or “(2) fish harvested—“(A) within the Exclusive Economic Zone of the United States, as described in Presidential Proclamation 5030 (48 Fed. Reg. 10605; March 10, 1983) [[16 U.S.C. 1453](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim) note], or “(B) by a United States flagged vessel. “(c) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the actions the Secretary has taken, and plans to take, to comply with this section.”
 
 #### Study of Cost Accounting Requirements
 Pub. L. 94–105, § 21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
@@ -5554,7 +5561,7 @@ Pub. L. 101–147, title II, § 205(b), Nov. 10, 1989, 103 Stat. 911, provided t
 
 (1) **Minimum grant** — Except as provided in subsection (i)(2), the Secretary shall provide to each of the 50 States and the District of Columbia an annual grant in an amount equal to 1 percent of the funds made available for a year to carry out the program.
 
-(2) **Additional funding** — Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 4 based on the proportion that—
+(2) **Additional funding** — Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under [section 1753 of this title](./chapter-013-school-lunch-programs.md#section-1753) based on the proportion that—
 
   (A) the population of the State; bears to
 
@@ -6277,7 +6284,7 @@ Pub. L. 108–265, title I, § 126(b)(2), June 30, 2004, 118 Stat. 765, provided
 ### Statutory Notes
 
 #### References in Text
-[Section 7517 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7517&num=0&edition=prelim), referred to in subsec. (b)(7)(D)(iii), was amended generally by Pub. L. 113–79, title IV, § 4208, Feb. 7, 2014, 128 Stat. 826, and now relates to food insecurity nutrition incentive.
+[Section 7517 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7517&num=0&edition=prelim), referred to in subsec. (b)(7)(D)(iii), was amended generally by Pub. L. 113–79, title IV, § 4208, Feb. 7, 2014, 128 Stat. 826, and now relates to the Gus Schumacher nutrition incentive program.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(B), (7)(D)(iv)(III), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
@@ -6577,11 +6584,13 @@ Pub. L. 103–448, title I, § 122(c), Nov. 2, 1994, 108 Stat. 4731, provided th
 
 **(c) Audits** The Secretary shall establish fair and reasonable auditing procedures regarding the expenditures of funds to carry out this section.
 
-**(d) Funding** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2017. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+**(d) Funding** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2018. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–141 substituted “2010 through 2018” for “2010 through 2017”.
+
 2017—Subsec. (d). Pub. L. 115–31, which directed substitution of “2010 through 2017” for “2010 through 2016” in first sentence, could not be executed because of the prior identical amendment by Pub. L. 114–223, § 148. See 2016 Amendment note below.
 
 2016—Subsec. (d). Pub. L. 114–223, § 148, as added by Pub. L. 114–254, § 101(3), substituted “2010 through 2017” for “2010 through 2016” in first sentence.

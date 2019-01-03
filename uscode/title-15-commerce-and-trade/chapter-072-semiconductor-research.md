@@ -222,12 +222,12 @@ Section, Pub. L. 100–180, div. A, title II, § 274, Dec. 4, 1987, 101 Stat. 10
 <a id="section-4605"></a>
 ## § 4605. Export of semiconductor manufacturing
 
-Any export of materials, equipment, and technology developed by Sematech in whole or in part with financial assistance provided under [section 4602(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4602/a&num=0&edition=prelim) shall be subject to the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) [now [50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.] and shall not be subject to the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.].
+Any export of materials, equipment, and technology developed by Sematech in whole or in part with financial assistance provided under [section 4602(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4602/a&num=0&edition=prelim) shall be subject to the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 11 See References in Text note below. and shall not be subject to the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 

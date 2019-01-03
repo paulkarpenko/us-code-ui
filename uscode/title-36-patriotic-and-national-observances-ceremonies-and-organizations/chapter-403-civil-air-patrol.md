@@ -74,7 +74,7 @@ Amendment by Pub. L. 106–398 effective 120 days after Oct. 30, 2000, see secti
 ## § 40303. Membership and governing body
 **(a) Membership.—** Eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
-**(b) Governing Body.—** The Civil Air Patrol has a Board of Governors. The composition and responsibilities of the Board of Governors are set forth in [section 9447 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9447&num=0&edition=prelim).
+**(b) Governing Body.—** The Civil Air Patrol has a Board of Governors. The composition and responsibilities of the Board of Governors are set forth in [section 9497 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9497&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -86,7 +86,12 @@ Amendment by Pub. L. 106–398 effective 120 days after Oct. 30, 2000, see secti
 The words “are as provided in” are substituted for “shall be determined according to” for consistency in the revised title. The text of 36:203 (proviso) is omitted as obsolete.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “[section 9497 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9497&num=0&edition=prelim)” for “[section 9447 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9447&num=0&edition=prelim)”.
+
 2000—Pub. L. 106–398 inserted “and governing body” after “Membership” in section catchline, designated existing provisions as subsec. (a), inserted subsec. (a) heading, and added subsec. (b).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–398 effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as an Effective Date note under [section 9441 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9441&num=0&edition=prelim), Armed Forces.

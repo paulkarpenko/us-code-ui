@@ -2,7 +2,7 @@
 title: 2
 chapter: '55'
 heading: HOUSE OF REPRESENTATIVES OFFICERS AND ADMINISTRATION
-section_count: 44
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -141,6 +141,8 @@ Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, 
 
 **(e) Transfers to House Historic Buildings Revitalization Trust Fund** Amounts appropriated for any fiscal year for the House of Representatives under any heading other than the heading “Members’ Representational Allowances” may be transferred to the Architect of the Capitol and merged with and made available under the heading “House Historic Buildings Revitalization Trust Fund”, subject to the approval of the Committee on Appropriations of the House of Representatives.
 
+**(f) Transfers among House Leadership Offices** Amounts appropriated for any fiscal year for the House of Representatives under the heading “House Leadership Offices” may be transferred among and merged with the various offices and activities under such heading, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
+
 ### Statutory Notes
 
 #### Codification
@@ -149,6 +151,8 @@ Section was formerly classified to [section 95b of this title](./chapter-004-off
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–244 added subsec. (f).
+
 2014—Subsec. (c)(2). Pub. L. 113–76 substituted “ ‘Allowances and Expenses’, the heading for any joint committee under the heading ‘Joint Items’ (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and ‘Office of the Attending Physician’ ” for “and ‘Allowances and Expenses’ ”.
 
 2009—Subsecs. (a), (b), (c)(1). Pub. L. 111–8, § 105(a), substituted “transferred among and merged with” for “transferred among”.
@@ -162,6 +166,9 @@ Pub. L. 111–8, § 103(a), added subsec. (d).
 Subsec. (e). Pub. L. 111–68, § 1304(d), added subsec. (e).
 
 2003—Subsecs. (a), (b), (c)(1). Pub. L. 108–7 substituted “effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer” for “upon approval of the Committee on Appropriations of the House of Representatives”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–244, div. B, title I, § 119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2019 and each succeeding fiscal year.”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–76, div. I, title I, § 103(b), Jan. 17, 2014, 128 Stat. 422, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
@@ -219,6 +226,55 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+
+<a id="section-5510"></a>
+## § 5510. Providing assistance to House of Representatives in response to cybersecurity events
+**(a) Provision of assistance** If the Speaker of the House of Representatives (or the Speaker’s designee), with the concurrence of the Minority Leader of the House of Representatives (or the Minority Leader’s designee), determines that a cybersecurity event has occurred and that containing, mitigating, or resolving the event exceeds the resources of the House of Representatives, then notwithstanding any other provision of law or any rule, regulation, or executive order—
+
+(1) the Speaker may request assistance in responding to the event from the head of any Executive department, military department, or independent establishment;
+
+(2) not later than 24 hours after receiving the request, the head of the department or establishment shall begin to provide appropriate assistance in response to the incident, including (if necessary) restoring the information systems of the House to an operational state which allows for the continuation of the legislative process and for Members, officers, and employees of the House to continue to meet their official and representational duties; and
+
+(3) such assistance shall be provided without reimbursement by the House of Representatives.
+
+**(b) Scope of assistance**
+
+(1) **In general** — The assistance provided to the Speaker by the head of a department or establishment under this section may consist only of a type that the head of the department or establishment is authorized under law to provide to the department or establishment, another Executive department, military department, or independent establishment, or a private entity.
+
+(2) **Connections between department or establishment and House information systems** — In providing assistance under this section—
+
+  (A) personnel of a department or establishment may not log onto the information systems of the House without the authorization of the Speaker (or the Speaker’s designee); and
+
+  (B) personnel of a department or establishment may provide the House with access to technological support services of the department or establishment, including by authorizing personnel or systems of the House to connect with and operate services or programs of the department or establishment with guidance from subject matter experts of the department or establishment.
+
+**(c) Termination of assistance**
+
+(1) **Termination upon notice from Speaker** — After initiating assistance under this section, the head of the department or establishment shall continue providing assistance until the Speaker (or Speaker’s designee) notifies the head of the department or establishment that the cybersecurity incident has terminated and that it is no longer necessary for the department or establishment to provide post-incident assistance.
+
+(2) **Removal of technological support services** — Upon receiving notice from the Speaker under paragraph (1), the head of the department or establishment shall ensure that any technological support services or programs of the department or establishment are removed from the information systems of the House, and that personnel of the department or establishment are no longer monitoring such systems.
+
+**(d) Compliance with existing standards** In providing assistance under this section, the head of the Executive department, military department, or independent establishment shall meet the requirements of section 113 of the Legislative Branch Appropriations Act, 2017 (Public Law 115–31).
+
+**(e) No effect on other authority to provide support** Nothing in this section may be construed to affect the authority of an Executive department, military department, or independent establishment to provide any support, including cybersecurity support, to the House of Representatives under any other law, rule, or regulation.
+
+**(f) Definitions** In this section, each of the terms “Executive department”, “military department”, and “independent establishment” has the meaning given such term in chapter 1 of title 5.
+
+### Statutory Notes
+
+#### References in Text
+Section 113 of the Legislative Branch Appropriations Act, 2017, referred to in subsec. (d), is section 113 of title I of div. I of Pub. L. 115–31, May 5, 2017, 131 Stat. 576, which is not classified to the Code.
+
+
+<a id="section-5511"></a>
+## § 5511. Transfer of funds
+**(a) Transfer of unexpended appropriations for salaries and expenses** Notwithstanding any other provision of law, upon completion of the second fiscal year which begins after the end of the period during which amounts appropriated under any of the items under the heading “House of Representatives, Salaries and Expenses” are available for obligation or expenditure, any such amounts which remain unobligated and unexpended shall be transferred to the heading “House of Representatives, Salaries and Expenses, Allowances and Expenses” and shall be available until expended for purposes of House of Representatives Business Continuity and Disaster Recovery.
+
+**(b) Exception for members’ representational allowances** Subsection (a) does not apply to amounts appropriated under the heading “House of Representatives, Salaries and Expenses, Members’ Representational Allowances”.
+
+**(c) Notification** The Chief Administrative Officer of the House of Representatives shall notify the Committee on Appropriations of the House of Representatives prior to the obligation or expenditure of any amounts transferred under subsection (a).
+
+**(d) Applicability** This section shall apply with respect to amounts appropriated for fiscal year 2018 or any succeeding fiscal year.
 
 
 <a id="section-5521"></a>
@@ -653,6 +709,8 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 (6) The collection of promotional rebates and incentives on credit card purchases, balances, and payments.
 
+(7) The collection of a service fee from vendors of the Master Web Services Agreement or the Technology Services Contract for failure to abide by and maintain House of Representatives security policies.
+
 **(b) Use of amounts in Fund** Amounts in the Revolving Funds 22 So in original. Probably should be “Fund”. shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction, which is approved by the Committee on Appropriations of the House of Representatives.
 
 **(c) Transfer authority** The Revolving Fund shall be treated as a category of allowances and expenses for purposes of [section 5507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5507/a&num=0&edition=prelim).
@@ -684,11 +742,16 @@ Section was formerly classified to [section 117m of this title](./chapter-004-of
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
 #### Amendments
+2018—Subsec. (a)(7). Pub. L. 115–141 added par. (7).
+
 2009—Subsec. (a)(6). Pub. L. 111–8 added par. (6).
 
 2007—Subsec. (b). Pub. L. 110–161 substituted “the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction,” for “the Chief Administrative Officer”.
 
 2005—Subsec. (a)(5). Pub. L. 109–13 added par. (5).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–141, div. I, title I, § 118(b), Mar. 23, 2018, 132 Stat. 777, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 23, 2018].”
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–8, div. G, title I, § 102(c), Mar. 11, 2009, 123 Stat. 817, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2009 and each succeeding fiscal year.”

@@ -130,7 +130,7 @@ Act June 29, 1936, ch. 858, title V, 49 Stat. 1995, as amended, provided as foll
 
 “(g) Upon the application of any citizen of the United States to purchase any vessel acquired by the Secretary of Transportation under the provisions of section 215 [former 46 U.S.C. App. 1125, see [46 U.S.C. 57105](./chapter-571-general-authority.md#section-57105)], the Secretary of Transportation is authorized to sell such vessel to the applicant for the fair and reasonable value thereof, but at not less than the cost thereof to the Secretary of Transportation less depreciation at the rate of 4 per centum per annum from the date of completion, excluding the cost of national-defense features added by the Secretary of Transportation, less the equivalent of any applicable construction-differential subsidy as provided by subsection (b), such sale to be in accordance with all the provisions of this title. Such vessel shall thereupon be eligible for an operating-differential subsidy under title VI of this Act [former 46 U.S.C. App. 1171 et seq., see Disposition Table preceding [section 101 of this title](./chapter-001-definitions.md#section-101)], notwithstanding the provisions of section 601(a)(1), and section 610(1) [set out below], or any other provision of law.
 
-“(h) The Secretary of Transportation is authorized to construct, purchase, lease, acquire, store, maintain, sell, or otherwise dispose of national defense features intended for installation on vessels. The Secretary of Transportation is authorized to install or remove such national defense features on any vessel (1) which is in the National Defense Reserve Fleet as defined by section 11(a) of the Merchant Ship Sales Act of 1946 [[50 U.S.C. 4405(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4405/a&num=0&edition=prelim)], (2) which is requisitioned, purchased, or chartered under section 902 of the Merchant Marine Act, 1936 [former 46 U.S.C. App. 1242, now [46 U.S.C. 56301](./chapter-563-emergency-acquisition-of-vessels.md#section-56301) et seq.], (3) which serves as security for the guarantee of an obligation by the Secretary of Transportation under title XI of this Act [former 46 U.S.C. App. 1271 et seq., see [46 U.S.C. 53701](./chapter-537-loans-and-guarantees.md#section-53701) et seq.], or (4) which is the subject of an agreement between the owner of such vessel and the Secretary of Transportation to install or remove such national defense features. Title to such national defense features which the Secretary of Transportation determines are not to be permanently incorporated in a vessel shall not be affected by such installation or removal unless otherwise transferred in accordance with the provisions of this title V.
+“(h) The Secretary of Transportation is authorized to construct, purchase, lease, acquire, store, maintain, sell, or otherwise dispose of national defense features intended for installation on vessels. The Secretary of Transportation is authorized to install or remove such national defense features on any vessel (1) which is in the National Defense Reserve Fleet as defined by section 11(a) of the Merchant Ship Sales Act of 1946 [former [50 U.S.C. 4405(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4405/a&num=0&edition=prelim), now [46 U.S.C. 57100(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section57100/a&num=0&edition=prelim)], (2) which is requisitioned, purchased, or chartered under section 902 of the Merchant Marine Act, 1936 [former 46 U.S.C. App. 1242, now [46 U.S.C. 56301](./chapter-563-emergency-acquisition-of-vessels.md#section-56301) et seq.], (3) which serves as security for the guarantee of an obligation by the Secretary of Transportation under title XI of this Act [former 46 U.S.C. App. 1271 et seq., see [46 U.S.C. 53701](./chapter-537-loans-and-guarantees.md#section-53701) et seq.], or (4) which is the subject of an agreement between the owner of such vessel and the Secretary of Transportation to install or remove such national defense features. Title to such national defense features which the Secretary of Transportation determines are not to be permanently incorporated in a vessel shall not be affected by such installation or removal unless otherwise transferred in accordance with the provisions of this title V.
 
 “(i) The Secretary of Transportation shall submit the plans and specifications for such national defense features and the proposals for their acquisition, storage, utilization, or disposition to the Navy Department for examination thereof and suggestion for such changes therein as may be deemed necessary or proper in order that such features shall be suitable for the use of the United States Government in time of war or national emergency. If the Secretary of the Navy approves such plans, specifications, or proposals as submitted, or as modified in accordance with the provisions of this subsection, he shall certify such approval to the Secretary of Transportation.”
 
@@ -206,17 +206,17 @@ Section 604, amended June 23, 1938, ch. 600, § 21, 52 Stat. 959; Aug. 4, 1939, 
 
 Section 605, amended July 17, 1952, ch. 939, § 15, 66 Stat. 764; Pub. L. 86–3, § 18(b)(2), Mar. 18, 1959, 73 Stat. 12; Pub. L. 86–518, § 1, June 12, 1960, 74 Stat. 216; Pub. L. 89–348, § 1(9), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 91–469, §§ 18, 19, 26(b), 35(a), (j), Oct. 21, 1970, 84 Stat. 1025, 1026, 1034–1036; Pub. L. 97–31, § 12(96), Aug. 6, 1981, 95 Stat. 162; Pub. L. 104–239, § 3(a), Oct. 8, 1996, 110 Stat. 3126, related to vessels excluded from subsidy.
 
-Section 606, amended June 23, 1938, ch. 600, § 22, 52 Stat. 960; July 17, 1952, ch. 939, § 16, 66 Stat. 764; May 10, 1956, ch. 247, § 1, 70 Stat. 148; Pub. L. 86–624, § 35(b), July 12, 1960, 74 Stat. 421; Pub. L. 87–45, § 5, May 27, 1961, 75 Stat. 91; Pub. L. 91–469, §§ 20, 35(a), (k), Oct. 21, 1970, 84 Stat. 1026, 1035, 1036; Pub. L. 97–31, § 12(96), Aug. 6, 1981, 95 Stat. 162, related to readjustments; change in service; withdrawal from service; payment of excess profits; wages, etc.; and American materials.
+Section 606, amended June 23, 1938, ch. 600, § 22, 52 Stat. 960; July 17, 1952, ch. 939, § 16, 66 Stat. 764; May 10, 1956, ch. 247, § 1, 70 Stat. 148; Pub. L. 86–624, § 35(b), July 12, 1960, 74 Stat. 421; Pub. L. 87–45, § 5, May 27, 1961, 75 Stat. 91; Pub. L. 91–469, §§ 20, 35(a), (k), Oct. 21, 1970, 84 Stat. 1026, 1035, 1036; Pub. L. 97–31, § 12(96), Aug. 6, 1981, 95 Stat. 162, related to readjustments, change in service, withdrawal from service, payment of excess profits, wages, etc., and American materials.
 
 Section 607 was classified to section 1177 of the former Appendix to this title and was primarily repealed and restated as chapter 535 of this title by Pub. L. 109–304, §§ 8(c), 19, Oct. 6, 2006, 120 Stat. 1586, 1710. For disposition of sections of the former Appendix to this title, see Disposition Table preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
 
-Section 608, amended Pub. L. 97–31, § 12(98), Aug. 6, 1981, 95 Stat. 162, related to sale or assignment of contract; consent of secretary; purchaser subject to terms of contract; and rescinding contract on transfer without consent.
+Section 608, amended Pub. L. 97–31, § 12(98), Aug. 6, 1981, 95 Stat. 162, related to sale or assignment of contract, consent of Secretary, purchaser subject to terms of contract, and rescinding contract on transfer without consent.
 
 Section 609, amended June 23, 1938, ch. 600, § 29, 52 Stat. 961; Pub. L. 97–31, § 12(99), Aug. 6, 1981, 95 Stat. 162, related to withholding payment to defaulting contractor.
 
 Section 610, amended Pub. L. 97–31, § 12(99), Aug. 6, 1981, 95 Stat. 162, related to vessels eligible for subsidy.
 
-Section 611, added June 23, 1938, ch. 600, § 30, 52 Stat. 961; and amended Pub. L. 85–791, § 17, Aug. 28, 1958, 72 Stat. 947; Pub. L. 86–518, § 4, June 12, 1960, 74 Stat. 216; Pub. L. 97–31, § 12(100), Aug. 6, 1981, 95 Stat. 162, related to Transfer of Vessels to Foreign Registry on Default of United States.
+Section 611, added June 23, 1938, ch. 600, § 30, 52 Stat. 961; and amended Pub. L. 85–791, § 17, Aug. 28, 1958, 72 Stat. 947; Pub. L. 86–518, § 4, June 12, 1960, 74 Stat. 216; Pub. L. 97–31, § 12(100), Aug. 6, 1981, 95 Stat. 162, related to transfer of vessels to foreign registry on default of United States.
 
 Section 612 was classified to section 1182 of the former Appendix to this title and was repealed by Pub. L. 101–225, title III, § 307(7), Dec. 12, 1989, 103 Stat. 1925.
 
@@ -233,11 +233,11 @@ Title VI of act June 29, 1936, ch. 858, which comprised this note, consisted of 
 #### Contract Provisions
 Act June 29, 1936, ch. 858, title VIII, §§ 801, 802, 809, 49 Stat. 2011, 2015, as amended, was repealed or transferred by Pub. L. 114–120, title III, § 313(a), (c)(1)(A), Feb. 8, 2016, 130 Stat. 58.
 
-Section 801, amended Pub. L. 97–31, § 12(119), Aug. 6, 1981, 95 Stat. 164, which related to provision for books and records; filing balance sheets; inspection and auditing by secretary; and rescission of contract on failure to comply with provisions, was transferred to [section 57522 of this title](./chapter-575-construction-charter-and-sale-of-vessels.md#section-57522) by Pub. L. 114–120, title III, § 313(c)(1)(A), Feb. 8, 2016, 130 Stat. 58.
+Section 801, amended Pub. L. 97–31, § 12(119), Aug. 6, 1981, 95 Stat. 164, which related to provision for books and records, filing balance sheets, inspection and auditing by Secretary, and rescission of contract on failure to comply with provisions, was transferred to [section 57522 of this title](./chapter-575-construction-charter-and-sale-of-vessels.md#section-57522) by Pub. L. 114–120, title III, § 313(c)(1)(A), Feb. 8, 2016, 130 Stat. 58.
 
-Section 802, amended June 29, 1936, ch. 858, title VIII, § 802, 49 Stat. 2011; June 23, 1938, ch. 600, § 33, 52 Stat. 962; Aug. 7, 1939, ch. 555, § 2, 53 Stat. 1254; Pub. L. 97–31, § 12(120), Aug. 6, 1981, 95 Stat. 164, related to purchase or requisition of vessels by United States and amount of payment prior to repeal by Pub. L. 114–120, title III, § 313(a), Feb. 8, 2016, 130 Stat. 58.
+Section 802, amended June 29, 1936, ch. 858, title VIII, § 802, 49 Stat. 2011; June 23, 1938, ch. 600, § 33, 52 Stat. 962; Aug. 7, 1939, ch. 555, § 2, 53 Stat. 1254; Pub. L. 97–31, § 12(120), Aug. 6, 1981, 95 Stat. 164, related to purchase or requisition of vessels by United States and amount of payment, prior to repeal by Pub. L. 114–120, title III, § 313(a), Feb. 8, 2016, 130 Stat. 58.
 
-Section 809, amended Pub. L. 91–469, § 26(a), Oct. 21, 1970, 84 Stat. 1034; Pub. L. 94–10, § 3, Mar. 23, 1975, 89 Stat. 16; Pub. L. 94–127, § 4, Nov. 13, 1975, 89 Stat. 680; Pub. L. 96–470, title II, § 201(a), Oct. 19, 1980, 94 Stat. 2241; Pub. L. 97–31, § 12(121), Aug. 6, 1981, 95 Stat. 164; Pub. L. 97–35, title XVI, § 1604, Aug. 13, 1981, 95 Stat. 751; Pub. L. 109–304, §§ 14(b), 19, Oct. 6, 2006, 120 Stat. 1702, 1710, related to requirement that contracts designed equitably for all ports; minimum allocation of funds; report to Congress; and preference to citizens of United States prior to repeal by Pub. L. 114–120, title III, § 313(a), Feb. 8, 2016, 130 Stat. 58.
+Section 809, amended Pub. L. 91–469, § 26(a), Oct. 21, 1970, 84 Stat. 1034; Pub. L. 94–10, § 3, Mar. 23, 1975, 89 Stat. 16; Pub. L. 94–127, § 4, Nov. 13, 1975, 89 Stat. 680; Pub. L. 96–470, title II, § 201(a), Oct. 19, 1980, 94 Stat. 2241; Pub. L. 97–31, § 12(121), Aug. 6, 1981, 95 Stat. 164; Pub. L. 97–35, title XVI, § 1604, Aug. 13, 1981, 95 Stat. 751; Pub. L. 109–304, §§ 14(b), 19, Oct. 6, 2006, 120 Stat. 1702, 1710, which consisted of subsecs. (a) and (b), related to requirement that contracts designed equitably for all ports, minimum allocation of funds, report to Congress, and preference to citizens of United States, prior to repeal by Pub. L. 114–120, title III, § 313(a), Feb. 8, 2016, 130 Stat. 58. Subsec. (b) of section 809 had already been repealed by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710.
 
 #### Enrollment in Sealift Readiness Program
 Act June 29, 1936, ch. 858, title IX, § 909, as added by Pub. L. 97–35, title XVI, § 1605, Aug. 13, 1981, 95 Stat. 752, provided that: “No vessel may receive construction differential subsidy or operating differential subsidy if it is not offered for enrollment in a sealift readiness program approved by the Secretary of Defense.”
@@ -462,11 +462,13 @@ Subsec. (e)(3). Pub. L. 109–304, § 13(a)(3)(C), substituted “chapter 563 of
 
 (1) the vessel—
 
-  (A) shall be operated exclusively in the foreign commerce or in mixed foreign commerce and domestic trade allowed under a registry endorsement issued under [section 12111 of this title](./chapter-121-documentation-of-vessels.md#section-12111); and
+  (A) shall be operated exclusively in the foreign commerce or, except as provided in paragraph (2), in mixed foreign commerce and domestic trade allowed under a registry endorsement issued under [section 12111 of this title](./chapter-121-documentation-of-vessels.md#section-12111); and
 
-  (B) shall not otherwise be operated in the coastwise trade; and
+  (B) shall not otherwise be operated in the coastwise trade;
 
-(2) the vessel shall be documented under chapter 121 of this title.
+(2) in the case of a vessel, other than a replacement vessel under subsection (f), first covered by an operating agreement after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the vessel shall not be operated in the transportation of cargo between points in the United States and its territories either directly or via a foreign port; and
+
+(3) the vessel shall be documented under chapter 121 of this title.
 
 **(b) Annual Payments by Secretary.—**
 
@@ -488,7 +490,14 @@ Subsec. (e)(3). Pub. L. 109–304, § 13(a)(3)(C), substituted “chapter 563 of
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
 #### Amendments
+2017—Subsec. (a)(1)(A). Pub. L. 115–91, § 3503(a)(1), inserted “, except as provided in paragraph (2),” after “in the foreign commerce or”.
+
+Subsec. (a)(2), (3). Pub. L. 115–91, § 3503(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3).
+
 2013—Subsec. (e). Pub. L. 112–239, § 3508(e)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to transfer of operating agreements, with limitation based on citizenship of recipient.
 
 Subsec. (f). Pub. L. 112–239, § 3508(e)(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “A contractor may replace a vessel under an operating agreement with another vessel that is eligible to be included in the Fleet under section 53102(b), if the Secretary, in conjunction with the Secretary of Defense, approves replacement of the vessel.”
@@ -508,23 +517,15 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 
 (1) **In general.—** — The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
 
-  (A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
+  (A) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-  (B) $2,900,000 for each of fiscal years 2009, 2010, and 2011;
+  (B) $5,233,463 for fiscal year 2021; and
 
-  (C) $3,100,000 for each of fiscal years 2012, 2013, 2014, and 2015;
-
-  (D) $4,999,950 for fiscal year 2017;
-
-  (E) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
-
-  (F) $5,233,463 for fiscal year 2021; and
-
-  (G) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+  (C) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
 
 (2) **Timing.—** — The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
 
-**(b) Certification Required for Payment.—** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53105(a)(1) for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+**(b) Certification Required for Payment.—** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
 **(c) General Limitations.—** The Secretary of Transportation shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
 
@@ -544,7 +545,7 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 
 (2) shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
 
-(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53105(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
+(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
 
 **(e) Limitation Regarding Noncontiguous Domestic Trade.—**
 
@@ -557,6 +558,12 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1)(A) to (G). Pub. L. 115–232 redesignated subpars. (E) to (G) as (A) to (C), respectively, and struck out former subpars. (A) to (D) which set out payment amounts for fiscal years 2006 to 2017.
+
+2017—Subsec. (b). Pub. L. 115–91, § 3503(b)(1), substituted “paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel,” for “section 53105(a)(1)”.
+
+Subsec. (d)(3). Pub. L. 115–91, § 3503(b)(2), substituted “paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel” for “section 53105(a)(1)”.
+
 2016—Subsec. (c)(3). Pub. L. 114–328 substituted “; or” for “or (C);” at end of subpar. (A) and a period for “; or” at end of subpar. (B) and struck out subpar. (C) which read as follows: “30 years of age, in the case of a lighter aboard ship vessel.”
 
 2015—Subsec. (a)(1)(B). Pub. L. 114–113, § 101(e)(1)(A), struck out comma before “for each”.
@@ -692,23 +699,17 @@ Pub. L. 108–136, div. C, title XXXV, § 3533, Nov. 24, 2003, 117 Stat. 1818, p
 
 There are authorized to be appropriated for payments under section 53106, to remain available until expended—
 
-(1) $156,000,000 for each of fiscal years 2006, 2007, and 2008;
+(1) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-(2) $174,000,000 for each of fiscal years 2009, 2010, and 2011;
+(2) $314,007,780 for fiscal year 2021; and
 
-(3) $186,000,000 for each of fiscal years 2012, 2013, 2014, and 2015 11 So in original. Probably should be followed by a semicolon.
-
-(4) $299,997,000 for fiscal year 2017;
-
-(5) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
-
-(6) $314,007,780 for fiscal year 2021; and
-
-(7) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
+(3) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–232 redesignated pars. (5) to (7) as (1) to (3), respectively, and struck out former pars. (1) to (4) which set out authorized amounts for fiscal years 2006 to 2017.
+
 2015—Par. (3). Pub. L. 114–113, § 101(e)(2)(A), substituted “and 2015” for “2015, 2017, and 2018;”.
 
 Pub. L. 114–92 struck out “2016,” after “2015,”.

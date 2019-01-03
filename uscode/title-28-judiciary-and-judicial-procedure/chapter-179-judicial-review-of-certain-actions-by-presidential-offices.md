@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).
 
 
 <a id="section-3902"></a>
@@ -23,11 +23,21 @@ Chapter effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out a
 
 In any proceeding under section 1296 or 1346(g) of this title in which the application of a regulation issued under chapter 5 of title 3 is at issue, the court may review the validity of the regulation in accordance with the provisions of subparagraphs (A) through (D) of [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim). If the court determines that the regulation is invalid, the court shall apply, to the extent necessary and appropriate, the most relevant substantive executive agency regulation promulgated to implement the statutory provisions with respect to which the invalid regulation was issued. Except as provided in this section, the validity of regulations issued under this chapter is not subject to judicial review.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).
+
 
 <a id="section-3903"></a>
 ## § 3903. Effect of failure to issue regulations
 
 In any proceeding under section 1296 or 1346(g) of this title, if the President, the designee of the President, or the Federal Labor Relations Authority has not issued a regulation on a matter for which chapter 5 of title 3 requires a regulation to be issued, the court shall apply, to the extent necessary and appropriate, the most relevant substantive executive agency regulation promulgated to implement the statutory provision at issue in the proceeding.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).
 
 
 <a id="section-3904"></a>
@@ -35,6 +45,11 @@ In any proceeding under section 1296 or 1346(g) of this title, if the President,
 **(a) In General.—** An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order of a court upon the constitutionality of any provision of chapter 5 of title 3.
 
 **(b) Jurisdiction.—** The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal referred to in subsection (a), advance the appeal on the docket, and expedite the appeal to the greatest extent possible.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).
 
 
 <a id="section-3905"></a>
@@ -50,6 +65,9 @@ In any proceeding under section 1296 or 1346(g) of this title, if the President,
 #### References in Text
 Sections 706 and 717 of the Civil Rights Act of 1964, referred to in subsecs. (a) and (b), are classified to sections 2000e–5 and 2000e–16, respectively, of Title 42, The Public Health and Welfare.
 
+#### Effective Date
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).
+
 
 <a id="section-3906"></a>
 ## § 3906. Payments
@@ -60,14 +78,29 @@ A judgment, award, or compromise settlement against the United States under this
 
 (2) out of amounts otherwise appropriated or available to the office involved, if it arises out of an appeal from an administrative proceeding under chapter 5 of title 3.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).
+
 
 <a id="section-3907"></a>
 ## § 3907. Other judicial review prohibited
 
 Except as expressly authorized by this chapter and chapter 5 of title 3, the compliance or noncompliance with the provisions of chapter 5 of title 3, and any action taken pursuant to chapter 5 of title 3, shall not be subject to judicial review.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).
+
 
 <a id="section-3908"></a>
 ## § 3908. Definitions
 
 For purposes of applying this chapter, the terms “employing office” and “covered employee” have the meanings given those terms in [section 401 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section401&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under [section 1296 of this title](./chapter-083-courts-of-appeals.md#section-1296).

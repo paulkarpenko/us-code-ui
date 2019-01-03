@@ -133,7 +133,11 @@ In subsection (d), the words “vessel of the United States” are substituted f
 
 <a id="section-40304"></a>
 ## § 40304. Commission action
-**(a) Notice of Filing.—** Within 7 days after an agreement is filed, the Federal Maritime Commission shall transmit a notice of the filing to the Federal Register for publication.
+**(a) Notice of Filing.—** Not later than 7 days after the date an agreement is filed, the Federal Maritime Commission shall—
+
+(1) transmit a notice of the filing to the Federal Register for publication; and
+
+(2) request interested persons to submit relevant information and documents.
 
 **(b) Preliminary Review and Rejection.—** After preliminary review, the Commission shall reject an agreement that it finds does not meet the requirements of sections 40302 and 40303 of this title. The Commission shall notify in writing the person filing the agreement of the reason for rejection.
 
@@ -147,7 +151,7 @@ In subsection (d), the words “vessel of the United States” are substituted f
 
   (B) if the request is not fully complied with, on the 45th day after the Commission receives the information and documents submitted and a statement of the reasons for noncompliance with the request.
 
-**(d) Request for Additional Information.—** Before the expiration of the period specified in subsection (c)(1), the Commission may request from the person filing the agreement any additional information and documents the Commission considers necessary to make the determinations required by this section.
+**(d) Request for Additional Information.—** Before the expiration of the period specified in subsection (c)(1), the Commission may request from the person filing the agreement any additional information and documents the Commission considers necessary to make the determinations required by this part.
 
 **(e) Modification of Review Period.—**
 
@@ -169,6 +173,14 @@ In subsection (d), the words “vessel of the United States” are substituted f
 | 40304(e)(1) | 46 App.:1705(e). |  |
 | 40304(e)(2) | 46 App.:1705(c) (last sentence). |  |
 | 40304(f) | 46 App.:1705(f). |  |
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–282, § 706(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “Within 7 days after an agreement is filed, the Federal Maritime Commission shall transmit a notice of the filing to the Federal Register for publication.”
+
+Subsec. (d). Pub. L. 115–282, § 706(b), substituted “part” for “section”.
+
+#### Saving Clause
+Pub. L. 115–282, title VII, § 706(c), Dec. 4, 2018, 132 Stat. 4295, provided that: “Nothing in this section [amending this section], or the amendments made by this section, may be construed— “(1) to prevent the Federal Maritime Commission from requesting from a person, at any time, any additional information or documents the Commission considers necessary to carry out chapter 403 of title 46, United States Code; “(2) to prescribe a specific deadline for the submission of relevant information and documents in response to a request under [section 40304(a)(2) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40304/a/2&num=0&edition=prelim), United States Code; or “(3) to limit the authority of the Commission to request information under [section 40304(d) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40304/d&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-40305"></a>
@@ -226,7 +238,7 @@ The words “judicial proceeding” are substituted for “judicial action or pr
 
 **(b) Exceptions.—** This part does not extend antitrust immunity to—
 
-(1) an agreement with or among air carriers, rail carriers, motor carriers, or common carriers by water not subject to this part relating to transportation within the United States;
+(1) an agreement with or among air carriers, rail carriers, motor carriers, tug operators, or common carriers by water not subject to this part relating to transportation within the United States;
 
 (2) a discussion or agreement among common carriers subject to this part relating to the inland divisions (as opposed to the inland portions) of through rates within the United States;
 
@@ -255,3 +267,6 @@ In subsection (a)(7), the words “subject to section 1719(e)(2) of this Appendi
 Section 15 of the Shipping Act, 1916, referred to in subsec. (a)(7), which was classified to section 814 of the former Appendix to this title, was repealed by Pub. L. 104–88, title III, § 335(b)(3), Dec. 29, 1996, 109 Stat. 954.
 
 Section 14b of the Shipping Act, 1916, referred to in subsec. (a)(7), which was classified to section 813a of former Title 46, Shipping, was repealed by Pub. L. 98–237, § 20(a), Mar. 20, 1984, 98 Stat. 88.
+
+#### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–282 inserted “tug operators,” after “motor carriers,”.

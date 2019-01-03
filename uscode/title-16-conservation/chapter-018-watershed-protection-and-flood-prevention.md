@@ -2,7 +2,7 @@
 title: 16
 chapter: '18'
 heading: WATERSHED PROTECTION AND FLOOD PREVENTION
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -34,7 +34,9 @@ For the purposes of this chapter, the following terms shall mean:
 ### Statutory Notes
 
 #### Amendments
-1994—Pub. L. 103–437 in closing provisions of par. defining “Works of improvement” substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” and “Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House” for “Committee on Public Works of the Senate and the Committee on Public Works of the House”.
+2018—Pub. L. 115–141 substituted “$25,000,000” for “$5,000,000” in concluding provisions relating to definition of “Works of improvement”.
+
+1994—Pub. L. 103–437 in concluding provisions relating to definition of “Works of improvement” substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” and “Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House” for “Committee on Public Works of the Senate and the Committee on Public Works of the House”.
 
 1990—Pub. L. 101–624, which directed amendment of third sentence by substituting “Each project” for “Each such project submitted to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives after July 1, 1987,” and inserting “, including rural communities,” after “agriculture”, was executed to third sentence of par. defining “Works of improvement” to reflect the probable intent of Congress.
 
@@ -70,8 +72,7 @@ Amendment by act Aug. 7, 1956, as applicable to all works of improvements and pl
 
 <a id="section-1003"></a>
 ## § 1003. Assistance to local organizations
-
-In order to assist local organizations in preparing and carrying out plans for works of improvement, the Secretary is authorized, upon application of local organizations if such application has been submitted to, and not disapproved within 45 days by, the State agency having supervisory responsibility over programs provided for in this chapter, or by the Governor if there is no State agency having such responsibility—
+**(a) In general** In order to assist local organizations in preparing and carrying out plans for works of improvement, the Secretary is authorized, upon application of local organizations if such application has been submitted to, and not disapproved within 45 days by, the State agency having supervisory responsibility over programs provided for in this chapter, or by the Governor if there is no State agency having such responsibility—
 
 (1) to conduct such investigations and surveys as may be necessary to prepare plans for works of improvement;
 
@@ -85,12 +86,20 @@ In order to assist local organizations in preparing and carrying out plans for w
 
 (6) to enter into agreements with landowners, operators, and occupiers, individually or collectively, based on conservation plans of such landowners, operators, and occupiers which are developed in cooperation with and approved by the soil and water conservation district in which the land described in the agreement is situated, to be carried out on such land during a period of not to exceed ten years, providing for changes in cropping systems and land uses and for the installation of soil and water conservation practices and measures needed to conserve and develop the soil, water, woodland, wildlife, energy, and recreation resources of and enhance the water quality of lands within the area included in plans for works of improvement, as provided for in such plans, including watershed or subwatershed work plans in connection with the eleven watershed improvement programs authorized by section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented. Applications for assistance in developing such conservation plans shall be made in writing to the soil and water conservation district involved, and the proposed agreement shall be reviewed by such district. In return for such agreements by landowners, operators, and occupiers the Secretary shall agree to share the costs of carrying out those practices and measures set forth in the agreement for which he determines that cost sharing is appropriate and in the public interest. The portion of such costs, including labor, to be shared shall be that part which the Secretary determines is appropriate and in the public interest for the carrying out of the practices and measures set forth in the agreement, except that the Federal assistance shall not exceed the rate of assistance for similar practices and measures under existing national programs. The Secretary may terminate any agreement with a landowner, operator, or occupier by mutual agreement if the Secretary determines that such termination would be in the public interest, and may agree to such modifications of agreements, previously entered into hereunder, as he deems desirable to carry out the purposes of this paragraph or to facilitate the practical administration of the agreements provided for herein. Notwithstanding any other provision of law, the Secretary, to the extent he deems it desirable to carry out the purposes of this paragraph, may provide in any agreement hereunder for (1) preservation for a period not to exceed the period covered by the agreement and an equal period thereafter of the cropland, crop acreage, and allotment history applicable to land covered by the agreement for the purpose of any Federal program under which such history is used as a basis for an allotment or other limitation on the production of any crop; or (2) surrender of any such history and allotments.
 
+**(b) Waiver** The Secretary may waive the watershed plan for works of improvement if the Secretary determines that—
+
+(1) the watershed plan is unnecessary or duplicative; and
+
+(2) the works of improvement are otherwise consistent with applicable requirements under [section 1004 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1004).
+
 ### Statutory Notes
 
 #### References in Text
 Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, referred to in par. (6), is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 887, which was not classified to the Code.
 
 #### Amendments
+2018—Pub. L. 115–334 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 1990—Par. (6). Pub. L. 101–624 inserted “and enhance the water quality of” after “recreation resources of”.
 
 1981—Par. (6). Pub. L. 97–98 inserted reference to energy in the enumeration of the various aspects of lands to be conserved and developed within areas included under plans for works of improvement.
@@ -182,15 +191,21 @@ Amendment by act Aug. 7, 1956, as applicable to all works of improvement and pla
 
 (2) **Federal construction; request by local organization** — Except as to the installation of works of improvement on Federal lands, the Secretary shall not construct or enter into any contract for the construction of any structure: Provided, That, if requested to do so by the local organization, the Secretary may enter into contracts for the construction of structures.
 
-(3) **Transmission of certain plans to Congress** — Whenever the estimated Federal contribution to the construction cost of works of improvement in the plan for any watershed or subwatershed area shall exceed $5,000,000 or the works of improvement include any structure having a total capacity in excess of twenty-five hundred acre-feet, the Secretary shall transmit a copy of the plan and the justification therefor to the Congress through the President.
+(3) **Transmission of certain plans to Congress** — Whenever the estimated Federal contribution to the construction cost of works of improvement in the plan for any watershed or subwatershed area shall exceed $25,000,000 or the works of improvement include any structure having a total capacity in excess of twenty-five hundred acre-feet, the Secretary shall transmit a copy of the plan and the justification therefor to the Congress through the President.
 
-(4) **Transmission of certain plans and recommendations to Congress** — Any plans for works of improvement involving an estimated Federal contribution to construction costs in excess of $5,000,000 or including any structure having a total capacity in excess of twenty-five hundred acre-feet (a) which includes works of improvement for reclamation or irrigation, or which affects public or other lands or wildlife under the jurisdiction of the Secretary of the Interior, (b) which includes Federal assistance for goodwater 11 So in original. Probably should be “floodwater”. detention structures, (c) which includes features which may affect the public health, or (d) which includes measures for control or abatement of water pollution, shall be submitted to the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, or the Administrator of the Environmental Protection Agency, respectively, for his views and recommendations at least thirty days prior to transmission of the plan to the Congress through the President. The views and recommendations of the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, and the Administrator of the Environmental Protection Agency, if received by the Secretary prior to the expiration of the above thirty-day period, shall accompany the plan transmitted by the Secretary to the Congress through the President.
+(4) **Transmission of certain plans and recommendations to Congress** — Any plans for works of improvement involving an estimated Federal contribution to construction costs in excess of $25,000,000 or including any structure having a total capacity in excess of twenty-five hundred acre-feet (a) which includes works of improvement for reclamation or irrigation, or which affects public or other lands or wildlife under the jurisdiction of the Secretary of the Interior, (b) which includes Federal assistance for floodwater detention structures, (c) which includes features which may affect the public health, or (d) which includes measures for control or abatement of water pollution, shall be submitted to the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, or the Administrator of the Environmental Protection Agency, respectively, for his views and recommendations at least thirty days prior to transmission of the plan to the Congress through the President. The views and recommendations of the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, and the Administrator of the Environmental Protection Agency, if received by the Secretary prior to the expiration of the above thirty-day period, shall accompany the plan transmitted by the Secretary to the Congress through the President.
 
 (5) **Rules and regulations** — Prior to any Federal participation in the works of improvement under this chapter, the President shall issue such rules and regulations as he deems necessary or desirable to carry out the purposes of this chapter, and to assure the coordination of the work authorized under this chapter and related work of other agencies, including the Department of the Interior and the Department of the Army.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subd. (3). Pub. L. 115–141, § 761(b)(1), substituted “$25,000,000” for “$5,000,000”.
+
+Subd. (4). Pub. L. 115–334 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” in two places and, in item (b), substituted “floodwater” for “goodwater”.
+
+Pub. L. 115–141, § 761(b)(2), substituted “$25,000,000” for “$5,000,000”.
+
 1981—Subd. (3). Pub. L. 97–98, § 1512(e), substituted “$5,000,000” for “$1,000,000”.
 
 Subd. (4). Pub. L. 97–98, § 1512(f), substituted “$5,000,000” for “$1,000,000”.
@@ -212,9 +227,6 @@ Subds. (3) to (5). Pub. L. 87–703 designated existing provisions as subds. (3)
 1956—Act Aug. 7, 1956, required local organization to secure engineering and other services and to employ engineers, except in projects not providing for municipal or industrial water supplies, when the local organization may or may not employ engineers, provided for reimbursement of costs of engineers, authorized the Secretary to contract for engineers or to utilize engineers employed by the Federal Government when local organizations do not employ any, permitted advances, required transmittal of plans when Federal contributions to construction costs are more than $250,000 or the works include any structures with more than 2,500 acre-feet of total capacity, eliminated provisions which required transmittal 45 days prior to commencement of installation, and reduced the period for submission of plans to the Secretaries of the Interior and the Army from 60 days to 30 days prior to transmittal to Congress.
 
 Act July 19, 1956, substituted “fifteen” for “forty-five”.
-
-#### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (4) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim), Agriculture.
@@ -457,7 +469,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 1998—Subsec. (a). Pub. L. 105–277 substituted “with the heads of other Federal agencies, tribal, State, and local governments, private and nonprofit entities, and landowners for the protection, restoration, and enhancement of fish and wildlife habitat and other resources on public or private land and the reduction of risk from natural disaster where public safety is threatened” for “with willing private landowners for restoration and enhancement of fish, wildlife, and other biotic resources on public or private land or both”.
 
 #### Federal and State Cooperative Watershed Restoration and Protection
-Pub. L. 106–291, title III, § 331, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 108–447, div. E, title III, § 336, Dec. 8, 2004, 118 Stat. 3102; Pub. L. 111–88, div. A, title IV, § 422, Oct. 30, 2009, 123 Stat. 2961; Pub. L. 113–76, div. G, title IV, § 417, Jan. 17, 2014, 128 Stat. 341, provided that: “(a) Use of State Forest Service.—The Secretary of Agriculture, via cooperative agreement or contract (including sole source contract) as appropriate, may permit the head of a State agency with jurisdiction over State forestry programs in a State containing National Forest System land (in this section referred to as a ‘State Forester’) to perform watershed restoration and protection services on National Forest System lands in the State when similar and complementary watershed restoration and protection services are being performed by the State Forest Service on adjacent State or private lands. The types of services that may be extended to National Forest System lands include treatment of insect infected trees, reduction of hazardous fuels, and other activities to restore or improve watersheds or fish and wildlife habitat across ownership boundaries. “(b) State as Agent.—Except as provided in subsection (c), a cooperative agreement or contract under subsection (a) may authorize the State Forester to serve as the agent for the Forest Service in providing all services necessary to facilitate the performance of watershed restoration and protection services under subsection (a). The services to be performed by a State Forester may be conducted with subcontracts utilizing State contract procedures. Subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 ([16 U.S.C. 472a](./chapter-002-national-forests.md#section-472a)) shall not apply to services performed under a cooperative agreement or contract under subsection (a). “(c) Retention of NEPA Responsibilities.—With respect to any watershed restoration and protection services on National Forest System lands proposed for performance by a State Forester under subsection (a), any decision required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) may not be delegated to the State Forester or any other officer or employee of the State. “(d) Inclusion of BLM Lands.—The authority provided by this section shall also be available to the Secretary of the Interior with respect to public lands in a State administered by the Secretary through the Bureau of Land Management. “(e) Expiration of Authority.—The authority of the Secretary of Agriculture and the Secretary of the Interior to enter into cooperative agreements and contracts under this section expires September 30, 2018, and the term of any cooperative agreement or contract entered into under this section shall not extend beyond that date.”
+Pub. L. 106–291, title III, § 331, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 108–447, div. E, title III, § 336, Dec. 8, 2004, 118 Stat. 3102; Pub. L. 111–88, div. A, title IV, § 422, Oct. 30, 2009, 123 Stat. 2961; Pub. L. 113–76, div. G, title IV, § 417, Jan. 17, 2014, 128 Stat. 341, authorized the Secretary of Agriculture and the Secretary of the Interior, through Sept. 30, 2018, to use cooperative agreements and contracts to permit State forestry programs to perform watershed restoration and protection services on National Forest System and Bureau of Land Management lands when similar and complementary services were being performed on adjacent State or private lands.
 
 #### Watershed Agreements
 Pub. L. 105–277, div. A, § 101(e) [title III, § 323], Oct. 21, 1998, 112 Stat. 2681–231, 2681–290, as amended, formerly set out as a note under this section, was transferred and is classified to [section 1011a of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1011a).
@@ -597,7 +609,7 @@ Pub. L. 105–83, title III, § 334, Nov. 14, 1997, 111 Stat. 1601.
 
   (D) $75,000,000 for fiscal year 2006; and
 
-  (E) $85,000,000 for each of fiscal years 2008 through 2018.
+  (E) $85,000,000 for each of fiscal years 2008 through 2023.
 
 **(i) Assessment of rehabilitation needs** The Secretary, in concert with the responsible State agencies, shall conduct an assessment of the rehabilitation needs of covered water resource projects in all States in which such projects are located.
 
@@ -620,6 +632,8 @@ The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (h)(2)(E). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (h)(1)(H). Pub. L. 113–79, § 2505(a), added subpar. (H).
 
 Subsec. (h)(2)(E). Pub. L. 113–79, § 2505(b), substituted “2018” for “2012”.
@@ -642,3 +656,9 @@ Subsec. (h)(2)(E). Pub. L. 110–246, § 2803(b), substituted “each of fiscal 
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-1012a"></a>
+## § 1012a. Funding
+
+In addition to any other funds made available by this chapter, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this chapter $50,000,000 for fiscal year 2019 and each fiscal year thereafter.

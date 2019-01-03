@@ -12,7 +12,7 @@ source: >-
 
 **(b) Excessive credits**
 
-(1) **In general** — If the amount allowable as credits under subpart C of part IV of subchapter A of chapter 1 (relating to refundable credits) exceeds the tax imposed by subtitle A (reduced by the credits allowable under subparts A, B, D, G, H, I, and J of such part IV), the amount of such excess shall be considered an overpayment.
+(1) **In general** — If the amount allowable as credits under subpart C of part IV of subchapter A of chapter 1 (relating to refundable credits) exceeds the tax imposed by subtitle A (reduced by the credits allowable under subparts A, B, D, and G of such part IV), the amount of such excess shall be considered an overpayment.
 
 (2) **Special rule for credit under section 33** — For purposes of paragraph (1), any credit allowed under section 33 (relating to withholding of tax on nonresident aliens and on foreign corporations) for any taxable year shall be treated as a credit allowable under subpart C of part IV of subchapter A of chapter 1 only if an election under subsection (g) or (h) of section 6013 is in effect for such taxable year. The preceding sentence shall not apply to any credit so allowed by reason of section 1446.
 
@@ -24,6 +24,8 @@ source: >-
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2017—Subsec. (b)(1). Pub. L. 115–97 substituted “and G” for “G, H, I, and J”.
+
 2009—Subsec. (b)(1). Pub. L. 111–5 substituted “I, and J” for “and I”.
 
 2008—Subsec. (b)(1). Pub. L. 110–246, § 15316(c)(3), substituted “H, and I” for “and H”.
@@ -62,16 +64,19 @@ Subsec. (d). Pub. L. 95–618 added subsec. (d).
 
 1965—Subsec. (b). Pub. L. 89–44 substituted “Excessive credits under sections 31 and 39” for “Excessive withholding” in heading and expanded text to include credits under section 39.
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as an Effective Date of Repeal note under former [section 54 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54).
+
 #### Effective Date of 2009 Amendment
-Amendment by Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under [section 54 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54).
+Amendment by Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under [section 6211 of this title](./chapter-063-assessment.md#section-6211).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
-Amendment by section 15316(c)(3) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under [section 54 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54).
+Amendment by section 15316(c)(3) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under [section 6049 of this title](./chapter-061-information-and-returns.md#section-6049).
 
 #### Effective Date of 2005 Amendment
-Amendment by Pub. L. 109–58 applicable to taxable years beginning after Dec. 31, 2005, see section 1303(e) of Pub. L. 109–58, as amended, set out as an Effective Date note under [section 54 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54).
+Amendment by Pub. L. 109–58 applicable to taxable years beginning after Dec. 31, 2005, see section 1303(e) of Pub. L. 109–58, set out as a note under [section 6049 of this title](./chapter-061-information-and-returns.md#section-6049).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title VI, § 6022(b), July 22, 1998, 112 Stat. 824, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendments made by section 701(b) of the Tax Reform Act of 1986 [Pub. L. 99–514].”
@@ -113,11 +118,11 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
 <a id="section-6402"></a>
 ## § 6402. Authority to make credits or refunds
-**(a) General rule** In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c), (d), (e), and (f) 11 So in original. Probably should be followed by a comma. refund any balance to such person.
+**(a) General rule** In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c), (d), (e), and (f), refund any balance to such person.
 
 **(b) Credits against estimated tax** The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year of the amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
 
-**(c) Offset of past-due support against overpayments** The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of of 22 So in original. such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax.
+**(c) Offset of past-due support against overpayments** The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax.
 
 **(d) Collection of debts owed to Federal agencies**
 
@@ -129,7 +134,7 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
   (C) notify the person making such overpayment that such overpayment has been reduced by an amount necessary to satisfy such debt.
 
-(2) **Priorities for offset** — Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) 33 See References in Text note below. of the Social Security Act and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
+(2) **Priorities for offset** — Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 408(a)(3) of the Social Security Act ([42 U.S.C. 608(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section608/a/3&num=0&edition=prelim)) and before such overpayment is reduced pursuant to subsections (e) and (f) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
 
 (3) **Treatment of OASDI overpayments**
 
@@ -273,9 +278,15 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 464, and 471(a)(17) of the Act are classified to sections 404, 664, and 671(a)(17) of Title 42. Section 402 of the Act, which was classified to [section 602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602&num=0&edition=prelim), was repealed and a new section 402 enacted by Pub. L. 104–193, title I, § 103(a)(1), Aug. 22, 1996, 110 Stat. 2112. As so enacted section 402 does not contain a subsec. (a)(26). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (c), (d)(3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204 and 464 of the Act are classified to sections 404 and 664, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141, § 401(a)(285), substituted “(f), refund” for “(f) refund”.
+
+Subsec. (c). Pub. L. 115–141, § 401(a)(286), substituted “of such Act” for “of of such Act”.
+
+Subsec. (d)(2). Pub. L. 115–141, § 401(a)(287), substituted “section 408(a)(3) of the Social Security Act ([42 U.S.C. 608(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section608/a/3&num=0&edition=prelim))” for “section 402(a)(26) of the Social Security Act”.
+
 2015—Subsec. (m). Pub. L. 114–113 added subsec. (m).
 
 2010—Subsec. (f). Pub. L. 111–291, § 801(a)(1), struck out “resulting from fraud” after “debts” in heading.
@@ -498,7 +509,7 @@ In the case of a tax payable in installments, if the taxpayer has paid as an ins
 
   (D) any interest, penalty, addition to tax, or additional amount with respect to any gross misstatement;
 
-  (E) any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(2)(A) 11 See References in Text note below. is not met and any listed transaction (as defined in 6707A(c)); or
+  (E) any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(3)(A) is not met and any listed transaction (as defined in 6707A(c)); or
 
   (F) any criminal penalty.
 
@@ -532,10 +543,9 @@ In the case of a tax payable in installments, if the taxpayer has paid as an ins
 
 ### Statutory Notes
 
-#### References in Text
-Section 6664(d)(2)(A), referred to in subsec. (g)(2)(E), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, § 1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
-
 #### Amendments
+2018—Subsec. (g)(2)(E). Pub. L. 115–141 substituted “section 6664(d)(3)(A)” for “section 6664(d)(2)(A)”.
+
 2015—Subsec. (h). Pub. L. 114–113, § 421(a)(1), substituted “Judicial review” for “Review of denial” in heading.
 
 Subsec. (h)(1). Pub. L. 114–113, § 421(a)(2), substituted “if such action is brought—” and subpars. (A) and (B) for “if such action is brought within 180 days after the date of the mailing of the Secretary’s final determination not to abate such interest.”
@@ -2029,7 +2039,7 @@ For provisions that nothing in repeal by Pub. L. 101–508 be construed to affec
 
 (3) For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).
 
-(4) For treatment of an Indian tribal government as a State and 11 So in original. Probably should be “(and”. a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+(4) For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
 
 ### Statutory Notes
 
@@ -2037,6 +2047,8 @@ For provisions that nothing in repeal by Pub. L. 101–508 be construed to affec
 A prior section 6420 was renumbered [section 6422 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6422).
 
 #### Amendments
+2018—Subsec. (i)(4). Pub. L. 115–141 substituted “State (and” for “State and”.
+
 2005—Subsec. (c)(4). Pub. L. 109–59, § 11121(b), inserted concluding provisions.
 
 Subsec. (c)(4)(B). Pub. L. 109–59, § 11121(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if—
@@ -2159,7 +2171,7 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 (2) **Limitation in case of nonscheduled intercity or local buses** — Paragraph (1)(A) shall not apply in respect of gasoline used in any automobile bus while engaged in furnishing transportation which is not scheduled and not along regular routes unless the seating capacity of such bus is at least 20 adults (not including the driver).
 
-**(c) Exempt purposes** If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) 11 So in original. Probably should be followed by a comma. (5), or (6) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
+**(c) Exempt purposes** If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4), (5), or (6) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
 
 **(d) Time for filing claims; period covered**
 
@@ -2249,7 +2261,7 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 (2) For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).
 
-(3) For treatment of an Indian tribal government as a State and 22 So in original. Probably should be “(and”. a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+(3) For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
 
 ### Statutory Notes
 
@@ -2257,6 +2269,10 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 A prior section 6421 was renumbered [section 6422 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6422).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–141, § 401(a)(290), substituted “(4), (5)” for “(4) (5)”.
+
+Subsec. (j)(3). Pub. L. 115–141, § 401(a)(291), substituted “State (and” for “State and”.
+
 2006—Subsec. (c). Pub. L. 109–280, which directed the substitution of “(5), or (6)” for “or (5)” in section 6421(c), without specifying the act to be amended, was executed by making the substitution in subsec. (c) of this section, which is section 6421 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 2005—Subsec. (f)(2)(A). Pub. L. 109–59, § 11151(b)(3)(A), substituted “aviation which is not commercial aviation (as defined in section 4083(b))” for “noncommercial aviation (as defined in section 4041(c)(2))”.
@@ -2561,27 +2577,22 @@ Amendment by act July 25, 1956, applicable to amounts paid on or after first day
 
 (6) For abatement, credit, or refund in case of jeopardy assessments, see chapter 70.
 
-(7) For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).11 See References in Text note below.
+(7) For restrictions on transfers and assignments of claims against the United States, see [section 3727 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3727&num=0&edition=prelim), United States Code.
 
-(8) For restrictions on transfers and assignments of claims against the United States, see [section 3727 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3727&num=0&edition=prelim), United States Code.
+(8) For set-off of claims against amounts due the United States, see [section 3728 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3728&num=0&edition=prelim), United States Code.
 
-(9) For set-off of claims against amounts due the United States, see [section 3728 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3728&num=0&edition=prelim), United States Code.
+(9) For special provisions relating to alcohol and tobacco taxes, see subtitle E.
 
-(10) For special provisions relating to alcohol and tobacco taxes, see subtitle E.
-
-(11) for 22 So in original. Probably should be capitalized. credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.
-
-(12) For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.
+(10) For credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 114–74, title XI, § 1101(f)(2), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (12). See 2015 Amendment note below.
 
 #### References in Text
 Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), is section 9 of act Mar. 8, 1946, ch. 82, 60 Stat. 46, which was repealed by Pub. L. 94–412, title V, § 501(g), Sept. 14, 1976, 90 Stat. 1258.
 
 #### Amendments
+2018—Pars. (7) to (12). Pub. L. 115–141 redesignated pars. (8) to (12) as (7) to (11), respectively, substituted “For credit” for “for credit” in par. (10), and struck out former par. (7) which read as follows: “For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).”
+
 2015—Par. (12). Pub. L. 114–74 struck out par. (12) which read as follows: “For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.”
 
 1997—Pars. (5) to (13). Pub. L. 105–34 struck out par. (5) and redesignated pars. (6) to (13) as (5) to (12), respectively. Prior to amendment, par. (5) read as follows: “For abatement or refund of tax on transfers to avoid income tax, see section 1494(b).”
@@ -2615,10 +2626,10 @@ Par. (14). Pub. L. 94–455, § 1601(f)(1), added par. (14).
 1958—Pub. L. 85–859 substituted “subtitle E” for “sections 5011, 5044, 5057, 5063, 5705, and 5707” in par. (14).
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in [section 860(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section860/e&num=0&edition=prelim)) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under [section 860 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-860).
@@ -2735,11 +2746,11 @@ Repeal applicable with respect to articles sold after Jan. 6, 1983, see section 
 
 (1) The term “income tax liability” means the excess of—
 
-  (A) The 11 So in original. Probably should not be capitalized. sum of—
+  (A) the sum of—
 
-    (i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable, plus
+    (i) the tax imposed by section 11, or subchapter L of chapter 1, whichever is applicable, plus
 
-    (ii) the tax imposed by section 55, over
+    (ii) the tax imposed by section 59A, over
 
   (B) the credits against tax provided by part IV of subchapter A of chapter 1.
 
@@ -2754,6 +2765,18 @@ Repeal applicable with respect to articles sold after Jan. 6, 1983, see section 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(1)(A). Pub. L. 115–141, which directed amendment of subpar. (A) by substituting “the sum” for “The sum”, could not be executed because “The sum” no longer appeared after the amendments made by Pub. L. 115–97. See 2017 Amendment notes below.
+
+2017—Subsec. (c)(1)(A). Pub. L. 115–97, § 14401(d)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the tax imposed by section 11 or subchapter L of chapter 1, whichever is applicable, over”.
+
+Pub. L. 115–97, § 13001(b)(2)(P), struck out “or 1201(a),” after “by section 11”.
+
+Pub. L. 115–97, § 12001(b)(17), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The sum of—
+
+“(i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable, plus
+
+“(ii) the tax imposed by section 55, over”.
+
 2015—Subsec. (a)(1). Pub. L. 114–41 substituted “fourth month” for “third month”.
 
 2014—Subsec. (c)(1)(A). Pub. L. 113–295 inserted “plus” at end of cl. (i), substituted “over” for “plus” at end of cl. (ii), and struck out cl. (iii) which read as follows: “the tax imposed by section 59A, over”.
@@ -2765,6 +2788,13 @@ Repeal applicable with respect to articles sold after Jan. 6, 1983, see section 
 Pub. L. 99–499 amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out “plus” at end of cl. (i), substituting “plus” for “over” at end of cl. (ii), and adding cl. (iii).
 
 1976—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2017 Amendment
+Amendment by section 12001(b)(17) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
+
+Amendment by section 13001(b)(2)(P) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
+
+Amendment by section 14401(d)(3) of Pub. L. 115–97 applicable to base erosion payments (as defined in [section 59A(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section59A/d&num=0&edition=prelim)) paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as a note under [section 26 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-26).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–41 applicable to returns for taxable years beginning after Dec. 31, 2015, with special rule for certain C corporations, see section 2006(a)(3) of Pub. L. 114–41, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
@@ -2806,7 +2836,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
     (i) in the case of calendar years beginning before 2009, 51 cents, and
 
-    (ii) in the case of calendar years beginning after 2008, 45 cents..11 So in original.
+    (ii) in the case of calendar years beginning after 2008, 45 cents.
 
   (B) *Mixtures not containing ethanol* — In the case of an alcohol fuel mixture in which none of the alcohol consists of ethanol, the applicable amount is 60 cents.
 
@@ -2850,7 +2880,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
 (5) **Other definitions** — Any term used in this subsection which is also used in section 40A shall have the meaning given such term by section 40A.
 
-(6) **Termination** — This subsection shall not apply to any sale, use, or removal for any period after December 31, 2016.
+(6) **Termination** — This subsection shall not apply to any sale, use, or removal for any period after December 31, 2017.
 
 **(d) Alternative fuel credit**
 
@@ -2885,7 +2915,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
     (ii) 75 percent in the case of fuel produced after December 30, 2009.
 
-(5) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2016.
+(5) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2017.
 
 **(e) Alternative fuel mixture credit**
 
@@ -2897,7 +2927,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
   (B) is used as a fuel by the taxpayer producing such mixture.
 
-(3) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2016.
+(3) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2017.
 
 **(f) Mixture not used as a fuel, etc.**
 
@@ -2940,6 +2970,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 6426, added Pub. L. 91–258, title II, § 206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, § 280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+2018—Subsec. (b)(2)(A)(ii). Pub. L. 115–141 substituted “cents.” for “cents..”
+
+Subsec. (c)(6). Pub. L. 115–123, § 40407(b)(1), substituted “December 31, 2017” for “December 31, 2016”.
+
+Subsecs. (d)(5), (e)(3). Pub. L. 115–123, § 40415(a)(1), substituted “December 31, 2017” for “December 31, 2016”.
+
 2015—Subsec. (c)(6). Pub. L. 114–113, § 185(b)(1), substituted “December 31, 2016” for “December 31, 2014”.
 
 Subsecs. (d)(5), (e)(3). Pub. L. 114–113, § 192(a)(1), substituted “December 31, 2016” for “December 31, 2014”.
@@ -3016,6 +3052,11 @@ Subsec. (d)(2)(F). Pub. L. 109–59, § 11151(e)(2), substituted “section 45K(
 
 Subsecs. (e) to (g). Pub. L. 109–59, § 11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
+#### Effective date of 2018 Amendment
+Pub. L. 115–123, div. D, title I, § 40407(b)(3), Feb. 9, 2018, 132 Stat. 149, provided that: “The amendments made by this subsection [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2016.”
+
+Pub. L. 115–123, div. D, title I, § 40415(a)(3), Feb. 9, 2018, 132 Stat. 152, provided that: “The amendments made by this subsection [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2016.”
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title I, § 185(b)(3), Dec. 18, 2015, 129 Stat. 3073, provided that: “The amendments made by this subsection [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2014.”
 
@@ -3061,6 +3102,11 @@ Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in
 
 #### Effective Date
 Section applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under [section 40 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40).
+
+#### Special Rules for 2017
+Pub. L. 115–123, div. D, title I, § 40407(b)(4), Feb. 9, 2018, 132 Stat. 149, provided that: “Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2017, and ending on December 31, 2017, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act [Feb. 9, 2018] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
+
+Pub. L. 115–123, div. D, title I, § 40415(b), Feb. 9, 2018, 132 Stat. 152, provided that: “Notwithstanding any other provision of law, in the case of any alternative fuel credit properly determined under section 6426(d) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2017, and ending on December 31, 2017, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act [Feb. 9, 2018] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
 
 #### Special Rules for 2015
 Pub. L. 114–113, div. Q, title I, § 185(b)(4), Dec. 18, 2015, 129 Stat. 3073, provided that: “Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2015, and ending on December 31, 2015, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act [Dec. 18, 2015] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
@@ -3145,9 +3191,9 @@ is used by an aircraft museum (as defined in section 4041(h)(2)) in an aircraft 
 
   (A) any alcohol fuel mixture (as defined in section 6426(b)(3)) sold or used after December 31, 2011,
 
-  (B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2016,
+  (B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2017,
 
-  (C) any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2016, and
+  (C) any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2017, and
 
   (D) any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after December 31, 2011.
 
@@ -3313,6 +3359,10 @@ Section 4081(c), referred to in subsec. (f)(1), was repealed by Pub. L. 108–35
 Section 4091, referred to in subsec. (f)(1), (2)(A)(ii), (B)(ii), was repealed by Pub. L. 108–357, title VIII, § 853(d)(1), Oct. 22, 2004, 118 Stat. 1612.
 
 #### Amendments
+2018—Subsec. (e)(6)(B). Pub. L. 115–123, § 40407(b)(2), substituted “December 31, 2017” for “December 31, 2016”.
+
+Subsec. (e)(6)(C). Pub. L. 115–123, § 40415(a)(2), substituted “December 31, 2017” for “December 31, 2016”.
+
 2015—Subsec. (e)(6)(B). Pub. L. 114–113, § 185(b)(2), substituted “December 31, 2016” for “December 31, 2014”.
 
 Subsec. (e)(6)(C). Pub. L. 114–113, § 192(a)(2), substituted “December 31, 2016” for “December 31, 2014”.
@@ -3961,6 +4011,11 @@ Subsecs. (h), (i). Pub. L. 94–530, § 1(b), redesignated former subsecs. (g) a
 
 Subsec. (h). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2018 Amendment
+Amendment by section 40407(b)(2) of Pub. L. 115–123 applicable to fuel sold or used after Dec. 31, 2016, see section 40407(b)(3) of Pub. L. 115–123, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
+
+Amendment by section 40415(a)(2) of Pub. L. 115–123 applicable to fuel sold or used after Dec. 31, 2016, see section 40415(a)(3) of Pub. L. 115–123, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
+
 #### Effective Date of 2015 Amendment
 Amendment by section 185(b)(2) of Pub. L. 114–113 applicable to fuel sold or used after Dec. 31, 2014, see section 185(b)(3) of Pub. L. 114–113, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
 
@@ -4205,167 +4260,25 @@ Pub. L. 110–172, § 6(d)(1)(C), Dec. 29, 2007, 121 Stat. 2480, provided that: 
 
 
 <a id="section-6431"></a>
-## § 6431. Credit for qualified bonds allowed to issuer
-**(a) In general** In the case of a qualified bond issued before January 1, 2011, the issuer of such bond shall be allowed a credit with respect to each interest payment under such bond which shall be payable by the Secretary as provided in subsection (b).
-
-**(b) Payment of credit** The Secretary shall pay (contemporaneously with each interest payment date under such bond) to the issuer of such bond (or to any person who makes such interest payments on behalf of the issuer) 35 percent of the interest payable under such bond on such date.
-
-**(c) Application of arbitrage rules** For purposes of section 148, the yield on a qualified bond shall be reduced by the credit allowed under this section.
-
-**(d) Interest payment date** For purposes of this subsection, the term “interest payment date” means each date on which interest is payable by the issuer under the terms of the bond.
-
-**(e) Qualified bond** For purposes of this subsection, the term “qualified bond” has the meaning given such term in section 54AA(g).
-
-**(f) Application of section to certain qualified tax credit bonds**
-
-(1) **In general** — In the case of any specified tax credit bond—
-
-  (A) such bond shall be treated as a qualified bond for purposes of this section,
-
-  (B) subsection (a) shall be applied without regard to the requirement that the qualified bond be issued before January 1, 2011,
-
-  (C) the amount of the payment determined under subsection (b) with respect to any interest payment due under such bond shall be equal to the lesser of—
-
-    (i) the amount of interest payable under such bond on such date, or
-
-    (ii) the amount of interest which would have been payable under such bond on such date if such interest were determined at the applicable credit rate determined under section 54A(b)(3),
-
-  (D) interest on any such bond shall be includible in gross income for purposes of this title,
-
-  (E) no credit shall be allowed under section 54A with respect to such bond,
-
-  (F) any payment made under subsection (b) shall not be includible as income for purposes of this title, and
-
-  (G) the deduction otherwise allowed under this title to the issuer of such bond with respect to interest paid under such bond shall be reduced by the amount of the payment made under this section with respect to such interest.
-
-(2) **Special rule for new clean renewable energy bonds and qualified energy conservation bonds** — In the case of any specified tax credit bond described in clause (i) or (ii) of paragraph (3)(A), the amount determined under paragraph (1)(C)(ii) shall be 70 percent of the amount so determined without regard to this paragraph and sections 54C(b) and 54D(b).
-
-(3) **Specified tax credit bond** — For purposes of this subsection, the term “specified tax credit bond” means any qualified tax credit bond (as defined in section 54A(d)) if—
-
-  (A) such bond is—
-
-    (i) a new clean renewable energy bond (as defined in section 54C),
-
-    (ii) a qualified energy conservation bond (as defined in section 54D),
-
-    (iii) a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for years after 2010 or any carryforward of any such allocation, or
-
-    (iv) a qualified school construction bond (as defined in section 54F), and
-
-  (B) the issuer of such bond makes an irrevocable election to have this subsection apply.
+## § 6431. Repealed. Pub. L. 115–97, title I, § 13404(b), Dec. 22, 2017, 131 Stat. 2138]
 
 ### Statutory Notes
 
-#### Amendments
-2014—Subsec. (f)(3)(A)(iii). Pub. L. 113–295 substituted “years after 2010” for “2011” and “of any such allocation” for “of such allocation”.
+Section, added Pub. L. 111–5, div. B, title I, § 1531(b), Feb. 17, 2009, 123 Stat. 359; amended Pub. L. 111–147, title III, § 301(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–312, title VII, § 758(b), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 113–295, div. A, title II, § 202(d), Dec. 19, 2014, 128 Stat. 4024, related to credit for qualified bonds allowed to issuer.
 
-2010—Subsec. (f). Pub. L. 111–147 added subsec. (f).
-
-Subsec. (f)(3)(A)(iii). Pub. L. 111–312 inserted “determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation” after “54E)”.
-
-#### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–295 effective as if included in the provision of the American Taxpayer Relief Act of 2012, Pub. L. 112–240, to which such amendment relates, see section 202(f) of Pub. L. 113–295, set out as a note under [section 55 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-55).
-
-#### Effective Date of 2010 Amendment
-Amendment by Pub. L. 111–312 applicable to obligations issued after Dec. 31, 2010, see section 758(c) of Pub. L. 111–312, set out as a note under [section 54E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54e).
-
-Pub. L. 111–147, title III, § 301(c)(1), Mar. 18, 2010, 124 Stat. 78, provided that: “The amendment made by subsection (a) [amending this section] shall apply to bonds issued after the date of the enactment of this Act [Mar. 18, 2010].”
-
-#### Effective Date
-Section applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as an Effective Date of 2009 Amendment note under [section 54 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54).
+#### Effective Date of Repeal
+Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under former [section 54 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54).
 
 
 <a id="section-6432"></a>
-## § 6432. COBRA premium assistance
-**(a) In general** The person to whom premiums are payable under COBRA continuation coverage shall be reimbursed as provided in subsection (c) for the amount of premiums not paid by assistance eligible individuals by reason of section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009.
-
-**(b) Person entitled to reimbursement** For purposes of subsection (a), except as otherwise provided by the Secretary, the person to whom premiums are payable under COBRA continuation coverage shall be treated as being—
-
-(1) in the case of any group health plan which is a multiemployer plan (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974), the plan,
-
-(2) in the case of any group health plan not described in paragraph (1)—
-
-  (A) which is subject to the COBRA continuation provisions contained in—
-
-    (i) the Internal Revenue Code of 1986,
-
-    (ii) the Employee Retirement Income Security Act of 1974,
-
-    (iii) the Public Health Service Act, or
-
-    (iv) title 5, United States Code, or
-
-  (B) under which some or all of the coverage is not provided by insurance,
-  the employer maintaining the plan, and
-
-(3) in the case of any group health plan not described in paragraph (1) or (2), the insurer providing the coverage under the group health plan.
-
-**(c) Method of reimbursement** Except as otherwise provided by the Secretary—
-
-(1) **Treatment as payment of payroll taxes** — Each person entitled to reimbursement under subsection (a) (and filing a claim for such reimbursement at such time and in such manner as the Secretary may require) shall be treated for purposes of this title and [section 1324(b)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324/b/2&num=0&edition=prelim), United States Code, as having paid to the Secretary, on the date that the assistance eligible individual’s premium payment is received, payroll taxes in an amount equal to the portion of such reimbursement which relates to such premium. To the extent that the amount treated as paid under the preceding sentence exceeds the amount of such person’s liability for such taxes, the Secretary shall credit or refund such excess in the same manner as if it were an overpayment of such taxes.
-
-(2) **Overstatements** — Any overstatement of the reimbursement to which a person is entitled under this section (and any amount paid by the Secretary as a result of such overstatement) shall be treated as an underpayment of payroll taxes by such person and may be assessed and collected by the Secretary in the same manner as payroll taxes.
-
-(3) **Reimbursement contingent on payment of remaining premium** — No reimbursement may be made under this section to a person with respect to any assistance eligible individual until after the reduced premium required under section 3001(a)(1)(A) of title III of division B of the American Recovery and Reinvestment Act of 2009 with respect to such individual has been received.
-
-**(d) Definitions** For purposes of this section—
-
-(1) **Payroll taxes** — The term “payroll taxes” means—
-
-  (A) amounts required to be deducted and withheld for the payroll period under section 3402 (relating to wage withholding),
-
-  (B) amounts required to be deducted for the payroll period under section 3102 (relating to FICA employee taxes), and
-
-  (C) amounts of the taxes imposed for the payroll period under section 3111 (relating to FICA employer taxes).
-
-(2) **Person** — The term “person” includes any governmental entity.
-
-**(e) Employer determination of qualifying event as involuntary termination** For purposes of this section, in any case in which—
-
-(1) based on a reasonable interpretation of section 3001(a)(3)(C) of division B of the American Recovery and Reinvestment Act of 2009 and administrative guidance thereunder, an employer determines that the qualifying event with respect to COBRA continuation coverage for an individual was involuntary termination of a covered employee’s employment, and
-
-(2) the employer maintains supporting documentation of the determination, including an attestation by the employer of involuntary termination with respect to the covered employee,
-the qualifying event for the individual shall be deemed to be involuntary termination of the covered employee’s employment.
-
-**(f) Reporting** Each person entitled to reimbursement under subsection (a) for any period shall submit such reports (at such time and in such manner) as the Secretary may require, including—
-
-(1) an attestation of involuntary termination of employment for each covered employee on the basis of whose termination entitlement to reimbursement is claimed under subsection (a),
-
-(2) a report of the amount of payroll taxes offset under subsection (a) for the reporting period and the estimated offsets of such taxes for the subsequent reporting period in connection with reimbursements under subsection (a), and
-
-(3) a report containing the TINs of all covered employees, the amount of subsidy reimbursed with respect to each covered employee and qualified beneficiaries, and a designation with respect to each covered employee as to whether the subsidy reimbursement is for coverage of 1 individual or 2 or more individuals.
-
-**(g) Regulations** The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out this section, including—
-
-(1) the requirement to report information or the establishment of other methods for verifying the correct amounts of reimbursements under this section, and
-
-(2) the application of this section to group health plans that are multiemployer plans (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974).
+## § 6432. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212]
 
 ### Statutory Notes
 
-#### References in Text
-The American Recovery and Reinvestment Act of 2009, referred to in subsecs. (a), (c)(3), and (e)(1), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. Section 3001(a) of title III of division B of the Act enacted this section and sections 139C and 6720C of this title, amended [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35), and enacted provisions set out a note below. Section 3001(a)(1)(A), (3)(C) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+Section, added Pub. L. 111–5, div. B, title III, § 3001(a)(12)(A), Feb. 17, 2009, 123 Stat. 461; amended Pub. L. 111–144, § 3(b)(5)(C), Mar. 2, 2010, 124 Stat. 45, related to COBRA premium assistance.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(1), (2)(A)(ii) and (g)(2), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to [section 1002(37) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
-
-The Public Health Service Act, referred to in subsec. (b)(2)(A)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
-
-#### Amendments
-2010—Subsec. (a). Pub. L. 111–144, § 3(b)(5)(C)(i), substituted “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”.
-
-Subsec. (c)(3). Pub. L. 111–144, § 3(b)(5)(C)(ii), substituted “section 3001(a)(1)(A) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a)(1)(A) of such Act”.
-
-Subsecs. (e) to (g). Pub. L. 111–144, § 3(b)(5)(C)(iii), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
-
-#### Effective Date of 2010 Amendment
-Pub. L. 111–144, § 3(c), Mar. 2, 2010, 124 Stat. 45, provided that: “The amendments made by this section [amending this section and sections 35, 139C, and 6720C of this title, and amending provisions set out as a note under this section] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 [Pub. L. 111–5, set out below] to which they relate, except that— “(1) the amendments made by subsection (b)(1) [amending provisions set out as a note under this section] shall apply to periods of coverage beginning after the date of the enactment of this Act [Mar. 2, 2010]; “(2) the amendments made by subsection (b)(2) [amending provisions set out as a note under this section] shall take effect as if included in the amendments made by section 1010 of division B of the Department of Defense Appropriations Act, 2010 [Pub. L. 111–118, amending provisions set out a note under this section]; and “(3) the amendments made by subsections (b)(3) and (b)(4) [amending provisions set out as a note under this section] shall take effect on the date of the enactment of this Act [Mar. 2, 2010].”
-
-#### Effective Date
-Section applicable to premiums to which section 3001(a)(1)(A) of Pub. L. 111–5, set out as a note below, applies, see section 3001(a)(12)(D) of Pub. L. 111–5, set out as a note below.
+#### Savings Provision
+For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 #### Premium Assistance for COBRA Benefits
-Pub. L. 111–5, div. B, title III, § 3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B, § 1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473; Pub. L. 111–144, § 3(a), (b)(1)–(4), Mar. 2, 2010, 124 Stat. 43, 44; Pub. L. 111–157, § 3(a), (b), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 113–295, div. A, title II, § 209(j)(3), Dec. 19, 2014, 128 Stat. 4031, provided that: “(a) Premium Assistance for COBRA Continuation Coverage for Individuals and Their Families.—“(1) Provision of premium assistance.—“(A) Reduction of premiums payable.—In the case of any premium for a period of coverage beginning on or after the date of the enactment of this Act [Feb. 17, 2009] for COBRA continuation coverage with respect to any assistance eligible individual, such individual shall be treated for purposes of any COBRA continuation provision as having paid the amount of such premium if such individual pays (or a person other than such individual’s employer pays on behalf of such individual) 35 percent of the amount of such premium (as determined without regard to this subsection). “(B) Plan enrollment option.—“(i) In general.—Notwithstanding the COBRA continuation provisions, an assistance eligible individual may, not later than 90 days after the date of notice of the plan enrollment option described in this subparagraph, elect to enroll in coverage under a plan offered by the employer involved, or the employee organization involved (including, for this purpose, a joint board of trustees of a multiemployer trust affiliated with one or more multiemployer plans), that is different than coverage under the plan in which such individual was enrolled at the time the qualifying event occurred, and such coverage shall be treated as COBRA continuation coverage for purposes of the applicable COBRA continuation coverage provision. “(ii) Requirements.—An assistance eligible individual may elect to enroll in different coverage as described in clause (i) only if— “(I) the employer involved has made a determination that such employer will permit assistance eligible individuals to enroll in different coverage as provided for this subparagraph; “(II) the premium for such different coverage does not exceed the premium for coverage in which the individual was enrolled at the time the qualifying event occurred; “(III) the different coverage in which the individual elects to enroll is coverage that is also offered to the active employees of the employer at the time at which such election is made; and “(IV) the different coverage is not—“(aa) coverage that provides only dental, vision, counseling, or referral services (or a combination of such services); “(bb) a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986); or “(cc) coverage that provides coverage for services or treatments furnished in an on-site medical facility maintained by the employer and that consists primarily of first-aid services, prevention and wellness care, or similar care (or a combination of such care). “(C) Premium reimbursement.—For provisions providing the balance of such premium, see section 6432 of the Internal Revenue Code of 1986, as added by paragraph (12). “(2) Limitation of period of premium assistance.—“(A) In general.—Paragraph (1)(A) shall not apply with respect to any assistance eligible individual for months of coverage beginning on or after the earlier of—“(i) the first date that such individual is eligible for coverage under any other group health plan (other than coverage consisting of only dental, vision, counseling, or referral services (or a combination thereof), coverage under a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986), or coverage of treatment that is furnished in an on-site medical facility maintained by the employer and that consists primarily of first-aid services, prevention and wellness care, or similar care (or a combination thereof)) or is eligible for benefits under title XVIII of the Social Security Act [[42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.], or “(ii) the earliest of— “(I) the date which is 15 months after the first day that paragraph (1)(A) applies with respect to such individual, “(II) the date following the expiration of the maximum period of continuation coverage required under the applicable COBRA continuation coverage provision, or “(III) the date following the expiration of the period of continuation coverage allowed under paragraph (4)(B)(ii). “(B) Timing of eligibility for additional coverage.—For purposes of subparagraph (A)(i), an individual shall not be treated as eligible for coverage under a group health plan before the first date on which such individual could be covered under such plan. “(C) Notification requirement.—An assistance eligible individual shall notify in writing the group health plan with respect to which paragraph (1)(A) applies if such paragraph ceases to apply by reason of subparagraph (A)(i). Such notice shall be provided to the group health plan in such time and manner as may be specified by the Secretary of Labor. “(3) Assistance eligible individual.—For purposes of this section, the term ‘assistance eligible individual’ means any qualified beneficiary if—“(A) such qualified beneficiary is eligible for COBRA continuation coverage related to a qualifying event occurring during the period that begins with September 1, 2008, and ends with May 31, 2010, “(B) such qualified beneficiary elects such coverage, and “(C) the qualifying event with respect to the COBRA continuation coverage consists of the involuntary termination of the covered employee’s employment and occurred during such period or consists of a reduction of hours followed by such an involuntary termination of employment during such period (as described in paragraph (17)(C)). “(4) Extension of election period and effect on coverage.—“(A) In general.—For purposes of applying section 605(a) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1165(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1165/a&num=0&edition=prelim)], section 4980B(f)(5)(A) of the Internal Revenue Code of 1986, section 2205(a) of the Public Health Service Act [[42 U.S.C. 300bb–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300bb–5/a&num=0&edition=prelim)], and [section 8905a(c)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8905a/c/2&num=0&edition=prelim), United States Code, in the case of an individual who does not have an election of COBRA continuation coverage in effect on the date of the enactment of this Act [Feb. 17, 2009] but who would be an assistance eligible individual if such election were so in effect, such individual may elect the COBRA continuation coverage under the COBRA continuation coverage provisions containing such sections during the period beginning on the date of the enactment of this Act and ending 60 days after the date on which the notification required under paragraph (7)(C) is provided to such individual. “(B) Commencement of coverage; no reach-back.—Any COBRA continuation coverage elected by a qualified beneficiary during an extended election period under subparagraph (A)—“(i) shall commence with the first period of coverage beginning on or after the date of the enactment of this Act [Feb. 17, 2009], and “(ii) shall not extend beyond the period of COBRA continuation coverage that would have been required under the applicable COBRA continuation coverage provision if the coverage had been elected as required under such provision. “(C) Preexisting conditions.—With respect to a qualified beneficiary who elects COBRA continuation coverage pursuant to subparagraph (A), the period—“(i) beginning on the date of the qualifying event, and “(ii) ending with the beginning of the period described in subparagraph (B)(i), shall be disregarded for purposes of determining the 63-day periods referred to in section 701(c)(2) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1181(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1181/c/2&num=0&edition=prelim)], section 9801(c)(2) of the Internal Revenue Code of 1986, and section 2701(c)(2) of the Public Health Service Act [former [42 U.S.C. 300gg(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg/c/2&num=0&edition=prelim); now [42 U.S.C. 300gg–3(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–3/c/2&num=0&edition=prelim)]. “(5) Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1161&num=0&edition=prelim) et seq.]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual’s eligibility within 15 business days after receipt of such individual’s application for review under this paragraph. Either Secretary’s determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary’s determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.] for purposes of part 5 of subtitle B of such title [[29 U.S.C. 1131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1131&num=0&edition=prelim) et seq.]. In addition to civil actions that may be brought to enforce applicable provisions of such Act [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penalty against a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor’s or issuer’s receipt of the determination. “(6) Disregard of subsidies for purposes of federal and state programs.—Notwithstanding any other provision of law, any premium reduction with respect to an assistance eligible individual under this subsection shall not be considered income or resources in determining eligibility for, or the amount of assistance or benefits provided under, any other public benefit provided under Federal law or the law of any State or political subdivision thereof. “(7) Notices to individuals.—“(A) General notice.—“(i) In general.—In the case of notices provided under section 606(a)(4) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1166](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1166&num=0&edition=prelim)[(a)](4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, section 2206(4) of the Public Health Service Act ([42 U.S.C. 300bb–6(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300bb–6/4&num=0&edition=prelim)), or [section 8905a(f)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8905a/f/2/A&num=0&edition=prelim), United States Code, with respect to individuals who, during the period described in paragraph (3)(A), have a qualifying event relating to COBRA continuation coverage, the requirements of such sections shall not be treated as met unless such notices include an additional notification to the recipient of— “(I) the availability of premium reduction with respect to such coverage under this subsection, and “(II) the option to enroll in different coverage if the employer permits assistance eligible individuals to elect enrollment in different coverage (as described in paragraph (1)(B)). “(ii) Alternative notice.—In the case of COBRA continuation coverage to which the notice provision under such sections does not apply, the Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall, in consultation with administrators of the group health plans (or other entities) that provide or administer the COBRA continuation coverage involved, provide rules requiring the provision of such notice. “(iii) Form.—The requirement of the additional notification under this subparagraph may be met by amendment of existing notice forms or by inclusion of a separate document with the notice otherwise required. “(B) Specific requirements.—Each additional notification under subparagraph (A) shall include—“(i) the forms necessary for establishing eligibility for premium reduction under this subsection, “(ii) the name, address, and telephone number necessary to contact the plan administrator and any other person maintaining relevant information in connection with such premium reduction, “(iii) a description of the extended election period provided for in paragraph (4)(A), “(iv) a description of the obligation of the qualified beneficiary under paragraph (2)(C) to notify the plan providing continuation coverage of eligibility for subsequent coverage under another group health plan or eligibility for benefits under title XVIII of the Social Security Act [[42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.] and the penalty provided under section 6720C of the Internal Revenue Code of 1986 for failure to so notify the plan, “(v) a description, displayed in a prominent manner, of the qualified beneficiary’s right to a reduced premium and any conditions on entitlement to the reduced premium, and “(vi) a description of the option of the qualified beneficiary to enroll in different coverage if the employer permits such beneficiary to elect to enroll in such different coverage under paragraph (1)(B). “(C) Notice in connection with extended election periods.—In the case of any assistance eligible individual (or any individual described in paragraph (4)(A)) who became entitled to elect COBRA continuation coverage before the date of the enactment of this Act [Feb. 17, 2009], the administrator of the group health plan (or other entity) involved shall provide (within 60 days after the date of enactment of this Act) for the additional notification required to be provided under subparagraph (A) and failure to provide such notice shall be treated as a failure to meet the notice requirements under the applicable COBRA continuation provision. “(D) Model notices.—Not later than 30 days after the date of enactment of this Act [Feb. 17, 2009]—“(i) the Secretary of the [sic] Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall prescribe models for the additional notification required under this paragraph (other than the additional notification described in clause (ii)), and “(ii) in the case of any additional notification provided pursuant to subparagraph (A) under [section 8905a(f)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8905a/f/2/A&num=0&edition=prelim), United States Code, the Office of Personnel Management shall prescribe a model for such additional notification. “(8) Regulations.—The Secretary of the Treasury may prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this subsection, including the prevention of fraud and abuse under this subsection, except that the Secretary of Labor and the Secretary of Health and Human Services may prescribe such regulations (including interim final regulations) or other guidance as may be necessary or appropriate to carry out the provisions of paragraphs (5), (7), and (9). “(9) Outreach.—The Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall provide outreach consisting of public education and enrollment assistance relating to premium reduction provided under this subsection. Such outreach shall target employers, group health plan administrators, public assistance programs, States, insurers, and other entities as determined appropriate by such Secretaries. Such outreach shall include an initial focus on those individuals electing continuation coverage who are referred to in paragraph (7)(C). Information on such premium reduction, including enrollment, shall also be made available on websites of the Departments of Labor, Treasury, and Health and Human Services. “(10) Definitions.—For purposes of this section—“(A) Administrator.—The term ‘administrator’ has the meaning given such term in section 3(16)(A) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1002(16)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/16/A&num=0&edition=prelim)]. “(B) COBRA continuation coverage.—The term ‘COBRA continuation coverage’ means continuation coverage provided pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1161&num=0&edition=prelim) et seq.] (other than under section 609 [[29 U.S.C. 1169](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1169&num=0&edition=prelim)]), title XXII of the Public Health Service Act [[42 U.S.C. 300bb–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300bb–1&num=0&edition=prelim) et seq.], section 4980B of the Internal Revenue Code of 1986 (other than subsection (f)(1) of such section insofar as it relates to pediatric vaccines), or [section 8905a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8905a&num=0&edition=prelim), United States Code, or under a State program that provides comparable continuation coverage. Such term does not include coverage under a health flexible spending arrangement under a cafeteria plan within the meaning of section 125 of the Internal Revenue Code of 1986. “(C) COBRA continuation provision.—The term ‘COBRA continuation provision’ means the provisions of law described in subparagraph (B). “(D) Covered employee.—The term ‘covered employee’ has the meaning given such term in section 607(2) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1167(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1167/2&num=0&edition=prelim)]. “(E) Qualified beneficiary.—The term ‘qualified beneficiary’ has the meaning given such term in section 607(3) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1167(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1167/3&num=0&edition=prelim)]. “(F) Group health plan.—The term ‘group health plan’ has the meaning given such term in section 607(1) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1167(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1167/1&num=0&edition=prelim)]. “(G) State.—The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. “(H) Period of coverage.—Any reference in this subsection to a period of coverage shall be treated as a reference to a monthly or shorter period of coverage with respect to which premiums are charged with respect to such coverage. “(11) Reports.—“(A) Interim report.—The Secretary of the Treasury shall submit an interim report to the Committee on Education and Labor [now Committee on Education and the Workforce], the Committee on Ways and Means, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate regarding the premium reduction provided under this subsection that includes—“(i) the number of individuals provided such assistance as of the date of the report; and “(ii) the total amount of expenditures incurred (with administrative expenditures noted separately) in connection with such assistance as of the date of the report. “(B) Final report.—As soon as practicable after the last period of COBRA continuation coverage for which premium reduction is provided under this section, the Secretary of the Treasury shall submit a final report to each Committee referred to in subparagraph (A) that includes—“(i) the number of individuals provided premium reduction under this section; “(ii) the average dollar amount (monthly and annually) of premium reductions provided to such individuals; and “(iii) the total amount of expenditures incurred (with administrative expenditures noted separately) in connection with premium reduction under this section. “(12) COBRA premium assistance.—“(A) In general.—[Enacted this section.] “(B) Social security trust funds held harmless.—In determining any amount transferred or appropriated to any fund under the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.], section 6432 of the Internal Revenue Code of 1986 shall not be taken into account. “(C) Clerical amendment.—[Amended analysis of this subchapter.] “(D) Effective date.—The amendments made by this paragraph shall apply to premiums to which subsection (a)(1)(A) applies. “(E) Special rule.—“(i) In general.—In the case of an assistance eligible individual who pays, with respect to the first period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall— “(I) make a reimbursement payment to such individual for the amount of such premium paid in excess of the amount required to be paid under subsection (a)(1)(A); or “(II) provide credit to the individual for such amount in a manner that reduces one or more subsequent premium payments that the individual is required to pay under such subsection for the coverage involved. “(ii) Reimbursing employer.—A person to which clause (i) applies shall be reimbursed as provided for in section 6432 of the Internal Revenue Code of 1986 for any payment made, or credit provided, to the employee under such clause. “(iii) Payment or credits.—Unless it is reasonable to believe that the credit for the excess payment in clause (i)(II) will be used by the assistance eligible individual within 180 days of the date on which the person receives from the individual the payment of the full premium amount, a person to which clause (i) applies shall make the payment required under such clause to the individual within 60 days of such payment of the full premium amount. If, as of any day within the 180-day period, it is no longer reasonable to believe that the credit will be used during that period, payment equal to the remainder of the credit outstanding shall be made to the individual within 60 days of such day. “(13) Penalty for failure to notify health plan of cessation of eligibility for premium assistance.—“(A) In general.—[Enacted [section 6720C of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6720c).] “(B) Clerical amendment.—[Amended analysis of part I of subchapter B of chapter 68 of this title.] “(C) Effective date.—The amendments made by this paragraph shall apply to failures occurring after the date of the enactment of this Act [Feb. 17, 2009]. “(14) Coordination with hctc.—“(A) In general.—[Amended [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).] “(B) Effective date.—The amendment made by subparagraph (A) shall apply to taxable years ending after the date of the enactment of this Act [Feb. 17, 2009]. “(15) Exclusion of cobra premium assistance from gross income.—“(A) In general.—[Enacted [section 139C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-139c).] “(B) Clerical amendment.—[Amended analysis of part III of subchapter B of chapter 1 of this title.] “(C) Effective date.—The amendments made by this paragraph shall apply to taxable years ending after the date of the enactment of this Act [Feb. 17, 2009]. “(16) Rules related to 2009 extension.—“(A) Election to pay premiums retroactively and maintain cobra coverage.—In the case of any premium for a period of coverage during an assistance eligible individual’s transition period, such individual shall be treated for purposes of any COBRA continuation provision as having timely paid the amount of such premium if—“(i) such individual was covered under the COBRA continuation coverage to which such premium relates for the period of coverage immediately preceding such transition period, and “(ii) such individual pays, the amount of such premium, after the application of paragraph (1)(A), by the latest of— “(I) 60 days after the date of the enactment of this paragraph [Dec. 19, 2009], “(II) 30 days after the date of provision of the notification required under subparagraph (D)(ii), or “(III) the end of the period described in section 4980B(f)(2)(B)(iii) of the Internal Revenue Code of 1986. “(B) Refunds and credits for retroactive premium assistance eligibility.—In the case of an assistance eligible individual who pays, with respect to any period of COBRA continuation coverage during such individual’s transition period, the premium amount for such coverage without regard to paragraph (1)(A), rules similar to the rules of paragraph (12)(E) shall apply. “(C) Transition period.—“(i) In general.—For purposes of this paragraph, the term ‘transition period’ means, with respect to any assistance eligible individual, any period of coverage if— “(I) such assistance eligible individual experienced an involuntary termination that was a qualifying event prior to the date of enactment of the Department of Defense Appropriations Act, 2010 [Dec. 19, 2009]; and “(II) paragraph (1)(A) applies to such period by reason of the amendment made by section 1010(b) of the Department of Defense Appropriations Act, 2010 [Pub. L. 111–118]. “(ii) Construction.—Any period during the period described in subclauses (I) and (II) of clause (i) for which the applicable premium has been paid pursuant to subparagraph (A) shall be treated as a period of coverage referred to in such paragraph [probably should be “subparagraph”], irrespective of any failure to timely pay the applicable premium (other than pursuant to subparagraph (A)) for such period. “(D) Notification.—“(i) In general.—In the case of an individual who was an assistance eligible individual at any time on or after October 31, 2009, or experiences a qualifying event (consisting of termination of employment) relating to COBRA continuation coverage on or after such date, the administrator of the group health plan (or other entity) involved shall provide an additional notification with information regarding the amendments made by section 1010 of the Department of Defense Appropriations Act, 2010 [Pub. L. 111–118], within 60 days after the date of the enactment of such Act [Dec. 19, 2009] or, in the case of a qualifying event occurring after such date of enactment, consistent with the timing of notifications under paragraph (7)(A). “(ii) To individuals who lost assistance.—In the case of an assistance eligible individual described in subparagraph (A)(i) who did not timely pay the premium for any period of coverage during such individual’s transition period or paid the premium for such period without regard to paragraph (1)(A), the administrator of the group health plan (or other entity) involved shall provide to such individual, within the first 60 days of such individual’s transition period, an additional notification with information regarding the amendments made by section 1010 of the Department of Defense Appropriations Act, 2010, including information on the ability under subparagraph (A) to make retroactive premium payments with respect to the transition period of the individual in order to maintain COBRA continuation coverage. “(iii) Application of rules.—Rules similar to the rules of paragraph (7) shall apply with respect to notifications under this subparagraph. “(17) Special rules in case of individuals losing coverage because of a reduction of hours.—“(A) New election period.—“(i) In general.—For the purposes of the COBRA continuation provisions, in the case of an individual described in subparagraph (C) who did not make (or who made and discontinued) an election of COBRA continuation coverage on the basis of the reduction of hours of employment, the involuntary termination of employment of such individual on or after the date of the enactment of this paragraph [Mar. 2, 2010] shall be treated as a qualifying event. “(ii) Counting cobra duration period from previous qualifying event.—In any case of an individual referred to in clause (i), the period of such individual’s continuation coverage shall be determined as though the qualifying event were the reduction of hours of employment. “(iii) Construction.—Nothing in this paragraph shall be construed as requiring an individual referred to in clause (i) to make a payment for COBRA continuation coverage between the reduction of hours and the involuntary termination of employment. “(iv) Preexisting conditions.—With respect to an individual referred to in clause (i) who elects COBRA continuation coverage pursuant to such clause, rules similar to the rules in paragraph (4)(C) shall apply. “(B) Notices.—In the case of an individual described in subparagraph (C), the administrator of the group health plan (or other entity) involved shall provide, during the 60-day period beginning on the date of such individual’s involuntary termination of employment, an additional notification described in paragraph (7)(A), including information on the provisions of this paragraph. Rules similar to the rules of paragraph (7) shall apply with respect to such notification. “(C) Individuals described.—Individuals described in this subparagraph are individuals who are assistance eligible individuals on the basis of a qualifying event consisting of a reduction of hours occurring during the period described in paragraph (3)(A) followed by an involuntary termination of employment insofar as such involuntary termination of employment occurred on or after the date of the enactment of this paragraph. “(18) Rules related to april and may 2010 extension.—In the case of an individual who, with regard to coverage described in paragraph (10)(B), experiences a qualifying event related to a termination of employment on or after April 1, 2010 and prior to the date of the enactment of this paragraph [Apr. 15, 2010], rules similar to those in paragraphs (4)(A) and (7)(C) shall apply with respect to all continuation coverage, including State continuation coverage programs. “(b) Elimination of Premium Subsidy for High-Income Individuals.—“(1) Recapture of subsidy for high-income individuals.—If—“(A) premium assistance is provided under this section with respect to any COBRA continuation coverage which covers the taxpayer, the taxpayer’s spouse, or any dependent (within the meaning of section 152 of the Internal Revenue Code of 1986, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of the taxpayer during any portion of the taxable year, and “(B) the taxpayer’s modified adjusted gross income for such taxable year exceeds $125,000 ($250,000 in the case of a joint return), then the tax imposed by chapter 1 of such Code with respect to the taxpayer for such taxable year shall be increased by the amount of such assistance. “(2) Phase-in of recapture.—“(A) In general.—In the case of a taxpayer whose modified adjusted gross income for the taxable year does not exceed $145,000 ($290,000 in the case of a joint return), the increase in the tax imposed under paragraph (1) shall not exceed the phase-in percentage of such increase (determined without regard to this paragraph). “(B) Phase-in percentage.—For purposes of this subsection, the term ‘phase-in percentage’ means the ratio (expressed as a percentage) obtained by dividing—“(i) the excess of [sic] described in subparagraph (B) of paragraph (1), by “(ii) $20,000 ($40,000 in the case of a joint return). “(3) Option for high-income individuals to waive assistance and avoid recapture.—Notwithstanding subsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—“(A) makes a permanent election (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to waive the right to the premium assistance provided under this section, and “(B) notifies the entity to whom premiums are reimbursed under section 6432(a) of such Code of such election. “(4) Modified adjusted gross income.—For purposes of this subsection, the term ‘modified adjusted gross income’ means the adjusted gross income (as defined in section 62 of the Internal Revenue Code of 1986) of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933 of such Code. “(5) Credits not allowed against tax, etc.—For purposes determining regular tax liability under section 26(b) of such Code, the increase in tax under this subsection shall not be treated as a tax imposed under chapter 1 of such Code. “(6) Regulations.—The Secretary of the Treasury shall issue such regulations or other guidance as are necessary or appropriate to carry out this subsection, including requirements that the entity to whom premiums are reimbursed under section 6432(a) of the Internal Revenue Code of 1986 report to the Secretary, and to each assistance eligible individual, the amount of premium assistance provided under subsection (a) with respect to each such individual. “(7) Effective date.—The provisions of this subsection shall apply to taxable years ending after the date of the enactment of this Act [Feb. 17, 2009].”
-
-[Pub. L. 111–157, § 3(c), Apr. 15, 2010, 124 Stat. 1117, provided that: “The amendments made by this section [amending section 3001 of Pub. L. 111–5, set out above] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 [Pub. L. 111–5].” ]
-
-[Pub. L. 111–118, div. B, § 1010(e), Dec. 19, 2009, 123 Stat. 3473, provided that: “The amendments made by this section [amending section 3001 of Pub. L. 111–5, set out above] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 [Pub. L. 111–5] to which they relate.” ]
+Pub. L. 111–5, div. B, title III, § 3001, Feb. 17, 2009, 123 Stat. 455, as amended by Pub. L. 111–118, div. B, § 1010(a)–(d), Dec. 19, 2009, 123 Stat. 3472, 3473; Pub. L. 111–144, § 3(a), (b)(1)–(4), Mar. 2, 2010, 124 Stat. 43, 44; Pub. L. 111–157, § 3(a), (b), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 113–295, div. A, title II, § 209(j)(3), Dec. 19, 2014, 128 Stat. 4031, related to premium assistance for COBRA continuation coverage.

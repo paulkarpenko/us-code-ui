@@ -189,23 +189,14 @@ Repeal effective Sept. 1, 1948, see act June 25, 1948, ch. 645, § 20, 62 Stat. 
 
 
 <a id="section-251"></a>
-## § 251. Setting up distillery
-
-Every person who shall, within the Indian country, set up or continue any distillery for manufacturing ardent spirits, shall be liable to a penalty of $1,000; and the superintendent of Indian affairs, Indian agent, or subagent, within the limits of whose agency any distillery of ardent spirits is set up or continued, shall forthwith destroy and break up the same.
+## § 251. Repealed. Pub. L. 115–304, § 1, Dec. 11, 2018, 132 Stat. 4401
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 2141 derived from act June 30, 1834, ch. 161, § 21, 4 Stat. 732.
+Section, R.S. § 2141, established a penalty of $1,000 for setting up or continuing a distillery for manufacturing ardent spirits and mandated the destruction of the distillery.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Indian Agents
-The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
-
-#### Superintendent of Indian Affairs
-No appropriation for any superintendent of Indian affairs has been made since act Mar. 3, 1877, ch. 101, § 1, 19 Stat. 271.
+#### No Effect On Taxation Or State Authority To Regulate Alcohol Within State Borders
+Pub. L. 115–304, § 2, Dec. 11, 2018, 132 Stat. 4401, provided that: “(a) No Effect on Taxation.—Nothing in section 1 [repealing this section] or the repeal made by section 1 shall affect State or Federal taxation. “(b) State Authority Unaffected.—Nothing in section 1 or the repeal made by section 1 shall diminish, enlarge, or otherwise affect a State’s authority to regulate the importation and sale of alcoholic beverages within its own borders, including State authority over the manufacture, distribution, transportation, or sale of intoxicating liquors.”
 
 
 <a id="section-252"></a>
@@ -213,7 +204,7 @@ No appropriation for any superintendent of Indian affairs has been made since ac
 
 ### Statutory Notes
 
-Section, act May 18, 1916, ch. 125, § 1, 39 Stat. 124, related to application of sections 246 and 251 of this title to search and seizure and setting up a distillery. See [section 3113 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3113&num=0&edition=prelim), Crimes and Criminal Procedure.
+Section, act May 18, 1916, ch. 125, § 1, 39 Stat. 124, related to application of former sections 246 and 251 of this title to search and seizure and setting up a distillery. See [section 3113 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3113&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Effective Date of Repeal
 Repeal effective Sept. 1, 1948, see act June 25, 1948, ch. 645, § 20, 62 Stat. 862.

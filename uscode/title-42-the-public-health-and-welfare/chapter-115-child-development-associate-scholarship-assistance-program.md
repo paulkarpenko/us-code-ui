@@ -17,7 +17,7 @@ The Secretary is authorized to make a grant for any fiscal year to any State rec
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XX of the Social Security Act is classified principally to subchapter XX (§ 1397 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Effective Date
-Chapter effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 #### Short Title
 Pub. L. 99–425, title VI, § 601, Sept. 30, 1986, 100 Stat. 976, provided that: “This title [enacting this chapter] may be cited as the ‘Child Development Associate Scholarship Assistance Act of 1985’.”
@@ -57,6 +57,9 @@ Subsec. (b)(2), (3). Pub. L. 101–501, § 501(b)(2), (3), added par. (2) and re
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
+#### Effective Date
+Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-10903"></a>
 ## § 10903. Definitions
@@ -81,12 +84,20 @@ Pars. (2) to (4). Pub. L. 101–501, § 502(2), (3), added par. (2) and redesign
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
+#### Effective Date
+Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-10904"></a>
 ## § 10904. Annual report by States; contents; manner of payments pursuant to grants
 **(a) Reporting** Each State receiving grants under this chapter shall annually submit to the Secretary information on the number of eligible individuals assisted under the grant program, and their positions and salaries before and after receiving the Child Development Associate credential.
 
 **(b) Payments** Payments pursuant to grants made under this chapter may be made in installments, and in advance or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments, as the Secretary may determine.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-10905"></a>
@@ -106,3 +117,6 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
+#### Effective Date
+Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).

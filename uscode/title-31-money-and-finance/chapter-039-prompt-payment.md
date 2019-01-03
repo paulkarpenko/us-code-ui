@@ -76,7 +76,12 @@ In subsection (a)(6), the words “real or personal” are omitted as surplus. T
 
 In subsection (b), the words “the authority of” are omitted as surplus.
 
+#### Amendment of Subsection (a)(4)(A)(ii)(II)
+Pub. L. 115–232, div. A, title VIII, § 836(g)(3), (h), Aug. 13, 2018, 132 Stat. 1873, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(4)(A)(ii)(II) of this section is amended by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
+
 #### Amendments
+2018—Subsec. (a)(4)(A)(ii)(II). Pub. L. 115–232 substituted “commercial product” for “commercial item”.
+
 1998—Subsec. (c). Pub. L. 105–362 struck out “, except [section 3906 of this title](./chapter-039-prompt-payment.md#section-3906),” after “This chapter”.
 
 Subsec. (d). Pub. L. 105–277 added subsec. (d).
@@ -90,6 +95,9 @@ Subsec. (d). Pub. L. 105–277 added subsec. (d).
 Subsec. (a)(5). Pub. L. 100–496, § 2(b), amended par. (5) generally, substituting “check for payment is dated or an electronic fund transfer is made” for “check for the payment is dated”.
 
 Subsec. (c). Pub. L. 100–496, § 2(c)(1), added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1988 Amendment
 Amendment by section 2(a), (b) of Pub. L. 100–496 applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, and amendment by section 2(c)(1) of Pub. L. 100–496 applicable with respect to all obligations incurred on or after Jan. 1, 1989, see section 14(a), (c) of Pub. L. 100–496, set out as a note under [section 3902 of this title](./chapter-039-prompt-payment.md#section-3902).

@@ -69,7 +69,7 @@ The Bus Regulatory Reform Act of 1982, referred to in subsec. (a)(3)(C), is Pub.
 Provisions similar to those in this section were contained in [section 10101 of this title](./chapter-101-general-provisions.md#section-10101) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13102"></a>
@@ -247,6 +247,9 @@ Pars. (14) to (26). Pub. L. 109–59, § 4202(b), redesignated pars. (12) to (24
 
 Par. (4)(B). Pub. L. 104–287, § 5(27)(B), substituted “after December 31, 1995” for “on or after such date”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Application of Certain Provisions of Law
 Pub. L. 109–59, title IV, § 4202(c), Aug. 10, 2005, 119 Stat. 1752, provided that: “The provisions of title 49, United States Code, and this subtitle [subtitle B (§§ 4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under [section 10101 of this title](./chapter-101-general-provisions.md#section-10101)] (including any amendments made by this subtitle), that relate to the transportation of household goods apply only to a household goods motor carrier (as defined in [section 13102 of title 49](./chapter-131-general-provisions.md#section-13102), United States Code).”
 
@@ -263,3 +266,6 @@ Except as otherwise provided in this part, the remedies provided under this part
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10103&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

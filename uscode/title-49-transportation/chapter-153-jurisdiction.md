@@ -34,7 +34,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 10501 of this title](./chapter-105-jurisdiction.md#section-10501) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-15302"></a>
@@ -50,3 +50,8 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 **(c) Period of Exemption.—** The Board may specify the period of time during which an exemption granted under this section is effective.
 
 **(d) Revocation.—** The Board may revoke an exemption, to the extent it specifies, when it finds that application, in whole or in part, of a provision of this part to the person, class, or transportation is necessary to carry out the transportation policy of section 15101.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

@@ -127,7 +127,7 @@ Section was formerly classified as a note under [section 509 of Title 28](https:
 ### Statutory Notes
 
 #### References in Text
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(2)(C), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§ 3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to to editorial reclassification as part A (§ 10151 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(2)(C), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§ 3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§ 10151 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 #### Codification
 Section is comprised of section 401 of Pub. L. 110–403. Subsec. (a) of section 401 of Pub. L. 110–403 amended [section 30101 of this title](./chapter-301-computer-crimes-and-intellectual-property-crimes.md#section-30101).

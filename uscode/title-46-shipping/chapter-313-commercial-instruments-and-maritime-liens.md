@@ -123,6 +123,9 @@ Section 31302(3) requires the Secretary, on request, to issue a certificate cont
 #### Amendments
 2010—Pub. L. 111–281 struck out “of Transportation” after “Secretary” in introductory provisions.
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-31303"></a>
 ## § 31303. Certain civil actions not authorized
@@ -137,6 +140,9 @@ If a mortgage covers a vessel and additional property that is not a vessel, this
 | 31303 | 46:954(b) |
 
 Section 31303 makes it clear that, if a mortgage covers a vessel and additional property that is not a vessel, this chapter does not authorize a civil action in rem in admiralty to enforce rights against the additional property. This section makes no substantive change to law.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-31304"></a>
@@ -153,6 +159,9 @@ Section 31303 makes it clear that, if a mortgage covers a vessel and additional 
 | 31304 | 46:941(c) |
 
 Section 31304 imposes liability on the mortgagor if the mortgagor, master, or other individual in charge of the vessel does not comply with the statutory requirements. A civil action may be brought in a district court of the United States for losses incurred. If the plaintiff prevails, the court shall award costs and attorneys fees to the plaintiff. This section makes two substantive changes to law. First, is the broadening of its coverage from documented vessels covered by a preferred mortgage to any vessel covered by a mortgage that is filed or recorded under the chapter. The second substantive change repeals the liability on the United States Government for losses caused because the Secretary did not comply with statutory requirements. This is covered by the Federal Tort Claims Act due to the nondiscretionary responsibility of the Secretary.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-31305"></a>
@@ -171,6 +180,9 @@ Section 31305 provides for the waiver of lien rights by the mortgagee or a perso
 
 #### house floor statement
 Section 31305 has been changed to clarify that the chapter does not prevent a mortgagee or other lien holder from waiving by contract the right to a lien, or the priority of that lien.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-31306"></a>
@@ -207,6 +219,9 @@ Section 31306(d) provides for a criminal penalty for a violation of this section
 
 Subsec. (c). Pub. L. 101–225, § 303(1)(B), substituted “Except as provided by the Secretary, an” for “An”.
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-31307"></a>
 ## § 31307. State statutes superseded
@@ -221,6 +236,9 @@ This chapter supersedes any State statute conferring a lien on a vessel to the e
 | 31307 | 46:975 |
 
 Section 31307 provides for preemption of State laws to the extent a claim for necessaries is enforced by a civil action in rem in admiralty against the vessel.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-31308"></a>
@@ -244,6 +262,9 @@ Section 31308 allows the Secretary of Commerce or Transportation to foreclose on
 
 1990—Pub. L. 101–595 substituted “(46 App. U.S.C. 1271 et seq.)” for “(46 App. U.S.C. 1241 et seq.)”.
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-31309"></a>
 ## § 31309. General civil penalty
@@ -258,6 +279,9 @@ Except as otherwise provided in this chapter, a person violating this chapter or
 | 31309 | New |
 
 Section 31309 provides for a civil penalty of not more than $10,000 for a violation of this chapter or a regulation prescribed under this chapter.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-31321"></a>
@@ -385,7 +409,7 @@ Section effective Jan. 1, 1989, not to affect any civil action filed before that
 
   (A) a person eligible to own a vessel with a fishery endorsement under [section 12113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12113/c&num=0&edition=prelim);
 
-  (B) a state 11 So in original. Probably should be capitalized. or federally chartered financial institution that is insured by the Federal Deposit Insurance Corporation;
+  (B) a State or federally chartered financial institution that is insured by the Federal Deposit Insurance Corporation;
 
   (C) a farm credit lender established under title 12, chapter 23 of the United States Code;
 
@@ -501,6 +525,8 @@ Subsection (e) of section 31322 clarifies the validity of preferred mortgages ma
 Information on vessels with preferred mortgages made under State law will be available to creditors from the vessel identification system under chapter 125 of title 46 (as enacted by this Act).
 
 #### Amendments
+2018—Subsec. (a)(4)(B). Pub. L. 115–232 substituted “State” for “state”.
+
 2006—Subsec. (a)(4)(A). Pub. L. 109–304, § 15(29)(A), substituted “section 12113(c)” for “section 12102(c)”.
 
 Subsec. (a)(4)(E). Pub. L. 109–304, § 15(29)(B), substituted “for purposes of documentation under section 12103” for “under section 12102(a)”.
@@ -578,6 +604,9 @@ Section 31323(b) provides that, after executing a preferred mortgage, the mortga
 
 Section 31323(c) provides that if a mortgagor is convicted of a violation of this section, then the mortgage indebtedness, at the option of the mortgagee, is payable immediately. This subsection makes no substantive change to law.
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-31324"></a>
 ## § 31324. Retention and examination of mortgages of vessels covered by preferred mortgages
@@ -595,6 +624,9 @@ Section 31323(c) provides that if a mortgagor is convicted of a violation of thi
 Section 31324(a) provides for examination of mortgages of a vessel that is covered by a preferred mortgage by persons that have business with the vessel that may give rise to a maritime lien or the sale, conveyance, mortgage, or assignment of the mortgage. This subsection makes no substantive change to law.
 
 Section 31324(b) requires that a certified copy of the mortgage must be on board a self-propelled vessel. This subsection makes no substantive change to law.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-31325"></a>
@@ -712,6 +744,9 @@ Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub.
 #### Effective Date of 2002 Amendment
 Pub. L. 107–295, title II, § 205(e), Nov. 25, 2002, 116 Stat. 2096, provided that: “This section [see Tables for classification] shall take effect January 1, 2003.”
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 #### Construction of 1996 Amendment
 Pub. L. 104–324, title XI, § 1124(c), Oct. 19, 1996, 110 Stat. 3981, provided that: “The amendments made by subsections (a) and (b) [amending this section] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section [Oct. 19, 1996] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
 
@@ -750,6 +785,9 @@ Subsec. (b)(2). Pub. L. 109–304, § 15(31)(B), substituted “chapter 537 of t
 
 Subsec. (b)(2). Pub. L. 103–160, § 1360(2), inserted “whose mortgage has not been guaranteed under title XI of that Act” after “foreign vessel”.
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-31327"></a>
 ## § 31327. Forfeiture of mortgagee interest
@@ -764,6 +802,9 @@ The interest of a mortgagee in a documented vessel or a vessel covered by a pref
 | 31327 | 46:961(b) |
 
 Section 31327 provides for forfeiture of the mortgagee’s interest if the mortgagee authorized, consented, or conspired to do the act, failure, or omission that is the basis of the violation that caused forfeiture of the vessel. This section makes no substantive change to law.
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-31328"></a>
@@ -831,6 +872,9 @@ Subsec. (b)(3). Pub. L. 109–304, § 15(32)(B)(ii), substituted “sale to a pe
 
 1996—Subsec. (f). Pub. L. 104–324 added subsec. (f).
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-31330"></a>
 ## § 31330. Penalties
@@ -893,6 +937,9 @@ Subsec. (a)(2)(B) to (D). Pub. L. 111–281, § 913(d)(2), inserted “or” at 
 
 1996—Subsec. (b). Pub. L. 104–324 struck out “31328 or” before “31329” in pars. (1) to (3).
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-31341"></a>
 ## § 31341. Persons presumed to have authority to procure necessaries
@@ -931,6 +978,9 @@ Section 31341(b) provides that any person that is tortiously or unlawfully in po
 #### Amendments
 1989—Subsec. (a)(3). Pub. L. 101–225 substituted “management” for “mangement”.
 
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
+
 
 <a id="section-31342"></a>
 ## § 31342. Establishing maritime liens
@@ -955,6 +1005,9 @@ Section 31342 provides that any authorized person providing necessaries for a ve
 
 #### Amendments
 1989—Pub. L. 101–225 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b) of this section, a person providing necessaries to a vessel on the order of the owner” for “A person providing necessaries to a vessel (except a public vessel) on the order of a person listed in [section 31341 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31341)”, and added subsec. (b).
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).
 
 
 <a id="section-31343"></a>
@@ -1028,3 +1081,6 @@ Subsecs. (e), (f). Pub. L. 107–295, § 205(a)(1)(E), added subsecs. (e) and (f
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–295 effective Jan. 1, 2003, see section 205(e) of Pub. L. 107–295, set out as a note under [section 31325 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31325).
+
+#### Effective Date
+Section effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301).

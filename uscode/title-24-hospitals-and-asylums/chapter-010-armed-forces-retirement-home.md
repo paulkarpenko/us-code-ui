@@ -123,9 +123,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (1) The Retirement Home shall include such property and facilities as may be acquired under paragraph (2) or accepted under [section 415(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section415/f&num=0&edition=prelim) for inclusion in the Retirement Home.
 
-(2) The Secretary of Defense may acquire, for the benefit of the Retirement Home, property and facilities for inclusion in the Retirement Home. If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.
+(2) The Chief Operating Officer may acquire, for the benefit of the Retirement Home, property and facilities for inclusion in the Retirement Home. If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Chief Operating Officer may acquire the real property only if the acquisition is specifically authorized by law.
 
-(3) If the Secretary of Defense determines that any property of the Retirement Home is excess to the needs of the Retirement Home, the Secretary shall dispose of the property in accordance with subchapter III of chapter 5 of title 40 ([40 U.S.C. 541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section541&num=0&edition=prelim) et seq.). The proceeds from the disposal of property under this paragraph shall be deposited in the Armed Forces Retirement Home Trust Fund.
+(3) If the Chief Operating Officer determines that any property of the Retirement Home is excess to the needs of the Retirement Home, the Chief Operating Officer shall dispose of the property in accordance with subchapter III of chapter 5 of title 40 ([40 U.S.C. 541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section541&num=0&edition=prelim) et seq.). The proceeds from the disposal of property under this paragraph shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
 **(f) Department of Defense support** The Secretary of Defense may make available from the Department of Defense to the Retirement Home, on a nonreimbursable basis, administrative support and office services, legal and policy planning assistance, access to investigative facilities of the Inspector General of the Department of Defense and of the military departments, and any other support necessary to enable the Retirement Home to carry out its functions under this chapter.
 
@@ -135,7 +135,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(i) Authority to lease non-excess property**
 
-(1) Whenever the Chief Operating Officer of the Armed Forces Retirement Home considers it advantageous to the Retirement Home, the Secretary of Defense (acting on behalf of the Chief Operating Officer) may lease to such lessee and upon such terms as the Secretary considers will promote the purpose and financial stability of the Retirement Home or be in the public interest, real or personal property that is—
+(1) Subject to the approval of the Secretary of Defense, whenever the Chief Operating Officer of the Armed Forces Retirement Home considers it advantageous to the Retirement Home, the Chief Operating Officer may lease to such lessee and upon such terms as the Chief Operating Officer considers will promote the purpose and financial stability of the Retirement Home or be in the public interest, real or personal property that is—
 
   (A) under the control of the Retirement Home; and
 
@@ -169,11 +169,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (4) In-kind consideration under paragraph (3) may be accepted at any property or facilities of the Retirement Home that are selected for that purpose by the Chief Operating Officer.
 
-(5) In the case of a lease for which all or part of the consideration proposed to be accepted under this subsection is in-kind consideration with a value in excess of $500,000, the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer until at least 30 days after the date on which a report on the facts of the lease is submitted to Congress. This paragraph does not apply to a lease covered by paragraph (6).
+(5) In the case of a lease for which all or part of the consideration proposed to be accepted under this subsection is in-kind consideration with a value in excess of $500,000, the Chief Operating Officer may not enter into the lease until at least 30 days after the date on which a report on the facts of the lease is submitted to Congress. This paragraph does not apply to a lease covered by paragraph (6).
 
 (6)
 
-  (A) If a proposed lease under this subsection involves only personal property, the lease term exceeds one year, or the fair market value of the lease interest exceeds $100,000, as determined by the Chief Operating Officer, the Secretary of Defense shall use competitive procedures to select the lessee unless the Chief Operating Officer determines that—
+  (A) If a proposed lease under this subsection involves only personal property, the lease term exceeds one year, or the fair market value of the lease interest exceeds $100,000, as determined by the Chief Operating Officer, the Chief Operating Officer shall use competitive procedures to select the lessee unless the Chief Operating Officer determines that—
 
     (i) a public interest will be served as a result of the lease; and
 
@@ -195,6 +195,16 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 This chapter, referred to in subsec. (f), was in the original “this title”, meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note set out under [section 401 of this title](./chapter-010-armed-forces-retirement-home.md#section-401) and Tables.
 
 #### Amendments
+2017—Subsec. (e)(2). Pub. L. 115–91, § 2873(a)(1), substituted “Chief Operating Officer may acquire,” for “Secretary of Defense may acquire,” and “Chief Operating Officer may acquire” for “Secretary may acquire”.
+
+Subsec. (e)(3). Pub. L. 115–91, § 2873(a)(2), substituted “Chief Operating Officer determines” for “Secretary of Defense determines” and “Chief Operating Officer shall dispose” for “Secretary shall dispose”.
+
+Subsec. (i)(1). Pub. L. 115–91, § 2873(b)(1), in introductory provisions, substituted “Subject to the approval of the Secretary of Defense, whenever” for “Whenever”, “Chief Operating Officer may” for “Secretary of Defense (acting on behalf of the Chief Operating Officer) may”, and “Chief Operating Officer considers” for “Secretary considers”.
+
+Subsec. (i)(5). Pub. L. 115–91, § 2873(b)(2), substituted “the Chief Operating Officer may not enter into the lease” for “the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer”.
+
+Subsec. (i)(6)(A). Pub. L. 115–91, § 2873(b)(3), substituted “Chief Operating Officer shall” for “Secretary of Defense shall” in introductory provisions.
+
 2013—Subsec. (d)(3). Pub. L. 112–239 struck out first par. (3) which read as follows: “The administration of the Retirement Home (including administration for the provision of health care and medical care for residents) shall remain under the direct authority, control, and administration of the Secretary of Defense.”
 
 2011—Subsec. (d)(2). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director” in two places.
@@ -230,37 +240,54 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this s
 ## § 413. Residents of Retirement Home
 **(a) Persons eligible to be residents** Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
 
-(1) Persons who—
+(1) Persons who are 60 years of age or over and were discharged or released from service in the Armed Forces after 20 or more years of active service.
 
-  (A) are 60 years of age or over; and
+(2) Persons who are determined under rules prescribed by the Chief Operating Officer to be suffering from a service-connected disability incurred in the line of duty in the Armed Forces.
 
-  (B) were discharged or released from service in the Armed Forces under honorable conditions after 20 or more years of active service.
+(3) Persons who served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under section 310 or 351 of title 37 and who are determined under rules prescribed by the Chief Operating Officer to be suffering from injuries, disease, or disability.
 
-(2) Persons who are determined under rules prescribed by the Chief Operating Officer to be incapable of earning a livelihood because of a service-connected disability incurred in the line of duty in the Armed Forces.
+(4) Persons who served in a women’s component of the Armed Forces before June 12, 1948, and are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
 
-(3) Persons who—
+**(b) Persons ineligible to be residents** The following persons are ineligible to become a resident of the Retirement Home:
 
-  (A) served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under section 310 or 351 of title 37;
+(1) A person who—
 
-  (B) were discharged or released from service in the Armed Forces under honorable conditions; and
+  (A) has been convicted of a felony; or
 
-  (C) are determined under rules prescribed by the Chief Operating Officer to be incapable of earning a livelihood because of injuries, disease, or disability.
+  (B) was discharged or released from service in the Armed Forces under other than honorable conditions.
 
-(4) Persons who—
+(2) A person with substance abuse or mental health problems, except upon a judgment and satisfactory determination by the Chief Operating Officer that—
 
-  (A) served in a women’s component of the Armed Forces before June 12, 1948; and
+  (A) the person has been evaluated by a qualified health professional selected by the Retirement Home;
 
-  (B) are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
+  (B) the Retirement Home can accommodate the person’s condition; and
 
-**(b) Persons ineligible to be residents** A person described in subsection (a) who has been convicted of a felony or is not free of drug, alcohol, or psychiatric problems shall be ineligible to become a resident of the Retirement Home.
+  (C) the person agrees to such conditions of residency as the Retirement Home may require.
 
 **(c) Acceptance** To apply for acceptance as a resident of a facility of the Retirement Home, a person eligible to be a resident shall submit to the Administrator of that facility an application in such form and containing such information as the Chief Operating Officer may require.
 
 **(d) Priorities for acceptance** The Chief Operating Officer shall establish a system of priorities for the acceptance of residents so that the most deserving applicants will be accepted whenever the number of eligible applicants is greater than the Retirement Home can accommodate.
 
+**(e) Spouses of residents**
+
+(1) **Authority to admit** — Except as otherwise established pursuant to subsection (d), the spouse of a person accepted as a resident of a facility of the Retirement Home may be admitted to that facility if the spouse—
+
+  (A) is a covered beneficiary within the meaning of [section 1072(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1072/5&num=0&edition=prelim);
+
+  (B) is not ineligible to become a resident as provided in subsection (b); and
+
+  (C) submits an application for admittance in accordance with subsection (c).
+
+(2) **Treatment as resident** — A spouse admitted in accordance with paragraph (1) shall be a resident of the Retirement Home consistent with this chapter, except as the Chief Operating Officer may otherwise provide.
+
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsec. (e)(2), was in the original “this Act”, and was translated as meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XV to the Code, see Short Title note set out under [section 401 of this title](./chapter-010-armed-forces-retirement-home.md#section-401) and Tables.
+
 #### Amendments
+2018—Pub. L. 115–232 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to persons eligible to be residents, persons ineligible to be residents, acceptance, and priorities for acceptance, respectively.
+
 2016—Subsec. (a)(3)(A). Pub. L. 114–328 inserted “or 351” after “section 310”.
 
 2011—Pub. L. 112–81, § 567(c)(6), made technical amendment to section catchline.
@@ -336,7 +363,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 (2) The Deputy Director of the Defense Health Agency shall serve as Senior Medical Advisor for the Retirement Home in addition to performing all other duties and responsibilities assigned to the Deputy Director of the Defense Health Agency at the time of the designation under paragraph (1) or afterward.
 
-**(b) Responsibilities** The Senior Medical Advisor shall provide advice to the Secretary of Defense, the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—
+**(b) Responsibilities** The Senior Medical Advisor shall provide advice to the Secretary of Defense, the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—
 
 (1) medical administrative matters at each facility of the Retirement Home; and
 
@@ -344,9 +371,9 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 **(c) Duties** In carrying out the responsibilities set forth in subsection (b), the Senior Medical Advisor shall perform the following duties:
 
-(1) Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.
+(1) Facilitate and monitor the timely availability to residents of the Retirement Home such medical, mental health, and dental care services as such residents may require at locations other than the Retirement Home.
 
-(2) Ensure compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
+(2) Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
 
 (3) Periodically visit each facility of the Retirement Home to review—
 
@@ -354,13 +381,21 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
   (B) inspections and audits to ensure that appropriate follow-up regarding issues and recommendations raised by such inspections and audits has occurred.
 
-(4) Report on the findings and recommendations developed as a result of each review conducted under paragraph (3) to the Chief Operating Officer, the Advisory Council, and the Under Secretary of Defense for Personnel and Readiness.
+(4) Report on the findings and recommendations developed as a result of each review conducted under paragraph (3) to the Chief Operating Officer, the Advisory Council, and the Secretary of Defense.
 
 **(d) Advisory bodies** In carrying out the responsibilities set forth in subsection (b) and the duties set forth in subsection (c), the Senior Medical Advisor may establish and seek the advice of such advisory bodies as the Senior Medical Advisor considers appropriate.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–232, § 1413(1), added par. (1) and struck out former par. (1) which read as follows: “Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.”
+
+Subsec. (c)(2). Pub. L. 115–232, § 1413(2), substituted “Monitor” for “Ensure”.
+
+2017—Subsec. (b). Pub. L. 115–91, § 1413(a)(1)(A), struck out “the Under Secretary of Defense for Personnel and Readiness,” after “Secretary of Defense,” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 115–91, § 1413(a)(1)(B), substituted “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”.
+
 2014—Subsec. (a). Pub. L. 113–291, § 721(a), substituted “Deputy Director of the Defense Health Agency” for “Deputy Director of the TRICARE Management Activity” wherever appearing.
 
 Subsec. (c)(2). Pub. L. 113–291, § 721(b), substituted “nationally recognized health care standards and requirements” for “health care standards of the Department of Veterans Affairs”.
@@ -417,6 +452,12 @@ Pub. L. 103–337, div. A, title III, § 371(d)(2), Oct. 5, 1994, 108 Stat. 2735
 #### Effective Date
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under [section 401 of this title](./chapter-010-armed-forces-retirement-home.md#section-401).
 
+#### Relief for Residents of the Armed Forces Retirement Home Impacted by Increase in Fees
+Pub. L. 115–232, div. A, title XIV, § 1415, Aug. 13, 2018, 132 Stat. 2092, provided that: “(a) Prohibition on Removal for Inability To Pay Fee Increase.—A resident of the Armed Forces Retirement Home as of September 30, 2018, may not be removed or released from the Retirement Home after that date based solely upon the inability of the resident to pay the amount of any increase in fees applicable to residents of the Retirement Home that takes effect on October 1, 2018. “(b) Other Relief.—The Chief Operating Officer of the Armed Forces Retirement Home shall take all actions practicable to accommodate residents of the Retirement Home who are impacted by the fee structure applicable to residents of the Retirement Home that takes effect on October 1, 2018, including through hardship relief, additional deductions from gross income, and other appropriate actions.”
+
+#### Limitation on Applicability of Fee Increase for Residents of the Armed Forces Retirement Home
+Pub. L. 115–232, div. A, title XIV, § 1416, Aug. 13, 2018, 132 Stat. 2092, provided that: “(a) In General.—In the case of an individual who was a resident of the Armed Forces Retirement Home as of April 9, 2018, the increase in fees for residents of the Home scheduled to take effect on October 1, 2018, shall occur on an incremental basis over the three-year period beginning on October 1, 2018, such that the total fee for such individual as a resident of the Home as of the end of such period covers the cost of care of such individual as a resident of the Home. “(b) Notice and Wait on Implementation of Future Increases.—Any increase in the fees for residents of the Home that is scheduled to take effect after October 1, 2018, may not take effect until 90 days after the date on which a report on the increase is submitted to the Committees on Armed Services of the Senate and the House of Representatives.”
+
 
 <a id="section-416"></a>
 ## § 416. Chief Operating Officer
@@ -472,13 +513,15 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 **(f) Acceptance of gifts**
 
-(1) The Chief Operating Officer may accept gifts of money, property, and facilities on behalf of the Retirement Home.
+(1) The Chief Operating Officer may accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property, or any income therefrom or other interest therein, for the benefit of the Retirement Home.
 
 (2) Monies received as gifts, or realized from the disposition of property and facilities received as gifts, shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–232 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chief Operating Officer may accept gifts of money, property, and facilities on behalf of the Retirement Home.”
+
 2011—Subsec. (c)(2). Pub. L. 112–81 struck out “, including the Local Boards of those facilities” before period at end.
 
 2001—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to the Chief Operating Officer of the Retirement Home for provisions relating to the composition and operation of Retirement Home Board.
@@ -518,7 +561,7 @@ Pub. L. 104–201, div. A, title X, § 1051(b)(2), Sept. 23, 1996, 110 Stat. 264
 
 **(c) Composition**
 
-(1) The Advisory Council shall consist of at least 15 members, each of whom shall be a full or part-time Federal employee or a member of the Armed Forces.
+(1) The Advisory Council shall consist of at least 15 members.
 
 (2) Members of the Advisory Council shall be designated by the Secretary of Defense, except that an individual who is not an employee of the Department of Defense shall be designated, in consultation with the Secretary of Defense, by the head of the Federal department or agency that employs the individual.
 
@@ -564,7 +607,7 @@ Pub. L. 104–201, div. A, title X, § 1051(b)(2), Sept. 23, 1996, 110 Stat. 264
 
 **(f) Compensation**
 
-(1) Except as provided in paragraph (2), a member of the Advisory Council shall—
+(1) Except as provided in paragraph (2), a member of the Advisory Council may—
 
   (A) be provided a stipend consistent with the daily government consultant fee for each day on which the member is engaged in the performance of services for the Advisory Council; and
 
@@ -576,6 +619,11 @@ Pub. L. 104–201, div. A, title X, § 1051(b)(2), Sept. 23, 1996, 110 Stat. 264
 
 #### Prior Provisions
 A prior section 416, Pub. L. 101–510, div. A, title XV, § 1516, Nov. 5, 1990, 104 Stat. 1728; Pub. L. 107–107, div. A, title XIV, § 1406, Dec. 28, 2001, 115 Stat. 1262; Pub. L. 110–181, div. A, title XIV, § 1422(e), Jan. 28, 2008, 122 Stat. 421; Pub. L. 110–417, [div. A], title X, § 1061(b)(12), Oct. 14, 2008, 122 Stat. 4613, related to local boards of trustees, prior to repeal by Pub. L. 112–81, div. A, title V, § 563(a), Dec. 31, 2011, 125 Stat. 1421.
+
+#### Amendments
+2017—Subsec. (c)(1). Pub. L. 115–91, § 1413(b)(1), substituted “15 members.” for “15 members, each of whom shall be a full or part-time Federal employee or a member of the Armed Forces.”
+
+Subsec. (f)(1). Pub. L. 115–91, § 1413(b)(2), substituted “may” for “shall” in introductory provisions.
 
 
 <a id="section-417"></a>
@@ -609,9 +657,11 @@ A prior section 416, Pub. L. 101–510, div. A, title XV, § 1516, Nov. 5, 1990,
 
 (1) be a civilian with experience as a continuing care retirement community professional or a member of the Armed Forces serving on active duty in a grade below brigadier general or, in the case of the Navy, rear admiral (lower half);
 
-(2) have appropriate leadership and management skills; and
+(2) have appropriate leadership and management skills;
 
-(3) be required to pursue a course of study to receive certification as a retirement facilities director by an appropriate civilian certifying organization, if the Administrator is not so certified at the time of appointment.
+(3) be required to pursue a course of study to receive certification as a retirement facilities director by an appropriate civilian certifying organization, if the Administrator is not so certified at the time of appointment; and
+
+(4) serve at the pleasure of the Secretary of Defense.
 
 **(c) Duties of Administrator**
 
@@ -633,7 +683,7 @@ A prior section 416, Pub. L. 101–510, div. A, title XV, § 1516, Nov. 5, 1990,
 
 (1) The Ombudsman of a facility shall, under the authority, direction, and control of the Administrator of the facility, serve as ombudsman for the residents and perform such other duties as the Administrator may assign.
 
-(2) The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the Inspector General of the Department of Defense, and the Under Secretary of Defense for Personnel and Readiness.
+(2) The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the Inspector General of the Department of Defense, and the Secretary of Defense.
 
 **(f) Staff**
 
@@ -650,6 +700,10 @@ A prior section 416, Pub. L. 101–510, div. A, title XV, § 1516, Nov. 5, 1990,
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(4). Pub. L. 115–91, § 1413(c), added par. (4).
+
+Subsec. (e)(2). Pub. L. 115–91, § 1413(a)(2), substituted “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”.
+
 2011—Pub. L. 112–81, § 567(c)(4), substituted “Administrators, Ombudsmen, and staff of facilities” for “Directors, deputy directors, associate directors, and staff of facilities” in section catchline.
 
 Subsec. (a). Pub. L. 112–81, § 564(a)(1), substituted “an Administrator and an Ombudsman” for “a Director, a Deputy Director, and an Associate Director”.
@@ -717,7 +771,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 **(c) Reports on inspections by Inspector General**
 
-(1) The Inspector General shall prepare a report describing the results of each inspection conducted of a facility of the Retirement Home under subsection (b), and include in the report such recommendations as the Inspector General considers appropriate in light of the inspection. Not later than 90 days after completing the inspection of the facility, the Inspector General shall submit the report to Congress and the Secretary of Defense, the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer, the Administrator of the facility, the Senior Medical Advisor, and the Advisory Council.
+(1) The Inspector General shall prepare a report describing the results of each inspection conducted of a facility of the Retirement Home under subsection (b), and include in the report such recommendations as the Inspector General considers appropriate in light of the inspection. Not later than 90 days after completing the inspection of the facility, the Inspector General shall submit the report to the Secretary of Defense, the Chief Operating Officer, the Administrator of the facility, the Senior Medical Advisor, and the Advisory Council.
 
 (2) A report submitted under paragraph (1) shall include a plan by the Chief Operating Officer to address the recommendations and other matters contained in the report.
 
@@ -727,19 +781,25 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 (2) The Chief Operating Officer and the Administrator of a facility being inspected under this subsection shall make all staff, other personnel, and records of the facility available to the civilian accrediting organization in a timely manner for purposes of inspections under this subsection.
 
-**(e) Reports on additional inspections**
+**(e) Reports on additional inspections** Not later than 60 days after receiving a report of an inspection from the civilian accrediting organization under subsection (d), the Chief Operating Officer shall submit to the Secretary of Defense, the Senior Medical Advisor, and the Advisory Council a report containing—
 
-(1) Not later than 60 days after receiving a report of an inspection from the civilian accrediting organization under subsection (d), the Chief Operating Officer shall submit to the Under Secretary of Defense for Personnel and Readiness, the Senior Medical Advisor, and the Advisory Council a report containing—
+(1) the results of the inspection; and
 
-  (A) the results of the inspection; and
-
-  (B) a plan to address any recommendations and other matters set forth in the report.
-
-(2) Not later than 45 days after receiving a report and plan under paragraph (1), the Secretary of Defense shall submit the report and plan to Congress.
+(2) a plan to address any recommendations and other matters set forth in the report.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsecs. (c)(1), (e). Pub. L. 115–232 made technical amendment to directory language of Pub. L. 115–91, § 1051(d). See 2017 Amendment notes below.
+
+2017—Subsec. (c)(1). Pub. L. 115–91, § 1413(a)(3)(A), struck out “the Under Secretary of Defense for Personnel and Readiness,” after “the Secretary of Defense,”.
+
+Pub. L. 115–91, § 1051(d)(1), as amended by Pub. L. 115–232, struck out “Congress and” before “the Secretary of Defense,”.
+
+Subsec. (e). Pub. L. 115–91, § 1413(a)(3)(B), which directed amendment of subsec. (e)(1) by substituting “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”, was executed by making the substitution in the introductory provisions of subsec. (e) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–91, § 1051(d)(2). See below.
+
+Pub. L. 115–91, § 1051(d)(2), as amended by Pub. L. 115–232, struck out “(1)” before “Not later”, redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, and struck out par. (2) which read as follows: “Not later than 45 days after receiving a report and plan under paragraph (1), the Secretary of Defense shall submit the report and plan to Congress.”
+
 2011—Pub. L. 112–81, § 567(c)(5), substituted “Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors” for “Inspection of Retirement Home” in section catchline.
 
 Subsec. (b)(1). Pub. L. 112–81, § 566(1), substituted “Not less often than once every three years,” for “In any year in which a facility of the Retirement Home is not inspected by a nationally recognized civilian accrediting organization,” and “of each facility of the Retirement Home” for “of that facility” and inserted “long-term care,” after “assisted living,”.
@@ -775,6 +835,9 @@ Pub. L. 112–81, § 563(b)(3)(C), substituted “Advisory Council” for “Loc
 “(2) cause the Inspector Generals of the military departments to conduct an inspection of the Retirement Home and its records at six-year intervals alternating with the inspections by the Inspector General of the Department of Defense so that each home is inspected every three years; and
 
 “(3) submit to the Retirement Home Board, the Secretary of Defense, and Congress a report describing the results of the inspection and containing such recommendations as the Inspector General considers appropriate.”
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by Pub. L. 115–232 is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.
 
 #### Effective Date
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under [section 401 of this title](./chapter-010-armed-forces-retirement-home.md#section-401).
@@ -834,7 +897,7 @@ Section effective Nov. 5, 1990, see section 1541(b) of Pub. L. 101–510, former
 
 <a id="section-421"></a>
 ## § 421. Disposition of effects of deceased persons; unclaimed property
-**(a) Disposition of effects of deceased persons** The Administrator of a facility of the Retirement Home shall safeguard and dispose of the estate and personal effects of deceased residents, including effects delivered to such facility under sections 4712(f) and 9712(f) of title 10, and shall ensure the following:
+**(a) Disposition of effects of deceased persons** The Administrator of a facility of the Retirement Home shall safeguard and dispose of the estate and personal effects of deceased residents, including effects delivered to such facility under sections 7712(f) and 9712(f) of title 10, and shall ensure the following:
 
 (1) A will or other instrument of a testamentary nature involving property rights executed by a resident shall be promptly delivered, upon the death of the resident, to the proper court of record.
 
@@ -891,6 +954,8 @@ Section effective Nov. 5, 1990, see section 1541(b) of Pub. L. 101–510, former
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 substituted “sections 7712(f) and 9712(f) of title 10” for “sections 4712(f) and 9712(f) of title 10” in introductory provisions.
+
 2011—Pub. L. 112–81, § 567(c)(6), made technical amendment to section catchline.
 
 Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director” wherever appearing.
@@ -942,6 +1007,9 @@ Subsec. (b). Pub. L. 103–160, § 366(e), amended heading and text of subsec. (
 “(B) delivering the effects to the Secretary of Veterans Affairs, to a State or other military home, to a museum, or to any other appropriate institution; or
 
 “(C) destroying the effects if the Retirement Home Board determines that they are valueless.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(3) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.

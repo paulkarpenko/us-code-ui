@@ -147,7 +147,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 <a id="section-12645"></a>
 ## § 12645. Commissioned officers: retention until completion of required service
-**(a)** Except as provided in subsection (b), a reserve commissioned officer who has not completed the period of service required of him by [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or any other provision of law may not be discharged or transferred from an active status under chapter 573, 1407, 1409, or 1411 of this title or chapter 21 of title 14. Unless, under regulations prescribed by the Secretary concerned, he is promoted to a higher reserve grade, he shall be retained in an active status in his reserve grade for the rest of his period of required service and shall be an additional number to the authorized strength of his grade.
+**(a)** Except as provided in subsection (b), a reserve commissioned officer who has not completed the period of service required of him by [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or any other provision of law may not be discharged or transferred from an active status under chapter 843, 1407, 1409, or 1411 of this title or chapter 21 11 See References in Text note below. of title 14. Unless, under regulations prescribed by the Secretary concerned, he is promoted to a higher reserve grade, he shall be retained in an active status in his reserve grade for the rest of his period of required service and shall be an additional number to the authorized strength of his grade.
 
 **(b)** Subsection (a) does not prevent the discharge or transfer from an active status of—
 
@@ -168,7 +168,12 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 The word “subsequently” is omitted as surplusage.
 
+#### References in Text
+Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 of title 14.
+
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 substituted “chapter 843, 1407, 1409, or 1411” for “chapter 573, 1407, 1409, or 1411”.
+
 1996—Subsec. (b)(2). Pub. L. 104–201 inserted “or a reserve active-status list” after “active-duty list”.
 
 Subsec. (b)(3), (4). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, § 1627. See 1994 Amendment note below.
@@ -183,6 +188,9 @@ Subsec. (b)(3), (4). Pub. L. 103–337, § 1627, as amended by Pub. L. 104–106
 
 1975—Pub. L. 93–586 inserted reference to chapter 21 of title 14.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
@@ -192,13 +200,13 @@ Amendment by sections 1627 and 1675(d)(2) of Pub. L. 103–337 effective Oct. 1,
 
 <a id="section-12646"></a>
 ## § 12646. Commissioned officers: retention of after completing 18 or more, but less than 20, years of service
-**(a)** If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 18, but less than 19, years of service computed under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732), he may not be discharged or transferred from an active status under chapter 573, 1407, or 1409 of this title or chapter 21 of title 14, without his consent before the earlier of the following dates—
+**(a)** If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 18, but less than 19, years of service computed under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732), he may not be discharged or transferred from an active status under chapter 843, 1407, or 1409 of this title or chapter 21 11 See References in Text note below. of title 14, without his consent before the earlier of the following dates—
 
 (1) the date on which he is entitled to be credited with 20 years of service computed under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732); or
 
 (2) the third anniversary of the date on which he would otherwise be discharged or transferred from an active status.
 
-**(b)** If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 19, but less than 20, years of service computed under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732), he may not be discharged or transferred from an active status under chapter 573, 1407, or 1409 of this title or chapter 21 of title 14, without his consent before the earlier of the following dates—
+**(b)** If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 19, but less than 20, years of service computed under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732), he may not be discharged or transferred from an active status under chapter 843, 1407, or 1409 of this title or chapter 21 1 of title 14, without his consent before the earlier of the following dates—
 
 (1) the date on which he is entitled to be credited with 20 years of service computed under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732); or
 
@@ -214,11 +222,11 @@ Amendment by sections 1627 and 1675(d)(2) of Pub. L. 103–337 effective Oct. 1,
 
 **(e)**
 
-(1) A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 6389, 14513, or 14514 of this title or [section 740 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section740&num=0&edition=prelim), is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
+(1) A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 8373, 14513, or 14514 of this title or section 740 22 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, is within two years of qualifying for retirement under section 7311, 8323, or 9311 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
 
 (2) An officer may be retained on active duty or full-time National Guard duty under paragraph (1) only if—
 
-  (A) at the end of the period for which the officer is retained the officer will be qualified for retirement under section 3911, 6323, or 8911 of this title; and
+  (A) at the end of the period for which the officer is retained the officer will be qualified for retirement under section 7311, 8323, or 9311 of this title; and
 
   (B) the officer will not, before the end of that period, reach the age at which transfer from an active status or discharge is required by this title or title 14.
 
@@ -242,7 +250,16 @@ In subsection (e), the words “at the end of that period” are substituted for
 #### 1962 Act
 The change reflects the repeal of section 611 of the Reserve Officer Personnel Act of 1954, ch. 1257 (68 Stat. 1186), formerly [section 1391 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1391&num=0&edition=prelim), and its restatement in [section 787 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section787&num=0&edition=prelim) (see sections 5(2) and 36A of the Act of September 2, 1958, Pub. L. 85–861 (72 Stat. 1547 and 1569)).
 
+#### References in Text
+Chapter 21 of title 14, referred to in subsecs. (a) and (b), was comprised of sections 701 to 713 and 720 to 746 prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 of title 14.
+
 #### Amendments
+2018—Subsecs. (a), (b). Pub. L. 115–232 substituted “chapter 843, 1407, or 1409” for “chapter 573, 1407, or 1409” in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 115–232 substituted “section 8373, 14513, or 14514” for “section 6389, 14513, or 14514” and “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
+
+Subsec. (e)(2)(A). Pub. L. 115–232 substituted “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
+
 1994—Pub. L. 103–337, § 1662(h)(2), renumbered [section 1006 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1006&num=0&edition=prelim) as this section.
 
 Subsecs. (a), (b). Pub. L. 103–337, § 1675(d)(3)(B), substituted “573, 1407, or 1409” for “337, 361, 363, 573, 837, 861, or 863”.
@@ -267,6 +284,12 @@ Subsec. (e). Pub. L. 93–586, § 3(3), substituted “discharge is required by 
 
 1960—Subsec. (e). Pub. L. 86–559 struck out references to sections 3849 and 8849 of this title.
 
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 740 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section740&num=0&edition=prelim) redesignated [section 3751 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3751&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 740 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section740&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 1994 Amendment
 Amendment by sections 1662(h)(2) and 1675(d)(3)(A) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1675(d)(3)(B), (C) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
@@ -277,7 +300,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 <a id="section-12647"></a>
 ## § 12647. Commissioned officers: retention in active status while assigned to Selective Service System or serving as United States property and fiscal officers
 
-Notwithstanding chapters 573, 1407, and 1409 of this title, a reserve commissioned officer, other than a commissioned warrant officer, who is assigned to the Selective Service System or who is a property and fiscal officer appointed, designated, or detailed under [section 708 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section708&num=0&edition=prelim), may be retained in an active status in that assignment or position until he becomes 62 years of age.
+Notwithstanding chapters 843, 1407, and 1409 of this title, a reserve commissioned officer, other than a commissioned warrant officer, who is assigned to the Selective Service System or who is a property and fiscal officer appointed, designated, or detailed under [section 708 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section708&num=0&edition=prelim), may be retained in an active status in that assignment or position until he becomes 62 years of age.
 
 ### Statutory Notes
 
@@ -289,6 +312,8 @@ Notwithstanding chapters 573, 1407, and 1409 of this title, a reserve commission
 The words “this title” are substituted for the words “this chapter”, since the provisions of this title requiring transfer from an active status are based on the source statute for this section (the Reserve Officer Personnel Act of 1954).
 
 #### Amendments
+2018—Pub. L. 115–232 substituted “chapters 843, 1407, and 1409” for “chapters 573, 1407, and 1409”.
+
 2008—Pub. L. 110–417 substituted “62 years” for “60 years”.
 
 1994—Pub. L. 103–337, § 1675(d)(4), substituted “573, 1407, and 1409” for “337, 363, 573, 837, and 863”.
@@ -296,6 +321,9 @@ The words “this title” are substituted for the words “this chapter”, sin
 Pub. L. 103–337, § 1662(h)(2), renumbered [section 1007 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1007&num=0&edition=prelim) as this section.
 
 1960—Pub. L. 86–559 inserted “or serving as United States property and fiscal officers” in section catchline, and inserted provisions in text authorizing retention of reserve commissioned officers who are property and fiscal officers, appointed, designated, or detailed under [section 708 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section708&num=0&edition=prelim).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1994 Amendment
 Amendment by section 1675(d)(4) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

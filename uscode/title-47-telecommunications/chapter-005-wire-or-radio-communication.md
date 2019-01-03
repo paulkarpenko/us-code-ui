@@ -2,7 +2,7 @@
 title: 47
 chapter: '5'
 heading: WIRE OR RADIO COMMUNICATION
-section_count: 228
+section_count: 237
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47&num=0&edition=prelim
 ---
@@ -404,7 +404,7 @@ Pub. L. 104–104, § 3(b), Feb. 8, 1996, 110 Stat. 61, provided that: “Except
 
     (i) The Commission shall have authority to waive, from time to time, the application of the prohibitions established in subparagraph (A) to persons employed by the Commission if the Commission determines that the financial interests of a person which are involved in a particular case are minimal, except that such waiver authority shall be subject to the provisions of [section 208 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section208&num=0&edition=prelim). The waiver authority established in this subparagraph shall not apply with respect to members of the Commission.
 
-    (ii) In any case in which the Commission exercises the waiver authority established in this subparagraph, the Commission shall publish notice of such action in the Federal Register and shall furnish notice of such action to the appropriate committees of each House of the Congress. Each such notice shall include information regarding the identity of the person receiving the waiver, the position held by such person, and the nature of the financial interests which are the subject of the waiver.
+    (ii) In any case in which the Commission exercises the waiver authority established in this subparagraph, the Commission shall publish notice of such action in the Federal Register.
 
 (3) The Commission, in determining whether a company or other entity has a significant interest in communications, manufacturing, or sales activities which are subject to regulation by the Commission, shall consider (without excluding other relevant factors)—
 
@@ -420,7 +420,25 @@ Pub. L. 104–104, § 3(b), Feb. 8, 1996, 110 Stat. 61, provided that: “Except
 
 (5) The maximum number of commissioners who may be members of the same political party shall be a number equal to the least number of commissioners which constitutes a majority of the full membership of the Commission.
 
-**(c) Terms of office; vacancies** commissioners 11 So in original. Probably should be capitalized. shall be appointed for terms of five years and until their successors are appointed and have been confirmed and taken the oath of office, except that they shall not continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office; except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the commissioner whom he succeeds. No vacancy in the Commission shall impair the right of the remaining commissioners to exercise all the powers of the Commission.
+**(c) Terms of office; vacancies**
+
+(1) A commissioner—
+
+  (A) shall be appointed for a term of 5 years;
+
+  (B) except as provided in subparagraph (C), may continue to serve after the expiration of the fixed term of office of the commissioner until a successor is appointed and has been confirmed and taken the oath of office; and
+
+  (C) may not continue to serve after the expiration of the session of Congress that begins after the expiration of the fixed term of office of the commissioner.
+
+(2) Any person chosen to fill a vacancy in the Commission—
+
+  (A) shall be appointed for the unexpired term of the commissioner that the person succeeds;
+
+  (B) except as provided in subparagraph (C), may continue to serve after the expiration of the fixed term of office of the commissioner that the person succeeds until a successor is appointed and has been confirmed and taken the oath of office; and
+
+  (C) may not continue to serve after the expiration of the session of Congress that begins after the expiration of the fixed term of office of the commissioner that the person succeeds.
+
+(3) No vacancy in the Commission shall impair the right of the remaining commissioners to exercise all the powers of the Commission.
 
 **(d) Compensation of Commission members** Each Commissioner shall receive an annual salary at the annual rate payable from time to time for level IV of the Executive Schedule, payable in monthly installments. The Chairman of the Commission, during the period of his service as Chairman, shall receive an annual salary at the annual rate payable from time to time for level III of the Executive Schedule.
 
@@ -499,24 +517,7 @@ Pub. L. 104–104, § 3(b), Feb. 8, 1996, 110 Stat. 61, provided that: “Except
 
 (1) The Commission may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for office supplies, law books, period­icals, and books of reference, for printing and binding, for land for use as sites for radio monitoring stations and related facilities, including living quarters where necessary in remote areas, for the construction of such stations and facilities, and for the improvement, furnishing, equipping, and repairing of such stations and facilities and of laboratories and other related facilities (including construction of minor subsidiary buildings and structures not exceeding $25,000 in any one instance) used in connection with technical research activities), as may be necessary for the execution of the functions vested in the Commission and as may be appropriated for by the Congress in accordance with the authorizations of appropriations established in [section 156 of this title](./chapter-005-wire-or-radio-communication.md#section-156). All expenditures of the Commission, including all necessary expenses for transportation incurred by the commissioners or by their employees, under their orders, in making any investigation or upon any official business in any other places than in the city of Washington, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the chairman of the Commission or by such other member or officer thereof as may be designated by the Commission for that purpose.
 
-(2)
-
-  (A) If—
-
-    (i) the necessary expenses specified in the last sentence of paragraph (1) have been incurred for the purpose of enabling commissioners or employees of the Commission to attend and participate in any convention, conference, or meeting;
-
-    (ii) such attendance and participation are in furtherance of the functions of the Commission; and
-
-    (iii) such attendance and participation are requested by the person sponsoring such convention, conference, or meeting;
-    then the Commission shall have authority to accept direct reimbursement from such sponsor for such necessary expenses.
-
-  (B) The total amount of unreimbursed expenditures made by the Commission for travel for any fiscal year, together with the total amount of reimbursements which the Commission accepts under subparagraph (A) for such fiscal year, shall not exceed the level of travel expenses appropriated to the Commission for such fiscal year.
-
-  (C) The Commission shall submit to the appropriate committees of the Congress, and publish in the Federal Register, quarterly reports specifying reimbursements which the Commission has accepted under this paragraph.
-
-  (D) The provisions of this paragraph shall cease to have any force or effect at the end of fiscal year 1994.
-
-  (E) Funds which are received by the Commission as reimbursements under the provisions of this paragraph after the close of a fiscal year shall remain available for obligation.
+(2) Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(1)(B), Mar. 23, 2018, 132 Stat. 1089.
 
 (3)
 
@@ -534,23 +535,13 @@ Pub. L. 104–104, § 3(b), Feb. 8, 1996, 110 Stat. 61, provided that: “Except
 
 **(j) Conduct of proceedings; hearings** The Commission may conduct its proceedings in such manner as will best conduce to the proper dispatch of business and to the ends of justice. No commissioner shall participate in any hearing or proceeding in which he has a pecuniary interest. Any party may appear before the Commission and be heard in person or by attorney. Every vote and official act of the Commission shall be entered of record, and its proceedings shall be public upon the request of any party interested. The Commission is authorized to withhold publication of records or proceedings containing secret information affecting the national defense.
 
-**(k) Annual reports to Congress** The Commission shall make an annual report to Congress, copies of which shall be distributed as are other reports transmitted to Congress. Such reports shall contain—
+**(k) Record of reports** All reports of investigations made by the Commission shall be entered of record, and a copy thereof shall be furnished to the party who may have complained, and to any common carrier or licensee that may have been complained of.
 
-(1) such information and data collected by the Commission as may be considered of value in the determination of questions connected with the regulation of interstate and foreign wire and radio communication and radio transmission of energy;
+**(l) Publication of reports; admissibility as evidence** The Commission shall provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use, and such authorized publications shall be competent evidence of the reports and decisions of the Commission therein contained in all courts of the United States and of the several States without any further proof or authentication thereof.
 
-(2) such information and data concerning the functioning of the Commission as will be of value to Congress in appraising the amount and character of the work and accomplishments of the Commission and the adequacy of its staff and equipment;
+**(m) Compensation of appointees** Rates of compensation of persons appointed under this section shall be subject to the reduction applicable to officers and employees of the Federal Government generally.
 
-(3) an itemized statement of all funds expended during the preceding year by the Commission, of the sources of such funds, and of the authority in this chapter or elsewhere under which such expenditures were made; and
-
-(4) specific recommendations to Congress as to additional legislation which the Commission deems necessary or desirable, including all legislative proposals submitted for approval to the Director of the Office of Management and Budget.
-
-**(l) Record of reports** All reports of investigations made by the Commission shall be entered of record, and a copy thereof shall be furnished to the party who may have complained, and to any common carrier or licensee that may have been complained of.
-
-**(m) Publication of reports; admissibility as evidence** The Commission shall provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use, and such authorized publications shall be competent evidence of the reports and decisions of the Commission therein contained in all courts of the United States and of the several States without any further proof or authentication thereof.
-
-**(n) Compensation of appointees** Rates of compensation of persons appointed under this section shall be subject to the reduction applicable to officers and employees of the Federal Government generally.
-
-**(o) Use of communications in safety of life and property** For the purpose of obtaining maximum effectiveness from the use of radio and wire communications in connection with safety of life and property, the Commission shall investigate and study all phases of the problem and the best methods of obtaining the cooperation and coordination of these systems.
+**(n) Use of communications in safety of life and property** For the purpose of obtaining maximum effectiveness from the use of radio and wire communications in connection with safety of life and property, the Commission shall investigate and study all phases of the problem and the best methods of obtaining the cooperation and coordination of these systems.
 
 ### Statutory Notes
 
@@ -564,11 +555,27 @@ Part II of subchapter III of this chapter, referred to in subsec. (f)(3), is cla
 Provisions of part III of title 5, referred to in subsec. (f)(4)(E), are classified to section 2101 et seq. of Title 5, Government Organization and Employees.
 
 #### Codification
-In subsec. (f)(1), (2) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (f)(1), (2), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 In subsec. (f)(4)(E), “[section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim)” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section665/b&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+2018—Subsec. (b)(2)(B)(ii). Pub. L. 115–141, § 402(i)(1)(A), struck out before period at end “and shall furnish notice of such action to the appropriate committees of each House of the Congress. Each such notice shall include information regarding the identity of the person receiving the waiver, the position held by such person, and the nature of the financial interests which are the subject of the waiver”.
+
+Subsec. (c). Pub. L. 115–141, § 509, amended subsec. (c) generally. Prior to amendment, text read as follows: “commissioners shall be appointed for terms of five years and until their successors are appointed and have been confirmed and taken the oath of office, except that they shall not continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office; except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the commissioner whom he succeeds. No vacancy in the Commission shall impair the right of the remaining commissioners to exercise all the powers of the Commission.”
+
+Subsec. (g)(2). Pub. L. 115–141, § 402(i)(1)(B), struck out par. (2), which related to reimbursements to the Commission for necessary travel expenses.
+
+Subsecs. (k) to (o). Pub. L. 115–141, § 402(h)(1), redesignated subsecs. (l) to (o) as (k) to (n), respectively, and struck out former subsec. (k). Prior to amendment, text of subsec. (k) read as follows: “The Commission shall make an annual report to Congress, copies of which shall be distributed as are other reports transmitted to Congress. Such reports shall contain—
+
+“(1) such information and data collected by the Commission as may be considered of value in the determination of questions connected with the regulation of interstate and foreign wire and radio communication and radio transmission of energy;
+
+“(2) such information and data concerning the functioning of the Commission as will be of value to Congress in appraising the amount and character of the work and accomplishments of the Commission and the adequacy of its staff and equipment;
+
+“(3) an itemized statement of all funds expended during the preceding year by the Commission, of the sources of such funds, and of the authority in this chapter or elsewhere under which such expenditures were made; and
+
+“(4) specific recommendations to Congress as to additional legislation which the Commission deems necessary or desirable, including all legislative proposals submitted for approval to the Director of the Office of Management and Budget.”
+
 1996—Subsec. (f)(3). Pub. L. 104–104, § 403(b), inserted before period at end “: and Provided further, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph”.
 
 Subsec. (f)(4)(A). Pub. L. 104–104, § 403(a)(1), in first sentence, inserted “or administering” after “for purposes of preparing”, “of” after “than the class”, and “or administered” after “being prepared”.
@@ -674,6 +681,12 @@ For termination, effective May 15, 2000, of provisions in subsecs. (g)(2)(C) and
 #### Transfer of Functions
 All offices of collector of customs, referred to in subsec. (f)(3), in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
+#### Effect on Authority of Federal Communications Commission
+Pub. L. 115–141, div. P, title IV, § 403, Mar. 23, 2018, 132 Stat. 1090, provided that: “Nothing in this title [see Tables for classification] or the amendments made by this title shall be construed to expand or contract the authority of the Commission [Federal Communications Commission].”
+
+#### Additional Reports
+Pub. L. 115–141, div. P, title IV, § 404, Mar. 23, 2018, 132 Stat. 1090, provided that: “Nothing in this title [see Tables for classification] or the amendments made by this title shall be construed to prohibit or otherwise prevent the Commission from producing any additional reports otherwise within the authority of the Commission [Federal Communications Commission].”
+
 #### Older Americans Program
 Section 6 of Pub. L. 100–594, as amended by Pub. L. 101–396, § 5, Sept. 28, 1990, 104 Stat. 849; Pub. L. 102–538, title II, § 212, Oct. 27, 1992, 106 Stat. 3545, provided that: “(a) During fiscal years 1992 and 1993, the Federal Communications Commission is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 ([42 U.S.C. 3056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056&num=0&edition=prelim) et seq.) to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Commission (and consistent with such provisions of law) in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the regulations of the Commission. “(b) Prior to awarding any grant or entering into any agreement under subsection (a), the Office of the Managing Director of the Commission shall certify to the Commission that such grant or agreement will not—“(1) result in the displacement of individuals currently employed by the Commission; “(2) result in the employment of any individual when any other individual is on layoff status from the same or a substantially equivalent job within the jurisdiction of the Commission; or “(3) affect existing contracts for services. “(c) Participants in any program under a grant or cooperative agreement pursuant to this section shall—“(1) execute a signed statement with the Commission in which such participants certify that they will adhere to the standards of conduct prescribed for regular employees of the Commission, as set forth in part 19 of title 47, Code of Federal Regulations; and “(2) execute a confidential statement of employment and financial interest (Federal Communications Commission Form A–54) prior to commencement of work under the program. Failure to comply with the terms of the signed statement described in paragraph (1) shall result in termination of the individual under the grant or agreement. “(d) Nothing in this section shall be construed to permit employment of any such participant in any decisionmaking or policymaking position. “(e) Grants or agreements under this section shall be subject to prior appropriation Acts.”
 
@@ -761,22 +774,38 @@ Subsec. (d)(9). Pub. L. 87–192, § 2, redesignated former par. (3) as (9) and 
 1952—Act July 16, 1952, amended section generally to provide for the organization of the staff, integrated bureaus, and for a review staff.
 
 
-<a id="section-156"></a>
-## § 156. Authorization of appropriations
-**(a)** There are authorized to be appropriated for the administration of this chapter by the Commission $109,831,000 for fiscal year 1990 and $119,831,000 for fiscal year 1991, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1990 and 1991.
+<a id="section-155a"></a>
+## § 155a. Authority of Chief Information Officer
+**(a) In general** The Commission shall ensure that the Chief Information Officer of the Commission has a significant role in—
 
-**(b)** In addition to the amounts authorized to be appropriated under this section, not more than 4 percent of the amount of any fees or other charges payable to the United States which are collected by the Commission during fiscal year 1990 are authorized to be made available to the Commission until expended to defray the fully distributed costs of such fees collection.
+(1) the decision-making process for annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports related to information technology;
 
-**(c)** Of the amounts appropriated pursuant to subsection (a) for fiscal year 1991, such sums as may be necessary not to exceed $2,000,000 shall be expended for upgrading and modernizing equipment at the Commission’s electronic emissions test laboratory located in Laurel, Maryland.
+(2) the management, governance, and oversight processes related to information technology; and
 
-**(d)** Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under [section 159(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section159/b&num=0&edition=prelim), shall be derived from fees authorized by [section 159 of this title](./chapter-005-wire-or-radio-communication.md#section-159).
+(3) the hiring of personnel with information technology responsibilities.
+
+**(b) CIO approval** The Chief Information Officer of the Commission, in consultation with the Chief Financial Officer of the Commission and budget officials, shall specify and approve the allocation of amounts appropriated to the Commission for information technology, consistent with the provisions of appropriations Acts, budget guidelines, and recommendations from the Director of the Office of Management and Budget.
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+#### Codification
+Section was enacted as part of the Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018, also known as the RAY BAUM’S Act of 2018, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### Definition
+Pub. L. 115–141, div. P, § 2, Mar. 23, 2018, 132 Stat. 1081, provided that: “In this division [see Short Title of 2018 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)], the term ‘Commission’ means the Federal Communications Commission.”
+
+
+<a id="section-156"></a>
+## § 156. Authorization of appropriations
+**(a) Authorization** There are authorized to be appropriated to the Commission to carry out the functions of the Commission $333,118,000 for fiscal year 2019 and $339,610,000 for fiscal year 2020.
+
+**(b) Offsetting collections** The sum appropriated in any fiscal year to carry out the activities described in subsection (a), to the extent and in the amounts provided for in Appropriations Acts, shall be derived from fees authorized by [section 159 of this title](./chapter-005-wire-or-radio-communication.md#section-159).
+
+### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–141 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 1990 and 1991.
+
 1993—Subsec. (d). Pub. L. 103–66 added subsec. (d).
 
 1990—Pub. L. 101–396 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for the administration of this chapter by the Commission $107,250,000 for fiscal year 1988 and $109,250,000 for fiscal year 1989, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1988 and 1989.”
@@ -786,6 +815,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 1986—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for the administration of this chapter by the Commission $91,156,000, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1984 and 1985.”
 
 1983—Pub. L. 98–214 substituted provisions authorizing appropriations of $91,156,000 for each of the fiscal years 1984 and 1985 for provisions authorizing appropriations of $76,900,000 for each of the fiscal years 1982 and 1983.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–141, div. P, title I, § 103, Mar. 23, 2018, 132 Stat. 1086, provided that: “This title [enacting [section 159a of this title](./chapter-005-wire-or-radio-communication.md#section-159a), amending this section and sections 158, 159, and 309 of this title, enacting provisions set out as notes under sections 158 and 159 of this title, and repealing provisions set out as a note under this section] and the amendments made by this title shall take effect on October 1, 2018.”
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–594, § 2(b), Nov. 3, 1988, 102 Stat. 3021, provided that: “The amendment made by subsection (a) of this section [amending this section] shall apply with respect to fiscal years beginning after September 30, 1987.”
@@ -797,7 +829,7 @@ Pub. L. 99–272, title V, § 5002(a)(2), Apr. 7, 1986, 100 Stat. 118, provided 
 Pub. L. 98–214, § 2(b), Dec. 8, 1983, 97 Stat. 1467, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning after September 30, 1983.”
 
 #### Authorization of Appropriations
-Pub. L. 104–104, title VII, § 710(a), (b), Feb. 8, 1996, 110 Stat. 160, provided that: “(a) In General.—In addition to any other sums authorized by law, there are authorized to be appropriated to the Federal Communications Commission such sums as may be necessary to carry out this Act [see Short Title of 1996 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)] and the amendments made by this Act. “(b) Effect on Fees.—For the purposes of section 9(b)(2) ([47 U.S.C. 159(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section159/b/2&num=0&edition=prelim)), additional amounts appropriated pursuant to subsection (a) shall be construed to be changes in the amounts appropriated for the performance of activities described in section 9(a) of the Communications Act of 1934 [[47 U.S.C. 159(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section159/a&num=0&edition=prelim)].”
+Pub. L. 104–104, title VII, § 710(a), (b), Feb. 8, 1996, 110 Stat. 160, which authorized additional appropriations to the Federal Communications Commission, was repealed by Pub. L. 115–141, div. P, title I, § 101(c)(1), Mar. 23, 2018, 132 Stat. 1082.
 
 
 <a id="section-157"></a>
@@ -820,40 +852,49 @@ Pub. L. 104–104, title VII, § 706, Feb. 8, 1996, 110 Stat. 153, as amended by
 
 <a id="section-158"></a>
 ## § 158. Application fees
-**(a) Assessment and collection** The Commission shall assess and collect application fees at such rates as the Commission shall establish or at such modified rates as it shall establish pursuant to the provisions of subsection (b) of this section.
+**(a) General authority; establishment of schedule** The Commission shall assess and collect application fees at such rates as the Commission shall establish in a schedule of application fees to recover the costs of the Commission to process applications.
 
-**(b) Review and adjustment of Schedule by Commission; notification to Congress; judicial review**
+**(b) Adjustment of schedule**
 
-(1) The Schedule of Application Fees established under this section shall be reviewed by the Commission every two years after October 1, 1991, and adjusted by the Commission to reflect changes in the Consumer Price Index. Increases or decreases in application fees shall apply to all categories of application fees, except that individual fees shall not be adjusted until the increase or decrease, as determined by the net change in the Consumer Price Index since April 7, 1986, amounts to at least $5.00 in the case of fees under $100.00, or 5 percent in the case of fees of $100.00 or more. All fees which require adjustment will be rounded upward to the next $5.00 increment. The Commission shall transmit to the Congress notification of any such adjustment not later than 90 days before the effective date of such adjustment.
+(1) **In general** — In every even-numbered year, the Commission shall review the schedule of application fees established under this section and, except as provided in paragraph (2), set a new amount for each fee in the schedule that is equal to the amount of the fee on the date when the fee was established or the date when the fee was last amended under subsection (c), whichever is later—
 
-(2) Increases or decreases in application fees made pursuant to this subsection shall not be subject to judicial review.
+  (A) increased or decreased by the percentage change in the Consumer Price Index during the period beginning on such date and ending on the date of the review; and
 
-**(c) Additional application fee; assessment as penalty; amount; dismissal of application or other filing**
+  (B) rounded to the nearest $5 increment.
 
-(1) The Commission shall prescribe by regulation an additional application fee which shall be assessed as a penalty for late payment of application fees required by subsection (a) of this section. Such penalty shall be 25 percent of the amount of the application fee which was not paid in a timely manner.
+(2) **Threshold for adjustment** — The Commission may not adjust a fee under paragraph (1) if—
 
-(2) The Commission may dismiss any application or other filing for failure to pay in a timely manner any application fee or penalty under this section.
+  (A) in the case of a fee the current amount of which is less than $200, the adjustment would result in a change in the current amount of less than $10; or
 
-**(d) Inapplicability of application fees to certain radio services; waiver or deferment of payment**
+  (B) in the case of a fee the current amount of which is $200 or more, the adjustment would result in a change in the current amount of less than 5 percent.
 
-(1) The application fees established under this section shall not be applicable (A) to governmental entities and nonprofit entities licensed in the following radio services: Local Government, Police, Fire, Highway Maintenance, Forestry-Conservation, Public Safety, and Special Emergency Radio, or (B) to governmental entities licensed in other services.
+(3) **Current amount defined** — In paragraph (2), the term “current amount” means, with respect to a fee, the amount of the fee on the date when the fee was established, the date when the fee was last adjusted under paragraph (1), or the date when the fee was last amended under subsection (c), whichever is latest.
 
-(2) The Commission may waive or defer payment of an charge 11 So in original. Probably should be “an application fee”. in any specific instance for good cause shown, where such action would promote the public interest.
+**(c) Amendments to schedule** In addition to the adjustments required by subsection (b), the Commission shall by rule amend the schedule of application fees established under this section if the Commission determines that the schedule requires amendment—
 
-**(e) Deposit of moneys in general fund; reimbursement of United States for administration of chapter** Moneys received from application fees established under this section shall be deposited in the general fund of the Treasury to reimburse the United States for amounts appropriated for use by the Commission in carrying out its functions under this chapter.
+(1) so that such fees reflect increases or decreases in the costs of processing applications at the Commission; or
 
-**(f) Rules and regulations** The Commission shall prescribe appropriate rules and regulations to carry out the provisions of this section.
+(2) so that such schedule reflects the consolidation or addition of new categories of applications.
 
-**(g) Schedule of Application Fees** Until modified pursuant to subsection (b) of this section, the Schedule of Application Fees which the Federal Communications Commission shall prescribe pursuant to subsection (a) of this section shall be as follows: SCHEDULE OF APPLICATION FEES ServiceFee amount private radio services 1. Marine Coast Stations a. New License (per station)$70.00 b. Modification of License (per station)70.00 c. Renewal of License (per station)70.00 d. Special Temporary Authority (Initial, Modifications, Extensions)100.00 e. Assignments (per station)70.00 f. Transfers of Control (per station)35.00 g. Request for Waiver (i) Routine (per request)105.00 (ii) Non-Routine (per rule section/per station)105.00 2. Ship Stations a. New License (per application)35.00 b. Modification of License (per application)35.00 c. Renewal of License (per application)35.00 d. Request for Waiver (i) Routine (per request)105.00 (ii) Non-Routine (per rule section/per station)105.00 3. Operational Fixed Microwave Stations a. New License (per station)155.00 b. Modification of License (per station)155.00 c. Renewal of License (per station)155.00 d. Special Temporary Authority (Initial, Modifications, Extensions)35.00 e. Assignments (per station)155.00 f. Transfers of Control (per station)35.00 g. Request for Waiver (i) Routine (per request)105.00 (ii) Non-Routine (per rule section/per station)105.00 4. Aviation (Ground Stations) a. New License (per station)70.00 b. Modification of License (per station)70.00 c. Renewal of License (per station)70.00 d. Special Temporary Authority (Initial, Modifications, Extensions)100.00 e. Assignments (per station)70.00 f. Transfers of Control (per station)35.00 g. Request for Waiver (i) Routine (per request)105.00 (ii) Non-Routine (per rule section/per station)105.00 5. Aircraft Stations a. New License (per application)35.00 b. Modification of License (per application)35.00 c. Renewal of License (per application)35.00 d. Request for Waiver (i) Routine (per request)105.00 (ii) Non-Routine (per rule section/per station)105.00 6. Land Mobile Radio Stations (including Special Emergency and Public Safety Stations) a. New License (per call sign)35.00 b. Modification of License (per call sign)35.00 c. Renewal of License (per call sign)35.00 d. Special Temporary Authority (Initial, Modifications, Extensions)35.00 e. Assignments (per station)35.00 f. Transfers of Control (per call sign)35.00 g. Request for Waiver (i) Routine (per request)105.00 (ii) Non-Routine (per rule section/per station)105.00 h. Reinstatement (per call sign)35.00 i. Specialized Mobile Radio Systems-Base Stations (i) New License (per call sign)35.00 (ii) Modification of License (per call sign)35.00 (iii) Renewal of License (per call sign)35.00 (iv) Waiting List (annual application fee per application)35.00 (v) Special Temporary Authority (Initial, Modifications, Extensions)35.00 (vi) Assignments (per call sign)35.00 (vii) Transfers of Control (per call sign)35.00 (viii) Request for Waiver (1) Routine (per request)105.00 (2) Non-Routine (per rule section/per station)105.00 (ix) Reinstatements (per call sign)35.00 j. Private Carrier Licenses (i) New License (per call sign)35.00 (ii) Modification of License (per call sign)35.00 (iii) Renewal of License (per call sign)35.00 (iv) Special Temporary Authority (Initial, Modifications, Extensions)35.00 (v) Assignments (per call sign)35.00 (vi) Transfers of Control (per call sign)35.00 (vii) Request for Waiver (1) Routine (per request)105.00 (2) Non-Routine (per rule section/per station)105.00 (viii) Reinstatements (per call sign)35.00 7. General Mobile Radio Service a. New License (per call sign)35.00 b. Modifications of License (per call sign)35.00 c. Renewal of License (per call sign)35.00 d. Request for Waiver (i) Routine (per request)105.00 (ii) Non-Routine (per rule section/per station)105.00 e. Special Temporary Authority (Initial, Modifications, Extensions)35.00 f. Transfer of control (per call sign)35.00 8. Restricted Radiotelephone Operator Permit35.00 9. Request for Duplicate Station License (all services)35.00 10. Hearing (Comparative, New, and Modifications)6,760.00 equipment approval services/experimental radio 1. Certification a. Receivers (except TV and FM receivers)285.00 b. All Other Devices735.00 c. Modifications and Class II Permissive Changes35.00 d. Request for Confidentiality105.00 2. Type Acceptance a. All Devices370.00 b. Modifications and Class II Permissive Changes35.00 c. Request for Confidentiality105.00 3. Type Approval (all devices) a. With Testing (including Major Modifications)1,465.00 b. Without Testing (including Minor Modifications)170.00 c. Request for Confidentiality105.00 4. Notifications115.00 5. Advance Approval for Subscription TV System2,255.00 a. Request for Confidentiality105.00 6. Assignment of Grantee Code for Equipment Identification35.00 7. Experimental Radio Service a. New Construction Permit and Station Authorization (per application)35.00 b. Modification to Existing Construction Permit and Station Authorization (per application)35.00 c. Renewal of Station Authorization (per application)35.00 d. Assignment or Transfer of Control (per application)35.00 e. Special Temporary Authority (per application)35.00 f. Additional Application Fee for Applications Containing Requests to Withhold Information From Public Inspection (per application)35.00 mass media services 1. Commercial TV Stations a. New or Major Change Construction Permits2,535.00 b. Minor Change565.00 c. Hearing (Major/Minor Change, Comparative New, or Comparative Renewal)6,760.00 d. License170.00 e. Assignment or Transfer (i) Long Form (Forms 314/315)565.00 (ii) Short Form (Form 316)80.00 f. Renewal100.00 g. Call Sign (New or Modification)55.00 h. Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 i. Extension of Time to Construct or Replacement of CP200.00 j. Permit to Deliver Programs to Foreign Broadcast Stations55.00 k. Petition for Rulemaking for New Community of License1,565.00 l. Ownership Report (per report)35.00 2. Commercial Radio Stations a. New and Major Change Construction Permit (i) AM Station2,255.00 (ii) FM Station2,030.00 b. Minor Change (i) AM Station565.00 (ii) FM Station565.00 c. Hearing (Major/Minor Change, Comparative New, or Comparative Renewal)6,760.00 d. License (i) AM370.00 (ii) FM115.00 (iii) AM Directional Antenna425.00 (iv) FM Directional Antenna355.00 (v) AM Remote Control35.00 e. Assignment or Transfer (i) Long Form (Forms 314/315)565.00 (ii) Short Form (Form 316)80.00 f. Renewal100.00 g. Call Sign (New or Modification)55.00 h. Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 i. Extension of Time to Construct or Replacement of CP200.00 j. Permit to Deliver Programs to Foreign Broadcast Stations55.00 k. Petition for Rulemaking for New Community of License or Higher Class Channel1,565.00 l. Ownership Report (per report)35.00 3. FM Translators a. New or Major Change Construction Permit425.00 b. License85.00 c. Assignment or Transfer80.00 d. Renewal35.00 e. Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 4. TV Translators and LPTV Stations a. New or Major Change Construction Permit425.00 b. License85.00 c. Assignment or Transfer80.00 d. Renewal35.00 e. Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 5. Auxiliary Services (Includes Remote Pickup stations, TV Auxiliary Broadcast stations, Aural Broadcast STL and Intercity Relay stations, and Low Power Auxiliary stations) a. Major Actions85.00 b. Renewals35.00 c. Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 6. FM/TV Boosters a. New and Major Change Construction Permits425.00 b. License85.00 c. Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 7. International Broadcast Station a. New Construction Permit and Facilities Change CP1,705.00 b. License385.00 c. Assignment or Transfer (per station)60.00 d. Renewal95.00 e. Frequency Assignment and Coordination (per frequency hour)35.00 f. Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 8. Cable Television Service a. Cable Television Relay Service (i) Construction Permit155.00 (ii) Assignment or Transfer155.00 (iii) Renewal155.00 (iv) Modification155.00 (v) Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 b. Cable Special Relief Petition790.00 c. 76.12 Registration Statement (per statement)35.00 d. Aeronautical Frequency Usage Notifications (per notice)35.00 e. Aeronautical Frequency Usage Waivers (per waiver)35.00 9. Direct Broadcast Satellite a. New or Major Change Construction Permit (i) Application for Authorization to Construct a Direct Broadcast Satellite2,030.00 (ii) Issuance of Construction Permit & Launch Authority19,710.00 (iii) License to Operate Satellite565.00 b. Hearing (Comparative New, Major/Minor Modifications, or Comparative Renewal)6,760.00 c. Special Temporary Authority (other than to remain silent or extend an existing STA to remain silent)100.00 common carrier services 1. All Common Carrier Services a. Hearing (Comparative New or Major/Minor Modifications)6,760.00 b. Development Authority … Same application fee as regular authority in service unless otherwise indicated c. Formal Complaints and Pole Attachment Complaints Filing Fee120.00 d. Proceeding under [section 1008(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1008/b&num=0&edition=prelim)5,000 2. Domestic Public Land Mobile Stations (includes Base, Dispatch, Control & Repeater Stations) a. New or Additional Facility (per transmitter)230.00 b. Major Modifications (per transmitter)230.00 c. Fill In Transmitters (per transmitter)230.00 d. Major Amendment to a Pending Application (per transmitter)230.00 e. Assignment or Transfer (i) First Call Sign on Application230.00 (ii) Each Additional Call Sign35.00 f. Partial Assignment (per call sign)230.00 g. Renewal (per call sign)35.00 h. Minor Modification (per transmitter)35.00 i. Special Temporary Authority (per frequency/per location)200.00 j. Extension of Time to Construct (per application)35.00 k. Notice of Completion of Construction (per application)35.00 l. Auxiliary Test Station (per transmitter)200.00 m. Subsidiary Communications Service (per request)100.00 n. Reinstatement (per application)35.00 o. Combining Call Signs (per call sign)200.00 p. Standby Transmitter (per transmitter/per location)200.00 q. 900 MHz Nationwide Paging (i) Renewal (1) Network Organizer35.00 (2) Network Operator (per operator/per city)35.00 r. Air-Ground Individual License (per station) (i) Initial License35.00 (ii) Renewal of License35.00 (iii) Modification of License35.00 3. Cellular Systems (per system) a. New or Additional Facilities230.00 b. Major Modification230.00 c. Minor Modification60.00 d. Assignment or Transfer (including partial)230.00 e. License to Cover Construction (i) Initial License for Wireline Carrier595.00 (ii) Subsequent License for Wireline Carrier60.00 (iii) License for Nonwireline Carrier60.00 (iv) Fill In License (all carriers)60.00 f. Renewal35.00 g. Extension of Time to Complete Construction35.00 h. Special Temporary Authority (per system)200.00 i. Combining Cellular Geographic Service Areas (per system)50.00 4. Rural Radio (includes Central Office, Interoffice, or Relay Facilities) a. New or Additional Facility (per transmitter)105.00 b. Major Modification (per transmitter)105.00 c. Major Amendment to Pending Application (per transmitter)105.00 d. Minor Modification (per transmitter)35.00 e. Assignments or Transfers (i) First Call Sign on Application105.00 (ii) Each Additional Call Sign35.00 (iii) Partial Assignment (per call sign)105.00 f. Renewal (per call sign)35.00 g. Extension of Time to Complete Construction (per application)35.00 h. Notice of Completion of Construction (per application)35.00 i. Special Temporary Authority (per frequency/per location)200.00 j. Reinstatement (per application)35.00 k. Combining Call Signs (per call sign)200.00 l. Auxiliary Test Station (per transmitter)200.00 m. Standby Transmitter (per transmitter/per location)200.00 5. Offshore Radio Service (Mobile, Subscriber, and Central Stations; fees would also apply to any expansion of this service into coastal waters other than the Gulf of Mexico) a. New or Additional Facility (per transmitter)105.00 b. Major Modifications (per transmitter)105.00 c. Fill In Transmitters (per transmitter)105.00 d. Major Amendment to Pending Application (per transmitter)105.00 e. Minor Modification (per transmitter)35.00 f. Assignment or Transfer (i) Each Additional Call Sign35.00 (ii) Partial Assignment (per call sign)105.00 g. Renewal (per call sign)35.00 h. Extension of Time to Complete Construction (per application)35.00 i. Reinstatement (per application)35.00 j. Notice of Completion of Construction (per application)35.00 k. Special Temporary Authority (per frequency/per location)200.00 l. Combining Call Signs (per call sign)200.00 m. Auxiliary Test Station (per transmitter)200.00 n. Standby Transmitter (per transmitter/per location)200.00 6. Point-to-Point Microwave and Local Television Radio Service a. Conditional License (per station)155.00 b. Major Modification of Conditional License or License Authorization (per station)155.00 c. Certification of Completion of Construction (per station)155.00 d. Renewal (per licensed station)155.00 e. Assignment or Transfer (i) First Station on Application55.00 (ii) Each Additional Station35.00 f. Extension of Construction Authorization (per station)55.00 g. Special Temporary Authority or Request for Waiver of Prior Construction Authorization (per request)70.00 7. Multipoint Distribution Service (including multichannel MDS) a. Conditional License (per station)155.00 b. Major Modification of Conditional License or License Authorization (per station)155.00 c. Certification of Completion of Construction (per channel)455.00 d. Renewal (per licensed station)155.00 e. Assignment or Transfer (i) First Station on Application55.00 (ii) Each Additional Station35.00 f. Extension of Construction Authorization (per station)110.00 g. Special Temporary Authority or Request for Waiver of Prior Construction Authorization (per request)70.00 8. Digital Electronic Message Service a. Conditional License (per nodal station)155.00 b. Modification of Conditional License or License Authorization (per nodal station)155.00 c. Certification of Completion of Construction (per nodal station)155.00 d. Renewal (per licensed nodal station)155.00 e. Assignment or Transfer (i) First Station on Application55.00 (ii) Each Additional Station35.00 f. Extension of Construction Authorization (per station)55.00 g. Special Temporary Authority or Request for Waiver of Prior Construction Authorization (per request)70.00 9. International Fixed Public Radio (Public and Control Stations) a. Initial Construction Permit (per station)510.00 b. Assignment or Transfer (per application)510.00 c. Renewal (per license)370.00 d. Modification (per station)370.00 e. Extension of Construction Authorization (per station)185.00 f. Special Temporary Authority or Request for Waiver (per request)185.00 10. Fixed Satellite Transmit/Receive Earth Stations a. Initial Application (per station)1,525.00 b. Modification of License (per station)105.00 c. Assignment or Transfer (i) First Station on Application300.00 (ii) Each Additional Station100.00 d. Developmental Station (per station)1,000.00 e. Renewal of License (per station)105.00 f. Special Temporary Authority or Waivers of Prior Construction Authorization (per request)105.00 g. Amendment of Application (per station)105.00 h. Extension of Construction Permit (per station)105.00 11. Small Transmit/Receive Earth Stations (2 meters or less and operating in the 4/6 GHz frequency band) a. Lead Application3,380.00 b. Routine Application (per station)35.00 c. Modification of License (per station)105.00 d. Assignment or Transfer (i) First Station on Application300.00 (ii) Each Additional Station35.00 e. Developmental Station (per station)1,000.00 f. Renewal of License (per station)105.00 g. Special Temporary Authority or Waivers of Prior Construction Authorization (per request)105.00 h. Amendment of Application (per station)105.00 i. Extension of Construction Permit (per station)105.00 12. Receive Only Earth Stations a. Initial Application for Registration230.00 b. Modification of License or Registration (per station)105.00 c. Assignment or Transfer (i) First Station on Application300.00 (ii) Each Additional Station100.00 d. Renewal of License (per station)105.00 e. Amendment of Application (per station)105.00 f. Extension of Construction Permit (per station)105.00 g. Waivers (per request)105.00 13. Very Small Aperture Terminal (VSAT) Systems a. Initial Application (per system)5,630.00 b. Modification of License (per system)105.00 c. Assignment or Transfer of System1,505.00 d. Developmental Station1,000.00 e. Renewal of License (per system)105.00 f. Special Temporary Authority or Waivers of Prior Construction Authorization (per request)105.00 g. Amendment of Application (per system)105.00 h. Extension of Construction Permit (per system)105.00 14. Mobile Satellite Earth Stations a. Initial Application of Blanket Authorization5,630.00 b. Initial Application for Individual Earth Station1,350.00 c. Modification of License (per system)105.00 d. Assignment or Transfer (per system)1,505.00 e. Developmental Station1,000.00 f. Renewal of License (per system)105.00 g. Special Temporary Authority or Waivers of Prior Construction Authorization (per request)105.00 h. Amendment of Application (per system)105.00 i. Extension of Construction Permit (per system)105.00 15. Radio determination Satellite Earth Stations a. Initial Application of Blanket Authorization5,630.00 b. Initial Application for Individual Earth Station1,350.00 c. Modification of License (per system)105.00 d. Assignment or Transfer (per system)1,505.00 e. Developmental Station1,000.00 f. Renewal of License (per system)105.00 g. Special Temporary Authority or Waivers of Prior Construction Authorization (per request)105.00 h. Amendment of Application (per system)105.00 i. Extension of Construction Permit (per system)105.00 16. Space Stations a. Application for Authority to Construct2,030.00 b. Application for Authority to Launch & Operate (i) Initial Application70,000.00 (ii) Replacement Satellite70,000.00 c. Assignment or Transfer (per satellite)5,000.00 d. Modification5,000.00 e. Special Temporary Authority or Waiver of Prior Construction Authorization (per request)500.00 f. Amendment of Application1,000.00 g. Extension of Construction Permit/Launch Authorization (per request)500.00 17. Section 214 Applications a. Overseas Cable Construction9,125.00 b. Cable Landing License (i) Common Carrier1,025.00 (ii) Non-Common Carrier10,150.00 c. Domestic Cable Construction610.00 d. All Other 214 Applications610.00 e. Special Temporary Authority (all services)610.00 f. Assignments or Transfers (all services)610.00 18. Recognized Private Operating Status (per application)610.00 19. Telephone Equipment Registration155.00 20. Tariff Filings a. Filing Fee490.00 b. Special Permission Filing (per filing)490.00 21. Accounting and Audits a. Field Audit62,290.00 b. Review of Attest Audit34,000.00 c. Review of Depreciation Update Study (Single State)20,685.00 (i) Each Additional State680.00 d. Interpretation of Accounting Rules (per request)2,885.00 e. Petition for Waiver (per petition)4,660.00 22. Low-Earth Orbit Satellite Systems a. Application for Authority to Construct (per system of technology identical satellites)6,000.00 b. Application for Authority to Launch and Operate (per system of technologically identical satellites)210,000.00 c. Assignment or Transfer (per request)6,000.00 d. Modification (per request)15,000.00 e. Special Temporary Authority or Waiver of Prior Construction Authorization (per request)1,500.00 f. Amendment of Application (per request)3,000.00 g. Extension of Construction Permit/Launch Authorization (per request)1,500.00 miscellaneous application fees 1. International Telecommunications Settlements Administrative Fee for Collections (per line item)2.00 2. Radio Operator Examinations a. Commercial Radio Operator Examination35.00 b. Renewal of Commercial Radio Operator License, Permit, or Certificate35.00 c. Duplicate or Replacement Commercial Radio Operator License, Permit, or Certificate35.00 3. Ship Inspections a. Inspection of Oceangoing Vessels Under Title III, Part II of the Communications Act (per inspection)620.00 b. Inspection of Passenger Vessels Under Title III, Part III of the Communications Act (per inspection)320.00 c. Inspection of Vessels Under the Great Lakes Agreement (per inspection)75.00 d. Inspection of Foreign Vessels Under the Safety of Life at Sea (SOLAS) Convention (per inspection)540.00 e. Temporary Waiver for Compulsorily Equipped Vessel60.00
+**(d) Exceptions**
+
+(1) **Parties to which fees are not applicable** — The application fees established under this section shall not be applicable to—
+
+  (A) a governmental entity;
+
+  (B) a nonprofit entity licensed in the Local Government, Police, Fire, Highway Maintenance, Forestry-Conservation, Public Safety, or Special Emergency Radio radio services; or
+
+  (C) a noncommercial radio station or noncommercial television station.
+
+(2) **Cost of collection** — If, in the judgment of the Commission, the cost of collecting an application fee established under this section would exceed the amount collected, the Commission may by rule eliminate such fee.
+
+**(e) Deposit of collections** Moneys received from application fees established under this section shall be deposited in the general fund of the Treasury.
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in subsec. (e), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
-
-Parts II and III of title III of the Communications Act, referred to in subsec. (g), mean parts II and III of title III of the Communications Act of 1934 which are classified to parts II (§ 351 et seq.) and III (§ 381 et seq.), respectively, of subchapter III of this chapter.
-
 #### Amendments
+2018—Pub. L. 115–141 amended section generally. Prior to amendment, section related to application fees.
+
 1994—Subsec. (d)(2). Pub. L. 103–414, § 303(a)(3), substituted “payment of an” for “payment of a”.
 
 Subsec. (g). Pub. L. 103–414, § 303(a)(4), substituted “Additional Application Fee” for “Additional Charge” in item 7.f. under heading “equipment approval services/experimental radio” in Schedule of Application Fees.
@@ -880,8 +921,14 @@ Subsec. (g). Pub. L. 101–239, § 3001(a), added subsec. (g).
 
 1988—Subsec. (b)(1). Pub. L. 100–594 substituted “two years after April 1, 1987,” for “two years after April 7, 1986,”.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective Oct. 1, 2018, see section 103 of div. P of Pub. L. 115–141, set out as a note under [section 156 of this title](./chapter-005-wire-or-radio-communication.md#section-156).
+
 #### Effective Date of 1989 Amendment
 Pub. L. 101–239, title III, § 3001(c), Dec. 19, 1989, 103 Stat. 2131, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 19, 1989], and the Schedule of Charges required by the amendment made by subsection (a) of this section shall be implemented not later than 150 days after the date of enactment of this Act.”
+
+#### Transitional Rules for Application Fees
+Pub. L. 115–141, div. P, title I, § 102(d)(1), Mar. 23, 2018, 132 Stat. 1085, provided that: “An application fee established under section 8 of the Communications Act of 1934 [[47 U.S.C. 158](./chapter-005-wire-or-radio-communication.md#section-158)], as such section is in effect on the day before the effective date described in [section 103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section103&num=0&edition=prelim) [Oct. 1, 2018], shall remain in effect under section 8 of the Communications Act of 1934, as amended by subsection (a) of this section, until such time as the Commission [Federal Communications Commission] adjusts or amends such fee under subsection (b) or (c) of such section 8, as so amended.”
 
 #### Schedule of Charges
 Section 5002(f) of Pub. L. 99–272 established the Schedule of Charges which the Federal Communications Commission is required to prescribe pursuant to subsec. (a) of this section. See subsec. (g) of this section as added by Pub. L. 101–239.
@@ -889,69 +936,111 @@ Section 5002(f) of Pub. L. 99–272 established the Schedule of Charges which th
 
 <a id="section-159"></a>
 ## § 159. Regulatory fees
-**(a) General authority**
+**(a) General authority** The Commission shall assess and collect regulatory fees to recover the costs of carrying out the activities described in [section 156(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section156/a&num=0&edition=prelim) only to the extent, and in the total amounts, provided for in Appropriations Acts.
 
-(1) **Recovery of costs** — The Commission, in accordance with this section, shall assess and collect regulatory fees to recover the costs of the following regulatory activities of the Commission: enforcement activities, policy and rulemaking activities, user information services, and international activities.
+**(b) Establishment of schedule** The Commission shall assess and collect regulatory fees at such rates as the Commission shall establish in a schedule of regulatory fees that will result in the collection, in each fiscal year, of an amount that can reasonably be expected to equal the amounts described in subsection (a) with respect to such fiscal year.
 
-(2) **Fees contingent on appropriations** — The fees described in paragraph (1) of this subsection shall be collected only if, and only in the total amounts, required in Appropriations Acts.
+**(c) Adjustment of schedule**
 
-**(b) Establishment and adjustment of regulatory fees**
+(1) **In general** — For each fiscal year, the Commission shall by rule adjust the schedule of regulatory fees established under this section to—
 
-(1) **In general** — The fees assessed under subsection (a) shall—
+  (A) reflect unexpected increases or decreases in the number of units subject to the payment of such fees; and
 
-  (A) be derived by determining the full-time equivalent number of employees performing the activities described in subsection (a) within the Private Radio Bureau, Mass Media Bureau, Common Carrier Bureau, and other offices of the Commission, adjusted to take into account factors that are reasonably related to the benefits provided to the payor of the fee by the Commission’s activities, including such factors as service area coverage, shared use versus exclusive use, and other factors that the Commission determines are necessary in the public interest;
+  (B) result in the collection of the amount required by subsection (b).
 
-  (B) be established at amounts that will result in collection, during each fiscal year, of an amount that can reasonably be expected to equal the amount appropriated for such fiscal year for the performance of the activities described in subsection (a); and
+(2) **Rounding** — In making adjustments under this subsection, the Commission may round fees to the nearest $5 increment.
 
-  (C) until adjusted or amended by the Commission pursuant to paragraph (2) or (3), be the fees established by the Schedule of Regulatory Fees in subsection (g).
+**(d) Amendments to schedule** In addition to the adjustments required by subsection (c), the Commission shall by rule amend the schedule of regulatory fees established under this section if the Commission determines that the schedule requires amendment so that such fees reflect the full-time equivalent number of employees within the bureaus and offices of the Commission, adjusted to take into account factors that are reasonably related to the benefits provided to the payor of the fee by the Commission’s activities. In making an amendment under this subsection, the Commission may not change the total amount of regulatory fees required by subsection (b) to be collected in a fiscal year.
 
-(2) **Mandatory adjustment of schedule** — For any fiscal year after fiscal year 1994, the Commission shall, by rule, revise the Schedule of Regulatory Fees by proportionate increases or decreases to reflect, in accordance with paragraph (1)(B), changes in the amount appropriated for the performance of the activities described in subsection (a) for such fiscal year. Such proportionate increases or decreases shall—
+**(e) Exceptions**
 
-  (A) be adjusted to reflect, within the overall amounts described in appropriations Acts under the authority of paragraph (1)(A), unexpected increases or decreases in the number of licensees or units subject to payment of such fees; and
+(1) **Parties to which fees are not applicable** — The regulatory fees established under this section shall not be applicable to—
 
-  (B) be established at amounts that will result in collection of an aggregate amount of fees pursuant to this section that can reasonably be expected to equal the aggregate amount of fees that are required to be collected by appropriations Acts pursuant to paragraph (1)(B).
-  Increases or decreases in fees made by adjustments pursuant to this paragraph shall not be subject to judicial review. In making adjustments pursuant to this paragraph the Commission may round such fees to the nearest $5 in the case of fees under $1,000, or to the nearest $25 in the case of fees of $1,000 or more.
+  (A) a governmental entity or nonprofit entity;
 
-(3) **Permitted amendments** — In addition to the adjustments required by paragraph (2), the Commission shall, by regulation, amend the Schedule of Regulatory Fees if the Commission determines that the Schedule requires amendment to comply with the requirements of paragraph (1)(A). In making such amendments, the Commission shall add, delete, or reclassify services in the Schedule to reflect additions, deletions, or changes in the nature of its services as a consequence of Commission rulemaking proceedings or changes in law. Increases or decreases in fees made by amendments pursuant to this paragraph shall not be subject to judicial review.
+  (B) an amateur radio operator licensee under part 97 of the Commission’s rules (47 CFR part 97); or
 
-(4) **Notice to Congress** — The Commission shall—
+  (C) a noncommercial radio station or noncommercial television station.
 
-  (A) transmit to the Congress notification of any adjustment made pursuant to paragraph (2) immediately upon the adoption of such adjustment; and
+(2) **Cost of collection** — If, in the judgment of the Commission, the cost of collecting a regulatory fee established under this section from a party would exceed the amount collected from such party, the Commission may exempt such party from paying such fee.
 
-  (B) transmit to the Congress notification of any amendment made pursuant to paragraph (3) not later than 90 days before the effective date of such amendment.
+**(f) Deposit of collections**
 
-**(c) Enforcement**
+(1) **In general** — Amounts received from fees authorized by this section shall be deposited as an offsetting collection in, and credited to, the account through which funds are made available to carry out the activities described in [section 156(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section156/a&num=0&edition=prelim).
 
-(1) **Penalties for late payment** — The Commission shall prescribe by regulation an additional charge which shall be assessed as a penalty for late payment of fees required by subsection (a) of this section. Such penalty shall be 25 percent of the amount of the fee which was not paid in a timely manner.
-
-(2) **Dismissal of applications for filings** — The Commission may dismiss any application or other filing for failure to pay in a timely manner any fee or penalty under this section.
-
-(3) **Revocations** — In addition to or in lieu of the penalties and dismissals authorized by paragraphs (1) and (2), the Commission may revoke any instrument of authorization held by any entity that has failed to make payment of a regulatory fee assessed pursuant to this section. Such revocation action may be taken by the Commission after notice of the Commission’s intent to take such action is sent to the licensee by registered mail, return receipt requested, at the licensee’s last known address. The notice will provide the licensee at least 30 days to either pay the fee or show cause why the fee does not apply to the licensee or should otherwise be waived or payment deferred. A hearing is not required under this subsection unless the licensee’s response presents a substantial and material question of fact. In any case where a hearing is conducted pursuant to this section, the hearing shall be based on written evidence only, and the burden of proceeding with the introduction of evidence and the burden of proof shall be on the licensee. Unless the licensee substantially prevails in the hearing, the Commission may assess the licensee for the costs of such hearing. Any Commission order adopted pursuant to this subsection shall determine the amount due, if any, and provide the licensee with at least 30 days to pay that amount or have its authorization revoked. No order of revocation under this subsection shall become final until the licensee has exhausted its right to judicial review of such order under [section 402(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section402/b/5&num=0&edition=prelim).
-
-**(d) Waiver, reduction, and deferment** The Commission may waive, reduce, or defer payment of a fee in any specific instance for good cause shown, where such action would promote the public interest.
-
-**(e) Deposit of collections** Moneys received from fees established under this section shall be deposited as an offsetting collection in, and credited to, the account providing appropriations to carry out the functions of the Commission.
-
-**(f) Regulations**
-
-(1) **In general** — The Commission shall prescribe appropriate rules and regulations to carry out the provisions of this section.
-
-(2) **Installment payments** — Such rules and regulations shall permit payment by installments in the case of fees in large amounts, and in the case of fees in small amounts, shall require the payment of the fee in advance for a number of years not to exceed the term of the license held by the payor.
-
-**(g) Schedule** Until amended by the Commission pursuant to subsection (b), the Schedule of Regulatory Fees which the Federal Communications Commission shall, subject to subsection (a)(2), assess and collect shall be as follows: Schedule of Regulatory Fees Bureau/CategoryAnnual Regulatory Fee Private Radio Bureau Exclusive use services (per license) Land Mobile (above 470 MHz, Base Station and SMRS) (47 C.F.R. Part 90)$16 Microwave (47 C.F.R. Part 94)16 Interactive Video Data Service (47 C.F.R. Part 95)16 Shared use services (per license unless otherwise noted)7 Amateur vanity call-signs7 Mass Media Bureau (per license) AM radio (47 C.F.R. Part 73) Class D Daytime250 Class A Fulltime900 Class B Fulltime500 Class C Fulltime200 Construction permits100 FM radio (47 C.F.R. Part 73) Classes C, C1, C2, B900 Classes A, B1, C3600 Construction permits500 TV (47 C.F.R. Part 73) VHF Commercial Markets 1 thru 1018,000 Markets 11 thru 2516,000 Markets 26 thru 5012,000 Markets 51 thru 1008,000 Remaining Markets5,000 Construction permits4,000 UHF Commercial Markets 1 thru 1014,400 Markets 11 thru 2512,800 Markets 26 thru 509,600 Markets 51 thru 1006,400 Remaining Markets4,000 Construction permits3,200 Low Power TV, TV Translator, and TV Booster (47 C.F.R. Part 74)135 Broadcast Auxiliary (47 C.F.R. Part 74)25 International (HF) Broadcast (47 C.F.R. Part 73)200 Cable Antenna Relay Service (47 C.F.R. Part 78)220 Cable Television System (per 1,000 subscribers) (47 C.F.R. Part 76)370 Common Carrier Bureau Radio Facilities Cellular Radio (per 1,000 subscribers) (47 C.F.R. Part 22)60 Personal Communications (per 1,000 subscribers) (47 C.F.R.)60 Space Station (per operational station in geosynchronous orbit) (47 C.F.R. Part 25)65,000 Space Station (per system in low-earth orbit) (47 C.F.R. Part 25)90,000 Public Mobile (per 1,000 subscribers) (47 C.F.R. Part 22)60 Domestic Public Fixed (per call sign) (47 C.F.R. Part 21)55 International Public Fixed (per call sign) (47 C.F.R. Part 23)110 Earth Stations (47 C.F.R. Part 25) VSAT and equivalent C-Band antennas (per 100 antennas)6 Mobile satellite earth stations (per 100 antennas)6 Earth station antennas Less than 9 meters (per 100 antennas)6 9 Meters or more Transmit/Receive and Transmit Only (per meter)85 Receive only (per meter)55 Carriers Inter-Exchange Carrier (per 1,000 presubscribed access lines)60 Local Exchange Carrier (per 1,000 access lines)60 Competitive access provider (per 1,000 subscribers)60 International circuits (per 100 active 64KB circuit or equivalent)220
-
-**(h) Exceptions** The charges established under this section shall not be applicable to (1) governmental entities or nonprofit entities; or (2) to amateur radio operator licenses under part 97 of the Commission’s regulations (47 C.F.R. Part 97).
-
-**(i) Accounting system** The Commission shall develop accounting systems necessary to making the adjustments authorized by subsection (b)(3). In the Commission’s annual report, the Commission shall prepare an analysis of its progress in developing such systems and shall afford interested persons the opportunity to submit comments concerning the allocation of the costs of performing the functions described in subsection (a) among the services in the Schedule.
+(2) **Deposit of excess collections** — Any regulatory fees collected in excess of the total amount of fees provided for in Appropriations Acts for a fiscal year shall be deposited in the general fund of the Treasury of the United States for the sole purpose of deficit reduction.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–141 amended section generally. Prior to amendment, section related to regulatory fees.
+
 1994—Subsec. (f). Pub. L. 103–414, § 303(a)(5), designated second sentence of par. (1) as par. (2) and inserted par. (2) heading.
 
 Subsec. (g). Pub. L. 103–414, § 303(a)(6), inserted “95” after “(47 C.F.R. Part” in item pertaining to Interactive Video Data Service under Private Radio Bureau in Schedule of Regulatory Fees.
 
 1993—Subsec. (a). Pub. L. 103–121 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective Oct. 1, 2018, see section 103 of div. P of Pub. L. 115–141, set out as a note under [section 156 of this title](./chapter-005-wire-or-radio-communication.md#section-156).
+
+#### Continued Applicability of Regulatory Fees
+Pub. L. 115–141, div. P, title I, § 102(d)(2), Mar. 23, 2018, 132 Stat. 1086, provided that: “A regulatory fee established under section 9 of the Communications Act of 1934 [[47 U.S.C. 159](./chapter-005-wire-or-radio-communication.md#section-159)], as such section is in effect on the day before the effective date described in [section 103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section103&num=0&edition=prelim) [Oct. 1, 2018], shall remain in effect under section 9 of the Communications Act of 1934, as amended by subsection (b) of this section, until such time as the Commission [Federal Communications Commission] adjusts or amends such fee under subsection (c) or (d) of such section 9, as so amended.”
+
+#### Rulemaking To Amend Schedule of Regulatory Fees
+Pub. L. 115–141, div. P, title I, § 102(e)(1), Mar. 23, 2018, 132 Stat. 1086, provided that: “Not later than 1 year after the effective date described in [section 103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section103&num=0&edition=prelim) [Oct. 1, 2018], the Commission [Federal Communications Commission] shall complete a rulemaking proceeding under subsection (d) of section 9 of the Communications Act of 1934 [[47 U.S.C. 159](./chapter-005-wire-or-radio-communication.md#section-159)], as amended by subsection (b) of this section.”
+
+
+<a id="section-159a"></a>
+## § 159a. Provisions applicable to application and regulatory fees
+**(a) Judicial review prohibited** Any adjustment or amendment to a schedule of fees under subsection (b) or (c) of [section 158 of this title](./chapter-005-wire-or-radio-communication.md#section-158) or subsection (c) or (d) of [section 159 of this title](./chapter-005-wire-or-radio-communication.md#section-159) is not subject to judicial review.
+
+**(b) Notice to Congress** The Commission shall transmit to Congress notification—
+
+(1) of any adjustment under section 158(b) or 159(c) of this title immediately upon the adoption of such adjustment; and
+
+(2) of any amendment under section 158(c) or 159(d) of this title not later than 90 days before the effective date of such amendment.
+
+**(c) Enforcement**
+
+(1) **Penalties for late payment** — The Commission shall by rule prescribe an additional penalty for late payment of fees under section 158 or 159 of this title. Such additional penalty shall be 25 percent of the amount of the fee that was not paid in a timely manner.
+
+(2) **Interest on unpaid fees and penalties** — The Commission shall charge interest, at a rate determined under [section 3717 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3717&num=0&edition=prelim), on a fee under section 158 or 159 of this title or an additional penalty under this subsection that is not paid in a timely manner. Such section 3717 shall not otherwise apply with respect to such a fee or penalty.
+
+(3) **Dismissal of applications or filings** — The Commission may dismiss any application or other filing for failure to pay in a timely manner any fee under section 158 or 159 of this title or any interest or additional penalty under this subsection.
+
+(4) **Revocations**
+
+  (A) *In general* — In addition to or in lieu of the penalties and dismissals authorized by this subsection, the Commission may revoke any instrument of authorization held by any licensee that has not paid in a timely manner a regulatory fee assessed under [section 159 of this title](./chapter-005-wire-or-radio-communication.md#section-159) or any related interest or penalty.
+
+  (B) *Notice* — Revocation action may be taken by the Commission under this paragraph after notice of the Commission’s intent to take such action is sent to the licensee by registered mail, return receipt requested, at the licensee’s last known address. The notice shall provide the licensee at least 30 days to either pay the fee, interest, and any penalty or show cause why the fee, interest, or penalty does not apply to the licensee or should otherwise be waived or payment deferred.
+
+  (C) *Hearing*
+
+    (i) *Generally not required* — A hearing is not required under this paragraph unless the licensee’s response presents a substantial and material question of fact.
+
+    (ii) *Evidence and burdens* — In any case where a hearing is conducted under this paragraph, the hearing shall be based on written evidence only, and the burden of proceeding with the introduction of evidence and the burden of proof shall be on the licensee.
+
+    (iii) *Costs* — Unless the licensee substantially prevails in the hearing, the Commission may assess the licensee for the costs of such hearing.
+
+  (D) *Opportunity to pay prior to revocation* — Any Commission order adopted under this paragraph shall determine the amount due, if any, and provide the licensee with at least 30 days to pay that amount or have its authorization revoked.
+
+  (E) *Finality* — No order of revocation under this paragraph shall become final until the licensee has exhausted its right to judicial review of such order under [section 402(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section402/b/5&num=0&edition=prelim).
+
+**(d) Waiver, reduction, and deferment** The Commission may waive, reduce, or defer payment of a fee under section 158 or 159 of this title or an interest charge or penalty under this section in any specific instance for good cause shown, where such action would promote the public interest.
+
+**(e) Payment rules** The Commission shall by rule permit payment—
+
+(1) in the case of fees under section 158 or 159 of this title in large amounts, by installments; and
+
+(2) in the case of fees under section 158 or 159 of this title in small amounts, in advance for a number of years not to exceed the term of the license held by the payor.
+
+**(f) Accounting system** The Commission shall develop accounting systems necessary to make the amendments authorized by sections 158(c) and 159(d) of this title.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2018, see section 103 of div. P of Pub. L. 115–141, set out as an Effective Date of 2018 Amendment note under [section 156 of this title](./chapter-005-wire-or-radio-communication.md#section-156).
 
 
 <a id="section-160"></a>
@@ -1007,6 +1096,33 @@ In order to carry out the purposes of this chapter, the Commission may—
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+
+<a id="section-163"></a>
+## § 163. Communications marketplace report
+**(a) In general** In the last quarter of every even-numbered year, the Commission shall publish on its website and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the state of the communications marketplace.
+
+**(b) Contents** Each report required by subsection (a) shall—
+
+(1) assess the state of competition in the communications marketplace, including competition to deliver voice, video, audio, and data services among providers of telecommunications, providers of commercial mobile service (as defined in [section 332 of this title](./chapter-005-wire-or-radio-communication.md#section-332)), multichannel video programming distributors (as defined in [section 522 of this title](./chapter-005-wire-or-radio-communication.md#section-522)), broadcast stations, providers of satellite communications, Internet service providers, and other providers of communications services;
+
+(2) assess the state of deployment of communications capabilities, including advanced telecommunications capability (as defined in [section 1302 of this title](./chapter-012-broadband.md#section-1302)), regardless of the technology used for such deployment;
+
+(3) assess whether laws, regulations, regulatory practices (whether those of the Federal Government, States, political subdivisions of States, Indian tribes or tribal organizations (as such terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), or foreign governments), or demonstrated marketplace practices pose a barrier to competitive entry into the communications marketplace or to the competitive expansion of existing providers of communications services;
+
+(4) describe the agenda of the Commission for the next 2-year period for addressing the challenges and opportunities in the communications marketplace that were identified through the assessments under paragraphs (1) through (3); and
+
+(5) describe the actions that the Commission has taken in pursuit of the agenda described pursuant to paragraph (4) in the previous report submitted under this section.
+
+**(c) Extension** If the President designates a Commissioner as Chairman of the Commission during the last quarter of an even-numbered year, the portion of the report required by subsection (b)(4) may be published on the website of the Commission and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate as an addendum during the first quarter of the following odd-numbered year.
+
+**(d) Special requirements**
+
+(1) **Assessing competition** — In assessing the state of competition under subsection (b)(1), the Commission shall consider all forms of competition, including the effect of intermodal competition, facilities-based competition, and competition from new and emergent communications services, including the provision of content and communications using the Internet.
+
+(2) **Assessing deployment** — In assessing the state of deployment under subsection (b)(2), the Commission shall compile a list of geographical areas that are not served by any provider of advanced telecommunications capability.
+
+(3) **Considering small businesses** — In assessing the state of competition under subsection (b)(1) and regulatory barriers under subsection (b)(3), the Commission shall consider market entry barriers for entrepreneurs and other small businesses in the communications marketplace in accordance with the national policy under [section 257(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section257/b&num=0&edition=prelim).
 
 
 <a id="section-201"></a>
@@ -1327,14 +1443,15 @@ Pub. L. 104–104, title IV, § 402(b)(2), Feb. 8, 1996, 110 Stat. 129, provided
 ## § 215. Examination of transactions relating to furnishing of services, equipment, etc.; reports to Congress
 **(a) Access to records and documents** The Commission shall examine into transactions entered into by any common carrier which relate to the furnishing of equipment, supplies, research, services, finances, credit, or personnel to such carrier and/or which may affect the charges made or to be made and/or the services rendered or to be rendered by such carrier, in wire or radio communication subject to this chapter, and shall report to the Congress whether any such transactions have affected or are likely to affect adversely the ability of the carrier to render adequate service to the public, or may result in any undue or unreasonable increase in charges or in the maintenance of undue or unreasonable charges for such service; and in order to fully examine into such transactions the Commission shall have access to and the right of inspection and examination of all accounts, records, and memoranda, including all documents, papers, and correspondence now or hereafter existing, of persons furnishing such equipment, supplies, research, services, finances, credit, or personnel. The Commission shall include in its report its recommendations for necessary legislation in connection with such transactions, and shall report specifically whether in its opinion legislation should be enacted (1) authorizing the Commission to declare any such transactions void or to permit such transactions to be carried out subject to such modification of their terms and conditions as the Commission shall deem desirable in the public interest; and/or (2) subjecting such transactions to the approval of the Commission where the person furnishing or seeking to furnish the equipment, supplies, research, services, finances, credit, or personnel is a person directly or indirectly controlling or controlled by, or under direct or indirect common control with, such carrier; and/or (3) authorizing the Commission to require that all or any transactions of carriers involving the furnishing of equipment, supplies, research, services, finances, credit, or personnel to such carrier be upon competitive bids on such terms and conditions and subject to such regulations as it shall prescribe as necessary in the public interest.
 
-**(b) Wire telephone and telegraph services** The Commission shall investigate the methods by which and the extent to which wire telephone companies are furnishing wire telegraph service and wire telegraph companies are furnishing wire telephone service, and shall report its findings to Congress, together with its recommendations as to whether additional legislation on this subject is desirable.
-
-**(c) Exclusive dealing contracts** The Commission shall examine all contracts of common carriers subject to this chapter which prevent the other party thereto from dealing with another common carrier subject to this chapter, and shall report its findings to Congress, together with its recommendations as to whether additional legislation on this subject is desirable.
+**(b) Exclusive dealing contracts** The Commission shall examine all contracts of common carriers subject to this chapter which prevent the other party thereto from dealing with another common carrier subject to this chapter, and shall report its findings to Congress, together with its recommendations as to whether additional legislation on this subject is desirable.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+#### Amendments
+2018—Subsecs. (b), (c). Pub. L. 115–141 redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Commission shall investigate the methods by which and the extent to which wire telephone companies are furnishing wire telegraph service and wire telegraph companies are furnishing wire telephone service, and shall report its findings to Congress, together with its recommendations as to whether additional legislation on this subject is desirable.”
 
 
 <a id="section-216"></a>
@@ -2412,7 +2529,7 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 
       (II) a court order that specifically authorizes the use of caller identification manipulation.
 
-(4) **Report** — Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service.
+(4) **Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(3), Mar. 23, 2018, 132 Stat. 1089**
 
 (5) **Penalties**
 
@@ -2540,10 +2657,167 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)
+Pub. L. 115–141, div. P, title V, § 503(a)(1)–(4)(A), (5), Mar. 23, 2018, 132 Stat. 1091, 1092, provided that, effective on the date that is 6 months after the date on which the Federal Communications Commission prescribes regulations under paragraph (4) (set out as a Regulations note under this section), subsection (e) of this section is amended, and after such effective date, subsection (e) of this section will read as follows:
+
+(e) Prohibition on provision of misleading or inaccurate caller identification information
+
+(1) In general
+
+It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
+
+(2) Protection for blocking caller identification information
+
+Nothing in this subsection may be construed to prevent or restrict any person from blocking the capability of any caller identification service to transmit caller identification information.
+
+(3) Regulations
+
+(A) In general
+
+The Commission shall prescribe regulations to implement this subsection.
+
+(B) Content of regulations
+
+(i) In general
+
+The regulations required under subparagraph (A) shall include such exemptions from the prohibition under paragraph (1) as the Commission determines is appropriate.
+
+(ii) Specific exemption for law enforcement agencies or court orders
+
+The regulations required under subparagraph (A) shall exempt from the prohibition under paragraph (1) transmissions in connection with—
+
+(I) any authorized activity of a law enforcement agency; or
+
+(II) a court order that specifically authorizes the use of caller identification manipulation.
+
+(4) Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(3), Mar. 23, 2018, 132 Stat. 1089
+
+(5) Penalties
+
+(A) Civil forfeiture
+
+(i) In general
+
+Any person that is determined by the Commission, in accordance with paragraphs (3) and (4) of [section 503(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b&num=0&edition=prelim), to have violated this subsection shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this paragraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this paragraph shall not exceed $10,000 for each violation, or 3 times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
+
+(ii) Recovery
+
+Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to [section 504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section504/a&num=0&edition=prelim).
+
+(iii) Procedure
+
+No forfeiture liability shall be determined under clause (i) against any person unless such person receives the notice required by [section 503(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/3&num=0&edition=prelim) or [section 503(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/4&num=0&edition=prelim).
+
+(iv) 2-year statute of limitations
+
+No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 2 years prior to the date of issuance of the required notice or notice or apparent liability.
+
+(B) Criminal fine
+
+Any person who willfully and knowingly violates this subsection shall upon conviction thereof be fined not more than $10,000 for each violation, or 3 times that amount for each day of a continuing violation, in lieu of the fine provided by [section 501 of this title](./chapter-005-wire-or-radio-communication.md#section-501) for such a violation. This subparagraph does not supersede the provisions of [section 501 of this title](./chapter-005-wire-or-radio-communication.md#section-501) relating to imprisonment or the imposition of a penalty of both fine and imprisonment.
+
+(6) Enforcement by States
+
+(A) In general
+
+The chief legal officer of a State, or any other State officer authorized by law to bring actions on behalf of the residents of a State, may bring a civil action, as parens patriae, on behalf of the residents of that State in an appropriate district court of the United States to enforce this subsection or to impose the civil penalties for violation of this subsection, whenever the chief legal officer or other State officer has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of this subsection or a regulation under this subsection.
+
+(B) Notice
+
+The chief legal officer or other State officer shall serve written notice on the Commission of any civil action under subparagraph (A) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide such notice immediately upon instituting such civil action.
+
+(C) Authority to intervene
+
+Upon receiving the notice required by subparagraph (B), the Commission shall have the right—
+
+(i) to intervene in the action;
+
+(ii) upon so intervening, to be heard on all matters arising therein; and
+
+(iii) to file petitions for appeal.
+
+(D) Construction
+
+For purposes of bringing any civil action under subparagraph (A), nothing in this paragraph shall prevent the chief legal officer or other State officer from exercising the powers conferred on that officer by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+
+(E) Venue; service or process
+
+(i) Venue
+
+An action brought under subparagraph (A) shall be brought in a district court of the United States that meets applicable requirements relating to venue under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim).
+
+(ii) Service of process
+
+In an action brought under subparagraph (A)—
+
+(I) process may be served without regard to the territorial limits of the district or of the State in which the action is instituted; and
+
+(II) a person who participated in an alleged violation that is being litigated in the civil action may be joined in the civil action without regard to the residence of the person.
+
+(7) Effect on other laws
+
+This subsection does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
+
+(8) Definitions
+
+For purposes of this subsection:
+
+(A) Caller identification information
+
+The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service.
+
+(B) Caller identification service
+
+The term “caller identification service” means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service. Such term includes automatic number identification services.
+
+(C) Text message
+
+The term “text message”—
+
+(i) means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;
+
+(ii) includes a short message service (commonly referred to as “SMS”) message and a multimedia message service (commonly referred to as “MMS”) message; and
+
+(iii) does not include—
+
+(I) a real-time, two-way voice or video communication; or
+
+(II) a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).
+
+(D) Text messaging service
+
+The term “text messaging service” means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.
+
+(E) Voice service
+
+The term “voice service”—
+
+(i) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under [section 251(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section251/e/1&num=0&edition=prelim); and
+
+(ii) includes transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine.
+
+(9) Limitation
+
+Notwithstanding any other provision of this section, subsection (f) shall not apply to this subsection or to the regulations under this subsection.
+
+See 2018 Amendment notes below.
+
 #### References in Text
 This chapter, referred to in subsec. (e)(5)(A)(i), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–141, § 503(a)(3), inserted “misleading or” before “inaccurate” in heading.
+
+Subsec. (e)(1). Pub. L. 115–141, § 503(a)(1), substituted “or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service” for “in connection with any telecommunications service”.
+
+Subsec. (e)(3)(A). Pub. L. 115–141, § 503(a)(4)(A), substituted “The Commission” for “Not later than 6 months after December 22, 2010, the Commission”.
+
+Subsec. (e)(4). Pub. L. 115–141, § 402(i)(3), struck out par. (4). Text read as follows: “Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service.”
+
+Subsec. (e)(8)(A), (B). Pub. L. 115–141, § 503(a)(2)(A), (B), substituted “voice service or a text message sent using a text messaging service” for “telecommunications service or IP-enabled voice service”.
+
+Subsec. (e)(8)(C) to (E). Pub. L. 115–141, § 503(a)(2)(C), added subpars. (C) to (E) and struck out former subpar. (C) which defined IP-enabled voice service.
+
 2015—Subsec. (b)(1)(A)(iii). Pub. L. 114–74, § 301(a)(1)(A), inserted “, unless such call is made solely to collect a debt owed to or guaranteed by the United States” after “charged for the call”.
 
 Subsec. (b)(1)(B). Pub. L. 114–74, § 301(a)(1)(B), inserted “, is made solely pursuant to the collection of a debt owed to or guaranteed by the United States,” after “emergency purposes”.
@@ -2570,6 +2844,9 @@ Subsec. (e)(2). Pub. L. 103–414, § 303(a)(12), substituted “national databa
 
 1992—Subsec. (b)(2)(C). Pub. L. 102–556 added subpar. (C).
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–141, div. P, title V, § 503(a)(5), Mar. 23, 2018, 132 Stat. 1092, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date that is 6 months after the date on which the Commission [Federal Communications Commission] prescribes regulations under paragraph (4) [set out as a note under this section].”
+
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–187 effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as an Effective Date note under [section 7701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7701&num=0&edition=prelim), Commerce and Trade.
 
@@ -2577,12 +2854,48 @@ Amendment by Pub. L. 108–187 effective Jan. 1, 2004, see section 16 of Pub. L.
 Pub. L. 102–243, § 3(c), Dec. 20, 1991, 105 Stat. 2402, as amended by Pub. L. 102–556, title I, § 102, Oct. 28, 1992, 106 Stat. 4186, provided that: “(1) Regulations.—The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section [enacting this section and amending [section 152 of this title](./chapter-005-wire-or-radio-communication.md#section-152)] not later than 9 months after the date of enactment of this Act [Dec. 20, 1991]. “(2) Effective date.—The requirements of section 227 of the Communications Act of 1934 [this section] (as added by this section), other than the authority to prescribe regulations, shall take effect one year after the date of enactment of this Act [Dec. 20, 1991].”
 
 #### Regulations
+Pub. L. 115–141, div. P, title V, § 503(a)(4)(B), Mar. 23, 2018, 132 Stat. 1092, provided that: “The Commission [Federal Communications Commission] shall prescribe regulations to implement the amendments made by this subsection [amending this section] not later than 18 months after the date of enactment of this Act [Mar. 23, 2018].”
+
 Pub. L. 114–74, title III, § 301(b), Nov. 2, 2015, 129 Stat. 588, provided that: “Not later than 9 months after the date of enactment of this Act [Nov. 2, 2015], the Federal Communications Commission, in consultation with the Department of the Treasury, shall prescribe regulations to implement the amendments made by this section [amending this secton].”
 
 Pub. L. 109–21, § 2(h), July 9, 2005, 119 Stat. 362, provided that: “Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 [[47 U.S.C. 227(b)(2)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227/b/2/G/ii&num=0&edition=prelim)] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act [July 9, 2005], the Federal Communications Commission shall issue regulations to implement the amendments made by this section.”
 
+#### Construction
+Pub. L. 115–141, div. P, title V, § 503(d), Mar. 23, 2018, 132 Stat. 1094, provided that: “Nothing in this section [enacting [section 227a of this title](./chapter-005-wire-or-radio-communication.md#section-227a), amending this section, and enacting provisions set out as notes under this section], or the amendments made by this section, shall be construed to modify, limit, or otherwise affect any rule or order adopted by the Commission [Federal Communications Commission] in connection with— “(1) the Telephone Consumer Protection Act of 1991 (Public Law 102–243; 105 Stat. 2394) [see Short Title of 1991 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)] or the amendments made by that Act; or “(2) the CAN–SPAM Act of 2003 ([15 U.S.C. 7701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7701&num=0&edition=prelim) et seq.).”
+
 #### Congressional Statement of Findings
 Pub. L. 102–243, § 2, Dec. 20, 1991, 105 Stat. 2394, provided that: “The Congress finds that: “(1) The use of the telephone to market goods and services to the home and other businesses is now pervasive due to the increased use of cost-effective telemarketing techniques. “(2) Over 30,000 businesses actively telemarket goods and services to business and residential customers. “(3) More than 300,000 solicitors call more than 18,000,000 Americans every day. “(4) Total United States sales generated through telemarketing amounted to $435,000,000,000 in 1990, a more than four-fold increase since 1984. “(5) Unrestricted telemarketing, however, can be an intrusive invasion of privacy and, when an emergency or medical assistance telephone line is seized, a risk to public safety. “(6) Many consumers are outraged over the proliferation of intrusive, nuisance calls to their homes from telemarketers. “(7) Over half the States now have statutes restricting various uses of the telephone for marketing, but telemarketers can evade their prohibitions through interstate operations; therefore, Federal law is needed to control residential telemarketing practices. “(8) The Constitution does not prohibit restrictions on commercial telemarketing solicitations. “(9) Individuals’ privacy rights, public safety interests, and commercial freedoms of speech and trade must be balanced in a way that protects the privacy of individuals and permits legitimate telemarketing practices. “(10) Evidence compiled by the Congress indicates that residential telephone subscribers consider automated or prerecorded telephone calls, regardless of the content or the initiator of the message, to be a nuisance and an invasion of privacy. “(11) Technologies that might allow consumers to avoid receiving such calls are not universally available, are costly, are unlikely to be enforced, or place an inordinate burden on the consumer. “(12) Banning such automated or prerecorded telephone calls to the home, except when the receiving party consents to receiving the call or when such calls are necessary in an emergency situation affecting the health and safety of the consumer, is the only effective means of protecting telephone consumers from this nuisance and privacy invasion. “(13) While the evidence presented to the Congress indicates that automated or prerecorded calls are a nuisance and an invasion of privacy, regardless of the type of call, the Federal Communications Commission should have the flexibility to design different rules for those types of automated or pre­recorded calls that it finds are not considered a nuisance or invasion of privacy, or for noncommercial calls, consistent with the free speech protections embodied in the First Amendment of the Constitution. “(14) Businesses also have complained to the Congress and the Federal Communications Commission that automated or prerecorded telephone calls are a nuisance, are an invasion of privacy, and interfere with interstate commerce. “(15) The Federal Communications Commission should consider adopting reasonable restrictions on automated or prerecorded calls to businesses as well as to the home, consistent with the constitutional protections of free speech.”
+
+
+<a id="section-227a"></a>
+## § 227a. Consumer education materials on how to avoid scams that rely upon misleading or inaccurate caller identification information
+(1) **Development of materials** — Not later than 1 year after March 23, 2018, the Commission, in coordination with the Federal Trade Commission, shall develop consumer education materials that provide information about—
+
+  (A) ways for consumers to identify scams and other fraudulent activity that rely upon the use of misleading or inaccurate caller identification information; and
+
+  (B) existing technologies, if any, that a consumer can use to protect against such scams and other fraudulent activity.
+
+(2) **Contents** — In developing the consumer education materials under paragraph (1), the Commission shall—
+
+  (A) identify existing technologies, if any, that can help consumers guard themselves against scams and other fraudulent activity that rely upon the use of misleading or inaccurate caller identification information, including—
+
+    (i) descriptions of how a consumer can use the technologies to protect against such scams and other fraudulent activity; and
+
+    (ii) details on how consumers can access and use the technologies; and
+
+  (B) provide other information that may help consumers identify and avoid scams and other fraudulent activity that rely upon the use of misleading or inaccurate caller identification information.
+
+(3) **Updates** — The Commission shall ensure that the consumer education materials required under paragraph (1) are updated on a regular basis.
+
+(4) **Website** — The Commission shall include the consumer education materials developed under paragraph (1) on its website.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018, also known as the RAY BAUM’S Act of 2018, and as part of the Consolidated Appropriations Act, 2018, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### Definitions
+For definition of “Commission” as used in this section, see section 2 of div. P of of Pub. L. 115–141, set out as a note under [section 155a of this title](./chapter-005-wire-or-radio-communication.md#section-155a).
 
 
 <a id="section-228"></a>
@@ -2895,6 +3208,14 @@ This chapter, referred to in subsecs. (d) and (e)(2), was in the original “thi
 
 (4) **No effect on communications privacy law** — Nothing in this section shall be construed to limit the application of the Electronic Communications Privacy Act of 1986 or any of the amendments made by such Act, or any similar State law.
 
+(5) **No effect on sex trafficking law** — Nothing in this section (other than subsection (c)(2)(A)) shall be construed to impair or limit—
+
+  (A) any claim in a civil action brought under [section 1595 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1595&num=0&edition=prelim), if the conduct underlying the claim constitutes a violation of section 1591 of that title;
+
+  (B) any charge in a criminal prosecution brought under State law if the conduct underlying the charge would constitute a violation of [section 1591 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591&num=0&edition=prelim); or
+
+  (C) any charge in a criminal prosecution brought under State law if the conduct underlying the charge would constitute a violation of [section 2421A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2421A&num=0&edition=prelim), and promotion or facilitation of prostitution is illegal in the jurisdiction where the defendant’s promotion or facilitation of prostitution was targeted.
+
 **(f) Definitions** As used in this section:
 
 (1) **Internet** — The term “Internet” means the international computer network of both Federal and non-Federal interoperable packet switched data networks.
@@ -2920,14 +3241,25 @@ The Electronic Communications Privacy Act of 1986, referred to in subsec. (e)(4)
 Section 509 of Pub. L. 104–104, which directed amendment of title II of the Communications Act of 1934 ([47 U.S.C. 201](./chapter-005-wire-or-radio-communication.md#section-201) et seq.) by adding section 230 at end, was executed by adding the section at end of part I of title II of the Act to reflect the probable intent of Congress and amendments by sections 101(a), (b), and 151(a) of Pub. L. 104–104 designating §§ 201 to 229 as part I and adding parts II (§ 251 et seq.) and III (§ 271 et seq.) to title II of the Act.
 
 #### Amendments
+2018—Subsec. (e)(5). Pub. L. 115–164 added par. (5).
+
 1998—Subsec. (d). Pub. L. 105–277, § 1404(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (d)(1). Pub. L. 105–277, § 1404(a)(1), inserted “or 231” after “section 223”.
 
 Subsecs. (e), (f). Pub. L. 105–277, § 1404(a)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–164, § 4(b), Apr. 11, 2018, 132 Stat. 1254, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Apr. 11, 2018], and the amendment made by subsection (a) shall apply regardless of whether the conduct alleged occurred, or is alleged to have occurred, before, on, or after such date of enactment.”
+
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective 30 days after Oct. 21, 1998, see section 1406 of Pub. L. 105–277, set out as a note under [section 223 of this title](./chapter-005-wire-or-radio-communication.md#section-223).
+
+#### Savings
+Pub. L. 115–164, § 7, Apr. 11, 2018, 132 Stat. 1255, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure] or the amendments made by this Act shall be construed to limit or preempt any civil action or criminal prosecution under Federal law or State law (including State statutory law and State common law) filed before or after the day before the date of enactment of this Act [Apr. 11, 2018] that was not limited or preempted by section 230 of the Communications Act of 1934 ([47 U.S.C. 230](./chapter-005-wire-or-radio-communication.md#section-230)), as such section was in effect on the day before the date of enactment of this Act.”
+
+#### Sense of Congress
+Pub. L. 115–164, § 2, Apr. 11, 2018, 132 Stat. 1253, provided that: “It is the sense of Congress that— “(1) section 230 of the Communications Act of 1934 ([47 U.S.C. 230](./chapter-005-wire-or-radio-communication.md#section-230); commonly known as the ‘Communications Decency Act of 1996’) was never intended to provide legal protection to websites that unlawfully promote and facilitate prostitution and websites that facilitate traffickers in advertising the sale of unlawful sex acts with sex trafficking victims; “(2) websites that promote and facilitate prostitution have been reckless in allowing the sale of sex trafficking victims and have done nothing to prevent the trafficking of children and victims of force, fraud, and coercion; and “(3) clarification of such section is warranted to ensure that such section does not provide such protection to such websites.”
 
 
 <a id="section-231"></a>
@@ -3015,7 +3347,7 @@ Section effective 30 days after Oct. 21, 1998, see section 1406 of Pub. L. 105�
 Pub. L. 105–277, div. C, title XIV, § 1402, Oct. 21, 1998, 112 Stat. 2681–736, provided that: “The Congress finds that— “(1) while custody, care, and nurture of the child resides first with the parent, the widespread availability of the Internet presents opportunities for minors to access materials through the World Wide Web in a manner that can frustrate parental supervision or control; “(2) the protection of the physical and psychological well-being of minors by shielding them from materials that are harmful to them is a compelling governmental interest; “(3) to date, while the industry has developed innovative ways to help parents and educators restrict material that is harmful to minors through parental control protections and self-regulation, such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web; “(4) a prohibition on the distribution of material harmful to minors, combined with legitimate defenses, is currently the most effective and least restrictive means by which to satisfy the compelling government interest; and “(5) notwithstanding the existence of protections that limit the distribution over the World Wide Web of material that is harmful to minors, parents, educators, and industry must continue efforts to find ways to protect children from being exposed to harmful material found on the Internet.”
 
 #### Study by Commission on Online Child Protection
-Pub. L. 105–277, div. C, title XIV, § 1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501–592; Pub. L. 106–229, title IV, § 401, June 30, 2000, 114 Stat. 476, established a Commission to study methods to reduce access by minors to harmful material on the Internet and provided that the Commission would terminate 30 days after submitting a report to Congress or Nov. 30, 2000, whichever occured earlier.
+Pub. L. 105–277, div. C, title XIV, § 1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501A–592; Pub. L. 106–229, title IV, § 401, June 30, 2000, 114 Stat. 476, established a Commission to study methods to reduce access by minors to harmful material on the Internet and provided that the Commission would terminate 30 days after submitting a report to Congress or Nov. 30, 2000, whichever occured earlier.
 
 
 <a id="section-251"></a>
@@ -3594,7 +3926,7 @@ For the effective date of this paragraph under section 1721(h) of the Children�
 The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E), probably means the effective date of subsec. (h)(5) and (6) which is 120 days after Dec. 21, 2000, see § 1(a)(4) [div. B, title VII, § 1721(h)] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 #### Amendments
-2016—Subsec. (h)(7)(B)(vii), (viii). Pub. L. 114–182 added cl. (vii), redesignated former cl. (vii) as cl. (viii), and substituted “clauses (i) through (vii)” for “clauses (i) through (vi)” in cl. (viii).
+2016—Subsec. (h)(7)(B)(vii), (viii). Pub. L. 114–182 added cl. (vii), redesignated former cl. (vii) as (viii), and substituted “clauses (i) through (vii)” for “clauses (i) through (vi)” in cl. (viii).
 
 2015—Subsec. (h)(5)(A)(iii). Pub. L. 114–95, § 9215(s)(1), substituted “an elementary school or a secondary school as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)” for “an elementary or secondary school as defined in [section 8801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim)”.
 
@@ -3640,6 +3972,9 @@ Pub. L. 114–182, title II, § 202(b), June 22, 2016, 130 Stat. 512, provided t
 
 #### Separability
 Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 [[47 U.S.C. 254(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section254/h&num=0&edition=prelim)], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby.”
+
+#### Methodology for Collection of Mobile Service Coverage Data
+Pub. L. 115–141, div. P, title V, § 505, Mar. 23, 2018, 132 Stat. 1094, provided that: “(a) Definitions.—In this section—“(1) the term ‘commercial mobile data service’ has the meaning given the term in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 ([47 U.S.C. 1401](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1401)); “(2) the term ‘commercial mobile service’ has the meaning given the term in section 332(d) of the Communications Act of 1934 ([47 U.S.C. 332(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim)); “(3) the term ‘coverage data’ means, if commercial mobile service or commercial mobile data service is available, general information about the service, which may include available speed tiers, radio frequency signal levels, and network and performance characteristics; and “(4) the term ‘Universal Service program’ means the universal service support mechanisms established under section 254 of the Communications Act of 1934 ([47 U.S.C. 254](./chapter-005-wire-or-radio-communication.md#section-254)) and the regulations issued under that section. “(b) Methodology Established.—Not later than 180 days after the conclusion of the Mobility Fund Phase II Auction, the Commission shall promulgate regulations to establish a methodology that shall apply to the collection of coverage data by the Commission [Federal Communications Commission] for the purposes of—“(1) the Universal Service program; or “(2) any other similar program. “(c) Requirements.—The methodology established under subsection (b) shall—“(1) contain standard definitions for different available technologies such as 2G, 3G, 4G, and 4G LTE; “(2) enhance the consistency and robustness of how the data are collected by different parties; “(3) improve the validity and reliability of coverage data; and “(4) increase the efficiency of coverage data collection.”
 
 #### Disclaimers Regarding Internet Access and Privacy
 Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1702], Dec. 21, 2000, 114 Stat. 2763, 2763A–336, provided that: “(a) Disclaimer Regarding Content.—Nothing in this title [see Short Title of 2000 Amendments note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education] or the amendments made by this title shall be construed to prohibit a local educational agency, elementary or secondary school, or library from blocking access on the Internet on computers owned or operated by that agency, school, or library to any content other than content covered by this title or the amendments made by this title. “(b) Disclaimer Regarding Privacy.—Nothing in this title or the amendments made by this title shall be construed to require the tracking of Internet use by any identifiable minor or adult user.”
@@ -3710,16 +4045,17 @@ Pub. L. 105–33, title III, § 3006, Aug. 5, 1997, 111 Stat. 269, related to ap
 
 **(b) National policy** In carrying out subsection (a), the Commission shall seek to promote the policies and purposes of this chapter favoring diversity of media voices, vigorous economic competition, technological advancement, and promotion of the public interest, convenience, and necessity.
 
-**(c) Periodic review** Every 3 years following the completion of the proceeding required by subsection (a), the Commission shall review and report to Congress on—
-
-(1) any regulations prescribed to eliminate barriers within its jurisdiction that are identified under subsection (a) and that can be prescribed consistent with the public interest, convenience, and necessity; and
-
-(2) the statutory barriers identified under subsection (a) that the Commission recommends be eliminated, consistent with the public interest, convenience, and necessity.
-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–141 struck out subsec. (c). Text read as follows: “Every 3 years following the completion of the proceeding required by subsection (a), the Commission shall review and report to Congress on—
+
+“(1) any regulations prescribed to eliminate barriers within its jurisdiction that are identified under subsection (a) and that can be prescribed consistent with the public interest, convenience, and necessity; and
+
+“(2) the statutory barriers identified under subsection (a) that the Commission recommends be eliminated, consistent with the public interest, convenience, and necessity.”
 
 
 <a id="section-258"></a>
@@ -3778,6 +4114,65 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 **(b) Existing State regulations** Nothing in this part shall be construed to prohibit any State commission from enforcing regulations prescribed prior to February 8, 1996, or from prescribing regulations after February 8, 1996, in fulfilling the requirements of this part, if such regulations are not inconsistent with the provisions of this part.
 
 **(c) Additional State requirements** Nothing in this part precludes a State from imposing requirements on a telecommunications carrier for intrastate services that are necessary to further competition in the provision of telephone exchange service or exchange access, as long as the State’s requirements are not inconsistent with this part or the Commission’s regulations to implement this part.
+
+
+<a id="section-262"></a>
+## § 262. Ensuring the integrity of voice communications
+**(a) Registration and compliance by intermediate providers** An intermediate provider that offers or holds itself out as offering the capability to transmit covered voice communications from one destination to another and that charges any rate to any other entity (including an affiliated entity) for the transmission shall—
+
+(1) register with the Commission; and
+
+(2) comply with the service quality standards for such transmission to be established by the Commission under subsection (c)(1)(B).
+
+**(b) Required use of registered intermediate providers** A covered provider may not use an intermediate provider to transmit covered voice communications unless such intermediate provider is registered under subsection (a)(1).
+
+**(c) Commission rules**
+
+(1) **In general**
+
+  (A) *Registry* — Not later than 180 days after February 26, 2018, the Commission shall promulgate rules to establish a registry to record registrations under subsection (a)(1).
+
+  (B) *Service quality standards* — Not later than 1 year after February 26, 2018, the Commission shall promulgate rules to establish service quality standards for the transmission of covered voice communications by intermediate providers.
+
+(2) **Requirements** — In promulgating the rules required by paragraph (1), the Commission shall—
+
+  (A) ensure the integrity of the transmission of covered voice communications to all customers in the United States; and
+
+  (B) prevent unjust or unreasonable discrimination among areas of the United States in the delivery of covered voice communications.
+
+**(d) Public availability of registry** The Commission shall make the registry established under subsection (c)(1)(A) publicly available on the website of the Commission.
+
+**(e) Scope of application** The requirements of this section shall apply regardless of the format by which any communication or service is provided, the protocol or format by which the transmission of such communication or service is achieved, or the regulatory classification of such communication or service.
+
+**(f) Rule of construction** Nothing in this section shall be construed to affect the regulatory classification of any communication or service.
+
+**(g) Effect on other laws** Nothing in this section shall be construed to preempt or expand the authority of a State public utility commission or other relevant State agency to collect data, or investigate and enforce State law and regulations, regarding the completion of intrastate voice communications, regardless of the format by which any communication or service is provided, the protocol or format by which the transmission of such communication or service is achieved, or the regulatory classification of such communication or service.
+
+**(h) Exception** The requirement under subsection (a)(2) to comply with the service quality standards established under subsection (c)(1)(B) shall not apply to a covered provider that—
+
+(1) on or before the date that is 1 year after February 26, 2018, has certified as a Safe Harbor provider under section 64.2107(a) of title 47, Code of Federal Regulations, or any successor regulation; and
+
+(2) continues to meet the requirements under such section 64.2107(a).
+
+**(i) Definitions** In this section:
+
+(1) **Covered provider** — The term “covered provider” has the meaning given the term in section 64.2101 of title 47, Code of Federal Regulations, or any successor thereto.
+
+(2) **Covered voice communication** — The term “covered voice communication” means a voice communication (including any related signaling information) that is generated—
+
+  (A) from the placement of a call from a connection using a North American Numbering Plan resource or a call placed to a connection using such a numbering resource; and
+
+  (B) through any service provided by a covered provider.
+
+(3) **Intermediate provider** — The term “intermediate provider” means any entity that—
+
+  (A) enters into a business arrangement with a covered provider or other intermediate provider for the specific purpose of carrying, routing, or transmitting voice traffic that is generated from the placement of a call placed—
+
+    (i) from an end user connection using a North American Numbering Plan resource; or
+
+    (ii) to an end user connection using such a numbering resource; and
+
+  (B) does not itself, either directly or in conjunction with an affiliate, serve as a covered provider in the context of originating or terminating a given call.
 
 
 <a id="section-271"></a>
@@ -5377,15 +5772,13 @@ shall be granted by the Commission earlier than thirty days following issuance o
 
   (A) *General rule* — Except as provided in subparagraphs (B), (D), (E), (F), and (G), all proceeds from the use of a competitive bidding system under this subsection shall be deposited in the Treasury in accordance with chapter 33 of title 31.
 
-  (B) *Retention of revenues* — Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this subsection. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis. Such offsetting collections are authorized to remain available until expended. No sums may be retained under this subparagraph during any fiscal year beginning after September 30, 1998, if the annual report of the Commission under [section 154(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section154/k&num=0&edition=prelim) for the second preceding fiscal year fails to include in the itemized statement required by paragraph (3) of such section a statement of each expenditure made for purposes of conducting competitive bidding under this subsection during such second preceding fiscal year.
+  (B) *Retention of revenues* — Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this subsection. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis. Such offsetting collections are authorized to remain available until expended.
 
-  (C) *Deposit and use of auction escrow accounts* — Any deposits the Commission may require for the qualification of any person to bid in a system of competitive bidding pursuant to this subsection shall be deposited in an interest bearing account at a financial institution designated for purposes of this subsection by the Commission (after consultation with the Secretary of the Treasury). Within 45 days following the conclusion of the competitive bidding—
+  (C) *Deposit and use of auction escrow accounts* — Any deposits the Commission may require for the qualification of any person to bid in a system of competitive bidding pursuant to this subsection shall be deposited in the Treasury. Within 45 days following the conclusion of the competitive bidding—
 
-    (i) the deposits of successful bidders shall be paid to the Treasury, except as otherwise provided in subparagraphs (D)(ii), (E)(ii), (F), and (G);
+    (i) the deposits of successful bidders shall be deposited in the general fund of the Treasury (where such deposits shall be used for the sole purpose of deficit reduction), except as otherwise provided in subparagraphs (D)(ii), (E)(ii), (F), and (G); and
 
-    (ii) the deposits of unsuccessful bidders shall be returned to such bidders; and
-
-    (iii) the interest accrued to the account shall be deposited in the general fund of the Treasury, where such amount shall be dedicated for the sole purpose of deficit reduction.
+    (ii) the deposits of unsuccessful bidders shall be returned to such bidders, and payments representing the return of such deposits shall not be subject to administrative offset under [section 3716(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3716/c&num=0&edition=prelim).
 
   (D) *Proceeds from reallocated Federal spectrum*
 
@@ -5470,25 +5863,7 @@ shall be granted by the Commission earlier than thirty days following issuance o
 
 (11) **Termination** — The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025.
 
-(12) **Evaluation** — Not later than September 30, 1997, the Commission shall conduct a public inquiry and submit to the Congress a report—
-
-  (A) containing a statement of the revenues obtained, and a projection of the future revenues, from the use of competitive bidding systems under this subsection;
-
-  (B) describing the methodologies established by the Commission pursuant to paragraphs (3) and (4);
-
-  (C) comparing the relative advantages and disadvantages of such methodologies in terms of attaining the objectives described in such paragraphs;
-
-  (D) evaluating whether and to what extent—
-
-    (i) competitive bidding significantly improved the efficiency and effectiveness of the process for granting radio spectrum licenses;
-
-    (ii) competitive bidding facilitated the introduction of new spectrum-based technologies and the entry of new companies into the telecommunications market;
-
-    (iii) competitive bidding methodologies have secured prompt delivery of service to rural areas and have adequately addressed the needs of rural spectrum users; and
-
-    (iv) small businesses, rural telephone companies, and businesses owned by members of minority groups and women were able to participate successfully in the competitive bidding process; and
-
-  (E) recommending any statutory changes that are needed to improve the competitive bidding process.
+(12) **Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(4)(A), Mar. 23, 2018, 132 Stat. 1089**
 
 (13) **Recovery of value of public spectrum in connection with pioneer preferences**
 
@@ -5583,11 +5958,7 @@ shall be granted by the Commission earlier than thirty days following issuance o
 
     (iii) *Auction deadlines for excepted blocks* — Notwithstanding subparagraph (B), the auction of the C-block and D-block licenses described in clause (i) shall be commenced no earlier than August 19, 2002, and no later than September 19, 2002, and the proceeds of such auction shall be deposited in accordance with paragraph (8) not later than December 31, 2002.
 
-    (iv) *Report* — Within one year after June 19, 2002, the Commission shall submit a report to Congress—
-
-      (I) specifying when the Commission intends to reschedule auctions 31 and 44 (other than the blocks excepted by clause (i)); and
-
-      (II) describing the progress made by the Commission in the digital television transition and in the assignment and allocation of additional spectrum for advanced mobile communications services that warrants the scheduling of such auctions.
+    (iv) *Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(4)(B), Mar. 23, 2018, 132 Stat. 1089*
 
     (v) *Additional deadlines for recovered analog spectrum* — Notwithstanding subparagraph (B), the Commission shall conduct the auction of the licenses for recovered analog spectrum by commencing the bidding not later than January 28, 2008, and shall deposit the proceeds of such auction in accordance with paragraph (8)(E)(ii) not later than June 30, 2008.
 
@@ -5620,6 +5991,12 @@ shall be granted by the Commission earlier than thirty days following issuance o
       (II) would meet such license qualifications by means approved by the Commission prior to the grant of the license.
 
   (B) *Clarification of authority* — Nothing in subparagraph (A) affects any authority the Commission has to adopt and enforce rules of general applicability, including rules concerning spectrum aggregation that promote competition.
+
+(18) **Estimate of upcoming auctions**
+
+  (A) Not later than September 30, 2018, and annually thereafter, the Commission shall make publicly available an estimate of what systems of competitive bidding authorized under this subsection may be initiated during the upcoming 12-month period.
+
+  (B) The estimate under subparagraph (A) shall, to the extent possible, identify the bands of frequencies the Commission expects to be included in each such system of competitive bidding.
 
 **(k) Broadcast station renewal procedures**
 
@@ -5659,6 +6036,22 @@ The National Telecommunications and Information Administration Organization Act,
 Section 1004(a) of the Spectrum Pipeline Act of 2015, referred to in subsec. (j)(11), is section 1004(a) of Pub. L. 114–74, which is set out as a note under [section 921 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-921).
 
 #### Amendments
+2018—Subsec. (j)(8)(B). Pub. L. 115–141, § 402(h)(2), struck out at end: “No sums may be retained under this subparagraph during any fiscal year beginning after September 30, 1998, if the annual report of the Commission under [section 154(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section154/k&num=0&edition=prelim) for the second preceding fiscal year fails to include in the itemized statement required by paragraph (3) of such section a statement of each expenditure made for purposes of conducting competitive bidding under this subsection during such second preceding fiscal year.”
+
+Subsec. (j)(8)(C). Pub. L. 115–141, § 101(b)(1), substituted “the Treasury.” for “an interest bearing account at a financial institution designated for purposes of this subsection by the Commission (after consultation with the Secretary of the Treasury).” in introductory provisions.
+
+Subsec. (j)(8)(C)(i). Pub. L. 115–141, § 101(b)(2)(A), substituted “deposited in the general fund of the Treasury (where such deposits shall be used for the sole purpose of deficit reduction)” for “paid to the Treasury”.
+
+Subsec. (j)(8)(C)(ii). Pub. L. 115–141, § 101(b)(3), substituted “, and payments representing the return of such deposits shall not be subject to administrative offset under [section 3716(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3716/c&num=0&edition=prelim).” for “; and”
+
+Subsec. (j)(8)(C)(iii). Pub. L. 115–141, § 101(b)(2)(B), (4), struck out cl. (iii) which read as follows: “the interest accrued to the account shall be deposited in the general fund of the Treasury, where such amount shall be dedicated for the sole purpose of deficit reduction.”
+
+Subsec. (j)(12). Pub. L. 115–141, § 402(i)(4)(A), struck out par. (12) which required the Commission to submit to Congress a report evaluating the use of competitive bidding systems.
+
+Subsec. (j)(15)(C)(iv). Pub. L. 115–141, § 402(i)(4)(B), struck out cl. (iv) which required the Commission to submit to Congress a report related to the rescheduling of auctions 31 and 44 and progress made by the Commission in the digital television transition.
+
+Subsec. (j)(18). Pub. L. 115–141, § 512(a), added par. (18).
+
 2015—Subsec. (j)(11). Pub. L. 114–74 inserted before period at end “, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025”.
 
 2012—Subsec. (j)(3)(F). Pub. L. 112–96, § 6701(b), substituted “relocation or sharing costs” for “relocation costs”.
@@ -5813,6 +6206,9 @@ Subsec. (e). Pub. L. 88–306 substituted “not more than thirty days after pub
 
 1952—Act July 16, 1952, amended section generally to set forth procedure to be followed in cases of denial of applications.
 
+#### Effective Date of 2018 Amendment
+Amendment by section 101(b) of Pub. L. 115–141 effective Oct. 1, 2018, see section 103 of div. P of Pub. L. 115–141, set out as a note under [section 156 of this title](./chapter-005-wire-or-radio-communication.md#section-156).
+
 #### Effective Date of 1997 Amendment
 Pub. L. 105–33, title III, § 3002(a)(5), Aug. 5, 1997, 111 Stat. 260, provided that: “Except as otherwise provided therein, the amendments made by this subsection [amending this section] are effective on July 1, 1997.”
 
@@ -5857,6 +6253,28 @@ Pub. L. 103–66, title VI, § 6002(e), Aug. 10, 1993, 107 Stat. 397, which prov
 
 #### Authority To Use the System of Random Selection With Respect to Applications for Initial Licenses and Construction Permits
 Pub. L. 97–35, title XII, § 1242(b), Aug. 13, 1981, 95 Stat. 737, provided that: “The Commission shall have authority to use the system of random selection established by the Commission under section 309(i) of the Communications Act of 1934 [subsec. (i) of this section], as added in subsection (a), with respect to any application for an initial license or construction permit which will involve any use of the electromagnetic spectrum and which— “(1) is filed with the Commission after the date of the enactment of this Act [Aug. 13, 1981]; or “(2) is pending before the Commission on such date of enactment but has not been designated for hearing on or before such date of enactment.”
+
+
+<a id="section-309a"></a>
+## § 309a. Reports related to spectrum auctions
+**(a) Omitted**
+
+**(b) Auction expenditure justification report** Not later than April 1, 2019, and annually thereafter, the Commission shall provide to the appropriate committees of Congress a report containing a detailed justification for the use of proceeds retained by the Commission under [section 309(j)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/8/B&num=0&edition=prelim) for the costs of developing and implementing the program required by [section 309(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim).
+
+**(c) Definition** For purposes of this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Commerce, Science, and Transportation of the Senate;
+
+(2) the Committee on Appropriations of the Senate;
+
+(3) the Committee on Energy and Commerce of the House of Representatives; and
+
+(4) the Committee on Appropriations of the House of Representatives.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 512 of div. P of Pub. L. 115–141. Subsec. (a) of section 512 of div. P of Pub. L. 115–141 amended [section 309 of this title](./chapter-005-wire-or-radio-communication.md#section-309).
 
 
 <a id="section-310"></a>
@@ -6706,7 +7124,7 @@ Amendment by Pub. L. 101–431 effective July 1, 1993, see section 5 of Pub. L. 
 ## § 331. Very high frequency stations and AM radio stations
 **(a) Very high frequency stations** It shall be the policy of the Federal Communications Commission to allocate channels for very high frequency commercial television broadcasting in a manner which ensures that not less than one such channel shall be allocated to each State, if technically feasible. In any case in which licensee of a very high frequency commercial television broadcast station notifies the Commission to the effect that such licensee will agree to the reallocation of its channel to a community within a State in which there is allocated no very high frequency commercial television broadcast channel at the time 11 So in original. Probably should be followed by “of”. such notification, the Commission shall, notwithstanding any other provision of law, order such reallocation and issue a license to such licensee for that purpose pursuant to such notification for a term of not to exceed 5 years as provided in section 307(d) 22 See References in Text note below. of this title.
 
-**(b) AM radio stations** It shall be the policy of the Commission, in any case in which the licensee of an existing AM daytime-only station located in a community with a population of more than 100,000 persons that lacks a local full-time aural station licensed to that community and that is located within a Class I station primary service area notifies the Commission that such licensee seeks to provide full-time service, to ensure that such a licensee is able to place a principal community contour signal over its entire community of license 24 hours a day, if technically feasible. The Commission shall report to the appropriate committees of Congress within 30 days after December 20, 1991, on how it intends to meet this policy goal.
+**(b) AM radio stations** It shall be the policy of the Commission, in any case in which the licensee of an existing AM daytime-only station located in a community with a population of more than 100,000 persons that lacks a local full-time aural station licensed to that community and that is located within a Class I station primary service area notifies the Commission that such licensee seeks to provide full-time service, to ensure that such a licensee is able to place a principal community contour signal over its entire community of license 24 hours a day, if technically feasible.
 
 ### Statutory Notes
 
@@ -6714,14 +7132,14 @@ Amendment by Pub. L. 101–431 effective July 1, 1993, see section 5 of Pub. L. 
 Subsec. (d) of [section 307 of this title](./chapter-005-wire-or-radio-communication.md#section-307), referred to in subsec. (a), was redesignated subsec. (c) of section 307 by Pub. L. 97–259, title I, § 112(a), Sept. 13, 1982, 96 Stat. 1093.
 
 #### Codification
-December 20, 1991, referred to in subsec. (b), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–243, which enacted subsec. (b), to reflect the probable intent of Congress.
-
 Another section 331 of act June 19, 1934 was renumbered section 332 and is classified to [section 332 of this title](./chapter-005-wire-or-radio-communication.md#section-332).
 
 #### Prior Provisions
 A prior section 331, act June 19, 1934, ch. 652, title III, § 331, as added Sept. 14, 1973, Pub. L. 93–107, § 1, 87 Stat. 350, related to broadcasting of games of professional sports clubs, prior to repeal by Pub. L. 93–107, § 2, Sept. 14, 1973, 87 Stat. 351, effective Dec. 31, 1975.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–141 struck out at end: “The Commission shall report to the appropriate committees of Congress within 30 days after December 20, 1991, on how it intends to meet this policy goal.”
+
 1994—Pub. L. 103–414 amended section catchline generally.
 
 1991—Pub. L. 102–243 inserted “and AM radio stations” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
@@ -6763,7 +7181,7 @@ A prior section 331, act June 19, 1934, ch. 652, title III, § 331, as added Sep
 
   (B) Upon reasonable request of any person providing commercial mobile service, the Commission shall order a common carrier to establish physical connections with such service pursuant to the provisions of [section 201 of this title](./chapter-005-wire-or-radio-communication.md#section-201). Except to the extent that the Commission is required to respond to such a request, this subparagraph shall not be construed as a limitation or expansion of the Commission’s authority to order interconnection pursuant to this chapter.
 
-  (C) The Commission shall review competitive market conditions with respect to commercial mobile services and shall include in its annual report an analysis of those conditions. Such analysis shall include an identification of the number of competitors in various commercial mobile services, an analysis of whether or not there is effective competition, an analysis of whether any of such competitors have a dominant share of the market for such services, and a statement of whether additional providers or classes of providers in those services would be likely to enhance competition. As a part of making a determination with respect to the public interest under subparagraph (A)(iii), the Commission shall consider whether the proposed regulation (or amendment thereof) will promote competitive market conditions, including the extent to which such regulation (or amendment) will enhance competition among providers of commercial mobile services. If the Commission determines that such regulation (or amendment) will promote competition among providers of commercial mobile services, such determination may be the basis for a Commission finding that such regulation (or amendment) is in the public interest.
+  (C) As a part of making a determination with respect to the public interest under subparagraph (A)(iii), the Commission shall consider whether the proposed regulation (or amendment thereof) will promote competitive market conditions, including the extent to which such regulation (or amendment) will enhance competition among providers of commercial mobile services. If the Commission determines that such regulation (or amendment) will promote competition among providers of commercial mobile services, such determination may be the basis for a Commission finding that such regulation (or amendment) is in the public interest.
 
   (D) The Commission shall, not later than 180 days after August 10, 1993, complete a rulemaking required to implement this paragraph with respect to the licensing of personal communications services, including making any determinations required by subparagraph (C).
 
@@ -6845,6 +7263,8 @@ The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is
 In subsec. (b)(2), “[section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim)” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section665/b&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+2018—Subsec. (c)(1)(C). Pub. L. 115–141 struck out first and second sentences which read as follows: “The Commission shall review competitive market conditions with respect to commercial mobile services and shall include in its annual report an analysis of those conditions. Such analysis shall include an identification of the number of competitors in various commercial mobile services, an analysis of whether or not there is effective competition, an analysis of whether any of such competitors have a dominant share of the market for such services, and a statement of whether additional providers or classes of providers in those services would be likely to enhance competition.”
+
 1996—Subsec. (c)(7). Pub. L. 104–104, § 704(a), added par. (7).
 
 Subsec. (c)(8). Pub. L. 104–104, § 705, added par. (8).
@@ -7018,7 +7438,7 @@ Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–38
 
   (B) *Retention of revenues* — Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this section and regulating and supervising advanced television services. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis.
 
-(4) **Report** — Within 5 years after February 8, 1996, the Commission shall report to the Congress on the implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.
+(4) **Report** — The Commission shall annually advise the Congress on the amounts collected pursuant to the program required by this subsection.
 
 **(f) Preservation of low-power community television broadcasting**
 
@@ -7217,6 +7637,8 @@ The date of enactment of LPTV Digital Data Services Act, referred to in subsec. 
 This chapter, referred to in subsec. (h)(6), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 #### Amendments
+2018—Subsec. (e)(4). Pub. L. 115–141 amended par. (4) generally. Pior to amendment, text read as follows: “Within 5 years after February 8, 1996, the Commission shall report to the Congress on the implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.”
+
 2000—Subsecs. (h), (i). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 1999—Subsecs. (f) to (h). Pub. L. 106–113 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
@@ -7744,29 +8166,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title II], Nov. 29, 1999, 113 Stat. 15
 
 **(c) Eligibility for retransmission**
 
-(1) **Study of digital strength testing procedures**
-
-  (A) *Study required* — Not later than 1 year after December 8, 2004, the Federal Communications Commission shall complete an inquiry regarding whether, for purposes of identifying if a household is unserved by an adequate digital signal under [section 119(d)(10) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d/10&num=0&edition=prelim), the digital signal strength standard in section 73.622(e)(1) of title 47, Code of Federal Regulations, or the testing procedures in section 73.686(d) of title 47, Code of Federal Regulations, such statutes or regulations should be revised to take into account the types of antennas that are available to consumers.
-
-  (B) *Study considerations* — In conducting the study under this paragraph, the Commission shall consider whether—
-
-    (i) to account for the fact that an antenna can be mounted on a roof or placed in a home and can be fixed or capable of rotating;
-
-    (ii) section 73.686(d) of title 47, Code of Federal Regulations, should be amended to create different procedures for determining if the requisite digital signal strength is present than for determining if the requisite analog signal strength is present;
-
-    (iii) a standard should be used other than the presence of a signal of a certain strength to ensure that a household can receive a high-quality picture using antennas of reasonable cost and ease of installation;
-
-    (iv) to develop a predictive methodology for determining whether a household is unserved by an adequate digital signal under [section 119(d)(10) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d/10&num=0&edition=prelim);
-
-    (v) there is a wide variation in the ability of reasonably priced consumer digital television sets to receive over-the-air signals, such that at a given signal strength some may be able to display high-quality pictures while others cannot, whether such variation is related to the price of the television set, and whether such variation should be factored into setting a standard for determining whether a household is unserved by an adequate digital signal; and
-
-    (vi) to account for factors such as building loss, external interference sources, or undesired signals from both digital television and analog television stations using either the same or adjacent channels in nearby markets, foliage, and man-made clutter.
-
-  (C) *Report* — Not later than 1 year after December 8, 2004, the Federal Communications Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
-
-    (i) the results of the study under this paragraph; and
-
-    (ii) recommendations, if any, as to what changes should be made to Federal statutes or regulations.
+(1) **Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(7), Mar. 23, 2018, 132 Stat. 1090**
 
 (2) **Waivers** — A subscriber who is denied the retransmission of a signal of a network station under [section 119 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119&num=0&edition=prelim) may request a waiver from such denial by submitting a request, through such subscriber’s satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber’s request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under [section 119(d)(10)(B) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/d/10/B&num=0&edition=prelim), if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber’s request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
 
@@ -7816,6 +8216,8 @@ The date of enactment of the Satellite Television Extension and Localism Act of 
 [Section 119(a)(12) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/12&num=0&edition=prelim), referred to in subsec. (a)(2)(G), was redesignated as [section 119(a)(11) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119/a/11&num=0&edition=prelim) by Pub. L. 111–175, title I, § 102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–141 struck out par. (1) which related to study of digital strength testing procedures.
+
 2010—Subsec. (a)(1). Pub. L. 111–175, § 204(b)(1)(A), which directed amendment of subpar. (B) by striking out “ ‘Such two network stations’ and all that follows through ‘more than two network stations.’ ”, was executed by striking out concluding provisions which read “Such two network stations may be comprised of both the analog signal and digital signal of not more than two network stations.”, to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(A). Pub. L. 111–175, § 204(b)(1)(B)(i), struck out “to analog signals” after “subscribers” in heading.
@@ -8329,9 +8731,9 @@ Section effective May 20, 1937, unless deferred by the Commission, see section 1
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14.
 
 “Commandant of the Coast Guard” substituted in subsec. (b) for “Bureau of Marine Inspection and Navigation, Department of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§ 101–104, set out in the Appendix to Title 5.
 
@@ -8462,7 +8864,7 @@ Section effective May 20, 1937, see section 16 of act May 20, 1937, set out as a
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 
 <a id="section-360"></a>
@@ -9102,19 +9504,7 @@ Section effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as 
 
 (2) Subject to such terms and conditions as may be established by public telecommunications entities receiving space satellite interconnection facilities or services purchased or arranged for, in whole or in part, with funds authorized under this part, other public telecommunications entities shall have reasonable access to such facilities or services for the distribution of educational and cultural programs to public telecommunications entities. Any remaining capacity shall be made available to other persons for the transmission of noncommercial educational and cultural programs and program information relating to such programs, to public telecommunications entities, at a charge or charges comparable to the charge or charges, if any, imposed upon a public telecommunications entity for the distribution of noncommercial educational and cultural programs to public telecommunications entities. No such person shall be denied such access whenever sufficient capacity is available.
 
-**(i) Report to Congress**
-
-(1) The Corporation shall submit an annual report for the preceding fiscal year ending September 30 to the President for transmittal to the Congress on or before the 15th day of May of each year. The report shall include—
-
-  (A) a comprehensive and detailed report of the Corporation’s operations, activities, financial condition, and accomplishments under this subpart and such recommendations as the Corporation deems appropriate;
-
-  (B) a comprehensive and detailed inventory of funds distributed by Federal agencies to public telecommunications entities during the preceding fiscal year;
-
-  (C) a listing of each organization that receives a grant from the Corporation to produce programming, the name of the producer of any programming produced under each such grant, the title or description of any program so produced, and the amount of each such grant; 11 So in original. Probably should be followed by “and”.
-
-  (D) the summary of the annual report provided to the Secretary pursuant to [section 398(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section398/b/4&num=0&edition=prelim).
-
-(2) The officers and directors of the Corporation shall be available to testify before appropriate committees of the Congress with respect to such report, the report of any audit made by the Comptroller General pursuant to subsection (l), or any other matter which such committees may determine.
+**(i) Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(8)(A), Mar. 23, 2018, 132 Stat. 1090**
 
 **(j) Repeal, alteration, or amendment** The right to repeal, alter, or amend this section at any time is expressly reserved.
 
@@ -9131,8 +9521,6 @@ Section effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as 
   (D) In addition to any amounts authorized under any other provision of this or any other Act to be appropriated to the Fund, $20,000,000 are hereby authorized to be appropriated to the Fund (notwithstanding any other provision of this subsection) specifically for transition from the use of analog to digital technology for the provision of public broadcasting services for fiscal year 2001.
 
   (E) Funds appropriated under this subsection shall remain available until expended.
-
-  (F) In recognition of the importance of educational programs and services, and the expansion of public radio services, to unserved and underserved audiences, the Corporation, after consultation with the system of public telecommunications entities, shall prepare and submit to the Congress an annual report for each of the fiscal years 1994, 1995, and 1996 on the Corporation’s activities and expenditures relating to those programs and services.
 
 (2)
 
@@ -9196,13 +9584,13 @@ Section effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as 
 
       (IV) The Corporation shall ensure that the funds provided to such independent production service shall be used exclusively in pursuit of the Corporation’s obligation to expand the diversity and innovativeness of programming available to public broadcasting.
 
-      (V) The Corporation shall report annually to Congress regarding the activities and expenditures of the independent production service, including carriage and viewing information for programs produced or acquired with funds provided pursuant to subclause (I). At the end of fiscal years 1992, 1993, 1994, and 1995, the Corporation shall submit a report to Congress evaluating the performance of the independent production service in light of its mission to expand the diversity and innovativeness of programming available to public broadcasting.
+      (V) Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(8)(B)(ii), Mar. 23, 2018, 132 Stat. 1090.
 
       (VI) The Corporation shall not contract to provide funds to any such independent production service, unless that service agrees to comply with public inspection requirements established by the Corporation within 3 months after August 26, 1992. Under such requirements the service shall maintain at its offices a public file, updated regularly, containing information relating to the service’s award of funds for the production of programming. The information shall be available for public inspection and copying for at least 3 years and shall be of the same kind as the information required to be maintained by the Corporation under subsection (l)(4)(B).
 
 (4) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization), or to the licensee or permittee of any public broadcast station, unless the governing body of any such organization, any committee of such governing body, or any advisory body of any such organization, holds open meetings preceded by reasonable notice to the public. All persons shall be permitted to attend any meeting of the board, or of any such committee or body, and no person shall be required, as a condition to attendance at any such meeting, to register such person’s name or to provide any other information. Nothing contained in this paragraph shall be construed to prevent any such board, committee, or body from holding closed sessions to consider matters relating to individual employees, proprietary information, litigation and other matters requiring the confidential advice of counsel, commercial or financial information obtained from a person on a privileged or confidential basis, or the purchase of property or services whenever the premature exposure of such purchase would compromise the business interests of any such organization. If any such meeting is closed pursuant to the provisions of this paragraph, the organization involved shall thereafter (within a reasonable period of time) make available to the public a written statement containing an explanation of the reasons for closing the meeting.
 
-(5) Funds may not be distributed pursuant to this subsection to any public telecommunications entity that does not maintain for public examination copies of the annual financial and audit reports, or other information regarding finances, submitted to the Corporation pursuant to subsection (1)(3)(B).22 So in original. Probably should be “(l)(3)(B).”.
+(5) Funds may not be distributed pursuant to this subsection to any public telecommunications entity that does not maintain for public examination copies of the annual financial and audit reports, or other information regarding finances, submitted to the Corporation pursuant to subsection (1)(3)(B).11 So in original. Probably should be “(l)(3)(B).”
 
 (6)
 
@@ -9220,7 +9608,7 @@ Section effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as 
 
 (8)
 
-  (A) Funds may not be distributed pursuant to this subpart to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisory board. Any such station shall undertake good faith efforts to assure that (i) its advisory board meets at regular intervals; (ii) the members of its advisory board regularly attend the meetings of the advisory board; and (iii) the composition of its advisory board are 33 So in original. Probably should be “is”. reasonably representative of the diverse needs and interests of the communities served by such station.
+  (A) Funds may not be distributed pursuant to this subpart to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisory board. Any such station shall undertake good faith efforts to assure that (i) its advisory board meets at regular intervals; (ii) the members of its advisory board regularly attend the meetings of the advisory board; and (iii) the composition of its advisory board are 22 So in original. Probably should be “is”. reasonably representative of the diverse needs and interests of the communities served by such station.
 
   (B) The board shall be permitted to review the programming goals established by the station, the service provided by the station, and the significant policy decisions rendered by the station. The board may also be delegated any other responsibilities, as determined by the governing body of the station. The board shall advise the governing body of the station with respect to whether the programming and other policies of such station are meeting the specialized educational and cultural needs of the communities served by the station, and may make such recommendations as it considers appropriate to meet such needs.
 
@@ -9230,7 +9618,7 @@ Section effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as 
 
   (E) The provision of subparagraph (A) prohibiting the distribution of funds to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisory board shall be the exclusive remedy for the enforcement of the provisions of this paragraph.
 
-(9) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization) unless assurances are provided to the Corporation that no officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization), as the case may be, will be compensated in excess of reasonable compensation as determined pursuant to Section 44 So in original. Probably should not be capitalized. 4958 of title 26 for services that the officer or employee renders to organization,55 So in original. Probably should be “the organization,”. and unless further assurances are provided to the Corporation that no officer or employee of such an entity will be loaned money by that entity on an interest-free basis.
+(9) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization) unless assurances are provided to the Corporation that no officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization), as the case may be, will be compensated in excess of reasonable compensation as determined pursuant to Section 33 So in original. Probably should not be capitalized. 4958 of title 26 for services that the officer or employee renders to organization,44 So in original. Probably should be “the organization,”. and unless further assurances are provided to the Corporation that no officer or employee of such an entity will be loaned money by that entity on an interest-free basis.
 
 (10)
 
@@ -9292,7 +9680,7 @@ Section effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as 
 
   (A) The accounts of the Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States, except that such requirement shall not preclude shared auditing arrangements between any public telecommunications entity and its licensee where such licensee is a public or private institution. The audits shall be conducted at the place or places where the accounts of the Corporation are normally kept. All books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audits shall be made available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents and custodians shall be afforded to such person or persons.
 
-  (B) The report of each such independent audit shall be included in the annual report required by subsection (i) of this section. The audit report shall set forth the scope of the audit and include such statements as are necessary to present fairly the Corporation’s assets and liabilities, surplus or deficit, with an analysis of the changes therein during the year, supplemented in reasonable detail by a statement of the Corporation’s income and expenses during the year, and a statement of the sources and application of funds, together with the independent auditor’s opinion of those statements.
+  (B) The report of each such independent audit shall set forth the scope of the audit and include such statements as are necessary to present fairly the Corporation’s assets and liabilities, surplus or deficit, with an analysis of the changes therein during the year, supplemented in reasonable detail by a statement of the Corporation’s income and expenses during the year, and a statement of the sources and application of funds, together with the independent auditor’s opinion of those statements.
 
 (2)
 
@@ -9340,14 +9728,6 @@ Section effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as 
 
   (D) The Corporation shall make available for public inspection an annual list of national programs distributed by public broadcasting entities that receive funds under subsection (k)(3)(A)(ii)(III) or (iii)(II) and are engaged primarily in the national distribution of public television or radio programs. Such list shall include the names of the programs (or program series), producers, and providers of funding.
 
-**(m) Needs of minorities and other groups**
-
-(1) Prior to July 1, 1989, and every three years thereafter, the Corporation shall compile an assessment of the needs of minority and diverse audiences, the plans of public broadcasting entities and public telecommunications entities to address such needs, the ways radio and television can be used to help these underrepresented groups, and projections concerning minority employment by public broadcasting entities and public telecommunications entities. Such assessment shall address the needs of racial and ethnic minorities, new immigrant populations, people for whom English is a second language, and adults who lack basic reading skills.
-
-(2) Commencing July 1, 1989, the Corporation shall prepare an annual report on the provision by public broadcasting entities and public telecommunications entities of service to the audiences described in paragraph (1). Such report shall address programming (including that which is produced by minority producers), training, minority employment, and efforts by the Corporation to increase the number of minority public radio and television stations eligible for financial support from the Corporation. Such report shall include a summary of the statistical reports received by the Corporation pursuant to subsection (k)(11), and a comparison of the information contained in those reports with the information submitted by the Corporation in the previous year’s annual report.
-
-(3) As soon as they have been prepared, each assessment and annual report required under paragraphs (1) and (2) shall be submitted to Congress.
-
 ### Statutory Notes
 
 #### References in Text
@@ -9361,6 +9741,22 @@ This chapter, referred to in subsecs. (c)(6), (h)(1), and (k)(6)(A), was in the 
 A prior section 396, act June 19, 1934, ch. 652, title III, § 396, as added May 1, 1962, Pub. L. 87–447, 76 Stat. 67, was renumbered section 394 by Pub. L. 90–129, and subsequently renumbered section 393A by Pub. L. 101–437, and is classified to [section 393a of this title](./chapter-005-wire-or-radio-communication.md#section-393a).
 
 #### Amendments
+2018—Subsec. (i). Pub. L. 115–141, § 402(i)(8)(A), struck out subsec. (i) which required the Corporation for Public Broadcasting to submit to Congress a comprehensive annual report.
+
+Subsec. (k)(1)(F). Pub. L. 115–141, § 402(i)(8)(B)(i), struck out subpar. (F) which read as follows: “In recognition of the importance of educational programs and services, and the expansion of public radio services, to unserved and underserved audiences, the Corporation, after consultation with the system of public telecommunications entities, shall prepare and submit to the Congress an annual report for each of the fiscal years 1994, 1995, and 1996 on the Corporation’s activities and expenditures relating to those programs and services.”
+
+Subsec. (k)(3)(B)(iii)(V). Pub. L. 115–141, § 402(i)(8)(B)(ii), struck out subcl. (V) which read as follows: “The Corporation shall report annually to Congress regarding the activities and expenditures of the independent production service, including carriage and viewing information for programs produced or acquired with funds provided pursuant to subclause (I). At the end of fiscal years 1992, 1993, 1994, and 1995, the Corporation shall submit a report to Congress evaluating the performance of the independent production service in light of its mission to expand the diversity and innovativeness of programming available to public broadcasting.”
+
+Subsec. (l)(1)(B). Pub. L. 115–141, § 402(i)(8)(C), struck out “shall be included in the annual report required by subsection (i) of this section. The audit report” after “each such independent audit”.
+
+Subsec. (m). Pub. L. 115–141, § 402(i)(8)(D), struck out subsec. (m). Text read as follows:
+
+“(1) Prior to July 1, 1989, and every three years thereafter, the Corporation shall compile an assessment of the needs of minority and diverse audiences, the plans of public broadcasting entities and public telecommunications entities to address such needs, the ways radio and television can be used to help these underrepresented groups, and projections concerning minority employment by public broadcasting entities and public telecommunications entities. Such assessment shall address the needs of racial and ethnic minorities, new immigrant populations, people for whom English is a second language, and adults who lack basic reading skills.
+
+“(2) Commencing July 1, 1989, the Corporation shall prepare an annual report on the provision by public broadcasting entities and public telecommunications entities of service to the audiences described in paragraph (1). Such report shall address programming (including that which is produced by minority producers), training, minority employment, and efforts by the Corporation to increase the number of minority public radio and television stations eligible for financial support from the Corporation. Such report shall include a summary of the statistical reports received by the Corporation pursuant to subsection (k)(11), and a comparison of the information contained in those reports with the information submitted by the Corporation in the previous year’s annual report.
+
+“(3) As soon as they have been prepared, each assessment and annual report required under paragraphs (1) and (2) shall be submitted to Congress.”
+
 2004—Subsec. (l)(2)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 2001—Subsec. (k)(1)(D) to (F). Pub. L. 107–20 added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
@@ -9710,7 +10106,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
   (C) The provisions of subparagraph (A) and subparagraph (B) shall take effect on the effective date of the rules and regulations prescribed by the Secretary pursuant to paragraph (2)(A).
 
-(4) Based upon its responsibilities under paragraph (3), the Corporation shall provide an annual report for the preceding fiscal year ending September 30 to the Secretary on or before the 15th day of February of each year. The report shall contain information in the form required by the Secretary. The Corporation shall submit a summary of such report to the President and the Congress as part of the report required in [section 396(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section396/i&num=0&edition=prelim). The Corporation shall provide other information in the form which the Secretary may require in order to carry out the functions of the Secretary under this subsection.
+(4) Based upon its responsibilities under paragraph (3), the Corporation shall provide an annual report for the preceding fiscal year ending September 30 to the Secretary on or before the 15th day of February of each year. The report shall contain information in the form required by the Secretary. The Corporation shall provide other information in the form which the Secretary may require in order to carry out the functions of the Secretary under this subsection.
 
 (5) Whenever the Secretary makes a final determination, pursuant to the rules and regulations which the Secretary shall prescribe, that a recipient is not in compliance with paragraph (1), the Secretary shall, within 10 days after such determination, notify the recipient in writing of such determination and request the recipient to secure compliance. Unless the recipient within 120 days after receipt of such written notice—
 
@@ -9731,6 +10127,8 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 Subpart C, referred to in subsec. (b)(1), (3)(A), was redesignated subpart D by Pub. L. 101–437, title II, § 203(a)(2), Oct. 17, 1990, 104 Stat. 998.
 
 #### Amendments
+2018—Subsec. (b)(4). Pub. L. 115–141 struck out “The Corporation shall submit a summary of such report to the President and the Congress as part of the report required in [section 396(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section396/i&num=0&edition=prelim).” after “by the Secretary.”.
+
 1988—Subsec. (b)(1). Pub. L. 100–626, § 9(b), inserted “in accordance with the equal employment opportunity regulations of the Commission,” before “and no person”.
 
 1978—Pub. L. 95–567 designated existing provisions as subsec. (a), substituted “public telecommunications entity” and “public telecommunications” for “educational broadcasting station or system” and “educational television or radio broadcasting”, respectively, and added subsecs. (b) and (c).
@@ -10279,6 +10677,9 @@ Subsec. (b)(6)(A). Pub. L. 102–538, § 206(1), struck out “so long as such v
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–234 effective on thirtieth day after Feb. 21, 1978, except that the provisions of subsec. (b) of this section, as in effect on Feb. 21, 1978, shall continue to constitute the applicable law with respect to any act or omission which occurs prior to such thirtieth day, see section 7 of Pub. L. 95–234, set out as a note under [section 152 of this title](./chapter-005-wire-or-radio-communication.md#section-152).
+
+#### Disclaimer for Press Releases Regarding Notices of Apparent Liability
+Pub. L. 115–141, div. P, title V, § 511, Mar. 23, 2018, 132 Stat. 1097, provided that: “The Commission [Federal Communications Commission] shall include in any press release regarding the issuance of a notice of apparent liability under section 503(b)(4) of the Communications Act of 1934 ([47 U.S.C. 503(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section503/b/4&num=0&edition=prelim)) a disclaimer informing consumers that— “(1) the issuance of a notice of apparent liability should be treated only as allegations; and “(2) the amount of any forfeiture penalty proposed in a notice of apparent liability represents the maximum penalty that the Commission may impose for the violations alleged in the notice of apparent liability.”
 
 
 <a id="section-504"></a>
@@ -11079,6 +11480,34 @@ A franchising authority shall, if the franchise requires franchising authority a
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under [section 325 of this title](./chapter-005-wire-or-radio-communication.md#section-325).
 
 
+<a id="section-537a"></a>
+## § 537a. Carriage of certain programming
+**(a) Definitions** In this section—
+
+(1) the term “local commercial television station” has the meaning given the term in [section 534(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section534/h&num=0&edition=prelim);
+
+(2) the term “multichannel video programming distributor” has the meaning given the term in [section 522 of this title](./chapter-005-wire-or-radio-communication.md#section-522);
+
+(3) the term “qualified noncommercial educational television station” has the meaning given the term in section 535(l) of this title;
+
+(4) the term “retransmission consent” means the authority granted to a multichannel video programming distributor under [section 325(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section325/b&num=0&edition=prelim) to retransmit the signal of a television broadcast station; and
+
+(5) the term “television broadcast station” has the meaning given the term in section 76.66(a) of title 47, Code of Federal Regulations.
+
+**(b) Carriage of certain content** Notwithstanding any other provision of law, a multichannel video programming distributor may not be directly or indirectly required, including as a condition of obtaining retransmission consent, to—
+
+(1) carry non-incidental video content from a local commercial television station, qualified noncommercial educational television station, or television broadcast station to the extent that such content is owned, controlled, or financed (in whole or in part) by the Government of the Russian Federation; or
+
+(2) lease, or otherwise make available, channel capacity to any person for the provision of video programming that is owned, controlled, or financed (in whole or in part) by the Government of the Russian Federation.
+
+**(c) Rule of construction** Nothing in this section may be construed as applying to the editorial use by a local commercial television station, qualified noncommercial educational television station, or television broadcast station of programming that is owned, controlled, or financed (in whole or in part) by the Government of the Russian Federation.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2018, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+
 <a id="section-541"></a>
 ## § 541. General franchise requirements
 **(a) Authority to award franchises; public rights-of-way and easements; equal access to service; time for provision of service; assurances**
@@ -11388,9 +11817,9 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 **(k) Reports on average prices**
 
-(1) **In general** — The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
+(1) **In general** — The Commission shall publish with its report under [section 163 of this title](./chapter-005-wire-or-radio-communication.md#section-163) statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
 
-(2) **Inclusion in annual report**
+(2) **Inclusion in report**
 
   (A) *In general* — The Commission shall include in its report under paragraph (1) the aggregate average total amount paid by cable systems in compensation under [section 325 of this title](./chapter-005-wire-or-radio-communication.md#section-325).
 
@@ -11438,6 +11867,10 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (k)(1). Pub. L. 115–141, § 402(e)(1), substituted “publish with its report under [section 163 of this title](./chapter-005-wire-or-radio-communication.md#section-163)” for “annually publish”.
+
+Subsec. (k)(2). Pub. L. 115–141, § 402(e)(2), struck out “annual” before “report” in heading.
+
 2014—Subsec. (k). Pub. L. 113–200, § 110, amended subsec. (k) generally. Prior to amendment, text read as follows: “The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
 
 “(1) cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
@@ -11583,7 +12016,7 @@ Section not to be construed to allow a franchising authority, or a State or poli
 
 **(b) Compatible interfaces**
 
-(1) **Report; regulations** — Within 1 year after October 5, 1992, the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders. Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility.
+(1) **Regulations** — The Commission shall issue such regulations as are necessary to assure compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders.
 
 (2) **Scrambling and encryption** — In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramble signals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technology does not interfere with the functions of subscribers’ television receivers or video cassette recorders.
 
@@ -11636,6 +12069,8 @@ Section not to be construed to allow a franchising authority, or a State or poli
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–141, in heading, substituted “Regulations” for “Report; regulations”, and in text, substituted “The Commission shall issue such regulations as are necessary to assure” for “Within 1 year after October 5, 1992, the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring” and struck out at end “Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility.”
+
 1996—Subsec. (a)(4). Pub. L. 104–104, § 301(f)(1), added par. (4).
 
 Subsec. (c)(1)(A) to (C). Pub. L. 104–104, § 301(f)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
@@ -11864,7 +12299,7 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 (3) provide for penalties to be assessed against any person filing a frivolous complaint pursuant to this section.
 
-**(g) Reports** The Commission shall, beginning not later than 18 months after promulgation of the regulations required by subsection (c), annually report to Congress on the status of competition in the market for the delivery of video programming.
+**(g) Common carriers** Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in which such common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
 
 **(h) Exemptions for prior contracts**
 
@@ -11882,14 +12317,14 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 (4) The term “satellite broadcast programming vendor” means a fixed service satellite carrier that provides service pursuant to [section 119 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section119&num=0&edition=prelim) with respect to satellite broadcast programming.
 
-**(j) Common carriers** Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in which such common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
-
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (e)(2), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 #### Amendments
+2018—Subsecs. (g), (j). Pub. L. 115–141 redesignated subsec. (j) as (g), transferred subsec. (g) to appear after subsec. (f), and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: “The Commission shall, beginning not later than 18 months after promulgation of the regulations required by subsection (c), annually report to Congress on the status of competition in the market for the delivery of video programming.”
+
 1996—Subsec. (j). Pub. L. 104–104 added subsec. (j).
 
 #### Effective Date
@@ -12260,7 +12695,7 @@ For “the effective date of this subchapter”, referred to in subsec. (i)(1)(C
 
 1992—Subsec. (d)(1). Pub. L. 102–385, § 22(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not later than 270 days after the effective date of this section, and after notice and opportunity for hearing, the Commission shall prescribe rules to carry out this section.”
 
-Subsec. (d)(3). Pub. L. 102–385, § 22(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Such rules also shall require an entity specified in subsection (a) of this section with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race and sex the number of employees in each of the following full-time and part-time job categories:
+Subsec. (d)(3). Pub. L. 102–385, § 22(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Such rules also shall require an entity specified in subsection (a) with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race and sex the number of employees in each of the following full-time and part-time job categories:
 
 “(A) officials and managers;
 
@@ -12764,7 +13199,7 @@ Subsec. (e)(3)(C)(ii). Pub. L. 100–667, § 205(10), substituted “$100,000 fo
 
 Subsec. (e)(3)(C)(iii). Pub. L. 100–667, § 205(11), substituted “$250” for “$100”.
 
-Subsec. (e)(4). Pub. L. 100–667, § 205(12), added par. (4) and struck out former par. (4) which read as follows: “The importation, manufacture, sale, or distribution of equipment by any person with the intent of its use to assist in any activity prohibited by subsection (a) of this section shall be subject to penalties and remedies under this subsection to the same extent and in the same manner as a person who has engaged in such prohibited activity.”
+Subsec. (e)(4). Pub. L. 100–667, § 205(12), added par. (4) and struck out former par. (4) which read as follows: “The importation, manufacture, sale, or distribution of equipment by any person with the intent of its use to assist in any activity prohibited by subsection (a) shall be subject to penalties and remedies under this subsection to the same extent and in the same manner as a person who has engaged in such prohibited activity.”
 
 Subsec. (f). Pub. L. 100–667, § 204, added subsec. (f) relating to universal encryption standard.
 
@@ -12883,6 +13318,13 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended [section 35 of this title](./chapter-002-submarine-cables.md#section-35), [section 21 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section21&num=0&edition=prelim), Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–141, div. P, § 1(a), Mar. 23, 2018, 132 Stat. 1080, provided that: “This division [see Tables for classification] may be cited as the ‘Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018’ or the ‘RAY BAUM’S Act of 2018’.”
+
+Pub. L. 115–129, § 1, Feb. 26, 2018, 132 Stat. 329, provided that: “This Act [enacting [section 262 of this title](./chapter-005-wire-or-radio-communication.md#section-262)] may be cited as the ‘Improving Rural Call Quality and Reliability Act of 2017’.”
+
+Pub. L. 115–127, § 1, Feb. 16, 2018, 132 Stat. 326, provided that: “This Act [enacting [section 623 of this title](./chapter-005-wire-or-radio-communication.md#section-623) and provisions set out as a note under [section 623 of this title](./chapter-005-wire-or-radio-communication.md#section-623)] may be cited as the ‘Kari’s Law Act of 2017’.”
 
 #### Short Title of 2016 Amendment
 Pub. L. 114–182, title II, § 201, June 22, 2016, 130 Stat. 512, provided that: “This title [amending [section 254 of this title](./chapter-005-wire-or-radio-communication.md#section-254) and enacting provisions set out as notes under [section 254 of this title](./chapter-005-wire-or-radio-communication.md#section-254)] may be cited as the ‘Rural Healthcare Connectivity Act of 2016’.”
@@ -13157,7 +13599,7 @@ Section effective Jan. 1, 1989, see section 206 of Pub. L. 100–667, set out as
 
 <a id="section-613"></a>
 ## § 613. Video programming accessibility
-**(a) Commission inquiry** Within 180 days after February 8, 1996, the Federal Communications Commission shall complete an inquiry to ascertain the level at which video programming is closed captioned. Such inquiry shall examine the extent to which existing or previously published programming is closed captioned, the size of the video programming provider or programming owner providing closed captioning, the size of the market served, the relative audience shares achieved, or any other related factors. The Commission shall submit to the Congress a report on the results of such inquiry.
+**(a) Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(11), Mar. 23, 2018, 132 Stat. 1090**
 
 **(b) Accountability criteria** Within 18 months after February 8, 1996, the Commission shall prescribe such regulations as are necessary to implement this section. Such regulations shall ensure that—
 
@@ -13298,6 +13740,8 @@ The Act, referred to in subsec. (c)(2)(D)(v), (vi), probably means act June 19, 
 A prior section 613, act June 19, 1934, ch. 652, title VII, § 713, as added Nov. 16, 1988, Pub. L. 100–667, title II, § 203, 102 Stat. 3958, related to report to Congress on discrimination, prior to repeal by Pub. L. 103–414, title III, § 304(a)(18), Oct. 25, 1994, 108 Stat. 4297.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141 struck out subsec. (a). Text read as follows: “Within 180 days after February 8, 1996, the Federal Communications Commission shall complete an inquiry to ascertain the level at which video programming is closed captioned. Such inquiry shall examine the extent to which existing or previously published programming is closed captioned, the size of the video programming provider or programming owner providing closed captioning, the size of the market served, the relative audience shares achieved, or any other related factors. The Commission shall submit to the Congress a report on the results of such inquiry.”
+
 2010—Subsec. (c). Pub. L. 111–260, § 202(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Such regulations shall include an appropriate schedule of deadlines for the provision of closed captioning of video programming.”
 
 Subsec. (c)(2)(D)(iii). Pub. L. 111–265, § 2(9), substituted “programming distributors” for “programming distribution”.
@@ -13436,6 +13880,9 @@ Section was enacted as part of the Wireless Communications and Public Safety Act
 
 #### Findings and Purpose
 Pub. L. 106–81, § 2, Oct. 26, 1999, 113 Stat. 1286, provided that: “(a) Findings.—The Congress finds that—“(1) the establishment and maintenance of an end-to-end communications infrastructure among members of the public, emergency safety, fire service and law enforcement officials, emergency dispatch providers, transportation officials, and hospital emergency and trauma care facilities will reduce response times for the delivery of emergency care, assist in delivering appropriate care, and thereby prevent fatalities, substantially reduce the severity and extent of injuries, reduce time lost from work, and save thousands of lives and billions of dollars in health care costs; “(2) the rapid, efficient deployment of emergency telecommunications service requires statewide coordination of the efforts of local public safety, fire service and law enforcement officials, emergency dispatch providers, and transportation officials; the establishment of sources of adequate funding for carrier and public safety, fire service and law enforcement agency technology development and deployment; the coordination and integration of emergency communications with traffic control and management systems and the designation of 9–1–1 as the number to call in emergencies throughout the Nation; “(3) emerging technologies can be a critical component of the end-to-end communications infrastructure connecting the public with emergency medical service providers and emergency dispatch providers, public safety, fire service and law enforcement officials, and hospital emergency and trauma care facilities, to reduce emergency response times and provide appropriate care; “(4) improved public safety remains an important public health objective of Federal, State, and local governments and substantially facilitates interstate and foreign commerce; “(5) emergency care systems, particularly in rural areas of the Nation, will improve with the enabling of prompt notification of emergency services when motor vehicle crashes occur; and “(6) the construction and operation of seamless, ubiquitous, and reliable wireless telecommunications systems promote public safety and provide immediate and critical communications links among members of the public; emergency medical service providers and emergency dispatch providers; public safety, fire service and law enforcement officials; transportation officials, and hospital emergency and trauma care facilities. “(b) Purpose.—The purpose of this Act [see Short Title of 1999 Amendments note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)] is to encourage and facilitate the prompt deployment throughout the United States of a seamless, ubiquitous, and reliable end-to-end infrastructure for communications, including wireless communications, to meet the Nation’s public safety and other communications needs.”
+
+#### Accuracy of Dispatchable Location for 9–1–1 Calls
+Pub. L. 115–141, div. P, title V, § 506, Mar. 23, 2018, 132 Stat. 1095, provided that: “(a) Proceeding Required.—Not later than 18 months after the date of the enactment of this Act [Mar. 23, 2018], the Commission [Federal Communications Commission] shall conclude a proceeding to consider adopting rules to ensure that the dispatchable location is conveyed with a 9–1–1 call, regardless of the technological platform used and including with calls from multi-line telephone systems (as defined in section 6502 of the Middle Class Tax Relief and Job Creation Act of 2012 ([47 U.S.C. 1471](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1471))). “(b) Relationship to Other Proceedings.—In conducting the proceeding required by subsection (a), the Commission may consider information and conclusions from other Commission proceedings regarding the accuracy of the dispatchable location for a 9–1–1 call, but nothing in this section shall be construed to require the Commission to reconsider any information or conclusion from a proceeding regarding the accuracy of the dispatchable location for a 9–1–1 call in which the Commission has adopted rules or issued an order before the date of the enactment of this Act. “(c) Definitions.—In this section:“(1) 9–1–1 call.—The term ‘9–1–1 call’ means a voice call that is placed, or a message that is sent by other means of communication, to a public safety answering point (as defined in section 222 of the Communications Act of 1934 ([47 U.S.C. 222](./chapter-005-wire-or-radio-communication.md#section-222))) for the purpose of requesting emergency services. “(2) Dispatchable location.—The term ‘dispatchable location’ means the street address of the calling party, and additional information such as room number, floor number, or similar information necessary to adequately identify the location of the calling party.”
 
 
 <a id="section-615a"></a>
@@ -13931,3 +14378,58 @@ Pub. L. 113–197, § 4, Nov. 26, 2014, 128 Stat. 2056, provided that: “The am
 
 #### Findings
 Pub. L. 113–197, § 2, Nov. 26, 2014, 128 Stat. 2055, provided that: “Congress finds the following: “(1) The Federal Communications Commission (referred to in this section as the ‘Commission’) first standardized physical labels for licensed products such as computers, phones, and other electronic devices in 1973, and the Commission has continually refined physical label requirements over time. “(2) As devices become smaller, compliance with physical label requirements can become more difficult and costly. “(3) Many manufacturers and consumers of licensed devices in the United States would prefer to have the option to provide or receive important Commission labeling information digitally on the screen of the device, at the discretion of the user. “(4) An electronic labeling option would give flexibility to manufacturers in meeting labeling requirements.”
+
+
+<a id="section-623"></a>
+## § 623. Configuration of multi-line telephone systems for direct dialing of 9–1–1.
+**(a) System manufacture, importation, sale, and lease** A person engaged in the business of manufacturing, importing, selling, or leasing multi-line telephone systems may not manufacture or import for use in the United States, or sell or lease or offer to sell or lease in the United States, a multi-line telephone system, unless such system is pre-configured such that, when properly installed in accordance with subsection (b), a user may directly initiate a call to 9–1–1 from any station equipped with dialing facilities, without dialing any additional digit, code, prefix, or post-fix, including any trunk-access code such as the digit “9”, regardless of whether the user is required to dial such a digit, code, prefix, or post-fix for other calls.
+
+**(b) System installation, management, and operation** A person engaged in the business of installing, managing, or operating multi-line telephone systems may not install, manage, or operate for use in the United States such a system, unless such system is configured such that a user may directly initiate a call to 9–1–1 from any station equipped with dialing facilities, without dialing any additional digit, code, prefix, or post-fix, including any trunk-access code such as the digit “9”, regardless of whether the user is required to dial such a digit, code, prefix, or post-fix for other calls.
+
+**(c) On-site notification** A person engaged in the business of installing, managing, or operating multi-line telephone systems shall, in installing, managing, or operating such a system for use in the United States, configure the system to provide a notification to a central location at the facility where the system is installed or to another person or organization regardless of location, if the system is able to be configured to provide the notification without an improvement to the hardware or software of the system.
+
+**(d) Effect on State law** Nothing in this section is intended to alter the authority of State commissions or other State or local agencies with jurisdiction over emergency communications, if the exercise of such authority is not inconsistent with this chapter.
+
+**(e) Enforcement** This section shall be enforced under subchapter V, except that [section 501 of this title](./chapter-005-wire-or-radio-communication.md#section-501) applies only to the extent that such section provides for the punishment of a fine.
+
+**(f) Multi-line telephone system defined** In this section, the term “multi-line telephone system” has the meaning given such term in [section 1471 of this title](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1471).
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+#### Effective Date
+Pub. L. 115–127, § 2(b), Feb. 16, 2018, 132 Stat. 327, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to a multi-line telephone system that is manufactured, imported, offered for first sale or lease, first sold or leased, or installed after the date that is 2 years after the date of the enactment of this Act [Feb. 16, 2018].”
+
+
+<a id="section-624"></a>
+## § 624. Disclosure requirements for United States-based foreign media outlets
+**(a) Reports by outlets to Commission** Not later than 60 days after August 13, 2018, and not less frequently than every 6 months thereafter, a United States-based foreign media outlet shall submit to the Commission a report that contains the following information:
+
+(1) The name of such outlet.
+
+(2) A description of the relationship of such outlet to the foreign principal of such outlet, including a description of the legal structure of such relationship and any funding that such outlet receives from such principal.
+
+**(b) Reports by Commission to Congress** Not later than 90 days after August 13, 2018, and not less frequently than every 6 months thereafter, the Commission shall transmit to Congress a report that summarizes the contents of the reports submitted by United States-based foreign media outlets under subsection (a) during the preceding 6-month period.
+
+**(c) Public availability** The Commission shall make publicly available on the internet website of the Commission each report submitted by a United States-based foreign media outlet under subsection (a) not later than the earlier of—
+
+(1) the date that is 30 days after the outlet submits the report to the Commission; or
+
+(2) the date on which the Commission transmits to Congress under subsection (b) the report covering the 6-month period during which the report of the outlet was submitted to the Commission under subsection (a).
+
+**(d) Definitions** In this section:
+
+(1) **Foreign principal** — The term “foreign principal” has the meaning given such term in section 1(b)(1) of the Foreign Agents Registration Act of 1938 ([22 U.S.C. 611(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611/b/1&num=0&edition=prelim)).
+
+(2) **United States-based foreign media outlet** — The term “United States-based foreign media outlet” means an entity that—
+
+  (A) produces or distributes video programming (as defined in [section 522 of this title](./chapter-005-wire-or-radio-communication.md#section-522)) that is transmitted, or intended for transmission, by a multichannel video programming distributor (as defined in such section) to consumers in the United States; and
+
+  (B) would be an agent of a foreign principal (as defined in paragraph (1)) for purposes of the Foreign Agents Registration Act of 1938 ([22 U.S.C. 611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611&num=0&edition=prelim) et seq.) but for section 1(d) of such Act ([22 U.S.C. 611(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611/d&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The Foreign Agents Registration Act of 1938, referred to in subsec. (d)(2)(B), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611&num=0&edition=prelim) and Tables.

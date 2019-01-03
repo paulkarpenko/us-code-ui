@@ -40,7 +40,7 @@ source: >-
 
   (A) the deduction for dividends paid (as defined in section 561) during such calendar year (but computed without regard to that portion of such deduction which is attributable to the amount excluded under section 857(b)(2)(D)), and
 
-  (B) any amount on which tax is imposed under subsection (b)(1) or (b)(3)(A) of section 857 for any taxable year ending in such calendar year.
+  (B) any amount on which tax is imposed under subsection (b)(1) or (b)(3)(A) 11 See References in Text note below. of section 857 for any taxable year ending in such calendar year.
 
 (2) **Increase by prior year overdistribution** — The amount determined under paragraph (1) for any calendar year shall be increased by the excess (if any) of—
 
@@ -77,6 +77,9 @@ source: >-
   (B) any income giving rise to the adjustment shall be treated as arising when the dividend is paid.
 
 ### Statutory Notes
+
+#### References in Text
+Subsection (b)(3)(A) of section 857, referred to in subsec. (c)(1)(B), was repealed and subsection (b)(3)(B) was redesignated (b)(3)(A) by Pub. L. 115–97, title I, § 13001(b)(2)(K)(i), Dec. 22, 2017, 131 Stat. 2096.
 
 #### Amendments
 1988—Subsec. (c)(1)(A). Pub. L. 100–647, § 1006(s)(3), inserted “(but computed without regard to that portion of such deduction which is attributable to the amount excluded under section 857(b)(2)(D)” after “such calendar year”.

@@ -32,7 +32,7 @@ Pub. L. 111–353, § 1(a), Jan. 4, 2011, 124 Stat. 3885, provided that: “This
 
 
 <a id="section-2202"></a>
-## § 2202. National Agriculture and Food Defense strategy
+## § 2202. National Agriculture and Food Defense Strategy
 **(a) Development and submission of strategy**
 
 (1) **In general** — Not later than 1 year after January 4, 2011, the Secretary of Health and Human Services and the Secretary of Agriculture, in coordination with the Secretary of Homeland Security, shall prepare and transmit to the relevant committees of Congress, and make publicly available on the Internet Web sites of the Department of Health and Human Services and the Department of Agriculture, the National Agriculture and Food Defense Strategy.

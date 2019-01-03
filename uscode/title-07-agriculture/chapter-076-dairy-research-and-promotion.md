@@ -158,7 +158,7 @@ Any order issued under this subchapter shall contain terms and conditions as fol
 
 (1) **Preparation and submission.—** — The order shall require the Board to submit to the Secretary for approval budgets on a fiscal period basis of its anticipated expenses and disbursements in the administration of the order, including projected costs of dairy products promotion and research projects.
 
-(2) **Foreign market efforts.—** — The order shall authorize the Board to expend in the maintenance and expansion of foreign markets an amount not to exceed the amount collected from United States producers for a fiscal year. Of those funds, for each of the 2002 through 2018 fiscal years, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced or manufactured in the United States.
+(2) **Foreign market efforts.—** — The order shall authorize the Board to expend in the maintenance and expansion of foreign markets an amount not to exceed the amount collected from United States producers for a fiscal year. Of those funds, for each of the 2002 through 2023 fiscal years, the Board’s budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced or manufactured in the United States.
 
 **(f)** The order shall provide that the Board, with the approval of the Secretary, may enter into agreements for the development and conduct of the activities authorized under the order as specified in subsection (a) and for the payment of the cost thereof with funds collected through assessments under the order. Any such agreement shall provide that (1) the contracting party shall develop and submit to the Board a plan or project together with a budget or budgets that shall show estimated costs to be incurred for such plan or project, (2) the plan or project shall become effective upon the approval of the Secretary, and (3) the contracting party shall keep accurate records of all of its transactions, account for funds received and expended, and make periodic reports to the Board of activities conducted, and such other reports as the Secretary or the Board may require.
 
@@ -209,6 +209,8 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (e)(2). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (e)(2). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Subsec. (e)(2). Pub. L. 110–246, § 1507(a), substituted “2012” for “2007”.
@@ -534,7 +536,7 @@ June 30, 1968—Pub. L. 90–95, § 1, Sept. 28, 1967, 81 Stat. 231.
 
 June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
 
-June 30, 1966—Pub. L. 89–253, § 24, Oct. 29, 1965, 79 Stat. 977.
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
 
 June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30. 1965, 79 Stat. 108.
 
@@ -570,7 +572,7 @@ June 30, 1968—Pub. L. 90–95, § 2, Sept. 28, 1967, 81 Stat. 231.
 
 June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
 
-June 30, 1966—Pub. L. 89–253, § 24, Oct. 29, 1965, 79 Stat. 977.
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
 
 June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108.
 
@@ -580,7 +582,7 @@ Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525
 <a id="section-4553"></a>
 ## § 4553. Expiration of dairy farmer indemnity program
 
-The authority granted under this subchapter shall expire on September 30, 2018.
+The authority granted under this subchapter shall expire on September 30, 2023.
 
 ### Statutory Notes
 
@@ -600,13 +602,15 @@ June 30, 1968—Pub. L. 90–95, § 3, Sept. 28, 1967, 81 Stat. 231.
 
 June 30, 1967—Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465.
 
-June 30, 1966—Pub. L. 89–253, § 24, Oct. 29, 1965, 79 Stat. 977.
+June 30, 1966—Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977.
 
 June 30, 1965—Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108.
 
 Jan. 31, 1965—Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525.
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Pub. L. 110–246, § 1505, substituted “2012” for “2007”.

@@ -19,6 +19,9 @@ A prior section 3232, Pub. L. 89–136, title VIII, § 802, as added Pub. L. 93�
 
 A prior section 702 of Pub. L. 89–136 was classified to [section 3212 of this title](./chapter-038-public-works-and-economic-development.md#section-3212) prior to repeal by Pub. L. 105–393, § 102(b)(3).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3122"></a>
 ## § 3122. Authorization of appropriations for disaster economic recovery activities
@@ -32,6 +35,9 @@ A prior section 702 of Pub. L. 89–136 was classified to [section 3212 of this 
 A prior section 3233, Pub. L. 89–136, title VIII, § 803, as added Pub. L. 93–288, title V, § 501, May 22, 1974, 88 Stat. 161, authorized provision of funds for recovery investment plans, prior to repeal by Pub. L. 105–393, title I, § 102(c), Nov. 13, 1998, 112 Stat. 3617.
 
 A prior section 703 of Pub. L. 89–136 was classified to [section 3213 of this title](./chapter-038-public-works-and-economic-development.md#section-3213) prior to repeal by Pub. L. 105–393, § 102(b)(3).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3123"></a>
@@ -306,6 +312,9 @@ A prior section 3122, Pub. L. 91–524, title IX, § 901, Nov. 30, 1970, 84 Stat
 
 Pars. (8) to (12). Pub. L. 108–373, § 102(b), added pars. (8) and (12) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3133"></a>
 ## § 3133. Discrimination on basis of sex prohibited in federally assisted programs
@@ -351,6 +360,9 @@ A prior section 3131, Pub. L. 89–136, title I, § 101, Aug. 26, 1965, 79 Stat.
 
 Subsec. (d)(1). Pub. L. 108–373, § 103(2), struck out “adjoining” before “States” in two places.
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3142"></a>
 ## § 3142. Cooperation of Federal agencies
@@ -361,6 +373,9 @@ In accordance with applicable laws and subject to the availability of appropriat
 
 #### Prior Provisions
 A prior section 3132, Pub. L. 89–136, title I, § 102, Aug. 26, 1965, 79 Stat. 554; Pub. L. 93–423, § 2, Sept. 27, 1974, 88 Stat. 1158; Pub. L. 94–487, title I, § 104, Oct. 12, 1976, 90 Stat. 2331; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–506, § 1(1), Dec. 8, 1980, 94 Stat. 2745, authorized grants for operation of health projects, prior to repeal by Pub. L. 105–393, § 102(a).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3143"></a>
@@ -386,6 +401,9 @@ Section 3137, Pub. L. 89–136, title I, § 107, as added Pub. L. 94–487, titl
 
 #### Amendments
 2004—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, inserted “Indian tribes,” after “districts,”, and added subsec. (b).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3144"></a>
@@ -417,6 +435,9 @@ Section 3137, Pub. L. 89–136, title I, § 107, as added Pub. L. 94–487, titl
 #### Prior Provisions
 A prior section 3141, Pub. L. 89–136, title II, § 201, Aug. 26, 1965, 79 Stat. 554; Pub. L. 91–304, § 1(b), July 6, 1970, 84 Stat. 375; Pub. L. 92–65, title I, § 104, Aug. 5, 1971, 85 Stat. 167; Pub. L. 93–46, § 2, June 18, 1973, 87 Stat. 96; Pub. L. 93–423, § 4(a), Sept. 27, 1974, 88 Stat. 1158; Pub. L. 94–487, title I, § 107(a), (b), Oct. 12, 1976, 90 Stat. 2332; Pub. L. 96–506, § 1(3), Dec. 8, 1980, 94 Stat. 2745; Pub. L. 97–35, title XVIII, § 1821(a)(2), Aug. 13, 1981, 95 Stat. 766, authorized public works and development facility loans, prior to repeal by Pub. L. 105–393, § 102(a).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3145"></a>
 ## § 3145. Base closings and realignments
@@ -431,6 +452,9 @@ A prior section 3142, Pub. L. 89–136, title II, § 202, Aug. 26, 1965, 79 Stat
 A prior section 3142–1, Pub. L. 91–596, § 28(d), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 93–237, § 2(c), Jan. 2, 1974, 87 Stat. 1024, which authorized loans for small business compliance with occupational safety and health standards, was omitted from the Code in view of the repeal of subchapter II of this chapter by Pub. L. 105–393.
 
 A prior section 3142a, Pub. L. 89–298, title II, § 217, Oct. 27, 1965, 79 Stat. 1088, which authorized purchase of indebtedness and loans for waterways projects, was transferred to [section 2220 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2220&num=0&edition=prelim), Navigation and Navigable Waters.
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3146"></a>
@@ -489,6 +513,9 @@ Subsec. (d)(3). Pub. L. 108–373, § 201(2), added par. (3) and struck out head
 
 Subsec. (d)(4)(D) to (F). Pub. L. 108–373, § 201(3), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3147"></a>
 ## § 3147. Cost sharing
@@ -523,6 +550,9 @@ A prior section 3144, Pub. L. 89–136, title II, § 204, as added Pub. L. 94–
 Subsec. (b). Pub. L. 108–373, § 202(b), inserted “assumptions of debt,” after “equipment,”.
 
 Subsec. (c). Pub. L. 108–373, § 202(c), added subsec. (c).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3148"></a>
@@ -578,6 +608,9 @@ Subsec. (c)(4). Pub. L. 108–373, § 203(b)(2), struck out heading and text of 
 
 “(B) Certain States, political subdivisions, and nonprofit organizations.—In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted its effective taxing and borrowing capacity, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted its effective borrowing capacity, the Secretary may reduce the non-Federal share below the percentage specified in paragraph (1).”
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3149"></a>
 ## § 3149. Regulations on relative needs and allocations
@@ -608,6 +641,9 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
 #### Amendments
 2004—Pars. (3), (4). Pub. L. 108–373 added pars. (3) and (4).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3150"></a>
@@ -652,6 +688,9 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 2004—Subsec. (a)(2)(G) to (I). Pub. L. 108–373, § 205(a), added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
 
 Subsec. (a)(3). Pub. L. 108–373, § 205(b), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “In the case of a project assisted under this section, the Secretary may reduce or waive the non-Federal share, without regard to section 3144 or 3145 of this title, if the Secretary finds that the project is not feasible without, and merits, such a reduction or waiver.”
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3151"></a>
@@ -708,6 +747,8 @@ Section, Pub. L. 89–136, title II, § 208, as added Pub. L. 105–393, title I
 
   (B) *Preservation* — Except as provided in subparagraph (A), no provision of this subsection or any regulation promulgated by the Secretary under this subsection supersedes or otherwise affects the application of the securities laws (as the term is defined in section 3(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim))) or the rules, regulations, or orders of the Securities and Exchange Commission or a self-regulatory organization under that Commission.
 
+**(e) Disaster mitigation** In providing assistance pursuant to subsection (c)(2), if appropriate and as applicable, the Secretary may encourage hazard mitigation in assistance provided pursuant to such subsection.
+
 ### Statutory Notes
 
 #### References in Text
@@ -718,6 +759,8 @@ The Securities Act of 1933, referred to in subsec. (d)(4)(A), is title I of act 
 The Securities Exchange Act of 1934, referred to in subsec. (d)(4)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–254 added subsec. (e).
+
 2004—Subsec. (c)(5). Pub. L. 108–373, § 207(a), added par. (5).
 
 Subsec. (d). Pub. L. 108–373, § 207(b), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
@@ -725,6 +768,9 @@ Subsec. (d). Pub. L. 108–373, § 207(b), added subsec. (d) and struck out head
 “(1) In general.—Subject to paragraph (2), an eligible recipient of a grant under this section may directly expend the grant funds or may redistribute the funds to public and private entities in the form of a grant, loan, loan guarantee, payment to reduce interest on a loan guarantee, or other appropriate assistance.
 
 “(2) Limitation.—Under paragraph (1), an eligible recipient may not provide any grant to a private for-profit entity.”
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3153"></a>
@@ -740,6 +786,9 @@ In any case in which a grant (including a supplementary grant described in [sect
 
 #### References in Text
 For the effective date of the Economic Development Administration Reform Act of 1998, referred to in text, see section 105 of Pub. L. 105–393, set out as an Effective Date note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3154"></a>
@@ -778,6 +827,9 @@ Pub. L. 111–8 added subsec. (d) and struck out former subsec. (d) which requir
 
 “(2) any amount of excess funds remaining after application of paragraph (1) shall be deposited in the general fund of the Treasury.”
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3154a"></a>
 ## § 3154a. Reports by recipients
@@ -790,6 +842,9 @@ Pub. L. 111–8 added subsec. (d) and struck out former subsec. (d) which requir
 #### Prior Provisions
 A prior section 3152, Pub. L. 89–136, title III, § 303, formerly § 302, Aug. 26, 1965, 79 Stat. 560, amended Pub. L. 91–123, title III, § 303, Nov. 25, 1969, 83 Stat. 219; Pub. L. 91–304, § 1(c), July 6, 1970, 84 Stat. 375; Pub. L. 92–65, title I, § 105, Aug. 5, 1971, 85 Stat. 167; Pub. L. 93–46, § 3(b), June 18, 1973, 87 Stat. 96; renumbered § 303 and amended Pub. L. 93–423, § 5(a), (c), Sept. 27, 1974, 88 Stat. 1159, 1160; Pub. L. 94–487, title I, § 111, Oct. 12, 1976, 90 Stat. 2334; Pub. L. 96–506, § 1(5), Dec. 8, 1980, 94 Stat. 2745; Pub. L. 97–35, title XVIII, § 1821(a)(4), Aug. 13, 1981, 95 Stat. 766, authorized appropriations for technical assistance and economic development planning, prior to repeal by Pub. L. 105–393, § 102(a).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3154b"></a>
 ## § 3154b. Prohibition on use of funds for attorney’s and consultant’s fees
@@ -800,6 +855,9 @@ Assistance made available under this subchapter shall not be used directly or in
 
 #### Prior Provisions
 A prior section 3153, Pub. L. 89–136, title III, § 304, as added Pub. L. 93–423, § 5(d), Sept. 27, 1974, 88 Stat. 1160; amended Pub. L. 94–487, title I, § 112, Oct. 12, 1976, 90 Stat. 2334; Pub. L. 96–506, § 1(6), Dec. 8, 1980, 94 Stat. 2745; Pub. L. 97–35, title XVIII, § 1821(a)(5), Aug. 13, 1981, 95 Stat. 766, authorized appropriations for supplemental and basic grants and loans, prior to repeal by Pub. L. 105–393, § 102(a).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3154c"></a>
@@ -944,6 +1002,9 @@ A prior section 301 of Pub. L. 89–136 was classified to [section 3151 of this 
 #### Amendments
 2004—Subsec. (c)(1). Pub. L. 108–373 inserted “(including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate)” after “most recent Federal data available”.
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3173"></a>
 ## § 3173. Comprehensive economic development strategies
@@ -979,6 +1040,9 @@ A prior section 302 of Pub. L. 89–136 was classified to [section 3151a of this
 
 Subsec. (c). Pub. L. 108–373, § 302(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3174"></a>
 ## § 3174. Designation of economic development districts
@@ -1013,6 +1077,9 @@ A prior section 3171, Pub. L. 89–136, title IV, § 403, Aug. 26, 1965, 79 Stat
 
 A prior section 401 of Pub. L. 89–136 was classified to [section 3161 of this title](./chapter-038-public-works-and-economic-development.md#section-3161) prior to repeal by Pub. L. 105–393, § 102(a).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3175"></a>
 ## § 3175. Termination or modification of economic development districts
@@ -1025,6 +1092,9 @@ The Secretary shall, by regulation, promulgate standards for the termination or 
 A prior section 3172, Pub. L. 89–136, title IV, § 404, as added Pub. L. 93–423, § 8, Sept. 27, 1974, 88 Stat. 1162; amended Pub. L. 94–487, title I, § 116, Oct. 12, 1976, 90 Stat. 2335; Pub. L. 96–506, § 1(8), Dec. 8, 1980, 94 Stat. 2745; Pub. L. 97–35, title XVIII, § 1821(a)(7), Aug. 13, 1981, 95 Stat. 766, authorized additional appropriations for Indian economic development, prior to repeal by Pub. L. 105–393, § 102(a).
 
 A prior section 402 of Pub. L. 89–136 was classified to [section 3162 of this title](./chapter-038-public-works-and-economic-development.md#section-3162) prior to repeal by Pub. L. 105–393, § 102(a).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3191"></a>
@@ -1052,6 +1122,9 @@ A prior section 404 of Pub. L. 89–136 was classified to [section 3172 of this 
 
 #### Amendments
 2004—Pub. L. 108–373 amended section catchline and text generally. Prior to amendment, text read as follows: “If any part of an economic development district is in the Appalachian region (as defined in section 403 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)), the economic development district shall ensure that a copy of the comprehensive economic development strategy of the district is provided to the Appalachian Regional Commission established under that Act.”
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3193"></a>
@@ -1088,6 +1161,9 @@ Section 3189, Pub. L. 89–136, title V, § 510, formerly § 509, Aug. 26, 1965,
 
 Section 3190, Pub. L. 89–136, title V, § 511, as added Pub. L. 91–123, title II, § 206, Nov. 25, 1969, 83 Stat. 218; amended Pub. L. 93–423, § 9(d), Sept. 27, 1974, 88 Stat. 1162, required coordination of activities between Secretary and Federal cochairmen in grants and loans.
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3194"></a>
 ## § 3194. Assistant Secretary for Economic Development
@@ -1103,6 +1179,9 @@ Section 3190, Pub. L. 89–136, title V, § 511, as added Pub. L. 91–123, titl
 A prior section 3191, Pub. L. 89–136, title V, § 512, as added Pub. L. 91–123, title II, § 206, Nov. 25, 1969, 83 Stat. 218; amended Pub. L. 92–65, title I, § 110, Aug. 5, 1971, 85 Stat. 167, related to Federal Field Committee for Development Planning in Alaska, prior to repeal by Pub. L. 97–35, title XVIII, § 1821(a)(8), Aug. 13, 1981, 95 Stat. 766, effective Sept. 30, 1981.
 
 A prior section 501 of Pub. L. 89–136 was classified to [section 3181 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3181&num=0&edition=prelim) prior to repeal by Pub. L. 97–35, § 1821(a)(8).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3195"></a>
@@ -1138,6 +1217,9 @@ Par. (2). Pub. L. 108–373, § 501(2), added par. (2) and struck out former par
 
 Par. (4). Pub. L. 108–373, § 501(3), (4), added par. (4).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3196"></a>
 ## § 3196. Consultation with other persons and agencies
@@ -1152,6 +1234,9 @@ A prior section 3193, Pub. L. 89–136, title V, § 514, as added Pub. L. 93–4
 
 A prior section 503 of Pub. L. 89–136 was classified to [section 3183 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3183&num=0&edition=prelim) prior to repeal by Pub. L. 97–35, § 1821(a)(8).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3197"></a>
 ## § 3197. Administration, operation, and maintenance
@@ -1164,6 +1249,9 @@ The Secretary shall approve Federal assistance under this chapter only if the Se
 A prior section 3194, Pub. L. 89–136, title V, § 515, as added Pub. L. 94–188, title II, § 204, Dec. 31, 1975, 89 Stat. 1088, related to energy demonstration projects and programs, prior to repeal by Pub. L. 97–35, title XVIII, § 1821(a)(8), Aug. 13, 1981, 95 Stat. 766, effective Sept. 30, 1981.
 
 A prior section 504 of Pub. L. 89–136 was classified to [section 3184 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3184&num=0&edition=prelim) prior to repeal by Pub. L. 97–35, § 1821(a)(8).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3211"></a>
@@ -1209,6 +1297,9 @@ A prior section 506 of Pub. L. 89–136 was classified to [section 3186 of this 
 
 Subsec. (d)(2). Pub. L. 108–373, § 503(b), inserted “program performance,” after “applied research,”.
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3213"></a>
 ## § 3213. Notification of reorganization
@@ -1229,6 +1320,9 @@ Section 3202, Pub. L. 89–136, title VI, § 602, Aug. 26, 1965, 79 Stat. 570, r
 Section 3203, Pub. L. 89–136, title VI, § 603, Aug. 26, 1965, 79 Stat. 570, authorized Secretary to consult with other persons and agencies.
 
 Section 3204, Pub. L. 89–136, title VI, § 604, as added Pub. L. 90–103, title II, § 204, Oct. 11, 1967, 81 Stat. 268, conditioned assistance upon proper administration, operation, and maintenance of project.
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3214"></a>
@@ -1316,6 +1410,9 @@ A prior section 3211, Pub. L. 89–136, title VII, § 701, Aug. 26, 1965, 79 Sta
 
 A prior section 601(a) of Pub. L. 89–136 was classified to [section 3201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3201&num=0&edition=prelim) prior to repeal by Pub. L. 105–393, § 102(a).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3215"></a>
 ## § 3215. Maintenance of standards
@@ -1345,7 +1442,7 @@ Pub. L. 105–393, § 102(b)(2)(B), which directed amendment of text by substitu
 1974—Pub. L. 93–567 inserted references to sections 3243 and 3236b of this title.
 
 #### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–393 effective on date determined by Secretary of Commerce, but not later than 90 days after Nov. 13, 1998, see section 105 of Pub. L. 105–393, set out as an Effective Date note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+Amendment by Pub. L. 105–393 effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as an Effective Date note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3216"></a>
@@ -1374,6 +1471,9 @@ A prior section 603 of Pub. L. 89–136 was classified to [section 3203 of this 
 #### Amendments
 2004—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3217"></a>
 ## § 3217. Delegation of functions and transfer of funds among Federal agencies
@@ -1401,6 +1501,9 @@ A prior section 603 of Pub. L. 89–136 was classified to [section 3203 of this 
 A prior section 3214, Pub. L. 89–136, title VII, § 704, Aug. 26, 1965, 79 Stat. 572; Pub. L. 94–487, title I, § 120, Oct. 12, 1976, 90 Stat. 2336, related to transfer of functions of Area Redevelopment Administration, prior to repeal by Pub. L. 105–393, § 102(b)(3).
 
 A prior section 604 of Pub. L. 89–136 was classified to [section 3204 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3204&num=0&edition=prelim) prior to repeal by Pub. L. 105–393, § 102(a).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3218"></a>
@@ -1433,6 +1536,9 @@ shall be fined under title 18, imprisoned not more than 5 years, or both.
 #### Prior Provisions
 A prior section 3215, Pub. L. 89–136, title VII, § 705, Aug. 26, 1965, 79 Stat. 573, related to separability of provisions, prior to repeal by Pub. L. 105–393, § 102(b)(3).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3219"></a>
 ## § 3219. Employment of expediters and administrative employees
@@ -1451,6 +1557,9 @@ Assistance shall not be provided by the Secretary under this chapter to any busi
 
 #### Prior Provisions
 A prior section 3216, Pub. L. 89–136, title VII, § 706, Aug. 26, 1965, 79 Stat. 573, defined terms as used in this chapter, prior to repeal by Pub. L. 105–393, § 102(b)(3).
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3220"></a>
@@ -1474,6 +1583,9 @@ A prior section 3216, Pub. L. 89–136, title VII, § 706, Aug. 26, 1965, 79 Sta
 #### Prior Provisions
 A prior section 3217, Pub. L. 89–136, title VII, § 707, Aug. 26, 1965, 79 Stat. 573; Pub. L. 94–273, § 26, Apr. 21, 1976, 90 Stat. 380, required annual report to Congress on operations under this chapter, prior to repeal by Pub. L. 105–393, § 102(b)(3).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3221"></a>
 ## § 3221. Records and audits
@@ -1494,6 +1606,9 @@ A prior section 3217, Pub. L. 89–136, title VII, § 707, Aug. 26, 1965, 79 Sta
 #### Prior Provisions
 A prior section 3218, Pub. L. 89–136, title VII, § 708, Aug. 26, 1965, 79 Stat. 573, authorized delegation of functions and transfer of funds, prior to repeal by Pub. L. 105–393, § 102(b)(3).
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3222"></a>
 ## § 3222. Relationship to assistance under other law
@@ -1508,6 +1623,9 @@ A prior section 3219, Pub. L. 89–136, title VII, § 709, Aug. 26, 1965, 79 Sta
 #### Amendments
 2004—Pub. L. 108–373 designated text of subsec. (b) as entire section and struck out subsec. (b) heading and heading and text of subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “Except as otherwise provided in this chapter, all financial and technical assistance authorized under this chapter shall be in addition to any Federal assistance authorized before the effective date of the Economic Development Administration Reform Act of 1998.”
 
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
+
 
 <a id="section-3231"></a>
 ## § 3231. Acceptance of certifications by applicants
@@ -1518,6 +1636,9 @@ Under terms and conditions determined by the Secretary, the Secretary may accept
 
 #### Prior Provisions
 A prior section 3220, Pub. L. 89–136, title VII, § 710, Aug. 26, 1965, 79 Stat. 574, set forth penalties for false statements, securities overvaluation, embezzlement, misapplication of funds, false book entries, schemes to defraud, and speculation, prior to repeal by Pub. L. 105–393, title I, § 102(b)(3), Nov. 13, 1998, 112 Stat. 3617.
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
 
 <a id="section-3232"></a>
@@ -1608,3 +1729,6 @@ A prior section 701 of Pub. L. 89–136 was classified to [section 3211 of this 
 
 #### Amendments
 2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter $397,969,000 for fiscal year 1999, $368,000,000 for fiscal year 2000, $335,000,000 for fiscal year 2001, $335,000,000 for fiscal year 2002, and $335,000,000 for fiscal year 2003, to remain available until expended.”
+
+#### Effective Date
+Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).

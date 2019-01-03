@@ -19,7 +19,7 @@ In this chapter:
 
   (C) A private, nonprofit organization.
 
-  (D) A tribal organization, as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; [25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)),11 See References in Text note below. or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; [25 U.S.C. 1452(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452/e&num=0&edition=prelim)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
+  (D) A tribal organization, as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)(l)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; [25 U.S.C. 1452(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452/e&num=0&edition=prelim)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
 
 (2) The term “distressed area” means—
 
@@ -37,13 +37,12 @@ In this chapter:
 
 ### Statutory Notes
 
-#### References in Text
-Section 4(l) of the Indian Self-Determination and Education Assistance Act, referred to in par. (1)(D), was classified to section 450b(l) of Title 25, Indians, prior to editorial reclassification as section 5304(l) of Title 25.
-
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2017—Par. (1)(D). Pub. L. 115–91 substituted “([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)(l))” for “(Public Law 93–638; [25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l))”.
+
 1992—Par. (1)(D). Pub. L. 102–484 substituted “organized for profit purposes or nonprofit purposes” for “organized for-profit, or nonprofit purposes”.
 
 1991—Par. (1)(D). Pub. L. 102–25, which directed the substitution of “for profit purposes or nonprofit” for “for-profit and nonprofit”, could not be executed because the words “for-profit and nonprofit” did not appear.
@@ -90,9 +89,9 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 ## § 2413. Cooperative agreements
 **(a)** The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
 
-**(b)** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 65 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
+**(b)** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 75 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
 
-(1) in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 65 percent, but not more than 75 percent, of such cost with respect to such program; and
+(1) in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 75 percent, but not more than 85 percent, of such cost with respect to such program; and
 
 (2) in the case of a program sponsored by such an entity that provides assistance for covered small businesses pursuant to [section 2419(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2419/b&num=0&edition=prelim), the Secretary may agree to furnish the full cost of such assistance.
 
@@ -108,6 +107,10 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–232, § 858(a)(1), substituted “not more than 75 percent” for “not more than 65 percent” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–232, § 858(a)(2), substituted “more than 75 percent, but not more than 85 percent” for “more than 65 percent, but not more than 75 percent”.
+
 2013—Subsec. (b). Pub. L. 113–66, § 1612(a)(1), substituted “65 percent” for “one-half” in introductory provisions.
 
 Pub. L. 113–66, § 1611(c)(1)(A), (B), substituted “except that—
@@ -142,24 +145,50 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 
 
 <a id="section-2414"></a>
-## § 2414. Limitation
+## § 2414. Funding
 **(a) In General.—** Except as provided in subsection (c), the value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
 
-(1) in the case of a program operating on a Statewide basis, other than a program referred to in clause (3) or (4), $750,000;
+(1) in the case of a program operating on a Statewide basis, other than a program referred to in clause (3) or (4), $1,000,000;
 
-(2) in the case of a program operating on less than a Statewide basis, other than a program referred to in clause (3) or (4), $450,000;
+(2) in the case of a program operating on less than a Statewide basis, other than a program referred to in clause (3) or (4), $750,000;
 
-(3) in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim), $300,000; or
+(3) in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim), $450,000; or
 
-(4) in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim), $750,000.
+(4) in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim), $1,000,000.
 
 **(b) Determinations on Scope of Operations.—** A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411/1/D&num=0&edition=prelim) shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
 **(c) Exception.—** The value of the assistance provided in accordance with [section 2419(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2419/b&num=0&edition=prelim) is not subject to the limitations in subsection (a).
 
+**(d) Use of Program Income.—**
+
+(1) An eligible entity that earned income in a specified fiscal year from activities carried out pursuant to a procurement technical assistance program funded under this chapter may expend an amount of such income, not to exceed 25 percent of the cost of furnishing procurement technical assistance in such specified fiscal year, during the fiscal year following such specified fiscal year, to carry out a procurement technical assistance program funded under this chapter.
+
+(2) An eligible entity that does not enter into a cooperative agreement with the Secretary for a fiscal year—
+
+  (A) shall notify the Secretary of the amount of any income the eligible entity carried over from the previous fiscal year; and
+
+  (B) may retain an amount of such income equal to 10 percent of the value of assistance furnished by the Secretary under this section during the previous fiscal year.
+
+(3) In determining the value of assistance furnished by the Secretary under this section for any fiscal year, the Secretary shall account for the amount of any income the eligible entity carried over from the previous fiscal year.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–232, § 1081(a)(24)(A), substituted “Funding” for “FUNDING” in section catchline.
+
+Subsec. (a)(1). Pub. L. 115–232, § 858(b)(1), substituted “$1,000,000” for “$750,000”.
+
+Subsec. (a)(2). Pub. L. 115–232, § 858(b)(2), substituted “$750,000” for “$450,000”.
+
+Subsec. (a)(3). Pub. L. 115–232, § 858(b)(3), substituted “$450,000” for “$300,000”.
+
+Subsec. (a)(4). Pub. L. 115–232, § 858(b)(4), substituted “$1,000,000” for “$750,000”.
+
+2017—Pub. L. 115–91, § 817(1), which directed substitution of “FUNDING” for “LIMITATION” in section catchline, was executed by making the substitution for “Limitation” in section catchline, to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 115–91, § 817(2), added subsec. (d).
+
 2013—Subsec. (a). Pub. L. 113–66, § 1611(b)(1), substituted “Except as provided in subsection (c), the value” for “The value” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 113–66, § 1612(b)(1), substituted “$750,000” for “$600,000”.
@@ -255,14 +284,27 @@ Pub. L. 99–500, § 101(c) [title X, § 957(b)], Oct. 18, 1986, 100 Stat. 1783�
 
 
 <a id="section-2417"></a>
-## § 2417. Administrative costs
+## § 2417. Administrative and other costs
 
-The Director of the Defense Logistics Agency may use, out of the amount appropriated for a fiscal year for operation and maintenance for the procurement technical assistance program authorized by this chapter, an amount not exceeding three percent of such amount to defray the expenses of administering the provisions of this chapter during such fiscal year.
+The Director of the Defense Logistics Agency may use, out of the amount appropriated for a fiscal year for operation and maintenance for the procurement technical assistance program authorized by this chapter—
+
+(1) an amount not exceeding three percent of such amount to defray the expenses of administering the provisions of this chapter during such fiscal year; and
+
+(2) an amount determined appropriate by the Director to assist eligible entities in payment of costs of eligible entities — 11 So in original.
+
+  (A) for meetings to discuss best practices for the improvement of the operations of procurement technical assistance centers; and
+
+  (B) for membership dues for any association of such centers created by eligible entities, training fees and associated travel for training to carry out the purposes of this chapter, and voluntary participation on any committees or board of such an association.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 2417 was renumbered [section 2420 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2420).
+
+#### Amendments
+2018—Pub. L. 115–232, § 859(a)(2)–(4), substituted “chapter—” for “chapter,”, inserted par. (1) designation before “an amount”, and added par. (2).
+
+Pub. L. 115–232, § 859(a)(1), inserted “and other” after “Administrative” in section catchline.
 
 #### Effective Date
 Pub. L. 101–510, div. A, title VIII, § 814(b), Nov. 5, 1990, 104 Stat. 1597, provided that: “[Section 2417 of title 10](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2417), United States Code, as added by subsection (a), shall apply with respect to fiscal year 1991 and each fiscal year thereafter.”
@@ -274,7 +316,11 @@ Pub. L. 101–510, div. A, title VIII, § 814(b), Nov. 5, 1990, 104 Stat. 1597, 
 
 **(b)** An eligible entity assisted by the Department of Defense under this chapter also may furnish information relating to assistance and other programs available pursuant to the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992.
 
-**(c)** An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued under section 38 of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)) and on compliance with those requirements.
+**(c)** An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued—
+
+(1) under section 38 of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)), and on compliance with those requirements; and
+
+(2) under section 9 of the Small Business Act ([15 U.S.C. 638](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638&num=0&edition=prelim)), and on compliance with those requirements.
 
 ### Statutory Notes
 
@@ -285,6 +331,8 @@ The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, ref
 A prior section 2418 was renumbered [section 2420 of this title](./chapter-142-procurement-technical-assistance-cooperative-agreement-program.md#section-2420).
 
 #### Amendments
+2017—Subsec. (c). Pub. L. 115–91 substituted “issued—” for “issued”, inserted par. (1) designation before “under” and comma before “and on compliance”, and added par. (2).
+
 2014—Subsec. (c). Pub. L. 113–291 added subsec. (c).
 
 

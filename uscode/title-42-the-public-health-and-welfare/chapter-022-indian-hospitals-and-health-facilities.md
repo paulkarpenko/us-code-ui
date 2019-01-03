@@ -31,6 +31,9 @@ Whenever the health needs of the Indians can be better met thereby, the Secretar
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective July 1, 1959, see section 6 of act Aug. 5, 1954, set out as a note under [section 2001 of this title](./chapter-022-indian-hospitals-and-health-facilities.md#section-2001).
+
 #### Transfer of Functions
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
@@ -45,6 +48,9 @@ The Secretary of Health and Human Services is also authorized to make such other
 #### Change of Name
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Effective Date
+Section effective July 1, 1959, see section 6 of act Aug. 5, 1954, set out as a note under [section 2001 of this title](./chapter-022-indian-hospitals-and-health-facilities.md#section-2001).
+
 
 <a id="section-2004"></a>
 ## § 2004. Transfer of personnel, property, records, monies
@@ -52,6 +58,9 @@ The Secretary of Health and Human Services is also authorized to make such other
 The personnel, property, records, and unexpended balances of appropriations, allocations, and other funds (available or to be made available), which the Director of the Office of Management and Budget shall determine to relate primarily to the functions transferred to the Public Health Service of the Department of Health and Human Services hereunder, are transferred for use in the administration of the functions so transferred. Any of the personnel transferred pursuant to this subchapter which the transferee agency shall find to be in excess of the personnel necessary for the administration of the functions transferred to such agency shall be retransferred under existing law to other positions in the Government or separated from the service.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1959, see section 6 of act Aug. 5, 1954, set out as a note under [section 2001 of this title](./chapter-022-indian-hospitals-and-health-facilities.md#section-2001).
 
 #### Transfer of Functions
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.

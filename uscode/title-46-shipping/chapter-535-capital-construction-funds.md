@@ -63,7 +63,7 @@ In this chapter:
 
     (ii) documented under the laws of the United States; and
 
-    (iii) agreed, between the Secretary and the person maintaining the capital construction fund established under [section 53503 of this title](./chapter-535-capital-construction-funds.md#section-53503), to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade trade 11 So in original. or in the fisheries of the United States; and
+    (iii) agreed, between the Secretary and the person maintaining the capital construction fund established under [section 53503 of this title](./chapter-535-capital-construction-funds.md#section-53503), to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States; and
 
   (B) a commercial fishing vessel—
 
@@ -83,7 +83,7 @@ In this chapter:
 
   (B) the Secretary of Transportation with respect to other vessels.
 
-(7) **22 So in original. Two pars. (7) have been enacted. Short sea transportation trade.—** — The term “short sea transportation trade” means the carriage by vessel of cargo—
+(7) **Short sea transportation trade.—** — The term “short sea transportation trade” means the carriage by vessel of cargo—
 
   (A) that is—
 
@@ -97,9 +97,9 @@ In this chapter:
 
     (ii) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
 
-(7) **2 United states foreign trade.—** — The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
+(8) **United states foreign trade.—** — The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
 
-(8) **Vessel.—** — The term “vessel” includes—
+(9) **Vessel.—** — The term “vessel” includes—
 
   (A) cargo handling equipment that the Secretary determines is intended for use primarily on the vessel; and
 
@@ -110,7 +110,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 53501(1) | 46 App.:1177(b)(3), (k)(3). | June 29, 1936, ch. 858, title VI, § 607(b)(3), (k)(1)–(3), (5)–(9), 49 Stat. 2005; June 23, 1938, ch. 600, §§ 23–28, 52 Stat. 960; Aug. 4, 1939, ch. 417, § 10, 53 Stat. 1185; July 17, 1952, ch. 939, §§ 17–19, 66 Stat. 764; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 216; Pub. L. 86–518, § 1, June 12, 1960, 74 Stat. 216; Pub. L. 87–45, § 6, May 27, 1961, 75 Stat. 91; Pub. L. 87–271, Sept. 21, 1961, 75 Stat. 570; restated Pub. L. 91–469, § 21(a), Oct. 21, 1970, 84 Stat. 1027, 1031, 1032; Pub. L. 93–116, Oct. 1, 1973, 87 Stat. 421; Pub. L. 97–31, § 12(97), Aug. 6, 1981, 95 Stat. 162. |
+| 53501(1) | 46 App.:1177(b)(3), (k)(3). | June 29, 1936, ch. 858, title VI, § 607(b)(3), (k)(1)–(3), (5)–(9), 49 Stat. 2005; June 23, 1938, ch. 600, §§ 23–28, 52 Stat. 960; Aug. 4, 1939, ch. 417, § 10, 53 Stat. 1185; July 17, 1952, ch. 939, §§ 17–19, 66 Stat. 764; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 592; Pub. L. 86–518, § 1, June 12, 1960, 74 Stat. 216; Pub. L. 87–45, § 6, May 27, 1961, 75 Stat. 91; Pub. L. 87–271, Sept. 21, 1961, 75 Stat. 570; restated Pub. L. 91–469, § 21(a), Oct. 21, 1970, 84 Stat. 1027, 1031, 1032; Pub. L. 93–116, Oct. 1, 1973, 87 Stat. 421; Pub. L. 97–31, § 12(97), Aug. 6, 1981, 95 Stat. 162; Pub. L. 115–232, div. C, title XXXV, § 3546(q), Aug. 13, 2018, 132 Stat. 2327. |
 | 53501(2) | 46 App.:1177(k)(1). |  |
 |  | 46 App.:1177–1. | Pub. L. 94–455, title VIII, § 807, Oct. 4, 1976, 90 Stat. 1606. |
 | 53501(3) | 46 App.:1177(k)(6). |  |
@@ -126,9 +126,15 @@ The codification of the laws in this chapter is not intended to alter the existi
 In paragraph (2)(A)(iii), the word “trade” is substituted for “commerce” for consistency in the chapter.
 
 #### References in Text
-Section 506 of the Merchant Marine Act, 1936, referred to in par. (7), is section 506 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101).
+Section 506 of the Merchant Marine Act, 1936, referred to in par. (8), is section 506 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101).
 
 #### Amendments
+2018—Par. (5)(A)(iii). Pub. L. 115–232, § 3546(q)(1), substituted “transportation trade or” for “transportation trade trade or”.
+
+Par. (7). Pub. L. 115–232, § 3546(q)(3), struck out par. (7), as added by Pub. L. 109–304, § 8(c), which read as follows: “The term ‘United States foreign trade’ includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.”
+
+Pars. (8), (9). Pub. L. 115–232, § 3546(q)(2), (4), added par. (8) and redesignated former par. (8) as (9).
+
 2007—Par. (5)(A)(iii). Pub. L. 110–140, § 1122(a)(1), substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic”.
 
 Par. (7). Pub. L. 110–140, § 1122(a)(2), added par. (7) relating to short sea transportation trade.
@@ -419,7 +425,7 @@ In subsection (c), the words “any amount in the fund” are substituted for �
 
   (B) increasing the tax imposed by chapter 1 of such Code by the product of the amount of the withdrawal and the highest tax rate specified in section 1 (or section 11 for a corporation) of such Code ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), 11).
 
-(2) **Maximum tax rate.—** — For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) of such Code ([26 U.S.C. 1(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1/h&num=0&edition=prelim), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
+(2) **Maximum tax rate.—** — For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) 11 See References in Text note below. of such Code ([26 U.S.C. 1(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1/h&num=0&edition=prelim), 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).
 
 (3) **Tax benefit rule.—** — If any portion of a nonqualified withdrawal is properly attributable to deposits (except earnings on deposits) made by the taxpayer in a taxable year that did not reduce the taxpayer’s liability for tax under chapter 1 of such Code (26 U.S.C. ch. 1) for a taxable year before the taxable year in which the withdrawal occurs—
 
@@ -439,6 +445,9 @@ In subsection (c), the words “any amount in the fund” are substituted for �
 In subsection (c)(3)(C), the words “or in the case of any nonqualified withdrawal arising from the application of the recapture provision of section 1176(5) of this Appendix as in effect on December 31, 1969” are omitted as obsolete.
 
 In subsection (d), the words “made in a taxable year beginning in 1970 or 1971 is 8 percent” are omitted as obsolete.
+
+#### References in Text
+Section 1201 of such Code, referred to in subsec. (f)(2), means section 1201 of the Internal Revenue Code of 1986, act Aug. 16, 1954, ch. 736, 68A Stat. 320, which was repealed by Pub. L. 115–97, title I, § 13001(b)(2)(A), Dec. 22, 2017, 131 Stat. 2096, applicable to taxable years beginning after Dec. 31, 2017.
 
 #### Amendments
 2013—Subsec. (f)(2). Pub. L. 112–240 substituted “20 percent” for “15 percent”.

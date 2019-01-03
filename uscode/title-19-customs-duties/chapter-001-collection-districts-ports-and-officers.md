@@ -63,6 +63,11 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 “Wm. H. Taft.”
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–271, title VIII, § 8001, Oct. 24, 2018, 132 Stat. 4073, provided that: “This subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, enacting sections 1436a and 1583a of this title, amending sections 58c, 1415, and 1436 of this title, and enacting provisions set out as notes under sections 58c, 1415, and 1436 of this title] may be cited as the ‘Synthetics Trafficking and Overdose Prevention Act of 2018’ or ‘STOP Act of 2018’.”
+
+Pub. L. 115–239, § 1(a), Sept. 13, 2018, 132 Stat. 2451, provided that: “This Act [amending [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c) and the Harmonized Tariff Schedule of the United States, which is not set out in the Code, and enacting provisions set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c)] may be cited as the ‘Miscellaneous Tariff Bill Act of 2018’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–227, § 1(a), Aug. 11, 2010, 124 Stat. 2409, provided that: “This Act [amending [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c) and enacting provisions set out as notes under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c) and [section 6655 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6655&num=0&edition=prelim), Internal Revenue Code] may be cited as the ‘United States Manufacturing Enhancement Act of 2010’.”
 
@@ -1053,11 +1058,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3)
 
-  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after January 14, 2026.
+  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after October 20, 2027.
 
   (B)
 
-    (i) Subject to clause (ii), Fees 22 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2025.
+    (i) Subject to clause (ii), Fees 22 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2027.
 
     (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
@@ -1086,6 +1091,42 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 ### Statutory Notes
 
 #### Amendment of Section
+Pub. L. 115–271, title VIII, § 8002, Oct. 24, 2018, 132 Stat. 4073, provided that, effective on Jan. 1, 2020, this section is amended as follows:
+
+(1) in subsection (a)—
+
+(A) in paragraph (6), by inserting “(other than an item subject to a fee under subsection (b)(9)(D))” after “customs officer”; and
+
+(B) in paragraph (10)—
+
+(i) in subparagraph (C), by inserting “(other than Inbound EMS items described in subsection (b)(9)(D))” after “release”; and
+
+(ii) in the flush text at the end, by inserting “or of Inbound EMS items described in subsection (b)(9)(D),” after “(C),”; and
+
+(2) in subsection (b)(9), by adding at the end the following new subparagraph:
+
+(D)(i) With respect to the processing of items that are sent to the United States through the international postal network by “Inbound Express Mail service” or “Inbound EMS” (as that service is described in the mail classification schedule referred to in [section 3631 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3631&num=0&edition=prelim)), the following payments are required:
+
+(I) $1 per Inbound EMS item.
+
+(II) If an Inbound EMS item is formally entered, the fee provided for under subsection (a)(9), if applicable.
+
+(ii) Notwithstanding [section 1451 of this title](./chapter-004-tariff-act-of-1930.md#section-1451), the payments required by clause (i), as allocated pursuant to clause (iii)(I), shall be the only payments required for reimbursement of U.S. Customs and Border Protection for customs services provided in connection with the processing of an Inbound EMS item.
+
+(iii)(I) The payments required by clause (i)(I) shall be allocated as follows:
+
+(aa) 50 percent of the amount of the payments shall be paid on a quarterly basis by the United States Postal Service to the Commissioner of U.S. Customs and Border Protection in accordance with regulations prescribed by the Secretary of the Treasury to reimburse U.S. Customs and Border Protection for customs services provided in connection with the processing of Inbound EMS items.
+
+(bb) 50 percent of the amount of the payments shall be retained by the Postal Service to reimburse the Postal Service for services provided in connection with the customs processing of Inbound EMS items.
+
+(II) Payments received by U.S. Customs and Border Protection under subclause (I)(aa) shall, in accordance with [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524), be deposited in the Customs User Fee Account and used to directly reimburse each appropriation for the amount paid out of that appropriation for the costs incurred in providing services to international mail facilities. Amounts deposited in accordance with the preceding sentence shall be available until expended for the provision of such services.
+
+(III) Payments retained by the Postal Service under subclause (I)(bb) shall be used to directly reimburse the Postal Service for the costs incurred in providing services in connection with the customs processing of Inbound EMS items.
+
+(iv) Beginning in fiscal year 2021, the Secretary, in consultation with the Postmaster General, may adjust, not more frequently than once each fiscal year, the amount described in clause (i)(I) to an amount commensurate with the costs of services provided in connection with the customs processing of Inbound EMS items, consistent with the obligations of the United States under international agreements.
+
+See 2018 Amendment notes below.
+
 For termination of amendment by section 107(c) of Pub. L. 112–43, see Effective and Termination Dates of 2011 Amendment note below.
 
 For termination of amendment by section 107(c) of Pub. L. 112–42, see Effective and Termination Dates of 2011 Amendment note below.
@@ -1151,6 +1192,24 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+2018—Subsec. (a)(6). Pub. L. 115–271, § 8002(b)(1), inserted “(other than an item subject to a fee under subsection (b)(9)(D))” after “customs officer”.
+
+Subsec. (a)(10). Pub. L. 115–271, § 8002(b)(2)(B), inserted “or of Inbound EMS items described in subsection (b)(9)(D),” after “(C),” in concluding provisions.
+
+Subsec. (a)(10)(C). Pub. L. 115–271, § 8002(b)(2)(A), inserted “(other than Inbound EMS items described in subsection (b)(9)(D))” after “release”.
+
+Subsec. (b)(9)(D). Pub. L. 115–271, § 8002(a), added subpar. (D).
+
+Subsec. (j)(3)(A). Pub. L. 115–264 substituted “October 20, 2027” for “October 13, 2027”.
+
+Pub. L. 115–239 substituted “October 13, 2027” for “July 21, 2027”.
+
+Pub. L. 115–141, substituted “July 21, 2027” for “February 24, 2027”.
+
+Pub. L. 115–123, § 30201(a)(1), substituted “February 24, 2027” for “January 14, 2026”.
+
+Subsec. (j)(3)(B)(i). Pub. L. 115–123, § 30201(a)(2), substituted “September 30, 2027” for “September 30, 2025”.
+
 2017—Subsec. (j)(3)(A). Pub. L. 115–31 substituted “January 14, 2026” for “September 30, 2025”.
 
 2016—Subsec. (e)(1). Pub. L. 114–125, § 908, designated existing provisions as subpar. (A), inserted “subparagraph (B) and” before “paragraph (2))”, and added subpar. (B).
@@ -1660,6 +1719,11 @@ Subsec. (j)(1), (3). Pub. L. 99–509, § 8101(e), substituted “otherwise prov
 #### Change of Name
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (k) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–271, title VIII, § 8002(c), Oct. 24, 2018, 132 Stat. 4074, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2020.”
+
+Pub. L. 115–239, § 1664, Sept. 13, 2018, 132 Stat. 2886, provided that: “The amendments made by this Act [amending this section and the Harmonized Tariff Schedule of the United States, which is not set out in the Code] apply to goods entered, or withdrawn from warehouse for consumption, on or after the 30th day after the date of the enactment of this Act [Sept. 13, 2018].”
+
 #### Effective and Termination Dates of 2011 Amendment
 Amendment by Pub. L. 112–43 effective Oct. 21, 2011, and applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
@@ -1752,6 +1816,9 @@ Pub. L. 100–203, title IX, § 9501(d), Dec. 22, 1987, 101 Stat. 1330–380, pr
 
 #### Effective Date of 1986 Amendment; Refunds
 Pub. L. 99–514, title XVIII, § 1893(g), Oct. 22, 1986, 100 Stat. 2930, as amended by Pub. L. 100–203, title IX, § 9501(b), Dec. 22, 1987, 101 Stat. 1330–379, provided that: “(1) The amendments made by this section [amending this section and section 1741 of former Title 49, Transportation, and enacting provisions set out below] shall apply with respect to services rendered after the date that is 15 days after the date of enactment of this Act [Oct. 22, 1986]. “(2) Upon written request filed by any person with the Secretary of the Treasury (hereafter in this subsection referred to as the ‘Secretary’) before the date that is 90 days after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 [Dec. 22, 1987] which is accompanied by such documentation establishing proof of payment as the Secretary may require, the Secretary shall refund (out of funds in the Treasury of the United States not otherwise appropriated) to such person an amount equal to the excess of—“(A) the amount of fees imposed by section 13031 of the Consolidated Omnibus Budget Reconciliation Act of 1985 [this section] that were paid by such person to the Secretary with respect to customs services provided—“(i) after July 6, 1986, and “(ii) on or before the date that is 15 days after the date of enactment of this Act, over “(B) the amount of fees such person would have been required to pay to the Secretary by reason of such section with respect to such services if the amendments made by subsections (a)(1) and (b) [amending this section] applied with respect to such services. “(3) If the customs broker permit fee paid by any person for calendar year 1986 under section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985 exceeds $62.50, the Secretary shall either—“(A) refund (out of funds in the Treasury of the United States not otherwise appropriated) to such person the amount of the excess, or “(B) if requested by such person, credit the amount of the excess to the fee due under such section 13031(a)(7) with respect to such permit for calendar year 1987.”
+
+#### Regulations
+Pub. L. 115–271, title VIII, § 8009(b), Oct. 24, 2018, 132 Stat. 4081, provided that: “Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], such regulations as are necessary to carry out this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)] and the amendments made by this subtitle shall be prescribed.”
 
 #### Construction of 1993 Amendment
 Pub. L. 103–182, title II, § 212, Dec. 8, 1993, 107 Stat. 2099, provided that: “Any amendment in this title [amending this section and sections 81c, 1304, 1311 to 1313, 1508, 1509, 1514, 1520, 1562, 1592, and 1628 of this title] to a law that is also amended under title VI [see Tables for classification] shall be made after the title VI amendment is executed.”

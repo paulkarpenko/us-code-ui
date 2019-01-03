@@ -70,13 +70,13 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 **(b) Policy of casualty insurance** For purposes of section 4371(1), the term “policy of casualty insurance” means any policy (other than life) or other instrument by whatever name called whereby a contract of insurance is made, continued, or renewed.
 
-**(c) Indemnity bond** For purposes of this chapter the term “indemnity bond” means any instrument by whatever name called whereby an obligation of the nature of an indemnity, fidelity, or surety bond is made, continued, or renewed. The term includes any bond for indemnifying any person who shall have become bound or engaged as surety, and any bond for the due execution or performance of any contract, obligation, or requirement, or the duties of any office or position, and to account for money received by virtue thereof, where a premium is charged for the execution of such bond.
+**(c) Indemnity bond** For purposes of this chapter, the term “indemnity bond” means any instrument by whatever name called whereby an obligation of the nature of an indemnity, fidelity, or surety bond is made, continued, or renewed. The term includes any bond for indemnifying any person who shall have become bound or engaged as surety, and any bond for the due execution or performance of any contract, obligation, or requirement, or the duties of any office or position, and to account for money received by virtue thereof, where a premium is charged for the execution of such bond.
 
 **(d) Insured** For purposes of section 4371(1), the term “insured” means—
 
 (1) a domestic corporation or partnership, or an individual resident of the United States, against, or with respect to, hazards, risks, losses, or liabilities wholly or partly within the United States, or
 
-(2) a foreign corporation, foreign partnership, or nonresident individual, engaged in a trade or business within the United States, against, or with respect to hazards, risks, or liabilities within the United States.
+(2) a foreign corporation, foreign partnership, or nonresident individual, engaged in a trade or business within the United States, against, or with respect to, hazards, risks, losses, or liabilities within the United States.
 
 **(e) Policy of life, sickness, or accident insurance, or annuity contract** For the purpose of section 4371(2), the term “policy of life, sickness, or accident insurance, or annuity contract” means any policy or other instrument by whatever name called whereby a contract of insurance or an annuity contract is made, continued, or renewed with respect to the life or hazards to the person of a citizen or resident of the United States.
 
@@ -89,7 +89,7 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 Subsec. (c). Pub. L. 94–455 substituted “this chapter” for “this subchapter”.
 
-1958—Subsec. (d)(2). Pub. L. 85–859 inserted “against, or” before “with respect to”.
+1958—Subsec. (d)(2). Pub. L. 85–859 substituted “against, or with respect to, hazards, risks, losses, or liabilities” for “with respect to hazards, risks, or liabilities”.
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).

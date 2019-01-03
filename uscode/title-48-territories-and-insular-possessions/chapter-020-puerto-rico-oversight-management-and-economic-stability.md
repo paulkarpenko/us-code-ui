@@ -1645,7 +1645,7 @@ This chapter, referred to in subsec. (m)(5), was in the original “this Act”,
 
 (4) additional information the Task Force deems appropriate.
 
-**(h) Consensus views** To the greatest extent practicable, the report issued under subsection (f) shall reflect the shared views of all eight Members, except that the report may contain dissenting views.
+**(h) Consensus views** To the greatest extent practicable, the report issued under subsection (f) 11 So in original. Probably should be “subsection (g)”. shall reflect the shared views of all eight Members, except that the report may contain dissenting views.
 
 **(i) Hearings and sessions** The Task Force may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Task Force considers appropriate. If the Task Force holds hearings, at least one such hearing must be held in Puerto Rico.
 
@@ -1653,7 +1653,7 @@ This chapter, referred to in subsec. (m)(5), was in the original “this Act”,
 
 **(k) Resources** The Task Force shall carry out its duties by utilizing existing facilities, services, and staff of the House of Representatives and Senate, except that no additional funds are authorized to be appropriated to carry out this section.
 
-**(l) Termination** The Task Force shall terminate upon issuing the report required under subsection (f).
+**(l) Termination** The Task Force shall terminate upon issuing the report required under subsection (f) 1.
 
 
 <a id="section-2213"></a>

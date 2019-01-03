@@ -23,7 +23,7 @@ As used in this chapter—
 2006—Pars. (2), (3). Pub. L. 109–435 added par. (2) and redesignated former par. (2) as (3).
 
 #### Effective Date
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-2002"></a>
@@ -59,6 +59,9 @@ The effective date of this section, referred to in subsec. (c)(3), (4), is July 
 
 #### Amendments
 2006—Subsec. (b). Pub. L. 109–435 substituted “Fund and the balance in the Competitive Products Fund,” for “Fund,”.
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Assets of Postal Service
 Pub. L. 91–375, § 4(b), Aug. 12, 1970, 84 Stat. 774, provided that: “Postal revenues and fees collected on and after the effective date of this section [see note below] shall be considered assets of the Postal Service.”
@@ -180,6 +183,9 @@ Pub. L. 101–239, title IV, § 4004(b), Dec. 19, 1989, 103 Stat. 2135, provided
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title XVII, § 1727, Aug. 13, 1981, 95 Stat. 761, provided that: “The provisions of this subtitle [subtitle B (§§ 1721–1727) of title XVII of Pub. L. 97–35, amending this section and [section 2401 of this title](./chapter-024-appropriations-and-annual-report.md#section-2401) and enacting provisions set out as notes under sections 403, 2004, and 2401 of this title] (other than section 1726 and this section) shall take effect on October 1, 1981. The provisions of sections 1726 [enacting a provision set out as a note under [section 403 of this title](./chapter-004-general-authority.md#section-403)] and this section [enacting this provision] shall take effect on the date of the enactment of this Act [Aug. 13, 1981].”
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 #### Contributions by United States Postal Service to Civil Service Retirement and Disability Fund
 Pub. L. 100–203, title VI, § 6002, Dec. 22, 1987, 101 Stat. 1330–276, provided that: “(a) Establishment of Postal Service Escrow Fund.—There is established as a separate account in the United States Treasury, the ‘Postal Service Escrow Fund’. Such Fund shall—“(1) have such amounts described under subsection (b)(2) deposited no later than October 31, 1988; “(2) not be available for expenditures of any amounts therein during the existence of such Fund; and “(3) cease to exist on October 1, 1989, and on such date all amounts deposited in such Fund under subsection (b)(2) shall be deposited in the Postal Service Fund established under [section 2003 of title 39](./chapter-020-finance.md#section-2003), United States Code. “(b) Deposit of Certain Savings in Certain Funds.—“(1) Fiscal year 1988.—From all funds available to the United States Postal Service in fiscal year 1988, the Postal Service shall deposit into the Civil Service Retirement and Disability Fund established under [section 8348 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8348&num=0&edition=prelim), United States Code, an amount of $350,000,000 in fiscal year 1988, in addition to any amount deposited pursuant to subsection (h) of such section. “(2) Fiscal year 1989.—From all funds available to the United States Postal Service in fiscal year 1989, the Postal Service shall deposit into the Postal Service Escrow Fund an amount of $465,000,000 no later than October 31, 1988. “(c) Capital Limitations for Fiscal Years 1988 and 1989.—“(1) The United States Postal Service may not make any commitment or obligation to expend any monies deposited in the Postal Service Fund established under [section 2003 of title 39](./chapter-020-finance.md#section-2003), United States Code, for the capital investment program—“(A) in excess of $625,000,000 in fiscal year 1988; and “(B) in excess of $1,995,000,000 in fiscal year 1989. “(2) Capital investment programs.—For the purposes of paragraph (1) the term ‘capital investment program’ shall include all investments in long-term assets and capital investment expenditures (including direct and indirect costs associated with such investments and expenditures, such as obligations through contracts).”
 
@@ -270,6 +276,9 @@ Subsec. (b). Pub. L. 109–435, § 502(d), substituted “obligations issued by 
 #### Effective Date of 1989 Amendment
 Pub. L. 101–227, § 3(b), Dec. 12, 1989, 103 Stat. 1944, provided that: “(1) Subject to the provisions of paragraph (2), the amendments made by subsection (a) [amending this section] shall take effect on October 1, 1990. “(2) Notwithstanding any other provision of this section, the amendments made by subsection (a) shall not take effect, if no law to provide for reconciliation pursuant to section 5 of the concurrent resolution on the budget for the fiscal year 1990 is enacted before October 1, 1990.” [Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, Dec. 19, 1989, 103 Stat. 2106, was enacted Dec. 19, 1989.]
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-2006"></a>
 ## § 2006. Relationship between the Treasury and the Postal Service
@@ -292,6 +301,9 @@ Subsec. (b). Pub. L. 109–435, § 401(b)(4)(B), inserted “under section 2005�
 
 Subsec. (c). Pub. L. 109–435, § 401(b)(4)(C), inserted “or 2011(e)(4)(E)” after “section 2005(d)(5)”.
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-2007"></a>
 ## § 2007. Public debt character of the obligations of the Postal Service
@@ -302,6 +314,9 @@ For the purpose of any purchase of the obligations of the Postal Service, the Se
 
 #### Amendments
 1983—Pub. L. 97–452 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act” wherever appearing.
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-2008"></a>
@@ -315,6 +330,11 @@ For the purpose of any purchase of the obligations of the Postal Service, the Se
 **(d)** Nothing in this section shall be construed as denying to the Postal Service the power to obtain audits of the accounts of the Postal Service and reports concerning its financial condition and operations by certified public accounting firms. Such audits and reports shall be in addition to those required by this section.
 
 **(e)** At least once each year beginning with the fiscal year commencing after June 30, 1971, the Postal Service shall obtain a certification from an independent, certified public accounting firm of the accuracy of any financial statements of the Postal Service used in determining and establishing postal rates.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-2009"></a>
@@ -336,6 +356,9 @@ The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct
 
 #### Effective Date of 2006 Amendment; Savings Provisions
 Amendment by Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section 603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Operations of Inspector General as Major Type of Activity for Budget Purposes
 Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(a)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, provided that: “For purposes of the fifth sentence of [section 2009 of title 39](./chapter-020-finance.md#section-2009), United States Code, the operations of the Office of Inspector General of the United States Postal Service shall be considered a major type of activity.”
@@ -374,6 +397,11 @@ Pub. L. 101–239, title IV, § 4001(b), Dec. 19, 1989, 103 Stat. 2133, provided
 ## § 2010. Restrictions on agreements
 
 The Postal Service shall promote modern and efficient operations and should refrain from expending any funds, engaging in any practice, or entering into any agreement or contract, other than an agreement or contract under chapter 12 of this title, which restricts the use of new equipment or devices which may reduce the cost or improve the quality of postal services, except where such restriction is necessary to insure safe and healthful employment conditions.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-2011"></a>

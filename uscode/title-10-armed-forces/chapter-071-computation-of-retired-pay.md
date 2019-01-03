@@ -8,22 +8,11 @@ source: >-
 ---
 <a id="section-1401"></a>
 ## § 1401. Computation of retired pay
-**(a) Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—** The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, and 3, as modified by the applicable footnotes. Formula No.For sectionsColumn 1 TakeColumn 2 Multiply byColumn 3 Add 1 Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month. 112011204Retired pay base as computed under section 1406(b) or 1407.As member elects— (1) 2½% of years of service credited to him under section 1208; 1 or (2) the percentage of disability, not to exceed 75%, on date when retired. 212021205Retired pay base as computed under section 1406(b) or 1407.As member elects— (1) 2½% of years of service credited to him under section 1208; 1 or (2) the percentage of disability, not to exceed 75%, on date when his name was placed on temporary disability retired list.Amount necessary to increase product of columns 1 and 2 to 50% of retired pay base upon which computation is based. 4580126312931305Retired pay base as computed under section 1406(b) or 1407.The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. 5633634635636125112521253Retired pay base as computed under section 1406(b) or 1407.The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405.
+**(a) Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—** The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, and 3, as modified by the applicable footnotes. Formula No.For sectionsColumn 1 TakeColumn 2 Multiply byColumn 3 Add 1 Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month. 112011204Retired pay base as computed under section 1406(b) or 1407.As member elects— (1) the retired pay multiplier determined for the member under [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409); 1 or (2) the percentage of disability, not to exceed 75%, on date when retired. 212021205Retired pay base as computed under section 1406(b) or 1407.As member elects— (1) the retired pay multiplier determined for the member under [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409); 1 or (2) the percentage of disability, not to exceed 75%, on date when his name was placed on temporary disability retired list.Amount necessary to increase product of columns 1 and 2 to 50% of retired pay base upon which computation is based. 4580126312931305Retired pay base as computed under section 1406(b) or 1407.The retired pay multiplier prescribed in section 1409 for the years of service credited to him under section 1405. 5633634635636125112521253Retired pay base as computed under section 1406(b) or 1407.The retired pay multiplier prescribed in section 1409 for the years of service credited to him under section 1405.
 
 **(b) Use of Most Favorable Formula.—** If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 114–92, div. A, title VI, §§ 631(c)(1)(A), 635, Nov. 25, 2015, 129 Stat. 843, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, the table in subsection (a) of this section is amended as follows:
-
-(1) in paragraph (1) in column 2 of formula number 1, by striking “2½% of years of service credited to him under section 1208” and inserting “the retired pay multiplier determined for the member under [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409)”;
-
-(2) in paragraph (1) in column 2 of formula number 2, by striking “2½% of years of service credited to him under section 1208” and inserting “the retired pay multiplier determined for the member under [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409)”; and
-
-(3) in column 2 of each of formula number 4 and formula number 5, by striking “section 1409(a)” and inserting “section 1409”.
-
-See 2015 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -117,7 +106,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 Pub. L. 98–557, § 35(c), Oct. 30, 1984, 98 Stat. 2877, provided that: “The amendments made by this section [amending this section and provisions set out as a note under [section 1009 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1009&num=0&edition=prelim), Pay and Allowances of the Uniformed Services] shall become effective on October 1, 1984”.
 
 #### Effective Date of 1983 Amendment
-Pub. L. 98–94, title IX, § 922(e), Sept. 24, 1983, 97 Stat. 642, provided that: “The amendments made by this section [enacting [section 6333 of this title](./chapter-571-voluntary-retirement.md#section-6333) and amending this section, sections 1401a, 1402, 1402a, 1437, 1451, 3991, 3992, 6151, 6383, 8991, and 8992 of this title, [section 423 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423&num=0&edition=prelim), Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, [section 212 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212&num=0&edition=prelim), The Public Health and Welfare] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, § 922(e), Sept. 24, 1983, 97 Stat. 642, provided that: “The amendments made by this section [enacting [section 6333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6333&num=0&edition=prelim) and amending this section, sections 1401a, 1402, 1402a, 1437, 1451, 3991, 3992, 6151, 6383, 8991, and 8992 of this title, [section 423 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423&num=0&edition=prelim), Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, [section 212 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212&num=0&edition=prelim), The Public Health and Welfare] shall take effect on October 1, 1983.”
 
 Amendment by section 923 of Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled to that pay after Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under [section 1174 of this title](./chapter-059-separation.md#section-1174).
 
@@ -134,18 +123,18 @@ Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L.
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
-Amendment by section 6(7) of Pub. L. 85–422 inapplicable to retired persons or to persons to whom retired pay is granted before May 31, 1958, see section 6 of Pub. L. 85–422, set out in part under [section 3991 of this title](./chapter-371-computation-of-retired-pay.md#section-3991).
+Amendment by section 6(7) of Pub. L. 85–422 inapplicable to retired persons or to persons to whom retired pay is granted before May 31, 1958, see section 6 of Pub. L. 85–422, set out in part under [section 3991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3991&num=0&edition=prelim).
 
 Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
 
 #### Short Title of 1986 Amendment
-Pub. L. 99–348, § 1(a), July 1, 1986, 100 Stat. 682, provided that: “This Act [enacting sections 134a, 1406, 1407, and 1409 to 1412 of this title, redesignating former [section 1406 of this title](./chapter-071-computation-of-retired-pay.md#section-1406) as section 1338 [now 12738] of this title, amending this section, sections 101, 135, 136a, 716, 1040, 1338 [now 12738], 1401a, 1402, 1402a, 1405, 1447, 1451, 1452, 2830, 3925, 3991, 3992, 5083, 5201, 6151, 6322, 6323, 6325, 6326, 6330, 6333, 6383, 8925, 8991, and 8992 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, sections 46, 47, 51, 288, 291 to 293, 327, 334, 353 to 355, 357, 362, and 421 to 424 of Title 14, Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, and sections 211 and 212 of Title 42, The Public Health and Welfare, repealing former section 1407 and [section 6328 of this title](./chapter-571-voluntary-retirement.md#section-6328), enacting provisions set out as notes under this section and sections 135 and 12731 of this title, and repealing provisions set out as notes under this section and [section 6330 of this title](./chapter-571-voluntary-retirement.md#section-6330)] may be cited as the ‘Military Retirement Reform Act of 1986’.”
+Pub. L. 99–348, § 1(a), July 1, 1986, 100 Stat. 682, provided that: “This Act [enacting sections 134a, 1406, 1407, and 1409 to 1412 of this title, redesignating former [section 1406 of this title](./chapter-071-computation-of-retired-pay.md#section-1406) as section 1338 [now 12738] of this title, amending this section, sections 101, 135, 136a, 716, 1040, 1338 [now 12738], 1401a, 1402, 1402a, 1405, 1447, 1451, 1452, 2830, 3925, 3991, 3992, 5083, 5201, 6151, 6322, 6323, 6325, 6326, 6330, 6333, 6383, 8925, 8991, and 8992 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, sections 46, 47, 51, 288, 291 to 293, 327, 334, 353 to 355, 357, 362, and 421 to 424 of Title 14, Coast Guard, section 853o of Title 33, Navigation and Navigable Waters, and sections 211 and 212 of Title 42, The Public Health and Welfare, repealing former section 1407 and [section 6328 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6328&num=0&edition=prelim), enacting provisions set out as notes under this section and sections 135 and 12731 of this title, and repealing provisions set out as notes under this section and [section 6330 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6330&num=0&edition=prelim)] may be cited as the ‘Military Retirement Reform Act of 1986’.”
 
 #### Short Title of 1982 Amendment
 Pub. L. 97–252, title X, § 1001, Sept. 8, 1982, 96 Stat. 730, provided that: “This title [enacting [section 1408 of this title](./chapter-071-computation-of-retired-pay.md#section-1408), amending sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title, and enacting provisions set out as notes under sections 1408 and 2208 of this title] may be cited as the ‘Uniformed Services Former Spouses’ Protection Act’.”
 
 #### Treatment as Active Service for Retired Pay Purposes of Service as Member of Alaska Territorial Guard During World War II
-Pub. L. 111–84, div. A, title VI, § 645, Oct. 28, 2009, 123 Stat. 2368, provided that: “(a) In General.—Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001 (Public Law 106–259; 114 Stat. 705) [amending [section 106 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106&num=0&edition=prelim), Veterans’ Benefits, and enacting provisions set out as a note under [section 106 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106&num=0&edition=prelim)] shall be treated as active service for purposes of the computation under chapter 61, 71, 371, 571, 871, or 1223 of title 10, United States Code, as applicable, of the retired pay to which such individual may be entitled under title 10, United States Code. “(b) Applicability.—Subsection (a) shall apply with respect to amounts of retired pay payable under title 10, United States Code, for months beginning on or after the date of the enactment of this Act [Oct. 28, 2009]. No retired pay shall be paid to any individual by reason of subsection (a) for any period before that date. “(c) World War II Defined.—In this section, the term ‘World War II’ has the meaning given that term in [section 101(8) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/8&num=0&edition=prelim), United States Code.”
+Pub. L. 111–84, div. A, title VI, § 645, Oct. 28, 2009, 123 Stat. 2368, provided that: “(a) In General.—Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001 (Public Law 106–259; 114 Stat. 705) [amending [section 106 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106&num=0&edition=prelim), Veterans’ Benefits, and enacting provisions set out as a note under [section 106 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section106&num=0&edition=prelim)] shall be treated as active service for purposes of the computation under chapter 61, 71, 371 [now 745], 571 [now 841], 871 [now 945], or 1223 of title 10, United States Code, as applicable, of the retired pay to which such individual may be entitled under title 10, United States Code. “(b) Applicability.—Subsection (a) shall apply with respect to amounts of retired pay payable under title 10, United States Code, for months beginning on or after the date of the enactment of this Act [Oct. 28, 2009]. No retired pay shall be paid to any individual by reason of subsection (a) for any period before that date. “(c) World War II Defined.—In this section, the term ‘World War II’ has the meaning given that term in [section 101(8) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/8&num=0&edition=prelim), United States Code.”
 
 Similar provisions were contained in the following appropriation act:
 
@@ -210,7 +199,9 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 (4) **Special rule for paragraph (3).—** — If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other than any provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
 
-(5) **Regulations.—** — Any increase in retired pay under this subsection shall be made in accordance with regulations prescribed by the Secretary of Defense.
+(5) **Adjustments for participants in modernized retirement system.—** — Notwithstanding paragraph (3), if a member or former member participates in the modernized retirement system by reason of [section 1409(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b/4&num=0&edition=prelim) (including pursuant to an election under subparagraph (B) of that section), the Secretary shall increase the retired pay of such member in accordance with paragraph (2).
+
+(6) **Regulations.—** — Any increase in retired pay under this subsection shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
 **(c) First COLA Adjustment for Members With Retired Pay Computed Using Final Basic Pay.—**
 
@@ -266,13 +257,6 @@ If in any case the percent described in paragraph (2) exceeds the percent determ
 **(h) Price Index for a Quarter.—** For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 114–92, div. A, title VI, §§ 631(c)(1)(B), 635, Nov. 25, 2015, 129 Stat. 844, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (b) of this section is amended by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph (5):
-
-(5) Adjustments for participants in modernized retirement system.—Notwithstanding paragraph (3), if a member or former member participates in the modernized retirement system by reason of [section 1409(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b/4&num=0&edition=prelim) (including pursuant to an election under subparagraph (B) of that section), the Secretary shall increase the retired pay of such member in accordance with paragraph (2).
-
-See 2015 Amendment note below.
 
 #### References in Text
 [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(3), and [section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) (as in effect before January 28, 2008), referred to in subsecs. (d) and (e), mean [section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) as in effect before enactment of Pub. L. 110–181 on January 28, 2008. [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) was renumbered as [section 354 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section354&num=0&edition=prelim) and amended by Pub. L. 110–181, div. A, title VI, § 661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
@@ -542,7 +526,7 @@ Pub. L. 90–207, § 2(b), Dec. 16, 1967, 81 Stat. 653, provided that: “Notwit
 
 <a id="section-1402"></a>
 ## § 1402. Recomputation of retired or retainer pay to reflect later active duty of members who first became members before September 8, 1980
-**(a)** A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table. Column 1 TakeColumn 2 Multiply by 1 For a member who has been entitled, for continuous period of at least two years, to basic pay under the rates of basic pay in effect upon that release from active duty, compute under those rates. For a member who has been entitled to basic pay for a continuous period of at least two years upon that release from active duty, but who is not covered by the preceding sentence, compute under the rates of basic pay replaced by those in effect upon that release from active duty. For any other member, compute under the rates of basic pay under which the member’s retired pay or retainer pay was computed when he entered on that active duty. 2 Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month. Monthly basic pay 1 of the grade in which he would be eligible— (1) to retire if he were retiring upon that release from active duty; or (2) to transfer to the Fleet Reserve or Fleet Marine Corps Reserve if he were transferring to either upon that release from active duty.2½ percent of the sum of— (1) the years of service that may be credited to him in computing retired pay or retainer pay; and (2) his years of active service after becoming entitled to retired pay or retainer pay.2 However, an officer who was ordered to active duty (other than for training) in the grade that he holds on the retired list under former [section 6150 of this title](./chapter-561-miscellaneous-rights-and-benefits.md#section-6150), or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired pay recomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
+**(a)** A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table. Column 1 TakeColumn 2 Multiply by 1 For a member who has been entitled, for continuous period of at least two years, to basic pay under the rates of basic pay in effect upon that release from active duty, compute under those rates. For a member who has been entitled to basic pay for a continuous period of at least two years upon that release from active duty, but who is not covered by the preceding sentence, compute under the rates of basic pay replaced by those in effect upon that release from active duty. For any other member, compute under the rates of basic pay under which the member’s retired pay or retainer pay was computed when he entered on that active duty. 2 Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month. Monthly basic pay 1 of the grade in which he would be eligible— (1) to retire if he were retiring upon that release from active duty; or (2) to transfer to the Fleet Reserve or Fleet Marine Corps Reserve if he were transferring to either upon that release from active duty.2½ percent of the sum of— (1) the years of service that may be credited to him in computing retired pay or retainer pay; and (2) his years of active service after becoming entitled to retired pay or retainer pay.2 However, an officer who was ordered to active duty (other than for training) in the grade that he holds on the retired list under former [section 6150 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6150&num=0&edition=prelim), or under any other law that authorized advancement on the retired list based upon a special commendation for the performance of duty in actual combat, may have his retired pay recomputed under this subsection on the basis of the rate of basic pay applicable to that grade upon his release from that active duty only if he has been entitled, for a continuous period of at least three years, to basic pay at that rate. If, upon his release from that active duty, he has been entitled to the basic pay of that grade for a continuous period of at least three years, but he does not qualify under the preceding sentence, he may have his retired pay recomputed under this subsection on the basis of the rate of basic pay prescribed for that grade by the rates of basic pay replaced by those in effect upon his release from that duty.
 
 **(b)** A member of an armed force who first became a member of a uniformed service before September 8, 1980, and who has been retired other than for physical disability, and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
 
@@ -565,7 +549,7 @@ is entitled, upon his release from active duty, to retired pay under subsection 
 
 **(f)**
 
-(1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
+(1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 7314 or 9314 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
 
 (2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the monthly rate of basic pay upon which the recomputation of such retired pay is based.
 
@@ -593,6 +577,8 @@ In subsection (d), the rules stated in 37:316 (2d and last provisos) are repeate
 Another section 304(b)(3) of Pub. L. 99–348 amended the table of sections at the beginning of chapter 571 of this title.
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–232 substituted “section 7314 or 9314” for “section 3914 or 8914”.
+
 2011—Subsec. (d). Pub. L. 111–383, in column 2 of table, inserted “, not to exceed 75%,” after “percentage of disability” and struck out column 4 of table which related to subtraction of excess over 75 percent of pay upon which computation is based.
 
 2008—Subsec. (a). Pub. L. 110–181 struck out column 3 of the table, which related to subtraction of excess over 75 percent of pay upon which computation is based.
@@ -627,11 +613,14 @@ Subsec. (e). Pub. L. 90–207, § 2(a)(2)(B), added subsec. (e).
 
 1960—Subsec. (a). Pub. L. 86–559 prohibited recomputation of retired pay under subsec. (a) on the basis of any period of active duty that was of less than six consecutive months’ duration or on the basis of any active duty for training for a reserve officer who is or has been retired under section 3911, 6323, or 8911 of this title or under [section 232 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section232&num=0&edition=prelim).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–383 applicable to persons who first become entitled to retired or retainer pay under subtitle A of this title after Jan. 7, 2011, and table in subsec. (d) of this section, in effect on the day before Jan. 7, 2011, applicable to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A on or before Jan. 7, 2011, see section 631(d) of Pub. L. 111–383, set out as a note under [section 1401 of this title](./chapter-071-computation-of-retired-pay.md#section-1401).
 
 #### Effective Date of 2008 Amendment
-Pub. L. 110–181, div. A, title VI, § 646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 6333 of this title](./chapter-571-voluntary-retirement.md#section-6333)] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
+Pub. L. 110–181, div. A, title VI, § 646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 6333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6333&num=0&edition=prelim)] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
 
 #### Effective Date of 1983 Amendment
 Amendment by section 922 of Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under [section 1401 of this title](./chapter-071-computation-of-retired-pay.md#section-1401).
@@ -654,13 +643,13 @@ Pub. L. 102–484, div. A, title VI, § 642(c), Oct. 23, 1992, 106 Stat. 2425, p
 Pub. L. 98–525, title VI, § 655, Oct. 19, 1984, 98 Stat. 2552, provided that: “(a) Notwithstanding the second sentence of footnote 1 of the table contained in [section 1402(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1402/a&num=0&edition=prelim), United States Code (relating to recomputation of retired pay to reflect later active duty), in the case of a member of the Armed Forces who—“(1) was voluntarily called or ordered to active duty during the period beginning on October 1, 1963, and ending on September 30, 1971; “(2) was at the time of such call or order entitled to retired pay or retainer pay; “(3) served on such active duty under such call or order for a continuous period of at least two years; and “(4) was released from such active duty before October 1, 1973, the retired or retainer pay of such member shall be recomputed, as provided in subsection (b), under the rates of basic pay in effect at the time of that release from active duty. “(b) The retired or retainer pay of a member of the Armed Forces described in subsection (a) shall be the amount determined under [section 1402(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1402/a&num=0&edition=prelim), United States Code (as modified with respect to such member by subsection (a)), and increased by the amount by which the member’s retired or retainer pay would have been increased during the period beginning on the date of the member’s release from active duty referred to in subsection (a)(4) and ending on the day before the day on which this section becomes effective had subsection (a) applied in the case of the member at the time of that release from active duty. “(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date of the enactment of this Act [Oct. 19, 1984], whichever is later.”
 
 #### Retired Pay and Retainer Pay; Prohibition Against Recomputation Under 1963 Pay Rates; Exceptions; Increments Based on the Greater of a 5 Percent Increase or Recomputation Under 1958 Pay Rates for Members Retired Prior to October 1949 for Reasons Other Than Physical Disability, Members Receiving Retired Pay Under Career Compensation Act of 1949 and Former Chiefs of Staff; Additional 5 Percent Increase for Other Retired Members; Exclusion From Increase of Officers Retired Under Certain Provisions
-Pub. L. 88–132, § 5(a)–(f), Oct. 2, 1963, 77 Stat. 212, provided that: “(a) Except as provided in [section 1402 of title 10](./chapter-071-computation-of-retired-pay.md#section-1402), United States Code, the changes made by this Act [see Short Title note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim)] in the rates of basic pay of members of the uniformed services do not increase the retired pay or retainer pay to which a member or former member of the uniformed services was entitled on the day before the effective date of this Act [Oct. 1, 1963]. However, except for a member covered by [section 6331 of title 10](./chapter-571-voluntary-retirement.md#section-6331), United States Code who became entitled to retainer pay before April 1, 1963, and subject to subsection (j) of this section [set out as a note below], a member or former member of a uniformed service who became entitled to retired pay or retainer pay after March 31, 1963, but before the effective date of this Act [Oct. 1, 1963], is entitled—“(1) to have the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963] recomputed under the rates of basic pay prescribed by section 2 of this Act [amending [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim)]; or “(2) to continue to have that pay computed under the rates of basic pay that were in effect under [section 203 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim), United States Code, on the day before the effective date of this Act [Oct. 1, 1963], plus the percentage increase provided by subsection (e) of this section; whichever pay is the greater. For the purposes of the preceding sentence, a member or former member who became entitled to retired pay on April 1, 1963, by virtue of section 1 of the Act of April 23, 1930, ch. 209, as amended ([5 U.S.C. 47a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section47a&num=0&edition=prelim)) [[section 8301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim)], shall be considered as having become entitled to that pay before April 1, 1963. “(b) A member or former member of a uniformed service who was retired other than for physical disability and who, in accordance with section 511 of the Career Compensation Act of 1949 (63 Stat. 829) [act Oct. 12, 1949, former [10 U.S.C. 580](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-580) note], is entitled to retired pay or retainer pay computed by ‘method’ (a) of that section using rates of basic pay that were in effect before October 1, 1949, is entitled—“(1) to have pay recomputed by ‘method’ (b) of that section using the rates of basic pay that were in effect under that Act on the day before the effective date of this Act [Oct. 1, 1963]; or “(2) to an increase of 5 percent in the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963]; whichever pay is the greater. “(c) A member or former member of a uniformed service who is entitled to retired pay or retainer pay computed under the rates of basic pay that were in effect under the Career Compensation Act of 1949 before June 1, 1958, including a member or former member who is entitled to retired pay under section 7 (b) or (c) of the Act of May 20, 1958, Public Law 85–422 (72 Stat. 130), is entitled—“(1) to have that pay recomputed under the rates of basic pay that were in effect under that Act on the day before the effective date of this Act [Oct. 1, 1963]; or “(2) to an increase of 5 percent in the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963]; whichever pay is the greater. “(d) A member or former member of a uniformed service who was entitled to retired pay on the day before the effective date of this Act [Oct. 1, 1963] and who served as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps is entitled—“(1) to have his retired pay recomputed under the formula for computing retired pay applicable to him—“(A) when he retired; or “(B) if he served on active duty after he retired and his retired pay was recomputed by reason of that service, when his retired pay was so recomputed; using as his rate of basic pay the rate of basic pay prescribed for officers serving on active duty in those positions on June 1, 1958, by footnote 1 to table for commissioned officers in section 201(a) of the Career Compensation Act of 1949, as amended (72 Stat. 122) [see [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim)]; or “(2) to an increase of 5 percent in the retired pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963]; whichever pay is the greater. “(e) A member or former member of a uniformed service who was entitled to retired pay or retainer pay on the day before the effective date of this Act [Oct. 1, 1963], other than a member or former member who is covered by subsection (b), (c), or (d) of this section, is entitled to an increase of 5 percent in the retired or retainer pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963]. “(f) Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this Act [Oct. 1, 1963] shall continue to receive the pay and allowances to which he was entitled on that day:“(1) The Act of March 23, 1946, chapter 112 (60 Stat. 59). “(2) The Act of June 26, 1948, chapter 677 (62 Stat. 1052). “(3) The Act of September 18, 1950, chapter 952 (64 Stat. A224).”
+Pub. L. 88–132, § 5(a)–(f), Oct. 2, 1963, 77 Stat. 212, provided that: “(a) Except as provided in [section 1402 of title 10](./chapter-071-computation-of-retired-pay.md#section-1402), United States Code, the changes made by this Act [see Short Title note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim)] in the rates of basic pay of members of the uniformed services do not increase the retired pay or retainer pay to which a member or former member of the uniformed services was entitled on the day before the effective date of this Act [Oct. 1, 1963]. However, except for a member covered by section 6331 [now 8331] of title 10, United States Code who became entitled to retainer pay before April 1, 1963, and subject to subsection (j) of this section [set out as a note below], a member or former member of a uniformed service who became entitled to retired pay or retainer pay after March 31, 1963, but before the effective date of this Act [Oct. 1, 1963], is entitled—“(1) to have the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963] recomputed under the rates of basic pay prescribed by section 2 of this Act [amending [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim)]; or “(2) to continue to have that pay computed under the rates of basic pay that were in effect under [section 203 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim), United States Code, on the day before the effective date of this Act [Oct. 1, 1963], plus the percentage increase provided by subsection (e) of this section; whichever pay is the greater. For the purposes of the preceding sentence, a member or former member who became entitled to retired pay on April 1, 1963, by virtue of section 1 of the Act of April 23, 1930, ch. 209, as amended ([5 U.S.C. 47a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section47a&num=0&edition=prelim)) [[section 8301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim)], shall be considered as having become entitled to that pay before April 1, 1963. “(b) A member or former member of a uniformed service who was retired other than for physical disability and who, in accordance with section 511 of the Career Compensation Act of 1949 (63 Stat. 829) [act Oct. 12, 1949, former [10 U.S.C. 580](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-580) note], is entitled to retired pay or retainer pay computed by ‘method’ (a) of that section using rates of basic pay that were in effect before October 1, 1949, is entitled—“(1) to have pay recomputed by ‘method’ (b) of that section using the rates of basic pay that were in effect under that Act on the day before the effective date of this Act [Oct. 1, 1963]; or “(2) to an increase of 5 percent in the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963]; whichever pay is the greater. “(c) A member or former member of a uniformed service who is entitled to retired pay or retainer pay computed under the rates of basic pay that were in effect under the Career Compensation Act of 1949 before June 1, 1958, including a member or former member who is entitled to retired pay under section 7 (b) or (c) of the Act of May 20, 1958, Public Law 85–422 (72 Stat. 130), is entitled—“(1) to have that pay recomputed under the rates of basic pay that were in effect under that Act on the day before the effective date of this Act [Oct. 1, 1963]; or “(2) to an increase of 5 percent in the retired pay or retainer pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963]; whichever pay is the greater. “(d) A member or former member of a uniformed service who was entitled to retired pay on the day before the effective date of this Act [Oct. 1, 1963] and who served as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps is entitled—“(1) to have his retired pay recomputed under the formula for computing retired pay applicable to him—“(A) when he retired; or “(B) if he served on active duty after he retired and his retired pay was recomputed by reason of that service, when his retired pay was so recomputed; using as his rate of basic pay the rate of basic pay prescribed for officers serving on active duty in those positions on June 1, 1958, by footnote 1 to table for commissioned officers in section 201(a) of the Career Compensation Act of 1949, as amended (72 Stat. 122) [see [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim)]; or “(2) to an increase of 5 percent in the retired pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963]; whichever pay is the greater. “(e) A member or former member of a uniformed service who was entitled to retired pay or retainer pay on the day before the effective date of this Act [Oct. 1, 1963], other than a member or former member who is covered by subsection (b), (c), or (d) of this section, is entitled to an increase of 5 percent in the retired or retainer pay to which he was entitled on the day before the effective date of this Act [Oct. 1, 1963]. “(f) Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this Act [Oct. 1, 1963] shall continue to receive the pay and allowances to which he was entitled on that day:“(1) The Act of March 23, 1946, chapter 112 (60 Stat. 59). “(2) The Act of June 26, 1948, chapter 677 (62 Stat. 1052). “(3) The Act of September 18, 1950, chapter 952 (64 Stat. A224).”
 
 #### Retired Pay and Retainer Pay; Retroactive Effect
 Pub. L. 88–132, § 5(j), Oct. 2, 1963, 77 Stat. 214, provided that: “A member or former member of a uniformed service is not entitled to an increase in his retired pay or retainer pay because of the enactment of this Act [see Short Title note set out under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim)] for any period before the effective date of this Act [Oct. 1, 1963].”
 
 #### Savings Provision
-Pub. L. 88–132, § 5(l)(2), Oct. 2, 1963, 77 Stat. 215, provided that: “Notwithstanding paragraph (1) of this subsection [amending this section], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act [Oct. 1, 1963], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on or after the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in [section 1402 of title 10](./chapter-071-computation-of-retired-pay.md#section-1402), United States Code [this section], subject to [section 6483(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6483/c&num=0&edition=prelim), as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act [[section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim)].”
+Pub. L. 88–132, § 5(l)(2), Oct. 2, 1963, 77 Stat. 215, provided that: “Notwithstanding paragraph (1) of this subsection [amending this section], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act [Oct. 1, 1963], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on or after the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in [section 1402 of title 10](./chapter-071-computation-of-retired-pay.md#section-1402), United States Code [this section], subject to section 6483(c) [now 8383(c)] of title 10, as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act [[section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim)].”
 
 
 <a id="section-1402a"></a>
@@ -695,7 +684,7 @@ is entitled, upon his release from active duty, to retired pay under subsection 
 
 **(f) Additional 10 Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—**
 
-(1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
+(1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 7314 or 9314 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
 
 (2) The amount of the retired pay as recomputed under another provision of this section and as increased under paragraph (1) may not exceed the amount equal to 75 percent of the retired pay base upon which the recomputation of such retired pay is based.
 
@@ -704,6 +693,8 @@ is entitled, upon his release from active duty, to retired pay under subsection 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–232 substituted “section 7314 or 9314” for “section 3914 or 8914”.
+
 2011—Subsec. (d). Pub. L. 111–383, in column 2 of table, inserted “, not to exceed 75%,” after “percentage of disability” and struck out column 4 of table which related to subtraction of excess over 75 percent of retired or retainer pay base upon which computation is based.
 
 1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
@@ -729,6 +720,9 @@ Pub. L. 98–94, § 923(a)(1), (2)(E), in footnote 1 of table, substituted “Be
 1980—Pub. L. 96–513, § 511(51)(B), substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 96–513, § 511(51)(A), substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–383 applicable to persons who first become entitled to retired or retainer pay under subtitle A of this title after Jan. 7, 2011, and table in subsec. (d) of this section, in effect on the day before Jan. 7, 2011, applicable to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A on or before Jan. 7, 2011, see section 631(d) of Pub. L. 111–383, set out as a note under [section 1401 of this title](./chapter-071-computation-of-retired-pay.md#section-1401).
@@ -884,25 +878,25 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 **(b) Retirement Under Subtitle A or E.—**
 
-(1) **Disability, warrant officer, and dopma retirement.—** — In the case of a person whose retired pay is computed under this subtitle, the retired pay base is determined in accordance with the following table. For a member entitled toretired pay under section:The retired pay base is: 1 Compute at rates applicable on date of retirement or date when member’s name was placed on temporary disability retired list, as the case may be. 2 Compute at rates applicable on date of retirement. 3 For the purposes of this subsection, determine member’s retired grade as if sections 3962 and 8962 did not apply. 1201120212041205Monthly basic pay 1 of grade to which member is entitled under section 1372 or to which he was entitled on day before retirement or placement on temporary disability retired list, whichever is higher. 580126312931305Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. 633 634 635 636125112521253Monthly basic pay 2 of member’s retired grade.3
+(1) **Disability, warrant officer, and dopma retirement.—** — In the case of a person whose retired pay is computed under this subtitle, the retired pay base is determined in accordance with the following table. For a member entitled toretired pay under section:The retired pay base is: 1 Compute at rates applicable on date of retirement or date when member’s name was placed on temporary disability retired list, as the case may be. 2 Compute at rates applicable on date of retirement. 3 For the purposes of this subsection, determine member’s retired grade as if sections 7342 and 9342 did not apply. 1201120212041205Monthly basic pay 1 of grade to which member is entitled under section 1372 or to which he was entitled on day before retirement or placement on temporary disability retired list, whichever is higher. 580126312931305Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. 633 634 635 636125112521253Monthly basic pay 2 of member’s retired grade.3
 
 (2) **Non-regular service retirement.—** — In the case of a person who is entitled to retired pay under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under [section 12741(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12741/a&num=0&edition=prelim), at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with [section 1370(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370/d&num=0&edition=prelim).
 
 **(c) Voluntary Retirement for Members of the Army.—**
 
-(1) **In general.—** — In the case of a member whose retired pay is computed under [section 3991 of this title](./chapter-371-computation-of-retired-pay.md#section-3991) or who is entitled to retired pay computed under [section 3992 of this title](./chapter-371-computation-of-retired-pay.md#section-3992), the retired pay base is determined in accordance with the following table. For a member entitled toretired pay under section:The retired pay base is: 1 For the purposes of this subsection, determine member’s retired grade as if section 3962 did not apply. 3911391839203924Monthly basic pay of member’s retired grade.1 39143917Monthly basic pay to which member was entitled on day before he retired. 3992Monthly basic pay of grade to which member is advanced on retired list.
+(1) **In general.—** — In the case of a member whose retired pay is computed under [section 7361 of this title](./chapter-745-computation-of-retired-pay.md#section-7361) or who is entitled to retired pay computed under [section 7362 of this title](./chapter-745-computation-of-retired-pay.md#section-7362), the retired pay base is determined in accordance with the following table. For a member entitled toretired pay under section:The retired pay base is: 1 For the purposes of this subsection, determine member’s retired grade as if section 7342 did not apply. 7311731873207324Monthly basic pay of member’s retired grade.1 73147317Monthly basic pay to which member was entitled on day before he retired. 7362Monthly basic pay of grade to which member is advanced on retired list.
 
 (2) **Rate of basic pay to be used.—** — The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member’s retirement.
 
-**(d) Retirement for Members of the Navy and Marine Corps.—** In the case of a member whose retired pay is computed under [section 6333 of this title](./chapter-571-voluntary-retirement.md#section-6333), who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under [section 6330 of this title](./chapter-571-voluntary-retirement.md#section-6330), the retired pay base or retainer pay base is determined in accordance with the following table. For a member entitled toretired or retainer pay under section:The retired pay base orretainer pay base is: 1 If the rate specified is less than the pay of any warrant officer grade satisfactorily held by the member on active duty, use the monthly basic pay of that warrant officer grade. 6323 6325(a)6383 Basic pay of the grade in which the member retired.1 6325(b)Basic pay of the grade the officer would hold if he had not received an appointment described in section 6325(b). 6326 Basic pay of the pay grade in which the member was serving on the day before retirement. 6330 Basic pay that the member received at the time of transfer to the Fleet Reserve or Fleet Marine Corps Reserve. 6151 Basic pay of the grade to which the member is advanced under section 6151. 6334 Basic pay of the grade to which the member is advanced under section 6334.
+**(d) Retirement for Members of the Navy and Marine Corps.—** In the case of a member whose retired pay is computed under [section 8333 of this title](./chapter-841-voluntary-retirement.md#section-8333), who is advanced on the retired list under section 8262 or 8334 of this title, or who is entitled to retainer pay under [section 8330 of this title](./chapter-841-voluntary-retirement.md#section-8330), the retired pay base or retainer pay base is determined in accordance with the following table. For a member entitled toretired or retainer pay under section:The retired pay base orretainer pay base is: 1 If the rate specified is less than the pay of any warrant officer grade satisfactorily held by the member on active duty, use the monthly basic pay of that warrant officer grade. 8323 8325(a)8372 Basic pay of the grade in which the member retired.1 8325(b)Basic pay of the grade the officer would hold if he had not received an appointment described in section 8325(b). 8326 Basic pay of the pay grade in which the member was serving on the day before retirement. 8330 Basic pay that the member received at the time of transfer to the Fleet Reserve or Fleet Marine Corps Reserve. 8262 Basic pay of the grade to which the member is advanced under section 8262. 8334 Basic pay of the grade to which the member is advanced under section 8334.
 
 **(e) Voluntary Retirement for Members of the Air Force.—**
 
-(1) **In general.—** — In the case of a member whose retired pay is computed under [section 8991 of this title](./chapter-871-computation-of-retired-pay.md#section-8991) or who is entitled to retired pay computed under [section 8992 of this title](./chapter-871-computation-of-retired-pay.md#section-8992), the retired pay base is determined in accordance with the following table. For a member entitled toretired pay under section:The retired pay base is: 1 For the purposes of this subsection, determine member’s retired grade as if section 8962 did not apply. 8911891889208924Monthly basic pay of member’s retired grade.1 89148917Monthly basic pay to which member was entitled on day before he retired. 8992Monthly basic pay of grade to which member is advanced on retired list.
+(1) **In general.—** — In the case of a member whose retired pay is computed under [section 9361 of this title](./chapter-945-computation-of-retired-pay.md#section-9361) or who is entitled to retired pay computed under [section 9362 of this title](./chapter-945-computation-of-retired-pay.md#section-9362), the retired pay base is determined in accordance with the following table. For a member entitled toretired pay under section:The retired pay base is: 1 For the purposes of this subsection, determine member’s retired grade as if section 9342 did not apply. 9311931893209324Monthly basic pay of member’s retired grade.1 93149317Monthly basic pay to which member was entitled on day before he retired. 9362Monthly basic pay of grade to which member is advanced on retired list.
 
 (2) **Rate of basic pay to be used.—** — The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member’s retirement.
 
-**(f) Coast Guard.—** In the case of a member who is retired under any section of title 14, the member’s retired pay is computed under [section 423(a) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423/a&num=0&edition=prelim) in the manner provided in that section.
+**(f) Coast Guard.—** In the case of a member who is retired under any section of title 14, the member’s retired pay is computed under section 423(a) 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 in the manner provided in that section.
 
 **(g) Commissioned Corps of National Oceanic and Atmospheric Administration.—** In the case of an officer whose retired pay is computed under section 245 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 ([33 U.S.C. 3045](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3045&num=0&edition=prelim)), the retired pay base is the basic pay of the rank with which the officer retired.
 
@@ -954,6 +948,14 @@ For provisions to prevent extinction or premature termination of rights, duties,
 A prior section 1406 was renumbered [section 12738 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12738).
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232 substituted “sections 7342 and 9342” for “sections 3962 and 8962” in footnote 3 in table.
+
+Subsec. (c)(1). Pub. L. 115–232 substituted “In the case of a member whose retired pay is computed under [section 7361 of this title](./chapter-745-computation-of-retired-pay.md#section-7361) or who is entitled to retired pay computed under [section 7362 of this title](./chapter-745-computation-of-retired-pay.md#section-7362)” for “In the case of a member whose retired pay is computed under [section 3991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3991&num=0&edition=prelim) or who is entitled to retired pay computed under [section 3992 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3992&num=0&edition=prelim)” in introductory provisions, “7311” for “3911”, “7318” for “3918”, “7320” for “3920”, “7324” for “3924”, “7314” for “3914”, “7317” for “3917”, and “7362” for “3992” in column 1 of table, and “section 7342” for “section 3962” in footnote 1 in table.
+
+Subsec. (d). Pub. L. 115–232 substituted “In the case of a member whose retired pay is computed under [section 8333 of this title](./chapter-841-voluntary-retirement.md#section-8333), who is advanced on the retired list under section 8262 or 8334 of this title, or who is entitled to retainer pay under [section 8330 of this title](./chapter-841-voluntary-retirement.md#section-8330),” for “In the case of a member whose retired pay is computed under [section 6333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6333&num=0&edition=prelim), who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under [section 6330 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6330&num=0&edition=prelim),” in introductory provisions, “8323” for “6323”, “8325(a)” for “6325(a)”, “8372” for “6383”, “8325(b)” for “6325(b)”, “8326” for “6326”, “8330” for “6330”, “8262” for “6151”, and “8334” for “6334” in column 1 of table, and “section 8325(b)” for “section 6325(b)”, “section 8262” for “section 6151”, and “section 8334” for “section 6334” in column 2 of table.
+
+Subsec. (e)(1). Pub. L. 115–232 substituted “In the case of a member whose retired pay is computed under [section 9361 of this title](./chapter-945-computation-of-retired-pay.md#section-9361) or who is entitled to retired pay computed under [section 9362 of this title](./chapter-945-computation-of-retired-pay.md#section-9362)” for “In the case of a member whose retired pay is computed under [section 8991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8991&num=0&edition=prelim) or who is entitled to retired pay computed under [section 8992 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8992&num=0&edition=prelim)” in introductory provisions, “9311” for “8911”, “9318” for “8918”, “9320” for “8920”, “9324” for “8924”, “9314” for “8914”, “9317” for “8917”, and “9362” for “8992” in column 1 of table, and “section 9342” for “section 8962” in footnote 1 in table.
+
 2014—Subsec. (i). Pub. L. 113–291, § 603(d)(1), inserted “Chief of the National Guard Bureau,” after “Chiefs of Service,” in heading.
 
 Subsec. (i)(1). Pub. L. 113–291, § 603(d)(2), inserted “as Chief of the National Guard Bureau,” after “Chief of Service,” and “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “of an armed force”.
@@ -995,6 +997,12 @@ Subsec. (e)(1). Pub. L. 105–85, § 1073(a)(23)(B), substituted “8962” for 
 1987—Subsec. (d). Pub. L. 100–180, § 512(d)(2), inserted “or 6334” after “6151” in text, and inserted item relating to section 6334 at end of table.
 
 Subsec. (i). Pub. L. 100–180, § 1314(b)(6), inserted “and Vice Chairmen” after “Chairmen” in heading and inserted “or Vice Chairman” after “Chairman” in par. (1).
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 423 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423&num=0&edition=prelim) redesignated [section 2504 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2504&num=0&edition=prelim) by Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223, and references to [section 423 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–291, div. A, title VI, § 603(e), Dec. 19, 2014, 128 Stat. 3398, provided that: “This section [amending this section and sections 210 and 414 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as a note under [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim), and amending provisions set out as a note under [section 205 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim)] and the amendments made by this section shall take effect on the date of the enactment of this Act [Dec. 19, 2014], and shall apply with respect to months of service that begin on or after that date.”
@@ -1059,7 +1067,7 @@ Pub. L. 103–337, div. A, title XVI, § 1688, Oct. 5, 1994, 108 Stat. 3025, pro
 
 (4) **High-36 months.—** — The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of all the months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under [section 12741(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12741/a&num=0&edition=prelim), before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
 
-**(e) Limitation for Enlisted Members Retiring With Less Than 30 Years’ Service.—** In the case of a member who is retired under section 3914 or 8914 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under [section 6330 of this title](./chapter-571-voluntary-retirement.md#section-6330), the member’s high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
+**(e) Limitation for Enlisted Members Retiring With Less Than 30 Years’ Service.—** In the case of a member who is retired under section 7314 or 9314 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under [section 8330 of this title](./chapter-841-voluntary-retirement.md#section-8330), the member’s high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
 
 **(f) Exception for Enlisted Members Reduced in Grade and Officers Who Do Not Serve Satisfactorily in Highest Grade Held.—**
 
@@ -1079,6 +1087,8 @@ Pub. L. 103–337, div. A, title XVI, § 1688, Oct. 5, 1994, 108 Stat. 3025, pro
 A prior section 1407, added Pub. L. 96–342, title VIII, § 813(a)(1), Sept. 8, 1980, 94 Stat. 1100; amended Pub. L. 96–513, title I, § 113(c), title V, §§ 501(21), 511(53), Dec. 12, 1980, 94 Stat. 2877, 2908, 2925, related to determination of retired base pay, prior to repeal by Pub. L. 99–348, § 104(b).
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–232 substituted “section 7314 or 9314” for “section 3914 or 8914” and “section 8330” for “section 6330”.
+
 2009—Subsec. (d)(4). Pub. L. 111–84 inserted “or, in the case of a member or former member entitled to retired pay by reason of an election under [section 12741(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12741/a&num=0&edition=prelim), before the member or former member completes the service required under such section 12741(a),” after “became entitled to retired pay”.
 
 2004—Subsec. (c)(3). Pub. L. 108–375 added par. (3).
@@ -1106,6 +1116,9 @@ Subsec. (d). Pub. L. 101–189, § 651(a)(4), added subsec. (d). Former subsec. 
 Subsec. (e). Pub. L. 101–189, § 651(a)(2), (3), redesignated subsec. (d) as (e) and struck out former subsec. (e) which related to special rules for short-term disability retirees.
 
 Subsecs. (f), (g). Pub. L. 101–189, § 651(a)(2), struck out subsec. (f) which related to special rule for members retiring with non-regular service, and subsec. (g) which defined the term “years of creditable service”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–375, div. A, title VI, § 641(b), Oct. 28, 2004, 118 Stat. 1957, provided that: “Paragraph (3) of [section 1407(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1407/c&num=0&edition=prelim), United States Code, as added by subsection (a), shall take effect— “(1) for purposes of determining an annuity under subchapter II or III of chapter 73 of that title, with respect to deaths on active duty on or after September 10, 2001; and “(2) for purposes of determining the amount of retired pay of a member of a reserve component entitled to retired pay under section 1201 or 1202 of such title, with respect to such entitlement that becomes effective on or after the date of the enactment of this Act [Oct. 28, 2004].”
@@ -1178,7 +1191,7 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
 
 (4)
 
-  (A) The term “disposable retired pay” means the total monthly retired pay to which a member is entitled (as determined pursuant to subparagraph (B) 11 So in original. Probably should be followed by a second closing parenthesis. less amounts which—
+  (A) The term “disposable retired pay” means the total monthly retired pay to which a member is entitled less amounts which—
 
     (i) are owed by that member to the United States for previous overpayments of retired pay and for recoupments required by law resulting from entitlement to retired pay;
 
@@ -1188,11 +1201,15 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
 
     (iv) are deducted because of an election under chapter 73 of this title to provide an annuity to a spouse or former spouse to whom payment of a portion of such member’s retired pay is being made pursuant to a court order under this section.
 
-  (B) For purposes of subparagraph (A), the total monthly retired pay to which a member is entitled shall be—
+  (B) For purposes of subparagraph (A), in the case of a division of property as part of a final decree of divorce, dissolution, annulment, or legal separation that becomes final prior to the date of a member’s retirement, the total monthly retired pay to which the member is entitled shall be—
 
-    (i) the amount of basic pay payable to the member for the member’s pay grade and years of service at the time of the court order, as increased by
+    (i) in the case of a member not described in clause (ii), the amount of retired pay to which the member would have been entitled using the member’s retired pay base and years of service on the date of the decree of divorce, dissolution, annulment, or legal separation, as computed under section 1406 or 1407 of this title, whichever is applicable, increased by the sum of the cost-of-living adjustments that—
 
-    (ii) each cost-of-living adjustment that occurs under [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) between the time of the court order and the time of the member’s retirement using the adjustment provisions under that section applicable to the member upon retirement.
+      (I) would have occurred under [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) between the date of the decree of divorce, dissolution, annulment, or legal separation and the time of the member’s retirement using the adjustment provisions under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a) applicable to the member upon retirement; and
+
+      (II) occur under 1401a of this title after the member’s retirement; or
+
+    (ii) in the case of a member who becomes entitled to retired pay pursuant to chapter 1223 of this title, the amount of retired pay to which the member would have been entitled using the member’s retired pay base and creditable service points on the date of the decree of divorce, dissolution, annulment, or legal separation, as computer under chapter 1223 of this title, increased by the sum of the cost-of-living adjustments as described in clause (i) that apply with respect to the member.
 
 (5) The term “member” includes a former member entitled to retired pay under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731).
 
@@ -1253,6 +1270,8 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
     (i) modifies a previous court order under this section upon which payments under this subsection are based; and
 
     (ii) is issued by a court of a State other than the State of the court that issued the previous court order.
+
+(8) A division of property award computed as a percentage of a member’s disposable retired pay shall be increased by the same percentage as any cost-of-living adjustment made under section 1401a after the member’s retirement.
 
 **(e) Limitations.—**
 
@@ -1348,7 +1367,7 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
 
 (10)
 
-  (A) For purposes of this subsection, in the case of a member of the armed forces who has been sentenced by a court-martial to receive a punishment that will terminate the eligibility of that member to receive retired pay if executed, the eligibility of that member to receive retired pay may, as determined by the Secretary concerned, be considered terminated effective upon the approval of that sentence by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim) (article 60(c) of the Uniform Code of Military Justice).
+  (A) For purposes of this subsection, in the case of a member of the armed forces who has been sentenced by a court-martial to receive a punishment that will terminate the eligibility of that member to receive retired pay if executed, the eligibility of that member to receive retired pay may, as determined by the Secretary concerned, be considered terminated effective upon entry of judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice).
 
   (B) If each form of the punishment that would result in the termination of eligibility to receive retired pay is later remitted, set aside, or mitigated to a punishment that does not result in the termination of that eligibility, a payment of benefits to the eligible recipient under this subsection that is based on the punishment so vacated, set aside, or mitigated shall cease. The cessation of payments shall be effective as of the first day of the first month following the month in which the Secretary concerned notifies the recipient of such benefits in writing that payment of the benefits will cease. The recipient may not be required to repay the benefits received before that effective date (except to the extent necessary to recoup any amount that was erroneous when paid).
 
@@ -1366,6 +1385,26 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
 
 **(k) Relationship to Other Laws.—** In any case involving an order providing for payment of child support (as defined in section 459(i)(2) of the Social Security Act) by a member who has never been married to the other parent of the child, the provisions of this section shall not apply, and the case shall be subject to the provisions of section 459 of such Act.
 
+**(l) Garnishment To Satisfy a Judgment Rendered for Physically, Sexually, or Emotionally Abusing a Child.—**
+
+(1) Subject to paragraph (2), any payment of retired pay that would otherwise be made to a member shall be paid (in whole or in part) by the Secretary concerned to another person if and to the extent expressly provided for in the terms of a child abuse garnishment order.
+
+(2) A court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, shall be given priority over a child abuse garnishment order. The total amount of the disposable retired pay of a member payable under a child abuse garnishment order shall not exceed 25 percent of the member’s disposable retired pay.
+
+(3) In this subsection, the term “court order” includes a child abuse garnishment order.
+
+(4) In this subsection, the term “child abuse garnishment order” means a final decree issued by a court that—
+
+  (A) is issued in accordance with the laws of the jurisdiction of that court; and
+
+  (B) provides in the nature of garnishment for the enforcement of a judgment rendered against the member for physically, sexually, or emotionally abusing a child.
+
+(5) For purposes of this subsection, a judgment rendered for physically, sexually, or emotionally abusing a child is any legal claim perfected through a final enforceable judgment, which claim is based in whole or in part upon the physical, sexual, or emotional abuse of an individual under 18 years of age, whether or not that abuse is accompanied by other actionable wrongdoing, such as sexual exploitation or gross negligence.
+
+(6) If the Secretary concerned is served with more than one court order with respect to the retired pay of a member, the disposable retired pay of the member shall be available to satisfy such court orders on a first-come, first-served basis, subject to the order of precedence specified in paragraph (2), with any such process being satisfied out of such monies as remain after the satisfaction of all such processes which have been previously served.
+
+(7) The Secretary concerned shall not be required to vary normal pay and disbursement cycles for retired pay in order to comply with a child abuse garnishment order.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1374,6 +1413,20 @@ The Social Security Act, referred to in subsecs. (a)(1)(D) and (d)(1), is act Au
 The Servicemembers Civil Relief Act, referred to in subsec. (b)(1)(D), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (a)(4)(A). Pub. L. 115–91, § 624(a)(1)(A), struck out “(as determined pursuant to subparagraph (B)” after “is entitled” in introductory provisions.
+
+Subsec. (a)(4)(B). Pub. L. 115–91, § 624(a)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “For purposes of subparagraph (A), the total monthly retired pay to which a member is entitled shall be—
+
+“(i) the amount of basic pay payable to the member for the member’s pay grade and years of service at the time of the court order, as increased by
+
+“(ii) each cost-of-living adjustment that occurs under [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) between the time of the court order and the time of the member’s retirement using the adjustment provisions under that section applicable to the member upon retirement.”
+
+Subsec. (d)(8). Pub. L. 115–91, § 624(a)(2), added par. (8).
+
+Subsec. (h)(10)(A). Pub. L. 115–91, § 531(m), substituted “entry of judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice)” for “the approval of that sentence by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim) (article 60(c) of the Uniform Code of Military Justice)”.
+
+Subsec. (l). Pub. L. 115–91, § 534(a), added subsec. (l).
+
 2016—Subsec. (a)(4). Pub. L. 114–328, § 641(a), designated existing provisions as subpar. (A), inserted “(as determined pursuant to subparagraph (B)” after “member is entitled” in introductory provisions, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
 
 Subsec. (b)(1)(D). Pub. L. 114–328, § 1081(b)(2)(B), substituted “([50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 501 et seq.)”.
@@ -1544,6 +1597,15 @@ Subsec. (e)(4)(A). Pub. L. 98–525, § 643(d)(3), struck out “the retired or 
 
 Subsec. (e)(5). Pub. L. 98–525, § 643(d)(4), struck out “of disposable retired or retainer pay” after “payment of an amount” in two places and substituted “disposable retired or retainer pay” for “such pay” before “available for payment”.
 
+#### Effective Date of 2017 Amendment
+Amendment by section 531(m) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 531(p) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+Pub. L. 115–91, div. A, title V, § 534(b), Dec. 12, 2017, 131 Stat. 1391, provided that: “Subsection (l) of [section 1408 of title 10](./chapter-071-computation-of-retired-pay.md#section-1408), United States Code, as added by subsection (a), shall apply with respect to a court order received by the Secretary concerned on or after the date of the enactment of this Act [Dec. 12, 2017], regardless of the date of the court order.”
+
+Pub. L. 115–91, div. A, title VI, § 624(b), Dec. 12, 2017, 131 Stat. 1430, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on December 23, 2016, as if enacted immediately following the enactment of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) [see Tables for classification] to which such amendments relate.”
+
+Pub. L. 115–91, div. A, title VI, § 624(c), Dec. 12, 2017, 131 Stat. 1430, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any division of property as part of a final decree of divorce, dissolution, annulment, or legal separation involving a member of the Armed Forces to which [section 1408 of title 10](./chapter-071-computation-of-retired-pay.md#section-1408), United States Code, applies that becomes final after December 23, 2016.”
+
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title VI, § 641(b), Dec. 23, 2016, 130 Stat. 2164, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any division of property as part of a final decree of divorce, dissolution, annulment, or legal separation involving a member of the Armed Forces to which [section 1408 of title 10](./chapter-071-computation-of-retired-pay.md#section-1408), United States Code, applies that becomes final after the date of the enactment of this Act [Dec. 23, 2016].”
 
@@ -1607,7 +1669,7 @@ Pub. L. 97–252, title X, § 1005, Sept. 8, 1982, 96 Stat. 737, which directed 
 
   (B) chapter 1223 of this title (relating to retirement for non-regular service); or
 
-(2) the retainer pay of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under [section 6330 of this title](./chapter-571-voluntary-retirement.md#section-6330),
+(2) the retainer pay of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under [section 8330 of this title](./chapter-841-voluntary-retirement.md#section-8330),
 the retired pay multiplier (or retainer pay multiplier) is the percentage determined under subsection (b).
 
 **(b) Percentage.—**
@@ -1638,64 +1700,52 @@ the retired pay multiplier (or retainer pay multiplier) is the percentage determ
 
       (II) the member’s years of creditable service (as defined in subsection (c)) in excess of 30 years of creditable service, under conditions authorized for purposes of this subparagraph during a period designated by the Secretary of Defense for purposes of this subparagraph.
 
+(4) **Modernized retirement system.—**
+
+  (A) *Reduced multiplier for full tsp members.—* — Notwithstanding paragraphs (1), (2), and (3), in the case of a member who first becomes a member of the uniformed services on or after January 1, 2018, or a member who makes the election described in subparagraph (B) (referred to as a “full TSP member”)—
+
+    (i) paragraph (1)(A) shall be applied by substituting “2” for “2½”;
+
+    (ii) clause (i) of paragraph (3)(B) shall be applied by substituting “60 percent” for “75 percent”; and
+
+    (iii) clause (ii)(I) of such paragraph shall be applied by substituting “2” for “2½”.
+
+  (B) *Election to participate in modernized retirement system.—* — Pursuant to subparagraph (C), a member of a uniformed service serving on December 31, 2017, who has served in the uniformed services for fewer than 12 years as of December 31, 2017, may elect, in exchange for the reduced multipliers described in subparagraph (A) for purposes of calculating the retired pay of the member, to receive Thrift Savings Plan contributions pursuant to [section 8440e(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e/e&num=0&edition=prelim).
+
+  (C) *Election period.—*
+
+    (i) *In general.—* — Except as provided in clauses (ii), (iii), (iv), and (v), a member of a uniformed service described in subparagraph (B) may make the election authorized by that subparagraph only during the period that begins on January 1, 2018, and ends on December 31, 2018.
+
+    (ii) *Hardship extension.—* — The Secretary concerned may extend the election period described in clause (i) for a member who experiences a hardship as determined by the Secretary concerned.
+
+    (iii) *Effect of break in service.—* — A member of a uniformed service who returns to service after a break in service that occurs during the election period specified in clause (i) shall make the election described in subparagraph (B) within 30 days after the date of the reentry into service of the member.
+
+    (iv) *Cadets and midshipmen, etc.—* — A member of a uniformed service who serves as a cadet, midshipman, or member of the Senior Reserve Officers’ Training Corps during the election period specified in clause (i) shall make the election described in subparagraph (B)—
+
+      (I) on or after the date on which such cadet, midshipman, or member of the Senior Reserve Officers’ Training Corps is appointed as a commissioned officer or otherwise begins to receive basic pay; and
+
+      (II) not later than 30 days after such date or the end of such election period, whichever is later.
+
+    (v) *Inactive reserves.—* — A member of a reserve component who is not in an active status during the election period specified in clause (i) shall make the election described in subparagraph (B)—
+
+      (I) on or after the date on which such member is transferred from an inactive status to an active status or active duty; and
+
+      (II) not later than 30 days after such date or the end of such election period, whichever is later.
+
+  (D) *No retroactive contributions pursuant to election.—* — Thrift Savings Plan contributions may not be made for a member making an election pursuant to subparagraph (B) for any period beginning before the date of the member’s election under that subparagraph by reason of the member’s election.
+
+  (E) *Regulations.—* — The Secretary concerned shall prescribe regulations to implement this paragraph.
+
 **(c) Years of Creditable Service Defined.—** In this section, the term “years of creditable service” means the number of years of service creditable to a member in computing the member’s retired or retainer pay (including 1⁄12 of a year for each full month of service that is in addition to the number of full years of service of the member).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(4)(C)
-Pub. L. 114–328, div. A, title VI, § 631, Dec. 23, 2016, 130 Stat. 2162, provided that, effective Jan. 1, 2018, immediately after the coming into effect of the amendments made by section 631(a) of Pub. L. 114–92 (see below), subsection (b)(4)(C) is amended:
-
-(1) in clause (i), by striking “and (iii)” and inserting “, (iii), (iv), and (v)”; and
-
-(2) by adding at the end the following new clauses:
-
-(iv) Cadets and midshipmen, etc.—A member of a uniformed service who serves as a cadet, midshipman, or member of the Senior Reserve Officers’ Training Corps during the election period specified in clause (i) shall make the election described in subparagraph (B)—
-
-(I) on or after the date on which such cadet, midshipman, or member of the Senior Reserve Officers’ Training Corps is appointed as a commissioned officer or otherwise begins to receive basic pay; and
-
-(II) not later than 30 days after such date or the end of such election period, whichever is later.
-
-(v) Inactive reserves.—A member of a reserve component who is not in an active status during the election period specified in clause (i) shall make the election described in subparagraph (B)—
-
-(I) on or after the date on which such member is transferred from an inactive status to an active status or active duty; and
-
-(II) not later than 30 days after such date or the end of such election period, whichever is later.
-
-See 2016 Amendment note below.
-
-#### Amendment of Subsection (b)
-Pub. L. 114–92, div. A, title VI, §§ 631(a), 635, Nov. 25, 2015, 129 Stat. 842, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (b) of this section is amended by adding at the end the following new paragraph:
-
-(4) Modernized retirement system.—
-
-(A) Reduced multiplier for full tsp members.—Notwithstanding paragraphs (1), (2), and (3), in the case of a member who first becomes a member of the uniformed services on or after January 1, 2018, or a member who makes the election described in subparagraph (B) (referred to as a “full TSP member”)—
-
-(i) paragraph (1)(A) shall be applied by substituting “2” for “2½”;
-
-(ii) clause (i) of paragraph (3)(B) shall be applied by substituting “60 percent” for “75 percent”; and
-
-(iii) clause (ii)(I) of such paragraph shall be applied by substituting “2” for “2½”.
-
-(B) Election to participate in modernized retirement system.—Pursuant to subparagraph (C), a member of a uniformed service serving on December 31, 2017, who has served in the uniformed services for fewer than 12 years as of December 31, 2017, may elect, in exchange for the reduced multipliers described in subparagraph (A) for purposes of calculating the retired pay of the member, to receive Thrift Savings Plan contributions pursuant to [section 8440e(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e/e&num=0&edition=prelim).
-
-(C) Election period.—
-
-(i) In general.—Except as provided in clauses (ii) and (iii), a member of a uniformed service described in subparagraph (B) may make the election authorized by that subparagraph only during the period that begins on January 1, 2018, and ends on December 31, 2018.
-
-(ii) Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a member who experiences a hardship as determined by the Secretary concerned.
-
-(iii) Effect of break in service.—A member of a uniformed service who returns to service after a break in service that occurs during the election period specified in clause (i) shall make the election described in subparagraph (B) within 30 days after the date of the reentry into service of the member.
-
-(D) No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a member making an election pursuant to subparagraph (B) for any period beginning before the date of the member’s election under that subparagraph by reason of the member’s election.
-
-(E) Regulations.—The Secretary concerned shall prescribe regulations to implement this paragraph.
-
-See 2015 Amendment note below.
 
 #### References in Text
 [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(2), means [section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) as in effect before enactment of Pub. L. 110–181. [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) was renumbered as [section 354 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section354&num=0&edition=prelim) and amended by Pub. L. 110–181, div. A, title VI, § 661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–232 substituted “section 8330” for “section 6330”.
+
 2016—Subsec. (b)(4)(C)(i). Pub. L. 114–328, § 631(a)(1), substituted “, (iii), (iv), and (v)” for “and (iii)”.
 
 Subsec. (b)(4)(C)(iv), (v). Pub. L. 114–328, § 631(a)(2), added cls. (iv) and (v).
@@ -1711,6 +1761,9 @@ Subsec. (b)(4)(C)(iv), (v). Pub. L. 114–328, § 631(a)(2), added cls. (iv) and
 1994—Subsec. (a)(1)(B). Pub. L. 103–337 substituted “chapter 1223” for “chapter 67”.
 
 1989—Subsec. (a)(1). Pub. L. 101–189 substituted “who is entitled to that pay” for “who is retired” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title VI, § 631(b), Dec. 23, 2016, 130 Stat. 2162, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments made by section 631(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 842) [amending this section], to which the amendments made by subsection (a) relate.”
@@ -1808,7 +1861,7 @@ Repeal effective Jan. 1, 2004, and applicable to payments for months beginning o
 
   (A) *General rule.—* — In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
-  (B) *Special rule for retirees with fewer than 20 years of service.—* — In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to 2½ percent of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+  (B) *Special rule for retirees with fewer than 20 years of service.—* — In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to the retired pay percentage (determined for the member under [section 1409(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b&num=0&edition=prelim)) of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 
 **(c) Eligible Retirees.—** For purposes of this section, an eligible combat-related disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services who—
 
@@ -1845,9 +1898,6 @@ Repeal effective Jan. 1, 2004, and applicable to payments for months beginning o
 (2) The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(3)(B)
-Pub. L. 114–328, div. A, title VI, § 634, Dec. 23, 2016, 130 Stat. 2163, provided that, effective Jan. 1, 2018, immediately after the coming into effect of the amendments made by part I (§§ 631–635) of subtitle D of title VI of Pub. L. 114–92, subsec. (b)(3)(B) is amended by striking “2½ percent” and inserting “the retired pay percentage (determined for the member under [section 1409(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b&num=0&edition=prelim))”. See 2016 Amendment note below.
 
 #### Amendments
 2016—Subsec. (b)(3)(B). Pub. L. 114–328 substituted “the retired pay percentage (determined for the member under [section 1409(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b&num=0&edition=prelim))” for “2½ percent”.
@@ -2136,7 +2186,7 @@ Pub. L. 107–107, div. A, title VI, § 641(d), Dec. 28, 2001, 115 Stat. 1150, p
 
 **(d) Payment of Retired Pay to Persons Not Making Election.—** An eligible person who does not make the election described in subsection (b)(1) shall be paid the retired pay to which the eligible person is otherwise entitled under the applicable provisions of law referred to in subsection (a)(1).
 
-**(e) Regulations.—** The Secretary of Defense concerned 11 So in original. shall prescribe regulations to carry out the provisions of this section.
+**(e) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out the provisions of this section.
 
 ### Statutory Notes
 
@@ -2146,6 +2196,8 @@ The National Oceanic and Atmospheric Administration Commissioned Officer Corps A
 The Public Health Service Act, referred to in subsec. (a)(1)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–232 struck out “concerned” after “The Secretary of Defense”.
+
 2016—Subsec. (b)(1)(B)(ii). Pub. L. 114–328 inserted period at end.
 
 #### Effective Date; Implementation

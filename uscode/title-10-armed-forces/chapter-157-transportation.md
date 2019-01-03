@@ -2,7 +2,7 @@
 title: 10
 chapter: '157'
 heading: TRANSPORTATION
-section_count: 25
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -647,7 +647,7 @@ Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text of
 
   (A) the basis for the determination;
 
-  (B) any additional categories of individuals to be eligible for the travel program under subsection (c)(5);
+  (B) any additional categories of individuals to be eligible for the travel program under subsection (c)(5); 11 See References in Text note below.
 
   (C) how the Secretary will ensure that the travel program is established and operated in compliance with the conditions specified in subsection (b); and
 
@@ -667,9 +667,11 @@ Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text of
 
 (3) Retired members of a regular or reserve component of the armed forces, including retired members of reserve components who, but for being under the eligibility age applicable under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), would be eligible for retired pay under chapter 1223 of this title.
 
-(4) Such categories of dependents of individuals described in paragraphs (1) through (3) as the Secretary shall specify in the regulations under subsection (a), under such conditions and circumstances as the Secretary shall specify in such regulations.
+(4) Subject to subsection (f), veterans with a permanent service-connected disability rated as total.
 
-(5) Such other categories of individuals as the Secretary, in the discretion of the Secretary, considers appropriate.
+(5) Such categories of dependents of individuals described in paragraphs (1) through (3) as the Secretary shall specify in the regulations under subsection (a), under such conditions and circumstances as the Secretary shall specify in such regulations.
+
+(6) Such other categories of individuals as the Secretary, in the discretion of the Secretary, considers appropriate.
 
 **(d) Priorities and Restrictions.—** In operating the travel program, the Secretary of Defense shall—
 
@@ -701,11 +703,26 @@ Subsec. (d). Pub. L. 106–65, § 1066(a)(24)(B), struck out heading and text of
 
 (6) In this subsection, the terms “primary care provider” and “specialty care provider” refer to a medical or dental professional who provides health care services under chapter 55 of this title.
 
-**(f) Construction.—** The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
+**(f) Veterans With Service-connected Disabilities Rated as Total.—**
+
+(1) Travel may not be provided under this section to a veteran eligible for travel pursuant to subsection (c)(4) in priority over any member eligible for travel under subsection (c)(1) or any dependent of such a member eligible for travel under this section.
+
+(2) The authority in subsection (c)(4) may not be construed as affecting or in any way imposing on the Department of Defense, any armed force, or any commercial company with which they contract an obligation or expectation that they will retrofit or alter, in any way, military aircraft or commercial aircraft, or related equipment or facilities, used or leased by the Department or such armed force to accommodate passengers provided travel under such authority on account of disability.
+
+(3) The authority in subsection (c)(4) may not be construed as preempting the authority of a flight commander to determine who boards the aircraft and any other matters in connection with safe operation of the aircraft.
+
+**(g) Construction.—** The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
 
 ### Statutory Notes
 
+#### References in Text
+Subsection (c)(5), referred to in subsec. (a)(3)(B), was redesignated subsec. (c)(6) of this section by Pub. L. 115–232, div. A, title VI, § 624(a), Aug. 13, 2018, 132 Stat. 1801.
+
 #### Amendments
+2018—Subsec. (c)(4) to (6). Pub. L. 115–232, § 624(a), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsecs. (f), (g). Pub. L. 115–232, § 624(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2013—Pub. L. 112–239 amended section generally. Prior to amendment, section related to increased priority for space-available transportation on Department of Defense aircraft for certain members and former members of the uniformed services.
 
 #### Study on Space-Available Travel System of the Department of Defense
@@ -735,6 +752,8 @@ Pub. L. 114–328, div. A, title III, § 352, Dec. 23, 2016, 130 Stat. 2089, pro
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(3). Pub. L. 115–91, § 1081(f), which directed substitution of “September 30” for “October 28” in the amendment made by Pub. L. 113–291, § 1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
+
 2014—Pub. L. 113–291, § 1044(c)(1), amended section catchline generally, substituting “Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate” for “Transportation services provided to certain other agencies: use of Department of Defense reimbursement rate”.
 
 Subsec. (a). Pub. L. 113–291, § 1044(a)(1), substituted “Subject to subsection (b), the Secretary” for “The Secretary” in introductory provisions.
@@ -745,7 +764,7 @@ Pub. L. 113–291, § 1071(f)(22), inserted “and” before “military transpo
 
 Pub. L. 113–291, § 1044(a)(2)(B), substituted “Department of Defense” for “Department of Defense and military transportation services provided in support of foreign military sales”.
 
-Pub. L. 113–291, § 1044(a)(2)(A), which directed substitution of “For” for “During the period beginning on October 28, 2009, and ending on October 28, 2019, for”, was executed by making the substitution for “During the period beginning on October 28, 2009, and ending on September 30, 2019, for” to reflect the probable intent of Congress.
+Pub. L. 113–291, § 1044(a)(2)(A), as amended by Pub. L. 115–91, § 1081(f), substituted “For” for “During the period beginning on October 28, 2009, and ending on September 30, 2019, for”. See 2017 Amendment note above.
 
 Subsec. (a)(4) to (6). Pub. L. 113–291, § 1044(a)(3), added pars. (4) to (6).
 
@@ -770,6 +789,9 @@ Subsec. (a). Pub. L. 108–136, § 1006(a), inserted “as follows:
 “(1) For military airlift services provided”
 
 before “to the Central Intelligence Agency”, and added par. (2).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title X, § 1081(f), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(f) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(4) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
@@ -804,7 +826,7 @@ In time of war, the President, through the Secretary of Defense, may take posses
 The words “as may be needful or desirable” are omitted as surplusage.
 
 #### Amendments
-1996—Pub. L. 104–201 renumbered [section 4742 of this title](./chapter-447-transportation.md#section-4742) as this section and substituted “Secretary of Defense” for “Secretary of the Army”.
+1996—Pub. L. 104–201 renumbered [section 4742 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4742&num=0&edition=prelim) as this section and substituted “Secretary of Defense” for “Secretary of the Army”.
 
 
 <a id="section-2645"></a>
@@ -1102,3 +1124,9 @@ Pub. L. 108–375, § 1072(a), renumbered [section 4747 of this title](https://u
 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+
+
+<a id="section-2652"></a>
+## § 2652. Prohibition on charge of certain tariffs on aircraft traveling through channel routes
+
+The United States Transportation Command may not charge a tariff by reason of the use by a military service of an aircraft of that military service on a route designated by the United States Transportation Command as a channel route.

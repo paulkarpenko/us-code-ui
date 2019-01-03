@@ -57,8 +57,16 @@ Pub. L. 103–236, title V, § 506(c), Apr. 30, 1994, 108 Stat. 464, provided th
 
 1994—Subsec. (a). Pub. L. 103–322 inserted “punished by death or” before “imprisoned for any term of years or for life”.
 
+#### Effective Date
+Section effective on the later of Apr. 30, 1994, or the date on which the United States has become a party to the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Nov. 20, 1994), see section 506(c) of Pub. L. 103–236, set out as a note under [section 2340 of this title](./chapter-113c-torture.md#section-2340).
+
 
 <a id="section-2340b"></a>
 ## § 2340B. Exclusive remedies
 
 Nothing in this chapter shall be construed as precluding the application of State or local laws on the same subject, nor shall anything in this chapter be construed as creating any substantive or procedural right enforceable by law by any party in any civil proceeding.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the later of Apr. 30, 1994, or the date on which the United States has become a party to the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Nov. 20, 1994), see section 506(c) of Pub. L. 103–236, set out as a note under [section 2340 of this title](./chapter-113c-torture.md#section-2340).

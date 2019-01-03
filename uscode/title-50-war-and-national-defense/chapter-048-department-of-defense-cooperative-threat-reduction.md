@@ -2,7 +2,7 @@
 title: 50
 chapter: '48'
 heading: DEPARTMENT OF DEFENSE COOPERATIVE THREAT REDUCTION
-section_count: 16
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -88,7 +88,7 @@ Pub. L. 113–291, div. A, title XIII, § 1311, Dec. 19, 2014, 128 Stat. 3595, p
 
 **(g) Prior notice to Congress of obligation of funds**
 
-(1) **Reports requirement** — Not less than 45 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with [section 3735(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3735/b&num=0&edition=prelim), the semiannual period covered by the report).
+(1) **Reports requirement** — Not less than 15 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with [section 3735(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3735/b&num=0&edition=prelim), the semiannual period covered by the report).
 
 (2) **Matters included** — Each report under paragraph (1) shall specify—
 
@@ -103,6 +103,8 @@ Pub. L. 113–291, div. A, title XIII, § 1311, Dec. 19, 2014, 128 Stat. 3595, p
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g)(1). Pub. L. 115–91 substituted “15 days” for “45 days”.
+
 2016—Subsec. (g)(1). Pub. L. 114–328, §§ 1302(b)(1), 1303(b)(1), in heading substituted “Reports requirement” for “Annual requirement” and in text substituted “45 days” for “15 days” and inserted “(or, in accordance with [section 3735(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3735/b&num=0&edition=prelim), the semiannual period covered by the report)” after “that fiscal year”.
 
 Subsec. (g)(3). Pub. L. 114–328, § 1303(b)(2), substituted “Except for Cooperative Threat Reduction funds subject to [section 3735 of this title](./chapter-048-department-of-defense-cooperative-threat-reduction.md#section-3735), paragraph (1)” for “Paragraph (1)”.
@@ -210,7 +212,7 @@ Subsec. (g)(3). Pub. L. 114–328, § 1303(b)(2), substituted “Except for Coop
 
     (ii) a complete discussion of the purpose and justification for such obligation or expenditure, including the amount of funds to be obligated or expended; and
 
-  (C) a period of 45 days has elapsed following the date on which the Secretary submits the notification and discussion under subparagraph (B).
+  (C) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under subparagraph (B).
 
 (2) **Construction with other laws** — Paragraph (1) may not be construed to authorize the obligation or expenditure of Cooperative Threat Reduction Program funds for a purpose for which the obligation or expenditure of such funds is specifically prohibited under [section 3731 of this title](./chapter-048-department-of-defense-cooperative-threat-reduction.md#section-3731) or any other provision of law.
 
@@ -224,11 +226,13 @@ Subsec. (g)(3). Pub. L. 114–328, § 1303(b)(2), substituted “Except for Coop
 
   (B) a complete discussion of the justification for exceeding such specified amounts, including the amount by which the Secretary will exceed such specified amounts; and
 
-(3) a period of 45 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
+(3) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsecs. (a)(1)(C), (b)(3). Pub. L. 115–91 substituted “15 days” for “45 days”.
+
 2016—Subsecs. (a)(1)(C), (b)(3). Pub. L. 114–328 substituted “45 days” for “15 days”.
 
 
@@ -254,25 +258,22 @@ Subsec. (g)(3). Pub. L. 114–328, § 1303(b)(2), substituted “Except for Coop
 
 (2) **Limitation on use of amounts** — The Secretary may not obligate funds contributed pursuant to subsection (a) until a period of 15 days elapses following the date on which the Secretary submits the notice under paragraph (1).
 
-**(e) Annual report** Not later than the first Monday in February of each year, the Secretary shall submit to the appropriate congressional committees a report on amounts contributed pursuant to subsection (a) during the preceding fiscal year. Each such report shall include, for the fiscal year covered by the report, the following:
-
-(1) A statement of any funds contributed pursuant to subsection (a), including, for each such contribution, the value of the contribution and the identity of the person who made the contribution.
-
-(2) A statement of any funds so contributed that were obligated or expended by the Secretary, including, for each such contribution, the purposes for which the funds were obligated or expended.
-
-(3) A statement of any funds so contributed that were retained but not obligated or expended, including, for each such contribution, the purposes (if known) for which the Secretary intends to obligate or expend the amount.
-
-**(f) Implementation plan** The Secretary shall submit to the congressional defense committees—
+**(e) Implementation plan** The Secretary shall submit to the congressional defense committees—
 
 (1) an implementation plan for the authority provided under this section prior to obligating or expending any funds contributed pursuant to subsection (a); and
 
 (2) any updates to such plan that the Secretary considers appropriate.
 
-**(g) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means the following:
+**(f) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means the following:
 
 (1) The congressional defense committees.
 
 (2) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsecs. (e) to (g). Pub. L. 115–91 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which required annual reports on contributions.
 
 
 <a id="section-3732"></a>
@@ -373,9 +374,9 @@ Subsec. (g)(3). Pub. L. 114–328, § 1303(b)(2), substituted “Except for Coop
 **(b) Completion of Cooperative Threat Reduction activities in Russian Federation** Cooperative Threat Reduction funds made available for a fiscal year after fiscal year 2015 may not be obligated or expended for activities in the Russian Federation unless such activities in Russia are specifically authorized by law.
 
 
-<a id="section-3741"></a>
-## § 3741. Limitation on availability of funds for Cooperative Threat Reduction activities in People’s Republic of China
-**(a) Semiannual installments** In carrying out activities under the Program in the People’s Republic of China, the Secretary of Defense shall ensure that Cooperative Threat Reduction funds for such activities are obligated or expended in semiannual installments.
+<a id="section-3741-3742"></a>
+## § 3741, 3742. Limitation on availability of funds for Cooperative Threat Reduction activities in People’s Republic of China
+**(a) Semiannual installments** In carrying out activities under the Program in the People’s Republic of China, the Secretary of Defense shall ensure that Cooperative Threat Reduction funds for such activities are obligated in semiannual installments.
 
 **(b) Required reports**
 
@@ -401,34 +402,20 @@ Subsec. (g)(3). Pub. L. 114–328, § 1303(b)(2), substituted “Except for Coop
 
 (4) **Form** — The information described in subparagraphs (A), (B), and (C) of paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
+### Statutory Notes
 
-<a id="section-3742"></a>
-## § 3742. Annual certifications on use of facilities being constructed for Department of Defense Cooperative Threat Reduction projects or activities
-
-Not later than the first Monday in February each year, the Secretary of Defense shall submit to the congressional defense committees a certification for each facility of a project or activity of the Program for which construction occurred during the preceding fiscal year on matters as follows:
-
-(1) Whether or not such facility will be used for its intended purpose by the government of the foreign country in which the facility is constructed.
-
-(2) Whether or not the government of such country remains committed to the use of such facility for such purpose.
-
-(3) Whether the actions needed to ensure security at the facility, including the secure transportation of any materials, substances, or weapons to, from, or within the facility, have been taken.
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–91 struck out “or expended” after “obligated”.
 
 
 <a id="section-3743"></a>
-## § 3743. Requirement to submit summary of amounts requested by project category
-**(a) Summary required** The Secretary of Defense shall submit to the congressional defense committees in the materials and manner specified in subsection (c)—
+## § 3743. Repealed. Pub. L. 115–91, div. A, title X, § 1051(t)(7), (8), Dec. 12, 2017, 131 Stat. 1566
 
-(1) a descriptive summary, with respect to the appropriations requested for the Program for the fiscal year after the fiscal year in which the summary is submitted, of the amounts requested for each project category under each program element; and
+### Statutory Notes
 
-(2) a descriptive summary, with respect to appropriations for the Program for the fiscal year in which the list is submitted and the previous fiscal year, of the amounts obligated or expended, or planned to be obligated or expended, for each project category under each program element.
+Section 3741, Pub. L. 113–291, div. A, title XIII, § 1341, Dec. 19, 2014, 128 Stat. 3604, related to annual certifications on use of facilities being constructed for Department of Defense Cooperative Threat Reduction projects or activities.
 
-**(b) Description of purpose and intent** The descriptive summary required under subsection (a) shall include a narrative description of each program and project category under each program element that explains the purpose and intent of the funds requested.
-
-**(c) Inclusion in certain materials submitted to Congress** The summary required to be submitted in a fiscal year under subsection (a) shall be set forth by project category, and by amounts specified in paragraphs (1) and (2) of such subsection in connection with such project category, in each of the following:
-
-(1) The annual report on activities and assistance under the Program required in such fiscal year under [section 3743 of this title](./chapter-048-department-of-defense-cooperative-threat-reduction.md#section-3743).
-
-(2) The budget justification materials submitted to Congress in support of the Department of Defense budget for the fiscal year succeeding such fiscal year (as submitted with the budget of the President under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim)).
+Section 3742, Pub. L. 113–291, div. A, title XIII, § 1342, Dec. 19, 2014, 128 Stat. 3604, related to requirement to submit summary of amounts requested by project category.
 
 
 <a id="section-3744"></a>

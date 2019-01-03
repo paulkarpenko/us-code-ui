@@ -55,7 +55,7 @@ Pub. L. 94–588, § 21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any 
 
 <a id="section-1601"></a>
 ## § 1601. Renewable Resource Assessment
-**(a) Preparation by Secretary of Agriculture; time of preparation, updating and contents** In recognition of the vital importance of America’s renewable resources of the forest, range, and other associated lands to the Nation’s social and economic well-being, and of the necessity for a long term perspective in planning and undertaking related national renewable resource programs administered by the Forest Service, the Secretary of Agriculture shall prepare a Renewable Resource Assessment (hereinafter called the “Assessment”). The Assessment shall be prepared not later than December 31, 1975, and shall be updated during 1979 and each tenth year thereafter, and shall include but not be limited to—
+**(a) Preparation by Secretary of Agriculture; time of preparation, updating and contents** In recognition of the vital importance of America’s renewable resources of the forest, range, and other associated lands to the Nation’s social and economic well-being, and of the necessity for a long term perspective in planning and undertaking related national renewable resource programs administered by the Forest Service, the Secretary of Agriculture (referred to in this subchapter as the “Secretary”) shall prepare a Renewable Resource Assessment (hereinafter called the “Assessment”). The Assessment shall be prepared not later than December 31, 1975, and shall be updated during 1979 and each tenth year thereafter, and shall include but not be limited to—
 
 (1) an analysis of present and anticipated uses, demand for, and supply of the renewable resources, with consideration of the international resource situation, and an emphasis of pertinent supply and demand and price relationship trends;
 
@@ -97,6 +97,8 @@ Pub. L. 94–588, § 21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any 
 Subsec. (b) of this section amended [section 581h of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section581h&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141 inserted “(referred to in this subchapter as the ‘Secretary’)” after “Secretary of Agriculture” in introductory provisions.
+
 1990—Subsec. (a)(5), (6). Pub. L. 101–624 added pars. (5) and (6).
 
 1976—Subsecs. (c) to (e). Pub. L. 94–588, §§ 3, 4, added subsecs. (c) to (e).
@@ -112,9 +114,9 @@ Pub. L. 101–624, title XII, § 1245, Nov. 28, 1990, 104 Stat. 3548, as amended
 
 
 <a id="section-1602"></a>
-## § 1602. Renewable Resource Program; preparation by Secretary of Agriculture and transmittal to President; purpose and development of program; time of preparation, updating and contents
+## § 1602. Renewable Resource Program; preparation by Secretary and transmittal to President; purpose and development of program; time of preparation, updating and contents
 
-In order to provide for periodic review of programs for management and administration of the National Forest System, for research, for cooperative State and private Forest Service programs, and for conduct of other Forest Service activities in relation to the findings of the Assessment, the Secretary of Agriculture, utilizing information available to the Forest Service and other agencies within the Department of Agriculture, including data prepared pursuant to [section 1010a of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1010a&num=0&edition=prelim), shall prepare and transmit to the President a recommended Renewable Resource Program (hereinafter called the “Program”). The Program transmitted to the President may include alternatives, and shall provide in appropriate detail for protection, management, and development of the National Forest System, including forest development roads and trails; for cooperative Forest Service programs; and for research. The Program shall be developed in accordance with principles set forth in the Multiple-Use Sustained-Yield Act of June 12, 1960 (74 Stat. 215; [16 U.S.C. 528–531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528–531&num=0&edition=prelim)), and the National Environmental Policy Act of 1969 (83 Stat. 852) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. The Program shall be prepared not later than December 31, 1975, to cover the four-year period beginning October 1, 1976, and at least each of the four fiscal decades next following such period, and shall be updated no later than during the first half of the fiscal year ending September 30, 1980, and the first half of each fifth fiscal year thereafter to cover at least each of the four fiscal decades beginning next after such updating. The Program shall include, but not be limited to—
+In order to provide for periodic review of programs for management and administration of the National Forest System, for research, for cooperative State and private Forest Service programs, and for conduct of other Forest Service activities in relation to the findings of the Assessment, the Secretary, utilizing information available to the Forest Service and other agencies within the Department of Agriculture, including data prepared pursuant to [section 1010a of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1010a&num=0&edition=prelim), shall prepare and transmit to the President a recommended Renewable Resource Program (hereinafter called the “Program”). The Program transmitted to the President may include alternatives, and shall provide in appropriate detail for protection, management, and development of the National Forest System, including forest development roads and trails; for cooperative Forest Service programs; and for research. The Program shall be developed in accordance with principles set forth in the Multiple-Use Sustained-Yield Act of June 12, 1960 (74 Stat. 215; [16 U.S.C. 528–531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528–531&num=0&edition=prelim)), and the National Environmental Policy Act of 1969 (83 Stat. 852) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. The Program shall be prepared not later than December 31, 1975, to cover the four-year period beginning October 1, 1976, and at least each of the four fiscal decades next following such period, and shall be updated no later than during the first half of the fiscal year ending September 30, 1980, and the first half of each fifth fiscal year thereafter to cover at least each of the four fiscal decades beginning next after such updating. The Program shall include, but not be limited to—
 
 (1) an inventory of specific needs and opportunities for both public and private program investments. The inventory shall differentiate between activities which are of a capital nature and those which are of an operational nature;
 
@@ -146,6 +148,8 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86
 The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture” in introductory provisions.
+
 1990—Par. (5)(F). Pub. L. 101–624 added subpar. (F).
 
 1976—Par. (4). Pub. L. 94–588 substituted “implement and monitor” for “satisfy”.
@@ -157,20 +161,51 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 
 <a id="section-1603"></a>
-## § 1603. National Forest System resource inventories; development, maintenance, and updating by Secretary of Agriculture as part of Assessment
+## § 1603. National Forest System resource inventories; development, maintenance, and updating by Secretary as part of Assessment
 
-As a part of the Assessment, the Secretary of Agriculture shall develop and maintain on a continuing basis a comprehensive and appropriately detailed inventory of all National Forest System lands and renewable resources. This inventory shall be kept current so as to reflect changes in conditions and identify new and emerging resources and values.
+As a part of the Assessment, the Secretary shall develop and maintain on a continuing basis a comprehensive and appropriately detailed inventory of all National Forest System lands and renewable resources. This inventory shall be kept current so as to reflect changes in conditions and identify new and emerging resources and values.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture”.
 
 
 <a id="section-1604"></a>
 ## § 1604. National Forest System land and resource management plans
-**(a) Development, maintenance, and revision by Secretary of Agriculture as part of program; coordination** As a part of the Program provided for by [section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602), the Secretary of Agriculture shall develop, maintain, and, as appropriate, revise land and resource management plans for units of the National Forest System, coordinated with the land and resource management planning processes of State and local governments and other Federal agencies.
+**(a) Development, maintenance, and revision by Secretary as part of program; coordination** As a part of the Program provided for by [section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602), the Secretary shall develop, maintain, and, as appropriate, revise land and resource management plans for units of the National Forest System, coordinated with the land and resource management planning processes of State and local governments and other Federal agencies.
 
 **(b) Criteria** In the development and maintenance of land management plans for use on units of the National Forest System, the Secretary shall use a systematic interdisciplinary approach to achieve integrated consideration of physical, biological, economic, and other sciences.
 
 **(c) Incorporation of standards and guidelines by Secretary; time of completion; progress reports; existing management plans** The Secretary shall begin to incorporate the standards and guidelines required by this section in plans for units of the National Forest System as soon as practicable after October 22, 1976, and shall attempt to complete such incorporation for all such units by no later than September 30, 1985. The Secretary shall report to the Congress on the progress of such incorporation in the annual report required by [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1606/c&num=0&edition=prelim). Until such time as a unit of the National Forest System is managed under plans developed in accordance with this subchapter, the management of such unit may continue under existing land and resource management plans.
 
-**(d) Public participation in management plans; availability of plans; public meetings** The Secretary shall provide for public participation in the development, review, and revision of land management plans including, but not limited to, making the plans or revisions available to the public at convenient locations in the vicinity of the affected unit for a period of at least three months before final adoption, during which period the Secretary shall publicize and hold public meetings or comparable processes at locations that foster public participation in the review of such plans or revisions.
+**(d) Public participation and consultation**
+
+(1) **In general** — The Secretary shall provide for public participation in the development, review, and revision of land management plans including, but not limited to, making the plans or revisions available to the public at convenient locations in the vicinity of the affected unit for a period of at least three months before final adoption, during which period the Secretary shall publicize and hold public meetings or comparable processes at locations that foster public participation in the review of such plans or revisions.
+
+(2) **No additional consultation required after approval of land management plans**
+
+  (A) *In general* — Except as provided in subparagraph (B), notwithstanding any other provision of law, the Secretary shall not be required to engage in consultation under this section or any other provision of law (including section 7 of Public Law 93–205 ([16 U.S.C. 1536](./chapter-035-endangered-species.md#section-1536)) and section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)) with respect to—
+
+    (i) the listing of a species as threatened or endangered, or a designation of critical habitat pursuant to Public Law 93–205 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), if a land management plan has been adopted by the Secretary as of the date of listing or designation; and
+
+    (ii) any provision of a land management plan adopted as described in clause (i).
+
+  (B) *Exception* — Subparagraph (A) shall not apply if—
+
+    (i) 15 years have passed since the date on which the Secretary adopted the land management plan described in clause (i) of that subparagraph; and
+
+    (ii) 5 years have passed since the date of enactment of this section 11 See References in Text note below. or the date of the listing of a species as threatened or endangered for a species known to occur on the unit or the designation of critical habitat within the unit as described in clause (i) of that subparagraph, whichever is later.
+
+  (C) *Effect of paragraph* — Nothing in this paragraph affects any applicable requirement of the Secretary to consult with the head of any other Federal department or agency—
+
+    (i) regarding any project carried out, or proposed to be carried out, to implement a land management plan pursuant to Public Law 93–205 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), including any requirement to consult regarding the consideration of cumulative impacts of completed, ongoing, and planned projects; or
+
+    (ii) with respect to—
+
+      (I) the development of a modification to a land management plan; or
+
+      (II) an amendment or revision to a land management plan in accordance with paragraph (4) or (5) of subsection (f).
 
 **(e) Required assurances** In developing, maintaining, and revising plans for units of the National Forest System pursuant to this section, the Secretary shall assure that such plans—
 
@@ -236,7 +271,7 @@ As a part of the Assessment, the Secretary of Agriculture shall develop and main
 
 **(h) Scientific committee to aid in promulgation of regulations; termination; revision committees; clerical and technical assistance; compensation of committee members**
 
-(1) In carrying out the purposes of subsection (g) of this section, the Secretary of Agriculture shall appoint a committee of scientists who are not officers or employees of the Forest Service. The committee shall provide scientific and technical advice and counsel on proposed guidelines and procedures to assure that an effective interdisciplinary approach is proposed and adopted. The committee shall terminate upon promulgation of the regulations, but the Secretary may, from time to time, appoint similar committees when considering revisions of the regulations. The views of the committees shall be included in the public information supplied when the regulations are proposed for adoption.
+(1) In carrying out the purposes of subsection (g) of this section, the Secretary shall appoint a committee of scientists who are not officers or employees of the Forest Service. The committee shall provide scientific and technical advice and counsel on proposed guidelines and procedures to assure that an effective interdisciplinary approach is proposed and adopted. The committee shall terminate upon promulgation of the regulations, but the Secretary may, from time to time, appoint similar committees when considering revisions of the regulations. The views of the committees shall be included in the public information supplied when the regulations are proposed for adoption.
 
 (2) Clerical and technical assistance, as may be necessary to discharge the duties of the committee, shall be provided from the personnel of the Department of Agriculture.
 
@@ -250,9 +285,9 @@ As a part of the Assessment, the Secretary of Agriculture shall develop and main
 
 **(l) Program evaluation; process for estimating long-term costs and benefits; summary of data included in annual report** The Secretary shall—
 
-(1) formulate and implement, as soon as practicable, a process for estimating long-terms 11 So in original. Probably should be “long-term”. costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expenditures associated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
+(1) formulate and implement, as soon as practicable, a process for estimating long-terms 22 So in original. Probably should be “long-term”. costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expenditures associated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
 
-(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1606/c&num=0&edition=prelim), including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and 22 So in original. The “; and” probably should be a period.
+(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1606/c&num=0&edition=prelim), including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and 33 So in original. The “; and” probably should be a period.
 
 **(m) Establishment of standards to ensure culmination of mean annual increment of growth; silvicultural practices; salvage harvesting; exceptions** The Secretary shall establish—
 
@@ -263,12 +298,22 @@ As a part of the Assessment, the Secretary of Agriculture shall develop and main
 ### Statutory Notes
 
 #### References in Text
+Public Law 93–205, referred to subsec. (d)(2)(A)(i), (C)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
+The date of enactment of this section, referred to in subsec. (d)(2)(B)(ii), probably means the date of enactment of Pub. L. 115–141, which added subsec. (d)(2) and was approved Mar. 23, 2018.
+
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
-1976—Subsec. (a). Pub. L. 94–588, § 12(a), substituted “section 4” for “section 3” in the original, which, because of the translation as “[section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602)” required no change in text.
+2018—Subsec. (a). Pub. L. 115–141, § 208(b)(2), substituted “Secretary” for “Secretary of Agriculture”.
+
+Subsec. (d). Pub. L. 115–141, § 208(a), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+
+Subsec. (h)(1). Pub. L. 115–141, § 208(b)(2), substituted “Secretary shall appoint” for “Secretary of Agriculture shall appoint”.
+
+1976—Subsec. (a). Pub. L. 94–588, § 12(a), made technical amendment to reference in original Act which appears in text as reference to [section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602).
 
 Subsecs. (c) to (m). Pub. L. 94–588, § 6, added subsecs. (c) to (m).
 
@@ -276,9 +321,11 @@ Subsecs. (c) to (m). Pub. L. 94–588, § 6, added subsecs. (c) to (m).
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 #### Revision of Forest Plans
-Pub. L. 115–31, div. G, title IV, § 407, May 5, 2017, 131 Stat. 495, provided that: “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/f/5/A&num=0&edition=prelim)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+Pub. L. 115–141, div. G, title IV, § 407, Mar. 23, 2018, 132 Stat. 688, provided that: “The Secretary of Agriculture shall not be considered to be in violation of section 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/f/5/A&num=0&edition=prelim)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. G, title IV, § 407, May 5, 2017, 131 Stat. 495.
 
 Pub. L. 114–113, div. G, title IV, § 407, Dec. 18, 2015, 129 Stat. 2575.
 
@@ -317,9 +364,14 @@ Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 178
 
 
 <a id="section-1605"></a>
-## § 1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary of Agriculture to assist States, etc.
+## § 1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary to assist States, etc.
 
-The Secretary of Agriculture may utilize the Assessment, resource surveys, and Program prepared pursuant to this subchapter to assist States and other organizations in proposing the planning for the protection, use, and management of renewable resources on non-Federal land.
+The Secretary may utilize the Assessment, resource surveys, and Program prepared pursuant to this subchapter to assist States and other organizations in proposing the planning for the protection, use, and management of renewable resources on non-Federal land.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture”.
 
 
 <a id="section-1606"></a>
@@ -328,7 +380,7 @@ The Secretary of Agriculture may utilize the Assessment, resource surveys, and P
 
 **(b) Contents of requests to show extent of compliance of projected programs and policies with policies approved by Congress; requests not conforming to approved policies; expenditure of appropriations** Commencing with the fiscal budget for the year ending September 30, 1977, requests presented by the President to the Congress governing Forest Service activities shall express in qualitative and quantitative terms the extent to which the programs and policies projected under the budget meet the policies approved by the Congress in accordance with subsection (a) of this section. In any case in which such budget so presented recommends a course which fails to meet the policies so established, the President shall specifically set forth the reason or reasons for requesting the Congress to approve the lesser programs or policies presented. Amounts appropriated to carry out the policies approved in accordance with subsection (a) of this section shall be expended in accordance with the Congressional Budget and Impoundment Control Act of 1974.
 
-**(c) Annual evaluation report to Congress of Program components; time of submission; status of major research programs; application of findings; status, etc., of cooperative forestry assistance programs and activities** For the purpose of providing information that will aid Congress in its oversight responsibilities and improve the accountability of agency expenditures and activities, the Secretary of Agriculture shall prepare an annual report which evaluates the component elements of the Program required to be prepared by [section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602) which shall be furnished to the Congress at the time of submission of the annual fiscal budget commencing with the third fiscal year after August 17, 1974. With regard to the research component of the program, the report shall include, but not be limited to, a description of the status of major research programs, significant findings, and how these findings will be applied in National Forest System management and in cooperative State and private Forest Service programs. With regard to the cooperative forestry assistance part of the Program, the report shall include, but not be limited to, a description of the status, accomplishments, needs, and work backlogs for the programs and activities conducted under the Cooperative Forestry Assistance Act of 1978 [[16 U.S.C. 2101](./chapter-041-cooperative-forestry-assistance.md#section-2101) et seq.].
+**(c) Annual evaluation report to Congress of Program components; time of submission; status of major research programs; application of findings; status, etc., of cooperative forestry assistance programs and activities** For the purpose of providing information that will aid Congress in its oversight responsibilities and improve the accountability of agency expenditures and activities, the Secretary shall prepare an annual report which evaluates the component elements of the Program required to be prepared by [section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602) which shall be furnished to the Congress at the time of submission of the annual fiscal budget commencing with the third fiscal year after August 17, 1974. With regard to the research component of the program, the report shall include, but not be limited to, a description of the status of major research programs, significant findings, and how these findings will be applied in National Forest System management and in cooperative State and private Forest Service programs. With regard to the cooperative forestry assistance part of the Program, the report shall include, but not be limited to, a description of the status, accomplishments, needs, and work backlogs for the programs and activities conducted under the Cooperative Forestry Assistance Act of 1978 [[16 U.S.C. 2101](./chapter-041-cooperative-forestry-assistance.md#section-2101) et seq.].
 
 **(d) Required contents of annual evaluation report** These annual evaluation reports shall set forth progress in implementing the Program required to be prepared by [section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602), together with accomplishments of the Program as they relate to the objectives of the Assessment. Objectives should be set forth in qualitative and quantitative terms and accomplishments should be reported accordingly. The report shall contain appropriate measurements of pertinent costs and benefits. The evaluation shall assess the balance between economic factors and environmental quality factors. Program benefits shall include, but not be limited to, environmental quality factors such as esthetics, public access, wildlife habitat, recreational and wilderness use, and economic factors such as the excess of cost savings over the value of foregone benefits and the rate of return on renewable resources.
 
@@ -344,13 +396,15 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture”.
+
 1978—Subsec. (c). Pub. L. 95–313 inserted provisions relating to inclusion in report of findings involving cooperative State and private Forest Service programs, and provisions relating to scope of report descriptions involving programs and activities under the Cooperative Forestry Assistance Act of 1978.
 
-1976—Subsec. (a). Pub. L. 94–588, §§ 7(a), 12(b)(1), substituted “section 3” and “section 4” for “section 2” and “section 3”, respectively, in the original, which, because of their translation as “[section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601)” and “[section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602)” required no change in text, and substituted “ninety calendar days of continuous session” for “sixty days of continuous session” and “ninety-day period” for “sixty-day period”.
+1976—Subsec. (a). Pub. L. 94–588, §§ 7(a), 12(b)(1), made technical amendment to references in original act which appear in text as references to sections 1601 and 1602 of this title and substituted “ninety calendar days of continuous session” for “sixty days of continuous session” and “ninety-day period” for “sixty-day period”.
 
 Subsec. (c). Pub. L. 94–588, §§ 7(b), 12(b)(2), substituted “section 4” for “section 3” in the original which, because of its translation as “[section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602)” required no change in text and inserted provision requiring that the report include a description of the status of major research programs, significant findings, and how such findings will be applied in National Forest System management.
 
-Subsec. (d). Pub. L. 94–588, § 12(b)(3), substituted “section 4” for “section 3” in the original which, because of the translation as “[section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602)”, required no change in text.
+Subsec. (d). Pub. L. 94–588, § 12(b)(3), made technical amendment to reference in original act which appears in text as reference to [section 1602 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1602).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–313 effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101).
@@ -428,14 +482,17 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this
 
 
 <a id="section-1607"></a>
-## § 1607. National Forest System renewable resources; development and administration by Secretary of Agriculture in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests
+## § 1607. National Forest System renewable resources; development and administration by Secretary in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests
 
-The Secretary of Agriculture shall take such action as will assure that the development and administration of the renewable resources of the National Forest System are in full accord with the concepts for multiple use and sustained yield of products and services as set forth in the Multiple-Use Sustained-Yield Act of 1960 [[16 U.S.C. 528–531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528–531&num=0&edition=prelim)]. To further these concepts, the Congress hereby sets the year 2000 as the target year when the renewable resources of the National Forest System shall be in an operating posture whereby all backlogs of needed treatment for their restoration shall be reduced to a current basis and the major portion of planned intensive multiple-use sustained-yield management procedures shall be installed and operating on an environmentally-sound basis. The annual budget shall contain requests for funds for an orderly program to eliminate such backlogs: Provided, That when the Secretary finds that (1) the backlog of areas that will benefit by such treatment has been eliminated, (2) the cost of treating the remainder of such area exceeds the economic and environmental benefits to be secured from their treatment, or (3) the total supplies of the renewable resources of the United States are adequate to meet the future needs of the American people, the budget request for these elements of restoration may be adjusted accordingly.
+The Secretary shall take such action as will assure that the development and administration of the renewable resources of the National Forest System are in full accord with the concepts for multiple use and sustained yield of products and services as set forth in the Multiple-Use Sustained-Yield Act of 1960 [[16 U.S.C. 528–531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528–531&num=0&edition=prelim)]. To further these concepts, the Congress hereby sets the year 2000 as the target year when the renewable resources of the National Forest System shall be in an operating posture whereby all backlogs of needed treatment for their restoration shall be reduced to a current basis and the major portion of planned intensive multiple-use sustained-yield management procedures shall be installed and operating on an environmentally-sound basis. The annual budget shall contain requests for funds for an orderly program to eliminate such backlogs: Provided, That when the Secretary finds that (1) the backlog of areas that will benefit by such treatment has been eliminated, (2) the cost of treating the remainder of such area exceeds the economic and environmental benefits to be secured from their treatment, or (3) the total supplies of the renewable resources of the United States are adequate to meet the future needs of the American people, the budget request for these elements of restoration may be adjusted accordingly.
 
 ### Statutory Notes
 
 #### References in Text
 The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
+
+#### Amendments
+2018—Pub. L. 115–141 substituted “Secretary shall take” for “Secretary of Agriculture shall take”.
 
 #### Transfer of Functions
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
@@ -483,17 +540,19 @@ The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), is act July 22, 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 #### Land Conveyances Involving Joliet Army Ammunition Plant, Illinois
-Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended by Pub. L. 106–65, div. B, title XXVIII, § 2842, Oct. 5, 1999, 113 Stat. 863; Pub. L. 113–291, div. B, title XXVIII, § 2838, Dec. 19, 2014, 128 Stat. 3710, provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
+Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended by Pub. L. 106–65, div. B, title XXVIII, § 2842, Oct. 5, 1999, 113 Stat. 863; Pub. L. 113–291, div. B, title XXVIII, § 2838, Dec. 19, 2014, 128 Stat. 3710; Pub. L. 115–232, div. B, title XXVIII, § 2848, Aug. 13, 2018, 132 Stat. 2279, provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
 
 
 <a id="section-1610"></a>
-## § 1610. Implementation of provisions by Secretary of Agriculture; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; “renewable resources” defined
+## § 1610. Implementation of provisions by Secretary; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; “renewable resources” defined
 
-In carrying out this subchapter, the Secretary of Agriculture shall utilize information and data available from other Federal, State, and private organizations and shall avoid duplication and overlap of resource assessment and program planning efforts of other Federal agencies. The term “renewable resources” shall be construed to involve those matters within the scope of responsibilities and authorities of the Forest Service on August 17, 1974 and on the date of enactment of any legislation amendatory or supplementary thereto.
+In carrying out this subchapter, the Secretary shall utilize information and data available from other Federal, State, and private organizations and shall avoid duplication and overlap of resource assessment and program planning efforts of other Federal agencies. The term “renewable resources” shall be construed to involve those matters within the scope of responsibilities and authorities of the Forest Service on August 17, 1974 and on the date of enactment of any legislation amendatory or supplementary thereto.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture”.
+
 1976—Pub. L. 94–588, § 10, inserted “and on the date of enactment of any legislation amendatory or supplementary thereto”.
 
 #### Transfer of Functions
@@ -502,11 +561,14 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 <a id="section-1611"></a>
 ## § 1611. Timber
-**(a) Limitations on removal; variations in allowable sale quantity; public participation** The Secretary of Agriculture shall limit the sale of timber from each national forest to a quantity equal to or less than a quantity which can be removed from such forest annually in perpetuity on a sustained-yield basis: Provided, That, in order to meet overall multiple-use objectives, the Secretary may establish an allowable sale quantity for any decade which departs from the projected long-term average sale quantity that would otherwise be established: Provided further, That any such planned departure must be consistent with the multiple-use management objectives of the land management plan. Plans for variations in the allowable sale quantity must be made with public participation as required by [section 1604(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/d&num=0&edition=prelim). In addition, within any decade, the Secretary may sell a quantity in excess of the annual allowable sale quantity established pursuant to this section in the case of any national forest so long as the average sale quantities of timber from such national forest over the decade covered by the plan do not exceed such quantity limitation. In those cases where a forest has less than two hundred thousand acres of commercial forest land, the Secretary may use two or more forests for purposes of determining the sustained yield.
+**(a) Limitations on removal; variations in allowable sale quantity; public participation** The Secretary shall limit the sale of timber from each national forest to a quantity equal to or less than a quantity which can be removed from such forest annually in perpetuity on a sustained-yield basis: Provided, That, in order to meet overall multiple-use objectives, the Secretary may establish an allowable sale quantity for any decade which departs from the projected long-term average sale quantity that would otherwise be established: Provided further, That any such planned departure must be consistent with the multiple-use management objectives of the land management plan. Plans for variations in the allowable sale quantity must be made with public participation as required by [section 1604(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/d&num=0&edition=prelim). In addition, within any decade, the Secretary may sell a quantity in excess of the annual allowable sale quantity established pursuant to this section in the case of any national forest so long as the average sale quantities of timber from such national forest over the decade covered by the plan do not exceed such quantity limitation. In those cases where a forest has less than two hundred thousand acres of commercial forest land, the Secretary may use two or more forests for purposes of determining the sustained yield.
 
 **(b) Salvage harvesting** Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or other catastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timber that would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–141 substituted “Secretary shall limit” for “Secretary of Agriculture shall limit”.
 
 #### Transfer of Functions
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
@@ -539,9 +601,12 @@ Pub. L. 102–381, title III, § 322, Oct. 5, 1992, 106 Stat. 1419, which provid
 <a id="section-1613"></a>
 ## § 1613. Promulgation of regulations
 
-The Secretary of Agriculture shall prescribe such regulations as he determines necessary and desirable to carry out the provisions of this subchapter.
+The Secretary shall prescribe such regulations as he determines necessary and desirable to carry out the provisions of this subchapter.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture”.
 
 #### Transfer of Functions
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
@@ -592,7 +657,7 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 1990—Subsecs. (a), (c). Pub. L. 101–513 designated existing provisions of subsec. (a) as par. (1), added par. (2), and added subsec. (c).
 
 #### Effective Date
-Pub. L. 95–307, § 9, June 30, 1978, 92 Stat. 357, which provided that Pub. L. 95–307 (enacting this subchapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600)) is effective Oct. 1, 1978, was amended generally by Pub. L. 101–624 and is classified to [section 1648 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1648).
+Pub. L. 95–307, § 9, June 30, 1978, 92 Stat. 357, which provided that Pub. L. 95–307 (enacting this subchapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600)) is effective Oct. 1, 1978, was amended generally by Pub. L. 101–624 and was classified to [section 1648 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1648).
 
 #### Short Title
 For short title of Pub. L. 95–307, June 30, 1978, 92 Stat. 353, as the Forest and Rangeland Renewable Resources Research Act of 1978, see Short Title of 1978 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600).
@@ -771,14 +836,17 @@ Subsec. (a)(4). Pub. L. 96–294, § 254(2), inserted applicability to producing
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [title VII, § 753(f)] of Pub. L. 105–277, set out as a note under [section 343 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section343&num=0&edition=prelim), Agriculture.
 
+#### Remote Sensing Technologies
+Pub. L. 115–334, title VIII, § 8632, Dec. 20, 2018, 132 Stat. 4871, provided that: “The Chief of the Forest Service shall— “(1) continue to find efficiencies in the operations of the forest inventory and analysis program under section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 ([16 U.S.C. 1642(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1642/e&num=0&edition=prelim)) through the improved use and integration of advanced remote sensing technologies to provide estimates for State- and national-level inventories, where appropriate; and “(2) partner with States and other interested stakeholders to carry out the program described in paragraph (1).”
+
 #### Revision of Strategic Plan for Forest Inventory and Analysis
-Pub. L. 113–79, title VIII, § 8301, Feb. 7, 2014, 128 Stat. 922, provided that: “(a) Revision Required.—Not later than 180 days after the date of enactment of this Act [Feb. 7, 2014], the Secretary [of Agriculture] shall revise the strategic plan for forest inventory and analysis initially prepared pursuant to section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 ([16 U.S.C. 1642(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1642/e&num=0&edition=prelim)) to address the requirements imposed by subsection (b). “(b) Elements of Revised Strategic Plan.—In revising the strategic plan, the Secretary shall describe in detail the organization, procedures, and funding needed to achieve each of the following:“(1) Complete the transition to a fully annualized forest inventory program and include inventory and analysis of interior Alaska. “(2) Implement an annualized inventory of trees in urban settings, including the status and trends of trees and forests, and assessments of their ecosystem services, values, health, and risk to pests and diseases. “(3) Report information on renewable biomass supplies and carbon stocks at the local, State, regional, and national level, including by ownership type. “(4) Engage State foresters and other users of information from the forest inventory and analysis in reevaluating the list of core data variables collected on forest inventory and analysis plots with an emphasis on demonstrated need. “(5) Improve the timeliness of the timber product output program and accessibility of the annualized information on that database. “(6) Foster greater cooperation among the forest inventory and analysis program, research station leaders, and State foresters and other users of information from the forest inventory and analysis. “(7) Promote availability of and access to non-Federal resources to improve information analysis and information management. “(8) Collaborate with the Natural Resources Conservation Service, National Aeronautics and Space Administration, National Oceanic and Atmospheric Administration, and United States Geological Survey to integrate remote sensing, spatial analysis techniques, and other new technologies in the forest inventory and analysis program. “(9) Understand and report on changes in land cover and use. “(10) Expand existing programs to promote sustainable forest stewardship through increased understanding, in partnership with other Federal agencies, of the over 10,000,000 family forest owners, their demographics, and the barriers to forest stewardship. “(11) Implement procedures to improve the statistical precision of estimates at the sub-State level. “(c) Submission of Revised Strategic Plan.—The Secretary shall submit the revised strategic plan to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
+Pub. L. 113–79, title VIII, § 8301, Feb. 7, 2014, 128 Stat. 922, which required Secretary of Agriculture to revise strategic plan for forest inventory and analysis to describe organization, procedures, and funding needed to achieve certain requirements, was repealed by Pub. L. 115–334, title VIII, § 8501, Dec. 20, 2018, 132 Stat. 4847.
 
 #### Southern Forest Regeneration Program
 Pub. L. 101–624, title XII, § 1242, Nov. 28, 1990, 104 Stat. 3545, provided that: “(a) Establishment.—The Secretary of Agriculture shall make a grant to a State for the establishment, within such State, of a center, to be known as the ‘Southern Forest Regeneration Center’ (hereafter referred to in this section as the ‘Center’), to study forest regeneration problems and forest productivity in the southern region of the United States. “(b) Duties of Center.—The Center shall study forest regeneration problems and forest productivity in the southern region of the United States, including—“(1) nursery management concerns that will lead to improved seedling quality; “(2) forest management practices that account for environmental stresses; and “(3) the development of low-cost forest regeneration methods that provide options for wood products, species diversity, wildlife habitat, and production of clean air and water. “(c) Establishment of Other Programs.—The Secretary of Agriculture may establish other programs in other regions of the United States, or a comprehensive National program, to carry out the purposes of this section as the Secretary determines appropriate. “(d) Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 
 #### Semiarid Agroforestry Research Center
-Pub. L. 101–624, title XII, § 1243, Nov. 28, 1990, 104 Stat. 3546, provided that: “(a) Semiarid Agroforestry Research, Development, and Demonstration Center.—The Secretary of Agriculture shall establish at the Forestry Sciences Laboratory of the United States Forest Service, in Lincoln, Nebraska, a Semiarid Agroforestry Research, Development, and Demonstration Center (hereafter referred to in this section as the ‘Center’) and appoint a Director to manage and coordinate the program established at the Center under subsection (b). “(b) Program.—The Secretary shall establish a program at the Center and seek the participation of Federal or State governmental entities, land-grant colleges or universities, State agricultural experiment stations, State and private foresters, the National Arbor Day Foundation, and other nonprofit foundations in such program to conduct or assist research, investigations, studies, and surveys to—“(1) develop sustainable agroforestry systems on semiarid lands that minimize topsoil loss and water contamination and stabilize or enhance crop productivity; “(2) adapt, demonstrate, document, and model the effectiveness of agroforestry systems under different farming systems and soil or climate conditions; “(3) develop dual use agroforestry systems compatible with paragraphs (1) and (2) which would provide high-value forestry products for commercial sale from semiarid land; “(4) develop and improve the drought and pest resistance characteristics of trees for conservation forestry and agroforestry applications in semiarid regions, including the introduction and breeding of trees suited for the Great Plains region of the United States; “(5) develop technology transfer programs that increase farmer and public acceptance of sustainable agroforestry systems; “(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and water conservation, environmental quality, and biological diversity on semiarid lands; “(7) develop technical and economic concepts for sustainable agroforestry on semiarid lands, including the conduct of economic analyses of the costs and benefits of agroforestry systems and the development of models to predict the economic benefits under soil or climate conditions; “(8) provide international leadership in the development and exchange of agroforestry practices on semiarid lands worldwide; “(9) support research on the effects of agroforestry systems on semiarid lands in mitigating nonpoint source water pollution; “(10) support research on the design, establishment, and maintenance of tree and shrub plantings to regulate the deposition of snow along roadways; and “(11) conduct sociological, demographic, and economic studies as needed to develop strategies for increasing the use of forestry conservation and agroforestry practices. “(c) Information Collection and Dissemination.—The Secretary shall establish at the Center a program, to be known as the National Clearinghouse on Agroforestry Conservation and Promotion to—“(1) collect, analyze, and disseminate information on agroforestry conservation technologies and practices; and “(2) promote the use of such information by landowners and those organizations associated with forestry and tree promotion. “(d) Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 annually to carry out this section.”
+Pub. L. 101–624, title XII, § 1243, Nov. 28, 1990, 104 Stat. 3546, as amended by Pub. L. 115–334, title VIII, § 8502, Dec. 20, 2018, 132 Stat. 4847, provided that: “(a) Semiarid Agroforestry Research, Development, and Demonstration Center.—The Secretary of Agriculture shall establish at the Forestry Sciences Laboratory of the United States Forest Service, in Lincoln, Nebraska, a Semiarid Agroforestry Research, Development, and Demonstration Center (hereafter referred to in this section as the ‘Center’) and appoint a Director to manage and coordinate the program established at the Center under subsection (b). “(b) Program.—The Secretary shall establish a program at the Center and seek the participation of Federal or State governmental entities, land-grant colleges or universities, State agricultural experiment stations, State and private foresters, the National Arbor Day Foundation, and other nonprofit foundations in such program to conduct or assist research, investigations, studies, and surveys to—“(1) develop sustainable agroforestry systems on semiarid lands that minimize topsoil loss and water contamination and stabilize or enhance crop productivity; “(2) adapt, demonstrate, document, and model the effectiveness of agroforestry systems under different farming systems and soil or climate conditions; “(3) develop dual use agroforestry systems compatible with paragraphs (1) and (2) which would provide high-value forestry products for commercial sale from semiarid land; “(4) develop and improve the drought and pest resistance characteristics of trees for conservation forestry and agroforestry applications in semiarid regions, including the introduction and breeding of trees suited for the Great Plains region of the United States; “(5) develop technology transfer programs that increase farmer and public acceptance of sustainable agroforestry systems; “(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and water conservation, environmental quality, and biological diversity on semiarid lands; “(7) develop technical and economic concepts for sustainable agroforestry on semiarid lands, including the conduct of economic analyses of the costs and benefits of agroforestry systems and the development of models to predict the economic benefits under soil or climate conditions; “(8) provide international leadership in the development and exchange of agroforestry practices on semiarid lands worldwide; “(9) support research on the effects of agroforestry systems on semiarid lands in mitigating nonpoint source water pollution; “(10) support research on the design, establishment, and maintenance of tree and shrub plantings to regulate the deposition of snow along roadways; and “(11) conduct sociological, demographic, and economic studies as needed to develop strategies for increasing the use of forestry conservation and agroforestry practices. “(c) Information Collection and Dissemination.—The Secretary shall establish at the Center a program, to be known as the National Clearinghouse on Agroforestry Conservation and Promotion to—“(1) collect, analyze, and disseminate information on agroforestry conservation technologies and practices; and “(2) promote the use of such information by landowners and those organizations associated with forestry and tree promotion. “(d) Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for each of fiscal years 2019 through 2023 to carry out this section.”
 
 #### Forest Ecosystems and Atmospheric Pollution Research; Congressional Findings
 Pub. L. 100–521, § 2, Oct. 24, 1988, 102 Stat. 2601, provided that: “Congress finds that— “(1) the health and productivity of forests in certain regions of the United States are declining; “(2) there is a special concern about the decline of certain hardwood species, particularly sugar maples and oaks, in the eastern United States and the effects of atmospheric pollutants on the health and productivity of these forests; “(3) declines in the productivity of certain commercially important Southern pine species have been measured; “(4) existing research indicates that atmospheric pollution, including ozone, acidic deposition, and heavy metals, may contribute to this decline; “(5) there is an urgent need to expand and better coordinate existing Federal, State, and private research, including research by private industry, to determine the cause of changes in the health and productivity of domestic forest ecosystems and to monitor and evaluate the effects of atmospheric pollutants on such ecosystems; and “(6) such research and monitoring should not impede efforts to control atmospheric pollutants.”
@@ -874,52 +942,21 @@ The Food and Agriculture Act of 1977, referred to in subsec. (c), is Pub. L. 95�
 
 
 <a id="section-1648"></a>
-## § 1648. Recycling research
-**(a) Findings** Congress finds that—
-
-(1) the United States is amassing vast amounts of solid wastes, which is presenting an increasing problem for municipalities in locating suitable disposal sites;
-
-(2) a large proportion of these wastes consists of paper and other wood wastes;
-
-(3) less than one-third of these paper and wood wastes are recycled;
-
-(4) additional recycling would result in reduced solid waste landfill disposal and would contribute to a reduced rate of removal of standing timber from forest lands; and
-
-(5) additional research is needed to develop technological advances to address barriers to increased recycling of paper and wood wastes and utilization of products consisting of recycled materials.
-
-**(b) Recycling research program** The Secretary is authorized to conduct, support, and cooperate in an expanded wood fiber recycling research program, including the acquisition of necessary equipment. The Secretary shall seek to ensure that the program includes the cooperation and support of private industry and that program goals include the application of such research to industry and consumer needs.
-
-**(c) Authorization of appropriations** In addition to any other funds made available to implement [section 1642 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1642), for the 5-year period beginning on October 1, 1990, there are authorized to be appropriated annually $10,000,000 to implement this section.
+## § 1648. Repealed. Pub. L. 115–334, title VIII, § 8201, Dec. 20, 2018, 132 Stat. 4839
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, Pub. L. 95–307, § 9, as added Pub. L. 101–624, title XII, § 1241(b), Nov. 28, 1990, 104 Stat. 3544, related to recycling research.
+
 A prior section 9 of Pub. L. 95–307, June 30, 1978, 92 Stat. 357, provided the effective date for Pub. L. 95–307 and was set out as a note under [section 1641 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1641), prior to general amendment by Pub. L. 101–624.
 
 
 <a id="section-1649"></a>
-## § 1649. Forestry Student Grant Program
-**(a) Establishment** The Secretary shall establish a program, to be known as the “Forestry Student Grant Program” (hereafter referred to in this section as the “Program”), to provide assistance to expand the professional education of forestry, natural resources, and environmental scientists.
+## § 1649. Repealed. Pub. L. 115–334, title VIII, § 8202, Dec. 20, 2018, 132 Stat. 4839
 
-**(b) Student grants** Under the Program the Secretary shall provide assistance for the establishment of a competitive grant fellowship program to assist graduate, and undergraduate minority and female, students attending institutions having programs in forestry and natural resources.
+### Statutory Notes
 
-**(c) Eligibility** The Secretary shall ensure that students concentrating in the following studies shall be eligible for assistance under subsection (b):
-
-(1) Forestry.
-
-(2) Biology and forest organisms.
-
-(3) Ecosystem function and management.
-
-(4) Human-forest interaction.
-
-(5) International trade, competition, and cooperation.
-
-(6) Wood as a raw material.
-
-(7) Economics and policy.
-
-**(d) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+Section, Pub. L. 95–307, § 10, as added Pub. L. 101–624, title XII, § 1252, Nov. 28, 1990, 104 Stat. 3553, related to the Forestry Student Grant Program.
 
 
 <a id="section-1649a"></a>
@@ -972,7 +1009,7 @@ Congress finds that—
 ### Statutory Notes
 
 #### Effective and Termination Dates
-Pub. L. 95–306, § 8, June 30, 1978, 92 Stat. 352, as amended by Pub. L. 100–231, § 2(2), Jan. 5, 1988, 101 Stat. 1565; Pub. L. 107–171, title VIII, § 8101(b)(2), May 13, 2002, 116 Stat. 475; Pub. L. 110–234, title VII, § 7413(b), May 22, 2008, 110 Stat. 1256; Pub. L. 110–246, § 4(a), title VII, § 7413(b), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 113–79, title VII, § 7405(b), Feb. 7, 2014, 128 Stat. 898, provided that: “The provisions of this Act [enacting this subchapter and provision set out as a note under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600)] shall be effective for the period beginning October 1, 1978, and ending September 30, 2018.”
+Pub. L. 95–306, § 8, June 30, 1978, 92 Stat. 352, as amended by Pub. L. 100–231, § 2(2), Jan. 5, 1988, 101 Stat. 1565; Pub. L. 107–171, title VIII, § 8101(b)(2), May 13, 2002, 116 Stat. 475; Pub. L. 110–234, title VII, § 7413(b), May 22, 2008, 110 Stat. 1256; Pub. L. 110–246, § 4(a), title VII, § 7413(b), June 18, 2008, 122 Stat. 1664, 2017; Pub. L. 113–79, title VII, § 7405(b), Feb. 7, 2014, 128 Stat. 898; Pub. L. 115–334, title VII, § 7509(b), Dec. 20, 2018, 132 Stat. 4824, provided that: “The provisions of this Act [enacting this subchapter and provision set out as a note under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600)] shall be effective for the period beginning October 1, 1978, and ending September 30, 2023.”
 
 #### Short Title
 For short title of Renewable Resources Extension Act of 1978, see Short Title of 1978 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600).
@@ -1116,7 +1153,7 @@ The Secretary shall establish a program, to be known as the “Sustainable Fores
 <a id="section-1675"></a>
 ## § 1675. Authorization of appropriations; criteria for eligibility of States for funds
 
-There is authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2002 through 2018. Generally, States shall be eligible for funds appropriated under this subchapter according to the respective capabilities of their private forests and rangelands for yielding renewable resources and relative needs for such resources identified in the periodic Renewable Resource Assessment provided for in [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601) and the periodic appraisal of land and water resources provided for in [section 2004 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2004).
+There is authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2002 through 2023. Generally, States shall be eligible for funds appropriated under this subchapter according to the respective capabilities of their private forests and rangelands for yielding renewable resources and relative needs for such resources identified in the periodic Renewable Resource Assessment provided for in [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601) and the periodic appraisal of land and water resources provided for in [section 2004 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2004).
 
 ### Statutory Notes
 
@@ -1124,6 +1161,8 @@ There is authorized to be appropriated to carry out this subchapter $30,000,000 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Pub. L. 110–246, § 7413(a), substituted “2012” for “2007” in first sentence.
@@ -1169,6 +1208,11 @@ For short title of Pub. L. 96–554, Dec. 19, 1980, 94 Stat. 3257, as the Wood R
 
 **(b) Scope; residue removal credits** Pilot projects and demonstrations carried out under this section may include, but are not limited to (1) establishment and operation of utilization demonstration areas; (2) establishment and operation of fuel wood concentration and distribution centers; and (3) construction of access roads needed to facilitate wood residue utilization: Provided, That residue removal credits may be utilized by the Secretary only as provided in [section 1683 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1683).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under [section 1681 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1681).
+
 
 <a id="section-1683"></a>
 ## § 1683. Pilot projects; requirements; residue removal credits as compensation; implementation guidelines
@@ -1187,17 +1231,32 @@ The Secretary may carry out pilot wood residue utilization projects under which 
 
 (6) For the purposes of [section 500 of this title](./chapter-002-national-forests.md#section-500), (A) any residue removal credit applied under this section shall be considered as “money received” or “moneys received”, respectively, and (B) the “money received” or “moneys received”, respectively, from the sales of wood residues removed to points of prospective use shall be the proceeds of the sales less the sum of any residue removal credit applied with respect to such residues plus any costs incurred by the Forest Service in processing and storing such residues.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under [section 1681 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1681).
+
 
 <a id="section-1684"></a>
 ## § 1684. Annual reports
 
 The Secretary shall make annual reports to the Congress on the programs authorized by this subchapter. These reports shall be submitted with the reports required under [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1606/c&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under [section 1681 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1681).
+
 
 <a id="section-1685"></a>
 ## § 1685. Regulations
 
 The Secretary shall issue such regulations as the Secretary deems necessary to implement the provisions of this subchapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under [section 1681 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1681).
 
 
 <a id="section-1686"></a>
@@ -1217,8 +1276,18 @@ For purposes of this subchapter, the term:
 
 (6) “Wood residues” includes, but is not limited to, logging slash, down timber material, woody plants, and standing live or dead trees which do not meet utilization standards because of size, species, merchantable volume, or economic selection criteria and which, in the case of live trees, are surplus to growing stock needs.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under [section 1681 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1681).
+
 
 <a id="section-1687"></a>
 ## § 1687. Authorization of appropriations
 
 There is hereby authorized to be appropriated not to exceed $25,000,000 for each of the fiscal years 1982, 1983, 1984, 1985, and 1986 to carry out the pilot projects and demonstrations authorized by [section 1682 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1682), the residue removal credits authorized by [section 1683 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1683), and the other provisions of this subchapter: Provided, That not to exceed $2,500,000 of such amount may be appropriated for administrative expenses to carry out this subchapter for the period beginning October 1, 1981, and ending September 30, 1986. Such sums shall be in addition to those provided under other provisions of law and shall remain available until expended.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1981, see section 9 of Pub. L. 96–554, set out as a note under [section 1681 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1681).

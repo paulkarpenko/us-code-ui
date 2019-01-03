@@ -130,6 +130,10 @@ Section was enacted as part of the Departments of Labor, Health and Human Servic
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–245, div. B, title I, Sept. 28, 2018, 132 Stat. 3058.
+
+Pub. L. 115–141, div. H, title I, Mar. 23, 2018, 132 Stat. 706.
+
 Pub. L. 115–31, div. H, title I, May 5, 2017, 131 Stat. 512.
 
 Pub. L. 114–113, div. H, title I, Dec. 18, 2015, 129 Stat. 2593.
@@ -411,7 +415,7 @@ Subsec. (k). Pub. L. 95–164 redesignated subsec. (k) as (e).
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 #### Effective Date
-Subchapter operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 #### Sealing of Abandoned Areas
 Pub. L. 109–236, § 10, June 15, 2006, 120 Stat. 501, provided that:“Not later than 18 months after the issuance by the Mine Safety and Health Administration of a final report on the Sago Mine accident or the date of enactment of the Mine Improvement and New Emergency Response Act of 2006 [June 15, 2006], whichever occurs earlier, the Secretary of Labor shall finalize mandatory heath and safety standards relating to the sealing of abandoned areas in underground coal mines. Such health and safety standards shall provide for an increase in the 20 psi standard currently set forth in section 75.335(a)(2) of title 30, Code of Federal Regulations.”
@@ -481,6 +485,9 @@ Subsec. (d). Pub. L. 95–164 reenacted subsec. (d) without change.
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 #### Transfer of Functions
 Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2, of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, both set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -548,6 +555,9 @@ Subsecs. (j), (k). Pub. L. 95–164 redesignated former subsecs. (e) and (f) as 
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-818"></a>
@@ -619,6 +629,9 @@ Subsec. (i). Pub. L. 95–164 redesignated subsec. (i) as (f).
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-819"></a>
 ## § 819. Procedure for enforcement
@@ -667,6 +680,9 @@ Subsec. (d). Pub. L. 95–164 added subsec. (d). Former subsec. (d) redesignated
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-820"></a>
@@ -723,6 +739,9 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-821"></a>
 ## § 821. Procedures to counteract dangerous conditions
@@ -754,6 +773,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-822"></a>
@@ -796,6 +818,9 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b), is 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-823"></a>
 ## § 823. Posting of orders and decisions
@@ -817,6 +842,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-823a"></a>
@@ -890,6 +918,9 @@ Subsec. (b). Pub. L. 101–508, § 3102(2), substituted “$5,000” for “1,00
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 #### Regulations
 Pub. L. 109–236, § 8(b), June 15, 2006, 120 Stat. 501, provided that: “Not later than December 30, 2006, the Secretary of Labor shall promulgate final regulations with respect to penalties.”
 
@@ -906,6 +937,9 @@ If a coal or other mine or area of such mine is closed by an order issued under 
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-825"></a>
@@ -1137,7 +1171,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 ### Statutory Notes
 
 #### Effective Date
-Subchapter operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-846"></a>
@@ -1192,6 +1226,9 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, me
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-861"></a>
 ## § 861. Medical examinations
@@ -1219,6 +1256,9 @@ For operative date of this subchapter, referred to in subsec. (b)(1), see sectio
 #### Change of Name
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Effective Date
+Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-862"></a>
 ## § 862. Rock dust and gas hazards; controls
@@ -1230,6 +1270,9 @@ The dust resulting from drilling in rock shall be controlled by the use of permi
 #### Change of Name
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Effective Date
+Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-863"></a>
 ## § 863. Dust standards in presence of quartz
@@ -1240,6 +1283,9 @@ In coal mining operations where the concentration of respirable dust in the mine
 
 #### Change of Name
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
+#### Effective Date
+Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-864"></a>
@@ -1257,6 +1303,9 @@ In text, “chapter 65 of title 41” substituted for “the Walsh-Healey Public
 
 #### Change of Name
 “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
+#### Effective Date
+Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-865"></a>
@@ -1276,7 +1325,7 @@ Subsecs. (c), (d). Pub. L. 95–164, § 203(b), struck out subsec. (c) which rel
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 #### Effective Date
-Subchapter operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-866"></a>
@@ -1297,6 +1346,9 @@ Subchapter operative 90 days after Dec. 30, 1969, except to the extent an earlie
 
 #### References in Text
 For the operative date of this subchapter, referred to in subsec. (a), see section 509 of Pub. L. 91–173, set out as an Effective Date note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-867"></a>
@@ -1388,6 +1440,9 @@ For the operative date of this subchapter, referred to in subsec. (a), see secti
 #### References in Text
 For the operative date of this subchapter, referred to in subsecs. (b), (l), (o), (q), (r), (t), (y), and (z)(2), (3), see section 509 of Pub. L. 91–173, set out as an Effective Date note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 #### Belt Haulage Entries for Ventilation
 Pub. L. 110–161, div. G, title I, § 112(a), Dec. 26, 2007, 121 Stat. 2168, provided that: “Not later than June 20, 2008, the Secretary of Labor shall propose regulations pursuant to section 303(y) of the Federal Mine Safety and Health Act of 1977 [[30 U.S.C. 863(y)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section863/y&num=0&edition=prelim)], consistent with the recommendations of the Technical Study Panel established pursuant to section 11 of the Mine Improvement and New Emergency Response (MINER) Act (Public Law 109–236) [enacting [section 963 of this title](./chapter-022-mine-safety-and-health.md#section-963)], to require that in any coal mine, regardless of the date on which it was opened, belt haulage entries not be used to ventilate active working places without prior approval from the Assistant Secretary. Further, a mine ventilation plan incorporating the use of air coursed through belt haulage entries to ventilate active working places shall not be approved until the Assistant Secretary has reviewed the elements of the plan related to the use of belt air and determined that the plan at all times affords at least the same measure of protection where belt haulage entries are not used to ventilate working places. The Secretary shall finalize the regulations not later than December 31, 2008.”
 
@@ -1403,6 +1458,11 @@ Pub. L. 110–161, div. G, title I, § 112(a), Dec. 26, 2007, 121 Stat. 2168, pr
 **(d) Distribution of rock dust; places, quantities** Where rock dust is required to be applied, it shall be distributed upon the top, floor, and sides of all underground areas of a coal mine and maintained in such quantities that the incombustible content of the combined coal dust, rock dust, and other dust shall be not less than 65 per centum, but the incombustible content in the return aircourses shall be no less than 80 per centum. Where methane is present in any ventilating current, the per centum of incombustible content of such combined dusts shall be increased 1.0 and 0.4 per centum for each 0.1 per centum of methane where 65 and 80 per centum, respectively, of incombustibles are required.
 
 **(e) Limitation of applicability** Subsections (b) through (d) of this section shall not apply to underground anthracite mines.
+
+### Statutory Notes
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-869"></a>
@@ -1488,6 +1548,9 @@ Pub. L. 110–161, div. G, title I, § 112(a), Dec. 26, 2007, 121 Stat. 2168, pr
 #### References in Text
 For the operative date of this subchapter, referred to in subsecs. (a)(1), (2), (4) to (6), (10)(B), (C), (11), (12), and (c), see section 509 of Pub. L. 91–173, set out as an Effective Date note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-870"></a>
 ## § 870. Trailing cables
@@ -1511,6 +1574,11 @@ For the operative date of this subchapter, referred to in subsecs. (a)(1), (2), 
 
 **(g) Making and breaking of connections to junction boxes** Trailing cable and power cable connections to junction boxes shall not be made or broken under load.
 
+### Statutory Notes
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-871"></a>
 ## § 871. Grounding of equipment
@@ -1528,6 +1596,9 @@ For the operative date of this subchapter, referred to in subsecs. (a)(1), (2), 
 
 #### References in Text
 For the operative date of this subchapter, referred to in subsec. (d), see section 509 of Pub. L. 91–173, set out as an Effective Date note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-872"></a>
@@ -1567,6 +1638,9 @@ For the operative date of this subchapter, referred to in subsec. (d), see secti
 #### References in Text
 For the operative date of this subchapter, referred to in subsec. (d), see section 509 of Pub. L. 91–173, set out as an Effective Date note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-873"></a>
 ## § 873. Underground low- and medium-voltage alternating current circuits
@@ -1589,6 +1663,9 @@ For the operative date of this subchapter, referred to in subsec. (d), see secti
 #### References in Text
 For the operative date of this subchapter, referred to in subsecs. (c) and (d), see section 509 of Pub. L. 91–173, set out as an Effective Date note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-874"></a>
 ## § 874. Trolley wires and trolley feeder wires
@@ -1599,6 +1676,11 @@ For the operative date of this subchapter, referred to in subsecs. (c) and (d), 
 **(c) Location of wires** Trolley wires and trolley feeder wires, high-voltage cables and transformers shall not be located inby the last open crosscut and shall be kept at least 150 feet from pillar workings.
 
 **(d) Adequate insulation and guard devices; promulgation of safety guidelines** Trolley wires, trolley feeder wires, and bare signal wires shall be insulated adequately where they pass through doors and stoppings, and where they cross other power wires and cables. Trolley wires and trolley feeder wires shall be guarded adequately (1) at all points where men are required to work or pass regularly under the wires; (2) on both sides of all doors and stoppings; and (3) at man-trip stations. The Secretary or his authorized representatives shall specify other conditions where trolley wires and trolley feeder wires shall be adequately protected to prevent contact by any person, or shall require the use of improved methods to prevent such contact. Temporary guards shall be provided where trackmen and other persons work in proximity to trolley wires and trolley feeder wires.
+
+### Statutory Notes
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-875"></a>
@@ -1627,6 +1709,9 @@ For the operative date of this subchapter, referred to subsecs. (a), (e), (g), a
 #### Change of Name
 “United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under [section 1 of this title](./chapter-001-united-states-bureau-of-mines.md#section-1). For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under [section 1 of this title](./chapter-001-united-states-bureau-of-mines.md#section-1).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-876"></a>
 ## § 876. Maps
@@ -1640,6 +1725,9 @@ For the operative date of this subchapter, referred to subsecs. (a), (e), (g), a
 
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-877"></a>
@@ -1657,6 +1745,11 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 **(f) Storage of explosives and detonators in working sections of underground mines; containers; locations** When supplies of explosives and detonators for use in one or more working sections are stored underground, they shall be kept in section boxes or magazines of substantial construction with no metal exposed on the inside, located at least twenty-five feet from roadways and power wires, and in a dry, well rock-dusted location protected from falls of roof, except in pitching beds, where it is not possible to comply with the location requirement, such boxes shall be placed in niches cut into the solid coal or rock.
 
 **(g) Location of explosive and detonator containers in working places of underground mines** Explosives and detonators stored in the working places shall be kept in separate closed containers which shall be located out of the line of blast and not less than fifty feet from the working face and fifteen feet from any pipeline, powerline, rail, or conveyor, except that, if kept in niches in the rib, the distance from any pipeline, powerline, rail, or conveyor shall be at least five feet. Such explosives and detonators, when stored, shall be separated by a distance of at least five feet.
+
+### Statutory Notes
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-878"></a>
@@ -1678,6 +1771,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 #### References in Text
 For the operative date of this subchapter, referred to in subsec. (f), see section 509 of Pub. L. 91–173, set out as an Effective Date note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-901"></a>
 ## § 901. Emergency shelters; construction; contents; implementation plans
@@ -1685,6 +1781,9 @@ For the operative date of this subchapter, referred to in subsec. (f), see secti
 The Secretary or an authorized representative of the Secretary may prescribe in any coal mine that rescue chambers, properly sealed and ventilated, be erected at suitable locations in the mine to which persons may go in case of an emergency for protection against hazards. Such chambers shall be properly equipped with first aid materials, an adequate supply of air and self-contained breathing equipment, an independent communication system to the surface, and proper accommodations for the persons while awaiting rescue, and such other equipment as the Secretary may require. A plan for the erection, maintenance, and revisions of such chambers and the training of the miners in their proper use shall be submitted by the operator to the Secretary for his approval.
 
 ### Statutory Notes
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 #### Regulations
 Pub. L. 110–161, div. G, title I, § 112(b), Dec. 26, 2007, 121 Stat. 2168, provided that: “Not later than June 15, 2008, the Secretary of Labor shall propose regulations pursuant to section 315 of the Federal Coal Mine Health and Safety Act of 1969 [[30 U.S.C. 875](./chapter-022-mine-safety-and-health.md#section-875)], consistent with the recommendations of the National Institute for Occupational Safety and Health pursuant to section 13 of the MINER Act (Public Law 109–236) [120 Stat. 504], requiring rescue chambers, or facilities that afford at least the same measure of protection, in underground coal mines. The Secretary shall finalize the regulations not later than December 31, 2008.”
@@ -1766,6 +1865,9 @@ This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original “
 #### Amendments
 2006—Pub. L. 109–236 inserted “and emergency response plans” after “locations” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
 
 <a id="section-903"></a>
 ## § 903. General safety provisions
@@ -1826,6 +1928,9 @@ This chapter, referred to in subsec. (i), was in the original “this Act”, me
 
 #### Change of Name
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (m) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-904"></a>
@@ -1890,6 +1995,9 @@ For the operative date of this subchapter, referred to in par. (i), see section 
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–164 effective Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
+
+#### Effective Date
+Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 
 <a id="section-921"></a>
@@ -3182,7 +3290,7 @@ Pub. L. 95–164, title III, § 304, Nov. 9, 1977, 91 Stat. 1320, provided that:
 ## § 959. State laws
 **(a)** No State law in effect on December 30, 1969 or which may become effective thereafter shall be superseded by any provision of this chapter or order issued or any mandatory health or safety standard, except insofar as such State law is in conflict with this chapter or with any order issued or any mandatory health or safety standard.
 
-**(b)** The provisions of any State law or regulation in effect upon the operative date of this chapter, or which may become effective thereafter, which provide for more stringent health and safety standards applicable to coal or other mines than do the provisions of this chapter or any order issued or any mandatory health or safety standard shall not thereby be construed or held to be in conflict with this chapter. The provisions of any State law or regulation in effect December 30, 1969, or which may become effective thereafter, which provide for health and safety standards applicable to coal or other mines for which no provision is contained in this chapter or in any order issued or any mandatory health or safety standard, shall not be held to be in conflict with this chapter.
+**(b)** The provisions of any State law or regulation in effect upon the operative date of this chapter, or which may become effective thereafter, which provide for more stringent health and safety standards applicable to coal or other mines than do the provisions of this chapter or any order issued or any mandatory health or safety standard shall not thereby be construed or held to be in conflict with this chapter. The provisions of any State law or regulation in effect on December 30, 1969, or which may become effective thereafter, which provide for health and safety standards applicable to coal or other mines for which no provision is contained in this chapter or in any order issued or any mandatory health or safety standard, shall not be held to be in conflict with this chapter.
 
 ### Statutory Notes
 
@@ -3336,6 +3444,10 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. H, title I, Mar. 23, 2018, 132 Stat. 706.
+
+Pub. L. 115–31, div. H, title I, May 5, 2017, 131 Stat. 512.
 
 Pub. L. 114–113, div. H, title I, Dec. 18, 2015, 129 Stat. 2593.
 

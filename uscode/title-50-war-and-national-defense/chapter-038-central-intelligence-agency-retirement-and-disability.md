@@ -241,6 +241,9 @@ Ex. Ord. No. 12684, July 27, 1989, 54 F.R. 31643, conformed Central Intelligence
 #### Prior Provisions
 A prior section 111 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 94–522, title I, § 101, Oct. 17, 1976, 90 Stat. 2467, provided definitions for Pub. L. 88–643 and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2011"></a>
 ## § 2011. CIARDS system
@@ -277,6 +280,9 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2012"></a>
 ## § 2012. Central Intelligence Agency Retirement and Disability Fund
@@ -290,6 +296,9 @@ The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, re
 
 #### Prior Provisions
 A prior section 202 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043, related to establishment and maintenance of the Central Intelligence Agency Retirement and Disability Fund and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2013"></a>
@@ -320,6 +329,9 @@ A prior section 203 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1044;
 
 Subsec. (b)(1). Pub. L. 113–126, § 202(a)(2), substituted “intelligence activities” for “Agency activities”.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 #### Application of 2014 Amendment
 Pub. L. 113–126, title II, § 202(b), July 7, 2014, 128 Stat. 1394, provided that: “The amendment made by subsection (a) [amending this section] shall be applied to retired or deceased officers of the Central Intelligence Agency who were designated at any time under section 203 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2013](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013)) prior to the date of the enactment of this Act [July 7, 2014].”
 
@@ -337,6 +349,9 @@ Persons who are annuitants under the system are—
 
 #### Prior Provisions
 A prior section 204 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1044; Pub. L. 91–626, § 1, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–552, title II, § 201, Oct. 17, 1976, 90 Stat. 2468; Pub. L. 97–269, title VI, § 602, Sept. 27, 1982, 96 Stat. 1145; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–88, title III, § 302, Aug. 14, 1991, 105 Stat. 431; Pub. L. 102–183, title III, §§ 302(c), 310(a), Dec. 4, 1991, 105 Stat. 1263, 1266, related to annuitants under the system and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2021"></a>
@@ -417,6 +432,9 @@ A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 #### Temporary Adjustment of Contribution Levels
 Pub. L. 106–346, § 101(a) [title V, § 505(g)], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding [former] section 211(a)(2) of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2021(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2021/a/2&num=0&edition=prelim)), during the period beginning on October 1, 2002, through December 31, 2002, the Central Intelligence Agency shall contribute 7.5 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.”
@@ -653,6 +671,9 @@ Subsec. (j). Pub. L. 103–178, § 202(a)(4)(D), struck out “(except as provid
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2032"></a>
 ## § 2032. Annuities for former spouses
@@ -770,6 +791,9 @@ Subsec. (c)(4). Pub. L. 103–178, § 202(a)(5)(C), substituted “before the sp
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 #### Survivor Annuity, Retirement Annuity, and Health Benefits for Certain Ex-Spouses of Central Intelligence Agency Employees; Effective Date
 Pub. L. 103–178, title II, § 203, Dec. 3, 1993, 107 Stat. 2027, provided that: “(a) Survivor Annuity.—“(1) In general.—“(A) Entitlement of former wife or husband.—Any person who was divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System and who was married to such participant for not less than 10 years during such participant’s creditable service, at least five years of which were spent by the participant during the participant’s service as an employee of the Central Intelligence Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director of Central Intelligence as a participant under section 203 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2013](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013)), shall be entitled, except to the extent such person is disqualified under paragraph (2), to a survivor annuity equal to 55 percent of the greater of—“(i) the unreduced amount of the participant’s annuity, as computed under section 221(a) of such Act [[50 U.S.C. 2031(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim)]; or “(ii) the unreduced amount of what such annuity as so computed would be if the participant had not elected payment of the lump-sum credit under section 294 of such Act [[50 U.S.C. 2143](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2143)]. “(B) Reduction in survivor annuity.—A survivor annuity payable under this subsection shall be reduced by an amount equal to any survivor annuity payments made to the former wife or husband under section 226 of such Act [[50 U.S.C. 2036](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2036)]. “(2) Limitations.—A former wife or husband is not entitled to a survivor annuity under this subsection if—“(A) the former wife or husband remarries before age 55, except that the entitlement of the former wife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; “(B) the former wife or husband is less than 50 years of age; or “(C) the former wife or husband meets the definition of ‘former spouse’ that was in effect under section 204(b)(4) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees before December 4, 1991 [section 204(b)(4) of Pub. L. 88–643 prior to enactment of Pub. L. 102–496, formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403)]. “(3) Commencement and termination of annuity.—“(A) Commencement of annuity.—The entitlement of a former wife or husband to a survivor annuity under this subsection shall commence—“(i) in the case of a former wife or husband of a participant or retired participant who is deceased as of October 1, 1994, beginning on the later of— “(I) the 60th day after such date; or “(II) the date on which the former wife or husband reaches age 50; and “(ii) in the case of any other former wife or husband, beginning on the latest of— “(I) the date on which the participant or retired participant to whom the former wife or husband was married dies; “(II) the 60th day after October 1, 1994; or “(III) the date on which the former wife or husband attains age 50. “(B) Termination of annuity.—The entitlement of a former wife or husband to a survivor annuity under this subsection terminates on the last day of the month before the former wife’s or husband’s death or remarriage before attaining age 55. The entitlement of a former wife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce. “(4) Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to a survivor annuity or to the restoration of the survivor annuity unless the former wife or husband elects to receive it instead of any other survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant. “(5) Application—“(A) Time limit; waiver.—A survivor annuity under this subsection shall not be payable unless appropriate written application is provided to the Director, complete with any supporting documentation which the Director may by regulation require. Any such application shall be submitted not later than October 1, 1995. The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver. “(B) Retroactive benefits.—Upon approval of an application provided under subparagraph (A), the appropriate survivor annuity shall be payable to the former wife or husband with respect to all periods before such approval during which the former wife or husband was entitled to such annuity under this subsection, but in no event shall a survivor annuity be payable under this subsection with respect to any period before October 1, 1994. “(6) Restoration of annuity.—Notwithstanding paragraph (5)(A), the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored after October 1, 1994, under paragraph (2)(A) or (3)(B). “(7) Applicability in cases of participants transferred to fers.—“(A) Entitlement.—Except as provided in paragraph (2), this subsection shall apply to a former wife or husband of a participant under the Central Intelligence Agency Retirement and Disability System who has elected to become subject to chapter 84 of title 5, United States Code. “(B) Amount of annuity.—The survivor annuity of a person covered by subparagraph (A) shall be equal to 50 percent of the unreduced amount of the participant’s annuity computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 [Pub. L. 99–335, [5 U.S.C. 8331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim) note] and shall be reduced by an amount equal to any survivor annuity payments made to the former wife or husband under [section 8445 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8445&num=0&edition=prelim), United States Code. “(b) Retirement Annuity.—“(1) In general.—“(A) Entitlement of former wife or husband.—A person described in subsection (a)(1)(A) shall be entitled, except to the extent such former spouse is disqualified under paragraph (2), to an annuity—“(i) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or “(ii) if not married to the participant throughout such creditable service, equal to that former wife’s or husband’s pro rata share of 50 percent of such annuity (determined in accordance with section 222(a)(1)(B) of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2032](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2032) (a)(1)(B)). “(B) Reduction in retirement annuities.—“(i) Amount of reduction.—An annuity payable under this subsection shall be reduced by an amount equal to any apportionment payments payable to the former wife or husband pursuant to the terms of a court order incident to the dissolution of the marriage of such former spouse and the participant, former participant, or retired participant. “(ii) Definition of terms.—For purposes of clause (i): “(I) Apportionment.—The term ‘apportionment’ means a portion of a retired participant’s annuity payable to a former wife or husband either by the retired participant or the Government in accordance with the terms of a court order. “(II) Court order.—The term ‘court order’ means any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree. “(2) Limitations.—A former wife or husband is not entitled to an annuity under this subsection if—“(A) the former wife or husband remarries before age 55, except that the entitlement of the former wife or husband to an annuity under this subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; “(B) the former wife or husband is less than 50 years of age; or “(C) the former wife or husband meets the definition of ‘former spouse’ that was in effect under section 204(b)(4) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees before December 4, 1991 [section 204(b)(4) of Pub. L. 88–643 prior to enactment of Pub. L. 102–496, formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403)]. “(3) Commencement and termination.—“(A) Retirement annuities.—The entitlement of a former wife or husband to an annuity under this subsection—“(i) shall commence on the later of— “(I) October 1, 1994; “(II) the day the participant upon whose service the right to the annuity is based becomes entitled to an annuity under such Act [probably means Central Intelligence Agency Retirement Act, [50 U.S.C. 2001](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001) et seq.]; or “(III) such former wife’s or husband’s 50th birthday; and “(ii) shall terminate on the earlier of— “(I) the last day of the month before the former wife or husband dies or remarries before 55 years of age, except that the entitlement of the former wife or husband to an annuity under this subsection shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or “(II) the date on which the annuity of the participant terminates. “(B) Disability annuities.—Notwithstanding subparagraph (A)(i)(II), in the case of a former wife or husband of a disability annuitant—“(i) the annuity of the former wife or husband shall commence on the date on which the participant would qualify on the basis of the participant’s creditable service for an annuity under the Central Intelligence Agency Retirement Act [[50 U.S.C. 2001](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001) et seq.] (other than a disability annuity) or the date the disability annuity begins, whichever is later; and “(ii) the amount of the annuity of the former wife or husband shall be calculated on the basis of the annuity for which the participant would otherwise so qualify. “(C) Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant. “(D) Application.—“(i) Time limit; waiver.—An annuity under this subsection shall not be payable unless appropriate written application is provided to the Director of Central Intelligence, complete with any supporting documentation which the Director may by regulation require, not later than October 1, 1995. The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver. “(ii) Retroactive benefits.—Upon approval of an application under clause (i), the appropriate annuity shall be payable to the former wife or husband with respect to all periods before such approval during which the former wife or husband was entitled to an annuity under this subsection, but in no event shall an annuity be payable under this subsection with respect to any period before October 1, 1994. “(4) Restoration of annuities.—Notwithstanding paragraph (3)(D)(i), the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored after October 1, 1994, under paragraph (2)(A) or (3)(A)(ii). “(5) Applicability in cases of participants transferred to fers.—The provisions of this subsection shall apply to a former wife or husband of a participant under the Central Intelligence Agency Retirement and Disability System who has elected to become subject to chapter 84 of title 5, United States Code. For purposes of this paragraph, any reference in this section to a participant’s annuity under the Central Intelligence Agency Retirement and Disability System shall be deemed to refer to the transferred participant’s annuity computed in accordance with section 302(a) of the Federal Employee’s Retirement System Act of 1986 [Pub. L. 99–335, [5 U.S.C. 8331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim) note]. “(6) Savings provision.—Nothing in this subsection shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under title II or III of the Central Intelligence Agency Retirement Act [[50 U.S.C. 2011](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2011) et seq., 2151 et seq.]. “(c) Health Benefits.—[Amended [section 3516 of this title](./chapter-046-central-intelligence-agency.md#section-3516).] “(d) Source of Payment for Annuities.—Annuities provided under subsections (a) and (b) shall be payable from the Central Intelligence Agency Retirement and Disability Fund maintained under section 202 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2012](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2012)). “(e) Effective Date.—“(1) In general.—Except as provided in paragraph (2), subsections (a) and (b) shall take effect as of October 1, 1994, the amendments made by subsection (c) [amending [section 3516 of this title](./chapter-046-central-intelligence-agency.md#section-3516)] shall apply to individuals on and after October 1, 1994, and no benefits provided pursuant to those subsections shall be payable with respect to any period before October 1, 1994. “(2) Section 16(d) of the Central Intelligence Agency Act of 1949 (as added by subsection (c) of this section) [[50 U.S.C. 3516(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3516/d&num=0&edition=prelim)] shall apply to individuals beginning on the date of enactment of this Act [Dec. 3, 1993].”
 
@@ -804,6 +828,9 @@ Pub. L. 103–178, title II, § 203, Dec. 3, 1993, 107 Stat. 2027, provided that
 
 #### Prior Provisions
 A prior section 223 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, § 607, Sept. 27, 1982, 96 Stat. 1151; amended Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to election of survivor benefits for certain former spouses and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2034"></a>
@@ -862,6 +889,9 @@ A prior section 224 of Pub. L. 88–643, as added Pub. L. 99–569, title III, �
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2035"></a>
@@ -927,6 +957,9 @@ Subsec. (c)(4)(A). Pub. L. 103–178, § 202(a)(7)(B), substituted “June 2, 19
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2036"></a>
 ## § 2036. Survivor annuities for previous spouses
@@ -940,6 +973,9 @@ The Civil Service Retirement Spouse Equity Act of 1984, referred to in text, is 
 
 #### Prior Provisions
 A prior section 226 of Pub. L. 88–643, as added Pub. L. 100–453, title III, § 302(a), Sept. 29, 1988, 102 Stat. 1906; amended Pub. L. 102–88, title III, § 304(b), (c), Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, § 306(a), (b), Dec. 4, 1991, 105 Stat. 1265, related to survivor annuities for previous spouses and second chance to elect survivor annuity for certain spouses and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2051"></a>
@@ -1028,6 +1064,9 @@ A prior section 231 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1046;
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2052"></a>
 ## § 2052. Death in service
@@ -1070,6 +1109,9 @@ A prior section 232 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048;
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2053"></a>
 ## § 2053. Voluntary retirement
@@ -1084,6 +1126,9 @@ A prior section 233 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048,
 
 #### Amendments
 1993—Pub. L. 103–36 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2054"></a>
@@ -1106,6 +1151,9 @@ A prior section 234 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048;
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2055"></a>
@@ -1142,6 +1190,9 @@ A prior section 235 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049;
 #### Amendments
 2010—Subsec. (b)(1)(A). Pub. L. 111–259 substituted “who is at the Senior Intelligence Service rank” for “receiving compensation under the Senior Intelligence Service pay schedule at the rate”.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2056"></a>
 ## § 2056. Eligibility for annuity
@@ -1157,6 +1208,9 @@ A prior section 235 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049;
 A prior section 236 of Pub. L. 88–643, as added Pub. L. 101–193, title III, § 302(2), Nov. 30, 1989, 103 Stat. 1703, related to eligibility for annuity and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 A prior section 237 of Pub. L. 88–643, title II, formerly § 236, Oct. 13, 1964, 78 Stat. 1049; Pub. L. 91–626, § 4, Dec. 31, 1970, 84 Stat. 1873; Pub. L. 93–31, May 8, 1973, 87 Stat. 65; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, renumbered § 237, Pub. L. 101–193, title III, § 302(1), Nov. 30, 1989, 103 Stat. 1703, related to limitation on number of retirements and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2071"></a>
@@ -1238,6 +1292,9 @@ Subsecs. (f), (g). Pub. L. 103–178, § 202(a)(11)(B), added subsec. (f) and re
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2081"></a>
 ## § 2081. Computation of length of service
@@ -1261,6 +1318,9 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 #### Prior Provisions
 A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 94–522, title II, § 210, Oct. 17, 1976, 90 Stat. 2471; Pub. L. 99–169, title VII, § 702, Dec. 4, 1985, 99 Stat. 1008; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to computation of length of service and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2082"></a>
@@ -1402,6 +1462,9 @@ Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 an
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under [section 8334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2083"></a>
 ## § 2083. Credit for service while on military leave
@@ -1413,6 +1476,9 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub
 
 #### Prior Provisions
 A prior section 253 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to credit for service while on military leave and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2091"></a>
@@ -1444,6 +1510,9 @@ less an amount determined by the Director to be appropriate to reflect the value
 #### Prior Provisions
 A prior section 261 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 94–522, title I, § 102, Oct. 17, 1976, 90 Stat. 2467; Ex. Ord. No. 12443, § 12, Sept. 27, 1983, 48 F.R. 44754; Pub. L. 99–335, title V, § 501(2), (3), June 6, 1986, 100 Stat. 622, related to estimate of appropriations needed and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2092"></a>
 ## § 2092. Investment of moneys in fund
@@ -1454,6 +1523,9 @@ The Director may, with the approval of the Secretary of the Treasury, invest fro
 
 #### Prior Provisions
 A prior section 262 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052, related to investment of moneys in the fund and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2093"></a>
@@ -1508,6 +1580,9 @@ A prior section 262 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052,
 #### Prior Provisions
 A prior section 263 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 97–269, title VI, § 609, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to attachment of moneys and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2094"></a>
 ## § 2094. Attachment of moneys
@@ -1547,6 +1622,9 @@ Subsec. (b)(4). Pub. L. 103–178, § 202(a)(12)(C), struck out par. (4) which r
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2095"></a>
 ## § 2095. Recovery of payments
@@ -1560,6 +1638,9 @@ Recovery of payments under this subchapter may not be made from an individual wh
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2111"></a>
@@ -1575,6 +1656,9 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 #### Prior Provisions
 A prior section 271 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052, related to recalled participants and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 #### Waiver of Dual Compensation Provisions
 For waiver of application of the dual compensation reduction provisions of this section for temporary employees during an emergency, see Ex. Ord. No. 13236, Nov. 27, 2001, 66 F.R. 59671, set out as a note under [section 2141 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2141).
 
@@ -1589,6 +1673,9 @@ A participant retired under this subchapter shall not, by reason of that retired
 #### Prior Provisions
 A prior section 272 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to reemployed participants and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2113"></a>
 ## § 2113. Reemployment compensation
@@ -1602,6 +1689,9 @@ A prior section 272 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053;
 
 #### Prior Provisions
 A prior section 273 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to reemployment compensation and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 #### Waiver of Dual Compensation Provisions
 For waiver of application of the dual compensation reduction provisions of this section for temporary employees during an emergency, see Ex. Ord. No. 13236, Nov. 27, 2001, 66 F.R. 59671, set out as a note under [section 2141 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2141).
@@ -1641,6 +1731,9 @@ In the case of a benefit provided under paragraph (3) or (4), the participant sh
 
 #### Prior Provisions
 A prior section 281 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053; Ex. Ord. No. 12443, § 3, Sept. 27, 1983, 48 F.R. 44751; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to voluntary contributions and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2131"></a>
@@ -1699,6 +1792,9 @@ A prior section 291 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1054;
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 #### Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996
 Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under this section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under [section 8340 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8340&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1730,6 +1826,9 @@ Any cost-of-living increase scheduled to take effect during fiscal year 1994, 19
 #### Prior Provisions
 A prior section 292 of Pub. L. 88–643, as added Pub. L. 94–522, title II, § 213, Oct. 17, 1976, 90 Stat. 2471, 2472, related to authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 #### Open Enrollment Season for Participants in the Central Intelligence Agency Retirement and Disability System
 The Director to provide an open enrollment period for employee participants in the Central Intelligence Agency Retirement and Disability System to elect the Federal Employees’ Retirement System, see Ex. Ord. No. 13105, § 2, Nov. 2, 1998, 63 F.R. 60201, set out as a note under [section 4067 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4067&num=0&edition=prelim), Foreign Relations and Intercourse.
 
@@ -1759,6 +1858,9 @@ The Director of Central Intelligence to issue regulations to reflect application
 #### Prior Provisions
 A prior section 293 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 504, June 6, 1986, 100 Stat. 623, related to Thrift Savings Fund participation by participants in the Central Intelligence Agency Retirement and Disability System and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2143"></a>
 ## § 2143. Alternative forms of annuities
@@ -1781,6 +1883,9 @@ A prior section 294 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–66 effective Oct. 1, 1994, and applicable with respect to any annuity commencing on or after that date, see section 11002(d) of Pub. L. 103–66, set out as a note under [section 8343a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8343a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2144"></a>
 ## § 2144. Payments from CIARDS fund for portions of certain Civil Service Retirement System annuities
@@ -1791,6 +1896,9 @@ The amount of the increase in any annuity that results from the application of [
 
 #### Prior Provisions
 A prior section 295 of Pub. L. 88–643, as added Pub. L. 101–193, title III, § 307(b), Nov. 30, 1989, 103 Stat. 1707, related to payments from CIARDS fund for portions of certain Civil Service Retirement System annuities and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2151"></a>
@@ -1829,6 +1937,9 @@ The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 19
 #### Prior Provisions
 A prior section 301 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 624; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–453, title V, § 502, Sept. 29, 1988, 102 Stat. 1909, related to application of Federal Employees’ Retirement System to Agency employees and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2152"></a>
 ## § 2152. Special rules relating to section 2013 criteria employees
@@ -1849,6 +1960,9 @@ A prior section 301 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 #### Prior Provisions
 A prior section 302 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 625, related to special rules relating to employees designated under criteria of former section 203 of Pub. L. 88–643 and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2153"></a>
 ## § 2153. Special rules for other employees for service abroad
@@ -1867,6 +1981,9 @@ A prior section 303 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 
 #### Amendments
 2012—Subsec. (b)(1). Pub. L. 112–96 substituted “section 8415(e)” for “section 8415(d)”.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2154"></a>
@@ -2051,6 +2168,9 @@ A prior section 304 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2155"></a>
 ## § 2155. Administrative provisions
@@ -2063,6 +2183,9 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 #### Prior Provisions
 A prior section 305 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 627, related to administrative provisions and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
+
 
 <a id="section-2156"></a>
 ## § 2156. Regulations
@@ -2074,6 +2197,9 @@ A prior section 305 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 
 #### Prior Provisions
 A prior section 306 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 628, related to regulations and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
 
 
 <a id="section-2157"></a>
@@ -2089,3 +2215,6 @@ Sections 301 through 304 of the Federal Employees’ Retirement System Act of 19
 
 #### Prior Provisions
 A prior section 307 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 628, related to transition provisions and regulations and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).

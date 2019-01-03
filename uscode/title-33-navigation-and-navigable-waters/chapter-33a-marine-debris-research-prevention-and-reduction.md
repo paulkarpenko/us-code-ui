@@ -45,7 +45,7 @@ Pub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 11
 
   (B) the development of effective nonregulatory measures and incentives to cooperatively reduce the volume of lost and discarded fishing gear and to aid in gear recovery;
 
-(4) undertake outreach and education activities for the public and other stakeholders on sources of marine debris, threats associated with marine debris, and approaches to identifying, determining sources of, assessing, preventing, reducing, and removing marine debris and its adverse impacts on the United States economy, the marine environment, and navigation safety, including outreach and education activities through public-private initiatives; and
+(4) undertake outreach and education activities for the public and other stakeholders on sources of marine debris, threats associated with marine debris, and approaches to identifying, determining sources of, assessing, preventing, reducing, and removing marine debris and its adverse impacts on the United States economy, the marine environment, and navigation safety, including outreach and education activities through public-private initiatives;
 
 (5) develop, in consultation with the Interagency Committee, interagency plans for the timely response to events determined by the Administrator to be severe marine debris events, including plans to—
 
@@ -53,17 +53,35 @@ Pub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 11
 
   (B) assess the composition, volume, and trajectory of marine debris associated with a severe marine debris event; and
 
-  (C) estimate the potential impacts of a severe marine debris event, including economic impacts on human health, navigation safety, natural resources, tourism, and livestock, including aquaculture.
+  (C) estimate the potential impacts of a severe marine debris event, including economic impacts on human health, navigation safety, natural resources, tourism, and livestock, including aquaculture;
 
-**(c) Grants, cooperative agreements, and contracts**
+(6) work to develop outreach and education strategies with other Federal agencies to address sources of marine debris;
+
+(7) except for discharges of marine debris from vessels, in consultation with the Department of State and other Federal agencies, promote international action, as appropriate, to reduce the incidence of marine debris, including providing technical assistance to expand waste management systems internationally; and
+
+(8) in the case of an event determined to be a severe marine debris event under subsection (c)—
+
+  (A) assist in the cleanup and response required by the severe marine debris event; or
+
+  (B) conduct such other activity as the Administrator determines is appropriate in response to the severe marine debris event.
+
+**(c) Severe marine debris events** At the discretion of the Administrator or at the request of the Governor of an affected State, the Administrator shall determine whether there is a severe marine debris event.
+
+**(d) Grants, cooperative agreements, and contracts**
 
 (1) **In general** — The Administrator, acting through the Program, shall enter into cooperative agreements and contracts and provide financial assistance in the form of grants for projects to accomplish the purpose set forth in [section 1951 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1951).
 
 (2) **Grant cost sharing requirement**
 
-  (A) *In general* — Except as provided in subparagraph (B), Federal funds for any grant under this section may not exceed 50 percent of the total cost of such project. For purposes of this subparagraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
+  (A) *In general* — Except as provided in subparagraphs (B) and (C), Federal funds for any grant under this section may not exceed 50 percent of the total cost of such project. For purposes of this subparagraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
 
   (B) *Waiver* — The Administrator may waive all or part of the matching requirement under subparagraph (A) if the Administrator determines that no reasonable means are available through which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
+
+  (C) *Severe marine debris events* — Notwithstanding subparagraph (A), the Federal share of the cost of an activity carried out under a determination made under subsection (c) shall be—
+
+    (i) 100 percent of the cost of the activity, for an activity funded wholly by funds made available by a person, including the government of a foreign country, to the Federal Government for the purpose of responding to a severe marine debris event; or
+
+    (ii) 75 percent of the cost of the activity, for any activity other than an activity funded as described in clause (i).
 
 (3) **Amounts paid and services rendered under consent**
 
@@ -86,6 +104,14 @@ Pub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 11
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(6) to (8). Pub. L. 115–265, § 101(1), added pars. (6) to (8).
+
+Subsecs. (c), (d). Pub. L. 115–265, § 101(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (d)(2)(A). Pub. L. 115–265, § 101(4)(A), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+
+Subsec. (d)(2)(C). Pub. L. 115–265, § 101(4)(B), added subpar. (C).
+
 2012—Pub. L. 112–213, § 604(a)(1), struck out “Prevention and Removal” before “Program” in section catchline.
 
 Subsec. (a). Pub. L. 112–213, § 604(a)(2), substituted “Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the” for “Prevention and Removal Program to reduce and prevent the occurrence and” and “marine debris on the economy of the United States, the marine environment, and” for “marine debris on the marine environment and”.
@@ -135,9 +161,13 @@ The Act to Prevent Pollution from Ships, referred to in pars. (1) and (2), is Pu
 
 (3) the United States Coast Guard;
 
-(4) the United States Navy; and
+(4) the United States Navy;
 
-(5) such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
+(5) the Department of State;
+
+(6) the Department of the Interior; and
+
+(7) such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
 
 **(c) Meetings** The Committee shall meet at least twice a year to provide a public, interagency forum to ensure the coordination of national and international research, monitoring, education, and regulatory actions addressing the persistent marine debris problem.
 
@@ -177,6 +207,8 @@ Section was formerly section 2203 of Pub. L. 100–220 and was classified to [se
 A prior section 5 of Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3337, which related to interagency coordination to address problems of marine debris, was classified to this section prior to repeal by Pub. L. 112–213, title VI, § 606(a)(1), Dec. 20, 2012, 126 Stat. 1578. Subsec. (a) of such prior section 5 of Pub. L. 109–449 amended section 2203 of Pub. L. 100–220, which was renumbered as a new section 5 of Pub. L. 109–449 by Pub. L. 112–213 and was transferred to this section.
 
 #### Amendments
+2018—Subsec. (b)(5) to (7). Pub. L. 115–265 added pars. (5) and (6) and redesignated former par. (5) as (7).
+
 2012—Subsec. (d)(2). Pub. L. 112–213, § 606(a)(2), substituted “the Marine Plastic Pollution Research and Control Act of 1987” for “this Act” and inserted “of the Marine Plastic Pollution Research and Control Act of 1987” after “section 2201”.
 
 Subsec. (e). Pub. L. 112–213, § 606(b)(2), in heading, substituted “Biennial progress reports” for “Annual progress reports” and in text, substituted “Biennially” for “Not later than 3 years after December 22, 2006, and biennially thereafter” and “Chairperson” for “chairperson”, inserted “Natural” before “Resources”, and struck out “Interagency” before “Committee, through” and before “Committee and”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
@@ -274,9 +306,18 @@ The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953,
 
 <a id="section-1958"></a>
 ## § 1958. Authorization of appropriations
+**(a) In general** There is authorized to be appropriated to the Administrator $10,000,000 for each of fiscal years 2018 through 2022 for carrying out sections 1952, 1954, and 1955 of this title, of which not more than 5 percent is authorized for each fiscal year for administrative costs.
 
-There are authorized to be appropriated for each fiscal year 2006 through 2010—
+**(b) Amounts authorized for Coast Guard** Of the amounts authorized for each fiscal year under section 2702(1) 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, up to $2,000,000 is authorized for the Secretary of the department in which the Coast Guard is operating for use by the Commandant of the Coast Guard to carry out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), of which not more than 5 percent is authorized for each fiscal year for administrative costs.
 
-(1) to the Administrator for carrying out sections 1952 and 1955 of this title, $10,000,000, of which no more than 10 percent may be for administrative costs; and
+### Statutory Notes
 
-(2) to the Secretary of the Department in which the Coast Guard is operating, for the use of the Commandant of the Coast Guard in carrying out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), $2,000,000, of which no more than 10 percent may be used for administrative costs.
+#### Amendments
+2018—Pub. L. 115–265 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for each fiscal year 2006 through 2010—
+
+“(1) to the Administrator for carrying out sections 1952 and 1955 of this title, $10,000,000, of which no more than 10 percent may be for administrative costs; and
+
+“(2) to the Secretary of the Department in which the Coast Guard is operating, for the use of the Commandant of the Coast Guard in carrying out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), $2,000,000, of which no more than 10 percent may be used for administrative costs.”
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim) redesignated [section 4902 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section4902&num=0&edition=prelim) by Pub. L. 115–282, title I, § 121(b)(2), Dec. 4, 2018, 132 Stat. 4238, and references to [section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.

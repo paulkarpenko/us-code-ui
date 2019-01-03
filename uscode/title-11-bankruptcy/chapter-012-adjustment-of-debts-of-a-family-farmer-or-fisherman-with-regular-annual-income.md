@@ -2,7 +2,7 @@
 title: 11
 chapter: '12'
 heading: ADJUSTMENT OF DEBTS OF A FAMILY FARMER OR FISHERMAN WITH REGULAR ANNUAL INCOME
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11&num=0&edition=prelim
 ---
@@ -362,15 +362,13 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 (1) provide for the submission of all or such portion of future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
 
-(2) provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507, unless—
+(2) provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507, unless the holder of a particular claim agrees to a different treatment of that claim;
 
-  (A) the claim is a claim owed to a governmental unit that arises as a result of the sale, transfer, exchange, or other disposition of any farm asset used in the debtor’s farming operation, in which case the claim shall be treated as an unsecured claim that is not entitled to priority under section 507, but the debt shall be treated in such manner only if the debtor receives a discharge; or
+(3) if the plan classifies claims and interests, provide the same treatment for each claim or interest within a particular class unless the holder of a particular claim or interest agrees to less favorable treatment;
 
-  (B) the holder of a particular claim agrees to a different treatment of that claim;
+(4) notwithstanding any other provision of this section, a plan may provide for less than full payment of all amounts owed for a claim entitled to priority under section 507(a)(1)(B) only if the plan provides that all of the debtor’s projected disposable income for a 5-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan; and
 
-(3) if the plan classifies claims and interests, provide the same treatment for each claim or interest within a particular class unless the holder of a particular claim or interest agrees to less favorable treatment; and
-
-(4) notwithstanding any other provision of this section, a plan may provide for less than full payment of all amounts owed for a claim entitled to priority under section 507(a)(1)(B) only if the plan provides that all of the debtor’s projected disposable income for a 5-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
+(5) subject to section 1232, provide for the treatment of any claim by a governmental unit of a kind described in section 1232(a).
 
 **(b)** Subject to subsections (a) and (c) of this section, the plan may—
 
@@ -408,6 +406,10 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 #### Amendments
+2017—Subsec. (a)(2). Pub. L. 115–72, § 1005(b)(1)(A)(i), substituted “unless” for “unless—”, struck out subpar. (B) designation before “the holder”, and struck out subpar. (A) which read as follows: “the claim is a claim owed to a governmental unit that arises as a result of the sale, transfer, exchange, or other disposition of any farm asset used in the debtor’s farming operation, in which case the claim shall be treated as an unsecured claim that is not entitled to priority under section 507, but the debt shall be treated in such manner only if the debtor receives a discharge; or”.
+
+Subsec. (a)(5). Pub. L. 115–72, § 1005(b)(1)(A)(ii)–(iv), added par. (5).
+
 2005—Subsec. (a)(2). Pub. L. 109–8, § 1003(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide for the full payment, in deferred cash payments, of all claims entitled to priority under [section 507 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-507), unless the holder of a particular claim agrees to a different treatment of such claim;”.
 
 Subsec. (a)(4). Pub. L. 109–8, § 213(3), added par. (4).
@@ -415,6 +417,9 @@ Subsec. (a)(4). Pub. L. 109–8, § 213(3), added par. (4).
 Subsec. (b)(11), (12). Pub. L. 109–8, § 213(4), added par. (11) and redesignated former par. (11) as (12).
 
 1994—Subsec. (d). Pub. L. 103–394 added subsec. (d).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–72, div. B, § 1005(c), Oct. 26, 2017, 131 Stat. 1234, provided that: “The amendments made by this section [enacting [section 1232 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1232) and amending this section and sections 1228 and 1229 of this title] shall apply to— “(1) any bankruptcy case—“(A) that is pending on the date of enactment of this Act [Oct. 26, 2017]; “(B) in which the plan under chapter 12 of title 11, United States Code, has not been confirmed on the date of enactment of this Act; and “(C) relating to which an order of discharge under [section 1228 of title 11](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1228), United States Code, has not been entered; and “(2) any bankruptcy case that commences on or after the date of enactment of this Act.”
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–8, title X, § 1003(c), Apr. 20, 2005, 119 Stat. 186, provided that: “This section [amending this section and [section 1231 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1231)] and the amendments made by this section shall take effect on the date of the enactment of this Act [Apr. 20, 2005] and shall not apply with respect to cases commenced under title 11 of the United States Code before such date.”
@@ -582,11 +587,11 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 <a id="section-1228"></a>
 ## § 1228. Discharge
-**(a)** Subject to subsection (d), as soon as practicable after completion by the debtor of all payments under the plan, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under [section 503 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-503) or disallowed under [section 502 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-502), except any debt—
+**(a)** Subject to subsection (d), as soon as practicable after completion by the debtor of all payments under the plan, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan, allowed under [section 503 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-503), or disallowed under [section 502 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-502), except any debt—
 
 (1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
 
-(2) of the kind specified in [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section523/a&num=0&edition=prelim).
+(2) of a kind specified in [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section523/a&num=0&edition=prelim), except as provided in section 1232(c).
 
 **(b)** Subject to subsection (d), at any time after the confirmation of the plan and after notice and a hearing, the court may grant a discharge to a debtor that has not completed payments under the plan only if—
 
@@ -600,7 +605,7 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 (1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
 
-(2) of a kind specified in [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section523/a&num=0&edition=prelim).
+(2) of a kind specified in [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section523/a&num=0&edition=prelim), except as provided in section 1232(c).
 
 **(d)** On request of a party in interest before one year after a discharge under this section is granted, and after notice and a hearing, the court may revoke such discharge only if—
 
@@ -622,6 +627,12 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–72, § 1005(b)(1)(B)(i)(I), in introductory provisions, inserted a comma after “all debts provided for by the plan” and after “allowed under [section 503 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-503)”.
+
+Subsec. (a)(2). Pub. L. 115–72, § 1005(b)(1)(B)(i)(II), substituted “a kind specified in [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section523/a&num=0&edition=prelim), except as provided in section 1232(c).” for “the kind specified in [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section523/a&num=0&edition=prelim).”
+
+Subsec. (c)(2). Pub. L. 115–72, § 1005(b)(1)(B)(ii), inserted “, except as provided in section 1232(c)” before period at end.
+
 2005—Subsec. (a). Pub. L. 109–8, § 330(c)(1), substituted “Subject to subsection (d), as” for “As” in introductory provisions.
 
 Pub. L. 109–8, § 213(6), inserted “, and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid” after “completion by the debtor of all payments under the plan” in introductory provisions.
@@ -631,6 +642,9 @@ Subsec. (b). Pub. L. 109–8, § 330(c)(2), substituted “Subject to subsection
 Subsec. (f). Pub. L. 109–8, § 330(c)(3), added subsec. (f).
 
 2000—Subsecs. (a), (c)(1). Pub. L. 106–518 substituted “1222(b)(9)” for “1222(b)(10)” wherever appearing.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–72 applicable to bankruptcy cases pending on Oct. 26, 2017, in which the plan under this chapter has not been confirmed on Oct. 26, 2017, and relating to which an order of discharge under this section has not been entered, and to bankruptcy cases that commence on or after Oct. 26, 2017, see section 1005(c) of Pub. L. 115–72, set out as a note under [section 1222 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1222).
 
 #### Effective Date of 2005 Amendment
 Amendments by sections 213(6) and 330(c) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendment by section 213(6) of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(c) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -645,9 +659,11 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 
 (1) increase or reduce the amount of payments on claims of a particular class provided for by the plan;
 
-(2) extend or reduce the time for such payments; or
+(2) extend or reduce the time for such payments;
 
-(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan.
+(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan; or
+
+(4) provide for the payment of a claim described in section 1232(a) that arose after the date on which the petition was filed.
 
 **(b)**
 
@@ -671,7 +687,12 @@ Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) 
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section, see note set out preceding [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
 
 #### Amendments
+2017—Subsec. (a)(4). Pub. L. 115–72 added par. (4).
+
 2005—Subsec. (d). Pub. L. 109–8, § 1006(b), added subsec. (d).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–72 applicable to bankruptcy cases pending on Oct. 26, 2017, in which the plan under this chapter has not been confirmed on Oct. 26, 2017, and relating to which an order of discharge under [section 1228 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1228) has not been entered, and to bankruptcy cases that commence on or after Oct. 26, 2017, see section 1005(c) of Pub. L. 115–72, set out as a note under [section 1222 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1222).
 
 #### Effective Date of 2005 Amendment
 Amendment by section 1006(b) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -726,3 +747,35 @@ Amendment by section 719(b)(4) of Pub. L. 109–8 effective 180 days after Apr. 
 
 #### Effective Dates
 Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201). For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under [section 1201 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1201).
+
+
+<a id="section-1232"></a>
+## § 1232. Claim by a governmental unit based on the disposition of property used in a farming operation
+**(a)** Any unsecured claim of a governmental unit against the debtor or the estate that arises before the filing of the petition, or that arises after the filing of the petition and before the debtor’s discharge under section 1228, as a result of the sale, transfer, exchange, or other disposition of any property used in the debtor’s farming operation—
+
+(1) shall be treated as an unsecured claim arising before the date on which the petition is filed;
+
+(2) shall not be entitled to priority under section 507;
+
+(3) shall be provided for under a plan; and
+
+(4) shall be discharged in accordance with section 1228.
+
+**(b)** For purposes of applying sections 1225(a)(4), 1228(b)(2), and 1229(b)(1) to a claim described in subsection (a) of this section, the amount that would be paid on such claim if the estate of the debtor were liquidated in a case under chapter 7 of this title shall be the amount that would be paid by the estate in a chapter 7 case if the claim were an unsecured claim arising before the date on which the petition was filed and were not entitled to priority under section 507.
+
+**(c)** For purposes of applying sections 523(a), 1228(a)(2), and 1228(c)(2) to a claim described in subsection (a) of this section, the claim shall not be treated as a claim of a kind specified in subparagraph (A) or (B) of section 523(a)(1).
+
+**(d)**
+
+(1) A governmental unit may file a proof of claim for a claim described in subsection (a) that arises after the date on which the petition is filed.
+
+(2) If a debtor files a tax return after the filing of the petition for a period in which a claim described in subsection (a) arises, and the claim relates to the tax return, the debtor shall serve notice of the claim on the governmental unit charged with the responsibility for the collection of the tax at the address and in the manner designated in section 505(b)(1). Notice under this paragraph shall state that the debtor has filed a petition under this chapter, state the name and location of the court in which the case under this chapter is pending, state the amount of the claim, and include a copy of the filed tax return and documentation supporting the calculation of the claim.
+
+(3) If notice of a claim has been served on the governmental unit in accordance with paragraph (2), the governmental unit may file a proof of claim not later than 180 days after the date on which such notice was served. If the governmental unit has not filed a timely proof of the claim, the debtor or trustee may file proof of the claim that is consistent with the notice served under paragraph (2). If a proof of claim is filed by the debtor or trustee under this paragraph, the governmental unit may not amend the proof of claim.
+
+(4) A claim filed under this subsection shall be determined and shall be allowed under subsection (a), (b), or (c) of section 502, or disallowed under subsection (d) or (e) of section 502, in the same manner as if the claim had arisen immediately before the date of the filing of the petition.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to bankruptcy cases pending on Oct. 26, 2017, in which the plan under this chapter has not been confirmed on Oct. 26, 2017, and relating to which an order of discharge under [section 1228 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1228) has not been entered, and to bankruptcy cases that commence on or after Oct. 26, 2017, see section 1005(c) of Pub. L. 115–72, set out as an Effective Date of 2017 Amendment note under [section 1222 of this title](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1222).

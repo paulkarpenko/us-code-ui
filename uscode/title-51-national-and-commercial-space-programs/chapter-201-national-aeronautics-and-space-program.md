@@ -167,90 +167,121 @@ AND WHEREAS it appears that such seal is of suitable design and appropriate for 
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, I hereby approve such seal as the official seal of the National Aeronautics and Space Administration.
 
-#### Ex. Ord. No. 12675. Establishing the National Space Council
-Ex. Ord. No. 12675, Apr. 20, 1989, 54 F.R. 17691, as amended by Ex. Ord. No. 12712, Apr. 26, 1990, 55 F.R. 18095; Ex. Ord. No. 12869, § 4(f), Sept. 30, 1993, 58 F.R. 51752, provided:
+#### Ex. Ord. No. 12675
+Ex. Ord. No. 12675, Apr. 20, 1989, 54 F.R. 17691, as amended by Ex. Ord. No. 12712, Apr. 26, 1990, 55 F.R. 18095; Ex. Ord. No. 12869, § 4(f), Sept. 30, 1993, 58 F.R. 51752, which established the National Space Council, was superseded by Ex. Ord. No. 13803, § 9(a), June 30, 2017, 82 F.R. 31431, set out below.
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to provide a coordinated process for developing a national space policy and strategy and for monitoring its implementation, it is hereby ordered as follows:
+#### Ex. Ord. No. 13803. Reviving the National Space Council
+Ex. Ord. No. 13803, June 30, 2017, 82 F.R. 31429, provided:
 
-Section 1. Establishment and Composition of the National Space Council.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a coordinated process for developing and monitoring the implementation of national space policy and strategy, it is hereby ordered as follows:
 
-(a) There is established the National Space Council (“the Council”).
+Section 1. Purpose. The National Space Council (Council) was established by Title V of Public Law 100–685 and Executive Order 12675 of April 20, 1989 (Establishing the National Space Council). The Council was tasked with advising and assisting the President regarding national space policy and strategy. The Council was never formally disestablished, but it effectively ceased operation in 1993. This order revives the Council and provides additional details regarding its duties and responsibilities.
+
+Sec. 2. Revival and Composition of the National Space Council. (a) The Council is hereby revived and shall resume operations.
 
 (b) The Council shall be composed of the following members:
 
-(1) The Vice President, who shall be Chairman of the Council;
+(i) The Vice President, who shall be Chair of the Council;
 
-(2) The Secretary of State;
+(ii) The Secretary of State;
 
-(3) The Secretary of the Treasury;
+(iii) The Secretary of Defense;
 
-(4) The Secretary of Defense;
+(iv) The Secretary of Commerce;
 
-(5) The Secretary of Commerce;
+(v) The Secretary of Transportation;
 
-(6) The Secretary of Transportation;
+(vi) The Secretary of Homeland Security;
 
-(7) The Secretary of Energy;
+(vii) The Director of National Intelligence;
 
-(8) The Director of the Office of Management and Budget;
+(viii) The Director of the Office of Management and Budget;
 
-(9) The Chief of Staff to the President;
+(ix) The Assistant to the President for National Security Affairs;
 
-(10) The Assistant to the President for National Security Affairs;
+(x) The Administrator of the National Aeronautics and Space Administration;
 
-(11) The Assistant to the President for Science and Technology;
+(xi) The Director of the Office of Science and Technology Policy;
 
-(12) The Director of Central Intelligence; and
+(xii) The Assistant to the President for Homeland Security and Counterterrorism;
 
-(13) The Administrator of the National Aeronautics and Space Administration.
+(xiii) The Chairman of the Joint Chiefs of Staff; and
 
-(c) The Chairman shall, from time to time, invite the following to participate in meetings of the Council:
+(xiv) The heads of other executive departments and agencies (agencies) and other senior officials within the Executive Office of the President, as determined by the Chair.
 
-(1) The Chairman of the Joint Chiefs of Staff; and
+Sec. 3. Functions of the Council. (a) The Council shall advise and assist the President regarding national space policy and strategy, and perform such other duties as the President may, from time to time, prescribe.
 
-(2) The heads of other executive departments and agencies and other senior officials in the Executive Office of the President.
+(b) In particular, the Council is directed to:
 
-Sec. 2. Functions of the Council. (a) The Council shall advise and assist the President on national space policy and strategy, and perform such other duties as the President may from time to time prescribe.
+(i) review United States Government space policy, including long-range goals, and develop a strategy for national space activities;
 
-(b) In addition, the Council is directed to:
+(ii) develop recommendations for the President on space policy and space-related issues;
 
-(1) review United States Government space policy, including long-range goals, and develop a strategy for national space activities;
+(iii) monitor and coordinate implementation of the objectives of the President’s national space policy and strategy;
 
-(2) develop recommendations for the President on space policy and space-related issues;
+(iv) foster close coordination, cooperation, and technology and information exchange among the civil, national security, and commercial space sectors;
 
-(3) monitor and coordinate implementation of the objectives of the President’s national space policy by executive departments and agencies; and
+(v) advise on participation in international space activities conducted by the United States Government; and
 
-(4) foster close coordination, cooperation, and technology and information exchange among the civil, national security, and commercial space sectors, and facilitate resolution of differences concerning major space and space-related policy issues.
+(vi) facilitate the resolution of differences concerning major space and space-related policy matters.
 
-(c) The creation and operation of the Council shall not interfere with existing lines of authority and responsibilities in the departments and agencies.
+(c) The Council shall meet at least annually.
 
-Sec. 3. Responsibilities of the Chairman. (a) The Chairman shall serve as the President’s principal advisor on national space policy and strategy.
+(d) The revival and operation of the Council shall not interfere with the existing lines of authority in or responsibilities of any agencies.
 
-(b) The Chairman shall, in consultation with the members of the Council, establish procedures for the Council and establish the agenda for Council activities.
+(e) The Council shall have a staff, headed by a civilian Executive Secretary appointed by the President.
 
-(c) The Chairman shall report to the President on the activities and recommendations of the Council. The Chairman shall advise the Council as appropriate regarding the President’s directions with respect to the Council’s activities and national space policy generally.
+Sec. 4. Responsibilities of the Chair. (a) The Chair shall serve as the President’s principal advisor on national space policy and strategy.
 
-(d) The Chairman shall authorize the establishment of such committees of the Council, including an executive committee, and of such working groups, composed of senior designees of the Council members and of other officials invited to participate in Council meetings, as he deems necessary or appropriate for the efficient conduct of Council functions.
+(b) The Chair shall, in consultation with the members of the Council, establish procedures for the Council and establish the agenda for Council activities.
 
-Sec. 4. National Space Policy Planning Process. (a) The Council will establish a process for developing and monitoring the implementation of national space policy and strategy.
+(c) The Chair shall report to the President quarterly on the Council’s activities and recommendations. The Chair shall advise the Council, as appropriate, regarding the President’s directions with respect to the Council’s activities and national space policy and strategy.
 
-(b) To implement this process, each agency represented on the Council shall provide such information regarding its current and planned space activities as the Chairman shall request.
+(d) The Chair may recommend to the President candidates for the position of Executive Secretary.
 
-(c) The head of each executive department and agency shall ensure that its space-related activities conform to national space policy and strategy.
+(e) The Chair, or upon the Chair’s direction, the Executive Secretary, may invite the heads of other agencies, other senior officials in the Executive Office of the President, or other Federal employees to participate in Council meetings.
 
-Sec. 5. [Revoked by Ex. Ord. No. 12869, § 4(f), Sept. 30, 1993, 58 F.R. 51752.]
+(f) The Chair shall authorize the establishment of committees of the Council, including an executive committee, and of working groups, composed of senior designees of the Council members and of other Federal officials invited to participate in Council meetings, as he deems necessary or appropriate for the efficient conduct of Council functions.
 
-Sec. 6. Microgravity Research Board. Section 1(c) of Executive Order No. 12660 is amended by deleting “Economic Policy Council” and inserting in lieu thereof “National Space Council.”
+Sec. 5. National Space Policy and Strategy Planning Process. (a) Each agency represented on the Council shall provide such information to the Chair regarding its current and planned space activities as the Chair shall request.
 
-Sec. 7. Administrative Provisions. (a) The Office of Administration in the Executive Office of the President shall provide the Council with such administrative support on a reimbursable basis as may be necessary for the performance of the functions of the Council.
+(b) The head of each agency that conducts space-related activities shall, to the extent permitted by law, conform such activities to the President’s national space policy and strategy.
 
-(b) The President shall appoint an Executive Secretary who shall appoint such staff as may be necessary to assist in the performance of the Council’s functions.
+(c) On space policy and strategy matters relating primarily to national security, the Council shall coordinate with the National Security Council (NSC) to create policies and procedures for the Council that respect the responsibilities and authorities of the NSC under existing law.
 
-(c) All Federal departments, agencies, and interagency councils and committees having an impact on space policy shall extend, as appropriate, such cooperation and assistance to the Council as is necessary to carry out its responsibilities under this order.
+Sec. 6. Users’ Advisory Group. (a) The Council shall convene a Users’ Advisory Group (Group) pursuant to Public Law 101–611, section 121, composed of non-Federal representatives of industries and other persons involved in aeronautical and space activities.
 
-(d) The head of each agency serving on the Council or represented on any working group or committee of the Council shall provide such administrative support as may be necessary, in accordance with law and subject to the availability of appropriations, to enable the agency head or its representative to carry out his responsibilities.
+(b) Members of the Group shall serve without any compensation for their work for the Group. Members of the Group, while engaged in the work of the Group, may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7), consistent with the availability of funds.
 
-Sec. 8. Report. The Council shall submit an annual report setting forth its assessment of and recommendations for the space policy and strategy of the United States Government.
+(c) The Group shall report directly to the Council and shall provide advice or work product solely to the Council.
+
+Sec. 7. Administrative Provisions. (a) To aid in the performance of the functions of the Council:
+
+(i) The Office of Administration in the Executive Office of the President shall provide the Council with administrative support on a reimbursable basis; and
+
+(ii) Legal advice to the Council itself with respect to its work and functions shall be provided exclusively by the Office of the Counsel to the President.
+
+(b) To the extent practicable and permitted by law, including the Economy Act, and within existing appropriations, agencies serving on the Council and interagency councils and committees that affect space policy or strategy shall make resources, including, but not limited to, personnel, office support, and printing, available to the Council as reasonably requested by the Chair or, upon the Chair’s direction, the Executive Secretary.
+
+(c) Agencies shall cooperate with the Council and provide such information and advice to the Council as it may reasonably request, to the extent permitted by law.
+
+Sec. 8. Report. Within 1 year of the date of this order, and annually thereafter, the Council shall submit a report to the President setting forth its assessment of, and recommendations for, the space policy and strategy of the United States Government.
+
+Sec. 9. General Provisions. (a) This order supersedes Executive Order 12675 of April 20, 1989 (Establishing the National Space Council). To the extent this order is inconsistent with any provision of any earlier Executive Order or Presidential Memorandum, this order shall control.
+
+(b) If any provision of this order or the application of such provision is held to be invalid, the remainder of this order and other dissimilar applications of such provision shall not be affected.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(e) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+Donald J. Trump.
 
 
 <a id="section-20112"></a>
@@ -309,7 +340,7 @@ Sec. 8. Report. The Council shall submit an annual report setting forth its asse
 
 **(f) Cooperation With Federal Agencies and Others.—** In the performance of its functions, the Administration is authorized to use, with their consent, the services, equipment, personnel, and facilities of Federal and other agencies with or without reimbursement, and on a similar basis to cooperate with other public and private agencies and instrumentalities in the use of services, equipment, and facilities. Each department and agency of the Federal Government shall cooperate fully with the Administration in making its services, equipment, personnel, and facilities available to the Administration, and any such department or agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, aeronautical and space vehicles, and supplies and equipment other than administrative supplies or equipment.
 
-**(g) Advisory Committees.—** In the performance of its functions, the Administration is authorized to appoint such advisory committees as may be appropriate for purposes of consultation and advice to the Administration and Congress.
+**(g) Advisory Committees.—** In the performance of its functions, the Administration is authorized to appoint such advisory committees as may be appropriate for purposes of consultation and advice to the Administration.
 
 **(h) Offices and Procedures.—** In the performance of its functions, the Administration is authorized to establish within the Administration such offices and procedures as may be appropriate to provide for the greatest possible coordination of its activities under this chapter with related scientific and other activities being carried on by other public and private agencies and organizations.
 
@@ -340,9 +371,6 @@ Sec. 8. Report. The Council shall submit an annual report setting forth its asse
 **(n) Identification of Government Astronauts.—** For purposes of a license issued or transferred by the Secretary of Transportation under chapter 509 to launch a launch vehicle or to reenter a reentry vehicle carrying a government astronaut (as defined in section 50902), the Administration shall designate a government astronaut in accordance with requirements prescribed by the Administration.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (g)
-Pub. L. 115–10, title VIII, § 835(d)(2), Mar. 21, 2017, 131 Stat. 69, provided that, effective Sept. 30, 2017, subsection (g) of this section is amended by striking “and Congress”. See 2017 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -983,6 +1011,9 @@ In subsection (i)(4), the words “Committee on Science and Technology” are su
 #### Change of Name
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+#### Availability of funds
+Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 431, provided that: “Funds for any announced prize otherwise authorized shall remain available, without fiscal year limitation, until a prize is claimed or the offer is withdrawn.”
+
 #### Purpose
 Pub. L. 110–422, title XI, § 1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: “Prizes can play a useful role in encouraging innovation in the development of technologies and products that can assist NASA [National Aeronautics and Space Administration] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged.”
 
@@ -1027,7 +1058,7 @@ Pub. L. 110–422, title XI, § 1105(a), Oct. 15, 2008, 122 Stat. 4809, provided
 
 (2) **Availability and use of funds for operating plan.—** — The availability and use of funds received under this section for the Administration’s operating plan.
 
-**(g) Sunset.—** The authority to enter into leases under this section shall expire December 31, 2018. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
+**(g) Sunset.—** The authority to enter into leases under this section shall expire December 31, 2019. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
 
 ### Statutory Notes
 
@@ -1041,6 +1072,8 @@ In subsection (f)(2), the word “Administration’s” is substituted for “Ag
 In subsection (g), the words “10 years after December 26, 2007” are substituted for “on the date that is ten years after the date of the enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act of 2008” for consistency and to reflect the date of enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008 (Public Law 110–161, div. B, 121 Stat. 1884).
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–403 substituted “December 31, 2019” for “December 31, 2018”.
+
 2017—Subsec. (g). Pub. L. 115–10 substituted “December 31, 2018” for “10 years after December 26, 2007”.
 
 2011—Subsec. (b)(1). Pub. L. 112–55 designated existing provisions as subpar. (A) and added subpar. (B).
@@ -1049,6 +1082,8 @@ In subsection (g), the words “10 years after December 26, 2007” are substitu
 Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see [51 U.S.C. 20145](./chapter-201-national-aeronautics-and-space-program.md#section-20145)), all proceeds from leases entered into under that section shall be deposited into this account [funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of Pub. L. 113–6]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 431.
 
 Pub. L. 115–31, div. B, title III, May 5, 2017, 131 Stat. 214.
 

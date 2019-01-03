@@ -1796,7 +1796,7 @@ Any National Forest System lands which are transferred to a military department 
 ### Statutory Notes
 
 #### References in Text
-Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Amendments
 1988—Pub. L. 100–409 substituted “National Forest System lands” for “national forest lands” and inserted provision that lands interchanged under authority of this section and [section 505a of this title](./chapter-002-national-forests.md#section-505a) be deemed to include interests in lands.
@@ -1895,7 +1895,7 @@ The Secretary of Agriculture is hereby authorized and directed to examine, locat
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted this section, former sections 513 and 514 of this title, and sections 516 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Codification
 Act Mar. 1, 1911, prior to its amendment, authorized the Secretary to study lands necessary to the regulation of the flow of navigable streams. This authority was enlarged by act June 7, 1924, to include in its scope “lands necessary for the production of timber”.
@@ -1912,7 +1912,7 @@ When the public interests will be benefited thereby, the Secretary of Agricultur
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted this section, former sections 513 and 514 of this title, and sections 515, 517 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Amendments
 1976—Pub. L. 94–588 substituted “When the public interests will be benefited thereby, the Secretary of Agriculture is hereby authorized, in his discretion, to accept on behalf of the United States title to any lands within the exterior boundaries of national forests which, in his opinion, are chiefly valuable for the purposes of this Act, and in exchange therefor to convey by deed not to exceed an equal value of such national forest land in the same State, or he may authorize the grantor to cut and remove an equal value of timber within such national forests in the same State, the values in each case to be determined by him: Provided, That before” for “The Secretary of Agriculture is authorized to purchase, in the name of the United States, such lands as have been approved for purchase by the National Forest Reservation Commission at the price or prices fixed by said commission. No deed or other instrument of conveyance shall be accepted or approved by the Secretary of Agriculture under this section until the legislature of the State in which the land lies shall have consented to the acquisition of such land by the United States for the purpose of preserving the navigability of navigable streams. With the approval of the National Forest Reservation Commission as provided by this section and [section 515 of this title](./chapter-002-national-forests.md#section-515), and when the public interests will be benefited thereby, the Secretary of Agriculture is authorized, in his discretion, to accept on behalf of the United States title to any lands within the exterior boundaries of national forests acquired under said sections which, in his opinion, are chiefly valuable for the purposes as therein stated, and in exchange therefor to convey by deed not to exceed an equal value of such national forest land in the same State, or he may authorize the grantor to cut and remove an equal value of timber within such national forests in the same State, the values in each case to be determined by him. Before”.
@@ -1928,7 +1928,7 @@ The Secretary of Agriculture may do all things necessary to secure the safe titl
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted this section, former sections 513 and 514 of this title, and sections 515, 516, 517a to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Codification
 Section was amended by act Dec. 11, 1926, ch. 5, 44 Stat. 919. The amendment added a proviso at the end of this section which is set out as [section 517a of this title](./chapter-002-national-forests.md#section-517a).
@@ -1945,7 +1945,7 @@ In condemnation proceedings, heretofore or hereafter prosecuted, for the acquisi
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted this section, former sections 513 and 514 of this title, and sections 515 to 517, 518, 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Amendments
 1926—Act Dec. 11, 1926, amended act Mar. 1, 1911, constituting [section 517 of this title](./chapter-002-national-forests.md#section-517), by inserting text of this section as a proviso thereof.
@@ -1959,7 +1959,7 @@ Such acquisition by the United States shall in no case be defeated because of lo
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted this section, former sections 513 and 514 of this title, and sections 515 to 517a, 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Amendments
 1976—Pub. L. 94–588 struck out “the National Forest Reservation Commission and” after “in the opinion of”.
@@ -1975,7 +1975,7 @@ Inasmuch as small areas of land chiefly valuable for agriculture may of necessit
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted this section, former sections 513 and 514 of this title, and sections 515 to 518, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Codification
 “Such rules and regulations as he may prescribe” was substituted for “such joint rules and regulations as the Secretary of Agriculture and the Secretary of the Interior may prescribe” in view of the transfer of functions under this section to the Secretary of Agriculture from the Secretary of the Interior by section 1(k) of Pub. L. 86–509, set out as a note under [section 2201 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim), Agriculture.
@@ -1989,7 +1989,7 @@ If any of the lands purchased or to be purchased by the United States under the 
 ### Statutory Notes
 
 #### References in Text
-Act approved March 1, 1911, as amended, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+Act approved March 1, 1911, as amended, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Codification
 The words “with the consent and approval of the National Forest Reservation Commission established by section 4 of said Act of March 1, 1911 [[16 U.S.C. 513](./chapter-002-national-forests.md#section-513)]”, which appeared immediately following the first reference to the Secretary of Agriculture, have been omitted as obsolete. Section 4 of the 1911 Act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.
@@ -2006,7 +2006,7 @@ The Secretary of Agriculture is authorized, under general regulations to be pres
 ### Statutory Notes
 
 #### References in Text
-The Act of March first, nineteen hundred and eleven, known as the Weeks Law, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+The Act of March first, nineteen hundred and eleven, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Transfer of Functions
 Functions of Secretary of Agriculture with respect to uses of mineral deposits under this section transferred to Secretary of the Interior by section 402 of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees, which provided that mineral development on such lands shall be authorized by Secretary of the Interior only when he is advised by Secretary of Agriculture that such development will not interfere with purposes for which land was acquired and only in accordance with such conditions as may be specified by Secretary of Agriculture in order to protect such purposes.
@@ -2024,7 +2024,7 @@ Subject to the provisions of [section 519 of this title](./chapter-002-national-
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+This Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted this section, former sections 513 and 514 of this title, and sections 515 to 519, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 [Section 471 of this title](./chapter-002-national-forests.md#section-471), referred to in text, was in the original a reference to section 24 of act Mar. 3, 1891, ch. 561, 26 Stat. 1103, and was repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.
 
@@ -2088,24 +2088,67 @@ For purposes of sections 521c to 521i of this title—
 
 <a id="section-521d"></a>
 ## § 521d. Sale, exchange, or interchange of National Forest System land
-
-The Secretary is authorized, when the Secretary determines it to be in the public interest—
+**(a) Conveyance authority; consideration** The Secretary is authorized, when the Secretary determines it to be in the public interest—
 
 (1) to sell, exchange, or interchange by quitclaim deed, all right, title, and interest, including the mineral estate, of the United States in and to National Forest System lands described in [section 521e of this title](./chapter-002-national-forests.md#section-521e); and
 
-(2) to accept as consideration for the lands sold, exchanged, or interchanged other lands, interests in lands, or cash payment, or any combination of such forms of consideration, which, in the case of conveyance by sale or exchange, is at least equal in value, including the mineral estate, or, in the case of conveyance by interchange, is of approximately equal value, including the mineral estate, to the lands being conveyed by the Secretary. The Secretary shall insert in any such quitclaim deed such terms, convenants,11 So in original. Probably should be “covenants,”. conditions, and reservations as the Secretary deems necessary to ensure protection of the public interest, including protection of the scenic, wildlife, and recreation values of the National Forest System and provision for appropriate public access to and use of lands within the System. The preceding sentence shall not be applicable to deeds issued by the Secretary to lands outside the boundary of units of the National Forest System.
+(2) to accept as consideration for the lands sold, exchanged, or interchanged other lands, interests in lands, or cash payment, or any combination of such forms of consideration, which, in the case of conveyance by sale or exchange, is at least equal in value, including the mineral estate, or, in the case of conveyance by interchange, is of approximately equal value, including the mineral estate, to the lands being conveyed by the Secretary.
+
+**(b) Inclusion of terms, covenants, conditions, and reservations**
+
+(1) **In general** — The Secretary shall insert in any such quitclaim deed such terms, covenants, conditions, and reservations as the Secretary deems necessary to ensure protection of the public interest, including protection of the scenic, wildlife, and recreation values of the National Forest System and provision for appropriate public access to and use of lands within the System.
+
+(2) **Limitation** — Paragraph (1) shall not be applicable to deeds issued by the Secretary to lands outside the boundary of units of the National Forest System.
+
+**(c) Disposition of proceeds**
+
+(1) **Deposit in Sisk fund** — The net proceeds derived from any sale or exchange conducted under paragraph (4), (5), or (6) of [section 521e of this title](./chapter-002-national-forests.md#section-521e) shall be deposited in the fund established under [section 484a of this title](./chapter-002-national-forests.md#section-484a).
+
+(2) **Use** — Amounts deposited under paragraph (1) shall be available to the Secretary until expended for—
+
+  (A) the acquisition of land or interests in land for administrative sites for the National Forest System in the State from which the amounts were derived;
+
+  (B) the acquisition of land or interests in land for inclusion in the National Forest System in that State, including land or interests in land that enhance opportunities for recreational access; or
+
+  (C) the reimbursement of the Secretary for costs incurred in preparing a sale conducted under the authority of [section 521e of this title](./chapter-002-national-forests.md#section-521e) if the sale is a competitive sale.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–334, § 8621(c)(1)–(3), designated first sentence as subsec. (a) and inserted subsec. heading, designated second sentence as par. (1) of subsec. (b), inserted subsec. and par. headings, and substituted “covenants” for “convenants”, and designated third sentence as par. (2) of subsec. (b), inserted par. heading, and substituted “Paragraph (1) shall not” for “The preceding sentence shall not”.
+
+Subsec. (c). Pub. L. 115–334, § 8621(c)(4), added subsec. (c).
 
 
 <a id="section-521e"></a>
 ## § 521e. Small parcels and road rights-of-way
 
-The National Forest System lands which may be sold, exchanged, or interchanged under sections 521c to 521i of this title are those the sale or exchange of which is not practicable under any other authority of the Secretary, which have a value as determined by the Secretary of not more than $150,000, and which are—
+The National Forest System lands which may be sold, exchanged, or interchanged under sections 521c to 521i of this title are those the sale or exchange of which is not practicable under any other authority of the Secretary, which have a value as determined by the Secretary of not more than $500,000, and which are—
 
 (1) parcels of forty acres or less which are interspersed with or adjacent to lands which have been transferred out of Federal ownership under the mining laws and which are determined by the Secretary, because of location or size, not to be subject to efficient administration;
 
-(2) parcels of ten acres or less which are encroached upon by improvements occupied or used under claim or color of title by persons to whom no advance notice was given that the improvements encroached or would encroach upon such parcels, and who in good faith relied upon an erroneous survey, title search, or other land description indicating that there was not such encroachment; or
+(2) parcels of ten acres or less which are encroached upon by improvements occupied or used under claim or color of title by persons to whom no advance notice was given that the improvements encroached or would encroach upon such parcels, and who in good faith relied upon an erroneous survey, title search, or other land description indicating that there was not such encroachment;
 
-(3) road rights-of-way, reserved or acquired, which are substantially surrounded by lands not owned by the United States and which are no longer needed by the United States, subject to the first right of abutting landowners to acquire such rights-of-way.
+(3) road rights-of-way, reserved or acquired, which are substantially surrounded by lands not owned by the United States and which are no longer needed by the United States, subject to the first right of abutting landowners to acquire such rights-of-way;
+
+(4) parcels of 40 acres or less that are determined by the Secretary—
+
+  (A) to be physically isolated from other Federal land;
+
+  (B) to be inaccessible; or
+
+  (C) to have lost National Forest character;
+
+(5) parcels of 10 acres or less that are not eligible for conveyance under paragraph (2) but are encroached on by a permanent habitable improvement for which there is no evidence that the encroachment was intentional or negligent; or
+
+(6) parcels used as a cemetery (including a parcel of not more than 1 acre adjacent to the parcel used as a cemetery), a landfill, or a sewage treatment plant under a special use authorization issued or otherwise authorized by the Secretary.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–334, § 8621(a), substituted “$500,000” for “$150,000” in introductory provisions.
+
+Pars. (4) to (6). Pub. L. 115–334, § 8621(b), added pars. (4) to (6).
 
 
 <a id="section-521f"></a>
@@ -2180,16 +2223,13 @@ In the form provided by existing law the Secretary of the Interior may file and 
 
 ### Statutory Notes
 
-#### Repeals
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### Codification
 As originally enacted, this section contained following the word “forest” the words “or reservoir site”. See sections 665 and 958 of Title 43, Public Lands, which represent the phase of the section here omitted.
 
 “National forest” substituted in text for “forest reserve” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
 
 
 <a id="section-526"></a>
@@ -2214,7 +2254,7 @@ The Forest Service may expend funds available for national forest protection and
 ### Statutory Notes
 
 #### References in Text
-Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 Act of June 7, 1924, referred to in text, is act June 7, 1924, ch. 348, 43 Stat. 653, which is classified to sections 471, 499, 505, 515, 564, 565, 566, 567, 568, 569, and 570 of this title. For complete classification of this Act to the Code, see Tables.
 

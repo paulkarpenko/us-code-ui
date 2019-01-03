@@ -115,7 +115,7 @@ Subsec. (a)(1). Pub. L. 105–277 substituted “operations, or to intrastate bu
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14502"></a>
@@ -157,6 +157,9 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11503a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11503a&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14503"></a>
 ## § 14503. Withholding State and local income tax by certain carriers
@@ -184,6 +187,9 @@ Provisions similar to those in this section were contained in [section 11503a of
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11504 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11504&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14504"></a>
@@ -533,6 +539,11 @@ A State or political subdivision thereof may not collect or levy a tax, fee, hea
 (3) the sale of passenger transportation in interstate commerce by motor carrier; or
 
 (4) the gross receipts derived from such transportation.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14506"></a>

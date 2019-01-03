@@ -254,7 +254,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
   (A) to perform one year of active duty for each year (or part thereof) for which such person was provided financial assistance under this section; or
 
-  (B) to comply with the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+  (B) to comply with the repayment provisions of section 303a(e) or 373 of title 37.
 
 (2) The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member participating in the program who is dropped from the program from any requirement that may be imposed under paragraph (1), but such relief shall not relieve him from any military obligation imposed by any other law.
 
@@ -263,6 +263,8 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(1)(B). Pub. L. 115–91 inserted “or 373” before “of title 37”.
+
 2006—Subsec. (a)(1)(B). Pub. L. 109–163 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to repay the United States an amount equal to the total amount paid to such person under the program.”
 
 1994—Pub. L. 103–337, § 1663(c)(4), renumbered [section 2130 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2130&num=0&edition=prelim) as this section and substituted “Penalties and limitations” for “Penalties, limitations, and other administrative provisions” as section catchline.

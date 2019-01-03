@@ -20,7 +20,7 @@ Repeal effective Oct. 12, 1984, see section 235(a)(1)(A) of Pub. L. 98–473, se
 
 
 <a id="section-5007-to-5009"></a>
-## § 5007 to 5009. Repealed Pub. L. 94–233, § 5, Mar. 15, 1976, 90 Stat. 231]
+## § 5007 to 5009. Repealed. Pub. L. 94–233, § 5, Mar. 15, 1976, 90 Stat. 231]
 
 ### Statutory Notes
 

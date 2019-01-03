@@ -16,6 +16,9 @@ Section, acts Feb. 8, 1887, ch. 119, § 1, 24 Stat. 388; Feb. 28, 1891, ch. 383,
 #### Codification
 Section was based on section 1 of act Feb. 8, 1887, as amended generally by section 1 of act Feb. 28, 1891, which was amended generally, by act June 25, 1910. The amendment by act June 25, 1910, to section 1 of act Feb. 28, 1891, was treated as an amendment to section 1 of act Feb. 8, 1887, to reflect the probable intent of Congress, and this section was based on the text of section 1 of act Feb. 28, 1891, as so amended. The repeal by Pub. L. 106–462 of section 1 of act Feb. 8, 1887, was executed by repealing this section, to reflect the probable intent of Congress.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–399, § 1, Dec. 31, 2018, 132 Stat. 5331, provided that: “This Act [enacting and amending provisions set out as notes under [section 355 of this title](./chapter-009-allotment-of-indian-lands.md#section-355)] may be cited as the ‘Stigler Act Amendments of 2018’.”
+
 #### Short Title of 1987 Amendment
 Pub. L. 100–153, § 1, Nov. 5, 1987, 101 Stat. 886, provided that: “This Act [amending sections 373, 1401, and 2301 of this title and [section 4421 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4421&num=0&edition=prelim), Education, and amending provisions set out as a note under this section] may be cited as the ‘Indian Law Technical Amendments of 1987’.”
 
@@ -269,11 +272,11 @@ All persons who are in whole or in part of Indian blood or descent who are entit
 
 ### Statutory Notes
 
-#### Repeal of Section as to Osage Indians
-Act June 28, 1906, ch. 3572, § 1, 34 Stat. 540, provided in part that: “the provisions of the Act of Congress of August fifteenth, eighteen hundred and ninety-four, Twenty-eighth Statutes at Large, page three hundred and five [this section], granting persons of Indian blood who have been denied allotments the right to appeal to the courts, are hereby repealed as far as the same relate to the Osage Indians; and the tribal lands and tribal funds of said tribe shall be equally divided among the members of said tribe as hereinafter provided.”
-
 #### Codification
 Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
+
+#### Repeal of Section as to Osage Indians
+Act June 28, 1906, ch. 3572, § 1, 34 Stat. 540, provided in part that: “the provisions of the Act of Congress of August fifteenth, eighteen hundred and ninety-four, Twenty-eighth Statutes at Large, page three hundred and five [this section], granting persons of Indian blood who have been denied allotments the right to appeal to the courts, are hereby repealed as far as the same relate to the Osage Indians; and the tribal lands and tribal funds of said tribe shall be equally divided among the members of said tribe as hereinafter provided.”
 
 
 <a id="section-346"></a>
@@ -453,12 +456,14 @@ Pub. L. 91–386, § 1, Aug. 24, 1970, 84 Stat. 828, repealed Pub. L. 86–192, 
 Pub. L. 91–386, § 2, Aug. 20, 1970, 84 Stat. 828, provided that: “Repeal of the Act of August 25, 1959 [see note above] shall not be construed to abrogate, impair, annul, or otherwise affect any right or interest which may have vested under the provisions of said Act nor shall repeal affect any legal action pending on the date of enactment of this Act [Aug. 24, 1970].”
 
 #### Extension of Period of Restrictions on Lands
-Act Aug. 11, 1955, ch. 786, 69 Stat. 666, extended for the lives of the Indians who own lands the period of restrictions against alienation, lease, mortgage, or other encumbrance of land; provided for application to Secretary of the Interior for removal of restrictions; authorized the Secretary, without application, to remove restrictions on lands of Indians who are able to manage their own affairs; permitted proceeding in county court where Secretary disapproved or failed to either approve or disapprove the application for removal; granted right of appeal; required Secretary to turn over full ownership and control of any money and property held in trust when an order removing restrictions becomes effective; and, continued existing exemptions from taxation that constitute a vested property right.
+Act Aug. 11, 1955, ch. 786, 69 Stat. 666, as amended by Pub. L. 115–399, § 4(1), Dec. 31, 2018, 132 Stat. 5333, provided for application to Secretary of the Interior for removal of restrictions against alienation, lease, mortgage, or other encumbrance of land; authorized the Secretary, without application, to remove restrictions on lands of Indians who are able to manage their own affairs; permitted proceeding in county court where Secretary disapproved or failed to either approve or disapprove the application for removal; granted right of appeal; required Secretary to turn over full ownership and control of any money and property held in trust when an order removing restrictions becomes effective; and, continued existing exemptions from taxation that constitute a vested property right.
 
-#### Removal of Land Restriction at Death; Approval of Conveyance; Jurisdiction of Oklahoma State Courts; Tax Exemption
-Act Aug. 4, 1947, ch. 458, 61 Stat. 731, provided that death removed restrictions on land; clarified the laws relating to the approval of conveyances of restricted lands; defined the jurisdiction of Oklahoma State courts over certain classes of Indian litigation; set out the procedure governing the removal of cases to the Federal courts and authorized appeals from orders of remand; and limited the tax-exempt acreage of restricted Indian lands.
+[Pub. L. 115–399, § 4(1), which amended act Aug. 11, 1955, ch. “768”, by repealing the first section, was executed to act Aug. 11, 1955, ch. 786, see above, to reflect the probable intent of Congress.]
 
-Act Aug. 4, 1947, ch. 458, § 6(e), 61 Stat. 733, was amended by act Aug. 12, 1953, ch. 409, § 2, 67 Stat. 558, by permitting the filing of a list of nontaxable lands that have been sold during the preceding year, instead of cumulative lists showing all restricted lands of the Five Civilized Tribes that are tax exempt.
+#### Restriction on Alienation of Certain Lands; Approval of Conveyance; Jurisdiction of Oklahoma State Courts; Tax Exemption
+Pub. L. 115–399, § 5, Dec. 31, 2018, 132 Stat. 5333, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331)], or the amendments made by this Act, shall be construed to revise or extend the restricted status of any lands under the Act of August 4, 1947 (61 Stat. 731, chapter 458) [see below] that lost restricted status under such Act before the date of enactment of this Act [Dec. 31, 2018].”
+
+Act Aug. 4, 1947, ch. 458, 61 Stat. 731, as amended by act Aug. 12, 1953, ch. 409, § 2, 67 Stat. 558; Pub. L. 115–399, §§ 2, 3, 4(2), Dec. 31, 2018, 132 Stat. 5331–5333, provided that certain restrictions on alienation of land were extended until an Act of Congress determined otherwise, including interests in estates of decedent Indians who died before Dec. 31, 2018; clarified the laws relating to the approval of conveyances of restricted lands; defined the jurisdiction of Oklahoma State courts over certain classes of Indian litigation; set out the procedure governing the removal of cases to the Federal courts and authorized appeals from orders of remand; preserved the right to seek removal of restrictions; preserved land transactions entered into before Dec. 31, 2018; and limited the tax-exempt acreage of restricted Indian lands.
 
 #### Validation of Land Titles and Court Judgments
 Act July 2, 1945, ch. 223, 59 Stat. 313, validated titles to certain lands conveyed by the Indians of the Five Civilized Tribes on and after April 26, 1931, and prior to July 2, 1945; amended act Jan. 27, 1933, ch. 23, 47 Stat. 777, by limiting restrictions on the alienation of lands or interests in lands acquired by inheritance, devise, or in any other manner where such lands or interests were not restricted against alienation at the time of acquisition, and all conveyances executed after Jan. 27, 1937, and prior to July 2, 1945; and validated State court judgments in Oklahoma and judgments of the United States District Courts of the State of Oklahoma.

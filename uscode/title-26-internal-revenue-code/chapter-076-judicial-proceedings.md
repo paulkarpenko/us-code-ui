@@ -105,7 +105,7 @@ All judgments and moneys recovered or received for taxes, costs, forfeitures, an
 
 <a id="section-7407"></a>
 ## § 7407. Action to enjoin tax return preparers
-**(a) Authority to seek injunction** A civil action in the name of the United States to enjoin any person who is a tax return preparer from further engaging in any conduct described in subsection (b) or from further action as a tax return preparer may be commenced at the request of the Secretary. Any action under this section shall be brought in the District Court of the United States for the district in which the tax return preparer resides or has his principal place of business or in which the taxpayer with respect to whose tax return the action is brought resides. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such tax return preparer or any taxpayer.
+**(a) Authority to seek injunction** A civil action in the name of the United States to enjoin any person who is a tax return preparer from further engaging in any conduct described in subsection (b) or from further acting as a tax return preparer may be commenced at the request of the Secretary. Any action under this section shall be brought in the District Court of the United States for the district in which the tax return preparer resides or has his principal place of business or in which the taxpayer with respect to whose tax return the action is brought resides. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such tax return preparer or any taxpayer.
 
 **(b) Adjudication and decrees** In any action under subsection (a), if the court finds—
 
@@ -233,20 +233,19 @@ A prior section 7409 was renumbered [section 7410 of this title](./chapter-076-j
 
 <a id="section-7421"></a>
 ## § 7421. Prohibition of suits to restrain assessment or collection
-**(a) Tax** Except as provided in sections 6015(e), 6212(a) and (c), 6213(a), 6225(b), 6246(b), 6330(e)(1), 6331(i), 6672(c), 6694(c), and 7426(a) and (b)(1), 7429(b), and 7436, no suit for the purpose of restraining the assessment or collection of any tax shall be maintained in any court by any person, whether or not such person is the person against whom such tax was assessed.
+**(a) Tax** Except as provided in sections 6015(e), 6212(a) and (c), 6213(a), 6232(c), 6330(e)(1), 6331(i), 6672(c), 6694(c), 7426(a) and (b)(1), 7429(b), and 7436, no suit for the purpose of restraining the assessment or collection of any tax shall be maintained in any court by any person, whether or not such person is the person against whom such tax was assessed.
 
 **(b) Liability of transferee or fiduciary** No suit shall be maintained in any court for the purpose of restraining the assessment or collection (pursuant to the provisions of chapter 71) of—
 
 (1) the amount of the liability, at law or in equity, of a transferee of property of a taxpayer in respect of any internal revenue tax, or
 
-(2) the amount of the liability of a fiduciary under [section 3713(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3713/b&num=0&edition=prelim), United States Code 11 So in original. Probably should be followed by a comma. in respect of any such tax.
+(2) the amount of the liability of a fiduciary under [section 3713(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3713/b&num=0&edition=prelim), United States Code, in respect of any such tax.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)
-Pub. L. 114–74, title XI, § 1101(f)(10), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (a) of this section is amended by striking “6225(b), 6246(b)” and inserting “6232(c)”. See 2015 Amendment note below.
-
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–141 substituted “Code, in” for “Code in”.
+
 2015—Subsec. (a). Pub. L. 114–74 substituted “6232(c)” for “6225(b), 6246(b)”.
 
 2000—Subsec. (a). Pub. L. 106–554 inserted “6330(e)(1),” after “6246(b),” and substituted “6672(c)” for “6672(b)”.
@@ -270,7 +269,7 @@ Pub. L. 105–34, § 1222(b)(1), inserted “6246(b),” after “6213(a),”.
 1966—Subsec. (a). Pub. L. 89–719 inserted reference to section 7426(a), (b)(1), and “by any person, whether or not such person is the person against whom such tax was assessed”.
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1998 Amendments
 Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -280,7 +279,7 @@ Amendment by Pub. L. 105–206 applicable to any liability for tax arising after
 #### Effective Date of 1997 Amendment
 Amendment by section 1222(b)(1) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
 
-Amendment by section 1239(e)(3) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6225 of this title](./chapter-063-assessment.md#section-6225).
+Amendment by section 1239(e)(3) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6501 of this title](./chapter-066-limitations.md#section-6501).
 
 Amendment by section 1454(b)(2) of Pub. L. 105–34, effective Aug. 5, 1997, see section 1454(c) of Pub. L. 105–34, set out as a note under [section 6511 of this title](./chapter-066-limitations.md#section-6511).
 
@@ -327,7 +326,7 @@ Pub. L. 105–206, title III, § 3468, July 22, 1998, 112 Stat. 770, provided th
 
 (3) **Final determination of issues** — For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (or failure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
 
-**(h) Special rule for actions with respect to partnership items** No action may be brought for a refund attributable to partnership items (as defined in section 6231(a)(3)) except as provided in section 6228(b) or section 6230(c).
+**(h) Repealed. Pub. L. 114–74, title XI, § 1101(f)(11), Nov. 2, 2015, 129 Stat. 638]**
 
 **(i) Special rule for actions with respect to tax shelter promoter and understatement penalties** No action or proceeding may be brought in the United States Court of Federal Claims for any refund or credit of a penalty imposed by section 6700 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability).
 
@@ -359,20 +358,17 @@ Pub. L. 105–206, title III, § 3468, July 22, 1998, 112 Stat. 770, provided th
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 114–74, title XI, § 1101(f)(11), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking subsection (h). See 2015 Amendment note below.
-
 #### References in Text
 The date of enactment of this title, referred to in subsec. (e), is Aug. 16, 1954.
 
 #### Amendments
+2018—Subsecs. (e), (i). Pub. L. 115–141 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
+
 2015—Subsec. (h). Pub. L. 114–74 struck out subsec. (h). Text read as follows: “No action may be brought for a refund attributable to partnership items (as defined in section 6231(a)(3)) except as provided in section 6228(b) or section 6230(c).”
 
 1998—Subsecs. (j), (k). Pub. L. 105–206 added subsec. (j) and redesignated former subsec. (j) as (k).
 
 1996—Subsec. (g)(2), (3). Pub. L. 104–168 inserted “4958,” after “4955,”.
-
-1992—Subsecs. (e), (i). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
 
 1988—Subsec. (e). Pub. L. 100–418 substituted “or 44” for “44, or 45”.
 
@@ -415,16 +411,13 @@ Subsecs. (g), (h). Pub. L. 91–172, § 101(i), added subsec. (g) and redesignat
 1958—Subsec. (f)(2). Pub. L. 85–866 struck out “district” before “attorneys”.
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title III, § 3104(c), July 22, 1998, 112 Stat. 732, provided that: “The amendments made by this section [amending this section and [section 7479 of this title](./chapter-076-judicial-proceedings.md#section-7479)] shall apply to any claim for refund filed after the date of the enactment of this Act [July 22, 1998].”
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–168 applicable to excess benefit transactions occurring on or after Sept. 14, 1995 and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as a note under [section 4955 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4955).
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under [section 164 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-164).
@@ -438,7 +431,7 @@ Amendment by section 714(g)(1) of Pub. L. 98–369 applicable to any claim for r
 Amendment by section 714(p)(2)(H) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under [section 31 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-31).
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
@@ -516,7 +509,7 @@ Pub. L. 89–719, title I, § 114(d), Nov. 2, 1966, 80 Stat. 1147, provided that
 (2) shall have the same effect with respect to the discharge or divestment of such lien of the United States as may be provided with respect to such matters by the local law of the place where such property is situated, if no notice of such lien has been filed in the place provided by law for such filing at the time such action or suit is commenced or if the law makes no provision for such filing.
 If a judicial sale of property pursuant to a judgment in any civil action or suit to which the United States is not a party discharges a lien of the United States arising under the provisions of this title, the United States may claim, with the same priority as its lien had against the property sold, the proceeds (exclusive of costs) of such sale at any time before the distribution of such proceeds is ordered.
 
-**(b) Other sales** Notwithstanding subsection (a) sale of property on which the United States has or claims a lien, or a title derived from enforcement of a lien, under the provisions of this title, made pursuant to an instrument creating a lien on such property, pursuant to a confession of judgment on the obligation secured by such an instrument, or pursuant to a nonjudicial sale under a statutory lien on such property—
+**(b) Other sales** Notwithstanding subsection (a) a sale of property on which the United States has or claims a lien, or a title derived from enforcement of a lien, under the provisions of this title, made pursuant to an instrument creating a lien on such property, pursuant to a confession of judgment on the obligation secured by such an instrument, or pursuant to a nonjudicial sale under a statutory lien on such property—
 
 (1) shall, except as otherwise provided, be made subject to and without disturbing such lien or title, if notice of such lien was filed or such title recorded in the place provided by law for such filing or recording more than 30 days before such sale and the United States is not given notice of such sale in the manner prescribed in subsection (c)(1); or
 
@@ -573,9 +566,9 @@ Section applicable after Nov. 2, 1966, regardless of when title or lien of Unite
 ## § 7426. Civil actions by persons other than taxpayers
 **(a) Actions permitted**
 
-(1) **Wrongful levy** — If a levy has been made on property or property has been sold pursuant to a levy, and any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property and that such property was wrongfully levied upon may bring a civil action against the United States in a district court of the United States. Such action may be brought without regard to whether such property has been surrendered to or sold by the Secretary.
+(1) **Wrongful levy** — If a levy has been made on property or property has been sold pursuant to a levy, any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property and that such property was wrongfully levied upon may bring a civil action against the United States in a district court of the United States. Such action may be brought without regard to whether such property has been surrendered to or sold by the Secretary.
 
-(2) **Surplus proceed** — If property has been sold pursuant to a levy, any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property junior to that of the United States and to be legally entitled to the surplus proceeds of such sale may bring a civil action against the United States in a district court of the United States.
+(2) **Surplus proceeds** — If property has been sold pursuant to a levy, any person (other than the person against whom is assessed the tax out of which such levy arose) who claims an interest in or lien on such property junior to that of the United States and to be legally entitled to the surplus proceeds of such sale may bring a civil action against the United States in a district court of the United States.
 
 (3) **Substituted sale proceeds** — If property has been sold pursuant to an agreement described in section 6325(b)(3) (relating to substitution of proceeds of sale), any person who claims to be legally entitled to all or any part of the amount held as a fund pursuant to such agreement may bring a civil action against the United States in a district court of the United States.
 
@@ -614,7 +607,7 @@ Section applicable after Nov. 2, 1966, regardless of when title or lien of Unite
 
 **(g) Interest** Interest shall be allowed at the overpayment rate established under section 6621—
 
-(1) In the case of a judgment pursuant to subsection (b)(2)(B), from the date the Secretary receives the money wrongfully levied upon to the date of payment of such judgment;
+(1) in the case of a judgment pursuant to subsection (b)(2)(B), from the date the Secretary receives the money wrongfully levied upon to the date of payment of such judgment;
 
 (2) in the case of a judgment pursuant to subsection (b)(2)(C), from the date of the sale of the property wrongfully levied upon to the date of payment of such judgment; and
 
@@ -731,7 +724,7 @@ upon the filing of an appropriate pleading, the United States Tax Court, the Uni
 
     (ii) a judgment of the district court of the United States for the District of Columbia has been entered, or
 
-    (iii) a judgment of the Court of Federal Claims, has been entered,
+    (iii) a judgment of the Court of Federal Claims has been entered,
     and such decision or judgment, as the case may be, determines that the organization was not described in section 170(c)(2),
   then, notwithstanding such decision or judgment, such organization shall be treated as having been described in section 170(c)(2) for purposes of section 170 for the period beginning on the date on which the notice of the revocation was published and ending on the date on which the court first determined in such proceeding that the organization was not described in section 170(c)(2).
 
@@ -751,15 +744,17 @@ upon the filing of an appropriate pleading, the United States Tax Court, the Uni
 A prior section 7428 was renumbered 7437 of this title.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141, § 401(a)(325)(B), substituted “or the Court of Federal Claims” for “or the Claims Court” in concluding provisions.
+
+Pub. L. 115–141, § 401(a)(325)(A), substituted “United States Court of Federal Claims” for “United States Claims Court” in concluding provisions.
+
+Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 115–141, § 401(a)(325)(B), substituted “Court of Federal Claims” for “Claims Court”.
+
 2015—Subsec. (a)(1)(E). Pub. L. 114–113 added subpar. (E).
 
 2006—Subsec. (b)(4). Pub. L. 109–280, which directed addition of par. (4) at the end of section 7428(b), without specifying the act to be amended, was executed by making the addition at the end of subsec. (b) of this section, which is section 7428 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 2004—Subsec. (a)(1)(D). Pub. L. 108–357 added subpar. (D).
-
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court” in concluding provisions.
-
-Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 102–572, § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
 1984—Subsec. (d). Pub. L. 98–369 added subsec. (d).
 
@@ -775,9 +770,6 @@ Amendment by Pub. L. 109–280 applicable to notices and returns with respect to
 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–357, title III, § 317(b), Oct. 22, 2004, 118 Stat. 1470, provided that: “The amendments made by this section [amending this section] shall apply with respect to pleadings filed after the date of the enactment of this Act [Oct. 22, 2004].”
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 applicable with respect to inquiries and examinations beginning after Dec. 31, 1984, see section 1033(d) of Pub. L. 98–369, set out as an Effective Date note under [section 7611 of this title](./chapter-078-discovery-of-liability-and-enforcement-of-title.md#section-7611).
@@ -937,7 +929,7 @@ Section applicable with respect to action taken under section 6851, 6861, or 686
     (ii) the reasonable cost of any study, analysis, engineering report, test, or project which is found by the court to be necessary for the preparation of the party’s case, and
 
     (iii) reasonable fees paid or incurred for the services of attorneys in connection with the court proceeding, except that such fees shall not be in excess of $125 per hour unless the court determines that a special factor, such as the limited availability of qualified attorneys for such proceeding, the difficulty of the issues presented in the case, or the local availability of tax expertise, justifies a higher rate.
-  In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
+  In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1995” for “calendar year 2016” in subparagraph (A)(ii) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
 (2) **Reasonable administrative costs** — The term “reasonable administrative costs” means—
 
@@ -1074,6 +1066,10 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 7430 was renumbered [section 7437 of this title](./chapter-076-judicial-proceedings.md#section-7437).
 
 #### Amendments
+2018—Subsec. (c)(6). Pub. L. 115–141 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+2017—Subsec. (c)(1). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)” in concluding provisions.
+
 2000—Subsec. (c)(3). Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)(A)], substituted “Attorneys’ ” for “Attorneys” in heading.
 
 Subsec. (c)(3)(B). Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)(B)], substituted “attorneys’ fees” for “attorneys fees” wherever appearing.
@@ -1126,8 +1122,6 @@ Subsec. (c)(4)(C). Pub. L. 104–168, § 701(c)(2), substituted “Any determina
 
 Pub. L. 104–168, § 701(b), redesignated subpar. (B) as (C).
 
-1992—Subsec. (c)(6). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
-
 1988—Pub. L. 100–647, § 6239(a), substituted “costs” for “court costs” in section catchline and amended text generally, revising and restating provisions so as to include costs and fees in administrative proceedings.
 
 Subsec. (c)(2)(A)(iii). Pub. L. 100–647, § 1015(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “meets the requirements of [section 504(b)(1)(B) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504/b/1/B&num=0&edition=prelim), United States Code (as in effect on the date of the enactment of the Tax Reform Act of 1986 and applied by taking into account the commencement of the proceeding described in subsection (a) in lieu of the initiation of the adjudication referred to in such section).”
@@ -1154,6 +1148,9 @@ Subsec. (f). Pub. L. 99–514, § 1551(g), struck out subsec. (f), termination, 
 
 1984—Subsec. (a)(2). Pub. L. 98–369 inserted reference to United States Claims Court.
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title III, § 3101(g), July 22, 1998, 112 Stat. 729, provided that: “The amendments made by this section [amending this section and [section 7431 of this title](./chapter-076-judicial-proceedings.md#section-7431)] shall apply to costs incurred (and, in the case of the amendment made by subsection (c) [amending this section], services performed) more than 180 days after the date of the enactment of this Act [July 22, 1998].”
 
@@ -1172,9 +1169,6 @@ Pub. L. 104–168, title VII, § 702(b), July 30, 1996, 110 Stat. 1464, provided
 Pub. L. 104–168, title VII, § 703(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
 
 Pub. L. 104–168, title VII, § 704(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date of 1988 Amendment
 Amendment by section 1015(i) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -2128,9 +2122,9 @@ Pub. L. 95–472, § 2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 9
 
 (4) The term “judge’s salary” means the salary of a judge received under section 7443(c), retired pay received under section 7447(d), and compensation (in lieu of retired pay) received under section 7447(c).
 
-(5) The term “special trial judge” means a judicial officer appointed pursuant to section 7443A, including any individual receiving an annuity under chapter 83 or 84 of title 5, United States Code, whether or not performing judicial duties under section 7443B.11 See References in Text note below.
+(5) The term “special trial judge” means a judicial officer appointed pursuant to section 7443A, including any individual receiving an annuity under chapter 83 or 84 of title 5, United States Code.
 
-(6) The term “special trial judge’s salary” means the salary of a special trial judge received under section 7443A(d), any amount received as an annuity under chapter 83 or 84 of title 5, United States Code, and compensation received under section 7443B.1
+(6) The term “special trial judge’s salary” means the salary of a special trial judge received under section 7443A(d), any amount received as an annuity under chapter 83 or 84 of title 5, United States Code.
 
 (7) The term “survivors annuity fund” means the Tax Court judges survivors annuity fund established by this section.
 
@@ -2172,7 +2166,7 @@ Pub. L. 95–472, § 2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 9
 
   (D) *Amounts not credited to individual accounts* — Amounts appropriated pursuant to this paragraph shall not be credited to the account of any individual for purposes of subsection (g).
 
-**(d) Deposits in survivors annuity fund** Each judge or special trial judge electing under subsection (b) shall deposit, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the credit of the survivors annuity fund, a sum equal to 3.5 percent of his judge’s or special trial judge’s salary and of his basic salary, pay, or compensation for service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, and for any other civilian service within the purview of [section 8332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim) of the United States Code. Each such judge or special trial judge may elect to make such deposits in installments during the continuance of his service as a judge or special trial judge in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge or special trial judge to make such deposit, credit shall be allowed for the service rendered, but the annuity of the surviving spouse of such judge or special trial judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge or special trial judge, unless such surviving spouse shall elect to eliminate such service entirely from credit under subsection (n), except that no deposit shall be required from a judge or special trial judge for any year with respect to which deductions from his salary were actually made under the civil service retirement laws and no deposit shall be required for any honorable service in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States.
+**(d) Deposits in survivors annuity fund** Each judge or special trial judge electing under subsection (b) shall deposit, with interest at 3 percent per annum, compounded on December 31 of each year, to the credit of the survivors annuity fund, a sum equal to 3.5 percent of his judge’s or special trial judge’s salary and of his basic salary, pay, or compensation for service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, and for any other civilian service within the purview of [section 8332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim) of the United States Code. Each such judge or special trial judge may elect to make such deposits in installments during the continuance of his service as a judge or special trial judge in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge or special trial judge to make such deposit, credit shall be allowed for the service rendered, but the annuity of the surviving spouse of such judge or special trial judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge or special trial judge, unless such surviving spouse shall elect to eliminate such service entirely from credit under subsection (n), except that no deposit shall be required from a judge or special trial judge for any year with respect to which deductions from his salary were actually made under the civil service retirement laws and no deposit shall be required for any honorable service in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States.
 
 **(e) Investment of survivors annuity fund** The Secretary of the Treasury shall invest from time to time, in interest-bearing securities of the United States or Federal farm loan bonds, such portions of the survivors annuity fund as in his judgment may not be immediately required for the payment of the annuities, refunds, and allowances as provided in this section. The income derived from such investments shall constitute a part of said fund for the purpose of paying annuities and of carrying out the provisions of subsections (g), (h), and (j).
 
@@ -2203,7 +2197,7 @@ The annuity payable to a surviving spouse under this subsection shall be termina
 
 (1) In any case in which—
 
-  (A) a judge or special trial judge electing under subsection (b) shall die while in office (whether in regular active service, retired from such service under section 7447, or receiving any annuity under chapter 83 or 84 of title 5, United States Code,),22 So in original. before having rendered 5 years of civilian service computed as prescribed in subsection (n), or after having rendered 5 years of such civilian service but without a survivor or survivors entitled to annuity benefits provided by subsection (h), or
+  (A) a judge or special trial judge electing under subsection (b) shall die while in office (whether in regular active service, retired from such service under section 7447, or receiving any annuity under chapter 83 or 84 of title 5, United States Code), before having rendered 5 years of civilian service computed as prescribed in subsection (n), or after having rendered 5 years of such civilian service but without a survivor or survivors entitled to annuity benefits provided by subsection (h), or
 
   (B) the right of all persons entitled to annuity under subsection (h) based on the service of such judge or special trial judge shall terminate before a valid claim therefor shall have been established,
   the total amount credited to the individual account of such judge or special trial judge, with interest at 3 percent per annum, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, shall be paid, upon the establishment of a valid claim therefor, to the person or persons surviving at the date title to the payment arises, in the following order of precedence, and such payment shall be a bar to recovery by any other person:
@@ -2212,7 +2206,7 @@ The annuity payable to a surviving spouse under this subsection shall be termina
 
   (ii) if there be no such beneficiary, to the surviving spouse of such judge or special trial judge;
 
-  (iii) if none of the above, to the child or children of such judge or special trial judge and the descendents of any deceased children by representation;
+  (iii) if none of the above, to the child or children of such judge or special trial judge and the descendants of any deceased children by representation;
 
   (iv) if none of the above, to the parents of such judge or special trial judge or the survivor of them;
 
@@ -2233,7 +2227,7 @@ The annuity payable to a surviving spouse under this subsection shall be termina
 
 **(l) Method of payment of annuities** Annuities granted under the terms of this section shall accrue monthly and shall be due and payable in monthly installments on the first business day of the month following the month or other period for which the annuity shall have accrued. None of the moneys mentioned in this section shall be assignable, either in law or in equity, or subject to execution, levy, attachment, garnishment, or other legal process.
 
-**(m) Computation of annuities** The annuity of the surviving spouse of a judge or special trial judge electing under subsection (b) shall be an amount equal to the sum of (1) 1.5 percent of the average annual salary (whether judge’s or special trial judge’s salary or compensation for other allowable service) received by such judge or special trial judge for judicial service (including periods in which he received retired pay under section 7447(d) or any annuity under chapter 83 or 84 of title 5, United States Code) or for any other prior allowable service during the period of 3 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service, his years of prior allowable service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of prior allowable service performed as a member of the Armed Forces of the United States, and his years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in [section 2107 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2107&num=0&edition=prelim) of the United States Code,33 So in original. A closing parenthesis probably should precede the comma. and (2) three-fourths of 1 percent of such average annual salary multiplied by his years of any other prior allowable service, except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable). In determining the period of 3 consecutive years referred to in the preceding sentence, there may not be taken into account any period for which an election under section 7447(f)(4) is in effect.
+**(m) Computation of annuities** The annuity of the surviving spouse of a judge or special trial judge electing under subsection (b) shall be an amount equal to the sum of (1) 1.5 percent of the average annual salary (whether judge’s or special trial judge’s salary or compensation for other allowable service) received by such judge or special trial judge for judicial service (including periods in which he received retired pay under section 7447(d) or any annuity under chapter 83 or 84 of title 5, United States Code) or for any other prior allowable service during the period of 3 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service, his years of prior allowable service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of prior allowable service performed as a member of the Armed Forces of the United States, and his years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in [section 2107 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2107&num=0&edition=prelim) of the United States Code), and (2) three-fourths of 1 percent of such average annual salary multiplied by his years of any other prior allowable service, except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable). In determining the period of 3 consecutive years referred to in the preceding sentence, there may not be taken into account any period for which an election under section 7447(f)(4) is in effect.
 
 **(n) Includible service** Subject to the provisions of subsection (d), the years of service of a judge or special trial judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge or special trial judge of the Tax Court of the United States, and as a judge or special trial judge of the Tax Court, his years of service pursuant to any appointment under section 7443A, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of [section 8332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim) of the United States Code.
 
@@ -2252,11 +2246,19 @@ The annuity payable to a surviving spouse under this subsection shall be termina
 ### Statutory Notes
 
 #### References in Text
-Section 7443B, referred to in subsec. (a)(5), (6), was repealed by Pub. L. 110–458, title I, § 108(l), Dec. 23, 2008, 122 Stat. 5110.
-
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
 #### Amendments
+2018—Subsec. (a)(5). Pub. L. 115–141, § 401(b)(51), struck out “, whether or not performing judicial duties under section 7443B” after “United States Code”.
+
+Subsec. (a)(6). Pub. L. 115–141, § 401(b)(52), struck out “, and compensation received under section 7443B” after “United States Code”.
+
+Subsec. (d). Pub. L. 115–141, § 401(b)(53), substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
+
+Subsec. (j)(1)(A). Pub. L. 115–141, § 401(a)(327), substituted “Code),” for “Code,),”.
+
+Subsec. (m). Pub. L. 115–141, § 401(a)(328), substituted “Code), and” for “Code, and”.
+
 2014—Subsec. (a)(2). Pub. L. 113–295, § 221(a)(116)(A), struck out “or under section 1106 of the Internal Revenue Code of 1939” after “under section 7447” and “or pursuant to section 1106(d) of the Internal Revenue Code of 1939” after “pursuant to section 7447(c)”.
 
 Subsec. (g). Pub. L. 113–295, § 221(a)(116)(B), (C), struck out “or other than pursuant to section 1106 of the Internal Revenue Code of 1939” after “other than pursuant to the provisions of section 7447” and substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
@@ -2389,6 +2391,9 @@ Pub. L. 92–41, § 4(c)(2), July 1, 1971, 85 Stat. 99, provided that: “The am
 #### Effective Date of 1969 Amendment
 Amendment by Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub. L. 91–172, set out as a note under [section 7441 of this title](./chapter-076-judicial-proceedings.md#section-7441).
 
+#### Savings Provision
+For provisions that nothing in amendment by section 401(b)(51)–(53) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -2401,7 +2406,7 @@ Pub. L. 97–362, title I, § 105(c), Oct. 25, 1982, 96 Stat. 1729, as amended b
 <a id="section-7451"></a>
 ## § 7451. Fee for filing petition
 
-The tax court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
+The Tax Court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
 
 ### Statutory Notes
 
@@ -2420,7 +2425,7 @@ The tax court is authorized to impose a fee in an amount not in excess of $60 to
 Pub. L. 109–280, title VIII, § 859(b), Aug. 17, 2006, 120 Stat. 1020, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006].”
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1981 Amendment
 Pub. L. 97–34, title VII, § 751(b), Aug. 13, 1981, 95 Stat. 349, provided that: “The amendment made by this section [amending this section] shall apply to petitions filed after December 31, 1981.”
@@ -2479,13 +2484,15 @@ Authority of Tax Court to prescribe rules under this section unaffected by amend
 ## § 7454. Burden of proof in fraud, foundation man­ager, and transferee cases
 **(a) Fraud** In any proceeding involving the issue whether the petitioner has been guilty of fraud with intent to evade tax, the burden of proof in respect of such issue shall be upon the Secretary.
 
-**(b) Foundation managers** In any proceeding involving the issue whether a foundation manager (as defined in section 4946(b)) has “knowingly” participated in an act of self-dealing (within the meaning of section 4941), participated in an investment which jeopardizes the carrying out of exempt purposes (within the meaning of section 4944), or agreed to the making of a taxable expenditure (within the meaning of section 4945), or whether the trustee of a trust described in section 501(c)(21) has “knowingly” participated in an act of self-dealing (within the meaning of section 4951) or agreed to the making of a taxable expenditure (within the meaning of section 4952), or whether an organization manager (as defined in section 4955(f)(2)) has “knowingly” agreed to the making of a political expenditure (within the meaning of section 4955),,11 So in original. or whether an organization manager (as defined in section 4912(d)(2)) has “knowingly” agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), or whether an organization manager (as defined in section 4958(f)(2)) has “knowingly” participated in an excess benefit transaction (as defined in section 4958(c)), the burden of proof in respect of such issue shall be upon the Secretary.
+**(b) Foundation managers** In any proceeding involving the issue whether a foundation manager (as defined in section 4946(b)) has “knowingly” participated in an act of self-dealing (within the meaning of section 4941), participated in an investment which jeopardizes the carrying out of exempt purposes (within the meaning of section 4944), or agreed to the making of a taxable expenditure (within the meaning of section 4945), or whether the trustee of a trust described in section 501(c)(21) has “knowingly” participated in an act of self-dealing (within the meaning of section 4951) or agreed to the making of a taxable expenditure (within the meaning of section 4952), or whether an organization manager (as defined in section 4955(f)(2)) has “knowingly” agreed to the making of a political expenditure (within the meaning of section 4955), or whether an organization manager (as defined in section 4912(d)(2)) has “knowingly” agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), or whether an organization manager (as defined in section 4958(f)(2)) has “knowingly” participated in an excess benefit transaction (as defined in section 4958(c)), the burden of proof in respect of such issue shall be upon the Secretary.
 
 **(c) Cross reference** For provisions relating to burden of proof as to transferee liability, see section 6902(a).
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–141 substituted “4955),” for “4955),,”.
+
 1996—Subsec. (b). Pub. L. 104–188 substituted “section 4955(f)(2)” for “section 4955(e)(2)”.
 
 Pub. L. 104–168 inserted “or whether an organization manager (as defined in section 4958(f)(2)) has ‘knowingly’ participated in an excess benefit transaction (as defined in section 4958(c)),” after “section 4912(b),”.
@@ -2607,7 +2614,7 @@ Pub. L. 98–369, div. A, title IV, § 463(b), July 18, 1984, 98 Stat. 824, prov
 Pub. L. 98–369, div. A, title IV, § 464(e)(1), July 18, 1984, 98 Stat. 825, provided that: “The amendments made by this section [amending this section and [section 7471 of this title](./chapter-076-judicial-proceedings.md#section-7471) and enacting provisions set out below] shall take effect on the date of the enactment of this Act [July 18, 1984].”
 
 #### Effective Date of 1982 Amendments
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
@@ -2665,7 +2672,7 @@ Notice and opportunity to be heard upon any proceeding instituted before the Tax
 
 **(b) Inclusion of findings of fact or opinions in report** It shall be the duty of the Tax Court and of each division to include in its report upon any proceeding its findings of fact or opinion or memorandum opinion. The Tax Court shall report in writing all its findings of fact, opinions, and memorandum opinions. Subject to such conditions as the Tax Court may by rule provide, the requirements of this subsection and of section 7460 are met if findings of fact or opinion are stated orally and recorded in the transcript of the proceedings.
 
-**(c) Date of decision** A decision of the Tax Court (except a decision dismissing a proceeding for lack of jurisdiction) shall be held to be rendered upon the date that an order specifying the amount of the deficiency is entered in the records of the Tax Court or, in the case of a declaratory judgment proceeding under part IV of this subchapter or under section 7428 or in the case of an action brought under section 6226, 6228(a),11 See 1997 Amendment note below. 6247, or 6252, the date of the court’s order entering the decision. If the Tax Court dismisses a proceeding for reasons other than lack of jurisdiction and is unable from the record to determine the amount of the deficiency determined by the Secretary, or if the Tax Court dismisses a proceeding for lack of jurisdiction, an order to that effect shall be entered in the records of the Tax Court, and the decision of the Tax Court shall be held to be rendered upon the date of such entry.
+**(c) Date of decision** A decision of the Tax Court (except a decision dismissing a proceeding for lack of jurisdiction) shall be held to be rendered upon the date that an order specifying the amount of the deficiency is entered in the records of the Tax Court or, in the case of a declaratory judgment proceeding under part IV of this subchapter or under section 7428 or in the case of an action brought under section 6234, the date of the court’s order entering the decision. If the Tax Court dismisses a proceeding for reasons other than lack of jurisdiction and is unable from the record to determine the amount of the deficiency determined by the Secretary, or if the Tax Court dismisses a proceeding for lack of jurisdiction, an order to that effect shall be entered in the records of the Tax Court, and the decision of the Tax Court shall be held to be rendered upon the date of such entry.
 
 **(d) Effect of decision dismissing petition** If a petition for a redetermination of a deficiency has been filed by the taxpayer, a decision of the Tax Court dismissing the proceeding shall be considered as its decision that the deficiency is the amount determined by the Secretary. An order specifying such amount shall be entered in the records of the Tax Court unless the Tax Court cannot determine such amount from the record in the proceeding, or unless the dismissal is for lack of jurisdiction.
 
@@ -2676,9 +2683,6 @@ Notice and opportunity to be heard upon any proceeding instituted before the Tax
 **(g) Penalty** For penalty for taxpayer instituting proceedings before Tax Court merely for delay, see section 6673.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 114–74, title XI, § 1101(f)(12), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c) of this section is amended by striking “section 6226” and all that follows through “or 6252” and inserting “section 6234”. See 2015 Amendment note below.
 
 #### References in Text
 The Revenue Act of 1926, referred to in subsec. (f), is act Feb. 26, 1926, ch. 27, 44 Stat. 9. For complete classification of this Act to the Code, see Tables.
@@ -2701,15 +2705,15 @@ Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate�
 1974—Subsec. (c). Pub. L. 93–406 inserted “or, in the case of a declaratory judgment proceeding under part IV of this subchapter, the date of the court’s order entering the decision” after “deficiency is entered in the records of the Tax Court”.
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 1222(b)(2) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
 
-Amendment by section 1239(e)(1) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6225 of this title](./chapter-063-assessment.md#section-6225).
+Amendment by section 1239(e)(1) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6501 of this title](./chapter-066-limitations.md#section-6501).
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1976 Amendment
 Amendment by section 1306(b)(2) of Pub. L. 94–455 applicable with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976 but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as an Effective Date note under [section 7428 of this title](./chapter-076-judicial-proceedings.md#section-7428).
@@ -3351,14 +3355,16 @@ Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section
 
   (D) in the case of an organization seeking a declaratory decision under section 7428, the principal office or agency of the organization,
 
-  (E) in the case of a petition under section 6226, 6228(a), 6247, or 6252, the principal place of business of the partnership, or
+  (E) in the case of a petition under section 6234, the principal place of business of the partnership,
 
-  (F) 11 See Amendment of Subsection (b)(1) notes below. in the case of a petition under section 6234(c)—
+  (F) in the case of a petition under section 6015(e), the legal residence of the petitioner, or
 
-    (i) the legal residence of the petitioner if the petitioner is not a corporation, and
+  (G) in the case of a petition under section 6320 or 6330—
 
-    (ii) the place or office applicable under subparagraph (B) if the petitioner is a corporation.
-  If for any reason no subparagraph of the preceding sentence applies, then such decisions may be reviewed by the Court of Appeals for the District of Columbia. For purposes of this paragraph, the legal residence, principal place of business, or principal office or agency referred to herein shall be determined as of the time the petition seeking redetermination of tax liability was filed with the Tax Court or as of the time the petition seeking a declaratory decision under section 7428 or 7476 or the petition under section 6226, 6228(a), or 6234(c), was filed with the Tax Court.
+    (i) the legal residence of the petitioner if the petitioner is an individual, and
+
+    (ii) the principal place of business or principal office or agency if the petitioner is an entity other than an individual.
+  If for any reason no subparagraph of the preceding sentence applies, then such decisions may be reviewed by the Court of Appeals for the District of Columbia. For purposes of this paragraph, the legal residence, principal place of business, or principal office or agency referred to herein shall be determined as of the time the petition seeking redetermination of tax liability was filed with the Tax Court or as of the time the petition seeking a declaratory decision under section 7428 or 7476, or the petition under section 6234, was filed with the Tax Court.
 
 (2) **By agreement** — Notwithstanding the provisions of paragraph (1), such decisions may be reviewed by any United States Court of Appeals which may be designated by the Secretary and the taxpayer by stipulation in writing.
 
@@ -3376,41 +3382,10 @@ Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(1)
-Pub. L. 114–74, title XI, § 1101(f)(13), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b)(1) of this section is amended as follows:
-
-(1) in subparagraph (E), by striking “section 6226, 6228, 6247, or 6252” and inserting “section 6234”;
-
-(2) by striking subparagraph (F), by striking “or” at the end of subparagraph (E) and inserting a period, and by inserting “or” at the end of subparagraph (D); and
-
-(3) in the last sentence, by striking “section 6226, 6228(a), or 6234(c)” and inserting “section 6234”.
-
-Pub. L. 114–113, div. Q, title IV, § 423, Dec. 18, 2015, 129 Stat. 3123, provided that, applicable to petitions filed after Dec. 18, 2015, subsection (b)(1) of this section (as amended by Pub. L. 114–74, see note above) is amended as follows:
-
-(1) by striking “or” at the end of subparagraph (D);
-
-(2) by striking the period at the end of subparagraph (E); and
-
-(3) by inserting after subparagraph (E) the following new subparagraphs:
-
-(F) in the case of a petition under section 6015(e), the legal residence of the petitioner, or
-
-(G) in the case of a petition under section 6320 or 6330—
-
-(i) the legal residence of the petitioner if the petitioner is an individual, and
-
-(ii) the principal place of business or principal office or agency if the petitioner is an entity other than an individual.
-
-See 2015 Amendment notes below.
-
 #### Amendments
 2015—Subsec. (b)(1). Pub. L. 114–74, § 1101(f)(13)(C), substituted “section 6234” for “section 6226, 6228(a), or 6234(c)” in concluding provisions.
 
-Subsec. (b)(1)(D). Pub. L. 114–74, § 1101(f)(13)(B), inserted “or” at end.
-
-Subsec. (b)(1)(E). Pub. L. 114–74, § 1101(f)(13)(B), substituted period for “or” after “partnership,”.
-
-Pub. L. 114–74, § 1101(f)(13)(A), which directed amendment of subpar. (E) by substituting “section 6234” for “section 6226, 6228, 6247, or 6252”, was executed by making the substitution for “section 6226, 6228(a), 6247, or 6252” to reflect the probable intent of Congress.
+Subsec. (b)(1)(E). Pub. L. 114–74, § 1101(f)(13)(A), which directed amendment of subpar. (E) by substituting “section 6234” for “section 6226, 6228, 6247, or 6252”, was executed by making the substitution for “section 6226, 6228(a), 6247, or 6252” to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(F). Pub. L. 114–113, § 423(a), added subpar. (F).
 
@@ -3465,12 +3440,12 @@ Subsec. (b)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delega
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title IV, § 423(b), Dec. 18, 2015, 129 Stat. 3124, provided that: “(1) In general.—The amendments made by this section [amending this section] shall apply to petitions filed after the date of enactment of this Act [Dec. 18, 2015]. “(2) Effect on existing proceedings.—Nothing in this section shall be construed to create any inference with respect to the application of section 7482 of the Internal Revenue Code of 1986 with respect to court proceedings filed on or before the date of the enactment of this Act.”
 
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 1222(b)(3) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
 
-Amendment by section 1239(d) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6225 of this title](./chapter-063-assessment.md#section-6225).
+Amendment by section 1239(d) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6501 of this title](./chapter-066-limitations.md#section-6501).
 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–239 applicable to positions taken after Dec. 31, 1989, in proceedings which are pending on, or commenced after such date, see section 7731(d) of Pub. L. 101–239, set out as a note under [section 6673 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6673).
@@ -3486,8 +3461,8 @@ Amendment by section 1810(g)(2) of Pub. L. 99–514 effective, except as otherwi
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984, see section 131(g) of Pub. L. 98–369, set out as a note under [section 367 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-367).
 
-#### Effective Date of 1982 Amendments
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+#### Effective Date of 1982 Amendment
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
@@ -3543,7 +3518,7 @@ When the incumbent of the office of Secretary changes, no substitution of the na
 (2) has filed a jeopardy bond under the income or estate tax laws.
 If as a result of a waiver of the restrictions on the assessment and collection of a deficiency any part of the amount determined by the Tax Court is paid after the filing of the appeal bond, such bond shall, at the request of the taxpayer, be proportionately reduced.
 
-**(b) Bond in case of appeal of certain partnership-related decisions** The condition of subsection (a) shall be satisfied if a partner duly files notice of appeal from a decision under section 6226, 6228(a), 6247, or 6252 and on or before the time the notice of appeal is filed with the Tax Court, a bond in an amount fixed by the Tax Court is filed, and with surety approved by the Tax Court, conditioned upon the payment of deficiencies attributable to the partnership items to which that decision relates as finally determined, together with any interest, penalties, additional amounts, or additions to the tax provided by law. Unless otherwise stipulated by the parties, the amount fixed by the Tax Court shall be based upon its estimate of the aggregate liability of the parties to the action.
+**(b) Bond in case of appeal of certain partnership-related decisions** The condition of subsection (a) shall be satisfied if the partnership duly files notice of appeal from a decision under section 6234 and on or before the time the notice of appeal is filed with the Tax Court, a bond in an amount fixed by the Tax Court is filed, and with surety approved by the Tax Court, conditioned upon the payment of deficiencies attributable to the partnership-related items (as defined in section 6241) to which that decision relates as finally determined, together with any interest, penalties, additional amounts, or additions to the tax provided by law. Unless otherwise stipulated by the parties, the amount fixed by the Tax Court shall be based upon its estimate of the aggregate liability of the parties to the action.
 
 **(c) Cross references**
 
@@ -3553,10 +3528,9 @@ If as a result of a waiver of the restrictions on the assessment and collection 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)
-Pub. L. 114–74, title XI, § 1101(f)(14), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b) of this section is amended by striking “section 6226, 6228(a), 6247, or 6252” and inserting “section 6234”. See 2015 Amendment note below.
-
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–141 substituted “the partnership” for “a partner” and “partnership-related items (as defined in section 6241)” for “partnership items”.
+
 2015—Subsec. (b). Pub. L. 114–74 substituted “section 6234” for “section 6226, 6228(a), 6247, or 6252”.
 
 1997—Subsec. (b). Pub. L. 105–34, § 1222(b)(4)(B), amended heading generally. Prior to amendment, heading read as follows: “Bond in case of appeal of decision under section 6226 or section 6228(a)”.
@@ -3571,8 +3545,11 @@ Subsec. (c)(2). Pub. L. 97–258 substituted “[section 9303 of title 31](https
 
 1969—Subsec. (a). Pub. L. 91–172 substituted “notice of appeal” for “petition for review” and “appeal bond” for “review bond”.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
+
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 1222(b)(4) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
@@ -3580,7 +3557,7 @@ Amendment by section 1222(b)(4) of Pub. L. 105–34 applicable to partnership ta
 Pub. L. 105–34, title XII, § 1241(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 [Pub. L. 97–248].”
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1969 Amendment
 Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section 962(f) of Pub. L. 91–172, set out as a note under [section 7483 of this title](./chapter-076-judicial-proceedings.md#section-7483).

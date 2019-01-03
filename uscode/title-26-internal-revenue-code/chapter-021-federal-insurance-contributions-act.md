@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-3101"></a>
 ## § 3101. Rate of tax
-**(a) Old-age, survivors, and disability insurance** In addition to other taxes, there is hereby imposed on the income of every individual a tax equal to 6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to employment (as defined in section 3121(b)) 11 So in original. Probably should be followed by a period.
+**(a) Old-age, survivors, and disability insurance** In addition to other taxes, there is hereby imposed on the income of every individual a tax equal to 6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to employment (as defined in section 3121(b)).
 
 **(b) Hospital insurance**
 
@@ -30,6 +30,8 @@ source: >-
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to [section 433 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section433&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141 inserted period at end.
+
 2014—Subsec. (a). Pub. L. 113–295 substituted “6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to employment (as defined in section 3121(b))” for “the following percentages of the wages (as defined in section 3121(a)) received by him with respect to employment (as defined in section 3121(b))—” and table of rates.
 
 2010—Subsec. (b). Pub. L. 111–148, § 9015(a)(1), designated existing text as par. (1), inserted heading, substituted “1.45 percent of the” for “the following percentages of the” and “(as defined in section 3121(b)).” for “(as defined in section 3121(b))—”, struck out former pars. (1) to (6), which related to rates in calendar years 1974 to 1985 and after Dec. 31, 1985, and added par. (2).
@@ -287,37 +289,7 @@ Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that: “
 
 **(c) Relief from taxes in cases covered by certain international agreements** During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-**(d) Special exemption for certain individuals hired in 2010**
-
-(1) **In general** — Subsection (a) shall not apply to wages paid by a qualified employer with respect to employment during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010, of any qualified individual for services performed—
-
-  (A) in a trade or business of such qualified employer, or
-
-  (B) in the case of a qualified employer exempt from tax under section 501(a), in furtherance of the activities related to the purpose or function constituting the basis of the employer’s exemption under section 501.
-
-(2) **Qualified employer** — For purposes of this subsection—
-
-  (A) *In general* — The term “qualified employer” means any employer other than the United States, any State, or any political subdivision thereof, or any instrumentality of the foregoing.
-
-  (B) *Treatment of employees of post-secondary educational institutions* — Notwithstanding subparagraph (A), the term “qualified employer” includes any employer which is a public institution of higher education (as defined in section 101(b) of the Higher Education Act of 1965).
-
-(3) **Qualified individual** — For purposes of this subsection, the term “qualified individual” means any individual who—
-
-  (A) begins employment with a qualified employer after February 3, 2010, and before January 1, 2011,
-
-  (B) certifies by signed affidavit, under penalties of perjury, that such individual has not been employed for more than 40 hours during the 60-day period ending on the date such individual begins such employment,
-
-  (C) is not employed by the qualified employer to replace another employee of such employer unless such other employee separated from employment voluntarily or for cause, and
-
-  (D) is not an individual described in section 51(i)(1) (applied by substituting “qualified employer” for “taxpayer” each place it appears).
-
-(4) **Election** — A qualified employer may elect to have this subsection not apply. Such election shall be made in such manner as the Secretary may require.
-
-(5) **Special rule for first calendar quarter of 2010**
-
-  (A) *Nonapplication of exemption during first quarter* — Paragraph (1) shall not apply with respect to wages paid during the first calendar quarter of 2010.
-
-  (B) *Crediting of first quarter exemption during second quarter* — The amount by which the tax imposed under subsection (a) would (but for subparagraph (A)) have been reduced with respect to wages paid by a qualified employer during the first calendar quarter of 2010 shall be treated as a payment against the tax imposed under subsection (a) with respect to the qualified employer for the second calendar quarter of 2010 which is made on the date that such tax is due.
+**(d) Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(34), Mar. 23, 2018, 132 Stat. 1204]**
 
 **(e) Credit for employment of qualified veterans**
 
@@ -339,7 +311,7 @@ Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that: “
 
   (A) the term “qualified tax-exempt organization” means an employer that is an organization described in section 501(c) and exempt from taxation under section 501(a), and
 
-  (B) the term “qualified veteran” has meaning 11 So in original. Probably should be preceded by “the”. given such term by section 51(d)(3).
+  (B) the term “qualified veteran” has the meaning given such term by section 51(d)(3).
 
 **(f) Credit for research expenditures of qualified small businesses**
 
@@ -356,11 +328,11 @@ Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that: “
 #### References in Text
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to [section 433 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section433&num=0&edition=prelim), The Public Health and Welfare.
 
-The date of the enactment of this subsection, referred to in subsec. (d)(1), is the date of the enactment of Pub. L. 111–147, which was approved Mar. 18, 2010.
-
-Section 101(b) of the Higher Education Act of 1965, referred to in subsec. (d)(2)(B), is classified to [section 1001(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/b&num=0&edition=prelim), Education.
-
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–141, § 401(b)(34), struck out subsec. (d) which provided for a special exemption for certain individuals hired in 2010.
+
+Subsec. (e)(5)(B). Pub. L. 115–141, § 401(a)(208), substituted “has the meaning” for “has meaning”.
+
 2015—Subsec. (f). Pub. L. 114–113 added subsec. (f).
 
 2014—Subsec. (a). Pub. L. 113–295, § 221(a)(99)(B)(i), substituted “6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—” and table of rates.
@@ -513,6 +485,9 @@ Amendment by Pub. L. 85–840 applicable with respect to remuneration paid after
 
 #### Effective Date of 1956 Amendment
 Amendment by act Aug. 1, 1956, applicable with respect to remuneration paid after Dec. 31, 1956, see section 202(d) of such act Aug. 1, 1956, set out as a note under [section 1401 of this title](./chapter-002-tax-on-self-employment-income.md#section-1401).
+
+#### Savings Provision
+For provisions that nothing in amendment by section 401(b)(34) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101).
@@ -679,7 +654,7 @@ Nothing in the regulations prescribed for purposes of chapter 24 (relating to in
 
       (IV) if an individual performing service described in subparagraph (A) returns to the performance of such service after performing service as a member of a uniformed service (including, for purposes of this clause, service in the National Guard and temporary service in the Coast Guard Reserve) and after exercising restoration or reemployment rights as provided under chapter 43 of title 38, United States Code, then the service so performed as a member of a uniformed service shall be considered service described in subparagraph (A), and
 
-      (V) if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 105(e)(2) 11 See References in Text note below. of the Indian Self-Determination Act applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
+      (V) if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 104(e)(2) of the Indian Self-Determination Act applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
 
     (ii) is receiving an annuity from the Civil Service Retirement and Disability Fund, or benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed service);
   except that this paragraph shall not apply with respect to any such service performed on or after any date on which such individual performs—
@@ -709,7 +684,7 @@ Nothing in the regulations prescribed for purposes of chapter 24 (relating to in
 
   (H) service performed by an individual—
 
-    (i) on or after the effective date of an election by such individual, under section 301 of the Federal Employees’ Retirement System Act of 1986, section 307 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2157](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2157&num=0&edition=prelim)), or the Federal Employees’ Retirement System Open Enrollment Act of 1997 22 So in original. Probably should be followed by a comma. to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5, United States Code, or
+    (i) on or after the effective date of an election by such individual, under section 301 of the Federal Employees’ Retirement System Act of 1986, section 307 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2157](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2157&num=0&edition=prelim)), or the Federal Employees’ Retirement System Open Enrollment Act of 1997, to become subject to the Federal Employees’ Retirement System provided in chapter 84 of title 5, United States Code, or
 
     (ii) on or after the effective date of an election by such individual, under regulations issued under section 860 of the Foreign Service Act of 1980, to become subject to the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of such Act;
 
@@ -818,13 +793,15 @@ Nothing in the regulations prescribed for purposes of chapter 24 (relating to in
   (B) such individual receives a share of the boat’s (or the boats’ in the case of a fishing operation involving more than one boat) catch of fish or other forms of aquatic animal life or a share of the proceeds from the sale of such catch, and
 
   (C) the amount of such individual’s share depends on the amount of the boat’s (or the boats’ in the case of a fishing operation involving more than one boat) catch of fish or other forms of aquatic animal life,
-  but only if the operating crew of such boat (or each boat from which the individual receives a share in the case of a fishing operation involving more than one boat) is normally made up of fewer than 10 individuals; or
+  but only if the operating crew of such boat (or each boat from which the individual receives a share in the case of a fishing operation involving more than one boat) is normally made up of fewer than 10 individuals;
 
 (21) domestic service in a private home of the employer which—
 
   (A) is performed in any year by an individual under the age of 18 during any portion of such year; and
 
-  (B) is not the principal occupation of such employee.
+  (B) is not the principal occupation of such employee; or
+
+(22) service performed by members of Indian tribal councils as tribal council members in the employ of an Indian tribal government, except that this paragraph shall not apply in the case of service included under an agreement under section 218A of the Social Security Act.
 For purposes of paragraph (20), the operating crew of a boat shall be treated as normally made up of fewer than 10 individuals if the average size of the operating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.
 
 **(c) Included and excluded service** For purposes of this chapter, if the services performed during one-half or more of any pay period by an employee for the person employing him constitute employment, all the services of such employee for such period shall be deemed to be employment; but if the services performed during more than one-half of any such pay period by an employee for the person employing him do not constitute employment, then none of the services of such employee for such period shall be deemed to be employment. As used in this subsection, the term “pay period” means a period (of not more than 31 consecutive days) for which a payment of remuneration is ordinarily made to the employee by the person employing him. This subsection shall not be applicable with respect to services performed in a pay period by an employee for the person employing him, where any of such service is excepted by subsection (b)(9).
@@ -846,7 +823,7 @@ For purposes of paragraph (20), the operating crew of a boat shall be treated as
   (D) as a traveling or city salesman, other than as an agent-driver or commission-driver, engaged upon a full-time basis in the solicitation on behalf of, and the transmission to, his principal (except for side-line sales activities on behalf of some other person) of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar establishments for merchandise for resale or supplies for use in their business operations;
   if the contract of service contemplates that substantially all of such services are to be performed personally by such individual; except that an individual shall not be included in the term “employee” under the provisions of this paragraph if such individual has a substantial investment in facilities used in connection with the performance of such services (other than in facilities for transportation), or if the services are in the nature of a single transaction not part of a continuing relationship with the person for whom the services are performed; or
 
-(4) any individual who performs services that are included under an agreement entered into pursuant to section 218 of the Social Security Act.
+(4) any individual who performs services that are included under an agreement entered into pursuant to section 218 or 218A of the Social Security Act.
 
 **(e) State, United States, and citizen** For purposes of this chapter—
 
@@ -1188,11 +1165,11 @@ The term does not include a temporary member of the Coast Guard Reserve.
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(1), (15), (b), (d)(4), (j)(2)(D), (4)(B), (l)(1), (4), (6), (r)(3)(A), (u), (w)(1), and (x), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 201, 210, 215, 218, 223, 230, and 233 of the Act are classified to sections 401, 410, 415, 418, 423, 430, and 433, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (15), (b), (d)(4), (j)(2)(D), (4)(B), (l)(1), (4), (6), (r)(3)(A), (u), (w)(1), and (x), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 201, 210, 215, 218, 218A, 223, 230, and 233 of the Act are classified to sections 401, 410, 415, 418, 418a, 423, 430, and 433, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(5)(F), is classified to [section 1002(2)(B)(ii) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/2/B/ii&num=0&edition=prelim), Labor.
 
-Section 105(e)(2) of the Indian Self-Determination Act, referred to in subsec. (b)(5)(B)(i)(V), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, § 203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act is classified to [section 5323(e)(2) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5323/e/2&num=0&edition=prelim), Indians. Section 105 of that Act is classified to [section 5324 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324&num=0&edition=prelim).
+Section 104(e)(2) of the Indian Self-Determination Act, referred to in subsec. (b)(5)(B)(i)(V), is classified to [section 5323(e)(2) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5323/e/2&num=0&edition=prelim), Indians.
 
 Level V of the Executive Schedule, referred to in subsec. (b)(5)(D)(iii), is set out in [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1216,6 +1193,16 @@ The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act Jun
 For information regarding constitutionality of certain provisions of section 3121 of act Aug. 16, 1954, as amended by section 101(b)(1) of Pub. L. 98–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+2018—Subsec. (b)(5)(B)(i)(V). Pub. L. 115–141, § 401(a)(209), substituted “section 104(e)(2)” for “section 105(e)(2)”.
+
+Subsec. (b)(5)(E). Pub. L. 115–141, § 401(a)(325)(A), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+Subsec. (b)(5)(H)(i). Pub. L. 115–141, § 401(a)(210), inserted comma after “1997”.
+
+Subsec. (b)(22). Pub. L. 115–243, § 2(b)(2)(A), added par. (22).
+
+Subsec. (d)(4). Pub. L. 115–243, § 2(b)(2)(B), inserted “or 218A” after “section 218”.
+
 2014—Subsec. (a)(17). Pub. L. 113–295, § 221(a)(19)(B)(iv), struck out par. (17) which read as follows: “any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);”.
 
 Subsec. (b)(17). Pub. L. 113–295, § 221(a)(99)(C)(i), struck out par. (17) which read as follows: “service in the employ of any organization which is performed (A) in any year during any part of which such organization is registered, or there is in effect a final order of the Subversive Activities Control Board requiring such organization to register, under the Internal Security Act of 1950, as amended, as a Communist-action organization, a Communist-front organization, or a Communist-infiltrated organization, and (B) after June 30, 1956;”.
@@ -1298,9 +1285,7 @@ Subsec. (b)(5)(H)(i). Pub. L. 103–178 substituted “section 307 of the Centra
 
 Subsec. (x). Pub. L. 103–66, § 13207(a)(2), struck out subsec. (x) which defined parameters of the applicable contribution base for purposes of this chapter.
 
-1992—Subsec. (b)(5)(E). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
-
-Subsec. (v)(1)(A). Pub. L. 102–318 substituted “402(e)(3)” for “402(a)(8)”.
+1992—Subsec. (v)(1)(A). Pub. L. 102–318 substituted “402(e)(3)” for “402(a)(8)”.
 
 1990—Subsec. (a)(1). Pub. L. 101–508, § 11331(a)(1), substituted “applicable contribution base (as determined under subsection (x))” for “contribution and benefit base (as determined under section 230 of the Social Security Act)” wherever appearing and “such applicable contribution base” for “such contribution and benefit base”.
 
@@ -1805,9 +1790,7 @@ Amendment by section 320(a)(1)(C) of Pub. L. 103–296 effective with calendar q
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–66 applicable to 1994 and later calendar years, see section 13207(e) of Pub. L. 103–66, set out as a note under [section 1402 of this title](./chapter-002-tax-on-self-employment-income.md#section-1402).
 
-#### Effective Date of 1992 Amendments
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
-
+#### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402).
 
 #### Effective Date of 1990 Amendment
@@ -2030,6 +2013,9 @@ Pub. L. 97–123, § 3(d), Dec. 29, 1981, 95 Stat. 1662, as amended by Pub. L. 9
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 Section 202(a)(1), (2) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under [section 2515 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2515&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+#### Construction of 2018 Amendment
+Pub. L. 115–243, § 2(c), Sept. 20, 2018, 132 Stat. 2895, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim), The Public Health and Welfare] or the amendments made by this Act shall be construed to affect application of any Federal income tax withholding requirements under the Internal Revenue Code of 1986.”
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -2365,7 +2351,7 @@ such employer shall be exempt from the taxes imposed by section 3111 with respec
 
 (2) the Commissioner of Social Security makes the findings (with respect to such sect or division) described in section 1402(g)(1)(C), (D), and (E), and
 
-(3) no benefit or other payment referred to in section 1402(g)(1)(B) became payable (or, but for section 203 or 222(b) 11 See References in Text note below. of the Social Security Act, would have become payable) to the individual filing the application at or before the time of such filing.
+(3) no benefit or other payment referred to in section 1402(g)(1)(B) became payable (or, but for section 203 of the Social Security Act, would have become payable) to the individual filing the application at or before the time of such filing.
 
 **(c) Effective period of exemption** An exemption granted under this section to any employer with respect to wages paid to any of the employees thereof, or granted to any such employee, shall apply with respect to wages paid by such employer during the period—
 
@@ -2376,12 +2362,14 @@ such employer shall be exempt from the taxes imposed by section 3111 with respec
 ### Statutory Notes
 
 #### References in Text
-Sections 203 and 222(b) of the Social Security Act, referred to in subsec. (b)(3), are classified to sections 403 and 422(b), respectively, of Title 42, The Public Health and Welfare. Section 222(b) was repealed by Pub. L. 106–170, title I, § 101(b)(1)(C), Dec. 17, 1999, 113 Stat. 1873.
+Section 203 of the Social Security Act, referred to in subsec. (b)(3), is classified to [section 403 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Prior Provisions
 A prior section 3127 was renumbered [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128).
 
 #### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–141 struck out “or 222(b)” after “section 203”.
+
 1994—Subsecs. (b)(2), (c)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
 1989—Subsec. (a). Pub. L. 101–239, § 10204(b)(1)(B), substituted “the employees thereof” for “his employees” in concluding provisions.
@@ -2404,6 +2392,9 @@ Pub. L. 101–239, title X, § 10204(b)(2), Dec. 19, 1989, 103 Stat. 2474, provi
 
 #### Effective Date
 Section applicable to wages paid after Dec. 31, 1988, see section 8007(d) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under [section 1402 of this title](./chapter-002-tax-on-self-employment-income.md#section-1402).
+
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 
 <a id="section-3128"></a>

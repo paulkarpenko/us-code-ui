@@ -2,7 +2,7 @@
 title: 49
 chapter: '475'
 heading: NOISE
-section_count: 24
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -34,6 +34,9 @@ In this section, the words “the term” are omitted as surplus.
 In clause (1), the text of 49 App.:2101(3) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
 
 In clause (2), the word “valid” is omitted as surplus.
+
+#### Addressing Community Noise Concerns
+Pub. L. 115–254, div. B, title I, § 175, Oct. 5, 2018, 132 Stat. 3228, provided that: “When proposing a new area navigation departure procedure, or amending an existing procedure that would direct aircraft between the surface and 6,000 feet above ground level over noise sensitive areas, the Administrator of the Federal Aviation Administration shall consider the feasibility of dispersal headings or other lateral track variations to address community noise concerns, if— “(1) the affected airport operator, in consultation with the affected community, submits a request to the Administrator for such a consideration; “(2) the airport operator’s request would not, in the judgment of the Administrator, conflict with the safe and efficient operation of the national airspace system; and “(3) the effect of a modified departure procedure would not significantly increase noise over noise sensitive areas, as determined by the Administrator.”
 
 #### Aviation Noise Complaints
 Pub. L. 112–95, title V, § 510, Feb. 14, 2012, 126 Stat. 107, provided that: “Not later than 90 days after the date of enactment of this Act [Feb. 14, 2012], each owner or operator of a large hub airport (as defined in [section 40102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim), United States Code) shall publish on an Internet Web site of the airport a telephone number to receive aviation noise complaints related to the airport.”
@@ -78,7 +81,15 @@ In this section, before clause (1), the words “Not later than the last day of 
 
 (2) comply with regulations prescribed under [section 47502 of this title](./chapter-475-noise.md#section-47502).
 
-**(b) Revised Maps.—** If, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use or noise reduction.
+**(b) Revised Maps.—**
+
+(1) **In general.—** — An airport operator that submits a noise exposure map under subsection (a) shall submit a revised map to the Secretary if, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration.
+
+(2) **Timing.—** — A submission under paragraph (1) shall be required only if the relevant change in the operation of the airport occurs during—
+
+  (A) the forecast period of the applicable noise exposure map submitted by an airport operator under subsection (a); or
+
+  (B) the implementation period of the airport operator’s noise compatibility program.
 
 ### Statutory Notes
 
@@ -93,6 +104,8 @@ In subsection (a), before clause (1), the words “After the effective date of t
 In subsection (b), the words “to the Secretary” are added for clarity. The words “after the submission to the Secretary of a noise exposure map under paragraph (1)” are omitted as surplus.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–254 amended subsec. (b) generally. Prior to amendment, text read as follows: “If, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use or noise reduction.”
+
 2003—Subsec. (a). Pub. L. 108–176, § 324(1), substituted “a forecast period that is at least 5 years in the future” for “1985,” in introductory provisions.
 
 Subsec. (b). Pub. L. 108–176, § 324(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If a change in the operation of an airport will establish a substantial new noncompatible use in an area surrounding the airport, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use.”
@@ -170,9 +183,21 @@ Pub. L. 108–176, title III, § 322, Dec. 12, 2003, 117 Stat. 2540, provided th
 
   (C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program;
 
-  (D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise; and
+  (D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise;
 
-  (E) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations.
+  (E) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations; and
+
+  (F) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) to carry out a project to mitigate noise, if the project—
+
+    (i) consists of—
+
+      (I) replacement windows, doors, and the installation of through-the-wall air conditioning units; or
+
+      (II) a contribution of the equivalent costs to be used for reconstruction if reconstruction is the preferred local solution;
+
+    (ii) is located at a school near the airport; and
+
+    (iii) is included in a memorandum of agreement entered into before September 30, 2002, even if the airport has not met the requirements of part 150 of title 14, Code of Federal Regulations, and only if the financial limitations of the memorandum are applied.
 
 (3) An airport operator may agree to make a grant made under paragraph (1)(A) of this subsection available to a public agency in the area surrounding the airport if the Secretary decides the agency is able to carry out the project.
 
@@ -246,6 +271,8 @@ This redesignates 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) because
 Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (c)(2)(A)(i), is section 301(d)(4)(B) of Pub. L. 100–223, which was set out as a note under section 2104 of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.
 
 #### Amendments
+2018—Subsec. (c)(2)(F). Pub. L. 115–232 added subpar. (F).
+
 2012—Subsec. (e). Pub. L. 112–95, § 504, added subsec. (e).
 
 Subsec. (f). Pub. L. 112–95, § 505, added subsec. (f).
@@ -424,6 +451,15 @@ Notwithstanding another law or a regulation prescribed or order issued under tha
 The word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “subpart I of part 91” are substituted for “subpart E of part 91” because of the restatement of part 91. See 54 Fed. Reg. 34321 (Aug. 18, 1989).
 
 
+<a id="section-47511"></a>
+## § 47511. CLEEN engine and airframe technology partnership
+**(a) In General.—** The Administrator of the Federal Aviation Administration shall enter into a cost-sharing cooperative agreement, using a competitive process, with institutions, entities, or consortiums to carry out a program for the development, maturation, and testing of certifiable CLEEN aircraft, engine technologies, and jet fuels for civil subsonic airplanes.
+
+**(b) CLEEN Engine and Airframe Technology Defined.—** In this section, the term “CLEEN aircraft and engine technology” means continuous lower energy, emissions, and noise aircraft and engine technology.
+
+**(c) Performance Objective.—** The Administrator shall establish the performance objectives for the program in terms of the specific objectives to reduce fuel burn, emissions and noise.
+
+
 <a id="section-47521"></a>
 ## § 47521. Findings
 
@@ -456,6 +492,9 @@ Congress finds that—
 2012—Par. (5). Pub. L. 112–95, § 111(c)(2)(B), substituted “charges” for “fees”.
 
 Pars. (7), (8). Pub. L. 112–95, § 111(c)(2)(A)(vi), substituted “charge” for “fee”.
+
+#### Authorization of Certain Flights by Stage 2 Aircraft
+Pub. L. 115–254, div. B, title I, § 172, Oct. 5, 2018, 132 Stat. 3227, provided that: “(a) In General.—Notwithstanding chapter 475 of title 49, United States Code, not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator of the Federal Aviation Administration shall initiate a pilot program to permit an operator of a stage 2 aircraft to operate that aircraft in nonrevenue service into not more than 4 medium hub airports or nonhub airports if—“(1) the airport—“(A) is certified under part 139 of title 14, Code of Federal Regulations; “(B) has a runway that—“(i) is longer than 8,000 feet and not less than 200 feet wide; and “(ii) is load bearing with a pavement classification number of not less than 38; and “(C) has a maintenance facility with a maintenance certificate issued under part 145 of such title; and “(2) the operator of the stage 2 aircraft operates not more than 10 flights per month using that aircraft. “(b) Termination.—The pilot program shall terminate on the earlier of—“(1) the date that is 10 years after the date of the enactment of this Act [Oct. 5, 2018]; or “(2) the date on which the Administrator determines that no stage 2 aircraft remain in service. “(c) Definitions.—In this section:“(1) Medium hub airport; nonhub airport.—The terms ‘medium hub airport’ and ‘nonhub airport’ have the meanings given those terms in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code. “(2) Stage 2 aircraft.—The term ‘stage 2 aircraft’ has the meaning given the term ‘stage 2 airplane’ in section 91.851 of title 14, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act [Oct. 5, 2018]).”
 
 
 <a id="section-47522"></a>

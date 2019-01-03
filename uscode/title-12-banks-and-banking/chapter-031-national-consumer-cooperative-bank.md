@@ -345,7 +345,7 @@ Amendment by section 396(c) of Pub. L. 97–35 effective on the day after the Fi
 
 **(c) “Net savings” defined** As used in this section, the term “net savings” means, for any period, the borrower’s gross receipts, less the operating and other expenses deductible therefrom in accordance with generally accepted accounting principles, including, without limitation, contributions to allowable reserves, and after deducting the amounts of any dividends on its capital stock or other membership capital payable during, or within forty-five days after, the close of such period.
 
-**(d) Cooperatives eligible for other Federal credit assistance** An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Rural Telephone Bank, the Banks for Cooperatives or other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the un­availability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
+**(d) Cooperatives eligible for other Federal credit assistance** An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Banks for Cooperatives or other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the un­availability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
 
 **(e) Credit unions eligible for technical assistance from Office of Self-Help Development and Technical Assistance** Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II.
 
@@ -355,6 +355,8 @@ Amendment by section 396(c) of Pub. L. 97–35 effective on the day after the Fi
 All subchapters of this chapter, referred to in subsec. (a), was in the original “all titles of this Act”, meaning titles I to III of Pub. L. 95–351. Titles I and II constitute this chapter and title III amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–334 struck out “the Rural Telephone Bank,” after “the National Rural Utilities Cooperative Finance Corporation,”.
+
 1981—Subsec. (a). Pub. L. 97–35, § 394(e)(1), substituted “primarily owned” for “entirely owned”.
 
 Subsec. (a)(5). Pub. L. 97–35, § 394(f), inserted provisions relating to exception for housing cooperatives in existence on Mar. 21, 1980.

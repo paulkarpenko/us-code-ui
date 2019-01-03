@@ -141,9 +141,18 @@ Pub. L. 107–323, § 2(c), Dec. 4, 2002, 116 Stat. 2788, provided that: “No e
 ## § 903. Designation of Medal of Honor Flag
 **(a) Designation.—** The Secretary of Defense shall design and designate a flag as the Medal of Honor Flag. In selecting the design for the flag, the Secretary shall consider designs submitted by the general public.
 
-**(b) Presentation.—** The Medal of Honor Flag shall be presented as specified in sections 3755, 6257, and 8755 of title 10 and [section 505 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section505&num=0&edition=prelim).
+**(b) Presentation.—** The Medal of Honor Flag shall be presented as specified in sections 7285, 8307, and 9285 of title 10 and section 505 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “sections 7285, 8307, and 9285 of title 10” for “sections 3755, 6257, and 8755 of title 10”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 505 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section505&num=0&edition=prelim) redesignated [section 2734 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2734&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to [section 505 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section505&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Findings
 Pub. L. 107–248, title VIII, § 8143(a), Oct. 23, 2002, 116 Stat. 1570, provided that: “Congress finds that— “(1) the Medal of Honor is the highest award for valor in action against an enemy force which can be bestowed upon an individual serving in the Armed Forces of the United States; “(2) the Medal of Honor was established by Congress during the Civil War to recognize soldiers who had distinguished themselves by gallantry in action; “(3) the Medal of Honor was conceived by Senator James Grimes of the State of Iowa in 1861; and “(4) the Medal of Honor is the Nation’s highest military honor, awarded for acts of personal bravery or self-sacrifice above and beyond the call of duty.”

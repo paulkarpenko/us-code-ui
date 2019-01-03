@@ -2,7 +2,7 @@
 title: 16
 chapter: '38'
 heading: FISHERY CONSERVATION AND MANAGEMENT
-section_count: 62
+section_count: 63
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -33,6 +33,8 @@ source: >-
 (11) A number of the Fishery Management Councils have demonstrated significant progress in integrating ecosystem considerations in fisheries management using the existing authorities provided under this chapter.
 
 (12) International cooperation is necessary to address illegal, unreported, and unregulated fishing and other fishing practices which may harm the sustainability of living marine resources and disadvantage the United States fishing industry.
+
+(13) While both provide significant cultural and economic benefits to the Nation, recreational fishing and commercial fishing are different activities. Therefore, science-based conservation and management approaches should be adapted to the characteristics of each sector.
 
 **(b) Purposes** It is therefore declared to be the purposes of the Congress in this chapter—
 
@@ -77,6 +79,8 @@ This chapter, referred to in subsecs. (a)(11), (b), and (c), was in the original
 Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
 #### Amendments
+2018—Subsec. (a)(13). Pub. L. 115–405 added par. (13).
+
 2007—Subsec. (a)(11). Pub. L. 109–479, § 3(a), added par. (11).
 
 Subsec. (a)(12). Pub. L. 109–479, § 402, added par. (12).
@@ -133,6 +137,9 @@ Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided th
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–405, § 1(a), Dec. 31, 2018, 132 Stat. 5355, provided that: “This Act [amending this section and sections 1852, 1881, and 1881c of this title, and enacting provisions set out as notes under this section and sections 1852 and 1881 of this title] may be cited as the ‘Modernizing Recreational Fisheries Management Act of 2018’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114–81, § 1, Nov. 5, 2015, 129 Stat. 649, provided that: “This Act [see Tables for classification] may be cited as the ‘Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015’.”
 
@@ -172,6 +179,14 @@ Pub. L. 94–265, § 1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–
 [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(a)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by section 101(a) [§ 211(a)] to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Oct. 11, 1996.]
 
 [Pub. L. 96–561, title II, § 238(a), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by section 238(a) to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Dec. 22, 1980.]
+
+#### Construction
+Pub. L. 115–405, § 301, Dec. 31, 2018, 132 Stat. 5360, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note above] shall be construed as modifying the requirements of sections 301(a), 302(h)(6), 303(a)(15), or 304(e) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1851(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1851/a&num=0&edition=prelim), 1852(h)(6), 1853(a)(15), and 1854(e)), or the equal application of such requirements and other standards and requirements under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.) to commercial, charter, and recreational fisheries, including each component of mixed-use fisheries.”
+
+[For definition of “mixed-use fishery” as used in section 301 of Pub. L. 115–405, set out above, see of section 3 of Pub. L. 115–405, set out below].
+
+#### Definitions
+Pub. L. 115–405, § 3, Dec. 31, 2018, 132 Stat. 5355, provided that: “In this Act [see Short Title of 2018 Amendment note above]: “(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Natural Resources of the House of Representatives. “(2) Council.—The term ‘Council’ means any Regional Fishery Management Council established under section 302 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852](./chapter-038-fishery-conservation-and-management.md#section-1852)). “(3) Limited access privilege program.—The term ‘limited access privilege program’ means a program that meets the requirements of section 303A of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1853a](./chapter-038-fishery-conservation-and-management.md#section-1853a)). “(4) Mixed-use fishery.—The term ‘mixed-use fishery’ means a Federal fishery in which 2 or more of the following occur:“(A) Recreational fishing. “(B) Charter fishing. “(C) Commercial fishing.”
 
 #### Ex. Ord. No. 12962. Recreational Fisheries
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
@@ -234,7 +249,7 @@ As used in this chapter, unless the context otherwise requires—
 
 (2) The term “bycatch” means fish which are harvested in a fishery, but which are not sold or kept for personal use, and includes economic discards and regulatory discards. Such term does not include fish released alive under a recreational catch and release fishery management program.
 
-(3) The term “charter fishing” means fishing from a vessel carrying a passenger for hire (as defined in section 2101(21a) of title 46) who is engaged in recreational fishing.
+(3) The term “charter fishing” means fishing from a vessel carrying a passenger for hire (as defined in [section 2101(30) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/30&num=0&edition=prelim)) who is engaged in recreational fishing.
 
 (4) The term “commercial fishing” means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce or enter commerce through sale, barter or trade.
 
@@ -435,6 +450,8 @@ In par. (49), “[section 70502(c) of title 46](https://uscode.house.gov/view.xh
 Pub. L. 102–251, § 301(b), which directed amendment of this section by adding a new par. (24) defining “special areas” and redesignating former pars. (24) to (32) as (25) to (33), respectively, was to be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, but will not be executed, to reflect the probable intent of Congress, because the amendments would be inconsistent with the amendments by Pub. L. 104–297 which added par. (36) (now par. (41)) which is substantially identical to the par. (24) added by Pub. L. 102–251, made successive redesignations of pars. (2) to (44), and added and amended various other pars. See 1996 Amendment notes below and section 308 of Pub. L. 102–251, set out as an Effective Date of 1992 Amendment note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
 
 #### Amendments
+2018—Par. (3). Pub. L. 115–232 substituted “section 2101(30)” for “section 2101(21a)”.
+
 2007—Pub. L. 109–479 added pars. (13A) defining “regional fishery association”, (20A) defining “import”, (23A) defining “limited access privilege”, (23B) defining “limited access system”, and (27A) defining “observer information” and redesignated pars. (1) to (45) as (1) to (50), respectively.
 
 1996—Pars. (2) to (6). Pub. L. 104–297, § 102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
@@ -2188,6 +2205,11 @@ Par. (3). Pub. L. 111–348, § 102(a)(4), added par. (3). Former par. (3) redes
 
 Par. (4). Pub. L. 111–348, § 102(a)(3), redesignated par. (3) as (4).
 
+#### Construction
+Pub. L. 111–348, title I, § 104, as added by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628, provided that: “Nothing in this title [see Short Title of 2011 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801)] or the amendments made by this title shall be construed as affecting, altering, or diminishing in any way the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 302(a)(3) and 304(g) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/a/3&num=0&edition=prelim), 1854(g)).”
+
+[Another section 104 of Pub. L. 111–348 amended [section 4107 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4107), prior to repeal by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628.]
+
 
 <a id="section-1826j"></a>
 ## § 1826j. Illegal, unreported, or unregulated fishing
@@ -2287,6 +2309,9 @@ Subsec. (d)(2). Pub. L. 114–81, § 101(i)(4), in introductory provisions, subs
 Subsec. (d)(3)(A)(i). Pub. L. 114–81, § 101(e), struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
 
 2011—Subsec. (e)(3)(A). Pub. L. 111–348 substituted “bycatch reduction requirements, and shark conservation measures;” for “and bycatch reduction requirements;”.
+
+#### Construction
+Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under [section 1826i of this title](./chapter-038-fishery-conservation-and-management.md#section-1826i).
 
 
 <a id="section-1826k"></a>
@@ -2394,6 +2419,9 @@ Subsec. (c)(5). Pub. L. 114–81, § 101(f), struck out “that has not been cer
 
 Pub. L. 111–348, § 102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, inserted “(1) a nation if—” before subpar. (A), as so redesignated, redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, realigned margins, and added par. (2).
 
+#### Construction
+Nothing in section 102(c) of Pub. L. 111–348 (amending this section and enacting provisions set out as a note below) to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under [section 1826i of this title](./chapter-038-fishery-conservation-and-management.md#section-1826i).
+
 #### Initial Identifications
 Pub. L. 111–348, title I, § 102(c)(2), Jan. 4, 2011, 124 Stat. 3669, provided that: “The Secretary of Commerce shall begin making identifications under paragraph (2) of section 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act ([16 U.S.C. 1826k(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/a&num=0&edition=prelim)), as added by paragraph (1)(G), not later than 1 year after the date of the enactment of this Act [Jan. 4, 2011].”
 
@@ -2469,7 +2497,7 @@ Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided th
 
 **(c) Exemptions for traditional fisheries and markets**
 
-(1) Subsection (a) does not apply to billfish caught by US fishing vessels and landed in the State of Hawaii or Pacific Insular Areas as defined in [section 1802(35) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1802/35&num=0&edition=prelim).
+(1) Subsection (a) does not apply to billfish caught by US fishing vessels and landed and retained in the State of Hawaii or Pacific Insular Areas as defined in [section 1802(35) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1802/35&num=0&edition=prelim).
 
 (2) Subsection (a) does not apply to billfish landed by foreign fishing vessels in the Pacific Insular Areas when the foreign caught billfish is exported to non-US markets or retained within Hawaii and the Pacific Insular Areas for local consumption.
 
@@ -2501,6 +2529,9 @@ Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided th
 
 #### Codification
 Section was enacted as part of the Billfish Conservation Act of 2012 and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–228 inserted “and retained” after “landed”.
 
 #### Findings
 Pub. L. 112–183, § 2, Oct. 5, 2012, 126 Stat. 1422, provided that: “Congress finds the following: “(1) The United States carefully regulates its domestic fisheries for billfish and participates in international fishery management bodies in the Atlantic and Pacific. “(2) Global billfish populations have declined significantly, however, because of overfishing primarily through retention of bycatch by non-United States commercial fishing fleets. “(3) Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S. management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries.”
@@ -2836,9 +2867,11 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
   (B) be updated as necessary; and
 
-  (C) be submitted to the Secretary and the regional science centers of the National Marine Fisheries Service for their consideration in developing research priorities and budgets for the region of the Council; and
+  (C) be submitted to the Secretary and the regional science centers of the National Marine Fisheries Service for their consideration in developing research priorities and budgets for the region of the Council;
 
-(8) conduct any other activities which are required by, or provided for in, this chapter or which are necessary and appropriate to the foregoing functions.
+(8) in addition to complying with the standards and requirements under paragraph (6), sections 1851(a), 1853(a)(15), and 1854(e) of this title, and other applicable provisions of this chapter, have the authority to use fishery management measures in a recreational fishery (or the recreational component of a mixed-use fishery) in developing a fishery management plan, plan amendment, or proposed regulations, such as extraction rates, fishing mortality targets, harvest control rules, or traditional or cultural practices of native communities in such fishery or fishery component; and
+
+(9) conduct any other activities which are required by, or provided for in, this chapter or which are necessary and appropriate to the foregoing functions.
 
 **(i) Procedural matters**
 
@@ -2980,6 +3013,8 @@ The Federal Advisory Committee Act, referred to in subsec. (i)(1), is Pub. L. 92
 The National Environmental Policy Act, referred to in subsec. (k)(1)(F), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (h)(8), (9). Pub. L. 115–405 added par. (8) and redesignated former par. (8) as (9).
+
 2007—Subsec. (a)(1)(D). Pub. L. 109–479, § 102, inserted “and of commonwealths, territories, and possessions of the United States in the Caribbean Sea” after “seaward of such States”.
 
 Subsec. (b)(2)(D), (E). Pub. L. 109–479, § 103(j), added subpar. (D) and redesignated former subpar. (D) as (E).
@@ -3189,6 +3224,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Other Fisheries
+Pub. L. 115–405, § 102(c), Dec. 31, 2018, 132 Stat. 5357, provided that: “Nothing in paragraph (8) of section 302(h) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/h&num=0&edition=prelim)), as added by subsection (a), shall be construed to affect management of any fishery not described in such paragraph (8).”
 
 #### Disclosure of Financial Interest by Incumbent Voting Members and Executive Directors
 Pub. L. 99–659, title I, § 104(e)(2), Nov. 14, 1986, 100 Stat. 3711, provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member or director must file a disclosure form under subsec. (k) within 45 days after that date.
@@ -4740,6 +4778,9 @@ Pub. L. 94–265, title III, § 312, Apr. 13, 1976, 90 Stat. 359, provided that 
 #### Savings Clause
 Pub. L. 111–348, title I, § 103(b), Jan. 4, 2011, 124 Stat. 3670, provided that: “(1) In general.—The amendments made by subsection (a) [amending this section] do not apply to an individual engaged in commercial fishing for smooth dogfish (Mustelus canis) in that area of the waters of the United States located shoreward of a line drawn in such a manner that each point on it is 50 nautical miles from the baseline of a State from which the territorial sea is measured, if the individual holds a valid State commercial fishing license, unless the total weight of smooth dogfish fins landed or found on board a vessel to which this subsection applies exceeds 12 percent of the total weight of smooth dogfish carcasses landed or found on board. “(2) Definitions.—In this subsection:“(A) Commercial fishing.—The term ‘commercial fishing’ has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802](./chapter-038-fishery-conservation-and-management.md#section-1802)). “(B) State.—The term ‘State’ has the meaning given that term in section 803 of Public Law 103–206 ([16 U.S.C. 5102](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5102)).”
 
+#### Construction
+Nothing in section 103 of Pub. L. 111–348 (amending this section and enacting provisions set out as a note above) to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under [section 1826i of this title](./chapter-038-fishery-conservation-and-management.md#section-1826i).
+
 
 <a id="section-1858"></a>
 ## § 1858. Civil penalties and permit sanctions
@@ -5734,12 +5775,54 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
   (D) *Deadline* — The Secretary shall complete the program under this paragraph and implement the improved Marine Recreational Fishery Statistics Survey not later than January 1, 2009.
 
-(4) **Report** — Within 24 months after establishment of the program, the Secretary shall submit a report to Congress that describes the progress made toward achieving the goals and objectives of the program.
+(4) **Federal-state partnerships**
+
+  (A) *Establishment* — The Secretary shall establish a partnership with a State to develop best practices for implementing the State program established under paragraph (2).
+
+  (B) *Guidance* — The Secretary shall develop guidance, in cooperation with the States, that details best practices for administering State programs pursuant to paragraph (2), and provide such guidance to the States.
+
+  (C) *Biennial report* — The Secretary shall submit to the appropriate committees of Congress and publish biennial reports that include—
+
+    (i) the estimated accuracy of—
+
+      (I) the information provided under subparagraphs (A) and (B) of paragraph (1) for each registry program established under that paragraph; and
+
+      (II) the information from each State program that is used to assist in completing surveys or evaluating effects of conservation and management measures under paragraph (2);
+
+    (ii) priorities for improving recreational fishing data collection; and
+
+    (iii) an explanation of any use of information collected by such State programs and by the Secretary.
+
+  (D) *States grant program*
+
+    (i) *In general* — The Secretary may make grants to States to—
+
+      (I) improve implementation of State programs consistent with this subsection; and
+
+      (II) assist such programs in complying with requirements related to changes in recreational data collection under paragraph (3).
+
+    (ii) *Use of funds* — Any funds awarded through such grants shall be used to support data collection, quality assurance, and outreach to entities submitting such data. The Secretary shall prioritize such grants based on the ability of the grant to improve the quality and accuracy of such programs.
+
+(5) **Report** — Within 24 months after establishment of the program, the Secretary shall submit a report to Congress that describes the progress made toward achieving the goals and objectives of the program.
+
+**(h) Action by Secretary** The Secretary shall—
+
+(1) within 90 days after December 31, 2018, enter into an agreement with the National Academy of Sciences to evaluate, in the form of a report—
+
+  (A) how the design of the Marine Recreational Information Program, for the purposes of stock assessment and the determination of stock management reference points, can be improved to better meet the needs of in-season management of annual catch limits under [section 1853(a)(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1853/a/15&num=0&edition=prelim); and
+
+  (B) what actions the Secretary, Councils, and States could take to improve the accuracy and timeliness of data collection and analysis to improve the Marine Recreational Information Program and facilitate in-season management; and
+
+(2) within 6 months after receiving the report under paragraph (1), submit to Congress recommendations regarding—
+
+  (A) changes to be made to the Marine Recreational Information Program to make the program better meet the needs of in-season management of annual catch limits and other requirements under such section; and
+
+  (B) alternative management approaches that could be applied to recreational fisheries for which the Marine Recreational Information Program is not meeting the needs of in-season management of annual catch limits, consistent with other requirements of this chapter, until such time as the changes in subparagraph (A) are implemented.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1) and (d), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (a)(1), (d) and (h)(2)(B), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
@@ -5747,6 +5830,10 @@ The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means 
 A prior section 1881, Pub. L. 94–265, title IV, § 401, Apr. 13, 1976, 90 Stat. 359, related to authority to amend regulations to conform to Law of the Sea Treaty, prior to repeal by Pub. L. 99–659, title I, § 110, Nov. 14, 1986, 100 Stat. 3715.
 
 #### Amendments
+2018—Subsec. (g)(4), (5). Pub. L. 115–405, § 202(1), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (h). Pub. L. 115–405, § 202(2), added subsec. (h).
+
 2007—Subsec. (g). Pub. L. 109–479 added subsec. (g) and struck out former subsec. (g) which required a report to Congress.
 
 #### Change of Name
@@ -5754,6 +5841,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### NAS Report Recommendations
+Pub. L. 115–405, § 201(b), Dec. 31, 2018, 132 Stat. 5358, provided that: “The Secretary of Commerce shall take into consideration and, to the extent feasible, implement the recommendations of the National Academy of Sciences in the report entitled ‘Review of the Marine Recreational Information Program (2017)’, and shall submit, every 2 years following the date of enactment of this Act [Dec. 31, 2018], a report to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives]. detailing progress made implementing those recommendations. Recommendations considered shall include— “(1) prioritizing the evaluation of electronic data collection, including smartphone applications, electronic diaries for prospective data collection, and an internet website option for panel members or for the public; “(2) evaluating whether the design of the Marine Recreational Information Program for the purposes of stock assessment and the determination of stock management reference points is compatible with the needs of in-season management of annual catch limits; and “(3) if the Marine Recreational Information Program is incompatible with the needs of in-season management of annual catch limits, determining an alternative method for in-season management.”
 
 
 <a id="section-1881a"></a>
@@ -5907,15 +5997,29 @@ A prior section 403 of Pub. L. 94–265 amended sections 1972 and 1973 of Title 
 
 **(d) Public notice** In developing the plan required under subsection (a), the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
+**(e) Improving data collection and analysis**
+
+(1) **In general** — Not later than 1 year after December 31, 2018, the Secretary shall develop, in consultation with the science and statistical committees of the Councils established under [section 1852(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/g&num=0&edition=prelim) and the Marine Fisheries Commissions, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on facilitating greater incorporation of data, analysis, stock assessments, and surveys from State agencies and nongovernmental sources described in paragraph (2), to the extent such information is consistent with [section 1851(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1851/a/2&num=0&edition=prelim), into fisheries management decisions.
+
+(2) **Content** — In developing the report under paragraph (1), the Secretary shall—
+
+  (A) identify types of data and analysis, especially concerning recreational fishing, that can be used for purposes of this chapter as the basis for establishing conservation and management measures as required by [section 1853(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1853/a/1&num=0&edition=prelim), including setting standards for the collection and use of that data and analysis in stock assessments and surveys and for other purposes;
+
+  (B) provide specific recommendations for collecting data and performing analyses identified as necessary to reduce uncertainty in and improve the accuracy of future stock assessments, including whether such data and analysis could be provided by nongovernmental sources; and
+
+  (C) consider the extent to which the acceptance and use of data and analyses identified in the report in fishery management decisions is practicable and compatible with the requirements of [section 1851(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1851/a/2&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (a) and (e)(2)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Prior Provisions
 A prior section 404 of Pub. L. 94–265, amended [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362) and enacted provisions formerly set out as a note under [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362), prior to being amended generally by Pub. L. 104–297.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–405 added subsec. (e).
+
 2007—Subsec. (c)(4). Pub. L. 109–479 struck out “under [section 1881 of this title](./chapter-038-fishery-conservation-and-management.md#section-1881)” after “system”.
 
 #### Change of Name
@@ -6095,6 +6199,20 @@ This chapter, referred to in subsecs. (a)(1)(C), (2)(B) and (b), was in the orig
 (6) to prioritize program activities in areas where deep sea corals are known to occur, and in areas where scientific modeling or other methods predict deep sea corals are likely to be present.
 
 **(b) Reporting** Beginning 1 year after January 12, 2007, the Secretary, in consultation with the Councils, shall submit biennial reports to Congress and the public on steps taken by the Secretary to identify, monitor, and protect deep sea coral areas, including summaries of the results of mapping, research, and data collection performed under the program.
+
+
+<a id="section-1885"></a>
+## § 1885. Seafood import monitoring program
+
+Not later than 30 days after March 23, 2018, the Secretary of Commerce (Secretary) shall lift the stay on the effective date of the final rule for the seafood import monitoring program published by the Secretary on December 9, 2016, (81 Fed. Reg. 88975 et seq.) for the species described in section 300.324(a)(3) of title 50, Code of Federal Regulations: Provided, That the compliance date for the species described in section 300.324(a)(3) of title 50, Code of Federal Regulations, shall occur not later than December 31, 2018: Provided further, That not later than December 31, 2018, the Secretary shall establish a traceability program for United States inland, coastal, and marine aquaculture of shrimp and abalone from point of production to entry into United States commerce: Provided further, That the Secretary shall promulgate such regulations as are necessary and appropriate to establish and implement the program: Provided further, That information collected pursuant to a regulation promulgated under this section shall be confidential and not be disclosed except for the information disclosed under section 401(b)(1) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1881a(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1881a/b/1&num=0&edition=prelim)): Provided further, That any regulations promulgated under this section shall be enforced as if this section were a provision of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.) and the regulations were promulgated under such Act.
+
+### Statutory Notes
+
+#### References in Text
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in text, is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+
+#### Codification
+Section was enacted as part of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2018, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 
 <a id="section-1891"></a>

@@ -345,6 +345,10 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1703(c) of Pub.
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(2). Pub. L. 115–91 substituted “section 2302(d)” for “section 2302(c)”.
+
+Pub. L. 115–73 substituted “section 2302(c)” for “section 2302(d)”.
+
 2004—Subsec. (a)(2). Pub. L. 108–411 struck out subpar. (A) designation before “A cash award under” and struck out subpar. (B) which read as follows: “For purposes of computing a percentage of a rate of basic pay under subparagraph (A), the rate of basic pay used shall be determined without taking into account any comparability payment under section 5304.”
 
 1992—Subsec. (b)(2). Pub. L. 102–378, § 2(19)(A), inserted reference to chapter 71.

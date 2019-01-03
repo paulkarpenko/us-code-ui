@@ -2,7 +2,7 @@
 title: 10
 chapter: '16'
 heading: SECURITY COOPERATION
-section_count: 41
+section_count: 42
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -47,7 +47,7 @@ In this chapter:
 
   (C) To build relationships that promote specific United States security interests.
 
-(8) The term “small-scale construction” means construction at a cost not to exceed $750,000 for any project.
+(8) The term “small-scale construction” means construction at a cost not to exceed $1,500,000 for any project.
 
 (9) The term “training” has the meaning given the term “military education and training” in section 644 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2403&num=0&edition=prelim)).
 
@@ -56,14 +56,29 @@ In this chapter:
 #### References in Text
 Section 1241(n) of the National Defense Authorization Act for Fiscal Year 2017, referred to in par. (4), is section 1241(n) of Pub. L. 114–328, which is set out as a note below.
 
+#### Amendments
+2018—Par. (8). Pub. L. 115–232 substituted “$1,500,000” for “$750,000”.
+
 #### Savings Clause
-Pub. L. 114–328, div. A, title XII, § 1253(b), Dec. 23, 2016, 130 Stat. 2532, provided that: “Any determination or other action made or taken before the date of the enactment of this Act [Dec. 23, 2016] under a provision of law transferred or repealed by this subchapter [probably should be “this subtitle” meaning subtitle E (§§ 1241 to 1253) of title XII of Pub. L. 114–328, see Tables for classification] that is in effect as of the date of the enactment of this Act and is necessary for the administration of a successor authority to such provision of law under chapter 16 of title 10, United States Code, by reason of the enactment of such chapter by this subchapter shall remain in effect, in accordance with the terms of such determination or action when made or taken, for purposes of the administration of such successor authority.”
+Pub. L. 114–328, div. A, title XII, § 1253(b), Dec. 23, 2016, 130 Stat. 2532, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(14), Dec. 12, 2017, 131 Stat. 1600, provided that: “Any determination or other action made or taken before the date of the enactment of this Act [Dec. 23, 2016] under a provision of law transferred or repealed by this subtitle [subtitle E (§§ 1241–1253) of title XII of Pub. L. 114–328, see Tables for classification] that is in effect as of the date of the enactment of this Act and is necessary for the administration of a successor authority to such provision of law under chapter 16 of title 10, United States Code, by reason of the enactment of such chapter by this subtitle shall remain in effect, in accordance with the terms of such determination or action when made or taken, for purposes of the administration of such successor authority.”
 
 #### Prescription of Term “Developing Country”
 Pub. L. 114–328, div. A, title XII, § 1241(n), Dec. 23, 2016, 130 Stat. 2511, provided that: “(1) In general.—The Secretary of Defense shall prescribe the meaning of the term ‘developing country’ for purposes of chapter 16 of title 10, United States Code, as added by subsection (a)(3), and may from time to time prescribe a revision to the meaning of that term for those purposes. “(2) Initial prescription.—The Secretary shall first prescribe the meaning of the term by not later than 270 days after the date of the enactment of this Act [Dec. 23, 2016]. “(3) Notice to congress.—Whenever the Secretary prescribes the meaning of the term pursuant to paragraph (1), the Secretary shall notify the appropriate committees of Congress of the meaning of the term as so prescribed. “(4) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ has the meaning given that term in [section 301(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section301/1&num=0&edition=prelim), United States Code, as so added.”
 
 #### Quadrennial Review of Security Sector Assistance Programs and Authorities of the United States Government
 Pub. L. 114–328, div. A, title XII, § 1252, Dec. 23, 2016, 130 Stat. 2531, provided that: “(a) Statement of Policy.—It is the policy of the United States that the principal goals of the security sector assistance programs and authorities of the United States Government are as follows:“(1) To assist partner nations in building sustainable capability to address common security challenges with the United States. “(2) To promote partner nation support for United States interests. “(3) To promote universal values, such as good governance, transparent and accountable oversight of security forces, rule of law, transparency, accountability, delivery of fair and effective justice, and respect for human rights. “(4) To strengthen collective security and multinational defense arrangements and organizations of which the United States is a participant. “(b) Quadrennial Review.—“(1) Review required.—Not later than January 31, 2018, and every four years thereafter though 2034, the President shall complete a review of the security sector assistance programs, policies, authorities, and resources of the United States Government across the United States Government. “(2) Elements.—Each review under this subsection shall include the following:“(A) An examination [of] whether the current security sector assistance programs, policies, authorities, and resources of the United States Government are sufficient to achieve the goals specified in subsection (a), and an identification of any gaps or shortfalls needing mitigation. “(B) An examination of the success of such programs and resources in achieving such goals, based on a review of relevant departmental and interagency programmatic and strategic evaluations. “(C) An examination of the extent to which the security sector assistance of the United States Government is aligned with national security and foreign policy objectives, conducted in support of clear and coherent policy guidance, and planned and executed in accordance with identified best practices. “(D) The development of recommendations, as appropriate, for improving the security sector assistance programs, policies, authorities, and resources of the United States Government to more effectively achieve the goals specified in subsection (a) and support other national security objectives. “(3) Submittal to congress.—Not later than 60 days after the completion of a review under this subsection, the President shall submit to the appropriate committees of Congress a report setting forth a summary of the review, including any recommendations developed pursuant to paragraph (2)(D). “(4) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ has the meaning given that term in section section [sic] 301(1) of title 10, United States Code, as added by section 1241(a)(3) of this Act.”
+
+[Memorandum of President of the United States, Feb. 8, 2018, 83 F.R. 8739, provided:
+
+[Memorandum for the Secretary of State [and] the Secretary of Defense
+
+[By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of State, in coordination with the Secretary of Defense, the functions and authorities vested in the President by section 1252 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) [set out above].
+
+[The delegation in this memorandum shall apply to any provisions of any future public law that are the same or substantially the same as the provision referenced in this memorandum.
+
+[The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+[Donald J. Trump.]
 
 
 <a id="section-311"></a>
@@ -78,7 +93,7 @@ Pub. L. 114–328, div. A, title XII, § 1252, Dec. 23, 2016, 130 Stat. 2531, pr
 
   (B) military and civilian personnel of the defense or security ministry of that foreign government or international or regional security organization.
 
-(3) An exchange of personnel under an international defense personnel exchange agreement under this section may only be made with the concurrence of the Secretary to State 11 So in original. Probably should be “Secretary of State”. to the extent the exchange is with either of the following:
+(3) An exchange of personnel under an international defense personnel exchange agreement under this section may only be made with the concurrence of the Secretary of State to the extent the exchange is with either of the following:
 
   (A) A non-defense security ministry of a foreign government.
 
@@ -119,6 +134,8 @@ Text of section, as added by Pub. L. 114–328, is based on text of Pub. L. 104�
 A prior section 311 was renumbered [section 246 of this title](./chapter-012-the-militia.md#section-246).
 
 #### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–232 substituted “Secretary of State” for “Secretary to State” in introductory provisions.
+
 2016—Subsec. (a)(1). Pub. L. 114–328, § 1242(b)(1)(A), inserted at end “Any exchange of personnel under such an agreement is subject to paragraph (3).”
 
 Subsec. (a)(2). Pub. L. 114–328, § 1242(b)(1)(B)(i), substituted “a friendly foreign country or international or regional security organization for the reciprocal or non-reciprocal exchange” for “an ally of the United States or another friendly foreign country for the exchange” in introductory provisions.
@@ -259,7 +276,7 @@ A prior section 312 was renumbered [section 247 of this title](./chapter-012-the
 
 **(d) Availability of Funds for Activities That Cross Fiscal Years.—** Amounts available for the authority to pay expenses in subsection (b) for a fiscal year may be used to pay expenses under that subsection for training and exercises that begin in such fiscal year but end in the next fiscal year.
 
-**(e) Quarterly Notice on Planned Training.—** Not later than the end of the first calender quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calender quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.
+**(e) Quarterly Notice on Planned Training.—** Not later than the end of the first calendar quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calendar quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.
 
 **(f) Regulations.—**
 
@@ -279,6 +296,8 @@ A prior section 312 was renumbered [section 247 of this title](./chapter-012-the
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (e), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–232 substituted “the first calendar quarter” for “the first calender quarter” and “every calendar quarter” for “every calender quarter”.
+
 2016—Pub. L. 114–328 renumbered [section 2010 of this title](./chapter-101-training-generally.md#section-2010) as this section and amended it generally. Prior to amendment, section related to payment of incremental expenses for participation of developing countries in combined exercises.
 
 2011—Subsecs. (b) to (e). Pub. L. 112–81 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit to Congress a report each year, not later than March 1, containing—
@@ -293,6 +312,9 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–417, [div. A], title XII, § 1203(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to bilateral and multilateral military exercises described in section 2010 [now 321] of title 10, United States Code, as so amended, that begin on or after that date.”
+
+#### Prohibition on Participation of the People’s Republic of China in Rim of the Pacific (RIMPAC) Naval Exercises
+Pub. L. 115–232, div. A, title XII, § 1259, Aug. 13, 2018, 132 Stat. 2058, provided that: “(a) Conditions for Future Participation in RIMPAC.—“(1) In general.—The Secretary of Defense shall not enable or facilitate the participation of the People’s Republic of China in any Rim of the Pacific (RIMPAC) naval exercise unless the Secretary certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that China has—“(A) ceased all land reclamation activities in the South China Sea; “(B) removed all weapons from its land reclamation sites; and “(C) established a consistent four-year track record of taking actions toward stabilizing the region. “(2) Form.—The certification under paragraph (1) shall be in unclassified form but may contain a classified annex as necessary. “(b) National Security Waiver.—“(1) In general.—The Secretary of Defense may waive the certification requirement under subsection (a) if the Secretary determines the waiver is in the national security interest of the United States and submits to the congressional defense committees a detailed justification for the waiver. “(2) Form.—The justification required under paragraph (1) shall be in unclassified form but may contain a classified annex as necessary.”
 
 
 <a id="section-322"></a>
@@ -383,7 +405,7 @@ Pub. L. 113–66, div. A, title XII, § 1203, Dec. 26, 2013, 127 Stat. 894, rela
 
 (4) Provision of specialized training to personnel of friendly foreign countries in connection with such an operation, including training of such personnel before deployment in connection with such operation.
 
-(5) Small-scale construction to support military forces of a friendly foreign country participating in a United States-supported coalition or combined operation when the construction is directly linked to the ability of such forces to participate in such operation effectively and is limited to the geographic area where such operation is taking place.
+(5) Small-scale construction to support military forces of a friendly foreign country participating in a United States-supported coalition or combined operation when the construction is directly linked to the ability of such forces to participate in such operation effectively and is limited to the geographic area where such operation is taking place. In the case of support provided under this paragraph that results in the provision of small-scale construction above $750,000, the notification pursuant to subsection (b)(2) shall include the location, project title, and cost of each such small-scale construction project that will be carried out, a Department of Defense Form 1391 for each such project, and a masterplan of planned infrastructure investments at the location.
 
 **(d) Certification Required.—**
 
@@ -423,6 +445,8 @@ Pub. L. 113–66, div. A, title XII, § 1203, Dec. 26, 2013, 127 Stat. 894, rela
 A prior section 331 was renumbered [section 251 of this title](./chapter-013-insurrection.md#section-251).
 
 #### Amendments
+2018—Subsec. (c)(5). Pub. L. 115–232 inserted at end “In the case of support provided under this paragraph that results in the provision of small-scale construction above $750,000, the notification pursuant to subsection (b)(2) shall include the location, project title, and cost of each such small-scale construction project that will be carried out, a Department of Defense Form 1391 for each such project, and a masterplan of planned infrastructure investments at the location.”
+
 2016—Pub. L. 114–328 renumbered [section 127d of this title](./chapter-003-general-powers-and-functions.md#section-127d) as this section and amended it generally. Prior to amendment, section related to authority to provide logistic support, supplies, and services to allied forces participating in combined operations.
 
 2011—Subsec. (a). Pub. L. 111–383, § 1202(a), designated existing provisions as par. (1), inserted “of the United States” after “armed forces”, struck out “Provision of such support, supplies, and services to the forces of an allied nation may be made only with the concurrence of the Secretary of State.” at end, and added pars. (2) and (3).
@@ -440,7 +464,7 @@ Subsec. (d)(1). Pub. L. 111–383, § 1075(b)(3), substituted “Committee on Fo
 
 <a id="section-332"></a>
 ## § 332. Friendly foreign countries; international and regional organizations: defense institution capacity building
-**(a) Ministry of Defense Advisor Authority.—** The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
+**(a) Ministry of Defense Advisor Authority.—** The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense and members of the armed forces as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
 
 (1) provide institutional, ministerial-level advice, and other training to personnel of the ministry or regional organization to which assigned in support of stabilization or post-conflict activities; or
 
@@ -448,7 +472,7 @@ Subsec. (d)(1). Pub. L. 111–383, § 1075(b)(3), substituted “Committee on Fo
 
 **(b) Training of Personnel of Foreign Ministries With Security Missions.—**
 
-(1) **In general.—** — The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
+(1) **In general.—** — The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to provide advisors or trainers to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
 
   (A) for the purpose of—
 
@@ -466,17 +490,17 @@ Subsec. (d)(1). Pub. L. 111–383, § 1075(b)(3), substituted “Committee on Fo
 
   (A) A list of activities under the program.
 
-  (B) A list of any organization described in paragraph (1) to which the Secretary assigned employees under the program, including the number of such employees so assigned, the duration of each assignment, a brief description of each assigned employee’s activities, and a statement of the cost of each assignment.
+  (B) A list of any organization described in paragraph (1) to which the Secretary provided advisors or trainers under the program, including the number of such advisors or trainers so provided, the duration of each provision of such an advisor or trainer, a brief description of the activities of each advisor or trainer so provided, and a statement of the cost of each provision of such an advisor or trainer.
 
   (C) A comprehensive justification of any activities conducted pursuant to paragraph (1)(B).
 
-**(c) Congressional Notice.—** Not later than 15 days before assigning a civilian employee of the Department of Defense as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the appropriate committees of Congress a notification of such assignment. Such a notification shall include each of the following:
+**(c) Congressional Notice.—** Not later than 15 days before assigning a civilian employee of the Department of Defense or a member of the armed forces as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the appropriate committees of Congress a notification of such assignment. Such a notification shall include each of the following:
 
-(1) A statement of the intent of the Secretary to assign the employee as an advisor to the regional organization.
+(1) A statement of the intent of the Secretary to assign the advisor or trainer to the regional organization.
 
 (2) The name of the regional organization and the location and duration of the assignment.
 
-(3) A description of the assignment, including a description of the training or assistance proposed to be provided to the regional organization, the justification for the assignment, a description of the unique capabilities the employee can provide to the regional organization, and a description of how the assignment serves the national security interests of the United States.
+(3) A description of the assignment, including a description of the training or assistance proposed to be provided to the regional organization, the justification for the assignment, a description of the unique capabilities the advisor or trainer can provide to the regional organization, and a description of how the assignment serves the national security interests of the United States.
 
 (4) Any other information relating to the assignment that the Secretary of Defense considers appropriate.
 
@@ -489,6 +513,24 @@ Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a)
 A prior section 332 was renumbered [section 252 of this title](./chapter-013-insurrection.md#section-252).
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232, § 1202(1), substituted “provide advisors or trainers” for “assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers”.
+
+Subsec. (b)(2)(B). Pub. L. 115–232, § 1202(2)(C), which directed substitution of “each provision of such an advisor or trainer” for “each assignment”, was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
+
+Pub. L. 115–232, § 1202(2)(A), (B), substituted “Secretary provided” for “Secretary assigned”, “number of such advisors or trainers so provided” for “number of such advisors or trainers so assigned”, and “each advisor or trainer so provided” for “each assigned advisor or trainer”.
+
+2017—Subsec. (a). Pub. L. 115–91, § 1204(a)(1), inserted “and members of the armed forces” after “civilian employees of the Department of Defense” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–91, § 1204(a)(2)(A), inserted “to assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers” after “carry out a program” in introductory provisions.
+
+Subsec. (b)(2)(B). Pub. L. 115–91, § 1204(a)(2)(B), substituted “advisors or trainers” for “employees” in two places and “the activities of each assigned advisor or trainer” for “each assigned employee’s activities”.
+
+Subsec. (c). Pub. L. 115–91, § 1204(a)(3)(A), inserted “or a member of the armed forces” after “a civilian employee of the Department of Defense” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 115–91, § 1204(a)(3)(B), substituted “advisor or trainer” for “employee as an advisor”.
+
+Subsec. (c)(3). Pub. L. 115–91, § 1204(a)(3)(C), substituted “advisor or trainer” for “employee”.
+
 2016—Subsecs. (c), (d). Pub. L. 114–328, § 1241(c)(2), redesignated subsec. (d) as (c).
 
 
@@ -514,7 +556,7 @@ A prior section 332 was renumbered [section 252 of this title](./chapter-013-ins
 
 (1) **Concurrence in conduct of programs.—** — The concurrence of the Secretary of State is required to conduct or support any program authorized by subsection (a).
 
-(2) **Joint development and planning of programs.—** — The Secretary of Defense and the Secretary of State shall jointly develop and plan any program carried out pursuant to subsection (a).
+(2) **Joint development and planning of programs.—** — The Secretary of Defense and the Secretary of State shall jointly develop and plan any program carried out pursuant to subsection (a). In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.
 
 (3) **Implementation of programs.—** — The Secretary of Defense and the Secretary of State shall coordinate the implementation of any program under subsection (a). The Secretary of Defense and the Secretary of State shall each designate an individual responsible for program coordination under this paragraph at the lowest appropriate level in the Department concerned.
 
@@ -522,17 +564,17 @@ A prior section 332 was renumbered [section 252 of this title](./chapter-013-ins
 
 **(c) Types of Capacity Building.—**
 
-(1) **Authorized elements.—** — A program under subsection (a) may include the provision and sustainment of defense articles, training, defense services, supplies (including consumables), and small-scale construction.
+(1) **Authorized elements.—** — A program under subsection (a) may include the provision and sustainment of defense articles, training, defense services, supplies (including consumables), and small-scale construction supporting security cooperation programs under this section.
 
 (2) **Required elements.—** — A program under subsection (a) shall include elements that promote the following:
 
-  (A) Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, and the rule of law.
+  (A) Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.
 
-  (B) Respect for civilian control of the military.
+  (B) Institutional capacity building.
 
-(3) **Human rights training.—** — In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict, as applicable, to such national security forces.
+(3) **Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.—** — In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense or the Department of State is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military, as applicable, to such national security forces.
 
-(4) **Institutional capacity building.—** — In order to meet the requirement in paragraph (2)(B) with respect to a particular foreign country under a program under subsection (a), the Secretary shall certify, prior to the initiation of the program, that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a). The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country.
+(4) **Institutional capacity building.—** — In order to meet the requirement in paragraph (2)(B) with respect to a particular foreign country under a program under subsection (a), the Secretary shall certify, prior to the initiation of the program, that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country.
 
 **(d) Limitations.—**
 
@@ -562,6 +604,8 @@ A prior section 332 was renumbered [section 252 of this title](./chapter-013-ins
 
   (B) To the extent practicable, a plan to transition such sustainment support from funding through the Department to funding through another security sector assistance program of the United States Government or funding through partner nations.
 
+(8) In the case of activities under a program that results in the provision of small-scale construction above $750,000, the location, project title, and cost of each small-scale construction project that will be carried out, a Department of Defense Form 1391 for each such project, and a masterplan of planned infrastructure investments at the location over the next 5 years.
+
 **(f) Quarterly Monitoring Reports.—** The Director of the Defense Security Cooperation Agency shall, on a quarterly basis, submit to the appropriate committees of Congress a report setting forth, for the preceding calendar quarter, the following:
 
 (1) Information, by recipient country, of the delivery and execution status of all defense articles, training, defense services, supplies (including consumables), and small-scale construction under programs under subsection (a).
@@ -588,8 +632,32 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), is Pub. L. 87
 #### Prior Provisions
 A prior section 333 was renumbered [section 253 of this title](./chapter-013-insurrection.md#section-253).
 
+#### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–232, § 1201, inserted at end “In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.”
+
+Subsec. (c)(1). Pub. L. 115–232, § 1203(c)(1), inserted “supporting security cooperation programs under this section” after “small-scale construction”.
+
+Subsec. (e)(8). Pub. L. 115–232, § 1203(c)(2), added par. (8).
+
+2017—Subsec. (c)(2)(A). Pub. L. 115–91, § 1204(b)(1)(A), substituted “the rule of law, and civilian control of the military” for “and the rule of law”.
+
+Subsec. (c)(2)(B). Pub. L. 115–91, § 1204(b)(1)(B), substituted “Institutional capacity building” for “Respect for civilian control of the military”.
+
+Subsec. (c)(3). Pub. L. 115–91, § 1204(b)(2), in heading, substituted “Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military” for “Human rights training” and in text, inserted “or the Department of State” after “Department of Defense” and substituted “training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military” for “human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict”.
+
+Subsec. (c)(4). Pub. L. 115–91, § 1204(b)(3), substituted “that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country.” for “that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a).” and struck out at end “The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country.”
+
 #### Guidance
 Pub. L. 114–328, div. A, title XII, § 1241(d)(4), Dec. 23, 2016, 130 Stat. 2504, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall prescribe, and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], initial policy guidance on roles, responsibilities, and processes in connection with programs and activities authorized by [section 333 of title 10](./chapter-016-security-cooperation.md#section-333), United States Code, as so added. Not later than 270 days after the date of the enactment of this Act, the Secretary shall prescribe, and submit to the congressional defense committees, final policy guidance on roles, responsibilities, and processes in connection with such programs and activities.”
+
+#### Training for Eastern European National Security Forces in the Course of Multilateral Exercises
+Pub. L. 114–92, div. A, title XII, § 1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, § 1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, § 1205, Dec. 12, 2017, 131 Stat. 1643, provided that: “(a) Authority.—The Secretary of Defense may provide the training specified in subsection (b), and pay the incremental expenses incurred by a country as the direct result of participation in such training, for the national security forces provided for under subsection (c). “(b) Types of Training.—The training provided to the national security forces of a country under subsection (a) shall be limited to training that is—“(1) provided in the course of the conduct of a multilateral exercise in which the United States Armed Forces are a participant; “(2) comparable to or complimentary of the types of training the United States Armed Forces receive in the course of such multilateral exercise; and “(3) for any purpose as follows:“(A) To enhance and increase the interoperability of the security forces to be trained to increase their ability to participate in coalition efforts led by the United States or the North Atlantic Treaty Organization (NATO). “(B) To increase the capacity of such security forces to respond to external threats. “(C) To increase the capacity of such security forces to respond to hybrid warfare. “(D) To increase the capacity of such security forces to respond to calls for collective action within the North Atlantic Treaty Organization. “(c) Eligible Countries.—“(1) In general.—Training may be provided under subsection (a) to the national security forces of the countries determined by the Secretary of Defense, with the concurrence of the Secretary of State, to be appropriate recipients of such training from among the countries as follows:“(A) Countries that are a signatory to the Partnership for Peace Framework Documents, but not a member of the North Atlantic Treaty Organization. “(B) Countries that became a member of the North Atlantic Treaty Organization after January 1, 1999. “(2) Eligible countries.—Before providing training under subsection (a), the Secretary of Defense shall, in coordination with the Secretary of State, submit to the Committees on Armed Services of the Senate and the House of Representatives a list of the countries determined pursuant to paragraph (1) to be eligible for the provision of training under subsection (a). “(d) Funding of Incremental Expenses.—“(1) Annual funding.—Of the amounts specified in paragraph (2) for a fiscal year, up to a total of $28,000,000 may be used to pay incremental expenses under subsection (a) in that fiscal year. “(2) Amounts.—The amounts specified in this paragraph are as follows:“(A) Amounts authorized to be appropriated for a fiscal year for operation and maintenance, Army, and available for the Combatant Commands Direct Support Program for that fiscal year. “(B) Amounts authorized to be appropriated for a fiscal year for operation and maintenance, Defense-wide, and available for the Wales Initiative Fund for that fiscal year. “(C) Amounts authorized to be appropriated for a fiscal year for overseas contingency operations for operation and maintenance, Army, and available for additional activities for the European Deterrence Initiative for that fiscal year. “(3) Availability of funds for activities across fiscal years.—Amounts available in a fiscal year pursuant to this subsection may be used for incremental expenses of training that begins in that fiscal year and ends in the next fiscal year. “(4) Regulations.—“(A) In general.—The Secretary of Defense shall prescribe regulations for payment of incremental expenses under subsection (a). Not later than 120 days after the date of the enactment of this paragraph [Dec. 12, 2017], the Secretary shall submit the regulations to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. “(B) Procedures to be included.—The regulations required under subparagraph (A) shall include procedures—“(i) to require reimbursement of incremental expenses from non-developing countries determined pursuant to subsection (c) to be eligible for the provision of training under subsection (a); and “(ii) to provide for a waiver of the requirement of reimbursement of incremental expenses under clause (i), on a case-by-case basis, if the Secretary of Defense determines special circumstances exist to provide for the waiver. “(C) Quarterly report.—The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, on a quarterly basis, a report that includes a description of each waiver of the requirement of reimbursement of incremental expenses under subparagraph (B)(i) that was in effect at any time during the preceding calendar quarter. “(D) Non-developing country defined.—In this paragraph, the term ‘non-developing country’ means a country that is not a developing country, as such term is defined in [section 301(4) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section301/4&num=0&edition=prelim), United States Code. “(e) Briefing to Congress on Use of Authority.—Not later than 90 days after the end of each fiscal year in which the authority in subsection (a) is used, the Secretary shall brief the Committees on Armed Services of the Senate and the House of Representatives on the use of the authority during such fiscal year, including each country with which training under the authority was conducted and the types of training provided. “(f) Construction of Authority.—The authority provided in subsection (a)—“(1) is in addition to any other authority provided by law authorizing the provision of training for the national security forces of a foreign country, including chapter 16 of title 10, United States Code; and “(2) shall not be construed to include authority for the training of irregular forces, groups, or individuals. “(g) Incremental Expenses Defined.—In this section, the term ‘incremental expenses’ has the meaning given such term in [section 301(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section301/5&num=0&edition=prelim), United States Code. “(h) Termination of Authority.—The authority under this section shall terminate on December 31, 2020. Any activity under this section initiated before that date may be completed, but only using funds available for for [sic] the period beginning on October 1, 2015, and ending on December 31, 2020.”
+
+#### Indo-Pacific Maritime Security Initiative
+Pub. L. 114–92, div. A, title XII, § 1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, § 1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, § 1252, Aug. 13, 2018, 132 Stat. 2053, provided that: “(a) Assistance and Training.—“(1) In general.—The Secretary of Defense is authorized, with the concurrence of the Secretary of State, for the purpose of increasing maritime security and maritime domain awareness of foreign countries along the South China Sea and the Indian Ocean—“(A) to provide assistance to national military or other security forces of such countries that have among their functional responsibilities maritime security missions; and “(B) to provide training to ministry, agency, and headquarters level organizations for such forces. “(2) Designation of assistance and training.—The provision of assistance and training under this section may be referred to as the ‘Indo-Pacific Maritime Security Initiative’. “(b) Recipient Countries.—The foreign countries that may be provided assistance and training under subsection (a) are the following:“(1) Indonesia. “(2) Malaysia. “(3) The Philippines. “(4) Thailand. “(5) Vietnam. “(6) Bangladesh. “(7) Sri Lanka. “(c) Types of Assistance and Training.—“(1) Authorized elements of assistance.—Assistance provided under subsection (a)(1)(A) may include the provision of equipment, supplies, training, and small-scale military construction. “(2) Required elements of assistance and training.—Assistance and training provided under subsection (a) shall include elements that promote the following:“(A) Observance of and respect for human rights and fundamental freedoms. “(B) Respect for legitimate civilian authority within the country to which the assistance is provided. “(d) Priorities for Assistance and Training.—In developing programs for assistance or training to be provided under subsection (a), the Secretary of Defense shall accord a priority to assistance, training, or both that will enhance the maritime capabilities of the recipient foreign country, or a regional organization of which the recipient country is a member, to respond to emerging threats to maritime security. “(e) Incremental Expenses of Personnel of Certain Other Countries for Training.—“(1) Authority for payment.—If the Secretary of Defense determines that the payment of incremental expenses in connection with training described in subsection (a)(1)(B) will facilitate the participation in such training of organization personnel of foreign countries specified in paragraph (2), the Secretary may use amounts available under subsection (f) for assistance and training under subsection (a) for the payment of such incremental expenses. “(2) Covered countries.—The foreign countries specified in this paragraph are the following:“(A) Brunei. “(B) Singapore. “(C) Taiwan. “(D) India. “(f) Availability of Funds.—“(1) In general.—Of the amounts authorized to be appropriated for fiscal year 2016 for the Department of Defense, $50,000,000 may be available for the provision of assistance and training under subsection (a). “(2) Notice on source of funds.—If the Secretary of Defense uses funds available to the Department pursuant to paragraph (1) to provide assistance and training under subsection (a) during a fiscal half-year of fiscal year 2016, not later than 30 days after the end of such fiscal half-year, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notice on the account or accounts providing such funds. “(g) Notice to Congress on Assistance and Training.—“(1) In general.—Not later than 15 days before exercising the authority under subsection (a) or (e) with respect to a recipient foreign country, the Secretary of Defense shall submit to the appropriate committees of Congress a notification containing the following:“(A) The recipient foreign country. “(B) A detailed justification of the program for the provision of the assistance or training concerned, and its relationship to United States security interests. “(C) The budget for the program, including a timetable of planned expenditures of funds to implement the program, an implementation timeline for the program with milestones (including anticipated delivery schedules for any assistance under the program), the military department or component responsible for management of the program, and the anticipated completion date for the program. “(D) A description of the arrangements, if any, to support host nation sustainment of any capability developed pursuant to the program, and the source of funds to support sustainment efforts and performance outcomes to be achieved under the program beyond its completion date, if applicable. “(E) A description of the program objectives and an assessment framework to be used to develop capability and performance metrics associated with operational outcomes for the recipient force. “(F) Such other matters as the Secretary considers appropriate. “(2) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives. “(h) Expiration.—Assistance and training may not be provided under this section after December 31, 2025.”
+
+#### Training of Security Forces and Associated Security Ministries of Foreign Countries To Promote Respect for the Rule of Law and Human Rights
+Pub. L. 113–291, div. A, title XII, § 1206, Dec. 19, 2014, 128 Stat. 3538, as amended by Pub. L. 115–232, div. A, title XII, § 1205(c), Aug. 13, 2018, 132 Stat. 2018, provided that: “(a) In General.—The Secretary of Defense is authorized to conduct human rights training of security forces and associated security ministries of foreign countries. “(b) Construction With Limitation on Use of Funds.—Human rights training authorized by this section may be conducted for security forces otherwise prohibited from receiving such training under any provision of law only if—“(1) such training is conducted in the country of origin of the security forces; “(2) such training is withheld from any individual of a unit when there is credible information that such individual has committed a gross violation of human rights or has commanded a unit that has committed a gross violation of human rights; “(3) such training may be considered a corrective step, but is not sufficient for meeting the accountability requirement under the exception established in [section 362(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section362/b&num=0&edition=prelim), United States Code; and “(4) reasonable efforts have been made to assist the foreign country to take all necessary corrective steps regarding a gross violation of human rights with respect to the unit, including using funds authorized by this Act [see Tables for classification] to provide technical assistance or other types of support for accountability. “(c) Role of the Secretary of State.—“(1) Concurrence.—Training activities may be conducted under this section only with the concurrence of the Secretary of State. “(2) Consultation.—The Secretary of Defense shall consult with the Secretary of State on the content of the training, the methods of instruction to be provided, and the intended beneficiaries of training conducted under this section. “(d) Authorized Activities.—Human rights training authorized by this section may include associated activities and expenses necessary for the conduct of training and assessments designed to further the purposes of this section, including technical assistance or other types of support for accountability. “(e) Annual Reports.—Not later than March 31 each year through 2020, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the use of the authority in this section during the preceding fiscal year. Each report shall include information on any human rights training (as defined in subsection (f)) or other assistance that was provided during the fiscal year to foreign security forces. “(f) Definitions.—In this section“(1) The term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives. “(2) The term ‘human rights training’ means training for the purpose of directly improving the conduct of foreign security forces to—“(A) prevent gross violations of human rights and support accountability for such violations; “(B) strengthen compliance with the laws of armed conflict and respect for civilian control over the military; “(C) promote and assist in the establishment of a military justice system and other mechanisms for accountability; and “(D) prevent the use of child soldiers. “(g) Sunset.—The authority in subsection (a) shall expire on September 30, 2020.”
 
 
 <a id="section-334"></a>
@@ -629,7 +697,7 @@ Repeal effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set o
 
 (1) **In general.—** — An activity with forces referred to in subsection (a)(1)(B) or organizations described in subsection (a)(1)(C) under a program established under subsection (a) may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
 
-(2) **Prohibition on activities with units that have committed gross violations of human rights.—** — The conduct of any activities under a program established under subsection (a) shall be subject to the provisions of [section 362 of this title](./chapter-016-security-cooperation.md#section-362).
+(2) **Prohibition on activities with units that have committed gross violations of human rights.—** — The conduct of any assistance activities under a program established under subsection (a) shall be subject to the provisions of [section 362 of this title](./chapter-016-security-cooperation.md#section-362).
 
 **(c) Coordination of Activities.—** The Chief of the National Guard Bureau shall designate a director for each State and territory to be responsible for the coordination of activities under a program established under subsection (a) for such State or territory and reporting on activities under the program.
 
@@ -678,6 +746,8 @@ Pub. L. 114–328, div. A, title XII, § 1246(d)(2)(B), Dec. 23, 2016, 130 Stat.
 Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under [section 107 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section107&num=0&edition=prelim), National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1246(e), Dec. 23, 2016, 130 Stat. 2521.
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–232 inserted “assistance” after “any”.
+
 2016—Subsec. (b). Pub. L. 114–328, § 1246(b), substituted “Limitations” for “Limitation” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
 
 Subsec. (d). Pub. L. 114–328, § 1246(c)(1), added subsec. (d) and struck out former subsec. (d) which required the Secretary of Defense to prescribe regulations to carry out this section and to notify Congress.
@@ -786,11 +856,13 @@ Pub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 25
 
 (1) The Secretary shall on an annual basis review the program and structure of each Regional Center in order to determine whether such Regional Center is appropriately aligned with the strategic priorities of the Department of Defense and the applicable geographic combatant commands.
 
-(2) The Secretary may revise the program, structure, or both of a Regional Center following an annual review under paragraph (1) in order to more appropriately align the Regional Center with strategic priorities and the geographic combatant commands as described in that paragraph..11 So in original.
+(2) The Secretary may revise the program, structure, or both of a Regional Center following an annual review under paragraph (1) in order to more appropriately align the Regional Center with strategic priorities and the geographic combatant commands as described in that paragraph.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (j)(2). Pub. L. 115–91 struck out second period at end.
+
 2016—Pub. L. 114–328, § 1241(e)(1), renumbered [section 184 of this title](./chapter-007-boards-councils-and-committees.md#section-184) as this section.
 
 Subsec. (a). Pub. L. 114–328, § 1241(e)(2)(A), substituted “exchange of ideas, and training” for “and exchange of ideas”.
@@ -837,6 +909,9 @@ Subsec. (b)(4). Pub. L. 109–163 substituted “under [section 2611 of this tit
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–417, [div. A], title IX, § 941(a)(2), Oct. 14, 2008, 122 Stat. 4576, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [former] [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code (as so amended) [now [10 U.S.C. 342](./chapter-016-security-cooperation.md#section-342)], that begin on or after that date.”
+
+#### Framework for Obtaining Concurrence for Participation in Activities of Regional Centers for Security Studies
+Pub. L. 115–232, div. A, title XII, § 1214, Aug. 13, 2018, 132 Stat. 2027, provided that: “Not later than 120 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, with the concurrence of the Secretary of State, shall establish and submit to the appropriate congressional committees, as such term is defined in [section 301(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section301/1&num=0&edition=prelim), United States Code, a Memorandum of Agreement or other arrangement setting forth a framework for the procedures required between the Department of Defense and the Department of State to obtain the concurrence of the Secretary of State, as required by law or policy, to allow non-defense and non-governmental personnel of friendly foreign countries to participate in activities of the Department of Defense Regional Centers for Security Studies.”
 
 #### Redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies
 Pub. L. 113–291, div. B, title XXVIII, § 2861(a), Dec. 19, 2014, 128 Stat. 3715, provided that: “The Department of Defense regional center for security studies known as the Asia-Pacific Center for Security Studies is hereby renamed the ‘Daniel K. Inouye Asia-Pacific Center for Security Studies’.”
@@ -1030,12 +1105,44 @@ Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 463
 
 
 <a id="section-345"></a>
-## § 345. Regional Defense Combating Terrorism Fellowship Program
-**(a) Authority To Use Funds.—** Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.
+## § 345. Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program
+**(a) Program Authorized.—**
 
-**(b) Limitation.—** The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
+(1) **In general.—** — The Secretary of Defense may carry out a program under which the Secretary may pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted for purposes of regional defense in connection with either of the following:
 
-**(c) Annual Report.—** Not later than December 1 of each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the administration of this section during the fiscal year ended in such year. The report shall include the following matters:
+  (A) Combating terrorism.
+
+  (B) Irregular warfare.
+
+(2) **Covered costs.—** — Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.
+
+(3) **Designation.—** — The program authorized by this section shall be known as the “Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program”.
+
+**(b) Regulations.—**
+
+(1) **In general.—** — The program authorized by subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense and the Secretary of State.
+
+(2) **Elements.—** — The regulations shall ensure that—
+
+  (A) the Secretary of Defense and the Secretary of State—
+
+    (i) jointly develop and plan activities under the program that—
+
+      (I) advance United States security cooperation objectives; and
+
+      (II) support theater security cooperation planning of the combatant commands; and
+
+    (ii) coordinate on the implementation of activities under the program;
+
+  (B) each of the Secretary of Defense and the Secretary of State designates an individual at the lowest appropriate level of the Department of Defense or the Department of State, as applicable, who shall be responsible for program coordination; and
+
+  (C) to the extent practicable, activities under the program are appropriately coordinated with, and do not duplicate or conflict with, activities under International Military Education and Training (IMET) authorities.
+
+(3) **Submittal to congress.—** — Upon any update of the regulations, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a copy of the regulations as so updated, together with a description of the update.
+
+**(c) Limitation.—** The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
+
+**(d) Annual Report.—** Not later than December 1 of each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the administration of this section during the fiscal year ended in such year. The report shall include the following matters:
 
 (1) A complete accounting of the expenditure of appropriated funds for purposes authorized under subsection (a), including—
 
@@ -1045,7 +1152,7 @@ Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 463
 
 (2) The training courses attended by the foreign officers and officials, including a specification of which, if any, courses were conducted in foreign countries.
 
-(3) An assessment of the effectiveness of the program referred to in subsection (a), including engagement activities for program alumni, in increasing the cooperation of the governments of foreign countries with the United States in the global war on terrorism.
+(3) An assessment of the effectiveness of the program referred to in subsection (a), including engagement activities for program alumni, in increasing the cooperation of the governments of foreign countries with the United States.
 
 (4) A discussion of any actions being taken to improve the program, including a list of any unfunded or unmet training requirements and requests.
 
@@ -1054,6 +1161,14 @@ Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 463
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–232, § 1209(b)(1), inserted “and Irregular Warfare” after “Terrorism” in section catchline.
+
+Subsec. (a). Pub. L. 115–232, § 1209(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
+
+Subsecs. (b) to (d). Pub. L. 115–232, § 1209(a)(1), (2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+Subsec. (d)(3). Pub. L. 115–232, § 1209(a)(3), struck out “in the global war on terrorism” after “United States”.
+
 2016—Pub. L. 114–328, § 1247(a), (c), renumbered [section 2249c of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2249c) as this section and substituted “Regional Defense Combating Terrorism Fellowship Program” for “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” in section catchline.
 
 Subsec. (c). Pub. L. 114–328, § 1247(b), substituted “to the appropriate committees of Congress” for “to Congress” in introductory provisions.
@@ -1138,11 +1253,11 @@ Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 462
 
   (A) *In general.—* — The Secretary of each military department may permit persons from foreign countries to receive instruction at the Service Academy under the jurisdiction of the Secretary. Such persons shall be in addition to—
 
-    (i) in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under 4342 11 So in original. Probably should be preceded by “section”. of this title;
+    (i) in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under [section 7442 of this title](./chapter-753-united-states-military-academy.md#section-7442);
 
-    (ii) in the case of the United States Naval Academy, the authorized strength of the Brigade of Midshipmen of the Academy under [section 6954 of this title](./chapter-603-united-states-naval-academy.md#section-6954); and
+    (ii) in the case of the United States Naval Academy, the authorized strength of the Brigade of Midshipmen of the Academy under [section 8454 of this title](./chapter-853-united-states-naval-academy.md#section-8454); and
 
-    (iii) in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under 9342 1 of this title.
+    (iii) in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under [section 9442 of this title](./chapter-953-united-states-air-force-academy.md#section-9442).
 
   (B) *Limitation on number.—* — The number of persons permitted to receive instruction at each Service Academy under this subsection may not be more than 60 at any one time.
 
@@ -1168,7 +1283,7 @@ Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 462
 
   (B) *Waiver authority.—* — The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a cadet or midshipman under subparagraph (A). In the case of a partial waiver, the Secretary of Defense shall establish the amount waived.
 
-(7) **Applicability of academy regulations, etc..— 22 So in original.**
+(7) **Applicability of academy regulations, etc.—**
 
   (A) *In general.—* — Except as the Secretary of the military department concerned determines, a person receiving instruction under this subsection at the Service Academy under the jurisdiction of that Secretary is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a cadet or midshipman at that Academy appointed from the United States.
 
@@ -1176,7 +1291,7 @@ Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 462
 
 (8) **Ineligibility for appointment in the united states armed forces.—** — A person receiving instruction at a Service Academy under this subsection is not entitled to an appointment in an armed force of the United States by reason of graduation from the Academy.
 
-(9) **Inapplicability of requirement for taking oath of admission.—** — A person receiving instruction under this subsection is not subject to section 4346(d), 6958(d), or 9346(d) of this title, as the case may be.
+(9) **Inapplicability of requirement for taking oath of admission.—** — A person receiving instruction under this subsection is not subject to section 7446(d), 8458(d), or 9446(d) of this title, as the case may be.
 
 **(b) Exchange Programs With Foreign Military Academies.—**
 
@@ -1188,7 +1303,7 @@ Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 462
 
   (A) *No pay and allowances.—* — A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a cadet or midshipman by reason of attendance at a Service Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
 
-  (B) *Subsistence, transportation, etc..—* — The Secretary of the military department concerned may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet or midshipman in that foreign country.
+  (B) *Subsistence, transportation, etc.—* — The Secretary of the military department concerned may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet or midshipman in that foreign country.
 
   (C) *Source of funds.—* — A Service Academy shall bear all costs of the exchange program from funds appropriated for that Academy and from such additional funds as may be available to that Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
 
@@ -1224,6 +1339,24 @@ Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 462
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 4344 to 4345a, 6957 to 6957b, and 9344 to 9345a, prior to repeal by Pub. L. 114–328.
+
+#### Amendments
+2018—Subsec. (a)(1)(A)(i). Pub. L. 115–232, § 809(a), substituted “section 7442” for “section 4342”.
+
+Subsec. (a)(1)(A)(ii). Pub. L. 115–232, § 809(a), substituted “section 8454” for “section 6954”.
+
+Subsec. (a)(1)(A)(iii). Pub. L. 115–232, § 809(a), substituted “section 9442” for “section 9342”.
+
+Subsec. (a)(7). Pub. L. 115–232, § 1204(c)(1)(D)(i), substituted “etc.” for “etc..” in heading.
+
+Subsec. (a)(9). Pub. L. 115–232, § 809(a), substituted “section 7446(d), 8458(d), or 9446(d)” for “section 4346(d), 6958(d), or 9346(d)”.
+
+Subsec. (b)(3)(B). Pub. L. 115–232, § 1204(c)(1)(D)(ii), substituted “etc” for “etc.” in heading.
+
+2017—Subsec. (a)(1)(A)(i), (iii). Pub. L. 115–91 inserted “section” after “Academy under”.
+
+#### Effective Date of 2018 Amendment
+Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-348"></a>
@@ -1273,7 +1406,7 @@ Pub. L. 103–160, div. A, title XI, § 1178(a), Nov. 30, 1993, 107 Stat. 1768, 
 The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§ 2347 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2016—Pub. L. 114–328, § 1241(j)(1), renumbered [section 9415 of this title](./chapter-907-schools-and-camps.md#section-9415) as this section.
+2016—Pub. L. 114–328, § 1241(j)(1), renumbered [section 9415 of this title](./chapter-951-training-generally.md#section-9415) as this section.
 
 Subsecs. (b), (c). Pub. L. 114–328, § 1241(j)(2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -1305,18 +1438,96 @@ Subsecs. (b), (c). Pub. L. 114–328, § 1241(j)(2), added subsec. (b) and redes
 ### Statutory Notes
 
 #### Codification
-Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (f) of section 1268 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3585, which was formerly set out as a note under [section 9411 of this title](./chapter-907-schools-and-camps.md#section-9411), prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(k)(2), Dec. 23, 2016, 130 Stat. 2509.
+Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (f) of section 1268 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3585, which was formerly set out as a note under [section 9411 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9411&num=0&edition=prelim), prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(k)(2), Dec. 23, 2016, 130 Stat. 2509.
 
 
 <a id="section-351"></a>
-## § 351. Renumbered § 261]
+## § 351. Inter-American Defense College
+**(a) Authority To Support.—** The Secretary of Defense may authorize members of the armed forces and civilian personnel of the Department of Defense to participate in the operation of and the provision of support to the Inter-American Defense College and provide logistic support, supplies, and services to the Inter-American Defense College, including the use of Department of Defense facilities and equipment, as the Secretary considers necessary to—
+
+(1) assist the Inter-American Defense College in its mission to develop and offer to military officers and civilian officials from member states of the Organization of American States advanced academic courses on matters related to military and defense issues, the inter-American system, and related disciplines; and
+
+(2) ensure that the Inter-American Defense College provides an academic program of a level of quality, rigor, and credibility that is commensurate with the standards of Department of Defense senior service colleges and that includes the promotion of security cooperation, human rights, humanitarian assistance and disaster response, peacekeeping, and democracy in the Western Hemisphere.
+
+**(b) Memorandum of Understanding.—**
+
+(1) The Secretary of Defense, with the concurrence of the Secretary of State, shall enter into a memorandum of understanding with the Inter-American Defense Board for the participation of members of the armed forces and civilian personnel of the Department of Defense in the operation of and provision of host nation support to the Inter-American Defense College under subsection (a).
+
+(2) If Department of Defense facilities, equipment, or funds will be used to support the Inter-American Defense College under subsection (a), a memorandum of understanding entered into under paragraph (1) shall include a description of any cost-sharing arrangement or other funding arrangement relating to the use of such facilities, equipment, or funds.
+
+(3) A memorandum of understanding entered into under paragraph (1) shall also include a curriculum and a plan for academic program development.
+
+**(c) Use of Funds.—**
+
+(1) Funds appropriated to the Department of Defense for operation and maintenance may be used to pay costs that the Secretary determines are necessary for the participation of members of the armed forces and civilian personnel of the Department of Defense in the operation of and provision of host nation support to the Inter-American Defense College, including—
+
+  (A) the costs of expenses of such participants;
+
+  (B) the cost of hiring and retaining qualified professors, instructors, and lecturers;
+
+  (C) curriculum support costs, including administrative costs, academic outreach, and curriculum support personnel;
+
+  (D) the cost of translation and interpretation services;
+
+  (E) the cost of information and educational technology;
+
+  (F) the cost of utilities; and
+
+  (G) the cost of maintenance and repair of facilities.
+
+(2) No funds may be used under this section to provide for the pay of members of the armed forces or civilian personnel of the Department of Defense who participate in the operation of and the provision of host nation support to the Inter-American Defense College under this section.
+
+(3) Funds available to carry out this section for a fiscal year may be used for activities that begin in such fiscal year and end in the next fiscal year.
+
+**(d) Waiver of Reimbursement.—** The Secretary of Defense may waive reimbursement for developing countries (as such term is defined in [section 301 of this title](./chapter-016-security-cooperation.md#section-301)) of the costs of funding and other host nation support provided to the Inter-American Defense College under this section if the Secretary determines that the provision of such funding or support without reimbursement is in the national security interest of the United States.
+
+**(e) Logistic Support, Supplies, and Services Defined.—** In this section, the term “logistic support, supplies, and services” has the meaning given that term in [section 2350 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2350).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 351 was renumbered [section 261 of this title](./chapter-014-arming-of-american-vessels.md#section-261).
+
+
+<a id="section-352"></a>
+## § 352. Naval Small Craft Instruction and Technical Training School
+**(a) In General.—** The Secretary of Defense may operate an education and training facility known as the “Naval Small Craft Instruction and Technical Training School” (in this section referred to as the “School”).
+
+**(b) Designation of Executive Agent.—** The Secretary of Defense shall designate the Secretary of a military department as the Department of Defense executive agent for carrying out the responsibilities of the Secretary of Defense under this section.
+
+**(c) Purpose.—** The purpose of the School shall be to provide to the military and other security forces of one or more friendly foreign countries education and training under any other provision of law related to naval small craft instruction and training and to increase professionalism, readiness, and respect for human rights through formal courses of instruction or mobile training teams for—
+
+(1) the operation, employment, maintenance, and logistics of specialized equipment;
+
+(2) participation in—
+
+  (A) joint exercises; or
+
+  (B) coalition or international military operations; and
+
+(3) improved interoperability between—
+
+  (A) the armed forces; and
+
+  (B) the military and other security forces of the one or more friendly foreign countries.
+
+**(d) Limitation on Personnel Eligible To Receive Education and Training.—** The Secretary of Defense may not provide education or training at the School to any personnel of a country that is prohibited from receiving such education or training under any other provision of law.
+
+**(e) Fixed Costs.—** The fixed costs of operation and maintenance of the School in a fiscal year may be paid from amounts made available for such fiscal year for operation and maintenance of the Department of Defense.
+
+**(f) Annual Report.—** Not later than March 15 each year, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate congressional committees a detailed report on the activities and operating costs of the School during the preceding fiscal year.
+
+### Statutory Notes
+
+#### Limitation on Use of Funds
+Pub. L. 115–232, div. A, title XII, § 1208(c), Aug. 13, 2018, 132 Stat. 2022, provided that: “(1) In general.—Nothing in [section 352 of title 10](./chapter-016-security-cooperation.md#section-352), United States Code (as so added), may be construed as authorizing the use of funds appropriated for the Department of Defense for any purpose described in paragraph (2) unless specifically authorized by an Act of Congress other than that section or this Act [see Tables for classification]. “(2) Purposes.—The purposes described in this paragraph are the following:“(A) The operation of a facility other than the Naval Small Craft Instruction and Technical Training School that is in operation as of the date of the enactment of this Act [Aug. 13, 2018] for the provision of education and training authorized to be provided by the School. “(B) The construction or expansion of any facility of the School.”
 
 
 <a id="section-361"></a>
 ## § 361. Prohibition on providing financial assistance to terrorist countries
 **(a) Prohibition.—** Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
 
-(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 ([50 U.S.C. 4605(j)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim));
+(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) 11 See References in Text note below. of the Export Administration Act of 1979 ([50 U.S.C. 4605(j)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim));
 
 (2) any country identified in the latest report submitted to Congress under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f&num=0&edition=prelim)), as providing significant support for international terrorism; or
 
@@ -1343,6 +1554,9 @@ Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a)
 **(c) Definition.—** In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim)).
 
 ### Statutory Notes
+
+#### References in Text
+Section 6(j)(1)(A) of the Export Administration Act of 1979 ([50 U.S.C. 4605(j)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim)), referred to in subsec. (a)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For similar provisions, see [section 4813(c)(1)(A)(i) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A/i&num=0&edition=prelim), War and National Defense, as enacted by Pub. L. 115–232.
 
 #### Amendments
 2016—Pub. L. 114–328, § 1241(l)(1), renumbered [section 2249a of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2249a) as this section.
@@ -1392,8 +1606,11 @@ Committee on International Relations of House of Representatives changed to Comm
 
 Subsec. (f). Pub. L. 114–328, § 1241(l)(2), struck out subsec. (f) which defined “appropriate committees of Congress” for this section.
 
+#### Human Rights Vetting of Afghan National Defense and Security Forces
+Pub. L. 115–91, div. A, title XII, § 1216, Dec. 12, 2017, 131 Stat. 1650, provided that: “The Secretary of Defense may establish within the Department of Defense one or more permanent positions to oversee and support, in coordination with the Department of State, the implementation of [section 362 of title 10](./chapter-016-security-cooperation.md#section-362), United States Code, with respect to the Afghan National Defense and Security Forces.”
+
 #### Annual Reports
-Pub. L. 113–291, div. A, title XII, § 1204(b), Dec. 19, 2014, 128 Stat. 3533, provided that: “(1) In general.—Not later than March 31, 2015, and every March 31 thereafter through 2024, the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth for the preceding fiscal year the following:“(A) The total number of cases submitted for vetting for purposes of section 2249e [now 362] of title 10, United States Code (as added by subsection (a)), and the total number of such cases approved, or suspended or rejected for human rights reasons, non-human rights reasons, or administrative reasons. “(B) In the case of units rejected for non-human rights reasons, a detailed description of the reasons relating to the rejection. “(C) A description of the interagency processes that were used to evaluate compliance with requirements to conduct vetting. “(D) An addendum that includes any comments by the commanders of the combatant commands about the impact of section 2249e [now 362] of title 10, United States Code (as so added), on their theater security cooperation plan. “(E) Such other matters with respect to the administration of section 2249e [now 362] of title 10, United States Code (as so added), as the Secretary considers appropriate. “(2) Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ has the meaning given that term in subsection (f) of section 2249e [now 362] of title 10, United States Code (as so added).”
+Pub. L. 113–291, div. A, title XII, § 1204(b), Dec. 19, 2014, 128 Stat. 3533, as amended by Pub. L. 115–232, div. A, title XII, § 1204(c)(2), Aug. 13, 2018, 132 Stat. 2017, provided that: “(1) In general.—Not later than March 31, 2015, and every March 31 thereafter through 2024, the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth for the preceding fiscal year the following:“(A) The total number of cases submitted for vetting for purposes of [section 362 of title 10](./chapter-016-security-cooperation.md#section-362), United States Code (as added by subsection (a)), and the total number of such cases approved, or suspended or rejected for human rights reasons, non-human rights reasons, or administrative reasons. “(B) In the case of units rejected for non-human rights reasons, a detailed description of the reasons relating to the rejection. “(C) A description of the interagency processes that were used to evaluate compliance with requirements to conduct vetting. “(D) An addendum that includes any comments by the commanders of the combatant commands about the impact of [section 362 of title 10](./chapter-016-security-cooperation.md#section-362), United States Code (as so added), on their theater security cooperation plan. “(E) Such other matters with respect to the administration of [section 362 of title 10](./chapter-016-security-cooperation.md#section-362), United States Code (as so added), as the Secretary considers appropriate. “(2) Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ has the meaning given that term in [section 301(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section301/1&num=0&edition=prelim), United States Code.”
 
 [For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1204(b) of Pub. L. 113–291, set out above, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).]
 
@@ -1491,6 +1708,8 @@ A prior section 382 was renumbered [section 282 of this title](./chapter-015-mil
 
   (D) Identification of lessons learned in carrying out such programs and activities, and development of recommendation for improving future security cooperation programs and activities of the Department of Defense.
 
+  (E) Incorporation of lessons learned from prior security cooperation programs and activities of the Department of Defense that were carried out any time on or after September 11, 2001.
+
 (2) **Best practices.—** — The program shall be conducted in accordance with international best practices, interagency standards, and, if applicable, the Government Performance and Results Act of 1993 (Public Law 103–62), and the amendments made by that Act, and the GPRA Modernization Act of 2010 (Public Law 111–352), and the amendments made by that Act.
 
 **(c) Availability of Funds.—**
@@ -1518,6 +1737,9 @@ The GPRA Modernization Act of 2010, referred to in subsec. (b)(2), is Pub. L. 11
 
 #### Prior Provisions
 A prior section 383 was renumbered [section 283 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-283).
+
+#### Amendments
+2018—Subsec. (b)(1)(E). Pub. L. 115–232 added subpar. (E).
 
 
 <a id="section-384"></a>
@@ -1615,7 +1837,7 @@ A prior section 384 was renumbered [section 284 of this title](./chapter-015-mil
 
   (A) a detailed description of the purpose and estimated cost of such program or activity;
 
-  (B) a detailed description of the security cooperation objectives of the Department, include 11 So in original. Probably should be “including”. the theater campaign plan of the combatant command concerned, that will be advanced;
+  (B) a detailed description of the security cooperation objectives of the Department, including the theater campaign plan of the combatant command concerned, that will be advanced;
 
   (C) a justification why such program or activity will advance such objectives;
 
@@ -1626,6 +1848,11 @@ A prior section 384 was renumbered [section 284 of this title](./chapter-015-mil
   (F) a timeline for the provision of such support; and
 
 (2) a period of 30 days elapses after the date of the submittal of the notice pursuant to paragraph (1).
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (d)(1)(B). Pub. L. 115–232 substituted “including” for “include”.
 
 
 <a id="section-386"></a>
@@ -1648,7 +1875,7 @@ A prior section 384 was renumbered [section 284 of this title](./chapter-015-mil
 
 **(c) Specified Authorities.—** The authorities specified in this subsection are the following authorities (or any successor authorities):
 
-(1) Sections 311, 321, 331, 332, 333, 344, 348, 349, and 350 of this title.
+(1) Sections 246, 251, 252, 253, 11 See References in Text note below. 321, 344, 348, 349, and 350 of this title.
 
 (2) [Section 166a(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section166a/b/6&num=0&edition=prelim), relating to humanitarian and civic assistance by the commanders of the combatant commands.
 
@@ -1691,9 +1918,11 @@ A prior section 384 was renumbered [section 284 of this title](./chapter-015-mil
 ### Statutory Notes
 
 #### Amendment of Subsection (c)(1)
-Pub. L. 114–328, div. A, title XII, § 1246(d)(2)(A), Dec. 23, 2016, 130 Stat. 2521, provided that, effective as of Jan. 1, 2020, subsection (c)(1) of this section is amended by inserting “341,” after “333,”. See 2016 Amendment note below.
+Pub. L. 114–328, div. A, title XII, § 1246(d)(2)(A), Dec. 23, 2016, 130 Stat. 2521, provided that, effective as of Jan. 1, 2020, subsection (c)(1) of this section is amended by inserting “341,” after “333,”. See 2016 and 2018 Amendment notes below.
 
 #### References in Text
+Sections 251, 252, and 253 of this title, referred to in subsec. (c)(1), were renumbered sections 240a, 240b, and 240c, respectively, of this title by Pub. L. 115–232, div. A, title X, § 1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.
+
 [Section 168 of this title](./chapter-006-combatant-commands.md#section-168), referred to in subsec. (c)(3), was repealed by Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532.
 
 [Section 2249c of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2249c), referred to in subsec. (c)(4), was renumbered [section 345 of this title](./chapter-016-security-cooperation.md#section-345) by Pub. L. 114–328, div. A, title XII, § 1247(a), Dec. 23, 2016, 130 Stat. 2521.
@@ -1714,6 +1943,8 @@ Section 1206 of the Carl Levin and Howard P. “Buck” McKeon National Defense 
 Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (e) of section 1211 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3544, which was not classified to the Code.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–232 substituted “Sections 246, 251, 252, 253, 321,” for “Sections 311, 321, 331, 332, 333,”.
+
 2016—Subsec. (a). Pub. L. 114–328, § 1251(b)(6), which directed striking out “under the authorities in subsection (c)” after “submitted”, was executed by striking out “under the authorities specified in subsection (c)” after “submitted”, to reflect the probable intent of Congress.
 
 Pub. L. 114–328, § 1251(b)(1)–(5), in heading, substituted “Annual Report Required” for “Biennial Report Required”, and, in text, substituted “Not later than January 31 of each year beginning in 2018, the Secretary of Defense” for “Not later than February 1 of each of 2016, 2018, and 2020, the Secretary of Defense”, “appropriate congressional committees” for “congressional defense committees”, “assistance” for “security assistance”, and “the fiscal year” for “the two fiscal years” and inserted “under the authorities in subsection (c)” after “Department of Defense”.
@@ -1724,7 +1955,7 @@ Subsec. (b)(2). Pub. L. 114–328, § 1251(c)(2), substituted “The cost and ex
 
 Subsec. (b)(4) to (6). Pub. L. 114–328, § 1251(c)(3), added pars. (4) to (6).
 
-Subsec. (c)(1). Pub. L. 114–328, § 1246(d)(2)(A), inserted “341,” after “333,”.
+Subsec. (c)(1). Pub. L. 114–328, § 1246(d)(2)(A), which directed amendment of subsec. (c)(1) by inserting “341,” after “333,”, was executed by making the insertion after “321,” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–232. See 2018 Amendment note above.
 
 Pub. L. 114–328, § 1251(d)(1), added par. (1) and struck out former par. (1) which read as follows: “[Section 127d of title 10](./chapter-003-general-powers-and-functions.md#section-127d), United States Code, relating to authority to provide logistic support, supplies, and services to allied forces participating in a combined operation with the Armed Forces.”
 

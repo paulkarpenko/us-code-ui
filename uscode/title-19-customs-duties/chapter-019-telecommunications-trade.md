@@ -296,7 +296,7 @@ the President may enter into trade agreements with such foreign country for the 
 1994—Par. (2). Pub. L. 103–465 substituted “the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3501))” for “the General Agreement on Tariffs and Trade”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 621(b) of Pub. L. 103–465, set out as a note under [section 1677k of this title](./chapter-004-tariff-act-of-1930.md#section-1677k).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 621(b) of Pub. L. 103–465, set out as a note under [section 1677k of this title](./chapter-004-tariff-act-of-1930.md#section-1677k).
 
 
 <a id="section-3108"></a>
@@ -369,4 +369,4 @@ Nothing in this chapter may be construed to require actions inconsistent with th
 1994—Pub. L. 103–465 substituted “the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3501))” for “the General Agreement on Tariffs and Trade”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 621(b) of Pub. L. 103–465, set out as a note under [section 1677k of this title](./chapter-004-tariff-act-of-1930.md#section-1677k).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 621(b) of Pub. L. 103–465, set out as a note under [section 1677k of this title](./chapter-004-tariff-act-of-1930.md#section-1677k).

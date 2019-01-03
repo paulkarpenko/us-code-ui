@@ -498,6 +498,9 @@ Subsecs. (i), (j). Pub. L. 109–59, § 9003(g), added subsecs. (i) and (j).
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
+#### Return of Credit Risk Premiums Not Used to Mitigate Losses
+Pub. L. 115–265, title II, § 212(d), Oct. 11, 2018, 132 Stat. 3749, provided that: “(1) In general.—Notwithstanding any other provision of law, the Secretary of Transportation, for purposes of section 502(f)(4) of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 822(f)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section822/f/4&num=0&edition=prelim)) (as in effect on the day before the amendments made by section 11607 of Public Law 114–94 (129 Stat. 1698) took effect [Oct. 1, 2015])—“(A) not later than 30 days after the date of enactment of this Act [Oct. 11, 2018], and in consultation with the Director of the Office of Management and Budget, shall define the term ‘cohorts of loans’; “(B) before the deadline described in paragraph (2), shall return to the original source, on a pro rata basis, the credit risk premiums paid for the loans in the cohort of loans, with interest accrued thereon, that were not used to mitigate losses; and “(C) shall not treat the repayment of a loan after the date of enactment of Public Law 114–94 [Dec. 4, 2015] as precluding, limiting, or negatively affecting the satisfaction of the obligation of its cohort prior to the enactment of Public Law 114–94. “(2) Deadline described.—The deadline described in this paragraph is—“(A) if all obligations attached to a cohort of loans have been satisfied, not later than 60 days after the date of enactment of this Act; and “(B) if all obligations attached to a cohort of loans have not been satisfied, not later than 60 days after the date on which all obligations attached to the cohort of loans are satisfied.”
+
 #### Substantive Criteria and Standards
 Pub. L. 109–59, title IX, § 9003(j), Aug. 10, 2005, 119 Stat. 1923, provided that: “Not later than 30 days after the date of enactment of this Act [Aug. 10, 2005], the Secretary of Transportation shall publish in the Federal Register and post on the Department of Transportation Web site the substantive criteria and standards used by the Secretary to determine whether to approve or disapprove applications submitted under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 822](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822)). The Secretary of Transportation shall ensure adequate procedures and guidelines are in place to permit the filing of complete applications within 30 days of such publication.”
 
@@ -573,9 +576,9 @@ the Secretary shall pay such excess to the obligor.
 
   (C) *Fees* — A servicer appointed under subparagraph (A) shall receive a servicing fee from the obligor or other loan party, subject to approval by the Secretary.
 
-(4) **Safety and operations account** — Amounts collected under this subsection shall—
+(4) **National Surface Transportation and Innovative Finance Bureau account** — Amounts collected under this subsection shall—
 
-  (A) be credited directly to the Safety and Operations account of the Federal Railroad Administration; and
+  (A) be credited directly to the National Surface Transportation and Innovative Finance Bureau account; and
 
   (B) remain available until expended to pay for the costs described in this subsection.
 
@@ -590,6 +593,10 @@ The text of [section 831(c) of this title](https://uscode.house.gov/view.xhtml?r
 A prior section 823, Pub. L. 94–210, title V, § 503, Feb. 5, 1976, 90 Stat. 69; Pub. L. 94–555, title II, § 216(b), Oct. 19, 1976, 90 Stat. 2627, related to classification and designation of rail lines, prior to repeal by Pub. L. 105–178, title VII, § 7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
+2018—Subsec. (l)(4). Pub. L. 115–123, § 20101(2), substituted “National Surface Transportation and Innovative Finance Bureau account” for “Safety and operations account” in heading.
+
+Subsec. (l)(4)(A). Pub. L. 115–123, § 20101(2), substituted “National Surface Transportation and Innovative Finance Bureau account” for “Safety and Operations account of the Federal Railroad Administration”.
+
 2015—Subsec. (a). Pub. L. 114–94, § 11605(b)(1), inserted “, including a program guide, a standard term sheet, and specific timetables” before period at end.
 
 Subsecs. (b), (c). Pub. L. 114–94, § 11605(b)(3), redesignated subsec. (b), relating to assignment of loan guarantees, as (c). Former subsec. (c) redesignated (d).

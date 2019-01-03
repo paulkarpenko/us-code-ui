@@ -287,11 +287,13 @@ For provisions directing that authorities established under this subchapter shal
 
 **(b) Coordination with BPA** If a Governor referred to in subsection (a) is the Governor of the State of Washington, Oregon, Idaho, or Montana, the Governor shall coordinate with the Administrator of the Bonneville Power Administration before making a request under subsection (a).
 
-**(c) Termination of authority** The authorities established under this subchapter shall terminate on September 30, 2017.
+**(c) Termination of authority** The authorities established under this subchapter shall terminate on September 30, 2020.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–141 substituted “2020” for “2017”.
+
 2014—Subsec. (c). Pub. L. 113–76 substituted “2017” for “2012”.
 
 2010—Subsec. (c). Pub. L. 111–212 substituted “September 30, 2012” for “September 30, 2010”.
@@ -388,11 +390,13 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 <a id="section-2242"></a>
 ## § 2242. Authorization of appropriations
 
-Except as otherwise provided in [section 2243 of this title](./chapter-040-reclamation-states-emergency-drought-relief.md#section-2243) (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $90,000,000 in total for the period of fiscal years 2006 through 2017.
+Except as otherwise provided in [section 2243 of this title](./chapter-040-reclamation-states-emergency-drought-relief.md#section-2243) (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2020.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–141 substituted “$120,000,000” for “$90,000,000” and “2020” for “2017”.
+
 2014—Pub. L. 113–235 substituted “2017” for “2012”.
 
 2010—Pub. L. 111–212 substituted “through 2012” for “through 2010”.

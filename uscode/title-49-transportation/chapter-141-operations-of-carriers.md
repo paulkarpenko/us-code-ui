@@ -22,7 +22,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 11101 of this title](./chapter-111-operations.md#section-11101) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14102"></a>
@@ -44,6 +44,9 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11107 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11107&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14103"></a>
 ## § 14103. Loading and unloading motor vehicles
@@ -60,6 +63,9 @@ Act of March 23, 1932, commonly known as the Norris-LaGuardia Act, referred to i
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11109 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11109&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Collection of Data on Delays in Goods Movement
 Pub. L. 114–94, div. A, title V, § 5501(b), Dec. 4, 2015, 129 Stat. 1550, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall establish by regulation a process to collect data on delays experienced by operators of commercial motor vehicles before the loading and unloading of such vehicles and at other points in the pick-up and delivery process.”
@@ -121,6 +127,9 @@ Provisions similar to those in this section were contained in [section 11110 of 
 #### Amendments
 2005—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.”
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Study of Enforcement of Consumer Protection Rules in Household Goods Moving Industry
 Pub. L. 106–159, title II, § 209(c), Dec. 9, 1999, 113 Stat. 1764, provided that: “The Comptroller General shall conduct a study of the effectiveness of the Department of Transportation’s enforcement of household goods consumer protection rules under title 49, United States Code. The study shall also include a review of other potential methods of enforcing such rules, including allowing States to enforce such rules.”
 
@@ -138,6 +147,9 @@ In this subchapter, the following definitions apply:
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11141 of this title](./chapter-111-operations.md#section-11141) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14122"></a>
@@ -166,6 +178,9 @@ Provisions similar to those in this section were contained in [section 11144 of 
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14123"></a>
@@ -214,3 +229,6 @@ Provisions similar to those in this section were contained in [section 11145 of 
 
 #### Amendments
 1997—Subsec. (c)(2)(B). Pub. L. 105–102 inserted “in” before “no event”.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

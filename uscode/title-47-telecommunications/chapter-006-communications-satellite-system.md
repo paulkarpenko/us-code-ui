@@ -64,21 +64,11 @@ Par. (7) of this section, which defined the term “communications common carrie
 
 
 <a id="section-703"></a>
-## § 703. Satellite service report
-**(a) Annual report** The Federal Communications Commission shall review competitive market conditions with respect to domestic and international satellite communications services and shall include in an annual report an analysis of those conditions. The Commission shall transmit a copy of the report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
-
-**(b) Content** The Commission shall include in the report—
-
-(1) an identification of the number and market share of competitors in domestic and international satellite markets;
-
-(2) an analysis of whether there is effective competition in the market for domestic and international satellite services; and
-
-(3) a list of any foreign nations in which legal or regulatory practices restrict access to the market for satellite services in such nation in a manner that undermines competition or favors a particular competitor or set of competitors.
+## § 703. Repealed. Pub. L. 115–141, div. P, title IV, § 402(b), Mar. 23, 2018, 132 Stat. 1089
 
 ### Statutory Notes
 
-#### Codification
-Section was not enacted as part of the Communications Satellite Act of 1962 which comprises this chapter.
+Section, Pub. L. 109–34, § 4, July 12, 2005, 119 Stat. 377, required the Federal Communications Commission to submit to Congress an annual report related to competitive market conditions with respect to domestic and international satellite communications services.
 
 
 <a id="section-721"></a>
@@ -515,36 +505,11 @@ The effective date of the Commission order relating to INTELSAT privatization, r
 
 
 <a id="section-765e"></a>
-## § 765e. Reports to Congress
-**(a) Annual reports** The President and the Commission shall report to the Committees on Commerce and International Relations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Foreign Relations of the Senate within 90 calendar days of March 17, 2000, and not less than annually thereafter, on the progress made to achieve the objectives and carry out the purposes and provisions of this subchapter. Such reports shall be made available immediately to the public.
-
-**(b) Contents of reports** The reports submitted pursuant to subsection (a) shall include the following:
-
-(1) Progress with respect to each objective since the most recent preceding report.
-
-(2) Views of the Parties with respect to privatization.
-
-(3) Views of industry and consumers on privatization.
-
-(4) Impact privatization has had on United States industry, United States jobs, and United States industry’s access to the global marketplace.
+## § 765e. Repealed. Pub. L. 115–141, div. P, title IV, § 402(a), Mar. 23, 2018, 132 Stat. 1089
 
 ### Statutory Notes
 
-#### Change of Name
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-#### Delegation of Responsibility
-Memorandum of President of the United States, Aug. 21, 2000, 65 F.R. 52289, provided:
-
-Memorandum for the Secretary of State
-
-By the authority vested in me by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, I hereby delegate to you the functions vested in me by section 646 of the ORBIT Act (Public Law 106–180) [probably means section 646 of Pub. L. 87–624, as added by Pub. L. 106–180, [47 U.S.C. 765e](./chapter-006-communications-satellite-system.md#section-765e)], relating to submission of annual reports to the appropriate congressional committees regarding the privatization of intergovernmental satellite organizations. The authority delegated by the memorandum may be further redelegated within the Department of State.
-
-You are authorized and directed to publish this memorandum in the Federal Register.
-
-William J. Clinton.
+Section, Pub. L. 87–624, title VI, § 646, as added Pub. L. 106–180, § 3, Mar. 17, 2000, 114 Stat. 57, related to reports to Congress on the progress made to achieve the objectives and carry out the purposes and provisions of this subchapter.
 
 
 <a id="section-765f"></a>

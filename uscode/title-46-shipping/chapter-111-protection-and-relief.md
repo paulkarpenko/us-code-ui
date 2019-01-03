@@ -306,7 +306,7 @@ The master of a documented vessel has the same lien against the vessel for the m
 
 (4) **Report required.—** — On the date on which the President submits each budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
 
-  (A) the amounts credited to the Fund under paragraph (2) 11 So in original. Probably should be “(3)”. for the preceding fiscal year; and
+  (A) the amounts credited to the Fund under paragraph (3) for the preceding fiscal year; and
 
   (B) amounts in the Fund that were expended for the preceding fiscal year.
 
@@ -336,7 +336,7 @@ The master of a documented vessel has the same lien against the vessel for the m
 
   (A) proceed in rem against the vessel on which the seafarer served in the Federal district court for the district in which the vessel is found; and
 
-  (B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(9)(a) 22 So in original. Probably should be “2(a)(9)(a)”. of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/9/a&num=0&edition=prelim)) 33 So in original. Probably should be “[33 U.S.C. 1901(a)(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/a&num=0&edition=prelim)))”. as the vessel on which the seafarer served.
+  (B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(a)(9)(A) of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(a)(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/A&num=0&edition=prelim)) as the vessel on which the seafarer served.
 
 (3) **Obtaining clearance.—** — A vessel may obtain clearance from the Secretary after it is withheld or revoked under paragraph (2)(B) if the vessel owner or operator—
 
@@ -372,4 +372,8 @@ The master of a documented vessel has the same lien against the vessel for the m
 The Immigration and Nationality Act, referred to in subsec. (a)(2)(A)(ii)(III), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(4)(A). Pub. L. 115–232, § 3546(i)(1), substituted “paragraph (3)” for “paragraph (2)”.
+
+Subsec. (c)(2)(B). Pub. L. 115–232, § 3546(i)(2), substituted “section 2(a)(9)(A)” for “section 2(9)(a)” and “[33 U.S.C. 1901(a)(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/A&num=0&edition=prelim)” for “[33 U.S.C. 1901(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/9/a&num=0&edition=prelim)”.
+
 2016—Subsec. (c)(1)(A)(i). Pub. L. 114–120 struck out “under this Act” after “any matter”.

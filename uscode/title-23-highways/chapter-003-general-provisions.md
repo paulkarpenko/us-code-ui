@@ -246,9 +246,11 @@ Subsec. (e) to (g). Pub. L. 109–59, § 1903(c)(4), (5), which directed amendme
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Buy America Waiver Notification and Annual Reports
-Pub. L. 115–31, div. K, title I, § 123, May 5, 2017, 131 Stat. 741, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
+Pub. L. 115–141, div. L, title I, § 122, Mar. 23, 2018, 132 Stat. 986, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. K, title I, § 123, May 5, 2017, 131 Stat. 741.
 
 Pub. L. 114–113, div. L, title I, § 122, Dec. 18, 2015, 129 Stat. 2847.
 
@@ -1169,7 +1171,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 (1) **In general.—** — The Secretary shall establish a pilot program to authorize States that have assumed responsibilities of the Secretary under section 327 and are approved to participate in the program under this section to conduct environmental reviews and make approvals for projects under State environmental laws and regulations instead of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), consistent with the requirements of this section.
 
-(2) **Participating states.—** — The Secretary may select not more than 5 States to participate in the program.
+(2) **Participating states.—** — The Secretary may select not more than 2 States to participate in the program.
 
 (3) **Alternative environmental review and approval procedures defined.—** — In this section, the term “alternative environmental review and approval procedures” means—
 
@@ -1267,7 +1269,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 (2) **Limitation on review.—**
 
-  (A) *In general.—* — Notwithstanding any other provision of law, a claim seeking judicial review of a permit, license, or approval issued by a State under this section shall be barred unless the claim is filed not later than 2 years after the date of publication in the Federal Register by the Secretary of a notice that the permit, license, or approval is final pursuant to the law under which the action is taken.
+  (A) *In general.—* — Notwithstanding any other provision of law, a claim seeking judicial review of a permit, license, or approval issued by a State under this section shall be barred unless the claim is filed not later than 150 days as set forth in section 139(l) after the date of publication in the Federal Register by the Secretary of a notice that the permit, license, or approval is final pursuant to the law under which the action is taken.
 
   (B) *Deadlines.—*
 
@@ -1283,7 +1285,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
   (B) *Treatment of final agency action.—*
 
-    (i) *In general.—* — The final agency action that follows preparation of a supplemental environmental impact statement, if required, shall be considered a separate final agency action, and the deadline for filing a claim for judicial review of the action shall be 2 years after the date of publication in the Federal Register by the Secretary of a notice announcing such action.
+    (i) *In general.—* — The final agency action that follows preparation of a supplemental environmental impact statement, if required, shall be considered a separate final agency action, and the deadline for filing a claim for judicial review of the action shall be 150 days as set forth in section 139(l) after the date of publication in the Federal Register by the Secretary of a notice announcing such action.
 
     (ii) *Deadlines.—*
 
@@ -1345,6 +1347,11 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (3)(A)(i), (ii), (B)(i), (ii), (d)(2), (f), (g), (h)(2), and (i)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The date of enactment of this section, referred to in subsecs. (j) and (k), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–254, § 578(1), substituted “2 States” for “5 States”.
+
+Subsec. (e)(2)(A), (3)(B)(i). Pub. L. 115–254, § 578(2), substituted “150 days as set forth in section 139(l)” for “2 years”.
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

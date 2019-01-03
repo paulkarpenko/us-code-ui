@@ -224,7 +224,12 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(2)(B)(i)
+Pub. L. 115–182, title I, § 144(a)(1)(C), (b), June 6, 2018, 132 Stat. 1429, 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under [section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), subsection (a)(2)(B)(i) of this section is amended by striking “with section 1703” and inserting “with sections 1703A, 8111, and 8153”. See 2018 Amendment note below.
+
 #### Amendments
+2018—Subsec. (a)(2)(B)(i). Pub. L. 115–182 substituted “with sections 1703A, 8111, and 8153” for “with section 1703”.
+
 2015—Subsec. (c). Pub. L. 114–58 substituted “interment” for “internment” in introductory provisions.
 
 2010—Subsec. (a)(1)(A). Pub. L. 111–275, § 501(a), substituted “$700 (as increased from time to time under subsection (c))” for “$300”.
@@ -284,6 +289,9 @@ Subsec. (b). Pub. L. 95–476 substituted provisions requiring Administrator to 
 1960—Subsec. (b). Pub. L. 86–624 substituted “continental United States or Hawaii” for “continental United States (including Alaska)” in two places.
 
 1959—Subsec. (b). Pub. L. 86–70 substituted “continental United States (including Alaska), the Administrator shall transport the body to the place of burial in the continental United States (including Alaska)” for “continental United States, the Administrator shall transport the body to the place of burial in the United States, or to the place of burial within Alaska if the deceased was a resident of Alaska who had been brought to the United States as a beneficiary of the Veterans’ Administration for hospital or domiciliary care”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. Law 115–182 effective on the date described in section 101(b) of Pub. Law 115–182, see section 144(b) of Pub. Law 115–182, set out as a note under [section 1712 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–275, title V, § 501(d), Oct. 13, 2010, 124 Stat. 2881, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply with respect to deaths occurring on or after October 1, 2011. “(2) Prohibition on cost-of-living adjustment for fiscal year 2012.—No adjustments shall be made under [section 2303(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303/c&num=0&edition=prelim), United States Code, as added by subsection (c), for fiscal year 2012.”
@@ -352,21 +360,21 @@ The death of any person who had a status which would, under the laws in effect o
 
 (3) Soldiers of the Union and Confederate Armies of the Civil War.
 
-(4) Any individual described in [section 2402(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a/5&num=0&edition=prelim) who is buried in a veterans’ cemetery owned by a State.
+(4) Any individual described in [section 2402(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a/5&num=0&edition=prelim) who is buried in a veterans’ cemetery owned by a State or a veterans’ cemetery owned by a tribal organization or on land owned by or held in trust for a tribal organization.
 
 (5) Any individual who at the time of death was entitled to retired pay under chapter 1223 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
 **(b)**
 
-(1) The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating an eligible individual whose remains are unavailable. Such a headstone or marker shall be furnished for placement in a national cemetery area reserved for that purpose under [section 2403 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2403), a veterans’ cemetery owned by a State, or, in the case of a veteran, in a State, local, or private cemetery.
+(1) The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating an eligible individual whose remains are unavailable. Such a headstone or marker shall be furnished for placement in a national cemetery area reserved for that purpose under [section 2403 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2403), a veterans’ cemetery owned by a State, a veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization, or, in the case of a veteran, in a State, local, or private cemetery.
 
 (2) For purposes of paragraph (1), an eligible individual is any of the following:
 
   (A) A veteran.
 
-  (B) The spouse or surviving spouse of a veteran.
+  (B) An individual who dies on or after November 11, 1998, who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before October 1, 2024.
 
-  (C) An eligible dependent child of a veteran.
+  (C) An individual who dies on or after November 11, 1998, who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before October 1, 2024.
 
 (3) For purposes of paragraph (1), the remains of an individual shall be considered to be unavailable if the individual’s remains—
 
@@ -422,15 +430,21 @@ The death of any person who had a status which would, under the laws in effect o
 
     (ii) is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
 
-    (iii) was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) (including posthumously).
+    (iii) was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 (including posthumously).
 
-  (D) In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim).
+  (D) In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 of title 14.
 
 **(e)**
 
-(1) The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration in which remains are interred in a casket. The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
+(1)
 
-(2) The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration or in the Arlington National Cemetery shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs or Secretary of the Army, respectively.
+  (A) The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration in which remains are interred in a casket.
+
+  (B) The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
+
+  (C) The Secretary of the Interior shall provide an outer burial receptacle for each such a grave in an open national cemetery administered by the National Park Service.
+
+(2) The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs, the Secretary of the Army, or the Secretary of the Interior, respectively.
 
 (3) Regulations or procedures under paragraph (2) may specify that—
 
@@ -440,15 +454,25 @@ The death of any person who had a status which would, under the laws in effect o
 
     (i) to pay the amount by which the cost of the outer burial receptacle exceeds the cost of the grave liner that would otherwise have been provided in the absence of the election; and
 
-    (ii) to pay the amount of the administrative costs incurred by the Secretary (or, with respect to Arlington National Cemetery, the Secretary of the Army) in providing the outer burial receptacle in lieu of such grave liner.
+    (ii) to pay the amount of the administrative costs incurred by the Secretary (or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service) in providing the outer burial receptacle in lieu of such grave liner.
 
-(4) Regulations or procedures under paragraph (2) may provide for the use of a voucher system, or other system of reimbursement approved by the Secretary (or, with respect to Arlington National Cemetery, the Secretary of the Army), for payment for outer burial receptacles other than grave liners provided under such regulations or procedures.
+(4) Regulations or procedures under paragraph (2) may provide for the use of a voucher system, or other system of reimbursement approved by the Secretary (or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service), for payment for outer burial receptacles other than grave liners provided under such regulations or procedures.
 
-**(f)** The Secretary may furnish a casket or urn, of such quality as the Secretary considers appropriate for a dignified burial, for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408) in any case in which the Secretary—
+**(f)**
 
-(1) is unable to identify the veteran’s next of kin, if any; and
+(1) The Secretary may furnish a casket or urn, of such quality as the Secretary considers appropriate for a dignified burial, for burial of a deceased veteran in a covered cemetery in any case in which the Secretary—
 
-(2) determines that sufficient resources for the furnishing of a casket or urn for such burial are not otherwise available.
+  (A) is unable to identify the veteran’s next of kin, if any; and
+
+  (B) determines that sufficient resources for the furnishing of a casket or urn for such burial are not otherwise available.
+
+(2) The term “covered cemetery” means any of the following:
+
+  (A) A national cemetery.
+
+  (B) A veterans’ cemetery of a State for which the Department has provided a grant under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408).
+
+  (C) A veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization for which the Department has provided a grant under subsection (f) of such section.
 
 **(g)**
 
@@ -466,9 +490,37 @@ The death of any person who had a status which would, under the laws in effect o
 
 (4) A casket or urn may not be furnished under subsection (f) for burial of a person described in [section 2411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411/b&num=0&edition=prelim).
 
+**(i)** In this section, the term “tribal organization” has the meaning given such term in [section 3765 of this title](./chapter-037-housing-and-small-business-loans.md#section-3765).
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(4). Pub. L. 115–407, § 201(1), inserted “or a veterans’ cemetery owned by a tribal organization or on land owned by or held in trust for a tribal organization” after “State”.
+
+Subsec. (b)(1). Pub. L. 115–407, § 201(2), inserted “, a veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization” after “owned by a State”.
+
+Subsec. (b)(2)(B). Pub. L. 115–407, § 202(a)(1), inserted “, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before October 1, 2024” after “veteran”.
+
+Pub. L. 115–136, § 1(1), substituted “An individual who dies on or after November 11, 1998, who is the” for “The”.
+
+Subsec. (b)(2)(C). Pub. L. 115–407, § 202(a)(2), inserted “, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before October 1, 2024” after “veteran”.
+
+Pub. L. 115–136, § 1(2), substituted “An individual who dies on or after November 11, 1998, who is an” for “An”.
+
+Subsec. (d)(5)(C)(iii), (D). Pub. L. 115–232 substituted “section 7271, 8291, or 9271 of title 10” for “section 3741, 6241, or 8741 of title 10”.
+
+Subsec. (e)(1). Pub. L. 115–184, § 2(1), designated first sentence as subpar. (A) and second sentence as subpar. (B) and added subpar. (C).
+
+Subsec. (e)(2). Pub. L. 115–184, § 2(2), substituted “, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service” for “or in the Arlington National Cemetery” and “, the Secretary of the Army, or the Secretary of the Interior” for “or Secretary of the Army”.
+
+Subsec. (e)(3)(B)(ii). Pub. L. 115–184, § 2(3), substituted “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service” for “or, with respect to Arlington National Cemetery, the Secretary of the Army”.
+
+Subsec. (e)(4). Pub. L. 115–184, § 2(4), substituted “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service” for “or, with respect to Arlington National Cemetery, the Secretary of the Army”.
+
+Subsec. (f). Pub. L. 115–407, § 201(3), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “a covered cemetery” for “a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408)” in introductory provisions of par. (1), and added par. (2).
+
+Subsec. (i). Pub. L. 115–407, § 201(4), added subsec. (i).
+
 2016—Subsec. (d)(4). Pub. L. 114–315, § 301(1), added par. (4) and struck out former par. (4) which read as follows: “In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased’s status as a veteran, to be attached to a headstone or marker furnished at private expense.”
 
 Subsec. (d)(5). Pub. L. 114–315, § 301(2), added par. (5).
@@ -588,6 +640,12 @@ Subsec. (e). Pub. L. 100–322, § 344(a), added subsec. (e).
 1978—Subsec. (b). Pub. L. 95–479 struck out “dying in the service, and” after “to commemorate any veteran”.
 
 Subsecs. (c), (d). Pub. L. 95–476 added subsecs. (c) and (d).
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) redesignated [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–260, title I, § 101(b), Jan. 10, 2013, 126 Stat. 2418, provided that: “Subsections (f) and (h)(4) of [section 2306 of title 38](./chapter-023-burial-benefits.md#section-2306), United States Code, as added by subsection (a), shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 10, 2013] and shall apply with respect to deaths occurring on or after the date that is one year after the date of the enactment of this Act.”

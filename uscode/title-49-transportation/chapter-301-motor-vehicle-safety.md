@@ -24,6 +24,15 @@ The purpose of this chapter is to reduce traffic accidents and deaths and injuri
 
 The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–323, § 1, Dec. 17, 2018, 132 Stat. 4443, provided that: “This Act [amending provisions set out as a note under [section 30301 of this title](./chapter-303-national-driver-register.md#section-30301)] may be cited as the ‘REAL ID Act Modification for Freely Associated States Act’.”
+
+Pub. L. 115–106, § 1, Jan. 8, 2018, 131 Stat. 2265, provided that: “This Act [amending [section 31310 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31310)] may be cited as the ‘No Human Trafficking on Our Roads Act’.”
+
+Pub. L. 115–105, § 1, Jan. 8, 2018, 131 Stat. 2263, provided that: “This Act [amending [section 31305 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31305) and enacting and amending provisions set out as notes under [section 31149 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31149)] may be cited as the ‘Jobs for Our Heroes Act’.”
+
+Pub. L. 115–99, § 1, Jan. 3, 2018, 131 Stat. 2242, provided that: “This Act [amending sections 31110 and 31313 of this title and enacting provisions set out as a note under [section 102 of this title](./chapter-001-organization.md#section-102)] may be cited as the ‘Combating Human Trafficking in Commercial Vehicles Act’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114–94, div. B, title XXIV, § 24109(a), Dec. 4, 2015, 129 Stat. 1706, provided that: “This section [amending sections 30102, 30120, 30122, and 30166 of this title and enacting provisions set out as notes under [section 30102 of this title](./chapter-301-motor-vehicle-safety.md#section-30102)] may be cited as the ‘Raechel and Jacqueline Houck Safe Rental Car Act of 2015’.”
 

@@ -642,13 +642,15 @@ Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members
 
 (1) be ordered to active duty for a period of two years or the period of obligated service the person has remaining under [section 16132 of this title](./chapter-1606-educational-assistance-for-members-of-the-selected-reserve.md#section-16132), whichever is less; or
 
-(2) be subject to the repayment provisions under [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+(2) be subject to the repayment provisions under section 303a(e) or 373 of title 37.
 
-**(b) Effect of Repayment.—** Any repayment under [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim) shall not affect the period of obligation of a member to serve as a Reserve in the Selected Reserve.
+**(b) Effect of Repayment.—** Any repayment under section 303a(e) or 373 of title 37 shall not affect the period of obligation of a member to serve as a Reserve in the Selected Reserve.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsecs. (a)(2), (b). Pub. L. 115–91 inserted “or 373” before “of title 37”.
+
 2006—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to penalties for failure of a member of the Selected Reserve of the Ready Reserve of an armed force to participate satisfactorily in required training.
 
 2002—Subsec. (c). Pub. L. 107–314 added subsec. (c).

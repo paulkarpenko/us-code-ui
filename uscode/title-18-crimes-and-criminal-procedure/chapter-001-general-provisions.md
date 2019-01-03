@@ -16,6 +16,27 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 #### Effective Date of Repeal
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–395, § 1, Dec. 21, 2018, 132 Stat. 5287, provided that: “This Act [amending sections 2258A to 2258E of this title] may be cited as the ‘CyberTipline Modernization Act of 2018’.”
+
+Pub. L. 115–392, § 1(a), Dec. 21, 2018, 132 Stat. 5250, provided that: “This Act [enacting [section 2429 of this title](./chapter-117-transportation-for-illegal-sexual-activity-and-related-crimes.md#section-2429), [section 645 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section645&num=0&edition=prelim), Domestic Security, and [section 20709a of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20709a&num=0&edition=prelim), Crime Control and Law Enforcement, amending sections 521, 1583, 1587, 1591, 2423, 2426, 2516, and 3014 of this title, sections 187 and 473 of Title 6, sections 7103, 7105, and 7110 of Title 22, Foreign Relations and Intercourse, [section 524 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524&num=0&edition=prelim), Judiciary and Judicial Procedure, [section 9705 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705&num=0&edition=prelim), Money and Finance, and sections 20304, 20708, 20711, and 41309 of Title 34, and enacting provisions set out as notes under sections 20701 and 20704 of Title 34] may be cited as the ‘Abolish Human Trafficking Act of 2017’.”
+
+Pub. L. 115–391, § 1(a), Dec. 21, 2018, 132 Stat. 5194, provided that: “This Act [see Tables for classification] may be cited as the ‘First Step Act of 2018’.”
+
+Pub. L. 115–391, title II, § 201, Dec. 21, 2018, 132 Stat. 5216, provided that: “This title [enacting [section 4050 of this title](./chapter-303-bureau-of-prisons.md#section-4050)] may be cited as the ‘Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2018’.”
+
+Pub. L. 115–299, § 1, Dec. 7, 2018, 132 Stat. 4383, provided that: “This Act [enacting sections 2259A and 2259B of this title, amending sections 1593, 2252A, 2256, 2259, 3509, and 3613 of this title and [section 20101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20101&num=0&edition=prelim), Crime Control and Law Enforcement, and enacting provisions set out as a note under [section 2259 of this title](./chapter-110-sexual-exploitation-and-other-abuse-of-children.md#section-2259)] may be cited as the ‘Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018’.”
+
+Pub. L. 115–271, title VIII, § 8121, Oct. 24, 2018, 132 Stat. 4108, provided that: “This subtitle [subtitle J (§§ 8121, 8122) of title VIII of Pub. L. 115–271, enacting [section 220 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-220)] may be cited as the ‘Eliminating Kickbacks in Recovery Act of 2018’.”
+
+Pub. L. 115–253, § 1, Oct. 3, 2018, 132 Stat. 3183, provided that: “This Act [amending sections 2331, 2333 and 2334 of this title and enacting provisions set out as notes under sections 2331, 2332 and 2334 of this title] may be cited as the ‘Anti-Terrorism Clarification Act of 2018’.”
+
+Pub. L. 115–249, § 1, Sept. 28, 2018, 132 Stat. 3162, provided that: “This Act [amending [section 247 of this title](./chapter-013-civil-rights.md#section-247)] may be cited as the ‘Protecting Religiously Affiliated Institutions Act of 2018’.”
+
+Pub. L. 115–164, § 1, Apr. 11, 2018, 132 Stat. 1253, provided that: “This Act [enacting [section 2421A of this title](./chapter-117-transportation-for-illegal-sexual-activity-and-related-crimes.md#section-2421a), amending sections 1591 and 1595 of this title and [section 230 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230&num=0&edition=prelim), Telecommunications, and enacting provisions set out as notes under [section 230 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230&num=0&edition=prelim)] may be cited as the ‘Allow States and Victims to Fight Online Sex Trafficking Act of 2017’.”
+
+Pub. L. 115–141, div. V, § 101, Mar. 23, 2018, 132 Stat. 1213, provided that: “This division [enacting sections 2523 and 2713 of this title, amending sections 2511, 2520, 2702, 2703, 2707, 3121, and 3124 of this title, and enacting provisions set out as notes under sections 2520, 2523, and 2703 of this title] may be cited as the ‘Clarifying Lawful Overseas Use of Data Act’ or the ‘CLOUD Act’.”
+
 #### Short Title of 2016 Amendment
 Pub. L. 114–316, § 1, Dec. 16, 2016, 130 Stat. 1593, provided that: “This Act [enacting [section 3273 of this title](./chapter-212a-extraterritorial-jurisdiction-over-certain-offenses.md#section-3273) and provisions set out as a note under [section 3273 of this title](./chapter-212a-extraterritorial-jurisdiction-over-certain-offenses.md#section-3273)] may be cited as the ‘Promoting Travel, Commerce, and National Security Act of 2016’.”
 
@@ -74,7 +95,7 @@ Pub. L. 111–225, § 1, Aug. 10, 2010, 124 Stat. 2387, provided that: “This A
 Pub. L. 111–174, § 1, May 27, 2010, 124 Stat. 1216, provided that: “This Act [enacting [section 114 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section114&num=0&edition=prelim), Judiciary and Judicial Procedure, amending sections 2519, 3006A, 3154, and 3553 of this title and [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), and repealing [section 114 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section114&num=0&edition=prelim)] may be cited as the ‘Federal Judiciary Administrative Improvements Act of 2010’.”
 
 #### Short Title of 2009 Amendment
-Pub. L. 111–84, div. E, § 4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was transferred to a note under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim), Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, § 4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was editorially reclassified and is set out as a note under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 Pub. L. 111–79, § 1, Oct. 19, 2009, 123 Stat. 2086, provided that: “This Act [enacting [section 3512 of this title](./chapter-223-witnesses-and-evidence.md#section-3512) and amending sections 2703, 2711, and 3127 of this title] may be cited as the ‘Foreign Evidence Request Efficiency Act of 2009’.”
 

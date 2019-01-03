@@ -1023,7 +1023,7 @@ Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any inj
 
 <a id="section-8118"></a>
 ## § 8118. Continuation of pay; election to use annual or sick leave
-**(a)** The United States shall authorize the continuation of pay of an employee, as defined in [section 8101(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101/1&num=0&edition=prelim) (other than those referred to in clause (B) or (E), who has filed a claim for a period of wage loss due to a traumatic injury with his immediate superior on a form approved by the Secretary of Labor within the time specified in [section 8122(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8122/a/2&num=0&edition=prelim).
+**(a)** The United States shall authorize the continuation of pay of an employee, as defined in [section 8101(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101/1&num=0&edition=prelim) (other than those referred to in clause (B) or (E)), who has filed a claim for a period of wage loss due to a traumatic injury with his immediate superior on a form approved by the Secretary of Labor within the time specified in [section 8122(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8122/a/2&num=0&edition=prelim).
 
 **(b)** Continuation of pay under this subchapter shall be furnished—
 
@@ -1970,6 +1970,14 @@ Pub. L. 98–94, title XII, § 1258(b), Sept. 24, 1983, 97 Stat. 702, provided t
 
   (B) the period between enrollment as a volunteer and the termination of service as a volunteer by the President or by death or resignation.
 
+**(d)**
+
+(1) The Secretary shall authorize the Director of the Peace Corps to furnish medical benefits to a volunteer, who is injured during the volunteer’s period of service, for a period of 120 days following the termination of such service if the Director certifies that the volunteer’s injury probably meets the requirements under subsection (c)(3). The Secretary may then certify vouchers for these expenses for such volunteer out of the Employees’ Compensation Fund.
+
+(2) The Secretary shall prescribe the form and content of the certification required under paragraph (1).
+
+(3) A certification under paragraph (1) will cease to be effective if the volunteer sustains compensable disability in connection with volunteer service.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1992,6 +2000,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 [Section 8142 of title 5](./chapter-081-compensation-for-work-injuries.md#section-8142) was derived from [section 2504(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/d&num=0&edition=prelim). This amendment reflects changes, effected by the act of Sept. 13, 1966, Public Law 89–572, section 4, 80 Stat. 765, in the definitions applicable to section 2504(d) by virtue of section 2522(a), (b) of title 22.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–256 added subsec. (d).
+
 1974—Subsec. (c)(2). Pub. L. 93–416 inserted provision relating to a volunteer with one or more minor children.
 
 #### Effective Date of 1974 Amendment
@@ -2357,7 +2367,7 @@ Increases authorized under amendment by section 1(71) of Pub. L. 90–83 not app
 ## § 8150. Effect on other statutes
 **(a)** This subchapter does not affect the maritime rights and remedies of a master or member of the crew of a vessel.
 
-**(b)** [Section 8141 of this title](./chapter-081-compensation-for-work-injuries.md#section-8141) and [section 9441 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9441&num=0&edition=prelim) do not confer military or veteran status on any individual.
+**(b)** [Section 8141 of this title](./chapter-081-compensation-for-work-injuries.md#section-8141) and [section 9491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9491&num=0&edition=prelim) do not confer military or veteran status on any individual.
 
 ### Statutory Notes
 
@@ -2368,6 +2378,12 @@ Increases authorized under amendment by section 1(71) of Pub. L. 90–83 not app
 | (b) | [5 U.S.C. 803a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section803a&num=0&edition=prelim). | Aug. 3, 1956, ch. 926, § 1 “Sec. 4”, 70 Stat. 981. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “[section 9491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9491&num=0&edition=prelim)” for “[section 9441 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9441&num=0&edition=prelim)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-8151"></a>

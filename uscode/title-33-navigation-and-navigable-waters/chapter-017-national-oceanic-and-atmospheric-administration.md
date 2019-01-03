@@ -673,116 +673,113 @@ Pub. L. 106–553, § 1(a)(2) [title V], Dec. 21, 2000, 114 Stat. 2762, 2762A–
 #### Executive Order No. 13366
 Ex. Ord. No. 13366, Dec. 17, 2004, 69 F.R. 76591, which established the Committee on Ocean Policy, was revoked by Ex. Ord. No. 13547, § 10, July 19, 2010, 75 F.R. 43027, set out below.
 
-#### Ex. Ord. No. 13547. Stewardship of the Ocean, Our Coasts, and the Great Lakes
-Ex. Ord. No. 13547, July 19, 2010, 75 F.R. 43023, provided:
+#### Executive Order No. 13547
+Ex. Ord. No. 13547, July 19, 2010, 75 F.R. 43023, which established policy regarding stewardship of the ocean, coasts, and the Great Lakes and established the National Ocean Council, was revoked by Ex. Ord. No. 13840, § 7, June 19, 2018, 83 F.R. 29433, set out below.
+
+#### Ex. Ord. No. 13840. Ocean Policy To Advance the Economic, Security, and Environmental Interests of the United States
+Ex. Ord. No. 13840, June 19, 2018, 83 F.R. 29431, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. Purpose. The ocean, our coasts, and the Great Lakes provide jobs, food, energy resources, ecological services, recreation, and tourism opportunities, and play critical roles in our Nation’s transportation, economy, and trade, as well as the global mobility of our Armed Forces and the maintenance of international peace and security. The Deepwater Horizon oil spill in the Gulf of Mexico and resulting environmental crisis is a stark reminder of how vulnerable our marine environments are, and how much communities and the Nation rely on healthy and resilient ocean and coastal ecosystems. America’s stewardship of the ocean, our coasts, and the Great Lakes is intrinsically linked to environmental sustainability, human health and well-being, national prosperity, adaptation to climate and other environmental changes, social justice, international diplomacy, and national and homeland security.
+Section 1. Purpose. The ocean, coastal, and Great Lakes waters of the United States are foundational to the economy, security, global competitiveness, and well-being of the United States. Ocean industries employ millions of Americans and support a strong national economy. Domestic energy production from Federal waters strengthens the Nation’s security and reduces reliance on imported energy. Our Armed Forces protect our national interests in the ocean and along the Nation’s coasts. Goods and materials that support our economy and quality of life flow through maritime commerce. Our fisheries resources help feed the Nation and present tremendous export opportunities. Clean, healthy waters support fishing, boating, and other recreational opportunities for all Americans.
 
-This order adopts the recommendations of the Interagency Ocean Policy Task Force, except where otherwise provided in this order, and directs executive agencies to implement those recommendations under the guidance of a National Ocean Council. Based on those recommendations, this order establishes a national policy to ensure the protection, maintenance, and restoration of the health of ocean, coastal, and Great Lakes ecosystems and resources, enhance the sustainability of ocean and coastal economies, preserve our maritime heritage, support sustainable uses and access, provide for adaptive management to enhance our understanding of and capacity to respond to climate change and ocean acidification, and coordinate with our national security and foreign policy interests.
+This order maintains and enhances these and other benefits to the Nation through improved public access to marine data and information, efficient interagency coordination on ocean-related matters, and engagement with marine industries, the science and technology community, and other ocean stakeholders. To advance these national interests, this order recognizes and supports Federal participation in regional ocean partnerships, to the extent appropriate and consistent with national security interests and statutory authorities.
 
-This order also provides for the development of coastal and marine spatial plans that build upon and improve existing Federal, State, tribal, local, and regional decisionmaking and planning processes. These regional plans will enable a more integrated, comprehensive, ecosystem-based, flexible, and proactive approach to planning and managing sustainable multiple uses across sectors and improve the conservation of the ocean, our coasts, and the Great Lakes.
+Sec. 2. Policy. It shall be the policy of the United States to:
 
-Sec. 2. Policy. (a) To achieve an America whose stewardship ensures that the ocean, our coasts, and the Great Lakes are healthy and resilient, safe and productive, and understood and treasured so as to promote the well-being, prosperity, and security of present and future generations, it is the policy of the United States to:
+(a) coordinate the activities of executive departments and agencies (agencies) regarding ocean-related matters to ensure effective management of ocean, coastal, and Great Lakes waters and to provide economic, security, and environmental benefits for present and future generations of Americans;
 
-(i) protect, maintain, and restore the health and biological diversity of ocean, coastal, and Great Lakes ecosystems and resources;
+(b) continue to promote the lawful use of the ocean by agencies, including United States Armed Forces;
 
-(ii) improve the resiliency of ocean, coastal, and Great Lakes ecosystems, communities, and economies;
+(c) exercise rights and jurisdiction and perform duties in accordance with applicable domestic law and—if consistent with applicable domestic law—international law, including customary international law;
 
-(iii) bolster the conservation and sustainable uses of land in ways that will improve the health of ocean, coastal, and Great Lakes ecosystems;
+(d) facilitate the economic growth of coastal communities and promote ocean industries, which employ millions of Americans, advance ocean science and technology, feed the American people, transport American goods, expand recreational opportunities, and enhance America’s energy security;
 
-(iv) use the best available science and knowledge to inform decisions affecting the ocean, our coasts, and the Great Lakes, and enhance humanity’s capacity to understand, respond, and adapt to a changing global environment;
+(e) ensure that Federal regulations and management decisions do not prevent productive and sustainable use of ocean, coastal, and Great Lakes waters;
 
-(v) support sustainable, safe, secure, and productive access to, and uses of the ocean, our coasts, and the Great Lakes;
+(f) modernize the acquisition, distribution, and use of the best available ocean-related science and knowledge, in partnership with marine industries; the ocean science and technology community; State, tribal, and local governments; and other ocean stakeholders, to inform decisions and enhance entrepreneurial opportunity; and
 
-(vi) respect and preserve our Nation’s maritime heritage, including our social, cultural, recreational, and historical values;
+(g) facilitate, as appropriate, coordination, consultation, and collaboration regarding ocean-related matters, consistent with applicable law, among Federal, State, tribal, and local governments, marine industries, the ocean science and technology community, other ocean stakeholders, and foreign governments and international organizations.
 
-(vii) exercise rights and jurisdiction and perform duties in accordance with applicable international law, including respect for and preservation of navigational rights and freedoms, which are essential for the global economy and international peace and security;
+Sec. 3. Definitions. For the purposes of this order, the following definitions apply:
 
-(viii) increase scientific understanding of ocean, coastal, and Great Lakes ecosystems as part of the global interconnected systems of air, land, ice, and water, including their relationships to humans and their activities;
+(a) “Ocean-related matters” means management, science, and technology matters involving the ocean, coastal, and Great Lakes waters of the United States (including its territories and possessions), and related seabed, subsoil, waters superadjacent to the seabed, and natural resources.
 
-(ix) improve our understanding and awareness of changing environmental conditions, trends, and their causes, and of human activities taking place in ocean, coastal, and Great Lakes waters; and
+(b) “Regional ocean partnership” means a regional organization of coastal or Great Lakes States, territories, or possessions voluntarily convened by governors to address cross-jurisdictional ocean matters, or the functional equivalent of such a regional ocean organization designated by the governor or governors of a State or States.
 
-(x) foster a public understanding of the value of the ocean, our coasts, and the Great Lakes to build a foundation for improved stewardship.
+Sec. 4. Interagency Coordination. (a) To ensure appropriate coordination by Federal agencies on ocean-related matters, there is hereby established the interagency Ocean Policy Committee (Committee).
 
-(b) The United States shall promote this policy by:
+(i) The Committee shall consist of the following:
 
-(i) ensuring a comprehensive and collaborative framework for the stewardship of the ocean, our coasts, and the Great Lakes that facilitates cohesive actions across the Federal Government, as well as participation of State, tribal, and local authorities, regional governance structures, nongovernmental organizations, the public, and the private sector;
+(1) The Chairman of the Council on Environmental Quality (CEQ) and the Director of the Office of Science and Technology Policy (OSTP), who shall serve as Co-Chairs;
 
-(ii) cooperating and exercising leadership at the international level;
+(2) The Secretary of State, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Transportation, Secretary of Energy, Secretary of Homeland Security, Administrator of the Environmental Protection Agency, Director of the Office of Management and Budget, Administrator of the National Aeronautics and Space Administration, Director of the National Science Foundation, Director of National Intelligence, Chairman of the Joint Chiefs of Staff, Under Secretary of Commerce for Oceans and Atmosphere, Assistant Secretary of the Army (Civil Works), and Commandant of the Coast Guard;
 
-(iii) pursuing the United States’ accession to the Law of the Sea Convention; and
+(3) The Assistants to the President for National Security Affairs, Homeland Security and Counterterrorism, Domestic Policy, and Economic Policy;
 
-(iv) supporting ocean stewardship in a fiscally responsible manner.
+(4) A representative from the Office of the Vice President designated by the Vice President; and
 
-Sec. 3. Definitions. As used in this order:
+(5) Such other officers or employees of the Federal Government as the Co-Chairs may from time to time designate.
 
-(a) “Final Recommendations” means the Final Recommendations of the Interagency Ocean Policy Task Force that shall be made publicly available and for which a notice of public availability shall be published in the Federal Register.
+(b) The Co-Chairs, in coordination with the Assistants to the President for National Security Affairs, Homeland Security and Counterterrorism, Domestic Policy, and Economic Policy, shall regularly convene and preside at meetings of the Committee, determine its agenda, and direct its work, and shall establish and direct subcommittees of the Committee as appropriate. The Committee shall, as appropriate, establish subcommittees with responsibility for advising the Committee on matters pertaining to ocean science and technology and ocean-resource management.
 
-(b) The term “coastal and marine spatial planning” means a comprehensive, adaptive, integrated, ecosystem-based, and transparent spatial planning process, based on sound science, for analyzing current and anticipated uses of ocean, coastal, and Great Lakes areas. Coastal and marine spatial planning identifies areas most suitable for various types or classes of activities in order to reduce conflicts among uses, reduce environmental impacts, facilitate compatible uses, and preserve critical ecosystem services to meet economic, environmental, security, and social objectives. In practical terms, coastal and marine spatial planning provides a public policy process for society to better determine how the ocean, our coasts, and Great Lakes are sustainably used and protected—now and for future generations.
+(i) Committee members may designate, to perform their Committee or subcommittee functions, any person who is within their department, agency, or office who is:
 
-(c) The term “coastal and marine spatial plans” means the plans that are certified by the National Ocean Council as developed in accordance with the definition, goals, principles, and process described in the Final Recommendations.
+(1) a civilian official appointed by the President;
 
-Sec. 4. Establishment of National Ocean Council. (a) There is hereby established the National Ocean Council (Council).
+(2) a member of the Senior Executive Service or the Senior Intelligence Service;
 
-(b) The Council shall consist of the following:
+(3) a general officer or flag officer; or
 
-(i) the Chair of the Council on Environmental Quality and the Director of the Office of Science and Technology Policy, who shall be the Co-Chairs of the Council;
+(4) an employee of the Office of the Vice President.
 
-(ii) the Secretaries of State, Defense, the Interior, Agriculture, Health and Human Services, Commerce, Labor, Transportation, Energy, and Homeland Security, the Attorney General, the Administrator of the Environmental Protection Agency, the Director of the Office of Management and Budget, the Under Secretary of Commerce for Oceans and Atmosphere (Administrator of the National Oceanic and Atmospheric Administration), the Administrator of the National Aeronautics and Space Administration, the Director of National Intelligence, the Director of the National Science Foundation, and the Chairman of the Joint Chiefs of Staff;
+(ii) Consistent with applicable law and subject to the availability of appropriations, OSTP or CEQ shall provide the Committee with funding, including through the National Science and Technology Council pursuant to title VII, section 723 of [division E of] the Consolidated Appropriations Act, 2018 (Public Law 115–141 [132 Stat. 592]), or any successor provision, or through the Office of Environmental Quality pursuant to the Office of Environmental Quality Management Fund, [42 U.S.C. 4375](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4375&num=0&edition=prelim). OSTP or CEQ shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support as needed to implement this order.
 
-(iii) the National Security Advisor and the Assistants to the President for Homeland Security and Counterterrorism, Domestic Policy, Energy and Climate Change, and Economic Policy;
+(iii) The Committee shall be administered by an Executive Director and such full-time staff as the Co-Chairs recommend.
 
-(iv) an employee of the Federal Government designated by the Vice President; and
+Sec. 5. Functions. To implement the policy set forth in section 2 of this order, the Committee shall, to the extent permitted by law:
 
-(v) such other officers or employees of the Federal Government as the Co-Chairs of the Council may from time to time designate.
+(a) provide advice regarding policies concerning ocean-related matters to:
 
-(c) The Co-Chairs shall invite the participation of the Chairman of the Federal Energy Regulatory Commission, to the extent consistent with the Commission’s statutory authorities and legal obligations, and may invite the participation of such other independent agencies as the Council deems appropriate.
+(i) the President; and
 
-(d) The Co-Chairs of the Council, in consultation with the National Security Advisor and the Assistant to the President for Homeland Security and Counterterrorism, shall regularly convene and preside at meetings of the Council, determine its agenda, direct its work, and, as appropriate to address particular subject matters, establish and direct committees of the Council that shall consist exclusively of members of the Council.
+(ii) the head of any agency who is a member of the Committee;
 
-(e) A member of the Council may designate, to perform committee functions of the member, any person who is within such member’s department, agency, or office and who is (i) an officer of the United States appointed by the President, (ii) a member of the Senior Executive Service or the Senior Intelligence Service, (iii) a general officer or flag officer, or (iv) an employee of the Vice President.
+(b) engage and collaborate, under existing laws and regulations, with stakeholders, including regional ocean partnerships, to address ocean-related matters that may require interagency or intergovernmental solutions;
 
-(f) Consistent with applicable law and subject to the availability of appropriations, the Office of Science and Technology Policy and the Council on Environmental Quality shall provide the Council with funding, including through the National Science and Technology Council or the Office of Environmental Quality. The Council on Environmental Quality shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support necessary to implement this order.
+(c) coordinate the timely public release of unclassified data and other information related to the ocean, coasts, and Great Lakes that agencies collect, and support the common information management systems, such as the Marine Cadastre, that organize and disseminate this information;
 
-(g) The day-to-day operations of the Council shall be administered by a Director and a Deputy Director, who shall supervise a full-time staff to assist the Co-Chairs in their implementation of this order.
+(d) coordinate and inform the ocean policy-making process and identify priority ocean research and technology needs, to facilitate:
 
-Sec. 5. Functions of the Council. (a) The Council shall have the structure and function and operate as defined in the Final Recommendations. The Council is authorized, after the Council’s first year of operation, to make modifications to its structure, function, and operations to improve its effectiveness and efficiency in furthering the policy set forth in section 2 of this order.
+(i) the use of science in the establishment of policy; and
 
-(b) To implement the policy set forth in section 2 of this order, the Council shall provide appropriate direction to ensure that executive departments’, agencies’, or offices’ decisions and actions affecting the ocean, our coasts, and the Great Lakes will be guided by the stewardship principles and national priority objectives set forth in the Final Recommendations, to the extent consistent with applicable law. The Council shall base its decisions on the consensus of its members. With respect to those matters in which consensus cannot be reached, the National Security Advisor shall coordinate with the Co-Chairs and, as appropriate, the Assistants to the President for Energy and Climate Change, and Economic Policy, and the employee of the United States designated by the Vice President, subject to the limitations set forth in section 9 of this order, to present the disputed issue or issues for decision by the President.
+(ii) the collection, development, dissemination, and exchange of information between and among agencies on ocean-related matters;
 
-Sec. 6. Agency Responsibilities. (a) All executive departments, agencies, and offices that are members of the Council and any other executive department, agency, or office whose actions affect the ocean, our coasts, and the Great Lakes shall, to the fullest extent consistent with applicable law:
+(e) coordinate and ensure Federal participation in projects conducted under the National Oceanographic Partnership Program through the Committee’s members, as appropriate, to maximize the effectiveness of agency investments in ocean research; and
 
-(i) take such action as necessary to implement the policy set forth in section 2 of this order and the stewardship principles and national priority objectives as set forth in the Final Recommendations and subsequent guidance from the Council; and
+(f) obtain information and advice concerning ocean-related matters from:
 
-(ii) participate in the process for coastal and marine spatial planning and comply with Council certified coastal and marine spatial plans, as described in the Final Recommendations and subsequent guidance from the Council.
+(i) State, tribal, and local governments; and
 
-(b) Each executive department, agency, and office that is required to take actions under this order shall prepare and make publicly available an annual report including a concise description of actions taken by the agency in the previous calendar year to implement the order, a description of written comments by persons or organizations regarding the agency’s compliance with this order, and the agency’s response to such comments.
+(ii) private-sector entities and individuals.
 
-(c) Each executive department, agency, and office that is required to take actions under this order shall coordinate and contribute resources, as appropriate, to assist in establishing a common information management system as defined in the Final Recommendations and shall be held accountable for managing its own information assets by keeping them current, easily accessible, and consistent with Federal standards.
+Sec. 6. Cooperation. To the extent permitted by law, agencies shall cooperate with the Committee and provide it such information as it, through the Co-Chairs, may request. The Committee shall base its decisions on the consensus of its members. With respect to those matters for which consensus cannot be reached, the Assistant to the President for National Security Affairs shall coordinate with the Co-Chairs to present the disputed issue or issues for decision by the President. Within 90 days of the date of this order [June 19, 2018], agencies shall review their regulations, guidance, and policies for consistency with this order, and shall consult with CEQ, OSTP, and the Office of Management and Budget (OMB) regarding any modifications, revisions, or rescissions of any regulations, guidance, or policies necessary to comply with this order.
 
-(d) To the extent permitted by law, executive departments, agencies, and offices shall provide the Council such information, support, and assistance as the Council, through the Co-Chairs, may request.
+Sec. 7. Revocation. Executive Order 13547 of July 19, 2010 (Stewardship of the Ocean, Our Coasts, and the Great Lakes) [formerly set out above], is hereby revoked.
 
-Sec. 7. Governance Coordinating Committee. The Council shall establish a Governance Coordinating Committee that shall consist of 18 officials from State, tribal, and local governments in accordance with the Final Recommendations. The Committee may establish subcommittees chaired by representatives of the Governance Coordinating Committee. These subcommittees may include additional representatives from State, tribal, and local governments, as appropriate to provide for greater collaboration and diversity of views.
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
-Sec. 8. Regional Advisory Committees. The lead Federal department, agency, or office for each regional planning body established for the development of regional coastal and marine spatial plans, in consultation with their nonfederal co-lead agencies and membership of their regional planning body, shall establish such advisory committees under the Federal Advisory Committee Act, 5 U.S.C. App., as they deem necessary to provide information and to advise the regional planning body on the development of regional coastal and marine spatial plans to promote the policy established in section 2 of this order.
+(i) the authority granted by law to an executive department, agency, or the head thereof;
 
-Sec. 9. General Provisions. (a) Nothing in this order, the establishment of the Council, and the Final Recommendations shall be construed to impair or otherwise affect:
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals; or
 
-(i) authority granted by law to an executive department or agency or the head thereof; or
+(iii) functions assigned by the President to the National Security Council or Homeland Security Council (including subordinate bodies) relating to matters affecting foreign affairs, national security, homeland security, or intelligence.
 
-(ii) functions assigned by the President to the National Security Council or Homeland Security Council (including subordinate bodies) relating to matters affecting foreign affairs, national security, homeland security, or intelligence.
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(c) In carrying out the provisions of this order and implementing the Final Recommendations, all actions of the Council and the executive departments, agencies, and offices that constitute it shall be consistent with applicable international law, including customary international law, such as that reflected in the Law of the Sea Convention.
-
-(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Sec. 10. Revocation. Executive Order 13366 of December 17, 2004, is hereby revoked.
-
-Barack Obama.
+Donald J. Trump.
 
 
 <a id="section-857-20"></a>
@@ -1192,9 +1189,11 @@ Pub. L. 110–161, div. B, title I, § 112, Dec. 26, 2007, 121 Stat. 1894.
 2013—Subsec. (f). Pub. L. 113–6 substituted “subsection (e)(2)” for “paragraph (2)” and “subsection (e)” for “this subsection”.
 
 #### Requirements Adopted by Reference
-Pub. L. 115–31, div. B, title I, § 104, May 5, 2017, 131 Stat. 191, provided in part that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [[33 U.S.C. 878a](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-878a)], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2017”.
+Pub. L. 115–141, div. B, title I, § 104, Mar. 23, 2018, 132 Stat. 408, provided in part that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [[33 U.S.C. 878a](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-878a)], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2018”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. B, title I, § 104, May 5, 2017, 131 Stat. 191.
 
 Pub. L. 114–113, div. B, title I, § 104, Dec. 18, 2015, 129 Stat. 2294.
 
@@ -1811,6 +1810,9 @@ Subsec. (b). Pub. L. 110–386, § 3(3), added subsec. (b) and struck out former
 
 Subsec. (c). Pub. L. 107–372, § 103(b), added subsec. (c).
 
+#### System for Tracking and Reporting All-Inclusive Cost of Hydrographic Surveys
+Pub. L. 115–282, title X, § 1002, Dec. 4, 2018, 132 Stat. 4365, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 4, 2018], the Secretary of Commerce shall—“(1) develop and implement a system to track and report the full cost to the Department of Commerce of hydrographic data collection, including costs relating to vessel acquisition, vessel repair, and administration of contracts to procure data; “(2) evaluate measures for comparing cost per unit effort in addition to measures of cost per nautical square mile; and “(3) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on which additional measures for comparing cost per unit effort the Secretary intends to use and the rationale for such use. “(b) Development of Strategy for Increased Contracting With Nongovernmental Entities for Hydrographic Data Collection.—Not later than 180 days after the date on which the Secretary completes the activities required by subsection (a), the Secretary shall develop a strategy for how the National Oceanic and Atmospheric Administration will increase contracting with nongovernmental entities for hydrographic data collection in a manner that is consistent with the requirements of the Ocean and Coastal Mapping Integration Act ([subtitle B of title XII of] Public Law 111–11; [33 U.S.C. 3501](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3501) et seq.).”
+
 #### Hydrographic Survey
 Pub. L. 106–541, title V, § 554, Dec. 11, 2000, 114 Stat. 2679, provided that: “The Secretary [of the Army] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration— “(1) to require the Secretary, not later than 60 days after the Corps of Engineers completes a project involving dredging of a channel, to provide data to the Administration in a standard digital format on the results of a hydrographic survey of the channel conducted by the Corps of Engineers; and “(2) to require the Administrator to provide the final charts with respect to the project to the Secretary in digital format, at no charge, for the purpose of enhancing the mission of the Corps of Engineers of maintaining Federal navigation projects.”
 
@@ -1933,67 +1935,100 @@ Pub. L. 105–383, title IV, § 432(a), Nov. 13, 1998, 112 Stat. 3444, provided 
 
 <a id="section-892d"></a>
 ## § 892d. Authorization of appropriations
+**(a) In general** There are authorized to be appropriated to the Administrator the following:
 
-There are authorized to be appropriated to the Administrator the following:
+(1) To carry out nautical mapping and charting functions under sections 892b and 892c of this title, except for conducting hydrographic surveys, $70,814,000 for each of fiscal years 2019 through 2023.
 
-(1) To carry out nautical mapping and charting functions under sections 892b and 892c of this title, except for conducting hydrographic surveys—
+(2) To contract for hydrographic surveys under [section 892b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section892b/b/1&num=0&edition=prelim), including the leasing or time chartering of vessels, $25,000,000 for each of fiscal years 2019 through 2023.
 
-  (A) $55,000,000 for fiscal year 2009;
+(3) To operate hydrographic survey vessels owned by the United States and operated by the Administration, $29,932,000 for each of fiscal years 2019 through 2023.
 
-  (B) $56,000,000 for fiscal year 2010;
+(4) To carry out geodetic functions under this subchapter, $26,800,000 for each of fiscal years 2019 through 2023.
 
-  (C) $57,000,000 for fiscal year 2011; and
-
-  (D) $58,000,000 for fiscal year 2012.
-
-(2) To contract for hydrographic surveys under [section 892b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section892b/b/1&num=0&edition=prelim), including the leasing or time chartering of vessels—
-
-  (A) $32,130,000 for fiscal year 2009;
-
-  (B) $32,760,000 for fiscal year 2010;
-
-  (C) $33,390,000 for fiscal year 2011; and
-
-  (D) $34,020,000 for fiscal year 2012.
-
-(3) To operate hydrographic survey vessels owned by the United States and operated by the Administration—
-
-  (A) $25,900,000 for fiscal year 2009;
-
-  (B) $26,400,000 for fiscal year 2010;
-
-  (C) $26,900,000 for fiscal year 2011; and
-
-  (D) $27,400,000 for fiscal year 2012.
-
-(4) To carry out geodetic functions under this subchapter—
-
-  (A) $32,640,000 for fiscal year 2009;
-
-  (B) $33,280,000 for fiscal year 2010;
-
-  (C) $33,920,000 for fiscal year 2011; and
-
-  (D) $34,560,000 for fiscal year 2012.
-
-(5) To carry out tide and current measurement functions under this subchapter—
-
-  (A) $27,000,000 for fiscal year 2009;
-
-  (B) $27,500,000 for fiscal year 2010;
-
-  (C) $28,000,000 for fiscal year 2011; and
-
-  (D) $28,500,000 for fiscal year 2012.
+(5) To carry out tide and current measurement functions under this subchapter, $30,564,000 for each of fiscal years 2019 through 2023.
 
 (6) To acquire a replacement hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
+
+**(b) Arctic programs** Of the amount authorized by this section for each fiscal year—
+
+(1) $10,000,000 is authorized for use in the Arctic—
+
+  (A) to acquire hydrographic data;
+
+  (B) to provide hydrographic services;
+
+  (C) to conduct coastal change analyses necessary to ensure safe navigation;
+
+  (D) to improve the management of coastal change; and
+
+  (E) to reduce risks of harm to subsistence and coastal communities associated with increased international maritime traffic; and
+
+(2) $2,000,000 is authorized for use to acquire hydrographic data and provide hydrographic services in the Arctic necessary to delineate the United States extended Continental Shelf.
+
+**(c) Limitation on administrative expenses for surveys** Of amounts authorized by this section for each fiscal year for contract hydrographic surveys, not more than 5 percent is authorized for administrative costs associated with contract management.
 
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in pars. (4) and (5), was in the original “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 1998 Amendment note set out under [section 851 of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-851) and Tables.
+This subchapter, referred to in subsec. (a)(4), (5), was in the original “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 1998 Amendment note set out under [section 851 of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-851) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–282, § 1001(a)(1), designated existing provisions as subsec. (a) and inserted heading.
+
+Subsec. (a)(1). Pub. L. 115–282, § 1001(a)(2)(A), substituted “surveys, $70,814,000 for each of fiscal years 2019 through 2023.” for “surveys—
+
+“(A) $55,000,000 for fiscal year 2009;
+
+“(B) $56,000,000 for fiscal year 2010;
+
+“(C) $57,000,000 for fiscal year 2011; and
+
+“(D) $58,000,000 for fiscal year 2012.”
+
+Subsec. (a)(2). Pub. L. 115–282, § 1001(a)(2)(B), substituted “vessels, $25,000,000 for each of fiscal years 2019 through 2023.” for “vessels—
+
+“(A) $32,130,000 for fiscal year 2009;
+
+“(B) $32,760,000 for fiscal year 2010;
+
+“(C) $33,390,000 for fiscal year 2011; and
+
+“(D) $34,020,000 for fiscal year 2012.”
+
+Subsec. (a)(3). Pub. L. 115–282, § 1001(a)(2)(C), substituted “Administration, $29,932,000 for each of fiscal years 2019 through 2023.” for “Administration—
+
+“(A) $25,900,000 for fiscal year 2009;
+
+“(B) $26,400,000 for fiscal year 2010;
+
+“(C) $26,900,000 for fiscal year 2011; and
+
+“(D) $27,400,000 for fiscal year 2012.”
+
+Subsec. (a)(4). Pub. L. 115–282, § 1001(a)(2)(D), substituted “subchapter, $26,800,000 for each of fiscal years 2019 through 2023.” for “subchapter—
+
+“(A) $32,640,000 for fiscal year 2009;
+
+“(B) $33,280,000 for fiscal year 2010;
+
+“(C) $33,920,000 for fiscal year 2011; and
+
+“(D) $34,560,000 for fiscal year 2012.”
+
+Subsec. (a)(5). Pub. L. 115–282, § 1001(a)(2)(E), substituted “subchapter, $30,564,000 for each of fiscal years 2019 through 2023.” for “subchapter—
+
+“(A) $27,000,000 for fiscal year 2009;
+
+“(B) $27,500,000 for fiscal year 2010;
+
+“(C) $28,000,000 for fiscal year 2011; and
+
+“(D) $28,500,000 for fiscal year 2012.”
+
+Subsec. (b). Pub. L. 115–282, § 1001(a)(3), added subsec. (b).
+
+Subsec. (c). Pub. L. 115–282, § 1001(b), added subsec. (c).
+
 2008—Pub. L. 110–386 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2003 through 2007.
 
 2002—Pub. L. 107–372 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Administrator the following:

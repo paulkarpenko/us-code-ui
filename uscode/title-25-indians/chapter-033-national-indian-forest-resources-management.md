@@ -2,7 +2,7 @@
 title: 25
 chapter: '33'
 heading: NATIONAL INDIAN FOREST RESOURCES MANAGEMENT
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -34,7 +34,7 @@ The Congress finds and declares that—
 ### Statutory Notes
 
 #### Short Title of 2004 Amendment
-Pub. L. 108–278, § 1, July 22, 2004, 118 Stat. 868, provided that: “This Act [enacting [section 3115a of this title](./chapter-033-national-indian-forest-resources-management.md#section-3115a)] may be cited as the ‘Tribal Forest Protection Act of 2004’.”
+Pub. L. 108–278, § 1, July 22, 2004, 118 Stat. 868, provided that: “This Act [enacting [section 3115a of this title](./chapter-033-national-indian-forest-resources-management.md#section-3115a) and enacting provisions set out as a note under [section 3104 of this title](./chapter-033-national-indian-forest-resources-management.md#section-3104)] may be cited as the ‘Tribal Forest Protection Act of 2004’.”
 
 #### Short Title
 Pub. L. 101–630, title III, § 301, Nov. 28, 1990, 104 Stat. 4532, provided that: “This title [enacting this chapter] may be cited as the ‘National Indian Forest Resources Management Act’.”
@@ -198,6 +198,17 @@ For the purposes of this chapter, the term—
 
 #### References in Text
 The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+#### Purpose
+Pub. L. 115–325, title II, § 202(a), Dec. 18, 2018, 132 Stat. 4459, provided that: “The purpose of this section [amending [section 3115a of this title](./chapter-033-national-indian-forest-resources-management.md#section-3115a) and enacting provisions set out as notes under this section] is to establish a biomass demonstration project for federally recognized Indian tribes and Alaska Native corporations to promote biomass energy production.”
+
+#### Alaska Native Biomass Demonstration Project
+Pub. L. 115–325, title II, § 202(c), Dec. 18, 2018, 132 Stat. 4461, provided that: “(1) Definitions.—In this subsection:“(A) Federal land.—The term ‘Federal land’ means—“(i) land of the National Forest System (as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1609(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1609/a&num=0&edition=prelim)) administered by the Secretary of Agriculture, acting through the Chief of the Forest Service; and “(ii) public lands (as defined in section 103 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702&num=0&edition=prelim))), the surface of which is administered by the Secretary of the Interior, acting through the Director of the Bureau of Land Management. “(B) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304)). “(C) Secretary.—The term ‘Secretary’ means—“(i) the Secretary of Agriculture, with respect to land under the jurisdiction of the Forest Service; and “(ii) the Secretary of the Interior, with respect to land under the jurisdiction of the Bureau of Land Management. “(D) Tribal organization.—The term ‘tribal organization’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304)). “(2) Agreements.—For each of fiscal years 2017 through 2021, the Secretary shall enter into an agreement or contract with an Indian tribe or a tribal organization to carry out a demonstration project to promote biomass energy production (including biofuel, heat, and electricity generation) by providing reliable supplies of woody biomass from Federal land. “(3) Demonstration projects.—In each fiscal year for which projects are authorized, at least 1 new demonstration project that meets the eligibility criteria described in paragraph (4) shall be carried out under contracts or agreements described in paragraph (2). “(4) Eligibility criteria.—To be eligible to enter into a contract or agreement under this subsection, an Indian tribe or tribal organization shall submit to the Secretary an application—“(A) containing such information as the Secretary may require; and “(B) that includes a description of the demonstration project proposed to be carried out by the Indian tribe or tribal organization. “(5) Selection.—In evaluating the applications submitted under paragraph (4), the Secretary shall—“(A) take into consideration whether a proposed project would—“(i) increase the availability or reliability of local or regional energy; “(ii) enhance the economic development of the Indian tribe; “(iii) result in or improve the connection of electric power transmission facilities serving the Indian tribe with other electric transmission facilities; “(iv) improve the forest health or watersheds of Federal land or non-Federal land; “(v) demonstrate new investments in infrastructure; or “(vi) otherwise promote the use of woody biomass; and “(B) exclude from consideration any merchantable logs that have been identified by the Secretary for commercial sale. “(6) Implementation.—The Secretary shall—“(A) ensure that the criteria described in paragraph (4) are publicly available by not later than 120 days after the date of enactment of this subsection [Dec. 18, 2018]; and “(B) to the maximum extent practicable, consult with Indian tribes and appropriate tribal organizations likely to be affected in developing the application and otherwise carrying out this subsection. “(7) Report.—Not later than September 20, 2019, the Secretary shall submit to Congress a report that describes, with respect to the reporting period—“(A) each individual application received under this subsection; and “(B) each contract and agreement entered into pursuant to this subsection. “(8) Term.—A contract or agreement entered into under this subsection—“(A) shall be for a term of not more than 20 years; and “(B) may be renewed in accordance with this subsection for not more than an additional 10 years.”
+
+#### Tribal Biomass Demonstration Project
+Pub. L. 108–278, § 3, as added by Pub. L. 115–325, title II, § 202(b)(2), Dec. 18, 2018, 132 Stat. 4459, provided that: “(a) Stewardship Contracts or Similar Agreements.—For each of fiscal years 2017 through 2021, the Secretary shall enter into stewardship contracts or similar agreements (excluding direct service contracts) with Indian tribes to carry out demonstration projects to promote biomass energy production (including biofuel, heat, and electricity generation) on Indian forest land and in nearby communities by providing reliable supplies of woody biomass from Federal land. “(b) Demonstration Projects.—In each fiscal year for which projects are authorized, at least 4 new demonstration projects that meet the eligibility criteria described in subsection (c) shall be carried out under contracts or agreements described in subsection (a). “(c) Eligibility Criteria.—To be eligible to enter into a contract or agreement under this section, an Indian tribe shall submit to the Secretary an application—“(1) containing such information as the Secretary may require; and “(2) that includes a description of—“(A) the Indian forest land or rangeland under the jurisdiction of the Indian tribe; and “(B) the demonstration project proposed to be carried out by the Indian tribe. “(d) Selection.—In evaluating the applications submitted under subsection (c), the Secretary shall—“(1) take into consideration—“(A) the factors set forth in paragraphs (1) and (2) of section 2(e) [[25 U.S.C. 3115a(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3115a/e/1&num=0&edition=prelim), (2)]; and “(B) whether a proposed project would—“(i) increase the availability or reliability of local or regional energy; “(ii) enhance the economic development of the Indian tribe; “(iii) result in or improve the connection of electric power transmission facilities serving the Indian tribe with other electric transmission facilities; “(iv) improve the forest health or watersheds of Federal land or Indian forest land or rangeland; “(v) demonstrate new investments in infrastructure; or “(vi) otherwise promote the use of woody biomass; and “(2) exclude from consideration any merchantable logs that have been identified by the Secretary for commercial sale. “(e) Implementation.—The Secretary shall—“(1) ensure that the criteria described in subsection (c) are publicly available by not later than 120 days after the date of enactment of this section [Dec. 18, 2018]; and “(2) to the maximum extent practicable, consult with Indian tribes and appropriate intertribal organizations likely to be affected in developing the application and otherwise carrying out this section. “(f) Report.—Not later than September 20, 2019, the Secretary shall submit to Congress a report that describes, with respect to the reporting period—“(1) each individual tribal application received under this section; and “(2) each contract and agreement entered into pursuant to this section. “(g) Incorporation of Management Plans.—In carrying out a contract or agreement under this section, on receipt of a request from an Indian tribe, the Secretary shall incorporate into the contract or agreement, to the maximum extent practicable, management plans (including forest management and integrated resource management plans) in effect on the Indian forest land or rangeland of the respective Indian tribe. “(h) Term.—A contract or agreement entered into under this section—“(1) shall be for a term of not more than 20 years; and “(2) may be renewed in accordance with this section for not more than an additional 10 years.”
+
+[For definitions of terms used in section 3 of Pub. L. 108–278, set out above, see [section 3115a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3115a/a&num=0&edition=prelim).]
 
 
 <a id="section-3105"></a>
@@ -476,7 +487,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I 
 
 <a id="section-3115a"></a>
 ## § 3115a. Tribal forest assets protection
-**(a) Definitions** In this section:
+**(a) Definitions** In this Act:
 
 (1) **Federal land** — The term “Federal land” means—
 
@@ -566,23 +577,58 @@ The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I 
 
   (H) the access by members of the Indian tribe to the land subject to the proposal.
 
-**(f) No effect on existing authority** Nothing in this section—
+**(f) No effect on existing authority** Nothing in this Act—
 
-(1) prohibits, restricts, or otherwise adversely affects the participation of any Indian tribe in stewardship agreements or contracting under the authority of section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ([16 U.S.C. 2104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104&num=0&edition=prelim) note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275)) or other authority invoked pursuant to this section; or
+(1) prohibits, restricts, or otherwise adversely affects the participation of any Indian tribe in stewardship agreements or contracting under the authority of section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ([16 U.S.C. 2104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104&num=0&edition=prelim) note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275)) or other authority invoked pursuant to this Act; or
 
 (2) invalidates any agreement or contract under that authority.
 
-**(g) Report** Not later than 4 years after July 22, 2004, the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this section.
+**(g) Report** Not later than 4 years after July 22, 2004, the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this Act.
 
 ### Statutory Notes
 
 #### References in Text
-Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), was section § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, which was set out as a note under [section 2104 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104&num=0&edition=prelim), Conservation, prior to repeal by Pub. L. 113–79, title VIII, § 8205(b), Feb. 7, 2014, 128 Stat. 921. Provisions similar to § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, were enacted by Pub. L. 108–148, title VI, § 604, as added Pub. L. 113–79, title VIII, § 8205(a), Feb. 7, 2014, 128 Stat. 918 and are classified to [section 6591c of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6591c&num=0&edition=prelim), Conservation.
+This Act, referred to in subsecs. (a), (f), and (g), is Pub. L. 108–278, July 22, 2004, 118 Stat. 868, which enacted this section and provisions set out as notes under sections 3101 and 3104 of this title.
 
-This section, referred to in subsecs. (f) and (g), was in the original “this Act”, meaning Pub. L. 108–278, July 22, 2004, 118 Stat. 868, which enacted this section and provisions set out as a note under [section 3101 of this title](./chapter-033-national-indian-forest-resources-management.md#section-3101).
+Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), was section § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, which was set out as a note under [section 2104 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104&num=0&edition=prelim), Conservation, prior to repeal by Pub. L. 113–79, title VIII, § 8205(b), Feb. 7, 2014, 128 Stat. 921. Provisions similar to § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, were enacted by Pub. L. 108–148, title VI, § 604, as added Pub. L. 113–79, title VIII, § 8205(a), Feb. 7, 2014, 128 Stat. 918 and are classified to [section 6591c of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6591c&num=0&edition=prelim), Conservation.
 
 #### Codification
 Section was enacted as part of the Tribal Forest Protection Act of 2004, and not as part of the National Indian Forest Resources Management Act which comprises this chapter.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–325 substituted “In this Act” for “In this section” in introductory provisions.
+
+
+<a id="section-3115b"></a>
+## § 3115b. Tribal forest management demonstration project
+**(a) In general** The Secretary of the Interior and the Secretary may carry out demonstration projects by which federally recognized Indian Tribes or Tribal organizations may contract to perform administrative, management, and other functions of programs of the Tribal Forest Protection Act of 2004 ([25 U.S.C. 3115a](./chapter-033-national-indian-forest-resources-management.md#section-3115a) et seq.) through contracts entered into under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304) et seq.).
+
+**(b) Requirements** With respect to any contract or project carried out under subsection (a)—
+
+(1) on National Forest System land, the Secretary shall carry out all functions delegated to the Secretary of the Interior under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304) et seq.);
+
+(2) the Secretary or the Secretary of the Interior, as applicable, shall make any decisions required to be made under—
+
+  (A) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and
+
+  (B) the Tribal Forest Protection Act of 2004 ([25 U.S.C. 3115a](./chapter-033-national-indian-forest-resources-management.md#section-3115a) et seq.); and
+
+(3) the contract or project shall be entered into under, and in accordance with, section 403(b)(2) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5363(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5363/b/2&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The Tribal Forest Protection Act of 2004, referred to in subsecs. (a) and (b)(2)(B), is Pub. L. 108–278, July 22, 2004, 118 Stat. 868. For complete classification of this Act to the Code, see section 1 of Pub. L. 108–278, set out as a Short Title of 2004 Amendment note under [section 3101 of this title](./chapter-033-national-indian-forest-resources-management.md#section-3101) and Tables.
+
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the National Indian Forest Resources Management Act which comprises this chapter.
+
+#### Definitions
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-3116"></a>

@@ -31,7 +31,7 @@ The Postal Service may refer any matter, which is uncollectable through administ
 2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in concluding provisions.
 
 #### Effective Date
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-2602"></a>
@@ -61,6 +61,11 @@ Collection from another country of the amount so advanced shall be made by offse
 
 **(e)** The Postal Service shall adopt such accounting procedures as may be necessary to conform to and carry out the purposes of this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-2603"></a>
 ## § 2603. Settlement of claims for damages caused by the Postal Service
@@ -68,6 +73,9 @@ Collection from another country of the amount so advanced shall be made by offse
 When the Postal Service finds a claim for damage to persons or property resulting from the operation of the Postal Service to be a proper charge against the United States, and it is not cognizable under [section 2672 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2672&num=0&edition=prelim), it may adjust and settle the claim.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Charge Against Postal Revenues for Settlement of Claims for Damages and for Losses Resulting From Unavoidable Casualty
 Pub. L. 89–57, title II, § 201, June 30, 1965, 79 Stat. 200, provided in part: “That hereafter settlement of claims, pursuant to law, current and prior fiscal years, for damages, and for losses resulting from unavoidable casualty shall be paid from postal revenues.”
@@ -77,6 +85,11 @@ Pub. L. 89–57, title II, § 201, June 30, 1965, 79 Stat. 200, provided in part
 ## § 2604. Delivery of stolen money to owner
 
 When the Postal Service is satisfied that money or property in the possession of the Postal Service represents money or property stolen from the mails, or the proceeds thereof, it may deliver it to the person it finds to be the rightful owner.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-2605"></a>
@@ -91,3 +104,8 @@ The Postal Service shall request the Attorney General to bring a suit to recover
 (3) collusion; or
 
 (4) misconduct of an officer or employee of the Postal Service.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).

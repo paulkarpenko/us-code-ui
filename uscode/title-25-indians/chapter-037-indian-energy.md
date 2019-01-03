@@ -2,7 +2,7 @@
 title: 25
 chapter: '37'
 heading: INDIAN ENERGY
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -41,7 +41,7 @@ In this chapter:
 
 (4)
 
-  (A) The term “Indian tribe” has the meaning given the term in [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304).
+  (A) The term “Indian tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).11 See References in Text note below.
 
   (B) For the purpose of paragraph (12) and sections 3503(b)(1)(C) and 3504 of this title, the term “Indian tribe” does not include any Native Corporation.
 
@@ -53,21 +53,45 @@ In this chapter:
 
 (8) The term “Program” means the Indian energy resource development program established under [section 3502(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3502/a&num=0&edition=prelim).
 
-(9) The term “Secretary” means the Secretary of the Interior.
+(9) The term “qualified Indian tribe” means an Indian tribe that has—
 
-(10) The term “sequestration” means the long-term separation, isolation, or removal of greenhouse gases from the atmosphere, including through a biological or geologic method such as reforestation or an underground reservoir.
+  (A) carried out a contract or compact under title I or IV of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.) for a period of not less than 3 consecutive years ending on the date on which the Indian tribe submits the application without material audit exception (or without any material audit exceptions that were not corrected within the 3-year period) relating to the management of tribal land or natural resources; or
 
-(11) The term “tribal energy resource development organization” means an organization of two or more entities, at least one of which is an Indian tribe, that has the written consent of the governing bodies of all Indian tribes participating in the organization to apply for a grant, loan, or other assistance under [section 3502 of this title](./chapter-037-indian-energy.md#section-3502).
+  (B) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energy resources located on the tribal land of the Indian tribe.
 
-(12) The term “tribal land” means any land or interests in land owned by any Indian tribe, title to which is held in trust by the United States, or is subject to a restriction against alienation under laws of the United States.
+(10) The term “Secretary” means the Secretary of the Interior.
+
+(11) The term “sequestration” means the long-term separation, isolation, or removal of greenhouse gases from the atmosphere, including through a biological or geologic method such as reforestation or an underground reservoir.
+
+(12) The term “tribal energy development organization” means—
+
+  (A) any enterprise, partnership, consortium, corporation, or other type of business organization that is engaged in the development of energy resources and is wholly owned by an Indian tribe (including an organization incorporated pursuant to [section 5124 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5124) or [section 5203 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5203)); and
+
+  (B) any organization of two or more entities, at least one of which is an Indian tribe, that has the written consent of the governing bodies of all Indian tribes participating in the organization to apply for a grant, loan, or other assistance under [section 3502 of this title](./chapter-037-indian-energy.md#section-3502) or to enter into a lease or business agreement with, or acquire a right-of-way from, an Indian tribe pursuant to subsection (a)(2)(A)(ii) or (b)(2)(B) of [section 3504 of this title](./chapter-037-indian-energy.md#section-3504).
+
+(13) The term “tribal land” means any land or interests in land owned by any Indian tribe, title to which is held in trust by the United States, or is subject to a restriction against alienation under laws of the United States.
 
 ### Statutory Notes
 
 #### References in Text
 The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
+The Indian Self-Determination and Education Assistance Act, referred to in pars. (4)(A) and (9)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§ 5321 et seq.) and generally to subchapter IV (§ 5361 et seq.), respectively, of chapter 46 of this title. Section 4 of the Act was classified to [section 450b of this title](./chapter-014-miscellaneous.md#section-450b) prior to editorial reclassification as [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
 #### Prior Provisions
 A prior section 3501, Pub. L. 102–486, title XXVI, § 2601, Oct. 24, 1992, 106 Stat. 3113, defined terms, prior to the general amendment of this chapter by Pub. L. 109–58.
+
+#### Amendments
+2018—Pars. (9) to (11). Pub. L. 115–325, § 105(a)(1), (2), added par. (9) and redesignated former pars. (9) and (10) as (10) and (11), respectively. Former par. (11) redesignated (12).
+
+Par. (12). Pub. L. 115–325, § 105(a)(3), added par. (12) and struck out former par. (12) which read as follows: “The term ‘tribal energy resource development organization’ means an organization of two or more entities, at least one of which is an Indian tribe, that has the written consent of the governing bodies of all Indian tribes participating in the organization to apply for a grant, loan, or other assistance under [section 3502 of this title](./chapter-037-indian-energy.md#section-3502).”
+
+Pub. L. 115–325, § 105(a)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+
+Par. (13). Pub. L. 115–325, § 105(a)(1), redesignated par. (12) as (13).
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–325, § 1, Dec. 18, 2018, 132 Stat. 4445, provided that: “This Act [enacting sections 167 and 3507 of this title, amending this section, sections 415, 3115a, 3502 to 3504, and 3506 of this title, [section 800 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section800&num=0&edition=prelim), Conservation, and [section 6863 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6863&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under sections 3104 and 3504 of this title and [section 800 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section800&num=0&edition=prelim)] may be cited as the ‘Indian Tribal Energy Development and Self-Determination Act Amendments of 2017’.”
 
 #### Consultation With Indian Tribes
 Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: “In carrying out this title [enacting this chapter, [section 7144e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7144e&num=0&edition=prelim), The Public Health and Welfare, and subchapter V (§ 16001) of chapter 149 of Title 42, amending [section 4132 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4132) and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as a note under [section 15801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801&num=0&edition=prelim)] and the amendments made by this title, the Secretary [of Energy] and the Secretary of the Interior shall, as appropriate and to the maximum extent practicable, involve and consult with Indian tribes.”
@@ -77,15 +101,15 @@ Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: �
 ## § 3502. Indian tribal energy resource development
 **(a) Department of the Interior program**
 
-(1) To assist Indian tribes in the development of energy resources and further the goal of Indian self-determination, the Secretary shall establish and implement an Indian energy resource development program to assist consenting Indian tribes and tribal energy resource development organizations in achieving the purposes of this chapter.
+(1) To assist Indian tribes in the development of energy resources and further the goal of Indian self-determination, the Secretary shall establish and implement an Indian energy resource development program to assist consenting Indian tribes and tribal energy development organizations in achieving the purposes of this chapter.
 
 (2) In carrying out the Program, the Secretary shall—
 
-  (A) provide development grants to Indian tribes and tribal energy resource development organizations for use in developing or obtaining the managerial and technical capacity needed to develop energy resources on Indian land, and to properly account for resulting energy production and revenues;
+  (A) provide development grants to Indian tribes and tribal energy development organizations for use in developing or obtaining the managerial and technical capacity needed to develop energy resources on Indian land, and to properly account for resulting energy production and revenues;
 
-  (B) provide grants to Indian tribes and tribal energy resource development organizations for use in carrying out projects to promote the integration of energy resources, and to process, use, or develop those energy resources, on Indian land;
+  (B) provide grants to Indian tribes and tribal energy development organizations for use in carrying out projects to promote the integration of energy resources, and to process, use, or develop those energy resources, on Indian land;
 
-  (C) provide low-interest loans to Indian tribes and tribal energy resource development organizations for use in the promotion of energy resource development on Indian land and integration of energy resources; and
+  (C) provide low-interest loans to Indian tribes and tribal energy development organizations for use in the promotion of energy resource development on Indian land and integration of energy resources;
 
   (D) provide grants and technical assistance to an appropriate tribal environmental organization, as determined by the Secretary, that represents multiple Indian tribes to establish a national resource center to develop tribal capacity to establish and carry out tribal environmental programs in support of energy-related programs and activities under this chapter, including—
 
@@ -93,25 +117,45 @@ Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: �
 
     (ii) the development of model environmental policies and tribal laws, including tribal environmental review codes, and the creation and maintenance of a clearinghouse of best environmental management practices; and
 
-    (iii) recommended standards for reviewing the implementation of tribal environmental laws and policies within tribal judicial or other tribal appeals systems.
+    (iii) recommended standards for reviewing the implementation of tribal environmental laws and policies within tribal judicial or other tribal appeals systems; and
+
+  (E) consult with each applicable Indian tribe before adopting or approving a well spacing program or plan applicable to the energy resources of that Indian tribe or the members of that Indian tribe.
 
 (3) There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 2006 through 2016.
+
+(4) **Planning.—**
+
+  (A) *In general.—* — In carrying out the program established by paragraph (1), the Secretary shall provide technical assistance to interested Indian tribes to develop energy plans, including—
+
+    (i) plans for electrification;
+
+    (ii) plans for oil and gas permitting, renewable energy permitting, energy efficiency, electricity generation, transmission planning, water planning, and other planning relating to energy issues;
+
+    (iii) plans for the development of energy resources and to ensure the protection of natural, historic, and cultural resources; and
+
+    (iv) any other plans that would assist an Indian tribe in the development or use of energy resources.
+
+  (B) *Cooperation.—* — In establishing the program under paragraph (1), the Secretary shall work in cooperation with the Office of Indian Energy Policy and Programs of the Department of Energy.
 
 **(b) Department of Energy Indian energy education planning and management assistance program**
 
 (1) The Director shall establish programs to assist consenting Indian tribes in meeting energy education, research and development, planning, and management needs.
 
-(2) In carrying out this subsection, the Director may provide grants, on a competitive basis, to an Indian tribe or tribal energy resource development organization for use in carrying out—
+(2) In carrying out this subsection, the Director may provide grants, on a competitive basis, to an Indian tribe, intertribal organization, or tribal energy development organization for use in carrying out—
 
   (A) energy, energy efficiency, and energy conservation programs;
 
   (B) studies and other activities supporting tribal acquisitions of energy supplies, services, and facilities, including the creation of tribal utilities to assist in securing electricity to promote electrification of homes and businesses on Indian land;
 
-  (C) planning, construction, development, operation, maintenance, and improvement of tribal electrical generation, transmission, and distribution facilities located on Indian land; and
+  (C) activities to increase the capacity of Indian tribes to manage energy development and energy efficiency programs;
 
-  (D) development, construction, and interconnection of electric power transmission facilities located on Indian land with other electric transmission facilities.
+  (D) planning, construction, development, operation, maintenance, and improvement of tribal electrical generation, transmission, and distribution facilities located on Indian land; and
 
-(3)
+  (E) development, construction, and interconnection of electric power transmission facilities located on Indian land with other electric transmission facilities.
+
+(3) **Technical and scientific resources.—** — In addition to providing grants to Indian tribes under this subsection, the Secretary shall collaborate with the Directors of the National Laboratories in making the full array of technical and scientific resources of the Department of Energy available for tribal energy activities and projects.
+
+(4)
 
   (A) The Director shall develop a program to support and implement research projects that provide Indian tribes with opportunities to participate in carbon sequestration practices on Indian land, including—
 
@@ -131,7 +175,7 @@ Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: �
 
     (iii) reviewed periodically to collect and distribute to Indian tribes information on carbon sequestration practices that will increase the sequestration of carbon without threatening the social and economic well-being of Indian tribes.
 
-(4)
+(5)
 
   (A) The Director, in consultation with Indian tribes, may develop a formula for providing grants under this subsection.
 
@@ -139,25 +183,27 @@ Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: �
 
   (C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
 
-(5) The Secretary of Energy may issue such regulations as the Secretary determines to be necessary to carry out this subsection.
+(6) The Secretary of Energy may issue such regulations as the Secretary determines to be necessary to carry out this subsection.
 
-(6) There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2006 through 2016.
+(7) There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2006 through 2016.
 
 **(c) Department of Energy loan guarantee program**
 
-(1) Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) for an amount equal to not more than 90 percent of the unpaid principal and interest due on any loan made to an Indian tribe for energy development.
+(1) Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) for an amount equal to not more than 90 percent of the unpaid principal and interest due on any loan made to an Indian tribe or a tribal energy development organization for energy development.
 
 (2) In providing a loan guarantee under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Secretary of Energy shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Secretary determines to be appropriate.
 
-(3) A loan guarantee under this subsection shall be made by—
+(3) A loan guaranteed under this subsection shall be made by—
 
-  (A) a financial institution subject to examination by the Secretary of Energy; or
+  (A) a financial institution subject to examination by the Secretary of Energy;
 
-  (B) an Indian tribe, from funds of the Indian tribe.
+  (B) an Indian tribe, from funds of the Indian tribe; or
+
+  (C) a tribal energy development organization, from funds of the tribal energy development organization.
 
 (4) The aggregate outstanding amount guaranteed by the Secretary of Energy at any time under this subsection shall not exceed $2,000,000,000.
 
-(5) The Secretary of Energy may issue such regulations as the Secretary of Energy determines are necessary to carry out this subsection.
+(5) Not later than 1 year after December 18, 2018, the Secretary of Energy shall issue such regulations as the Secretary of Energy determines are necessary to carry out this subsection.
 
 (6) There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
 
@@ -180,6 +226,29 @@ August 8, 2005, referred to in subsec. (c)(7), was in the original “the date o
 
 #### Prior Provisions
 A prior section 3502, Pub. L. 102–486, title XXVI, § 2602, Oct. 24, 1992, 106 Stat. 3113, related to tribal consultation in implementing provisions, prior to the general amendment of this chapter by Pub. L. 109–58.
+
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–325, § 105(b)(1)(A), substituted “tribal energy development organizations” for “tribal energy resource development organizations”.
+
+Subsec. (a)(2). Pub. L. 115–325, § 105(b)(1)(B), substituted “tribal energy development organizations” for “tribal energy resource development organizations” wherever appearing.
+
+Subsec. (a)(2)(E). Pub. L. 115–325, § 101(a)(1), added subpar. (E).
+
+Subsec. (a)(4). Pub. L. 115–325, § 101(a)(2), added par. (4).
+
+Subsec. (b)(2). Pub. L. 115–325, §§ 101(b)(1), 105(b)(2), substituted “Indian tribe, intertribal organization, or tribal energy development organization” for “Indian tribe or tribal energy resource development organization” in introductory provisions.
+
+Subsec. (b)(2)(C) to (E). Pub. L. 115–325, § 101(b)(2), (3), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+
+Subsec. (b)(3) to (7). Pub. L. 115–325, § 104, added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+
+Subsec. (c)(1). Pub. L. 115–325, § 101(c)(1), inserted “or a tribal energy development organization” after “Indian tribe”.
+
+Subsec. (c)(3). Pub. L. 115–325, §. 101(c)(2)(A), substituted “guaranteed” for “guarantee” in introductory provisions.
+
+Subsec. (c)(3)(C). Pub. L. 115–325, § 101(c)(2)(B)–(D), added subpar. (C).
+
+Subsec. (c)(5). Pub. L. 115–325, § 101(c)(3), substituted “Not later than 1 year after December 18, 2018, the Secretary of Energy shall” for “The Secretary of Energy may”.
 
 
 <a id="section-3503"></a>
@@ -210,18 +279,23 @@ A prior section 3502, Pub. L. 102–486, title XXVI, § 2602, Oct. 24, 1992, 106
 
 **(c) Other assistance**
 
-(1) In carrying out the obligations of the United States under this chapter, the Secretary shall ensure, to the maximum extent practicable and to the extent of available resources, that on the request of an Indian tribe, the Indian tribe shall have available scientific and technical information and expertise, for use in the regulation, development, and management of energy resources of the Indian tribe on Indian land.
+(1) In carrying out the obligations of the United States under this chapter, the Secretary shall ensure, to the maximum extent practicable and to the extent of available resources, that on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization shall have available scientific and technical information and expertise, for use in the regulation, development, and management of energy resources of the Indian tribe on Indian land.
 
 (2) The Secretary may carry out paragraph (1)—
 
   (A) directly, through the use of Federal officials; or
 
-  (B) indirectly, by providing financial assistance to an Indian tribe to secure independent assistance.
+  (B) indirectly, by providing financial assistance to an Indian tribe or tribal energy development organization to secure independent assistance.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106 Stat. 3114; Pub. L. 105–388, § 10, Nov. 13, 1998, 112 Stat. 3484, related to promotion of energy resource development and energy vertical integration on Indian reservations, prior to the general amendment of this chapter by Pub. L. 109–58.
+
+#### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–325, § 102(1), substituted “on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization” for “on the request of an Indian tribe, the Indian tribe”.
+
+Subsec. (c)(2)(B). Pub. L. 115–325, § 102(2), inserted “or tribal energy development organization” after “Indian tribe”.
 
 
 <a id="section-3504"></a>
@@ -230,141 +304,173 @@ A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106
 
 (1) an Indian tribe may, at the discretion of the Indian tribe, enter into a lease or business agreement for the purpose of energy resource development on tribal land, including a lease or business agreement for—
 
-  (A) exploration for, extraction of, processing of, or other development of the energy mineral resources of the Indian tribe located on tribal land; or
+  (A) exploration for, extraction of, processing of, or other development of the energy mineral resources of the Indian tribe located on tribal land;
 
   (B) construction or operation of—
 
-    (i) an electric generation, transmission, or distribution facility located on tribal land; or
+    (i) an electric production, generation, transmission, or distribution facility (including a facility that produces electricity from renewable energy resources) located on tribal land; or
 
-    (ii) a facility to process or refine energy resources developed on tribal land; and
+    (ii) a facility to process or refine energy resources, at least a portion of which have been developed on or produced from tribal land; or
 
-(2) a lease or business agreement described in paragraph (1) shall not require review by or the approval of the Secretary under [section 81 of this title](./chapter-003-agreements-with-indians.md#section-81), or any other provision of law, if—
+  (C) pooling, unitization, or communitization of the energy mineral resources of the Indian tribe located on tribal land with any other energy mineral resource (including energy mineral resources owned by the Indian tribe or an individual Indian in fee, trust, or restricted status or by any other persons or entities) if the owner, or, if appropriate, lessee, of the resources has consented or consents to the pooling, unitization, or communitization of the other resources under any lease or agreement; and
 
-  (A) the lease or business agreement is executed pursuant to a tribal energy resource agreement approved by the Secretary under subsection (e);
+(2) a lease or business agreement described in paragraph (1) shall not require review by, or the approval of, the Secretary under [section 81 of this title](./chapter-003-agreements-with-indians.md#section-81), or any other provision of law (including regulations), if the lease or business agreement—
 
-  (B) the term of the lease or business agreement does not exceed—
+  (A) was executed—
+
+    (i) in accordance with the requirements of a tribal energy resource agreement in effect under subsection (e) (including the periodic review and evaluation of the activities of the Indian tribe under the agreement, to be conducted pursuant to subparagraphs (D) and (E) of subsection (e)(2)); or
+
+    (ii) by the Indian tribe and a tribal energy development organization for which the Indian tribe has obtained a certification pursuant to subsection (h); and
+
+  (B) has a term that does not exceed—
 
     (i) 30 years; or
 
-    (ii) in the case of a lease for the production of oil resources, gas resources, or both, 10 years and as long thereafter as oil or gas is produced in paying quantities; and
+    (ii) in the case of a lease for the production of oil resources, gas resources, or both, 10 years and as long thereafter as oil or gas is produced in paying quantities.
 
-  (C) the Indian tribe has entered into a tribal energy resource agreement with the Secretary, as described in subsection (e), relating to the development of energy resources on tribal land (including the periodic review and evaluation of the activities of the Indian tribe under the agreement, to be conducted pursuant to subsection (e)(2)(D)(i)).
+**(b) Rights-of-way** An Indian tribe may grant a right-of-way over tribal land without review or approval by the Secretary if the right-of-way—
 
-**(b) Rights-of-way for pipelines or electric transmission or distribution lines** An Indian tribe may grant a right-of-way over tribal land for a pipeline or an electric transmission or distribution line without review or approval by the Secretary if—
+(1) serves—
 
-(1) the right-of-way is executed in accordance with a tribal energy resource agreement approved by the Secretary under subsection (e);
+  (A) an electric production, generation, transmission, or distribution facility (including a facility that produces electricity from renewable energy resources) located on tribal land;
 
-(2) the term of the right-of-way does not exceed 30 years;
+  (B) a facility located on tribal land that extracts, produces, processes, or refines energy resources; or
 
-(3) the pipeline or electric transmission or distribution line serves—
+  (C) the purposes, or facilitates in carrying out the purposes, of any lease or agreement entered into for energy resource development on tribal land;
 
-  (A) an electric generation, transmission, or distribution facility located on tribal land; or
+(2) was executed—
 
-  (B) a facility located on tribal land that processes or refines energy resources developed on tribal land; and
+  (A) in accordance with the requirements of a tribal energy resource agreement in effect under subsection (e) (including the periodic review and evaluation of the activities of the Indian tribe under the agreement, to be conducted pursuant to subparagraphs (D) and (E) of subsection (e)(2)); or
 
-(4) the Indian tribe has entered into a tribal energy resource agreement with the Secretary, as described in subsection (e), relating to the development of energy resources on tribal land (including the periodic review and evaluation of the activities of the Indian tribe under an agreement described in subparagraphs (D) and (E) of subsection (e)(2)).
+  (B) by the Indian tribe and a tribal energy development organization for which the Indian tribe has obtained a certification pursuant to subsection (h); and
+
+(3) has a term that does not exceed 30 years.
 
 **(c) Renewals** A lease or business agreement entered into, or a right-of-way granted, by an Indian tribe under this section may be renewed at the discretion of the Indian tribe in accordance with this section.
 
-**(d) Validity** No lease, business agreement, or right-of-way relating to the development of tribal energy resources under this section shall be valid unless the lease, business agreement, or right-of-way is authorized by a tribal energy resource agreement approved by the Secretary under subsection (e)(2).
+**(d) Validity** No lease or business agreement entered into, or right-of-way granted, pursuant to this section shall be valid unless the lease, business agreement, or right-of-way is authorized by subsection (a) or (b).
 
 **(e) Tribal energy resource agreements**
 
-(1) On the date on which regulations are promulgated under paragraph (8), an Indian tribe may submit to the Secretary for approval a tribal energy resource agreement governing leases, business agreements, and rights-of-way under this section.
+(1) **In general.—**
 
-(2)
+  (A) *Authorization.—* — On or after December 18, 2018, a qualified Indian tribe may submit to the Secretary a tribal energy resource agreement governing leases, business agreements, and rights-of-way under this section.
 
-  (A) Not later than 270 days after the date on which the Secretary receives a tribal energy resource agreement from an Indian tribe under paragraph (1), or not later than 60 days after the Secretary receives a revised tribal energy resource agreement from an Indian tribe under paragraph (4)(C) (or a later date, as agreed to by the Secretary and the Indian tribe), the Secretary shall approve or disapprove the tribal energy resource agreement.
+  (B) *Notice of complete proposed agreement.—* — Not later than 60 days after the date on which the tribal energy resource agreement is submitted under subparagraph (A), the Secretary shall—
 
-  (B) The Secretary shall approve a tribal energy resource agreement submitted under paragraph (1) if—
+    (i) notify the Indian tribe as to whether the agreement is complete or incomplete;
 
-    (i) the Secretary determines that the Indian tribe has demonstrated that the Indian tribe has sufficient capacity to regulate the development of energy resources of the Indian tribe;
+    (ii) if the agreement is incomplete, notify the Indian tribe of what information or documentation is needed to complete the submission; and
 
-    (ii) the tribal energy resource agreement includes provisions required under subparagraph (D); and
+    (iii) identify and notify the Indian tribe of the financial assistance, if any, to be provided by the Secretary to the Indian tribe to assist in the implementation of the tribal energy resource agreement, including the environmental review of individual projects.
 
-    (iii) the tribal energy resource agreement includes provisions that, with respect to a lease, business agreement, or right-of-way under this section—
+  (C) *Effect.—* — Nothing in this paragraph precludes the Secretary from providing any financial assistance at any time to the Indian tribe to assist in the implementation of the tribal energy resource agreement.
 
-      (I) ensure the acquisition of necessary information from the applicant for the lease, business agreement, or right-of-way;
+(2) **Procedure.—**
 
-      (II) address the term of the lease or business agreement or the term of conveyance of the right-of-way;
+  (A) *Effective date.—*
 
-      (III) address amendments and renewals;
+    (i) *In general.—* — On the date that is 271 days after the date on which the Secretary receives a tribal energy resource agreement from a qualified Indian tribe under paragraph (1), the tribal energy resource agreement shall take effect, unless the Secretary disapproves the tribal energy resource agreement under subparagraph (B).
 
-      (IV) address the economic return to the Indian tribe under leases, business agreements, and rights-of-way;
+    (ii) *Revised tribal energy resource agreement.—* — On the date that is 91 days after the date on which the Secretary receives a revised tribal energy resource agreement from a qualified Indian tribe under paragraph (4)(B), the revised tribal energy resource agreement shall take effect, unless the Secretary disapproves the revised tribal energy resource agreement under subparagraph (B).
 
-      (V) address technical or other relevant requirements;
+  (B) *Disapproval.—* — The Secretary shall disapprove a tribal energy resource agreement submitted pursuant to paragraph (1) or (4)(B) only if—
 
-      (VI) establish requirements for environmental review in accordance with subparagraph (C);
+    (i) a provision of the tribal energy resource agreement violates applicable Federal law (including regulations) or a treaty applicable to the Indian tribe;
 
-      (VII) ensure compliance with all applicable environmental laws, including a requirement that each lease, business agreement, and right-of-way state that the lessee, operator, or right-of-way grantee shall comply with all such laws;
+    (ii) the tribal energy resource agreement does not include one or more provisions required under subparagraph (D); or
 
-      (VIII) identify final approval authority;
+    (iii) the tribal energy resource agreement does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies—
 
-      (IX) provide for public notification of final approvals;
+      (I) address amendments and renewals;
 
-      (X) establish a process for consultation with any affected States regarding off-reservation impacts, if any, identified under subparagraph (C)(i);
+      (II) address the economic return to the Indian tribe under leases, business agreements, and rights-of-way;
 
-      (XI) describe the remedies for breach of the lease, business agreement, or right-of-way;
+      (III) establish requirements for environmental review in accordance with subparagraph (C);
 
-      (XII) require each lease, business agreement, and right-of-way to include a statement that, if any of its provisions violates an express term or requirement of the tribal energy resource agreement pursuant to which the lease, business agreement, or right-of-way was executed—
+      (IV) ensure compliance with all applicable environmental laws, including a requirement that each lease, business agreement, and right-of-way state that the lessee, operator, or right-of-way grantee shall comply with all such laws;
+
+      (V) provide for public notification of final approvals;
+
+      (VI) establish a process for consultation with any affected States regarding off-reservation impacts, if any, identified under subparagraph (C)(i);
+
+      (VII) describe the remedies for breach of the lease, business agreement, or right-of-way;
+
+      (VIII) require each lease, business agreement, and right-of-way to include a statement that, if any of its provisions violates an express term or requirement of the tribal energy resource agreement pursuant to which the lease, business agreement, or right-of-way was executed—
 
         (aa) the provision shall be null and void; and
 
         (bb) if the Secretary determines the provision to be material, the Secretary may suspend or rescind the lease, business agreement, or right-of-way or take other appropriate action that the Secretary determines to be in the best interest of the Indian tribe;
 
-      (XIII) require each lease, business agreement, and right-of-way to provide that it will become effective on the date on which a copy of the executed lease, business agreement, or right-of-way is delivered to the Secretary in accordance with regulations promulgated under paragraph (8);
+      (IX) require each lease, business agreement, and right-of-way to provide that it will become effective on the date on which a copy of the executed lease, business agreement, or right-of-way is delivered to the Secretary in accordance with regulations promulgated under paragraph (8);
 
-      (XIV) include citations to tribal laws, regulations, or procedures, if any, that set out tribal remedies that must be exhausted before a petition may be submitted to the Secretary under paragraph (7)(B);
+      (X) include citations to tribal laws, regulations, or procedures, if any, that set out tribal remedies that must be exhausted before a petition may be submitted to the Secretary under paragraph (7)(B);
 
-      (XV) specify the financial assistance, if any, to be provided by the Secretary to the Indian tribe to assist in implementation of the tribal energy resource agreement, including environmental review of individual projects; and
-
-      (XVI) in accordance with the regulations promulgated by the Secretary under paragraph (8), require that the Indian tribe, as soon as practicable after receipt of a notice by the Indian tribe, give written notice to the Secretary of—
+      (XI) in accordance with the regulations promulgated by the Secretary under paragraph (8), require that the Indian tribe, as soon as practicable after receipt of a notice by the Indian tribe, give written notice to the Secretary of—
 
         (aa) any breach or other violation by another party of any provision in a lease, business agreement, or right-of-way entered into under the tribal energy resource agreement; and
 
-        (bb) any activity or occurrence under a lease, business agreement, or right-of-way that constitutes a violation of Federal or tribal environmental laws.
+        (bb) any activity or occurrence under a lease, business agreement, or right-of-way that constitutes a violation of Federal environmental laws;
+
+      (XII) include a certification by the Indian tribe that the Indian tribe has—
+
+        (aa) carried out a contract or compact under title I or IV of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.) for a period of not less than 3 consecutive years ending on the date on which the Indian tribe submits the application without material audit exception (or without any material audit exceptions that were not corrected within the 3-year period) relating to the management of tribal land or natural resources; or
+
+        (bb) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energy resources located on the tribal land of the Indian tribe; and
+
+      (XIII) at the option of the Indian tribe, identify which functions, if any, authorizing any operational or development activities pursuant to a lease, right-of-way, or business agreement approved by the Indian tribe, that the Indian tribe intends to conduct.
 
   (C) Tribal energy resource agreements submitted under paragraph (1) shall establish, and include provisions to ensure compliance with, an environmental review process that, with respect to a lease, business agreement, or right-of-way under this section, provides for, at a minimum—
 
-    (i) the identification and evaluation of all significant environmental effects (as compared to a no-action alternative), including effects on cultural resources;
+    (i) a process for ensuring that—
 
-    (ii) the identification of proposed mitigation measures, if any, and incorporation of appropriate mitigation measures into the lease, business agreement, or right-of-way;
+      (I) the public is informed of, and has reasonable opportunity to comment on, any significant environmental impacts of the proposed action; and
 
-    (iii) a process for ensuring that—
+      (II) the Indian tribe provides responses to relevant and substantive public comments on any impacts described in subclause (I) before the Indian tribe approves the lease, business agreement, or right-of-way;
+
+    (ii) a process for ensuring that—
 
       (I) the public is informed of, and has an opportunity to comment on, the environmental impacts of the proposed action; and
 
       (II) responses to relevant and substantive comments are provided, before tribal approval of the lease, business agreement, or right-of-way;
 
-    (iv) sufficient administrative support and technical capability to carry out the environmental review process; and
+    (iii) sufficient administrative support and technical capability to carry out the environmental review process; and
 
-    (v) oversight by the Indian tribe of energy development activities by any other party under any lease, business agreement, or right-of-way entered into pursuant to the tribal energy resource agreement, to determine whether the activities are in compliance with the tribal energy resource agreement and applicable Federal environmental laws.
+    (iv) oversight by the Indian tribe of energy development activities by any other party under any lease, business agreement, or right-of-way entered into pursuant to the tribal energy resource agreement, to determine whether the activities are in compliance with the tribal energy resource agreement and applicable Federal environmental laws.
 
   (D) A tribal energy resource agreement between the Secretary and an Indian tribe under this subsection shall include—
 
     (i) provisions requiring the Secretary to conduct a periodic review and evaluation to monitor the performance of the activities of the Indian tribe associated with the development of energy resources under the tribal energy resource agreement; and
 
-    (ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iii)(XVI), results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
+    (ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iv)(XI),11 So in original. Probably should be “subparagraph (B)(iii)(XI)”. results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
 
   (E) Periodic review and evaluation under subparagraph (D) shall be conducted on an annual basis, except that, after the third annual review and evaluation, the Secretary and the Indian tribe may mutually agree to amend the tribal energy resource agreement to authorize the review and evaluation under subparagraph (D) to be conducted once every 2 years.
 
-(3) The Secretary shall provide notice and opportunity for public comment on tribal energy resource agreements submitted for approval under paragraph (1). The Secretary’s review of a tribal energy resource agreement shall be limited to activities specified by the provisions of the tribal energy resource agreement.
+  (F) *Effective period.—* — A tribal energy resource agreement that takes effect pursuant to this subsection shall remain in effect to the extent any provision of the tribal energy resource agreement is consistent with applicable Federal law (including regulations), unless the tribal energy resource agreement is—
 
-(4) If the Secretary disapproves a tribal energy resource agreement submitted by an Indian tribe under paragraph (1), the Secretary shall, not later than 10 days after the date of disapproval—
+    (i) rescinded by the Secretary pursuant to paragraph (7)(D)(iii)(II); or
 
-  (A) notify the Indian tribe in writing of the basis for the disapproval;
+    (ii) voluntarily rescinded by the Indian tribe pursuant to the regulations promulgated under paragraph (8)(B) (or successor regulations).
 
-  (B) identify what changes or other actions are required to address the concerns of the Secretary; and
+(3) **Notice and comment; secretarial review.—** — The Secretary shall provide notice and opportunity for public comment on tribal energy resource agreements submitted under paragraph (1). The Secretary’s review of a tribal energy resource agreement shall be limited to activities specified by the provisions of the tribal energy resource agreement.
 
-  (C) provide the Indian tribe with an opportunity to revise and resubmit the tribal energy resource agreement.
+(4) **Action in case of disapproval.—** — If the Secretary disapproves a tribal energy resource agreement submitted by an Indian tribe under paragraph (1), the Secretary shall, not later than 10 days after the date of disapproval, provide the Indian tribe with—
 
-(5) If an Indian tribe executes a lease or business agreement, or grants a right-of-way, in accordance with a tribal energy resource agreement approved under this subsection, the Indian tribe shall, in accordance with the process and requirements under regulations promulgated under paragraph (8), provide to the Secretary—
+  (A) a detailed, written explanation of—
+
+    (i) each reason for the disapproval; and
+
+    (ii) the revisions or changes to the tribal energy resource agreement necessary to address each reason; and
+
+  (B) an opportunity to revise and resubmit the tribal energy resource agreement.
+
+(5) **Provision of documents to secretary.—** — If an Indian tribe executes a lease or business agreement, or grants a right-of-way, in accordance with a tribal energy resource agreement in effect under this subsection, the Indian tribe shall, in accordance with the process and requirements under regulations promulgated under paragraph (8), provide to the Secretary—
 
   (A) a copy of the lease, business agreement, or right-of-way document (including all amendments to and renewals of the document); and
 
   (B) in the case of a tribal energy resource agreement or a lease, business agreement, or right-of-way that permits payments to be made directly to the Indian tribe, information and documentation of those payments sufficient to enable the Secretary to discharge the trust responsibility of the United States to enforce the terms of, and protect the rights of the Indian tribe under, the lease, business agreement, or right-of-way.
 
-(6)
+(6) **Secretarial obligations and effect of section.—**
 
   (A) In carrying out this section, the Secretary shall—
 
@@ -372,9 +478,9 @@ A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106
 
     (ii) act in good faith and in the best interests of the Indian tribes.
 
-  (B) Subject to the provisions of subsections (a)(2), (b), and (c) waiving the requirement of Secretarial approval of leases, business agreements, and rights-of-way executed pursuant to tribal energy resource agreements approved under this section, and the provisions of subparagraph (D), nothing in this section shall absolve the United States from any responsibility to Indians or Indian tribes, including, but not limited to, those which derive from the trust relationship or from any treaties, statutes, and other laws of the United States, Executive orders, or agreements between the United States and any Indian tribe.
+  (B) Subject only to the provisions of subsections (a)(2), (b), and (c) waiving the requirement of Secretarial approval of leases, business agreements, and rights-of-way executed pursuant to tribal energy resource agreements in effect under this section, and the provisions of subparagraphs (C) and (D), nothing in this section shall absolve the United States from any responsibility to Indians or Indian tribes, including, but not limited to, those which derive from the trust relationship or from any treaties, statutes, and other laws of the United States, Executive orders, or agreements between the United States and any Indian tribe.
 
-  (C) The Secretary shall continue to fulfill the trust obligation of the United States to ensure that the rights and interests of an Indian tribe are protected if—
+  (C) The Secretary shall continue to fulfill the trust obligation of the United States to perform the obligations of the Secretary under this section and to ensure that the rights and interests of an Indian tribe are protected if—
 
     (i) any other party to a lease, business agreement, or right-of-way violates any applicable Federal law or the terms of any lease, business agreement, or right-of-way under this section; or
 
@@ -382,15 +488,21 @@ A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106
 
   (D)
 
-    (i) In this subparagraph, the term “negotiated term” means any term or provision that is negotiated by an Indian tribe and any other party to a lease, business agreement, or right-of-way entered into pursuant to an approved tribal energy resource agreement.
+    (i) In this subparagraph, the term “negotiated term” means any term or provision that is negotiated by an Indian tribe and any other party to a lease, business agreement, or right-of-way entered into pursuant to a tribal energy resource agreement in effect under this section.
 
-    (ii) Notwithstanding subparagraph (B), the United States shall not be liable to any party (including any Indian tribe) for any negotiated term of, or any loss resulting from the negotiated terms of, a lease, business agreement, or right-of-way executed pursuant to and in accordance with a tribal energy resource agreement approved by the Secretary under paragraph (2).
+    (ii) Notwithstanding subparagraph (B), the United States shall not be liable to any party (including any Indian tribe) for any negotiated term of, or any loss resulting from the negotiated terms of, a lease, business agreement, or right-of-way executed pursuant to and in accordance with a tribal energy resource agreement in effect under paragraph (2).
 
-(7)
+    (iii) Nothing in this section absolves, limits, or otherwise affects the liability, if any, of the United States for any—
 
-  (A) In this paragraph, the term “interested party” means any person (including an entity) that has demonstrated that an interest of the person has sustained, or will sustain, an adverse environmental impact as a result of the failure of an Indian tribe to comply with a tribal energy resource agreement of the Indian tribe approved by the Secretary under paragraph (2).
+      (I) term of any lease, business agreement, or right-of-way under this section that is not a negotiated term; or
 
-  (B) After exhaustion of any tribal remedy, and in accordance with regulations promulgated by the Secretary under paragraph (8), an interested party may submit to the Secretary a petition to review the compliance by an Indian tribe with a tribal energy resource agreement of the Indian tribe approved by the Secretary under paragraph (2).
+      (II) losses that are not the result of a negotiated term, including losses resulting from the failure of the Secretary to perform an obligation of the Secretary under this section.
+
+(7) **Petitions by interested parties.—**
+
+  (A) In this paragraph, the term “interested party” means any person (including an entity) that the Secretary determines has demonstrated with substantial evidence that an interest of the person has sustained, or will sustain, an adverse environmental impact as a result of the failure of an Indian tribe to comply with a tribal energy resource agreement of the Indian tribe in effect under paragraph (2).
+
+  (B) After exhaustion of all remedies (if any) provided under the laws of the Indian tribe, and in accordance with regulations promulgated by the Secretary under paragraph (8), an interested party may submit to the Secretary a petition to review the compliance by an Indian tribe with a tribal energy resource agreement of the Indian tribe in effect under paragraph (2).
 
   (C)
 
@@ -410,19 +522,23 @@ A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106
 
   (D)
 
-    (i) Not later than 120 days after the date on which the Secretary receives a petition under subparagraph (B), the Secretary shall determine whether the Indian tribe is not in compliance with the tribal energy resource agreement.
+    (i) Not later than 120 days after the date on which the Secretary receives a petition under subparagraph (B), the Secretary shall determine—
 
-    (ii) The Secretary may adopt procedures under paragraph (8) authorizing an extension of time, not to exceed 120 days, for making the determination under clause (i) in any case in which the Secretary determines that additional time is necessary to evaluate the allegations of the petition.
+      (I) whether the petitioner is an interested party; and
 
-    (iii) Subject to subparagraph (E), if the Secretary determines that the Indian tribe is not in compliance with the tribal energy resource agreement, the Secretary shall take such action as the Secretary determines to be necessary to ensure compliance with the tribal energy resource agreement, including—
+      (II) if the petitioner is an interested party, whether the Indian tribe is not in compliance with the tribal energy resource agreement as alleged in the petition.
 
-      (I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe is in compliance with the approved tribal energy resource agreement; or
+    (ii) The Secretary may adopt procedures under paragraph (8) authorizing an extension of time, not to exceed 120 days, for making the determinations under clause (i) in any case in which the Secretary determines that additional time is necessary to evaluate the allegations of the petition.
 
-      (II) rescinding approval of all or part of the tribal energy resource agreement, and if all of the agreement is rescinded, reassuming the responsibility for approval of any future leases, business agreements, or rights-of-way described in subsection (a) or (b).
+    (iii) Subject to subparagraph (E), if the Secretary determines that the Indian tribe is not in compliance with the tribal energy resource agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including—
+
+      (I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe is in compliance with the tribal energy resource agreement; or
+
+      (II) rescinding all or part of the tribal energy resource agreement, and if all of the agreement is rescinded, reassuming the responsibility for approval of any future leases, business agreements, or rights-of-way described in subsection (a)(2)(A)(i) or (b)(2)(A).
 
   (E) Before taking an action described in subparagraph (D)(iii), the Secretary shall—
 
-    (i) make a written determination that describes the manner in which the tribal energy resource agreement has been violated;
+    (i) make a written determination that describes, with respect to each claim made in the petition, how the tribal energy resource agreement has been violated;
 
     (ii) provide the Indian tribe with a written notice of the violations together with the written determination; and
 
@@ -430,19 +546,23 @@ A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106
 
   (F) An Indian tribe described in subparagraph (E) shall retain all rights to appeal under any regulation promulgated by the Secretary.
 
+  (G) Notwithstanding any other provision of this paragraph, the Secretary shall dismiss any petition from an interested party that has agreed with the Indian tribe to a resolution of the claims presented in the petition of that party.
+
 (8) Not later than 1 year after August 8, 2005, the Secretary shall promulgate regulations that implement this subsection, including—
 
-  (A) criteria to be used in determining the capacity of an Indian tribe under paragraph (2)(B)(i), including the experience of the Indian tribe in managing natural resources and financial and administrative resources available for use by the Indian tribe in implementing the approved tribal energy resource agreement of the Indian tribe;
+  (A) a process and requirements in accordance with which an Indian tribe may—
 
-  (B) a process and requirements in accordance with which an Indian tribe may—
+    (i) voluntarily rescind a tribal energy resource agreement approved by the Secretary under this subsection;
 
-    (i) voluntarily rescind a tribal energy resource agreement approved by the Secretary under this subsection; and
+    (ii) return to the Secretary the responsibility to approve any future lease, business agreement, or right-of-way under this subsection; and
 
-    (ii) return to the Secretary the responsibility to approve any future lease, business agreement, or right-of-way under this subsection;
+    (iii) amend an approved tribal energy resource agreement to assume authority for approving leases, business agreements, or rights-of-way for development of another energy resource that is not included in an approved tribal energy resource agreement without being required to apply for a new tribal energy resource agreement;
 
-  (C) provisions establishing the scope of, and procedures for, the periodic review and evaluation described in subparagraphs (D) and (E) of paragraph (2), including provisions for review of transactions, reports, site inspections, and any other review activities the Secretary determines to be appropriate; and
+  (B) provisions establishing the scope of, and procedures for, the periodic review and evaluation described in subparagraphs (D) and (E) of paragraph (2), including provisions for review of transactions, reports, site inspections, and any other review activities the Secretary determines to be appropriate; and
 
-  (D) provisions describing final agency actions after exhaustion of administrative appeals from determinations of the Secretary under paragraph (7).
+  (C) provisions describing final agency actions after exhaustion of administrative appeals from determinations of the Secretary under paragraph (7).
+
+(9) **Effect.—** — Nothing in this section authorizes the Secretary to deny a tribal energy resource agreement or any amendment to a tribal energy resource agreement, or to limit the effect or implementation of this section, due to lack of promulgated regulations.
 
 **(f) No effect on other law** Nothing in this section affects the application of—
 
@@ -452,17 +572,211 @@ A prior section 3503, Pub. L. 102–486, title XXVI, § 2603, Oct. 24, 1992, 106
 
 (3) except as otherwise provided in this chapter, the Indian Mineral Development Act of 1982 ([25 U.S.C. 2101](./chapter-023-development-of-tribal-mineral-resources.md#section-2101) et seq.).
 
-**(g) Authorization of appropriations** There are authorized to be appropriated to the Secretary such sums as are necessary for each of fiscal years 2006 through 2016 to carry out this section and to make grants or provide other appropriate assistance to Indian tribes to assist the Indian tribes in developing and implementing tribal energy resource agreements in accordance with this section.
+**(g) Financial assistance in lieu of activities by the Secretary**
+
+(1) **In general** — Any amounts that the Secretary would otherwise expend to operate or carry out any program, function, service, or activity (or any portion of a program, function, service, or activity) of the Department that, as a result of an Indian tribe carrying out activities under a tribal energy resource agreement, the Secretary does not expend, the Secretary shall, at the request of the Indian tribe, make available to the Indian tribe in accordance with this subsection.
+
+(2) **Annual funding agreements** — The Secretary shall make the amounts described in paragraph (1) available to an Indian tribe through an annual written funding agreement that is negotiated and entered into with the Indian tribe that is separate from the tribal energy resource agreement.
+
+(3) **Effect of appropriations** — Notwithstanding paragraph (1)—
+
+  (A) the provision of amounts to an Indian tribe under this subsection is subject to the availability of appropriations; and
+
+  (B) the Secretary shall not be required to reduce amounts for programs, functions, services, or activities that serve any other Indian tribe to make amounts available to an Indian tribe under this subsection.
+
+(4) **Determination**
+
+  (A) *In general* — The Secretary shall calculate the amounts under paragraph (1) in accordance with the regulations adopted under section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017.
+
+  (B) *Applicability* — The effective date or implementation of a tribal energy resource agreement under this section shall not be delayed or otherwise affected by—
+
+    (i) a delay in the promulgation of regulations under section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017;
+
+    (ii) the period of time needed by the Secretary to make the calculation required under paragraph (1); or
+
+    (iii) the adoption of a funding agreement under paragraph (2).
+
+**(h) Certification of tribal energy development organization**
+
+(1) **In general** — Not later than 90 days after the date on which an Indian tribe submits an application for certification of a tribal energy development organization in accordance with regulations promulgated under section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017, the Secretary shall approve or disapprove the application.
+
+(2) **Requirements** — The Secretary shall approve an application for certification if—
+
+  (A)
+
+    (i) the Indian tribe has carried out a contract or compact under title I or IV of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.); and
+
+    (ii) for a period of not less than 3 consecutive years ending on the date on which the Indian tribe submits the application, the contract or compact—
+
+      (I) has been carried out by the Indian tribe without material audit exceptions (or without any material audit exceptions that were not corrected within the 3-year period); and
+
+      (II) has included programs or activities relating to the management of tribal land; and
+
+  (B)
+
+    (i) the tribal energy development organization is organized under the laws of the Indian tribe;
+
+    (ii)
+
+      (I) the majority of the interest in the tribal energy development organization is owned and controlled by the Indian tribe (or the Indian tribe and one or more other Indian tribes) the tribal land of which is being developed; and
+
+      (II) the organizing document of the tribal energy development organization requires that the Indian tribe with jurisdiction over the land maintain at all times the controlling interest in the tribal energy development organization;
+
+    (iii) the organizing document of the tribal energy development organization requires that the Indian tribe (or the Indian tribe and one or more other Indian tribes) the tribal land of which is being developed own and control at all times a majority of the interest in the tribal energy development organization; and
+
+    (iv) the organizing document of the tribal energy development organization includes a statement that the organization shall be subject to the jurisdiction, laws, and authority of the Indian tribe.
+
+(3) **Action by Secretary** — If the Secretary approves an application for certification pursuant to paragraph (2), the Secretary shall, not more than 10 days after making the determination—
+
+  (A) issue a certification stating that—
+
+    (i) the tribal energy development organization is organized under the laws of the Indian tribe and subject to the jurisdiction, laws, and authority of the Indian tribe;
+
+    (ii) the majority of the interest in the tribal energy development organization is owned and controlled by the Indian tribe (or the Indian tribe and one or more other Indian tribes) the tribal land of which is being developed;
+
+    (iii) the organizing document of the tribal energy development organization requires that the Indian tribe with jurisdiction over the land maintain at all times the controlling interest in the tribal energy development organization;
+
+    (iv) the organizing document of the tribal energy development organization requires that the Indian tribe (or the Indian tribe and one or more other Indian tribes the tribal land of which is being developed) own and control at all times a majority of the interest in the tribal energy development organization; and
+
+    (v) the certification is issued pursuant this subsection;
+
+  (B) deliver a copy of the certification to the Indian tribe; and
+
+  (C) publish the certification in the Federal Register.
+
+**(i) Sovereign immunity** Nothing in this section waives the sovereign immunity of an Indian tribe.
+
+**(j) Authorization of appropriations** There are authorized to be appropriated to the Secretary such sums as are necessary for each of fiscal years 2006 through 2016 to carry out this section and to make grants or provide other appropriate assistance to Indian tribes to assist the Indian tribes in developing and implementing tribal energy resource agreements in accordance with this section.
 
 ### Statutory Notes
 
 #### References in Text
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (e)(2)(B)(iii)(XII)(aa) and (h)(2)(A)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§ 5321 et seq.) and generally to subchapter IV (§ 5361 et seq.), respectively, of chapter 46 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
 The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f)(2), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
 
 The Indian Mineral Development Act of 1982, referred to in subsec. (f)(3), is Pub. L. 97–382, Dec. 22, 1982, 96 Stat. 1938, which is classified generally to chapter 23 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-023-development-of-tribal-mineral-resources.md#section-2101) and Tables.
 
+Section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017, referred to in subsecs. (g)(4) and (h)(1), is section 103(b) of Pub. L. 115–325, which is set out as a note under this section.
+
 #### Prior Provisions
 A prior section 3504, Pub. L. 102–486, title XXVI, § 2604, Oct. 24, 1992, 106 Stat. 3114, related to Indian energy resource regulation, prior to the general amendment of this chapter by Pub. L. 109–58.
+
+#### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–325, § 103(a)(1)(A)(i), struck out “or” at end.
+
+Subsec. (a)(1)(B)(i). Pub. L. 115–325, § 103(a)(1)(A)(ii)(I), added cl. (i) and struck out former cl. (i) which read as follows: “an electric generation, transmission, or distribution facility located on tribal land; or”.
+
+Subsec. (a)(1)(B)(ii). Pub. L. 115–325, § 103(a)(1)(A)(ii)(II), substituted “energy resources, at least a portion of which have been developed on or produced from tribal land; or” for “energy resources developed on tribal land; and”.
+
+Subsec. (a)(1)(C). Pub. L. 115–325, § 103(a)(1)(A)(iii), added subpar. (C).
+
+Subsec. (a)(2). Pub. L. 115–325, § 103(a)(1)(B), added par. (2) and struck out former par. (2) which set out conditions under which a lease or business agreement described in par. (1) would not require review or approval.
+
+Subsec. (b). Pub. L. 115–325, § 103(a)(2), added subsec. (b) and struck out former subsec. (b) which related to rights-of-way for pipelines or electric transmission or distribution lines.
+
+Subsec. (d). Pub. L. 115–325, § 103(a)(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “No lease, business agreement, or right-of-way relating to the development of tribal energy resources under this section shall be valid unless the lease, business agreement, or right-of-way is authorized by a tribal energy resource agreement approved by the Secretary under subsection (e)(2).”
+
+Subsec. (e)(1). Pub. L. 115–325, § 103(a)(4)(A), added par. (1) and struck out former par. (1) which read as follows: “On the date on which regulations are promulgated under paragraph (8), an Indian tribe may submit to the Secretary for approval a tribal energy resource agreement governing leases, business agreements, and rights-of-way under this section.”
+
+Subsec. (e)(2). Pub. L. 115–325, § 103(a)(4)(B)(i), inserted heading.
+
+Subsec. (e)(2)(A). Pub. L. 115–325, § (a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “Not later than 270 days after the date on which the Secretary receives a tribal energy resource agreement from an Indian tribe under paragraph (1), or not later than 60 days after the Secretary receives a revised tribal energy resource agreement from an Indian tribe under paragraph (4)(C) (or a later date, as agreed to by the Secretary and the Indian tribe), the Secretary shall approve or disapprove the tribal energy resource agreement.”
+
+Subsec. (e)(2)(B). Pub. L. 115–325, § 103(a)(4)(B)(ii)(I), inserted heading and substituted “The Secretary shall disapprove a tribal energy resource agreement submitted pursuant to paragraph (1) or (4)(B) only if” for “The Secretary shall approve a tribal energy resource agreement submitted under paragraph (1) if” in introductory provisions.
+
+Subsec. (e)(2)(B)(i), (ii). Pub. L. 115–325, § 103(a)(4)(B)(ii)(I), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) the Secretary determines that the Indian tribe has demonstrated that the Indian tribe has sufficient capacity to regulate the development of energy resources of the Indian tribe;
+
+“(ii) the tribal energy resource agreement includes provisions required under subparagraph (D); and”.
+
+Subsec. (e)(2)(B)(iii). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(bb), (cc), redesignated subcls. (III), (IV), (VI), (VII), (IX) to (XIV), and (XVI) as (I), (II), (III), (IV), (V) to (X), and (XI), respectively, and struck out former subcls. (I), (II), (V), (VIII), and (XV) which read as follows:
+
+“(I) ensure the acquisition of necessary information from the applicant for the lease, business agreement, or right-of-way;
+
+“(II) address the term of the lease or business agreement or the term of conveyance of the right-of-way;
+
+“(V) address technical or other relevant requirements;
+
+“(VIII) identify final approval authority;
+
+“(XV) specify the financial assistance, if any, to be provided by the Secretary to the Indian tribe to assist in implementation of the tribal energy resource agreement, including environmental review of individual projects; and”.
+
+Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(aa), substituted “does not include provisions that, with respect to any lease, business agreement, or right-of-way to which the tribal energy resource agreement applies” for “includes provisions that, with respect to a lease, business agreement, or right-of-way under this section” in introductory provisions.
+
+Subsec. (e)(2)(B)(iii)(XI)(bb). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(dd), substituted “Federal environmental laws;” for “Federal or tribal environmental laws.”
+
+Subsec. (e)(2)(B)(iii)(XII), (XIII). Pub. L. 115–325, § 103(a)(4)(B)(ii)(II)(ee), added subcls. (XII) and (XIII). Former subcls. (XII) and (XIII) redesignated (VIII) and (IX), respectively.
+
+Subsec. (e)(2)(C). Pub. L. 115–325, § 103(a)(4)(B)(iii), added cl. (i), redesignated cls. (iii) to (v) as (ii) to (iv), respectively, and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) the identification and evaluation of all significant environmental effects (as compared to a no-action alternative), including effects on cultural resources;
+
+“(ii) the identification of proposed mitigation measures, if any, and incorporation of appropriate mitigation measures into the lease, business agreement, or right-of-way;”.
+
+Subsec. (e)(2)(D)(ii). Pub. L. 115–325, § 103(a)(4)(B)(iv), substituted “subparagraph (B)(iv)(XI)” for “subparagraph (B)(iii)(XVI)”.
+
+Subsec. (e)(2)(F). Pub. L. 115–325, § 103(a)(4)(B)(v), added subpar. (F).
+
+Subsec. (e)(3). Pub. L. 115–325, § 105(d)(1), inserted heading and struck out “for approval” after “submitted”.
+
+Subsec. (e)(4). Pub. L. 115–325, § 105(d)(2), inserted heading.
+
+Pub. L. 115–325, § 103(a)(4)(C), substituted “date of disapproval, provide the Indian tribe with” for “date of disapproval” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) notify the Indian tribe in writing of the basis for the disapproval;
+
+“(B) identify what changes or other actions are required to address the concerns of the Secretary; and
+
+“(C) provide the Indian tribe with an opportunity to revise and resubmit the tribal energy resource agreement.”
+
+Subsec. (e)(5). Pub. L. 115–325, § 105(d)(3), inserted heading and substituted “in effect” for “approved” in introductory provisions.
+
+Subsec. (e)(6). Pub. L. 115–325, § 105(d)(4)(A), inserted heading.
+
+Subsec. (e)(6)(A)(i), (ii). Pub. L. 115–325, § 105(d)(4)(B), realigned margins.
+
+Subsec. (e)(6)(B). Pub. L. 115–325, §§ 103(a)(4)(D)(i), 105(d)(4)(C), substituted “Subject only to” for “Subject to”, “in effect” for “approved”, and “subparagraphs (C) and (D)” for “subparagraph (D)”.
+
+Subsec. (e)(6)(C). Pub. L. 115–325, § 103(a)(4)(D)(ii), inserted “to perform the obligations of the Secretary under this section and” before “to ensure” in introductory provisions.
+
+Subsec. (e)(6)(D)(i). Pub. L. 115–325, § 105(d)(4)(D)(i), substituted “a tribal energy resource agreement in effect under this section” for “an approved tribal energy resource agreement”.
+
+Subsec. (e)(6)(D)(ii). Pub. L. 115–325, § 105(d)(4)(D)(ii), substituted “in effect” for “approved by the Secretary”.
+
+Subsec. (e)(6)(D)(iii). Pub. L. 115–325, § 103(a)(4)(D)(iii), added cl. (iii).
+
+Subsec. (e)(7). Pub. L. 115–325, § 105(d)(5)(A), inserted heading.
+
+Subsec. (e)(7)(A). Pub. L. 115–325, §§ 103(a)(4)(E)(i), 105(d)(5)(B), substituted “the Secretary determines has demonstrated with substantial evidence” for “has demonstrated” and “in effect” for “approved by the Secretary”.
+
+Subsec. (e)(7)(B). Pub. L. 115–325, §§ 103(a)(4)(E)(ii), 105(d)(5)(C), substituted “all remedies (if any) provided under the laws of the Indian tribe” for “any tribal remedy” and “in effect” for “approved by the Secretary”.
+
+Subsec. (e)(7)(D)(i). Pub. L. 115–325, § 103(a)(4)(E)(iii)(I), substituted “determine—” for “determine whether the Indian tribe is not in compliance with the tribal energy resource agreement.” and added subcls. (I) and (II).
+
+Subsec. (e)(7)(D)(ii). Pub. L. 115–325, § 103(a)(4)(E)(iii)(II), substituted “determinations” for “determination”.
+
+Subsec. (e)(7)(D)(iii). Pub. L. 115–325, § 103(a)(4)(E)(iii)(III), in introductory provisions, substituted “agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including” for “agreement, the Secretary shall take such action as the Secretary determines to be necessary to ensure compliance with the tribal energy resource agreement, including”.
+
+Subsec. (e)(7)(D)(iii)(I). Pub. L. 115–325, § 105(d)(5)(D)(i), struck out “approved” before “tribal energy resource agreement”.
+
+Subsec. (e)(7)(D)(iii)(II). Pub. L. 115–325, § 105(d)(5)(D)(ii), struck out “approval of” before “all or part of” and substituted “subsection (a)(2)(A)(i) or (b)(2)(A)” for “subsection (a) or (b)”.
+
+Subsec. (e)(7)(E)(i). Pub. L. 115–325, § 103(a)(4)(E)(iv), substituted “, with respect to each claim made in the petition, how” for “the manner in which”.
+
+Subsec. (e)(7)(G). Pub. L. 115–325, § 103(a)(4)(E)(v), added subpar. (G).
+
+Subsec. (e)(8). Pub. L. 115–325, § 103(a)(4)(F)(i), (ii), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “criteria to be used in determining the capacity of an Indian tribe under paragraph (2)(B)(i), including the experience of the Indian tribe in managing natural resources and financial and administrative resources available for use by the Indian tribe in implementing the approved tribal energy resource agreement of the Indian tribe;”.
+
+Subsec. (e)(8)(A)(iii). Pub. L. 115–325, § 103(a)(4)(F)(iii), added cl. (iii).
+
+Subsec. (e)(9). Pub. L. 115–325, § 103(a)(4)(G), added par. (9).
+
+Subsecs. (g) to (j). Pub. L. 115–325, § 103(a)(5), (6), added subsecs. (g) to (i) and redesignated former subsec. (g) as (j).
+
+#### Regulations
+Pub. L. 115–325, title I, § 103(b), Dec. 18, 2018, 132 Stat. 4454, provided that: “Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017 [Dec. 18, 2018], the Secretary shall promulgate or update any regulations that are necessary to implement this section, including provisions to implement— “(1) section 2604(e)(8) of the Energy Policy Act of 1992 ([25 U.S.C. 3504(e)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3504/e/8&num=0&edition=prelim)), including the process to be followed by an Indian tribe amending an existing tribal energy resource agreement to assume authority for approving leases, business agreements, or rights-of-way for development of an energy resource that is not included in the tribal energy resource agreement; “(2) section 2604(g) of the Energy Policy Act of 1992 ([25 U.S.C. 3504(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3504/g&num=0&edition=prelim)) including the manner in which the Secretary, at the request of an Indian tribe, shall—“(A) identify the programs, functions, services, and activities (or any portions of programs, functions, services, or activities) that the Secretary will not have to operate or carry out as a result of the Indian tribe carrying out activities under a tribal energy resource agreement; “(B) identify the amounts that the Secretary would have otherwise expended to operate or carry out each program, function, service, and activity (or any portion of a program, function, service, or activity) identified pursuant to subparagraph (A); and “(C) provide to the Indian tribe a list of the programs, functions, services, and activities (or any portions of programs, functions, services, or activities) identified pursuant [to] subparagraph (A) and the amounts associated with each program, function, service, and activity (or any portion of a program, function, service, or activity) identified pursuant to subparagraph (B); and “(3) section 2604(h) of the Energy Policy Act of 1992 ([25 U.S.C. 3504(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3504/h&num=0&edition=prelim)), including the process to be followed by, and any applicable criteria and documentation required for, an Indian tribe to request and obtain the certification described in that section.”
 
 
 <a id="section-3505"></a>
@@ -549,7 +863,7 @@ A prior section 3505, Pub. L. 102–486, title XXVI, § 2605, Oct. 24, 1992, 106
 
 (2) an economic and engineering evaluation of whether a combined wind and hydropower system can reduce reservoir fluctuation, enhance efficient and reliable energy production, and provide Missouri River management flexibility;
 
-(3) if found feasible, recommendations for a demonstration project to be carried out by the Western Area Power Administration, in partnership with an Indian tribal government or tribal energy resource development organization, and Western Area Power Administration customers to demonstrate the feasibility and potential of using wind energy produced on Indian land to supply firming energy to the Western Area Power Administration; and
+(3) if found feasible, recommendations for a demonstration project to be carried out by the Western Area Power Administration, in partnership with an Indian tribal government or tribal energy development organization, and Western Area Power Administration customers to demonstrate the feasibility and potential of using wind energy produced on Indian land to supply firming energy to the Western Area Power Administration; and
 
 (4) an identification of—
 
@@ -567,3 +881,31 @@ A prior section 3505, Pub. L. 102–486, title XXVI, § 2605, Oct. 24, 1992, 106
 
 #### Prior Provisions
 A prior section 3506, Pub. L. 102–486, title XXVI, § 2606, Oct. 24, 1992, 106 Stat. 3118, related to tribal government energy assistance program, prior to the general amendment of this chapter by Pub. L. 109–58.
+
+#### Amendments
+2018—Subsec. (c)(3). Pub. L. 115–325 substituted “energy development” for “energy resource development”.
+
+
+<a id="section-3507"></a>
+## § 3507. Appraisals
+**(a) In general** For any transaction that requires approval of the Secretary and involves mineral or energy resources held in trust by the United States for the benefit of an Indian tribe or by an Indian tribe subject to Federal restrictions against alienation, any appraisal relating to fair market value of those resources required to be prepared under applicable law may be prepared by—
+
+(1) the Secretary;
+
+(2) the affected Indian tribe; or
+
+(3) a certified, third-party appraiser pursuant to a contract with the Indian tribe.
+
+**(b) Secretarial review and approval** Not later than 45 days after the date on which the Secretary receives an appraisal prepared by or for an Indian tribe under paragraph (2) or (3) of subsection (a), the Secretary shall—
+
+(1) review the appraisal; and
+
+(2) approve the appraisal unless the Secretary determines that the appraisal fails to meet the standards set forth in regulations promulgated under subsection (d).
+
+**(c) Notice of disapproval** If the Secretary determines that an appraisal submitted for approval under subsection (b) should be disapproved, the Secretary shall give written notice of the disapproval to the Indian tribe and a description of—
+
+(1) each reason for the disapproval; and
+
+(2) how the appraisal should be corrected or otherwise cured to meet the applicable standards set forth in the regulations promulgated under subsection (d).
+
+**(d) Regulations** The Secretary shall promulgate regulations to carry out this section, including standards the Secretary shall use for approving or disapproving the appraisal described in subsection (a).

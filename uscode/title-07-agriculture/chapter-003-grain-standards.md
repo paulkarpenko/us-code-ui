@@ -502,13 +502,35 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
     (ii) works with the applicant to address any concerns identified during the consultation process.
 
-(2) **Geographic boundaries for official agencies.—** — Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—
+(2) **Geographic boundaries for official agencies.—**
 
-  (A) the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;
+  (A) *In general.—* — Subject to subparagraph (B), not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary.
 
-  (B) a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis; or
+  (B) *Exceptions.—* — Subject to subsection (g)(4)(A), if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—
 
-  (C) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+    (i) the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;
+
+    (ii) a person requesting inspection services in that geographic area has not been receiving official inspection services from the current designated official agency for that geographic area;
+
+    (iii) a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis; or
+
+    (iv) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+
+  (C) *Termination of nonuse of service exception.—* — The exception under subparagraph (B)(ii) may only be terminated if all parties to that exception jointly agree on the termination, unless terminated according to subsection (g)(4)(A).
+
+  (D) *Restoration of certain exceptions.—*
+
+    (i) *Definition of eligible grain handling facility.—* — In this subparagraph, the term “eligible grain handling facility” means a grain handling facility that—
+
+      (I) was granted an exception under the final rule entitled “Exceptions to Geographic Areas for Official Agencies Under the USGSA” (68 Fed. Reg. 19137 (April 18, 2003)); and
+
+      (II) had that exception revoked between September 30, 2015, and December 20, 2018.
+
+    (ii) *Restoration of exceptions.—* — Within 90 days of notification from an eligible grain handling facility, the Secretary shall restore an exception described in clause (i)(I) with an official agency if—
+
+      (I) the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
+
+      (II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of enactment of the Agriculture Improvement Act of 2018.
 
 (3) Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
 
@@ -521,6 +543,12 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 (2) A designation of an official agency may be amended at any time upon application by the official agency if the Secretary determines that the amendment will be consistent with the provisions and objectives of this chapter; and a designation will be cancelled upon request by the official agency with ninety days written notice to the Secretary. A fee as prescribed by regulations of the Secretary shall be paid by the official agency to the Secretary for each such amendment, to cover the costs incurred by the Secretary in connection therewith, and it shall be deposited in the fund created in subsection (j) of this section.
 
 (3) The Secretary may revoke a designation of an official agency whenever, after opportunity for hearing is afforded the agency, the Secretary determines that the agency has failed to meet one or more of the criteria specified in subsection (f) of this section or the regulations under this chapter for the performance of official functions, or otherwise has not complied with any provision of this chapter or any regulation prescribed or instruction issued to such agency under this chapter, or has been convicted of any violation of other Federal law involving the handling or official inspection of grain: Provided, That the Secretary may, without first affording the official agency an opportunity for a hearing, suspend any designation pending final determination of the proceeding whenever the Secretary has reason to believe there is cause for revocation of the designation and considers such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford any such agency an opportunity for a hearing within thirty days after temporarily suspending such designation.
+
+(4) **Effect on exceptions.—**
+
+  (A) *In general.—* — The exceptions under clauses (ii) and (iv) of subsection (f)(2)(B) shall not apply if the designation of an official agency is terminated, pursuant to paragraph (1).
+
+  (B) *Designation renewed or restored.—* — If the designation of an official agency is renewed or restored after being terminated under paragraph (1), the Secretary may renew or restore the exceptions under subsection (f)(2)(B) in accordance with that subsection.
 
 **(h) Official inspections at locations other than export port locations when designated official agencies are not available** If the Secretary determines that official inspection by an official agency designated under subsection (f) of this section is not available on a regular basis at any location (other than at an export port location) where the Secretary determines such inspection is needed to effectuate the objectives stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), and that no official agency within reasonable proximity to such location is willing to provide or has or can acquire adequate personnel and facilities for providing such service on an interim basis, official inspection shall be provided by authorized employees of the Secretary, and other persons licensed by the Secretary to perform official inspection functions, as provided in [section 84 of this title](./chapter-003-grain-standards.md#section-84), until such time as the service can be provided on a regular basis by an official agency.
 
@@ -548,12 +576,21 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
 ### Statutory Notes
 
+#### References in Text
+Within 90 days of enactment of the Agriculture Improvement Act of 2018, referred to in subsec. (f)(2)(D)(ii)(II), means within 90 days of enactment of Pub. L. 115–334, which was approved December 20, 2018.
+
 #### Codification
 Section as originally enacted was composed of part of section 7 of part B of act Aug. 11, 1916. Other provisions of section 7 were classified to former sections 80 to 83 of this title.
 
 In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2018—Subsec. (f)(1)(C). Pub. L. 115–334, § 12610(c), realigned margins.
+
+Subsec. (f)(2). Pub. L. 115–334, § 12610(a)(1), inserted subpar. (A) designation and heading before “Not more” and subpar. (B) designation and heading before “the Secretary determines” in introductory provisions, substituted “Subject to subparagraph (B), not more” for “Not more” and “Secretary.” for “Secretary, except that, if” in subpar. (A) and “Subject to subsection (g)(4)(A), if the Secretary determines” for “the Secretary determines” in introductory provisions of subpar. (B), redesignated former subpars. (A), (B), and (C) as cls. (i), (iii), and (iv), respectively, of subpar. (B), added cl. (ii) of subpar. (B) and subpars. (C) and (D), and realigned margins.
+
+Subsec. (g)(4). Pub. L. 115–334, § 12610(a)(2), added par. (4).
+
 2015—Subsec. (e)(2). Pub. L. 114–54, § 301(b)(1), inserted heading, designated existing provisions as subpar. (A) and inserted subpar. heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) to (iii) of subpar. (B) as subcls. (I) to (III), respectively, of cl. (ii), and added subpars. (B) and (C).
 
 Subsec. (f)(1)(C). Pub. L. 114–54, § 301(b)(2), added subpar. (C).
@@ -692,11 +729,31 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 
 (1) **In general** — No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in [section 79(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/i&num=0&edition=prelim) and subsection (d).
 
-(2) **Geographic boundaries for official agencies** — Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—
+(2) **Geographic boundaries for official agencies**
 
-  (A) the current designated official agency for that geographic area is unable to provide weighing services in a timely manner; or
+  (A) *In general* — Subject to subparagraph (B), not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary.
 
-  (B) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+  (B) *Exceptions* — If the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—
+
+    (i) the current designated official agency for that geographic area is unable to provide weighing services in a timely manner;
+
+    (ii) a person requesting weighing services in that geographic area has not been receiving official weighing services from the current designated official agency for that geographic area; or
+
+    (iii) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+
+  (C) *Restoration of certain exceptions*
+
+    (i) *Definition of eligible grain handling facility* — In this subparagraph, the term “eligible grain handling facility” means a grain handling facility that—
+
+      (I) was granted an exception under the final rule entitled “Exceptions to Geographic Areas for Official Agencies Under the USGSA” (68 Fed. Reg. 19137 (April 18, 2003)); and
+
+      (II) had that exception revoked between September 30, 2015 and December 20, 2018.
+
+    (ii) *Restoration of exceptions* — Within 90 days of notification from an eligible grain handling facility, the Secretary shall restore an exception described in clause (i)(I) with an official agency if—
+
+      (I) the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
+
+      (II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of December 20, 2018.
 
 **(j) Authority under United States Warehouse Act not limited** The provisions of this section shall not limit any authority vested in the Secretary under the United States Warehouse Act (39 Stat. 486, as amended; [7 U.S.C. 241](./chapter-010-warehouses.md#section-241) et seq.).
 
@@ -726,6 +783,8 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
 
 #### Amendments
+2018—Subsec. (i)(2). Pub. L. 115–334 inserted subpar. (A) designation and heading before “Not more” and subpar. (B) designation and heading before “the Secretary determines” in introductory provisions, substituted “Subject to subparagraph (B), not more” for “Not more” and “Secretary.” for “Secretary, except that, if” in subpar. (A) and “If the Secretary determines” for “the Secretary determines” in subpar. (B), redesignated former subpars. (A) and (B) as cls. (i) and (iii), respectively, of subpar. (B), struck out “or” at end of cl. (i) of subpar. (B), added cl. (ii) of subpar. (B) and subpar. (C), and realigned margins.
+
 2015—Subsec. (c)(2). Pub. L. 114–54, § 301(c)(1), substituted “subsections (e) and (g) of section 79” for “subsection (g) of section 79”.
 
 Subsec. (i)(2). Pub. L. 114–54, § 301(b)(3)(B), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—” for “the Secretary may—”, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which related to more than one designated official agency providing weighing in the same geographic area and a designated official agency crossing boundary lines to provide weighing in another geographic area.

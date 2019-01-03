@@ -142,9 +142,14 @@ In awarding financial assistance under this chapter, the Secretary shall give a 
 
 (3) Persons described in [section 4215(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4215/a/1/B&num=0&edition=prelim).
 
-(4) Individuals who received or are pursuing degrees at institutions designated by the National Security Agency as Centers of Academic Excellence in Information Assurance Education.
+(4) Individuals who received or are pursuing degrees at institutions designated by the National Security Agency as Centers of Academic Excellence in Cyber Education.
 
 (5) Citizens of the United States.
+
+### Statutory Notes
+
+#### Amendments
+2017—Par. (4). Pub. L. 115–91 substituted “Cyber” for “Information Assurance”.
 
 
 <a id="section-7905"></a>

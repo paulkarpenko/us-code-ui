@@ -2,7 +2,7 @@
 title: 10
 chapter: '141'
 heading: MISCELLANEOUS PROCUREMENT PROVISIONS
-section_count: 53
+section_count: 54
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -130,10 +130,15 @@ Pub. L. 108–375, div. A, title VIII, § 804(b), Oct. 28, 2004, 118 Stat. 2008,
 
 The words “Each contractor” are substituted for the words “Every person”. The word “his” is substituted for the words “the name of the contractor furnishing such supplies”. The words “of any kind” and “and distinguish [distinguished]” are omitted as surplusage. The word “may” is substituted for the word “shall”.
 
+#### Amendment of Subsection (b)(2)
+Pub. L. 115–232, div. A, title VIII, § 836(e)(2), (h), Aug. 13, 2018, 132 Stat. 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b)(2) of this section is amended by striking “commercial items” and inserting “commercial products”. See 2018 Amendment note below.
+
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–232 substituted “commercial products” for “commercial items”.
+
 2011—Subsec. (b)(2). Pub. L. 111–350, § 5(b)(23)(A), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))”.
 
 Subsec. (b)(3). Pub. L. 111–350, § 5(b)(23)(B), substituted “[section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim))” for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/11&num=0&edition=prelim)))”.
@@ -153,6 +158,9 @@ Subsec. (b)(3). Pub. L. 103–355, § 4102(d), added par. (3).
 1986—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, amended subsec. (b) identically, designating existing provision as par. (1), redesignating former pars. (1) to (3) as subpars. (A) to (C), respectively, and inserting in provision preceding subpar. (A) “(other than a contract described in paragraph (2))”, and adding par. (2).
 
 1984—Pub. L. 98–525 amended section generally, substituting “identification of supplier and sources” for “marking with name of contractor” in section catchline, and, in text, substituting provisions designated subsec. (a) and relating to the marking of supplies, providing the national stock number for the supplies furnished, and the contractor’s identification number for requirement that each contractor furnishing supplies to a military department mark the supplies with his name in the manner directed by the Secretary of the Department and prohibition of receipt of supplies unless so marked and adding subsecs. (b) and (c).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1996 Amendment
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -295,7 +303,7 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 **(b) Adjustment and Diversification Assistance.—**
 
-(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, or (E) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (E) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D), if the Secretary determines that the encroachment of the civilian community is likely to impair the continued operational utility of the military installation.
+(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, (E) by threats to military installation resilience, or (F) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (F) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D) or (E), if the Secretary determines that either the encroachment of the civilian community or threats to military installation resilience is likely to impair the continued operational utility of the military installation.
 
 (2) In the case of the establishment or expansion of a military installation, assistance may be made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
 
@@ -345,7 +353,17 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 **(c) Research and Technical Assistance.—** The Secretary of Defense may make grants to, or conclude cooperative agreements or enter into contracts with, another Federal agency, a State or local government, or any private entity to conduct research and provide technical assistance in support of activities under this section or Executive Order 12788 (57 Fed. Reg. 2213), as amended by section 33 of Executive Order 13286 (68 Fed. Reg. 10625) and Executive Order 13378 (70 Fed. Reg. 28413).
 
-**(d) Definitions.—** In this section:
+**(d) Defense Community Infrastructure Pilot Program.—**
+
+(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State and local governments to address deficiencies in community infrastructure supportive of a military installation, if the Secretary determines that such assistance will enhance the military value, resilience, or military family quality of life at such military installation.
+
+(2) The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under paragraph (1). The criteria shall include a requirement that the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project, unless the community infrastructure project is located in a rural area, or for reasons related to national security, in which case the Secretary may waive the requirement for a State or local government contribution.
+
+(3) Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
+
+(4) The authority under this subsection shall expire upon the expiration of the 10-year period which begins on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2019.
+
+**(e) Definitions.—** In this section:
 
 (1) The terms “military installation” and “realignment” have the meanings given those terms in [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For purposes of subsection (b)(1)(D), the term “military installation” includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
 
@@ -353,16 +371,30 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 (3) The terms “community adjustment” and “economic diversification” include the development of feasibility studies and business plans for market diversification within a community adversely affected by an action described in clause (A), (B), (C), or (E) of subsection (b)(1) by adversely affected businesses and labor organizations located in the community.
 
-**(e) Assistance Subject to Appropriations.—** The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
+(4) The term “community infrastructure” means any transportation project; school, hospital, police, fire, emergency response, or other community support facility; or water, waste-water, telecommunications, electric, gas, or other utility infrastructure project that is located off of a military installation and owned by a State or local government.
+
+(5) The term “rural area” means a city, town, or unincorporated area that has a population of not more than 50,000 inhabitants.
+
+**(f) Assistance Subject to Appropriations.—** The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
 ### Statutory Notes
 
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
+
 Executive Order 12788, referred to in subsec. (c), is set out below.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232, § 2805(f), substituted “, (E) by threats to military installation resilience, or (F) by the closure” for “, or (E) by the closure”, “(A), (B), (C), or (F)” for “(A), (B), (C), or (E)”, and “action described in clause (D) or (E), if the Secretary determines that either the encroachment of the civilian community or threats to military installation resilience” for “action described in clause (D), if the Secretary determines that the encroachment of the civilian community”.
+
+Subsecs. (d), (e). Pub. L. 115–232, § 2861(1), (2), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(4), (5). Pub. L. 115–232, § 2861(3), added pars. (4) and (5).
+
+Subsec. (f). Pub. L. 115–232, § 2861(1), redesignated subsec. (e) as (f).
+
 2013—Subsec. (d)(1). Pub. L. 112–239 substituted “section 2687” for “section 2687(e)”.
 
 2008—Subsec. (d)(1). Pub. L. 110–417 inserted “the Commonwealth of the Northern Mariana Islands,” after “Guam,”.
@@ -445,6 +477,9 @@ Pub. L. 100–456, div. B, title XXVII, § 2702, Sept. 29, 1988, 102 Stat. 2115,
 
 #### Effective Date of 1983 Amendment
 Pub. L. 98–115, title VIII, § 808, Oct. 11, 1983, 97 Stat. 789, provided that the amendment made by that section is effective Oct. 1, 1983.
+
+#### Restrictions on Use of Funds for Development of Public Infrastructure in Commonwealth of Northern Mariana Islands
+Pub. L. 115–232, div. B, title XXVIII, § 2863, Aug. 13, 2018, 132 Stat. 2284, provided that: “(a) Restriction.—If the Secretary of Defense determines that any grant, cooperative agreement, transfer of funds to another Federal agency, or supplement of funds available under Federal programs administered by agencies other than the Department of Defense will result in the development (including repair, replacement, renovation, conversion, improvement, expansion, acquisition, or construction) of public infrastructure in the Commonwealth of the Northern Mariana Islands (hereafter in this section referred to as the ‘Commonwealth’), the Secretary of Defense may not carry out such grant, transfer, cooperative agreement, or supplemental funding unless such grant, transfer, cooperative agreement, or supplemental funding—“(1) is specifically authorized by law; and “(2) will be used to carry out a public infrastructure project included in the report submitted under subsection (b). “(b) Report of Economic Adjustment Committee.—“(1) Convening of committee.—Not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, as the chair of the Economic Adjustment Committee established in Executive Order No. 127887 [probably should be Executive Order No. 12788] ([10 U.S.C. 2391](./chapter-141-miscellaneous-procurement-provisions.md#section-2391) note), shall convene the Economic Adjustment Committee to consider assistance, including assistance to support public infrastructure projects, necessary to support changes in Department of Defense activities in the Commonwealth. “(2) Report.—Not later than 180 days after convening the Economic Adjustment Committee under paragraph (1), the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report—“(A) describing the results of the Economic Adjustment Committee deliberations required by paragraph (1); and “(B) containing a description of any assistance the Committee determines to be necessary to support changes in Department of Defense activities in the Commonwealth, including any public infrastructure projects the Committee determines should be carried out with such assistance. “(c) Public Infrastructure Defined.—In this section, the term ‘public infrastructure’ means any utility, method of transportation, item of equipment, or facility under the control of a public entity or State or local government that is used by, or constructed for the benefit of, the general public.”
 
 #### Advance Adjustment Planning
 Pub. L. 102–484, div. D, title XLIII, § 4301(d), Oct. 23, 1992, 106 Stat. 2697, authorized Secretary of Defense, during fiscal year 1993, to make grants and other assistance available under [10 U.S.C. 2391(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2391/b&num=0&edition=prelim) to assist a State or local government in planning community adjustments and economic diversification even though the State or local government currently failed to meet the criteria for assistance under such section if the Secretary determined that a substantial portion of the economic activity or population of the geographic area to be subjected to the adjustment or diversification planning was dependent on Department of Defense expenditures.
@@ -656,7 +691,12 @@ Pub. L. 97–252, title XI, § 1109, Sept. 8, 1982, 96 Stat. 746, as amended by 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 115–232, div. A, title VIII, § 836(e)(3), (h), Aug. 13, 2018, 132 Stat. 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended by striking “commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)”. See 2018 Amendment note below.
+
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))”.
+
 2013—Subsec. (b). Pub. L. 113–66 substituted “on a publicly accessible website to the maximum extent practicable” for “in a file available for public inspection”.
 
 2011—Subsec. (d). Pub. L. 111–350 substituted “[section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim))” for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/11&num=0&edition=prelim)))” and “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))”.
@@ -668,6 +708,9 @@ Pub. L. 97–252, title XI, § 1109, Sept. 8, 1982, 96 Stat. 746, as amended by 
 1990—Subsec. (d). Pub. L. 101–510 added subsec. (d).
 
 1987—Subsec. (c). Pub. L. 100–180 inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -807,7 +850,7 @@ For effective date and applicability of repeal, see section 4401 of Pub. L. 104�
 ## § 2399. Operational test and evaluation of defense acquisition programs
 **(a) Condition for Proceeding Beyond Low-rate Initial Production.—**
 
-(1) The Secretary of Defense shall provide that a covered major defense acquisition program or a covered designated major subprogram may not proceed beyond low-rate initial production until initial operational test and evaluation of the program or subprogram is completed.
+(1) The Secretary of Defense shall provide that a covered major defense acquisition program, a covered designated major subprogram, or an element of the ballistic missile defense system may not proceed beyond low-rate initial production until initial operational test and evaluation of the program, subprogram, or element is completed.
 
 (2) In this subsection:
 
@@ -875,6 +918,8 @@ For effective date and applicability of repeal, see section 4401 of Pub. L. 104�
 A prior section 2399, added Pub. L. 97–295, § 1(29)(A), Oct. 12, 1982, 96 Stat. 1293, which related to limitation on availability of appropriations to reimburse a contractor for the cost of commercial insurance, was repealed by Pub. L. 100–370, § 1(f)(2)(B), July 19, 1988, 102 Stat. 846, and was restated in [section 2324(e)(1)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/e/1/L&num=0&edition=prelim) by section 1(f)(2)(A) of Pub. L. 100–370.
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–91 substituted “, a covered designated major subprogram, or an element of the ballistic missile defense system” for “or a covered designated major subprogram” and “program, subprogram, or element” for “program or subprogram”.
+
 2011—Subsec. (a). Pub. L. 111–383 amended subsec. (a) generally. Prior to amendment, text read as follows:
 
 “(1) The Secretary of Defense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
@@ -918,8 +963,11 @@ Subsec. (h)(1). Pub. L. 103–337, § 1070(a)(11)(C), substituted “139(a)(2)(A
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
+#### Enhancements to Transparency in Test and Evaluation Processes and Data
+Pub. L. 115–91, div. A, title VIII, § 839, Dec. 12, 2017, 131 Stat. 1475, provided that: “(a) Additional Test and Evaluation Duties of Military Secretaries and Defense Agency Heads.—“(1) Report on comparison of operational test and evaluation results to legacy items or components.—Concurrent with the submission of a report required under [section 2399(b)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2399/b/2&num=0&edition=prelim), United States Code, the Secretary of a military department or the head of a Defense Agency may provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the Secretary of Defense a report describing of the performance of the items or components evaluated as part of the operational test and evaluation for each major defense acquisition program conducted under such section by the Director of Operational Test and Evaluation in relation to comparable legacy items or components, if such items or components exist and relevant data are available without requiring additional testing. “(2) Additional report on operational test and evaluation activities.—Within 45 days after the submission of an annual report required by [section 139(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/h&num=0&edition=prelim), United States Code, the Secretaries of the military departments may each submit to the congressional defense committees a report addressing any concerns related to information included in the annual report, or providing updated or additional information, as appropriate. “(b) Requirements for Collection of Cost Data on Test and Evaluation.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 12, 2017] and subject to paragraph (2), the Director of Operational Test and Evaluation, the senior official of the Department of Defense with responsibility for developmental testing, and the Director of the Test Resource Management Center shall jointly develop policies, procedures, guidance, and a method to collect data that ensures that consistent and high quality data are collected on the full range of estimated and actual developmental, live fire, and operational testing costs for major defense acquisition programs. “(2) Concurrence and coordination required.—Before implementing the policies, procedures, guidance, and method developed under paragraph (1), the Director of Operational Test and Evaluation, the senior official of the Department of Defense with responsibility for developmental testing, and the Director of the Test Resource Management Center shall—“(A) obtain the concurrence of the Director for Cost Assessment and Program Evaluation; and “(B) coordinate with the Secretaries of the military departments. “(3) Data requirements.—“(A) Electronic database.—Data on estimated and actual developmental, live fire, and operational testing costs shall be maintained in an electronic database maintained by the Director for Cost Assessment and Program Evaluation or another appropriate official of the Department of Defense, and shall be made available for analysis by testing, acquisition, and other appropriate officials of the Department of Defense, as determined by the Director of Operational Test and Evaluation, the senior official of the Department of Defense with responsibility for developmental testing, or the Director of the Test Resource Management Center. “(B) Diaggregation [sic] by costs.—To the maximum extent practicable, data collected under this subsection shall be set forth separately by costs for developmental testing, operational testing, and training. “(c) Major Defense Acquisition Program Defined.—In this section, the term ‘major defense acquisition program’ has the meaning provided in [section 2430 of title 10](./chapter-144-major-defense-acquisition-programs.md#section-2430), United States Code.”
+
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
-Pub. L. 101–189, div. A, title VIII, § 801, Nov. 29, 1989, 103 Stat. 1483, provided that: “(a) Establishment of Policy.—The Secretary of Defense shall establish guidelines for—“(1) determining the degree of concurrency that is appropriate for the development of major defense acquisition systems; and “(2) assessing the degree of risk associated with various degrees of concurrency. “(b) Report on Guidelines.—The Secretary shall submit to Congress a report that describes the guidelines established under subsection (a) and the method used for assessing risk associated with concurrency. “(c) Report on Concurrency in Major Acquisition Programs.—(1) The Secretary shall also submit to Congress a report outlining the risk associated with concurrency for each major defense acquisition program that is in either full-scale development or low-rate initial production as of January 1, 1990. “(2) The report shall include consideration of the following matters with respect to each such program:“(A) The degree of confidence in the enemy threat assessment for establishing the system’s requirements. “(B) The type of contract involved. “(C) The degree of stability in program funding. “(D) The level of maturity of technology involved in the system. “(E) The availability of adequate test assets, including facilities and ranges. “(F) The plans for transition from development to production. “(d) Submission of Reports.—The reports under subsections (b) and (c) shall be submitted to Congress not later than March 1, 1990. “(e) Definition.—For purposes of this section, the term ‘concurrency’ means the degree of overlap between the development and production processes of an acquisition program.”
+Pub. L. 101–189, div. A, title VIII, § 801, Nov. 29, 1989, 103 Stat. 1483, which related to the assessment of risk in concurrent development of major defense acquisition systems and establishment of guidelines, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(33), Aug. 13, 2018, 132 Stat. 1849.
 
 
 <a id="section-2400"></a>
@@ -1210,13 +1258,13 @@ Pub. L. 107–206, title I, § 308, Aug. 2, 2002, 116 Stat. 841, provided that: 
 
 Pub. L. 107–117, div. A, title VIII, § 8159, Jan. 10, 2002, 115 Stat. 2284, as amended by Pub. L. 107–248, title VIII, § 8117, Oct. 23, 2002, 116 Stat. 1564; Pub. L. 113–76, div. C, title VIII, § 8122, Jan. 17, 2014, 128 Stat. 133, provided that: “(a) The Secretary of the Air Force may, from funds provided in this Act [see Tables for classification] or any future appropriations Act, establish and make payments on a multi-year pilot program for leasing general purpose Boeing 767 aircraft and Boeing 737 aircraft in commercial configuration. “(b) Sections 2401 and 2401a of title 10, United States Code, shall not apply to any aircraft lease authorized by this section. “(c) Under the aircraft lease Pilot Program authorized by this section:“(1) The Secretary may include terms and conditions in lease agreements that are customary in aircraft leases by a non-Government lessor to a non-Government lessee, but only those that are not inconsistent with any of the terms and conditions mandated herein. Notwithstanding the provisions of [Section 3324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3324&num=0&edition=prelim), United States Code, payment for the acquisition of leasehold interests under this section may be made for each annual term up to one year in advance. “(2) The term of any individual lease agreement into which the Secretary enters under this section shall not exceed 10 years, inclusive of any options to renew or extend the initial lease term. “(3) The Secretary may provide for special payments in a lessor if the Secretary terminates or cancels the lease prior to the expiration of its term. Such special payments shall not exceed an amount equal to the value of 1 year’s lease payment under the lease. “(4) Subchapter IV of chapter 15 of title 31, United States Code shall apply to the lease transactions under this section, except that the limitation in section 1553(b)(2) shall not apply. “(5) The Secretary shall lease aircraft under terms and conditions consistent with this section and consistent with the criteria for an operating lease as defined in OMB Circular A–11, as in effect at the time of the lease. “(6) Lease arrangements authorized by this section may not commence until:“(A) The Secretary submits a report to the congressional defense committees [Committees on Armed Services of the Senate and House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and House of Representatives] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and describe the expected savings, if any, comparing total costs, including operation, support, acquisition, and financing, of the lease, including modification, with the outright purchase of the aircraft as modified. “(B) A period of not less than 30 calendar days has elapsed after submitting the report. “[(7) Repealed. Pub. L. 113–76, div. C, title VIII, § 8122, Jan. 17, 2014, 128 Stat. 133.] “(8) The Air Force shall accept delivery of the aircraft in a general purpose configuration. “(9) At the conclusion of the lease term, each aircraft obtained under that lease may be returned to the contractor in the same configuration in which the aircraft was delivered. “(10) The present value of the total payments over the duration of each lease entered into under this authority shall not exceed 90 percent of the fair market value of the aircraft obtained under that lease. “(d) No lease entered into under this authority shall provide for—“(1) the modification of the general purpose aircraft from the commercial configuration, unless and until separate authority for such conversion is enacted and only to the extent budget authority is provided in advance in appropriations Acts for that purpose; or “(2) the purchase of the aircraft by, or the transfer of ownership to, the Air Force. “(e) The authority granted to the Secretary of the Air Force by this section is separate from and in addition to, and shall not be construed to impair or otherwise affect, the authority of the Secretary to procure transportation or enter into leases under a provision of law other than this section. “(f) The authority provided under this section may be used to lease not more than a total of 100 Boeing 767 aircraft and 4 Boeing 737 aircraft for the purposes specified herein. “(g) Notwithstanding any other provision of law, any payments required for a lease entered into under this Section, or any payments made pursuant to subsection (c)(3) above, may be made from appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the lease takes effect; appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the payment is due; or funds appropriated for those payments.”
 
-Pub. L. 106–79, title VIII, § 8133, Oct. 25, 1999, 113 Stat. 1267, provided that: “(a) The Secretary of the Air Force may establish a multi-year pilot program for leasing aircraft for operational support purposes, including transportation for the combatant Commanders in Chief, on such terms and conditions as the Secretary may deem appropriate, consistent with this section. “(b) Sections 2401 and 2401a of title 10, United States Code, shall not apply to any aircraft lease authorized by this section. “(c) Under the aircraft lease Pilot Program authorized by this section:“(1) The Secretary may include terms and conditions in lease agreements that are customary in aircraft leases by a non-Government lessor to a non-Government lessee. “(2) The term of any individual lease agreement into which the Secretary enters under this section shall not exceed 10 years. “(3) The Secretary may provide for special payments to a lessor if either the Secretary terminates or cancels the lease prior to the expiration of its term or aircraft are damaged or destroyed prior to the expiration of the term of the lease. Such special payments shall not exceed an amount equal to the value of one year’s lease payment under the lease. The amount of special payments shall be subject to negotiation between the Air Force and lessors. “(4) Notwithstanding any other provision of law, any payments required under a lease under this section, and any payments made pursuant to subsection (3) above may be made from:“(A) appropriations available for the performance of the lease at the time the lease takes effect; “(B) appropriations for the operation and maintenance available at the time which the payment is due; and “(C) funds appropriated for those payments. “(5) The Secretary may lease aircraft, on such terms and conditions as the Secretary may deem appropriate, consistent with this section, through an operating lease consistent with OMB Circular A–11. “(6) The Secretary may exchange or sell existing aircraft and apply the exchange allowance or sale proceeds in whole or in part toward the cost of leasing replacement aircraft under this section. “(7) Lease arrangements authorized by this section may not commence until:“(A) The Secretary submits a report to the congressional defense committees [Committees on Armed Services and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and the savings in operations and support costs expected to be derived from retiring older aircraft as compared to the expected cost of leasing newer replacement aircraft. “(B) A period of not less than 30 calendar days has elapsed after submitting the report. “(8) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be based on at least 6 months of experience in operating the Pilot Program. “(9) No lease of operational support aircraft may be entered into under this section after September 30, 2004. “(d) The authority granted to the Secretary of the Air Force by this section is separate from and in addition to, and shall not be construed to impair or otherwise affect, the authority of the Secretary to procure transportation or enter into leases under a provision of law other than this section. “(e) The authority provided under this section may be used to lease not more than a total of six aircraft for the purposes of providing operational support.”
+Pub. L. 106–79, title VIII, § 8133, Oct. 25, 1999, 113 Stat. 1267, which authorized the Secretary of the Air Force to establish a multi-year pilot program for leasing aircraft for operational support purposes, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(34), Aug. 13, 2018, 132 Stat. 1849.
 
 #### Lease of Firefighting, Crash Rescue, and Snow Removal Equipment
 Pub. L. 105–262, title VIII, § 8126, Oct. 17, 1998, 112 Stat. 2333, provided that: “(a) The Secretary of the Army and the Secretary of the Air Force may each enter into one or more multiyear leases of nontactical firefighting equipment, nontactical crash rescue equipment, or nontactical snow removal equipment. The period of a lease entered into under this section shall be for any period not in excess of 10 years. Any such lease shall provide that performance under the lease during the second and subsequent years of the contract is contingent upon the appropriation of funds and shall provide for a cancellation payment to be made to the lessor if such appropriations are not made. “(b) Lease payments made under subsection (a) shall be made from amounts provided in this or future appropriations Acts. “(c) This section is effective for all fiscal years beginning after September 30, 1998.”
 
 #### Pilot Program for Leasing Commercial Utility Cargo Vehicles
-Pub. L. 104–106, div. A, title VIII, § 807(c), Feb. 10, 1996, 110 Stat. 392, as amended by Pub. L. 106–65, div. A, title X, § 1067(6), Oct. 5, 1999, 113 Stat. 774, authorized the Secretary of the Army to conduct a pilot program for leasing commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report prior to commencement of the program containing plans for its implementation and setting forth the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report on the status of the program not later than one year after the date on which the first lease under the program had been entered into, and provided that no lease could be entered into under the program after Sept. 30, 2000.
+Pub. L. 104–106, div. A, title VIII, § 807(c), Feb. 10, 1996, 110 Stat. 392, as amended by Pub. L. 106–65, div. A, title X, § 1067(6), Oct. 5, 1999, 113 Stat. 774, which authorized the Secretary of the Army to conduct a pilot program for leasing commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report prior to commencement of the program containing plans for its implementation and setting forth the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report on the status of the program not later than one year after the date on which the first lease under the program had been entered into, and provided that no lease could be entered into under the program after Sept. 30, 2000, was repealed by Pub. L. 115–91, div. A, title VIII, § 884, Dec. 12, 2017, 131 Stat. 1505.
 
 
 <a id="section-2402"></a>
@@ -1239,12 +1287,28 @@ Pub. L. 104–106, div. A, title VIII, § 807(c), Feb. 10, 1996, 110 Stat. 392, 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 115–232, div. A, title VIII, § 836(e)(4), (h), Aug. 13, 2018, 132 Stat. 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended as follows:
+
+(1) in paragraph (1), by striking “commercial items” both places it appears and inserting “commercial products or commercial services”; and
+
+(2) in paragraph (2), by striking “the term” and all that follows and inserting “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.”.
+
+See 2018 Amendment notes below.
+
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–232, § 836(e)(4)(A), substituted “commercial products or commercial services” for “commercial items” in two places.
+
+Subsec. (d)(2). Pub. L. 115–232, § 836(e)(4)(B), substituted “the terms ‘commercial product’ and ‘commercial service’ have the meanings given those terms in sections 103 and 103a, respectively, of title 41.” for “the term ‘commercial item’ has the meaning given such term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim).”
+
 2011—Subsec. (c). Pub. L. 111–350, § 5(b)(25)(A), substituted “[section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim))” for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/11&num=0&edition=prelim)))”.
 
 Subsec. (d)(2). Pub. L. 111–350, § 5(b)(25)(B), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
 
 1994—Subsecs. (c), (d). Pub. L. 103–355 added subsecs. (c) and (d).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -1346,12 +1410,17 @@ Pub. L. 96–107, title I, § 104, Nov. 9, 1979, 93 Stat. 804.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(4)(B)
+Pub. L. 115–232, div. A, title VIII, § 836(e)(5), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(4)(B) of this section is amended by striking “commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)”. See 2018 Amendment note below.
+
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+2018—Subsec. (a)(4)(B). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))”.
+
 2011—Subsec. (a)(4)(A). Pub. L. 111–350, § 5(b)(26)(A), substituted “[section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim))” for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/11&num=0&edition=prelim)))”.
 
 Subsec. (a)(4)(B). Pub. L. 111–350, § 5(b)(26)(B), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))”.
@@ -1379,6 +1448,9 @@ Subsec. (a)(1)(D). Pub. L. 101–510, § 812(a)(4), inserted before period at en
 Subsec. (b). Pub. L. 101–510, § 812(b), inserted “or subcontractor” after “contractor” wherever appearing.
 
 1988—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A person who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from working in a management or supervisory capacity on any defense contract, or serving on the board of directors of any defense contractor, for a period, as determined by the Secretary of Defense, of not less than one year from the date of the conviction.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -1692,7 +1764,12 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 115–232, div. A, title VIII, § 836(e)(6), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended by striking “commercial items” and inserting “commercial products”. See 2018 Amendment note below.
+
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “commercial products” for “commercial items”.
+
 2011—Subsec. (c). Pub. L. 111–350 substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))”.
 
 1996—Subsec. (a)(2). Pub. L. 104–106, as amended by Pub. L. 104–201, struck out “certification and” after “appropriate”.
@@ -1700,6 +1777,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 1994—Subsecs. (a), (b). Pub. L. 103–355, § 4102(h), designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (c). Pub. L. 103–355, § 8105(i), added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1996 Amendment
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -1878,10 +1958,18 @@ Pub. L. 103–160, div. A, title VIII, § 849(b), Nov. 30, 1993, 107 Stat. 1725.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(1)
+Pub. L. 115–232, div. A, title VIII, § 836(e)(7), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d)(1) of this section is amended by striking “Commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” and inserting “Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)”. See 2018 Amendment note below.
+
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–232 substituted “Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “Commercial items (as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))”.
+
 2011—Subsec. (d)(1). Pub. L. 111–350 substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim))” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))”.
 
 1996—Subsec. (d)(1). Pub. L. 104–106 inserted “(as defined in section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim)))” before period at end.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1996 Amendment
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
@@ -1896,7 +1984,7 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467,
 
 <a id="section-2410i"></a>
 ## § 2410i. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel
-**(a) Policy.—** Under section 3(5)(A) of the Export Administration Act of 1979 ([50 U.S.C. 4602(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4602/5/A&num=0&edition=prelim)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
+**(a) Policy.—** Under section 3(5)(A) 11 See References in Text note below. of the Export Administration Act of 1979 ([50 U.S.C. 4602(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4602/5/A&num=0&edition=prelim)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
 
 **(b) Prohibition.—**
 
@@ -1904,7 +1992,7 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467,
 
 (2) In paragraph (1), the term “foreign entity” means a foreign person, a foreign company, or any other foreign entity.
 
-**(c) Waiver Authority.—** The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States. Within 15 days after the end of each fiscal year, the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year.
+**(c) Waiver Authority.—** The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States.
 
 **(d) Exceptions.—** Subsection (b) does not apply—
 
@@ -1914,7 +2002,12 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467,
 
 ### Statutory Notes
 
+#### References in Text
+Section 3(5)(A) of the Export Administration Act of 1979 ([50 U.S.C. 4602(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4602/5/A&num=0&edition=prelim)), referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
 #### Amendments
+2017—Subsec. (c). Pub. L. 115–91 struck out at end “Within 15 days after the end of each fiscal year, the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year.”
+
 2016—Subsec. (a). Pub. L. 114–328 substituted “([50 U.S.C. 4602(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4602/5/A&num=0&edition=prelim))” for “(50 U.S.C. App. 2402(5)(A))”.
 
 2011—Subsec. (b)(1). Pub. L. 111–350 substituted “simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim))” for “small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/11&num=0&edition=prelim)))”.
@@ -2264,7 +2357,7 @@ Pub. L. 110–181, div. A, title VIII, § 827(b), Jan. 28, 2008, 122 Stat. 228, 
 Pub. L. 109–364, div. A, title VIII, § 807(a)(3), Oct. 17, 2006, 120 Stat. 2316, provided that: “[Section 2410p of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2410p), United States Code, as added by paragraph (1), shall apply with respect to contracts entered into after December 31, 2006.”
 
 #### Update of Regulations on Lead System Integrators
-Pub. L. 109–364, div. A, title VIII, § 807(b), Oct. 17, 2006, 120 Stat. 2316, provided that: “Not later than December 31, 2006, the Secretary of Defense shall update the acquisition regulations of the Department of Defense in order to specify fully in such regulations the matters with respect to lead system integrators set forth in section 805(b) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3372) and the amendments made by subsection (a) [enacting this section].”
+Pub. L. 109–364, div. A, title VIII, § 807(b), Oct. 17, 2006, 120 Stat. 2316, which required the Secretary of Defense to update acquisition regulations regarding lead system integrators, was repealed by Pub. L. 115–232, div. A, title VIII, § 812(b)(35), Aug. 13, 2018, 132 Stat. 1849.
 
 #### Prohibition on New Lead Systems Integrators
 Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as amended by Pub. L. 110–417, [div. A], title I, § 112, Oct. 14, 2008, 122 Stat. 4374, provided that: “(a) Prohibitions on the Use of Lead Systems Integrators.—“(1) Prohibition on new lead systems integrators.—Effective October 1, 2010, the Department of Defense may not award a new contract for lead systems integrator functions in the acquisition of a major system to any entity that was not performing lead systems integrator functions in the acquisition of the major system prior to the date of the enactment of this Act [Jan. 28, 2008]. “(2) Prohibition on lead systems integrators beyond low-rate initial production.—Effective on the date of the enactment of this Act, the Department of Defense may award a new contract for lead systems integrator functions in the acquisition of a major system only if—“(A) the major system has not yet proceeded beyond low-rate initial production; or “(B) the Secretary of Defense determines in writing that it would not be practicable to carry out the acquisition without continuing to use a contractor to perform lead systems integrator functions and that doing so is in the best interest of the Department. “(3) Requirements relating to determinations.—A determination under paragraph (2)(B)—“(A) shall specify the reasons why it would not be practicable to carry out the acquisition without continuing to use a contractor to perform lead systems integrator functions (including a discussion of alternatives, such as the use of the Department of Defense workforce, or a system engineering and technical assistance contractor); “(B) shall include a plan for phasing out the use of contracted lead systems integrator functions over the shortest period of time consistent with the interest of the national defense; “(C) may not be delegated below the level of the Under Secretary of Defense for Acquisition, Technology, and Logistics; and “(D) shall be provided to the Committees on Armed Services of the Senate and the House of Representatives at least 45 days before the award of a contract pursuant to the determination. “(b) Acquisition Workforce.—“(1) Requirement.—The Secretary of Defense shall ensure that the acquisition workforce is of the appropriate size and skill level necessary—“(A) to accomplish inherently governmental functions related to acquisition of major systems; and “(B) to effectuate the purpose of subsection (a) to minimize and eventually eliminate the use of contractors to perform lead systems integrator functions. “(2) Report.—The Secretary shall include an update on the progress made in complying with paragraph (1) in the annual report required by section 820 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2330) [[10 U.S.C. 1701](./chapter-087-defense-acquisition-workforce.md#section-1701) note]. “(c) Exception for Contracts for Other Management Services.—The Department of Defense may continue to award contracts for the procurement of services the primary purpose of which is to perform acquisition support functions with respect to the development or production of a major system, if the following conditions are met with respect to each such contract:“(1) The contract prohibits the contractor from performing inherently governmental functions. “(2) The Department of Defense organization responsible for the development or production of the major system ensures that Federal employees are responsible for—“(A) determining courses of action to be taken in the best interest of the government; and “(B) determining best technical performance for the warfighter. “(3) The contract requires that the prime contractor for the contract may not advise or recommend the award of a contract or subcontract for the development or production of the major system to an entity owned in whole or in part by the prime contractor. “(d) Definitions.—In this section:“(1) Lead systems integrator.—The term ‘lead systems integrator’ means—“(A) a prime contractor for the development or production of a major system, if the prime contractor is not expected at the time of award to perform a substantial portion of the work on the system and the major subsystems; or “(B) a prime contractor under a contract for the procurement of services the primary purpose of which is to perform acquisition functions closely associated with inherently governmental functions with respect to the development or production of a major system. “(2) Major system.—The term ‘major system’ has the meaning given such term in [section 2302d of title 10](./chapter-137-procurement-generally.md#section-2302d), United States Code. “(3) Low-rate initial production.—The term ‘low-rate initial production’ has the meaning given such term in [section 2400 of title 10](./chapter-141-miscellaneous-procurement-provisions.md#section-2400), United States Code. “(e) Status of Future Combat Systems Program Lead System Integrator.—“(1) Lead systems integrator.—In the case of the Future Combat Systems program, the prime contractor of the program shall be considered to be a lead systems integrator until 45 days after the Secretary of the Army certifies in writing to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that such contractor is no longer serving as the lead systems integrator. “(2) New contracts.—In applying subsection (a)(1) or (a)(2), any modification to the existing contract for the Future Combat Systems program, for the purpose of entering into full-rate production of major systems or subsystems, shall be considered a new contract.”
@@ -2298,3 +2391,23 @@ Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as 
 (1) that performs a service for the Department of Defense pursuant to a contract; and
 
 (2) that is trained and kenneled by an entity that provides such a dog pursuant to such a contract.
+
+
+<a id="section-2410s"></a>
+## § 2410s. Security clearances for facilities of certain companies
+**(a) Authority.—** If the senior management official of a covered company does not have a security clearance, the Secretary of Defense may grant a security clearance to a facility of such company only if the following criteria are met:
+
+(1) The company has appointed a senior officer, director, or employee of the company who has a security clearance at the level of the security clearance of the facility to act as the senior management official of the company with respect to such facility.
+
+(2) Any senior management official, senior officer, or director of the company who does not have such a security clearance will not have access to any classified information, including with respect to such facility.
+
+(3) The company has certified to the Secretary that the senior officer, director, or employee appointed under paragraph (1) has the authority to act on behalf of the company with respect to such facility independent of any senior management official, senior officer, or director described in paragraph (2).
+
+(4) The facility meets all of the requirements to be granted a security clearance other than any requirement relating to the senior management official of the company having an appropriate security clearance.
+
+**(b) Covered Company.—** In this section, the term “covered company” means a company that has entered into a contract or agreement with the Department of Defense, assists the Department, or requires a facility to process classified information.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–232 struck out period at end of section catchline.

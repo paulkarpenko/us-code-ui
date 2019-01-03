@@ -273,7 +273,7 @@ Pub. L. 98–569, § 6, Oct. 30, 1984, 98 Stat. 2939, provided that: “The amen
 
 (6) In implementing the units authorized to be constructed pursuant to subsection (a), the Secretary shall implement measures to replace incidental fish and wildlife values foregone concurrently with the implementation of a unit’s, or a portion of a unit’s, related features.
 
-**(c) Salinity control measures** The Secretary of Agriculture shall carry out salinity control measures (including watershed enhancement and cost-share measures with livestock and crop producers) in the Colorado River Basin as part of the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3839aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3839aa&num=0&edition=prelim) et seq.].
+**(c) Salinity control measures** The Secretary of Agriculture shall carry out salinity control measures (including watershed enhancement and cost-share measures with livestock and crop producers) in the Colorado River Basin as part of the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3839aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3839aa&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
@@ -284,12 +284,14 @@ Public Law 84–485, referred to in subsec. (a)(5), is act Apr. 11, 1956, ch. 20
 
 The Reclamation Act of 1902, referred to in subsec. (a)(5), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§ 3839aa et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–334 inserted “subchapter A of” before “chapter 4”.
+
 2008—Subsec. (a). Pub. L. 110–246, § 2806(b)(1)(A), which directed substitution of “programs” for “program” in introductory provisions, was executed by making the substitution the first time appearing to reflect the probable intent of Congress.
 
 Subsec. (a)(7). Pub. L. 110–246, § 2806(a), added par. (7).

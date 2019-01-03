@@ -35,7 +35,7 @@ source: >-
   (B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
 
   (C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
-  The term “destructive device” shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10; or any other device which the Attorney General finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
+  The term “destructive device” shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 7684(2), 7685, or 7686 of title 10; or any other device which the Attorney General finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
 
 (5) The term “shotgun” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
 
@@ -188,6 +188,8 @@ source: >-
 For definition of Canal Zone, referred to in subsec. (a)(2), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2018—Subsec. (a)(4). Pub. L. 115–232 substituted “section 7684(2), 7685, or 7686 of title 10” for “section 4684(2), 4685, or 4686 of title 10” in concluding provisions.
+
 2006—Subsec. (a)(33)(A)(i). Pub. L. 109–162, which directed the general amendment of “[section 921(33)(A)(i) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/33/A/i&num=0&edition=prelim)”, was executed to par. (33)(A)(i) of subsec. (a), to reflect the probable intent of Congress. Prior to amendment, cl. (i) read as follows: “is a misdemeanor under Federal or State law; and”.
 
 2002—Subsec. (a)(4). Pub. L. 107–296, § 1112(f)(2), substituted “Attorney General” for “Secretary of the Treasury” in concluding provisions.
@@ -265,6 +267,9 @@ Subsec. (a)(23), (24). Pub. L. 99–308, § 101(6), added pars. (23) and (24).
 1968—Subsec. (a). Pub. L. 90–618 inserted definitions of “collector”, “licensed collector”, and “crime punishable by imprisonment for a term exceeding one year”, amended definitions of “person”, “whoever”, “interstate or foreign commerce”, “State”, “firearm”, “destructive device”, “dealer”, “indictment”, “fugitive from justice”, “antique firearm”, “ammunition”, and “published ordinance”, and reenacted without change definitions of “shotgun”, “short-barreled shotgun”, “rifle”, “short-barreled rifle”, “importer”, “licensed importer”, “manufacturer”, “licensed manufacturer”, “licensed dealer”, “pawnbroker”, and “Secretary” or “Secretary of the Treasury”.
 
 Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining “firearm”, “destructive device”, and “crime punishable by imprisonment for a term exceeding one year”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
@@ -1173,6 +1178,9 @@ Amendment by section 102(1)–(8) of Pub. L. 99–308 effective 180 days after M
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsec. (l) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
+#### Effective Date
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
+
 #### Purposes
 Pub. L. 109–92, § 5(b), Oct. 26, 2005, 119 Stat. 2099, provided that: “The purposes of this section [amending this section and [section 924 of this title](./chapter-044-firearms.md#section-924) and enacting provisions set out as notes under this section and [section 921 of this title](./chapter-044-firearms.md#section-921)] are— “(1) to promote the safe storage and use of handguns by consumers; “(2) to prevent unauthorized persons from gaining access to or use of a handgun, including children who may not be in possession of a handgun; and “(3) to avoid hindering industry from supplying firearms to law abiding citizens for all lawful purposes, including hunting, self-defense, collecting, and competitive or recreational shooting.”
 
@@ -1493,6 +1501,9 @@ Amendment by section 103(1)–(6)(A), (7), (8) of Pub. L. 99–308 effective 180
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L. 90–618, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
+#### Effective Date
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
+
 #### Statutory Construction; Evidence
 Pub. L. 105–277, div. A, § 101(b) [title I, § 119(d)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that: “(1) Statutory construction.—Nothing in the amendments made by this section [amending this section and [section 921 of this title](./chapter-044-firearms.md#section-921)] shall be construed—“(A) as creating a cause of action against any firearms dealer or any other person for any civil liability; or “(B) as establishing any standard of care. “(2) Evidence.—Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with the amendments made by this section shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity.”
 
@@ -1595,7 +1606,7 @@ Pub. L. 108–447, div. B, title I, Dec. 8, 2004, 118 Stat. 2859.
 
     (ii) is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, the person shall be sentenced to a term of imprisonment of not less than 30 years.
 
-  (C) In the case of a second or subsequent conviction under this subsection, the person shall—
+  (C) In the case of a violation of this subsection that occurs after a prior conviction under this subsection has become final, the person shall—
 
     (i) be sentenced to a term of imprisonment of not less than 25 years; and
 
@@ -1751,6 +1762,8 @@ The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2),
 For information regarding constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+2018—Subsec. (c)(1)(C). Pub. L. 115–391 substituted “violation of this subsection that occurs after a prior conviction under this subsection has become final” for “second or subsequent conviction under this subsection” in introductory provisions.
+
 2006—Subsecs. (c)(2), (e)(2)(A)(i). Pub. L. 109–304, § 17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
 Subsec. (g)(2). Pub. L. 109–304, § 17(d)(3), substituted “801 et seq.” for “802 et seq.” and “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
@@ -1925,6 +1938,9 @@ Subsec. (b). Pub. L. 90–618 inserted “or any ammunition” after “a firear
 
 Subsecs. (c), (d). Pub. L. 90–618 added subsec. (c), redesignated former subsec. (c) as (d), and as so redesignated, substituted “section 5845(a) of that Code” for “section 5848(1) of said Code”.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–391, title IV, § 403(b), Dec. 21, 2018, 132 Stat. 5222, provided that: “This section [amending this section], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act [Dec. 21, 2018], if a sentence for the offense has not been imposed as of such date of enactment.”
+
 #### Effective Date of 2005 Amendment
 Amendment by section 5(c)(2) of Pub. L. 109–92 effective 180 days after Oct. 26, 2005, see section 5(d) of Pub. L. 109–92, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
 
@@ -1957,6 +1973,9 @@ Amendment by section 223(a) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L. 90–618, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
+#### Effective Date
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
+
 
 <a id="section-925"></a>
 ## § 925. Exceptions: Relief from disabilities
@@ -1978,7 +1997,7 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 
 **(d)** The Attorney General shall authorize a firearm or ammunition to be imported or brought into the United States or any possession thereof if the firearm or ammunition—
 
-(1) is being imported or brought in for scientific or research purposes, or is for use in connection with competition or training pursuant to chapter 401 of title 10;
+(1) is being imported or brought in for scientific or research purposes, or is for use in connection with competition or training pursuant to chapter 751 of title 10;
 
 (2) is an unserviceable firearm, other than a machinegun as defined in section 5845(b) of the Internal Revenue Code of 1986 (not readily restorable to firing condition), imported or brought in as a curio or museum piece;
 
@@ -2008,6 +2027,8 @@ Section 5845(b) of the Internal Revenue Code of 1986, referred to in subsec. (d)
 Section 5845(a) of the Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified to [section 5845(a) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5845/a&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–232 substituted “chapter 751 of title 10” for “chapter 401 of title 10”.
+
 2002—Subsecs. (a), (c) to (f). Pub. L. 107–296, which directed amendment of this section by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (a)(4) and (c) to (f), by not making the substitution for “Secretary of the Army” in subsec. (a)(2), and by substituting “Attorney General” for “Secretary of the Treasury” in subsec. (a)(3), to reflect the probable intent of Congress.
 
 1996—Subsec. (a)(1). Pub. L. 104–208 inserted “sections 922(d)(9) and 922(g)(9) and” after “except for”.
@@ -2044,11 +2065,14 @@ Subsec. (c). Pub. L. 90–618 substituted “imposed by Federal laws with respec
 
 Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammunition to the authority of the Secretary in text preceding par. (1), substituted “section 5845(b)” for “section 5848(2)” in par. (2), substituted “section 5845(a)” for “section 5848(1)” and “excluding surplus military firearms” for “and in the case of surplus military firearms is a rifle or shotgun” in par. (3), inserted “or ammunition” after “the firearm” in par. (4), and authorized the Secretary to permit the importation of ammunition for examination and testing in text following par. (4).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1996 Amendment
-Amendment by Pub. L. 104–106 effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of [former] Title 36, Patriotic Societies and Observances, or Oct. 1, 1996, see section 1624(c) of Pub. L. 104–106, set out as a note under [section 4316 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4316&num=0&edition=prelim), Armed Forces.
+Pub. L. 104–106, div. A, title XVI, § 1624(c), Feb. 10, 1996, 110 Stat. 522, provided that: “The amendments made by this section [amending this section and sections 4313 and 4316 of Title 10, Armed Forces, and repealing sections 4307, 4308, 4310, and 4311 of Title 10] shall take effect on the earlier of— “(1) the date on which the Secretary of the Army submits a certification in accordance with section 1623 [former [36 U.S.C. 5523](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section5523&num=0&edition=prelim)]; or “(2) October 1, 1996.”
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 Amendment by section 2(c) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective 35 years after such effective date, see section 2(f) of Pub. L. 100–649, as amended, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
@@ -2061,6 +2085,9 @@ Amendment by Pub. L. 98–573 effective 15th day after Oct. 30, 1984, see sectio
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsecs. (a)(1) and (d) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
+
+#### Effective Date
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
 
 <a id="section-925a"></a>
@@ -2118,6 +2145,9 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L. 90–618, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
+
+#### Effective Date
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
 
 <a id="section-926a"></a>
@@ -2322,6 +2352,9 @@ No provision of this chapter shall be construed as indicating an intent on the p
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L. 90–618, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
+#### Effective Date
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
+
 
 <a id="section-928"></a>
 ## § 928. Separability
@@ -2335,6 +2368,9 @@ If any provision of this chapter or the application thereof to any person or cir
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L. 90–618, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
+
+#### Effective Date
+Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
 
 <a id="section-929"></a>

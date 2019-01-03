@@ -24,7 +24,7 @@ source: >-
 
     (i) one of whom is a representative of industry; and
 
-    (ii) one of whom is particularly knowledgeable about cost accounting problems and systems.
+    (ii) one of whom is particularly knowledgeable about cost accounting problems and systems and, if possible, is a representative of a public accounting firm.
 
 (2) **Term of office.—**
 
@@ -34,64 +34,7 @@ source: >-
 
 (3) **Vacancy.—** — A vacancy on the Board shall be filled in the same manner in which the original appointment was made. A member appointed to fill a vacancy serves for the remainder of the term for which that member’s predecessor was appointed.
 
-**(c) Senior Staff.—** The Administrator, after consultation with the Board, may—
-
-(1) appoint an executive secretary and 2 additional staff members without regard to the provisions of title 5 governing appointments in the competitive service; and
-
-(2) pay those employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that those employees may not receive pay in excess of the maximum rate of basic pay payable for level IV of the Executive Schedule.
-
-**(d) Other Staff.—** The Administrator may appoint, fix the compensation of, and remove additional employees of the Board under the applicable provisions of title 5.
-
-**(e) Detailed and Temporary Personnel.—** For service on advisory committees and task forces to assist the Board in carrying out its functions and responsibilities—
-
-(1) the Board, with the consent of the head of a Federal agency, may use, without reimbursement, personnel of that agency; and
-
-(2) the Administrator, after consultation with the Board, may procure temporary and intermittent services of personnel under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim).
-
-**(f) Compensation.—**
-
-(1) **Officers and employees of the government.—** — Members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (e)(1), shall not receive additional compensation for services but shall continue to be compensated by the employing department or agency of the officer or employee.
-
-(2) **Appointees from private sector.—** — Each member of the Board appointed from the private sector shall receive compensation at a rate not to exceed the daily equivalent of the rate for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board.
-
-(3) **Temporary and intermittent personnel.—** — An individual hired under subsection (e)(2) may receive compensation at a rate fixed by the Administrator, but not to exceed the daily equivalent of the rate for level V of the Executive Schedule for each day (including travel time) in which the individual is properly engaged in the actual performance of duties under this chapter.
-
-(4) **Travel expenses.—** — While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis under this chapter shall be allowed travel expenses in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 114–328, div. A, title VIII, § 820(a)(1), (3), (d), Dec. 23, 2016, 130 Stat. 2273, 2274, 2276, made amendments to this section, effective Oct. 1, 2018. After Oct. 1, 2018, this section will read as follows:
-
-§ 1501. Cost Accounting Standards Board
-
-(a) Organization.—The Cost Accounting Standards Board is an independent board in the Office of Federal Procurement Policy.
-
-(b) Membership.—
-
-(1) Number of members, chairman, and appointment.—The Board consists of 5 members. One member is the Administrator, who serves as Chairman. The other 4 members, all of whom shall have experience in Federal Government contract cost accounting, are as follows:
-
-(A) 2 representatives of the Federal Government—
-
-(i) one of whom is a representative of the Department of Defense appointed by the Secretary of Defense; and
-
-(ii) one of whom is an officer or employee of the General Services Administration appointed by the Administrator of General Services.
-
-(B) 2 individuals from the private sector, each of whom is appointed by the Administrator, and—
-
-(i) one of whom is a representative of industry; and
-
-(ii) one of whom is particularly knowledgeable about cost accounting problems and systems and, if possible, is a representative of a public accounting firm.
-
-(2) Term of office.—
-
-(A) Length of term.—The term of office of each member, other than the Administrator, is 4 years. The terms are staggered, with the terms of 2 members expiring in the same year, the term of another member expiring the next year, and the term of the last member expiring the year after that.
-
-(B) Individual required to remain with appointing agency.—A member appointed under paragraph (1)(A) may not continue to serve after ceasing to be an officer or employee of the agency from which that member was appointed.
-
-(3) Vacancy.—A vacancy on the Board shall be filled in the same manner in which the original appointment was made. A member appointed to fill a vacancy serves for the remainder of the term for which that member’s predecessor was appointed.
-
-(c) Duties.—The Board shall—
+**(c) Duties.—** The Board shall—
 
 (1) ensure that the cost accounting standards used by Federal contractors rely, to the maximum extent practicable, on commercial standards and accounting practices and systems;
 
@@ -99,43 +42,43 @@ Pub. L. 114–328, div. A, title VIII, § 820(a)(1), (3), (d), Dec. 23, 2016, 13
 
 (3) annually review disputes involving such standards brought to the boards established in [section 7105 of this title](./chapter-071-contract-disputes.md#section-7105) or Federal courts, and consider whether greater clarity in such standards could avoid such disputes.
 
-(d) Meetings.—The Board shall meet not less than once each quarter and shall publish in the Federal Register notice of each meeting and its agenda before such meeting is held.
+**(d) Meetings.—** The Board shall meet not less than once each quarter and shall publish in the Federal Register notice of each meeting and its agenda before such meeting is held.
 
-(e) Report.—The Board shall annually submit a report to the congressional defense committees, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate describing the actions taken during the prior year—
+**(e) Report.—** The Board shall annually submit a report to the congressional defense committees, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate describing the actions taken during the prior year—
 
 (1) to conform the cost accounting standards established under [section 1502 of this title](./chapter-015-chapter-15.md#section-1502) with Generally Accepted Accounting Principles; and
 
 (2) to minimize the burden on contractors while protecting the interests of the Federal Government.
 
-(f) Senior Staff.—The Administrator, after consultation with the Board—
+**(f) Senior Staff.—** The Administrator, after consultation with the Board—
 
 (1) without regard to the provisions of title 5 governing appointments in the competitive service—
 
-(A) shall appoint an executive secretary; and
+  (A) shall appoint an executive secretary; and
 
-(B) may appoint, or detail pursuant to [section 3341 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3341&num=0&edition=prelim), two additional staff members; and
+  (B) may appoint, or detail pursuant to [section 3341 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3341&num=0&edition=prelim), two additional staff members; and
 
 (2) may pay those employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that those employees may not receive pay in excess of the maximum rate of basic pay payable for level IV of the Executive Schedule.
 
-(g) Other Staff.—The Administrator may appoint, fix the compensation of, and remove additional employees of the Board under the applicable provisions of title 5.
+**(g) Other Staff.—** The Administrator may appoint, fix the compensation of, and remove additional employees of the Board under the applicable provisions of title 5.
 
-(h) Detailed and Temporary Personnel.—For service on advisory committees and task forces to assist the Board in carrying out its functions and responsibilities—
+**(h) Detailed and Temporary Personnel.—** For service on advisory committees and task forces to assist the Board in carrying out its functions and responsibilities—
 
 (1) the Board, with the consent of the head of a Federal agency, may use, without reimbursement, personnel of that agency; and
 
 (2) the Administrator, after consultation with the Board, may procure temporary and intermittent services of personnel under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim).
 
-(i) Compensation.—
+**(i) Compensation.—**
 
-(1) Officers and employees of the government.—Members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (h)(1), shall not receive additional compensation for services but shall continue to be compensated by the employing department or agency of the officer or employee.
+(1) **Officers and employees of the government.—** — Members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (h)(1), shall not receive additional compensation for services but shall continue to be compensated by the employing department or agency of the officer or employee.
 
-(2) Appointees from private sector.—Each member of the Board appointed from the private sector shall receive compensation at a rate not to exceed the daily equivalent of the rate for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board.
+(2) **Appointees from private sector.—** — Each member of the Board appointed from the private sector shall receive compensation at a rate not to exceed the daily equivalent of the rate for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board.
 
-(3) Temporary and intermittent personnel.—An individual hired under subsection (h)(2) may receive compensation at a rate fixed by the Administrator, but not to exceed the daily equivalent of the rate for level V of the Executive Schedule for each day (including travel time) in which the individual is properly engaged in the actual performance of duties under this chapter.
+(3) **Temporary and intermittent personnel.—** — An individual hired under subsection (h)(2) may receive compensation at a rate fixed by the Administrator, but not to exceed the daily equivalent of the rate for level V of the Executive Schedule for each day (including travel time) in which the individual is properly engaged in the actual performance of duties under this chapter.
 
-(4) Travel expenses.—While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis under this chapter shall be allowed travel expenses in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+(4) **Travel expenses.—** — While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis under this chapter shall be allowed travel expenses in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-See 2016 Amendment notes below.
+### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -161,6 +104,11 @@ In subsection (f)(3), the words “Executive Schedule” are substituted for “
 
 #### Senate Revision Amendment
 In subsec. (c)(2), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim)” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
+
+#### References in Text
+The date of enactment of this subsection, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
+
+Level IV of the Executive Schedule, referred to in subsec. (f)(2), is set out under [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
 2016—Subsec. (b)(1)(B)(ii). Pub. L. 114–328, § 820(a)(1)(A), inserted “and, if possible, is a representative of a public accounting firm” after “systems”.
@@ -217,7 +165,7 @@ Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of 
 
 (3) **Waiver by head of executive agency.—**
 
-  (A) *In general.—* — The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
+  (A) *In general.—* — The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $100,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
 
     (i) is primarily engaged in the sale of commercial items; and
 
@@ -271,8 +219,16 @@ Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(3)(A)
-Pub. L. 114–328, div. A, title VIII, § 820(a)(2), (d), Dec. 23, 2016, 130 Stat. 2274, 2276, provided that, effective Oct. 1, 2018, subsection (b)(3)(A) of this section is amended by striking “$15,000,000” and inserting “$100,000,000”. See 2016 Amendment note below.
+#### Amendment of Subsection (b)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(1), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended as follows:
+
+(1) in paragraph (1)(A), by striking “commercial items” and inserting “commercial products or commercial services”;
+
+(2) in paragraph (1)(C)(i), by striking “commercial item” and inserting “commercial product or commercial service”; and
+
+(3) in paragraph (3)(A)(i), by striking “commercial items” and inserting “commercial products or commercial services”.
+
+See 2018 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -294,7 +250,16 @@ In subsection (b)(2)(A), the word “categories” is omitted as being included 
 In subsection (b)(3)(A)(ii), the words “as in effect on or after the effective date of this paragraph” are omitted as obsolete.
 
 #### Amendments
+2018—Subsec. (b)(1)(A). Pub. L. 115–232, § 836(b)(1)(A), substituted “commercial products or commercial services” for “commercial items”.
+
+Subsec. (b)(1)(C)(i). Pub. L. 115–232, § 836(b)(1)(B), substituted “commercial product or commercial service” for “commercial item”.
+
+Subsec. (b)(3)(A)(i). Pub. L. 115–232, § 836(b)(1)(C), substituted “commercial products or commercial services” for “commercial items”.
+
 2016—Subsec. (b)(3)(A). Pub. L. 114–328 substituted “$100,000,000” for “$15,000,000” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Oct. 1, 2018, see section 820(d) of Pub. L. 114–328, set out as an Effective Date note under [section 190 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section190&num=0&edition=prelim), Armed Forces.

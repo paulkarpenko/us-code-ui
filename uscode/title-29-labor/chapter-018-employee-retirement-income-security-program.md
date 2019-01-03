@@ -193,6 +193,51 @@ Jimmy Carter.
 #### Executive Order No. 12262
 Ex. Ord. No. 12262, Jan. 7, 1981, 46 F.R. 2313, which established the Interagency Employee Benefit Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 9, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
+#### Ex. Ord. No. 13847. Strengthening Retirement Security in America
+Ex. Ord. No. 13847, Aug. 31, 2018, 83 F.R. 45321, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It shall be the policy of the Federal Government to expand access to workplace retirement plans for American workers. According to the Bureau of Labor Statistics, 23 percent of all private-sector, full-time workers lack access to a workplace retirement plan. That percentage increases to 34 percent when part-time workers are taken into account. Small businesses are less likely to offer retirement benefits. In 2017, approximately 89 percent of workers at private-sector establishments with 500 or more workers were offered a retirement plan compared to only 53 percent for workers at private-sector establishments with fewer than 100 workers. Enhancing workplace retirement plan coverage is critical to ensuring that American workers will be financially prepared to retire.
+
+Regulatory burdens and complexity can be costly and discourage employers, especially small businesses, from offering workplace retirement plans to their employees. Businesses are sensitive to the overall expense of setting up such plans. A recent survey by the Pew Charitable Trusts found that 71 percent of small- and medium-sized businesses that do not offer retirement plans were deterred from doing so by high costs; 37 percent cited high costs as their main reason for not offering such a plan. Federal agencies should revise or eliminate rules and regulations that impose unnecessary costs and burdens on businesses, especially small businesses, and that hinder formation of workplace retirement plans.
+
+Expanding access to multiple employer plans (MEPs), under which employees of different private-sector employers may participate in a single retirement plan, is an efficient way to reduce administrative costs of retirement plan establishment and maintenance and would encourage more plan formation and broader availability of workplace retirement plans, especially among small employers.
+
+Similarly, reducing the number and complexity of employee benefit plan notices and disclosures currently required would ease regulatory burdens. The costs and potential liabilities for employers and plan fiduciaries of complying with existing disclosure requirements may discourage plan formation or maintenance. Improving the effectiveness of required notices and disclosures and reducing their cost to employers promote retirement security by expanding access to workplace retirement plans.
+
+Outdated distribution mandates may also reduce plan effectiveness by forcing retirees to make excessively large withdrawals from their accounts—potentially leaving them with insufficient savings in their later years.
+
+In light of the foregoing it shall, therefore, be the policy of the Federal Government to address these problems and promote retirement security for America’s workers.
+
+Sec. 2. Improving Retirement Security. (a) Expanding access to Multiple Employer Plans and Other Retirement Plan Options.
+
+(i) The Secretary of Labor shall examine policies that would:
+
+(1) clarify and expand the circumstances under which United States employers, especially small and mid-sized businesses, may sponsor or adopt a MEP as a workplace retirement option for their employees, subject to appropriate safeguards; and
+
+(2) increase retirement security for part-time workers, sole proprietors, working owners, and other entrepreneurial workers with non-traditional employer-employee relationships by expanding their access to workplace retirement plans, including MEPs.
+
+(ii) Within 180 days of the date of this order [Aug. 31, 2018], the Secretary of Labor shall consider, consistent with applicable law and the policy set forth in section 1 of this order, whether to issue a notice of proposed rulemaking, other guidance, or both, that would clarify when a group or association of employers or other appropriate business or organization could be an “employer” within the meaning of section 3(5) of the Employee Retirement Income Security Act of 1974 (ERISA), [29 U.S.C. 1002(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/5&num=0&edition=prelim).
+
+(b) Qualification Requirements for Multiple Employer Plans. Within 180 days of the date of this order, the Secretary of the Treasury shall consider proposing amendments to regulations or other guidance, consistent with applicable law and the policy set forth in section 1 of this order, regarding the circumstances under which a MEP may satisfy the tax qualification requirements set forth in the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.], including the consequences if one or more employers that sponsored or adopted the plan fails to take one or more actions necessary to meet those requirements. The Secretary of the Treasury shall consult with the Secretary of Labor in advance of issuing any such proposed guidance, and the Secretary of Labor shall take steps to facilitate the implementation of any guidance, as appropriate and consistent with applicable law.
+
+(c) Improving the Effectiveness of and Reducing the Cost of Furnishing Required Notices and Disclosures. Within 1 year of the date of this order, the Secretary of Labor shall, in consultation with the Secretary of the Treasury, complete a review of actions that could be taken through regulation or guidance, or both, to make retirement plan disclosures required under ERISA [Pub. L. 93–406, [29 U.S.C. 1001](./chapter-018-employee-retirement-income-security-program.md#section-1001) et seq.] and the Internal Revenue Code of 1986 more understandable and useful for participants and beneficiaries, while also reducing the costs and burdens they impose on employers and other plan fiduciaries responsible for their production and distribution. This review shall include an exploration of the potential for broader use of electronic delivery as a way to improve the effectiveness of disclosures and to reduce their associated costs and burdens. If the Secretary of Labor finds that action should be taken, the Secretary shall, in consultation with the Secretary of the Treasury, consider proposing appropriate regulations or guidance, consistent with applicable law and the policy set forth in section 1 of this order.
+
+(d) Updating Life Expectancy and Distribution Period Tables for Purposes of Required Minimum Distribution Rules. Within 180 days of the date of this order, the Secretary of the Treasury shall, consistent with applicable law and the policy set forth in section 1 of this order, examine the life expectancy and distribution period tables in the regulations on required minimum distributions from retirement plans (67 Fed. Reg. 18988) and determine whether they should be updated to reflect current mortality data and whether such updates should be made annually or on another periodic basis.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-1001a"></a>
 ## § 1001a. Additional Congressional findings and declaration of policy
@@ -2873,7 +2918,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
       (I) at the rate of 120 percent of the Federal mid-term rate (as in effect under [section 1274 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1274&num=0&edition=prelim) for the 1st month of a plan year for the period beginning with the 1st plan year to which subsection (a)(2) applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
 
       (II) at the interest rate which would be used under the plan under [section 1055(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1055/g/3&num=0&edition=prelim) (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
-    For purposes of this subparagraph, the term “mandatory contributions” means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plans, or as a condition of obtaining benefits under the plan attributable to employer contributions.
+    For purposes of this subparagraph, the term “mandatory contributions” means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions.
 
   (D) The Secretary of the Treasury is authorized to adjust by regulation the conversion factor described in subparagraph (B) from time to time as he may deem necessary. No such adjustment shall be effective for a plan year beginning before the expiration of 1 year after such adjustment is determined and published.
 
@@ -5850,7 +5895,7 @@ For modification of transition rule to pension funding requirements in the case 
 
     (iv) *Mortality tables*
 
-      (I) *Commissioners’ standard table* — In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners’ standard table (described in [section 807(d)(5)(A) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section807/d/5/A&num=0&edition=prelim)) used to determine reserves for group annuity contracts issued on January 1, 1993.
+      (I) *Commissioners’ standard table* — In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners’ standard table (described in [section 807(d)(5)(A) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section807/d/5/A&num=0&edition=prelim)) 1 used to determine reserves for group annuity contracts issued on January 1, 1993.
 
       (II) *Secretarial authority* — The Secretary of the Treasury may by regulation prescribe for plan years beginning after December 31, 1999, mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, such Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
 
@@ -5943,6 +5988,8 @@ For modification of transition rule to pension funding requirements in the case 
 [Section 1423(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1423/a&num=0&edition=prelim), referred to in subsec. (b)(7)(B), was repealed by Pub. L. 113–235, div. O, title I, § 108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
 
 The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+[Section 807(d)(5) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section807/d/5&num=0&edition=prelim), referred to in subsec. (c)(6)(D)(iv)(I), was repealed by Pub. L. 115–97, title I, § 13517(a)(2)(A), Dec. 22, 2017, 131 Stat. 2144.
 
 This chapter, referred to in subsec. (d)(2)(B)(i), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
@@ -6478,7 +6525,7 @@ For applicability of this section to a multiemployer plan that is a party to an 
 
       (III) third, be applied to benefits under a plan that are directly attributable to a participant’s service with any employer which has, prior to December 16, 2014—
 
-        (aa) withdrawn from the plan in a complete withdrawal under [section 1383 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1383) and has paid the full amount of the employer’s withdrawal liability under section 1381(b)(1) of title or an agreement with the plan, and
+        (aa) withdrawn from the plan in a complete withdrawal under [section 1383 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1383) and has paid the full amount of the employer’s withdrawal liability under [section 1381(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1381/b/1&num=0&edition=prelim) or an agreement with the plan, and
 
         (bb) pursuant to a collective bargaining agreement, assumed liability for providing benefits to participants and beneficiaries of the plan under a separate, single-employer plan sponsored by the employer, in an amount equal to any amount of benefits for such participants and beneficiaries reduced as a result of the financial status of the plan.
 
@@ -17016,7 +17063,7 @@ Part effective Sept. 26, 1980, except as specifically provided, see [section 146
 
 (1) Except as provided in paragraphs (2) and (3), a multiemployer plan which transfers liabilities to a single-employer plan shall be liable to the corporation if the single-employer plan terminates within 60 months after the effective date of the transfer. The amount of liability shall be the lesser of—
 
-  (A) the amount of the plan asset insufficiency of the terminated single-employer plan, less 30 percent of the net worth of the employer who maintained the single-employer plan, determined in accordance with section 1362 or 1364 this title, or
+  (A) the amount of the plan asset insufficiency of the terminated single-employer plan, less 30 percent of the net worth of the employer who maintained the single-employer plan, determined in accordance with section 1362 or 1364 of this title, or
 
   (B) the value, on the effective date of the transfer, of the unfunded benefits transferred to the single-employer plan which are guaranteed under [section 1322 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1322).
 

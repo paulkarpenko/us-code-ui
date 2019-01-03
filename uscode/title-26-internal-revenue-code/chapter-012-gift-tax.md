@@ -226,7 +226,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
   (A) $10,000, multiplied by
 
-  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 
 **(c) Transfer for the benefit of minor** No part of a gift to an individual who has not attained the age of 21 years on the date of such transfer shall be considered a gift of a future interest in property for purposes of subsection (b) if the property and the income therefrom—
@@ -273,6 +273,8 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
+2017—Subsec. (b)(2)(B). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
 1997—Subsec. (b). Pub. L. 105–34 designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2).
 
 1989—Subsecs. (f), (g). Pub. L. 101–239 redesignated subsec. (f), relating to treatment of certain loans of artworks, as (g).
@@ -298,6 +300,9 @@ Subsec. (e). Pub. L. 97–34, § 441(b), added subsec. (e).
 1970—Subsec. (a). Pub. L. 91–614, § 102(a)(3)(A), divided definition of “taxable gifts” into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
 
 Subsec. (b). Pub. L. 91–614, § 102(a)(3)(B), substituted provisions with regard to computing taxable gifts for the calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under [section 2001 of this title](./chapter-011-estate-tax.md#section-2001).
@@ -801,7 +806,7 @@ Rules similar to the rules of section 501(j) shall apply for purposes of paragra
 
 **(c) Disallowance of deductions in certain cases**
 
-(1) No deduction shall be allowed under this section for a gift to of 11 So in original. Probably should be “or”. for the use of an organization or trust described in section 508(d) or 4948(c)(4) subject to the conditions specified in such sections.
+(1) No deduction shall be allowed under this section for a gift to or for the use of an organization or trust described in section 508(d) or 4948(c)(4) subject to the conditions specified in such sections.
 
 (2) Where a donor transfers an interest in property (other than an interest described in section 170(f)(3)(B)) to a person, or for a use, described in subsection (a) or (b) and an interest in the same property is retained by the donor, or is transferred or has been transferred (for less than an adequate and full consideration in money or money’s worth) from the donor to a person, or for a use, not described in subsection (a) or (b), no deduction shall be allowed under this section for the interest which is, or has been transferred to the person, or for the use, described in subsection (a) or (b), unless—
 
@@ -875,6 +880,8 @@ Rules similar to the rules of section 501(j) shall apply for purposes of paragra
 Sections 1218(c) and 1234(c) of Pub. L. 109–280, which directed the amendment of section 2522 without specifying the act to be amended, were executed to this section, which is section 2522 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–141 substituted “gift to or for” for “gift to of for”.
+
 2007—Subsec. (e)(1)(A). Pub. L. 110–172, § 11(a)(16)(A), in introductory provisions, substituted “all interests in the property are” for “all interest in the property is”.
 
 Subsec. (e)(2). Pub. L. 110–172, § 3(d)(2)(A), (B), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
@@ -1051,9 +1058,9 @@ This subsection shall apply only if, by such transfer, such power in the donee s
 
 **(g) Special rule for charitable remainder trusts**
 
-(1) **In general** — If, after the transfer, the donee spouse is the only noncharitable beneficiary (other than the donor) of a qualified charitable remainder trust, subsection (b) shall not apply to the interest in such trust which is transferred to the donee spouse.
+(1) **In general** — If, after the transfer, the donee spouse is the only beneficiary who is not a charitable beneficiary (other than the donor) of a qualified charitable remainder trust, subsection (b) shall not apply to the interest in such trust which is transferred to the donee spouse.
 
-(2) **Definitions** — For purposes of paragraph (1), the term “noncharitable beneficiary” and “qualified charitable remainder trust” have the meanings given to such terms by section 2056(b)(8)(B).11 See References in Text note below.
+(2) **Definitions** — For purposes of paragraph (1), the term “charitable beneficiary” and “qualified charitable remainder trust” have the meanings given to such terms by section 2056(b)(8)(B).
 
 **(h) Denial of double deduction** Nothing in this section or any other provision of this chapter shall allow the value of any interest in property to be deducted under this chapter more than once with respect to the same donor.
 
@@ -1072,11 +1079,13 @@ This subsection shall not apply to any transfer resulting from the acquisition o
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
-[Section 2056 of this title](./chapter-011-estate-tax.md#section-2056), referred to in subsec. (g)(2), was subsequently amended, and section 2056(b)(8)(B) no longer defines the term “noncharitable beneficiary”.
-
 Sections 2515 and 2515A, referred to in subsec. (i)(3), were repealed by Pub. L. 97–34, title IV, § 403(c)(3)(B), Aug. 13, 1981, 95 Stat. 302.
 
 #### Amendments
+2018—Subsec. (g)(1). Pub. L. 115–141, § 401(a)(205), substituted “beneficiary who is not a charitable beneficiary” for “noncharitable beneficiary”.
+
+Subsec. (g)(2). Pub. L. 115–141, § 401(a)(206), substituted “term ‘charitable beneficiary’ ” for “term ‘noncharitable beneficiary’ ”.
+
 1997—Subsec. (g)(1). Pub. L. 105–34 substituted “qualified charitable remainder trust” for “qualified remainder trust”.
 
 1992—Subsec. (e). Pub. L. 102–486, § 1941(b)(1), in closing provisions, inserted at end “For purposes of this subsection, the term ‘specific portion’ only includes a portion determined on a fractional or percentage basis.”

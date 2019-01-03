@@ -101,6 +101,15 @@ source: >-
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 8102 | 41:701. | Pub. L. 100–690, title V, § 5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, § 4104(d), title VIII, § 8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397; Pub. L. 104–106, div. D, title XLIII, §§ 4301(a)(3), 4321(i)(13), Feb. 10, 1996, 110 Stat. 656, 677. |
 
+#### Amendment of Subsection (a)(1)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(20), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (a)(1) of this section is amended by striking “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” and inserting “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)” for “commercial items (as defined in [section 103 of this title](./chapter-001-chapter-1.md#section-103))” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
 
 <a id="section-8103"></a>
 ## § 8103. Drug-free workplace requirements for Federal grant recipients

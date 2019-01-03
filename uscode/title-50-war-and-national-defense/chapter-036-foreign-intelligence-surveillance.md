@@ -177,6 +177,9 @@ Pub. L. 107–108, title III, § 314(c), Dec. 28, 2001, 115 Stat. 1402, provided
 #### Effective Date; Exception
 Pub. L. 95–511, title VII, § 701, formerly title III, § 301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, § 401, and amended by Pub. L. 103–359, title VIII, § 807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, § 601, and amended Pub. L. 105–272, title VI, §§ 601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, § 701, Pub. L. 108–458, title VI, § 6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, which provided that the provisions of this Act [enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note below] (other than titles III, IV, and V [enacting subchapters II, III, and IV, respectively, of this chapter]) and the amendments made hereby shall become effective upon the date of enactment of this Act [Oct. 25, 1978], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act [enacting this subchapter] within ninety days following the designation of the first judge pursuant to section 103 of this Act [[section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803)], was repealed by Pub. L. 110–261, title I, § 101(a)(1), July 10, 2008, 122 Stat. 2437.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–118, § 1(a), Jan. 19, 2018, 132 Stat. 3, provided that: “This Act [amending sections 1803, 1805, 1807, 1822, 1842, 1843, 1846, 1861, 1873, 1874, 1881 to 1881g, 1885, 1885a, 3234, and 3341 of this title, [section 1924 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1924&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 2000ee and 2000ee–1 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1881 and 1881a of this title and [section 2303 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2303&num=0&edition=prelim), Government Organization and Employees, and amending provisions set out as notes under this section and [section 1881 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881) and [section 2511 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2511&num=0&edition=prelim)] may be cited as the ‘FISA Amendments Reauthorization Act of 2017’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114–23, § 1(a), June 2, 2015, 129 Stat. 268, provided that: “This Act [see Tables for classification] may be cited as the ‘Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015’ or the ‘USA FREEDOM Act of 2015’.”
 
@@ -201,12 +204,14 @@ Pub. L. 106–567, title VI, § 601, Dec. 27, 2000, 114 Stat. 2850, provided tha
 Pub. L. 95–511, § 1, Oct. 25, 1978, 92 Stat. 1783, provided in part: “That this Act [enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note above] may be cited as the ‘Foreign Intelligence Surveillance Act of 1978’.”
 
 #### Severability
+Pub. L. 115–118, title II, § 206, Jan. 19, 2018, 132 Stat. 22, provided that: “If any provision of this Act [see Short Title of 2018 Amendment note set out above], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby.”
+
 Pub. L. 110–261, title IV, § 401, July 10, 2008, 122 Stat. 2473, provided that: “If any provision of this Act [see Short Title of 2008 Amendment note above], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby.”
 
 Pub. L. 106–567, title VI, § 608, Dec. 27, 2000, 114 Stat. 2856, provided that: “If any provision of this title [see Short Title of 2000 Amendment note above] (including an amendment made by this title), or the application thereof, to any person or circumstance, is held invalid, the remainder of this title (including the amendments made by this title), and the application thereof, to other persons or circumstances shall not be affected thereby.”
 
 #### Transition Procedures
-Pub. L. 110–261, title IV, § 404, July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(b), Dec. 30, 2012, 126 Stat. 1631, provided that: “(a) Transition Procedures for Protect America Act of 2007 Provisions.—“(1) Continued effect of orders, authorizations, directives.—Except as provided in paragraph (7), notwithstanding any other provision of law, any order, authorization, or directive issued or made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 552), shall continue in effect until the expiration of such order, authorization, or directive. “(2) Applicability of protect america act of 2007 to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act [see Short Title of 2008 Amendment note above], any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.)—“(A) subject to paragraph (3), section 105A of such Act [[50 U.S.C. 1805a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805a&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 552), shall continue to apply to any acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1); and “(B) sections 105B and 105C of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim), 1805c], as added by sections 2 and 3, respectively, of the Protect America Act of 2007, shall continue to apply with respect to an order, authorization, or directive referred to in paragraph (1) until the later of—“(i) the expiration of such order, authorization, or directive; or “(ii) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive. “(3) Use of information.—Information acquired from an acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1) shall be deemed to be information acquired from an electronic surveillance pursuant to title I of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.) for purposes of section 106 of such Act ([50 U.S.C. 1806](./chapter-036-foreign-intelligence-surveillance.md#section-1806)), except for purposes of subsection (j) of such section. “(4) Protection from liability.—Subsection (l) of section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)(l)], as added by section 2 of the Protect America Act of 2007, shall continue to apply with respect to any directives issued pursuant to such section 105B. “(5) Jurisdiction of foreign intelligence surveillance court.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), section 103(e) of the Foreign Intelligence Surveillance Act [of 1978] ([50 U.S.C. 1803(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/e&num=0&edition=prelim)), as amended by section 5(a) of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 556), shall continue to apply with respect to a directive issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007, until the later of—“(A) the expiration of all orders, authorizations, or directives referred to in paragraph (1); or “(B) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive. “(6) Reporting requirements.—“(A) Continued applicability.—Notwithstanding any other provision of this Act, any amendment made by this Act, the Protect America Act of 2007 (Public Law 110–55) [see Short Title of 2007 Amendment note above], or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), section 4 of the Protect America Act of 2007 [121 Stat. 555] shall continue to apply until the date that the certification described in subparagraph (B) is submitted. “(B) Certification.—The certification described in this subparagraph is a certification—“(i) made by the Attorney General; “(ii) submitted as part of a semi-annual report required by section 4 of the Protect America Act of 2007; “(iii) that states that there will be no further acquisitions carried out under section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007, after the date of such certification; and “(iv) that states that the information required to be included under such section 4 relating to any acquisition conducted under such section 105B has been included in a semi-annual report required by such section 4. “(7) Replacement of orders, authorizations, and directives.—“(A) In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1881a](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act [[50 U.S.C. 1881(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881/b/2&num=0&edition=prelim)] (as so added)) a certification prepared in accordance with subsection (g) of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization. “(B) Continuation of existing orders.—If the Attorney General and the Director of National Intelligence seek to replace an authorization made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978, as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 522), by filing a certification in accordance with subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a) of such section 105B, until the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of the Foreign Intelligence Surveillance Act of 1978 (as so added)) issues an order with respect to that certification under section 702(i)(3) of such Act (as so added) at which time the provisions of that section and of section 702(i)(4) of such Act (as so added) shall apply. “(8) Effective date.—Paragraphs (1) through (7) shall take effect as if enacted on August 5, 2007. “(b) Transition Procedures for FISA Amendments Act of 2008 Provisions.—“(1) Orders in effect on december 31, 2017.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1881](./chapter-036-foreign-intelligence-surveillance.md#section-1881) et seq.], as amended by section 101(a), shall continue in effect until the date of the expiration of such order, authorization, or directive. “(2) Applicability of title vii of fisa to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), with respect to any order, authorization, or directive referred to in paragraph (1), title VII of such Act, as amended by section 101(a), shall continue to apply until the later of—“(A) the expiration of such order, authorization, or directive; or “(B) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive. “(3) Challenge of directives; protection from liability; use of information.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.)—“(A) section 103(e) of such Act [[50 U.S.C. 1803(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/e&num=0&edition=prelim)], as amended by section 403(a)(1)(B)(ii), shall continue to apply with respect to any directive issued pursuant to section 702(h) of such Act [[50 U.S.C. 1881a(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim)], as added by section 101(a); “(B) section 702(h)(3) of such Act (as so added) shall continue to apply with respect to any directive issued pursuant to section 702(h) of such Act (as so added); “(C) section 703(e) of such Act [[50 U.S.C. 1881b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881b/e&num=0&edition=prelim)] (as so added) shall continue to apply with respect to an order or request for emergency assistance under that section; “(D) section 706 of such Act [[50 U.S.C. 1881e](./chapter-036-foreign-intelligence-surveillance.md#section-1881e)] (as so added) shall continue to apply to an acquisition conducted under section 702 or 703 of such Act (as so added); and “(E) [section 2511(2)(a)(ii)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2511/2/a/ii/A&num=0&edition=prelim), United States Code, as amended by section 101(c)(1), shall continue to apply to an order issued pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978, [[50 U.S.C. 1881c](./chapter-036-foreign-intelligence-surveillance.md#section-1881c)] as added by section 101(a). “(4) Reporting requirements.—“(A) Continued applicability.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), section 601(a) of such Act ([50 U.S.C. 1871(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1871/a&num=0&edition=prelim)), as amended by section 101(c)(2), and sections 702(l) and 707 of such Act, [[50 U.S.C. 1881a](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)(l), 1881f] as added by section 101(a), shall continue to apply until the date that the certification described in subparagraph (B) is submitted. “(B) Certification.—The certification described in this subparagraph is a certification—“(i) made by the Attorney General; “(ii) submitted to the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, and the Committees on the Judiciary of the Senate and the House of Representatives; “(iii) that states that there will be no further acquisitions carried out under title VII of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1881](./chapter-036-foreign-intelligence-surveillance.md#section-1881) et seq.], as amended by section 101(a), after the date of such certification; and “(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act [[50 U.S.C. 1871](./chapter-036-foreign-intelligence-surveillance.md#section-1871)], as amended by section 101(c), or section 702(l) or 707 of such Act, as added by section 101(a), relating to any acquisition conducted under title VII of such Act, as amended by section 101(a), has been included in a review, assessment, or report under such section 601, 702(l), or 707. “(5) Transition procedures concerning the targeting of united states persons overseas.—Any authorization in effect on the date of enactment of this Act [July 10, 2008] under section 2.5 of Executive Order 12333 [[50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) note] to intentionally target a United States person reasonably believed to be located outside the United States shall continue in effect, and shall constitute a sufficient basis for conducting such an acquisition targeting a United States person located outside the United States until the earlier of—“(A) the date that authorization expires; or “(B) the date that is 90 days after the date of the enactment of this Act [July 10, 2008].”
+Pub. L. 110–261, title IV, § 404, July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(b), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title I, § 101(b)(3), title II, § 201(b), Jan. 19, 2018, 132 Stat. 8, 19, provided that: “(a) Transition Procedures for Protect America Act of 2007 Provisions.—“(1) Continued effect of orders, authorizations, directives.—Except as provided in paragraph (7), notwithstanding any other provision of law, any order, authorization, or directive issued or made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 552), shall continue in effect until the expiration of such order, authorization, or directive. “(2) Applicability of protect america act of 2007 to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act [see Short Title of 2008 Amendment note above], any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.)—“(A) subject to paragraph (3), section 105A of such Act [[50 U.S.C. 1805a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805a&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 552), shall continue to apply to any acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1); and “(B) sections 105B and 105C of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim), 1805c], as added by sections 2 and 3, respectively, of the Protect America Act of 2007, shall continue to apply with respect to an order, authorization, or directive referred to in paragraph (1) until the later of—“(i) the expiration of such order, authorization, or directive; or “(ii) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive. “(3) Use of information.—Information acquired from an acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1) shall be deemed to be information acquired from an electronic surveillance pursuant to title I of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.) for purposes of section 106 of such Act ([50 U.S.C. 1806](./chapter-036-foreign-intelligence-surveillance.md#section-1806)), except for purposes of subsection (j) of such section. “(4) Protection from liability.—Subsection (l) of section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)(l)], as added by section 2 of the Protect America Act of 2007, shall continue to apply with respect to any directives issued pursuant to such section 105B. “(5) Jurisdiction of foreign intelligence surveillance court.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), section 103(e) of the Foreign Intelligence Surveillance Act [of 1978] ([50 U.S.C. 1803(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/e&num=0&edition=prelim)), as amended by section 5(a) of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 556), shall continue to apply with respect to a directive issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007, until the later of—“(A) the expiration of all orders, authorizations, or directives referred to in paragraph (1); or “(B) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive. “(6) Reporting requirements.—“(A) Continued applicability.—Notwithstanding any other provision of this Act, any amendment made by this Act, the Protect America Act of 2007 (Public Law 110–55) [see Short Title of 2007 Amendment note above], or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), section 4 of the Protect America Act of 2007 [121 Stat. 555] shall continue to apply until the date that the certification described in subparagraph (B) is submitted. “(B) Certification.—The certification described in this subparagraph is a certification—“(i) made by the Attorney General; “(ii) submitted as part of a semi-annual report required by section 4 of the Protect America Act of 2007; “(iii) that states that there will be no further acquisitions carried out under section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007, after the date of such certification; and “(iv) that states that the information required to be included under such section 4 relating to any acquisition conducted under such section 105B has been included in a semi-annual report required by such section 4. “(7) Replacement of orders, authorizations, and directives.—“(A) In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1805b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim)], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1881a](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act [[50 U.S.C. 1881(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881/b/2&num=0&edition=prelim)] (as so added)) a certification prepared in accordance with subsection (g) [now subsection (h)] of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization. “(B) Continuation of existing orders.—If the Attorney General and the Director of National Intelligence seek to replace an authorization made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978, as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 522), by filing a certification in accordance with subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a) of such section 105B, until the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of the Foreign Intelligence Surveillance Act of 1978 (as so added)) issues an order with respect to that certification under section 702(j)(3) of such Act (as so added) at which time the provisions of that section and of section 702(j)(4) of such Act (as so added) shall apply. “(8) Effective date.—Paragraphs (1) through (7) shall take effect as if enacted on August 5, 2007. “(b) Transition Procedures for FISA Amendments Act of 2008 Provisions.—“(1) Orders in effect on december 31, 2023.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1881](./chapter-036-foreign-intelligence-surveillance.md#section-1881) et seq.], as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017 [Pub. L. 115–118, see Short Title of 2018 Amendment note set out above], shall continue in effect until the date of the expiration of such order, authorization, or directive. “(2) Applicability of title vii of fisa to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), with respect to any order, authorization, or directive referred to in paragraph (1), title VII of such Act, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, shall continue to apply until the later of—“(A) the expiration of such order, authorization, or directive; or “(B) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive. “(3) Challenge of directives; protection from liability; use of information.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.)—“(A) section 103(e) of such Act [[50 U.S.C. 1803(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/e&num=0&edition=prelim)], as amended by section 403(a)(1)(B)(ii), shall continue to apply with respect to any directive issued pursuant to section 702(i) of such Act [[50 U.S.C. 1881a(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim)], as added by section 101(a); “(B) section 702(i)(3) of such Act (as so added) shall continue to apply with respect to any directive issued pursuant to section 702(i) of such Act (as so added); “(C) section 703(e) of such Act [[50 U.S.C. 1881b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881b/e&num=0&edition=prelim)] (as so added) shall continue to apply with respect to an order or request for emergency assistance under that section; “(D) section 706 of such Act [[50 U.S.C. 1881e](./chapter-036-foreign-intelligence-surveillance.md#section-1881e)] (as so added) shall continue to apply to an acquisition conducted under section 702 or 703 of such Act (as so added); and “(E) [section 2511(2)(a)(ii)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2511/2/a/ii/A&num=0&edition=prelim), United States Code, as amended by section 101(c)(1), shall continue to apply to an order issued pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978, [[50 U.S.C. 1881c](./chapter-036-foreign-intelligence-surveillance.md#section-1881c)] as added by section 101(a). “(4) Reporting requirements.—“(A) Continued applicability.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.), section 601(a) of such Act ([50 U.S.C. 1871(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1871/a&num=0&edition=prelim)), as amended by section 101(c)(2), and sections 702(m) and 707 of such Act, [[50 U.S.C. 1881a(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/m&num=0&edition=prelim), 1881f] as added by section 101(a) and amended by the FISA Amendments Reauthorization Act of 2017, shall continue to apply until the date that the certification described in subparagraph (B) is submitted. “(B) Certification.—The certification described in this subparagraph is a certification—“(i) made by the Attorney General; “(ii) submitted to the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, and the Committees on the Judiciary of the Senate and the House of Representatives; “(iii) that states that there will be no further acquisitions carried out under title VII of the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1881](./chapter-036-foreign-intelligence-surveillance.md#section-1881) et seq.], as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, after the date of such certification; and “(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act [[50 U.S.C. 1871](./chapter-036-foreign-intelligence-surveillance.md#section-1871)], as amended by section 101(c), or section 702(m) or 707 of such Act, as added by section 101(a) and amended by the FISA Amendments Reauthorization Act of 2017, relating to any acquisition conducted under title VII of such Act, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, has been included in a review, assessment, or report under such section 601, 702(l) [now 702(m)], or 707. “(5) Transition procedures concerning the targeting of united states persons overseas.—Any authorization in effect on the date of enactment of this Act [July 10, 2008] under section 2.5 of Executive Order 12333 [[50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) note] to intentionally target a United States person reasonably believed to be located outside the United States shall continue in effect, and shall constitute a sufficient basis for conducting such an acquisition targeting a United States person located outside the United States until the earlier of—“(A) the date that authorization expires; or “(B) the date that is 90 days after the date of the enactment of this Act [July 10, 2008].”
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -300,7 +305,7 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 (2)
 
-  (A) The court established under this subsection may, on its own initiative, or upon the request of the Government in any proceeding or a party under [section 1861(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/f&num=0&edition=prelim) or paragraph (4) or (5) of [section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim), hold a hearing or rehearing, en banc, when ordered by a majority of the judges that constitute such court upon a determination that—
+  (A) The court established under this subsection may, on its own initiative, or upon the request of the Government in any proceeding or a party under [section 1861(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/f&num=0&edition=prelim) or paragraph (4) or (5) of [section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim), hold a hearing or rehearing, en banc, when ordered by a majority of the judges that constitute such court upon a determination that—
 
     (i) en banc consideration is necessary to secure or maintain uniformity of the court’s decisions; or
 
@@ -310,7 +315,7 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
   (C) For purposes of this paragraph, the court en banc shall consist of all judges who constitute the court established under this subsection.
 
-**(b) Court of review; record, transmittal to Supreme Court** The Chief Justice shall publicly designate three judges, one of whom shall be publicly designated as the presiding judge, from the United States district courts or courts of appeals who together shall comprise a court of review which shall have jurisdiction to review the denial of any application made under this chapter. If such court determines that the application was properly denied, the court shall immediately provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
+**(b) Court of review; record, transmittal to Supreme Court** The Chief Justice shall publicly designate three judges, one of whom shall be publicly designated as the presiding judge, from the United States district courts or courts of appeals who together shall comprise a court of review which shall have jurisdiction to review the denial of any application made under this chapter. If such court determines that the application was properly denied, the court shall provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
 
 **(c) Expeditious conduct of proceedings; security measures for maintenance of records** Proceedings under this chapter shall be conducted as expeditiously as possible. The record of proceedings under this chapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice in consultation with the Attorney General and the Director of National Intelligence.
 
@@ -318,9 +323,9 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 **(e) Jurisdiction and procedures for review of petitions**
 
-(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) or 1881a(h)(4) of this title.
+(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) or 1881a(i)(4) of this title.
 
-(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) or 1881a(h)(4) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
+(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) or 1881a(i)(4) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
 
 **(f) Stay of order**
 
@@ -350,7 +355,7 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 (3) The transmissions required by paragraph (2) shall be submitted in unclassified form, but may include a classified annex.
 
-**(h) Compliance with orders, rules, and procedures** Nothing in this chapter shall be construed to reduce or contravene the inherent authority of the court established under subsection (a) to determine or enforce compliance with an order or a rule of such court or with a procedure approved by such court.
+**(h) Compliance with orders, rules, and procedures** Nothing in this chapter shall be construed to reduce or contravene the inherent authority of a court established under this section to determine or enforce compliance with an order or a rule of such court or with a procedure approved by such court.
 
 **(i) Amicus curiae**
 
@@ -400,6 +405,8 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 (10) **Receipt of information** — Nothing in this subsection shall limit the ability of a court established under subsection (a) or (b) to request or receive information or materials from, or otherwise communicate with, the Government or amicus curiae appointed under paragraph (2) on an ex parte basis, nor limit any special or heightened obligation in any ex parte communication or proceeding.
 
+(11) **Compensation** — Notwithstanding any other provision of law, a court established under subsection (a) or (b) may compensate an amicus curiae appointed under paragraph (2) for assistance provided under such paragraph as the court considers appropriate and at such rate as the court considers appropriate.
+
 **(j) Review of FISA court decisions** Following issuance of an order under this chapter, a court established under subsection (a) shall certify for review to the court established under subsection (b) any question of law that may affect resolution of the matter in controversy that the court determines warrants such review because of a need for uniformity or because consideration by the court established under subsection (b) would serve the interests of justice. Upon certification of a question of law under this subsection, the court established under subsection (b) may give binding instructions or require the entire record to be sent up for decision of the entire matter in controversy.
 
 **(k) Review of FISA court of review decisions**
@@ -414,6 +421,18 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 This chapter, referred to in subsecs. (a), (b), (c), (f), (g)(1), (h), (i)(6)(B), and (j), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(2)(A). Pub. L. 115–118, § 101(b)(2)(A), substituted “section 1881a(i)” for “section 1881a(h)”.
+
+Subsec. (b). Pub. L. 115–118, § 205(b)(1)(A), struck out “immediately” before “provide for the record”.
+
+Pub. L. 115–118, § 205(a)(1), which directed substitution of “designated as the” for “designate as the”, could not be executed because the words “designate as the” do not appear.
+
+Subsec. (e)(1), (2). Pub. L. 115–118, § 101(b)(2)(A), which directed substitution “section 1881a(i)” for “section 1881a(h)”, was executed by substituting “1881a(i)(4)” for “1881a(h)(4)” to reflect the probable intent of Congress.
+
+Subsec. (h). Pub. L. 115–118, § 205(b)(1)(B), substituted “a court established under this section” for “the court established under subsection (a)”.
+
+Subsec. (i)(11). Pub. L. 115–118, § 106, added par. (11).
+
 2015—Subsecs. (i) to (k). Pub. L. 114–23 added subsecs. (i) to (k).
 
 2010—Subsec. (c). Pub. L. 111–259, § 806(a)(2), made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
@@ -609,6 +628,8 @@ For designation of certain officials to make certifications required by subsec. 
 
 (3) At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
+(4) A denial of the application made under [section 1804 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1804) may be reviewed as provided in [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803).
+
 **(e) Emergency orders**
 
 (1) Notwithstanding any other provision of this subchapter, the Attorney General may authorize the emergency employment of electronic surveillance if the Attorney General—
@@ -729,6 +750,8 @@ This chapter, referred to in subsecs. (d), (f)(1), and (i), was in the original 
 As originally enacted, Pub. L. 107–56, § 225, amended this section by adding subsec. (h) relating to bar of legal action after subsec. (g). The section already contained a subsec. (h). Both Pub. L. 107–108, § 314(a)(2)(C), and Pub. L. 107–273, § 4005(c), made amendments retroactive to the date of enactment of Pub. L. 107–56 which had the effect of redesignating subsec. (h), relating to bar of legal action, as subsec. (i) and transferring it to appear at the end of this section. See 2001 Amendment notes, Effective Date of 2002 Amendment note, and Effective Date of 2001 Amendment note below.
 
 #### Amendments
+2018—Subsec. (d)(4). Pub. L. 115–118 added par. (4).
+
 2015—Subsec. (c)(2). Pub. L. 114–23, § 705(a), (c), amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below. Pursuant to Pub. L. 109–177, § 102(b)(1), as amended by Pub. L. 112–14, subsec. (c)(2) was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendment by Pub. L. 114–23, which delayed the reversion of subsec. (c)(2) from June 1, 2015, to Dec. 15, 2019, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.
 
 Subsecs. (f) to (j). Pub. L. 114–23, § 701(a), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
@@ -920,13 +943,21 @@ Pub. L. 106–567, title VI, § 604(b), Dec. 27, 2000, 114 Stat. 2853, provided 
 
 
 <a id="section-1807"></a>
-## § 1807. Report to Administrative Office of the United States Court and to Congress
+## § 1807. Report of electronic surveillance
+**(a) Annual report** In April of each year, the Attorney General shall transmit to the Administrative Office of the United States Courts and to the congressional intelligence committees and the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding calendar year—
 
-In April of each year, the Attorney General shall transmit to the Administrative Office of the United States Court and to Congress a report setting forth with respect to the preceding calendar year—
+(1) the total number of applications made for orders and extensions of orders approving electronic surveillance under this subchapter;
 
-**(a)** the total number of applications made for orders and extensions of orders approving electronic surveillance under this subchapter; and
+(2) the total number of such orders and extensions either granted, modified, or denied; and
 
-**(b)** the total number of such orders and extensions either granted, modified, or denied.
+(3) the total number of subjects targeted by electronic surveillance conducted under an order or emergency authorization under this subchapter, rounded to the nearest 500, including the number of such individuals who are United States persons, reported to the nearest band of 500, starting with 0–499.
+
+**(b) Form** Each report under subsection (a) shall be submitted in unclassified form, to the extent consistent with national security. Not later than 7 days after the date on which the Attorney General submits each such report, the Attorney General shall make the report publicly available, or, if the Attorney General determines that the report cannot be made publicly available consistent with national security, the Attorney General may make publicly available an unclassified summary of the report or a redacted version of the report.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–118 amended section generally. Prior to amendment, section related to report to Administrative Office of the United States Court and to Congress.
 
 
 <a id="section-1808"></a>
@@ -1153,7 +1184,7 @@ Pub. L. 103–359, title VIII, § 807(c), Oct. 14, 1994, 108 Stat. 3453, provide
 
     (ii) there is no substantial likelihood that the physical search will involve the premises, information, material, or property of a United States person; and
 
-    (iii) the proposed minimization procedures with respect to such physical search meet the definition of minimization procedures under paragraphs (1) through (4) 11 So in original. Probably should be “subparagraphs (A) through (D)”. of [section 1821(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1821/4&num=0&edition=prelim); and
+    (iii) the proposed minimization procedures with respect to such physical search meet the definition of minimization procedures under subparagraphs (A) through (D) of [section 1821(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1821/4&num=0&edition=prelim); and
 
   (B) the Attorney General reports such minimization procedures and any changes thereto to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate at least 30 days before their effective date, unless the Attorney General determines that immediate action is required and notifies the committees immediately of such minimization procedures and the reason for their becoming effective immediately.
 
@@ -1179,13 +1210,17 @@ Pub. L. 103–359, title VIII, § 807(c), Oct. 14, 1994, 108 Stat. 3453, provide
 
 **(c) Jurisdiction of Foreign Intelligence Surveillance Court** The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge (except when sitting en banc) shall hear the same application which has been denied previously by another judge designated under [section 1803(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/a&num=0&edition=prelim). If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under [section 1803(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/b&num=0&edition=prelim).
 
-**(d) Court of review; record; transmittal to Supreme Court** The court of review established under [section 1803(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/b&num=0&edition=prelim) shall have jurisdiction to review the denial of any application made under this subchapter. If such court determines that the application was properly denied, the court shall immediately provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
+**(d) Court of review; record; transmittal to Supreme Court** The court of review established under [section 1803(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/b&num=0&edition=prelim) shall have jurisdiction to review the denial of any application made under this subchapter. If such court determines that the application was properly denied, the court shall provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
 
 **(e) Expeditious conduct of proceedings; security measures for maintenance of records** Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of National Intelligence.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1)(A)(iii). Pub. L. 115–118, § 205(a)(2), substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”.
+
+Subsec. (d). Pub. L. 115–118, § 205(b)(3), struck out “immediately” after “the court shall”.
+
 2010—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
 2008—Subsec. (c). Pub. L. 110–261 inserted “(except when sitting en banc)” after “except that no judge”.
@@ -1199,6 +1234,9 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
+
+#### Effective Date
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821).
 
 #### Ex. Ord. No. 12949. Foreign Intelligence Physical Searches
 Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, as amended by Ex. Ord. No. 13383, § 2, July 15, 2005, 70 F.R. 41933; Ex. Ord. No. 13475, § 2, Oct. 7, 2008, 73 F.R. 60095, provided:
@@ -1321,6 +1359,9 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
+#### Effective Date
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821).
+
 #### Officials Designated To Make Certifications
 For provisions listing officials designated by President to make certifications required by subsec. (a)(7) of this section, see Ex. Ord. No. 12949, § 3, Feb. 9, 1995, 60 F.R. 8169, set out as a note under [section 1822 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1822).
 
@@ -1437,6 +1478,9 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
+#### Effective Date
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821).
+
 
 <a id="section-1825"></a>
 ## § 1825. Use of information
@@ -1512,6 +1556,9 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
+#### Effective Date
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821).
+
 
 <a id="section-1826"></a>
 ## § 1826. Congressional oversight
@@ -1535,6 +1582,9 @@ On a semiannual basis the Attorney General shall fully inform the Permanent Sele
 
 Par. (4). Pub. L. 109–177, § 109(a)(3)–(5), added par. (4).
 
+#### Effective Date
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821).
+
 
 <a id="section-1827"></a>
 ## § 1827. Penalties
@@ -1550,6 +1600,11 @@ Par. (4). Pub. L. 109–177, § 109(a)(3)–(5), added par. (4).
 
 **(d) Federal jurisdiction** There is Federal jurisdiction over an offense under this section if the person committing the offense was an officer or employee of the United States at the time the offense was committed.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821).
+
 
 <a id="section-1828"></a>
 ## § 1828. Civil liability
@@ -1562,11 +1617,21 @@ An aggrieved person, other than a foreign power or an agent of a foreign power, 
 
 (3) reasonable attorney’s fees and other investigative and litigation costs reasonably incurred.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821).
+
 
 <a id="section-1829"></a>
 ## § 1829. Authorization during time of war
 
 Notwithstanding any other provision of law, the President, through the Attorney General, may authorize physical searches without a court order under this subchapter to acquire foreign intelligence information for a period not to exceed 15 calendar days following a declaration of war by the Congress.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821).
 
 
 <a id="section-1841"></a>
@@ -1687,6 +1752,8 @@ A prior section 401 of Pub. L. 95–511 was renumbered section 701 and was set o
 
       (IV) the length of the provision of service by such provider to such customer or subscriber and the types of services utilized by such customer or subscriber.
 
+(3) A denial of the application made under this subsection may be reviewed as provided in [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803).
+
 **(e) Time limitation**
 
 (1) Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d). The period of extension shall be for a period not to exceed 90 days.
@@ -1711,6 +1778,8 @@ Executive Order No. 12333, referred to in subsec. (a)(1), is set out as a note u
 [Section 1805(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805/b/2/C&num=0&edition=prelim), referred to in subsec. (d)(2)(B)(ii)(II), was redesignated [section 1805(c)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805/c/2/C&num=0&edition=prelim) by Pub. L. 106–567, title VI, § 602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
 
 #### Amendments
+2018—Subsec. (d)(3). Pub. L. 115–118 added par. (3).
+
 2015—Subsec. (c)(3). Pub. L. 114–23, § 201(a), added par. (3).
 
 Subsec. (h). Pub. L. 114–23, § 202(a), added subsec. (h).
@@ -1787,11 +1856,15 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 (2) In the event that an application for an order applied for under subsection (a)(2) is denied, or in any other case where the installation and use of a pen register or trap and trace device under this section is terminated and no order under [section 1842 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1842) is issued approving the installation and use of the pen register or trap and trace device, as the case may be, no information obtained or evidence derived from the use of the pen register or trap and trace device, as the case may be, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from the use of the pen register or trap and trace device, as the case may be, shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
+(3) A denial of the application made under subsection (a)(2) may be reviewed as provided in [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803).
+
 **(d) Privacy procedures** Information collected through the use of a pen register or trap and trace device installed under this section shall be subject to the policies and procedures required under [section 1842(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1842/h&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(3). Pub. L. 115–118 added par. (3).
+
 2015—Subsec. (d). Pub. L. 114–23 added subsec. (d).
 
 2008—Subsecs. (a)(2), (c)(1)(C). Pub. L. 110–261 substituted “7 days” for “48 hours”.
@@ -1853,7 +1926,7 @@ Notwithstanding any other provision of law, the President, through the Attorney 
 ## § 1846. Congressional oversight
 **(a)** On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all uses of pen registers and trap and trace devices pursuant to this subchapter.
 
-**(b)** On a semiannual basis, the Attorney General shall also provide to the committees referred to in subsection (a) and to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
+**(b)** On a semiannual basis, the Attorney General shall also provide to the committees referred to in subsection (a) a report setting forth with respect to the preceding 6-month period—
 
 (1) the total number of applications made for orders approving the use of pen registers or trap and trace devices under this subchapter;
 
@@ -1861,13 +1934,27 @@ Notwithstanding any other provision of law, the President, through the Attorney 
 
 (3) the total number of pen registers and trap and trace devices whose installation and use was authorized by the Attorney General on an emergency basis under [section 1843 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1843), and the total number of subsequent orders approving or denying the installation and use of such pen registers and trap and trace devices;
 
-(4) each department or agency on behalf of which the Attorney General or a designated attorney for the Government has made an application for an order authorizing or approving the installation and use of a pen register or trap and trace device under this subchapter; and
+(4) each department or agency on behalf of which the Attorney General or a designated attorney for the Government has made an application for an order authorizing or approving the installation and use of a pen register or trap and trace device under this subchapter;
 
-(5) for each department or agency described in paragraph (4), each number described in paragraphs (1), (2), and (3).
+(5) for each department or agency described in paragraph (4), each number described in paragraphs (1), (2), and (3); and
+
+(6) a good faith estimate of the total number of subjects who were targeted by the installation and use of a pen register or trap and trace device under an order or emergency authorization issued under this subchapter, rounded to the nearest 500, including—
+
+  (A) the number of such subjects who are United States persons, reported to the nearest band of 500, starting with 0–499; and
+
+  (B) of the number of United States persons described in subparagraph (A), the number of persons whose information acquired pursuant to such order was reviewed or accessed by a Federal officer, employee, or agent, reported to the nearest band of 500, starting with 0–499.
+
+**(c)** Each report under subsection (b) shall be submitted in unclassified form, to the extent consistent with national security. Not later than 7 days after the date on which the Attorney General submits such a report, the Attorney General shall make the report publicly available, or, if the Attorney General determines that the report cannot be made publicly available consistent with national security, the Attorney General may make publicly available an unclassified summary of the report or a redacted version of the report.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–118, § 205(a)(3), struck out “and to the Committees on the Judiciary of the House of Representatives and the Senate” after “to the committees referred to in subsection (a)” in introductory provisions.
+
+Subsec. (b)(6). Pub. L. 115–118, § 107(b)(1), added par. (6).
+
+Subsec. (c). Pub. L. 115–118, § 107(b)(2), added subsec. (c).
+
 2015—Subsec. (b)(4), (5). Pub. L. 114–23 added pars. (4) and (5).
 
 2006—Subsec. (a). Pub. L. 109–177, § 128(b), inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate”.
@@ -1954,6 +2041,8 @@ Subsec. (b)(3). Pub. L. 109–177, § 109(b), added par. (3).
       (II) destroy all call detail records produced under the order as prescribed by such procedures.
 
 (3) No order issued under this subsection may authorize the collection of tangible things without the use of a specific selection term that meets the requirements of subsection (b)(2).
+
+(4) A denial of the application made under this subsection may be reviewed as provided in [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803).
 
 **(d) Nondisclosure**
 
@@ -2134,6 +2223,8 @@ Pursuant to Pub. L. 109–177, § 102(b)(1), as amended by Pub. L. 112–14, thi
 A prior section 1861, Pub. L. 95–511, title V, § 501, as added Pub. L. 105–272, title VI, § 602, Oct. 20, 1998, 112 Stat. 2410, defined terms used in this subchapter, prior to repeal by Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287. See Amendment of Section note above.
 
 #### Amendments
+2018—Subsec. (c)(4). Pub. L. 115–118 added par. (4).
+
 2015—Pub. L. 114–23, § 705(a), (c), amended directory language of Pub. L. 109–177, § 102(b)(1). See Codification note above and 2006 Amendment note below.
 
 Subsec. (b)(2)(A). Pub. L. 114–23, § 103(a), added subpar. (A). Former subpar. (A) redesignated (B).
@@ -2450,7 +2541,7 @@ For definition of “congressional intelligence committees” as used in this se
 ### Statutory Notes
 
 #### Amendment of Subsection (a)(1)
-Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.
+Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.
 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (c)(1), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
@@ -2470,7 +2561,7 @@ Subsecs. (c), (d). Pub. L. 110–261, § 103(b), added subsecs. (c) and (d).
 Subsec. (e). Pub. L. 110–261, § 103(c), added subsec. (e).
 
 #### Effective Date of 2008 Amendment
-Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the amendments made by section 403(b)(2) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the amendments made by section 403(b)(2) are effective Dec. 31, 2023.
 
 
 <a id="section-1872"></a>
@@ -2512,27 +2603,43 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
 **(b) Mandatory reporting by Director of National Intelligence** Except as provided in subsection (d), the Director of National Intelligence shall annually make publicly available on an Internet Web site a report that identifies, for the preceding 12-month period—
 
-(1) the total number of orders issued pursuant to subchapters I and II and sections 1881b and 1881c of this title and a good faith estimate of the number of targets of such orders;
+(1) the total number of orders issued pursuant to subchapters I and II and sections 1881b and 1881c of this title and a good faith estimate of—
 
-(2) the total number of orders issued pursuant to [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a) and a good faith estimate of—
+  (A) the number of targets of such orders;
 
-  (A) the number of search terms concerning a known United States person used to retrieve the unminimized contents of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person; and
+  (B) the number of targets of such orders who are known to not be United States persons; and
 
-  (B) the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person;
+  (C) the number of targets of such orders who are known to be United States persons;
+
+(2) the total number of orders issued pursuant to [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a), including pursuant to subsection (f)(2) of such section, and a good faith estimate of—
+
+  (A) the number of targets of such orders;
+
+  (B) the number of search terms concerning a known United States person used to retrieve the unminimized contents of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
+
+  (C) the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; 11 So in original. Probably should be followed by “and”.
+
+  (D) the number of instances in which the Federal Bureau of Investigation opened, under the Criminal Investigative Division or any successor division, an investigation of a United States person (who is not considered a threat to national security) based wholly or in part on an acquisition authorized under such section;
 
 (3) the total number of orders issued pursuant to subchapter III and a good faith estimate of—
 
+  (A) the number of targets of such orders, including—
+
+    (i) the number of targets of such orders who are known to not be United States persons; and
+
+    (ii) the number of targets of such orders who are known to be United States persons; and
+
+  (B) the number of unique identifiers used to communicate information collected pursuant to such orders;
+
+(4) the number of criminal proceedings in which the United States or a State or political subdivision thereof provided notice pursuant to subsection (c) or (d) of [section 1806 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1806) (including with respect to information acquired from an acquisition conducted under [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)) or subsection (d) or (e) of [section 1825 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1825) of the intent of the government to enter into evidence or otherwise use or disclose any information obtained or derived from electronic surveillance, physical search, or an acquisition conducted pursuant to this chapter;
+
+(5) the total number of orders issued pursuant to applications made under [section 1861(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/B&num=0&edition=prelim) and a good faith estimate of—
+
   (A) the number of targets of such orders; and
 
   (B) the number of unique identifiers used to communicate information collected pursuant to such orders;
 
-(4) the total number of orders issued pursuant to applications made under [section 1861(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/B&num=0&edition=prelim) and a good faith estimate of—
-
-  (A) the number of targets of such orders; and
-
-  (B) the number of unique identifiers used to communicate information collected pursuant to such orders;
-
-(5) the total number of orders issued pursuant to applications made under [section 1861(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/C&num=0&edition=prelim) and a good faith estimate of—
+(6) the total number of orders issued pursuant to applications made under [section 1861(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/b/2/C&num=0&edition=prelim) and a good faith estimate of—
 
   (A) the number of targets of such orders;
 
@@ -2540,23 +2647,23 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
   (C) the number of search terms that included information concerning a United States person that were used to query any database of call detail records obtained through the use of such orders; and
 
-(6) the total number of national security letters issued and the number of requests for information contained within such national security letters.
+(7) the total number of national security letters issued and the number of requests for information contained within such national security letters.
 
 **(c) Timing** The annual reports required by subsections (a) and (b) shall be made publicly available during April of each year and include information relating to the previous calendar year.
 
 **(d) Exceptions**
 
-(1) **Statement of numerical range** — If a good faith estimate required to be reported under subparagraph (B) of any of paragraphs (3), (4), or (5) of subsection (b) is fewer than 500, it shall be expressed as a numerical range of “fewer than 500” and shall not be expressed as an individual number.
+(1) **Statement of numerical range** — If a good faith estimate required to be reported under subparagraph (B) of any of paragraphs (3), (5), or (6) of subsection (b) is fewer than 500, it shall be expressed as a numerical range of “fewer than 500” and shall not be expressed as an individual number.
 
 (2) **Nonapplicability to certain information**
 
-  (A) *Federal Bureau of Investigation* — Paragraphs (2)(A), (2)(B), and (5)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation.
+  (A) *Federal Bureau of Investigation* — Paragraphs (2)(B), (2)(C), and (6)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation, except with respect to information required under paragraph (2) relating to orders issued under [section 1881a(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/f/2&num=0&edition=prelim).
 
   (B) *Electronic mail address and telephone numbers* — Paragraph (3)(B) of subsection (b) shall not apply to orders resulting in the acquisition of information by the Federal Bureau of Investigation that does not include electronic mail addresses or telephone numbers.
 
 (3) **Certification**
 
-  (A) *In general* — If the Director of National Intelligence concludes that a good faith estimate required to be reported under subsection (b)(2)(B) cannot be determined accurately because some but not all of the relevant elements of the intelligence community are able to provide such good faith estimate, the Director shall—
+  (A) *In general* — If the Director of National Intelligence concludes that a good faith estimate required to be reported under subsection (b)(2)(C) cannot be determined accurately because some but not all of the relevant elements of the intelligence community are able to provide such good faith estimate, the Director shall—
 
     (i) certify that conclusion in writing to the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives;
 
@@ -2590,6 +2697,26 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
 (5) **Wire communication** — The term “wire communication” has the meaning given that term under [section 2510 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (b)(4), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
+
+#### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–118, § 102(b)(1)(A), substituted “good faith estimate of—” for “good faith estimate of the number of targets of such orders;” and added subpars. (A) to (C).
+
+Subsec. (b)(2). Pub. L. 115–118, § 102(b)(1)(B), inserted “, including pursuant to subsection (f)(2) of such section,” after “[section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)” in introductory provisions, added subpars. (A) and (D), and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+
+Subsec. (b)(3)(A). Pub. L. 115–118, § 102(b)(1)(C), substituted “orders, including—” for “orders; and” and added cls. (i) and (ii).
+
+Subsec. (b)(4) to (7). Pub. L. 115–118, § 102(b)(1)(D), (E), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
+Subsec. (d)(1). Pub. L. 115–118, § 102(b)(2)(A), substituted “(5), or (6)” for “(4), or (5)”.
+
+Subsec. (d)(2)(A). Pub. L. 115–118, § 102(b)(2)(B), substituted “Paragraphs (2)(B), (2)(C), and (6)(C)” for “Paragraphs (2)(A), (2)(B), and (5)(C)” and inserted before period at end “, except with respect to information required under paragraph (2) relating to orders issued under [section 1881a(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/f/2&num=0&edition=prelim)”.
+
+Subsec. (d)(3)(A). Pub. L. 115–118, § 102(b)(2)(C), substituted “subsection (b)(2)(C)” for “subsection (b)(2)(B)” in introductory provisions.
+
 
 <a id="section-1874"></a>
 ## § 1874. Public reporting by persons subject to orders
@@ -2603,7 +2730,7 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
   (C) the number of orders or directives received, combined, under this chapter for contents, reported in bands of 1000 starting with 0–999;
 
-  (D) the number of customer selectors targeted under orders or directives received, combined, under this chapter for contents 11 So in original. Probably should be followed by a comma. reported in bands of 1000 starting with 0–999;
+  (D) the number of customer selectors targeted under orders or directives received, combined, under this chapter for contents, reported in bands of 1000 starting with 0–999;
 
   (E) the number of orders received under this chapter for noncontents, reported in bands of 1000 starting with 0–999; and
 
@@ -2629,7 +2756,7 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 
   (F) the number of customer selectors targeted under orders received under this chapter for noncontents, reported in bands of 500 starting with 0–499.
 
-(3) A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply in the 22 So in original. into separate categories of—
+(3) A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply into separate categories of—
 
   (A) the total number of all national security process received, including all national security letters, and orders or directives under this chapter, combined, reported in bands of 250 starting with 0–249; and
 
@@ -2666,12 +2793,17 @@ Pub. L. 110–261, title IV, § 403(b)(2), July 10, 2008, 122 Stat. 2474, as ame
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b)(1)(B), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
 
+#### Amendments
+2018—Subsec. (a)(1)(D). Pub. L. 115–118, § 205(a)(4)(A), substituted “contents,” for “contents”.
+
+Subsec. (a)(3). Pub. L. 115–118, § 205(a)(4)(B), substituted “comply into” for “comply in the into” in introductory provisions.
+
 
 <a id="section-1881"></a>
 ## § 1881. Definitions
-**(a) In general** The terms “agent of a foreign power”, “Attorney General”, “contents”, “electronic surveillance”, “foreign intelligence information”, “foreign power”, “person”, “United States”, and “United States person” have the meanings given such terms in [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), except as specifically provided in this subchapter.
+**(a) In general** In this subchapter, the terms “agent of a foreign power”, “Attorney General”, “contents”, “electronic surveillance”, “foreign intelligence information”, “foreign power”, “person”, “United States”, and “United States person” have the meanings given such terms in [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), except as specifically provided in this subchapter.
 
-**(b) Additional definitions**
+**(b) Additional definitions** In this subchapter:
 
 (1) **Congressional intelligence committees** — The term “congressional intelligence committees” means—
 
@@ -2700,18 +2832,30 @@ This chapter, referred to in subsecs. (a) and (b)(1)(B), was in the original “
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, this section is repealed.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, this section is repealed.
 
 #### Prior Provisions
 A prior section 701 of Pub. L. 95–511 was set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), prior to repeal by Pub. L. 110–261.
 
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–118, § 205(a)(5)(A), substituted ‘In this subchapter, the terms” for “The terms”.
+
+Subsec. (b). Pub. L. 115–118, § 205(a)(5)(B)(i), inserted introductory provisions.
+
+Subsec. (b)(5). Pub. L. 115–118, § 205(a)(5)(B)(ii), made technical amendment to reference in original act which appears in text as reference to [section 3003(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–96, div. A, § 1002, Dec. 22, 2017, 131 Stat. 2045, which temporarily extended the effective date of the amendments made by section 403(b) of Pub. L. 110–261 to Jan. 19, 2018, was repealed by its own terms upon the enactment, on Jan. 19, 2018, of section 201(a) of Pub. L. 115–118, which amended the dates specified in section 403(b) of Pub. L. 110–261, and by Pub. L. 115–120, div. B, § 2002, Jan. 22, 2018, 132 Stat. 31, which was effective on Jan. 22, 2018.
+
 #### Effective Date of Repeal
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
+
+[Pub. L. 115–118, title II, § 201(c), Jan. 19, 2018, 132 Stat. 19, provided that: “The amendments made to the FISA Amendments Act of 2008 (Public Law 110–261) by this section [amending sections 1881 to 1881g of this title and provisions set out as notes under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and [section 2511 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2511&num=0&edition=prelim), Crimes and Criminal Procedure] shall take effect on December 31, 2017.” ]
 
 
 <a id="section-1881a"></a>
 ## § 1881a. Procedures for targeting certain persons outside the United States other than United States persons
-**(a) Authorization** Notwithstanding any other provision of law, upon the issuance of an order in accordance with subsection (i)(3) or a determination under subsection (c)(2), the Attorney General and the Director of National Intelligence may authorize jointly, for a period of up to 1 year from the effective date of the authorization, the targeting of persons reasonably believed to be located outside the United States to acquire foreign intelligence information.
+**(a) Authorization** Notwithstanding any other provision of law, upon the issuance of an order in accordance with subsection (j)(3) or a determination under subsection (c)(2), the Attorney General and the Director of National Intelligence may authorize jointly, for a period of up to 1 year from the effective date of the authorization, the targeting of persons reasonably believed to be located outside the United States to acquire foreign intelligence information.
 
 **(b) Limitations** An acquisition authorized under subsection (a)—
 
@@ -2721,9 +2865,11 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
 (3) may not intentionally target a United States person reasonably believed to be located outside the United States;
 
-(4) may not intentionally acquire any communication as to which the sender and all intended recipients are known at the time of the acquisition to be located in the United States; and
+(4) may not intentionally acquire any communication as to which the sender and all intended recipients are known at the time of the acquisition to be located in the United States;
 
-(5) shall be conducted in a manner consistent with the fourth amendment to the Constitution of the United States.
+(5) may not intentionally acquire communications that contain a reference to, but are not to or from, a target of an acquisition authorized under subsection (a), except as provided under section 103(b) of the FISA Amendments Reauthorization Act of 2017; and
+
+(6) shall be conducted in a manner consistent with the fourth amendment to the Constitution of the United States.
 
 **(c) Conduct of acquisition**
 
@@ -2731,15 +2877,15 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
   (A) the targeting and minimization procedures adopted in accordance with subsections (d) and (e); and
 
-  (B) upon submission of a certification in accordance with subsection (g), such certification.
+  (B) upon submission of a certification in accordance with subsection (h), such certification.
 
-(2) **Determination** — A determination under this paragraph and for purposes of subsection (a) is a determination by the Attorney General and the Director of National Intelligence that exigent circumstances exist because, without immediate implementation of an authorization under subsection (a), intelligence important to the national security of the United States may be lost or not timely acquired and time does not permit the issuance of an order pursuant to subsection (i)(3) prior to the implementation of such authorization.
+(2) **Determination** — A determination under this paragraph and for purposes of subsection (a) is a determination by the Attorney General and the Director of National Intelligence that exigent circumstances exist because, without immediate implementation of an authorization under subsection (a), intelligence important to the national security of the United States may be lost or not timely acquired and time does not permit the issuance of an order pursuant to subsection (j)(3) prior to the implementation of such authorization.
 
 (3) **Timing of determination** — The Attorney General and the Director of National Intelligence may make the determination under paragraph (2)—
 
-  (A) before the submission of a certification in accordance with subsection (g); or
+  (A) before the submission of a certification in accordance with subsection (h); or
 
-  (B) by amending a certification pursuant to subsection (i)(1)(C) at any time during which judicial review under subsection (i) of such certification is pending.
+  (B) by amending a certification pursuant to subsection (j)(1)(C) at any time during which judicial review under subsection (j) of such certification is pending.
 
 (4) **Construction** — Nothing in subchapter I shall be construed to require an application for a court order under such subchapter for an acquisition that is targeted in accordance with this section at a person reasonably believed to be located outside the United States.
 
@@ -2751,15 +2897,71 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
   (B) prevent the intentional acquisition of any communication as to which the sender and all intended recipients are known at the time of the acquisition to be located in the United States.
 
-(2) **Judicial review** — The procedures adopted in accordance with paragraph (1) shall be subject to judicial review pursuant to subsection (i).
+(2) **Judicial review** — The procedures adopted in accordance with paragraph (1) shall be subject to judicial review pursuant to subsection (j).
 
 **(e) Minimization procedures**
 
 (1) **Requirement to adopt** — The Attorney General, in consultation with the Director of National Intelligence, shall adopt minimization procedures that meet the definition of minimization procedures under [section 1801(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/h&num=0&edition=prelim) or [section 1821(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1821/4&num=0&edition=prelim), as appropriate, for acquisitions authorized under subsection (a).
 
-(2) **Judicial review** — The minimization procedures adopted in accordance with paragraph (1) shall be subject to judicial review pursuant to subsection (i).
+(2) **Judicial review** — The minimization procedures adopted in accordance with paragraph (1) shall be subject to judicial review pursuant to subsection (j).
 
-**(f) Guidelines for compliance with limitations**
+(3) **Publication** — The Director of National Intelligence, in consultation with the Attorney General, shall—
+
+  (A) conduct a declassification review of any minimization procedures adopted or amended in accordance with paragraph (1); and
+
+  (B) consistent with such review, and not later than 180 days after conducting such review, make such minimization procedures publicly available to the greatest extent practicable, which may be in redacted form.
+
+**(f) Queries**
+
+(1) **Procedures required**
+
+  (A) *Requirement to adopt* — The Attorney General, in consultation with the Director of National Intelligence, shall adopt querying procedures consistent with the requirements of the fourth amendment to the Constitution of the United States for information collected pursuant to an authorization under subsection (a).
+
+  (B) *Record of United States person query terms* — The Attorney General, in consultation with the Director of National Intelligence, shall ensure that the procedures adopted under subparagraph (A) include a technical procedure whereby a record is kept of each United States person query term used for a query.
+
+  (C) *Judicial review* — The procedures adopted in accordance with subparagraph (A) shall be subject to judicial review pursuant to subsection (j).
+
+(2) **Access to results of certain queries conducted by FBI**
+
+  (A) *Court order required for fbi review of certain query results in criminal investigations unrelated to national security* — Except as provided by subparagraph (E), in connection with a predicated criminal investigation opened by the Federal Bureau of Investigation that does not relate to the national security of the United States, the Federal Bureau of Investigation may not access the contents of communications acquired under subsection (a) that were retrieved pursuant to a query made using a United States person query term that was not designed to find and extract foreign intelligence information unless—
+
+    (i) the Federal Bureau of Investigation applies for an order of the Court under subparagraph (C); and
+
+    (ii) the Court enters an order under subparagraph (D) approving such application.
+
+  (B) *Jurisdiction* — The Court shall have jurisdiction to review an application and to enter an order approving the access described in subparagraph (A).
+
+  (C) *Application* — Each application for an order under this paragraph shall be made by a Federal officer in writing upon oath or affirmation to a judge having jurisdiction under subparagraph (B). Each application shall require the approval of the Attorney General based upon the finding of the Attorney General that the application satisfies the criteria and requirements of such application, as set forth in this paragraph, and shall include—
+
+    (i) the identity of the Federal officer making the application; and
+
+    (ii) an affidavit or other information containing a statement of the facts and circumstances relied upon by the applicant to justify the belief of the applicant that the contents of communications described in subparagraph (A) covered by the application would provide evidence of—
+
+      (I) criminal activity;
+
+      (II) contraband, fruits of a crime, or other items illegally possessed by a third party; or
+
+      (III) property designed for use, intended for use, or used in committing a crime.
+
+  (D) *Order* — Upon an application made pursuant to subparagraph (C), the Court shall enter an order approving the accessing of the contents of communications described in subparagraph (A) covered by the application if the Court finds probable cause to believe that such contents would provide any of the evidence described in subparagraph (C)(ii).
+
+  (E) *Exception* — The requirement for an order of the Court under subparagraph (A) to access the contents of communications described in such subparagraph shall not apply with respect to a query if the Federal Bureau of Investigation determines there is a reasonable belief that such contents could assist in mitigating or eliminating a threat to life or serious bodily harm.
+
+  (F) *Rule of construction* — Nothing in this paragraph may be construed as—
+
+    (i) limiting the authority of the Federal Bureau of Investigation to conduct lawful queries of information acquired under subsection (a);
+
+    (ii) limiting the authority of the Federal Bureau of Investigation to review, without a court order, the results of any query of information acquired under subsection (a) that was reasonably designed to find and extract foreign intelligence information, regardless of whether such foreign intelligence information could also be considered evidence of a crime; or
+
+    (iii) prohibiting or otherwise limiting the ability of the Federal Bureau of Investigation to access the results of queries conducted when evaluating whether to open an assessment or predicated investigation relating to the national security of the United States.
+
+(3) **Definitions** — In this subsection:
+
+  (A) The term “contents” has the meaning given that term in [section 2510(8) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510/8&num=0&edition=prelim).
+
+  (B) The term “query” means the use of one or more terms to retrieve the unminimized contents or noncontents located in electronic and data storage systems of communications of or concerning United States persons obtained through acquisitions authorized under subsection (a).
+
+**(g) Guidelines for compliance with limitations**
 
 (1) **Requirement to adopt** — The Attorney General, in consultation with the Director of National Intelligence, shall adopt guidelines to ensure—
 
@@ -2775,7 +2977,7 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
   (C) the Foreign Intelligence Surveillance Court.
 
-**(g) Certification**
+**(h) Certification**
 
 (1) **In general**
 
@@ -2787,7 +2989,7 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
   (A) attest that—
 
-    (i) there are procedures in place that have been approved, have been submitted for approval, or will be submitted with the certification for approval by the Foreign Intelligence Surveillance Court that are reasonably designed to—
+    (i) there are targeting procedures in place that have been approved, have been submitted for approval, or will be submitted with the certification for approval by the Foreign Intelligence Surveillance Court that are reasonably designed to—
 
       (I) ensure that an acquisition authorized under subsection (a) is limited to targeting persons reasonably believed to be located outside the United States; and
 
@@ -2799,7 +3001,7 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
       (II) have been approved, have been submitted for approval, or will be submitted with the certification for approval by the Foreign Intelligence Surveillance Court;
 
-    (iii) guidelines have been adopted in accordance with subsection (f) to ensure compliance with the limitations in subsection (b) and to ensure that an application for a court order is filed as required by this chapter;
+    (iii) guidelines have been adopted in accordance with subsection (g) to ensure compliance with the limitations in subsection (b) and to ensure that an application for a court order is filed as required by this chapter;
 
     (iv) the procedures and guidelines referred to in clauses (i), (ii), and (iii) are consistent with the requirements of the fourth amendment to the Constitution of the United States;
 
@@ -2825,15 +3027,15 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
   (E) if the Attorney General and the Director of National Intelligence make a determination under subsection (c)(2), include a statement that such determination has been made.
 
-(3) **Change in effective date** — The Attorney General and the Director of National Intelligence may advance or delay the effective date referred to in paragraph (2)(D) by submitting an amended certification in accordance with subsection (i)(1)(C) to the Foreign Intelligence Surveillance Court for review pursuant to subsection (i).
+(3) **Change in effective date** — The Attorney General and the Director of National Intelligence may advance or delay the effective date referred to in paragraph (2)(D) by submitting an amended certification in accordance with subsection (j)(1)(C) to the Foreign Intelligence Surveillance Court for review pursuant to subsection (i).11 See References in Text note below.
 
 (4) **Limitation** — A certification made under this subsection is not required to identify the specific facilities, places, premises, or property at which an acquisition authorized under subsection (a) will be directed or conducted.
 
 (5) **Maintenance of certification** — The Attorney General or a designee of the Attorney General shall maintain a copy of a certification made under this subsection.
 
-(6) **Review** — A certification submitted in accordance with this subsection shall be subject to judicial review pursuant to subsection (i).
+(6) **Review** — A certification submitted in accordance with this subsection shall be subject to judicial review pursuant to subsection (j).
 
-**(h) Directives and judicial review of directives**
+**(i) Directives and judicial review of directives**
 
 (1) **Authority** — With respect to an acquisition authorized under subsection (a), the Attorney General and the Director of National Intelligence may direct, in writing, an electronic communication service provider to—
 
@@ -2879,19 +3081,19 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
   (B) *Certiorari to the Supreme Court* — The Government or an electronic communication service provider receiving a directive issued pursuant to paragraph (1) may file a petition for a writ of certiorari for review of a decision of the Court of Review issued under subparagraph (A). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 
-**(i) Judicial review of certifications and procedures**
+**(j) Judicial review of certifications and procedures**
 
 (1) **In general**
 
-  (A) *Review by the Foreign Intelligence Surveillance Court* — The Foreign Intelligence Surveillance Court shall have jurisdiction to review a certification submitted in accordance with subsection (g) and the targeting and minimization procedures adopted in accordance with subsections (d) and (e), and amendments to such certification or such procedures.
+  (A) *Review by the Foreign Intelligence Surveillance Court* — The Foreign Intelligence Surveillance Court shall have jurisdiction to review a certification submitted in accordance with subsection (g) 1 and the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1), and amendments to such certification or such procedures.
 
-  (B) *Time period for review* — The Court shall review a certification submitted in accordance with subsection (g) and the targeting and minimization procedures adopted in accordance with subsections (d) and (e) and shall complete such review and issue an order under paragraph (3) not later than 30 days after the date on which such certification and such procedures are submitted.
+  (B) *Time period for review* — The Court shall review a certification submitted in accordance with subsection (g) 1 and the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and shall complete such review and issue an order under paragraph (3) not later than 30 days after the date on which such certification and such procedures are submitted.
 
-  (C) *Amendments* — The Attorney General and the Director of National Intelligence may amend a certification submitted in accordance with subsection (g) or the targeting and minimization procedures adopted in accordance with subsections (d) and (e) as necessary at any time, including if the Court is conducting or has completed review of such certification or such procedures, and shall submit the amended certification or amended procedures to the Court not later than 7 days after amending such certification or such procedures. The Court shall review any amendment under this subparagraph under the procedures set forth in this subsection. The Attorney General and the Director of National Intelligence may authorize the use of an amended certification or amended procedures pending the Court’s review of such amended certification or amended procedures.
+  (C) *Amendments* — The Attorney General and the Director of National Intelligence may amend a certification submitted in accordance with subsection (g) 1 or the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) as necessary at any time, including if the Court is conducting or has completed review of such certification or such procedures, and shall submit the amended certification or amended procedures to the Court not later than 7 days after amending such certification or such procedures. The Court shall review any amendment under this subparagraph under the procedures set forth in this subsection. The Attorney General and the Director of National Intelligence may authorize the use of an amended certification or amended procedures pending the Court’s review of such amended certification or amended procedures.
 
 (2) **Review** — The Court shall review the following:
 
-  (A) *Certification* — A certification submitted in accordance with subsection (g) to determine whether the certification contains all the required elements.
+  (A) *Certification* — A certification submitted in accordance with subsection (h) to determine whether the certification contains all the required elements.
 
   (B) *Targeting procedures* — The targeting procedures adopted in accordance with subsection (d) to assess whether the procedures are reasonably designed to—
 
@@ -2901,11 +3103,13 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
   (C) *Minimization procedures* — The minimization procedures adopted in accordance with subsection (e) to assess whether such procedures meet the definition of minimization procedures under [section 1801(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/h&num=0&edition=prelim) or [section 1821(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1821/4&num=0&edition=prelim), as appropriate.
 
+  (D) *Querying procedures* — The querying procedures adopted in accordance with subsection (f)(1) to assess whether such procedures comply with the requirements of such subsection.
+
 (3) **Orders**
 
-  (A) *Approval* — If the Court finds that a certification submitted in accordance with subsection (g) contains all the required elements and that the targeting and minimization procedures adopted in accordance with subsections (d) and (e) are consistent with the requirements of those subsections and with the fourth amendment to the Constitution of the United States, the Court shall enter an order approving the certification and the use, or continued use in the case of an acquisition authorized pursuant to a determination under subsection (c)(2), of the procedures for the acquisition.
+  (A) *Approval* — If the Court finds that a certification submitted in accordance with subsection (h) contains all the required elements and that the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) are consistent with the requirements of those subsections and with the fourth amendment to the Constitution of the United States, the Court shall enter an order approving the certification and the use, or continued use in the case of an acquisition authorized pursuant to a determination under subsection (c)(2), of the procedures for the acquisition.
 
-  (B) *Correction of deficiencies* — If the Court finds that a certification submitted in accordance with subsection (g) does not contain all the required elements, or that the procedures adopted in accordance with subsections (d) and (e) are not consistent with the requirements of those subsections or the fourth amendment to the Constitution of the United States, the Court shall issue an order directing the Government to, at the Government’s election and to the extent required by the Court’s order—
+  (B) *Correction of deficiencies* — If the Court finds that a certification submitted in accordance with subsection (h) does not contain all the required elements, or that the procedures adopted in accordance with subsections (d), (e), and (f)(1) are not consistent with the requirements of those subsections or the fourth amendment to the Constitution of the United States, the Court shall issue an order directing the Government to, at the Government’s election and to the extent required by the Court’s order—
 
     (i) correct any deficiency identified by the Court’s order not later than 30 days after the date on which the Court issues the order; or
 
@@ -2935,17 +3139,17 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
 (5) **Schedule**
 
-  (A) *Reauthorization of authorizations in effect* — If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Court the certification prepared in accordance with subsection (g) and the procedures adopted in accordance with subsections (d) and (e) at least 30 days prior to the expiration of such authorization.
+  (A) *Reauthorization of authorizations in effect* — If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Court the certification prepared in accordance with subsection (h) and the procedures adopted in accordance with subsections (d), (e), and (f)(1) at least 30 days prior to the expiration of such authorization.
 
   (B) *Reauthorization of orders, authorizations, and directives* — If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
 
-**(j) Judicial proceedings**
+**(k) Judicial proceedings**
 
 (1) **Expedited judicial proceedings** — Judicial proceedings under this section shall be conducted as expeditiously as possible.
 
 (2) **Time limits** — A time limit for a judicial decision in this section shall apply unless the Court, the Court of Review, or any judge of either the Court or the Court of Review, by order for reasons stated, extends that time as necessary for good cause in a manner consistent with national security.
 
-**(k) Maintenance and security of records and proceedings**
+**(l) Maintenance and security of records and proceedings**
 
 (1) **Standards** — The Foreign Intelligence Surveillance Court shall maintain a record of a proceeding under this section, including petitions, appeals, orders, and statements of reasons for a decision, under security measures adopted by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
 
@@ -2953,9 +3157,9 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
 (3) **Retention of records** — The Attorney General and the Director of National Intelligence shall retain a directive or an order issued under this section for a period of not less than 10 years from the date on which such directive or such order is issued.
 
-**(l) Assessments and reviews**
+**(m) Assessments 22 So in original. Probably should be followed by a comma. reviews, and reporting**
 
-(1) **Semiannual assessment** — Not less frequently than once every 6 months, the Attorney General and Director of National Intelligence shall assess compliance with the targeting and minimization procedures adopted in accordance with subsections (d) and (e) and the guidelines adopted in accordance with subsection (f) and shall submit each assessment to—
+(1) **Semiannual assessment** — Not less frequently than once every 6 months, the Attorney General and Director of National Intelligence shall assess compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g) and shall submit each assessment to—
 
   (A) the Foreign Intelligence Surveillance Court; and
 
@@ -2967,7 +3171,7 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
 (2) **Agency assessment** — The Inspector General of the Department of Justice and the Inspector General of each element of the intelligence community authorized to acquire foreign intelligence information under subsection (a), with respect to the department or element of such Inspector General—
 
-  (A) are authorized to review compliance with the targeting and minimization procedures adopted in accordance with subsections (d) and (e) and the guidelines adopted in accordance with subsection (f);
+  (A) are authorized to review compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with with subsection (g);
 
   (B) with respect to acquisitions authorized under subsection (a), shall review the number of disseminated intelligence reports containing a reference to a United States-person identity and the number of United States-person identities subsequently disseminated by the element concerned in response to requests for identities that were not referred to by name or title in the original reporting;
 
@@ -3013,21 +3217,95 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
       (II) the Committees on the Judiciary of the House of Representatives and the Senate.
 
+(4) **Reporting of material breach**
+
+  (A) *In general* — The head of each element of the intelligence community involved in the acquisition of abouts communications shall fully and currently inform the Committees on the Judiciary of the House of Representatives and the Senate and the congressional intelligence committees of a material breach.
+
+  (B) *Definitions* — In this paragraph:
+
+    (i) The term “abouts communication” means a communication that contains a reference to, but is not to or from, a target of an acquisition authorized under subsection (a).
+
+    (ii) The term “material breach” means significant noncompliance with applicable law or an order of the Foreign Intelligence Surveillance Court concerning any acquisition of abouts communications.
+
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, this section is repealed.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, this section is repealed.
 
 #### References in Text
+Section 103(b) of the FISA Amendments Reauthorization Act of 2017, referred to in subsec. (b)(5), is section 103(b) of Pub. L. 115–118, which is set out as a note below.
+
 This chapter, referred to in subsecs. (f)(1)(B) and (g)(2)(A)(iii), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
+
+Subsection (i), referred to in subsec. (h)(3), was redesignated subsection (j) of this section by Pub. L. 115–118, title I, § 101(a)(1)(A), Jan. 19, 2018, 132 Stat. 4.
+
+Subsection (g), referred to in subsec. (j)(1), was redesignated subsection (h) of this section by Pub. L. 115–118, title I, § 101(a)(1)(A), Jan. 19, 2018, 132 Stat. 4.
 
 Senate Resolution 400 of the 94th Congress, referred to in subsec. (l), was agreed to May 19, 1976, and was subsequently amended by both Senate resolution and public law. The Resolution, which established the Senate Select Committee on Intelligence, is not classified to the Code.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–118, § 101(b)(1)(A), substituted “with subsection (j)(3)” for “with subsection (i)(3)”.
+
+Subsec. (b)(5), (6). Pub. L. 115–118, § 103(a), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (c)(1)(B). Pub. L. 115–118, § 101(b)(1)(B)(i), substituted “with subsection (h)” for “with subsection (g)”.
+
+Subsec. (c)(2). Pub. L. 115–118, § 101(b)(1)(B)(ii), substituted “to subsection (j)(3)” for “to subsection (i)(3)”.
+
+Subsec. (c)(3)(A). Pub. L. 115–118, § 101(b)(1)(B)(iii)(I), substituted “with subsection (h)” for “with subsection (g)”.
+
+Subsec. (c)(3)(B). Pub. L. 115–118, § 101(b)(1)(B)(iii)(II), substituted “to subsection (j)(1)(C)” for “to subsection (i)(1)(C)” and “under subsection (j)” for “under subsection (i)”.
+
+Subsecs. (d)(2). Pub. L. 115–118, § 101(b)(1)(C), substituted “to subsection (j)” for “to subsection (i)”.
+
+Subsecs. (e)(2). Pub. L. 115–118, § 101(b)(1)(D), substituted “to subsection (j)” for “to subsection (i)”.
+
+Subsec. (e)(3). Pub. L. 115–118, § 104, added par. (3).
+
+Subsecs. (f) to (h). Pub. L. 115–118, § 101(a)(1), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
+
+Subsec. (h)(2)(A)(i). Pub. L. 115–118, § 205(a)(6), inserted “targeting” before “procedures in place” in introductory provisions.
+
+Subsec. (h)(2)(A)(iii). Pub. L. 115–118, § 101(b)(1)(E)(i), substituted “with subsection (g)” for “with subsection (f)”.
+
+Subsec. (h)(3). Pub. L. 115–118, § 101(b)(1)(E)(ii), substituted “with subsection (j)(1)(C)” for “with subsection (i)(1)(C)”.
+
+Subsec. (h)(6). Pub. L. 115–118, § 101(b)(1)(E)(iii), substituted “to subsection (j)” for “to subsection (i)”.
+
+Subsecs. (i), (j). Pub. L. 115–118, § 101(a)(1)(A), redesignated subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
+
+Subsec. (j)(1). Pub. L. 115–118, § 101(b)(1)(F)(i), substituted “targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1)” for “targeting and minimization procedures adopted in accordance with subsections (d) and (e)” in subpars. (A) to (C).
+
+Subsec. (j)(2)(A). Pub. L. 115–118, § 101(b)(1)(F)(ii)(I), substituted “with subsection (h)” for “with subsection (g)”.
+
+Subsec. (j)(2)(D). Pub. L. 115–118, § 101(b)(1)(F)(ii)(II), added subpar. (D).
+
+Subsec. (j)(3)(A). Pub. L. 115–118, § 101(b)(1)(F)(iii)(I), substituted “with subsection (h)” for “with subsection (g)” and “targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1)” for “targeting and minimization procedures adopted in accordance with subsections (d) and (e)”.
+
+Subsec. (j)(3)(B). Pub. L. 115–118, § 101(b)(1)(F)(iii)(II), substituted “with subsection (h)” for “with subsection (g)” and “with subsections (d), (e), and (f)(1)” for “with subsections (d) and (e)” in introductory provisions.
+
+Subsec. (j)(5)(A). Pub. L. 115–118, § 101(b)(1)(F)(iv), substituted “with subsection (h)” for “with subsection (g)” and ““with subsections (d), (e), and (f)(1)” for “with subsections (d) and (e)”.
+
+Subsecs. (k), (l). Pub. L. 115–118, § 101(a)(1)(A), redesignated subsecs. (j) and (k) as (k) and (l), respectively. Former subsec. (l) redesignated (m).
+
+Subsec. (m). Pub. L. 115–118, §§ 101(a)(1)(A), 103(b)(5)(A), redesignated subsec. (l) as (m) and substituted “reviews, and reporting” for “and reviews” in heading.
+
+Subsec. (m)(1). Pub. L. 115–118, § 101(b)(1)(G)(i), substituted “targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1)” for “targeting and minimization procedures adopted in accordance with subsections (d) and (e)” and “with subsection (g)” for “with subsection (f)” in introductory provisions.
+
+Subsec. (m)(2)(A). Pub. L. 115–118, § 101(b)(1)(G)(ii), substituted “targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1)” for “targeting and minimization procedures adopted in accordance with subsections (d) and (e)” and “with subsection (g)” for “with subsection (f)”.
+
+Subsec. (m)(4). Pub. L. 115–118, § 103(b)(5)(B), added par. (4).
+
 2015—Subsec. (i)(3)(D). Pub. L. 114–23 added subpar. (D).
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–118, title I, § 101(a)(2), Jan. 19, 2018, 132 Stat. 6, provided that: “Subsection (f) of section 702 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1881a](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)), as added by paragraph (1), shall apply with respect to certifications submitted under subsection (h) of such section to the Foreign Intelligence Surveillance Court after January 1, 2018.”
+
 #### Effective Date of Repeal
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
+
+#### Congressional Review and Oversight of Abouts Collection
+Pub. L. 115–118, title I, § 103(b), Jan. 19, 2018, 132 Stat. 10, provided that: “(1) Definitions.—In this subsection:“(A) The term ‘abouts communication’ means a communication that contains a reference to, but is not to or from, a target of an acquisition authorized under section 702(a) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1881a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/a&num=0&edition=prelim)). “(B) The term ‘material breach’ means significant noncompliance with applicable law or an order of the Foreign Intelligence Surveillance Court concerning any acquisition of abouts communications. “(2) Submission to congress.—“(A) Requirement.—Notwithstanding any other provision of law, and except as provided in paragraph (4), if the Attorney General and the Director of National Intelligence intend to implement the authorization of the intentional acquisition of abouts communications, before the first such implementation after the date of enactment of this Act [Jan. 19, 2018], the Attorney General and the Director of National Intelligence shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a written notice of the intent to implement the authorization of such an acquisition, and any supporting materials in accordance with this subsection. “(B) Congressional review period.—During the 30-day period beginning on the date written notice is submitted under subparagraph (A), the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives shall, as appropriate, hold hearings and briefings and otherwise obtain information in order to fully review the written notice. “(C) Limitation on action during congressional review period.—Notwithstanding any other provision of law, and subject to paragraph (4), unless the Attorney General and the Director of National Intelligence make a determination pursuant to section 702(c)(2) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1881a(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/c/2&num=0&edition=prelim)), the Attorney General and the Director of National Intelligence may not implement the authorization of the intentional acquisition of abouts communications before the end of the period described in subparagraph (B). “(3) Written notice.—Written notice under paragraph (2)(A) shall include the following:“(A) A copy of any certification submitted to the Foreign Intelligence Surveillance Court pursuant to section 702 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1881a](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)), or amendment thereto, authorizing the intentional acquisition of abouts communications, including all affidavits, procedures, exhibits, and attachments submitted therewith. “(B) The decision, order, or opinion of the Foreign Intelligence Surveillance Court approving such certification, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion. “(C) A summary of the protections in place to detect any material breach. “(D) Data or other results of modeling, simulation, or auditing of sample data demonstrating that any acquisition method involving the intentional acquisition of abouts communications shall be conducted in accordance with title VII of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1881](./chapter-036-foreign-intelligence-surveillance.md#section-1881) et seq.), if such data or other results exist at the time the written notice is submitted and were provided to the Foreign Intelligence Surveillance Court. “(E) Except as provided under paragraph (4), a statement that no acquisition authorized under subsection (a) of such section 702 shall include the intentional acquisition of an abouts communication until after the end of the 30-day period described in paragraph (2)(B). “(4) Exception for emergency acquisition.—“(A) Notice of determination.—If the Attorney General and the Director of National Intelligence make a determination pursuant to section 702(c)(2) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1881a(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/c/2&num=0&edition=prelim)) with respect to the intentional acquisition of abouts communications, the Attorney General and the Director of National Intelligence shall notify the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives as soon as practicable, but not later than 7 days after the determination is made. “(B) Implementation or continuation.—“(i) In general.—If the Foreign Intelligence Surveillance Court approves a certification that authorizes the intentional acquisition of abouts communications before the end of the 30-day period described in paragraph (2)(B), the Attorney General and the Director of National Intelligence may authorize the immediate implementation or continuation of that certification if the Attorney General and the Director of National Intelligence jointly determine that exigent circumstances exist such that without such immediate implementation or continuation intelligence important to the national security of the United States may be lost or not timely acquired. “(ii) Notice.—The Attorney General and the Director of National Intelligence shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives notification of a determination pursuant to clause (i) as soon as practicable, but not later than 3 days after the determination is made. “(5) Reporting of material breach.—[Amended this section.] “(6) Appointment of amici curiae by foreign intelligence surveillance court.—For purposes of section 103(i)(2)(A) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1803(i)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/i/2/A&num=0&edition=prelim)), the Foreign Intelligence Surveillance Court shall treat the first certification under section 702(h) of such Act ([50 U.S.C. 1881a(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim)) or amendment thereto that authorizes the acquisition of abouts communications as presenting a novel or significant interpretation of the law, unless the court determines otherwise.”
 
 
 <a id="section-1881b"></a>
@@ -3166,13 +3444,13 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, this section is repealed.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, this section is repealed.
 
 #### References in Text
 This chapter, referred to in subsecs. (a), (d)(1), and (g), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
 
 #### Effective Date of Repeal
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
 
 
 <a id="section-1881c"></a>
@@ -3271,13 +3549,13 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, this section is repealed.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, this section is repealed.
 
 #### References in Text
 This chapter, referred to in subsec. (a)(2), (3)(B), (C), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
 
 #### Effective Date of Repeal
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
 
 
 <a id="section-1881d"></a>
@@ -3286,28 +3564,72 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
 **(b) Concurrent authorization** If an order authorizing electronic surveillance or physical search has been obtained under section 1805 or 1824 of this title, the Attorney General may authorize, for the effective period of that order, without an order under section 1881b or 1881c of this title, the targeting of that United States person for the purpose of acquiring foreign intelligence information while such person is reasonably believed to be located outside the United States.
 
+**(c) Emergency authorization**
+
+(1) **Concurrent authorization** — If the Attorney General authorized the emergency employment of electronic surveillance or a physical search pursuant to section 1805 or 1824 of this title, the Attorney General may authorize, for the effective period of the emergency authorization and subsequent order pursuant to section 1805 or 1824 of this title, without a separate order under section 1881b or 1881c of this title, the targeting of a United States person subject to such emergency employment for the purpose of acquiring foreign intelligence information while such United States person is reasonably believed to be located outside the United States.
+
+(2) **Use of information** — If an application submitted to the Court pursuant to section 1804 or 1823 of this title is denied, or in any other case in which the acquisition pursuant to paragraph (1) is terminated and no order with respect to the target of the acquisition is issued under section 1805 or 1824 of this title, all information obtained or evidence derived from such acquisition shall be handled in accordance with [section 1881c(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881c/d/4&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, this section is repealed.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, this section is repealed.
+
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–118 added subsec. (c).
 
 #### Effective Date of Repeal
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
 
 
 <a id="section-1881e"></a>
 ## § 1881e. Use of information acquired under this subchapter
-**(a) Information acquired under section 1881a** Information acquired from an acquisition conducted under [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a) shall be deemed to be information acquired from an electronic surveillance pursuant to subchapter I for purposes of [section 1806 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1806), except for the purposes of subsection (j) of such section.
+**(a) Information acquired under section 1881a**
+
+(1) **In general** — Information acquired from an acquisition conducted under [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a) shall be deemed to be information acquired from an electronic surveillance pursuant to subchapter I for purposes of [section 1806 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1806), except for the purposes of subsection (j) of such section.
+
+(2) **United States persons**
+
+  (A) *In general* — Any information concerning a United States person acquired under [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a) shall not be used in evidence against that United States person pursuant to paragraph (1) in any criminal proceeding unless—
+
+    (i) the Federal Bureau of Investigation obtained an order of the Foreign Intelligence Surveillance Court to access such information pursuant to [section 1881a(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/f/2&num=0&edition=prelim); or
+
+    (ii) the Attorney General determines that—
+
+      (I) the criminal proceeding affects, involves, or is related to the national security of the United States; or
+
+      (II) the criminal proceeding involves—
+
+        (aa) death;
+
+        (bb) kidnapping;
+
+        (cc) serious bodily injury, as defined in [section 1365 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1365&num=0&edition=prelim);
+
+        (dd) conduct that constitutes a criminal offense that is a specified offense against a minor, as defined in [section 20911 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20911&num=0&edition=prelim);
+
+        (ee) incapacitation or destruction of critical infrastructure, as defined in [section 5195c(e) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c/e&num=0&edition=prelim);
+
+        (ff) cybersecurity, including conduct described in [section 5195c(e) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c/e&num=0&edition=prelim) or section 1029, 1030, or 2511 of title 18;
+
+        (gg) transnational crime, including transnational narcotics trafficking and transnational organized crime; or
+
+        (hh) human trafficking.
+
+  (B) *No judicial review* — A determination by the Attorney General under subparagraph (A)(ii) is not subject to judicial review.
 
 **(b) Information acquired under section 1881b** Information acquired from an acquisition conducted under [section 1881b of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881b) shall be deemed to be information acquired from an electronic surveillance pursuant to subchapter I for purposes of [section 1806 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1806).
 
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, this section is repealed.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, this section is repealed.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–118 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 #### Effective Date of Repeal
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
 
 
 <a id="section-1881f"></a>
@@ -3318,23 +3640,23 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 
 (1) with respect to [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a)—
 
-  (A) any certifications submitted in accordance with [section 1881a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/g&num=0&edition=prelim) during the reporting period;
+  (A) any certifications submitted in accordance with [section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim) during the reporting period;
 
   (B) with respect to each determination under [section 1881a(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/c/2&num=0&edition=prelim), the reasons for exercising the authority under such section;
 
-  (C) any directives issued under [section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim) during the reporting period;
+  (C) any directives issued under [section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim) during the reporting period;
 
   (D) a description of the judicial review during the reporting period of such certifications and targeting and minimization procedures adopted in accordance with subsections (d) and (e) of [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a) and utilized with respect to an acquisition under such section, including a copy of an order or pleading in connection with such review that contains a significant legal interpretation of the provisions of [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a);
 
-  (E) any actions taken to challenge or enforce a directive under paragraph (4) or (5) of [section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim);
+  (E) any actions taken to challenge or enforce a directive under paragraph (4) or (5) of [section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim);
 
   (F) any compliance reviews conducted by the Attorney General or the Director of National Intelligence of acquisitions authorized under [section 1881a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/a&num=0&edition=prelim);
 
   (G) a description of any incidents of noncompliance—
 
-    (i) with a directive issued by the Attorney General and the Director of National Intelligence under [section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim), including incidents of noncompliance by a specified person to whom the Attorney General and Director of National Intelligence issued a directive under [section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim); and
+    (i) with a directive issued by the Attorney General and the Director of National Intelligence under [section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim), including incidents of noncompliance by a specified person to whom the Attorney General and Director of National Intelligence issued a directive under [section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim); and
 
-    (ii) by an element of the intelligence community with procedures and guidelines adopted in accordance with subsections (d), (e), and (f) of [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a); and
+    (ii) by an element of the intelligence community with procedures and guidelines adopted in accordance with subsections (d), (e), (f)(1), and (g) of [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a); and
 
   (H) any procedures implementing [section 1881a of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1881a);
 
@@ -3369,13 +3691,22 @@ Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as ame
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, this section is repealed.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, this section is repealed.
 
 #### References in Text
 Senate Resolution 400 of the 94th Congress, referred to in subsec. (a), was agreed to May 19, 1976, and was subsequently amended by both Senate resolution and public law. The Resolution, which established the Senate Select Committee on Intelligence, is not classified to the Code.
 
+#### Amendments
+2018—Subsec. (b)(1)(A). Pub. L. 115–118, § 101(b)(2)(B), substituted “[section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim)” for “[section 1881a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/g&num=0&edition=prelim)”.
+
+Subsec. (b)(1)(C), (E). Pub. L. 115–118, § 102(b)(2)(A), substituted “[section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim)” for “[section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim)”.
+
+Subsec. (b)(1)(G)(i). Pub. L. 115–118, § 102(b)(2)(A), substituted “[section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim)” for “[section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim)” in two places.
+
+Subsec. (b)(1)(G)(ii). Pub. L. 115–118, § 101(b)(2)(C), substituted “subsections (d), (e), (f)(1), and (g)” for “subsections (d), (e), and (f)”.
+
 #### Effective Date of Repeal
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
 
 
 <a id="section-1881g"></a>
@@ -3386,10 +3717,10 @@ Nothing in this subchapter shall be construed to limit the authority of the Gove
 ### Statutory Notes
 
 #### Repeal of Section
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2017, this section is repealed.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), effective Dec. 31, 2023, this section is repealed.
 
 #### Effective Date of Repeal
-Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2017.
+Pub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801), the repeals made by section 403(b)(1) are effective Dec. 31, 2023.
 
 
 <a id="section-1885"></a>
@@ -3441,7 +3772,7 @@ In this subchapter:
 
     (ii) a certification in writing under section 2511(2)(a)(ii)(B) or 2709(b) of title 18; or
 
-    (iii) a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), or 1881a(h) of this title.
+    (iii) a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), or 1881a(i) of this title.
 
 (9) **State** — The term “State” means any State, political subdivision of a State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States, and includes any officer, public utility commission, or other body authorized to regulate an electronic communication service provider.
 
@@ -3449,6 +3780,11 @@ In this subchapter:
 
 #### References in Text
 [Section 1805b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim), referred to in par. (8)(B)(iii), was repealed by Pub. L. 110–261, title IV, § 403(a)(1)(A), July 10, 2008, 122 Stat. 2473.
+
+#### Amendments
+2018—Par. (7). Pub. L. 115–118, § 205(a)(7), made technical amendment to reference in original act which appears in text as reference to [section 3003(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim).
+
+Par. (8)(B)(iii). Pub. L. 115–118, § 101(b)(2)(A), which directed substitution of “[section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim)” for “[section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim)”, was executed by substituting “1881a(i) of this title” for “1881a(h) of this title” to reflect the probable intent of Congress.
 
 
 <a id="section-1885a"></a>
@@ -3459,7 +3795,7 @@ In this subchapter:
 
 (2) any assistance by that person was provided pursuant to a certification in writing under section 2511(2)(a)(ii)(B) or 2709(b) of title 18;
 
-(3) any assistance by that person was provided pursuant to a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), or 1881a(h) of this title directing such assistance;
+(3) any assistance by that person was provided pursuant to a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), or 1881a(i) of this title directing such assistance;
 
 (4) in the case of a covered civil action, the assistance alleged to have been provided by the electronic communication service provider was—
 
@@ -3505,6 +3841,9 @@ In this subchapter:
 
 #### References in Text
 [Section 1805b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805b&num=0&edition=prelim), referred to in subsec. (a)(3), was repealed by Pub. L. 110–261, title IV, § 403(a)(1)(A), July 10, 2008, 122 Stat. 2473.
+
+#### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–118, which directed substitution of “[section 1881a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/i&num=0&edition=prelim)” for “[section 1881a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881a/h&num=0&edition=prelim)”, was executed by substituting “1881a(i) of this title” for “1881a(h) of this title” to reflect the probable intent of Congress.
 
 
 <a id="section-1885b"></a>

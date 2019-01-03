@@ -16,6 +16,9 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 #### References in Text
 This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, 78pp, and 78qq of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–141, div. S, title IX, § 901, Mar. 23, 2018, 132 Stat. 1143, provided that: “This title [amending [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d)] may be cited as the ‘Small Business Access to Capital After a Natural Disaster Act’.”
+
 #### Short Title of 2016 Amendment
 Pub. L. 114–284, § 1, Dec. 16, 2016, 130 Stat. 1447, provided that: “This Act [enacting [section 78qq of this title](./chapter-2b-securities-exchanges.md#section-78qq) and amending sections 78d and 80c–1 of this title] may be cited as the ‘SEC Small Business Advocate Act of 2016’.”
 
@@ -2421,7 +2424,7 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
   (B) identify areas in which small businesses and small business investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
 
-  (C) identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned and women-owned small businesses;
+  (C) identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters;
 
   (D) analyze the potential impact on small businesses and small business investors of—
 
@@ -2449,7 +2452,7 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
     (ii) information on steps that the Advocate for Small Business Capital Formation has taken during the reporting period to improve small business services and the responsiveness of the Commission and self-regulatory organizations to small business and small business investor concerns;
 
-    (iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned and women-owned small businesses and their investors, during the reporting period;
+    (iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters and their investors, during the reporting period;
 
     (iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
 
@@ -2479,6 +2482,8 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
 #### Amendments
+2018—Subsec. (j)(4)(C), (6)(B)(iii). Pub. L. 115–141 substituted “minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters” for “minority-owned and women-owned small businesses”.
+
 2016—Subsec. (j). Pub. L. 114–284 added subsec. (j).
 
 2010—Subsec. (g). Pub. L. 111–203, § 915, added subsec. (g).
@@ -3396,9 +3401,9 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 ## § 78ee. Transaction fees
 **(a) Recovery of costs of annual appropriation** The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the annual appropriation to the Commission by Congress.
 
-**(b) Exchange-traded securities** Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
+**(b) Exchange-traded securities** Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 11 See Adjustment of Transaction Fee Rate notes below. per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
 
-**(c) Off-exchange trades of exchange registered and last-sale-reported securities** Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
+**(c) Off-exchange trades of exchange registered and last-sale-reported securities** Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 1 per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
 
 **(d) Assessments on security futures transactions** Each national securities exchange and national securities association shall pay to the Commission an assessment equal to $0.009 for each round turn transaction (treated as including one purchase and one sale of a contract of sale for future delivery) on a security future traded on such national securities exchange or by or through any member of such association otherwise than on a national securities exchange, except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction.
 
@@ -3461,9 +3466,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
   (C) a designation of any activities of the Commission for which multi-year budget authority would be suitable.
 
 ### Statutory Notes
-
-#### Adjustment of Fee Amount
-For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Transaction Fee Rate notes below.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–203, § 991(a)(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals, and costs related to such supervision and regulation, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.”
@@ -3549,6 +3551,9 @@ Amendment by Pub. L. 94–29 effective Jan. 1, 1976, see section 31(a) of Pub. L
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
+#### Securities and Exchange Commission Overpayment Credit
+Pub. L. 115–174, title V, § 505, May 24, 2018, 132 Stat. 1362, provided that: “(a) Definitions.—In this section—“(1) the term ‘Commission’ means the Securities and Exchange Commission; “(2) the term ‘national securities association’ means an association that is registered under section 15A of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o–3); and “(3) the term ‘national securities exchange’ means an exchange that is registered as a national securities exchange under section 6 of the Securities Exchange Act of 1934 ([15 U.S.C. 78f](./chapter-2b-securities-exchanges.md#section-78f)). “(b) Credit for Overpayment of Fees.—Notwithstanding section 31(j) of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78ee/j&num=0&edition=prelim)), and subject to subsection (c) of this section, if a national securities exchange or a national securities association has paid fees and assessments to the Commission in an amount that is more than the amount that the exchange or association was required to pay under section 31 of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee](./chapter-2b-securities-exchanges.md#section-78ee)) and, not later than 10 years after the date of such payment, the exchange or association informs the Commission about the payment of such excess amount, the Commission shall offset future fees and assessments due by that exchange or association in an amount that is equal to the difference between the amount that the exchange or association paid and the amount that the exchange or association was required to pay under such section 31. “(c) Applicability.—Subsection (b) shall apply only to fees and assessments that a national securities exchange or a national securities association was required to pay to the Commission before the date of enactment of this Act [May 24, 2018].”
+
 #### Budget of the President
 Pub. L. 111–203, title IX, § 991(d)(2), July 21, 2010, 124 Stat. 1954, provided that: “For fiscal year 2012, and each fiscal year thereafter, the annual budget for the Administration submitted by the President to Congress shall reflect the amendments made by this section [amending this section and sections 77f, 78d, 78m, 78n, and 78kk of this title].”
 
@@ -3559,6 +3564,10 @@ Pub. L. 107–123, § 9, Jan. 16, 2002, 115 Stat. 2400, provided that: “(a) St
 Pub. L. 104–208, div. A, title I, § 101(a) [title V], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: “That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee](./chapter-2b-securities-exchanges.md#section-78ee)), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: Provided further, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997”.
 
 #### Adjustment of Transaction Fee Rate
+By order dated Apr. 17, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $13.00 per $1,000,000, effective May 22, 2018, see 83 F.R. 17577.
+
+By order dated May 31, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $23.10 per $1,000,000, effective July 4, 2017, see 82 F.R. 25895.
+
 By order dated Jan. 7, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $21.80 per $1,000,000, effective Feb. 16, 2016, see 81 F.R. 1458.
 
 By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
@@ -5561,7 +5570,7 @@ Every issuer of a security registered on a national securities exchange shall al
 
 (2) For the purpose of this subsection, a purchase by or for the issuer or any person controlling, controlled by, or under common control with the issuer, or a purchase subject to control of the issuer or any such person, shall be deemed to be a purchase by the issuer. The Commission shall have power to make rules and regulations implementing this paragraph in the public interest and for the protection of investors, including exemptive rules and regulations covering situations in which the Commission deems it unnecessary or inappropriate that a purchase of the type described in this paragraph shall be deemed to be a purchase by the issuer for purposes of some or all of the provisions of paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 [[15 U.S.C. 77f(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim)], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 11 See Adjustment of Registration Fee Rate notes below. per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 [[15 U.S.C. 77f(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim)], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
 
 (4) **Annual adjustment.—** — For each fiscal year, the Commission shall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 [[15 U.S.C. 77f(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim)] for such fiscal year.
 
@@ -5615,7 +5624,7 @@ Every issuer of a security registered on a national securities exchange shall al
 
   (A) For purposes of this subsection the term “institutional investment manager” includes any person, other than a natural person, investing in or buying and selling securities for its own account, and any person exercising investment discretion with respect to the account of any other person.
 
-  (B) The Commission shall adopt such rules as it deems necessary or appropriate to prevent duplicative reporting pursuant to this subsection by two or more institutional investment managers exercising investment discretion with respect to the same amount.11 So in original. Probably should be “account.”
+  (B) The Commission shall adopt such rules as it deems necessary or appropriate to prevent duplicative reporting pursuant to this subsection by two or more institutional investment managers exercising investment discretion with respect to the same amount.22 So in original. Probably should be “account.”
 
 **(g) Statement of equity security ownership**
 
@@ -5707,7 +5716,7 @@ Every issuer of a security registered on a national securities exchange shall al
 
     (ii) With respect to those security-based swaps that are not subject to the mandatory clearing requirement described in [section 78c–3(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/a/1&num=0&edition=prelim), but are cleared at a registered clearing agency, the Commission shall require real-time public reporting for such transactions.
 
-    (iii) With respect to security-based swaps that are not cleared at a registered clearing agency and which are reported to a security-based swap data repository or the Commission under [section 78c–3(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/a/6&num=0&edition=prelim),22 So in original. [Section 78c–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/a&num=0&edition=prelim) does not contain a par. (6). the Commission shall require real-time public reporting for such transactions, in a manner that does not disclose the business transactions and market positions of any person.
+    (iii) With respect to security-based swaps that are not cleared at a registered clearing agency and which are reported to a security-based swap data repository or the Commission under [section 78c–3(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/a/6&num=0&edition=prelim),33 So in original. [Section 78c–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/a&num=0&edition=prelim) does not contain a par. (6). the Commission shall require real-time public reporting for such transactions, in a manner that does not disclose the business transactions and market positions of any person.
 
     (iv) With respect to security-based swaps that are determined to be required to be cleared under [section 78c–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/b&num=0&edition=prelim) but are not cleared, the Commission shall require real-time public reporting for such transactions.
 
@@ -5881,7 +5890,7 @@ Every issuer of a security registered on a national securities exchange shall al
 
     (i) *In general* — The Commission may develop 1 or more additional duties applicable to security-based swap data repositories.
 
-    (ii) *Consideration of evolving standards* — In developing additional duties under subparagraph (A),33 So in original. Probably should be “clause (i),”. the Commission may take into consideration any evolving standard of the United States or the international community.
+    (ii) *Consideration of evolving standards* — In developing additional duties under subparagraph (A),44 So in original. Probably should be “clause (i),”. the Commission may take into consideration any evolving standard of the United States or the international community.
 
     (iii) *Additional duties for Commission designees* — The Commission shall establish additional duties for any registrant described in subsection (m)(2)(C) in order to minimize conflicts of interest, protect data, ensure compliance, and guarantee the safety and security of the security-based swap data repository.
 
@@ -5951,7 +5960,7 @@ Every issuer of a security registered on a national securities exchange shall al
 
   (E) the term “interactive data format” means an electronic data format in which pieces of information are identified using an interactive data standard; and
 
-  (F) the term “interactive data standard” means 44 So in original. The word “a” probably should appear. standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
+  (F) the term “interactive data standard” means 55 So in original. The word “a” probably should appear. standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
 
 (2) **Disclosure**
 
@@ -6186,6 +6195,9 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
+#### Improving Access to Capital
+Pub. L. 115–174, title V, § 508, May 24, 2018, 132 Stat. 1364, provided that: “The Securities and Exchange Commission shall amend— “(1) section 230.251 of title 17, Code of Federal Regulations, to remove the requirement that the issuer not be subject to section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.) [[15 U.S.C. 78m](./chapter-2b-securities-exchanges.md#section-78m), 78o(d)] immediately before the offering; and “(2) section 230.257 of title 17, Code of Federal Regulations, with respect to an offering described in section 230.251(a)(2) of title 17, Code of Federal Regulations, to deem any issuer that is subject to section 13 or 15(d) of the Securities Exchange Act of 1934 as having met the periodic and current reporting requirements of section 230.257 of title 17, Code of Federal Regulations, if such issuer meets the reporting requirements of section 13 of the Securities Exchange Act of 1934.”
+
 #### Summary Page for Form 10–K
 Pub. L. 114–94, div. G, title LXXII, § 72001, Dec. 4, 2015, 129 Stat. 1784, provided that: “Not later than the end of the 180-day period beginning on the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates.”
 
@@ -6197,6 +6209,21 @@ Pub. L. 111–203, title XV, § 1502, July 21, 2010, 124 Stat. 2213, as amended 
 
 #### Consultation
 Pub. L. 106–102, title II, § 241, Nov. 12, 1999, 113 Stat. 1407, provided that: “(a) In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve. “(b) Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)].”
+
+#### Adjustment of Registration Fee Rate
+By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
+
+By order dated Aug. 30, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $115.90 per $1,000,000, effective Oct. 1, 2016, see 81 F.R. 61283.
+
+By order dated Aug. 26, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $100.70 per $1,000,000, effective Oct. 1, 2015, see 80 F.R. 52824.
+
+By order dated Aug. 29, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $116.20 per $1,000,000, effective Oct. 1, 2014, see 79 F.R. 52771.
+
+By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $128.80 per $1,000,000, effective Oct. 1, 2013, see 78 F.R. 54934.
+
+By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
+
+By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
 
 #### Assignment of Function Relating to Granting of Authority for Issuance of Certain Directives
 Memorandum of President of the United States, May 5, 2006, 71 F.R. 27943, provided:
@@ -6426,15 +6453,15 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 
   (A) At the time of filing such preliminary proxy solicitation material as the Commission may require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of a company, the person making such filing, other than a company registered under the Investment Company Act of 1940 [[15 U.S.C. 80a–1](./chapter-2d-investment-companies-and-advisers.md#section-80a-1) et seq.], shall pay to the Commission the following fees:
 
-    (i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
+    (i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraph (4), is equal to $92 11 See Adjustment of Registration Fee Rate notes below. per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
 
-    (ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
+    (ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraph (4), is equal to $92 1 per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
 
   (B) The fee imposed under subparagraph (A) shall be reduced with respect to securities in an amount equal to any fee paid to the Commission with respect to such securities in connection with the proposed transaction under [section 77f(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection. Where two or more companies involved in an acquisition, merger, consolidation, sale, or other disposition of substantially all the assets of a company must file such proxy material with the Commission, each shall pay a proportionate share of such fee.
 
 (2) At the time of filing such preliminary information statement as the Commission may require by rule pursuant to subsection (c) of this section, the issuer shall pay to the Commission the same fee as required for preliminary proxy solicitation material under paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 ([15 U.S.C. 77f(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 1 per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 ([15 U.S.C. 77f(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
 
 (4) **Annual adjustment.—** — For each fiscal year, the Commission shall by order adjust the rate required by paragraphs (1) and (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 ([15 U.S.C. 77f(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim)) for such fiscal year.
 
@@ -6637,6 +6664,21 @@ Pub. L. 104–290, title V, § 510(b), Oct. 11, 1996, 110 Stat. 3450, provided t
 
 #### Evaluation of Fairness Opinion Preparation, Disclosure, and Use
 Pub. L. 103–202, title III, § 302(c), Dec. 17, 1993, 107 Stat. 2363, provided that: “(1) Evaluation required.—The Comptroller General of the United States shall, within 18 months after the date of enactment of this Act [Dec. 17, 1993], conduct a study of—“(A) the use of fairness opinions in limited partnership rollup transactions; “(B) the standards which preparers use in making determinations of fairness; “(C) the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers; “(D) the nature and quality of disclosures provided with respect to such opinions; “(E) any conflicts of interest with respect to the preparation of such opinions; and “(F) the usefulness of such opinions to limited partners. “(2) Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1).”
+
+#### Adjustment of Registration Fee Rate
+By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
+
+By order dated Aug. 30, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $115.90 per $1,000,000, effective Oct. 1, 2016, see 81 F.R. 61283.
+
+By order dated Aug. 26, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $100.70 per $1,000,000, effective Oct. 1, 2015, see 80 F.R. 52824.
+
+By order dated Aug. 29, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $116.20 per $1,000,000, effective Oct. 1, 2014, see 79 F.R. 52771.
+
+By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $128.80 per $1,000,000, effective Oct. 1, 2013, see 78 F.R. 54934.
+
+By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
+
+By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
 
 
 <a id="section-78nn"></a>

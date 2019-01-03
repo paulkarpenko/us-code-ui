@@ -738,7 +738,7 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
 (2) any contract under which exports of unprocessed timber were permitted pursuant to an order of the Secretary of Commerce in effect under this section before October 23, 1992.
 
-**(f) Western red cedar** Nothing in this section shall be construed to supersede [section 4606(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606/i&num=0&edition=prelim).
+**(f) Western red cedar** Nothing in this section shall be construed to supersede section 4606(i) 11 See References in Text note below. of title 50.
 
 **(g) Presidential authority** The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term “World Trade Organization” is defined in [section 3501(8) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/8&num=0&edition=prelim)), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
 
@@ -753,6 +753,9 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 **(l) Existing authority not affected** Nothing in sections 620 to 620j of this title shall be construed to limit the authority of the President or the United States Trade Representative to take action authorized by law to respond appropriately to any measures taken by a foreign government in connection with sections 620 to 620j of this title.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 4606(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606/i&num=0&edition=prelim), referred to in subsec. (f), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
 1999—Subsec. (g). Pub. L. 106–36 substituted “Dispute Settlement Body of the World Trade Organization (as the term ‘World Trade Organization’ is defined in [section 3501(8) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/8&num=0&edition=prelim))” for “Contracting Parties to the General Agreement on Tariffs and Trade”.
@@ -1124,4 +1127,9 @@ Nothing in sections 620 to 620j of this title shall be construed to—
 (1) prejudice the outcome of pending or prospective petitions filed under, or
 
 (2) warrant the exercise of the authority contained in,
-section 7 of the Export Administration Act of 1979 [[50 U.S.C. 4606](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606&num=0&edition=prelim)] with respect to the export of unprocessed timber.
+section 7 11 See References in Text note below. of the Export Administration Act of 1979 with respect to the export of unprocessed timber.
+
+### Statutory Notes
+
+#### References in Text
+Section 7 of the Export Administration Act of 1979, referred to in text, is section 7 of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 515, which was classified to [section 4606 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606&num=0&edition=prelim), War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.

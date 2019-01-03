@@ -492,7 +492,7 @@ The Philippine War Damage Commission established by section 101 of act Apr. 30, 
 <a id="section-4107"></a>
 ## § 4107. Reports to Congress
 
-Not later than six months after its organization, and every six months thereafter, the Commission shall make a report to the Congress concerning its operations under this subchapter.
+Not later than six months after its organization, and every six months 11 See Modification of Reporting Requirements note below. thereafter, the Commission shall make a report to the Congress concerning its operations under this subchapter.
 
 ### Statutory Notes
 
@@ -512,6 +512,9 @@ Section was formerly classified to section 2008 of the former Appendix to this t
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, [section 4101 of this title](./chapter-051-war-claims.md#section-4101) and notes thereunder.
+
+#### Modification of Reporting Requirements
+Pub. L. 89–348, § 2(6), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of this section as follows: “Beginning January 1, 1967, from semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the War Claims Act of 1948 (62 Stat. 1246; 50 U.S.C. App. 2008 [now [50 U.S.C. 4107](./chapter-051-war-claims.md#section-4107)]).”
 
 
 <a id="section-4108"></a>

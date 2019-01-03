@@ -2,7 +2,7 @@
 title: 46
 chapter: '45'
 heading: UNINSPECTED COMMERCIAL FISHING INDUSTRY VESSELS
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -53,7 +53,7 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
   (A) alerting and locating equipment, including emergency position indicating radio beacons;
 
-  (B) a survival craft that ensures that no part of an individual is immersed in water sufficient to accommodate all individuals on board;
+  (B) subject to paragraph (3), a survival craft that ensures that no part of an individual is immersed in water sufficient to accommodate all individuals on board;
 
   (C) at least one readily accessible immersion suit for each individual on board that vessel when operating on the waters described in [section 3102 of this title](./chapter-031-general.md#section-3102);
 
@@ -64,6 +64,14 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
   (F) first aid equipment and medical supplies sufficient for the size and area of operation of the vessel; and
 
   (G) ground tackle sufficient for the vessel.
+
+(3) Except for a nonapplicable vessel, an auxiliary craft shall satisfy the equipment requirement under paragraph (2)(B) if such craft is—
+
+  (A) necessary for normal fishing operations;
+
+  (B) readily accessible during an emergency; and
+
+  (C) capable, in accordance with the Coast Guard capacity rating, when applicable, of safely holding all individuals on board the vessel to which the craft functions as an auxiliary.
 
 **(c)**
 
@@ -111,9 +119,9 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (1) shall require the individual in charge of a vessel described in subsection (b) to keep a record of equipment maintenance, and required instruction and drills;
 
-(2) shall examine at dockside a vessel described in subsection (b) at least once every 5 years, and shall issue a certificate of compliance to a vessel meeting the requirements of this chapter; and
+(2) shall examine at dockside a vessel described in subsection (b) at least once every 5 years, but may require an exam at dockside every 2 years for certain vessels described in subsection (b) if requested by the owner or operator; and
 
-(3) shall complete the first dockside examination of a vessel under this subsection not later than October 15, 2015.
+(3) shall issue a certificate of compliance to a vessel meeting the requirements of this chapter and satisfying the requirements in paragraph (2).
 
 **(g)**
 
@@ -143,7 +151,7 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 **(i)**
 
-(1) The Secretary shall establish a Fishing Safety Training Grants Program to provide funding to municipalities, port authorities, other appropriate public entities, not-for-profit organizations, and other qualified persons that provide commercial fishing safety training—
+(1) The Secretary of Health and Human Services shall establish a Fishing Safety Training Grants Program to provide funding to municipalities, port authorities, other appropriate public entities, not-for-profit organizations, and other qualified persons that provide commercial fishing safety training—
 
   (A) to conduct fishing vessel safety training for vessel operators and crewmembers that—
 
@@ -153,25 +161,55 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
   (B) for purchase of safety equipment and training aids for use in those fishing vessel safety training programs.
 
-(2) The Secretary shall award grants under this subsection on a competitive basis.
+(2) The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard 11 So in original. Probably should be followed by a comma. shall award grants under this subsection on a competitive basis.
 
-(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
+(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 50 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2015 through 2017 for grants under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2019 for grants under this subsection.
 
 **(j)**
 
-(1) The Secretary shall establish a Fishing Safety Research Grant Program to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in fishing safety, to conduct research on methods of improving the safety of the commercial fishing industry, including vessel design, emergency and survival equipment, enhancement of vessel monitoring systems, communications devices, de-icing technology, and severe weather detection.
+(1) The Secretary of Health and Human Services shall establish a Fishing Safety Research Grant Program to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in fishing safety, to conduct research on methods of improving the safety of the commercial fishing industry, including vessel design, emergency and survival equipment, enhancement of vessel monitoring systems, communications devices, de-icing technology, and severe weather detection.
 
-(2) The Secretary shall award grants under this subsection on a competitive basis.
+(2) The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard, shall award grants under this subsection on a competitive basis.
 
-(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
+(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 50 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each fiscal years 2015 through 2017 for activities under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2019 for activities under this subsection.
+
+**(k)** For the purposes of this section, the term “auxiliary craft” means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(2)(B). Pub. L. 115–282, § 504(1), substituted “subject to paragraph (3), a survival craft” for “a survival craft”.
+
+Subsec. (b)(3). Pub. L. 115–282, § 504(2), added par. (3).
+
+Subsec. (f)(2), (3). Pub. L. 115–282, § 505, added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+
+“(2) shall examine at dockside a vessel described in subsection (b) at least once every 5 years, and shall issue a certificate of compliance to a vessel meeting the requirements of this chapter; and
+
+“(3) shall complete the first dockside examination of a vessel under this subsection not later than October 15, 2015.”
+
+Subsec. (i)(1). Pub. L. 115–282, § 506(1), substituted “Secretary of Health and Human Services” for “Secretary” in introductory provisions.
+
+Subsec. (i)(2). Pub. L. 115–282, § 506(1), (2), substituted “Secretary of Health and Human Services” for “Secretary” and inserted “, in consultation with and based on criteria established by the Commandant of the Coast Guard” before “shall award”.
+
+Subsec. (i)(3). Pub. L. 115–282, § 506(3), substituted “50” for “75”.
+
+Subsec. (i)(4). Pub. L. 115–282, § 506(4), substituted “$3,000,000 for each of fiscal years 2018 through 2019” for “$3,000,000 for each of fiscal years 2015 through 2017”.
+
+Subsec. (j)(1). Pub. L. 115–282, § 506(1), substituted “Secretary of Health and Human Services” for “Secretary”.
+
+Subsec. (j)(2). Pub. L. 115–282, § 506(1), (5), substituted “Secretary of Health and Human Services” for “Secretary” and inserted “, in consultation with and based on criteria established by the Commandant of the Coast Guard,” before “shall award”.
+
+Subsec. (j)(3). Pub. L. 115–282, § 506(6), substituted “50” for “75”.
+
+Subsec. (j)(4). Pub. L. 115–282, § 506(7), substituted “$3,000,000 for each of fiscal years 2018 through 2019” for “$3,000,000 for each fiscal years 2015 through 2017”.
+
+Subsec. (k). Pub. L. 115–282, § 504(3), added subsec. (k).
+
 2014—Subsec. (i)(4). Pub. L. 113–281, § 309(a), substituted “2015 through 2017” for “2010 through 2014”.
 
 Subsec. (j)(4). Pub. L. 113–281, § 309(b), substituted “2015 through 2017” for “2010 through 2014”.
@@ -251,10 +289,13 @@ Subsec. (f). Pub. L. 101–595, § 602(c)(2), amended subsec. (f) generally. Pri
 #### Effective Date of 1990 Amendment
 Pub. L. 101–595, title VI, § 602(f), Nov. 16, 1990, 104 Stat. 2992, provided that: “This section [amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under [section 7306 of this title](./chapter-073-merchant-mariners-documents.md#section-7306)] is effective on the date of enactment of this section [Nov. 16, 1990] except as follows: “(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act. “(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does not apply to a fish tender vessel engaged in the Aleutian trade, if the vessel—“(A)(i) before September 8, 1990, operated in that trade; or “(ii) before September 8, 1990, was purchased to be used in that trade and, before June 1, 1992, entered into service in that trade; and “(B) does not undergo a major conversion. “(3) Before January 1, 2003, a fish tender vessel is exempt from chapter 51 of title 46, United States Code, (as amended by subsection (d) of this section) when engaged in the Aleutian trade, if the vessel—“(A)(i) before September 8, 1990, operated in that trade; or “(ii) before September 8, 1990, was purchased to be used in this trade and, before June 1, 1992, entered into service in that trade; “(B) does not undergo a major conversion; and “(C) did not have a load line assigned at any time before the date of enactment of this Act. “(4) The requirements imposed by [section 8702(b)(2) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section8702/b/2&num=0&edition=prelim), United States Code, (as amended by subsection (e)(2)(B) of this section) are effective 1 year after the date of enactment of this Act.”
 
+#### Commercial Fishing Vessel Safety National Communications Plan
+Pub. L. 115–282, title VIII, § 830, Dec. 4, 2018, 132 Stat. 4315, provided that: “(a) Requirement for Plan.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall develop and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a national communications plan for the purposes of—“(1) disseminating information to the commercial fishing vessel industry; “(2) conducting outreach with the commercial fishing vessel industry; “(3) facilitating interaction with the commercial fishing vessel industry; and “(4) releasing information collected under [section 15102 of title 46](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15102), United States Code, as added by this Act, to the commercial fishing vessel industry. “(b) Content.—The plan required by subsection (a), and each annual update, shall—“(1) identify staff, resources, and systems available to the Secretary to ensure the widest dissemination of information to the commercial fishing vessel industry; “(2) include a means to document all communication and outreach conducted with the commercial fishing vessel industry; and “(3) include a mechanism to measure effectiveness of such plan. “(c) Implementation.—Not later than one year after submission of the initial plan, the Secretary of the department in which the Coast Guard is operating shall implement the plan and shall at a minimum—“(1) leverage Coast Guard staff, resources, and systems available; “(2) monitor implementation nationwide to ensure adherence to plan contents; “(3) allow each Captain of the Port to adopt the most effective strategy and means to communicate with [the] commercial fishing vessel industry in that Captain of the Port Zone; “(4) document communication and outreach; and “(5) solicit feedback from the commercial fishing vessel industry. “(d) Report and Updates.—The Secretary of the department in which the Coast Guard is operating shall—“(1) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the effectiveness of the plan to date and any updates to ensure maximum impact of the plan one year after the date of enactment of this Act [Dec. 4, 2018], and every 4 years thereafter; and “(2) include in such report input from individual Captains of the Port and any feedback received from the commercial fishing vessel industry.”
+
 #### Studies Regarding Safety of Fishing Vessels
 Pub. L. 100–424, § 5(a), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of Transportation, utilizing National Academy of Engineering and in consultation with National Transportation Safety Board, Commercial Fishing Industry Vessel Advisory Committee, and fishing industry, to conduct a study of safety problems on fishing industry vessels, and to make recommendations regarding whether a vessel inspection program could be implemented for fishing vessels, fish tender vessels, and fish processing vessels, including recommendations on nature and scope of that inspection, and further provided for submission of the study and recommendations to Congress before Jan. 1, 1990.
 
-Pub. L. 100–424, § 5(b), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under [section 4508 of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4508), and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
+Pub. L. 100–424, § 5(b), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under former [section 4508 of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4508), and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
 
 #### Territorial Sea of United States
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
@@ -268,7 +309,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (2) has on board a certificate issued by the American Bureau of Shipping or that other organization evidencing compliance with this subsection.
 
-**(b)** Except as provided in subsection (d), subsection (a) applies to a fish processing vessel to which this chapter applies that—
+**(b)** Except as provided in section 4503a, subsection (a) applies to a fish processing vessel to which this chapter applies that—
 
 (1) is built after July 27, 1990; or
 
@@ -280,7 +321,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (2) Subsection (a) does not apply to a fishing vessel or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies, if the vessel—
 
-  (A) is at least 50 feet overall in length, and not more than 79 feet overall in length as listed on the vessel’s certificate of documentation or certificate of number; and
+  (A) is at least 50 feet overall in length, and not more than 180 feet overall in length as listed on the vessel’s certificate of documentation or certificate of number; and
 
   (B)
 
@@ -288,33 +329,11 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
     (ii) complies with—
 
-      (I) the requirements described in subsection (e); or
+      (I) the requirements described in subsection (d); or
 
-      (II) the alternative requirements established by the Secretary under subsection (f).
+      (II) the alternative requirements established by the Secretary under subsection (e).
 
-**(d)**
-
-(1) After January 1, 2020, a fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies shall comply with an alternate safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary, if the vessel—
-
-  (A) is at least 50 feet overall in length;
-
-  (B) is built before July 1, 2013; and
-
-  (C) is 25 years of age or older.
-
-(2) A fishing vessel, fish processing vessel, or fish tender vessel built before July 1, 2013, that undergoes a major conversion completed after the later of July 1, 2013, or the date the Secretary establishes standards for an alternate safety compliance program, shall comply with such an alternative safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary.
-
-(3) Alternative safety compliance programs may be developed for purposes of paragraph (1) for specific regions and fisheries.
-
-(4) Notwithstanding paragraph (1), vessels owned by a person that owns more than 30 vessels subject to that paragraph are not required to meet the alternate safety compliance requirements of that paragraph until January 1, 2030, if that owner enters into a compliance agreement with the Secretary that provides for a fixed schedule for all of the vessels owned by that person to meet requirements of that paragraph by that date and the vessel owner is meeting that schedule.
-
-(5) A fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies that was classed before July 1, 2012, shall—
-
-  (A) remain subject to the requirements of a classification society approved by the Secretary; and
-
-  (B) have on board a certificate from that society.
-
-**(e)** The requirements referred to in subsection (c)(2)(B)(ii)(I) are the following:
+**(d)** The requirements referred to in subsection (c)(2)(B)(ii)(I) are the following:
 
 (1) The vessel is designed by an individual licensed by a State as a naval architect or marine engineer, and the design incorporates standards equivalent to those prescribed by a classification society to which the Secretary has delegated authority under section 3316 or another qualified organization approved by the Secretary for purposes of this paragraph.
 
@@ -338,11 +357,11 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (8) For the life of the vessel, the owner of the vessel maintains records to demonstrate compliance with this subsection and makes such records readily available for inspection by an official authorized to enforce this chapter.
 
-**(f)**
+**(e)**
 
-(1) Not later than 10 years after the date of the enactment of the Coast Guard Authorization Act of 2016, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that provides an analysis of the adequacy of the requirements under subsection (e) in maintaining the safety of the fishing vessels and fish tender vessels which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
+(1) Not later than 10 years after the date of the enactment of the Coast Guard Authorization Act of 2016, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that provides an analysis of the adequacy of the requirements under subsection (d) in maintaining the safety of the fishing vessels and fish tender vessels which are described in subsection (c)(2) and which comply with the requirements of subsection (d).
 
-(2) If the report required under this subsection includes a determination that the safety requirements under subsection (e) are not adequate or that additional safety measures are necessary, then the Secretary may establish an alternative safety compliance program for fishing vessels or fish tender vessels (or both) which are described in subsection (c)(2) and which comply with the requirements of subsection (e).
+(2) If the report required under this subsection includes a determination that the safety requirements under subsection (d) are not adequate or that additional safety measures are necessary, then the Secretary may establish an alternative safety compliance program for fishing vessels or fish tender vessels (or both) which are described in subsection (c)(2) and which comply with the requirements of subsection (d).
 
 (3) The alternative safety compliance program established under this subsection shall include requirements for—
 
@@ -362,18 +381,48 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
   (H) such other aspects of vessel safety as the Secretary considers appropriate.
 
-**(g)** For the purposes of this section, the term “built” means, with respect to a vessel, that the vessel’s construction has reached any of the following stages:
+**(f)**
 
-(1) The vessel’s keel is laid.
+(1) For purposes of this section and section 4503a, the term “built” means, with respect to a vessel, that the vessel’s construction has reached any of the following stages:
 
-(2) Construction identifiable with the vessel has begun and assembly of that vessel has commenced comprising of at least 50 metric tons or one percent of the estimated mass of all structural material, whichever is less.
+  (A) The vessel’s keel is laid.
+
+  (B) Construction identifiable with the vessel has begun and assembly of that vessel has commenced comprising of at least 50 metric tons or one percent of the estimated mass of all structural material, whichever is less.
+
+(2) In the case of a vessel greater than 79 feet overall in length, for purposes of paragraph (1)(A) a keel is deemed to be laid when a marine surveyor affirms that a structure adequate for serving as a keel for such vessel is in place and identified for use in the construction of such vessel.
 
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsecs. (c)(2)(B)(i) and (f)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsecs. (c)(2)(B)(i) and (e)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–282, § 508(b)(2), substituted “section 4503a” for “subsection (d)” in introductory provisions.
+
+Subsec. (c)(2)(A). Pub. L. 115–282, § 507(a), substituted “180” for “79”.
+
+Subsec. (c)(2)(B)(ii)(I). Pub. L. 115–282, § 508(b)(3), substituted “subsection (d)” for “subsection (e)”.
+
+Subsec. (c)(2)(B)(ii)(II). Pub. L. 115–282, § 508(b)(4), substituted “subsection (e)” for “subsection (f)”.
+
+Subsec. (d). Pub. L. 115–282, § 508(b)(1), redesignated subsec. (e) as (d).
+
+Pub. L. 115–282, § 508(a), redesignated and transferred subsec. (d) as [section 4503a of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4503a).
+
+Subsec. (e). Pub. L. 115–282, § 508(b)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(1), (2). Pub. L. 115–282, § 508(b)(5), (6), substituted “subsection (d)” for “subsection (e)” wherever appearing.
+
+Subsec. (f). Pub. L. 115–282, § 508(b)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Pub. L. 115–282, § 507(b), generally amended subsec. (f), as redesignated by Pub. L. 115–282, § 508(b)(1). Prior to amendment, subsec. (f) read as follows: “For the purposes of this section, the term ‘built’ means, with respect to a vessel, that the vessel’s construction has reached any of the following stages:
+
+“(1) The vessel’s keel is laid.
+
+“(2) Construction identifiable with the vessel has begun and assembly of that vessel has commenced comprising of at least 50 metric tons or one percent of the estimated mass of all structural material, whichever is less.”
+
+Subsec. (g). Pub. L. 115–282, § 508(b)(1), redesignated subsec. (g) as (f).
+
 2016—Subsec. (a). Pub. L. 114–120, § 318(a)(1), substituted “this subsection” for “this section” in introductory provisions.
 
 Subsec. (b). Pub. L. 114–120, § 318(a)(2), substituted “Except as provided in subsection (d), subsection (a)” for “This section” in introductory provisions.
@@ -411,10 +460,66 @@ Subsecs. (c), (d). Pub. L. 111–281, § 604(e)(1)(C), added subsecs. (c) and (d
 1984—Pub. L. 98–557 substituted “is deemed” for “shall be deemed”.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 60 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section60&num=0&edition=prelim), Coast Guard.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 315 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section315&num=0&edition=prelim), Coast Guard.
+
+#### Final Rule
+Pub. L. 115–282, title V, § 508(f), Dec. 4, 2018, 132 Stat. 4273, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall issue a final rule implementing the requirements enumerated in [section 4503(d) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim), as amended by subsection (b)(1) of this section.”
+
+
+<a id="section-4503a"></a>
+## § 4503a. Alternate safety compliance program
+**(a)** Subject to subsection (c), beginning on the date that is 3 years after the date that the Secretary prescribes an alternate safety compliance program, a fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies shall comply with such an alternate safety compliance program, if the vessel—
+
+(1) is at least 50 feet overall in length;
+
+(2) is built before July 1, 2013; and
+
+(3) is 25 years of age or older.
+
+**(b)** A fishing vessel, fish processing vessel, or fish tender vessel built before July 1, 2013, that undergoes a major conversion completed after the later of July 1, 2013, or the date the Secretary prescribes an alternate safety compliance program under subsection (a), shall comply with such an alternate safety compliance program.
+
+**(c)** For purposes of subsection (a), a separate alternate safety compliance program may be developed for a specific region or specific fishery.
+
+**(d)** Notwithstanding subsection (a), vessels owned by a person that owns more than 30 vessels subject to that subsection are not required to meet the alternate safety compliance requirements of that subsection until January 1, 2030, if that owner enters into a compliance agreement with the Secretary that provides for a fixed schedule for all of the vessels owned by that person to meet requirements of that subsection by that date and the vessel owner is meeting that schedule.
+
+**(e)** A fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies that was classed before July 1, 2012 is not eligible to participate in an alternative safety compliance program prescribed under subsection (a) and,11 So in original. Comma probably should appear after “2012” instead. See 2018 Amendment note below. shall—
+
+(1) remain subject to the requirements of a classification society approved by the Secretary; and
+
+(2) have on board a certificate from that society.
+
+**(f)** For the purposes of this section, the term “built” has the meaning given that term in section 4503(f).
+
+### Statutory Notes
+
+#### Codification
+Section, as added and amended by Pub. L. 115–282, is based on Pub. L. 111–281, title VI, § 604(e)(1)(C), Oct. 15, 2010, 124 Stat. 2966, as amended by Pub. L. 112–213, title III, § 305(c)(2), Dec. 20, 2012, 126 Stat. 1564, which was formerly classified to [section 4503(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim) before being transferred and renumbered as this section.
+
+#### Amendments
+2018—Pub. L. 115–282, § 508(c)(2), inserted section designation and catchline before subsec. (a).
+
+Pub. L. 115–282, § 508(c)(1), redesignated pars. (1) to (5) as subsecs. (a) to (e), respectively.
+
+Pub. L. 115–282, § 508(a), renumbered [section 4503(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim) as this section.
+
+Subsec. (a). Pub. L. 115–282, § 508(c)(4), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
+
+Pub. L. 115–282, § 508(c)(3), in introductory provisions, substituted “Subject to subsection (c), beginning on the date that is 3 years after the date that the Secretary prescribes an alternate safety compliance program, a fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies shall comply with such an alternate safety compliance program, if” for “After January 1, 2020, a fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies shall comply with an alternate safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary, if”.
+
+Subsec. (b). Pub. L. 115–282, § 508(c)(5), substituted “prescribes an alternate safety compliance program under subsection (a), shall comply with such an alternate safety compliance program” for “establishes standards for an alternate safety compliance program, shall comply with such an alternative safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary”.
+
+Subsec. (c). Pub. L. 115–282, § 508(c)(6), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Alternative safety compliance programs may be developed for purposes of paragraph (1) for specific regions and fisheries.”
+
+Subsec. (d). Pub. L. 115–282, § 508(c)(7), substituted “subsection (a)” for “paragraph (1)” and, wherever appearing, “that subsection” for “that paragraph”.
+
+Subsec. (e). Pub. L. 115–282, § 508(c)(8)(B), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+Pub. L. 115–282, § 508(c)(8)(A), inserted “is not eligible to participate in an alternative safety compliance program prescribed under subsection (a) and” after “July 1, 2012” in introductory provisions.
+
+Subsec. (f). Pub. L. 115–282, § 508(c)(9), added subsec. (f).
 
 #### Alternative Safety Compliance Program
-Pub. L. 111–281, title VI, § 604(f), Oct. 15, 2010, 124 Stat. 2967, provided that: “No later than January 1, 2017, the Secretary of the department in which the Coast Guard is operating shall prescribe an alternative safety compliance program referred to in section 4503(d)(1) of the title 46, United States Code, as amended by this section.”
+Pub. L. 111–281, title VI, § 604(f), Oct. 15, 2010, 124 Stat. 2967, provided that: “No later than January 1, 2017, the Secretary of the department in which the Coast Guard is operating shall prescribe an alternative safety compliance program referred to in section 4503(d)(1) [now [46 U.S.C. 4503a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503a/a&num=0&edition=prelim)] of the [sic] title 46, United States Code, as amended by this section.”
 
 
 <a id="section-4504"></a>
@@ -435,7 +540,12 @@ An official authorized to enforce this chapter—
 
 (1) may direct the individual in charge of a vessel to which this chapter applies to immediately take reasonable steps necessary for the safety of individuals on board the vessel if the official observes the vessel being operated in an unsafe condition that the official believes creates an especially hazardous condition, including ordering the individual in charge to return the vessel to a mooring and to remain there until the situation creating the hazard is corrected or ended; and
 
-(2) may order the individual in charge of an uninspected fish processing vessel that does not have on board the certificate required under section 4503(1) 11 So in original. Probably should be section “4503(a)”. of this title to return the vessel to a mooring and to remain there until the vessel is in compliance with that section.
+(2) may order the individual in charge of an uninspected fish processing vessel that does not have on board the certificate required under [section 4503(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/a/2&num=0&edition=prelim) to return the vessel to a mooring and to remain there until the vessel is in compliance with that section, except that this paragraph shall not apply with respect to a vessel to which section 4503a applies.
+
+### Statutory Notes
+
+#### Amendments
+2018—Par. (2). Pub. L. 115–282 substituted “4503(a)(2)” for “4503(1)” and inserted “, except that this paragraph shall not apply with respect to a vessel to which section 4503a applies” before period at end.
 
 
 <a id="section-4506"></a>
@@ -478,134 +588,8 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 
 <a id="section-4508"></a>
-## § 4508. Commercial Fishing Safety Advisory Committee
-**(a)** The Secretary shall establish a Commercial Fishing Safety Advisory Committee. The Committee—
-
-(1) may advise, consult with, report to, and make recommendations to the Secretary on matters relating to the safe operation of vessels to which this chapter applies, including navigation safety, safety equipment and procedures, marine insurance, vessel design, construction, maintenance and operation, and personnel qualifications and training;
-
-(2) may review proposed regulations under this chapter;
-
-(3) may make available to Congress any information, advice, and recommendations that the Committee is authorized to give to the Secretary; and
-
-(4) shall meet at the call of the Secretary, who shall call such a meeting at least once during each calendar year.
-
-**(b)**
-
-(1) The Committee shall consist of eighteen members with particular expertise, knowledge, and experience regarding the commercial fishing industry as follows:
-
-  (A) ten members who shall represent the commercial fishing industry and who—
-
-    (i) reflect a regional and representational balance; and
-
-    (ii) have experience in the operation of vessels to which this chapter applies or as a crew member or processing line worker on a fish processing vessel;
-
-  (B) three members who shall represent the general public, including, whenever possible—
-
-    (i) an independent expert or consultant in maritime safety;
-
-    (ii) a marine surveyor who provides services to vessels to which this chapter applies; and
-
-    (iii) a person familiar with issues affecting fishing communities and families of fishermen;
-
-  (C) one member each of whom shall represent—
-
-    (i) naval architects and marine engineers;
-
-    (ii) manufacturers of equipment for vessels to which this chapter applies;
-
-    (iii) education or training professionals related to fishing vessel, fish processing vessel, or fish tender vessel safety or personnel qualifications;
-
-    (iv) underwriters that insure vessels to which this chapter applies; and
-
-    (v) owners of vessels to which this chapter applies.
-
-(2) At least once each year, the Secretary shall publish a notice in the Federal Register and in newspapers of general circulation in coastal areas soliciting nominations for membership on the Committee, and, after timely notice is published, appoint the members of the Committee. An individual may be appointed to a term as a member of the Committee more than once. The Secretary may not seek or use information concerning the political affiliation of individuals in making appointments to the Committee.
-
-(3)
-
-  (A) A member of the Committee shall serve a term of three years.
-
-  (B) If a vacancy occurs in the membership of the Committee, the Secretary shall appoint a member to fill the remainder of the vacated term.
-
-(4) The Committee shall elect one of its members as the Chairman and one of its members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
-
-(5) The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. These representatives shall, as appropriate, report to and advise the Committee on matters relating to vessels to which this chapter applies which are under the jurisdiction of their respective agencies. The Secretary’s designated representative shall act as executive secretary for the Committee and perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 App. U.S.C.).
-
-**(c)**
-
-(1) The Secretary shall, whenever practicable, consult with the Committee before taking any significant action relating to the safe operation of vessels to which this chapter applies.
-
-(2) The Secretary shall consider the information, advice, and recommendations of the Committee in consulting with other agencies and the public or in formulating policy regarding the safe operation of vessels to which this chapter applies.
-
-**(d)**
-
-(1) A member of the Committee who is not an officer or employee of the United States or a member of the Armed Forces, when attending meetings of the Committee or when otherwise engaged in the business of the Committee, is entitled to receive—
-
-  (A) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim) including travel time; and
-
-  (B) travel or transportation expenses under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
-
-(2) Payments under this section do not render a member of the Committee an officer or employee of the United States or a member of the Armed Forces for any purpose.
-
-(3) A member of the Committee who is an officer or employee of the United States or a member of the Armed Forces may not receive additional pay based on the member’s service to the Committee.
-
-(4) The provisions of this section relating to an officer or employee of the United States or a member of the Armed Forces do not apply to a member of a reserve component of the Armed Forces unless that member is in an active status.
-
-**(e)**
-
-(1) The Federal Advisory Committee Act (5 App. U.S.C.) applies to the Committee, except that the Committee terminates on September 30, 2020.
-
-(2) Two years prior to the termination date referred to in paragraph (1) of this subsection, the Committee shall submit to Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
+## § 4508. Repealed. Pub. L. 115–282, title VI, § 601(c)(1), Dec. 4, 2018, 132 Stat. 4289]
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsecs. (b)(5) and (e)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Amendments
-2010—Pub. L. 111–281, § 604(c)(1)(A), substituted “Commercial Fishing Safety Advisory Committee” for “Commercial Fishing Industry Vessel Safety Advisory Committee” in section catchline.
-
-Subsec. (a). Pub. L. 111–281, § 604(c)(1)(B), struck out “Industry Vessel” after “Commercial Fishing” in introductory provisions.
-
-Subsec. (b)(1). Pub. L. 111–281, § 604(c)(2)(A), substituted “eighteen” for “seventeen” in introductory provisions.
-
-Subsec. (b)(1)(A). Pub. L. 111–281, § 604(c)(2)(B)(i), substituted “who shall represent the commercial fishing industry and who—” for “from the commercial fishing industry who—” in introductory provisions.
-
-Subsec. (b)(1)(A)(ii). Pub. L. 111–281, § 604(c)(2)(B)(ii), substituted “a fish processing” for “an uninspected fish processing”.
-
-Subsec. (b)(1)(B). Pub. L. 111–281, § 604(c)(2)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “three members from the general public, including, whenever possible, an independent expert or consultant in maritime safety and a member of a national organization composed of persons representing owners of vessels to which this chapter applies and persons representing the marine insurance industry;”.
-
-Subsec. (b)(1)(C). Pub. L. 111–281, § 604(c)(2)(D)(i), substituted “each of whom shall represent—” for “representing each of—” in introductory provisions.
-
-Subsec. (b)(1)(C)(i). Pub. L. 111–281, § 604(c)(2)(D)(ii), substituted “and marine engineers;” for “or marine surveyors;”.
-
-Subsec. (b)(1)(C)(v). Pub. L. 111–281, § 604(c)(2)(D)(iii)–(v), added cl. (v).
-
-Subsec. (e)(1). Pub. L. 111–281, § 604(c)(3), substituted “September 30, 2020” for “September 30, 2010”.
-
-2006—Subsec. (e)(1). Pub. L. 109–241 amended directory language of Pub. L. 108–293, § 418(a). See 2004 Amendment note below.
-
-2004—Subsec. (e)(1). Pub. L. 108–293, § 418(a), as amended by Pub. L. 109–241, substituted “on September 30, 2010” for “on September 30, 2005”.
-
-2002—Pub. L. 107–295, § 331(a)(1), inserted “Safety” after “Vessel” in section catchline.
-
-Subsec. (a). Pub. L. 107–295, § 331(a)(2), inserted “Safety” after “Vessel” in introductory provisions.
-
-Subsec. (e)(1). Pub. L. 107–295, § 331(a)(4), substituted “on September 30, 2005” for “on September 30, 2000”.
-
-Pub. L. 107–295, § 331(a)(3), which directed the substitution of “(5 App. U.S.C.)” for “(5 App. U.S.C. 1 et seq.)”, was executed by making substitution for “(5 U.S.C. App. 1 et seq.)”, to reflect the probable intent of Congress.
-
-1996—Subsec. (e)(1). Pub. L. 104–324 substituted “2000” for “1994”.
-
-1991—Subsec. (e)(1). Pub. L. 102–241 substituted “1994” for “1992”.
-
-1989—Subsec. (b)(2). Pub. L. 101–225 inserted provision that Secretary not seek or use information concerning political affiliation in making appointments.
-
-#### Effective Date of 2006 Amendment
-Pub. L. 109–241, title IX, § 901(g), July 11, 2006, 120 Stat. 564, provided that the amendment made by section 901(g) is effective Aug. 9, 2004.
-
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
-
-#### Initial Appointments to Commercial Fishing Industry Advisory Committee
-Pub. L. 100–424, § 2(b), Sept. 9, 1988, 102 Stat. 1589, provided that: “(1) Terms of initial appointments.—Of the members first appointed to the Commercial Fishing Industry Advisory Committee under [section 4508 of title 46](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4508), United States Code (as amended by this Act)—“(A) one-third of the members shall serve a term of one year and one-third of the members shall serve a term of two years, to be determined by lot at the first meeting of the Committee; and “(B) terms may be adjusted to coincide with the Government’s fiscal year. “(2) Completion of initial appointments.—The Secretary shall complete appointment of members pursuant to this subsection not later than 90 days after the date of the enactment of this Act [Sept. 9, 1988].”
+Section, added Pub. L. 100–424, § 2(a), Sept. 9, 1988, 102 Stat. 1588; amended Pub. L. 101–225, title I, § 106, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 102–241, § 25, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, § 304(b), Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title III, § 331(a), Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, § 418(a), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 109–241, title IX, § 901(g), July 11, 2006, 120 Stat. 564; Pub. L. 111–281, title VI, § 604(c)(1)–(3), Oct. 15, 2010, 124 Stat. 2964, 2965, established the Commercial Fishing Safety Advisory Committee. See [section 15102 of this title](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15102).

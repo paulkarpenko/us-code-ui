@@ -79,6 +79,9 @@ Amendment by Pub. L. 108–3 effective Dec. 31, 2002, see section 2(b) of Pub. L
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under [section 3701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3701&num=0&edition=prelim), Banks and Banking.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 
 <a id="section-4002"></a>
 ## § 4002. Rules and regulations
@@ -209,6 +212,13 @@ This chapter, referred to in subsecs. (d) to (f), was in the original a referenc
 
 #### Effective Date
 Pub. L. 90–448, title XIII, § 1377, Aug. 1, 1968, 82 Stat. 589, provided that: “This title [enacting this chapter, amending [section 2414 of this title](./chapter-025-federal-flood-insurance.md#section-2414), repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section] shall take effect one hundred and twenty days following the date of its enactment [Aug. 1, 1968], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–396, § 1, Dec. 21, 2018, 132 Stat. 5296, provided that: “This Act [amending sections 4016 and 4026 of this title and enacting provisions set out as a note under [section 4016 of this title](./chapter-050-national-flood-insurance.md#section-4016)] may be cited as the ‘National Flood Insurance Program Extension Act’.”
+
+Pub. L. 115–281, § 1, Dec. 1, 2018, 132 Stat. 4191, provided that: “This Act [amending sections 4016 and 4026 of this title] may be cited as the ‘National Flood Insurance Program Further Extension Act of 2018’.”
+
+Pub. L. 115–225, § 1, July 31, 2018, 132 Stat. 1624, provided that: “This Act [amending sections 4016 and 4026 of this title] may be cited as the ‘National Flood Insurance Program Extension Act of 2018’.”
 
 #### Short Title of 2014 Amendment
 Pub. L. 113–89, § 1(a), Mar. 21, 2014, 128 Stat. 1020, provided that: “This Act [enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and [section 2604 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2604&num=0&edition=prelim), Banks and Banking, enacting provisions set out as notes under sections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under [section 4012a of this title](./chapter-050-national-flood-insurance.md#section-4012a)] may be cited as the ‘Homeowner Flood Insurance Affordability Act of 2014’.”
@@ -478,6 +488,9 @@ Subsec. (b). Pub. L. 98–181, § 451(d)(1), substituted “Director” for “S
 #### Effective Date of 1994 Amendment
 Pub. L. 103–325, title V, § 555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: “The provisions of subsection (a) [amending this section] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act [Sept. 23, 1994].”
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -553,6 +566,9 @@ Subsec. (d). Pub. L. 112–141, § 100204(2), added subsec. (d).
 1971—Subsec. (a). Pub. L. 92–213 inserted reference to church properties.
 
 1969—Subsec. (c)(2). Pub. L. 91–152 substituted “December 31, 1971, adequate” for “June 30, 1970, permanent”.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -1000,6 +1016,9 @@ Subsec. (b)(1)(C). Pub. L. 93–234, § 101(c), increased cl. (i) limits to $100
 #### Effective Date of 1988 Amendment
 Pub. L. 100–242, title V, § 544(b), Feb. 5, 1988, 101 Stat. 1942, provided that: “The amendment made by this section [amending this section] shall become effective on the date of the enactment of this Act [Feb. 5, 1988].”
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Savings Provision
 Pub. L. 103–325, title V, § 552(c), Sept. 23, 1994, 108 Stat. 2269, required the Director of the Federal Emergency Management Agency to make payments under flood insurance contracts based on commitments made before the expiration of the 1-year period beginning on Sept. 23, 1994, pursuant to the authority under subsec. (c) of this section or section 552(b) of Pub. L. 103–325, formerly set out below.
 
@@ -1168,6 +1187,9 @@ Subsec. (a)(2). Pub. L. 101–508, § 2302(e)(1)(D), inserted before semicolon �
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–141, div. F, title II, § 100205(a)(2), July 6, 2012, 126 Stat. 918, provided that: “The amendments made by paragraph (1) [amending this section] shall become effective 90 days after the date of enactment of this Act [July 6, 2012].”
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -1381,6 +1403,9 @@ Pub. L. 112–123, § 2(c), May 31, 2012, 126 Stat. 365, provided that: “The f
 #### Construction of Amendment by Pub. L. 112–141
 Pub. L. 112–141, div. F, title II, § 100205(e), July 6, 2012, 126 Stat. 919, provided that: “Nothing in this section [amending this section and [section 4014 of this title](./chapter-050-national-flood-insurance.md#section-4014) and enacting provisions set out as a note under [section 4014 of this title](./chapter-050-national-flood-insurance.md#section-4014)] or the amendments made by this section may be construed to affect the requirement under section 2(c) of the Act entitled ‘An Act to extend the National Flood Insurance Program, and for other purposes’, approved May 31, 2012 (Public Law 112–123) [set out above], that the first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual take effect on July 1, 2012.”
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -1423,7 +1448,7 @@ Section 100230 of the Biggert-Waters Flood Insurance Reform Act of 2012, referre
 
 <a id="section-4020"></a>
 ## § 4020. Financing
-**(a) Authority to issue notes and other obligations** All authority which was vested in the Housing and Home Finance Administrator by virtue of [section 2414(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2414/e&num=0&edition=prelim) (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), and $1,000,000,000 thereafter; except that, through September 30, 2017, clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
+**(a) Authority to issue notes and other obligations** All authority which was vested in the Housing and Home Finance Administrator by virtue of [section 2414(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2414/e&num=0&edition=prelim) (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), and $1,000,000,000 thereafter; except that, through May 31, 2019, clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
 
 **(b) Deposit of borrowed funds** Any funds borrowed by the Administrator under this authority shall, from time to time, be deposited in the National Flood Insurance Fund established under [section 4017 of this title](./chapter-050-national-flood-insurance.md#section-4017).
 
@@ -1451,6 +1476,12 @@ Section 1303 of this Act, referred to in subsec. (a), means section 1303 of Pub.
 This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–396 substituted “May 31, 2019” for “December 7, 2018”.
+
+Pub. L. 115–281 substituted “December 7, 2018” for “November 30, 2018”.
+
+Pub. L. 115–225 substituted “November 30, 2018” for “September 30, 2017”.
+
 2013—Subsec. (a). Pub. L. 113–1 substituted “$30,425,000,000” for “$20,725,000,000”.
 
 2012—Subsec. (a). Pub. L. 112–141, § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
@@ -1506,6 +1537,9 @@ Reference to the Director of the Federal Emergency Management Agency in any law,
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–396, § 2(c), Dec. 21, 2018, 132 Stat. 5296, provided that: “If this Act is enacted after December 7, 2018 [Pub. L. 115–396 enacted on Dec. 21, 2018], the amendments made by subsections (a) and (b) [amending this section and [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026)] shall take effect as if enacted on December 7, 2018.”
+
 #### Effective Date of 2010 Amendment
 Pub. L. 111–196, § 2(c), July 2, 2010, 124 Stat. 1352, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026)] shall be considered to have taken effect on May 31, 2010.”
 
@@ -1517,6 +1551,9 @@ Pub. L. 108–171, § 2(b), Dec. 6, 2003, 117 Stat. 2064, provided that: “The 
 
 Pub. L. 108–3, § 2(b), Jan. 13, 2003, 117 Stat. 7, provided that: “The amendments made by this section [amending this section and sections 4026, 4056, and 4127 of this title] shall be considered to have taken effect on December 31, 2002.”
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -1527,7 +1564,7 @@ Functions vested in Secretary of Housing and Urban Development pursuant to this 
 Functions of Housing and Home Finance Agency and head thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, § 5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to [section 3534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3534/a&num=0&edition=prelim). Section 9(c) of such act, set out as a note under [section 3531 of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3531), provides that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency has lapsed.
 
 #### Extension of Limitation on Financing Provisions
-Subsec. (a) of this section to be applied by substituting “September 30, 2009” for “September 30, 2008”, see section 145 of Pub. L. 110–329, set out as a note under [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026).
+Subsec. (a) of this section to be applied by substituting “July 31, 2018” for “September 30, 2017”, see section 301 of Pub. L. 115–141, set out as a note under [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026).
 
 
 <a id="section-4021"></a>
@@ -1622,6 +1659,9 @@ Subsec. (f). Pub. L. 97–35, § 341(c)(2), added subsec. (f).
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under [section 3701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3701&num=0&edition=prelim), Banks and Banking.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -1737,6 +1777,9 @@ This chapter, referred to in subsec. (b)(2), was in the original a reference to 
 
 1983—Subsecs. (a), (b)(1)(D), (2). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -1775,6 +1818,9 @@ Subsec. (c). Pub. L. 112–141, § 100214, added subsec. (c).
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -1796,6 +1842,9 @@ The Administrator shall from time to time take such action as may be necessary i
 2012—Pub. L. 112–141 substituted “Administrator” for “Director” in introductory provisions.
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” in introductory provisions.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -1942,6 +1991,9 @@ Subsec. (b). Pub. L. 103–325, § 541(2), added subsec. (b).
 
 1969—Pub. L. 91–152 substituted provisions prohibiting new flood insurance coverage after Dec. 31, 1971, unless adequate land use measures have been adopted, for provisions prohibiting such coverage after June 30, 1970, unless permanent land use measures have been adopted.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -1963,6 +2015,9 @@ This chapter, referred to in text, was in the original a reference to “this ti
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -1983,6 +2038,9 @@ This chapter, referred to in text, was in the original a reference to “this ti
 2012—Pub. L. 112–141 substituted “Administrator” for “Director”.
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -2018,6 +2076,9 @@ This chapter, referred to in subsec. (a), was in the original a reference to “
 
 1983—Subsecs. (a), (c). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -2030,7 +2091,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 <a id="section-4029"></a>
 ## § 4029. Expiration of program
 
-No new contract for flood insurance under this chapter shall be entered into after September 30, 2017.
+No new contract for flood insurance under this chapter shall be entered into after May 31, 2019.
 
 ### Statutory Notes
 
@@ -2038,6 +2099,12 @@ No new contract for flood insurance under this chapter shall be entered into aft
 This chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
+2018—Pub. L. 115–396 substituted “May 31, 2019” for “December 7, 2018”.
+
+Pub. L. 115–281 substituted “December 7, 2018” for “November 30, 2018”.
+
+Pub. L. 115–225 substituted “November 30, 2018” for “September 30, 2017”.
+
 2012—Pub. L. 112–141 substituted “September 30, 2017” for “July 31, 2012”.
 
 Pub. L. 112–123 substituted “July 31, 2012” for “the earlier of the date of the enactment into law of an Act that specifically amends the date specified in this section or May 31, 2012”.
@@ -2130,6 +2197,9 @@ Pub. L. 93–38 substituted “$6,000,000,000” for “$4,000,000,000”.
 
 Pub. L. 93–4 substituted “$4,000,000,000” for “$2,500,000,000”.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–396 effective as if enacted on Dec. 7, 2018, see section 2(c) of Pub. L. 115–396, set out as a note under [section 4016 of this title](./chapter-050-national-flood-insurance.md#section-4016).
+
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–196 considered effective on May 31, 2010, see section 2(c) of Pub. L. 111–196, set out as a note under [section 4016 of this title](./chapter-050-national-flood-insurance.md#section-4016).
 
@@ -2147,11 +2217,15 @@ Pub. L. 105–276, title V, § 599D(c), Oct. 21, 1998, 112 Stat. 2663, provided 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under [section 3701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3701&num=0&edition=prelim), Banks and Banking.
 
-#### Extension of Program
-Pub. L. 110–329, div. A, § 145, Sept. 30, 2008, 122 Stat. 3581, as amended by Pub. L. 111–8, div. J, § 101, Mar. 11, 2009, 123 Stat. 988, provided that: “Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim) and 4026) shall each be applied by substituting [‘]September 30, 2009[’] for ‘September 30, 2008’.”
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
-#### Continuing Appropriations for Fiscal Year 1998
-The expiration date of Oct. 23, 1997 (see 1997 Amendment note above) was temporarily extended to Nov. 7, 1997, by Pub. L. 105–64, Oct. 23, 1997, 111 Stat. 1343.
+#### Extension of Program
+Pub. L. 115–141, div. M, title III, § 301, Mar. 23, 2018, 132 Stat. 1049, provided that: “Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim) and 4026) shall be applied by substituting ‘July 31, 2018’ for ‘September 30, 2017’.”
+
+Pub. L. 110–329, div. A, § 145, Sept. 30, 2008, 122 Stat. 3581, as amended by Pub. L. 111–8, div. J, § 101, Mar. 11, 2009, 123 Stat. 988, provided that sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim) and 4026) should each be applied by substituting “September 30, 2009” for “September 30, 2008”.
+
+Pub. L. 105–64, Oct. 23, 1997, 111 Stat. 1343, provided that the provision amended by section 118 of Pub. L. 105–46 (see 1997 Amendment note above) should be applied as if “November 7, 1997” was substituted for “October 23, 1997”.
 
 
 <a id="section-4030"></a>
@@ -2175,6 +2249,9 @@ The Riegle Community Development and Regulatory Improvement Act of 1994, referre
 1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
 
 1980—Pub. L. 96–470 substituted “biennially submit” for “include” and struck out “in the annual report” after “under this chapter” and “required by [section 3536 of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3536)” after “the Congress”.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -2340,6 +2417,9 @@ Pub. L. 98–181, § 451(d)(1), substituted “Director” for “Secretary”.
 
 Subsec. (b). Pub. L. 98–181, § 451(d)(1), substituted “Director” for “Secretary” wherever appearing.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -2455,6 +2535,9 @@ Following such consultation with representatives of the insurance industry as ma
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -2484,6 +2567,9 @@ Subsec. (a)(2). Pub. L. 112–141, § 100232(d)(1), inserted “, including as r
 Subsec. (b). Pub. L. 112–141, § 100238(b)(1), substituted “Administrator” for “Director”.
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -2527,6 +2613,9 @@ Subsec. (c)(2). Pub. L. 112–141, § 100232(d)(2), inserted “or reinsurance�
 
 1983—Subsecs. (a), (b)(3), (c). Pub. L. 98–181 substituted “Director” for “Secretary”.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -2546,6 +2635,9 @@ This chapter, referred to in text, was in the original a reference to “this ti
 #### Amendments
 1983—Pub. L. 98–181 inserted “original exclusive” before “jurisdiction”.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 
 <a id="section-4081"></a>
 ## § 4081. Premium equalization payments; basis; aggregate amount; establishment of designated periods
@@ -2561,6 +2653,9 @@ This chapter, referred to in text, was in the original a reference to “this ti
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
 
 1973—Subsecs. (b), (c). Pub. L. 93–234 redesignated subsec. (c) as (b) and struck out former subsec. (b) prescribing formula for sharing losses between Government and industry and permit necessary flexibility in loss sharing to take into account longer-term loss experience trends and to compensate for lack of precision in actuarial computations.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -2593,6 +2688,9 @@ This chapter, referred to in subsec. (c), was in the original a reference to “
 Subsecs. (b) to (d). Pub. L. 112–141, § 100238(b)(1), substituted “Administrator” for “Director”.
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -2857,6 +2955,9 @@ In the event the program is carried out as provided in [section 4071 of this tit
 
 Pub. L. 98–181, § 451(d)(1), substituted “Director” for “Secretary” wherever appearing.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -2900,6 +3001,9 @@ Subsec. (d). Pub. L. 112–141, § 100245, added subsec. (d).
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under [section 3701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3701&num=0&edition=prelim), Banks and Banking.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -2973,6 +3077,9 @@ Subsecs. (b), (d), (e)(1), (f). Pub. L. 112–141, § 100238(b)(1), substituted 
 
 1983—Subsecs. (a), (b), (d), (e)(1), (f). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -2992,6 +3099,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -3010,6 +3120,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 2012—Pub. L. 112–141 substituted “Administrator” for “Director” wherever appearing.
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -3103,6 +3216,9 @@ Subsecs. (b), (c). Pub. L. 98–181, § 451(d)(1), substituted “Director” fo
 Subsec. (d). Pub. L. 98–181, § 451(d)(7), added subsec. (d).
 
 1973—Pub. L. 93–234 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -3511,6 +3627,9 @@ and he shall work closely with and provide any necessary technical assistance to
 1983—Subsecs. (a), (c). Pub. L. 98–181 substituted “Director” for “Secretary”.
 
 1969—Subsec. (c). Pub. L. 91–152 substituted provisions requiring development of criteria designed to encourage adoption of adequate State and local measures, for provisions requiring development of criteria designed to encourage adoption of permanent State and local measures.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -4206,6 +4325,9 @@ Subsec. (c). Pub. L. 93–234, § 108(b), added subsec. (c).
 
 1969—Pub. L. 91–152 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -4227,6 +4349,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 2012—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs. (a) and (b).
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -4252,6 +4377,9 @@ This chapter, referred to in text, was in the original a reference to “this ti
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
@@ -4271,6 +4399,9 @@ This chapter, referred to in text, was in the original a reference to “this ti
 #### Amendments
 1984—Pub. L. 98–479 substituted “chapter 91 of title 31” for “the Government Corporation Control Act”.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 
 <a id="section-4130"></a>
 ## § 4130. Finality of certain financial transactions
@@ -4287,6 +4418,9 @@ shall be final and conclusive upon all officers of the Government.
 #### References in Text
 This chapter, referred to in par. (1), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
+
 
 <a id="section-4131"></a>
 ## § 4131. Administrative expenses
@@ -4300,3 +4434,6 @@ This chapter, referred to in text, was in the original a reference to “this ti
 
 #### Amendments
 1990—Pub. L. 101–508 substituted “and floodplain management programs authorized under this chapter may be paid with amounts from the National Flood Insurance Fund (as provided under [section 4017(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4017/a/4&num=0&edition=prelim)), subject to approval in appropriations Acts” for “program authorized under this chapter may be paid out of appropriated funds”.
+
+#### Effective Date
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).

@@ -29,13 +29,11 @@ In this chapter—
 
   (G) the Regional Banks for Cooperatives.
 
-  (H) the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 950(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950/a&num=0&edition=prelim)).
+  (H) the Financing Corporation.
 
-  (I) the Financing Corporation.
+  (I) the Resolution Trust Corporation.
 
-  (J) the Resolution Trust Corporation.
-
-  (K) the Resolution Funding Corporation.
+  (J) the Resolution Funding Corporation.
 
 (3) “wholly owned Government corporation” means—
 
@@ -59,23 +57,22 @@ In this chapter—
 
   (J) the Pension Benefit Guaranty Corporation.
 
-  (K) the Rural Telephone Bank until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 950(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950/a&num=0&edition=prelim)).
+  (K) the Saint Lawrence Seaway Development Corporation.
 
-  (L) the Saint Lawrence Seaway Development Corporation.
+  (L) the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
 
-  (M) the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
+  (M) the Tennessee Valley Authority.
 
-  (N) the Tennessee Valley Authority.
+  (N) the Panama Canal Commission.
 
-  (O) Repealed. Pub. L. 104–134, title III, § 3117(a), Apr. 26, 1996, 110 Stat. 1321–350.]
+  (O) the Millennium Challenge Corporation.
 
-  (P) the Panama Canal Commission.
-
-  (Q) the Millennium Challenge Corporation.
-
-  (R) the International Clean Energy Foundation.
+  (P) the International Clean Energy Foundation.
 
 ### Statutory Notes
+
+#### Amendment of Paragraph (3)(H)
+Pub. L. 115–254, div. F, title VI, § 1470(u), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, paragraph (3)(H) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -99,6 +96,16 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 This amends 31:9101(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(1) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that the Bank would cease being a mixed-ownership Government corporation on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
 
 #### Amendments
+2018—Par. (2)(H) to (K). Pub. L. 115–334, § 6602(b)(19)(A), redesignated subpars. (I) to (K) as (H) to (J), respectively, and struck out former subpar. (H) which read as follows: “the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 950(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950/a&num=0&edition=prelim)).”
+
+Par. (3)(H). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
+Par. (3)(K) to (R). Pub. L. 115–334, § 6602(b)(19)(B), redesignated subpars. (L) to (N) and (P) to (R) as (K) to (P), respectively, and struck out former pars. (K) and (O) which read as follows:
+
+“(K) the Rural Telephone Bank until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 950(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950/a&num=0&edition=prelim)).
+
+“(O) the Uranium Enrichment Corporation.”
+
 2007—Par. (3)(R). Pub. L. 110–140 added subpar. (R).
 
 2004—Par. (3)(Q). Pub. L. 108–199 added subpar. (Q).
@@ -113,7 +120,7 @@ Par. (3)(B). Pub. L. 104–287, § 4(2)(C), substituted a period for the semicol
 
 Par. (3)(N). Pub. L. 104–127, § 722(b)(1), and Pub. L. 104–287, § 4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
 
-Par. (3)(O). Pub. L. 104–134, which directed the amendment of par. (3) of this section by striking out subpar. (N) as added by section 902(b) of Pub. L. 102–486, was executed by striking out subpar. (O), to reflect the probable intent of Congress, because of the redesignation of that subpar. (N) as (O) by section 722(b)(1) of Pub. L. 104–127 and section 4(2)(D) of Pub. L. 104–287. Subpar. (O) read as follows: “the Uranium Enrichment Corporation.”
+Par. (3)(O). Pub. L. 104–134, which directed the amendment of par. (3) of this section by striking out subpar. (N) as added by section 902(b) of Pub. L. 102–486, could not be executed because of the intervening identical amendments of par. (3) by section 722(b)(1) of Pub. L. 104–127 and section 4(2)(D) of Pub. L. 104–287 redesignating that subpar. (N) as (O).
 
 Pub. L. 104–127, § 722(b)(1), and Pub. L. 104–287, § 4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
 
@@ -140,6 +147,9 @@ Par. (3)(E). Pub. L. 101–73, § 307(e), struck out subpar. (E) relating to Fed
 1983—Par. (2)(K). Pub. L. 97–452 struck out subpar. (K) which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
 1982—Par. (2)(K). Pub. L. 97–258, § 2(l)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -478,7 +488,7 @@ Pub. L. 97–258, § 2(l), Sept. 13, 1982, 96 Stat. 1062, provided that the amen
 
 (1) This section does not apply to a mixed-ownership Government corporation when the corporation has no capital of the Government.
 
-(2) Subsections (a) and (b) of this section do not apply to the Rural Telephone Bank (when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 950(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950/a&num=0&edition=prelim))), the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, and the Federal Land Banks. However, the head of each of those banks shall consult with the Secretary before taking action of the kind described in subsection (a) or (b). If agreement is not reached, the Secretary may make a written report to the corporation, the President, and Congress on the reasons for the Secretary’s disagreement.
+(2) Subsections (a) and (b) of this section do not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, and the Federal Land Banks. However, the head of each of those banks shall consult with the Secretary before taking action of the kind described in subsection (a) or (b). If agreement is not reached, the Secretary may make a written report to the corporation, the President, and Congress on the reasons for the Secretary’s disagreement.
 
 ### Statutory Notes
 
@@ -505,6 +515,8 @@ In subsection (d)(2), the words “(when the ownership, control, and operation o
 This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(2) and (3) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that references to the Bank in sections 302 and 303(d)(2d sentence) of the Government Corporation Control Act would be deleted on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
 
 #### Amendments
+2018—Subsec. (d)(2). Pub. L. 115–334 struck out “the Rural Telephone Bank (when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 950(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950/a&num=0&edition=prelim))),” after “do not apply to”.
+
 1983—Subsec. (d)(2). Pub. L. 97–452 struck out “the National Consumer Cooperative Bank,” after “the Regional Banks for Cooperatives,” which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
 1982—Subsec. (d)(2). Pub. L. 97–258, § 2(l)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.

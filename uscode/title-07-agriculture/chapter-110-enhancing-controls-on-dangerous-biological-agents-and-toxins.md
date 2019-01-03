@@ -22,9 +22,15 @@ source: >-
 
       (II) the pathogenicity of the agent or the toxicity of the toxin and the methods by which the agent or toxin is transferred to animals or plants;
 
-      (III) the availability and effectiveness of pharmacotherapies and prophylaxis to treat and prevent any illness caused by the agent or toxin; and
+      (III) the availability and effectiveness of pharmacotherapies and prophylaxis to treat and prevent any illness caused by the agent or toxin;
 
-      (IV) any other criteria that the Secretary considers appropriate to protect animal or plant health, or animal or plant products; and
+      (IV)
+
+        (aa) whether such inclusion would have a substantial negative impact on the research and development of solutions for the animal or plant disease caused by the agent or toxin; and
+
+        (bb) whether the negative impact described in item (aa) would substantially outweigh the risk posed by the agent or toxin to animal or plant health if it is not included on the list; and
+
+      (V) any other criteria that the Secretary considers appropriate to protect animal or plant health, or animal or plant products; and
 
     (ii) consult with appropriate Federal departments and agencies and with scientific experts representing appropriate professional groups.
 
@@ -272,6 +278,8 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 The Plant Protection Act, referred to in subsec. (i)(2), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-104-plant-protection.md#section-7701) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(1)(B)(i)(IV), (V). Pub. L. 115–334 added subcl. (IV) and redesignated former subcl. (IV) as (V).
+
 2002—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
 
 #### Effective Date of 2002 Amendment

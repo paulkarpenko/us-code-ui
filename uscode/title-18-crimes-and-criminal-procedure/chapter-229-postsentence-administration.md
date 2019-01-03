@@ -2,7 +2,7 @@
 title: 18
 chapter: '229'
 heading: POSTSENTENCE ADMINISTRATION
-section_count: 20
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -61,7 +61,7 @@ A probation officer shall—
 
 (8)
 
-  (A) when directed by the court, and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243 or 4246 of this title, and report such person’s conduct and condition to the court ordering release and to the Attorney General or his designee; and
+  (A) when directed by the court, and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243, 4246, or 4248 of this title, and report such person’s conduct and condition to the court ordering release and to the Attorney General or his designee; and
 
   (B) immediately report any violation of the conditions of release to the court and the Attorney General or his designee;
 
@@ -72,6 +72,8 @@ A probation officer shall—
 ### Statutory Notes
 
 #### Amendments
+2018—Par. (8)(A). Pub. L. 115–391 substituted “, 4246, or 4248” for “or 4246”.
+
 1996—Pars. (9), (10). Pub. L. 104–317 added par. (9) and redesignated former par. (9) as (10).
 
 1992—Pars. (8), (9). Pub. L. 102–572 added par. (8) and redesignated former par. (8) as (9).
@@ -393,7 +395,7 @@ Pub. L. 98–473, title II, § 237, Oct. 12, 1984, 98 Stat. 2033, provided that:
 
 **(b) Termination of Liability.—** The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person fined, or upon the death of the individual fined. The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual’s estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability.
 
-**(c) Lien.—** A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, or an order of restitution made pursuant to sections 11 So in original. Probably should be “section”. 2248, 2259, 2264, 2327, 3663, 3663A, or 3664 of this title, is a lien in favor of the United States on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
+**(c) Lien.—** A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, an assessment imposed pursuant to [section 2259A of this title](./chapter-110-sexual-exploitation-and-other-abuse-of-children.md#section-2259a), or an order of restitution made pursuant to sections 11 So in original. Probably should be “section”. 2248, 2259, 2264, 2327, 3663, 3663A, or 3664 of this title, is a lien in favor of the United States on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
 
 **(d) Effect of Filing Notice of Lien.—** Upon filing of a notice of lien in the manner in which a notice of tax lien would be filed under section 6323(f)(1) and (2) of the Internal Revenue Code of 1986, the lien shall be valid against any purchaser, holder of a security interest, mechanic’s lienor or judgment lien creditor, except with respect to properties or transactions specified in subsection (b), (c), or (d) of section 6323 of the Internal Revenue Code of 1986 for which a notice of tax lien properly filed on the same date would not be valid. The notice of lien shall be considered a notice of lien for taxes payable to the United States for the purpose of any State or local law providing for the filing of a notice of a tax lien. A notice of lien that is registered, recorded, docketed, or indexed in accordance with the rules and requirements relating to judgments of the courts of the State where the notice of lien is registered, recorded, docketed, or indexed shall be considered for all purposes as the filing prescribed by this section. The provisions of section 3201(e) of chapter 176 of title 28 shall apply to liens filed as prescribed by this section.
 
@@ -412,6 +414,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(1), (c), and (d),
 For a prior section 3613, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3601 of this title](./chapter-229-postsentence-administration.md#section-3601).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–299 inserted “an assessment imposed pursuant to [section 2259A of this title](./chapter-110-sexual-exploitation-and-other-abuse-of-children.md#section-2259a),” after “pursuant to the provisions of subchapter C of chapter 227 of this title,”.
+
 2016—Subsec. (b). Pub. L. 114–324 inserted at end “The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual’s estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability.”
 
 1996—Pub. L. 104–132 amended section generally, reenacting section catchline without change and substituting, in subsec. (a), provisions relating to enforcement for provisions relating to lien, in subsec. (b), provisions relating to termination of liability for provisions relating to expiration of lien, in subsec. (c), provisions relating to lien for provisions relating to application of other lien provisions, in subsec. (d), provisions relating to effect of filing notice of lien for provisions relating to effect of notice of lien, in subsec. (e), provisions relating to inapplicability of bankruptcy discharges of debt for provisions relating to alternative enforcement, and in subsec. (f), provisions relating to applicability to order of restitution for provisions relating to inapplicability of bankruptcy discharges of debt.
@@ -496,7 +500,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 ## § 3621. Imprisonment of a convicted person
 **(a) Commitment to Custody of Bureau of Prisons.—** A person who has been sentenced to a term of imprisonment pursuant to the provisions of subchapter D of chapter 227 shall be committed to the custody of the Bureau of Prisons until the expiration of the term imposed, or until earlier released for satisfactory behavior pursuant to the provisions of section 3624.
 
-**(b) Place of Imprisonment.—** The Bureau of Prisons shall designate the place of the prisoner’s imprisonment. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau, whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
+**(b) Place of Imprisonment.—** The Bureau of Prisons shall designate the place of the prisoner’s imprisonment, and shall, subject to bed availability, the prisoner’s security designation, the prisoner’s programmatic needs, the prisoner’s mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner’s primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner’s preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner’s primary residence even if the prisoner is already in a facility within 500 driving miles of that residence. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau, whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
 
 (1) the resources of the facility contemplated;
 
@@ -511,7 +515,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
   (B) recommending a type of penal or correctional facility as appropriate; and
 
 (5) any pertinent policy statement issued by the Sentencing Commission pursuant to [section 994(a)(2) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/2&num=0&edition=prelim).
-In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.
+In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person. Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court.
 
 **(c) Delivery of Order of Commitment.—** When a prisoner, pursuant to a court order, is placed in the custody of a person in charge of a penal or correctional facility, a copy of the order shall be delivered to such person as evidence of this authority to hold the prisoner, and the original order, with the return endorsed thereon, shall be returned to the court that issued it.
 
@@ -575,15 +579,96 @@ In designating the place of imprisonment or making transfers under this subsecti
 
 (2) **Definition.—** — In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 
+**(h) Implementation of Risk and Needs Assessment System.—**
+
+(1) **In general.—** — Not later than 180 days after the Attorney General completes and releases the risk and needs assessment system (referred to in this subsection as the “System”) developed under subchapter D, the Director of the Bureau of Prisons shall, in accordance with that subchapter—
+
+  (A) implement and complete the initial intake risk and needs assessment for each prisoner (including for each prisoner who was a prisoner prior to the effective date of this subsection), regardless of the prisoner’s length of imposed term of imprisonment, and begin to assign prisoners to appropriate evidence-based recidivism reduction programs based on that determination;
+
+  (B) begin to expand the effective evidence-based recidivism reduction programs and productive activities it offers and add any new evidence-based recidivism reduction programs and productive activities necessary to effectively implement the System; and
+
+  (C) begin to implement the other risk and needs assessment tools necessary to effectively implement the System over time, while prisoners are participating in and completing the effective evidence-based recidivism reduction programs and productive activities.
+
+(2) **Phase-in.—** — In order to carry out paragraph (1), so that every prisoner has the opportunity to participate in and complete the type and amount of evidence-based recidivism reduction programs or productive activities they need, and be reassessed for recidivism risk as necessary to effectively implement the System, the Bureau of Prisons shall—
+
+  (A) provide such evidence-based recidivism reduction programs and productive activities for all prisoners before the date that is 2 years after the date on which the Bureau of Prisons completes a risk and needs assessment for each prisoner under paragraph (1)(A); and
+
+  (B) develop and validate the risk and needs assessment tool to be used in the reassessments of risk of recidivism, while prisoners are participating in and completing evidence-based recidivism reduction programs and productive activities.
+
+(3) **Priority during phase-in.—** — During the 2-year period described in paragraph (2)(A), the priority for such programs and activities shall be accorded based on a prisoner’s proximity to release date.
+
+(4) **Preliminary expansion of evidence-based recidivism reduction programs and authority to use incentives.—** — Beginning on the date of enactment of this subsection, the Bureau of Prisons may begin to expand any evidence-based recidivism reduction programs and productive activities that exist at a prison as of such date, and may offer to prisoners who successfully participate in such programs and activities the incentives and rewards described in subchapter D.
+
+(5) **Recidivism reduction partnerships.—** — In order to expand evidence-based recidivism reduction programs and productive activities, the Attorney General shall develop policies for the warden of each prison of the Bureau of Prisons to enter into partnerships, subject to the availability of appropriations, with any of the following:
+
+  (A) Nonprofit and other private organizations, including faith-based, art, and community-based organizations that will deliver recidivism reduction programming on a paid or volunteer basis.
+
+  (B) Institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))) that will deliver instruction on a paid or volunteer basis.
+
+  (C) Private entities that will—
+
+    (i) deliver vocational training and certifications;
+
+    (ii) provide equipment to facilitate vocational training or employment opportunities for prisoners;
+
+    (iii) employ prisoners; or
+
+    (iv) assist prisoners in prerelease custody or supervised release in finding employment.
+
+  (D) Industry-sponsored organizations that will deliver workforce development and training, on a paid or volunteer basis.
+
+(6) **Requirement to provide programs to all prisoners; priority.—** — The Director of the Bureau of Prisons shall provide all prisoners with the opportunity to actively participate in evidence-based recidivism reduction programs or productive activities, according to their specific criminogenic needs, throughout their entire term of incarceration. Priority for participation in recidivism reduction programs shall be given to medium-risk and high-risk prisoners, with access to productive activities given to minimum-risk and low-risk prisoners.
+
+(7) **Definitions.—** — The terms in this subsection have the meaning given those terms in section 3635.
+
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–391, title V, § 504(f), Dec. 21, 2018, 132 Stat. 5234, provided that, effective 180 days after Dec. 21, 2018, this section is amended—
+
+(1) by redesignating subsection (g) as subsection (i); and
+
+(2) by inserting after subsection (f) the following:
+
+(g) Partnerships To Expand Access to Reentry Programs Proven To Reduce Recidivism.—
+
+(1) Definition.—The term “demonstrated to reduce recidivism” means that the Director of Bureau of Prisons has determined that appropriate research has been conducted and has validated the effectiveness of the type of program on recidivism.
+
+(2) Eligibility for recidivism reduction partnership.—A faith-based or community-based nonprofit organization that provides mentoring or other programs that have been demonstrated to reduce recidivism is eligible to enter into a recidivism reduction partnership with a prison or community-based facility operated by the Bureau of Prisons.
+
+(3) Recidivism reduction partnerships.—The Director of the Bureau of Prisons shall develop policies to require wardens of prisons and community-based facilities to enter into recidivism reduction partnerships with faith-based and community-based nonprofit organizations that are willing to provide, on a volunteer basis, programs described in paragraph (2).
+
+(4) Reporting requirement.—The Director of the Bureau of Prisons shall submit to Congress an annual report on the last day of each fiscal year that—
+
+(A) details, for each prison and community-based facility for the fiscal year just ended—
+
+(i) the number of recidivism reduction partnerships under this section that were in effect;
+
+(ii) the number of volunteers that provided recidivism reduction programming; and
+
+(iii) the number of recidivism reduction programming hours provided; and
+
+(B) explains any disparities between facilities in the numbers reported under subparagraph (A).
+
 #### References in Text
+The effective date of this subsection, referred to in subsec. (h)(1)(A), probably means the date of enactment of Pub. L. 115–391, which added subsec. (h) of this section and was approved Dec. 21, 2018.
+
+The date of enactment of this subsection, referred to in subsec. (h)(4), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
+
 The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
 
 #### Prior Provisions
 For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3601 of this title](./chapter-229-postsentence-administration.md#section-3601).
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–391, § 601, substituted in introductory provisions “shall designate the place of the prisoner’s imprisonment, and shall, subject to bed availability, the prisoner’s security designation, the prisoner’s programmatic needs, the prisoner’s mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner’s primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner’s preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner’s primary residence even if the prisoner is already in a facility within 500 driving miles of that residence.” for “shall designate the place of the prisoner’s imprisonment.” and inserted at end of concluding provisions “Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court.”
+
+Subsec. (g). Pub. L. 115–391, § 504(f)(1), added subsec. (g) and redesignated former subsec. (g) as (i).
+
+Subsec. (h). Pub. L. 115–391, § 102(a), added subsec. (h).
+
+Subsec. (i). Pub. L. 115–391, § 504(f)(1)(A), redesignated subsec. (g) as (i).
+
 2008—Subsec. (b). Pub. L. 110–199, § 251(b), inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
 
 Subsec. (e)(5)(A). Pub. L. 110–199, § 252, substituted “means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);” for “means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
@@ -620,11 +705,26 @@ Subsec. (e). Pub. L. 103–322, § 32001(2), added subsec. (e).
 
 1990—Subsec. (b). Pub. L. 101–647 inserted at end “The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse.”
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–391, title V, § 504(f)(2), Dec. 21, 2018, 132 Stat. 5234, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect 180 days after the date of enactment of this Act [Dec. 21, 2018].”
+
 #### Effective Date
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Rule of Construction
+Pub. L. 115–391, title I, § 105, Dec. 21, 2018, 132 Stat. 5214, provided that: “Nothing in this Act [see Tables for classification], or the amendments made by this Act, may be construed to provide authority to place a prisoner in prerelease custody or supervised release who is serving a term of imprisonment pursuant to a conviction for an offense under the laws of one of the 50 States, or of a territory or possession of the United States or to amend or affect the enforcement of the immigration laws, as defined in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim)).”
+
 #### Construction of 2008 Amendment
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60504&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+#### GAO Report
+Pub. L. 115–391, title I, § 103, Dec. 21, 2018, 132 Stat. 5213, provided that: “Not later than 2 years after the Director of the Bureau of Prisons implements the risk and needs assessment system under [section 3621 of title 18](./chapter-229-postsentence-administration.md#section-3621), United States Code, and every 2 years thereafter, the Comptroller General of the United States shall conduct an audit of the use of the risk and needs assessment system at Bureau of Prisons facilities. The audit shall include analysis of the following: “(1) Whether inmates are being assessed under the risk and needs assessment system with the frequency required under such [section 3621 of title 18](./chapter-229-postsentence-administration.md#section-3621), United States Code. “(2) Whether the Bureau of Prisons is able to offer recidivism reduction programs and productive activities (as such terms are defined in [section 3635 of title 18](./chapter-229-postsentence-administration.md#section-3635), United States Code, as added by section 101(a) of this Act). “(3) Whether the Bureau of Prisons is offering the type, amount, and intensity of recidivism reduction programs and productive activities for prisoners to earn the maximum amount of time credits for which they are eligible. “(4) Whether the Attorney General is carrying out the duties under [section 3631(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3631/b&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act. “(5) Whether officers and employees of the Bureau of Prisons are receiving the training described in [section 3632(f) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/f&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act. “(6) Whether the Bureau of Prisons offers work assignments to all prisoners who might benefit from such an assignment. “(7) Whether the Bureau of Prisons transfers prisoners to prerelease custody or supervised release as soon as they are eligible for such a transfer under [section 3624(g) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3624/g&num=0&edition=prelim), United States Code, as added by section 102(b) of this Act. “(8) The rates of recidivism among similarly classified prisoners to identify any unwarranted disparities, including disparities among similarly classified prisoners of different demographic groups, in such rates.”
+
+#### Faith-Based Considerations
+Pub. L. 115–391, title I, § 106, Dec. 21, 2018, 132 Stat. 5214, provided that: “(a) In General.—In considering any program, treatment, regimen, group, company, charity, person, or entity of any kind under any provision of this Act [see Tables for classification], or the amendments made by this Act, the fact that it may be or is faith-based may not be a basis for any discrimination against it in any manner or for any purpose. “(b) Eligibility for Earned Time Credit.—Participation in a faith-based program, treatment, or regimen may qualify a prisoner for earned time credit under subchapter D of chapter 229 of title 18, United States Code, as added by section 101(a) of this Act, however, the Director of the Bureau of Prisons shall ensure that non-faith-based programs that qualify for earned time credit are offered at each Bureau of Prisons facility in addition to any such faith-based programs. “(c) Limitation on Activities.—A group, company, charity, person, or entity may not engage in explicitly religious activities using direct financial assistance made available under this title [enacting subchapter D of this chapter, amending this section and [section 3624 of this title](./chapter-229-postsentence-administration.md#section-3624), and enacting provisions set out as notes under this section and sections 3624 and 3631 of this title] or the amendments made by this title. “(d) Rule of Construction.—Nothing in this Act, or the amendments made by this Act, may be construed to amend any requirement under Federal law or the Constitution of the United States regarding funding for faith-based programs or activities.”
+
+#### Evidence-Based Treatment for Opioid and Heroin Abuse
+Pub. L. 115–391, title VI, § 607, Dec. 21, 2018, 132 Stat. 5244, provided that: “(a) Report on Evidence-based Treatment for Opioid and Heroin Abuse.—Not later than 90 days after the date of enactment of this Act [Dec. 21, 2018], the Director of the Bureau of Prisons shall submit to the Committees on the Judiciary and the Committees on Appropriations of the Senate and of the House of Representatives a report assessing the availability of and the capacity of the Bureau of Prisons to treat heroin and opioid abuse through evidence-based programs, including medication-assisted treatment where appropriate. In preparing the report, the Director shall consider medication-assisted treatment as a strategy to assist in treatment where appropriate and not as a replacement for holistic and other drug-free approaches. The report shall include a description of plans to expand access to evidence-based treatment for heroin and opioid abuse for prisoners, including access to medication-assisted treatment in appropriate cases. Following submission, the Director shall take steps to implement these plans. “(b) Report on the Availability of Medication-Assisted Treatment for Opioid and Heroin Abuse, and Implementation Thereof.—Not later than 120 days after the date of enactment of this Act, the Director of the Administrative Office of the United States Courts shall submit to the Committees on the Judiciary and the Committees on Appropriations of the Senate and of the House of Representatives a report assessing the availability of and capacity for the provision of medication-assisted treatment for opioid and heroin abuse by treatment service providers serving prisoners who are serving a term of supervised release, and including a description of plans to expand access to medication-assisted treatment for heroin and opioid abuse whenever appropriate among prisoners under supervised release. Following submission, the Director will take steps to implement these plans.”
 
 
 <a id="section-3622"></a>
@@ -727,7 +827,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 **(b) Credit Toward Service of Sentence for Satisfactory Behavior.—**
 
-(1) Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year 11 So in original. Probably should be followed by a comma. other than a term of imprisonment for the duration of the prisoner’s life, may receive credit toward the service of the prisoner’s sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner’s sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence.
+(1) Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year 11 So in original. Probably should be followed by a comma. other than a term of imprisonment for the duration of the prisoner’s life, may receive credit toward the service of the prisoner’s sentence of up to 54 days for each year of the prisoner’s sentence imposed by the court, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner’s sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment.
 
 (2) Notwithstanding any other law, credit awarded under this subsection after the date of enactment of the Prison Litigation Reform Act shall vest on the date the prisoner is released from custody.
 
@@ -739,15 +839,15 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 (1) **In general.—** — The Director of the Bureau of Prisons shall, to the extent practicable, ensure that a prisoner serving a term of imprisonment spends a portion of the final months of that term (not to exceed 12 months), under conditions that will afford that prisoner a reasonable opportunity to adjust to and prepare for the reentry of that prisoner into the community. Such conditions may include a community correctional facility.
 
-(2) **Home confinement authority.—** — The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months.
+(2) **Home confinement authority.—** — The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months. The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels and lower needs on home confinement for the maximum amount of time permitted under this paragraph.
 
 (3) **Assistance.—** — The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during prerelease custody under this subsection.
 
 (4) **No limitations.—** — Nothing in this subsection shall be construed to limit or restrict the authority of the Director of the Bureau of Prisons under section 3621.
 
-(5) **Reporting.—** — Not later than 1 year after the date of the enactment of the Second Chance Act of 2007 (and every year thereafter), the Director of the Bureau of Prisons shall transmit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report describing the Bureau’s utilization of community corrections facilities. Each report under this paragraph shall set forth the number and percentage of Federal prisoners placed in community corrections facilities during the preceding year, the average length of such placements, trends in such utilization, the reasons some prisoners are not placed in community corrections facilities, and any other information that may be useful to the committees in determining if the Bureau is utilizing community corrections facilities in an effective manner.
+(5) **Reporting.—** — Not later than 1 year after the date of the enactment of the Second Chance Act of 2007 (and every year thereafter), the Director of the Bureau of Prisons shall transmit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report describing the Bureau’s utilization of community corrections facilities. Each report under this paragraph shall set forth the number and percentage of Federal prisoners placed in community corrections facilities during the preceding year, the average length of such placements, trends in such utilization, the reasons some prisoners are not placed in community corrections facilities, and number of prisoners not being placed in community corrections facilities for each reason set forth, and any other information that may be useful to the committees in determining if the Bureau is utilizing community corrections facilities in an effective manner.
 
-(6) **Issuance of regulations.—** — The Director of the Bureau of Prisons shall issue regulations pursuant to this subsection not later than 90 days after the date of the enactment of the Second Chance Act of 2007, which shall ensure that placement in a community correctional facility by the Bureau of Prisons is—
+(6) **Issuance of regulations.—** — The Director of the Bureau of Prisons shall issue regulations pursuant to this subsection not later than 90 days after the date of the enactment of the Second Chance Reauthorization Act of 2018, which shall ensure that placement in a community correctional facility by the Bureau of Prisons is—
 
   (A) conducted in a manner consistent with [section 3621(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3621/b&num=0&edition=prelim);
 
@@ -783,12 +883,100 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 (5) The Chief Executive Officer of each institution shall have authority to grant waivers for good cause as determined and documented on an individual basis.
 
+**(g) Prerelease Custody or Supervised Release for Risk and Needs Assessment System Participants.—**
+
+(1) **Eligible prisoners.—** — This subsection applies in the case of a prisoner (as such term is defined in section 3635) who—
+
+  (A) has earned time credits under the risk and needs assessment system developed under subchapter D (referred to in this subsection as the “System”) in an amount that is equal to the remainder of the prisoner’s imposed term of imprisonment;
+
+  (B) has shown through the periodic risk reassessments a demonstrated recidivism risk reduction or has maintained a minimum or low recidivism risk, during the prisoner’s term of imprisonment;
+
+  (C) has had the remainder of the prisoner’s imposed term of imprisonment computed under applicable law; and
+
+  (D)
+
+    (i) in the case of a prisoner being placed in prerelease custody, the prisoner—
+
+      (I) has been determined under the System to be a minimum or low risk to recidivate pursuant to the last 2 reassessments of the prisoner; or
+
+      (II) has had a petition to be transferred to prerelease custody or supervised release approved by the warden of the prison, after the warden’s determination that—
+
+        (aa) the prisoner would not be a danger to society if transferred to prerelease custody or supervised release;
+
+        (bb) the prisoner has made a good faith effort to lower their recidivism risk through participation in recidivism reduction programs or productive activities; and
+
+        (cc) the prisoner is unlikely to recidivate; or
+
+    (ii) in the case of a prisoner being placed in supervised release, the prisoner has been determined under the System to be a minimum or low risk to recidivate pursuant to the last reassessment of the prisoner.
+
+(2) **Types of prerelease custody.—** — A prisoner shall be placed in prerelease custody as follows:
+
+  (A) *Home confinement.—*
+
+    (i) *In general.—* — A prisoner placed in prerelease custody pursuant to this subsection who is placed in home confinement shall—
+
+      (I) be subject to 24-hour electronic monitoring that enables the prompt identification of the prisoner, location, and time, in the case of any violation of subclause (II);
+
+      (II) remain in the prisoner’s residence, except that the prisoner may leave the prisoner’s home in order to, subject to the approval of the Director of the Bureau of Prisons—
+
+        (aa) perform a job or job-related activities, including an apprenticeship, or participate in job-seeking activities;
+
+        (bb) participate in evidence-based recidivism reduction programming or productive activities assigned by the System, or similar activities;
+
+        (cc) perform community service;
+
+        (dd) participate in crime victim restoration activities;
+
+        (ee) receive medical treatment;
+
+        (ff) attend religious activities; or
+
+        (gg) participate in other family-related activities that facilitate the prisoner’s successful reentry such as a family funeral, a family wedding, or to visit a family member who is seriously ill; and
+
+      (III) comply with such other conditions as the Director determines appropriate.
+
+    (ii) *Alternate means of monitoring.—* — If the electronic monitoring of a prisoner described in clause (i)(I) is infeasible for technical or religious reasons, the Director of the Bureau of Prisons may use alternative means of monitoring a prisoner placed in home confinement that the Director determines are as effective or more effective than the electronic monitoring described in clause (i)(I).
+
+    (iii) *Modifications.—* — The Director of the Bureau of Prisons may modify the conditions described in clause (i) if the Director determines that a compelling reason exists to do so, and that the prisoner has demonstrated exemplary compliance with such conditions.
+
+    (iv) *Duration.—* — Except as provided in paragraph (4), a prisoner who is placed in home confinement shall remain in home confinement until the prisoner has served not less than 85 percent of the prisoner’s imposed term of imprisonment.
+
+  (B) *Residential reentry center.—* — A prisoner placed in prerelease custody pursuant to this subsection who is placed at a residential reentry center shall be subject to such conditions as the Director of the Bureau of Prisons determines appropriate.
+
+(3) **Supervised release.—** — If the sentencing court included as a part of the prisoner’s sentence a requirement that the prisoner be placed on a term of supervised release after imprisonment pursuant to section 3583, the Director of the Bureau of Prisons may transfer the prisoner to begin any such term of supervised release at an earlier date, not to exceed 12 months, based on the application of time credits under section 3632.
+
+(4) **Determination of conditions.—** — In determining appropriate conditions for prisoners placed in prerelease custody pursuant to this subsection, the Director of the Bureau of Prisons shall, to the extent practicable, provide that increasingly less restrictive conditions shall be imposed on prisoners who demonstrate continued compliance with the conditions of such prerelease custody, so as to most effectively prepare such prisoners for reentry.
+
+(5) **Violations of conditions.—** — If a prisoner violates a condition of the prisoner’s prerelease custody, the Director of the Bureau of Prisons may impose such additional conditions on the prisoner’s prerelease custody as the Director of the Bureau of Prisons determines appropriate, or revoke the prisoner’s prerelease custody and require the prisoner to serve the remainder of the term of imprisonment to which the prisoner was sentenced, or any portion thereof, in prison. If the violation is nontechnical in nature, the Director of the Bureau of Prisons shall revoke the prisoner’s prerelease custody.
+
+(6) **Issuance of guidelines.—** — The Attorney General, in consultation with the Assistant Director for the Office of Probation and Pretrial Services, shall issue guidelines for use by the Bureau of Prisons in determining—
+
+  (A) the appropriate type of prerelease custody or supervised release and level of supervision for a prisoner placed on prerelease custody pursuant to this subsection; and
+
+  (B) consequences for a violation of a condition of such prerelease custody by such a prisoner, including a return to prison and a reassessment of evidence-based recidivism risk level under the System.
+
+(7) **Agreements with united states probation and pretrial services.—** — The Director of the Bureau of Prisons shall, to the greatest extent practicable, enter into agreements with United States Probation and Pretrial Services to supervise prisoners placed in home confinement under this subsection. Such agreements shall—
+
+  (A) authorize United States Probation and Pretrial Services to exercise the authority granted to the Director pursuant to paragraphs (3) and (4); and
+
+  (B) take into account the resource requirements of United States Probation and Pretrial Services as a result of the transfer of Bureau of Prisons prisoners to prerelease custody or supervised release.
+
+(8) **Assistance.—** — United States Probation and Pretrial Services shall, to the greatest extent practicable, offer assistance to any prisoner not under its supervision during prerelease custody under this subsection.
+
+(9) **Mentoring, reentry, and spiritual services.—** — Any prerelease custody into which a prisoner is placed under this subsection may not include a condition prohibiting the prisoner from receiving mentoring, reentry, or spiritual services from a person who provided such services to the prisoner while the prisoner was incarcerated, except that the warden of the facility at which the prisoner was incarcerated may waive the requirement under this paragraph if the warden finds that the provision of such services would pose a significant security risk to the prisoner, persons who provide such services, or any other person. The warden shall provide written notice of any such waiver to the person providing such services and to the prisoner.
+
+(10) **Time limits inapplicable.—** — The time limits under subsections (b) and (c) shall not apply to prerelease custody under this subsection.
+
+(11) **Prerelease custody capacity.—** — The Director of the Bureau of Prisons shall ensure there is sufficient prerelease custody capacity to accommodate all eligible prisoners.
+
 ### Statutory Notes
 
 #### References in Text
 The date of enactment of the Prison Litigation Reform Act, referred to in subsec. (b)(2), probably means the date of enactment of the Prison Litigation Reform Act of 1995, section 101[(a)] [title VIII] of Pub. L. 104–134, which was approved Apr. 26, 1996.
 
-The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (c)(5), (6), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
+The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (c)(5), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
+
+The date of the enactment of the Second Chance Reauthorization Act of 2018, referred to in subsec. (c)(6), is the date of enactment of title V of Pub. L. 115–391, which was approved Dec. 21, 2018.
 
 The date of the enactment of this Act, referred to in subsec. (f)(1), probably means the date of enactment of Pub. L. 101–647, which enacted subsec. (f) and was approved Nov. 29, 1990.
 
@@ -796,6 +984,16 @@ The date of the enactment of this Act, referred to in subsec. (f)(1), probably m
 For a prior section 3624, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3601 of this title](./chapter-229-postsentence-administration.md#section-3601).
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–391, § 102(b)(1)(A), substituted “of up to 54 days for each year of the prisoner’s sentence imposed by the court,” for “, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term,” and “credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment” for “credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence”.
+
+Subsec. (c)(2). Pub. L. 115–391, § 602, inserted at end “The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels and lower needs on home confinement for the maximum amount of time permitted under this paragraph.”
+
+Subsec. (c)(5). Pub. L. 115–391, § 504(c)(1), inserted “, and number of prisoners not being placed in community corrections facilities for each reason set forth” before “, and any other information”.
+
+Subsec. (c)(6). Pub. L. 115–391, § 504(c)(2), substituted “the Second Chance Reauthorization Act of 2018” for “the Second Chance Act of 2007” in introductory provisions.
+
+Subsec. (g). Pub. L. 115–391, § 102(b)(1)(B), added subsec. (g).
+
 2008—Subsec. (c). Pub. L. 110–199 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Bureau of Prisons shall, to the extent practicable, assure that a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner’s re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody.”
 
 Subsec. (e). Pub. L. 110–177 substituted “Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.” for “No prisoner shall be released on supervision unless such prisoner agrees to adhere to an installment schedule, not to exceed two years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner.”
@@ -831,6 +1029,9 @@ Subsec. (f). Pub. L. 101–647, § 2904, added subsec. (f).
 1986—Subsec. (b). Pub. L. 99–646, § 16(a), substituted “beginning at the end of” for “beginning after”.
 
 Subsec. (e). Pub. L. 99–646, § 17(a), substituted “imprisonment and runs concurrently” for “imprisonment. The term runs concurrently” and “supervised released. A term of supervised release does not run” for “supervised release, except that it does not run”, struck out “, other than during limited intervals as a condition of probation or supervised release,” after “person is imprisoned”, and inserted “unless the imprisonment is for a period of less than 30 consecutive days” before the period at end of third sentence.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–391, title I, § 102(b)(2), (3), Dec. 21, 2018, 132 Stat. 5213, provided that: “(2) Effective date.—The amendments made by this subsection [amending this section] shall take effect beginning on the date that the Attorney General completes and releases the risk and needs assessment system under subchapter D of chapter 229 of title 18, United States Code, as added by section 101(a) of this Act. “(3) Applicability.—The amendments made by this subsection shall apply with respect to offenses committed before, on, or after the date of enactment of this Act [Dec. 21, 2018], except that such amendments shall not apply with respect to offenses committed before November 1, 1987.”
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–647, title XXIX, § 2902(b), Nov. 29, 1990, 104 Stat. 4913, provided that: “[Section 3624(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3624/c&num=0&edition=prelim), United States Code, as amended by this section, shall apply with respect to all inmates, regardless of the date of their offense.”
@@ -1046,3 +1247,506 @@ Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 807], Apr. 26, 1996, 110
 
 #### Notice to Crime Victims of Pending Damage Award
 Pub. L. 104–134, title I, § 101[(a)] [title VIII, § 808], Apr. 26, 1996, 110 Stat. 1321, 1321–76, provided that: “Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages.”
+
+
+<a id="section-3631"></a>
+## § 3631. Duties of the Attorney General
+**(a) In General.—** The Attorney General shall carry out this subchapter in consultation with—
+
+(1) the Director of the Bureau of Prisons;
+
+(2) the Director of the Administrative Office of the United States Courts;
+
+(3) the Director of the Office of Probation and Pretrial Services;
+
+(4) the Director of the National Institute of Justice;
+
+(5) the Director of the National Institute of Corrections; and
+
+(6) the Independent Review Committee authorized by the First Step Act of 2018 11 So in original. Probably should be followed by a period.
+
+**(b) Duties.—** The Attorney General shall—
+
+(1) conduct a review of the existing prisoner risk and needs assessment systems in operation on the date of enactment of this subchapter;
+
+(2) develop recommendations regarding evidence-based recidivism reduction programs and productive activities in accordance with section 3633;
+
+(3) conduct ongoing research and data analysis on—
+
+  (A) evidence-based recidivism reduction programs relating to the use of prisoner risk and needs assessment tools;
+
+  (B) the most effective and efficient uses of such programs;
+
+  (C) which evidence-based recidivism reduction programs are the most effective at reducing recidivism, and the type, amount, and intensity of programming that most effectively reduces the risk of recidivism; and
+
+  (D) products purchased by Federal agencies that are manufactured overseas and could be manufactured by prisoners participating in a prison work program without reducing job opportunities for other workers in the United States;
+
+(4) on an annual basis, review, validate, and release publicly on the Department of Justice website the risk and needs assessment system, which review shall include—
+
+  (A) any subsequent changes to the risk and needs assessment system made after the date of enactment of this subchapter;
+
+  (B) the recommendations developed under paragraph (2), using the research conducted under paragraph (3);
+
+  (C) an evaluation to ensure that the risk and needs assessment system bases the assessment of each prisoner’s risk of recidivism on indicators of progress and of regression that are dynamic and that can reasonably be expected to change while in prison;
+
+  (D) statistical validation of any tools that the risk and needs assessment system uses; and
+
+  (E) an evaluation of the rates of recidivism among similarly classified prisoners to identify any unwarranted disparities, including disparities among similarly classified prisoners of different demographic groups, in such rates;
+
+(5) make any revisions or updates to the risk and needs assessment system that the Attorney General determines appropriate pursuant to the review under paragraph (4), including updates to ensure that any disparities identified in paragraph (4)(E) are reduced to the greatest extent possible; and
+
+(6) report to Congress in accordance with section 3634.
+
+### Statutory Notes
+
+#### References in Text
+The First Step Act of 2018, referred to in subsec. (a)(6), is Pub. L. 115–391, Dec. 21, 2018, 132 Stat. 5194. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note under [section 1 of this title](./chapter-001-general-provisions.md#section-1) and Tables.
+
+The date of enactment of this subchapter, referred to in subsec. (b)(1), (4)(A), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
+
+#### Independent Review Committee
+Pub. L. 115–391, title I, § 107, Dec. 21, 2018, 132 Stat. 5215, provided that: “(a) In General.—The Attorney General shall consult with an Independent Review Committee in carrying out the Attorney General’s duties under sections 3631(b), 3632 and 3633 of title 18, United States Code, as added by section 101(a) of this Act. “(b) Formation of Independent Review Committee.—The National Institute of Justice shall select a nonpartisan and nonprofit organization with expertise in the study and development of risk and needs assessment tools to host the Independent Review Committee. The Independent Review Committee shall be established not later than 30 days after the date of enactment of this Act [Dec. 21, 2018]. “(c) Appointment of Independent Review Committee.—The organization selected by the National Institute of Justice shall appoint not fewer than 6 members to the Independent Review Committee. “(d) Composition of the Independent Review Committee.—The members of the Independent Review Committee shall all have expertise in risk and needs assessment systems and shall include—“(1) 2 individuals who have published peer-reviewed scholarship about risk and needs assessments in both corrections and community settings; “(2) 2 corrections practitioners who have developed and implemented a risk assessment tool in a corrections system or in a community supervision setting, including 1 with prior experience working within the Bureau of Prisons; and “(3) 1 individual with expertise in assessing risk assessment implementation. “(e) Duties of the Independent Review Committee.—The Independent Review Committee shall assist the Attorney General in carrying out the Attorney General’s duties under sections 3631(b), 3632 and 3633 of title 18, United States Code, as added by section 101(a) of this Act, including by assisting in—“(1) conducting a review of the existing prisoner risk and needs assessment systems in operation on the date of enactment of this Act; “(2) developing recommendations regarding evidence-based recidivism reduction programs and productive activities; “(3) conducting research and data analysis on—“(A) evidence-based recidivism reduction programs relating to the use of prisoner risk and needs assessment tools; “(B) the most effective and efficient uses of such programs; and “(C) which evidence-based recidivism reduction programs are the most effective at reducing recidivism, and the type, amount, and intensity of programming that most effectively reduces the risk of recidivism; and “(4) reviewing and validating the risk and needs assessment system. “(f) Bureau of Prisons Cooperation.—The Director of the Bureau of Prisons shall assist the Independent Review Committee in performing the Committee’s duties and promptly respond to requests from the Committee for access to Bureau of Prisons facilities, personnel, and information. “(g) Report.—Not later than 2 years after the date of enactment of this Act, the Independent Review Committee shall submit to the Committee on the Judiciary and the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the House of Representatives a report that includes—“(1) a list of all offenses of conviction for which prisoners were ineligible to receive time credits under [section 3632(d)(4)(D) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/d/4/D&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act, and for each offense the number of prisoners excluded, including demographic percentages by age, race, and sex; “(2) the criminal history categories of prisoners ineligible to receive time credits under [section 3632(d)(4)(D) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/d/4/D&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act, and for each category the number of prisoners excluded, including demographic percentages by age, race, and sex; “(3) the number of prisoners ineligible to apply time credits under [section 3632(d)(4)(D) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/d/4/D&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act, who do not participate in recidivism reduction programming or productive activities, including the demographic percentages by age, race, and sex; “(4) any recommendations for modifications to [section 3632(d)(4)(D) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/d/4/D&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act, and any other recommendations regarding recidivism reduction. “(h) Termination.—The Independent Review Committee shall terminate on the date that is 2 years after the date on which the risk and needs assessment system authorized by sections 3632 and 3633 of title 18, United States Code, as added by section 101(a) of this Act, is released.”
+
+
+<a id="section-3632"></a>
+## § 3632. Development of risk and needs assessment system
+**(a) In General.—** Not later than 210 days after the date of enactment of this subchapter, the Attorney General, in consultation with the Independent Review Committee authorized by the First Step Act of 2018, shall develop and release publicly on the Department of Justice website a risk and needs assessment system (referred to in this subchapter as the “System”), which shall be used to—
+
+(1) determine the recidivism risk of each prisoner as part of the intake process, and classify each prisoner as having minimum, low, medium, or high risk for recidivism;
+
+(2) assess and determine, to the extent practicable, the risk of violent or serious misconduct of each prisoner;
+
+(3) determine the type and amount of evidence-based recidivism reduction programming that is appropriate for each prisoner and assign each prisoner to such programming accordingly, and based on the prisoner’s specific criminogenic needs, and in accordance with subsection (b);
+
+(4) reassess the recidivism risk of each prisoner periodically, based on factors including indicators of progress, and of regression, that are dynamic and that can reasonably be expected to change while in prison;
+
+(5) reassign the prisoner to appropriate evidence-based recidivism reduction programs or productive activities based on the revised determination to ensure that—
+
+  (A) all prisoners at each risk level have a meaningful opportunity to reduce their classification during the period of incarceration;
+
+  (B) to address 11 So in original. the specific criminogenic needs of the prisoner; and
+
+  (C) all prisoners are able to successfully participate in such programs;
+
+(6) determine when to provide incentives and rewards for successful participation in evidence-based recidivism reduction programs or productive activities in accordance with subsection (e);
+
+(7) determine when a prisoner is ready to transfer into prerelease custody or supervised release in accordance with section 3624; and
+
+(8) determine the appropriate use of audio technology for program course materials with an understanding of dyslexia.
+In carrying out this subsection, the Attorney General may use existing risk and needs assessment tools, as appropriate.
+
+**(b) Assignment of Evidence-based Recidivism Reduction Programs.—** The System shall provide guidance on the type, amount, and intensity of evidence-based recidivism reduction programming and productive activities that shall be assigned for each prisoner, including—
+
+(1) programs in which the Bureau of Prisons shall assign the prisoner to participate, according to the prisoner’s specific criminogenic needs; and
+
+(2) information on the best ways that the Bureau of Prisons can tailor the programs to the specific criminogenic needs of each prisoner so as to most effectively lower each prisoner’s risk of recidivism.
+
+**(c) Housing and Assignment Decisions.—** The System shall provide guidance on program grouping and housing assignment determinations and, after accounting for the safety of each prisoner and other individuals at the prison, provide that prisoners with a similar risk level be grouped together in housing and assignment decisions to the extent practicable.
+
+**(d) Evidence-Based Recidivism Reduction Program Incentives and Productive Activities Rewards.—** The System shall provide incentives and rewards for prisoners to participate in and complete evidence-based recidivism reduction programs as follows:
+
+(1) **Phone and visitation privileges.—** — A prisoner who is successfully participating in an evidence-based recidivism reduction program shall receive—
+
+  (A) phone privileges, or, if available, video conferencing privileges, for up to 30 minutes per day, and up to 510 minutes per month; and
+
+  (B) additional time for visitation at the prison, as determined by the warden of the prison.
+
+(2) **Transfer to institution closer to release residence.—** — A prisoner who is successfully participating in an evidence-based recidivism reduction program shall be considered by the Bureau of Prisons for placement in a facility closer to the prisoner’s release residence upon request from the prisoner and subject to—
+
+  (A) bed availability at the transfer facility;
+
+  (B) the prisoner’s security designation; and
+
+  (C) the recommendation from the warden of the prison at which the prisoner is incarcerated at the time of making the request.
+
+(3) **Additional policies.—** — The Director of the Bureau of Prisons shall develop additional policies to provide appropriate incentives for successful participation and completion of evidence-based recidivism reduction programming. The incentives shall include not less than 2 of the following:
+
+  (A) Increased commissary spending limits and product offerings.
+
+  (B) Extended opportunities to access the email system.
+
+  (C) Consideration of transfer to preferred housing units (including transfer to different prison facilities).
+
+  (D) Other incentives solicited from prisoners and determined appropriate by the Director.
+
+(4) **Time credits.—**
+
+  (A) *In general.—* — A prisoner, except for an ineligible prisoner under subparagraph (D), who successfully completes evidence-based recidivism reduction programming or productive activities, shall earn time credits as follows:
+
+    (i) A prisoner shall earn 10 days of time credits for every 30 days of successful participation in evidence-based recidivism reduction programming or productive activities.
+
+    (ii) A prisoner determined by the Bureau of Prisons to be at a minimum or low risk for recidivating, who, over 2 consecutive assessments, has not increased their risk of recidivism, shall earn an additional 5 days of time credits for every 30 days of successful participation in evidence-based recidivism reduction programming or productive activities.
+
+  (B) *Availability.—* — A prisoner may not earn time credits under this paragraph for an evidence-based recidivism reduction program that the prisoner successfully completed—
+
+    (i) prior to the date of enactment of this subchapter; or
+
+    (ii) during official detention prior to the date that the prisoner’s sentence commences under section 3585(a).
+
+  (C) *Application of time credits toward prerelease custody or supervised release.—* — Time credits earned under this paragraph by prisoners who successfully participate in recidivism reduction programs or productive activities shall be applied toward time in prerelease custody or supervised release. The Director of the Bureau of Prisons shall transfer eligible prisoners, as determined under section 3624(g), into prerelease custody or supervised release.
+
+  (D) *Ineligible prisoners.—* — A prisoner is ineligible to receive time credits under this paragraph if the prisoner is serving a sentence for a conviction under any of the following provisions of law:
+
+    (i) Section 32, relating to destruction of aircraft or aircraft facilities.
+
+    (ii) Section 33, relating to destruction of motor vehicles or motor vehicle facilities.
+
+    (iii) Section 36, relating to drive-by shootings.
+
+    (iv) Section 81, relating to arson within special maritime and territorial jurisdiction.
+
+    (v) Section 111(b), relating to assaulting, resisting, or impeding certain officers or employees using a deadly or dangerous weapon or inflicting bodily injury.
+
+    (vi) Paragraph (1), (7), or (8) of section 113(a), relating to assault with intent to commit murder, assault resulting in substantial bodily injury to a spouse or intimate partner, a dating partner, or an individual who has not attained the age of 16 years, or assault of a spouse, intimate partner, or dating partner by strangling, suffocating, or attempting to strangle or suffocate.
+
+    (vii) Section 115, relating to influencing, impeding, or retaliating against a Federal official by injuring a family member, except for a threat made in violation of that section.
+
+    (viii) Section 116, relating to female genital mutilation.
+
+    (ix) Section 117, relating to domestic assault by a habitual offender.
+
+    (x) Any section of chapter 10, relating to biological weapons.
+
+    (xi) Any section of chapter 11B, relating to chemical weapons.
+
+    (xii) Section 351, relating to Congressional, Cabinet, and Supreme Court assassination, kidnapping, and assault.
+
+    (xiii) Section 521, relating to criminal street gangs.
+
+    (xiv) Section 751, relating to prisoners in custody of an institution or officer.
+
+    (xv) Section 793, relating to gathering, transmitting, or losing defense information.
+
+    (xvi) Section 794, relating to gathering or delivering defense information to aid a foreign government.
+
+    (xvii) Any section of chapter 39, relating to explosives and other dangerous articles, except for section 836 (relating to the transportation of fireworks into a State prohibiting sale or use).
+
+    (xviii) Section 842(p), relating to distribution of information relating to explosives, destructive devices, and weapons of mass destruction, but only if the conviction involved a weapon of mass destruction (as defined in section 2332a(c)).
+
+    (xix) Subsection (f)(3), (h), or (i) of section 844, relating to the use of fire or an explosive.
+
+    (xx) Section 871, relating to threats against the President and successors to the Presidency.
+
+    (xxi) Section 879, relating to threats against former Presidents and certain other persons.
+
+    (xxii) Section 924(c), relating to unlawful possession or use of a firearm during and in relation to any crime of violence or drug trafficking crime.
+
+    (xxiii) Section 1030(a)(1), relating to fraud and related activity in connection with computers.
+
+    (xxiv) Section 1091, relating to genocide.
+
+    (xxv) Any section of chapter 51, relating to homicide, except for section 1112 (relating to manslaughter), 1113 (relating to attempt to commit murder or manslaughter, but only if the conviction was for an attempt to commit manslaughter), 1115 (relating to misconduct or neglect of ship officers), or 1122 (relating to protection against the human immunodeficiency virus).
+
+    (xxvi) Any section of chapter 55, relating to kidnapping.
+
+    (xxvii) Any offense under chapter 77, relating to peonage, slavery, and trafficking in persons, except for sections 1593 through 1596.
+
+    (xxviii) Section 1751, relating to Presidential and Presidential staff assassination, kidnapping, and assault.
+
+    (xxix) Section 1791, relating to providing or possessing contraband in prison.
+
+    (xxx) Section 1792, relating to mutiny and riots.
+
+    (xxxi) Section 1841(a)(2)(C), relating to intentionally killing or attempting to kill an unborn child.
+
+    (xxxii) Section 1992, relating to terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air.
+
+    (xxxiii) Section 2113(e), relating to bank robbery resulting in death.
+
+    (xxxiv) Section 2118(c), relating to robberies and burglaries involving controlled substances resulting in assault, putting in jeopardy the life of any person by the use of a dangerous weapon or device, or death.
+
+    (xxxv) Section 2119, relating to taking a motor vehicle (commonly referred to as “carjacking”).
+
+    (xxxvi) Any section of chapter 105, relating to sabotage, except for section 2152.
+
+    (xxxvii) Any section of chapter 109A, relating to sexual abuse.
+
+    (xxxviii) Section 2250, relating to failure to register as a sex offender.
+
+    (xxxix) Section 2251, relating to the sexual exploitation of children.
+
+    (xl) Section 2251A, relating to the selling or buying of children.
+
+    (xli) Section 2252, relating to certain activities relating to material involving the sexual exploitation of minors.
+
+    (xlii) Section 2252A, relating to certain activities involving material constituting or containing child pornography.
+
+    (xliii) Section 2260, relating to the production of sexually explicit depictions of a minor for importation into the United States.
+
+    (xliv) Section 2283, relating to the transportation of explosive, biological, chemical, or radioactive or nuclear materials.
+
+    (xlv) Section 2284, relating to the transportation of terrorists.
+
+    (xlvi) Section 2291, relating to the destruction of a vessel or maritime facility, but only if the conduct that led to the conviction involved a substantial risk of death or serious bodily injury.
+
+    (xlvii) Any section of chapter 113B, relating to terrorism.
+
+    (xlviii) Section 2340A, relating to torture.
+
+    (xlix) Section 2381, relating to treason.
+
+    (l) Section 2442, relating to the recruitment or use of child soldiers.
+
+    (li) An offense described in section 3559(c)(2)(F), for which the offender was sentenced to a term of imprisonment of more than 1 year, if the offender has a previous conviction, for which the offender served a term of imprisonment of more than 1 year, for a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111), voluntary manslaughter (as described in section 1112), assault with intent to commit murder (as described in section 113(a)), aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242), abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)), kidnapping (as described in chapter 55), carjacking (as described in section 2119), arson (as described in section 844(f)(3), (h), or (i)), or terrorism (as described in chapter 113B).
+
+    (lii) Section 57(b) of the Atomic Energy Act of 1954 ([42 U.S.C. 2077(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim)), relating to the engagement or participation in the development or production of special nuclear material.
+
+    (liii) Section 92 of the Atomic Energy Act of 1954 ([42 U.S.C. 2122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2122&num=0&edition=prelim)), relating to prohibitions governing atomic weapons.
+
+    (liv) Section 101 of the Atomic Energy Act of 1954 ([42 U.S.C. 2131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2131&num=0&edition=prelim)), relating to the atomic energy license requirement.
+
+    (lv) Section 224 or 225 of the Atomic Energy Act of 1954 ([42 U.S.C. 2274](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2274&num=0&edition=prelim), 2275), relating to the communication or receipt of restricted data.
+
+    (lvi) Section 236 of the Atomic Energy Act of 1954 ([42 U.S.C. 2284](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2284&num=0&edition=prelim)), relating to the sabotage of nuclear facilities or fuel.
+
+    (lvii) [Section 60123(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section60123/b&num=0&edition=prelim), relating to damaging or destroying a pipeline facility, but only if the conduct which led to the conviction involved a substantial risk of death or serious bodily injury.
+
+    (lviii) Section 401(a) of the Controlled Substances Act ([21 U.S.C. 841](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841&num=0&edition=prelim)), relating to manufacturing or distributing a controlled substance in the case of a conviction for an offense described in subparagraph (A), (B), or (C) of subsection (b)(1) of that section for which death or serious bodily injury resulted from the use of such substance.
+
+    (lix) Section 276(a) of the Immigration and Nationality Act ([8 U.S.C. 1326](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1326&num=0&edition=prelim)), relating to the reentry of a removed alien, but only if the alien is described in paragraph (1) or (2) of subsection (b) of that section.
+
+    (lx) Section 277 of the Immigration and Nationality Act ([8 U.S.C. 1327](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1327&num=0&edition=prelim)), relating to aiding or assisting certain aliens to enter the United States.
+
+    (lxi) Section 278 of the Immigration and Nationality Act ([8 U.S.C. 1328](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1328&num=0&edition=prelim)), relating to the importation of an alien into the United States for an immoral purpose.
+
+    (lxii) Any section of the Export Administration Act of 1979 ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim) et seq.)
+
+    (lxiii) Section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim)).
+
+    (lxiv) Section 601 of the National Security Act of 1947 ([50 U.S.C. 3121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3121&num=0&edition=prelim)), relating to the protection of identities of certain United States undercover intelligence officers, agents, informants, and sources.
+
+    (lxv) Subparagraph (A)(i) or (B)(i) of section 401(b)(1) of the Controlled Substances Act ([21 U.S.C. 841(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b/1&num=0&edition=prelim)) or paragraph (1)(A) or (2)(A) of section 1010(b) of the Controlled Substances Import and Export Act ([21 U.S.C. 960(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960/b&num=0&edition=prelim)), relating to manufacturing, distributing, dispensing, or possessing with intent to manufacture, distribute, dispense, or knowingly importing or exporting, a mixture or substance containing a detectable amount of heroin if the sentencing court finds that the offender was an organizer, leader, manager, or supervisor of others in the offense, as determined under the guidelines promulgated by the United States Sentencing Commission.
+
+    (lxvi) Subparagraph (A)(vi) or (B)(vi) of section 401(b)(1) of the Controlled Substances Act ([21 U.S.C. 841(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b/1&num=0&edition=prelim)) or paragraph (1)(F) or (2)(F) of section 1010(b) of the Controlled Substances Import and Export Act ([21 U.S.C. 960(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960/b&num=0&edition=prelim)), relating to manufacturing, distributing, dispensing, or possessing with intent to manufacture, distribute, or dispense, a mixture or substance containing a detectable amount of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide, or any analogue thereof.
+
+    (lxvii) Subparagraph (A)(viii) or (B)(viii) of section 401(b)(1) of the Controlled Substances Act ([21 U.S.C. 841(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b/1&num=0&edition=prelim)) or paragraph (1)(H) or (2)(H) of section 1010(b) the Controlled Substances Import and Export Act ([21 U.S.C. 960(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960/b&num=0&edition=prelim)), relating to manufacturing, distributing, dispensing, or possessing with intent to manufacture, distribute, or dispense, or knowingly importing or exporting, a mixture of substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers, if the sentencing court finds that the offender was an organizer, leader, manager, or supervisor of others in the offense, as determined under the guidelines promulgated by the United States Sentencing Commission.
+
+    (lxviii) Subparagraph (A) or (B) of section 401(b)(1) of the Controlled Substances Act ([21 U.S.C. 841(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b/1&num=0&edition=prelim)) or paragraph (1) or (2) of section 1010(b) of the Controlled Substances Import and Export Act ([21 U.S.C. 960(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960/b&num=0&edition=prelim)), relating to manufacturing, distributing, dispensing, or possessing with intent to manufacture, distribute, or dispense, a controlled substance, or knowingly importing or exporting a controlled substance, if the sentencing court finds that—
+
+      (I) the offense involved a mixture or substance containing a detectable amount of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide, or any analogue thereof; and
+
+      (II) the offender was an organizer, leader, manager, or supervisor of others in the offense, as determined under the guidelines promulgated by the United States Sentencing Commission.
+
+  (E) *Deportable prisoners ineligible to apply time credits.—*
+
+    (i) *In general.—* — A prisoner is ineligible to apply time credits under subparagraph (C) if the prisoner is the subject of a final order of removal under any provision of the immigration laws (as such term is defined in section 101(a)(17) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/17&num=0&edition=prelim))).
+
+    (ii) *Proceedings.—* — The Attorney General, in consultation with the Secretary of Homeland Security, shall ensure that any alien described in section 212 or 237 of the Immigration and Nationality Act ([8 U.S.C. 1182](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim), 1227) who seeks to earn time credits are subject to proceedings described in section 238(a) of that Act ([8 U.S.C. 1228(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1228/a&num=0&edition=prelim)) at a date as early as practicable during the prisoner’s incarceration.
+
+(5) **Risk reassessments and level adjustment.—** — A prisoner who successfully participates in evidence-based recidivism reduction programming or productive activities shall receive periodic risk reassessments not less often than annually, and a prisoner determined to be at a medium or high risk of recidivating and who has less than 5 years until his or her projected release date shall receive more frequent risk reassessments. If the reassessment shows that the prisoner’s risk of recidivating or specific needs have changed, the Bureau of Prisons shall update the determination of the prisoner’s risk of recidivating or information regarding the prisoner’s specific needs and reassign the prisoner to appropriate evidence-based recidivism reduction programming or productive activities based on such changes.
+
+(6) **Relation to other incentive programs.—** — The incentives described in this subsection shall be in addition to any other rewards or incentives for which a prisoner may be eligible.
+
+**(e) Penalties.—** The Director of the Bureau of Prisons shall develop guidelines for the reduction of rewards and incentives earned under subsection (d) for prisoners who violate prison rules or evidence-based recidivism reduction program or productive activity rules, which shall provide—
+
+(1) general levels of violations and resulting reductions;
+
+(2) that any reduction that includes the loss of time credits shall require written notice to the prisoner, shall be limited to time credits that a prisoner earned as of the date of the prisoner’s rule violation, and shall not include any future time credits that the prisoner may earn; and
+
+(3) for a procedure to restore time credits that a prisoner lost as a result of a rule violation, based on the prisoner’s individual progress after the date of the rule violation.
+
+**(f) Bureau of Prisons Training.—** The Attorney General shall develop and implement training programs for Bureau of Prisons officers and employees responsible for administering the System, which shall include—
+
+(1) initial training to educate officers and employees on how to use the System in an appropriate and consistent manner, as well as the reasons for using the System;
+
+(2) continuing education;
+
+(3) periodic training updates; and
+
+(4) a requirement that such officers and employees demonstrate competence in administering the System, including interrater reliability, on a biannual basis.
+
+**(g) Quality Assurance.—** In order to ensure that the Bureau of Prisons is using the System in an appropriate and consistent manner, the Attorney General shall monitor and assess the use of the System, which shall include conducting annual audits of the Bureau of Prisons regarding the use of the System.
+
+**(h) Dyslexia Screening.—**
+
+(1) **Screening.—** — The Attorney General shall incorporate a dyslexia screening program into the System, including by screening for dyslexia during—
+
+  (A) the intake process; and
+
+  (B) each periodic risk reassessment of a prisoner.
+
+(2) **Treatment.—** — The Attorney General shall incorporate programs designed to treat dyslexia into the evidence-based recidivism reduction programs or productive activities required to be implemented under this section. The Attorney General may also incorporate programs designed to treat other learning disabilities.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this subchapter, referred to in subsecs. (a) and (d)(4)(B)(i), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
+
+The First Step Act of 2018, referred to in subsec. (a), is Pub. L. 115–391, Dec. 21, 2018, 132 Stat. 5194. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note under [section 1 of this title](./chapter-001-general-provisions.md#section-1) and Tables.
+
+The Export Administration Act of 1979, referred to in subsec. (d)(4)(D)(lxii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
+
+
+<a id="section-3633"></a>
+## § 3633. Evidence-based recidivism reduction program and recommendations
+**(a) In General.—** Prior to releasing the System, in consultation with the Independent Review Committee authorized by the First Step Act of 2018, the Attorney General shall—
+
+(1) review the effectiveness of evidence-based recidivism reduction programs that exist as of the date of enactment of this subchapter in prisons operated by the Bureau of Prisons;
+
+(2) review available information regarding the effectiveness of evidence-based recidivism reduction programs and productive activities that exist in State-operated prisons throughout the United States;
+
+(3) identify the most effective evidence-based recidivism reduction programs;
+
+(4) review the policies for entering into evidence-based recidivism reduction partnerships described in section 3621(h)(5); and
+
+(5) direct the Bureau of Prisons regarding—
+
+  (A) evidence-based recidivism reduction programs;
+
+  (B) the ability for faith-based organizations to function as a provider of educational evidence-based programs outside of the religious classes and services provided through the Chaplaincy; and
+
+  (C) the addition of any new effective evidence-based recidivism reduction programs that the Attorney General finds.
+
+**(b) Review and Recommendations Regarding Dyslexia Mitigation.—** In carrying out subsection (a), the Attorney General shall consider the prevalence and mitigation of dyslexia in prisons, including by—
+
+(1) reviewing statistics on the prevalence of dyslexia, and the effectiveness of any programs implemented to mitigate the effects of dyslexia, in prisons operated by the Bureau of Prisons and State-operated prisons throughout the United States; and
+
+(2) incorporating the findings of the Attorney General under paragraph (1) of this subsection into any directives given to the Bureau of Prisons under paragraph (5) of subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+The First Step Act of 2018, referred to in subsec. (a), is Pub. L. 115–391, Dec. 21, 2018, 132 Stat. 5194. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note under [section 1 of this title](./chapter-001-general-provisions.md#section-1) and Tables.
+
+The date of enactment of this subchapter, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
+
+
+<a id="section-3634"></a>
+## § 3634. Report
+
+Beginning on the date that is 2 years after the date of enactment of this subchapter, and annually thereafter for a period of 5 years, the Attorney General shall submit a report to the Committees on the Judiciary of the Senate and the House of Representatives and the Subcommittees on Commerce, Justice, Science, and Related Agencies of the Committees on Appropriations of the Senate and the House of Representatives that contains the following:
+
+(1) A summary of the activities and accomplishments of the Attorney General in carrying out this Act.
+
+(2) A summary and assessment of the types and effectiveness of the evidence-based recidivism reduction programs and productive activities in prisons operated by the Bureau of Prisons, including—
+
+  (A) evidence about which programs have been shown to reduce recidivism;
+
+  (B) the capacity of each program and activity at each prison, including the number of prisoners along with the recidivism risk of each prisoner enrolled in each program; and
+
+  (C) identification of any gaps or shortages in capacity of such programs and activities.
+
+(3) Rates of recidivism among individuals who have been released from Federal prison, based on the following criteria:
+
+  (A) The primary offense of conviction.
+
+  (B) The length of the sentence imposed and served.
+
+  (C) The Bureau of Prisons facility or facilities in which the prisoner’s sentence was served.
+
+  (D) The evidence-based recidivism reduction programming that the prisoner successfully completed, if any.
+
+  (E) The prisoner’s assessed and reassessed risk of recidivism.
+
+  (F) The productive activities that the prisoner successfully completed, if any.
+
+(4) The status of prison work programs at facilities operated by the Bureau of Prisons, including—
+
+  (A) a strategy to expand the availability of such programs without reducing job opportunities for workers in the United States who are not in the custody of the Bureau of Prisons, including the feasibility of prisoners manufacturing products purchased by Federal agencies that are manufactured overseas;
+
+  (B) an assessment of the feasibility of expanding such programs, consistent with the strategy required under subparagraph (A), with the goal that 5 years after the date of enactment of this subchapter, not less than 75 percent of eligible minimum- and low-risk offenders have the opportunity to participate in a prison work program for not less than 20 hours per week; and
+
+  (C) a detailed discussion of legal authorities that would be useful or necessary to achieve the goals described in subparagraphs (A) and (B).
+
+(5) An assessment of the Bureau of Prisons’ compliance with section 3621(h).
+
+(6) An assessment of progress made toward carrying out the purposes of this subchapter, including any savings associated with—
+
+  (A) the transfer of prisoners into prerelease custody or supervised release under section 3624(g), including savings resulting from the avoidance or deferral of future construction, acquisition, and operations costs; and
+
+  (B) any decrease in recidivism that may be attributed to the System or the increase in evidence-based recidivism reduction programs required under this subchapter.
+
+(7) An assessment of budgetary savings resulting from this subchapter, including—
+
+  (A) a summary of the amount of savings resulting from the transfer of prisoners into prerelease custody under this chapter, including savings resulting from the avoidance or deferral of future construction, acquisition, or operations costs;
+
+  (B) a summary of the amount of savings resulting from any decrease in recidivism that may be attributed to the implementation of the risk and needs assessment system or the increase in recidivism reduction programs and productive activities required by this subchapter;
+
+  (C) a strategy to reinvest the savings described in subparagraphs (A) and (B) in other—
+
+    (i) Federal, State, and local law enforcement activities; and
+
+    (ii) expansions of recidivism reduction programs and productive activities in the Bureau of Prisons; and
+
+  (D) a description of how the reduced expenditures on Federal corrections and the budgetary savings resulting from this subchapter are currently being used and will be used to—
+
+    (i) increase investment in law enforcement and crime prevention to combat gangs of national significance and high-level drug traffickers through the High Intensity Drug Trafficking Areas Program and other task forces;
+
+    (ii) hire, train, and equip law enforcement officers and prosecutors; and
+
+    (iii) promote crime reduction programs using evidence-based practices and strategic planning to help reduce crime and criminal recidivism.
+
+(8) Statistics on—
+
+  (A) the prevalence of dyslexia among prisoners in prisons operated by the Bureau of Prisons; and
+
+  (B) any change in the effectiveness of dyslexia mitigation programs among such prisoners that may be attributed to the incorporation of dyslexia screening into the System and of dyslexia treatment into the evidence-based recidivism reduction programs, as required under this chapter.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this subchapter, referred to in text, is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
+
+This Act, referred to in par. (1), is Pub. L. 115–391, Dec. 21, 2018, 132 Stat. 5194, known as the First Step Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note under [section 1 of this title](./chapter-001-general-provisions.md#section-1) and Tables.
+
+
+<a id="section-3635"></a>
+## § 3635. Definitions
+
+In this subchapter the following definitions apply:
+
+(1) **Dyslexia.—** — The term “dyslexia” means an unexpected difficulty in reading for an individual who has the intelligence to be a much better reader, most commonly caused by a difficulty in the phonological processing (the appreciation of the individual sounds of spoken language), which affects the ability of an individual to speak, read, and spell.
+
+(2) **Dyslexia screening program.—** — The term “dyslexia screening program” means a screening program for dyslexia that is—
+
+  (A) evidence-based (as defined in section 8101(21) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(21)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/21&num=0&edition=prelim))) with proven psychometrics for validity;
+
+  (B) efficient and low-cost; and
+
+  (C) readily available.
+
+(3) **Evidence-based recidivism reduction program.—** — The term “evidence-based recidivism reduction program” means either a group or individual activity that—
+
+  (A) has been shown by empirical evidence to reduce recidivism or is based on research indicating that it is likely to be effective in reducing recidivism;
+
+  (B) is designed to help prisoners succeed in their communities upon release from prison; and
+
+  (C) may include—
+
+    (i) social learning and communication, interpersonal, anti-bullying, rejection response, and other life skills;
+
+    (ii) family relationship building, structured parent-child interaction, and parenting skills;
+
+    (iii) classes on morals or ethics;
+
+    (iv) academic classes;
+
+    (v) cognitive behavioral treatment;
+
+    (vi) mentoring;
+
+    (vii) substance abuse treatment;
+
+    (viii) vocational training;
+
+    (ix) faith-based classes or services;
+
+    (x) civic engagement and reintegrative community services;
+
+    (xi) a prison job, including through a prison work program;
+
+    (xii) victim impact classes or other restorative justice programs; and
+
+    (xiii) trauma counseling and trauma-informed support programs.
+
+(4) **Prisoner.—** — The term “prisoner” means a person who has been sentenced to a term of imprisonment pursuant to a conviction for a Federal criminal offense, or a person in the custody of the Bureau of Prisons.
+
+(5) **Productive activity.—** — The term “productive activity” means either a group or individual activity that is designed to allow prisoners determined as having a minimum or low risk of recidivating to remain productive and thereby maintain a minimum or low risk of recidivating, and may include the delivery of the programs described in paragraph (1) 11 So in original. Probably should be “paragraph (3)”. to other prisoners.
+
+(6) **Risk and needs assessment tool.—** — The term “risk and needs assessment tool” means an objective and statistically validated method through which information is collected and evaluated to determine—
+
+  (A) as part of the intake process, the risk that a prisoner will recidivate upon release from prison;
+
+  (B) the recidivism reduction programs that will best minimize the risk that the prisoner will recidivate upon release from prison; and
+
+  (C) the periodic reassessment of risk that a prisoner will recidivate upon release from prison, based on factors including indicators of progress and of regression, that are dynamic and that can reasonably be expected to change while in prison.

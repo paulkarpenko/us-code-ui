@@ -67,6 +67,8 @@ In subsection (c), the words “as authorized by section 29 of the Surplus Prope
 
 **(h) Congressional Budget Office.—** The Director of the Congressional Budget Office may enter into agreements or contracts without regard to [section 6101 of this title](./chapter-061-advertising.md#section-6101).
 
+**(i) Senate.—** [Section 6101 of this title](./chapter-061-advertising.md#section-6101) does not apply to agreements, contracts or purchases by any office of the Senate.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -88,6 +90,9 @@ In subsection (e), the words “On and after July 27, 1965” are omitted as unn
 In subsection (g), the words “in any fiscal year” are omitted as unnecessary.
 
 In subsection (h), the text of 41:6a–4(b) is omitted as unnecessary.
+
+#### Amendments
+2018—Subsec. (i). Pub. L. 115–141 added subsec. (i).
 
 
 <a id="section-6103"></a>

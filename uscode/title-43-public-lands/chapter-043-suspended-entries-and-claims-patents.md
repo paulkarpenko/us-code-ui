@@ -118,10 +118,10 @@ Act of March 11, 1902, referred to in text, probably means act Mar. 11, 1902, ch
 #### Codification
 Section was formerly classified to [section 1167 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1167) prior to editorial reclassification and renumbering as this section.
 
+#### Effective Date
+Act Mar. 9, 1904, ch. 503, § 2, 33 Stat. 64, provided: “That this Act [enacting this section] shall be in force from and after its passage and approval.”
+
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
 
 “Secretary of the Interior, or such officer as he may designate,” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under [section 1 of this title](./chapter-001-bureau-of-land-management.md#section-1).
-
-#### Effective Date
-Act Mar. 9, 1904, ch. 503, § 2, 33 Stat. 64, provided: “That this Act [enacting this section] shall be in force from and after its passage and approval.”

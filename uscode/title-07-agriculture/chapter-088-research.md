@@ -2,7 +2,7 @@
 title: 7
 chapter: '88'
 heading: RESEARCH
-section_count: 50
+section_count: 52
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -64,7 +64,7 @@ source: >-
 
 **(h) “Appropriate field office personnel” defined** For purposes of this section, the term “appropriate field office personnel” includes employees of the National Institute of Food and Agriculture, Soil Conservation Service, and other appropriate Department of Agriculture personnel, as determined by the Secretary, whose activities involve the provision of agricultural production and conservation information to agricultural producers.
 
-**(i) Authorization of appropriations** There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2018.
+**(i) Authorization of appropriations** There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2023.
 
 ### Statutory Notes
 
@@ -75,6 +75,8 @@ Chapter 86 of this title, referred to in subsecs. (f) and (g), was in the origin
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (i). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (i). Pub. L. 113–79 amended subsec. (i) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program.”
 
 2008—Subsec. (b). Pub. L. 110–246, § 7511(c)(17)(A), substituted “the National Institute of Food and Agriculture” for “the Extension Service” in first sentence.
@@ -354,22 +356,29 @@ Amendment by section 7511(c)(15) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 (1) **Limits** — Subject to paragraph (2), the Secretary shall provide grants to eligible States in an amount not to exceed 50 percent of the cost of the establishment or enhancement of a State sustainable agriculture program under a plan approved by the Secretary under subsection (c) for a period not to exceed 5 years.
 
-(2) **State contribution** — To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c). The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply to grants awarded under this section.
+(2) **State contribution** — To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c).
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d)(2). Pub. L. 115–334 struck out at end “The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply to grants awarded under this section.”
+
 2014—Subsec. (d)(2). Pub. L. 113–79 inserted at end “The matching funds requirement under [section 3371 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3371) shall not apply to grants awarded under this section.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 
 <a id="section-5821"></a>
 ## § 5821. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this part $40,000,000 for each of fiscal years 2013 through 2018. Of amounts appropriated to carry out this part for a fiscal year, not less than $15,000,000, or not less than two thirds of any such appropriation, whichever is greater, shall be used to carry out sections 5811 and 5812 of this title.
+There are authorized to be appropriated to carry out this part $40,000,000 for each of fiscal years 2013 through 2023. Of amounts appropriated to carry out this part for a fiscal year, not less than $15,000,000, or not less than two thirds of any such appropriation, whichever is greater, shall be used to carry out sections 5811 and 5812 of this title.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Pub. L. 113–79, in first sentence, struck out “$40,000,000 for each fiscal year” after “appropriated” and inserted “$40,000,000 for each of fiscal years 2013 through 2018” after “part”.
 
 1991—Pub. L. 102–237 substituted “and 5812” for “and 5813”.
@@ -403,7 +412,7 @@ There are authorized to be appropriated to carry out this part $40,000,000 for e
 
 (3) utilizing an interdisciplinary approach.
 
-**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section through the National Institute of Food and Agriculture $20,000,000 for each of fiscal years 2013 through 2018.
+**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section through the National Institute of Food and Agriculture $20,000,000 for each of fiscal years 2013 through 2023.
 
 ### Statutory Notes
 
@@ -416,6 +425,8 @@ Chapter 86 of this title, referred to in subsec. (a)(3), was in the original “
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (d). Pub. L. 113–79 amended subsec. (d) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture.”
 
 2008—Subsec. (d). Pub. L. 110–246, § 7511(c)(16), substituted “National Institute of Food and Agriculture” for “Extension Service”.
@@ -429,153 +440,11 @@ Amendment by section 7511(c)(16) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 
 <a id="section-5831"></a>
-## § 5831. Integrated Farm Management Program Option
-**(a) Establishment** The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
-
-**(b) Definitions**
-
-(1) **In general** — For purposes of this section—
-
-  (A) The term “resource-conserving crop” means legumes, legume-grass mixtures, legume-small grain mixtures, legume-grass-small grain mixtures, and alternative crops.
-
-  (B) The term “resource-conserving crop rotation” means a crop rotation that includes at least one resource-conserving crop and that reduces erosion, maintains or improves soil fertility and tilth, interrupts pest cycles, or conserves water.
-
-  (C) The term “farming operations and practices” includes the integration of crops and crop-plant variety selection, rotation practices, tillage systems, soil conserving and soil building practices, nutrient management strategies, biological control and integrated pest management strategies, livestock production and management systems, animal waste management systems, water and energy conservation measures, and health and safety considerations.
-
-  (D) The term “integrated farm management plan” means a comprehensive, multiyear, site-specific plan that meets the requirements of subsection (f).
-
-(2) **Crops** — For purposes of paragraph (1)(A)—
-
-  (A) The term “grass” means perennial grasses commonly used for haying or grazing.
-
-  (B) The term “legume” means forage legumes (such as alfalfa or clover) or any legume grown for use as a forage or green manure, but not including any bean crop from which the seeds are harvested.
-
-  (C) The term “small grain” shall not include malting barley or wheat, except for wheat interplanted with other small grain crops for nonhuman consumption.
-
-  (D) The term “alternative crops” means experimental and industrial crops grown in arid and semiarid regions that conserve soil and water.
-
-**(c) Eligibility** To be eligible to participate in the program established by this section, a producer must—
-
-(1) prepare and submit to the Secretary for approval an integrated farm management plan (hereafter referred to in this section as the “plan”);
-
-(2) actively apply the terms and conditions of the plan, as approved by the Secretary;
-
-(3) devote to a resource-conserving crop, on the average through the life of the contract, not less than 20 percent of the crop acreage bases enrolled under such program;
-
-(4) comply with the terms and conditions of any annual acreage limitation program in effect for the crop acreage bases contracted under the terms of this subsection; and
-
-(5) keep such records as the Secretary may reasonably require.
-
-**(d) Acreage** In accepting contracts for the program, the Secretary, to the extent practicable, shall enroll not less than 3,000,000, nor more than 5,000,000, acres of cropland in each of the calendar years 1991 through 1995.
-
-**(e) Contracts** The Secretary shall enter into contracts with producers to enroll acreage in the program. Such contracts shall be for a period of not less than 3 years, but may, at the producer’s option, be for a longer period of time (up to 5 years) and may be renewed upon mutual agreement between the Secretary and the producer.
-
-**(f) Requirements of plans** Each plan approved by the Secretary shall—
-
-(1) specify the acreage and the crop acreage bases to be enrolled in the program;
-
-(2) describe the resource-conserving crop rotation to be implemented and maintained on such acreage during the contract period to fulfill the purposes of the program;
-
-(3) contain a schedule for the implementation, improvement and maintenance of the resource-conserving crop rotation described in the plan;
-
-(4) describe the farming operations and practices to be implemented on such acreage and how such operations and practices could reasonably be expected to result in—
-
-  (A) the maintenance or enhancement of the overall productivity and profitability of the farm;
-
-  (B) the prevention of the degradation of farmland soils, the long-term improvement of the fertility and physical properties of such soils; and
-
-  (C) the protection of water supplies from contamination by managing or minimizing agricultural pollutants if their management or minimization results in positive economic and environmental benefits;
-
-(5) assist the producer to comply with all Federal, State, and local requirements designed to protect soil, wetland, wildlife habitat, and the quality of groundwater and surface water; and
-
-(6) contain such other terms as the Secretary may, by regulation, require.
-
-**(g) Administration; certification; termination**
-
-(1) **Administration; technical assistance; flexibility; implementation; displacement**
-
-  (A) *Administration* — The program shall be administered by the Secretary.
-
-  (B) *Technical assistance* — In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans, and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
-
-  (C) *Flexibility* — In administering the program, the Secretary shall provide sufficient flexibility for a producer to adjust or modify the producer’s plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
-
-  (D) *Minimization of adverse effect*
-
-    (i) *In general* — Notwithstanding any other provision of this section, the Secretary shall implement this section in such a manner as to minimize any adverse economic effect on the agribusinesses and other agriculturally related economic interests within any county, State, or region that may result from a decrease of harvested acres due to the operation of this section. In carrying out this section, the Secretary may restrict the total amount of crop acreage that may be removed from production, taking into consideration the total amount of crop acreage that has, or will be, removed from production under other price support, production adjustment, or conservation program activities.
-
-    (ii) *Maximize conservation goals* — The Secretary shall, to the greatest extent practicable, permit producers on a farm that desire to participate in the program authorized under this section to enroll acreage adequate to maximize conservation goals on such farm and ensure economic effectiveness of the program in each individual application.
-
-  (E) *Displacement* — The Secretary shall not approve any plan that will result in the involuntary displacement of farm tenants or lessees by landowners through the removal of substantial portions of the farm from production of a commodity. In the case of any tenant or lessee who has rented or leased the farm (with or without a written option for annual renewal or periodic renewals) for a period of two or more of the immediately preceding years, the Secretary shall consider the refusal by a landlord, without reasonable cause other than simply for the purpose of enrollment in the program, to renew such rental or lease as an involuntary displacement in the absence of a written consent to such nonrenewal by the tenant or lessee.
-
-(2) **Certification** — The Secretary shall certify compliance by producers with the terms and conditions of the plans.
-
-(3) **Termination** — The Secretary may terminate a contract entered into with a producer under this program if—
-
-  (A) the producer agrees to such termination, or
-
-  (B) the producer violates the terms and conditions of such contract.
-
-**(h) Program rules**
-
-(1) **Base and yield protection** — Notwithstanding any other provision of law, the Secretary shall not, except as provided in paragraph (6), reduce crop acreage bases, or farm program payment yields, as a result of the planting of a resource-conserving crop as part of a resource-conserving crop rotation.
-
-(2) **Resource-conserving crops on reduced acreage** — Notwithstanding the provisions of title I of the Agricultural Act of 1949 [[7 U.S.C. 1441](./chapter-35a-price-support-of-agricultural-commodities.md#section-1441) et seq.], acreage devoted to resource-conserving crops as part of a resource-conserving crop rotation under this program may also be designated as conservation use acreage for the purpose of fulfilling any provisions under any acreage limitation or land diversion program and up to 50 percent of the acreage so designated shall be without restrictions on haying and grazing, except as provided in paragraph (5)(B), except that such acreage that is devoted to perennial cover on which cost-share assistance for the establishment of the perennial cover has been provided, shall not be credited towards the producer’s resource-conserving crop requirement under a contract under this section.
-
-(3) **Barley, oats, and wheat** — Notwithstanding any other provisions of this section, barley, oats, or wheat planted as part of a resource-conserving crop on reduced acreage may not be harvested in kernel form.
-
-(4) **Payment acres** — Notwithstanding any other provision of this Act, the Secretary shall not reduce farm program payments of participants in this program as a result of the planting a resource-conserving crop as part of a resource-conserving crop rotation on payment acres.
-
-(5) **Haying and grazing restriction**
-
-  (A) *In general* — The Secretary shall not make any program payments to a producer who is otherwise eligible to receive with respect to acreage enrolled in the program if such producer hays or grazes such acreage (excluding acreage designated as conservation use acreage) during the 5-month period in each State during which haying and grazing of conserving use acres is not allowed under the provisions of the Agricultural Act of 1949 [[7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.], or, if the crop planted on such acreage includes a small grain, before the producer harvests the small grain crop in kernel form.
-
-  (B) *Limitation on permitted haying and grazing* — Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
-
-(6) **Base acre adjustments** — The Secretary, only for the purpose of establishing a producer’s crop acreage base under the Agricultural Act of 1949 [[7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
-
-(7) **Payment acreage limitation**
-
-  (A) *In general* — No producers enrolled in a resource-conserving crop rotation shall be eligible to receive payments under farm programs for wheat, feed grains, cotton, or rice under the Agricultural Act of 1949 [[7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.] on acreage equal to the average number of traditionally underplanted acres for the three years prior to enrolling in this program.
-
-  (B) *“Traditionally underplanted acreage” defined*
-
-    (i) *In general* — Subject to clause (ii), for the purposes of this paragraph the term “traditionally underplanted acreage” means the difference in a particular year between the acreage that is part of a producer’s crop acreage base that is not planted to the program crop and the part of the crop acreage base subject to an acreage limitation program or required to be set aside, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1). In no case shall such acreage be less than zero.
-
-    (ii) *Exception* — In the case of a producer participating in a particular year in a program authorized under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E) 11 See References in Text note below. of the Agricultural Act of 1949, the term “traditionally underplanted acreage” means 8 percent of the producer’s permitted acreage for such year.
+## § 5831. Repealed. Pub. L. 115–334, title II, § 2816, Dec. 20, 2018, 132 Stat. 4602
 
 ### Statutory Notes
 
-#### References in Text
-The Agricultural Act of 1949, referred to in subsec. (h)(2), (5)(A), (6), (7)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Agricultural Act of 1949, is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. Sections 101B, 103B, 105B, and 107B of the Act were classified to sections 1441–2, 1444–2, 1444f, and 1445b–3a of this title prior to repeal by Pub. L. 104–127, title I, § 171(b)(2)(A)–(D), Apr. 4, 1996, 110 Stat. 938. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
-
-This Act, referred to in subsec. (h)(4), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended, known as the Food, Agriculture, Conservation, and Trade Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
-
-Section 1101 of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (h)(7)(B)(i), is section 1101 of Pub. L. 101–508, which amended former sections 1441–2, 1444–2, 1444f, and 1445b–3a of this title.
-
-#### Codification
-Section was not enacted as part of subtitle B of title XVI of Pub. L. 101–624 which comprises this subchapter.
-
-#### Amendments
-1991—Subsec. (b)(1)(D). Pub. L. 102–237, § 201(a)(1), substituted “subsection (f)” for “subsection (e)”.
-
-Subsec. (d). Pub. L. 102–237, § 201(a)(2), inserted “each of” before “the calendar”.
-
-Subsec. (f)(5). Pub. L. 102–237, § 201(a)(3), substituted “assist” for “assisting”.
-
-Subsec. (h)(7)(B)(i). Pub. L. 102–237, § 201(a)(4)(A), inserted before period at end of first sentence “, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1)”.
-
-Subsec. (h)(7)(B)(ii). Pub. L. 102–237, § 201(a)(4)(B), substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section 101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
-
-1990—Subsec. (d). Pub. L. 101–508, § 1204(a)(1), substituted “enroll not less than” for “enroll not more than”.
-
-Subsec. (h)(7)(A). Pub. L. 101–508, § 1204(a)(2), substituted “shall be eligible” for “shall not be eligible”.
-
-#### Effective Date of 1991 Amendment
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
-
-#### Effective Date of 1990 Amendment
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 940d of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-940d).
+Section, Pub. L. 101–624, title XIV, § 1451, Nov. 28, 1990, 104 Stat. 3607; Pub. L. 101–508, title I, § 1204(a), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title II, § 201(a), Dec. 13, 1991, 105 Stat. 1846, related to Integrated Farm Management Program Option to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans.
 
 
 <a id="section-5832"></a>
@@ -602,7 +471,7 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 (1) such sums as are necessary for fiscal year 2013; and
 
-(2) $5,000,000 for each of fiscal years 2014 through 2018.
+(2) $5,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -612,6 +481,8 @@ This subchapter, referred to in subsecs. (a), (c), and (d), was in the original 
 Chapter 86 of this title, referred to in subsecs. (a) and (d), was in the original “subtitle G of title XIV”, meaning subtitle G (§§ 1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, § 302(c), June 23, 1998, 112 Stat. 563.
 
 #### Amendments
+2018—Subsec. (f)(2). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (f). Pub. L. 113–79 amended subsec. (f) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
 
 1996—Subsec. (a). Pub. L. 104–127, § 862(b)(3), struck out “[section 5881 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5881&num=0&edition=prelim),” before “and other appropriate”.
@@ -641,13 +512,17 @@ Subsec. (d). Pub. L. 104–127, § 862(b)(3), struck out “[section 5881 of thi
 
 (4) unless otherwise prohibited by law, have the right to make available on request, without charge and without regard to the country from which the request originates, the genetic material that the program assembles;
 
-(5) expand the types of genetic resources included in the program to develop a comprehensive genetic resources program which includes plants (including silvicultural species), animal, aquatic, insect, microbiological, and other types of genetic resources of importance to food and agriculture, as resources permit; and
+(5) expand the types of genetic resources included in the program to develop a comprehensive genetic resources program which includes plants (including silvicultural species), animal, aquatic, insect, microbiological, and other types of genetic resources of importance to food and agriculture, as resources permit;
 
-(6) engage in such other activities as the Secretary determines appropriate and as the resources of the program permit.
+(6) develop and implement a national strategic germplasm and cultivar collection assessment and utilization plan that takes into consideration the resources and research necessary to address the significant backlog of characterization and maintenance of existing accessions considered to be critical to preserve the viability of, and public access to, germplasm and cultivars; and
+
+(7) engage in such other activities as the Secretary determines appropriate and as the resources of the program permit.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d)(6), (7). Pub. L. 115–334 added par. (6) and redesignated former par. (6) as (7).
+
 1996—Subsec. (d)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “make available upon request, without charge and without regard to the country from which such request originates, the genetic material which the program assembles;”.
 
 
@@ -691,9 +566,13 @@ Subsec. (d). Pub. L. 104–127, § 862(b)(3), struck out “[section 5881 of thi
 
 (3) evaluating the potential effect of various national laws, including national quarantine requirements, as well as treaties, agreements, and the activities of international organizations on the development of a comprehensive international system for the collection and maintenance of genetic resources of importance to agriculture.
 
+**(f) Plan publication** On completion of the development of the plan described in [section 5841(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5841/d/6&num=0&edition=prelim), the Secretary shall make the plan available to the public.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–334 added subsec. (f).
+
 1991—Subsec. (a). Pub. L. 102–237 substituted “Resources Program” for “Resources program”.
 
 #### Termination of Reporting Requirements
@@ -702,7 +581,29 @@ For termination, effective May 15, 2000, of provisions in subsec. (d) of this se
 
 <a id="section-5843"></a>
 ## § 5843. Advisory council
-**(a) Establishment and membership** The Secretary shall establish an advisory council for the program for the purpose of advising, assisting, consulting with, and making recommendations to, the Secretary and Director concerning matters related to the activities, policies and operations of the program. The advisory council shall consist of ex officio members and not more than nine members appointed by the Secretary.
+**(a) Establishment and membership**
+
+(1) **In general** — The Secretary shall establish an advisory council for the program for the purpose of advising, assisting, consulting with, and making recommendations to, the Secretary and Director concerning matters related to the activities, policies and operations of the program.
+
+(2) **Membership** — The advisory council shall consist of ex officio members and not more than 13 members appointed by the Secretary.
+
+(3) **Recommendations**
+
+  (A) *In general* — In making recommendations under paragraph (1), the advisory council shall include recommendations on—
+
+    (i) the state of public cultivar development, including—
+
+      (I) an analysis of existing cultivar research investments;
+
+      (II) the research gaps relating to the development of cultivars across a diverse range of crops; and
+
+      (III) an assessment of the state of commercialization of federally funded cultivars;
+
+    (ii) the training and resources needed to meet future breeding challenges;
+
+    (iii) the appropriate levels of Federal funding for cultivar development for underserved crops and geographic areas; and
+
+    (iv) the development of the plan described in [section 5841(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5841/d/6&num=0&edition=prelim).
 
 **(b) Ex officio members** The ex officio members of the advisory council shall consist of the following persons (or their designees):
 
@@ -724,9 +625,21 @@ For termination, effective May 15, 2000, of provisions in subsec. (d) of this se
 
 **(c) Appointment of other members** The members of the advisory council who are not ex officio members shall be appointed by the Secretary as follows:
 
-(1) Two-thirds of the members shall be appointed from among the leading representatives of the scientific disciplines relevant to the activities of the program, including agricultural sciences, environmental sciences, natural resource sciences, health sciences, and nutritional sciences.
+(1) 6 of the members shall be appointed from among the leading representatives of the scientific disciplines relevant to the activities of the program, including agricultural sciences, economics and policy, environmental sciences, natural resource sciences, health sciences, and nutritional sciences.
 
-(2) One-third of the members shall be appointed from the general public and shall include leaders in fields of public policy, trade, international development, law, or management.
+(2) 3 of the members shall be appointed from the general public and shall include leaders in fields of public policy, community development, trade, international development, law, or management.
+
+(3) 4 of the members shall be appointed from among individuals with expertise in public cultivar and animal breed development.
+
+(4) 4 of the members shall be appointed from among individuals representing—
+
+  (A) 1862 Institutions (as defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601));
+
+  (B) 1890 Institutions (as defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601));
+
+  (C) Hispanic-serving institutions (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)); or
+
+  (D) 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 ([7 U.S.C. 301](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) note; Public Law 103–382)).
 
 **(d) Compensation** Members of the advisory council shall serve without compensation, if not otherwise officers or employees of the United States, except that they shall, while away from their homes or regular places of business in the performance of services for the advisory council, be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under sections 5701 through 5707 of title 5.
 
@@ -766,6 +679,18 @@ For termination, effective May 15, 2000, of provisions in subsec. (d) of this se
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (l), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334, § 7206(a)(1)(A), designated first sentence as par. (1) and inserted heading.
+
+Subsec. (a)(2). Pub. L. 115–334, § 7206(a)(1)(B), (C), designated second sentence as par. (2), inserted heading, and substituted “13” for “nine”.
+
+Subsec. (a)(3). Pub. L. 115–334, § 7206(a)(1)(D), added par. (3).
+
+Subsec. (c)(1). Pub. L. 115–334, § 7206(a)(2)(A), substituted “6” for “Two-thirds” and inserted “economics and policy,” after “agricultural sciences,”.
+
+Subsec. (c)(2). Pub. L. 115–334, § 7206(a)(2)(B), substituted “3” for “One-third” and inserted “community development,” after “public policy,”.
+
+Subsec. (c)(3), (4). Pub. L. 115–334, § 7206(a)(2)(C), added pars. (3) and (4).
+
 1991—Subsec. (l). Pub. L. 102–237 substituted “council established” for “committee established”.
 
 
@@ -783,7 +708,7 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (l),
 
 (1) such sums as are necessary for each of fiscal years 1991 through 2013; and
 
-(2) $1,000,000 for each of fiscal years 2014 through 2018.
+(2) $1,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -791,6 +716,8 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (l),
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (b). Pub. L. 113–79 struck out “such funds as may be necessary” after “appropriated”, substituted “subchapter—” for “subchapter for each of the fiscal years 1991 through 2012.”, and added pars. (1) and (2).
 
 2008—Subsec. (b). Pub. L. 110–246, § 7201, substituted “2012” for “2007”.
@@ -942,7 +869,7 @@ Amendment by section 7511(c)(19) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 **(b) Limitations on use of funds** Funds provided under the authority of this subchapter shall not be used for the construction of facilities. Each State or agency receiving funds shall not use more than 30 percent of such funds for equipment purchases. Any use of the funds in facilitating the distribution of agricultural and climate information to producers shall be done with consideration for the role that the private meteorological sector can play in such information delivery.
 
-**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of the fiscal years 2008 through 2012 and $1,000,000 for each of fiscal years 2014 through 2018.
+**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of the fiscal years 2008 through 2012 and $1,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -950,6 +877,8 @@ Amendment by section 7511(c)(19) of Pub. L. 110–246 effective Oct. 1, 2009, se
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (c). Pub. L. 113–79 substituted “to carry out this subchapter $5,000,000” for “$5,000,000 to carry out this subchapter” and inserted “and $1,000,000 for each of fiscal years 2014 through 2018” before period at end.
 
 2008—Subsec. (a)(2). Pub. L. 110–246, § 7511(c)(20)(A), substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”.
@@ -964,6 +893,48 @@ Subsec. (c). Pub. L. 110–246, § 7202, substituted “2008 through 2012” for
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Amendment by section 7511(c)(20) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under [section 1522 of this title](./chapter-036-crop-insurance.md#section-1522).
+
+
+<a id="section-5856"></a>
+## § 5856. Improvements to United States Drought Monitor
+**(a) In general** The Secretary shall coordinate with the Director of the National Drought Mitigation Center and the Administrator of the National Oceanic and Atmospheric Administration to enhance the collection of data to improve the accuracy of the United States Drought Monitor.
+
+**(b) Utilization** To the maximum extent practicable, the Secretary shall utilize a consistent source or sources of data for programs that are based on drought or precipitation indices, such as the livestock forage disaster program established under [section 9081(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9081/c&num=0&edition=prelim) or policies or plans of insurance established under the Federal Crop Insurance Act ([7 U.S.C. 1501](./chapter-036-crop-insurance.md#section-1501) et seq.).
+
+**(c) Review** Not later than 1 year after December 20, 2018, the Secretary shall conduct a review of—
+
+(1) the types of data currently utilized by the United States Drought Monitor;
+
+(2) the geographic coverage and density of existing data collection sites; and
+
+(3) other meteorological or climatological data that is being collected by other Federal agencies, State and local governments, and non-Federal entities that could be utilized by the United States Drought Monitor.
+
+**(d) Improvements**
+
+(1) **In general** — Upon the completion of the review prescribed in subsection (c), the Secretary shall—
+
+  (A) seek to expand the collection of relevant data in States or geographic areas where coverage is currently lacking as compared to other States or geographic areas; and
+
+  (B) to the maximum extent practicable, develop standards to allow the integration of meteorological or climatological data into the United States Drought Monitor derived from—
+
+    (i) in-situ soil moisture profile measuring devices;
+
+    (ii) citizen science (as defined in the Crowdsourcing and Citizen Science Act ([15 U.S.C. 3724](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3724&num=0&edition=prelim))), including data from the Cooperative Observer Program of the National Weather Service; and
+
+    (iii) other Federal agencies, State and local governments, and non-Federal entities.
+
+(2) **Authorization of appropriations** — There is to be authorized to be appropriated to the Secretary to carry out this subsection $5,000,000 for each of fiscal years 2019 through 2023.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Crop Insurance Act, referred to in subsec. (b), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see [section 1501 of this title](./chapter-036-crop-insurance.md#section-1501) and Tables.
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of subtitle C of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+#### Definitions
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
 <a id="section-5871-to-5874"></a>
@@ -1121,44 +1092,52 @@ A prior section 5923, Pub. L. 101–624, title XVI, § 1670, Nov. 28, 1990, 104 
 
 
 <a id="section-5924"></a>
-## § 5924. Agricultural Genome Initiative
+## § 5924. Agricultural Genome to Phenome Initiative
 **(a) Goals** The goals of this section are—
 
-(1) to expand the knowledge of public and private sector entities and persons concerning genomes for species of importance to the food and agriculture sectors in order to maximize the return on the investment in genomics of agriculturally important species;
+(1) to expand knowledge concerning genomes and phenomes of crops and animals of importance to the agriculture sector of the United States;
 
-(2) to focus on the species that will yield scientifically important results that will enhance the usefulness of many agriculturally important species;
+(2) to understand how variable weather, environments, and production systems impact the growth and productivity of specific varieties of crops and species of animals in order to provide greater accuracy in predicting crop and animal performance under variable conditions;
 
-(3) to build on genomic research, such as the Human Genome Initiative and the Arabidopsis Genome Project, to understand gene structure and function that is expected to have considerable payoffs in agriculturally important species;
+(3) to support research that leverages plant and animal genomic information with phenotypic and environmental data through an interdisciplinary framework, leading to a novel understanding of plant and animal processes that affect growth, productivity, and the ability to predict performance, which will result in the deployment of superior varieties and species to producers and improved crop and animal management recommendations for farmers and ranchers;
 
-(4) to develop improved bioinformatics to enhance both sequence or structure determination and analysis of the biological function of genes and gene products;
+(4) to catalyze and coordinate research that links genomics and predictive phenomics at different sites across the United States to achieve advances in crops and animals that generate societal benefits;
 
-(5) to encourage Federal Government participants to maximize the utility of public and private partnerships for agricultural genome research;
+(5) to combine fields such as genetics, genomics, plant physiology, agronomy, climatology, and crop modeling with computation and informatics, statistics, and engineering;
 
-(6) to allow resources developed under this section, including data, software, germplasm, and other biological materials, to be openly accessible to all persons, subject to any confidentiality requirements imposed by law; and
+(6) to combine fields such as genetics, genomics, animal physiology, meat science, animal nutrition, and veterinary science with computation and informatics, statistics, and engineering;
 
-(7) to encourage international partnerships with each partner country responsible for financing its own strategy for agricultural genome research.
+(7) to focus on crops and animals that will yield scientifically important results that will enhance the usefulness of many other crops and animals;
 
-**(b) Duties of Secretary** The Secretary of Agriculture (referred to in this section as the “Secretary”) shall conduct a research initiative (to be known as the “Agricultural Genome Initiative”) for the purpose of—
+(8) to build on genomic research, such as the Plant Genome Research Project and the National Animal Genome Research Program, to understand gene function in production environments that is expected to have considerable returns for crops and animals of importance to the agriculture of the United States;
 
-(1) studying and mapping agriculturally significant genes to achieve sustainable and secure agricultural production;
+(9) to develop improved data analytics to enhance understanding of the biological function of genes;
 
-(2) ensuring that current gaps in existing agricultural genetics knowledge are filled;
+(10) to allow resources developed under this section, including data, software, germplasm, and other biological materials, to be openly accessible to all persons, subject to any confidentiality requirements imposed by law; and
 
-(3) identifying and developing a functional understanding of genes responsible for economically important traits in agriculturally important species, including emerging plant and animal pathogens and diseases causing economic hardship;
+(11) to encourage international partnerships with each partner country responsible for financing its own research.
 
-(4) ensuring future genetic improvement of agriculturally important species;
+**(b) Duties of Secretary** The Secretary of Agriculture (referred to in this section as the “Secretary”) shall conduct a research initiative, to be known as the “Agricultural Genome to Phenome Initiative”, for the purpose of—
 
-(5) supporting preservation of diverse germplasm;
+(1) studying agriculturally significant crops and animals in production environments to achieve sustainable and secure agricultural production;
 
-(6) ensuring preservation of biodiversity to maintain access to genes that may be of importance in the future;
+(2) ensuring that current gaps in existing knowledge of agricultural crop and animal genetics and phenomics are filled;
 
-(7) reducing the economic impact of plant pathogens on commercially important crop plants; and
+(3) identifying and developing a functional understanding of relevant genes from animals and agronomically relevant genes from crops that are of importance to the agriculture sector of the United States;
+
+(4) ensuring future genetic improvement of crops and animals of importance to the agriculture sector of the United States;
+
+(5) studying the relevance of diverse germplasm as a source of unique genes that may be of importance in the future;
+
+(6) enhancing genetics to reduce the economic impact of pathogens on crops and animals of importance to the agriculture sector of the United States;
+
+(7) disseminating findings to relevant audiences; and
 
 (8) otherwise carrying out this section.
 
 **(c) Grants and cooperative agreements**
 
-(1) **Authority** — The Secretary may make grants or enter into cooperative agreements with individuals and organizations in accordance with [section 3318 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3318).
+(1) **Authority** — The Secretary, acting through the National Institute of Food and Agriculture, may make grants or enter into cooperative agreements with individuals and organizations in accordance with [section 3318 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3318).
 
 (2) **Competitive basis** — A grant or cooperative agreement under this subsection shall be made or entered into on a competitive basis.
 
@@ -1166,7 +1145,29 @@ A prior section 5923, Pub. L. 101–624, title XVI, § 1670, Nov. 28, 1990, 104 
 
 **(d) Administration** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of a grant or cooperative agreement under this section.
 
-**(e) Consultation with National Academy of Sciences** The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.
+**(e) Consultation with National Academy of Sciences** The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome to Phenome Initiative.
+
+**(f) Matching funds requirement**
+
+(1) **In general** — Subject to paragraph (3), with respect to a grant or cooperative agreement under this section that provides a particular benefit to a specific agricultural commodity, the recipient of funds under the grant or cooperative agreement shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount provided under the grant or cooperative agreement.
+
+(2) **In-kind support** — Non-Federal matching funds described in paragraph (1) may include in-kind support.
+
+(3) **Waiver** — The Secretary may waive the matching funds requirement under paragraph (1) with respect to a research project if the Secretary determines that—
+
+  (A) the results of the project are of a particular benefit to a specific agricultural commodity, but those results are likely to be applicable to agricultural commodities generally; or
+
+  (B)
+
+    (i) the project—
+
+      (I) involves a minor commodity; and
+
+      (II) deals with scientifically important research; and
+
+    (ii) the recipient is unable to satisfy the matching funds requirement.
+
+**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -1174,6 +1175,22 @@ A prior section 5923, Pub. L. 101–624, title XVI, § 1670, Nov. 28, 1990, 104 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334, § 7208(1), inserted “to Phenome” after “Genome” in section catchline.
+
+Subsec. (a). Pub. L. 115–334, § 7208(2), added subsec. (a) and struck out former subsec. (a) which related to goals for the Agricultural Genome Initiative.
+
+Subsec. (b). Pub. L. 115–334, § 7208(3), added subsec. (b) and struck out former subsec. (b) which related to duties of the Secretary of Agriculture under the Agricultural Genome Initiative.
+
+Subsec. (c)(1). Pub. L. 115–334, § 7208(4), inserted “, acting through the National Institute of Food and Agriculture,” after “The Secretary”.
+
+Subsec. (e). Pub. L. 115–334, § 7208(5), inserted “to Phenome” after “Genome”.
+
+Subsec. (f). Pub. L. 115–334, § 7614(b)(2)(B), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+Pub. L. 115–334, § 7208(6), added subsec. (f).
+
+Subsec. (g). Pub. L. 115–334, § 7614(b)(2)(B)(i), redesignated subsec. (f) as (g).
+
 2014—Subsec. (c)(3). Pub. L. 113–79, § 7208, added par. (3).
 
 Subsecs. (e), (f). Pub. L. 113–79, § 7128(b)(2)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to matching of funds.
@@ -1190,6 +1207,9 @@ Subsec. (b)(7), (8). Pub. L. 107–171, § 7208(a)(2)–(4), added par. (7) and 
 
 1995—Subsecs. (g), (h). Pub. L. 104–66 redesignated subsec. (h) as (g) and struck out former subsec. (g) which required Secretary to submit annual reports to Congress describing operations of grant program for plant genome mapping.
 
+#### Effective Date of 2018 Amendment
+Amendment by section 7614(b)(2)(B) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
@@ -1198,7 +1218,31 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
 <a id="section-5925"></a>
 ## § 5925. High-priority research and extension initiatives
-**(a) Competitive specialized research and extension grants authorized** The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g). The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+**(a) Competitive specialized research and extension grants authorized**
+
+(1) **In general** — The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g).
+
+(2) **Matching funds requirement**
+
+  (A) *In general* — Subject to subparagraph (C), an entity receiving a grant under paragraph (1) shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
+
+  (B) *In-kind support* — Non-Federal matching funds described in subparagraph (A) may include in-kind support.
+
+  (C) *Waiver* — The Secretary may waive the matching funds requirement under subparagraph (A) with respect to a research project if the Secretary determines that—
+
+    (i) the results of the project are of a particular benefit to a specific agricultural commodity, but those results are likely to be applicable to agricultural commodities generally; or
+
+    (ii)
+
+      (I) the project—
+
+        (aa) involves a minor commodity; and
+
+        (bb) deals with scientifically important research; and
+
+      (II) the recipient is unable to satisfy the matching funds requirement.
+
+(3) **Consultation** — The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 
 **(b) Administration**
 
@@ -1224,7 +1268,7 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
 (7) **Women and minorities in stem fields** — Research and extension grants may be made under this section to increase participation by women and underrepresented minorities from rural areas in the fields of science, technology, engineering, and mathematics, with priority given to eligible institutions that carry out continuing programs funded by the Secretary.
 
-(8) **Alfalfa and forage research program** — Research and extension grants may be made under this section for the purpose of studying improvements in alfalfa and forage yields, biomass and persistence, pest pressures, the bioenergy potential of alfalfa and other forages, and systems to reduce losses during harvest and storage.
+(8) **Alfalfa seed and alfalfa forage systems research program** — Research and extension grants may be made under this section for the purpose of studying improvements in alfalfa seed and alfalfa forage systems yields, biomass and persistence, pest pressures, the bioenergy potential of alfalfa seed and other alfalfa forage systems to reduce losses during harvest and storage.
 
 (9) **Coffee plant health initiative** — Research and extension grants may be made under this section for the purposes of—
 
@@ -1233,6 +1277,82 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
   (B) establishing an areawide integrated pest management program in areas affected by, or areas at risk of, being affected by the coffee berry borer.
 
 (10) **Corn, soybean meal, cereal grains, and grain byproducts research and extension** — Research and extension grants may be made under this section for the purpose of carrying out or enhancing research to improve the digestibility, nutritional value, and efficiency of the use of corn, soybean meal, cereal grains, and grain byproducts for the poultry and food animal production industries.
+
+(11) **Macadamia tree health initiative** — Research and extension grants may be made under this section for the purposes of—
+
+  (A) developing and disseminating science-based tools and treatments to combat the macadamia felted coccid (Eriococcus ironsidei); and
+
+  (B) establishing an areawide integrated pest management program in areas affected by, or areas at risk of being affected by, the macadamia felted coccid.
+
+(12) **National turfgrass research initiative** — Research and extension grants may be made under this section for the purposes of—
+
+  (A) carrying out or enhancing research related to turfgrass and sod issues;
+
+  (B) enhancing production and uses of turfgrass for the general public;
+
+  (C) identifying new turfgrass varieties with superior drought, heat, cold, and pest tolerance to reduce water, fertilizer, and pesticide use;
+
+  (D) selecting genetically superior turfgrasses and developing improved technologies for managing commercial, residential, and recreational turfgrass areas;
+
+  (E) producing turfgrasses that—
+
+    (i) aid in mitigating soil erosion;
+
+    (ii) protect against pollutant runoff into waterways; or
+
+    (iii) provide other environmental benefits;
+
+  (F) investigating, preserving, and protecting native plant species, including grasses not currently utilized in turfgrass systems;
+
+  (G) creating systems for more economical and viable turfgrass seed and sod production throughout the United States; and
+
+  (H) investigating the turfgrass phytobiome and developing biologic products to enhance soil, enrich plants, and mitigate pests.
+
+(13) **Fertilizer management initiative**
+
+  (A) *In general* — Research and extension grants may be made under this section for the purpose of carrying out research to improve fertilizer use efficiency in crops—
+
+    (i) to maximize crop yield; and
+
+    (ii) to minimize nutrient losses to surface and groundwater and the atmosphere.
+
+  (B) *Priority* — In awarding grants under subparagraph (A), the Secretary shall give priority to research examining the impact of the source, rate, timing, and placement of plant nutrients.
+
+(14) **Cattle fever tick program** — Research and extension grants may be made under this section to study cattle fever ticks—
+
+  (A) to facilitate the understanding of the role of wildlife in the persistence and spread of cattle fever ticks;
+
+  (B) to develop advanced methods for eradication of cattle fever ticks, including—
+
+    (i) alternative treatment methods for cattle and other susceptible species;
+
+    (ii) field treatment for premises, including corral pens and pasture loafing areas;
+
+    (iii) methods for treatment and control on infested wildlife;
+
+    (iv) biological control agents; and
+
+    (v) new and improved vaccines;
+
+  (C) to evaluate rangeland vegetation that impacts the survival of cattle fever ticks;
+
+  (D) to improve management of diseases relating to cattle fever ticks that are associated with wildlife, livestock, and human health;
+
+  (E) to improve diagnostic detection of tick-infested or infected animals and pastures; and
+
+  (F) to conduct outreach to impacted ranchers, hunters, and landowners to integrate tactics and document sustainability of best practices.
+
+(15) **Laying hen and turkey research program** — Research grants may be made under this section for the purpose of improving the efficiency and sustainability of laying hen and turkey production through integrated, collaborative research and technology transfer. Emphasis may be placed on laying hen and turkey disease prevention, antimicrobial resistance, nutrition, gut health, and alternative housing systems under extreme seasonal weather conditions.
+
+(16) **Chronic wasting disease** — Research and extension grants may be made under this section for the purposes of supporting research projects at land-grant colleges and universities (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)) with established deer research programs for the purposes of treating, mitigating, or eliminating chronic wasting disease.
+
+(17) **Algae agriculture research program** — Research and extension grants may be made under this section for the development and testing of algae and algae systems (including micro- and macro-algae systems).
+
+(18) **Nutrient management** — Research and extension grants may be made under this section for the purposes of examining nutrient management based on the source, rate, timing, and placement of crop nutrients.
+
+(19) **Dryland farming agricultural systems** — Research and extension grants may be made under this section for the purposes of carrying out or enhancing research on the utilization of big data for more precise management of dryland farming agricultural systems.
+
+(20) **Hop plant health initiative** — Research and extension grants may be made under this section for the purposes of developing and disseminating science-based tools and treatments to combat diseases of hops caused by the plant pathogens Podosphaera macularis and Pseudoperonospora humuli.
 
 **(e) Pulse crop health initiative**
 
@@ -1280,7 +1400,7 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
   (B) include explicit mechanisms to communicate results to the pulse crop industry and the public.
 
-(5) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2018.
+(5) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2023.
 
 **(f) Training coordination for food and agriculture protection**
 
@@ -1314,7 +1434,7 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
 (4) **Membership** — An eligible entity may alter the consortium membership to meet specific training expertise needs.
 
-(5) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+(5) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
 
 **(g) Pollinator protection**
 
@@ -1336,7 +1456,7 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
     (v) to promote the health of honey bees and native pollinators through habitat conservation and best management practices.
 
-  (B) *Authorization of appropriations* — There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2018.
+  (B) *Authorization of appropriations* — There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2023.
 
 (2) **Department of Agriculture capacity and infrastructure**
 
@@ -1346,17 +1466,99 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
     (ii) to conduct research on colony collapse disorder and other pollinator issues at the facilities of the Department.
 
-  (B) *Authorization of appropriations* — There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2018.
+  (B) *Authorization of appropriations* — There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2023.
 
-(3) **Honey bee surveillance** — There is authorized to be appropriated to conduct a nationwide honey bee pest, pathogen, health, and population status surveillance program $2,750,000 for each of fiscal years 2008 through 2018.
+(3) **Honey bee surveillance** — There is authorized to be appropriated to conduct a nationwide honey bee pest, pathogen, health, and population status surveillance program $2,750,000 for each of fiscal years 2008 through 2023.
 
-(4) **Consultation** — The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
+(4) **Enhanced coordination of honeybee and pollinator research**
+
+  (A) *In general* — The Chief Scientist of the Department of Agriculture shall coordinate research, extension, education, and economic activities in the Department of Agriculture relating to native and managed pollinator health and habitat.
+
+  (B) *Duties* — In carrying out subparagraph (A), the Chief Scientist shall—
+
+    (i) assign an individual to serve in the Office of the Chief Scientist as a Honeybee and Pollinator Research Coordinator who shall be responsible for leading the efforts of the Chief Scientist in carrying out such subparagraph;
+
+    (ii) implement and coordinate pollinator health research efforts of the Department, as recommended by the Pollinator Health Task Force;
+
+    (iii) establish annual strategic priorities and goals for the Department for native and managed pollinator research;
+
+    (iv) communicate such priorities and goals to each agency or office of the Department of Agriculture, the managed pollinator industry, and relevant grant recipients under programs administered by the Secretary; and
+
+    (v) coordinate and identify all research on native and managed pollinator health needed and conducted by the Department of Agriculture and relevant grant recipients under programs administered by the Secretary to ensure consistency and reduce unintended duplication of effort.
+
+  (C) *Research* — In coordinating research activities under subparagraph (A), the Chief Scientist shall ensure that such research—
+
+    (i) identifies and addresses the multiple stressors on pollinator health, including pests and pathogens, reduced habitat, lack of nutritional resources, and exposure to pesticides;
+
+    (ii) evaluates stewardship and management practices of managed pollinators that would impact managed pollinator health;
+
+    (iii) documents the prevalence of major pests, such as varroa destructor (commonly referred to as the varroa mite), and diseases that are transported between States through practices involving managed pollinators;
+
+    (iv) evaluates the impact of overcrowding of colonies for pollination services and the impact of such overcrowding on pollinator health status and pollinator health recovery;
+
+    (v) evaluates and reports on the health differences of managed pollinators in—
+
+      (I) crops not requiring contract pollination;
+
+      (II) crops requiring contract pollination; and
+
+      (III) native habitat;
+
+    (vi) evaluates the impact of horticultural and agricultural pest management practices on native and managed pollinator colonies in diverse agroecosystems;
+
+    (vii) documents pesticide residues that are—
+
+      (I) found in native and managed pollinator colonies; and
+
+      (II) associated with typical localized commercial crop pest management practices;
+
+    (viii) with respect to native and managed pollinator colonies visiting crops for crop pollination or honey production purposes, documents—
+
+      (I) the strength and health of such colonies;
+
+      (II) the survival, growth, reproduction, and production of such colonies;
+
+      (III) pests, pathogens, and viruses that affect such colonies;
+
+      (IV) environmental conditions of such colonies;
+
+      (V) beekeeper practices; and
+
+      (VI) any other relevant information, as determined by the Chief Scientist;
+
+    (ix) documents, with respect to healthy populations of managed pollinators, best management practices and other practices for managed pollinators and crop managers;
+
+    (x) evaluates the effectiveness of—
+
+      (I) conservation practices that target the specific needs of native and managed pollinator habitats;
+
+      (II) incentives that allow for the expansion of native and managed pollinator forage acreage; and
+
+      (III) managed pollinator breeding practices and efforts to, with respect to managed pollinators, avoid creating a genetic bottleneck and improve genetic diversity;
+
+    (xi) in the case of commercially managed pollinator colonies, continues to gather data—
+
+      (I) on an annual basis with respect to losses of such colonies, splits of such colonies, and the total number of pollinator colonies;
+
+      (II) on rising input costs; and
+
+      (III) overall economic value to the food economy; and
+
+    (xii) addresses any other issue relating to native and managed pollinators, as determined by the Chief Scientist, in consultation with scientific experts.
+
+  (D) *Publication* — The Chief Scientist, to the maximum extent practicable, shall—
+
+    (i) make publicly available the results of the research described in subparagraph (C); and
+
+    (ii) in the case of the research described in subparagraph (C)(vi), publish any data or reports that were produced by the Department of Agriculture but not made publicly available during the period beginning on January 1, 2008, and ending on December 20, 2018.
+
+(5) **Consultation** — The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
 
   (A) allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
 
   (B) planting and maintaining managed honey bee and native pollinator foraging on National Forest System lands where compatible with other natural resource management priorities.
 
-(5) **Annual report on response to honey bee colony collapse disorder** — The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report—
+(6) **Annual report on response to honey bee colony collapse disorder** — The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report—
 
   (A) describing the progress made by the Department of Agriculture in—
 
@@ -1370,7 +1572,7 @@ Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicit
 
   (C) providing recommendations to Congress regarding how to better coordinate Federal agency efforts to address the decline of managed honey bees and native pollinators.
 
-**(h) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018.
+**(h) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.
 
 ### Statutory Notes
 
@@ -1383,6 +1585,22 @@ The Agricultural Act of 2014, referred to in subsec. (f)(3)(F), is Pub. L. 113�
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+Subsec. (a). Pub. L. 115–334, § 7614(b)(2)(C), designated first and second sentences as pars. (1) and (3), respectively, inserted headings, and added par. (2).
+
+Subsec. (d)(8). Pub. L. 115–334, § 7209(1)(A), substituted, in heading, “Alfalfa seed and alfalfa forage systems” for “Alfalfa and forage”, and in text, substituted “alfalfa seed and alfalfa forage systems” for “alfalfa and forage” and “alfalfa seed and other alfalfa forage” for “alfalfa and other forages, and”.
+
+Subsec. (d)(11) to (20). Pub. L. 115–334, § 7209(1)(B), added pars. (11) to (20).
+
+Subsec. (e)(5). Pub. L. 115–334, § 7209(2), substituted “2023” for “2018”.
+
+Subsec. (f)(5). Pub. L. 115–334, § 7209(3), substituted “2023” for “2018”.
+
+Subsec. (g)(1)(B), (2)(B), (3). Pub. L. 115–334, § 7209(4)(A), substituted “2023” for “2018”.
+
+Subsec. (g)(4) to (6). Pub. L. 115–334, § 7209(4)(B), (C), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (h). Pub. L. 115–334, § 7209(5), substituted “2023” for “2018”.
+
 2014—Subsec. (a). Pub. L. 113–79, § 7209(1), substituted “subsections (d) through (g)” for “subsections (e) through (i)”.
 
 Subsec. (b)(2). Pub. L. 113–79, § 7209(2), substituted “subsections (d) through (g)” for “subsections (e) through (i)”.
@@ -1492,6 +1710,9 @@ Subsec. (k). Pub. L. 104–127, § 863(2), redesignated subsec. (k) as (g).
 Subsec. (i). Pub. L. 102–237, § 406(1), substituted “Secretary of Agriculture, acting through the Cooperative State Research Service, to make competitive grants” for “Agricultural Research Service”.
 
 Subsec. (k)(1). Pub. L. 102–237, § 406(2), substituted “Research” for “Except for research funded under subsection (i), research”.
+
+#### Effective Date of 2018 Amendment
+Amendment by section 7614(b)(2)(C) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1622,7 +1843,7 @@ Pub. L. 107–171, title VII, § 7411, May 13, 2002, 116 Stat. 462, provided tha
 
 <a id="section-5925b"></a>
 ## § 5925b. Organic agriculture research and extension initiative
-**(a) Competitive specialized research and extension grants authorized** In consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, the Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research, education, and extension activities regarding organically grown and processed agricultural commodities for the purposes of—
+**(a) Competitive specialized research and extension grants authorized** In consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, using funds made available under subsection (e), the Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants in each of fiscal years 2019 through 2023 to support research, education, and extension activities regarding organically grown and processed agricultural commodities for the purposes of—
 
 (1) facilitating the development and improvement of organic agriculture production, breeding, and processing methods;
 
@@ -1636,27 +1857,55 @@ Pub. L. 107–171, title VII, § 7411, May 13, 2002, 116 Stat. 462, provided tha
 
 (6) conducting advanced on-farm research and development that emphasizes observation of, experimentation with, and innovation for working organic farms, including research relating to production, marketing, food safety, socioeconomic conditions, and farm business management;
 
-(7) examining optimal conservation and environmental outcomes relating to organically produced agricultural products; and
+(7) examining optimal conservation, soil health, and environmental outcomes relating to organically produced agricultural products; and
 
 (8) developing new and improved seed varieties that are particularly suited for organic agriculture.
 
 **(b) Grant types and process, prohibition on construction** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of grants under this section.
 
-**(c) Partnerships encouraged** Following the completion of a peer review process for grant proposals received under this section, the Secretary may provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.
+**(c) Matching requirement**
 
-**(d) Funding** On October 1, 2003, and each October 1 thereafter through October 1, 2007, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $3,000,000 to the Secretary of Agriculture for this section.
+(1) **In general** — Subject to paragraph (3), an entity receiving a grant under subsection (a) shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
 
-**(e) Funding**
+(2) **In-kind support** — Non-Federal matching funds described in paragraph (1) may include in-kind support.
+
+(3) **Waiver** — The Secretary may waive the matching funds requirement under paragraph (1) with respect to a research project if the Secretary determines that—
+
+  (A) the results of the project are of a particular benefit to a specific agricultural commodity, but those results are likely to be applicable to agricultural commodities generally; or
+
+  (B)
+
+    (i) the project—
+
+      (I) involves a minor commodity; and
+
+      (II) deals with scientifically important research; and
+
+    (ii) the recipient is unable to satisfy the matching funds requirement.
+
+**(d) Partnerships encouraged** Following the completion of a peer review process for grant proposals received under this section, the Secretary may provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.
+
+**(e) Funding** On October 1, 2003, and each October 1 thereafter through October 1, 2007, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $3,000,000 to the Secretary of Agriculture for this section.
+
+**(f) Funding**
 
 (1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
 
   (A) $18,000,000 for fiscal year 2009;
 
-  (B) $20,000,000 for each of fiscal years 2010 through 2012; and
+  (B) $20,000,000 for each of fiscal years 2010 through 2012;
 
-  (C) $20,000,000 for each of fiscal years 2014 through 2018.
+  (C) $20,000,000 for each of fiscal years 2014 through 2018; and
 
-(2) **Discretionary funding for fiscal years 2014 through 2018** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.
+  (D) $20,000,000 for each of fiscal years 2019 through 2020;
+
+  (E) $25,000,000 for fiscal year 2021;
+
+  (F) $30,000,000 for fiscal year 2022; and
+
+  (G) $50,000,000 for fiscal year 2023 and each fiscal year thereafter.
+
+(2) **Discretionary funding** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2014 through 2023.
 
 (3) **Fiscal year 2013** — There is authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2013.
 
@@ -1666,6 +1915,18 @@ Pub. L. 107–171, title VII, § 7411, May 13, 2002, 116 Stat. 462, provided tha
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 7210(1)(A), in introductory provisions, inserted “using funds made available under subsection (e),” after “Board,” and “in each of fiscal years 2019 through 2023” after “grants”.
+
+Subsec. (a)(7). Pub. L. 115–334, § 7210(1)(B), inserted “, soil health,” after “conservation”.
+
+Subsecs. (c) to (e). Pub. L. 115–334, § 7614(b)(2)(D), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
+
+Subsec. (e)(1)(D) to (G). Pub. L. 115–334, § 7210(2)(A), added subpars. (D) to (G).
+
+Subsec. (e)(2). Pub. L. 115–334, § 7210(2)(B), in heading, struck out “for fiscal years 2014 through 2018” after “funding” and in text, substituted “2023” for “2018”.
+
+Subsec. (f). Pub. L. 115–334, § 7614(b)(2)(D)(i), redesignated subsec. (e) as (f).
+
 2014—Subsec. (a). Pub. L. 113–79, § 7211(1)(A), inserted “, education,” after “support research” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 113–79, § 7211(1)(B), inserted “and improvement” after “development”.
@@ -1703,6 +1964,9 @@ Subsec. (f). Pub. L. 110–246, § 7206(a)(2), added subsec. (f).
 Subsec. (a)(4) to (6). Pub. L. 107–171, § 7218(1)(B)–(D), added pars. (4) to (6).
 
 Subsec. (e). Pub. L. 107–171, § 7218(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.”
+
+#### Effective Date of 2018 Amendment
+Amendment by section 7614(b)(2)(D) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) Pub. L. 115–334, set out as a note under [section 3151 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3151).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1743,11 +2007,13 @@ Pub. L. 107–171, title VII, § 7409, May 13, 2002, 116 Stat. 461, related to r
 
 **(d) Funding**
 
-(1) **Mandatory funding through fiscal year 2012** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $5,000,000, to remain available until expended.
+(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
 
-(2) **Mandatory funding** — In addition to any funds made available under paragraph (1), of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $5,000,000, to remain available until expended.
+  (A) $5,000,000 for each of the periods of fiscal years 2008 through 2012 and 2014 through 2018; and
 
-(3) **Discretionary funding** — In addition to funds made available under paragraphs (1) and (2), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
+  (B) $5,000,000 for the period of fiscal years 2019 through 2023.
+
+(2) **Discretionary funding** — In addition to funds made available under paragraph (1), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
 
 ### Statutory Notes
 
@@ -1760,6 +2026,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–334, § 10103(1), struck out “through fiscal year 2012” after “funding” in heading, substituted “, to remain available until expended—” for “$5,000,000, to remain available until expended.”, and added subpars. (A) and (B).
+
+Subsec. (d)(2), (3). Pub. L. 115–334, § 10103(2)–(4), redesignated par. (3) as (2), substituted “paragraph (1)” for “paragraphs (1) and (2)” and “2023” for “2018”, and struck out former par. (2) which related to mandatory funding.
+
 2014—Subsec. (c). Pub. L. 113–79, § 10004(a)(1), inserted “and annually thereafter” after “this subsection” in introductory provisions, added par. (2), and redesignated former par. (2) as (3).
 
 Subsec. (d)(2), (3). Pub. L. 113–79, § 10004(a)(2), added par. (2), redesignated former par. (2) as (3), struck out “for fiscal years 2008 through 2012” after “Discretionary funding” in heading and substituted “paragraphs (1) and (2)” for “paragraph (1)” and “2018” for “2012” in text, and struck out former par. (3). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $5,000,000, to remain available until expended.”
@@ -1779,7 +2049,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Definitions
-Secretary means the Secretary of Agriculture, see section 7401(1) of Pub. L. 107–171, set out as a note under [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f).
+Secretary means the Secretary of Agriculture, see section 7401(1) of Pub. L. 107–171, set out as a note under [section 3319b of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319b).
 
 
 <a id="section-5925d"></a>
@@ -1793,7 +2063,7 @@ The Secretary, acting through the Agricultural Research Service (including the N
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Definitions
-Secretary means the Secretary of Agriculture, see section 7401(1) of Pub. L. 107–171, set out as a note under [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f).
+Secretary means the Secretary of Agriculture, see section 7401(1) of Pub. L. 107–171, set out as a note under [section 3319b of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319b).
 
 
 <a id="section-5925e"></a>
@@ -1806,21 +2076,17 @@ Section, Pub. L. 101–624, title XVI, § 1672C, as added Pub. L. 110–234, tit
 
 <a id="section-5925f"></a>
 ## § 5925f. Farm business management
-**(a) In general** The Secretary may make competitive research and extension grants for the purpose of—
-
-(1) improving the farm management knowledge and skills of agricultural producers; and
-
-(2) establishing and maintaining a national, publicly available farm financial management database to support improved farm management.
+**(a) In general** The Secretary may make competitive research and extension grants for the purpose of improving the farm management knowledge and skills of agricultural producers by maintaining and expanding a national, publicly available farm financial management database to support improved farm management.
 
 **(b) Selection criteria** In allocating funds made available to carry out this section, the Secretary may give priority to grants that—
 
 (1) demonstrate an ability to work directly with agricultural producers;
 
-(2) collaborate with farm management and producer associations;
+(2) collaborate with farm management educational programs and associations;
 
 (3) address the farm management needs of a variety of crops and regions of the United States; and
 
-(4) use and support the national farm financial management database.
+(4) contribute data to the national farm financial management database.
 
 **(c) Administration** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of grants under this section.
 
@@ -1828,7 +2094,7 @@ Section, Pub. L. 101–624, title XVI, § 1672C, as added Pub. L. 110–234, tit
 
 (1) such sums as are necessary for fiscal year 2013; and
 
-(2) $5,000,000 for each of fiscal years 2014 through 2018.
+(2) $5,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -1836,10 +2102,57 @@ Section, Pub. L. 101–624, title XVI, § 1672C, as added Pub. L. 110–234, tit
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 7211(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may make competitive research and extension grants for the purpose of—
+
+“(1) improving the farm management knowledge and skills of agricultural producers; and
+
+“(2) establishing and maintaining a national, publicly available farm financial management database to support improved farm management.”
+
+Subsec. (b)(2). Pub. L. 115–334, § 7211(2)(A), substituted “educational programs and” for “and producer”.
+
+Subsec. (b)(4). Pub. L. 115–334, § 7211(2)(B), substituted “contribute data to” for “use and support”.
+
+Subsec. (d)(2). Pub. L. 115–334, § 7211(3), substituted “2023” for “2018”.
+
 2014—Subsec. (d). Pub. L. 113–79 substituted “to carry out this section—” for “such sums as are necessary to carry out this section.” and added pars. (1) and (2).
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+
+<a id="section-5925g"></a>
+## § 5925g. Urban, indoor, and other emerging agricultural production research, education, and extension initiative
+**(a) Competitive research and extension grants authorized** In consultation with the Urban Agriculture and Innovative Production Advisory Committee established under [section 6923(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6923/b&num=0&edition=prelim), the Secretary may make competitive grants to support research, education, and extension activities for the purposes of facilitating the development of urban, indoor, and other emerging agricultural production, harvesting, transportation, aggregation, packaging, distribution, and markets, including by—
+
+(1) assessing and developing strategies to remediate contaminated sites;
+
+(2) determining and developing the best production management and integrated pest management practices;
+
+(3) identifying and promoting the horticultural, social, and economic factors that contribute to successful urban, indoor, and other emerging agricultural production;
+
+(4) analyzing the means by which new agricultural sites are determined, including an evaluation of soil quality, condition of a building, or local community needs;
+
+(5) exploring new technologies that minimize energy, lighting systems, water, and other inputs for increased food production;
+
+(6) examining building material efficiencies and structural upgrades for the purpose of optimizing growth of agricultural products;
+
+(7) developing new crop varieties and agricultural products to connect to new markets; or
+
+(8) examining the impacts of crop exposure to urban elements on environmental quality and food safety.
+
+**(b) Grant types and process** Subparagraphs (A) through (E) of paragraph (4), paragraph (7), and paragraph (11)(B) of subsection (b) of [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157) shall apply with respect to the making of grants under this section.
+
+**(c) Priority** The Secretary may give priority to grant proposals that involve—
+
+(1) the cooperation of multiple entities; or
+
+(2) States or regions with a high concentration of or significant interest in urban farms, rooftop farms, and indoor production facilities.
+
+**(d) Funding**
+
+(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $10,000,000 for fiscal year 2019, to remain available until expended.
+
+(2) **Authorization of appropriations** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
 
 
 <a id="section-5926"></a>
@@ -1862,10 +2175,39 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (2) **Additional efforts** — Where practicable, the criteria for recognition as a center of excellence shall include efforts to improve teaching capacity and infrastructure at colleges and universities (including land-grant colleges and universities, cooperating forestry schools, NLGCA Institutions (as those terms are defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)), and schools of veterinary medicine).
 
+**(d) Centers of excellence at 1890s Institutions**
+
+(1) **Recognition** — The Secretary shall recognize not less than 3 centers of excellence, each led by an 1890 Institution (as defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601)), to focus on 1 or more of the areas described in paragraph (2).
+
+(2) **Areas of focus**
+
+  (A) *Student success and workforce development* — A center of excellence established under paragraph (1) may engage in activities to ensure that students have the skills and education needed to work in agriculture and food industries, agriculture science, technology, engineering, mathematics, and related fields of study.
+
+  (B) *Nutrition, health, wellness, and quality of life* — A center of excellence established under paragraph (1) may carry out research, education, and extension programs that increase access to healthy food, improve nutrition, mitigate preventive disease, and develop strategies to assist limited resource individuals in accessing health and nutrition resources.
+
+  (C) *Farming systems, rural prosperity, and economic sustainability* — A center of excellence established under paragraph (1) may share best practices with farmers to improve agricultural production, processing, and marketing, reduce urban food deserts, examine new uses for traditional and nontraditional crops, animals, and natural resources, and continue activities carried out by the Center for Innovative and Sustainable Small Farms, Ranches, and Forest Lands.
+
+  (D) *Global food security and defense* — A center of excellence established under paragraph (1) may engage in international partnerships that strengthen agricultural development in developing countries, partner with international researchers regarding new and emerging animal and plant pests and diseases, engage in agricultural disaster recovery, and continue activities carried out by the Center for International Engagement.
+
+  (E) *Natural resources, energy, and environment* — A center of excellence established under paragraph (1) may focus on protecting and managing domestic natural resources for current and future production of food and agricultural products.
+
+  (F) *Emerging technologies* — A center of excellence established under paragraph (1) may focus on the development of emerging technologies to increase agricultural productivity, enhance small farm economic viability, and improve rural communities by developing genetic and sensor technologies for food and agriculture and providing technology training to farmers.
+
+(3) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2019 through 2023.
+
+(4) **Report** — Not later than 1 year after December 20, 2018, and every year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
+
+  (A) the resources invested in the centers of excellence established under paragraph (1); and
+
+  (B) the work being done by those centers of excellence.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 5926, Pub. L. 101–624, title XVI, § 1673, Nov. 28, 1990, 104 Stat. 3773; Pub. L. 102–237, title IV, § 407(12), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, § 837, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, § 245, title III, § 301(b)(2), June 23, 1998, 112 Stat. 556, 563; Pub. L. 107–171, title VII, § 7121, May 13, 2002, 116 Stat. 434, established an agricultural telecommunications program, prior to repeal by Pub. L. 110–234, title VII, § 7209, May 22, 2008, 122 Stat. 1241, and Pub. L. 110–246, § 4(a), title VII, § 7209, June 18, 2008, 122 Stat. 1664, 2003, effective May 22, 2008.
+
+#### Amendments
+2018—Subsec. (d). Pub. L. 115–334 added subsec. (d).
 
 #### Effective Date
 Pub. L. 113–79, title VII, § 7214(b), Feb. 7, 2014, 128 Stat. 887, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on October 1, 2014.”
@@ -1974,7 +2316,13 @@ Section 5932, Pub. L. 101–624, title XVI, § 1679, Nov. 28, 1990, 104 Stat. 37
 
 (6) **Consideration for grants for new programs** — For each fiscal year that amounts are made available for grants under this subsection, the Secretary may make grants in a manner that ensures that eligible entities who apply for grants, but have not previously received a grant under this subsection, are given full consideration.
 
-**(b) National grant for technical assistance, training, and dissemination** The Secretary of Agriculture shall award a competitive grant to a national private nonprofit disability organization to enable such organization to provide technical assistance, training, information dissemination and other activities to support community-based direct service programs of on-site rural rehabilitation and assistive technology for individuals with disabilities, and their families, who are engaged in farming or farm-related occupations.
+(7) **Clarification of application of provisions to veterans with disabilities** — This subsection shall apply with respect to veterans with disabilities, and their families, who—
+
+  (A) are engaged in farming or farm-related occupations; or
+
+  (B) are pursuing new farming opportunities.
+
+**(b) National grant for technical assistance, training, and dissemination** The Secretary of Agriculture shall award a competitive grant to a national private nonprofit disability organization to enable such organization to provide technical assistance, training, information dissemination and other activities to support community-based direct service programs of on-site rural rehabilitation and assistive technology for individuals (including veterans) with disabilities, and their families, who are engaged in farming or farm-related occupations or, in the case of veterans with disabilities, who are pursuing new farming opportunities.
 
 **(c) Authorization of appropriations**
 
@@ -1982,7 +2330,7 @@ Section 5932, Pub. L. 101–624, title XVI, § 1679, Nov. 28, 1990, 104 Stat. 37
 
   (A) $6,000,000 for each of fiscal years 1999 through 2013; and
 
-  (B) $5,000,000 for each of fiscal years 2014 through 2018.
+  (B) $5,000,000 for each of fiscal years 2014 through 2023.
 
 (2) **National grant** — Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b).
 
@@ -1992,6 +2340,12 @@ Section 5932, Pub. L. 101–624, title XVI, § 1679, Nov. 28, 1990, 104 Stat. 37
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(7). Pub. L. 115–334, § 7214(1), added par. (7).
+
+Subsec. (b). Pub. L. 115–334, § 7214(2), inserted “(including veterans)” after “individuals” and “or, in the case of veterans with disabilities, who are pursuing new farming opportunities” before period at end.
+
+Subsec. (c)(1)(B). Pub. L. 115–334, § 7214(3), substituted “2023” for “2018”.
+
 2014—Subsec. (c)(1). Pub. L. 113–79 substituted “are” for “is” and “section—” for “section $6,000,000 for each of fiscal years 1999 through 2012.” and added subpars. (A) and (B).
 
 2008—Subsec. (c)(1). Pub. L. 110–246, § 7210, substituted “2012” for “2007”.
@@ -2043,23 +2397,81 @@ Pub. L. 106–391, title III, § 316, Oct. 30, 2000, 114 Stat. 1596, directed th
 
 <a id="section-5936"></a>
 ## § 5936. Farm and Ranch Stress Assistance Network
-**(a) In general** The Secretary, in coordination with the Secretary of Health and Human Services, shall make competitive grants to support cooperative programs between State cooperative extension services and nonprofit organizations to establish a Farm and Ranch Stress Assistance Network that provides stress assistance programs to individuals who are engaged in farming, ranching, and other agriculture-related occupations.
+**(a) In general** The Secretary, in coordination with the Secretary of Health and Human Services, shall make competitive grants to eligible entities described in subsection (c) to establish a Farm and Ranch Stress Assistance Network that provides stress assistance programs to individuals who are engaged in farming, ranching, and other agriculture-related occupations.
 
-**(b) Eligible programs** Grants awarded under subsection (a) may be used to initiate, expand, or sustain programs that provide professional agricultural behavioral health counseling and referral for other forms of assistance as necessary through—
+**(b) Eligible programs** Grants awarded under subsection (a) may be used—
 
-(1) farm telephone helplines and websites;
+(1) to initiate, expand, or sustain programs that provide professional agricultural behavioral health counseling and referral for other forms of assistance as necessary through—
 
-(2) community education;
+  (A) farm telephone helplines and websites;
 
-(3) support groups;
+  (B) training, including training programs and workshops, for—
 
-(4) outreach services and activities; and
+    (i) advocates for individuals who are engaged in farming, ranching, and other occupations relating to agriculture; and
 
-(5) home delivery of assistance, in a case in which a farm resident is homebound.
+    (ii) other individuals and entities that may assist individuals who—
 
-**(c) Extension services** Grants shall be awarded under this subsection directly to State cooperative extension services to enable the State cooperative extension services to enter into contracts, on a multiyear basis, with nonprofit, community-based, direct-service organizations to initiate, expand, or sustain cooperative programs described in subsections (a) and (b).
+      (I) are engaged in farming, ranching, and other occupations relating to agriculture; and
 
-**(d) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
+      (II) are in crisis;
+
+  (C) support groups; and
+
+  (D) outreach services and activities, including the dissemination of information and materials; or
+
+(2) to enter into contracts, on a multiyear basis, with community-based, direct-service organizations to initiate, expand, or sustain programs described in paragraph (1) and subsection (a).
+
+**(c) Eligible recipients** The Secretary may award a grant under this section to—
+
+(1) an Indian tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim));
+
+(2) a State department of agriculture;
+
+(3) a State cooperative extension service;
+
+(4) a qualified nonprofit organization, as determined by the Secretary;
+
+(5) an entity providing appropriate services, as determined by the Secretary, in 1 or more States; or
+
+(6) a partnership carried out by 2 or more entities described in paragraphs (1) through (5).
+
+**(d) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
+
+**(e) Report to Congress**
+
+(1) **In general** — Not later than 1 year after December 20, 2018, the Secretary, in coordination with the Secretary of Health and Human Services, shall submit to Congress and any other relevant Federal department or agency, and make publicly available, a report describing the state of behavioral and mental health of individuals who are engaged in farming, ranching, and other occupations relating to agriculture.
+
+(2) **Contents** — The report under paragraph (1) shall include—
+
+  (A) an inventory and assessment of efforts to support the behavioral and mental health of individuals who are engaged in farming, ranching, and other occupations relating to agriculture by—
+
+    (i) the Federal Government, States, and units of local government;
+
+    (ii) communities comprised of those individuals;
+
+    (iii) health care providers;
+
+    (iv) State cooperative extension services; and
+
+    (v) other appropriate entities, as determined by the Secretary;
+
+  (B) a description of the challenges faced by individuals who are engaged in farming, ranching, and other occupations relating to agriculture that may impact the behavioral and mental health of farmers and ranchers;
+
+  (C) a description of how the Department of Agriculture can improve coordination and cooperation with Federal health departments and agencies, including the Department of Health and Human Services, the Substance Abuse and Mental Health Services Administration, the Health Resources and Services Administration, the Centers for Disease Control and Prevention, and the National Institutes of Health, to best address the behavioral and mental health of individuals who are engaged in farming, ranching, and other occupations relating to agriculture;
+
+  (D) a long-term strategy for responding to the challenges described under subparagraph (B) and recommendations based on best practices for further action to be carried out by appropriate Federal departments or agencies to improve Federal Government response and seek to prevent suicide among individuals who are engaged in farming, ranching, and other occupations relating to agriculture; and
+
+  (E) an evaluation of the impact that behavioral and mental health challenges and outcomes (including suicide) among individuals who are engaged in farming, ranching, and other agriculture related occupations have on—
+
+    (i) the agricultural workforce;
+
+    (ii) agricultural production;
+
+    (iii) rural families and communities; and
+
+    (iv) succession planning.
+
+**(f) State defined** For purposes of this section, the term “State” has the meaning given such term in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103).
 
 ### Statutory Notes
 
@@ -2067,6 +2479,21 @@ Pub. L. 106–391, title III, § 316, Oct. 30, 2000, 114 Stat. 1596, directed th
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 7412(1), substituted “to eligible entities described in subsection (c)” for “to support cooperative programs between State cooperative extension services and nonprofit organizations”.
+
+Subsec. (b). Pub. L. 115–334, § 7412(2)(B), (F), (G), substituted “be used—” for “be used”, inserted par. (1) designation before “to initiate”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+
+Subsec. (b)(1)(B). Pub. L. 115–334, § 7412(2)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “community education;”.
+
+Subsec. (b)(1)(C). Pub. L. 115–334, § 7412(2)(D), inserted “and” after semicolon at end.
+
+Subsec. (b)(1)(D). Pub. L. 115–334, § 7412(2)(E), substituted “activities, including the dissemination of information and materials; or” for “activities; and”.
+
+Subsec. (b)(5). Pub. L. 115–334, § 7412(2)(A), struck out par. (5) which read as follows: “home delivery of assistance, in a case in which a farm resident is homebound.”
+
+Subsecs. (c) to (f). Pub. L. 115–334, § 7412(3), added subsecs. (c) to (f) and struck out former subsecs. (c) and (d) which related to extension services and authorization of appropriations, respectively.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -2095,7 +2522,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(d) Buildings and facilities** Funds made available under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
 
-**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2018.
+**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -2105,6 +2532,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (e). Pub. L. 113–79 amended subsec. (e) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.”
 
 #### Effective Date
@@ -2170,11 +2599,13 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
     (i) identify existing and proposed Federal intramural and extramural research and development programs relating to the purposes of the Foundation described in subsection (c); and
 
-    (ii) coordinate Foundation activities with those programs so as to minimize duplication of existing efforts and to avoid conflicts;
+    (ii) coordinate Foundation activities with those programs so as to minimize duplication of existing efforts and to avoid conflicts, specifically at the Department of Agriculture; and
+
+    (iii) document the consultation process and include a summary of the results in the annual report required in subsection (f)(3)(B) 11 So in original. Probably should be followed by a period.
 
   (C) identify unmet and emerging agricultural research needs after reviewing the roadmap for agricultural research, education, and extension authorized by [section 7614a of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7614a);
 
-  (D) facilitate technology transfer and release of information and data gathered from the activities of the Foundation to the agricultural research community;
+  (D) facilitate technology transfer and release of information and data gathered from the activities of the Foundation to the agricultural research community and agriculture stakeholders;
 
   (E) promote and encourage the development of the next generation of agricultural research scientists; and
 
@@ -2212,7 +2643,7 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
     (ii) *Requirements*
 
-      (I) *Expertise* — The ex-officio members shall ensure that a majority of the appointed members of the Board have actual experience in agricultural research and, to the extent practicable, represent diverse sectors of agriculture.
+      (I) *Expertise* — The ex-officio members shall ensure that a majority of the appointed members of the Board have actual experience in agriculture or agricultural research and, to the extent practicable, represent diverse sectors of agriculture.
 
       (II) *Limitation* — No employee of the Federal Government may serve as an appointed member of the Board under this subparagraph.
 
@@ -2252,9 +2683,11 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
     (ii) prioritize and provide overall direction for the activities of the Foundation;
 
-    (iii) evaluate the performance of the Executive Director; and
+    (iii) evaluate the performance of the Executive Director;
 
-    (iv) carry out any other necessary activities regarding the Foundation.
+    (iv) actively solicit and accept funds, gifts, grants, devises, or bequests of real or personal property made to the Foundation, including from private entities; and
+
+    (v) carry out any other necessary activities regarding the Foundation.
 
   (B) *Establishment of bylaws* — In establishing bylaws under subparagraph (A)(i), the Board shall ensure that the bylaws do not—
 
@@ -2294,7 +2727,7 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
     (ii) hire, promote, compensate, and discharge 1 or more officers, employees, and agents, as may be necessary, and define the duties of the officers, employees, and agents;
 
-    (iii) solicit and accept any funds, gifts, grants, devises, or bequests of real or personal property made to the Foundation, including such support from private entities;
+    (iii) solicit and accept funds, gifts, grants, devises, or bequests of real or personal property made to the Foundation, including such support from private entities;
 
     (iv) prescribe the manner in which—
 
@@ -2336,11 +2769,13 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
     (i) *Annual report on Foundation*
 
-      (I) *In general* — Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report for the preceding fiscal year that includes—
+      (I) *In general* — Not later than 5 months following the end of each fiscal year, the Foundation shall publish and post online a report for the preceding fiscal year that includes—
 
-        (aa) a description of Foundation activities, including accomplishments; and
+        (aa) a description of Foundation activities, including accomplishments and how those activities align to the challenges identified in the strategic plan under clause (iv);
 
-        (bb) a comprehensive statement of the operations and financial condition of the Foundation.
+        (bb) a comprehensive statement of the operations and financial condition of the Foundation; and
+
+        (cc) a description of available agricultural research programs and priorities for the upcoming fiscal year.
 
       (II) *Financial condition* — Each report under subclause (I) shall include a description of all gifts, grants, devises, or bequests to the Foundation of real or personal property or money, which shall include—
 
@@ -2357,6 +2792,36 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
       (IV) *Public meeting* — The Board shall hold an annual public meeting to summarize the activities of the Foundation.
 
     (ii) *Grant reporting* — Any recipient of a grant under subsection (d)(1)(A) shall provide the Foundation with a report at the conclusion of any research or studies conducted that describes the results of the research or studies, including any data generated.
+
+    (iii) *Stakeholder notice* — The Foundation shall publish an annual notice with a description of agricultural research priorities under this section for the upcoming fiscal year, including—
+
+      (I) a schedule for funding competitions;
+
+      (II) a discussion of how applications for funding will be evaluated; and
+
+      (III) how the Foundation will communicate information about funded awards to the public to ensure that grantees and partners understand the objectives of the Foundation.
+
+    (iv) *Strategic plan* — Not later than 1 year after December 20, 2018, the Foundation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a strategic plan describing a path for the Foundation to become self-sustaining, including—
+
+      (I) a forecast of major agricultural challenge opportunities identified by the scientific advisory councils of the Foundation and approved by the Board, including short- and long-term objectives;
+
+      (II) an overview of the efforts that the Foundation will take to be transparent in each of the processes of the Foundation, including—
+
+        (aa) processes relating to grant awards, including the selection, review, and notification processes;
+
+        (bb) communication of past, current, and future research priorities; and
+
+        (cc) plans to solicit and respond to public input on the opportunities identified in the strategic plan;
+
+      (III) a description of financial goals and benchmarks for the next 10 years, including a detailed plan for—
+
+        (aa) raising funds in amounts greater than the amounts required under subsection (g)(1)(B);
+
+        (bb) soliciting additional resources pursuant to subsections (e)(4)(A)(iv) and (f)(2)(A)(iii); and
+
+        (cc) managing and leveraging such resources pursuant to subsection (f)(2)(A)(vii); and
+
+      (IV) other related issues, as determined by the Board.
 
 (4) **Integrity**
 
@@ -2376,11 +2841,19 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
 **(g) Funds**
 
-(1) **Mandatory funding**
+(1) **Funding**
 
-  (A) *In general* — On February 7, 2014, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $200,000,000, to remain available until expended under the conditions described in subparagraph (B).
+  (A) *In general*
 
-  (B) *Conditions on expenditure* — The Foundation may use the funds made available under subparagraph (A) to carry out the purposes of the Foundation only to the extent that the Foundation secures an equal amount of non-Federal matching funds for each expenditure.
+    (i) *Establishment funding* — On February 7, 2014, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $200,000,000, to remain available until expended under the conditions described in subparagraph (B).
+
+    (ii) *Enhanced funding* — On the date on which the strategic plan described in subsection (f)(3)(B)(iv) is submitted, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $185,000,000, to remain available until expended.
+
+  (B) *Conditions on expenditure*
+
+    (i) *In general* — The Foundation may use the funds made available under subparagraph (A) to carry out the purposes, duties, and powers of the Foundation only to the extent that the Foundation secures an equal amount of matching funds from a non-Federal source, including an agricultural commodity promotion, research, and information program.
+
+    (ii) *Effect* — Nothing in this section requires the Foundation to require a matching contribution from an individual grantee as a condition of receiving a grant under this section.
 
   (C) *Prohibition on construction* — None of the funds made available under subparagraph (A) may be used for construction.
 
@@ -2394,16 +2867,37 @@ Section 109 of the Ethics in Government Act of 1978, referred to in subsec. (f)(
 #### Codification
 Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
+#### Amendments
+2018—Subsec. (d)(1)(B)(ii). Pub. L. 115–334, § 7603(1)(A)(i), substituted “conflicts, specifically at the Department of Agriculture; and” for “conflicts;”.
+
+Subsec. (d)(1)(B)(iii). Pub. L. 115–334, § 7603(1)(A)(ii), added cl. (iii).
+
+Subsec. (d)(1)(D). Pub. L. 115–334, § 7603(1)(B), inserted “and agriculture stakeholders” after “community”.
+
+Subsec. (e)(2)(C)(ii)(I). Pub. L. 115–334, § 7603(2)(A), inserted “agriculture or” before “agricultural research”.
+
+Subsec. (e)(4)(A)(iv), (v). Pub. L. 115–334, § 7603(2)(B), added cl. (iv) and redesignated former cl. (iv) as (v).
+
+Subsec. (f)(2)(A)(iii). Pub. L. 115–334, § 7603(3)(A), struck out “any” before “funds,”.
+
+Subsec. (f)(3)(B)(i)(I). Pub. L. 115–334, § 7603(3)(B)(i)(I), inserted “and post online” before “a report” in introductory provisions.
+
+Subsec. (f)(3)(B)(i)(I)(aa). Pub. L. 115–334, § 7603(3)(B)(i)(II), substituted “accomplishments and how those activities align to the challenges identified in the strategic plan under clause (iv);” for “accomplishments; and”.
+
+Subsec. (f)(3)(B)(i)(I)(cc). Pub. L. 115–334, § 7603(3)(B)(i)(III), (IV), added item (cc).
+
+Subsec. (f)(3)(B)(iii), (iv). Pub. L. 115–334, § 7603(3)(B)(ii), added cls. (iii) and (iv).
+
+Subsec. (g)(1). Pub. L. 115–334, § 7603(4)(A), substituted “Funding” for “Mandatory funding” in heading.
+
+Subsec. (g)(1)(A). Pub. L. 115–334, § 7603(4)(B), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (g)(1)(B). Pub. L. 115–334, § 7603(4)(C), designated existing provisions as cl. (i), inserted heading, substituted “purposes, duties, and powers” for “purposes” and “matching funds from a non-Federal source, including an agricultural commodity promotion, research, and information program” for “non-Federal matching funds for each expenditure”, and added cl. (ii).
+
 
 <a id="section-5940"></a>
 ## § 5940. Legitimacy of industrial hemp research
-**(a) In general** Notwithstanding the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), chapter 81 of title 41, or any other Federal law, an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) or a State department of agriculture may grow or cultivate industrial hemp if—
-
-(1) the industrial hemp is grown or cultivated for purposes of research conducted under an agricultural pilot program or other agricultural or academic research; and
-
-(2) the growing or cultivating of industrial hemp is allowed under the laws of the State in which such institution of higher education or State department of agriculture is located and such research occurs.
-
-**(b) Definitions** In this section:
+**(a) Definitions** In this section:
 
 (1) **Agricultural pilot program** — The term “agricultural pilot program” means a pilot program to study the growth, cultivation, or marketing of industrial hemp—
 
@@ -2419,18 +2913,54 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 (2) **Industrial hemp** — The term “industrial hemp” means the plant Cannabis sativa L. and any part of such plant, whether growing or not, with a delta-9 tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis.
 
-(3) **State department of agriculture** — The term “State department of agriculture” means the agency, commission, or department of a State government responsible for agriculture within the State.
+(3) **State** — The term “State” has the meaning given such term in section 1639o of this title.
+
+(4) **State department of agriculture** — The term “State department of agriculture” means the agency, commission, or department of a State government responsible for agriculture within the State.
+
+**(b) Industrial hemp research** Notwithstanding the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), chapter 81 of title 41, or any other Federal law, an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) or a State department of agriculture may grow or cultivate industrial hemp if—
+
+(1) the industrial hemp is grown or cultivated for purposes of research conducted under an agricultural pilot program or other agricultural or academic research; and
+
+(2) the growing or cultivating of industrial hemp is allowed under the laws of the State in which such institution of higher education or State department of agriculture is located and such research occurs.
+
+**(c) Study and report**
+
+(1) **In general** — The Secretary shall conduct a study of agricultural pilot programs—
+
+  (A) to determine the economic viability of the domestic production and sale of industrial hemp; and
+
+  (B) that shall include a review of—
+
+    (i) each agricultural pilot program; and
+
+    (ii) any other agricultural or academic research relating to industrial hemp.
+
+(2) **Report** — Not later than 12 months after December 20, 2018, the Secretary shall submit to Congress a report describing the results of the study conducted under paragraph (1).
 
 ### Statutory Notes
 
+#### Repeal of Section
+For repeal of section by section 7605(b) of Pub. L. 115–334, see Effective Date of Repeal note below.
+
 #### References in Text
-The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsec. (b), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 7605(a)(1), redesignated subsec. (b) as (a). Former subsec. (a) redesignated (b).
+
+Subsec. (a)(3), (4). Pub. L. 115–334, § 7605(a)(2), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (b). Pub. L. 115–334, § 7605(a)(1), (3), redesignated subsec. (a) as (b) and substituted “Industrial hemp research” for “In general” in heading. Former subsec. (b) redesignated (a).
+
+Subsec. (c). Pub. L. 115–334, § 7605(a)(4), added subsec. (c).
+
 2015—Subsec. (a). Pub. L. 114–95 struck out “the Safe and Drug-Free Schools and Communities Act ([20 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) et seq.),” before “chapter 81” in introductory provisions.
+
+#### Effective Date of Repeal
+Pub. L. 115–334, title VII, § 7605(b), Dec. 20, 2018, 132 Stat. 4829, provided that: “Effective on the date that is 1 year after the date on which the Secretary [of Agriculture] establishes a plan under section 297C of the Agricultural Marketing Act of 1946 [[7 U.S.C. 1639q](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639q)], section 7606 of the Agricultural Act of 2014 ([7 U.S.C. 5940](./chapter-088-research.md#section-5940)) is repealed.”
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

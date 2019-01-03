@@ -187,7 +187,7 @@ Section was formerly classified to [section 442b of this title](./chapter-015-na
 
   (B) does not include the Federal Bureau of Investigation.
 
-(3) **Personnel action** — The term “personnel action” means, with respect to an employee in a position in a covered intelligence community element (other than a position excepted from the competitive service due to its confidential, policy-determining, policymaking, or policy-advocating character)—
+(3) **Personnel action** — The term “personnel action” means, with respect to an employee in a position in a covered intelligence community element (other than a position excepted from the competitive service due to its confidential, policy-determining, policymaking, or policy-advocating character) or a contractor employee—
 
   (A) an appointment;
 
@@ -209,21 +209,44 @@ Section was formerly classified to [section 442b of this title](./chapter-015-na
 
   (J) any other significant change in duties, responsibilities, or working conditions.
 
-**(b) In general** Any employee of an agency who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to any employee of a covered intelligence community element as a reprisal for a lawful disclosure of information by the employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, the head of the employing agency (or an employee designated by the head of that agency for such purpose), the appropriate inspector general of the employing agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the employee reasonably believes evidences—
+(4) **Contractor employee** — The term “contractor employee” means an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a covered intelligence community element.
+
+**(b) Agency employees** Any employee of an agency who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to any employee of a covered intelligence community element as a reprisal for a lawful disclosure of information by the employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, the head of the employing agency (or an employee designated by the head of that agency for such purpose), the appropriate inspector general of the employing agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the employee reasonably believes evidences—
 
 (1) a violation of any Federal law, rule, or regulation; or
 
 (2) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
-**(c) Enforcement** The President shall provide for the enforcement of this section.
+**(c) Contractor employees**
 
-**(d) Existing rights preserved** Nothing in this section shall be construed to—
+(1) Any employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a covered intelligence community element who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to any contractor employee as a reprisal for a lawful disclosure of information by the contractor employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, the head of the contracting agency (or an employee designated by the head of that agency for such purpose), the appropriate inspector general of the contracting agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the contractor employee reasonably believes evidences—
 
-(1) preempt or preclude any employee, or applicant for employment, at the Federal Bureau of Investigation from exercising rights provided under any other law, rule, or regulation, including [section 2303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2303&num=0&edition=prelim); or
+  (A) a violation of any Federal law, rule, or regulation (including with respect to evidence of another employee or contractor employee accessing or sharing classified information without authorization); or
+
+  (B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+
+(2) A personnel action under paragraph (1) is prohibited even if the action is undertaken at the request of an agency official, unless the request takes the form of a nondiscretionary directive and is within the authority of the agency official making the request.
+
+**(d) Enforcement** The President shall provide for the enforcement of this section.
+
+**(e) Existing rights preserved** Nothing in this section shall be construed to—
+
+(1) preempt or preclude any employee, contractor employee, or applicant for employment, at the Federal Bureau of Investigation from exercising rights provided under any other law, rule, or regulation, including [section 2303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2303&num=0&edition=prelim); or
 
 (2) repeal [section 2303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2303&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–118, § 110(a)(1)(A), inserted “or a contractor employee” after “character)” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 115–118, § 110(a)(1)(B), added par. (4).
+
+Subsec. (b). Pub. L. 115–118, § 110(a)(4), substituted “Agency employees” for “In general” in heading.
+
+Subsecs. (c) to (e). Pub. L. 115–118, § 110(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+Subsec. (e)(1). Pub. L. 115–118, § 110(a)(5), inserted “contractor employee,” after “any employee,”.
 
 #### Policies and Procedures; Nonapplicability to Certain Terminations
 Pub. L. 113–126, title VI, § 604, July 7, 2014, 128 Stat. 1421, provided that: “(a) Covered Intelligence Community Element Defined.—In this section, the term ‘covered intelligence community element’—“(1) means—“(A) the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and “(B) any executive agency or unit thereof determined by the President under [section 2302(a)(2)(C)(ii) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/C/ii&num=0&edition=prelim), United States Code, to have as its principal function the conduct of foreign intelligence or counterintelligence activities; and “(2) does not include the Federal Bureau of Investigation. “(b) Regulations.—In consultation with the Secretary of Defense, the Director of National Intelligence shall develop policies and procedures to ensure that a personnel action shall not be taken against an employee of a covered intelligence community element as a reprisal for any disclosure of information described in [section] 1104 of the National Security Act of 1947 [[50 U.S.C. 3234](./chapter-044-national-security.md#section-3234)], as added by section 601 of this Act. “(c) Report on the Status of Implementation of Regulations.—Not later than 2 years after the date of the enactment of this Act [July 7, 2014], the Director of National Intelligence shall submit a report on the status of the implementation of the regulations promulgated under subsection (b) to the congressional intelligence committees. “(d) Nonapplicability to Certain Terminations.—Section 1104 of the National Security Act of 1947, as added by section 601 of this Act, and section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3341)), as amended by section 602 of this Act, shall not apply if—“(1) the affected employee is concurrently terminated under—“(A) [section 1609 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1609&num=0&edition=prelim), United States Code; “(B) the authority of the Director of National Intelligence under section 102A(m) of the National Security Act of 1947 ([50 U.S.C. 3024(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/m&num=0&edition=prelim)), if the Director determines that the termination is in the interest of the United States; “(C) the authority of the Director of the Central Intelligence Agency under section 104A(e) of the National Security Act of 1947 ([50 U.S.C. 3036(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3036/e&num=0&edition=prelim)), if the Director determines that the termination is in the interest of the United States; or “(D) [section 7532 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7532&num=0&edition=prelim), United States Code, if the head of the agency determines that the termination is in the interest of the United States; and “(2) not later than 30 days after such termination, the head of the agency that employed the affected employee notifies the congressional intelligence committees of the termination.”
@@ -251,6 +274,9 @@ Pub. L. 108–458, title I, § 1081, Dec. 17, 2004, 118 Stat. 3696, provided tha
 Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, as amended by Pub. L. 109–13, div. A, title I, § 1009, May 11, 2005, 119 Stat. 244, provided that: “SEC. 1091. TRANSFER OF COMMUNITY MANAGEMENT STAFF.“(a) Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act [Dec. 17, 2004] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date. “(b) Administration.—The Director of National Intelligence shall administer the Community Management Staff after the date of the enactment of this Act [Dec. 17, 2004] as a component of the Office of the Director of National Intelligence under section 103 of the National Security Act of 1947 [[50 U.S.C. 3025](./chapter-044-national-security.md#section-3025)], as amended by section 1011(a) of this Act. “SEC. 1092. TRANSFER OF TERRORIST THREAT INTEGRATION CENTER.“(a) Transfer.—There shall be transferred to the National Counterterrorism Center the Terrorist Threat Integration Center (TTIC) or its successor entity, including all functions and activities discharged by the Terrorist Threat Integration Center or its successor entity as of the date of the enactment of this Act [Dec. 17, 2004]. “(b) Administration.—The Director of the National Counterterrorism Center shall administer the Terrorist Threat Integration Center after the date of the enactment of this Act [Dec. 17, 2004] as a component of the Directorate of Intelligence of the National Counterterrorism Center under section 119(i) of the National Security Act of 1947 [[50 U.S.C. 3056(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3056/i&num=0&edition=prelim)], as added by section 1021(a) [1021] of this Act. “SEC. 1093. TERMINATION OF POSITIONS OF ASSISTANT DIRECTORS OF CENTRAL INTELLIGENCE.“(a) Termination.—The positions referred to in subsection (b) are hereby abolished. “(b) Covered Positions.—The positions referred to in this subsection are as follows:“(1) The Assistant Director of Central Intelligence for Collection. “(2) The Assistant Director of Central Intelligence for Analysis and Production. “(3) The Assistant Director of Central Intelligence for Administration. “SEC. 1094. IMPLEMENTATION PLAN.“The President shall transmit to Congress a plan for the implementation of this title [see Tables for classification] and the amendments made by this title. The plan shall address, at a minimum, the following:“(1) The transfer of personnel, assets, and obligations to the Director of National Intelligence pursuant to this title. “(2) Any consolidation, reorganization, or streamlining of activities transferred to the Director of National Intelligence pursuant to this title. “(3) The establishment of offices within the Office of the Director of National Intelligence to implement the duties and responsibilities of the Director of National Intelligence as described in this title. “(4) Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations to be transferred to the Director of National Intelligence. “(5) Recommendations for additional legislative or administrative action as the President considers appropriate. “SEC. 1095. DIRECTOR OF NATIONAL INTELLIGENCE REPORT ON IMPLEMENTATION OF INTELLIGENCE COMMUNITY REFORM.“(a) Report.—Not later than one year after the effective date of this Act [probably means the effective date of title I of Pub. L. 108–458, see below], the Director of National Intelligence shall submit to the congressional intelligence committees a report on the progress made in the implementation of this title [see Tables for classification], including the amendments made by this title. The report shall include a comprehensive description of the progress made, and may include such recommendations for additional legislative or administrative action as the Director considers appropriate. “(b) Congressional Intelligence Committees Defined.—In this section, the term ‘congressional intelligence committees’ means—“(1) the Select Committee on Intelligence of the Senate; and “(2) the Permanent Select Committee on Intelligence of the House of Representatives. “SEC. 1096. TRANSITIONAL AUTHORITIES.“(a) In General.—Upon the request of the Director of National Intelligence, the head of any executive agency may, on a reimbursable basis, provide services or detail personnel to the Director of National Intelligence. “(b) Transfer of Personnel.—In addition to any other authorities available under law for such purposes, in the fiscal years 2005 and 2006, the Director of National Intelligence—“(1) is authorized within the Office of the Director of National Intelligence the total of 500 new personnel positions; and “(2) with the approval of the Director of the Office of Management and Budget, may detail not more than 150 personnel funded within the National Intelligence Program to the Office of the Director of National Intelligence for a period of not more than 2 years. “SEC. 1097. EFFECTIVE DATES.“(a) In General.—Except as otherwise expressly provided in this Act [see Tables for classification], this title [see Tables for classification] and the amendments made by this title shall take effect not later than six months after the date of the enactment of this Act [Dec. 17, 2004] [For determination by the President that certain sections of title I of Pub. L. 108–458 take effect earlier than six months after the date of enactment, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note below.]. “(b) Specific Effective Dates.—(1)(A) Not later than 60 days after the date of the appointment of the first Director of National Intelligence, the Director of National Intelligence shall first appoint individuals to positions within the Office of the Director of National Intelligence. “(B) Subparagraph (A) shall not apply with respect to the Principal Deputy Director of National Intelligence. “(2) Not later than 180 days after the effective date of this Act [probably means the effective date of title I of Pub. L. 108–458, see above], the President shall transmit to Congress the implementation plan required by section 1094. “(3) Not later than one year after the date of the enactment of this Act [Dec. 17, 2004], the Director of National Intelligence shall prescribe regulations, policies, procedures, standards, and guidelines required under section 102A of the National Security Act of 1947 [[50 U.S.C. 3024](./chapter-044-national-security.md#section-3024)], as amended by section 1011(a) of this Act.”
 
 [Functions of President under section 1094 of Pub. L. 108–458, set out in a note above, assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.]
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–173, § 1, May 22, 2018, 132 Stat. 1291, provided that: “This Act [enacting provisions set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161)] may be cited as the ‘Securely Expediting Clearances Through Reporting Transparency Act of 2018’ or the ‘SECRET Act of 2018’.”
 
 #### Short Title of 2012 Amendment
 Pub. L. 112–235, § 1, Dec. 28, 2012, 126 Stat. 1626, provided that: “This Act [amending provisions set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161)] may be cited as the ‘Public Interest Declassification Board Reauthorization Act of 2012’.”
@@ -1426,9 +1452,11 @@ Section was formerly classified to [section 412 of this title](./chapter-015-nat
 
 (1) advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the Armed Forces and the other departments and agencies of the United States Government to cooperate more effectively in matters involving the national security;
 
-(2) assess and appraise the objectives, commitments, and risks of the United States in relation to the actual and potential military power of the United States, and make recommendations thereon to the President; and
+(2) assess and appraise the objectives, commitments, and risks of the United States in relation to the actual and potential military power of the United States, and make recommendations thereon to the President;
 
-(3) make recommendations to the President concerning policies on matters of common interest to the departments and agencies of the United States Government concerned with the national security.
+(3) make recommendations to the President concerning policies on matters of common interest to the departments and agencies of the United States Government concerned with the national security; and
+
+(4) coordinate, without assuming operational authority, the United States Government response to malign foreign influence operations and campaigns.
 
 **(c) Membership**
 
@@ -1448,6 +1476,22 @@ Section was formerly classified to [section 412 of this title](./chapter-015-nat
 
 **(f) Special Advisor to the President on International Religious Freedom** It is the sense of Congress that there should be within the staff of the Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in [section 6402 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6402&num=0&edition=prelim)), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
 
+**(g) Coordinator for combating malign foreign influence operations and campaigns**
+
+(1) **In general** — The President shall designate an employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns.
+
+(2) **Congressional briefing**
+
+  (A) *In general* — Not less frequently than twice each year, the employee designated under this subsection, or the employee’s designee, shall provide to the congressional committees specified in subparagraph (B) a briefing on the responsibilities and activities of the employee designated under this subsection.
+
+  (B) *Committees specified* — The congressional committees specified in this subparagraph are the following:
+
+    (i) The Committees on Armed Services, Foreign Affairs, and Oversight and Government Reform, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+    (ii) The Committees on Armed Services, Foreign Relations, and Homeland Security and Governmental Affairs, and the Select Committee on Intelligence of the Senate.
+
+**(h) Definition of malign foreign influence operations and campaigns** In this section, the term “malign foreign influence operations and campaigns” means the coordinated, direct or indirect application of national diplomatic, informational, military, economic, business, corruption, educational, and other capabilities by hostile foreign powers to affect attitudes, behaviors, decisions, or outcomes within the United States.
+
 ### Statutory Notes
 
 #### Codification
@@ -1456,6 +1500,10 @@ Section was formerly classified to [section 402 of this title](./chapter-015-nat
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2018—Subsec. (b)(4). Pub. L. 115–232, § 1043(a)(1), added par. (4).
+
+Subsecs. (g), (h). Pub. L. 115–232, § 1043(a)(2), added subsecs. (g) and (h).
+
 2017—Subsec. (c)(1). Pub. L. 115–44 inserted “the Secretary of the Treasury,” before “and such other officers”.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the National Security Council.
@@ -1507,7 +1555,7 @@ Subsec. (f). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended se
 Subsec. (c). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923, as amended”.
 
 #### Effective Date of 2016 Amendment
-Pub. L. 114–328, div. A, title X, § 1085(b), Dec. 23, 2016, 130 Stat. 2423, provided that: “The limitation on the number of professional staff of the National Security Council specified in subsection (e)(3) of section 101 of the National Security Act of 1947 [this section], as amended by subsection (a) of this section, shall take effect on the date that is 18 months after the date of the enactment of this Act [Dec. 23, 2016].”
+Pub. L. 114–328, div. A, title X, § 1085(b), Dec. 23, 2016, 130 Stat. 2423, provided that: “The limitation on the number of professional staff of the National Security Council specified in subsection (e)(3) of section 101 of the National Security Act of 1947 [[50 U.S.C. 3021(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021/e/3&num=0&edition=prelim)], as amended by subsection (a) of this section, shall take effect on the date that is 18 months after the date of the enactment of this Act [Dec. 23, 2016].”
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -1542,6 +1590,9 @@ For rule of construction for certain duplicate provisions of Public Laws 99–50
 
 #### Section as Unaffected by Repeals
 Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendment to this section by act Oct. 10, 1951.
+
+#### Deadline for Appointment of Subsection (g)(1) Coordinator
+Pub. L. 115–232, div. A, title X, § 1043(c), Aug. 13, 2018, 132 Stat. 1958, provided that: “Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the President shall designate the employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns pursuant to subsection (g)(1) of section 101 of the National Security Act of 1947 ([50 U.S.C. 3021](./chapter-044-national-security.md#section-3021)), as added by subsection (a)(2).”
 
 #### Pilot Program on Cryptologic Service Training
 Pub. L. 108–375, div. A, title IX, § 922, Oct. 28, 2004, 118 Stat. 2029, which authorized the Director of the National Security Agency to carry out a pilot program on cryptologic service training for the intelligence community, was repealed by Pub. L. 111–259, title III, § 313(b)(1)(C), Oct. 7, 2010, 124 Stat. 2666.
@@ -2078,7 +2129,66 @@ Sec. 4. Publication. The Secretary of State is hereby authorized and directed to
 Barack Obama.
 
 #### National Security Presidential Memorandum–2. Organization of the National Security Council and the Homeland Security Council
-Memorandum of President of the United States, Jan. 28, 2017, 82 F.R. 9119, which related to the organization and functions of the National Security Council, the Homeland Security Council, National Security Council staff, Principals Committee, Deputies Committee, and Policy Coordination Committees, was revoked by Memorandum of President of the United States, part E, Apr. 4, 2017, 82 F.R. 16884.
+National Security Presidential Memorandum–2, Jan. 28, 2017, 82 F.R. 9119, which related to the organization and functions of the National Security Council, the Homeland Security Council, National Security Council staff, Principals Committee, Deputies Committee, and Policy Coordination Committees, was revoked by Memorandum of President of the United States, part E, Apr. 4, 2017, 82 F.R. 16884, set out below.
+
+#### National Security Presidential Memorandum–4. Organization of the National Security Council, the Homeland Security Council, and Subcommittees
+National Security Presidential Memorandum–4, Apr. 4, 2017, 82 F.R. 16881, provided:
+
+Memorandum for the Vice President[,] the Secretary of State[,] the Secretary of the Treasury[,] the Secretary of Defense[,] the Attorney General[,] the Secretary of Agriculture[,] the Secretary of Health and Human Services[,] the Secretary of Transportation[,] the Secretary of Commerce[,] the Secretary of Energy[,] the Secretary of Homeland Security[,] the Assistant to the President and Chief of Staff[,] the Director of the Office of Management and Budget[,] the Representative of the United States to the United Nations[,] the United States Trade Representative[,] the Chairman of the Council of Economic Advisers[,] the Chairman of the Board of Governors of the Federal Reserve System[,] the Director of National Intelligence[,] the Director of the Central Intelligence Agency[,] the Chairman of the Joint Chiefs of Staff[,] the Assistant to the President for National Security Affairs[,] the Assistant to the President for Homeland Security and Counterterrorism[,] the Assistant to the President for Economic Policy[,] the Assistant to the President for Trade and Manufacturing Policy[,] the Assistant to the President for Intragovernmental and Technology Initiatives[,] the Counsel to the President[,] the Deputy Assistant to the President and National Security Advisor to the Vice President[,] the Administrator of the United States Agency for International Development[,] the Administrator of the National Aeronautics and Space Administration[,] the Chairman of the Nuclear Regulatory Commission[,] the Director of the Federal Bureau of Investigation[,] the Director of the Office of Science and Technology Policy[,] the Director of National Drug Control Policy[,] the Chairman of the President’s Intelligence Advisory Board[,] the Administrator of the Federal Emergency Management Agency[, and] the Archivist of the United States
+
+As President, my highest priority is to ensure the safety and security of the American people. In order to advise and assist me in executing this solemn responsibility, as well as to protect and advance the national interests of the United States at home and abroad, I hereby direct that my system for national security policy development and decision making shall be organized as follows:
+
+A. The National Security Council, the Homeland Security Council, and Supporting Staff
+
+The National Security Act of 1947, as amended, established the National Security Council (NSC) to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security. There is also a Homeland Security Council (HSC)—established through Executive Order 13228 of October 8, 2001, and subsequently codified in the Homeland Security Act of 2002—that has the purpose of advising the President on matters pertaining to homeland security. Each Council is also responsible for the effective coordination of the security-related activities and functions of the executive departments and agencies.
+
+The security threats facing the United States in the 21st century transcend international boundaries. Accordingly, the United States Government’s decision-making structures and processes to address these challenges must remain equally adaptive and transformative. Both Councils are statutory bodies that the President will continue to chair. Invitations to participate in specific Council meetings shall be extended to those heads of executive departments and agencies, and other senior officials, who are needed to address the issue or issues under consideration. When the President is absent from a meeting of either Council, the Vice President may preside at the President’s direction.
+
+The Assistant to the President for National Security Affairs (National Security Advisor) shall be responsible, as appropriate and at the President’s direction, for determining the agenda for the NSC or HSC, respectively, ensuring that the necessary papers are prepared and recording Council actions and Presidential decisions in a timely manner. The Assistant to the President for Homeland Security and Counterterrorism (Homeland Security Advisor) may, at the sole discretion of the National Security Advisor, perform those functions. When international economic issues are on the agenda of the NSC, the Assistant to the President for Economic Policy may, at the sole discretion of the National Security Advisor, perform those functions.
+
+The NSC and HSC shall have as their regular attendees (both statutory and non-statutory) the President, the Vice President, the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Secretary of Homeland Security, the National Security Advisor, the Homeland Security Advisor, and the Representative of the United States to the United Nations. The Director of National Intelligence and the Chairman of the Joint Chiefs of Staff, as statutory advisors to the NSC, shall also be regular attendees, as will the Director of the Central Intelligence Agency.
+
+When international economic issues are on the agenda of the NSC, the NSC’s regular attendees will include the Secretary of Commerce, the United States Trade Representative, and the Assistant to the President for Economic Policy.
+
+The Assistant to the President and Chief of Staff (Chief of Staff to the President), the Counsel to the President, the Deputy Counsel to the President for National Security Affairs, and the Director of the Office of Management and Budget are invited as attendees to any NSC meeting.
+
+In addition to the NSC and HSC, there is also a single NSC staff within the Executive Office of the President that serves both the NSC and HSC. The staff is composed of regional, issue-focused, and functional directorates and headed by a single civilian Executive Secretary, pursuant to [50 U.S.C. 3021](./chapter-044-national-security.md#section-3021), who is also the Chief of Staff. All policy and staff activity decisions will be transmitted to the Executive Secretary for appropriate distribution and awareness. The purpose of the staff is to advise the President, the National Security Advisor, the Homeland Security Advisor, the NSC members, the HSC members, and others in the White House; to facilitate the implementation of Administration policy; and to help coordinate the national-security-related activities of the executive departments and agencies.
+
+B. The Principals Committee
+
+The Principals Committee (PC) shall continue to serve as the Cabinet-level senior interagency forum for considering policy issues that affect the national security interests of the United States. The PC shall be convened and chaired by the National Security Advisor. The Homeland Security Advisor may, at the sole discretion of the National Security Advisor, also convene and chair the PC. The Chair shall determine the agenda in consultation with the appropriate committee members, and the Executive Secretary shall ensure that necessary papers are prepared, and that conclusions and decisions are communicated in a timely manner. Invitations to participate in or attend a specific PC shall be extended at the discretion of the Chair, and may include those Cabinet-level heads of executive departments and agencies, and other senior officials, who are needed to address any issue under consideration.
+
+The PC shall have as its regular attendees the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Secretary of Homeland Security, the Chief of Staff to the President, the Director of National Intelligence, the Chairman of the Joint Chiefs of Staff, the Director of the Central Intelligence Agency, the National Security Advisor, the Homeland Security Advisor, and the Representative of the United States to the United Nations. The Counsel to the President, the Deputy Counsel to the President for National Security Affairs, and the Director of the Office of Management and Budget may attend all PC meetings.
+
+The Assistant to the President and Deputy National Security Advisor (Deputy National Security Advisor), the Deputy National Security Advisor for Strategy, the Deputy Assistant to the President and National Security Advisor to the Vice President, and the Executive Secretary (who shall serve as the Executive Secretary of the PC) shall attend all of the meetings of the PC, and the Assistant to the President for Intragovernmental and Technology Initiatives may attend as appropriate.
+
+When international economic issues are on the agenda of the PC, the Committee’s regular attendees will include the Secretary of Commerce, the United States Trade Representative, and the Assistant to the President for Economic Policy (who shall serve as Chair for agenda items that principally pertain to international economics).
+
+C. The Deputies Committee
+
+The Deputies Committee (DC) shall continue to serve as the senior sub-Cabinet interagency forum for consideration of, and where appropriate, decision making on, policy issues that affect the national security interests of the United States. The DC shall be convened and chaired by the Deputy National Security Advisor. The Deputy Homeland Security Advisor may, at the sole discretion of the National Security Advisor, also convene and Chair the DC. The Chair shall determine the agenda in consultation with the regular DC attendees, and the Executive Secretary shall ensure that necessary papers are prepared and that conclusions and decisions are communicated in a timely manner. Invitations to participate in or attend a specific DC meeting shall be extended by the Chair to those at the Deputy Secretary or Under Secretary level of executive departments and agencies, and to other senior officials, who are needed to address any issue under consideration.
+
+The DC shall have as its regular attendees the Deputy Secretary of State, the Deputy Secretary of the Treasury, the Deputy Secretary of Defense, the Deputy Attorney General, the Deputy Secretary of Energy, the Deputy Secretary of Homeland Security, the Deputy Director of the Office of Management and Budget, the Deputy Director of National Intelligence, the Vice Chairman of the Joint Chiefs of Staff, the Deputy Director of the Central Intelligence Agency, the Deputy National Security Advisor, the Deputy National Security Advisor for Strategy, the Deputy Homeland Security Advisor, the Deputy Assistant to the President and National Security Advisor to the Vice President, and the Administrator of the United States Agency for International Development.
+
+The Executive Secretary shall attend the DC meetings. The Deputy Counsel to the President for National Security Affairs may attend all DC meetings. Other senior officials, including the Deputy Representative of the United States to the United Nations, may be invited when appropriate.
+
+The DC shall review and monitor the work of the interagency national security process, including the interagency groups established pursuant to section D below. The DC shall help to ensure that issues brought before the NSC, HSC, and PC have been properly analyzed and prepared for decision. The DC shall also focus significant attention on monitoring the implementation of policies and decisions and shall conduct periodic reviews of the Administration’s major national security and foreign policy initiatives. The DC is responsible for establishing Policy Coordination Committees (PCCs) and for providing objectives and clear guidance.
+
+D. Policy Coordination Committees
+
+Management of the development and implementation of national security policies by multiple executive departments and agencies typically shall be accomplished by the PCCs, with participation primarily occurring at the Assistant Secretary level. As the main day-to-day fora for interagency coordination of national security policies, the PCCs shall provide policy analysis for consideration by the more senior committees of the national security system and ensure timely responses to the President’s decisions.
+
+Regional and issue-related PCCs shall be established at the direction of the DC. Members of the NSC staff (or National Economic Council staff, as appropriate) will chair the PCCs; the DC, at its discretion, may add co-chairs to any PCC. The PCCs shall review and coordinate the implementation of Presidential decisions in their respective policy areas. The Chair of each PCC, in consultation with the Executive Secretary, shall invite representatives of other executive departments and agencies to attend meetings of the PCC where appropriate. The Chair of each PCC, with the agreement of the Executive Secretary, may establish subordinate working groups to assist that PCC in the performance of its duties.
+
+E. General
+
+The President and the Vice President may attend any and all meetings of any entity established by or under this memorandum.
+
+This document is part of a series of National Security Presidential Memoranda, which have replaced both Presidential Policy Directives and Presidential Study Directives as the instrument for communicating relevant Presidential decisions. This memorandum shall supersede all other existing Presidential directives and guidance on the organization or support of the NSC and the HSC, including National Security Presidential Memorandum–2 (January 28, 2017), which is hereby revoked. With regard to its application to economic matters, this document shall be interpreted in concert with any Executive Order governing the National Economic Council and with Presidential Memoranda signed hereafter that implement it or those Executive Orders.
+
+The Secretary of Defense is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-3028"></a>
@@ -3741,7 +3851,7 @@ Section was formerly classified to [section 403–4a of this title](./chapter-01
 #### Amendments
 2012—Subsec. (g)(1). Pub. L. 112–87, § 412(a)(1), inserted “in the Directorate of Intelligence career service or the National Clandestine Service career service” after “an individual” and “or promoted” after “appointed”, substituted “individual has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate.” for “individual—”, and struck out subpars. (A) and (B) which related to required level of proficiency in a foreign language and ability to effectively communicate and exercise influence in that language, respectively.
 
-Subsec. (g)(2). Pub. L. 112–87, § 412(a)(2), substituted “position, category of positions, or occupation” for “ position or category of positions” in two places.
+Subsec. (g)(2). Pub. L. 112–87, § 412(a)(2), substituted “position, category of positions, or occupation” for “position or category of positions” in two places.
 
 2010—Subsec. (g)(1). Pub. L. 111–259 substituted “National Clandestine Service” for “Directorate of Operations” in introductory provisions.
 
@@ -5206,14 +5316,11 @@ Section was formerly classified to [section 411 of this title](./chapter-015-nat
 
 <a id="section-3094"></a>
 ## § 3094. “Function” and “Department of Defense” defined
-**(a)** As used in this Act, the term “function” includes functions, powers, and duties.
+**(a)** 11 See Partial Repeal of Subsection (a) note below. As used in this Act, the term “function” includes functions, powers, and duties.
 
 **(b)** As used in this Act, the term “Department of Defense” shall be deemed to include the military departments of the Army, the Navy, and the Air Force, and all agencies created under title II of this Act.
 
 ### Statutory Notes
-
-#### Partial Repeal
-Pub. L. 87–651, title III, § 307, Sept. 7, 1962, 76 Stat. 526, repealed subsection (a) of this section less its applicability to sections 3002, 3021, 3023, 3042, and 3073 of this title.
 
 #### References in Text
 This Act, referred to in text, means act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
@@ -5225,6 +5332,9 @@ Section was formerly classified to [section 410 of this title](./chapter-015-nat
 
 #### Amendments
 1949—Subsec. (b). Act Aug. 10, 1949, substituted definition of “Department of Defense” for definition of “budget program”.
+
+#### Partial Repeal of Subsection (a)
+Pub. L. 87–651, title III, § 307, Sept. 7, 1962, 76 Stat. 526, repealed subsection (a) of this section less its applicability to sections 3002, 3021, 3023, 3042, and 3073 of this title.
 
 
 <a id="section-3095"></a>
@@ -5563,7 +5673,7 @@ Pub. L. 99–169, title IV, § 401(c), Dec. 4, 1985, 99 Stat. 1006, provided tha
 
   (B) the transfer—
 
-    (i) is being made pursuant to authorities contained in part II of the Foreign Assistance Act of 1961 [[22 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2301&num=0&edition=prelim) et seq.], the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], title 10 (including a law enacted pursuant to section 7307(a) of that title), or chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and
+    (i) is being made pursuant to authorities contained in part II of the Foreign Assistance Act of 1961 [[22 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2301&num=0&edition=prelim) et seq.], the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], title 10 (including a law enacted pursuant to [section 8677(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8677/a&num=0&edition=prelim)), or chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and
 
     (ii) is not being made in conjunction with an intelligence or intelligence-related activity.
 
@@ -5604,9 +5714,14 @@ Section was formerly classified to [section 415 of this title](./chapter-015-nat
 In subsec. (a)(2)(B)(i), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2018—Subsec. (a)(2)(B)(i). Pub. L. 115–232 substituted “(including a law enacted pursuant to [section 8677(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8677/a&num=0&edition=prelim))” for “(including a law enacted pursuant to section 7307(a) of that title)”.
+
 1993—Subsec. (a)(2)(B)(i). Pub. L. 103–160 substituted “section 7307(a)” for “section 7307(b)(1)”.
 
 1991—Subsec. (a)(1). Pub. L. 102–88 inserted “, or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services,” after “service” and substituted “this subchapter” for “[section 413 of this title](./chapter-015-national-security.md#section-413)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-3102"></a>
@@ -6360,9 +6475,13 @@ Pub. L. 111–259, title III, § 325(b), Oct. 7, 2010, 124 Stat. 2683, provided 
 [For definition of “congressional intelligence committees” as used in section 325(b) of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 #### Future-Years Intelligence Program
-Pub. L. 115–31, div. C, title VIII, § 8091, May 5, 2017, 131 Stat. 268, provided that: “The Director of National Intelligence shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress that year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
+Pub. L. 115–245, div. A, title VIII, § 8089, Sept. 28, 2018, 132 Stat. 3021, provided that: “The Director of National Intelligence shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress that year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. C, title VIII, § 8090, Mar. 23, 2018, 132 Stat. 484.
+
+Pub. L. 115–31, div. C, title VIII, § 8091, May 5, 2017, 131 Stat. 268.
 
 Pub. L. 114–113, div. C, title VIII, § 8091, Dec. 18, 2015, 129 Stat. 2373.
 
@@ -7533,6 +7652,12 @@ Pub. L. 106–120, title III, § 305(c), Dec. 3, 1999, 113 Stat. 1612, provided 
 #### Effective Date
 Pub. L. 103–359, title VIII, § 802(c), Oct. 14, 1994, 108 Stat. 3438, provided that: “The amendments made by subsections (a) and (b) [enacting this subchapter] shall take effect 180 days after the date of enactment of this Act [Oct. 14, 1994].”
 
+#### Trusted Information Provider Program for National Security Positions and Positions of Trust
+Pub. L. 115–232, div. A, title IX, § 941, Aug. 13, 2018, 132 Stat. 1941, provided that: “(a) Program Required.—Not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Security Executive Agent and the Suitability/Credentialing Executive Agent shall establish and implement a program (to be known as the ‘Trusted Information Provider Program’) to share between and among agencies of the Federal Government and industry partners of the Federal Government relevant background information regarding individuals applying for and currently occupying national security positions and positions of trust, in order to ensure the Federal Government maintains a trusted workforce. “(b) Privacy Safeguards.—The Security Executive Agent and the Suitability/Credentialing Executive Agent shall ensure that the program required by subsection (a) includes such safeguards for privacy as the Security Executive Agent and the Suitability/Credentialing Executive Agent consider appropriate. “(c) Provision of Information to the Federal Government.—The program required by subsection (a) shall include requirements that enable Investigative Service Providers and agencies of the Federal Government to leverage certain pre-employment information gathered during the employment or military recruiting process, and other relevant security or human resources information obtained during employment with or for the Federal Government, that satisfy Federal investigative standards, while safeguarding personnel privacy. “(d) Information and Records.—The information and records considered under the program required by subsection (a) shall include the following:“(1) Date and place of birth. “(2) Citizenship or immigration and naturalization information. “(3) Education records. “(4) Employment records. “(5) Employment or social references. “(6) Military service records. “(7) State and local law enforcement checks. “(8) Criminal history checks. “(9) Financial records or information. “(10) Foreign travel, relatives or associations. “(11) Social media checks. “(12) Any other information or records relevant to obtaining or maintaining national security, suitability, fitness, or credentialing eligibility. “(e) Implementation Plan.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Security Executive Agent and the Suitability/Credentialing Executive Agent shall jointly submit to Congress a plan for the implementation of the program required by subsection (a). “(2) Elements.—The plan required by paragraph (1) shall include the following:“(A) Mechanisms that address privacy, national security, suitability or fitness, credentialing, and human resources or military recruitment processes. “(B) Such recommendations for legislative or administrative action as the Security Executive Agent and the Suitability/Credentialing Executive Agent consider appropriate to carry out or improve the program. “(f) Definitions.—In this section:“(1) The term ‘Security Executive Agent’ means the Director of National Intelligence acting as the Security Executive Agent in accordance with Executive Order 13467 (73 Fed. Reg. 38103; [50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note) [set out below]. “(2) The term ‘Suitability/Credentialing Executive Agent’ means the Director of the Office of Personnel Management acting as the Suitability/Credentialing Executive Agent in accordance with Executive Order 13467.”
+
+#### Review of Position Designations for Determining Appropriate Background Investigations
+Pub. L. 115–173, §§ 2, 7, May 22, 2018, 132 Stat. 1291, 1293, provided that: “SEC. 2. DEFINITIONS.“In this Act [see Short Title of 2018 Amendment note set out under [section 3001 of this title](./chapter-044-national-security.md#section-3001)]—“(1) the term ‘Bureau’ means the National Background Investigations Bureau of the Office; “(2) the term ‘Director’ means the Director of National Intelligence acting as the Security Executive Agent; and “(3) the term ‘Office’ means the Office of Personnel Management acting as the Suitability and Credentialing Executive Agent. “SEC. 7. REVIEW AND UPDATE OF POSITION DESIGNATION GUIDANCE.“(a) Definitions.—In this section—“(1) the term ‘agency’ has the meaning given the term in Executive Order 13467 (73 Fed. Reg. 38103) [set out below], or any successor thereto; “(2) the term ‘appropriate congressional committees’ means—“(A) the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate; and “(B) the Committee on Oversight and Government Reform and the Permanent Select Committee on Intelligence of the House of Representatives; “(3) the term ‘background investigation’ means any investigation required for the purpose of determining the—“(A) eligibility of a covered individual for logical and physical access to Federally controlled facilities or information systems; “(B) suitability or fitness of a covered individual for Federal employment; “(C) eligibility of a covered individual for access to classified information or to hold a national security sensitive position; or “(D) fitness of a covered individual to perform work for or on behalf of the United States Government as a contractor employee; and “(4) the term ‘covered individual’—“(A) means a person who performs work for or on behalf of the executive branch or seeks to perform work for or on behalf of the executive branch; “(B) is not limited to Federal employees; “(C) includes all persons, not excluded under subparagraph (D), who require eligibility for access to classified information or eligibility to hold a sensitive position, including, but not limited to, contractors, subcontractors, licensees, certificate holders, grantees, experts, consultants, and government employees; and “(D) does not include—“(i) the President; “(ii) employees of the President under section 105 or 107 of title 3, United States Code (except to the extent otherwise directed by the President); “(iii) the Vice President; or “(iv) employees of the Vice President under [section 106 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section106&num=0&edition=prelim), United States Code, or an annual legislative branch appropriations Act (except to the extent otherwise directed by the Vice President). “(b) Review and Updating.—“(1) Initial review and update of guidance.—Not later than 180 days after the date of enactment of this Act [May 22, 2018], the Director and the Director of the Office shall review and make recommendations to Congress and the President as appropriate to issue guidance to assist agencies in determining—“(A) position sensitivity designation; and “(B) the appropriate background investigation to initiate for each position designation. “(2) Reviews and revisions of position designations.—Not less frequently than every 4 years, the President, acting through relevant agencies (as determined by the President) and in accordance with the guidance described in paragraph (1), shall review and, if necessary, revise the position designation of positions within agencies. “(c) Reports to Congress.—Not later than 30 days after completing a review under subsection (b)(2), the President shall submit to the appropriate congressional committees a report on—“(1) any issues identified in the review; and “(2) the number of position designations revised as a result of the review. “(d) No Change in Authority.—Nothing in this section limits or expands the authority of any agency to designate a position as sensitive or as requiring its occupant to have access to classified information.”
+
 #### Classification Review of Executive Branch Materials in the Possession of the Congressional Intelligence Committees
 Pub. L. 111–259, title VII, § 702, Oct. 7, 2010, 124 Stat. 2745, provided that: “The Director of National Intelligence is authorized to conduct, at the request of one of the congressional intelligence committees and in accordance with procedures established by that committee, a classification review of materials in the possession of that committee that— “(1) are not less than 25 years old; and “(2) were created, or provided to that committee, by an entity in the executive branch.”
 
@@ -7780,9 +7905,11 @@ Sec. 203. Implementation. (a) The head of each agency that enters into classifie
 (i) This order shall be effective immediately.
 
 #### Extension of Term of National Industrial Security Program Policy Advisory Committee
-Term of National Industrial Security Program Policy Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of National Industrial Security Program Policy Advisory Committee extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of National Industrial Security Program Policy Advisory Committee were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -8385,7 +8512,9 @@ Sec. 2.7. Additional Functions. (a) The duties assigned to the Security Policy B
 
 (c) All investigations being conducted by agencies that develop information indicating that an individual may have been subjected to coercion, influence, or pressure to act contrary to the interests of the national security, or information that the individual may pose a counterintelligence or terrorist threat, or as otherwise provided by law, shall be referred to the Federal Bureau of Investigation for potential investigation, and may also be referred to other agencies where appropriate.
 
-#### PART 3—MISCELLANEOUSSec. 3. General Provisions. (a) Executive Order 13381 of June 27, 2005 [amending Ex. Ord. No. 12171, set out as a note under [section 7103 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103&num=0&edition=prelim), Government Organization and Employees], as amended, and Executive Order 10450 of April 27, 1953 [formerly set out as a note under [section 7311 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7311&num=0&edition=prelim)], as amended, are revoked. By revoking Executive Order 10450 of April 27, 1953, as amended, there is no intent to alter the requirement for an investigation for national security purposes or the “clearly consistent with the interest of national security” standard prescribed by that Executive Order for making the determinations referenced in section 2.7(b)(ii). Further, suitability, fitness, credentialing, and national security eligibility regulations, standards and guidance issued by, or interagency agreements entered into by, the Council, the Executive Agents, or any agency pursuant to Executive Order 10450 of April 27, 1953, as amended, shall remain valid until superseded. Nothing in this order shall:
+#### PART 3—MISCELLANEOUS
+Sec. 3. General Provisions. (a) Executive Order 13381 of June 27, 2005 [amending Ex. Ord. No. 12171, set out as a note under [section 7103 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103&num=0&edition=prelim), Government Organization and Employees], as amended, and Executive Order 10450 of April 27, 1953 [formerly set out as a note under [section 7311 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7311&num=0&edition=prelim)], as amended, are revoked. By revoking Executive Order 10450 of April 27, 1953, as amended, there is no intent to alter the requirement for an investigation for national security purposes or the “clearly consistent with the interest of national security” standard prescribed by that Executive Order for making the determinations referenced in section 2.7(b)(ii). Further, suitability, fitness, credentialing, and national security eligibility regulations, standards and guidance issued by, or interagency agreements entered into by, the Council, the Executive Agents, or any agency pursuant to Executive Order 10450 of April 27, 1953, as amended, shall remain valid until superseded. Nothing in this order shall:
+
 (i) supersede, impede, or otherwise affect:
 
 (A) Executive Order 10577 of November 23, 1954, as amended;
@@ -9355,9 +9484,11 @@ Sec. 7. Effective Date. This order is effective 180 days from the date of this o
 Barack Obama.
 
 #### Extension of Term of State, Local, Tribal, and Private Sector Policy Advisory Committee
-Term of State, Local, Tribal, and Private Sector Policy Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of State, Local, Tribal, and Private Sector Policy Advisory Committee extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of State, Local, Tribal, and Private Sector Policy Advisory Committee were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -9727,6 +9858,9 @@ Subsecs. (c) to (g). Pub. L. 114–23, § 503(e), added subsec. (c) and redesign
 
 Subsec. (b)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized investigative agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized investigative agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
+#### Effective Date
+Section effective 180 days after Oct. 14, 1994, see section 802(c) of Pub. L. 103–359, set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+
 
 <a id="section-3175"></a>
 ## § 3175. Exceptions
@@ -9737,6 +9871,9 @@ Except as otherwise specifically provided, the provisions of this subchapter sha
 
 #### Codification
 Section was formerly classified to [section 437 of this title](./chapter-015-national-security.md#section-437) prior to editorial reclassification and renumbering as this section.
+
+#### Effective Date
+Section effective 180 days after Oct. 14, 1994, see section 802(c) of Pub. L. 103–359, set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
 
 
 <a id="section-3191"></a>
@@ -9772,6 +9909,9 @@ Section was formerly classified to [section 438 of this title](./chapter-015-nat
 
 #### Amendments
 1999—Par. (8). Pub. L. 106–120 added par. (8).
+
+#### Effective Date
+Section effective 180 days after Oct. 14, 1994, see section 802(c) of Pub. L. 103–359, set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
 
 
 <a id="section-3192"></a>
@@ -9825,7 +9965,7 @@ The Chemical and Biological Weapons Control and Warfare Elimination Act of 1991,
 
 The Nuclear Proliferation Prevention Act of 1994, referred to in text, is title VIII of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 507, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6301&num=0&edition=prelim), Foreign Relations and Intercourse, and Tables.
 
-Title XVII of the National Defense Authorization Act for Fiscal Year 1991, referred to in text, is title XVII of div. A of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1750, as amended, which enacted [section 4612 of this title](./chapter-056-export-administration.md#section-4612) and sections 2797 to 2797c of Title 22, Foreign Relations and Intercourse, amended [section 4605 of this title](./chapter-056-export-administration.md#section-4605), and enacted provisions set out as notes under [section 4602 of this title](./chapter-056-export-administration.md#section-4602) and [section 2797 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2797&num=0&edition=prelim). For complete classification of title XVII to the Code, see Tables.
+Title XVII of the National Defense Authorization Act for Fiscal Year 1991, referred to in text, is title XVII of div. A of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1750, as amended, which enacted former [section 4612 of this title](./chapter-056-export-administration.md#section-4612) and sections 2797 to 2797c of Title 22, Foreign Relations and Intercourse, amended former [section 4605 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim), and enacted provisions formerly set out as notes under former [section 4602 of this title](./chapter-056-export-administration.md#section-4602) and [section 2797 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2797&num=0&edition=prelim). For complete classification of title XVII to the Code, see Tables.
 
 The Iran-Iraq Arms Nonproliferation Act of 1992, referred to in text, is title XVI of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2571, as amended, which is set out as a note under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701).
 
@@ -10013,7 +10153,7 @@ Section was formerly classified to [section 441j–1 of this title](./chapter-01
 
   (A) With respect to voluntary services under paragraph (1) provided by an individual that are within the scope of the services accepted under that paragraph, the individual shall be deemed to be a volunteer of a governmental entity or nonprofit institution for purposes of the Volunteer Protection Act of 1997 ([42 U.S.C. 14501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14501&num=0&edition=prelim) et seq.).
 
-  (B) In the case of any claim against such an individual with respect to the provision of such services, section 4(d) of such Act ([42 U.S.C. 14503(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14503/d&num=0&edition=prelim)) shall not apply.
+  (B) In the case of any claim against such an individual with respect to the provision of such services, section 4(d) of such Act ([42 U.S.C. 14503(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14503/d&num=0&edition=prelim)) 11 See References in Text note below. shall not apply.
 
 (3) Acceptance of voluntary services under this section shall have no bearing on the issuance or renewal of a security clearance.
 
@@ -10035,6 +10175,8 @@ Section was formerly classified to [section 441j–1 of this title](./chapter-01
 
 #### References in Text
 The Volunteer Protection Act of 1997, referred to in subsec. (d)(2)(A), is Pub. L. 105–19, June 18, 1997, 111 Stat. 218, which is classified generally to chapter 139 (§ 14501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 14501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14501&num=0&edition=prelim) and Tables.
+
+Section 4(d) of such Act ([42 U.S.C. 14503(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14503/d&num=0&edition=prelim)), meaning the Volunteer Protection Act of 1997 and referred to in subsec. (d)(2)(B), was redesignated section 4(e) of the Act by Pub. L. 115–254, div. B, title V, § 584(1), Oct. 5, 2018, 132 Stat. 3399.
 
 #### Codification
 Section was formerly classified to [section 441j–2 of this title](./chapter-015-national-security.md#section-441j-2) prior to editorial reclassification and renumbering as this section.

@@ -145,15 +145,29 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(12)
+Pub. L. 115–254, div. F, title VI, § 1470(m)(1), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (c) of this section is amended by striking paragraph (12) and inserting the following new paragraph (12):
+
+(12) United States International Development Finance Corporation
+
+Programs of the United States International Development Finance Corporation.
+
+See 2018 Amendment note below.
+
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
+2018—Subsec. (c)(12). Pub. L. 115–254 added par. (12) and struck out former par. (12). Prior to amendment, text read as follows: “Programs of the Overseas Private Investment Corporation.”
+
 1998—Subsec. (c)(11). Pub. L. 105–206 in heading substituted “Normal trade relations” for “Most favored nation trade status” and in text struck out “(commonly referred to as ‘most favored nation status’)” after “nondiscriminatory treatment”.
 
 1992—Subsec. (c)(14). Pub. L. 102–549 substituted “Agency” for “Program”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Short Title
 Pub. L. 101–179, § 1(a), Nov. 28, 1989, 103 Stat. 1298, provided that: “This Act [enacting this chapter and [section 2185 of this title](./chapter-032-foreign-assistance.md#section-2185), amending sections 2184 and 2199 of this title, [section 1757 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1757&num=0&edition=prelim), Banks and Banking, and [section 2462 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2462&num=0&edition=prelim), Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, [section 635 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635&num=0&edition=prelim), and [section 7872 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7872&num=0&edition=prelim), Internal Revenue Code, and amending provisions set out as a note under [section 7872 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7872&num=0&edition=prelim)] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
@@ -396,17 +410,35 @@ Such amounts are authorized to be made available until expended.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)
+Pub. L. 115–254, div. F, title VI, § 1470(m)(2), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), this section is amended by striking subsection (e) and inserting the following new subsection (e):
+
+(e) Grants to Enterprise Funds
+
+Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund—
+
+(1) except as provided in paragraph (2), by the United States Agency for International Development; or
+
+(2) if the Enterprise Funds are transferred to the United States International Development Finance Corporation pursuant to [section 9683(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9683/b&num=0&edition=prelim), by the Corporation.
+
+See 2018 Amendment note below.
+
 #### References in Text
 This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (l)(3), probably means the date of enactment of Pub. L. 105–118 which amended subsec. (l) generally and was approved Nov. 26, 1997.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–254 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund.”
+
 2004—Subsec. (n). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1997—Subsec. (l). Pub. L. 105–118, which directed the general amendment of section 201(l) of the Support for East European Democracy Act, was executed by amending heading and text of section 201(l) of the Support for East European Democracy (SEED) Act of 1989, subsec. (l) of this section, generally, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services.”
 
 1996—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end “: Provided, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the ‘Advisory Councils’), with which the Enterprise Fund’s policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Delegation of Functions
 Functions of President under this section relating to Enterprise Funds for Poland and Hungary delegated to Secretary of State by section 2 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, as amended, set out as a note under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401).
@@ -808,12 +840,12 @@ Not later than 180 days after November 28, 1989, the President shall submit a re
 
 (1) the confidence building measures Poland and Hungary could undertake to facilitate the negotiation of agreements, including bilateral customs and technology transfer agreements, that would encourage greater direct private sector investment in that country; and
 
-(2) the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.].
+(2) the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979.
 
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 
 <a id="section-5475"></a>

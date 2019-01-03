@@ -107,7 +107,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 **(d) Evaluation of appraisal** In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
 
-**(e) Completion dates** The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015. The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
+**(e) Completion dates** The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, December 31, 2015, and December 31, 2022. The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
 
 ### Statutory Notes
 
@@ -115,6 +115,8 @@ For transfer of certain enforcement functions of Secretary or other official in 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 substituted “December 31, 2015, and December 31, 2022” for “and December 31, 2015”.
+
 2014—Subsec. (a)(4). Pub. L. 113–79, § 2508(b)(1), substituted “, State, and tribal” for “and State”.
 
 Subsec. (b). Pub. L. 113–79, § 2508(b)(2), inserted “, tribal” after “State” in two places.
@@ -158,7 +160,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 **(c) Improvement to program** In developing a national soil and water conservation program under subsection (a), the Secretary shall solicit and evaluate recommendations for improving the program, including the content, scope, process, participation in, and other elements of the program, as determined by the Secretary.
 
-**(d) Completion dates** The initial program shall be completed not later than December 31, 2011, and December 31, 2016, respectively.11 So in original. See 2008 Amendment note below.
+**(d) Completion dates** The initial program shall be completed not later than December 31, 2011, and December 31, 2016, and a program update shall be completed by December 31, 2023.
 
 ### Statutory Notes
 
@@ -166,6 +168,8 @@ For transfer of certain enforcement functions of Secretary or other official in 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–334 substituted “December 31, 2016, and a program update shall be completed by December 31, 2023” for “December 31, 2016, respectively”.
+
 2014—Subsec. (a). Pub. L. 113–79 inserted “, tribal,” after “conservation districts, State” and “, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
 
 2008—Subsecs. (b) to (d). Pub. L. 110–246, § 2804(c), added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
@@ -199,9 +203,9 @@ Section, Pub. L. 104–127, title III, § 386, Apr. 4, 1996, 110 Stat. 1017, rel
 
 <a id="section-2006"></a>
 ## § 2006. Reports to Congress
-**(a) Appraisal** Not later than the date on which Congress convenes in 2011 and 2016, the President shall transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate the appraisal developed under [section 2004 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2004) and completed before the end of the previous year.
+**(a) Appraisal** Not later than the date on which Congress convenes in 2011, 2016, and 2022, the President shall transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate the appraisal developed under [section 2004 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2004) and completed before the end of the previous year.
 
-**(b) Program and statement of policy** Not later than the date on which Congress convenes in 2012 and 2017, the President shall transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
+**(b) Program and statement of policy** Not later than the date on which Congress convenes in 2012, 2017, and 2023, the President shall transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
 
 (1) the initial program or updated program developed under [section 2005 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2005) and completed before the end of the previous year;
 
@@ -217,6 +221,10 @@ Section, Pub. L. 104–127, title III, § 386, Apr. 4, 1996, 110 Stat. 1017, rel
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 2402(3)(A), substituted “2011, 2016, and 2022” for “2011 and 2016”.
+
+Subsec. (b). Pub. L. 115–334, § 2402(3)(B), substituted “2012, 2017, and 2023” for “2012 and 2017” in introductory provisions.
+
 2008—Pub. L. 110–246, § 2804(d), amended section generally. Prior to amendment, section related to transmission of appraisal developed under [section 2004 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2004) at the time Congress convened in 1980, 1987, 1996, and 2006, transmission of program developed under [section 2005 of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2005) and statement of policy at the time Congress convened in 1980, 1988, 1998, and 2008, and annual report on program effectiveness.
 
 1985—Subsec. (a). Pub. L. 99–198, § 1252(c)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “On the first day Congress convenes in 1980 and at each five-year interval thereafter during the period this chapter is in effect the President shall transmit to the Speaker of the House of Representatives and the President of the Senate, the appraisal and the program as required by sections 2004 and 2005 of this title, together with a detailed statement of policy regarding soil and water conservation activities of the United States Department of Agriculture.”
@@ -261,7 +269,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 <a id="section-2009"></a>
 ## § 2009. Termination of program
 
-The provisions of this chapter shall terminate on December 31, 2018.
+The provisions of this chapter shall terminate on December 31, 2023.
 
 ### Statutory Notes
 
@@ -269,6 +277,8 @@ The provisions of this chapter shall terminate on December 31, 2018.
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2023” for “2018”.
+
 2008—Pub. L. 110–246, § 2804(e), substituted “2018” for “2008”.
 
 1985—Pub. L. 99–198 substituted “2008” for “1985”.

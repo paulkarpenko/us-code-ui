@@ -480,13 +480,13 @@ Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of 
 
 **(e) Special rules relating to distributions, etc., by corporations, partnerships, trusts, or estates**
 
-(1) **Certain domestic partnerships, trusts, and estates** — In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the gain realized to the extent such gain—
+(1) **Certain domestic partnerships, trusts, and estates** — In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to the highest rate of tax in effect for the taxable year under section 11(b) (or, to the extent provided in regulations, 20 percent) multiplied by the gain realized to the extent such gain—
 
   (A) is allocable to a foreign person who is a partner or beneficiary of such partnership, trust, or estate, or
 
   (B) is allocable to a portion of the trust treated as owned by a foreign person under subpart E of part I of subchapter J.
 
-(2) **Certain distributions by foreign corporations** — In the case of any distribution by a foreign corporation on which gain is recognized under subsection (d) or (e) of section 897, the foreign corporation shall deduct and withhold under subsection (a) a tax equal to 35 percent of the amount of gain recognized on such distribution under such subsection.
+(2) **Certain distributions by foreign corporations** — In the case of any distribution by a foreign corporation on which gain is recognized under subsection (d) or (e) of section 897, the foreign corporation shall deduct and withhold under subsection (a) a tax equal to the highest rate of tax in effect for the taxable year under section 11(b) multiplied by the amount of gain recognized on such distribution under such subsection.
 
 (3) **Distributions by certain domestic corporations to foreign shareholders** — If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
@@ -494,7 +494,7 @@ Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of 
 
 (5) **Rules relating to dispositions of interest in partnerships, trusts, or estates** — To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized on the disposition.
 
-(6) **Distributions by regulated investment companies and real estate investment trusts** — If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the amount so treated.
+(6) **Distributions by regulated investment companies and real estate investment trusts** — If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct and withhold under subsection (a) a tax equal to the highest rate of tax in effect for the taxable year under section 11(b) (or, to the extent provided in regulations, 20 percent) multiplied by the amount so treated.
 
 (7) **Regulations** — The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations providing for exceptions from provisions of this subsection and regulations for the application of this subsection in the case of payments through 1 or more entities.
 
@@ -527,6 +527,12 @@ Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (e)(1). Pub. L. 115–97, § 13001(b)(3)(A), in introductory provisions, substituted “the highest rate of tax in effect for the taxable year under section 11(b)” for “35 percent” and “multiplied by the gain” for “of the gain”.
+
+Subsec. (e)(2). Pub. L. 115–97, § 13001(b)(3)(B), substituted “the highest rate of tax in effect for the taxable year under section 11(b) multiplied by the amount” for “35 percent of the amount”.
+
+Subsec. (e)(6). Pub. L. 115–97, § 13001(b)(3)(C), substituted “the highest rate of tax in effect for the taxable year under section 11(b)” for “35 percent” and “multiplied by the amount” for “of the amount”.
+
 2015—Subsec. (a). Pub. L. 114–113, § 324(a), substituted “15 percent” for “10 percent”.
 
 Subsec. (c)(4). Pub. L. 114–113, § 324(b), added par. (4).
@@ -593,6 +599,9 @@ Subsec. (e)(4). Pub. L. 99–514, § 1810(f)(6), substituted “section 897” f
 
 Subsec. (e)(6). Pub. L. 99–514, § 1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 13001(c)(2) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
+
 #### Effective Date of 2015 Amendment
 Amendment by section 323(b) of Pub. L. 114–113 applicable to dispositions and distributions after Dec. 18, 2015, see section 323(c) of Pub. L. 114–113, set out as a note under [section 897 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-897).
 
@@ -622,7 +631,7 @@ Pub. L. 104–188, title I, § 1704(c)(2), Aug. 20, 1996, 110 Stat. 1878, provid
 Pub. L. 100–647, title I, § 1003(b)(3), Nov. 10, 1988, 102 Stat. 3384, provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1987.
 
 #### Effective Date of 1986 Amendment
-Amendment by section 311(b)(4) of Pub. L. 99–514 applicable to payments made after Dec. 31, 1986, see section 311(c) of Pub. L. 99–514, as amended, set out as a note under [section 1201 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1201).
+Amendment by section 311(b)(4) of Pub. L. 99–514 applicable to payments made after Dec. 31, 1986, see section 311(c) of Pub. L. 99–514, as amended, set out as a note under [section 593 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-593).
 
 Amendment by section 1810(f)(2), (3), (5), (6), (8) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48).
 
@@ -636,7 +645,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 
 <a id="section-1446"></a>
-## § 1446. Withholding tax on foreign partners’ share of effectively connected income
+## § 1446. Withholding of tax on foreign partners’ share of effectively connected income
 **(a) General rule** If—
 
 (1) a partnership has effectively connected taxable income for any taxable year, and
@@ -652,7 +661,7 @@ such partnership shall pay a withholding tax under this section at such time and
 
   (A) the highest rate of tax specified in section 1 in the case of the portion of the effectively connected taxable income which is allocable under section 704 to foreign partners who are not corporations, and
 
-  (B) the highest rate of tax specified in section 11(b)(1) in the case of the portion of the effectively connected taxable income which is allocable under section 704 to foreign partners which are corporations.
+  (B) the highest rate of tax specified in section 11(b) in the case of the portion of the effectively connected taxable income which is allocable under section 704 to foreign partners which are corporations.
 
 **(c) Effectively connected taxable income** For purposes of this section, the term “effectively connected taxable income” means the taxable income of the partnership which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States computed with the following adjustments:
 
@@ -674,7 +683,31 @@ such partnership shall pay a withholding tax under this section at such time and
 
 **(e) Foreign partner** For purposes of this section, the term “foreign partner” means any partner who is not a United States person.
 
-**(f) Regulations** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including—
+**(f) Special rules for withholding on dispositions of partnership interests**
+
+(1) **In general** — Except as provided in this subsection, if any portion of the gain (if any) on any disposition of an interest in a partnership would be treated under section 864(c)(8) as effectively connected with the conduct of a trade or business within the United States, the transferee shall be required to deduct and withhold a tax equal to 10 percent of the amount realized on the disposition.
+
+(2) **Exception if nonforeign affidavit furnished**
+
+  (A) *In general* — No person shall be required to deduct and withhold any amount under paragraph (1) with respect to any disposition if the transferor furnishes to the transferee an affidavit by the transferor stating, under penalty of perjury, the transferor’s United States taxpayer identification number and that the transferor is not a foreign person.
+
+  (B) *False affidavit* — Subparagraph (A) shall not apply to any disposition if—
+
+    (i) the transferee has actual knowledge that the affidavit is false, or the transferee receives a notice (as described in section 1445(d)) from a transferor’s agent or transferee’s agent that such affidavit or statement is false, or
+
+    (ii) the Secretary by regulations requires the transferee to furnish a copy of such affidavit or statement to the Secretary and the transferee fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
+
+  (C) *Rules for agents* — The rules of section 1445(d) shall apply to a transferor’s agent or transferee’s agent with respect to any affidavit described in subparagraph (A) in the same manner as such rules apply with respect to the disposition of a United States real property interest under such section.
+
+(3) **Authority of Secretary to prescribe reduced amount** — At the request of the transferor or transferee, the Secretary may prescribe a reduced amount to be withheld under this section if the Secretary determines that to substitute such reduced amount will not jeopardize the collection of the tax imposed under this title with respect to gain treated under section 864(c)(8) as effectively connected with the conduct of a trade or business with in the United States.
+
+(4) **Partnership to withhold amounts not withheld by the transferee** — If a transferee fails to withhold any amount required to be withheld under paragraph (1), the partnership shall be required to deduct and withhold from distributions to the transferee a tax in an amount equal to the amount the transferee failed to withhold (plus interest under this title on such amount).
+
+(5) **Definitions** — Any term used in this subsection which is also used under section 1445 shall have the same meaning as when used in such section.
+
+(6) **Regulations** — The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this subsection, including regulations providing for exceptions from the provisions of this subsection.
+
+**(g) Regulations** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including—
 
 (1) regulations providing for the application of this section in the case of publicly traded partnerships, and
 
@@ -687,6 +720,12 @@ such partnership shall pay a withholding tax under this section at such time and
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–141 substituted “Withholding of tax” for “Withholding tax” in section catchline.
+
+2017—Subsec. (b)(2)(B). Pub. L. 115–97, § 13001(b)(3)(D), substituted “section 11(b)” for “section 11(b)(1)”.
+
+Subsecs. (f), (g). Pub. L. 115–97, § 13501(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+
 1989—Subsec. (b)(2)(B). Pub. L. 101–239, § 7811(i)(6)(A), substituted “section 11(b)(1)” for “section 11(b)”.
 
 Subsec. (d)(2). Pub. L. 101–239, § 7811(i)(6)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A foreign partner’s share of any withholding tax paid by the partnership under this section shall be treated as distributed to such partner by such partnership on the last day of the partnership’s taxable year (for which such tax was paid).”
@@ -694,6 +733,11 @@ Subsec. (d)(2). Pub. L. 101–239, § 7811(i)(6)(B), amended par. (2) generally.
 Subsec. (f). Pub. L. 101–239, § 7811(i)(6)(C), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations providing for the application of this section in the case of publicly traded partnerships.”
 
 1988—Pub. L. 100–647 amended section generally, substituting provisions relating to withholding tax on foreign partners’ share of effectively connected income for provisions which related to withholding tax on amounts paid by partnerships to foreign partners.
+
+#### Effective Date of 2017 Amendment
+Amendment by section 13001(b)(3)(D) of Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 13001(c)(2) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
+
+Pub. L. 115–97, title I, § 13501(c)(2), Dec. 22, 2017, 131 Stat. 2141, provided that: “The amendment made by subsection (b) [amending this section] shall apply to sales, exchanges, and dispositions after December 31, 2017.”
 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

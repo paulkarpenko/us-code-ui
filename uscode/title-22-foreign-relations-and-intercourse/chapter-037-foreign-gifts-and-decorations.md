@@ -21,11 +21,11 @@ In this chapter—
 
 ### Statutory Notes
 
-#### Repeal
-Section was repealed by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224, except insofar as it applies to [section 2625 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2625).
-
 #### Short Title
 Pub. L. 89–673, § 1, Oct. 15, 1966, 80 Stat. 952, which provided that Pub. L. 89–673, enacting this chapter, amending [section 804 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section804&num=0&edition=prelim), and repealing sections 114, 115, and 115a of former Title 5, Executive Departments and Government Officers and Employees, could be cited as the “Foreign Gifts and Decorations Act of 1966”, was repealed by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224. See [section 7342 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342&num=0&edition=prelim), Government Organization and Employees.
+
+#### Repeal of Section
+Section was repealed by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224, except insofar as it applies to [section 2625 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2625).
 
 
 <a id="section-2622-to-2624"></a>

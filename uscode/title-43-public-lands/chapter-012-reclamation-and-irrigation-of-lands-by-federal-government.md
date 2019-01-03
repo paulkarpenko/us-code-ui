@@ -477,6 +477,9 @@ Section is comprised of the second, third, fourth, and sixth undesignated pars. 
 
 2003—Pub. L. 108–137 inserted in first par. “, not to exceed $5,000,000 for each causal event giving rise to a claim or claims” after “activities of the Bureau of Reclamation”.
 
+#### Operations and Maintenance Costs of Certain Bureau of Reclamation Dikes
+Pub. L. 115–270, title IV, § 4309, Oct. 23, 2018, 132 Stat. 3889, provided that: “(a) In General.—Notwithstanding any other provision of law (including regulations), effective beginning on the date of enactment of this section [Oct. 23, 2018], the Federal share of the operations and maintenance costs of a dike described in subsection (b) shall be 100 percent. “(b) Description of Dikes.—A dike referred to in subsection (a) is a dike—“(1) that is owned by the Bureau of Reclamation on the date of enactment of this section; “(2) the construction of which was completed not later than December 31, 1945; “(3) a corrective action study for which was completed not later than December 31, 2015; and “(4) the construction of which was authorized by the Act of June 28, 1938 (52 Stat. 1215, chapter 795).”
+
 
 <a id="section-378"></a>
 ## § 378. Omitted
@@ -761,12 +764,12 @@ Pub. L. 114–322, title III, § 4007(a)–(j), Dec. 16, 2016, 130 Stat. 1863–
 [For definition of “Reclamation State” as used in section 4007(a)(1), (2), (d) of Pub. L. 114–322, set out above, see section 4014(8) of Pub. L. 114–322, set out below.]
 
 #### Savings Language
-Pub. L. 114–322, title III, § 4012, Dec. 16, 2016, 130 Stat. 1882, provided that: “(a) In General.—This subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322, see Tables for classification] shall not be interpreted or implemented in a manner that—“(1) preempts or modifies any obligation of the United States to act in conformance with applicable State law, including applicable State water law; “(2) affects or modifies any obligation under the Central Valley Project Improvement Act ([title XXXIV of] Public Law 102–575; 106 Stat. 4706), except for the savings provisions for the Stanislaus River predator management program expressly established by section 11(d) [sic] and provisions in section 11(g) [sic]; “(3) overrides, modifies, or amends the applicability of the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) or the application of the smelt and salmonid biological opinions to the operation of the Central Valley Project or the State Water Project; “(4) would cause additional adverse effects on listed fish species beyond the range of effects anticipated to occur to the listed fish species for the duration of the applicable biological opinion, using the best scientific and commercial data available; or “(5) overrides, modifies, or amends any obligation of the Pacific Fisheries Management Council, required by the Magnuson Stevens Act [probably means the Magnuson-Stevens Fishery Conservation and Management Act, [16 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) et seq.] or the Endangered Species Act of 1973, to manage fisheries off the coast of California, Oregon, or Washington. “(b) Successor Biological Opinions.—“(1) In general.—The Secretaries of the Interior and Commerce shall apply this Act [see Tables for classification] to any successor biological opinions to the smelt or salmonid biological opinions only to the extent that the Secretaries determine is consistent with—“(A) the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), its implementing regulations, and the successor biological opinions; and “(B) subsection (a)(4). “(2) Limitation.—Nothing in this Act shall restrict the Secretaries of the Interior and Commerce from completing consultation on successor biological opinions and through those successor biological opinions implementing whatever adjustments in operations or other activities as may be required by the Endangered Species Act of 1973 and its implementing regulations. “(c) Severability.—If any provision of this subtitle, or any application of such provision to any person or circumstance, is held to be inconsistent with any law or the biological opinions, the remainder of this subtitle and the application of this subtitle to any other person or circumstance shall not be affected.”
+Pub. L. 114–322, title III, § 4012, Dec. 16, 2016, 130 Stat. 1882, provided that: “(a) In General.—This subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322, see Tables for classification] shall not be interpreted or implemented in a manner that—“(1) preempts or modifies any obligation of the United States to act in conformance with applicable State law, including applicable State water law; “(2) affects or modifies any obligation under the Central Valley Project Improvement Act ([title XXXIV of] Public Law 102–575; 106 Stat. 4706), except for the savings provisions for the Stanislaus River predator management program expressly established by section 11(d) and provisions in section 11(g) [sic; probably means section 4010(d) and (g) of Pub. L. 114–322, 130 Stat. 1874, 1878]; “(3) overrides, modifies, or amends the applicability of the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) or the application of the smelt and salmonid biological opinions to the operation of the Central Valley Project or the State Water Project; “(4) would cause additional adverse effects on listed fish species beyond the range of effects anticipated to occur to the listed fish species for the duration of the applicable biological opinion, using the best scientific and commercial data available; or “(5) overrides, modifies, or amends any obligation of the Pacific Fisheries Management Council, required by the Magnuson Stevens Act [probably means the Magnuson-Stevens Fishery Conservation and Management Act, [16 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) et seq.] or the Endangered Species Act of 1973, to manage fisheries off the coast of California, Oregon, or Washington. “(b) Successor Biological Opinions.—“(1) In general.—The Secretaries of the Interior and Commerce shall apply this Act [see Tables for classification] to any successor biological opinions to the smelt or salmonid biological opinions only to the extent that the Secretaries determine is consistent with—“(A) the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), its implementing regulations, and the successor biological opinions; and “(B) subsection (a)(4). “(2) Limitation.—Nothing in this Act shall restrict the Secretaries of the Interior and Commerce from completing consultation on successor biological opinions and through those successor biological opinions implementing whatever adjustments in operations or other activities as may be required by the Endangered Species Act of 1973 and its implementing regulations. “(c) Severability.—If any provision of this subtitle, or any application of such provision to any person or circumstance, is held to be inconsistent with any law or the biological opinions, the remainder of this subtitle and the application of this subtitle to any other person or circumstance shall not be affected.”
 
 [For definitions of terms used in section 4012 of Pub. L. 114–322, set out above, see section 4014 of Pub. L. 114–322, set out below.]
 
 #### Duration
-Pub. L. 114–322, title III, § 4013, Dec. 16, 2016, 130 Stat. 1883, provided that: “This subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322, see Tables for classification] shall expire on the date that is 5 years after the date of its enactment [Dec. 16, 2016], with the exception of— “(1) section 4004 [not classified to the Code], which shall expire 10 years after the date of its enactment; and “(2) projects under construction in sections 4007 [set out in part as a note above], 4009(a) [amending a note under [section 10301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10301&num=0&edition=prelim), The Public Health and Welfare], and 4009(c) [amending [section 390h of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390h)].”
+Pub. L. 114–322, title III, § 4013, Dec. 16, 2016, 130 Stat. 1883, provided that: “This subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322, see Tables for classification] shall expire on the date that is 5 years after the date of its enactment [Dec. 16, 2016], with the exception of— “(1) section 4004 [130 Stat. 1858], which shall expire 10 years after the date of its enactment; and “(2) projects under construction in sections 4007 [set out in part as a note above], 4009(a) [amending provisions set out as a note under [section 10301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10301&num=0&edition=prelim), The Public Health and Welfare], and 4009(c) [amending [section 390h of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390h)].”
 
 #### Amendment of Contracts Existing Prior to November 17, 1986
 Pub. L. 99–662, title IX, § 932(b), Nov. 17, 1986, 100 Stat. 4197, provided that: “Nothing in this section [amending this section] shall be deemed to amend or require amendment of any valid contract entered into pursuant to the Water Supply Act of 1958 [this section], or Federal reclamation law and approved by the Secretary of the Army or the Secretary of the Interior prior to the date of enactment of this Act [Nov. 17, 1986].”
@@ -1716,21 +1719,14 @@ Section is based on section “16——” of Pub. L. 102–575. Two other secti
 
 
 <a id="section-390h-22"></a>
-## § 390h–22. Cucamonga Valley water recycling project
-**(a) In general** The Secretary, in cooperation with the Cucamonga Valley Water District, may participate in the design, planning, and construction of the Cucamonga Valley Water District satellite recycling plants in Rancho Cucamonga, California, to reclaim and recycle approximately 2 million gallons per day of domestic wastewater.
-
-**(b) Cost sharing** The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the capital cost of the project.
-
-**(c) Limitation** Funds provided by the Secretary shall not be used for operation and maintenance of the project described in subsection (a).
-
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $10,000,000.
-
-**(e) Sunset of authority** The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after December 26, 2007.
+## § 390h–22. Omitted
 
 ### Statutory Notes
 
 #### Codification
-Section is based on section “16——” of Pub. L. 102–575. Two other sections “16——” of Pub. L. 102–575 have been enacted and are classified to sections 390h–21 and 390h–23 of this title.
+Section, Pub. L. 102–575, title XVI, § 16——, as added Pub. L. 110–161, div. C, title II, § 210, Dec. 26, 2007, 121 Stat. 1955, which related to the Cucamonga Valley water recycling project, was omitted pursuant to subsec. (e) of section, which provided that the authority of the Secretary (of the Interior) to carry out any provisions of section terminated 10 years after Dec. 26, 2007.
+
+Section was based on section “16——” of Pub. L. 102–575. Two other sections “16——” of Pub. L. 102–575 have been enacted and are classified to sections 390h–21 and 390h–23 of this title.
 
 
 <a id="section-390h-23"></a>
@@ -1751,16 +1747,12 @@ Pub. L. 110–161, div. C, title II, § 214(c), (d), Dec. 26, 2007, 121 Stat. 19
 
 
 <a id="section-390h-24"></a>
-## § 390h–24. Eastern Municipal Water District recycled water system pressurization and expansion project, California
-**(a) Authorization** The Secretary, in cooperation with the Eastern Municipal Water District, California, may participate in the design, planning, and construction of permanent facilities needed to establish operational pressure zones that will be used to provide recycled water in the district.
+## § 390h–24. Omitted
 
-**(b) Cost sharing** The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
+### Statutory Notes
 
-**(c) Limitation** Funds provided by the Secretary shall not be used for operation or maintenance of the project described in subsection (a).
-
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $12,000,000.
-
-**(e) Sunset of authority** The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after May 8, 2008.
+#### Codification
+Section, Pub. L. 102–575, title XVI, § 1639, as added Pub. L. 110–229, title V, § 511(a), May 8, 2008, 122 Stat. 840, which related to the Eastern Municipal Water District recycled water system pressurization and expansion project, California, was omitted pursuant to subsec. (e) of section, which provided that the authority of the Secretary (of the Interior) to carry out any provisions of section terminated 10 years after May 8, 2008.
 
 
 <a id="section-390h-25"></a>

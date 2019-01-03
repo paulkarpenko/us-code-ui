@@ -229,7 +229,7 @@ It is the policy of the United States to further assist the Government of Ukrain
 For termination of section, see subsection (i) of this section.
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsecs. (c)(4) and (d)(1)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. Section 16 of the Act is now classified to [section 4618 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsecs. (c)(4) and (d)(1)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613). Section 16 of the Act was classified to [section 4618 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim) prior to repeal.
 
 The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
@@ -453,6 +453,23 @@ Barack Obama.
 (4) **Transparency requirements** — Any assistance provided pursuant to this subsection shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this subsection. The President shall provide a briefing on the activities funded by this subsection at the request of the committees specified in paragraph (2).
 
 ### Statutory Notes
+
+#### Amendment of Subsection (c)(3)
+Pub. L. 115–254, div. F, title VI, § 1470(r), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (c)(3) of this section is amended as follows:
+
+(1) in the heading and introductory provisions, by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
+
+(2) in subparagraph (B), by striking out “by eligible investors (as defined in [section 2198 of this title](./chapter-032-foreign-assistance.md#section-2198))” after “of applications”.
+
+See 2018 Amendment notes below.
+
+#### Amendments
+2018—Subsec. (c)(3). Pub. L. 115–254, § 1470(r)(1), (2), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in heading and introductory provisions.
+
+Subsec. (c)(3)(B). Pub. L. 115–254, § 1470(r)(3), struck out “by eligible investors (as defined in [section 2198 of this title](./chapter-032-foreign-assistance.md#section-2198))” after “of applications”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Delegation of Functions
 Functions of President under subsec. (d) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under [section 8925 of this title](./chapter-96a-ukraine-freedom-support.md#section-8925).

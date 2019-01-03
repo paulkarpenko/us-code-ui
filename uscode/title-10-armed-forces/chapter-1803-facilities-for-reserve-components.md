@@ -635,7 +635,7 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
   (E) A certification that the conveyance of the facility under the agreement is in the best interests of the United States and that the Secretary used competitive procedures to the maximum extent practicable to protect the interests of the United States.
 
-(2) The agreement described in a report prepared under paragraph (1) may be entered into, and the exchange covered by the agreement made, only after the end of the 30-day period beginning on the date the report is received by the congressional defense committees or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+(2) The agreement described in a report prepared under paragraph (1) may be entered into, and the exchange covered by the agreement made, only after the end of the 21-day period beginning on the date the report is received by the congressional defense committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
 (3) [Section 2662 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2662) shall not apply to an exchange carried out using the authority provided by this section.
 
@@ -644,6 +644,8 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f)(2). Pub. L. 115–91 substituted “21-day period” for “30-day period” and struck out “or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided” after “defense committees”.
+
 2008—Subsec. (a). Pub. L. 110–181 substituted “with an Executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)), the United States Postal Service, or a State” for “with a State”.
 
 2006—Subsec. (a). Pub. L. 109–163, § 2808(a)(1), inserted at end “The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.”

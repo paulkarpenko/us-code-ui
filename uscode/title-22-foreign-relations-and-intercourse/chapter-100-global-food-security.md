@@ -23,6 +23,9 @@ Congress makes the following findings:
 
 ### Statutory Notes
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–266, § 1, Oct. 11, 2018, 132 Stat. 3755, provided that: “This Act [amending sections 2292a, 9305, and 9307 of this title] may be cited as the ‘Global Food Security Reauthorization Act of 2017’.”
+
 #### Short Title
 Pub. L. 114–195, § 1, July 20, 2016, 130 Stat. 675, provided that: “This Act [enacting this chapter and amending sections 2292 and 2292a of this title] may be cited as the ‘Global Food Security Act of 2016’.”
 
@@ -127,6 +130,17 @@ In this chapter:
 
 (12) **Target country** — The term “target country” means a developing country that is selected to participate in agriculture and nutrition security programs under the Global Food Security Strategy pursuant to the selection criteria described in [section 9304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/a/2&num=0&edition=prelim), including criteria such as the potential for agriculture-led economic growth, government commitment to agricultural investment and policy reform, opportunities for partnerships and regional synergies, the level of need, and resource availability.
 
+### Statutory Notes
+
+#### Amendment of Paragraph (7)
+Pub. L. 115–254, div. F, title VI, § 1470(s), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), paragraph (7) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Par. (7). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
+
 
 <a id="section-9304"></a>
 ## § 9304. Comprehensive Global Food Security Strategy
@@ -210,7 +224,7 @@ Barack Obama.
 ## § 9305. Assistance to implement the Global Food Security Strategy
 **(a) Food shortages** The President is authorized to carry out activities pursuant to section 103, section 103A, title XII of chapter 2 of part I, and chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151a](./chapter-032-foreign-assistance.md#section-2151a), 2151a–1, 2220a et seq., and 2346 et seq.) to prevent or address food shortages notwithstanding any other provision of law.
 
-**(b) Authorization of appropriations** There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,000,600,000 for each of fiscal years 2017 and 2018 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively.
+**(b) Authorization of appropriations** There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,000,600,000 for each of fiscal years 2017 through 2023 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively.
 
 **(c) Monitoring and evaluation** The President shall seek to ensure that assistance to implement the Global Food Security Strategy is provided under established parameters for a rigorous accountability system to monitor and evaluate progress and impact of the strategy, including by reporting to the appropriate congressional committees and the public on an annual basis.
 
@@ -218,6 +232,9 @@ Barack Obama.
 
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of chapter 2 of part I of the Act is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–266 substituted “fiscal years 2017 through 2023” for “fiscal years 2017 and 2018”.
 
 #### Delegation of Functions
 Functions of President under subsec. (a) of this section delegated to the Secretary of State and the Administrator of the United States Agency for International Development, and under subsec. (c) of this section to the Administrator of the United States Agency for International Development, by Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under [section 9304 of this title](./chapter-100-global-food-security.md#section-9304).
@@ -243,7 +260,7 @@ Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of sectio
 
 <a id="section-9307"></a>
 ## § 9307. Reports
-**(a) Global Food Security Strategy implementation reports** Not later than 1 year and 2 years after the date of the submission of the strategy required under [section 9304(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/c&num=0&edition=prelim), the President shall submit to the appropriate congressional committees reports that describe the status of the implementation of the Global Food Security Strategy for 2017 and 2018, which shall—
+**(a) Global Food Security Strategy implementation reports** During each of the first 7 years after the date of the submission of the strategy required under [section 9304(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/c&num=0&edition=prelim), the President shall submit to the appropriate congressional committees reports that describe the status of the implementation of the Global Food Security Strategy at the end of the reporting period, which shall—
 
 (1) contain a summary of the Global Food Security Strategy as an appendix;
 
@@ -288,6 +305,9 @@ Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of sectio
 **(c) Public availability of information** The information referred to in subsections (a) and (b) shall be made available on the public website of the United States Agency for International Development in an open, machine readable format, in a timely manner.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–266 substituted, in introductory provisions, “During each of the first 7 years” for “Not later than 1 year and 2 years” and “at the end of the reporting period” for “for 2017 and 2018”.
 
 #### Delegation of Functions
 Functions of President under subsec. (a) of this section delegated to the Administrator of the United States Agency for International Development by Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under [section 9304 of this title](./chapter-100-global-food-security.md#section-9304).

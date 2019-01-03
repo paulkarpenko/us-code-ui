@@ -2,7 +2,7 @@
 title: 7
 chapter: '50'
 heading: AGRICULTURAL CREDIT
-section_count: 186
+section_count: 185
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -34,7 +34,7 @@ The Congress finds that the statutory authority of the Secretary of Agriculture,
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, known as the Consolidated Farm and Rural Development Act. For complete classification of title III to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
 
 #### Codification
 Section is comprised of subsec. (b) of section 301 of Pub. L. 87–128. Subsec. (a) of such section 301 is set out as a Short Title note below.
@@ -116,12 +116,36 @@ Pub. L. 87–128, title III, § 341, Aug. 8, 1961, 75 Stat. 318, provided that: 
 
   (D) *Notice* — Beginning with fiscal year 2000 not later than 12 months before a borrower will become ineligible for direct loans under this subchapter by reason of this paragraph, the Secretary shall notify the borrower of such impending ineligibility.
 
+(4) **Waiver authority** — In the case of a qualified beginning farmer or rancher, the Secretary may—
+
+  (A) reduce the 3-year requirement in paragraph (1) to 1 or 2 years, if the farmer or rancher has—
+
+    (i) not less than 16 credit hours of post-secondary education in a field related to agriculture;
+
+    (ii) successfully completed a farm management curriculum offered by a cooperative extension service, a community college, an adult vocational agriculture program, a nonprofit organization, or a land-grant college or university;
+
+    (iii) at least 1 year of experience as hired farm labor with substantial management responsibilities;
+
+    (iv) successfully completed a farm mentorship, apprenticeship, or internship program with an emphasis on management requirements and day-to-day farm management decisions;
+
+    (v) significant business management experience;
+
+    (vi) been honorably discharged from the armed forces of the United States;
+
+    (vii) successfully repaid a youth loan made under [section 1941(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1941/b&num=0&edition=prelim); or
+
+    (viii) an established relationship with an individual who has experience in farming or ranching, or is a retired farmer or rancher, and is participating as a counselor in a Service Corps of Retired Executives program authorized under [section 637(b)(1)(B) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/b/1/B&num=0&edition=prelim), or with a local farm or ranch operator or organization, approved by the Secretary, that is committed to mentoring the farmer or rancher; or
+
+  (B) waive the 3-year requirement in paragraph (1) if the farmer or rancher meets the requirements of clauses (iii) and (viii) of subparagraph (A).
+
 ### Statutory Notes
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(4). Pub. L. 115–334 added par. (4).
+
 2014—Subsec. (a)(1). Pub. L. 113–79, § 5001(a)(1)–(5), designated existing provisions as par. (1) and inserted heading, in first sentence, substituted “limited liability companies, and such other legal entities as the Secretary considers appropriate,” for “and limited liability companies”, in second sentence, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, and, in third sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, “subparagraph (C)” for “clause (3)”, and “subparagraph (D)” for “clause (4)”.
 
 Subsec. (a)(2). Pub. L. 113–79, § 5001(a)(6), added par. (2).
@@ -299,7 +323,7 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 **(g) Credit eligibility** The provisions of paragraphs (1) and (3) of [section 1983 of this title](./chapter-050-agricultural-credit.md#section-1983) shall not apply to loans made or guaranteed under this section.
 
-**(h) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2018.
+**(h) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -307,6 +331,8 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (h). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (c)(1). Pub. L. 113–79, § 5002(a), substituted “limited liability companies, or such other legal entities as the Secretary considers appropriate” for “or limited liability companies”.
 
 Subsec. (c)(2). Pub. L. 113–79, § 5001(c)(1), substituted “subparagraphs (A) and (B) of section 1922(a)(1)” for “paragraphs (1) and (2) of section 1922(a)”.
@@ -346,15 +372,15 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 <a id="section-1926"></a>
 ## § 1926. Limitations on amount of farm ownership loans
-**(a) In general** The Secretary shall make or insure no loan under sections 1922, 1923, 1924, 1934, and 1935 of this title that would cause the unpaid indebtedness under such sections of any one borrower to exceed the smaller of (1) the value of the farm or other security, or (2) in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II that are guaranteed by the Secretary).
+**(a) In general** The Secretary shall make or insure no loan under sections 1922, 1923, 1924, 1934, and 1935 of this title that would cause the unpaid indebtedness under such sections of any one borrower to exceed the smaller of (1) the value of the farm or other security, or (2) in the case of a loan other than a loan guaranteed by the Secretary, $600,000, or, in the case of a loan guaranteed by the Secretary, $1,750,000 (increased, beginning with fiscal year 2019, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II that are guaranteed by the Secretary).
 
 **(b) Determination of value** In determining the value of the farm, the Secretary shall consider appraisals made by competent appraisers under rules established by the Secretary.
 
 **(c) Inflation percentage** For purposes of this section, the inflation percentage applicable to a fiscal year is the percentage (if any) by which—
 
-(1) the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on August 31 of the immediately preceding fiscal year; exceeds
+(1) the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on July 31 of the immediately preceding fiscal year; exceeds
 
-(2) the average of such index (as so defined) for the 12-month period ending on August 31, 1996.
+(2) the average of such index (as so defined) for the 12-month period that immediately precedes the 12-month period described in paragraph (1).
 
 ### Statutory Notes
 
@@ -362,6 +388,12 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–334, § 5103(1), substituted “$600,000” for “$300,000”, “$1,750,000” for “$700,000”, and “2019” for “2000”.
+
+Subsec. (c)(1). Pub. L. 115–334, § 5103(2)(A), substituted “July” for “August”.
+
+Subsec. (c)(2). Pub. L. 115–334, § 5103(2)(B), substituted “that immediately precedes the 12-month period described in paragraph (1)” for “ending on August 31, 1996”.
+
 2008—Subsec. (a)(2). Pub. L. 110–246, § 5003, substituted “$300,000” for “$200,000”.
 
 1998—Pub. L. 105–277 inserted section catchline, designated first sentence as subsec. (a), inserted heading, and substituted “$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II that are guaranteed by the Secretary)” for “$300,000”, designated second sentence as subsec. (b) and inserted heading, and added subsec. (c).
@@ -402,7 +434,11 @@ Section, Pub. L. 101–624, title XXIII, § 2322, Nov. 28, 1990, 104 Stat. 4010;
 
 **(b) Priority** In carrying out subsection (a), the Secretary shall—
 
-(1) give priority to projects described in subsection (a)(1); and
+(1) give priority to projects described in subsection (a)(1), particularly to projects to address contamination that—
+
+  (A) poses a threat to human health or the environment; and
+
+  (B) was caused by circumstances beyond the control of the applicant for a grant, including circumstances that occurred over a period of time; and
 
 (2) provide at least 70 percent of all such grants to such projects.
 
@@ -422,7 +458,7 @@ Section, Pub. L. 101–624, title XXIII, § 2322, Nov. 28, 1990, 104 Stat. 4010;
 
   (C) to assist communities in complying with the requirements of the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.) or the Safe Drinking Water Act ([42 U.S.C. 300f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f&num=0&edition=prelim) et seq.); and
 
-  (D) to provide potable water to communities through other means.
+  (D) to provide potable water to communities through other means, other than those covered above for not to exceed 120 days when a more permanent solution is not feasible in a shorter time frame. Where drinking water supplies are inadequate due to an event, as determined by the Secretary, including drought, severe weather, or contamination, the Secretary may provide potable water for an additional period of time not to exceed an additional 120 days in order to protect public health.
 
 (2) **Joint proposals** — Nothing in this section shall preclude rural communities from submitting joint proposals for emergency water assistance, subject to the restrictions contained in subsection (e). Such restrictions should be considered in the aggregate, depending on the number of communities involved.
 
@@ -432,13 +468,13 @@ Section, Pub. L. 101–624, title XXIII, § 2322, Nov. 28, 1990, 104 Stat. 4010;
 
   (A) includes any area in any city or town with a population in excess of 10,000 inhabitants according to the most recent decennial census of the United States; or
 
-  (B) has a median household income in excess of the State nonmetropolitan median household income according to the most recent decennial census of the United States.
+  (B) has a median household income in excess of the State nonmetropolitan median household income.
 
 (2) **Set-aside for smaller communities** — Not less than 50 percent of the funds allocated under this section shall be allocated to rural communities with populations that do not exceed 3,000 inhabitants.
 
 **(f) Maximum grants** Grants made under this section may not exceed—
 
-(1) in the case of each grant made under subsection (a)(1), $500,000; and
+(1) in the case of each grant made under subsection (a)(1), $1,000,000; and
 
 (2) in the case of each grant made under subsection (a)(2), $150,000.
 
@@ -460,11 +496,15 @@ Section, Pub. L. 101–624, title XXIII, § 2322, Nov. 28, 1990, 104 Stat. 4010;
 
 (1) **Reservation**
 
-  (A) *In general* — For each fiscal year, not less than 3 nor more than 5 percent of the total amount made available to carry out [section 1926(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a/2&num=0&edition=prelim) for the fiscal year shall be reserved for grants under this section.
+  (A) *In general* — For each fiscal year, not less than 5 percent and not more than 7 percent of the total amount made available to carry out [section 1926(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a/2&num=0&edition=prelim) for the fiscal year shall be reserved for grants under this section.
 
-  (B) *Release* — Funds reserved under subparagraph (A) for a fiscal year shall be reserved only until July 1 of the fiscal year.
+  (B) *Release*
 
-(2) **Authorization of appropriations** — In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2008 through 2018.
+    (i) *In general* — Funds reserved under subparagraph (A) for a fiscal year shall be reserved only until July 1 of the fiscal year.
+
+    (ii) *Exception* — Notwithstanding clause (i), in response to an eligible community where the drinking water supplies are inadequate, as determined by the Secretary, due to an event, including drought, severe weather, or contamination, the Secretary may use funds described in subparagraph (A) from July 1 through September 30 each fiscal year to provide potable water under this section in order to protect public health.
+
+(2) **Authorization of appropriations** — In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -473,12 +513,26 @@ The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is ac
 
 The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-For definition of “this chapter”, referred to in subsec. (h)(2)(B), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (h)(2)(B), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–334, § 6407(a)(1), substituted “, particularly to projects to address contamination that—” for “; and” and added subpars. (A) and (B).
+
+Subsec. (d)(1)(D). Pub. L. 115–334, § 6407(a)(2), inserted before period at end “, other than those covered above for not to exceed 120 days when a more permanent solution is not feasible in a shorter time frame. Where drinking water supplies are inadequate due to an event, as determined by the Secretary, including drought, severe weather, or contamination, the Secretary may provide potable water for an additional period of time not to exceed an additional 120 days in order to protect public health”.
+
+Subsec. (e)(1)(B). Pub. L. 115–334, § 6407(a)(3), struck out “according to the most recent decennial census of the United States” before period at end.
+
+Subsec. (f)(1). Pub. L. 115–334, § 6407(a)(4), substituted “$1,000,000” for “$500,000”.
+
+Subsec. (i)(1)(A). Pub. L. 115–334, § 6407(a)(5)(A)(i), substituted “5 percent and not more than 7” for “3 nor more than 5”.
+
+Subsec. (i)(1)(B). Pub. L. 115–334, § 6407(a)(5)(A)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Funds reserved under subparagraph (A) for a fiscal year shall be reserved only until July 1 of the fiscal year.”
+
+Subsec. (i)(2). Pub. L. 115–334, § 6407(a)(5)(B), substituted “$50,000,000 for each of fiscal years 2019 through 2023” for “$35,000,000 for each of fiscal years 2008 through 2018”.
+
 2014—Subsec. (i)(2). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Subsec. (i)(2). Pub. L. 110–246, § 6008, substituted “2008 through 2012” for “2003 through 2007”.
@@ -603,26 +657,37 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 <a id="section-1926e"></a>
 ## § 1926e. Water systems for rural and Native villages in Alaska
-**(a) In general** The Secretary may make grants to the State of Alaska for the benefit of rural or Native villages in Alaska to provide for the development and construction of water and wastewater systems to improve the health and sanitation conditions in those villages.
+**(a) In general** The Secretary may make grants to the State of Alaska, a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597), and Native villages (as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)) for the benefit of rural or Native villages in Alaska to provide for the development and construction of water and wastewater systems to improve the health and sanitation conditions in those villages.
 
-**(b) Matching funds** To be eligible to receive a grant under subsection (a), the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
+**(b) Matching funds** To be eligible to receive a grant under subsection (a), the State of Alaska shall provide 25 percent in matching funds from non-Federal sources for any grant awarded under subsection (a).
 
 **(c) Consultation with State of Alaska** The Secretary shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) according to the needs of, and relative health and sanitation conditions in, each village.
 
 **(d) Authorization of appropriations**
 
-(1) **In general** — There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2018.
+(1) **In general** — There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2023.
 
-(2) **Training and technical assistance** — Not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by the State of Alaska for training and technical assistance programs relating to the operation and management of water and waste disposal services in rural and Native villages.
+(2) **Training and technical assistance** — Not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by the State of Alaska, and not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597), for training and technical assistance programs relating to the operation and management of water and waste disposal services in rural and Native villages.
 
 (3) **Availability** — Funds appropriated pursuant to the authorization of appropriations in paragraph (1) shall be available until expended.
 
 ### Statutory Notes
 
+#### References in Text
+Section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998, referred to in subsecs. (a) and (d)(2), is section 325 of Pub. L. 105–83, title III, Nov. 14, 1997, 111 Stat. 1597, which is not classified to the Code.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 6408(1), substituted “Alaska, a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597), and Native villages (as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)) for” for “Alaska for”.
+
+Subsec. (b). Pub. L. 115–334, § 6408(2), inserted “for any grant awarded under subsection (a)” before period at end.
+
+Subsec. (d)(1). Pub. L. 115–334, § 6408(3)(A), substituted “2023” for “2018”.
+
+Subsec. (d)(2). Pub. L. 115–334, § 6408(3)(B), substituted “Alaska, and not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597),” for “Alaska”.
+
 2014—Subsec. (d)(1). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Subsec. (d)(1). Pub. L. 110–246, § 6009(a), substituted “2008 through 2012” for “2001 through 2007”.
@@ -640,26 +705,30 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-1926f"></a>
-## § 1926f. Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes
-**(a) Definition of eligible individual** In this section, the term “eligible individual” means an individual who is a member of a household the members of which have a combined income (for the most recent 12-month period for which the information is available) that is not more than 100 percent of the median nonmetropolitan household income for the State or territory in which the individual resides, according to the most recent decennial census of the United States.
+## § 1926f. Rural decentralized water systems
+**(a) Definition of eligible individual** In this section, the term “eligible individual” means an individual who is a member of a household the members of which have a combined income (for the most recent 12-month period for which the information is available) that is not more than 60 percent of the median nonmetropolitan household income for the State or territory in which the individual resides, according to the most recent decennial census of the United States.
 
 **(b) Grants**
 
-(1) **In general** — The Secretary may make grants to private nonprofit organizations for the purpose of providing loans to eligible individuals for the construction, refurbishing, and servicing of individual household water well systems in rural areas that are or will be owned by the eligible individuals.
+(1) **In general** — The Secretary may make grants to private nonprofit organizations for the purpose of providing loans and subgrants to eligible individuals for the construction, refurbishing, and servicing of individual household water well systems and individually owned household decentralized wastewater systems in rural areas that are or will be owned by the eligible individuals.
 
-(2) **Terms of loans** — A loan made with grant funds under this section—
+(2) **Terms and amounts**
 
-  (A) shall have an interest rate of 1 percent;
+  (A) *Terms of loans* — A loan made with grant funds under this section—
 
-  (B) shall have a term not to exceed 20 years; and
+    (i) shall have an interest rate of 1 percent; and
 
-  (C) shall not exceed $11,000 for each water well system described in paragraph (1).
+    (ii) shall have a term not to exceed 20 years.
+
+  (B) *Amounts* — A loan or subgrant made with grant funds under this section shall not exceed $15,000 for each water well system or decentralized wastewater system described in paragraph (1).
 
 (3) **Administrative expenses** — A recipient of a grant made under this section may use grant funds to pay administrative expenses associated with providing the assistance described in paragraph (1), as determined by the Secretary.
 
-**(c) Priority in awarding grants** In awarding grants under this section, the Secretary shall give priority to an applicant that has substantial expertise and experience in promoting the safe and productive use of individually-owned household water well systems and ground water.
+(4) **Ground well water contamination** — In the event of ground well water contamination, the Secretary shall allow a loan or subgrant to be made with grant funds under this section for the installation of water treatment where needed beyond the point of entry, with or without the installation of a new water well system.
 
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.
+**(c) Priority in awarding grants** In awarding grants under this section, the Secretary shall give priority to an applicant that has substantial expertise and experience in promoting the safe and effective use of individually owned household water well systems, individually owned household decentralized wastewater systems, and ground water.
+
+**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -667,6 +736,26 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334, § 6409(1), substituted “Rural decentralized water systems” for “Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes” in section catchline.
+
+Subsec. (a). Pub. L. 115–334, § 6409(2), substituted “60” for “100”.
+
+Subsec. (b)(1). Pub. L. 115–334, § 6409(3)(A), inserted “and subgrants” after “loans” and “and individually owned household decentralized wastewater systems” after “well systems”.
+
+Subsec. (b)(2). Pub. L. 115–334, § 6409(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan made with grant funds under this section—
+
+“(A) shall have an interest rate of 1 percent;
+
+“(B) shall have a term not to exceed 20 years; and
+
+“(C) shall not exceed $11,000 for each water well system described in paragraph (1).”
+
+Subsec. (b)(4). Pub. L. 115–334, § 6409(3)(C), added par. (4).
+
+Subsec. (c). Pub. L. 115–334, § 6409(4), substituted “effective use of individually owned household water well systems, individually owned household decentralized wastewater systems,” for “productive use of individually-owned household water well systems”.
+
+Subsec. (d). Pub. L. 115–334, § 6409(5), substituted “$20,000,000” for “$5,000,000” and “2019 through 2023” for “2014 through 2018”.
+
 2014—Subsec. (d). Pub. L. 113–79 substituted “$5,000,000 for each of fiscal years 2014 through 2018” for “$10,000,000 for each of fiscal years 2008 through 2012”.
 
 2008—Subsec. (b)(2)(C). Pub. L. 110–246, § 6010(1), substituted “$11,000” for “$8,000”.
@@ -708,9 +797,9 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 
     (iii) *Maximum amount of financing.—* — The amount of financing made to an eligible entity under this subparagraph shall not exceed—
 
-      (I) $100,000 for costs described in clause (i)(I); and
+      (I) $200,000 for costs described in clause (i)(I); and
 
-      (II) $100,000 for costs described in clause (i)(II).
+      (II) $200,000 for costs described in clause (i)(II).
 
     (iv) *Term.—* — The term of financing provided to an eligible entity under this subparagraph shall not exceed 10 years.
 
@@ -718,7 +807,7 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 
     (vi) *Annual report.—* — A nonprofit entity receiving a grant under this subparagraph shall submit to the Secretary an annual report that describes the number and size of communities served and the type of financing provided.
 
-    (vii) *Authorization of appropriations.—* — There are authorized to be appropriated to carry out this subparagraph $30,000,000 for each of fiscal years 2008 through 2018.
+    (vii) *Authorization of appropriations.—* — There are authorized to be appropriated to carry out this subparagraph $15,000,000 for each of fiscal years 2019 through 2023.
 
   (C) *Special evaluation assistance for rural communities and households program.—*
 
@@ -774,13 +863,17 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 
     (i) identify, and evaluate alternative solutions to, problems relating to the obtaining, storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
 
-    (ii) prepare applications to receive financial assistance for any purpose specified in paragraph (2) of this subsection from any public or private source; and
+    (ii) prepare applications to receive financial assistance for any purpose specified in paragraph (2) of this subsection from any public or private source;
 
-    (iii) improve the operation and maintenance practices at any existing works for the storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas.
+    (iii) improve the operation and maintenance practices at any existing works for the storage, treatment, purification, or distribution of water or the collection, treatment, or disposal of waste in rural areas;
+
+    (iv) identify options to enhance the long-term sustainability of rural water and waste systems, including operational practices, revenue enhancements, partnerships, consolidation, regionalization, or contract services; and
+
+    (v) address the contamination of drinking water and surface water supplies by emerging contaminants, including per- and polyfluoroalkyl substances.
 
   (B) *Selection priority.—* — In selecting recipients of grants to be made under subparagraph (A), the Secretary shall give priority to private nonprofit organizations that have experience in providing the technical assistance and training described in subparagraph (A) to associations serving rural areas in which residents have low income and in which water supply systems or waste facilities are unhealthful.
 
-  (C) *Funding.—* — Not less than 1 nor more than 3 percent of any funds appropriated to carry out paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 1 per centum of those funds.
+  (C) *Funding.—* — Not less than 3 percent and not more than 5 percent of any funds appropriated to carry out paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 3 percent of those funds.
 
 (15) In the case of water and waste disposal facility projects serving more than one separate rural community, the Secretary shall use the median population level and the community income level of all the separate communities to be served in applying the standards specified in paragraph (2) of this subsection and [section 1927(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1927/a/3/A&num=0&edition=prelim).
 
@@ -796,7 +889,7 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 
 (19) **Community facilities grant program.—**
 
-  (A) *In general.—* — The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, Indian tribes (as such term is defined under [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)),,11 So in original. and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
+  (A) *In general.—* — The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, Indian Tribes (as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)), and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
 
   (B) *Federal share.—*
 
@@ -820,7 +913,7 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 
   (D) *Authorization of appropriations.—* — There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
 
-  (E) *Rural broadband.—* — Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatory commissions in states 22 So in original. Probably should be capitalized. with rural communities without local broadband service to establish a competitively, technologically neutral grant program to telecommunications carriers or cable operators that establish common carrier facilities and services which, in the commission’s determination, will result in the long-term availability to such communities of affordable broadband services which are used for the provision of high speed Internet access.
+  (E) *Rural broadband.—* — Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatory commissions in states 11 So in original. Probably should be capitalized. with rural communities without local broadband service to establish a competitively, technologically neutral grant program to telecommunications carriers or cable operators that establish common carrier facilities and services which, in the commission’s determination, will result in the long-term availability to such communities of affordable broadband services which are used for the provision of high speed Internet access.
 
 (21) **Community facilities grant program for rural communities with high levels of out-migration or loss of population.—**
 
@@ -834,7 +927,7 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 
       (III) other federally recognized Indian tribal group;
 
-    (ii) that is located in a rural area (as defined in section 2009 33 See References in Text note below. of this title);
+    (ii) that is located in a rural area (as defined in section 2009 22 See References in Text note below. of this title);
 
     (iii) with respect to which, during the most recent 5-year period, the net out-migration of inhabitants, or other population loss, from the area equals or exceeds 5 percent of the population of the area; and
 
@@ -852,27 +945,9 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 
     (ii) receives funding from the Secretary, acting through the Rural Utilities Service.
 
-  (B) *Authorization of appropriations.—* — There is authorized to be appropriated to carry out this paragraph $20,000,000 for fiscal year 2014 and each fiscal year thereafter.
+  (B) *Authorization of appropriations.—* — There is authorized to be appropriated to carry out this paragraph $25,000,000 for each of fiscal years 2019 through 2023.
 
-(23) **Multijurisdictional regional planning organizations.—**
-
-  (A) *Grants.—* — The Secretary shall provide grants to multijurisdictional regional planning and development organizations to pay the Federal share of the cost of providing assistance to local governments to improve the infrastructure, services, and business development capabilities of local governments and local economic development organizations.
-
-  (B) *Priority.—* — In determining which organizations will receive a grant under this paragraph, the Secretary shall give priority to an organization that—
-
-    (i) serves a rural area that, during the most recent 5-year period—
-
-      (I) had a net out-migration of inhabitants, or other population loss, from the rural area that equals or exceeds 5 percent of the population of the rural area; or
-
-      (II) had a median household income that is less than the nonmetropolitan median household income of the applicable State; and
-
-    (ii) has a history of providing substantive assistance to local governments and economic development organizations.
-
-  (C) *Federal share.—* — A grant provided under this paragraph shall be for not more than 75 percent of the cost of providing assistance described in subparagraph (A).
-
-  (D) *Maximum amount of grants.—* — The amount of a grant provided to an organization under this paragraph shall not exceed $100,000.
-
-  (E) *Authorization of appropriations.—* — There is authorized to be appropriated to carry out this paragraph $30,000,000 for each of fiscal years 2003 through 2007.
+(23) Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(A), Dec. 20, 2018, 132 Stat. 4775.
 
 (24) **Loan guarantees for water, wastewater, and essential community facilities loans.—**
 
@@ -886,13 +961,26 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 
   (C) *Use of loan guarantees for community facilities.—* — The Secretary shall consider the benefits to communities that result from using loan guarantees in carrying out the community facilities program and, to the maximum extent practicable, use guarantees to enhance community involvement.
 
+  (D) *Priority.—*
+
+    (i) *Water or waste facility.—* — The Secretary shall prioritize water and waste facility projects under this paragraph in rural areas with a population of not more than 10,000 people.
+
+    (ii) *Community facility.—* — Of the funds made available to carry out this paragraph for community facility loan guarantees for a fiscal year the following amounts shall be reserved for projects in rural areas with a population of not more than 20,000 inhabitants:
+
+      (I) 100 percent of the first $200,000,000 so made available;
+
+      (II) 50 percent of the next $200,000,000 so made available; and
+
+      (III) 25 percent of all amounts exceeding $400,000,000 so made available,
+      except that, to the extent that the Secretary demonstrates that the funds so reserved are not needed to finance a community facility project in such a rural area, the Secretary may use the funds for other community facility projects in accordance with this paragraph.
+
 (25) **Tribal college and university essential community facilities.—**
 
   (A) *In general.—* — The Secretary may make grants to an entity that is a Tribal College or University (as defined in [section 1059c of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c&num=0&edition=prelim)) to provide the Federal share of the cost of developing specific Tribal College or University essential community facilities in rural areas.
 
   (B) *Federal share.—* — The Secretary shall establish the maximum percentage of the cost of the facility that may be covered by a grant under this paragraph, except that the Secretary may not require non-Federal financial support in an amount that is greater than 5 percent of the total cost of the facility.
 
-  (C) *Authorization of appropriations.—* — There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2018.
+  (C) *Authorization of appropriations.—* — There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2023.
 
 (26) **Essential community facilities technical assistance and training.—**
 
@@ -927,7 +1015,7 @@ Section 766 of the Agriculture, Rural Development, Food and Drug Administration,
 
 The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
-For definition of “this chapter”, referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
@@ -941,6 +1029,24 @@ Act of August 30, 1890 (26 Stat. 417–419, as amended; [7 U.S.C. 321–326](htt
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(2)(B)(iii). Pub. L. 115–334, § 6403(1), substituted “$200,000” for “$100,000” in in subcls. (I) and (II).
+
+Subsec. (a)(2)(B)(vii). Pub. L. 115–334, § 6403(2), substituted “$15,000,000 for each of fiscal years 2019 through 2023” for “$30,000,000 for each of fiscal years 2008 through 2018”.
+
+Subsec. (a)(14)(A)(iv), (v). Pub. L. 115–334, § 6404(1), added cls. (iv) and (v).
+
+Subsec. (a)(14)(C). Pub. L. 115–334, § 6404(2), substituted “3 percent and not more than 5” for “1 nor more than 3” and “3 percent” for “1 per centum”.
+
+Subsec. (a)(19)(A). Pub. L. 115–334, § 6701(a)(1), inserted “, Indian Tribes (as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim))” after “nonprofit corporations”.
+
+Subsec. (a)(22)(B). Pub. L. 115–334, § 6405, substituted “$25,000,000 for each of fiscal years 2019 through 2023” for “$20,000,000 for fiscal year 2014 and each fiscal year thereafter”.
+
+Subsec. (a)(23). Pub. L. 115–334, § 6601(a)(1)(A), struck out par. (23) which related to multijurisdictional regional planning organizations.
+
+Subsec. (a)(24)(D). Pub. L. 115–334, § 6402(b), added subpar. (D).
+
+Subsec. (a)(25)(C). Pub. L. 115–334, § 6406, substituted “2023” for “2018”.
+
 2014—Subsec. (a)(2)(B)(vii). Pub. L. 113–79, § 6001, substituted “2018” for “2012”.
 
 Subsec. (a)(11). Pub. L. 113–79, § 6012(b), struck out par. (11) which related to rural business opportunity grants.
@@ -989,7 +1095,7 @@ Subsec. (a)(22) to (25). Pub. L. 107–171, §§ 6005–6007(a), 6008, added par
 
 2001—Subsec. (a)(20)(E). Pub. L. 107–76 added subpar. (E).
 
-2000—Subsec. (a)(19)(A). Pub. L. 106–387, which directed amendment of section 306(a)(19)(A) of the Consolidated Farmers Home Administration Act of 1961 by inserting “, Indian tribes (as such term is defined under [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)),” after “nonprofit corporations”, was executed to this section, which is section 306(a)(19)(A) of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
+2000—Subsec. (a)(19)(A). Pub. L. 106–387, which directed amendment of section 306(a)(19)(A) of the Consolidated Farmers Home Administration Act of 1961 by inserting “, Indian tribes (as such term is defined under [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)),” after “nonprofit corporations”, could not be executed because no Act with such Short Title existed following the renaming of title III of Pub. L. 87–128, formerly the Consolidated Farmers Home Administration Act of 1961, as the Consolidated Farm and Rural Development Act.
 
 Subsec. (a)(20). Pub. L. 106–472, § 304(a), added par. (20).
 
@@ -1100,6 +1206,9 @@ Subsec. (d). Pub. L. 91–524 added subsec. (d).
 1965—Subsec. (a). Pub. L. 89–240 designated existing provisions as par. (1), struck out “including the development of recreational facilities” after “shifts in land use”, substituted “drainage or waste disposal facilities” for “drainage facilities”, inserted “and recreational developments”, deleted provisions which prohibited loans which would cause an association’s unpaid principal indebtedness to exceed $500,000, in the case of direct loans and $1,000,000 in the case of insured loans at any one time, and added pars. (2) to (10).
 
 1962—Subsec. (a). Pub. L. 87–703 authorized loans to be made or insured to provide for the application or establishment of shifts in land use including the development of recreational facilities.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title VI, § 6701(a)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in section 773 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (H.R. 5426 of the 106th Congress, as enacted by Public Law 106–387 (114 Stat. 1549A–45)) in lieu of the amendment made by such section [see 2000 Amendment note above].”
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1244,7 +1353,7 @@ Pub. L. 108–199, div. A, title VII, § 775, Jan. 23, 2004, 118 Stat. 40.
 #### References in Text
 The date of enactment of this subparagraph, referred to in subsec. (a)(3)(E)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-For definition of “this chapter”, referred to in subsecs. (a)(6)(A), (b), and (d)(1), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a)(6)(A), (b), and (d)(1), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1349,7 +1458,7 @@ Pub. L. 100–233, title VI, § 615(b)(1)(B), Jan. 6, 1988, 101 Stat. 1682, prov
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–127 amended section generally. Prior to amendment, section read as follows: “Loans under this subchapter may be insured by the Secretary whenever funds are advanced or a loan is purchased by a lender other than the United States. In connection with insurance of loans, the Secretary—
@@ -1419,7 +1528,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 #### References in Text
 For statutory changes to [section 1926(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a/1&num=0&edition=prelim) by the Rural Development Act of 1972, referred to in subsec. (a), see 1972 Amendment note for section 104 of Pub. L. 92–419, set out under [section 1926 of this title](./chapter-050-agricultural-credit.md#section-1926). For complete classification of the Rural Development Act of 1972 to the Code, see Short Title of 1972 Amendment note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-For definition of “this chapter”, referred to in subsecs. (b), (d), (e), (f), and (g)(5), (7), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (b), (d), (e), (f), and (g)(5), (7), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -1427,11 +1536,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 In subsec. (d), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–334 struck out “and [section 1928 of this title](./chapter-050-agricultural-credit.md#section-1928)” after “provisions of this section”.
+
 1996—Subsec. (a). Pub. L. 104–127, § 741(b), struck out “, 1926(a)(14),” after “1926(a)(1)”.
 
 Pub. L. 104–127, § 661(c)(1), substituted “1926(a)(1), 1926(a)(14), and 1932 of this title” for “1924(b), 1926(a)(1), 1926(a)(14), 1932, and 1942(b) of this title”.
 
-Subsec. (b). Pub. L. 104–127, § 661(c)(2), which directed amendment of first sentence of subsec. (b) by striking “and [section 1928 of this title](./chapter-050-agricultural-credit.md#section-1928)”, was executed by striking that language in second sentence after “provisions of this section” to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 104–127, § 661(c)(2), which directed amendment of “the first sentence of subsection (b)” by striking “and [section 1928 of this title](./chapter-050-agricultural-credit.md#section-1928)”, could not be executed because “and [section 1928 of this title](./chapter-050-agricultural-credit.md#section-1928)” did not appear in such sentence.
 
 Subsec. (g). Pub. L. 104–127, § 745, redesignated pars. (2) to (8) as (1) to (7), respectively, and struck out former par. (1) which read as follows: “to make rural development loans which could be insured under this chapter whenever he has a reasonable assurance that they can be sold without undue delay, and he may sell and insure such loans;”.
 
@@ -1444,6 +1555,9 @@ Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” fo
 Subsec. (g)(8). Pub. L. 95–334, § 110, substituted provisions relating to payment of costs of administration necessary to insure loans under subsec. (a) of this section, make grants under sections 1926(a) and 1932 of this title, and otherwise carry out such programs for provisions relating to payment of costs of administration of the rural loan development program.
 
 1977—Subsec. (g)(3). Pub. L. 95–113 substituted “any deferred or defaulted installment” for “any defaulted installment”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title VI, § 6701(b)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 661(c)(2) of the Federal Agricultural Improvement and Reform Act of 1996 (Public Law 104–127).”
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
@@ -1542,7 +1656,7 @@ Pub. L. 99–500, title III, § 381, Oct. 18, 1986, 100 Stat. 1783–369, and Pu
 #### References in Text
 Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1072, which was classified to [section 1005a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1005a&num=0&edition=prelim) and was repealed by section 341(a) of Pub. L. 87–128.
 
-For definition of “this chapter”, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 [Section 1988(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1988/c&num=0&edition=prelim) (before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996), referred to in subsec. (g)(1), means subsec. (c) of [section 1988 of this title](./chapter-050-agricultural-credit.md#section-1988) prior to repeal by section 749(a)(1) of Pub. L. 104–127.
 
@@ -1616,7 +1730,7 @@ The Secretary may purchase, on such terms and conditions as the Secretary deems 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 
 <a id="section-1931"></a>
@@ -1661,7 +1775,7 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 
 (1) **In general** — The Secretary may make grants to nonprofit organizations for the provision of regional technical assistance to local and regional governments and related agencies for the purpose of reducing or eliminating pollution of water resources and improving the planning and management of solid waste disposal facilities. Grants made under this paragraph for the provision of technical assistance shall be made for 100 percent of the cost of such assistance.
 
-(2) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2014 through 2018.
+(2) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2014 through 2023.
 
 **(c) Rural business development grants**
 
@@ -1687,7 +1801,7 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 
     (iv) conduct regional, community, and local economic development planning and coordination, and leadership development; and
 
-    (v) establish centers for training, technology, and trade that will provide training to rural businesses in the use of interactive communications technologies to develop international trade opportunities and markets; and
+    (v) establish centers for training, technology, and trade that will provide training to rural businesses in the use of interactive communications technologies to develop international trade opportunities and markets; or
 
   (B) projects that support the development of business enterprises that finance or facilitate—
 
@@ -1701,7 +1815,7 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 
 (4) **Authorization of appropriations**
 
-  (A) *In general* — There is authorized to be appropriated to the Secretary to carry out this subsection $65,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+  (A) *In general* — There is authorized to be appropriated to the Secretary to carry out this subsection $65,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
 
   (B) *Allocation* — Of the funds made available under subparagraph (A) for a fiscal year, not more than 10 percent shall be used for the purposes described in paragraph (3)(A).
 
@@ -1795,7 +1909,7 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 
 (9) **Grants to defray administrative costs** — The Secretary may make grants to defray not to exceed 75 percent of the costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under this subsection. For purposes of determining the non-Federal share of the costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including premises, equipment, and services.
 
-(10) **Cooperative research program** — The Secretary shall enter into a cooperative research agreement with 1 or more qualified academic institutions in each fiscal year to conduct research on the effects of all types of cooperatives on the national economy.
+(10) **Cooperative research program** — The Secretary shall enter into a cooperative research agreement with 1 or more qualified academic institutions in each fiscal year to conduct research (including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census) on the effects of all types of cooperatives on the national economy.
 
 (11) **Addressing needs of minority communities**
 
@@ -1803,7 +1917,7 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 
   (B) *Reservation of funds*
 
-    (i) *In general* — If the total amount appropriated under paragraph (12) for a fiscal year exceeds $7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives—
+    (i) *In general* — If the total amount appropriated under paragraph (13) for a fiscal year exceeds $7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives—
 
       (I) that serve socially disadvantaged groups; and
 
@@ -1813,15 +1927,9 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 
 (12) **Interagency working group** — Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and local cooperative organizations that have cooperative programs and interests.
 
-(13) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2014 through 2018.
+(13) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2014 through 2023.
 
-**(f) Grants to broadcasting systems**
-
-(1) **“Statewide” defined** — In this subsection, the term “statewide” means having a coverage area of not less than 90 percent of the population of a State and not less than 80 percent of the rural land area of the State (as determined by the Secretary).
-
-(2) **Grants** — The Secretary may make grants to statewide private nonprofit public television systems, whose coverage area is predominately rural, for the purpose of demonstrating the effectiveness of such systems in providing information on agriculture and other issues of importance to farmers and other rural residents. Grants available under this paragraph may be used for capital equipment expenditures, start-up and program costs, and other costs necessary to the operation of such demonstrations.
-
-(3) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2012.
+**(f) Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(B), Dec. 20, 2018, 132 Stat. 4775**
 
 **(g) Business and industry direct and guaranteed loans**
 
@@ -1925,7 +2033,7 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 
     (iv) *Reservation of funds*
 
-      (I) *In general* — For each of fiscal years 2008 through 2018, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
+      (I) *In general* — For each of fiscal years 2008 through 2023, the Secretary shall reserve not less than 5 percent of the funds made available to carry out this subsection to carry out this subparagraph.
 
       (II) *Availability of funds* — Funds reserved under subclause (I) for a fiscal year shall be reserved until April 1 of the fiscal year.
 
@@ -1961,16 +2069,16 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 
   (B) *Grant amount* — A grant made, or cooperative agreement entered into, under subparagraph (A) shall provide 100 percent of the cost of providing information described in paragraph (2).
 
-(4) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2018.
+(4) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2023.
 
-**(j) Rural economic area partnership zones** Effective beginning on the date of enactment of this subsection through September 30, 2018, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
+**(j) Rural economic area partnership zones** Effective beginning on the date of enactment of this subsection through September 30, 2023, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
 ### Statutory Notes
 
 #### References in Text
 The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
 
-For definition of “this chapter”, referred to in subsec. (d)(5), (7), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (d)(5), (7), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
@@ -1984,6 +2092,28 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–334, § 6410, substituted “2023” for “2018”.
+
+Subsec. (c)(3)(A)(v). Pub. L. 115–334, § 6701(c), substituted “markets; or” for “markets; and”.
+
+Subsec. (c)(4)(A). Pub. L. 115–334, § 6411, substituted “2023” for “2018”.
+
+Subsec. (e)(5)(F). Pub. L. 115–334, § 6701(d)(1), inserted before period at end “, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 ([7 U.S.C. 301](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) note; Public Law 103–382))”.
+
+Subsec. (e)(10). Pub. L. 115–334, § 6412(a)(1), inserted “(including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census)” after “conduct research”.
+
+Subsec. (e)(11)(B)(i). Pub. L. 115–334, § 6412(b), substituted “(13)” for “(12)” in introductory provisions.
+
+Subsec. (e)(13). Pub. L. 115–334, § 6412(a)(2), substituted “2023” for “2018”.
+
+Subsec. (f). Pub. L. 115–334, § 6601(a)(1)(B), struck out subsec. (f) which related to grants to broadcasting systems.
+
+Subsec. (g)(9)(B)(iv)(I). Pub. L. 115–334, § 6413, substituted “2023” for “2018”.
+
+Subsec. (i)(4). Pub. L. 115–334, § 6414, substituted “2023” for “2018”.
+
+Subsec. (j). Pub. L. 115–334, § 6415, substituted “2023” for “2018”.
+
 2014—Subsec. (a)(2)(A). Pub. L. 113–79, § 6010(a), inserted “(including through the financing of working capital)” after “employment”.
 
 Subsec. (b). Pub. L. 113–79, § 6011, designated existing provisions as par. (1), inserted heading, and added par. (2).
@@ -2042,7 +2172,7 @@ Subsecs. (i), (j). Pub. L. 110–246, §§ 6016, 6017, added subsecs. (i) and (j
 
 Subsec. (c)(1). Pub. L. 107–171, § 6014, substituted “Grants” for “In general” in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-Subsec. (e)(5)(F). Pub. L. 107–171, § 6015(1), inserted “, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 ([7 U.S.C. 301](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) note; Public Law 103–382))” before period at end.
+Subsec. (e)(5)(F). Pub. L. 107–171, § 6015(1), which directed amendment of this section “in paragraph (5)(F), before the period at the end the following: ‘, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 ([7 U.S.C. 301](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) note; Public Law 103–382))’ ”, could not be executed because the phrase “by inserting” did not appear. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
 Subsec. (e)(9). Pub. L. 107–171, § 6015(2), substituted “2007” for “2002”.
 
@@ -2144,6 +2274,9 @@ Subsec. (d)(3). Pub. L. 95–334, § 112, inserted exception for assistance less
 
 1973—Subsec. (d)(4) to (6). Pub. L. 91–524, § 817, as added by Pub. L. 93–86, added pars. (4) to (6).
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title VI, § 6701(d)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 6015 of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171).”
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
@@ -2195,7 +2328,7 @@ The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 
 
 Title V of the Housing Act of 1949, referred to in subsec. (b), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see References in Text note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-For definition of “this chapter”, referred to in subsec. (b), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1990—Subsec. (b). Pub. L. 101–624 substituted “or this chapter” for “, as amended”.
@@ -2226,7 +2359,7 @@ Pub. L. 102–552, title V, § 516(e)(2), Oct. 28, 1992, 106 Stat. 4137, provide
 ## § 1936. Down payment loan program
 **(a) In general**
 
-(1) **Establishment** — Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers for down payments on farm ownership loans.
+(1) **Establishment** — Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to eligible farmers or ranchers for down payments on farm ownership loans.
 
 (2) **Administration** — The Secretary shall be the primary coordinator of credit supervision for the down payment loan program established under this section, in consultation with the commercial or cooperative lender and, if applicable, the contracting credit counseling service selected under [section 2006b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2006b/c&num=0&edition=prelim).
 
@@ -2274,19 +2407,31 @@ Pub. L. 102–552, title V, § 516(e)(2), Oct. 28, 1992, 106 Stat. 4137, provide
 
 (2) make efforts to widely publicize the availability of loans under this section among—
 
-  (A) potentially eligible recipients of the loans;
+  (A) potentially eligible farmers or ranchers;
 
   (B) retiring farmers and ranchers; and
 
   (C) applicants for farm ownership loans under this subchapter;
 
-(3) encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to qualified beginning farmers and ranchers and socially disadvantaged farmers or ranchers by providing seller financing;
+(3) encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to eligible farmers or ranchers by providing seller financing;
 
-(4) coordinate the loan program established by this section with State programs that provide farm ownership or operating loans for beginning farmers or ranchers or socially disadvantaged farmers or ranchers; and
+(4) coordinate the loan program established by this section with State programs that provide farm ownership or operating loans for—
 
-(5) establish annual performance goals to promote the use of the down payment loan program and other joint financing arrangements as the preferred choice for direct real estate loans made by any lender to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher.
+  (A) beginning farmers or ranchers;
 
-**(e) Socially disadvantaged farmer or rancher defined** In this section, the term “socially disadvantaged farmer or rancher” has the meaning given that term in [section 2003(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e/2&num=0&edition=prelim).
+  (B) socially disadvantaged farmers or ranchers, as defined in [section 2003(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e&num=0&edition=prelim); or
+
+  (C) veteran farmers or ranchers, as defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim); and; and 11 So in original.
+
+(5) establish annual performance goals to promote the use of the down payment loan program and other joint financing arrangements as the preferred choice for direct real estate loans made by any lender to an eligible farmer or rancher.
+
+**(e) Definition of eligible farmer or rancher** In this section, the term “eligible farmer or rancher” means—
+
+(1) a qualified beginning farmer or rancher;
+
+(2) a socially disadvantaged farmer or rancher, as defined in [section 2003(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e&num=0&edition=prelim); and
+
+(3) a veteran farmer or rancher, as defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -2294,6 +2439,18 @@ Pub. L. 102–552, title V, § 516(e)(2), Oct. 28, 1992, 106 Stat. 4137, provide
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334, § 12306(c)(1), substituted “eligible farmers or ranchers” for “qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers”.
+
+Subsec. (d)(2)(A). Pub. L. 115–334, § 12306(c)(2)(A), substituted “farmers or ranchers” for “recipients of the loans”.
+
+Subsec. (d)(3). Pub. L. 115–334, § 12306(c)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to qualified beginning farmers and ranchers and socially disadvantaged farmers or ranchers by providing seller financing;”.
+
+Subsec. (d)(4). Pub. L. 115–334, § 12306(c)(2)(C), substituted “for—” for “for beginning farmers or ranchers or socially disadvantaged farmers or ranchers”, added subpars. (A) and (B) and subpar. (C) designation, and inserted “veteran farmers or ranchers, as defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim); and” before “; and” in subpar. (C).
+
+Subsec. (d)(5). Pub. L. 115–334, § 12306(c)(2)(D), substituted “an eligible farmer or rancher” for “a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher”.
+
+Subsec. (e). Pub. L. 115–334, § 12306(c)(3), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘socially disadvantaged farmer or rancher’ has the meaning given that term in [section 2003(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e/2&num=0&edition=prelim).”
+
 2014—Subsec. (b)(1)(C). Pub. L. 113–79, § 5005(a), substituted “$667,000” for “$500,000”.
 
 Subsec. (b)(2). Pub. L. 113–79, § 5005(b), struck out second par. (2) which read as follows: “The interest rate on any loan made by the Secretary under this section shall be 4 percent.”
@@ -2407,8 +2564,8 @@ If, after making a loan or a grant described in [section 2009d(d) of this title]
 (3) satisfies such additional requirements as are established by the Secretary.
 
 
-<a id="section-1941"></a>
-## § 1941. Intermediary relending program
+<a id="section-1936c"></a>
+## § 1936c. Intermediary relending program
 **(a) In general** The Secretary may make or guarantee loans to eligible entities described in subsection (b) so that the eligible entities may relend the funds to individuals and entities for the purposes described in subsection (c).
 
 **(b) Eligible entities** Entities eligible for loans and loan guarantees described in subsection (a) are—
@@ -2437,7 +2594,86 @@ If, after making a loan or a grant described in [section 2009d(d) of this title]
 
 **(d) Limitation** The Secretary shall not make loans under [section 9812(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9812/a&num=0&edition=prelim).
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2018.
+**(e) Limitation on loan amounts** The maximum amount of a loan by an eligible entity described in subsection (b) to individuals and entities for a project under subsection (c), including the unpaid balance of any existing loans, shall be the lesser of—
+
+(1) $400,000; and
+
+(2) 50 percent of the loan to the eligible entity under subsection (a).
+
+**(f) Applications**
+
+(1) **In general** — To be eligible to receive a loan or loan guarantee under subsection (a), an eligible entity described in subsection (b) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+(2) **Evaluation** — In evaluating applications submitted under paragraph (1), the Secretary shall—
+
+  (A)
+
+    (i) take into consideration the previous performance of an eligible entity in carrying out projects under subsection (c); and
+
+    (ii) in the case of satisfactory performance under clause (i), require the eligible entity to contribute less equity for subsequent loans without modifying the priority given to subsequent applications; and
+
+  (B) in assigning priorities to applications, require an eligible entity to demonstrate that it has a governing or advisory board made up of business, civic, and community leaders who are representative of the communities of the service area, without limitation to the size of the service area.
+
+**(g) Return of equity** The Secretary shall establish a schedule that is consistent with the amortization schedules of the portfolio of loans made or guaranteed under subsection (a) for the return of any equity contribution made under this section by an eligible entity described in subsection (b), if the eligible entity is—
+
+(1) current on all principal and interest payments; and
+
+(2) in compliance with loan covenants.
+
+**(h) Regulations** The Secretary shall promulgate regulations and establish procedures reducing the administrative requirements on eligible entities described in subsection (b), including regulations to carry out the amendments made to this section by the Agriculture Improvement Act of 2018.
+
+**(i) Authorization of appropriations** There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2023.
+
+### Statutory Notes
+
+#### References in Text
+The amendments made to this section by the Agriculture Improvement Act of 2018, referred to in subsec. (h), means the amendments made to this section by Pub. L. 115–334.
+
+#### Amendments
+2018—Subsecs. (e) to (h). Pub. L. 115–334, § 6416(2), added subsecs. (e) to (h). Former subsec. (e) redesignated (i).
+
+Subsec. (i). Pub. L. 115–334, § 6416(1), (3), redesignated subsec. (e) as (i) and substituted “2023” for “2018”.
+
+
+<a id="section-1941"></a>
+## § 1941. Relending program to resolve ownership and succession on farmland
+**(a) In general** The Secretary may make loans to eligible entities described in subsection (b) so that the eligible entities may relend the funds to individuals and entities for the purposes described in subsection (c).
+
+**(b) Eligible entities** Entities eligible for loans described in subsection (a) are cooperatives, credit unions, and nonprofit organizations with—
+
+(1) certification under section 1805.201 of title 12, Code of Federal Regulations (or successor regulations), to operate as a lender;
+
+(2) experience assisting socially disadvantaged farmers and ranchers (as defined in subsection (a) of [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279)) or limited resource or new and beginning farmers and ranchers, rural businesses, cooperatives, or credit unions, including experience in making and servicing agricultural and commercial loans; and
+
+(3) the ability to provide adequate assurance of the repayment of a loan.
+
+**(c) Eligible purposes** The proceeds from loans made by the Secretary pursuant to subsection (a) shall be re-lent by eligible entities for projects that assist heirs with undivided ownership interests to resolve ownership and succession on farmland that has multiple owners.
+
+**(d) Preference** In making loans under subsection (a), the Secretary shall give preference to eligible entities—
+
+(1) with not less than 10 years of experience serving socially disadvantaged farmers and ranchers; and
+
+(2) in States that have adopted a statute consisting of an enactment or adoption of the Uniform Partition of Heirs Property Act, as approved and recommended for enactment in all States by the National Conference of Commissioners on Uniform State Laws in 2010, that relend to owners of heirs property (as defined in that Act).
+
+**(e) Loan terms and conditions** The following terms and conditions shall apply to loans made under this section:
+
+(1) The interest rate at which intermediaries may borrow funds under this section shall be determined by the Secretary.
+
+(2) The rates, terms, and payment structure for borrowers to which intermediaries lend shall be—
+
+  (A) determined by the intermediary in an amount sufficient to cover the cost of operating and sustaining the revolving loan fund; and
+
+  (B) clearly and publicly disclosed to qualified ultimate borrowers.
+
+(3) Borrowers to which intermediaries lend shall be—
+
+  (A) required to complete a succession plan as a condition of the loan; and
+
+  (B) be offered the opportunity to borrow sufficient funds to cover costs associated with the succession plan under subparagraph (A) and other associated legal and closing costs.
+
+**(f) Report** Not later than 1 year after December 20, 2018, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the operation and outcomes of the program under this section, with recommendations on how to strengthen the program.
+
+**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
 
 
 <a id="section-1942"></a>
@@ -2482,7 +2718,7 @@ If, after making a loan or a grant described in [section 2009d(d) of this title]
 
   (A) a loan made to a youth under subsection (b); or
 
-  (B) a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in [section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim)).
+  (B) a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in section 2279(e) 11 See References in Text note below. of this title).
 
 (3) **Transition rule** — If, as of April 4, 1996, a farmer or rancher has received a direct operating loan under this subchapter during each of 4 or more previous years, the borrower shall be eligible to receive a direct operating loan under this subchapter during 3 additional years after April 4, 1996.
 
@@ -2537,7 +2773,9 @@ If, after making a loan or a grant described in [section 2009d(d) of this title]
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsec. (b)(4), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (b)(4), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+
+[Section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim), referred to in subsec. (c)(2)(B), was redesignated [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim) by section 12301(b)(3) of Pub. L. 115–334.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -2693,7 +2931,7 @@ Pub. L. 100–387, title III, § 312, Aug. 11, 1988, 102 Stat. 948.
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a)(9)(B)(i) and (d)(1), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a)(9)(B)(i) and (d)(1), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
@@ -2752,27 +2990,27 @@ Pub. L. 102–552, title V, § 516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provide
 ## § 1944. Limitations on amount of operating loans
 **(a) In general** The Secretary shall make or insure no loan under this subchapter—
 
-(1) that would cause the total principal indebtedness outstanding at any one time for loans made under this subchapter to any one borrower to exceed, in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in [section 1925 of this title](./chapter-050-agricultural-credit.md#section-1925) that are guaranteed by the Secretary); or
+(1) that would cause the total principal indebtedness outstanding at any one time for loans made under this subchapter to any one borrower to exceed, in the case of a loan other than a loan guaranteed by the Secretary, $400,000, or, in the case of a loan guaranteed by the Secretary, $1,750,000 (increased, beginning with fiscal year 2019, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in [section 1925 of this title](./chapter-050-agricultural-credit.md#section-1925) that are guaranteed by the Secretary); or
 
 (2) for the purchasing or leasing of land other than for cash rent, or for carrying on any land leasing or land purchasing program.
 
 **(b) Inflation percentage** For purposes of this section, the inflation percentage applicable to a fiscal year is the percentage (if any) by which—
 
-(1) the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on August 31 of the immediately preceding fiscal year; exceeds
+(1) the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on July 31 of the immediately preceding fiscal year; exceeds
 
-(2) the average of such index (as so defined) for the 12-month period ending on August 31, 1996.
+(2) the average of such index (as so defined) for the 12-month period that immediately precedes the 12-month period described in paragraph (1).
 
 **(c) Microloans**
 
 (1) **In general** — Subject to paragraph (2), the Secretary may establish a program to make or guarantee microloans.
 
-(2) **Limitations** — The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this chapter to any 1 borrower to exceed $50,000.
+(2) **Limitations** — The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this subsection to any 1 borrower to exceed $50,000.
 
 (3) **Applications** — To the maximum extent practicable, the Secretary shall limit the administrative burdens and streamline the application and approval process for microloans under this subsection.
 
 (4) **Cooperative lending pilot projects**
 
-  (A) *In general* — Subject to subparagraph (B), during each of the 2014 through 2018 fiscal years, the Secretary may carry out a pilot project to make loans to community development financial institutions, as the Secretary determines appropriate—
+  (A) *In general* — Subject to subparagraph (B), during each of the 2014 through 2023 fiscal years, the Secretary may carry out a pilot project to make loans to community development financial institutions, as the Secretary determines appropriate—
 
     (i) to make or guarantee microloans consistent with the terms provided under this subsection; and
 
@@ -2802,13 +3040,20 @@ Pub. L. 102–552, title V, § 516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provide
 
 ### Statutory Notes
 
-#### References in Text
-For definition of “this chapter”, referred to in subsec. (c), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334, § 5201(1), substituted “$400,000” for “$300,000”, “$1,750,000” for “$700,000”, and “2019” for “2000”.
+
+Subsec. (b)(1). Pub. L. 115–334, § 5201(2)(A), substituted “July” for “August”.
+
+Subsec. (b)(2). Pub. L. 115–334, § 5201(2)(B), substituted “that immediately precedes the 12-month period described in paragraph (1)” for “ending on August 31, 1996”.
+
+Subsec. (c)(2). Pub. L. 115–334, § 5202, substituted “subsection to any 1 borrower” for “chapter to any 1 borrower”.
+
+Subsec. (c)(4)(A). Pub. L. 115–334, § 5203, substituted “2023” for “2018” in introductory provisions.
+
 2014—Subsec. (c). Pub. L. 113–79 added subsec. (c).
 
 2008—Subsec. (a)(1). Pub. L. 110–246, § 5102, substituted “$300,000” for “$200,000”.
@@ -2847,7 +3092,7 @@ Section, Pub. L. 87–128, title III, § 315, Aug. 8, 1961, 75 Stat. 311, author
 
 (1) The Secretary shall make all loans under this subchapter upon the full personal liability of the borrower and upon such security as the Secretary may prescribe. The interest rates on such loans, except for guaranteed loans and loans as provided in paragraphs (2) and (3),11 See References in Text note below. shall be as determined by the Secretary, but not in excess of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, plus an additional charge not to exceed 1 per centum as determined by the Secretary, which charge shall be deposited in the Rural Development Insurance Fund or the Agricultural Credit Insurance Fund, as appropriate, and adjusted to the nearest one-eighth of 1 per centum. The interest rate on any guaranteed loan made under this subchapter shall be such rate as may be agreed upon by the borrower and lender, but not in excess of a rate as may be determined by the Secretary.
 
-(2) The interest rate on a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in [section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim)), or any loan (other than a guaranteed loan) to a low income, limited resource borrower under this subchapter shall not be—
+(2) The interest rate on a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in section 2279(e) 1 of this title), or any loan (other than a guaranteed loan) to a low income, limited resource borrower under this subchapter shall not be—
 
   (A) greater than the sum of—
 
@@ -2887,6 +3132,8 @@ Section, Pub. L. 87–128, title III, § 315, Aug. 8, 1961, 75 Stat. 311, author
 
 #### References in Text
 Paragraph (3), referred to in subsec. (a)(1), was repealed by Pub. L. 104–127, title VI, § 661(g), Apr. 4, 1996, 110 Stat. 1107.
+
+[Section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim), referred to in subsec. (a)(2), was redesignated [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim) by section 12301(b)(3) of Pub. L. 115–334.
 
 #### Amendments
 2014—Subsec. (a)(2). Pub. L. 113–79 inserted “a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in [section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim)), or” after “The interest rate on”.
@@ -2937,7 +3184,7 @@ Pub. L. 107–171, title V, § 5102, May 13, 2002, 116 Stat. 343, as amended by 
 
 <a id="section-1962"></a>
 ## § 1962. Eligibility for loans
-**(a) Persons eligible** The Secretary shall make and insure loans under this subchapter only to the extent and in such amounts as provided in advance in appropriation Acts to (1) established farmers or ranchers (including equine farmers or ranchers), or persons engaged in aquaculture, who are citizens of the United States and who are (in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators of not larger than family farms, and (2) farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, or limited liability companies, or such other legal entities as the Secretary considers appropriate (A) that are engaged primarily in farming or ranching (including equine farming or ranching) or aquaculture, and (B) in which a majority interest is held by individuals who are citizens of the United States and who are (in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators of not larger than family farms (or in the case of such cooperatives, corporations, partnerships, joint operations, trusts, or limited liability companies, or other legal entities in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be either owners or operators of not larger than a family farm and at least one such individual must be an operator of not larger than a family farm), where the Secretary finds that the applicants’ farming, ranching, or aquaculture operations have been substantially affected by a quarantine imposed by the Secretary under the Plant Protection Act [[7 U.S.C. 7701](./chapter-104-plant-protection.md#section-7701) et seq.] or the animal quarantine laws (as defined in [section 136a of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section136a&num=0&edition=prelim)), a natural disaster in the United States, or a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.): Provided, That they have experience and resources necessary to assure a reasonable prospect for successful operation with the assistance of such loan and are not able to obtain sufficient credit elsewhere. In addition to the foregoing requirements of this subsection, in the case of farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities the family farm requirement of the preceding sentence shall apply as well to all farms in which the entity has an ownership or operator interest (in the case of loans for a purpose under subchapter I) or an operator interest (in the case of loans for a purpose under subchapter II). The Secretary shall accept applications from, and make or insure loans pursuant to the requirements of this subchapter to, applicants, otherwise eligible under this subchapter, that conduct farming, ranching, or aquaculture operations in any county contiguous to a county where the Secretary has found that farming, ranching, or aquaculture operations have been substantially affected by a quarantine imposed by the Secretary under the Plant Protection Act [[7 U.S.C. 7701](./chapter-104-plant-protection.md#section-7701) et seq.] or the animal quarantine laws (as defined in [section 136a of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section136a&num=0&edition=prelim)), a natural disaster in the United States, or a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.). The Secretary shall accept applications for assistance under this subchapter from persons affected by such a quarantine or natural disaster at any time during the eight-month period beginning (A) on the date on which the Secretary determines that farming, ranching, or aquaculture operations have been substantially affected by such quarantine or natural disaster or (B) on the date the President makes the major disaster or emergency designation with respect to such natural disaster, as the case may be. An entity that is an owner-operator or operator described in this subsection shall be considered to meet the direct ownership requirement imposed under this subsection if at least 75 percent of the ownership interests of each embedded entity of the entity is owned directly or indirectly by the individuals that own the family farm.
+**(a) Persons eligible** The Secretary shall make and insure loans under this subchapter only to the extent and in such amounts as provided in advance in appropriation Acts to (1) established farmers or ranchers (including equine farmers or ranchers), or persons engaged in aquaculture, who are citizens of the United States and who are (in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators of not larger than family farms, and (2) farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, or limited liability companies, or such other legal entities as the Secretary considers appropriate (A) that are engaged primarily in farming or ranching (including equine farming or ranching) or aquaculture, and (B) in which a majority interest is held by individuals who are citizens of the United States and who are (in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators of not larger than family farms (or in the case of such cooperatives, corporations, partnerships, joint operations, trusts, or limited liability companies, or other legal entities in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be either owners or operators of not larger than a family farm and at least one such individual must be an operator of not larger than a family farm), where the Secretary finds that the applicants’ farming, ranching, or aquaculture operations have been substantially affected by a quarantine imposed by the Secretary under the Plant Protection Act [[7 U.S.C. 7701](./chapter-104-plant-protection.md#section-7701) et seq.] or the animal quarantine laws (as defined in [section 136a of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section136a&num=0&edition=prelim)), a natural disaster in the United States, or a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.): Provided, That they have experience and resources necessary to assure a reasonable prospect for successful operation with the assistance of such loan and are not able to obtain sufficient credit elsewhere. In addition to the foregoing requirements of this subsection, in the case of farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, the family farm requirement of the preceding sentence shall apply as well to all farms in which the entity has an ownership or operator interest (in the case of loans for a purpose under subchapter I) or an operator interest (in the case of loans for a purpose under subchapter II). The Secretary shall accept applications from, and make or insure loans pursuant to the requirements of this subchapter to, applicants, otherwise eligible under this subchapter, that conduct farming, ranching, or aquaculture operations in any county contiguous to a county where the Secretary has found that farming, ranching, or aquaculture operations have been substantially affected by a quarantine imposed by the Secretary under the Plant Protection Act [[7 U.S.C. 7701](./chapter-104-plant-protection.md#section-7701) et seq.] or the animal quarantine laws (as defined in [section 136a of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section136a&num=0&edition=prelim)), a natural disaster in the United States, or a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.). The Secretary shall accept applications for assistance under this subchapter from persons affected by such a quarantine or natural disaster at any time during the eight-month period beginning (A) on the date on which the Secretary determines that farming, ranching, or aquaculture operations have been substantially affected by such quarantine or natural disaster or (B) on the date the President makes the major disaster or emergency designation with respect to such natural disaster, as the case may be. An entity that is an owner-operator or operator described in this subsection shall be considered to meet the direct ownership requirement imposed under this subsection if at least 75 percent of the ownership interests of each embedded entity of the entity is owned directly or indirectly by the individuals that own the family farm.
 
 **(b) Hazard insurance requirement**
 
@@ -2998,11 +3245,13 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, in second sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies”.
+
 2014—Subsec. (a). Pub. L. 113–79, § 5201(4), inserted before period at end “An entity that is an owner-operator or operator described in this subsection shall be considered to meet the direct ownership requirement imposed under this subsection if at least 75 percent of the ownership interests of each embedded entity of the entity is owned directly or indirectly by the individuals that own the family farm.”
 
 Pub. L. 113–79, § 5201(3), in second sentence, substituted “ownership or operator” for “ownership and operator”.
 
-Pub. L. 113–79, § 5201(2)(C), which directed substitution of “limited liability companies, and such other legal entities” for “and limited liability companies,” in first sentence, was executed by making the substitution in the second sentence, to reflect the probable intent of Congress.
+Pub. L. 113–79, § 5201(2)(C), which directed substitution of “limited liability companies, and such other legal entities” for “and limited liability companies,” in first sentence and could not be executed as directed, was superseded by Pub. L. 115–334, § 5401(a)(1). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
 Pub. L. 113–79, § 5201(1), (2)(A), (B), in first sentence, substituted “(in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators” for “owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter)” in two places, and inserted “, or such other legal entities as the Secretary considers appropriate” after “limited liability companies” the first place appearing and “, or other legal entities” after “limited liability companies” the second place appearing.
 
@@ -3047,6 +3296,9 @@ Subsec. (b). Pub. L. 93–237, § 10(a), struck out “, and are unable to obtai
 Subsec. (b). Pub. L. 93–24, § 3, substituted introductory text “shall make loans in any such area designated by the Secretary in accordance with subsection (a) of this section and in any area designated as a major disaster by the President pursuant to the provisions of the Disaster Relief Act of 1970, as amended,” for “is authorized to make loans in any such area” and “: Provided, That” for “provided” before “they have experience”.
 
 1962—Subsec. (b). Pub. L. 87–832 authorized loans to established oyster planters and to private domestic corporations or partnerships engaged primarily in oyster planting.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title V, § 5401(a)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 5201(2)(C) of the Agricultural Act of 2014 (Public Law 113–79) in lieu of the amendment made by such section.”
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -3111,7 +3363,7 @@ Loans may be made or insured under this subchapter for any purpose authorized fo
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 2002—Pub. L. 107–171 inserted “quarantine,” before “natural disaster”.
@@ -3158,7 +3410,7 @@ Amendment by Pub. L. 96–438 effective with respect to loans approved after Oct
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (d) and (e), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (d) and (e), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
@@ -3313,13 +3565,13 @@ Section, Pub. L. 87–128, title III, § 330, as added Pub. L. 94–68, § 8, Au
 
 (3) within the limits of appropriations made therefor, make necessary expenditures for purchase or hire of passenger vehicles, and such other facilities and services as he may from time to time find necessary for the proper administration of this chapter;
 
-(4) compromise, adjust, reduce, or charge-off debts or claims (including debts and claims arising from loan guarantees), and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Consolidated Farm Service Agency, Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or the Rural Development Administration, except for activities under the Housing Act of 1949 [[42 U.S.C. 1441](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) et seq.]. In the case of a security instrument entered into under the Rural Electrification Act of 1936 ([7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph. The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection. After consultation with a local or area county committee, the Secretary may release borrowers or others obligated on a debt, except for debt incurred under the Housing Act of 1949, from personal liability with or without payment of any consideration at the time of the compromise, adjustment, reduction, or charge-off of any claim, except that no compromise, adjustment, reduction, or charge-off of any claim may be made or carried out after the claim has been referred to the Attorney General, unless the Attorney General approves;
+(4) compromise, adjust, reduce, or charge-off debts or claims (including debts and claims arising from loan guarantees), and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Consolidated Farm Service Agency,11 See Change of Name note below. Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or the Rural Development Administration, except for activities under the Housing Act of 1949 [[42 U.S.C. 1441](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) et seq.]. In the case of a security instrument entered into under the Rural Electrification Act of 1936 ([7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph. The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection. After consultation with a local or area county committee, the Secretary may release borrowers or others obligated on a debt, except for debt incurred under the Housing Act of 1949, from personal liability with or without payment of any consideration at the time of the compromise, adjustment, reduction, or charge-off of any claim, except that no compromise, adjustment, reduction, or charge-off of any claim may be made or carried out after the claim has been referred to the Attorney General, unless the Attorney General approves;
 
 (5) except for activities conducted under the Housing Act of 1949 [[42 U.S.C. 1441](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) et seq.], collect all claims and obligations administered by the Farmers Home Administration, or under any mortgage, lease, contract, or agreement entered into or administered by the Farmers Home Administration and, if in his judgment necessary and advisable, pursue the same to final collection in any court having jurisdiction;
 
 (6) release mortgage and other contract liens if it appears that they have no present or prospective value or that their enforcement likely would be ineffectual or uneconomical;
 
-(7) obtain fidelity bonds protecting the Government against fraud and dishonesty of officers and employees of the Farmers Home Administration in lieu of faithful performance of duties bonds under section 14 11 See References in Text note below. of title 6, and regulations issued pursuant thereto, but otherwise in accordance with the provisions thereof;
+(7) obtain fidelity bonds protecting the Government against fraud and dishonesty of officers and employees of the Farmers Home Administration in lieu of faithful performance of duties bonds under section 14 22 See References in Text note below. of title 6, and regulations issued pursuant thereto, but otherwise in accordance with the provisions thereof;
 
 (8) consent to (A) long-term leases of facilities financed under this subchapter notwithstanding the failure of the lessee to meet any of the requirements of this subchapter if such long-term leases are necessary to ensure the continuation of services for which financing was extended to the lessor, and (B) the transfer of property securing any loan or financed by any loan or grant made, insured, or held by the Secretary under this chapter, or the provisions of any other law administered by the Rural Development Administration under this chapter or by the Farmers Home Administration, upon such terms as he deems necessary to carry out the purpose of the loan or grant or to protect the financial interest of the Government, and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower; and
 
@@ -3337,10 +3589,24 @@ Section, Pub. L. 87–128, title III, § 330, as added Pub. L. 94–68, § 8, Au
 
 (4) **Use** — The Secretary shall use the coordinated strategy and information developed for the strategy to more effectively serve rural communities with respect to investments in community colleges and technical colleges.
 
+**(e) Development of rural broadband infrastructure**
+
+(1) Except as provided in paragraph (2), the Secretary may allow a recipient of a grant, loan, or loan guarantee provided by the Office of Rural Development under this chapter to use not more than 10 percent of the amount so provided—
+
+  (A) for any activity for which assistance may be provided under section 601 of the Rural Electrification Act of 1936 [[7 U.S.C. 950bb](./chapter-031-rural-electrification-and-telephone-service.md#section-950bb)]; or
+
+  (B) to construct other broadband infrastructure.
+
+(2) Paragraph (1) of this subsection shall not apply to a recipient who is seeking to provide retail broadband service in any area where retail broadband service is available at the minimum broadband speeds, as defined under section 601(e) of the Rural Electrification Act of 1936 [[7 U.S.C. 950bb(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950bb/e&num=0&edition=prelim)].
+
+(3) The Secretary shall not provide funding under paragraph (1) if the funding would result in competitive harm to any grant, loan, or loan guarantee provided under the Rural Electrification Act of 1936.
+
+**(f) Access to information to verify income for participants in certain rural housing programs** The Secretary and the designees of the Secretary are hereby granted the same access to information and subject to the same requirements applicable to the Secretary of Housing and Urban Development as provided in [section 653 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653&num=0&edition=prelim) and section 6103(l)(7)(D)(ix) of title 26 to verify income for individuals participating in sections 502, 504, 521, and 542 of the Housing Act of 1949 ([42 U.S.C. 1472](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1472&num=0&edition=prelim), 1474, 1490a, and 1490r), notwithstanding section 653(l) of title 42.
+
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a) and (b)(1), (3), (8), (9), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a), (b)(1), (3), (8), (9), and (e)(1), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 The Farmers Home Administration Act of 1946, as amended, referred to in subsec. (a), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as amended, which was classified to sections 1001 to 1005, 1005a to 1005d, 1007, 1008, 1009, 1015 to 1029, 1030, and 1031 of this title, [section 371 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section371&num=0&edition=prelim), Banks and Banking, and [section 82h of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section82h&num=0&edition=prelim), Money and Finance, and in so far as it amended provisions of Title I, II, and IV of the Bankhead-Jones Farm Tenant Act, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
@@ -3354,11 +3620,15 @@ Act of August 31, 1954, as amended, referred to in subsec. (a), is act Aug. 31, 
 
 The Housing Act of 1949, as amended, referred to in subsec. (b)(4), (5), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-The Rural Electrification Act of 1936, referred to in subsec. (b)(4), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+The Rural Electrification Act of 1936, referred to in subsecs. (b)(4) and (e)(3), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 [Section 14 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section14&num=0&edition=prelim), referred to in subsec. (b)(7), was repealed by Pub. L. 92–310, title II, § 203(1), June 6, 1972, 86 Stat. 202. For provisions relating to surety bonds of Federal personnel, see section 9301 et seq. of Title 31, Money and Finance.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334, § 6210(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 115–334, § 6417, added subsec. (f).
+
 2014—Subsec. (d). Pub. L. 113–79 added subsec. (d).
 
 2002—Subsec. (b)(4). Pub. L. 107–171, § 5303, substituted “After consultation with a local or area county committee, the Secretary may release” for “The Secretary may release” and “carried out after” for “carried out—
@@ -3497,6 +3767,9 @@ Pars. (d) to (i). Pub. L. 92–419, § 124(2), substituted a semicolon for a per
 
 1968—Par. (f). Pub. L. 90–488 added par. (f).
 
+#### Change of Name
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to [section 6932 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6932) by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
+
 #### Effective Date of 2002 Amendment
 Pub. L. 107–171, title V, § 5304(b), May 13, 2002, 116 Stat. 345, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to a contract entered into before the effective date of this Act [May 13, 2002].”
 
@@ -3538,7 +3811,7 @@ Pub. L. 98–258, title VI, § 608, Apr. 10, 1984, 98 Stat. 140, as amended by P
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsec. (a), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -3592,7 +3865,7 @@ Any loan for farm ownership purposes under subchapter I of this chapter, farm op
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 2002—Pub. L. 107–171 substituted “lowest of—” for “lower of”, realigned margins for pars., substituted “original loan;” for “original loan or (2) the”, added par. (2), and redesignated former par. (2) as (3).
@@ -3614,7 +3887,7 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, provided that: “The S
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 
 <a id="section-1981e"></a>
@@ -3662,16 +3935,21 @@ For definition of “this chapter”, referred to in text, see note set out unde
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a) and (c), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 inserted “or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period” after “within 60 days after receipt of the notice required in this section”.
+
 1996—Subsec. (a). Pub. L. 104–127 substituted “90 days past due on” for “180 days delinquent in”.
 
-1992—Subsec. (e). Pub. L. 102–554, which directed the insertion of “or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period” after “not later than 60 days after receipt of the notice required in this section”, was executed by making the insertion after “within 60 days after receipt of the notice required in this section” to reflect the probable intent of Congress.
+1992—Subsec. (e). Pub. L. 102–554, which directed the insertion of “or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period” after “not later than 60 days after receipt of the notice required in this section”, could not be executed because the phrase “not later than 60 days after receipt of the notice required in this section” did not appear in text. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 102–554. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
 1990—Subsec. (b)(1). Pub. L. 101–624, § 1807(1), inserted “debt settlement programs,” after “preservation loan service programs”.
 
 Subsec. (e). Pub. L. 101–624, § 1807(2), substituted “60 days” for “45 days”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title V, § 5401(b)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 10 of the Agricultural Credit Improvement Act of 1992 (Public Law 102–554).”
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as a note under [section 1922 of this title](./chapter-050-agricultural-credit.md#section-1922).
@@ -3697,7 +3975,7 @@ Amendment by section 1807(1) of Pub. L. 101–624 effective 120 days after Nov. 
 #### References in Text
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
-For definition of “this chapter”, referred to in subsec. (b)(1), (3), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (b)(1), (3), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1992—Subsec. (a). Pub. L. 102–552, § 516(g)(1)(A), substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.)” for “Disaster Relief Act of 1974”.
@@ -3724,7 +4002,7 @@ In the administration of this chapter, the Secretary shall, to the extent practi
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Regulations
 Pub. L. 101–624, title XVIII, § 1808(b), Nov. 28, 1990, 104 Stat. 3820, provided that: “The Secretary of Agriculture shall not issue final regulations providing for the use of ratios and standards for determining the degree of potential loan risk under section 331F of the Consolidated Farm and Rural Development Act [[7 U.S.C. 1981f](./chapter-050-agricultural-credit.md#section-1981f)] (as added by subsection (a) of this section), prior to the submission of the study and report on the effects of the regulations required by section 621 of the Agricultural Credit Act of 1987 ([7 U.S.C. 1989](./chapter-050-agricultural-credit.md#section-1989) note).”
@@ -3734,7 +4012,7 @@ Pub. L. 101–624, title XVIII, § 1808(b), Nov. 28, 1990, 104 Stat. 3820, provi
 ## § 1983. Relief for mobilized military reservists from certain agricultural loan obligations
 **(a) Definition of mobilized military reservist** In this section, the term “mobilized military reservist” means an individual who—
 
-(1) is on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12306, or 12406, or chapter 15 of title 10, or any other provision of law during a war or during a national emergency declared by the President or Congress, regardless of the location at which the active duty service is performed; or
+(1) is on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12306, or 12406, or chapter 13 of title 10, or any other provision of law during a war or during a national emergency declared by the President or Congress, regardless of the location at which the active duty service is performed; or
 
 (2) in the case of a member of the National Guard, is on full-time National Guard duty (as defined in [section 101(d)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d/5&num=0&edition=prelim)) under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30 consecutive days under [section 502(f) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f&num=0&edition=prelim) for purposes of responding to a national emergency declared by the President and supported by Federal funds.
 
@@ -3754,6 +4032,9 @@ This chapter, referred to in subsecs. (b), (c), and (e), was in the original “
 #### Prior Provisions
 A prior section 1982, Pub. L. 87–128, title III, § 332, Aug. 8, 1961, 75 Stat. 314; Pub. L. 99–198, title XIII, § 1311, Dec. 23, 1985, 99 Stat. 1524; Pub. L. 100–233, title VI, § 607, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, § 1809, Nov. 28, 1990, 104 Stat. 3820; Pub. L. 102–554, § 11, Oct. 28, 1992, 106 Stat. 4151, related to county committees, prior to repeal by Pub. L. 103–354, title II, § 227(b)(1), Oct. 13, 1994, 108 Stat. 3218.
 
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232 substituted “chapter 13” for “chapter 15”.
+
 
 <a id="section-1983a"></a>
 ## § 1983a. Special conditions and limitations on loans
@@ -3772,7 +4053,7 @@ In connection with loans made or insured under this chapter, the Secretary shall
 
 (4) require such provision for supervision of the borrower’s operations as the Secretary shall deem necessary to achieve the objectives of the loan and protect the interests of the United States;
 
-(5) require the application of a person who is a veteran of any war, as defined in [section 101(12) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/12&num=0&edition=prelim), for a loan under subchapter I or II to be given preference over a similar application from a person who is not a veteran of any war, if the applications are on file in a county or area office at the same time; and
+(5) require the application of a person who is a veteran of any war, as defined in [section 101(12) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/12&num=0&edition=prelim), for a loan under subchapter I or II to be given preference over a similar application from a person who is not a veteran of any war, if the applications are on file in a county or area office at the same time;
 
 (6) in the case of water and waste disposal direct and guaranteed loans provided under [section 1926 of this title](./chapter-050-agricultural-credit.md#section-1926), encourage, to the maximum extent practicable, private or cooperative lenders to finance rural water and waste disposal facilities by—
 
@@ -3784,14 +4065,18 @@ In connection with loans made or insured under this chapter, the Secretary shall
 
   (D) in the case of projects that require interim financing in excess of $500,000, requiring that the projects initially seek the financing from private or cooperative lenders; and
 
-  (E) determining if an existing direct loan borrower can refinance with a private or cooperative lender, including with a loan guarantee, prior to providing a new direct loan.
+  (E) determining if an existing direct loan borrower can refinance with a private or cooperative lender, including with a loan guarantee, prior to providing a new direct loan; and
+
+(7) in the case of an insured or guaranteed loan issued or modified under [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim), charge and collect from the lender fees in such amounts as to bring down the costs of subsidies for the insured or guaranteed loan, except that the fees shall not act as a bar to participation in the programs nor be inconsistent with current practices in the marketplace.
 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in introductory provisions, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
+2018—Par. (7). Pub. L. 115–334 added par. (7).
+
 2014—Pub. L. 113–79, § 6019(1), struck out “require” after “shall” in introductory provisions.
 
 Par. (1). Pub. L. 113–79, § 6019(2), inserted “require” after “(1)”.
@@ -3965,19 +4250,21 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
     (iv) the form can be completed and processed in an expeditious manner.
 
-**(h) Simplified application forms** Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1932(f), 1936b, 2008p, and 2008s of this title.
+**(h) Simplified application forms** Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1936b, 2008p, and 2008s of this title.
 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a), (b)(1), (c), (f)(1)(B), and (g)(1), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
-
-[Section 1989 of this title](./chapter-050-agricultural-credit.md#section-1989), referred to in subsec. (f)(1)(A), was in the original “section 114”, and was translated as meaning section 339 of Pub. L. 87–128, which is classified to [section 1989 of this title](./chapter-050-agricultural-credit.md#section-1989), to reflect the probable intent of Congress, because Pub. L. 87–128 does not contain a section 114 and section 1989 provides for a lender certification program.
+This chapter, referred to in subsecs. (a), (b)(1), (c), (f)(1)(B), and (g)(1), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (f)(1)(A). Pub. L. 115–334, § 5401(c)(1), made technical amendment to reference in original act which appears in text as reference to [section 1989 of this title](./chapter-050-agricultural-credit.md#section-1989).
+
+Subsec. (h). Pub. L. 115–334, § 6601(a)(2), struck out “1932(f),” after “1932(e),”.
+
 2014—Subsec. (h). Pub. L. 113–79 added subsec. (h).
 
 2008—Subsec. (g)(1)(B). Pub. L. 110–246, § 6012(b)(3), substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
@@ -4017,6 +4304,9 @@ Subsec. (g). Pub. L. 102–554, § 15, added subsec. (g).
 1990—Subsec. (a)(4). Pub. L. 101–624, § 1811, added par. (4).
 
 Subsec. (c). Pub. L. 101–624, § 2388(f), substituted “If” for “In”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title V, § 5401(c)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 14 of the Agricultural Credit Improvement Act of 1992 (Public Law 102–554).”
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -4205,7 +4495,7 @@ Pub. L. 99–198, title XIII, § 1312(b), Dec. 23, 1985, 99 Stat. 1525, provided
 
 (4) remissions from a reserve fund to the Secretary in a case in which a demonstration program is terminated without transfer to a new qualified entity.
 
-**(h) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2018.
+**(h) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2023.
 
 ### Statutory Notes
 
@@ -4219,6 +4509,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 1983b, Pub. L. 87–128, title III, § 333B, as added Pub. L. 99–198, title XIII, § 1313(a), Dec. 23, 1985, 99 Stat. 1525; amended Pub. L. 100–233, title VI, § 608, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, § 1812, Nov. 28, 1990, 104 Stat. 3821, related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233. See section 6991 et seq. of this title.
 
 #### Amendments
+2018—Subsec. (h). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (h). Pub. L. 113–79 substituted “2018” for “2012”.
 
 #### Effective Date
@@ -4264,7 +4556,7 @@ whether as a tax on the instrument, the privilege of conveying or transferring o
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 
 <a id="section-1986"></a>
@@ -4538,7 +4830,7 @@ For definition of “this chapter”, referred to in text, see note set out unde
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
@@ -4761,7 +5053,7 @@ Pub. L. 100–233, title VI, § 623, Jan. 6, 1988, 101 Stat. 1685, as amended by
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a) and (b), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 2002—Subsec. (b). Pub. L. 107–171 struck out “provided for in [section 1982 of this title](./chapter-050-agricultural-credit.md#section-1982)” after “former member of a county committee”.
@@ -4802,7 +5094,7 @@ For definition of “this chapter”, referred to in subsecs. (a) and (b), see n
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsec. (b)(2), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (b)(2), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1985—Pub. L. 99–198 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -4873,7 +5165,7 @@ For definition of “this chapter”, referred to in subsec. (b)(2), see note se
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1998—Subsec. (b)(4), (5). Pub. L. 105–362 redesignated par. (5) as (4) and struck out former par. (4) which provided that not later than March 31 of each year, Secretary was to transmit to Congress a report on secondary market operations under subsec. (b) during preceding calendar year, and described contents of reports.
@@ -4948,7 +5240,7 @@ Authority of the Secretary of Agriculture to make loans to Indian tribes and tri
 
 (2) **Revocation of designation** — The designation of a lender as a Preferred Certified Lender shall be revoked at any time that the Secretary determines that such lender is not adhering to the rules and regulations applicable to the program or if the loss experiences of a Preferred Certified Lender are excessive as compared to other Preferred Certified Lenders, except that such suspension or revocation shall not affect any outstanding guarantee.
 
-(3) **Condition of certification** — As a condition of such preferred certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection using generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each preferred certified lender to ensure that the conditions of such certification are being met.
+(3) **Condition of certification** — As a condition of such preferred certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection using generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each Preferred Certified Lender to ensure that the conditions of such certification are being met.
 
 (4) **Effect of preferred lender certification** — Notwithstanding any other provision of law, the Secretary shall—
 
@@ -4963,9 +5255,11 @@ Authority of the Secretary of Agriculture to make loans to Indian tribes and tri
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
+2018—Subsec. (d)(3). Pub. L. 115–334 substituted “Preferred Certified Lender” for “preferred certified lender”.
+
 2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
 1999—Subsec. (b)(3). Pub. L. 106–31 struck out “, including expenses of replacing capital items (determined after taking into account depreciation of the items)” after “paragraph (1)”.
@@ -4987,18 +5281,29 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that: 
 Pub. L. 99–198, title XIII, § 1325, Dec. 23, 1985, 99 Stat. 1540, provided that: “The Secretary of Agriculture shall not use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act [Dec. 23, 1985] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration.”
 
 
-<a id="section-1991"></a>
-## § 1991. Transfer of lands to Secretary
+<a id="section-1990a"></a>
+## § 1990a. Transfer of lands to Secretary
 
 The President may at any time in his discretion transfer to the Secretary any right, interest, or title held by the United States in any lands acquired in the program of national defense and no longer needed therefor, which the President shall find suitable for the purposes of this chapter, and the Secretary shall dispose of such lands in the manner and subject to the terms and conditions of the chapter.
 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Delegation of Functions
 Authority of President under this section in his discretion to transfer to Secretary of Agriculture any right, interest or title held by United States in any lands acquired in program of national defense and no longer needed for that program, and to determine suitability of lands to be transferred, for purposes referred to in this section, delegated to Administrator of General Services, provided, that exercise by Administrator of authority delegated to him herein shall require concurrence of Secretary of Defense as to absence of further need of lands for national defense program, see section 1(15) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+
+
+<a id="section-1991"></a>
+## § 1991. Refinancing of certain rural hospital debt
+
+Assistance under [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim) for a community facility, or under [section 1932 of this title](./chapter-050-agricultural-credit.md#section-1932), may include the refinancing of a debt obligation of a rural hospital as an eligible loan or loan guarantee purpose if the assistance would help preserve access to a health service in a rural community, meaningfully improve the financial position of the hospital, and otherwise meet the financial feasibility and adequacy of security requirements of the Rural Development Agency.
+
+### Statutory Notes
+
+#### Codification
+Another section 342 of Pub. L. 87–128 amended [section 1013a of this title](./chapter-033-farm-tenancy.md#section-1013a).
 
 
 <a id="section-1992"></a>
@@ -5031,7 +5336,7 @@ Authority of President under this section in his discretion to transfer to Secre
 
   (B) who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 10 years;
 
-  (C) in the case of a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operators, or owners, who are all related to one another by blood or marriage;
+  (C) in the case of a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operator,11 So in original. or owners who are all related to one another by blood or marriage;
 
   (D)
 
@@ -5089,15 +5394,15 @@ Authority of President under this section in his discretion to transfer to Secre
 
 (13) **Rural and rural area.—**
 
-  (A) *In general.—* — Subject to subparagraphs (B) through (G), the terms “rural” and “rural area” mean any area other than—
+  (A) *In general.—* — Subject to subparagraphs (B) through (I), the terms “rural” and “rural area” mean any area other than—
 
     (i) a city or town that has a population of greater than 50,000 inhabitants; and
 
     (ii) any urbanized area contiguous and adjacent to a city or town described in clause (i).
 
-  (B) *Water and waste disposal grants and direct and guaranteed loans.—* — For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim), the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
+  (B) *Water and waste disposal grants and direct loans.—* — For the purpose of water and waste disposal grants and direct loans provided under paragraphs (1) and (2) of [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim), the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
 
-  (C) *Community facility loans and grants.—* — For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim), the terms “rural” and “rural area” mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
+  (C) *Community facility loans and grants.—* — For the purpose of community facility direct loans and grants under paragraphs (1), (19), (20), and (21) of [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim), the terms “rural” and “rural area” mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
 
   (D) *Areas rural in character.—*
 
@@ -5155,7 +5460,11 @@ Authority of President under this section in his discretion to transfer to Secre
 
   (G) *Hawaii and puerto rico.—* — Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
 
-**(b)** As used in sections 1927(e),11 See References in Text note below. 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
+  (H) *Exclusion of incarcerated populations.—* — Populations of individuals incarcerated on a long-term or regional basis shall not be included in determining whether an area is “rural” or a “rural area”.
+
+  (I) *Limited exclusion of military base populations.—* — The first 1,500 individuals who reside in housing located on a military base shall not be included in determining whether an area is “rural” or a “rural area”.
+
+**(b)** As used in sections 1927(d), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
 (1) The term “borrower” means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
@@ -5176,7 +5485,7 @@ Authority of President under this section in his discretion to transfer to Secre
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsec. (a), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is section 202 of Pub. L. 95–334, title II, Aug. 4, 1978, 92 Stat. 429, as amended, which was set out in a note preceding [section 1961 of this title](./chapter-050-agricultural-credit.md#section-1961) prior to repeal by Pub. L. 101–624, title XVIII, § 1851, Nov. 28, 1990, 104 Stat. 3837.
 
@@ -5184,13 +5493,23 @@ The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably m
 
 Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is section 1254 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1517, which amended Pub. L. 98–258, § 608, set out as a note under [section 1981 of this title](./chapter-050-agricultural-credit.md#section-1981).
 
-[Section 1927(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1927/e&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 1927(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1927/d&num=0&edition=prelim) by Pub. L. 113–79, title V, § 5004(2), Feb. 7, 2014, 128 Stat. 834.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2014—Subsec. (a)(11)(C). Pub. L. 113–79, § 5303(a)(2), which directed substitution of “joint operators, or owners,” for “or joint operators,” was executed by making the substitution for “or joint operators”, to reflect the probable intent of Congress.
+2018—Subsec. (a)(11)(C). Pub. L. 115–334, § 5401(e)(1), substituted “joint operator, or owners” for “or joint operators”.
+
+Subsec. (a)(13)(A). Pub. L. 115–334, § 6301(a)(1), substituted “through (I)” for “through (G)” in introductory provisions.
+
+Subsec. (a)(13)(B). Pub. L. 115–334, § 6402(a)(1), struck out “and guaranteed” before “loans” in heading and text and substituted “(1) and (2)” for “(1), (2), and (24)”.
+
+Subsec. (a)(13)(C). Pub. L. 115–334, § 6402(a)(2), struck out “and guaranteed” before “loans” and substituted “and (21)” for “(21), and (24)”.
+
+Subsec. (a)(13)(H), (I). Pub. L. 115–334, § 6301(a)(2), added subpars. (H) and (I).
+
+Subsec. (b). Pub. L. 115–334, § 5401(f)(1), substituted “1927(d)” for “1927(e)” in introductory provisions.
+
+2014—Subsec. (a)(11)(C). Pub. L. 113–79, § 5303(a)(2), which directed substitution of “joint operators, or owners,” for “or joint operators,” could not be executed because “or joint operators,” did not appear in text. Corrected amendment was made by Pub. L. 115–334, § 5401(e)(1), effective as of the effective date of Pub. L. 113–79, § 5303(a)(2). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
 Pub. L. 113–79, § 5303(a)(1), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”.
 
@@ -5253,6 +5572,11 @@ Subsec. (a)(8) to (10). Pub. L. 101–624, § 1814, added pars. (8) to (10).
 1972—Pub. L. 92–419 added cls. (4) and (5).
 
 1966—Pub. L. 89–586 struck out “and” before “(2)” and inserted cl. (3) defining “owner-operator”. See Effective and Termination Date of 1966 Amendment note below.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title V, § 5401(e)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as of the effective date of section 5303(a)(2) of the Agricultural Act of 2014 (Public Law 113–79) [probably means the date of enactment of Pub. L. 113–79, which was approved Feb. 7, 2014].”
+
+Pub. L. 115–334, title V, § 5401(f)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of the date of enactment of the Agricultural Act of 2014 (Public Law 113–79) [Feb. 7, 2014].”
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -5322,23 +5646,23 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 <a id="section-1995"></a>
 ## § 1995. Maximum amounts for loans authorized; long-term cost projections
-**(a) Maximum aggregate principal amounts for loans authorized** Effective October 1, 1979, the aggregate principal amount of loans under the programs authorized under each subchapter of this chapter during each three-year period thereafter shall not exceed such amounts as may be authorized by law after August 4, 1978. There shall be two amounts so established for each of such programs and for any maximum levels provided in appropriation Acts for the programs authorized under this chapter, one against which direct and insured loans shall be charged and the other against which guaranteed loans shall be charged,.11 So in original.
+**(a) Maximum aggregate principal amounts for loans authorized** Effective October 1, 1979, the aggregate principal amount of loans under the programs authorized under each subchapter of this chapter during each three-year period thereafter shall not exceed such amounts as may be authorized by law after August 4, 1978. There shall be two amounts so established for each of such programs and for any maximum levels provided in appropriation Acts for the programs authorized under this chapter, one against which direct and insured loans shall be charged and the other against which guaranteed loans shall be charged.
 
 **(b) Authorization for loans**
 
-(1) **In general** — The Secretary may make or guarantee loans under subchapters I and II from the Agricultural Credit Insurance Fund provided for in [section 1929 of this title](./chapter-050-agricultural-credit.md#section-1929) for not more than $4,226,000,000 for each of fiscal years 2008 through 2018, of which, for each fiscal year—
+(1) **In general** — The Secretary may make or guarantee loans under subchapters I and II from the Agricultural Credit Insurance Fund provided for in [section 1929 of this title](./chapter-050-agricultural-credit.md#section-1929) for not more than $10,000,000,000 for each of fiscal years 2019 through 2023, of which, for each fiscal year—
 
-  (A) $1,200,000,000 shall be for direct loans, of which—
+  (A) $3,000,000,000 shall be for direct loans, of which—
 
-    (i) $350,000,000 shall be for farm ownership loans under subchapter I; and
+    (i) $1,500,000,000 shall be for farm ownership loans under subchapter I; and
 
-    (ii) $850,000,000 shall be for operating loans under subchapter II; and
+    (ii) $1,500,000,000 shall be for operating loans under subchapter II; and
 
-  (B) $3,026,000,000 shall be for guaranteed loans, of which—
+  (B) $7,000,000,000 shall be for guaranteed loans, of which—
 
-    (i) $1,000,000,000 shall be for guarantees of farm ownership loans under subchapter I; and
+    (i) $3,500,000,000 shall be for farm ownership loans under subchapter I; and
 
-    (ii) $2,026,000,000 shall be for guarantees of operating loans under subchapter II.
+    (ii) $3,500,000,000 shall be for operating loans under subchapter II.
 
 (2) **Beginning farmers and ranchers**
 
@@ -5356,7 +5680,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
       (II) for fiscal year 1999, 30 percent; and
 
-      (III) for each of fiscal years 2008 through 2018, an amount that is not less than 50 percent.
+      (III) for each of fiscal years 2008 through 2023, an amount that is not less than 50 percent.
 
     (iii) *Funds reserved until September 1* — Except as provided in clause (i)(II), funds reserved for qualified beginning farmers or ranchers under this subparagraph for a fiscal year shall be reserved only until September 1 of the fiscal year.
 
@@ -5388,6 +5712,22 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (C) *Limitation* — The Secretary shall limit the transfer of funds under subparagraph (A) so that all emergency disaster loans that have been approved, or will be approved, by the Secretary during the fiscal year will be made to the extent of available amounts.
 
+(5) **Use of additional funds for direct operating microloans under certain conditions**
+
+  (A) *In general* — If the Secretary determines that the amount needed for a fiscal year for direct operating loans (including microloans) under subchapter II is greater than the aggregate principal amount authorized for that fiscal year by this Act, an appropriations Act, or any other provision of law, the Secretary shall make additional microloans under subchapter II using amounts made available under subparagraph (C).
+
+  (B) *Notice* — Not later than 15 days before the date on which the Secretary uses the authority under subparagraph (A), the Secretary shall submit a notice of the use of that authority to—
+
+    (i) the Committee on Appropriations of the House of Representatives;
+
+    (ii) the Committee on Appropriations of the Senate;
+
+    (iii) the Committee on Agriculture of the House of Representatives; and
+
+    (iv) the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+
+  (C) *Authorization of appropriations* — There is authorized to be appropriated to carry out this paragraph $5,000,000 for each of fiscal years 2019 through 2023.
+
 **(c) Development of long-term cost projections for loan program authorizations** The Secretary shall develop long-term cost projections for loan program authorizations required under subsection (a) of this section. Each such projection shall include analyses of (1) the long-term costs of the lending levels that the Secretary requests to be authorized under subsection (a) of this section and (2) the long-term costs for increases in lending levels beyond those requested to be authorized, based on increments of $10,000,000 or such other levels as the Secretary deems appropriate. Long-term cost projections for the three-year period beginning with fiscal year 1983 and each three-year period thereafter shall be submitted to the House Committee on Agriculture, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations at the time the requests for authorizations for those periods are submitted to Congress. Not later than fifteen days after October 13, 1980, the Secretary shall submit to such committees long-term cost projections covering authorized lending levels for the loan programs for fiscal years 1981 and 1982.
 
 **(d) Low-income, limited-resource borrowers**
@@ -5399,12 +5739,22 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a) and (d)(2), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+
+This Act, referred to in subsec. (b)(5), is Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, known as the Agricultural Act of 1961. Title III of the Act, which is classified principally to this chapter, is known as the Consolidated Farm and Rural Development Act. For complete classification of these Acts to the Code, see Short Title notes set out under sections 1911 and 1921 of this title and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 5401(g), struck out comma before period at end.
+
+Subsec. (b)(1). Pub. L. 115–334, § 5302, substituted “$10,000,000,000 for each of fiscal years 2019 through 2023” for “$4,226,000,000 for each of fiscal years 2008 through 2018” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which set aside, out of the $4,226,000,000 loan amount authorized, $1,200,000,000 for direct loans and $3,026,000,000 for guaranteed loans.
+
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 115–334, § 5303, substituted “2023” for “2018”.
+
+Subsec. (b)(5). Pub. L. 115–334, § 5304, added par. (5).
+
 2014—Subsec. (b)(1). Pub. L. 113–79, § 5304, substituted “2018” for “2012” in introductory provisions.
 
 Subsec. (b)(2)(A)(ii)(III). Pub. L. 113–79, § 5305, substituted “2018” for “2012” and struck out “of the total amount” before period at end.
@@ -5458,7 +5808,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Amendment by section 701(h)(1)(F) of Pub. L. 102–237 to any provision specified therein effective as if included in act that added provision so specified at the time such act became law, and amendment by section 702(i) of Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(7), (c) of Pub. L. 102–237, set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
 
 #### Effective Date of 1990 Amendment
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 940d of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-940d).
+Pub. L. 101–508, title I, § 1301, Nov. 5, 1990, 104 Stat. 1388–12, provided that: “This title and the amendments made by this title [enacting [section 940d of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-940d), amending this section, sections 511r, 1441–2, 1444–2, 1444f, 1445, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f to 1446h, 1722, 1736, 1736a, 1783, 1999, and 5822 of this title and [section 136a of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section136a&num=0&edition=prelim), Food and Drugs, enacting provisions set out as notes under sections 136w, 1421, and 1445b–3a of this title, and amending provisions set out as notes under sections 1421 and 1999 of this title] shall become effective 1 day after the date of enactment of the Food, Agriculture, Conservation, and Trade Act of 1990 [Nov. 28, 1990], or December 1, 1990, whichever is earlier.”
 
 #### Construction of 1990 Amendment
 Pub. L. 102–237, title VII, § 702(i), Dec. 13, 1991, 105 Stat. 1881, provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) [Pub. L. 101–624, amending this section] is hereby repealed and the Consolidated Farm and Rural Development Act [title III of Pub. L. 87–128, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921)] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
@@ -5481,7 +5831,7 @@ Notwithstanding the provisions of this chapter limiting the making and insuring 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
@@ -5591,7 +5941,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall ensure 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 
 <a id="section-2000"></a>
@@ -5622,11 +5972,11 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
   (A) *In general.—* — The total amount of funds used by the Secretary to carry out this section for a fiscal year shall not exceed $750,000,000.
 
-  (B) *Beginning farmers and ranchers.—*
+  (B) *Beginning and veteran farmers and ranchers.—*
 
-    (i) *In general.—* — The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers.
+    (i) *In general.—* — The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers or veteran farmers and ranchers (as defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim)).
 
-    (ii) *Duration of reservation of funds.—* — Funds reserved for beginning farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
+    (ii) *Duration of reservation of funds.—* — Funds reserved for farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
 
 **(f) List of lender participants in guaranteed loan program** The Secretary shall make available to farmers, on request, a list of lenders in the area that participate in guaranteed farm loan programs and other lenders in the area that express a desire to participate in such programs and that request inclusion in the list.
 
@@ -5635,9 +5985,15 @@ For definition of “this chapter”, referred to in text, see note set out unde
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a)(1), (e)(1), and (g), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a)(1), (e)(1), and (g), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
+2018—Subsec. (e)(2)(B). Pub. L. 115–334, § 12306(d)(1), inserted “and veteran” after “Beginning” in heading.
+
+Subsec. (e)(2)(B)(i). Pub. L. 115–334, § 12306(d)(2), inserted before period at end “or veteran farmers and ranchers (as defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim))”.
+
+Subsec. (e)(2)(B)(ii). Pub. L. 115–334, § 12306(d)(3), struck out “beginning” before “farmers or ranchers”.
+
 2002—Subsec. (a). Pub. L. 107–171, § 5313(1), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: “The authority provided by this subsection shall terminate on September 30, 2002.”
 
 Subsec. (e)(2). Pub. L. 107–171, § 5313(2), added par. (2) and struck out former par. (2) which read as follows: “The total amount of funds used by the Secretary to carry out this section may not exceed $490,000,000.”
@@ -5661,7 +6017,7 @@ Subsecs. (f), (g). Pub. L. 100–233, § 613(b)(2), added subsecs. (f) and (g).
 Subsec. (h). Pub. L. 100–233, § 613(c), added subsec. (h).
 
 #### Effective Date of 1990 Amendment
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 940d of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-940d).
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 1994 of this title](./chapter-050-agricultural-credit.md#section-1994).
 
 #### Effective and Termination Dates
 That part of section 1320 of Pub. L. 99–198, as amended by Pub. L. 100–233, title VI, § 613(a), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, § 1202(b)(2), Nov. 5, 1990, 104 Stat. 1388–11, which provided that this section was effective only for the period beginning Dec. 23, 1985, and ending Sept. 30, 1995, was repealed by Pub. L. 104–127, title VI, § 643(b), Apr. 4, 1996, 110 Stat. 1103.
@@ -5748,7 +6104,7 @@ That part of section 1320 of Pub. L. 99–198, as amended by Pub. L. 100–233, 
 #### References in Text
 The Small Business Act, referred to in subsecs. (a)(3) and (b)(1)(B), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
-For definition of “this chapter”, referred to in subsecs. (b)(1)(A) and (c)(6), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (b)(1)(A) and (c)(6), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 [Section 1983b of this title](./chapter-050-agricultural-credit.md#section-1983b), referred to in subsec. (c)(3), was repealed by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233.
 
@@ -5991,7 +6347,7 @@ the Secretary shall not consider the borrower to have acted without good faith t
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a), (c)(5), and (k), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a), (c)(5), and (k), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 [Section 1983b of this title](./chapter-050-agricultural-credit.md#section-1983b), referred to in subsec. (h), was repealed by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233.
 
@@ -6194,7 +6550,7 @@ The Farmers Home Administration may employ local attorneys, on a case-by-case ba
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsec. (a), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1990—Subsec. (b)(1), (2). Pub. L. 101–624 substituted “1981(b)(4)” for “1981(d)”.
@@ -6240,7 +6596,7 @@ The Secretary may not make, insure, or guarantee any farmer program loan to a fa
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a) and (c), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 2014—Subsec. (c)(2). Pub. L. 113–79 substituted “section 1922(a)(1)(B) or 1941(a)(1)(B)” for “section 1922(a)(2) or 1941(a)(2)”.
@@ -6285,7 +6641,7 @@ Subsec. (c). Pub. L. 105–277, § 101(a) [title VIII, § 805(3)(B)], struck out
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsecs. (a), (b)(5), and (d)(1), (3), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsecs. (a), (b)(5), and (d)(1), (3), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 2002—Subsec. (a). Pub. L. 107–171, § 5317, substituted “The Secretary” for “After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to [section 1982 of this title](./chapter-050-agricultural-credit.md#section-1982), the Secretary”.
@@ -6311,7 +6667,7 @@ The Secretary shall establish a market placement program for qualified beginning
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 
 <a id="section-2006f"></a>
@@ -6322,7 +6678,7 @@ The Secretary shall not approve any loan under this chapter to drain, dredge, fi
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 [Section 3801(a) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3801/a&num=0&edition=prelim), referred to in text, was subsequently amended, and section 3801(a)(16) no longer defines the term “wetland”. However, such term is defined elsewhere in that section.
 
@@ -6380,7 +6736,7 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 2006f, Pub. L. 87–128, title III, § 364, as added Pub. L. 101–624, title XXIII, § 2302(a)(1), Nov. 28, 1990, 104 Stat. 3979; amended Pub. L. 102–237, title VII, § 701(d), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 103–129, § 4, Nov. 1, 1993, 107 Stat. 1366, established Rural Development Administration in Department of Agriculture and provided for the performance of specified functions, prior to repeal by Pub. L. 103–354, title II, § 231(f)(3), Oct. 13, 1994, 108 Stat. 3219. See section 6911 et seq. of this title.
+A prior section 2006f, Pub. L. 87–128, title III, § 364, as added Pub. L. 101–624, title XXIII, § 2302(a)(1), Nov. 28, 1990, 104 Stat. 3979; amended Pub. L. 102–237, title VII, § 701(d), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 103–129, § 4, Nov. 1, 1993, 107 Stat. 1366, established Rural Development Administration in Department of Agriculture and provided for the performance of specified functions, prior to repeal by Pub. L. 103–354, title II, § 231(f)(3), Oct. 13, 1994, 108 Stat. 3219. See section 6912 et seq. of this title.
 
 
 <a id="section-2008"></a>
@@ -6401,8 +6757,8 @@ Section 2007d, Pub. L. 101–624, title XXIII, § 2314, Nov. 28, 1990, 104 Stat.
 Section 2007e, Pub. L. 101–624, title XXIII, § 2315, Nov. 28, 1990, 104 Stat. 3994; Pub. L. 102–237, title VII, § 702(e), Dec. 13, 1991, 105 Stat. 1880, related to compliance with and enforcement of former sections 2007a to 2007e of this title and regulations promulgated thereunder.
 
 
-<a id="section-2008a-to-2008c"></a>
-## § 2008a to 2008c. Rural development and farm loan program activities
+<a id="section-2008a"></a>
+## § 2008a. Rural development and farm loan program activities
 
 The Secretary may not complete a study of, or enter into a contract with a private party to carry out, without specific authorization in a subsequent Act of Congress, a competitive sourcing activity of the Secretary, including support personnel of the Department of Agriculture, relating to rural development or farm loan programs.
 
@@ -6418,16 +6774,80 @@ A prior section 2008, Pub. L. 87–128, title III, § 365, as added Pub. L. 101�
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
-<a id="section-2008d"></a>
-## § 2008d. Repealed. Pub. L. 104–127, title VII, §§ 754–756, Apr. 4, 1996, 110 Stat. 1131
+<a id="section-2008b"></a>
+## § 2008b. Equitable relief
+**(a) In general** Subject to subsection (b), the Secretary may provide a form of relief described in subsection (c) to any farmer or rancher who—
+
+(1) received a direct farm ownership, operating, or emergency loan under this chapter; and
+
+(2) the Secretary determines is not in compliance with the requirements of this chapter with respect to the loan.
+
+**(b) Limitation** The Secretary may only provide relief to a farmer or rancher under subsection (a) if the Secretary determines that the farmer or rancher—
+
+(1) acted in good faith; and
+
+(2) relied on an action of, or the advice of, the Secretary (including any authorized representative of the Secretary) to the detriment of the farming or ranching operation of the farmer or rancher.
+
+**(c) Forms of relief** The Secretary may provide to a farmer or rancher under subsection (a) any of the following forms of relief:
+
+(1) The farmer or rancher may retain loans or other benefits received in association with the loan with respect to which the farmer or rancher was determined to be noncompliant under subsection (a)(2).
+
+(2) The farmer or rancher may receive such other equitable relief as the Secretary determines to be appropriate.
+
+**(d) Condition** As a condition of receiving relief under this section, the Secretary may require the farmer or rancher to take actions designed to remedy the noncompliance.
+
+**(e) Administrative appeal; judicial review** A determination or action of the Secretary under this section—
+
+(1) shall be final; and
+
+(2) shall not be subject to administrative appeal or judicial review under chapter 7 of title 5.
 
 ### Statutory Notes
 
-Section 2008a, Pub. L. 87–128, title III, § 366, as added Pub. L. 101–624, title XXIII, § 2316(a), Nov. 28, 1990, 104 Stat. 4004; amended Pub. L. 102–237, title VII, § 701(f), Dec. 13, 1991, 105 Stat. 1879, related to State rural economic development review panel.
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-Section 2008b, Pub. L. 87–128, title III, § 367, as added Pub. L. 101–624, title XXIII, § 2317, Nov. 28, 1990, 104 Stat. 4008; amended Pub. L. 102–237, title VII, § 701(g), Dec. 13, 1991, 105 Stat. 1879, related to limited transfer authority of loan amounts.
+#### Prior Provisions
+A prior section 2008a, Pub. L. 87–128, title III, § 366, as added Pub. L. 101–624, title XXIII, § 2316(a), Nov. 28, 1990, 104 Stat. 4004; amended Pub. L. 102–237, title VII, § 701(f), Dec. 13, 1991, 105 Stat. 1879, related to State rural economic development review panel, prior to repeal by Pub. L. 104–127, title VII, § 754, Apr. 4, 1996, 110 Stat. 1131.
 
-Section 2008c, Pub. L. 87–128, title III, § 368, as added Pub. L. 101–624, title XXIII, § 2317, Nov. 28, 1990, 104 Stat. 4009, related to allocation and transfer of loan guarantee authority.
+
+<a id="section-2008c"></a>
+## § 2008c. Socially disadvantaged farmers and ranchers; qualified beginning farmers and ranchers
+
+In the case of a loan guaranteed by the Secretary under subchapter I or II to a socially disadvantaged farmer or rancher (as defined in [section 2003(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e&num=0&edition=prelim)) or a qualified beginning farmer or rancher, the Secretary may provide for a standard guarantee plan, which shall cover an amount equal to 95 percent of the outstanding principal of the loan.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 2008b, Pub. L. 87–128, title III, § 367, as added Pub. L. 101–624, title XXIII, § 2317, Nov. 28, 1990, 104 Stat. 4008; amended Pub. L. 102–237, title VII, § 701(g), Dec. 13, 1991, 105 Stat. 1879, related to limited transfer authority of loan amounts, prior to repeal by Pub. L. 104–127, title VII, § 755, Apr. 4, 1996, 110 Stat. 1131.
+
+
+<a id="section-2008d"></a>
+## § 2008d. Rural Business-Cooperative Service programs technical assistance and training
+**(a) In general** The Secretary may make grants to public bodies, private nonprofit corporations, economic development authorities, institutions of higher education, federally recognized Indian Tribes, and rural cooperatives for the purpose of providing or obtaining technical assistance and training to support funding applications for programs carried out by the Secretary, acting through the Administrator of the Rural Business-Cooperative Service.
+
+**(b) Purposes** A grant under subsection (a) may be used—
+
+(1) to assist communities in identifying and planning for business and economic development needs;
+
+(2) to identify public and private resources to finance business and small and emerging business needs;
+
+(3) to prepare reports and surveys necessary to request financial assistance for businesses in rural communities; and
+
+(4) to prepare applications for financial assistance.
+
+**(c) Selection priority** In selecting recipients of grants under this section, the Secretary shall give priority to grants serving persistent poverty counties and high poverty communities, as determined by the Secretary.
+
+**(d) Funding**
+
+(1) **In general** — There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
+
+(2) **Availability** — Any amounts authorized to be appropriated under paragraph (1) for any fiscal year that are not appropriated for that fiscal year may be appropriated for the immediately succeeding fiscal year.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 2008c, Pub. L. 87–128, title III, § 368, as added Pub. L. 101–624, title XXIII, § 2317, Nov. 28, 1990, 104 Stat. 4009, related to allocation and transfer of loan guarantee authority, prior to repeal by Pub. L. 104–127, title VII, § 756, Apr. 4, 1996, 110 Stat. 1131.
 
 
 <a id="section-2008e"></a>
@@ -6438,7 +6858,7 @@ The Secretary shall classify, by gender, records of applicants for loans and loa
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 
 <a id="section-2008f"></a>
@@ -6476,7 +6896,7 @@ The Secretary may not reschedule or reamortize a loan for a borrower under this 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Effective Date
 Section effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as an Effective Date of 1996 Amendment note under [section 1922 of this title](./chapter-050-agricultural-credit.md#section-1922).
@@ -6508,22 +6928,28 @@ Section effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104�
 
     (iii) received debt forgiveness on not more than 1 occasion resulting directly and primarily from a major disaster or emergency designated by the President on or after April 4, 1996, under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
 
-  (B) *Emergency loans* — The Secretary may make an emergency loan under [section 1961 of this title](./chapter-050-agricultural-credit.md#section-1961) to a borrower that—
+  (B) *Emergency loans*
 
-    (i) on or before April 4, 1996, received not more than 1 debt forgiveness on a loan made or guaranteed under this chapter; and
+    (i) *In general* — The Secretary may make an emergency loan under [section 1961 of this title](./chapter-050-agricultural-credit.md#section-1961) to a borrower that—
 
-    (ii) after April 4, 1996, has not received debt forgiveness on a loan made or guaranteed under this chapter.
+      (I) on or before April 4, 1996, received not more than 1 debt forgiveness on a loan made or guaranteed under this chapter; and
+
+      (II) after April 4, 1996, has not received debt forgiveness on a loan made or guaranteed under this chapter.
+
+    (ii) *Restructured loans* — For purposes of clause (i), a borrower who was restructured with a write-down or restructuring under [section 2001 of this title](./chapter-050-agricultural-credit.md#section-2001) shall not be considered to have received debt forgiveness on a loan made or guaranteed under this chapter.
 
 **(c) No more than 1 debt forgiveness for borrower on direct loan** The Secretary may not provide to a borrower debt forgiveness on a direct loan made under this chapter if the borrower has received debt forgiveness on another direct loan made under this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (b)(2)(B). Pub. L. 115–334 designated existing provisions as cl. (i) and inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), and added cl. (ii).
+
 2002—Subsec. (b)(2)(A)(iii). Pub. L. 107–171 added cl. (iii).
 
 1998—Subsec. (b). Pub. L. 105–277 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
@@ -6541,7 +6967,7 @@ The Secretary shall develop and utilize a consolidated short form for farm progr
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Effective Date
 Section effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as an Effective Date of 1996 Amendment note under [section 1922 of this title](./chapter-050-agricultural-credit.md#section-1922).
@@ -6563,7 +6989,7 @@ The Secretary shall use personnel of a State, county or area committee establish
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in text, see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 
 <a id="section-2008m"></a>
@@ -6715,7 +7141,7 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 **(g) Funding**
 
-(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2018.
+(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2023.
 
 (2) **Federal agencies**
 
@@ -6725,7 +7151,7 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 (3) **Contributions** — The Coordinating Committee and a State rural development council may accept private contributions.
 
-**(h) Termination** The authority provided under this section shall terminate on September 30, 2018.
+**(h) Termination** The authority provided under this section shall terminate on September 30, 2023.
 
 ### Statutory Notes
 
@@ -6735,6 +7161,8 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsecs. (g)(1), (h). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (g)(1). Pub. L. 113–79, § 6021(1), substituted “2018” for “2012”.
 
 Subsec. (h). Pub. L. 113–79, § 6021(2), substituted “2018” for “2012”.
@@ -6748,173 +7176,19 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-2008o"></a>
-## § 2008o. Rural telework
-**(a) Definitions** In this section:
-
-(1) **Eligible organization** — The term “eligible organization” means a nonprofit entity, an educational institution, an Indian tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), or any other organization, in a rural area (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
-
-(2) **Institute** — The term “institute” means a rural telework institute established using a grant under subsection (b).
-
-(3) **Telework** — The term “telework” means the use of telecommunications to perform work functions at a rural work center located outside the place of business of an employer.
-
-**(b) Rural telework institute**
-
-(1) **In general** — The Secretary shall make 1 or more grants to an eligible organization to pay the Federal share of the cost of establishing and operating a national rural telework institute to carry out projects described in paragraph (2).
-
-(2) **Projects** — The institute shall use grant funds received under this subsection to carry out a 5-year project—
-
-  (A) to serve as a clearinghouse for telework research and development;
-
-  (B) to conduct outreach to rural communities and rural workers;
-
-  (C) to develop and share best practices in rural telework throughout the United States;
-
-  (D) to develop innovative, market-driven telework projects and joint ventures with the private sector that employ workers in rural areas in jobs that promote economic self-sufficiency;
-
-  (E) to share information about the design and implementation of telework arrangements;
-
-  (F) to support private sector businesses that are transitioning to telework;
-
-  (G) to support and assist telework projects and individuals at the State and local level; and
-
-  (H) to perform such other functions as the Secretary considers appropriate.
-
-(3) **Non-Federal share**
-
-  (A) *In general* — As a condition of receiving a grant under this subsection, an eligible organization shall agree to obtain, after the application of the eligible organization has been approved and notice of award has been issued, contributions from non-Federal sources that are equal to—
-
-    (i) during each of the first, second, and third years of a project, 30 percent of the amount of the grant; and
-
-    (ii) during each of the fourth and fifth years of the project, 50 percent of the amount of the grant.
-
-  (B) *Indian tribes* — Notwithstanding subparagraph (A), an Indian tribe may use any Federal funds made available to the Indian tribe for self-governance to pay the non-Federal contributions required under subparagraph (A).
-
-  (C) *Form* — The non-Federal contributions required under subparagraph (A) may be in the form of in-kind contributions, including office equipment, office space, computer software, consultant services, computer networking equipment, and related services.
-
-**(c) Telework grants**
-
-(1) **In general** — Subject to paragraphs (2) through (5), the Secretary shall make grants to eligible organizations to pay the Federal share of the cost of—
-
-  (A) obtaining equipment and facilities to establish or expand telework locations in rural areas; and
-
-  (B) operating telework locations in rural areas.
-
-(2) **Applications** — To be eligible to receive a grant under this subsection, an eligible organization shall submit to the Secretary, and receive the approval of the Secretary of, an application for the grant that demonstrates that the eligible organization has adequate resources and capabilities to establish or expand a telework location in a rural area.
-
-(3) **Non-Federal share**
-
-  (A) *In general* — As a condition of receiving a grant under this subsection, an eligible organization shall agree to obtain, after the application of the eligible organization has been approved and notice of award has been issued, contributions from non-Federal sources that are equal to 50 percent of the amount of the grant.
-
-  (B) *Indian tribes* — Notwithstanding subparagraph (A), an Indian tribe may use Federal funds made available to the tribe for self-governance to pay the non-Federal contributions required under subparagraph (A).
-
-  (C) *Sources* — The non-Federal contributions required under subparagraph (A)—
-
-    (i) may be in the form of in-kind contributions, including office equipment, office space, computer software, consultant services, computer networking equipment, and related services; and
-
-    (ii) may not be made from funds made available for community development block grants under title I of the Housing and Community Development Act of 1974 ([42 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) et seq.).
-
-(4) **Duration** — The Secretary may not provide a grant under this subsection to expand or operate a telework location in a rural area after the date that is 3 years after the establishment of the telework location.
-
-(5) **Amount** — The amount of a grant provided to an eligible organization under this subsection shall be not less than $1,000,000 and not more than $2,000,000.
-
-**(d) Applicability of certain Federal law** An eligible organization that receives funds under this section shall be subject to the provisions of Federal law (including regulations) administered by the Secretary of Labor or the Equal Employment Opportunity Commission that govern the responsibilities of employers to employees.
-
-**(e) Regulations** Not later than 180 days after May 13, 2002, the Secretary shall promulgate regulations to carry out this section.
-
-**(f) Authorization of appropriation** There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2002 through 2007, of which $5,000,000 shall be provided to establish and support an institute under subsection (b).
+## § 2008o. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(C), Dec. 20, 2018, 132 Stat. 4775
 
 ### Statutory Notes
 
-#### References in Text
-The Housing and Community Development Act of 1974, referred to in subsec. (c)(3)(C)(ii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
+Section, Pub. L. 87–128, title III, § 379, as added Pub. L. 107–171, title VI, § 6022, May 13, 2002, 116 Stat. 368, related to rural telework.
 
 
 <a id="section-2008p"></a>
-## § 2008p. Historic barn preservation
-**(a) Definitions** In this section:
-
-(1) **Barn** — The term “barn” means a building (other than a dwelling) on a farm, ranch, or other agricultural operation for—
-
-  (A) housing animals;
-
-  (B) storing or processing crops;
-
-  (C) storing and maintaining agricultural equipment; or
-
-  (D) serving an essential or useful purpose related to agricultural activities conducted on the adjacent land.
-
-(2) **Eligible applicant** — The term “eligible applicant” means—
-
-  (A) a State department of agriculture (or a designee);
-
-  (B) a national or State nonprofit organization that—
-
-    (i) is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from taxation under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim); and
-
-    (ii) has experience or expertise, as determined by the Secretary, in the identification, evaluation, rehabilitation, preservation, or protection of historic barns; and
-
-  (C) a State historic preservation office.
-
-(3) **Historic barn** — The term “historic barn” means a barn that—
-
-  (A) is at least 50 years old;
-
-  (B) retains sufficient integrity of design, materials, and construction to clearly identify the barn as an agricultural building; and
-
-  (C) meets the criteria for listing on National, State, or local registers or inventories of historic structures.
-
-(4) **Secretary** — The term “Secretary” means the Secretary, acting through the Under Secretary of Rural Development.
-
-**(b) Program** The Secretary shall establish a historic barn preservation program—
-
-(1) to assist States in developing a list of historic barns;
-
-(2) to collect and disseminate information on historic barns;
-
-(3) to foster educational programs relating to the history, construction techniques, rehabilitation, and contribution to society of historic barns; and
-
-(4) to sponsor and conduct research on—
-
-  (A) the history of barns; and
-
-  (B) best practices to protect and rehabilitate historic barns from the effects of decay, fire, arson, and natural disasters.
-
-**(c) Grants**
-
-(1) **In general** — The Secretary may make grants to, or enter into contracts or cooperative agreements with, eligible applicants to carry out an eligible project under paragraph (2).
-
-(2) **Eligible projects** — A grant under this subsection may be made to an eligible applicant for a project—
-
-  (A) to rehabilitate or repair historic barns;
-
-  (B) to preserve historic barns through—
-
-    (i) the installation of a fire protection system, including fireproofing or fire detection system and sprinklers; and
-
-    (ii) the installation of a system to prevent vandalism; and
-
-  (C) to identify, document, and conduct research on historic barns (including surveys) to develop and evaluate appropriate techniques or best practices for protecting historic barns.
-
-(3) **Priority** — In making grants under this subsection, the Secretary shall give the highest priority to funding projects described in paragraph (2)(C).
-
-(4) **Requirements** — An eligible applicant that receives a grant for a project under this subsection shall comply with any standards established by the Secretary of the Interior for historic preservation projects.
-
-(5) **Authorization of appropriations** — There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
+## § 2008p. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(D), Dec. 20, 2018, 132 Stat. 4775
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2008—Subsec. (c)(2)(A), (B). Pub. L. 110–246, § 6020(a)(1)(A), substituted “historic barns” for “a historic barn”.
-
-Subsec. (c)(2)(C). Pub. L. 110–246, § 6020(a)(1)(B), substituted “on historic barns (including surveys)” for “on a historic barn”.
-
-Subsec. (c)(3) to (5). Pub. L. 110–246, § 6020(a)(2), (3), (b), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and, in par. (5), substituted “2008 through 2012” for “2002 through 2007”.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Section, Pub. L. 87–128, title III, § 379A, as added Pub. L. 107–171, title VI, § 6023, May 13, 2002, 116 Stat. 370; amended Pub. L. 110–234, title VI, § 6020, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, § 4(a), title VI, § 6020, June 18, 2008, 122 Stat. 1664, 1934, related to historic barn preservation.
 
 
 <a id="section-2008q"></a>
@@ -6929,7 +7203,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(c) Federal share** A grant provided under this section shall be not more than 75 percent of the total cost of acquiring a radio transmitter, as described in subsection (a).
 
-**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
+**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -6937,6 +7211,8 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (d). Pub. L. 113–79 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.”
 
 2008—Subsec. (d). Pub. L. 110–246, § 6021, substituted “2008 through 2012” for “2002 through 2007”.
@@ -6946,17 +7222,16 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-2008q-1"></a>
-## § 2008q–1. Grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops
-**(a) In general** The Secretary shall make grants to nonprofit organizations, or to a consortium of nonprofit organizations, agribusinesses, State and local governments, agricultural labor organizations, farmer or rancher cooperatives, and community-based organizations with the capacity to train farm workers.
+## § 2008q–1. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(E), Dec. 20, 2018, 132 Stat. 4775
 
-**(b) Use of funds** An entity to which a grant is made under this section shall use the grant to train farm workers to use new technologies and develop specialized skills for agricultural development.
+### Statutory Notes
 
-**(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2002 through 2007.
+Section, Pub. L. 87–128, title III, § 379C, as added Pub. L. 107–171, title VI, § 6025, May 13, 2002, 116 Stat. 372, related to grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops.
 
 
 <a id="section-2008r"></a>
 ## § 2008r. Grants to improve supply, stability, safety, and training of agricultural labor force
-**(a) Definition of eligible entity** In this section, the term “eligible entity” means an entity described in [section 2008q(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2008q/a&num=0&edition=prelim).
+**(a) Definition of eligible entity** In this section, the term “eligible entity” means an entity described in section 2008q(a) 11 See References in Text note below. of this title.
 
 **(b) Grants**
 
@@ -6988,6 +7263,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ### Statutory Notes
 
+#### References in Text
+[Section 2008q(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2008q/a&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 115–334, title VI, § 6601(a)(1)(E), Dec. 20, 2018, 132 Stat. 4775.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
@@ -7004,10 +7282,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-2008s"></a>
-## § 2008s. Delta region agricultural economic development
-**(a) In general** The Secretary may make grants to assist in the development of state-of-the-art technology in animal nutrition (including research and development of the technology) and value-added manufacturing to promote an economic platform for the Delta region (as defined in [section 2009aa of this title](./chapter-050-agricultural-credit.md#section-2009aa)) to relieve severe economic conditions.
+## § 2008s. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(F), Dec. 20, 2018, 132 Stat. 4776
 
-**(b) Authorization of appropriations** There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2002 through 2007.
+### Statutory Notes
+
+Section, Pub. L. 87–128, title III, § 379D, as added Pub. L. 107–171, title VI, § 6027(i), May 13, 2002, 116 Stat. 374, related to Delta region agricultural economic development.
 
 
 <a id="section-2008t"></a>
@@ -7104,7 +7383,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
       (II) are seeking a loan from the microenterprise development organization under paragraph (3).
 
-    (ii) *Maximum amount of grant* — A microenterprise development organization shall be eligible to receive an annual grant under this subparagraph in an amount equal to not more than 25 percent of the total outstanding balance of microloans made by the microenterprise development organization under paragraph (3), as of the date the grant is awarded.
+    (ii) *Amount of grant* — A microenterprise development organization shall be eligible to receive an annual grant under this subparagraph in an amount equal to not less than 20 percent and not more than 25 percent of the total outstanding balance of microloans made by the microenterprise development organization under paragraph (3), as of the date the grant is awarded, subject to—
+
+      (I) satisfactory performance by the microenterprise development organization under this section, and
+
+      (II) the availability of funding.
 
   (C) *Administrative expenses* — Not more than 10 percent of a grant received by a microenterprise development organization for a fiscal year under this paragraph may be used to pay administrative expenses.
 
@@ -7124,17 +7407,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (2) **Oversight** — At a minimum, not later than December 1 of each fiscal year, a microenterprise development organization that receives a loan or grant under this section shall provide to the Secretary such information as the Secretary may require to ensure that assistance provided under this section is used for the purposes for which the loan or grant was made.
 
-**(d) Funding**
-
-(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
-
-  (A) $4,000,000 for each of fiscal years 2009 through 2011;
-
-  (B) $3,000,000 for fiscal year 2012; and
-
-  (C) $3,000,000 for each of fiscal years 2014 through 2018.
-
-(2) **Discretionary funding** — In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2009 through 2018.
+**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -7142,6 +7415,10 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(4)(B)(ii). Pub. L. 115–334, § 6422(1), substituted “Amount” for “Maximum amount” in heading and, in text, inserted “not less than 20 percent and” before “not more than 25 percent”, substituted “, subject to—” for period at end, and added subcls. (I) and (II).
+
+Subsec. (d). Pub. L. 115–334, § 6422(2), added subsec. (d) and struck out former subsec. (d) which related to funding for fiscal years 2009 through 2018.
+
 2014—Subsec. (d)(1)(C). Pub. L. 113–79, § 6023(1), added subpar. (C).
 
 Subsec. (d)(2). Pub. L. 113–79, § 6023(2), substituted “2018” for “2012”.
@@ -7151,44 +7428,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-2008u"></a>
-## § 2008u. Grants for expansion of employment opportunities for individuals with disabilities in rural areas
-**(a) Definitions** In this section:
-
-(1) **Individual with a disability** — The term “individual with a disability” means an individual with a disability (as defined in [section 12102 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102&num=0&edition=prelim)).
-
-(2) **Individuals with disabilities** — The term “individuals with disabilities” means more than 1 individual with a disability.
-
-**(b) Grants** The Secretary shall make grants to nonprofit organizations, or to a consortium of nonprofit organizations, to expand and enhance employment opportunities for individuals with disabilities in rural areas.
-
-**(c) Eligibility** To be eligible to receive a grant under this section, a nonprofit organization or consortium of nonprofit organizations shall have—
-
-(1) a significant focus on serving the needs of individuals with disabilities;
-
-(2) demonstrated knowledge and expertise in—
-
-  (A) employment of individuals with disabilities; and
-
-  (B) advising private entities on accessibility issues involving individuals with disabilities;
-
-(3) expertise in removing barriers to employment for individuals with disabilities, including access to transportation, assistive technology, and other accommodations; and
-
-(4) existing relationships with national organizations focused primarily on the needs of rural areas.
-
-**(d) Uses** A grant received under this section may be used only to expand or enhance—
-
-(1) employment opportunities for individuals with disabilities in rural areas by developing national technical assistance and education resources to assist small businesses in a rural area to recruit, hire, accommodate, and employ individuals with disabilities; and
-
-(2) self-employment and entrepreneurship opportunities for individuals with disabilities in a rural area.
-
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2008 through 2012.
+## § 2008u. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(G), Dec. 20, 2018, 132 Stat. 4776
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
-
-#### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Section, Pub. L. 87–128, title III, § 379F, as added Pub. L. 110–234, title VI, § 6023, May 22, 2008, 122 Stat. 1176, and Pub. L. 110–246, § 4(a), title VI, § 6023, June 18, 2008, 122 Stat. 1664, 1937, related to grants for expansion of employment opportunities for individuals with disabilities in rural areas.
 
 
 <a id="section-2008v"></a>
@@ -7211,7 +7455,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(d) Use** As a condition of the receipt of the grant, the eligible entity shall use the grant to fund projects and activities described in subsection (c), based on input solicited from local governments, public health care providers, and other entities in the Delta region.
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section, $3,000,000 for each of fiscal years 2008 through 2018.
+**(e) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section, $3,000,000 for each of fiscal years 2008 through 2023.
 
 ### Statutory Notes
 
@@ -7219,82 +7463,381 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (e). Pub. L. 113–79 substituted “2018” for “2012”.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
-<a id="section-2009"></a>
-## § 2009. Strategic economic and community development
-**(a) In general** In the case of any rural development program described in subsection (d)(2), the Secretary may give priority to an application for a project that, as determined and approved by the Secretary—
+<a id="section-2008w"></a>
+## § 2008w. Strategic economic and community development
+**(a) In general** In the case of any program under this chapter or administered by the Secretary, acting through the rural development mission area, as determined by the Secretary (referred to in this section as a “covered program”), the Secretary shall give priority to an application for a project that, as determined and approved by the Secretary—
 
-(1) meets the applicable eligibility requirements of this chapter;
+(1) meets the applicable eligibility requirements of this chapter or the other applicable authorizing law;
 
-(2) will be carried out solely in a rural area; and
+(2) will be carried out in a rural area; and
 
-(3) supports strategic community and economic development plans on a multijurisdictional basis.
+(3) supports the implementation of a strategic community investment plan described in subsection (d) on a multisectoral and multijurisdictional basis, to include considerations for improving and expanding broadband services as needed.
 
-**(b) Rural area** For purposes of subsection (a)(2), the Secretary shall consider an application to be for a project that will be carried out solely in a rural area only if—
+**(b) Reserve**
 
-(1) in the case of an application for a project in the rural community facilities category described in subsection (d)(2)(A), the project will be carried out in a rural area described in [section 1991(a)(13)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a/13/C&num=0&edition=prelim);
+(1) **In general** — Subject to paragraph (2), the Secretary shall reserve not more than 15 percent of the funds made available for a fiscal year for covered programs for projects that support the implementation of a strategic community investment plan described in subsection (d) on a multisectoral and multijurisdictional basis.
 
-(2) in the case of an application for a project in the rural utilities category described in subsection (d)(2)(B), the project will be carried out in a rural area described in [section 1991(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a/13/B&num=0&edition=prelim); and
+(2) **Period** — Any funds reserved under paragraph (1) shall only be reserved for the 1-year period beginning on the date on which the funds were first made available, as determined by the Secretary.
 
-(3) in the case of an application for a project in the rural business and cooperative development category described in subsection (d)(2)(C), the project will be carried out in a rural area described in [section 1991(a)(13)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a/13/A&num=0&edition=prelim).
+**(c) Approved applications**
 
-**(c) Evaluation**
+(1) **In general** — Subject to paragraph (2), any applicant who submitted an application under a covered program that was approved before the date of enactment of this section 11 See References in Text note below. may amend the application to qualify for the funds reserved under subsection (b).
 
-(1) **In general** — In evaluating strategic applications, the Secretary shall give a higher priority to strategic applications for a plan described in subsection (a) that demonstrates to the Secretary—
+(2) **Rural utilities** — Any applicant who submitted an application under paragraph (2), (14), or (24) of [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim), or section 1926a or 1932(b) of this title, that was approved by the Secretary before the date of enactment of this section 1 shall be eligible for the funds reserved under subsection (b)—
 
-  (A) the plan was developed through the collaboration of multiple stakeholders in the service area of the plan, including the participation of combinations of stakeholders such as State, local, and tribal governments, nonprofit institutions, institutions of higher education, and private entities;
+  (A) on the same basis as an application submitted under this section; and
 
-  (B) an understanding of the applicable regional resources that could support the plan, including natural resources, human resources, infrastructure, and financial resources;
+  (B) until September 30, 2019.
 
-  (C) investment from other Federal agencies;
+**(d) Strategic community investment plans**
 
-  (D) investment from philanthropic organizations; and
+(1) **In general** — The Secretary shall provide assistance to rural communities in developing strategic community investment plans.
 
-  (E) clear objectives for the plan and the ability to establish measurable performance measures and to track progress toward meeting the objectives.
+(2) **Plans** — A strategic community investment plan described in paragraph (1) shall include—
 
-(2) **Consistency with plans** — Applications involving State, county, municipal, or tribal governments shall include an indication of consistency with an adopted regional economic or community development plan.
+  (A) a variety of activities designed to facilitate the vision of a rural community for the future, including considerations for improving and expanding broadband services as needed;
 
-**(d) Funds**
+  (B) participation by multiple stakeholders, including local and regional partners;
 
-(1) **In general** — Subject to paragraph (3) and subsection (e), the Secretary may reserve for projects that support multijurisdictional strategic community and economic development plans described in subsection (a) an amount that does not exceed 10 percent of the funds made available for a fiscal year for a functional category described in paragraph (2).
+  (C) leverage of applicable regional resources;
 
-(2) **Functional categories** — The functional categories described in this subsection are the following:
+  (D) investment from strategic partners, such as—
 
-  (A) *Rural community facilities category* — The rural community facilities category consists of all amounts made available for community facility grants and direct and guaranteed loans under paragraph (1), (19), (20), (21), (24), or (25) of [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim).
+    (i) private organizations;
 
-  (B) *Rural utilities category* — The rural utilities category consists of all amounts made available for—
+    (ii) cooperatives;
 
-    (i) water or waste disposal grants or direct or guaranteed loans under paragraph (1), (2), or (24) of [section 1926(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a&num=0&edition=prelim);
+    (iii) other government entities;
 
-    (ii) rural water or wastewater technical assistance and training grants under [section 1926(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a/14&num=0&edition=prelim);
+    (iv) Indian Tribes; and
 
-    (iii) emergency community water assistance grants under [section 1926a of this title](./chapter-050-agricultural-credit.md#section-1926a); or
+    (v) philanthropic organizations;
 
-    (iv) solid waste management grants under [section 1932(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/b&num=0&edition=prelim).
+  (E) clear objectives with the ability to establish measurable performance metrics;
 
-  (C) *Rural business and cooperative development category* — The rural business and cooperative development category consists of all amounts made available for—
+  (F) action steps for implementation; and
 
-    (i) business and industry direct and guaranteed loans under [section 1932(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/a/2/A&num=0&edition=prelim); or
+  (G) any other elements necessary to ensure that the plan results in a comprehensive and strategic approach to rural economic development, as determined by the Secretary.
 
-    (ii) rural business development grants under [section 1932(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/c&num=0&edition=prelim).
+(3) **Coordination** — The Secretary shall coordinate with Indian Tribes and local, State, regional, and Federal partners to develop strategic community investment plans under this subsection.
 
-(3) **Period** — The reservation of funds described in paragraph (2) may only extend through June 30 of the fiscal year in which the funds were first made available.
-
-**(e) Approved applications**
-
-(1) **In general** — Any applicant who submitted a rural development application that was approved before February 7, 2014, may amend the application to qualify for the funds reserved under subsection (d)(1).
-
-(2) **Rural utilities** — Any rural development application authorized under section 1926(a)(2), 1926(a)(14), 1926(a)(24), 1926a, or 1932(b) of this title and approved by the Secretary before February 7, 2014, shall be eligible for the funds reserved under subsection (d)(1) on the same basis as the applications submitted under this section until September 30, 2016.
+(4) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
 
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsec. (a)(1), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+
+The date of enactment of this section, referred to in subsec. (c), probably means the date of enactment of Pub. L. 113–79, which enacted this section and which was approved Feb. 7, 2014.
+
+#### Amendments
+2018—Pub. L. 115–334 amended section generally. Prior to amendment, section related to strategic economic and community development.
+
+
+<a id="section-2008x"></a>
+## § 2008x. Rural Innovation Stronger Economy Grant Program
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means a rural jobs accelerator partnership established after December 20, 2018, that—
+
+  (A) organizes key community and regional stakeholders into a working group that—
+
+    (i) focuses on the shared goals and needs of the industry clusters that are objectively identified as existing, emerging, or declining;
+
+    (ii) represents a region defined by the partnership in accordance with subparagraph (B);
+
+    (iii) includes 1 or more representatives of—
+
+      (I) an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim));
+
+      (II) a private entity; or
+
+      (III) a government entity; and
+
+    (iv) has, as a lead applicant—
+
+      (I) a District Organization (as defined in section 300.3 of title 13, Code of Federal Regulations (or a successor regulation));
+
+      (II) an Indian tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), or a consortium of Indian tribes;
+
+      (III) a State or a political subdivision of a State, including a special purpose unit of a State or local government engaged in economic development activities, or a consortium of political subdivisions;
+
+      (IV) an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) or a consortium of institutions of higher education; or
+
+      (V) a public or private nonprofit organization; and
+
+  (B) subject to approval by the Secretary, may—
+
+    (i) serve a region that is—
+
+      (I) a single jurisdiction; or
+
+      (II) if the region is a rural area, multijurisdictional; and
+
+    (ii) define the region that the partnership represents, if the region—
+
+      (I) is large enough to contain critical elements of the industry cluster prioritized by the partnership;
+
+      (II) is small enough to enable close collaboration among members of the partnership;
+
+      (III) includes a majority of communities that are located in—
+
+        (aa) a nonmetropolitan area that qualifies as a low-income community (as defined in [section 45D(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section45D/e&num=0&edition=prelim)); and
+
+        (bb) an area that has access to or has a plan to achieve broadband service (within the meaning of title VI of the Rural Electrification Act of 1936 ([7 U.S.C. 950bb](./chapter-031-rural-electrification-and-telephone-service.md#section-950bb) et seq.)); and
+
+      (IV)
+
+        (aa) has a population of 50,000 or fewer inhabitants; or
+
+        (bb) for a region with a population of more than 50,000 inhabitants, is the subject of a positive determination by the Secretary with respect to a rural-in-character petition, including such a petition submitted concurrently with the application of the partnership for a grant under this section.
+
+(2) **Industry cluster** — The term “industry cluster” means a broadly defined network of interconnected firms and supporting institutions in related industries that accelerate innovation, business formation, and job creation by taking advantage of assets and strengths of a region in the business environment.
+
+(3) **High-wage job** — The term “high-wage job” means a job that provides a wage that is greater than the median wage for the applicable region, as determined by the Secretary.
+
+(4) **Jobs accelerator** — The term “jobs accelerator” means a jobs accelerator center or program located in or serving a low-income rural community that may provide co-working space, in-demand skills training, entrepreneurship support, and any other services described in subsection (d)(1)(B).
+
+(5) **Small and disadvantaged business** — The term “small and disadvantaged business” has the meaning given the term “small business concern owned and controlled by socially and economically disadvantaged individuals” in [section 637(d)(3)(C) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/d/3/C&num=0&edition=prelim).
+
+**(b) Establishment**
+
+(1) **In general** — The Secretary shall establish a grant program under which the Secretary shall award grants, on a competitive basis, to eligible entities to establish jobs accelerators, including related programming, that—
+
+  (A) improve the ability of distressed rural communities to create high-wage jobs, accelerate the formation of new businesses with high-growth potential, and strengthen regional economies, including by helping to build capacity in the applicable region to achieve those goals; and
+
+  (B) help rural communities identify and maximize local assets and connect to regional opportunities, networks, and industry clusters that demonstrate high growth potential.
+
+(2) **Cost-sharing**
+
+  (A) *In general* — The Federal share of the cost of any activity carried out using a grant made under paragraph (1) shall be not greater than 80 percent.
+
+  (B) *In-kind contributions* — The non-Federal share of the total cost of any activity carried out using a grant made under paragraph (1) may be in the form of donations or in-kind contributions of goods or services fairly valued.
+
+(3) **Selection criteria** — In selecting eligible entities to receive grants under paragraph (1), the Secretary shall consider—
+
+  (A) the commitment of participating core stakeholders in the jobs accelerator partnership, including a demonstration that—
+
+    (i) investment organizations, including venture development organizations, venture capital firms, revolving loan funders, angel investment groups, community lenders, community development financial institutions, rural business investment companies, small business investment companies (as defined in [section 662 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section662&num=0&edition=prelim)), philanthropic organizations, and other institutions focused on expanding access to capital, are committed partners in the jobs accelerator partnership and willing to potentially invest in projects emerging from the jobs accelerator; and
+
+    (ii) institutions of higher education, applied research institutions, workforce development entities, and community-based organizations are willing to partner with the jobs accelerator to provide workers with skills relevant to the industry cluster needs of the region, with an emphasis on the use of on-the-job training, registered apprenticeships, customized training, classroom occupational training, or incumbent worker training;
+
+  (B) the ability of the eligible entity to provide the non-Federal share as required under paragraph (2);
+
+  (C) the identification of a targeted industry cluster;
+
+  (D) the ability of the partnership to link rural communities to markets, networks, industry clusters, and other regional opportunities and assets;
+
+  (E) other grants or loans of the Secretary and other Federal agencies that the jobs accelerator would be able to leverage; and
+
+  (F) prospects for the proposed center and related programming to have sustainability beyond the full maximum length of assistance under this subsection, including the maximum number of renewals.
+
+(4) **Grant term and renewals**
+
+  (A) *Term* — The initial term of a grant under paragraph (1) shall be 4 years.
+
+  (B) *Renewal* — The Secretary may extend the term of a grant under paragraph (1) for an additional period of not longer than 2 years if the Secretary is satisfied, using the evaluation under subsection (e)(2), that the grant recipient has successfully established a jobs accelerator and related programming.
+
+(5) **Geographic distribution** — To the maximum extent practicable, the Secretary shall provide grants under paragraph (1) for jobs accelerators and related programming in not fewer than 25 States at any time.
+
+**(c) Grant amount** A grant awarded under subsection (b) may be in an amount equal to—
+
+(1) not less than $500,000; and
+
+(2) not more than $2,000,000.
+
+**(d) Use of funds**
+
+(1) **In general** — Subject to paragraph (2), funds from a grant awarded under subsection (b) may be used—
+
+  (A) to construct, purchase, or equip a building to serve as an innovation center;
+
+  (B) to support programs to be carried out at, or in direct partnership with, the jobs accelerator that support the objectives of the jobs accelerator, including—
+
+    (i) linking rural communities and entrepreneurs to markets, networks, industry clusters, and other regional opportunities to support high-wage job creation, new business formation, business expansion, and economic growth;
+
+    (ii) integrating small businesses into a supply chain;
+
+    (iii) creating or expanding commercialization activities for new business formation;
+
+    (iv) identifying and building assets in rural communities that are crucial to supporting regional economies;
+
+    (v) facilitating the repatriation of high-wage jobs to the United States;
+
+    (vi) supporting the deployment of innovative processes, technologies, and products;
+
+    (vii) enhancing the capacity of small businesses in regional industry clusters, including small and disadvantaged businesses;
+
+    (viii) increasing United States exports and business interaction with international buyers and suppliers;
+
+    (ix) developing the skills and expertise of local workforces, entrepreneurs, and institutional partners to meet the needs of employers and prepare workers for high-wage jobs in the identified industry clusters, including the upskilling of incumbent workers;
+
+    (x) ensuring rural communities have the capacity and ability to carry out projects relating to housing, community facilities, infrastructure, or community and economic development to support regional industry cluster growth; or
+
+    (xi) any other activities that the Secretary may determine to be appropriate.
+
+(2) **Requirement**
+
+  (A) *In general* — Subject to subparagraph (B), not more than 10 percent of a grant awarded under subsection (b) shall be used for indirect costs associated with administering the grant.
+
+  (B) *Increase* — The Secretary may increase the percentage described in subparagraph (A) on a case-by-case basis.
+
+**(e) Annual activity report and evaluation** Not later than 1 year after receiving a grant under this section, and annually thereafter for the duration of the grant, an eligible entity shall—
+
+(1) report to the Secretary on the activities funded with the grant; and
+
+(2)
+
+  (A) evaluate the progress that the eligible entity has made toward the strategic objectives identified in the application for the grant; and
+
+  (B) measure that progress using performance measures during the project period, which may include—
+
+    (i) high-wage jobs created;
+
+    (ii) high-wage jobs retained;
+
+    (iii) private investment leveraged;
+
+    (iv) businesses improved;
+
+    (v) new business formations;
+
+    (vi) new products or services commercialized;
+
+    (vii) improvement of the value of existing products or services under development;
+
+    (viii) regional collaboration, as measured by such metrics as—
+
+      (I) the number of organizations actively engaged in the industry cluster;
+
+      (II) the number of symposia held by the industry cluster, including organizations that are not located in the immediate region defined by the partnership; and
+
+      (III) the number of further cooperative agreements;
+
+    (ix) the number of education and training activities relating to innovation;
+
+    (x) the number of jobs relocated from outside of the United States to the region;
+
+    (xi) the amount and number of new equity investments in industry cluster firms;
+
+    (xii) the amount and number of new loans to industry cluster firms;
+
+    (xiii) the dollar increase in exports resulting from the project activities;
+
+    (xiv) the percentage of employees for which training was provided;
+
+    (xv) improvement in sales of participating businesses;
+
+    (xvi) improvement in wages paid at participating businesses;
+
+    (xvii) improvement in income of participating workers; or
+
+    (xviii) any other measure the Secretary determines to be appropriate.
+
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
+
+### Statutory Notes
+
+#### References in Text
+The Rural Electrification Act of 1936, referred to in subsec. (a)(1)(B)(ii)(III)(bb), is act May 20, 1936, ch. 432, 49 Stat. 1363. Title VI of the Act is classified generally to subchapter VI (§ 950bb et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+
+
+<a id="section-2009"></a>
+## § 2009. Reporting
+**(a) Definition of farm loan** In this section, the term “farm loan” means—
+
+(1) a farm ownership loan under subtitle A of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1922](./chapter-050-agricultural-credit.md#section-1922) et seq.); and
+
+(2) an operating loan under subtitle B of that Act ([7 U.S.C. 1941](./chapter-050-agricultural-credit.md#section-1941) et seq.).
+
+**(b) Reports**
+
+(1) **Preparation** — For each fiscal year, the Secretary shall prepare a report that includes—
+
+  (A) aggregate data based on a review of each outstanding farm loan made or guaranteed by the Secretary describing, for the United States and for each State and county in the United States—
+
+    (i) the age of the recipient producer;
+
+    (ii) the duration that the recipient producer has engaged in agricultural production;
+
+    (iii) the size of the farm or ranch of the recipient producer;
+
+    (iv) the race, ethnicity, and gender of the recipient producer;
+
+    (v) the agricultural commodity or commodities, or type of enterprise, for which the loan was secured;
+
+    (vi) the amount of the farm loan made or guaranteed;
+
+    (vii) the type of the farm loan made or guaranteed; and
+
+    (viii) the default rate of the farm loan made or guaranteed;
+
+  (B) for each State and county in the United States, data demonstrating the number of outstanding farm loans made or guaranteed, according to loan size cohort; and
+
+  (C) an assessment of actual loans made or guaranteed as measured against target participation rates for beginning and socially disadvantaged farmers, broken down by State, as described in sections 346(b)(2) and 355 of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1994(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1994/b/2&num=0&edition=prelim), 2003).
+
+(2) **Submission of report** — The report described in paragraph (1) shall be—
+
+  (A) submitted—
+
+    (i) to—
+
+      (I) the Committee on Agriculture of the House of Representatives;
+
+      (II) the Committee on Appropriations of the House of Representatives;
+
+      (III) the Committee on Agriculture, Nutrition, and Forestry of the Senate; and
+
+      (IV) the Committee on Appropriations of the Senate; and
+
+    (ii) not later than December 30, 2019, and annually thereafter; and
+
+  (B) made publicly available not later than 90 days after the date described in subparagraph (A)(ii).
+
+**(c) Comprehensive review**
+
+(1) **In general** — Not later than 4 years after December 20, 2018 (and every 5 years thereafter), the Secretary shall—
+
+  (A) prepare a comprehensive review of all reports submitted under subsection (b)(2);
+
+  (B) identify trends within data outlined in subsection (b)(1), including the extent to which target annual participation rates for beginning and socially disadvantaged farmers (as defined by the Secretary) are being met for each loan type; and
+
+  (C) provide specific actions the Department will take to improve the performance of direct and guaranteed loans with respect to underserved producers and any recommendations the Secretary may make for further congressional action.
+
+(2) **Submission of comprehensive review** — The comprehensive review described in paragraph (1) shall be—
+
+  (A) submitted to—
+
+    (i) the Committee on Agriculture of the House of Representatives;
+
+    (ii) the Committee on Appropriations of the House of Representatives;
+
+    (iii) the Committee on Agriculture, Nutrition, and Forestry of the Senate; and
+
+    (iv) the Committee on Appropriations of the Senate; and
+
+  (B) made publicly available not later than 90 days after the date of submission under subparagraph (A).
+
+**(d) Privacy** In preparing any report or review under this section, the Secretary shall aggregate or de-identify the data in a manner sufficient to ensure that the identity of a recipient producer associated with the data cannot be ascertained.
+
+### Statutory Notes
+
+#### References in Text
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitles A and B of the Act are classified generally to subchapters I (§ 1922 et seq.) and II (§ 1941 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Consolidated Farm and Rural Development Act which comprises this chapter.
+
+#### Definitions
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–344, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
 <a id="section-2009a"></a>
@@ -7353,7 +7896,12 @@ In this subchapter:
 The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended. Section 4 of the Delta Development Act, which was set out in a note under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim), The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2000—Par. (4). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 153(b)], added par. (4).
+2018—Par. (4). Pub. L. 115–334 added par. (4).
+
+2000—Par. (4). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 153(b)], which directed amendment of “section 382A of ‘The Delta Regional Authority Act of 2000’ as incorporated in this Act” by adding par. (4), could not be executed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title VI, § 6701(f)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 153(b) of division B of H.R. 5666, as introduced in the 106th Congress, and as enacted by section 1(4) of the Consolidated Appropriations Act, 2001 (Appendix D of Public Law 106–554; 114 Stat. 2763A–252).”
 
 #### Findings and Purposes
 Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 502], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: “(a) Findings.—Congress finds that—“(1) the lower Mississippi River region (referred to in this title [enacting this subchapter and amending provisions classified as a note under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim), The Public Health and Welfare] as the ‘region’), though rich in natural and human resources, lags behind the rest of the United States in economic growth and prosperity; “(2) the region suffers from a greater proportion of measurable poverty and unemployment than any other region of the United States; “(3) the greatest hope for economic growth and revitalization in the region lies in the development of transportation infrastructure, creation of jobs, expansion of businesses, and development of entrepreneurial local economies; “(4) the economic progress of the region requires an adequate transportation and physical infrastructure, a skilled and trained workforce, and greater opportunities for enterprise development and entrepreneurship; “(5) a concerted and coordinated effort among Federal, State, and local agencies, the private sector, and nonprofit groups is needed if the region is to achieve its full potential for economic development; “(6) economic development planning on a regional or multicounty basis offers the best prospect for achieving the maximum benefit from public and private investments; and “(7) improving the economy of the region requires a special emphasis on areas of the region that are most economically distressed. “(b) Purposes.—The purposes of this title are—“(1) to promote and encourage the economic development of the region—“(A) to ensure that the communities and people in the region have the opportunity for economic development; and “(B) to ensure that the economy of the region reaches economic parity with that of the rest of the United States; “(2) to establish a formal framework for joint Federal-State collaboration in meeting and focusing national attention on the economic development needs of the region; “(3) to assist the region in obtaining the transportation and basic infrastructure, skills training, and opportunities for economic development that are essential for strong local economies; “(4) to foster coordination among all levels of government, the private sector, and nonprofit groups in crafting common regional strategies that will lead to broader economic growth; “(5) to strengthen efforts that emphasize regional approaches to economic development and planning; “(6) to encourage the participation of interested citizens, public officials, agencies, and others in developing and implementing local and regional plans for broad-based economic and community development; and “(7) to focus special attention on areas of the region that suffer from the greatest economic distress.”
@@ -7393,7 +7941,7 @@ Not later than 180 days after the end of each fiscal year, the Authority shall s
 
 <a id="section-2009aa-13"></a>
 ## § 2009aa–13. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Authority to carry out this subchapter $30,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
+**(a) In general** There is authorized to be appropriated to the Authority to carry out this subchapter $30,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
 
 **(b) Administrative expenses** Not more than 5 percent of the amount appropriated under subsection (a) for a fiscal year shall be used for administrative expenses of the Authority.
 
@@ -7403,6 +7951,8 @@ Not later than 180 days after the end of each fiscal year, the Authority shall s
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334 substituted “2019 through 2023” for “2008 through 2018”.
+
 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Subsec. (a). Pub. L. 110–246, § 6025(a), substituted “2008 through 2012” for “2001 through 2007”.
@@ -7788,6 +8338,8 @@ This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 19
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1)(B)(iv). Pub. L. 115–334 realigned margins.
+
 2002—Subsec. (b)(1). Pub. L. 107–171 substituted “Authority shall” for “Authority may”.
 
 
@@ -7877,7 +8429,7 @@ This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 19
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsec. (b), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 
 <a id="section-2009aa-9"></a>
@@ -7915,7 +8467,7 @@ The Secretary shall establish a rural community advancement program to provide g
 <a id="section-2009bb"></a>
 ## § 2009bb. Termination of authority
 
-This subchapter and the authority provided under this subchapter expire on October 1, 2018.
+This subchapter and the authority provided under this subchapter expire on October 1, 2023.
 
 ### Statutory Notes
 
@@ -7923,6 +8475,8 @@ This subchapter and the authority provided under this subchapter expire on Octob
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Pub. L. 110–246, § 6025(b), substituted “2012” for “2007”.
@@ -8577,7 +9131,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (2) **Funding limitations** — The funding limitations under [section 2009bb–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009bb–3/b&num=0&edition=prelim) shall not apply to a project to provide transportation or telecommunication or basic public services to residents of 1 or more distressed counties or isolated areas of distress in the region.
 
-**(c) Transportation, telecommunication 11 So in original. renewable energy,,1 and basic public infrastructure** The Authority shall allocate at least 50 percent of any funds made available under [section 2009bb–12 of this title](./chapter-050-agricultural-credit.md#section-2009bb-12) for transportation, telecommunication,,1 renewable energy, and basic public infrastructure projects authorized under paragraphs (1) and (3) of [section 2009bb–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009bb–2/a&num=0&edition=prelim).
+**(c) Transportation, telecommunication, renewable energy, and basic public infrastructure** The Authority shall allocate at least 50 percent of any funds made available under [section 2009bb–12 of this title](./chapter-050-agricultural-credit.md#section-2009bb-12) for transportation, telecommunication, renewable energy, and basic public infrastructure projects authorized under paragraphs (1) and (3) of [section 2009bb–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009bb–2/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -8588,6 +9142,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 383G of Pub. L. 87–128, title III, was renumbered section 383H and is classified to [section 2009bb–6 of this title](./chapter-050-agricultural-credit.md#section-2009bb-6).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–334 substituted “telecommunication, renewable energy,” for “telecommunication renewable energy,,” in heading and “telecommunication,” for “telecommunication,,” in text.
+
 2008—Subsec. (b)(1). Pub. L. 110–246, § 6026(g)(1), substituted “50” for “75”.
 
 Pub. L. 110–246, § 6026(c)(2)(D)(i)(I), made technical amendment to reference in original act which appears in text as reference to [section 2009bb–12 of this title](./chapter-050-agricultural-credit.md#section-2009bb-12).
@@ -8668,7 +9224,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-For definition of “this chapter”, referred to in subsec. (b), see note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921).
+This chapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -8758,7 +9314,7 @@ In this subchapter:
 
 (1) **Articles** — The term “articles” means articles of incorporation for an incorporated body or the functional equivalent or other similar documents specified by the Secretary for other business entities.
 
-(2) **Developmental venture capital** — The term “developmental venture capital” means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
+(2) **Developmental capital** — The term “developmental capital” means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
 
 (3) **Employee welfare benefit plan; pension plan**
 
@@ -8770,7 +9326,11 @@ In this subchapter:
 
     (ii) similar plans not covered by this subchapter that have been established, and that are maintained, by the Federal Government or any State (including by a political subdivision, agency, or instrumentality of the Federal Government or a State) for the benefit of employees.
 
-(4) **Equity capital** — The term “equity capital” means common or preferred stock or a similar instrument, including subordinated debt with equity features.
+(4) **Equity capital** — The term “equity capital” means—
+
+  (A) common or preferred stock or a similar instrument, including subordinated debt with equity features; and
+
+  (B) any other type of equity-like financing that might be necessary to facilitate the purposes of this Act, excluding financing such as senior debt or other types of financing that competes with routine loanmaking of commercial lenders.
 
 (5) **Leverage** — The term “leverage” includes—
 
@@ -8857,23 +9417,37 @@ In this subchapter:
 
   (B) satisfies the standard industrial classification size standards established by the Administrator of the Small Business Administration for the industry in which the rural business concern is primarily engaged.
 
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in par. (4)(B), means Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, known as the Agricultural Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables.
+
+#### Amendments
+2018—Par. (2). Pub. L. 115–334, § 6426(a)(1), struck out “venture” after “Developmental” in heading and after “ ‘developmental” in text.
+
+Par. (4). Pub. L. 115–334, § 6426(a)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘equity capital’ means common or preferred stock or a similar instrument, including subordinated debt with equity features.”
+
 
 <a id="section-2009cc-10"></a>
 ## § 2009cc–10. Financial institution investments
-**(a) In general** Except as otherwise provided in this section and notwithstanding any other provision of law, the following banks, associations, and institutions are eligible both to establish and invest in any rural business investment company or in any entity established to invest solely in rural business investment companies:
+**(a) Investment**
 
-(1) Any bank or savings association the deposits of which are insured under the Federal Deposit Insurance Act ([12 U.S.C. 1811](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) et seq.), including an investment pool created entirely by such bank or savings association.
+(1) **In general** — Except as otherwise provided in this section and notwithstanding any other provision of law, the following banks, associations, and institutions are eligible both to establish and invest in any rural business investment company or in any entity established to invest solely in rural business investment companies:
 
-(2) Any Farm Credit System institution described in section 1.2(a) of the Farm Credit Act of 1971 ([12 U.S.C. 2002(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2002/a&num=0&edition=prelim)).
+  (A) Any bank or savings association the deposits of which are insured under the Federal Deposit Insurance Act ([12 U.S.C. 1811](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) et seq.), including an investment pool created entirely by such bank or savings association.
+
+  (B) Any Farm Credit System institution described in section 1.2(a) of the Farm Credit Act of 1971 ([12 U.S.C. 2002(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2002/a&num=0&edition=prelim)).
+
+(2) **Limitation on requirements** — The Secretary may not require that an entity described in paragraph (1) provide investment or capital that is not required of other companies eligible to apply to operate as a rural business investment company under [section 2009cc–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009cc–3/a&num=0&edition=prelim).
 
 **(b) Limitation** No bank, association, or institution described in subsection (a) may make investments described in subsection (a) that are greater than 5 percent of the capital and surplus of the bank, association, or institution.
 
-**(c) Limitation on rural business investment companies controlled by Farm Credit System institutions** If a Farm Credit System institution described in section 1.2(a) of the Farm Credit Act of 1971 ([12 U.S.C. 2002(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2002/a&num=0&edition=prelim)) holds more than 25 percent of the shares of a rural business investment company, either alone or in conjunction with other System institutions (or affiliates), the rural business investment company shall not provide equity investments in, or provide other financial assistance to, entities that are not otherwise eligible to receive financing from the Farm Credit System under that Act ([12 U.S.C. 2001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) et seq.).
+**(c) Limitation on rural business investment companies controlled by Farm Credit System institutions** If a Farm Credit System institution described in section 1.2(a) of the Farm Credit Act of 1971 ([12 U.S.C. 2002(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2002/a&num=0&edition=prelim)) holds more than 50 percent of the shares of a rural business investment company, either alone or in conjunction with other System institutions (or affiliates), the rural business investment company shall not provide equity investments in, or provide other financial assistance to, entities that are not otherwise eligible to receive financing from the Farm Credit System under that Act ([12 U.S.C. 2001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Deposit Insurance Act, referred to in subsec. (a)(1), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(1)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (c), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
 
@@ -8881,6 +9455,10 @@ The Farm Credit Act of 1971, referred to in subsec. (c), is Pub. L. 92–181, De
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 6426(f), substituted “Investment” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added par. (2), and realigned margins.
+
+Subsec. (c). Pub. L. 115–334, § 6426(e), substituted “50” for “25”.
+
 2008—Subsec. (a)(1). Pub. L. 110–246, § 6027(d)(1), inserted “, including an investment pool created entirely by such bank or savings association” before period at end.
 
 Subsec. (c). Pub. L. 110–246, § 6027(d)(2), substituted “25” for “15”.
@@ -9035,15 +9613,23 @@ The Secretary may promulgate such regulations as the Secretary considers necessa
 
 The purposes of the Rural Business Investment Program established under this subchapter are—
 
-(1) to promote economic development and the creation of wealth and job opportunities in rural areas and among individuals living in those areas by encouraging developmental venture capital investments in smaller enterprises primarily located in rural areas; and
+(1) to promote economic development and the creation of wealth and job opportunities in rural areas and among individuals living in those areas by encouraging developmental capital investments in smaller enterprises primarily located in rural areas; and
 
-(2) to establish a developmental venture capital program, with the mission of addressing the unmet equity investment needs of small enterprises located in rural areas, by authorizing the Secretary—
+(2) to establish a developmental capital program, with the mission of addressing the unmet equity investment needs of small enterprises located in rural areas, by authorizing the Secretary—
 
   (A) to enter into participation agreements with rural business investment companies;
 
-  (B) to guarantee debentures of rural business investment companies to enable each rural business investment company to make developmental venture capital investments in smaller enterprises in rural areas; and
+  (B) to guarantee debentures of rural business investment companies to enable each rural business investment company to make developmental capital investments in smaller enterprises in rural areas; and
 
   (C) to make grants to rural business investment companies, and to other entities, for the purpose of providing operational assistance to smaller enterprises financed, or expected to be financed, by rural business investment companies.
+
+### Statutory Notes
+
+Par. (1). Pub. L. 115–334, § 6426(b)(1), struck out “venture” before “capital investments”.
+
+Par. (2). Pub. L. 115–334, § 6426(b)(2)(A), struck out “venture” before “capital program” in introductory provisions.
+
+Par. (2)(B). Pub. L. 115–334, § 6426(b)(2)(B), struck out “venture” before “capital investments”.
 
 
 <a id="section-2009cc-3"></a>
@@ -9070,7 +9656,7 @@ In accordance with this subchapter, the Secretary shall establish a Rural Busine
 
 **(b) Application** To participate, as a rural business investment company, in the program established under this subchapter, a company meeting the eligibility requirements of subsection (a) shall submit an application to the Secretary that includes—
 
-(1) a business plan describing how the company intends to make successful developmental venture capital investments in identified rural areas;
+(1) a business plan describing how the company intends to make successful developmental capital investments in identified rural areas;
 
 (2) information regarding the community development finance or relevant venture capital qualifications and general reputation of the management of the company;
 
@@ -9133,6 +9719,11 @@ In accordance with this subchapter, the Secretary shall establish a Rural Busine
   (B) *Leverage* — An applicant approved under subparagraph (A) shall not be eligible to receive leverage under this subchapter until the applicant satisfies the requirements of [section 2009cc–8(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009cc–8/c&num=0&edition=prelim).
 
   (C) *Grants* — An applicant approved under subparagraph (A) shall be eligible for grants under [section 2009cc–7 of this title](./chapter-050-agricultural-credit.md#section-2009cc-7) in proportion to the private capital of the applicant, as determined by the Secretary.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–334 substituted “developmental” for “developmental venture”.
 
 
 <a id="section-2009cc-5"></a>
@@ -9214,9 +9805,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 <a id="section-2009cc-7"></a>
 ## § 2009cc–7. Fees
-**(a) In general** The Secretary may charge a fee that does not exceed $500 with respect to any guarantee or grant issued under this subchapter.
+**(a) In general** The Secretary may charge such fees as the Secretary considers appropriate, so long as those fees are proportionally equal for each rural business investment company, with respect to any guarantee or grant issued under this subchapter.
 
-**(b) Trust certificate** Notwithstanding subsection (a), the Secretary shall not collect a fee for any guarantee of a trust certificate under [section 2009cc–5 of this title](./chapter-050-agricultural-credit.md#section-2009cc-5), except that any agent of the Secretary may collect a fee that does not exceed $500 for the functions described in [section 2009cc–5(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009cc–5/e/2&num=0&edition=prelim).
+**(b) Trust certificate** Notwithstanding subsection (a), the Secretary shall not collect a fee for any guarantee of a trust certificate under [section 2009cc–5 of this title](./chapter-050-agricultural-credit.md#section-2009cc-5), except that any agent of the Secretary may collect such fees as the Secretary considers appropriate, so long as those fees are proportionally equal for each rural business investment company, for the functions described in [section 2009cc–5(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009cc–5/e/2&num=0&edition=prelim).
 
 **(c) License**
 
@@ -9226,9 +9817,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) shall be deposited in the account for salaries and expenses of the Secretary;
 
-  (B) are authorized to be appropriated solely to cover the costs of licensing examinations; and
+  (B) are authorized to be appropriated as the Secretary considers appropriate; and
 
-  (C) shall not exceed $500 for any fee collected under this subsection.
+  (C) shall be in such amounts as the Secretary considers appropriate.
 
 (3) **Prohibition on collection of certain fees** — In the case of a license described in paragraph (1) that was approved before July 1, 2007, the Secretary shall not collect any fees due on or after the date of enactment of this paragraph.
 
@@ -9241,6 +9832,12 @@ The date of enactment of this paragraph, referred to in subsec. (c)(3), is the d
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsecs. (a), (b). Pub. L. 115–334, § 6426(d)(1), substituted “such fees as the Secretary considers appropriate, so long as those fees are proportionally equal for each rural business investment company,” for “a fee that does not exceed $500”.
+
+Subsec. (c)(2)(B). Pub. L. 115–334, § 6426(d)(2)(A), substituted “as the Secretary considers appropriate” for “solely to cover the costs of licensing examinations”.
+
+Subsec. (c)(2)(C). Pub. L. 115–334, § 6426(d)(2)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “shall not exceed $500 for any fee collected under this subsection.”
+
 2008—Subsec. (a). Pub. L. 110–246, § 6027(b)(1), substituted “a fee that does not exceed $500” for “such fees as the Secretary considers appropriate”.
 
 Subsec. (b). Pub. L. 110–246, § 6027(b)(2), substituted “that does not exceed $500” for “approved by the Secretary”.
@@ -9379,10 +9976,10 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 (6) includes such other information as may be required by the Secretary.
 
 
-<a id="section-2009dd"></a>
-## § 2009dd. Authorization of appropriations
+<a id="section-2009dd-to-2009dd-7"></a>
+## § 2009dd to 2009dd–7. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this subchapter $20,000,000 for each of fiscal years 2014 through 2018.
+There is authorized to be appropriated to carry out this subchapter $20,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
@@ -9393,565 +9990,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 2009cc–18, Pub. L. 87–128, title III, § 384S, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 402; amended Pub. L. 109–171, title I, § 1403(a), Feb. 8, 2006, 120 Stat. 6, related to subchapter funding through fiscal year 2006, prior to repeal by Pub. L. 110–234, title VI, § 6027(f), May 22, 2008, 122 Stat. 1183, and Pub. L. 110–246, § 4, title VI, § 6027(f), June 18, 2008, 122 Stat. 1664, 1944, effective May 22, 2008.
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Pub. L. 113–79 substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$50,000,000 for the period of fiscal years 2008 through 2012”.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-2009dd-1"></a>
-## § 2009dd–1. Purpose
-
-The purpose of this subchapter is to establish a regional rural collaborative investment program—
-
-(1) to provide rural regions with a flexible investment vehicle, allowing for local control with Federal oversight, assistance, and accountability;
-
-(2) to provide rural regions with incentives and resources to develop and implement comprehensive strategies for achieving regional competitiveness, innovation, and prosperity;
-
-(3) to foster multisector community and economic development collaborations that will optimize the asset-based competitive advantages of rural regions with particular emphasis on innovation, entrepreneurship, and the creation of quality jobs;
-
-(4) to foster collaborations necessary to provide the professional technical expertise, institutional capacity, and economies of scale that are essential for the long-term competitiveness of rural regions; and
-
-(5) to better use Department of Agriculture and other Federal, State, and local governmental resources, and to leverage those resources with private, nonprofit, and philanthropic investments, in order to achieve measurable community and economic prosperity, growth, and sustainability.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2008—Pub. L. 110–246, § 6028, amended section generally. Prior to amendment, section related to purpose of this subchapter.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-2009dd-2"></a>
-## § 2009dd–2. Definitions
-
-In this subchapter:
-
-(1) **Benchmark** — The term “benchmark” means an annual set of goals and performance measures established for the purpose of assessing performance in meeting a regional investment strategy of a Regional Board.
-
-(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
-
-(3) **National Board** — The term “National Board” means the National Rural Investment Board established under [section 2009dd–2(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009dd–2/c&num=0&edition=prelim).
-
-(4) **National Institute** — The term “National Institute” means the National Institute on Regional Rural Competitiveness and Entrepreneurship established under [section 2009dd–2(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009dd–2/b/2&num=0&edition=prelim).
-
-(5) **Regional Board** — The term “Regional Board” means a Regional Rural Investment Board described in [section 2009dd–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009dd–3/a&num=0&edition=prelim).
-
-(6) **Regional innovation grant** — The term “regional innovation grant” means a grant made by the Secretary to a certified Regional Board under [section 2009dd–5 of this title](./chapter-050-agricultural-credit.md#section-2009dd-5).
-
-(7) **Regional investment strategy grant** — The term “regional investment strategy grant” means a grant made by the Secretary to a certified Regional Board under [section 2009dd–4 of this title](./chapter-050-agricultural-credit.md#section-2009dd-4).
-
-(8) **Rural heritage**
-
-  (A) *In general* — The term “rural heritage” means historic sites, structures, and districts.
-
-  (B) *Inclusions* — The term “rural heritage” includes historic rural downtown areas and main streets, neighborhoods, farmsteads, scenic and historic trails, heritage areas, and historic landscapes.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2008—Pub. L. 110–246, § 6028, amended section generally. Prior to amendment, section defined terms for this subchapter.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-2009dd-3"></a>
-## § 2009dd–3. Establishment and administration of Rural Collaborative Investment Program
-**(a) Establishment** The Secretary shall establish a Rural Collaborative Investment Program to support comprehensive regional investment strategies for achieving rural competitiveness.
-
-**(b) Duties of Secretary** In carrying out this subchapter, the Secretary shall—
-
-(1) appoint and provide administrative and program support to the National Board;
-
-(2) establish a national institute, to be known as the “National Institute on Regional Rural Competitiveness and Entrepreneurship”, to provide technical assistance to the Secretary and the National Board regarding regional competitiveness and rural entrepreneurship, including technical assistance for—
-
-  (A) the development of rigorous analytic programs to assist Regional Boards in determining the challenges and opportunities that need to be addressed to receive the greatest regional competitive advantage;
-
-  (B) the provision of support for best practices developed by the Regional Boards;
-
-  (C) the establishment of programs to support the development of appropriate governance and leadership skills in the applicable regions; and
-
-  (D) the evaluation of the progress and performance of the Regional Boards in achieving benchmarks established in a regional investment strategy;
-
-(3) work with the National Board to develop a national rural investment plan that shall—
-
-  (A) create a framework to encourage and support a more collaborative and targeted rural investment portfolio in the United States;
-
-  (B) establish a Rural Philanthropic Initiative, to work with rural communities to create and enhance the pool of permanent philanthropic resources committed to rural community and economic development;
-
-  (C) cooperate with the Regional Boards and State and local governments, organizations, and entities to ensure investment strategies are developed that take into consideration existing rural assets; and
-
-  (D) encourage the organization of Regional Boards;
-
-(4) certify the eligibility of Regional Boards to receive regional investment strategy grants and regional innovation grants;
-
-(5) provide grants for Regional Boards to develop and implement regional investment strategies;
-
-(6) provide technical assistance to Regional Boards on issues, best practices, and emerging trends relating to rural development, in cooperation with the National Rural Investment Board; and
-
-(7) provide analytic and programmatic support for regional rural competitiveness through the National Institute, including—
-
-  (A) programs to assist Regional Boards in determining the challenges and opportunities that must be addressed to receive the greatest regional competitive advantage;
-
-  (B) support for best practices development by the regional investment boards; and
-
-  (C) programs to support the development of appropriate governance and leadership skills in the region.
-
-**(c) National Rural Investment Board** The Secretary shall establish within the Department of Agriculture a board to be known as the “National Rural Investment Board”.
-
-**(d) Duties of National Board** The National Board shall—
-
-(1) not later than 180 days after the date of establishment of the National Board, develop rules relating to the operation of the National Board; and
-
-(2) provide advice to—
-
-  (A) the Secretary and subsequently review the design, development, and execution of the National Rural Investment Plan;
-
-  (B) Regional Boards on issues, best practices, and emerging trends relating to rural development; and
-
-  (C) the Secretary and the National Institute on the development and execution of the program under this subchapter.
-
-**(e) Membership**
-
-(1) **In general** — The National Board shall consist of 14 members appointed by the Secretary not later than 180 days after the date of enactment of the Food, Conservation, and Energy Act of 2008.
-
-(2) **Supervision** — The National Board shall be subject to the general supervision and direction of the Secretary.
-
-(3) **Sectors represented** — The National Board shall consist of representatives from each of—
-
-  (A) nationally recognized entrepreneurship organizations;
-
-  (B) regional strategy and development organizations;
-
-  (C) community-based organizations;
-
-  (D) elected members of local governments;
-
-  (E) members of State legislatures;
-
-  (F) primary, secondary, and higher education, job skills training, and workforce development institutions;
-
-  (G) the rural philanthropic community;
-
-  (H) financial, lending, venture capital, entrepreneurship, and other related institutions;
-
-  (I) private sector business organizations, including chambers of commerce and other for-profit business interests;
-
-  (J) Indian tribes; and
-
-  (K) cooperative organizations.
-
-(4) **Selection of members**
-
-  (A) *In general* — In selecting members of the National Board, the Secretary shall consider recommendations made by—
-
-    (i) the chairman and ranking member of each of the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate;
-
-    (ii) the Majority Leader and Minority Leader of the Senate; and
-
-    (iii) the Speaker and Minority Leader of the House of Representatives.
-
-  (B) *Ex-officio members* — In consultation with the chairman and ranking member of each of the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may appoint not more than 3 other officers or employees of the Executive Branch to serve as ex-officio, nonvoting members of the National Board.
-
-(5) **Term of office**
-
-  (A) *In general* — Subject to subparagraph (B), the term of office of a member of the National Board appointed under paragraph (1)(A) 11 So in original. Probably should be “paragraph (1)”. shall be for a period of not more than 4 years.
-
-  (B) *Staggered terms* — The members of the National Board shall be appointed to serve staggered terms.
-
-(6) **Initial appointments** — Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall appoint the initial members of the National Board.
-
-(7) **Vacancies** — A vacancy on the National Board shall be filled in the same manner as the original appointment.
-
-(8) **Compensation** — A member of the National Board shall receive no compensation for service on the National Board, but shall be reimbursed for related travel and other expenses incurred in carrying out the duties of the member of the National Board in accordance with section 5702 and 5703 of title 5.
-
-(9) **Chairperson** — The National Board shall select a chairperson from among the members of the National Board.
-
-(10) **Federal status** — For purposes of Federal law, a member of the National Board shall be considered a special Government employee (as defined in [section 202(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202/a&num=0&edition=prelim)).
-
-**(f) Administrative support** The Secretary, on a reimbursable basis from funds made available under [section 2009dd–7 of this title](./chapter-050-agricultural-credit.md#section-2009dd-7), may provide such administrative support to the National Board as the Secretary determines is necessary.
-
-### Statutory Notes
-
-#### References in Text
-The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (e)(1), (6), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2014—Subsec. (b)(7)(B) to (D). Pub. L. 113–188 inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), and struck out subpar. (D) which related to annual reports evaluating the performance of the Regional Boards.
-
-2008—Pub. L. 110–246, § 6028, amended section generally. Prior to amendment, section provided for certification of Regional Investment Boards.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-2009dd-4"></a>
-## § 2009dd–4. Regional Rural Investment Boards
-**(a) In general** A Regional Rural Investment Board shall be a multijurisdictional and multisectoral group that—
-
-(1) represents the long-term economic, community, and cultural interests of a region;
-
-(2) is certified by the Secretary to establish a rural investment strategy and compete for regional innovation grants;
-
-(3) is composed of residents of a region that are broadly representative of diverse public, nonprofit, and private sector interests in investment in the region, including (to the maximum extent practicable) representatives of—
-
-  (A) units of local, multijurisdictional, or State government, including not more than 1 representative from each State in the region;
-
-  (B) nonprofit community-based development organizations, including community development financial institutions and community development corporations;
-
-  (C) agricultural, natural resource, and other asset-based related industries;
-
-  (D) in the case of regions with federally recognized Indian tribes, Indian tribes;
-
-  (E) regional development organizations;
-
-  (F) private business organizations, including chambers of commerce;
-
-  (G)
-
-    (i) institutions of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim));
-
-    (ii) tribally controlled colleges or universities (as defined in [section 1801(a) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801/a&num=0&edition=prelim)); and
-
-    (iii) tribal technical institutions;
-
-  (H) workforce and job training organizations;
-
-  (I) other entities and organizations, as determined by the Regional Board;
-
-  (J) cooperatives; and
-
-  (K) consortia of entities and organizations described in subparagraphs (A) through (J);
-
-(4) represents a region inhabited by—
-
-  (A) more than 25,000 individuals, as determined in the latest available decennial census conducted under [section 141(a) of title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section141/a&num=0&edition=prelim); or
-
-  (B) in the case of a region with a population density of less than 2 individuals per square mile, at least 10,000 individuals, as determined in that latest available decennial census;
-
-(5) has a membership of which not less than 25 percent, nor more than 40 percent, represents—
-
-  (A) units of local government and Indian tribes described in subparagraphs (A) and (D) of paragraph (3);
-
-  (B) nonprofit community and economic development organizations and institutions of higher education described in subparagraphs (B) and (G) of paragraph (3); or
-
-  (C) private business (including chambers of commerce and cooperatives) and agricultural, natural resource, and other asset-based related industries described in subparagraphs (C) and (F) of paragraph (3);
-
-(6) has a membership that may include an officer or employee of a Federal agency, serving as an ex-officio, nonvoting member of the Regional Board to represent the agency; and
-
-(7) has organizational documents that demonstrate that the Regional Board will—
-
-  (A) create a collaborative public-private strategy process;
-
-  (B) develop, and submit to the Secretary for approval, a regional investment strategy that meets the requirements of [section 2009dd–4 of this title](./chapter-050-agricultural-credit.md#section-2009dd-4), with benchmarks—
-
-    (i) to promote investment in rural areas through the use of grants made available under this subchapter; and
-
-    (ii) to provide financial and technical assistance to promote a broad-based regional development program aimed at increasing and diversifying economic growth, improved community facilities, and improved quality of life;
-
-  (C) implement the approved regional investment strategy; and
-
-  (D) select a non-Federal organization (such as a regional development organization) in the local area served by the Regional Board that has previous experience in the management of Federal funds to serve as fiscal manager of any funds of the Regional Board.
-
-**(b) Urban areas** A resident of an urban area may serve as an ex-officio member of a Regional Board.
-
-**(c) Duties** A Regional Board shall—
-
-(1) create a collaborative planning process for public-private investment within a region;
-
-(2) develop, and submit to the Secretary for approval, a regional investment strategy;
-
-(3) develop approaches that will create permanent resources for philanthropic giving in the region, to the maximum extent practicable;
-
-(4) implement an approved strategy; and
-
-(5) provide annual reports to the Secretary and the National Board on progress made in achieving the strategy, including an annual financial statement.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2014—Subsec. (a)(7)(C) to (E). Pub. L. 113–188 inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “provide annual reports to the Secretary and the National Board on progress made in achieving the benchmarks of the regional investment strategy, including an annual financial statement; and”.
-
-2008—Pub. L. 110–246, § 6028, amended section generally. Prior to amendment, section related to establishment of National Board on Rural America.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-2009dd-5"></a>
-## § 2009dd–5. Regional investment strategy grants
-**(a) In general** The Secretary shall make regional investment strategy grants available to Regional Boards for use in developing, implementing, and maintaining regional investment strategies.
-
-**(b) Regional investment strategy** A regional investment strategy shall provide—
-
-(1) an assessment of the competitive advantage of a region, including—
-
-  (A) an analysis of the economic conditions of the region;
-
-  (B) an assessment of the current economic performance of the region;
-
-  (C) an overview of the population, geography, workforce, transportation system, resources, environment, and infrastructure needs of the region; and
-
-  (D) such other pertinent information as the Secretary may request;
-
-(2) an analysis of regional economic and community development challenges and opportunities, including—
-
-  (A) incorporation of relevant material from other government-sponsored or supported plans and consistency with applicable State, regional, and local workforce investment strategies or comprehensive economic development plans; and
-
-  (B) an identification of past, present, and projected Federal and State economic and community development investments in the region;
-
-(3) a section describing goals and objectives necessary to solve regional competitiveness challenges and meet the potential of the region;
-
-(4) an overview of resources available in the region for use in—
-
-  (A) establishing regional goals and objectives;
-
-  (B) developing and implementing a regional action strategy;
-
-  (C) identifying investment priorities and funding sources; and
-
-  (D) identifying lead organizations to execute portions of the strategy;
-
-(5) an analysis of the current state of collaborative public, private, and nonprofit participation and investment, and of the strategic roles of public, private, and nonprofit entities in the development and implementation of the regional investment strategy;
-
-(6) a section identifying and prioritizing vital projects, programs, and activities for consideration by the Secretary, including—
-
-  (A) other potential funding sources; and
-
-  (B) recommendations for leveraging past and potential investments;
-
-(7) a plan of action to implement the goals and objectives of the regional investment strategy;
-
-(8) a list of performance measures to be used to evaluate implementation of the regional investment strategy, including—
-
-  (A) the number and quality of jobs, including self-employment, created during implementation of the regional rural investment strategy;
-
-  (B) the number and types of investments made in the region;
-
-  (C) the growth in public, private, and nonprofit investment in the human, community, and economic assets of the region;
-
-  (D) changes in per capita income and the rate of unemployment; and
-
-  (E) other changes in the economic environment of the region;
-
-(9) a section outlining the methodology for use in integrating the regional investment strategy with the economic priorities of the State; and
-
-(10) such other information as the Secretary determines to be appropriate.
-
-**(c) Maximum amount of grant** A regional investment strategy grant shall not exceed $150,000.
-
-**(d) Cost sharing**
-
-(1) **In general** — Subject to paragraph (2), of the share of the costs of developing, maintaining, evaluating, implementing, and reporting with respect to a regional investment strategy funded by a grant under this section—
-
-  (A) not more than 40 percent may be paid using funds from the grant; and
-
-  (B) the remaining share shall be provided by the applicable Regional Board or other eligible grantee.
-
-(2) **Form** — A Regional Board or other eligible grantee shall pay the share described in paragraph (1)(B) in the form of cash, services, materials, or other in-kind contributions, on the condition that not more than 50 percent of that share is provided in the form of services, materials, and other in-kind contributions.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2008—Pub. L. 110–246, § 6028, amended section generally. Prior to amendment, section related to rural strategic investment program.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-2009dd-6"></a>
-## § 2009dd–6. Regional innovation grants program
-**(a) Grants**
-
-(1) **In general** — The Secretary shall provide, on a competitive basis, regional innovation grants to Regional Boards for use in implementing projects and initiatives that are identified in a regional rural investment strategy approved under [section 2009dd–4 of this title](./chapter-050-agricultural-credit.md#section-2009dd-4).
-
-(2) **Timing** — After October 1, 2008, the Secretary shall provide awards under this section on a quarterly funding cycle.
-
-**(b) Eligibility** To be eligible to receive a regional innovation grant, a Regional Board shall demonstrate to the Secretary that—
-
-(1) the regional rural investment strategy of a Regional Board has been reviewed by the National Board prior to approval by the Secretary;
-
-(2) the management and organizational structure of the Regional Board is sufficient to oversee grant projects, including management of Federal funds; and
-
-(3) the Regional Board has a plan to achieve, to the maximum extent practicable, the performance-based benchmarks of the project in the regional rural investment strategy.
-
-**(c) Limitations**
-
-(1) **Amount received** — A Regional Board may not receive more than $6,000,000 in regional innovation grants under this section during any 5-year period.
-
-(2) **Determination of amount** — The Secretary shall determine the amount of a regional innovation grant based on—
-
-  (A) the needs of the region being addressed by the applicable regional rural investment strategy consistent with the purposes described in subsection (f)(2); and
-
-  (B) the size of the geographical area of the region.
-
-(3) **Geographic diversity** — The Secretary shall ensure that not more than 10 percent of funding made available under this section is provided to Regional Boards in any State.
-
-**(d) Cost-sharing**
-
-(1) **Limitation** — Subject to paragraph (2), the amount of a grant made under this section shall not exceed 50 percent of the cost of the project.
-
-(2) **Waiver of grantee share** — The Secretary may waive the limitation in paragraph (1) under special circumstances, as determined by the Secretary, including—
-
-  (A) a sudden or severe economic dislocation;
-
-  (B) significant chronic unemployment or poverty;
-
-  (C) a natural disaster; or
-
-  (D) other severe economic, social, or cultural duress.
-
-(3) **Other Federal assistance** — For the purpose of determining cost-share limitations for any other Federal program, funds provided under this section shall be considered to be non-Federal funds.
-
-**(e) Preferences** In providing regional innovation grants under this section, the Secretary shall give—
-
-(1) a high priority to strategies that demonstrate significant leverage of capital and quality job creation; and
-
-(2) a preference to an application proposing projects and initiatives that would—
-
-  (A) advance the overall regional competitiveness of a region;
-
-  (B) address the priorities of a regional rural investment strategy, including priorities that—
-
-    (i) promote cross-sector collaboration, public-private partnerships, or the provision of interim financing or seed capital for program implementation;
-
-    (ii) exhibit collaborative innovation and entrepreneurship, particularly within a public-private partnership; and
-
-    (iii) represent a broad coalition of interests described in [section 2009dd–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009dd–3/a&num=0&edition=prelim);
-
-  (C) include a strategy to leverage public non-Federal and private funds and existing assets, including agricultural, natural resource, and public infrastructure assets, with substantial emphasis placed on the existence of real financial commitments to leverage available funds;
-
-  (D) create quality jobs;
-
-  (E) enhance the role, relevance, and leveraging potential of community and regional foundations in support of regional investment strategies;
-
-  (F) demonstrate a history, or involve organizations with a history, of successful leveraging of capital for economic development and public purposes;
-
-  (G) address gaps in existing basic services, including technology, within a region;
-
-  (H) address economic diversification, including agricultural and non-agriculturally based economies, within a regional framework;
-
-  (I) improve the overall quality of life in the region;
-
-  (J) enhance the potential to expand economic development successes across diverse stakeholder groups within the region;
-
-  (K) include an effective working relationship with 1 or more institutions of higher education, tribally controlled colleges or universities, or tribal technical institutions;
-
-  (L) help to meet the other regional competitiveness needs identified by a Regional Board; or
-
-  (M) protect and promote rural heritage.
-
-**(f) Uses**
-
-(1) **Leverage** — A Regional Board shall prioritize projects and initiatives carried out using funds from a regional innovation grant provided under this section, based in part on the degree to which members of the Regional Board are able to leverage additional funds for the implementation of the projects.
-
-(2) **Purposes** — A Regional Board may use a regional innovation grant—
-
-  (A) to support the development of critical infrastructure (including technology deployment and services) necessary to facilitate the competitiveness of a region;
-
-  (B) to provide assistance to entities within the region that provide essential public and community services;
-
-  (C) to enhance the value-added production, marketing, and use of agricultural and natural resources within the region, including activities relating to renewable and alternative energy production and usage;
-
-  (D) to assist with entrepreneurship, job training, workforce development, housing, educational, or other quality of life services or needs, relating to the development and maintenance of strong local and regional economies;
-
-  (E) to assist in the development of unique new collaborations that link public, private, and philanthropic resources, including community foundations;
-
-  (F) to provide support for business and entrepreneurial investment, strategy, expansion, and development, including feasibility strategies, technical assistance, peer networks, business development funds, and other activities to strengthen the economic competitiveness of the region;
-
-  (G) to provide matching funds to enable community foundations located within the region to build endowments which provide permanent philanthropic resources to implement a regional investment strategy; and
-
-  (H) to preserve and promote rural heritage.
-
-(3) **Availability of funds** — The funds made available to a Regional Board or any other eligible grantee through a regional innovation grant shall remain available for the 7-year period beginning on the date on which the award is provided, on the condition that the Regional Board or other grantee continues to be certified by the Secretary as making adequate progress toward achieving established benchmarks.
-
-**(g) Cost sharing**
-
-(1) **Waiver of grantee share** — The Secretary may waive the share of a grantee of the costs of a project funded by a regional innovation grant under this section if the Secretary determines that such a waiver is appropriate, including with respect to special circumstances within tribal regions, in the event an area experiences—
-
-  (A) a sudden or severe economic dislocation;
-
-  (B) significant chronic unemployment or poverty;
-
-  (C) a natural disaster; or
-
-  (D) other severe economic, social, or cultural duress.
-
-(2) **Other Federal programs** — For the purpose of determining cost-sharing requirements for any other Federal program, funds provided as a regional innovation grant under this section shall be considered to be non-Federal funds.
-
-**(h) Noncompliance** If a Regional Board or other eligible grantee fails to comply with any requirement relating to the use of funds provided under this section, the Secretary may—
-
-(1) take such actions as are necessary to obtain reimbursement of unused grant funds; and
-
-(2) reprogram the recaptured funds for purposes relating to implementation of this subchapter.
-
-**(i) Priority to areas with awards and approved strategies**
-
-(1) **In general** — Subject to paragraph (3), in providing rural development assistance under other programs, the Secretary shall give a high priority to areas that receive innovation grants under this section.
-
-(2) **Consultation** — The Secretary shall consult with the heads of other Federal agencies to promote the development of priorities similar to those described in paragraph (1).
-
-(3) **Exclusion of certain programs** — Paragraph (1) shall not apply to the provision of rural development assistance under any program relating to basic health, safety, or infrastructure, including broadband deployment or minimum environmental needs.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2008—Pub. L. 110–246, § 6028, amended section generally. Prior to amendment, section provided regional strategic investment planning grants to Regional Boards.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-2009dd-7"></a>
-## § 2009dd–7. Rural endowment loans program
-**(a) In general** The Secretary may provide long-term loans to eligible community foundations to assist in the implementation of regional investment strategies.
-
-**(b) Eligible community foundations** To be eligible to receive a loan under this section, a community foundation shall—
-
-(1) be located in an area that is covered by a regional investment strategy;
-
-(2) match the amount of the loan with an amount that is at least 250 percent of the amount of the loan; and
-
-(3) use the loan and the matching amount to carry out the regional investment strategy in a manner that is targeted to community and economic development, including through the development of community foundation endowments.
-
-**(c) Terms** A loan made under this section shall—
-
-(1) have a term of not less than 10, nor more than 20, years;
-
-(2) bear an interest rate of 1 percent per annum; and
-
-(3) be subject to such other terms and conditions as are determined appropriate by the Secretary.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2008—Pub. L. 110–246, § 6028, amended section generally. Prior to amendment, section provided for competitive innovation grants to be made to Regional Boards.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-2009e"></a>
@@ -9996,11 +10040,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (3) **Rural business and cooperative development** — The rural business and cooperative development category consists of all amounts made available for—
 
-  (A) rural business opportunity grants under section 1926(a)(11)(A) 11 See References in Text note below. of this title;
+  (A) business and industry direct and guaranteed loans under [section 1932(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/a/2/A&num=0&edition=prelim); or
 
-  (B) business and industry direct and guaranteed loans under [section 1932(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/a/2/A&num=0&edition=prelim); or
-
-  (C) rural business enterprise grants or rural educational network grants under [section 1932(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/c&num=0&edition=prelim).
+  (B) rural business enterprise grants or rural educational network grants under [section 1932(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/c&num=0&edition=prelim).
 
 **(e) Federally recognized Indian tribe account**
 
@@ -10014,13 +10056,12 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ### Statutory Notes
 
-#### References in Text
-[Section 1926(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a/11&num=0&edition=prelim), referred to in subsec. (d)(3)(A), was repealed by Pub. L. 113–79, title VI, § 6012(b), Feb. 7, 2014, 128 Stat. 845.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (d)(3). Pub. L. 115–334 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “rural business opportunity grants under [section 1926(a)(11)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a/11/A&num=0&edition=prelim);”.
+
 2008—Subsec. (d)(3)(B). Pub. L. 110–246, § 6012(b)(4), substituted “1932(a)(2)(A)” for “1932(a)(1)”.
 
 2002—Subsec. (b)(4), (5). Pub. L. 107–171, § 6026(a)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
@@ -10037,6 +10078,9 @@ Pub. L. 106–472, § 304(b), substituted “paragraph (19) or (20) of section 1
 
 1997—Subsec. (d)(3)(B). Pub. L. 105–86 inserted “direct and” after “business and industry”.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title VI, § 6701(e)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 6012(b) of the Agricultural Act of 2014 (Public Law 113–79).”
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
@@ -10045,20 +10089,25 @@ Pub. L. 112–55, div. A, title VII, § 747, Nov. 18, 2011, 125 Stat. 590, provi
 
 
 <a id="section-2009ee-to-2009ee-3"></a>
-## § 2009ee to 2009ee–3. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this subchapter $135,000,000 for the period of fiscal years 2009 through 2012.
+## § 2009ee to 2009ee–3. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(H), Dec. 20, 2018, 132 Stat. 4776
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Section 2009dd, Pub. L. 87–128, title III, § 385A, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 402; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1183; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1944, related to purpose of subchapter.
 
-#### Amendments
-2008—Pub. L. 110–246, § 6028, amended section generally. Prior to amendment, section related to National Conference on Rural America.
+Section 2009dd–1, Pub. L. 87–128, title III, § 385B, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 402; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1183; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1945, related to definitions.
 
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Section 2009dd–2, Pub. L. 87–128, title III, § 385C, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 403; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1184; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1945; Pub. L. 113–188, title I, § 101(e)(1), Nov. 26, 2014, 128 Stat. 2017, related to establishment and administration of Rural Collaborative Investment Program.
+
+Section 2009dd–3, Pub. L. 87–128, title III, § 385D, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 405; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1187; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1948; Pub. L. 113–188, title I, § 101(e)(2), Nov. 26, 2014, 128 Stat. 2017, related to Regional Rural Investment Boards.
+
+Section 2009dd–4, Pub. L. 87–128, title III, § 385E, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1189; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1950, related to regional investment strategy grants.
+
+Section 2009dd–5, Pub. L. 87–128, title III, § 385F, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1190; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1951, related to regional innovation grants program.
+
+Section 2009dd–6, Pub. L. 87–128, title III, § 385G, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 408; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1193; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1955, related to rural endowment loans program.
+
+Section 2009dd–7, Pub. L. 87–128, title III, § 385H, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 411; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1194; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1955, authorized appropriations for fiscal years 2009 through 2012.
 
 
 <a id="section-2009f"></a>

@@ -20,7 +20,7 @@ source: >-
 
 (4) State and local landmarks, historic preservation, zoning, or building codes, relating to architectural works protected under section 102(a)(8).
 
-**(c)** With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067.
+**(c)** Notwithstanding the provisions of section 303, and in accordance with chapter 14, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title. With respect to sound recordings fixed before February 15, 1972, the preemptive provisions of subsection (a) shall apply to activities that are commenced on and after the date of enactment of the Classics Protection and Access Act. Nothing in this subsection may be construed to affirm or negate the preemption of rights and remedies pertaining to any cause of action arising from the nonsubscription broadcast transmission of sound recordings under the common law or statutes of any State for activities that do not qualify as covered activities under chapter 14 undertaken during the period between the date of enactment of the Classics Protection and Access Act and the date on which the term of prohibition on unauthorized acts under section 1401(a)(2) expires for such sound recordings. Any potential preemption of rights and remedies related to such activities undertaken during that period shall apply in all respects as it did the day before the date of enactment of the Classics Protection and Access Act.
 
 **(d)** Nothing in this title annuls or limits any rights or remedies under any other Federal statute.
 
@@ -92,9 +92,13 @@ The Committee recognizes that, under recent court decisions, pre-1972 recordings
 Subsection (c) makes clear that nothing contained in Title 17 annuls or limits any rights or remedies under any other Federal statute.
 
 #### References in Text
+The date of enactment of the Classics Protection and Access Act, referred to in subsec. (c), is the date of enactment of title II of Pub. L. 115–264, which was approved Oct. 11, 2018.
+
 Section 610(a) of the Visual Artists Rights Act of 1990 [Pub. L. 101–650], referred to in subsec. (f)(1), (2)(A), is set out as an Effective Date note under [section 106A of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-106a).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–264, § 202(a)(1), added subsec. (c) and struck out former subsec. (c) which read as follows: “With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067.”
+
 1998—Subsec. (c). Pub. L. 105–298 substituted “2067” for “2047” wherever appearing.
 
 1990—Subsec. (b)(4). Pub. L. 101–650, § 705, added par. (4).

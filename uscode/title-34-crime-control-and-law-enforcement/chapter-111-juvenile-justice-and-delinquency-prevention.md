@@ -2,7 +2,7 @@
 title: 34
 chapter: '111'
 heading: JUVENILE JUSTICE AND DELINQUENCY PREVENTION
-section_count: 73
+section_count: 72
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -119,11 +119,13 @@ Pub. L. 93–415, title II, § 263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as ame
 
 The purposes of this subchapter and subchapter II are—
 
-(1) to support State and local programs that prevent juvenile involvement in delinquent behavior;
+(1) to support State, tribal, and local programs that prevent juvenile involvement in delinquent behavior;
 
-(2) to assist State and local governments in promoting public safety by encouraging accountability for acts of juvenile delinquency; and
+(2) to assist State, tribal, and local governments in promoting public safety by encouraging accountability for acts of juvenile delinquency;
 
-(3) to assist State and local governments in addressing juvenile crime through the provision of technical assistance, research, training, evaluation, and the dissemination of information on effective programs for combating juvenile delinquency.
+(3) to assist State, tribal, and local governments in addressing juvenile crime through the provision of technical assistance, research, training, evaluation, and the dissemination of current and relevant information on effective and evidence-based programs and practices for combating juvenile delinquency; and
+
+(4) to support a continuum of evidence-based or promising programs (including delinquency prevention, intervention, mental health, behavioral health and substance abuse treatment, family services, and services for children exposed to violence) that are trauma informed, reflect the science of adolescent development, and are designed to meet the needs of at-risk youth and youth who come into contact with the justice system.
 
 ### Statutory Notes
 
@@ -131,6 +133,14 @@ The purposes of this subchapter and subchapter II are—
 Section was formerly classified to [section 5602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5602&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–385, § 101(1), inserted “, tribal,” after “State”.
+
+Par. (2). Pub. L. 115–385, § 101(2), inserted “, tribal,” after “State” and struck out “and” at end.
+
+Par. (3). Pub. L. 115–385, § 101(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to assist State and local governments in addressing juvenile crime through the provision of technical assistance, research, training, evaluation, and the dissemination of information on effective programs for combating juvenile delinquency.”
+
+Par. (4). Pub. L. 115–385, § 101(4), added par. (4).
+
 2002—Pub. L. 107–273 amended heading and text generally. Prior to text, section read as follows:
 
 “(a) It is the purpose of this chapter—
@@ -181,6 +191,9 @@ Subsec. (a)(7). Pub. L. 98–473, § 612(3), inserted “and homeless”.
 
 Subsec. (b)(1). Pub. L. 96–509, § 4(b), inserted reference to methods with a special focus on maintaining and strengthening the family unit so that juveniles may be retained in their homes.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–385, § 3, Dec. 21, 2018, 132 Stat. 5123, provided that: “The amendments made by this Act [see Short Title of 2018 Amendment note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] shall not apply with respect to funds appropriated for any fiscal year that begins before the date of the enactment of this Act [Dec. 21, 2018].”
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
@@ -223,11 +236,9 @@ For purposes of this chapter—
 
     (i) is established under applicable State law; and
 
-    (ii) has the authority to, in a manner independent of other State entities, establish a budget and raise revenues;
+    (ii) has the authority to, in a manner independent of other State entities, establish a budget and raise revenues; or
 
-  (C) an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or
-
-  (D) for the purposes of assistance eligibility, any agency of the government of the District of Columbia or the Federal Government that performs law enforcement functions in and for—
+  (C) for the purposes of assistance eligibility, any agency of the government of the District of Columbia or the Federal Government that performs law enforcement functions in and for—
 
     (i) the District of Columbia; or
 
@@ -263,11 +274,12 @@ For purposes of this chapter—
 
 (17) the term “Council” means the Coordinating Council on Juvenile Justice and Delinquency Prevention established in [section 11116(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11116/a/1&num=0&edition=prelim);
 
-(18) the term “Indian tribe” means—
+(18) for purposes of subchapter II, the term “Indian tribe” means—
 
   (A) a federally recognized Indian tribe; or
 
   (B) an Alaskan Native organization;
+  that has a law enforcement function, as determined by the Secretary of the Interior in consultation with the Attorney General;
 
 (19) the term “comprehensive and coordinated system of services” means a system that—
 
@@ -283,25 +295,27 @@ For purposes of this chapter—
 
 (21) the term “home-based alternative services” means services provided to a juvenile in the home of the juvenile as an alternative to incarcerating the juvenile, and includes home detention;
 
-(22) the term “jail or lockup for adults” means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
-
-  (A) pending the filing of a charge of violating a criminal law;
-
-  (B) awaiting trial on a criminal charge; or
-
-  (C) convicted of violating a criminal law;
+(22) the term “jail or lockup for adults” means a secure facility that is used by a State, unit of local government, or law enforcement authority to detain or confine adult inmates;
 
 (23) the term “nonprofit organization” means an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) that is exempt from taxation under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim);
 
 (24) the term “graduated sanctions” means an accountability-based, graduated series of sanctions (including incentives, treatment, and services) applicable to juveniles within the juvenile justice system to hold such juveniles accountable for their actions and to protect communities from the effects of juvenile delinquency by providing appropriate sanctions for every act for which a juvenile is adjudicated delinquent, by inducing their law-abiding behavior, and by preventing their subsequent involvement with the juvenile justice system;
 
-(25) the term “contact” means the degree of interaction allowed between juvenile offenders in a secure custody status and incarcerated adults under section 31.303(d)(1)(i) of title 28, Code of Federal Regulations, as in effect on December 10, 1996;
+(25) the term “sight or sound contact” means any physical, clear visual, or verbal contact that is not brief and inadvertent;
 
-(26) the term “adult inmate” means an individual who—
+(26) the term “adult inmate”—
 
-  (A) has reached the age of full criminal responsibility under applicable State law; and
+  (A) means an individual who—
 
-  (B) has been arrested and is in custody for or awaiting trial on a criminal charge, or is convicted of a criminal offense;
+    (i) has reached the age of full criminal responsibility under applicable State law; and
+
+    (ii) has been arrested and is in custody for or awaiting trial on a criminal charge, or is convicted of a criminal offense; and
+
+  (B) does not include an individual who—
+
+    (i) at the time of the offense, was younger than the maximum age at which a youth can be held in a juvenile facility under applicable State law; and
+
+    (ii) was committed to the care and custody or supervision, including post-placement or parole supervision, of a juvenile correctional agency by a court of competent jurisdiction or by operation of applicable State law;
 
 (27) the term “violent crime” means—
 
@@ -309,13 +323,93 @@ For purposes of this chapter—
 
   (B) aggravated assault committed with the use of a firearm;
 
-(28) the term “collocated facilities” means facilities that are located in the same building, or are part of a related complex of buildings located on the same grounds; and
+(28) the term “collocated facilities” means facilities that are located in the same building, or are part of a related complex of buildings located on the same grounds;
 
 (29) the term “related complex of buildings” means 2 or more buildings that share—
 
   (A) physical features, such as walls and fences, or services beyond mechanical services (heating, air conditioning, water and sewer); or
 
-  (B) the specialized services that are allowable under section 31.303(e)(3)(i)(C)(3) of title 28 of the Code of Federal Regulations, as in effect on December 10, 1996.
+  (B) the specialized services that are allowable under section 31.303(e)(3)(i)(C)(3) of title 28 of the Code of Federal Regulations, as in effect on December 10, 1996;
+
+(30) the term “core requirements”—
+
+  (A) means the requirements described in paragraphs (11), (12), (13), and (15) of [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim); and
+
+  (B) does not include the data collection requirements described in subparagraphs (A) through (K) of [section 11117(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11117/1&num=0&edition=prelim);
+
+(31) the term “chemical agent” means a spray or injection used to temporarily incapacitate a person, including oleoresin capsicum spray, tear gas, and 2-chlorobenzalmalononitrile gas;
+
+(32) the term “isolation”—
+
+  (A) means any instance in which a youth is confined alone for more than 15 minutes in a room or cell; and
+
+  (B) does not include—
+
+    (i) confinement during regularly scheduled sleeping hours;
+
+    (ii) separation based on a treatment program approved by a licensed medical or mental health professional;
+
+    (iii) confinement or separation that is requested by the youth; or
+
+    (iv) the separation of the youth from a group in a nonlocked setting for the limited purpose of calming;
+
+(33) the term “restraints” has the meaning given that term in [section 290ii of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290ii&num=0&edition=prelim);
+
+(34) the term “evidence-based” means a program or practice that—
+
+  (A) is demonstrated to be effective when implemented with fidelity;
+
+  (B) is based on a clearly articulated and empirically supported theory;
+
+  (C) has measurable outcomes relevant to juvenile justice, including a detailed description of the outcomes produced in a particular population, whether urban or rural; and
+
+  (D) has been scientifically tested and proven effective through randomized control studies or comparison group studies and with the ability to replicate and scale;
+
+(35) the term “promising” means a program or practice that—
+
+  (A) is demonstrated to be effective based on positive outcomes relevant to juvenile justice from one or more objective, independent, and scientifically valid evaluations, as documented in writing to the Administrator; and
+
+  (B) will be evaluated through a well-designed and rigorous study, as described in paragraph (34)(D);
+
+(36) the term “dangerous practice” means an act, procedure, or program that creates an unreasonable risk of physical injury, pain, or psychological harm to a juvenile subjected to the act, procedure, or program;
+
+(37) the term “screening” means a brief process—
+
+  (A) designed to identify youth who may have mental health, behavioral health, substance abuse, or other needs requiring immediate attention, intervention, and further evaluation; and
+
+  (B) the purpose of which is to quickly identify a youth with possible mental health, behavioral health, substance abuse, or other needs in need of further assessment;
+
+(38) the term “assessment” includes, at a minimum, an interview and review of available records and other pertinent information—
+
+  (A) by an appropriately trained professional who is licensed or certified by the applicable State in the mental health, behavioral health, or substance abuse fields; and
+
+  (B) which is designed to identify significant mental health, behavioral health, or substance abuse treatment needs to be addressed during a youth’s confinement;
+
+(39) for purposes of [section 11133(a)(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/15&num=0&edition=prelim), the term “contact” means the points at which a youth and the juvenile justice system or criminal justice system officially intersect, including interactions with a juvenile justice, juvenile court, or law enforcement official;
+
+(40) the term “trauma-informed” means—
+
+  (A) understanding the impact that exposure to violence and trauma have on a youth’s physical, psychological, and psychosocial development;
+
+  (B) recognizing when a youth has been exposed to violence and trauma and is in need of help to recover from the adverse impacts of trauma; and
+
+  (C) responding in ways that resist retraumatization;
+
+(41) the term “racial and ethnic disparity” means minority youth populations are involved at a decision point in the juvenile justice system at disproportionately higher rates than non-minority youth at that decision point;
+
+(42) the term “status offender” means a juvenile who is charged with or who has committed an offense that would not be criminal if committed by an adult;
+
+(43) the term “rural” means an area that is not located in a metropolitan statistical area, as defined by the Office of Management and Budget;
+
+(44) the term “internal controls” means a process implemented to provide reasonable assurance regarding the achievement of objectives in—
+
+  (A) effectiveness and efficiency of operations, such as grant management practices;
+
+  (B) reliability of reporting for internal and external use; and
+
+  (C) compliance with applicable laws and regulations, as well as recommendations of the Office of Inspector General and the Government Accountability Office; and
+
+(45) the term “tribal government” means the governing body of an Indian Tribe.
 
 ### Statutory Notes
 
@@ -326,6 +420,28 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 Section was formerly classified to [section 5603 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5603&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Par. (8)(C), (D). Pub. L. 115–385, § 102(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or”.
+
+Par. (18). Pub. L. 115–385, § 102(2), inserted “for purposes of subchapter II,” before “the term” and inserted concluding provisions.
+
+Par. (22). Pub. L. 115–385, § 102(3), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “the term ‘jail or lockup for adults’ means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
+
+“(A) pending the filing of a charge of violating a criminal law;
+
+“(B) awaiting trial on a criminal charge; or
+
+“(C) convicted of violating a criminal law;”.
+
+Par. (25). Pub. L. 115–385, § 102(4), amended par. (25) generally. Prior to amendment, par. (25) read as follows: “the term ‘contact’ means the degree of interaction allowed between juvenile offenders in a secure custody status and incarcerated adults under section 31.303(d)(1)(i) of title 28, Code of Federal Regulations, as in effect on December 10, 1996;”.
+
+Par. (26). Pub. L. 115–385, § 102(5), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “the term ‘adult inmate’ means an individual who—
+
+“(A) has reached the age of full criminal responsibility under applicable State law; and
+
+“(B) has been arrested and is in custody for or awaiting trial on a criminal charge, or is convicted of a criminal offense;”.
+
+Pars. (30) to (45). Pub. L. 115–385, § 102(6)–(8), added pars. (30) to (45).
+
 2002—Par. (3). Pub. L. 107–273, § 12204(1), substituted “designed to reduce known risk factors for juvenile delinquent behavior, provides activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior” for “to help prevent juvenile delinquency”.
 
 Par. (4). Pub. L. 107–273, § 12204(2), made technical amendment to references in original act which appear in text as references to sections 3741, 3711, 3722 and 3732 of this title.
@@ -393,6 +509,9 @@ Pars. (13), (14). Pub. L. 96–509, § 5(f), added pars. (13) and (14). Former p
 Par. (15). Pub. L. 96–509, § 5(f), (g), redesignated former par. (13) as (15), inserted reference to special education, and substituted “protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use” for “protect the public and benefit the addict or other user by eliminating his dependence on addicting or other drugs or by controlling his dependence, and his susceptibility to addiction or use”.
 
 1977—Par. (3). Pub. L. 95–115 substituted “to help prevent delinquency” for “who are in danger of becoming delinquent”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -547,7 +666,7 @@ Section was formerly classified to [section 5613 of Title 42](https://uscode.hou
 ## § 11114. Concentration of Federal efforts
 **(a) Implementation of policy by Administrator; consultation with Council and Advisory Committee**
 
-(1) The Administrator shall develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan, for all Federal juvenile delinquency programs and activities relating to prevention, diversion, training, treatment, rehabilitation, evaluation, research, and improvement of the juvenile justice system in the United States. In carrying out the functions of the Administrator, the Administrator shall consult with the Council.
+(1) The Administrator shall develop objectives, priorities, and a long-term plan to improve the juvenile justice system in the United States, taking into account scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents, and shall implement overall policy and a strategy to carry out such plan, for all Federal juvenile delinquency programs and activities relating to prevention, diversion, training, treatment, rehabilitation, evaluation, and research. In carrying out the functions of the Administrator, the Administrator shall consult with the Council.
 
 (2)
 
@@ -557,11 +676,7 @@ Section was formerly classified to [section 5613 of Title 42](https://uscode.hou
 
     (ii) provide for coordinating the administration programs and activities under this subchapter with the administration of all other Federal juvenile delinquency programs and activities, including proposals for joint funding to be coordinated by the Administrator.
 
-  (B) The Administrator shall review the plan described in paragraph (1) annually, revise the plan as the Administrator considers appropriate, and publish the plan in the Federal Register—
-
-    (i) not later than 240 days after November 4, 1992, in the case of the initial plan required by paragraph (1); and
-
-    (ii) except as provided in clause (i), in the 30-day period ending on October 1 of each year.
+  (B) The Administrator shall review the plan described in paragraph (1) annually, revise the plan as the Administrator considers appropriate, and publish the plan in the Federal Register during the 30-day period ending on October 1 of each year.
 
 **(b) Duties of Administrator** In carrying out the purposes of this chapter, the Administrator shall—
 
@@ -573,15 +688,15 @@ Section was formerly classified to [section 5613 of Title 42](https://uscode.hou
 
 (4) implement Federal juvenile delinquency programs and activities among Federal departments and agencies and between Federal juvenile delinquency programs and activities and other Federal programs and activities which the Administrator determines may have an important bearing on the success of the entire Federal juvenile delinquency effort;
 
-(5)
+(5) not later than 1 year after December 21, 2018, in consultation with Indian Tribes, develop a policy for the Office of Juvenile Justice and Delinquency Prevention to collaborate with representatives of Indian Tribes with a criminal justice function on the implementation of the provisions of this chapter relating to Indian Tribes;
+
+(6)
 
   (A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
 
-  (B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E;
+  (B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
 
-(6) provide for the auditing of monitoring systems required under section 11133(a)(15) 11 See References in Text note below. of this title to review the adequacy of such systems; and
-
-(7) not later than 1 year after November 2, 2002, issue model standards for providing mental health care to incarcerated juveniles.
+(7) provide for the auditing of systems required under [section 11133(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/14&num=0&edition=prelim) for monitoring compliance.
 
 **(c) Information, reports, studies, and surveys from other agencies** The Administrator may require, through appropriate authority, Federal departments and agencies engaged in any activity involving any Federal juvenile delinquency program to provide the Administrator with such information as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency.
 
@@ -596,14 +711,24 @@ Section was formerly classified to [section 5613 of Title 42](https://uscode.hou
 #### References in Text
 This chapter, referred to in subsecs. (b), (d), and (f), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
-[Section 11133(a)(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/15&num=0&edition=prelim), referred to in subsec. (b)(6), was redesignated [section 11133(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/14&num=0&edition=prelim) by Pub. L. 107–273, div. C, title II, § 12209(1)(S), Nov. 2, 2002, 116 Stat. 1879.
-
 #### Codification
 Section was formerly classified to [section 5614 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5614&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
-November 2, 2002, referred to in subsec. (b)(7), was in the original “the date of the enactment of this paragraph” which was translated as meaning the date of enactment of Pub. L. 107–273, which amended par. (7) generally, to reflect the probable intent of Congress.
-
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–385, § 201(1)(A), substituted “a long-term plan to improve the juvenile justice system in the United States, taking into account scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents, and shall implement” for “a long-term plan, and implement” and “and research” for “research, and improvement of the juvenile justice system in the United States”.
+
+Subsec. (a)(2)(B). Pub. L. 115–385, § 201(1)(B), substituted “Federal Register during the 30-day period ending on October 1 of each year.” for “Federal Register—
+
+“(i) not later than 240 days after November 4, 1992, in the case of the initial plan required by paragraph (1); and
+
+“(ii) except as provided in clause (i), in the 30-day period ending on October 1 of each year.”
+
+Subsec. (b)(5). Pub. L. 115–385, § 201(2)(C), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (b)(6). Pub. L. 115–385, § 201(2)(B), (D), redesignated par. (5) as (6) and inserted “and” at end. Former par. (6) redesignated (7).
+
+Subsec. (b)(7). Pub. L. 115–385, § 201(2)(A), (B), (E), redesignated par. (6) as (7), substituted “auditing of systems required under [section 11133(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/14&num=0&edition=prelim) for monitoring compliance.” for “auditing of monitoring systems required under [section 11133(a)(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/15&num=0&edition=prelim) to review the adequacy of such systems; and”, and struck out former par. (7) which read as follows: “not later than 1 year after November 2, 2002, issue model standards for providing mental health care to incarcerated juveniles.”
+
 2002—Subsec. (b)(3). Pub. L. 107–273, § 12205(1)(A), struck out “and of the prospective performance and results that might be achieved by alternative programs and activities supplementary to or in lieu of those currently being administered” before semicolon at end.
 
 Subsec. (b)(5). Pub. L. 107–273, § 12205(1)(B), substituted “parts D and E” for “parts C and D” wherever appearing.
@@ -712,6 +837,9 @@ Subsec. (l)(1). Pub. L. 95–115, § 3(b)(8), inserted “Associate” before �
 
 Subsec. (b)(6). Pub. L. 94–273, § 12(3), substituted “June” for “March”.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
@@ -754,11 +882,11 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 ## § 11116. Coordinating Council on Juvenile Justice and Delinquency Prevention
 **(a) Establishment; membership**
 
-(1) There is hereby established, as an independent organization in the executive branch of the Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
+(1) There is hereby established, as an independent organization in the executive branch of the Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Assistant Secretary for Mental Health and Substance Use, the Secretary of the Interior, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Assistant Secretary for Immigration and Customs Enforcement, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
 
 (2)
 
-  (A) Ten members shall be appointed, without regard to political affiliation, to the Council in accordance with this paragraph from among individuals who are practitioners in the field of juvenile justice and who are not officers or employees of the United States.
+  (A) Ten members shall be appointed, without regard to political affiliation, to the Council in accordance with this paragraph from among individuals who are practitioners in the field of juvenile justice and who are not officers or employees of the Federal Government.
 
   (B)
 
@@ -789,13 +917,21 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 **(c) Functions**
 
-(1) The function of the Council shall be to coordinate all Federal juvenile delinquency programs (in cooperation with State and local juvenile justice programs) all Federal programs and activities that detain or care for unaccompanied juveniles, and all Federal programs relating to missing and exploited children. The Council shall examine how the separate programs can be coordinated among Federal, State, and local governments to better serve at-risk children and juveniles and shall make recommendations to the President, and to the Congress, at least annually with respect to the coordination of overall policy and development of objectives and priorities for all Federal juvenile delinquency programs and activities and all Federal programs and activities that detain or care for unaccompanied juveniles. The Council shall review the programs and practices of Federal agencies and report on the degree to which Federal agency funds are used for purposes which are consistent or inconsistent with the mandates of paragraphs (12)(A), (13), and (14) of [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim). The Council shall review, and make recommendations with respect to, any joint funding proposal undertaken by the Office of Juvenile Justice and Delinquency Prevention and any agency represented on the Council. The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody.
+(1) The function of the Council shall be to coordinate all Federal juvenile delinquency programs (in cooperation with State and local juvenile justice programs) all Federal programs and activities that detain or care for unaccompanied juveniles, and all Federal programs relating to missing and exploited children. The Council shall examine how the separate programs can be coordinated among Federal, State, and local governments to better serve at-risk children and juveniles and shall make recommendations to the President, and to the Congress, at least annually with respect to the coordination of overall policy and development of objectives and priorities for all Federal juvenile delinquency programs and activities and all Federal programs and activities that detain or care for unaccompanied juveniles. The Council shall review the programs and practices of Federal agencies and report on the degree to which Federal agency funds are used for purposes which are consistent or inconsistent with the mandates of the core requirements. The Council shall review, and make recommendations with respect to, any joint funding proposal undertaken by the Office of Juvenile Justice and Delinquency Prevention and any agency represented on the Council. The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody.
 
-(2) In addition to performing their functions as members of the Council, the members appointed under subsection (a)(2) shall collectively—
+(2) In addition to performing their functions as members of the Council, the members appointed under subsection (a)(2) shall collectively, on an annual basis—
 
   (A) make recommendations regarding the development of the objectives, priorities, and the long-term plan, and the implementation of overall policy and the strategy to carry out such plan, referred to in [section 11114(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11114/a/1&num=0&edition=prelim); and
 
-  (B) not later than 180 days after November 4, 1992, submit such recommendations to the Administrator, the Chairman of the Committee on Education and the Workforce of the House of Representatives, and the Chairman of the Committee on the Judiciary of the Senate.
+  (B) not later than 120 days after the completion of the last meeting of the Council during any fiscal year, submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on the Judiciary of the Senate a report that—
+
+    (i) contains the recommendations described in subparagraph (A);
+
+    (ii) includes a detailed account of the activities conducted by the Council during the fiscal year, including a complete detailed accounting of expenses incurred by the Council to conduct operations in accordance with this section;
+
+    (iii) is published on the websites of the Office of Juvenile Justice and Delinquency Prevention, the Council, and the Department of Justice; and
+
+    (iv) is in addition to the annual report required under [section 11117 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11117).
 
 **(d) Meetings** The Council shall meet at least quarterly.
 
@@ -811,6 +947,16 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 Section was formerly classified to [section 5616 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5616&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–385, § 202(1)(A), inserted “the Assistant Secretary for Mental Health and Substance Use, the Secretary of the Interior,” after “the Secretary of Health and Human Services,” and substituted “Assistant Secretary for Immigration and Customs Enforcement” for “Commissioner of Immigration and Naturalization”.
+
+Subsec. (a)(2)(A). Pub. L. 115–385, § 202(1)(B), substituted “Federal Government” for “United States”.
+
+Subsec. (c)(1). Pub. L. 115–385, § 202(2)(A), substituted “the core requirements” for “paragraphs (12)(A), (13), and (14) of [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim)”.
+
+Subsec. (c)(2). Pub. L. 115–385, § 202(2)(B)(i), inserted “, on an annual basis” after “collectively” in introductory provisions.
+
+Subsec. (c)(2)(B). Pub. L. 115–385, § 202(2)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “not later than 180 days after November 4, 1992, submit such recommendations to the Administrator, the Chairman of the Committee on Education and the Workforce of the House of Representatives, and the Chairman of the Committee on the Judiciary of the Senate.”
+
 2010—Subsec. (a)(2)(A). Pub. L. 111–211, § 246(b)(1), substituted “Ten” for “Nine”.
 
 Subsec. (a)(2)(B)(iv). Pub. L. 111–211, § 246(b)(2), added cl. (iv).
@@ -867,6 +1013,9 @@ Subsec. (e). Pub. L. 95–115, § 3(d)(4), redesignated former par. (3) as entir
 
 1976—Subsec. (a)(1). Pub. L. 94–237 substituted “Office of Drug Abuse Policy” for “Special Action Office for Drug Abuse Prevention”.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
@@ -892,21 +1041,31 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 <a id="section-11117"></a>
 ## § 11117. Annual report
 
-Not later than 180 days after the end of a fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
+Not later than 180 days after the end of each fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
 
 (1) A detailed summary and analysis of the most recent data available regarding the number of juveniles taken into custody, the rate at which juveniles are taken into custody, and the trends demonstrated by the data required by subparagraphs (A), (B), and (C). Such summary and analysis shall set out the information required by subparagraphs (A), (B), (C), and (D) separately for juvenile nonoffenders, juvenile status offenders, and other juvenile offenders. Such summary and analysis shall separately address with respect to each category of juveniles specified in the preceding sentence—
 
   (A) the types of offenses with which the juveniles are charged;
 
-  (B) the race and gender of the juveniles;
+  (B) the race, gender, and ethnicity, as such term is defined by the Bureau of the Census, of the juveniles;
 
   (C) the ages of the juveniles;
 
   (D) the types of facilities used to hold the juveniles (including juveniles treated as adults for purposes of prosecution) in custody, including secure detention facilities, secure correctional facilities, jails, and lockups;
 
-  (E) the number of juveniles who died while in custody and the circumstances under which they died; and
+  (E) the number of juveniles who died while in custody and the circumstances under which they died;
 
-  (F) the educational status of juveniles, including information relating to learning disabilities, failing performance, grade retention, and dropping out of school.
+  (F) the educational status of juveniles, including information relating to learning and other disabilities, failing performance, grade retention, and dropping out of school;
+
+  (G) a summary of data from 1 month of the applicable fiscal year of the use of restraints and isolation upon juveniles held in the custody of secure detention and correctional facilities operated by a State or unit of local government;
+
+  (H) the number of status offense cases petitioned to court, number of status offenders held in secure detention, the findings used to justify the use of secure detention, and the average period of time a status offender was held in secure detention;
+
+  (I) the number of juveniles released from custody and the type of living arrangement to which they are released;
+
+  (J) the number of juveniles whose offense originated on school grounds, during school-sponsored off-campus activities, or due to a referral by a school official, as collected and reported by the Department of Education or similar State educational agency; and
+
+  (K) the number of juveniles in the custody of secure detention and correctional facilities operated by a State or unit of local or tribal government who report being pregnant.
 
 (2) A description of the activities for which funds are expended under this part, including the objectives, priorities, accomplishments, and recommendations of the Council.
 
@@ -914,7 +1073,34 @@ Not later than 180 days after the end of a fiscal year, the Administrator shall 
 
 (4) An evaluation of the programs funded under this subchapter and their effectiveness in reducing the incidence of juvenile delinquency, particularly violent crime, committed by juveniles.
 
+(5) A description of the criteria used to determine what programs qualify as evidence-based and promising programs under this subchapter and subchapter V and a comprehensive list of those programs the Administrator has determined meet such criteria in both rural and urban areas.
+
+(6) A description of funding provided to Indian Tribes under this chapter or for a juvenile delinquency or prevention program under the Tribal Law and Order Act of 2010 (Public Law 111–211; 124 Stat. 2261), including direct Federal grants and funding provided to Indian Tribes through a State or unit of local government.
+
+(7) An analysis and evaluation of the internal controls at the Office of Juvenile Justice and Delinquency Prevention to determine if grantees are following the requirements of the Office of Juvenile Justice and Delinquency Prevention grant programs and what remedial action the Office of Juvenile Justice and Delinquency Prevention has taken to recover any grant funds that are expended in violation of the grant programs, including instances—
+
+  (A) in which supporting documentation was not provided for cost reports;
+
+  (B) where unauthorized expenditures occurred; or
+
+  (C) where subrecipients of grant funds were not compliant with program requirements.
+
+(8) An analysis and evaluation of the total amount of payments made to grantees that the Office of Juvenile Justice and Delinquency Prevention recouped from grantees that were found to be in violation of policies and procedures of the Office of Juvenile Justice and Delinquency Prevention grant programs, including—
+
+  (A) the full name and location of the grantee;
+
+  (B) the violation of the program found;
+
+  (C) the amount of funds sought to be recouped by the Office of Juvenile Justice and Delinquency Prevention; and
+
+  (D) the actual amount recouped by the Office of Juvenile Justice and Delinquency Prevention.
+
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in par. (6), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+The Tribal Law and Order Act of 2010, referred to in par. (6), is title II of Pub. L. 111–211, July 29, 2010, 124 Stat. 2261. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 2801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2801&num=0&edition=prelim), Indians, and Tables.
 
 #### Codification
 Section was formerly classified to [section 5617 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5617&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -925,6 +1111,16 @@ A prior section 207 of title II of Pub. L. 93–415, as added Pub. L. 96–509, 
 Another prior section 207 of title II of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1117; Pub. L. 95–115, § 3(e), Oct. 3, 1977, 91 Stat. 1050, related to National Advisory Committee for Juvenile Justice and Delinquency Prevention, its membership, terms of office, etc., prior to repeal by Pub. L. 96–509, § 9, Dec. 8, 1980, 94 Stat. 2753.
 
 #### Amendments
+2018—Pub. L. 115–385, § 203(1), substituted “each fiscal year” for “a fiscal year” in introductory provisions.
+
+Par. (1)(B). Pub. L. 115–385, § 203(2)(A), substituted “, gender, and ethnicity, as such term is defined by the Bureau of the Census,” for “and gender”.
+
+Par. (1)(F). Pub. L. 115–385, § 203(2)(C), inserted “and other” before “disabilities,” and substituted semicolon for period at end.
+
+Par. (1)(G) to (K). Pub. L. 115–385, § 203(2)(B), (D), added subpars. (G) to (K).
+
+Pars. (5) to (8). Pub. L. 115–385, § 203(3), added pars. (5) to (8).
+
 2002—Pars. (4), (5). Pub. L. 107–273 added par. (4) and struck out former pars. (4) and (5) which read as follows:
 
 “(4) A summary of each program or activity for which assistance is provided under part C or D of this subchapter, an evaluation of the results of such program or activity, and a determination of the feasibility and advisability of replicating such program or activity in other locations.
@@ -934,6 +1130,9 @@ Another prior section 207 of title II of Pub. L. 93–415, Sept. 7, 1974, 88 Sta
 1992—Par. (1)(D). Pub. L. 102–586, § 2(e)(1)(A), inserted “(including juveniles treated as adults for purposes of prosecution)”.
 
 Par. (1)(F). Pub. L. 102–586, § 2(e)(1)(B), (2), (3), added subpar. (F).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -951,7 +1150,7 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 **(b)**
 
-(1) With not to exceed 2 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments 11 So in original. Probably should be “units of local governments”. (and combinations thereof), and local private agencies to facilitate compliance with [section 11133 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11133) and implementation of the State plan approved under [section 11133(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/c&num=0&edition=prelim).
+(1) With not to exceed 5 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments 11 So in original. Probably should be “units of local governments”. (and combinations thereof), and local private agencies to facilitate compliance with [section 11133 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11133) and implementation of the State plan approved under [section 11133(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/c&num=0&edition=prelim).
 
 (2) Grants and contracts may be made under paragraph (1) only to public and private agencies, organizations, and individuals that have experience in providing such technical assistance.
 
@@ -961,6 +1160,8 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 Section was formerly classified to [section 5631 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5631&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–385 substituted “5 percent” for “2 percent”.
+
 2002—Subsec. (b)(2). Pub. L. 107–273 struck out at end “In providing such technical assistance, the recipient of a grant or contract under this subsection shall coordinate its activities with the State agency described in [section 5671(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5671/c/1&num=0&edition=prelim).”
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “units of local government” for “units of general local government”.
@@ -974,6 +1175,9 @@ Pub. L. 102–586, § 2(f)(1)(B), made technical amendment to reference to [sect
 1984—Pub. L. 98–473 amended section catchline.
 
 1977—Pub. L. 95–115 inserted “grants and” before “contracts” and substituted “units of general local government or combinations thereof” for “local governments”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -989,21 +1193,27 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 ## § 11132. Allocation of funds
 **(a) Time; basis; amounts**
 
-(1) Subject to paragraph (2) and in accordance with regulations promulgated under this part, funds shall be allocated annually among the States on the basis of relative population of people under age eighteen.
+(1) Subject to paragraph (2) and in accordance with regulations promulgated under this part, funds shall be allocated annually among the States on the basis of relative population of people under 18 years of age, based on the most recent data available from the Bureau of the Census.
 
 (2)
 
-  (A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 2000, each.
+  (A) If the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then—
 
-  (B) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $600,000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 2000, each.
+    (i) the amount allocated to each State other than a State described in clause (ii) for that fiscal year shall be not less than $400,000; and
 
-(3) If, as a result of paragraph (2), the amount allocated to a State for a fiscal year would be less than the amount allocated to such State for fiscal year 2000, then the amounts allocated to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allocate to such State for the fiscal year the amount allocated to such State for fiscal year 2000.
+    (ii) the amount allocated to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands for that fiscal year shall be not less than $75,000.
+
+  (B) If the aggregate amount appropriated for a fiscal year to carry out this subchapter is not less than $75,000,000, then—
+
+    (i) the amount allocated to each State other than a State described in clause (ii) for that fiscal year shall be not less than $600,000; and
+
+    (ii) the amount allocated to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands for that fiscal year shall be not less than $100,000.
 
 **(b) Reallocation of unobligated funds** If any amount so allocated remains unobligated at the end of the fiscal year, such funds shall be reallocated in a manner equitable and consistent with the purpose of this part. Any amount so reallocated shall be in addition to the amounts already allocated and available to the State, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands for the same period.
 
-**(c) Use of allocated funds for development, etc., of State plans; limitations; matching requirements** In accordance with regulations promulgated under this part, a portion of any allocation to any State under this part shall be available to develop a State plan or for other pre-award activities associated with such State plan, and to pay that portion of the expenditures which are necessary for efficient administration, including monitoring, evaluation, and one full-time staff position. Not more than 10 percent of the total annual allocation of such State shall be available for such purposes except that any amount expended or obligated by such State, or by units of local government or any combination thereof, from amounts made available under this subsection shall be matched (in an amount equal to any such amount so expended or obligated) by such State, or by such units or combinations, from State or local funds, as the case may be. The State shall make available needed funds for planning and administration to units of local government or combinations thereof within the State on an equitable basis.
+**(c) Use of allocated funds for development, etc., of State plans; limitations; matching requirements** In accordance with regulations promulgated under this part, a portion of any allocation to any State under this part shall be available to develop a State plan or for other pre-award activities associated with such State plan, and to pay that portion of the expenditures which are necessary for effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements. Not more than 10 percent of the total annual allocation of such State shall be available for such purposes except that any amount expended or obligated by such State, or by units of local government or any combination thereof, from amounts made available under this subsection shall be matched (in an amount equal to any such amount so expended or obligated) by such State, or by such units or combinations, from State or local funds, as the case may be. The State shall make available needed funds for planning and administration to units of local government or combinations thereof within the State on an equitable basis.
 
-**(d) Minimum annual allocation for assistance of advisory group** In accordance with regulations promulgated under this part, 5 per centum of the minimum annual allocation to any State under this part shall be available to assist the advisory group established under [section 11133(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/3&num=0&edition=prelim).
+**(d) Minimum annual allocation for assistance of advisory group** In accordance with regulations promulgated under this part, not more than 5 percent of the annual allocation to any State under this part shall be available to assist the advisory group established under [section 11133(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/3&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1011,6 +1221,14 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 Section was formerly classified to [section 5632 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5632&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–385, § 204(b)(1)(A), substituted “18 years of age, based on the most recent data available from the Bureau of the Census” for “age eighteen”.
+
+Subsec. (a)(2), (3). Pub. L. 115–385, § 204(b)(1)(B), added par. (2) and struck out former pars. (2) and (3) which set out allocated amounts to States depending on whether aggregate appropriations were less than, equal to, or more than $75,000,000 and stipulated a condition if the amount allocated would be less than the amount allocated to the State for fiscal year 2000.
+
+Subsec. (c). Pub. L. 115–385, § 204(b)(2), substituted “effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements” for “efficient administration, including monitoring, evaluation, and one full-time staff position”.
+
+Subsec. (d). Pub. L. 115–385, § 204(b)(3), substituted “not more than 5 percent of the” for “5 per centum of the minimum”.
+
 2002—Subsec. (a)(2)(A). Pub. L. 107–273, § 12208(1)(A)(i), struck out “(other than parts D and E)” after “carry out this subchapter”, substituted “amount up to $400,000” for “amount, up to $400,000,”, “fiscal year 2000, except” for “fiscal year 1992 except”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000, each” for “fiscal year 1992, each”, and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
 Subsec. (a)(2)(B). Pub. L. 107–273, § 12208(1)(A)(ii), struck out “(other than part D)” after “carry out this subchapter”, substituted “less than $600,000” for “less than $400,000”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000,” for “fiscal year 1992”, and struck out “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” before “except that” and “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
@@ -1051,6 +1269,9 @@ Subsec. (d). Pub. L. 95–115, § 4(b)(2)(C), (4)(B), redesignated subsec. (e) a
 
 Subsec. (e). Pub. L. 95–115, § 4(b)(4)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (d).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
@@ -1070,9 +1291,9 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
 <a id="section-11133"></a>
 ## § 11133. State plans
-**(a) Requirements** In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe the status of compliance with State plan requirements. In accordance with regulations which the Administrator shall prescribe, such plan shall—
+**(a) Requirements** In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State’s publicly available website. In accordance with regulations which the Administrator shall prescribe, such plan shall—
 
-(1) designate the State agency described in [section 11181(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11181/c/1&num=0&edition=prelim) as the sole agency for supervising the preparation and administration of the plan;
+(1) designate the State agency as designated by the chief executive officer of the State as the sole agency for supervising the preparation and administration of the plan;
 
 (2) contain satisfactory evidence that the State agency designated in accordance with paragraph (1) has or will have authority, by legislation if necessary, to implement such plan in conformity with this part;
 
@@ -1080,7 +1301,7 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
   (A) shall consist of not less than 15 and not more than 33 members appointed by the chief executive officer of the State—
 
-    (i) which members have training, experience, or special knowledge concerning the prevention and treatment of juvenile delinquency, the administration of juvenile justice, or the reduction of juvenile delinquency;
+    (i) which members have training, experience, or special knowledge concerning adolescent development, the prevention and treatment of juvenile delinquency, the administration of juvenile justice, or the reduction of juvenile delinquency;
 
     (ii) which members include—
 
@@ -1088,41 +1309,45 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
       (II) representatives of law enforcement and juvenile justice agencies, including juvenile and family court judges, prosecutors, counsel for children and youth, and probation workers;
 
-      (III) representatives of public agencies concerned with delinquency prevention or treatment, such as welfare, social services, mental health, education, special education, recreation, and youth services;
+      (III) representatives of public agencies concerned with delinquency prevention or treatment, such as welfare, social services, child and adolescent mental health, education, child and adolescent substance abuse, special education, services for youth with disabilities, recreation, and youth services;
 
       (IV) representatives of private nonprofit organizations, including persons with a special focus on preserving and strengthening families, parent groups and parent self-help groups, youth development, delinquency prevention and treatment, neglected or dependent children, the quality of juvenile justice, education, and social services for children;
 
-      (V) volunteers who work with delinquents or potential delinquents;
+      (V) volunteers who work with delinquent youth or youth at risk of delinquency;
 
-      (VI) youth workers involved with programs that are alternatives to incarceration, including programs providing organized recreation activities;
+      (VI) representatives of programs that are alternatives to incarceration, including programs providing organized recreation activities;
 
-      (VII) persons with special experience and competence in addressing problems related to school violence and vandalism and alternatives to suspension and expulsion; and
+      (VII) persons with special experience and competence in addressing problems related to school violence and vandalism and alternatives to suspension and expulsion;
 
-      (VIII) persons with special experience and competence in addressing problems related to learning disabilities, emotional difficulties, child abuse and neglect, and youth violence;
+      (VIII) persons, licensed or certified by the applicable State, with expertise and competence in preventing and addressing mental health and substance abuse needs in delinquent youth and youth at risk of delinquency;
+
+      (IX) representatives of victim or witness advocacy groups, including at least one individual with expertise in addressing the challenges of sexual abuse and exploitation and trauma, particularly the needs of youth who experience disproportionate levels of sexual abuse, exploitation, and trauma before entering the juvenile justice system; and
+
+      (X) for a State in which one or more Indian Tribes are located, an Indian tribal representative (if such representative is available) or other individual with significant expertise in tribal law enforcement and juvenile justice in Indian tribal communities;
 
     (iii) a majority of which members (including the chairperson) shall not be full-time employees of the Federal, State, or local government;
 
-    (iv) at least one-fifth of which members shall be under the age of 24 at the time of appointment; and
+    (iv) at least one-fifth of which members shall be under the age of 28 at the time of initial appointment; and
 
-    (v) at least 3 members who have been or are currently under the jurisdiction of the juvenile justice system;
+    (v) at least 3 members who have been or are currently under the jurisdiction of the juvenile justice system or, if not feasible and in appropriate circumstances, who is the parent or guardian of someone who has been or is currently under the jurisdiction of the juvenile justice system;
 
   (B) shall participate in the development and review of the State’s juvenile justice plan prior to submission to the supervisory board for final action;
 
-  (C) shall be afforded the opportunity to review and comment, not later than 30 days after their submission to the advisory group, on all juvenile justice and delinquency prevention grant applications submitted to the State agency designated under paragraph (1);
+  (C) shall be afforded the opportunity to review and comment, not later than 45 days after their submission to the advisory group, on all juvenile justice and delinquency prevention grant applications submitted to the State agency designated under paragraph (1);
 
   (D) shall, consistent with this subchapter—
 
-    (i) advise the State agency designated under paragraph (1) and its supervisory board; and
+    (i) advise the State agency designated under paragraph (1) and its supervisory board;
 
-    (ii) submit to the chief executive officer and the legislature of the State at least annually recommendations regarding State compliance with the requirements of paragraphs (11), (12), and (13); and
+    (ii) submit to the chief executive officer and the legislature of the State at least every 2 years a report and necessary recommendations regarding State compliance with the core requirements; and
 
     (iii) contact and seek regular input from juveniles currently under the jurisdiction of the juvenile justice system; and
 
   (E) may, consistent with this subchapter—
 
-    (i) advise on State supervisory board and local criminal justice advisory board composition; 11 So in original. Probably should be followed by “and”.
+    (i) advise on State supervisory board and local criminal justice advisory board composition; and
 
-    (ii) review progress and accomplishments of projects funded under the State plan.
+    (ii) review progress and accomplishments of projects funded under the State plan;
 
 (4) provide for the active consultation with and participation of units of local government or combinations thereof in the development of a State plan which adequately takes into account the needs and requests of units of local government, except that nothing in the plan requirements, or any regulations promulgated to carry out such requirements, shall be construed to prohibit or impede the State from making grants to, or entering into contracts with, local private agencies or the advisory group;
 
@@ -1132,13 +1357,13 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
   (B) through programs of local private agencies, to the extent such programs are consistent with the State plan, except that direct funding of any local private agency by a State shall be permitted only if such agency requests such funding after it has applied for and been denied funding by any unit of local government or combination thereof; and
 
-  (C) to provide funds for programs of Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior) and that agree to attempt to comply with the requirements specified in paragraphs (11), (12), and (13), applicable to the detention and confinement of juveniles, an amount that bears the same ratio to the aggregate amount to be expended through programs referred to in subparagraphs (A) and (B) as the population under 18 years of age in the geographical areas in which such tribes perform such functions bears to the State population under 18 years of age,22 So in original. The comma probably should be a semicolon.
+  (C) to provide funds for programs of Indian Tribes that agree to attempt to comply with the core requirements applicable to the detention and confinement of juveniles, an amount that bears the same ratio to the aggregate amount to be expended through programs referred to in subparagraphs (A) and (B) as the population under 18 years of age in the geographical areas in which such tribes perform such functions bears to the State population under 18 years of age,11 So in original. The comma probably should be a semicolon.
 
 (6) provide for an equitable distribution of the assistance received under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) within the State, including in rural areas;
 
 (7)
 
-  (A) provide for an analysis of juvenile delinquency problems in, and the juvenile delinquency control and delinquency prevention needs (including educational needs) of, the State (including any geographical area in which an Indian tribe performs law enforcement functions), a description of the services to be provided, and a description of performance goals and priorities, including a specific statement of the manner in which programs are expected to meet the identified juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) of the State; and
+  (A) provide for an analysis of juvenile delinquency problems in, and the juvenile delinquency control and delinquency prevention needs (including educational needs) of, the State (including any geographical area in which an Indian tribe has jurisdiction), a description of the services to be provided, and a description of performance goals and priorities, including a specific statement of the manner in which programs are expected to meet the identified juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) of the State; and
 
   (B) contain—
 
@@ -1146,23 +1371,43 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
     (ii) a plan for providing needed gender-specific services for the prevention and treatment of juvenile delinquency;
 
-    (iii) a plan for providing needed services for the prevention and treatment of juvenile delinquency in rural areas; and
+    (iii) a plan for providing needed services for the prevention and treatment of juvenile delinquency in rural areas;
 
-    (iv) a plan for providing needed mental health services to juveniles in the juvenile justice system, including information on how such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;
+    (iv) a plan to provide alternatives to detention for status offenders, survivors of commercial sexual exploitation, and others, where appropriate, such as specialized or problem-solving courts or diversion to home-based or community-based services or treatment for those youth in need of mental health, substance abuse, or co-occurring disorder services at the time such juveniles first come into contact with the juvenile justice system;
 
-(8) provide for the coordination and maximum utilization of existing juvenile delinquency programs, programs operated by public and private agencies and organizations, and other related programs (such as education, special education, recreation, health, and welfare programs) in the State;
+    (v) a plan to reduce the number of children housed in secure detention and corrections facilities who are awaiting placement in residential treatment programs;
 
-(9) provide that not less than 75 percent of the funds available to the State under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132), other than funds made available to the State advisory group under [section 11132(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11132/d&num=0&edition=prelim), whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for—
+    (vi) a plan to engage family members, where appropriate, in the design and delivery of juvenile delinquency prevention and treatment services, particularly post-placement;
+
+    (vii) a plan to use community-based services to respond to the needs of at-risk youth or youth who have come into contact with the juvenile justice system;
+
+    (viii) a plan to promote evidence-based and trauma-informed programs and practices; and
+
+    (ix) not later than 1 year after December 21, 2018, a plan which shall be implemented not later than 2 years after December 21, 2018, to—
+
+      (I) eliminate the use of restraints of known pregnant juveniles housed in secure juvenile detention and correction facilities, during labor, delivery, and post-partum recovery, unless credible, reasonable grounds exist to believe the detainee presents an immediate and serious threat of hurting herself, staff, or others; and
+
+      (II) eliminate the use of abdominal restraints, leg and ankle restraints, wrist restraints behind the back, and four-point restraints on known pregnant juveniles, unless—
+
+        (aa) credible, reasonable grounds exist to believe the detainee presents an immediate and serious threat of hurting herself, staff, or others; or
+
+        (bb) reasonable grounds exist to believe the detainee presents an immediate and credible risk of escape that cannot be reasonably minimized through any other method;
+
+(8) provide for the coordination and maximum utilization of evidence-based and promising juvenile delinquency programs, programs operated by public and private agencies and organizations, and other related programs (such as education, special education, recreation, health, and welfare programs) in the State;
+
+(9) provide that not less than 75 percent of the funds available to the State under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132), other than funds made available to the State advisory group under [section 11132(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11132/d&num=0&edition=prelim), whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for, with priority in funding given to entities meeting the criteria for evidence-based or promising programs—
 
   (A) community-based alternatives (including home-based alternatives) to incarceration and institutionalization including—
 
-    (i) for youth who need temporary placement: crisis intervention, shelter, and after-care; and
+    (i) for status offenders and other youth who need temporary placement: crisis intervention, shelter, and after-care;
 
-    (ii) for youth who need residential placement: a continuum of foster care or group home alternatives that provide access to a comprehensive array of services;
+    (ii) for youth who need residential placement: a continuum of foster care or group home alternatives that provide access to a comprehensive array of services; and
+
+    (iii) for youth who need specialized intensive and comprehensive services that address the unique issues encountered by youth when they become involved with gangs;
 
   (B) community-based programs and services to work with—
 
-    (i) parents and other family members to strengthen families, including parent self-help groups, so that juveniles may be retained in their homes;
+    (i) status offenders, other youth, and the parents and other family members of such offenders and youth to strengthen families, including parent self-help groups, so that juveniles may remain in their homes;
 
     (ii) juveniles during their incarceration, and with their families, to ensure the safe return of such juveniles to their homes and to strengthen the families; and
 
@@ -1172,33 +1417,39 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
   (D) programs that provide treatment to juvenile offenders who are victims of child abuse or neglect, and to their families, in order to reduce the likelihood that such juvenile offenders will commit subsequent violations of law;
 
-  (E) educational programs or supportive services for delinquent or other juveniles—
+  (E) educational programs or supportive services for at-risk or delinquent youth or other juveniles—
 
-    (i) to encourage juveniles to remain in elementary and secondary schools or in alternative learning situations;
+    (i) to encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including for truancy prevention and reduction;
 
     (ii) to provide services to assist juveniles in making the transition to the world of work and self-sufficiency; and
 
-    (iii) enhance 33 So in original. Probably should be “to enhance”. coordination with the local schools that such juveniles would otherwise attend, to ensure that—
+    (iii) enhance 22 So in original. Probably should be “to enhance”. coordination with the local schools that such juveniles would otherwise attend, to ensure that—
 
       (I) the instruction that juveniles receive outside school is closely aligned with the instruction provided in school; and
 
       (II) information regarding any learning problems identified in such alternative learning situations are communicated to the schools;
 
-  (F) expanding the use of probation officers—
+  (F) programs to expand the use of probation officers—
 
     (i) particularly for the purpose of permitting nonviolent juvenile offenders (including status offenders) to remain at home with their families as an alternative to incarceration or institutionalization; and
 
     (ii) to ensure that juveniles follow the terms of their probation;
 
-  (G) counseling, training, and mentoring programs, which may be in support of academic tutoring, vocational and technical training, and drug and violence prevention counseling, that are designed to link at-risk juveniles, juvenile offenders, or juveniles who have a parent or legal guardian who is or was incarcerated in a Federal, State, or local correctional facility or who is otherwise under the jurisdiction of a Federal, State, or local criminal justice system, particularly juveniles residing in low-income and high-crime areas and juveniles experiencing educational failure, with responsible individuals (such as law enforcement officials, Department of Defense personnel, individuals working with local businesses, and individuals working with community-based and faith-based organizations and agencies) who are properly screened and trained;
+  (G) programs—
 
-  (H) programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities, including on-the-job training programs to assist community services, law enforcement, and juvenile justice personnel to more effectively recognize and provide for learning disabled and other juveniles with disabilities;
+    (i) to ensure youth have access to appropriate legal representation; and
 
-  (I) projects designed both to deter involvement in illegal activities and to promote involvement in lawful activities on the part of gangs whose membership is substantially composed of youth;
+    (ii) to expand access to publicly supported, court-appointed legal counsel who are trained to represent juveniles in adjudication proceedings,
 
-  (J) programs and projects designed to provide for the treatment of youths’ dependence on or abuse of alcohol or other addictive or nonaddictive drugs;
+  (H) counseling, training, and mentoring programs, which may be in support of academic tutoring, vocational and technical training, and drug and violence prevention counseling, that are designed to link at-risk juveniles, juvenile offenders, or juveniles who have a parent or legal guardian who is or was incarcerated in a Federal, State, tribal, or local correctional facility or who is otherwise under the jurisdiction of a Federal, State, tribal, or local criminal justice system, particularly juveniles residing in low-income and high-crime areas and juveniles experiencing educational failure, with responsible individuals (such as law enforcement officials, Department of Defense personnel, individuals working with local businesses, and individuals working with community-based and faith-based organizations and agencies) who are properly screened and trained;
 
-  (K) programs for positive youth development that assist delinquent and other at-risk youth in obtaining—
+  (I) programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities, including on-the-job training programs to assist community services, law enforcement, and juvenile justice personnel to more effectively recognize and provide for learning disabled and other juveniles with disabilities;
+
+  (J) projects designed both to deter involvement in illegal activities and to promote involvement in lawful activities on the part of gangs whose membership is substantially composed of youth;
+
+  (K) programs and projects designed to provide for the treatment of youths’ dependence on or abuse of alcohol or other addictive or nonaddictive drugs;
+
+  (L) programs for positive youth development that assist delinquent and other at-risk youth in obtaining—
 
     (i) a sense of safety and structure;
 
@@ -1210,53 +1461,94 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
     (v) a sense of closeness in interpersonal relationships;
 
-  (L) programs that, in recognition of varying degrees of the seriousness of delinquent behavior and the corresponding gradations in the responses of the juvenile justice system in response to that behavior, are designed to—
+  (M) programs that, in recognition of varying degrees of the seriousness of delinquent behavior and the corresponding gradations in the responses of the juvenile justice system in response to that behavior, are designed to—
 
-    (i) encourage courts to develop and implement a continuum of post-adjudication restraints that bridge the gap between traditional probation and confinement in a correctional setting (including expanded use of probation, mediation, restitution, community service, treatment, home detention, intensive supervision, electronic monitoring, and similar programs, and secure community-based treatment facilities linked to other support services such as health, mental health, education (remedial and special), job training, and recreation); and
+    (i) encourage courts to develop and implement a continuum of pre-adjudication and post-adjudication alternatives that bridge the gap between traditional probation and confinement in a correctional setting (including specialized or problem-solving courts, expanded use of probation, mediation, restitution, community service, treatment, home detention, intensive supervision, electronic monitoring, and similar programs, and secure community-based treatment facilities linked to other support services such as health, mental health, education (remedial and special), job training, and recreation); and
 
-    (ii) assist in the provision by the provision 44 So in original. The words “by the provision” probably should not appear. by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
+    (ii) assist in the provision of information and technical assistance, including technology transfer, in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
 
-  (M) community-based programs and services to work with juveniles, their parents, and other family members during and after incarceration in order to strengthen families so that such juveniles may be retained in their homes;
+  (N) community-based programs and services to work with juveniles, their parents, and other family members during and after incarceration in order to strengthen families and reduce the risk of recidivism;
 
-  (N) programs (including referral to literacy programs and social service programs) to assist families with limited English-speaking ability that include delinquent juveniles to overcome language and other barriers that may prevent the complete treatment of such juveniles and the preservation of their families;
+  (O) programs (including referral to literacy programs and social service programs) to assist families with limited English-speaking ability that include delinquent juveniles to overcome language and other barriers that may prevent the complete treatment of such juveniles and the preservation of their families;
 
-  (O) programs designed to prevent and to reduce hate crimes committed by juveniles;
+  (P) programs designed to prevent and to reduce hate crimes committed by juveniles;
 
-  (P) after-school programs that provide at-risk juveniles and juveniles in the juvenile justice system with a range of age-appropriate activities, including tutoring, mentoring, and other educational and enrichment activities;
+  (Q) after-school programs that provide at-risk juveniles and juveniles in the juvenile justice system with a range of age-appropriate activities, including tutoring, mentoring, and other educational and enrichment activities;
 
-  (Q) community-based programs that provide follow-up post-placement services to adjudicated juveniles, to promote successful reintegration into the community;
+  (R) community-based programs that provide follow-up post-placement services to adjudicated juveniles, to promote successful reintegration into the community;
 
-  (R) projects designed to develop and implement programs to protect the rights of juveniles affected by the juvenile justice system; and
+  (S) projects designed to develop and implement programs to protect the rights of juveniles affected by the juvenile justice system;
 
-  (S) programs designed to provide mental health services for incarcerated juveniles suspected to be in need of such services, including assessment, development of individualized treatment plans, and discharge plans.
+  (T) programs designed to provide mental health or co-occurring disorder services for court-involved or incarcerated juveniles in need of such services, including assessment, development of individualized treatment plans, provision of treatment, and development of discharge plans;
+
+  (U) programs and projects designed—
+
+    (i) to inform juveniles of the opportunity and process for sealing and expunging juvenile records; and
+
+    (ii) to assist juveniles in pursuing juvenile record sealing and expungements for both adjudications and arrests not followed by adjudications;
+  except that the State may not use more than 2 percent of the funds received under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) for these purposes;
+
+  (V) programs that address the needs of girls in or at risk of entering the juvenile justice system, including pregnant girls, young mothers, survivors of commercial sexual exploitation or domestic child sex trafficking, girls with disabilities, and girls of color, including girls who are members of an Indian Tribe; and
+
+  (W) monitoring for compliance with the core requirements and providing training and technical assistance on the core requirements to secure facilities;
 
 (10) provide for the development of an adequate research, training, and evaluation capacity within the State;
 
-(11) shall, in accordance with rules issued by the Administrator, provide that—
+(11)
 
-  (A) juveniles who are charged with or who have committed an offense that would not be criminal if committed by an adult, excluding—
+  (A) in accordance with rules issued by the Administrator, provide that a juvenile shall not be placed in a secure detention facility or a secure correctional facility, if—
 
-    (i) juveniles who are charged with or who have committed a violation of [section 922(x)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/x/2&num=0&edition=prelim) or of a similar State law;
+    (i) the juvenile is charged with or has committed an offense that would not be criminal if committed by an adult, excluding—
 
-    (ii) juveniles who are charged with or who have committed a violation of a valid court order; and
+      (I) a juvenile who is charged with or has committed a violation of [section 922(x)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/x/2&num=0&edition=prelim) or of a similar State law;
 
-    (iii) juveniles who are held in accordance with the Interstate Compact on Juveniles as enacted by the State;
-    shall not be placed in secure detention facilities or secure correctional facilities; and
+      (II) a juvenile who is charged with or has committed a violation of a valid court order issued and reviewed in accordance with paragraph (23); and
 
-  (B) juveniles—
+      (III) a juvenile who is held in accordance with the Interstate Compact on Juveniles as enacted by the State; or
 
-    (i) who are not charged with any offense; and
+    (ii) the juvenile—
 
-    (ii) who are—
+      (I) is not charged with any offense; and
 
-      (I) aliens; or
+      (II)
 
-      (II) alleged to be dependent, neglected, or abused;
-    shall not be placed in secure detention facilities or secure correctional facilities;
+        (aa) is an alien; or
+
+        (bb) is alleged to be dependent, neglected, or abused; and
+
+  (B) require that—
+
+    (i) not later than 3 years after December 21, 2018, unless a court finds, after a hearing and in writing, that it is in the interest of justice, juveniles awaiting trial or other legal process who are treated as adults for purposes of prosecution in criminal court and housed in a secure facility—
+
+      (I) shall not have sight or sound contact with adult inmates; and
+
+      (II) except as provided in paragraph (13), may not be held in any jail or lockup for adults;
+
+    (ii) in determining under clause (i) whether it is in the interest of justice to permit a juvenile to be held in any jail or lockup for adults, or have sight or sound contact with adult inmates, a court shall consider—
+
+      (I) the age of the juvenile;
+
+      (II) the physical and mental maturity of the juvenile;
+
+      (III) the present mental state of the juvenile, including whether the juvenile presents an imminent risk of harm to the juvenile;
+
+      (IV) the nature and circumstances of the alleged offense;
+
+      (V) the juvenile’s history of prior delinquent acts;
+
+      (VI) the relative ability of the available adult and juvenile detention facilities to not only meet the specific needs of the juvenile but also to protect the safety of the public as well as other detained youth; and
+
+      (VII) any other relevant factor; and
+
+    (iii) if a court determines under clause (i) that it is in the interest of justice to permit a juvenile to be held in any jail or lockup for adults—
+
+      (I) the court shall hold a hearing not less frequently than once every 30 days, or in the case of a rural jurisdiction, not less frequently than once every 45 days, to review whether it is still in the interest of justice to permit the juvenile to be so held or have such sight or sound contact; and
+
+      (II) the juvenile shall not be held in any jail or lockup for adults, or permitted to have sight or sound contact with adult inmates, for more than 180 days, unless the court, in writing, determines there is good cause for an extension or the juvenile expressly waives this limitation;
 
 (12) provide that—
 
-  (A) juveniles alleged to be or found to be delinquent or juveniles within the purview of paragraph (11) will not be detained or confined in any institution in which they have contact with adult inmates; and
+  (A) juveniles alleged to be or found to be delinquent or juveniles within the purview of paragraph (11) will not be detained or confined in any institution in which they have sight or sound contact with adult inmates; and
 
   (B) there is in effect in the State a policy that requires individuals who work with both such juveniles and such adult inmates, including in collocated facilities, have been trained and certified to work with juveniles;
 
@@ -1269,13 +1561,13 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
     (ii) while awaiting transfer to a juvenile facility; or
 
     (iii) in which period such juveniles make a court appearance;
-    and only if such juveniles do not have contact with adult inmates and only if there is in effect in the State a policy that requires individuals who work with both such juveniles and adult inmates in collocated facilities have been trained and certified to work with juveniles;
+    and only if such juveniles do not have sight or sound contact with adult inmates and only if there is in effect in the State a policy that requires individuals who work with both such juveniles and adult inmates in collocated facilities have been trained and certified to work with juveniles;
 
   (B) juveniles who are accused of nonstatus offenses, who are awaiting an initial court appearance that will occur within 48 hours after being taken into custody (excluding Saturdays, Sundays, and legal holidays), and who are detained in a jail or lockup—
 
     (i) in which—
 
-      (I) such juveniles do not have contact with adult inmates; and
+      (I) such juveniles do not have sight or sound contact with adult inmates; and
 
       (II) there is in effect in the State a policy that requires individuals who work with both such juveniles and adults inmates in collocated facilities have been trained and certified to work with juveniles; and
 
@@ -1287,15 +1579,23 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
       (III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
 
-(14) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
+(14) provide for an effective system of monitoring jails, lock-ups, detention facilities, and correctional facilities to ensure that the core requirements are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
-(15) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, family income, and disability;
+(15) implement policy, practice, and system improvement strategies at the State, territorial, local, and tribal levels, as applicable, to identify and reduce racial and ethnic disparities among youth who come into contact with the juvenile justice system, without establishing or requiring numerical standards or quotas, by—
 
-(16) provide assurance that consideration will be given to and that assistance will be available for approaches designed to strengthen the families of delinquent and other youth to prevent juvenile delinquency (which approaches should include the involvement of grandparents or other extended family members when possible and appropriate and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible);
+  (A) establishing or designating existing coordinating bodies, composed of juvenile justice stakeholders, (including representatives of the educational system) at the State, local, or tribal levels, to advise efforts by States, units of local government, and Indian Tribes to reduce racial and ethnic disparities;
 
-(17) provide for procedures to be established for protecting the rights of recipients of services and for assuring appropriate privacy with regard to records relating to such services provided to any individual under the State plan;
+  (B) identifying and analyzing data on race and ethnicity at decision points in State, local, or tribal juvenile justice systems to determine which such points create racial and ethnic disparities among youth who come into contact with the juvenile justice system; and
 
-(18) provide assurances that—
+  (C) developing and implementing a work plan that includes measurable objectives for policy, practice, or other system changes, based on the needs identified in the data collection and analysis under subparagraph (B);
+
+(16) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, ethnicity, family income, and disability;
+
+(17) provide assurance that consideration will be given to and that assistance will be available for approaches designed to strengthen the families of delinquent and other youth to prevent juvenile delinquency (which approaches should include the involvement of grandparents or other extended family members when possible and appropriate and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible);
+
+(18) provide for procedures to be established for protecting the rights of recipients of services and for assuring appropriate privacy with regard to records relating to such services provided to any individual under the State plan;
+
+(19) provide assurances that—
 
   (A) any assistance provided under this chapter will not cause the displacement (including a partial displacement, such as a reduction in the hours of nonovertime work, wages, or employment benefits) of any currently employed employee;
 
@@ -1303,11 +1603,11 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
   (C) no such activity that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization involved;
 
-(19) provide for such fiscal control and fund accounting procedures necessary to assure prudent use, proper disbursement, and accurate accounting of funds received under this subchapter;
+(20) provide for such fiscal control and fund accounting procedures necessary to assure prudent use, proper disbursement, and accurate accounting of funds received under this subchapter;
 
-(20) provide reasonable assurance that Federal funds made available under this part for any period will be so used as to supplement and increase (but not supplant) the level of the State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs described in this part, and will in no event replace such State, local, and other non-Federal funds;
+(21) provide reasonable assurance that Federal funds made available under this part for any period will be so used as to supplement and increase (but not supplant) the level of the State, local, tribal, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs described in this part, and will in no event replace such State, local, tribal, and other non-Federal funds;
 
-(21) provide that the State agency designated under paragraph (1) will—
+(22) provide that the State agency designated under paragraph (1) will—
 
   (A) to the extent practicable give priority in funding to programs and activities that are based on rigorous, systematic, and objective research that is scientifically based;
 
@@ -1315,51 +1615,119 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
   (C) not expend funds to carry out a program if the recipient of funds who carried out such program during the preceding 2-year period fails to demonstrate, before the expiration of such 2-year period, that such program achieved substantial success in achieving the goals specified in the application submitted by such recipient to the State agency;
 
-(22) address juvenile delinquency prevention efforts and system improvement efforts designed to reduce, without establishing or requiring numerical standards or quotas, the disproportionate number of juvenile members of minority groups, who come into contact with the juvenile justice system;
-
 (23) provide that if a juvenile is taken into custody for violating a valid court order issued for committing a status offense—
 
-  (A) an appropriate public agency shall be promptly notified that such juvenile is held in custody for violating such order;
+  (A) an appropriate public agency shall be promptly notified that such status offender is held in custody for violating such order;
 
-  (B) not later than 24 hours during which such juvenile is so held, an authorized representative of such agency shall interview, in person, such juvenile; and
+  (B) not later than 24 hours during which such status offender is so held, an authorized representative of such agency shall interview, in person, such status offender;
 
-  (C) not later than 48 hours during which such juvenile is so held—
+  (C) not later than 48 hours during which such status offender is so held—
 
-    (i) such representative shall submit an assessment to the court that issued such order, regarding the immediate needs of such juvenile; and
+    (i) such representative shall submit an assessment to the court that issued such order, regarding the immediate needs of such status offender;
 
     (ii) such court shall conduct a hearing to determine—
 
-      (I) whether there is reasonable cause to believe that such juvenile violated such order; and
+      (I) whether there is reasonable cause to believe that such status offender violated such order; and
 
-      (II) the appropriate placement of such juvenile pending disposition of the violation alleged;
+      (II) the appropriate placement of such status offender pending disposition of the violation alleged; and
+
+    (iii) if such court determines the status offender should be placed in a secure detention facility or correctional facility for violating such order—
+
+      (I) the court shall issue a written order that—
+
+        (aa) identifies the valid court order that has been violated;
+
+        (bb) specifies the factual basis for determining that there is reasonable cause to believe that the status offender has violated such order;
+
+        (cc) includes findings of fact to support a determination that there is no appropriate less restrictive alternative available to placing the status offender in such a facility, with due consideration to the best interest of the juvenile;
+
+        (dd) specifies the length of time, not to exceed 7 days, that the status offender may remain in a secure detention facility or correctional facility, and includes a plan for the status offender’s release from such facility; and
+
+        (ee) may not be renewed or extended; and
+
+      (II) the court may not issue a second or subsequent order described in subclause (I) relating to a status offender unless the status offender violates a valid court order after the date on which the court issues an order described in subclause (I); and
+
+  (D) there are procedures in place to ensure that any status offender held in a secure detention facility or correctional facility pursuant to a court order described in this paragraph does not remain in custody longer than 7 days or the length of time authorized by the court, whichever is shorter;
 
 (24) provide an assurance that if the State receives under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) for any fiscal year an amount that exceeds 105 percent of the amount the State received under such section for fiscal year 2000, all of such excess shall be expended through or for programs that are part of a comprehensive and coordinated community system of services;
 
 (25) specify a percentage (if any), not to exceed 5 percent, of funds received by the State under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) (other than funds made available to the State advisory group under [section 11132(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11132/d&num=0&edition=prelim)) that the State will reserve for expenditure by the State to provide incentive grants to units of general local government that reduce the caseload of probation officers within such units;
 
-(26) provide that the State, to the maximum extent practicable, will implement a system to ensure that if a juvenile is before a court in the juvenile justice system, public child welfare records (including child protective services records) relating to such juvenile that are on file in the geographical area under the jurisdiction of such court will be made known to such court;
+(26) provide that the State, to the maximum extent practicable, and in accordance with confidentiality concerns, will implement a system to ensure that if a juvenile is before a court in the juvenile justice system, public child welfare records (including child protective services records) relating to such juvenile that are on file in the geographical area under the jurisdiction of such court will be made known to such court, so as to provide for—
 
-(27) establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and
+  (A) data in child abuse or neglect reports relating to juveniles entering the juvenile justice system with a prior reported history of arrest, court intake, probation and parole, juvenile detention, and corrections; and
 
-(28) provide assurances that juvenile offenders whose placement is funded through [section 672 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section672&num=0&edition=prelim) receive the protections specified in [section 671 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section671&num=0&edition=prelim), including a case plan and case plan review as defined in [section 675 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section675&num=0&edition=prelim).
+  (B) a plan to use the data described in subparagraph (A) to provide necessary services for the treatment of such victims of child abuse or neglect;
+
+(27) provide assurances that juvenile offenders whose placement is funded through [section 672 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section672&num=0&edition=prelim) receive the protections specified in [section 671 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section671&num=0&edition=prelim), including a case plan and case plan review as defined in [section 675 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section675&num=0&edition=prelim);
+
+(28) provide for the coordinated use of funds provided under this subchapter with other Federal and State funds directed at juvenile delinquency prevention and intervention programs;
+
+(29) describe the policies, procedures, and training in effect for the staff of juvenile State correctional facilities to eliminate the use of dangerous practices, unreasonable restraints, and unreasonable isolation, including by developing effective behavior management techniques;
+
+(30) describe—
+
+  (A) the evidence-based methods that will be used to conduct mental health and substance abuse screening, assessment, referral, and treatment for juveniles who—
+
+    (i) request a screening;
+
+    (ii) show signs of needing a screening; or
+
+    (iii) are held for a period of more than 24 hours in a secure facility that provides for an initial screening; and
+
+  (B) how the State will seek, to the extent practicable, to provide or arrange for mental health and substance abuse disorder treatment for juveniles determined to be in need of such treatment;
+
+(31) describe how reentry planning by the State for juveniles will include—
+
+  (A) a written case plan based on an assessment of needs that includes—
+
+    (i) the pre-release and post-release plans for the juveniles;
+
+    (ii) the living arrangement to which the juveniles are to be discharged; and
+
+    (iii) any other plans developed for the juveniles based on an individualized assessment; and
+
+  (B) review processes;
+
+(32) provide an assurance that the agency of the State receiving funds under this subchapter collaborates with the State educational agency receiving assistance under part A of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311&num=0&edition=prelim) et seq.) to develop and implement a plan to ensure that, in order to support educational progress—
+
+  (A) the student records of adjudicated juveniles, including electronic records if available, are transferred in a timely manner from the educational program in the juvenile detention or secure treatment facility to the educational or training program into which the juveniles will enroll;
+
+  (B) the credits of adjudicated juveniles are transferred; and
+
+  (C) adjudicated juveniles receive full or partial credit toward high school graduation for secondary school coursework satisfactorily completed before and during the period of time during which the juveniles are held in custody, regardless of the local educational agency or entity from which the credits were earned; and
+
+(33) describe policies and procedures to—
+
+  (A) screen for, identify, and document in records of the State the identification of victims of domestic human trafficking, or those at risk of such trafficking, upon intake; and
+
+  (B) divert youth described in subparagraph (A) to appropriate programs or services, to the extent practicable.
 
 **(b) Approval by State agency** The State agency designated under subsection (a)(1), after receiving and considering the advice and recommendations of the advisory group referred to in subsection (a), shall approve the State plan and any modification thereof prior to submission to the Administrator.
 
-**(c) Compliance with statutory requirements** If a State fails to comply with any of the applicable requirements of paragraphs (11), (12), (13), and (22) of subsection (a) in any fiscal year beginning after September 30, 2001, then—
+**(c) Compliance with statutory requirements**
 
-(1) subject to paragraph (2), the amount allocated to such State under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) for the subsequent fiscal year shall be reduced by not less than 20 percent for each such paragraph with respect to which the failure occurs, and
+(1) If a State fails to comply with any of the core requirements in any fiscal year, then—
 
-(2) the State shall be ineligible to receive any allocation under such section for such fiscal year unless—
+  (A) subject to subparagraph (B), the amount allocated to such State under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) for the subsequent fiscal year shall be reduced by not less than 20 percent for each core requirement with respect to which the failure occurs; and
 
-  (A) the State agrees to expend 50 percent of the amount allocated to the State for such fiscal year to achieve compliance with any such paragraph with respect to which the State is in noncompliance; or
+  (B) the State shall be ineligible to receive any allocation under such section for such fiscal year unless—
 
-  (B) the Administrator determines that the State—
+    (i) the State agrees to expend 50 percent of the amount allocated to the State for such fiscal year to achieve compliance with any such core requirement with respect to which the State is in noncompliance; or
 
-    (i) has achieved substantial compliance with such applicable requirements with respect to which the State was not in compliance; and
+    (ii) the Administrator determines that the State—
 
-    (ii) has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance with such applicable requirements within a reasonable time.
+      (I) has achieved substantial compliance with such applicable requirements with respect to which the State was not in compliance; and
 
-**(d) Nonsubmission or nonqualification of plan; expenditure of allotted funds; availability of reallocated funds** In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 10222 and 10223 of this title and 3785 of title 42 55 See References in Text note below., determines does not meet the requirements of this section, the Administrator shall endeavor to make that State’s allocation under the provisions of [section 11132(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11132/a&num=0&edition=prelim), excluding funds the Administrator shall make available to satisfy the requirement specified in [section 11132(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11132/d&num=0&edition=prelim), available to local public and private nonprofit agencies within such State for use in carrying out activities of the kinds described in paragraphs (11), (12), (13), and (22) of subsection (a). The Administrator shall make funds which remain available after disbursements are made by the Administrator under the preceding sentence, and any other unobligated funds, available on an equitable basis and to those States that have achieved full compliance with the requirements under paragraphs (11), (12), (13), and (22) of subsection (a).
+      (II) has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance with such applicable requirements within a reasonable time.
+
+(2) Of the total amount of funds not allocated for a fiscal year under paragraph (1)—
+
+  (A) 50 percent of the unallocated funds shall be reallocated under [section 11132 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11132) to States that have not failed to comply with the core requirements; and
+
+  (B) 50 percent of the unallocated funds shall be used by the Administrator to provide additional training and technical assistance to States for the purpose of promoting compliance with the core requirements.
+
+**(d) Nonsubmission or nonqualification of plan; expenditure of allotted funds; availability of reallocated funds** In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 10222 and 10223 of this title and 3785 of title 42 33 See References in Text note below., determines does not meet the requirements of this section, the Administrator shall endeavor to make that State’s allocation under the provisions of [section 11132(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11132/a&num=0&edition=prelim), excluding funds the Administrator shall make available to satisfy the requirement specified in [section 11132(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11132/d&num=0&edition=prelim), available to local public and private nonprofit agencies within such State for use in carrying out activities of the kinds described in the core requirements. The Administrator shall make funds which remain available after disbursements are made by the Administrator under the preceding sentence, and any other unobligated funds, available on an equitable basis and to those States that have achieved full compliance with the core requirements.
 
 **(e) Administrative and supervisory board membership requirements** Notwithstanding any other provision of law, the Administrator shall establish appropriate administrative and supervisory board membership requirements for a State agency designated under subsection (a)(1) and permit the State advisory group appointed under subsection (a)(3) to operate as the supervisory board for such agency, at the discretion of the chief executive officer of the State.
 
@@ -1369,20 +1737,40 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the 
 
 (2) **Assistance** — To be eligible to receive such assistance, such organization shall agree to carry out activities that include—
 
-  (A) conducting an annual conference of such member representatives for purposes relating to the activities of such State advisory groups;
+  (A) disseminating information, data, standards, advanced techniques, and program models;
 
-  (B) disseminating information, data, standards, advanced techniques, and program models;
+  (B) reviewing Federal policies regarding juvenile justice and delinquency prevention;
 
-  (C) reviewing Federal policies regarding juvenile justice and delinquency prevention;
+  (C) advising the Administrator with respect to particular functions or aspects of the work of the Office; and
 
-  (D) advising the Administrator with respect to particular functions or aspects of the work of the Office; and
+  (D) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
 
-  (E) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
+**(g) Compliance determination**
+
+(1) **In general** — For each fiscal year, the Administrator shall make a determination regarding whether each State receiving a grant under this subchapter is in compliance or out of compliance with respect to each of the core requirements.
+
+(2) **Reporting** — The Administrator shall—
+
+  (A) issue an annual public report—
+
+    (i) describing any determination described in paragraph (1) made during the previous year, including a summary of the information on which the determination is based and the actions to be taken by the Administrator (including a description of any reduction imposed under subsection (c)); and
+
+    (ii) for any such determination that a State is out of compliance with any of the core requirements, describing the basis for the determination; and
+
+  (B) make the report described in subparagraph (A) available on a publicly available website.
+
+(3) **Determinations required** — The Administrator may not—
+
+  (A) determine that a State is “not out of compliance”, or issue any other determination not described in paragraph (1), with respect to any core requirement; or
+
+  (B) otherwise fail to make the compliance determinations required under paragraph (1).
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a)(18), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(32), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 [Section 3785 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3785&num=0&edition=prelim), referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, § 1155(3), Jan. 5, 2006, 119 Stat. 3114.
 
@@ -1390,6 +1778,116 @@ This chapter, referred to in subsec. (a)(18), was in the original “this Act”
 Section was formerly classified to [section 5633 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5633&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–385, § 205(1)(A), in introductory provisions, substituted “and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State’s publicly available website.” for “and shall describe the status of compliance with State plan requirements.”
+
+Subsec. (a)(1). Pub. L. 115–385, § 205(1)(B), substituted “as designated by the chief executive officer of the State” for “described in [section 11181(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11181/c/1&num=0&edition=prelim)”.
+
+Subsec. (a)(3)(A)(i). Pub. L. 115–385, § 205(1)(C)(i)(I), inserted “adolescent development,” after “concerning”.
+
+Subsec. (a)(3)(A)(ii)(III). Pub. L. 115–385, § 205(1)(C)(i)(II)(aa), substituted “child and adolescent mental health, education, child and adolescent substance abuse, special education, services for youth with disabilities” for “mental health, education, special education”.
+
+Subsec. (a)(3)(A)(ii)(V). Pub. L. 115–385, § 205(1)(C)(i)(II)(bb), substituted “delinquent youth or youth at risk of delinquency” for “delinquents or potential delinquents”.
+
+Subsec. (a)(3)(A)(ii)(VI). Pub. L. 115–385, § 205(1)(C)(i)(II)(cc), substituted “representatives of” for “youth workers involved with”.
+
+Subsec. (a)(3)(A)(ii)(VIII) to (X). Pub. L. 115–385, § 205(1)(C)(i)(II)(dd), (ee), added subcls. (VIII) to (X) and struck out former subcl. (VIII) which read as follows: “persons with special experience and competence in addressing problems related to learning disabilities, emotional difficulties, child abuse and neglect, and youth violence;”.
+
+Subsec. (a)(3)(A)(iv). Pub. L. 115–385, § 205(1)(C)(i)(III), substituted “28 at the time of initial appointment” for “24 at the time of appointment”.
+
+Subsec. (a)(3)(A)(v). Pub. L. 115–385, § 205(1)(C)(i)(IV), inserted “or, if not feasible and in appropriate circumstances, who is the parent or guardian of someone who has been or is currently under the jurisdiction of the juvenile justice system” after “juvenile justice system”.
+
+Subsec. (a)(3)(C). Pub. L. 115–385, § 205(1)(C)(ii), substituted “45 days” for “30 days”.
+
+Subsec. (a)(3)(D)(i). Pub. L. 115–385, § 205(1)(C)(iii)(I), struck out “and” at end.
+
+Subsec. (a)(3)(D)(ii). Pub. L. 115–385, § 205(1)(C)(iii)(II), substituted “at least every 2 years a report and necessary recommendations regarding State compliance with the core requirements” for “at least annually recommendations regarding State compliance with the requirements of paragraphs (11), (12), and (13)”.
+
+Subsec. (a)(3)(E)(i). Pub. L. 115–385, § 205(1)(C)(iv)(I), inserted “and” at end.
+
+Subsec. (a)(3)(E)(ii). Pub. L. 115–385, § 205(1)(C)(iv)(II), substituted semicolon for period at end.
+
+Subsec. (a)(5)(C). Pub. L. 115–385, § 205(1)(D), substituted “Indian Tribes that agree to attempt to comply with the core requirements applicable to the detention and confinement of juveniles” for “Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior) and that agree to attempt to comply with the requirements specified in paragraphs (11), (12), and (13), applicable to the detention and confinement of juveniles”.
+
+Subsec. (a)(7)(A). Pub. L. 115–385, § 205(1)(E)(i), substituted “has jurisdiction” for “performs law enforcement functions”.
+
+Subsec. (a)(7)(B)(iv) to (ix). Pub. L. 115–385, § 205(1)(E)(ii), added cls. (iv) to (ix) and struck out former cl. (iv) which read as follows: “a plan for providing needed mental health services to juveniles in the juvenile justice system, including information on how such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;”.
+
+Subsec. (a)(8). Pub. L. 115–385, § 205(1)(F), substituted “evidence-based and promising” for “existing”.
+
+Subsec. (a)(9). Pub. L. 115–385, § 205(1)(G)(i), inserted “, with priority in funding given to entities meeting the criteria for evidence-based or promising programs” after “used for” in introductory provisions.
+
+Subsec. (a)(9)(A)(i). Pub. L. 115–385, § 205(1)(G)(ii)(I)(aa), inserted “status offenders and other” before “youth who need”
+
+Subsec. (a)(9)(A)(iii). Pub. L. 115–385, § 205(1)(G)(ii)(I)(bb)–(III), added cl. (iii).
+
+Subsec. (a)(9)(B)(i). Pub. L. 115–385, § 205(1)(G)(iii), substituted “status offenders, other youth, and the parents and other family members of such offenders and youth” for “parents and other family members” and “remain” for “be retained”.
+
+Subsec. (a)(9)(E). Pub. L. 115–385, § 205(1)(G)(iv)(I), substituted “at-risk or delinquent youth” for “delinquent” in introductory provisions.
+
+Subsec. (a)(9)(E)(i). Pub. L. 115–385, § 205(1)(G)(iv)(II), inserted “, including for truancy prevention and reduction” before semicolon at end.
+
+Subsec. (a)(9)(F). Pub. L. 115–385, § 205(1)(G)(v), substituted “programs to expand” for “expanding” in introductory provisions.
+
+Subsec. (a)(9)(G). Pub. L. 115–385, § 205(1)(G)(vii), added subpar. (G). Former subpar. (G) redesignated (H).
+
+Subsec. (a)(9)(H). Pub. L. 115–385, § 205(1)(G)(vi), (viii), redesignated subpar. (G) as (H) and substituted “State, tribal,” for “State,” in two places. Former subpar. (H) redesignated (I).
+
+Subsec. (a)(9)(I) to (L). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpars. (H) to (K) as (I) to (L), respectively. Former subpar. (L) redesignated (M).
+
+Subsec. (a)(9)(M). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpar. (L) as (M). Former subpar. (M) redesignated (N).
+
+Subsec. (a)(9)(M)(i). Pub. L. 115–385, § 205(1)(G)(ix)(I), substituted “continuum of pre-adjudication and post-adjudication alternatives” for “continuum of post-adjudication restraints” and inserted “specialized or problem-solving courts,” after “(including”.
+
+Subsec. (a)(9)(M)(ii). Pub. L. 115–385, § 205(1)(G)(ix)(II), struck out “by the provision by the Administrator” before “of information” and “to States” before “in the design”.
+
+Subsec. (a)(9)(N). Pub. L. 115–385, § 205(1)(G)(vi), (x), redesignated subpar. (M) as (N), inserted “and reduce the risk of recidivism” after “families”, and struck out “so that such juveniles may be retained in their homes” before semicolon at end. Former subpar. (N) redesignated (O).
+
+Subsec. (a)(9)(O) to (R). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpars. (N) to (Q) as (O) to (R), respectively. Former subpar. (R) redesignated (S).
+
+Subsec. (a)(9)(S). Pub. L. 115–385, § 205(1)(G)(vi), (xi), redesignated subpar. (R) as (S) and struck out “and” at end. Former subpar. (S) redesignated (T).
+
+Subsec. (a)(9)(T). Pub. L. 115–385, § 205(1)(G)(vi), (xii), redesignated subpar. (S) as (T) and substituted “mental health or co-occurring disorder services for court-involved or incarcerated juveniles in need of such services, including assessment, development of individualized treatment plans, provision of treatment, and development of discharge plans;” for “mental health services for incarcerated juveniles suspected to be in need of such services, including assessment, development of individualized treatment plans, and discharge plans.”
+
+Subsec. (a)(9)(U) to (W). Pub. L. 115–385, § 205(1)(G)(xiii), added subpars. (U) to (W).
+
+Subsec. (a)(11). Pub. L. 115–385, § 205(1)(H), added par. (11) and struck out former par. (11) which prohibited placement of juveniles in secure detention facilities or secure correctional facilities under certain circumstances.
+
+Subsec. (a)(12)(A). Pub. L. 115–385, § 205(1)(I), substituted “sight or sound contact” for “contact”.
+
+Subsec. (a)(13). Pub. L. 115–385, § 205(1)(J), substituted “sight or sound contact” for “contact” in subpars. (A) and (B)(i)(I).
+
+Subsec. (a)(14). Pub. L. 115–385, § 205(1)(K), substituted “an effective system of monitoring jails, lock-ups, detention facilities, and correctional facilities to ensure that the core requirements are met” for “an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met” and struck out “, in the opinion of the Administrator,” before “sufficient enforcement mechanisms”.
+
+Subsec. (a)(15). Pub. L. 115–385, § 205(1)(O), added par. (15). Former par. (15) redesignated (16).
+
+Subsec. (a)(16). Pub. L. 115–385, § 205(1)(N), (P), redesignated par. (15) as (16) and inserted “ethnicity,” after “race,”. Former par. (16) redesignated (17).
+
+Subsec. (a)(17) to (20). Pub. L. 115–385, § 205(1)(N), redesignated pars. (16) to (19) as (17) to (20), respectively. Former par. (20) redesignated (21).
+
+Subsec. (a)(21). Pub. L. 115–385, § 205(1)(N), (Q), redesignated par. (20) as (21) and substituted “local, tribal,” for “local,” in two places. Former par. (21) redesignated (22).
+
+Subsec. (a)(22). Pub. L. 115–385, § 205(1)(L), (N), redesignated par. (21) as (22) and struck out former par. (22) which read as follows: “address juvenile delinquency prevention efforts and system improvement efforts designed to reduce, without establishing or requiring numerical standards or quotas, the disproportionate number of juvenile members of minority groups, who come into contact with the juvenile justice system;”.
+
+Subsec. (a)(23). Pub. L. 115–385, § 205(1)(R)(i), substituted “such status offender” for “such juvenile” wherever appearing in subpars. (A) to (C).
+
+Subsec. (a)(23)(C)(iii). Pub. L. 115–385, § 205(1)(R)(iii), added cl. (iii).
+
+Subsec. (a)(23)(D). Pub. L. 115–385, § 205(1)(R)(ii), (iv), added subpar. (D).
+
+Subsec. (a)(26). Pub. L. 115–385, § 205(1)(S), inserted “and in accordance with confidentiality concerns,” after “maximum extent practicable,” and substituted “known to such court, so as to provide for—” and subpars. (A) and (B) for “known to such court;”.
+
+Subsec. (a)(27). Pub. L. 115–385, § 205(1)(L), (M), redesignated par. (28) as (27) and struck out former par. (27) which read as follows: “establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and”.
+
+Subsec. (a)(28) to (33). Pub. L. 115–385, § 205(1)(T), (U), added pars. (28) to (33).
+
+Subsec. (c). Pub. L. 115–385, § 205(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) set out consequences for States that failed to comply with certain statutory requirements in subsec. (a) of this section in any fiscal year beginning after Sept. 30, 2001.
+
+Subsec. (d). Pub. L. 115–385, § 205(3), substituted “described in the core requirements” for “described in paragraphs (11), (12), (13), and (22) of subsection (a)” and “the core requirements” for “the requirements under paragraphs (11), (12), (13), and (22) of subsection (a)”.
+
+Subsec. (f)(2). Pub. L. 115–385, § 205(4), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “conducting an annual conference of such member representatives for purposes relating to the activities of such State advisory groups;”.
+
+Subsec. (g). Pub. L. 115–385, § 205(5), added subsec. (g).
+
 2006—Subsec. (a)(7)(B)(i) to (iv). Pub. L. 109–162 added cl. (i) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
 
 2002—Subsec. (a). Pub. L. 107–273, § 12209(1)(A), substituted “, projects, and activities” for “and challenge activities subsequent to State participation in part E of this subchapter” in second sentence of introductory provisions.
@@ -1628,7 +2126,7 @@ Subsec. (c). Pub. L. 102–586, § 2(f)(3)(A)(ii), amended subsec. (c) generally
 
 Subsec. (d). Pub. L. 102–586, § 2(f)(3)(A)(iii), inserted “, excluding funds the Administrator shall make available to satisfy the requirement specified in [section 5632(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5632/d&num=0&edition=prelim),” and substituted “activities of the kinds described in subsection (a)(12)(A), (13), (14) and (23)” for “the purposes of subsection (a)(12)(A), subsection (a)(13), or subsection (a)(14)” and “subsection (a)(12)(A), (13), (14) and (23)” for “subsection (a)(12)(A) and subsection (a)(13)”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, § 6263(b)(1), made technical amendment to reference to [section 5671 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5671&num=0&edition=prelim) to reflect renumbering of corresponding section of original act.
+1988—Subsec. (a)(1). Pub. L. 100–690, § 7263(b)(1), made technical amendment to reference to [section 5671 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5671&num=0&edition=prelim) to reflect renumbering of corresponding section of original act.
 
 Subsec. (a)(5). Pub. L. 100–690, § 7258(a)(1), substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out “and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
 
@@ -1798,6 +2296,9 @@ Subsec. (e). Pub. L. 95–115, § 4(c)(15), struck out subsec. (e) which related
 
 1976—Subsec. (a). Pub. L. 94–503 substituted “(15), and (17)” for “and (15)” in provisions preceding par. (1).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
@@ -1824,303 +2325,52 @@ Pub. L. 102–586, § 2(f)(3)(B), Nov. 4, 1992, 106 Stat. 4994, provided that: �
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
-<a id="section-11141"></a>
-## § 11141. Authority to make grants
-**(a) Grants to eligible States** The Administrator may make grants to eligible States, from funds allocated under [section 11142 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11142), for the purpose of providing financial assistance to eligible entities to carry out projects designed to prevent juvenile delinquency, including—
-
-(1) projects that provide treatment (including treatment for mental health problems) to juvenile offenders, and juveniles who are at risk of becoming juvenile offenders, who are victims of child abuse or neglect or who have experienced violence in their homes, at school, or in the community, and to their families, in order to reduce the likelihood that such juveniles will commit violations of law;
-
-(2) educational projects or supportive services for delinquent or other juveniles—
-
-  (A) to encourage juveniles to remain in elementary and secondary schools or in alternative learning situations in educational settings;
-
-  (B) to provide services to assist juveniles in making the transition to the world of work and self-sufficiency;
-
-  (C) to assist in identifying learning difficulties (including learning disabilities);
-
-  (D) to prevent unwarranted and arbitrary suspensions and expulsions;
-
-  (E) to encourage new approaches and techniques with respect to the prevention of school violence and vandalism;
-
-  (F) which assist law enforcement personnel and juvenile justice personnel to more effectively recognize and provide for learning-disabled and other juveniles with disabilities;
-
-  (G) which develop locally coordinated policies and programs among education, juvenile justice, and social service agencies; or
-
-  (H) to provide services to juveniles with serious mental and emotional disturbances (SED) in need of mental health services;
-
-(3) projects which expand the use of probation officers—
-
-  (A) particularly for the purpose of permitting nonviolent juvenile offenders (including status offenders) to remain at home with their families as an alternative to incarceration or institutionalization; and
-
-  (B) to ensure that juveniles follow the terms of their probation;
-
-(4) counseling, training, and mentoring programs, which may be in support of academic tutoring, vocational and technical training, and drug and violence prevention counseling, that are designed to link at-risk juveniles, juvenile offenders, or juveniles who have a parent or legal guardian who is or was incarcerated in a Federal, State, or local correctional facility or who is otherwise under the jurisdiction of a Federal, State, or local criminal justice system, particularly juveniles residing in low-income and high-crime areas and juveniles experiencing educational failure, with responsible individuals (such as law enforcement officers, Department of Defense personnel, individuals working with local businesses, and individuals working with community-based and faith-based organizations and agencies) who are properly screened and trained;
-
-(5) community-based projects and services (including literacy and social service programs) which work with juvenile offenders and juveniles who are at risk of becoming juvenile offenders, including those from families with limited English-speaking proficiency, their parents, their siblings, and other family members during and after incarceration of the juvenile offenders, in order to strengthen families, to allow juvenile offenders to be retained in their homes, and to prevent the involvement of other juvenile family members in delinquent activities;
-
-(6) projects designed to provide for the treatment (including mental health services) of juveniles for dependence on or abuse of alcohol, drugs, or other harmful substances;
-
-(7) projects which leverage funds to provide scholarships for postsecondary education and training for low-income juveniles who reside in neighborhoods with high rates of poverty, violence, and drug-related crimes;
-
-(8) projects which provide for an initial intake screening of each juvenile taken into custody—
-
-  (A) to determine the likelihood that such juvenile will commit a subsequent offense; and
-
-  (B) to provide appropriate interventions (including mental health services) to prevent such juvenile from committing subsequent offenses;
-
-(9) projects (including school- or community-based projects) that are designed to prevent, and reduce the rate of, the participation of juveniles in gangs that commit crimes (particularly violent crimes), that unlawfully use firearms and other weapons, or that unlawfully traffic in drugs and that involve, to the extent practicable, families and other community members (including law enforcement personnel and members of the business community) in the activities conducted under such projects;
-
-(10) comprehensive juvenile justice and delinquency prevention projects that meet the needs of juveniles through the collaboration of the many local service systems juveniles encounter, including schools, courts, law enforcement agencies, child protection agencies, mental health agencies, welfare services, health care agencies (including collaboration on appropriate prenatal care for pregnant juvenile offenders), private nonprofit agencies, and public recreation agencies offering services to juveniles;
-
-(11) to develop, implement, and support, in conjunction with public and private agencies, organizations, and businesses, projects for the employment of juveniles and referral to job training programs (including referral to Federal job training programs);
-
-(12) delinquency prevention activities which involve youth clubs, sports, recreation and parks, peer counseling and teaching, the arts, leadership development, community service, volunteer service, before- and after-school programs, violence prevention activities, mediation skills training, camping, environmental education, ethnic or cultural enrichment, tutoring, and academic enrichment;
-
-(13) to establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing treatment plans for juvenile offenders;
-
-(14) programs that encourage social competencies, problem-solving skills, and communication skills, youth leadership, and civic involvement;
-
-(15) programs that focus on the needs of young girls at-risk of delinquency or status offenses;
-
-(16) projects which provide for—
-
-  (A) an assessment by a qualified mental health professional of incarcerated juveniles who are suspected to be in need of mental health services;
-
-  (B) the development of an individualized treatment plan for those incarcerated juveniles determined to be in need of such services;
-
-  (C) the inclusion of a discharge plan for incarcerated juveniles receiving mental health services that addresses aftercare services; and
-
-  (D) all juveniles receiving psychotropic medications to be under the care of a licensed mental health professional;
-
-(17) after-school programs that provide at-risk juveniles and juveniles in the juvenile justice system with a range of age-appropriate activities, including tutoring, mentoring, and other educational and enrichment activities;
-
-(18) programs related to the establishment and maintenance of a school violence hotline, based on a public-private partnership, that students and parents can use to report suspicious, violent, or threatening behavior to local school and law enforcement authorities;
-
-(19) programs (excluding programs to purchase guns from juveniles) designed to reduce the unlawful acquisition and illegal use of guns by juveniles, including partnerships between law enforcement agencies, health professionals, school officials, firearms manufacturers, consumer groups, faith-based groups and community organizations;
-
-(20) programs designed to prevent animal cruelty by juveniles and to counsel juveniles who commit animal cruelty offenses, including partnerships among law enforcement agencies, animal control officers, social services agencies, and school officials;
-
-(21) programs that provide suicide prevention services for incarcerated juveniles and for juveniles leaving the incarceration system;
-
-(22) programs to establish partnerships between State educational agencies and local educational agencies for the design and implementation of character education and training programs that reflect the values of parents, teachers, and local communities, and incorporate elements of good character, including honesty, citizenship, courage, justice, respect, personal responsibility, and trustworthiness;
-
-(23) programs that foster strong character development in at-risk juveniles and juveniles in the juvenile justice system;
-
-(24) local programs that provide for immediate psychological evaluation and follow-up treatment (including evaluation and treatment during a mandatory holding period for not less than 24 hours) for juveniles who bring a gun on school grounds without permission from appropriate school authorities; and
-
-(25) other activities that are likely to prevent juvenile delinquency.
-
-**(b) Grants to eligible Indian tribes** The Administrator may make grants to eligible Indian tribes from funds allocated under [section 11142(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11142/b&num=0&edition=prelim), to carry out projects of the kinds described in subsection (a).
+<a id="section-11141-to-11146"></a>
+## § 11141 to 11146. Repealed. Pub. L. 115–385, title II, § 206, Dec. 21, 2018, 132 Stat. 5140
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 5651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5651&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+Section 11141, Pub. L. 93–415, title II, § 241, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1880, related to authority to make grants. Section was formerly classified to [section 5651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5651&num=0&edition=prelim), The Public Health and Welfare.
 
-#### Prior Provisions
 A prior section 241 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1125; Pub. L. 95–115, §§ 3(a)(3)(A), (5), 5(a), (f), Oct. 3, 1977, 91 Stat. 1048, 1049, 1056, 1057; Pub. L. 96–509, § 19(j), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, § 631, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, § 7259, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, § 2(g)(1), Nov. 4, 1992, 106 Stat. 4994, related to the National Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-#### Effective Date
-Part effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
+Section 11142, Pub. L. 93–415, title II, § 242, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1884, related to allocation of funds. Section was formerly classified to [section 5652 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5652&num=0&edition=prelim), The Public Health and Welfare.
 
-
-<a id="section-11142"></a>
-## § 11142. Allocation
-**(a) Allocation among eligible States** Subject to subsection (b), funds appropriated to carry out this part shall be allocated among eligible States proportionately based on the population that is less than 18 years of age in the eligible States.
-
-**(b) Allocation among Indian tribes collectively** Before allocating funds under subsection (a) among eligible States, the Administrator shall allocate among eligible Indian tribes as determined under [section 11146(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11146/a&num=0&edition=prelim), an aggregate amount equal to the amount such tribes would be allocated under subsection (a), and without regard to this subsection, if such tribes were treated collectively as an eligible State.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 5652 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5652&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
-
-#### Prior Provisions
 A prior section 242 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1126; Pub. L. 100–690, title VII, § 7260, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, § 2(g)(2), Nov. 4, 1992, 106 Stat. 4995, related to the information function of the Institute, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
+Section 11143, Pub. L. 93–415, title II, § 243, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1884, related to eligibility of States for grants. Section was formerly classified to [section 5653 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5653&num=0&edition=prelim), The Public Health and Welfare.
 
-<a id="section-11143"></a>
-## § 11143. Eligibility of States
-**(a) Application** To be eligible to receive a grant under [section 11141 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11141), a State shall submit to the Administrator an application that contains the following:
-
-(1) An assurance that the State will use—
-
-  (A) not more than 5 percent of such grant, in the aggregate, for—
-
-    (i) the costs incurred by the State to carry out this part; and
-
-    (ii) to evaluate, and provide technical assistance relating to, projects and activities carried out with funds provided under this part; and
-
-  (B) the remainder of such grant to make grants under [section 11144 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11144).
-
-(2) An assurance that, and a detailed description of how, such grant will supplement, and not supplant State and local efforts to prevent juvenile delinquency.
-
-(3) An assurance that such application was prepared after consultation with and participation by the State advisory group, community-based organizations, and organizations in the local juvenile justice system, that carry out programs, projects, or activities to prevent juvenile delinquency.
-
-(4) An assurance that the State advisory group will be afforded the opportunity to review and comment on all grant applications submitted to the State agency.
-
-(5) An assurance that each eligible entity described in [section 11144 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11144) that receives an initial grant under [section 11144 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11144) to carry out a project or activity shall also receive an assurance from the State that such entity will receive from the State, for the subsequent fiscal year to carry out such project or activity, a grant under such section in an amount that is proportional, based on such initial grant and on the amount of the grant received under [section 11141 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11141) by the State for such subsequent fiscal year, but that does not exceed the amount specified for such subsequent fiscal year in such application as approved by the State.
-
-(6) Such other information and assurances as the Administrator may reasonably require by rule.
-
-**(b) Approval of applications**
-
-(1) **Approval required** — Subject to paragraph (2), the Administrator shall approve an application, and amendments to such application submitted in subsequent fiscal years, that satisfy the requirements of subsection (a).
-
-(2) **Limitation** — The Administrator may not approve such application (including amendments to such application) for a fiscal year unless—
-
-  (A)
-
-    (i) the State submitted a plan under [section 11133 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11133) for such fiscal year; and
-
-    (ii) such plan is approved by the Administrator for such fiscal year; or
-
-  (B) the Administrator waives the application of subparagraph (A) to such State for such fiscal year, after finding good cause for such a waiver.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 5653 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5653&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
-
-#### Prior Provisions
 A prior section 243 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1126; Pub. L. 95–115, §§ 3(a)(3)(B), 5(b), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 98–473, title II, § 632, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, § 7261, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, § 2(g)(3), Nov. 4, 1992, 106 Stat. 4995, related to research, demonstration, and evaluation, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
+Section 11144, Pub. L. 93–415, title II, § 244, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1885, related to grants given by States for local projects. Section was formerly classified to [section 5654 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5654&num=0&edition=prelim), The Public Health and Welfare.
 
-<a id="section-11144"></a>
-## § 11144. Grants for local projects
-**(a) Grants by States** Using a grant received under [section 11141 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11141), a State may make grants to eligible entities whose applications are received by the State, and reviewed by the State advisory group, to carry out projects and activities described in [section 11141 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11141).
-
-**(b) Special consideration** For purposes of making grants under subsection (a), the State shall give special consideration to eligible entities that—
-
-(1) propose to carry out such projects in geographical areas in which there is—
-
-  (A) a disproportionately high level of serious crime committed by juveniles; or
-
-  (B) a recent rapid increase in the number of nonstatus offenses committed by juveniles;
-
-(2)
-
-  (A) agreed to carry out such projects or activities that are multidisciplinary and involve more than 2 private nonprofit agencies, organizations, and institutions that have experience dealing with juveniles; or
-
-  (B) represent communities that have a comprehensive plan designed to identify at-risk juveniles and to prevent or reduce the rate of juvenile delinquency, and that involve other entities operated by individuals who have a demonstrated history of involvement in activities designed to prevent juvenile delinquency; and
-
-(3) the amount of resources (in cash or in kind) such entities will provide to carry out such projects and activities.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 5654 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5654&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
-
-#### Prior Provisions
 A prior section 244 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(f), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, § 19(k), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, § 633, Oct. 12, 1984, 98 Stat. 2119; Pub. L. 100–690, title VII, § 7262, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, § 2(g)(3), Nov. 4, 1992, 106 Stat. 4996; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(D)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76, related to technical assistance and training functions, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
+Section 11145, Pub. L. 93–415, title II, § 245, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1885, related to eligibility of entities. Section was formerly classified to [section 5655 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5655&num=0&edition=prelim), The Public Health and Welfare.
 
-<a id="section-11145"></a>
-## § 11145. Eligibility of entities
-**(a) Eligibility** Except as provided in subsection (b), to be eligible to receive a grant under [section 11144 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11144), a unit of general purpose local government, acting jointly with not fewer than 2 private nonprofit agencies, organizations, and institutions that have experience dealing with juveniles, shall submit to the State an application that contains the following:
-
-(1) An assurance that such applicant will use such grant, and each such grant received for the subsequent fiscal year, to carry out throughout a 2-year period a project or activity described in reasonable detail, and of a kind described in one or more of paragraphs (1) through (25) of [section 11141(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11141/a&num=0&edition=prelim) as specified in, such application.
-
-(2) A statement of the particular goals such project or activity is designed to achieve, and the methods such entity will use to achieve, and assess the achievement of, each of such goals.
-
-(3) A statement identifying the research (if any) such entity relied on in preparing such application.
-
-**(b) Limitation** If an eligible entity that receives a grant under [section 11144 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11144) to carry out a project or activity for a 2-year period, and receives technical assistance from the State or the Administrator after requesting such technical assistance (if any), fails to demonstrate, before the expiration of such 2-year period, that such project or such activity has achieved substantial success in achieving the goals specified in the application submitted by such entity to receive such grants, then such entity shall not be eligible to receive any subsequent grant under such section to continue to carry out such project or activity.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 5655 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5655&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
-
-#### Prior Provisions
 A prior section 245 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(c), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, § 19(l), Dec. 8, 1980, 94 Stat. 2765, provided for the functions of the Advisory Committee, prior to repeal by Pub. L. 98–473, title II, §§ 634, 670(a), Oct. 12, 1984, 98 Stat. 2119, 2129, effective Oct. 12, 1984.
 
 Another prior section 245 of Pub. L. 93–415 was classified to [section 5659 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5659&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by Pub. L. 107–273.
 
 Another prior section 245 of Pub. L. 93–415 was classified to [section 5656 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5656&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by Pub. L. 100–690.
 
+Section, 11146, Pub. L. 93–415, title II, § 246, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1886, related to grants to Indian tribes. Section was formerly classified to [section 5656 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5656&num=0&edition=prelim), The Public Health and Welfare.
 
-<a id="section-11146"></a>
-## § 11146. Grants to Indian tribes
-**(a) Eligibility**
-
-(1) **Application** — To be eligible to receive a grant under [section 11141(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11141/b&num=0&edition=prelim), an Indian tribe shall submit to the Administrator an application in accordance with this section, in such form and containing such information as the Administrator may require by rule.
-
-(2) **Plans** — Such application shall include a plan for conducting programs, projects, and activities described in [section 11141(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11141/a&num=0&edition=prelim), which plan shall—
-
-  (A) provide evidence that the applicant Indian tribe performs law enforcement functions (as determined by the Secretary of the Interior);
-
-  (B) identify the juvenile justice and delinquency problems and juvenile delinquency prevention needs to be addressed by activities conducted with funds provided by the grant for which such application is submitted, by the Indian tribe in the geographical area under the jurisdiction of the Indian tribe;
-
-  (C) provide for fiscal control and accounting procedures that—
-
-    (i) are necessary to ensure the prudent use, proper disbursement, and accounting of grants received by applicants under this section; and
-
-    (ii) are consistent with the requirement specified in subparagraph (B); and
-
-  (D) comply with the requirements specified in [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim) (excluding any requirement relating to consultation with a State advisory group) and with the requirements specified in [section 11132(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11132/c&num=0&edition=prelim); and
-
-  (E) contain such other information, and be subject to such additional requirements, as the Administrator may reasonably require by rule to ensure the effectiveness of the projects for which grants are made under [section 11141(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11141/b&num=0&edition=prelim).
-
-**(b) Factors for consideration** For the purpose of selecting eligible applicants to receive grants under [section 11141(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11141/b&num=0&edition=prelim), the Administrator shall consider—
-
-(1) the resources that are available to each applicant Indian tribe that will assist, and be coordinated with, the overall juvenile justice system of the Indian tribe; and
-
-(2) with respect to each such applicant—
-
-  (A) the juvenile population; and
-
-  (B) the population and the entities that will be served by projects proposed to be carried out with the grant for which the application is submitted.
-
-**(c) Grant process**
-
-(1) **Selection of grant recipients**
-
-  (A) *Selection requirements* — Except as provided in paragraph (2), the Administrator shall—
-
-    (i) make grants under this section on a competitive basis; and
-
-    (ii) specify in writing to each applicant selected to receive a grant under this section, the terms and conditions on which such grant is made to such applicant.
-
-  (B) *Period of grant* — A grant made under this section shall be available for expenditure during a 2–year period.
-
-(2) **Exception** — If—
-
-  (A) in the 2-year period for which a grant made under this section shall be expended, the recipient of such grant applies to receive a subsequent grant under this section; and
-
-  (B) the Administrator determines that such recipient performed during the year preceding the 2–year period for which such recipient applies to receive such subsequent grant satisfactorily and in accordance with the terms and conditions applicable to the grant received;
-  then the Administrator may waive the application of the competition-based requirement specified in paragraph (1)(A)(i) and may allow the applicant to incorporate by reference in the current application the text of the plan contained in the recipient’s most recent application previously approved under this section.
-
-(3) **Authority to modify application process for subsequent grants** — The Administrator may modify by rule the operation of subsection (a) with respect to the submission and contents of applications for subsequent grants described in paragraph (2).
-
-**(d) Reporting requirement** Each Indian tribe that receives a grant under this section shall be subject to the fiscal accountability provisions of [section 5305(f)(1) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5305/f/1&num=0&edition=prelim), relating to the submission of a single-agency audit report required by chapter 75 of title 31.
-
-**(e) Matching requirement**
-
-(1) Funds appropriated for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of any program or project with a matching requirement funded under this section.
-
-(2) Paragraph (1) shall not apply with respect to funds appropriated before November 2, 2002.
-
-(3) If the Administrator determines that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of any program or activity to be funded under the grant, the Administrator may increase the Federal share of the cost thereof to the extent the Administrator deems necessary.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 5656 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5656&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
-
-#### Prior Provisions
 A prior section 246 of Pub. L. 93–415, title II, formerly § 250, Sept. 7, 1974, 88 Stat. 1128; renumbered § 249 and amended Pub. L. 95–115, §§ 3(a)(3)(B), 5(e)(1), (2)(A), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 96–509, § 19(o), Dec. 8, 1980, 94 Stat. 2765; renumbered § 248 Pub. L. 98–473, title II, § 638, Oct. 12, 1984, 98 Stat. 2120; renumbered § 246 and amended Pub. L. 100–690, title VII, § 7263(a)(2)(E), (b)(2), Nov. 18, 1988, 102 Stat. 4443, 4447; Pub. L. 102–586, § 2(g)(5), Nov. 4, 1992, 106 Stat. 4996, related to the curriculum for training program, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
 Another prior section 246 of Pub. L. 93–415, title II, formerly § 247, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(d), Oct. 3, 1977, 91 Stat. 1057; renumbered § 246 and amended Pub. L. 98–473, title II, § 636, Oct. 12, 1984, 98 Stat. 2120, set forth additional functions of the Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 100–690, title VII, §§ 7263(a)(2)(C), 7296(a), Nov. 18, 1988, 102 Stat. 4443, 4463, effective Oct. 1, 1988.
+
+#### Effective Date of Repeal
+Repeal not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 
 <a id="section-11161"></a>
 ## § 11161. Research and evaluation; statistical analyses; information dissemination
 **(a) Research and evaluation**
 
-(1) The Administrator may—
+(1) The Administrator shall—
 
-  (A) plan and identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
+  (A) annually publish a plan to identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
 
   (B) conduct research or evaluation in juvenile justice matters, for the purpose of providing research and evaluation relating to—
 
@@ -2128,7 +2378,7 @@ Another prior section 246 of Pub. L. 93–415, title II, formerly § 247, Sept. 
 
     (ii) the link between juvenile delinquency and the incarceration of members of the families of juveniles;
 
-    (iii) successful efforts to prevent first-time minor offenders from committing subsequent involvement in serious crime;
+    (iii) successful efforts to prevent status offenders and first-time minor offenders from subsequent involvement with the juvenile justice and criminal justice systems;
 
     (iv) successful efforts to prevent recidivism;
 
@@ -2136,13 +2386,25 @@ Another prior section 246 of Pub. L. 93–415, title II, formerly § 247, Sept. 
 
     (vi) juvenile violence;
 
-    (vii) appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;
+    (vii) the prevalence and duration of behavioral health needs (including mental health, substance abuse, and co-occurring disorders) among juveniles pre-placement and post-placement in the juvenile justice system, including an examination of the effects of secure detention in a correctional facility;
 
     (viii) reducing the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups;
 
-    (ix) evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
+    (ix) training efforts and reforms that have produced reductions in or elimination of the use of dangerous practices;
 
-    (x) determining—
+    (x) methods to improve the recruitment, selection, training, and retention of professional personnel who are focused on the prevention, identification, and treatment of delinquency;
+
+    (xi) methods to improve the identification and response to victims of domestic child sex trafficking within the juvenile justice system;
+
+    (xii) identifying positive outcome measures, such as attainment of employment and educational degrees, that States and units of local government should use to evaluate the success of programs aimed at reducing recidivism of youth who have come in contact with the juvenile justice system or criminal justice system;
+
+    (xiii) evaluating the impact and outcomes of the prosecution and sentencing of juveniles as adults;
+
+    (xiv) successful and cost-effective efforts by States and units of local government to reduce recidivism through policies that provide for consideration of appropriate alternative sanctions to incarceration of youth facing nonviolent charges, while ensuring that public safety is preserved;
+
+    (xvi) 11 So in original. There is no cl. (xv). evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
+
+    (xvii) determining—
 
       (I) the frequency, seriousness, and incidence of drug use by youth in schools and communities in the States using, if appropriate, data submitted by the States pursuant to this subparagraph and subsection (b); and
 
@@ -2154,13 +2416,13 @@ Another prior section 246 of Pub. L. 93–415, title II, formerly § 247, Sept. 
 
         (cc) the type of weapons used in incidents, as classified in the Uniform Crime Reports of the Federal Bureau of Investigation; and
 
-    (xi) other purposes consistent with the purposes of this subchapter and subchapter I.
+    (xviii) other purposes consistent with the purposes of this subchapter and subchapter I.
 
 (2) The Administrator shall ensure that an equitable amount of funds available to carry out paragraph (1)(B) is used for research and evaluation relating to the prevention of juvenile delinquency.
 
 (3) Nothing in this subsection shall be construed to permit the development of a national database of personally identifiable information on individuals involved in studies, or in data-collection efforts, carried out under paragraph (1)(B)(x).
 
-(4) Not later than 1 year after November 2, 2002, the Administrator shall conduct a study with respect to juveniles who, prior to placement in the juvenile justice system, were under the care or custody of the State child welfare system, and to juveniles who are unable to return to their family after completing their disposition in the juvenile justice system and who remain wards of the State. Such study shall include—
+(4) Not later than 1 year after December 21, 2018, the Administrator shall conduct a study with respect to juveniles who, prior to placement in the juvenile justice system, were under the care or custody of the State child welfare system, and to juveniles who are unable to return to their family after completing their disposition in the juvenile justice system and who remain wards of the State in accordance with applicable confidentiality requirements. Such study shall include—
 
   (A) the number of juveniles in each category;
 
@@ -2168,15 +2430,19 @@ Another prior section 246 of Pub. L. 93–415, title II, formerly § 247, Sept. 
 
   (C) the Federal and local sources of funds used for placements and post-placement services;
 
-  (D) barriers faced by State in providing services to these juveniles;
+  (D) barriers faced by State and Indian Tribes in providing services to these juveniles;
 
   (E) the types of post-placement services used;
 
-  (F) the frequency of case plans and case plan reviews; and
+  (F) the frequency of case plans and case plan reviews;
 
-  (G) the extent to which case plans identify and address permanency and placement barriers and treatment plans.
+  (G) the extent to which case plans identify and address permanency and placement barriers and treatment plans;
 
-**(b) Statistical analyses** The Administrator may—
+  (H) a description of the best practices in discharge planning; and
+
+  (I) an assessment of living arrangements for juveniles who, upon release from confinement in a State correctional facility, cannot return to the residence they occupied prior to such confinement.
+
+**(b) Statistical analyses** The Administrator shall—
 
 (1) plan and identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
 
@@ -2194,10 +2460,42 @@ Another prior section 246 of Pub. L. 93–415, title II, formerly § 247, Sept. 
 
 (3) make grants and contracts with public and private agencies, institutions, and organizations, for the purpose of disseminating information to representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, the courts, corrections, schools, and related services, in the establishment, implementation, and operation of projects and activities for which financial assistance is provided under this subchapter.
 
+**(f) National recidivism measure** The Administrator, in accordance with applicable confidentiality requirements and in consultation with experts in the field of juvenile justice research, recidivism, and data collection, shall—
+
+(1) establish a uniform method of data collection and technology that States may use to evaluate data on juvenile recidivism on an annual basis;
+
+(2) establish a common national juvenile recidivism measurement system; and
+
+(3) make cumulative juvenile recidivism data that is collected from States available to the public.
+
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 5661 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5661&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–385, § 207(1)(A)(i), substituted “shall” for “may” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 115–385, § 207(1)(A)(ii), substituted “annually publish a plan to identify” for “plan and identify”.
+
+Subsec. (a)(1)(B)(iii). Pub. L. 115–385, § 207(1)(A)(iii)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: “successful efforts to prevent first-time minor offenders from committing subsequent involvement in serious crime;”.
+
+Subsec. (a)(1)(B)(vii). Pub. L. 115–385, § 207(1)(A)(iii)(II), added cl. (vii) and struck out former cl. (vii) which read as follows: “appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;”.
+
+Subsec. (a)(1)(B)(ix) to (xviii). Pub. L. 115–385, § 207(1)(A)(iii)(III), (IV), added cls. (ix) to (xiv) and redesignated former cls. (ix) to (xi) as (xvi) to (xviii), respectively.
+
+Subsec. (a)(4). Pub. L. 115–385, § 207(1)(B)(i), in introductory provisions, substituted “December 21, 2018” for “November 2, 2002” and inserted “in accordance with applicable confidentiality requirements” after “wards of the State”.
+
+Subsec. (a)(4)(D). Pub. L. 115–385, § 207(1)(B)(ii), inserted “and Indian Tribes” after “State”.
+
+Subsec. (a)(4)(H), (I). Pub. L. 115–385, § 207(1)(B)(iii)–(v), added subpars. (H) and (I).
+
+Subsec. (b). Pub. L. 115–385, § 207(2), substituted “shall” for “may” in introductory provisions.
+
+Subsec. (f). Pub. L. 115–385, § 207(3), added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 #### Effective Date
 Part effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -2205,24 +2503,99 @@ Part effective on the first day of the first fiscal year that begins after Nov. 
 
 <a id="section-11162"></a>
 ## § 11162. Training and technical assistance
-**(a) Training** The Administrator may—
+**(a) Training** The Administrator—
 
-(1) develop and carry out projects for the purpose of training representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, courts (including model juvenile and family courts), corrections, schools, and related services, to carry out the purposes specified in [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102); and
+(1) shall develop and carry out projects for the purpose of training representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, courts (including model juvenile and family courts), corrections, schools, and related services, to carry out the purposes specified in [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102);
 
-(2) make grants to and contracts with public and private agencies, institutions, and organizations for the purpose of training representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, courts (including model juvenile and family courts), corrections, schools, and related services, to carry out the purposes specified in [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+(2) may make grants to and contracts with public and private agencies, institutions, and organizations for the purpose of training representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, courts (including model juvenile and family courts), corrections, schools, and related services, to carry out the purposes specified in [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102); and
 
-**(b) Technical assistance** The Administrator may—
+(3) shall provide periodic training for States regarding implementation of the core requirements, current protocols and best practices for achieving and monitoring compliance, and information sharing regarding relevant Office resources on evidence-based and promising programs or practices that promote the purposes of this chapter.
 
-(1) develop and implement projects for the purpose of providing technical assistance to representatives and personnel of public and private agencies and organizations, including practitioners in juvenile justice, law enforcement, courts (including model juvenile and family courts), corrections, schools, and related services, in the establishment, implementation, and operation of programs, projects, and activities for which financial assistance is provided under this subchapter; and
+**(b) Technical assistance** The Administrator—
 
-(2) make grants to and contracts with public and private agencies, institutions, and organizations, for the purpose of providing technical assistance to representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, courts (including model juvenile and family courts), corrections, schools, and related services, in the establishment, implementation, and operation of programs, projects, and activities for which financial assistance is provided under this subchapter.
+(1) shall develop and implement projects for the purpose of providing technical assistance to representatives and personnel of public and private agencies and organizations, including practitioners in juvenile justice, law enforcement, courts (including model juvenile and family courts), corrections, schools, and related services, in the establishment, implementation, and operation of programs, projects, and activities for which financial assistance is provided under this subchapter, including compliance with the core requirements;
 
-**(c) Training and technical assistance to mental health professionals and law enforcement personnel** The Administrator shall provide training and technical assistance to mental health professionals and law enforcement personnel (including public defenders, police officers, probation officers, judges, parole officials, and correctional officers) to address or to promote the development, testing, or demonstration of promising or innovative models (including model juvenile and family courts), programs, or delivery systems that address the needs of juveniles who are alleged or adjudicated delinquent and who, as a result of such status, are placed in secure detention or confinement or in nonsecure residential placements.
+(2) may make grants to and contracts with public and private agencies, institutions, and organizations, for the purpose of providing technical assistance to representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, courts (including model juvenile and family courts), corrections, schools, and related services, in the establishment, implementation, and operation of programs, projects, and activities for which financial assistance is provided under this subchapter;
+
+(3) shall provide technical assistance to States and units of local government on achieving compliance with the amendments to the core requirements and State Plans made by the Juvenile Justice Reform Act of 2018, including training and technical assistance and, when appropriate, pilot or demonstration projects intended to develop and replicate best practices for achieving sight and sound separation in facilities or portions of facilities that are open and available to the general public and that may or may not contain a jail or a lock-up; and
+
+(4) shall provide technical assistance to States in support of efforts to establish partnerships between a State and a university, institution of higher education, or research center designed to improve the recruitment, selection, training, and retention of professional personnel in the fields of medicine, law enforcement, the judiciary, juvenile justice, social work and child protection, education, and other relevant fields who are engaged in, or intend to work in, the field of prevention, identification, and treatment of delinquency.
+
+**(c) Training and technical assistance to mental health professionals and law enforcement personnel** The Administrator shall provide training and technical assistance to mental health professionals and law enforcement personnel (including public defenders, prosecutors, police officers, probation officers, judges, parole officials, and correctional officers) to address or to promote the development, testing, or demonstration of promising or innovative models (including model juvenile and family courts), programs, or delivery systems that address the needs of status offenders and juveniles who are alleged or adjudicated delinquent and who, as a result of such status, are placed in secure detention or confinement or in nonsecure residential placements.
+
+**(d) Best practices regarding legal representation of children** In consultation with experts in the field of juvenile defense, the Administrator shall—
+
+(1) share best practices that may include sharing standards of practice developed by recognized entities in the profession, for attorneys representing children; and
+
+(2) provide a State, if it so requests, technical assistance to implement any of the best practices shared under paragraph (1).
+
+**(e) Best practices for status offenders** Based on the available research and State practices, the Administrator shall—
+
+(1) disseminate best practices for the treatment of status offenders with a focus on reduced recidivism, improved long-term outcomes, and limited usage of valid court orders to place status offenders in secure detention; and
+
+(2) provide a State, on request, technical assistance to implement any of the best practices shared under paragraph (1).
+
+**(f) Training and technical assistance for local and State juvenile detention and corrections personnel** The Administrator shall coordinate training and technical assistance programs with juvenile detention and corrections personnel of States and units of local government—
+
+(1) to promote methods for improving conditions of juvenile confinement, including methods that are designed to minimize the use of dangerous practices, unreasonable restraints, and isolation and methods responsive to cultural differences; and
+
+(2) to encourage alternative behavior management techniques based on positive youth development approaches that may include methods responsive to cultural differences.
+
+**(g) Training and technical assistance to support mental health or substance abuse treatment including home-based or community-based care** The Administrator shall provide training and technical assistance, in conjunction with the appropriate public agencies, to individuals involved in making decisions regarding the disposition and management of cases for youth who enter the juvenile justice system about the appropriate services and placement for youth with mental health or substance abuse needs, including—
+
+(1) juvenile justice intake personnel;
+
+(2) probation officers;
+
+(3) juvenile court judges and court services personnel;
+
+(4) prosecutors and court-appointed counsel; and
+
+(5) family members of juveniles and family advocates.
+
+**(h) Training and technical assistance to support juvenile court judges and personnel** The Attorney General, acting through the Office of Juvenile Justice and Delinquency Prevention and the Office of Justice Programs in consultation with entities in the profession, shall provide directly, or through grants or contracts, training and technical assistance to enhance the capacity of State and local courts, judges, and related judicial personnel to—
+
+(1) improve the lives of children currently involved in or at risk of being involved in the juvenile court system; and
+
+(2) carry out the requirements of this chapter.
+
+**(i) Free and reduced price school lunches for incarcerated juveniles** The Attorney General, in consultation with the Secretary of Agriculture, shall provide guidance to States relating to existing options for school food authorities in the States to apply for reimbursement for free or reduced price lunches under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.) for juveniles who are incarcerated and would, if not incarcerated, be eligible for free or reduced price lunches under that Act.
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsecs. (a)(3) and (h)(2), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+The Juvenile Justice Reform Act of 2018, referred to in subsec. (b)(3), is Pub. L. 115–385, Dec. 21, 2018, 132 Stat. 5123. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+The Richard B. Russell National School Lunch Act, referred to in subsec. (i), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
+
 #### Codification
 Section was formerly classified to [section 5662 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5662&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–385, § 208(1)(A), struck out “may” after “Administrator” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 115–385, § 208(1)(B), inserted “shall” before “develop and carry out projects” and struck out “and” at end.
+
+Subsec. (a)(2). Pub. L. 115–385, § 208(1)(C), inserted “may” before “make grants to and contracts with” and substituted “; and” for period at end.
+
+Subsec. (a)(3). Pub. L. 115–385, § 208(1)(D), added par. (3).
+
+Subsec. (b). Pub. L. 115–385, § 208(2)(A), struck out “may” after “Administrator” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–385, § 208(2)(B), inserted “shall” before “develop and implement projects” and “, including compliance with the core requirements” after “this subchapter” and struck out “and” at end.
+
+Subsec. (b)(2). Pub. L. 115–385, § 208(2)(C), inserted “may” before “make grants to and contracts with” and substituted semicolon for period at end.
+
+Subsec. (b)(3), (4). Pub. L. 115–385, § 208(2)(D), added pars. (3) and (4).
+
+Subsec. (c). Pub. L. 115–385, § 208(3), inserted “prosecutors,” after “public defenders,” and “status offenders and” after “needs of”.
+
+Subsecs. (d) to (i). Pub. L. 115–385, § 208(4), added subsecs. (d) to (i).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 
 <a id="section-11171"></a>
@@ -2239,7 +2612,7 @@ Section was formerly classified to [section 5665 of Title 42](https://uscode.hou
 #### Prior Provisions
 A prior section 261 of title II of Pub. L. 93–415, as added Pub. L. 100–690, title VII, § 7263(a)(2)(F), Nov. 18, 1988, 102 Stat. 4443; amended Pub. L. 102–586, § 2(g)(7), Nov. 4, 1992, 106 Stat. 5000, related to authority to make grants and contracts, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-Another prior section 261 of Pub. L. 93–415 was renumbered section 299 and is classified to [section 11181 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11181).
+Another prior section 261 of Pub. L. 93–415 was renumbered section 299 and was classified to [section 11181 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11181), prior to repeal by Pub. L. 115–385, title IV, § 402(c)(1), Dec. 21, 2018, 132 Stat. 5160.
 
 #### Effective Date
 Part effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -2287,86 +2660,13 @@ Section was formerly classified to [section 5668 of Title 42](https://uscode.hou
 
 
 <a id="section-11181"></a>
-## § 11181. Authorization of appropriations
-**(a) Authorization of appropriations for this subchapter (excluding parts C and E)**
-
-(1) There are authorized to be appropriated to carry out this subchapter such sums as may be appropriate for fiscal years 2003, 2004, 2005, 2006, and 2007.
-
-(2) Of such sums as are appropriated for a fiscal year to carry out this subchapter (other than parts C and E)—
-
-  (A) not more than 5 percent shall be available to carry out part A;
-
-  (B) not less than 80 percent shall be available to carry out part B; and
-
-  (C) not more than 15 percent shall be available to carry out part D.
-
-**(b) Authorization of appropriations for part C** There are authorized to be appropriated to carry out part C such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
-
-**(c) Authorization of appropriations for part E** There are authorized to be appropriated to carry out part E, and authorized to remain available until expended, such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
-
-**(d) Experimentation on individuals; prohibition; “behavior control” defined** No funds appropriated to carry out the purposes of this subchapter may be used for any bio-medical or behavior control experimentation on individuals or any research involving such experimentation. For the purpose of this subsection, the term “behavior control” refers to experimentation or research employing methods which involve a substantial risk of physical or psychological harm to the individual subject and which are intended to modify or alter criminal and other anti-social behavior, including aversive conditioning therapy, drug therapy or chemotherapy (except as part of routine clinical care), physical therapy of mental disorders, electroconvulsive therapy, or physical punishment. The term does not apply to a limited class of programs generally recognized as involving no such risk, including methadone maintenance and certain alcohol treatment programs, psychological counseling, parent training, behavior contracting, survival skills training, restitution, or community service, if safeguards are established for the informed consent of subjects (including parents or guardians of minors).
+## § 11181. Repealed. Pub. L. 115–385, title IV, § 402(c)(1), Dec. 21, 2018, 132 Stat. 5160
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 5671 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5671&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
+Section, Pub. L. 93–415, title II, § 299, formerly § 261, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 94–273, § 32(b), Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–503, title I, § 130(a), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, § 6(b), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §§ 2(a), 15, Dec. 8, 1980, 94 Stat. 2750, 2760; Pub. L. 98–473, title II, § 640, Oct. 12, 1984, 98 Stat. 2121; renumbered § 291 and amended Pub. L. 100–690, title VII, §§ 7265, 7266(3), Nov. 18, 1988, 102 Stat. 4448, 4449; Pub. L. 101–204, title X, §§ 1001(e)(1), 1002, Dec. 7, 1989, 103 Stat. 1827; renumbered § 299 and amended Pub. L. 102–586, § 2(i)(1)(B), (j), Nov. 4, 1992, 106 Stat. 5006, 5016; Pub. L. 107–273, div. C, title II, § 12213, Nov. 2, 2002, 116 Stat. 1891, authorized appropriations for this subchapter for fiscal years 2003 to 2007.
 
-#### Amendments
-2002—Subsecs. (a) to (c). Pub. L. 107–273, § 12213(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related, respectively, to amounts and availability of appropriations for fiscal years 1993 to 1996, percentages available for specific programs, and administrative and supervisory board membership requirements for State agencies.
-
-Subsec. (e). Pub. L. 107–273, § 12213(1), struck out subsec. (e) which read as follows: “Of such sums as are appropriated to carry out [section 5665(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5665/a/6&num=0&edition=prelim), not less than 20 percent shall be reserved by the Administrator for each of fiscal years 1993, 1994, 1995, and 1996, for not less than 2 programs that have not received funds under subpart II of part C of this subchapter prior to October 1, 1992, which shall be selected through the application and approval process set forth in [section 5665a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5665a&num=0&edition=prelim).”
-
-1992—Subsec. (a). Pub. L. 102–586, § 2(j)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
-
-“(1) To carry out the purposes of this subchapter (other than part D) there are authorized to be appropriated such sums as may be necessary for fiscal years 1989, 1990, 1991, and 1992. Funds appropriated for any fiscal year may remain available for obligation until expended.
-
-“(2)(A) Subject to subparagraph (B), to carry out part D of this subchapter, there are authorized to be appropriated $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992.
-
-“(B) No funds may be appropriated to carry out part D of this subchapter for a fiscal year unless the aggregate amount appropriated to carry out this subchapter (other than part D) for such fiscal year is not less than the aggregate amount appropriated to carry out this subchapter (other than part D) for the preceding fiscal year.”
-
-Subsec. (e). Pub. L. 102–586, § 2(j)(2), added subsec. (e).
-
-1989—Subsec. (a). Pub. L. 101–204, § 1001(e)(1), amended directory language of Pub. L. 100–690, § 7265(a)(4), see 1988 Amendment note below.
-
-Subsec. (a)(1). Pub. L. 101–204, § 1002, substituted “are authorized” for “is authorized”.
-
-1988—Subsec. (a). Pub. L. 100–690, § 7265(a), as amended by Pub. L. 101–204, § 1001(e)(1), designated existing provisions as par. (1), inserted “(other than part D)” after “this subchapter”, struck out “1985, 1986, 1987, and 1988” after “fiscal years”, inserted “1989, 1990, 1991, and 1992”, and added par. (2).
-
-Subsec. (b). Pub. L. 100–690, § 7265(b), inserted “(other than part D)” after “this subchapter” in introductory provisions and substituted “5 percent” for “7.5 percent” in par. (1), “70 percent” for “81.5 percent” in par. (2), and “25 percent” for “11 percent” in par. (3).
-
-1984—Subsec. (a). Pub. L. 98–473, amended subsec. (a) generally, substituting provisions relating to authorization of appropriations for fiscal years 1985 to 1988 for former provisions which authorized appropriations for fiscal years 1981 to 1984.
-
-Subsec. (b). Pub. L. 98–473, amended subsec. (b) generally, substituting provisions which set forth specific percentages of appropriations for parts A, B and C for former provisions which also set forth appropriation percentages for juvenile delinquency programs.
-
-Subsec. (c). Pub. L. 98–473, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding any other provision of law, if the Administrator determines, in his discretion, that sufficient funds have not been appropriated for any fiscal year for the activities authorized in part D of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[42 U.S.C. 3741](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3741&num=0&edition=prelim) et seq.], then the Administrator is authorized to—
-
-“(1) approve any appropriate State agency designated by the Governor of the State involved as the sole agency responsible for supervising the preparation and administration of the State plan submitted under [section 5633 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5633&num=0&edition=prelim); and
-
-“(2) establish appropriate administrative and supervisory board membership requirements for any agency designated in accordance with paragraph (1), and permit the State advisory group appointed under [section 5633(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5633/a/2&num=0&edition=prelim) to operate as the supervisory board for such agency, at the discretion of the Governor.”
-
-Subsec. (d). Pub. L. 98–473, in amending section generally, added subsec. (d).
-
-1980—Subsec. (a). Pub. L. 96–509, § 2(a), substituted provisions authorizing appropriations of $200,000,000 for each of fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions that had authorized appropriations of $150,000,000 for fiscal year ending Sept. 30, 1978, $175,000,000 for fiscal year ending Sept. 30, 1979, and $200,000,000 for fiscal year ending Sept. 30, 1980.
-
-Subsec. (c). Pub. L. 96–509, § 15, added subsec. (c).
-
-1977—Subsec. (a). Pub. L. 95–115 substituted provisions setting forth authorization of appropriations for fiscal year ending Sept. 30, 1978, through fiscal year ending Sept. 30, 1980, and authorization of availability of funds until expended, for provisions setting forth authorization of appropriations for fiscal year ending June 30, 1975, through fiscal year ending Sept. 30, 1977.
-
-1976—Subsec. (a). Pub. L. 94–273 substituted “September 30, 1977” for “June 30, 1977”.
-
-Subsec. (b). Pub. L. 94–503 substituted “subsection (a) of this section” for “this section” and “the appropriation for the Law Enforcement Assistance Administration, each fiscal year, at least 19.15 percent of the total appropriations for the Administration, for juvenile delinquency programs” for “other Law Enforcement Assistance Administration appropriations other than the appropriations for administration, at least the same level of financial assistance for juvenile delinquency programs assisted by the Law Enforcement Assistance Administration during fiscal year 1972”.
-
-#### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
-
-#### Effective Date of 1988 Amendment
-Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
-
-#### Effective Date of 1984 Amendment
-Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
-
-#### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
+Section was formerly classified to [section 5671 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5671&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-11182"></a>
@@ -2387,19 +2687,31 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 (3) the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
 
-**(d) Rules, regulations, and procedures** The Administrator is authorized, after appropriate consultation with representatives of States and units of local government, to establish such rules, regulations, and procedures as are necessary for the exercise of the functions of the Office and only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance.
+**(d) Rules, regulations, and procedures**
 
-**(e) Presumption of State compliance** If a State requires by law compliance with the requirements described in paragraphs (11), (12), and (13) of [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim), then for the period such law is in effect in such State such State shall be rebuttably presumed to satisfy such requirements.
+(1) The Administrator is authorized to establish such rules, regulations, guidance, and procedures as are necessary for the exercise of the functions of the Office and only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance. In developing guidance and procedures, the Administrator shall consult with representatives of States and units of local government, including those individuals responsible for administration of this chapter and compliance with the core requirements.
+
+(2) The Administrator shall ensure that—
+
+  (A) reporting, compliance reporting, State plan requirements, and other similar documentation as may be required from States is requested in a manner that respects confidentiality, encourages efficiency and reduces the duplication of reporting efforts; and
+
+  (B) States meeting all the core requirements are encouraged to experiment with offering innovative, data-driven programs designed to further improve the juvenile justice system.
+
+**(e) Presumption of State compliance** If a State requires by law compliance with the core requirements, then for the period such law is in effect in such State such State shall be rebuttably presumed to satisfy such requirements.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+This chapter, referred to in subsecs. (b), (c), and (d)(1), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 #### Codification
 Section was formerly classified to [section 5672 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5672&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–385, § 209(1), designated existing provisions as par. (1), struck out “, after appropriate consultation with representatives of States and units of local government,” after “Administrator is authorized”, inserted “guidance,” after “regulations,” and “In developing guidance and procedures, the Administrator shall consult with representatives of States and units of local government, including those individuals responsible for administration of this chapter and compliance with the core requirements.” at end, and added par. (2).
+
+Subsec. (e). Pub. L. 115–385, § 209(2), substituted “core requirements” for “requirements described in paragraphs (11), (12), and (13) of [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim)”.
+
 2002—Subsec. (d). Pub. L. 107–273, § 12214(1), substituted “only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance” for “as are consistent with the purpose of this chapter”.
 
 Subsec. (e). Pub. L. 107–273, § 12214(2), added subsec. (e).
@@ -2413,6 +2725,9 @@ Subsecs. (c), (d). Pub. L. 98–473, in amending section generally, added subsec
 1980—Pub. L. 96–509 brought relevant applicable administrative provisions of the Omnibus Crime Control and Safe Streets Act of 1968 into conformance subsequent to the Justice System Improvement Amendments of 1979 and provided that the Office of Justice Assistance, Research, and Statistics provide staff support to, and coordinate the activities of the Office in the same manner as it does for the Law Enforcement Assistance Administration, National Institute of Justice, and Bureau of Justice Statistics pursuant to former [section 3781(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3781/b&num=0&edition=prelim).
 
 1977—Pub. L. 95–115 substituted provisions setting forth applicability of specified statutory requirements, for provisions setting forth prohibitions against discrimination and required terms in grants, contracts, and agreements and enforcement procedures thereof.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -2606,7 +2921,7 @@ Section effective on the first day of the first fiscal year that begins after No
 ## § 11201. Authorization of appropriations
 **(a) In general**
 
-(1) **Authorization** — There are authorized to be appropriated to carry out this subchapter (other than [section 11245 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11245) and part E) $140,000,000 for fiscal year 2009, and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
+(1) **Authorization** — There are authorized to be appropriated to carry out this subchapter (other than part E) $127,421,000 for each of fiscal years 2019 through 2020.
 
 (2) **Allocation**
 
@@ -2618,9 +2933,9 @@ Section effective on the first day of the first fiscal year that begins after No
 
   (A) *In general* — In each fiscal year, after reserving the amounts required by paragraph (2), the Secretary shall use the remaining amount (if any) to carry out parts C and D (other than [section 11245 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11245)).
 
-  (B) *Periodic estimate* — There are authorized to be appropriated to carry out [section 11245 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11245) such sums as may be necessary for fiscal years 2009, 2010, 2011, 2012, and 2013.
+  (B) *Periodic estimate* — Of the amount authorized to be appropriated under paragraph (1), such sums as may be necessary shall be made available to carry out [section 11245 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11245) for each of fiscal years 2019 through 2020.
 
-(4) **Part E** — There are authorized to be appropriated to carry out part E $25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
+(4) **Part E** — There are authorized to be appropriated to carry out part E $25,000,000 for each of fiscal years 2019 through 2020.
 
 **(b) Separate identification required** No funds appropriated to carry out this subchapter may be combined with funds appropriated under any other Act if the purpose of combining such funds is to make a single discretionary grant, or a single discretionary payment, unless such funds are separately identified in all grants and contracts and are used for the purposes specified in this subchapter.
 
@@ -2630,6 +2945,12 @@ Section effective on the first day of the first fiscal year that begins after No
 Section was formerly classified to [section 5751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5751&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–385, § 402(b)(1), struck out “[section 11245 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11245) and” before “part E)” and substituted “$127,421,000 for each of fiscal years 2019 through 2020” for “$140,000,000 for fiscal year 2009, and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”.
+
+Subsec. (a)(3)(B). Pub. L. 115–385, § 402(b)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out [section 11245 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11245) such sums as may be necessary for fiscal years 2009, 2010, 2011, 2012, and 2013.”
+
+Subsec. (a)(4). Pub. L. 115–385, § 402(b)(3), substituted “each of fiscal years 2019 through 2020” for “fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”.
+
 2008—Subsec. (a)(1). Pub. L. 110–378, § 11(1), substituted “are authorized” for “is authorized”, “[section 5714–25 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5714–25&num=0&edition=prelim) and part E) $140,000,000 for fiscal year 2009” for “part E of this subchapter) $105,000,000 for fiscal year 2004”, and “2010, 2011, 2012, and 2013” for “2005, 2006, 2007, and 2008”.
 
 Subsec. (a)(3). Pub. L. 110–378, § 11(2), designated existing provisions as subpar. (A), inserted heading, inserted “(other than [section 5714–25 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5714–25&num=0&edition=prelim))” before period, and added subpar. (B).
@@ -2679,6 +3000,9 @@ Subsec. (c). Pub. L. 98–473, § 657(d), added subsec. (c).
 Subsec. (b). Pub. L. 95–115, § 7(d)(2), substituted provisions relating to consultative and coordinating requirements for funded programs and activities, for provisions relating to authorization for funding surveys under part B of this subchapter.
 
 1976—Pub. L. 94–273 substituted “June 30, 1975, and 1976, and September 30, 1977” for “June 30, 1975, 1976, and 1977”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -3819,36 +4143,27 @@ Pars. (4) to (8). Pub. L. 110–378, § 10(b), added par. (4) and redesignated f
 
 The Congress finds that—
 
-(1) each year thousands of children are abducted or removed from the control of a parent having legal custody without such parent’s consent, under circumstances which immediately place the child in grave danger;
+(1) each year tens of thousands of children run away, or are abducted or removed, from the control of a parent having legal custody without the consent of that parent, under circumstances which immediately place the child in grave danger;
 
 (2) many missing children are at great risk of both physical harm and sexual exploitation;
 
 (3) many missing children are runaways;
 
-(4) in many cases, parents and local law enforcement officials have neither the resources nor the expertise to mount expanded search efforts;
+(4) growing numbers of children are the victims of child sexual exploitation, including child sex trafficking and sextortion, increasingly involving the use of new technology to access the Internet;
 
-(5) abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;
+(5) children may be separated from their parents or legal guardians as a result of national disasters such as hurricanes and floods;
 
-(6) growing numbers of children are the victims of child sexual exploitation, increasingly involving the use of new technology to access the Internet;
+(6) sex offenders pose a threat to children; and
 
-(7) children may be separated from their parents or legal guardians as a result of national disasters such as hurricanes and floods;
+(7) the Office of Juvenile Justice and Delinquency Prevention administers programs under this subchapter, including programs that prevent and address offenses committed against vulnerable children and support missing children’s organizations, including the National Center for Missing and Exploited Children that—
 
-(8) sex offenders pose a threat to children;
+  (A) serves as a nonprofit, national resource center and clearinghouse to provide assistance to victims, families, child-serving professionals, and the general public;
 
-(9) the Office of Juvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children’s organizations; and
+  (B) works with the Department of Justice, the Federal Bureau of Investigation, the United States Marshals Service, the Department of the Treasury, the Department of State, U.S. Immigration and Customs Enforcement, the United States Secret Service, the United States Postal Inspection Service, other agencies, and nongovernmental organizations in the effort to find missing children and to prevent child victimization; and
 
-(10) a key component of such programs is the National Center for Missing and Exploited Children, which—
-
-  (A) serves as a national resource center and clearinghouse;
-
-  (B) works in partnership with the Department of Justice, the Federal Bureau of Investigation, the United States Marshals Service, the Department of the Treasury, the Department of State, the Bureau of Immigration and Customs Enforcement, the United States Secret Service, the United States Postal Inspection Service, and many other agencies in the effort to find missing children and prevent child victimization; and
-
-  (C) operates a national network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with international organizations, including Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which enable the Center to transmit images and information regarding missing and exploited children to law enforcement across the United States and around the world instantly.
+  (C) coordinates with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, Puerto Rico, and international organizations to transmit images and information regarding missing and exploited children to law enforcement agencies, nongovernmental organizations, and corporate partners across the United States and around the world instantly.
 
 ### Statutory Notes
-
-#### References in Text
-This chapter, referred to in par. (9), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 #### Codification
 Section was formerly classified to [section 5771 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5771&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -3857,6 +4172,20 @@ Section was formerly classified to [section 5771 of Title 42](https://uscode.hou
 A prior section 402 of Pub. L. 93–415 amended [section 3888 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3888&num=0&edition=prelim), The Public Health and Welfare, and repealed [section 3889 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3889&num=0&edition=prelim), and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+2018—Pub. L. 115–393 made amendments to this section substantially identical to those made by Pub. L. 115–267, § 2(a). See Amendment notes below. Text of section is based on amendments by Pub. L. 115–267.
+
+Par. (1). Pub. L. 115–267, § 2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “each year thousands of children are abducted or removed from the control of a parent having legal custody without such parent’s consent, under circumstances which immediately place the child in grave danger;”.
+
+Par. (4). Pub. L. 115–267, § 2(a)(2)–(4), redesignated par. (6) as (4), inserted “, including child sex trafficking and sextortion” after “exploitation”, and struck out former par. (4) which read as follows: “in many cases, parents and local law enforcement officials have neither the resources nor the expertise to mount expanded search efforts;”.
+
+Par. (5). Pub. L. 115–267, § 2(a)(2), (3), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;”.
+
+Par. (6). Pub. L. 115–267, § 2(a)(3), (5), redesignated par. (8) as (6) and inserted “and” at end. Former par. (6) redesignated (4).
+
+Par. (7). Pub. L. 115–267, § 2(a)(3), (6), redesignated par. (10) as (7) and amended it generally. Prior to amendment, text related to the National Center for Missing and Exploited Children. Former par. (7) redesignated (5).
+
+Pars. (8) to (10). Pub. L. 115–267, § 2(a)(2), (3), redesignated pars. (8) and (10) as (6) and (7), respectively, and struck out par. (9) which read as follows: “the Office of Juvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children’s organizations; and”.
+
 2013—Pub. L. 113–38 added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
 
 2008—Pub. L. 110–240 amended section generally. Prior to amendment, section consisted of pars. (1) to (5) stating findings of Congress concerning missing or abducted children and the role of the National Center for Missing and Exploited Children.
@@ -3864,6 +4193,9 @@ A prior section 402 of Pub. L. 93–415 amended [section 3888 of Title 42](https
 2003—Pub. L. 108–96 amended section generally. Prior to amendment, section consisted of pars. (1) to (21) stating findings of Congress.
 
 1999—Pars. (9) to (21). Pub. L. 106–71 added pars. (9) to (21).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–267, § 4, Oct. 11, 2018, 132 Stat. 3760, provided that: “(a) Effective Date.—Except as provided in subsection (b), this Act [see section 1 of Pub. L. 115–267 set out as a Short Title of 2018 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Oct. 11, 2018]. “(b) Application of Amendments.—The amendments made by section 2 [enacting [section 11295a of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11295a) and amending this section, sections 11292 to 11294, 11296, and 11297 of this title] shall apply with respect to fiscal years that begin after September 30, 2018.”
 
 #### Effective Date
 Subchapter effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as an Effective Date of 1984 Amendment note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -3874,11 +4206,13 @@ Subchapter effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set 
 
 For the purpose of this subchapter—
 
-(1) the term “missing child” means any individual less than 18 years of age whose whereabouts are unknown to such individual’s legal custodian;
+(1) the term “missing child” means any individual less than 18 years of age whose whereabouts are unknown to such individual’s parent;
 
-(2) the term “Administrator” means the Administrator of the Office of Juvenile Justice and Delinquency Prevention; and
+(2) the term “Administrator” means the Administrator of the Office of Juvenile Justice and Delinquency Prevention;
 
-(3) the term “Center” means the National Center for Missing and Exploited Children.
+(3) the term “Center” means the National Center for Missing and Exploited Children; and
+
+(4) the term “parent” includes a legal guardian or other individual who may lawfully exercise parental rights with respect to the child.
 
 ### Statutory Notes
 
@@ -3889,6 +4223,10 @@ Section was formerly classified to [section 5772 of Title 42](https://uscode.hou
 A prior section 403 of Pub. L. 93–415 amended [section 3883 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3883&num=0&edition=prelim), The Public Health and Welfare, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–267, § 2(b)(1), and Pub. L. 115–393, § 202(b)(1), amended section identically, adding par. (1) and striking out former par. (1) which read as follows: “the term ‘missing child’ means any individual less than 18 years of age whose whereabouts are unknown to such individual’s legal custodian;”.
+
+Par. (4). Pub. L. 115–267, § 2(b)(2)–(4), and Pub. L. 115–393, § 202(b)(2)–(4), amended section identically, adding par. (4).
+
 2006—Par. (1). Pub. L. 109–295, which directed amendment of par. (1) by striking out “or” at the end of subpar. (A), inserting “or” after the semicolon in subpar. (B), and adding after subpar. (B) subpar. (C) “the individual is an individual under 21 years of age who is displaced from the habitual residence of that individual as a result of an emergency or major disaster (as those terms are defined in [section 5122 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5122&num=0&edition=prelim)).”, could not be executed because of the prior amendment by Pub. L. 109–248, see below.
 
 Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehensive Crime Control Act of 1984 ([42 U.S.C. 5772](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5772&num=0&edition=prelim))” by substituting a semicolon at end for “if—” through subpar. (B), was executed by substituting a semicolon for “if—”and subpars. (A) and (B) of par. (1) of this section, which is section 403 of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, as added by section 660 of the Comprehensive Crime Control Act of 1984, to reflect the probable intent of Congress. Prior to amendment, subpars. (A) and (B) read as follows:
@@ -3899,6 +4237,9 @@ Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehe
 
 1999—Par. (3). Pub. L. 106–71 added par. (3).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
+
 
 <a id="section-11293"></a>
 ## § 11293. Duties and functions of the Administrator
@@ -3908,7 +4249,7 @@ Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehe
 
 (2) make such arrangements as may be necessary and appropriate to facilitate effective coordination among all federally funded programs relating to missing children (including the preparation of an annual comprehensive plan for facilitating such coordination);
 
-(3) provide for the furnishing of information derived from the national toll-free telephone line, established under subsection (b)(1), to appropriate entities;
+(3) provide for the furnishing of information derived from the national toll-free hotline, established under subsection (b)(1), to appropriate entities;
 
 (4) coordinate with the United States Interagency Council on Homelessness to ensure that homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
 
@@ -3924,7 +4265,7 @@ Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehe
 
   (D) describing how the Administrator satisfied the requirements of paragraph (4) in the preceding fiscal year;
 
-  (E) describing in detail the number and types of telephone calls received in the preceding fiscal year over the national toll-free telephone line established under subsection (b)(1)(A) and the number and types of communications referred to the national communications system established under [section 11231 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11231);
+  (E) describing in detail the number and types of telephone calls received in the preceding fiscal year over the national toll-free hotline established under subsection (b)(1)(A), the number and types of communications referred to the national communications system established under [section 11231 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11231), and the number and types of reports to the tipline established under subsection (b)(1)(K)(i);
 
   (F) describing in detail the activities in the preceding fiscal year of the national resource center and clearinghouse established under subsection (b)(2);
 
@@ -3948,84 +4289,81 @@ Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehe
 
   (A)
 
-    (i) operate a national 24-hour toll-free telephone line by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child’s legal custodian; and
+    (i) operate a national 24-hour toll-free hotline by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child’s parent; and
 
-    (ii) coordinate the operation of such telephone line with the operation of the national communications system referred to in part C of subchapter III;
+    (ii) coordinate the operation of such hotline with the operation of the national communications system referred to in part C of subchapter III;
 
   (B) operate the official national resource center and information clearinghouse for missing and exploited children;
 
   (C) provide to State and local governments, public and private nonprofit agencies, State and local educational agencies, and individuals, information regarding—
 
-    (i) free or low-cost legal, restaurant, lodging, and transportation services that are available for the benefit of missing and exploited children and their families; and
+    (i) free or low-cost legal, food, lodging, and transportation services that are available for the benefit of missing and exploited children and their families;
 
-    (ii) the existence and nature of programs being carried out by Federal agencies to assist missing and exploited children and their families;
+    (ii) the existence and nature of programs being carried out by Federal agencies to assist missing and exploited children and their families; and
+
+    (iii) innovative and model programs, services, and legislation that benefit missing and exploited children;
 
   (D) coordinate public and private programs that locate, recover, or reunite missing children with their families;
 
-  (E) disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;
+  (E) provide technical assistance and training to families, law enforcement agencies, State and local governments, elements of the criminal justice system, nongovernmental agencies, local educational agencies, and the general public—
 
-  (F) based solely on reports received by the National Center for Missing and Exploited Children (NCMEC), and not involving any data collection by NCMEC other than the receipt of those reports, annually provide to the Department of Justice’s Office of Juvenile Justice and Delinquency Prevention—
+    (i) in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
 
-    (i) the number of children nationwide who are reported to NCMEC as missing;
+    (ii) to respond to foster children missing from the State child welfare system in coordination with child welfare agencies and courts handling juvenile justice and dependency matters; and
 
-    (ii) the number of children nationwide who are reported to NCMEC as victims of non-family abductions;
+    (iii) in the identification, location, and recovery of victims of, and children at risk for, child sex trafficking;
 
-    (iii) the number of children nationwide who are reported to NCMEC as victims of parental kidnappings; and
+  (F) provide assistance to families, law enforcement agencies, State and local governments, nongovernmental agencies, child-serving professionals, and other individuals involved in the location and recovery of missing and abducted children nationally and, in cooperation with the Department of State, internationally;
 
-    (iv) the number of children recovered nationwide whose recovery was reported to NCMEC;
+  (G) provide support and technical assistance to child-serving professionals involved in helping to recover missing and exploited children by searching public records databases to help in the identification, location, and recovery of such children, and help in the location and identification of potential abductors and offenders;
 
-  (G) provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;
+  (H) provide forensic and direct on-site technical assistance and consultation to families, law enforcement agencies, child-serving professionals, and nongovernmental organizations in child abduction and exploitation cases, including facial reconstruction of skeletal remains and similar techniques to assist in the identification of unidentified deceased children;
 
-  (H) provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
+  (I) provide training, technical assistance, and information to nongovernmental organizations relating to non-compliant sex offenders and to law enforcement agencies in identifying and locating such individuals;
 
-  (I) provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and, in cooperation with the Department of State, internationally;
+  (J) facilitate the deployment of the National Emergency Child Locator Center to assist in reuniting missing children with their families during periods of national disasters;
 
-  (J) provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;
+  (K) work with families, law enforcement agencies, electronic service providers, electronic payment service providers, technology companies, nongovernmental organizations, and others on methods to reduce the existence and distribution of online images and videos of sexually exploited children—
 
-  (K) provide direct on-site technical assistance and consultation to law enforcement agencies in child abduction and exploitation cases;
+    (i) by operating a tipline to—
 
-  (L) provide forensic technical assistance and consultation to law enforcement and other agencies in the identification of unidentified deceased children through facial reconstruction of skeletal remains and similar techniques;
+      (I) provide to individuals and electronic service providers an effective means of reporting internet-related and other instances of child sexual exploitation in the areas of—
 
-  (M) track the incidence of attempted child abductions in order to identify links and patterns, and provide such information to law enforcement agencies;
+        (aa) possession, manufacture, and distribution of child pornography;
 
-  (N) provide training and assistance to law enforcement agencies in identifying and locating non-compliant sex offenders;
+        (bb) online enticement of children for sexual acts;
 
-  (O) facilitate the deployment of the National Emergency Child Locator Center to assist in reuniting missing children with their families during periods of national disasters;
+        (cc) child sex trafficking;
 
-  (P) operate a cyber tipline to provide online users and electronic service providers an effective means of reporting Internet-related child sexual exploitation in the areas of—
+        (dd) sex tourism involving children;
 
-    (i) possession, manufacture, and distribution of child pornography;
+        (ee) extra-familial child sexual molestation;
 
-    (ii) online enticement of children for sexual acts;
+        (ff) unsolicited obscene material sent to a child;
 
-    (iii) child sex trafficking, including child prostitution;
+        (gg) misleading domain names; and
 
-    (iv) sex tourism involving children;
+        (hh) misleading words or digital images on the internet; and
 
-    (v) extrafamilial child sexual molestation;
+      (II) make reports received through the tipline available to the appropriate law enforcement agency for its review and potential investigation;
 
-    (vi) unsolicited obscene material sent to a child;
+    (ii) by operating a child victim identification program to assist law enforcement agencies in identifying victims of child pornography and other sexual crimes to support the recovery of children from sexually exploitative situations; and
 
-    (vii) misleading domain names; and
+    (iii) by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;
 
-    (viii) misleading words or digital images on the Internet,
-  and subsequently to transmit such reports, including relevant images and information, to the appropriate international, Federal, State or local law enforcement agency for investigation;
+  (L) develop and disseminate programs and information to families, child-serving professionals, law enforcement agencies, State and local governments, nongovernmental organizations, schools, local educational agencies, child-serving organizations, and the general public on—
 
-  (Q) work with law enforcement, Internet service providers, electronic payment service providers, and others on methods to reduce the distribution on the Internet of images and videos of sexually exploited children;
+    (i) the prevention of child abduction and sexual exploitation;
 
-  (R) operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes;
+    (ii) internet safety, including tips for social media and cyberbullying; and
 
-  (S) develop and disseminate programs and information to the general public, schools, public officials, youth-serving organizations, and nonprofit organizations, directly or through grants or contracts with public agencies and public and private nonprofit organizations, on—
+    (iii) sexting and sextortion;
 
-    (i) the prevention of child abduction and sexual exploitation; and
+  (M) provide technical assistance and training to local educational agencies, schools, State and local law enforcement agencies, individuals, and other nongovernmental organizations that assist with finding missing and abducted children in identifying and recovering such children;
 
-    (ii) internet safety;
+  (N) assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
 
-  (T) provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;
-
-  (U) assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
-
-  (V) provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
+  (O) provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
 
 (2) **Limitation**
 
@@ -4057,6 +4395,62 @@ Section was formerly classified to [section 5773 of Title 42](https://uscode.hou
 A prior section 404 of Pub. L. 93–415 amended [section 3882 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3882&num=0&edition=prelim), The Public Health and Welfare, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–267, § 2(c)(1)(A), and Pub. L. 115–393, § 202(c)(1)(A), amended par. (3) identically, substituting “hotline” for “telephone line”.
+
+Subsec. (a)(6)(E). Pub. L. 115–267, § 2(c)(1)(B), and Pub. L. 115–393, § 202(c)(1)(B), amended subpar. (E) identically, substituting “hotline” for “telephone line” and “(b)(1)(A),” for “(b)(1)(A) and” and inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before semicolon at end.
+
+Subsec. (b)(1)(A)(i). Pub. L. 115–267, § 2(c)(2)(A), and Pub. L. 115–393, § 202(c)(2)(A), amended cl. (i) identically, substituting “hotline” for “telephone line” and “parent” for “legal custodian”.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 115–267, § 2(c)(2)(A)(i), and Pub. L. 115–393, § 202(c)(2)(A)(i), amended cl. (ii) identically, substituting “hotline” for “telephone line”.
+
+Subsec. (b)(1)(C)(i). Pub. L. 115–267, § 2(c)(2)(B)(i), and Pub. L. 115–393, § 202(c)(2)(B)(i), amended cl. (i) identically, substituting “food” for “restaurant” and striking out “and” at end.
+
+Subsec. (b)(1)(C)(iii). Pub. L. 115–267, § 2(c)(2)(B)(ii), (iii), and Pub. L. 115–393, § 202(c)(2)(B)(ii), (iii), amended subsec. (b)(1)(C) identically, adding cl. (iii).
+
+Subsec. (b)(1)(E) to (V). Pub. L. 115–393, § 202(c)(2)(C)–(L), made amendments to subpars. (E) to (V) substantially identical to those made by Pub. L. 115–267, § 2(c)(2)(C)–(L). See Amendment notes below. Text of subsec. (b)(1)(E) to (V) is based on amendments by Pub. L. 115–267.
+
+Subsec. (b)(1)(E). Pub. L. 115–267, § 2(c)(2)(D), (H), redesignated subpar. (H) as (E) and amended it generally. Prior to amendment, text read as follows: “provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children, including cases involving children with developmental disabilities such as autism;”.
+
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (E) which read as follows: “disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;”.
+
+Subsec. (b)(1)(F). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (I) as (F) and amended it generally. Prior to amendment, text read as follows: “provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and, in cooperation with the Department of State, internationally;”.
+
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (F) which related to requirement to annually provide the Office of Juvenile Justice and Delinquency Prevention certain information based on reports received by the National Center for Missing and Exploited Children.
+
+Subsec. (b)(1)(G). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (J) as (G) and amended it generally. Prior to amendment, text read as follows: “provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;”.
+
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (G) which read as follows: “provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;”.
+
+Subsec. (b)(1)(H). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (K) as (H) and amended it generally. Prior to amendment, text read as follows: “provide direct on-site technical assistance and consultation to law enforcement agencies in child abduction and exploitation cases;”. Former subpar. (H) redesignated (E).
+
+Pub. L. 115–141 inserted “, including cases involving children with developmental disabilities such as autism” before semicolon at end.
+
+Subsec. (b)(1)(I). Pub. L. 115–267, § 2(c)(2)(E), (J), redesignated subpar. (N) as (I) and amended it generally. Prior to amendment, text read as follows: “provide training and assistance to law enforcement agencies in identifying and locating non-compliant sex offenders;”. Former subpar. (I) redesignated (F).
+
+Subsec. (b)(1)(J). Pub. L. 115–267, § 2(c)(2)(E), redesignated subpar. (O) as (J). Former subpar. (J) redesignated (G).
+
+Subsec. (b)(1)(K). Pub. L. 115–267, § 2(c)(2)(F), (K), redesignated subpar. (Q) as (K) and amended it generally. Prior to amendment, text read as follows: “work with law enforcement, Internet service providers, electronic payment service providers, and others on methods to reduce the distribution on the Internet of images and videos of sexually exploited children;”. Former subpar. (K) redesignated (H).
+
+Subsec. (b)(1)(L). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (S) as (L), and amended it generally. Prior to amendment, text related to development and dissemination of programs and information on prevention of child abduction and sexual exploitation and internet safety.
+
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (L) which read as follows: “provide forensic technical assistance and consultation to law enforcement and other agencies in the identification of unidentified deceased children through facial reconstruction of skeletal remains and similar techniques;”.
+
+Subsec. (b)(1)(M). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (T) as (M), and amended it generally. Prior to amendment, text read as follows: “provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;”.
+
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (M) which read as follows: “track the incidence of attempted child abductions in order to identify links and patterns, and provide such information to law enforcement agencies;”.
+
+Subsec. (b)(1)(N). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpar. (U) as (N). Former subpar. (N) redesignated (I).
+
+Subsec. (b)(1)(O). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpar. (V) as (O). Former subpar. (O) redesignated (J).
+
+Subsec. (b)(1)(P). Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (P) which related to cyber tipline for reporting Internet-related child sexual exploitation.
+
+Subsec. (b)(1)(Q). Pub. L. 115–267, § 2(c)(2)(F), redesignated subpar. (Q) as (K). Former subpar. (K) redesignated (H).
+
+Subsec. (b)(1)(R). Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (R) which read as follows: “operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes;”.
+
+Subsec. (b)(1)(S) to (V). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpars. (S) to (V) as (L) to (O), respectively.
+
 2015—Subsec. (b)(1)(P)(iii). Pub. L. 114–22 substituted “child sex trafficking, including child prostitution” for “child prostitution”.
 
 2013—Subsec. (a)(4). Pub. L. 113–38, § 2(b)(1)(C), added par. (4). Former par. (4) redesignated (5).
@@ -4119,6 +4513,9 @@ Subsec. (b)(2)(D). Pub. L. 100–690, § 7285(b)(2)(B), inserted “and training
 
 Subsec. (b)(4). Pub. L. 100–690, § 7285(b)(3), (4), added par. (4).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018 and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
@@ -4149,9 +4546,9 @@ For termination, effective May 15, 2000, of provisions in subsec. (a)(6) of this
 
 (6) to address the particular needs of missing children by minimizing the negative impact of judicial and law enforcement procedures on children who are victims of abuse or sexual exploitation and by promoting the active participation of children and their families in cases involving abuse or sexual exploitation of children;
 
-(7) to address the needs of missing children (as defined in [section 11292(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11292/1/A&num=0&edition=prelim)) and their families following the recovery of such children;
+(7) to address the needs of missing children and their families following the recovery of such children;
 
-(8) to reduce the likelihood that individuals under 18 years of age will be removed from the control of such individuals’ legal custodians without such custodians’ consent; and
+(8) to reduce the likelihood that individuals under 18 years of age will be removed from the control of such individuals’ parents without such parents’ consent; and
 
 (9) to establish or operate statewide clearinghouses to assist in locating and recovering missing children.
 
@@ -4159,7 +4556,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a)(6) of this
 
 (1) have demonstrated or demonstrate ability in—
 
-  (A) locating missing children or locating and reuniting missing children with their legal custodians;
+  (A) locating missing children or locating and reuniting missing children with their parents;
 
   (B) providing other services to missing children or their families; or
 
@@ -4179,6 +4576,12 @@ Section was formerly classified to [section 5775 of Title 42](https://uscode.hou
 A prior section 405 of Pub. L. 93–415 was classified to [section 5774 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5774&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by Pub. L. 100–690, title VII, § 7286, Nov. 18, 1988, 102 Stat. 4460.
 
 #### Amendments
+2018—Subsec. (a)(7). Pub. L. 115–267, § 2(d)(1)(A), and Pub. L. 115–393, § 202(d)(1)(A), amended par. (7) identically, striking out “(as defined in [section 11292(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11292/1/A&num=0&edition=prelim))” after “missing children”.
+
+Subsec. (a)(8). Pub. L. 115–267, § 2(d)(1)(B), and Pub. L. 115–393, § 202(d)(1)(B), amended par. (8) identically, substituting “parents” for “legal custodians” and “parents’ ” for “custodians’ ”.
+
+Subsec. (b)(1)(A). Pub. L. 115–267, § 2(d)(2), and Pub. L. 115–393, § 202(d)(2), amended subpar. (A) identically, substituting “parents” for “legal custodians”.
+
 2013—Subsec. (a)(1). Pub. L. 113–38, § 2(c)(1), inserted “schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers,” after “children,”.
 
 Subsec. (a)(3). Pub. L. 113–38, § 2(c)(2), inserted “and schools” after “communities”.
@@ -4188,6 +4591,9 @@ Subsec. (a)(3). Pub. L. 113–38, § 2(c)(2), inserted “and schools” after �
 1989—Subsec. (a)(9). Pub. L. 101–204 substituted “clearinghouses” for “clearinghouse”.
 
 1988—Subsec. (a)(7) to (9). Pub. L. 100–690, § 7287, added pars. (7) to (9).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018 and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -4223,12 +4629,46 @@ Pub. L. 100–690, § 7288, amended section generally. Prior to amendment, secti
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
 
+<a id="section-11295a"></a>
+## § 11295a. Reporting
+**(a) Required reporting** As a condition of receiving funds under [section 11293(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11293/b&num=0&edition=prelim), the grant recipient shall, based solely on reports received by the grantee and not involving any data collection by the grantee other than those reports, annually provide to the Administrator and make available to the general public, as appropriate—
+
+(1) the number of children nationwide who are reported to the grantee as missing;
+
+(2) the number of children nationwide who are reported to the grantee as victims of non-family abductions;
+
+(3) the number of children nationwide who are reported to the grantee as victims of family abductions; and
+
+(4) the number of missing children recovered nationwide whose recovery was reported to the grantee.
+
+**(b) Incidence of attempted child abductions** As a condition of receiving funds under [section 11293(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11293/b&num=0&edition=prelim), the grant recipient shall—
+
+(1) track the incidence of attempted child abductions in order to identify links and patterns;
+
+(2) provide such information to law enforcement agencies; and
+
+(3) make such information available to the general public, as appropriate.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 115–267 and Pub. L. 115–393 enacted identical sections.
+
+#### Prior Provisions
+A prior section 407 of Pub. L. 93–415 was renumbered section 408 and is classified to [section 11296 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11296).
+
+Another prior section 407 of title IV of Pub. L. 93–415, as added Pub. L. 103–322, title XVII, § 170303(2), Sept. 13, 1994, 108 Stat. 2043, established the Missing and Exploited Children’s Task Force, prior to repeal by Pub. L. 110–240, § 5(1), June 3, 2008, 122 Stat. 1564.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018 and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
+
+
 <a id="section-11296"></a>
 ## § 11296. Oversight and accountability
 
 All grants awarded by the Department of Justice that are authorized under this subchapter shall be subject to the following:
 
-(1) **Audit requirement** — For 2 of the fiscal years in the period of fiscal years 2014 through 2018, the Inspector General of the Department of Justice shall conduct audits of the recipient of grants under this subchapter to prevent waste, fraud, and abuse by the grantee.
+(1) **Audit requirement** — For 2 of the fiscal years in the period of fiscal years 2014 through 2023, the Inspector General of the Department of Justice shall conduct audits of the recipient of grants under this subchapter to prevent waste, fraud, and abuse by the grantee.
 
 (2) **Mandatory exclusion** — If the recipient of grant funds under this subchapter is found to have an unresolved audit finding, then that entity shall not be eligible to receive grant funds under this subchapter during the 2 fiscal years beginning after the 12-month period described in paragraph (4).
 
@@ -4275,24 +4715,36 @@ All grants awarded by the Department of Justice that are authorized under this s
 ### Statutory Notes
 
 #### Codification
+Pub. L. 115–267, § 2(e)(1), and Pub. L. 115–393, § 202(e)(1), identically renumbered section 407 of Pub. L. 93–415 as section 408.
+
 Section was formerly classified to [section 5776a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5776a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
-A prior section 407 of title IV of Pub. L. 93–415, as added Pub. L. 103–322, title XVII, § 170303(2), Sept. 13, 1994, 108 Stat. 2043, established the Missing and Exploited Children’s Task Force, prior to repeal by Pub. L. 110–240, § 5(1), June 3, 2008, 122 Stat. 1564.
+A prior section 408 of Pub. L. 93–415 was renumbered section 409 and is classified to [section 11297 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11297).
+
+#### Amendments
+2018—Par. (1). Pub. L. 115–267, § 3(b), substituted “2023” for “2018”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018, with amendment by section 2 of Pub. L. 115–267 applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
 
 
 <a id="section-11297"></a>
 ## § 11297. Authorization of appropriations
-**(a) In general** To carry out the provisions of this subchapter, there are authorized to be appropriated $40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out [section 11293(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11293/b&num=0&edition=prelim) for each such fiscal year.
+**(a) In general** To carry out the provisions of this subchapter, there are authorized to be appropriated $40,000,000 for each of the fiscal years 2014 through 2023, up to $32,200,000 of which shall be used to carry out [section 11293(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11293/b&num=0&edition=prelim) for each such fiscal year.
 
 **(b) Evaluation** The Administrator may use not more than 5 percent of the amount appropriated for a fiscal year under subsection (a) to conduct an evaluation of the effectiveness of the programs and activities established and operated under this subchapter.
 
 ### Statutory Notes
 
 #### Codification
+Pub. L. 115–267, § 2(e)(1), and Pub. L. 115–393, § 202(e)(1), identically renumbered section 408 of Pub. L. 93–415 as section 409.
+
 Section was formerly classified to [section 5777 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5777&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–267, § 3(a), substituted “2023” for “2018”.
+
 2013—Subsec. (a). Pub. L. 113–38, § 3(1), substituted “$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out [section 5773(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5773/b&num=0&edition=prelim) for each such fiscal year.” for “such sums as may be necessary for fiscal years 2008 through 2013.”
 
 2008—Subsec. (a). Pub. L. 110–240, § 4, which directed substitution of “2008 through 2013” for “2007 through 2008”, was executed by making the substitution for “2004 through 2008”, to reflect the probable intent of Congress.
@@ -4310,6 +4762,9 @@ Pub. L. 108–21 substituted “fiscal years 2004 through 2005.” for “fiscal
 1989—Pub. L. 101–204 amended directory language of Pub. L. 100–690, § 7289(3), see 1988 Amendment note below.
 
 1988—Pub. L. 100–690, § 7289, as amended by Pub. L. 101–204, struck out “$10,000,000 for fiscal year 1985, and” after “appropriated” and “1986, 1987, and 1988” after “fiscal years” and inserted “1989, 1990, 1991, and 1992”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018, with amendment by section 2 of Pub. L. 115–267 applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -4341,19 +4796,115 @@ Section was enacted as part of the Crime Control Act of 1990, and not as part of
 
 
 <a id="section-11311"></a>
-## § 11311. Definition
+## § 11311. Definitions
 
-In this subchapter, the term “State advisory group” means the advisory group appointed by the chief executive officer of a State under a plan described in [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim).
+In this subchapter—
+
+(1) the term “at-risk” has the meaning given that term in [section 6472 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6472&num=0&edition=prelim);
+
+(2) the term “eligible entity” means—
+
+  (A) a unit of local government that is in compliance with the requirements of part B of subchapter II; or
+
+  (B) a nonprofit organization in partnership with a unit of local government described in subparagraph (A);
+
+(3) the term “delinquency prevention program” means a delinquency prevention program that is evidence-based or promising and that may include—
+
+  (A) alcohol and substance abuse prevention or treatment services;
+
+  (B) tutoring and remedial education, especially in reading and mathematics;
+
+  (C) child and adolescent health and mental health services;
+
+  (D) recreation services;
+
+  (E) leadership and youth development activities;
+
+  (F) the teaching that individuals are and should be held accountable for their actions;
+
+  (G) assistance in the development of job training skills;
+
+  (H) youth mentoring programs;
+
+  (I) after-school programs;
+
+  (J) coordination of a continuum of services that may include—
+
+    (i) early childhood development services;
+
+    (ii) voluntary home visiting programs;
+
+    (iii) nurse-family partnership programs;
+
+    (iv) parenting skills training;
+
+    (v) child abuse prevention programs;
+
+    (vi) family stabilization programs;
+
+    (vii) child welfare services;
+
+    (viii) family violence intervention programs;
+
+    (ix) adoption assistance programs;
+
+    (x) emergency, transitional and permanent housing assistance;
+
+    (xi) job placement and retention training;
+
+    (xii) summer jobs programs;
+
+    (xiii) alternative school resources for youth who have dropped out of school or demonstrate chronic truancy;
+
+    (xiv) conflict resolution skill training;
+
+    (xv) restorative justice programs;
+
+    (xvi) mentoring programs;
+
+    (xvii) targeted gang prevention, intervention and exit services;
+
+    (xviii) training and education programs for pregnant teens and teen parents; and
+
+    (xix) pre-release, post-release, and reentry services to assist detained and incarcerated youth with transitioning back into and reentering the community; and
+
+  (K) other data-driven evidence-based or promising prevention programs;
+
+(4) the term “local policy board”, when used with respect to an eligible entity, means a policy board that the eligible entity will engage in the development of the eligible entity’s plan described in [section 11313(e)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11313/e/5&num=0&edition=prelim), and that includes—
+
+  (A) not fewer than 15 and not more than 21 members; and 11 So in original. The word “and” probably should not appear.
+
+  (B) a balanced representation of—
+
+    (i) public agencies and private nonprofit organizations serving juveniles and their families; and
+
+    (ii) business and industry;
+
+  (C) at least one representative of the faith community, one adjudicated youth, and one parent of an adjudicated youth; and
+
+  (D) in the case of an eligible entity described in paragraph (1)(B), a representative of the nonprofit organization of the eligible entity;
+
+(5) the term “mentoring” means matching 1 adult with 1 or more youths for the purpose of providing guidance, support, and encouragement through regularly scheduled meetings for not less than 9 months;
+
+(6) the term “State advisory group” means the advisory group appointed by the chief executive officer of a State under a plan described in [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim); and
+
+(7) the term “State entity” means the State agency designated under [section 11133(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a/1&num=0&edition=prelim) or the entity receiving funds under [section 11133(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/d&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 5781 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5781&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Another section 502 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1134, amended [section 5032 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5032&num=0&edition=prelim), Crimes and Criminal Procedure.
-
 #### Prior Provisions
 A prior section 502 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, related to findings, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
+
+Another prior section 502 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1134, amended [section 5032 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5032&num=0&edition=prelim), Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+
+#### Amendments
+2018—Pub. L. 115–385 amended section generally. Prior to amendment, text read as follows: “In this subchapter, the term ‘State advisory group’ means the advisory group appointed by the chief executive officer of a State under a plan described in [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/a&num=0&edition=prelim).”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 #### Effective Date
 Pub. L. 107–273, div. C, title II, § 12222(b), Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, § 110(1), Feb. 20, 2003, 117 Stat. 67, provided that: “The amendment made by subsection (a) [see Tables for classification] shall take effect on the effective date provided in section 12102(b) [set out as a note under [section 10401 of this title](./chapter-101-justice-system-improvement.md#section-10401)], and shall not apply with respect to grants made before such date.”
@@ -4367,13 +4918,11 @@ Pub. L. 102–586, § 5(b), Nov. 4, 1992, 106 Stat. 5029, as amended by Pub. L. 
 
 The Administrator shall—
 
-(1) issue such rules as are necessary or appropriate to carry out this subchapter;
+(1) make such arrangements as are necessary and appropriate to facilitate coordination and policy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
 
-(2) make such arrangements as are necessary and appropriate to facilitate coordination and policy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
+(2) provide adequate staff and resources necessary to properly carry out this subchapter; and
 
-(3) provide adequate staff and resources necessary to properly carry out this subchapter; and
-
-(4) not later than 180 days after the end of each fiscal year, submit a report to the chairman of the Committee on Education and the Workforce of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate—
+(3) not later than 180 days after the end of each fiscal year, submit a report to the chairman of the Committee on Education and the Workforce of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate—
 
   (A) describing activities and accomplishments of grant activities funded under this subchapter;
 
@@ -4388,101 +4937,162 @@ The Administrator shall—
 #### Codification
 Section was formerly classified to [section 5782 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5782&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Another section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended [section 5033 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5033&num=0&edition=prelim), Crimes and Criminal Procedure.
-
 #### Prior Provisions
 A prior section 503 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, defined “State advisory group”, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
 
+Another prior section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended [section 5033 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5033&num=0&edition=prelim), Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+
+#### Amendments
+2018—Pub. L. 115–385 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “issue such rules as are necessary or appropriate to carry out this subchapter;”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+
 
 <a id="section-11313"></a>
-## § 11313. Grants for delinquency prevention programs
-**(a) Purposes** The Administrator may make grants to a State, to be transmitted through the State advisory group to units of local government that meet the requirements of subsection (b), or to federally recognized Indian tribe 11 So in original. Probably should be “tribes”. or consortia of federally recognized Indian tribes under subsection (d), for delinquency prevention programs and activities for juveniles who have had contact with the juvenile justice system or who are likely to have contact with the juvenile justice system, including the provision to juveniles and their families of—
+## § 11313. Grants for local delinquency prevention programs
+**(a) Purpose** The purpose of this section is to enable local communities to address the unmet needs of at-risk or delinquent youth, including through a continuum of delinquency prevention programs for juveniles who have had contact with the juvenile justice system or who are likely to have contact with the juvenile justice system.
 
-(1) alcohol and substance abuse prevention services;
+**(b) Program authorized** The Administrator shall—
 
-(2) tutoring and remedial education, especially in reading and mathematics;
+(1) for each fiscal year for which less than $25,000,000 is appropriated under section 506,11 See References in Text note below. award grants to not fewer than 3 State entities, but not more than 5 State entities, that apply under subsection (c) and meet the requirements of subsection (d); or
 
-(3) child and adolescent health and mental health services;
+(2) for each fiscal year for which $25,000,000 or more is appropriated under section 506,1 award grants to not fewer than 5 State entities that apply under subsection (c) and meet the requirements of subsection (d).
 
-(4) recreation services;
+**(c) State application** To be eligible to receive a grant under this section, a State entity shall submit an application to the Administrator that includes the following:
 
-(5) leadership and youth development activities;
+(1) An assurance the State entity will use—
 
-(6) the teaching that people are and should be held accountable for their actions;
+  (A) not more than 10 percent of such grant, in the aggregate—
 
-(7) assistance in the development of job training skills; and
+    (i) for the costs incurred by the State entity to carry out this section, except that not more than 3 percent of such grant may be used for such costs; and
 
-(8) other data-driven evidence based prevention programs.
+    (ii) to provide technical assistance to eligible entities receiving a subgrant under subsection (e) in carrying out delinquency prevention programs under the subgrant; and
 
-**(b) Eligibility** The requirements of this subsection are met with respect to a unit of general local government if—
+  (B) the remainder of such grant to award subgrants to eligible entities under subsection (e).
 
-(1) the unit is in compliance with the requirements of part B of subchapter II;
+(2) An assurance that such grant will supplement, and not supplant, State and local efforts to prevent juvenile delinquency.
 
-(2) the unit has submitted to the State advisory group a minimum 3-year comprehensive plan outlining the unit’s local front end plans for investment for delinquency prevention and early intervention activities;
+(3) An assurance the State entity will evaluate the capacity of eligible entities receiving a subgrant under subsection (e) to fulfill the requirements under such subsection.
 
-(3) the unit has included in its application to the Administrator for formula grant funds a summary of the minimum 3-year comprehensive plan described in paragraph (2);
+(4) An assurance that such application was prepared after consultation with, and participation by, the State advisory group, units of local government, community-based organizations, and organizations that carry out programs, projects, or activities to prevent juvenile delinquency in the local juvenile justice system served by the State entity.
 
-(4) pursuant to its minimum 3-year comprehensive plan, the unit has appointed a local policy board of not fewer than 15 and not more than 21 members, with balanced representation of public agencies and private nonprofit organizations serving juveniles, their families, and business and industry;
+**(d) Approval of State applications** In awarding grants under this section for a fiscal year, the Administrator may not award a grant to a State entity for a fiscal year unless—
 
-(5) the unit has, in order to aid in the prevention of delinquency, included in its application a plan for the coordination of services to at-risk juveniles and their families, including such programs as nutrition, energy assistance, and housing;
+(1)
 
-(6) the local policy board is empowered to make all recommendations for distribution of funds and evaluation of activities funded under this subchapter; and
+  (A) the State that will be served by the State entity submitted a plan under [section 11133 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11133) for such fiscal year; and
 
-(7) the unit or State has agreed to provide a 50 percent match of the amount of the grant, including the value of in-kind contributions, to fund the activity.
+  (B) such plan is approved by the Administrator for such fiscal year; or
 
-**(c) Priority** In considering grant applications under this section, the Administrator shall give priority to applicants that demonstrate ability in—
+(2) after finding good cause for a waiver, the Administrator waives the plan required under subparagraph (A) for such State for such fiscal year.
 
-(1) plans for service and agency coordination and collaboration including the colocation of services;
+**(e) Subgrant program**
 
-(2) innovative ways to involve the private nonprofit and business sector in delinquency prevention activities;
+(1) **Program authorized**
 
-(3) developing or enhancing a statewide subsidy program to local governments that is dedicated to early intervention and delinquency prevention;
+  (A) *In general* — Each State entity receiving a grant under this section shall award subgrants to eligible entities in accordance with this subsection.
 
-(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II; 22 See References in Text note below. and
+  (B) *Priority* — In awarding subgrants under this subsection, the State shall give priority to eligible entities that demonstrate ability in—
 
-(5) developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness.
+    (i) plans for service and agency coordination and collaboration including the collocation of services;
 
-**(d) Grants for tribal delinquency prevention and response programs**
+    (ii) innovative ways to involve the private nonprofit and business sector in delinquency prevention activities;
 
-(1) **In general** — The Administrator shall make grants under this section, on a competitive basis, to eligible Indian tribes or consortia of Indian tribes, as described in paragraph (2)—
+    (iii) developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness;
 
-  (A) to support and enhance—
+    (iv) identifying under the plan submitted under paragraph (5) potential savings and efficiencies associated with successful implementation of such plan; and
 
-    (i) tribal juvenile delinquency prevention services; and
+    (v) describing how such savings and efficiencies may be used to carry out delinquency prevention programs and be reinvested in the continuing implementation of such programs after the end of the subgrant period.
 
-    (ii) the ability of Indian tribes to respond to, and care for, juvenile offenders; and
+  (C) *Subgrant program period and diversity of projects*
 
-  (B) to encourage accountability of Indian tribal governments with respect to preventing juvenile delinquency and responding to, and caring for, juvenile offenders.
+    (i) *Program period* — A subgrant awarded to an eligible entity by a State entity under this section shall be for a period of not more than 5 years, of which the eligible entity—
 
-(2) **Eligible Indian tribes** — To be eligible to receive a grant under this subsection, an Indian tribe or consortium of Indian tribes shall submit to the Administrator an application in such form and containing such information as the Administrator may require.
+      (I) may use not more than 18 months for completing the plan submitted by the eligible entity under paragraph (5); and
 
-(3) **Considerations** — In providing grants under this subsection, the Administrator shall take into consideration, with respect to the Indian tribe to be served, the—
+      (II) shall use the remainder of the subgrant period, after planning 22 So in original. Probably should be preceded by “the”. period described in subclause (I), for the implementation of such plan.
 
-  (A) juvenile crime rates;
+    (ii) *Diversity of projects* — In awarding subgrants under this subsection, a State entity shall ensure, to the extent practicable and applicable, that such subgrants are distributed throughout different areas, including urban, suburban, and rural areas.
 
-  (B) dropout rates; and
+(2) **Local application** — An eligible entity that desires a subgrant under this subsection shall submit an application to the State entity in the State of the eligible entity, at such time and in such manner as determined by the State entity, and that includes—
 
-  (C) number of at-risk youth.
+  (A) a description of—
 
-(4) **Authorization of appropriations** — There is authorized to be appropriated $25,000,000 for each of fiscal years 2011 through 2015.
+    (i) the local policy board and local partners the eligible entity will engage in the development of the plan described in paragraph (5);
+
+    (ii) the unmet needs of at-risk or delinquent youth in the community;
+
+    (iii) available resources in the community to meet the unmet needs identified in the needs assessment described in paragraph (5)(A); 33 So in original. Probably should be followed by “and”.
+
+    (iv) potential costs to the community if the unmet needs are not addressed;
+
+  (B) a specific time period for the planning and subsequent implementation of its continuum of local delinquency prevention programs;
+
+  (C) the steps the eligible entity will take to implement the plan under subparagraph (A); and
+
+  (D) a plan to continue the grant activity with non-Federal funds, if proven successful according to the performance evaluation process under paragraph (5)(D), after the grant period.
+
+(3) **Matching requirement** — An eligible entity desiring a subgrant under this subsection shall agree to provide a 50 percent match of the amount of the subgrant that may include the value of in-kind contributions.
+
+(4) **Subgrant review**
+
+  (A) *Review* — Not later than the end of the second year of a subgrant period for a subgrant awarded to an eligible entity under this subsection and before awarding the remaining amount of the subgrant to the eligible entity, the State entity shall—
+
+    (i) ensure that the eligible entity has completed the plan submitted under paragraph (2) and that the plan meets the requirements of such paragraph; and
+
+    (ii) verify that the eligible entity will begin the implementation of its plan upon receiving the next installment of its subgrant award.
+
+  (B) *Termination* — If the State entity finds through the review conducted under subparagraph (A) that the eligible entity has not met the requirements of clause (i) of such subparagraph, the State entity shall reallocate the amount remaining on the subgrant of the eligible entity to other eligible entities receiving a subgrant under this subsection or award the amount to an eligible entity during the next subgrant competition under this subsection.
+
+(5) **Local uses of funds** — An eligible entity that receives a subgrant under this subsection shall use the funds to implement a plan to carry out delinquency prevention programs in the community served by the eligible entity in a coordinated manner with other delinquency prevention programs or entities serving such community, which includes—
+
+  (A) an analysis of the unmet needs of at-risk or delinquent youth in the community—
+
+    (i) which shall include—
+
+      (I) the available resources in the community to meet the unmet needs; and
+
+      (II) factors present in the community that may contribute to delinquency, such as homelessness, food insecurity, teen pregnancy, youth unemployment, family instability, lack of educational opportunity; and
+
+    (ii) may include an estimate—
+
+      (I) for the most recent year for which reliable data is available, the amount expended by the community and other entities for delinquency adjudication for juveniles and the incarceration of adult offenders for offenses committed in such community; and
+
+      (II) of potential savings and efficiencies that may be achieved through the implementation of the plan;
+
+  (B) a minimum 3-year comprehensive strategy to address the unmet needs and an estimate of the amount or percentage of non-Federal funds that are available to carry out the strategy;
+
+  (C) a description of how delinquency prevention programs under the plan will be coordinated;
+
+  (D) a description of the performance evaluation process of the delinquency prevention programs to be implemented under the plan, which shall include performance measures to assess efforts to address the unmet needs of youth in the community analyzed under subparagraph (A);
+
+  (E) the evidence or promising evaluation on which such delinquency prevention programs are based; and
+
+  (F) if such delinquency prevention programs are proven successful according to the performance evaluation process under subparagraph (D), a strategy to continue such programs after the subgrant period with non-Federal funds, including a description of how any estimated savings or efficiencies created by the implementation of the plan may be used to continue such programs.
 
 ### Statutory Notes
 
 #### References in Text
-Part C of subchapter II, referred to in subsec. (c)(4), was in the original “part C of this subtitle”, and was translated as reading “part C of title II”, meaning part C of title II of Pub. L. 93–415, to reflect the probable intent of Congress. Title V of Pub. L. 93–415 does not contain parts or subtitles.
+Section 506, referred to in subsec. (b), means section 506 of Pub. L. 93–415, which was formerly section 505 of the Act prior to renumbering by Pub. L. 115–385, and was classified to [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), The Public Health and Welfare, prior to omission from the Code. After renumbering section 505 as 506, Pub. L. 115–385 went on to add a new section 505 of the Act and then repeal “section 505”, which was executed by repealing section 506 as renumbered, to reflect the probable intent of Congress. A new section relating to authorization of appropriations was enacted by Pub. L. 115–385 as section 601 of Pub. L. 93–415 and is classified to [section 11321 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11321).
 
 #### Codification
 Section was formerly classified to [section 5783 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5783&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Another section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended [section 5034 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5034&num=0&edition=prelim), Crimes and Criminal Procedure. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
-
 #### Prior Provisions
 A prior section 504 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, set out the duties and functions of the Administrator, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
 
+Another prior section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended [section 5034 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5034&num=0&edition=prelim), Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
+
 #### Amendments
+2018—Pub. L. 115–385 amended section generally. Prior to amendment, section provided for grants to States and Indian tribes for delinquency prevention programs.
+
 2010—Subsec. (a). Pub. L. 111–211, § 246(a)(1), inserted “, or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)” after “subsection (b)” in introductory provisions.
 
 Subsec. (d). Pub. L. 111–211, § 246(a)(2), added subsec. (d).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
 
 #### Youth Violence Reduction Demonstration Projects
 Pub. L. 109–162, title XI, § 1199, Jan. 5, 2006, 119 Stat. 3132, provided that: “(a) Establishment of Youth Violence Reduction Demonstration Projects.—“(1) In general.—The Attorney General shall make up to 5 grants for the purpose of carrying out Youth Violence Demonstration Projects to reduce juvenile and young adult violence, homicides, and recidivism among high-risk populations. “(2) Eligible entities.—An entity is eligible for a grant under paragraph (1) if it is a unit of local government or a combination of local governments established by agreement for purposes of undertaking a demonstration project. “(b) Selection of Grant Recipients.—“(1) Awards.—The Attorney General shall award grants for Youth Violence Reduction Demonstration Projects on a competitive basis. “(2) Amount of awards.—No single grant award made under subsection (a) shall exceed $15,000,000 per fiscal year. “(3) Application.—An application for a grant under paragraph (1) shall be submitted to the Attorney General in such a form, and containing such information and assurances, as the Attorney General may require, and at a minimum shall propose—“(A) a program strategy targeting areas with the highest incidence of youth violence and homicides; “(B) outcome measures and specific objective indicia of performance to assess the effectiveness of the program; and “(C) a plan for evaluation by an independent third party. “(4) Distribution.—In making grants under this section, the Attorney General shall ensure the following:“(A) No less than 1 recipient is a city with a population exceeding 1,000,000 and an increase of at least 30 percent in the aggregated juvenile and young adult homicide victimization rate during calendar year 2005 as compared to calendar year 2004. “(B) No less than one recipient is a nonmetropolitan county or group of counties with per capita arrest rates of juveniles and young adults for serious violent offenses that exceed the national average for nonmetropolitan counties by at least 5 percent. “(5) Criteria.—In making grants under this section, the Attorney General shall give preference to entities operating programs that meet the following criteria:“(A) A program focusing on—“(i) reducing youth violence and homicides, with an emphasis on juvenile and young adult probationers and other juveniles and young adults who have had or are likely to have contact with the juvenile justice system; “(ii) fostering positive relationships between program participants and supportive adults in the community; and “(iii) accessing comprehensive supports for program participants through coordinated community referral networks, including job opportunities, educational programs, counseling services, substance abuse programs, recreational opportunities, and other services. “(B) A program goal of almost daily contacts with and supervision of participating juveniles and young adults through small caseloads and a coordinated team approach among case managers drawn from the community, probation officers, and police officers. “(C) The use of existing structures, local government agencies, and nonprofit organizations to operate the program. “(D) Inclusion in program staff of individuals who live or have lived in the community in which the program operates; have personal experiences or cultural competency that build credibility in relationships with program participants; and will serve as a case manager, intermediary, and mentor. “(E) Fieldwork and neighborhood outreach in communities where the young violent offenders live, including support of the program from local public and private organizations and community members. “(F) Imposition of graduated probation sanctions to deter violent and criminal behavior. “(G) A record of program operation and effectiveness evaluation over a period of at least five years prior to the date of enactment of this Act [Jan. 5, 2006]. “(H) A program structure that can serve as a model for other communities in addressing the problem of youth violence and juvenile and young adult recidivism. “(c) Authorized Activities.—Amounts paid to an eligible entity under a grant award may be used for the following activities:“(1) Designing and enhancing program activities. “(2) Employing and training personnel. “(3) Purchasing or leasing equipment. “(4) Providing services and training to program participants and their families. “(5) Supporting related law enforcement and probation activities, including personnel costs. “(6) Establishing and maintaining a system of program records. “(7) Acquiring, constructing, expanding, renovating, or operating facilities to support the program. “(8) Evaluating program effectiveness. “(9) Undertaking other activities determined by the Attorney General as consistent with the purposes and requirements of the demonstration program. “(d) Evaluation and Reports.—“(1) Independent evaluation.—The Attorney General may use up to $500,000 of funds appropriated annually under this such section to—“(A) prepare and implement a design for interim and overall evaluations of performance and progress of the funded demonstration projects; “(B) provide training and technical assistance to grant recipients; and “(C) disseminate broadly the information generated and lessons learned from the operation of the demonstration projects. “(2) Reports to congress.—Not later than 120 days after the last day of each fiscal year for which 1 or more demonstration grants are awarded, the Attorney General shall submit to Congress a report which shall include—“(A) a summary of the activities carried out with such grants; “(B) an assessment by the Attorney General of the program carried out; and “(C) such other information as the Attorney General considers appropriate. “(e) Federal Share.—“(1) In general.—The Federal share of a grant awarded under this Act [see Short Title of 2006 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] shall not exceed 90 percent of the total program costs. “(2) Non-federal share.—The non-Federal share of such cost may be provided in cash or in-kind. “(f) Definitions.—In this section:“(1) Unit of local government.—The term ‘unit of local government’ means a county, township, city, or political subdivision of a county, township, or city, that is a unit of local government as determined by the Secretary of Commerce for general statistical purposes. “(2) Juvenile.—The term ‘juvenile’ means an individual who is 17 years of age or younger. “(3) Young adult.—The term ‘young adult’ means an individual who is 18 through 24 years of age. “(g) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 through 2009, to remain available until expended.”
@@ -4494,3 +5104,229 @@ Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–24
 
 #### Kids 2000 Crime Prevention and Computer Education Initiative
 Pub. L. 106–313, title I, § 112, Oct. 17, 2000, 114 Stat. 1260, provided that: “(a) Short Title.—This section may be cited as the ‘Kids 2000 Act’. “(b) Findings.—Congress makes the following findings:“(1) There is an increasing epidemic of juvenile crime throughout the United States. “(2) It is well documented that the majority of juvenile crimes take place during after-school hours. “(3) Knowledge of technology is becoming increasingly necessary for children in school and out of school. “(4) The Boys and Girls Clubs of America have 2,700 clubs throughout all 50 States, serving over 3,000,000 boys and girls primarily from at-risk communities. “(5) The Boys and Girls Clubs of America have the physical structures in place for immediate implementation of an after-school technology program. “(6) Building technology centers and providing integrated content and full-time staffing at those centers in the Boys and Girls Clubs of America nationwide will help foster education, job training, and an alternative to crime for at-risk youth. “(7) Partnerships between the public sector and the private sector are an effective way of providing after-school technology programs in the Boys and Girls Clubs of America. “(8) PowerUp: Bridging the Digital Divide is an entity comprised of more than a dozen nonprofit organizations, major corporations, and Federal agencies that have joined together to launch a major new initiative to help ensure that America’s underserved young people acquire the skills, experiences, and resources they need to succeed in the digital age. “(9) Bringing PowerUp into the Boys and Girls Clubs of America will be an effective way to ensure that our youth have a safe, crime-free environment in which to learn the technological skills they need to close the divide between young people who have access to computer-based information and technology-related skills and those who do not. “(c) After-School Technology Grants to the Boys and Girls Clubs of America.—“(1) Purposes.—The Attorney General shall make grants to the Boys and Girls Clubs of America for the purpose of funding effective after-school technology programs, such as PowerUp, in order to provide—“(A) constructive technology-focused activities that are part of a comprehensive program to provide access to technology and technology training to youth during after-school hours, weekends, and school vacations; “(B) supervised activities in safe environments for youth; and “(C) full-time staffing with teachers, tutors, and other qualified personnel. “(2) Subawards.—The Boys and Girls Clubs of America shall make subawards to local boys and girls clubs authorizing expenditures associated with providing technology programs such as PowerUp, including the hiring of teachers and other personnel, procurement of goods and services, including computer equipment, or such other purposes as are approved by the Attorney General. “(d) Applications.—“(1) Eligibility.—In order to be eligible to receive a grant under this section, an applicant for a subaward (specified in subsection (c)(2)) shall submit an application to the Boys and Girls Clubs of America, in such form and containing such information as the Attorney General may reasonably require. “(2) Application requirements.—Each application submitted in accordance with paragraph (1) shall include—“(A) a request for a subgrant to be used for the purposes of this section; “(B) a description of the communities to be served by the grant, including the nature of juvenile crime, violence, and drug use in the communities; “(C) written assurances that Federal funds received under this section will be used to supplement and not supplant, non-Federal funds that would otherwise be available for activities funded under this section; “(D) written assurances that all activities funded under this section will be supervised by qualified adults; “(E) a plan for assuring that program activities will take place in a secure environment that is free of crime and drugs; “(F) a plan outlining the utilization of content-based programs such as PowerUp, and the provision of trained adult personnel to supervise the after-school technology training; and “(G) any additional statistical or financial information that the Boys and Girls Clubs of America may reasonably require. “(e) Grant Awards.—In awarding subgrants under this section, the Boys and Girls Clubs of America shall consider—“(1) the ability of the applicant to provide the intended services; “(2) the history and establishment of the applicant in providing youth activities; and “(3) the extent to which services will be provided in crime-prone areas and technologically underserved populations, and efforts to achieve an equitable geographic distribution of the grant awards. “(f) Authorization of Appropriations.—“(1) In general.—There is authorized to be appropriated $20,000,000 for each of the fiscal years 2001 through 2006 to carry out this section. “(2) Source of funds.—Funds to carry out this section may be derived from the Violent Crime Reduction Trust Fund. “(3) Continued availability.—Amounts made available under this subsection shall remain available until expended.”
+
+
+<a id="section-11314"></a>
+## § 11314. Grants for tribal delinquency prevention and response programs
+**(a) In general** The Administrator shall make grants under this section, on a competitive basis, to eligible Indian Tribes (or consortia of Indian Tribes) as described in subsection (b)—
+
+(1) to support and enhance—
+
+  (A) tribal juvenile delinquency prevention services; and
+
+  (B) the ability of Indian Tribes to respond to, and care for, at-risk or delinquent youth upon release; and
+
+(2) to encourage accountability of Indian tribal governments with respect to preventing juvenile delinquency, and responding to, and caring for, juvenile offenders.
+
+**(b) Eligible Indian Tribes** To be eligible to receive a grant under this section, an Indian Tribe or consortium of Indian Tribes shall submit to the Administrator an application in such form as the Administrator may require.
+
+**(c) Considerations** In providing grants under this section, the Administrator shall take into consideration, with respect to the Indian Tribe to be served, the—
+
+(1) juvenile delinquency rates;
+
+(2) school dropout rates; and
+
+(3) number of youth at risk of delinquency.
+
+**(d) Availability of funds** Of the amount available for a fiscal year to carry out this subchapter, 11 percent shall be available to carry out this section.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 505 of Pub. L. 93–415, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1896, which authorized appropriations for fiscal years 2004 to 2008, was renumbered section 506 and was classified to [section 5784 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5784&num=0&edition=prelim), The Public Health and Welfare, prior to omission from the Code and its subsequent repeal by Pub. L. 115–385, title IV, § 402(c)(2), Dec. 21, 2018, 132 Stat. 5160.
+
+Another prior section 505 of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5028; amended Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(F)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76, related to grants for prevention programs, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
+
+Another prior section 505 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended [section 5035 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5035&num=0&edition=prelim), Crimes and Criminal Procedure, and was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+
+#### Effective Date
+Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+
+
+<a id="section-11321"></a>
+## § 11321. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this chapter, except for subchapters III and IV, $176,000,000 for each of fiscal years 2019 through 2023, of which not more than $96,053,401 shall be used to carry out subchapter V for each such fiscal year.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+#### Effective Date
+Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
+
+
+<a id="section-11322"></a>
+## § 11322. Accountability and oversight
+**(a) Sense of Congress** It is the sense of Congress that, in order to ensure that at-risk youth, and youth who come into contact with the juvenile justice system or the criminal justice system, are treated fairly and that the outcome of that contact is beneficial to the Nation—
+
+(1) the Department of Justice, through its Office of Juvenile Justice and Delinquency Prevention, must restore meaningful enforcement of the core requirements in subchapter II; and
+
+(2) States, which are entrusted with a fiscal stewardship role if they accept funds under subchapter II must exercise vigilant oversight to ensure full compliance with the core requirements for juveniles provided for in subchapter II.
+
+**(b) Accountability**
+
+(1) **Agency program review**
+
+  (A) *Programmatic and financial assessment*
+
+    (i) *In general* — Not later than 60 days after December 21, 2018, the Director of the Office of Audit, Assessment, and Management of the Office of Justice Programs at the Department of Justice (referred to in this section as the “Director”) shall—
+
+      (I) conduct a comprehensive analysis and evaluation of the internal controls of the Office of Juvenile Justice and Delinquency Prevention (referred to in this section as the “agency”) to determine if States and Indian Tribes receiving grants are following the requirements of the agency grant programs and what remedial action the agency has taken to recover any grant funds that are expended in violation of grant programs, including instances where—
+
+        (aa) supporting documentation was not provided for cost reports;
+
+        (bb) unauthorized expenditures occurred; and
+
+        (cc) subrecipients of grant funds were not in compliance with program requirements;
+
+      (II) conduct a comprehensive audit and evaluation of a selected statistically significant sample of States and Indian Tribes (as determined by the Director) that have received Federal funds under subchapter II, including a review of internal controls to prevent fraud, waste, and abuse of funds by grantees; and
+
+      (III) submit a report in accordance with clause (iv).
+
+    (ii) *Considerations for evaluations* — In conducting the analysis and evaluation under clause (i)(I), and in order to document the efficiency and public benefit of subchapters II and V, the Director shall take into consideration the extent to which—
+
+      (I) greater oversight is needed of programs developed with grants made by the agency;
+
+      (II) changes are necessary in the authorizing statutes of the agency in order that the functions of the agency can be performed in a more efficient and effective manner; and
+
+      (III) the agency has implemented recommendations issued by the Comptroller General or Office of Inspector General relating to the grant making and grant monitoring responsibilities of the agency.
+
+    (iii) *Considerations for audits* — In conducting the audit and evaluation under clause (i)(II), and in order to document the efficiency and public benefit of subchapters II and V, the Director shall take into consideration—
+
+      (I) whether grantees timely file Financial Status Reports;
+
+      (II) whether grantees have sufficient internal controls to ensure adequate oversight of grant funds received;
+
+      (III) whether grantees’ assertions of compliance with the core requirements were accompanied with adequate supporting documentation;
+
+      (IV) whether expenditures were authorized;
+
+      (V) whether subrecipients of grant funds were complying with program requirements; and
+
+      (VI) whether grant funds were spent in accordance with the program goals and guidelines.
+
+    (iv) *Report* — The Director shall—
+
+      (I) submit to the Congress a report outlining the results of the analysis, evaluation, and audit conducted under clause (i), including supporting materials, to the Speaker of the House of Representatives and the President pro tempore of the Senate; and
+
+      (II) shall make such report available to the public online, not later than 1 year after December 21, 2018.
+
+  (B) *Analysis of internal controls*
+
+    (i) *In general* — Not later than 30 days after December 21, 2018, the Administrator shall initiate a comprehensive analysis and evaluation of the internal controls of the agency to determine whether, and to what extent, States and Indian Tribes that receive grants under subchapters II and V are following the requirements of the grant programs authorized under subchapters II and V.
+
+    (ii) *Report* — Not later than 180 days after December 21, 2018, the Administrator shall submit to Congress a report containing—
+
+      (I) the findings of the analysis and evaluation conducted under clause (i);
+
+      (II) a description of remedial actions, if any, that will be taken by the Administrator to enhance the internal controls of the agency and recoup funds that may have been expended in violation of law, regulations, or program requirements issued under subchapters II and V; and
+
+      (III) a description of—
+
+        (aa) the analysis conducted under clause (i);
+
+        (bb) whether the funds awarded under subchapters II and V have been used in accordance with law, regulations, program guidance, and applicable plans; and
+
+        (cc) the extent to which funds awarded to States and Indian Tribes under subchapters II and V enhanced the ability of grantees to fulfill the core requirements.
+
+  (C) *Report by the Attorney General* — Not later than 180 days after December 21, 2018, the Attorney General shall submit to the appropriate committees of the Congress a report on the estimated amount of formula grant funds disbursed by the agency since fiscal year 2010 that did not meet the requirements for awards of formula grants to States under subchapter II.
+
+(2) **Office of Inspector General performance audits**
+
+  (A) *In general* — In order to ensure the effective and appropriate use of grants administered under this chapter (excluding subchapter IV) and to prevent waste, fraud, and abuse of funds by grantees, the Inspector General of the Department of Justice shall annually conduct audits of grantees that receive funds under this chapter.
+
+  (B) *Assessment* — Not later than 1 year after December 21, 2018, and annually thereafter, the Inspector General shall conduct a risk assessment to determine the appropriate number of grantees to be audited under subparagraph (A) in the year involved.
+
+  (C) *Public availability on website* — The Attorney General shall make the summary of each review conducted under this section available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
+
+  (D) *Mandatory exclusion* — A recipient of grant funds under this chapter (excluding subchapter IV) that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this chapter (excluding subchapter IV) during the first 2 fiscal years beginning after the 12-month period beginning on the date on which the audit report is issued.
+
+  (E) *Priority* — In awarding grants under this chapter (excluding subchapter IV), the Administrator shall give priority to a State or Indian Tribe that did not have an unresolved audit finding during the 3 fiscal years prior to the date on which the State or Indian Tribe submits an application for a grant under this chapter.
+
+  (F) *Reimbursement* — If a State or an Indian Tribe is awarded a grant under this chapter (excluding subchapter IV) during the 2-fiscal-year period in which the recipient is barred from receiving grants under subparagraph (D), the Attorney General shall—
+
+    (i) deposit an amount equal to the amount of the grant funds that were improperly awarded to the grantee into the general fund of the Treasury; and
+
+    (ii) seek to recoup the costs of the repayment to the general fund under clause (i) from the grantee that was erroneously awarded grant funds.
+
+  (G) *Definition* — In this paragraph, the term “unresolved audit finding” means a finding in the final audit report of the Inspector General—
+
+    (i) that the audited State or Indian Tribe has used grant funds for an unauthorized expenditure or otherwise unallowable cost; and
+
+    (ii) that is not closed or resolved during the 12-month period beginning on the date on which the final audit report is issued.
+
+(3) **Nonprofit organization requirements**
+
+  (A) *Definition* — For purposes of this paragraph and the grant programs described in this chapter (excluding subchapter IV), the term “nonprofit organization” means an organization that is described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and is exempt from taxation under section 501(a) of such title.
+
+  (B) *Prohibition* — The Administrator may not award a grant under any grant program described in this chapter (excluding subchapter IV) to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in [section 511(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section511/a&num=0&edition=prelim).
+
+  (C) *Disclosure*
+
+    (i) *In general* — Each nonprofit organization that is awarded a grant under a grant program described in this chapter (excluding subchapter IV) and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Administrator, in the application for the grant, the process for determining such compensation, including—
+
+      (I) the independent persons involved in reviewing and approving such compensation;
+
+      (II) the comparability data used; and
+
+      (III) contemporaneous substantiation of the deliberation and decision.
+
+    (ii) *Public inspection upon request* — Upon request, the Administrator shall make the information disclosed under clause (i) available for public inspection.
+
+(4) **Conference expenditures**
+
+  (A) *Limitation* — No amounts authorized to be appropriated to the Department of Justice under this chapter may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this chapter, to host or support any expenditure for conferences that uses more than $20,000 in funds made available to the Department of Justice, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+
+  (B) *Written approval* — Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audiovisual equipment, honoraria for speakers, and entertainment.
+
+  (C) *Report* — The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on Education and the Workforce of the House of Representatives on all conference expenditures approved under this paragraph.
+
+(5) **Prohibition on lobbying activity**
+
+  (A) *In general* — Amounts authorized to be appropriated under this chapter may not be utilized by any recipient of a grant made using such amounts—
+
+    (i) to lobby any representative of the Department of Justice regarding the award of grant funding; or
+
+    (ii) to lobby any representative of a Federal, State, local, or tribal government regarding the award of grant funding.
+
+  (B) *Penalty* — If the Attorney General determines that any recipient of a grant made using amounts authorized to be appropriated under this chapter has violated subparagraph (A), the Attorney General shall—
+
+    (i) require the recipient to repay the grant in full; and
+
+    (ii) prohibit the recipient to receive another grant under this chapter for not less than 5 years.
+
+  (C) *Clarification* — For purposes of this paragraph, submitting an application for a grant under this chapter shall not be considered lobbying activity in violation of subparagraph (A).
+
+(6) **Annual certification** — Beginning in the 1st fiscal year that begins after the effective date of this section, the Attorney General shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate, and the Committee on Education and the Workforce and the Committee on Appropriations of the House of Representatives, an annual certification that—
+
+  (A) all audits issued by the Inspector General of the Department of Justice under paragraph (2) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
+
+  (B) all mandatory exclusions required under paragraph (2)(D) have been issued;
+
+  (C) all reimbursements required under paragraph (2)(F)(i) have been made; and
+
+  (D) includes a list of any grant recipients excluded under paragraph (2) during the then preceding fiscal year.
+
+**(c) Preventing duplicative grants**
+
+(1) **In general** — Before the Attorney General awards a grant to an applicant under this chapter, the Attorney General shall compare potential grant awards with other grants awarded under this chapter to determine if duplicate grant awards are awarded for the same purpose.
+
+(2) **Report** — If the Attorney General awards duplicate grants to the same applicant for the same purpose the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that includes—
+
+  (A) a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
+
+  (B) the reason the Attorney General awarded the duplicative grant.
+
+**(d) Compliance with auditing standards** The Administrator shall comply with the Generally Accepted Government Auditing Standards, published by the General Accountability Office (commonly known as the “Yellow Book”), in the conduct of fiscal, compliance, and programmatic audits of States.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (b)(2) to (5) and (c)(1), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+The effective date of this section, referred to in subsec. (b)(6), probably means the date of enactment of Pub. L. 115–385, which was approved Dec. 21, 2018.
+
+#### Effective Date
+Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).

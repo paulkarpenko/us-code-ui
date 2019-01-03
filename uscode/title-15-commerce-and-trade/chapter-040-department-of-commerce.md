@@ -196,9 +196,11 @@ Sec. 4. General Provisions.
 Barack Obama.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
-Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Commission on Asian Americans and Pacific Islanders were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -342,7 +344,7 @@ Provisions of section that fixed the compensation of the General Counsel have be
 Section was formerly classified to [section 592b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section592b&num=0&edition=prelim) prior to the general revision and enactment of Title 5 by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
-1954—Act Aug. 20, 1954, established rate of compensation.
+1954—Act Aug. 20, 1954, amended section generally, establishing a General Counsel in the Department of Commerce and a rate of compensation. See Codification note above.
 
 1952—Act July 17, 1952, redesignated Solicitor as General Counsel and provided that “all laws and orders relating or referring to the Solicitor shall be deemed to relate or refer to the General Counsel”.
 
@@ -411,23 +413,25 @@ The following named bureaus, administrations, services, offices, and programs of
 #### Codification
 Section was formerly classified to [section 597 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section597&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
+Section was originally based on part of section 4 of act Feb. 14, 1903, which provided an initial list of offices and bureaus to be transferred to the Department of Commerce and Labor, and section 12 of the act, which authorized the President to transfer certain additional offices and bureaus to the Department. Section 12 of the act was amended generally by section 23 of Pub. L. 93–498, and the text enacted by that general amendment, along with subsequent amendments, now serves as the text of this section. See Amendment notes below. Section 12 of the 1903 act as originally enacted is set out as [section 1517 of this title](./chapter-040-department-of-commerce.md#section-1517), and the rest of section 4 of the act is classified to sections 1515 and 1516 of this title. Explanation of laws cited as credits to this section prior to Pub. L. 93–498 can be found in various notes below.
+
 #### Amendments
-2000—Pars. (5) to (7). Pub. L. 106–503 inserted “and” after “Census;” in par. (5), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “United States Fire Administration; and”.
+2000—Pars. (6), (7). Pub. L. 106–503 redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “United States Fire Administration; and”.
 
 1999—Pub. L. 106–113 redesignated pars. (a) to (g) as (1) to (7), respectively, realigned margins, and in par. (4) substituted “United States Patent and Trademark Office” for “Patent and Trademark Office;”.
 
-1988—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+1988—Par. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1981—Pars. (c) to (g). Pub. L. 97–31 struck out par. (c) “Maritime Administration” and redesignated pars. (d) to (h) as (c) to (g), respectively.
+1981—Pars. (c) to (g). Pub. L. 97–31 redesignated pars. (d) to (h) as (c) to (g), respectively, and struck out former par. (c) which read as follows: “Maritime Administration;”.
 
 1978—Par. (g). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
-1974—Pub. L. 93–498 amended section generally, substituting reference to Secretary of Commerce for Department of Commerce, substituting letters for numbers in the designation for enumerated bodies, and in such enumeration substituted reference to National Oceanic and Atmospheric Administration, United States Travel Service, Maritime Administration, National Bureau of Standards, Patent Office, Bureau of the Census, National Fire Prevention and Control Administration and such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law, for reference to The Bureau of Foreign and Domestic Commerce, The Bureau of Public Roads, The Civil Aeronautics Authority, The Census Office, The Coast and Geodetic Survey, The Federal Maritime Board, The Inland Waterways Corporation, The Maritime Administration, The National Bureau of Standards, The Patent Office, and The Weather Bureau.
+1974—Pub. L. 93–498 amended section generally, substituting reference to Secretary of Commerce for Department of Commerce and substituting references to National Oceanic and Atmospheric Administration, United States Travel Service, Maritime Administration, National Bureau of Standards, Patent Office, Bureau of the Census, National Fire Prevention and Control Administration and such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law, for references to The Bureau of Foreign and Domestic Commerce, The Bureau of Public Roads, The Civil Aeronautics Authority, The Census Office, The Coast and Geodetic Survey, The Federal Maritime Board, The Inland Waterways Corporation, The Maritime Administration, The National Bureau of Standards, The Patent Office, and The Weather Bureau.
 
 #### Change of Name
-“United States Travel and Tourism Administration” substituted for “United States Travel Service” in par. (b), pursuant to section 4(a)(1) of Pub. L. 97–63, which established United States Travel and Tourism Administration in place of United States Travel Service, effective Oct. 1, 1981. See [section 2124 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2124&num=0&edition=prelim), Foreign Relations and Intercourse.
+“United States Travel and Tourism Administration” substituted for “United States Travel Service” in par. (b) [now par. (2)], pursuant to section 4(a)(1) of Pub. L. 97–63, which established United States Travel and Tourism Administration in place of United States Travel Service, effective Oct. 1, 1981. See [section 2124 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2124&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-“Patent and Trademark Office” substituted for “Patent Office”, in par. (d) [now par. (4)] pursuant to section 3 of Pub. L. 93–596, set out as a note under [section 1 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section1&num=0&edition=prelim), Patents.
+“Patent and Trademark Office” substituted for “Patent Office”, in par. (d) [now par. (4)] pursuant to section 3 of Pub. L. 93–596, set out as a note under [section 1 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section1&num=0&edition=prelim), Patents. “Patent and Trademark Office” subsequently amended to read “United States Patent and Trademark Office” by Pub. L. 106–113. See 1999 Amendment note above.
 
 In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which covers the administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
 
@@ -441,8 +445,8 @@ Act June 30, 1932, ch. 314, pt. II, title V, § 501, 47 Stat. 415, cited as a cr
 
 Act May 27, 1936, ch. 463, § 1, 49 Stat. 1380, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649.
 
-#### Transfer of Functions; Organizational History
-For transfer of functions, personnel, assets, and liabilities of the Department of Commerce, including the functions of the Secretary of Commerce relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(2) and sections 121(g)(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+#### Organizational History and Transfer of Functions
+For transfer of certain functions, personnel, assets, and liabilities of the Department of Commerce, including the functions of the Secretary of Commerce relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(2) and sections 121(g)(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 Functions of Secretary of Commerce, Department of Commerce, and officers and components of Department of Commerce as they related to or were utilized by Office of Energy Programs within Department of Commerce, but limited to industrial energy conservation programs, transferred to, and vested in, Secretary of Energy as part of creation of Department of Energy by Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565. See [section 7157 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7157&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -460,7 +464,7 @@ Maritime Administration of Department of Commerce transferred to Department of T
 
 Community Relations Service transferred from Department of Commerce to Department of Justice by Reorg. Plan No. 1 of 1966, eff. Apr. 22, 1966, 31 F.R. 6187, 80 Stat. 1607, set out in the Appendix to Title 5.
 
-Department of Commerce, prior to act Mar. 4, 1913, was known as Department of Commerce and Labor. The following agencies which were placed under jurisdiction of Department of Commerce and Labor by act Feb. 13, 1903, which act established the Department, were abolished or transferred as follows:
+Act Feb. 14, 1903, established the Department of Commerce and Labor. Act Mar. 4, 1913, renamed the Department of Commerce and Labor as the Department of Commerce and established the Department of Labor as a separate entity. The following agencies which were initially placed under the jurisdiction of the Department of Commerce and Labor either directly by statute or by presidential transfer were abolished or transferred as follows:
 
 Office of United States Shipping Commissioner abolished by Reorg. Plan No. 3 of 1946, §§ 101 to 104, eff. July 16, 1946, which transferred functions to Commandant of Coast Guard and Commissioner of Customs. See Appendix to Title 5, Government Organization and Employees.
 
@@ -470,11 +474,11 @@ Bureau of Fisheries transferred to Department of the Interior by section 4(e) of
 
 Bureau of Immigration changed to Bureau of Immigration and Naturalization by act June 29, 1906, ch. 3592, § 1, 34 Stat. 596. Commissioner General of Immigration, Commissioners of Immigration, and Bureau of Immigration and Naturalization, transferred to Department of Labor by act Mar. 4, 1913. Subsequently, by Ex. Ord. No. 6166, § 14 of June 10, 1933, and Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, Bureau of Immigration and Bureau of Naturalization consolidated to form Immigration and Naturalization Service and transferred to Department of Justice.
 
-Light-House Board and Light-House Establishment consolidated under Bureau of Lighthouses by act June 17, 1910, ch. 301, § 4, 36 Stat. 537. Bureau of Lighthouses transferred to Coast Guard in Department of the Treasury by Reorg. Plan No. II of 1939, § 2(a). Reorg. Plan No. II of 1939 is set out in the Appendix to Title 5. Said section 4 of act June 17, 1910, was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished Coast Guard by enacting Title 14, Coast Guard. Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Light-House Board and Light-House Establishment consolidated under Bureau of Lighthouses by act June 17, 1910, ch. 301, § 4, 36 Stat. 537. Bureau of Lighthouses transferred to Coast Guard in Department of the Treasury by Reorg. Plan No. II of 1939, § 2(a). Reorg. Plan No. II of 1939 is set out in the Appendix to Title 5. Said section 4 of act June 17, 1910, was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished Coast Guard by enacting Title 14, Coast Guard. Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
-Bureau of Mines transferred from Department of the Interior to Department of Commerce by Ex. Ord. No. 4239, eff. July 1, 1925, and retransferred to Department of the Interior by Ex. Ord. No. 6611, Feb. 24, 1934. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under [section 1 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1&num=0&edition=prelim), Mineral Lands and Mining.
+Bureau of Mines transferred from Department of the Interior to Department of Commerce by Ex. Ord. No. 4239 of June 4, 1925, eff. July 1, 1925, as authorized by section 12 of act Feb. 14, 1903 (see [15 U.S.C. 1517](./chapter-040-department-of-commerce.md#section-1517)), and retransferred to Department of the Interior by Ex. Ord. No. 6611, Feb. 24, 1934. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under [section 1 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1&num=0&edition=prelim), Mineral Lands and Mining.
 
-The following agencies acquired their status in the manner indicated:
+The following agencies, which are or at one time have been under the jurisdiction of the Department of Commerce, acquired their status in the manner indicated:
 
 Bureau of Foreign and Domestic Commerce resulted from a consolidation of Bureau of Manufactures and Bureau of Statistics by act Aug. 23, 1912.
 
@@ -482,11 +486,11 @@ Civil Aeronautics Authority [Civil Aeronautics Board] transferred to Department 
 
 Inland Waterways Corporation transferred to Department of Commerce by section 6 of Reorg. Plan No. II of 1939. Reorg. Plan No. II of 1939 is set out in the Appendix of Title 5. Pub. L. 88–67, § 2, July 19, 1963, 77 Stat. 81, provided generally for liquidation of affairs of Inland Waterways Corporation.
 
-Patent Office transferred from Department of the Interior by Ex. Ord. of Mar. 17, 1925, as authorized by section 12 of act Feb. 14, 1903. See [section 1517 of this title](./chapter-040-department-of-commerce.md#section-1517).
+Patent Office transferred from Department of the Interior by Ex. Ord. No. 4175 of Mar. 17, 1925, eff. Apr. 1, 1925, as authorized by section 12 of act Feb. 14, 1903. See [section 1517 of this title](./chapter-040-department-of-commerce.md#section-1517).
 
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau, Coast and Geodetic Survey, Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out below, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau, Coast and Geodetic Survey, Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
-Weather Bureau transferred from Department of Agriculture by section 8 of Reorg. Plan No. IV of 1940. Reorg. Plan IV of 1940 is set out in the Appendix to Title 5. Coast and Geodetic Survey and Weather Bureau consolidated to form a new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 4443, set out in the Appendix to Title 5.
+Weather Bureau transferred from Department of Agriculture by section 8 of Reorg. Plan No. IV of 1940, which is set out in the Appendix to Title 5. Coast and Geodetic Survey and Weather Bureau consolidated to form a new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 4443, set out in the Appendix to Title 5.
 
 Functions, powers, and duties of Office of Audits and Investigations and Inspections Staff and that portion of office referred to as Office of Investigations and Security which had responsibility for investigation of alleged criminal violations and program abuse in Department of Commerce transferred to Office of Inspector General in Department of Commerce, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(B) of Pub. L. 95–452, set out in the Appendix to Title 5.
 
@@ -561,7 +565,7 @@ The provisions of sections 2 and 4 of Reorganization Plan No. 5 of 1950 (64 Stat
 
 (b) Such provisions as may be necessary with respect to terminating any outstanding affairs shall be made by the Secretary of Commerce in the case of the Environmental Science Services Administration and by the Secretary of the Interior in the case of the Bureau of Commercial Fisheries.
 
-Message of the President 11 For additional Message of the President see Reorganization Plan No. 3 of 1970, Title 5, Appendix, Government Officers and Employees.
+Message of the President 22 For additional Message of the President see Reorganization Plan No. 3 of 1970, Title 5, Appendix, Government Officers and Employees.
 
 To the Congress of the United States:
 
@@ -885,7 +889,7 @@ Sec. 8. Global Connect International Connectivity Steering Group. (a) In order t
 
 (ix) the Millennium Challenge Corporation;
 
-(x) the Overseas Private Investment Corporation;
+(x) the Overseas Private Investment Corporation [now the United States International Development Finance Corporation];
 
 (xi) the Export-Import Bank of the United States; and
 
@@ -929,6 +933,9 @@ All duties performed and all power and authority possessed or exercised by the h
 
 ### Statutory Notes
 
+#### Change of Name
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
+
 #### Codification
 Section was formerly classified to [section 599 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section599&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
@@ -951,6 +958,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. B, title I, Mar. 23, 2018, 132 Stat. 406.
 
 Pub. L. 115–31, div. B, title I, May 5, 2017, 131 Stat. 188.
 
@@ -981,6 +990,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. B, title I, Mar. 23, 2018, 132 Stat. 405.
 
 Pub. L. 115–31, div. B, title I, May 5, 2017, 131 Stat. 187.
 
@@ -1042,8 +1053,10 @@ The official records and papers on file in and pertaining exclusively to the bus
 #### Codification
 Section was formerly classified to [section 598 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section598&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
+Section is based on the second par. of section 4 of act Feb. 14, 1903. The first par. of section 4 is classified to sections 1511 and 1516 of this title.
+
 #### Change of Name
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 
 <a id="section-1516"></a>
@@ -1056,8 +1069,10 @@ The Secretary of Commerce shall have control of the work of gathering and distri
 #### Codification
 Section was formerly classified to [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
+Section is based on part of the first par. of section 4 of act Feb. 14, 1903. The rest of the first par. and the second par. of section 4 are classified to sections 1511 and 1515 of this title, respectively.
+
 #### Change of Name
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 
 <a id="section-1516a"></a>
@@ -1084,12 +1099,14 @@ The President is authorized, by order in writing, to transfer at any time the wh
 #### Codification
 Section was formerly classified to [section 602 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section602&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
+Section is based on section 12 of act Feb. 14, 1903, as originally enacted. Section 12 of the act was amended generally by Pub. L. 93–498, § 23, Oct. 29, 1974, 88 Stat. 1549, and forms the basis of [section 1511 of this title](./chapter-040-department-of-commerce.md#section-1511).
+
 #### Change of Name
 “United States Postal Service” substituted for “Post Office Department” in text pursuant to Pub. L. 91–375, §§ 4(a), 6(o), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service, and under [section 201 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section201&num=0&edition=prelim), respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
 
 Department of Defense substituted for Departments of the Army and Navy by act July 26, 1947, as amended Aug. 10, 1949.
 
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 #### Meteorological Satellite (METSAT) and Associated Ground Systems; Expenditure of Funds To Develop Proposals To Transfer Ownership to Private Entities Prohibited
 Pub. L. 98–166, title I, § 101, Nov. 28, 1983, 97 Stat. 1076, provided that: “No funds made available by this Act, or any other Act, may be used— “(1) by the Source Evaluation Board for Civil Space Remote Sensing as established by the Secretary of Commerce to develop or issue a request for proposal to transfer the ownership or lease the use of any meteorological satellite (METSAT) or associated ground system to any private entity; or “(2) by the National Oceanic and Atmospheric Administration to transfer the ownership of any meteorological satellite (METSAT) or associated ground system to any private entity.”
@@ -1141,7 +1158,7 @@ This Act, referred to in text, is act Feb. 14, 1903, ch. 552, 32 Stat. 825, as a
 Section was formerly classified to [section 603 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section603&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Change of Name
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 
 <a id="section-1519"></a>
@@ -1158,7 +1175,7 @@ Section was formerly classified to [section 604 of Title 5](https://uscode.house
 1981—Pub. L. 97–31 struck out references to shipping and transportation facilities.
 
 #### Change of Name
-Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called Department of Commerce and Secretary of Commerce.
+Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
 
 <a id="section-1519a"></a>

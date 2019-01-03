@@ -19,11 +19,13 @@ In this chapter:
 <a id="section-902"></a>
 ## § 902. Homeland defense activities: funds
 
-The Secretary of Defense may provide funds to a Governor to employ National Guard units or members to conduct homeland defense activities that the Secretary,11 So in original. The comma probably should not appear. determines to be necessary and appropriate for participation by the National Guard units or members, as the case may be.
+The Secretary of Defense may provide funds to a Governor to employ National Guard units or members to conduct homeland defense activities that the Secretary determines to be necessary and appropriate for participation by the National Guard units or members, as the case may be.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–232 substituted “the Secretary determines” for “the Secretary, determines”.
+
 2006—Pub. L. 109–364 struck out “(a)” before “The Secretary”.
 
 

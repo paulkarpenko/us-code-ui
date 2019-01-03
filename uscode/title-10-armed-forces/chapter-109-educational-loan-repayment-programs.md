@@ -41,7 +41,7 @@ source: >-
 
 **(f)** The Secretary of Defense shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and [section 16301 of this title](./chapter-1609-education-loan-repayment-programs.md#section-16301) during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and [section 16301(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16301/a&num=0&edition=prelim).
 
-**(g)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under [section 16301 of this title](./chapter-1609-education-loan-repayment-programs.md#section-16301), a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+**(g)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under [section 16301 of this title](./chapter-1609-education-loan-repayment-programs.md#section-16301), a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 **(h)** The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.
 
@@ -51,6 +51,8 @@ source: >-
 The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–91 inserted “or 373” before “of title 37”.
+
 2011—Subsecs. (g), (h). Pub. L. 111–383 added subsecs. (g) and (h).
 
 2006—Subsec. (a)(1)(D). Pub. L. 109–163, § 537(a), added subpar. (D).
@@ -144,13 +146,15 @@ Pub. L. 99–145, title VI, § 671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided t
 
 (1) A commissioned officer who is relieved of the officer’s active duty obligation under this section before the completion of that obligation may be given, with or without the consent of the officer, any alternative obligation comparable to any of the alternative obligations authorized by [section 2123(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2123/e&num=0&edition=prelim) for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-(2) An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b)(3), or the alternative obligation imposed under paragraph (1), shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+(2) An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b)(3), or the alternative obligation imposed under paragraph (1), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 **(h) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g)(2). Pub. L. 115–91 inserted “or 373” before “of title 37”.
+
 2011—Subsec. (c)(4). Pub. L. 111–383 added par. (4).
 
 2006—Subsec. (e)(2). Pub. L. 109–364 substituted “$60,000” for “$22,000”.

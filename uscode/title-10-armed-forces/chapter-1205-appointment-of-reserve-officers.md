@@ -160,9 +160,9 @@ Pub. L. 103–337, § 1632, as amended by Pub. L. 104–106, substituted “rese
 
 1980—Subsec. (a). Pub. L. 96–513 inserted reference to [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
 
-1971—Subsec. (a). Pub. L. 92–129 substituted “below lieutenant colonel and commander” for “below general officer and flag officer”, “in commissioned grades above major and lieutenant commander” for “as general and flag officers”, and “section 3352 or 8352 of this title” for “[section 3352 of this title](./chapter-chapter-337-chapter-chapter-337.md#section-3352)”.
+1971—Subsec. (a). Pub. L. 92–129 substituted “below lieutenant colonel and commander” for “below general officer and flag officer”, “in commissioned grades above major and lieutenant commander” for “as general and flag officers”, and “section 3352 or 8352 of this title” for “[section 3352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3352&num=0&edition=prelim)”.
 
-1958—Subsec. (a). Pub. L. 85–861 inserted “, except as provided in [section 3352 of this title](./chapter-chapter-337-chapter-chapter-337.md#section-3352)” after “consent of the Senate”.
+1958—Subsec. (a). Pub. L. 85–861 inserted “, except as provided in [section 3352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3352&num=0&edition=prelim)” after “consent of the Senate”.
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
@@ -304,7 +304,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (1) For the purpose of determining the grade and the rank within grade of a person receiving an original appointment as a reserve commissioned officer (other than a commissioned warrant officer) in the Army, Navy, Air Force, or Marine Corps, the person shall be credited at the time of the appointment with any commissioned service (other than service as a commissioned warrant officer) performed before such appointment as a regular officer, or as a reserve officer in an active status, in any armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service.
 
-(2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b).
+(2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b) or (e).
 
 **(b)**
 
@@ -320,7 +320,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
   (C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal health professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a speciality required by the armed force concerned.
 
-  (D) Additional credit, in unusual cases, based on special experience in a particular field.
+  (D) Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.
 
   (E) Additional credit for experience as a physician or dentist, if appointed, assigned, or designated as a medical or dental officer.
 
@@ -342,7 +342,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
     (vi) Any health profession performed by officers in the Veterinary Corps of the Army or by officers designated as a veterinary officer.
 
-(3) Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of officers covered by paragraph (2), the amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of major or as a reserve officer of the Navy in the grade of lieutenant commander.
+(3) The amount of constructive service credit credited to an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of colonel or as a reserve officer of the Navy in the grade of captain.
 
 (4) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer or assignment to or designation in an officer category in which advanced education or training or special experience is required.
 
@@ -366,6 +366,20 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1) and Pub. L. 104–106, § 1501(c)(26).
 
 #### Amendments
+2018—Subsec. (b)(1)(D). Pub. L. 115–232, § 502(b)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit, in unusual cases, based on special experience in a particular field.”
+
+Subsec. (b)(3). Pub. L. 115–232, § 502(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of officers covered by paragraph (2), the amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of major or as a reserve officer of the Navy in the grade of lieutenant commander.”
+
+Subsecs. (e) to (g). Pub. L. 115–232, § 502(b)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, substituted “or (d)” for “, (d), or (e)” in introductory provisions of subsec. (e), and struck out former subsec. (e) which related to constructive service credited to commissioned officers with cyberspace-related experience or advanced education in reserve active-status.
+
+2017—Subsec. (a)(2). Pub. L. 115–91, § 512(a)(1), inserted “or (e)” after “subsection (b)”.
+
+Subsec. (e). Pub. L. 115–91, § 512(a)(3), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 115–91, § 512(a)(2), (4), redesignated subsec. (e) as (f) and substituted “, (d), or (e)” for “or (d)”. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 115–91, § 512(a)(2), redesignated subsec. (f) as (g).
+
 2008—Subsec. (b)(2). Pub. L. 110–181, § 512(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant.”
 
 Subsec. (b)(3). Pub. L. 110–181, § 512(b), substituted “officers covered by paragraph (2)” for “a medical or dental officer”.
@@ -491,7 +505,7 @@ In subsection (c), the words “active duty” are substituted for the words “
 #### Amendments
 1996—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
 
-1994—Pub. L. 103–337 renumbered [section 3351 of this title](./chapter-chapter-337-chapter-chapter-337.md#section-3351) as this section.
+1994—Pub. L. 103–337 renumbered [section 3351 of this title](./chapter-243-specific-types-of-contracts.md#section-3351) as this section.
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
@@ -519,7 +533,7 @@ In subsection (c), the words “active duty” are substituted for the words “
 #### Amendments
 1996—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
 
-1994—Pub. L. 103–337 renumbered [section 8351 of this title](./chapter-chapter-837-chapter-chapter-837.md#section-8351) as this section.
+1994—Pub. L. 103–337 renumbered [section 8351 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8351&num=0&edition=prelim) as this section.
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
@@ -553,7 +567,7 @@ In subsection (b), the words “appointment as a Reserve” are substituted for 
 
 Subsec. (a). Pub. L. 104–106, § 1501(b)(14), substituted “section 12203” for “section 593” in last sentence.
 
-1994—Pub. L. 103–337, § 1662(c)(3), renumbered [section 3352 of this title](./chapter-chapter-337-chapter-chapter-337.md#section-3352) as this section.
+1994—Pub. L. 103–337, § 1662(c)(3), renumbered [section 3352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3352&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 103–337, § 1675(b), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
@@ -597,7 +611,7 @@ The change reflects the implied repeal of the second sentence of section 8352(a)
 #### Amendments
 1996—Pub. L. 104–106 inserted “the” after “National Guard of” in section catchline.
 
-1994—Pub. L. 103–337, § 1662(c)(3), renumbered [section 8352 of this title](./chapter-chapter-837-chapter-chapter-837.md#section-8352) as this section.
+1994—Pub. L. 103–337, § 1662(c)(3), renumbered [section 8352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8352&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 103–337, § 1675(b)(2), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 

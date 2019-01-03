@@ -27,7 +27,7 @@ For purposes of this chapter—
 
 (1) The term “authorized committee” means, with respect to the candidates of a political party for President and Vice President of the United States, any political committee which is authorized in writing by such candidates to incur expenses to further the election of such candidates. Such authorization shall be addressed to the chairman of such political committee, and a copy of such authorization shall be filed by such candidates with the Commission. Any withdrawal of any authorization shall also be in writing and shall be addressed and filed in the same manner as the authorization.
 
-(2) The term “candidate” means with respect to any presidential election, an individual who (A) has been nominated for election to the office of President of the United States or the office of Vice President of the United States by a major party, or (B) has qualified to have his name on the election ballot (or to have the names of electors pledged to him on the election ballot) as the candidate of a political party for election to either such office in 10 or more States. For purposes of paragraphs (6) and (7) of this section and purposes of section 9004(a)(2), the term “candidate” means, with respect to any preceding presidential election, an individual who received popular votes for the office of President in such election. The term “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
+(2) The term “candidate” means, with respect to any presidential election, an individual who (A) has been nominated for election to the office of President of the United States or the office of Vice President of the United States by a major party, or (B) has qualified to have his name on the election ballot (or to have the names of electors pledged to him on the election ballot) as the candidate of a political party for election to either such office in 10 or more States. For purposes of paragraphs (6) and (7) of this section and purposes of section 9004(a)(2), the term “candidate” means, with respect to any preceding presidential election, an individual who received popular votes for the office of President in such election. The term “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
 
 (3) The term “Commission” means the Federal Election Commission established by section 306(a)(1) of the Federal Election Campaign Act of 1971.
 
@@ -39,7 +39,7 @@ For purposes of this chapter—
 
 (7) The term “minor party” means, with respect to any presidential election, a political party whose candidate for the office of President in the preceding presidential election received, as the candidate of such party, 5 percent or more but less than 25 percent of the total number of popular votes received by all candidates for such office.
 
-(8) The term “new party” means with respect to any presidential election, a political party which is neither a major party nor a minor party.
+(8) The term “new party” means, with respect to any presidential election, a political party which is neither a major party nor a minor party.
 
 (9) The term “political committee” means any committee, association, or organization (whether or not incorporated) which accepts contributions or makes expenditures for the purpose of influencing, or attempting to influence, the nomination or election of one or more individuals to Federal, State, or local elective public office.
 
@@ -99,9 +99,9 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 (1) such candidates and their authorized committees will not incur qualified campaign expenses in excess of the aggregate payments to which they will be entitled under section 9004, and
 
-(2) no contributions to defray qualified campaign expenses have been or will be accepted by such candidates or any of their authorized committees except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(d),11 So in original. Section 9006(d) redesignated 9006(c) by Pub. L. 94–283. and no contributions to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11) have been or will be accepted by such candidates or any of their authorized committees.
+(2) no contributions to defray qualified campaign expenses have been or will be accepted by such candidates or any of their authorized committees except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(c), and no contributions to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11) have been or will be accepted by such candidates or any of their authorized committees.
 
-**(c) Minor and new parties** In order to be eligible to receive any payments under section 9006, the candidates of a minor or new party in a presidential election shall certify to the Commission under penalty of perjury, that—
+**(c) Minor and new parties** In order to be eligible to receive any payments under section 9006, the candidates of a minor or new party in a presidential election shall certify to the Commission, under penalty of perjury, that—
 
 (1) such candidates and their authorized committees will not incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004, and
 
@@ -119,6 +119,8 @@ Such certification shall be made within such time prior to the day of the presid
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–141 substituted “section 9006(c)” for “section 9006(d)”.
+
 1992—Subsec. (e). Pub. L. 102–393 added subsec. (e).
 
 1976—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
@@ -491,13 +493,15 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 **(b) Suits to implement chapter**
 
-(1) The Commission, the national committee of any political party, and individuals eligible to vote for President are authorized to institute such actions, including actions for declaratory judgment or injunctive relief, as may be appropriate to implement or contrue 11 So in original. Probably should be “construe”. any provisions of this chapter.
+(1) The Commission, the national committee of any political party, and individuals eligible to vote for President are authorized to institute such actions, including actions for declaratory judgment or injunctive relief, as may be appropriate to implement or construe any provision of this chapter.
 
 (2) The district courts of the United States shall have jurisdiction of proceedings instituted pursuant to this subsection and shall exercise the same without regard to whether a person asserting rights under provisions of this subsection shall have exhausted any administrative or other remedies that may be provided at law. Such proceedings shall be heard and determined by a court of three judges in accordance with the provisions of [section 2284 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2284&num=0&edition=prelim), United States Code, and any appeal shall lie to the Supreme Court.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–141 substituted “construe” for “contrue”.
+
 1984—Subsec. (b)(2). Pub. L. 98–620 struck out provision requiring the judges designated to hear the case to assign the case for hearing at the earliest practicable date, to participate in the hearing and determination thereof, and to cause the case to be in every way expedited.
 
 1974—Subsec. (a). Pub. L. 93–443, § 404(c)(19), (20), substituted “Commission” for “Comptroller General” in heading and wherever appearing in text.
@@ -607,11 +611,13 @@ Amendment by Pub. L. 93–53 applicable with respect to taxable years beginning 
 
 
 <a id="section-9013"></a>
-## § 9013. Effective date of chapter
-
-The provisions of this chapter shall take effect on January 1, 1973.
+## § 9013. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(8), Mar. 23, 2018, 132 Stat. 1212]
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, added Pub. L. 92–178, title VIII, § 801, Dec. 10, 1971, 85 Stat. 572, provided that this chapter would take effect on Jan. 1, 1973.
+
 A prior section 9021, added by Pub. L. 92–178, title VIII, § 801, Dec. 10, 1971, 85 Stat. 572, established Presidential Election Campaign Fund Advisory Board, prior to repeal by Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297. For effective date of repeal see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
+
+#### Savings Provision
+For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).

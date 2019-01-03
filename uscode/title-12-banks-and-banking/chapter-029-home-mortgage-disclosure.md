@@ -174,7 +174,15 @@ Pub. L. 100–242, title V, § 565(a)(4), Feb. 5, 1988, 101 Stat. 1945, as amend
 
   (B) *Standards* — The Bureau shall prescribe standards for any modification under paragraph (1)(E) to effectuate the purposes of this chapter, in light of the privacy interests of mortgage applicants or mortgagors. Where necessary to protect the privacy interests of mortgage applicants or mortgagors, the Bureau shall provide for the disclosure of information described in subparagraph (A) in aggregate or other reasonably modified form, in order to effectuate the purposes of this chapter.
 
-**(i) Exemption from certain disclosure requirements** The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with respect to any depository institution described in section 2802(2)(A) 1 of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
+**(i) Exemptions**
+
+(1) **Closed-end mortgage loans** — With respect to an insured depository institution or insured credit union, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to closed-end mortgage loans if the insured depository institution or insured credit union originated fewer than 500 closed-end mortgage loans in each of the 2 preceding calendar years.
+
+(2) **Open-end lines of credit** — With respect to an insured depository institution or insured credit union, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to open-end lines of credit if the insured depository institution or insured credit union originated fewer than 500 open-end lines of credit in each of the 2 preceding calendar years.
+
+(3) **2 Required compliance** — Notwithstanding paragraphs (1) and (2), an insured depository institution shall comply with paragraphs (5) and (6) of subsection (b) if the insured depository institution has received a rating of “needs to improve record of meeting community credit needs” during each of its 2 most recent examinations or a rating of “substantial noncompliance in meeting community credit needs” on its most recent examination under [section 2906(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2906/b/2&num=0&edition=prelim).
+
+(3) **2 Exemption from certain disclosure requirements** — The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with respect to any depository institution described in [section 2802(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2802/3/A&num=0&edition=prelim) which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
 
 **(j) Loan application register information**
 
@@ -192,7 +200,7 @@ Pub. L. 100–242, title V, § 565(a)(4), Feb. 5, 1988, 101 Stat. 1945, as amend
 
   (C) *Census tract format encouraged* — It is the sense of the Congress that a depository institution should provide loan register information under this section in a format based on the census tract in which the property is located.
 
-(3) **Change of form not required** — A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require 22 So in original. Probably should be followed by a period.
+(3) **Change of form not required** — A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require 33 So in original. Probably should be followed by a period.
 
 (4) **Reasonable charge for information** — Any depository institution which provides information under this subsection may impose a reasonable fee for any cost incurred in reproducing such information.
 
@@ -250,6 +258,12 @@ Pub. L. 100–242, title V, § 565(a)(4), Feb. 5, 1988, 101 Stat. 1945, as amend
 
 **(n) Timing of certain disclosures** The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
 
+**(o) Definitions** In this section—
+
+(1) the term “insured credit union” has the meaning given the term in [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752); and
+
+(2) the term “insured depository institution” has the meaning given the term in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
 ### Statutory Notes
 
 #### References in Text
@@ -259,9 +273,15 @@ The National Housing Act, referred to in subsecs. (b)(1) and (g)(1), is act June
 
 The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-[Section 2802(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2802/2/A&num=0&edition=prelim), referred to in subsecs. (h)(2)(B) and (i), was redesignated [section 2802(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2802/3/A&num=0&edition=prelim) by Pub. L. 111–203, title X, § 1094(2)(A), July 21, 2010, 124 Stat. 2097.
+[Section 2802(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2802/2/A&num=0&edition=prelim), referred to in subsec. (h)(2)(B), was redesignated [section 2802(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2802/3/A&num=0&edition=prelim) by Pub. L. 111–203, title X, § 1094(2)(A), July 21, 2010, 124 Stat. 2097.
 
 #### Amendments
+2018—Subsec. (i). Pub. L. 115–174, § 104(a)(2), added subsec. (i), consisting of pars. (1) to (3), before par. (3) relating to exemption from certain disclosure requirements, which was formerly designated subsec. (i).
+
+Subsec. (i)(3). Pub. L. 115–174, § 104(a)(1), (c), redesignated subsec. (i) as par. (3) relating to exemption from certain disclosure requirements, realigned margins, and substituted “2802(3)(A) of this title” for “2802(2)(A) of this title”.
+
+Subsec. (o). Pub. L. 115–174, § 104(a)(3), added subsec. (o).
+
 Subsec. (a)(1). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board”.
 
 Subsec. (b)(4). Pub. L. 111–203, § 1094(3)(A)(i), inserted “age,” before “and gender”.

@@ -170,6 +170,8 @@ Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That no
 
 Similar provisions were contained in the following appropriations acts:
 
+Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 645.
+
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 446.
 
 Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2536.
@@ -933,7 +935,7 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
-2017—Subsec. (h)(2)(C)(ii). Pub. L. 115–31 added cl. (ii) and struck out former cls. (ii) which related to calculation of excess.
+2017—Subsec. (h)(2)(C)(ii). Pub. L. 115–31 added cl. (ii) and struck out former cl. (ii) which related to calculation of excess.
 
 Pub. L. 114–223, div. C, § 202(b)(3), as added by Pub. L. 115–30, par. (2), inserted at end of concluding provisions “For purposes of subclause (II)(aa), a beneficiary enrolled in the Plan as of April 28, 2017, shall be deemed to have been eligible to receive health benefits under the Plan on January 1, 2017.”
 
@@ -1734,6 +1736,8 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: “That, in subsequent fiscal years [after fiscal year 2014], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 ([30 U.S.C. 1257](./chapter-025-surface-mining-control-and-reclamation.md#section-1257)) shall be credited to this account [Office of Surface Mining Reclamation and Enforcement—regulation and technology] as discretionary offsetting collections, to remain available until expended.”
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 645.
 
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 446.
 
@@ -2884,7 +2888,7 @@ There is authorized to be appropriated to the Secretary for the purposes of this
 
 **(c)** For the implementation and funding of [section 1295 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1295) and for the administrative and other purposes of this chapter, except as otherwise provided for in this chapter, authorization is provided for the sum of $20,000,000 for the fiscal year ending September 30, 1978, and $30,000,000 for each of the two succeeding fiscal years and such funds that are required thereafter.
 
-**(d)** In order that the implementation of the requirements of this chapter may be initiated in a timely and orderly manner, the Secretary is authorized, subject to the approval of the appropriation Committees of the House and of the Senate, to utilize not to exceed $2,000,000 of the appropriations otherwise available to him for the fiscal year ending September 30, 1977, for the administration and other purposes of this chapter.
+**(d)** In order that the implementation of the requirements of this chapter may be initiated in a timely and orderly manner, the Secretary is authorized, subject to the approval of the appropriation Committees of the House and of the Senate, to utilize not to exceed $2,000,000 of the appropriations otherwise available to him for the fiscal year ending September 30, 1977, for the administration and other purposes of the chapter.
 
 ### Statutory Notes
 

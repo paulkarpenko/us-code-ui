@@ -206,6 +206,9 @@ For composition of Interagency Group on Countertrade, see section 2–101 of Ex.
 
 ### Statutory Notes
 
+#### Amendment of Subsections (b)(9) and (f)
+Pub. L. 115–254, div. F, title VI, § 1470(d), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (b)(9) and the introductory provisions of subsection (f) of this section are amending by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment notes below.
+
 #### References in Text
 The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
@@ -213,11 +216,18 @@ The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96
 Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of section 2301 of Pub. L. 100–418 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (b)(9). Pub. L. 115–254, § 1470(d), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
+Subsec. (f). Pub. L. 115–254, § 1470(d), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in introductory provisions.
+
 1992—Subsec. (b)(8), (9). Pub. L. 102–429, §§ 202, 203(a), added pars. (8) and (9).
 
 Subsec. (d)(1). Pub. L. 102–429, § 205, substituted “16” for “8”.
 
 Subsecs. (f) to (j). Pub. L. 102–429, § 203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 53 of House Document No. 103–7.
@@ -570,10 +580,15 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(1)(K)
+Pub. L. 115–254, div. F, title VI, § 1470(e), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (d)(1)(K) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
+
 #### References in Text
 Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 ([22 U.S.C. 5823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5823&num=0&edition=prelim) and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
+2018—Subsec. (d)(1)(K). Pub. L. 115–254, § 1470(e), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
 2016—Subsec. (c)(7). Pub. L. 114–125, § 505(e)(1), added par. (7).
 
 Subsec. (d)(2), (3). Pub. L. 114–125, § 505(a)(1), added par. (2) and redesignated former par. (2) as (3).
@@ -590,6 +605,9 @@ Subsec. (f)(1). Pub. L. 114–125, § 505(e)(2), inserted “(including implemen
 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Availability of State Resources Guides on Export.gov
 Pub. L. 114–125, title V, § 504(c), Feb. 24, 2016, 130 Stat. 179, provided that: “The Secretary of Commerce shall make available on the Internet website Export.gov (or a successor website) information on the resources relating to export promotion and export financing available in each State— “(1) organized by State; and “(2) including information on State agencies with responsibility for export promotion or export financing and district export councils and trade associations located in the State.”
@@ -631,7 +649,7 @@ Section 1. Establishment. There is established the “Trade Promotion Coordinati
 
 (o) Small Business Administration;
 
-(p) Overseas Private Investment Corporation;
+(p) Overseas Private Investment Corporation [now United States International Development Finance Corporation];
 
 (q) Export-Import Bank of the United States;
 
@@ -724,7 +742,7 @@ Sec. 2. Export Promotion Cabinet. There is established an Export Promotion Cabin
 
 (l) the Administrator of the Small Business Administration;
 
-(m) the President of the Overseas Private Investment Corporation;
+(m) the President of the Overseas Private Investment Corporation [now United States International Development Finance Corporation];
 
 (n) the Director of the United States Trade and Development Agency; and
 
@@ -797,7 +815,7 @@ Sec. 2. Establishment and Membership. There is hereby established an Interagency
 
 (xi) Millennium Challenge Corporation;
 
-(xii) Overseas Private Investment Corporation;
+(xii) Overseas Private Investment Corporation [now United States International Development Finance Corporation];
 
 (xiii) Small Business Administration;
 
@@ -901,7 +919,40 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 Barack Obama.
 
 #### Extension of Term of President’s Advisory Council on Doing Business in Africa
-Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of President’s Advisory Council on Doing Business in Africa was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
+
+#### Ex. Ord. No. 13797. Establishment of Office of Trade and Manufacturing Policy
+Ex. Ord. No. 13797, Apr. 29, 2017, 82 F.R. 20821, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Establishment. The Office of Trade and Manufacturing Policy (OTMP) is hereby established within the White House Office. The OTMP shall consist of a Director selected by the President and such staff as deemed necessary by the Assistant to the President and Chief of Staff.
+
+Sec. 2. Mission. The mission of the OTMP is to defend and serve American workers and domestic manufacturers while advising the President on policies to increase economic growth, decrease the trade deficit, and strengthen the United States manufacturing and defense industrial bases.
+
+Sec. 3. Responsibilities. The OTMP shall:
+
+(a) advise the President on innovative strategies and promote trade policies consistent with the President’s stated goals;
+
+(b) serve as a liaison between the White House and the Department of Commerce and undertake trade-related special projects as requested by the President; and
+
+(c) help improve the performance of the executive branch’s domestic procurement and hiring policies, including through the implementation of the policies described in Executive Order 13788 of April 18, 2017 (Buy American and Hire American).
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 #### Maximizing the Effectiveness of Federal Programs and Functions Supporting Trade and Investment
 Memorandum of President of the United States, Feb. 17, 2012, 77 F.R. 10935, provided:

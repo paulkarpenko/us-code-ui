@@ -130,6 +130,12 @@ In subsection (b)(1)(B), before subclause (i), the words “after the one-year p
 
 In subsection (c), before clause (1), the words “A certificate of registration” are substituted for “Registration” for clarity. In clause (2), the words “by a particular person” are omitted as surplus.
 
+#### Aircraft Registration
+Pub. L. 115–254, div. B, title V, § 556, Oct. 5, 2018, 132 Stat. 3383, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Federal Aviation Administration] shall initiate a rulemaking to increase the duration of aircraft registrations for noncommercial general aviation aircraft to 7 years. “(b) Considerations.—In promulgating the notice of proposed rulemaking described in subsection (a), the Administrator may consider any events, circumstances, changes in any ownership entity or structure, or other condition that would necessitate renewal prior to the expiration of an aircraft registration.”
+
+#### Right to Privacy When Using Air Traffic Control System
+Pub. L. 115–254, div. B, title V, § 566, Oct. 5, 2018, 132 Stat. 3385, provided that: “Notwithstanding any other provision of law, the Administrator [of the Federal Aviation Administration] shall, upon request of a private aircraft owner or operator, block the registration number of the aircraft of the owner or operator from any public dissemination or display, except in data made available to a Government agency, for the noncommercial flights of the owner or operator.”
+
 #### Aircraft Situational Display Data
 Pub. L. 106–181, title VII, § 729, Apr. 5, 2000, 114 Stat. 168, provided that: “(a) In General.—A memorandum of agreement between the Administrator [of the Federal Aviation Administration] and any person that directly obtains aircraft situational display data from the Federal Aviation Administration shall require that—“(1) the person demonstrate to the satisfaction of the Administrator that the person is capable of selectively blocking the display of any aircraft-situation-display-to-industry derived data related to any identified aircraft registration number; and “(2) the person agree to block selectively the aircraft registration numbers of any aircraft owner or operator upon the Administration’s request. “(b) Existing Memoranda To Be Conformed.—Not later than 30 days after the date of the enactment of this Act [Apr. 5, 2000], the Administrator shall conform any memoranda of agreement, in effect on such date of enactment, between the Federal Aviation Administration and a person under which that person obtains aircraft situational display data to incorporate the requirements of subsection (a).”
 
@@ -519,7 +525,7 @@ Pub. L. 100–690, title VII, § 7211(b), Nov. 18, 1988, 102 Stat. 4433, provide
 
 (3) “secured party” means a person having a security interest in, or security title to, a civil aircraft, aircraft engine, or propeller under a conditional sales contract, equipment trust contract, chattel or corporate mortgage, or similar instrument.
 
-**(b) Liability.—** A lessor, owner, or secured party is liable for personal injury, death, or property loss or damage on land or water only when a civil aircraft, aircraft engine, or propeller is in the actual possession or control of the lessor, owner, or secured party, and the personal injury, death, or property loss or damage occurs because of—
+**(b) Liability.—** A lessor, owner, or secured party is liable for personal injury, death, or property loss or damage only when a civil aircraft, aircraft engine, or propeller is in the actual possession or operational control of the lessor, owner, or secured party, and the personal injury, death, or property loss or damage occurs because of—
 
 (1) the aircraft, engine, or propeller; or
 
@@ -535,6 +541,9 @@ Pub. L. 100–690, title VII, § 7211(b), Nov. 18, 1988, 102 Stat. 4433, provide
 In subsection (a), clauses (1) and (3) are derived from 49 App.:1404 (2d–57th words). Clause (2) is added for clarity. In clause (1), the words “bona fide” are omitted as surplus. In clause (3), the word “nature” is omitted as surplus.
 
 In subsection (b), before clause (1), the words “personal injury, death” are substituted for “any injury to or death of persons”, and the words “on land or water” are substituted for “on the surface of the earth (whether on land or water)”, to eliminate unnecessary words. In clause (2), the words “ascent, descent, or” and “dropping or” are omitted as surplus.
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–254, in introductory provisions, struck out “on land or water” before “only when” and inserted “operational” before “control”.
 
 
 <a id="section-44113"></a>

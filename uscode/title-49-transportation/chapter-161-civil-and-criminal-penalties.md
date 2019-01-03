@@ -34,7 +34,7 @@ Provisions similar to those in this section were contained in [section 11901 of 
 1997—Subsecs. (c), (d). Pub. L. 105–102 redesignated subsec. (d) as (c).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-16102"></a>
@@ -58,6 +58,9 @@ shall be fined under title 18 or imprisoned not more than 2 years, or both.
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11909 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11909&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-16103"></a>
 ## § 16103. Unlawful disclosure of information
@@ -78,6 +81,9 @@ Provisions similar to those in this section were contained in [section 11909 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11910 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11910&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-16104"></a>
 ## § 16104. Disobedience to subpenas
@@ -88,6 +94,9 @@ Whoever does not obey a subpena or requirement of the Board to appear and testif
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11913 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11913&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-16105"></a>
@@ -100,6 +109,9 @@ When another criminal penalty is not provided under this chapter, a pipeline car
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11914 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11914&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-16106"></a>
 ## § 16106. Punishment of corporation for violations committed by certain individuals
@@ -110,3 +122,6 @@ An act or omission that would be a violation of this subtitle if committed by a 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11915 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11915&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

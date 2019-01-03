@@ -912,7 +912,7 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
 **(i) Guaranteed underwriting user fee**
 
-(1) **Authority; maximum amount** — The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
+(1) **Authority; maximum amount** — To the extent provided in advance in appropriations Acts, the Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
 
 (2) **Crediting; availability** — Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).
 
@@ -930,6 +930,8 @@ Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949,
 This chapter, referred to in subsec. (h)(15)(A), appearing in the original is unidentifiable because title V of act July 15, 1949, does not contain chapters.
 
 #### Amendments
+2018—Subsec. (i)(1). Pub. L. 115–141 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.”
+
 2016—Subsec. (h)(18). Pub. L. 114–201, § 201, added par. (18).
 
 Subsec. (i). Pub. L. 114–201, § 202, added subsec. (i).
@@ -1829,7 +1831,7 @@ Amendment by act Aug. 7, 1956, effective July 1, 1956, see section 606(d) of act
 
 (3) the term “domestic farm labor” means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities, without respect to the source of employment, except that—
 
-  (A) such person shall be a citizen of the United States or a person legally admitted for permanent residence;
+  (A) such person shall be a citizen of the United States, or a person legally admitted for permanent residence, or a person legally admitted to the United States and authorized to work in agriculture;
 
   (B) such term includes any person (and the family of such person) who is retired or disabled, but who was domestic farm labor at the time of retirement or becoming disabled; and
 
@@ -1866,6 +1868,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Another section 801(b) of Pub. L. 91–609 amended [section 1460(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1460/c/1&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (f)(3)(A). Pub. L. 115–141 substituted “United States,” for “United States” and inserted “, or a person legally admitted to the United States and authorized to work in agriculture” before semicolon at end.
+
 2008—Subsec. (f)(3). Pub. L. 110–246, § 6205, substituted “, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities” for “or the handling of such commodities in the unprocessed stage” in introductory provisions.
 
 2000—Subsec. (a). Pub. L. 106–569, § 703, substituted “limited partnership” for “nonprofit limited partnership” in first sentence of introductory provisions.
@@ -2782,11 +2786,13 @@ Any sums in the Rural Housing Insurance Fund which the Secretary determines are 
 <a id="section-1490"></a>
 ## § 1490. “Rural” and “rural area” defined
 
-As used in this subchapter, the terms “rural” and “rural area” mean any open country, or any place, town, village, or city which is not (except in the cases of Pajaro, in the State of California, and Guadalupe, in the State of Arizona) part of or associated with an urban area and which (1) has a population not in excess of 2,500 inhabitants, or (2) has a population in excess of 2,500 but not in excess of 10,000 if it is rural in character, or (3) has a population in excess of 10,000 but not in excess of 20,000, and (A) is not contained within a standard metropolitan statistical area, and (B) has a serious lack of mortgage credit for lower and moderate-income families, as determined by the Secretary and the Secretary of Housing and Urban Development. For purposes of this subchapter, any area classified as “rural” or a “rural area” prior to October 1, 1990, and determined not to be “rural” or a “rural area” as a result of data received from or after the 1990, 2000, or 2010 decennial census, and any area deemed to be a “rural area” for purposes of this subchapter under any other provision of law at any time during the period beginning January 1, 2000, and ending December 31, 2010, shall continue to be so classified until the receipt of data from the decennial census in the year 2020, if such area has a population in excess of 10,000 but not in excess of 35,000, is rural in character, and has a serious lack of mortgage credit for lower and moderate-income families. Notwithstanding any other provision of this section, the city of Plainview, Texas, shall be considered a rural area for purposes of this subchapter, and the city of Altus, Oklahoma, shall be considered a rural area for purposes of this subchapter until the receipt of data from the decennial census in the year 2000.
+As used in this subchapter, the terms “rural” and “rural area” mean any open country, or any place, town, village, or city which is not (except in the cases of Pajaro, in the State of California, and Guadalupe, in the State of Arizona) part of or associated with an urban area and which (1) has a population not in excess of 2,500 inhabitants, or (2) has a population in excess of 2,500 but not in excess of 10,000 if it is rural in character, or (3) has a population in excess of 10,000 but not in excess of 20,000, and (A) is not contained within a standard metropolitan statistical area, and (B) has a serious lack of mortgage credit for lower and moderate-income families, as determined by the Secretary and the Secretary of Housing and Urban Development. For purposes of this subchapter, any area classified as “rural” or a “rural area” prior to October 1, 1990, and determined not to be “rural” or a “rural area” as a result of data received from or after the 1990, 2000, 2010, or 2020 decennial census, and any area deemed to be a “rural area” for purposes of this subchapter under any other provision of law at any time during the period beginning January 1, 2000, and ending December 31, 2020, shall continue to be so classified until the receipt of data from the decennial census in the year 2030, if such area has a population in excess of 10,000 but not in excess of 35,000, is rural in character, and has a serious lack of mortgage credit for lower and moderate-income families. Notwithstanding any other provision of this section, the city of Plainview, Texas, shall be considered a rural area for purposes of this subchapter, and the city of Altus, Oklahoma, shall be considered a rural area for purposes of this subchapter until the receipt of data from the decennial census in the year 2000.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2010, or 2020 decennial census” for “or 2010 decennial census”, “December 31, 2020,” for “December 31, 2010,”, and “year 2030” for “year 2020”.
+
 2014—Pub. L. 113–79 substituted “1990, 2000, or 2010 decennial census, and any area deemed to be a ‘rural area’ for purposes of this subchapter under any other provision of law at any time during the period beginning January 1, 2000, and ending December 31, 2010, shall continue to be so classified until the receipt of data from the decennial census in the year 2020” for “1990 or 2000 decennial census shall continue to be so classified until the receipt of data from the decennial census in the year 2010” and “35,000” for “25,000”.
 
 2000—Pub. L. 106–554 and Pub. L. 106–569 amended second sentence identically, substituting “1990 or 2000 decennial census” for “1990 decennial census” and “year 2010” for “year 2000”.

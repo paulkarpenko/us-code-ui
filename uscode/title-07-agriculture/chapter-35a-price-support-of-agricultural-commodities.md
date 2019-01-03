@@ -1311,7 +1311,7 @@ Section was enacted as part of the Food and Agriculture Act of 1962, and not as 
 
 (2)
 
-  (A) For each of fiscal years 2008 through 2018, whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of such commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies. The expense of reprocessing shall be paid by such eligible recipient agencies.
+  (A) For each of fiscal years 2008 through 2023, whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of such commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies. The expense of reprocessing shall be paid by such eligible recipient agencies.
 
   (B) To maintain eligibility to enter into, and to continue, any agreement with the Secretary of Agriculture under subparagraph (A), a private company shall annually settle all accounts with the Secretary and any appropriate State agency regarding commodities processed under such agreements.
 
@@ -1330,6 +1330,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Agriculture and Food Act of 1981, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Amendments
+2018—Par. (2)(A). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Par. (2)(A). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Par. (2)(A). Pub. L. 110–246, § 4406(b)(4), substituted “For each of fiscal years 2008 through 2012” for “Effective through September 30, 2007”.
@@ -3160,7 +3162,7 @@ Subsec. (a)(2)(F)(iii). Pub. L. 100–203, § 1110(2), temporarily added cl. (ii
 #### Effective Date of 1990 Amendments
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 940d of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-940d).
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 1994 of this title](./chapter-050-agricultural-credit.md#section-1994).
 
 #### Effective and Termination Dates of 1989 Amendment
 Pub. L. 101–239, title I, § 1003(b)(1), Dec. 19, 1989, 103 Stat. 2108, provided that the amendment made by section 1003(b)(1) is effective only for the 1990 crops of wheat, feed grains, upland cotton, and rice.
@@ -4192,7 +4194,7 @@ As used in this subchapter:
 
     (iv) any economic enterprise (as defined in [section 1452(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452/e&num=0&edition=prelim));
 
-(2) The term “livestock” means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), fish used for food, and other animals designated by the Secretary (at the Secretary’s sole discretion) that—
+(2) The term “livestock” means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), llamas, alpacas, live fish, crawfish, and other animals that—
 
   (A) are part of a foundation herd (including producing dairy cattle) or offspring; or
 
@@ -4218,6 +4220,8 @@ Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 
 [Section 1985(e)(1)(D)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1985/e/1/D/ii&num=0&edition=prelim), referred to in par. (5), was redesignated [section 1985(e)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1985/e/1/A/ii&num=0&edition=prelim) by Pub. L. 104–127, title VI, § 638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
 
 #### Amendments
+2018—Par. (2). Pub. L. 115–334 substituted “llamas, alpacas, live fish, crawfish, and other animals that” for “fish used for food, and other animals designated by the Secretary (at the Secretary’s sole discretion) that” in introductory provisions.
+
 2005—Par. (2). Pub. L. 109–97, in introductory provisions, inserted “horses, deer,” after “bison,” and struck out “equine animals used for food or in the production of food,” before “fish”.
 
 2004—Par. (2). Pub. L. 108–447 inserted “elk, reindeer, bison,” after “means cattle,” in introductory provisions.

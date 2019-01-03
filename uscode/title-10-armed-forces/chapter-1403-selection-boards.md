@@ -129,7 +129,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 <a id="section-14106"></a>
 ## § 14106. Communication with board by officers under consideration
 
-Subject to regulations prescribed by the Secretary of the military department concerned, an officer eligible for consideration by a promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) who is in the promotion zone or above the promotion zone, or who is to be considered by a vacancy promotion board, may send a written communication to the board calling attention to any matter concerning the officer which the officer considers important to the officer’s case. Any such communication shall be sent so as to arrive not later than the day before the date on which the board convenes. The board shall give consideration to any timely communication under this section.
+Subject to regulations prescribed by the Secretary of the military department concerned, an officer eligible for consideration by a promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) who is in the promotion zone or above the promotion zone, or who is to be considered by a vacancy promotion board, may send a written communication to the board calling attention to any matter concerning the officer which the officer considers important to the officer’s case. Any such communication shall be sent so as to arrive not later than 10 calendar days before the date on which the board convenes. The board shall give consideration to any timely communication under this section.
 
 ### Statutory Notes
 
@@ -137,7 +137,12 @@ Subject to regulations prescribed by the Secretary of the military department co
 Provisions similar to those in this section were contained in sections 3362(f), 5900, and 8362(f) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+2017—Pub. L. 115–91 substituted “10 calendar days” for “the day”.
+
 2006—Pub. L. 109–163 inserted “the day before” after “not later than”.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 applicable with respect to promotion selection boards convened on or after Dec. 12, 2017, see section 501(c) of Pub. L. 115–91, set out as a note under [section 614 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-614).
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–163 effective Mar. 1, 2006, and applicable with respect to selection boards convened on or after that date, see section 505(c) of Pub. L. 109–163, set out as a note under [section 614 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-614).
@@ -239,7 +244,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (2) a majority of the members of the board finds that the officer is fully qualified for promotion; and
 
-(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under [section 14107 of this title](./chapter-1403-selection-boards.md#section-14107), finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
+(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under [section 14107 of this title](./chapter-1403-selection-boards.md#section-14107), finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable.
 
 **(c) Board Recommendation Required for Promotion.—** Except as otherwise provided by law, an officer on the reserve active-status list may not be promoted to a higher grade under chapter 1405 of this title unless the officer is considered and recommended for promotion to that grade by a promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) (or by a special selection board convened under [section 14502 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14502)).
 
@@ -257,9 +262,14 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in this section were contained in sections 3362(e), 5893(c), 5896, and 8362(e) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–232 substituted “section 7233, 8167, or 9233” for “section 3583, 5947, or 8583”.
+
 2006—Subsec. (b). Pub. L. 109–364, § 512(b)(1), substituted “Actions” for “Majority” in heading.
 
 Subsec. (b)(3). Pub. L. 109–364, § 512(b)(2)–(4), added par. (3).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to selection boards convened on or after that date, see section 512(c) of Pub. L. 109–364, set out as a note under [section 616 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-616).

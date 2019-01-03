@@ -300,13 +300,17 @@ Pub. L. 112–141, div. C, title II, § 32303(b), July 6, 2012, 126 Stat. 791, p
 
 (5) requiring a training provider (including a public or private driving school, motor carrier, or owner or operator of a commercial motor vehicle) that offers training that results in the issuance of a certification to an individual under paragraph (4) to demonstrate that the training meets the requirements of the regulations, through a process established by the Secretary.
 
-**(d) Standards for Training and Testing of Veteran Operators.—**
+**(d) Standards for Training and Testing of Operators Who Are Members of the Armed Forces, Reservists, or Veterans.—**
 
 (1) **In general.—** — Not later than December 31, 2016, the Secretary shall modify the regulations prescribed under subsections (a) and (c) to—
 
   (A) exempt a covered individual from all or a portion of a driving test if the covered individual had experience in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle;
 
-  (B) ensure that a covered individual may apply for an exemption under subparagraph (A) during, at least, the 1-year period beginning on the date on which such individual separates from service in the armed forces or reserve components; and
+  (B) ensure that a covered individual may apply for an exemption under subparagraph (A)—
+
+    (i) while serving in the armed forces or reserve components; and
+
+    (ii) during the 1-year period beginning on the date on which such individual separates from service in the armed forces or reserve components; and
 
   (C) credit the training and knowledge a covered individual received in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle for purposes of satisfying minimum standards for training and knowledge.
 
@@ -316,9 +320,9 @@ Pub. L. 112–141, div. C, title II, § 32303(b), July 6, 2012, 126 Stat. 791, p
 
   (B) *Covered individual.—* — The term “covered individual” means an individual over the age of 21 years who is—
 
-    (i) a former member of the armed forces; or
+    (i) a current or former member of the armed forces; or
 
-    (ii) a former member of the reserve components.
+    (ii) a current or former member of one of the reserve components.
 
   (C) *Reserve components.—* — The term “reserve components” means—
 
@@ -354,6 +358,14 @@ In subsection (b)(1), the words “taken and” are omitted as unnecessary. The 
 The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–105, § 3(1), substituted “Operators Who Are Members of the Armed Forces, Reservists, or Veterans” for “Veteran Operators” in heading.
+
+Subsec. (d)(1)(B). Pub. L. 115–105, § 3(2), substituted “subparagraph (A)—” for “subparagraph (A) during, at least,”, added cl. (i), and inserted “(ii) during” before “the 1-year period”.
+
+Subsec. (d)(2)(B)(i). Pub. L. 115–105, § 3(3)(A), inserted “current or” before “former”.
+
+Subsec. (d)(2)(B)(ii). Pub. L. 115–105, § 3(3), inserted “current or” before “former” and “one of” before “the reserve components”.
+
 2015—Subsec. (d). Pub. L. 114–94 added subsec. (d).
 
 2012—Pub. L. 112–141, § 32304(c), substituted “General driver fitness, testing, and training” for “General driver fitness and testing” in section catchline.
@@ -526,7 +538,9 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-#### Guidelines
+#### Hair Testing Guidelines
+Pub. L. 115–271, title VIII, § 8106, Oct. 24, 2018, 132 Stat. 4106, provided that: “(a) In General.—Not later than 60 days after the date of enactment of this Act [Oct. 24, 2018], and annually thereafter until the date that the Secretary of Health and Human Services publishes in the Federal Register a final notice of scientific and technical guidelines for hair testing in accordance with section 5402(b) of the Fixing America’s Surface Transportation Act (Public Law 114–94; 129 Stat. 1312) [set out below], the Secretary of Health and Human Services shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—“(1) the status of the hair testing guidelines; “(2) an explanation for why the hair testing guidelines have not been issued; and “(3) an estimated date of completion of the hair testing guidelines. “(b) Requirement.—To the extent practicable and consistent with the objective of the hair testing described in subsection (a) to detect illegal or unauthorized use of substances by the individual being tested, the final notice of scientific and technical guidelines under that subsection, as determined by the Secretary of Health and Human Services, shall eliminate the risk of positive test results, of the individual being tested, caused solely by the drug use of others and not caused by the drug use of the individual being tested.”
+
 Pub. L. 114–94, div. A, title V, § 5402(b), Dec. 4, 2015, 129 Stat. 1548, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary of Health and Human Services shall issue scientific and technical guidelines for hair testing as a method of detecting the use of a controlled substance for purposes of [section 31306 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31306), United States Code.”
 
 #### Drug Test Results Study
@@ -1095,7 +1109,11 @@ Pub. L. 105–178, title IV, § 4022, June 9, 1998, 112 Stat. 415, provided that
 
 (2) The Secretary may prescribe regulations establishing guidelines (including conditions) under which a disqualification for life under paragraph (1) of this subsection may be reduced to a period of not less than 10 years.
 
-**(d) Controlled Substance Violations.—** The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
+**(d) Lifetime Disqualification Without Reinstatement.—**
+
+(1) **Controlled substance violations.—** — The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.
+
+(2) **Human trafficking violations.—** — The Secretary shall disqualify from operating a commercial motor vehicle for life an individual who uses a commercial motor vehicle in committing a felony involving an act or practice described in paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9&num=0&edition=prelim)).
 
 **(e) Serious Traffic Violations.—**
 
@@ -1176,6 +1194,8 @@ In subsection (g)(1)(A), the words “Not later than 1 year after October 27, 19
 In subsection (g)(2), before clause (A), the words “Not later than December 18, 1992, the Secretary shall prescribe regulations” are substituted for “The Secretary shall issue regulations” and 49 App.:2718(c) to eliminate executed words. The word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the United States Code. In clause (C), the words “permits, authorizes” are omitted as being included in “allows”.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–106 substituted “Lifetime Disqualification Without Reinstatement” for “Controlled Substance Violations” in heading, inserted par. (1) designation and heading, and added par. (2).
+
 2012—Subsec. (f). Pub. L. 112–141, § 32507, inserted “section 521 or” before “section 5102” in pars. (1) and (2).
 
 Subsec. (g)(1). Pub. L. 112–141, § 32931(d), which directed substitution of “The” for “Not later than 1 year after the date of enactment of this Act, the”, was executed by making the substitution for “Not later than 1 year after the date of the enactment of this Act, the”, to reflect the probable intent of Congress.
@@ -1499,9 +1519,11 @@ A prior section 31312, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1025,
 
   (C) address emerging issues relating to commercial driver’s license improvements;
 
-  (D) support innovative ideas and solutions to commercial driver’s license program issues; or
+  (D) support innovative ideas and solutions to commercial driver’s license program issues;
 
-  (E) address other commercial driver’s license issues, as determined by the Secretary.
+  (E) support, in addition to funds otherwise available for such purposes, the recognition, prevention, and reporting of human trafficking; or
+
+  (F) address other commercial driver’s license issues, as determined by the Secretary.
 
 **(b) Prohibitions.—** A recipient may not use financial assistance funds awarded under this section to rent, lease, or buy land or buildings.
 
@@ -1520,6 +1542,8 @@ Section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012,
 A prior section 31313, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1027, related to grants for issuing commercial drivers’ licenses and complying with State participation requirements, prior to repeal by Pub. L. 105–178, title IV, § 4011(f), June 9, 1998, 112 Stat. 408.
 
 #### Amendments
+2018—Subsec. (a)(3)(E), (F). Pub. L. 115–99 added subpar. (E) and redesignated former subpar. (E) as (F).
+
 2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to grants for commercial driver’s license program implementation.
 
 2012—Pub. L. 112–141, § 32604(b)(1), substituted “implementation” for “improvements” in section catchline.

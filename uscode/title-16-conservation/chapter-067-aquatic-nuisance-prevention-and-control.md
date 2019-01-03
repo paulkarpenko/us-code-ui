@@ -2,7 +2,7 @@
 title: 16
 chapter: '67'
 heading: AQUATIC NUISANCE PREVENTION AND CONTROL
-section_count: 16
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -212,233 +212,14 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 
 <a id="section-4711"></a>
-## § 4711. Aquatic nuisance species in waters of United States
-**(a) Great Lakes guidelines**
-
-(1) **In general** — Not later than 6 months after November 29, 1990, the Secretary shall issue voluntary guidelines to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the exchange of ballast water of vessels prior to entering those waters.
-
-(2) **Content of guidelines** — The guidelines issued under this subsection shall—
-
-  (A) ensure to the maximum extent practicable that ballast water containing aquatic nuisance species is not discharged into the Great Lakes;
-
-  (B) protect the safety of—
-
-    (i) each vessel; and
-
-    (ii) the crew and passengers of each vessel;
-
-  (C) take into consideration different vessel operating conditions; and
-
-  (D) be based on the best scientific information available.
-
-**(b) Regulations**
-
-(1) **In general** — Not later than 2 years after November 29, 1990, the Secretary, in consultation with the Task Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
-
-(2) **Content of regulations** — The regulations issued under this subsection shall—
-
-  (A) apply to all vessels equipped with ballast water tanks that enter a United States port on the Great Lakes after operating on the waters beyond the exclusive economic zone;
-
-  (B) require a vessel to—
-
-    (i) carry out exchange of ballast water on the waters beyond the exclusive economic zone prior to entry into any port within the Great Lakes;
-
-    (ii) carry out an exchange of ballast water in other waters where the exchange does not pose a threat of infestation or spread of aquatic nuisance species in the Great Lakes and other waters of the United States, as recommended by the Task Force under [section 4712(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4712/a/1&num=0&edition=prelim); or
-
-    (iii) use environmentally sound alternative ballast water management methods if the Secretary determines that such alternative methods are as effective as ballast water exchange in preventing and controlling infestations of aquatic nuisance species;
-
-  (C) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.);
-
-  (D) provide for sampling procedures to monitor compliance with the requirements of the regulations;
-
-  (E) prohibit the operation of a vessel in the Great Lakes if the master of the vessel has not certified to the Secretary or the Secretary’s designee by not later than the departure of that vessel from the first lock in the St. Lawrence Seaway that the vessel has complied with the requirements of the regulations;
-
-  (F) protect the safety of—
-
-    (i) each vessel; and
-
-    (ii) the crew and passengers of each vessel;
-
-  (G) take into consideration different operating conditions; and
-
-  (H) be based on the best scientific information available.
-
-(3) **Additional regulations** — In addition to promulgating regulations under paragraph (1), the Secretary, in consultation with the Task Force, shall, not later than November 4, 1994, issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through ballast water carried on vessels that enter a United States port on the Hudson River north of the George Washington Bridge.
-
-(4) **Education and technical assistance programs** — The Secretary may carry out education and technical assistance programs and other measures to promote compliance with the regulations issued under this subsection.
-
-**(c) Voluntary national guidelines**
-
-(1) **In general** — Not later than 1 year after October 26, 1996, and after providing notice and an opportunity for public comment, the Secretary shall issue voluntary guidelines to prevent the introduction and spread of nonindigenous species in waters of the United States by ballast water operations and other operations of vessels equipped with ballast water tanks.
-
-(2) **Content of guidelines** — The voluntary guidelines issued under this subsection shall—
-
-  (A) ensure to the maximum extent practicable that aquatic nuisance species are not discharged into waters of the United States from vessels;
-
-  (B) apply to all vessels equipped with ballast water tanks that operate in waters of the United States;
-
-  (C) protect the safety of—
-
-    (i) each vessel; and
-
-    (ii) the crew and passengers of each vessel;
-
-  (D) direct a vessel that is carrying ballast water into waters of the United States after operating beyond the exclusive economic zone to—
-
-    (i) carry out the exchange of ballast water of the vessel in waters beyond the exclusive economic zone;
-
-    (ii) exchange the ballast water of the vessel in other waters where the exchange does not pose a threat of infestation or spread of nonindigenous species in waters of the United States, as recommended by the Task Force under [section 4712(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4712/a/1&num=0&edition=prelim); or
-
-    (iii) use environmentally sound alternative ballast water management methods, including modification of the vessel ballast water tanks and intake systems, if the Secretary determines that such alternative methods are at least as effective as ballast water exchange in preventing and controlling infestations of aquatic nuisance species;
-
-  (E) direct vessels to carry out management practices that the Secretary determines to be necessary to reduce the probability of unintentional nonindigenous species transfer resulting from—
-
-    (i) ship operations other than ballast water discharge; and
-
-    (ii) ballasting practices of vessels that enter waters of the United States with no ballast water on board;
-
-  (F) provide for the keeping of records that shall be submitted to the Secretary, as prescribed by the guidelines, and that shall be maintained on board each vessel and made available for inspection, upon request of the Secretary and in a manner consistent with subsection (i), in order to enable the Secretary to determine compliance with the guidelines, including—
-
-    (i) with respect to each ballast water exchange referred to in clause (ii), reporting on the precise location and thoroughness of the exchange; and
-
-    (ii) any other information that the Secretary considers necessary to assess the rate of effective compliance with the guidelines;
-
-  (G) provide for sampling procedures to monitor compliance with the guidelines;
-
-  (H) take into consideration—
-
-    (i) vessel types;
-
-    (ii) variations in the characteristics of point of origin and receiving water bodies;
-
-    (iii) variations in the ecological conditions of waters and coastal areas of the United States; and
-
-    (iv) different operating conditions;
-
-  (I) be based on the best scientific information available;
-
-  (J) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.); and
-
-  (K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
-
-  (L) not apply to crude oil tankers engaged in the coastwise trade.
-
-(3) **Education and technical assistance programs** — Not later than 1 year after October 26, 1996, the Secretary shall carry out education and technical assistance programs and other measures to encourage compliance with the guidelines issued under this subsection.
-
-**(d) Report to Congress** Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e).
-
-**(e) Periodic review and revision**
-
-(1) **In general** — Not later than 3 years after the date of issuance of guidelines pursuant to subsection (c), and not less frequently than every 3 years thereafter, the Secretary shall, in accordance with criteria developed by the Task Force under paragraph (3)—
-
-  (A) assess the compliance by vessels with the voluntary guidelines issued under subsection (c) and the regulations promulgated under this chapter;
-
-  (B) establish the rate of compliance that is based on the assessment under subparagraph (A);
-
-  (C) assess the effectiveness of the voluntary guidelines and regulations referred to in subparagraph (A) in reducing the introduction and spread of aquatic nuisance species by vessels; and
-
-  (D) as necessary, on the basis of the best scientific information available—
-
-    (i) revise the guidelines and regulations referred to in subparagraph (A);
-
-    (ii) promulgate additional regulations pursuant to subsection (f)(1); or
-
-    (iii) carry out each of clauses (i) and (ii).
-
-(2) **Special review and revision** — Not later than 90 days after the Task Force makes a request to the Secretary for a special review and revision for coastal and inland waterways designated by the Task Force, the Secretary shall—
-
-  (A) conduct a special review of guidelines and regulations applicable to those waterways in accordance with the review procedures under paragraph (1); and
-
-  (B) as necessary, in the same manner as provided under paragraph (1)(D)—
-
-    (i) revise those guidelines;
-
-    (ii) promulgate additional regulations pursuant to subsection (f)(1); or
-
-    (iii) carry out each of clauses (i) and (ii).
-
-(3) **Criteria for effectiveness** — Not later than 18 months after October 26, 1996, the Task Force shall submit to the Secretary criteria for determining the adequacy and effectiveness of the voluntary guidelines issued under subsection (c).
-
-**(f) Authority of Secretary**
-
-(1) **General regulations** — If, on the basis of a periodic review conducted under subsection (e)(1) or a special review conducted under subsection (e)(2), the Secretary determines that—
-
-  (A) the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) is inadequate; or
-
-  (B) the reporting by vessels pursuant to those guidelines is not adequate for the Secretary to assess the compliance with those guidelines and provide a rate of compliance of vessels, including the assessment of the rate of compliance of vessels under subsection (e)(2),
-  the Secretary shall promptly promulgate regulations that meet the requirements of paragraph (2).
-
-(2) **Requirements for regulations** — The regulations promulgated by the Secretary under paragraph (1)—
-
-  (A) shall—
-
-    (i) not be promulgated sooner than 180 days following the issuance of the report to Congress submitted pursuant to subsection (d);
-
-    (ii) make mandatory the requirements included in the voluntary guidelines issued under subsection (c); and
-
-    (iii) provide for the enforcement of the regulations; and
-
-  (B) may be regional in scope.
-
-(3) **International regulations** — The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
-
-**(g) Sanctions**
-
-(1) **Civil penalties** — Any person who violates a regulation promulgated under subsection (b) or (f) shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
-
-(2) **Criminal penalties** — Any person who knowingly violates the regulations promulgated under subsection (b) or (f) is guilty of a class C felony.
-
-(3) **Revocation of clearance** — Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f).
-
-(4) **Exception to sanctions** — This subsection does not apply to a failure to exchange ballast water if—
-
-  (A) the master of a vessel, acting in good faith, decides that the exchange of ballast water will threaten the safety or stability of the vessel, its crew, or its passengers; and
-
-  (B) the recordkeeping and reporting requirements of this chapter are complied with.
-
-**(h) Coordination with other agencies** In carrying out the programs under this section, the Secretary is encouraged to use, to the maximum extent practicable, the expertise, facilities, members, or personnel of established agencies and organizations that have routine contact with vessels, including the Animal and Plant Health Inspection Service of the Department of Agriculture, the National Cargo Bureau, port administrations, and ship pilots’ associations.
-
-**(i) Consultation with Canada, Mexico, and other foreign governments** In developing the guidelines issued and regulations promulgated under this section, the Secretary is encouraged to consult with the Government of Canada, the Government of Mexico, and any other government of a foreign country that the Secretary, in consultation with the Task Force, determines to be necessary to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
-
-**(j) International cooperation** The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on Environmental Cooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
-
-**(k) Safety exemption**
-
-(1) **Master discretion** — The master of a vessel is not required to conduct a ballast water exchange if the master decides that the exchange would threaten the safety or stability of the vessel, its crew, or its passengers because of adverse weather, vessel architectural design, equipment failure, or any other extraordinary conditions.
-
-(2) **Other requirements**
-
-  (A) *In general* — Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
-
-  (B) *Great Lakes* — Subparagraph (A) shall not apply in a case in which a vessel is subject to the regulations issued by the Secretary under subsection (b).
-
-(3) **Crude oil tanker ballast facility study**
-
-  (A) Within 60 days of October 26, 1996,11 See Codification note below. the Secretary of the department in which the Coast Guard is operating, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere, affected shoreside ballast water facility operators, affected crude oil tanker operators, and interested parties, shall initiate a study of the effectiveness of existing shoreside ballast water facilities used by crude oil tankers in the coastwise trade off Alaska in preventing the introduction of nonindigenous aquatic species into the waters off Alaska, as well as the cost and feasibility of modifying such facilities to improve such effectiveness.
-
-  (B) The study required under subparagraph (A) shall be submitted to the Congress by no later than October 1, 1997.
-
-**(l) Non-discrimination** The Secretary shall ensure that vessels registered outside of the United States do not receive more favorable treatment than vessels registered in the United States when the Secretary performs studies, reviews compliance, determines effectiveness, establishes requirements, or performs any other responsibilities under this chapter.
+## § 4711. Repealed. Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(C) and (c)(2)(J), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
+Section, Pub. L. 101–646, title I, § 1101, Nov. 29, 1990, 104 Stat. 4763; Pub. L. 102–580, title III, § 302(b)(1), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 102–587, title IV, § 4002, Nov. 4, 1992, 106 Stat. 5068; Pub. L. 104–332, § 2(b)(2), Oct. 26, 1996, 110 Stat. 4075, related to aquatic nuisance species in waters of United States.
 
-This chapter, referred to in subsecs. (e)(1)(A), (g)(4)(B), and (l), was in the original “this Act” or “the Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
-
-#### Codification
-In subsec. (g)(3), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
-
-October 26, 1996, referred to in subsec. (k)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–332, which amended this section generally, to reflect the probable intent of Congress.
-
-#### Amendments
-1996—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (l) relating to aquatic nuisance species in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
-
-1992—Subsec. (b)(3). Pub. L. 102–580 and Pub. L. 102–587 made substantively identical amendments, adding par. (3). Par. (3) is based on text of Pub. L. 102–587.
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+#### Effective Date of Repeal
+Pub. L. 115–282, title IX, § 903(a)(2)(A), Dec. 4, 2018, 132 Stat. 4354, provided that the repeal of this section by section 903(a)(2)(A) is effective beginning on Dec. 4, 2018.
 
 
 <a id="section-4712"></a>
@@ -491,7 +272,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) Reports**
 
-(1) **Ballast exchange** — Not later than 18 months after November 29, 1990, and prior to the effective date of the regulations issued under [section 4711(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/b&num=0&edition=prelim), the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) and makes recommendations with respect to such regulations.
+(1) **Ballast exchange** — Not later than 18 months after November 29, 1990, and prior to the effective date of the regulations issued under [section 4711(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/b&num=0&edition=prelim) (as in effect on the day before December 4, 2018), the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) and makes recommendations with respect to such regulations.
 
 (2) **Biological and shipping studies** — Not later than 18 months after November 29, 1990, the Secretary and the Task Force shall each submit to the Congress a report on the results of their respective studies under paragraphs (2) and (3) of subsection (a).
 
@@ -515,19 +296,82 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (A) ballasting practices;
 
-  (B) compliance with the guidelines issued pursuant to [section 4711(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/c&num=0&edition=prelim); and
+  (B) compliance with the guidelines issued pursuant to [section 4711(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/c&num=0&edition=prelim) (as in effect on the day before December 4, 2018); and
 
   (C) any other information obtained by the Task Force under subsection (b).
 
-(2) **Report** — In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
+(2) **Ballast water reporting requirements**
 
-  (A) ballast water delivery and management; and
+  (A) *In general* — The owner or operator of a vessel subject to this chapter shall submit to the National Ballast Information Clearinghouse, by not later than 6 hours after the arrival of the vessel at a United States port or place of destination, the ballast water management report form approved by the Office of Management and Budget numbered OMB 1625–0069 (or a successor form), unless the vessel is operating exclusively on a voyage between ports or places within contiguous portions of a single Captain of the Port Zone.
 
-  (B) invasions of aquatic nuisance species resulting from ballast water.
+  (B) *Multiple discharges* — The owner or operator of a vessel subject to this chapter may submit a single report under subparagraph (A) for multiple ballast water discharges within a single port or place of destination during the same voyage.
+
+  (C) *Advance report to States* — A State may require the owner or operator of a vessel subject to this chapter to submit directly to the State, or to an appropriate regional forum, a ballast water management report form—
+
+    (i) not later than 24 hours prior to arrival at a United States port or place of destination in the State, if the voyage of the vessel is anticipated to exceed 24 hours; or
+
+    (ii) before departing the port or place of departure, if the voyage of the vessel to the United States port or place of destination is not anticipated to exceed 24 hours.
+
+(3) **Vessel reporting data**
+
+  (A) *Dissemination to States* — On receipt of a ballast water management report under paragraph (2), the National Ballast Information Clearinghouse shall—
+
+    (i) in the case of a form submitted electronically, immediately disseminate the report to interested States; or
+
+    (ii) in the case of a form submitted by means other than electronically, disseminate the report to interested States as soon as practicable.
+
+  (B) *Availability to public* — Not later than 30 days after the date of receipt of a ballast water management report under paragraph (2), the National Ballast Information Clearinghouse shall make the data in the report fully and readily available to the public in a searchable and fully retrievable electronic format.
+
+(4) **Report**
+
+  (A) *In general* — Not later than July 1, 2019, and annually thereafter, the Secretary shall prepare and submit a report in accordance with this paragraph.
+
+  (B) *Contents* — Each report under this paragraph shall synthesize and analyze the data described in paragraph (1) for the preceding 2-year period to evaluate nationwide status and trends relating to—
+
+    (i) ballast water delivery and management; and
+
+    (ii) invasions of aquatic nuisance species resulting from ballast water.
+
+  (C) *Development* — The Secretary shall prepare each report under this paragraph in consultation and cooperation with—
+
+    (i) the Task Force; and
+
+    (ii) the Smithsonian Institution (acting through the Smithsonian Environmental Research Center).
+
+  (D) *Submission* — The Secretary shall—
+
+    (i) submit each report under this paragraph to—
+
+      (I) the Task Force;
+
+      (II) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+      (III) the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+    (ii) make each report available to the public.
+
+(5) **Working group** — Not later than 1 year after December 4, 2018, the Secretary shall establish a working group, including members from the National Ballast Information Clearinghouse and States with ballast water management programs, to establish a process for compiling and readily sharing Federal and State commercial vessel reporting and enforcement data regarding compliance with this chapter.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 4711 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4711) (as in effect on the day before December 4, 2018), referred to in subsecs. (c)(1) and (f)(1)(B), means [section 4711 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4711) as in effect prior to repeal by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
+
+This chapter, referred to in subsec. (f)(2), was in the original “this title”, meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 4701 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4701) and Tables.
+
+This chapter, referred to in subsec. (f)(5), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 4701 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4701) and Tables.
+
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–282, § 903(a)(2)(B)(i), inserted “(as in effect on the day before December 4, 2018)” after “[section 4711(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/b&num=0&edition=prelim)”.
+
+Subsec. (f)(1)(B). Pub. L. 115–282, § 903(a)(2)(B)(ii), inserted “(as in effect on the day before December 4, 2018)” after “[section 4711(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/c&num=0&edition=prelim)”.
+
+Subsec. (f)(2) to (5). Pub. L. 115–282, § 903(h)(1), added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
+
+“(A) ballast water delivery and management; and
+
+“(B) invasions of aquatic nuisance species resulting from ballast water.”
+
 1998—Subsec. (f)(2). Pub. L. 105–362 substituted “biennial basis” for “biannual basis” in introductory provisions.
 
 1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1102, which enacted this section.
@@ -920,7 +764,7 @@ Pub. L. 104–332, § 2(e)(5)(B)–(F), designated existing provisions as subsec
 
 (5) **In-kind contributions** — In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
 
-**(c) Enforcement assistance** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with [section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim), may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+**(c) Enforcement assistance** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
 ### Statutory Notes
 
@@ -951,18 +795,34 @@ Subsec. (b)(1). Pub. L. 104–332, § 2(e)(6)(B), struck out “or the Assistant
 
 Subsec. (c). Pub. L. 104–332, § 2(e)(6)(C), added subsec. (c).
 
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) redesignated [section 701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) by Pub. L. 115–282, title I, § 106(b), Dec. 4, 2018, 132 Stat. 4203, and references to [section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 
 <a id="section-4725"></a>
 ## § 4725. Relationship to other laws
+**(a) Consistency with environmental laws** All actions taken by Federal agencies in implementing the provisions of [section 4722 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4722) shall be consistent with all applicable Federal, State, and local environmental laws.
 
-All actions taken by Federal agencies in implementing the provisions of [section 4722 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4722) shall be consistent with all applicable Federal, State, and local environmental laws. Nothing in this chapter shall affect the authority of any State or political subdivision thereof to adopt or enforce control measures for aquatic nuisance species, or diminish or affect the jurisdiction of any State over species of fish and wildlife. Compliance with the control and eradication measures of any State or political subdivision thereof regarding aquatic nuisance species shall not relieve any person of the obligation to comply with the provisions of this subchapter.
+**(b) Effect of chapter**
+
+(1) **In general** — Except as provided in paragraph (2), nothing in this chapter shall affect the authority of any State or political subdivision thereof to adopt or enforce control measures for aquatic nuisance species, or diminish or affect the jurisdiction of any State over species of fish and wildlife.
+
+(2) **Exception** — Any discharge incidental to the normal operation of a vessel, including any discharge of ballast water (as those terms are defined in subsections (a) and (p)(1) of [section 1322 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322&num=0&edition=prelim)), shall be regulated in accordance with that section.
+
+**(c) Effect of compliance** Compliance with the control and eradication measures of any State or political subdivision thereof regarding aquatic nuisance species shall not relieve any person of the obligation to comply with the provisions of this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 4701 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4701) and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original “this title”, meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 4701 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4701) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–282, § 903(h)(2)(C), designated first sentence as subsec. (a) and inserted heading.
+
+Subsec. (b). Pub. L. 115–282, § 903(h)(2)(B), (D), designated second sentence as subsec. (b)(1), inserted subsec. (b) and par. (1) headings, substituted “Except as provided in paragraph (2), nothing” for “Nothing”, and added par. (2).
+
+Subsec. (c). Pub. L. 115–282, § 903(h)(2)(A), designated third sentence as subsec. (c) and inserted heading.
+
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1205, which enacted this section.
 
 
@@ -1002,15 +862,245 @@ The Task Force shall, within the program developed under subsection (a),11 So in
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1209, which enacted this section.
 
 
+<a id="section-4729"></a>
+## § 4729. Coastal Aquatic Invasive Species Mitigation Grant Program and Mitigation Fund
+(1) **Definitions** — In this subsection:
+
+  (A) *Coastal zone* — The term “coastal zone” has the meaning given the term in [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
+
+  (B) *Eligible entity* — The term “eligible entity” means—
+
+    (i) a State;
+
+    (ii) a unit of local government;
+
+    (iii) an Indian Tribe;
+
+    (iv) a nongovernmental organization; and
+
+    (v) an institution of higher education.
+
+  (C) *Exclusive Economic Zone* — The term “Exclusive Economic Zone” means the Exclusive Economic Zone of the United States, as established by Presidential Proclamation 5030, dated March 10, 1983 ([16 U.S.C. 1453](./chapter-033-coastal-zone-management.md#section-1453) note).
+
+  (D) *Foundation* — The term “Foundation” means the National Fish and Wildlife Foundation established by [section 3701(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3701/a&num=0&edition=prelim).
+
+  (E) *Fund* — The term “Fund” means the Coastal Aquatic Invasive Species Mitigation Fund established by paragraph (3)(A).
+
+  (F) *Program* — The term “Program” means the Coastal Aquatic Invasive Species Mitigation Grant Program established under paragraph (2)(A).
+
+  (G) *Secretary* — The term “Secretary” means the Secretary of Commerce.
+
+(2) **Grant program**
+
+  (A) *Establishment* — The Secretary and the Foundation shall establish a program, to be known as the “Coastal Aquatic Invasive Species Mitigation Grant Program”, under which the Secretary and the Foundation shall award grants to eligible entities in accordance with this paragraph.
+
+  (B) *Purposes* — The purposes of the Program are—
+
+    (i) to improve the understanding, prevention, and mitigation of, and response to, aquatic invasive species in—
+
+      (I) the coastal zone; and
+
+      (II) the Exclusive Economic Zone;
+
+    (ii) to support the prevention and mitigation of impacts from aquatic invasive species in the coastal zone; and
+
+    (iii) to support the restoration of Pacific Island habitats, marine, estuarine, and Great Lakes environments in the coastal zone and the Exclusive Economic Zone that are impacted by aquatic invasive species.
+
+  (C) *Use of grants*
+
+    (i) *In general* — A grant awarded under the Program shall be used for an activity to carry out the purposes of the Program, including an activity—
+
+      (I) *to develop and implement procedures and programs, including permissible State ballast water inspection programs, to prevent, detect, control, mitigate, and rapidly or progressively eradicate aquatic invasive species in the coastal zone or the Exclusive Economic Zone, particularly in areas with high numbers of established aquatic invasive species;*
+
+      (II) *to restore habitat impacted by an aquatic invasive species;*
+
+      (III) *to develop new shipboard and land-based ballast water treatment system technologies and performance standards to prevent the introduction of aquatic invasive species;*
+
+      (IV) *to develop mitigation measures to protect natural and cultural living resources, including shellfish, from the impacts of aquatic invasive species; or*
+
+      (V) *to develop mitigation measures to protect infrastructure, such as hydroelectric infrastructure, from aquatic invasive species.*
+
+    (ii) *Prohibition on funding litigation* — A grant awarded under the Program may not be used to fund litigation in any matter.
+
+  (D) *Administration* — Not later than 90 days after December 4, 2018, the Foundation, in consultation with the Secretary, shall establish the following:
+
+    (i) Application and review procedures for awarding grants under the Program.
+
+    (ii) Approval procedures for awarding grants under the Program, including a requirement for consultation with—
+
+      (I) the Secretary of the Interior; and
+
+      (II) the Administrator.
+
+    (iii) Performance accountability and monitoring measures for activities funded by a grant awarded under the Program.
+
+    (iv) Procedures and methods to ensure accurate accounting and appropriate administration of grants awarded under the Program, including standards of recordkeeping.
+
+  (E) *Matching requirement* — Each eligible entity that receives a grant under the Program shall provide, in cash or through in-kind contributions from non-Federal sources, matching funds to carry out the activities funded by the grant in an amount equal to not less than 25 percent of the cost of the activities.
+
+  (F) *Funding* — The Secretary and the Foundation are authorized to use the amounts available in the Fund to award grants under the Program.
+
+(3) **Mitigation Fund**
+
+  (A) *Establishment* — There is established in the Treasury of the United States a trust fund, to be known as the “Coastal Aquatic Invasive Species Mitigation Fund”, consisting of such amounts as are appropriated or credited to the Fund in accordance with this paragraph or [section 9602 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9602&num=0&edition=prelim).
+
+  (B) *Transfers to Fund*
+
+    (i) *Appropriation* — There is authorized to be appropriated from the Treasury to the Fund, for each fiscal year, an amount equal to the amount of penalties assessed for violations of subsection (p) of [section 1322 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322&num=0&edition=prelim) during the preceding fiscal year.
+
+    (ii) *Additional authorization* — In addition to the amounts transferred to the Fund under clause (i), there is authorized to be appropriated to the Fund $5,000,000 for each fiscal year.
+
+  (C) *Use of Fund* — Subject to appropriations, the amounts in the Fund shall be available to the Secretary and the Foundation to award grants under the Program.
+
+### Statutory Notes
+
+#### References in Text
+This subsection, referred to in introductory provisions of par. (1), is subsec. (f) of section 903 of Pub. L. 115–282. See Codification note below.
+
+Presidential Proclamation 5030, referred to in par. (1)(C), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
+
+#### Codification
+Section was enacted as part of the Vessel Incidental Discharge Act of 2018 and also as part of the Frank LoBiondo Coast Guard Authorization Act of 2018, and not as part of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 which comprises this chapter.
+
+Section is comprised of subsec. (f) of section 903 of Pub. L. 115–282. For classification to the Code of other provisions of section 903, see Tables.
+
+
+<a id="section-4730"></a>
+## § 4730. Great Lakes and Lake Champlain Invasive Species Program
+(1) **Definitions** — In this subsection:
+
+  (A) *Administrator* — The term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+  (B) *Aquatic nuisance species* — The term “aquatic nuisance species” has the meaning given that term in subsection (p)(1) of [section 1322 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322&num=0&edition=prelim).
+
+  (C) *Director* — The term “Director” means the Director of the Great Lakes National Program Office established by [section 1268(b) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/b&num=0&edition=prelim).
+
+  (D) *Great Lakes and Lake Champlain Systems* — The term “Great Lakes and Lake Champlain Systems” includes—
+
+    (i) Lake Champlain; and
+
+    (ii) all bodies of water (including wetlands) within—
+
+      (I) the Great Lakes System (as defined in [section 1268(a)(3) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/a/3&num=0&edition=prelim)); or
+
+      (II) the Lake Champlain drainage basin (as defined in [section 1270(g) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1270/g&num=0&edition=prelim)).
+
+  (E) *Program* — The term “Program” means the Great Lakes and Lake Champlain Invasive Species Program established under paragraph (2)(A).
+
+(2) **Establishment of program**
+
+  (A) *In general* — The Administrator shall establish within the Great Lakes National Program Office a program, to be known as the “Great Lakes and Lake Champlain Invasive Species Program”—
+
+    (i) in collaboration with—
+
+      (I) the Director of the United States Fish and Wildlife Service;
+
+      (II) the Administrator of the National Oceanic and Atmospheric Administration;
+
+      (III) the Director of the United States Geological Survey; and
+
+      (IV) the Secretary of the department in which the Coast Guard is operating; and
+
+    (ii) in consultation with—
+
+      (I) the head of Great Lakes Aquatic Nonindigenous Species Information System of the National Oceanic and Atmospheric Administration; and
+
+      (II) the head of Great Lakes Environmental Research Laboratory of the National Oceanic and Atmospheric Administration.
+
+  (B) *Purposes* — The purposes of the Program shall be—
+
+    (i) to monitor for the introduction and spread of aquatic nuisance species into or within the Great Lakes and Lake Champlain Systems;
+
+    (ii) to detect newly introduced aquatic nuisance species prior to the establishment of the aquatic nuisance species in the Great Lakes and Lake Champlain Systems;
+
+    (iii) to inform, and assist with, management and response actions to prevent or stop the establishment or spread of an aquatic nuisance species;
+
+    (iv) to establish a watch list of candidate aquatic nuisance species that may be introduced or spread, and that may survive and establish, within the Great Lakes and Lake Champlain Systems;
+
+    (v) to monitor vectors likely to be contributing to the introduction or spread of aquatic nuisance species, including ballast water operations;
+
+    (vi) to work collaboratively with the Federal, State, local, and Tribal agencies to develop criteria for prioritizing and distributing monitoring efforts;
+
+    (vii) to develop, achieve type approval for, and pilot shipboard or land-based ballast water management systems installed on, or available for use by, commercial vessels operating solely within the Great Lakes and Lake Champlain Systems to prevent the spread of aquatic nuisance species populations within the Great Lakes and Lake Champlain Systems; and
+
+    (viii) to facilitate meaningful Federal and State implementation of the regulatory framework in this subsection, including monitoring, shipboard education, inspection, and compliance conducted by States.
+
+(3) **Methodology** — The Program shall seek—
+
+  (A) to build on—
+
+    (i) existing aquatic nuisance species monitoring efforts; and
+
+    (ii) efforts to develop criteria for prioritizing and distributing monitoring efforts, geographically and among taxa, in the Great Lakes and Lake Champlain Systems;
+
+  (B) to advance early detection and monitoring, and capacity to control the establishment and spread, of aquatic nuisance species within the Great Lakes and Lake Champlain Systems;
+
+  (C) to identify opportunities to interdict the introduction and spread of aquatic nuisance species through sound science and technological advancements;
+
+  (D) to assess the risk of aquatic nuisance species introduction and spread via the range of vectors active within the Great Lakes and Lake Champlain Systems;
+
+  (E) to advance the development of type-approved ballast water management system (as defined in subsection (p)(1) of [section 1322 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis. equipment for commercial, non-seagoing vessels that operate solely within the Great Lakes System (as defined in [section 1268(a)(3) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/a/3&num=0&edition=prelim));
+
+  (F) to immediately make available to the public information regarding—
+
+    (i) the detection of new aquatic nuisance species within the Great Lakes and Lake Champlain Systems; or
+
+    (ii) the spread of aquatic nuisance species within the Great Lakes and Lake Champlain Systems;
+
+  (G) to annually submit to appropriate individuals and entities in each affected region a report describing the findings and activities of the Program;
+
+  (H) to identify roles and responsibilities of Federal agencies in aquatic nuisance species monitoring and response; and
+
+  (I) to provide resource assistance to States implementing State-level programs to enter into partnerships with Federal agencies in enforcing the requirements under subsection (p) of [section 1322 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322&num=0&edition=prelim).
+
+(4) **Collaboration** — In carrying out and developing the Program, the Director shall collaborate with—
+
+  (A) applicable Federal, State, local, and Tribal agencies; and
+
+  (B) such other research entities or stakeholders as the Director determines to be appropriate.
+
+(5) **Data availability** — The Director shall—
+
+  (A) make the data collected under the Program available on a publicly accessible internet website, including in an annual summary report; and
+
+  (B) in coordination with the entities identified under paragraph (4), develop communication and notification protocols for the purpose of communicating the range of aquatic nuisance species and any identification of a new aquatic nuisance species introduced to the Great Lakes and Lake Champlain Systems.
+
+(6) **Report to Congress**
+
+  (A) *In general* — Not later than December 31, 2019, the Director shall submit to Congress a report summarizing the outcomes of activities carried out under the Program.
+
+  (B) *Contents* — The report under subparagraph (A) shall include—
+
+    (i) a description of activities carried out under the Program, including an explanation of how those activities help to achieve the purposes described in paragraph (2)(B);
+
+    (ii) an analysis of Federal, State, and local efforts to enhance multidisciplinary approaches to achieve the purposes described in paragraph (2)(B);
+
+    (iii) recommendations relating to activities that would contribute to achievement of the purposes described in paragraph (2)(B); and
+
+    (iv) recommendations to improve the efficiency and effectiveness of the Program.
+
+(7) **Authorization of appropriations** — There is authorized to be appropriated to carry out the Program $50,000,000 for each of fiscal years 2019 through 2023.
+
+### Statutory Notes
+
+#### References in Text
+This subsection, referred to in introductory provisions of par. (1) and par. (2)(B)(viii), is subsec. (g) of section 903 of Pub. L. 115–282. See Codification note below.
+
+#### Codification
+Section was enacted as part of the Vessel Incidental Discharge Act of 2018 and also as part of the Frank LoBiondo Coast Guard Authorization Act of 2018, and not as part of the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 which comprises this chapter.
+
+Section is comprised of subsec. (g) of section 903 of Pub. L. 115–282. For classification to the Code of other provisions of section 903, see Tables.
+
+
 <a id="section-4741"></a>
 ## § 4741. Authorization of appropriations
 **(a) Prevention of unintentional introductions** There are authorized to be appropriated to develop and implement the provisions of subchapter II—
 
-(1) $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 and 4712(a)(3) of this title;
+(1) $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 11 See References in Text note below. and 4712(a)(3) of this title;
 
-(2) $2,000,000 until the end of fiscal year 1992 to the Director and Under Secretary to carry out the studies under sections 4712(a)(1) and 4712(a)(2 11 So in original. Probably should be followed by a closing parenthesis. of this title;
+(2) $2,000,000 until the end of fiscal year 1992 to the Director and Under Secretary to carry out the studies under sections 4712(a)(1) and 4712(a)(2 22 So in original. Probably should be followed by a closing parenthesis. of this title;
 
-(3) to the Secretary to carry out [section 4711 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4711)—
+(3) to the Secretary to carry out section 4711 1 of this title—
 
   (A) $2,000,000 for each of fiscal years 1997 and 1998; and
 
@@ -1057,6 +1147,9 @@ The Task Force shall, within the program developed under subsection (a),11 So in
 **(f) Research** There are authorized to be appropriated to the Director $1,000,000 to carry out research on the prevention, monitoring, and control of aquatic nuisance species in Narragansett Bay, Rhode Island. The funds shall be made available for use by the Department of Environmental Management of the State of Rhode Island.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 4711 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4711), referred to in subsec. (a)(1), (3), was repealed by Pub. L. 115–282, title IX, § 903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
 
 #### Codification
 “[Section 322 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section322&num=0&edition=prelim)” substituted in subsec. (b)(4)(B) for “the first section of the Act of August 30, 1890 (26 Stat. 417, chapter 841; [7 U.S.C. 322](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section322&num=0&edition=prelim))”. Section 1 of the act of Aug. 30, 1890, is classified to sections 322 and 323 of Title 7, Agriculture, but only section 322 refers to agriculture and the mechanic arts.

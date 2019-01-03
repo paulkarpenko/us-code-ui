@@ -899,25 +899,15 @@ Pub. L. 95–618, title II, § 221(c), Nov. 9, 1978, 92 Stat. 3185, as amended b
 
 (1) **In general** — The rate of the tax imposed by subsection (a) is the sum of—
 
-  (A) the Inland Waterways Trust Fund financing rate,
+  (A) the Inland Waterways Trust Fund financing rate, and
 
-  (B) the Leaking Underground Storage Tank Trust Fund financing rate, and
-
-  (C) the deficit reduction rate.
+  (B) the Leaking Underground Storage Tank Trust Fund financing rate.
 
 (2) **Rates** — For purposes of paragraph (1)—
 
   (A) The Inland Waterways Trust Fund financing rate is 29 cents per gallon.
 
   (B) The Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cent per gallon.
-
-  (C) The deficit reduction rate is—
-
-    (i) 3.3 cents per gallon after December 31, 2004, and before July 1, 2005,
-
-    (ii) 2.3 cents per gallon after June 30, 2005, and before January 1, 2007, and
-
-    (iii) 0 after December 31, 2006.
 
 (3) **Exception for fuel on which Leaking Underground Storage Tank Trust Fund financing rate separately imposed** — The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax was imposed with respect to such fuel under section 4041(d) or 4081 at the Leaking Underground Storage Tank Trust Fund financing rate.
 
@@ -956,6 +946,16 @@ Section 206 of the Inland Waterways Revenue Act of 1978, referred to in subsec. 
 A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cross reference to [section 4222 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4222) for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by Pub. L. 94–455, title XIX, § 1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+2018—Subsec. (b)(1)(C). Pub. L. 115–141, § 401(b)(40), struck out subpar. (C) which read as follows: “the deficit reduction rate.”
+
+Subsec. (b)(2)(C). Pub. L. 115–141, § 401(b)(41), struck out subpar. (C) which read as follows: “The deficit reduction rate is—
+
+“(i) 3.3 cents per gallon after December 31, 2004, and before July 1, 2005,
+
+“(ii) 2.3 cents per gallon after June 30, 2005, and before January 1, 2007, and
+
+“(iii) 0 after December 31, 2006.”
+
 2014—Subsec. (b)(2)(A). Pub. L. 113–295 amended subpar. (A) generally, substituting “The Inland Waterways Trust Fund financing rate is 29 cents per gallon.” for “The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table:” and accompanying table of rates.
 
 2007—Subsec. (b)(3). Pub. L. 110–172 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
@@ -1003,6 +1003,9 @@ Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub.
 
 #### Effective Date
 Pub. L. 95–502, title II, § 202(d), Oct. 21, 1978, 92 Stat. 1697, provided that: “The amendments made by this section [enacting this section and amending [section 4293 of this title](./chapter-033-facilities-and-services.md#section-4293)] shall take effect on October 1, 1980.”
+
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 #### Construction of 1986 Amendments
 Pub. L. 100–647, title II, § 2002(a)(1), Nov. 10, 1988, 102 Stat. 3597, provided that: “For purposes of section 4042 of the 1986 Code, the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 [Pub. L. 99–499, amending this section] shall be treated as enacted after the amendment made by section 1404(a) of the Harbor Maintenance Revenue Act of 1986 [Pub. L. 99–662, amending this section].”
@@ -1068,9 +1071,12 @@ Pub. L. 100–647, title II, § 2002(a)(1), Nov. 10, 1988, 102 Stat. 3597, provi
 
 (6) **Special rule relating to deadhead service** — A fractional program aircraft shall not be considered to be used on account of a qualified fractional owner when it is used in deadhead service and a person other than a qualified fractional owner is separately charged for such service.
 
-**(d) Termination** This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2021.
+**(d) Termination** This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2023.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (d). Pub. L. 115–254 substituted “September 30, 2023” for “September 30, 2021”.
 
 #### Effective Date
 Pub. L. 112–95, title XI, § 1103(d)(1), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by subsection (a) [enacting this section and amending sections 4082 and 9502 of this title] shall apply to fuel used after March 31, 2012.”
@@ -1094,7 +1100,7 @@ Pub. L. 112–95, title XI, § 1103(d)(1), Feb. 14, 2012, 126 Stat. 151, provide
 
 (2) **Exclusion for trucks weighing 33,000 pounds or less** — The tax imposed by paragraph (1) shall not apply to automobile truck chassis and automobile truck bodies, suitable for use with a vehicle which has a gross vehicle weight of 33,000 pounds or less (as determined under regulations prescribed by the Secretary).
 
-(3) **Exclusion for trailers weighing 26,000 pounds or less** — The tax imposed by paragraph (1) shall not apply to truck trailer and semitrailer chassis and bodies, suitable for use with a trailer or semitrailer which has a gross vehicle weight of 26,000 pounds or less (as determined under regulations prescribed by the Secretary.11 So in original. Probably should be preceded by a closing parenthesis.
+(3) **Exclusion for trailers weighing 26,000 pounds or less** — The tax imposed by paragraph (1) shall not apply to truck trailer and semitrailer chassis and bodies, suitable for use with a trailer or semitrailer which has a gross vehicle weight of 26,000 pounds or less (as determined under regulations prescribed by the Secretary).
 
 (4) **Exclusion for tractors weighing 19,500 pounds or less** — The tax imposed by paragraph (1) shall not apply to tractors of the kind chiefly used for highway transportation in combination with a trailer or semitrailer if—
 
@@ -1136,6 +1142,8 @@ there shall be allowed as a credit against the tax imposed by this subchapter an
 A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by Pub. L. 94–455, title XIX, § 1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–141 inserted closing parenthesis before period at end.
+
 2015—Subsec. (c). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016”.
 
 2012—Subsec. (c). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012”.

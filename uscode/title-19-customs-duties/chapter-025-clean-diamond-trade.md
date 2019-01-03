@@ -128,6 +128,9 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (9), is
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
+
 
 <a id="section-3903"></a>
 ## § 3903. Measures for the importation and exportation of rough diamonds
@@ -140,6 +143,9 @@ Committee on International Relations of House of Representatives changed to Comm
 (2) the President determines that the waiver is in the national interests of the United States, and reports such determination to the appropriate congressional committees, together with the reasons therefor.
 
 ### Statutory Notes
+
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
 
 #### Delegation of Functions
 For assignment of functions of President under subsec. (b) of this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
@@ -154,6 +160,9 @@ For assignment of functions of President under subsec. (b) of this section, see 
 **(c) Oversight** The President shall require the appropriate Government agency to conduct annual reviews of the standards, practices, and procedures of any entity in the United States that issues Kimberley Process Certificates for the exportation from the United States of rough diamonds to determine whether such standards, practices, and procedures are in accordance with the Kimberley Process Certification Scheme. The President shall transmit to the appropriate congressional committees a report on each annual review under this subsection.
 
 ### Statutory Notes
+
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
 
 #### Delegation of Functions
 For assignment of functions of President under this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
@@ -171,6 +180,9 @@ For assignment of functions of President under this section, see section 2 of Ex
 
 ### Statutory Notes
 
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
+
 #### Delegation of Functions
 For assignment of functions of President under subsec. (b) of this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
 
@@ -179,6 +191,11 @@ For assignment of functions of President under subsec. (b) of this section, see 
 ## § 3906. Statement of policy
 
 The Congress supports the policy that the President shall take appropriate steps to promote and facilitate the adoption by the international community of the Kimberley Process Certification Scheme implemented under this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
 
 
 <a id="section-3907"></a>
@@ -193,11 +210,21 @@ The Congress supports the policy that the President shall take appropriate steps
 
 **(c) Authority to enforce** The United States Bureau of Customs and Border Protection and the United States Bureau of Immigration and Customs Enforcement are authorized, as appropriate, to enforce the provisions of subsection (a) and to enforce the laws and regulations governing exports of rough diamonds, including with respect to the validation of the Kimberley Process Certificate by the exporting authority.
 
+### Statutory Notes
+
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
+
 
 <a id="section-3908"></a>
 ## § 3908. Technical assistance
 
 The President may direct the appropriate agencies of the United States Government to make available technical assistance to countries seeking to implement the Kimberley Process Certification Scheme.
+
+### Statutory Notes
+
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
 
 
 <a id="section-3909"></a>
@@ -217,6 +244,9 @@ The President may direct the appropriate agencies of the United States Governmen
 #### References in Text
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
+
 
 <a id="section-3910"></a>
 ## § 3910. Kimberley Process Implementation Coordinating Committee
@@ -234,6 +264,9 @@ The President shall establish a Kimberley Process Implementation Coordinating Co
 (5) A representative of any other agency the President deems appropriate.
 
 ### Statutory Notes
+
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
 
 #### Delegation of Functions
 For assignment of functions of President under this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
@@ -255,6 +288,9 @@ For assignment of functions of President under this section, see section 2 of Ex
 
 ### Statutory Notes
 
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
+
 #### Delegation of Functions
 For assignment of functions of President under this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
 
@@ -269,8 +305,16 @@ Not later than 24 months after the effective date of this chapter, the Comptroll
 #### References in Text
 For effective date of this chapter, see section 15 of Pub. L. 108–19, set out as an Effective Date note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
 
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).
+
 
 <a id="section-3913"></a>
 ## § 3913. Delegation of authorities
 
 The President may delegate the duties and authorities under this chapter to such officers, officials, departments, or agencies of the United States Government as the President deems appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under [section 3901 of this title](./chapter-025-clean-diamond-trade.md#section-3901).

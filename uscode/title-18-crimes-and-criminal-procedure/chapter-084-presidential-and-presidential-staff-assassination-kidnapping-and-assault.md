@@ -69,9 +69,11 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 (2) knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engages in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions;
 
-(3) knowingly, and with the intent to impede or disrupt the orderly conduct of Government business or official functions, obstructs or impedes ingress or egress to or from any restricted building or grounds; or
+(3) knowingly, and with the intent to impede or disrupt the orderly conduct of Government business or official functions, obstructs or impedes ingress or egress to or from any restricted building or grounds; or 11 So in original. The word “or” probably should not appear.
 
-(4) knowingly engages in any act of physical violence against any person or property in any restricted building or grounds;
+(4) knowingly engages in any act of physical violence against any person or property in any restricted building or grounds; 22 So in original. Probably should be followed by “or”.
+
+(5) knowingly and willfully operates an unmanned aircraft system with the intent to knowingly and willfully direct or otherwise cause such unmanned aircraft system to enter or operate within or above a restricted building or grounds;
 or attempts or conspires to do so, shall be punished as provided in subsection (b).
 
 **(b)** The punishment for a violation of subsection (a) is—
@@ -99,6 +101,8 @@ or attempts or conspires to do so, shall be punished as provided in subsection (
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(5). Pub. L. 115–254 added par. (5).
+
 2012—Pub. L. 112–98 amended section generally. Prior to amendment, section related to unlawful activities on restricted buildings or grounds.
 
 2006—Pub. L. 109–177, § 602(b)(1), substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in section catchline.

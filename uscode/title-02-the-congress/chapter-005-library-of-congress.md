@@ -2,7 +2,7 @@
 title: 2
 chapter: '5'
 heading: LIBRARY OF CONGRESS
-section_count: 118
+section_count: 119
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -673,9 +673,14 @@ From and after October 1, 1989, the Librarian of Congress shall take appropriate
 
 
 <a id="section-142l"></a>
-## § 142l. Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by Comptroller General
+## § 142l. Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General
 
-From and after October 1, 1996, the Disbursing Officer of the Library of Congress is authorized to disburse funds appropriated for the Office of Compliance, and the Library of Congress shall provide financial management support to the Office of Compliance as may be required and mutually agreed to by the Librarian of Congress and the Executive Director of the Office of Compliance. The Library of Congress is further authorized to compute and disburse the basic pay of all personnel of the Office of Compliance pursuant to the provisions of [section 5504 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5504&num=0&edition=prelim).
+From and after October 1, 1996, the Disbursing Officer of the Library of Congress is authorized to disburse funds appropriated for the Office of Compliance,1 and the Library of Congress shall provide financial management support to the Office of Compliance 1 as may be required and mutually agreed to by the Librarian of Congress and the Executive Director of the Office of Compliance.1 The Library of Congress is further authorized to compute and disburse the basic pay of all personnel of the Office of Compliance 1 pursuant to the provisions of [section 5504 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5504&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Change of Name
+Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective date of 2018 Amendment note under [section 1381 of this title](./chapter-024-congressional-accountability.md#section-1381).
 
 
 <a id="section-143"></a>
@@ -1042,7 +1047,7 @@ Act June 25, 1936, provided that the Supreme Court of the District of Columbia i
 <a id="section-160"></a>
 ## § 160. Disbursement of gifts, etc., to Library
 
-Nothing in sections 154 to 162 and 163 11 See References in Text note below. of this title shall be construed as prohibiting or restricting the Librarian of Congress from accepting in the name of the United States gifts or bequests of money for immediate disbursement in the interest of the Library, its collections, or its service. Such gifts or bequests, after acceptance by the librarian, shall be paid by the donor or his representative to the Treasurer of the United States, whose receipts shall be their acquittance. The Treasurer of the United States shall enter them in a special account to the credit of the Library of Congress and subject to disbursement by the librarian for the purposes in each case specified.
+Nothing in sections 154 to 162 and 163 11 See References in Text note below. of this title shall be construed as prohibiting or restricting the Librarian of Congress from accepting in the name of the United States gifts or bequests in the interest of the Library, its collections, or its service, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; and (3) gifts or bequests of money for immediate disbursement. Such gifts or bequests, after acceptance by the librarian, shall be paid by the donor or his representative to the Treasurer of the United States, whose receipts shall be their acquittance. The Treasurer of the United States shall enter them in a special account to the credit of the Library of Congress and subject to disbursement by the librarian for the purposes in each case specified. The Librarian shall make an annual public report regarding gifts accepted under this section.
 
 ### Statutory Notes
 
@@ -1050,6 +1055,8 @@ Nothing in sections 154 to 162 and 163 11 See References in Text note below. of 
 [Section 163 of this title](./chapter-005-library-of-congress.md#section-163), referred to in text, was omitted from the Code.
 
 #### Amendments
+2018—Pub. L. 115–141, in first paragraph, struck out “of money for immediate disbursement” after “gifts or bequests”, substituted “, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; and (3) gifts or bequests of money for immediate disbursement.” for period at end of first sentence, and inserted at end “The Librarian shall make an annual public report regarding gifts accepted under this section.”
+
 1997—Pub. L. 105–55 added second par.
 
 
@@ -1245,9 +1252,11 @@ There is authorized to be appropriated annually for carrying out the provisions 
 
 (6) to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives;
 
-(7) upon request made by any committee or Member of the Congress, to prepare and transmit to such committee or Member a concise memorandum with respect to one or more legislative measures upon which hearings by any committee of the Congress have been announced, which memorandum shall contain a statement of the purpose and effect of each such measure, a description of other relevant measures of similar purpose or effect previously introduced in the Congress, and a recitation of all action taken theretofore by or within the Congress with respect to each such other measure; and
+(7) upon request made by any committee or Member of the Congress, to prepare and transmit to such committee or Member a concise memorandum with respect to one or more legislative measures upon which hearings by any committee of the Congress have been announced, which memorandum shall contain a statement of the purpose and effect of each such measure, a description of other relevant measures of similar purpose or effect previously introduced in the Congress, and a recitation of all action taken theretofore by or within the Congress with respect to each such other measure;
 
-(8) to develop and maintain an information and research capability, to include Senior Specialists, Specialists, other employees, and consultants, as necessary, to perform the functions provided for in this subsection.
+(8) to develop and maintain an information and research capability, to include Senior Specialists, Specialists, other employees, and consultants, as necessary, to perform the functions provided for in this subsection; and
+
+(9) to comply with the requirements of, and provide information and technological assistance consistent with, section 124 11 See References in Text note below. of the Legislative Branch Appropriations Act, 2018.
 
 **(e) Specialists and Senior Specialists; appointment; fields of appointment** The Librarian of Congress is authorized to appoint in the Congressional Research Service, upon the recommendation of the Director, Specialists and Senior Specialists in the following broad fields:
 
@@ -1323,13 +1332,20 @@ Such Specialists and Senior Specialists, together with such other employees of t
 
 (2) The Director of the Congressional Research Service may procure by contract, without regard to any provision of law requiring advertising for contract bids, the temporary (for respective periods not in excess of one year) or intermittent assistance of educational, research, or other organizations of experts and consultants (including stenographic reporters) and of educational, research, and other organizations of persons learned in particular or specialized fields of knowledge.
 
-**(i) Special report to Joint Committee on the Library** The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year.
+**(i) Special report to Joint Committee on the Library** The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 1 of the Legislative Branch Appropriations Act, 2018.
 
 **(j) Authorization of appropriations** There are hereby authorized to be appropriated to the Congressional Research Service each fiscal year such sums as may be necessary to carry on the work of the Service.
 
 ### Statutory Notes
 
+#### References in Text
+Section 124 of the Legislative Branch Appropriations Act, 2018, referred to in subsecs. (d)(9) and (i), probably should be section 154 of the Legislative Branch Appropriations Act, 2018, Pub. L. 115–141, div. I, title I, Mar. 23, 2018, 132 Stat. 787. Section 154 of Pub. L. 115–141 enacted [section 166a of this title](./chapter-005-library-of-congress.md#section-166a), related to equal access to Congressional Research Service Reports, and amended this section. Div. I of Pub. L. 115–141 does not contain a section 124.
+
 #### Amendments
+2018—Subsec. (d)(9). Pub. L. 115–141, § 154(d), added par. (9).
+
+Subsec. (i). Pub. L. 115–141, § 154(b)(7), substituted “, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 of the Legislative Branch Appropriations Act, 2018.” for period at end.
+
 1999—Subsec. (c)(1). Pub. L. 106–57 substituted second sentence for former second sentence which read as follows: “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level V of the Executive Schedule contained in [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim).”
 
 1985—Subsec. (g). Pub. L. 99–190 amended subsec. (g) generally. Prior to amendment subsec. (g) read as follows: “In order to facilitate the study, consideration, evaluation, and determination by the Congress of the budget requirements of the Congressional Research Service for each fiscal year, the Librarian of Congress shall receive from the Director and submit, for inclusion in the Budget of the United States Government, the budget estimates of the Congressional Research Service which shall be prepared separately by the Director in detail for each fiscal year as a separate item of the budget estimates of the Library of Congress for such fiscal year.”
@@ -1395,6 +1411,147 @@ Pub. L. 99–500, § 101(j) [H.R. 5203, title I], Oct. 18, 1986, 100 Stat. 1783�
 Pub. L. 99–151, title I, Nov. 13, 1985, 99 Stat. 802.
 
 Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 484.
+
+
+<a id="section-166a"></a>
+## § 166a. Equal access to Congressional Research Service Reports
+**(a) Definitions**
+
+(1) **CRS product** — In this section, the term “CRS product” means any final written work product of CRS containing research or analysis in any format that is available for general congressional access on the CRS Congressional Intranet.
+
+(2) **CRS Report**
+
+  (A) *In general* — In this section, the term “CRS Report” means any written CRS product, including an update to a previous written CRS product, consisting of—
+
+    (i) a Congressional Research Service Report; or
+
+    (ii) a Congressional Research Service Authorization of Appropriations Product and Appropriations Product, which is available for general congressional access on the CRS Congressional Intranet.
+
+  (B) *Exclusions* — The term “CRS Report” does not include—
+
+    (i) any CRS product that is determined by the CRS Director to be a confidential product or service because it was prepared in response to a congressional request or requests for confidential analysis or research and is not available for general congressional access on the CRS Congressional Intranet;
+
+    (ii) any Congressional Research Service Report or any Congressional Research Service Authorization of Appropriations Product and Appropriations Product reported or produced before the effective date of this Act which, as of such effective date, is not available for general congressional access on the CRS Congressional Intranet; or
+
+    (iii) a written CRS product that has been made available by CRS for publication on a public website maintained by the GPO Director (other than the Website) or the Library of Congress.
+
+(3) **Other definitions** — In this section—
+
+  (A) the term “CRS” means the Congressional Research Service;
+
+  (B) the term “CRS Congressional Intranet” means the Website maintained by CRS at www.crs.gov, or a successor website, for the purpose of providing to Members and employees of Congress access to information from CRS;
+
+  (C) the term “CRS Director” means the Director of CRS;
+
+  (D) the term “Librarian of Congress” means the Librarian of Congress appointed pursuant to [2 U.S.C. 136–1](./chapter-005-library-of-congress.md#section-136-1); 11 See References in Text note below.
+
+  (E) the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress; and
+
+  (F) the term “Website” means the website established and maintained under subsection (b).
+
+**(b) Availability of CRS Reports through Library of Congress Website**
+
+(1) **Website**
+
+  (A) *Establishment and maintenance* — The Librarian of Congress, in consultation with the CRS Director, shall establish and maintain a public website containing CRS Reports and an index of all CRS Reports contained on the website, in accordance with this subsection.
+
+  (B) *Format* — On the Website, CRS Reports shall be searchable, sortable, and downloadable, including downloadable in bulk.
+
+  (C) *Free access* — Notwithstanding any other provision of law, the Librarian of Congress may not charge a fee for access to the Website.
+
+(2) **Updates; disclaimer** — The Librarian of Congress, in consultation with the CRS Director, shall ensure that the Website—
+
+  (A) is updated contemporaneously, automatically, and electronically to include each new or updated CRS Report released on or after March 23, 2018;
+
+  (B) shows the status of each CRS Report as new, updated, or archived; and
+
+  (C) displays the following statement in reference to the CRS Reports included on the Website: “These documents were prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other than public understanding of information that has been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or material from a third party, you may need to obtain the permission of the copyright holder if you wish to copy or otherwise use copyrighted material.”.
+
+(3) **Furnishing of necessary information and technology** — The CRS Director shall consult with and provide assistance to the Librarian of Congress to ensure—
+
+  (A) that the Librarian of Congress is provided with all of the information necessary to carry out this section, including all of the information described in clauses (i) through (iv) of subsection (c)(1)(A), in such format and manner as the Librarian of Congress considers appropriate; and
+
+  (B) that CRS makes available any information and assistance as may be necessary to facilitate the contemporaneous, automatic, and electronic provision of CRS Reports to the Librarian of Congress as required under this section.
+
+(4) **Nonexclusivity** — The Librarian of Congress may publish other information on the Website.
+
+(5) **Alternative techniques** — The Librarian of Congress and the CRS Director may use additional techniques to make CRS Reports available to the public, if such techniques are consistent with this section and any other applicable laws.
+
+(6) **Additional information** — The CRS Director is encouraged to make additional CRS products that are not confidential products or services available to the Librarian of Congress for publication on the Website, and the Librarian of Congress is encouraged to publish such CRS products on the Website.
+
+(7) **Omitted**
+
+**(c) Website contents**
+
+(1) **Specific requirements for Reports posted on Website**
+
+  (A) *Responsibilities of Librarian of Congress* — With respect to each CRS Report included on the Website, the Librarian of Congress shall include—
+
+    (i) the name and identification number of the CRS Report;
+
+    (ii) an indication as to whether the CRS Report is new, updated, or archived;
+
+    (iii) the date of release of the CRS Report; and
+
+    (iv) any other information the Librarian of Congress, in consultation with the CRS Director, considers appropriate.
+
+  (B) *Responsibilities of CRS Director* — With respect to each CRS Report included on the Website, the CRS Director shall, prior to transmitting the Report to the Librarian of Congress—
+
+    (i) at the discretion of the CRS Director, remove the name of and any contact information for any employee of CRS; and
+
+    (ii) include in the CRS Report the following written statement: “This document was prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other than public understanding of information that has been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in its entirety without permission from CRS. However, as this CRS Report may include copyrighted images or material from a third party, you may need to obtain the permission of the copyright holder if you wish to copy or otherwise use copyrighted material.”.
+
+(2) **Specific requirements for index on Website** — The Librarian of Congress shall ensure that the index of all CRS Reports published on the Website is—
+
+  (A) comprehensive;
+
+  (B) contemporaneously updated;
+
+  (C) searchable;
+
+  (D) sortable;
+
+  (E) maintained in a human-readable format;
+
+  (F) maintained in a structured data format;
+
+  (G) downloadable; and
+
+  (H) inclusive of each item of information described in paragraph (1)(A) with respect to each CRS Report.
+
+**(d) Omitted**
+
+**(e) Rules of construction**
+
+(1) **No effect on Speech or Debate Clause** — Nothing in this section may be construed to diminish, qualify, condition, waive, or otherwise affect the applicability of clause 1 of section 6 of article I of the Constitution of the United States (commonly known as the “Speech or Debate Clause”) or any other privilege available to Congress or Members, offices, or employees of Congress with respect to any CRS Report made available online under this section.
+
+(2) **Confidential communications** — Nothing in this section may be construed to waive the requirement that any confidential communication by CRS to a Member, office, or committee of Congress shall remain under the custody and control of Congress and may be released only by Congress and its Houses, Members, offices, and committees, in accordance with the rules and privileges of each House and the requirements of this section.
+
+(3) **Dissemination of CRS products** — Nothing in this section may be construed to limit or otherwise affect the ability of a Member, office, or committee of Congress to disseminate CRS products on a website of the Member, office, or committee or to otherwise provide CRS products to the public, including as part of constituent service activities.
+
+**(f) Effective date**
+
+(1) **In general** — Except as provided in paragraph (2)(C), this section and the amendments made by this section shall take effect 90 days after the date on which the Librarian of Congress submits the certification described in paragraph (2)(B).
+
+(2) **Provision of information and technology**
+
+  (A) *CRS deadline* — Not later than 90 days after March 23, 2018, the CRS Director shall provide the Librarian of Congress with the information necessary for the Librarian of Congress to begin the initial operation of the Website.
+
+  (B) *Certification* — Upon provision of the information described in subparagraph (A), the Librarian of Congress shall submit to Congress a certification that the CRS Director has provided the information necessary for the Librarian of Congress to begin the initial operation of the Website.
+
+  (C) *Technical delays* — In the event of technical difficulties encountered in planning or implementing the requirements of this section and the amendments made by this section, upon providing a detailed report submitted by the Librarian of Congress or the CRS Director to the Committees on Appropriations of the House and the Senate detailing the nature of the technical difficulties and the timeline for resolving such technical difficulties, the effective date established by subsection (f)(1) shall be extended for up to 90 additional days.
+
+### Statutory Notes
+
+#### References in Text
+The effective date of this Act and such effective date, referred to in subsec. (a)(2)(B)(ii), probably means the date of enactment of div. I of Pub. L. 115–141, which was approved Mar. 23, 2018.
+
+Pursuant to [2 U.S.C. 136–1](./chapter-005-library-of-congress.md#section-136-1), referred to in subsec. (a)(3)(D), probably means pursuant to section 2 of Pub. L. 114–86, Nov. 5, 2015, 129 Stat. 675, which is classified to [section 136–1 of this title](./chapter-005-library-of-congress.md#section-136-1).
+
+For the amendments made by this section, referred to in subsec. (f)(1), (2)(C), see Codification note below.
+
+#### Codification
+Section is comprised of section 154 of Pub. L. 115–141. Subsecs. (b)(7) and (d) of section 154 of Pub. L. 115–141 amended [section 166 of this title](./chapter-005-library-of-congress.md#section-166).
 
 
 <a id="section-167-to-167h"></a>
@@ -2246,7 +2403,7 @@ Pub. L. 106–481, § 1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Ac
 
 
 <a id="section-182b"></a>
-## § 182b. Revolving fund for gift shop, decimal classification, photo duplication, and related services
+## § 182b. Revolving fund for sales shop and other services
 **(a) Establishment** There is hereby established in the Treasury a revolving fund for the following programs and activities of the Librarian:
 
 (1) Decimal classification development.
@@ -2256,6 +2413,8 @@ Pub. L. 106–481, § 1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Ac
 (3) Document reproduction and microfilming services.
 
 (4) Special events and programs.
+
+(5) Training.
 
 **(b) Individual accounting requirement** A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a).
 
@@ -2292,6 +2451,10 @@ Pub. L. 106–481, § 1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Ac
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–141, § 151(1)(A), substituted “Revolving fund for sales shop and other services” for “Revolving fund for gift shop, decimal classification, photo duplication, and related services” in section catchline.
+
+Subsec. (a). Pub. L. 115–141, § 151(1)(B), added par. (5).
+
 2010—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(f)(1). See 2007 Amendment note below.
 
 2008—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.”
@@ -2358,7 +2521,7 @@ Section applicable with respect to fiscal year 2002 and each succeeding fiscal y
 
 **(f) Programs described**
 
-(1) **FEDLINK** — In this section, the “FEDLINK program” is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, and the District of Columbia:
+(1) **FEDLINK** — In this section, the “FEDLINK program” is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, tribal governments (as defined in [40 U.S.C. 502(c)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section502/c/2/B&num=0&edition=prelim)) 22 So in original. Probably should be followed by a comma. and the District of Columbia:
 
   (A) The procurement of commercial information services, publications in any format, and library support services.
 
@@ -2372,6 +2535,9 @@ Section applicable with respect to fiscal year 2002 and each succeeding fiscal y
 
 #### References in Text
 Sections 182a to 182d of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 106–481, Nov. 9, 2000, 114 Stat. 2187, known as the Library of Congress Fiscal Operations Improvement Act of 2000, which enacted this section and sections 182b to 182d of this title, amended [section 154 of this title](./chapter-005-library-of-congress.md#section-154), and enacted provisions set out as notes under this section and [section 154 of this title](./chapter-005-library-of-congress.md#section-154). For complete classification of this Act to the Code, see Short Title note set out under [section 182a of this title](./chapter-005-library-of-congress.md#section-182a) and Tables.
+
+#### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–141 inserted “tribal governments (as defined in [40 U.S.C. 502(c)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section502/c/2/B&num=0&edition=prelim))” after “the Federal Government,” in introductory provisions.
 
 #### Effective Date
 Section applicable with respect to fiscal year 2002 and each succeeding fiscal year, see section 105 of Pub. L. 106–481, set out as a note under [section 182a of this title](./chapter-005-library-of-congress.md#section-182a).

@@ -52,12 +52,14 @@ Pub. L. 111–281 designated existing provisions as subsec. (a), substituted “
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim), Navigation and Navigable Waters.
 
+#### Electronic Records on Mariner Availability To Meet National Security Needs
+Pub. L. 115–232, div. C, title XXXV, § 3510, Aug. 13, 2018, 132 Stat. 2310, provided that: “The Secretary of the department in which the Coast Guard is operating shall ensure that electronic records maintained under [section 7502 of title 46](./chapter-075-general-procedures-for-licensing-certification-and-documentation.md#section-7502), United States Code, are able to be used by the Secretary of Transportation— “(1) to determine the potential availability of mariners credentialed under part E of subtitle II of title 46, United States Code, to meet national security sealift needs; and “(2) to receive information on the qualification of such mariners.”
+
 
 <a id="section-7503"></a>
 ## § 7503. Dangerous drugs as grounds for denial
-**(a)** Repealed. Pub. L. 101–380, title IV, § 4103(a)(2)(B), Aug. 18, 1990, 104 Stat. 511.]
 
-**(b)** A license, certificate of registry, or merchant mariner’s document authorized to be issued under this part may be denied to an individual who—
+A license, certificate of registry, or merchant mariner’s document authorized to be issued under this part may be denied to an individual who—
 
 (1) within 10 years before applying for the license, certificate, or document, has been convicted of violating a dangerous drug law of the United States or of a State; or
 
@@ -73,7 +75,9 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 Section 7503 provides that the issuance of a license, certificate, or document may be denied by the Secretary to any individual who has been convicted, within 10 years, of violating a dangerous drug law of the United States or to any individual who has been a user of a dangerous drug, unless the individual provides satisfactory proof of being cured. This includes PCP and LSD. See also the note to section 7704. However, the Secretary may deny issuing a license, certificate or document to the individual who has used or been convicted of a “controlled substance” such as LSD if that use or conviction occurred before the date of enactment of this Act.
 
 #### Amendments
-1990—Subsec. (a). Pub. L. 101–380 repealed subsec. (a) which defined “dangerous drug” for purpose of this section as narcotic drug, controlled substance, and marihuana.
+2018—Pub. L. 115–232 amended section generally. Prior to amendment, section consisted of repealed subsec. (a) and subsec. (b) identical to present provisions.
+
+1990—Subsec. (a). Pub. L. 101–380 struck out subsec. (a) which defined “dangerous drug” for purpose of this section as narcotic drug, controlled substance, and marihuana.
 
 1985—Subsec. (b). Pub. L. 99–36 substituted “certificate of registry, or merchant mariner’s document” for first reference to “certificate, or document”.
 
@@ -95,9 +99,12 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 <a id="section-7505"></a>
 ## § 7505. Review of information in National Driver Register
 
-The Secretary shall make information received from the National Driver Register under section 206(b)(7) of the National Driver Register Act of 1982 ([23 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim) note) available to an individual for review and written comment before denying, suspending, revoking, or taking any other action relating to a license, certificate of registry, or merchant mariner’s document authorized to be issued for that individual under this part, based on that information.
+The Secretary shall make information received from the National Driver Register under [section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim) available to an individual for review and written comment before denying, suspending, revoking, or taking any other action relating to a license, certificate of registry, or merchant mariner’s document authorized to be issued for that individual under this part, based on that information.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–232 substituted “[section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim)” for “section 206(b)(7) of the National Driver Register Act of 1982 ([23 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim) note)”.
 
 #### Effective Date
 Section applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as a note under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim), Navigation and Navigable Waters.
@@ -123,15 +130,19 @@ Notwithstanding any provision of section 14302(c) or 14305 of this title, the Se
 
 **(b) Merchant Mariner Documents.—** Notwithstanding section 7302(g), the Secretary may—
 
-(1) extend for not more than one year an expiring merchant mariner’s document issued for an individual under chapter 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for those licenses or certificates of registry or in response to a national emergency or natural disaster, as deemed necessary by the Secretary; or
+(1) extend for not more than one year an expiring merchant mariner’s document issued for an individual under chapter 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for those merchant mariner documents or in response to a national emergency or natural disaster, as deemed necessary by the Secretary; or
 
-(2) issue for not more than five years an expiring merchant mariner’s document issued for an individual under chapter 73 for the exclusive purpose of aligning the expiration date of such merchant mariner’s document with the expiration date of a merchant mariner’s document.
+(2) issue for not more than five years an expiring merchant mariner’s document issued for an individual under chapter 73 for the exclusive purpose of aligning the expiration date of such merchant mariner’s document with the expiration date of a license or certificate of registry.
 
 **(c) Manner of Extension.—** Any extensions granted under this section may be granted to individual seamen or a specifically identified group of seamen.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–282, § 510(3), substituted “merchant mariner documents” for “licenses or certificates of registry”.
+
+Subsec. (b)(2). Pub. L. 115–282, § 510(4), substituted “license or certificate of registry.” for “merchant mariner’s document.”
+
 2012—Subsec. (a). Pub. L. 112–213 substituted “chapter 71” for “chapter 73” in pars. (1) and (2).
 
 
@@ -184,7 +195,7 @@ Pub. L. 114–120, title III, § 309(b), Feb. 8, 2016, 130 Stat. 57, provided th
 
 **(c) Exam Review.—**
 
-(1) **In general.—** — Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant of the Coast Guard shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
+(1) **In general.—** — Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
 
   (A) 1 subject matter expert from the Coast Guard;
 
@@ -194,7 +205,7 @@ Pub. L. 114–120, title III, § 309(b), Feb. 8, 2016, 130 Stat. 57, provided th
 
     (ii) one-half shall be representatives from the appropriate maritime industry;
 
-  (C) at least 1 representative from the Merchant Marine Personnel Advisory Committee;
+  (C) at least 1 representative from the National Merchant Marine Personnel Advisory Committee;
 
   (D) at least 2 representatives from the State maritime academies, of whom one shall be a representative from the deck training track and one shall be a representative of the engineer license track;
 
@@ -246,6 +257,10 @@ The date of the enactment of the Coast Guard Authorization Act of 2016, referred
 The Federal Advisory Committee Act, referred to in subsec. (c)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 115–282 inserted “National” before “Merchant Marine”.
+
 2016—Subsec. (c)(1). Pub. L. 114–328, § 3503(a), in introductory provisions, substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
 
 Subsec. (c)(1)(D). Pub. L. 114–328, § 3503(b)(1)(A), substituted “engineer” for “engine”.
@@ -255,7 +270,7 @@ Subsec. (c)(4)(A), (8)(B). Pub. L. 114–328, § 3503(a), substituted “Coast G
 Subsec. (c)(9). Pub. L. 114–328, § 3503(b)(1)(B), inserted a period after “App”.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 60 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section60&num=0&edition=prelim), Coast Guard.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 315 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section315&num=0&edition=prelim), Coast Guard.
 
 #### Disclosure to Congress
 Pub. L. 114–120, title III, § 315(c), Feb. 8, 2016, 130 Stat. 62, provided that: “Nothing in this section [enacting this section and [section 7116 of this title](./chapter-071-licenses-and-certificates-of-registry.md#section-7116)] may be construed to authorize the withholding of information from an appropriate inspector general, the Committee on Commerce, Science, and Transportation of the Senate, or the Committee on Transportation and Infrastructure of the House of Representatives.”

@@ -9,7 +9,7 @@ source: >-
 <a id="section-4301"></a>
 ## § 4301. Definitions
 
-For the purpose of this subchapter—
+Except as otherwise expressly provided, for the purpose of this subchapter—
 
 (1) “agency” means—
 
@@ -65,6 +65,8 @@ Paragraph (2)(E) is based on the third and fifth sentences, respectively, of for
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2017—Pub. L. 115–91, in introductory provisions, substituted “Except as otherwise expressly provided, for the purpose of” for “For the purpose of”.
+
 2008—Par. (1)(ii) Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 2004—Par. (1)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
@@ -110,7 +112,41 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 (3) use the results of performance appraisals as a basis for training, rewarding, reassigning, promoting, reducing in grade, retaining, and removing employees.
 
-**(b)** Under regulations which the Office of Personnel Management shall prescribe, each performance appraisal system shall provide for—
+**(b)**
+
+(1) The head of each agency, in consultation with the Director of the Office of Personnel Management and the Special Counsel, shall develop criteria that—
+
+  (A) the head of the agency shall use as a critical element for establishing the job requirements of a supervisory employee; and
+
+  (B) promote the protection of whistleblowers.
+
+(2) The criteria required under paragraph (1) shall include—
+
+  (A) principles for the protection of whistleblowers, such as the degree to which supervisory employees—
+
+    (i) respond constructively when employees of the agency make disclosures described in subparagraph (A) or (B) of section 2302(b)(8);
+
+    (ii) take responsible actions to resolve the disclosures described in clause (i); and
+
+    (iii) foster an environment in which employees of the agency feel comfortable making disclosures described in clause (i) to supervisory employees or other appropriate authorities; and
+
+  (B) for each supervisory employee—
+
+    (i) whether the agency entered into an agreement with an individual who alleged that the supervisory employee committed a prohibited personnel practice; and
+
+    (ii) if the agency entered into an agreement described in clause (i), the number of instances in which the agency entered into such an agreement with respect to the supervisory employee.
+
+(3) In this subsection—
+
+  (A) the term “agency” means any entity the employees of which are covered under paragraphs (8) and (9) of section 2302(b), without regard to whether any other provision of this section is applicable to the entity;
+
+  (B) the term “prohibited personnel practice” has the meaning given the term in section 2302(a)(1);
+
+  (C) the term “supervisory employee” means an employee who would be a supervisor, as defined in section 7103(a), if the agency employing the employee was an agency for purposes of chapter 71; and
+
+  (D) the term “whistleblower” means an employee who makes a disclosure described in section 2302(b)(8).
+
+**(c)** Under regulations which the Office of Personnel Management shall prescribe, each performance appraisal system shall provide for—
 
 (1) establishing performance standards which will, to the maximum extent feasible, permit the accurate evaluation of job performance on the basis of objective criteria (which may include the extent of courtesy demonstrated to the public) related to the job in question for each employee or position under the system;
 
@@ -124,7 +160,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 (6) reassigning, reducing in grade, or removing employees who continue to have unacceptable performance but only after an opportunity to demonstrate acceptable performance.
 
-**(c)** In accordance with regulations which the Office shall prescribe, the head of an agency may administer and maintain a performance appraisal system electronically.
+**(d)** In accordance with regulations which the Office shall prescribe, the head of an agency may administer and maintain a performance appraisal system electronically.
 
 ### Statutory Notes
 
@@ -136,6 +172,8 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2017—Subsecs. (b) to (d). Pub. L. 115–91 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
 2000—Subsec. (c). Pub. L. 106–398 added subsec. (c).
 
 1992—Subsec. (a)(3). Pub. L. 102–378 substituted a period for semicolon at end.
@@ -144,6 +182,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
+#### Annual Report to Congress on Unacceptable Performance in Whistleblower Protection
+Pub. L. 115–91, div. A, title X, § 1097(d)(3), Dec. 12, 2017, 131 Stat. 1620, provided that: “(A) Definitions.—In this paragraph, the terms ‘agency’ and ‘whistleblower’ have the meanings given the terms in [section 4302(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4302/b/3&num=0&edition=prelim), United States Code, as amended by paragraph (1). “(B) Report.—Each agency shall annually submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and each committee of Congress with jurisdiction over the agency a report that details—“(i) the number of performance appraisals, for the year covered by the report, that determined that an employee of the agency failed to meet the standards for protecting whistleblowers that were established under [section 4302(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4302/b&num=0&edition=prelim), United States Code, as amended by paragraph (1); “(ii) the reasons for the determinations described in clause (i); and “(iii) each performance-based or corrective action taken by the agency in response to a determination under clause (i).”
 
 
 <a id="section-4302a"></a>
@@ -375,13 +416,17 @@ Appraisals of performance in the Senior Executive Service shall be based on both
 
 (3) timeliness of performance;
 
-(4) other indications of the effectiveness, productivity, and performance quality of the employees for whom the senior executive is responsible; and
+(4) other indications of the effectiveness, productivity, and performance quality of the employees for whom the senior executive is responsible;
 
-(5) meeting affirmative action goals, achievement of equal employment opportunity requirements, and compliance with the merit systems principles set forth under [section 2301 of this title](./chapter-023-merit-system-principles.md#section-2301).
+(5) meeting affirmative action goals, achievement of equal employment opportunity requirements, and compliance with the merit systems principles set forth under [section 2301 of this title](./chapter-023-merit-system-principles.md#section-2301); and
+
+(6) protecting whistleblowers, as described in section 4302(b)(2).
 
 ### Statutory Notes
 
 #### Amendments
+2017—Par. (6). Pub. L. 115–91 added par. (6).
+
 1994—Par. (5). Pub. L. 103–424 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “meeting affirmative action goals and achievement of equal employment opportunity requirements.”
 
 #### Effective Date

@@ -58,9 +58,6 @@ The participation of the United States in the International Atomic Energy Agency
 
 ### Statutory Notes
 
-#### Repeal of Reporting Requirement
-Pub. L. 89–348, § 1(20), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which directed President to report to Congress not less than once each year on activities of International Atomic Energy Agency and on participation of United States therein.
-
 #### References in Text
 Statute, referred to in text, is the “Statute of the International Atomic Energy Agency”.
 
@@ -71,6 +68,9 @@ The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1
 
 #### Change of Name
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Termination of Reporting Requirements
+Pub. L. 89–348, § 1(20), Nov. 8, 1965, 79 Stat. 1311, repealed the following reporting requirement: “The report to the Congress by the President not less than once each year on the activities of the International Atomic Energy Agency and on the participation of the United States therein (71 Stat. 453; [22 U.S.C. 2022](./chapter-028-international-atomic-energy-agency-participation.md#section-2022)).”
 
 #### Transfer of Functions
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
@@ -129,13 +129,11 @@ Authority under this section to terminate if Senate refuses its advice and conse
 
 ### Statutory Notes
 
-#### Repeals
-Section 7 of Pub. L. 85–795, Aug. 28, 1958, 72 Stat. 962, provided that: “Section 6(a) of the International Atomic Energy Agency Participation Act of 1957 [subsec. (a) of this section], is repealed except that it shall be considered to remain in effect with respect to any employee subject thereto who is serving as an employee of the International Atomic Energy Agency on the date of enactment of this Act [Aug. 28, 1958] and who does not make the election referred to in section 6, and for the purposes of any rights and benefits vested thereunder prior to such date.”
-
-Section 7 of Pub. L. 85–795, Aug. 28, 1958, 72 Stat. 962, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 660. See section 8 of Pub. L. 89–554, set out as a note preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim), Government Organization and Employees.
-
 #### Codification
 In subsecs. (a) and (b), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” and “the Civil Service Retirement Act” in each subsection and “chapter 87 of title 5” substituted for “the Federal Employees’ Group Life Insurance Act of 1954, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+#### Repeals
+Pub. L. 85–795, § 7, Aug. 28, 1958, 72 Stat. 962, which repealed subsec. (a) of this section, subject to a continuation provision for certain employees, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 660. See section 8(a)–(c) of Pub. L. 89–554, set out as notes preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim), Government Organization and Employees.
 
 #### Transfer of Functions
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsecs. (a) and (b), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).

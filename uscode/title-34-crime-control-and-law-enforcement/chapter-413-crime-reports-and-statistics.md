@@ -47,9 +47,17 @@ Section was formerly classified as a note under [section 5101 of Title 42](https
 
 (1) **In general** — The Attorney General shall acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports.
 
-(2) **Reporting by federal agencies** — All departments and agencies within the Federal government (including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
+(2) **Reporting by Federal agencies** — All departments and agencies within the Federal government (including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
 
-(3) **Distribution of data** — The Attorney General shall distribute data received pursuant to paragraph (2), in the form of annual Uniform Crime Reports for the United States, to the President, Members of the Congress, State governments, and officials of localities and penal and other institutions participating in the Uniform Crime Reports program.
+(3) **Distribution of data** — The Attorney General shall distribute data received pursuant to paragraph (2), not less frequently than annually, to the President, Members of the Congress, State governments, and officials of localities and penal and other institutions participating in the Uniform Crime Reports program.
+
+(4) **Interagency coordination**
+
+  (A) *In general* — Not later than 90 days after December 21, 2018, the Director of the Federal Bureau of Investigation shall coordinate with the head of each department or agency within the Federal Government that is subject to the mandatory reporting requirements under paragraph (2) for the purpose of ensuring successful implementation of paragraph (2).
+
+  (B) *For report* — Not later than 6 months after December 21, 2018, the head of each department or agency within the Federal Government that is subject to the mandatory reporting requirements under paragraph (2) shall provide the Director of the Federal Bureau of Investigation such information as the Director determines is necessary to complete the first report required under paragraph (5).
+
+(5) **Annual report by Federal Bureau of Investigation** — Not later than 1 year after December 21, 2018, and annually thereafter, the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report detailing the efforts of the departments and agencies within the Federal Government to come into compliance with paragraph (2). The report shall contain a list of all departments and agencies within the Federal Government subject to paragraph (2) and whether each department or agency is in compliance with paragraph (2).
 
 **(d) Role of Federal Bureau of Investigation** The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
 
@@ -63,6 +71,11 @@ Section was formerly classified as a note under [section 5101 of Title 42](https
 
 #### Codification
 Section was formerly classified as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Subsec. (c)(3). Pub. L. 115–393, § 402(1), substituted “not less frequently than annually” for “in the form of annual Uniform Crime Reports for the United States”.
+
+Subsec. (c)(4), (5). Pub. L. 115–393, § 402(2), added pars. (4) and (5).
 
 
 <a id="section-41304"></a>
@@ -276,9 +289,13 @@ Par. (4)(E). Pub. L. 114–22, § 116(b)(3)(G), added subpar. (E).
 
   (B) direct, manage, or profit from such acts, such as State pimping and pandering crimes;
 
-(2) incidents of purchasing prostitution, which shall include crimes committed by persons who purchase or attempt to purchase or trade anything of value for commercial sex acts; and
+(2) incidents of purchasing prostitution, which shall include crimes committed by persons who purchase or attempt to purchase or trade anything of value for commercial sex acts;
 
-(3) incidents of prostitution, which shall include crimes committed by persons providing or attempting to provide commercial sex acts.
+(3) incidents of prostitution, which shall include crimes committed by persons providing or attempting to provide commercial sex acts;
+
+(4) incidents of assisting or promoting prostitution, child labor that is a violation of law, or forced labor of an individual under the age of 18 as described in paragraph (1); and
+
+(5) incidents of purchasing or soliciting commercial sex acts, child labor that is a violation of law, or forced labor with an individual under the age of 18 as described in paragraph (2).
 
 ### Statutory Notes
 
@@ -286,6 +303,9 @@ Par. (4)(E). Pub. L. 114–22, § 116(b)(3)(G), added subpar. (E).
 Section was formerly classified as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
 Section is comprised of subsecs. (a) and (b) of section 237 of Pub. L. 110–457. Subsec. (c) of section 237 is not classified to the Code.
+
+#### Amendments
+2018—Subsec. (b)(4), (5). Pub. L. 115–392 added pars. (4) and (5).
 
 
 <a id="section-41310"></a>
@@ -298,7 +318,7 @@ Section is comprised of subsecs. (a) and (b) of section 237 of Pub. L. 110–457
 
 (3) **State** — The term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.
 
-(4) **United states company** — The term “United States company” means an organization organized under the laws of the United States or a State or political subdivision thereof.
+(4) **United States company** — The term “United States company” means an organization organized under the laws of the United States or a State or political subdivision thereof.
 
 **(b) Reports** Not later than 1 year after May 11, 2016, and biannually thereafter, the Attorney General, in consultation with the Intellectual Property Enforcement Coordinator, the Director, and the heads of other appropriate agencies, shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, and make publicly available on the Web site of the Department of Justice and disseminate to the public through such other means as the Attorney General may identify, a report on the following:
 

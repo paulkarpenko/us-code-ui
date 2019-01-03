@@ -1334,9 +1334,11 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 (1) describe projected operating and capital costs for the upcoming fiscal year for Northeast Corridor activities, including train services and infrastructure, and National Network activities, including State-supported routes and long-distance routes, in comparison to prior fiscal year actual financial performance;
 
-(2) describe the capital projects to be funded, with cost estimates and an estimated timetable for completion of the projects covered by the request; and
+(2) describe the capital projects to be funded, with cost estimates and an estimated timetable for completion of the projects covered by the request;
 
-(3) assess Amtrak’s financial condition.
+(3) assess Amtrak’s financial condition; and
+
+(4) describe the status of efforts to improve safety and security on the Northeast Corridor main line, including a description of any efforts to implement recommendations of relevant railroad safety advisory committees.
 
 **(d) Review and Approval.—**
 
@@ -1383,8 +1385,14 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 #### References in Text
 The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
+#### Amendments
+2019—Subsec. (c)(4). Pub. L. 115–420 added par. (4).
+
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Construction of 2019 Amendment
+Pub. L. 115–420, § 4(b)(2), Jan. 3, 2019, 132 Stat. 5444, provided that: “Nothing in this subsection [amending this section] or an amendment made by this subsection shall affect a grant request made under [section 24319 of title 49](./chapter-243-amtrak.md#section-24319), United States Code, before the date of enactment of this Act [Jan. 3, 2019].”
 
 
 <a id="section-24320"></a>

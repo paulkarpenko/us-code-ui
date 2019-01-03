@@ -2,7 +2,7 @@
 title: 18
 chapter: '2'
 heading: AIRCRAFT AND MOTOR VEHICLES
-section_count: 11
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -379,6 +379,35 @@ Another section 39 was renumbered [section 40 of this title](./chapter-002-aircr
 **(d) Authority To Establish Additional Exceptions by Regulation.—** The Attorney General, in consultation with the Secretary of Transportation, may provide by regulation, after public notice and comment, such additional exceptions to this section as may be necessary and appropriate. The Attorney General shall provide written notification of any proposed regulations under this section to the Committees on the Judiciary of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, not less than 90 days before such regulations become final.
 
 
+<a id="section-39b"></a>
+## § 39B. Unsafe operation of unmanned aircraft
+**(a) Offense.—** Any person who operates an unmanned aircraft and:
+
+(1) Knowingly interferes with, or disrupts the operation of, an aircraft carrying 1 or more occupants operating in the special aircraft jurisdiction of the United States, in a manner that poses an imminent safety hazard to such occupants, shall be punished as provided in subsection (c).
+
+(2) Recklessly interferes with, or disrupts the operation of, an aircraft carrying 1 or more occupants operating in the special aircraft jurisdiction of the United States, in a manner that poses an imminent safety hazard to such occupants, shall be punished as provided in subsection (c).
+
+**(b) Operation of Unmanned Aircraft in Close Proximity to Airports.—**
+
+(1) **In general.—** — Any person who, without authorization, knowingly operates an unmanned aircraft within a runway exclusion zone shall be punished as provided in subsection (c).
+
+(2) **Runway exclusion zone defined.—** — In this subsection, the term “runway exclusion zone” means a rectangular area—
+
+  (A) centered on the centerline of an active runway of an airport immediately around which the airspace is designated as class B, class C, or class D airspace at the surface under part 71 of title 14, Code of Federal Regulations; and
+
+  (B) the length of which extends parallel to the runway’s centerline to points that are 1 statute mile from each end of the runway and the width of which is ½ statute mile.
+
+**(c) Penalty.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), the punishment for an offense under subsections 11 So in original. Probably should be “subsection”. (a) or (b) shall be a fine under this title, imprisonment for not more than 1 year, or both.
+
+(2) **Serious bodily injury or death.—** — Any person who:
+
+  (A) Causes serious bodily injury or death during the commission of an offense under subsection (a)(2) shall be fined under this title, imprisoned for a term of up to 10 years, or both.
+
+  (B) Causes, or attempts or conspires to cause, serious bodily injury or death during the commission of an offense under subsections (a)(1) and (b) shall be fined under this title, imprisoned for any term of years or for life, or both.
+
+
 <a id="section-40"></a>
 ## § 40. Commercial motor vehicles required to stop for inspections
 **(a)** A driver of a commercial motor vehicle (as defined in [section 31132 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31132&num=0&edition=prelim)) shall stop and submit to inspection of the vehicle, driver, cargo, and required records when directed to do so by an authorized employee of the Federal Motor Carrier Safety Administration of the Department of Transportation, at or in the vicinity of an inspection site. The driver shall not leave the inspection site until authorized to do so by an authorized employee.
@@ -389,3 +418,18 @@ Another section 39 was renumbered [section 40 of this title](./chapter-002-aircr
 
 #### Amendments
 2008—Pub. L. 110–244 renumbered [section 39 of this title](./chapter-002-aircraft-and-motor-vehicles.md#section-39), relating to inspection of commercial vehicles, as this section.
+
+
+<a id="section-40a"></a>
+## § 40A. Operation of unauthorized unmanned aircraft over wildfires
+**(a) In General.—** Except as provided in subsection (b), an individual who operates an unmanned aircraft and knowingly or recklessly interferes with a wildfire suppression, or law enforcement or emergency response efforts 11 So in original. Probably should be “effort”. related to a wildfire suppression, shall be fined under this title, imprisoned for not more than 2 years, or both.
+
+**(b) Exceptions.—** This section does not apply to the operation of an unmanned aircraft conducted by a unit or agency of the United States Government or of a State, tribal, or local government (including any individual conducting such operation pursuant to a contract or other agreement entered into with the unit or agency) for the purpose of protecting the public safety and welfare, including firefighting, law enforcement, or emergency response.
+
+**(c) Definitions.—** In this section, the following definitions apply:
+
+(1) **Unmanned aircraft.—** — The term “unmanned aircraft” has the meaning given the term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code.
+
+(2) **Wildfire.—** — The term “wildfire” has the meaning given that term in section 2 of the Emergency Wildfire Suppression Act ([42 U.S.C. 1856m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1856m&num=0&edition=prelim)).
+
+(3) **Wildfire suppression.—** — The term “wildfire suppression” means an effort to contain, extinguish, or suppress a wildfire.

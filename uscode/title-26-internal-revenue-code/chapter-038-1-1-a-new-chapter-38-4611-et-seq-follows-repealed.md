@@ -72,7 +72,7 @@ source: >-
 
 (1) **In general** — Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006, or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
 
-(2) **Termination** — The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2017.
+(2) **Termination** — The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2018.
 
 ### Statutory Notes
 
@@ -80,6 +80,8 @@ source: >-
 Amendments by Pub. L. 99–509, title VIII, § 8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+2018—Subsec. (f)(2). Pub. L. 115–123 substituted “December 31, 2018” for “December 31, 2017”.
+
 2014—Subsec. (e)(2)(B). Pub. L. 113–295, § 221(a)(12)(I)(i), substituted “this section” for “section 59A, this section,”.
 
 Subsec. (e)(3)(A). Pub. L. 113–295, § 221(a)(12)(I)(ii), struck out “section 59A,” after “collected under” and comma after “rate)”.
@@ -141,6 +143,9 @@ Pub. L. 99–499, §§ 511(a), 512(b), amended subsec. (d) generally and redesig
 then no tax shall be imposed by this section during the first calendar year beginning after the date referred to in paragraph (1).”
 
 Subsec. (f). Pub. L. 99–509, § 8032(c)(2), added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–123, div. D, title I, § 40416(b), Feb. 9, 2018, 132 Stat. 152, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Feb. 9, 2018].”
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -235,7 +240,7 @@ The preceding sentence shall also apply to amounts paid by the taxpayer into the
 
     (ii) *Overall limitation* — The amount determined under this clause with respect to any taxpayer is the excess of—
 
-      (I) the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into the Oil Spill Liability Fund were tranferred 11 So in original. Probably should be “transferred”. on January 1, 1990, and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
+      (I) the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into the Oil Spill Liability Fund were transferred on January 1, 1990, and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
 
       (II) the aggregate amount of the credit allowed under subsection (d) to the taxpayer.
 
@@ -258,6 +263,8 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(4), is t
 Amendments by Pub. L. 99–509, title VIII, § 8031(c), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (c) and (d) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+2018—Subsec. (e)(2)(B)(ii)(I). Pub. L. 115–141 substituted “were transferred” for “were tranferred”.
+
 1992—Subsecs. (e), (f). Pub. L. 102–486 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1990—Subsec. (d). Pub. L. 101–380 substituted at end “For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting ‘100 percent’ for ‘80 percent’ shall be treated as 1 taxpayer.” for “Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”

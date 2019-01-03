@@ -584,6 +584,11 @@ Pub. L. 104–43, title IV, § 401, Nov. 3, 1995, 109 Stat. 388, provided that: 
 
 **(b) Sanctions** Upon receipt of a certification under subsection (a), the President shall direct the heads of Federal agencies to impose similar conditions on the operation or transit of fishing vessels registered under the laws of the nation which has imposed conditions on United States fishing vessels.
 
-**(c) “Fishing vessel” defined** For the purposes of this section, the term “fishing vessel” has the meaning given that term in section 2101(11a) of title 46.
+**(c) “Fishing vessel” defined** For the purposes of this section, the term “fishing vessel” has the meaning given that term in [section 2101(12) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/12&num=0&edition=prelim).
 
 **(d) Sanctions commensurate with conditions certified** It is the sense of the Congress that any action taken by any Federal agency under subsection (b) should be commensurate with any conditions certified by the Secretary of State under subsection (a).
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “section 2101(12)” for “section 2101(11a)”.

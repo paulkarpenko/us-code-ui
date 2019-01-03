@@ -145,6 +145,67 @@ Executive Order No. 13382, referred to in subsec. (a), is Ex. Ord. No. 13382, Ju
 
 The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
+#### Delegation of Certain Functions and Authorities Under the Countering America’s Adversaries Through Sanctions Act of 2017
+Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, provided:
+
+Memorandum for the Secretary of State[,] the Secretary of the Treasury[, and] the Secretary of Homeland Security
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby order as follows:
+
+Section 1. (a) I hereby delegate to the Secretary of State the functions and authorities vested in the President by section 110 of the Countering America’s Adversaries Through Sanctions Act of 2017 (Public Law 115–44) (the “Act”)[.]
+
+(b) I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the functions and authorities vested in the President by the following provisions of the Act:
+
+(i) section 104(b) [[22 U.S.C. 9403(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9403/b&num=0&edition=prelim)], with respect to a determination under the standard set forth in section 104(b)(1);
+
+(ii) section 107(a) [[22 U.S.C. 9406(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9406/a&num=0&edition=prelim)], with respect to a determination under the standards set forth in section 107(a)(1) and (a)(2);
+
+(iii) section 107(d) [[22 U.S.C. 9406(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9406/d&num=0&edition=prelim)], with respect to making the certification described therein;
+
+(iv) section 108(b)(2) [[22 U.S.C. 9407(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9407/b/2&num=0&edition=prelim)];
+
+(v) section 109 [[22 U.S.C. 9408](./chapter-101-countering-irans-destabilizing-activities.md#section-9408)]; and
+
+(vi) section 112 [[22 U.S.C. 9411](./chapter-101-countering-irans-destabilizing-activities.md#section-9411)].
+
+(c) I hereby delegate to the Secretary of the Treasury the functions and authorities vested in the President by the following provisions of the Act:
+
+(i) section 104(c)(1) [[22 U.S.C. 9403(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9403/c/1&num=0&edition=prelim)]; and
+
+(ii) section 107(b)(1) [[22 U.S.C. 9406(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9406/b/1&num=0&edition=prelim)].
+
+(d) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by the following provisions of the Act:
+
+(i) section 104(b), with respect to a determination under the standards set forth under section 104(b)(2) through (b)(6);
+
+(ii) section 104(e) [[22 U.S.C. 9403(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9403/e&num=0&edition=prelim)];
+
+(iii) section 106(b)(1) [[22 U.S.C. 9405(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9405/b/1&num=0&edition=prelim)];
+
+(iv) section 108(a)(1) [[22 U.S.C. 9407(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9407/a/1&num=0&edition=prelim)]; and
+
+(v) section 108(b)(1) [[22 U.S.C. 9407(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9407/b/1&num=0&edition=prelim)].
+
+(e) I hereby delegate to the Secretary of State and the Secretary of the Treasury the functions and authorities vested in the President by the following sections of the Act:
+
+(i) section 105(b) [[22 U.S.C. 9404(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9404/b&num=0&edition=prelim)], to be exercised in consultation with each other and commensurate with their respective areas of responsibility set forth in previous Presidential actions under the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.), including Executive Order 13224 of September 23, 2001 (Blocking Property and Prohibiting Transactions With Persons Who Commit, Threaten To Commit, or Support Terrorism);
+
+(ii) section 108(a)(2) [[22 U.S.C. 9407(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9407/a/2&num=0&edition=prelim)], to be exercised in consultation with each other and commensurate with their respective areas of responsibility set forth in Executive Order 13382 of June 28, 2005 (Blocking Property of Weapons of Mass Destruction Proliferators and Their Supporters) and Executive Order 13224; and
+
+(iii) section 111(b) [[22 U.S.C. 9410(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9410/b&num=0&edition=prelim)], to be exercised commensurate with their respective areas of responsibility set forth in this memorandum.
+
+(f) I hereby delegate to the Secretary of State, the Secretary of the Treasury, and the Secretary of Homeland Security the functions and authorities vested in the President by the following sections of the Act:
+
+(i) section 104(b), to be exercised commensurate with their respective areas of responsibility or delegated authority under section 104(c), with respect to the imposition of sanctions following a determination under section 104(b); and
+
+(ii) section 107(a), to be exercised commensurate with their respective areas of responsibility or delegated authority under section 107(b), with respect to the imposition of sanctions following a determination under section 107(a).
+
+Sec. 2. The delegations in this memorandum shall apply to any provisions of any future public laws that are the same or substantially the same as those provisions referenced in this memorandum.
+
+Sec. 3. The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 
 <a id="section-9404"></a>
 ## § 9404. Imposition of terrorism-related sanctions with respect to the IRGC
@@ -172,6 +233,9 @@ Executive Order No. 13553, referred to in subsec. (a)(1), is Ex. Ord. No. 13553,
 Executive Order No. 13606, referred to in subsec. (a)(1), is Ex. Ord. No. 13606, Apr. 22, 2012, 77 F.R. 24571, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
 
 Executive Order No. 13224, referred to in subsecs. (a)(2) and (c), is Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+#### Delegation of Functions
+For delegation of functions of President under subsec. (b) of this section to the Secretary of State and the Secretary of the Treasury, see section 1(e)(i) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under [section 9403 of this title](./chapter-101-countering-irans-destabilizing-activities.md#section-9403).
 
 
 <a id="section-9405"></a>
@@ -224,7 +288,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1), 
 
 **(e) State sponsor of terrorism defined** In this section, the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined to be a government that has repeatedly provided support for acts of international terrorism for purposes of—
 
-(1) [section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.));
+(1) section 4605(j)(1)(A) 11 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.));
 
 (2) [section 2371(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim);
 
@@ -236,6 +300,11 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1), 
 
 #### References in Text
 The International Emergency Economic Powers Act, referred to in subsecs. (b)(1) and (e)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+[Section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim), referred to in subsec. (e)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+#### Delegation of Functions
+For delegation of functions of President under this section, see Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out as a note under [section 9403 of this title](./chapter-101-countering-irans-destabilizing-activities.md#section-9403).
 
 
 <a id="section-9407"></a>
@@ -267,6 +336,9 @@ Executive Order No. 13382, referred to in subsecs. (a)(2)(A) and (b), is Ex. Ord
 
 Executive Order No. 13224, referred to in subsecs. (a)(2)(B) and (b), is Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
 
+#### Delegation of Functions
+For delegation of functions of President under this section, see Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out as a note under [section 9403 of this title](./chapter-101-countering-irans-destabilizing-activities.md#section-9403).
+
 
 <a id="section-9408"></a>
 ## § 9408. Report on coordination of sanctions between the United States and the European Union
@@ -288,6 +360,11 @@ Executive Order No. 13224, referred to in subsecs. (a)(2)(B) and (b), is Ex. Ord
 
 **(c) Form of report** The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
 
+### Statutory Notes
+
+#### Delegation of Functions
+For delegation of functions of President under this section to the Secretary of State, in consultation with the Secretary of the Treasury, see section 1(b)(v) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under [section 9403 of this title](./chapter-101-countering-irans-destabilizing-activities.md#section-9403).
+
 
 <a id="section-9409"></a>
 ## § 9409. Report on United States citizens detained by Iran
@@ -304,6 +381,11 @@ Executive Order No. 13224, referred to in subsecs. (a)(2)(B) and (b), is Ex. Ord
 (1) the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the majority and minority leaders of the Senate; and
 
 (2) the Committee on Ways and Means, the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
+
+### Statutory Notes
+
+#### Delegation of Functions
+For delegation of functions of President under this section to the Secretary of State, see section 1(a) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under [section 9403 of this title](./chapter-101-countering-irans-destabilizing-activities.md#section-9403).
 
 
 <a id="section-9410"></a>
@@ -324,7 +406,7 @@ Executive Order No. 13224, referred to in subsecs. (a)(2)(B) and (b), is Ex. Ord
 
 (1) **Agricultural commodity** — The term “agricultural commodity” has the meaning given that term in [section 5602 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5602&num=0&edition=prelim).
 
-(2) **Good** — The term “good” has the meaning given that term in [section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
+(2) **Good** — The term “good” has the meaning given that term in section 4618 11 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
 
 (3) **Medical device** — The term “medical device” has the meaning given the term “device” in [section 321 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim).
 
@@ -337,7 +419,12 @@ The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26
 
 This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 115–44, known as the Countering Iran’s Destabilizing Activities Act of 2017, to reflect the probable intent of Congress.
 
-The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+[Section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim), referred to in subsec. (d)(2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+#### Delegation of Functions
+For delegation of functions of President under subsec. (b) of this section to the Secretary of State and the Secretary of the Treasury, see section 1(e)(iii) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50052, set out in a note under [section 9403 of this title](./chapter-101-countering-irans-destabilizing-activities.md#section-9403).
 
 
 <a id="section-9411"></a>
@@ -361,3 +448,8 @@ The International Emergency Economic Powers Act, referred to in subsec. (c), is 
 (4) an assessment of the significance of the activity described in paragraph (2) in contributing to the ability of Iran to threaten the interests of the United States or allies of the United States, develop systems capable of delivering weapons of mass destruction, support acts of international terrorism, or violate the human rights of any person in Iran.
 
 **(c) Effect of report on waiver** If the President submits a report under subsection (a) in connection with a waiver of sanctions under section 9403, 9404, 9405, 9406, or 9407 of this title with respect to a person, or the renewal of such a waiver, the President shall not be required to impose or maintain sanctions under section 9403, 9404, 9405, 9406, or 9407 of this title, as applicable, with respect to the person described in the report during the 30-day period referred to in subsection (a).
+
+### Statutory Notes
+
+#### Delegation of Functions
+For delegation of functions of President under this section to the Secretary of State, in consultation with the Secretary of the Treasury, see section 1(b)(vi) of Memorandum of President of the United States, Oct. 11, 2017, 82 F.R. 50051, set out in a note under [section 9403 of this title](./chapter-101-countering-irans-destabilizing-activities.md#section-9403).

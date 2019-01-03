@@ -821,11 +821,21 @@ Community Services Administration, which was established by section 601 of Econo
 
 **(d) Direct grants to low-income members of Indian tribal organizations or alternate service organizations; application for funds**
 
-(1) Notwithstanding any other provision of this part, in any State in which the Secretary determines (after having taken into account the amount of funds made available to the State to carry out the purposes of this part) that the low-income members of an Indian tribe are not receiving benefits under this part that are equivalent to the assistance provided to other low-income persons in such State under this part, and if he further determines that the members of such tribe would be better served by means of a grant made directly to provide such assistance, he shall reserve from sums that would otherwise be allocated to such State under this part not less than 100 percent, nor more than 150 percent, of an amount which bears the same ratio to the State’s allocation for the fiscal year involved as the population of all low-income Indians for whom a determination under this subsection has been made bears to the population of all low-income persons in such State.
+(1) **Reservation of amounts**
 
-(2) The sums reserved by the Secretary on the basis of his determination under this subsection shall be granted to the tribal organization serving the individuals for whom such a determination has been made, or, where there is no tribal organization, to such other entity as he determines has the capacity to provide services pursuant to this part.
+  (A) *In general* — Subject to subparagraph (B) and notwithstanding any other provision of this part, the Secretary shall reserve from amounts that would otherwise be allocated to a State under this part not less than 100 percent, but not more than 150 percent, of an amount which bears the same proportion to the allocation of that State for the applicable fiscal year as the population of all low-income members of an Indian tribe in that State bears to the population of all low-income individuals in that State.
 
-(3) In order for a tribal organization or other entity to be eligible for a grant for a fiscal year under this subsection, it shall submit to the Secretary an application meeting the requirements set forth in [section 6864 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6864).
+  (B) *Restrictions* — Subparagraph (A) shall apply only if—
+
+    (i) the tribal organization serving the low-income members of the applicable Indian tribe requests that the Secretary make a grant directly; and
+
+    (ii) the Secretary determines that the low-income members of the applicable Indian tribe would be equally or better served by making a grant directly than a grant made to the State in which the low-income members reside.
+
+  (C) *Presumption* — If the tribal organization requesting the grant is a tribally designated housing entity (as defined in [section 4103 of this title](./chapter-050-national-flood-insurance.md#section-4103)) that has operated without material audit exceptions (or without any material audit exceptions that were not corrected within a 3-year period), the Secretary shall presume that the low-income members of the applicable Indian tribe would be equally or better served by making a grant directly to the tribal organization than by a grant made to the State in which the low-income members reside.
+
+(2) **Administration** — The amounts reserved by the Secretary under this subsection shall be granted to the tribal organization serving the low-income members of the Indian tribe, or, where there is no tribal organization, to such other entity as the Secretary determines has the capacity to provide services pursuant to this part.
+
+(3) **Application** — In order for a tribal organization or other entity to be eligible for a grant for a fiscal year under this subsection, it shall submit to the Secretary an application meeting the requirements set forth in [section 6864 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6864).
 
 **(e) Transfer of funds** Notwithstanding any other provision of law, the Secretary may transfer to the Director sums appropriated under this part to be utilized in order to carry out programs, under section 222(a)(12) of the Economic Opportunity Act of 1964 [[42 U.S.C. 2809(a)(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/12&num=0&edition=prelim)], which further the purpose of this part.
 
@@ -835,6 +845,12 @@ Community Services Administration, which was established by section 601 of Econo
 The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (c), and (e), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Prior to that repeal, section 222(a)(12) of that Act [[42 U.S.C. 2809(a)(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/12&num=0&edition=prelim)] was redesignated as section 222(a)(5) [[42 U.S.C. 2809(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/5&num=0&edition=prelim)] by Pub. L. 95–568, § 5(a)(2)(E), Nov. 2, 1978, 94 Stat. 2426. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–325, § 203(1), added par. (1) and struck out former par. (1) which related to conditions for reserving funds for direct grants to provide assistance to low-income members of Indian tribes.
+
+Subsec. (d)(2). Pub. L. 115–325, § 203(2), inserted heading, substituted “The amounts” for “The sums”, “low-income members of the Indian tribe” for “individuals for whom such a determination has been made”, and “as the Secretary determines” for “as he determines”, and struck out “on the basis of his determination” before “under this subsection”.
+
+Subsec. (d)(3). Pub. L. 115–325, § 203(3), inserted heading.
+
 1993—Subsec. (b)(1). Pub. L. 103–82 struck out “the Director of the ACTION Agency,” after “Labor,”.
 
 1990—Subsec. (b)(2)(B), (C). Pub. L. 101–440, § 7(b)(1), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “designed to insure that (i) the benefits of weatherization assistance in connection with leased dwelling units will accrue primarily to low-income tenants; (ii) the rents on such dwelling units will not be raised because of any increase in the value thereof due solely to weatherization assistance provided under this part; and (iii) no undue or excessive enhancement will occur to the value of such dwelling units.”

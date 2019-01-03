@@ -240,7 +240,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (2) A communication described in this paragraph is a communication in which a member of the armed forces complains of, or discloses information that the member reasonably believes constitutes evidence of, any of the following:
 
-  (A) A violation of law or regulation, including a law or regulation prohibiting rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or unlawful discrimination.
+  (A) A violation of law or regulation, including a law or regulation prohibiting rape, sexual assault, or other sexual misconduct in violation of section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice), sexual harassment, or unlawful discrimination.
 
   (B) Gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
@@ -387,6 +387,8 @@ The words “prevented”, “directly or indirectly”, “concerning any subje
 The Inspector General Act of 1978, referred to in subsecs. (b)(1)(B)(ii) and (f)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2017—Subsec. (c)(2)(A). Pub. L. 115–91 substituted “section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice)” for “sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice)”.
+
 2016—Subsec. (b)(2). Pub. L. 114–328, § 531(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.”
 
 Subsec. (c)(4)(E), (F). Pub. L. 114–328, § 531(b)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
@@ -544,6 +546,9 @@ Subsec. (e). Pub. L. 101–225, § 202(4), inserted “(except for a member or f
 1988—Pub. L. 100–456 substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in section catchline, and amended text generally. Prior to amendment, text read as follows: “No person may restrict any member of an armed force in communicating with a Member of Congress, unless the communication is unlawful or violates a regulation necessary to the security of the United States.”
 
 1984—Pub. L. 98–525 substituted “Member” for “member” in section catchline and text.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title V, § 532(c), Dec. 23, 2016, 130 Stat. 2121, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 23, 2016], and shall apply with respect to reports received by the Secretaries of the military departments and the Secretary of Homeland Security under [section 1034(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1034/e&num=0&edition=prelim), United States Code, on or after that date.”
@@ -1240,7 +1245,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(g) Alleged Sex-related Offense Defined.—** In this section, the term “alleged sex-related offense” means any allegation of—
 
-(1) a violation of section 920, 920a, 920b, 920c, or 925 of this title (article 120, 120a, 120b, 120c, or 125 of the Uniform Code of Military Justice); or
+(1) a violation of section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice); or
 
 (2) an attempt to commit an offense specified in a paragraph (1) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80 of the Uniform Code of Military Justice).
 
@@ -1249,6 +1254,8 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g)(1). Pub. L. 115–91 substituted “920b, 920c, or 930” for “920a, 920b, 920c, or 925” and “120b, 120c, or 130” for “120a, 120b, 120c, or 125”.
+
 2015—Subsec. (a)(2)(C). Pub. L. 114–92, § 532, added subpar. (C).
 
 Subsec. (b)(9), (10). Pub. L. 114–92, § 533, added par. (9) and redesignated former par. (9) as (10).
@@ -1270,6 +1277,12 @@ Subsec. (d)(2). Pub. L. 113–291, § 531(c)(2), inserted “, and within the Ma
 Subsec. (e)(1). Pub. L. 113–291, § 531(c)(3), inserted “concerned” after “jurisdiction of the Secretary”.
 
 Subsec. (f). Pub. L. 113–291, § 533(b), substituted “described in subsection (a)(2)” for “eligible for military legal assistance under [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044)” in pars. (1) and (2).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Special Victims’ Counsel Training Regarding the Unique Challenges Often Faced by Male Victims of Sexual Assault
+Pub. L. 115–91, div. A, title V, § 536, Dec. 12, 2017, 131 Stat. 1392, provided that: “The baseline Special Victims’ Counsel training established under [section 1044e(d)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/d/2&num=0&edition=prelim), United States Code, shall include training for Special Victims’ Counsel to recognize and deal with the unique challenges often faced by male victims of sexual assault.”
 
 #### Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-Related Offenses
 Pub. L. 113–291, div. A, title V, § 534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that: “(b) Consultation Regarding Victim’s Preference in Prosecution Venue.—“(1) Consultation process required.—The Secretary of Defense shall establish a process to ensure consultation with the victim of an alleged sex-related offense that occurs in the United States to solicit the victim’s preference regarding whether the offense should be prosecuted by court-martial or in a civilian court with jurisdiction over the offense. “(2) Convening authority consideration of preference.—The preference expressed by the victim of an alleged sex-related offense under paragraph (1) regarding the prosecution of the offense, while not binding, should be considered by the convening authority in making the determination regarding whether to refer the charge or specification for the offense to a court-martial for trial. “(3) Notice to appropriate jurisdiction of victim’s preference for civilian prosecution.—If the victim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim’s preference for civilian prosecution. “(4) Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an alleged sex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court. “(c) Modification of Manual for Courts-Martial.—Not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], Part III of the Manual for Courts-Martial shall be modified to provide that when a victim of an alleged sex-related offense has a right to be heard in connection with the prosecution of the alleged sex-related such offense, the victim may exercise that right through counsel, including through a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)). “(d) Notice to Counsel on Scheduling of Proceedings.—The Secretary concerned shall establish policies and procedures designed to ensure that any counsel of the victim of an alleged sex-related offense, including a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)), is provided prompt and adequate notice of the scheduling of any hearing, trial, or other proceeding in connection with the prosecution of such offense in order to permit such counsel the opportunity to prepare for such proceeding. “(e) Definitions.—In this section:“(1) The term ‘alleged sex-related offense’ has the meaning given that term in [section 1044e(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/g&num=0&edition=prelim), United States Code. “(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(a)(9) of such title.”
@@ -1816,8 +1829,8 @@ July 1, 1943, ch. 185, § 1, 57 Stat. 365.
 
 July 2, 1942, ch. 477, § 1, 56 Stat. 628.
 
-#### Savings Provision for Fiscal Year 2017
-Pub. L. 114–328, div. A, title XII, § 1243(c), Dec. 23, 2016, 130 Stat. 2516, provided that: “The authority under [section 1050 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1050), United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 23, 2016], shall continue to apply with respect to the Inter-American Defense College during fiscal year 2017 under regulations prescribed by the Secretary of Defense.”
+#### Savings Provision for Fiscal Years 2017, 2018, and 2019
+Pub. L. 114–328, div. A, title XII, § 1243(c), Dec. 23, 2016, 130 Stat. 2516, as amended by Pub. L. 115–91, div. A, title XII, § 1208, Dec. 12, 2017, 131 Stat. 1647, provided that: “The authority under [section 1050 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1050), United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 23, 2016], shall continue to apply with respect to the Inter-American Defense College during fiscal years 2017, 2018, and 2019 under regulations prescribed by the Secretary of Defense.”
 
 
 <a id="section-1050a-to-1051a"></a>
@@ -1919,7 +1932,7 @@ Subsec. (g)(3). Pub. L. 104–201, § 652(a)(2), added par. (3).
 Pub. L. 102–190, div. A, title VI, § 651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: “The amendments made by subsections (a) and (b) [enacting this section and [section 514 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section514&num=0&edition=prelim), Coast Guard] shall take effect on the date of the enactment of this Act [Dec. 5, 1991] and shall apply to adoptions completed on or after that date.”
 
 #### Reimbursement for Adoptions Completed During Period Between Test and Permanent Program
-Pub. L. 102–484, div. A, title VI, § 652, Oct. 23, 1992, 106 Stat. 2426, provided that this section and [section 514 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section514&num=0&edition=prelim), Coast Guard, would apply with respect to the reimbursement of adoption expenses incurred for an adoption proceeding completed during the period beginning on Oct. 1, 1990, and ending on Dec. 4, 1991, to the extent that such expenses would have been covered if the proceeding had been completed after Dec. 4, 1991, but only if an application for such reimbursement had been made within one year after Oct. 23, 1992.
+Pub. L. 102–484, div. A, title VI, § 652, Oct. 23, 1992, 106 Stat. 2426, provided that this section and section 514 (now 2903) of Title 14, Coast Guard, would apply with respect to the reimbursement of adoption expenses incurred for an adoption proceeding completed during the period beginning on Oct. 1, 1990, and ending on Dec. 4, 1991, to the extent that such expenses would have been covered if the proceeding had been completed after Dec. 4, 1991, but only if an application for such reimbursement had been made within one year after Oct. 23, 1992.
 
 
 <a id="section-1053"></a>
@@ -2237,7 +2250,7 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
     (i) as of the date the court-martial sentence is adjudged if the sentence, as adjudged, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; or
 
-    (ii) if there is a pretrial agreement that provides for disapproval or suspension of the dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances, as of the date of the approval of the court-martial sentence by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim) (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes an unsuspended dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
+    (ii) if there is a pretrial agreement that provides for disapproval or suspension of the dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances, as of the date of entry of judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice) if the sentence includes an unsuspended dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
 
   (B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
@@ -2245,7 +2258,7 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
 (3)
 
-  (A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim) (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim), remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
+  (A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction for a dependent-abuse offense and the conviction is disapproved or is otherwise not part of the judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice) or the punishment is disapproved or is otherwise not part of the judgment under such section (article), any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
   (B) If administrative separation of a member from active duty is proposed on a basis that includes a dependent-abuse offense and the proposed administrative separation is disapproved by competent authority under applicable regulations, payment of transitional compensation in such case shall cease.
 
@@ -2308,6 +2321,10 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (e)(1)(A)(ii). Pub. L. 115–91, § 531(l)(1), substituted “the date of entry of judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice) if the sentence includes” for “the date of the approval of the court-martial sentence by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim) (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes”.
+
+Subsec. (e)(3)(A). Pub. L. 115–91, § 531(l)(2), substituted “conviction for a dependent-abuse offense and the conviction is disapproved or is otherwise not part of the judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice) or the punishment is disapproved or is otherwise not part of the judgment under such section (article),” for “conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim) (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under [section 860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860/c&num=0&edition=prelim), remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment,”.
+
 2014—Subsec. (d)(4). Pub. L. 113–291 substituted “as of the date on which the separation action is initiated by a commander of the individual described in subsection (b)” for “as of the date on which the individual described in subsection (b) is separated from active duty”.
 
 2013—Subsec. (f)(4). Pub. L. 112–239, § 564(a)(1), added par. (4).
@@ -2369,6 +2386,9 @@ Subsec. (e). Pub. L. 103–337, § 535(a), amended subsec. (e) generally. Prior 
 “(B) 12 months.”
 
 Subsecs. (j) to (l). Pub. L. 103–337, § 535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 531(p) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title V, § 564(b), Jan. 2, 2013, 126 Stat. 1749, provided that: “No benefits shall accrue by reason of the amendments made by this section [amending this section] for any month that begins before the date of the enactment of this Act [Jan. 2, 2013].”

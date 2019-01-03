@@ -76,7 +76,7 @@ It should also be noted that a particular vessel can, when engaged in various ty
 Amendment by Pub. L. 102–587 effective Nov. 4, 1992, for Great Lakes barges placed in operation after Nov. 4, 1992, and effective one year after Nov. 4, 1992, for Great Lakes barges in operation on Nov. 4, 1992, with provision for interim safety requirements, see section 5208(c), (d) of Pub. L. 102–587, set out as a note under [section 2101 of this title](./chapter-021-general.md#section-2101).
 
 #### Effective Date
-Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
 
 #### Pilot Program
 Pub. L. 105–383, title IV, § 412(b), Nov. 13, 1998, 112 Stat. 3432, provided that: “(1) In general.—The Secretary may establish a pilot program to exempt a vessel of at least 300 gross tons as measured under chapter 143 or chapter 145 of title 46, United States Code, from the requirement to be inspected under [section 3301(7) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3301/7&num=0&edition=prelim), United States Code, as a seagoing motor vessel, if—“(A) the vessel does not carry any cargo or passengers for hire; “(B) the vessel does not engage in commercial service, commercial fisheries, or oceanographic research; and “(C) the vessel does not engage in towing. “(2) Expiration of authority.—The authority to grant the exemptions under this subsection expires 2 years after the date of the enactment of this Act [Nov. 13, 1998]. Any specific exemptions granted under this subsection shall nonetheless remain in effect.”
@@ -169,7 +169,7 @@ Pub. L. 104–324, title XI, § 1122, Oct. 19, 1996, 110 Stat. 3979, provided th
 
   (B) was contracted for before January 2, 1979, and entered into service as an offshore supply vessel before October 6, 1980.
 
-(2) After December 31, 1988, this subsection does not apply to an offshore supply vessel that is at least 20 years of age.
+(2) This subsection does not apply to an offshore supply vessel that is at least 20 years of age.
 
 **(h)** An offshore supply vessel operating on January 1, 1979, under a certificate of inspection issued by the Secretary, is subject to an inspection standard or requirement only if the standard or requirement could have been prescribed for the vessel under authority existing under law on October 5, 1980.
 
@@ -229,6 +229,18 @@ Pub. L. 104–324, title XI, § 1122, Oct. 19, 1996, 110 Stat. 3979, provided th
 
 (2) a flammable or combustible liquid, including oil, in bulk.
 
+**(n)**
+
+(1) A seagoing motor vessel is not subject to inspection under [section 3301(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3301/7&num=0&edition=prelim) if the vessel—
+
+  (A) is a recreational vessel (as defined in [section 2101 of this title](./chapter-021-general.md#section-2101)) over 300 gross tons as measured under section 14502, or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104);
+
+  (B) does not carry any cargo or passengers for hire; and
+
+  (C) is found by the Secretary to comply with large recreational vessel regulations issued by the Secretary.
+
+(2) This subsection shall apply only on and after the effective date of regulations referred to in paragraph (1)(C).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |
@@ -239,6 +251,10 @@ Pub. L. 104–324, title XI, § 1122, Oct. 19, 1996, 110 Stat. 3979, provided th
 Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
 
 #### Amendments
+2018—Subsec. (g)(2). Pub. L. 115–232, § 3546(c), substituted “This” for “After December 31, 1988, this”.
+
+Subsec. (n). Pub. L. 115–232, § 3529(b), added subsec. (n).
+
 2006—Subsec. (b). Pub. L. 109–304, § 15(11)(A), inserted comma after “fishing vessel”.
 
 Subsec. (c)(2). Pub. L. 109–241, § 311(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in paragraphs (3) and (4) of this subsection, a fish tender vessel of not more than 500 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) is exempt from section 3301(1), (6), (7), (11), and (12) of this title.”
@@ -304,6 +320,9 @@ Subsec. (c). Pub. L. 98–364 amended subsec. (c) generally, which prior to amen
 #### Effective Date of 1990 Amendment
 Amendment by section 602(b) of Pub. L. 101–595 effective Nov. 16, 1990, except that requirements imposed by subsec. (c)(4)(B) and (C), effective six months after Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under [section 4502 of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4502).
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -337,6 +356,9 @@ Section 3303 acknowledges the international concept of comity with respect to re
 1996—Pub. L. 104–324 struck out subsec. (a) designation and subsec. (b) which read as follows: “The Secretary shall collect and pay to the Treasury the same fees for the inspection of foreign vessels carrying passengers from the United States that a foreign country charges vessels of the United States trading to the ports of that country. The Secretary may waive at any time the collection of the fees on notice of the proper authorities of any country concerned that the collection of fees for the inspection of vessels of the United States has been discontinued.”
 
 1992—Subsec. (a). Pub. L. 102–587, in first sentence, struck out “only” after “is subject” and substituted “the condition of the vessel is” for “the condition of the vessel’s propulsion equipment and lifesaving equipment are”.
+
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
 
 #### International Convention for Safety of Life at Sea
 For International Conventions for the Safety of Life at Sea to which the United States has been a party, see [section 1602 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1602&num=0&edition=prelim), Navigation and Navigable Waters, and notes thereunder.
@@ -376,6 +398,9 @@ Subsec. (e). Pub. L. 99–307, § 1(5)(A)(v), added subsec. (e).
 
 1984—Subsec. (d). Pub. L. 98–364 added subsec. (d).
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 
 <a id="section-3305"></a>
 ## § 3305. Scope and standards of inspection
@@ -409,6 +434,30 @@ Subsec. (e). Pub. L. 99–307, § 1(5)(A)(v), added subsec. (e).
 
 **(c)** A nautical school vessel operated by a civilian nautical school or by an educational institution under [section 558 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section558&num=0&edition=prelim) shall be inspected like a small passenger vessel or a passenger vessel, depending on its tonnage.
 
+**(d)**
+
+(1) The Commandant of the Coast Guard shall ensure that Officers in Charge, Marine Inspections consistently interpret regulations and standards under this subtitle and chapter 700 to avoid disruption and undue expense to industry.
+
+(2)
+
+  (A) Subject to subparagraph (B), in the event of a disagreement regarding the condition of a vessel or the interpretation of a regulation or standard referred to in subsection (a) between a local Officer in Charge, Marine Inspection conducting an inspection of the vessel and the Officer in Charge, Marine Inspection that issued the most recent certificate of inspection for the vessel, such Officers shall seek to resolve such disagreement.
+
+  (B) If a disagreement described in subparagraph (A) involves vessel design or plan review, the Coast Guard marine safety center shall be included in all efforts to resolve such disagreement.
+
+  (C) If a disagreement described in subparagraph (A) or (B) cannot be resolved, the local Officer in Charge, Marine Inspection shall submit to the Commandant of the Coast Guard, through the cognizant Coast Guard district commander, a request for a final agency determination of the matter in disagreement.
+
+(3) The Commandant of the Coast Guard shall—
+
+  (A) provide to each person affected by a decision or action by an Officer in Charge, Marine Inspection or by the Coast Guard marine safety center all information necessary for such person to exercise any right to appeal such decision or action; and
+
+  (B) if such an appeal is filed, process such appeal under parts 1 through 4 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2017.
+
+(4) In this section, the term “Officer in Charge, Marine Inspection” means any person from the civilian or military branch of the Coast Guard who—
+
+  (A) is designated as such by the Commandant; and
+
+  (B) under the superintendence and direction of the cognizant Coast Guard district commander, is in charge of an inspection zone for the performance of duties with respect to the inspections under, and enforcement and administration of, subtitle II, chapter 700, and regulations under such laws.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |
@@ -435,7 +484,12 @@ Subsection (b) requires that defective life preservers and firehose be destroyed
 
 Subsection (c) provides flexibility in the inspection of various sizes of nautical school vessels.
 
+#### References in Text
+The date of enactment of the Coast Guard Authorization Act of 2017, referred to in subsec. (d)(3)(B), probably means the date of enactment of Pub. L. 115–282, which is the Frank LoBiondo Coast Guard Authorization Act of 2018 and was approved Dec. 4, 2018. No act with the title “Coast Guard Authorization Act of 2017” has been enacted.
+
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–282 added subsec. (d).
+
 2006—Subsec. (a)(2). Pub. L. 109–241 realigned margins.
 
 2004—Subsec. (a). Pub. L. 108–293, § 416(b), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
@@ -447,6 +501,9 @@ Subsec. (a)(4) to (6). Pub. L. 108–293, § 416(a), added par. (4) and redesign
 1986—Subsec. (c). Pub. L. 99–640 inserted “or by an educational institution under section 13 of the Coast Guard Authorization Act of 1986”.
 
 1985—Subsec. (b). Pub. L. 99–36 substituted “lifesaving” and “life preserver, lifesaving device, or firehose” for “life-saving” and “life preserver or firehose”, respectively.
+
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
 
 
 <a id="section-3306"></a>
@@ -495,7 +552,7 @@ Subsec. (a)(4) to (6). Pub. L. 108–293, § 416(a), added par. (4) and redesign
 
 **(h)** The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of [section 2113(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2113/4&num=0&edition=prelim).
 
-**(i)** The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of [section 2113(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2113/5&num=0&edition=prelim).
+**(i)** The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of [section 2113(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2113/4&num=0&edition=prelim).
 
 **(j)** The Secretary may establish by regulation a safety management system appropriate for the characteristics, methods of operation, and nature of service of towing vessels.
 
@@ -506,6 +563,22 @@ Subsec. (a)(4) to (6). Pub. L. 108–293, § 416(a), added par. (4) and redesign
 (2) The Secretary may prescribe regulations to apply the requirements described in Regulation 12A to vessels described in paragraph (1) that are not otherwise subject to that convention. Any such regulation shall be considered to be an interpretive rule for the purposes of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
 
 (3) In this subsection the term “oil fuel” means any oil used as fuel in connection with the propulsion and auxiliary machinery of the vessel in which such oil is carried.
+
+**(l)**
+
+(1) The Secretary shall require that a freight vessel inspected under this chapter be outfitted with distress signaling and location technology for the higher of—
+
+  (A) the minimum complement of officers and crew specified on the certificate of inspection for such vessel; or
+
+  (B) the number of persons onboard the vessel; and
+
+(2) the requirement described in paragraph (1) shall not apply to vessels operating within the baseline from which the territorial sea of the United States is measured.
+
+**(m)**
+
+(1) The Secretary shall promulgate regulations requiring companies to maintain records of all incremental weight changes made to freight vessels inspected under this chapter, and to track weight changes over time to facilitate rapid determination of the aggregate total.
+
+(2) Records maintained under paragraph (1) shall be stored, in paper or electronic form, onboard such vessels for not less than 3 years and shoreside for the life of the vessel.
 
 ### Statutory Notes
 
@@ -542,6 +615,10 @@ Section 3306 contains broad authority to prescribe regulations for the proper in
 The date of enactment of the Maritime Safety Act of 2010, referred to in subsec. (k)(1), is the date of enactment of title VI of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
 #### Amendments
+2018—Subsec. (i). Pub. L. 115–232 substituted “section 2113(4)” for “section 2113(5)”.
+
+Subsecs. (l), (m). Pub. L. 115–265 added subsecs. (l) and (m).
+
 2010—Subsec. (k). Pub. L. 111–281 added subsec. (k).
 
 2006—Subsec. (d). Pub. L. 109–304 substituted “[section 51102 of this title](./chapter-511-general.md#section-51102)” for “section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))”.
@@ -560,8 +637,21 @@ Subsec. (i). Pub. L. 104–324, § 712(2), inserted “as measured under [sectio
 
 1984—Subsec. (g). Pub. L. 98–364 added subsec. (g).
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 #### Regulations
 Pub. L. 103–206, title V, § 512(b), (c), Dec. 20, 1993, 107 Stat. 2442, provided that: “(b) The Secretary of Transportation shall, within twenty-four months of the date of enactment of this Act [Dec. 20, 1993], prescribe regulations establishing the structural fire protection, manning, operating, and equipment requirements for vessels which meet the requirements of subsections (h) and (i) of [section 3306 of title 46](./chapter-033-inspection-generally.md#section-3306), United States Code, as amended by this Act. “(c) Before the Secretary of Transportation prescribes regulations under subsections (h) and (i) of [section 3306 of title 46](./chapter-033-inspection-generally.md#section-3306), United States Code, as amended by this Act, the Secretary may prescribe the route, service, manning, and equipment for those vessels based on existing passenger vessel and small passenger vessel regulations.”
+
+#### Deadlines for Implementation of Distress Signaling and Location Technology Requirement and Promulgation of Incremental Weight Change Records Regulations
+Pub. L. 115–265, title II, § 206(a)(2), Oct. 11, 2018, 132 Stat. 3746, provided that: “The Secretary shall— “(A) begin implementing the requirement under section 3306(l) of title 46, United States Code, as amended by this subsection, by not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018]; and “(B) promulgate the regulations required under [section 3306(m) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3306/m&num=0&edition=prelim), United States Code, as amended by this subsection, by not later than 1 year after the date of the enactment of this Act.”
+
+[For definition of “Secretary” as used in section 206(a)(2) of Pub. L. 115–265, set out above, see section 203 of Pub. L. 115–265, set out as a note under [section 2101 of this title](./chapter-021-general.md#section-2101).]
+
+#### Negotiations to Amend International Regulations Related to Vessel Equipment
+Pub. L. 115–265, title II, § 206(b), Oct. 11, 2018, 132 Stat. 3746, provided that: “Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall seek to enter into negotiations through the International Maritime Organization to amend regulation 25 of chapter II–1 of the International Convention for the Safety of Life at Sea to require a high-water alarm sensor in each cargo hold of a freight vessel (as that term is defined in [section 2101 of title 46](./chapter-021-general.md#section-2101), United States Code), that connects with audible and visual alarms on the navigation bridge of the vessel.”
+
+Pub. L. 115–265, title II, § 208(a)(1), Oct. 11, 2018, 132 Stat. 3747, provided that: “Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall seek to enter into negotiations through the International Maritime Organization to amend regulation 20 of chapter V of the International Convention for the Safety of Life at Sea to require that all voyage data recorders are installed in a float-free arrangement and contain an integrated emergency position indicating radio beacon.”
 
 #### Towing Vessels
 Pub. L. 111–281, title VII, § 701(c), Oct. 15, 2010, 124 Stat. 2980, provided that: “No later than 90 days after the date of enactment of this Act [Oct. 15, 2010], the Secretary shall issue a notice of proposed rulemaking regarding inspection requirements for towing vessels required under [section 3306(j) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3306/j&num=0&edition=prelim), United States Code. The Secretary shall issue a final rule pursuant to that rulemaking no later than 1 year after the date of enactment of this Act.”
@@ -600,6 +690,9 @@ Section 3307 requires each vessel subject to inspection to undergo an initial in
 
 Pars. (2), (3). Pub. L. 104–324, § 605(a)(2), (3), redesignated par. (3) as (2), substituted “5 years” for “2 years”, and struck out former par. (2) which read as follows: “each small passenger vessel, freight vessel or offshore supply vessel of less than 100 gross tons, and sailing school vessel shall be inspected at least once every 3 years; and”.
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 
 <a id="section-3308"></a>
 ## § 3308. Examinations
@@ -627,6 +720,9 @@ Section 3308 requires the Secretary to carry out additional inspections as might
 
 #### Amendments
 1996—Pub. L. 104–324 inserted “or have examined” after “examine” in introductory provisions.
+
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
 
 
 <a id="section-3309"></a>
@@ -662,6 +758,9 @@ Section 3309 provides for the issuance of a certificate of inspection that attes
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–498 effective 180 days after Oct. 19, 1984, see section 214 of Pub. L. 98–498, set out as an Effective Date note under [section 2306 of this title](./chapter-023-operation-of-vessels-generally.md#section-2306).
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 
 <a id="section-3310"></a>
 ## § 3310. Records of certification
@@ -676,6 +775,9 @@ The Secretary shall keep records of certificates of inspection of vessels and of
 | 3310 | 46:414 |
 
 Section 3310 contains the requirement for maintaining inspection records.
+
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
 
 
 <a id="section-3311"></a>
@@ -702,6 +804,9 @@ Section 3311 prohibits the operation of a vessel subject to inspection without h
 #### Amendments
 1984—Pub. L. 98–498 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b), a vessel” for “A vessel”, struck out “valid” before “certificate of inspection”, and added subsec. (b).
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 
 <a id="section-3312"></a>
 ## § 3312. Display of certificate of inspection
@@ -716,6 +821,9 @@ The certificate of inspection issued to a vessel under [section 3309 of this tit
 | 3312 | 46:400 |
 
 Section 3312 requires the conspicuous display of the certificate of inspection to provide notice that the vessel is in compliance with applicable maritime safety laws and regulations. The section also applies to the posting of the temporary certificate of inspection.
+
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
 
 
 <a id="section-3313"></a>
@@ -745,6 +853,9 @@ Section 3312 requires the conspicuous display of the certificate of inspection t
 
 Section 3313 requires a vessel to be maintained in a condition so as to always be in compliance with the applicable laws and regulations. Here the master, owner, or other responsible party is required to maintain the vessel to inspection standards and to correct all deficiencies observed. When a vessel is not in compliance with its certificate the responsible parties shall be ordered in writing to correct the deficiencies promptly. The section provides flexibility as to when and where these deficiencies may be corrected consistent with the safety of the vessel and crew. The section provides authority to require the vessel to cease operating or, if necessary, to suspend or revoke its certificate of inspection when found not to be in compliance with its certificate or regulations. The owner or master, or other responsible party must be given written notice and may appeal this action within 30 days of receiving the notice.
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 
 <a id="section-3314"></a>
 ## § 3314. Expiration of certificate of inspection
@@ -763,6 +874,9 @@ Section 3313 requires a vessel to be maintained in a condition so as to always b
 
 Section 3314 contains the procedures for when a vessel’s certificate of inspection expires while on a foreign voyage.
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 
 <a id="section-3315"></a>
 ## § 3315. Disclosure of defects and protection of informants
@@ -778,6 +892,12 @@ Section 3314 contains the procedures for when a vessel’s certificate of inspec
 | 3315 | 46:234 |
 
 Section 3315 requires an individual holding a license issued by the Coast Guard to assist inspection authorities and to make defects and imperfections known to those authorities. Anyone licensed also has a duty to report any marine casualty producing serious injury to the vessel, its equipment, or individuals on board the vessel. These licensed individuals who have this statutorily imposed duty to disclose are also protected by prohibiting any government official from disclosing the identity or source of the information except as authorized by the Secretary.
+
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
+#### Anonymous Safety Alert System
+Pub. L. 115–265, title II, § 217, Oct. 11, 2018, 132 Stat. 3752, provided that: “(a) Pilot Program.—Not later than 1 year after the date of enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall establish an anonymous safety alert pilot program. “(b) Requirements.—The pilot program established under subsection (a) shall provide an anonymous reporting mechanism to allow crew members to communicate urgent and dire safety concerns directly and in a timely manner with the Coast Guard.”
 
 
 <a id="section-3316"></a>
@@ -886,7 +1006,15 @@ Section 3315 requires an individual holding a license issued by the Coast Guard 
 
   (C) based on measurable marine casualty and other data, any impacts of the delegations on the operational safety of vessels for which the delegations were made, and on the crew on those vessels.
 
-**(g)** In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+**(g)**
+
+(1) There shall be within the Coast Guard an office that conducts comprehensive and targeted oversight of all recognized organizations that act on behalf of the Coast Guard.
+
+(2) The staff of the office shall include subject matter experts, including inspectors, investigators, and auditors, who possess the capability and authority to audit all aspects of such recognized organizations.
+
+(3) In this subsection the term “recognized organization” has the meaning given that term in section 2.45–1 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Hamm Alert Maritime Safety Act of 2018.
+
+**(h)** In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) 11 See References in Text note below. of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
 
 ### Statutory Notes
 
@@ -902,15 +1030,19 @@ The section requires that a Federal department, agency, or instrumentality recog
 #### References in Text
 The date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 113–281, which was approved Dec. 18, 2014.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), War and National Defense.
+The date of the enactment of the Hamm Alert Maritime Safety Act of 2018, referred to in subsec. (g)(3), is the date of enactment of Pub. L. 115–265, which was approved Oct. 11, 2018.
 
-The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h), was classified to [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
-Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (g), is classified to [section 2371 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), Foreign Relations and Intercourse.
+The International Emergency Economic Powers Act, referred to in subsec. (h), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
-Section 40 of the Arms Export Control Act, referred to in subsec. (g), is classified to [section 2780 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim), Foreign Relations and Intercourse.
+Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (h), is classified to [section 2371 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+Section 40 of the Arms Export Control Act, referred to in subsec. (h), is classified to [section 2780 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2018—Subsecs. (g), (h). Pub. L. 115–265 added subsec. (g) and redesignated former subsec. (g) as (h).
+
 2014—Subsecs. (f), (g). Pub. L. 113–281 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2012—Subsec. (b)(2)(C). Pub. L. 112–213, § 304(1), added subpar. (C).
@@ -944,8 +1076,19 @@ Subsec. (d). Pub. L. 104–324, § 607(a)(1), struck out subsec. (d) which read 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–293, title IV, § 413(b), Aug. 9, 2004, 118 Stat. 1046, provided that: “[Section 3316(c)(1) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3316/c/1&num=0&edition=prelim), United States Code, shall apply with respect to operation as a classification society on or after January 1, 2005.”
 
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Deadline for Establishment of Recognized Organization Oversight Office
+Pub. L. 115–265, title II, § 215(b), Oct. 11, 2018, 132 Stat. 3751, provided that: “The Commandant of the Coast Guard shall establish the office required by the amendment made by subsection (a) [amending this section] by not later than 2 years after the date of the enactment of this Act [Oct. 11, 2018].”
+
+#### Review of Authorities Delegated to Recognized Organizations for Alternative Compliance Program
+Pub. L. 115–265, title II, § 219, Oct. 11, 2018, 132 Stat. 3752, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall review the authorities that have been delegated to recognized organizations for the alternative compliance program as described in subpart D of part 8 of title 46, Code of Federal Regulations, and, if necessary, revise or establish policies and procedures to ensure those delegated authorities are being conducted in a manner to ensure safe maritime transportation. “(b) Briefing.—Not later than 1 year after the date of the enactment of this Act, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the implementation of subsection (a).”
+
+[For definition of “recognized organizations” as used in section 219 of Pub. L. 115–265, set out above, see section 203 of Pub. L. 115–265, set out as a note under [section 2101 of this title](./chapter-021-general.md#section-2101).]
 
 
 <a id="section-3317"></a>
@@ -965,6 +1108,9 @@ Section 3317 provides the regulatory authority for prescribing fees for the insp
 
 #### Amendments
 1992—Subsec. (b). Pub. L. 102–587 substituted “under this part of a documented vessel or a foreign vessel” for “under this chapter of a documented vessel”.
+
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1078,3 +1224,6 @@ Subsecs. (i) to (l). Pub. L. 98–498, § 211(c)(8), added subsecs. (i) to (l).
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim), Navigation and Navigable Waters.
+
+#### Effective Date
+Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).

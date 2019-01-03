@@ -152,9 +152,7 @@ Certain fish processing vessels exempt from crew requirements of subsec. (b) of 
 ## § 8703. Tankermen on tank vessels
 **(a)** A vessel of the United States to which chapter 37 of this title applies, that has on board oil or hazardous material in bulk as cargo or cargo residue, shall have a specified number of the crew certified as tankermen as required by the Secretary. This requirement shall be noted on the certificate of inspection issued to the vessel.
 
-**(b)** Repealed. Pub. L. 98–557, § 18, Oct. 30, 1984, 98 Stat. 2869.]
-
-**(c)** A vessel to which [section 3702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3702/b&num=0&edition=prelim) applies shall have on board as a crewmember in charge of the transfer operation an individual certified as a tankerman (qualified for the grade of fuel transferred), unless a master, mate, pilot, engineer, or operator licensed under [section 7101 of this title](./chapter-071-licenses-and-certificates-of-registry.md#section-7101) is present in charge of the transfer. If the vessel does not have that individual on board, chapter 37 of this title applies to the vessel.
+**(b)** A vessel to which [section 3702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3702/b&num=0&edition=prelim) applies shall have on board as a crewmember in charge of the transfer operation an individual certified as a tankerman (qualified for the grade of fuel transferred), unless a master, mate, pilot, engineer, or operator licensed under [section 7101 of this title](./chapter-071-licenses-and-certificates-of-registry.md#section-7101) is present in charge of the transfer. If the vessel does not have that individual on board, chapter 37 of this title applies to the vessel.
 
 ### Statutory Notes
 
@@ -174,6 +172,8 @@ Subsection (b) authorizes the Secretary to regulate tankermen and restrict the t
 Subsection (c) requires a tankerman or licensed master, pilot, engineer, or operator to be present and in charge of a transfer of oil or hazardous material on certain vessels in the service of oil exploitation. If this individual is not on board, then the tank vessel requirements of chapter 37 apply to the vessel.
 
 #### Amendments
+2018—Subsecs. (b), (c). Pub. L. 115–232 redesignated subsec. (c) as (b).
+
 1984—Subsec. (b). Pub. L. 98–557 repealed subsec. (b) which contained duplicate tankerman manning requirements. See [section 7317(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section7317/a&num=0&edition=prelim).
 
 

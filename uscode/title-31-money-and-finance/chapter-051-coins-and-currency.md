@@ -28,6 +28,9 @@ Thereafter, Hamilton uses the phrases “money unit of the United States” and 
 
 Thus, the phrase “money of account” did not mean, by itself, that dollars or fractions of dollars must be equal to something having intrinsic or “substantive” value. This concept is supported by earlier writings of Thomas Jefferson in his “Notes on the Establishment of a Money Unit, and of a Coinage for the United States” (1784), and the 1782 report to the President of the Continental Congress on the coinage of the United States by the Superintendent of Finances, Robert Morris, which was apparently prepared by the Assistant Superintendent, Gouverneur Morris. See Paul L. Ford, The Writings of Thomas Jefferson, vol. III (G.P. Putnam’s Sons, 1894) pp. 446–457; William G. Sumner, The Financier and the Finances of the American Revolution, vol. II (Burt Franklin, 1891, reprinted 1970) pp. 36–47; and George T. Curtis, History of the Constitution, vol. I (Harper and Brothers, 1859) p. 443, n2. The words “or units” and “and all accounts in the public offices and all proceedings in the courts shall be kept and had in conformity to this regulation” are omitted as surplus.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–197, § 1, July 20, 2018, 132 Stat. 1515, provided that: “This Act [amending [section 5112 of this title](./chapter-051-coins-and-currency.md#section-5112)] may be cited as the ‘American Innovation $1 Coin Act’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–118, § 1, June 9, 2014, 128 Stat. 1183, provided that: “This Act [amending provisions listed in a table of Commemorative Medals set out under [section 5111 of this title](./chapter-051-coins-and-currency.md#section-5111)] may be cited as the ‘Gold Medal Technical Corrections Act of 2014’.”
 
@@ -206,6 +209,18 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 115–415, Jan. 3, 2019, 132 Stat. 5433, recognizing Stephen Michael Gleason.
+
+Pub. L. 115–338, Dec. 20, 2018, 132 Stat. 5033, recognizing the crew of the USS Indianapolis.
+
+Pub. L. 115–337, Dec. 20, 2018, 132 Stat. 5029, recognizing Chinese-American Veterans of World II.
+
+Pub. L. 115–322, Dec. 17, 2018, 132 Stat. 4440, recognizing Larry Doby.
+
+Pub. L. 115–310, Dec. 13, 2018, 132 Stat. 4424, recognizing Anwar Sadat.
+
+Pub. L. 115–60, Sept. 15, 2017, 131 Stat. 1154, recognizing Bob Dole.
+
 Pub. L. 114–269, Dec. 14, 2016, 130 Stat. 1391, recognizing the Office of Strategic Services.
 
 Pub. L. 114–265, Dec. 14, 2016, 130 Stat. 1376, recognizing Filipino Veterans of World War II.
@@ -266,7 +281,7 @@ Pub. L. 109–287, Sept. 27, 2006, 120 Stat. 1231, recognizing the Fourteenth Da
 
 Pub. L. 109–213, Apr. 11, 2006, 120 Stat. 322, recognizing the Tuskegee Airmen.
 
-Pub. L. 108–447, div. B, title I, § 124, Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–13, div. A, title VI, § 6060, May 11, 2005, 119 Stat. 297, recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
+Pub. L. 108–447, div. B, title I, § 124, Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–13, div. A, title VI, § 6060, May 11, 2005, 119 Stat. 297; Pub. L. 115–276, Nov. 3, 2018, 132 Stat. 4166, recognizing members of public safety organizations who were killed in, or died as a result of, the terrorist attacks in the United States on Sept. 11, 2001.
 
 Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746; Pub. L. 113–118, § 2, June 9, 2014, 128 Stat. 1183, recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
 
@@ -669,7 +684,7 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, 
 
 **(p) Removal of Barriers to Circulation of $1 Coin.—**
 
-(1) **Acceptance by agencies and instrumentalities.—** — Beginning January 1, 2006, all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, United States Code, all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
+(1) **Acceptance by agencies and instrumentalities.—** — Beginning January 1, 2006, all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, and all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
 
   (A) any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of—
 
@@ -677,7 +692,8 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, 
 
     (ii) other than vending machines that do not receive currency denominations higher than $1, dispensing $1 coins in connection with such operations; and
 
-  (B) displays signs and notices denoting such capability on the premises where coins or currency are accepted or dispensed, including on each vending machine.
+  (B) display signs and notices denoting such capability on the premises where coins or currency are accepted or dispensed, including on each vending machine.
+This paragraph does not apply with respect to business operations conducted by any entity under a contract with an agency or instrumentality of the United States, including with any nonappropriated fund instrumentality established under title 10.
 
 (2) **Publicity.—** — The Director of the United States Mint,22 So in original. The comma probably should not appear. shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) to ensure that consumers know of the availability of the coin.
 
@@ -1023,6 +1039,112 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, 
 
 (7) **Mint facility.—** — Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin. If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
 
+**(w) Redesign and Issuance of $1 Coins Honoring Innovation and Innovators From Each State, the District of Columbia, and Each Territory.—**
+
+(1) **Redesign beginning in 2019.—**
+
+  (A) *In general.—* — Notwithstanding subsection (d)(1) and subsection (d)(2) and in accordance with the provisions of this subsection, during the 14-year period beginning on January 1, 2019 (or such later date as provided under subparagraph (B)(ii)), the Secretary of the Treasury shall mint and issue $1 coins to be known as “American Innovation $1 coins”, that—
+
+    (i) have designs on the obverse selected in accordance with paragraph (2)(A); and
+
+    (ii) have a design on the reverse selected in accordance with paragraph (2)(B).
+
+  (B) *Continuity provisions.—*
+
+    (i) *In general.—* — Notwithstanding subparagraph (A), the Secretary shall continue to mint and issue $1 coins honoring Native Americans and their contributions in accordance with subsection (r).
+
+    (ii) *First coin.—* — Notwithstanding subparagraph (A), if the Secretary finds that it is feasible and cost-effective, the Secretary may mint and issue a $1 coin in 2018 to introduce the series of coins described in this subsection, that—
+
+      (I) has the obverse described under paragraph (2)(A);
+
+      (II) has a reverse that bears the inscription “United States of America” and “American Innovators” and a representation of the signature of President George Washington on the first United States patent issued;
+
+      (III) has the edge-incusing described under paragraph (2)(C); and
+
+      (IV) the design for which has reviewed by 33 So in original. the Citizens Coinage Advisory Committee.
+
+  (C) *Definition of territory.—* — For purposes of this subsection, the term “territory” means the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+(2) **Design requirements.—** — Notwithstanding subsection (d)(1) and subsection (d)(2), the $1 coins issued in accordance with paragraph (1)(A) shall meet the following design requirements:
+
+  (A) *Coin obverse.—* — The common design on the obverse of each coin issued under this subsection shall contain—
+
+    (i) a likeness of the Statue of Liberty extending to the rim of the coin and large enough to provide a dramatic representation of Liberty;
+
+    (ii) the inscription “$1”; and
+
+    (iii) the inscription “In God We Trust”.
+
+  (B) *Coin reverse.—* — The design on the reverse of each coin issued under this subsection shall bear the following:
+
+    (i) An image or images emblematic of one of the following from one of the 50 States, the District of Columbia, or the territories of the United States:
+
+      (I) A significant innovation.
+
+      (II) An innovator.
+
+      (III) A group of innovators.
+
+    (ii) The name of the State, the District of Columbia, or territory, as applicable.
+
+    (iii) The inscription “United States of America”.
+
+  (C) *Edge-incused inscriptions.—*
+
+    (i) *In general.—* — The inscription of the year of minting or issuance of the coin, the mint mark, and the inscription “E Pluribus Unum” shall be edge-incused into the coin.
+
+    (ii) *Preservation of distinctive edge.—* — The edge-incusing of the inscriptions under clause (i) on coins issued under this subsection shall be done in a manner that preserves the distinctive edge of the coin so that the denomination of the coin is readily discernible, including by individuals who are blind or visually impaired.
+
+(3) **Issuance of coins commemorating innovation or innovators.—**
+
+  (A) *Order of issuance.—*
+
+    (i) *In general.—* — The coins issued under this subsection commemorating either an innovation, an individual innovator, or a group of innovators, from each State, the District of Columbia, or a territory shall be issued in the following order:
+
+      (I) *State.—* — With respect to each State, the coins shall be issued in the order in which the States ratified the Constitution of the United States or were admitted into the Union, as the case may be.
+
+      (II) *District of columbia and territories.—* — After all coins are issued under subclause (I), the coins shall be issued for the District of Columbia and the territories in the following order: the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+    (ii) *Application in event of the admission of additional states.—* — Notwithstanding clause (i), if any additional State is admitted into the Union before the end of the 14-year period referred to in paragraph (1), the Secretary of the Treasury may issue a $1 coin with respect to the additional State in accordance with clause (i)(I).
+
+    (iii) *Application in the event of independence or adding of a territory.—* — Notwithstanding clause (i)—
+
+      (I) if any territory becomes independent or otherwise ceases to be a territory of the United States before $1 coins are minted pursuant to this subsection, the subsection shall cease to apply with respect to such territory; and
+
+      (II) if any new territory is added to the United States, $1 coins shall be issued for such territories in the order in which the new the territories are added, beginning after the $1 coin is issued for the Commonwealth of the Northern Mariana Islands.
+
+  (B) *Issuance of coins commemorating four innovations or innovators during each of 14 years.—*
+
+    (i) *In general.—* — Four $1 coin designs as described in this subsection shall be issued during each year of the period referred to in paragraph (1) until 1 coin featuring 1 innovation, an individual innovator, or a group of innovators, from each of the States, the District of Columbia, and territories has been issued.
+
+    (ii) *Number of coins of each design.—* — The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of $1 coins that shall be issued with each of the designs selected for each year of the period referred to in paragraph (1).
+
+(4) **Selection of concept and design.—**
+
+  (A) *Concept.—* — With respect to each State, the District of Columbia, and each territory to be honored with a coin under this subsection, the selection of the significant innovation, innovator, or group of innovators to be borne on the reverse of such coin shall be made by the Secretary of the Treasury, after consultation with the Governor or other chief executive of the State, the District of Columbia, or territory with respect to which a coin is to be issued under this subsection.
+
+  (B) *Design.—* — Each of the designs required under this subsection shall be selected by the Secretary after—
+
+    (i) consultation with—
+
+      (I) the Governor or other chief executive of the State, the District of Columbia, or territory with respect to which a coin is to be issued under this subsection; and
+
+      (II) the Commission of Fine Arts; and
+
+    (ii) review by the Citizens Coinage Advisory Committee.
+
+  (C) *Selection and approval process.—* — Proposals for designs for $1 coins under this subsection may be submitted in accordance with the design selection and approval process developed by the Secretary in the sole discretion of the Secretary.
+
+  (D) *Standards.—* — Because it is important that the Nation’s coinage and currency bear dignified designs of which the citizens of the United States can be proud, the Secretary shall not select any frivolous or inappropriate design for any $1 coin minted under this subsection.
+
+  (E) *Prohibition on certain representations.—* — No head and shoulders portrait or bust of any person and no portrait of a living person may be included in the design of any coin issued under this subsection.
+
+(5) **Treatment as numismatic items.—** — For purposes of sections 5134 and 5136, all $1 coins minted under this subsection shall be considered to be numismatic items.
+
+(6) **Issuance of numismatic coins.—** — The Secretary may mint and issue such number of $1 coins of each design selected under this subsection in uncirculated and proof qualities as the Secretary determines to be appropriate.
+
+(7) **Termination of program.—** — The issuance of coins under this subsection shall terminate when one innovation, an individual innovator, or a group of innovators, from each State, the District of Columbia, and each territory has been honored and may not be resumed except by an Act of Congress.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1083,6 +1205,14 @@ Section 3 of the Federal Deposit Insurance Act, referred to in subsec. (t)(1)(C)
 The date of the enactment of the America’s Beautiful National Parks Quarter Dollar Coin Act of 2008, referred to in subsec. (t)(3)(A)(ii), is the date of enactment of Pub. L. 110–456, which was approved Dec. 23, 2008.
 
 #### Amendments
+2018—Subsec. (p)(1). Pub. L. 115–232 struck out “, United States Code” after “title 10” in introductory and concluding provisions.
+
+Subsec. (w). Pub. L. 115–197 added subsec. (w).
+
+2017—Subsec. (p)(1). Pub. L. 115–91, § 885(a), (b), in introductory provisions, inserted “and” before “all transit systems” and struck out “and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government,” after “Mass Transit Account,” and inserted concluding provisions.
+
+Subsec. (p)(1)(B). Pub. L. 115–91, § 885(c), substituted “display” for “displays”.
+
 2015—Subsec. (q)(3) to (8). Pub. L. 114–94, § 73001(1)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former pars. (3) and (8), which related to subsequent designs and protective covering, respectively.
 
 Subsec. (t)(6)(B). Pub. L. 114–94, § 73001(1)(B), substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
@@ -1264,6 +1394,10 @@ Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The S
 
 #### Commemorative Coins
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 115–343, Dec. 21, 2018, 132 Stat. 5043.—Naismith Memorial Basketball Hall of Fame.
+
+Pub. L. 115–65, Oct. 6, 2017, 131 Stat. 1191.—American Legion 100th Anniversary.
 
 Pub. L. 114–282, Dec. 16, 2016, 130 Stat. 1441.—Apollo 11 50th Anniversary.
 

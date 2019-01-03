@@ -42,7 +42,12 @@ In this subtitle, the following definitions apply:
 
 The text of 40:1401(1) is omitted as unnecessary because the complete name of the Director of the Office of Management and Budget is used the first time the term appears in a section.
 
+#### Amendment of Paragraph (1)
+Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking “Commercial item.—The term ‘commercial item’ has” and inserting “Commercial product.—The term ‘commercial product’ has”. See 2018 Amendment note below.
+
 #### Amendments
+2018—Par. (1). Pub. L. 115–232, in heading, substituted “Commercial product” for “Commercial item” and, in text, substituted “The term ‘commercial product’ has” for “The term ‘commercial item’ has”.
+
 2011—Par. (1). Pub. L. 111–350, § 5(l)(24)(A), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403&num=0&edition=prelim))”.
 
 Par. (2). Pub. L. 111–350, § 5(l)(24)(B), substituted “[section 133 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section133&num=0&edition=prelim)” for “section 4 of the Act ([41 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403&num=0&edition=prelim))”.
@@ -50,6 +55,9 @@ Par. (2). Pub. L. 111–350, § 5(l)(24)(B), substituted “[section 133 of titl
 2004—Par. (6)(A). Pub. L. 108–199, § 535(b)(1), inserted “analysis, evaluation,” after “storage,”.
 
 Par. (6)(B). Pub. L. 108–199, § 535(b)(2), substituted “ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer,” for “ancillary equipment,”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Executive Order No. 13011
 Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 13284, § 16, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13286, § 18, Feb. 28, 2003, 68 F.R. 10623, which related to information technology policies and reforms for Federal agencies, was revoked by Ex. Ord. No. 13403, § 6, May 12, 2006, 71 F.R. 28543.

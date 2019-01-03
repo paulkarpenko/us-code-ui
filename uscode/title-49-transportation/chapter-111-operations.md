@@ -37,7 +37,7 @@ A prior section 11101, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1419; Pub. L. 9
 1996—Subsec. (f). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11102"></a>
@@ -60,6 +60,9 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 Provisions similar to those in this section were contained in [section 11103 of this title](./chapter-111-operations.md#section-11103) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11102, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1419, related to classification of carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11103"></a>
@@ -99,6 +102,9 @@ Section 11110, added Pub. L. 96–454, § 6(a)(1), Oct. 15, 1980, 94 Stat. 2015,
 
 Section 11111, added Pub. L. 97–261, § 25(d)(1), Sept. 20, 1982, 96 Stat. 1125, related to use of citizen band radios on buses.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11121"></a>
 ## § 11121. Criteria
@@ -123,6 +129,9 @@ Section 11111, added Pub. L. 97–261, § 25(d)(1), Sept. 20, 1982, 96 Stat. 112
 #### Prior Provisions
 A prior section 11121, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1421; Pub. L. 96–258, § 1(11), June 3, 1980, 94 Stat. 426, related to criteria of rail carriers to furnish safe and adequate car service, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11122"></a>
 ## § 11122. Compensation and practice
@@ -140,6 +149,9 @@ A prior section 11121, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1421; Pub. L. 9
 
 #### Prior Provisions
 A prior section 11122, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1421; Pub. L. 96–448, title II, § 224(a), Oct. 14, 1980, 94 Stat. 1929, related to use of and compensation for freight cars, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11123"></a>
@@ -217,6 +229,9 @@ Subsec. (c)(4). Pub. L. 108–199, § 150(1)(C), added par. (4).
 
 Subsecs. (e), (f). Pub. L. 108–199, § 150(1)(D), added subsecs. (e) and (f).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11124"></a>
 ## § 11124. War emergencies; embargoes imposed by carriers
@@ -245,6 +260,9 @@ Section 11127, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1424; Pub. L. 99–521,
 
 Section 11128, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1425, related to war emergencies and embargoes imposed by carriers. See [section 11124 of this title](./chapter-111-operations.md#section-11124).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11141"></a>
 ## § 11141. Definitions
@@ -262,6 +280,9 @@ In this subchapter—
 #### Prior Provisions
 A prior section 11141, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1425; Pub. L. 99–521, § 9(c), Oct. 22, 1986, 100 Stat. 2997, defined terms for purposes of former sections 11141 to 11145 of this title, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11141, 14121, and 15721 of this title.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11142"></a>
 ## § 11142. Uniform accounting system
@@ -272,6 +293,9 @@ The Board may prescribe a uniform accounting system for classes of rail carriers
 
 #### Prior Provisions
 A prior section 11142, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1425; Pub. L. 96–448, title III, § 301, Oct. 14, 1980, 94 Stat. 1934, related to uniform accounting system, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11143"></a>
@@ -289,6 +313,9 @@ The Board shall, for a class of rail carriers providing transportation subject t
 
 #### Prior Provisions
 A prior section 11143, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426, related to depreciation charges, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11144"></a>
@@ -318,6 +345,9 @@ A prior section 11143, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426, related t
 #### Prior Provisions
 A prior section 11144, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426; Pub. L. 96–296, § 24(c), July 1, 1980, 94 Stat. 816, related to form, inspection, and preservation of records, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11144, 14122, and 15722 of this title.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11145"></a>
 ## § 11145. Reports by rail carriers, lessors, and associations
@@ -338,6 +368,9 @@ A prior section 11144, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426; Pub. L. 9
 #### Prior Provisions
 A prior section 11145, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1427; Pub. L. 96–296, § 5(b), July 1, 1980, 94 Stat. 796, related to reports by carriers, lessors, and associations, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11145, 14123, and 15723 of this title.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11161"></a>
 ## § 11161. Implementation of cost accounting principles
@@ -350,6 +383,9 @@ The Board shall periodically review its cost accounting rules and shall make suc
 Provisions similar to those in this section were contained in [section 11163 of this title](./chapter-111-operations.md#section-11163) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11161, added Pub. L. 96–448, title III, § 302(a), Oct. 14, 1980, 94 Stat. 1934, related to Railroad Accounting Principles Board, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11162"></a>
@@ -365,6 +401,9 @@ Provisions similar to those in this section were contained in [section 11164 of 
 
 A prior section 11162, added Pub. L. 96–448, title III, § 302(a), Oct. 14, 1980, 94 Stat. 1935; amended Pub. L. 103–272, § 4(j)(30), July 5, 1994, 108 Stat. 1370, related to cost accounting principles, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11163"></a>
 ## § 11163. Cost availability
@@ -377,6 +416,9 @@ As required by the rules of the Board governing discovery in Board proceedings, 
 Provisions similar to those in this section were contained in [section 11165 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11165&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11163, added Pub. L. 96–448, title III, § 302(a), Oct. 14, 1980, 94 Stat. 1936; amended Pub. L. 103–272, § 4(j)(31), July 5, 1994, 108 Stat. 1370, related to implementation of cost accounting principles, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 11161 of this title](./chapter-111-operations.md#section-11161).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11164"></a>
@@ -400,3 +442,6 @@ Section 11166, added Pub. L. 96–448, title III, § 302(a), Oct. 14, 1980, 94 S
 Section 11167, added Pub. L. 96–448, title III, § 302(a), Oct. 14, 1980, 94 Stat. 1938; amended Pub. L. 103–272, § 4(j)(33), July 5, 1994, 108 Stat. 1370, related to reports to Congress by Railroad Accounting Principles Board.
 
 Section 11168, added Pub. L. 96–448, title III, § 302(a), Oct. 14, 1980, 94 Stat. 1938, authorized appropriations for fiscal years 1981 to 1983.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

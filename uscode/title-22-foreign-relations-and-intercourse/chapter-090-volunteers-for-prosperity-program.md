@@ -38,7 +38,7 @@ Congress makes the following findings:
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim), The Public Health and Welfare.
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Ex. Ord. No. 13317. Volunteers for Prosperity
 Ex. Ord. No. 13317, Sept. 25, 2003, 68 F.R. 56515, as amended by Ex. Ord. No. 13418, Dec. 14, 2006, 71 F.R. 75647, provided:
@@ -91,6 +91,9 @@ In this chapter:
 
 #### References in Text
 Executive Order 13317, referred to in par. (2), is set out as a note under [section 8301 of this title](./chapter-090-volunteers-for-prosperity-program.md#section-8301).
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-8303"></a>
@@ -165,9 +168,19 @@ Executive Order 13317, referred to in par. (2), is set out as a note under [sect
 
 **(f) Report** The VfP Office shall submit an annual report to Congress on the activities of the VfP Office.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-8304"></a>
 ## § 8304. Authorization of appropriations
 **(a) In general** There are authorized to be appropriated to carry out this chapter $10,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014.
 
 **(b) Allocation of funds** Not more than 10 percent of the amounts appropriated pursuant to subsection (a) may be expended for the administrative costs of the United States Agency for International Development to manage the VfP Program.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim), The Public Health and Welfare.

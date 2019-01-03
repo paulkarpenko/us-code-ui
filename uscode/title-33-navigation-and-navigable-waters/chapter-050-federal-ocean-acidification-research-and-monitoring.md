@@ -179,9 +179,17 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 (2) provides grants for critical research projects that explore the effects of ocean acidification on ecosystems and the socioeconomic impacts of increased ocean acidification that are relevant to the goals and priorities of the strategic research plan; and
 
-(3) incorporates a competitive merit-based process for awarding grants that may be conducted jointly with other participating agencies or under the National Oceanographic Partnership Program under [section 7901 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7901&num=0&edition=prelim).
+(3) incorporates a competitive merit-based process for awarding grants that may be conducted jointly with other participating agencies or under the National Oceanographic Partnership Program under [section 8931 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8931&num=0&edition=prelim).
 
 **(b) Additional authority** In conducting the Program, the Secretary may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this chapter on such terms as the Secretary considers appropriate.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–232 substituted “[section 8931 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8931&num=0&edition=prelim)” for “[section 7901 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7901&num=0&edition=prelim)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-3706"></a>

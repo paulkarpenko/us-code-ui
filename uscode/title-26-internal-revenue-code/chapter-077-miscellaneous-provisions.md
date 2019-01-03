@@ -403,7 +403,7 @@ George Bush.
 
 <a id="section-7508a"></a>
 ## § 7508A. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions
-**(a) In general** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(h)(3)(C)(i)) 11 See References in Text note below. or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+**(a) In general** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
 
 (1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
 
@@ -417,10 +417,9 @@ George Bush.
 
 ### Statutory Notes
 
-#### References in Text
-Par. (3) of section 165(h), referred to in subsec. (a), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(27)(A), Dec. 19, 2014, 128 Stat. 4040. However, the term “federally declared disaster” is defined elsewhere in section 165.
-
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141 substituted “section 165(i)(5)(A)” for “section 165(h)(3)(C)(i)”.
+
 2008—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
 
 2002—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
@@ -438,6 +437,9 @@ Pub. L. 107–16, title VIII, § 802(b), June 7, 2001, 115 Stat. 149, provided t
 
 #### Effective Date
 Pub. L. 105–34, title IX, § 911(c), Aug. 5, 1997, 111 Stat. 878, provided that: “The amendments made by this section [enacting this section] shall apply with respect to any period for performing an act that has not expired before the date of the enactment of this Act [Aug. 5, 1997].”
+
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 #### Authority To Postpone Certain Tax-Related Deadlines by Reason of Y2K Failures
 Pub. L. 106–170, title V, § 522, Dec. 17, 1999, 113 Stat. 1927, provided that: “(a) In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary’s delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—“(1) whether any of the acts described in paragraph (1) of section 7508(a) of the Internal Revenue Code of 1986 (without regard to the exceptions in parentheses in subparagraphs (A) and (B)) were performed within the time prescribed therefor; and “(2) the amount of any credit or refund. “(b) Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
@@ -765,7 +767,7 @@ Pub. L. 94–455, title XX, § 2008(d)(1), Oct. 4, 1976, 90 Stat. 1892, as amend
     (i) by excluding such withdrawal from gross income, and
 
     (ii) by increasing the tax imposed by chapter 1 by the product of the amount of such withdrawal and the highest rate of tax specified in section 1 (section 11 in the case of a corporation).
-    With respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) or 1201(a) applies, the rate of tax taken into account under the preceding sentence shall not exceed 20 percent (34 percent in the case of a corporation).
+    In the case of a taxpayer other than a corporation, with respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) applies, the rate of tax taken into account under the preceding sentence shall not exceed 20 percent.
 
   (B) *Tax benefit rule* — If any portion of a nonqualified withdrawal is properly attributable to deposits (other than earnings on deposits) made by the taxpayer in any taxable year which did not reduce the taxpayer’s liability for tax under chapter 1 for any taxable year preceding the taxable year in which such withdrawal occurs—
 
@@ -781,18 +783,22 @@ Pub. L. 94–455, title XX, § 2008(d)(1), Oct. 4, 1976, 90 Stat. 1892, as amend
 
 (2) a similar rule shall be applied in the case of a continuation of a partnership.
 
-**(i) Definitions** For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
+**(i) Definitions** For purposes of this section, any term defined in chapter 535 of title 46, United States Code, which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such chapter as in effect on the date of the enactment of this section.
 
 ### Statutory Notes
 
 #### References in Text
 Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, ch. 858, title VI, 49 Stat. 2004, as amended by acts June 23, 1938, ch. 600, § 22, 52 Stat. 960; July 17, 1952, ch. 939, § 16, 66 Stat. 764; and May 10, 1956, ch. 247, § 1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, § 20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under [section 53101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53101&num=0&edition=prelim), Shipping.
 
-Section 607(k) of the Merchant Marine Act, 1936, referred to in subsec. (i), was classified to section 1177(k) of the former Appendix to Title 46, Shipping, and was repealed and partially restated in [section 53501 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53501&num=0&edition=prelim), Shipping, by Pub. L. 109–304, §§ 8(c), 19, Oct. 6, 2006, 120 Stat. 1586, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding [section 101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section101&num=0&edition=prelim).
-
 The date of the enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+2018—Subsec. (i). Pub. L. 115–141 substituted “chapter 535 of title 46, United States Code,” for “section 607(k) of the Merchant Marine Act, 1936” and “such chapter” for “such section 607(k)”.
+
+2017—Subsec. (g)(6)(A). Pub. L. 115–97, § 13001(b)(7), in concluding provisions, substituted “In the case of a taxpayer other than a corporation, with respect to the portion” for “With respect to the portion” and struck out “(34 percent in the case of a corporation)” after “shall not exceed 20 percent”.
+
+Pub. L. 115–97, § 13001(b)(2)(Q), struck out “or 1201(a)” after “section 1(h)” in concluding provisions.
+
 2014—Subsec. (g)(4). Pub. L. 113–295, which directed substitution of “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal” and all that followed through “ ‘shall be determined”, was executed by substituting “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal—
 
 “(A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
@@ -818,6 +824,9 @@ Subsec. (g)(3)(C)(iii). Pub. L. 109–304, § 17(e)(6)(C), substituted “Mercha
 1988—Subsec. (g)(1). Pub. L. 100–647, § 1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
 
 Subsec. (g)(6)(A). Pub. L. 100–647, § 1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

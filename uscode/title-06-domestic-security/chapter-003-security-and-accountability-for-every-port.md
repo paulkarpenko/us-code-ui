@@ -16,11 +16,16 @@ source: >-
 
 (3) evaluate such technologies.
 
-**(b) Coordination** The Secretary, in coordination with the Under Secretary for Science and Technology, the Assistant Secretary for Policy, the Commandant of the Coast Guard, the Director for Domestic Nuclear Detection, the Chief Financial Officer, and the heads of other appropriate offices or entities of the Department, shall ensure that—
+**(b) Coordination** The Secretary, in coordination with the Under Secretary for Science and Technology, the Assistant Secretary for Policy, the Commandant of the Coast Guard, the Director for Domestic Nuclear Detection,11 See Change of Name note below. the Chief Financial Officer, and the heads of other appropriate offices or entities of the Department, shall ensure that—
 
 (1) research, development, testing, and evaluation efforts funded by the Department in furtherance of maritime and cargo security are coordinated within the Department and with other appropriate Federal agencies to avoid duplication of efforts; and
 
 (2) the results of such efforts are shared throughout the Department and with other Federal, State, and local agencies, as appropriate.
+
+### Statutory Notes
+
+#### Change of Name
+Reference to the Director for Domestic Nuclear Detection deemed to be a reference to the Assistant Secretary for the Countering Weapons of Mass Destruction Office, see section 2(b)(1)(B) of Pub. L. 115–387, set out as a note under [section 591 of this Title](./chapter-001-homeland-security-organization.md#section-591) 6, Domestic Security.
 
 
 <a id="section-911"></a>
@@ -76,9 +81,9 @@ In this Act:
 
 (15) **Secretary** — The term “Secretary” means the Secretary of Homeland Security.
 
-(16) **Transportation disruption** — The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in [section 70101(6) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101/6&num=0&edition=prelim)).
+(16) **Transportation disruption** — The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) 1 of title 46).
 
-(17) **Transportation security incident** — The term “transportation security incident” has the meaning given the term in [section 70101(6) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101/6&num=0&edition=prelim).
+(17) **Transportation security incident** — The term “transportation security incident” has the meaning given the term in section 70101(6) 1 of title 46.
 
 ### Statutory Notes
 
@@ -86,6 +91,8 @@ In this Act:
 This Act, referred to in text, is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, known as the Security and Accountability For Every Port Act of 2006 or the SAFE Port Act. For complete classification of this Act to the Code, see Tables.
 
 Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in par. (2), is section 9503(c) of title IX of Pub. L. 100–203, which was set out as a note under [section 2071 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim), Customs Duties, prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. For establishment of successor committee, see [section 4316(a) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4316/a&num=0&edition=prelim).
+
+[Section 70101(6) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101/6&num=0&edition=prelim), referred to in pars. (16) and (17), was redesignated [section 70101(7) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101/7&num=0&edition=prelim) by Pub. L. 115–254, div. J, § 1805(b)(1), Oct. 5, 2018, 132 Stat. 3534.
 
 #### Short Title
 Pub. L. 109–347, § 1(a), Oct. 13, 2006, 120 Stat. 1884, provided that: “This Act [see Tables for classification] may be cited as the ‘Security and Accountability For Every Port Act of 2006’ or the ‘SAFE Port Act’.”
@@ -170,38 +177,50 @@ The Secretary of the Department in which the Coast Guard is operating shall requ
 
   (B) outlines the risk-based prioritization of ports of entry identified under paragraph (1).
 
-**(c) Report** Not later than 90 days after October 13, 2006, the Secretary shall submit the strategy developed under subsection (b) to the appropriate congressional committees.
-
-**(d) Update** Not later than 180 days after the date of the submission of the report under subsection (c), the Secretary shall provide a more complete evaluation under subsection (b)(6).
-
-**(e) Other weapons of mass destruction threats** Not later than 180 days after October 13, 2006, the Secretary shall submit to the appropriate congressional committees a report on the feasibility of, and a strategy for, the development of equipment to detect and prevent shielded nuclear and radiological threat material and chemical, biological, and other weapons of mass destruction from entering the United States.
-
-**(f) Standards** The Secretary, acting through the Director for Domestic Nuclear Detection and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—
+**(c) Standards** The Secretary, acting through the Director for Domestic Nuclear Detection 11 See Change of Name note below. and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—
 
 (1) should take into account relevant standards and procedures utilized by other Federal departments or agencies as well as those developed by international bodies; and
 
 (2) shall not be designed so as to endorse specific companies or create sovereignty conflicts with participating countries.
 
-**(g) Implementation** Not later than 3 years after October 13, 2006, the Secretary shall fully implement the strategy developed under subsection (b).
+**(d) Implementation** Not later than 3 years after October 13, 2006, the Secretary shall fully implement the strategy developed under subsection (b).
 
-**(h) Expansion to other United States ports of entry**
+**(e) Expansion to other United States ports of entry**
 
 (1) **In general** — As soon as practicable after—
 
   (A) implementation of the program for the examination of containers for radiation at ports of entry described in subsection (a); and
 
-  (B) submission of the strategy developed under subsection (b) (and updating, if any, of that strategy under subsection (c)),
+  (B) submission of the strategy developed under subsection (b),
   but not later than December 31, 2008, the Secretary shall expand the strategy developed under subsection (b), in a manner consistent with the requirements of subsection (b), to provide for the deployment of radiation detection capabilities at all other United States ports of entry not covered by the strategy developed under subsection (b).
 
 (2) **Risk assessment** — In expanding the strategy under paragraph (1), the Secretary shall identify and assess the risks to those other ports of entry in order to determine what equipment and practices will best mitigate the risks.
 
-**(i) Intermodal Rail Radiation Detection Test Center**
+**(f) Intermodal Rail Radiation Detection Test Center**
 
 (1) **Establishment** — In accordance with subsection (b), and in order to comply with this section, the Secretary shall establish an Intermodal Rail Radiation Detection Test Center (referred to in this subsection as the “Test Center”).
 
 (2) **Projects** — The Secretary shall conduct multiple, concurrent projects at the Test Center to rapidly identify and test concepts specific to the challenges posed by on-dock rail.
 
 (3) **Location** — The Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsecs. (c) to (e). Pub. L. 115–254, § 1816(b)(1), (2), redesignated subsecs. (f) to (h) as (c) to (e), respectively, and struck out former subsecs. (c) to (e). Prior to amendment, subsecs. (c) to (e) read as follows:
+
+“(c) Report.—Not later than 90 days after October 13, 2006, the Secretary shall submit the strategy developed under subsection (b) to the appropriate congressional committees.
+
+“(d) Update.—Not later than 180 days after the date of the submission of the report under subsection (c), the Secretary shall provide a more complete evaluation under subsection (b)(6).
+
+“(e) Other weapons of mass destruction threats.—Not later than 180 days after October 13, 2006, the Secretary shall submit to the appropriate congressional committees a report on the feasibility of, and a strategy for, the development of equipment to detect and prevent shielded nuclear and radiological threat material and chemical, biological, and other weapons of mass destruction from entering the United States.”
+
+Subsec. (e)(1)(B). Pub. L. 115–254, § 1816(b)(3), struck out “(and updating, if any, of that strategy under subsection (c))” after “under subsection (b)”.
+
+Subsecs. (f) to (i). Pub. L. 115–254, § 1816(b)(2), redesignated subsecs. (f) to (i) as (c) to (f), respectively.
+
+#### Change of Name
+Reference to the Director for Domestic Nuclear Detection deemed to be a reference to the Assistant Secretary for the Countering Weapons of Mass Destruction Office, see section 2(b)(1)(B) of Pub. L. 115–387, set out as a note under [section 591 of this title](./chapter-001-homeland-security-organization.md#section-591).
 
 
 <a id="section-922"></a>
@@ -217,9 +236,11 @@ Section was enacted as part of the Implementing Recommendations of the 9/11 Comm
 
 
 <a id="section-923"></a>
-## § 923. Inspection of car ferries entering from abroad
+## § 923. Repealed. Pub. L. 115–254, div. J, § 1816(c), Oct. 5, 2018, 132 Stat. 3541
 
-Not later than 120 days after October 13, 2006, the Secretary, acting through the Commissioner, and in coordination with the Secretary of State and in cooperation with ferry operators and appropriate foreign government officials, shall seek to develop a plan for the inspection of passengers and vehicles before such passengers board, or such vehicles are loaded onto, a ferry bound for a United States facility required to submit a plan under [section 70103(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103/c&num=0&edition=prelim).
+### Statutory Notes
+
+Section, Pub. L. 109–347, title I, § 122, Oct. 13, 2006, 120 Stat. 1899, related to inspection of car ferries entering from abroad.
 
 
 <a id="section-924"></a>
@@ -258,7 +279,7 @@ Not later than 90 days after October 13, 2006, the Secretary shall implement a t
 
 <a id="section-942"></a>
 ## § 942. Strategic plan to enhance the security of the international supply chain
-**(a) Strategic plan** The Secretary, in consultation with appropriate Federal, State, local, and tribal government agencies and private sector stakeholders responsible for security matters that affect or relate to the movement of containers through the international supply chain, shall develop, implement, and update, as appropriate, a strategic plan to enhance the security of the international supply chain.
+**(a) Strategic plan** The Secretary, in consultation with appropriate Federal, State, local, and tribal government agencies and private sector stakeholders responsible for security matters that affect or relate to the movement of containers through the international supply chain, shall develop, implement, and update, triennially, a strategic plan to enhance the security of the international supply chain.
 
 **(b) Requirements** The strategic plan required under subsection (a) shall—
 
@@ -294,11 +315,20 @@ Not later than 90 days after October 13, 2006, the Secretary shall implement a t
 
 **(f) International standards and practices** In furtherance of the strategic plan required under subsection (a), the Secretary is encouraged to consider proposed or established standards and practices of foreign governments and international organizations, including the International Maritime Organization, the World Customs Organization, the International Labor Organization, and the International Organization for Standardization, as appropriate, to establish standards and best practices for the security of containers moving through the international supply chain.
 
-**(g) Report**
+**(g) Reports**
 
 (1) **Initial report** — Not later than 270 days after October 13, 2006, the Secretary shall submit to the appropriate congressional committees a report that contains the strategic plan required by subsection (a).
 
-(2) **Final report** — Not later than 3 years after the date on which the strategic plan is submitted under paragraph (1), the Secretary shall submit a report to the appropriate congressional committees that contains an update of the strategic plan.
+(2) **Updates** — Not later than 270 days after October 5, 2018, and triennially thereafter, the Secretary shall submit to the appropriate congressional committees a report that contains any updates to the strategic plan under subsection (a) since the prior report.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–254, § 1804(1), substituted “triennially” for “as appropriate”.
+
+Subsec. (g). Pub. L. 115–254, § 1804(2)(A), substituted “Reports” for “Report” in heading.
+
+Subsec. (g)(2). Pub. L. 115–254, § 1804(2)(B), amended par. (2) generally. Prior to amendment, text read as follows: “Not later than 3 years after the date on which the strategic plan is submitted under paragraph (1), the Secretary shall submit a report to the appropriate congressional committees that contains an update of the strategic plan.”
 
 
 <a id="section-943"></a>
@@ -364,7 +394,7 @@ Not later than 90 days after October 13, 2006, the Secretary shall implement a t
 
 (2) consult with stakeholders, including the Commercial Operations Advisory Committee, and identify to them the need for such information, and the appropriate timing of its submission.
 
-**(d) Regulations** The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 ([19 U.S.C. 2071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim) note), including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
+**(d) Regulations** The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 ([19 U.S.C. 2071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim) note),11 See References in Text note below. including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
 
 **(e) System improvements** The Secretary, acting through the Commissioner, shall—
 
@@ -391,7 +421,7 @@ Not later than 90 days after October 13, 2006, the Secretary shall implement a t
 ### Statutory Notes
 
 #### References in Text
-Section 343(a) of the Trade Act of 2002, referred to in subsec. (d), is section 343(a) of title III of div. A of Pub. L. 107–210, which is set out as a note under [section 2071 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim), Customs Duties.
+Section 343(a) of the Trade Act of 2002, referred to in subsec. (d), is section 343(a) of Pub. L. 107–210, which was set out as a note under [section 2071 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2071&num=0&edition=prelim), Customs Duties, prior to editorial transfer to [section 1415(a) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a&num=0&edition=prelim).
 
 
 <a id="section-945"></a>
@@ -494,27 +524,23 @@ Subsec. (a)(4)(B). Pub. L. 110–53, § 1701(b)(2), added subpar. (B).
 
 (2) **Rule of construction** — Nothing in this subsection shall be construed to interfere with the ability of the Secretary to deny entry of any cargo into the United States.
 
-**(l) Report**
+**(l) Report** Not later than 270 days after October 5, 2018, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit a report to the appropriate congressional committees on the effectiveness of, and the need for any improvements to, the Container Security Initiative. The report shall include—
 
-(1) **In general** — Not later than September 30, 2007, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit a report to the appropriate congressional committees on the effectiveness of, and the need for any improvements to, the Container Security Initiative. The report shall include—
+(1) a description of the technical assistance delivered to, as well as needed at, each designated seaport;
 
-  (A) a description of the technical assistance delivered to, as well as needed at, each designated seaport;
+(2) a description of the human capital management plan at each designated seaport;
 
-  (B) a description of the human capital management plan at each designated seaport;
+(3) a summary of the requests made by the United States to foreign governments to conduct physical or nonintrusive inspections of cargo at designated seaports, and whether each such request was granted or denied by the foreign government;
 
-  (C) a summary of the requests made by the United States to foreign governments to conduct physical or nonintrusive inspections of cargo at designated seaports, and whether each such request was granted or denied by the foreign government;
+(4) an assessment of the effectiveness of screening, scanning, and inspection protocols and technologies utilized at designated seaports and the effect on the flow of commerce at such seaports, as well as any recommendations for improving the effectiveness of screening, scanning, and inspection protocols and technologies utilized at designated seaports;
 
-  (D) an assessment of the effectiveness of screening, scanning, and inspection protocols and technologies utilized at designated seaports and the effect on the flow of commerce at such seaports, as well as any recommendations for improving the effectiveness of screening, scanning, and inspection protocols and technologies utilized at designated seaports;
+(5) a description and assessment of the outcome of any security incident involving a foreign seaport designated under the Container Security Initiative;
 
-  (E) a description and assessment of the outcome of any security incident involving a foreign seaport designated under the Container Security Initiative;
+(6) the rationale for the continuance of each port designated under CSI;
 
-  (F) the rationale for the continuance of each port designated under CSI;
+(7) a description of the potential for remote targeting to decrease the number of personnel who are deployed at foreign ports under CSI; and
 
-  (G) a description of the potential for remote targeting to decrease the number of personnel who are deployed at foreign ports under CSI; and
-
-  (H) a summary and assessment of the aggregate number and extent of trade compliance lapses at each seaport designated under the Container Security Initiative.
-
-(2) **Updated report** — Not later than September 30, 2010, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit an updated report to the appropriate congressional committees on the effectiveness of, and the need for any improvements to, the Container Security Initiative. The updated report shall address each of the elements required to be included in the report provided for under paragraph (1).
+(8) a summary and assessment of the aggregate number and extent of trade compliance lapses at each seaport designated under the Container Security Initiative.
 
 **(m) Authorization of appropriations** There are authorized to be appropriated to the United States Customs and Border Protection to carry out the provisions of this section—
 
@@ -525,6 +551,9 @@ Subsec. (a)(4)(B). Pub. L. 110–53, § 1701(b)(2), added subpar. (B).
 (3) $153,300,000 for fiscal year 2010.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (l). Pub. L. 115–254 struck out par. (1) designation and heading, substituted “Not later than 270 days after October 5, 2018,” for “Not later than September 30, 2007,” in introductory provisions, redesignated subpars. (A) to (H) of former subpar. (1) as pars. (1) to (8), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Not later than September 30, 2010, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit an updated report to the appropriate congressional committees on the effectiveness of, and the need for any improvements to, the Container Security Initiative. The updated report shall address each of the elements required to be included in the report provided for under paragraph (1).”
 
 #### International Port and Facility Inspection Coordination
 Pub. L. 111–281, title VIII, § 825, Oct. 15, 2010, 124 Stat. 3004, as amended by Pub. L. 114–120, title III, § 320, Feb. 8, 2016, 130 Stat. 66, provided that: “(a) Coordination.—The Secretary of Homeland Security shall, to the extent practicable, conduct the assessments required by the following provisions of law concurrently, or develop a process by which the assessments are coordinated between the Coast Guard and Customs and Border Protection:“(1) Section 205 of the SAFE Port Act ([6 U.S.C. 945](./chapter-003-security-and-accountability-for-every-port.md#section-945)). “(2) Section 213 of that Act ([6 U.S.C. 964](./chapter-003-security-and-accountability-for-every-port.md#section-964) [963]). “(3) [Section 70108 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70108&num=0&edition=prelim), United States Code. “(b) Limitation.—Nothing in subsection (a) shall be construed to affect or diminish the Secretary’s authority or discretion—“(1) to conduct an assessment of a foreign port at any time; “(2) to compel the Secretary to conduct an assessment of a foreign port so as to ensure that 2 or more assessments are conducted concurrently; or “(3) to cancel an assessment of a foreign port if the Secretary is unable to conduct 2 or more assessments concurrently. “(c) Multiple Assessment Report.—The Secretary shall provide written notice to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives whenever the Secretary conducts 2 or more assessments of the same port within a 3-year period.”
@@ -948,27 +977,40 @@ The Homeland Security Act of 2002, referred to in subsec. (b)(8)(B), is Pub. L. 
 #### Amendments
 2007—Subsec. (b). Pub. L. 110–53 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text related to full deployment of an integrated scanning system after the Secretary had determined that such system had met section 981(c) requirements, had a sufficiently low false alarm rate, was capable of being deployed overseas, was capable of integrating with existing systems, would not significantly impact trade flow, and had provided for automated notification of high-risk cargo.
 
+#### Cargo Container Scanning Technology Review
+Pub. L. 115–254, div. K, title I, § 1979, Oct. 5, 2018, 132 Stat. 3618, provided that: “(a) Designations.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], and not less frequently than once every 5 years thereafter until the date of full-scale implementation of 100 percent screening of cargo containers and 100 percent scanning of high-risk containers required under section 232 of the SAFE Port Act ([6 U.S.C. 982](./chapter-003-security-and-accountability-for-every-port.md#section-982)), the Secretary [of Homeland Security] shall solicit proposals for scanning technologies, consistent with the standards under subsection (b)(8) of that section, to improve scanning of cargo at domestic ports. “(2) Evaluation.—In soliciting proposals under paragraph (1), the Secretary shall establish measures to assess the performance of the proposed scanning technologies, including—“(A) the rate of false positives; “(B) the delays in processing times; and “(C) the impact on the supply chain. “(b) Pilot Program.—“(1) Establishment.—The Secretary may establish a pilot program to determine the efficacy of a scanning technology referred to in subsection (a). “(2) Application process.—In carrying out the pilot program under this subsection, the Secretary shall—“(A) solicit applications from domestic ports; “(B) select up to 4 domestic ports to participate in the pilot program; and “(C) select ports with unique features and differing levels of trade volume. “(3) Report.—Not later than 1 year after initiating a pilot program under paragraph (1), the Secretary shall submit to the appropriate committees of Congress [Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] a report on the pilot program, including—“(A) an evaluation of the scanning technologies proposed to improve security at domestic ports and to meet the full-scale implementation requirement; “(B) the costs to implement a pilot program; “(C) the benefits of the proposed scanning technologies; “(D) the impact of the pilot program on the supply chain; and “(E) recommendations for implementation of advanced cargo scanning technologies at domestic ports. “(4) Sharing pilot program testing results.—The results of the pilot testing of advanced cargo scanning technologies shall be shared, as appropriate, with government agencies and private stakeholders whose responsibilities encompass the secure transport of cargo.”
+
 
 <a id="section-984"></a>
 ## § 984. Inspection technology and training
-(1) **In general** — The Secretary, in coordination with the Secretary of State, the Secretary of Energy, and appropriate representatives of other Federal agencies, may provide technical assistance, equipment, and training to facilitate the implementation of supply chain security measures at ports designated under the Container Security Initiative.
+**(a) In general** The Secretary, in coordination with the Secretary of State, the Secretary of Energy, and appropriate representatives of other Federal agencies, may provide technical assistance, equipment, and training to facilitate the implementation of supply chain security measures at ports designated under the Container Security Initiative.
 
-(2) **Acquisition and training** — Unless otherwise prohibited by law, the Secretary may—
+**(b) Acquisition and training** Unless otherwise prohibited by law, the Secretary may—
 
-  (A) lease, loan, provide, or otherwise assist in the deployment of nonintrusive inspection and radiation detection equipment at foreign land and sea ports under such terms and conditions as the Secretary prescribes, including nonreimbursable loans or the transfer of ownership of equipment; and
+(1) lease, loan, provide, or otherwise assist in the deployment of nonintrusive inspection and radiation detection equipment at foreign land and sea ports under such terms and conditions as the Secretary prescribes, including nonreimbursable loans or the transfer of ownership of equipment; and
 
-  (B) provide training and technical assistance for domestic or foreign personnel responsible for operating or maintaining such equipment.
+(2) provide training and technical assistance for domestic or foreign personnel responsible for operating or maintaining such equipment.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–254, which directed the general amendment of “section 233 of the Security and Accountability for Every Port Act of 2006 ([6 U.S.C. 983](./chapter-003-security-and-accountability-for-every-port.md#section-983))”, was executed by generally amending section section 233(a) of the Security and Accountability for Every Port Act of 2006, which comprises this section, to reflect the probable intent of Congress. Prior to amendment, section read as follows:
+
+“(1) In general.—The Secretary, in coordination with the Secretary of State, the Secretary of Energy, and appropriate representatives of other Federal agencies, may provide technical assistance, equipment, and training to facilitate the implementation of supply chain security measures at ports designated under the Container Security Initiative.
+
+“(2) Acquisition and training.—Unless otherwise prohibited by law, the Secretary may—
+
+“(A) lease, loan, provide, or otherwise assist in the deployment of nonintrusive inspection and radiation detection equipment at foreign land and sea ports under such terms and conditions as the Secretary prescribes, including nonreimbursable loans or the transfer of ownership of equipment; and
+
+“(B) provide training and technical assistance for domestic or foreign personnel responsible for operating or maintaining such equipment.”
 
 
 <a id="section-985"></a>
-## § 985. Pilot program to improve the security of empty containers
-**(a) In general** The Secretary shall conduct a 1-year pilot program to assess the risk posed by and improve the security of empty containers at United States seaports to ensure the safe and secure delivery of cargo and to prevent potential acts of terrorism involving such containers. The pilot program shall include the use of visual searches of empty containers at United States seaports.
+## § 985. Repealed. Pub. L. 115–254, div. J, § 1816(f), Oct. 5, 2018, 132 Stat. 3541
 
-**(b) Report** Not later than 90 days after the completion of the pilot program under paragraph (1), the Secretary shall prepare and submit to the appropriate congressional committees a report that contains—
+### Statutory Notes
 
-(1) the results of the pilot program; and
-
-(2) the determination of the Secretary on whether to expand the pilot program.
+Section, Pub. L. 109–347, title II, § 235, Oct. 13, 2006, 120 Stat. 1919, related to pilot program to improve the security of empty containers.
 
 
 <a id="section-1001"></a>

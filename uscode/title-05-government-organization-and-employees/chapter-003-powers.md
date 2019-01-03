@@ -2,7 +2,7 @@
 title: 5
 chapter: '3'
 heading: POWERS
-section_count: 6
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -230,5 +230,212 @@ Virgin Islands Corporation established to have succession until June 30, 1969, u
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 115–435, title I, § 101(c), title IV, § 403, Jan. 14, 2019, 132 Stat. 5533, 5557, provided that, effective 180 days after Jan. 14, 2019, subsection (a) of this section is amended as follows:
+
+(1) in paragraph (7), by striking “; and” at the end and inserting a semicolon;
+
+(2) in paragraph (8), by striking the period at the end and inserting “, and citations to relevant provisions of the plans required under section 312; and” after “to be conducted”; and
+
+(3) by adding at the end the following new paragraph:
+
+“(9) an assessment of the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency, including—
+
+“(A) a list of the activities and operations of the agency that are currently being evaluated and analyzed;
+
+“(B) the extent to which the evaluations, research, and analysis efforts and related activities of the agency support the needs of various divisions within the agency;
+
+“(C) the extent to which the evaluation research and analysis efforts and related activities of the agency address an appropriate balance between needs related to organizational learning, ongoing program management, performance management, strategic management, interagency and private sector coordination, internal and external oversight, and accountability;
+
+“(D) the extent to which the agency uses methods and combinations of methods that are appropriate to agency divisions and the corresponding research questions being addressed, including an appropriate combination of formative and summative evaluation research and analysis approaches;
+
+“(E) the extent to which evaluation and research capacity is present within the agency to include personnel and agency processes for planning and implementing evaluation activities, disseminating best practices and findings, and incorporating employee views and feedback; and
+
+“(F) the extent to which the agency has the capacity to assist agency staff and program offices to develop the capacity to use evaluation research and analysis approaches and data in the day-to-day operations.”
+
+See 2019 Amendment notes below.
+
 #### Prior Provisions
 A prior section 306, added Pub. L. 103–62, § 3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, § 902, Oct. 5, 1999, 113 Stat. 717; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241, related to strategic plans, prior to repeal by Pub. L. 111–352, § 2, Jan. 4, 2011, 124 Stat. 3866.
+
+#### Amendments
+2019—Subsec. (a)(7). Pub. L. 115–435, § 101(c)(1), substituted semicolon for “; and” at end.
+
+Subsec. (a)(8). Pub. L. 115–435, § 101(c)(2), inserted “, and citations to relevant provisions of the plans required under section 312; and” after “to be conducted” and struck out period at end.
+
+Subsec. (a)(9). Pub. L. 115–435, § 101(c)(3), added par. (9).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 115–435, title IV, § 403, Jan. 14, 2019, 132 Stat. 5557, provided that: “Except as otherwise provided, this Act [see Short Title of 2019 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)], and the amendments made by this Act, shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 14, 2019].”
+
+#### Construction of 2019 Amendment
+Pub. L. 115–435, title IV, § 401, Jan. 14, 2019, 132 Stat. 5556, provided that: “Nothing in this Act [see Short Title of 2019 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)], or the amendments made by this Act, may be construed— “(1) to require the disclosure of information or records that are exempt from disclosure under [section 552 of title 5](./chapter-005-administrative-procedure.md#section-552), United States Code (commonly known as the ‘Freedom of Information Act’); “(2) to create or expand an exemption from disclosure under such section; “(3) to override, limit, or otherwise affect intellectual property rights, including rights under titles 17 and 35, United States Code; “(4) to affect the authority of a Federal agency regarding the use, disclosure, or licensing of—“(A) confidential business information that could be withheld under [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code; or “(B) data assets restricted from disclosure under a contract or other binding, written agreement; or “(5) to affect the independence, responsibilities, or work products of an Inspector General of any agency.”
+
+[For definition of “agency” as used in section 401 of Pub. L. 115–435, set out above, see section 101(e)(4)(A) of Pub. L. 115–435, set out as a note under [section 311 of this title](./chapter-003-powers.md#section-311).]
+
+#### GAO Report
+Pub. L. 115–435, title I, § 101(d), Jan. 14, 2019, 132 Stat. 5533, provided that: “Not later than 2 years after the date on which each strategic plan required under [section 306(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306/a&num=0&edition=prelim), United States Code, is published, the Comptroller General of the United States shall submit to Congress a report that— “(1) summarizes agency findings and highlights trends in the assessment conducted pursuant to subsection (a)(9) of [section 306 of title 5](./chapter-003-powers.md#section-306), United States Code, as added by subsection (c); and “(2) if appropriate, recommends actions to further improve agency capacity to use evaluation techniques and data to support evaluation efforts.”
+
+[For definitions of “agency” and “evaluation” as used in section 101(d) of Pub. L. 115–435, set out above, see section 101(e)(4) of Pub. L. 115–435, set out as a note under [section 311 of this title](./chapter-003-powers.md#section-311).]
+
+#### Biennial OMB Report
+Pub. L. 115–435, title II, § 202(g)(2), Jan. 14, 2019, 132 Stat. 5544, provided that: “Not later than 1 year after [the] date of the enactment of this Act [Jan. 14, 2019], and biennially thereafter, the Director of the Office of Management and Budget shall electronically publish a report on agency performance and compliance with this Act [see Short Title of 2019 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] and the amendments made by this Act.”
+
+[For definition of “agency” as used in section 202(g)(2) of Pub. L. 115–435, set out above, see section 101(e)(4)(A) of Pub. L. 115–435, set out as a note under [section 311 of this title](./chapter-003-powers.md#section-311).]
+
+#### Use of Existing Resources
+Pub. L. 115–435, title IV, § 402, Jan. 14, 2019, 132 Stat. 5557, provided that: “To the extent practicable, the head of each agency shall use existing procedures and systems to carry out agency requirements and shall select existing employees for appointments under this Act [see Short Title of 2019 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] and the amendments made by this Act.”
+
+[For definition of “agency” as used in section 402 of Pub. L. 115–435, set out above, see section 101(e)(4)(A) of Pub. L. 115–435, set out as a note under [section 311 of this title](./chapter-003-powers.md#section-311).]
+
+
+<a id="section-311"></a>
+## § 311. Definitions
+
+In this subchapter:
+
+(1) **Agency.—** — The term “agency” means an agency referred to under [section 901(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section901/b&num=0&edition=prelim).
+
+(2) **Director.—** — The term “Director” means the Director of the Office of Management and Budget.
+
+(3) **Evaluation.—** — The term “evaluation” means an assessment using systematic data collection and analysis of one or more programs, policies, and organizations intended to assess their effectiveness and efficiency.
+
+(4) **Evidence.—** — The term “evidence” has the meaning given that term in [section 3561 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3561&num=0&edition=prelim).
+
+(5) **State.—** — The term “State” means each of the several States, the District of Columbia, each territory or possession of the United States, and each federally recognized governing body of any Indian Tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+(6) **Statistical activities; statistical agency or unit; statistical purpose.—** — The terms “statistical activities”, “statistical agency or unit”, and “statistical purpose” have the meanings given those terms in [section 3561 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3561&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under [section 306 of this title](./chapter-003-powers.md#section-306).
+
+#### Evaluation and Personnel Standards
+Pub. L. 115–435, title I, § 101(e), Jan. 14, 2019, 132 Stat. 5534, provided that: “(1) Requirement.—Not later than 1 year after the date of enactment of this Act [Jan. 14, 2019], the Director of the Office of Management and Budget, in consultation with any interagency council relating to evaluation, shall—“(A) issue guidance for program evaluation for agencies consistent with widely accepted standards for evaluation; and “(B) identify best practices for evaluation that would improve Federal program evaluation. “(2) Guidance.—Not later than 90 days after the date on which the guidance under paragraph (1) is issued, the head of each agency shall oversee the implementation of such guidance. “(3) OPM guidance.—Not later than 180 days after the date on which the guidance under paragraph (1) is issued, the Director of the Office of Personnel Management, in consultation with the Director of the Office of Management and Budget, shall—“(A) identify key skills and competencies needed for program evaluation in an agency; “(B) establish a new occupational series, or update and improve an existing occupational series, for program evaluation within an agency; and “(C) establish a new career path for program evaluation within an agency. “(4) Definitions.—In this Act [see Short Title of 2019 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)]:“(A) Agency.—Except as otherwise provided, the term ‘agency’ has the meaning given the term ‘Executive agency’ under section 105 [probably means [section 105 of title 5](./chapter-001-organization.md#section-105), United States Code]. “(B) Evaluation.—The term ‘evaluation’ has the meaning given that term in [section 311 of title 5](./chapter-003-powers.md#section-311), United States Code, as added by subsection (a).”
+
+
+<a id="section-312"></a>
+## § 312. Agency evidence-building plan
+**(a) Requirement.—** The head of each agency shall include in the strategic plan required under section 306 a systematic plan for identifying and addressing policy questions relevant to the programs, policies, and regulations of the agency. Such plan shall contain the following:
+
+(1) A list of policy-relevant questions for which the agency intends to develop evidence to support policymaking.
+
+(2) A list of data the agency intends to collect, use, or acquire to facilitate the use of evidence in policymaking.
+
+(3) A list of methods and analytical approaches that may be used to develop evidence to support policymaking.
+
+(4) A list of any challenges to developing evidence to support policymaking, including any statutory or other restrictions to accessing relevant data.
+
+(5) A description of the steps the agency will take to accomplish paragraphs (1) and (2).
+
+(6) Any other information as required by guidance issued by the Director.
+
+**(b) Evaluation Plan.—** The head of each agency shall issue in conjunction with the performance plan required under [section 1115(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115/b&num=0&edition=prelim), an evaluation plan describing activities the agency plans to conduct pursuant to subsection (a) of this section during the fiscal year following the year in which the performance plan is submitted. Such plan shall—
+
+(1) describe key questions for each significant evaluation study that the agency plans to begin in the next fiscal year;
+
+(2) describe key information collections or acquisitions the agency plans to begin in the next fiscal year; and
+
+(3) any 11 So in original. other information included in guidance issued by the Director under subsection (a)(6).
+
+**(c) Consultation.—** In developing the plan required under subsection (a), the head of an agency shall consult with stakeholders, including the public, agencies, State and local governments, and representatives of non-governmental researchers.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under [section 306 of this title](./chapter-003-powers.md#section-306).
+
+
+<a id="section-313"></a>
+## § 313. Evaluation Officers
+**(a) Establishment.—** The head of each agency shall designate a senior employee of the agency as the Evaluation Officer of the agency.
+
+**(b) Qualifications.—** The Evaluation Officer of an agency shall be appointed or designated without regard to political affiliation and based on demonstrated expertise in evaluation methodology and practices and appropriate expertise to the disciplines of the agency.
+
+**(c) Coordination.—** The Evaluation Officer of an agency shall, to the extent practicable, coordinate activities with agency officials necessary to carry out the functions required under subsection (d).
+
+**(d) Functions.—** The Evaluation Officer of each agency shall—
+
+(1) continually assess the coverage, quality, methods, consistency, effectiveness, independence, and balance of the portfolio of evaluations, policy research, and ongoing evaluation activities of the agency;
+
+(2) assess agency capacity to support the development and use of evaluation;
+
+(3) establish and implement an agency evaluation policy; and
+
+(4) coordinate, develop, and implement the plans required under section 312.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under [section 306 of this title](./chapter-003-powers.md#section-306).
+
+
+<a id="section-314"></a>
+## § 314. Statistical expertise
+**(a) In General.—** The head of each agency shall designate the head of any statistical agency or unit within the agency, or in the case of an agency that does not have a statistical agency or unit, any senior agency official with appropriate expertise, as a statistical official to advise on statistical policy, techniques, and procedures. Agency officials engaged in statistical activities may consult with any such statistical official as necessary.
+
+**(b) Membership on Interagency Council on Statistical Policy.—** Each statistical official designated under subsection (a) shall serve as a member of the Interagency Council on Statistical Policy established under [section 3504(e)(8) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504/e/8&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under [section 306 of this title](./chapter-003-powers.md#section-306).
+
+
+<a id="section-315"></a>
+## § 315. Advisory Committee on Data for Evidence Building
+**(a) Establishment.—** The Director, or the head of an agency designated by the Director, shall establish an Advisory Committee on Data for Evidence Building (in this section referred to as the “Advisory Committee”) to review, analyze, and make recommendations on how to promote the use of Federal data for evidence building.
+
+**(b) Membership.—** The members of the Advisory Committee shall consist of the Chief Statistician of the United States, who shall serve as the Chair of the Advisory Committee, and other members appointed by the Director as follows:
+
+(1) One member who is an agency Chief Information Officer.
+
+(2) One member who is an agency Chief Privacy Officer.
+
+(3) One member who is an agency Chief Performance Officer.
+
+(4) Three members who are agency Chief Data Officers.
+
+(5) Three members who are agency Evaluation Officers.
+
+(6) Three members who are members of the Interagency Council for Statistical Policy 11 So in original. Probably should be “Interagency Council on Statistical Policy”. established under [section 3504(e)(8) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504/e/8&num=0&edition=prelim).
+
+(7) At least 10 members who are representatives of State and local governments and nongovernmental stakeholders with expertise in government data policy, privacy, technology, transparency policy, evaluation and research methodologies, and other relevant subjects, of whom—
+
+  (A) at least one shall have expertise in transparency policy;
+
+  (B) at least one shall have expertise in privacy policy;
+
+  (C) at least one shall have expertise in statistical data use;
+
+  (D) at least one shall have expertise in information management;
+
+  (E) at least one shall have expertise in information technology; and
+
+  (F) at least one shall be from the research and evaluation community.
+
+**(c) Term of Service.—**
+
+(1) **In general.—** — Each member of the Advisory Committee shall serve for a term of 2 years.
+
+(2) **Vacancy.—** — Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+
+**(d) Compensation.—** Members of the Advisory Committee shall serve without compensation.
+
+**(e) Duties.—** The Advisory Committee shall—
+
+(1) assist the Director in carrying out the duties of the Director under part D of subchapter III of chapter 35 of title 44;
+
+(2) evaluate and provide recommendations to the Director on how to facilitate data sharing, enable data linkage, and develop privacy enhancing techniques; and
+
+(3) review the coordination of data sharing or availability for evidence building across all agencies.
+
+**(f) Reports.—** The Advisory Committee shall submit to the Director and make publicly available an annual report on the activities and findings of the Advisory Committee.
+
+**(g) Termination.—** The Advisory Committee shall terminate not later than two years after the date of the first meeting.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under [section 306 of this title](./chapter-003-powers.md#section-306).

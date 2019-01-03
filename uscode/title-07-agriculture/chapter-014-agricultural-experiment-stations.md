@@ -129,11 +129,7 @@ Section was formerly classified to [section 363 of this title](https://uscode.ho
 
 **(g) Reductions and reapportionments** If in any year the amount made available by a State from its own funds (including any revenue-sharing funds) to a State agricultural experiment station is reduced because of an increase in the allotment made available under sections 361a to 361i of this title, the allotment to the State agricultural experiment station from the appropriation in the next succeeding fiscal year shall be reduced in an equivalent amount. The Secretary shall reapportion the amount of such reduction to other States for use by their agricultural experiment stations.
 
-**(h) Peer review and plan of work**
-
-(1) **Peer review** — Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of [section 7613(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7613/e&num=0&edition=prelim).
-
-(2) **Plan of work** — The State shall include in the plan of work of the State required under [section 361g of this title](./chapter-014-agricultural-experiment-stations.md#section-361g) a description of the manner in which the State will meet the requirements of subsection (c)(3).
+**(h) Peer review** Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this subsection shall be considered to satisfy the merit review requirements of [section 7613(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7613/e&num=0&edition=prelim).
 
 **(i) Integration of research and extension**
 
@@ -150,8 +146,6 @@ Section was formerly classified to [section 363 of this title](https://uscode.ho
     (ii) twice the percentage for the State determined under subparagraph (A).
 
   (C) *Reduction by Secretary* — The Secretary of Agriculture may reduce the minimum percentage required to be expended by a State for integrated activities under subparagraph (B) in a case of hardship, infeasibility, or other similar circumstance beyond the control of the State, as determined by the Secretary.
-
-  (D) *Plan of work* — The State shall include in the plan of work of the State required under [section 361g of this title](./chapter-014-agricultural-experiment-stations.md#section-361g) or [section 344 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-344), as applicable, a description of the manner in which the State will meet the requirements of this paragraph.
 
 (3) **Applicability** — This subsection does not apply to funds provided—
 
@@ -174,6 +168,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Prior to being amended generally by act Aug. 11, 1955, ch. 790, § 1, 69 Stat. 671, section 3 of act Mar. 2, 1887, which comprises this section, consisted of two sentences. The first sentence was classified to former [section 368 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section368&num=0&edition=prelim). The second sentence was superseded by act Feb. 24, 1925, ch. 308, § 3, 43 Stat. 971, which was classified to former [section 366 of this title](./chapter-014-agricultural-experiment-stations.md#section-366) and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674.
 
 #### Amendments
+2018—Subsec. (h). Pub. L. 115–334, § 7612(b)(1)(A), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to peer review and plan of work.
+
+Subsec. (i)(2)(D). Pub. L. 115–334, § 7612(b)(1)(B), struck out subpar. (D). Prior to amendment, text read as follows: “The State shall include in the plan of work of the State required under [section 361g of this title](./chapter-014-agricultural-experiment-stations.md#section-361g) or [section 344 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-344), as applicable, a description of the manner in which the State will meet the requirements of this paragraph.”
+
 2008—Subsec. (d)(4). Pub. L. 110–246, § 7404(a)(1), inserted “and the District of Columbia” after “areas” in heading.
 
 Subsec. (d)(4)(A). Pub. L. 110–246, § 7404(a)(2), inserted “and the District of Columbia” after “United States” and after “respectively,”.
@@ -310,13 +308,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(e) Requirements related to plan of work** Each plan of work for a State required under subsection (d) shall contain descriptions of the following:
 
-(1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
+(1) A summary of planned projects or programs in the State using formula funds.
 
-(2) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
+(2) A description of the manner in which the State will meet the requirements of subsections (c)(3) and (i)(2) of [section 361c of this title](./chapter-014-agricultural-experiment-stations.md#section-361c).
 
-(3) The efforts made to identify and collaborate with other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State and the extent of current and emerging efforts (including regional efforts) to work with those other institutions.
-
-(4) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.
+(3) A description of matching funds provided by the State with respect to the previous fiscal year.
 
 **(f) Research protocols**
 
@@ -332,6 +328,16 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Section was formerly classified to [section 379 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section379&num=0&edition=prelim). See [section 361h of this title](./chapter-014-agricultural-experiment-stations.md#section-361h).
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 added pars. (1) to (3) and struck out former pars. (1) to (4) which read as follows:
+
+“(1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
+
+“(2) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
+
+“(3) The efforts made to identify and collaborate with other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State and the extent of current and emerging efforts (including regional efforts) to work with those other institutions.
+
+“(4) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.”
+
 2002—Subsec. (c). Pub. L. 107–171 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned.”
 
 1998—Pub. L. 105–185, § 202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
@@ -691,7 +697,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 In this subchapter:
 
-(1) **Agricultural research facility** — The term “agricultural research facility” means a proposed facility for research in food and agricultural sciences for which Federal funds are requested by a college, university, or nonprofit institution to assist in the construction, alteration, acquisition, modernization, renovation, or remodeling of the facility.
+(1) **Agricultural research facility** — The term “agricultural research facility” means a proposed facility for research in food and agricultural sciences for which Federal funds are requested by an entity eligible to receive funds under a capacity and infrastructure program (as defined in [section 6971(f)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6971/f/1/C&num=0&edition=prelim)) to assist in the construction, alteration, acquisition, modernization, renovation, or remodeling of the facility.
 
 (2) **Congressional agriculture committees** — The term “congressional agriculture committees” means the Committee on Appropriations and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
@@ -710,6 +716,8 @@ A prior section 390, Pub. L. 88–74, § 1, July 22, 1963, 77 Stat. 90; Pub. L. 
 A prior section 2 of Pub. L. 88–74 was classified to [section 390a of this title](./chapter-014-agricultural-experiment-stations.md#section-390a) prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–334 substituted “an entity eligible to receive funds under a capacity and infrastructure program (as defined in [section 6971(f)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6971/f/1/C&num=0&edition=prelim))” for “a college, university, or nonprofit institution”.
+
 2008—Par. (3). Pub. L. 110–246, § 7101(b)(1), substituted “3103” for “3103(8)”.
 
 2002—Par. (3). Pub. L. 107–171, § 7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means—
@@ -762,7 +770,7 @@ Pub. L. 88–74, § 1, as added by Pub. L. 104–127, title VIII, § 884(a), Apr
 
     (ii) national or multistate needs.
 
-  (D) *Long-term support* — The proposal shall demonstrate that the recipient college, university, or nonprofit institution has the ability and commitment to support the long-term, ongoing operating costs of—
+  (D) *Long-term support* — The proposal shall demonstrate that the recipient entity has the ability and commitment to support the long-term, ongoing operating and maintenance costs of—
 
     (i) the agricultural research facility after the facility is completed; and
 
@@ -784,19 +792,24 @@ A prior section 390a, Pub. L. 88–74, § 2, July 22, 1963, 77 Stat. 90; Pub. L.
 A prior section 3 of Pub. L. 88–74 was classified to [section 390b of this title](./chapter-014-agricultural-experiment-stations.md#section-390b) prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+2018—Subsec. (c)(2)(D). Pub. L. 115–334, in introductory provisions, substituted “recipient entity” for “recipient college, university, or nonprofit institution” and “operating and maintenance costs” for “operating costs”.
+
 1998—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, § 106(a), substituted “national or multistate needs” for “regional needs”.
 
 Subsec. (e). Pub. L. 105–185, § 106(b), added subsec. (e).
 
 
 <a id="section-390b"></a>
-## § 390b. Repealed. Pub. L. 107–171, title VII, § 7308(a), May 13, 2002, 116 Stat. 455
+## § 390b. Competitive grant program
+
+The Secretary shall establish a program to make competitive grants to assist in the construction, alteration, acquisition, modernization, renovation, or remodeling of agricultural research facilities.
 
 ### Statutory Notes
 
-Section, Pub. L. 88–74, § 4, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1178; amended Pub. L. 105–185, title I, § 106(c), (d), June 23, 1998, 112 Stat. 530, related to task force on 10–year strategic plan for agricultural research facilities.
+#### Prior Provisions
+A prior section 390b, Pub. L. 88–74, § 4, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1178; amended Pub. L. 105–185, title I, § 106(c), (d), June 23, 1998, 112 Stat. 530, related to task force on 10–year strategic plan for agricultural research facilities, prior to repeal by Pub. L. 107–171, title VII, § 7308(a), May 13, 2002, 116 Stat. 455.
 
-A prior section 390b, Pub. L. 88–74, § 3, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(1), Sept. 29, 1977, 91 Stat. 994; Pub. L. 99–198, title XIV, § 1411(c), Dec. 23, 1985, 99 Stat. 1547, related to definitions, prior to the general amendment of this subchapter by Pub. L. 104–127.
+Another prior section 390b, Pub. L. 88–74, § 3, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(1), Sept. 29, 1977, 91 Stat. 994; Pub. L. 99–198, title XIV, § 1411(c), Dec. 23, 1985, 99 Stat. 1547, related to definitions, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 4 of Pub. L. 88–74 was classified to [section 390c of this title](./chapter-014-agricultural-experiment-stations.md#section-390c) prior to the general amendment of this subchapter by Pub. L. 104–127.
 
@@ -821,9 +834,13 @@ A prior section 5 of Pub. L. 88–74 was classified to [section 390d of this tit
 
 <a id="section-390d"></a>
 ## § 390d. Authorization of appropriations
-**(a) In general** Subject to subsection (b), there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2018 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
+**(a) In general** Subject to subsections (b), (c), and (d), there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2023 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter. Funds appropriated pursuant to the preceding sentence shall be available until expended.
 
 **(b) Allowable administrative costs** Not more than 3 percent of the funds made available for any project for an agricultural research facility shall be available for administration of the project.
+
+**(c) Maximum amount** Not more than 25 percent of the funds made available pursuant to subsection (a) for any fiscal year shall be used for any single agricultural research facility project.
+
+**(d) Project limitation** An entity eligible to receive funds under this subchapter may receive funds for only one project at a time.
 
 ### Statutory Notes
 
@@ -858,6 +875,10 @@ A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified
 A prior section 390k, Pub. L. 88–74, § 12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 7503(d)(1), substituted “subsections (b), (c), and (d),” for “subsection (b),” and “2023” for “2018” and inserted at end “Funds appropriated pursuant to the preceding sentence shall be available until expended.”
+
+Subsecs. (c), (d). Pub. L. 115–334, § 7503(d)(2), added subsecs. (c) and (d).
+
 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Subsec. (a). Pub. L. 110–246, § 7405, substituted “2012” for “2007”.

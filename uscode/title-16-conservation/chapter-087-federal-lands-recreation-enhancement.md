@@ -534,7 +534,7 @@ Not later than May 1, 2006, and every 3 years thereafter, the Secretary shall su
 <a id="section-6809"></a>
 ## § 6809. Sunset provision
 
-The authority of the Secretary to carry out this chapter shall terminate September 30, 2018.
+The authority of the Secretary to carry out this chapter shall terminate September 30, 2019.
 
 ### Statutory Notes
 
@@ -542,6 +542,8 @@ The authority of the Secretary to carry out this chapter shall terminate Septemb
 This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
 
 #### Amendments
+2017—Pub. L. 115–56 substituted “September 30, 2019” for “September 30, 2018”.
+
 2016—Pub. L. 114–223 substituted “September 30, 2018” for “September 30, 2017”.
 
 2015—Pub. L. 114–53 substituted “September 30, 2017.” for “on September 30, 2016.”

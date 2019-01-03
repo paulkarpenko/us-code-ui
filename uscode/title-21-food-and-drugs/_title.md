@@ -2,7 +2,7 @@
 title: 21
 heading: FOOD AND DRUGS
 positive_law: false
-sections: 692
+sections: 696
 chapters: 28
 ---
 # Title 21. FOOD AND DRUGS

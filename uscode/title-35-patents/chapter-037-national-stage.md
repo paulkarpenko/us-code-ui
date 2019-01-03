@@ -89,7 +89,7 @@ Amendment by section 402(a)–(d) of Pub. L. 98–622 effective six months after
 Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 #### Effective Date
-Chapter effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 
 <a id="section-372"></a>
@@ -130,6 +130,9 @@ Amendment by section 402(e), (f) of Pub. L. 98–622 effective six months after 
 
 Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
 
 <a id="section-373"></a>
 ## § 373. Repealed. Pub. L. 112–274, § 1(i), Jan. 14, 2013, 126 Stat. 2457]
@@ -166,6 +169,9 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under [section 10 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-10).
 
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
 
 <a id="section-375"></a>
 ## § 375. Patent issued on international application: Effect
@@ -191,6 +197,9 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-1).
+
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 
 <a id="section-376"></a>
@@ -240,3 +249,6 @@ Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all inte
 Amendment by section 402(g) of Pub. L. 98–622 effective six months after Nov. 8, 1984, see section 406(b) of Pub. L. 98–622, set out as a note under [section 3 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-3).
 
 Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).

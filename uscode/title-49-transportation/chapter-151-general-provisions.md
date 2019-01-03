@@ -36,7 +36,7 @@ Provisions similar to those in this section were contained in [section 10101 of 
 1997—Subsec. (a). Pub. L. 105–102 struck out “of” after “Government to oversee”.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### GAO Report
 Pub. L. 104–88, title I, § 106(b), Dec. 29, 1995, 109 Stat. 932, directed the Comptroller General, within 3 years after Jan. 1, 1996, to transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report regarding the impact of regulations on the competitiveness of pipelines and to recommend whether to continue, revise, or sunset such regulations.
@@ -68,6 +68,9 @@ In this part—
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10102 of this title](./chapter-101-general-provisions.md#section-10102) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-15103"></a>
 ## § 15103. Remedies as cumulative
@@ -78,3 +81,6 @@ Except as otherwise provided in this part, the remedies provided under this part
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10103&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

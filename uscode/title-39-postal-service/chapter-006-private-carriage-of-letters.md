@@ -41,7 +41,7 @@ source: >-
 Pub. L. 109–435, title V, § 503(b), Dec. 20, 2006, 120 Stat. 3235, provided that: “This section [amending this section] shall take effect on the date as of which the regulations promulgated under [section 3633 of title 39](./chapter-036-postal-rates-classes-and-services.md#section-3633), United States Code (as amended by section 202) take effect [Dec. 10, 2007, 72 F.R. 63662, 64155].”
 
 #### Effective Date
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Study of Private Carriage of Mail: Reports to President and Congress
 Section 7 of Pub. L. 91–375 required the Board of Governors of the United States Postal Service to make a study of the restrictions on the private carriage of letters and packets and to submit a report and recommendations for modernization to the President and to the Congress within 2 years after the effective date of this section.
@@ -61,6 +61,11 @@ Provisions of section 7 of Pub. L. 91–375 effective within 1 year after Aug. 1
 
 **(c)** Except as provided in [section 1699 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1699&num=0&edition=prelim), the master of a vessel arriving at a port of the United States carrying letters not regularly in the mails shall deposit them in the post office at the port of arrival.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-603"></a>
 ## § 603. Searches authorized
@@ -73,11 +78,21 @@ The Postal Service may authorize any officer or employee of the Postal Service t
 
 (3) store or office, other than a dwelling house, used or occupied by a common carrier or transportation company, in which an article may be contained.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-604"></a>
 ## § 604. Seizing and detaining letters
 
 An officer or employee of the Postal Service performing duties related to the inspection of postal matters, a customs officer, or United States marshal or his deputy, may seize at any time, letters and bags, packets, or parcels containing letters which are being carried contrary to law on board any vessel or on any post road. The officer or employee who makes the seizure shall convey the articles seized to the nearest post office, or, by direction of the Postal Service or the Secretary of the Treasury, he may detain them until 2 months after the final determination of all suits and proceedings which may be brought within 6 months after the seizure against any person for sending or carrying the letters.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-605"></a>
@@ -85,8 +100,18 @@ An officer or employee of the Postal Service performing duties related to the in
 
 An officer or employee of the Postal Service performing duties related to the inspection of postal matters, when instructed by the Postal Service to make examinations and seizures, and any customs officer without special instructions shall search vessels for letters which may be on board, or which may have been conveyed contrary to law.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-606"></a>
 ## § 606. Disposition of seized mail
 
 Every package or parcel seized by an officer or employee of the Postal Service performing duties related to the inspection of postal matters, a customs officer, or United States marshal or his deputies, in which a letter is unlawfully concealed, shall be forfeited to the United States. The same proceedings may be used to enforce forfeitures as are authorized in respect of goods, wares, and merchandise forfeited for violation of the revenue laws. Laws for the benefit and protection of customs officers making seizures for violating revenue laws apply to officers and employees making seizures for violating the postal laws.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).

@@ -506,7 +506,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
   (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2017.
+  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2019.
 
 **(c) Basic Allowance for Housing Outside the United States.—**
 
@@ -694,6 +694,10 @@ In subsection (f), the words “may be used” are substituted for the words “
 In subsection (g), the word “including” is substituted for the words “and such regulations shall include, but not be limited to”.
 
 #### Amendments
+2018—Subsec. (b)(7)(E). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (b)(7)(E). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (b)(7)(E). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (b)(3)(B). Pub. L. 114–92, § 603, substituted “may not exceed the following:” for “may not exceed one percent.” and added cls. (i) to (v).
@@ -1065,7 +1069,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 #### Special Rule
 Pub. L. 113–291, div. A, title VI, § 604(b), Dec. 19, 2014, 128 Stat. 3399, which provided that reduction in housing allowance authorized by [section 403(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/b/3&num=0&edition=prelim), as amended by Pub. L. 113–291, was not applicable with respect to certain benefits paid by the Secretary of Veterans Affairs and such benefits would be subject to section 403(b)(3) as it read the day before Dec. 19, 2014, was repealed by Pub. L. 115–48, title V, § 501(a), Aug. 16, 2017, 131 Stat. 996.
 
-[Pub. L. 115–48, title V, § 501(b), Aug. 16, 2017, 131 Stat. 996, provided that: “The amendment made by subsection (a) [repealing section 604(b) of Pub. L. 113–291, above] shall take effect on January 1, 2018, and shall apply with respect to individuals who first use their entitlement to educational assistance under chapter 33 of title 38, United States Code, on or after such date.” ]
+[Pub. L. 115–48, title V, § 501(b), Aug. 16, 2017, 131 Stat. 996, provided that: “The amendment made by subsection (a) [repealing section 604(b) of Pub. L. 113–291, formerly set out above] shall take effect on January 1, 2018, and shall apply with respect to individuals who first use their entitlement to educational assistance under chapter 33 of title 38, United States Code, on or after such date.” ]
 
 #### Transitional Provisions
 Pub. L. 112–239, div. A, title VI, § 604(b), Jan. 2, 2013, 126 Stat. 1774, as amended by Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that: “(1) In general.—The basic allowance for housing paid to a member of a reserve component described in subparagraph (A) of paragraph (6) of [section 403(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/g&num=0&edition=prelim), United States Code, as added by subsection (a), who on January 2, 2013, is being paid basic allowance for housing at a rate that is based on a housing area other than the member’s permanent duty station, shall be paid at that current rate until the member is assigned to perform duty at the member’s permanent duty station, at which time the member shall be paid basic allowance for housing at the prevailing permanent duty station housing area rate or at the permanent duty station housing rate for which the member has qualified under such paragraph (6). “(2) Alternative rate.—The Secretary of a military department, with the approval of the Secretary of Defense, may pay a member covered by paragraph (1) and under the jurisdiction of that Secretary a basic allowance for housing at a rate higher than the rate provided under such paragraph to ensure that the member is treated fairly and equitably or to serve the best interests of the United States.”
@@ -1116,14 +1120,64 @@ Ex. Ord. No. 10204, Jan. 16, 1951, 16 F.R. 417, as amended by Ex. Ord. No. 11120
 
 
 <a id="section-403a"></a>
-## § 403a. Repealed. Pub. L. 105–85, div. A, title VI, § 603(c)(1), Nov. 18, 1997, 111 Stat. 1781]
+## § 403a. Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States
+**(a) Housing Treatment for Certain Members Who Have a Spouse or Other Dependents.—**
+
+(1) **Housing treatment regulations.—** — The Secretary of Defense shall prescribe regulations that permit a member of the armed forces described in paragraph (2) who is undergoing a permanent change of station within the United States to request the housing treatment described in subsection (b) during the covered relocation period of the member.
+
+(2) **Eligible members.—** — A member described in this paragraph is any member who—
+
+  (A) has a spouse who is gainfully employed or enrolled in a degree, certificate or license granting program at the beginning of the covered relocation period;
+
+  (B) has one or more dependents attending an elementary or secondary school at the beginning of the covered relocation period;
+
+  (C) has one or more dependents enrolled in the Exceptional Family Member Program; or
+
+  (D) is caring for an immediate family member with a chronic or long-term illness at the beginning of the covered relocation period.
+
+**(b) Housing Treatment.—**
+
+(1) **Continuation of housing for the spouse and other dependents.—** — If a spouse or other dependent of a member whose request under subsection (a) is approved resides in Government-owned or Government-leased housing at the beginning of the covered relocation period, the spouse or other dependent may continue to reside in such housing during a period determined in accordance with the regulations prescribed pursuant to this section.
+
+(2) **Early housing eligibility.—** — If a spouse or other dependent of a member whose request under subsection (a) is approved is eligible to reside in Government-owned or Government-leased housing following the member’s permanent change of station within the United States, the spouse or other dependent may commence residing in such housing at any time during the covered relocation period.
+
+(3) **Temporary use of government-owned or government-leased housing intended for members without a spouse or dependent.—** — If a spouse or other dependent of a member relocates at a time different from the member in accordance with a request approved under subsection (a), the member may be assigned to Government-owned or Government-leased housing intended for the permanent housing of members without a spouse or dependent until the member’s detachment date or the spouse or other dependent’s arrival date, but only if such Government-owned or Government-leased housing is available without displacing a member without a spouse or dependent at such housing.
+
+(4) **Equitable basic allowance for housing.—** — If a spouse or other dependent of a member relocates at a time different from the member in accordance with a request approved under subsection (a), the amount of basic allowance for housing payable may be based on whichever of the following areas the Secretary concerned determines to be the most equitable:
+
+  (A) The area of the duty station to which the member is reassigned.
+
+  (B) The area in which the spouse or other dependent resides, but only if the spouse or other dependent resides in that area when the member departs for the duty station to which the member is reassigned, and only for the period during which the spouse or other dependent resides in that area.
+
+  (C) The area of the former duty station of the member, but only if that area is different from the area in which the spouse or other dependent resides.
+
+**(c) Rule of Construction Related to Certain Basic Allowance for Housing Payments.—** Nothing in this section shall be construed to limit the payment or the amount of basic allowance for housing payable under [section 403(d)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/d/3/A&num=0&edition=prelim) to a member whose request under subsection (a) is approved.
+
+**(d) Housing Treatment Education.—** The regulations prescribed pursuant to this section shall ensure the relocation assistance programs under [section 1056 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1056&num=0&edition=prelim) include, as part of the assistance normally provided under such section, education about the housing treatment available under this section.
+
+**(e) Definitions.—** In this section:
+
+(1) **Covered relocation period.—**
+
+  (A) Subject to subparagraph (B), the term “covered relocation period”, when used with respect to a permanent change of station of a member of the armed forces, means the period that—
+
+    (i) begins 180 days before the date of the permanent change of station; and
+
+    (ii) ends 180 days after the date of the permanent change of station.
+
+  (B) The regulations prescribed pursuant to this section may provide for a shortening or lengthening of the covered relocation period of a member for purposes of this section.
+
+(2) **Dependent.—** — The term “dependent” has the meaning given that term in [section 401 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-401).
+
+(3) **Permanent change of station.—** — The term “permanent change of station” means a permanent change of station described in [section 452(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452/b/2&num=0&edition=prelim).
 
 ### Statutory Notes
 
-Section, added Pub. L. 98–525, title VI, § 602(d)(1), Oct. 19, 1984, 98 Stat. 2534; amended Pub. L. 99–145, title VI, §§ 602(a)–(d), 604(b), Nov. 8, 1985, 99 Stat. 636–638; Pub. L. 100–26, § 8(e)(8), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, § 602(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, § 602, Nov. 5, 1990, 104 Stat. 1575; Pub. L. 102–25, title VII, § 702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§ 603, 604(b), 633, Dec. 5, 1991, 105 Stat. 1373, 1374, 1381; Pub. L. 103–160, div. A, title VI, § 604, Nov. 30, 1993, 107 Stat. 1679; Pub. L. 104–106, div. A, title VI, § 605(a)(1), (b), Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §§ 604(d), 606(a)–(d), Sept. 23, 1996, 110 Stat. 2541, 2542, related to variable housing allowances.
+#### Prior Provisions
+A prior section 403a, added Pub. L. 98–525, title VI, § 602(d)(1), Oct. 19, 1984, 98 Stat. 2534; amended Pub. L. 99–145, title VI, §§ 602(a)–(d), 604(b), Nov. 8, 1985, 99 Stat. 636–638; Pub. L. 100–26, § 8(e)(8), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, § 602(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, § 602, Nov. 5, 1990, 104 Stat. 1575; Pub. L. 102–25, title VII, § 702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§ 603, 604(b), 633, Dec. 5, 1991, 105 Stat. 1373, 1374, 1381; Pub. L. 103–160, div. A, title VI, § 604, Nov. 30, 1993, 107 Stat. 1679; Pub. L. 104–106, div. A, title VI, § 605(a)(1), (b), Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §§ 604(d), 606(a)–(d), Sept. 23, 1996, 110 Stat. 2541, 2542, related to variable housing allowances, prior to repeal by Pub. L. 105–85, div. A, title VI, § 603(c)(1), Nov. 18, 1997, 111 Stat. 1781.
 
-#### Effective Date of Repeal
-Repeal effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as an Effective Date of 1997 Amendment note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees.
+#### Effective Date
+Pub. L. 115–91, div. A, title VI, § 604(b), Dec. 12, 2017, 131 Stat. 1420, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2018.”
 
 
 <a id="section-403b"></a>
@@ -1376,19 +1430,7 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 
 (5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or Chief of the National Guard Bureau.
 
-**(b) Allowance for Certain Naval Officers.—** In addition to other pay or allowances authorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
-
-(1) President of the Naval Postgraduate School—$400;
-
-(2) Commandant of Midshipmen at the Naval Academy—$800;
-
-(3) President of the Naval War College—$1,000;
-
-(4) Superintendent of the Naval Academy—$5,200; and
-
-(5) Director of Naval Intelligence—$5,200.
-
-**(c) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
+**(b) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
 
 ### Statutory Notes
 
@@ -1401,6 +1443,8 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 In subsection (b), the words “pay or” are inserted to conform to subsection (a). The word “position” is substituted for the words “capacities” and “officers”, respectively. In clause (1), the words “Superintendent of the Naval Postgraduate School” are substituted for the words “Head of the Postgraduate school at the Naval Academy” to reflect present terminology.
 
 #### Amendments
+2018—Subsecs. (b), (c). Pub. L. 115–232 redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to allowance for certain naval officers.
+
 2014—Subsec. (a)(5). Pub. L. 113–291, § 603(c)(1), substituted “Commandant of the Coast Guard, or Chief of the National Guard Bureau” for “or Commandant of the Coast Guard”.
 
 Subsec. (c). Pub. L. 113–291, § 603(c)(2), substituted “the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau” for “or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff”.
@@ -1424,6 +1468,9 @@ Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(a)], added subs
 1991—Subsec. (a)(3). Pub. L. 102–25 struck out “of this subsection” after “clause (1)”.
 
 1966—Subsec. (a)(2). Pub. L. 89–718 struck out reference to service as the Director of the Coast and Geodetic Survey.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. A, title VI, § 601(b), Aug. 13, 2018, 132 Stat. 1794, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on December 31, 2018, and shall apply with respect to personal money allowances payable under [section 414 of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-414), United States Code, for years beginning after that date.”
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–291 effective on Dec. 19, 2014 and applicable with respect to months of service that begin on or after that date, see section 603(e) of Pub. L. 113–291, set out as a note under [section 1406 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1406&num=0&edition=prelim), Armed Forces.
@@ -1640,6 +1687,10 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
   (B) cannot be met with athletic footwear that complies with the requirements of this subsection.
 
+(4) This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, or the Marine Corps upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
+
+(5) The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1653,6 +1704,8 @@ The words “the armed forces” are substituted for the words “the Army, the 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (d)(2)(B), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Amendments
+2017—Subsec. (d)(4), (5). Pub. L. 115–91 added pars. (4) and (5).
+
 2016—Subsec. (d). Pub. L. 114–328 added subsec. (d).
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -1828,7 +1881,7 @@ The Pay Readjustment Act of 1942, referred to in text, is act June 16, 1942, ch.
 
 **(b)** The leader of the United States Navy Band is entitled to the allowances of a lieutenant of the Navy.
 
-**(c)** A member of the Marine Corps who is appointed as director or assistant director of the United States Marine Corps Band under [section 6222 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6222&num=0&edition=prelim), is entitled, while serving thereunder, only to the allowances of an officer in the grade in which he is serving. However, his allowances may not be less than those to which he was entitled at the time of his appointment under that section.
+**(c)** A member of the Marine Corps who is appointed as director or assistant director of the United States Marine Corps Band under [section 8287 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8287&num=0&edition=prelim), is entitled, while serving thereunder, only to the allowances of an officer in the grade in which he is serving. However, his allowances may not be less than those to which he was entitled at the time of his appointment under that section.
 
 **(d)** The leader of the Naval Academy Band is entitled to the allowances of the pay grade prescribed for him by the Secretary of Navy under [section 207(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section207/e&num=0&edition=prelim). The second leader is entitled to the allowances of a warrant officer, W–1.
 
@@ -1846,9 +1899,14 @@ The Pay Readjustment Act of 1942, referred to in text, is act June 16, 1942, ch.
 | 424(e) | 10:6969(b) (less last sentence, and less applicability to basic pay). | [None.] |
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “[section 8287 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8287&num=0&edition=prelim)” for “[section 6222 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6222&num=0&edition=prelim)”.
+
 1978—Subsecs. (b) to (f). Pub. L. 95–551 redesignated subsecs. (c) to (f) as (b) to (e), respectively. Former subsec. (b), which provided that the director of music at the United States Military Academy be entitled to allowances of a commissioned officer of the rank prescribed for the director by the Secretary of the Army, was struck out.
 
 1965—Subsec. (f). Pub. L. 89–189 added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -2138,7 +2196,7 @@ Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 171
 
     (i) under a call or order to active duty for a period of more than 30 days that is the second (or later) such call or order to active duty (whether voluntary or involuntary) for that member in support of the same contingency operation; or
 
-    (ii) for a period of more than 30 days under a provision of law referred to in [section 101(a)(13)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim), if such period begins within one year after the date on which the member was released from previous service on active duty for a period of more than 30 days under a call or order issued under such a provision of law.
+    (ii) for a period of more than 30 days under [section 12304b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304b&num=0&edition=prelim) or a provision of law referred to in [section 101(a)(13)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim), if such period begins within one year after the date on which the member was released from previous service on active duty for a period of more than 30 days under a call or order issued under such a provision of law.
 
 **(b) Definition of Deployed.—** In this section, the term “deployed”, with respect to a member, means that the member is deployed or in a deployment within the meaning of [section 991(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section991/b&num=0&edition=prelim) (including any definition of “deployment” prescribed under paragraph (4) of that section).
 
@@ -2157,6 +2215,8 @@ Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 171
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(2)(C)(ii). Pub. L. 115–232 inserted “[section 12304b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304b&num=0&edition=prelim) or” before “a provision of law referred to”.
+
 2011—Subsec. (a). Pub. L. 112–81 substituted “may pay” for “shall pay” in introductory provisions.
 
 2003—Pub. L. 108–136, § 541(b)(5)(A), substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in section catchline.

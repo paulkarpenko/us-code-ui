@@ -620,18 +620,23 @@ The Board of Governors of the Federal Reserve System shall be authorized and emp
 
 (2) **Companies** — The companies described in this paragraph are—
 
-  (A) all bank holding companies having total consolidated assets of $50,000,000,000 or more;
+  (A) all bank holding companies having total consolidated assets of $100,000,000,000 or more;
 
-  (B) all savings and loan holding companies having total consolidated assets of $50,000,000,000 or more; and
+  (B) all savings and loan holding companies having total consolidated assets of $100,000,000,000 or more; and
 
   (C) all nonbank financial companies supervised by the Board under [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323).
 
+(3) **Tailoring assessments** — In collecting assessments, fees, or other charges under paragraph (1) from each company described in paragraph (2) with total consolidated assets of between $100,000,000,000 and $250,000,000,000, the Board shall adjust the amount charged to reflect any changes in supervisory and regulatory responsibilities resulting from the Economic Growth, Regulatory Relief, and Consumer Protection Act with respect to each such company.
+
 ### Statutory Notes
+
+#### Delayed Effective Date of Amendment
+For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 #### References in Text
 Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(2), was in the original “section 19 of the Federal Reserve Act”. Provisions of section 19 relating to reserve requirements are classified to the cited sections. For complete classification of section 19 to the Code, see References in Text note set out under [section 461 of this title](./chapter-003-federal-reserve-system.md#section-461).
 
-This chapter, referred to in subsecs. (c), (h), (i), (n), (r)(1), and (s)(1), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in subsecs. (c), (h), (i), (n), and (r)(1) and in par. (1) of the first subsec. (s) (relating to Federal Reserve transparency and release of information), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 Reference in subsec. (e) to “section 20 of this Act” means section 20 of the Federal Reserve Act which is not classified to the Code. Since section 20 does not set forth any reserve requirements, section 19 of the Federal Reserve Act might have been intended. For provisions of section 19 relating to reserve requirements, see note above.
 
@@ -639,9 +644,11 @@ The Act of January sixteenth, eighteen hundred and eighty-three, referred to in 
 
 This title, referred to in subsec. (p), probably should read “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
-Subsection (a) or (c) of section 1109 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (s)(7), is subsec. (a) or (c) of section 1109 of Pub. L. 111–203, title XI, 124 Stat. 2127, 2128, which is not classified to the Code.
+Subsection (a) or (c) of section 1109 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in par. (7) of the first subsec. (s) (relating to Federal Reserve transparency and release of information), is subsec. (a) or (c) of section 1109 of Pub. L. 111–203, title XI, 124 Stat. 2127, 2128, which is not classified to the Code.
 
-July 21, 2010, referred to in subsec. (s)(8)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 111–203 which added subsec. (s), to reflect the probable intent of Congress.
+July 21, 2010, referred to in par. (8)(B) of the first subsec. (s) (relating to Federal Reserve transparency and release of information), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 111–203 which added such subsec. (s), to reflect the probable intent of Congress.
+
+The Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in par. (3) of the second subsec. (s) (relating to assessments, fees, and other charges for certain companies), is Pub. L. 115–174, May 24, 2018, 132 Stat. 1296. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim), Commerce and Trade, and Tables.
 
 #### Codification
 In subsec. (k), “subchapter II of chapter 5, and chapter 7, of title 5” was substituted for “the Administrative Procedure Act” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -649,6 +656,10 @@ In subsec. (k), “subchapter II of chapter 5, and chapter 7, of title 5” was 
 Section is comprised of section 11 of act Dec. 23, 1913. The fourteenth par. of section 16 of act Dec. 23, 1913, which formerly constituted subsec. (o) of this section, is now classified to [section 248–1 of this title](./chapter-003-federal-reserve-system.md#section-248-1).
 
 #### Amendments
+2018—Subsec. (s)(2)(A), (B). Pub. L. 115–174, § 401(c)(2)(A), substituted “$100,000,000,000” for “$50,000,000,000”.
+
+Subsec. (s)(3). Pub. L. 115–174, § 401(c)(2)(B), added par. (3).
+
 2010—Subsec. (a)(2). Pub. L. 111–203, § 366(1)(A), which directed insertion of “State savings associations that are insured depository institutions (as defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)),” after “case of insured”, was executed by making the insertion after “case of insured” in subpar. (B)(i), to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(B)(iii). Pub. L. 111–203, § 366(1)(B), (C), substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision” and inserted “Federal” before “savings association which”.
@@ -716,6 +727,9 @@ Subsec. (n). Act Mar. 9, 1933, added subsec. (n).
 #### Change of Name
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
+#### Effective Date of 2018 Amendment
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
 #### Effective Date of 2010 Amendment
 Amendment by section 318(c) of Pub. L. 111–203 effective on the transfer date, see section 318(e) of Pub. L. 111–203, set out as an Effective Date note under [section 16 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-16).
 
@@ -734,6 +748,9 @@ Pub. L. 96–221, title I, § 108, Mar. 31, 1980, 94 Stat. 141, provided that: �
 
 #### Effective Date of 1959 Amendment
 Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see section 3(b) of Pub. L. 86–114, set out as a Central Reserve and Reserve Cities note under former [section 141 of this title](./chapter-002-national-banks.md#section-141).
+
+#### Construction of 2018 Amendment
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 #### Construction of 1991 Amendment
 Pub. L. 102–550, title XVI, § 1603(e)(2), Oct. 28, 1992, 106 Stat. 4081, provided that: “The amendment made by section 142(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 [Pub. L. 102–242] (adding a paragraph at the end of section 11 of the Federal Reserve Act [this section]) shall be considered to have been executed before the amendment made by section 133(f) of the Federal Deposit Insurance Corporation Improvement Act of 1991 [amending this section].”
@@ -1102,7 +1119,7 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 (3) **Limitation on surplus funds**
 
-  (A) *In general* — The aggregate amount of the surplus funds of the Federal reserve banks may not exceed $10,000,000,000.
+  (A) *In general* — The aggregate amount of the surplus funds of the Federal reserve banks may not exceed $6,825,000,000.
 
   (B) *Transfer to the general fund* — Any amounts of the surplus funds of the Federal reserve banks that exceed, or would exceed, the limitation under subparagraph (A) shall be transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 
@@ -1120,6 +1137,10 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 Section is comprised of subsec. (a) [formerly first undesignated par.] of section 7 of act Dec. 23, 1913, and subsec. (b) [enacted by Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 302(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–304] of section 7. Another subsec. (b) of section 7 is classified to [section 290 of this title](./chapter-003-federal-reserve-system.md#section-290). Subsec. (c) of section 7 is classified to [section 531 of this title](./chapter-004-taxation.md#section-531).
 
 #### Amendments
+2018—Subsec. (a)(3)(A). Pub. L. 115–174 substituted “$6,825,000,000” for “$7,500,000,000”.
+
+Pub. L. 115–123 substituted “$7,500,000,000” for “$10,000,000,000”.
+
 2015—Subsec. (a)(1)(A). Pub. L. 114–94, § 32203(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.”
 
 Subsec. (a)(1)(C). Pub. L. 114–94, § 32203(a)(2), added subpar. (C).

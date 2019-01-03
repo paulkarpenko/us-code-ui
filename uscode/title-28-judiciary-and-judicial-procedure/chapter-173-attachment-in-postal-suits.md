@@ -25,7 +25,7 @@ Section was derived from R.S. § 924, which was originally classified to section
 References to Post Office Department, Postal Service, Postal Field Service, Field Postal Service, or Departmental Service or Departmental Headquarters of Post Office Department to be considered references to United States Postal Service pursuant to Pub. L. 91–375, § 6(o), Aug. 12, 1970, 84 Stat. 783, set out as a Cross Reference note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
 
 #### Effective Date
-Chapter effective Sept. 1, 1960, see section 11 of Pub. L. 86–682.
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
 
 
 <a id="section-2711"></a>
@@ -43,6 +43,9 @@ may apply for a warrant of attachment to a judge, or, in his absence, to the cle
 #### Codification
 Section was derived from R.S. § 925, which was originally classified to section 738 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 925 was reclassified to [section 838 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section838&num=0&edition=prelim). R.S. § 925 was repealed by section 12(c) of Pub. L. 86–682 (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2711 of this title](./chapter-173-attachment-in-postal-suits.md#section-2711).
 
+#### Effective Date
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
+
 
 <a id="section-2712"></a>
 ## § 2712. Issue of warrant
@@ -53,6 +56,9 @@ Upon an order of a judge of a court, or, in his absence and upon the clerk’s o
 
 #### Codification
 Section was derived from R.S. § 926, which was originally classified to section 739 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 926 was reclassified to [section 839 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section839&num=0&edition=prelim). R.S. § 926 was repealed by section 12(c) of Pub. L. 86–682 (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2712 of this title](./chapter-173-attachment-in-postal-suits.md#section-2712).
+
+#### Effective Date
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
 
 
 <a id="section-2713"></a>
@@ -65,6 +71,9 @@ Not later than twenty days before the return day of a warrant issued under [sect
 #### Codification
 Section was derived from R.S. § 927, which was originally classified to section 740 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 927 was reclassified to [section 840 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section840&num=0&edition=prelim). R.S. § 927 was repealed by section 12(c) of Pub. L. 86–682 (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2713 of this title](./chapter-173-attachment-in-postal-suits.md#section-2713).
 
+#### Effective Date
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
+
 
 <a id="section-2714"></a>
 ## § 2714. Investment of proceeds of attached property
@@ -75,6 +84,9 @@ When the property attached is sold on an interlocutory order or is producing rev
 
 #### Codification
 Section was derived from R.S. § 928, which was originally classified to section 741 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 928 was reclassified to [section 841 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section841&num=0&edition=prelim). R.S. § 928 was repealed by section 12(c) of Pub. L. 86–682 (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2714 of this title](./chapter-173-attachment-in-postal-suits.md#section-2714).
+
+#### Effective Date
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
 
 
 <a id="section-2715"></a>
@@ -92,6 +104,9 @@ in a newspaper published in the district where the property is situated pursuant
 #### Codification
 Section was derived from R.S. § 929, which was originally classified to section 742 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 929 was reclassified to [section 842 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section842&num=0&edition=prelim). R.S. § 929 was repealed by Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 708, (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2715 of this title](./chapter-173-attachment-in-postal-suits.md#section-2715).
 
+#### Effective Date
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
+
 
 <a id="section-2716"></a>
 ## § 2716. Personal notice
@@ -102,6 +117,9 @@ After the first publication of the notice of attachment, a person indebted to, o
 
 #### Codification
 Section was derived from R.S. § 930, which was originally classified to section 743 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 930 was reclassified to [section 843 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section843&num=0&edition=prelim). R.S. § 930 was repealed by Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 708, (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2716 of this title](./chapter-173-attachment-in-postal-suits.md#section-2716).
+
+#### Effective Date
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
 
 
 <a id="section-2717"></a>
@@ -119,6 +137,9 @@ may discharge the warrant of attachment as to the property of the applicant.
 #### Codification
 Section was derived from R.S. § 931, which was originally classified to section 744 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 931 was reclassified to [section 844 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section844&num=0&edition=prelim). R.S. § 931 was repealed by Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 708, (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2717 of this title](./chapter-173-attachment-in-postal-suits.md#section-2717).
 
+#### Effective Date
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.
+
 
 <a id="section-2718"></a>
 ## § 2718. Interest on balances due department
@@ -132,3 +153,6 @@ Section was derived from R.S. § 964, which was originally classified to section
 
 #### Change of Name
 References to Post Office Department, Postal Service, Postal Field Service, Field Postal Service, or Departmental Service or Departmental Headquarters of Post Office Department to be considered references to United States Postal Service pursuant to Pub. L. 91–375, § 6(o), Aug. 12, 1970, 84 Stat. 783, set out as a Cross References note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
+
+#### Effective Date
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, 74 Stat. 708.

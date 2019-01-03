@@ -521,13 +521,13 @@ Section effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a
 
 (2) **Passenger.—** — The term “passenger” has the meaning given such term by section 1136.
 
-**(b) Submission of Plans.—** A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a major loss of life.
+**(b) Submission of Plans.—** A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in any loss of life.
 
 **(c) Contents of Plans.—** To the extent permitted by foreign law which was in effect on the date of the enactment of this section, a plan submitted by a foreign air carrier under subsection (b) shall include the following:
 
-(1) **Telephone number.—** — A plan for publicizing a reliable, toll-free telephone number and staff to take calls to such number from families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life.
+(1) **Telephone number.—** — A plan for publicizing a reliable, toll-free telephone number and staff to take calls to such number from families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in any loss of life.
 
-(2) **Notification of families.—** — A process for notifying, in person to the extent practicable, the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life before providing any public notice of the names of such passengers. Such notice shall be provided by using the services of—
+(2) **Notification of families.—** — A process for notifying, in person to the extent practicable, the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in any loss of life before providing any public notice of the names of such passengers. Such notice shall be provided by using the services of—
 
   (A) the organization designated for the accident under section 1136(a)(2); or
 
@@ -549,7 +549,7 @@ Section effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a
 
 (8) **Monuments.—** — An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of any monument to the passengers built in the United States, including any inscription on the monument.
 
-(9) **Equal treatment of passengers.—** — An assurance that the treatment of the families of nonrevenue passengers will be the same as the treatment of the families of revenue passengers.
+(9) **Equal treatment of passengers.—** — An assurance that the treatment of the families of nonrevenue passengers (and any other victim of the accident, including any victim on the ground) will be the same as the treatment of the families of revenue passengers.
 
 (10) **Service and assistance to families of passengers.—** — An assurance that the foreign air carrier will work with any organization designated under section 1136(a)(2) on an ongoing basis to ensure that families of passengers receive an appropriate level of services and assistance following an accident.
 
@@ -563,11 +563,11 @@ Section effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a
 
 (15) **Training of employees and agents.—** — An assurance that the foreign air carrier will provide adequate training to the employees and agents of the carrier to meet the needs of survivors and family members following an accident.
 
-(16) **Consultation on carrier response not covered by plan.—** — An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the foreign air carrier 11 So in original. The words “the foreign air carrier” probably should not appear. will consult with the Board and the Department of State on the provision of the assistance.
+(16) **Consultation on carrier response not covered by plan.—** — An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, will consult 11 So in original. Probably should be “the foreign air carrier will consult”. with the Board and the Department of State on the provision of the assistance.
 
 (17) **Notice concerning liability for manmade structures.—**
 
-  (A) *In general.—* — An assurance that, in the case of an accident that results in significant damage to a manmade structure or other property on the ground that is not government-owned, the foreign air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
+  (A) *In general.—* — An assurance that, in the case of an accident that results in any damage to a manmade structure or other property on the ground that is not government-owned, the foreign air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
 
   (B) *Minimum contents.—* — At a minimum, the written notice shall advise an owner (i) to contact the insurer of the property as the authoritative source for information about coverage and compensation; (ii) to not rely on unofficial information offered by foreign air carrier representatives about compensation by the foreign air carrier for accident-site property damage; and (iii) to obtain photographic or other detailed evidence of property damage as soon as possible after the accident, consistent with restrictions on access to the accident site.
 
@@ -583,6 +583,20 @@ Section effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 105–148, which was approved Dec. 16, 1997.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–254, § 1109(b)(1), substituted “any loss of life” for “a major loss of life”.
+
+Subsec. (c)(1). Pub. L. 115–254, § 1109(b)(2)(A), substituted “any loss of life” for “a significant loss of life”.
+
+Subsec. (c)(2). Pub. L. 115–254, § 1109(b)(2)(B), substituted “any loss of life” for “a significant loss of life” in introductory provisions.
+
+Subsec. (c)(9). Pub. L. 115–254, § 1109(b)(2)(C), amended par. (9) generally. Prior to amendment, text read as follows: “An assurance that the treatment of the families of nonrevenue passengers will be the same as the treatment of the families of revenue passengers.”
+
+Subsec. (c)(16). Pub. L. 115–254, § 1109(b)(2)(D), substituted “any loss of life” for “major loss of life” and “will consult” for “the foreign air carrier will consult”.
+
+Pub. L. 115–254, § 539(d), substituted “An assurance that” for “An assurance that the foreign air carrier”.
+
+Subsec. (c)(17)(A). Pub. L. 115–254, § 1109(b)(2)(E), substituted “any damage” for “significant damage”.
+
 2003—Subsec. (c)(17), (18). Pub. L. 108–176 added pars. (17) and (18).
 
 2000—Subsec. (a)(2). Pub. L. 106–181, § 403(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of a foreign air carrier or air carrier aboard an aircraft.”

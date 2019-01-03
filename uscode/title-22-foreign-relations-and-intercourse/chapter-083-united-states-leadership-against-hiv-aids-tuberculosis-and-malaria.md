@@ -30,9 +30,9 @@ source: >-
 
   (B) make the report described in subparagraph (A) available to the public.
 
-**(b) Orphans and vulnerable children** For fiscal years 2009 through 2018, not less than 10 percent of the amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
+**(b) Orphans and vulnerable children** For fiscal years 2009 through 2023, not less than 10 percent of the amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
 
-**(c) Funding allocation** For each of the fiscal years 2009 through 2018, more than half of the amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) shall be expended for—
+**(c) Funding allocation** For each of the fiscal years 2009 through 2023, more than half of the amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) shall be expended for—
 
 (1) antiretroviral treatment for HIV/AIDS;
 
@@ -60,6 +60,10 @@ source: >-
 This chapter, referred to in subsec. (a)(2)(A), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601) and Tables.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–305, § 4(1), substituted “2023” for “2018”.
+
+Subsec. (c). Pub. L. 115–305, § 4(2), substituted “2023” for “2018” in introductory provisions.
+
 2013—Subsec. (b). Pub. L. 113–56, § 6(a), substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2)” for “amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7671)”.
 
 Subsec. (c). Pub. L. 113–56, § 6(b), substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2)” for “amounts appropriated for bilateral global HIV/AIDS assistance pursuant to [section 7671 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7671)” in introductory provisions.
@@ -279,6 +283,9 @@ This chapter, referred to in pars. (29) and (41), was in the original “this Ac
 
 #### Amendments
 2008—Pars. (29) to (41). Pub. L. 110–293 added pars. (29) to (41).
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–305, § 1, Dec. 11, 2018, 132 Stat. 4402, provided that: “This Act [amending sections 7611, 7622, and 7673 of this title] may be cited as the ‘PEPFAR Extension Act of 2018’.”
 
 #### Short Title of 2013 Amendment
 Pub. L. 113–56, § 1, Dec. 2, 2013, 127 Stat. 648, provided that: “This Act [amending sections 2151b–2, 7611, 7622, and 7673 of this title] may be cited as the ‘PEPFAR Stewardship and Oversight Act of 2013’.”
@@ -750,7 +757,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 (1) **Oversight plan**
 
-  (A) *Development* — The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+  (A) *Development* — The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2023, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
   (B) *Contents* — The plans developed under subparagraph (A) shall include a schedule for financial audits, inspections, and performance reviews, as appropriate.
 
@@ -766,7 +773,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
     (iii) *2014 plan* — The plan developed under subparagraph (A) for fiscal year 2014 shall be completed not later than 60 days after December 2, 2013.
 
-    (iv) *Subsequent plans* — Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2018, respectively.
+    (iv) *Subsequent plans* — Each of the last nine plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2023, respectively.
 
 (2) **Coordination** — In order to avoid duplication and maximize efficiency, the Inspectors General described in paragraph (1) shall coordinate their activities with—
 
@@ -778,7 +785,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 **(g) Annual study**
 
-(1) **In general** — Not later than September 30, 2009, and annually thereafter through September 30, 2019, the Global AIDS Coordinator shall complete a study of treatment providers that—
+(1) **In general** — Not later than September 30, 2009, and annually thereafter through September 30, 2024, the Global AIDS Coordinator shall complete a study of treatment providers that—
 
   (A) represents a range of countries and service environments;
 
@@ -792,7 +799,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
     (iii) other subcategories, as appropriate.
 
-(2) **2013 through 2018 studies** — The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2018, shall include, in addition to the elements set forth under paragraph (1), the following elements:
+(2) **2013 through 2024 studies** — The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2024, shall include, in addition to the elements set forth under paragraph (1), the following elements:
 
   (A) A plan for conducting cost studies of United States assistance under [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
 
@@ -818,6 +825,14 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B), and (h), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601) and Tables.
 
 #### Amendments
+2018—Subsec. (f)(1)(A). Pub. L. 115–305, § 2(1)(A), substituted “2023” for “2018”.
+
+Subsec. (f)(1)(C)(iv). Pub. L. 115–305, § 2(1)(B), substituted “nine” for “four” and “2023” for “2018”.
+
+Subsec. (g)(1). Pub. L. 115–305, § 2(2)(A), substituted “2024” for “2019”.
+
+Subsec. (g)(2). Pub. L. 115–305, § 2(2)(B), substituted “2024” for “2018” in heading and introductory provisions.
+
 2013—Subsec. (f)(1)(A). Pub. L. 113–56, § 2(1), substituted “coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018” for “5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013”.
 
 Subsec. (f)(1)(C)(ii). Pub. L. 113–56, § 2(2)(A), substituted “2010 through 2013 plans” for “Subsequent plans” in heading and “the plans for fiscal years 2010 through 2013” for “the last four plans” in text.
@@ -1020,9 +1035,9 @@ Section was enacted as part of the Foreign Operations, Export Financing, and Rel
 
   (A)
 
-    (i) At any time during fiscal years 2009 through 2018, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
+    (i) At any time during fiscal years 2004 through 2023, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
-    (ii) If, at any time during any of the fiscal years 2009 through 2018, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of [section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
+    (ii) If, at any time during any of the fiscal years 2009 through 2023, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 4605(j)(1) 11 See References in Text note below. of title 50, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
     (iii) If at any time the President determines that the expenses of the Governing, Administrative, and Advisory Bodies (including the Partnership Forum, the Foundation Board, the Secretariat, and the Technical Review Board) of the Global Fund exceed 10 percent of the total expenditures of the Fund for any 2-year period, the United States shall withhold from its contribution for the next fiscal year an amount equal the to the average annual amount expended by the Fund for such 2-year period for the expenses of the Governing, Administrative, and Advisory Bodies in excess of 10 percent of the total expenditures of the Fund.
 
@@ -1030,17 +1045,13 @@ Section was enacted as part of the Foreign Operations, Export Financing, and Rel
 
     (v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim)) for that fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
 
-    (vi) For the purposes of clause (i), “funds contributed to the Global Fund from all sources” means funds contributed to the Global Fund at any time during fiscal years 2009 through 2018 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.
-
   (B)
 
     (i) Any amount made available that is withheld by reason of subparagraph (A)(i) shall be contributed to the Global Fund as soon as practicable, subject to subparagraph (A)(i), after additional contributions to the Global Fund are made from other sources.
 
-    (ii) Any amount made available that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated to carry out [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) for HIV/AIDS assistance.
+    (ii) Any amount made available that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) or section 2151b–3 or 2151b–4 of this title. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7671).
 
-    (iii) Any amount made available that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2). Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7671) for HIV/AIDS assistance.
-
-    (iv) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2018, any amount made available that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+    (iii) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2023, any amount made available that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
   (C)
 
@@ -1052,7 +1063,7 @@ Section was enacted as part of the Foreign Operations, Export Financing, and Rel
 
       (II) an explanation as to why other government donors to the Global Fund are unable to provide adequate contributions to the Fund.
 
-(5) **Withholding funds** — Notwithstanding any other provision of this chapter, 20 percent of the amounts appropriated pursuant to this chapter for a contribution to support the Global Fund for each of the fiscal years 2010 through 2018 shall be withheld from obligation to the Global Fund until the Secretary of State certifies to the appropriate congressional committees that the Global Fund—
+(5) **Withholding funds** — Notwithstanding any other provision of this chapter, 20 percent of the amounts appropriated pursuant to this chapter for a contribution to support the Global Fund for each of the fiscal years 2010 through 2023 shall be withheld from obligation to the Global Fund until the Secretary of State certifies to the appropriate congressional committees that the Global Fund—
 
   (A) has established an evaluation framework for the performance of Local Fund Agents (referred to in this paragraph as “LFAs”);
 
@@ -1173,7 +1184,21 @@ The Global AIDS and Tuberculosis Relief Act of 2000, referred to in subsec. (a)(
 
 This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was in the original a reference to this Act, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601) and Tables.
 
+[Section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), referred to in subsec. (d)(4)(A)(ii), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former [section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim) can be found in [section 4813(c)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A&num=0&edition=prelim), as enacted by Pub. L. 115–232.
+
 #### Amendments
+2018—Subsec. (d)(4)(A)(i). Pub. L. 115–305, § 3(1)(A)(i), substituted “fiscal years 2004 through 2023” for “fiscal years 2009 through 2018”.
+
+Subsec. (d)(4)(A)(ii). Pub. L. 115–305, § 3(1)(A)(ii), substituted “2023” for “2018”.
+
+Subsec. (d)(4)(A)(vi). Pub. L. 115–305, § 3(1)(A)(iii), struck out cl. (vi) which read as follows: “For the purposes of clause (i), ‘funds contributed to the Global Fund from all sources’ means funds contributed to the Global Fund at any time during fiscal years 2009 through 2018 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.”
+
+Subsec. (d)(4)(B)(ii). Pub. L. 115–305, § 3(1)(B)(i)–(iii), redesignated cl. (iii) as (ii), inserted “or section 2151b–3 or 2151b–4 of this title” after “[section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2)”, struck out “for HIV/AIDS assistance” after “[section 7671 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7671)”, and struck out former cl. (ii) which read as follows: “Any amount made available that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated to carry out [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) for HIV/AIDS assistance.”
+
+Subsec. (d)(4)(B)(iii), (iv). Pub. L. 115–305, § 3(1)(B)(ii), (iv), redesignated cl. (iv) as (iii) and substituted “2023” for “2018”. Former cl. (iii) redesignated (ii).
+
+Subsec. (d)(5). Pub. L. 115–305, § 3(2), substituted “2023” for “2018” in introductory provisions.
+
 2013—Subsec. (d)(4)(A)(i). Pub. L. 113–56, § 4(a)(1)(A), substituted “2018” for “2013”.
 
 Subsec. (d)(4)(A)(ii). Pub. L. 113–56, § 4(a)(1)(B), substituted “2018” for “2013” and struck out at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”

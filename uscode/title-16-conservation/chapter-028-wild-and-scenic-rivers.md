@@ -16,6 +16,9 @@ It is hereby declared to be the policy of the United States that certain selecte
 #### Codification
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to [section 1272 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1272) and as a note under this section, respectively.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–229, § 1, Aug. 2, 2018, 132 Stat. 1629, provided that: “This Act [amending [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274) and enacting provisions classified as a note under [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274)] may be cited as the ‘East Rosebud Wild and Scenic Rivers Act’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–244, § 1, Dec. 18, 2014, 128 Stat. 2864, provided that: “This Act [amending [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274) and [section 615i of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615i&num=0&edition=prelim), Public Lands, and enacting provisions classified as a note under [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274)] may be cited as the ‘Crooked River Collaborative Water Security and Jobs Act of 2014’.”
 
@@ -1583,6 +1586,12 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
   (C) The 11-mile segment of the Trout River from the confluence of the Jay and Wade Brooks in Montgomery to where the Trout River joins the Missisquoi River in East Berkshire.
 
+(213) **East rosebud creek, montana.—** — The portions of East Rosebud Creek in the State of Montana, consisting of—
+
+  (A) the 13-mile segment exclusively on public land within the Custer National Forest from the source in the Absaroka-Beartooth Wilderness downstream to the point at which the Creek enters East Rosebud Lake, including the stream reach between Twin Outlets Lake and Fossil Lake, to be administered by the Secretary of Agriculture as a wild river; and
+
+  (B) the 7-mile segment exclusively on public land within the Custer National Forest from immediately below, but not including, the outlet of East Rosebud Lake downstream to the point at which the Creek enters private property for the first time, to be administered by the Secretary of Agriculture as a recreational river.
+
 **(b) Establishment of boundaries; classification** The agency charged with the administration of each component of the national wild and scenic rivers system designated by subsection (a) of this section shall, within one year from the date of designation of such component under subsection (a) (except where a different date if 1414 So in original. Probably should be “is”. provided in subsection (a)), establish detailed boundaries therefor (which boundaries shall include an average of not more than 320 acres of land per mile measured from the ordinary high water mark on both sides of the river); and determine which of the classes outlined in [section 1273(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1273/b&num=0&edition=prelim) best fit the river or its various segments. Notice of the availability of the boundaries and classification, and of subsequent boundary amendments shall be published in the Federal Register and shall not become effective until ninety days after they have been forwarded to the President of the Senate and the Speaker of the House of Representatives.
 
 **(c) Public inspection of maps and descriptions** Maps of all boundaries and descriptions of the classifications of designated river segments, and subsequent amendments to such boundaries, shall be available for public inspection in the offices of the administering agency in the District of Columbia and in locations convenient to the designated river.
@@ -1609,6 +1618,8 @@ Section 105 of the Omnibus Oregon Wild and Scenic Rivers Act of 1988, referred t
 Section 203 of the Flood Control Act of 1958, referred to in subsec. (a)(136)(D), is section 203 of Pub. L. 85–500, title II, July 3, 1958, 72 Stat. 305, which is not classified to the Code.
 
 #### Amendments
+2018—Subsec. (a)(213). Pub. L. 115–229 added par. (213).
+
 2014—Subsec. (a)(72). Pub. L. 113–244 added par. (72) and struck out former par. (72) which read as follows:
 
 “(72) Crooked, Oregon.—The 15-mile segment from the National Grassland boundary to Dry Creek; to be administered by the Secretary of the Interior in the following classes:
@@ -1919,6 +1930,9 @@ Pub. L. 92–560, §§ 3–6, Oct. 25, 1972, 86 Stat. 1174, provided for adminis
 
 #### Missouri; Administration of Eleven Point Wild and Scenic Corridor
 Pub. L. 102–220, § 3, Dec. 11, 1991, 105 Stat. 1674, authorized Secretary to manage lands, waters, and interests within The Eleven Point Wild and Scenic Corridor pursuant to the provisions of this chapter. See section 3 of Pub. L. 102–220 set out as a note under [section 539h of this title](./chapter-002-national-forests.md#section-539h).
+
+#### Montana; East Rosebud Creek; Adjacent Management
+Pub. L. 115–229, § 3(b), Aug. 2, 2018, 132 Stat. 1630, provided that nothing in [16 U.S.C. 1274(a)(213)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1274/a/213&num=0&edition=prelim), designating certain portions of East Rosebud Creek as a wild and scenic river segment, created a protective perimeter or buffer zone outside the designated boundary of the river segment and that the fact that an otherwise authorized activity or use could be seen or heard within the boundary of the designated river segment did not preclude the activity or use outside the boundary of the river segment.
 
 #### Montana; Administration of Wild and Scenic River Segment of Missouri River
 Pub. L. 94–486, title II, §§ 202, 203, Oct. 12, 1976, 90 Stat. 2327, 2328, as amended by Pub. L. 100–552, § 5, Oct. 28, 1988, 102 Stat. 2768, provided for administration of wild and scenic river segment of the Missouri River known as Missouri Breaks Freeflowing River segment, establishment of detailed boundaries, acquisition of lands and interests in lands, and construction of visitor facilities in or near Fort Benton.

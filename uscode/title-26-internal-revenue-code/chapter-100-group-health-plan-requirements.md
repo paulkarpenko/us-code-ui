@@ -359,6 +359,9 @@ Pub. L. 105–34, title XV, § 1532(b), Aug. 5, 1997, 111 Stat. 1085, provided t
 #### Regulations
 Pub. L. 110–233, title I, § 103(f)(1), May 21, 2008, 122 Stat. 899, provided that: “The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act [May 21, 2008] to carry out the amendments made by this section [enacting [section 9834 of this title](./chapter-100-group-health-plan-requirements.md#section-9834) and amending this section and [section 9832 of this title](./chapter-100-group-health-plan-requirements.md#section-9832)].”
 
+#### Effective Date
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under [section 9801 of this title](./chapter-100-group-health-plan-requirements.md#section-9801).
+
 
 <a id="section-9803"></a>
 ## § 9803. Guaranteed renewability in multi­employer plans and certain multiple employer welfare arrangements
@@ -384,6 +387,9 @@ Pub. L. 110–233, title I, § 103(f)(1), May 21, 2008, 122 Stat. 899, provided 
 Section 3(40) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b), is classified to [section 1002(40) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/40&num=0&edition=prelim), Labor.
 
 The date of the enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 104–191, which was approved Aug. 21, 1996.
+
+#### Effective Date
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under [section 9801 of this title](./chapter-100-group-health-plan-requirements.md#section-9801).
 
 
 <a id="section-9804"></a>
@@ -457,7 +463,7 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date
-Subchapter applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under [section 4980D of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980d).
+Section applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under [section 4980D of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980d).
 
 
 <a id="section-9812"></a>
@@ -498,7 +504,7 @@ Subchapter applicable with respect to group health plans for plan years beginnin
 
   (B) *Definitions* — In this paragraph:
 
-    (i) *Financial requirement* — The term “financial requirement” includes deductibles, copayments, coinsurance, and out-of-pocket expenses, but excludes an aggregate lifetime limit and an annual limit subject to paragraphs (1) and (2),11 So in original. The comma probably should be a period.
+    (i) *Financial requirement* — The term “financial requirement” includes deductibles, copayments, coinsurance, and out-of-pocket expenses, but excludes an aggregate lifetime limit and an annual limit subject to paragraphs (1) and (2).
 
     (ii) *Predominant* — A financial requirement or treatment limit is considered to be predominant if it is the most common or frequent of such type of limit or requirement.
 
@@ -573,6 +579,8 @@ Subchapter applicable with respect to group health plans for plan years beginnin
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(3)(B)(i). Pub. L. 115–141 substituted period for comma at end.
+
 2008—Pub. L. 110–343, § 512(g)(3)(A), substituted “Parity in mental health and substance use disorder benefits” for “Parity in the application of certain limits to mental health benefits” in section catchline.
 
 Subsec. (a)(1), (2). Pub. L. 110–343, § 512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
@@ -627,6 +635,9 @@ Pub. L. 108–311, title III, § 302(d), Oct. 4, 2004, 118 Stat. 1179, provided 
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–147, title VI, § 610(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendment made by subsection (a) [amending this section] shall apply to plan years beginning after December 31, 2000.”
+
+#### Effective Date
+Section applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under [section 4980D of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980d).
 
 
 <a id="section-9813"></a>
@@ -758,7 +769,7 @@ The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 
 
       (I) such dollar amount, multiplied by
 
-      (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     If any dollar amount increased under the preceding sentence is not a multiple of $50, such dollar amount shall be rounded to the next lowest multiple of $50.
 
 (3) **Other definitions** — For purposes of this subsection—
@@ -787,16 +798,27 @@ The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Amendments
+2017—Subsec. (d)(2)(D)(ii)(II). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
 2016—Subsec. (d). Pub. L. 114–255 added subsec. (d).
 
 1997—Pub. L. 105–34 renumbered [section 9804 of this title](./chapter-100-group-health-plan-requirements.md#section-9804) as this section and substituted reference to [section 9832 of this title](./chapter-100-group-health-plan-requirements.md#section-9832) for reference to [section 9805 of this title](./chapter-100-group-health-plan-requirements.md#section-9805) in subsecs. (b) and (c)(1) to (3).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–255 applicable to years beginning after Dec. 31, 2016, see section 18001(a)(7) of Pub. L. 114–255, set out as a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as a note under [section 4980D of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980d).
+
+#### Effective Date
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under [section 9801 of this title](./chapter-100-group-health-plan-requirements.md#section-9801).
 
 
 <a id="section-9832"></a>
@@ -946,6 +968,9 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginning after the date that is one year after May 21, 2008, see section 103(f)(2) of Pub. L. 110–233, set out as a note under [section 9802 of this title](./chapter-100-group-health-plan-requirements.md#section-9802).
 
+#### Effective Date
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under [section 9801 of this title](./chapter-100-group-health-plan-requirements.md#section-9801).
+
 
 <a id="section-9833"></a>
 ## § 9833. Regulations
@@ -959,6 +984,9 @@ Section 104 of the Health Care Portability and Accountability Act of 1996, refer
 
 #### Amendments
 1997—Pub. L. 105–34 renumbered [section 9806 of this title](./chapter-100-group-health-plan-requirements.md#section-9806) as this section.
+
+#### Effective Date
+Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under [section 9801 of this title](./chapter-100-group-health-plan-requirements.md#section-9801).
 
 
 <a id="section-9834"></a>

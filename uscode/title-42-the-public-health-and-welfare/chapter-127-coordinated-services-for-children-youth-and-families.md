@@ -15,12 +15,22 @@ For purposes of this subchapter—
 
 (2) the terms “child”, “youth”, and “young individual” means 11 So in original. Probably should be “mean”. an individual who is less than 21 years of age.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12302"></a>
 ## § 12302. Authorization of appropriations
 **(a) Authorization** There are authorized to be appropriated such sums as may be necessary, for each of the fiscal years 1993 and 1994, to carry out this subchapter. Sums appropriated under this subsection shall remain available until the expiration of the 1-year period beginning on the date the Conference is adjourned. New spending authority or authority to enter into contracts as provided in this subchapter shall be effective only to the extent and in such amounts as are provided in advance in appropriations Acts.
 
 **(b) Return of unexpended funds** Any funds remaining upon the expiration of the 1-year period referred to in subsection (a) shall be returned to the Treasury of the United States and credited as miscellaneous receipts.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12311"></a>
@@ -57,7 +67,7 @@ Congress finds that—
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 #### Short Title
 Pub. L. 101–501, title IX, § 901, Nov. 3, 1990, 104 Stat. 1262, provided that: “This title [enacting this chapter] may be cited as the ‘Claude Pepper Young Americans Act of 1990’.”
@@ -169,6 +179,9 @@ As used in this chapter:
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -191,6 +204,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Codification
 Section is comprised of section 915 of Pub. L. 101–501. Subsec. (b)(1)(B) of section 915 of Pub. L. 101–501 amended [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12314"></a>
@@ -261,12 +277,20 @@ Section is comprised of section 915 of Pub. L. 101–501. Subsec. (b)(1)(B) of s
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under [section 8332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12315"></a>
 ## § 12315. Federal agency consultations
 **(a) In general** The Commissioner shall consult and cooperate with the heads of all appropriate Federal agencies or departments administering programs or services that are substantially related to the purposes of this chapter.
 
 **(b) Interagency agreements** To the extent practicable, the Commissioner shall facilitate cooperation through the entering into of interagency agreements.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12331"></a>
@@ -309,11 +333,19 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12333"></a>
 ## § 12333. Purpose
 
 It is the purpose of this part to encourage and assist State and local agencies to coordinate resources, reduce barriers to services, and develop new capacities to ensure that State and community services designed to serve children, youth, and families are more effective and comprehensive.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12334"></a>
@@ -361,6 +393,11 @@ As used in this part:
 
 (7) **Outreach services** — The term “outreach services” means services provided to ensure (through home visits or other methods) that parents are aware of and able to participate in family resource and support program activities.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12335"></a>
 ## § 12335. Establishment of programs
@@ -398,12 +435,20 @@ The Commissioner shall make grants—
 #### References in Text
 [Section 12339 of this title](./chapter-127-coordinated-services-for-children-youth-and-families.md#section-12339), referred to in par. (2), was repealed by Pub. L. 103–252, title IV, § 401(b)(1), May 18, 1994, 108 Stat. 672.
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12336"></a>
 ## § 12336. Administration
 **(a) In general** The Commissioner shall administer programs under this part through the Administration on Children, Youth, and Families.
 
 **(b) Technical assistance** In carrying out this part, the Commissioner may request the technical assistance and cooperation of the Secretary of Education, the Secretary of Labor, the Attorney General, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Director of the Office of Community Services, and such other agencies and departments of the Federal Government as may be appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12337"></a>
@@ -433,6 +478,9 @@ In the case of each category, the State application and plan shall comply only w
 
 #### References in Text
 [Section 12339 of this title](./chapter-127-coordinated-services-for-children-youth-and-families.md#section-12339), referred to in subsecs. (a), (c), and (d)(3), was repealed by Pub. L. 103–252, title IV, § 401(b)(1), May 18, 1994, 108 Stat. 672.
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12338"></a>
@@ -484,6 +532,11 @@ In the case of each category, the State application and plan shall comply only w
     (iii) demonstrate an ability to develop systematic collaboration among service providers on behalf of children, youth and families, including joint planning, joint financing, joint service delivery, common intake and assessment, and other arrangements that promote more effective service systems for such individuals.
 
 **(b) Existing entity** The Commissioner may approve a State plan in which the chief executive officer of the State designates as the independent State body an existing State entity that is comprised of the parties described in subsection (a) and that is authorized to conduct the same range of interagency planning and coordination activities.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12339"></a>
@@ -559,6 +612,9 @@ In the case of each category, the State application and plan shall comply only w
 #### References in Text
 [Section 12339 of this title](./chapter-127-coordinated-services-for-children-youth-and-families.md#section-12339), referred to in subsec. (f), was repealed by Pub. L. 103–252, title IV, § 401(b)(1), May 18, 1994, 108 Stat. 672.
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12340"></a>
 ## § 12340. Supportive services
@@ -593,6 +649,11 @@ In the case of each category, the State application and plan shall comply only w
   (K) ensure that young individuals who are unable to live with the biological families of such individuals have a safe place to live until such individuals can return home or move into independent adult life; and
 
   (L) prevent the abuse, neglect, or exploitation of young individuals.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12351"></a>
@@ -659,6 +720,9 @@ The remaining 20 percent of such cost shall be paid by the State with funds from
 
 Subsec. (d). Pub. L. 103–252, § 402(b)(2), struck out heading and text of subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out [section 12339 of this title](./chapter-127-coordinated-services-for-children-youth-and-families.md#section-12339), $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994.”
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -692,6 +756,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### References in Text
 This part, referred to in subsec. (b), was in the original “this Act”, and was translated as reading “this chapter”, meaning chapter 3 (§§ 955–960) of subtitle A of title IX of Pub. L. 101–501, known as the Family Resources Act, to reflect the probable intent of Congress.
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12354"></a>
 ## § 12354. “Family resource and support programs” defined
@@ -703,6 +770,11 @@ As used in this part, the term “family resource and support programs” means 
 (2) the provision of assistance to families to enable such families to use other formal and informal resources and opportunities for assistance that are available within the communities of such families; and
 
 (3) the creation of supportive networks to enhance the childrearing capacity of parents and assist in compensating for the increased social isolation and vulnerability of families.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12355"></a>
@@ -724,6 +796,9 @@ As used in this part, the term “family resource and support programs” means 
 #### Amendments
 1994—Subsec. (b)(3). Pub. L. 103–252 substituted “several programs” for “several model programs”.
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12371"></a>
 ## § 12371. Evaluation
@@ -735,6 +810,11 @@ The Commissioner shall, through grants or contracts awarded or entered into with
 (2) process evaluations focusing on implementation strategies; and
 
 (3) the development of simple evaluation models for use by local family resource and support programs.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12372"></a>
@@ -749,6 +829,9 @@ The Commissioner shall, through grants or contracts awarded or entered into with
 1994—Subsec. (a). Pub. L. 103–252, § 403(b)(1), substituted “$2,000,000 for each of the fiscal years 1995 through 1998” for “$2,300,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994”.
 
 Subsec. (b). Pub. L. 103–252, § 403(b)(2), substituted “$1,000,000 for fiscal year 1995, and such sums as may be necessary for each of the fiscal years 1996 through 1998” for “$700,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994”.
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12373"></a>
@@ -782,6 +865,11 @@ Subsec. (b). Pub. L. 103–252, § 403(b)(2), substituted “$1,000,000 for fisc
 (6) there is a great need for a comprehensive national policy with respect to young individuals, designed to engage Federal, State, and local government agencies, youth organizations, and other voluntary organizations.
 
 **(b) Statement of policy** It is the policy of the Congress that the Federal Government should work jointly with the States and their citizens to develop recommendations and plans for action to meet the challenge and needs of young individuals.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 
 <a id="section-12374"></a>
@@ -817,6 +905,9 @@ Subsec. (b). Pub. L. 103–252, § 403(b)(2), substituted “$1,000,000 for fisc
 #### Amendments
 2004—Subsec. (c)(1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12375"></a>
 ## § 12375. Conference administration
@@ -846,6 +937,11 @@ Subsec. (b). Pub. L. 103–252, § 403(b)(2), substituted “$1,000,000 for fisc
 
 (6) to the extent practicable, current and adequate statistical data (including decennial census data) and other information on the well-being of young individuals in the United States are readily available, in advance of the Conference, to the delegates of the Conference, together with such information as may be necessary to evaluate Federal programs and policies relating to children and youth. In carrying out this subparagraph, the Secretary may make grants to, and enter into contracts with, public agencies and nonprofit private organizations.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
+
 
 <a id="section-12376"></a>
 ## § 12376. Conference committees
@@ -858,6 +954,9 @@ Subsec. (b). Pub. L. 103–252, § 403(b)(2), substituted “$1,000,000 for fisc
 **(d) Compensation** Members of any committee established under this section (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily rate payable for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim) (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
 #### Termination of Advisory Committees
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -890,3 +989,6 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date
+Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).

@@ -157,8 +157,7 @@ The regulations prescribed by this order shall be codified under Title 1 of the 
 
 <a id="section-1506"></a>
 ## § 1506. Administrative Committee of the Federal Register; establishment and composition; powers and duties
-
-The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall be chairman, an officer of the Department of Justice designated by the Attorney General, and the Director of the Government Publishing Office or Acting Director of the Government Publishing Office. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President, regulations for carrying out this chapter. The regulations shall provide, among other things—
+**(a) Composition; Duties.—** The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall be chairman, an officer of the Department of Justice designated by the Attorney General, and the Director of the Government Publishing Office or Acting Director of the Government Publishing Office. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President, regulations for carrying out this chapter. The regulations shall provide, among other things—
 
 (1) the manner of certification of copies required to be certified under [section 1503 of this title](./chapter-015-federal-register-and-code-of-federal-regulations.md#section-1503), which certification may be permitted to be based upon confirmed communications from outside the District of Columbia;
 
@@ -166,9 +165,25 @@ The Administrative Committee of the Federal Register shall consist of the Archiv
 
 (3) the manner and form in which the Federal Register shall be printed, reprinted, and compiled, indexed, bound, and distributed;
 
-(4) the number of copies of the Federal Register, which shall be printed, reprinted, and compiled, the number which shall be distributed without charge to Members of Congress, officers and employees of the United States, or Federal agency, for official use, and the number which shall be available for distribution to the public; and
+(4) subject to subsection (b), the number of copies of the Federal Register, which shall be printed, reprinted, and compiled, the number which shall be distributed without charge to Members of Congress, officers and employees of the United States, or Federal agency, for official use, and the number which shall be available for distribution to the public; and
 
 (5) the prices to be charged for individual copies of, and subscriptions to, the Federal Register and reprints and bound volumes of it.
+
+**(b) Restrictions on Distribution of Free Printed Copies to Members of Congress and Officers and Employees of the United States.—**
+
+(1) **Prohibiting subscription to printed copies without request.—** — Under the regulations prescribed to carry out subsection (a)(4), the Director of the Government Publishing Office may not provide a printed copy of the Federal Register without charge to any Member of Congress or any other office of the United States during a year unless—
+
+  (A) the Member or office requests a printed copy of a specific issue of the Federal Register; or
+
+  (B) during that year or during the previous year, the Member or office requested a subscription to printed copies of the Federal Register for that year, as described in paragraph (2).
+
+(2) **Administration of subscriptions.—** — The regulations prescribed to carry out subsection (a)(4) shall include—
+
+  (A) provisions regarding notifications to offices of Members of Congress and other offices of the United States of the restrictions of paragraph (1);
+
+  (B) provisions describing the process by which Members and other offices may request a specific issue of the Federal Register for purposes of paragraph (1)(A); and
+
+  (C) provisions describing the process by which Members and other offices may request a subscription to the Federal Register for purposes of paragraph (1)(B), except that such regulations shall limit the period for such a subscription to not longer than 1 year.
 
 ### Statutory Notes
 
@@ -178,9 +193,18 @@ Based on 44 U.S. Code, 1964 ed., §§ 306, 391 (part) (July 26, 1935, ch. 417, �
 This section incorporates only the last sentence from former section 391(b). The remainder of that section will be found in sections 2102, 2301, 2501, and 2902 of the revision.
 
 #### Amendments
+2018—Pub. L. 115–120, § 2(a)(1), designated existing provisions as subsec. (a) and inserted heading.
+
+Subsec. (a)(4). Pub. L. 115–120, § 2(a)(2), substituted “subject to subsection (b), the number of copies” for “the number of copies”.
+
+Subsec. (b). Pub. L. 115–120, § 2(a)(3), added subsec. (b).
+
 2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in two places in introductory provisions.
 
 1984—Pub. L. 98–497 struck out “The authority of the Administrator of General Services, under [section 754 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section754&num=0&edition=prelim), to regroup, transfer, and distribute functions within the General Services Administration, does not extend to the Committee or its functions.”
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–120, div. A, § 2(b), Jan. 22, 2018, 132 Stat. 29, provided that: “The amendment made by subsection (a) [amending this section] shall take effect January 1, 2018.”
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).

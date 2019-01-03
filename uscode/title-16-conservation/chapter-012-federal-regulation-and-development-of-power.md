@@ -2,7 +2,7 @@
 title: 16
 chapter: '12'
 heading: FEDERAL REGULATION AND DEVELOPMENT OF POWER
-section_count: 107
+section_count: 110
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -437,9 +437,13 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 <a id="section-798"></a>
 ## § 798. Purpose and scope of preliminary permits; transfer and cancellation
-**(a) Purpose** Each preliminary permit issued under this subchapter shall be for the sole purpose of maintaining priority of application for a license under the terms of this chapter for such period or periods, not exceeding a total of three years, as in the discretion of the Commission may be necessary for making examinations and surveys, for preparing maps, plans, specifications, and estimates, and for making financial arrangements.
+**(a) Purpose** Each preliminary permit issued under this subchapter shall be for the sole purpose of maintaining priority of application for a license under the terms of this chapter for such period or periods, not exceeding a total of 4 years, as in the discretion of the Commission may be necessary for making examinations and surveys, for preparing maps, plans, specifications, and estimates, and for making financial arrangements.
 
-**(b) Extension of period** The Commission may extend the period of a preliminary permit once for not more than 2 additional years beyond the 3 years permitted by subsection (a) if the Commission finds that the permittee has carried out activities under such permit in good faith and with reasonable diligence.
+**(b) Extension of period** The Commission may—
+
+(1) extend the period of a preliminary permit once for not more than 4 additional years beyond the 4 years permitted by subsection (a) if the Commission finds that the permittee has carried out activities under such permit in good faith and with reasonable diligence; and
+
+(2) after the end of an extension period granted under paragraph (1), issue an additional permit to the permittee if the Commission determines that there are extraordinary circumstances that warrant the issuance of the additional permit.
 
 **(c) Permit conditions** Each such permit shall set forth the conditions under which priority shall be maintained.
 
@@ -448,6 +452,10 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–270, § 3001(a)(1), substituted “4 years” for “three years”.
+
+Subsec. (b). Pub. L. 115–270, § 3001(a)(2), inserted dash after “The Commission may”, designated remaining provisions as par. (1), substituted “4 additional years beyond the 4 years” for “2 additional years beyond the 3 years”, and added par. (2).
+
 2013—Pub. L. 113–23 designated existing first, second, and third sentences as subsecs. (a), (c), and (d), respectively, and added subsec. (b).
 
 1935—Act Aug. 26, 1935, § 203, amended section generally, striking out “and a license issued” at end of second sentence and inserting “or for other good cause shown after notice and opportunity for hearing” in last sentence.
@@ -475,7 +483,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 <a id="section-800"></a>
 ## § 800. Issuance of preliminary permits or licenses
-**(a) Preference** In issuing preliminary permits hereunder or original licenses where no preliminary permit has been issued, the Commission shall give preference to applications therefor by States and municipalities, provided the plans for the same are deemed by the Commission equally well adapted, or shall within a reasonable time to be fixed by the Commission be made equally well adapted, to conserve and utilize in the public interest the water resources of the region; and as between other applicants, the Commission may give preference to the applicant the plans of which it finds and determines are best adapted to develop, conserve, and utilize in the public interest the water resources of the region, if it be satisfied as to the ability of the applicant to carry out such plans.
+**(a) Preference** In issuing preliminary permits hereunder or original licenses where no preliminary permit has been issued, the Commission shall give preference to applications therefor by States, Indian tribes, and municipalities, provided the plans for the same are deemed by the Commission equally well adapted, or shall within a reasonable time to be fixed by the Commission be made equally well adapted, to conserve and utilize in the public interest the water resources of the region; and as between other applicants, the Commission may give preference to the applicant the plans of which it finds and determines are best adapted to develop, conserve, and utilize in the public interest the water resources of the region, if it be satisfied as to the ability of the applicant to carry out such plans.
 
 **(b) Development of water resources by United States; reports** Whenever, in the judgment of the Commission, the development of any water resources for public purposes should be undertaken by the United States itself, the Commission shall not approve any application for any project affecting such development, but shall cause to be made such examinations, surveys, reports, plans, and estimates of the cost of the proposed development as it may find necessary, and shall submit its findings to Congress with such recommendations as it may find appropriate concerning such development.
 
@@ -487,6 +495,8 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 Additional provisions in the section as enacted by act June 10, 1920, directing the commission to investigate the cost and economic value of the power plant outlined in project numbered 3, House Document numbered 1400, Sixty-second Congress, third session, and also in connection with such project to submit plans and estimates of cost necessary to secure an increased water supply for the District of Columbia, have been omitted as temporary and executed.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–325 substituted “States, Indian tribes, and municipalities” for “States and municipalities”.
+
 1986—Subsec. (a). Pub. L. 99–495 inserted “original” after “hereunder or” and substituted “issued,” for “issued and in issuing licenses to new licensees under [section 808 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-808)”.
 
 1968—Subsec. (c). Pub. L. 90–451 added subsec. (c).
@@ -495,6 +505,12 @@ Additional provisions in the section as enacted by act June 10, 1920, directing 
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under [section 797 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-797).
+
+#### Applicability of 2018 Amendment
+Pub. L. 115–325, title II, § 201(b), Dec. 18, 2018, 132 Stat. 4459, provided that: “The amendment made by subsection (a) shall not affect— “(1) any preliminary permit or original license issued before the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017 [Dec. 18, 2018]; or “(2) an application for an original license, if the Commission has issued a notice accepting that application for filing pursuant to section 4.32(d) of title 18, Code of Federal Regulations (or successor regulations), before the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017.”
+
+#### Definition of Indian Tribe
+Pub. L. 115–325, title II, § 201(c), Dec. 18, 2018, 132 Stat. 4459, provided that: “For purposes of section 7(a) of the Federal Power Act ([16 U.S.C. 800(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section800/a&num=0&edition=prelim)) (as amended by subsection (a)), the term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).”
 
 
 <a id="section-801"></a>
@@ -657,6 +673,9 @@ Pub. L. 99–495, § 9(b), Oct. 16, 1986, 100 Stat. 1252, provided that: “Noth
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (e)(4) of this section relating to reporting recommendations to Congress every 5 years, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 91 of House Document No. 103–7.
 
+#### Obligation for Payment of Annual Charges
+Pub. L. 115–270, title III, § 3001(c), Oct. 23, 2018, 132 Stat. 3862, provided that: “Any obligation of a licensee or exemptee for the payment of annual charges under section 10(e) of the Federal Power Act ([16 U.S.C. 803(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section803/e&num=0&edition=prelim)) for a project that has not commenced construction as of the date of enactment of this Act [Oct. 23, 2018] shall commence not earlier than the latest of— “(1) the date by which the licensee or exemptee is required to commence construction; or “(2) the date of any extension of the deadline under paragraph (1).”
+
 
 <a id="section-804"></a>
 ## § 804. Project works affecting navigable waters; requirements insertable in license
@@ -684,12 +703,15 @@ Whenever application is filed for a project hereunder involving navigable waters
 <a id="section-806"></a>
 ## § 806. Time limit for construction of project works; extension of time; termination or revocation of licenses for delay
 
-The licensee shall commence the construction of the project works within the time fixed in the license, which shall not be more than two years from the date thereof, shall thereafter in good faith and with due diligence prosecute such construction, and shall within the time fixed in the license complete and put into operation such part of the ultimate development as the commission shall deem necessary to supply the reasonable needs of the then available market, and shall from time to time thereafter construct such portion of the balance of such development as the commission may direct, so as to supply adequately the reasonable market demands until such development shall have been completed. The periods for the commencement of construction may be extended once but not longer than two additional years and the period for the completion of construction carried on in good faith and with reasonable diligence may be extended by the commission when not incompatible with the public interests. In case the licensee shall not commence actual construction of the project works, or of any specified part thereof, within the time prescribed in the license or as extended by the commission, then, after due notice given, the license shall, as to such project works or part thereof, be terminated upon written order of the commission. In case the construction of the project works, or of any specified part thereof, has been begun but not completed within the time prescribed in the license, or as extended by the commission, then the Attorney General, upon the request of the commission, shall institute proceedings in equity in the district court of the United States for the district in which any part of the project is situated for the revocation of said license, the sale of the works constructed, and such other equitable relief as the case may demand, as provided for in [section 820 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-820).
+The licensee shall commence the construction of the project works within the time fixed in the license, which shall not be more than two years from the date thereof, shall thereafter in good faith and with due diligence prosecute such construction, and shall within the time fixed in the license complete and put into operation such part of the ultimate development as the commission shall deem necessary to supply the reasonable needs of the then available market, and shall from time to time thereafter construct such portion of the balance of such development as the commission may direct, so as to supply adequately the reasonable market demands until such development shall have been completed. The periods for the commencement of construction may be extended for not more than 8 additional years, and the period for the completion of construction carried on in good faith and with reasonable diligence may be extended by the commission when not incompatible with the public interests. In case the licensee shall not commence actual construction of the project works, or of any specified part thereof, within the time prescribed in the license or as extended by the commission, then, after due notice given, the license shall, as to such project works or part thereof, be terminated upon written order of the commission. In case the construction of the project works, or of any specified part thereof, has been begun but not completed within the time prescribed in the license, or as extended by the commission, then the Attorney General, upon the request of the commission, shall institute proceedings in equity in the district court of the United States for the district in which any part of the project is situated for the revocation of said license, the sale of the works constructed, and such other equitable relief as the case may demand, as provided for in [section 820 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-820).
 
 ### Statutory Notes
 
 #### References in Text
 Proceedings in equity, referred to in text, were abolished by the adoption of rule 2 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, which provided that “there shall be one form of action to be known as ‘civil action’ ”.
+
+#### Amendments
+2018—Pub. L. 115–270 substituted “for not more than 8 additional years,” for “once but not longer than two additional years” in second sentence.
 
 
 <a id="section-807"></a>
@@ -995,7 +1017,7 @@ As originally enacted, this section contained the further proviso: “That secti
 
     (ii) if the Commission makes an initial determination, pursuant to clause (i), that the facility meets the qualifying criteria, publish public notice of the notice of intent filed under subparagraph (A).
 
-  (C) If, not later than 45 days after the date of publication of the public notice described in subparagraph (B)(ii)—
+  (C) If, not later than 30 days after the date of publication of the public notice described in subparagraph (B)(ii)—
 
     (i) an entity contests whether the facility meets the qualifying criteria, the Commission shall promptly issue a written determination as to whether the facility meets such criteria; or
 
@@ -1011,7 +1033,7 @@ As originally enacted, this section contained the further proviso: “That secti
 
     (i) the facility is constructed, operated, or maintained for the generation of electric power and uses for such generation only the hydroelectric potential of a non-federally owned conduit;
 
-    (ii) the facility has an installed capacity that does not exceed 5 megawatts; and
+    (ii) the facility has an installed capacity that does not exceed 40 megawatts; and
 
     (iii) on or before August 9, 2013, the facility is not licensed under, or exempted from the license requirements contained in, this subchapter.
 
@@ -1040,6 +1062,10 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 
 A prior section 30 of act June 10, 1920, was classified to [section 791 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791), prior to repeal by act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.
 
 #### Amendments
+2018—Subsec. (a)(2)(C). Pub. L. 115–270, § 3002(1), substituted “30 days” for “45 days” in introductory provisions.
+
+Subsec. (a)(3)(C)(ii). Pub. L. 115–270, § 3002(2), substituted “40 megawatts” for “5 megawatts”.
+
 2013—Subsecs. (a), (b). Pub. L. 113–23, § 4(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Commission to grant exemptions from the requirements of this subchapter for certain hydroelectric facilities and prohibited the granting of exemptions to facilities with certain capacities.
 
 Subsec. (c). Pub. L. 113–23, § 4(a)(2), substituted “subsection (b)” for “subsection (a)” in introductory provisions.
@@ -1229,6 +1255,185 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 (4) The Secretary concerned shall submit into the public record of the Commission proceeding with any prescription under [section 811 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-811) or alternative prescription it accepts under this section, a written statement explaining the basis for such prescription, and reason for not accepting any alternative prescription under this section. The written statement must demonstrate that the Secretary gave equal consideration to the effects of the prescription adopted and alternatives not accepted on energy supply, distribution, cost, and use; flood control; navigation; water supply; and air quality (in addition to the preservation of other aspects of environmental quality); based on such information as may be available to the Secretary, including information voluntarily provided in a timely manner by the applicant and others. The Secretary shall also submit, together with the aforementioned written statement, all studies, data, and other factual information available to the Secretary and relevant to the Secretary’s decision.
 
 (5) If the Commission finds that the Secretary’s final prescription would be inconsistent with the purposes of this subchapter, or other applicable law, the Commission may refer the dispute to the Commission’s Dispute Resolution Service. The Dispute Resolution Service shall consult with the Secretary and the Commission and issue a non-binding advisory within 90 days. The Secretary may accept the Dispute Resolution Service advisory unless the Secretary finds that the recommendation will not adequately protect the fish resources. The Secretary shall submit the advisory and the Secretary’s final written determination into the record of the Commission’s proceeding.
+
+
+<a id="section-823e"></a>
+## § 823e. Promoting hydropower development at existing nonpowered dams
+**(a) Expedited licensing process for non-Federal hydropower projects at existing nonpowered dams**
+
+(1) **In general** — As provided in this section, the Commission may issue and amend licenses, as appropriate, for any facility the Commission determines is a qualifying facility.
+
+(2) **Rule** — Not later than 180 days after October 23, 2018, the Commission shall issue a rule establishing an expedited process for issuing and amending licenses for qualifying facilities under this section.
+
+(3) **Interagency task force**
+
+  (A) In establishing the expedited process under this section, the Commission shall convene an interagency task force, with appropriate Federal and State agencies and Indian tribes represented, to coordinate the regulatory processes associated with the authorizations required to construct and operate a qualifying facility.
+
+  (B) The task force shall develop procedures that are consistent with subsection (e)(1)(E) to seek to ensure that, for projects licensed pursuant to this section, the Commission and appropriate Federal and State agencies and Indian tribes shall exercise their authorities in a manner that, to the extent practicable, will not result in any material change to the storage, release, or flow operations of the associated nonpowered dam existing at the time an applicant files its license application.
+
+(4) **Length of process** — The Commission shall seek to ensure that the expedited process under this section will result in a final decision on an application for a license by not later than 2 years after receipt of a completed application for the license.
+
+**(b) Dam safety**
+
+(1) **Assessment** — Before issuing any license for a qualifying facility, the Commission shall assess the safety of existing non-Federal dams and other non-Federal structures related to the qualifying facility (including possible consequences associated with failure of such structures).
+
+(2) **Requirements** — In issuing any license for a qualifying facility at a non-Federal dam, the Commission shall ensure that the Commission’s dam safety requirements apply to such qualifying facility, and the associated qualifying nonpowered dam, over the term of such license.
+
+**(c) Interagency communications** Interagency cooperation in the preparation of environmental documents under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to an application for a license for a qualifying facility under this section, and interagency communications relating to licensing process coordination pursuant to this section, shall not—
+
+(1) be considered to be ex parte communications under Commission rules; or
+
+(2) preclude an agency from participating in a licensing proceeding under this subchapter, providing that any agency participating as a party in a licensing proceeding under this subchapter shall, to the extent practicable, demonstrate a separation of staff cooperating with the Commission under the National Environmental Policy Act 11 So in original. Probably should be followed by “of 1969”. ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and staff participating in the applicable proceeding under this subchapter.
+
+**(d) Identification of nonpowered dams for hydropower development**
+
+(1) **In general** — Not later than 12 months after October 23, 2018, the Commission, with the Secretary of the Army, the Secretary of the Interior, and the Secretary of Agriculture, shall jointly develop a list of existing nonpowered Federal dams that the Commission and the Secretaries agree have the greatest potential for non-Federal hydropower development.
+
+(2) **Considerations** — In developing the list under paragraph (1), the Commission and the Secretaries may consider the following:
+
+  (A) The compatibility of hydropower generation with existing purposes of the dam.
+
+  (B) The proximity of the dam to existing transmission resources.
+
+  (C) The existence of studies to characterize environmental, cultural, and historic resources relating to the dam.
+
+  (D) The effects of hydropower development on release or flow operations of the dam.
+
+(3) **Availability** — The Commission shall—
+
+  (A) provide the list developed under paragraph (1) to—
+
+    (i) the Committee on Energy and Commerce, the Committee on Transportation and Infrastructure, and the Committee on Natural Resources, of the House of Representatives; and
+
+    (ii) the Committee on Environment and Public Works, and the Committee on Energy and Natural Resources, of the Senate; and
+
+  (B) make such list available to the public.
+
+**(e) Definitions** For purposes of this section:
+
+(1) **Qualifying criteria** — The term “qualifying criteria” means, with respect to a facility—
+
+  (A) as of October 23, 2018, the facility is not licensed under, or exempted from the license requirements contained in, this subchapter;
+
+  (B) the facility will be associated with a qualifying nonpowered dam;
+
+  (C) the facility will be constructed, operated, and maintained for the generation of electric power;
+
+  (D) the facility will use for such generation any withdrawals, diversions, releases, or flows from the associated qualifying nonpowered dam, including its associated impoundment or other infrastructure; and
+
+  (E) the operation of the facility will not result in any material change to the storage, release, or flow operations of the associated qualifying nonpowered dam.
+
+(2) **Qualifying facility** — The term “qualifying facility” means a facility that is determined under this section to meet the qualifying criteria.
+
+(3) **Qualifying nonpowered dam** — The term “qualifying nonpowered dam” means any dam, dike, embankment, or other barrier—
+
+  (A) the construction of which was completed on or before October 23, 2018;
+
+  (B) that is or was operated for the control, release, or distribution of water for agricultural, municipal, navigational, industrial, commercial, environmental, recreational, aesthetic, drinking water, or flood control purposes; and
+
+  (C) that, as of October 23, 2018, is not generating electricity with hydropower generating works that are licensed under, or exempted from the license requirements contained in, this subchapter.
+
+**(f) Savings clause** Nothing in this section affects—
+
+(1) any authority of the Commission to license a facility at a nonpowered dam under this subchapter; and
+
+(2) any authority of the Commission to issue an exemption to a small hydroelectric power project under the Public Utility Regulatory Policies Act of 1978.
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
+
+
+<a id="section-823f"></a>
+## § 823f. Closed-loop pumped storage projects
+**(a) Expedited licensing process for closed-loop pumped storage projects**
+
+(1) **In general** — As provided in this section, the Commission may issue and amend licenses, as appropriate, for closed-loop pumped storage projects.
+
+(2) **Rule** — Not later than 180 days after October 23, 2018, the Commission shall issue a rule establishing an expedited process for issuing and amending licenses for closed-loop pumped storage projects under this section.
+
+(3) **Interagency task force** — In establishing the expedited process under this section, the Commission shall convene an interagency task force, with appropriate Federal and State agencies and Indian tribes represented, to coordinate the regulatory processes associated with the authorizations required to construct and operate closed-loop pumped storage projects.
+
+(4) **Length of process** — The Commission shall seek to ensure that the expedited process under this section will result in final decision on an application for a license by not later than 2 years after receipt of a completed application for such license.
+
+**(b) Dam safety** Before issuing any license for a closed-loop pumped storage project, the Commission shall assess the safety of existing dams and other structures related to the project (including possible consequences associated with failure of such structures).
+
+**(c) Exceptions from other requirements**
+
+(1) **In general** — In issuing or amending a license for a closed-loop pumped storage project pursuant to the expedited process established under this section, the Commission may grant an exception from any other requirement of this subchapter with respect to any part of the closed-loop pumped storage project (not including any dam or other impoundment).
+
+(2) **Consultation** — In granting an exception under paragraph (1), the Commission shall consult with the United States Fish and Wildlife Service, the National Marine Fisheries Service, and the State agency exercising administration over the fish and wildlife resources of the State in which the closed-loop pumped storage project is or will be located, in the manner provided by the Fish and Wildlife Coordination Act ([16 U.S.C. 661](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) et seq.).
+
+(3) **Terms and conditions** — In granting an exception under paragraph (1), the Commission shall include in any such exception—
+
+  (A) such terms and conditions as the United States Fish and Wildlife Service, the National Marine Fisheries Service, and the State agency described in paragraph (2) each determine are appropriate to prevent loss of, or damage to, fish and wildlife resources and to otherwise carry out the purposes of the Fish and Wildlife Coordination Act; and
+
+  (B) such terms and conditions as the Commission deems appropriate to ensure that such closed-loop pumped storage project continues to comply with the provisions of this section and terms and conditions included in any such exception.
+
+(4) **Fees** — The Commission, in addition to the requirements of [section 803(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section803/e&num=0&edition=prelim), shall establish fees which shall be paid by an applicant for a license for a closed-loop pumped storage project that is required to meet terms and conditions set by fish and wildlife agencies under paragraph (3). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in paragraph (3) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
+
+**(d) Transfers** Notwithstanding [section 798 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-798), and regardless of whether the holder of a preliminary permit for a closed-loop pumped storage project claimed municipal preference under [section 800(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section800/a&num=0&edition=prelim) when obtaining the permit, on request by a municipality, the Commission may, to facilitate development of a closed-loop pumped storage project—
+
+(1) add entities as joint permittees following issuance of a preliminary permit; and
+
+(2) transfer a license in part to one or more nonmunicipal entities as co-licensees with a municipality, if the municipality retains majority ownership of the project for which the license was issued.
+
+**(e) Interagency communications** Interagency cooperation in the preparation of environmental documents under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to an application for a license for a closed-loop pumped storage project submitted pursuant to this section, and interagency communications relating to licensing process coordination pursuant to this section, shall not—
+
+(1) be considered to be ex parte communications under Commission rules; or
+
+(2) preclude an agency from participating in a licensing proceeding under this subchapter, providing that any agency participating as a party in a licensing proceeding under this subchapter shall, to the extent practicable, demonstrate a separation of staff cooperating with the Commission under the National Environmental Policy Act 11 So in original. Probably should be followed by “of 1969”. ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and staff participating in the applicable proceeding under this subchapter.
+
+**(f) Developing abandoned mines for pumped storage**
+
+(1) **Workshop** — Not later than 6 months after October 23, 2018, the Commission shall hold a workshop to explore potential opportunities for development of closed-loop pumped storage projects at abandoned mine sites.
+
+(2) **Guidance** — Not later than 1 year after October 23, 2018, the Commission shall issue guidance to assist applicants for licenses or preliminary permits for closed-loop pumped storage projects at abandoned mine sites.
+
+**(g) Qualifying criteria for closed-loop pumped storage projects**
+
+(1) **In general** — The Commission shall establish criteria that a pumped storage project shall meet in order to qualify as a closed-loop pumped storage project eligible for the expedited process established under this section.
+
+(2) **Inclusions** — In establishing the criteria under paragraph (1), the Commission shall include criteria requiring that the pumped storage project—
+
+  (A) cause little to no change to existing surface and ground water flows and uses; and
+
+  (B) is unlikely to adversely affect species listed as a threatened species or endangered species under the Endangered Species Act of 1973 [[16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.].
+
+**(h) Savings clause** Nothing in this section affects any authority of the Commission to license a closed-loop pumped storage project under this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+The Fish and Wildlife Coordination Act, referred to in subsec. (c)(2), (3)(A), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The Endangered Species Act of 1973, referred to in subsec. (g)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
+
+<a id="section-823g"></a>
+## § 823g. Considerations for relicensing terms
+**(a) In general** In determining the term of a new license issued when an existing license under this subchapter expires, the Commission shall take into consideration, among other things—
+
+(1) project-related investments by the licensee under the new license; and
+
+(2) project-related investments by the licensee over the term of the existing license.
+
+**(b) Equal weight** The determination of the Commission under subsection (a) shall give equal weight to—
+
+(1) investments by the licensee to implement the new license under this subchapter, including investments relating to redevelopment, new construction, new capacity, efficiency, modernization, rehabilitation or replacement of major equipment, safety improvements, or environmental, recreation, or other protection, mitigation, or enhancement measures required or authorized by the new license; and
+
+(2) investments by the licensee over the term of the existing license (including any terms under annual licenses) that—
+
+  (A) resulted in redevelopment, new construction, new capacity, efficiency, modernization, rehabilitation or replacement of major equipment, safety improvements, or environmental, recreation, or other protection, mitigation, or enhancement measures conducted over the term of the existing license; and
+
+  (B) were not expressly considered by the Commission as contributing to the length of the existing license term in any order establishing or extending the existing license term.
+
+**(c) Commission determination** At the request of the licensee, the Commission shall make a determination as to whether any planned, ongoing, or completed investment meets the criteria under subsection (b)(2). Any determination under this subsection shall be issued within 60 days following receipt of the licensee’s request. When issuing its determination under this subsection, the Commission shall not assess the incremental number of years that the investment may add to the new license term. All such assessment shall occur only as provided in subsection (a).
 
 
 <a id="section-824"></a>
@@ -1714,15 +1919,39 @@ For definitions of terms used in this section, see [section 2602 of this title](
 
 (6) For purposes of this subsection, the terms “associate company”, “holding company”, and “holding company system” have the meaning given those terms in the Public Utility Holding Company Act of 2005 [[42 U.S.C. 16451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16451&num=0&edition=prelim) et seq.].
 
+(7)
+
+  (A) Not later than 180 days after September 28, 2018, the Commission shall promulgate a rule requiring any public utility that is seeking to merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with those of any other person, to notify the Commission of such transaction not later than 30 days after the date on which the transaction is consummated if—
+
+    (i) the facilities, or any part thereof, to be acquired are of a value in excess of $1,000,000; and
+
+    (ii) such public utility is not required to secure an order of the Commission under paragraph (1)(B).
+
+  (B) In establishing any notification requirement under subparagraph (A), the Commission shall, to the maximum extent practicable, minimize the paperwork burden resulting from the collection of information.
+
 **(b) Orders of Commission** The Commission may grant any application for an order under this section in whole or in part and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (a)(1)(B)
+Pub. L. 115–247, §§ 1, 3, Sept. 28, 2018, 132 Stat. 3152, provided that, effective 180 days after Sept. 28, 2018, subsection (a)(1) of this section is amended by striking subparagraph (B) and inserting the following:
+
+“(B) merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;”.
+
+See 2018 Amendment note below.
 
 #### References in Text
 The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(1)(B). Pub. L. 115–247, § 1, added subpar. (B) and struck out former subpar. (B) which read as follows: “merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;”.
+
+Subsec. (a)(7). Pub. L. 115–247, § 2, added par. (7).
+
 2005—Subsec. (a). Pub. L. 109–58 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No public utility shall sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $50,000, or by any means whatsoever, directly or indirectly, merge or consolidate such facilities or any part thereof with those of any other person, or purchase, acquire, or take any security of any other public utility, without first having secured an order of the Commission authorizing it to do so. Upon application for such approval the Commission shall give reasonable notice in writing to the Governor and State commission of each of the States in which the physical property affected, or any part thereof, is situated, and to such other persons as it may deem advisable. After notice and opportunity for hearing, if the Commission finds that the proposed disposition, consolidation, acquisition, or control will be consistent with the public interest, it shall approve the same.”
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–247, § 3, Sept. 28, 2018, 132 Stat. 3152, provided that: “The amendment made by section 1 [amending this section] shall take effect 180 days after the date of enactment of this Act [Sept. 28, 2018].”
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–58, title XII, § 1289(b), (c), Aug. 8, 2005, 119 Stat. 983, provided that: “(b) Effective Date.—The amendments made by this section [amending this section] shall take effect 6 months after the date of enactment of this Act [Aug. 8, 2005]. “(c) Transition Provision.—The amendments made by subsection (a) [amending this section] shall not apply to any application under section 203 of the Federal Power Act ([16 U.S.C. 824b](./chapter-012-federal-regulation-and-development-of-power.md#section-824b)) that was filed on or before the date of enactment of this Act [Aug. 8, 2005].”
@@ -1788,9 +2017,21 @@ Executive and administrative functions of Securities and Exchange Commission, wi
 
 (4) As used in this subsection, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include any rate which takes effect subject to refund and subject to a later determination of the appropriate amount of such rate.
 
+**(g) Inaction of Commissioners**
+
+(1) **In general** — With respect to a change described in subsection (d), if the Commission permits the 60-day period established therein to expire without issuing an order accepting or denying the change because the Commissioners are divided two against two as to the lawfulness of the change, as a result of vacancy, incapacity, or recusal on the Commission, or if the Commission lacks a quorum—
+
+  (A) the failure to issue an order accepting or denying the change by the Commission shall be considered to be an order issued by the Commission accepting the change for purposes of section 825l(a) of this title; and
+
+  (B) each Commissioner shall add to the record of the Commission a written statement explaining the views of the Commissioner with respect to the change.
+
+(2) **Appeal** — If, pursuant to this subsection, a person seeks a rehearing under section 825l(a) of this title, and the Commission fails to act on the merits of the rehearing request by the date that is 30 days after the date of the rehearing request because the Commissioners are divided two against two, as a result of vacancy, incapacity, or recusal on the Commission, or if the Commission lacks a quorum, such person may appeal under section 825l(b) of this title.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–270 added subsec. (g).
+
 1978—Subsec. (d). Pub. L. 95–617, § 207(a), substituted “sixty” for “thirty” in two places.
 
 Subsec. (f). Pub. L. 95–617, § 208, added subsec. (f).

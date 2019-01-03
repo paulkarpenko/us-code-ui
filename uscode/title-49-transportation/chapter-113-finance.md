@@ -44,7 +44,7 @@ Section 11304, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1431; Pub. L. 96–258,
 1996—Subsec. (f). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
@@ -62,6 +62,9 @@ Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set
 Provisions similar to those in this section were contained in [section 11341 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11341&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11321, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1432, related to limitations on ownership of certain water carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11322"></a>
@@ -82,6 +85,9 @@ A prior section 11321, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1432, related t
 Provisions similar to those in this section were contained in [section 11342 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11342&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11322, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1433, related to restrictions on officers and directors of carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 11328 of this title](./chapter-113-finance.md#section-11328).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11323"></a>
@@ -116,6 +122,9 @@ A prior section 11322, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1433, related t
 Provisions similar to those in this section were contained in [section 11343 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11343&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11323, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1433; Pub. L. 99–521, § 10(a), (b)(1), Oct. 22, 1986, 100 Stat. 2997, related to limitation on ownership of other carriers by household goods freight forwarders, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11324"></a>
@@ -164,6 +173,9 @@ In making such findings, the Board shall, with respect to any application that i
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11344 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11344&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11325"></a>
 ## § 11325. Consolidation, merger, and acquisition of control: procedure
@@ -202,6 +214,9 @@ Provisions similar to those in this section were contained in [section 11344 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11345 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11345&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11326"></a>
 ## § 11326. Employee protective arrangements in transactions involving rail carriers
@@ -221,6 +236,9 @@ Section 5(2)(f) of the Interstate Commerce Act, referred to in subsec. (a), was 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11347 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11347&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11327"></a>
 ## § 11327. Supplemental orders
@@ -231,6 +249,9 @@ When cause exists, the Board may make appropriate orders supplemental to an orde
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11351 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11351&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11328"></a>
@@ -283,3 +304,6 @@ Section 11365, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1443, related to effect
 Section 11366, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1443, related to reports by carriers making change in financial structure.
 
 Section 11367, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1444; Pub. L. 98–216, § 2(18), (19), Feb. 14, 1984, 98 Stat. 5, related to application of certain other laws to proposed changes in financial structure of carriers.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

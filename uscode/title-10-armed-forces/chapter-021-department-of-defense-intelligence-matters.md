@@ -178,9 +178,34 @@ Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, pr
 
 (2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of National Intelligence.
 
+**(c) Annual Briefing on the Intelligence, Surveillance, and Reconnaissance Requirements of the Combatant Commands.** At the same time that the President’s budget is submitted pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for each of fiscal years 2016 through 2025—
+
+(1) the Chairman of the Joint Chiefs of Staff shall provide to the congressional defense committees, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a briefing on—
+
+  (A) the intelligence, surveillance, and reconnaissance requirements (including with respect to space-based intelligence, surveillance, and reconnaissance), by specific intelligence capability type, of each of the combatant commands;
+
+  (B) for the year preceding the year in which the briefing is provided, the satisfaction rate of each of the combatant commands with the intelligence, surveillance, and reconnaissance requirements (including with respect to space-based intelligence, surveillance, and reconnaissance), by specific intelligence capability type, of such combatant command;
+
+  (C) a risk analysis identifying the critical gaps and shortfalls in such requirements in relation to such satisfaction rate; and
+
+  (D) for the year preceding the year in which the briefing is provided—
+
+    (i) the number of hours or amount of capacity of intelligence, surveillance, and reconnaissance requested by each commander of a combatant command, by specific intelligence capability type;
+
+    (ii) the number of such requests identified under clause (i) that the Joint Chiefs of Staff determined to be a validated requirement, including the number of hours or amount of capacity of such requests that were provided to each such commander; and
+
+    (iii) with respect to such validated requirements, the number of hours or amount of capacity of intelligence, surveillance, and reconnaissance, by specific intelligence capability type, that the Joint Chiefs of Staff requested each military department to provide, and the number of such hours or the amount of such capacity so provided by each such military department; and
+
+(2) the Under Secretary of Defense for Intelligence shall provide to the congressional defense committees, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a briefing on short-term, mid-term, and long-term strategies to address the critical intelligence, surveillance, and reconnaissance requirements (including with respect to space-based intelligence, surveillance, and reconnaissance) of the combatant commands.
+
 ### Statutory Notes
 
+#### Codification
+Subsec. (c) of this section was based on Pub. L. 113–291, div. A, title XVI, § 1626, Dec. 19, 2014, 128 Stat. 3635; Pub. L. 115–91, div. A, title XVI, § 1624, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 115–232, div. A, title XVI, § 1625(a), Aug. 13, 2018, 132 Stat. 2121, which was transferred to this chapter and redesignated as subsec. (c) of this section by Pub. L. 115–232, § 1625(b).
+
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232, § 1625(b), transferred section 1626 of Pub. L. 113–291, as amended, to this section and redesignated it as subsec. (c). See Codification note above.
+
 2011—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
 
 2008—Subsecs. (a)(3), (b)(2). Pub. L. 110–181 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
@@ -261,35 +286,26 @@ A prior section 427, added Pub. L. 109–364, div. A, title IX, § 932(a), Oct. 
 
 **(e) Dedication of Resources.—** The Secretary shall ensure that sufficient resources are provided to staff, train, and support such personnel as are necessary to fully protect classified information disclosed to contractors of the Department of Defense.
 
-**(f) Biennial Report.—** The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President’s budget is submitted pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
-
-(1) The workforce responsible for carrying out the requirements of this section, including the number and experience of such workforce; training in the performance of industrial security functions; performance metrics; and resulting assessment of overall quality.
-
-(2) A description of funds authorized, appropriated, or reprogrammed to carry out the requirements of this section, the budget execution of such funds, and the adequacy of budgets provided for performing such purpose.
-
-(3) Statistics on the number of contractors handling classified information of the Department of Defense, and the percentage of such contractors who are subject to foreign ownership, control, or influence.
-
-(4) Statistics on the number of violations identified, enforcement actions taken, and the percentage of such violations occurring at facilities of contractors subject to foreign ownership, control, or influence.
-
-(5) An assessment of whether major contractors implementing the program have adequate enforcement programs and have trained their employees adequately in the requirements of the program.
-
-(6) Trend data on attempts to compromise classified information disclosed to contractors of the Department of Defense to the extent that such data are available.
-
 ### Statutory Notes
 
 #### References in Text
 Executive Order 12829, referred to in subsec. (b), is set out as a note under [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim), War and National Defense.
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91 struck out subsec. (f) which related to biennial reports on expenditures and activities of the Department of Defense in carrying out the requirements of this section.
+
 2011—Subsec. (f). Pub. L. 111–383 struck out “, United States Code,” after “title 31”.
 
 2009—Pub. L. 111–84 renumbered [section 438 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section438&num=0&edition=prelim) as this section.
+
+#### Pilot Program for Department of Defense Controlled Unclassified Information in the Hands of Industry
+Pub. L. 115–232, div. A, title X, § 1048, Aug. 13, 2018, 132 Stat. 1961, provided that: “(a) In General.—The Secretary of Defense—“(1) shall establish and implement a pilot program for oversight of designated Department of Defense controlled unclassified information in the hands of defense contractors with foreign ownership, control, or influence concerns; and “(2) may designate an entity within the Department to be responsible for the pilot program under paragraph (1). “(b) Program Requirements.—The pilot program under subsection (a) shall have the following elements:“(1) The use of a capability to rapidly identify companies subject to foreign ownership, control, or influence that are processing designated controlled unclassified information, including unclassified controlled technical information. “(2) The use, in consultation with the Chief of Information Officer of the Department, of a capability or means for assessing industry compliance with Department cybersecurity standards. “(3) A means of demonstrating whether and under what conditions the risk to national security posed by access to Department controlled unclassified information, including unclassified controlled technical information, by a company under foreign ownership, control, or influence company can be mitigated and how such mitigation could be enforced. “(c) Briefing Required.—By not later than 30 days after the completion of the pilot program under this section, but in no case later than December 1, 2019, the Secretary shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the results of the pilot program and any decisions about whether to implement the pilot program on a Department-wide basis.”
 
 #### Requirement for Entities With Facility Clearances That Are Not Under Foreign Ownership Control or Influence Mitigation
 Pub. L. 111–383, div. A, title VIII, § 845, Jan. 7, 2011, 124 Stat. 4285, provided that: “(a) Requirement.—The Secretary of Defense shall develop a plan to ensure that covered entities employ and maintain policies and procedures that meet requirements under the national industrial security program. In developing the plan, the Secretary shall consider whether or not covered entities, or any category of covered entities, should be required to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures. “(b) Covered Entity.—A covered entity under this section is an entity—“(1) to which the Department of Defense has granted a facility clearance; and “(2) that is not subject to foreign ownership control or influence mitigation measures. “(c) Guidance.—The Secretary of Defense shall issue guidance, including appropriate compliance mechanisms, to implement the requirement in subsection (a). To the extent determined appropriate by the Secretary, the guidance shall require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures. “(d) Report.—Not later than 270 days after the date of the enactment of this Act [Jan. 7, 2011], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the plan developed pursuant to subsection (a) and the guidance issued pursuant to subsection (c). The report shall specifically address the rationale for the Secretary’s decision on whether or not to require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.”
 
 #### Submission of First Biennial Report
-Pub. L. 110–417, [div. A], title VIII, § 845(b), Oct. 14, 2008, 122 Stat. 4542, provided that: “Notwithstanding the deadline in subsection (f) of section 438 [now 428] of title 10, United States Code, as added by this section, the first biennial report submitted after the date of the enactment of this Act [Oct. 14, 2008] pursuant to such subsection shall be submitted not later than September 1, 2009, and shall address the period from the date of the enactment of this Act to the issuance of such report.”
+Pub. L. 110–417, [div. A], title VIII, § 845(b), Oct. 14, 2008, 122 Stat. 4542, required the first biennial report under former subsec. (f) of this section to be submitted no later than Sept. 1, 2009.
 
 
 <a id="section-429"></a>
@@ -369,7 +385,7 @@ Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 300
 
 <a id="section-431"></a>
 ## § 431. Authority to engage in commercial activities as security for intelligence collection activities
-**(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2017.
+**(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2023.
 
 **(b) Interagency Coordination and Support.—** Any such activity shall—
 
@@ -396,6 +412,8 @@ Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 300
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “December 31, 2023” for “December 31, 2017”.
+
 2014—Subsec. (a). Pub. L. 113–291 substituted “December 31, 2017” for “December 31, 2015”.
 
 2011—Subsec. (a). Pub. L. 111–383 substituted “December 31, 2015” for “December 31, 2010”.
@@ -433,11 +451,13 @@ Pub. L. 102–88, title V, § 504(b), Aug. 14, 1991, 105 Stat. 440, provided tha
 
 (1) The Secretary of Defense shall assign an organization within the Department of Defense to have auditing responsibility with respect to activities authorized under this subchapter.
 
-(2) That organization shall audit the use and disposition of funds generated by any commercial activity authorized under this subchapter not less often than annually. The results of all such audits shall be promptly reported to the congressional defense committees and the congressional intelligence committees (as defined in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim)).
+(2) That organization shall audit the use and disposition of funds generated by any commercial activity authorized under this subchapter not less often than annually. The results of all such audits shall be reported to the congressional defense committees and the congressional intelligence committees (as defined in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim)) by not later than December 31 of each year.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(2). Pub. L. 115–91 struck out “promptly” before “reported” and inserted before period at end “by not later than December 31 of each year”.
+
 2013—Subsec. (b)(2). Pub. L. 113–66 substituted “the congressional defense committees and the congressional intelligence committees (as defined in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim)).” for “the intelligence committees (as defined in [section 437(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/d&num=0&edition=prelim)).”
 
 

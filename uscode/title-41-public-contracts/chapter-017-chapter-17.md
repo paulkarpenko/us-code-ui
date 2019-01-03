@@ -543,6 +543,15 @@ Pub. L. 113–291, div. A, title VIII, § 835, Dec. 19, 2014, 128 Stat. 3449, pr
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1705 | 41:418. | Pub. L. 93–400, § 20, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title VIII, § 8303(a), Oct. 13, 1994, 108 Stat. 3398. |
 
+#### Amendment of Subsection (c)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(2), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended by striking “commercial items” and inserting “commercial products and commercial services”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “commercial products and commercial services” for “commercial items”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
 
 <a id="section-1706"></a>
 ## § 1706. Personnel evaluation
@@ -745,6 +754,15 @@ Subsection (d) is substituted for 41:416(a)(2) and (7) to eliminate unnecessary 
 In subsection (e)(1)(B)(i), the words “required for a bid or proposal for a contract described in” are substituted for “required by” for clarity.
 
 In subsection (e)(1)(B)(ii), the words “required for an order described in” are substituted for “required by” for clarity.
+
+#### Amendment of Subsections (c)(6) and (e)(3)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(3), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (c)(6) and (e)(3) of this section are amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsecs. (c)(6), (e)(3). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Applicability to Tennessee Valley Authority
 Pub. L. 98–577, title III, § 303(c), Oct. 30, 1984, 98 Stat. 3079, provided that: “The provisions of the amendments made by subsection (a) of this section [see Tables for classification] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
@@ -965,6 +983,9 @@ Each executive agency shall establish and maintain cost-effective procedures and
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(ii), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, subsection (a) of this section is amended by striking “section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim))” and inserting “section 31(b) of the Small Business Act”. See 2017 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -975,3 +996,9 @@ In subsection (b), the words “socially and economically disadvantaged individu
 
 #### References in Text
 Section 204 of the Women’s Business Ownership Act of 1988, referred to in subsec. (a)(3), is section 204 of Pub. L. 100–533, which is set out as a note under [section 637 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637&num=0&edition=prelim), Commerce and Trade.
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “section 31(b) of the Small Business Act” for “section 3(p) of the Small Business Act ([15 U.S.C. 632(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim))”.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under [section 657a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a&num=0&edition=prelim), Commerce and Trade.

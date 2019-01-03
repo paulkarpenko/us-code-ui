@@ -2,7 +2,7 @@
 title: 38
 chapter: '53'
 heading: SPECIAL PROVISIONS RELATING TO BENEFITS
-section_count: 24
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -437,6 +437,13 @@ Pub. L. 97–306, title IV, § 408(d), Oct. 14, 1982, 96 Stat. 1446, provided th
 Pub. L. 97–66, title VI, § 604(b), Oct. 17, 1981, 95 Stat. 1036, provided that: “Section 5303A [formerly 3103A] of title 38, United States Code, as added by subsection (a), shall not apply with respect to the receipt by any person of any benefit provided by or pursuant to law before the date of the enactment of this Act [Oct. 17, 1981]. Notwithstanding such section, a person who before such date has received a certificate of eligibility from the Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs] for benefits under chapter 37 of title 38, United States Code, is eligible for such benefits after such date.”
 
 
+<a id="section-5303b"></a>
+## § 5303B. Character of service determinations
+**(a) Determination.—** The Secretary shall establish a process by which an individual who served in the Armed Forces and was discharged or dismissed therefrom may seek a determination from the Secretary with respect to whether such discharge or release was under a condition that bars the right of such individual to a benefit under the laws administered by the Secretary based upon the period of service from which discharged or dismissed.
+
+**(b) Provision of Information.—** If the Secretary determines under subsection (a) that an individual is barred to a benefit under the laws administered by the Secretary, the Secretary shall provide to such individual information regarding the ability of the individual to address such condition, including pursuant to [section 5303 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5303) and chapter 79 of title 10.
+
+
 <a id="section-5304"></a>
 ## § 5304. Prohibition against duplication of benefits
 **(a)**
@@ -455,16 +462,13 @@ Pub. L. 97–66, title VI, § 604(b), Oct. 17, 1981, 95 Stat. 1036, provided tha
 
 **(c)** Pension, compensation, or retirement pay on account of any person’s own service shall not be paid to such person for any period for which such person receives active service pay.
 
-### Statutory Notes
+**(d)**
 
-#### Amendment of Section
-Pub. L. 114–92, div. A, title VI, §§ 633(b), 635, Nov. 25, 2015, 129 Stat. 850, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by adding at the end the following new subsection:
-
-(d)(1) Other than amounts payable under section 1413a or 1414 of title 10, the amount of pension and compensation benefits payable to a person under this title shall be reduced by the amount of any lump sum payment made to such person under [section 1415 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1415&num=0&edition=prelim).
+(1) Other than amounts payable under section 1413a or 1414 of title 10, the amount of pension and compensation benefits payable to a person under this title shall be reduced by the amount of any lump sum payment made to such person under [section 1415 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1415&num=0&edition=prelim).
 
 (2) The Secretary shall collect any reduction under paragraph (1) from amounts otherwise payable to the person under this title, including pension and compensation payable under this title, before any pension and compensation payments under this title may be paid to the person.
 
-See 2015 Amendment note below.
+### Statutory Notes
 
 #### Amendments
 2015—Subsec. (d). Pub. L. 114–92 added subsec. (d).

@@ -60,6 +60,17 @@ Subsec. (c). Pub. L. 108–375, § 2821(a)(1), added subsec. (c).
 #### Effective Date of 2011 Amendment
 Pub. L. 112–81, div. B, title XXVIII, § 2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: “The prohibition in subsection (c) of [section 2661 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2661), United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act [Dec. 31, 2011].”
 
+#### Prioritization of Environmental Impacts for Facilities Sustainment, Restoration, and Modernization Demolition
+Pub. L. 115–232, div. A, title III, § 359, Aug. 13, 2018, 132 Stat. 1733, provided that: “The Secretary of Defense shall establish prioritization metrics for facilities deemed eligible for demolition within the Facilities Sustainment, Restoration, and Modernization (FSRM) process. Those metrics shall include full spectrum readiness and environmental impacts, including the removal of contamination.”
+
+#### Increased Percentage of Sustainment Funds Authorized for Realignment to Restoration and Modernization at Each Installation
+Pub. L. 115–91, div. A, title III, § 322, Dec. 12, 2017, 131 Stat. 1353, provided that: “(a) In General.—The Secretary of Defense may authorize an installation commander to realign up to 7.5 percent of an installation’s sustainment funds to restoration and modernization. “(b) Sunset.—The authority under subsection (a) shall expire at the close of September 30, 2022. “(c) Definitions.—The terms ‘sustainment’, ‘restoration’, and ‘modernization’ have the meanings given the terms in the Department of Defense Financial Management Regulation.”
+
+#### Disclosure of Beneficial Ownership by Foreign Persons of High Security Space Leased by the Department of Defense
+Pub. L. 115–91, div. B, title XXVIII, § 2876, Dec. 12, 2017, 131 Stat. 1871, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(7), Aug. 13, 2018, 132 Stat. 1985, provided that: “(a) Identification of Beneficial Ownership.—Before entering into a lease agreement with a covered entity for accommodation of a military department or Defense Agency in a building (or other improvement) that will be used for high-security leased space, the Department of Defense shall require the covered entity to—“(1) identify each beneficial owner of the covered entity by—“(A) name; “(B) current residential or business street address; and “(C) in the case of a United States person, a unique identifying number from a nonexpired passport issued by the United States or a nonexpired drivers license issued by a State; and “(2) disclose to the Department of Defense any beneficial owner of the covered entity that is a foreign person. “(b) Required Disclosure.—“(1) Initial disclosure.—The Secretary of Defense shall require a covered entity to provide the information required under subsection (a), when first submitting a proposal in response to a solicitation for offers issued by the Department. “(2) Updates.—The Secretary of Defense shall require a covered entity to update a submission of information required under subsection (a) not later than 60 days after the date of any change in—“(A) the list of beneficial owners of the covered entity; or “(B) the information required to be provided relating to each such beneficial owner. “(c) Precautions.—If a covered entity discloses a foreign person as a beneficial owner of a building (or other improvement) from which the Department of Defense is leasing high-security leased space, the Department of Defense shall notify the tenant of the space to take appropriate security precautions. “(d) Definitions.—In this section:“(1) Beneficial owner.—“(A) In general.—The term ‘beneficial owner’—“(i) means, with respect to a covered entity, each natural person who, directly or indirectly— “(I) exercises control over the covered entity through ownership interests, voting rights, agreements, or otherwise; or “(II) has an interest in or receives substantial economic benefits from the assets of the covered entity; and “(ii) does not include, with respect to a covered entity— “(I) a minor child; “(II) a person acting as a nominee, intermediary, custodian, or agent on behalf of another person; “(III) a person acting solely as an employee of the covered entity and whose control over or economic benefits from the covered entity derives solely from the employment status of the person; “(IV) a person whose only interest in the covered entity is through a right of inheritance, unless the person otherwise meets the definition of ‘beneficial owner’ under this paragraph; and “(V) a creditor of the covered entity, unless the creditor otherwise meets the requirements of ‘beneficial owner’ described above. “(B) Anti-abuse rule.—The exceptions under subparagraph (A)(ii) shall not apply if used for the purpose of evading, circumventing, or abusing the requirements of this section. “(2) Covered entity.—The term ‘covered entity’ means a person, copartnership, corporation, or other public or private entity. “(3) Foreign person.—The term ‘foreign person’ means an individual who is not a United States person or an alien lawfully admitted for permanent residence into the United States. “(4) High-security leased space.—The term ‘high-security leased space’ means a space leased by the Department of Defense that has a security level of III, IV, or V, as determined in accordance with the Interagency Security Committee Risk Management Process. “(5) United states person.—The term ‘United States person’ means a natural person who is a citizen of the United States or who owes permanent allegiance to the United States.”
+
+[Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(7) to section 2876 of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.]
+
 #### Pilot Program to Provide Additional Tools for Efficient Operation of Military Installations
 Pub. L. 107–107, div. B, title XXVIII, § 2813, Dec. 28, 2001, 115 Stat. 1308, authorized the Secretary of Defense, until Dec. 31, 2005, to carry out a pilot program, known as the “Pilot Efficient Facilities Initiative”, for purposes of determining the potential for increasing the efficiency and effectiveness of the operation of military installations.
 
@@ -99,15 +110,23 @@ The repeal of this section by Pub. L. 97–295 reflected the effect of section 7
 
   (H) Any transaction or contract action for the provision and operation of energy production facilities on real property under the jurisdiction of the Secretary of a military department, as authorized by [section 2922a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2922a/a/2&num=0&edition=prelim), if the term of the transaction or contract exceeds 20 years.
 
-(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project, the report shall include a summary of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in subparagraph (E) of paragraph (1) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
+(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project, the report shall include a summary of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made, as well as the certification described in paragraph (5). The report required by this subsection concerning any report of excess real property described in subparagraph (E) of paragraph (1) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
 
-(3) The authority of the Secretary concerned to enter into a transaction described in paragraph (1) commences only after—
-
-  (A) the end of the 30-day period beginning on the first day of the month with respect to which the report containing the facts concerning such transaction, and all other such proposed transactions for that month, is submitted under paragraph (1); or
-
-  (B) the end of the 14-day period beginning on the first day of that month when a copy of the report is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480) on or before the first day of that month.
+(3) The authority of the Secretary concerned to enter into a transaction described in paragraph (1) commences only after the end of the 14-day period beginning on the first day of the first month beginning on or after the date on which the report containing the facts concerning such transaction, and all other such proposed transactions for that month, is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
 (4) The report for a month under this subsection may not be submitted later than the first day of that month.
+
+(5) For purposes of paragraph (2), the certification described in this paragraph with respect to an acquisition or lease of real property is a certification that the Secretary concerned—
+
+  (A) evaluated the feasibility of using space in property under the jurisdiction of the Department of Defense to satisfy the purposes of the acquisition or lease; and
+
+  (B) determined that—
+
+    (i) space in property under the jurisdiction of the Department of Defense is not reasonably available to be used to satisfy the purposes of the acquisition or lease;
+
+    (ii) acquiring the property or entering into the lease would be more cost-effective than the use of the Department of Defense property; or
+
+    (iii) the use of the Department of Defense property would interfere with the ongoing military mission of the property.
 
 **(b) Additional Reporting Requirements Regarding Leases of Real Property Owned by the United States.—**
 
@@ -161,7 +180,7 @@ The repeal of this section by Pub. L. 97–295 reflected the effect of section 7
 
   (C) A declaration of an emergency or major disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
 
-  (D) The use of the militia or the armed forces after a proclamation to disperse under [section 334 of this title](./chapter-016-security-cooperation.md#section-334).11 See References in Text note below.
+  (D) The use of the militia or the armed forces after a proclamation to disperse under [section 254 of this title](./chapter-013-insurrection.md#section-254).
 
   (E) A contingency operation.
 
@@ -198,9 +217,15 @@ The National Emergencies Act, referred to in subsec. (f)(1)(B), is Pub. L. 94–
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
-[Section 334 of this title](./chapter-016-security-cooperation.md#section-334), referred to in subsection (f)(1)(D), was renumbered [section 254 of this title](./chapter-013-insurrection.md#section-254) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
-
 #### Amendments
+2017—Subsec. (a)(2). Pub. L. 115–91, § 2812(1), inserted “, as well as the certification described in paragraph (5)” after “leases to be made”.
+
+Subsec. (a)(3). Pub. L. 115–91, § 2811(a), amended par. (3) generally. Prior to amendment, par. (3) required wait periods following submittal of reports before transactions could be authorized.
+
+Subsec. (a)(5). Pub. L. 115–91, § 2812(2), added par. (5).
+
+Subsec. (f)(1)(D). Pub. L. 115–91, § 1081(a)(45), substituted “section 254” for “section 334”.
+
 2013—Subsec. (a)(1)(H). Pub. L. 112–239 added subpar. (H).
 
 2011—Subsec. (a)(1). Pub. L. 111–383, § 2811(f)(1)(A), substituted “the Secretary concerned submits” for “the Secretary submits” in introductory provisions.
@@ -366,7 +391,7 @@ Pub. L. 89–188, title VI, § 611, Sept. 16, 1965, 79 Stat. 818, as amended by 
 
   (C) considerations of urgency do not permit the delay necessary to include the required acquisition in an annual Military Construction Authorization Act.
 
-(2) Not later than 10 days after the date on which the Secretary of a military department determines to acquire an interest in land under the authority of this subsection, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notice containing a description of the property and interest to be acquired and the reasons for the acquisition.
+(2) Not later than 10 days after the date on which the Secretary of a military department determines to acquire an interest in land under the authority of this subsection, the Secretary shall submit, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a notice containing a description of the property and interest to be acquired and the reasons for the acquisition.
 
 (3) Appropriations available for military construction may be used for the purposes of this subsection.
 
@@ -390,7 +415,7 @@ Pub. L. 89–188, title VI, § 611, Sept. 16, 1965, 79 Stat. 818, as amended by 
 
     (iii) an explanation of the other approaches considered for acquiring use of the land, the reasons for the acquisition of the land, and the reasons why alternative acquisition strategies are inadequate.
 
-(2) The Secretary concerned may have proceedings brought in the name of the United States to acquire the land after the end of the 21-day period beginning on the date on which the report is received by the committees or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+(2) The Secretary concerned may have proceedings brought in the name of the United States to acquire the land after the end of the 21-day period beginning on the date on which the report is received by the committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
 **(g) Exception to Advance Notice Requirement.—** If the Secretary of a military department determines that the use of condemnation, eminent domain, or seizure to acquire an interest in land is required under subsection (a) to satisfy a requirement vital to national security, and that any delay would be detrimental to national security or the protection of health, safety, or the environment, the Secretary may have proceedings brought in the name of the United States to acquire the land in advance of submitting the report required by subsection (f)(1)(B). However, the Secretary shall submit the report not later than seven days after commencement of the legal proceedings with respect to the land.
 
@@ -430,6 +455,10 @@ The text of [section 2672a of this title](./chapter-159-real-property-related-pe
 The text of [section 2676(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2676/b&num=0&edition=prelim), which was transferred to this section, redesignated subsec. (e), and amended by Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(10), (11), was based on Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 97–214, § 5, July 12, 1982, 96 Stat. 170.
 
 #### Amendments
+2017—Subsec. (d)(2). Pub. L. 115–91, § 2811(b), inserted “, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480),” after “submit” and substituted “a notice” for “written notice”.
+
+Subsec. (f)(2). Pub. L. 115–91, § 2811(c), struck out “or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided” after “received by the committees”.
+
 2011—Subsec. (a)(1). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–364, § 2821(b)(1). See 2006 Amendment note below.
 
 2008—Subsec. (h). Pub. L. 110–181 added subsec. (h).
@@ -484,7 +513,7 @@ Pub. L. 109–364, div. B, title XXVIII, § 2821(a), Oct. 17, 2006, 120 Stat. 24
 
   (B) the agreed price for the land or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land, exceeds the amount appropriated for the project by more than (i) 25 percent, or (ii) 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser.
 
-**(d) Congressional Notification.—** The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a written notification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the congressional defense committees. A contract for the acquisition may then be awarded only after a period of 21 days elapses from the date the notification is received by the committees or, if over sooner, a period of 14 days elapses from the date on which a copy of that notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+**(d) Congressional Notification.—** The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a notification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the congressional defense committees. A contract for the acquisition may then be awarded only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
 **(e) Payment of Judgements and Settlements.—** The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 
@@ -504,6 +533,8 @@ The text of [section 2661(c) of this title](https://uscode.house.gov/view.xhtml?
 A prior section 2664, acts Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–861, § 33(a)(15), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 96–513, title V, § 511(90), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, § 12(3)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–295, § 1(32), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 100–26, § 7(d)(6), Apr. 21, 1987, 101 Stat. 281, related to acquisition of property for lumber production, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2821(b), Oct. 28, 2004, 118 Stat. 2129.
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–91 struck out “written” before “notification of the facts” and “or, if over sooner, a period of 14 days elapses from the date on which a copy of that notification is provided” before “in an electronic medium” and substituted “the end of the 14-day period beginning on” for “a period of 21 days elapses from”.
+
 2011—Subsec. (a). Pub. L. 111–350, which directed substitution “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949, as amended ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”, was executed by making the substitution for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” to reflect the probable intent of Congress.
 
 2006—Pub. L. 109–163, § 2821(c), renumbered [section 2676 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2676) as this section and substituted “Limitations on real property acquisition” for “Acquisition: limitation” in section catchline.
@@ -690,9 +721,11 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 
 (5) may provide, notwithstanding [section 1302 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1302&num=0&edition=prelim) or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease;
 
-(6) except as otherwise provided in subsection (d), shall require the lessee to provide the covered entities specified in paragraph (1) of that subsection the right to establish and operate a community support facility or provide community support services, or seek equitable compensation for morale, welfare, and recreation programs of the Department of Defense in lieu of the operation of such a facility or the provision of such services, if the Secretary determines that the lessee will provide merchandise or services in direct competition with covered entities through the lease; and
+(6) except as otherwise provided in subsection (d), shall require the lessee to provide the covered entities specified in paragraph (1) of that subsection the right to establish and operate a community support facility or provide community support services, or seek equitable compensation for morale, welfare, and recreation programs of the Department of Defense in lieu of the operation of such a facility or the provision of such services, if the Secretary determines that the lessee will provide merchandise or services in direct competition with covered entities through the lease;
 
-(7) may not provide for a leaseback by the Secretary concerned with an annual payment in excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount.
+(7) may not provide for a leaseback by the Secretary concerned with an annual payment in excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount; and
+
+(8) shall provide that any facilities constructed on the property may be constructed using commercial standards in a manner that provides force protection safeguards appropriate to the activities conducted in, and the location of, such facilities.
 
 **(c) Types of In-Kind Consideration.—**
 
@@ -704,7 +737,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 
   (C) Provision of facilities for use by the Secretary concerned.
 
-  (D) Provision or payment of utility services for the Secretary concerned.
+  (D) Provision or payment of utility services for the Secretary concerned, which shall prioritize energy resilience in the event of commercial grid outages.
 
   (E) Provision of real property maintenance services for the Secretary concerned.
 
@@ -734,7 +767,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 
   (B) the Secretary determines that the waiver is in the best interests of the Government.
 
-(3) The Secretary concerned shall provide to the congressional defense committees written notice of each waiver under paragraph (2), including the reasons for the waiver.
+(3) The Secretary concerned shall submit, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the congressional defense committees a notice of each waiver under paragraph (2), including the reasons for the waiver.
 
 (4) The covered entities shall exercise the right provided in subsection (b)(6) with respect to a lease, if at all, not later than 90 days after receiving notice from the Secretary concerned regarding the opportunity to exercise such right with respect to the lease. The Secretary may, at the discretion of the Secretary, extend the period under this paragraph for the exercise of the right with respect to a lease for such additional period as the Secretary considers appropriate.
 
@@ -774,15 +807,13 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 
   (D) At least 50 percent of the proceeds deposited in the special account established for the Secretary concerned shall be available for activities described in subparagraph (C) only at the military installation or Defense Agency location where the proceeds were derived.
 
-  (E) If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum described in section 489(a) 11 See References in Text note below. of this title, the proceeds shall be available for activities described in subparagraph (C) only at that museum.
+  (E) If the proceeds deposited in the special account established for the Secretary concerned are derived from activities associated with a military museum, the proceeds shall be available for activities described in subparagraph (C) only at that museum.
 
 (2) Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
 
 (3) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary concerned (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
 
-(4) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law before January 1, 2005, shall be deposited into the account established under section 2906(a) 1 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note).
-
-(5) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) 1 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note).
+(4) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law shall be deposited into the Department of Defense Base Closure Account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note).
 
 **(f) Treatment of Lessee Interest in Property.—** The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
@@ -856,7 +887,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 
 **(j) Exclusion of Certain Lands.—** This section does not apply to oil, mineral, or phosphate lands.
 
-**(k) Leases for Education.—** Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 9101 1 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))).
+**(k) Leases for Education.—** Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))).
 
 ### Statutory Notes
 
@@ -888,17 +919,25 @@ In subsection (c), the words “This section does” are substituted for the wor
 In subsection (e), the words “of property” are inserted for clarity. The words “leased under” are substituted for the words “made or created pursuant to”. The words “may be taxed by State or local governments” are substituted for the words “shall be made subject to State or local taxation”. The last sentence is substituted for the last sentence of 5:626s–6, 10:1270d, and 34:522e.
 
 #### References in Text
-[Section 489 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-489), referred to in subsec. (e)(1)(E), was repealed by Pub. L. 113–291, div. A, title III, § 331(a), Dec. 19, 2014, 128 Stat. 3344.
-
-Sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e)(4), (5), which established, respectively, the Department of Defense Base Closure Account 1990 and the Department of Defense Base Closure Account 2005, were repealed by Pub. L. 112–239, div. B, title XXVII, § 2711(a), Jan. 2, 2013, 126 Stat. 2140. A new section 2906, establishing the Department of Defense Base Closure Account, was enacted by section 2711(a) of Pub. L. 112–239.
-
 The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (h)(4)(A)(i), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
 
-Section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)), referred to in subsec. (k), was renumbered section 8101 of that Act by Pub. L. 114–95, title VIII, § 8001(a)(1), Dec. 10, 2015, 129 Stat. 2089.
-
 #### Amendments
+2018—Subsec. (b)(8). Pub. L. 115–232 added par. (8).
+
+2017—Subsec. (c)(1)(D). Pub. L. 115–91, § 2835, inserted “, which shall prioritize energy resilience in the event of commercial grid outages” after “Secretary concerned”.
+
+Subsec. (d)(3). Pub. L. 115–91, § 2811(e), substituted “submit, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the congressional defense committees a notice” for “provide to the congressional defense committees written notice”.
+
+Subsec. (e)(1)(E). Pub. L. 115–91, § 1081(a)(46)(A), substituted “a military museum” for “a military museum described in [section 489(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section489/a&num=0&edition=prelim)”.
+
+Subsec. (e)(4). Pub. L. 115–91, § 1081(a)(46)(B), substituted “shall be deposited into the Department of Defense Base Closure Account” for “before January 1, 2005, shall be deposited into the account”.
+
+Subsec. (e)(5). Pub. L. 115–91, § 1081(a)(46)(C), struck out par. (5) which read as follows: “Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note).”
+
+Subsec. (k). Pub. L. 115–91, § 1081(a)(47), substituted “section 8101” for “section 9101”.
+
 2015—Subsec. (k). Pub. L. 114–92 added subsec. (k).
 
 2014—Subsec. (h)(4). Pub. L. 113–291 added par. (4).
@@ -1119,6 +1158,9 @@ Subsec. (f). Pub. L. 96–513, § 511(92)(D), substituted “the Secretary” fo
 
 1975—Subsec. (f). Pub. L. 94–107 added subsec. (f).
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. B, title XXVIII, § 2802(b), Aug. 13, 2018, 132 Stat. 2261, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to leases entered into during fiscal year 2019 or any of the four succeeding fiscal years.”
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(13) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
@@ -1130,6 +1172,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Savings Provision
 Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of amendment, see section 501(h) of Pub. L. 94–412, set out as a note under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim), War and National Defense.
+
+#### Temporary Installation Reutilization Authority for Arsenals, Depots, and Plants
+Pub. L. 115–91, div. A, title III, § 345, Dec. 12, 2017, 131 Stat. 1363, provided that: “(a) Modified Authority.—In the case of a military manufacturing arsenal, depot, or plant, the Secretary of the Army may authorize up to 10 leases and contracts per fiscal year under [section 2667 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2667), United States Code, for a term of up to 25 years, notwithstanding subsection (b)(1) of such section, if the Secretary determines that a lease or contract of that duration will promote the national defense for the purpose of—“(1) helping to maintain the viability of the military manufacturing arsenal, depot, or plant and any military installations on which it is located; “(2) eliminating, or at least reducing, the cost of Government ownership of the military manufacturing arsenal, depot, or plant, including the costs of operations and maintenance, the costs of environmental remediation, and other costs; and “(3) leveraging private investment at the military manufacturing arsenal, depot, or plant through long-term facility use contracts, property management contracts, leases, or other agreements that support and advance the preceding purposes. “(b) Delegation and Review Process.—“(1) In general.—The Secretary of the Army may delegate the authority provided by this section to the commander of the major subordinate command of the Army that has responsibility for the military manufacturing arsenal, depot, or plant or, if part of a larger military installation, the installation as a whole. The commander may approve a lease or contract under such authority on a case-by-case basis or a class basis. “(2) Notice of approval.—Upon any approval of a lease or contract by a commander pursuant to a delegation of authority under paragraph (1), the commander shall notify the Chief of the Army Corps of Engineers and Congress of the approval. “(3) Review period.—Any lease or contract that is approved utilizing the delegation authority under paragraph (1) is subject to a 90-day hold period so that the Chief of the Army Corps of Engineers may review the lease or contract pursuant to paragraph (4). “(4) Disposition of review.—If the Chief of the Army Corps of Engineers disapproves of a contract or lease submitted for review under paragraph (3), the agreement shall be null and void upon transmittal by the Chief of the Army Corps of Engineers to the delegating authority of a written disapproval, including a justification for such disapproval, within the 90-day hold period. If no such disapproval is transmitted within the 90-day hold period, the agreement shall be deemed approved. “(5) Approval of revised agreement.—If, not later than 60 days after receiving a disapproval under paragraph (4), the delegating authority submits to the Chief of the Army Corps of Engineers a new contract or lease that addresses the concerns of the Chief of the Army Corps of Engineers outlined in such disapproval, the new contract or lease shall be deemed approved unless the Chief of the Army Corps of Engineers transmits to the delegating authority a disapproval of the new contract or lease within 30 days of such submission. “(c) Military Manufacturing Arsenal, Depot, or Plant Defined.—In this section, the term ‘military manufacturing arsenal, depot, or plant’ means a Government-owned, Government-operated defense plant of the Army that manufactures weapons, weapon components, or both. “(d) Sunset.—The authority under this section shall terminate at the close of September 30, 2020. Any contracts entered into on or before such date shall continue in effect according to their terms.”
 
 #### Transfers From Special Accounts
 Pub. L. 108–287, title VIII, § 8034, Aug. 5, 2004, 118 Stat. 978, provided that: “Amounts deposited during the current fiscal year and hereafter to the special account established under [40 U.S.C. 572(b)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section572/b/5/A&num=0&edition=prelim) and to the special account established under [10 U.S.C. 2667(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667/d/1&num=0&edition=prelim) [now 2667(e)(1)] are appropriated and shall be available until transferred by the Secretary of Defense to current applicable appropriations or funds of the Department of Defense under the terms and conditions specified by [40 U.S.C. 572(b)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section572/b/5/B&num=0&edition=prelim) and [10 U.S.C. 2667(d)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667/d/1/B&num=0&edition=prelim) [now 2667(e)(1)(B)], to be merged with and to be available for the same time period and the same purposes as the appropriation to which transferred.”
@@ -1575,6 +1620,8 @@ The Homeland Security Act of 2002, referred to in subsec. (b)(4)(B), is Pub. L. 
 The date of the enactment of this paragraph, referred to in subsec. (f)(4), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Amendments
+2017—Subsec. (b)(1). Pub. L. 115–91, § 1081(d)(16), repealed Pub. L. 114–328, § 2829E(a)(3). See 2016 Amendment note below.
+
 2016—Subsec. (a). Pub. L. 114–328, § 2829E(d)(1), inserted heading.
 
 Pub. L. 114–328, § 2829E(c), struck out par. (1) designation after subsec. (a) designation and struck out pars. (2) and (3) which related to annual report on the state of the renovation of the Pentagon Reservation for specified congressional committees.
@@ -1583,7 +1630,7 @@ Pub. L. 114–328, § 2829E(b), substituted “The Secretary of Defense has juri
 
 Subsec. (b). Pub. L. 114–328, § 2829E(d)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 114–328, § 2829E(a)(3), which directed insertion of “for the Pentagon Reservation and” after “law enforcement and security functions”, could not be executed because of intervening amendment by Pub. L. 114–328, § 952(a)(2). See below.
+Subsec. (b)(1). Pub. L. 114–328, § 2829E(a)(3), which directed insertion of “for the Pentagon Reservation and” after “law enforcement and security functions” and could not be executed, was repealed by Pub. L. 115–91, § 1081(d)(16).
 
 Pub. L. 114–328, § 952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows “The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
 
@@ -1636,6 +1683,9 @@ Subsec. (b). Pub. L. 104–201, § 369(a), substituted “in the National Capita
 1991—Subsec. (b)(2). Pub. L. 102–190, § 2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
 
 Subsec. (c)(3). Pub. L. 102–190, § 1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(16) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 #### Transfer of Functions
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1715,7 +1765,7 @@ Subsec. (d). Pub. L. 95–82, § 505(a)(3), added subsec. (d).
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
 #### Effective Date of 1980 Amendment
-Pub. L. 96–418, title VI, § 608, Oct. 10, 1980, 94 Stat. 1774, provided that: “Titles I, II, III, IV, and V [enacting [section 2775 of this title](./chapter-165-accountability-and-responsibility.md#section-2775) and [section 1594h–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1594h–3&num=0&edition=prelim), The Public Health and Welfare, amending this section, [section 2686 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2686), and sections 1594a–1 and 1594h–2 of Title 42, and repealing provisions set out as a note under [section 4593 of this title](./chapter-437-utilities-and-services.md#section-4593)] shall take effect on October 1, 1980.”
+Pub. L. 96–418, title VI, § 608, Oct. 10, 1980, 94 Stat. 1774, provided that: “Titles I, II, III, IV, and V [enacting [section 2775 of this title](./chapter-165-accountability-and-responsibility.md#section-2775) and [section 1594h–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1594h–3&num=0&edition=prelim), The Public Health and Welfare, amending this section, [section 2686 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2686), and sections 1594a–1 and 1594h–2 of Title 42, and repealing provisions set out as a note under [section 4593 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4593&num=0&edition=prelim)] shall take effect on October 1, 1980.”
 
 #### Effective Date of 1977 Amendment
 Pub. L. 95–82, title V, § 505(c), Aug. 1, 1977, 91 Stat. 372, provided that: “The amendments made by subsection (a) [amending this section] and the repeal made by subsection (b) [repealing section 507(b) of Pub. L. 93–166, which was not classified to the Code] shall take effect October 1, 1977.”
@@ -1750,11 +1800,11 @@ A prior section 2678, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 
 ## § 2679. Installation-support services: intergovernmental support agreements
 **(a) In General.—**
 
-(1) Notwithstanding any other provision of law governing the award of Federal government 11 So in original. Probably should be capitalized. contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement, on a sole source basis, with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
+(1) Notwithstanding any other provision of law governing the award of Federal Government contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement, on a sole source basis, with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
 
 (2) An intergovernmental support agreement under paragraph (1)—
 
-  (A) may be for a term not to exceed five years; and
+  (A) may be for a term not to exceed ten years; and
 
   (B) may use, for installation-support services provided by a State or local government, wage grades normally paid by that State or local government.
 
@@ -1784,6 +1834,10 @@ A prior section 2678, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 
 A prior section 2679, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(9), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 103–337, div. A, title X, § 1070(e)(9), Oct. 5, 1994, 108 Stat. 2859, related to use of space and equipment by representatives of veterans’ organizations, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(2), Oct. 28, 2004, 118 Stat. 2129.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232 substituted “Federal Government” for “Federal government”.
+
+2017—Subsec. (a)(2)(A). Pub. L. 115–91 substituted “ten years” for “five years”.
+
 2015—Subsec. (a)(1). Pub. L. 114–92, § 1081(a)(9), struck out “with” before “, on a sole source”.
 
 Subsec. (a)(4). Pub. L. 114–92, § 1081(b)(1), amended directory language of Pub. L. 113–291, § 351(b)(1)(C). See 2014 Amendment note below.
@@ -1871,7 +1925,7 @@ Subsec. (h). Pub. L. 105–85, § 842(b), amended subsec. (h) generally. Prior t
 
 (1) The Secretary of Defense may waive the requirements of subsections (a) and (b) if necessary to provide security for authorized intelligence collection or special operations activities abroad undertaken by the Department of Defense.
 
-(2) Not later than 48 hours after using the waiver authority under paragraph (1) for any facility for intelligence collection conducted under the authorities of the Department of Defense or special operations activity, the Secretary of Defense shall submit to the appropriate congressional committees written notification of the use of the authority, including the justification for the waiver and the estimated cost of the project for which the waiver applies.
+(2) Not later than 48 hours after using the waiver authority under paragraph (1) for any facility for intelligence collection conducted under the authorities of the Department of Defense or special operations activity, the Secretary of Defense shall submit, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the appropriate congressional committees a notice of the use of the authority, including the justification for the waiver and the estimated cost of the project for which the waiver applies.
 
 (3) In this subsection, the term “appropriate congressional committees” means the following:
 
@@ -1888,6 +1942,8 @@ Subsec. (h). Pub. L. 105–85, § 842(b), amended subsec. (h) generally. Prior t
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (c)(2). Pub. L. 115–91 substituted “, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the appropriate congressional committees a notice” for “to the appropriate congressional committees written notification”.
+
 2015—Subsecs. (a), (b). Pub. L. 114–92, § 1632(b)(2), repealed Pub. L. 112–81, § 926(b). See 2011 Amendment notes below.
 
 Subsec. (c). Pub. L. 114–92, § 1632(b)(2), repealed Pub. L. 112–81, § 926(b). See 2011 Amendment note below.
@@ -2029,7 +2085,7 @@ Subsec. (d)(5). Pub. L. 110–181, § 2824(b), added par. (5).
 
 <a id="section-2684a"></a>
 ## § 2684a. Agreements to limit encroachments and other constraints on military training, testing, and operations
-**(a) Agreements Authorized.—** The Secretary of Defense or the Secretary of a military department may enter into an agreement with an eligible entity or entities described in subsection (b) to address the use or development of real property in the vicinity of, or ecologically related to, a military installation or military airspace for purposes of—
+**(a) Agreements Authorized.—** The Secretary of Defense or the Secretary of a military department may enter into an agreement with an eligible entity or entities described in subsection (b) to address the use or development of real property in the vicinity of, or ecologically related to, a military installation, as well as a State-owned National Guard installation, or military airspace for purposes of—
 
 (1) limiting any development or use of the property that would be incompatible with the mission of the installation;
 
@@ -2037,7 +2093,11 @@ Subsec. (d)(5). Pub. L. 110–181, § 2824(b), added par. (5).
 
   (A) is compatible with environmental requirements; and
 
-  (B) may eliminate or relieve current or anticipated environmental restrictions that would or might otherwise restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on the installation; or
+  (B)
+
+    (i) may eliminate or relieve current or anticipated environmental restrictions that would or might otherwise restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on the installation; or
+
+    (ii) maintains or improves military installation resilience; or
 
 (3) protecting Clear Zone Areas from use or encroachment that is incompatible with the mission of the installation.
 
@@ -2079,13 +2139,13 @@ Subsec. (d)(5). Pub. L. 110–181, § 2824(b), added par. (5).
 
   (D) The portion of acquisition costs borne by the United States under subparagraph (A) may exceed the amount determined under subparagraph (C), but only if—
 
-    (i) the Secretary concerned provides written notice to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives containing—
+    (i) the Secretary concerned submits, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), a notice to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives containing—
 
       (I) a certification by the Secretary that the military value to the United States of the property or interest to be acquired justifies a payment in excess of the fair market value of the property or interest; and
 
       (II) a description of the military value to be obtained; and
 
-    (ii) the contribution toward the acquisition costs of the property or interest is not made until at least 14 days after the date on which the notice is submitted under clause (i) or, if earlier, at least 10 days after the date on which a copy of the notice is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+    (ii) the contribution toward the acquisition costs of the property or interest is not made until at least 10 days after the date on which the notice is submitted under clause (i).
 
   (E) The contribution of an entity or entities to the acquisition costs of real property, or an interest in real property, under paragraph (1)(B) may include, with the approval of the Secretary concerned, the following or any combination of the following:
 
@@ -2143,16 +2203,21 @@ Subsec. (d)(5). Pub. L. 110–181, § 2824(b), added par. (5).
 
 ### Statutory Notes
 
-#### Amendment of Section
-For termination of amendment by section 312(b) of Pub. L. 113–66, see Termination of 2013 Amendment note below.
-
 #### References in Text
 The Sikes Act, referred to in subsec. (h), is Pub. L. 86–797, Sept. 15, 1960, 74 Stat. 1052, which is classified generally to chapter 5C (§ 670 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 670 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section670&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232, § 2827(b)(1), which directed insertion of “, as well as a State-owned National Guard installation,” after “military installation”, was executed by making the insertion after “military installation” in introductory provisions and not in subsec. (a)(2)(B)(ii), as added by section 312(i) of Pub. L. 115–232, to reflect the probable intent of Congress and the earlier effective date of this amendment. See Effective Date of 2018 Amendment note below.
+
+Subsec. (a)(2)(B). Pub. L. 115–232, § 312(i), designated existing provisions as cl. (i) and added cl. (ii).
+
+2017—Subsec. (d)(4)(D)(i). Pub. L. 115–91, § 2811(g)(1), substituted “submits, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), a notice” for “provides written notice” in introductory provisions.
+
+Subsec. (d)(4)(D)(ii). Pub. L. 115–91, § 2811(g)(2), substituted “10 days after the date on which the notice is submitted under clause (i).” for “14 days after the date on which the notice is submitted under clause (i) or, if earlier, at least 10 days after the date on which a copy of the notice is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).”
+
 2014—Subsec. (h). Pub. L. 113–291 inserted “670” after “U.S.C.”.
 
-2013—Subsecs. (h) to (j). Pub. L. 113–66 temporarily added subsec. (h) and temporarily redesignated former subsecs. (h) and (i) as (i) and (j), respectively. See Termination of 2013 Amendment note below.
+2013—Subsecs. (h) to (j). Pub. L. 113–66 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 2011—Subsec. (a)(3). Pub. L. 112–81, § 2813(1), added par. (3).
 
@@ -2198,11 +2263,17 @@ Subsec. (d)(4) to (6). Pub. L. 109–163, § 2822(b)(2), redesignated pars. (3) 
 
 Subsecs. (g) to (i). Pub. L. 109–163, § 2822(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. B, title XXVIII, § 2827(b)(2), Aug. 13, 2018, 132 Stat. 2270, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of December 2, 2002.”
+
 #### Termination of 2013 Amendment
-Pub. L. 113–66, div. A, title III, § 312(b), Dec. 26, 2013, 127 Stat. 729, provided that: “This section [amending this section] and subsection (h) of [section 2684a of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2684a), United States Code, as added by this section, shall expire on October 1, 2019, except that any agreement referred to in such subsection that is entered into on or before September 30, 2019, shall continue according to its terms and conditions as if this section has not expired.”
+Pub. L. 113–66, div. A, title III, § 312(b), Dec. 26, 2013, 127 Stat. 729, which provided that section 312 of Pub. L. 113–66, which amended this section, and subsec. (h) of this section would expire on Oct. 1, 2019, subject to a provision continuing any agreements existing before that date, was repealed by Pub. L. 115–91, div. A, title III, § 317(f), Dec. 12, 2017, 131 Stat. 1352.
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+#### Sentinel Landscapes Partnership
+Pub. L. 115–91, div. A, title III, § 317(a)–(e), Dec. 12, 2017, 131 Stat. 1351, 1352, provided that: “(a) Establishment.—The Secretary of Defense, in coordination with the Secretary of Agriculture and the Secretary of the Interior, may establish and carry out a program to preserve sentinel landscapes. The program shall be known as the ‘Sentinel Landscapes Partnership’. “(b) Designation of Sentinel Landscapes.—The Secretary of Defense, the Secretary of Agriculture, and the Secretary of the Interior, may, as the Secretaries determine appropriate, collectively designate one or more sentinel landscapes. “(c) Coordination of Activities.—The Secretaries may coordinate actions between their departments and with other agencies and private organizations to more efficiently work together for the mutual benefit of conservation, working lands, and national defense, and to encourage private landowners to engage in voluntary land management and conservation activities that contribute to the sustainment of military installations, ranges, and airspace. “(d) Priority Consideration.—The Secretary of Agriculture and the Secretary of the Interior may give to any eligible landowner or agricultural producer within a designated sentinel landscape priority consideration for participation in any easement, grant, or assistance programs administered by that Secretary’s department. Participation in any such program pursuant to this section shall be voluntary. “(e) Definitions.—In this section:“(1) Military installation.—The term ‘military installation’ has the same meaning as provided in [section 670(1) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section670/1&num=0&edition=prelim), United States Code. “(2) State-owned national guard installation.—The term ‘State-owned National Guard installation’ has the same meaning as provided in [section 670(3) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section670/3&num=0&edition=prelim), United States Code. “(3) Sentinel landscape.—The term ‘sentinel landscape’ means a landscape-scale area encompassing—“(A) one or more military installations or state-owned National Guard installations and associated airspace; and “(B) the working or natural lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense test and training missions of the military- or State-owned National Guard installation or installations.”
 
 
 <a id="section-2685"></a>
@@ -2438,6 +2509,15 @@ Pub. L. 102–190, div. A, title III, § 344(c), Dec. 5, 1991, 105 Stat. 1346, p
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Base Realignment and Closure
+Pub. L. 115–232, div. B, title XXVII, §§ 2702, 2703, Aug. 13, 2018, 132 Stat. 2257, 2259, provided that: “SEC. 2702. ADDITIONAL AUTHORITY TO REALIGN OR CLOSE CERTAIN MILITARY INSTALLATIONS.“(a) Authorization.—Notwithstanding sections 993 or 2687 of title 10, United States Code, and subject to subsection (d), the Secretary of Defense may take such actions as may be necessary to carry out the realignment or closure of a military installation in a State during a fiscal year if—“(1) the military installation is the subject of a notice which is described in subsection (b); and “(2) the Secretary includes the military installation in the report submitted under paragraph (2) of subsection (c) with respect to the fiscal year. “(b) Notice From Governor of State.—A notice described in this subsection is a notice received by the Secretary of Defense from the Governor of a State (or, in the case of the District of Columbia, the Mayor of the District of Columbia) in which the Governor recommends that the Secretary carry out the realignment or closure of a military installation located in the State, and which includes each of the following elements:“(1) A specific description of the military installation, or a specific description of the relevant real and personal property. “(2) Statements of support for the realignment or closure from units of local government in which the installation is located. “(3) A detailed plan for the reuse or redevelopment of the real and personal property of the installation, together with a description of the local redevelopment authority which will be responsible for the implementation of the plan. “(c) Response to Notice.—“(1) Mandatory response to governor and congress.—Not later than 1 year after receiving a notice from the Governor of a State (or, in the case of the District of Columbia, from the Mayor of the District of Columbia), the Secretary of Defense shall submit a response to the notice to the Governor and the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] indicating whether or not the Secretary accepts the recommendation for the realignment or closure of a military installation which is the subject of the notice. “(2) Acceptance of recommendation.—If the Secretary of Defense determines that it is in the interests of the United States to accept the recommendation for the realignment or closure of a military installation which is the subject of a notice received under subsection (b) and intends to carry out the realignment or closure of the installation pursuant to the authority of this section during a fiscal year, at the time the budget is submitted under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for the fiscal year, the Secretary shall submit a report to the congressional defense committees which includes the following:“(A) The identification of each military installation for which the Secretary intends to carry out a realignment or closure pursuant to the authority of this section during the fiscal year, together with the reasons the Secretary of Defense believes that it is in the interest of the United States to accept the recommendation of the Governor of the State involved for the realignment or closure of the installation. “(B) For each military installation identified under subparagraph (A), a master plan describing the required scope of work, cost, and timing for all facility actions needed to carry out the realignment or closure, including the construction of new facilities and the repair or renovation of existing facilities. “(C) For each military installation identified under subparagraph (A), a certification that, not later than the end of the fifth fiscal year after the completion of the realignment or closure, the savings resulting from the realignment or closure will exceed the costs of carrying out the realignment or closure, together with an estimate of the annual recurring savings that would be achieved by the realignment or closure of the installation and the timeframe required for the financial savings to exceed the costs of carrying out the realignment or closure. “(d) Limitations.—“(1) Timing.—The Secretary may not initiate the realignment or closure of a military installation pursuant to the authority of this section until the expiration of the 90-day period beginning on the date the Secretary submits the report under paragraph (2) of subsection (c). “(2) Total costs.—Subject to appropriations, the aggregate cost to the government in carrying out the realignment or closure of military installations pursuant to the authority of this section for all fiscal years may not exceed $2,000,000,000. In determining the cost to the government for purposes of this section, there shall be included the costs of planning and design, military construction, operations and maintenance, environmental restoration, information technology, termination of public-private contracts, guarantees, and other factors contributing to the cost of carrying out the realignment or closure, as determined by the Secretary. “(e) Process for Implementation.—The implementation of the realignment or closure of a military installation pursuant to the authority of this section shall be carried out in accordance with section 2905 of the Defense Base Closure and Realignment Act of 1990 (title XXIX of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note) in the same manner as the implementation of a realignment or closure of a military installation pursuant to the authority of such Act. “(f) State Defined.—In this section, the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands. “(g) Termination of Authority.—The authority of the Secretary to carry out a realignment or closure pursuant to this section shall terminate at the end of fiscal year 2029. “SEC. 2703. PROHIBITION ON CONDUCTING ADDITIONAL BASE REALIGNMENT AND CLOSURE (BRAC) ROUND.“Nothing in this Act [div. B of Pub. L. 115–232, see Tables for classification] shall be construed to authorize an additional Base Realignment and Closure (BRAC) round.”
+
+[Pub. L. 115–232, div. B, § 2003, Aug. 13, 2018, 132 Stat. 2241, provided that: “Titles XXI through XXVII [enacting sections 2702 and 2703 of title XXVII of div. B of Pub. L. 115–232, set out above] and title XXIX shall take effect on the later of—
+
+[“(1) October 1, 2018; or
+
+[“(2) the date of the enactment of this Act [Aug. 13, 2018].”]
 
 #### Closure of Existing Current Accounts; Transfer of Funds
 Pub. L. 112–239, div. B, title XXVII, § 2711(b), Jan. 2, 2013, 126 Stat. 2143, provided that: “(1) Closure.—Subject to paragraph (2), the Secretary of the Treasury shall close, pursuant to [section 1555 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1555&num=0&edition=prelim), United States Code, the following accounts on the books of the Treasury:“(A) The Department of Defense Base Closure Account 2005 established by section 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note), as in effect on the effective date of this section. “(B) The Department of Defense Base Closure Account 1990 established by section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note), as in effect on the effective date of this section. “(C) The Department of Defense Base Closure Account established by section 207 of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note), as in effect on the effective date of this section. “(2) Transfer of funds.—All amounts remaining in the three accounts specified in paragraph (1) as of the effective date of this section, shall be transferred, effective on that date, to the Department of Defense Base Closure Account established by section 2906 of the Defense Base Closure and Realignment Act of 1990, as added by subsection (a). “(3) Cross references.—Except as provided in this subsection or the context requires otherwise, any reference in a law, regulation, document, paper, or other record of the United States to an account specified in paragraph (1) shall be deemed to be a reference to the Department of Defense Base Closure Account established by section 2906 of the Defense Base Closure and Realignment Act of 1990, as added by subsection (a).”
@@ -2778,15 +2858,17 @@ Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L
 The date of the enactment of the Military Construction Authorization Act for Fiscal Year 2015, referred to in subsec. (f)(1)(B)(ii), is the date of enactment of div. B of Pub. L. 113–291, which was approved Dec. 19, 2014.
 
 #### Amendments
-2016—Subsec. (f). Pub. L. 114–328, § 2811(a), which directed the general amendment of subsec. (f), was executed by amending subsec. (f) as it read after the repeal of Pub. L. 113–291, § 2803(a), and restoration of the text prior to that amendment, to reflect the probable intent of Congress. As restored, subsec. (f) related to authorized use of payments-in-kind.
+2017—Subsec. (f). Pub. L. 115–91, § 1081(d)(15), amended Pub. L. 114–328, § 2811(c). See 2016 Amendment note below.
 
-Pub. L. 114–328, § 2811(c), repealed Pub. L. 113–291, § 2803(a), and provided that the provisions of law amended by such section 2803(a) are restored as if such section had not been enacted into law. See 2014 Amendment note below.
+2016—Subsec. (f). Pub. L. 114–328, § 2811(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind and in-kind contributions.
+
+Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15), repealed Pub. L. 113–291, § 2803(a). See 2014 Amendment note below.
 
 2015—Subsec. (d)(2). Pub. L. 114–92, § 1081(a)(11), inserted “fair market” before “value”.
 
 Subsec. (f). Pub. L. 114–92, § 1081(b)(7), amended Pub. L. 113–291, § 2803(a). See 2014 Amendment note below.
 
-2014—Subsec. (f). Pub. L. 113–291, § 2803(a), as amended by Pub. L. 114–92, § 1081(b)(7), which amended subsec. (f) generally by substituting provisions related to authorized use of payments-in-kind and in-kind contributions for provisions related to authorized use of payments-in-kind, was repealed by Pub. L. 114–328, § 2811(c).
+2014—Subsec. (f). Pub. L. 113–291, § 2803(a), as amended by Pub. L. 114–92, § 1081(b)(7), which amended subsec. (f) generally by substituting provisions related to authorized use of payments-in-kind and in-kind contributions for provisions related to authorized use of payments-in-kind, was repealed by Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15).
 
 2013—Pub. L. 113–66, § 2807(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
 
@@ -2796,6 +2878,9 @@ Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(34)(B), struck out comma after “
 
 2011—Subsec. (a). Pub. L. 111–383 substituted “31 for” for “31for” in introductory provisions.
 
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(15) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b)(7) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
 
@@ -2803,7 +2888,7 @@ Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, pr
 Pub. L. 113–291, div. B, title XXVIII, § 2803(d), Dec. 19, 2014, 128 Stat. 3697, which provided the effective date for the amendments made by section 2803 of Pub. L. 113–291, was repealed by Pub. L. 114–328, div. B, title XXVIII, § 2811(c), Dec. 23, 2016, 130 Stat. 2716.
 
 #### Repeal of 2014 Amendment
-Pub. L. 114–328, div. B, title XXVIII, § 2811(c), Dec. 23, 2016, 130 Stat. 2716, provided that: “Section 2803 of the Carl Levin and Howard ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3696) is repealed, and the provisions of law amended by subsections (a) and (b) of that section [amending this section and [section 2802 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2802)] shall be restored as if such section had not been enacted into law.”
+Pub. L. 114–328, div. B, title XXVIII, § 2811(c), Dec. 23, 2016, 130 Stat. 2716, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(15), Dec. 12, 2017, 131 Stat. 1600, provided that: “Section 2803 of the Carl Levin and Howard ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3696) [amending this section and [section 2802 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2802) and enacting provisions set out as a note under this section] is repealed.”
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
@@ -2835,7 +2920,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 (1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
 
-(2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract.
+(2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract. The business case analysis must also demonstrate how a privatized system will operate in a manner consistent with subsection (g)(3).
 
 **(e) Treatment of Payments.—**
 
@@ -2856,6 +2941,10 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 (1) The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
 (2) The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with applicable Federal and State regulations pertaining to health, safety, fire, and environmental requirements.
+
+(3) The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with energy resilience and cybersecurity requirements and associated metrics provided to the conveyee to ensure that the reliability of the utility system meets mission requirements.
+
+(4) The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the installation energy report submitted under [section 2925(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2925/a&num=0&edition=prelim) a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
 
 **(h) Assistance for Construction, Repair, or Replacement of Utility Systems.—** In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed.
 
@@ -2899,6 +2988,12 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 A prior section 2688, added Pub. L. 96–125, title VIII, § 804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, § 804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, § 11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, § 901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See [section 2915 of this title](./chapter-173-energy-security.md#section-2915).
 
 #### Amendments
+2018—Subsec. (d)(2). Pub. L. 115–232, § 312(e)(1), inserted at end “The business case analysis must also demonstrate how a privatized system will operate in a manner consistent with subsection (g)(3).”
+
+Subsec. (g)(3). Pub. L. 115–232, § 312(e)(2), substituted “shall require” for “may require” and “consistent with energy resilience and cybersecurity requirements and associated metrics” for “consistent with energy resilience requirements and metrics”.
+
+2017—Subsec. (g)(3), (4). Pub. L. 115–91 added pars. (3) and (4).
+
 2015—Subsec. (j). Pub. L. 114–92, § 2813(1), substituted “Conveyance of Additional” for “Construction of” in heading.
 
 Subsec. (j)(1). Pub. L. 114–92, § 2813(2), redesignated subpar. (B) as (A) and substituted “utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and” for “utility system;”, redesignated subpar. (D) as (B) and substituted “amount for” for “amount equal to the fair market value of”, and struck out former subpars. (A) and (C) which read as follows:
@@ -2988,20 +3083,46 @@ Pub. L. 114–328, div. B, title XXVIII, § 2813, Dec. 23, 2016, 130 Stat. 2717,
 
 
 <a id="section-2691"></a>
-## § 2691. Restoration of land used by permit or lease
-**(a)** The Secretary of the military department concerned may remove improvements and take any other action necessary in the judgment of the Secretary to restore land used by that military department by permit or lease from another military department or Federal agency if the restoration is required by the permit or lease making that land available to the military department. The Secretary concerned may carry out this section using funds available for operations and maintenance or for military construction.
+## § 2691. Restoration of land used by permit or damaged by mishap; reimbursement of state costs of fighting wildland fires
+**(a) Restoration of Other Agency Land Used by Permit.—** The Secretary of the military department concerned may remove improvements and take any other action necessary in the judgment of the Secretary to restore land used by that military department by permit from another military department or Federal agency if the restoration is required by the permit making that land available to the military department. The Secretary concerned may carry out this section using funds available for operations and maintenance or for military construction.
 
-**(b)** Unless otherwise prohibited by law or the terms of the permit or lease, before restoration of any land under subsection (a) is begun, the Secretary concerned shall determine, under the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, whether another military department or Federal agency has a use for the land in its existing, improved state. During the period required to make such a determination, the Secretary may provide for maintenance and repair of improvements on the land to the standards established for excess property by the Administrator of General Services.
+**(b) Screening for Use of Improved Land.—** Unless otherwise prohibited by law or the terms of the permit, before restoration of any land under subsection (a) is begun, the Secretary concerned shall determine, under the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, whether another military department or Federal agency has a use for the land in its existing, improved state. During the period required to make such a determination, the Secretary may provide for maintenance and repair of improvements on the land to the standards established for excess property by the Administrator of General Services.
 
-**(c)**
+**(c) Restoration of Department of Defense Land Used by Other Agency.—**
 
-(1) As a condition of any lease, permit, license, or other grant of access entered into by the Secretary of a military department with another Federal agency authorizing the agency to use lands under the control of the Secretary, the Secretary may require the agency to agree to remove any improvements and to take any other action necessary in the judgment of the Secretary to restore the land used by the agency to its condition before its use by the agency.
+(1) As a condition of any permit, license, or other grant of access entered into by the Secretary of a military department with another Federal agency authorizing the agency to use lands under the control of the Secretary, the Secretary may require the agency to agree to remove any improvements and to take any other action necessary in the judgment of the Secretary to restore the land used by the agency to its condition before its use by the agency.
 
 (2) In lieu of performing any removal or restoration work under paragraph (1), a Federal agency may elect, with the consent of the Secretary, to reimburse the Secretary for the costs incurred by the military department in performing such removal or restoration work.
+
+**(d) Wildland Fires on State Land.—** The Secretary of Defense may, in any lease, permit, license, or other grant of access for use of lands owned by a State, agree to reimburse the State for the reasonable costs of the State in suppressing wildland fires caused by the activities of the Department of Defense under such lease, permit, license, or other grant of access.
+
+**(e) Restoration of Land Damaged by Mishap.—**
+
+(1) When land under the administrative jurisdiction of a Federal agency that is not a part of the Department of Defense is damaged as the result of a mishap involving a vessel, aircraft, or vehicle of the Department of Defense, the Secretary of Defense may, with the consent of the Federal agency, restore the land.
+
+(2) When land under the administrative jurisdiction of the Department of Defense or a military department is damaged as the result of a mishap involving a vessel, aircraft, or vehicle of a Federal agency that is not a part of the Department of Defense, the head of the Federal agency under whose control the vessel, aircraft, or vehicle was operating may, with the consent of the Department of Defense, restore the land.
+
+(3) The authority under paragraphs (1) and (2) includes activities and expenditures necessary to complete restoration to meet the regulations of the Federal department or agency with administrative jurisdiction over the affected land, which may be different than the regulations of the Department of Defense.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–232, § 1081(a)(27), substituted “state” for “State” in section catchline.
+
+Subsec. (e)(3). Pub. L. 115–232, § 353, added par. (3).
+
+2017—Pub. L. 115–91, § 2814(b)(1), substituted “damaged by mishap; reimbursement of State costs of fighting wildland fires” for “lease” in section catchline.
+
+Subsec. (a). Pub. L. 115–91, § 2814(a)(1), (b)(2), inserted heading and struck out “or lease” after “permit” in two places.
+
+Subsec. (b). Pub. L. 115–91, § 2814(a)(2), (b)(3), inserted heading and struck out “or lease” after “permit”.
+
+Subsec. (c). Pub. L. 115–91, § 2814(b)(4), inserted heading.
+
+Subsec. (c)(1). Pub. L. 115–91, § 2814(a)(3), struck out “lease,” before “permit,”.
+
+Subsecs. (d), (e). Pub. L. 115–91, § 2814(a)(4), added subsecs. (d) and (e).
+
 2011—Subsec. (b). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
 
 2002—Subsec. (b). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” for “([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)”.
@@ -3183,7 +3304,7 @@ Pub. L. 104–201, div. A, title III, § 332(b), Sept. 23, 1996, 110 Stat. 2485,
 
 **(d) Release of Covenants.—** With the concurrence of the Secretary of Interior, the Secretary concerned may grant a release from a covenant included in the deed of conveyance of real property conveyed under this section, subject to the condition that the recipient of the property pay the fair market value, as determined by the Secretary concerned, of the property at the time of the release of the covenant. The Secretary concerned may reduce the amount required to be paid under this subsection to account for the value of the natural resource conservation benefit that has accrued to the United States during the period the covenant was in effect, if the benefit was not taken into account in determining the original consideration for the conveyance.
 
-**(e) Congressional Notification.—** The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+**(e) Notice and Wait Requirements.—** The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the appropriate committees of Congress a notice of the proposed reconveyance or release.
 
 **(f) Limitations.—** The conveyance of real property under this section shall not be used as a condition of allowing any defense activity under any Federal, State, or local permitting or review process. The Secretary concerned may make the conveyance, with the restrictions specified in subsection (c), to establish a mitigation bank, but only if the establishment of the mitigation bank does not occur in order to satisfy any condition for permitting military activity under a Federal, State, or local permitting or review process.
 
@@ -3209,6 +3330,8 @@ Pub. L. 104–201, div. A, title III, § 332(b), Sept. 23, 1996, 110 Stat. 2485,
 Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2), is set out as a note under [section 521 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section521&num=0&edition=prelim), Public Buildings, Property, and Works.
 
 #### Amendments
+2017—Subsec. (e). Pub. L. 115–91 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).”
+
 2011—Subsec. (e). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480)”.
 
 2006—Subsec. (c). Pub. L. 109–364 substituted “Reversionary” for “Revisionary” in heading.

@@ -42,7 +42,7 @@ Provisions similar to those in this section were contained in [section 11503 of 
 A prior section 11501, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1444; Pub. L. 96–448, title II, § 214(a)–(c)(1), Oct. 14, 1980, 94 Stat. 1913, 1915; Pub. L. 97–261, § 17(a), Sept. 20, 1982, 96 Stat. 1117; Pub. L. 99–521, § 11(a), Oct. 22, 1986, 100 Stat. 2997; Pub. L. 103–272, § 4(j)(34), July 5, 1994, 108 Stat. 1370; Pub. L. 103–305, title VI, § 601(c), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–311, title II, § 211(b)(2), Aug. 26, 1994, 108 Stat. 1689, related to Interstate Commerce Commission authority over intrastate transportation, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 14501 of this title](./chapter-145-federal-state-relations.md#section-14501).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11502"></a>
@@ -71,3 +71,6 @@ Section 11505, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1448; Pub. L. 99–521,
 Section 11506, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1448; Pub. L. 102–240, title IV, § 4005, Dec. 18, 1991, 105 Stat. 2146, related to registration of motor carriers by a State.
 
 Section 11507, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1449; Pub. L. 98–473, title II, § 233, Oct. 12, 1984, 98 Stat. 2031, related to prison-made property governed by State law.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

@@ -696,7 +696,7 @@ Subsec. (a)(3)(B)(ii). Pub. L. 101–508, § 1203(2)(A), inserted at end “Any 
 Subsec. (a)(3)(B)(v). Pub. L. 101–508, § 1203(2)(B), added cl. (v).
 
 #### Effective Date of 1990 Amendment
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 940d of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940d&num=0&edition=prelim), Agriculture.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 1994 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1994&num=0&edition=prelim), Agriculture.
 
 #### Report on Agricultural Quarantine Inspection Fund
 Pub. L. 104–66, title I, § 1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”

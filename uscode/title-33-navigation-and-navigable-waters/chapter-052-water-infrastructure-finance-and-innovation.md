@@ -79,19 +79,25 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 <a id="section-3902"></a>
 ## § 3902. Authority to provide assistance
-**(a) In general** The Secretary and the Administrator may provide financial assistance under this chapter to carry out pilot projects, which shall be selected to ensure a diversity of project types and geographical locations.
+**(a) In general** The Secretary and the Administrator may provide financial assistance under this chapter to carry out projects, which shall be selected to ensure a diversity of project types and geographical locations.
 
 **(b) Responsibility**
 
-(1) **Secretary** — The Secretary shall carry out all pilot projects under this chapter that are eligible projects under [section 3905(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/1&num=0&edition=prelim).
+(1) **Secretary** — The Secretary shall provide financial assistance to carry out all projects under this chapter that are eligible projects under [section 3905(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/1&num=0&edition=prelim).
 
-(2) **Administrator** — The Administrator shall provide financial assistance to carry out all pilot projects under this chapter that are eligible projects under paragraphs (2), (3), (4), (5), (6), (7), and (9) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
+(2) **Administrator** — The Administrator shall provide financial assistance to carry out all projects under this chapter that are eligible projects under paragraphs (2), (3), (4), (5), (6), (7), and (9) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
 
 (3) **Other projects** — The Secretary or the Administrator, as applicable, may carry out eligible projects under paragraph (8) or (10) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” before “projects”.
+
+Subsec. (b)(1). Pub. L. 115–270, § 4201(a)(1), substituted “provide financial assistance to carry out all projects” for “carry out all pilot projects”.
+
+Subsec. (b)(2). Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” after “all”.
+
 2016—Subsec. (b)(2). Pub. L. 114–322, § 5008(b)(2)(A)(i), substituted “(7), and (9)” for “and (8)”.
 
 Pub. L. 114–322, § 5008(a), substituted “provide financial assistance to carry out” for “carry out”.
@@ -232,7 +238,11 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
     (ii) *Final rating opinion letters* — The Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, final rating opinion letters from at least 2 rating agencies indicating that the senior obligations of the project have an investment-grade rating.
 
-  (E) *Special rule for certain combined projects* — The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) or an entity for a project under [section 3905(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/10&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies.
+  (E) *Special rule for certain combined projects* — The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to—
+
+    (i) a State infrastructure financing authority for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least one rating agency; or
+
+    (ii) an entity for a project under [section 3905(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/10&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least two rating agencies.
 
 (2) **Eligible project costs**
 
@@ -321,6 +331,8 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1)(E). Pub. L. 115–270 amended subpar. (E) generally. Prior to amendment, text read as follows: “The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) or an entity for a project under [section 3905(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/10&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies.”
+
 2016—Subsec. (a)(1)(E). Pub. L. 114–322, § 5008(b)(2)(D)(i), substituted “section 3905(9)” for “section 3905(8)” and “section 3905(10)” for “section 3905(9)”.
 
 Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(D)(ii), substituted “section 3905(9)” for “section 3905(8)”.
@@ -400,6 +412,8 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
     (iii) for which the authorized Federal share of the total project costs is greater than the amount described in subparagraph (A).
 
+  (C) *Exception for projects funded by a State infrastructure financing authority* — Notwithstanding subparagraph (A), a State infrastructure financing authority may finance up to 100 percent of the costs of a project using the proceeds of financial assistance authorized under [section 3912(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3912/e&num=0&edition=prelim), provided that, in the event of a default with respect to any such assistance, the State infrastructure financing authority is solely responsible for immediate repayment of such costs.
+
 (10) **Credit** — Any eligible project costs incurred and the value of any integral in-kind contributions made before receipt of assistance under this chapter shall be credited toward the 51 percent of project costs to be provided by sources of funding other than a secured loan under this chapter (as described in paragraph (2)(A)).
 
 **(c) Repayment**
@@ -410,7 +424,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
   (A) *In general* — Scheduled loan repayments of principal or interest on a secured loan under this section shall commence not later than 5 years after the date of substantial completion of the project (as determined by the Secretary or Administrator, as applicable).
 
-  (B) *Special rule for State infrastructure financing authorities* — Scheduled loan repayments of principal or interest on a secured loan to a State infrastructure financing authority under this chapter shall commence not later than 5 years after the date on which amounts are first disbursed.
+  (B) *Special rule for State infrastructure financing authorities*
+
+    (i) *Timing of scheduled loan repayments* — Scheduled loan repayments of principal or interest on a secured loan to a State infrastructure financing authority under this chapter shall commence not later than 5 years after the date on which amounts are first disbursed.
+
+    (ii) *Repayments* — None of the funds for repayment of a secured loan under this title from a State infrastructure financing authority may come from funds provided to a State revolving loan fund under title VI of the Federal Water Pollution Control Act ([33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.) or [section 300j–12 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12&num=0&edition=prelim).
 
 (3) **Deferred payments**
 
@@ -448,7 +466,16 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 ### Statutory Notes
 
+#### References in Text
+This title, referred to in subsec. (c)(2)(B)(ii), is title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
+
+The Federal Water Pollution Control Act, referred to in subsec. (c)(2)(B)(ii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+
 #### Amendments
+2018—Subsec. (b)(9)(C). Pub. L. 115–270, § 4201(b)(1), added subpar. (C).
+
+Subsec. (c)(2)(B). Pub. L. 115–270, § 4201(a)(3), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
 2016—Subsec. (b)(7). Pub. L. 114–322, § 5008(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B).
 
 Subsec. (b)(10). Pub. L. 114–322, § 5008(c)(2), added par. (10).
@@ -469,6 +496,8 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
   (B) all or a portion of the costs to the Federal Government of servicing the Federal credit instruments provided under this chapter.
 
+(2) **Prohibition on pass through fees** — The Administrator, in the case where a State infrastructure financing authority obtains financial assistance under [section 3912(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3912/e&num=0&edition=prelim), shall require as a condition of obtaining such assistance, that the State infrastructure financing authority is prohibited from passing any portion of the fees required under [section 3908(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3908/b/7&num=0&edition=prelim) to any party that utilizes any portion of such assistance for a project funded by such authority.
+
 **(c) Servicer**
 
 (1) **In general** — The Secretary or the Administrator, as applicable, may appoint a financial entity to assist the Secretary or the Administrator in servicing the Federal credit instruments provided under this chapter.
@@ -479,12 +508,56 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 **(d) Assistance from experts** The Secretary or the Administrator, as applicable, may retain the services, including counsel, of organizations and entities with expertise in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments provided under this chapter.
 
-**(e) Applicability of other laws** Section 513 of the Federal Water Pollution Control Act ([33 U.S.C. 1372](./chapter-026-water-pollution-prevention-and-control.md#section-1372)) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.].
+**(e) Special rule for State reviews of projects for State infrastructure financing authorities**
+
+(1) **In general** — A project described in [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) for which funding is provided under this title shall comply with any applicable State environmental or engineering review requirements pursuant to, as applicable—
+
+  (A) title VI of the Federal Water Pollution Control Act ([33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.); and
+
+  (B) [section 300j–12 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12&num=0&edition=prelim).
+
+(2) **No new reviews required** — Nothing in this title requires any additional or new environmental or engineering review for a project described in [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) for which funding is provided, other than any requirement otherwise applicable to the project.
+
+**(f) Special rule for expedited review of applications from State infrastructure financing authorities** Not later than 180 days after the date on which the Administrator receives a complete application from a State infrastructure financing authority for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim), the Administrator shall, through a written notice to the State infrastructure financing authority—
+
+(1) approve the application; or
+
+(2) provide detailed guidance and an explanation of any changes to the application necessary for approval of the application.
+
+**(g) Agreements**
+
+(1) **In general** — Subject to paragraphs (3) and (4), the Administrator may enter into an agreement with another relevant Federal agency to provide assistance in administering and servicing Federal credit instruments that such agency is authorized to make available.
+
+(2) **Duties** — The Administrator may act as an agent for the head of another Federal agency under paragraph (1), subject to the terms of any agreement entered into by the Administrator and the head of such other agency under such clause.
+
+(3) **Transfer of funds** — The authority of the Administrator to provide assistance under paragraph (1) is subject to—
+
+  (A) the availability of funds appropriated to the other Federal agency that may be transferred to the Administrator to carry out an agreement entered into under paragraph (1); and
+
+  (B) the transfer of such funds to the Administrator to carry out such an agreement.
+
+(4) **Limitation** — Nothing in this subsection affects the authority of the Administrator with respect to the selection of projects described in paragraphs (1), (8), or (10) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905) to receive financial assistance under this chapter.
+
+**(h) Applicability of other laws** Section 513 of the Federal Water Pollution Control Act ([33 U.S.C. 1372](./chapter-026-water-pollution-prevention-and-control.md#section-1372)) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Water Pollution Control Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+The Federal Water Pollution Control Act, referred to in subsecs. (e)(1)(A) and (h), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+
+Under this title and nothing in this title, referred to in subsec. (e), mean title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
+
+#### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–270, § 4201(b)(2)(A), added par. (2).
+
+Subsecs. (e), (f). Pub. L. 115–270, § 4201(b)(2)(B), added subsecs. (e) and (f). Former subsec. (e) designated (h).
+
+Subsec. (g). Pub. L. 115–270, § 4201(c), added subsec. (g).
+
+Subsec. (h). Pub. L. 115–270, § 4201(b)(2)(B), redesignated subsec. (e) as (h).
+
+#### Agreement With Commissioner of Reclamation
+Pub. L. 115–270, title IV, § 4301, Oct. 23, 2018, 132 Stat. 3880, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 23, 2018], the Administrator of the Environmental Protection Agency and the Commissioner of Reclamation shall enter into an agreement under section 5030(g) of the Water Infrastructure Finance and Innovation Act [[33 U.S.C. 3909(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3909/g&num=0&edition=prelim)] (as added by this Act).”
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -515,19 +588,27 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 <a id="section-3912"></a>
 ## § 3912. Funding
-**(a) In general** There is authorized to be appropriated to each of the Secretary and the Administrator to carry out this chapter, to remain available until expended—
+**(a) In general**
 
-(1) $20,000,000 for fiscal year 2015;
+(1) **Fiscal years 2015 through 2019** — There are authorized to be appropriated to each of the Secretary and the Administrator to carry out this chapter, to remain available until expended—
 
-(2) $25,000,000 for fiscal year 2016;
+  (A) $20,000,000 for fiscal year 2015;
 
-(3) $35,000,000 for fiscal year 2017;
+  (B) $25,000,000 for fiscal year 2016;
 
-(4) $45,000,000 for fiscal year 2018; and
+  (C) $35,000,000 for fiscal year 2017;
 
-(5) $50,000,000 for fiscal year 2019.
+  (D) $45,000,000 for fiscal year 2018; and
 
-**(b) Administrative costs** Of the funds made available to carry out this chapter, the Secretary or the Administrator, as applicable, may use for the administration of this chapter, including for the provision of technical assistance to aid project sponsors in obtaining the necessary approvals for the project, not more than $2,200,000 for each of fiscal years 2015 through 2019.
+  (E) $50,000,000 for fiscal year 2019.
+
+(2) **Fiscal years 2020 and 2021** — There is authorized to be appropriated to the Administrator to carry out this chapter $50,000,000 for each of fiscal years 2020 and 2021, to remain available until expended.
+
+**(b) Administrative costs**
+
+(1) **Fiscal years 2015 through 2019** — Of the funds made available to carry out this chapter, the Secretary or the Administrator, as applicable, may use for the administration of this chapter, including for the provision of technical assistance to aid project sponsors in obtaining the necessary approvals for the project, not more than $2,200,000 for each of fiscal years 2015 through 2019.
+
+(2) **Fiscal years 2020 and 2021** — Of the funds made available to carry out this chapter, the Administrator may use for the administration of this chapter, including for the provision of technical assistance to aid project sponsors in obtaining the necessary approvals for the project, not more than $5,000,000 for each of fiscal years 2020 and 2021.
 
 **(c) Small community water infrastructure projects**
 
@@ -537,14 +618,36 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 **(d) Additional funding** Notwithstanding [section 3908(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3908/b/2&num=0&edition=prelim), the Secretary or the Administrator, as applicable, may make available up to 25 percent of the amounts made available for each fiscal year under this section for loans in excess of 49 percent of the total project costs.
 
+**(e) Assistance for State infrastructure financing authorities**
+
+(1) **In general** — With respect to fiscal years 2020 and 2021, if the Administrator has available for obligation in a fiscal year at least $50,000,000, there is authorized to be appropriated to the Administrator $5,000,000 for that fiscal year to provide financial assistance for projects described in [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) to State infrastructure financing authorities.
+
+(2) **No impact on other Federal funding** — No funds shall be made available in a fiscal year to the Administrator for purposes of this subsection if—
+
+  (A) the total amount appropriated for the fiscal year for State loan funds under [section 300j–12 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12&num=0&edition=prelim) is less than either the amount made available for such purpose in fiscal year 2018, or 105 percent of the previous fiscal year’s appropriation for such purpose, whichever is greater; and
+
+  (B) the total amount appropriated for the fiscal year for water pollution control revolving funds under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.] is less than either the amount made available for such purpose for fiscal year 2018, or 105 percent of the previous fiscal year’s appropriation for such purpose, whichever is greater.
+
+(3) **Inclusion in agreement** — If the Administrator provides financial assistance to a State infrastructure financing authority under [section 3908 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3908) using funds made available pursuant to this subsection, the Administrator shall specify in the agreement under such section the amount of such assistance that is attributable to such funds.
+
 ### Statutory Notes
+
+#### References in Text
+The Federal Water Pollution Control Act, referred to in subsec (e)(2)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–270, § 4201(a)(4)(A), designated existing provisions as par. (1) and inserted heading, substituted “There are” for “There is”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), realigned margins, and added par. (2).
+
+Subsec. (b). Pub. L. 115–270, § 4201(a)(4)(B), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e). Pub. L. 115–270, § 4201(b)(3), added subsec. (e).
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
 <a id="section-3913"></a>
-## § 3913. Reports on pilot program implementation
+## § 3913. Reports on program implementation
 **(a) Agency reporting** As soon as practicable after each fiscal year for which amounts are made available to carry out this chapter, the Secretary and the Administrator shall publish on a dedicated, publicly accessible Internet site—
 
 (1) each application received for assistance under this chapter; and
@@ -559,7 +662,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 **(b) Reports to Congress**
 
-(1) **In general** — Not later than 4 years after June 10, 2014, the Comptroller General of the United States shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report summarizing for the projects that are receiving, or have received, assistance under this chapter—
+(1) **In general** — Not later than 3 years after October 23, 2018, the Comptroller General of the United States shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report summarizing for the projects that are receiving, or have received, assistance under this chapter—
 
   (A) the applications received for assistance under this chapter;
 
@@ -591,6 +694,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 #### References in Text
 [Section 3907(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/5&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was struck out, and [section 3907(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/6&num=0&edition=prelim) was redesignated as 3907(a)(5), by Pub. L. 114–94, div. A, title I, § 1445, Dec. 4, 2015, 129 Stat. 1437. As amended, section 3907(a)(5) no longer relates to limitation.
+
+#### Amendments
+2018—Pub. L. 115–270, § 4201(d)(1), struck out “pilot” before “program” in section catchline.
+
+Subsec. (b)(1). Pub. L. 115–270, § 4201(d)(2), substituted “3 years after October 23, 2018” for “4 years after June 10, 2014” in introductory provisions.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

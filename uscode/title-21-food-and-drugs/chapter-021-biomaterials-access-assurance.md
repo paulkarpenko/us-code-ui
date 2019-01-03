@@ -186,6 +186,11 @@ As used in this chapter:
 
     (iii) any person who acts in only a financial capacity with respect to the sale of an implant.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under [section 1601 of this title](./chapter-021-biomaterials-access-assurance.md#section-1601).
+
 
 <a id="section-1603"></a>
 ## § 1603. General requirements; applicability; preemption
@@ -220,6 +225,11 @@ As used in this chapter:
 (1) to affect any defense available to a defendant under any other provisions of Federal or State law in an action alleging harm caused by an implant; or
 
 (2) to create a cause of action or Federal court jurisdiction pursuant to section 1331 or 1337 of title 28 that otherwise would not exist under applicable Federal or State law.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under [section 1601 of this title](./chapter-021-biomaterials-access-assurance.md#section-1601).
 
 
 <a id="section-1604"></a>
@@ -296,6 +306,11 @@ As used in this chapter:
 
 (2) such failure to meet applicable contractual requirements or specifications was an actual and proximate cause of the harm to the claimant.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under [section 1601 of this title](./chapter-021-biomaterials-access-assurance.md#section-1601).
+
 
 <a id="section-1605"></a>
 ## § 1605. Procedures for dismissal of civil actions against biomaterials suppliers
@@ -369,6 +384,11 @@ As used in this chapter:
 
 **(f) Manufacturer conduct of litigation** The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under [section 1601 of this title](./chapter-021-biomaterials-access-assurance.md#section-1601).
+
 
 <a id="section-1606"></a>
 ## § 1606. Subsequent impleader of dismissed biomaterials supplier
@@ -393,3 +413,8 @@ As used in this chapter:
 (2) may be found liable to a manufacturer or a claimant only to the extent required and permitted by any applicable State or Federal law other than this chapter.
 
 **(c) Discovery** Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under [section 1605 of this title](./chapter-021-biomaterials-access-assurance.md#section-1605).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to all civil actions covered under this chapter commenced on or after Aug. 13, 1998, including any in which the harm or harmful conduct occurred before such date, see section 8 of Pub. L. 105–230, set out as a note under [section 1601 of this title](./chapter-021-biomaterials-access-assurance.md#section-1601).

@@ -2,7 +2,7 @@
 title: 12
 chapter: '12'
 heading: SAVINGS ASSOCIATIONS
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -1761,6 +1761,61 @@ Pub. L. 100–86, title V, § 509(c), Aug. 10, 1987, 101 Stat. 635, provided tha
 Pub. L. 99–452, § 1(c), Oct. 8, 1986, 100 Stat. 1140, provided that: “No amendment made by section 141(a) or section 206(a) of the Garn-St Germain Depository Institutions Act of 1982 [set out as Effective and Termination Dates of 1982 Amendment notes under sections 1464 and 1729 of this title], as in effect on the day before the date of the enactment of this Act [Oct. 8, 1986], to any other provision of law shall be deemed to have taken effect before such date of enactment and any such provision of law shall be in effect as if no such amendment had taken effect before such date of enactment.”
 
 Pub. L. 99–400, § 1(c), Aug. 27, 1986, 100 Stat. 902, provided that: “Sections 141(a) and 206(a) of the Garn-St Germain Depository Institutions Act of 1982 [set out as Effective and Termination Dates of 1982 Amendment notes under sections 1464 and 1729 of this title], as such sections are in effect on the day after the date of enactment of this Act [Aug. 27, 1986], shall apply as if such sections had been included in the Garn-St Germain Depository Institutions Act of 1982 on the date of the enactment of such Act [Oct. 15, 1982], no amendment made by any such section to any other provision of law shall be deemed to have taken effect before the date of the enactment of this Act, and any such provision of law shall be in effect as if no such amendment had taken effect before the date of the enactment of this Act.”
+
+
+<a id="section-1464a"></a>
+## § 1464a. Election to operate as a covered savings association
+**(a) Definition** In this section, the term “covered savings association” means a Federal savings association that makes an election that is approved under subsection (b).
+
+**(b) Election**
+
+(1) **In general** — In accordance with the rules issued under subsection (f), a Federal savings association with total consolidated assets equal to or less than $20,000,000,000, as reported by the association to the Comptroller as of December 31, 2017, may elect to operate as a covered savings association by submitting a notice to the Comptroller of that election.
+
+(2) **Approval** — A Federal savings association shall be deemed to be approved to operate as a covered savings association beginning on the date that is 60 days after the date on which the Comptroller receives the notice submitted under paragraph (1), unless the Comptroller notifies the Federal savings association that the Federal savings association is not eligible.
+
+**(c) Rights and duties** Notwithstanding any other provision of law, and except as otherwise provided in this section, a covered savings association shall—
+
+(1) have the same rights and privileges as a national bank that has the main office of the national bank situated in the same location as the home office of the covered savings association; and
+
+(2) be subject to the same duties, restrictions, penalties, liabilities, conditions, and limitations that would apply to a national bank described in paragraph (1).
+
+**(d) Treatment of covered savings associations** A covered savings association shall be treated as a Federal savings association for the purposes—
+
+(1) of governance of the covered savings association, including incorporation, bylaws, boards of directors, shareholders, and distribution of dividends;
+
+(2) of consolidation, merger, dissolution, conversion (including conversion to a stock bank or to another charter), conservatorship, and receivership; and
+
+(3) determined by regulation of the Comptroller.
+
+**(e) Existing branches** A covered savings association may continue to operate any branch or agency that the covered savings association operated on the date on which an election under subsection (b) is approved.
+
+**(f) Rule making** The Comptroller shall issue rules to carry out this section—
+
+(1) that establish streamlined standards and procedures that clearly identify required documentation and timelines for an election under subsection (b);
+
+(2) that require a Federal savings association that makes an election under subsection (b) to identify specific assets and subsidiaries that—
+
+  (A) do not conform to the requirements for assets and subsidiaries of a national bank; and
+
+  (B) are held by the Federal savings association on the date on which the Federal savings association submits a notice of the election;
+
+(3) that establish—
+
+  (A) a transition process for bringing the assets and subsidiaries described in paragraph (2) into conformance with the requirements for a national bank; and
+
+  (B) procedures for allowing the Federal savings association to submit to the Comptroller an application to continue to hold assets and subsidiaries described in paragraph (2) after electing to operate as a covered savings association;
+
+(4) that establish standards and procedures to allow a covered savings association to—
+
+  (A) terminate an election under subsection (b) after an appropriate period of time; and
+
+  (B) make a subsequent election under subsection (b) after terminating an election under subparagraph (A);
+
+(5) that clarify requirements for the treatment of covered savings associations, including the provisions of law that apply to covered savings associations; and
+
+(6) as the Comptroller determines necessary in the interests of safety and soundness.
+
+**(g) Grandfathered covered savings associations** Subject to the rules issued under subsection (f), a covered savings association may continue to operate as a covered savings association if, after the date on which the election is made under subsection (b), the covered savings association has total consolidated assets greater than $20,000,000,000.
 
 
 <a id="section-1465"></a>

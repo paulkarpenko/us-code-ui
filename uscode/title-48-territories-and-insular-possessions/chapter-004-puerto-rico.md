@@ -1328,9 +1328,12 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 <a id="section-915"></a>
 ## § 915. Bonds as public debt
 
-Such bonds shall not be a debt of Puerto Rico or any municipality, and shall not constitute a public indebtedness within the meaning of [section 745 of this title](./chapter-004-puerto-rico.md#section-745).
+Such bonds shall not be a debt of Puerto Rico or any municipality, and shall not constitute a public indebtedness within the meaning of section 3 of the Act of Congress approved March 2, 1917, entitled “An Act to provide a civil government for Porto Rico, and for other purposes”, as amended.
 
 ### Statutory Notes
+
+#### References in Text
+Section 3 of the Act of Congress approved March 2, 1917, referred to in text, is section 3 of act Mar. 2, 1917, ch. 145, 39 Stat. 953. The provisions of section 3 of the Act limiting the public indebtedness of Puerto Rico and of certain municipalities thereof were contained in [section 745 of this title](./chapter-004-puerto-rico.md#section-745), prior to the amendment made to that section by Pub. L. 87–121, § 1, Aug. 3, 1961, 75 Stat. 245, which struck out those provisions. See 1961 Amendment note under [section 745 of this title](./chapter-004-puerto-rico.md#section-745).
 
 #### Codification
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.

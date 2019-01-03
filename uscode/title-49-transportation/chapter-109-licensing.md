@@ -41,7 +41,7 @@ only if the Board issues a certificate authorizing such activity under subsectio
 A prior section 10901, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1402; Pub. L. 96–448, title II, § 221, Oct. 14, 1980, 94 Stat. 1928, related to authorizing construction and operation of railroad lines, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10902"></a>
@@ -58,6 +58,9 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 #### Prior Provisions
 A prior section 10902, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1403, related to authorizing action by rail carriers to provide adequate, efficient, and safe facilities.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10903"></a>
@@ -140,6 +143,9 @@ A prior section 10903, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1403; Pub. L. 9
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Railroad Branchline Abandonments by Burlington Northern Railroad in North Dakota
 Pub. L. 97–102, title IV, § 402, Dec. 23, 1981, 95 Stat. 1465, as amended by Pub. L. 102–143, title III, § 343, Oct. 28, 1991, 105 Stat. 948, provided that: “Notwithstanding any other provision of law or of this Act, none of the funds provided in this or any other Act shall hereafter be used by the Interstate Commerce Commission to approve railroad branchline abandonments in the State of North Dakota by the entity generally known as the Burlington Northern Railroad, or its agents or assignees, in excess of a total of 350 miles, except that exempt abandonments and discontinuances that are effectuated pursuant to section 1152.50 of title 49 of the Code of Federal Regulations after the date of enactment of the Department of Transportation and Related Agencies Appropriations Act, 1992 [Oct. 28, 1991], shall not apply toward such 350-mile limit: Provided, That this section shall be in lieu of section 311 (amendment numbered 93) as set forth in the conference report and the joint explanatory statement of the committee of conference on the Department of Transportation and Related Agencies Appropriations Act, 1982 (H.R. 4209), filed in the House of Representatives on November 13, 1981 (H. Rept. No. 97–331).” [Section 311 of H.R. 4209 is section 311 of Pub. L. 97–102, title III, Dec. 23, 1981, 95 Stat. 1460, which is not classified to the Code.] Similar provisions were contained in Pub. L. 97–92, title IV, § 115, Dec. 15, 1981, 95 Stat. 1196.
 
@@ -219,6 +225,9 @@ Provisions similar to those in this section were contained in [section 10905 of 
 
 A prior section 10904, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1404; Pub. L. 96–448, title IV, § 402(b), Oct. 14, 1980, 94 Stat. 1941; Pub. L. 98–216, § 2(4), Feb. 14, 1984, 98 Stat. 5, related to filing and procedure for applications to abandon or discontinue railroad lines or rail transportation, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 10903 of this title](./chapter-109-licensing.md#section-10903).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10905"></a>
 ## § 10905. Offering abandoned rail properties for sale for public purposes
@@ -232,6 +241,9 @@ Provisions similar to those in this section were contained in [section 10906 of 
 
 A prior section 10905, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1405; Pub. L. 96–448, title IV, § 402(c), Oct. 14, 1980, 94 Stat. 1942; Pub. L. 103–272, § 4(j)(26), July 5, 1994, 108 Stat. 1369, related to offers of financial assistance to avoid abandonment and discontinuance, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 10904 of this title](./chapter-109-licensing.md#section-10904).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10906"></a>
 ## § 10906. Exception
@@ -244,6 +256,9 @@ Notwithstanding section 10901 and subchapter II of chapter 113 of this title, an
 Provisions similar to those in this section were contained in [section 10907 of this title](./chapter-109-licensing.md#section-10907) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 10906, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1406, related to offering abandoned rail properties for sale for public purposes, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 10905 of this title](./chapter-109-licensing.md#section-10905).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10907"></a>
@@ -348,6 +363,9 @@ Section 10934, added Pub. L. 96–454, § 5(a)(1), Oct. 15, 1980, 94 Stat. 2013;
 Section 10935, added Pub. L. 97–261, § 16(a), Sept. 20, 1982, 96 Stat. 1115; amended Pub. L. 103–272, § 5(m)(27), July 5, 1994, 108 Stat. 1378, related to discontinuing bus transportation in one State.
 
 Section 10936, added Pub. L. 103–311, title II, § 211(a), Aug. 26, 1994, 108 Stat. 1689, related to limitation on State regulation of intrastate passengers by bus.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10908"></a>

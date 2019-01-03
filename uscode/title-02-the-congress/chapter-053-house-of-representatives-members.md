@@ -2,7 +2,7 @@
 title: 2
 chapter: '53'
 heading: HOUSE OF REPRESENTATIVES MEMBERS
-section_count: 25
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -257,18 +257,37 @@ Committee on House Oversight of House of Representatives changed to Committee on
 Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into permanent law by Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, provided that: “The provisions of this resolution [enacting this section and repealing House Resolution No. 416, Eighty-ninth Congress, formerly classified to [section 60g–2 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60g-2)] shall become effective on January 1, 1974.”
 
 
+<a id="section-5322a"></a>
+## § 5322a. Allowance for compensation of interns in member offices
+**(a) Establishment of allowance** There is established for the House of Representatives an allowance which shall be available for the compensation of interns who serve in the offices of Members of the House of Representatives.
+
+**(b) Cap on amount available per office** An office of a Member of the House of Representatives may not use more than $20,000 of the allowance under this section during any calendar year.
+
+**(c) Benefit exclusion** [Section 5321(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5321/b&num=0&edition=prelim) shall apply with respect to an intern who is compensated under the allowance under this section in the same manner as such section applies with respect to an intern who is compensated under the Members’ Representational Allowance.
+
+**(d) No effect on payment of interns under members’ representational allowance** Nothing in this section may be construed to affect the use of the Members’ Representational Allowance for the compensation of interns, as provided under [section 5321 of this title](./chapter-053-house-of-representatives-members.md#section-5321).
+
+**(e) Definitions** In this section—
+
+(1) the term “intern” has the meaning given such term in [section 5321(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5321/c/2&num=0&edition=prelim); and
+
+(2) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
+
+**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section $8,800,000 for fiscal year 2019.
+
+
 <a id="section-5323"></a>
 ## § 5323. Pay of clerical assistants as affected by death of Senator or Representative
 
-When a Senator or Member of the House of Representatives or Delegate or Resident Commissioner dies during his term of office the clerical assistants appointed by him, and then borne upon the pay rolls of the Senate or House of Representatives, shall be continued on such pay rolls in their respective positions and be paid for a period not longer than one month: Provided, That this shall not apply to clerical assistants of standing committees of the Senate or House of Representatives, when their service otherwise would continue beyond such period.
+When a Senator 11 See Inapplicability to Employees of Senate note below. or Member of the House of Representatives or Delegate or Resident Commissioner dies during his term of office the clerical assistants appointed by him, and then borne upon the pay rolls of the Senate or House of Representatives, shall be continued on such pay rolls in their respective positions and be paid for a period not longer than one month: Provided, That this shall not apply to clerical assistants of standing committees of the Senate or House of Representatives, when their service otherwise would continue beyond such period.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 92a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-92a) prior to editorial reclassification and renumbering as this section.
 
-#### Employees of Senate
-Pub. L. 98–473, title I, § 123A(a), Oct. 12, 1984, 98 Stat. 1969, provided that this section shall not apply to any employee of Senate.
+#### Inapplicability to Employees of Senate
+Pub. L. 98–473, title I, § 123A(a), Oct. 12, 1984, 98 Stat. 1969, provided that this section shall not apply to any employee of the Senate.
 
 
 <a id="section-5324"></a>
@@ -505,3 +524,45 @@ Subsec. (b)(1). Pub. L. 104–186, § 203(21)(D), amended par. (1) generally. Pr
 
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+
+<a id="section-5347"></a>
+## § 5347. Delivery of bills and resolutions
+**(a)** None of the funds made available in any fiscal year may be used to deliver a printed copy of a bill, joint resolution, or resolution to the office of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) unless the Member requests a copy.
+
+**(b)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+
+
+<a id="section-5348"></a>
+## § 5348. Delivery of Congressional Record
+**(a)** None of the funds made available in any fiscal year may be used to deliver a printed copy of any version of the Congressional Record to the office of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress).
+
+**(b)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+
+
+<a id="section-5349"></a>
+## § 5349. Limitation on printed copies of U.S. Code to House
+**(a)** None of the funds made available in any fiscal year may be to provide an aggregate number of more than 50 printed copies of any edition of the United States Code to all offices of the House of Representatives.
+
+**(b)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+
+
+<a id="section-5350"></a>
+## § 5350. Delivery of reports of disbursements
+**(a)** None of the funds made available in any fiscal year may be used to deliver a printed copy of the report of disbursements for the operations of the House of Representatives under [section 5535 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5535) to the office of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress).
+
+**(b)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+
+
+<a id="section-5351"></a>
+## § 5351. Delivery of Daily Calendar
+**(a)** None of the funds made available in any fiscal year may be used to deliver to the office of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) a printed copy of the Daily Calendar of the House of Representatives which is prepared by the Clerk of the House of Representatives.
+
+**(b)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+
+
+<a id="section-5352"></a>
+## § 5352. Delivery of Congressional Pictorial Directory
+**(a)** None of the funds made available in any fiscal year may be used to deliver a printed copy of the Congressional Pictorial Directory to the office of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress).
+
+**(b)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.

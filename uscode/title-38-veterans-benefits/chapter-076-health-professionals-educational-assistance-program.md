@@ -2,7 +2,7 @@
 title: 38
 chapter: '76'
 heading: HEALTH PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM
-section_count: 39
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -16,15 +16,19 @@ source: >-
 
 (3) the Selected Reserve member stipend program provided for under subchapter V of this chapter;
 
-(4) the employee incentive scholarship program provided for in subchapter VI of this chapter; and
+(4) the employee incentive scholarship program provided for in subchapter VI of this chapter;
 
-(5) the education debt reduction program provided for in subchapter VII of this chapter.
+(5) the education debt reduction program provided for in subchapter VII of this chapter; and
+
+(6) the specialty education loan repayment program provided for in subchapter VIII of this chapter.
 
 **(b)** The purpose of the Educational Assistance Program is to assist in providing an adequate supply of trained health-care personnel for the Department and the Nation.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(6). Pub. L. 115–182 added par. (6).
+
 1998—Subsec. (a)(4), (5). Pub. L. 105–368 added pars. (4) and (5).
 
 1994—Subsec. (a)(1). Pub. L. 103–446 substituted semicolon for comma at end.
@@ -36,6 +40,12 @@ Subsec. (a). Pub. L. 102–83, § 4(a)(2)(B)(vi), substituted “Department of V
 Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 1990—Subsec. (a)(3). Pub. L. 101–366 added par. (3).
+
+#### Veterans Healing Veterans Medical Access and Scholarship Program
+Pub. L. 115–182, title III, § 304, June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(7), Sept. 29, 2018, 132 Stat. 3177, provided that: “(a) Establishment.—The Secretary of Veterans Affairs, acting through the Office of Academic Affiliations of the Department of Veterans Affairs, shall carry out a pilot program under which the Secretary shall provide funding for the medical education of a total of 18 eligible veterans. Such funding shall be provided for two veterans enrolled in each covered medical school in accordance with this section. “(b) Eligible Veterans.—To be eligible to receive funding for medical education under this section, a veteran shall—“(1) have been discharged from the Armed Forces not more than 10 years before the date of application for admission to a covered medical school; “(2) not be concurrently receiving educational assistance under chapter 30, 31, 32, 33, 34, or 35 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code; “(3) apply for admission to a covered medical school for the entering class of 2020; “(4) indicate on such application for admission that the veteran would like to be considered for an award of funding under this section; “(5) meet the minimum admissions criteria for the covered medical school to which the veteran applies; and “(6) enter into an agreement described in subsection (d). “(c) Award of Funding.—“(1) In general.—Each covered medical school that opts to participate in the program under this section shall reserve two seats in the entering class of 2020 for eligible veterans who receive funding under such program. Such funding shall be awarded to the two eligible veterans with the highest admissions rankings for such class at such school. “(2) Amount of funding.—Each eligible veteran who receives funding under this section shall receive an amount equal to the actual cost of—“(A) tuition at the covered medical school at which the veteran enrolls for 4 years; “(B) books, fees, and technical equipment; “(C) fees associated with the National Residency Match Program; “(D) two away rotations performed during the fourth year at a Department of Veterans Affairs medical facility; and “(E) a monthly stipend for the 4-year period during which the veteran is enrolled in medical school in an amount to be determined by the Secretary. “(3) Distribution of funding.—In the event that two or more eligible veterans do not apply for admission at one of the covered medical schools for the entering class of 2020, the Secretary shall distribute the available funding to eligible veterans who applied for admission at other covered medical schools. “(d) Agreement.—“(1) Terms of agreement.—Each eligible veteran who accepts funding for medical education under this section shall enter into an agreement with the Secretary that provides that the veteran agrees—“(A) to maintain enrollment and attendance in the medical school; “(B) while enrolled in such medical school, to maintain an acceptable level of academic standing (as determined by the medical school under regulations prescribed by the Secretary); “(C) to complete post-graduate training leading to eligibility for board certification in a speciality applicable to the Department of Veterans Affairs, as determined by the Secretary; “(D) after completion of medical school, to obtain a license to practice medicine in a State; and “(E) after completion of medical school and post-graduate training, to serve as a full-time clinical practice employee in the Veterans Health Administration for a period of 4 years. “(2) Breach of agreement.—If an eligible veteran who accepts funding under this section breaches the terms of the agreement described in paragraph (1), the United States shall be entitled to recover damages in an amount equal to the total amount of such funding received by the veteran. “(e) Rule of Construction.—Nothing in this section shall be construed to prevent any covered medical school from accepting more than two eligible veterans for the entering class of 2020. “(f) Report to Congress.—Not later than December 31, 2021, and annually thereafter for the subsequent 3 years, the Secretary shall submit to Congress a report on the pilot program under this section. Such report shall include the evaluation of the Secretary of the success of the pilot program, including the number of veterans who received funding under the program who matriculated and an evaluation of the academic progress of such veterans. “(g) Covered Medical Schools.—In this section, the term ‘covered medical school’ means any of the following:“(1) The Teague-Cranston medical schools, consisting of—“(A) Texas A&M College of Medicine; “(B) Quillen College of Medicine at East Tennessee State University; “(C) Boonshoft School of Medicine at Wright State University; “(D) Joan C. Edwards School of Medicine at Marshall University; and “(E) University of South Carolina School of Medicine. “(2) Charles R Drew University of Medicine and Science. “(3) Howard University College of Medicine. “(4) Meharry Medical College. “(5) Morehouse School of Medicine.”
+
+#### Physician Assistant Education and Training Pilot Program for Former Members of the Armed Forces
+Pub. L. 115–141, div. J, title II, § 246, Mar. 23, 2018, 132 Stat. 823, provided that: “(a) Pilot Program.—The Secretary of Veterans Affairs shall carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs. “(b) Eligible Individuals.—An individual is eligible to participate in the pilot program if the individual—“(1) has medical or military health experience gained while serving as a member of the Armed Forces; “(2) has received a certificate, associate degree, baccalaureate degree, master’s degree, or postbaccalaureate training in a science relating to health care; or “(3) has participated in the delivery of healthcare services or related medical services, including participation in military training relating to the identification, evaluation, treatment, and prevention of diseases and disorders. “(c) Duration.—The pilot program shall be carried out during the 5-year period beginning on the date that is 180 days after the date of the enactment of this Act [Mar. 23, 2018]. “(d) Selection.—“(1) The Secretary shall select eligible individuals under subsection (b) to participate in the pilot program. “(2) In selecting individuals to participate in the pilot program under paragraph (1), the Secretary shall give priority to individuals who agree to be employed as a physician assistant for the Veterans Health Administration at a medical facility of the Department located in a community that—“(A) is designated as a medically underserved population under section 330(b)(3)(A) of the Public Health Service Act ([42 U.S.C. 254b(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b/3/A&num=0&edition=prelim)); and “(B) is in a State with a per capita population of veterans of more than 5 percent according to the National Center for Veterans Analysis and Statistics and the United States Census Bureau. “(e) Educational Assistance.—In carrying out the pilot program, the Secretary shall provide educational assistance to individuals participating in the pilot program, including through the use of scholarships, to cover the costs to such individuals of obtaining a master’s degree in physician assistant studies or a similar master’s degree. “(f) Period of Obligated Service.—The Secretary shall enter into an agreement with each individual participating in the pilot program in which such individual agrees to be employed as a physician assistant for the Veterans Health Administration for a period of obligated service to be determined by the Secretary. “(g) Breach.—An individual who participates in the pilot program and fails to satisfy the period of obligated service under subsection (f) shall be liable to the United States, in lieu of such obligated service, for the amount that has been paid or is payable to or on behalf of the individual under the pilot program, reduced by the proportion that the number of days served for completion of the period of obligated service bears to the total number of days in the period of obligated service of such individual. “(h) Report.—Not later than one year after the date of the enactment of this Act [Mar. 23, 2018], the Secretary of Veterans Affairs, in collaboration with the Secretary of Labor, the Secretary of Defense, and the Secretary of Health and Human Services, shall submit to Congress a report on the pilot program’s effectiveness of helping to meet the shortage of physician assistants employed by the Department.”
 
 #### Payments to Health-Care Professional Employees for Tuition Loans
 Pub. L. 102–585, title V, § 523(b), Nov. 4, 1992, 106 Stat. 4959, provided that Secretary of Veterans Affairs could not provide payments to health-care professional employees of Department of Veterans Affairs for payment of tuition loans, prior to repeal by Pub. L. 105–368, title VIII, § 804, Nov. 11, 1998, 112 Stat. 3358.
@@ -72,7 +82,7 @@ Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 ## § 7603. Application and acceptance
 **(a)**
 
-(1) To apply to participate in the Educational Assistance Program under subchapter II, III, V, or VI of this chapter, an individual shall submit to the Secretary an application for such participation together with an agreement described in [section 7604 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7604) under which the participant agrees to serve a period of obligated service in the Veterans Health Administration as provided in the agreement in return for payment of educational assistance as provided in the agreement.
+(1) To apply to participate in the Educational Assistance Program under subchapter II, III, V, VI, or VIII of this chapter, an individual shall submit to the Secretary an application for such participation together with an agreement described in [section 7604 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7604) under which the participant agrees to serve a period of obligated service in the Veterans Health Administration as provided in the agreement in return for payment of educational assistance as provided in the agreement.
 
 (2) To apply to participate in the Educational Assistance Program under subchapter VII of this chapter, an individual shall submit to the Secretary an application for such participation.
 
@@ -97,6 +107,8 @@ Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–182 substituted “VI, or VIII” for “or VI”.
+
 2000—Subsec. (a)(1). Pub. L. 106–419 substituted “subchapter” for “subsection”.
 
 1998—Subsec. (a). Pub. L. 105–368, § 805(3)(A), designated existing provisions as par. (1), substituted “To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter,” for “To apply to participate in the Educational Assistance Program,”, and added par. (2).
@@ -121,7 +133,7 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
 (1) The Secretary’s agreement—
 
-  (A) to provide the participant with educational assistance as authorized in subchapter II, III, V, or VI of this chapter and specified in the agreement; and
+  (A) to provide the participant with educational assistance as authorized in subchapter II, III, V, VI, or VIII of this chapter and specified in the agreement; and
 
   (B) to afford the participant the opportunity for employment in the Veterans Health Administration (subject to the availability of appropriated funds for such purpose and other qualifications established in accordance with [section 7402 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7402)).
 
@@ -133,17 +145,19 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
   (C) while enrolled in such course, to maintain an acceptable level of academic standing (as determined by the educational institution offering such course of training under regulations prescribed by the Secretary); and
 
-  (D) after completion of the course of training, to serve as a full-time employee in the Veterans Health Administration as specified in the agreement in accordance with subchapter II, III, V, or VI of this chapter.
+  (D) after completion of the course of training, to serve as a full-time employee in the Veterans Health Administration as specified in the agreement in accordance with subchapter II, III, V, VI, or VIII of this chapter.
 
 (3) A provision that any financial obligation of the United States arising out of an agreement entered into under this chapter, and any obligation of the participant which is conditioned on such agreement, is contingent upon funds being appropriated for educational assistance under this chapter.
 
 (4) A statement of the damages to which the United States is entitled under this chapter for the participant’s breach of the agreement.
 
-(5) Such other terms as are required to be included in the agreement under subchapter II, III, V, or VI of this chapter or as the Secretary may require consistent with the provisions of this chapter.
+(5) Such other terms as are required to be included in the agreement under subchapter II, III, V, VI, or VIII of this chapter or as the Secretary may require consistent with the provisions of this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–182 substituted “VI, or VIII” for “or VI” in pars. (1)(A), (2)(D), and (5).
+
 1998—Pub. L. 105–368 substituted “subchapter II, III, V, or VI” for “subchapter II, III, or V” in pars. (1)(A), (2)(D), and (5).
 
 1994—Pub. L. 103–446, § 1201(e)(26), substituted “subchapter II” for “subchapters II” in pars. (1)(A), (2)(D), and (5).
@@ -206,6 +220,22 @@ Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided t
 
   (C) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
 
+(6)
+
+  (A) Of the scholarships awarded under this subchapter, the Secretary shall ensure that not less than 50 scholarships are awarded each year to individuals who are accepted for enrollment or enrolled (as described in [section 7602 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7602)) in a program of education or training leading to employment as a physician or dentist until such date as the Secretary determines that the staffing shortage of physicians and dentists in the Department is less than 500.
+
+  (B) After such date, the Secretary shall ensure that of the scholarships awarded under this subchapter, a number of scholarships is awarded each year to individuals referred to in subparagraph (A) in an amount equal to not less than ten percent of the staffing shortage of physicians and dentists in the Department, as determined by the Secretary.
+
+  (C) Notwithstanding subsection (c)(1), the agreement between the Secretary and a participant in the Scholarship Program who receives a scholarship pursuant to this paragraph shall provide the following:
+
+    (i) The Secretary’s agreement to provide the participant with a scholarship under this subchapter for a specified number (from two to four) of school years during which the participant is pursuing a course of education or training leading to employment as a physician or dentist.
+
+    (ii) The participant’s agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the “period of obligated service”) of 18 months for each school year or part thereof for which the participant was provided a scholarship under the Scholarship Program.
+
+  (D) In providing scholarships pursuant to this paragraph, the Secretary may provide a preference for applicants who are veterans.
+
+  (E) On an annual basis, the Secretary shall provide to appropriate educational institutions informational material about the availability of scholarships under this paragraph.
+
 **(c)**
 
 (1) An agreement between the Secretary and a participant in the Scholarship Program shall (in addition to the requirements set forth in [section 7604 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7604)) include the following:
@@ -227,6 +257,8 @@ Pub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided t
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(6). Pub. L. 115–182 added par. (6).
+
 2014—Subsec. (b)(5)(B), (C). Pub. L. 113–146 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 2010—Subsec. (b)(2). Pub. L. 111–163 substituted “as an appointee under paragraph (1) or (3) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401).” for “(under [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401)) as any of the following:
@@ -418,9 +450,11 @@ Subsec. (b)(5). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary�
 
 (3) The participant voluntarily terminates the course of training in such educational institution before the completion of such course of training.
 
-(4) The participant fails to become licensed to practice medicine, osteopathy, dentistry, podiatry, or optometry in a State, fails to become licensed as a registered nurse in a State, or fails to meet any applicable licensure requirement in the case of any other health-care personnel who provide either direct patient-care services or services incident to direct patient-care services, during a period of time determined under regulations prescribed by the Secretary.
+(4) In the case of a participant who is enrolled in a program or education or training leading to employment as a physician, the participant fails to successfully complete post-graduate training leading to eligibility for board certification in a specialty.
 
-(5) In the case of a participant who is a part-time student, the participant fails to maintain employment, while enrolled in the course of training being pursued by such participant, as a Department employee permanently assigned to a Department health-care facility.
+(5) The participant fails to become licensed to practice medicine, osteopathy, dentistry, podiatry, or optometry in a State, fails to become licensed as a registered nurse in a State, or fails to meet any applicable licensure requirement in the case of any other health-care personnel who provide either direct patient-care services or services incident to direct patient-care services, during a period of time determined under regulations prescribed by the Secretary.
+
+(6) In the case of a participant who is a part-time student, the participant fails to maintain employment, while enrolled in the course of training being pursued by such participant, as a Department employee permanently assigned to a Department health-care facility.
 Liability under this subsection is in lieu of any service obligation arising under the participant’s agreement.
 
 **(c)**
@@ -444,6 +478,8 @@ In such formula:
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(4) to (6). Pub. L. 115–182, which directed addition of par. (4) and redesignation of former pars. (4) and (5) as pars. (5) and (6), respectively, without specifying the subsec. amended, was executed to subsec. (b) to reflect the probable intent of Congress.
+
 1991—Pub. L. 102–40, § 402(b)(1), renumbered [section 4317 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4317) as this section.
 
 Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “7603” for “4303”.
@@ -475,11 +511,13 @@ A prior section 7618 was renumbered [section 7619 of this title](./chapter-076-h
 <a id="section-7619"></a>
 ## § 7619. Expiration of program
 
-The Secretary may not furnish scholarships to new participants in the Scholarship Program after December 31, 2019.
+The Secretary may not furnish scholarships to new participants in the Scholarship Program after December 31, 2033.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–182 substituted “December 31, 2033” for “December 31, 2019”.
+
 2014—Pub. L. 113–146 substituted “December 31, 2019” for “December 31, 2014”.
 
 2010—Pub. L. 111–163, § 603(c)(1), renumbered [section 7618 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7618) as this section.
@@ -638,7 +676,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 ## § 7631. Periodic adjustments in amount of assistance
 **(a)**
 
-(1) Whenever there is a general Federal pay increase, the Secretary shall increase the maximum monthly stipend amount, the maximum tuition reimbursement amount, the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, and the maximum education debt reduction payments amount. Any such increase shall take effect with respect to any school year that ends in the fiscal year in which the pay increase takes effect.
+(1) Whenever there is a general Federal pay increase, the Secretary shall increase the maximum monthly stipend amount, the maximum tuition reimbursement amount, the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, the maximum education debt reduction payments amount, and the maximum specialty education loan repayment amount. Any such increase shall take effect with respect to any school year that ends in the fiscal year in which the pay increase takes effect.
 
 (2) The amount of any increase under paragraph (1) of this subsection is the previous maximum amount under that paragraph multiplied by the overall percentage of the adjustment in the rates of pay under the General Schedule made under the general Federal pay increase. Such amount shall be rounded to the next lower multiple of $1.
 
@@ -656,9 +694,15 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 
 (6) The term “general Federal pay increase” means an adjustment (if an increase) in the rates of pay under the General Schedule under subchapter III of chapter 53 of title 5.
 
+(7) The term “specialty education loan repayment amount” means the maximum amount of specialty education loan repayment payments payable to or for a participant in the Department of Veterans Affairs Specialty Education Loan Repayment Program under subchapter VIII of this chapter, as specified in [section 7694(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7694/c/1&num=0&edition=prelim) and as previously adjusted (if at all) in accordance with this section.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–182, § 303(b)(1)(D)(i), struck out “and” after “scholarship amount,” and inserted “, and the maximum specialty education loan repayment amount” after “reduction payments amount”.
+
+Subsec. (b)(7). Pub. L. 115–182, § 303(b)(1)(D)(ii), added par. (7).
+
 2002—Subsec. (a)(1). Pub. L. 107–135, §§ 101(f)(1), 102(d)(1)(A), substituted “the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, and the maximum education debt reduction payments amount” for “and the maximum Selected Reserve member stipend amount”.
 
 Subsec. (b)(1) to (3). Pub. L. 107–135, § 101(g), substituted “this section” for “this subsection” in pars. (1) to (3).
@@ -697,13 +741,13 @@ Pub. L. 100–322, title II, § 216(d), May 20, 1988, 102 Stat. 530, provided th
 
 Not later than March 1 of each year, the Secretary shall submit to Congress a report on the Educational Assistance Program. Each such report shall include the following information:
 
-(1) The number of students receiving educational assistance under the Educational Assistance Program, showing the numbers of students receiving assistance under the Scholarship Program, the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, and the Education Debt Reduction Program separately, and the number of students (if any) enrolled in each type of health profession training under each program.
+(1) The number of students receiving educational assistance under the Educational Assistance Program, showing the numbers of students receiving assistance under the Scholarship Program, the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, the Education Debt Reduction Program, and the Specialty Education Loan Repayment Program separately, and the number of students (if any) enrolled in each type of health profession training under each program.
 
 (2) The education institutions (if any) providing such training to students in each program.
 
 (3) The number of applications filed under each program, by health profession category, during the school year beginning in such year and the total number of such applications so filed for all years in which the Educational Assistance Program (or predecessor program) has been in existence.
 
-(4) The average amounts of educational assistance provided per participant in the Scholarship Program, per participant in the Tuition Reimbursement Program, per participant in the Employee Incentive Scholarship Program, and per participant in the Education Debt Reduction Program.
+(4) The average amounts of educational assistance provided per participant in the Scholarship Program, per participant in the Tuition Reimbursement Program, per participant in the Employee Incentive Scholarship Program, per participant in the Education Debt Reduction Program, and per participant in the Specialty Education Loan Repayment Program.
 
 (5) The amount of tuition and other expenses paid, by health profession category, in the aggregate and at each educational institution for the school year beginning in such year and for prior school years.
 
@@ -714,6 +758,10 @@ Not later than March 1 of each year, the Secretary shall submit to Congress a re
 ### Statutory Notes
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–182, § 303(b)(1)(E)(i), substituted “the Education Debt Reduction Program, and the Specialty Education Loan Repayment Program” for “and the Education Debt Reduction Program”.
+
+Par. (4). Pub. L. 115–182, § 303(b)(1)(E)(ii), substituted “per participant in the Education Debt Reduction Program, and per participant in the Specialty Education Loan Repayment Program” for “and per participant in the Education Debt Reduction Program”.
+
 1998—Par. (1). Pub. L. 105–368, § 805(5)(A), substituted “, the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, and the Education Debt Reduction Program” for “and the Tuition Reimbursement Program” and inserted “(if any)” after “number of students”.
 
 Par. (2). Pub. L. 105–368, § 805(5)(B), inserted “(if any)” after “education institutions”.
@@ -1095,6 +1143,9 @@ Subsec. (c). Pub. L. 111–163, § 301(b)(2), struck out subsec. (c). Text read 
 
 2002—Subsec. (a)(1). Pub. L. 107–135 substituted “in a position (as determined by the Secretary) providing direct-patient care services or services incident to direct-patient care services” for “under an appointment under [section 7402(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7402/b&num=0&edition=prelim) in a position” and “(as so determined)” for “(as determined by the Secretary)”.
 
+#### Inclusion of Vet Center Employees in Education Debt Reduction Program of Department of Veterans Affairs
+Pub. L. 115–182, title III, § 306, June 6, 2018, 132 Stat. 1470, provided that: “(a) In General.—The Secretary of Veterans Affairs shall ensure that clinical staff working at Vet Centers are eligible to participate in the Education Debt Reduction Program of the Department of Veterans Affairs under subchapter VII of chapter 76 of title 38, United States Code. “(b) Report.—Not later than 1 year after the date of the enactment of this Act [June 6, 2018], the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the number of participants in the Education Debt Reduction Program of the Department under such subchapter who work at Vet Centers. “(c) Vet Center Defined.—In this section, the term ‘Vet Center’ has the meaning given that term in [section 1712A(h) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A/h&num=0&edition=prelim), United States Code.”
+
 #### Temporary Expansion of Individuals Eligible for Participation in Program
 Pub. L. 107–135, title I, § 102(e), Jan. 23, 2002, 115 Stat. 2449, granted the Secretary of Veterans Affairs authority to treat certain individuals as recently appointed employees in the Veterans Health Administration under subsec. (a) of this section for purposes of eligibility in the Education Debt Reduction Program under this subchapter but prohibited exercise of this authority after June 30, 2002.
 
@@ -1117,7 +1168,7 @@ Pub. L. 107–135, title I, § 102(e), Jan. 23, 2002, 115 Stat. 2449, granted th
 
 **(d) Maximum Annual Amount.—**
 
-(1) The amount of education debt reduction payments made to or for a participant under the Education Debt Reduction Program may not exceed $120,000 over a total of five years of participation in the Program, of which not more than $24,000 of such payments may be made in each year of participation in the Program.
+(1) The amount of education debt reduction payments made to or for a participant under the Education Debt Reduction Program may not exceed $200,000 over a total of five years of participation in the Program, of which not more than $40,000 of such payments may be made in each year of participation in the Program.
 
 (2)
 
@@ -1128,6 +1179,8 @@ Pub. L. 107–135, title I, § 102(e), Jan. 23, 2002, 115 Stat. 2449, granted th
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–182 substituted “$200,000” for “$120,000” and “40,000” for “$24,000”.
+
 2015—Subsec. (d). Pub. L. 114–58 inserted period at end.
 
 2014—Subsec. (a). Pub. L. 113–175, § 408(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Education debt reduction payments under the Education Debt Reduction Program shall consist of payments to individuals selected to participate in the program of amounts to reimburse such individuals for payments by such individuals of principal and interest on loans described in [section 7682(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7682/a/2&num=0&edition=prelim).”
@@ -1165,3 +1218,129 @@ Subsec. (d)(3). Pub. L. 111–163, § 301(d), added par. (3).
 ### Statutory Notes
 
 Section, added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3358, provided that the Secretary could not make education debt reduction payments to individuals who had not commenced participation in the Education Debt Reduction Program before Dec. 31, 2001.
+
+
+<a id="section-7691"></a>
+## § 7691. Establishment
+
+As part of the Educational Assistance Program, the Secretary may carry out a student loan repayment program under [section 5379 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5379&num=0&edition=prelim). The program shall be known as the Department of Veterans Affairs Specialty Education Loan Repayment Program (in this chapter referred to as the “Specialty Education Loan Repayment Program”).
+
+### Statutory Notes
+
+#### Offer Deadline
+Pub. L. 115–182, title III, § 303(e), June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(6)(B), Sept. 29, 2018, 132 Stat. 3177, provided that: “In the case of an applicant who applies before receiving a residency match and whom the Secretary of Veterans Affairs selects for participation in the Specialty Education Loan Repayment Program under subchapter VIII of chapter 76 of title 38, United States Code, as enacted by subsection (a), the Secretary shall offer participation to the applicant not later than 28 days after— “(1) the applicant matches with a residency in a medical specialty described in [section 7692 of title 38](./chapter-076-health-professionals-educational-assistance-program.md#section-7692), United States Code, as enacted by subsection (a); and “(2) such match is published.”
+
+#### Publicity
+Pub. L. 115–182, title III, § 303(f), June 6, 2018, 132 Stat. 1467, provided that: “The Secretary of Veterans Affairs shall take such steps as the Secretary determines are appropriate to publicize the Specialty Education Loan Repayment Program established under subchapter VIII of chapter 76 of title 38, United States Code, as enacted by subsection (a).”
+
+
+<a id="section-7692"></a>
+## § 7692. Purpose
+
+The purpose of the Specialty Education Loan Repayment Program is to assist, through the establishment of an incentive program for certain individuals employed in the Veterans Health Administration, in meeting the staffing needs of the Veterans Health Administration for physicians in medical specialties for which the Secretary determines recruitment or retention of qualified personnel is difficult.
+
+### Statutory Notes
+
+#### Needs of the VHA
+Pub. L. 115–182, title III, § 303(c), June 6, 2018, 132 Stat. 1467, provided that: “In making determinations each year under [section 7692 of title 38](./chapter-076-health-professionals-educational-assistance-program.md#section-7692), United States Code, as enacted by subsection (a), the Secretary of Veterans Affairs shall consider the anticipated needs of the Veterans Health Administration during the period 2 to 6 years in the future.”
+
+
+<a id="section-7693"></a>
+## § 7693. Eligibility; preferences; covered costs
+**(a) Eligibility.—** An individual is eligible to participate in the Specialty Education Loan Repayment Program if the individual—
+
+(1) will be eligible for appointment under [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) to work in an occupation described in [section 7692 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7692);
+
+(2) owes any amount of principal or interest under a loan, the proceeds of which were used by or on behalf of that individual to pay costs relating to a course of education or training which led to a degree that qualified the individual for the position referred to in paragraph (1); and
+
+(3) is—
+
+  (A) recently graduated from an accredited medical or osteopathic school and matched to an accredited residency program in a medical specialty described in [section 7692 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7692); or
+
+  (B) a physician in training in a medical specialty described in [section 7692 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7692) with more than 2 years remaining in such training.
+
+**(b) Preferences.—** In selecting individuals for participation in the Specialty Education Loan Repayment Program under this subchapter, the Secretary may give preference to the following:
+
+(1) Individuals who are, or will be, participating in residency programs in health care facilities—
+
+  (A) located in rural areas;
+
+  (B) operated by Indian tribes, tribal organizations, or the Indian Health Service; or
+
+  (C) affiliated with underserved health care facilities of the Department.
+
+(2) Veterans.
+
+**(c) Covered Costs.—** For purposes of subsection (a)(2), costs relating to a course of education or training include—
+
+(1) tuition expenses;
+
+(2) all other reasonable educational expenses, including expenses for fees, books, equipment, and laboratory expenses; and
+
+(3) reasonable living expenses.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–251 substituted “will be eligible for appointment” for “is hired”.
+
+#### Preference
+Pub. L. 115–182, title III, § 303(d), June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(6)(A), Sept. 29, 2018, 132 Stat. 3176, provided that: “In granting preference under [section 7693 of title 38](./chapter-076-health-professionals-educational-assistance-program.md#section-7693), United States Code, as enacted by subsection (a), the Secretary of Veterans Affairs shall determine whether a facility of the Department of Veterans Affairs is underserved based on the criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note].”
+
+
+<a id="section-7694"></a>
+## § 7694. Specialty education loan repayment
+**(a) In General.—** Payments under the Specialty Education Loan Repayment Program shall consist of payments for the principal and interest on loans described in [section 7682(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7682/a/2&num=0&edition=prelim) for individuals selected to participate in the Program to the holders of such loans.
+
+**(b) Frequency of Payment.—** The Secretary shall make payments for any given participant in the Specialty Education Loan Repayment Program on a schedule determined appropriate by the Secretary.
+
+**(c) Maximum Amount; Waiver.—**
+
+(1) The amount of payments made for a participant under the Specialty Education Loan Repayment Program may not exceed $160,000 over a total of 4 years of participation in the Program, of which not more than $40,000 of such payments may be made in each year of participation in the Program.
+
+(2)
+
+  (A) The Secretary may waive the limitations under paragraph (1) in the case of a participant described in subparagraph (B). In the case of such a waiver, the total amount of payments payable to or for that participant is the total amount of the principal and the interest on the participant’s loans referred to in subsection (a).
+
+  (B) A participant described in this subparagraph is a participant in the Program who the Secretary determines serves in a position for which there is a shortage of qualified employees by reason of either the location or the requirements of the position.
+
+
+<a id="section-7695"></a>
+## § 7695. Choice of location
+
+Each participant in the Specialty Education Loan Repayment Program who completes residency may select, from a list of medical facilities of the Veterans Health Administration provided by the Secretary, at which such facility the participant will work in a medical specialty described in [section 7692 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7692).
+
+
+<a id="section-7696"></a>
+## § 7696. Term of obligated service
+**(a) In General.—** In addition to any requirements under [section 5379(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5379/c&num=0&edition=prelim), a participant in the Specialty Education Loan Repayment Program must agree, in writing and before the Secretary may make any payment to or for the participant, to—
+
+(1) obtain a license to practice medicine in a State;
+
+(2) successfully complete post-graduate training leading to eligibility for board certification in a specialty;
+
+(3) serve as a full-time clinical practice employee of the Veterans Health Administration for 12 months for every $40,000 in such benefits that the employee receives, but in no case for fewer than 24 months; and
+
+(4) except as provided in subsection (b), to begin such service as a full-time practice employee by not later than 60 days after completing a residency.
+
+**(b) Fellowship.—** In the case of a participant who receives an accredited fellowship in a medical specialty other than a medical specialty described in [section 7692 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7692), the Secretary, on written request of the participant, may delay the term of obligated service under subsection (a) for the participant until after the participant completes the fellowship, but in no case later than 60 days after completion of such fellowship.
+
+**(c) Penalty.—**
+
+(1) An employee who does not complete a period of obligated service under this section shall owe the Federal Government an amount determined in accordance with the following formula: A = B × ((T − S) ÷ T)).11 So in original. There is an extra closing parenthesis in the formula.
+
+(2) In the formula in paragraph (1):
+
+  (A) “A” is the amount the employee owes the Federal Government.
+
+  (B) “B” is the sum of all payments to or for the participant under the Specialty Education Loan Repayment Program.
+
+  (C) “T” is the number of months in the period of obligated service of the employee.
+
+  (D) “S” is the number of whole months of such period of obligated service served by the employee.
+
+
+<a id="section-7697"></a>
+## § 7697. Relationship to Educational Assistance Program
+
+Assistance under the Specialty Education Loan Repayment Program may be in addition to other assistance available to individuals under the Educational Assistance Program.

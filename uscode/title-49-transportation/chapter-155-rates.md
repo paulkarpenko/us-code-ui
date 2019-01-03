@@ -18,7 +18,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 10701 of this title](./chapter-107-rates.md#section-10701) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-15502"></a>
@@ -34,6 +34,9 @@ A pipeline carrier providing transportation or service subject to this part shal
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10702 of this title](./chapter-107-rates.md#section-10702) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-15503"></a>
@@ -55,6 +58,9 @@ Provisions similar to those in this section were contained in [section 10702 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10704 of this title](./chapter-107-rates.md#section-10704) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-15504"></a>
 ## § 15504. Government traffic
@@ -69,6 +75,9 @@ Provisions similar to those in this section were contained in [section 10721 of 
 #### Amendments
 2011—Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-15505"></a>
 ## § 15505. Prohibition against discrimination by pipeline carriers
@@ -80,6 +89,9 @@ A pipeline carrier providing transportation or service subject to this part may 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10741 of this title](./chapter-107-rates.md#section-10741) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-15506"></a>
 ## § 15506. Facilities for interchange of traffic
@@ -90,3 +102,6 @@ A pipeline carrier providing transportation subject to this part shall provide r
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10742 of this title](./chapter-107-rates.md#section-10742) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

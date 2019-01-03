@@ -2,7 +2,7 @@
 title: 7
 chapter: '38'
 heading: DISTRIBUTION AND MARKETING OF AGRICULTURAL PRODUCTS
-section_count: 55
+section_count: 62
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -29,7 +29,7 @@ Act Aug. 14, 1946, ch. 966, title II, § 201, 60 Stat. 1087, provided that: “T
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 #### Specialty Crops Competitiveness
-Pub. L. 108–465, §§ 2, 3, title I, § 101, Dec. 21, 2004, 118 Stat. 3882, 3883, as amended by Pub. L. 110–234, title X, § 10109, May 22, 2008, 122 Stat. 1338; Pub. L. 110–246, § 4(a), title X, § 10109, June 18, 2008, 122 Stat. 1664, 2100; Pub. L. 113–79, title X, § 10010, Feb. 7, 2014, 128 Stat. 949, provided that: “SEC. 2. FINDINGS AND PURPOSE.“(a) Findings.—Congress finds the following:“(1) A secure domestic food supply is a national security imperative for the United States. “(2) A competitive specialty crop industry in the United States is necessary for the production of an abundant, affordable supply of highly nutritious fruits, vegetables, and other specialty crops, which are vital to the health and well-being of all Americans. “(3) Increased consumption of specialty crops will provide tremendous health and economic benefits to both consumers and specialty crop growers. “(4) Specialty crop growers believe that there are numerous areas of Federal agriculture policy that could be improved to promote increased consumption of specialty crops and increase the competitiveness of producers in the efficient production of affordable specialty crops in the United States. “(5) As the globalization of markets continues, it is becoming increasingly difficult for United States producers to compete against heavily subsidized foreign producers in both the domestic and foreign markets. “(6) United States specialty crop producers also continue to face serious tariff and non-tariff trade barriers in many export markets. “(b) Purpose.—It is the purpose of this Act [see Short Title of 2004 Amendment note set out under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101)] to make necessary changes in Federal agriculture policy to accomplish the goals of increasing fruit, vegetable, and nut consumption and improving the competitiveness of United States specialty crop producers. “SEC. 3. DEFINITIONS.“In this Act:“(1) The term ‘specialty crop’ means fruits and vegetables, tree nuts, dried fruits, and horticulture and nursery crops (including floriculture). “(2) The term ‘State’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands. “(3) The term ‘State department of agriculture’ means the agency, commission, or department of a State government responsible for agriculture within the State. “TITLE I—STATE ASSISTANCE FOR SPECIALTY CROPS“SEC. 101. SPECIALTY CROP BLOCK GRANTS.“(a) Availability and Purpose of Grants.—Using the funds made available under subsection (l), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2018 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops. “(b) Grants Based on Value and Acreage.—Subject to subsection (c), for each State whose application for a grant for a fiscal year that [sic] is accepted by the Secretary under subsection (f), the amount of the grant for that fiscal year to the State under this section shall bear the same ratio to the total amount made available under subsection (l)(1) for that fiscal year as—“(1) the average of the most recent available value of specialty crop production in the State and the acreage of specialty crop production in the State, as demonstrated in the most recent Census of Agriculture data; bears to “(2) the average of the most recent available value of specialty crop production in all States and the acreage of specialty crop production in all States, as demonstrated in the most recent Census of Agriculture data. “(c) Minimum Grant Amount.—Notwithstanding subsection (b), each State shall receive a grant under this section for each fiscal year in an amount that is at least equal to the higher of—“(1) $100,000; or “(2) ⅓ of 1 percent of the total amount of funding made available to carry out this section for the fiscal year. “(d) Eligibility.—To be eligible to receive a grant under this section, a State department of agriculture shall prepare and submit, for approval by the Secretary of Agriculture, an application at such time, in such a manner, and containing such information as the Secretary shall require by regulation, including—“(1) a State plan that meets the requirements of subsection (e); “(2) an assurance that the State will comply with the requirements of the plan; and “(3) an assurance that grant funds received under this section shall supplement the expenditure of State funds in support of specialty crops grown in that State, rather than replace State funds. “(e) Plan Requirements.—The State plan shall identify the lead agency charged with the responsibility of carrying out the plan and indicate how the grant funds will be utilized to enhance the competitiveness of specialty crops. “(f) Review of Application.—In reviewing the application of a State submitted under subsection (d), the Secretary of Agriculture shall ensure that the State plan would carry out the purpose of grant program, as specified in subsection (a). The Secretary may accept or reject applications for a grant under this section. “(g) Effect of Noncompliance.—If the Secretary of Agriculture, after reasonable notice to a State, finds that there has been a failure by the State to comply substantially with any provision or requirement of the State plan, the Secretary may disqualify, for one or more years, the State from receipt of future grants under this section. “(h) Audit Requirements.—For each year that a State receives a grant under this section, the State shall conduct an audit of the expenditures of grant funds by the State. Not later than 30 days after the completion of the audit, the State shall submit a copy of the audit to the Secretary of Agriculture. “(i) Reallocation.—“(1) In general.—The Secretary shall reallocate to other States in accordance with paragraph (2) any amounts made available for a fiscal year under this section that are not obligated or expended by a date during that fiscal year determined by the Secretary. “(2) Pro rata allocation.—The Secretary shall allocate funds described in paragraph (1) pro rata to the remaining States that applied during the specified grant application period. “(3) Use of reallocated funds.—Funds allocated to a State under this subsection shall be used by the State only to carry out projects that were previously approved in the State plan of the State. “(j) Multistate Projects.—Not later than 180 days after the effective date of the Agricultural Act of 2014 [Feb. 7, 2014], the Secretary of Agriculture shall issue guidance for the purpose of making grants to multistate projects under this section for projects involving—“(1) food safety; “(2) plant pests and disease; “(3) research; “(4) crop-specific projects addressing common issues; and “(5) any other area that furthers the purposes of this section, as determined by the Secretary. “(k) Administration.—“(1) Department.—The Secretary of Agriculture may not use more than 3 percent of the funds made available to carry out this section for a fiscal year for administrative expenses. “(2) States.—A State receiving a grant under this section may not use more than 8 percent of the funds received under the grant for a fiscal year for administrative expenses. “(l) Funding.—“(1) In general.—Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make grants under this section, using—“(A) $10,000,000 for fiscal year 2008; “(B) $49,000,000 for fiscal year 2009; “(C) $55,000,000 for each of fiscal years 2010 through 2012; “(D) $72,500,000 for each of fiscal years 2014 through 2017; and “(E) $85,000,000 for fiscal year 2018 and each fiscal year thereafter. “(2) Multistate projects.—Of the funds made available under paragraph (1), the Secretary may use to carry out subsection (j), to remain available until expended—“(A) $1,000,000 for fiscal year 2014; “(B) $2,000,000 for fiscal year 2015; “(C) $3,000,000 for fiscal year 2016; “(D) $4,000,000 for fiscal year 2017; and “(E) $5,000,000 for fiscal year 2018.”
+Pub. L. 108–465, §§ 2, 3, title I, § 101, Dec. 21, 2004, 118 Stat. 3882, 3883, as amended by Pub. L. 110–234, title X, § 10109, May 22, 2008, 122 Stat. 1338; Pub. L. 110–246, § 4(a), title X, § 10109, June 18, 2008, 122 Stat. 1664, 2100; Pub. L. 113–79, title X, § 10010, Feb. 7, 2014, 128 Stat. 949; Pub. L. 115–334, title X, § 10107, Dec. 20, 2018, 132 Stat. 4905, provided that: “SEC. 2. FINDINGS AND PURPOSE.“(a) Findings.—Congress finds the following:“(1) A secure domestic food supply is a national security imperative for the United States. “(2) A competitive specialty crop industry in the United States is necessary for the production of an abundant, affordable supply of highly nutritious fruits, vegetables, and other specialty crops, which are vital to the health and well-being of all Americans. “(3) Increased consumption of specialty crops will provide tremendous health and economic benefits to both consumers and specialty crop growers. “(4) Specialty crop growers believe that there are numerous areas of Federal agriculture policy that could be improved to promote increased consumption of specialty crops and increase the competitiveness of producers in the efficient production of affordable specialty crops in the United States. “(5) As the globalization of markets continues, it is becoming increasingly difficult for United States producers to compete against heavily subsidized foreign producers in both the domestic and foreign markets. “(6) United States specialty crop producers also continue to face serious tariff and non-tariff trade barriers in many export markets. “(b) Purpose.—It is the purpose of this Act [see Short Title of 2004 Amendment note set out under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101)] to make necessary changes in Federal agriculture policy to accomplish the goals of increasing fruit, vegetable, and nut consumption and improving the competitiveness of United States specialty crop producers. “SEC. 3. DEFINITIONS.“In this Act:“(1) The term ‘specialty crop’ means fruits and vegetables, tree nuts, dried fruits, and horticulture and nursery crops (including floriculture). “(2) The term ‘State’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands. “(3) The term ‘State department of agriculture’ means the agency, commission, or department of a State government responsible for agriculture within the State. “TITLE I—STATE ASSISTANCE FOR SPECIALTY CROPS“SEC. 101. SPECIALTY CROP BLOCK GRANTS.“(a) Availability and Purpose of Grants.—Using the funds made available under subsection (l), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2023 to be used by State departments of agriculture to enhance the competitiveness of specialty crops, including—“(1) by leveraging efforts to market and promote specialty crops; “(2) by assisting producers with research and development relevant to specialty crops; “(3) by expanding availability and access to specialty crops; “(4) by addressing local, regional, and national challenges confronting specialty crop producers; and “(5) for such other purposes determined to be appropriate by the Secretary of Agriculture, in consultation with specialty crop stakeholders and relevant State departments of agriculture. “(b) Grants Based on Value and Acreage.—Subject to subsection (c), for each State whose application for a grant for a fiscal year that [sic] is accepted by the Secretary under subsection (f), the amount of the grant for that fiscal year to the State under this section shall bear the same ratio to the total amount made available under subsection (l)(1) for that fiscal year as—“(1) the average of the most recent available value of specialty crop production in the State and the acreage of specialty crop production in the State, as demonstrated in the most recent Census of Agriculture data; bears to “(2) the average of the most recent available value of specialty crop production in all States and the acreage of specialty crop production in all States, as demonstrated in the most recent Census of Agriculture data. “(c) Minimum Grant Amount.—Notwithstanding subsection (b), each State shall receive a grant under this section for each fiscal year in an amount that is at least equal to the higher of—“(1) $100,000; or “(2) ⅓ of 1 percent of the total amount of funding made available to carry out this section for the fiscal year. “(d) Eligibility.—To be eligible to receive a grant under this section, a State department of agriculture shall prepare and submit, for approval by the Secretary of Agriculture, an application at such time, in such a manner, and containing such information as the Secretary shall require by regulation, including—“(1) a State plan that meets the requirements of subsection (e); “(2) an assurance that the State will comply with the requirements of the plan; and “(3) an assurance that grant funds received under this section shall supplement the expenditure of State funds in support of specialty crops grown in that State, rather than replace State funds. “(e) Plan Requirements.—The State plan shall identify the lead agency charged with the responsibility of carrying out the plan and indicate how the grant funds will be utilized to enhance the competitiveness of specialty crops. “(f) Review of Application.—In reviewing the application of a State submitted under subsection (d), the Secretary of Agriculture shall ensure that the State plan would carry out the purpose of grant program, as specified in subsection (a). The Secretary may accept or reject applications for a grant under this section. “(g) Effect of Noncompliance.—If the Secretary of Agriculture, after reasonable notice to a State, finds that there has been a failure by the State to comply substantially with any provision or requirement of the State plan, the Secretary may disqualify, for one or more years, the State from receipt of future grants under this section. “(h) Audit Requirements.—For each year that a State receives a grant under this section, the State shall conduct an audit of the expenditures of grant funds by the State. Not later than 30 days after the completion of the audit, the State shall submit a copy of the audit to the Secretary of Agriculture. “(i) Reallocation.—“(1) In general.—The Secretary shall reallocate to other States in accordance with paragraph (2) any amounts made available for a fiscal year under this section that are not obligated or expended by a date during that fiscal year determined by the Secretary. “(2) Pro rata allocation.—The Secretary shall allocate funds described in paragraph (1) pro rata to the remaining States that applied during the specified grant application period. “(3) Use of reallocated funds.—Funds allocated to a State under this subsection shall be used by the State only to carry out projects that were previously approved in the State plan of the State. “(j) Multistate Projects.—“(1) In general.—Not later than 180 days after the effective date of the Agricultural Act of 2014 [Feb. 7, 2014], the Secretary of Agriculture shall issue guidance for the purpose of making grants to multistate projects under this section for projects involving—“(A) food safety; “(B) plant pests and disease; “(C) research; “(D) crop-specific projects addressing common issues; and “(E) any other area that furthers the purposes of this section, as determined by the Secretary. “(2) Administration of multistate projects from nonparticipating states.—The Secretary of Agriculture may directly administer all aspects of multistate projects under this subsection for applicants in a nonparticipating State. “(k) Administration.—“(1) Department.—The Secretary of Agriculture may not use more than 3 percent of the funds made available to carry out this section for a fiscal year for administrative expenses. “(2) States.—A State receiving a grant under this section may not use more than 8 percent of the funds received under the grant for a fiscal year for administrative expenses. “(3) Evaluation.—“(A) Performance measures and review.—“(i) Development.—The Secretary of Agriculture and the State departments of agriculture, in consultation with specialty crop stakeholders, shall develop performance measures to be used as the sole means of performing any evaluation of the grant program established under this section. “(ii) Review.—The Secretary of Agriculture, in consultation with the State departments of agriculture, shall periodically evaluate the performance of the grant program established under this section. “(B) Cooperative agreements.—The Secretary of Agriculture may enter into cooperative agreements—“(i) to develop the performance measures under subparagraph (A)(i); or “(ii) to evaluate the overall performance of the grant program established under this section. “(l) Funding.—“(1) In general.—Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make grants under this section, using—“(A) $10,000,000 for fiscal year 2008; “(B) $49,000,000 for fiscal year 2009; “(C) $55,000,000 for each of fiscal years 2010 through 2012; “(D) $72,500,000 for each of fiscal years 2014 through 2017; and “(E) $85,000,000 for fiscal year 2018 and each fiscal year thereafter. “(2) Multistate projects.—Of the funds made available under paragraph (1), the Secretary may use to carry out subsection (j), to remain available until expended—“(A) $1,000,000 for fiscal year 2014; “(B) $2,000,000 for fiscal year 2015; “(C) $3,000,000 for fiscal year 2016; “(D) $4,000,000 for fiscal year 2017; and “(E) $5,000,000 for fiscal year 2018 and each fiscal year thereafter.”
 
 #### National Commission on Food Marketing
 Pub. L. 88–354, July 3, 1964, 78 Stat. 269, as amended by Pub. L. 89–20, May 15, 1965, 79 Stat. 111, provided for the establishment of a bipartisan National Commission on Food Marketing composed of fifteen members, five from the Senate, five from the House of Representatives and five from outside the Federal Government, to study and appraise the marketing structure of the food industry and to make a final report of its findings and conclusions to the President and to the Congress by July 1, 1966. The Commission ceased to exist ninety days after submission of its final report.
@@ -166,6 +166,9 @@ United States Maritime Commission abolished by 1950 Reorg. Plan No. 21, eff. May
 
 Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by 1949 Reorg. Plan No. 6, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1069, set out in the Appendix to Title 5.
 
+#### Regional Cattle and Carcass Grading Correlation and Training Centers
+Pub. L. 115–334, title XII, § 12108, Dec. 20, 2018, 132 Stat. 4943, provided that: “(a) In General.—The Secretary [of Agriculture] shall establish not more than 3 regional centers, to be known as Cattle and Carcass Grading Correlation and Training Centers (referred to in this section as the ‘Centers’), to provide education and training for cattle and carcass beef graders of the Agricultural Marketing Service, cattle producers, and other professionals involved in the reporting, delivery, and grading of feeder cattle, live cattle, and carcasses—“(1) to limit the subjectivity in the application of beef grading standards; “(2) to provide producers with greater confidence in the price of the producers’ cattle; and “(3) to provide investors with both long and short positions more assurance in the cattle delivery system. “(b) Location.—The Centers shall be located near cattle feeding and slaughter populations and areas shall be strategically identified in order to capture regional variances in cattle production. “(c) Administration.—Each Center shall be organized and administered by offices of the Department of Agriculture in operation on the date on which the respective Center is established, or in coordination with other appropriate Federal agencies or academic institutions. “(d) Training Program.—The Centers shall offer intensive instructional programs involving classroom and field training work for individuals described in subsection (a). “(e) Coordination of Resources.—Each Center, in carrying out the functions of the Center, shall make use of information generated by the Department of Agriculture, the State agricultural extension and research stations, relevant designated contract markets, and the practical experience of area cattle producers, especially cattle producers cooperating in on-farm demonstrations, correlations, and research projects. “(f) Prohibition on Construction.—Funds made available to carry out this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement, and architect fees). Notwithstanding the preceding sentence, the Secretary may use funds made available to carry out this section to provide a Center with payment for the cost of the rental of a space determined to be necessary by the Center for conducting training under this section and may accept donations (including in-kind contributions) to cover such cost.”
+
 #### Agricultural Processing Equipment; Inspection and Certification; Fee
 Pub. L. 106–387, § 1(a) [title VII, § 729], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that: “Hereafter, none of the funds appropriated by this Act or any other Act may be used to: “(1) carry out the proviso under [7 U.S.C. 1622(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1622/f&num=0&edition=prelim); or “(2) carry out [7 U.S.C. 1622(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1622/h&num=0&edition=prelim) unless the Secretary of Agriculture inspects and certifies agricultural processing equipment, and imposes a fee for the inspection and certification, in a manner that is similar to the inspection and certification of agricultural products under that section, as determined by the Secretary: Provided, That this provision shall not affect the authority of the Secretary to carry out the Federal Meat Inspection Act ([21 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601&num=0&edition=prelim) et seq.), the Poultry Products Inspection Act ([21 U.S.C. 451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section451&num=0&edition=prelim) et seq.), or the Egg Products Inspection Act ([21 U.S.C. 1031](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1031&num=0&edition=prelim) et seq.).”
 
@@ -204,7 +207,7 @@ Section was enacted as part of the Grain Quality Incentives Act of 1990, and als
 
 (2) use funds made available under subsection (b) to increase the reporting levels for specialty crops in effect on the date of enactment of this Act.
 
-**(b) Authorization of appropriations** In addition to any other funds made available through annual appropriations for market news services, there is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
+**(b) Authorization of appropriations** In addition to any other funds made available through annual appropriations for market news services, there is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
 
 ### Statutory Notes
 
@@ -217,6 +220,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (b). Pub. L. 113–79 substituted “2018” for “2012”.
 
 #### Effective Date
@@ -225,7 +230,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Definitions
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
-Pub. L. 110–234, title X, § 10001, May 22, 2008, 122 Stat. 1335, and Pub. L. 110–246, § 4(a), title X, § 10001, June 18, 2008, 122 Stat. 1664, 2096, provided that: “In this title [enacting this section, former section 1622c, sections 7655a, 7721, and former [section 7761 of this title](./chapter-104-plant-protection.md#section-7761), and [section 2104a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104a&num=0&edition=prelim), Conservation, amending sections 608e–1, 1622, 2204g, 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621)]: “(1) Specialty crop.—The term ‘specialty crop’ has the meaning given the term in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) note; Public Law 108–465). “(2) State department of agriculture.—The term ‘State department of agriculture’ means the agency, commission, or department of a State government responsible for protecting and promoting agriculture in the State.”
+Pub. L. 110–234, title X, § 10001, May 22, 2008, 122 Stat. 1335, and Pub. L. 110–246, § 4(a), title X, § 10001, June 18, 2008, 122 Stat. 1664, 2096, provided that: “In this title [enacting this section, former section 1622c, sections 7655a, 7721, and former [section 7761 of this title](./chapter-104-plant-protection.md#section-7761), and [section 2104a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104a&num=0&edition=prelim), Conservation, amending sections 608e–1, 1622, 2204g, former 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621)]: “(1) Specialty crop.—The term ‘specialty crop’ has the meaning given the term in section 3 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) note; Public Law 108–465). “(2) State department of agriculture.—The term ‘State department of agriculture’ means the agency, commission, or department of a State government responsible for protecting and promoting agriculture in the State.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
@@ -433,7 +438,12 @@ Provisions that authorized the Secretary of Agriculture to “fix the compensati
 
 **(b) Eligibility** The Secretary shall make grants under this section to at least one national entity, the mission of which is consistent with the purpose of the grant program.
 
-**(c) Funding** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,500,000 for fiscal year 2014, to remain available until expended.
+**(c) Funding** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $2,000,000 for fiscal year 2019, to remain available until expended.
+
+### Statutory Notes
+
+#### Amendments
+Subsec. (c). Pub. L. 115–334 substituted “$2,000,000 for fiscal year 2019” for “$1,500,000 for fiscal year 2014”.
 
 
 <a id="section-1627b"></a>
@@ -793,6 +803,432 @@ Pub. L. 110–234, title XI, § 11009(b)(2), May 22, 2008, 122 Stat. 1359, and P
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
 
+<a id="section-1627c"></a>
+## § 1627c. Local agriculture market program
+**(a) Definitions** In this section:
+
+(1) **Beginning farmer or rancher** — The term “beginning farmer or rancher” has the meaning given the term in [section 1991(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a&num=0&edition=prelim).
+
+(2) **Direct producer-to-consumer marketing** — The term “direct producer-to-consumer marketing” has the meaning given the term “direct marketing from farmers to consumers” in [section 3002 of this title](./chapter-063-farmer-to-consumer-direct-marketing.md#section-3002).
+
+(3) **Family farm** — The term “family farm” has the meaning given the term in [section 1632a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1632a/a&num=0&edition=prelim).
+
+(4) **Food council** — The term “food council” means a food policy council or food and farm system network, as determined by the Secretary, that—
+
+  (A) represents—
+
+    (i) multiple organizations involved in the production, processing, and consumption of food; and
+
+    (ii) local, Tribal, or State governments; and
+
+  (B) addresses food and farm-related issues and needs within city, county, State, Tribal region, multicounty region, or other region designated by the food council or food system network.
+
+(5) **Majority-controlled producer-based business venture**
+
+  (A) *In general* — The term “majority-controlled producer-based business venture” means a venture greater than 50 percent of the ownership and control of which is held by—
+
+    (i) 1 or more producers; or
+
+    (ii) 1 or more entities, 100 percent of the ownership and control of which is held by 1 or more producers.
+
+  (B) *Entity described* — For purposes of subparagraph (A), the term “entity” means—
+
+    (i) a partnership;
+
+    (ii) a limited liability corporation;
+
+    (iii) a limited liability partnership; and
+
+    (iv) a corporation.
+
+(6) **Mid-tier value chain** — The term “mid-tier value chain” means a local or regional supply network that links independent producers with businesses and cooperatives that market value-added agricultural products in a manner that—
+
+  (A) targets and strengthens the profitability and competitiveness of small and medium-sized farms and ranches that are structured as a family farm; and
+
+  (B) obtains agreement from an eligible agricultural producer group, farmer or rancher cooperative, or majority-controlled producer-based business venture that is engaged in the value chain on a marketing strategy.
+
+(7) **Partnership** — The term “partnership” means a partnership entered into under an agreement between—
+
+  (A) 1 or more eligible partners (as defined in subsection (e)(1)); and
+
+  (B) 1 or more eligible entities (as defined in subsection (e)(1)).
+
+(8) **Program** — The term “Program” means the Local Agriculture Market Program established under subsection (b).
+
+(9) **Regional food chain coordination** — The term “regional food chain coordination” means coordination and collaboration along the supply chain to increase connections between producers and markets.
+
+(10) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(11) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in [section 2003(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e&num=0&edition=prelim).
+
+(12) **Value-added agricultural product** — The term “value-added agricultural product” means any agricultural commodity or product that—
+
+  (A)
+
+    (i) has undergone a change in physical state;
+
+    (ii) was produced in a manner that enhances the value of the agricultural commodity or product, as demonstrated through a business plan that shows the enhanced value, as determined by the Secretary;
+
+    (iii) is physically segregated in a manner that results in the enhancement of the value of the agricultural commodity or product;
+
+    (iv) is a source of farm- or ranch-based renewable energy, including E–85 fuel; or
+
+    (v) is aggregated and marketed as a locally produced agricultural food product; and
+
+  (B) as a result of the change in physical state or the manner in which the agricultural commodity or product was produced, marketed, or segregated—
+
+    (i) the customer base for the agricultural commodity or product is expanded; and
+
+    (ii) a greater portion of the revenue derived from the marketing, processing, or physical segregation of the agricultural commodity or product is available to the producer of the commodity or product.
+
+(13) **Veteran farmer or rancher** — The term “veteran farmer or rancher” has the meaning given the term in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim).
+
+**(b) Establishment and Purpose** The Secretary shall establish a program, to be known as the “Local Agriculture Market Program”, that—
+
+(1) supports the development, coordination, and expansion of—
+
+  (A) direct producer-to-consumer marketing;
+
+  (B) local and regional food markets and enterprises; and
+
+  (C) value-added agricultural products;
+
+(2) connects and cultivates regional food economies through public-private partnerships;
+
+(3) supports the development of business plans, feasibility studies, and strategies for value-added agricultural production and local and regional food system infrastructure;
+
+(4) strengthens capacity and regional food system development through community collaboration and expansion of mid-tier value chains;
+
+(5) improves income and economic opportunities for producers and food businesses through job creation; and
+
+(6) simplifies the application processes and the reporting processes for the Program.
+
+**(c) Administration** In administering the Program, the Secretary shall—
+
+(1) streamline the Program to better support the activities carried out by the recipient of a grant under the Program;
+
+(2) connect producers with local food markets and value-added agricultural product opportunities;
+
+(3) partner with cooperative extension services, as appropriate, to provide Program technical assistance and outreach to Program stakeholders; and
+
+(4) ensure that the Rural Business-Cooperative Service and Agricultural Marketing Service provide Program technical assistance and outreach to Program stakeholders.
+
+**(d) Grants**
+
+(1) **In general** — Under the Program, the Secretary may, using funds made available under subsection (i), provide grants for each of fiscal years 2019 through 2023, in accordance with the purposes of the Program described in subsection (b), for the conduct of activities described in paragraph (2).
+
+(2) **Eligible activities** — The recipient of a grant may use a grant provided under paragraph (1)—
+
+  (A) to support and promote—
+
+    (i) domestic direct producer-to-consumer marketing;
+
+    (ii) farmers’ markets;
+
+    (iii) roadside stands;
+
+    (iv) agritourism activities,
+
+    (v) community-supported agriculture programs; or
+
+    (vi) online sales;
+
+  (B) to support local and regional food business enterprises that engage as intermediaries in indirect producer-to-consumer marketing;
+
+  (C) to support the processing, aggregation, distribution, and storage of—
+
+    (i) local and regional food products that are marketed locally or regionally; and
+
+    (ii) value-added agricultural products;
+
+  (D) to encourage the development of value-added agricultural products;
+
+  (E) to assist with business development plans and feasibility studies;
+
+  (F) to develop marketing strategies for producers of local food products and value-added agricultural products in new and existing markets;
+
+  (G) to facilitate regional food chain coordination and mid-tier value chain development;
+
+  (H) to promote new business opportunities and marketing strategies to reduce on-farm food waste;
+
+  (I) to respond to changing technology needs in direct producer-to-consumer marketing; or
+
+  (J) to cover expenses relating to costs incurred in—
+
+    (i) obtaining food safety certification; and
+
+    (ii) making changes and upgrades to practices and equipment to improve food safety.
+
+(3) **Criteria and guidelines**
+
+  (A) *In general* — The Secretary shall establish criteria and guidelines for the submission, evaluation, and funding of proposed projects under paragraph (1) as the Secretary determines are appropriate.
+
+  (B) *Producer or food business benefits*
+
+    (i) *In general* — Except as provided in clause (ii), an application submitted for a grant under paragraph (1) shall include a description of the direct or indirect producer or food business benefits intended by the applicant to result from the proposed project within a reasonable period of time after the receipt of the grant.
+
+    (ii) *Exception* — Clause (i) shall not apply to a planning or feasibility project.
+
+(4) **Amount** — Unless otherwise determined by the Secretary, the amount of a grant under this subsection shall be not more than $500,000.
+
+(5) **Value-added producer grants** — In the case of a grant provided under paragraph (1) to an eligible entity described in subparagraph (B), the following shall apply:
+
+  (A) *Administration* — The Secretary shall carry out this subsection through the Administrator of the Rural Business-Cooperative Service, in coordination with the Administrator of the Agricultural Marketing Service.
+
+  (B) *Eligible entities* — An entity shall be eligible for a grant under this paragraph if the entity is—
+
+    (i) an independent producer (as determined by the Secretary) of a value-added agricultural product; or
+
+    (ii) an agricultural producer group, farmer or rancher cooperative, or majority-controlled producer-based business venture (as determined by the Secretary).
+
+  (C) *Priorities* — The Secretary shall give priority to applications—
+
+    (i) in the case of an application submitted by a producer, that are submitted by, or serve—
+
+      (I) beginning farmers or ranchers;
+
+      (II) socially disadvantaged farmers or ranchers;
+
+      (III) operators of small or medium sized farms or ranches that are structured as family farms; or
+
+      (IV) veteran farmers or ranchers; and
+
+    (ii) in the case of an application submitted by an eligible entity described in subparagraph (B)(ii), that provide the greatest contribution to creating or increasing marketing opportunities for producers described in subclauses (I) through (IV) of clause (i).
+
+  (D) *Limitation on use of funds*
+
+    (i) *In general* — Except as provided in clause (ii), an eligible entity described in subparagraph (B) may not use a grant for the purchase or construction of a building, general purpose equipment, or structure.
+
+    (ii) *Exception* — An eligible entity described in subparagraph (B) may use not more than $6,500 of the amount of a grant for an eligible activity described in paragraph (2)(J) to purchase or upgrade equipment to improve food safety.
+
+  (E) *Matching funds* — An eligible entity described in subparagraph (B) receiving a grant shall contribute an amount of non-Federal funds that is at least equal to the amount of Federal funds received.
+
+(6) **Farmers’ markets and local food promotion program** — In the case of a grant provided under paragraph (1) to an eligible entity described in subparagraph (B), the following shall apply:
+
+  (A) *Administration* — The Secretary shall carry out this subsection through the Administrator of the Agricultural Marketing Service, in coordination with the Administrator of the Rural Business-Cooperative Service.
+
+  (B) *Eligible entities* — An entity shall be eligible to receive a grant under this paragraph if the entity is—
+
+    (i) an agricultural cooperative or other agricultural business entity or a producer network or association, including a community-supported agriculture network or association;
+
+    (ii) a local or Tribal government;
+
+    (iii) a nonprofit corporation;
+
+    (iv) a public benefit corporation;
+
+    (v) an economic development corporation;
+
+    (vi) a regional farmers’ market authority;
+
+    (vii) a food council; or
+
+    (viii) such other entity as the Secretary may designate.
+
+  (C) *Priorities* — The Secretary shall give priority to applications that—
+
+    (i) benefit underserved communities, including communities that are located in areas of concentrated poverty with limited access to fresh locally or regionally grown food; or
+
+    (ii) are used to carry out eligible activities under a partnership agreement under subsection (e) and have not received benefits from the Program in the recent past.
+
+  (D) *Limitation on use of funds*
+
+    (i) *In general* — Except as provided in clause (ii), an eligible entity described in subparagraph (B) may not use a grant for the purchase or construction of a building, general purpose equipment, or structure.
+
+    (ii) *Exception* — An eligible entity described in subparagraph (B) may use not more than $6,500 of the amount of a grant for an eligible activity described in paragraph (2)(J) to purchase or upgrade equipment to improve food safety.
+
+  (E) *Matching funds* — An eligible entity described in subparagraph (B) receiving a grant shall provide matching funds in the form of cash or an in-kind contribution in an amount that is equal to 25 percent of the total amount of the Federal portion of the grant.
+
+**(e) Partnerships**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Eligible entity* — The term “eligible entity” means—
+
+    (i) a producer;
+
+    (ii) a producer network or association;
+
+    (iii) a farmer or rancher cooperative;
+
+    (iv) a majority-controlled producer-based business venture;
+
+    (v) a food council;
+
+    (vi) a local or Tribal government;
+
+    (vii) a nonprofit corporation;
+
+    (viii) an economic development corporation;
+
+    (ix) a public benefit corporation;
+
+    (x) a community-supported agriculture network or association; and
+
+    (xi) a regional farmers’ market authority.
+
+  (B) *Eligible partner* — The term “eligible partner” means—
+
+    (i) a State agency or regional authority;
+
+    (ii) a philanthropic organization;
+
+    (iii) a private corporation;
+
+    (iv) an institution of higher education;
+
+    (v) a commercial, Federal, or Farm Credit System lending institution; and
+
+    (vi) another entity, as determined by the Secretary.
+
+(2) **Grants to support partnerships**
+
+  (A) *In general* — The Secretary, acting through the Administrator of the Agricultural Marketing Service, in accordance with the purposes of the Program described in subsection (b), shall, using funds made available under subsection (i), provide grants for each of fiscal years 2019 through 2023 to support partnerships to plan and develop a local or regional food system.
+
+  (B) *Geographical diversity* — To the maximum extent practicable, the Secretary shall ensure geographical diversity in selecting partnerships to receive grants under subparagraph (A).
+
+(3) **Authorities of partnerships** — A partnership receiving a grant under paragraph (2) may—
+
+  (A) determine the scope of the regional food system to be developed, including goals, outreach objectives, and eligible activities to be carried out;
+
+  (B) determine the local, regional, State, multi-State, or other geographic area covered;
+
+  (C) create and conduct a feasibility study, implementation plan, and assessment of eligible activities under the partnership agreement;
+
+  (D) conduct outreach and education to other eligible entities and eligible partners for potential participation in the partnership agreement and eligible activities;
+
+  (E) describe measures to be taken through the partnership agreement to obtain funding for the eligible activities to be carried out under the partnership agreement;
+
+  (F) at the request of a producer or eligible entity desiring to participate in eligible activities under the partnership agreement, act on behalf of the producer or eligible entity in applying for a grant under subsection (d);
+
+  (G) monitor, evaluate, and periodically report to the Secretary on progress made toward achieving the objectives of eligible activities under the partnership agreement; or
+
+  (H) at the conclusion of the partnership agreement, submit to the Secretary a report describing—
+
+    (i) the results and effects of the partnership agreement; and
+
+    (ii) funds provided under paragraph (4).
+
+(4) **Contribution** — A partnership receiving a grant under paragraph (2) shall provide funding in an amount equal to not less than 25 percent of the total amount of the Federal portion of the grant.
+
+(5) **Applications**
+
+  (A) *In general* — To be eligible to receive a grant under paragraph (2), a partnership shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary considers necessary to evaluate and select applications.
+
+  (B) *Competitive process* — The Secretary—
+
+    (i) shall conduct a competitive process to select applications submitted under subparagraph (A);
+
+    (ii) may assess and rank applications with similar purposes as a group; and
+
+    (iii) shall make public the criteria to be used in evaluating applications prior to accepting applications.
+
+  (C) *Priority to certain applications* — The Secretary may give priority to applications submitted under subparagraph (A) that—
+
+    (i)
+
+      (I) leverage significant non-Federal financial and technical resources; and
+
+      (II) coordinate with other local, State, Tribal, or national efforts;
+
+    (ii) cover an area that includes distressed low-income rural or urban communities, including areas with persistent poverty; or
+
+    (iii) have multiple entities and partners in a partnership.
+
+  (D) *Producer or food business benefits*
+
+    (i) *In general* — Except as provided in clause (ii), an application submitted under subparagraph (A) shall include a description of the direct or indirect producer or food business benefits intended by the eligible entity to result from the proposed project within a reasonable period of time after the receipt of a grant.
+
+    (ii) *Exception* — Clause (i) shall not apply to a planning or feasibility project.
+
+(6) **Technical assistance** — On request of an eligible entity, an eligible partner, or a partnership, the Secretary may provide technical assistance in carrying out a partnership agreement.
+
+**(f) Simplification of application and reporting processes**
+
+(1) **Applications** — The Secretary shall establish a simplified application form for eligible entities that—
+
+  (A) request less than $50,000 under subsection (d); or
+
+  (B) apply for grants under subsection (d) under a single application through partnership agreements under subsection (e).
+
+(2) **Reporting** — The Secretary shall—
+
+  (A) streamline and simplify the reporting process for eligible entities; and
+
+  (B) obtain from eligible entities and maintain such information as the Secretary determines is necessary to administer and evaluate the Program.
+
+**(g) Interdepartmental coordination** In carrying out the Program, to the maximum extent practicable, the Secretary shall ensure coordination among Federal agencies.
+
+**(h) Evaluation**
+
+(1) **In general** — Using amounts made available under subsection (i)(3)(E), the Secretary shall conduct an evaluation of the Program that—
+
+  (A) measures the economic impact of the Program on new and existing market outcomes;
+
+  (B) measures the effectiveness of the Program in improving and expanding—
+
+    (i) the regional food economy through public and private partnerships;
+
+    (ii) the production of value-added agricultural products;
+
+    (iii) producer-to-consumer marketing, including direct producer-to-consumer marketing;
+
+    (iv) local and regional food systems, including regional food chain coordination and business development;
+
+    (v) new business opportunities and marketing strategies to reduce on-farm food waste;
+
+    (vi) the use of new technologies in producer-to-consumer marketing, including direct producer-to-consumer marketing; and
+
+    (vii) the workforce and capacity of regional food systems; and
+
+  (C) provides a description of—
+
+    (i) each partnership agreement; and
+
+    (ii) each grant provided under subsection (d).
+
+(2) **Report** — Not later than 4 years after December 20, 2018, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the evaluation conducted under paragraph (1), including a thorough analysis of the outcomes of the evaluation.
+
+**(i) Funding**
+
+(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $50,000,000 for fiscal year 2019 and each fiscal year thereafter, to remain available until expended.
+
+(2) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $20,000,000 for fiscal year 2019 and each fiscal year thereafter, to remain available until expended.
+
+(3) **Allocation of funds**
+
+  (A) *Value-added producer grants*
+
+    (i) *In general* — Subject to clause (ii), of the funds made available to carry out this section for a fiscal year, 35 percent shall be used for grants under subsection (d)(5).
+
+    (ii) *Reservation of funds*
+
+      (I) *Majority-controlled producer-based business ventures* — The total amount of grants under subsection (d)(5) provided to majority-controlled producer-based business ventures for a fiscal year shall not exceed 10 percent of the amount allocated under clause (i).
+
+      (II) *Beginning, veteran, and socially disadvantaged farmers and ranchers* — Of the funds made available for grants under subsection (d)(5), 10 percent shall be reserved for grants provided to beginning, veteran, and socially disadvantaged farmers or ranchers.
+
+      (III) *Mid-tier value chains* — Of the funds made available for grants under subsection (d)(5), 10 percent shall be reserved for grants to develop mid-tier value chains.
+
+      (IV) *Food safety assistance* — Of the funds made available for grants under subsection (d)(5), not more than 25 percent shall be reserved for grants for eligible activities described in subsection (d)(2)(J).
+
+  (B) *Farmers’ market and local food promotion grants* — Of the funds made available to carry out this section for a fiscal year, 47 percent shall be used for grants under subsection (d)(6).
+
+  (C) *Regional partnerships* — Of the funds made available to carry out this section for a fiscal year, 10 percent shall be used to provide grants to support partnerships under subsection (e).
+
+  (D) *Unobligated funds* — Any funds under subparagraph (A), (B), or (C) that are not obligated for the uses described in that subparagraph, as applicable, by September 30 of the fiscal year for which the funds were made available—
+
+    (i) shall be available to the agency carrying out the Program with the unobligated funds to carry out any function of the Program, as determined by the Secretary; and
+
+    (ii) may carry over to the next fiscal year.
+
+  (E) *Administrative expenses* — Not greater than 8 percent of amounts made available to provide grants under subsections (d) and (e) for a fiscal year may be used for administrative expenses.
+
+### Statutory Notes
+
+#### Local Agriculture Market Program
+Pub. L. 115–334, title X, § 10102(a), Dec. 20, 2018, 132 Stat. 4888, provided that: “(a) Purpose.—The purpose of this section [enacting this section, amending sections 1632a, 1632b, 2204h, 2207b, and 3003 of this title, and repealing sections 3005 and 3006 of this title] is to combine the purposes and coordinate the functions, as in effect on the day before the date of enactment of this Act [Dec. 20, 2018], of—“(1) the Farmers’ Market and Local Food Promotion Program established under section 6 of the Farmer-to-Consumer Direct Marketing Act of 1976 ([7 U.S.C. 3005](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3005&num=0&edition=prelim)); and “(2) the value-added agricultural product market development grants under section 231(b) of the Agricultural Risk Protection Act of 2000 ([7 U.S.C. 1632a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1632a/b&num=0&edition=prelim)).”
+
+
 <a id="section-1628"></a>
 ## § 1628. Repealed. Pub. L. 93–86, § 2, Aug. 10, 1973, 87 Stat. 246
 
@@ -1122,124 +1558,20 @@ Section, Pub. L. 99–198, title XIV, § 1436, Dec. 23, 1985, 99 Stat. 1558, rel
 
 
 <a id="section-1632a"></a>
-## § 1632a. Value-added agricultural product market development grants
-**(a) Definitions** In this section:
+## § 1632a. Agricultural marketing resource center pilot project
+**(a) Establishment** The Secretary shall not use more than 2.5 percent of the funds made available to carry out the Local Agriculture Market Program established under [section 1627c of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1627c) to establish a pilot project (to be known as the “Agricultural Marketing Resource Center”) at an eligible institution described in subsection (b) that will—
 
-(1) **Beginning farmer or rancher** — The term “beginning farmer or rancher” has the meaning given the term in [section 1991(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a&num=0&edition=prelim).
+(1) develop a resource center with electronic capabilities to coordinate and provide to independent producers and processors (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities information regarding research, business, legal, financial, or logistical assistance; and
 
-(2) **Family farm** — The term “family farm” has the meaning given the term in section 761.2 of title 7, Code of Federal Regulations (as in effect on December 30, 2007).
+(2) develop a strategy to establish a nationwide market information and coordination system.
 
-(3) **Mid-tier value chain** — The term “mid-tier value chain” means local and regional supply networks that link independent producers with businesses and cooperatives that market value-added agricultural products in a manner that—
+**(b) Eligible institution** To be eligible to receive funding to establish the Agricultural Marketing Resource Center, an applicant shall demonstrate to the Secretary—
 
-  (A) targets and strengthens the profitability and competitiveness of small and medium-sized farms and ranches that are structured as a family farm; and
+(1) the capacity and technical expertise to provide the services described in subsection (a)(1);
 
-  (B) obtains agreement from an eligible agricultural producer group, farmer or rancher cooperative, or majority-controlled producer-based business venture that is engaged in the value chain on a marketing strategy.
+(2) an established plan outlining support of the applicant in the agricultural community; and
 
-(4) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in [section 2003(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2003/e&num=0&edition=prelim).
-
-(5) **Value-added agricultural product** — The term “value-added agricultural product” means any agricultural commodity or product that—
-
-  (A)
-
-    (i) has undergone a change in physical state;
-
-    (ii) was produced in a manner that enhances the value of the agricultural commodity or product, as demonstrated through a business plan that shows the enhanced value, as determined by the Secretary;
-
-    (iii) is physically segregated in a manner that results in the enhancement of the value of the agricultural commodity or product;
-
-    (iv) is a source of farm- or ranch-based renewable energy, including E–85 fuel; or
-
-    (v) is aggregated and marketed as a locally-produced agricultural food product; and
-
-  (B) as a result of the change in physical state or the manner in which the agricultural commodity or product was produced, marketed, or segregated—
-
-    (i) the customer base for the agricultural commodity or product is expanded; and
-
-    (ii) a greater portion of the revenue derived from the marketing, processing, or physical segregation of the agricultural commodity or product is available to the producer of the commodity or product.
-
-**(b) Grant program**
-
-(1) **In general** — From amounts made available under paragraph (7), the Secretary shall award competitive grants—
-
-  (A) to an eligible independent producer (as determined by the Secretary) of a value-added agricultural product to assist the producer—
-
-    (i) in developing a business plan for viable marketing opportunities for the value-added agricultural product; or
-
-    (ii) in developing strategies that are intended to create marketing opportunities for the producer; and
-
-  (B) to an eligible agricultural producer group, farmer or rancher cooperative, or majority-controlled producer-based business venture (as determined by the Secretary) to assist the entity—
-
-    (i) in developing a business plan for viable marketing opportunities in emerging markets for a value-added agricultural product; or
-
-    (ii) in developing strategies that are intended to create marketing opportunities in emerging markets for the value-added agricultural product.
-
-(2) **Amount of grant**
-
-  (A) *In general* — The total amount provided under this subsection to a grant recipient shall not exceed $500,000.
-
-  (B) *Majority-controlled producer-based business ventures* — The amount of grants provided to majority-controlled producer-based business ventures under paragraph (1)(B) for a fiscal year may not exceed 10 percent of the amount of funds that are used to make grants for the fiscal year under this subsection.
-
-(3) **Grantee strategies** — A grantee under paragraph (1) shall use the grant—
-
-  (A) to develop a business plan or perform a feasibility study to establish a viable marketing opportunity for a value-added agricultural product; or
-
-  (B) to provide capital to establish alliances or business ventures that allow the producer of the value-added agricultural product to better compete in domestic or international markets.
-
-(4) **Term** — A grant under this subsection shall have a term that does not exceed 3 years.
-
-(5) **Simplified application** — The Secretary shall offer a simplified application form and process for project proposals requesting less than $50,000.
-
-(6) **Priority**
-
-  (A) *Eligible independent producers of value-added agricultural products* — In awarding grants under paragraph (1)(A), the Secretary shall give priority to—
-
-    (i) operators of small- and medium-sized farms and ranches that are structured as family farms;
-
-    (ii) beginning farmers or ranchers;
-
-    (iii) socially disadvantaged farmers or ranchers; and
-
-    (iv) veteran farmers or ranchers (as defined in [section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim)).
-
-  (B) *Eligible agricultural producer groups, farmer or rancher cooperatives, and majority-controlled producer-based business venture* — In awarding grants under paragraph (1)(B), the Secretary shall give priority to projects (including farmer or rancher cooperative projects) that best contribute to creating or increasing marketing opportunities for operators, farmers, and ranchers described in subparagraph (A).
-
-(7) **Funding**
-
-  (A) *Mandatory funding* — On February 7, 2014, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $63,000,000, to remain available until expended.
-
-  (B) *Discretionary funding* — There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2008 through 2018.
-
-  (C) *Reservation of funds for projects to benefit beginning farmers or ranchers, socially disadvantaged farmers or ranchers, and mid-tier value chains*
-
-    (i) *In general* — The Secretary shall reserve 10 percent of the amounts made available for each fiscal year under this paragraph to fund projects that benefit beginning farmers or ranchers or socially disadvantaged farmers or ranchers.
-
-    (ii) *Mid-tier value chains* — The Secretary shall reserve 10 percent of the amounts made available for each fiscal year under this paragraph to fund applications of eligible entities described in paragraph (1) that propose to develop mid-tier value chains.
-
-    (iii) *Unobligated amounts* — Any amounts in the reserves for a fiscal year established under clauses (i) and (ii) that are not obligated by June 30 of the fiscal year shall be available to the Secretary to make grants under this subsection to eligible entities in any State, as determined by the Secretary.
-
-**(c) Agricultural Marketing Resource Center pilot project**
-
-(1) **Establishment** — Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the “Agricultural Marketing Resource Center”) at an eligible institution described in paragraph (2) that will—
-
-  (A) develop a resource center with electronic capabilities to coordinate and provide to independent producers and processors (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities information regarding research, business, legal, financial, or logistical assistance; and
-
-  (B) develop a strategy to establish a nationwide market information and coordination system.
-
-(2) **Eligible institution** — To be eligible to receive funding to establish the Agricultural Marketing Resource Center, an applicant shall demonstrate to the Secretary—
-
-  (A) the capacity and technical expertise to provide the services described in paragraph (1)(A);
-
-  (B) an established plan outlining support of the applicant in the agricultural community; and
-
-  (C) the availability of resources (in cash or in kind) of definite value to sustain the Center following establishment.
-
-**(d) Matching funds** A recipient of funds under subsection (a) or (b) shall contribute an amount of non-Federal funds that is at least equal to the amount of Federal funds received.
-
-**(e) Limitation** Funds provided under this section may not be used for—
-
-(1) planning, repair, rehabilitation, acquisition, or construction of a building or facility (including a processing facility); or
-
-(2) the purchase, rental, or installation of fixed equipment.
+(3) the availability of resources (in cash or in kind) of definite value to sustain the Center following establishment.
 
 ### Statutory Notes
 
@@ -1251,6 +1583,20 @@ Section was enacted as part of the Agricultural Risk Protection Act of 2000, and
 Section was formerly set out as a note under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621).
 
 #### Amendments
+2018—Pub. L. 115–334, § 10102(c)(1)(A), substituted “Agricultural marketing resource center pilot project” for “Value-added agricultural product market development grants” in section catchline.
+
+Subsec. (a). Pub. L. 115–334, § 10102(c)(1)(B), (C)(i), (D)(ii), redesignated subsec. (c)(1) as subsec. (a), redesignated subpars. (A) and (B) of former subsec. (c)(1) as pars. (1) and (2), respectively, of subsec. (a), realigned margins, and struck out former subsec. (a) which defined terms for this section.
+
+Pub. L. 115–334, § 10102(c)(1)(D)(i), in introductory provisions, substituted “The Secretary shall not use more than 2.5 percent of the funds made available to carry out the Local Agriculture Market Program established under [section 1627c of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1627c) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in subsection (b)” for “Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the “Agricultural Marketing Resource Center”) at an eligible institution described in paragraph (2)”.
+
+Subsec. (b). Pub. L. 115–334, § 10102(c)(1)(B), (C)(i), (E)(i), redesignated subsec. (c)(2) as (b), redesignated subpars. (A) to (C) of former subsec. (c)(2) as pars. (1) to (3), respectively, of subsec. (b), realigned margins, and struck out former subsec. (b) which related to grant program.
+
+Subsec. (b)(1). Pub. L. 115–334, § 10102(c)(1)(E)(ii), substituted “subsection (a)(1)” for “paragraph (1)(A)”.
+
+Subsec. (c). Pub. L. 115–334, § 10102(c)(1)(C)(ii), struck out subsec. (c) designation and heading “Agricultural Marketing Resource Center pilot project”. Former pars. (1) and (2) of subsec. (c) redesignated subsecs. (a) and (b), respectively.
+
+Subsecs. (d), (e). Pub. L. 115–334, § 10102(c)(1)(B), struck out subsecs. (d) and (e) which related to matching funds and limitation, respectively.
+
 2014—Subsec. (b)(6). Pub. L. 113–79, § 6203(1), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
 
 “(A) beginning farmers or ranchers;
@@ -1330,17 +1676,17 @@ Pub. L. 107–171, title VI, § 6401(b), May 13, 2002, 116 Stat. 426, provided t
 
   (D) the Agriculture Innovation Center of the entity has a board of directors established in accordance with paragraph (2).
 
-(2) **Board of directors** — Each Agriculture Innovation Center of an eligible entity shall have a board of directors composed of representatives of each of the following groups:
+(2) **Board of directors** — Each Agriculture Innovation Center of an eligible entity shall have a board of directors composed of a diverse group of representatives of public and private entities, including the following:: 11 So in original.
 
-  (A) The 2 general agricultural organizations with the greatest number of members in the State in which the eligible entity is located.
+  (A) Two general agricultural organizations with the greatest number of members in the State in which the eligible entity is located.
 
-  (B) The department of agriculture, or similar State department or agency, of the State in which the eligible entity is located.
+  (B) The department of agriculture, or similar State department or agency, or a State legislator, of the State in which the eligible entity is located.
 
-  (C) Entities representing the 4 highest grossing commodities produced in the State, determined on the basis of annual gross cash sales.
+  (C) Four entities representing commodities produced in the State.
 
 **(e) Grants and assistance**
 
-(1) **In general** — Subject to subsection (i), under the Program, the Secretary shall make, on a competitive basis, annual grants to eligible entities.
+(1) **In general** — Subject to subsection (g), under the Program, the Secretary shall make, on a competitive basis, annual grants to eligible entities.
 
 (2) **Maximum amount of grants** — A grant under paragraph (1) shall be in an amount that does not exceed the lesser of—
 
@@ -1364,7 +1710,7 @@ Pub. L. 107–171, title VI, § 6401(b), May 13, 2002, 116 Stat. 426, provided t
 
   (B) *Collaboration* — Nothing in subparagraph (A) precludes a recipient of a grant under the Program from collaborating with any other institution with respect to activities conducted using the grant.
 
-**(f) Use of funds** An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in [section 1632a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1632a/d&num=0&edition=prelim)):
+**(f) Use of funds** An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in [section 1627c(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1627c/d/2&num=0&edition=prelim) 22 So in original. Probably should be followed by a closing parenthesis.:
 
 (1) Applied research.
 
@@ -1378,35 +1724,7 @@ Pub. L. 107–171, title VI, § 6401(b), May 13, 2002, 116 Stat. 426, provided t
 
 (6) Any other related cost, as determined by the Secretary.
 
-**(g) Research on effects on the agricultural sector**
-
-(1) **In general** — Of the amount made available under subsection (i) for each fiscal year, the Secretary shall use $300,000 to support research at a university concerning the effects of projects for value-added agricultural commodities or products on agricultural producers and the commodity markets.
-
-(2) **Research elements** — Research under paragraph (1) shall systematically examine, using linked, long-term, global projections of the agricultural sector, the potential effects of projects described in subparagraph (A) 11 So in original. Probably should be “paragraph (1)”. on—
-
-  (A) demand for agricultural commodities;
-
-  (B) market prices;
-
-  (C) farm income; and
-
-  (D) Federal outlays on commodity programs.
-
-**(h) Report to Congress**
-
-(1) **In general** — Not later than 3 years after the date on which the last of the first 10 grants is made under the Program, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on—
-
-  (A) the effectiveness of the Program in improving and expanding the production of value-added agricultural commodities or products; and
-
-  (B) the effects of the Program on the economic viability of agricultural producers.
-
-(2) **Required elements** — The report under paragraph (1) shall—
-
-  (A) include a description of the best practices and innovations found at each of the Agriculture Innovation Centers established under the Program; and
-
-  (B) specify the number and type of activities assisted, and the type of assistance provided, under the Program.
-
-**(i) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
+**(g) Authorization of appropriations** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -1418,6 +1736,20 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 Section was formerly set out as a note under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621).
 
 #### Amendments
+2018—Subsec. (d)(2). Pub. L. 115–334, § 7608(1)(A), substituted “a diverse group of representatives of public and private entities, including the following:” for “representatives of each of the following groups” in introductory provisions.
+
+Subsec. (d)(2)(A). Pub. L. 115–334, § 7608(1)(B), substituted “Two” for “The 2”.
+
+Subsec. (d)(2)(B). Pub. L. 115–334, § 7608(1)(C), inserted “or a State legislator,” after “agency,”.
+
+Subsec. (d)(2)(C). Pub. L. 115–334, § 7608(1)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Entities representing the 4 highest grossing commodities produced in the State, determined on the basis of annual gross cash sales.”
+
+Subsec. (e)(1). Pub. L. 115–334, § 7608(2), substituted “subsection (g)” for “subsection (i)”.
+
+Subsec. (f). Pub. L. 115–334, § 10102(c)(2), substituted “[section 1627c(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1627c/d/2&num=0&edition=prelim)” for “[section 1632a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1632a/d&num=0&edition=prelim))” in introductory provisions.
+
+Subsecs. (g) to (i). Pub. L. 115–334, § 7608(3), added subsec. (g) and struck out former subsecs. (g) to (i) which related to research on effects on the agricultural sector, report to Congress, and authorization of appropriations, respectively.
+
 2014—Subsec. (i). Pub. L. 113–79 substituted “$1,000,000 for each of fiscal years 2014 through 2018” for “$6,000,000 for each of fiscal years 2008 through 2012”.
 
 2008—Subsec. (i). Pub. L. 110–246, § 6203, added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 ([7 U.S.C. 1621](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
@@ -1460,12 +1792,152 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(e) Regulations** The Secretary of Agriculture shall promulgate such regulations as are necessary to carry out this section.
 
-**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
+
+#### Amendments
+2018—Subsec. (f). Pub. L. 115–334 substituted “2023” for “2018”.
+
+
+<a id="section-1632d"></a>
+## § 1632d. Dairy business innovation initiatives
+**(a) Definitions** In this section:
+
+(1) **Dairy business** — The term “dairy business” means a business that develops, produces, markets, or distributes dairy products.
+
+(2) **Initiative** — The term “initiative” means a dairy product and business innovation initiative established under subsection (b).
+
+**(b) Establishment** The Secretary shall establish not less than 3 regionally-located dairy product and business innovation initiatives for the purposes of—
+
+(1) diversifying dairy product markets to reduce risk and develop higher-value uses for dairy products;
+
+(2) promoting business development that diversifies farmer income through processing and marketing innovation; and
+
+(3) encouraging the use of regional milk production.
+
+**(c) Selection of initiatives** An initiative—
+
+(1) shall be positioned to draw on existing dairy industry resources, including activities conducted by the National Dairy Promotion and Research Board and other dairy promotion entities, research capacity, academic and industry expertise, a density of dairy farms or farmland suitable for dairying, and dairy businesses; and
+
+(2) may serve a certain product niche, such as specialty cheese, or serve dairy businesses with dairy products derived from the milk of a specific type of dairy animal, including dairy products made from cow milk, sheep milk, and goat milk.
+
+**(d) Entities eligible to host initiative**
+
+(1) **In general** — Subject to paragraph (2), any of the following entities may submit to the Secretary an application to host an initiative:
+
+  (A) A State department of agriculture or other State entity.
+
+  (B) A nonprofit organization.
+
+  (C) An institution of higher education.
+
+  (D) A cooperative extension service.
+
+(2) **Capacity of eligible entity** — Any entity described in subparagraphs (A) through (D) of paragraph (1) shall be eligible to submit an application under that paragraph if the entity has—
+
+  (A) a capacity to provide consultation and expertise necessary to advance the purpose and activities of the proposed initiative; and
+
+  (B) expertise in grant distribution and tracking.
+
+(3) **Ineligible entity** — A dairy promotion program shall not be eligible to host an initiative under this section.
+
+**(e) Partners**
+
+(1) **In general** — An entity described in subsection (d)(1) may establish as a partner an organization or entity described in paragraph (2)—
+
+  (A) prior to the submission of the application under that subsection; or
+
+  (B) after approval of the application, in consultation with the Secretary.
+
+(2) **Partner described** — A partner under paragraph (1) shall be an organization or entity with expertise or experience in dairy, including the marketing, research, education, or promotion of dairy.
+
+**(f) Activities of initiatives**
+
+(1) **Direct assistance to dairy businesses** — An initiative shall provide nonmonetary assistance directly to dairy businesses through private consultation or widely available distribution—
+
+  (A) by the entity that hosts the initiative under subsection (d)(1);
+
+  (B) through contracting with industry experts;
+
+  (C) through the provision of technical assistance, such as informational websites, webinars, conferences, trainings, plant tours, and field days; or
+
+  (D) through research institutions, including cooperative extension services.
+
+(2) **Types of assistance** — Eligible forms of assistance include—
+
+  (A) business consulting, including business plan development for processed dairy products, strategic planning assistance, and distribution and supply chain innovation;
+
+  (B) marketing and branding assistance, including market messaging, packaging innovation, consumer assessments, innovation in emerging market opportunities, and evaluation of regional, national, and international markets;
+
+  (C) assistance in product innovation, including the development of value-added products, innovation in byproduct reprocessing and use maximization, and dairy product production training, including in new, rare, or innovative techniques; and
+
+  (D) other nonmonetary assistance, as determined by the Secretary.
+
+(3) **Grants to dairy businesses**
+
+  (A) *In general* — An initiative shall provide grants on a competitive basis to new and existing dairy businesses for the purposes of—
+
+    (i) modernization, specialization, and grazing transition on dairy farms;
+
+    (ii) value chain and commodity innovation and facility and process updates for dairy processors; and
+
+    (iii) product development, packaging, and marketing of dairy products.
+
+  (B) *Grants to certain entities* — An initiative may provide a grant on a noncompetitive basis to an entity that receives assistance under paragraph (1) to advance the business activities recommended as a result of that assistance.
+
+  (C) *Grant amounts* — Grants provided under this paragraph shall not exceed $500,000, unless a greater amount is approved by the Secretary.
+
+(4) **Consultation** — An entity that hosts an initiative shall consult with the National Dairy Promotion and Research Board, the Secretary, and the Administrator of the Agricultural Marketing Service in carrying out the initiative.
+
+(5) **Conflict of interest**
+
+  (A) *In general* — The Secretary shall establish guidelines and procedures to prevent any conflict of interest or the appearance of a conflict of interest by an initiative (including a partner of the initiative) during the allocation of direct assistance under paragraph (1) or grant funding under paragraph (3).
+
+  (B) *Penalty* — The Secretary may suspend or terminate an initiative if the initiative (including a partner of the initiative) is found to be in violation of the guidelines and procedures established under subparagraph (A).
+
+**(g) Distribution of funds**
+
+(1) **In general** — Using the funds made available to carry out this section, the Secretary—
+
+  (A) shall provide not less than 3 awards to eligible entities described in subsection (d) for the purposes of carrying out the activities under subsection (f); and
+
+  (B) is encouraged to award funds under subparagraph (A) in multiyear funding allocations.
+
+(2) **Use of funds** — Not less than 50 percent of the funds made available under subsection (i) shall be allocated to grants under subsection (f)(3).
+
+(3) **Priority** — An entity hosting an initiative shall give priority to the provision of direct assistance under subsection (f)(1) and grants under subsection (f)(3) to—
+
+  (A) dairy farms and dairy businesses with limited access to other forms of assistance;
+
+  (B) employee-owned dairy businesses;
+
+  (C) cooperatives; and
+
+  (D) dairy businesses that seek to create dairy products that add substantial value in processing or marketing, such as specialty cheeses.
+
+(4) **Requirement** — Assistance or a grant shall not be made available to a foreign person making direct investment (as those terms are defined in section 801.2 of title 15, Code of Federal Regulations (or successor regulations)) in the United States in the case of—
+
+  (A) direct assistance under subsection (f)(1) that is provided to a specific dairy business and is not publicly available, as determined by the Secretary; or
+
+  (B) a grant under subsection (f)(3).
+
+(5) **Supplementation** — To the extent practicable, the Secretary shall ensure that funds provided to an initiative supplement, and do not duplicate or replace, existing dairy product research, development, and promotion activities.
+
+**(h) Report** Not later than January 31, 2022, the Secretary shall submit to Congress a report on the outcomes of the program under this section and any related activities and opportunities to further increase dairy innovation.
+
+**(i) Authorization of appropriations** There is authorized to be appropriated to carry out this section $20,000,000 for each fiscal year.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
+
+#### Definitions
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
 <a id="section-1633"></a>
@@ -2687,7 +3159,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (B) the origin verification system established to carry out the child and adult care food program established under [section 1766 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766&num=0&edition=prelim); or
 
-  (C) the origin verification system established to carry out the market access program under [section 5623 of this title](./chapter-087-export-promotion.md#section-5623).
+  (C) the origin verification system established to carry out the market access program under [section 5623(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5623/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -2700,6 +3172,8 @@ May 13, 2002, referred to in subsec. (f)(2), was in the original “the date of 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (f)(2)(C). Pub. L. 115–334 substituted “section 5623(b)” for “section 5623”.
+
 2015—Subsec. (a)(2). Pub. L. 114–113, § 759(b)(1)(A), in heading, struck out “beef,” before “lamb,” and “pork,” before “chicken,”.
 
 Subsec. (a)(2)(A) to (D). Pub. L. 114–113, § 759(b)(1)(B), struck out “beef,” and “pork,” wherever appearing.
@@ -2972,3 +3446,258 @@ The Federal Alcohol Administration Act, referred to in subsec. (b)(2), is act Au
 ## § 1639j. Exclusion from Federal preemption
 
 Nothing in this subchapter, subchapter V, or any regulation, rule, or requirement promulgated in accordance with this subchapter or subchapter V shall be construed to preempt any remedy created by a State or Federal statutory or common law right.
+
+
+<a id="section-1639o"></a>
+## § 1639o. Definitions
+
+In this subchapter:
+
+(1) **Hemp** — The term “hemp” means the plant Cannabis sativa L. and any part of that plant, including the seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a delta-9 tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis.
+
+(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(3) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(4) **State** — The term “State” means—
+
+  (A) a State;
+
+  (B) the District of Columbia;
+
+  (C) the Commonwealth of Puerto Rico; and
+
+  (D) any other territory or possession of the United States.
+
+(5) **State department of agriculture** — The term “State department of agriculture” means the agency, commission, or department of a State government responsible for agriculture in the State.
+
+(6) **Tribal government** — The term “Tribal government” means the governing body of an Indian tribe.
+
+### Statutory Notes
+
+#### Interstate Commerce
+Pub. L. 115–334, title X, § 10114, Dec. 20, 2018, 132 Stat. 4914, provided that: “(a) Rule of Construction.—Nothing in this title [enacting this subchapter and sections 1627c and 6521a of this title, amending sections 136a, 1622b, 1632a, 1632b, 2204h, 2207b, 2276, 2401, 2402, 2541, 2568, 3003, 5925c, 6502, 6514, 6515, 6518, 6519, 6521–6523, and 7655a of this title and [section 714i of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714i&num=0&edition=prelim), Commerce and Trade, repealing sections 3005 and 3006 of this title, enacting provisions set out as notes under sections 1627c, 1639o, 6503, and 6521a of this title, and amending provisions set out as a note under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621)] or an amendment made by this title prohibits the interstate commerce of hemp (as defined in section 297A of the Agricultural Marketing Act of 1946 [[7 U.S.C. 1639](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639)o] (as added by section 10113)) or hemp products. “(b) Transportation of Hemp and Hemp Products.—No State or Indian Tribe shall prohibit the transportation or shipment of hemp or hemp products produced in accordance with subtitle G of the Agricultural Marketing Act of 1946 [[7 U.S.C. 1639](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639)o et seq.] (as added by section 10113) through the State or the territory of the Indian Tribe, as applicable.”
+
+
+<a id="section-1639p"></a>
+## § 1639p. State and tribal plans
+**(a) Submission**
+
+(1) **In general** — A State or Indian tribe desiring to have primary regulatory authority over the production of hemp in the State or territory of the Indian tribe shall submit to the Secretary, through the State department of agriculture (in consultation with the Governor and chief law enforcement officer of the State) or the Tribal government, as applicable, a plan under which the State or Indian tribe monitors and regulates that production as described in paragraph (2).
+
+(2) **Contents** — A State or Tribal plan referred to in paragraph (1)—
+
+  (A) shall only be required to include—
+
+    (i) a practice to maintain relevant information regarding land on which hemp is produced in the State or territory of the Indian tribe, including a legal description of the land, for a period of not less than 3 calendar years;
+
+    (ii) a procedure for testing, using post-decarboxylation or other similarly reliable methods, delta-9 tetrahydrocannabinol concentration levels of hemp produced in the State or territory of the Indian tribe;
+
+    (iii) a procedure for the effective disposal of—
+
+      (I) plants, whether growing or not, that are produced in violation of this subchapter; and
+
+      (II) products derived from those plants;
+
+    (iv) a procedure to comply with the enforcement procedures under subsection (e);
+
+    (v) a procedure for conducting annual inspections of, at a minimum, a random sample of hemp producers to verify that hemp is not produced in violation of this subchapter;
+
+    (vi) a procedure for submitting the information described in [section 1639q(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1639q/d/2&num=0&edition=prelim), as applicable, to the Secretary not more than 30 days after the date on which the information is received; and
+
+    (vii) a certification that the State or Indian tribe has the resources and personnel to carry out the practices and procedures described in clauses (i) through (vi); and
+
+  (B) may include any other practice or procedure established by a State or Indian tribe, as applicable, to the extent that the practice or procedure is consistent with this subchapter.
+
+(3) **Relation to State and tribal law**
+
+  (A) *No preemption* — Nothing in this subsection preempts or limits any law of a State or Indian tribe that—
+
+    (i) regulates the production of hemp; and
+
+    (ii) is more stringent than this subchapter.
+
+  (B) *References in plans* — A State or Tribal plan referred to in paragraph (1) may include a reference to a law of the State or Indian tribe regulating the production of hemp, to the extent that law is consistent with this subchapter.
+
+**(b) Approval**
+
+(1) **In general** — Not later than 60 days after receipt of a State or Tribal plan under subsection (a), the Secretary shall—
+
+  (A) approve the State or Tribal plan if the State or Tribal plan complies with subsection (a); or
+
+  (B) disapprove the State or Tribal plan only if the State or Tribal plan does not comply with subsection (a).
+
+(2) **Amended plans** — If the Secretary disapproves a State or Tribal plan under paragraph (1)(B), the State, through the State department of agriculture (in consultation with the Governor and chief law enforcement officer of the State) or the Tribal government, as applicable, may submit to the Secretary an amended State or Tribal plan that complies with subsection (a).
+
+(3) **Consultation** — The Secretary shall consult with the Attorney General in carrying out this subsection.
+
+**(c) Audit of State compliance**
+
+(1) **In general** — The Secretary may conduct an audit of the compliance of a State or Indian tribe with a State or Tribal plan approved under subsection (b).
+
+(2) **Noncompliance** — If the Secretary determines under an audit conducted under paragraph (1) that a State or Indian tribe is not materially in compliance with a State or Tribal plan—
+
+  (A) the Secretary shall collaborate with the State or Indian tribe to develop a corrective action plan in the case of a first instance of noncompliance; and
+
+  (B) the Secretary may revoke approval of the State or Tribal plan in the case of a second or subsequent instance of noncompliance.
+
+**(d) Technical assistance** The Secretary may provide technical assistance to a State or Indian tribe in the development of a State or Tribal plan under subsection (a).
+
+**(e) Violations**
+
+(1) **In general** — A violation of a State or Tribal plan approved under subsection (b) shall be subject to enforcement solely in accordance with this subsection.
+
+(2) **Negligent violation**
+
+  (A) *In general* — A hemp producer in a State or the territory of an Indian tribe for which a State or Tribal plan is approved under subsection (b) shall be subject to subparagraph (B) of this paragraph if the State department of agriculture or Tribal government, as applicable, determines that the hemp producer has negligently violated the State or Tribal plan, including by negligently—
+
+    (i) failing to provide a legal description of land on which the producer produces hemp;
+
+    (ii) failing to obtain a license or other required authorization from the State department of agriculture or Tribal government, as applicable; or
+
+    (iii) producing Cannabis sativa L. with a delta-9 tetrahydrocannabinol concentration of more than 0.3 percent on a dry weight basis.
+
+  (B) *Corrective action plan* — A hemp producer described in subparagraph (A) shall comply with a plan established by the State department of agriculture or Tribal government, as applicable, to correct the negligent violation, including—
+
+    (i) a reasonable date by which the hemp producer shall correct the negligent violation; and
+
+    (ii) a requirement that the hemp producer shall periodically report to the State department of agriculture or Tribal government, as applicable, on the compliance of the hemp producer with the State or Tribal plan for a period of not less than the next 2 calendar years.
+
+  (C) *Result of negligent violation* — A hemp producer that negligently violates a State or Tribal plan under subparagraph (A) shall not as a result of that violation be subject to any criminal enforcement action by the Federal Government or any State government, Tribal government, or local government.
+
+  (D) *Repeat violations* — A hemp producer that negligently violates a State or Tribal plan under subparagraph (A) 3 times in a 5-year period shall be ineligible to produce hemp for a period of 5 years beginning on the date of the third violation.
+
+(3) **Other violations**
+
+  (A) *In general* — If the State department of agriculture or Tribal government in a State or the territory of an Indian tribe for which a State or Tribal plan is approved under subsection (b), as applicable, determines that a hemp producer in the State or territory has violated the State or Tribal plan with a culpable mental state greater than negligence—
+
+    (i) the State department of agriculture or Tribal government, as applicable, shall immediately report the hemp producer to—
+
+      (I) the Attorney General; and
+
+      (II) the chief law enforcement officer of the State or Indian tribe, as applicable; and
+
+    (ii) paragraph (1) of this subsection shall not apply to the violation.
+
+  (B) *Felony*
+
+    (i) *In general* — Except as provided in clause (ii), any person convicted of a felony relating to a controlled substance under State or Federal law before, on, or after December 20, 2018 shall be ineligible, during the 10-year period following the date of the conviction—
+
+      (I) to participate in the program established under this section or [section 1639q of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639q); and
+
+      (II) to produce hemp under any regulations or guidelines issued under [section 1639r(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1639r/a&num=0&edition=prelim).
+
+    (ii) *Exception* — Clause (i) shall not apply to any person growing hemp lawfully with a license, registration, or authorization under a pilot program authorized by [section 5940 of this title](./chapter-088-research.md#section-5940) before December 20, 2018.
+
+  (C) *False statement* — Any person who materially falsifies any information contained in an application to participate in the program established under this section shall be ineligible to participate in that program.
+
+**(f) Effect** Nothing in this section prohibits the production of hemp in a State or the territory of an Indian tribe—
+
+(1) for which a State or Tribal plan is not approved under this section, if the production of hemp is in accordance with [section 1639q of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639q) or other Federal laws (including regulations); and
+
+(2) if the production of hemp is not otherwise prohibited by the State or Indian tribe.
+
+
+<a id="section-1639q"></a>
+## § 1639q. Department of Agriculture
+**(a) Department of Agriculture plan**
+
+(1) **In general** — In the case of a State or Indian tribe for which a State or Tribal plan is not approved under [section 1639p of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639p), the production of hemp in that State or the territory of that Indian tribe shall be subject to a plan established by the Secretary to monitor and regulate that production in accordance with paragraph (2).
+
+(2) **Content** — A plan established by the Secretary under paragraph (1) shall include—
+
+  (A) a practice to maintain relevant information regarding land on which hemp is produced in the State or territory of the Indian tribe, including a legal description of the land, for a period of not less than 3 calendar years;
+
+  (B) a procedure for testing, using post-decarboxylation or other similarly reliable methods, delta-9 tetrahydrocannabinol concentration levels of hemp produced in the State or territory of the Indian tribe;
+
+  (C) a procedure for the effective disposal of—
+
+    (i) plants, whether growing or not, that are produced in violation of this subchapter; and
+
+    (ii) products derived from those plants;
+
+  (D) a procedure to comply with the enforcement procedures under subsection (c)(2);
+
+  (E) a procedure for conducting annual inspections of, at a minimum, a random sample of hemp producers to verify that hemp is not produced in violation of this subchapter; and
+
+  (F) such other practices or procedures as the Secretary considers to be appropriate, to the extent that the practice or procedure is consistent with this subchapter.
+
+**(b) Licensing** The Secretary shall establish a procedure to issue licenses to hemp producers in accordance with a plan established under subsection (a).
+
+**(c) Violations**
+
+(1) **In general** — In the case of a State or Indian tribe for which a State or Tribal plan is not approved under [section 1639p of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639p), it shall be unlawful to produce hemp in that State or the territory of that Indian tribe without a license issued by the Secretary under subsection (b).
+
+(2) **Negligent and other violations** — A violation of a plan established under subsection (a) shall be subject to enforcement in accordance with paragraphs (2) and (3) of [section 1639p(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1639p/e&num=0&edition=prelim), except that the Secretary shall carry out that enforcement instead of a State department of agriculture or Tribal government.
+
+(3) **Reporting to Attorney General** — In the case of a State or Indian tribe covered by paragraph (1), the Secretary shall report the production of hemp without a license issued by the Secretary under subsection (b) to the Attorney General.
+
+**(d) Information sharing for law enforcement**
+
+(1) **In general** — The Secretary shall—
+
+  (A) collect the information described in paragraph (2); and
+
+  (B) make the information collected under subparagraph (A) accessible in real time to Federal, State, territorial, and local law enforcement.
+
+(2) **Content** — The information collected by the Secretary under paragraph (1) shall include—
+
+  (A) contact information for each hemp producer in a State or the territory of an Indian tribe for which—
+
+    (i) a State or Tribal plan is approved under [section 1639p(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1639p/b&num=0&edition=prelim); or
+
+    (ii) a plan is established by the Secretary under this section;
+
+  (B) a legal description of the land on which hemp is grown by each hemp producer described in subparagraph (A); and
+
+  (C) for each hemp producer described in subparagraph (A)—
+
+    (i) the status of—
+
+      (I) a license or other required authorization from the State department of agriculture or Tribal government, as applicable; or
+
+      (II) a license from the Secretary; and
+
+    (ii) any changes to the status.
+
+
+<a id="section-1639r"></a>
+## § 1639r. Regulations and guidelines; effect on other law
+**(a) Promulgation of regulations and guidelines; report**
+
+(1) **Regulations and guidelines**
+
+  (A) *In general* — The Secretary shall promulgate regulations and guidelines to implement this subchapter as expeditiously as practicable.
+
+  (B) *Consultation with Attorney General* — The Secretary shall consult with the Attorney General on the promulgation of regulations and guidelines under subparagraph (A).
+
+(2) **Report** — The Secretary shall annually submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing updates on the implementation of this subchapter.
+
+**(b) Authority** Subject to subsection (c)(3)(B), the Secretary shall have sole authority to promulgate Federal regulations and guidelines that relate to the production of hemp, including Federal regulations and guidelines that relate to the implementation of sections 1639p and 1639q of this title.
+
+**(c) Effect on other law** Nothing in this subchapter shall affect or modify—
+
+(1) the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.);
+
+(2) [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim); or
+
+(3) the authority of the Commissioner of Food and Drugs and the Secretary of Health and Human Services—
+
+  (A) under—
+
+    (i) the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.); or
+
+    (ii) [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim); or
+
+  (B) to promulgate Federal regulations and guidelines that relate to the production of hemp under the Act described in subparagraph (A)(i) or the section described in subparagraph (A)(ii).
+
+### Statutory Notes
+
+#### References in Text
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1), (3)(A)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+
+
+<a id="section-1639s"></a>
+## § 1639s. Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this subchapter.

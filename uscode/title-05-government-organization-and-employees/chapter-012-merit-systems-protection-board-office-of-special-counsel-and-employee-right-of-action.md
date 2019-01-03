@@ -370,6 +370,58 @@ Pub. L. 101–12, § 8(c), Apr. 10, 1989, 103 Stat. 34, provided that: “The pe
 
 (4) Witnesses (whether appearing voluntarily or under subpoena) shall be paid the same fee and mileage allowances which are paid subpoenaed witnesses in the courts of the United States.
 
+(5)
+
+  (A) Except as provided in subparagraph (B), the Special Counsel, in carrying out this subchapter, is authorized to—
+
+    (i) have timely access to all records, data, reports, audits, reviews, documents, papers, recommendations, or other material available to the applicable agency that relate to an investigation, review, or inquiry conducted under—
+
+      (I) section 1213, 1214, 1215, or 1216 of this title; or
+
+      (II) [section 4324(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4324/a&num=0&edition=prelim);
+
+    (ii) request from any agency the information or assistance that may be necessary for the Special Counsel to carry out the duties and responsibilities of the Special Counsel under this subchapter; and
+
+    (iii) require, during an investigation, review, or inquiry of an agency, the agency to provide to the Special Counsel any record or other information that relates to an investigation, review, or inquiry conducted under—
+
+      (I) section 1213, 1214, 1215, or 1216 of this title; or
+
+      (II) [section 4324(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4324/a&num=0&edition=prelim).
+
+  (B)
+
+    (i) The authorization of the Special Counsel under subparagraph (A) shall not apply with respect to any entity that is an element of the intelligence community, as defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)), unless the Special Counsel is investigating, or otherwise carrying out activities relating to the enforcement of, an action under subchapter III of chapter 73.
+
+    (ii) An Inspector General may withhold from the Special Counsel material described in subparagraph (A) if the Inspector General determines that the material contains information derived from, or pertaining to, intelligence activities.
+
+    (iii) The Attorney General or an Inspector General may withhold from the Special Counsel material described in subparagraph (A) if—
+
+      (I)
+
+        (aa) disclosing the material could reasonably be expected to interfere with a criminal investigation or prosecution that is ongoing as of the date on which the Special Counsel submits a request for the material; or
+
+        (bb) the material—
+
+          (AA) may not be disclosed pursuant to a court order; or
+
+          (BB) has been filed under seal under [section 3730 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3730&num=0&edition=prelim); and
+
+      (II) the Attorney General or the Inspector General, as applicable, submits to the Special Counsel a written report that describes—
+
+        (aa) the material being withheld; and
+
+        (bb) the reason that the material is being withheld.
+
+  (C)
+
+    (i) A claim of common law privilege by an agency, or an officer or employee of an agency, shall not prevent the Special Counsel from obtaining any material described in subparagraph (A)(i) with respect to the agency.
+
+    (ii) The submission of material described in subparagraph (A)(i) by an agency to the Special Counsel may not be deemed to waive any assertion of privilege by the agency against a non-Federal entity or against an individual in any other proceeding.
+
+    (iii) With respect to any record or other information made available to the Special Counsel by an agency under subparagraph (A), the Special Counsel may only disclose the record or information for a purpose that is in furtherance of any authority provided to the Special Counsel under this subchapter.
+
+(6) The Special Counsel shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and each committee of Congress with jurisdiction over the applicable agency a report regarding any case of contumacy or failure to comply with a request submitted by the Special Counsel under paragraph (5)(A).
+
 **(c)**
 
 (1) Except as provided in paragraph (2), the Special Counsel may as a matter of right intervene or otherwise participate in any proceeding before the Merit Systems Protection Board, except that the Special Counsel shall comply with the rules of the Board.
@@ -402,9 +454,27 @@ Pub. L. 101–12, § 8(c), Apr. 10, 1989, 103 Stat. 34, provided that: “The pe
 
 (2) A court of the United States shall grant the application of the Special Counsel to appear in any such action for the purposes described under subsection (a).
 
+**(i)** The Special Counsel shall enter into at least 1 agreement with the Inspector General of an agency under which—
+
+(1) the Inspector General shall—
+
+  (A) receive, review, and investigate allegations of prohibited personnel practices or wrongdoing filed by employees of the Office of Special Counsel; and
+
+  (B) develop a method for an employee of the Office of Special Counsel to communicate directly with the Inspector General; and
+
+(2) the Special Counsel—
+
+  (A) may not require an employee of the Office of Special Counsel to seek authorization or approval before directly contacting the Inspector General in accordance with the agreement; and
+
+  (B) may reimburse the Inspector General for services provided under the agreement.
+
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(5), (6). Pub. L. 115–91, § 1097(a), added pars. (5) and (6).
+
+Subsec. (i). Pub. L. 115–91, § 1097(g), added subsec. (i).
+
 2012—Subsec. (h). Pub. L. 112–199 added subsec. (h).
 
 1994—Subsec. (g)(1). Pub. L. 103–424, § 3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
@@ -414,11 +484,22 @@ Subsec. (g)(2). Pub. L. 103–424, § 3(b)(2), substituted “an evaluation of t
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as a note under [section 1204 of this title](./chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action.md#section-1204).
 
+#### Regulations
+Pub. L. 115–91, div. A, title X, § 1097(m), Dec. 12, 2017, 131 Stat. 1626, provided that: “(1) In general.—Not later than 2 years after the date of enactment of this Act [Dec. 12, 2017], the Special Counsel shall prescribe such regulations as may be necessary to perform—“(A) the functions of the Special Counsel under subchapter II of chapter 12 of title 5, United States Code, including regulations that are necessary to carry out sections 1213, 1214, and 1215 of that title; and “(B) any functions of the Special Counsel that are required because of the amendments made by this section [enacting [section 7515 of this title](./chapter-075-adverse-actions.md#section-7515), amending this section and sections 1212 to 1214, 1217 to 1219, 1221, 2302, 4301, 4302, 4313, 4505a, 5755, and 7326 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, repealing [section 2307 of this title](./chapter-023-merit-system-principles.md#section-2307) and former [section 7515 of this title](./chapter-075-adverse-actions.md#section-7515), enacting provisions set out as notes under this section and sections 4302, 5509, 7326, and 7503 of this title, and amending provisions set out as notes under this section and sections 2302 and 5509 of this title]. “(2) Publication.—Any regulations prescribed under paragraph (1) shall be published in the Federal Register.”
+
+#### Suicide by Employees
+Pub. L. 115–73, title I, § 105, Oct. 26, 2017, 131 Stat. 1238, as amended by Pub. L. 115–91, div. A, title X, § 1097(l), Dec. 12, 2017, 131 Stat. 1626, provided that: “(a) Referral.—The head of an agency shall refer to the Special Counsel, along with any information known to the agency regarding the circumstances described in paragraphs (2) and (3), any instance in which the head of the agency has credible information indicating—“(1) an employee of the agency committed suicide; “(2) prior to the death of the employee, the employee made any disclosure of information which reasonably evidences—“(A) any violation of any law, rule, or regulation; or “(B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; and “(3) after a disclosure described in paragraph (2), a personnel action was taken against the employee. “(b) Office of Special Counsel Review.—For any referral to the Special Counsel under subsection (a), the Special Counsel shall—“(1) examine whether any personnel action was taken because of any disclosure of information described in subsection (a)(2); and “(2) take any action the Special Counsel determines appropriate under subchapter II of chapter 12 of title 5, United States Code. “(c) Permission of Next of Kin.—The head of the agency shall only make a referral under subsection (a) regarding an employee after receiving written permission from the next of kin, as such term is defined in [section 6381 of title 5](./chapter-063-leave.md#section-6381), United States Code, of the employee.”
+
+[For definitions of “agency”, “employee”, and “personnel action” as used in section 105 of Pub. L. 115–73, set out above, see section 101 of Pub. L. 115–73, set out below.]
+
 #### Policy Statement Regarding Implementation of Whistleblower Protection Act
 Pub. L. 103–424, § 12(a), Oct. 29, 1994, 108 Stat. 4366, provided that: “No later than 6 months after the date of enactment of this Act [Oct. 29, 1994], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 [see Short Title of 1989 Amendment note set out under [section 1201 of this title](./chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action.md#section-1201)]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under [section 2302(b)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/8&num=0&edition=prelim), United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under [section 1214 of title 5](./chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action.md#section-1214), United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication.”
 
 #### Annual Survey of Individuals Seeking Assistance
 Pub. L. 103–424, § 13, Oct. 29, 1994, 108 Stat. 4367, provided that: “(a) In General.—The Office of Special Counsel shall, after consulting with the Office of Policy and Evaluation of the Merit Systems Protection Board, conduct an annual survey of all individuals who contact the Office of Special Counsel for assistance. The survey shall—“(1) determine if the individual seeking assistance was fully apprised of their rights; “(2) determine whether the individual was successful either at the Office of Special Counsel or the Merit Systems Protection Board; and “(3) determine if the individual, whether successful or not, was satisfied with the treatment received from the Office of Special Counsel. “(b) Report.—The results of the survey conducted under subsection (a) shall be published in the annual report of the Office of Special Counsel.”
+
+#### Definitions
+Pub. L. 115–73, title I, § 101, Oct. 26, 2017, 131 Stat. 1235, provided that: “In this title [enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and [section 2301 of this title](./chapter-023-merit-system-principles.md#section-2301), and amending provisions set out as a note under [section 2302 of this title](./chapter-023-merit-system-principles.md#section-2302)]— “(1) the term ‘agency’—“(A) except as provided in subparagraph (B), means an entity that is an agency, as defined under [section 2302 of title 5](./chapter-023-merit-system-principles.md#section-2302), United States Code, without regard to whether one or more portions of title 5 of the United States Code are inapplicable to the entity; and “(B) does not include any entity that is an element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)); “(2) the term ‘employee’ means an employee (as defined in [section 2105 of title 5](./chapter-021-definitions.md#section-2105), United States Code) of an agency; and “(3) the term ‘personnel action’ has the meaning given that term under [section 2302 of title 5](./chapter-023-merit-system-principles.md#section-2302), United States Code.”
 
 
 <a id="section-1213"></a>
@@ -438,7 +519,7 @@ Pub. L. 103–424, § 13, Oct. 29, 1994, 108 Stat. 4367, provided that: “(a) I
 
   (B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
-**(b)** Whenever the Special Counsel receives information of a type described in subsection (a) of this section, the Special Counsel shall review such information and, within 15 days after receiving the information, determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
+**(b)** Whenever the Special Counsel receives information of a type described in subsection (a) of this section, the Special Counsel shall review such information and, within 45 days after receiving the information, determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
 
 **(c)**
 
@@ -476,17 +557,23 @@ Pub. L. 103–424, § 13, Oct. 29, 1994, 108 Stat. 4367, provided that: “(a) I
 
 **(e)**
 
-(1) Any such report shall be submitted to the Special Counsel, and the Special Counsel shall transmit a copy to the complainant, except as provided under subsection (f) of this section. The complainant may submit comments to the Special Counsel on the agency report within 15 days of having received a copy of the report.
+(1) Any report required under subsection (c) or paragraph (5) of this subsection shall be submitted to the Special Counsel, and the Special Counsel shall transmit a copy to the complainant, except as provided under subsection (f) of this section. The complainant may submit comments to the Special Counsel on the agency report within 15 days of having received a copy of the report.
 
-(2) Upon receipt of any report of the head of an agency required under subsection (c) of this section, the Special Counsel shall review the report and determine whether—
+(2) Upon receipt of any report that the head of an agency is required to submit under subsection (c), the Special Counsel shall review the report and determine whether—
 
   (A) the findings of the head of the agency appear reasonable; and
 
-  (B) the report of the agency under subsection (c)(1) of this section contains the information required under subsection (d) of this section.
+  (B) if the Special Counsel requires the head of the agency to submit a supplemental report under paragraph (5), the reports submitted by the head of the agency collectively contain the information required under subsection (d).
 
-(3) The Special Counsel shall transmit any agency report received pursuant to subsection (c) of this section, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
+(3) The Special Counsel shall transmit any report submitted to the Special Counsel by the head of an agency under subsection (c) or paragraph (5) of this subsection, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
 
 (4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
+
+(5) If, after conducting a review of a report under paragraph (2), the Special Counsel concludes that the Special Counsel requires additional information or documentation to determine whether the report submitted by the head of an agency is reasonable and sufficient, the Special Counsel may request that the head of the agency submit a supplemental report—
+
+  (A) containing the additional information or documentation identified by the Special Counsel; and
+
+  (B) that the head of the agency shall submit to the Special Counsel within a period of time specified by the Special Counsel.
 
 **(f)** In any case in which evidence of a criminal violation obtained by an agency in an investigation under subsection (c) of this section is referred to the Attorney General—
 
@@ -519,6 +606,16 @@ Pub. L. 103–424, § 13, Oct. 29, 1994, 108 Stat. 4367, provided that: “(a) I
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–91, § 1097(c)(2)(A), substituted “45 days” for “15 days”.
+
+Subsec. (e)(1). Pub. L. 115–91, § 1097(c)(2)(B)(i), substituted “Any report required under subsection (c) or paragraph (5) of this subsection” for “Any such report”.
+
+Subsec. (e)(2). Pub. L. 115–91, § 1097(c)(2)(B)(ii), added par. (2) and struck out former par. (2) which related to review of any report of the head of an agency required under subsection (c).
+
+Subsec. (e)(3). Pub. L. 115–91, § 1097(c)(2)(B)(iii), substituted “report submitted to the Special Counsel by the head of an agency under subsection (c) or paragraph (5) of this subsection” for “agency report received pursuant to subsection (c) of this section”.
+
+Subsec. (e)(5). Pub. L. 115–91, § 1097(c)(2)(B)(iv), added par. (5).
+
 2002—Subsec. (g)(1). Pub. L. 107–304, § 3(1), struck out at end “If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.”
 
 Subsec. (g)(3). Pub. L. 107–304, § 3(2), added par. (3) and struck out former par. (3) which read as follows: “If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
@@ -588,6 +685,26 @@ Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and”
 
 (5) In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
 
+(6)
+
+  (A) Notwithstanding any other provision of this section, not later than 30 days after the date on which the Special Counsel receives an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel may terminate an investigation of the allegation without further inquiry if the Special Counsel determines that—
+
+    (i) the same allegation, based on the same set of facts and circumstances, had previously been—
+
+      (I)
+
+        (aa) made by the individual; and
+
+        (bb) investigated by the Special Counsel; or
+
+      (II) filed by the individual with the Merit Systems Protection Board;
+
+    (ii) the Special Counsel does not have jurisdiction to investigate the allegation; or
+
+    (iii) the individual knew or should have known of the alleged prohibited personnel practice on or before the date that is 3 years before the date on which the Special Counsel received the allegation.
+
+  (B) Not later than 30 days after the date on which the Special Counsel terminates an investigation under subparagraph (A), the Special Counsel shall provide a written notification to the individual who submitted the allegation of a prohibited personnel practice that states the basis of the Special Counsel for terminating the investigation.
+
 **(b)**
 
 (1)
@@ -604,7 +721,7 @@ Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and”
 
     (i) The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
 
-    (ii) If the Board lacks the number of members appointed under section 1201 required to constitute a quorum, any remaining member of the Board who was appointed, by and with the advice and consent of the Senate, may, upon request by the Special Counsel, extend the period of any stay granted under subparagraph (A).
+    (ii) If the Board lacks the number of members appointed under section 1201 required to constitute a quorum, any remaining member of the Board may, upon request by the Special Counsel, extend the period of any stay granted under subparagraph (A).
 
   (C) The Board shall allow any agency which is the subject of a stay to comment to the Board on any extension of stay proposed under subparagraph (B).
 
@@ -613,6 +730,8 @@ Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and”
     (i) on its own motion or on the motion of an agency, unless notice and opportunity for oral or written comments are first provided to the Special Counsel and the individual on whose behalf the stay was ordered; or
 
     (ii) on motion of the Special Counsel, unless notice and opportunity for oral or written comments are first provided to the individual on whose behalf the stay was ordered.
+
+  (E) If the Board grants a stay under subparagraph (A), the head of the agency employing the employee who is the subject of the action shall give priority to a request for a transfer submitted by the employee.
 
 (2)
 
@@ -678,10 +797,22 @@ Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and”
 
 **(h)** Any corrective action ordered under this section to correct a prohibited personnel practice may include fees, costs, or damages reasonably incurred due to an agency investigation of the employee, if such investigation was commenced, expanded, or extended in retaliation for the disclosure or protected activity that formed the basis of the corrective action.
 
+**(i)** The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), without regard to whether a personnel action, as defined in section 2302(a)(2)(A), is taken.
+
 ### Statutory Notes
 
 #### Amendments
-2017—Subsec. (b)(1)(B). Pub. L. 115–42 designated existing provisions as cl. (i) and added cl. (ii).
+2017—Subsec. (a)(6). Pub. L. 115–91, § 1097(f), added par. (6).
+
+Subsec. (b)(1)(B). Pub. L. 115–42 designated existing provisions as cl. (i) and added cl. (ii).
+
+Subsec. (b)(1)(B)(ii). Pub. L. 115–91, § 1097(j), struck out “who was appointed, by and with the advice and consent of the Senate,” after “member of the Board”.
+
+Subsec. (b)(1)(E). Pub. L. 115–91, § 1097(c)(3)(A), added subpar. (E) and struck out former subpar. (E) which read as follows: “If the Merit Systems Protection Board grants a stay under this subsection, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.”
+
+Pub. L. 115–73 added subpar. (E).
+
+Subsec. (i). Pub. L. 115–91, § 1097(c)(4), added subsec. (i).
 
 2012—Subsecs. (a)(3), (b)(4)(A). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
@@ -799,18 +930,78 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
 <a id="section-1217"></a>
 ## § 1217. Transmittal of information to Congress
+**(a) In General.—** The Special Counsel or any employee of the Special Counsel designated by the Special Counsel, shall transmit to the Congress on the request of any committee or subcommittee thereof, by report, testimony, or otherwise, information and the Special Counsel’s views on functions, responsibilities, or other matters relating to the Office. Such information shall be transmitted concurrently to the President and any other appropriate agency in the executive branch.
 
-The Special Counsel or any employee of the Special Counsel designated by the Special Counsel, shall transmit to the Congress on the request of any committee or subcommittee thereof, by report, testimony, or otherwise, information and the Special Counsel’s views on functions, responsibilities, or other matters relating to the Office. Such information shall be transmitted concurrently to the President and any other appropriate agency in the executive branch.
+**(b) Additional Report Required.—**
+
+(1) **In general.—** — If an allegation submitted to the Special Counsel is resolved by an agreement between an agency and an individual, the Special Counsel shall submit to Congress and each congressional committee with jurisdiction over the agency a report regarding the agreement.
+
+(2) **Contents.—** — Any report required under paragraph (1) shall identify, with respect to an agreement described in that paragraph—
+
+  (A) the agency that entered into the agreement;
+
+  (B) the position and employment location of the employee who submitted the allegation that formed the basis of the agreement, provided the information is not so specific as to be reasonably likely to identify the employee;
+
+  (C) the position and employment location of any employee alleged by an employee described in subparagraph (B) to have committed a prohibited personnel practice, as defined in section 2302(a)(1);
+
+  (D) a description of the allegation described in subparagraph (B); and
+
+  (E) whether the agency that entered into the agreement has agreed to pursue any disciplinary action as a result of the allegation described in subparagraph (B).
+
+### Statutory Notes
+
+#### Amendments
+2017—Pub. L. 115–91 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 
 <a id="section-1218"></a>
 ## § 1218. Annual report
 
-The Special Counsel shall submit an annual report to the Congress on the activities of the Special Counsel, including the number, types, and disposition of allegations of prohibited personnel practices filed with it, investigations conducted by it, cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i), and actions initiated by it before the Merit Systems Protection Board, as well as a description of the recommendations and reports made by it to other agencies pursuant to this subchapter, and the actions taken by the agencies as a result of the reports or recommendations. The report required by this section shall include whatever recommendations for legislation or other action by Congress the Special Counsel may consider appropriate.
+The Special Counsel shall submit to Congress, on an annual basis, a report regarding the activities of the Special Counsel, which shall include, for the year preceding the submission of the report—
+
+(1) the number, types, and disposition of allegations of prohibited personnel practices filed with the Special Counsel and the costs of resolving such allegations;
+
+(2) the number of investigations conducted by the Special Counsel;
+
+(3) the number of stays and disciplinary actions negotiated with agencies by the Special Counsel;
+
+(4) the number of subpoenas issued by the Special Counsel;
+
+(5) the number of instances in which the Special Counsel reopened an investigation after the Special Counsel had made an initial determination with respect to the investigation;
+
+(6) the actions that resulted from reopening investigations, as described in paragraph (5);
+
+(7) the number of instances in which the Special Counsel did not make a determination before the end of the 240-day period described in section 1214(b)(2)(A)(i) regarding whether there were reasonable grounds to believe that a prohibited personnel practice had occurred, existed, or was to be taken;
+
+(8) a description of the recommendations and reports made by the Special Counsel to other agencies under this subchapter and the actions taken by the agencies as a result of the recommendations or reports;
+
+(9) the number of—
+
+  (A) actions initiated before the Merit Systems Protection Board, including the number of corrective action petitions and disciplinary action complaints initiated; and
+
+  (B) stays and extensions of stays obtained from the Merit Systems Protection Board;
+
+(10) the number of prohibited personnel practice complaints that resulted in a favorable action for the complainant, other than a stay or an extension of a stay, organized by actions in—
+
+  (A) complaints dealing with reprisals against whistleblowers; and
+
+  (B) all other complaints;
+
+(11) the number of prohibited personnel practice complaints that were resolved by an agreement between an agency and an individual, organized by agency and agency components in—
+
+  (A) complaints dealing with reprisals against whistleblowers; and
+
+  (B) all other complaints;
+
+(12) the number of corrective actions that the Special Counsel required an agency to take after a finding by the Special Counsel of a prohibited personnel practice, as defined in section 2302(a)(1); and
+
+(13) the results for the Office of Special Counsel of any employee viewpoint survey conducted by the Office of Personnel Management or any other agency.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Pub. L. 115–91 amended section generally. Prior to amendment, text read as follows: “The Special Counsel shall submit an annual report to the Congress on the activities of the Special Counsel, including the number, types, and disposition of allegations of prohibited personnel practices filed with it, investigations conducted by it, cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i), and actions initiated by it before the Merit Systems Protection Board, as well as a description of the recommendations and reports made by it to other agencies pursuant to this subchapter, and the actions taken by the agencies as a result of the reports or recommendations. The report required by this section shall include whatever recommendations for legislation or other action by Congress the Special Counsel may consider appropriate.”
+
 1994—Pub. L. 103–424 inserted “cases in which it did not make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken within the 240-day period specified in section 1214(b)(2)(A)(i),” after “investigations conducted by it,”.
 
 #### Termination of Reporting Requirements
@@ -821,7 +1012,15 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 ## § 1219. Public information
 **(a)** The Special Counsel shall maintain and make available to the public—
 
-(1) a list of noncriminal matters referred to heads of agencies under subsection (c) of section 1213, together with reports from heads of agencies under subsection (c)(1)(B) of such section relating to such matters;
+(1) a list of any noncriminal matters referred to the head of an agency under section 1213(c), together with—
+
+  (A) a copy of the information transmitted to the head of the agency under section 1213(c)(1);
+
+  (B) any report from the agency under section 1213(c)(1)(B) relating to the matter;
+
+  (C) if appropriate, not otherwise prohibited by law, and consented to by the complainant, any comments from the complainant under section 1213(e)(1) relating to the matter; and
+
+  (D) the comments or recommendations of the Special Counsel under paragraph (3) or (4) of section 1213(e);
 
 (2) a list of matters referred to heads of agencies under section 1215(c)(2);
 
@@ -830,6 +1029,11 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 (4) reports from heads of agencies under section 1213(g)(1).
 
 **(b)** The Special Counsel shall take steps to ensure that any list or report made available to the public under this section does not contain any information the disclosure of which is prohibited by law or by Executive order requiring that information be kept secret in the interest of national defense or the conduct of foreign affairs.
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–91 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a list of noncriminal matters referred to heads of agencies under subsection (c) of section 1213, together with reports from heads of agencies under subsection (c)(1)(B) of such section relating to such matters;”.
 
 
 <a id="section-1221"></a>
@@ -904,9 +1108,15 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 
 **(j)** In determining the appealability of any case involving an allegation made by an individual under the provisions of this chapter, neither the status of an individual under any retirement system established under a Federal statute nor any election made by such individual under any such system may be taken into account.
 
+**(k)** If the Board grants a stay under subsection (c) and the employee who is the subject of the action is in probationary status, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.
+
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (k). Pub. L. 115–91 added subsec. (k) and struck out former subsec. (k) which read as follows: “If the Merit Systems Protection Board grants a stay to an employee in probationary status under subsection (c), the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.”
+
+Pub. L. 115–73 added subsec. (k).
+
 2012—Subsec. (a). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
 Subsec. (e)(1). Pub. L. 112–199, § 101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure” wherever appearing.

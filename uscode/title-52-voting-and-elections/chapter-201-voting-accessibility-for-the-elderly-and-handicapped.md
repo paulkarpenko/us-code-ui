@@ -51,6 +51,9 @@ Pub. L. 98–435, § 9, Sept. 28, 1984, 98 Stat. 1680, provided that: “This Ac
 #### Codification
 Section was formerly classified to [section 1973ee–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ee–1&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Effective Date
+Section applicable with respect to elections taking place after Dec. 31, 1985, see section 9 of Pub. L. 98–435, set out as a note under [section 20101 of this title](./chapter-201-voting-accessibility-for-the-elderly-and-handicapped.md#section-20101).
+
 
 <a id="section-20103"></a>
 ## § 20103. Selection of registration facilities
@@ -62,6 +65,9 @@ Section was formerly classified to [section 1973ee–1 of Title 42](https://usco
 
 #### Codification
 Section was formerly classified to [section 1973ee–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ee–2&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Effective Date
+Section applicable with respect to elections taking place after Dec. 31, 1985, see section 9 of Pub. L. 98–435, set out as a note under [section 20101 of this title](./chapter-201-voting-accessibility-for-the-elderly-and-handicapped.md#section-20101).
 
 
 <a id="section-20104"></a>
@@ -85,6 +91,9 @@ Section was formerly classified to [section 1973ee–2 of Title 42](https://usco
 #### Codification
 Section was formerly classified to [section 1973ee–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ee–3&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Effective Date
+Section applicable with respect to elections taking place after Dec. 31, 1985, see section 9 of Pub. L. 98–435, set out as a note under [section 20101 of this title](./chapter-201-voting-accessibility-for-the-elderly-and-handicapped.md#section-20101).
+
 
 <a id="section-20105"></a>
 ## § 20105. Enforcement
@@ -99,6 +108,9 @@ Section was formerly classified to [section 1973ee–3 of Title 42](https://usco
 #### Codification
 Section was formerly classified to [section 1973ee–4 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ee–4&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Effective Date
+Section applicable with respect to elections taking place after Dec. 31, 1985, see section 9 of Pub. L. 98–435, set out as a note under [section 20101 of this title](./chapter-201-voting-accessibility-for-the-elderly-and-handicapped.md#section-20101).
+
 
 <a id="section-20106"></a>
 ## § 20106. Relationship to Voting Rights Act of 1965
@@ -112,6 +124,9 @@ The Voting Rights Act of 1965, referred to in text, is Pub. L. 89–110, Aug. 6,
 
 #### Codification
 Section was formerly classified to [section 1973ee–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ee–5&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Effective Date
+Section applicable with respect to elections taking place after Dec. 31, 1985, see section 9 of Pub. L. 98–435, set out as a note under [section 20101 of this title](./chapter-201-voting-accessibility-for-the-elderly-and-handicapped.md#section-20101).
 
 
 <a id="section-20107"></a>
@@ -133,3 +148,6 @@ As used in this chapter, the term—
 
 #### Codification
 Section was formerly classified to [section 1973ee–6 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ee–6&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Effective Date
+Section applicable with respect to elections taking place after Dec. 31, 1985, see section 9 of Pub. L. 98–435, set out as a note under [section 20101 of this title](./chapter-201-voting-accessibility-for-the-elderly-and-handicapped.md#section-20101).

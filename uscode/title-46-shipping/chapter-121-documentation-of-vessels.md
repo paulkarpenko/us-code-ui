@@ -165,6 +165,38 @@ A prior section 12104, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 99�
 
 **(d) Procedures To Ensure Integrity and Accuracy.—** The Secretary shall prescribe procedures to ensure the integrity of, and the accuracy of information contained in, certificates of documentation.
 
+**(e) Effective Period.—**
+
+(1) **In general.—** — Except as provided in paragraphs (2) and (3), a certificate of documentation issued under this part is valid for a 1-year period and may be renewed for additional 1-year periods.
+
+(2) **Recreational vessels.—**
+
+  (A) *In general.—* — A certificate of documentation for a recreational vessel and the renewal of such a certificate shall be effective for a 5-year period.
+
+  (B) *Phase-in period.—* — During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.
+
+  (C) *Fees.—*
+
+    (i) *Requirement.—* — The Secretary shall assess and collect a fee—
+
+      (I) for the issuance of a certificate of documentation for a recreational vessel that is equivalent to the fee established for the issuance of a certificate of documentation under section 2110; and
+
+      (II) for the renewal of a certificate of documentation for a recreational vessel that is equivalent to the number of years of effectiveness of the certificate of documentation multiplied by the fee established for the renewal of a certificate of documentation under section 2110.
+
+    (ii) *Treatment.—* — Fees collected under this subsection—
+
+      (I) shall be credited to the account from which the costs of such issuance or renewal were paid; and
+
+      (II) may remain available until expended.
+
+(3) **Notice of change in information.—**
+
+  (A) *Requirement.—* — The owner of a vessel shall notify the Coast Guard of each change in the information on which the issuance of the certificate of documentation for the vessel is based that occurs before the expiration of the certificate under this subsection, by not later than 30 days after such change.
+
+  (B) *Termination of certificate.—* — The certificate of documentation for a vessel shall terminate upon the expiration of such 30-day period if the owner has not notified the Coast Guard of such change before the end of such period.
+
+(4) **State and local authority to remove abandoned and derelict vessels.—** — Nothing in this section shall be construed to limit the authority of a State or local authority from taking action to remove an abandoned or derelict vessel.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -180,8 +212,11 @@ In subsection (b), the words “eligible under” are substituted for “if the 
 #### Prior Provisions
 A prior section 12105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 100–710, title I, § 104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, § 301(a)(5), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 109–241, title III, § 310, July 11, 2006, 120 Stat. 529, originally derived from section 65h of former Title 46, Shipping, related to registry endorsements, prior to the general amendment of this chapter by Pub. L. 109–304. See [section 12111 of this title](./chapter-121-documentation-of-vessels.md#section-12111).
 
+#### Amendments
+2018—Subsec. (e). Pub. L. 115–282 added subsec. (e).
+
 #### Certificates of Documentation for Recreational Vessels
-Pub. L. 114–120, title III, § 311, Feb. 8, 2016, 130 Stat. 57, provided that: “Not later than one year after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall issue regulations that— “(1) make certificates of documentation for recreational vessels effective for 5 years; and “(2) require the owner of such a vessel—“(A) to notify the Coast Guard of each change in the information on which the issuance of the certificate of documentation is based, that occurs before the expiration of the certificate; and “(B) apply for a new certificate of documentation for such a vessel if there is any such change.”
+Pub. L. 114–120, title III, § 311, Feb. 8, 2016, 130 Stat. 57, provided that: “Not later than one year after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall issue regulations that— “(1) make certificates of documentation for recreational vessels effective for 5 years; and “(2) require the owner of such a vessel—“(A) to notify the Coast Guard of each change in the information on which the issuance of the certificate of documentation is based, that occurs before the expiration of the certificate; and “(B) [to] apply for a new certificate of documentation for such a vessel if there is any such change.”
 
 
 <a id="section-12106"></a>
@@ -393,7 +428,7 @@ Pub. L. 108–293, title VI, § 608(b), Aug. 9, 2004, 118 Stat. 1056, provided t
 
     (ii) is eligible for a fishery endorsement under this section; and
 
-    (iii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887); 22 So in original. The semicolon probably should be preceded by another closing parenthesis. or
+    (iii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
 
   (D) the vessel is a fish tender vessel that is not engaged in the harvesting or processing of fish.
 
@@ -458,6 +493,8 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 A prior section 12113, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588, originally derived from section 65a of former Title 46, Shipping, related to ports of documentation, prior to being repealed by Pub. L. 100–710, title I, §§ 106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
 
 #### Amendments
+2018—Subsec. (d)(2)(C)(iii). Pub. L. 115–232 substituted “118 Stat. 2887))” for “118 Stat. 2887)”.
+
 2012—Subsec. (d)(2)(B). Pub. L. 112–213, § 307(1), substituted “Secretary that—” for “Secretary that”, inserted cl. (i) designation before “the regional” and “and” after “authority;”, and added cl. (ii).
 
 Subsec. (d)(2)(C). Pub. L. 112–213, § 307(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627) and is eligible for a fishery endorsement under this section; or”.
@@ -504,6 +541,9 @@ In subsection (c), the words “Secretary of Homeland Security” are substitute
 
 #### Prior Provisions
 A prior section 12114, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589; Pub. L. 99–36, § 1(a)(8), May 15, 1985, 99 Stat. 67, originally derived from section 65c of former Title 46, Shipping, related to home ports, prior to being repealed by Pub. L. 100–710, title I, §§ 106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
+
+#### Documentation of Recreational Vessels
+Pub. L. 115–282, title VIII, § 826, Dec. 4, 2018, 132 Stat. 4314, provided that: “Coast Guard personnel performing nonrecreational vessel documentation functions under subchapter II of chapter 121 of title 46, United States Code, may perform recreational vessel documentation under section 12114 of such title in any fiscal year in which— “(1) funds available for Coast Guard operating expenses may not be used for expenses incurred for recreational vessel documentation; “(2) fees collected from owners of yachts and credited to such use are insufficient to pay expenses of recreational vessel documentation; and “(3) there is a backlog of applications for recreational vessel documentation.”
 
 
 <a id="section-12115"></a>
@@ -706,7 +746,7 @@ A prior section 12118, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589, originally 
 
 (2) **Cargo.—** — The term “cargo” does not include cargo to which title is held for non-commercial reasons and primarily for the purpose of evading the requirements of subsection (c)(3).
 
-(3) **Oil.—** — The term “oil” has the meaning given that term in [section 2101(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/20&num=0&edition=prelim).
+(3) **Oil.—** — The term “oil” has the meaning given that term in [section 2101(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/26&num=0&edition=prelim).
 
 (4) **Passive investment.—** — The term “passive investment” means an investment in which neither the investor nor any affiliate of the investor is involved in, or has the power to be involved in, the formulation, determination, or direction of any activity or function concerning the management, use, or operation of the asset that is the subject of the investment.
 
@@ -798,6 +838,9 @@ Subsection (e) is substituted for “(3) Upon termination by a demise charterer 
 
 #### Prior Provisions
 A prior section 12119, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589; Pub. L. 100–710, title I, § 104(a)(4), Nov. 23, 1988, 102 Stat. 4750, originally derived from sections 65s and 881 of former Title 46, Shipping, related to list of documented vessels, prior to the general amendment of this chapter by Pub. L. 109–304. See [section 12138 of this title](./chapter-121-documentation-of-vessels.md#section-12138).
+
+#### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–232 substituted “section 2101(26)” for “section 2101(20)”.
 
 #### Application to Certain Certificates
 Pub. L. 108–293, title VI, § 608(c), Aug. 9, 2004, 118 Stat. 1057, provided that: “(1) In general.—The amendments made by this section [amending provisions from which this section was derived], and any regulations published after February 4, 2004, with respect to coastwise endorsements, shall not apply to a certificate of documentation, or renewal thereof, endorsed with a coastwise endorsement for a vessel under section 12106(e) [now section 12119(b), (d)–(f)] of title 46, United States Code, or a replacement vessel of a similar size and function, that was issued prior to the date of enactment of this Act [Aug. 9, 2004] as long as the vessel is owned by the person named therein, or by a subsidiary or affiliate of that person, and the controlling interest in such owner has not been transferred to a person that was not an affiliate of such owner as of the date of enactment of this Act. Notwithstanding the preceding sentence, however, the amendments made by this section shall apply, beginning 3 years after the date of enactment of this Act, with respect to offshore supply vessels (as defined in [section 2101(19) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/19&num=0&edition=prelim), United States Code, as that section was in effect on the date of enactment of this Act) with a certificate of documentation endorsed with a coastwise endorsement as of the date of enactment of this Act, and the Secretary of the Department in which the Coast Guard is operating shall revoke any such certificate if the vessel does not by then meet the requirements of [section 12106(e) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12106/e&num=0&edition=prelim), United States Code, as amended by this section. “(2) Replacement Vessel.—For the purposes of this subsection, ‘replacement vessel’ means—“(A) a temporary replacement vessel for a period of not to exceed 180 days if the vessel described in paragraph (1) is unavailable due to an act of God or a marine casualty; or “(B) a permanent replacement vessel if—“(i) the vessel described in paragraph (1) is unavailable for more than 180 days due to an act of God or a marine casualty; or “(ii) a contract to purchase or construct such replacement vessel is executed not later than December 31, 2004.”

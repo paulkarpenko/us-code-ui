@@ -368,7 +368,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to f
 
     (ii) not more than $1,500,000 is available to conduct by grant or contract a survey of levels of recreational boating participation and related matters in the United States.
 
-(2) On and after October 1, 2016, no funds available to the Secretary under this subsection may be used to replace funding provided through general appropriations, nor for any purposes except those purposes authorized by this section.
+(2) No funds available to the Secretary under this subsection may be used to replace funding provided through general appropriations, nor for any purposes except those purposes authorized by this section.
 
 (3) Amounts made available by this subsection shall remain available during the 2 succeeding fiscal years. Any amount that is unexpended or unobligated at the end of the 3-year period during which it is available shall be withdrawn by the Secretary and allocated to the States in addition to any other amounts available for allocation in the fiscal year in which they are withdrawn or the following fiscal year.
 
@@ -387,6 +387,8 @@ Section 13106 provides the Secretary with liquidating contract authority in an a
 A prior section 13107, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596, established the National Recreational Boating Safety and Facilities Improvement Fund, prior to repeal by Pub. L. 98–369, div. A, title X, § 1016(c)(1), July 18, 1984, 98 Stat. 1020. See [section 9504 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9504&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2018—Subsec. (c)(2). Pub. L. 115–232 substituted “No” for “On and after October 1, 2016, no”.
+
 2015—Subsec. (a). Pub. L. 114–94, § 10002(1), substituted “Subject to subsection (c),” for “(1) Subject to paragraph (2) and subsection (c),” and struck out “the sum of (A) the amount made available from the Boat Safety Account for that fiscal year under section 15 of the Dingell-Johnson Sport Fish Restoration Act and (B)” after “an amount equal to” and par. (2) which read as follows: “The Secretary shall use not more than two percent of the amount available each fiscal year for State recreational boating safety programs under this chapter to pay the costs of investigations, personnel, and activities related to administering those programs.”
 
 Subsec. (c)(1). Pub. L. 114–94, § 10002(2)(A), added par. (1) and struck out former par. (1) which read as follows: “Of the amount transferred to the Secretary under subsection (a)(2) of section 4 of the Dingell-Johnson Sport Fish Restoration Act ([16 U.S.C. 777c(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c/a/2&num=0&edition=prelim)), $5,500,000 is available to the Secretary for payment of expenses of the Coast Guard for personnel and activities directly related to coordinating and carrying out the national recreational boating safety program under this title, of which not less than $2,000,000 shall be available to the Secretary only to ensure compliance with chapter 43 of this title.”
@@ -525,7 +527,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to f
 ## § 13109. Consultation, cooperation, and regulation
 **(a)** In carrying out responsibilities under this chapter, the Secretary may consult with State and local governments, public and private agencies, organizations and committees, private industry, and other persons having an interest in boating safety.
 
-**(b)** The Secretary may advise, assist, and cooperate with the States and other interested public and private agencies in planning, developing, and carrying out boating safety programs. Acting under [section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim), the Secretary shall ensure the fullest cooperation between the State and United States Government authorities in promoting boating safety by making agreements and other arrangements with States when possible. Subject to chapter 23 of title 14, the Secretary may make available, on request of a State, the services of members of the Coast Guard Auxiliary to assist the State in promoting boating safety on State waters.
+**(b)** The Secretary may advise, assist, and cooperate with the States and other interested public and private agencies in planning, developing, and carrying out boating safety programs. Acting under section 141 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, the Secretary shall ensure the fullest cooperation between the State and United States Government authorities in promoting boating safety by making agreements and other arrangements with States when possible. Subject to chapter 23 22 See References in Text note below. of title 14, the Secretary may make available, on request of a State, the services of members of the Coast Guard Auxiliary to assist the State in promoting boating safety on State waters.
 
 **(c)** The Secretary may prescribe regulations to carry out this chapter.
 
@@ -540,82 +542,24 @@ Section 13109 authorizes the Secretary to consult with State and local governmen
 
 This section also authorizes the Secretary to advise and assist the States and other public and private agencies in the planning and carrying out of their boating safety and facilities improvement programs.
 
+#### References in Text
+Chapter 23 of title 14, referred to in subsec. (b), was comprised of sections 821 to 832 prior to the renumbering of such sections as sections 3901 to 3913, respectively, of title 14 by Pub. L. 115–282, title I, § 119(b), Dec. 4, 2018, 132 Stat. 4236. After renumbering, such sections now comprise chapter 39 of Title 14.
+
 #### Amendments
 1984—Subsec. (a). Pub. L. 98–369 struck out “and facilities improvement” after “boating safety”.
 
 Subsec. (b). Pub. L. 98–369 struck out “and facilities improvement” after “and carrying out boating safety”.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) redesignated [section 701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) by Pub. L. 115–282, title I, § 106(b), Dec. 4, 2018, 132 Stat. 4203, and references to [section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under [section 13101 of this title](./chapter-131-recreational-boating-safety.md#section-13101).
 
 
 <a id="section-13110"></a>
-## § 13110. National Boating Safety Advisory Council
-**(a)** The Secretary shall establish a National Boating Safety Advisory Council. The Council shall consist of 21 members appointed by the Secretary, whom the Secretary considers to have a particular expertise, knowledge, and experience in recreational boating safety.
-
-**(b)**
-
-(1) The membership of the Council shall consist of—
-
-  (A) 7 representatives of State officials responsible for State boating safety programs;
-
-  (B) 7 representatives of recreational vessel manufacturers and associated equipment manufacturers; and
-
-  (C) 7 representatives of national recreational boating organizations and from the general public, at least 5 of whom shall be representatives of national recreational boating organizations.
-
-(2) Additional individuals from the sources referred to in paragraph (1) of this subsection may be appointed to panels of the Council to assist the Council in performing its duties.
-
-(3) At least once a year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Council.
-
-**(c)** In addition to the consultation required by [section 4302 of this title](./chapter-043-recreational-vessels.md#section-4302), the Secretary shall consult with the Council on other major boating safety matters related to this chapter. The Council may make available to Congress information, advice, and recommendations that the Council is authorized to give to the Secretary.
-
-**(d)** When serving away from home or regular place of business, the member may be allowed travel expenses, including per diem in lieu of subsistence as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for individuals employed intermittently in the Government service. A payment under this section does not make a member of the Council an officer or employee of the United States Government for any purpose.
-
-**(e)** The Council shall terminate on September 30, 2020.
+## § 13110. Repealed. Pub. L. 115–282, title VI, § 601(c)(4)(A), Dec. 4, 2018, 132 Stat. 4289]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |
-| --- | --- |
-| Revised section | Source section (U.S. Code) |
-| 13110 | 46:1482 |
-
-Section 13110 establishes the National Boating Safety Advisory Council, the membership of the council, and compensation for individuals serving on the council. This council is to be established consistent with the Federal Advisory Committee Act (P.L. 92–463; 5 U.S.C. App.).
-
-#### Amendments
-2010—Subsec. (d). Pub. L. 111–281, § 621(b)(1), struck out first sentence which read: “When attending meetings of the Council, a member of the Council or a panel may be paid at a rate not more than the rate for GS–18.”
-
-Subsec. (e). Pub. L. 111–281, § 621(b)(2), substituted “September 30, 2020” for “September 30, 2010”.
-
-2004—Subsec. (e). Pub. L. 108–293 substituted “September 30, 2010” for “September 30, 2005”.
-
-2002—Subsec. (e). Pub. L. 107–295 substituted “September 30, 2005” for “September 30, 2000”.
-
-1996—Subsec. (e). Pub. L. 104–324 substituted “2000” for “1996”.
-
-1991—Subsec. (e). Pub. L. 102–241 substituted “1996” for “1991”.
-
-1988—Subsec. (b)(1). Pub. L. 100–448 substituted “representatives of” for “members from” wherever appearing.
-
-1986—Subsec. (a). Pub. L. 99–626, § 3(b)(1), struck out “not more than” before “21 members” and inserted “recreational” after “experience in”.
-
-Subsec. (b)(1). Pub. L. 99–626, § 3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Insofar as practical and to ensure balanced representation, the Secretary shall appoint members equally from—
-
-“(A) State officials responsible for State boating safety programs;
-
-“(B) recreational vessel manufacturers; and
-
-“(C) boating organizations and members of the general public.”
-
-Subsec. (e). Pub. L. 99–626, § 3(a)(1), added subsec. (e).
-
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
-
-#### Implementation of 1988 Amendment
-Pub. L. 100–448, § 20(b), Sept. 28, 1988, 102 Stat. 1846, provided that: “The Secretary of the department in which the Coast Guard is operating shall carry out the amendments made by subsection (a) [amending this section] as vacancies in the membership of the National Boating Safety Advisory Council occur.”
-
-[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
-
-#### Implementation of 1986 Amendment
-Pub. L. 99–626, § 3(b)(3), Nov. 7, 1986, 100 Stat. 3505, provided that: “The Secretary of Transportation shall carry out the amendments made by paragraph (2) [amending this section] as vacancies in the membership of the National Boating Safety Advisory Council occur.”
+Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 598; Pub. L. 99–626, § 3(a)(1), (b)(1), (2), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 100–448, § 20(a), Sept. 28, 1988, 102 Stat. 1846; Pub. L. 102–241, § 24, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, § 304(f), Oct. 19, 1996, 110 Stat. 3918; Pub. L. 107–295, title III, § 335, Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, § 418(f), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 111–281, title VI, § 621(b), Oct. 15, 2010, 124 Stat. 2976, established the National Boating Safety Advisory Council. See [section 15105 of this title](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15105).

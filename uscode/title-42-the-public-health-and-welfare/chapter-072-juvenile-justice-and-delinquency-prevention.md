@@ -487,7 +487,7 @@ Section 5752 was editorially reclassified as [section 11281 of Title 34](https:/
 Section 5701 was editorially reclassified as [section 11201 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11201&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Report on Promising Strategies to End Youth Homelessness
-Pub. L. 108–96, title I, § 118, Oct. 10, 2003, 117 Stat. 1170, provided thatnot later than 2 years after Oct. 10, 2003, the Secretary of Health and Human Services, in consultation with the United States Interagency Council on Homelessness, was to submit to the Congress a report on promising strategies to end youth homelessness.
+Pub. L. 108–96, title I, § 118, Oct. 10, 2003, 117 Stat. 1170, provided that, not later than 2 years after Oct. 10, 2003, the Secretary of Health and Human Services, in consultation with the United States Interagency Council on Homelessness, was to submit to the Congress a report on promising strategies to end youth homelessness.
 
 
 <a id="section-5712"></a>
@@ -887,14 +887,14 @@ Section 5783 was editorially reclassified as [section 11313 of Title 34](https:/
 
 
 <a id="section-5784"></a>
-## § 5784. Omitted
+## § 5784. Repealed. Pub. L. 115–385, title IV, § 402(c)(2), Dec. 21, 2018, 132 Stat. 5160
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 93–415, title V, § 505, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 189, which authorized appropriations for fiscal years 2004 to 2008, was omitted as obsolete.
+Section, Pub. L. 93–415, title V, § 506, formerly § 505, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1896; renumbered § 506, Pub. L. 115–385, title III, § 305, Dec. 21, 2018, 132 Stat. 5150, authorized appropriations for fiscal years 2004 to 2008.
 
-Another section 505 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended [section 5035 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5035&num=0&edition=prelim), Crimes and Criminal Procedure.
+#### Codification
+Pub. L. 115–385, § 402(c)(2), which directed the repeal of section 505 of Pub. L. 93–415, was executed by repealing this section, which was section 506 of Pub. L. 93–415, to reflect the probable intent of Congress and the renumbering of this section from section 505 to section 506 of the Act by section 305 of Pub. L. 115–385. A new section 505 of Pub. L. 93–415 was enacted by Pub. L. 115–385 and is classified to [section 11314 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11314&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Prior Provisions
 A prior section 5784, Pub. L. 93–415, title V, § 505, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5028; amended Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(F)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76, related to grants for prevention programs, prior to the general amendment of this subchapter by Pub. L. 107–273.

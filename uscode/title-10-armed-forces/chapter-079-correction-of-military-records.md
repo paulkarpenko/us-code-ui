@@ -2,7 +2,7 @@
 title: 10
 chapter: '79'
 heading: CORRECTION OF MILITARY RECORDS
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -77,15 +77,27 @@ Pub. L. 105–261, div. A, title V, § 541, Oct. 17, 1998, 112 Stat. 2019, provi
 
 **(g)** Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
 
-**(h)** Each board established under this section shall make available to the public each calender quarter, on an Internet website of the military department concerned or the Department of Homeland Security, as applicable, that is available to the public the following:
+**(h)**
 
-(1) The number of claims considered by such board during the calendar quarter preceding the calender quarter in which such information is made available, including cases in which a mental health condition of the claimant, including post-traumatic stress disorder or traumatic brain injury, is alleged to have contributed, whether in whole or part, to the original characterization of the discharge or release of the claimant.
+(1) This subsection applies to a former member of the armed forces whose claim under this section for review of a discharge or dismissal is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale, or as justification for priority consideration, and whose post-traumatic stress disorder or traumatic brain injury is related to combat or military sexual trauma, as determined by the Secretary concerned.
 
-(2) The number of claims submitted during the calendar quarter preceding the calender quarter in which such information is made available that relate to service by a claimant during a war or contingency operation, catalogued by each war or contingency operation.
+(2) In the case of a claimant described in paragraph (1), a board established under subsection (a)(1) shall—
 
-(3) The number of military records corrected pursuant to the consideration described in paragraph (1) to upgrade the characterization of discharge or release of claimants.
+  (A) review medical evidence of the Secretary of Veterans Affairs or a civilian health care provider that is presented by the claimant; and
 
-**(i)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
+  (B) review the claim with liberal consideration to the claimant that post-traumatic stress disorder or traumatic brain injury potentially contributed to the circumstances resulting in the discharge or dismissal or to the original characterization of the claimant’s discharge or dismissal.
+
+**(i)** Each board established under this section shall make available to the public each calendar quarter, on an Internet website of the military department concerned or the Department of Homeland Security, as applicable, that is available to the public the following:
+
+(1) The number of claims considered by such board during the calendar quarter preceding the calendar quarter in which such information is made available, including cases in which a mental health condition of the former member, including post-traumatic stress disorder or traumatic brain injury, is alleged to have contributed, whether in whole or part, to the original characterization of the discharge or release of the former member.
+
+(2) The number of claims submitted during the calendar quarter preceding the calendar quarter in which such information is made available that relate to service by a former member during a war or contingency operation, catalogued by each war or contingency operation.
+
+(3) The number of military records corrected pursuant to the consideration described in paragraph (1) to upgrade the characterization of discharge or release of former members.
+
+(4) The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
+
+**(j)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
 
 ### Statutory Notes
 
@@ -118,6 +130,24 @@ In subsection (e), the words “No payment may be made under this section” are
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+2018—Subsec. (j). Pub. L. 115–232 substituted “chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947” for “chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873”.
+
+2017—Subsec. (h). Pub. L. 115–91, § 520(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 115–91, § 1081(a)(27), substituted “calendar” for “calender” wherever appearing.
+
+Pub. L. 115–91, § 520(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (i)(1). Pub. L. 115–91, § 521(c)(1)(A), substituted “former member” for “claimant” in two places.
+
+Subsec. (i)(2). Pub. L. 115–91, § 521(c)(1)(B), substituted “former member” for “claimant”.
+
+Subsec. (i)(3). Pub. L. 115–91, § 521(c)(1)(C), substituted “former members” for “claimants”.
+
+Subsec. (i)(4). Pub. L. 115–91, § 521(a), added par. (4).
+
+Subsec. (j). Pub. L. 115–91, § 520(a)(1), redesignated subsec. (i) as (j).
+
 2016—Subsec. (a)(3). Pub. L. 114–328, § 534(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
 Subsec. (a)(5). Pub. L. 114–328, § 534(b), added par. (5).
@@ -154,6 +184,9 @@ Subsec. (c). Pub. L. 100–456, § 1233(a)(2), substituted “The Secretary conc
 
 1960—Subsec. (f). Pub. L. 86–533 repealed subsec. (f) which required reports to the Congress every six months with respect to claims paid under this section.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–417, [div. A], title V, § 592(c), Oct. 14, 2008, 122 Stat. 4475, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any sentence of a court-martial set aside by a Corrections Board on or after October 1, 2007, when the Corrections Board includes an order or recommendation for the payment of a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, that arose as a result of the conviction. In this subsection, the term ‘Corrections Board’ has the meaning given that term in [section 1557 of title 10](./chapter-079-correction-of-military-records.md#section-1557), United States Code.”
 
@@ -163,8 +196,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Pilot Program on Use of Video Teleconferencing Technology by Boards for the Correction of Military Records and Discharge Review Boards
+Pub. L. 115–91, div. A, title V, § 524, Dec. 12, 2017, 131 Stat. 1381, provided that: “(a) Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program under which boards for the correction of military records established under [section 1552 of title 10](./chapter-079-correction-of-military-records.md#section-1552), United States Code, and discharge review boards established under section 1553 of such title are authorized to utilize, in the performance of their duties, video teleconferencing technology, to the extent such technology is reasonably available and technically feasible. “(b) Purpose.—The purpose of the pilot program is to evaluate the feasibility and cost-effectiveness of utilizing video teleconferencing technology to allow persons who raise a claim before a board for the correction of military records, persons who request a review by a discharge review board, and witnesses who present evidence to such a board to appear before such a board without being physically present. “(c) Implementation.—As part of the pilot program, the Secretary of Defense shall make funds available to develop the capabilities of boards for the correction of military records and discharge review boards to effectively use video teleconferencing technology. “(d) No Expansion of Eligibility.—Nothing in the pilot program is intended to alter the eligibility criteria of persons who may raise a claim before a board for the correction of military records, request a review by a discharge review board, or present evidence to such a board. “(e) Termination.—The authority of the Secretary of Defense to carry out the pilot program shall terminate on December 31, 2020.”
+
 #### Training of Members of Boards
-Pub. L. 114–328, div. A, title V, § 534(c), Dec. 23, 2016, 130 Stat. 2122, provided that: “(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], each Secretary concerned shall develop and implement a comprehensive training curriculum for members of boards for the correction of military records under the jurisdiction of such Secretary in the duties of such boards under [section 1552 of title 10](./chapter-079-correction-of-military-records.md#section-1552), United States Code. The curriculum shall address all areas of administrative law applicable to the duties of such boards. “(2) Uniform curricula.—The Secretary of Defense and the Secretary of Homeland Security shall jointly ensure that the curricula developed and implemented pursuant to this subsection are, to the extent practicable, uniform. “(3) Training.—“(A) In general.—Each member of a board for the correction of military records shall undergo retraining (consistent with the curriculum developed and implemented pursuant to this subsection) regarding the duties of boards for the correction of military records under [section 1552 of title 10](./chapter-079-correction-of-military-records.md#section-1552), United States Code, at least once every five years during the member’s tenure on the board. “(B) Current members.—Each member of a board for the correction of military records as of the date of the implementation of the curriculum required by paragraph (1) (in this paragraph referred to as the ‘curriculum implementation date’) shall undergo training described in subparagraph (A) not later than 90 days after the curriculum implementation date. “(C) New members.—Each individual who becomes a member of a board for the correction of military records after the curriculum implementation date shall undergo training described in subparagraph (A) by not later than 90 days after the date on which such individual becomes a member of the board. “(4) Reports.—Not later than 18 months after the date of the enactment of this Act [Dec. 23, 2016], each Secretary concerned shall submit to Congress a report setting forth the following:“(A) A description and assessment of the progress made by such Secretary in implementing training requirements for members of boards for the correction of military records under the jurisdiction of such Secretary. “(B) A detailed description of the training curriculum required of such Secretary by paragraph (1). “(C) A description and assessment of any impediments to the implementation of training requirements for members of boards for the correction of military records under the jurisdiction of such Secretary. “(5) Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ means a ‘Secretary concerned’ as that term is used in [section 1552 of title 10](./chapter-079-correction-of-military-records.md#section-1552), United States Code.”
+Pub. L. 114–328, div. A, title V, § 534(c), Dec. 23, 2016, 130 Stat. 2122, as amended by Pub. L. 115–91, div. A, title V, § 523(a), Dec. 12, 2017, 131 Stat. 1381, provided that: “(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], each Secretary concerned shall develop and implement a comprehensive training curriculum for members of boards for the correction of military records under the jurisdiction of such Secretary in the duties of such boards under [section 1552 of title 10](./chapter-079-correction-of-military-records.md#section-1552), United States Code. The curriculum shall address all areas of administrative law applicable to the duties of such boards. This curriculum shall also address the proper handling of claims in which a sex-related offense is alleged to have contributed to the original characterization of the discharge or release of the claimant, including guidelines for the consideration of evidence substantiating such allegations in accordance with the requirements of [section 1554b(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1554b/b&num=0&edition=prelim), United States Code, as added by section 522 of the National Defense Authorization Act for Fiscal Year 2018 [Pub. L. 115–91]. “(2) Uniform curricula.—The Secretary of Defense and the Secretary of Homeland Security shall jointly ensure that the curricula developed and implemented pursuant to this subsection are, to the extent practicable, uniform. “(3) Training.—“(A) In general.—Each member of a board for the correction of military records shall undergo retraining (consistent with the curriculum developed and implemented pursuant to this subsection) regarding the duties of boards for the correction of military records under [section 1552 of title 10](./chapter-079-correction-of-military-records.md#section-1552), United States Code, at least once every five years during the member’s tenure on the board. “(B) Current members.—Each member of a board for the correction of military records as of the date of the implementation of the curriculum required by paragraph (1) (in this paragraph referred to as the ‘curriculum implementation date’) shall undergo training described in subparagraph (A) not later than 90 days after the curriculum implementation date. “(C) New members.—Each individual who becomes a member of a board for the correction of military records after the curriculum implementation date shall undergo training described in subparagraph (A) by not later than 90 days after the date on which such individual becomes a member of the board. “(4) Reports.—Not later than 18 months after the date of the enactment of this Act [Dec. 23, 2016], each Secretary concerned shall submit to Congress a report setting forth the following:“(A) A description and assessment of the progress made by such Secretary in implementing training requirements for members of boards for the correction of military records under the jurisdiction of such Secretary. “(B) A detailed description of the training curriculum required of such Secretary by paragraph (1). “(C) A description and assessment of any impediments to the implementation of training requirements for members of boards for the correction of military records under the jurisdiction of such Secretary. “(5) Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ means a ‘Secretary concerned’ as that term is used in [section 1552 of title 10](./chapter-079-correction-of-military-records.md#section-1552), United States Code.”
 
 #### Board for Correction of Military Records
 Pub. L. 101–225, title II, § 212, Dec. 12, 1989, 103 Stat. 1914, provided that: “Not later than 6 months after the date of the enactment of this Act [Dec. 12, 1989], the Secretary of Transportation shall— “(1) amend part 52 of title 33, Code of Federal Regulations, governing the proceedings of the board established by the Secretary under [section 1552 of title 10](./chapter-079-correction-of-military-records.md#section-1552), United States Code, to ensure that a complete application for correction of military records is processed expeditiously and that final action on the application is taken within 10 months of its receipt; and “(2) appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve as members of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
@@ -190,19 +226,21 @@ Pub. L. 101–225, title II, § 212, Dec. 12, 1989, 103 Stat. 1914, provided tha
 
     (i) review medical evidence of the Secretary of Veterans Affairs or a civilian health care provider that is presented by the former member; and
 
-    (ii) review the case with liberal consideration to the former member that post-traumatic stress disorder or traumatic brain injury potentially contributed to the circumstances resulting in the discharge of a lesser characterization.
+    (ii) review the case with liberal consideration to the former member that post-traumatic stress disorder or traumatic brain injury potentially contributed to the circumstances resulting in the discharge or dismissal or to the original characterization of the member’s discharge or dismissal.
 
   (B) A former member described in this subparagraph is a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale, or as justification for priority consideration, whose post-traumatic stress disorder or traumatic brain injury is related to combat or military sexual trauma, as determined by the Secretary concerned.
 
 **(e)** In the case of a former member of the armed forces (other than a former member covered by subsection (d)) who was diagnosed while serving in the armed forces as experiencing a mental health disorder, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with special training on mental health disorders.
 
-**(f)** Each board established under this section shall make available to the public each calender quarter, on an Internet website of the military department concerned or the Department of Homeland Security, as applicable, that is available to the public the following:
+**(f)** Each board established under this section shall make available to the public each calendar quarter, on an Internet website of the military department concerned or the Department of Homeland Security, as applicable, that is available to the public the following:
 
-(1) The number of motions or requests for review considered by such board during the calendar quarter preceding the calender quarter in which such information is made available, including cases in which a mental health condition of the former member, including post-traumatic stress disorder or traumatic brain injury, is alleged to have contributed, whether in whole or part, to the original characterization of the discharge or dismissal of the former member.
+(1) The number of motions or requests for review considered by such board during the calendar quarter preceding the calendar quarter in which such information is made available, including cases in which a mental health condition of the former member, including post-traumatic stress disorder or traumatic brain injury, is alleged to have contributed, whether in whole or part, to the original characterization of the discharge or dismissal of the former member.
 
-(2) The number of claims submitted during the calendar quarter preceding the calender quarter in which such information is made available that relate to service by a claimant during a war or contingency operation, catalogued by each war or contingency operation.
+(2) The number of claims submitted during the calendar quarter preceding the calendar quarter in which such information is made available that relate to service by a former member during a war or contingency operation, catalogued by each war or contingency operation.
 
 (3) The number of discharges or dismissals corrected pursuant to the consideration described in paragraph (1) to upgrade the characterization of discharge or dismissal of former members.
+
+(4) The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
 
 ### Statutory Notes
 
@@ -213,6 +251,14 @@ Sections 1553 and 1554 are restated, without substantive change, to conform to t
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (a), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+2017—Subsec. (d)(3)(A)(ii). Pub. L. 115–91, § 520(b), substituted “discharge or dismissal or to the original characterization of the member’s discharge or dismissal” for “discharge of a lesser characterization”.
+
+Subsec. (f). Pub. L. 115–91, § 1081(a)(28), substituted “calendar” for “calender” wherever appearing.
+
+Subsec. (f)(2). Pub. L. 115–91, § 521(c)(2), substituted “former member” for “claimant”.
+
+Subsec. (f)(4). Pub. L. 115–91, § 521(b), added par. (4).
+
 2016—Subsec. (d)(3). Pub. L. 114–328, § 535, added par. (3).
 
 Subsec. (f). Pub. L. 114–328, § 533(b), added subsec. (f).
@@ -233,7 +279,7 @@ Subsec. (e). Pub. L. 113–291, § 521(b)(2), added subsec. (e).
 Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
 
 #### Confidential Review of Characterization of Terms of Discharge of Members of the Armed Forces Who Are Victims of Sexual Offenses
-Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, provided that: “(a) Confidential Review Process Through Boards for Correction of Military Records.—The Secretaries of the military departments shall each establish a confidential process, utilizing boards for the correction of military records of the military department concerned, by which an individual who was the victim of a sex-related offense during service in the Armed Forces may challenge the terms or characterization of the discharge or separation of the individual from the Armed Forces on the grounds that the terms or characterization were adversely affected by the individual being the victim of such an offense. “(b) Consideration of Individual Experiences in Connection With Offenses.—In deciding whether to modify the terms or characterization of the discharge or separation from the Armed Forces of an individual described in subsection (a), the Secretary of the military department concerned shall instruct boards for the correction of military records—“(1) to give due consideration to the psychological and physical aspects of the individual’s experience in connection with the sex-related offense; and “(2) to determine what bearing such experience may have had on the circumstances surrounding the individual’s discharge or separation from the Armed Forces. “(c) Preservation of Confidentiality.—Documents considered and decisions rendered pursuant to the process required by subsection (a) shall not be made available to the public, except with the consent of the individual concerned. “(d) Sex-related Offense Defined.—In this section, the term ‘sex-related offense’ means any of the following:“(1) Rape or sexual assault under subsection (a) or (b) of [section 920 of title 10](./chapter-047-uniform-code-of-military-justice.md#section-920), United States Code (article 120 of the Uniform Code of Military Justice). “(2) Forcible sodomy under section 925 of such title (article 125 of the Uniform Code of Military Justice). “(3) An attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of such title (article 80 of the Uniform Code of Military Justice).”
+Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, which related to review process for correction of military records, consideration of individual experiences in connection with offenses, and preservation of confidentiality, was repealed by Pub. L. 115–91, div. A, title V, § 522(a)(3), Dec. 12, 2017, 131 Stat. 1380. See [section 1554b of this title](./chapter-079-correction-of-military-records.md#section-1554b).
 
 
 <a id="section-1554"></a>
@@ -317,6 +363,49 @@ For transfer of functions of Public Health Service, see note set out under [sect
 
 #### Implementation
 Pub. L. 110–181, div. A, title XVI, § 1643(b), Jan. 28, 2008, 122 Stat. 467, provided that: “The Secretary of Defense shall establish the board of review required by [section 1554a of title 10](./chapter-079-correction-of-military-records.md#section-1554a), United States Code (as added by subsection (a)), and prescribe the regulations required by such section, not later than 90 days after the date of the enactment of this Act [Jan. 28, 2008].”
+
+
+<a id="section-1554b"></a>
+## § 1554b. Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses
+**(a) Confidential Review Process Through Boards for Correction of Military Records.—** The Secretaries of the military departments shall each establish a confidential process, utilizing boards of the military department concerned established in accordance with this chapter, by which an individual who was the victim of a sex-related offense, or alleges that the individual was the victim of a sex-related offense, during service in the armed forces may challenge the terms or characterization of the discharge or separation of the individual from the armed forces on the grounds that the terms or characterization were adversely affected by the individual being the victim of a sex-related offense.
+
+**(b) Consideration of Individual Experiences in Connection With Offenses.—** In deciding whether to modify the terms or characterization of the discharge or separation from the armed forces of an individual described in subsection (a), the Secretary of the military department concerned shall instruct boards of the military department concerned established in accordance with this chapter—
+
+(1) to give due consideration to the psychological and physical aspects of the individual’s experience in connection with the sex-related offense; and
+
+(2) to determine what bearing such experience may have had on the circumstances surrounding the individual’s discharge or separation from the armed forces.
+
+**(c) Preservation of Confidentiality.—** Documents considered and decisions rendered pursuant to the process required by subsection (a) shall not be made available to the public, except with the consent of the individual concerned.
+
+**(d) Sex-related Offense Defined.—** In this section, the term “sex-related offense” means any of the following:
+
+(1) Rape or sexual assault under subsection (a) or (b) of [section 920 of this title](./chapter-047-uniform-code-of-military-justice.md#section-920) (article 120 of the Uniform Code of Military Justice).
+
+(2) Forcible sodomy under [section 925 of this title](./chapter-047-uniform-code-of-military-justice.md#section-925) (article 125 of the Uniform Code of Military Justice).
+
+(3) An attempt to commit an offense specified in paragraph (1) or (2) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80 of the Uniform Code of Military Justice).
+
+### Statutory Notes
+
+#### Codification
+Text of section, as added by Pub. L. 115–91, is based on text of Pub. L. 113–291, div. A, title V, § 547, Dec. 19, 2014, 128 Stat. 3375, which was formerly set out in a note under [section 1553 of this title](./chapter-079-correction-of-military-records.md#section-1553) before being transferred to this chapter and designated as the text of this section.
+
+#### Amendments
+2017—Pub. L. 115–91, § 522(a)(1), inserted section enumerator and catchline and transferred text of section 547 of Pub. L. 113–291 to this section. See Codification note above.
+
+Subsec. (a). Pub. L. 115–91, § 522(c)(2), substituted “boards of the military department concerned established in accordance with this chapter” for “boards for the correction of military records of the military department concerned” and “being the victim of a sex-related offense” for “being the victim of such an offense”.
+
+Pub. L. 115–91, § 522(c)(1), substituted “armed forces” for “Armed Forces” in two places.
+
+Pub. L. 115–91, § 522(b), substituted “who was the victim of a sex-related offense, or alleges that the individual was the victim of a sex-related offense,” for “who was the victim of a sex-related offense”.
+
+Subsec. (b). Pub. L. 115–91, § 522(c)(3), substituted “boards of the military department concerned established in accordance with this chapter” for “boards for the correction of military records” in introductory provisions.
+
+Pub. L. 115–91, § 522(c)(1), substituted “armed forces” for “Armed Forces” in two places.
+
+Subsec. (d)(1). Pub. L. 115–91, § 522(c)(4)(B), substituted “this title” for “title 10, United States Code”.
+
+Subsec. (d)(2), (3). Pub. L. 115–91, § 522(c)(4)(C), substituted “this title” for “such title”.
 
 
 <a id="section-1555"></a>

@@ -155,17 +155,30 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
+
 
 <a id="section-2000ff-10"></a>
 ## § 2000ff–10. Regulations
 
 Not later than 1 year after May 21, 2008, the Commission shall issue final regulations to carry out this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
+
 
 <a id="section-2000ff-11"></a>
 ## § 2000ff–11. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this chapter (except for [section 2000ff–7 of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff-7)).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
 
 
 <a id="section-2000ff-2"></a>
@@ -227,6 +240,9 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
+
 
 <a id="section-2000ff-3"></a>
 ## § 2000ff–3. Labor organization practices
@@ -286,6 +302,9 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(5)(D)
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which is classified principally to chapter 22 (§ 801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section801&num=0&edition=prelim) and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
 
 
 <a id="section-2000ff-4"></a>
@@ -349,6 +368,9 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
+
 
 <a id="section-2000ff-5"></a>
 ## § 2000ff–5. Confidentiality of genetic information
@@ -382,6 +404,9 @@ The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 
 The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c), is section 264 of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of this title](./chapter-007-social-security.md#section-1320d-2).
+
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
 
 
 <a id="section-2000ff-6"></a>
@@ -441,6 +466,9 @@ The Government Employee Rights Act of 1991, referred to in subsec. (b), is title
 
 The Congressional Accountability Act of 1995, referred to in subsec. (c)(1), (4), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of Title 2, The Congress. Title III of the Act is classified generally to subchapter III (§ 1381 et seq.) of chapter 24 of Title 2. For complete classification of this Act to the Code, see Short Title note under [section 1301 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301&num=0&edition=prelim) and Tables.
 
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
+
 
 <a id="section-2000ff-7"></a>
 ## § 2000ff–7. Disparate impact
@@ -493,6 +521,9 @@ This Act, referred to in subsecs. (a), (b), and (e), is Pub. L. 110–233, May 2
 
 #### Change of Name
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
 
 
 <a id="section-2000ff-8"></a>
@@ -564,8 +595,16 @@ Section 2701 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(
 
 Section 2702 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(iii)(II), (III), is section 2702 of act July 1, 1944, which was classified to [section 300gg–1 of this title](./chapter-6a-public-health-service.md#section-300gg-1), was amended by Pub. L. 111–148, title I, § 1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4), effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, § 1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title](./chapter-6a-public-health-service.md#section-300gg-1).
 
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
+
 
 <a id="section-2000ff-9"></a>
 ## § 2000ff–9. Medical information that is not genetic information
 
 An employer, employment agency, labor organization, or joint labor-management committee shall not be considered to be in violation of this chapter based on the use, acquisition, or disclosure of medical information that is not genetic information about a manifested disease, disorder, or pathological condition of an employee or member, including a manifested disease, disorder, or pathological condition that has or may have a genetic basis.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).

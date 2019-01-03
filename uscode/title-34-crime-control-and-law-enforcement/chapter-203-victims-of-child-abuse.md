@@ -2,7 +2,7 @@
 title: 34
 chapter: '203'
 heading: VICTIMS OF CHILD ABUSE
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -11,7 +11,7 @@ source: >-
 
 The Congress finds that—
 
-(1) over 2,000,000 reports of suspected child abuse and neglect are made each year, and drug abuse is associated with a significant portion of these;
+(1) over 3,300,000 reports of suspected child abuse and neglect are made each year, and drug abuse is associated with a significant portion of these;
 
 (2) the investigation and prosecution of child abuse cases is extremely complex, involving numerous agencies and dozens of personnel;
 
@@ -21,9 +21,15 @@ The Congress finds that—
 
 (5) there is a national need to enhance coordination among community agencies and professionals involved in the intervention system;
 
-(6) multidisciplinary child abuse investigation and prosecution programs have been developed that increase the reporting of child abuse cases, reduce the trauma to the child victim, and increase the successful prosecution of child abuse offenders; and
+(6) multidisciplinary child abuse investigation and prosecution programs have been developed that increase the reporting of child abuse cases, reduce the trauma to the child victim, improve positive outcomes for the child, and increase the successful prosecution of child abuse offenders;
 
-(7) such programs have proven effective, and with targeted Federal assistance, could be duplicated in many jurisdictions throughout the country.
+(7) such programs have proven effective, and with targeted Federal assistance, have expanded dramatically throughout the United States; and
+
+(8) State chapters of children’s advocacy center networks are needed to—
+
+  (A) assist local communities in coordinating their multidisciplinary child abuse investigation, prosecution, and intervention services; and
+
+  (B) provide oversight of, and training and technical assistance in, the effective delivery of evidence-informed programming.
 
 ### Statutory Notes
 
@@ -31,6 +37,14 @@ The Congress finds that—
 Section was formerly classified to [section 13001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13001&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2019—Par. (1). Pub. L. 115–424, § 2(a)(1), substituted “3,300,000” for “2,000,000”.
+
+Par. (6). Pub. L. 115–424, § 2(a)(2), inserted “improve positive outcomes for the child,” before “and increase” and substituted semicolon for “; and” at end.
+
+Par. (7). Pub. L. 115–424, § 2(a)(3), substituted “have expanded dramatically throughout the United States; and” for “could be duplicated in many jurisdictions throughout the country.”.
+
+Par. (8). Pub. L. 115–424, § 2(a)(4), added par. (8).
+
 1992—Pars. (3) to (7). Pub. L. 102–586 added pars. (3) and (5) and redesignated former pars. (3), (4), and (5) as (4), (6), and (7), respectively.
 
 
@@ -43,19 +57,17 @@ For purposes of this subchapter—
 
 (2) the term “applicant” means a child protective service, law enforcement, legal, medical and mental health agency or other agency that responds to child abuse cases;
 
-(3) the term “board” means the Children’s Advocacy Advisory Board established under [section 20303(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20303/e&num=0&edition=prelim);
+(3) the term “census region” means 1 of the 4 census regions (northeast, south, midwest, and west) that are designated as census regions by the Bureau of the Census as of November 4, 1992;
 
-(4) the term “census region” means 1 of the 4 census regions (northeast, south, midwest, and west) that are designated as census regions by the Bureau of the Census as of November 4, 1992;
+(4) the term “child abuse” means physical or sexual abuse or neglect of a child, including human trafficking and the production of child pornography;
 
-(5) the term “child abuse” means physical or sexual abuse or neglect of a child, including human trafficking and the production of child pornography;
+(5) the term “multidisciplinary response to child abuse” means a response to child abuse that is based on mutually agreed upon procedures among the community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that best meets the needs of child victims and their nonoffending family members;
 
-(6) the term “Director” means the Director of the National Center on Child Abuse and Neglect;
+(6) the term “nonoffending family member” means a member of the family of a victim of child abuse other than a member who has been convicted or accused of committing an act of child abuse;
 
-(7) the term “multidisciplinary response to child abuse” means a response to child abuse that is based on mutually agreed upon procedures among the community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that best meets the needs of child victims and their nonoffending family members;
+(7) the term “regional children’s advocacy program” means the children’s advocacy program established under [section 20303(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20303/a&num=0&edition=prelim); and
 
-(8) the term “nonoffending family member” means a member of the family of a victim of child abuse other than a member who has been convicted or accused of committing an act of child abuse; and
-
-(9) the term “regional children’s advocacy program” means the children’s advocacy program established under [section 20303(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20303/a&num=0&edition=prelim).
+(8) the term “State chapter” means a membership organization that provides technical assistance, training, coordination, grant administration, oversight, and support to local children’s advocacy centers, multidisciplinary teams, and communities working to implement a multidisciplinary response to child abuse in the provision of evidence-informed initiatives, including mental health counseling, forensic interviewing, multidisciplinary team coordination, and victim advocacy.
 
 ### Statutory Notes
 
@@ -66,57 +78,71 @@ Section was formerly classified to [section 13001a of Title 42](https://uscode.h
 A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is classified to [section 20304 of this title](./chapter-203-victims-of-child-abuse.md#section-20304).
 
 #### Amendments
+2019—Par. (1). Pub. L. 115–424, § 2(h)(1), made technical amendment to reference in original act which appears in text as reference to [section 11111(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11111/b&num=0&edition=prelim).
+
+Pars. (3) to (9). Pub. L. 115–424, § 2(b), redesignated pars. (4), (5), and (7) to (9) as (3) to (7), respectively, added par. (8), and struck out former pars. (3) and (6) which defined the terms “board” and “Director”, respectively.
+
 2015—Par. (5). Pub. L. 114–22 inserted “, including human trafficking and the production of child pornography” before semicolon at end.
 
 
 <a id="section-20303"></a>
 ## § 20303. Regional children’s advocacy centers
-**(a) Establishment of regional children’s advocacy program** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall establish a children’s advocacy program to—
+**(a) Establishment of regional children’s advocacy program** The Administrator, in coordination with the Director of the Office of Victims of Crime, shall establish a children’s advocacy program to—
 
 (1) focus attention on child victims by assisting communities in developing child-focused, community-oriented, facility-based programs designed to improve the resources available to children and families;
 
-(2) provide support for nonoffending family members;
+(2) enhance coordination among community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases;
 
-(3) enhance coordination among community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases; and
+(3) train physicians and other health care and mental health care professionals, law enforcement officers, child protective service workers, forensic interviewers, prosecutors, and victim advocates, in the multidisciplinary approach to child abuse so that trained personnel will be available to provide support to community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases; and
 
-(4) train physicians and other health care and mental health care professionals in the multidisciplinary approach to child abuse so that trained medical personnel will be available to provide medical support to community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases.
+(4) collaborate with State chapters to provide training, technical assistance, coordination, and oversight to—
+
+  (A) local children’s advocacy centers; and
+
+  (B) communities that want to develop local children’s advocacy centers.
 
 **(b) Activities of regional children’s advocacy program**
 
-(1) **Administrator** — The Administrator, in coordination with the Director, shall—
+(1) **Administrator** — The Administrator shall—
 
-  (A) establish regional children’s advocacy program centers;
+  (A) establish regional children’s advocacy program centers; and
 
-  (B) fund existing regional centers with expertise in the prevention, judicial handling, and treatment of child abuse and neglect; and
-
-  (C) fund the establishment of freestanding facilities in multidisciplinary programs within communities that have yet to establish such facilities,
+  (B) fund existing regional centers with expertise in multidisciplinary team investigation, trauma-informed interventions, and evidence-informed treatment,
   for the purpose of enabling grant recipients to provide information, services, and technical assistance to aid communities in establishing multidisciplinary programs that respond to child abuse.
 
 (2) **Grant recipients** — A grant recipient under this section shall—
 
-  (A) assist communities—
+  (A) assist communities, local children’s advocacy centers, multidisciplinary teams, and State chapters—
 
-    (i) in developing a comprehensive, multidisciplinary response to child abuse that is designed to meet the needs of child victims and their families;
+    (i) in developing and expanding a comprehensive, multidisciplinary response to child abuse that is designed to meet the needs of child victims and their families;
 
-    (ii) in establishing a freestanding facility where interviews of and services for abused children can be provided;
+    (ii) in promoting the effective delivery of the evidence-informed Children’s Advocacy Model and the multidisciplinary response to child abuse, including best practices in—
 
-    (iii) in preventing or reducing trauma to children caused by multiple contacts with community professionals;
+      (I) organizational support and development;
 
-    (iv) in providing families with needed services and assisting them in regaining maximum functioning;
+      (II) programmatic evaluation; and
 
-    (v) in maintaining open communication and case coordination among community professionals and agencies involved in child protection efforts;
+      (III) financial oversight of Federal funding;
 
-    (vi) in coordinating and tracking investigative, preventive, prosecutorial, and treatment efforts;
+    (iii) in establishing child-friendly facilities for the investigation of, assessment of, and intervention in abuse;
 
-    (vii) in obtaining information useful for criminal and civil proceedings;
+    (iv) in preventing or reducing trauma to children caused by duplicative contacts with community professionals;
 
-    (viii) in holding offenders accountable through improved prosecution of child abuse cases;
+    (v) in providing families with needed services and assisting them in regaining maximum functioning;
 
-    (ix) in enhancing professional skills necessary to effectively respond to cases of child abuse through training; and
+    (vi) in maintaining open communication and case coordination among community professionals and agencies involved in child protection efforts;
 
-    (x) in enhancing community understanding of child abuse; and
+    (vii) in coordinating and tracking investigative, preventive, prosecutorial, and treatment efforts;
 
-  (B) provide training and technical assistance to local children’s advocacy centers in its census region that are grant recipients under [section 20304 of this title](./chapter-203-victims-of-child-abuse.md#section-20304).
+    (viii) in obtaining information useful for criminal and civil proceedings;
+
+    (ix) in holding offenders accountable through improved prosecution of child abuse cases;
+
+    (x) in enhancing professional skills necessary to effectively respond to cases of child abuse through training; and
+
+    (xi) in enhancing community understanding of child abuse; and
+
+  (B) provide training and technical assistance to local children’s advocacy centers and interested communities in its census region that are grant recipients under [section 20304 of this title](./chapter-203-victims-of-child-abuse.md#section-20304).
 
 **(c) Operation of regional children’s advocacy program**
 
@@ -128,7 +154,7 @@ A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is class
 
   (B) A facility where children who are victims of sexual or physical abuse and their nonoffending family members can go for the purpose of evaluation, intervention, evidence gathering, and counseling.
 
-  (C) Multidisciplinary staff experienced in providing remedial counseling to children and families.
+  (C) Multidisciplinary staff experienced in providing evidence-informed services for children and families.
 
   (D) Experience in serving as a center for training and education and as a resource facility.
 
@@ -140,7 +166,7 @@ A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is class
 
     (i) include a single or multiyear management plan that outlines how the applicant will provide information, services, and technical assistance to communities so that communities can establish multidisciplinary programs that respond to child abuse;
 
-    (ii) demonstrate the ability of the applicant to operate successfully a multidisciplinary child abuse program or provide training to allow others to do so; and
+    (ii) demonstrate the ability of the applicant to operate successfully a children’s advocacy center or provide training to allow others to do so; and
 
     (iii) state the annual cost of the proposal and a breakdown of those costs.
 
@@ -164,17 +190,15 @@ A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is class
 
   (A) *Competitive basis* — Proposals shall be selected under this section on a competitive basis.
 
-  (B) *Criteria* — The Administrator, in coordination with the Director, shall select proposals for funding that—
+  (B) *Criteria* — The Administrator shall select proposals for funding that—
 
     (i) best result in developing and establishing multidisciplinary programs that respond to child abuse by assisting, training, and teaching community agencies and professionals called upon to respond to child abuse cases;
 
     (ii) assist in resolving problems that may occur during the development, operation, and implementation of a multidisciplinary program that responds to child abuse;
 
-    (iii) carry out the objectives developed by the board under subsection (e)(2)(A);
+    (iii) to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country; and
 
-    (iv) to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country; and
-
-    (v) otherwise best carry out the purposes of this section.
+    (iv) otherwise best carry out the purposes of this section.
 
 (5) **Funding of program** — From amounts made available in separate appropriation Acts, the Administrator shall provide to each grant recipient the financial and technical assistance and other incentives that are necessary and appropriate to carry out this section.
 
@@ -182,51 +206,15 @@ A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is class
 
 **(d) Review**
 
-(1) **Evaluation of regional children’s advocacy program activities** — The Administrator, in coordination with the Director, shall regularly monitor and evaluate the activities of grant recipients and shall determine whether each grant recipient has complied with the original proposal and any modifications.
+(1) **Evaluation of regional children’s advocacy program activities** — The Administrator shall regularly monitor and evaluate the activities of grant recipients and shall determine whether each grant recipient has complied with the original proposal and any modifications.
 
-(2) **Annual report** — A grant recipient shall provide an annual report to the Administrator and the Director that—
+(2) **Annual report** — A grant recipient shall provide an annual report to the Administrator that—
 
   (A) describes the progress made in satisfying the purpose of the children’s advocacy program; and
 
   (B) states whether changes are needed and are being made to carry out the purpose of the children’s advocacy program.
 
-(3) **Discontinuation of funding**
-
-  (A) *Failure to implement program activities* — If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
-
-  (B) *Solicitation of new proposals* — Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
-
-**(e) Children’s advocacy advisory board**
-
-(1) **Establishment of board**
-
-  (A) *In general* — Not later than 120 days after November 4, 1992, the Administrator and the Director, after consulting with representatives of community agencies that respond to child abuse cases, shall establish a children’s advocacy advisory board to provide guidance and oversight in implementing the selection criteria and operation of the regional children’s advocacy program.
-
-  (B) *Membership*
-
-    (i) The board—
-
-      (I) shall be composed of 12 members who are selected by the Administrator, in coordination with the Director, a majority of whom shall be individuals experienced in the child abuse investigation, prosecution, prevention, and intervention systems;
-
-      (II) shall include at least 1 member from each of the 4 census regions; and
-
-      (III) shall have members appointed for a term not to exceed 3 years.
-
-    (ii) Members of the board may be reappointed for successive terms.
-
-(2) **Review and recommendations**
-
-  (A) *Objectives* — Not later than 180 days after November 4, 1992, and annually thereafter, the board shall develop and submit to the Administrator and the Director objectives for the implementation of the children’s advocacy program activities described in subsection (b).
-
-  (B) *Review* — The board shall annually—
-
-    (i) review the solicitation and selection of children’s advocacy program proposals and make recommendations concerning how each such activity can be altered so as to better achieve the purposes of this section; and
-
-    (ii) review the program activities and management plan of each grant recipient and report its findings and recommendations to the Administrator and the Director.
-
-(3) **Rules and regulations** — The board shall promulgate such rules and regulations as it deems necessary to carry out its duties under this section.
-
-**(f) Reporting** The Attorney General and the Secretary of Health and Human Services shall submit to Congress, by March 1 of each year, a detailed review of the progress of the regional children’s advocacy program activities.
+(3) **Discontinuation of funding** — Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
 
 ### Statutory Notes
 
@@ -237,6 +225,46 @@ Section was formerly classified to [section 13001b of Title 42](https://uscode.h
 A prior section 213 of Pub. L. 101–647 was renumbered section 214A and is classified to [section 20305 of this title](./chapter-203-victims-of-child-abuse.md#section-20305).
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 115–424, § 2(c)(1)(A), struck out “with the Director and” after “coordination” in introductory provisions.
+
+Subsec. (a)(2) to (4). Pub. L. 115–424, § 2(c)(1)(B)–(F), redesignated pars. (3) and (4) as (2) and (3), respectively, in par. (3) as redesignated, inserted “, law enforcement officers, child protective service workers, forensic interviewers, prosecutors, and victim advocates,” after “health care professionals” and struck out “medical” before “personnel” and “support”, added par. (4), and struck out former par. (2) which read as follows; “provide support for nonoffending family members;”.
+
+Subsec. (b)(1). Pub. L. 115–424, § 2(c)(2)(A)(i), struck out “, in coordination with the Director,” after “Administrator” in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 115–424, § 2(c)(2)(A)(iii), substituted “multidisciplinary team investigation, trauma-informed interventions, and evidence-informed treatment,” for “the prevention, judicial handling, and treatment of child abuse and neglect; and”.
+
+Subsec. (b)(1)(C). Pub. L. 115–424, § 2(c)(2)(A)(ii), (iv), struck out subpar. (C), which read as follows: “fund the establishment of freestanding facilities in multidisciplinary programs within communities that have yet to establish such facilities,”.
+
+Subsec. (b)(2)(A). Pub. L. 115–424, § 2(c)(2)(B)(i)(I), substituted “communities, local children’s advocacy centers, multidisciplinary teams, and State chapters” for “communities” in introductory provisions.
+
+Subsec. (b)(2)(A)(i). Pub. L. 115–424, § 2(c)(2)(B)(i)(II), inserted “and expanding” after “developing”.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 115–424, § 2(c)(2)(B)(i)(IV), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (b)(2)(A)(iii). Pub. L. 115–424, § 2(c)(2)(B)(i)(III), (V), redesignated cl. (ii) as cl. (iii) and substituted “child-friendly facilities for the investigation of, assessment of, and intervention in abuse” for “a freestanding facility where interviews of and services for abused children can be provided”. Former cl. (iii) redesignated (iv).
+
+Subsec. (b)(2)(A)(iv). Pub. L. 115–424, § 2(c)(2)(B)(i)(III), (VI), redesignated cl. (iii) as (iv) and substituted “duplicative” for “multiple”. Former cl. (iv) redesignated (v).
+
+Subsec. (b)(2)(A)(v) to (xi). Pub. L. 115–424, § 2(c)(2)(B)(i)(III), redesignated cls. (iv) to (x) as cls. (v) to (xi), respectively.
+
+Subsec. (b)(2)(B). Pub. L. 115–424, § 2(c)(2)(B)(ii), inserted “and interested communities” after “advocacy centers”.
+
+Subsec. (c)(2)(C). Pub. L. 115–424, § 2(c)(3)(A), substituted “evidence-informed services for” for “remedial counseling to”.
+
+Subsec. (c)(3)(A)(ii). Pub. L. 115–424, § 2(c)(3)(B), substituted “children’s advocacy center” for “multidisciplinary child abuse program”.
+
+Subsec. (c)(4)(B). Pub. L. 115–424, § 2(c)(3)(C)(i), struck out “, in coordination with the Director,” after “Administrator” in introductory provisions.
+
+Subsec. (c)(4)(B)(iii) to (v). Pub. L. 115–424, § 2(c)(3)(C)(ii), (iii), redesignated cls. (iv) and (v) as (iii) and (iv), respectively, and struck our cl. (iii), which read as follows: “carry out the objectives developed by the board under subsection (e)(2)(A);”.
+
+Subsec. (d)(1). Pub. L. 115–424, § 2(c)(4)(A), struck out “, in coordination with the Director,” after “Administrator”.
+
+Subsec. (d)(2). Pub. L. 115–424, § 2(c)(4)(B), struck out “and the Director” after “Administrator” in intoductory provisions.
+
+Subsec. (d)(3). Pub. L. 115–424, § 2(c)(4)(C), struck out subpar. (A) designation, heading and text and struck out subpar. (B) designation and heading “(B) Solicitation of new proposals”. Prior to amendment, subpar. (A) read as follows: “(A) Failure to implement program activities—If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.”
+
+Subsecs. (e), (f). Pub. L. 115–424, § 2(c)(5), struck out subsecs. (e) and (f) which related to the children’s advocacy advisory board and the reporting requirements detailing the progress of regional children’s advocacy program activities, respectively.
+
 2003—Subsec. (c)(4). Pub. L. 108–21, § 381(a)(1), struck out “and” at end of cl. (ii) of subpar. (B), substituted “board” for “Board” in cl. (iii) of subpar. (B), and redesignated subpars. (C) and (D) as cls. (iv) and (v), respectively, of subpar. (B).
 
 Subsec. (e)(1)(B)(ii), (2)(A), (3). Pub. L. 108–21, § 381(a)(2), substituted “board” for “Board”.
@@ -247,39 +275,43 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 <a id="section-20304"></a>
 ## § 20304. Local children’s advocacy centers
-**(a) In general** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs.
+**(a) In general** The Administrator, in coordination with the Director of the Office of Victims of Crime, shall make grants to—
 
-**(b) Direct services for victims of child pornography** The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of child pornography.
+(1) develop and enhance multidisciplinary child abuse investigations, intervention, and prosecution; and
+
+(2) promote the effective delivery of the evidence-informed Children’s Advocacy Model and the multidisciplinary response to child abuse, including best practices in programmatic evaluation and financial oversight of Federal funding.
+
+**(b) Direct services for child victims of a severe form of trafficking in persons and victims of human trafficking and child pornography** The Administrator, in coordination with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of a severe form of trafficking (as defined in [section 7102(9)(A) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9/A&num=0&edition=prelim) who were under the age of 18 at the time of the offense and victims of human trafficking and child pornography.
 
 **(c) Grant criteria**
 
-(1) The Director shall establish the criteria to be used in evaluating applications for grants under this section consistent with sections 11183 and 11186 of this title.
+(1) The Administrator shall establish the criteria to be used in evaluating applications for grants under subsections (a) and (b) consistent with sections 11183 and 11186 of this title.
 
 (2) In general, the grant criteria established pursuant to paragraph (1) may require that a program include any of the following elements:
 
-  (A) A written agreement between local law enforcement, social service, health, and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
+  (A) A written agreement between local law enforcement, child protective service, health, and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
 
-  (B) An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse and neglect and nonoffending family members (referred to as the “counseling center”).
+  (B) An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse and neglect and nonoffending family members (referred to as a “children’s advocacy center”).
 
-  (C) Referral of all sexual and serious physical abuse and neglect cases to the counseling center not later than 24 hours after notification of an incident of abuse.
+  (C) Referral of all child abuse cases that meet designated referral criteria to the children’s advocacy center not later than 24 hours after notification of an incident of abuse.
 
-  (D) Joint initial investigative interviews of child victims by personnel from law enforcement, health, and social service agencies.
+  (D) Joint initial forensic interviews of child victims by personnel from law enforcement, health, and child protective service agencies.
 
-  (E) A requirement that, to the extent practicable, the same agency representative who conducts an initial interview conduct all subsequent interviews.
+  (E) A requirement that, to the extent practicable, all interviews and meetings with a child victim occur at the children’s advocacy center or an agency with which there is a linkage agreement regarding the delivery of multidisciplinary child abuse investigation, prosecution, and intervention services.
 
-  (F) A requirement that, to the extent practicable, all interviews and meetings with a child victim occur at the counseling center.
+  (F) Coordination of each step of the investigation process to eliminate duplicative forensic interviews with a child victim.
 
-  (G) Coordination of each step of the investigation process to minimize the number of interviews that a child victim must attend.
+  (G) Designation of a director for the children’s advocacy center.
 
-  (H) Designation of a director for the multidisciplinary program.
+  (H) Assignment of a volunteer or staff advocate to each child in order to assist the child and, when appropriate, the child’s family, throughout each step of intervention and judicial proceedings.
 
-  (I) Assignment of a volunteer or staff advocate to each child in order to assist the child and, when appropriate, the child’s family, throughout each step of judicial proceedings.
+  (I) Such other criteria as the Administrator shall establish by regulation.
 
-  (J) Such other criteria as the Director shall establish by regulation.
-
-**(d) Distribution of grants** In awarding grants under this section, the Director shall ensure that grants are distributed to both large and small States and to rural, suburban, and urban jurisdictions.
+**(d) Distribution of grants** In awarding grants under this section, the Administrator shall ensure that grants are distributed to all States that are eligible for such grants, including large and small States, and to rural, suburban, and urban jurisdictions.
 
 **(e) Consultation with regional children’s advocacy centers** A grant recipient under this section shall consult from time to time with regional children’s advocacy centers in its census region that are grant recipients under [section 20303 of this title](./chapter-203-victims-of-child-abuse.md#section-20303).
+
+**(f) Grants to State chapters for assistance to local children’s advocacy centers** In awarding grants under this section, the Administrator shall ensure that a portion of the grants is distributed to State chapters to enable State chapters to provide technical assistance, training, coordination, and oversight to other recipients of grants under this section in providing evidence-informed initiatives, including mental health counseling, forensic interviewing, multidisciplinary team coordination, and victim advocacy.
 
 ### Statutory Notes
 
@@ -290,6 +322,38 @@ Section was formerly classified to [section 13002 of Title 42](https://uscode.ho
 A prior section 214 of Pub. L. 101–647 was renumbered section 214B and is classified to [section 20306 of this title](./chapter-203-victims-of-child-abuse.md#section-20306).
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 115–424, § 2(d)(1), added subsec. (a) and struck out former subsec. (a), which read as follows: “The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs.”
+
+Subsec. (b). Pub. L. 115–424, § 2(d)(2), in heading, inserted “human trafficking and” before “child pornography”, and in text, struck out “with the Director and” after “coordination” and inserted “human trafficking and” before “child pornography”.
+
+Subsec. (c)(1). Pub. L. 115–424, § 2(h)(2), made technical amendment to reference in original act which appears in text as reference to sections 11183 and 11186 of this title.
+
+Pub. L. 115–424, § 2(d)(3)(A), substituted “Administrator” for “Director” and “subsections (a) and (b)” for “this section”.
+
+Subsec. (c)(2)(A). Pub. L. 115–424, § 2(d)(3)(B)(i), substituted “child protective service” for “social service”.
+
+Subsec. (c)(2)(B). Pub. L. 115–424, § 2(d)(3)(B)(ii), substituted “a ‘children’s advocacy center’ ” for “the ‘counseling center’ ”.
+
+Subsec. (c)(2)(C). Pub. L. 115–424, § 2(d)(3)(B)(iii), substituted “child abuse cases that meet designated referral criteria to the children’s advocacy center” for “sexual and serious physical abuse and neglect cases to the counseling center”.
+
+Subsec. (c)(2)(D). Pub. L. 115–424, § 2(d)(3)(B)(iv), substituted “forensic” for “investigative” and “child protective service” for “social service”.
+
+Subsec. (c)(2)(E). Pub. L. 115–424, § 2(d)(3)(B)(v)–(vii), redesignated subpar. (F) as (E), substituted “children’s advocacy center or an agency with which there is a linkage agreement regarding the delivery of multidisciplinary child abuse investigation, prosecution, and intervention services” for “counseling center”, and struck out former subpar. (E), which read as follows: “A requirement that, to the extent practicable, the same agency representative who conducts an initial interview conduct all subsequent interviews.”.
+
+Subsec. (c)(2)(F). Pub. L. 115–424, § 2(d)(3)(B)(vi), (viii), redesignated subpar. (G) as (F) and substituted “eliminate duplicative forensic interviews with a child victim” for “minimize the number of interviews that a child victim must attend”. Former subpar. (F) redesignated (E).
+
+Subsec. (c)(2)(G). Pub. L. 115–424, § 2(d)(3)(B)(vi), (ix), redesignated subpar. (H) as (G) and substituted “children’s advocacy center” for “multidisciplinary program”. Former subpar. (G) redesignated (F).
+
+Subsec. (c)(2)(H). Pub. L. 115–424, § 2(d)(3)(B)(vi), (x), redesignated subpar. (I) as (H) and inserted “intervention and” before “judicial proceedings”. Former subpar. (H) redesignated (G).
+
+Subsec. (c)(2)(I), (J). Pub. L. 115–424, § 2(d)(3)(B)(vi), (xi), redesignated subpar. (J) as (I) and substituted “Administrator” for “Director”. Former subpar. (I) redesignated (H).
+
+Subsec. (d). Pub. L. 115–424, § 2(d)(4), substituted “the Administrator” for “the Director” and “all States that are eligible for such grants, including large and small States,” for “both large and small States”.
+
+Subsec. (f). Pub. L. 115–424, § 2(d)(5), added subsec. (f).
+
+2018—Subsec. (b). Pub. L. 115–392 inserted “child victims of a severe form of trafficking in persons and” before “victims of child pornography” in heading and “victims of a severe form of trafficking (as defined in [section 7102(9)(A) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9/A&num=0&edition=prelim) who were under the age of 18 at the time of the offense and” before “victims of child pornography” in text.
+
 2015—Subsecs. (b) to (e). Pub. L. 114–22 added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
 
 2002—Subsec. (b)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
@@ -308,15 +372,35 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 <a id="section-20305"></a>
 ## § 20305. Grants for specialized technical assistance and training programs
-**(a) In general** The Administrator shall make grants to national organizations to provide technical assistance and training to attorneys and others instrumental to the criminal prosecution of child abuse cases in State or Federal courts, for the purpose of improving the quality of criminal prosecution of such cases.
+**(a) In general** The Administrator shall make grants to national organizations to provide technical assistance and training to—
 
-**(b) Grantee organizations** An organization to which a grant is made pursuant to subsection (a) shall be one that has, or is affiliated with one that has, broad membership among attorneys who prosecute criminal cases in State courts and has demonstrated experience in providing training and technical assistance for prosecutors.
+(1) attorneys and other allied professionals instrumental to the criminal prosecution of child abuse cases in State or Federal courts, for the purpose of improving the quality of criminal prosecution of such cases; and
+
+(2) child abuse professionals instrumental to the protection of children, intervention in child abuse cases, and treatment of victims of child abuse, for the purpose of—
+
+  (A) improving the quality of such protection, intervention, and treatment; and
+
+  (B) promoting the effective delivery of the evidence-informed Children’s Advocacy Model and the multidisciplinary response to child abuse, including best practices in programmatic evaluation and financial oversight of Federal funding.
+
+**(b) Grantee organizations**
+
+(1) **Prosecutors** — An organization to which a grant is made for specific training and technical assistance for prosecutors under subsection (a)(1) shall be one that has—
+
+  (A) a broad representation of attorneys who prosecute criminal cases in State courts; and
+
+  (B) demonstrated experience in providing training and technical assistance for prosecutors.
+
+(2) **Child abuse professionals** — An organization to which a grant is made for specific training and technical assistance for child abuse professionals under subsection (a)(2) shall be one that has—
+
+  (A) a diverse portfolio of training and technical resources for the diverse professionals responding to child abuse, including a digital library to promote evidence-informed practice; and
+
+  (B) demonstrated experience in providing training and technical assistance for child abuse professionals, especially law enforcement officers, child protective service workers, prosecutors, forensic interviewers, medical professionals, victim advocates, and mental health professionals.
 
 **(c) Grant criteria**
 
 (1) The Administrator shall establish the criteria to be used for evaluating applications for grants under this section, consistent with sections 11183 and 11186 of this title.
 
-(2) The grant criteria established pursuant to paragraph (1) shall require that a program provide training and technical assistance that includes information regarding improved child interview techniques, thorough investigative methods, interagency coordination and effective presentation of evidence in court, including the use of alternative courtroom procedures described in this title.11 See References in Text note below.
+(2) The grant criteria established pursuant to paragraph (1) shall require, in the case of a grant made under subsection (a)(1), that a program provide training and technical assistance that includes information regarding improved child interview techniques, thorough investigative methods, interagency coordination and effective presentation of evidence in court, including the use of alternative courtroom procedures described in this title.11 See References in Text note below.
 
 ### Statutory Notes
 
@@ -327,6 +411,14 @@ This title, referred to in subsec. (c)(2), means title II of Pub. L. 101–647, 
 Section was formerly classified to [section 13003 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13003&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 115–424, § 2(e)(1), substituted “to—” and pars. (1) and (2) for “to attorneys and others instrumental to the criminal prosecution of child abuse cases in State or Federal courts, for the purpose of improving the quality of criminal prosecution of such cases.”.
+
+Subsec. (b). Pub. L. 115–424, § 2(e)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows “An organization to which a grant is made pursuant to subsection (a) shall be one that has, or is affiliated with one that has, broad membership among attorneys who prosecute criminal cases in State courts and has demonstrated experience in providing training and technical assistance for prosecutors.”.
+
+Subsec. (c)(1). Pub. L. 115–424, § 2(h)(3), made technical amendment to reference in original act which appears in text as reference to sections 11183 and 11186 of this title.
+
+Subsec. (c)(2). Pub. L. 115–424, § 2(e)(3), inserted “, in the case of a grant made under subsection (a)(1),” after “shall require”.
+
 2002—Subsec. (c)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
 
 1992—Subsecs. (a), (c)(1). Pub. L. 102–586, § 6(d), substituted “Administrator” for “Director”.
@@ -337,9 +429,9 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 <a id="section-20306"></a>
 ## § 20306. Authorization of appropriations
-**(a) Sections 20303 and 20304** There are authorized to be appropriated to carry out sections 20303 and 20304 of this title, $15,000,000 for each of fiscal years 2014, 2015, 2016, 2017, and 2018.
+**(a) Sections 20303 and 20304** There are authorized to be appropriated to carry out sections 20303 and 20304 of this title, $16,000,000 for each of fiscal years 2019 through 2023.
 
-**(b) Section 20305** There are authorized to be appropriated to carry out [section 20305 of this title](./chapter-203-victims-of-child-abuse.md#section-20305), $5,000,000 for each of fiscal years 2014, 2015, 2016, 2017, and 2018.
+**(b) Section 20305** There are authorized to be appropriated to carry out [section 20305 of this title](./chapter-203-victims-of-child-abuse.md#section-20305), $5,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -347,6 +439,10 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 Section was formerly classified to [section 13004 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13004&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2019—Subsec. (a). Pub. L. 115–424, § 2(f)(1), substituted “sections 20303 and 20304 of this title, $16,000,000 for each of fiscal years 2019 through 2023.” for “sections 20303 and 20304 of this title, $15,000,000 for each of fiscal years 2014, 2015, 2016, 2017, and 2018.”
+
+Subsec. (b). Pub. L. 115–424, § 2(f)(2), substituted “[section 20305 of this title](./chapter-203-victims-of-child-abuse.md#section-20305), $5,000,000 for each of fiscal years 2019 through 2023.” for “[section 20305 of this title](./chapter-203-victims-of-child-abuse.md#section-20305), $5,000,000 for each of fiscal years 2014, 2015, 2016, 2017, and 2018.”
+
 2014—Pub. L. 113–163 substituted “fiscal years 2014, 2015, 2016, 2017, and 2018” for “fiscal years 2004 and 2005” in subsecs. (a) and (b).
 
 2003—Pub. L. 108–21 amended section generally. Prior to amendment, section authorized appropriations to carry out sections 13001b and 13002 of $15,000,000 for fiscal year 1993 and such sums as necessary in fiscal years 1994 through 2000 and appropriations to carry out section 13003 of $5,000,000 for fiscal year 1993 and such sums as necessary in fiscal years 1994 through 2000.
@@ -358,8 +454,7 @@ Section was formerly classified to [section 13004 of Title 42](https://uscode.ho
 
 <a id="section-20307"></a>
 ## § 20307. Accountability
-
-All grants awarded by the Administrator under this subchapter shall be subject to the following accountability provisions:
+**(a) In general** All grants awarded by the Administrator under this subchapter shall be subject to the following accountability provisions:
 
 (1) **Audit requirement**
 
@@ -393,6 +488,18 @@ All grants awarded by the Administrator under this subchapter shall be subject t
 
   (C) *Report* — The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
 
+**(b) Reporting** Not later than March 1 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that—
+
+(1) summarizes the efforts of the Administrator to monitor and evaluate the regional children’s advocacy program activities under [section 20303(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20303/d&num=0&edition=prelim);
+
+(2) describes—
+
+  (A) the method by which amounts are allocated to grantees and subgrantees under this subchapter, including to local children’s advocacy centers, State chapters, and regional children’s advocacy program centers; and
+
+  (B) steps the Attorney General has taken to minimize duplication and overlap in the awarding of amounts under this subchapter; and
+
+(3) analyzes the extent to which both rural and urban populations are served under the regional children’s advocacy program.
+
 ### Statutory Notes
 
 #### References in Text
@@ -400,6 +507,9 @@ This Act, referred to in par. (3)(A), probably means the Victims of Child Abuse 
 
 #### Codification
 Section was formerly classified to [section 13005 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13005&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2019—Pub. L. 115–424 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 
 <a id="section-20321"></a>
@@ -495,6 +605,8 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 Section was formerly classified to [section 13013 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13013&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2019—Subsec. (c)(1). Pub. L. 115–424 made technical amendment to reference in original act which appears in text as reference to sections 11183 and 11186 of this title.
+
 2013—Subsec. (c)(2)(A). Pub. L. 113–4, § 106(2)(A), substituted “Standards for Programs” for “Code of Ethics”.
 
 Subsec. (e). Pub. L. 113–4, § 106(2)(B), added subsec. (e).
@@ -639,9 +751,11 @@ Section was formerly classified to [section 13022 of Title 42](https://uscode.ho
 
   (A) procedures for determining whether child service agencies have made reasonable efforts to prevent placement of children in foster care;
 
-  (B) procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family; and
+  (B) procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family;
 
-  (C) procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I.
+  (C) procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I; and
+
+  (D) procedures for improving the judicial response to children who are vulnerable to human trafficking, to the extent an appropriate screening tool exists.
 
 **(c) Grant criteria** The Administrator shall make grants under subsections (a) and (b) consistent with sections 11172, 11183, and 11186 of this title.
 
@@ -651,6 +765,10 @@ Section was formerly classified to [section 13022 of Title 42](https://uscode.ho
 Section was formerly classified to [section 13023 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13023&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2019—Subsec. (c). Pub. L. 115–424 made technical amendment to reference in original act which appears in text as reference to sections 11183 and 11186 of this title.
+
+2018—Subsec. (b)(2)(D). Pub. L. 115–393 added subpar. (D).
+
 2002—Subsec. (c). Pub. L. 107–273 substituted “sections 5666, 5673, and 5676 of this title” for “section 5665a, 5673, and 5676 of this title”.
 
 #### Effective Date of 2002 Amendment
@@ -697,9 +815,13 @@ Section was formerly classified to [section 13024 of Title 42](https://uscode.ho
 
 <a id="section-20341"></a>
 ## § 20341. Child abuse reporting
-**(a) In general** A person who, while engaged in a professional capacity or activity described in subsection (b) on Federal land or in a federally operated (or contracted) facility, learns of facts that give reason to suspect that a child has suffered an incident of child abuse, shall as soon as possible make a report of the suspected abuse to the agency designated under subsection (d) and to the agency or agencies provided for in subsection (e), if applicable.
+**(a) In general**
 
-**(b) Covered professionals** Persons engaged in the following professions and activities are subject to the requirements of subsection (a):
+(1) **Covered professionals** — A person who, while engaged in a professional capacity or activity described in subsection (b) on Federal land or in a federally operated (or contracted) facility, learns of facts that give reason to suspect that a child has suffered an incident of child abuse, shall as soon as possible make a report of the suspected abuse to the agency designated under subsection (d) and to the agency or agencies provided for in subsection (e), if applicable.
+
+(2) **Covered individuals** — A covered individual who learns of facts that give reason to suspect that a child has suffered an incident of child abuse, including sexual abuse, shall as soon as possible make a report of the suspected abuse to the agency designated by the Attorney General under subsection (d).
+
+**(b) Covered professionals** Persons engaged in the following professions and activities are subject to the requirements of subsection (a)(1):
 
 (1) Physicians, dentists, medical residents or interns, hospital personnel and administrators, nurses, health care practitioners, chiropractors, osteopaths, pharmacists, optometrists, podiatrists, emergency medical technicians, ambulance drivers, undertakers, coroners, medical examiners, alcohol or drug treatment personnel, and persons performing a healing role or practicing the healing arts.
 
@@ -741,11 +863,19 @@ Section was formerly classified to [section 13024 of Title 42](https://uscode.ho
 
 (6) the term “exploitation” means child pornography or child prostitution;
 
-(7) the term “negligent treatment” means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child; and
+(7) the term “negligent treatment” means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child;
 
-(8) the term “child abuse” shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
+(8) the term “child abuse” shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty;
 
-**(d) Agency designated to receive report and action to be taken** For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a). By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
+(9) the term “covered individual” means an adult who is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization;
+
+(10) the term “event” includes travel, lodging, practice, competition, and health or medical treatment;
+
+(11) the terms “amateur athlete”, “amateur athletic competition”, “amateur sports organization”, “international amateur athletic competition”, and “national governing body” have the meanings given the terms in [section 220501(b) of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220501/b&num=0&edition=prelim); and
+
+(12) the term “as soon as possible” means within a 24-hour period.
+
+**(d) Agency designated to receive report and action to be taken** For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside and for all covered individuals, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a). By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
 
 **(e) Reporters and recipient of report involving children and homes of members of the Armed Forces**
 
@@ -753,23 +883,53 @@ Section was formerly classified to [section 13024 of Title 42](https://uscode.ho
 
 (2) **Makers of reports** — For purposes of the making of reports under this section pursuant to this subsection, the persons engaged in professions and activities described in subsection (b) shall include members of the Armed Forces who are engaged in such professions and activities for members of the Armed Forces and their dependents.
 
-**(f) Reporting form** In every federally operated (or contracted) facility, and on all Federal lands, a standard written reporting form, with instructions, shall be disseminated to all mandated reporter groups. Use of the form shall be encouraged, but its use shall not take the place of the immediate making of oral reports, telephonically or otherwise, when circumstances dictate.
+**(f) Reporting form** In every federally operated (or contracted) facility, on all Federal lands, and for all covered individuals, a standard written reporting form, with instructions, shall be disseminated to all mandated reporter groups. Use of the form shall be encouraged, but its use shall not take the place of the immediate making of oral reports, telephonically or otherwise, when circumstances dictate.
 
 **(g) Immunity for good faith reporting and associated actions** All persons who, acting in good faith, make a report by subsection (a), or otherwise provide information or assistance in connection with a report, investigation, or legal intervention pursuant to a report, shall be immune from civil and criminal liability arising out of such actions. There shall be a presumption that any such persons acted in good faith. If a person is sued because of the person’s performance of one of the above functions, and the defendant prevails in the litigation, the court may order that the plaintiff pay the defendant’s legal expenses. Immunity shall not be accorded to persons acting in bad faith.
 
-**(h) Training of prospective reporters** All individuals in the occupations listed in subsection (b)(1) who work on Federal lands, or are employed in federally operated (or contracted) facilities, shall receive periodic training in the obligation to report, as well as in the identification of abused and neglected children.
+**(h) Training of prospective reporters** All individuals in the occupations listed in subsection (b)(1) who work on Federal lands, or are employed in federally operated (or contracted) facilities, and all covered individuals, shall receive periodic training in the obligation to report, as well as in the identification of abused and neglected children.
+
+**(i) Rule of construction** Nothing in this section shall be construed to require a victim of child abuse to self-report the abuse.
 
 ### Statutory Notes
 
 #### Codification
-A prior subsec. (g) of section 226 of Pub. L. 101–647 enacted [section 2258 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2258&num=0&edition=prelim), Crimes and Criminal Procedure, and amended analysis for part I and heading and analysis of chapter 110 of Title 18.
+Another subsec. (g) of section 226 of Pub. L. 101–647 enacted [section 2258 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2258&num=0&edition=prelim), Crimes and Criminal Procedure, and amended analysis for part I and heading and analysis of chapter 110 of Title 18.
 
 Section was formerly classified to [section 13031 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13031&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–126, § 101(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (b). Pub. L. 115–126, § 101(a)(2), substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions.
+
+Subsec. (c)(9) to (12). Pub. L. 115–126, § 101(a)(3), added pars. (9) to (12).
+
+Subsec. (d). Pub. L. 115–126, § 101(a)(4), inserted “and for all covered individuals” after “reside”.
+
+Subsec. (f). Pub. L. 115–126, § 101(a)(5), substituted “on all” for “and on all” and inserted “and for all covered individuals,” after “lands,”.
+
+Subsec. (h). Pub. L. 115–126, § 101(a)(6), inserted “and all covered individuals,” after “facilities,”.
+
+Subsec. (i). Pub. L. 115–126, § 101(a)(7), added subsec. (i).
+
 2016—Subsec. (a). Pub. L. 114–328, § 575(b)(1), inserted before period at end “and to the agency or agencies provided for in subsection (e), if applicable”.
 
 Subsecs. (e) to (g). Pub. L. 114–328, § 575(b)(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
+
+<a id="section-20342"></a>
+## § 20342. Federal immunity
+(1) **In general** — Notwithstanding any other provision of law, any individual making a good faith report to appropriate authorities of a suspected or known instance of child abuse or neglect, or who otherwise, in good faith, provides information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect shall not be subject to civil liability or criminal prosecution, under any Federal law, rising from making such report or providing such information or assistance.
+
+(2) **Presumption of good faith** — In a Federal civil action or criminal prosecution brought against a person based on the person’s reporting a suspected or known instance of child abuse or neglect, or providing information or assistance with respect to such a report, as described in paragraph (1), there shall be a presumption that the person acted in good faith.
+
+(3) **Costs** — If the defendant prevails in a Federal civil action described in paragraph (2), the court may award costs and reasonable attorney’s fees incurred by the defendant.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Victims of Child Abuse Act Reauthorization Act of 2018, and not as part of the Victims of Child Abuse Act of 1990 which comprises this chapter.
 
 
 <a id="section-20351"></a>

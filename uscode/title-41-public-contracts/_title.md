@@ -2,7 +2,7 @@
 title: 41
 heading: PUBLIC CONTRACTS
 positive_law: false
-sections: 229
+sections: 239
 chapters: 9
 ---
 # Title 41. PUBLIC CONTRACTS

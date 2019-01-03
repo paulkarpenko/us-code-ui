@@ -535,7 +535,7 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, p
 
 <a id="section-2612"></a>
 ## § 2612. National Defense University: acceptance of gifts
-**(a)** The Secretary of Defense may accept, hold, administer, and spend any gift, including a gift from an international organization and a foreign gift or donation (as defined in section 2166(f)(4) 11 See References in Text note below. of this title), that is made on the condition that it be used in connection with the operation or administration of the National Defense University. The Secretary may pay all necessary expenses in connection with the acceptance of a gift under this subsection.
+**(a)** The Secretary of Defense may accept, hold, administer, and spend any gift, including a gift from an international organization and a foreign gift or donation (as defined in [section 343(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section343/f/4&num=0&edition=prelim)), that is made on the condition that it be used in connection with the operation or administration of the National Defense University. The Secretary may pay all necessary expenses in connection with the acceptance of a gift under this subsection.
 
 **(b)** There is established in the Treasury a fund to be known as the “National Defense University Gift Fund”. Gifts of money, and the proceeds of the sale of property, received under subsection (a) shall be deposited in the fund. The Secretary may disburse funds deposited under this subsection for the benefit or use of the National Defense University.
 
@@ -561,10 +561,9 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, p
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2166 of this title](./chapter-108-department-of-defense-schools.md#section-2166), referred to in subsec. (a), was renumbered [section 343 of this title](./chapter-016-security-cooperation.md#section-343) by Pub. L. 114–328, div. A, title XII, § 1241(f)(1), Dec. 23, 2016, 130 Stat. 2507.
-
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “section 343(f)(4)” for “section 2166(f)(4)”.
+
 2003—Subsec. (a). Pub. L. 108–136 substituted “2166(f)(4)” for “2611(f)”.
 
 
@@ -610,7 +609,7 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, p
 
 (2) to assist in administering the collection, distribution, and use of travel benefits under this section.
 
-**(g) Family Member Defined.—** In this section, the term “family member” has the meaning given that term in [section 481h(b)(1) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/b/1&num=0&edition=prelim).
+**(g) Family Member Defined.—** In this section, the term “family member” has the meaning given that term in [section 481h(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -618,6 +617,8 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, p
 Another section 2613 was renumbered [section 2614 of this title](./chapter-155-acceptance-of-gifts-and-services.md#section-2614).
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–232 substituted “481h(b)” for “481h(b)(1)”.
+
 2013—Subsec. (g). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Pub. L. 112–81, § 576(d)(1), substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in section catchline.

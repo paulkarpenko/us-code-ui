@@ -50,7 +50,7 @@ source: >-
 
 **(f) Failure To Complete Program.—**
 
-(1) An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim), if the member—
+(1) An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37, if the member—
 
   (A) completes the military and academic requirements of the Marine Corps Platoon Leaders Class program and refuses to accept an appointment as a commissioned officer in the Marine Corps when offered or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered;
 
@@ -58,7 +58,7 @@ source: >-
 
   (C) is disenrolled from the Marine Corps Platoon Leaders Class program for failure to maintain eligibility for an original appointment as a commissioned officer under [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
 
-(2) Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim). The Secretary of the Navy may waive the requirements of paragraph (1) in the case of a person who—
+(2) Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under section 303a(e) or 373 of title 37. The Secretary of the Navy may waive the requirements of paragraph (1) in the case of a person who—
 
   (A) becomes unqualified to serve on active duty as an officer due to a circumstance not within the control of the person;
 
@@ -71,6 +71,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91 inserted “or 373” before “of title 37” in introductory provisions of par. (1) and in par. (2).
+
 2006—Subsec. (f)(1). Pub. L. 109–163, § 687(c)(15)(A), substituted “shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim)” for “may be required to repay the full amount of financial assistance” in introductory provisions.
 
 Subsec. (f)(2). Pub. L. 109–163, § 687(c)(15)(B), inserted “Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).” before “The Secretary of the Navy may waive” in introductory provisions.

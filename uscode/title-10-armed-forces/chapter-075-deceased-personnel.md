@@ -140,6 +140,9 @@ Authority vested by this chapter in “military departments”, “the Secretary
 #### National Oceanic and Atmospheric Administration
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary’s designee, see [section 3071 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3071&num=0&edition=prelim), Navigation and Navigable Waters.
 
+#### Obligation of Defense Health Program Appropriations for Death Gratuity Payments
+Pub. L. 115–245, div. A, title VIII, § 8136, Sept. 28, 2018, 132 Stat. 3030, provided that: “Amounts appropriated for ‘Defense Health Program’ in this Act [div. A of Pub. L. 115–245] and hereafter may be obligated to make death gratuity payments, as authorized in subchapter II of chapter 75 of title 10, United States Code, if no appropriation for ‘Military Personnel’ is available for obligation for such payments: Provided, That such obligations may subsequently be recorded against appropriations available for ‘Military Personnel’.”
+
 #### Improved Assistance for Gold Star Spouses and Other Dependents
 Pub. L. 113–66, div. A, title VI, § 633, Dec. 26, 2013, 127 Stat. 786, provided that: “(a) Advocates for Gold Star Spouses and Other Dependents.—Each Secretary of a military department shall designate for each Armed Force under the jurisdiction of such Secretary a member of such Armed Force or civilian employee of such military department to assist spouses and other dependents of members of such Armed Force (including reserve components thereof) who die on active duty through the provision of the following services:“(1) Addressing complaints by spouses and other dependents of deceased members regarding casualty assistance or receipt of benefits authorized by law for such spouses and dependents. “(2) Providing support to such spouses and dependents regarding such casualty assistance or receipt of such benefits. “(3) Making reports to appropriate officers or officials in the Department of Defense or the military department concerned regarding resolution of such complaints, including recommendations regarding the settlement of claims with respect to such benefits, as appropriate. “(4) Performing such other actions as the Secretary of the military department concerned considers appropriate. “(b) Training for Casualty Assistance Personnel.—“(1) Training program required.—The Secretary of Defense shall implement a standardized comprehensive training program on casualty assistance for the following personnel of the Department of Defense:“(A) Casualty assistance officers. “(B) Casualty assistance calls officers. “(C) Casualty assistance representatives. “(2) General elements.—The training program required by paragraph (1) shall include training designed to ensure that the personnel specified in that paragraph provide the spouse and other dependents of a deceased member of the Armed Forces with accurate information on the benefits to which they are entitled and other casualty assistance available to them when the member dies while serving on active duty in the Armed Forces. “(3) Service-specific elements.—The Secretary of the military department concerned may, in coordination with the Secretary of Defense, provide for the inclusion in the training program required by paragraph (1) that is provided to casualty assistance personnel of such military department such elements of training that are specific or unique to the requirements or particulars of the Armed Forces under the jurisdiction of such military department as the Secretary of the military department concerned considers appropriate. “(4) Frequency of training.—Training shall be provided under the program required by paragraph (1) not less often than annually.”
 
@@ -656,6 +659,8 @@ Pub. L. 109–364, div. A, title V, § 567, Oct. 17, 2006, 120 Stat. 2224, provi
 
 (9) Interment or inurnment of the remains.
 
+(10) In the case of a decedent under the jurisdiction of a Secretary of a military department at the time of death, enduring care of remains interred in a foreign cemetery if the burial location was designated by such Secretary.
+
 **(b)** If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 
 **(c)** The following persons may be designated to direct disposition of the remains of a decedent covered by this chapter:
@@ -737,6 +742,8 @@ In subsection (b), the words “If an individual pays” are substituted for the
 In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The introductory language is substituted for 5:2162 (1st 22 words of 2d sentence). The words “ascertained and” are omitted as surplusage.
 
 #### Amendments
+2017—Subsec. (a)(10). Pub. L. 115–91 added par. (10).
+
 2013—Subsec. (a)(8). Pub. L. 113–66, § 621(e), substituted “and travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim)” for “and roundtrip transportation and prescribed allowances”.
 
 Subsec. (a)(9). Pub. L. 113–66, § 651(b), inserted “or inurnment” after “Interment”.
@@ -990,7 +997,7 @@ The words “as authorized by this chapter, [section 103a(c) of this Title](http
 
 (4) In this subsection:
 
-  (A) The term “Army National Military Cemetery” means a cemetery specified in [section 4721(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4721/b&num=0&edition=prelim).
+  (A) The term “Army National Military Cemetery” means a cemetery specified in [section 7721(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7721/b&num=0&edition=prelim).
 
   (B) The term “covered member of the armed forces” means a member of the armed forces who—
 
@@ -1008,7 +1015,12 @@ The words “as authorized by this chapter, [section 103a(c) of this Title](http
 The words “national cemeteries, other installation cemeteries, or” are omitted as surplusage.
 
 #### Amendments
+2018—Subsec. (c)(4)(A). Pub. L. 115–232 substituted “section 7721(b)” for “section 4721(b)”.
+
 2014—Pub. L. 113–291 designated first sentence of existing provisions as subsec. (a) and inserted heading, designated second sentence of existing provisions as subsec. (b), inserted heading, and substituted “the jurisdiction of the Secretary concerned” for “his jurisdiction”, and added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-1489"></a>

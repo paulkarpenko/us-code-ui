@@ -324,9 +324,13 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
-Pub. L. 115–31, div. C, title VIII, § 8047(b), May 5, 2017, 131 Stat. 259, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 115–245, div. A, title VIII, § 8045(b), Sept. 28, 2018, 132 Stat. 3012, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. C, title VIII, § 8045(b), Mar. 23, 2018, 132 Stat. 475.
+
+Pub. L. 115–31, div. C, title VIII, § 8047(b), May 5, 2017, 131 Stat. 259.
 
 Pub. L. 114–113, div. C, title VIII, § 8046(b), Dec. 18, 2015, 129 Stat. 2362.
 
@@ -1581,9 +1585,13 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
-Pub. L. 115–31, div. C, title VIII, § 8036, May 5, 2017, 131 Stat. 254, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 115–245, div. A, title VIII, § 8036, Sept. 28, 2018, 132 Stat. 3008, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. C, title VIII, § 8035, Mar. 23, 2018, 132 Stat. 471.
+
+Pub. L. 115–31, div. C, title VIII, § 8036, May 5, 2017, 131 Stat. 254.
 
 Pub. L. 114–113, div. C, title VIII, § 8035, Dec. 18, 2015, 129 Stat. 2358.
 

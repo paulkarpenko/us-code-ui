@@ -59,6 +59,6 @@ Repeal effective Sept. 1, 1948, see section 38 of act June 25, 1948, set out as 
 ### Statutory Notes
 
 #### Codification
-Section, act June 15, 1917, ch. 30, title XIII, § 4, 40 Stat. 231, related to savings provisions and is set out as a Separability note under [section 191 of this title](./chapter-012-vessels-in-territorial-waters-of-united-states.md#section-191).
+Section, act June 15, 1917, ch. 30, title XIII, § 4, 40 Stat. 231, related to savings provisions and is set out as a Separability note under [section 195 of this title](./chapter-012-vessels-in-territorial-waters-of-united-states.md#section-195).
 
 Section was formerly classified to [section 536 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section536&num=0&edition=prelim) prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683.

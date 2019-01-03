@@ -711,7 +711,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (3) Third, unsecured claims allowed under [section 502(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section502/f&num=0&edition=prelim).
 
-(4) Fourth, allowed unsecured claims, but only to the extent of $10,000 for each individual or corporation, as the case may be, earned within 180 days before the date of the filing of the petition or the date of the cessation of the debtor’s business, whichever occurs first, for—
+(4) Fourth, allowed unsecured claims, but only to the extent of $10,000 22 See Adjustment of Dollar Amounts notes below. for each individual or corporation, as the case may be, earned within 180 days before the date of the filing of the petition or the date of the cessation of the debtor’s business, whichever occurs first, for—
 
   (A) wages, salaries, or commissions, including vacation, severance, and sick leave pay earned by an individual; or
 
@@ -723,7 +723,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
   (B) for each such plan, to the extent of—
 
-    (i) the number of employees covered by each such plan multiplied by $10,000; less
+    (i) the number of employees covered by each such plan multiplied by $10,000; 2 less
 
     (ii) the aggregate amount paid to such employees under paragraph (4) of this subsection, plus the aggregate amount paid by the estate on behalf of such employees to any other employee benefit plan.
 
@@ -732,9 +732,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
   (A) engaged in the production or raising of grain, as defined in [section 557(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section557/b&num=0&edition=prelim), against a debtor who owns or operates a grain storage facility, as defined in [section 557(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section557/b&num=0&edition=prelim), for grain or the proceeds of grain, or
 
   (B) engaged as a United States fisherman against a debtor who has acquired fish or fish produce from a fisherman through a sale or conversion, and who is engaged in operating a fish produce storage or processing facility—
-  but only to the extent of $4,000 for each such individual.
+  but only to the extent of $4,000 2 for each such individual.
 
-(7) Seventh, allowed unsecured claims of individuals, to the extent of $1,800 for each such individual, arising from the deposit, before the commencement of the case, of money in connection with the purchase, lease, or rental of property, or the purchase of services, for the personal, family, or household use of such individuals, that were not delivered or provided.
+(7) Seventh, allowed unsecured claims of individuals, to the extent of $1,800 2 for each such individual, arising from the deposit, before the commencement of the case, of money in connection with the purchase, lease, or rental of property, or the purchase of services, for the personal, family, or household use of such individuals, that were not delivered or provided.
 
 (8) Eighth, allowed unsecured claims of governmental units, only to the extent that such claims are for—
 
@@ -784,9 +784,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 **(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 507(a)(3) of the House amendment represents a compromise dollar amount and date for the priority between similar provisions contained in H.R. 8200 as passed by the House and the Senate amendments. A similar compromise is contained in section 507(a)(4).
@@ -1016,6 +1013,8 @@ By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec.
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (a)(4), dollar amount “10,950” was adjusted to “11,725”; in subsec. (a)(5), dollar amount “10,950” was adjusted to “11,725”; in subsec. (a)(6), dollar amount “5,400” was adjusted to “5,775”; and, in subsec. (a)(7), dollar amount “2,425” was adjusted to “2,600”.
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (a)(4), dollar amount “10,000” was adjusted to “10,950”; in subsec. (a)(5), dollar amount “10,000” was adjusted to “10,950”; in subsec. (a)(6), dollar amount “4,925” was adjusted to “5,400”; and, in subsec. (a)(7), dollar amount “2,225” was adjusted to “2,425”.
+
+[Pub. L. 109–8 redesignated pars. (3) to (6) of subsec. (a) as pars. (4) to (7), respectively, and amended certain dollar amounts. See 2005 Amendment notes above.]
 
 By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (a)(3), dollar amount “4,650” was adjusted to “4,925”; in subsec. (a)(4)(B)(i), dollar amount “4,650” was adjusted to “4,925”; in subsec. (a)(5), dollar amount “4,650” was adjusted to “4,925”; and, in subsec. (a)(6), dollar amount “2,100” was adjusted to “2,225”.
 
@@ -1422,21 +1421,21 @@ Pub. L. 109–8, title XII, § 1228, Apr. 20, 2005, 119 Stat. 200, provided that
 
 **(d)** The following property may be exempted under subsection (b)(2) of this section:
 
-(1) The debtor’s aggregate interest, not to exceed $15,000 in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence, in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence, or in a burial plot for the debtor or a dependent of the debtor.
+(1) The debtor’s aggregate interest, not to exceed $15,000 11 See Adjustment of Dollar Amounts notes below. in value, in real property or personal property that the debtor or a dependent of the debtor uses as a residence, in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence, or in a burial plot for the debtor or a dependent of the debtor.
 
-(2) The debtor’s interest, not to exceed $2,400 in value, in one motor vehicle.
+(2) The debtor’s interest, not to exceed $2,400 1 in value, in one motor vehicle.
 
-(3) The debtor’s interest, not to exceed $400 in value in any particular item or $8,000 in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+(3) The debtor’s interest, not to exceed $400 1 in value in any particular item or $8,000 1 in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
-(4) The debtor’s aggregate interest, not to exceed $1,000 in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+(4) The debtor’s aggregate interest, not to exceed $1,000 1 in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
-(5) The debtor’s aggregate interest in any property, not to exceed in value $800 plus up to $7,500 of any unused amount of the exemption provided under paragraph (1) of this subsection.
+(5) The debtor’s aggregate interest in any property, not to exceed in value $800 1 plus up to $7,500 1 of any unused amount of the exemption provided under paragraph (1) of this subsection.
 
-(6) The debtor’s aggregate interest, not to exceed $1,500 in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
+(6) The debtor’s aggregate interest, not to exceed $1,500 1 in value, in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
 
 (7) Any unmatured life insurance contract owned by the debtor, other than a credit life insurance contract.
 
-(8) The debtor’s aggregate interest, not to exceed in value $8,000 less any amount of property of the estate transferred in the manner specified in [section 542(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section542/d&num=0&edition=prelim), in any accrued dividend or interest under, or loan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
+(8) The debtor’s aggregate interest, not to exceed in value $8,000 1 less any amount of property of the estate transferred in the manner specified in [section 542(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section542/d&num=0&edition=prelim), in any accrued dividend or interest under, or loan value of, any unmatured life insurance contract owned by the debtor under which the insured is the debtor or an individual of whom the debtor is a dependent.
 
 (9) Professionally prescribed health aids for the debtor or a dependent of the debtor.
 
@@ -1466,7 +1465,7 @@ Pub. L. 109–8, title XII, § 1228, Apr. 20, 2005, 119 Stat. 200, provided that
 
   (C) a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individual’s death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
-  (D) a payment, not to exceed $15,000, on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
+  (D) a payment, not to exceed $15,000,1 on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
 
   (E) a payment in compensation of loss of future earnings of the debtor or an individual of whom the debtor is or was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor.
 
@@ -1508,7 +1507,7 @@ Pub. L. 109–8, title XII, § 1228, Apr. 20, 2005, 119 Stat. 200, provided that
   (A) permits a person to voluntarily waive a right to claim exemptions under subsection (d) or prohibits a debtor from claiming exemptions under subsection (d); and
 
   (B) either permits the debtor to claim exemptions under State law without limitation in amount, except to the extent that the debtor has permitted the fixing of a consensual lien on any property or prohibits avoidance of a consensual lien on property otherwise eligible to be claimed as exempt property;
-  the debtor may not avoid the fixing of a lien on an interest of the debtor or a dependent of the debtor in property if the lien is a nonpossessory, nonpurchase-money security interest in implements, professional books, or tools of the trade of the debtor or a dependent of the debtor or farm animals or crops of the debtor or a dependent of the debtor to the extent the value of such implements, professional books, tools of the trade, animals, and crops exceeds $5,000.
+  the debtor may not avoid the fixing of a lien on an interest of the debtor or a dependent of the debtor in property if the lien is a nonpossessory, nonpurchase-money security interest in implements, professional books, or tools of the trade of the debtor or a dependent of the debtor or farm animals or crops of the debtor or a dependent of the debtor to the extent the value of such implements, professional books, tools of the trade, animals, and crops exceeds $5,000.1
 
 (4)
 
@@ -1548,11 +1547,11 @@ Pub. L. 109–8, title XII, § 1228, Apr. 20, 2005, 119 Stat. 200, provided that
 
     (i) works of art (unless by or of the debtor, or any relative of the debtor);
 
-    (ii) electronic entertainment equipment with a fair market value of more than $500 in the aggregate (except 1 television, 1 radio, and 1 VCR);
+    (ii) electronic entertainment equipment with a fair market value of more than $500 1 in the aggregate (except 1 television, 1 radio, and 1 VCR);
 
-    (iii) items acquired as antiques with a fair market value of more than $500 in the aggregate;
+    (iii) items acquired as antiques with a fair market value of more than $500 1 in the aggregate;
 
-    (iv) jewelry with a fair market value of more than $500 in the aggregate (except wedding rings); and
+    (iv) jewelry with a fair market value of more than $500 1 in the aggregate (except wedding rings); and
 
     (v) a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
 
@@ -1590,7 +1589,7 @@ Pub. L. 109–8, title XII, § 1228, Apr. 20, 2005, 119 Stat. 200, provided that
 
 **(m)** Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
-**(n)** For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
+**(n)** For assets in individual retirement accounts described in section 408 or 408A of the Internal Revenue Code of 1986, other than a simplified employee pension under section 408(k) of such Code or a simple retirement account under section 408(p) of such Code, the aggregate value of such assets exempted under this section, without regard to amounts attributable to rollover contributions under section 402(c), 402(e)(6), 403(a)(4), 403(a)(5), and 403(b)(8) of the Internal Revenue Code of 1986, and earnings thereon, shall not exceed $1,000,000 1 in a case filed by a debtor who is an individual, except that such amount may be increased if the interests of justice so require.
 
 **(o)** For purposes of subsection (b)(3)(A), and notwithstanding subsection (a), the value of an interest in—
 
@@ -1605,7 +1604,7 @@ shall be reduced to the extent that such value is attributable to any portion of
 
 **(p)**
 
-(1) Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 in value in—
+(1) Except as provided in paragraph (2) of this subsection and sections 544 and 548, as a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of interest that was acquired by the debtor during the 1215-day period preceding the date of the filing of the petition that exceeds in the aggregate $125,000 1 in value in—
 
   (A) real or personal property that the debtor or a dependent of the debtor uses as a residence;
 
@@ -1623,7 +1622,7 @@ shall be reduced to the extent that such value is attributable to any portion of
 
 **(q)**
 
-(1) As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 if—
+(1) As a result of electing under subsection (b)(3)(A) to exempt property under State or local law, a debtor may not exempt any amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) which exceeds in the aggregate $125,000 1 if—
 
   (A) the court determines, after notice and a hearing, that the debtor has been convicted of a felony (as defined in [section 3156 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3156&num=0&edition=prelim)), which under the circumstances, demonstrates that the filing of the case was an abuse of the provisions of this title; or
 
@@ -1640,9 +1639,6 @@ shall be reduced to the extent that such value is attributable to any portion of
 (2) Paragraph (1) shall not apply to the extent the amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) is reasonably necessary for the support of the debtor and any dependent of the debtor.
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 522 of the House amendment represents a compromise on the issue of exemptions between the position taken in the House bill, and that taken in the Senate amendment. Dollar amounts specified in section 522(d) of the House bill have been reduced from amounts as contained in H.R. 8200 as passed by the House. The States may, by passing a law, determine whether the Federal exemptions will apply as an alternative to State exemptions in bankruptcy cases.
@@ -1949,9 +1945,9 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
     (i) for purposes of subparagraph (A)—
 
-      (I) consumer debts owed to a single creditor and aggregating more than $500 for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
+      (I) consumer debts owed to a single creditor and aggregating more than $500 11 See Adjustment of Dollar Amounts notes below. for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
 
-      (II) cash advances aggregating more than $750 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
+      (II) cash advances aggregating more than $750 1 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
 
     (ii) for purposes of this subparagraph—
 
@@ -2029,7 +2025,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
     (iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
 For purposes of this subsection, the term “return” means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.
 
-**(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 11 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 1 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+**(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 22 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 2 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 
 **(c)**
 
@@ -2042,9 +2038,6 @@ For purposes of this subsection, the term “return” means a return that satis
 **(e)** Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 523(a)(1) represents a compromise between the position taken in the House bill and the Senate amendment. Section 523(a)(2) likewise represents a compromise between the position taken in the House bill and the Senate amendment with respect to the false financial statement exception to discharge. In order to clarify that a “renewal of credit” includes a “refinancing of credit”, explicit reference to a refinancing of credit is made in the preamble to section 523(a)(2). A renewal of credit or refinancing of credit that was obtained by a false financial statement within the terms of section 523(a)(2) is nondischargeable. However, each of the provisions of section 523(a)(2) must be proved. Thus, under section 523(a)(2)(A) a creditor must prove that the debt was obtained by false pretenses, a false representation, or actual fraud, other than a statement respecting the debtor’s or an insider’s financial condition. Subparagraph (A) is intended to codify current case law e.g., Neal v. Clark, 95 U.S. 704 (1887) [24 L. Ed. 586], which interprets “fraud” to mean actual or positive fraud rather than fraud implied in law. Subparagraph (A) is mutually exclusive from subparagraph (B). Subparagraph (B) pertains to the so-called false financial statement. In order for the debt to be nondischargeable, the creditor must prove that the debt was obtained by the use of a statement in writing (i) that is materially false; (ii) respecting the debtor’s or an insider’s financial condition; (iii) on which the creditor to whom the debtor is liable for obtaining money, property, services, or credit reasonably relied; (iv) that the debtor caused to be made or published with intent to deceive. Section 523(a)(2)(B)(iv) is not intended to change from present law since the statement that the debtor causes to be made or published with the intent to deceive automatically includes a statement that the debtor actually makes or publishes with an intent to deceive. Section 523(a)(2)(B) is explained in the House report. Under section 523(a)(2)(B)(i) a discharge is barred only as to that portion of a loan with respect to which a false financial statement is materially false.
@@ -2335,6 +2328,8 @@ By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec.
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (a)(2)(C)(i)(I), dollar amount “550” was adjusted to “600” and, in subsec. (a)(2)(C)(i)(II), dollar amount “825” was adjusted to “875”.
 
 By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (a)(2)(C)(i)(I), dollar amount “500” was adjusted to “550” and, in subsec. (a)(2)(C)(i)(II), dollar amount “750” was adjusted to “825”.
+
+[Pub. L. 109–8 amended subsec. (a)(2)(C) generally. See 2005 Amendment note above.]
 
 By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (a)(2)(C), dollar amount “1,150” was adjusted to “1,225” each time it appeared.
 
@@ -3027,7 +3022,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
     (ii) are not excess contributions (as described in section 4973(e) of the Internal Revenue Code of 1986); and
 
-  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
+  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; 22 See Adjustment of Dollar Amounts notes below.
 
 (6) funds used to purchase a tuition credit or certificate or contributed to an account in accordance with section 529(b)(1)(A) of the Internal Revenue Code of 1986 under a qualified State tuition program (as defined in section 529(b)(1) of such Code) not later than 365 days before the date of the filing of the petition in a case under this title, but—
 
@@ -3035,7 +3030,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
   (B) with respect to the aggregate amount paid or contributed to such program having the same designated beneficiary, only so much of such amount as does not exceed the total contributions permitted under section 529(b)(6) of such Code with respect to such beneficiary, as adjusted beginning on the date of the filing of the petition in a case under this title by the annual increase or decrease (rounded to the nearest tenth of 1 percent) in the education expenditure category of the Consumer Price Index prepared by the Department of Labor; and
 
-  (C) in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
+  (C) in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000; 2
 
 (7) any amount—
 
@@ -3110,9 +3105,6 @@ Paragraph (4) shall not be construed to exclude from the estate any consideratio
 **(f)** Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor’s interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to the estate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act § 206, [7 U.S.C. 196](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section196&num=0&edition=prelim) (1976).
@@ -3690,7 +3682,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (8) if, in a case filed by an individual debtor whose debts are primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $600; or
 
-(9) if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $5,000.
+(9) if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $5,000.11 See Adjustment of Dollar Amounts notes below.
 
 **(d)** The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability of such surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
 
@@ -3725,9 +3717,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 **(i)** If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
 ### Statutory Notes
-
-#### Adjustment of Dollar Amounts
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
 #### legislative statements
 No limitation is provided for payments to commodity brokers as in section 766 of the Senate amendment other than the amendment to [section 548 of title 11](./chapter-005-creditors-the-debtor-and-the-estate.md#section-548). Section 547(c)(2) protects most payments.

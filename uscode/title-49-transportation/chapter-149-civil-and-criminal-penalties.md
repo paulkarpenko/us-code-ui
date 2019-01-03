@@ -91,7 +91,7 @@ Pub. L. 114–94, div. A, title V, § 5508(b), Dec. 4, 2015, 129 Stat. 1554, pro
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Foreign Motor Carrier Penalties and Disqualifications
 Pub. L. 106–159, title II, § 219, Dec. 9, 1999, 113 Stat. 1768, provided that: “(a) General Rule.—Subject to subsections (b) and (c), a foreign motor carrier or foreign motor private carrier (as such terms are defined under [section 13102 of title 49](./chapter-131-general-provisions.md#section-13102), United States Code) that operates without authority, before the implementation of the land transportation provisions of the North American Free Trade Agreement, outside the boundaries of a commercial zone along the United States-Mexico border shall be liable to the United States for a civil penalty and shall be disqualified from operating a commercial motor vehicle anywhere within the United States as provided in subsections (b) and (c). “(b) Penalty for Intentional Violation.—The civil penalty for an intentional violation of subsection (a) by a carrier shall not be more than $10,000 and may include a disqualification from operating a commercial motor vehicle anywhere within the United States for a period of not more than 6 months. “(c) Penalty for Pattern of Intentional Violations.—The civil penalty for a pattern of intentional violations of subsection (a) by a carrier shall not be more than $25,000 and the carrier shall be disqualified from operating a commercial motor vehicle anywhere within the United States and the disqualification may be permanent. “(d) Leasing.—Before the implementation of the land transportation provisions of the North American Free Trade Agreement, during any period in which a suspension, condition, restriction, or limitation imposed under [section 13902(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section13902/c&num=0&edition=prelim), United States Code, applies to a motor carrier (as defined in section 13902(e) of such title), that motor carrier may not lease a commercial motor vehicle to another motor carrier or a motor private carrier to transport property in the United States. “(e) Savings Clause.—No provision of this section may be enforced if it is inconsistent with any international agreement of the United States. “(f) Acts of Employees.—The actions of any employee driver of a foreign motor carrier or foreign motor private carrier committed without the knowledge of the carrier or committed unintentionally shall not be grounds for penalty or disqualification under this section.”
@@ -111,6 +111,9 @@ is liable to the United States for a civil penalty in an amount equal to 3 times
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11902 of this title](./chapter-119-civil-and-criminal-penalties.md#section-11902) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14903"></a>
@@ -134,6 +137,9 @@ Provisions similar to those in this section were contained in [section 11903 of 
 #### Amendments
 1997—Subsec. (a). Pub. L. 105–102 inserted “a” before “civil penalty of not more than”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14904"></a>
 ## § 14904. Additional rate violations
@@ -155,6 +161,9 @@ is liable to the United States for a civil penalty of $200 for the first violati
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11904 of this title](./chapter-119-civil-and-criminal-penalties.md#section-11904) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14905"></a>
 ## § 14905. Penalties for violations of rules relating to loading and unloading motor vehicles
@@ -166,6 +175,9 @@ Provisions similar to those in this section were contained in [section 11904 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11902a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11902a&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14906"></a>
@@ -183,6 +195,9 @@ Provisions similar to those in this section were contained in [section 11906 of 
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14907"></a>
@@ -210,6 +225,9 @@ is liable to the United States for a civil penalty of not more than $5,000.
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11909 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11909&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14908"></a>
 ## § 14908. Unlawful disclosure of information
@@ -232,6 +250,9 @@ Provisions similar to those in this section were contained in [section 11909 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11910 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11910&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14909"></a>
 ## § 14909. Disobedience to subpoenas
@@ -242,6 +263,9 @@ Whoever does not obey a subpoena or requirement of the Secretary or the Board to
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11913 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11913&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14910"></a>
@@ -254,6 +278,9 @@ When another civil penalty is not provided under this chapter, a person that vio
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11914 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11914&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14911"></a>
 ## § 14911. Punishment of corporation for violations committed by certain individuals
@@ -264,6 +291,9 @@ An act or omission that would be a violation of this part if committed by a dire
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11915 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11915&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14912"></a>
@@ -277,6 +307,9 @@ Provisions similar to those in this section were contained in [section 11915 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11917 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11917&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-14913"></a>
 ## § 14913. Conclusiveness of rates in certain prosecutions
@@ -287,6 +320,9 @@ When a carrier publishes or files a particular rate under section 13702 or parti
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11916 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11916&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14914"></a>
@@ -302,6 +338,11 @@ Provisions similar to those in this section were contained in [section 11916 of 
 (1) application has been made for refund or remission of the penalty within 1 year from the date of payment; and
 
 (2) the Board finds that the penalty was unlawfully, improperly, or excessively imposed.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14915"></a>

@@ -47,6 +47,15 @@ In subsection (b)(6), the words “transportation objectives” are substituted 
 #### Amendments
 1991—Subsec. (b)(4). Pub. L. 102–240 inserted “, through research and development or otherwise” after “advances in transportation”.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–420, § 1, Jan. 3, 2019, 132 Stat. 5444, provided that: “This Act [amending sections 310, 22901, 22902, 22904, 22905, 22907, 22908, 24102, 24103, 24319, 24711, 24905, 24910, 24911, and 26106 of this title, [section 402 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section402&num=0&edition=prelim), Highways, and [section 51314 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section51314&num=0&edition=prelim), Shipping, renumbering sections 24401 to 24408 of this title as sections 22901 to 22908 of this title, enacting provisions set out as a note under [section 24319 of this title](./chapter-243-amtrak.md#section-24319), and amending provisions set out as notes under sections 22905, 22907, and 26106 of this title] may be cited as the ‘Department of Transportation Reports Harmonization Act’.”
+
+Pub. L. 115–282, title V, § 514(a), Dec. 4, 2018, 132 Stat. 4276, provided that: “This section [enacting [section 312 of this title](./chapter-003-general-duties-and-powers.md#section-312)] may be cited as the ‘National Timing Resilience and Security Act of 2018’.”
+
+Pub. L. 115–271, title VIII, § 8101, Oct. 24, 2018, 132 Stat. 4103, provided that: “This subtitle [subtitle I (§§ 8101–8109) of title VIII of Pub. L. 115–271, enacting provisions set out as notes under sections 322, 329, 20140, and 31306 of this title and [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees] may be cited as the ‘Fighting Opioid Abuse in Transportation Act’.”
+
+Pub. L. 115–254, div. K, title I, § 1901(a), Oct. 5, 2018, 132 Stat. 3542, provided that: “This title [see Tables for classification] may be cited as the ‘TSA Modernization Act’.”
+
 #### Short Title of 2004 Amendment
 Pub. L. 108–426, § 1, Nov. 30, 2004, 118 Stat. 2423, provided that: “This Act [enacting [section 108 of this title](./chapter-001-organization.md#section-108), amending sections 111, 112, 5118, and 5503 of this title, sections 5314 and 5316 of Title 5, Government Organization and Employees, [section 844 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section844&num=0&edition=prelim), Crimes and Criminal Procedure, [section 2761 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2761&num=0&edition=prelim), Navigation and Navigable Waters, and [section 1121–2 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1121–2&num=0&edition=prelim), Appendix, Shipping, enacting provisions set out as notes under sections 108 and 112 of this title, and amending provisions set out as a note under [section 1135 of this title](./chapter-011-national-transportation-safety-board.md#section-1135)] may be cited as the ‘Norman Y. Mineta Research and Special Programs Improvement Act’.”
 
@@ -67,6 +76,9 @@ Pub. L. 111–314, § 4(d)(8), Dec. 18, 2010, 124 Stat. 3443, provided that: “
 
 #### Congressional Declaration of Policy Regarding National Intermodal Transportation System
 Pub. L. 102–240, § 2, Dec. 18, 1991, 105 Stat. 1914, which provided that it was the policy of the United States to develop a National Intermodal Transportation System consisting of all forms of transportation in a unified, interconnected manner, a National Highway System, improvements in public transportation achieving goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly persons, persons with disabilities, and economically disadvantaged persons, was repealed and reenacted as [section 5501 of this title](./chapter-055-intermodal-transportation.md#section-5501) by Pub. L. 103–272, §§ 1(d), 7(b), July 5, 1994, 108 Stat. 848, 1379.
+
+#### Definitions of Terms in Title I of Div. K of Pub. L. 115–254
+Pub. L. 115–254, div. K, title I, § 1902, Oct. 5, 2018, 132 Stat. 3542, provided that: “In this title [see Short Title of 2018 Amendment note set out above]: “(1) Administrator.—The term ‘Administrator’ means the Administrator of the TSA. “(2) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; “(B) the Committee on Homeland Security and Governmental Affairs of the Senate; and “(C) the Committee on Homeland Security of the House of Representatives. “(3) ASAC.—The term ‘ASAC’ means the Aviation Security Advisory Committee established under [section 44946 of title 49](./chapter-449-security.md#section-44946), United States Code. “(4) Department.—The term ‘Department’ means the Department of Homeland Security. “(5) Explosive detection canine team.—The term ‘explosives detection canine team’ means a canine and a canine handler that are trained to detect explosives and other threats as defined by the Secretary. “(6) Secretary.—The term ‘Secretary’ means the Secretary of Homeland Security. “(7) TSA.—The term ‘TSA’ means the Transportation Security Administration.”
 
 #### “Secretary” Defined
 Pub. L. 106–159, § 2, Dec. 9, 1999, 113 Stat. 1749, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of Transportation.”
@@ -247,6 +259,9 @@ Pub. L. 107–295, title II, § 215(c), Nov. 25, 2002, 116 Stat. 2102, provided 
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
+
+#### Human Trafficking Prevention Coordinator
+Pub. L. 115–99, § 2, Jan. 3, 2018, 131 Stat. 2242, provided that: “The Secretary of Transportation shall designate an official within the Department of Transportation who shall— “(1) coordinate human trafficking prevention efforts across modal administrations in the Department of Transportation and with other departments and agencies of the Federal Government; and “(2) in coordinating such efforts, take into account the unique challenges of combating human trafficking within different transportation modes.”
 
 #### Coordination
 Pub. L. 110–140, title XI, § 1101(b), Dec. 19, 2007, 121 Stat. 1756, provided that: “The Office of Climate Change and Environment of the Department of Transportation shall coordinate its activities with the United States Global Change Research Program.”
@@ -566,15 +581,33 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
   (C) is employed in a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
 
-**(g) Duties and Powers of Administrator.—**
+**(g) Duties and Powers of Administrator.—** The Administrator shall carry out the following:
 
-(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
+(1) Duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in the following:
 
-  (A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+  (A) Section 308(b).
 
-  (B) additional duties and powers prescribed by the Secretary of Transportation.
+  (B) Subsections (c) and (d) of section 1132.
 
-(2) In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and 48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by section 44931 11 See References in Text note below. of this title.
+  (C) Sections 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), and 40114(a).
+
+  (D) Chapter 445, except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515.
+
+  (E) Chapter 447, except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723.
+
+  (F) Chapter 451.
+
+  (G) Chapter 453.
+
+  (H) Section 46104.
+
+  (I) Subsections (d) and (h)(2) of section 46301 and sections 46303(c), 46304 through 46308, 46310, 46311, and 46313 through 46316.
+
+  (J) Chapter 465.
+
+  (K) Sections 47504(b) (related to flight procedures), 47508(a), and 48107.
+
+(2) Additional duties and powers prescribed by the Secretary of Transportation.
 
 **(h)** [Section 40101(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101/d&num=0&edition=prelim) applies to duties and powers specified in subsection (g)(1) of this section. Any of those duties and powers may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers is administratively final.
 
@@ -586,15 +619,17 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
 (1) **Salaries, operations, and maintenance.—** — There is authorized to be appropriated to the Secretary of Transportation for salaries, operations, and maintenance of the Administration—
 
-  (A) $9,653,000,000 for fiscal year 2012;
+  (A) $10,247,000,000 for fiscal year 2018;
 
-  (B) $9,539,000,000 for fiscal year 2013;
+  (B) $10,486,000,000 for fiscal year 2019;
 
-  (C) $9,596,000,000 for fiscal year 2014;
+  (C) $10,732,000,000 for fiscal year 2020;
 
-  (D) $9,653,000,000 for fiscal year 2015; and
+  (D) $11,000,000,000 for fiscal year 2021;
 
-  (E) $9,909,724,000 for each of fiscal years 2016 and 2017.
+  (E) $11,269,000,000 for fiscal year 2022; and
+
+  (F) $11,537,000,000 for fiscal year 2023.
   Such sums shall remain available until expended.
 
 (2) **Authorized expenditures.—** — Out of amounts appropriated under paragraph (1), the following expenditures are authorized:
@@ -605,7 +640,21 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
   (C) Such sums as may be necessary for fiscal years 2012 through 2015 to carry out the Aviation Safety Reporting System and the development and maintenance of helicopter approach procedures.
 
-(3) **Administering program within available funding.—** — Notwithstanding any other provision of law, in each of fiscal years 2012 through 2017, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+  (D) Not more than the following amounts for commercial space transportation activities:
+
+    (i) $22,587,000 for fiscal year 2018.
+
+    (ii) $33,038,000 for fiscal year 2019.
+
+    (iii) $43,500,000 for fiscal year 2020.
+
+    (iv) $54,970,000 for fiscal year 2021.
+
+    (v) $64,449,000 for fiscal year 2022.
+
+    (vi) $75,938,000 for fiscal year 2023.
+
+(3) **Administering program within available funding.—** — Notwithstanding any other provision of law, in each of fiscal years 2018 through 2023, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 
 **(l) Personnel and Services.—**
 
@@ -683,7 +732,7 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
   (C) *Access to documents and staff.—* — The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), pertaining to unauthorized disclosure of such information.
 
-(5) **Federal advisory committee act not to apply.—** — The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Council, the Air Traffic Services Committee, or such aviation rulemaking committees as the Administrator shall designate.
+(5) **Federal advisory committee act not to apply.—** — The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Council, the Air Traffic Services Committee, such aviation rulemaking committees as the Administrator shall designate, or such aerospace rulemaking committees as the Secretary shall designate.
 
 (6) **Administrative matters.—**
 
@@ -907,57 +956,53 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
     (iii) ensure that the budget request supports the agency’s annual and long-range strategic plans for air traffic control services.
 
-**(s) Chief NextGen Officer.—**
+**(s) Chief Technology Officer.—**
 
 (1) **In general.—**
 
-  (A) *Appointment.—* — There shall be a Chief NextGen Officer appointed by the Administrator, with the approval of the Secretary. The Chief NextGen Officer shall report directly to the Administrator and shall be subject to the authority of the Administrator.
+  (A) *Appointment.—* — There shall be a Chief Technology Officer appointed by the Chief Operating Officer. The Chief Technology Officer shall report directly to the Chief Operating Officer.
 
-  (B) *Qualifications.—* — The Chief NextGen Officer shall have a demonstrated ability in management and knowledge of or experience in aviation and systems engineering.
+  (B) *Minimum qualifications.—* — The Chief Technology Officer shall have—
 
-  (C) *Term.—* — The Chief NextGen Officer shall be appointed for a term of 5 years.
+    (i) at least 10 years experience in engineering management or another relevant technical management field; and
 
-  (D) *Removal.—* — The Chief NextGen Officer shall serve at the pleasure of the Administrator, except that the Administrator shall make every effort to ensure stability and continuity in the leadership of the implementation of NextGen.
+    (ii) knowledge of or experience in the aviation industry.
 
-  (E) *Vacancy.—* — Any individual appointed to fill a vacancy in the position of Chief NextGen Officer occurring before the expiration of the term for which the individual’s predecessor was appointed shall be appointed for the remainder of that term.
+  (C) *Removal.—* — The Chief Technology Officer shall serve at the pleasure of the Administrator.
 
-(2) **Compensation.—**
+  (D) *Restriction.—* — The Chief Technology Officer may not also be the Deputy Administrator.
 
-  (A) *In general.—* — The Chief NextGen Officer shall be paid at an annual rate of basic pay to be determined by the Administrator. The annual rate may not exceed the annual compensation paid under [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim). The Chief NextGen Officer shall be subject to the postemployment provisions of [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim) as if the position of Chief NextGen Officer were described in section 207(c)(2)(A)(i) of that title.
+(2) **Responsibilities.—** — The responsibilities of the Chief Technology Officer shall include—
 
-  (B) *Bonus.—* — In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief NextGen Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator’s evaluation of the Chief NextGen Officer’s performance in relation to the performance goals set forth in the performance agreement described in paragraph (3).
+  (A) ensuring the proper operation, maintenance, and cybersecurity of technology systems relating to the air traffic control system across all program offices of the Administration;
 
-(3) **Annual performance agreement.—** — The Administrator and the Chief NextGen Officer, in consultation with the Federal Aviation Management Advisory Council, shall enter into an annual performance agreement that sets forth measurable organization and individual goals for the Chief NextGen Officer in key operational areas. The agreement shall be subject to review and renegotiation on an annual basis.
+  (B) coordinating the implementation, operation, maintenance, and cybersecurity of technology programs relating to the air traffic control system with the aerospace industry and other Federal agencies;
 
-(4) **Annual performance report.—** — The Chief NextGen Officer shall prepare and transmit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate an annual management report containing such information as may be prescribed by the Secretary.
+  (C) reviewing and providing advice to the Secretary, the Administrator, and the Chief Operating Officer on the Administration’s budget, cost-accounting system, and benefit-cost analyses with respect to technology programs relating to the air traffic control system;
 
-(5) **Responsibilities.—** — The responsibilities of the Chief NextGen Officer include the following:
+  (D) consulting with the Administrator on the Capital Investment Plan of the Administration prior to its submission to Congress;
 
-  (A) Implementing NextGen activities and budgets across all program offices of the Federal Aviation Administration.
+  (E) developing an annual air traffic control system technology operation and maintenance plan that is consistent with the annual performance targets established under paragraph (4); and
 
-  (B) Coordinating the implementation of NextGen activities with the Office of Management and Budget.
+  (F) ensuring that the air traffic control system architecture remains, to the maximum extent practicable, flexible enough to incorporate future technological advances developed and directly procured by aircraft operators.
 
-  (C) Reviewing and providing advice on the Administration’s modernization programs, budget, and cost accounting system with respect to NextGen.
+(3) **Compensation.—**
 
-  (D) With respect to the budget of the Administration—
+  (A) *In general.—* — The Chief Technology Officer shall be paid at an annual rate of basic pay to be determined by the Administrator, in consultation with the Chief Operating Officer. The annual rate may not exceed the annual compensation paid under [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim). The Chief Technology Officer shall be subject to the postemployment provisions of [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim) as if the position of Chief Technology Officer were described in section 207(c)(2)(A)(i) of that title.
 
-    (i) developing a budget request of the Administration related to the implementation of NextGen;
+  (B) *Bonus.—* — In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief Technology Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator’s evaluation of the Chief Technology Officer’s performance in relation to the performance targets established under paragraph (4).
 
-    (ii) submitting such budget request to the Administrator; and
+(4) **Annual performance targets.—**
 
-    (iii) ensuring that the budget request supports the annual and long-range strategic plans of the Administration with respect to NextGen.
+  (A) *In general.—* — The Administrator and the Chief Operating Officer, in consultation with the Chief Technology Officer, shall establish measurable annual performance targets for the Chief Technology Officer in key operational areas.
 
-  (E) Consulting with the Administrator on the Capital Investment Plan of the Administration prior to its submission to Congress.
+  (B) *Report.—* — The Administrator shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the annual performance targets established under subparagraph (A).
 
-  (F) Developing an annual NextGen implementation plan.
+(5) **Annual performance report.—** — The Chief Technology Officer shall prepare and transmit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate an annual report containing—
 
-  (G) Ensuring that NextGen implementation activities are planned in such a manner as to require that system architecture is designed to allow for the incorporation of novel and currently unknown technologies into NextGen in the future and that current decisions do not bias future decisions unfairly in favor of existing technology at the expense of innovation.
+  (A) detailed descriptions and metrics of how successful the Chief Technology Officer was in meeting the annual performance targets established under paragraph (4); and
 
-  (H) Coordinating with the NextGen Joint Planning and Development Office with respect to facilitating cooperation among all Federal agencies whose operations and interests are affected by the implementation of NextGen.
-
-(6) **Exception.—** — If the Administrator appoints as the Chief NextGen Officer, pursuant to paragraph (1)(A), an Executive Schedule employee covered by [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), then paragraphs (1)(B), (1)(C), (2), and (3) of this subsection shall not apply to such employee.
-
-(7) **Nextgen defined.—** — For purposes of this subsection, the term “NextGen” means the Next Generation Air Transportation System.
+  (B) other information as may be requested by the Administrator and the Chief Operating Officer.
 
 **(t) Aviation Safety Whistleblower Investigation Office.—**
 
@@ -1068,8 +1113,6 @@ The date of the enactment of the Wendell H. Ford Aviation Investment and Reform 
 
 The date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, referred to in subsecs. (f)(3)(C), (o), and (p)(1), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
 
-[Section 44931 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44931&num=0&edition=prelim), referred to in subsec. (g)(2), was repealed by Pub. L. 107–71, title I, § 101(f)(6), Nov. 19, 2001, 115 Stat. 603.
-
 The Federal Advisory Committee Act, referred to in subsec. (p)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (p)(6)(C), (7)(A), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
@@ -1077,6 +1120,42 @@ The date of enactment of the Vision 100—Century of Aviation Reauthorization Ac
 The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–254, § 1991(a), amended subsec. (g) generally. Prior to amendment, text read as follows:
+
+“(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
+
+“(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+
+“(B) additional duties and powers prescribed by the Secretary of Transportation.
+
+“(2) In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and 48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by [section 44931 of this title](./chapter-449-security.md#section-44931).”
+
+Subsec. (k)(1)(A)–(E). Pub. L. 115–254, § 113(a), added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
+
+“(A) $9,653,000,000 for fiscal year 2012;
+
+“(B) $9,539,000,000 for fiscal year 2013;
+
+“(C) $9,596,000,000 for fiscal year 2014;
+
+“(D) $9,653,000,000 for fiscal year 2015;
+
+“(E) $9,909,724,000 for each of fiscal years 2016 and 2017; and”.
+
+Subsec. (k)(1)(F). Pub. L. 115–254, § 113(a), added subpar. (F) and struck out former subpar. (F) which read as follows: “$10,025,852,000 for fiscal year 2018.”Pub. L. 115–141, § 103(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “$4,999,191,956 for the period beginning on October 1, 2017, and ending on March 31, 2018.”
+
+Subsec. (k)(2)(D). Pub. L. 115–254, § 113(b), added subpar. (D).
+
+Subsec. (k)(3). Pub. L. 115–254, § 113(c), substituted “fiscal years 2018 through 2023,” for “fiscal years 2012 through 2018,”.Pub. L. 115–141, § 103(2), substituted “2018” for “2017 and for the period beginning on October 1, 2017, and ending on March 31, 2018”.
+
+Subsec. (p)(5). Pub. L. 115–254, § 564, substituted “Committee,” for “Committee, or” and “, or such aerospace rulemaking committees as the Secretary shall designate.” for period at end.
+
+Subsec. (s). Pub. L. 115–254, § 545(a), amended subsec. (s) generally. Prior to amendment, subsec. (s) related to Chief NextGen Officer.
+
+2017—Subsec. (k)(1)(F). Pub. L. 115–63, § 103(1), added subpar. (F).
+
+Subsec. (k)(3). Pub. L. 115–63, § 103(2), inserted “and for the period beginning on October 1, 2017, and ending on March 31, 2018” after “fiscal years 2012 through 2017”.
+
 2016—Subsec. (k)(1)(E). Pub. L. 114–190, § 1103(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “$7,711,387,500 for the period beginning on October 1, 2015, and ending on July 15, 2016.”
 
 Pub. L. 114–141, § 103(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “$4,870,350,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
@@ -1397,10 +1476,23 @@ Pub. L. 104–264, title II, § 203, Oct. 9, 1996, 110 Stat. 3227, provided that
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
 
+#### Regional Ombudsmen
+Pub. L. 115–254, div. B, title I, § 180, Oct. 5, 2018, 132 Stat. 3230, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], with respect to each region of the Federal Aviation Administration, the Regional Administrator for that region shall designate an individual to be the Regional Ombudsman for the region. “(b) Requirements.—Each Regional Ombudsman shall—“(1) serve as a regional liaison with the public, including community groups, on issues regarding aircraft noise, pollution, and safety; “(2) make recommendations to the Administrator for the region to address concerns raised by the public and improve the consideration of public comments in decision-making processes; and “(3) be consulted on proposed changes in aircraft operations affecting the region, including arrival and departure routes, in order to minimize environmental impacts, including noise.”
+
+#### Federal Aviation Administration Performance Measures and Targets
+Pub. L. 115–254, div. B, title V, § 558, Oct. 5, 2018, 132 Stat. 3383, provided that: “(a) Performance Measures.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Secretary of Transportation shall establish performance measures relating to the management of the [Federal Aviation] Administration, which shall, at a minimum, include measures to assess—“(1) the timely and cost-effective completion of projects; and “(2) the effectiveness of the Administration in achieving the goals described in [section 47171 of title 49](./chapter-471-airport-development.md#section-47171), United States Code. “(b) Performance Targets.—Not later than 180 days after the date on which the Secretary establishes performance measures in accordance with subsection (a), the Secretary shall establish performance targets relating to each of the measures described in that subsection. “(c) Report.—Not later than 2 years after the date of enactment of this Act, the inspector general of the Department of Transportation shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] a report describing the progress of the Secretary in meeting the performance targets established under subsection (b).”
+
+#### Assistant Administrator for Research and Development
+Pub. L. 115–254, div. B, title VII, § 711, Oct. 5, 2018, 132 Stat. 3410, provided that: “(a) Appointment.—Not later than 3 months after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Federal Aviation Administration] shall appoint an Assistant Administrator for Research and Development. “(b) Responsibilities.—The Assistant Administrator for Research and Development shall, at a minimum, be responsible for—“(1) management and oversight of all the FAA’s [Federal Aviation Administration’s] research and development programs and activities; and “(2) production of all congressional reports from the FAA relevant to research and development, including the national aviation research plan required under [section 44501(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44501/c&num=0&edition=prelim), United States Code. “(c) Dual Appointment.—The Assistant Administrator for Research and Development may be a dual-appointment, holding the responsibilities of another Assistant Administrator.”
+
 #### Educational Requirements
 Pub. L. 112–95, title II, § 223, Feb. 14, 2012, 126 Stat. 55, provided that: “The Administrator of the Federal Aviation Administration shall make payments to the Department of Defense for the education of dependent children of those Administration employees in Puerto Rico and Guam as they are subject to transfer by policy and practice and meet the eligibility requirements of [section 2164(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164/c&num=0&edition=prelim), United States Code.”
 
 #### FAA Review and Reform
+Pub. L. 115–254, div. B, title V, § 511, Oct. 5, 2018, 132 Stat. 3356, provided that: “(a) Agency Report.—Not later than 60 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator shall submit to the appropriate committees of Congress a detailed analysis of any actions taken to address the findings and recommendations included in the report required under section 812(d) of the FAA Modernization and Reform Act of 2012 [Pub. L. 112–95] ([49 U.S.C. 106](./chapter-001-organization.md#section-106) note), including—“(1) consolidating, phasing-out, or eliminating duplicative positions, programs, roles, or offices; “(2) eliminating or streamlining wasteful practices; “(3) eliminating or phasing-out redundant, obsolete, or unnecessary functions; “(4) reforming and streamlining inefficient processes so that the activities of the Administration are completed in an expedited and efficient manner; and “(5) reforming or eliminating ineffectual or outdated policies. “(b) Additional Review.—Not later than 18 months after the date of enactment of this Act, the Administrator shall undertake and complete a thorough review of each program, office, and organization within the Administration to identify—“(1) duplicative positions, programs, roles, or offices; “(2) wasteful practices; “(3) redundant, obsolete, or unnecessary functions; “(4) inefficient processes; and “(5) ineffectual or outdated policies. “(c) Actions To Streamline and Reform FAA.—Not later than 60 days after the date of completion of the review under subsection (b), the Administrator shall undertake such actions as may be necessary to address the findings of the Administrator under such subsection. “(d) Report to Congress.—Not later than 120 days after the date of completion of the review under subsection (b), the Administrator shall submit to the appropriate committees of Congress a report on the actions taken by the Administrator pursuant to subsection (c), including any recommendations for legislative or administrative actions.”
+
+[For definitions of terms used in section 511 of Pub. L. 115–254, set out above, see sections 101 and 501 of Pub. L. 115–254, set out as notes under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101).]
+
 Pub. L. 112–95, title VIII, § 812, Feb. 14, 2012, 126 Stat. 124, provided that: “(a) Agency Review.—Not later than 60 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall undertake a thorough review of each program, office, and organization within the Administration, including the Air Traffic Organization, to identify—“(1) duplicative positions, programs, roles, or offices; “(2) wasteful practices; “(3) redundant, obsolete, or unnecessary functions; “(4) inefficient processes; and “(5) ineffectual or outdated policies. “(b) Actions To Streamline and Reform FAA.—Not later than 120 days after the date of enactment of this Act, the Administrator shall undertake such actions as may be necessary to address the Administrator’s findings under subsection (a), including—“(1) consolidating, phasing-out, or eliminating duplicative positions, programs, roles, or offices; “(2) eliminating or streamlining wasteful practices; “(3) eliminating or phasing-out redundant, obsolete, or unnecessary functions; “(4) reforming and streamlining inefficient processes so that the activities of the Administration are completed in an expedited and efficient manner; and “(5) reforming or eliminating ineffectual or outdated policies. “(c) Authority.—Notwithstanding any other provision of law, the Administrator shall have the authority to undertake the actions required under subsection (b). “(d) Report to Congress.—Not later than 150 days after the date of enactment of this Act, the Administrator shall submit to Congress a report on the actions taken by the Administrator under this section, including any recommendations for legislative or administrative actions.”
 
 #### Orphan Aviation Earmarks
@@ -1839,11 +1931,15 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 #### Transfer of Duties and Powers
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, provided in part: “That notwithstanding any other provision of law, the powers and duties, functions, authorities and personnel of the Research and Innovative Technology Administration are hereby transferred to the Office of the Assistant Secretary for Research and Technology in the Office of the Secretary: Provided further, That notwithstanding [section 102 of title 49](./chapter-001-organization.md#section-102) and [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, there shall be an Assistant Secretary for Research and Technology within the Office of the Secretary, appointed by the President with the advice and consent of the Senate, to lead such office: Provided further, That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.”
 
-[Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 725, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
+[Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 972, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
 
-[Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2835, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
+[Similar provisions were contained in the following prior appropriations acts:]
 
-[Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2696, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
+[Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 725.]
+
+[Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2835.]
+
+[Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2696.]
 
 Pub. L. 108–426, § 4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: “The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration.”
 
@@ -1900,29 +1996,49 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 <a id="section-114"></a>
 ## § 114. Transportation Security Administration
-**(a) In General.—** The Transportation Security Administration shall be an administration of the Department of Transportation.
+**(a) In General.—** The Transportation Security Administration shall be an administration of the Department of Homeland Security.
 
-**(b) Under Secretary.—**
+**(b) Leadership.—**
 
-(1) **Appointment.—** — The head of the Administration shall be the Under Secretary of Transportation for Security. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+(1) **Head of transportation security administration.—**
 
-(2) **Qualifications.—** — The Under Secretary must—
+  (A) *Appointment.—* — The head of the Administration shall be the Administrator of the Transportation Security Administration (referred to in this section as the “Administrator”). The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
 
-  (A) be a citizen of the United States; and
+  (B) *Qualifications.—* — The Administrator must—
 
-  (B) have experience in a field directly related to transportation or security.
+    (i) be a citizen of the United States; and
 
-(3) **Term.—** — The term of office of an individual appointed as the Under Secretary shall be 5 years.
+    (ii) have experience in a field directly related to transportation or security.
 
-**(c) Limitation on Ownership of Stocks and Bonds.—** The Under Secretary may not own stock in or bonds of a transportation or security enterprise or an enterprise that makes equipment that could be used for security purposes.
+  (C) *Term.—* — Effective with respect to any individual appointment by the President, by and with the advice and consent of the Senate, after the date of enactment of the TSA Modernization Act, the term of office of an individual appointed as the Administrator shall be 5 years. The term of office of an individual serving as the Administrator on the date of enactment of the TSA Modernization Act shall be 5 years beginning on the date that the Administrator began serving.
 
-**(d) Functions.—** The Under Secretary shall be responsible for security in all modes of transportation, including—
+(2) **Deputy administrator.—**
+
+  (A) *Appointment.—* — There is established in the Transportation Security Administration a Deputy Administrator, who shall assist the Administrator in the management of the Transportation Security Administration. The Deputy Administrator shall be appointed by the President.
+
+  (B) *Vacancy.—* — The Deputy Administrator shall be Acting Administrator during the absence or incapacity of the Administrator or during a vacancy in the office of Administrator.
+
+  (C) *Qualifications.—* — The Deputy Administrator must—
+
+    (i) be a citizen of the United States; and
+
+    (ii) have experience in a field directly related to transportation or security.
+
+(3) **Chief counsel.—**
+
+  (A) *Appointment.—* — There is established in the Transportation Security Administration a Chief Counsel, who shall advise the Administrator and other senior officials on all legal matters relating to the responsibilities, functions, and management of the Transportation Security Administration.
+
+  (B) *Qualifications.—* — The Chief Counsel must be a citizen of the United States.
+
+**(c) Limitation on Ownership of Stocks and Bonds.—** The Administrator may not own stock in or bonds of a transportation or security enterprise or an enterprise that makes equipment that could be used for security purposes.
+
+**(d) Functions.—** The Administrator shall be responsible for security in all modes of transportation, including—
 
 (1) carrying out chapter 449, relating to civil aviation security, and related research and development activities; and
 
 (2) security responsibilities over other modes of transportation that are exercised by the Department of Transportation.
 
-**(e) Screening Operations.—** The Under Secretary shall—
+**(e) Screening Operations.—** The Administrator shall—
 
 (1) be responsible for day-to-day Federal security screening operations for passenger air transportation and intrastate air transportation under sections 44901 and 44935;
 
@@ -1932,7 +2048,7 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 (4) be responsible for hiring and training personnel to provide security screening at all airports in the United States where screening is required under section 44901, in consultation with the Secretary of Transportation and the heads of other appropriate Federal agencies and departments.
 
-**(f) Additional Duties and Powers.—** In addition to carrying out the functions specified in subsections (d) and (e), the Under Secretary shall—
+**(f) Additional Duties and Powers.—** In addition to carrying out the functions specified in subsections (d) and (e), the Administrator shall—
 
 (1) receive, assess, and distribute intelligence information related to transportation security;
 
@@ -1960,13 +2076,15 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 (13) work in conjunction with the Administrator of the Federal Aviation Administration with respect to any actions or activities that may affect aviation safety or air carrier operations;
 
-(14) work with the International Civil Aviation Organization and appropriate aeronautic authorities of foreign governments under section 44907 to address security concerns on passenger flights by foreign air carriers in foreign air transportation; and
+(14) work with the International Civil Aviation Organization and appropriate aeronautic authorities of foreign governments under section 44907 to address security concerns on passenger flights by foreign air carriers in foreign air transportation;
 
-(15) carry out such other duties, and exercise such other powers, relating to transportation security as the Under Secretary considers appropriate, to the extent authorized by law.
+(15) establish and maintain a National Deployment Office as required under [section 44948 of this title](./chapter-449-security.md#section-44948); and
+
+(16) carry out such other duties, and exercise such other powers, relating to transportation security as the Administrator considers appropriate, to the extent authorized by law.
 
 **(g) National Emergency Responsibilities.—**
 
-(1) **In general.—** — Subject to the direction and control of the Secretary, the Under Secretary, during a national emergency, shall have the following responsibilities:
+(1) **In general.—** — Subject to the direction and control of the Secretary of Homeland Security, the Administrator, during a national emergency, shall have the following responsibilities:
 
   (A) To coordinate domestic transportation, including aviation, rail, and other surface transportation, and maritime transportation (including port security).
 
@@ -1974,13 +2092,13 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (C) To coordinate and provide notice to other departments and agencies of the Federal Government, and appropriate agencies of State and local governments, including departments and agencies for transportation, law enforcement, and border control, about threats to transportation.
 
-  (D) To carry out such other duties, and exercise such other powers, relating to transportation during a national emergency as the Secretary shall prescribe.
+  (D) To carry out such other duties, and exercise such other powers, relating to transportation during a national emergency as the Secretary of Homeland Security shall prescribe.
 
-(2) **Authority of other departments and agencies.—** — The authority of the Under Secretary under this subsection shall not supersede the authority of any other department or agency of the Federal Government under law with respect to transportation or transportation-related matters, whether or not during a national emergency.
+(2) **Authority of other departments and agencies.—** — The authority of the Administrator under this subsection shall not supersede the authority of any other department or agency of the Federal Government under law with respect to transportation or transportation-related matters, whether or not during a national emergency.
 
-(3) **Circumstances.—** — The Secretary shall prescribe the circumstances constituting a national emergency for purposes of this subsection.
+(3) **Circumstances.—** — The Secretary of Homeland Security shall prescribe the circumstances constituting a national emergency for purposes of this subsection.
 
-**(h) Management of Security Information.—** In consultation with the Transportation Security Oversight Board, the Under Secretary shall—
+**(h) Management of Security Information.—** In consultation with the Transportation Security Oversight Board, the Administrator shall—
 
 (1) enter into memoranda of understanding with Federal agencies or other entities to share or otherwise cross-check as necessary data on individuals identified on Federal agency databases who may pose a risk to transportation or national security;
 
@@ -1994,57 +2112,81 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 (4) consider requiring passenger air carriers to share passenger lists with appropriate Federal agencies for the purpose of identifying individuals who may pose a threat to aviation safety or national security.
 
-**(i) View of NTSB.—** In taking any action under this section that could affect safety, the Under Secretary shall give great weight to the timely views of the National Transportation Safety Board.
+**(i) View of NTSB.—** In taking any action under this section that could affect safety, the Administrator shall give great weight to the timely views of the National Transportation Safety Board.
 
 **(j) Acquisitions.—**
 
-(1) **In general.—** — The Under Secretary is authorized—
+(1) **In general.—** — The Administrator is authorized—
 
-  (A) to acquire (by purchase, lease, condemnation, or otherwise) such real property, or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
+  (A) to acquire (by purchase, lease, condemnation, or otherwise) such real property, or any interest therein, within and outside the continental United States, as the Administrator considers necessary;
 
-  (B) to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain such personal property (including office space and patents), or any interest therein, within and outside the continental United States, as the Under Secretary considers necessary;
+  (B) to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain such personal property (including office space and patents), or any interest therein, within and outside the continental United States, as the Administrator considers necessary;
 
   (C) to lease to others such real and personal property and to provide by contract or otherwise for necessary facilities for the welfare of its employees and to acquire, maintain, and operate equipment for these facilities;
 
-  (D) to acquire services, including such personal services as the Secretary determines necessary, and to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain research and testing sites and facilities; and
+  (D) to acquire services, including such personal services as the Secretary of Homeland Security determines necessary, and to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain research and testing sites and facilities; and
 
   (E) in cooperation with the Administrator of the Federal Aviation Administration, to utilize the research and development facilities of the Federal Aviation Administration.
 
 (2) **Title.—** — Title to any property or interest therein acquired pursuant to this subsection shall be held by the Government of the United States.
 
-**(k) Transfers of Funds.—** The Under Secretary is authorized to accept transfers of unobligated balances and unexpended balances of funds appropriated to other Federal agencies (as such term is defined in [section 551(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/1&num=0&edition=prelim)) to carry out functions transferred, on or after the date of enactment of the Aviation and Transportation Security Act, by law to the Under Secretary.
+**(k) Transfers of Funds.—** The Administrator is authorized to accept transfers of unobligated balances and unexpended balances of funds appropriated to other Federal agencies (as such term is defined in [section 551(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/1&num=0&edition=prelim)) to carry out functions assigned by law to the Administrator.
 
 **(l) Regulations.—**
 
-(1) **In general.—** — The Under Secretary is authorized to issue, rescind, and revise such regulations as are necessary to carry out the functions of the Administration.
+(1) **In general.—** — The Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out the functions of the Administration.
 
 (2) **Emergency procedures.—**
 
-  (A) *In general.—* — Notwithstanding any other provision of law or executive order (including an executive order requiring a cost-benefit analysis), if the Under Secretary determines that a regulation or security directive must be issued immediately in order to protect transportation security, the Under Secretary shall issue the regulation or security directive without providing notice or an opportunity for comment and without prior approval of the Secretary.
+  (A) *In general.—* — Notwithstanding any other provision of law or executive order (including an executive order requiring a cost-benefit analysis), if the Administrator determines that a regulation or security directive must be issued immediately in order to protect transportation security, the Administrator shall issue the regulation or security directive without providing notice or an opportunity for comment and without prior approval of the Secretary.
 
-  (B) *Review by transportation security oversight board.—* — Any regulation or security directive issued under this paragraph shall be subject to review by the Transportation Security Oversight Board established under section 115. Any regulation or security directive issued under this paragraph shall remain effective for a period not to exceed 90 days unless ratified or disapproved by the Board or rescinded by the Under Secretary.
+  (B) *Review by transportation security oversight board.—* — Any regulation or security directive issued under this paragraph shall be subject to review by the Transportation Security Oversight Board established under section 115. Any regulation or security directive issued under this paragraph shall remain effective for a period not to exceed 90 days unless ratified or disapproved by the Board or rescinded by the Administrator.
 
-(3) **Factors to consider.—** — In determining whether to issue, rescind, or revise a regulation under this section, the Under Secretary shall consider, as a factor in the final determination, whether the costs of the regulation are excessive in relation to the enhancement of security the regulation will provide. The Under Secretary may waive requirements for an analysis that estimates the number of lives that will be saved by the regulation and the monetary value of such lives if the Under Secretary determines that it is not feasible to make such an estimate.
+(3) **Factors to consider.—** — In determining whether to issue, rescind, or revise a regulation under this section, the Administrator shall consider, as a factor in the final determination, whether the costs of the regulation are excessive in relation to the enhancement of security the regulation will provide. The Administrator may waive requirements for an analysis that estimates the number of lives that will be saved by the regulation and the monetary value of such lives if the Administrator determines that it is not feasible to make such an estimate.
 
 (4) **Airworthiness objections by faa.—**
 
-  (A) *In general.—* — The Under Secretary shall not take an aviation security action under this title if the Administrator of the Federal Aviation Administration notifies the Under Secretary that the action could adversely affect the airworthiness of an aircraft.
+  (A) *In general.—* — The Administrator shall not take an aviation security action under this title if the Administrator of the Federal Aviation Administration notifies the Administrator that the action could adversely affect the airworthiness of an aircraft.
 
-  (B) *Review by secretary.—* — Notwithstanding subparagraph (A), the Under Secretary may take such an action, after receiving a notification concerning the action from the Administrator under subparagraph (A), if the Secretary of Transportation subsequently approves the action.
+  (B) *Review by secretary.—* — Notwithstanding subparagraph (A), the Administrator may take such an action, after receiving a notification concerning the action from the Administrator of the Federal Aviation Administration under subparagraph (A), if the Secretary of Transportation subsequently approves the action.
 
-**(m) Personnel and Services; Cooperation by Under Secretary.—**
+**(m) Personnel and Services; Cooperation by Administrator.—**
 
-(1) **Authority of under secretary.—** — In carrying out the functions of the Administration, the Under Secretary shall have the same authority as is provided to the Administrator of the Federal Aviation Administration under subsections (l) and (m) of section 106.
+(1) **Authority of administrator.—** — In carrying out the functions of the Administration, the Administrator shall have the same authority as is provided to the Administrator of the Federal Aviation Administration under subsections (l) and (m) of section 106.
 
-(2) **Authority of agency heads.—** — The head of a Federal agency shall have the same authority to provide services, supplies, equipment, personnel, and facilities to the Under Secretary as the head has to provide services, supplies, equipment, personnel, and facilities to the Administrator of the Federal Aviation Administration under section 106(m).
+(2) **Authority of agency heads.—** — The head of a Federal agency shall have the same authority to provide services, supplies, equipment, personnel, and facilities to the Administrator as the head has to provide services, supplies, equipment, personnel, and facilities to the Administrator of the Federal Aviation Administration under section 106(m).
 
-**(n) Personnel Management System.—** The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the personnel management system with respect to such employees as the Under Secretary considers appropriate, such as adopting aspects of other personnel systems of the Department of Transportation.
+**(n) Personnel Management System.—**
 
-**(o) Authority of Inspector General.—** The Transportation Security Administration shall be subject to the Inspector General Act of 1978 (5 U.S.C. App.) and other laws relating to the authority of the Inspector General of the Department of Transportation.
+(1) **In general.—** — The personnel management system established by the Administrator of the Federal Aviation Administration under section 40122 shall apply to employees of the Transportation Security Administration, or, subject to the requirements of such section, the Administrator may make such modifications to the personnel management system with respect to such employees as the Administrator considers appropriate, such as adopting aspects of other personnel systems of the Department of Homeland Security.
+
+(2) **Meritorious executive or distinguished executive rank awards.—** — Notwithstanding [section 40122(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40122/g/2&num=0&edition=prelim), the applicable sections of title 5 shall apply to the Transportation Security Administration personnel management system, except that—
+
+  (A) for purposes of applying such provisions to the personnel management system—
+
+    (i) the term “agency” means the Department of Homeland Security;
+
+    (ii) the term “senior executive” means a Transportation Security Administration executive serving on a Transportation Security Executive Service appointment;
+
+    (iii) the term “career appointee” means a Transportation Security Administration executive serving on a career Transportation Security Executive Service appointment; and
+
+    (iv) The 11 So in original. Probably should not be capitalized. term “senior career employee” means a Transportation Security Administration employee covered by the Transportation Security Administration Core Compensation System at the L or M pay band;
+
+  (B) receipt by a career appointee or a senior career employee of the rank of Meritorious Executive or Meritorious Senior Professional entitles the individual to a lump-sum payment of an amount equal to 20 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system; and
+
+  (C) receipt by a career appointee or a senior career employee of the rank of Distinguished Executive or Distinguished Senior Professional entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system.
+
+(3) **Definition of applicable sections of title 5.—** — In this subsection, the term “applicable sections of title 5” means—
+
+  (A) subsections (b), (c) and (d) of [section 4507 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4507&num=0&edition=prelim); and
+
+  (B) subsections (b) and (c) of [section 4507a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4507a&num=0&edition=prelim).
+
+**(o) Authority of Inspector General.—** The Transportation Security Administration shall be subject to the Inspector General Act of 1978 (5 U.S.C. App.) and other laws relating to the authority of the Inspector General of the Department of Homeland Security.
 
 **(p) Law Enforcement Powers.—**
 
-(1) **In general.—** — The Under Secretary may designate an employee of the Transportation Security Administration or other Federal agency to serve as a law enforcement officer.
+(1) **In general.—** — The Administrator may designate an employee of the Transportation Security Administration or other Federal agency to serve as a law enforcement officer.
 
 (2) **Powers.—** — While engaged in official duties of the Administration as required to fulfill the responsibilities under this section, a law enforcement officer designated under paragraph (1) may—
 
@@ -2054,15 +2196,15 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (C) seek and execute warrants for arrest or seizure of evidence issued under the authority of the United States upon probable cause that a violation has been committed.
 
-(3) **Guidelines on exercise of authority.—** — The authority provided by this subsection shall be exercised in accordance with guidelines prescribed by the Under Secretary, in consultation with the Attorney General of the United States, and shall include adherence to the Attorney General’s policy on use of deadly force.
+(3) **Guidelines on exercise of authority.—** — The authority provided by this subsection shall be exercised in accordance with guidelines prescribed by the Administrator, in consultation with the Attorney General of the United States, and shall include adherence to the Attorney General’s policy on use of deadly force.
 
-(4) **Revocation or suspension of authority.—** — The powers authorized by this subsection may be rescinded or suspended should the Attorney General determine that the Under Secretary has not complied with the guidelines prescribed in paragraph (3) and conveys the determination in writing to the Secretary of Transportation and the Under Secretary.
+(4) **Revocation or suspension of authority.—** — The powers authorized by this subsection may be rescinded or suspended should the Attorney General determine that the Administrator has not complied with the guidelines prescribed in paragraph (3) and conveys the determination in writing to the Secretary of Homeland Security and the Administrator.
 
-**(q) Authority To Exempt.—** The Under Secretary may grant an exemption from a regulation prescribed in carrying out this section if the Under Secretary determines that the exemption is in the public interest.
+**(q) Authority To Exempt.—** The Administrator may grant an exemption from a regulation prescribed in carrying out this section if the Administrator determines that the exemption is in the public interest.
 
 **(r) Nondisclosure of Security Activities.—**
 
-(1) **In general.—** — Notwithstanding [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), the Under Secretary shall prescribe regulations prohibiting the disclosure of information obtained or developed in carrying out security under authority of the Aviation and Transportation Security Act (Public Law 107–71) or under chapter 449 of this title if the Under Secretary decides that disclosing the information would—
+(1) **In general.—** — Notwithstanding [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), the Administrator shall prescribe regulations prohibiting the disclosure of information obtained or developed in carrying out security under authority of the Aviation and Transportation Security Act (Public Law 107–71) or under chapter 449 of this title if the Administrator decides that disclosing the information would—
 
   (A) be an unwarranted invasion of personal privacy;
 
@@ -2072,7 +2214,7 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 (2) **Availability of information to congress.—** — Paragraph (1) does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
-(3) **Limitation on transferability of duties.—** — Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
+(3) **Limitation on transferability of duties.—** — Except as otherwise provided by law, the Administrator may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
 
 (4) **Limitations.—** — Nothing in this subsection, or any other provision of law, shall be construed to authorize the designation of information as sensitive security information (as defined in section 1520.5 of title 49, Code of Federal Regulations)—
 
@@ -2098,7 +2240,7 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
 
-  (B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007 11 So in original. Probably should be followed by a closing parenthesis. across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
+  (B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007) across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
 
   (C) The most appropriate, practical, and cost-effective means of defending those assets against threats to their security.
 
@@ -2114,13 +2256,11 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (I) Transportation modal security plans described in paragraph (1)(B), including operational recovery plans to expedite, to the maximum extent practicable, the return to operation of an adversely affected transportation system following a major terrorist attack on that system or other incident. These plans shall be coordinated with the resumption of trade protocols required under section 202 of the SAFE Port Act ([6 U.S.C. 942](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section942&num=0&edition=prelim)) and the National Maritime Transportation Security Plan required under [section 70103(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103/a&num=0&edition=prelim).
 
-(4) **Submissions of plans to congress.—**
+(4) **Submission of plans.—**
 
-  (A) *Initial strategy.—* — The Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans, developed under this subsection to the appropriate congressional committees not later than April 1, 2005.
+  (A) *In general.—* — The Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans and any revisions to the National Strategy for Transportation Security and the transportation modal security plans, to appropriate congressional committees not less frequently than April 1 of each even-numbered year.
 
-  (B) *Subsequent versions.—* — After December 31, 2005, the Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans and any revisions to the National Strategy for Transportation Security and the transportation modal security plans, to appropriate congressional committees not less frequently than April 1 of each even-numbered year.
-
-  (C) *Periodic progress report.—*
+  (B) *Periodic progress report.—*
 
     (i) *Requirement for report.—* — Each year, in conjunction with the submission of the budget to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, the Secretary of Homeland Security shall submit to the appropriate congressional committees an assessment of the progress made on implementing the National Strategy for Transportation Security, including the transportation modal security plans.
 
@@ -2136,13 +2276,13 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
         (bb) personnel working on transportation security by mode, including the number of contractors; and
 
-        (cc) information on the turnover in the previous year among senior staff of the Department of Homeland Security, including component agencies, working on transportation security issues. Such information shall include the number of employees who have permanently left the office, agency, or area in which they worked, and the amount of time that they worked for the Department.
+        (cc) information on the turnover in the previous year among senior staff of the Department of Homeland Security, including component agencies, working on transportation security issues. Such information shall include the number of employees who have permanently left the office, agency, or area in which they worked, and the amount of time that they worked for the Department of Homeland Security.
 
     (iii) *Written explanation of transportation security activities not delineated in the national strategy for transportation security.—* — At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportation security activity that is inconsistent with the National Strategy for Transportation Security, including the amount of funds to be expended for the activity and the number of personnel involved.
 
-  (D) *Classified material.—* — Any part of the National Strategy for Transportation Security or the transportation modal security plans that involve information that is properly classified under criteria established by Executive order shall be submitted to the appropriate congressional committees separately in a classified format.
+  (C) *Classified material.—* — Any part of the National Strategy for Transportation Security or the transportation modal security plans that involve information that is properly classified under criteria established by Executive order shall be submitted to the appropriate congressional committees separately in a classified format.
 
-  (E) *Appropriate congressional committees defined.—* — In this subsection, the term “appropriate congressional committees” means the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+  (D) *Appropriate congressional committees defined.—* — In this subsection, the term “appropriate congressional committees” means the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 (5) **Priority Status.—**
 
@@ -2164,7 +2304,7 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 (7) **Plan distribution.—** — The Secretary of Homeland Security shall make available and appropriately publicize an unclassified version of the National Strategy for Transportation Security, including its component transportation modal security plans, to Federal, State, regional, local and tribal authorities, transportation system owners or operators, private sector stakeholders, including nonprofit employee labor organizations representing transportation employees, institutions of higher learning, and other appropriate entities.
 
-**(u) 22 So in original. There is no subsec. (t). Transportation Security Information Sharing Plan.—**
+**(t) Transportation Security Information Sharing Plan.—**
 
 (1) **Definitions.—** — In this subsection:
 
@@ -2174,11 +2314,9 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (C) *Public and private stakeholders.—* — The term “public and private stakeholders” means Federal, State, and local agencies, tribal governments, and appropriate private entities, including nonprofit employee labor organizations representing transportation employees.
 
-  (D) *Secretary.—* — The term “Secretary” means the Secretary of Homeland Security.
+  (D) *Transportation security information.—* — The term “transportation security information” means information relating to the risks to transportation modes, including aviation, public transportation, railroad, ferry, highway, maritime, pipeline, and over-the-road bus transportation, and may include specific and general intelligence products, as appropriate.
 
-  (E) *Transportation security information.—* — The term “transportation security information” means information relating to the risks to transportation modes, including aviation, public transportation, railroad, ferry, highway, maritime, pipeline, and over-the-road bus transportation, and may include specific and general intelligence products, as appropriate.
-
-(2) **Establishment of plan.—** — The Secretary of Homeland Security, in consultation with the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 485](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section485&num=0&edition=prelim)), the Secretary of Transportation, and public and private stakeholders, shall establish a Transportation Security Information Sharing Plan. In establishing the Plan, the Secretary shall gather input on the development of the Plan from private and public stakeholders and the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 485](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section485&num=0&edition=prelim)).
+(2) **Establishment of plan.—** — The Secretary of Homeland Security, in consultation with the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 485](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section485&num=0&edition=prelim)), the Secretary of Transportation, and public and private stakeholders, shall establish a Transportation Security Information Sharing Plan. In establishing the Plan, the Secretary of Homeland Security shall gather input on the development of the Plan from private and public stakeholders and the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 485](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section485&num=0&edition=prelim)).
 
 (3) **Purpose of plan.—** — The Plan shall promote sharing of transportation security information between the Department of Homeland Security and public and private stakeholders.
 
@@ -2186,7 +2324,7 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (A) a description of how intelligence analysts within the Department of Homeland Security will coordinate their activities within the Department and with other Federal, State, and local agencies, and tribal governments, including coordination with existing modal information sharing centers and the center described in section 1410 of the Implementing Recommendations of the 9/11 Commission Act of 2007;
 
-  (B) the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees if the point of contact established pursuant to this subparagraph differs from the agency within the Department that has the primary authority, or has been delegated such authority by the Secretary, to regulate the security of that transportation mode;
+  (B) the establishment of a point of contact, which may be a single point of contact within the Department of Homeland Security, for each mode of transportation for the sharing of transportation security information with public and private stakeholders, including an explanation and justification to the appropriate congressional committees if the point of contact established pursuant to this subparagraph differs from the agency within the Department of Homeland Security that has the primary authority, or has been delegated such authority by the Secretary of Homeland Security, to regulate the security of that transportation mode;
 
   (C) a reasonable deadline by which the Plan will be implemented; and
 
@@ -2198,23 +2336,19 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (B) consistent with the establishment of the information sharing environment and any policies, guidelines, procedures, instructions, or standards established by the President or the program manager for the implementation and management of the information sharing environment.
 
-(6) **Reports to congress.—**
+(6) **Annual report on plan.—** — The Secretary of Homeland Security shall annually submit to the appropriate congressional committees a report containing the Plan.
 
-  (A) *In general.—* — Not later than 150 days after the date of enactment of this subsection, and annually thereafter, the Secretary shall submit to the appropriate congressional committees, a report containing the Plan.
+(7) **Security clearances.—** — The Secretary of Homeland Security shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
 
-  (B) *Annual report.—* — Not later than 1 year after the date of enactment of this subsection, the Secretary shall submit to the appropriate congressional committees a report on updates to and the implementation of the Plan.
+(8) **Classification of material.—** — The Secretary of Homeland Security, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
 
-(7) **Security clearances.—** — The Secretary shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
-
-(8) **Classification of material.—** — The Secretary, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
-
-**(v) Enforcement of Regulations and Orders of the Secretary of Homeland Security.—**
+**(u) Enforcement of Regulations and Orders of the Secretary of Homeland Security.—**
 
 (1) **Application of subsection.—**
 
   (A) *In general.—* — This subsection applies to the enforcement of regulations prescribed, and orders issued, by the Secretary of Homeland Security under a provision of chapter 701 of title 46 and under a provision of this title other than a provision of chapter 449 (in this subsection referred to as an “applicable provision of this title”).
 
-  (B) *Violations of chapter 449.—* — The penalties for violations of regulations prescribed and orders issued by the Secretary of Homeland Security under chapter 449 of this title are provided under chapter 463 of this title.
+  (B) *Violations of chapter 449.—* — The penalties for violations of regulations prescribed and orders issued by the Secretary of Homeland Security or the Administrator under chapter 449 of this title are provided under chapter 463 of this title.
 
   (C) *Nonapplication to certain violations.—*
 
@@ -2226,7 +2360,7 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
       (III) by a civilian employee of the Department of Defense when performing official duties.
 
-    (ii) Violations described in subclause (I), (II), or (III) of clause (i) shall be subject to penalties as determined by the Secretary of Defense or the Secretary’s designee.
+    (ii) Violations described in subclause (I), (II), or (III) of clause (i) shall be subject to penalties as determined by the Secretary of Defense or the Secretary of Defense’s designee.
 
 (2) **Civil penalty.—**
 
@@ -2238,9 +2372,9 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (A) *In general.—* — The Secretary of Homeland Security may impose a civil penalty for a violation of a regulation prescribed, or order issued, under an applicable provision of this title. The Secretary shall give written notice of the finding of a violation and the penalty.
 
-  (B) *Scope of civil action.—* — In a civil action to collect a civil penalty imposed by the Secretary under this subsection, a court may not re-examine issues of liability or the amount of the penalty.
+  (B) *Scope of civil action.—* — In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security under this subsection, a court may not re-examine issues of liability or the amount of the penalty.
 
-  (C) *Jurisdiction.—* — The district courts of the United States shall have exclusive jurisdiction of civil actions to collect a civil penalty imposed by the Secretary under this subsection if—
+  (C) *Jurisdiction.—* — The district courts of the United States shall have exclusive jurisdiction of civil actions to collect a civil penalty imposed by the Secretary of Homeland Security under this subsection if—
 
     (i) the amount in controversy is more than—
 
@@ -2252,25 +2386,25 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
     (iii) another action has been brought for an injunction based on the same violation.
 
-  (D) *Maximum penalty.—* — The maximum civil penalty the Secretary administratively may impose under this paragraph is—
+  (D) *Maximum penalty.—* — The maximum civil penalty the Secretary of Homeland Security administratively may impose under this paragraph is—
 
     (i) $400,000, if the violation was committed by a person other than an individual or small business concern; or
 
     (ii) $50,000, if the violation was committed by an individual or small business concern.
 
-  (E) *Notice and opportunity to request hearing.—* — Before imposing a penalty under this section the Secretary shall provide to the person against whom the penalty is to be imposed—
+  (E) *Notice and opportunity to request hearing.—* — Before imposing a penalty under this section the Secretary of Homeland Security shall provide to the person against whom the penalty is to be imposed—
 
     (i) written notice of the proposed penalty; and
 
-    (ii) the opportunity to request a hearing on the proposed penalty, if the Secretary receives the request not later than 30 days after the date on which the person receives notice.
+    (ii) the opportunity to request a hearing on the proposed penalty, if the Secretary of Homeland Security receives the request not later than 30 days after the date on which the person receives notice.
 
 (4) **Compromise and setoff.—**
 
-  (A) The Secretary may compromise the amount of a civil penalty imposed under this subsection.
+  (A) The Secretary of Homeland Security may compromise the amount of a civil penalty imposed under this subsection.
 
   (B) The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
 
-(5) **Investigations and proceedings.—** — Chapter 461 shall apply to investigations and proceedings brought under this subsection to the same extent that it applies to investigations and proceedings brought with respect to aviation security duties designated to be carried out by the Secretary.
+(5) **Investigations and proceedings.—** — Chapter 461 shall apply to investigations and proceedings brought under this subsection to the same extent that it applies to investigations and proceedings brought with respect to aviation security duties designated to be carried out by the Secretary of Homeland Security.
 
 (6) **Definitions.—** — In this subsection:
 
@@ -2284,7 +2418,7 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 (7) **Enforcement transparency.—**
 
-  (A) *In general.—* — Not later than December 31, 2008, and annually thereafter, the Secretary shall—
+  (A) *In general.—* — The Secretary of Homeland Security shall—
 
     (i) provide an annual summary to the public of all enforcement actions taken by the Secretary under this subsection; and
 
@@ -2294,42 +2428,66 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (C) *Relationship to the freedom of information act and the privacy act.—* — Nothing in this subsection shall be construed to require disclosure of information or records that are exempt from disclosure under sections 552 or 552a of title 5.
 
-  (D) *Enforcement guidance.—* — Not later than 180 days after the enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary shall provide a report to the public describing the enforcement process established under this subsection.
+**(v) Authorization of Appropriations.—** There are authorized to be appropriated to the Transportation Security Administration for salaries, operations, and maintenance of the Administration—
 
-**(w) Authorization of Appropriations.—** There are authorized to be appropriated to the Secretary of Homeland Security for—
+(1) $7,849,247,000 for fiscal year 2019;
 
-(1) railroad security—
+(2) $7,888,494,000 for fiscal year 2020; and
 
-  (A) $488,000,000 for fiscal year 2008;
+(3) $7,917,936,000 for fiscal year 2021.
 
-  (B) $483,000,000 for fiscal year 2009;
+**(w) Leadership and Organization.—**
 
-  (C) $508,000,000 for fiscal year 2010; and
+(1) **In general.—** — For each of the areas described in paragraph (2), the Administrator of the Transportation Security Administration shall appoint at least 1 individual who shall—
 
-  (D) $508,000,000 for fiscal year 2011;
+  (A) report directly to the Administrator or the Administrator’s designated direct report; and
 
-(2) over-the-road bus and trucking security—
+  (B) be responsible and accountable for that area.
 
-  (A) $14,000,000 for fiscal year 2008;
+(2) **Areas described.—** — The areas described in this paragraph are as follows:
 
-  (B) $27,000,000 for fiscal year 2009;
+  (A) Aviation security operations and training, including risk-based, adaptive security—
 
-  (C) $27,000,000 for fiscal year 2010; and
+    (i) focused on airport checkpoint and baggage screening operations;
 
-  (D) $27,000,000 for fiscal year 2011; and
+    (ii) workforce training and development programs; and
 
-(3) hazardous material and pipeline security—
+    (iii) ensuring compliance with aviation security law, including regulations, and other specialized programs designed to secure air transportation.
 
-  (A) $12,000,000 for fiscal year 2008;
+  (B) Surface transportation security operations and training, including risk-based, adaptive security—
 
-  (B) $12,000,000 for fiscal year 2009; and
+    (i) focused on accomplishing security systems assessments;
 
-  (C) $12,000,000 for fiscal year 2010.
+    (ii) reviewing and prioritizing projects for appropriated surface transportation security grants;
+
+    (iii) operator compliance with surface transportation security law, including regulations, and voluntary industry standards; and
+
+    (iv) workforce training and development programs, and other specialized programs designed to secure surface transportation.
+
+  (C) Transportation industry engagement and planning, including the development, interpretation, promotion, and oversight of a unified effort regarding risk-based, risk-reducing security policies and plans (including strategic planning for future contingencies and security challenges) between government and transportation stakeholders, including airports, domestic and international airlines, general aviation, air cargo, mass transit and passenger rail, freight rail, pipeline, highway and motor carriers, and maritime.
+
+  (D) International strategy and operations, including agency efforts to work with international partners to secure the global transportation network.
+
+  (E) Trusted and registered traveler programs, including the management and marketing of the agency’s trusted traveler initiatives, including the PreCheck Program, and coordination with trusted traveler programs of other Department of Homeland Security agencies and the private sector.
+
+  (F) Technology acquisition and deployment, including the oversight, development, testing, evaluation, acquisition, deployment, and maintenance of security technology and other acquisition programs.
+
+  (G) Inspection and compliance, including the integrity, efficiency and effectiveness of the agency’s workforce, operations, and programs through objective audits, covert testing, inspections, criminal investigations, and regulatory compliance.
+
+  (H) Civil rights, liberties, and traveler engagement, including ensuring that agency employees and the traveling public are treated in a fair and lawful manner consistent with Federal laws and regulations protecting privacy and prohibiting discrimination and reprisal.
+
+  (I) Legislative and public affairs, including communication and engagement with internal and external audiences in a timely, accurate, and transparent manner, and development and implementation of strategies within the agency to achieve congressional approval or authorization of agency programs and policies.
+
+(3) **Notification.—** — The Administrator shall submit to the appropriate committees of Congress—
+
+  (A) not later than 180 days after the date of enactment of the TSA Modernization Act, a list of the names of the individuals appointed under paragraph (1); and
+
+  (B) an update of the list not later than 5 days after any new individual is appointed under paragraph (1).
 
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (k), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of enactment of the TSA Modernization Act, referred to in subsecs. (b)(1)(C) and (w)(3)(A), is the date of enactment of title I of div. K of Pub. L. 115–254, which was approved Oct. 5, 2018.
 
 The Inspector General Act of 1978, referred to in subsec. (o), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -2337,9 +2495,93 @@ The Aviation and Transportation Security Act, referred to in subsec. (r)(1), is 
 
 The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (s)(3)(B), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266. Section 1410 of the Act is classified to [section 1139 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1139&num=0&edition=prelim), Domestic Security. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables.
 
-The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 and the date of enactment of this subsection, referred to in subsecs. (s)(3)(F), (u)(6), and (v)(7)(D), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
+The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (s)(3)(F), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
 #### Amendments
+2018—Pub. L. 115–254, § 1904(a)(3), substituted “Administrator” for “Under Secretary” wherever appearing in subsecs. (c) to (n), (p), (q), and (r).
+
+Subsec. (a). Pub. L. 115–254, § 1904(a)(1), substituted “Department of Homeland Security” for “Department of Transportation”.
+
+Subsec. (b). Pub. L. 115–254, § 1904(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows:
+
+“(1) Appointment.—The head of the Administration shall be the Under Secretary of Transportation for Security. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+
+“(2) Qualifications.—The Under Secretary must—
+
+“(A) be a citizen of the United States; and
+
+“(B) have experience in a field directly related to transportation or security.
+
+“(3) Term.—The term of office of an individual appointed as the Under Secretary shall be 5 years.”
+
+Subsec. (f)(15), (16). Pub. L. 115–254, § 1988(c), added par. (15) and redesignated former par. (15) as (16).
+
+Subsec. (g)(1). Pub. L. 115–254, § 1904(b)(1)(A)(i)(I), substituted “Subject to the direction and control of the Secretary of Homeland Security” for “Subject to the direction and control of the Secretary” in introductory provisions.
+
+Subsecs. (g)(1)(D), (3), (j)(1)(D). Pub. L. 115–254, § 1904(b)(1)(A)(i)(II), (ii), (B), inserted “of Homeland Security” after “Secretary”.
+
+Subsec. (k). Pub. L. 115–254, § 1904(b)(1)(C), substituted “functions assigned” for “functions transferred, on or after the date of enactment of the Aviation and Transportation Security Act,”.
+
+Subsec. (l)(4)(B). Pub. L. 115–254, § 1904(b)(1)(D), substituted “Administrator of the Federal Aviation Administration under subparagraph (A)” for “Administrator under subparagraph (A)”.
+
+Subsec. (n). Pub. L. 115–254, § 1909, inserted par. (1) designation and heading before “The personnel management system”, added pars. (2) and (3), and realigned margins.
+
+Pub. L. 115–254, § 1904(b)(1)(E), substituted “Department of Homeland Security” for “Department of Transportation”.
+
+Subsec. (o). Pub. L. 115–254, § 1904(b)(1)(F), substituted “Department of Homeland Security” for “Department of Transportation”.
+
+Subsec. (p)(4). Pub. L. 115–254, § 1904(b)(1)(G), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+
+Subsec. (s)(3)(B). Pub. L. 115–254, § 1904(b)(1)(H)(i), inserted closing parenthesis after “Act of 2007”.
+
+Subsec. (s)(4). Pub. L. 115–254, § 1904(b)(1)(H)(ii)(I), substituted “Submission of plans” for “Submissions of plans to Congress” in heading.
+
+Subsec. (s)(4)(A). Pub. L. 115–254, § 1904(b)(1)(H)(ii)(IV)(bb), which directed amendment of subpar. (A) by substituting “The” for “After December 31, 2015, the”, was executed by making the substitution for “After December 31, 2005, the” to reflect the probable intent of Congress.
+
+Pub. L. 115–254, § 1904(b)(1)(H)(ii)(IV)(aa), substituted “In general” for “Subsequent versions” in heading.
+
+Pub. L. 115–254, § 1904(b)(1)(H)(ii)(II), (III), redesignated subpar. (B) as (A) and struck out former subpar. (A). Prior to amendment, text of subpar. (A) read as follows: “The Secretary of Homeland Security shall submit the National Strategy for Transportation Security, including the transportation modal security plans, developed under this subsection to the appropriate congressional committees not later than April 1, 2005.”
+
+Subsec. (s)(4)(B). Pub. L. 115–254, § 1904(b)(1)(H)(ii)(III), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
+
+Subsec. (s)(4)(B)(ii)(III)(cc). Pub. L. 115–254, § 1904(b)(1)(H)(ii)(V), substituted “for the Department of Homeland Security” for “for the Department”.
+
+Subsec. (s)(4)(C), (D). Pub. L. 115–254, § 1904(b)(1)(H)(ii)(III), redesignated subpars. (D) and (E) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
+
+Subsec. (t). Pub. L. 115–254, § 1904(b)(1)(I), redesignated subsec. (u) as (t).
+
+Subsec. (t)(1)(D), (E). Pub. L. 115–254, § 1904(b)(1)(J)(i), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: “The term ‘Secretary’ means the Secretary of Homeland Security.”
+
+Subsec. (t)(2). Pub. L. 115–254, § 1904(b)(1)(J)(ii), inserted “of Homeland Security” after “Plan, the Secretary”.
+
+Subsec. (t)(4)(B). Pub. L. 115–254, § 1904(b)(1)(J)(iii), inserted “of Homeland Security” after “agency within the Department” and after “Secretary”.
+
+Subsec. (t)(6). Pub. L. 115–254, § 1904(b)(1)(J)(iv), amended par. (6) generally. Prior to amendment, text read as follows:
+
+“(A) In general.—Not later than 150 days after the date of enactment of this subsection, and annually thereafter, the Secretary shall submit to the appropriate congressional committees, a report containing the Plan.
+
+“(B) Annual report.—Not later than 1 year after the date of enactment of this subsection, the Secretary shall submit to the appropriate congressional committees a report on updates to and the implementation of the Plan.”
+
+Subsec. (t)(7), (8). Pub. L. 115–254, § 1904(b)(1)(J)(v), inserted “of Homeland Security” after “Secretary”.
+
+Subsec. (u). Pub. L. 115–254, § 1904(b)(1)(I), redesignated subsec. (v) as (u). Former subsec. (u) redesignated (t).
+
+Subsec. (u)(1)(B). Pub. L. 115–254, § 1904(b)(1)(K)(i)(I), inserted “or the Administrator” after “Secretary of Homeland Security”.
+
+Subsec. (u)(1)(C)(ii). Pub. L. 115–254, § 1904(b)(1)(K)(i)(II), substituted “Secretary of Defense’s designee” for “Secretary’s designee”.
+
+Subsec. (u)(3)(B) to (E), (4)(A), (5). Pub. L. 115–254, § 1904(b)(1)(K)(i)(III), (ii), (iii), inserted “of Homeland Security” after “Secretary” wherever appearing.
+
+Subsec. (u)(7)(A). Pub. L. 115–254, § 1904(b)(1)(K)(iv)(I), substituted “The Secretary of Homeland Security” for “Not later than December 31, 2008, and annually thereafter, the Secretary” in introductory provisions.
+
+Subsec. (u)(7)(D). Pub. L. 115–254, § 1904(b)(1)(K)(iv)(II), struck out subpar. (D). Text read as follows: “Not later than 180 days after the enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary shall provide a report to the public describing the enforcement process established under this subsection.”
+
+Subsec. (v). Pub. L. 115–254, § 1904(b)(1)(I), redesignated subsec. (w) as (v). Former subsec. (v) redesignated (u).
+
+Subsec. (w). Pub. L. 115–254, § 1905, added subsec. (w).
+
+Pub. L. 115–254, § 1903, amended subsec. (w) generally. Prior to amendment, subsec. (w) related to authorization of appropriations for railroad, over-the-road bus and trucking, and hazardous material and pipeline security for fiscal years 2008 through 2011.
+
 2016—Subsec. (u)(1)(A). Pub. L. 114–301, § 2(d)(1), substituted “subsection (s)(4)(E)” for “subsection (t)”.
 
 Subsec. (u)(7) to (9). Pub. L. 114–301, § 2(d)(2), (3), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which related to surveys and reports.
@@ -2386,6 +2628,9 @@ Subsec. (w). Pub. L. 110–53, § 1503(a), added subsec. (w).
 
 Subsec. (s). Pub. L. 107–296, § 1601(b), added subsec. (s).
 
+#### Change of Name
+Pub. L. 115–254, div. K, title I, § 1994, Oct. 5, 2018, 132 Stat. 3646, provided that: “References relating to the Under Secretary of Transportation for Security in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede the effective date of this Act [Oct. 5, 2018] shall be deemed to refer, as appropriate, to the Administrator of the Transportation Security Administration.”
+
 #### Effective Date of 2007 Amendment
 Pub. L. 110–161, div. E, title V, § 568(b), Dec. 26, 2007, 121 Stat. 2092, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 180 days after the date of enactment of this Act [Dec. 26, 2007].
 
@@ -2399,7 +2644,65 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Deemed References to Chapters 509 and 511 of Title 51
-General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).Transmittals to Congress
+
+Pub. L. 115–254, div. K, title I, § 1910, Oct. 5, 2018, 132 Stat. 3550, provided that: “With regard to each report, legislative proposal, or other communication of the Executive Branch related to the TSA and required to be submitted to Congress or the appropriate committees of Congress, the Administrator shall transmit such communication directly to the appropriate committees of Congress.”
+
+[For definitions of terms used in section 1910 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Third Party Testing and Verification of Screening Technology
+Pub. L. 115–254, div. K, title I, § 1911, Oct. 5, 2018, 132 Stat. 3550, provided that: “(a) In General.—In carrying out the responsibilities under section 114(f)(9) [probably means [section 114(f)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/f/9&num=0&edition=prelim)], the Administrator shall develop and implement, not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], a program to enable a vendor of related security screening technology to obtain testing and verification, including as an alternative to the TSA’s test and evaluation process, by an appropriate third party, of such technology before procurement or deployment. “(b) Detection Testing.—“(1) In general.—The third party testing and verification program authorized under subsection (a) shall include detection testing to evaluate the performance of the security screening technology system regarding the probability of detection, the probability of false alarm, and such other indicators that the system is able to meet the TSA’s mission needs. “(2) Results.—The results of the third party detection testing under paragraph (1) shall be considered final if the results are approved by the Administration in accordance with approval standards developed by the Administrator. “(3) Coordination with final testing.—To the extent practicable, but without compromising the integrity of the TSA test and evaluation process, the Administrator shall coordinate the third party detection testing under paragraph (1) with any subsequent, final Federal Government testing. “(4) International standards.—To the extent practicable and permissible under law and considering the national security interests of the United States, the Administrator shall—“(A) share detection testing information and standards with appropriate international partners; and “(B) coordinate with the appropriate international partners to align TSA testing and evaluation with relevant international standards to maximize the capability to detect explosives and other threats. “(c) Operational Testing.—“(1) In general.—Subject to paragraph (2), the third party testing and verification program authorized under subsection (a) shall include operational testing. “(2) Limitation.—Third party operational testing under paragraph (1) may not exceed 1 year. “(d) Alternative.—Third party testing under subsection (a) shall replace as an alternative, at the discretion of the Administrator, the testing at the TSA Systems Integration Facility, including testing for—“(1) health and safety factors; “(2) operator interface; “(3) human factors; “(4) environmental factors; “(5) throughput; “(6) reliability, maintainability, and availability factors; and “(7) interoperability. “(e) Testing and Verification Framework.—“(1) In general.—The Administrator shall—“(A) establish a framework for the third party testing and for verifying a security technology is operationally effective and able to meet the TSA’s mission needs before it may enter or re-enter, as applicable, the operational context at an airport or other transportation facility; “(B) use phased implementation to allow the TSA and the third party to establish best practices; and “(C) oversee the third party testing and evaluation framework. “(2) Recommendations.—The Administrator shall request ASAC’s Security Technology Subcommittee, in consultation with representatives of the security manufacturers industry, to develop and submit to the Administrator recommendations for the third party testing and verification framework. “(f) Field Testing.—The Administrator shall prioritize the field testing and evaluation, including by third parties, of security technology and equipment at airports and on site at security technology manufacturers whenever possible as an alternative to the TSA Systems Integration Facility. “(g) Appropriate Third Parties.—“(1) Citizenship requirement.—An appropriate third party under subsection (a) shall be—“(A) if an individual, a citizen of the United States; or “(B) if an entity, owned and controlled by a citizen of the United States. “(2) Waiver.—The Administrator may waive the requirement under paragraph (1)(B) if the entity is a United States subsidiary of a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense before applying to provide third party testing. The Administrator may reject any application to provide third party testing under subsection (a) submitted by an entity that requires a waiver under this paragraph. “(3) Conflicts of interest.—The Administrator shall ensure, to the extent possible, that an entity providing third party testing under this section does not have a contractual, business, or other pecuniary interest (exclusive of any such testing) in—“(A) the security screening technology subject to such testing; or “(B) the vendor of such technology. “(h) GAO Review.—“(1) In general.—Not later than 2 years after the date of enactment of this Act [Oct. 5, 2018], the Comptroller General of the United States shall submit to the appropriate committees of Congress a study on the third party testing program developed under this section[.] “(2) Review.—The study under paragraph (1) shall include a review of the following:“(A) Any efficiencies or gains in effectiveness achieved in TSA operations, including technology acquisition or screening operations, as a result of such program. “(B) The degree to which the TSA conducts timely and regular oversight of the appropriate third parties engaged in such testing. “(C) The effect of such program on the following:“(i) The introduction of innovative detection technologies into security screening operations. “(ii) The availability of testing for technologies developed by small to medium sized businesses. “(D) Any vulnerabilities associated with such program, including with respect to the following:“(i) National security. “(ii) Any conflicts of interest between the appropriate third parties engaged in such testing and the entities providing such technologies to be tested. “(iii) Waste, fraud, and abuse.”
+
+[For definitions of terms used in section 1911 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Transportation Security Administration Systems Integration Facility
+Pub. L. 115–254, div. K, title I, § 1912, Oct. 5, 2018, 132 Stat. 3552, provided that: “(a) In General.—The Administrator shall continue to operate the Transportation Security Administration Systems Integration Facility (referred to in this section as the ‘TSIF’) for the purposes of testing and evaluating advanced transportation security screening technologies related to the mission of the TSA. “(b) Requirements.—The TSIF shall—“(1) evaluate the technologies described in subsection (a) to enhance the security of transportation systems through screening and threat mitigation and detection; “(2) test the technologies described in subsection (a) to support identified mission needs of the TSA and to meet requirements for acquisitions and procurement; “(3) to the extent practicable, provide original equipment manufacturers with test plans to minimize requirement interpretation disputes and adhere to provided test plans; “(4) collaborate with other technical laboratories and facilities for purposes of augmenting the capabilities of the TSIF; “(5) deliver advanced transportation security screening technologies that enhance the overall security of domestic transportation systems; and “(6) to the extent practicable, provide funding and promote efforts to enable participation by a small business concern (as the term is described under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))) that—“(A) has an advanced technology or capability; but “(B) does not have adequate resources to participate in testing and evaluation processes. “(c) Staffing and Resource Allocation.—The Administrator shall ensure adequate staffing and resource allocations for the TSIF in a manner that—“(1) prevents unnecessary delays in the testing and evaluation of advanced transportation security screening technologies for acquisitions and procurement determinations; “(2) ensures the issuance of final paperwork certification no later than 45 days after the date such testing and evaluation has concluded; and “(3) ensures collaboration with technology stakeholders to close capabilities gaps in transportation security. “(d) Deadline.—“(1) In general.—The Administrator shall notify the appropriate committees of Congress if testing and evaluation by the TSIF of an advanced transportation security screening technology under this section exceeds 180 days from the delivery date. “(2) Notification.—The notification under paragraph (1) shall include—“(A) information relating to the delivery date; “(B) a justification for why the testing and evaluation process has exceeded 180 days; and “(C) the estimated date for completion of such testing and evaluation. “(3) Definition of delivery date.—In this subsection, the term ‘delivery date’ means the date that the owner of an advanced transportation security screening technology—“(A) after installation, delivers the technology to the TSA for testing and evaluation; and “(B) submits to the Administrator, in such form and manner as the Administrator prescribes, a signed notification of the delivery described in subparagraph (A). “(e) Retesting and Evaluation.—Advanced transportation security screening technology that fails testing and evaluation by the TSIF may be retested and evaluated at the discretion of the Administrator. “(f) Rule of Construction.—Nothing in this section may be construed to affect the authority or responsibility of an officer of the Department, or an officer of any other Federal department or agency, with respect to research, development, testing, and evaluation of technologies, including such authorities or responsibilities of the Undersecretary for Science and Technology of the Department and Assistant Secretary of the Countering Weapons of Mass Destruction Office of the Department.”
+
+[For definitions of terms used in section 1912 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Public Area Security Working Group
+Pub. L. 115–254, div. K, title I, § 1931, Oct. 5, 2018, 132 Stat. 3569, provided that: “(a) Definitions.—In this section:“(1) Public and private stakeholders.—The term ‘public and private stakeholders’ has the meaning given the term in [section 114(t)(1)(C) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/t/1/C&num=0&edition=prelim), United States Code. “(2) Surface transportation asset.—The term ‘surface transportation asset’ includes—“(A) facilities, equipment, or systems used to provide transportation services by—“(i) a public transportation agency (as the term is defined in section 1402 of the Implementing Recommendations of the 9/11 Commission Act of 2007 ([6 U.S.C. 1131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1131&num=0&edition=prelim))); “(ii) a railroad carrier (as the term is defined in [section 20102 of title 49](./chapter-201-general.md#section-20102), United States Code); [or] “(iii) an owner or operator of— “(I) an entity offering scheduled, fixed-route transportation services by over-the road bus (as the term is defined in section 1501 of the Implementing Recommendations of the 9/11 Commission Act of 2007 ([6 U.S.C. 1151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1151&num=0&edition=prelim))); or “(II) a bus terminal; or “(B) other transportation facilities, equipment, or systems, as determined by the Secretary. “(b) Public Area Security Working Group.—“(1) Working group.—The Administrator, in coordination with the National Protection and Programs Directorate, shall establish a working group to promote collaborative engagement between the TSA and public and private stakeholders to develop non-binding recommendations for enhancing security in public areas of transportation facilities (including facilities that are surface transportation assets), including recommendations regarding the following:“(A) Information sharing and interoperable communication capabilities among the TSA and public and private stakeholders with respect to terrorist or other threats. “(B) Coordinated incident response procedures. “(C) The prevention of terrorist attacks and other incidents through strategic planning, security training, exercises and drills, law enforcement patrols, worker vetting, and suspicious activity reporting. “(D) Infrastructure protection through effective construction design barriers and installation of advanced surveillance and other security technologies. “(2) Annual report.—“(A) In general.—Not later than 1 year after the date the working group is established under paragraph (1), the Administrator shall submit to the appropriate committee of Congress [probably should be “appropriate committees of Congress”] a report, covering the 12-month period preceding the date of the report, on—“(i) the organization of the working group; “(ii) the activities of the working group; “(iii) the participation of the TSA and public and private stakeholders in the activities of the working group; [and] “(iv) the findings of the working group, including any recommendations. “(B) Publication.—The Administrator may publish a public version of such report that describes the activities of the working group and such related matters as would be informative to the public, consistent with [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim), United States Code. “(3) Nonapplicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under subsection (a) or any subcommittee thereof. “(c) Technical Assistance.—“(1) In general.—The Secretary shall—“(A) inform owners and operators of surface transportation assets about the availability of technical assistance, including vulnerability assessment tools and cybersecurity guidelines, to help protect and enhance the resilience of public areas of such assets; and “(B) upon request, and subject to the availability of appropriations, provide such technical assistance to owners and operators of surface transportation assets. “(2) Best practices.—Not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], and periodically thereafter, the Secretary shall publish on the Department website and widely disseminate, as appropriate, current best practices for protecting and enhancing the resilience of public areas of transportation facilities (including facilities that are surface transportation assets), including associated frameworks or templates for implementation. “(d) Review.—“(1) In general.—Not later than 1 year after the date of enactment of this Act, the Administrator shall—“(A) review of [sic] regulations, directives, policies, and procedures issued by the Administrator regarding the transportation of a firearm and ammunition; and “(B) submit to the appropriate committees of Congress a report on the findings of the review under subparagraph (A), including, as appropriate, information on any plans to modify any regulation, directive, policy, or procedure based on the review. “(2) Consultation.—In preparing the report under paragraph (1), the Administrator shall consult with—“(A) ASAC; “(B) the Surface Transportation Security Advisory Committee under section 404 of the Homeland Security Act of 2002 [[6 U.S.C. 204](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section204&num=0&edition=prelim)]; and “(C) appropriate public and private stakeholders.”
+
+[For definitions of terms used in section 1931 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Public Area Best Practices
+Pub. L. 115–254, div. K, title I, § 1932, Oct. 5, 2018, 132 Stat. 3571, provided that: “(a) In General.—The Administrator shall, in accordance with law and as received or developed, periodically submit information, on any best practices developed by the TSA or appropriate transportation stakeholders related to protecting the public spaces of transportation infrastructure from emerging threats, to the following:“(1) Federal Security Directors at airports. “(2) Appropriate security directors for other modes of transportation. “(3) Other appropriate transportation security stakeholders. “(b) Information Sharing.—The Administrator shall, in accordance with law—“(1) in coordination with the Office of the Director of National Intelligence and industry partners, implement improvements to the Air Domain Intelligence and Analysis Center to encourage increased participation from stakeholders and enhance government and industry security information sharing on transportation security threats, including on cybersecurity threat awareness; “(2) expand and improve the City and Airport Threat Assessment or similar program to public and private stakeholders to capture, quantify, communicate, and apply applicable intelligence to inform transportation infrastructure mitigation measures, such as—“(A) quantifying levels of risk by airport that can be used to determine risk-based security mitigation measures at each location; and “(B) determining random and surge employee inspection operations based on changing levels of risk; “(3) continue to disseminate Transportation Intelligence Notes, tear-lines, and related intelligence products to appropriate transportation security stakeholders on a regular basis; and “(4) continue to conduct both regular routine and threat-specific classified briefings between the TSA and appropriate transportation sector stakeholders on an individual or group basis to provide greater information sharing between public and private sectors. “(c) Mass Notification.—The Administrator shall encourage security stakeholders to utilize mass notification systems, including the Integrated Public Alert Warning System of the Federal Emergency Management Agency and social media platforms, to disseminate information to transportation community employees, travelers, and the general public, as appropriate. “(d) Public Awareness Programs.—The Secretary, in coordination with the Administrator, shall expand public programs of the Department of Homeland Security and the TSA that increase security threat awareness, education, and training to include transportation network public area employees, including airport and transportation vendors, local hotels, cab and limousine companies, ridesharing companies, cleaning companies, gas station attendants, cargo operators, and general aviation members.”
+
+[For definitions of terms used in section 1932 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Surface Transportation Security Assessment and Implementation of Risk-Based Strategy
+Pub. L. 115–254, div. K, title I, § 1964, Oct. 5, 2018, 132 Stat. 3604, provided that: “(a) Security Assessment.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], the Administrator shall complete an assessment of the vulnerabilities of and risks to surface transportation systems. “(2) Considerations.—In conducting the security assessment under paragraph (1), the Administrator shall, at a minimum—“(A) consider appropriate intelligence; “(B) consider security breaches and attacks at domestic and international surface transportation facilities; “(C) consider the vulnerabilities and risks associated with specific modes of surface transportation; “(D) evaluate the vetting and security training of—“(i) employees in surface transportation; and “(ii) other individuals with access to sensitive or secure areas of surface transportation networks; and “(E) consider input from—“(i) representatives of different modes of surface transportation; “(ii) representatives of critical infrastructure entities; “(iii) the Transportation Systems Sector Coordinating Council; and “(iv) the heads of other relevant Federal departments or agencies. “(b) Risk-based Surface Transportation Security Strategy.—“(1) In general.—Not later than 180 days after the date the security assessment under subsection (a) is complete, the Administrator shall use the results of the assessment—“(A) to develop and implement a cross-cutting, risk-based surface transportation security strategy that includes—“(i) all surface transportation modes; “(ii) a mitigating strategy that aligns with each vulnerability and risk identified in subsection (a); “(iii) a planning process to inform resource allocation; “(iv) priorities, milestones, and performance metrics to measure the effectiveness of the risk-based surface transportation security strategy; and “(v) processes for sharing relevant and timely intelligence threat information with appropriate stakeholders; “(B) to develop a management oversight strategy that—“(i) identifies the parties responsible for the implementation, management, and oversight of the risk-based surface transportation security strategy; and “(ii) includes a plan for implementing the risk-based surface transportation security strategy; and “(C) to modify the risk-based budget and resource allocations, in accordance with section 1965(c) [set out as a note below], for the Transportation Security Administration. “(2) Coordinated approach.—In developing and implementing the risk-based surface transportation security strategy under paragraph (1), the Administrator shall coordinate with the heads of other relevant Federal departments or agencies, and stakeholders, as appropriate—“(A) to evaluate existing surface transportation security programs, policies, and initiatives, including the explosives detection canine teams, for consistency with the risk-based security strategy and, to the extent practicable, avoid any unnecessary duplication of effort; “(B) to determine the extent to which stakeholder security programs, policies, and initiatives address the vulnerabilities and risks to surface transportation systems identified in subsection (a); and “(C) subject to subparagraph (B), to mitigate each vulnerability and risk to surface transportation systems identified in subsection (a). “(c) Report.—“(1) In general.—Not later than 180 days after the date the security assessment under subsection (a) is complete, the Administrator shall submit to the appropriate committees of Congress and the Inspector General of the Department a report that—“(A) describes the process used to complete the security assessment; “(B) describes the process used to develop the risk-based security strategy; “(C) describes the risk-based security strategy; “(D) includes the management oversight strategy; “(E) includes—“(i) the findings of the security assessment; “(ii) a description of the actions recommended or taken by the Administrator to mitigate the vulnerabilities and risks identified in subsection (a), including interagency coordination; “(iii) any recommendations for improving the coordinated approach to mitigating vulnerabilities and risks to surface transportation systems; and “(iv) any recommended changes to the National Infrastructure Protection Plan, the modal annexes to such plan, or relevant surface transportation security programs, policies, or initiatives; and “(F) may contain a classified annex. “(2) Protections.—In preparing the report, the Administrator shall take appropriate actions to safeguard information described by [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim), United States Code, or protected from disclosure by any other law of the United States. “(d) Updates.—Not less frequently than semiannually, the Administrator shall report to or brief the appropriate committees of Congress on the vulnerabilities of and risks to surface transportation systems and how those vulnerabilities and risks affect the risk-based security strategy.”
+
+[For definitions of terms used in section 1964 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Risk-Based Budgeting and Resource Allocation
+Pub. L. 115–254, div. K, title I, § 1965, Oct. 5, 2018, 132 Stat. 3606, provided that: “(a) Report.—In conjunction with the submission of the Department’s annual budget request to the Office of Management and Budget, the Administrator shall submit to the appropriate committees of Congress a report that describes a risk-based budget and resource allocation plan for surface transportation sectors, within and across modes, that—“(1) reflects the risk-based surface transportation security strategy under section 1964(b) [set out as a note above]; and “(2) is organized by appropriations account, program, project, and initiative. “(b) Budget Transparency.—In submitting the annual budget of the United States Government under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the President shall clearly distinguish the resources requested for surface transportation security from the resources requested for aviation security. “(c) Resource Reallocation.—“(1) In general.—Not later than 15 days after the date on which the Transportation Security Administration allocates any resources or personnel, including personnel sharing, detailing, or assignment, or the use of facilities, technology systems, or vetting resources, for a nontransportation security purpose or National Special Security Event (as defined in section 2001 of Homeland Security Act of 2002 ([6 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section601&num=0&edition=prelim))), the Secretary shall provide the notification described in paragraph (2) to the appropriate committees of Congress. “(2) Notification.—A notification described in this paragraph shall include—“(A) the reason for and a justification of the resource or personnel allocation; “(B) the expected end date of the resource or personnel allocation; and “(C) the projected cost to the Transportation Security Administration of the personnel or resource allocation. “(d) 5-year Capital Investment Plan.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives a 5-year capital investment plan, consistent with the 5-year technology investment plan under section 1611 of title XVI of the Homeland Security Act of 2002 [[6 U.S.C. 563](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section563&num=0&edition=prelim)], as amended by section 3 of the Transportation Security Acquisition Reform Act (Public Law 113–245; 128 Stat. 2871).”
+
+[For definitions of terms used in section 1965 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Transparency
+Pub. L. 115–254, div. K, title I, § 1967, Oct. 5, 2018, 132 Stat. 3607, provided that: “(a) Regulations.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], and every 180 days thereafter, the Administrator [of the Transportation Security Administration] shall publish on a public website information regarding the status of each regulation relating to surface transportation security that is directed by law to be issued and that has not been issued if not less than 2 years have passed since the date of enactment of the law. “(2) Contents.—The information published under paragraph (1) shall include—“(A) an updated rulemaking schedule for the outstanding regulation; “(B) current staff allocations; “(C) data collection or research relating to the development of the rulemaking; “(D) current efforts, if any, with security experts, advisory committees, and other stakeholders; and “(E) other relevant details associated with the development of the rulemaking that impact the progress of the rulemaking. “(b) Inspector General Review.—Not later than 180 days after the date of enactment of this Act, and every 2 years thereafter until all of the requirements under titles XIII [[6 U.S.C. 1111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1111&num=0&edition=prelim) et seq.], XIV [[6 U.S.C. 1131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1131&num=0&edition=prelim) et seq.], and XV [[6 U.S.C. 1151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1151&num=0&edition=prelim) et seq.] of the Implementing Recommendations of the 9/11 Commission Act of 2007 ([6 U.S.C. 1111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1111&num=0&edition=prelim) et seq.) and under this title [see Tables for classification] have been fully implemented, the Inspector General of the Department shall submit to the appropriate committees of Congress [Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] a report that—“(1) identifies the requirements under such titles of that Act and under this title that have not been fully implemented; “(2) describes what, if any, additional action is necessary; and “(3) includes recommendations regarding whether any of the requirements under such titles of that Act or this title should be amended or repealed.”
+
+#### TSA Counterterrorism Asset Deployment
+Pub. L. 115–254, div. K, title I, § 1968(a), Oct. 5, 2018, 132 Stat. 3608, provided that: “(1) In general.—If the Administrator [of the Transportation Security Administration] deploys any counterterrorism personnel or resource, such as explosive detection sweeps, random bag inspections, or patrols by Visible Intermodal Prevention and Response teams, to enhance security at a transportation system or transportation facility for a period of not less than 180 consecutive days, the Administrator shall provide sufficient notification to the system or facility operator, as applicable, not less than 14 days prior to terminating the deployment. “(2) Exception.—This subsection shall not apply if the Administrator—“(A) determines there is an urgent security need for the personnel or resource described in paragraph (1); and “(B) notifies the appropriate committees of Congress [Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] of the determination under subparagraph (A).”
+
+#### Best Practices to Secure Against Vehicle-Based Attacks
+Pub. L. 115–254, div. K, title I, § 1982, Oct. 5, 2018, 132 Stat. 3620, provided that: “Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Transportation Security Administration] shall disseminate best practices to public and private stakeholders regarding how to enhance transportation security against the threat of a vehicle-based terrorist attack.”
+
+#### Risk Scenarios
+Pub. L. 115–254, div. K, title I, § 1986, Oct. 5, 2018, 132 Stat. 3621, provided that: “(a) In General.—The Administrator shall annually develop, consistent with the transportation modal security plans required under [section 114(s) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/s&num=0&edition=prelim), United States Code, risk-based priorities based on risk assessments conducted or received by the Secretary across all transportation modes that consider threats, vulnerabilities, and consequences. “(b) Scenarios.—The Administrator shall ensure that the risk-based priorities identified under subsection (a) are informed by an analysis of terrorist attack scenarios for each transportation mode, including cyber-attack scenarios and intelligence and open source information about current and evolving threats. “(c) Report.—Not later than 120 days after the date that annual risk-based priorities are developed under subsection (a), the Administrator shall submit to the appropriate committees of Congress a report that includes the following:“(1) Copies of the risk assessments for each transportation mode. “(2) A summary that ranks the risks within and across modes. “(3) A description of the risk-based priorities for securing the transportation sector that identifies and prioritizes the greatest security needs of such transportation sector, both across and within modes, in the order that such priorities should be addressed. “(4) Information on the underlying methodologies used to assess risks across and within each transportation mode and the basis for any assumptions regarding threats, vulnerabilities, and consequences made in assessing and prioritizing risks within each such mode and across modes. “(d) Classification.—The information provided under subsection (c) may be submitted in a classified format or unclassified format, as the Administrator considers appropriate.”
+
+[For definitions of terms used in section 1986 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Integrated and Unified Operations Centers
+Pub. L. 115–254, div. K, title I, § 1987, Oct. 5, 2018, 132 Stat. 3622, provided that: “(a) Framework.—Not later than 120 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator, in consultation with the heads of other appropriate offices or components of the Department, shall make available to public and private stakeholders a framework for establishing an integrated and unified operations center responsible for overseeing daily operations of a transportation facility that promotes coordination for responses to terrorism, serious incidents, and other purposes, as determined appropriate by the Administrator. “(b) Report.—Not later than 1 year after the date of enactment of this Act, the Administrator shall brief the appropriate committees of Congress regarding the establishment and activities of integrated and unified operations centers at transportation facilities at which the TSA has a presence.”
+
+[For definitions of terms used in section 1987 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
+
+#### Information Sharing and Cybersecurity
+Pub. L. 115–254, div. K, title I, § 1989, Oct. 5, 2018, 132 Stat. 3624, provided that: “(a) Federal Security Directors.—[Amended [section 44933 of this title](./chapter-449-security.md#section-44933).] “(b) Plan to Improve Information Sharing.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator shall develop a plan to improve intelligence information sharing with State and local transportation entities that includes best practices to ensure that the information shared is actionable, useful, and not redundant. “(2) Contents.—The plan required under paragraph (1) shall include the following:“(A) The incorporation of best practices for information sharing. “(B) The identification of areas of overlap and redundancy. “(C) An evaluation and incorporation of stakeholder input in the development of such plan. “(D) The integration of any recommendations of the Comptroller General of the United States on information sharing. “(3) Solicitation.—The Administrator shall solicit on an annual basis input from appropriate stakeholders, including State and local transportation entities, on the quality and quantity of intelligence received by such stakeholders relating to information sharing. “(c) Best Practices Sharing.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator shall establish a mechanism to share with State and local transportation entities best practices from across the law enforcement spectrum, including Federal, State, local, and tribal entities, that relate to employee training, employee professional development, technology development and deployment, hardening tactics, and passenger and employee awareness programs. “(2) Consultation.—The Administrator shall solicit and incorporate stakeholder input—“(A) in developing the mechanism for sharing best practices as required under paragraph (1); and “(B) not less frequently than annually on the quality and quantity of information such stakeholders receive through the mechanism established under such paragraph. “(d) Cybersecurity.—“(1) In general.—The Administrator, in consultation with the Secretary, shall—“(A) not later than 120 days after the date of enactment of this Act [Oct. 5, 2018], implement the Framework for Improving Critical Infrastructure Cybersecurity (referred to in this section as the ‘Framework’ developed by the National Institute of Standards and Technology, and any update to such Framework under section 2 of the National Institute of Standards and Technology Act ([15 U.S.C. 272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272&num=0&edition=prelim)), to manage the agency’s cybersecurity risks; and “(B) evaluate, on a periodic basis, but not less often than biennially, the use of the Framework under subparagraph (A). “(2) Cybersecurity enhancements to aviation security activities.—The Secretary, in consultation with the Secretary of Transportation, shall, upon request, conduct cybersecurity vulnerability assessments for airports and air carriers. “(3) TSA trusted traveler and credentialing program cyber evaluation.—“(A) Evaluation required.—Not later than 120 days after the date of enactment of this Act, the Secretary shall—“(i) evaluate the cybersecurity of TSA trusted traveler and credentialing programs that contain personal information of specific individuals or information that identifies specific individuals, including the Transportation Worker Identification Credential and PreCheck programs; “(ii) identify any cybersecurity risks under the programs described in clause (i); and “(iii) develop remediation plans to address the cybersecurity risks identified under clause (ii). “(B) Submission to congress.—Not later than 30 days after the date the evaluation under subparagraph (A) is complete, the Secretary shall submit to the appropriate committees of Congress information relating to such evaluation, including any cybersecurity vulnerabilities identified and remediation plans to address such vulnerabilities. Such submission shall be provided in a classified form. “(4) Definitions.—In this subsection, the terms ‘cybersecurity risk’ and ‘incident’ have the meanings given the terms in section 227 [now section 2209] of the Homeland Security Act of 2002 ([6 U.S.C. 148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim)) [now [6 U.S.C. 659](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section659&num=0&edition=prelim)].”
+
+[For definitions of terms used in section 1989 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under [section 101 of this title](./chapter-001-organization.md#section-101).]
 
 #### Safeguarding and Disposal of Personal Information of Registered Traveler Program Participants
 Pub. L. 114–4, title V, § 536, Mar. 4, 2015, 129 Stat. 67, provided that: “(a) Any company that collects or retains personal information directly from any individual who participates in the Registered Traveler or successor program of the Transportation Security Administration shall hereafter safeguard and dispose of such information in accordance with the requirements in—“(1) the National Institute for Standards and Technology Special Publication 800–30, entitled ‘Risk Management Guide for Information Technology Systems’; “(2) the National Institute for Standards and Technology Special Publication 800–53, Revision 3, entitled ‘Recommended Security Controls for Federal Information Systems and Organizations’; and “(3) any supplemental standards established by the Administrator of the Transportation Security Administration (referred to in this section as the ‘Administrator’). “(b) The airport authority or air carrier operator that sponsors the company under the Registered Traveler program shall hereafter be known as the ‘Sponsoring Entity’. “(c) The Administrator shall hereafter require any company covered by subsection (a) to provide, not later than 30 days after the date of enactment of this Act [Mar. 4, 2015], to the Sponsoring Entity written certification that the procedures used by the company to safeguard and dispose of information are in compliance with the requirements under subsection (a). Such certification shall include a description of the procedures used by the company to comply with such requirements.”
@@ -2408,7 +2711,7 @@ Pub. L. 114–4, title V, § 536, Mar. 4, 2015, 129 Stat. 67, provided that: “
 Pub. L. 110–161, div. E, title V, § 571, Dec. 26, 2007, 121 Stat. 2093, provided that: “Effective no later than ninety days after the date of enactment of this Act [Dec. 26, 2007], the Transportation Security Administration shall permit approved members of Registered Traveler programs to satisfy fully the required identity verification procedures at security screening checkpoints by presenting a biometrically-secure Registered Traveler card in lieu of the government-issued photo identification document required of non-participants: Provided, That if their identity is not confirmed biometrically, the standard identity and screening procedures will apply: Provided further, That if the Assistant Secretary (Transportation Security Administration) determines this is a threat to civil aviation, then the Assistant Secretary (Transportation Security Administration) shall notify the Committees on Appropriations of the Senate and House of Representatives five days in advance of such determination and require Registered Travelers to present government-issued photo identification documents in conjunction with a biometrically-secure Registered Traveler card.”
 
 #### Congressional Oversight of Security Assurance for Public and Private Stakeholders
-Pub. L. 110–53, title XII, § 1203(b), Aug. 3, 2007, 121 Stat. 385, provided that: “(1) In general.—Except as provided in paragraph (2), the Secretary [of Homeland Security] shall provide a semiannual report to the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that includes—“(A) the number of public and private stakeholders who were provided with each report; “(B) a description of the measures the Secretary has taken, under [former] [section 114(u)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/u/7&num=0&edition=prelim), United States Code, as added by this section, or otherwise, to ensure proper treatment and security for any classified information to be shared with the public and private stakeholders under the Plan; and “(C) an explanation of the reason for the denial of transportation security information to any stakeholder who had previously received such information. “(2) No report required if no changes in stakeholders.—The Secretary is not required to provide a semiannual report under paragraph (1) if no stakeholders have been added to or removed from the group of persons with whom transportation security information is shared under the plan since the end of the period covered by the last preceding semiannual report.”
+Pub. L. 110–53, title XII, § 1203(b), Aug. 3, 2007, 121 Stat. 385, as amended by Pub. L. 115–254, div. K, title I, § 1904(b)(2), Oct. 5, 2018, 132 Stat. 3545, provided that: “(1) In general.—Except as provided in paragraph (2), the Secretary [of Homeland Security] shall provide a semiannual report to the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that includes—“(A) the number of public and private stakeholders who were provided with each report; “(B) a description of the measures the Secretary has taken to ensure proper treatment and security for any classified information to be shared with the public and private stakeholders under the Plan; and “(C) an explanation of the reason for the denial of transportation security information to any stakeholder who had previously received such information. “(2) No report required if no changes in stakeholders.—The Secretary is not required to provide a semiannual report under paragraph (1) if no stakeholders have been added to or removed from the group of persons with whom transportation security information is shared under the plan since the end of the period covered by the last preceding semiannual report.”
 
 #### Specialized Training
 Pub. L. 110–53, title XVI, § 1611, Aug. 3, 2007, 121 Stat. 485, provided that: “The Administrator of the Transportation Security Administration shall provide advanced training to transportation security officers for the development of specialized security skills, including behavior observation and analysis, explosives detection, and document examination, in order to enhance the effectiveness of layered transportation security measures.”
@@ -2434,7 +2737,7 @@ Pub. L. 108–334, title V, § 517, Oct. 18, 2004, 118 Stat. 1318.
 Pub. L. 109–90, title V, § 540, Oct. 18, 2005, 119 Stat. 2088, provided that: “For fiscal year 2006 and thereafter, notwithstanding [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, the Secretary of Homeland Security shall impose a fee for any registered traveler program undertaken by the Department of Homeland Security by notice in the Federal Register, and may modify the fee from time to time by notice in the Federal Register: Provided, That such fees shall not exceed the aggregate costs associated with the program and shall be credited to the Transportation Security Administration registered traveler fee account, to be available until expended.”
 
 #### Enhanced Security Measures
-Pub. L. 107–71, title I, § 109, Nov. 19, 2001, 115 Stat. 613, as amended by Pub. L. 107–296, title XIV, § 1403(b), Nov. 25, 2002, 116 Stat. 2306, provided that: “(a) In General.—The Under Secretary of Transportation for Security may take the following actions:“(1) Require effective 911 emergency call capability for telephones serving passenger aircraft and passenger trains. “(2) Establish a uniform system of identification for all State and local law enforcement personnel for use in obtaining permission to carry weapons in aircraft cabins and in obtaining access to a secured area of an airport, if otherwise authorized to carry such weapons. “(3) Establish requirements to implement trusted passenger programs and use available technologies to expedite the security screening of passengers who participate in such programs, thereby allowing security screening personnel to focus on those passengers who should be subject to more extensive screening. “(4) In consultation with the Commissioner of the Food and Drug Administration, develop alternative security procedures under which a medical product to be transported on a flight of an air carrier would not be subject to an inspection that would irreversibly damage the product. “(5) Provide for the use of technologies, including wireless and wire line data technologies, to enable the private and secure communication of threats to aid in the screening of passengers and other individuals on airport property who are identified on any State or Federal security-related data base for the purpose of having an integrated response coordination of various authorized airport security forces. “(6) In consultation with the Administrator of the Federal Aviation Administration, consider whether to require all pilot licenses to incorporate a photograph of the license holder and appropriate biometric imprints. “(7) Provide for the use of voice stress analysis, biometric, or other technologies to prevent a person who might pose a danger to air safety or security from boarding the aircraft of an air carrier or foreign air carrier in air transportation or intrastate air transportation. “(8) Provide for the use of technology that will permit enhanced instant communications and information between airborne passenger aircraft and appropriate individuals or facilities on the ground. “(9) Require that air carriers provide flight attendants with a discreet, hands-free, wireless method of communicating with the pilots. “(b) Report.—Not later than 6 months after the date of enactment of this Act [Nov. 19, 2001], and annually thereafter until the Under Secretary has implemented or decided not to take each of the actions specified in subsection (a), the Under Secretary shall transmit to Congress a report on the progress of the Under Secretary in evaluating and taking such actions, including any legislative recommendations that the Under Secretary may have for enhancing transportation security.”
+Pub. L. 107–71, title I, § 109, Nov. 19, 2001, 115 Stat. 613, as amended by Pub. L. 107–296, title XIV, § 1403(b), Nov. 25, 2002, 116 Stat. 2306, provided that: “(a) In General.—The Under Secretary of Transportation for Security [now the Administrator of the Transportation Security Administration] may take the following actions:“(1) Require effective 911 emergency call capability for telephones serving passenger aircraft and passenger trains. “(2) Establish a uniform system of identification for all State and local law enforcement personnel for use in obtaining permission to carry weapons in aircraft cabins and in obtaining access to a secured area of an airport, if otherwise authorized to carry such weapons. “(3) Establish requirements to implement trusted passenger programs and use available technologies to expedite the security screening of passengers who participate in such programs, thereby allowing security screening personnel to focus on those passengers who should be subject to more extensive screening. “(4) In consultation with the Commissioner of the Food and Drug Administration, develop alternative security procedures under which a medical product to be transported on a flight of an air carrier would not be subject to an inspection that would irreversibly damage the product. “(5) Provide for the use of technologies, including wireless and wire line data technologies, to enable the private and secure communication of threats to aid in the screening of passengers and other individuals on airport property who are identified on any State or Federal security-related data base for the purpose of having an integrated response coordination of various authorized airport security forces. “(6) In consultation with the Administrator of the Federal Aviation Administration, consider whether to require all pilot licenses to incorporate a photograph of the license holder and appropriate biometric imprints. “(7) Provide for the use of voice stress analysis, biometric, or other technologies to prevent a person who might pose a danger to air safety or security from boarding the aircraft of an air carrier or foreign air carrier in air transportation or intrastate air transportation. “(8) Provide for the use of technology that will permit enhanced instant communications and information between airborne passenger aircraft and appropriate individuals or facilities on the ground. “(9) Require that air carriers provide flight attendants with a discreet, hands-free, wireless method of communicating with the pilots. “(b) Report.—Not later than 6 months after the date of enactment of this Act [Nov. 19, 2001], and annually thereafter until the Under Secretary [now the Administrator of the Transportation Security Administration] has implemented or decided not to take each of the actions specified in subsection (a), the Under Secretary shall transmit to Congress a report on the progress of the Under Secretary in evaluating and taking such actions, including any legislative recommendations that the Under Secretary may have for enhancing transportation security.”
 
 [For definitions of terms used in section 109 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under [section 40102 of this title](./chapter-401-general-provisions.md#section-40102).]
 
@@ -2465,7 +2768,7 @@ Pub. L. 107–71, title I, § 109, Nov. 19, 2001, 115 Stat. 613, as amended by P
 
 **(c) Duties.—** The Board shall—
 
-(1) review and ratify or disapprove any regulation or security directive issued by the Under Secretary of Transportation for security 11 So in original. Probably should be capitalized. under section 114(l)(2) within 30 days after the date of issuance of such regulation or directive;
+(1) review and ratify or disapprove any regulation or security directive issued by the Administrator of the Transportation Security Administration under section 114(l)(2) within 30 days after the date of issuance of such regulation or directive;
 
 (2) facilitate the coordination of intelligence, security, and law enforcement activities affecting transportation;
 
@@ -2475,15 +2778,22 @@ Pub. L. 107–71, title I, § 109, Nov. 19, 2001, 115 Stat. 613, as amended by P
 
 (5) review plans for transportation security;
 
-(6) make recommendations to the Under Secretary regarding matters reviewed under paragraph (5).
+(6) make recommendations to the Administrator regarding matters reviewed under paragraph (5).
 
 **(d) Quarterly Meetings.—** The Board shall meet at least quarterly.
 
-**(e) Consideration of Security Information.—** A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified, sensitive security information, or information protected in accordance with section 40119(b), will be discussed.
+**(e) Consideration of Security Information.—** A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified, sensitive security information, or information protected in accordance with section 40119(b),11 See References in Text note below. will be discussed.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 40119 of this title](./chapter-401-general-provisions.md#section-40119), referred to in subsec. (e), was repealed by Pub. L. 115–254, div. K, title I, § 1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
+
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–254, § 1991(b)(1), substituted “Administrator of the Transportation Security Administration” for “Under Secretary of Transportation for security”.
+
+Subsec. (c)(6). Pub. L. 115–254, § 1991(b)(2), substituted “Administrator” for “Under Secretary”.
+
 2010—Subsec. (b)(1)(F). Pub. L. 111–259 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The Director of the Central Intelligence Agency, or the Director’s designee.”
 
 2002—Subsec. (a). Pub. L. 107–296, § 426(a)(1), substituted “Department of Homeland Security” for “Department of Transportation”.
@@ -2671,9 +2981,9 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
   (D) *Budgetary resources.—*
 
-    (i) *Transfer of funds from eliminated or consolidated offices.—* — During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau.
+    (i) *Transfer of funds from eliminated or consolidated offices.—* — The Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau. Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
 
-    (ii) *Transfer of funds allocated to administrative costs.—* — During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1).
+    (ii) *Transfer of funds allocated to administrative costs.—* — The Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1). Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
 
 (4) **Notification.—** — Not later than 90 days after the date of enactment of this section, and every 90 days thereafter, the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Commerce, Science, and Transportation of the Senate of—
 
@@ -2712,9 +3022,12 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 #### References in Text
 Section 142 of the Internal Revenue Code of 1986, referred to in subsec. (d)(1)(C), is classified to [section 142 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section142&num=0&edition=prelim), Internal Revenue Code.
 
-The date of enactment of this section, referred to in subsecs. (d)(5), (6)(B)(iii), (h)(3)(D), (4), and (i)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+The date of enactment of this section, referred to in subsecs. (d)(5), (6)(B)(iii), (h)(4), and (i)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (f)(2)(D), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Subsec. (h)(3)(D)(i), (ii). Pub. L. 115–123, substituted “The” for “During the 2-year period beginning on the date of enactment of this section, the” and inserted at end “Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.”
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

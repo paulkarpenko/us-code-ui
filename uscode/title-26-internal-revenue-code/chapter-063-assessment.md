@@ -2,7 +2,7 @@
 title: 26
 chapter: '63'
 heading: ASSESSMENT
-section_count: 38
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -10,7 +10,7 @@ source: >-
 ## § 6201. Assessment authority
 **(a) Authority of Secretary** The Secretary is authorized and required to make the inquiries, determinations, and assessments of all taxes (including interest, additional amounts, additions to the tax, and assessable penalties) imposed by this title, or accruing under any former internal revenue law, which have not been duly paid by stamp at the time and in the manner provided by law. Such authority shall extend to and include the following:
 
-(1) **Taxes shown on return** — The Secretary shall assess all taxes determined by the taxpayer or by the Secretary as to which returns or lists are made under this title.
+(1) **Taxes shown on return** — The Secretary shall assess all taxes determined by the taxpayer or by the Secretary as to which returns or lists (or payments under section 6225(c)(2)(B)(i)) are made under this title.
 
 (2) **Unpaid taxes payable by stamp**
 
@@ -43,6 +43,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–141 inserted “(or payments under section 6225(c)(2)(B)(i))” after “returns or lists”.
+
 2010—Subsec. (a)(4). Pub. L. 111–237 added par. (4).
 
 1996—Subsecs. (d), (e). Pub. L. 104–168 added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -78,6 +80,9 @@ Subsec. (d). Pub. L. 94–455, § 1307(d)(2)(D), substituted “and certain exci
 Subsec. (d). Pub. L. 91–172 inserted reference to chapter 42 taxes.
 
 1965—Subsec. (a)(4). Pub. L. 89–44 added par. (4).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–237, § 3(c), Aug. 16, 2010, 124 Stat. 2498, provided that: “The amendments made by this section [amending this section and sections 6213 and 6501 of this title] shall apply to restitution ordered after the date of the enactment of this Act [Aug. 16, 2010].”
@@ -310,19 +315,29 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 (4) For purposes of subsection (a)—
 
-  (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) 11 See References in Text note below. thereof, 32, 34, 35, 36, 36B, 168(k)(4), and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
+  (A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, and 11 So in original. 36B, 168(k)(4) 22 See References in Text note below. over the tax imposed by subtitle A (determined without regard to such credits), and
 
   (B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
   shall be taken into account as negative amounts of tax.
 
-**(c) Coordination with subchapters C and D** In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership items shall be made only as provided in subchapters C and D.
+**(c) Coordination with subchapter C** In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership-related items shall be made only as provided in subchapter C.
 
 ### Statutory Notes
 
 #### References in Text
 Section 25A(i)(6), referred to in subsec. (b)(4)(A), was redesignated section 25A(i)(5) by Pub. L. 112–240, title I, § 104(c)(2)(D)(i), Jan. 2, 2013, 126 Stat. 2322.
 
+Section 168(k)(4), referred to in subsec. (b)(4)(A), was repealed by Pub. L. 115–97, title I, § 12001(b)(13), Dec. 22, 2017, 131 Stat. 2094.
+
 #### Amendments
+2018—Subsec. (b)(4)(A). Pub. L. 115–141, § 101(l)(17), substituted “subsection (i)” for “subsection (i)(5)”.
+
+Pub. L. 115–141, § 106(a), substituted “subsection (i)(5)” for “subsection (i)(6)”.
+
+Subsec. (c). Pub. L. 115–141, § 201(c)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: “In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership items shall be made only as provided in subchapters C and D.”
+
+2017—Subsec. (b)(4)(A). Pub. L. 115–97 inserted “and” before “36B” and struck out “, and 6431” after “168(k)(4)”.
+
 2014—Subsec. (b)(4)(A). Pub. L. 113–295, § 221(a)(112)(B), struck out “6428,” after “168(k)(4),”.
 
 Pub. L. 113–295, § 221(a)(8)(B), struck out “, 53(e)” after “36B”.
@@ -399,6 +414,16 @@ Subsec. (b)(2). Pub. L. 91–172, § 101(j)(39), inserted reference to chapter 4
 
 1965—Subsec. (b)(4). Pub. L. 89–44 added par. (4).
 
+#### Effective Date of 2018 Amendment
+Amendment by section 101(l)(17) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
+
+Pub. L. 115–141, div. U, title I, § 106(b), Mar. 23, 2018, 132 Stat. 1170, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 104 of the American Taxpayer Relief Act of 2012 [Pub. L. 112–240].”
+
+Amendment by section 201(c)(1) of Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as an Effective Date of Repeal note under former [section 54 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54).
+
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -416,7 +441,7 @@ Amendment by section 1004(b)(7) of Pub. L. 111–5 applicable to taxable years b
 
 Amendment by section 1201(a)(3)(B), (b)(2) of Pub. L. 111–5 applicable to taxable years ending after Mar. 31, 2008, see section 1201(c)(2) of Pub. L. 111–5, set out as a note under [section 168 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-168).
 
-Amendment by section 1531(c)(4) of Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under [section 54 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-54).
+Pub. L. 111–5, div. B, title I, § 1531(e), Feb. 17, 2009, 123 Stat. 360, provided that: “The amendments made by this section [enacting subpart J of part IV of subchapter A of this chapter and [section 6431 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6431) and amending this section, sections 54, 54A, 1397E, 1400N, and 6401 of this title, and [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance] shall apply to obligations issued after the date of the enactment of this Act [Feb. 17, 2009].”
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–289 applicable to residences purchased on or after Apr. 9, 2008, in taxable years ending on or after such date, see section 3011(c) of Pub. L. 110–289, set out as a note under [section 26 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-26).
@@ -709,11 +734,11 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (N) an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36,
 
-  (O) the inclusion on a return of an individual taxpayer identification number issued under section 6109(i) which has expired, been revoked by the Secretary, or is otherwise invalid 11 So in original. Probably should be followed by a comma.
+  (O) the inclusion on a return of an individual taxpayer identification number issued under section 6109(i) which has expired, been revoked by the Secretary, or is otherwise invalid,
 
-  (P) an omission of information required by section 24(h)(2) 22 See References in Text note below. or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (h)(1) 2 thereof, and
+  (P) an omission of information required by section 24(g)(2) or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (g)(1) thereof, and
 
-  (Q) an omission of information required by section 25A(i)(8)(B) 2 or an entry on the return claiming the credit determined under section 25A(i) for a taxable year for which the credit is disallowed under paragraph (8)(A) 2 thereof.
+  (Q) an omission of information required by section 25A(b)(4)(B) or an entry on the return claiming the American Opportunity Tax Credit for a taxable year for which such credit is disallowed under section 25A(b)(4)(A).
   A taxpayer shall be treated as having omitted a correct TIN for purposes of the preceding sentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
 
 **(h) Cross references**
@@ -726,21 +751,25 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (B) Recovery of foreign estate tax, see section 2016.
 
-(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).
+(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
 Section 453(h) of the Social Security Act, referred to in subsec. (g)(2)(M), is classified to [section 653(h) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653/h&num=0&edition=prelim), The Public Health and Welfare.
 
-Section 24(h)(1) and (2), referred to in subsec. (g)(2)(P), probably means section 24(g)(1) and (2). [Section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24) does not contain a subsec. (h).
-
-Section 25A(i)(8)(A) and (B), referred to in subsec. (g)(2)(Q), probably means section 25A(i)(7)(A) and (B). Subsec. (i) of [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a) does not contain a par. (8).
+Section 6230, referred to in subsec. (h)(3), was repealed by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Codification
 Pub. L. 113–295, div. A, title II, § 214(a)(2), Dec. 19, 2014, 128 Stat. 4034, which directed that subsec. (g)(2) of this section be amended by striking “and” at the end of subpar. (O), by striking the period at the end of subpar. (P) and inserting “, and”, and by inserting after subpar. (P) a new subpar. (Q), effective as if included in the provisions of Pub. L. 110–185 to which the amendments relate, could not literally be executed insofar as it directed the amendments to subpars. (O) and (P) because subsec. (g)(2), at the time of enactment of Pub. L. 110–185, did not contain subpars. (N) to (P). However, the amendment was considered to be executed by making the conforming amendments to subpars. (O) and (P) as added by sections 11(h) and 12(d) of Pub. L. 111–92, to reflect the probable intent of Congress and to allow for additional amendments by Pub. L. 113–295, which presume that such conforming amendments had taken place. See 2014 Amendment notes below.
 
 #### Amendments
+Subsec. (g)(2)(O). Pub. L. 115–141, § 401(a)(277), inserted comma at end.
+
+Subsec. (g)(2)(P). Pub. L. 115–141, § 401(a)(278), substituted “section 24(g)(2)” for “section 24(h)(2)” and “subsection (g)(1)” for “subsection (h)(1)”.
+
+Subsec. (g)(2)(Q). Pub. L. 115–141, § 101(l)(18), amended subpar. (Q) generally. Prior to amendment, subpar. (Q) read as follows: “an omission of information required by section 25A(i)(8)(B) or an entry on the return claiming the credit determined under section 25A(i) for a taxable year for which the credit is disallowed under paragraph (8)(A) thereof.”
+
 2015—Subsec. (g)(2)(K). Pub. L. 114–113, § 208(b)(1), inserted “or an entry on the return claiming the credit under section 32 for a taxable year for which the credit is disallowed under subsection (k)(1) thereof” before comma at end.
 
 Subsec. (g)(2)(O). Pub. L. 114–113, § 203(e), added subpar. (O).
@@ -867,8 +896,11 @@ Subsecs. (e), (f). Pub. L. 91–172, § 101(f)(3), added subsec. (e) and redesig
 
 1965—Subsec. (e)(3). Pub. L. 89–44 added par. (3).
 
+#### Effective Date of 2018 Amendment
+Amendment by section 101(l)(18) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
+
 #### Effective Date of 2015 Amendment
-Amendment by section 203(e) of Pub. L. 114–113 applicable to applications for individual taxpayer identification numbers made after Dec. 18, 2015, see section 203(f) of Pub. L. 114–113, set out as a note under [section 6109 of this title](./chapter-061-information-and-returns.md#section-6109).
+Amendment by section 203(e) of Pub. L. 114–113 applicable to applications for individual taxpayer identification numbers made after Dec. 18, 2015, except to the extent provided in [section 6109(i)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6109/i/3&num=0&edition=prelim), see section 203(f) of Pub. L. 114–113, set out as a note under [section 6109 of this title](./chapter-061-information-and-returns.md#section-6109).
 
 Amendment by section 208(b) of Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 208(c) of Pub. L. 114–113, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
 
@@ -927,7 +959,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from premises on 
 Amendment by section 10712(c)(1) of Pub. L. 100–203 applicable to taxable years beginning after Dec. 22, 1987, see section 10712(d) of Pub. L. 100–203, set out as an Effective Date note under [section 4955 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4955).
 
 #### Effective Date of 1986 Amendment
-Amendment by Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under [section 6230 of this title](./chapter-063-assessment.md#section-6230).
+Pub. L. 99–514, title XVIII, § 1875(d)(2)(C), Oct. 22, 1986, 100 Stat. 2896, provided that: “The amendments made by this paragraph [amending this section and sections 6230 and 6503 of this title] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 [Pub. L. 97–248].”
 
 #### Effective Date of 1984 Amendment
 Amendment by section 305(b)(4) of Pub. L. 98–369 applicable to taxable events occurring after Dec. 31, 1984, see section 305(c) of Pub. L. 98–369, set out as an Effective Date note under [section 4962 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4962).
@@ -935,7 +967,7 @@ Amendment by section 305(b)(4) of Pub. L. 98–369 applicable to taxable events 
 Amendment by section 474(r)(34) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under [section 21 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-21).
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1980 Amendments
 For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under [section 4961 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4961).
@@ -1085,18 +1117,15 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (4) For assessment of damages awarded by Tax Court for instituting proceedings merely for delay, see section 6673.
 
-(5) For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).11 See References in Text note below.
+(5) For rules applicable to Tax Court proceedings, see generally subchapter C of chapter 76.
 
-(6) For rules applicable to Tax Court proceedings, see generally subchapter C of chapter 76.
-
-(7) For extension of time for paying amount determined as deficiency, see section 6161(b).
+(6) For extension of time for paying amount determined as deficiency, see section 6161(b).
 
 ### Statutory Notes
 
-#### References in Text
-Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in subsec. (b)(5), is section 9 of act Mar. 8, 1946, ch. 82, 60 Stat. 46, which was repealed by Pub. L. 94–412, title V, § 501(g), Sept. 14, 1976, 90 Stat. 1258.
-
 #### Amendments
+2018—Subsec. (b)(5) to (7). Pub. L. 115–141 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).”
+
 1986—Subsec. (b)(7), (8). Pub. L. 99–514 redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “For proration of deficiency to installments, see section 6152(c).”
 
 1976—Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
@@ -1105,6 +1134,9 @@ Subsec. (b)(5). Pub. L. 94–455, § 1906(a)(16), struck out “60 Stat. 48;” 
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1404(d) of Pub. L. 99–514, set out as a note under [section 643 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-643).
+
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 
 <a id="section-6216"></a>
@@ -1115,7 +1147,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 (3) For procedures relating to claims against transferees and fiduciaries, see chapter 71.
 
-(4) For procedure relating to partnership items, see subchapter C.
+(4) For procedures relating to partnership items, see subchapter C.
 
 ### Statutory Notes
 
@@ -1125,1354 +1157,503 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 1980—Par. (1). Pub. L. 96–589 struck out reference to bankruptcy proceedings.
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under [section 108 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-108).
 
 
 <a id="section-6221"></a>
-## § 6221. Tax treatment determined at partnership level
+## § 6221. Determination at partnership level
+**(a) In general** Any adjustment to a partnership-related item shall be determined, and any tax attributable thereto shall be assessed and collected, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to any such item shall be determined, at the partnership level, except to the extent otherwise provided in this subchapter.
 
-Except as otherwise provided in this subchapter, the tax treatment of any partnership item (and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item) shall be determined at the partnership level.
+**(b) Election out for certain partnerships with 100 or fewer partners, etc.**
+
+(1) **In general** — This subchapter shall not apply with respect to any partnership for any taxable year if—
+
+  (A) the partnership elects the application of this subsection for such taxable year,
+
+  (B) for such taxable year the partnership is required to furnish 100 or fewer statements under section 6031(b) with respect to its partners,
+
+  (C) each of the partners of such partnership is an individual, a C corporation, any foreign entity that would be treated as a C corporation were it domestic, an S corporation, or an estate of a deceased partner,
+
+  (D) the election—
+
+    (i) is made with a timely filed return for such taxable year, and
+
+    (ii) includes (in the manner prescribed by the Secretary) a disclosure of the name and taxpayer identification number of each partner of such partnership, and
+
+  (E) the partnership notifies each such partner of such election in the manner prescribed by the Secretary.
+
+(2) **Special rules relating to certain partners**
+
+  (A) *S corporation partners* — In the case of a partner that is an S corporation—
+
+    (i) the partnership shall only be treated as meeting the requirements of paragraph (1)(C) with respect to such partner if such partnership includes (in the manner prescribed by the Secretary) a disclosure of the name and taxpayer identification number of each person with respect to whom such S corporation is required to furnish a statement under section 6037(b) for the taxable year of the S corporation ending with or within the partnership taxable year for which the application of this subsection is elected, and
+
+    (ii) the statements such S corporation is required to so furnish shall be treated as statements furnished by the partnership for purposes of paragraph (1)(B).
+
+  (B) *Foreign partners* — For purposes of paragraph (1)(D)(ii), the Secretary may provide for alternative identification of any foreign partners.
+
+  (C) *Other partners* — The Secretary may by regulation or other guidance prescribe rules similar to the rules of subparagraph (A) with respect to any partners not described in such subparagraph or paragraph (1)(C).
 
 ### Statutory Notes
 
-#### Enactment of Part and Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part I heading “In General” and analysis consisting of items 6221 to 6223 are enacted, this section is repealed, and a new section 6221 following the Part I analysis is enacted to read as follows: § 6221. Determination at partnership level
-
-(a) In general
-
-Any adjustment to items of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year (and any partner’s distributive share thereof) shall be determined, any tax attributable thereto shall be assessed and collected, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to any such item or share shall be determined, at the partnership level pursuant to this subchapter.
-
-(b) Election out for certain partnerships with 100 or fewer partners, etc.
-
-(1) In general
-
-This subchapter shall not apply with respect to any partnership for any taxable year if—
-
-(A) the partnership elects the application of this subsection for such taxable year,
-
-(B) for such taxable year the partnership is required to furnish 100 or fewer statements under section 6031(b) with respect to its partners,
-
-(C) each of the partners of such partnership is an individual, a C corporation, any foreign entity that would be treated as a C corporation were it domestic, an S corporation, or an estate of a deceased partner,
-
-(D) the election—
-
-(i) is made with a timely filed return for such taxable year, and
-
-(ii) includes (in the manner prescribed by the Secretary) a disclosure of the name and taxpayer identification number of each partner of such partnership, and
-
-(E) the partnership notifies each such partner of such election in the manner prescribed by the Secretary.
-
-(2) Special rules relating to certain partners
-
-(A) S corporation partners
-
-In the case of a partner that is an S corporation—
-
-(i) the partnership shall only be treated as meeting the requirements of paragraph (1)(C) with respect to such partner if such partnership includes (in the manner prescribed by the Secretary) a disclosure of the name and taxpayer identification number of each person with respect to whom such S corporation is required to furnish a statement under section 6037(b) for the taxable year of the S corporation ending with or within the partnership taxable year for which the application of this subsection is elected, and
-
-(ii) the statements such S corporation is required to so furnish shall be treated as statements furnished by the partnership for purposes of paragraph (1)(B).
-
-(B) Foreign partners
-
-For purposes of paragraph (1)(D)(ii), the Secretary may provide for alternative identification of any foreign partners.
-
-(C) Other partners
-
-The Secretary may by regulation or other guidance prescribe rules similar to the rules of subparagraph (A) with respect to any partners not described in such subparagraph or paragraph (1)(C).
+#### Prior Provisions
+A prior section 6221, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 648; amended Pub. L. 105–34, title XII, § 1238(a), Aug. 5, 1997, 111 Stat. 1026, related to tax treatment determined at partnership level, prior to repeal by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
-1997—Pub. L. 105–34 inserted “(and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item)” after “item”.
+2018—Subsec. (a). Pub. L. 115–141 amended subsec. (a) generally. Prior to amendment, text read as follows: “Any adjustment to items of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year (and any partner’s distributive share thereof) shall be determined, any tax attributable thereto shall be assessed and collected, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to any such item or share shall be determined, at the partnership level pursuant to this subchapter.”
 
-#### Effective Date of 2015 Amendment
-Pub. L. 114–74, title XI, § 1101(g), Nov. 2, 2015, 129 Stat. 638, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting this subchapter, amending sections 6031, 6330, 6422, 6501, 6503, 6504, 6511, 6512, 6515, 6601, 7421, 7422, 7459, 7482, and 7485 of this title, and repealing this subchapter, subchapter D of this chapter, and part IV of subchapter K of chapter 1 of this title] shall apply to returns filed for partnership taxable years beginning after December 31, 2017. “(2) Administrative adjustment requests.—In the case of [an] administrative adjustment request under section 6227 of such Code [Internal Revenue Code of 1986], the amendments made by this section shall apply to requests with respect to returns filed for partnership taxable years beginning after December 31, 2017. “(3) Adjusted partners statements.—In the case of a partnership electing the application of section 6226 of such Code, the amendments made by this section shall apply to elections with respect to returns filed for partnership taxable years beginning after December 31, 2017. “(4) Election.—A partnership may elect (at such time and in such form and manner as the Secretary of the Treasury may prescribe) for the amendments made by this section (other than the election under section 6221(b) of such Code (as added by this Act)) to apply to any return of the partnership filed for partnership taxable years beginning after the date of the enactment of this Act [Nov. 2, 2015] and before January 1, 2018.”
-
-#### Effective Date of 1997 Amendment
-Pub. L. 105–34, title XII, § 1238(c), Aug. 5, 1997, 111 Stat. 1027, provided that: “The amendments made by this section [amending this section and sections 6226 and 6230 of this title] shall apply to partnership taxable years ending after the date of the enactment of this Act [Aug. 5, 1997].”
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
 #### Effective Date
-Pub. L. 97–248, title IV, § 407(a), Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(1) Except as provided in paragraph (2), the amendments made by sections 402, 403, and 404 [enacting this subchapter and [section 1508 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1508&num=0&edition=prelim), Judiciary and Judicial Procedure, amending sections 702, 6031, 6213, 6216, 6422, 6501, 6504, 6511, 6512, 6515, 7422, 7451, 7456, 7459, 7482, and 7485 of this title and [section 1346 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1346&num=0&edition=prelim), and enacting provisions set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031)] shall apply to partnership taxable years beginning after the date of the enactment of this Act [Sept. 3, 1982]. “(2) Section 6232 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] shall apply to periods after December 31, 1982. “(3) The amendments made by sections 402, 403, and 404 shall apply to any partnership taxable year (or in the case of section 6232 of such Code, to any period) ending after the date of the enactment of this Act [Sept. 3, 1982] if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application.”
-
-#### Short Title
-For short title of title IV of Pub. L. 97–248 as the “Tax Treatment of Partnership Items Act of 1982”, see Short Title of 1982 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+Pub. L. 114–74, title XI, § 1101(g), Nov. 2, 2015, 129 Stat. 638, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting this subchapter, amending sections 6031, 6330, 6422, 6501, 6503, 6504, 6511, 6512, 6515, 6601, 7421, 7422, 7459, 7482, and 7485 of this title, and repealing this subchapter, subchapter D of this chapter, and part IV of subchapter K of chapter 1 of this title] shall apply to returns filed for partnership taxable years beginning after December 31, 2017. “(2) Administrative adjustment requests.—In the case of [an] administrative adjustment request under section 6227 of such Code [Internal Revenue Code of 1986], the amendments made by this section shall apply to requests with respect to returns filed for partnership taxable years beginning after December 31, 2017. “(3) Adjusted partners statements.—In the case of a partnership electing the application of section 6226 of such Code, the amendments made by this section shall apply to elections with respect to returns filed for partnership taxable years beginning after December 31, 2017. “(4) Election.—A partnership may elect (at such time and in such form and manner as the Secretary of the Treasury may prescribe) for the amendments made by this section (other than the election under section 6221(b) of such Code (as added by this Act)) to apply to any return of the partnership filed for partnership taxable years beginning after the date of the enactment of this Act [Nov. 2, 2015] and before January 1, 2018.”
 
 
 <a id="section-6222"></a>
-## § 6222. Partner’s return must be consistent with partnership return or Secretary notified of inconsistency
-**(a) In general** A partner shall, on the partner’s return, treat a partnership item in a manner which is consistent with the treatment of such partnership item on the partnership return.
+## § 6222. Partner’s return must be consistent with partnership return
+**(a) In general** A partner shall, on the partner’s return, treat any partnership-related item in a manner which is consistent with the treatment of such item on the partnership return.
 
-**(b) Notification of inconsistent treatment**
+**(b) Underpayment due to inconsistent treatment assessed as math error** Any underpayment of tax by a partner by reason of failing to comply with the requirements of subsection (a) shall be assessed and collected in the same manner as if such underpayment were on account of a mathematical or clerical error appearing on the partner’s return. Paragraph (2) of section 6213(b) shall not apply to any assessment of an underpayment referred to in the preceding sentence.
 
-(1) **In general** — In the case of any partnership item, if—
+**(c) Exception for notification of inconsistent treatment**
+
+(1) **In general** — In the case of any item referred to in subsection (a), if—
 
   (A)
 
-    (i) the partnership has filed a return but the partner’s treatment on his return is (or may be) inconsistent with the treatment of the item on the partnership return, or
+    (i) the partnership has filed a return but the partner’s treatment on the partner’s return is (or may be) inconsistent with the treatment of the item on the partnership return, or
 
     (ii) the partnership has not filed a return, and
 
   (B) the partner files with the Secretary a statement identifying the inconsistency,
-  subsection (a) shall not apply to such item.
+  subsections (a) and (b) shall not apply to such item.
 
-(2) **Partner receiving incorrect information** — A partner shall be treated as having complied with subparagraph (B) of paragraph (1) with respect to a partnership item if the partner—
+(2) **Partner receiving incorrect information** — A partner shall be treated as having complied with subparagraph (B) of paragraph (1) with respect to an item if the partner—
 
-  (A) demonstrates to the satisfaction of the Secretary that the treatment of the partnership item on the partner’s return is consistent with the treatment of the item on the schedule furnished to the partner by the partnership, and
+  (A) demonstrates to the satisfaction of the Secretary that the treatment of the item on the partner’s return is consistent with the treatment of the item on the statement furnished to the partner by the partnership, and
 
   (B) elects to have this paragraph apply with respect to that item.
 
-**(c) Effect of failure to notify** In any case—
+**(d) Final decision on certain positions not binding on partnership** Any final decision with respect to an inconsistent position identified under subsection (c) in a proceeding to which the partnership is not a party shall not be binding on the partnership.
 
-(1) described in paragraph (1)(A)(i) of subsection (b), and
-
-(2) in which the partner does not comply with paragraph (1)(B) of subsection (b),
-section 6225 shall not apply to any part of a deficiency attributable to any computational adjustment required to make the treatment of the items by such partner consistent with the treatment of the items on the partnership return.
-
-**(d) Addition to tax for failure to comply with section** For addition to tax in the case of a partner’s disregard of requirements of this section, see part II of subchapter A of chapter 68.
+**(e) Addition to tax for failure to comply with section** For addition to tax in the case of a partner’s disregard of the requirements of this section, see part II of subchapter A of chapter 68.
 
 ### Statutory Notes
 
-#### Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 626, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6222 is enacted to read as follows: § 6222. Partner’s return must be consistent with partnership return
-
-(a) In general
-
-A partner shall, on the partner’s return, treat each item of income, gain, loss, deduction, or credit attributable to a partnership in a manner which is consistent with the treatment of such income, gain, loss, deduction, or credit on the partnership return.
-
-(b) Underpayment due to inconsistent treatment assessed as math error
-
-Any underpayment of tax by a partner by reason of failing to comply with the requirements of subsection (a) shall be assessed and collected in the same manner as if such underpayment were on account of a mathematical or clerical error appearing on the partner’s return. Paragraph (2) of section 6213(b) shall not apply to any assessment of an underpayment referred to in the preceding sentence.
-
-(c) Exception for notification of inconsistent treatment
-
-(1) In general
-
-In the case of any item referred to in subsection (a), if—
-
-(A)(i) the partnership has filed a return but the partner’s treatment on the partner’s return is (or may be) inconsistent with the treatment of the item on the partnership return, or
-
-(ii) the partnership has not filed a return, and
-
-(B) the partner files with the Secretary a statement identifying the inconsistency,
-
-subsections (a) and (b) shall not apply to such item.
-
-(2) Partner receiving incorrect information
-
-A partner shall be treated as having complied with subparagraph (B) of paragraph (1) with respect to an item if the partner—
-
-(A) demonstrates to the satisfaction of the Secretary that the treatment of the item on the partner’s return is consistent with the treatment of the item on the statement furnished to the partner by the partnership, and
-
-(B) elects to have this paragraph apply with respect to that item.
-
-(d) Final decision on certain positions not binding on partnership
-
-Any final decision with respect to an inconsistent position identified under subsection (c) in a proceeding to which the partnership is not a party shall not be binding on the partnership.
-
-(e) Addition to tax for failure to comply with section
-
-For addition to tax in the case of a partner’s disregard of the requirements of this section, see part II of subchapter A of chapter 68.
+#### Prior Provisions
+A prior section 6222, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 648; amended Pub. L. 99–514, title XV, § 1503(c)(1), Oct. 22, 1986, 100 Stat. 2743; Pub. L. 101–239, title VII, § 7721(c)(7), Dec. 19, 1989, 103 Stat. 2400, required partner’s return to be consistent with partnership return or Secretary to be notified of inconsistency, prior to repeal by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
-1989—Subsec. (d). Pub. L. 101–239 substituted “part II of subchapter A of chapter 68” for “section 6653(a)”.
+2018—Subsec. (a). Pub. L. 115–141 amended subsec. (a) generally. Prior to amendment, text read as follows: “A partner shall, on the partner’s return, treat each item of income, gain, loss, deduction, or credit attributable to a partnership in a manner which is consistent with the treatment of such income, gain, loss, deduction, or credit on the partnership return.”
 
-1986—Subsec. (d). Pub. L. 99–514 struck out “intentional or negligent” after “case of a partner’s”.
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 1989 Amendment
-Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under [section 461 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-461).
-
-#### Effective Date of 1986 Amendment
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1503(e) of Pub. L. 99–514, set out as a note under [section 6653 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6653).
+#### Effective Date
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6223"></a>
-## § 6223. Notice to partners of proceedings
-**(a) Secretary must give partners notice of beginning and completion of administrative proceedings** The Secretary shall mail to each partner whose name and address is furnished to the Secretary notice of—
+## § 6223. Partners bound by actions of partnership
+**(a) Designation of partnership representative** Each partnership shall designate (in the manner prescribed by the Secretary) a partner (or other person) with a substantial presence in the United States as the partnership representative who shall have the sole authority to act on behalf of the partnership under this subchapter. In any case in which such a designation is not in effect, the Secretary may select any person as the partnership representative.
 
-(1) the beginning of an administrative proceeding at the partnership level with respect to a partnership item, and
-
-(2) the final partnership administrative adjustment resulting from any such proceeding.
-A partner shall not be entitled to any notice under this subsection unless the Secretary has received (at least 30 days before it is mailed to the tax matters partner) sufficient information to enable the Secretary to determine that such partner is entitled to such notice and to provide such notice to such partner.
-
-**(b) Special rules for partnership with more than 100 partners**
-
-(1) **Partner with less than 1 percent interest** — Except as provided in paragraph (2), subsection (a) shall not apply to a partner if—
-
-  (A) the partnership has more than 100 partners, and
-
-  (B) the partner has a less than 1 percent interest in the profits of the partnership.
-
-(2) **Secretary must give notice to notice group** — If a group of partners in the aggregate having a 5 percent or more interest in the profits of a partnership so request and designate one of their members to receive the notice, the member so designated shall be treated as a partner to whom subsection (a) applies.
-
-**(c) Information base for Secretary’s notices, etc.** For purposes of this subchapter—
-
-(1) **Information on partnership return** — Except as provided in paragraphs (2) and (3), the Secretary shall use the names, addresses, and profits interests shown on the partnership return.
-
-(2) **Use of additional information** — The Secretary shall use additional information furnished to him by the tax matters partner or any other person in accordance with regulations prescribed by the Secretary.
-
-(3) **Special rule with respect to indirect partners** — If any information furnished to the Secretary under paragraph (1) or (2)—
-
-  (A) shows that a person has a profits interest in the partnership by reason of ownership of an interest through 1 or more pass-thru partners, and
-
-  (B) contains the name, address, and profits interest of such person,
-  then the Secretary shall use the name, address, and profits interest of such person with respect to such partnership interest (in lieu of the names, addresses, and profits interests of the pass-thru partners).
-
-**(d) Period for mailing notice**
-
-(1) **Notice of beginning of proceedings** — The Secretary shall mail the notice specified in paragraph (1) of subsection (a) to each partner entitled to such notice not later than the 120th day before the day on which the notice specified in paragraph (2) of subsection (a) is mailed to the tax matters partner.
-
-(2) **Notice of final partnership administrative adjustment** — The Secretary shall mail the notice specified in paragraph (2) of subsection (a) to each partner entitled to such notice not later than the 60th day after the day on which the notice specified in such paragraph (2) was mailed to the tax matters partner.
-
-**(e) Effect of Secretary’s failure to provide notice**
-
-(1) **Application of subsection**
-
-  (A) *In general* — This subsection applies where the Secretary has failed to mail any notice specified in subsection (a) to a partner entitled to such notice within the period specified in subsection (d).
-
-  (B) *Special rules for partnerships with more than 100 partners* — For purposes of subparagraph (A), any partner described in paragraph (1) of subsection (b) shall be treated as entitled to notice specified in subsection (a). The Secretary may provide such notice—
-
-    (i) except as provided in clause (ii), by mailing notice to the tax matters partner, or
-
-    (ii) in the case of a member of a notice group which qualified under paragraph (2) of subsection (b), by mailing notice to the partner designated for such purpose by the group.
-
-(2) **Proceedings finished** — In any case to which this subsection applies, if at the time the Secretary mails the partner notice of the proceeding—
-
-  (A) the period within which a petition for review of a final partnership administrative adjustment under section 6226 may be filed has expired and no such petition has been filed, or
-
-  (B) the decision of a court in an action begun by such a petition has become final,
-  the partner may elect to have such adjustment, such decision, or a settlement agreement described in paragraph (2) of section 6224(c) with respect to the partnership taxable year to which the adjustment relates apply to such partner. If the partner does not make an election under the preceding sentence, the partnership items of the partner for the partnership taxable year to which the proceeding relates shall be treated as nonpartnership items.
-
-(3) **Proceedings still going on** — In any case to which this subsection applies, if paragraph (2) does not apply, the partner shall be a party to the proceeding unless such partner elects—
-
-  (A) to have a settlement agreement described in paragraph (2) of section 6224(c) with respect to the partnership taxable year to which the proceeding relates apply to the partner, or
-
-  (B) to have the partnership items of the partner for the partnership taxable year to which the proceeding relates treated as nonpartnership items.
-
-**(f) Only one notice of final partnership administrative adjustment** If the Secretary mails a notice of final partnership administrative adjustment for a partnership taxable year with respect to a partner, the Secretary may not mail another such notice to such partner with respect to the same taxable year of the same partnership in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact.
-
-**(g) Tax matters partner must keep partners informed of proceedings** To the extent and in the manner provided by regulations, the tax matters partner of a partnership shall keep each partner informed of all administrative and judicial proceedings for the adjustment at the partnership level of partnership items.
-
-**(h) Pass-thru partner required to forward notice**
-
-(1) **In general** — If a pass-thru partner receives a notice with respect to a partnership proceeding from the Secretary, the tax matters partner, or another pass-thru partner, the pass-thru partner shall, within 30 days of receiving that notice, forward a copy of that notice to the person or persons holding an interest (through the pass-thru partner) in the profits or losses of the partnership for the partnership taxable year to which the notice relates.
-
-(2) **Partnership as pass-thru partner** — In the case of a pass-thru partner which is a partnership, the tax matters partner of such partnership shall be responsible for forwarding copies of the notice to the partners of such partnership.
-
-### Statutory Notes
-
-#### Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 627, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6223 is enacted to read as follows: § 6223. Partners bound by actions of partnership
-
-(a) Designation of partnership representative
-
-Each partnership shall designate (in the manner prescribed by the Secretary) a partner (or other person) with a substantial presence in the United States as the partnership representative who shall have the sole authority to act on behalf of the partnership under this subchapter. In any case in which such a designation is not in effect, the Secretary may select any person as the partnership representative.
-
-(b) Binding effect
-
-A partnership and all partners of such partnership shall be bound—
+**(b) Binding effect** A partnership and all partners of such partnership shall be bound—
 
 (1) by actions taken under this subchapter by the partnership, and
 
 (2) by any final decision in a proceeding brought under this subchapter with respect to the partnership.
 
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-
-<a id="section-6224"></a>
-## § 6224. Participation in administrative proceedings; waivers; agreements
-**(a) Participation in administrative proceedings** Any partner has the right to participate in any administrative proceeding relating to the determination of partnership items at the partnership level.
-
-**(b) Partner may waive rights**
-
-(1) **In general** — A partner may at any time waive—
-
-  (A) any right such partner has under this subchapter, and
-
-  (B) any restriction under this subchapter on action by the Secretary.
-
-(2) **Form** — Any waiver under paragraph (1) shall be made by a signed notice in writing filed with the Secretary.
-
-**(c) Settlement agreement** In the absence of a showing of fraud, malfeasance, or misrepresentation of fact—
-
-(1) **Binds all parties** — A settlement agreement between the Secretary or the Attorney General (or his delegate) and 1 or more partners in a partnership with respect to the determination of partnership items for any partnership taxable year shall (except as otherwise provided in such agreement) be binding on all parties to such agreement with respect to the determination of partnership items for such partnership taxable year. An indirect partner is bound by any such agreement entered into by the pass-thru partner unless the indirect partner has been identified as provided in section 6223(c)(3).
-
-(2) **Other partners have right to enter into consistent agreements** — If the Secretary or the Attorney General (or his delegate) enters into a settlement agreement with any partner with respect to partnership items for any partnership taxable year, the Secretary or the Attorney General (or his delegate) shall offer to any other partner who so requests settlement terms for the partnership taxable year which are consistent with those contained in such settlement agreement. Except in the case of an election under paragraph (2) or (3) of section 6223(e) to have a settlement agreement described in this paragraph apply, this paragraph shall apply with respect to a settlement agreement entered into with a partner before notice of a final partnership administrative adjustment is mailed to the tax matters partner only if such other partner makes the request before the expiration of 150 days after the day on which such notice is mailed to the tax matters partner.
-
-(3) **Tax matters partner may bind certain other partners**
-
-  (A) *In general* — A partner who is not a notice partner (and not a member of a notice group described in subsection (b)(2) of section 6223) shall be bound by any settlement agreement—
-
-    (i) which is entered into by the tax matters partner, and
-
-    (ii) in which the tax matters partner expressly states that such agreement shall bind the other partners.
-
-  (B) *Exception* — Subparagraph (A) shall not apply to any partner who (within the time prescribed by the Secretary) files a statement with the Secretary providing that the tax matters partner shall not have the authority to enter into a settlement agreement on behalf of such partner.
-
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+#### Prior Provisions
+Prior sections 6223 and 6224 were repealed by Pub. L. 114–74, title XI, § 1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
 
-#### Amendments
-2002—Subsec. (c)(1), (2). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary” wherever appearing.
+Section 6223, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 649, related to notice to partners of proceedings.
 
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Section 6224, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 651; amended Pub. L. 107–147, title IV, § 416(d)(1)(A), Mar. 9, 2002, 116 Stat. 55, related to partner participation in administrative proceedings, waiver of partner’s rights, and settlement agreements.
 
-#### Effective Date of 2002 Amendment
-Pub. L. 107–147, title IV, § 416(d)(2), Mar. 9, 2002, 116 Stat. 55, provided that: “The amendments made by this subsection [amending this section and sections 6229, 6231, and 6234 of this title] shall apply with respect to settlement agreements entered into after the date of the enactment of this Act [Mar. 9, 2002].”
+#### Effective Date
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6225"></a>
-## § 6225. Assessments made only after partnership level proceedings are completed
-**(a) Restriction on assessment and collection** Except as otherwise provided in this subchapter, no assessment of a deficiency attributable to any partnership item may be made (and no levy or proceeding in any court for the collection of any such deficiency may be made, begun, or prosecuted) before—
+## § 6225. Partnership adjustment by Secretary
+**(a) In general** In the case of any adjustments by the Secretary to any partnership-related items with respect to any reviewed year of a partnership—
 
-(1) the close of the 150th day after the day on which a notice of a final partnership administrative adjustment was mailed to the tax matters partner, and
+(1) if such adjustments result in an imputed underpayment, the partnership shall pay an amount equal to such imputed underpayment in the adjustment year as provided in section 6232, and
 
-(2) if a proceeding is begun in the Tax Court under section 6226 during such 150-day period, the decision of the court in such proceeding has become final.
+(2) if such adjustments do not result in an imputed underpayment, such adjustments shall be taken into account by the partnership in the adjustment year.
 
-**(b) Premature action may be enjoined** Notwithstanding section 7421(a), any action which violates subsection (a) may be enjoined in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action or proceeding under this subsection unless a timely petition for a readjustment of the partnership items for the taxable year has been filed and then only in respect of the adjustments that are the subject of such petition.
+**(b) Determination of imputed underpayments** For purposes of this subchapter—
 
-**(c) Limit where no proceeding begun** If no proceeding under section 6226 is begun with respect to any final partnership administrative adjustment during the 150-day period described in subsection (a), the deficiency assessed against any partner with respect to the partnership items to which such adjustment relates shall not exceed the amount determined in accordance with such adjustment.
+(1) **In general** — Except as otherwise provided in this section, any imputed underpayment with respect to any reviewed year shall be determined by the Secretary by—
+
+  (A) appropriately netting all partnership adjustments with respect to such reviewed year, and
+
+  (B) applying the highest rate of tax in effect for the reviewed year under section 1 or 11.
+
+(2) **Adjustments to distributive shares of partners not netted** — In the case of any adjustment which reallocates the distributive share of any item from one partner to another, such adjustment shall be taken into account by disregarding so much of such adjustment as results in a decrease in the amount of the imputed underpayment.
+
+(3) **Adjustments separately netted by category** — For purposes of paragraph (1)(A), partnership adjustments for any reviewed year shall first be separately determined (and netted as appropriate) within each category of items that are required to be taken into account separately under section 702(a) or other provision of this title.
+
+(4) **Limitation on adjustments that may be taken into account** — If any adjustment would (but for this paragraph)—
+
+  (A) result in a decrease in the amount of the imputed underpayment, and
+
+  (B) could be subject to any additional limitation under the provisions of this title (or not allowed, in whole or in part, against ordinary income) if such adjustment were taken into account by any person,
+  such adjustment shall not be taken into account under paragraph (1)(A) except to the extent otherwise provided by the Secretary.
+
+**(c) Modification of imputed underpayments**
+
+(1) **In general** — The Secretary shall establish procedures under which the imputed underpayment amount may be modified consistent with the requirements of this subsection.
+
+(2) **Procedures for partners to take adjustments into account**
+
+  (A) *Amended returns of partners* — Such procedures shall provide that if—
+
+    (i) one or more partners file returns for the taxable year of the partners which includes the end of the reviewed year of the partnership (and for any taxable year with respect to which any tax attribute is affected by reason of any adjustment referred to in clause (ii)),
+
+    (ii) such returns take into account all adjustments under subsection (a) properly allocable to such partners (and the effect of such adjustments on any tax attributes), and
+
+    (iii) payment of any tax due is included with such returns,
+    then the imputed underpayment amount shall be determined without regard to the portion of the adjustments so taken into account.
+
+  (B) *Alternative procedure to filing amended returns* — Such procedures shall provide that, with respect to any partner referred to in subparagraph (A), the requirements of subparagraph (A) shall be treated as satisfied with respect to adjustments properly allocable to such partner if, in lieu of filing the returns described in such subparagraph—
+
+    (i) the amounts described in subparagraph (A)(iii) are paid by the partner,
+
+    (ii) the partner agrees to take into account, in the form and manner prescribed by the Secretary, the adjustments to the tax attributes of such partner referred to in subparagraph (A)(ii), and
+
+    (iii) such partner provides, in the form and manner specified by the Secretary (including, if the Secretary so specifies, in the same form as on an amended return), such information as the Secretary may require to carry out this subparagraph.
+
+  (C) *Reallocation of distributive share* — In the case of any adjustment which reallocates the distributive share of any item from one partner to another, this paragraph shall apply with respect to any such partner only if the requirements of subparagraph (A) or (B) are satisfied with respect to all partners affected by such adjustment.
+
+  (D) *Application of statute of limitations* — In the case of adjustments referred to in subparagraph (A)(ii), sections 6501 and 6511 shall not apply with respect to any return filed for purposes of subparagraph (A)(i) or any amount paid under subparagraph (A)(iii) or (B)(i).
+
+  (E) *Adjustments to tax attributes binding for affected taxable years of partner* — The adjustments to the tax attributes of any partner provided for in subparagraph (A)(ii) or (B)(ii) shall be binding with respect to the taxable year of the partner which includes the end of the reviewed year of the partnership and any taxable years for which any tax attribute is affected by such adjustment. Any failure to so treat any such tax attribute shall be treated for purposes of this title in the same manner as a failure to treat a partnership-related item in a manner which is consistent with the treatment of such item on the partnership return within the meaning of section 6222.
+
+  (F) *11 So in original. Two subpars. (F) have been enacted. Application to partnerships and S corporations in tiered structures*
+
+    (i) *In general* — In the case of any partnership any partner of which is a partnership, subparagraph (A) or (B) may apply with respect to any partner (hereafter in this subparagraph referred to as the “relevant partner”) in the chain of ownership of such partnerships if—
+
+      (I) such information as the Secretary may require is furnished to the Secretary for purposes of carrying out this paragraph with respect to such partnerships (including any information the Secretary may require with respect to any chain of ownership of the relevant partner), and
+
+      (II) to such extent as the Secretary may require, each partnership in the chain of ownership between the relevant partner and the audited partnership satisfies the requirements of subparagraph (A) or (B).
+
+    (ii) *Treatment of S corporations* — For purposes of clause (i), an S corporation and its shareholders shall be treated in the same manner as a partnership and its partners.
+
+  (F) *1 Adjustments not treated as amended return* — An administrative adjustment request under section 6227 and a partnership adjustment tracking report under section 6226(b)(4)(A) shall not be treated as a return for purposes of this paragraph.
+
+(3) **Tax-exempt partners** — Such procedures shall provide for determining the imputed underpayment without regard to the portion of the adjustment that the partnership demonstrates is allocable to a partner that would not owe tax by reason of its status as a tax-exempt entity (as defined in section 168(h)(2)).
+
+(4) **Modification of applicable highest tax rates**
+
+  (A) *In general* — Such procedures shall provide for taking into account a rate of tax lower than the rate of tax described in subsection (b)(1)(A) with respect to any portion of the adjustment that the partnership demonstrates is allocable to a partner which—
+
+    (i) is a C corporation, or
+
+    (ii) in the case of a capital gain or qualified dividend, is an individual.
+    In no event shall the lower rate determined under the preceding sentence be less than the highest rate in effect with respect to the income and taxpayer described in clause (i) or clause (ii), as the case may be. For purposes of clause (ii), an S corporation shall be treated as an individual.
+
+  (B) *Portion of imputed underpayment to which lower rate applies*
+
+    (i) *In general* — Except as provided in clause (ii), the portion of the imputed underpayment to which the lower rate applies with respect to a partner under subparagraph (A) shall be determined by reference to the partners’ distributive share of items to which the imputed underpayment relates.
+
+    (ii) *Rule in case of varied treatment of items among partners* — If the imputed underpayment is attributable to the adjustment of more than 1 item, and any partner’s distributive share of such items is not the same with respect to all such items, then the portion of the imputed underpayment to which the lower rate applies with respect to a partner under subparagraph (A) shall be determined by reference to the amount which would have been the partner’s distributive share of net gain or loss if the partnership had sold all of its assets at their fair market value as of the close of the reviewed year of the partnership.
+
+(5) **Certain passive losses of publicly traded partnerships**
+
+  (A) *In general* — In the case of a publicly traded partnership (as defined in section 469(k)(2)), such procedures shall provide—
+
+    (i) for determining the imputed underpayment without regard to the portion of the adjustment that the partnership demonstrates is attributable to a net decrease in a specified passive activity loss which is allocable to a specified partner, and
+
+    (ii) for the partnership to take such net decrease into account as an adjustment in the adjustment year with respect to the specified partners to which such net decrease relates.
+
+  (B) *Specified passive activity loss* — For purposes of this paragraph, the term “specified passive activity loss” means, with respect to any specified partner of such publicly traded partnership, the lesser of—
+
+    (i) the passive activity loss of such partner which is separately determined with respect to such partnership under section 469(k) with respect to such partner’s taxable year in which or with which the reviewed year of such partnership ends, or
+
+    (ii) such passive activity loss so determined with respect to such partner’s taxable year in which or with which the adjustment year of such partnership ends.
+
+  (C) *Specified partner* — For purposes of this paragraph, the term “specified partner” means any person if such person—
+
+    (i) is a partner of the publicly traded partnership referred to in subparagraph (A),
+
+    (ii) is described in section 469(a)(2), and
+
+    (iii) has a specified passive activity loss with respect to such publicly traded partnership,
+    with respect to each taxable year of such person which is during the period beginning with the taxable year of such person in which or with which the reviewed year of such publicly traded partnership ends and ending with the taxable year of such person in which or with which the adjustment year of such publicly traded partnership ends.
+
+(6) **Other procedures for modification of imputed underpayment** — The Secretary may by regulations or guidance provide for additional procedures to modify imputed underpayment amounts on the basis of such other factors as the Secretary determines are necessary or appropriate to carry out the purposes of this subsection.
+
+(7) **Year and day for submission to Secretary** — Anything required to be filed or submitted under this subsection shall be submitted to the Secretary not later than the close of the 270-day period beginning on the date on which the notice of a proposed partnership adjustment is mailed under section 6231 unless such period is extended with the consent of the Secretary.
+
+(8) **Decision of Secretary** — Any modification of the imputed underpayment amount under this subsection shall be made only upon approval of such modification by the Secretary.
+
+(9) **Modification of adjustments not resulting in an imputed underpayment** — The Secretary shall establish procedures under which the adjustments described in subsection (a)(2) may be modified in such manner as the Secretary determines appropriate.
+
+**(d) Definitions** For purposes of this subchapter—
+
+(1) **Reviewed year** — The term “reviewed year” means the partnership taxable year to which the item being adjusted relates.
+
+(2) **Adjustment year** — The term “adjustment year” means the partnership taxable year in which—
+
+  (A) in the case of an adjustment pursuant to the decision of a court in a proceeding brought under section 6234, such decision becomes final,
+
+  (B) in the case of an administrative adjustment request under section 6227, such administrative adjustment request is made, or
+
+  (C) in any other case, notice of the final partnership adjustment is mailed under section 6231.
 
 ### Statutory Notes
 
-#### Enactment of Part and Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 628, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part II heading “Partnership Adjustments” and analysis consisting of items 6225 to 6227 are enacted, this section is repealed, and a new section 6225 following the Part II analysis is enacted to read as follows: § 6225. Partnership adjustment by Secretary
-
-(a) In general
-
-In the case of any adjustment by the Secretary in the amount of any item of income, gain, loss, deduction, or credit of a partnership, or any partner’s distributive share thereof—
-
-(1) the partnership shall pay any imputed underpayment with respect to such adjustment in the adjustment year as provided in section 6232, and
-
-(2) any adjustment that does not result in an imputed underpayment shall be taken into account by the partnership in the adjustment year—
-
-(A) except as provided in subparagraph (B), as a reduction in non-separately stated income or an increase in non-separately stated loss (whichever is appropriate) under section 702(a)(8), or
-
-(B) in the case of an item of credit, as a separately stated item.
-
-(b) Determination of imputed underpayments
-
-For purposes of this subchapter—
-
-(1) In general
-
-Except as provided in subsection (c), any imputed underpayment with respect to any partnership adjustment for any reviewed year shall be determined—
-
-(A) by netting all adjustments of items of income, gain, loss, or deduction and multiplying such net amount by the highest rate of tax in effect for the reviewed year under section 1 or 11,
-
-(B) by treating any net increase or decrease in loss under subparagraph (A) as a decrease or increase, respectively, in income, and
-
-(C) by taking into account any adjustments to items of credit as an increase or decrease, as the case may be, in the amount determined under subparagraph (A).
-
-(2) Adjustments to distributive shares of partners not netted
-
-In the case of any adjustment which reallocates the distributive share of any item from one partner to another, such adjustment shall be taken into account under paragraph (1) by disregarding—
-
-(A) any decrease in any item of income or gain, and
-
-(B) any increase in any item of deduction, loss, or credit.
-
-(c) Modification of imputed underpayments
-
-(1) In general
-
-The Secretary shall establish procedures under which the imputed underpayment amount may be modified consistent with the requirements of this subsection.
-
-(2) Amended returns of partners
-
-(A) In general
-
-Such procedures shall provide that if—
-
-(i) one or more partners file returns (notwithstanding section 6511) for the taxable year of the partners which includes the end of the reviewed year of the partnership,
-
-(ii) such returns take into account all adjustments under subsection (a) properly allocable to such partners (and for any other taxable year with respect to which any tax attribute is affected by reason of such adjustments), and
-
-(iii) payment of any tax due is included with such return,
-
-then the imputed underpayment amount shall be determined without regard to the portion of the adjustments so taken into account.
-
-(B) Reallocation of distributive share
-
-In the case of any adjustment which reallocates the distributive share of any item from one partner to another, paragraph (2) shall apply only if returns are filed by all partners affected by such adjustment.
-
-(3) Tax-exempt partners
-
-Such procedures shall provide for determining the imputed underpayment without regard to the portion thereof that the partnership demonstrates is allocable to a partner that would not owe tax by reason of its status as a tax-exempt entity (as defined in section 168(h)(2)).
-
-(4) Modification of applicable highest tax rates
-
-(A) In general
-
-Such procedures shall provide for taking into account a rate of tax lower than the rate of tax described in subsection (b)(1)(A) with respect to any portion of the imputed underpayment that the partnership demonstrates is allocable to a partner which—
-
-(i) in the case of ordinary income, is a C corporation, or
-
-(ii) in the case of a capital gain or qualified dividend, is an individual.
-
-In no event shall the lower rate determined under the preceding sentence be less than the highest rate in effect with respect to the income and taxpayer described in clause (i) or clause (ii), as the case may be. For purposes of clause (ii), an S corporation shall be treated as an individual.
-
-(B) Portion of imputed underpayment to which lower rate applies
-
-(i) In general
-
-Except as provided in clause (ii), the portion of the imputed underpayment to which the lower rate applies with respect to a partner under subparagraph (A) shall be determined by reference to the partners’ distributive share of items to which the imputed underpayment relates.
-
-(ii) Rule in case of varied treatment of items among partners
-
-If the imputed underpayment is attributable to the adjustment of more than 1 item, and any partner’s distributive share of such items is not the same with respect to all such items, then the portion of the imputed underpayment to which the lower rate applies with respect to a partner under subparagraph (A) shall be determined by reference to the amount which would have been the partner’s distributive share of net gain or loss if the partnership had sold all of its assets at their fair market value as of the close of the reviewed year of the partnership.
-
-(5) Other procedures for modification of imputed underpayment
-
-The Secretary may by regulations or guidance provide for additional procedures to modify imputed underpayment amounts on the basis of such other factors as the Secretary determines are necessary or appropriate to carry out the purposes of this subsection.
-
-(6) Year and day for submission to Secretary
-
-Anything required to be submitted pursuant to paragraph (1) shall be submitted to the Secretary not later than the close of the 270-day period beginning on the date on which the notice of a proposed partnership adjustment is mailed under section 6231 unless such period is extended with the consent of the Secretary.
-
-(7) Decision of Secretary
-
-Any modification of the imputed underpayment amount under this subsection shall be made only upon approval of such modification by the Secretary.
-
-(d) Definitions
-
-For purposes of this subchapter—
-
-(1) Reviewed year
-
-The term “reviewed year” means the partnership taxable year to which the item being adjusted relates.
-
-(2) Adjustment year
-
-The term “adjustment year” means the partnership taxable year in which—
-
-(A) in the case of an adjustment pursuant to the decision of a court in a proceeding brought under section 6234, such decision becomes final,
-
-(B) in the case of an administrative adjustment request under section 6227, such administrative adjustment request is made, or
-
-(C) in any other case, notice of the final partnership adjustment is mailed under section 6231.
-
-Pub. L. 114–113, div. Q, title IV, § 411(a), (e), Dec. 18, 2015, 129 Stat. 3121, 3122, provided that, effective as if included in section 1101 of Pub. L. 114–74, subsection (c) of this section (as added by Pub. L. 114–74, see note above) is amended as follows:
-
-(1) in paragraph (4)(A)(i), by striking “in the case of ordinary income,”;
-
-(2) by redesignating paragraphs (5) through (7) as paragraphs (6) through (8), respectively; and
-
-(3) by inserting after paragraph (4) the following new paragraph:
-
-(5) Certain passive losses of publicly traded partnerships
-
-(A) In general
-
-In the case of a publicly traded partnership (as defined in section 469(k)(2)), such procedures shall provide—
-
-(i) for determining the imputed underpayment without regard to the portion thereof that the partnership demonstrates is attributable to a net decrease in a specified passive activity loss which is allocable to a specified partner, and
-
-(ii) for the partnership to take such net decrease into account as an adjustment in the adjustment year with respect to the specified partners to which such net decrease relates.
-
-(B) Specified passive activity loss
-
-For purposes of this paragraph, the term “specified passive activity loss” means, with respect to any specified partner of such publicly traded partnership, the lesser of—
-
-(i) the passive activity loss of such partner which is separately determined with respect to such partnership under section 469(k) with respect to such partner’s taxable year in which or with which the reviewed year of such partnership ends, or
-
-(ii) such passive activity loss so determined with respect to such partner’s taxable year in which or with which the adjustment year of such partnership ends.
-
-(C) Specified partner
-
-For purposes of this paragraph, the term “specified partner” means any person if such person—
-
-(i) is a partner of the publicly traded partnership referred to in subparagraph (A),
-
-(ii) is described in section 469(a)(2), and
-
-(iii) has a specified passive activity loss with respect to such publicly traded partnership,
-
-with respect to each taxable year of such person which is during the period beginning with the taxable year of such person in which or with which the reviewed year of such publicly traded partnership ends and ending with the taxable year of such person in which or with which the adjustment year of such publicly traded partnership ends.
+#### Prior Provisions
+A prior section 6225, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 652; amended Pub. L. 105–34, title XII, § 1239(a), Aug. 5, 1997, 111 Stat. 1027, allowing assessments to be made only after partnership level proceedings were completed, was repealed by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
-1997—Pub. L. 105–34 substituted “the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action or proceeding under this subsection unless a timely petition for a readjustment of the partnership items for the taxable year has been filed and then only in respect of the adjustments that are the subject of such petition.” for “the proper court.”
+2018—Subsec. (a). Pub. L. 115–141, § 202(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to adjustment by the Secretary in the amount of any item of income, gain, loss, deduction, or credit of a partnership, or any partner’s distributive share thereof.
+
+Subsec. (b). Pub. L. 115–141, § 202(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to determination of imputed underpayments in general and adjustments to distributive shares of partners not netted, respectively.
+
+Subsec. (c)(2). Pub. L. 115–141, § 203(a), amended par. (2) generally. Prior to amendment, par. (2) related to amended returns of partners.
+
+Subsec. (c)(2)(F). Pub. L. 115–141, § 206(b), added subpar. (F) relating to adjustments not treated as amended return.
+
+Subsec. (c)(3). Pub. L. 115–141, § 202(b)(1), substituted “without regard to the portion of the adjustment” for “without regard to the portion thereof”.
+
+Subsec. (c)(4)(A). Pub. L. 115–141, § 202(b)(2), substituted “with respect to any portion of the adjustment” for “with respect to any portion of the imputed underpayment” in introductory provisions.
+
+Subsec. (c)(5)(A)(i). Pub. L. 115–141, § 202(b)(3), substituted “without regard to the portion of the adjustment” for “without regard to the portion thereof”.
+
+Subsec. (c)(7). Pub. L. 115–141, § 206(p)(1), substituted “filed or submitted under this subsection” for “submitted pursuant to paragraph (1)”.
+
+Subsec. (c)(9). Pub. L. 115–141, § 202(c)(2), added par. (9).
+
+2015—Subsec. (c)(4)(A)(i). Pub. L. 114–113, § 411(a)(1), struck out “in the case of ordinary income,” before “is a C corporation”.
+
+Subsec. (c)(5) to (8). Pub. L. 114–113, § 411(a)(2), added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) of Pub. L. 114–113, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 1997 Amendment
-Pub. L. 105–34, title XII, § 1239(f), Aug. 5, 1997, 111 Stat. 1028, provided that: “The amendments made by this section [amending this section and sections 6226, 6230, 6501, 6512, 7421, 7459, and 7482 of this title] shall apply to partnership taxable years ending after the date of the enactment of this Act [Aug. 5, 1997].”
+#### Effective Date
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6226"></a>
-## § 6226. Judicial review of final partnership administrative adjustments
-**(a) Petition by tax matters partner** Within 90 days after the day on which a notice of a final partnership administrative adjustment is mailed to the tax matters partner, the tax matters partner may file a petition for a readjustment of the partnership items for such taxable year with—
-
-(1) the Tax Court,
-
-(2) the district court of the United States for the district in which the partnership’s principal place of business is located, or
-
-(3) the Court of Federal Claims.
-
-**(b) Petition by partner other than tax matters partner**
-
-(1) **In general** — If the tax matters partner does not file a readjustment petition under subsection (a) with respect to any final partnership administrative adjustment, any notice partner (and any 5-percent group) may, within 60 days after the close of the 90-day period set forth in subsection (a), file a petition for a readjustment of the partnership items for the taxable year involved with any of the courts described in subsection (a).
-
-(2) **Priority of the Tax Court action** — If more than 1 action is brought under paragraph (1) with respect to any partnership for any partnership taxable year, the first such action brought in the Tax Court shall go forward.
-
-(3) **Priority outside the Tax Court** — If more than 1 action is brought under paragraph (1) with respect to any partnership for any taxable year but no such action is brought in the Tax Court, the first such action brought shall go forward.
-
-(4) **Dismissal of other actions** — If an action is brought under paragraph (1) in addition to the action which goes forward under paragraph (2) or (3), such action shall be dismissed.
-
-(5) **Treatment of premature petitions** — If—
-
-  (A) a petition for a readjustment of partnership items for the taxable year involved is filed by a notice partner (or a 5-percent group) during the 90-day period described in subsection (a), and
-
-  (B) no action is brought under paragraph (1) during the 60-day period described therein with respect to such taxable year which is not dismissed,
-  such petition shall be treated for purposes of paragraph (1) as filed on the last day of such 60-day period.
-
-(6) **Tax matters partner may intervene** — The tax matters partner may intervene in any action brought under this subsection.
-
-**(c) Partners treated as parties** If an action is brought under subsection (a) or (b) with respect to a partnership for any partnership taxable year—
-
-(1) each person who was a partner in such partnership at any time during such year shall be treated as a party to such action, and
-
-(2) the court having jurisdiction of such action shall allow each such person to participate in the action.
-
-**(d) Partner must have interest in outcome**
-
-(1) **In order to be party to action** — Subsection (c) shall not apply to a partner after the day on which—
-
-  (A) the partnership items of such partner for the partnership taxable year became nonpartnership items by reason of 1 or more of the events described in subsection (b) of section 6231, or
-
-  (B) the period within which any tax attributable to such partnership items may be assessed against that partner expired.
-  Notwithstanding subparagraph (B), any person treated under subsection (c) as a party to an action shall be permitted to participate in such action (or file a readjustment petition under subsection (b) or paragraph (2) of this subsection) solely for the purpose of asserting that the period of limitations for assessing any tax attributable to partnership items has expired with respect to such person, and the court having jurisdiction of such action shall have jurisdiction to consider such assertion.
-
-(2) **To file petition** — No partner may file a readjustment petition under subsection (b) unless such partner would (after the application of paragraph (1) of this subsection) be treated as a party to the proceeding.
-
-**(e) Jurisdictional requirement for bringing action in district court or Court of Federal Claims**
-
-(1) **In general** — A readjustment petition under this section may be filed in a district court of the United States or the Court of Federal Claims only if the partner filing the petition deposits with the Secretary, on or before the day the petition is filed, the amount by which the tax liability of the partner would be increased if the treatment of partnership items on the partner’s return were made consistent with the treatment of partnership items on the partnership return, as adjusted by the final partnership administrative adjustment. In the case of a petition filed by a 5-percent group, the requirement of the preceding sentence shall apply to each member of the group. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirements and any shortfall in the amount required to be deposited is timely corrected.
-
-(2) **Refund on request** — If an action brought in a district court of the United States or in the Court of Federal Claims is dismissed by reason of the priority of a Tax Court action under paragraph (2) of subsection (b), the Secretary shall, at the request of the partner who made the deposit, refund the amount deposited under paragraph (1).
-
-(3) **Interest payable** — Any amount deposited under paragraph (1), while deposited, shall not be treated as a payment of tax for purposes of this title (other than chapter 67).
-
-**(f) Scope of judicial review** A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all partnership items of the partnership for the partnership taxable year to which the notice of final partnership administrative adjustment relates, the proper allocation of such items among the partners, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item.
-
-**(g) Determination of court reviewable** Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. With respect to the partnership, only the tax matters partner, a notice partner, or a 5-percent group may seek review of a determination by a court under this section.
-
-**(h) Effect of decision dismissing action** If an action brought under this section is dismissed (other than under paragraph (4) of subsection (b)), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership administrative adjustment is correct, and an appropriate order shall be entered in the records of the court.
-
-### Statutory Notes
-
-#### Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 630, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6226 is enacted to read as follows: § 6226. Alternative to payment of imputed underpayment by partnership
-
-(a) In general
-
-If the partnership—
+## § 6226. Alternative to payment of imputed underpayment by partnership
+**(a) In general** If the partnership—
 
 (1) not later than 45 days after the date of the notice of final partnership adjustment, elects the application of this section with respect to an imputed underpayment, and
 
-(2) at such time and in such manner as the Secretary may provide, furnishes to each partner of the partnership for the reviewed year and to the Secretary a statement of the partner’s share of any adjustment to income, gain, loss, deduction, or credit (as determined in the notice of final partnership adjustment),
+(2) at such time and in such manner as the Secretary may provide, furnishes to each partner of the partnership for the reviewed year and to the Secretary a statement of the partner’s share of any adjustment to a partnership-related item (as determined in the notice of final partnership adjustment),
+section 6225 shall not apply with respect to such underpayment (and no assessment of tax, levy, or proceeding in any court for the collection of such underpayment shall be made against such partnership) and each such partner shall take such adjustment into account as provided in subsection (b). The election under paragraph (1) shall be made in such manner as the Secretary may provide and, once made, shall be revocable only with the consent of the Secretary.
 
-section 6225 shall not apply with respect to such underpayment and each such partner shall take such adjustment into account as provided in subsection (b). The election under paragraph (1) shall be made in such manner as the Secretary may provide and, once made, shall be revocable only with the consent of the Secretary.
+**(b) Adjustments taken into account by partner**
 
-(b) Adjustments taken into account by partner
+(1) **Tax imposed in year of statement** — Except as provided in paragraph (4), each partner’s tax imposed by chapter 1 for the taxable year which includes the date the statement was furnished under subsection (a) shall be adjusted by the aggregate of the correction amounts determined under paragraph (2) for the taxable years referred to therein.
 
-(1) Tax imposed in year of statement
+(2) **Correction amounts** — The correction amounts determined under this paragraph are—
 
-Each partner’s tax imposed by chapter 1 for the taxable year which includes the date the statement was furnished under subsection (a) shall be increased by the aggregate of the adjustment amounts determined under paragraph (2) for the taxable years referred to therein.
+  (A) in the case of the taxable year of the partner which includes the end of the reviewed year, the amount by which the tax imposed under chapter 1 would increase or decrease if the partner’s share of the adjustments described in subsection (a) were taken into account for such taxable year, and
 
-(2) Adjustment amounts
+  (B) in the case of any taxable year after the taxable year referred to in subparagraph (A) and before the taxable year referred to in paragraph (1), the amount by which the tax imposed under chapter 1 would increase or decrease by reason of the adjustment to tax attributes under paragraph (3).
 
-The adjustment amounts determined under this paragraph are—
+(3) **Adjustment of tax attributes** — Any tax attribute which would have been affected if the adjustments described in subsection (a) were taken into account for the taxable year referred to in paragraph (2)(A) shall—
 
-(A) in the case of the taxable year of the partner which includes the end of the reviewed year, the amount by which the tax imposed under chapter 1 would increase if the partner’s share of the adjustments described in subsection (a) were taken into account for such taxable year, plus
+  (A) in the case of any taxable year referred to in paragraph (2)(B), be appropriately adjusted for purposes of applying such paragraph, and
 
-(B) in the case of any taxable year after the taxable year referred to in subparagraph (A) and before the taxable year referred to in paragraph (1), the amount by which the tax imposed under chapter 1 would increase by reason of the adjustment to tax attributes under paragraph (3).
+  (B) in the case of any subsequent taxable year, be appropriately adjusted.
 
-(3) Adjustment of tax attributes
+(4) **Treatment of partnerships and S corporations in tiered structures**
 
-Any tax attribute which would have been affected if the adjustments described in subsection (a) were taken into account for the taxable year referred to in paragraph (2)(A) shall—
+  (A) *In general* — If a partner which receives a statement under subsection (a)(2) is a partnership or an S corporation, such partner shall, with respect to the partner’s share of the adjustment—
 
-(A) in the case of any taxable year referred to in paragraph (2)(B), be appropriately adjusted for purposes of applying such paragraph, and
+    (i) file with the Secretary a partnership adjustment tracking report which includes such information as the Secretary may require, and
 
-(B) in the case of any subsequent taxable year, be appropriately adjusted.
+    (ii)
 
-(c) Penalties and interest
+      (I) furnish statements under rules similar to the rules of subsection (a)(2), or
 
-(1) Penalties
+      (II) if no such statements are furnished, compute and pay an imputed underpayment under rules similar to the rules of section 6225 (other than paragraphs (2), (7), and (9) of subsection (c) thereof).
 
-Notwithstanding subsections (a) and (b), any penalties, additions to tax, or additional amount shall be determined as provided under section 6221 and the partners of the partnership for the reviewed year shall be liable for any such penalty, addition to tax, or additional amount.
+  (B) *Due date* — For purposes of subparagraph (A), with respect to a partner’s share of the adjustment, the partnership adjustment tracking report shall be filed, and the imputed underpayment shall be paid or statements shall be furnished, not later than the due date for the return for the adjustment year of the audited partnership.
 
-(2) Interest
+  (C) *Partnership payment of tax if elected out of subchapter* — In the case of a partnership which has elected the application of section 6221(b) with respect to the taxable year of the partnership which includes the end of the reviewed year of the audited partnership, this paragraph shall apply notwithstanding such election.
 
-In the case of an imputed underpayment with respect to which the application of this section is elected, interest shall be determined—
+  (D) *Audited partnership* — For purposes of this paragraph, the term “audited partnership” means, with respect to any partner described in subparagraph (A), the partnership in the chain of ownership originally electing the application of this section.
 
-(A) at the partner level,
+  (E) *Treatment of trusts* — The Secretary shall prescribe such rules as may be necessary with respect to trusts which receive a statement under subsection (a)(2).
 
-(B) from the due date of the return for the taxable year to which the increase is attributable (determined by taking into account any increases attributable to a change in tax attributes for a taxable year under subsection (b)(2)), and
+**(c) Penalties and interest**
 
-(C) at the underpayment rate under section 6621(a)(2), determined by substituting “5 percentage points” for “3 percentage points” in subparagraph (B) thereof.
+(1) **Penalties** — Notwithstanding subsections (a) and (b), any penalties, additions to tax, or additional amount shall be determined as provided under section 6221 and the partners of the partnership for the reviewed year shall be liable for any such penalty, addition to tax, or additional amount.
 
-Pub. L. 114–113, div. Q, title IV, § 411(b)(1), (e), Dec. 18, 2015, 129 Stat. 3122, provided that, effective as if included in section 1101 of Pub. L. 114–74, this section (as added by Pub. L. 114–74, see note above) is amended by adding at the end the following new subsection:
+(2) **Interest** — In the case of an imputed underpayment with respect to which the application of this section is elected, or which is described in subsection (b)(4)(A)(ii)(I), interest shall be determined—
 
-(d) Judicial review
+  (A) at the partner level,
 
-For the time period within which a partnership may file a petition for a readjustment, see section 6234(a).
+  (B) from the due date of the return for the taxable year to which the increase is attributable (determined by taking into account any increases attributable to a change in tax attributes for a taxable year under subsection (b)(2)), and
+
+  (C) at the underpayment rate under section 6621(a)(2), determined by substituting “5 percentage points” for “3 percentage points” in subparagraph (B) thereof.
+
+**(d) Judicial review** For the time period within which a partnership may file a petition for a readjustment, see section 6234(a).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 6226, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 653; amended Pub. L. 97–448, title III, § 306(c)(1)(A), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§ 1238(b)(1), 1239(b), 1240(a), Aug. 5, 1997, 111 Stat. 1026–1028, related to judicial review of final partnership administrative adjustments, prior to repeal by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
-1997—Subsec. (b)(5), (6). Pub. L. 105–34, § 1240(a), added par. (5) and redesignated former par. (5) as (6).
+2018—Subsec. (a). Pub. L. 115–141, § 206(d), inserted “(and no assessment of tax, levy, or proceeding in any court for the collection of such underpayment shall be made against such partnership)” after “section 6225 shall not apply with respect to such underpayment” in concluding provisions.
 
-Subsec. (d)(1). Pub. L. 105–34, § 1239(b), inserted concluding provisions.
+Subsec. (a)(2). Pub. L. 115–141, § 201(c)(4), substituted “any adjustment to a partnership-related item” for “any adjustment to income, gain, loss, deduction, or credit”.
 
-Subsec. (f). Pub. L. 105–34, § 1238(b)(1), substituted “relates,” for “relates and” and inserted “, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item” before period at end.
+Subsec. (b)(1). Pub. L. 115–141, § 206(e)(2), substituted “correction amounts” for “adjustment amounts”.
 
-1992—Subsecs. (a)(3), (e), (g). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
+Pub. L. 115–141, § 206(e)(1), substituted “adjusted” for “increased”.
 
-1983—Subsec. (g). Pub. L. 97–448 substituted “With respect to the partnership, only the tax matters partner” for “Only the tax matters partner”.
+Pub. L. 115–141, § 204(b)(1), substituted “Except as provided in paragraph (4), each partner’s” for “Each partner’s”.
+
+Subsec. (b)(2). Pub. L. 115–141, § 206(e)(5), substituted “Correction amounts” for “Adjustment amounts” in heading.
+
+Pub. L. 115–141, § 206(e)(3), substituted “increase or decrease” for “increase” in subpars. (A) and (B).
+
+Pub. L. 115–141, § 206(e)(2), substituted “correction amounts” for “adjustment amounts” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 115–141, § 206(e)(4), substituted “and” for “plus” at end.
+
+Subsec. (b)(4). Pub. L. 115–141, § 204(a), added par. (4).
+
+Subsec. (c)(2). Pub. L. 115–141, § 204(b)(2), inserted “or which is described in subsection (b)(4)(A)(ii)(I),” after “is elected,” in introductory provisions.
+
+2015—Subsec. (d). Pub. L. 114–113 added subsec. (d).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) of Pub. L. 114–113, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 1997 Amendment
-Amendment by section 1238(b)(1) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1238(c) of Pub. L. 105–34, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-Amendment by section 1239(b) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6225 of this title](./chapter-063-assessment.md#section-6225).
-
-Pub. L. 105–34, title XII, § 1240(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section [amending this section] shall apply to petitions filed after the date of the enactment of this Act [Aug. 5, 1997].”
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
-
-#### Effective Date of 1983 Amendment
-Amendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under [section 31 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-31).
+#### Effective Date
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6227"></a>
-## § 6227. Administrative adjustment requests
-**(a) General rule** A partner may file a request for an administrative adjustment of partnership items for any partnership taxable year at any time which is—
+## § 6227. Administrative adjustment request by partnership
+**(a) In general** A partnership may file a request for an administrative adjustment in the amount of one or more partnership-related items for any partnership taxable year.
 
-(1) within 3 years after the later of—
+**(b) Adjustment** Any such adjustment under subsection (a) shall be determined and taken into account for the partnership taxable year in which the administrative adjustment request is filed—
 
-  (A) the date on which the partnership return for such year is filed, or
-
-  (B) the last day for filing the partnership return for such year (determined without regard to extensions), and
-
-(2) before the mailing to the tax matters partner of a notice of final partnership administrative adjustment with respect to such taxable year.
-
-**(b) Special rule in case of extension of period of limitations under section 6229** The period prescribed by subsection (a)(1) for filing of a request for an administrative adjustment shall be extended—
-
-(1) for the period within which an assessment may be made pursuant to an agreement (or any extension thereof) under section 6229(b), and
-
-(2) for 6 months thereafter.
-
-**(c) Requests by tax matters partner on behalf of partnership**
-
-(1) **Substituted return** — If the tax matters partner—
-
-  (A) files a request for an administrative adjustment, and
-
-  (B) asks that the treatment shown on the request be substituted for the treatment of partnership items on the partnership return to which the request relates,
-  the Secretary may treat the changes shown on such request as corrections of mathematical or clerical errors appearing on the partnership return.
-
-(2) **Requests not treated as substituted returns**
-
-  (A) *In general* — If the tax matters partner files an administrative adjustment request on behalf of the partnership which is not treated as a substituted return under paragraph (1), the Secretary may, with respect to all or any part of the requested adjustments—
-
-    (i) without conducting any proceeding, allow or make to all partners the credits or refunds arising from the requested adjustments,
-
-    (ii) conduct a partnership proceeding under this subchapter, or
-
-    (iii) take no action on the request.
-
-  (B) *Exceptions* — Clause (i) of subparagraph (A) shall not apply with respect to a partner after the day on which the partnership items become nonpartnership items by reason of 1 or more of the events described in subsection (b) of section 6231.
-
-(3) **Request must show effect on distributive shares** — The tax matters partner shall furnish with any administrative adjustment request on behalf of the partnership revised schedules showing the effect of such request on the distributive shares of the partners and such other information as may be required under regulations.
-
-**(d) Other requests** If any partner files a request for an administrative adjustment (other than a request described in subsection (c)), the Secretary may—
-
-(1) process the request in the same manner as a claim for credit or refund with respect to items which are not partnership items,
-
-(2) assess any additional tax that would result from the requested adjustments,
-
-(3) mail to the partner, under subparagraph (A) of section 6231(b)(1) (relating to items becoming nonpartnership items), a notice that all partnership items of the partner for the partnership taxable year to which such request relates shall be treated as nonpartnership items, or
-
-(4) conduct a partnership proceeding.
-
-**(e) Requests with respect to bad debts or worthless securities** In the case of that portion of any request for an administrative adjustment which relates to the deductibility by the partnership under section 166 of a debt as a debt which became worthless, or under section 165(g) of a loss from worthlessness of a security, the period prescribed in subsection (a)(1) shall be 7 years from the last day for filing the partnership return for the year with respect to which such request is made (determined without regard to extensions).
-
-### Statutory Notes
-
-#### Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 631, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6227 is enacted to read as follows: § 6227. Administrative adjustment request by partnership
-
-(a) In general
-
-A partnership may file a request for an administrative adjustment in the amount of one or more items of income, gain, loss, deduction, or credit of the partnership for any partnership taxable year.
-
-(b) Adjustment
-
-Any such adjustment under subsection (a) shall be determined and taken into account for the partnership taxable year in which the administrative adjustment request is made—
-
-(1) by the partnership under rules similar to the rules of section 6225 (other than paragraphs (2), (6) and (7) of subsection (c) thereof) for the partnership taxable year in which the administrative adjustment request is made, or
+(1) by the partnership under rules similar to the rules of section 6225 (other than paragraphs (2), (7), and (9) of subsection (c) thereof) for the partnership taxable year in which the administrative adjustment request is filed, or
 
 (2) by the partnership and partners under rules similar to the rules of section 6226 (determined without regard to the substitution described in subsection (c)(2)(C) thereof).
-
 In the case of an adjustment that would not result in an imputed underpayment, paragraph (1) shall not apply and paragraph (2) shall apply with appropriate adjustments.
 
-(c) Period of limitations
-
-A partnership may not file such a request more than 3 years after the later of—
+**(c) Period of limitations** A partnership may not file such a request more than 3 years after the later of—
 
 (1) the date on which the partnership return for such year is filed, or
 
 (2) the last day for filing the partnership return for such year (determined without regard to extensions).
-
 In no event may a partnership file such a request after a notice of an administrative proceeding with respect to the taxable year is mailed under section 6231.
 
-#### Amendments
-2002—Subsec. (d). Pub. L. 107–147 substituted “subsection (c)” for “subsection (b)” in introductory provisions.
-
-1997—Subsecs. (b) to (d). Pub. L. 105–34, § 1236(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
-
-Subsec. (e). Pub. L. 105–34, § 1243(a), added subsec. (e).
-
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 1997 Amendment
-Pub. L. 105–34, title XII, § 1236(b), Aug. 5, 1997, 111 Stat. 1025, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 [Pub. L. 97–248].”
-
-Pub. L. 105–34, title XII, § 1243(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 [Pub. L. 97–248]. “(2) Treatment of requests filed before date of enactment.—In the case of that portion of any request (filed before the date of the enactment of this Act [Aug. 5, 1997]) for an administrative adjustment which relates to the deductibility of a debt as a debt which became worthless or the deductibility of a loss from the worthlessness of a security—“(A) paragraph (2) of section 6227(a) of the Internal Revenue Code of 1986 shall not apply, “(B) the period for filing a petition under section 6228 of the Internal Revenue Code of 1986 with respect to such request shall not expire before the date 6 months after the date of the enactment of this Act, and “(C) such a petition may be filed without regard to whether there was a notice of the beginning of an administrative proceeding or a final partnership administrative adjustment.”
-
-
-<a id="section-6228"></a>
-## § 6228. Judicial review where administrative adjustment request is not allowed in full
-**(a) Request on behalf of partnership**
-
-(1) **In general** — If any part of an administrative adjustment request filed by the tax matters partner under subsection (c) of section 6227 is not allowed by the Secretary, the tax matters partner may file a petition for an adjustment with respect to the partnership items to which such part of the request relates with—
-
-  (A) the Tax Court,
-
-  (B) the district court of the United States for the district in which the principal place of business of the partnership is located, or
-
-  (C) the Court of Federal Claims.
-
-(2) **Period for filing petition**
-
-  (A) *In general* — A petition may be filed under paragraph (1) with respect to partnership items for a partnership taxable year only—
-
-    (i) after the expiration of 6 months from the date of filing of the request under section 6227, and
-
-    (ii) before the date which is 2 years after the date of such request.
-
-  (B) *No petition after notice of beginning of administrative proceeding* — No petition may be filed under paragraph (1) after the day the Secretary mails to the partnership a notice of the beginning of an administrative proceeding with respect to the partnership taxable year to which such request relates.
-
-  (C) *Failure by Secretary to issue timely notice of adjustment* — If the Secretary—
-
-    (i) mails the notice referred to in subparagraph (B) before the expiration of the 2-year period referred to in clause (ii) of subparagraph (A), and
-
-    (ii) fails to mail a notice of final partnership administrative adjustment with respect to the partnership taxable year to which the request relates before the expiration of the period described in section 6229(a) (including any extension by agreement),
-    subparagraph (B) shall cease to apply with respect to such request, and the 2-year period referred to in clause (ii) of subparagraph (A) shall not expire before the date 6 months after the expiration of the period described in section 6229(a) (including any extension by agreement).
-
-  (D) *Extension of time* — The 2-year period described in subparagraph (A)(ii) shall be extended for such period as may be agreed upon in writing between the tax matters partner and the Secretary.
-
-(3) **Coordination with administrative adjustment**
-
-  (A) *Administrative adjustment before filing of petition* — No petition may be filed under this subsection after the Secretary mails to the tax matters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the request under section 6227 relates.
-
-  (B) *Administrative adjustment after filing but before hearing of petition* — If the Secretary mails to the tax matters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the request under section 6227 relates after the filing of a petition under this subsection but before the hearing of such petition, such petition shall be treated as an action brought under section 6226 with respect to that administrative adjustment, except that subsection (e) of section 6226 shall not apply.
-
-  (C) *Notice must be before expiration of statute of limitations* — A notice of final partnership administrative adjustment for the partnership taxable year shall be taken into account under subparagraphs (A) and (B) only if such notice is mailed before the expiration of the period prescribed by section 6229 for making assessments of tax attributable to partnership items for such taxable year.
-
-(4) **Partners treated as party to action**
-
-  (A) *In general* — If an action is brought by the tax matters partner under paragraph (1) with respect to any request for an adjustment of a partnership item for any taxable year—
-
-    (i) each person who was a partner in such partnership at any time during the partnership taxable year involved shall be treated as a party to such action, and
-
-    (ii) the court having jurisdiction of such action shall allow each such person to participate in the action.
-
-  (B) *Partners must have interest in outcome* — For purposes of subparagraph (A), rules similar to the rules of paragraph (1) of section 6226(d) shall apply.
-
-(5) **Scope of judicial review** — Except in the case described in subparagraph (B) of paragraph (3), a court with which a petition is filed in accordance with this subsection shall have jurisdiction to determine only those partnership items to which the part of the request under section 6227 not allowed by the Secretary relates and those items with respect to which the Secretary asserts adjustments as offsets to the adjustments requested by the tax matters partner.
-
-(6) **Determination of court reviewable** — Any determination by a court under this subsection shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. With respect to the partnership, only the tax matters partner, a notice partner, or a 5-percent group may seek review of a determination by a court under this subsection.
-
-**(b) Other requests**
-
-(1) **Notice providing that items become nonpartnership items** — If the Secretary mails to a partner, under subparagraph (A) of section 6231(b)(1) (relating to items ceasing to be partnership items), a notice that all partnership items of the partner for the partnership taxable year to which a timely request for administrative adjustment under subsection (d) of section 6227 relates shall be treated as nonpartnership items—
-
-  (A) such request shall be treated as a claim for credit or refund of an overpayment attributable to nonpartnership items, and
-
-  (B) the partner may bring an action under section 7422 with respect to such claim at any time within 2 years of the mailing of such notice.
-
-(2) **Other cases**
-
-  (A) *In general* — If the Secretary fails to allow any part of an administrative adjustment request filed under subsection (d) of section 6227 by a partner and paragraph (1) does not apply—
-
-    (i) such partner may, pursuant to section 7422, begin a civil action for refund of any amount due by reason of the adjustments described in such part of the request, and
-
-    (ii) on the beginning of such civil action, the partnership items of such partner for the partnership taxable year to which such part of such request relates shall be treated as nonpartnership items for purposes of this subchapter.
-
-  (B) *Period for filing petition*
-
-    (i) *In general* — An action may be begun under subparagraph (A) with respect to an administrative adjustment request for a partnership taxable year only—
-
-      (I) after the expiration of 6 months from the date of filing of the request under section 6227, and
-
-      (II) before the date which is 2 years after the date of filing of such request.
-
-    (ii) *Extension of time* — The 2-year period described in subclause (II) of clause (i) shall be extended for such period as may be agreed upon in writing between the partner and the Secretary.
-
-  (C) *Action barred after partnership proceeding has begun* — No petition may be filed under subparagraph (A) with respect to an administrative adjustment request for a partnership taxable year after the Secretary mails to the partnership a notice of the beginning of a partnership proceeding with respect to such year.
-
-  (D) *Failure by Secretary to issue timely notice of adjustment* — If the Secretary—
-
-    (i) mails the notice referred to in subparagraph (C) before the expiration of the 2-year period referred to in clause (i)(II) of subparagraph (B), and
-
-    (ii) fails to mail a notice of final partnership administrative adjustment with respect to the partnership taxable year to which the request relates before the expiration of the period described in section 6229(a) (including any extension by agreement),
-    subparagraph (C) shall cease to apply with respect to such request, and the 2-year period referred to in clause (i)(II) of subparagraph (B) shall not expire before the date 6 months after the expiration of the period described in section 6229(a) (including any extension by agreement).
+**(d) Coordination with adjustments related to foreign tax credits** The Secretary shall issue regulations or other guidance which provide for the proper coordination of this section and section 905(c).
 
 ### Statutory Notes
 
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+#### Prior Provisions
+Prior sections 6227 to 6230 were repealed by Pub. L. 114–74, title XI, § 1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
+
+Section 6227, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 655; amended Pub. L. 105–34, title XII, §§ 1236(a), 1243(a), Aug. 5, 1997, 111 Stat. 1025, 1029; Pub. L. 107–147, title IV, § 417(19)(A), Mar. 9, 2002, 116 Stat. 56, related to administrative adjustment requests.
+
+Section 6228, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 656; amended Pub. L. 97–448, title III, § 306(c)(1)(B), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–147, title IV, § 417(19)(B), Mar. 9, 2002, 116 Stat. 56, related to judicial review where administrative adjustment request is not allowed in full.
+
+Section 6229, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 659; amended Pub. L. 99–514, title XVIII, § 1875(d)(1), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, § 1018(o)(3), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 105–34, title XII, §§ 1233(a)–(c), 1235(a), Aug. 5, 1997, 111 Stat. 1023, 1024; Pub. L. 107–147, title IV, § 416(d)(1)(B), Mar. 9, 2002, 116 Stat. 55; Pub. L. 111–147, title V, § 513(a)(2)(B), Mar. 18, 2010, 124 Stat. 112, related to period of limitations for making assessments.
+
+Section 6230, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 660; amended Pub. L. 98–369, div. A, title VII, § 714(p)(2)(A), July 18, 1984, 98 Stat. 964; Pub. L. 99–514, title XVIII, § 1875(d)(2)(A), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, § 1018(o)(1), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§ 1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, 111 Stat. 1025–1028; Pub. L. 105–206, title III, § 3201(e)(2), July 22, 1998, 112 Stat. 740; Pub. L. 110–172, § 11(a)(36), Dec. 29, 2007, 121 Stat. 2487, related to additional administrative provisions.
 
 #### Amendments
-2002—Subsec. (a)(1). Pub. L. 107–147, § 417(19)(B)(i), substituted “subsection (c) of section 6227” for “subsection (b) of section 6227”.
+2018—Subsec. (a). Pub. L. 115–141, § 201(c)(5), substituted “partnership-related items” for “items of income, gain, loss, deduction, or credit of the partnership”.
 
-Subsec. (a)(3)(A). Pub. L. 107–147, § 417(19)(B)(ii), struck out “subsection (b) of” before “section 6227”.
+Subsec. (b). Pub. L. 115–141, § 206(p)(2), substituted “is filed” for “is made” in introductory provisions and in par. (1).
 
-Subsec. (b)(1), (2)(A). Pub. L. 107–147, § 417(19)(B)(iii), substituted “subsection (d) of section 6227” for “subsection (c) of section 6227”.
+Subsec. (b)(1). Pub. L. 115–141, § 206(p)(3), which directed substitution of “paragraphs (2), (7), and (9)” for “paragraphs (2), (6), and (7)”, was executed by making the substitution for “paragraphs (2), (6) and (7)” to reflect the probable intent of Congress.
 
-1992—Subsec. (a)(1)(C), (6). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court”.
+Subsec. (d). Pub. L. 115–141, § 206(f), added subsec. (d).
 
-1983—Subsec. (a)(6). Pub. L. 97–448 substituted “With respect to the partnership, only the tax matters partner” for “Only the tax matters partner”.
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
-
-#### Effective Date of 1983 Amendment
-Amendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under [section 31 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-31).
-
-
-<a id="section-6229"></a>
-## § 6229. Period of limitations for making assessments
-**(a) General rule** Except as otherwise provided in this section, the period for assessing any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (or affected item) for a partnership taxable year shall not expire before the date which is 3 years after the later of—
-
-(1) the date on which the partnership return for such taxable year was filed, or
-
-(2) the last day for filing such return for such year (determined without regard to extensions).
-
-**(b) Extension by agreement**
-
-(1) **In general** — The period described in subsection (a) (including an extension period under this subsection) may be extended—
-
-  (A) with respect to any partner, by an agreement entered into by the Secretary and such partner, and
-
-  (B) with respect to all partners, by an agreement entered into by the Secretary and the tax matters partner (or any other person authorized by the partnership in writing to enter into such an agreement),
-  before the expiration of such period.
-
-(2) **Special rule with respect to debtors in title 11 cases** — Notwithstanding any other law or rule of law, if an agreement is entered into under paragraph (1)(B) and the agreement is signed by a person who would be the tax matters partner but for the fact that, at the time that the agreement is executed, the person is a debtor in a bankruptcy proceeding under title 11 of the United States Code, such agreement shall be binding on all partners in the partnership unless the Secretary has been notified of the bankruptcy proceeding in accordance with regulations prescribed by the Secretary.
-
-(3) **Coordination with section 6501(c)(4)** — Any agreement under section 6501(c)(4) shall apply with respect to the period described in subsection (a) only if the agreement expressly provides that such agreement applies to tax attributable to partnership items.
-
-**(c) Special rule in case of fraud, etc.**
-
-(1) **False return** — If any partner has, with the intent to evade tax, signed or participated directly or indirectly in the preparation of a partnership return which includes a false or fraudulent item—
-
-  (A) in the case of partners so signing or participating in the preparation of the return, any tax imposed by subtitle A which is attributable to any partnership item (or affected item) for the partnership taxable year to which the return relates may be assessed at any time, and
-
-  (B) in the case of all other partners, subsection (a) shall be applied with respect to such return by substituting “6 years” for “3 years”.
-
-(2) **Substantial omission of income** — If any partnership omits from gross income an amount properly includible therein and such amount is described in clause (i) or (ii) of section 6501(e)(1)(A), subsection (a) shall be applied by substituting “6 years” for “3 years”.
-
-(3) **No return** — In the case of a failure by a partnership to file a return for any taxable year, any tax attributable to a partnership item (or affected item) arising in such year may be assessed at any time.
-
-(4) **Return filed by Secretary** — For purposes of this section, a return executed by the Secretary under subsection (b) of section 6020 on behalf of the partnership shall not be treated as a return of the partnership.
-
-**(d) Suspension when Secretary makes administrative adjustment** If notice of a final partnership administrative adjustment with respect to any taxable year is mailed to the tax matters partner, the running of the period specified in subsection (a) (as modified by other provisions of this section) shall be suspended—
-
-(1) for the period during which an action may be brought under section 6226 (and, if a petition is filed under section 6226 with respect to such administrative adjustment, until the decision of the court becomes final), and
-
-(2) for 1 year thereafter.
-
-**(e) Unidentified partner** If—
-
-(1) the name, address, and taxpayer identification number of a partner are not furnished on the partnership return for a partnership taxable year, and
-
-(2)
-
-  (A) the Secretary, before the expiration of the period otherwise provided under this section with respect to such partner, mails to the tax matters partner the notice specified in paragraph (2) of section 6223(a) with respect to such taxable year, or
-
-  (B) the partner has failed to comply with subsection (b) of section 6222 (relating to notification of inconsistent treatment) with respect to any partnership item for such taxable year,
-the period for assessing any tax imposed by subtitle A which is attributable to any partnership item (or affected item) for such taxable year shall not expire with respect to such partner before the date which is 1 year after the date on which the name, address, and taxpayer identification number of such partner are furnished to the Secretary.
-
-**(f) Special rules**
-
-(1) **Items becoming nonpartnership items** — If before the expiration of the period otherwise provided in this section for assessing any tax imposed by subtitle A with respect to the partnership items of a partner for the partnership taxable year, such items become nonpartnership items by reason of 1 or more of the events described in subsection (b) of section 6231, the period for assessing any tax imposed by subtitle A which is attributable to such items (or any item affected by such items) shall not expire before the date which is 1 year after the date on which the items become nonpartnership items. The period described in the preceding sentence (including any extension period under this sentence) may be extended with respect to any partner by agreement entered into by the Secretary and such partner.
-
-(2) **Special rule for partial settlement agreements** — If a partner enters into a settlement agreement with the Secretary or the Attorney General (or his delegate) with respect to the treatment of some of the partnership items in dispute for a partnership taxable year but other partnership items for such year remain in dispute, the period of limitations for assessing any tax attributable to the settled items shall be determined as if such agreement had not been entered into.
-
-**(g) Period of limitations for penalties** The provisions of this section shall apply also in the case of any addition to tax or an additional amount imposed under subchapter A of chapter 68 which arises with respect to any tax imposed under subtitle A in the same manner as if such addition or additional amount were a tax imposed by subtitle A.
-
-**(h) Suspension during pendency of bankruptcy proceeding** If a petition is filed naming a partner as a debtor in a bankruptcy proceeding under title 11 of the United States Code, the running of the period of limitations provided in this section with respect to such partner shall be suspended—
-
-(1) for the period during which the Secretary is prohibited by reason of such bankruptcy proceeding from making an assessment, and
-
-(2) for 60 days thereafter.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Amendments
-2010—Subsec. (c)(2). Pub. L. 111–147 substituted “and such amount is described in clause (i) or (ii) of section 6501(e)(1)(A)” for “which is in excess of 25 percent of the amount of gross income stated in its return”.
-
-2002—Subsec. (f)(2). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary”.
-
-1997—Subsec. (b)(2), (3). Pub. L. 105–34, § 1233(c), added par. (2) and redesignated former par. (2) as (3).
-
-Subsec. (d)(1). Pub. L. 105–34, § 1233(a), substituted “(and, if a petition is filed under section 6226 with respect to such administrative adjustment, until the decision of the court becomes final), and” for “(and, if an action with respect to such administrative adjustment is brought during such period, until the decision of the court in such action becomes final), and”.
-
-Subsec. (f). Pub. L. 105–34, § 1235(a), substituted “Special rules” for “Items becoming nonpartnership items” in heading, designated existing provisions as par. (1), added heading, and realigned margins, and added par. (2).
-
-Subsec. (h). Pub. L. 105–34, § 1233(b), added subsec. (h).
-
-1988—Subsec. (f). Pub. L. 100–647 inserted sentence at end relating to extension of period with respect to any partner by agreement entered into by Secretary and such partner.
-
-1986—Subsec. (g). Pub. L. 99–514 added subsec. (g).
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 2010 Amendment
-Pub. L. 111–147, title V, § 513(d), Mar. 18, 2010, 124 Stat. 112, provided that: “The amendments made by this section [amending this section and [section 6501 of this title](./chapter-066-limitations.md#section-6501)] shall apply to— “(1) returns filed after the date of the enactment of this Act [Mar. 18, 2010]; and “(2) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 (determined without regard to such amendments) for assessment of such taxes has not expired as of such date.”
-
-#### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–147 applicable with respect to settlement agreements entered into after Mar. 9, 2002, see section 416(d)(2) of Pub. L. 107–147, set out as a note under [section 6224 of this title](./chapter-063-assessment.md#section-6224).
-
-#### Effective Date of 1997 Amendment
-Pub. L. 105–34, title XII, § 1233(d), Aug. 5, 1997, 111 Stat. 1024, provided that: “(1) Subsections (a) and (b).—The amendments made by subsections (a) and (b) [amending this section] shall apply to partnership taxable years with respect to which the period under section 6229 of the Internal Revenue Code of 1986 [[26 U.S.C. 6229](./chapter-063-assessment.md#section-6229)] for assessing tax has not expired on or before the date of the enactment of this Act [Aug. 5, 1997]. “(2) Subsection (c).—The amendment made by subsection (c) [amending this section] shall apply to agreements entered into after the date of the enactment of this Act.”
-
-Pub. L. 105–34, title XII, § 1235(b), Aug. 5, 1997, 111 Stat. 1025, provided that: “The amendment made by this section [amending this section] shall apply to settlements entered into after the date of the enactment of this Act [Aug. 5, 1997].”
-
-#### Effective Date of 1988 Amendment
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
-#### Effective Date of 1986 Amendment
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48).
-
-#### Plan Amendments Not Required Until January 1, 1989
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
-
-
-<a id="section-6230"></a>
-## § 6230. Additional administrative provisions
-**(a) Coordination with deficiency proceedings**
-
-(1) **In general** — Except as provided in paragraph (2) or (3), subchapter B of this chapter shall not apply to the assessment or collection of any computational adjustment.
-
-(2) **Deficiency proceedings to apply in certain cases**
-
-  (A) Subchapter B shall apply to any deficiency attributable to—
-
-    (i) affected items which require partner level determinations (other than penalties, additions to tax, and additional amounts that relate to adjustments to partnership items), or
-
-    (ii) items which have become nonpartnership items (other than by reason of section 6231(b)(1)(C)) and are described in section 6231(e)(1)(B).
-
-  (B) Subchapter B shall be applied separately with respect to each deficiency described in subparagraph (A) attributable to each partnership.
-
-  (C) Notwithstanding any other law or rule of law, any notice or proceeding under subchapter B with respect to a deficiency described in this paragraph shall not preclude or be precluded by any other notice, proceeding, or determination with respect to a partner’s tax liability for a taxable year.
-
-(3) **Special rule in case of assertion by partner’s spouse of innocent spouse relief**
-
-  (A) Notwithstanding section 6404(b), if the spouse of a partner asserts that section 6015 applies with respect to a liability that is attributable to any adjustment to a partnership item (including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment), then such spouse may file with the Secretary within 60 days after the notice of computational adjustment is mailed to the spouse a request for abatement of the assessment specified in such notice. Upon receipt of such request, the Secretary shall abate the assessment. Any reassessment of the tax with respect to which an abatement is made under this subparagraph shall be subject to the deficiency procedures prescribed by subchapter B. The period for making any such reassessment shall not expire before the expiration of 60 days after the date of such abatement.
-
-  (B) If the spouse files a petition with the Tax Court pursuant to section 6213 with respect to the request for abatement described in subparagraph (A), the Tax Court shall only have jurisdiction pursuant to this section to determine whether the requirements of section 6015 have been satisfied. For purposes of such determination, the treatment of partnership items (and the applicability of any penalties, additions to tax, or additional amounts) under the settlement, the final partnership administrative adjustment, or the decision of the court (whichever is appropriate) that gave rise to the liability in question shall be conclusive.
-
-  (C) Rules similar to the rules contained in subparagraphs (B) and (C) of paragraph (2) shall apply for purposes of this paragraph.
-
-**(b) Mathematical and clerical errors appearing on partnership return**
-
-(1) **In general** — Section 6225 shall not apply to any adjustment necessary to correct a mathematical or clerical error (as defined in section 6213(g)(2)) appearing on the partnership return.
-
-(2) **Exception** — Paragraph (1) shall not apply to a partner if, within 60 days after the day on which notice of the correction of the error is mailed to the partner, such partner files with the Secretary a request that the correction not be made.
-
-**(c) Claims arising out of erroneous computations, etc.**
-
-(1) **In general** — A partner may file a claim for refund on the grounds that—
-
-  (A) the Secretary erroneously computed any computational adjustment necessary—
-
-    (i) to make the partnership items on the partner’s return consistent with the treatment of the partnership items on the partnership return, or
-
-    (ii) to apply to the partner a settlement, a final partnership administrative adjustment, or the decision of a court in an action brought under section 6226 or section 6228(a),
-
-  (B) the Secretary failed to allow a credit or to make a refund to the partner in the amount of the overpayment attributable to the application to the partner of a settlement, a final partnership administrative adjustment, or the decision of a court in an action brought under section 6226 or section 6228(a), or
-
-  (C) the Secretary erroneously imposed any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item.
-
-(2) **Time for filing claim**
-
-  (A) *Under paragraph (1)(A) or (C)* — Any claim under subparagraph (A) or (C) of paragraph (1) shall be filed within 6 months after the day on which the Secretary mails the notice of computational adjustment to the partner.
-
-  (B) *Under paragraph (1)(B)* — Any claim under paragraph (1)(B) shall be filed within 2 years after whichever of the following days is appropriate:
-
-    (i) the day on which the settlement is entered into,
-
-    (ii) the day on which the period during which an action may be brought under section 6226 with respect to the final partnership administrative adjustment expires, or
-
-    (iii) the day on which the decision of the court becomes final.
-
-(3) **Suit if claim not allowed** — If any portion of a claim under paragraph (1) is not allowed, the partner may bring suit with respect to such portion within the period specified in subsection (a) of section 6532 (relating to periods of limitations on refund suits).
-
-(4) **No review of substantive issues** — For purposes of any claim or suit under this subsection, the treatment of partnership items on the partnership return, under the settlement, under the final partnership administrative adjustment, or under the decision of the court (whichever is appropriate) shall be conclusive. In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment.
-
-(5) **Rules for seeking innocent spouse relief**
-
-  (A) *In general* — The spouse of a partner may file a claim for refund on the ground that the Secretary failed to relieve the spouse under section 6015 from a liability that is attributable to an adjustment to a partnership item (including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment).
-
-  (B) *Time for filing claim* — Any claim under subparagraph (A) shall be filed within 6 months after the day on which the Secretary mails to the spouse the notice of computational adjustment referred to in subsection (a)(3)(A).
-
-  (C) *Suit if claim not allowed* — If the claim under subparagraph (B) is not allowed, the spouse may bring suit with respect to the claim within the period specified in paragraph (3).
-
-  (D) *Prior determinations are binding* — For purposes of any claim or suit under this paragraph, the treatment of partnership items (and the applicability of any penalties, additions to tax, or additional amounts) under the settlement, the final partnership administrative adjustment, or the decision of the court (whichever is appropriate) that gave rise to the liability in question shall be conclusive.
-
-**(d) Special rules with respect to credits or refunds attributable to partnership items**
-
-(1) **In general** — Except as otherwise provided in this subsection, no credit or refund of an overpayment attributable to a partnership item (or an affected item) for a partnership taxable year shall be allowed or made to any partner after the expiration of the period of limitation prescribed in section 6229 with respect to such partner for assessment of any tax attributable to such item.
-
-(2) **Administrative adjustment request** — If a request for an administrative adjustment under section 6227 with respect to a partnership item is timely filed, credit or refund of any overpayment attributable to such partnership item (or an affected item) may be allowed or made at any time before the expiration of the period prescribed in section 6228 for bringing suit with respect to such request.
-
-(3) **Claim under subsection (c)** — If a timely claim is filed under subsection (c) for a credit or refund of an overpayment attributable to a partnership item (or affected item), credit or refund of such overpayment may be allowed or made at any time before the expiration of the period specified in section 6532 (relating to periods of limitations on suits) for bringing suit with respect to such claim.
-
-(4) **Timely suit** — Paragraph (1) shall not apply to any credit or refund of any overpayment attributable to a partnership item (or an item affected by such partnership item) if a partner brings a timely suit with respect to a timely administrative adjustment request under section 6228 or a timely claim under subsection (c) relating to such overpayment.
-
-(5) **Overpayments refunded without requirement that partner file claim** — In the case of any overpayment by a partner which is attributable to a partnership item (or an affected item) and which may be refunded under this subchapter, to the extent practicable credit or refund of such overpayment shall be allowed or made without any requirement that the partner file a claim therefor.
-
-(6) **Subchapter B of chapter 66 not applicable** — Subchapter B of chapter 66 (relating to limitations on credit or refund) shall not apply to any credit or refund of an overpayment attributable to a partnership item.
-
-**(e) Tax matters partner required to furnish names of partners to Secretary** If the Secretary mails to any partnership the notice specified in paragraph (1) of section 6223(a) with respect to any partnership taxable year, the tax matters partner shall furnish to the Secretary the name, address, profits interest, and taxpayer identification number of each person who was a partner in such partnership at any time during such taxable year. If the tax matters partner later discovers that the information furnished to the Secretary was incorrect or incomplete, the tax matters partner shall furnish such revised or additional information as may be necessary.
-
-**(f) Failure of tax matters partner, etc., to fulfill responsibility does not affect applicability of proceeding** The failure of the tax matters partner, a pass-thru partner, the representative of a notice group, or any other representative of a partner to provide any notice or perform any act required under this subchapter or under regulations prescribed under this subchapter on behalf of such partner does not affect the applicability of any proceeding or adjustment under this subchapter to such partner.
-
-**(g) Date decision of court becomes final** For purposes of section 6229(d)(1) and section 6230(c)(2)(B), the principles of section 7481(a) shall be applied in determining the date on which a decision of a district court or the Court of Federal Claims becomes final.
-
-**(h) Examination authority not limited** Nothing in this subchapter shall be construed as limiting the authority granted to the Secretary under section 7602.
-
-**(i) Time and manner of filing statements, making elections, etc.** Except as otherwise provided in this subchapter, each—
-
-(1) statement,
-
-(2) election,
-
-(3) request, and
-
-(4) furnishing of information,
-shall be filed or made at such time, in such manner, and at such place as may be prescribed in regulations.
-
-**(j) Partnerships having principal place of business outside the United States** For purposes of sections 6226 and 6228, a principal place of business located outside the United States shall be treated as located in the District of Columbia.
-
-**(k) Regulations** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subchapter. Any reference in this subchapter to regulations is a reference to regulations prescribed by the Secretary.
-
-**(l) Court rules** Any action brought under any provision of this subchapter shall be conducted in accordance with such rules of practice and procedure as may be prescribed by the Court in which the action is brought.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Amendments
-2007—Subsec. (a)(3)(A), (B). Pub. L. 110–172 substituted “section 6015” for “section 6013(e)”.
-
-1998—Subsec. (c)(5)(A). Pub. L. 105–206 substituted “section 6015” for “section 6013(e)”.
-
-1997—Subsec. (a)(1). Pub. L. 105–34, § 1237(c)(1), substituted “paragraph (2) or (3)” for “paragraph (2)”.
-
-Subsec. (a)(2)(A)(i). Pub. L. 105–34, § 1238(b)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “affected items which require partner level determinations, or”.
-
-Subsec. (a)(3). Pub. L. 105–34, § 1237(a), added par. (3).
-
-Subsec. (a)(3)(A). Pub. L. 105–34, § 1238(b)(3)(A), inserted “(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)” after “partnership item”.
-
-Subsec. (a)(3)(B). Pub. L. 105–34, § 1238(b)(3)(B), inserted “(and the applicability of any penalties, additions to tax, or additional amounts)” after “partnership items”.
-
-Subsec. (c)(1)(C). Pub. L. 105–34, § 1238(b)(4), added subpar. (C).
-
-Subsec. (c)(2)(A). Pub. L. 105–34, § 1238(b)(5), inserted “or (C)” after “(1)(A)” in subpar. heading and substituted “subparagraph (A) or (C) of paragraph (1)” for “paragraph (1)(A)” in text.
-
-Subsec. (c)(4). Pub. L. 105–34, § 1238(b)(6), inserted at end “In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment.”
-
-Subsec. (c)(5). Pub. L. 105–34, § 1237(b), added par. (5).
-
-Subsec. (c)(5)(A). Pub. L. 105–34, § 1238(b)(3)(C), inserted before period at end “(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)”.
-
-Subsec. (c)(5)(D). Pub. L. 105–34, § 1238(b)(3)(D), inserted “(and the applicability of any penalties, additions to tax, or additional amounts)” after “partnership items”.
-
-Subsec. (d)(6). Pub. L. 105–34, § 1239(c)(1), struck out “(or an affected item)” after “partnership item”.
-
-1992—Subsec. (g). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court”.
-
-1988—Subsec. (a)(2)(A)(ii). Pub. L. 100–647 inserted “(other than by reason of section 6231(b)(1)(C))” after “nonpartnership items”.
-
-1986—Subsec. (a). Pub. L. 99–514 substituted “Coordination with deficiency proceedings” for “Normal deficiency proceedings do not apply to computational adjustments” as subsec. heading, and amended text generally. Prior to amendment text read as follows: “Subchapter B of this chapter shall not apply to the assessment or collection of any computational adjustment.”
-
-1984—Subsec. (c)(1)(B). Pub. L. 98–369 struck out “(or erroneously computed the amount of any such credit or refund)” after “section 6228(a)”.
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–206 applicable to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date, see section 3201(g)(1) of Pub. L. 105–206, set out as a note under [section 6015 of this title](./chapter-061-information-and-returns.md#section-6015).
-
-#### Effective Date of 1997 Amendment
-Pub. L. 105–34, title XII, § 1237(d), Aug. 5, 1997, 111 Stat. 1026, provided that: “The amendments made by this section [amending this section and [section 6503 of this title](./chapter-066-limitations.md#section-6503)] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 [Pub. L. 97–248].”
-
-Amendment by section 1238(b)(2)–(6) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1238(c) of Pub. L. 105–34, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-Amendment by section 1239(c)(1) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6225 of this title](./chapter-063-assessment.md#section-6225).
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
-
-#### Effective Date of 1988 Amendment
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
-#### Effective Date of 1986 Amendment
-Pub. L. 99–514, title XVIII, § 1875(d)(2)(C), Oct. 22, 1986, 100 Stat. 2896, provided that: “The amendments made by this paragraph [amending this section and sections 6213 and 6503 of this title] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 [Pub. L. 97–248].”
-
-#### Effective Date of 1984 Amendment
-Amendment by Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under [section 31 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-31).
-
-#### Plan Amendments Not Required Until January 1, 1989
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+#### Effective Date
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6231"></a>
-## § 6231. Definitions and special rules
-**(a) Definitions** For purposes of this subchapter—
+## § 6231. Notice of proceedings and adjustment
+**(a) In general** The Secretary shall mail to the partnership and the partnership representative—
 
-(1) **Partnership**
-
-  (A) *In general* — Except as provided in subparagraph (B), the term “partnership” means any partnership required to file a return under section 6031(a).
-
-  (B) *Exception for small partnerships*
-
-    (i) *In general* — The term “partnership” shall not include any partnership having 10 or fewer partners each of whom is an individual (other than a nonresident alien), a C corporation, or an estate of a deceased partner. For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.
-
-    (ii) *Election to have subchapter apply* — A partnership (within the meaning of subparagraph (A)) may for any taxable year elect to have clause (i) not apply. Such election shall apply for such taxable year and all subsequent taxable years unless revoked with the consent of the Secretary.
-
-(2) **Partner** — The term “partner” means—
-
-  (A) a partner in the partnership, and
-
-  (B) any other person whose income tax liability under subtitle A is determined in whole or in part by taking into account directly or indirectly partnership items of the partnership.
-
-(3) **Partnership item** — The term “partnership item” means, with respect to a partnership, any item required to be taken into account for the partnership’s taxable year under any provision of subtitle A to the extent regulations prescribed by the Secretary provide that, for purposes of this subtitle, such item is more appropriately determined at the partnership level than at the partner level.
-
-(4) **Nonpartnership item** — The term “nonpartnership item” means an item which is (or is treated as) not a partnership item.
-
-(5) **Affected item** — The term “affected item” means any item to the extent such item is affected by a partnership item.
-
-(6) **Computational adjustment** — The term “computational adjustment” means the change in the tax liability of a partner which properly reflects the treatment under this subchapter of a partnership item. All adjustments required to apply the results of a proceeding with respect to a partnership under this subchapter to an indirect partner shall be treated as computational adjustments.
-
-(7) **Tax matters partner** — The tax matters partner of any partnership is—
-
-  (A) the general partner designated as the tax matters partner as provided in regulations, or
-
-  (B) if there is no general partner who has been so designated, the general partner having the largest profits interest in the partnership at the close of the taxable year involved (or, where there is more than 1 such partner, the 1 of such partners whose name would appear first in an alphabetical listing).
-  If there is no general partner designated under subparagraph (A) and the Secretary determines that it is impracticable to apply subparagraph (B), the partner selected by the Secretary shall be treated as the tax matters partner. The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notify all partners required to receive notice under section 6223(a) of the name and address of the person selected.
-
-(8) **Notice partner** — The term “notice partner” means a partner who, at the time in question, would be entitled to notice under subsection (a) of section 6223 (determined without regard to subsections (b)(2) and (e)(1)(B) thereof).
-
-(9) **Pass-thru partner** — The term “pass-thru partner” means a partnership, estate, trust, S corporation, nominee, or other similar person through whom other persons hold an interest in the partnership with respect to which proceedings under this subchapter are conducted.
-
-(10) **Indirect partner** — The term “indirect partner” means a person holding an interest in a partnership through 1 or more pass-thru partners.
-
-(11) **5-percent group** — A 5-percent group is a group of partners who for the partnership taxable year involved had profits interests which aggregated 5 percent or more.
-
-(12) **Husband and wife** — Except to the extent otherwise provided in regulations, a husband and wife who have a joint interest in a partnership shall be treated as 1 person.
-
-**(b) Items cease to be partnership items in certain cases**
-
-(1) **In general** — For purposes of this subchapter, the partnership items of a partner for a partnership taxable year shall become nonpartnership items as of the date—
-
-  (A) the Secretary mails to such partner a notice that such items shall be treated as nonpartnership items,
-
-  (B) the partner files suit under section 6228(b) after the Secretary fails to allow an administrative adjustment request with respect to any of such items,
-
-  (C) the Secretary or the Attorney General (or his delegate) enters into a settlement agreement with the partner with respect to such items, or
-
-  (D) such change occurs under subsection (e) of section 6223 (relating to effect of Secretary’s failure to provide notice) or under subsection (c) of this section.
-
-(2) **Circumstances in which notice is permitted** — The Secretary may mail the notice referred to in subparagraph (A) of paragraph (1) to a partner with respect to partnership items for a partnership taxable year only if—
-
-  (A) such partner—
-
-    (i) has complied with subparagraph (B) of section 6222(b)(1) (relating to notification of inconsistent treatment) with respect to one or more of such items, and
-
-    (ii) has not, as of the date on which the Secretary mails the notice, filed a request for administrative adjustments which would make the partner’s treatment of the item or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
-
-  (B)
-
-    (i) such partner has filed a request under section 6227(d) for administrative adjustment of one or more of such items, and
-
-    (ii) the adjustments requested would not make such partner’s treatment of such items consistent with the treatment of such items on the partnership return.
-
-(3) **Notice must be mailed before beginning of partnership proceeding** — Any notice to a partner under subparagraph (A) of paragraph (1) with respect to partnership items for a partnership taxable year shall be mailed before the day on which the Secretary mails to the tax matters partner a notice of the beginning of an administrative proceeding at the partnership level with respect to such items.
-
-**(c) Regulations with respect to certain special enforcement areas**
-
-(1) **Applicability of subsection** — This subsection applies in the case of—
-
-  (A) assessments under section 6851 (relating to termination assessments of income tax) or section 6861 (relating to jeopardy assessments of income, estate, gift, and certain excise taxes),
-
-  (B) criminal investigations,
-
-  (C) indirect methods of proof of income,
-
-  (D) foreign partnerships, and
-
-  (E) other areas that the Secretary determines by regulation to present special enforcement considerations.
-
-(2) **Items may be treated as nonpartnership items** — To the extent that the Secretary determines and provides by regulations that to treat items as partnership items will interfere with the effective and efficient enforcement of this title in any case described in paragraph (1), such items shall be treated as nonpartnership items for purposes of this subchapter.
-
-(3) **Special rules** — The Secretary may prescribe by regulation such special rules as the Secretary determines to be necessary to achieve the purposes of this subchapter in any case described in paragraph (1).
-
-**(d) Time for determining partner’s profits interest in partnership**
-
-(1) **In general** — For purposes of section 6223(b) (relating to special rules for partnerships with more than 100 partners) and paragraph (11) of subsection (a) (relating to 5-percent group), the interest of a partner in the profits of a partnership for a partnership taxable year shall be determined—
-
-  (A) in the case of a partner whose entire interest in the partnership is disposed of during such partnership taxable year, as of the moment immediately before such disposition, or
-
-  (B) in the case of any other partner, as of the close of the partnership taxable year.
-
-(2) **Indirect partners** — The Secretary shall prescribe regulations consistent with the principles of paragraph (1) to be applied in the case of indirect partners.
-
-**(e) Effect of judicial decisions in certain proceedings**
-
-(1) **Determinations at partner level** — No judicial determination with respect to the income tax liability of any partner not conducted under this subchapter shall be a bar to any adjustment in such partner’s income tax liability resulting from—
-
-  (A) a proceeding with respect to partnership items under this subchapter, or
-
-  (B) a proceeding with respect to items which become nonpartnership items—
-
-    (i) by reason of 1 or more of the events described in subsection (b), and
-
-    (ii) after the appropriate time for including such items in any other proceeding with respect to nonpartnership items.
-
-(2) **Proceedings under section 6228(a)** — No judicial determination in any proceeding under subsection (a) of section 6228 with respect to any partnership item shall be a bar to any adjustment in any other partnership item.
-
-**(f) Special rule for deductions, losses, and credits of foreign partnerships** Except to the extent otherwise provided in regulations, in the case of any partnership the tax matters partner of which resides outside the United States or the books of which are maintained outside the United States, no deduction, loss, or credit shall be allowable to any partner unless section 6031 is complied with for the partnership’s taxable year in which such deduction, loss, or credit arose at such time as the Secretary prescribes by regulations.
-
-**(g) Partnership return to be determinative of whether subchapter applies**
-
-(1) **Determination that subchapter applies** — If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter applies to such partnership for such year but such determination is erroneous, then the provisions of this subchapter are hereby extended to such partnership (and its items) for such taxable year and to partners of such partnership.
-
-(2) **Determination that subchapter does not apply** — If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply to such partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.
-
-### Statutory Notes
-
-#### Enactment of Part and Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 632, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part 1 [sic] heading “Procedure” and analysis consisting of items 6231 to 6235 are enacted, this section is repealed, and a new section 6231 following the Part 1 analysis is enacted to read as follows: § 6231. Notice of proceedings and adjustment
-
-(a) In general
-
-The Secretary shall mail to the partnership and the partnership representative—
-
-(1) notice of any administrative proceeding initiated at the partnership level with respect to an adjustment of any item of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year, or any partner’s distributive share thereof,
+(1) notice of any administrative proceeding initiated at the partnership level with respect to an adjustment of any partnership-related item for any partnership taxable year, or any partner’s distributive share thereof,
 
 (2) notice of any proposed partnership adjustment resulting from such proceeding, and
 
 (3) notice of any final partnership adjustment resulting from such proceeding.
+Any notice of a final partnership adjustment shall be sufficient if mailed to the last known address of the partnership representative or the partnership (even if the partnership has terminated its existence). The first sentence shall apply to any proceeding with respect to an administrative adjustment request filed by a partnership under section 6227.
 
-Any notice of a final partnership adjustment shall not be mailed earlier than 270 days after the date on which the notice of the proposed partnership adjustment is mailed. Such notices shall be sufficient if mailed to the last known address of the partnership representative or the partnership (even if the partnership has terminated its existence). The first sentence shall apply to any proceeding with respect to an administrative adjustment request filed by a partnership under section 6227.
+**(b) Timing of notices**
 
-(b) Further notices restricted
+(1) **Notice of proposed partnership adjustment** — Any notice of a proposed partnership adjustment shall not be mailed later than the date determined under section 6235 (determined without regard to paragraphs (2) and (3) of subsection (a) thereof).
 
-If the Secretary mails a notice of a final partnership adjustment to any partnership for any partnership taxable year and the partnership files a petition under section 6234 with respect to such notice, in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact, the Secretary shall not mail another such notice to such partnership with respect to such taxable year.
+(2) **Notice of final partnership adjustment**
 
-(c) Authority to rescind notice with partnership consent
+  (A) *In general* — Except to the extent that the partnership elects to waive the application of this subparagraph, any notice of a final partnership adjustment shall not be mailed earlier than 270 days after the date on which the notice of the proposed partnership adjustment is mailed.
 
-The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment for purposes of this subchapter, and the taxpayer shall have no right to bring a proceeding under section 6234 with respect to such notice.
+  (B) *Statute of limitations on adjustment* — For the period of limitations on making adjustments, see section 6235.
+
+**(c) Further notices restricted** If the Secretary mails a notice of a final partnership adjustment to any partnership for any partnership taxable year and the partnership files a petition under section 6234 with respect to such notice, in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact, the Secretary shall not mail another such notice to such partnership with respect to such taxable year.
+
+**(d) Authority to rescind notice with partnership consent** The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment for purposes of this subchapter, and the taxpayer shall have no right to bring a proceeding under section 6234 with respect to such notice.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 6231, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, § 714(p)(2)(B)–(D), (I), July 18, 1984, 98 Stat. 964, 965; Pub. L. 105–34, title XI, § 1141(b), title XII, §§ 1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, § 3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§ 416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57, defined terms for purposes of this subchapter and listed special rules for partnership items, prior to repeal by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
-2002—Subsec. (b)(1)(C). Pub. L. 107–147, § 416(d)(1)(C), inserted “or the Attorney General (or his delegate)” after “Secretary”.
+2018—Subsec. (a). Pub. L. 115–141, § 206(h)(2), substituted “Any notice of a final partnership adjustment” for “Any notice of a final partnership adjustment shall not be mailed earlier than 270 days after the date on which the notice of the proposed partnership adjustment is mailed. Such notices” in concluding provisions.
 
-Subsec. (b)(2)(B)(i). Pub. L. 107–147, § 417(19)(C), substituted “section 6227(d)” for “section 6227(c)”.
+Subsec. (a)(1). Pub. L. 115–141, § 201(c)(6), substituted “any partnership-related item for any partnership taxable year” for “any item of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year”.
 
-1998—Subsec. (a)(7). Pub. L. 105–206 inserted at end “The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notify all partners required to receive notice under section 6223(a) of the name and address of the person selected.”
+Subsecs. (b) to (d). Pub. L. 115–141, § 206(h)(1), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1997—Subsec. (a)(1)(B)(i). Pub. L. 105–34, § 1234(a), reenacted heading of cl. (i) without change and amended text generally. Prior to amendment, text read as follows: “The term ‘partnership’ shall not include any partnership if—
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
-“(I) such partnership has 10 or fewer partners each of whom is a natural person (other than a nonresident alien) or an estate, and
-
-“(II) each partner’s share of each partnership item is the same as his share of every other item.
-
-For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.”
-
-Subsec. (f). Pub. L. 105–34, § 1141(b), substituted “deductions, losses, and” for “losses and” in subsec. heading and “deduction, loss, or” for “loss or” in two places in text.
-
-Subsec. (g). Pub. L. 105–34, § 1232(a), added subsec. (g).
-
-1984—Subsec. (a)(9). Pub. L. 98–369, § 714(p)(2)(B), substituted “S corporation” for “electing small business corporation”.
-
-Subsec. (b)(2)(B). Pub. L. 98–369, § 714(p)(2)(I), substituted section “6227(c)” for “6227(b)”.
-
-Subsec. (d)(1)(A). Pub. L. 98–369, § 714(p)(2)(C), amended subpar. (A) generally, substituting “disposed of” and “disposition” for “liquidated, sold, or exchanged” and “liquidation, sale, or exchange”, respectively.
-
-Subsec. (f). Pub. L. 98–369, § 714(p)(2)(D), substituted “such loss or credit” for “such deduction or credit”.
-
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 2002 Amendment
-Amendment by section 416(d)(1)(C) of Pub. L. 107–147 applicable with respect to settlement agreements entered into after Mar. 9, 2002, see section 416(d)(2) of Pub. L. 107–147, set out as a note under [section 6224 of this title](./chapter-063-assessment.md#section-6224).
-
-#### Effective Date of 1998 Amendment
-Pub. L. 105–206, title III, § 3507(b), July 22, 1998, 112 Stat. 772, provided that: “The amendment made by this section [amending this section] shall apply to selections of tax matters partners made by the Secretary of the Treasury after the date of the enactment of this Act [July 22, 1998].”
-
-#### Effective Date of 1997 Amendment
-Amendment by section 1141(b) of Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1141(c) of Pub. L. 105–34, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
-
-Pub. L. 105–34, title XII, § 1232(b), Aug. 5, 1997, 111 Stat. 1023, provided that: “The amendment made by this section [amending this section] shall apply to partnership taxable years ending after the date of the enactment of this Act [Aug. 5, 1997].”
-
-Pub. L. 105–34, title XII, § 1234(b), Aug. 5, 1997, 111 Stat. 1024, provided that: “The amendment made by this section [amending this section] shall apply to partnership taxable years ending after the date of the enactment of this Act [Aug. 5, 1997].”
-
-#### Effective Date of 1984 Amendment
-Amendment by Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under [section 31 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-31).
+#### Effective Date
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Special Rule for Certain International Satellite Partnerships
-Pub. L. 97–248, title IV, § 406, Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subchapter C of chapter 63 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
+Pub. L. 97–248, title IV, § 406, Sept. 3, 1982, 96 Stat. 670, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “[Former] Subchapter C of chapter 63 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
 
 
 <a id="section-6232"></a>
 ## § 6232. Assessment, collection, and payment
-**(a) In general** Any imputed underpayment shall be assessed and collected in the same manner as if it were a tax imposed for the adjustment year by subtitle A, except that in the case of an administrative adjustment request to which section 6227(b)(1) applies, the underpayment shall be paid when the request is filed.
+**(a) In general** Any imputed underpayment shall be assessed and collected in the same manner as if it were a tax imposed for the adjustment year by subtitle A, except that—
 
-**(b) Limitation on assessment** Except as otherwise provided in this chapter, no assessment of a deficiency may be made (and no levy or proceeding in any court for the collection of any amount resulting from such adjustment may be made, begun or prosecuted) before—
+(1) subchapter B of chapter 63 shall not apply, and
+
+(2) in the case of an administrative adjustment request to which section 6227(b)(1) applies, the underpayment shall be paid and may be assessed when the request is filed.
+
+**(b) Limitation on assessment** Except as otherwise provided in this subtitle (other than subchapter B of this chapter), no assessment of an imputed underpayment may be made (and no levy or proceeding in any court for the collection of any amount resulting from such adjustment may be made, begun or prosecuted) before—
 
 (1) the close of the 90th day after the day on which a notice of a final partnership adjustment was mailed, and
 
 (2) if a petition is filed under section 6234 with respect to such notice, the decision of the court has become final.
+The preceding sentence shall not apply in the case of a specified similar amount (as defined in subsection (f)(2)).
 
 **(c) Premature action may be enjoined** Notwithstanding section 7421(a), any action which violates subsection (b) may be enjoined in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action under this subsection unless a timely petition has been filed under section 6234 and then only in respect of the adjustments that are the subject of such petition.
 
@@ -2480,233 +1661,162 @@ Pub. L. 97–248, title IV, § 406, Sept. 3, 1982, 96 Stat. 670, as amended by P
 
 (1) **Adjustments arising out of math or clerical errors**
 
-  (A) *In general* — If the partnership is notified that, on account of a mathematical or clerical error appearing on the partnership return, an adjustment to a 11 So in original. Probably should be “an”. item is required, rules similar to the rules of paragraphs (1) and (2) of section 6213(b) shall apply to such adjustment.
+  (A) *In general* — If the partnership is notified that, on account of a mathematical or clerical error appearing on the partnership return, an adjustment to an item is required, rules similar to the rules of paragraphs (1) and (2) of section 6213(b) shall apply to such adjustment.
 
   (B) *Special rule* — If a partnership is a partner in another partnership, any adjustment on account of such partnership’s failure to comply with the requirements of section 6222(a) with respect to its interest in such other partnership shall be treated as an adjustment referred to in subparagraph (A), except that paragraph (2) of section 6213(b) shall not apply to such adjustment.
 
 (2) **Partnership may waive restrictions** — The partnership may at any time (whether or not any notice of partnership adjustment has been issued), by a signed notice in writing filed with the Secretary, waive the restrictions provided in subsection (b) on the making of any partnership adjustment.
 
-**(e) Limit where no proceeding begun** If no proceeding under section 6234 is begun with respect to any notice of a final partnership adjustment during the 90-day period described in subsection (b) thereof, the amount for which the partnership is liable under section 6225 shall not exceed the amount determined in accordance with such notice.
+**(e) Limit where no proceeding begun** If no proceeding under section 6234 is begun with respect to any notice of a final partnership adjustment during the 90-day period described in subsection (b), the amount for which the partnership is liable under section 6225 shall not exceed the amount determined in accordance with such notice.
+
+**(f) Failure to pay imputed underpayment**
+
+(1) **In general** — If any amount of any imputed underpayment to which section 6225 applies or any specified similar amount (or any interest or penalties with respect to any such amount) has not been paid by the date which is 10 days after the date on which the Secretary provides notice and demand for such payment—
+
+  (A) section 6621(a)(2)(B) shall be applied by substituting “5 percentage points” for “3 percentage points” with respect to such amount, and
+
+  (B) the Secretary may assess upon each partner of the partnership (determined as of the close of the adjustment year or, if the partnership has ceased to exist as of such time, the former partners of the partnership as determined for purposes of section 6241(7)) a tax equal to such partner’s proportionate share of such amount (including any such interest or penalties, determined after application of subparagraph (A)).
+
+(2) **Specified similar amount** — For purposes of this subsection, the term “specified similar amount” means—
+
+  (A) the amount described in subclause (II) of section 6226(b)(4)(A)(ii) (including any failure to satisfy the requirement of subclause (I) of such section which is treated as a failure to pay such amount under section 6651(i)), and
+
+  (B) any amount assessed under paragraph (1)(B) upon a partner which is a partnership.
+
+(3) **Proportionate share** — For purposes of paragraph (1), a partner’s proportionate share is such percentage as the Secretary may determine on the basis of such partner’s distributive share. The Secretary shall make determinations under the preceding sentence such that the aggregate proportionate shares so determined total 100 percent.
+
+(4) **Coordination with partnership liability** — The liability of the partnership for any amount with respect to which a partner is made liable under paragraph (1) shall be reduced upon payment by the partner of such amount. Paragraph (1)(B) shall not apply with respect to any amount after the date on which such amount is paid by the partnership.
+
+(5) **S corporations** — For purposes of this subsection, an S corporation and its shareholders shall be treated in the same manner as a partnership and its partners.
+
+(6) **Rules related to assessment and collection**
+
+  (A) *Deficiency procedures not applicable* — Subchapter B shall not apply to any assessment or collection under this paragraph.
+
+  (B) *Limitation on assessment* — Except as otherwise provided in this subtitle, no assessment may be made (or proceeding in court begun without assessment) with respect to any partner with respect to an amount under paragraph (1) after the date which is 2 years after the date on which the Secretary provides the notice and demand referred to in paragraph (1) with respect to such amount.
 
 ### Statutory Notes
-
-#### Delayed Applicability of Section
-For delayed applicability of section, see Effective Date note below.
 
 #### Prior Provisions
 A prior section 6232, added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 666, related to extension of subchapter provisions, respecting tax treatment of partnership items, to windfall profit tax, prior to repeal by Pub. L. 100–418, title I, § 1941(b)(1), Aug. 23, 1988, 102 Stat. 1323.
 
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–141, § 206(g)(1), substituted “except that—” for “except that in the case of an administrative adjustment request to which section 6227(b)(1) applies, the underpayment shall be paid when the request is filed.” and added pars. (1) and (2).
+
+Subsec. (b). Pub. L. 115–141, § 206(p)(4), substituted “this subtitle (other than subchapter B of this chapter)” for “this chapter” in introductory provisions.
+
+Pub. L. 115–141, § 206(g)(2), substituted “assessment of an imputed underpayment” for “assessment of a deficiency” in introductory provisions and inserted concluding provisions.
+
+Subsec. (d)(1)(A). Pub. L. 115–141, § 206(p)(5), substituted “an item” for “a item”.
+
+Subsec. (e). Pub. L. 115–141, § 206(p)(6), struck out “thereof” after “subsection (b)”.
+
+Subsec. (f). Pub. L. 115–141, § 205(a), added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
+
 #### Effective Date
-Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6233"></a>
-## § 6233. Extension to entities filing partnership returns, etc.
-**(a) General rule** If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership for such year, then, to the extent provided in regulations, the provisions of this subchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.
+## § 6233. Interest and penalties
+**(a) Interest and penalties determined from reviewed year**
 
-**(b) Similar rules in certain cases** If a partnership return is filed for any taxable year but it is determined that there is no entity for such taxable year, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.
+(1) **In general** — Except to the extent provided in section 6226(c), in the case of a partnership adjustment for a reviewed year—
+
+  (A) interest shall be computed under paragraph (2), and
+
+  (B) the partnership shall be liable for any penalty, addition to tax, or additional amount as provided in paragraph (3).
+
+(2) **Determination of amount of interest** — The interest computed under this paragraph with respect to any partnership adjustment is the interest which would be determined under chapter 67 for the period beginning on the day after the return due date for the reviewed year and ending on the return due date for the adjustment year (or, if earlier, the date payment of the imputed underpayment is made). Proper adjustments in the amount determined under the preceding sentence shall be made for adjustments required for partnership taxable years after the reviewed year and before the adjustment year by reason of such partnership adjustment.
+
+(3) **Penalties** — Any penalty, addition to tax, or additional amount shall be determined at the partnership level as if such partnership had been an individual subject to tax under chapter 1 for the reviewed year and the imputed underpayment were an actual underpayment (or understatement) for such year.
+
+**(b) Interest and penalties with respect to adjustment year return**
+
+(1) **In general** — In the case of any failure to pay an imputed underpayment on the date prescribed therefor, the partnership shall be liable—
+
+  (A) for interest as determined under paragraph (2), and
+
+  (B) for any penalty, addition to tax, or additional amount as determined under paragraph (3).
+
+(2) **Interest** — Interest determined under this paragraph is the interest that would be determined by treating the imputed underpayment as an underpayment of tax imposed in the adjustment year.
+
+(3) **Penalties** — Penalties, additions to tax, or additional amounts determined under this paragraph are the penalties, additions to tax, or additional amounts that would be determined—
+
+  (A) by applying section 6651(a)(2) to such failure to pay, and
+
+  (B) by treating the imputed underpayment as an underpayment of tax for purposes of part II of subchapter A of chapter 68.
+
+**(c) Deposit to suspend interest** For rules allowing deposits to suspend running of interest on potential underpayments, see section 6603.
 
 ### Statutory Notes
 
-#### Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 633, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6233 is enacted to read as follows: § 6233. Interest and penalties
-
-(a) Interest and penalties determined from reviewed year
-
-(1) In general
-
-Except to the extent provided in section 6226(c), in the case of a partnership adjustment for a reviewed year—
-
-(A) interest shall be computed under paragraph (2), and
-
-(B) the partnership shall be liable for any penalty, addition to tax, or additional amount as provided in paragraph (3).
-
-(2) Determination of amount of interest
-
-The interest computed under this paragraph with respect to any partnership adjustment is the interest which would be determined under chapter 67 for the period beginning on the day after the return due date for the reviewed year and ending on the return due date for the adjustment year (or, if earlier, the date payment of the imputed underpayment is made). Proper adjustments in the amount determined under the preceding sentence shall be made for adjustments required for partnership taxable years after the reviewed year and before the adjustment year by reason of such partnership adjustment.
-
-(3) Penalties
-
-Any penalty, addition to tax, or additional amount shall be determined at the partnership level as if such partnership had been an individual subject to tax under chapter 1 for the reviewed year and the imputed underpayment were an actual underpayment (or understatement) for such year.
-
-(b) Interest and penalties with respect to adjustment year return
-
-(1) In general
-
-In the case of any failure to pay an imputed underpayment on the date prescribed therefor, the partnership shall be liable—
-
-(A) for interest as determined under paragraph (2), and
-
-(B) for any penalty, addition to tax, or additional amount as determined under paragraph (3).
-
-(2) Interest
-
-Interest determined under this paragraph is the interest that would be determined by treating the imputed underpayment as an underpayment of tax imposed in the adjustment year.
-
-(3) Penalties
-
-Penalties, additions to tax, or additional amounts determined under this paragraph are the penalties, additions to tax, or additional amounts that would be determined—
-
-(A) by applying section 6651(a)(2) to such failure to pay, and
-
-(B) by treating the imputed underpayment as an underpayment of tax for purposes of part II of subchapter A of chapter 68.
+#### Prior Provisions
+A prior section 6233, added Pub. L. 98–369, div. A, title VII, § 714(p)(1), July 18, 1984, 98 Stat. 964; amended Pub. L. 104–188, title I, § 1307(c)(3)(B), Aug. 20, 1996, 110 Stat. 1782, related to extension to entities filing partnership returns, prior to repeal by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
-1996—Subsec. (b). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If for any taxable year—
+2018—Subsec. (c). Pub. L. 115–141 added subsec. (c).
 
-“(1) an entity files a return as an S corporation but it is determined that the entity was not an S corporation for such year, or
-
-“(2) a partnership return or S corporation return is filed but it is determined that there is no entity for such taxable year,
-
-then, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.”
-
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 1996 Amendment
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under [section 641 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-641).
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
 #### Effective Date
-Section effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under [section 31 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-31).
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6234"></a>
-## § 6234. Declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return
-**(a) General rule** If—
-
-(1) a taxpayer files an oversheltered return for a taxable year,
-
-(2) the Secretary makes a determination with respect to the treatment of items (other than partnership items) of such taxpayer for such taxable year, and
-
-(3) the adjustments resulting from such determination do not give rise to a deficiency (as defined in section 6211) but would give rise to a deficiency if there were no net loss from partnership items,
-the Secretary is authorized to send a notice of adjustment reflecting such determination to the taxpayer by certified or registered mail.
-
-**(b) Oversheltered return** For purposes of this section, the term “oversheltered return” means an income tax return which—
-
-(1) shows no taxable income for the taxable year, and
-
-(2) shows a net loss from partnership items.
-
-**(c) Judicial review in the Tax Court** Within 90 days, or 150 days if the notice is addressed to a person outside the United States, after the day on which the notice of adjustment authorized in subsection (a) is mailed to the taxpayer, the taxpayer may file a petition with the Tax Court for redetermination of the adjustments. Upon the filing of such a petition, the Tax Court shall have jurisdiction to make a declaration with respect to all items (other than partnership items and affected items which require partner level determinations as described in section 6230(a)(2)(A)(i)) for the taxable year to which the notice of adjustment relates, in accordance with the principles of section 6214(a). Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
-
-**(d) Failure to file petition**
-
-(1) **In general** — Except as provided in paragraph (2), if the taxpayer does not file a petition with the Tax Court within the time prescribed in subsection (c), the determination of the Secretary set forth in the notice of adjustment that was mailed to the taxpayer shall be deemed to be correct.
-
-(2) **Exception** — Paragraph (1) shall not apply after the date that the taxpayer—
-
-  (A) files a petition with the Tax Court within the time prescribed in subsection (c) with respect to a subsequent notice of adjustment relating to the same taxable year, or
-
-  (B) files a claim for refund of an overpayment of tax under section 6511 for the taxable year involved.
-  If a claim for refund is filed by the taxpayer, then solely for purposes of determining (for the taxable year involved) the amount of any computational adjustment in connection with a partnership proceeding under this subchapter (other than under this section) or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), the items that are the subject of the notice of adjustment shall be presumed to have been correctly reported on the taxpayer’s return during the pendency of the refund claim (and, if within the time prescribed by section 6532 the taxpayer commences a civil action for refund under section 7422, until the decision in the refund action becomes final).
-
-**(e) Limitations period**
-
-(1) **In general** — Any notice to a taxpayer under subsection (a) shall be mailed before the expiration of the period prescribed by section 6501 (relating to the period of limitations on assessment).
-
-(2) **Suspension when Secretary mails notice of adjustment** — If the Secretary mails a notice of adjustment to the taxpayer for a taxable year, the period of limitations on the making of assessments shall be suspended for the period during which the Secretary is prohibited from making the assessment (and, in any event, if a proceeding in respect of the notice of adjustment is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
-
-(3) **Restrictions on assessment** — Except as otherwise provided in section 6851, 6852, or 6861, no assessment of a deficiency with respect to any tax imposed by subtitle A attributable to any item (other than a partnership item or any item affected by a partnership item) shall be made—
-
-  (A) until the expiration of the applicable 90-day or 150-day period set forth in subsection (c) for filing a petition with the Tax Court, or
-
-  (B) if a petition has been filed with the Tax Court, until the decision of the Tax Court has become final.
-
-**(f) Further notices of adjustment restricted** If the Secretary mails a notice of adjustment to the taxpayer for a taxable year and the taxpayer files a petition with the Tax Court within the time prescribed in subsection (c), the Secretary may not mail another such notice to the taxpayer with respect to the same taxable year in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact.
-
-**(g) Coordination with other proceedings under this subchapter**
-
-(1) **In general** — The treatment of any item that has been determined pursuant to subsection (c) or (d) shall be taken into account in determining the amount of any computational adjustment that is made in connection with a partnership proceeding under this subchapter (other than under this section), or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), for the taxable year involved. Notwithstanding any other law or rule of law pertaining to the period of limitations on the making of assessments, for purposes of the preceding sentence, any adjustment made in accordance with this section shall be taken into account regardless of whether any assessment has been made with respect to such adjustment.
-
-(2) **Special rule in case of computational adjustment** — In the case of a computational adjustment that is made in connection with a partnership proceeding under this subchapter (other than under this section), the provisions of paragraph (1) shall apply only if the computational adjustment is made within the period prescribed by section 6229 for assessing any tax under subtitle A which is attributable to any partnership item or affected item for the taxable year involved.
-
-(3) **Conversion to deficiency proceeding** — If—
-
-  (A) after the notice referred to in subsection (a) is mailed to a taxpayer for a taxable year but before the expiration of the period for filing a petition with the Tax Court under subsection (c) (or, if a petition is filed with the Tax Court, before the Tax Court makes a declaration for that taxable year), the treatment of any partnership item for the taxable year is finally determined, or any such item ceases to be a partnership item pursuant to section 6231(b), and
-
-  (B) as a result of that final determination or cessation, a deficiency can be determined with respect to the items that are the subject of the notice of adjustment,
-  the notice of adjustment shall be treated as a notice of deficiency under section 6212 and any petition filed in respect of the notice shall be treated as an action brought under section 6213.
-
-(4) **Finally determined** — For purposes of this subsection, the treatment of partnership items shall be treated as finally determined if—
-
-  (A) the Secretary or the Attorney General (or his delegate) enters into a settlement agreement (within the meaning of section 6224) with the taxpayer regarding such items,
-
-  (B) a notice of final partnership administrative adjustment has been issued and—
-
-    (i) no petition has been filed under section 6226 and the time for doing so has expired, or
-
-    (ii) a petition has been filed under section 6226 and the decision of the court has become final, or
-
-  (C) the period within which any tax attributable to such items may be assessed against the taxpayer has expired.
-
-**(h) Special rules if Secretary incorrectly determines applicable procedure**
-
-(1) **Special rule if Secretary erroneously mails notice of adjustment** — If the Secretary erroneously determines that subchapter B does not apply to a taxable year of a taxpayer and consistent with that determination timely mails a notice of adjustment to the taxpayer pursuant to subsection (a) of this section, the notice of adjustment shall be treated as a notice of deficiency under section 6212 and any petition that is filed in respect of the notice shall be treated as an action brought under section 6213.
-
-(2) **Special rule if Secretary erroneously mails notice of deficiency** — If the Secretary erroneously determines that subchapter B applies to a taxable year of a taxpayer and consistent with that determination timely mails a notice of deficiency to the taxpayer pursuant to section 6212, the notice of deficiency shall be treated as a notice of adjustment under subsection (a) and any petition that is filed in respect of the notice shall be treated as an action brought under subsection (c).
-
-### Statutory Notes
-
-#### Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 634, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6234 is enacted to read as follows: § 6234. Judicial review of partnership adjustment
-
-(a) In general
-
-Within 90 days after the date on which a notice of a final partnership adjustment is mailed under section 6231 with respect to any partnership taxable year, the partnership may file a petition for a readjustment for such taxable year with—
+## § 6234. Judicial review of partnership adjustment
+**(a) In general** Within 90 days after the date on which a notice of a final partnership adjustment is mailed under section 6231 with respect to any partnership taxable year, the partnership may file a petition for a readjustment for such taxable year with—
 
 (1) the Tax Court,
 
 (2) the district court of the United States for the district in which the partnership’s principal place of business is located, or
 
-(3) the Claims Court.
+(3) the Court of Federal Claims.
 
-(b) Jurisdictional requirement for bringing action in district court or Claims Court
+**(b) Jurisdictional requirement for bringing action in district court or Court of Federal Claims**
 
-(1) In general
+(1) **In general** — A readjustment petition under this section may be filed in a district court of the United States or the Court of Federal Claims only if the partnership filing the petition deposits with the Secretary, on or before the date the petition is filed, the amount of (as of the date of the filing of the petition) the imputed underpayment, penalties, additions to tax, and additional amounts with respect to such imputed underpayment if the partnership adjustment was made as provided by the notice of final partnership adjustment. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirement and any shortfall of the amount required to be deposited is timely corrected.
 
-A readjustment petition under this section may be filed in a district court of the United States or the Claims Court only if the partnership filing the petition deposits with the Secretary, on or before the date the petition is filed, the amount of the imputed underpayment (as of the date of the filing of the petition) if the partnership adjustment was made as provided by the notice of final partnership adjustment. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirement and any shortfall of the amount required to be deposited is timely corrected.
+(2) **Interest payable** — Any amount deposited under paragraph (1), while deposited, shall not be treated as a payment of tax for purposes of this title (other than chapter 67).
 
-(2) Interest payable
+**(c) Scope of judicial review** A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all partnership-related items for the partnership taxable year to which the notice of final partnership adjustment relates, the proper allocation of such items among the partners, and the applicability of any penalty, addition to tax, or additional amount for which the partnership may be liable under this subchapter.
 
-Any amount deposited under paragraph (1), while deposited, shall not be treated as a payment of tax for purposes of this title (other than chapter 67).
+**(d) Determination of court reviewable** Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court’s order entering the decision.
 
-(c) Scope of judicial review
+**(e) Effect of decision dismissing action** If an action brought under this section is dismissed other than by reason of a rescission under section 6231(c),11 See References in Text note below. the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
 
-A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all items of income, gain, loss, deduction, or credit of the partnership for the partnership taxable year to which the notice of final partnership adjustment relates, the proper allocation of such items among the partners, and the applicability of any penalty, addition to tax, or additional amount for which the partnership may be liable under this subchapter.
+### Statutory Notes
 
-(d) Determination of court reviewable
+#### References in Text
+Section 6231(c), referred to in subsec. (e), was redesignated section 6231(d) by Pub. L. 115–141, div. U, title II, § 206(h)(1), Mar. 23, 2018, 132 Stat. 1179.
 
-Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Claims Court, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court’s order entering the decision.
-
-(e) Effect of decision dismissing action
-
-If an action brought under this section is dismissed other than by reason of a rescission under section 6231(c), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
-
-Pub. L. 114–113, div. Q, title IV, § 411(b)(2), (3), (e), Dec. 18, 2015, 129 Stat. 3122, provided that, effective as if included in section 1101 of Pub. L. 114–74, this section (as added by Pub. L. 114–74, see note above) is amended as follows:
-
-(1) in subsections (a)(3), (b)(1), and (d), by striking “the Claims Court” and inserting “the Court of Federal Claims”; and
-
-(2) in the heading of subsection (b), by striking “Claims Court” and inserting “Court of Federal Claims”.
+#### Prior Provisions
+A prior section 6234, added Pub. L. 105–34, title XII, § 1231(a), Aug. 5, 1997, 111 Stat. 1020; amended Pub. L. 107–147, title IV, § 416(d)(1)(D), Mar. 9, 2002, 116 Stat. 55, related to declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return, prior to repeal by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 #### Amendments
-2002—Subsec. (g)(4)(A). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary”.
+2018—Subsec. (b)(1). Pub. L. 115–141, § 206(j), substituted “the amount of (as of the date of the filing of the petition) the imputed underpayment, penalties, additions to tax, and additional amounts with respect to such imputed underpayment” for “the amount of the imputed underpayment (as of the date of the filing of the petition)”.
+
+Subsec. (c). Pub. L. 115–141, § 201(c)(7), substituted “all partnership-related items” for “all items of income, gain, loss, deduction, or credit of the partnership”.
+
+2015—Pub. L. 114–113 substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) of Pub. L. 114–113, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–147 applicable with respect to settlement agreements entered into after Mar. 9, 2002, see section 416(d)(2) of Pub. L. 107–147, set out as a note under [section 6224 of this title](./chapter-063-assessment.md#section-6224).
-
 #### Effective Date
-Section applicable to partnership taxable years ending after Aug. 5, 1997, see section 1231(d) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under [section 6211 of this title](./chapter-063-assessment.md#section-6211).
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6235"></a>
 ## § 6235. Period of limitations on making adjustments
-**(a) In general** Except as otherwise provided in this section, no adjustment under this subpart 11 So in original. As enacted by Pub. L. 114–74, Part 1, which contains this section, does not contain subparts. for any partnership taxable year may be made after the later of—
+**(a) In general** Except as otherwise provided in this section or section 905(c), no adjustment under this subchapter for any partnership taxable year may be made after the later of—
 
 (1) the date which is 3 years after the latest of—
 
@@ -2718,7 +1828,7 @@ Section applicable to partnership taxable years ending after Aug. 5, 1997, see s
 
 (2) in the case of any modification of an imputed underpayment under section 6225(c), the date that is 270 days (plus the number of days of any extension consented to by the Secretary under paragraph (7) thereof) after the date on which everything required to be submitted to the Secretary pursuant to such section is so submitted, or
 
-(3) in the case of any notice of a proposed partnership adjustment under section 6231(a)(2), the date that is 330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7) 22 So in original. Another closing parenthesis probably should appear. after the date of such notice.
+(3) in the case of any notice of a proposed partnership adjustment under section 6231(a)(2), the date that is 330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7)) after the date of such notice.
 
 **(b) Extension by agreement** The period described in subsection (a) (including an extension period under this subsection) may be extended by an agreement entered into by the Secretary and the partnership before the expiration of such period.
 
@@ -2726,473 +1836,177 @@ Section applicable to partnership taxable years ending after Aug. 5, 1997, see s
 
 (1) **False return** — In the case of a false or fraudulent partnership return with intent to evade tax, the adjustment may be made at any time.
 
-(2) **Substantial omission of income** — If any partnership omits from gross income an amount properly includible therein and such amount is described in section 6501(e)(1)(A), subsection (a) shall be applied by substituting “6 years” for “3 years”.
+(2) **Substantial omission of income** — If any partnership omits from gross income an amount properly includible therein and such amount is described in subparagraph (A) or (C) of section 6501(e)(1), subsection (a) shall be applied by substituting “6 years” for “3 years”.
 
 (3) **No return** — In the case of a failure by a partnership to file a return for any taxable year, the adjustment may be made at any time.
 
 (4) **Return filed by Secretary** — For purposes of this section, a return executed by the Secretary under subsection (b) of section 6020 on behalf of the partnership shall not be treated as a return of the partnership.
 
-**(d) Suspension when Secretary mails notice of adjustment** If notice of a final partnership adjustment with respect to any taxable year is mailed under section 6231, the running of the period specified in subsection (a) (as modified by the other provisions of this section) shall be suspended—
+(5) **Information required to be reported** — In the case of a partnership that is required to report any information described in section 6501(c)(8), the time for making any adjustment under this subchapter with respect to any tax return, event, or period to which such information relates shall not expire before the date that is determined under section 6501(c)(8).
 
-(1) for the period during which an action may be brought under section 6234 (and, if a petition is filed under such section with respect to such notice, until the decision of the court becomes final), and
-
-(2) for 1 year thereafter.
+(6) **Listed transactions** — If a partnership fails to include on any return or statement any information with respect to a listed transaction as described in section 6501(c)(10), the time for making any adjustment under this subchapter with respect to such transaction shall not expire before the date that is determined under section 6501(c)(10).
 
 ### Statutory Notes
 
-#### Delayed Applicability of Section
-For delayed applicability of section, see Effective Date note below.
-
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141, § 206(k)(1), inserted “or section 905(c)” after “Except as otherwise provided in this section” and substituted “subchapter” for “subpart” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 115–141, § 206(k)(2), substituted “section 6225(c)(7))” for “section 6225(c)(7)”.
+
+Subsec. (c)(2). Pub. L. 115–141, § 206(k)(3), substituted “subparagraph (A) or (C) of section 6501(e)(1)” for “section 6501(e)(1)(A)”.
+
+Subsec. (c)(5), (6) . Pub. L. 115–141, § 206(k)(4), added pars. (5) and (6).
+
+Subsec. (d). Pub. L. 115–141, § 206(k)(5), struck out subsec. (d). Text read as follows: “If notice of a final partnership adjustment with respect to any taxable year is mailed under section 6231, the running of the period specified in subsection (a) (as modified by the other provisions of this section) shall be suspended—
+
+“(1) for the period during which an action may be brought under section 6234 (and, if a petition is filed under such section with respect to such notice, until the decision of the court becomes final), and
+
+“(2) for 1 year thereafter.”
+
 2015—Subsec. (a)(2). Pub. L. 114–113, § 411(c)(1), substituted “paragraph (7)” for “paragraph (4)”.
 
 Subsec. (a)(3). Pub. L. 114–113, § 411(c)(2), substituted “330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7)” for “270 days”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) of Pub. L. 114–113, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
 #### Effective Date
-Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-
-<a id="section-6240"></a>
-## § 6240. Application of subchapter
-**(a) General rule** This subchapter shall only apply to electing large partnerships and partners in such partnerships.
-
-**(b) Coordination with other partnership audit procedures**
-
-(1) **In general** — Subchapter C of this chapter shall not apply to any electing large partnership other than in its capacity as a partner in another partnership which is not an electing large partnership.
-
-(2) **Treatment where partner in other partnership** — If an electing large partnership is a partner in another partnership which is not an electing large partnership—
-
-  (A) subchapter C of this chapter shall apply to items of such electing large partnership which are partnership items with respect to such other partnership, but
-
-  (B) any adjustment under such subchapter C shall be taken into account in the manner provided by section 6242.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-#### Effective Date
-Subchapter applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as an Effective Date of 1997 Amendment note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 
 <a id="section-6241"></a>
-## § 6241. Partner’s return must be consistent with partnership return
-**(a) General rule** A partner of any electing large partnership shall, on the partner’s return, treat each partnership item attributable to such partnership in a manner which is consistent with the treatment of such partnership item on the partnership return.
+## § 6241. Definitions and special rules
 
-**(b) Underpayment due to inconsistent treatment assessed as math error** Any underpayment of tax by a partner by reason of failing to comply with the requirements of subsection (a) shall be assessed and collected in the same manner as if such underpayment were on account of a mathematical or clerical error appearing on the partner’s return. Paragraph (2) of section 6213(b) shall not apply to any assessment of an underpayment referred to in the preceding sentence.
+For purposes of this subchapter—
 
-**(c) Adjustments not to affect prior year of partners**
+(1) **Partnership** — The term “partnership” means any partnership required to file a return under section 6031(a).
 
-(1) **In general** — Except as provided in paragraph (2), subsections (a) and (b) shall apply without regard to any adjustment to the partnership item under part II.
+(2) **Partnership adjustment**
 
-(2) **Certain changes in distributive share taken into account by partner**
+  (A) *In general* — The term “partnership adjustment” means any adjustment to a partnership-related item.
 
-  (A) *In general* — To the extent that any adjustment under part II involves a change under section 704 in a partner’s distributive share of the amount of any partnership item shown on the partnership return, such adjustment shall be taken into account in applying this title to such partner for the partner’s taxable year for which such item was required to be taken into account.
+  (B) *Partnership-related item* — The term “partnership-related item” means—
 
-  (B) *Coordination with deficiency procedures*
+    (i) any item or amount with respect to the partnership (without regard to whether or not such item or amount appears on the partnership’s return and including an imputed underpayment and any item or amount relating to any transaction with, basis in, or liability of, the partnership) which is relevant (determined without regard to this subchapter) in determining the tax liability of any person under chapter 1, and
 
-    (i) *In general* — Subchapter B shall not apply to the assessment or collection of any underpayment of tax attributable to an adjustment referred to in subparagraph (A).
+    (ii) any partner’s distributive share of any item or amount described in clause (i).
 
-    (ii) *Adjustment not precluded* — Notwithstanding any other law or rule of law, nothing in subchapter B (or in any proceeding under subchapter B) shall preclude the assessment or collection of any underpayment of tax (or the allowance of any credit or refund of any overpayment of tax) attributable to an adjustment referred to in subparagraph (A) and such assessment or collection or allowance (or any notice thereof) shall not preclude any notice, proceeding, or determination under subchapter B.
+(3) **Return due date** — The term “return due date” means, with respect to the taxable year, the date prescribed for filing the partnership return for such taxable year (determined without regard to extensions).
 
-  (C) *Period of limitations* — The period for—
+(4) **Payments nondeductible** — No deduction shall be allowed under subtitle A for any payment required to be made by a partnership under this subchapter.
 
-    (i) assessing any underpayment of tax, or
+(5) **Partnerships having principal place of business outside United States** — For purposes of section 6234, a principal place of business located outside the United States shall be treated as located in the District of Columbia.
 
-    (ii) filing a claim for credit or refund of any overpayment of tax,
-    attributable to an adjustment referred to in subparagraph (A) shall not expire before the close of the period prescribed by section 6248 for making adjustments with respect to the partnership taxable year involved.
+(6) **Partnerships in cases under title 11 of United States Code**
 
-  (D) *Tiered structures* — If the partner referred to in subparagraph (A) is another partnership or an S corporation, the rules of this paragraph shall also apply to persons holding interests in such partnership or S corporation (as the case may be); except that, if such partner is an electing large partnership, the adjustment referred to in subparagraph (A) shall be taken into account in the manner provided by section 6242.
+  (A) *Suspension of period of limitations on making adjustment, assessment, or collection* — The running of any period of limitations provided in this subchapter on making a partnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any imputed underpayment determined under this subchapter) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—
 
-**(d) Addition to tax for failure to comply with section** For addition to tax in case of partner’s disregard of requirements of this section, see part II of subchapter A of chapter 68.
+    (i) for adjustment or assessment, 60 days thereafter, and
+
+    (ii) for collection, 6 months thereafter.
+    A rule similar to the rule of section 6213(f)(2) shall apply for purposes of section 6232(b).
+
+  (B) *Suspension of period of limitation for filing for judicial review* — The running of the period specified in section 6234 shall, in a case under title 11 of the United States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6234 and for 60 days thereafter.
+
+(7) **Treatment where partnership ceases to exist** — If a partnership ceases to exist before a partnership adjustment under this subchapter takes effect, such adjustment shall be taken into account by the former partners of such partnership under regulations prescribed by the Secretary.
+
+(8) **Extension to entities filing partnership return** — If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership (or that there is no entity) for such year, then, to the extent provided in regulations, the provisions of this subchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.
+
+(9) **Coordination with other chapters**
+
+  (A) *In general* — This subchapter shall not apply with respect to any tax imposed (including any amount required to be deducted or withheld) under chapter 2, 2A, 3, or 4, except that any partnership adjustment determined under this subchapter for purposes of chapter 1 shall be taken into account for purposes of determining any such tax to the extent that such adjustment is relevant to such determination.
+
+  (B) *Timing of withholding* — In the case of any tax imposed (including any amount required to be deducted or withheld) under chapter 3 or 4, which is determined with respect to an adjustment described in subparagraph (A), such tax—
+
+    (i) shall be so determined with respect to the reviewed year, and
+
+    (ii) shall be so imposed (or so required to be deducted or withheld) with respect to the adjustment year.
+
+  (C) *Statute of limitation on assessment* — For special rule with respect to limitation on assessment of taxes under chapter 2 or 2A which are attributable to any partnership adjustment, see section 6501(c)(12).
+
+(10) **Authority to require electronic filing** — Notwithstanding section 6011(e), the Secretary may require that anything required to be filed or submitted under section 6225(c), or to be furnished to or filed with the Secretary under section 6226, be so filed, submitted, or furnished by magnetic media or in other machine-readable form.
+
+(11) **Treatment of special enforcement matters**
+
+  (A) *In general* — In the case of partnership-related items which involve special enforcement matters, the Secretary may prescribe regulations pursuant to which—
+
+    (i) this subchapter (or any portion thereof) does not apply to such items, and
+
+    (ii) such items are subject to such special rules (including rules related to assessment and collection) as the Secretary determines to be necessary for the effective and efficient enforcement of this title.
+
+  (B) *Special enforcement matters* — For purposes of subparagraph (A), the term “special enforcement matters” means—
+
+    (i) failure to comply with the requirements of section 6226(b)(4)(A)(ii),
+
+    (ii) assessments under section 6851 (relating to termination assessments of income tax) or section 6861 (relating to jeopardy assessments of income, estate, gift, and certain excise taxes),
+
+    (iii) criminal investigations,
+
+    (iv) indirect methods of proof of income,
+
+    (v) foreign partners or partnerships, and
+
+    (vi) other matters that the Secretary determines by regulation present special enforcement considerations.
+
+(12) **United states shareholders and certain other persons treated as partners**
+
+  (A) *In general* — Except as otherwise provided by the Secretary, in the case of any controlled foreign corporation (as defined in section 957 or 953(c)(1)) which is a partner of a partnership, each United States shareholder (as defined in section 951(b) or 953(c)(1)) with respect to such controlled foreign corporation shall be treated for purposes of this subchapter as a partner of such partnership. For purposes of the preceding sentence, any distributive share of any such United States shareholder with respect to such partnership shall, except as otherwise provided by the Secretary, be equal to such United States shareholder’s pro rata share with respect to such controlled foreign corporation (determined under rules similar to the rules of section 951(a)(2)).
+
+  (B) *Passive foreign investment companies* — For purposes of subparagraph (A), in the case of a passive foreign investment company (as defined in section 1297), each taxpayer that makes an election under section 1295 with respect to such company shall be treated in the same manner as United States shareholders under subparagraph (A), except that such taxpayer’s pro rata share with respect to the passive foreign investment company shall be determined under rules similar to the rules of section 1293(b).
+
+  (C) *Regulations or other guidance* — The Secretary shall issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this paragraph, including regulations which apply the rules of subparagraph (A) in similar circumstances or with respect to similarly situated persons.
 
 ### Statutory Notes
 
-#### Enactment of Part and Repeal and Reenactment of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 636, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part 2 [sic] (of subchapter C) heading “Definitions and Special Rules” and analysis consisting of item 6241 are enacted, this section is repealed, and a new section 6241 following the Part 2 analysis is enacted to read as follows: § 6241. Definitions and special rules For purposes of this subchapter—
-
-(1) Partnership
-
-The term “partnership” means any partnership required to file a return under section 6031(a).
-
-(2) Partnership adjustment
-
-The term “partnership adjustment” means any adjustment in the amount of any item of income, gain, loss, deduction, or credit of a partnership, or any partner’s distributive share thereof.
-
-(3) Return due date
-
-The term “return due date” means, with respect to the taxable year, the date prescribed for filing the partnership return for such taxable year (determined without regard to extensions).
-
-(4) Payments nondeductible
-
-No deduction shall be allowed under subtitle A for any payment required to be made by a partnership under this subchapter.
-
-(5) Partnerships having principal place of business outside United States
-
-For purposes of sections 6234, a principal place of business located outside the United States shall be treated as located in the District of Columbia.
-
-(6) Partnerships in cases under title 11 of United States Code
-
-(A) Suspension of period of limitations on making adjustment, assessment, or collection
-
-The running of any period of limitations provided in this subchapter on making a partnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any imputed underpayment determined under this subchapter) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—
-
-(i) for adjustment or assessment, 60 days thereafter, and
-
-(ii) for collection, 6 months thereafter.
-
-A rule similar to the rule of section 6213(f)(2) shall apply for purposes of section 6232(b).
-
-(B) Suspension of period of limitation for filing for judicial review
-
-The running of the period specified in section 6234 shall, in a case under title 11 of the United States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6234 and for 60 days thereafter.
-
-(7) Treatment where partnership ceases to exist
-
-If a partnership ceases to exist before a partnership adjustment under this subchapter takes effect, such adjustment shall be taken into account by the former partners of such partnership under regulations prescribed by the Secretary.
-
-(8) Extension to entities filing partnership return
-
-If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership (or that there is no entity) for such year, then, to the extent provided in regulations, the provisions of this subchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.
-
 #### Prior Provisions
-A prior section 6241, added Pub. L. 97–354, § 4(a), Oct. 19, 1982, 96 Stat. 1691, directed that tax treatment be determined at the corporate level, prior to repeal by Pub. L. 104–188, title I, §§ 1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
+A prior section 6241, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 100, related to consistency of a partner’s return with the partnership return, prior to repeal by Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
 
-#### Effective Date of Repeal and Reenactment
-Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Another prior section 6241, added Pub. L. 97–354, § 4(a), Oct. 19, 1982, 96 Stat. 1691, directed that tax treatment be determined at the corporate level, prior to repeal by Pub. L. 104–188, title I, §§ 1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
+A prior section 6242, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1010, related to procedures for taking partnership adjustments into account, prior to repeal by Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
 
-<a id="section-6242"></a>
-## § 6242. Procedures for taking partnership adjustments into account
-**(a) Adjustments flow through to partners for year in which adjustment takes effect**
-
-(1) **In general** — If any partnership adjustment with respect to any partnership item takes effect (within the meaning of subsection (d)(2)) during any partnership taxable year and if an election under paragraph (2) does not apply to such adjustment, such adjustment shall be taken into account in determining the amount of such item for the partnership taxable year in which such adjustment takes effect. In applying this title to any person who is (directly or indirectly) a partner in such partnership during such partnership taxable year, such adjustment shall be treated as an item actually arising during such taxable year.
-
-(2) **Partnership liable in certain cases** — If—
-
-  (A) a partnership elects under this paragraph to not take an adjustment into account under paragraph (1),
-
-  (B) a partnership does not make such an election but in filing its return for any partnership taxable year fails to take fully into account any partnership adjustment as required under paragraph (1), or
-
-  (C) any partnership adjustment involves a reduction in a credit which exceeds the amount of such credit determined for the partnership taxable year in which the adjustment takes effect,
-  the partnership shall pay to the Secretary an amount determined by applying the rules of subsection (b)(4) to the adjustments not so taken into account and any excess referred to in subparagraph (C).
-
-(3) **Offsetting adjustments taken into account** — If a partnership adjustment requires another adjustment in a taxable year after the adjusted year and before the partnership taxable year in which such partnership adjustment takes effect, such other adjustment shall be taken into account under this subsection for the partnership taxable year in which such partnership adjustment takes effect.
-
-(4) **Coordination with part II** — Amounts taken into account under this subsection for any partnership taxable year shall continue to be treated as adjustments for the adjusted year for purposes of determining whether such amounts may be readjusted under part II.
-
-**(b) Partnership liable for interest and penalties**
-
-(1) **In general** — If a partnership adjustment takes effect during any partnership taxable year and such adjustment results in an imputed underpayment for the adjusted year, the partnership—
-
-  (A) shall pay to the Secretary interest computed under paragraph (2), and
-
-  (B) shall be liable for any penalty, addition to tax, or additional amount as provided in paragraph (3).
-
-(2) **Determination of amount of interest** — The interest computed under this paragraph with respect to any partnership adjustment is the interest which would be determined under chapter 67—
-
-  (A) on the imputed underpayment determined under paragraph (4) with respect to such adjustment,
-
-  (B) for the period beginning on the day after the return due date for the adjusted year and ending on the return due date for the partnership taxable year in which such adjustment takes effect (or, if earlier, in the case of any adjustment to which subsection (a)(2) applies, the date on which the payment under subsection (a)(2) is made).
-  Proper adjustments in the amount determined under the preceding sentence shall be made for adjustments required for partnership taxable years after the adjusted year and before the year in which the partnership adjustment takes effect by reason of such partnership adjustment.
-
-(3) **Penalties** — A partnership shall be liable for any penalty, addition to tax, or additional amount for which it would have been liable if such partnership had been an individual subject to tax under chapter 1 for the adjusted year and the imputed underpayment determined under paragraph (4) were an actual underpayment (or understatement) for such year.
-
-(4) **Imputed underpayment** — For purposes of this subsection, the imputed underpayment determined under this paragraph with respect to any partnership adjustment is the underpayment (if any) which would result—
-
-  (A) by netting all adjustments to items of income, gain, loss, or deduction and by treating any net increase in income as an underpayment equal to the amount of such net increase multiplied by the highest rate of tax in effect under section 1 or 11 for the adjusted year, and
-
-  (B) by taking adjustments to credits into account as increases or decreases (whichever is appropriate) in the amount of tax.
-  For purposes of the preceding sentence, any net decrease in a loss shall be treated as an increase in income and a similar rule shall apply to a net increase in a loss.
-
-**(c) Administrative provisions**
-
-(1) **In general** — Any payment required by subsection (a)(2) or (b)(1)(A)—
-
-  (A) shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C, and
-
-  (B) shall be paid on or before the return due date for the partnership taxable year in which the partnership adjustment takes effect.
-
-(2) **Interest** — For purposes of determining interest, any payment required by subsection (a)(2) or (b)(1)(A) shall be treated as an underpayment of tax.
-
-(3) **Penalties**
-
-  (A) *In general* — In the case of any failure by any partnership to pay on the date prescribed therefor any amount required by subsection (a)(2) or (b)(1)(A), there is hereby imposed on such partnership a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term “underpayment” means the excess of any payment required under this section over the amount (if any) paid on or before the date prescribed therefor.
-
-  (B) *Accuracy-related and fraud penalties made applicable* — For purposes of part II of subchapter A of chapter 68, any payment required by subsection (a)(2) shall be treated as an underpayment of tax.
-
-**(d) Definitions and special rules** For purposes of this section—
-
-(1) **Partnership adjustment** — The term “partnership adjustment” means any adjustment in the amount of any partnership item of an electing large partnership.
-
-(2) **When adjustment takes effect** — A partnership adjustment takes effect—
-
-  (A) in the case of an adjustment pursuant to the decision of a court in a proceeding brought under part II, when such decision becomes final,
-
-  (B) in the case of an adjustment pursuant to any administrative adjustment request under section 6251, when such adjustment is allowed by the Secretary, or
-
-  (C) in any other case, when such adjustment is made.
-
-(3) **Adjusted year** — The term “adjusted year” means the partnership taxable year to which the item being adjusted relates.
-
-(4) **Return due date** — The term “return due date” means, with respect to any taxable year, the date prescribed for filing the partnership return for such taxable year (determined without regard to extensions).
-
-(5) **Adjustments involving changes in character** — Under regulations, appropriate adjustments in the application of this section shall be made for purposes of taking into account partnership adjustments which involve a change in the character of any item of income, gain, loss, or deduction.
-
-**(e) Payments nondeductible** No deduction shall be allowed under subtitle A for any payment required to be made by an electing large partnership under this section.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Prior Provisions
-A prior section 6242, added Pub. L. 97–354, § 4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholder’s return be consistent with corporate return, prior to repeal by Pub. L. 104–188, title I, §§ 1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
+Another prior section 6242, added Pub. L. 97–354, § 4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholder’s return be consistent with corporate return, prior to repeal by Pub. L. 104–188, title I, §§ 1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
 A prior section 6243, added Pub. L. 97–354, § 4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholders be notified of proceedings and given opportunity to participate, prior to repeal by Pub. L. 104–188, title I, §§ 1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
 A prior section 6244, added Pub. L. 97–354, § 4(a), Oct. 19, 1982, 96 Stat. 1691, directed that certain provisions of subchapter C apply to subchapter S items, prior to repeal by Pub. L. 104–188, title I, §§ 1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+A prior section 6245, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1013, authorized and directed Secretary to make necessary partnership adjustment, prior to repeal by Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
 
+Another prior section 6245, added Pub. L. 97–354, § 4(a), Oct. 19, 1982, 96 Stat. 1692, defined “subchapter S item” for purposes of subchapter, prior to repeal by Pub. L. 104–188, title I, §§ 1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
-<a id="section-6245"></a>
-## § 6245. Secretarial authority
-**(a) General rule** The Secretary is authorized and directed to make adjustments at the partnership level in any partnership item to the extent necessary to have such item be treated in the manner required.
+Prior sections 6246 to 6255 were repealed by Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
 
-**(b) Notice of partnership adjustment**
+Section 6246, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1013, related to restrictions on partnership adjustments.
 
-(1) **In general** — If the Secretary determines that a partnership adjustment is required, the Secretary is authorized to send notice of such adjustment to the partnership by certified mail or registered mail. Such notice shall be sufficient if mailed to the partnership at its last known address even if the partnership has terminated its existence.
+Section 6247, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1014, related to judicial review of partnership adjustment.
 
-(2) **Further notices restricted** — If the Secretary mails a notice of a partnership adjustment to any partnership for any partnership taxable year and the partnership files a petition under section 6247 with respect to such notice, in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact, the Secretary shall not mail another such notice to such partnership with respect to such taxable year.
+Section 6248, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1015, related to period of limitations for making adjustments under this subpart.
 
-(3) **Authority to rescind notice with partnership consent** — The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment, for purposes of this section, section 6246, and section 6247, and the taxpayer shall have no right to bring a proceeding under section 6247 with respect to such notice. Nothing in this subsection shall affect any suspension of the running of any period of limitations during any period during which the rescinded notice was outstanding.
+Section 6251, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1016, related to administrative adjustment requests.
 
-### Statutory Notes
+Section 6252, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1016, related to judicial review where administrative adjustment request is not allowed in full.
 
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+Section 6255, added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1017, defined terms for former subchapter D and listed special rules.
 
-#### Prior Provisions
-A prior section 6245, added Pub. L. 97–354, § 4(a), Oct. 19, 1982, 96 Stat. 1692, defined “subchapter S item” for purposes of subchapter, prior to repeal by Pub. L. 104–188, title I, §§ 1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
+#### Amendments
+2018—Par. (2). Pub. L. 115–141, § 201(a), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘partnership adjustment’ means any adjustment in the amount of any item of income, gain, loss, deduction, or credit of a partnership, or any partner’s distributive share thereof.”
 
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Par. (5). Pub. L. 115–141, § 206(p)(7), substituted “section 6234” for “sections 6234”.
 
+Par. (9). Pub. L. 115–141, § 201(b)(1), added par. (9).
 
-<a id="section-6246"></a>
-## § 6246. Restrictions on partnership adjustments
-**(a) General rule** Except as otherwise provided in this chapter, no adjustment to any partnership item may be made (and no levy or proceeding in any court for the collection of any amount resulting from such adjustment may be made, begun or prosecuted) before—
+Par. (10). Pub. L. 115–141, § 206(c), added par. (10).
 
-(1) the close of the 90th day after the day on which a notice of a partnership adjustment was mailed to the partnership, and
+Par. (11). Pub. L. 115–141, § 206(l), added par. (11).
 
-(2) if a petition is filed under section 6247 with respect to such notice, the decision of the court has become final.
+Par. (12). Pub. L. 115–141, § 206(m), added par. (12).
 
-**(b) Premature action may be enjoined** Notwithstanding section 7421(a), any action which violates subsection (a) may be enjoined in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action under this subsection unless a timely petition has been filed under section 6247 and then only in respect of the adjustments that are the subject of such petition.
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
 
-**(c) Exceptions to restrictions on adjustments**
-
-(1) **Adjustments arising out of math or clerical errors**
-
-  (A) *In general* — If the partnership is notified that, on account of a mathematical or clerical error appearing on the partnership return, an adjustment to a partnership item is required, rules similar to the rules of paragraphs (1) and (2) of section 6213(b) shall apply to such adjustment.
-
-  (B) *Special rule* — If an electing large partnership is a partner in another electing large partnership, any adjustment on account of such partnership’s failure to comply with the requirements of section 6241(a) with respect to its interest in such other partnership shall be treated as an adjustment referred to in subparagraph (A), except that paragraph (2) of section 6213(b) shall not apply to such adjustment.
-
-(2) **Partnership may waive restrictions** — The partnership shall at any time (whether or not a notice of partnership adjustment has been issued) have the right, by a signed notice in writing filed with the Secretary, to waive the restrictions provided in subsection (a) on the making of any partnership adjustment.
-
-**(d) Limit where no proceeding begun** If no proceeding under section 6247 is begun with respect to any notice of a partnership adjustment during the 90-day period described in subsection (a), the amount for which the partnership is liable under section 6242 (and any increase in any partner’s liability for tax under chapter 1 by reason of any adjustment under section 6242(a)) shall not exceed the amount determined in accordance with such notice.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-
-<a id="section-6247"></a>
-## § 6247. Judicial review of partnership adjustment
-**(a) General rule** Within 90 days after the date on which a notice of a partnership adjustment is mailed to the partnership with respect to any partnership taxable year, the partnership may file a petition for a readjustment of the partnership items for such taxable year with—
-
-(1) the Tax Court,
-
-(2) the district court of the United States for the district in which the partnership’s principal place of business is located, or
-
-(3) the Claims Court.
-
-**(b) Jurisdictional requirement for bringing action in district court or Claims Court**
-
-(1) **In general** — A readjustment petition under this section may be filed in a district court of the United States or the Claims Court only if the partnership filing the petition deposits with the Secretary, on or before the date the petition is filed, the amount for which the partnership would be liable under section 6242(b) (as of the date of the filing of the petition) if the partnership items were adjusted as provided by the notice of partnership adjustment. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirement and any shortfall of the amount required to be deposited is timely corrected.
-
-(2) **Interest payable** — Any amount deposited under paragraph (1), while deposited, shall not be treated as a payment of tax for purposes of this title (other than chapter 67).
-
-**(c) Scope of judicial review** A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all partnership items of the partnership for the partnership taxable year to which the notice of partnership adjustment relates and the proper allocation of such items among the partners (and the applicability of any penalty, addition to tax, or additional amount for which the partnership may be liable under section 6242(b)).
-
-**(d) Determination of court reviewable** Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Claims Court, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court’s order entering the decision.
-
-**(e) Effect of decision dismissing action** If an action brought under this section is dismissed other than by reason of a rescission under section 6245(b)(3), the decision of the court dismissing the action shall be considered as its decision that the notice of partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-
-<a id="section-6248"></a>
-## § 6248. Period of limitations for making adjustments
-**(a) General rule** Except as otherwise provided in this section, no adjustment under this subpart to any partnership item for any partnership taxable year may be made after the date which is 3 years after the later of—
-
-(1) the date on which the partnership return for such taxable year was filed, or
-
-(2) the last day for filing such return for such year (determined without regard to extensions).
-
-**(b) Extension by agreement** The period described in subsection (a) (including an extension period under this subsection) may be extended by an agreement entered into by the Secretary and the partnership before the expiration of such period.
-
-**(c) Special rule in case of fraud, etc.**
-
-(1) **False return** — In the case of a false or fraudulent partnership return with intent to evade tax, the adjustment may be made at any time.
-
-(2) **Substantial omission of income** — If any partnership omits from gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in its return, subsection (a) shall be applied by substituting “6 years” for “3 years”.
-
-(3) **No return** — In the case of a failure by a partnership to file a return for any taxable year, the adjustment may be made at any time.
-
-(4) **Return filed by Secretary** — For purposes of this section, a return executed by the Secretary under subsection (b) of section 6020 on behalf of the partnership shall not be treated as a return of the partnership.
-
-**(d) Suspension when Secretary mails notice of adjustment** If notice of a partnership adjustment with respect to any taxable year is mailed to the partnership, the running of the period specified in subsection (a) (as modified by the other provisions of this section) shall be suspended—
-
-(1) for the period during which an action may be brought under section 6247 (and, if a petition is filed under section 6247 with respect to such notice, until the decision of the court becomes final), and
-
-(2) for 1 year thereafter.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-
-<a id="section-6251"></a>
-## § 6251. Administrative adjustment requests
-**(a) General rule** A partnership may file a request for an administrative adjustment of partnership items for any partnership taxable year at any time which is—
-
-(1) within 3 years after the later of—
-
-  (A) the date on which the partnership return for such year is filed, or
-
-  (B) the last day for filing the partnership return for such year (determined without regard to extensions), and
-
-(2) before the mailing to the partnership of a notice of a partnership adjustment with respect to such taxable year.
-
-**(b) Secretarial action** If a partnership files an administrative adjustment request under subsection (a), the Secretary may allow any part of the requested adjustments.
-
-**(c) Special rule in case of extension under section 6248** If the period described in section 6248(a) is extended pursuant to an agreement under section 6248(b), the period prescribed by subsection (a)(1) shall not expire before the date 6 months after the expiration of the extension under section 6248(b).
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-
-<a id="section-6252"></a>
-## § 6252. Judicial review where administrative adjustment request is not allowed in full
-**(a) In general** If any part of an administrative adjustment request filed under section 6251 is not allowed by the Secretary, the partnership may file a petition for an adjustment with respect to the partnership items to which such part of the request relates with—
-
-(1) the Tax Court,
-
-(2) the district court of the United States for the district in which the principal place of business of the partnership is located, or
-
-(3) the Claims Court.
-
-**(b) Period for filing petition** A petition may be filed under subsection (a) with respect to partnership items for a partnership taxable year only—
-
-(1) after the expiration of 6 months from the date of filing of the request under section 6251, and
-
-(2) before the date which is 2 years after the date of such request.
-The 2-year period set forth in paragraph (2) shall be extended for such period as may be agreed upon in writing by the partnership and the Secretary.
-
-**(c) Coordination with subpart A**
-
-(1) **Notice of partnership adjustment before filing of petition** — No petition may be filed under this section after the Secretary mails to the partnership a notice of a partnership adjustment for the partnership taxable year to which the request under section 6251 relates.
-
-(2) **Notice of partnership adjustment after filing but before hearing of petition** — If the Secretary mails to the partnership a notice of a partnership adjustment for the partnership taxable year to which the request under section 6251 relates after the filing of a petition under this subsection but before the hearing of such petition, such petition shall be treated as an action brought under section 6247 with respect to such notice, except that subsection (b) of section 6247 shall not apply.
-
-(3) **Notice must be before expiration of statute of limitations** — A notice of a partnership adjustment for the partnership taxable year shall be taken into account under paragraphs (1) and (2) only if such notice is mailed before the expiration of the period prescribed by section 6248 for making adjustments to partnership items for such taxable year.
-
-**(d) Scope of judicial review** Except in the case described in paragraph (2) of subsection (c), a court with which a petition is filed in accordance with this section shall have jurisdiction to determine only those partnership items to which the part of the request under section 6251 not allowed by the Secretary relates and those items with respect to which the Secretary asserts adjustments as offsets to the adjustments requested by the partnership.
-
-**(e) Determination of court reviewable** Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Claims Court, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court’s order entering the decision.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
-
-
-<a id="section-6255"></a>
-## § 6255. Definitions and special rules
-**(a) Definitions** For purposes of this subchapter—
-
-(1) **Electing large partnership** — The term “electing large partnership” has the meaning given to such term by section 775.
-
-(2) **Partnership item** — The term “partnership item” has the meaning given to such term by section 6231(a)(3).
-
-**(b) Partners bound by actions of partnership, etc.**
-
-(1) **Designation of partner** — Each electing large partnership shall designate (in the manner prescribed by the Secretary) a partner (or other person) who shall have the sole authority to act on behalf of such partnership under this subchapter. In any case in which such a designation is not in effect, the Secretary may select any partner as the partner with such authority.
-
-(2) **Binding effect** — An electing large partnership and all partners of such partnership shall be bound—
-
-  (A) by actions taken under this subchapter by the partnership, and
-
-  (B) by any decision in a proceeding brought under this subchapter.
-
-**(c) Partnerships having principal place of business outside the United States** For purposes of sections 6247 and 6252, a principal place of business located outside the United States shall be treated as located in the District of Columbia.
-
-**(d) Treatment where partnership ceases to exist** If a partnership ceases to exist before a partnership adjustment under this subchapter takes effect, such adjustment shall be taken into account by the former partners of such partnership under regulations prescribed by the Secretary.
-
-**(e) Date decision becomes final** For purposes of this subchapter, the principles of section 7481(a) shall be applied in determining the date on which a decision of a district court or the Claims Court becomes final.
-
-**(f) Partnerships in cases under title 11 of the United States Code**
-
-(1) **Suspension of period of limitations on making adjustment, assessment, or collection** — The running of any period of limitations provided in this subchapter on making a partnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any amount required to be paid under section 6242) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—
-
-  (A) for adjustment or assessment, 60 days thereafter, and
-
-  (B) for collection, 6 months thereafter.
-  A rule similar to the rule of section 6213(f)(2) shall apply for purposes of section 6246.
-
-(2) **Suspension of period of limitation for filing for judicial review** — The running of the period specified in section 6247(a) or 6252(b) shall, in a case under title 11 of the United States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6247 or 6252 and for 60 days thereafter.
-
-**(g) Regulations** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subchapter, including regulations—
-
-(1) to prevent abuse through manipulation of the provisions of this subchapter, and
-
-(2) providing that this subchapter shall not apply to any case described in section 6231(c)(1) (or the regulations prescribed thereunder) where the application of this subchapter to such a case would interfere with the effective and efficient enforcement of this title.
-In any case to which this subchapter does not apply by reason of paragraph (2), rules similar to the rules of sections 6229(f) and 6255(f) shall apply.
-
-### Statutory Notes
-
-#### Repeal of Section
-Pub. L. 114–74, title XI, § 1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
-
-#### Effective Date of Repeal
-Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+#### Effective Date
+Section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).

@@ -97,7 +97,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 (2) empower the agency to dispose of those records in accordance with regulations promulgated under [section 3302 of this title](./chapter-033-disposal-of-records.md#section-3302).
 
-**(b)** Authorizations granted under lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303), and schedules promulgated by the Archivist under subsection (d) of this section, shall be mandatory, subject to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2909). As between an authorization granted under lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303) and an authorization contained in a schedule promulgated under subsection (d) of this section, application of the authorization providing for the shorter retention period shall be required, subject to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2909).
+**(b)** Authorizations granted under lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303), and schedules promulgated by the Archivist under subsection (d) of this section, shall be mandatory, subject to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2909). As between an authorization granted under lists and schedules submitted to the Archivist under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303) and an authorization contained in a schedule promulgated under subsection (d) of this section, application of the authorization providing for the shorter retention period shall be required, subject to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2909).
 
 **(c)** The Archivist may request advice and counsel from the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate with respect to the disposal of any particular records under this chapter whenever the Archivist considers that—
 
@@ -125,7 +125,7 @@ Subsec. (e). Pub. L. 113–187, § 8(13)(C), substituted “the Archivist’s”
 
 Subsec. (f). Pub. L. 113–187, § 8(13)(D), substituted “the Archivist considers” for “he considers”.
 
-2004—Subsec. (d). Pub. L. 108–383 struck out at end “A Federal agency may request changes in such schedules for its records pursuant to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2909).”
+2004—Subsec. (d). Pub. L. 108–383 struck out at end “A Federal agency may request changes in such schedules for its records pursuant to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2909).”
 
 1996—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
@@ -139,7 +139,7 @@ Subsecs. (b) to (f). Pub. L. 98–497, § 107(b)(24)(B), substituted “Archivis
 
 1978—Subsec. (b). Pub. L. 95–440, § 1(a), made schedules promulgated by Administrator under subsec. (d) of this section mandatory; inserted provision for application of authorization providing for shorter retention period as between an authorization granted under lists and schedules submitted under [section 3303 of this title](./chapter-033-disposal-of-records.md#section-3303) and an authorization in a schedule promulgated under subsec. (d) of this section; and struck out provision making permissive authorizations granted under subsec. (d) schedules.
 
-Subsec. (d). Pub. L. 95–440, § 1(b), (c), substituted “shall” for “may” in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states.md#section-2909).
+Subsec. (d). Pub. L. 95–440, § 1(b), (c), substituted “shall” for “may” in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to [section 2909 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2909).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).

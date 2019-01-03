@@ -314,7 +314,7 @@ The protection authorized in paragraphs (2) through (8) may be declined.
 
   (B) the criteria and information used in making each designation.
 
-**(f)** Under the direction of the Secretary of Homeland Security, the Secret Service is authorized, at the request of any State or local law enforcement agency, or at the request of the National Center for Missing and Exploited Children, to provide forensic and investigative assistance in support of any investigation involving missing or exploited children.
+**(f)** Under the direction of the Secretary of Homeland Security, the Secret Service is authorized, at the request of any State or local law enforcement agency in conjunction with an investigation, or at the request of the National Center for Missing and Exploited Children, to provide forensic and investigative assistance.
 
 **(g)** The United States Secret Service shall be maintained as a distinct entity within the Department of Homeland Security and shall not be merged with any other Department function. No personnel and operational elements of the United States Secret Service shall report to an individual other than the Director of the United States Secret Service, who shall report directly to the Secretary of Homeland Security without being required to report through any other official of the Department.
 
@@ -341,6 +341,8 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92
 [Section 216 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-216), referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, § 1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–393 inserted “in conjunction with an investigation” after “local law enforcement agency” and struck out before period at end “in support of any investigation involving missing or exploited children”.
+
 2013—Subsec. (a)(3). Pub. L. 112–257, § 2(a), struck out provisions limiting protection for certain former Presidents and their spouses to ten years from the date a former President leaves office, with certain exceptions, and authorizing the provision of temporary protection if determined to be warranted by the Secretary of Homeland Security.
 
 Subsec. (a)(4). Pub. L. 112–257, § 2(b), struck out “for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first” after “16 years of age”.

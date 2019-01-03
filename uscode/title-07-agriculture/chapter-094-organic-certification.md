@@ -2,7 +2,7 @@
 title: 7
 chapter: '94'
 heading: ORGANIC CERTIFICATION
-section_count: 24
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -32,7 +32,15 @@ As used in this chapter:
 
 (2) **Botanical pesticides** — The term “botanical pesticides” means natural pesticides derived from plants.
 
-(3) **Certifying agent** — The term “certifying agent” means the chief executive officer of a State or, in the case of a State that provides for the Statewide election of an official to be responsible solely for the administration of the agricultural operations of the State, such official, and any person (including private entities) who is accredited by the Secretary as a certifying agent for the purpose of certifying a farm or handling operation as a certified organic farm or handling operation in accordance with this chapter.
+(3) **Certifying agent**
+
+  (A) *In general* — The term “certifying agent” means the chief executive officer of a State or, in the case of a State that provides for the Statewide election of an official to be responsible solely for the administration of the agricultural operations of the State, such official, and any person (including private entities) who is accredited by the Secretary as a certifying agent for the purpose of certifying a farm or handling operation as a certified organic farm or handling operation in accordance with this chapter.
+
+  (B) *Foreign operations* — When used in the context of a certifying agent operating in a foreign country, the term “certifying agent” includes any person (including a private entity)—
+
+    (i) accredited in accordance with [section 6514(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6514/d&num=0&edition=prelim); or
+
+    (ii) accredited by a foreign government that acted under an equivalency agreement negotiated between the United States and the foreign government from which the agricultural product is imported.
 
 (4) **Certified organic farm** — The term “certified organic farm” means a farm, or portion of a farm, or site where agricultural products or livestock are produced, that is certified by the certifying agent under this chapter as utilizing a system of organic farming as described by this chapter.
 
@@ -56,28 +64,53 @@ As used in this chapter:
 
 (12) **National List** — The term “National List” means a list of approved and prohibited substances as provided for in [section 6517 of this title](./chapter-094-organic-certification.md#section-6517).
 
-(13) **Organic plan** — The term “organic plan” means a plan of management of an organic farming or handling operation that has been agreed to by the producer or handler and the certifying agent and that includes written plans concerning all aspects of agricultural production or handling described in this chapter including crop rotation and other practices as required under this chapter.
+(13) **National organic program import certificate** — The term “national organic program import certificate” means a form developed for purposes of the program under this chapter—
 
-(14) **Organically produced** — The term “organically produced” means an agricultural product that is produced and handled in accordance with this chapter.
+  (A) to provide documentation sufficient to verify that an agricultural product imported for sale in the United States satisfies the requirement under [section 6514(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6514/c&num=0&edition=prelim);
 
-(15) **Person** — The term “person” means an individual, group of individuals, corporation, association, organization, cooperative, or other entity.
+  (B) which shall include, at a minimum, information sufficient to indicate, with respect to the agricultural product—
 
-(16) **Pesticide** — The term “pesticide” means any substance which alone, in chemical combination, or in any formulation with one or more substances, is defined as a pesticide in the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) et seq.).
+    (i) the origin;
 
-(17) **Processing** — The term “processing” means cooking, baking, heating, drying, mixing, grinding, churning, separating, extracting, cutting, fermenting, eviscerating, preserving, dehydrating, freezing, or otherwise manufacturing, and includes the packaging, canning, jarring, or otherwise enclosing food in a container.
+    (ii) the destination;
 
-(18) **Producer** — The term “producer” means a person who engages in the business of growing or producing food or feed.
+    (iii) the certifying agent issuing the national organic program import certificate;
 
-(19) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+    (iv) the harmonized tariff code, if a harmonized tariff code exists for the agricultural product;
 
-(20) **State organic certification program** — The term “State organic certification program” means a program that meets the requirements of [section 6506 of this title](./chapter-094-organic-certification.md#section-6506), is approved by the Secretary, and that is designed to ensure that a product that is sold or labeled as “organically produced” under this chapter is produced and handled using organic methods.
+    (v) the total weight; and
 
-(21) **Synthetic** — The term “synthetic” means a substance that is formulated or manufactured by a chemical process or by a process that chemically changes a substance extracted from naturally occurring plant, animal, or mineral sources, except that such term shall not apply to substances created by naturally occurring biological processes.
+    (vi) the organic standard to which the agricultural product is certified; and
+
+  (C) that is not more than otherwise required under an equivalency agreement negotiated between the United States and the foreign government.
+
+(14) **Organic plan** — The term “organic plan” means a plan of management of an organic farming or handling operation that has been agreed to by the producer or handler and the certifying agent and that includes written plans concerning all aspects of agricultural production or handling described in this chapter including crop rotation and other practices as required under this chapter.
+
+(15) **Organically produced** — The term “organically produced” means an agricultural product that is produced and handled in accordance with this chapter.
+
+(16) **Person** — The term “person” means an individual, group of individuals, corporation, association, organization, cooperative, or other entity.
+
+(17) **Pesticide** — The term “pesticide” means any substance which alone, in chemical combination, or in any formulation with one or more substances, is defined as a pesticide in the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) et seq.).
+
+(18) **Processing** — The term “processing” means cooking, baking, heating, drying, mixing, grinding, churning, separating, extracting, cutting, fermenting, eviscerating, preserving, dehydrating, freezing, or otherwise manufacturing, and includes the packaging, canning, jarring, or otherwise enclosing food in a container.
+
+(19) **Producer** — The term “producer” means a person who engages in the business of growing or producing food or feed.
+
+(20) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(21) **State organic certification program** — The term “State organic certification program” means a program that meets the requirements of [section 6506 of this title](./chapter-094-organic-certification.md#section-6506), is approved by the Secretary, and that is designed to ensure that a product that is sold or labeled as “organically produced” under this chapter is produced and handled using organic methods.
+
+(22) **Synthetic** — The term “synthetic” means a substance that is formulated or manufactured by a chemical process or by a process that chemically changes a substance extracted from naturally occurring plant, animal, or mineral sources, except that such term shall not apply to substances created by naturally occurring biological processes.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (16), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (17), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) and Tables.
+
+#### Amendments
+2018—Par. (3). Pub. L. 115–334, § 10104(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Pars. (13) to (22). Pub. L. 115–334, § 10104(b)(2), (3), added par. (13) and redesignated former pars. (13) to (21) as (14) to (22), respectively.
 
 
 <a id="section-6503"></a>
@@ -89,6 +122,11 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (16
 **(c) Consultation** In developing the program under subsection (a), and the National List under [section 6517 of this title](./chapter-094-organic-certification.md#section-6517), the Secretary shall consult with the National Organic Standards Board established under [section 6518 of this title](./chapter-094-organic-certification.md#section-6518).
 
 **(d) Certification** The Secretary shall implement the program established under subsection (a) through certifying agents. Such certifying agents may certify a farm or handling operation that meets the requirements of this chapter and the requirements of the organic certification program of the State (if applicable) as an organically certified farm or handling operation.
+
+### Statutory Notes
+
+#### Exclusions From Organic Certification
+Pub. L. 115–334, title X, § 10104(a), Dec. 20, 2018, 132 Stat. 4899, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 20, 2018], the Secretary [of Agriculture] shall issue regulations to limit the type of organic operations that are excluded from certification under section 205.101 of title 7, Code of Federal Regulations, and from certification under any other related sections under part 205 of title 7, Code of Federal Regulations.”
 
 
 <a id="section-6504"></a>
@@ -438,7 +476,30 @@ If a production or handling practice is not prohibited or otherwise restricted u
 
 (3) comply with the requirements of this section and [section 6515 of this title](./chapter-094-organic-certification.md#section-6515).
 
-**(c) Duration of designation** An accreditation made under this section shall be for a period of not to exceed 5 years, as determined appropriate by the Secretary, and may be renewed.
+**(c) Additional documentation and verification** The Secretary, acting through the Deputy Administrator of the national organic program established under this chapter, has the authority, and shall grant a certifying agent the authority, to require producers and handlers to provide additional documentation or verification before granting a certification under [section 6503 of this title](./chapter-094-organic-certification.md#section-6503), in the case of a compliance risk with respect to meeting the national standards for organic production established under [section 6504 of this title](./chapter-094-organic-certification.md#section-6504), as determined by the Secretary or the certifying agent.
+
+**(d) Accreditation of Foreign organic certification program**
+
+(1) **In general** — For an agricultural product being imported into the United States to be represented as organically produced, the Secretary shall require the agricultural product to be accompanied by a complete and valid national organic import certificate, which shall be available as an electronic record.
+
+(2) **Tracking system**
+
+  (A) *In general* — The Secretary shall establish a system to track national organic import certificates.
+
+  (B) *Integration* — In establishing the system under subparagraph (A), the Secretary may integrate the system into any existing information tracking systems for imports of agricultural products.
+
+**(e) Duration of accreditation** An accreditation made under this section—
+
+(1) subject to paragraph (2), shall be for a period of not more than 5 years, as determined appropriate by the Secretary;
+
+(2) in the case of a certifying agent operating in a foreign country, shall be for a period of time that is consistent with the certification of a domestic certifying agent, as determined appropriate by the Secretary; and
+
+(3) may be renewed.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsecs. (c) to (e). Pub. L. 115–334 added subsecs. (c) to (e) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “An accreditation made under this section shall be for a period of not to exceed 5 years, as determined appropriate by the Secretary, and may be renewed.”
 
 
 <a id="section-6515"></a>
@@ -475,14 +536,32 @@ If a production or handling practice is not prohibited or otherwise restricted u
 
 **(i) Loss of accreditation**
 
-(1) **Noncompliance** — If the Secretary or the governing State official (if applicable) determines that a certifying agent is not properly adhering to the provisions of this chapter, the Secretary or such governing State official may suspend such certifying agent’s accreditation.
+(1) **Noncompliance** — If the Secretary or the governing State official (if applicable) determines that a certifying agent or an entity acting as an agent of the certifying agent is not properly adhering to the provisions of this chapter, the Secretary or such governing State official may suspend such certifying agent’s accreditation.
 
-(2) **Effect on certified operations** — If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
+(2) **Oversight of certifying offices and foreign operations**
+
+  (A) *In general* — If the Secretary determines that an office of a certifying agent or entity described in paragraph (1) is not complying with the provisions of this chapter, the Secretary may suspend the operations of the certifying agent or the noncompliant office, including—
+
+    (i) an office operating in a foreign country; and
+
+    (ii) an office operating in the United States, including an office acting on behalf of a foreign-domiciled entity.
+
+  (B) *Process for resuming operations following suspension* — The Secretary shall provide for a process that is otherwise consistent with this section that authorizes a suspended office to resume operations.
+
+(3) **Effect on certified operations** — If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
+
+**(j) Notice** Not later than 90 days after the date on which a new certifying office performing certification activities opens, an accredited certifying agent shall notify the Secretary of the opening.
 
 ### Statutory Notes
 
 #### Amendments
-2014—Subsecs. (c) to (i). Pub. L. 113–79 redesignated subsecs. (d) to (j) as (c) to (i), respectively, substituted “subsection (c)” for “subsection (d)” in introductory provisions of subsec. (d), and struck out former subsec. (c) which related to maintenance of, access to, and transference of records of certifying agents.
+2018—Subsec. (i)(1). Pub. L. 115–334, § 10104(d)(1)(A), inserted “or an entity acting as an agent of the certifying agent” after “a certifying agent”.
+
+Subsec. (i)(2), (3). Pub. L. 115–334, § 10104(d)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (j). Pub. L. 115–334, § 10104(d)(2), added subsec. (j).
+
+2014—Subsecs. (c) to (j). Pub. L. 113–79 redesignated subsecs. (d) to (j) as (c) to (i), respectively, substituted “subsection (c)” for “subsection (d)” in introductory provisions of subsec. (d), and struck out former subsec. (c) which related to maintenance of, access to, and transference of records of certifying agents.
 
 1991—Subsec. (j)(2). Pub. L. 102–237 substituted “such certifying” for “certifying such”.
 
@@ -564,11 +643,11 @@ Subsec. (d)(6). Pub. L. 109–97, § 797(b)(2), added par. (6).
 
 **(b) Composition of Board** The Board shall be composed of 15 members, of which—
 
-(1) four shall be individuals who own or operate an organic farming operation;
+(1) four shall be individuals who own or operate an organic farming operation, or employees of such individuals;
 
-(2) two shall be individuals who own or operate an organic handling operation;
+(2) two shall be individuals who own or operate an organic handling operation, or employees of such individuals;
 
-(3) one shall be an individual who owns or operates a retail establishment with significant trade in organic products;
+(3) one shall be an individual who owns or operates a retail establishment with significant trade in organic products, or an employee of such individual;
 
 (4) three shall be individuals with expertise in areas of environmental protection and resource conservation;
 
@@ -590,7 +669,11 @@ Subsec. (d)(6). Pub. L. 109–97, § 797(b)(2), added par. (6).
 
 **(h) Quorum** A majority of the members of the Board shall constitute a quorum for the purpose of conducting business.
 
-**(i) Decisive votes** Two-thirds of the votes cast at a meeting of the Board at which a quorum is present shall be decisive of any motion.
+**(i) Decisive votes**
+
+(1) **In general** — ⅔ of the votes cast at a meeting of the Board at which a quorum is present shall be decisive of any motion.
+
+(2) **National list** — Any vote on a motion proposing to amend the national list shall be considered to be a decisive vote that requires ⅔ of the votes cast at a meeting of the Board at which a quorum is present to prevail.
 
 **(j) Other terms and conditions** The Secretary shall authorize the Board to hire a staff director and shall detail staff of the Department of Agriculture or allow for the hiring of staff and may, subject to necessary appropriations, pay necessary expenses incurred by such Board in carrying out the provisions of this chapter, as determined appropriate by the Secretary.
 
@@ -642,6 +725,14 @@ Subsec. (d)(6). Pub. L. 109–97, § 797(b)(2), added par. (6).
 The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–334, § 10104(e)(1), inserted “, or employees of such individuals” after “operation”.
+
+Subsec. (b)(2). Pub. L. 115–334, § 10104(e)(2), inserted “, or employees of such individuals” after “operation”.
+
+Subsec. (b)(3). Pub. L. 115–334, § 10104(e)(3), inserted “, or an employee of such individual” after “products”.
+
+Subsec. (i). Pub. L. 115–334, § 10104(f), designated existing provisions as par. (1), inserted heading, substituted “⅔” for “Two-thirds”, and added par. (2).
+
 1991—Subsec. (a). Pub. L. 102–237 substituted “to assist” for “(to assist”.
 
 
@@ -699,6 +790,8 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
   (E) require the production of any records required to be maintained under this chapter that are relevant to an investigation.
 
+(3) **Information sharing during active investigation** — In carrying out this chapter, all parties to an active investigation (including certifying agents, State organic certification programs, and the national organic program) shall share confidential business information with Federal Government officers and employees involved in the investigation as necessary to fully investigate and enforce potential violations of this chapter.
+
 **(c) Violations of chapter**
 
 (1) **Misuse of label** — Any person who knowingly sells or labels a product as organic, except in accordance with this chapter, shall be subject to a civil penalty of not more than $10,000.
@@ -755,6 +848,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(6)(B), is a
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (c)(6)(C), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) and Tables.
 
 #### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–334 added par. (3).
+
 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to violations under this chapter.
 
 1991—Subsec. (f). Pub. L. 102–237 inserted comma after “601 et seq.)”.
@@ -786,12 +881,24 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 
 (2) **Financial assistance** — The Secretary may provide financial assistance to any State that implements an organic certification program under this chapter.
 
+**(c) Access to data documentation systems** The Secretary shall have access to available data from cross-border documentation systems administered by other Federal agencies, including the Automated Commercial Environment system of U.S. Customs and Border Protection.
+
+**(d) Reports**
+
+(1) **In general** — Not later than March 1, 2020, and annually thereafter through March 1, 2023, the Secretary shall submit to Congress, and make publicly available on the website of the Department of Agriculture, a report describing national organic program activities with respect to all domestic and overseas investigations and compliance actions taken pursuant to this chapter during the preceding year.
+
+(2) **Requirements** — The data described in paragraph (1) shall be broken down by agricultural product, quantity, value, and month.
+
+(3) **Exception** — Any data determined by the Secretary to be confidential business information shall not be provided in the report under paragraph (1).
+
 ### Statutory Notes
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsecs. (c), (d). Pub. L. 115–334 added subsecs. (c) and (d).
+
 2008—Subsec. (b)(1). Pub. L. 110–246, § 7511(c)(24), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
 #### Effective Date of 2008 Amendment
@@ -800,31 +907,133 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Amendment by section 7511(c)(24) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under [section 1522 of this title](./chapter-036-crop-insurance.md#section-1522).
 
 
+<a id="section-6521a"></a>
+## § 6521a. Organic agricultural product imports interagency working group
+**(a) Establishment**
+
+(1) **In general** — The Secretary and the Secretary of Homeland Security shall jointly establish a working group to facilitate coordination and information sharing between the Department of Agriculture and U.S. Customs and Border Protection relating to imports of organically produced agricultural products (referred to in this section as the “working group”).
+
+(2) **Members** — The working group—
+
+  (A) shall include—
+
+    (i) the Secretary (or a designee); and
+
+    (ii) the Secretary of Homeland Security (or a designee); and
+
+  (B) shall not include any non-Federal officer or employee.
+
+(3) **Duties** — The working group shall facilitate coordination and information sharing between the Department of Agriculture and U.S. Customs and Border Protection for the purposes of—
+
+  (A) identifying imports of organically produced agricultural products;
+
+  (B) verifying the authenticity of organically produced agricultural product import documentation, such as national organic program import certificates;
+
+  (C) ensuring imported agricultural products represented as organically produced meet the requirements under this chapter;
+
+  (D) collecting and organizing quantitative data on imports of organically produced agricultural products; and
+
+  (E) requesting feedback from stakeholders on how to improve the oversight of imports of organically produced agricultural products.
+
+(4) **Designated employees and officials** — An employee or official designated to carry out the duties of the Secretary or the Secretary of Homeland Security on the working group under subparagraph (A) or (B) of paragraph (2) shall be an employee or official compensated at a rate of pay not less than the minimum annual rate of basic pay for GS–12 under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+
+**(b) Reports** On an annual basis, the working group shall submit to Congress and make publicly available on the websites of the Department of Agriculture and U.S. Customs and Border Protection the following reports:
+
+(1) **Organic trade enforcement interagency coordination report** — A report—
+
+  (A) identifying existing barriers to cooperation between the agencies involved in agricultural product import inspection, trade data collection and organization, and organically produced agricultural product trade enforcement, including—
+
+    (i) U.S. Customs and Border Protection;
+
+    (ii) the Agricultural Marketing Service; and
+
+    (iii) the Animal and Plant Health Inspection Service;
+
+  (B) assessing progress toward integrating organic trade enforcement into import inspection procedures of U.S. Customs and Border Protection and the Animal and Plant Health Inspection Service, including an assessment of—
+
+    (i) the status of the development of systems for—
+
+      (I) tracking the fumigation of imports of organically produced agricultural products into the United States; and
+
+      (II) electronically verifying national organic program import certificate authenticity; and
+
+    (ii) training of U.S. Customs and Border Protection personnel on—
+
+      (I) the use of the systems described in clause (i); and
+
+      (II) requirements and protocols under this chapter;
+
+  (C) establishing methodology for ensuring imports of agricultural products represented as organically produced meet the requirements under this chapter;
+
+  (D) recommending steps to improve the documentation and traceability of imported organically produced agricultural products;
+
+  (E) recommending and describing steps for—
+
+    (i) improving compliance with the requirements of this chapter for all agricultural products imported into the United States and represented as organically produced; and
+
+    (ii) ensuring accurate labeling and marketing of imported agricultural products represented as organically produced by the exporter; and
+
+  (F) describing staffing needs and additional resources at U.S. Customs and Border Protection and the Department of Agriculture needed to ensure compliance.
+
+(2) **Report on enforcement actions taken on organic imports** — A report—
+
+  (A) providing detailed quantitative data (broken down by agricultural product, quantity, value, month, and origin) on imports of agricultural products represented as organically produced found to be fraudulent or lacking any documentation required under this chapter at the port of entry during the report year;
+
+  (B) providing data on domestic enforcement actions taken on imported agricultural products represented as organically produced, including the number and type of actions taken by United States officials at ports of entry in response to violations of this chapter;
+
+  (C) providing data on fumigation of agricultural products represented as organically produced at ports of entry and notifications of fumigation actions to shipment owners, broken down by product variety and country of origin; and
+
+  (D) providing information on enforcement activities under this chapter involving overseas investigations and compliance actions taken within that year, including—
+
+    (i) the number of investigations by country; and
+
+    (ii) a descriptive summary of compliance actions taken by certifying agents in each country.
+
+### Statutory Notes
+
+#### Trade Savings Provision
+Pub. L. 115–334, title X, § 10104(k), Dec. 20, 2018, 132 Stat. 4905, provided that: “The amendments made by subsection (i) [enacting this section] shall be carried out in a manner consistent with United States obligations under international agreements.”
+
+
 <a id="section-6522"></a>
-## § 6522. Authorization of appropriations
+## § 6522. Funding
 **(a) In general** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this chapter.
 
 **(b) National organic program** Notwithstanding any other provision of law, in order to carry out activities under the national organic program established under this chapter, there are authorized to be appropriated—
 
-(1) $5,000,000 for fiscal year 2008;
+(1) $15,000,000 for fiscal year 2018;
 
-(2) $6,500,000 for fiscal year 2009;
+(2) $16,500,000 for fiscal year 2019;
 
-(3) $8,000,000 for fiscal year 2010;
+(3) $18,000,000 for fiscal year 2020;
 
-(4) $9,500,000 for fiscal year 2011;
+(4) $20,000,000 for fiscal year 2021;
 
-(5) $11,000,000 for fiscal year 2012;
+(5) $22,000,000 for fiscal year 2022; and
 
-(6) $15,000,000 for each of fiscal years 2014 through 2018; and
+(6) $24,000,000 for fiscal year 2023.
 
-(7) in addition to those amounts, such additional sums as are necessary for fiscal year 2009 and each fiscal year thereafter.
+**(c) Modernization and improvement of international trade technology systems and data collection**
 
-**(c) Modernization and technology upgrade for national organic program**
+(1) **In general** — The Secretary shall establish a new system or modify an existing data collection and organization system to collect and organize in a single system quantitative data on imports of each organically produced agricultural product accepted into the United States.
 
-(1) **In general** — The Secretary shall modernize database and technology systems of the national organic program.
+(2) **Activities** — In carrying out paragraph (1), the Secretary shall modernize trade and transaction certificates to ensure full traceability to the port of entry without unduly hindering trade or commerce, such as through an electronic trade document exchange system.
 
-(2) **Funding** — Of the funds of the Commodity Credit Corporation and in addition to any other funds made available for that purpose, the Secretary shall make available to carry out this subsection $5,000,000 for fiscal year 2014, to remain available until expended.
+(3) **Access** — The single system established under paragraph (1) shall be accessible by any agency with the direct authority to engage in—
+
+  (A) inspection of imports of agricultural products;
+
+  (B) trade data collection and organization; or
+
+  (C) enforcement of trade requirements for organically produced agricultural products.
+
+(4) **Funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall make available $5,000,000 for fiscal year 2019 for the purposes of—
+
+  (A) carrying out this subsection; and
+
+  (B) maintaining the database and technology upgrades previously carried out under this subsection, as in effect on the day before December 20, 2018.
+
+(5) **Availability** — The amounts made available under paragraph (4) are in addition to any other funds made available for the purposes described in that paragraph and shall remain available until expended.
 
 ### Statutory Notes
 
@@ -832,6 +1041,12 @@ Amendment by section 7511(c)(24) of Pub. L. 110–246 effective Oct. 1, 2009, se
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334, § 10104(j)(1), substituted “Funding” for “Authorization of appropriations” in section catchline.
+
+Subsec. (b)(1) to (7). Pub. L. 115–334, § 10104(j)(2), added pars. (1) to (6) and struck out former pars. (1) to (7) which related to amounts for fiscal years 2008 to 2018 and additional sums necessary for fiscal year 2009 and each fiscal year thereafter.
+
+Subsec. (c). Pub. L. 115–334, § 10104(j)(3), added subsec. (c) and struck out former subsec. (c) which related to modernization and technology upgrade for national organic program.
+
 2014—Subsec. (b)(6), (7). Pub. L. 113–79, § 10004(b)(1), added par. (6) and redesignated former par. (6) as (7).
 
 Subsec. (c). Pub. L. 113–79, § 10004(b)(2), added subsec. (c).
@@ -844,7 +1059,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 <a id="section-6523"></a>
 ## § 6523. National organic certification cost-share program
-**(a) In general** The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall establish a national organic certification cost-share program to assist producers and handlers of agricultural products in obtaining certification under the national organic production program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](./chapter-094-organic-certification.md#section-6501) et seq.).
+**(a) In general** The Secretary of Agriculture shall establish a national organic certification cost-share program to assist producers and handlers of agricultural products in obtaining certification under the national organic production program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](./chapter-094-organic-certification.md#section-6501) et seq.).
 
 **(b) Federal share**
 
@@ -854,11 +1069,17 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(c) Reporting** Not later than March 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the requests by, disbursements to, and expenditures for each State under the program during the current and previous fiscal year, including the number of producers and handlers served by the program in the previous fiscal year.
 
-**(d) Funding**
+**(d) Mandatory funding**
 
-(1) **Mandatory funding for fiscal years 2014 through 2018** — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $11,500,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+(1) **In general** — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
 
-(2) **Fiscal year 2013** — There is authorized to be appropriated to carry out this section $22,000,000 for fiscal year 2013, to remain available until expended.
+  (A) $2,000,000 for each of fiscal years 2019 and 2020;
+
+  (B) $4,000,000 for fiscal year 2021; and
+
+  (C) $8,000,000 for each of fiscal years 2022 and 2023.
+
+(2) **Availability** — Amounts made available under paragraph (1) shall remain available until expended.
 
 ### Statutory Notes
 
@@ -871,6 +1092,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Organic Foods Production Act of 1990 which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 10105(a), struck out “(acting through the Agricultural Marketing Service)” after “Secretary of Agriculture”.
+
+Subsec. (d). Pub. L. 115–334, § 10105(b), added subsec. (d) and struck out former subsec. (d) which related to funding to carry out this section for fiscal years 2013 to 2018.
+
 2014—Subsec. (d)(1). Pub. L. 113–79 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012.”
 
 2013—Subsec. (a). Pub. L. 112–240, § 701(g)(3)(A), substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”.

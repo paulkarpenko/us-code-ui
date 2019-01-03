@@ -234,7 +234,7 @@ Section 85, act Mar. 3, 1921, ch. 128, § 6, 41 Stat. 1352, authorized Secretary
 ### Statutory Notes
 
 #### Codification
-Sections 86 to 88, act Feb. 15, 1936, ch. 74, §§ 1–3, 49 Stat. 1140, related to conservation of domestic sources of tin, and were superseded by the Export Control Act of 1949 (former sections 2021 to 2032 of the former Appendix to this title) pursuant to section 10 of that Act (former section 2030 of the former Appendix to this title). The act of Feb. 15, 1936 was subsequently superseded by the Export Administration Act of 1969 (former sections 2401 to 2413 of the former Appendix to this title) pursuant to section 12 of that Act (former section 2411 of the former Appendix to this title). See, also, the Export Administration Act of 1979, which is classified principally to chapter 56 (§ 4601 et seq.) of this title.
+Sections 86 to 88, act Feb. 15, 1936, ch. 74, §§ 1–3, 49 Stat. 1140, related to conservation of domestic sources of tin, and were superseded by the Export Control Act of 1949 (former sections 2021 to 2032 of the former Appendix to this title) pursuant to section 10 of that Act (former section 2030 of the former Appendix to this title). The act of Feb. 15, 1936 was subsequently superseded by the Export Administration Act of 1969 (former sections 2401 to 2413 of the former Appendix to this title) pursuant to section 12 of that Act (former section 2411 of the former Appendix to this title). See, also, the Export Control Reform Act of 2018, which is classified principally to chapter 58 (§ 4801 et seq.) of this title.
 
 Section 86, act Feb. 15, 1936, ch. 74, § 1, 49 Stat. 1140, related to conservation of domestic resources of tin.
 
@@ -504,6 +504,8 @@ Pub. L. 99–145, title XVI, § 1612, Nov. 8, 1985, 99 Stat. 776, as amended by 
 
 #### Materials in the National Defense Stockpile
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
+
+Pub. L. 115–91, div. A, title XIV, § 1414, Dec. 12, 2017, 131 Stat. 1708.
 
 Pub. L. 114–328, div. A, title XIV, § 1411, Dec. 23, 2016, 130 Stat. 2569.
 
@@ -901,7 +903,7 @@ Pub. L. 102–484, div. C, title XXXIII, § 3306, Oct. 23, 1992, 106 Stat. 2652,
 
 <a id="section-98h-2"></a>
 ## § 98h–2. Reports to Congress
-**(a)** Not later than January 15 of each year, the President shall submit to the Congress an annual written report detailing operations under this subchapter. Each such report shall include—
+**(a)** Not later than February 15 of each year, the President shall submit to the Congress an annual written report detailing operations under this subchapter. Each such report shall include—
 
 (1) information with respect to foreign and domestic purchases of materials during the preceding fiscal year;
 
@@ -917,9 +919,9 @@ Pub. L. 102–484, div. C, title XXXIII, § 3306, Oct. 23, 1992, 106 Stat. 2652,
 
 **(b)**
 
-(1) Not later than February 15 of each year, the President shall submit to the appropriate committees of the Congress a report containing an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years.
+(1) Each report under subsection (a) shall also include an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years.
 
-(2) Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under [section 98h(b)(2)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h/b/2/H&num=0&edition=prelim) during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
+(2) With respect to the plan described in paragraph (1), each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. With respect to such plan, each report shall also contain details regarding the materials development and research projects to be conducted under [section 98h(b)(2)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h/b/2/H&num=0&edition=prelim) during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
 
 (3) Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to [section 98d(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/a/2&num=0&edition=prelim), that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with [section 98d(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/a/2&num=0&edition=prelim), as appropriate.
 
@@ -931,6 +933,12 @@ A prior section 11 of act June 7, 1939, ch. 190, formerly § 10, as added July 2
 Provisions similar to those in this section were contained in former [section 98c of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98c) prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232, § 1423(1), substituted “February 15” for “January 15” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–232, § 1423(2)(A), substituted “Each report under subsection (a) shall also include” for “Not later than February 15 of each year, the President shall submit to the appropriate committees of the Congress a report containing”.
+
+Subsec. (b)(2). Pub. L. 115–232, § 1423(2)(B), substituted “With respect to the plan described in paragraph (1), each such report shall include” for “Each such report shall include” and “With respect to such plan, each report shall also contain” for “Each such report shall also contain”.
+
 2014—Subsec. (b)(2). Pub. L. 113–291 substituted “under section 98h(b)(2)(H)” for “under section 98h(b)(2)(G)”.
 
 1993—Subsec. (a)(1). Pub. L. 103–35 substituted “fiscal year” for “six-month period”.

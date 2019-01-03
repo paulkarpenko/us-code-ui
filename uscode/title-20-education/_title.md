@@ -2,7 +2,7 @@
 title: 20
 heading: EDUCATION
 positive_law: false
-sections: 2018
+sections: 2021
 chapters: 86
 ---
 # Title 20. EDUCATION

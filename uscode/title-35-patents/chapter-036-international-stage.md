@@ -46,7 +46,7 @@ Amendment by section 401(a) of Pub. L. 98–622 effective six months after Nov. 
 Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 #### Effective Date
-Chapter effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 
 <a id="section-362"></a>
@@ -75,6 +75,9 @@ Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all inte
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
 
 <a id="section-363"></a>
 ## § 363. International application designating the United States: Effect
@@ -97,6 +100,9 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 
 <a id="section-364"></a>
@@ -129,6 +135,9 @@ Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all inte
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 
 <a id="section-365"></a>
@@ -179,6 +188,9 @@ Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applic
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
 
 <a id="section-366"></a>
 ## § 366. Withdrawn international application
@@ -197,6 +209,9 @@ Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–622 effective six months after Nov. 8, 1984, see section 406(b) of Pub. L. 98–622, set out as a note under [section 3 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-3).
+
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 
 <a id="section-367"></a>
@@ -219,6 +234,9 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
 
 
 <a id="section-368"></a>
@@ -246,3 +264,6 @@ Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all inte
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).
+
+#### Effective Date
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under [section 351 of this title](./chapter-035-definitions.md#section-351).

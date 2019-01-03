@@ -2,7 +2,7 @@
 title: 7
 chapter: '55'
 heading: DEPARTMENT OF AGRICULTURE
-section_count: 150
+section_count: 159
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -261,103 +261,13 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(5) of this
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
 #### Simplified, Uniform Application for Assistance From All Federal Rural Development Programs
-Pub. L. 104–127, title VII, § 762, Apr. 4, 1996, 110 Stat. 1148, provided that: “Not later than 1 year after the date of enactment of this Act [Apr. 4, 1996], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following: “(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 [former [7 U.S.C. 2008j](./chapter-050-agricultural-credit.md#section-2008j)] and subtitle E [[7 U.S.C. 2009](./chapter-050-agricultural-credit.md#section-2009) et seq.] of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1924(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1924/b&num=0&edition=prelim), 1926, 1926a, 1926c, 1926d, and 1932). “(2) Subtitle G of title XVI and sections 2281 [[42 U.S.C. 5177a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5177a&num=0&edition=prelim)], 2333, and 2381 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. [former] 5901–5908, 5177a, 950aaa–2, and 3125b). “(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237:[;] 7 U.S.C. [former] 5930 note). “(4) Section 1323(b) of the Food Security Act of 1985 (Public Law 99–198; [7 U.S.C. 1932](./chapter-050-agricultural-credit.md#section-1932) note). “(5) Title V and section 603(c) of the Rural Development Act of 1972 ([7 U.S.C. 2661–266](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2661–266&num=0&edition=prelim)9 and 2204a(c)). “(6) Sections 5 and 311 and title IV of the Rural Electrification Act of 1936 (7 U.S.C. [former] 905, [former] 940a, and 941–950b).”
+Pub. L. 104–127, title VII, § 762, Apr. 4, 1996, 110 Stat. 1148, provided that: “Not later than 1 year after the date of enactment of this Act [Apr. 4, 1996], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following: “(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 [former [7 U.S.C. 2008j](./chapter-050-agricultural-credit.md#section-2008j)] and subtitle E [[7 U.S.C. 2009](./chapter-050-agricultural-credit.md#section-2009) et seq.] of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1924(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1924/b&num=0&edition=prelim), 1926, 1926a, 1926c, 1926d, and 1932). “(2) Subtitle G of title XVI and sections 2281 [[42 U.S.C. 5177a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5177a&num=0&edition=prelim)], 2333, and 2381 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. [former] 5901–5908, 5177a, 950aaa–2, and 3125b). “(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237:[;] 7 U.S.C. [former] 5930 note). “(4) Section 1323(b) of the Food Security Act of 1985 (Public Law 99–198; [7 U.S.C. 1932](./chapter-050-agricultural-credit.md#section-1932) note). “(5) Title V and section 603(c) of the Rural Development Act of 1972 ([7 U.S.C. 2661–266](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2661–266&num=0&edition=prelim)9 and 2204a(c)). “(6) Sections 5 and 311 and title IV of the Rural Electrification Act of 1936 (7 U.S.C. [former] 905, [former] 940a, and [former] 941–950b).”
 
 #### Executive Order No. 12720
 Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President’s Council on Rural America, was revoked by Ex. Ord. No. 12869, § 4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-#### Ex. Ord. No. 13575. Establishment of the White House Rural Council
-Ex. Ord. No. 13575, June 9, 2011, 76 F.R. 34841, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to enhance Federal engagement with rural communities, it is hereby ordered as follows:
-
-Section 1. Policy. Sixteen percent of the American population lives in rural counties. Strong, sustainable rural communities are essential to winning the future and ensuring American competitiveness in the years ahead. These communities supply our food, fiber, and energy, safeguard our natural resources, and are essential in the development of science and innovation. Though rural communities face numerous challenges, they also present enormous economic potential. The Federal Government has an important role to play in order to expand access to the capital necessary for economic growth, promote innovation, improve access to health care and education, and expand outdoor recreational activities on public lands.
-
-To enhance the Federal Government’s efforts to address the needs of rural America, this order establishes a council to better coordinate Federal programs and maximize the impact of Federal investment to promote economic prosperity and quality of life in our rural communities.
-
-Sec. 2. Establishment. There is established a White House Rural Council (Council).
-
-Sec. 3. Membership. (a) The Secretary of Agriculture shall serve as the Chair of the Council, which shall also include the heads of the following executive branch departments, agencies, and offices:
-
-(1) the Department of the Treasury;
-
-(2) the Department of Defense;
-
-(3) the Department of Justice;
-
-(4) the Department of the Interior;
-
-(5) the Department of Commerce;
-
-(6) the Department of Labor;
-
-(7) the Department of Health and Human Services;
-
-(8) the Department of Housing and Urban Development;
-
-(9) the Department of Transportation;
-
-(10) the Department of Energy;
-
-(11) the Department of Education;
-
-(12) the Department of Veterans Affairs;
-
-(13) the Department of Homeland Security;
-
-(14) the Environmental Protection Agency;
-
-(15) the Federal Communications Commission;
-
-(16) the Office of Management and Budget;
-
-(17) the Office of Science and Technology Policy;
-
-(18) the Office of National Drug Control Policy;
-
-(19) the Council of Economic Advisers;
-
-(20) the Domestic Policy Council;
-
-(21) the National Economic Council;
-
-(22) the Small Business Administration;
-
-(23) the Council on Environmental Quality;
-
-(24) the White House Office of Public Engagement and Intergovernmental Affairs;
-
-(25) the White House Office of Cabinet Affairs; and such other executive branch departments, agencies, and offices as the President or the Secretary of Agriculture may, from time to time, designate.
-
-(b) A member of the Council may designate, to perform the Council functions of the member, a senior-level official who is part of the member’s department, agency, or office, and who is a full-time officer or employee of the Federal Government.
-
-(c) The Department of Agriculture shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations.
-
-(d) The Council shall coordinate its policy development through the Domestic Policy Council and the National Economic Council.
-
-Sec. 4. Mission and Function of the Council. The Council shall work across executive departments, agencies, and offices to coordinate development of policy recommendations to promote economic prosperity and quality of life in rural America, and shall coordinate my Administration’s engagement with rural communities. The Council shall:
-
-(a) make recommendations to the President, through the Director of the Domestic Policy Council and the Director of the National Economic Council, on streamlining and leveraging Federal investments in rural areas, where appropriate, to increase the impact of Federal dollars and create economic opportunities to improve the quality of life in rural America;
-
-(b) coordinate and increase the effectiveness of Federal engagement with rural stakeholders, including agricultural organizations, small businesses, education and training institutions, health-care providers, telecommunications services providers, research and land grant institutions, law enforcement, State, local, and tribal governments, and nongovernmental organizations regarding the needs of rural America;
-
-(c) coordinate Federal efforts directed toward the growth and development of geographic regions that encompass both urban and rural areas; and
-
-(d) identify and facilitate rural economic opportunities associated with energy development, outdoor recreation, and other conservation related activities.
-
-Sec. 5. General Provisions. (a) The heads of executive departments and agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary to carry out the functions of the Council. Each executive department and agency shall bear its own expense for participating in the Council.
-
-(b) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) authority granted by law to an executive department, agency, or the head thereof; or
-
-(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.
+#### Executive Order No. 13575
+Ex. Ord. No. 13575, June 9, 2011, 76 F.R. 34841, which established the White House Rural Council, was revoked by Ex. Ord. No. 13790, § 6, Apr. 25, 2017, 82 F.R. 20239.
 
 
 <a id="section-2204b-1"></a>
@@ -396,6 +306,214 @@ Amendment by Pub. L. 96–355 effective Oct. 1, 1980, see section 10 of Pub. L. 
 
 #### Executive Order No. 11797
 Ex. Ord. No. 11797, July 31, 1974, 39 F.R. 27893, which delegated to the Secretary of Agriculture the President’s authority to prepare and submit to Congress annual reports concerning the location of new Federal facilities in rural areas, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+
+<a id="section-2204b-2"></a>
+## § 2204b–2. Temporary prioritization of rural health assistance
+**(a) Authority to temporarily prioritize certain rural development applications** Notwithstanding any other provision of law, the Secretary, after consultation with such public health officials as may be necessary, may announce through a Federal Register notice pursuant to [section 553(b)(3)(B) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/b/3/B&num=0&edition=prelim) a temporary reprioritization, on a national or multistate basis, for certain rural development loan and grant applications to assist rural communities in responding to a significant public health disruption.
+
+**(b) Public health disruption** For the purposes of this section, the term “public health disruption” means an unanticipated increase in mortality or morbidity in rural communities, when compared to non-rural communities, caused by identifiable events, actions, or behavioral trends, which can be remediated by the programs of the Rural Development mission area. When measuring a public health disruption, the Secretary may analyze data on a national or multi-state basis.
+
+**(c) Content of announcement** In the announcement, the Secretary shall—
+
+(1) describe the nature of the public health disruption, including the causes, effects, affected populations, and affected States;
+
+(2) explain how the programs of the Department of Agriculture will work in remedying the public health disruption;
+
+(3) identify the services, treatments, or infrastructure best suited to address the public health disruption;
+
+(4) establish—
+
+  (A) the start and end dates of the reprioritization;
+
+  (B) the programs subject to reprioritization and the modifications to the application process;
+
+  (C) the process for making reprioritizations for applicable programs;
+
+  (D) the amount of funds set-aside for applicable programs, except that a set-aside for such a program shall not be greater than 20 percent of the amounts appropriated for the program for the fiscal year involved; and
+
+  (E) the region in which the reprioritization is in effect; and
+
+(5) instruct program administrators to implement the reprioritization during the application window or announcement after the announcement takes effect.
+
+**(d) Limitations on reprioritizations** When announcing the reprioritization, the Secretary shall—
+
+(1) establish an initial total time period of less than 4 years, except as provided for in subsection (e);
+
+(2) implement only 1 nationally applicable reprioritization at a time;
+
+(3) implement only 1 regionally applicable reprioritization per State at a time; and
+
+(4) not use reprioritizations to allocate additional funds to an affected State.
+
+**(e) Extension** The Secretary may extend an announcement under subsection (a) for no more than 6 years in total, except that nothing shall prevent the Secretary from renewing reprioritizations by making a new announcement under subsection (a).
+
+**(f) Rescinding the announcement** The Secretary may rescind a reprioritization announcement made under subsection (a) at any time the Secretary determines that the temporary reprioritizations are no longer needed or effective.
+
+**(g) Notice** Not later than 48 hours after making, extending, or rescinding an announcement under this section, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, and transmit to the Secretary of Health and Human Services, a written notice of the declaration, extension, or rescission.
+
+
+<a id="section-2204b-3"></a>
+## § 2204b–3. Council on Rural Community Innovation and Economic Development
+**(a) Purpose** The purpose of this section is to enhance the efforts of the Federal Government to address the needs of rural areas in the United States by—
+
+(1) establishing a council to better coordinate Federal programs directed to rural communities;
+
+(2) maximizing the impact of Federal investment to promote economic prosperity and quality of life in rural communities in the United States; and
+
+(3) using innovation to resolve local and regional challenges faced by rural communities.
+
+**(b) Establishment**
+
+(1) There is established a Council on Rural Community Innovation and Economic Development (referred to in this section as the “Council”).
+
+(2) The Council shall be the successor to the Interagency Task Force on Agriculture and Rural Prosperity established by Executive Order 13790.
+
+**(c) Membership**
+
+(1) **In general** — The membership of the Council shall be composed of the heads of the following executive branch departments, agencies, and offices:
+
+  (A) The Department of Agriculture.
+
+  (B) The Department of the Treasury.
+
+  (C) The Department of Defense.
+
+  (D) The Department of Justice.
+
+  (E) The Department of the Interior.
+
+  (F) The Department of Commerce.
+
+  (G) The Department of Labor.
+
+  (H) The Department of Health and Human Services.
+
+  (I) The Department of Housing and Urban Development.
+
+  (J) The Department of Transportation.
+
+  (K) The Department of Energy.
+
+  (L) The Department of Education.
+
+  (M) The Department of Veterans Affairs.
+
+  (N) The Department of Homeland Security.
+
+  (O) The Environmental Protection Agency.
+
+  (P) The Federal Communications Commission.
+
+  (Q) The Office of Management and Budget.
+
+  (R) The Office of Science and Technology Policy.
+
+  (S) The Office of National Drug Control Policy.
+
+  (T) The Council of Economic Advisers.
+
+  (U) The Domestic Policy Council.
+
+  (V) The National Economic Council.
+
+  (W) The Small Business Administration.
+
+  (X) The Council on Environmental Quality.
+
+  (Y) The White House Office of Public Engagement.
+
+  (Z) The White House Office of Cabinet Affairs.
+
+  (AA) Such other executive branch departments, agencies, and offices as the President or the Secretary may, from time to time, designate.
+
+(2) **Chair** — The Secretary shall serve as the Chair of the Council.
+
+(3) **Designees** — A member of the Council may designate, to perform the Council functions of the member, a senior-level official who is—
+
+  (A) part of the department, agency, or office of the member; and
+
+  (B) a full-time officer or employee of the Federal Government.
+
+(4) **Administration** — The Council shall coordinate policy development through the rural development mission area.
+
+**(d) Funding** The Secretary shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations.
+
+**(e) Mission and function of the Council** The Council shall work across executive departments, agencies, and offices to coordinate development of policy recommendations—
+
+(1) to maximize the impact of Federal investment on rural communities;
+
+(2) to promote economic prosperity and quality of life in rural communities; and
+
+(3) to use innovation to resolve local and regional challenges faced by rural communities.
+
+**(f) Duties** The Council shall—
+
+(1) make recommendations to the President, acting through the Director of the Domestic Policy Council and the Director of the National Economic Council, on streamlining and leveraging Federal investments in rural areas, where appropriate, to increase the impact of Federal dollars and create economic opportunities to improve the quality of life in rural areas in the United States;
+
+(2) coordinate and increase the effectiveness of Federal engagement with rural stakeholders, including agricultural organizations, small businesses, education and training institutions, health-care providers, telecommunications services providers, electric service providers, transportation providers, research and land grant institutions, law enforcement, State, local, and tribal governments, and nongovernmental organizations regarding the needs of rural areas in the United States;
+
+(3) coordinate Federal efforts directed toward the growth and development of rural geographic regions that encompass both metropolitan and nonmetropolitan areas;
+
+(4) identify and facilitate rural economic opportunities associated with energy development, outdoor recreation, and other conservation related activities; and
+
+(5) identify common economic and social challenges faced by rural communities that could be served through—
+
+  (A) better coordination of existing Federal and non-Federal resources; and
+
+  (B) innovative solutions utilizing governmental and nongovernmental resources.
+
+**(g) Executive departments and agencies**
+
+(1) **In general** — The heads of executive departments and agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary to carry out the functions of the Council.
+
+(2) **Expenses** — Each executive department or agency shall be responsible for paying any expenses of the executive department or agency for participating in the Council.
+
+**(h) Council working groups**
+
+(1) **In general** — The Council may establish, in addition to the working groups established under paragraph (3), such other working groups as necessary.
+
+(2) **Membership** — The Secretary shall include as members of each working group such Council members, other heads of Federal agencies (or their designees as defined in (d)(3) 11 So in original. Probably should be “subsection (c)(3)”. ), and non-Federal partners as determined appropriate to the subject matter.
+
+(3) **Required working groups** — The working groups specified in this paragraph are each of the following:
+
+  (A) *The rural smart communities working group*
+
+    (i) *Establishment* — The Council shall establish a Rural Smart Communities Working Group.
+
+    (ii) *Duties* — The Rural Smart Communities Working Group shall—
+
+      (I) not later than 1 year after the establishment of such Working Group, submit to Congress a report describing efforts of rural areas to integrate smart technology into their communities to solve challenges relating to governance, economic development, quality of life, or other relevant rural issues, as determined by the Secretary; and
+
+      (II) create, publish, and maintain a resource guide designed to assist States and other rural communities in developing and implementing rural smart community programs.
+
+    (iii) *Smart community defined* — For the purposes of this subparagraph, the term “smart community” means a community that has the ability to integrate multiple technological solutions, in a secure fashion, to manage a community’s assets, including local government information systems, schools, libraries, transportation systems, hospitals, power plants, law enforcement, and other community services with the goal of promoting quality of life through the use of technology in ways that improve the efficiency of services and meet residents’ needs.
+
+  (B) *Jobs accelerator working group*
+
+    (i) *Establishment* — The Council shall establish a Jobs Accelerator Working Group.
+
+    (ii) *Goals* — The Jobs Accelerator Working Group shall support rural jobs accelerators (as defined in [section 2008w(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2008w/a/4&num=0&edition=prelim))—
+
+      (I) to improve the ability of rural communities to create high-wage jobs, accelerate the formation of new businesses with high-growth potential, and strengthen regional economies, including by helping to build capacity in the applicable region to achieve those goals; and
+
+      (II) to help rural communities identify and maximize local assets and connect to regional opportunities, networks, and industry clusters that demonstrate high growth potential.
+
+    (iii) *Duties* — The Jobs Accelerator Working Group shall—
+
+      (I) provide the public with available information and technical assistance on Federal resources relevant to a project and region;
+
+      (II) establish a Federal support team comprised of staff from participating agencies in the working group that shall provide coordinated and dedicated support services to rural jobs accelerators; and
+
+      (III) provide opportunities for rural jobs accelerators to share best practices and further collaborate with one another.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order 13790, referred to in subsec. (b)(2), is Ex. Ord. No. 13790, § 6, Apr. 25, 2017, 82 F.R. 20239, which is not classified to the Code.
+
+#### Definitions
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
 <a id="section-2204c"></a>
@@ -600,7 +718,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) the impact of local food systems on job creation and economic development;
 
-  (B) the level of participation in the Farmers’ Market and Local Food Promotion Program established under [section 3005 of this title](./chapter-063-farmer-to-consumer-direct-marketing.md#section-3005), including the percentage of projects funded in comparison to applicants and the types of eligible entities receiving funds;
+  (B) the level of participation in the Local Agriculture Market Program established under [section 1627c of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1627c), including the percentage of projects funded in comparison to applicants and the types of eligible entities receiving funds;
 
   (C) the ability of participants to leverage private capital and a synopsis of the places from which non-Federal funds are derived; and
 
@@ -628,8 +746,73 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ### Statutory Notes
 
+#### Amendments
+2018—Subsec. (b)(3)(B). Pub. L. 115–334 substituted “Local Agriculture Market Program established under [section 1627c of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1627c)” for “Farmers’ Market and Local Food Promotion Program established under [section 3005 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3005&num=0&edition=prelim)”.
+
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+
+<a id="section-2204i"></a>
+## § 2204i. Reports on land access and farmland ownership data collection
+**(a) Land access** Not later than 1 year after December 20, 2018, the Secretary of Agriculture, in consultation with the Chief Economist, shall submit to Congress and make publicly available a report identifying—
+
+(1) the barriers that prevent or hinder the ability of beginning farmers and ranchers (as defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim)) and socially disadvantaged farmers and ranchers (as defined in such section) to acquire or access farmland;
+
+(2) the extent to which Federal programs, including agricultural conservation easement programs, land transition programs, and financing programs, are improving—
+
+  (A) farmland access and tenure for beginning farmers and ranchers and socially disadvantaged farmers and ranchers; and
+
+  (B) farmland transition and succession; and
+
+(3) the regulatory, operational, or statutory changes that are necessary to improve—
+
+  (A) the ability of beginning farmers and ranchers and socially disadvantaged farmers and ranchers to acquire or access farmland;
+
+  (B) farmland tenure for beginning farmers and ranchers and socially disadvantaged farmers and ranchers; and
+
+  (C) farmland transition and succession.
+
+**(b) Farmland ownership** The Secretary shall collect and, not less frequently than once every 3 years report, data and analysis on farmland ownership, tenure, transition, and entry of beginning farmers and ranchers and socially disadvantaged farmers and ranchers (as those terms are defined in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim)). In carrying out this subsection, the Secretary shall, at a minimum—
+
+(1) collect and distribute comprehensive reporting of trends in farmland ownership, tenure, transition, barriers to entry, profitability, and viability of beginning farmers and ranchers and socially disadvantaged farmers and ranchers;
+
+(2) develop surveys and report statistical and economic analysis on farmland ownership, tenure, transition, barriers to entry, profitability, and viability of beginning farmers and ranchers, including a regular follow-on survey to each Census of Agriculture with results of the follow-on survey made public not later than 3 years after the previous Census of Agriculture; and
+
+(3) require the National Agricultural Statistics Service to include in the Tenure, Ownership, and Transition of Agricultural Land survey questions relating to—
+
+  (A) the extent to which non-farming landowners are purchasing and holding onto farmland for the sole purpose of real estate investment;
+
+  (B) the impact of these farmland ownership trends on the successful entry and viability of beginning farmers and ranchers and socially disadvantaged farmers and ranchers;
+
+  (C) the extent to which farm and ranch land with undivided interests and no administrative authority identified have farms or ranches operating on that land; and
+
+  (D) the impact of land tenure patterns, categorized by—
+
+    (i) race, gender, and ethnicity; and
+
+    (ii) region.
+
+**(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section $3,000,000 for each fiscal 11 So in original. Probably should be preceded by “of”. years 2019 through 2023, to remain available until expended.
+
+
+<a id="section-2204j"></a>
+## § 2204j. National agriculture imagery program
+**(a) In general** The Secretary of Agriculture, acting through the Administrator of the Farm Service Agency, shall carry out a national agriculture imagery program to annually acquire aerial imagery during agricultural growing seasons from the continental United States.
+
+**(b) Data** The aerial imagery acquired under this section shall—
+
+(1) consist of high resolution processed digital imagery;
+
+(2) be made available in a format that can be provided to Federal, State, and private sector entities;
+
+(3) be technologically compatible with geospatial information technology; and
+
+(4) be consistent with the standards established by the Federal Geographic Data Committee.
+
+**(c) Supplemental satellite imagery** The Secretary of Agriculture may supplement the aerial imagery collected under this section with satellite imagery.
+
+**(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $23,000,000 for fiscal year 2019 and each fiscal year thereafter.
 
 
 <a id="section-2204-1"></a>
@@ -820,7 +1003,7 @@ Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1048, provided in part: “
 ## § 2207b. Program metrics
 **(a) In general** The Secretary shall collect data regarding economic activities created through grants and loans, including any technical assistance provided as a component of the grant or loan program, and measure the short- and long-term viability of award recipients and any entities to whom those recipients provide assistance using award funds, under—
 
-(1) [section 1632a of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1632a);
+(1) [section 1627c of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1627c);
 
 (2) [section 940c(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c/b/2&num=0&edition=prelim); or
 
@@ -849,6 +1032,9 @@ Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1048, provided in part: “
 #### References in Text
 The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(3), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334 added par. (1) and struck out former par. (1) which read as follows: “[section 1632a of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1632a);”.
+
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
@@ -870,6 +1056,28 @@ Section was formerly classified to [section 418 of this title](./chapter-017-mis
 
 #### Transfer of Functions
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+
+
+<a id="section-2207d"></a>
+## § 2207d. Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University
+
+Not later than September 30, 2019, and each year thereafter, the Secretary shall annually submit to Congress a report describing the allocations made to, and matching funds received by, 1890 Institutions and 1862 Institutions (as those terms are defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601) for each of the agricultural research, extension, education, and related programs established under—
+
+(1) [section 3221 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3221);
+
+(2) [section 3222 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3222);
+
+(3) subsections (b) and (c) of [section 343 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-343); and
+
+(4) the Hatch Act of 1887 ([7 U.S.C. 361a](./chapter-014-agricultural-experiment-stations.md#section-361a) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The Hatch Act of 1887, referred to in par. (4), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
+
+#### Definitions
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
 <a id="section-2208"></a>
@@ -1834,16 +2042,20 @@ Section was formerly classified to [section 542a of Title 5](https://uscode.hous
 <a id="section-2238"></a>
 ## § 2238. Use of field work funds for purchase of arms and ammunition
 
-Funds available for field work in the Department of Agriculture may be used for the purchase of arms and ammunition whenever the individual purchase does not exceed $50, and for individual purchases exceeding $50, when such arms and ammunition cannot advantageously be supplied by the Secretary of the Army pursuant to [section 4655 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4655&num=0&edition=prelim).
+Funds available for field work in the Department of Agriculture may be used for the purchase of arms and ammunition whenever the individual purchase does not exceed $50, and for individual purchases exceeding $50, when such arms and ammunition cannot advantageously be supplied by the Secretary of the Army pursuant to [section 7655 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7655&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Codification
-“[Section 4655 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4655&num=0&edition=prelim)” substituted in text for “the Act of March 3, 1879 (20 Stat. 412)” on authority of section 49(b) of act Aug. 10, 1956, ch. 1041, 70A Stat. 640, section 1 of which enacted Title 10, Armed Forces.
-
 Section was formerly classified to [section 542b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section542b&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued the military Department of the Army under the administrative supervision of a Secretary of the Army.
+
+#### Amendments
+2018—Pub. L. 115–232 substituted “[section 7655 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7655&num=0&edition=prelim)” for “the Act of March 3, 1879 (20 Stat. 412)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 Title 10, Armed Forces.
 
 
 <a id="section-2239"></a>
@@ -2207,6 +2419,8 @@ Section was formerly classified to [section 568a of Title 5](https://uscode.hous
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
+Pub. L. 115–31, div. A, title I, May 5, 2017, 131 Stat. 141.
+
 Pub. L. 114–113, div. A, title I, Dec. 18, 2015, 129 Stat. 2248.
 
 Pub. L. 113–235, div. A, title I, Dec. 16, 2014, 128 Stat. 2138.
@@ -2408,7 +2622,7 @@ On and after October 21, 1993, appropriations available to the Department of Agr
 
 (3) **Exclusions** — The requirement in paragraph (1) shall not apply to any conference—
 
-  (A) for which the cost to the Federal Government was less than $10,000; or
+  (A) for which the cost to the Federal Government was less than $50,000; or
 
   (B) outside of the United States that is attended by the Secretary or the Secretary’s designee as an official representative of the United States government.
 
@@ -2432,6 +2646,9 @@ On and after October 21, 1993, appropriations available to the Department of Agr
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2018—Subsec. (a)(3)(A). Pub. L. 115–334, which directed amendment of section 14209(a)(3)(A) of the Food, Conservation, and Energy Act of 2008 by substituting “$50,000” for “$10,000”, was executed by making the substitution in subsec. (a)(3)(A) of this section, which is section 14208 of the Food, Conservation, and Energy Act of 2008, to reflect the probable intent of Congress.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -2580,6 +2797,69 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 #### Study of Impact of Prohibitions on Payments to Certain Corporations Under Wheat, Feed Grains, Cotton, and Rice Programs; Report by January 1, 1979
 Pub. L. 95–113, title I, § 103, Sept. 29, 1977, 91 Stat. 919, provided that in furtherance of the policy stated in section 102 of this Act [this section], the Secretary of Agriculture was to conduct a study and report to Congress no later than January 1, 1979, on the impact on participation in the wheat, feed grain, cotton, and rice programs and the production of such commodities in carrying out a statutory provision such as that included in the Food and Agriculture Act of 1977, as passed by the Senate on May 24, 1977 [see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281)], prohibiting the making of payments to certain corporations and other entities under such programs, which study was to assess the impact of extending the prohibition against making commodity program payments to tenants on land owned by such corporations and other entities which would be excluded from payments under such a provision, and was to utilize the information on commodity program payments compiled by the Agricultural Stabilization and Conservation Service in determining payment eligibility under section 101 of the Agricultural Act of 1970, as amended [[section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307)], and section 101 of this Act [[section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308)]. The Secretary was authorized to collect such other information as necessary to determine the impact of such a statutory provision and to identify the number and characteristics of producers that would be affected by such a provision.
+
+
+<a id="section-2266a"></a>
+## § 2266a. Century Farms program
+
+The Secretary shall establish a program under which the Secretary recognizes any farm that—
+
+(1) a State department of agriculture or similar statewide agricultural organization recognizes as a Century Farm; or
+
+(2)
+
+  (A) is defined as a farm or ranch under section 4284.902 of title 7, Code of Federal Regulations (as in effect on December 20, 2018);
+
+  (B) has been in continuous operation for at least 100 years; and
+
+  (C) has been owned by the same family for at least 100 consecutive years, as verified through deeds, wills, abstracts, tax statements, or other similar legal documents considered appropriate by the Secretary.
+
+### Statutory Notes
+
+#### Definitions
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+
+<a id="section-2266b"></a>
+## § 2266b. Eligibility for operators on heirs property land to obtain a farm number
+**(a) Definitions** In this section:
+
+(1) **Eligible documentation** — The term “eligible documentation”, with respect to land for which a farm operator seeks assignment of a farm number under subsection (b)(1), includes—
+
+  (A) in States that have adopted a statute consisting of an enactment or adoption of the Uniform Partition of Heirs Property Act, as approved and recommended for enactment in all States by the National Conference of Commissioners on Uniform State Laws in 2010—
+
+    (i) a court order verifying the land meets the definition of heirs property (as defined in that Act); or
+
+    (ii) a certification from the local recorder of deeds that the recorded owner of the land is deceased and not less than 1 heir of the recorded owner of the land has initiated a procedure to retitle the land in the name of the rightful heir;
+
+  (B) a fully executed, unrecorded tenancy-in-common agreement that sets out ownership rights and responsibilities among all of the owners of the land that—
+
+    (i) has been approved by a majority of the ownership interests in that property;
+
+    (ii) has given a particular owner the right to manage and control any portion or all of the land for purposes of operating a farm or ranch; and
+
+    (iii) was validly entered into under the authority of the jurisdiction in which the land is located;
+
+  (C) the tax return of a farm operator farming a property with undivided interests for each of the 5 years preceding the date on which the farm operator submits the tax returns as eligible documentation under subsection (b);
+
+  (D) self-certification that the farm operator has control of the land for purposes of operating a farm or ranch; and
+
+  (E) any other documentation identified by the Secretary under subsection (c).
+
+(2) **Farm number** — The term “farm number” has the meaning given the term in section 718.2 of title 7, Code of Federal Regulations (as in effect on December 20, 2018).
+
+**(b) Farm number**
+
+(1) **In general** — The Secretary shall provide for the assignment of a farm number to any farm operator who provides any form of eligible documentation for purposes of demonstrating that the farm operator has control of the land for purposes of defining that land as a farm.
+
+(2) **Eligibility** — Any farm number provided under paragraph (1) shall be sufficient to satisfy any requirement of the Secretary to have a farm number to participate in a program of the Secretary.
+
+**(c) Eligible documentation** The Secretary shall identify alternative forms of eligible documentation that a farm operator may provide in seeking the assignment of a farm number under subsection (b)(1).
+
+### Statutory Notes
+
+#### Definitions
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
 <a id="section-2267"></a>
@@ -2779,13 +3059,13 @@ Section, Pub. L. 99–198, title XI, § 1151, Dec. 23, 1985, 99 Stat. 1497, prov
 
 <a id="section-2276"></a>
 ## § 2276. Confidentiality of information
-**(a) Authorized disclosure** In the case of information furnished under a provision of law referred to in subsection (d), neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
+**(a) In general** In the case of information furnished under a provision of law referred to in subsection (d), neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
 
 (1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information;
 
 (2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information; or
 
-(3) in the case of information collected under the authority described in subsection (d)(12), disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
+(3) in the case of information collected under the authority described in paragraph (12) or (13) of subsection (d), disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
 
 **(b) Duty of Secretary; immunity from disclosure; necessary consent**
 
@@ -2799,7 +3079,7 @@ Section, Pub. L. 99–198, title XI, § 1151, Dec. 23, 1985, 99 Stat. 1497, prov
 
 **(c) Violations; penalties** Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d), in any manner or for any purpose prohibited in section 11 So in original. Probably should be “subsection”. (a), shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
 
-**(d) Specific provisions for collection of information** For purposes of this section, a provision of law referred to in this subsection means—
+**(d) Provisions of law references** For purposes of this section, a provision of law referred to in this subsection means—
 
 (1) the first section of the Act entitled “An Act authorizing the Secretary of Agriculture to collect and publish statistics of the grade and staple length of cotton”, approved March 3, 1927 ([7 U.S.C. 471](./chapter-019-cotton-statistics-and-estimates.md#section-471)) (commonly referred to as the “Cotton Statistics and Estimates Act”);
 
@@ -2821,15 +3101,28 @@ Section, Pub. L. 99–198, title XI, § 1151, Dec. 23, 1985, 99 Stat. 1497, prov
 
 (10) section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 ([16 U.S.C. 1642(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1642/e&num=0&edition=prelim));
 
-(11) [section 2204g of this title](./chapter-055-department-of-agriculture.md#section-2204g); or
+(11) [section 2204g of this title](./chapter-055-department-of-agriculture.md#section-2204g);
 
-(12) section 302 of the Rural Development Act of 1972 ([7 U.S.C. 1010a](./chapter-033-farm-tenancy.md#section-1010a)) regarding the authority to collect data for the National Resources Inventory.
+(12) section 302 of the Rural Development Act of 1972 ([7 U.S.C. 1010a](./chapter-033-farm-tenancy.md#section-1010a)) regarding the authority to collect data for the National Resources Inventory; or
+
+(13) section 10109 of the Agriculture Improvement Act of 2018.
 
 **(e) Information provided to Secretary of Commerce** This section shall not prohibit the release of information under [section 2204g(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2204g/f/2&num=0&edition=prelim).
 
 ### Statutory Notes
 
+#### References in Text
+Section 10109 of the Agriculture Improvement Act of 2018, referred to in subsec. (d)(13), is section 10109 of Pub. L. 115–334, which relates to a multiple crop and pesticide use survey. Subsecs. (a) to (c) of section 10109 are not classified to the Code. Subsec. (d) of section 10109 amended this section.
+
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 10109(d)(1)(A), inserted heading.
+
+Subsec. (a)(3). Pub. L. 115–334, § 10109(d)(1)(B), substituted “paragraph (12) or (13) of subsection (d)” for “subsection (d)(12)”.
+
+Subsec. (d). Pub. L. 115–334, § 10109(d)(2)(A), inserted heading.
+
+Subsec. (d)(13). Pub. L. 115–334, § 10109(d)(2)(B)–(D), added par. (13).
+
 2002—Subsec. (a)(3). Pub. L. 107–171, § 2004(b)(1), added par. (3).
 
 Subsec. (d)(12). Pub. L. 107–171, § 2004(b)(2), added par. (12).
@@ -2864,16 +3157,88 @@ Pub. L. 101–506, title VI, § 641, Nov. 5, 1990, 104 Stat. 1350.
 
 
 <a id="section-2279"></a>
-## § 2279. Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers
-**(a) Outreach and assistance**
+## § 2279. Farming opportunities training and outreach
+**(a) Definitions** In this section:
 
-(1) **Program** — The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers and veteran farmers or ranchers—
+(1) **Agricultural programs** — The term “agricultural programs” are those established or authorized by—
+
+  (A) the Agricultural Act of 1949 [[7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.];
+
+  (B) the Consolidated Farm and Rural Development Act [[7 U.S.C. 1921](./chapter-050-agricultural-credit.md#section-1921) et seq.];
+
+  (C) the Agricultural Adjustment Act of 1938 [[7 U.S.C. 1281](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) et seq.];
+
+  (D) the Soil Conservation Act;
+
+  (E) the Domestic Allotment Assistance Act;
+
+  (F) the Food Security Act of 1985; and
+
+  (G) other such Acts as the Secretary deems appropriate.
+
+(2) **Beginning farmer or rancher** — The term “beginning farmer or rancher” means a person that—
+
+  (A)
+
+    (i) has not operated a farm or ranch; or
+
+    (ii) has operated a farm or ranch for not more than 10 years; and
+
+  (B) meets such other criteria as the Secretary may establish.
+
+(3) **Department** — The term “Department” means the Department of Agriculture.
+
+(4) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(5) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” means a farmer or rancher who is a member of a socially disadvantaged group.
+
+(6) **Socially disadvantaged group** — The term “socially disadvantaged group” means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.
+
+(7) **Veteran farmer or rancher** — The term “veteran farmer or rancher” means a farmer or rancher who has served in the Armed Forces (as defined in [section 101(10) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/10&num=0&edition=prelim)) and who—
+
+  (A) has not operated a farm or ranch;
+
+  (B) has operated a farm or ranch for not more than 10 years; or
+
+  (C) is a veteran (as defined in section 101 of that title) who has first obtained status as a veteran (as so defined) during the most recent 10-year period.
+
+**(b) Farming opportunities training and outreach** The Secretary shall carry out this section to encourage and assist socially disadvantaged farmers and ranchers, veteran farmers and ranchers, and beginning farmers and ranchers in the ownership and operation of farms and ranches through—
+
+(1) education and training; and
+
+(2) equitable participation in all agricultural programs of the Department.
+
+**(c) Outreach and assistance for socially disadvantaged and veteran farmers and ranchers**
+
+(1) **Eligible entity** — In this subsection, the term “eligible entity” means any of the following:
+
+  (A) Any community-based organization, network, or coalition of community-based organizations that—
+
+    (i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers and veteran farmers or ranchers;
+
+    (ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers and veteran farmers or ranchers during the 3-year period preceding the submission of an application for assistance under this subsection; and
+
+    (iii) does not engage in activities prohibited under [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim).
+
+  (B) An 1890 institution or 1994 institution (as defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601)), including West Virginia State College.
+
+  (C) An Indian tribal community college or an Alaska Native cooperative college.
+
+  (D) An Hispanic-serving institution (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)).
+
+  (E) Any other institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
+
+  (F) An Indian tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
+
+  (G) An organization or institution that received funding under subsection (a) before January 1, 1996, but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
+
+(2) **Program** — Using funds made available under subsection (l), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers and veteran farmers or ranchers—
 
   (A) in owning and operating farms and ranches; and
 
-  (B) in participating equitably in the full range of agricultural programs offered by the Department.
+  (B) in participating equitably in the full range of agricultural, forestry, and related programs offered by the Department.
 
-(2) **Requirements** — The outreach and technical assistance program under paragraph (1) shall be used exclusively—
+(3) **Requirements** — The outreach and technical assistance program under paragraph (2) shall be used exclusively—
 
   (A) to enhance coordination of the outreach, technical assistance, and education efforts authorized under agriculture programs; and
 
@@ -2883,13 +3248,13 @@ Pub. L. 101–506, title VI, § 641, Nov. 5, 1990, 104 Stat. 1350.
 
     (ii) improving the participation of those farmers and ranchers in Department programs, as reported under [section 2279–1 of this title](./chapter-055-department-of-agriculture.md#section-2279-1).
 
-(3) **Grants and contracts**
+(4) **Grants and contracts**
 
-  (A) *In general* — The Secretary may make grants to, and enter into contracts and other agreements with, an eligible entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach and technical assistance under this subsection.
+  (A) *Outreach and technical assistance* — The Secretary may make grants to, and enter into contracts and other agreements with, an eligible entity that has demonstrated an ability to carry out the requirements described in paragraph (3) to provide outreach and technical assistance to socially disadvantaged farmers and ranchers and veteran farmers and ranchers under this subsection.
 
   (B) *Relationship to other law* — The authority to carry out this section shall be in addition to any other authority provided in this or any other Act.
 
-  (C) *Other projects* — Notwithstanding paragraph (1), the Secretary may make grants to, and enter into contracts and other agreements with, an organization or institution that received funding under this section before January 1, 1996, to carry out a project that is similar to a project for which the organization or institution received such funding.
+  (C) *Other projects* — Notwithstanding paragraph (2), the Secretary may make grants to, and enter into contracts and other agreements with, an organization or institution that received funding under this section before January 1, 1996, to carry out a project that is similar to a project for which the organization or institution received such funding.
 
   (D) *Report* — The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, and make publicly available, an annual report that includes a list of the following:
 
@@ -2901,31 +3266,236 @@ Pub. L. 101–506, title VI, § 641, Nov. 5, 1990, 104 Stat. 1350.
 
     (iv) The problems and barriers identified by entities in trying to increase participation by current and prospective socially disadvantaged farmers or ranchers.
 
-(4) **Funding**
+    (v) The number of farms or ranches started, maintained, or improved as a result of funds made available under the program.
 
-  (A) *Fiscal years 2009 through 2018* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
+    (vi) Actions taken by the Secretary in partnership with eligible entities to enhance participation in agricultural programs by veteran farmers or ranchers and socially disadvantaged farmers or ranchers.
 
-    (i) $15,000,000 for fiscal year 2009;
+    (vii) The effectiveness of the actions described in clause (vi).
 
-    (ii) $20,000,000 for each of fiscal years 2010 through 2012; and
+  (E) *Maximum term and amount of grant, contract, or agreement* — A grant, contract, or agreement entered into under subparagraph (A) shall be—
 
-    (iii) $10,000,000 for each of fiscal years 2014 through 2018.
+    (i) for a term of not longer than 3 years; and
 
-  (B) *Fiscal year 2013* — There is authorized to be appropriated to carry out this section $20,000,000 for fiscal year 2013.
+    (ii) in an amount that is not more than $250,000 for each year of the grant, contract, or agreement.
 
-  (C) *Interagency funding* — In addition to funds authorized to be appropriated under subparagraph (A) or (B), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributing funds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
+  (F) *Priority* — In making grants and entering into contracts and other agreements under subparagraph (A), the Secretary shall give priority to nongovernmental and community-based organizations with an expertise in working with socially disadvantaged farmers and ranchers or veteran farmers and ranchers.
 
-  (D) *Limitation on use of funds for administrative expenses* — Not more than 5 percent of the amounts made available under subparagraph (A) or (B) for a fiscal year may be used for expenses related to administering the program under this section.
+  (G) *Regional balance* — To the maximum extent practicable, the Secretary shall ensure the geographical diversity of eligible entities to which grants are made and contracts and other agreements are entered into under subparagraph (A).
 
-  (E) *Authorization of appropriations* — There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+  (H) *Prohibition* — A grant, contract, or other agreement under subparagraph (A) may not be used for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
 
-**(b) Designation of Federal personnel**
+  (I) *Peer review* — The Secretary shall establish a fair and efficient external peer review process that—
+
+    (i) the Secretary shall use in making grants and entering into contracts and other agreements under subparagraph (A); and
+
+    (ii) shall include a broad representation of peers of the eligible entity.
+
+  (J) *Input from eligible entities* — The Secretary shall seek input from eligible entities providing technical assistance under this subsection not less than once each year to ensure that the program is responsive to the eligible entities providing that technical assistance.
+
+(5) **Socially Disadvantaged Farmers and Ranchers Policy Research Center**
+The Secretary shall award a grant to a college or university eligible to receive funds under the Act of August 30, 1890 ([7 U.S.C. 321](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) et seq.), including Tuskegee University, to establish a policy research center to be known as the “Socially Disadvantaged Farmers and Ranchers Policy Research Center” for the purpose of developing policy recommendations for the protection and promotion of the interests of socially disadvantaged farmers and ranchers.
+
+**(d) Beginning farmer and rancher development grant program**
+
+(1) **In general** — Using funds made available under subsection (l), the Secretary, acting through the Director of the National Institute of Food and Agriculture, shall, for the period of fiscal years 2019 through 2023, make competitive grants or enter into cooperative agreements to support new and established local and regional training, education, outreach, and technical assistance initiatives to increase opportunities for beginning farmers and ranchers.
+
+(2) **Included programs and services** — Initiatives described in paragraph (1) may include programs or services, as appropriate, relating to—
+
+  (A) basic livestock, forest management, and crop farming practices;
+
+  (B) innovative farm, ranch, and private, nonindustrial forest land transfer and succession strategies;
+
+  (C) entrepreneurship and business training;
+
+  (D) technical assistance to help beginning farmers or ranchers acquire land from retiring farmers and ranchers;
+
+  (E) financial and risk management training, including the acquisition and management of agricultural credit;
+
+  (F) natural resource management and planning;
+
+  (G) diversification and marketing strategies;
+
+  (H) curriculum development;
+
+  (I) mentoring, apprenticeships, and internships;
+
+  (J) resources and referral;
+
+  (K) farm financial benchmarking;
+
+  (L) agricultural rehabilitation and vocational training for veteran farmers and ranchers;
+
+  (M) farm safety and awareness;
+
+  (N) food safety and recordkeeping; and
+
+  (O) other similar subject areas of use to beginning farmers and ranchers.
+
+(3) **Eligibility**
+
+  (A) *In general* — To be eligible to receive a grant or enter into a cooperative agreement under this subsection, the recipient of the grant or participant in the cooperative agreement shall be a collaborative State, Tribal, local, or regionally-based network or partnership of public or private entities.
+
+  (B) *Inclusions* — A recipient of a grant or a participant that enters into a cooperative agreement described in subparagraph (A) may include—
+
+    (i) a State cooperative extension service;
+
+    (ii) a Federal, State, municipal, or Tribal agency;
+
+    (iii) a community-based or nongovernmental organization;
+
+    (iv) a college or university (including an institution awarding an associate’s degree) or foundation maintained by a college or university; or
+
+    (v) any other appropriate partner, as determined by the Secretary.
+
+(4) **Terms of grants or cooperative agreement** — A grant or cooperative agreement under this subsection shall—
+
+  (A) be for a term of not longer than 3 years; and
+
+  (B) provide not more than $250,000 for each year.
+
+(5) **Matching requirement**
+
+  (A) *In general* — Except as provided in subparagraph (B), to be eligible to receive a grant or enter into a cooperative agreement under this subsection, a recipient or participant shall provide a match in the form of cash or in-kind contributions in an amount equal to 25 percent of the funds provided by the grant or cooperative agreement.
+
+  (B) *Exception* — The Secretary may waive or reduce the matching requirement in subparagraph (A) if the Secretary determines such a waiver or modification is necessary to effectively reach an underserved area or population.
+
+(6) **Evaluation criteria** — In making grants or entering into cooperative agreements under this subsection, the Secretary shall evaluate, with respect to applications for the grants or cooperative agreements—
+
+  (A) relevancy;
+
+  (B) technical merit;
+
+  (C) achievability;
+
+  (D) the expertise and track record of 1 or more applicants;
+
+  (E) the consultation of beginning farmers and ranchers in design, implementation, and decisionmaking relating to an initiative described in paragraph (1);
+
+  (F) the adequacy of plans for—
+
+    (i) a participatory evaluation process;
+
+    (ii) outcome-based reporting; and
+
+    (iii) the communication of findings and results beyond the immediate target audience; and
+
+  (G) other appropriate factors, as determined by the Secretary.
+
+(7) **Regional balance** — To the maximum extent practicable, the Secretary shall ensure the geographical diversity of recipients of grants or participants in cooperative agreements under this subsection.
+
+(8) **Priority** — In making grants or entering into cooperative agreements under this subsection, the Secretary shall give priority to partnerships and collaborations that are led by or include nongovernmental, community-based organizations and school-based educational organizations with expertise in new agricultural producer training and outreach.
+
+(9) **Prohibition** — A grant made or cooperative agreement entered into under this subsection may not be used for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
+
+(10) **Coordination permitted** — A recipient of a grant or participant in a cooperative agreement under this subsection may coordinate with a recipient of a grant or cooperative agreement under [section 5933 of this title](./chapter-088-research.md#section-5933) in addressing the needs of veteran farmers and ranchers with disabilities.
+
+(11) **Consecutive awards** — A grant or cooperative agreement under this subsection may be made to a recipient or participant for consecutive years.
+
+(12) **Peer review**
+
+  (A) *In general* — The Secretary shall establish a fair and efficient external peer review process, which the Secretary shall use in making grants or entering into cooperative agreements under this subsection.
+
+  (B) *Requirement* — The peer review process under subparagraph (A) shall include a review panel composed of a broad representation of peers of the applicant for the grant or cooperative agreement that are not applying for a grant or cooperative agreement under this subsection.
+
+(13) **Participation by other farmers and ranchers** — Nothing in this subsection prohibits the Secretary from allowing a farmer or rancher who is not a beginning farmer or rancher (including an owner or operator that has ended, or expects to end within 5 years, active labor in a farming or ranching operation as a producer, retiring farmers, and non-farming landowners) from participating in a program or service under this subsection, to the extent that the Secretary determines that such participation—
+
+  (A) is appropriate; and
+
+  (B) will not detract from the primary purpose of increasing opportunities for beginning farmers and ranchers.
+
+(14) **Education teams**
+
+  (A) *In general* — The Secretary shall establish beginning farmer and rancher education teams to develop curricula, conduct educational programs and workshops for beginning farmers and ranchers in diverse geographical areas of the United States, or provide training and technical assistance initiatives for beginning farmers or ranchers or for trainers and service providers that work with beginning farmers or ranchers.
+
+  (B) *Curriculum* — In promoting the development of curricula, educational programs and workshops, or training and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
+
+  (C) *Composition* — In establishing an education team under subparagraph (A) for a specific program or workshop, the Secretary shall, to the maximum extent practicable—
+
+    (i) obtain the short-term services of specialists with knowledge and expertise in programs serving beginning farmers and ranchers; and
+
+    (ii) use officers and employees of the Department with direct experience in programs of the Department that may be taught as part of the curriculum for the program or workshop.
+
+  (D) *Cooperation*
+
+    (i) *In general* — In carrying out this subsection, the Secretary shall cooperate, to the maximum extent practicable, with—
+
+      (I) State cooperative extension services;
+
+      (II) Federal, State, and Tribal agencies;
+
+      (III) community-based and nongovernmental organizations;
+
+      (IV) colleges and universities (including an institution awarding an associate’s degree) or foundations maintained by a college or university; and
+
+      (V) other appropriate partners, as determined by the Secretary.
+
+    (ii) *Cooperative agreements* — The Secretary may enter into a cooperative agreement to reflect the terms of any cooperation under subparagraph (A).
+
+(15) **Curriculum and training clearinghouse** — The Secretary shall establish an online clearinghouse that makes available to beginning farmers and ranchers education curricula and training materials and programs, which may include online courses for direct use by beginning farmers and ranchers.
+
+**(e) Application requirements** In making grants and entering into contracts and other agreements, as applicable, under subsections (c) and (d), the Secretary shall make available a simplified application process for an application for a grant that requests less than $50,000.
+
+**(f) Stakeholder input** In carrying out this section, the Secretary shall seek stakeholder input from—
+
+(1) beginning farmers and ranchers;
+
+(2) socially disadvantaged farmers and ranchers;
+
+(3) veteran farmers and ranchers;
+
+(4) national, State, Tribal, and local organizations and other persons with expertise in operating programs for—
+
+  (A) beginning farmers and ranchers;
+
+  (B) socially disadvantaged farmers and ranchers; or
+
+  (C) veteran farmers and ranchers;
+
+(5) the Advisory Committee on Beginning Farmers and Ranchers established under section 5(b) of the Agricultural Credit Improvement Act of 1992 ([7 U.S.C. 1929](./chapter-050-agricultural-credit.md#section-1929) note; Public Law 102–554);
+
+(6) the Advisory Committee on Minority Farmers established under section 14008 of the Food, Conservation, and Energy Act of 2008 ([7 U.S.C. 2279](./chapter-055-department-of-agriculture.md#section-2279) note; Public Law 110–246); and
+
+(7) the Tribal Advisory Committee established under subsection (b) of [section 6921 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6921).
+
+**(g) Designation of Federal personnel**
 
 (1) **In general** — The Secretary shall designate from existing Federal personnel resources in the county or region a qualified person who shall, in cooperation with the State cooperative extension services, implement the policies and programs established or modified in accordance with this section.
 
 (2) **Additional personnel** — In counties or regions in which the number of socially disadvantaged farmers and ranchers or veteran farmers and ranchers exceeds 25 percent of the total number of farmers and ranchers in the county or region, the Secretary shall designate additional personnel to implement the policies and programs established or modified in accordance with this section.
 
-**(c) Report to Congress**
+**(h) Affirmative action, appeals, and contracting review**
+
+(1) **Purpose** — It is the purpose of this subsection to direct the Secretary to analyze within the Department the design and implementation of affirmative action programs and policies, the appeals process for complaints of discrimination, and contracting and purchasing practices employed by the Department.
+
+(2) **Scope** — The study shall include—
+
+  (A) an assessment of the successes and failures of these affirmative action programs and policies;
+
+  (B) a review of the reasons for the successes and failures described in subparagraph (A);
+
+  (C) a review of procurement, contracting, and purchasing policies of the Department, the level of participation of socially disadvantaged businesses in such activities, and the impact of those policies on the participation of members of socially disadvantaged groups in such contracting with the Department;
+
+  (D) a review of the reasons for participation or lack of participation of businesses owned by members of socially disadvantaged groups in the activities described in subparagraph (C); and
+
+  (E) a review of the appeals process for all complaints or allegations regarding acts, practices, or patterns of discrimination filed with the Department by individuals or any other entities that shall include—
+
+    (i) the number of complaints or allegations regarding acts, practices, or patterns of discrimination;
+
+    (ii) the manner in which the complaints were investigated and resolved by the Department; and
+
+    (iii) the longest, shortest, and average periods of time taken to investigate and resolve the complaints or allegations regarding acts, practices, or patterns of discrimination.
+
+(3) **Report** — Not later than November 28, 1991, and not later than March 1, 2020, the Secretary shall prepare and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the information described in paragraph (2).
+
+**(i) Reservations**
+
+(1) **Consolidated suboffice** — The Secretary shall require the Farm Service Agency and Natural Resources Conservation Service, and such other offices and functions the Secretary may choose to include where there has been a need demonstrated, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices.
+
+(2) **Cooperative agreements** — For those reservations that are located in more than one county, the Secretary, the relevant county offices and the tribe shall enter into a cooperative agreement to provide the services required by paragraph (1) that avoids duplication of effort.
+
+**(j) Accurate documentation** The Secretary shall ensure, to the maximum extent practicable, that the Census of Agriculture and studies carried out by the Economic Research Service accurately document the number, location, and economic contributions of socially disadvantaged farmers or ranchers in agricultural production.
+
+**(k) Report to Congress**
 
 (1) **In general** — Not later than September 30, 1992, and every two years thereafter, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, regarding—
 
@@ -2953,117 +3523,137 @@ Pub. L. 101–506, title VI, § 641, Nov. 5, 1990, 104 Stat. 1350.
 
   (E) a review and analysis of participation by members of socially disadvantaged groups, compared to participation by all others, in agricultural programs, on a State-by-State and county-by-county basis, including a survey representative of all farmers and ranchers, including socially disadvantaged farmers and ranchers, to identify reasons for participation and nonparticipation in agricultural programs.
 
-**(d) Affirmative action, appeals, and contracting review**
+**(l) Funding**
 
-(1) **Purpose** — It is the purpose of this subsection to direct the Secretary to analyze within the Department the design and implementation of affirmative action programs and policies, the appeals process for complaints of discrimination, and contracting and purchasing practices employed by the Department.
+(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
 
-(2) **Scope** — The study shall include—
+  (A) $30,000,000 for each of fiscal years 2019 and 2020;
 
-  (A) an assessment of the successes and failures of these affirmative action programs and policies;
+  (B) $35,000,000 for fiscal year 2021;
 
-  (B) a review of the reasons for the successes and failures described in subparagraph (A);
+  (C) $40,000,000 for fiscal year 2022; and
 
-  (C) a review of procurement, contracting, and purchasing policies of the Department, the level of participation of socially disadvantaged businesses in such activities, and the impact of those policies on the participation of members of socially disadvantaged groups in such contracting with the Department;
+  (D) $50,000,000 for fiscal year 2023 and each fiscal year thereafter.
 
-  (D) a review of the reasons for participation or lack of participation of businesses owned by members of socially disadvantaged groups in the activities described in subparagraph (C); and
+(2) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2023.
 
-  (E) a review of the appeals process for all complaints or allegations regarding acts, practices, or patterns of discrimination filed with the Department by individuals or any other entities that shall include—
+(3) **Reservation of funds** — Of the amounts made available to carry out this section—
 
-    (i) the number of complaints or allegations regarding acts, practices, or patterns of discrimination;
+  (A) 50 percent shall be used to carry out subsection (c); and
 
-    (ii) the manner in which the complaints were investigated and resolved by the Department; and
+  (B) 50 percent shall be used to carry out subsection (d).
 
-    (iii) the longest, shortest, and average periods of time taken to investigate and resolve the complaints or allegations regarding acts, practices, or patterns of discrimination.
+(4) **Allocation of funds**
 
-(3) **Report** — Not later than November 28, 1991, the Secretary shall prepare and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the information described in paragraph (2).
+  (A) *In general* — Not less than 5 percent of the amounts made available to carry out subsection (d) for a fiscal year shall be used to support programs and services that address the needs of—
 
-**(e) Definitions**
+    (i) limited resource beginning farmers and ranchers, as defined by the Secretary;
 
-(1) **Socially disadvantaged group** — As used in this section, the term “socially disadvantaged group” means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.
+    (ii) socially disadvantaged farmers and ranchers that are beginning farmers and ranchers; and
 
-(2) **Socially disadvantaged farmer or rancher** — As used in this section, the term “socially disadvantaged farmer or rancher” means a farmer or rancher who is a member of a socially disadvantaged group.
+    (iii) farmworkers desiring to become farmers or ranchers.
 
-(3) **Agriculture programs** — As used in this section, the term “agriculture programs” are those established or authorized by—
+  (B) *Veteran farmers and ranchers* — Not less than 5 percent of the amounts made available to carry out subsection (d) for a fiscal year shall be used to support programs and services that address the needs of veteran farmers and ranchers.
 
-  (A) the Agricultural Act of 1949 [[7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) et seq.];
+(5) **Interagency funding** — Any agency of the Department may participate in any grant, contract, or agreement entered into under this section by contributing funds, if the contributing agency determines that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
 
-  (B) the Consolidated Farm and Rural Development Act [[7 U.S.C. 1921](./chapter-050-agricultural-credit.md#section-1921) et seq.];
+(6) **Administrative expenses** — Not more than 5 percent of the amounts made available to carry out this section for a fiscal year may be used for expenses relating to the administration of this section.
 
-  (C) the Agricultural Adjustment Act of 1938 [[7 U.S.C. 1281](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) et seq.];
-
-  (D) the Soil Conservation Act;
-
-  (E) the Domestic Allotment Assistance Act;
-
-  (F) the Food Security Act of 1985; and
-
-  (G) other such Acts as the Secretary deems appropriate.
-
-(4) **Department** — The term “Department” means the Department of Agriculture.
-
-(5) **Eligible entity** — The term “eligible entity” means any of the following:
-
-  (A) Any community-based organization, network, or coalition of community-based organizations that—
-
-    (i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers and veteran farmers or ranchers;
-
-    (ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers and veteran farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a); and
-
-    (iii) does not engage in activities prohibited under [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim).
-
-  (B) An 1890 institution or 1994 institution (as defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601)), including West Virginia State College.
-
-  (C) An Indian tribal community college or an Alaska Native cooperative college.
-
-  (D) An Hispanic-serving institution (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)).
-
-  (E) Any other institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
-
-  (F) An Indian tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
-
-  (G) An organization or institution that received funding under subsection (a) before January 1, 1996, but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
-
-(6) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
-
-(7) **Veteran farmer or rancher** — The term “veteran farmer or rancher” means a farmer or rancher who has served in the Armed Forces (as defined in [section 101(10) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/10&num=0&edition=prelim)) and who—
-
-  (A) has not operated a farm or ranch; or
-
-  (B) has operated a farm or ranch for not more than 10 years.
-
-**(f) Omitted**
-
-**(g) Reservations**
-
-(1) **Consolidated suboffice** — The Secretary shall require the Farm Service Agency and Natural Resources Conservation Service, and such other offices and functions the Secretary may choose to include where there has been a need demonstrated, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices.
-
-(2) **Cooperative agreements** — For those reservations that are located in more than one county, the Secretary, the relevant county offices and the tribe shall enter into a cooperative agreement to provide the services required by paragraph (1) that avoids duplication of effort.
-
-**(h) Accurate documentation** The Secretary shall ensure, to the maximum extent practicable, that the Census of Agriculture and studies carried out by the Economic Research Service accurately document the number, location, and economic contributions of socially disadvantaged farmers or ranchers in agricultural production.
-
-**(i) Socially Disadvantaged Farmers and Ranchers Policy Research Center** The Secretary shall award a grant to a college or university eligible to receive funds under the Act of August 30, 1890 ([7 U.S.C. 321](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) et seq.), including Tuskegee University, to establish a policy research center to be known as the “Socially Disadvantaged Farmers and Ranchers Policy Research Center” for the purpose of developing policy recommendations for the protection and promotion of the interests of socially disadvantaged farmers and ranchers.
+(7) **Limitation on indirect costs** — A recipient of a grant or a party to a contract or other agreement under subsection (c) or (d) may not use more than 10 percent of the funds received for the indirect costs of carrying out a grant, contract, or other agreement.
 
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in subsec. (e)(3)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(1)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (e)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (e)(3)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (e)(3)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590q&num=0&edition=prelim) and Tables.
+The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (a)(1)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590q&num=0&edition=prelim) and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (e)(3)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-Act of August 30, 1890, referred to in subsec. (i), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
+Act of August 30, 1890, referred to in subsec. (c)(5), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Section is comprised of section 2501 of Pub. L. 101–624. Subsec. (f) of section 2501 of Pub. L. 101–624 amended [section 2003 of this title](./chapter-050-agricultural-credit.md#section-2003).
-
 #### Amendments
+2018—Pub. L. 115–334, § 12301(b)(1), substituted “Farming opportunities training and outreach” for “Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers” in section catchline.
+
+Subsec. (a). Pub. L. 115–334, § 12301(b)(5)(A), inserted introductory provisions.
+
+Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (e) as (a). Former subsec. (a) redesignated (c).
+
+Subsec. (a)(1). Pub. L. 115–334, § 12301(b)(5)(B)–(D), redesignated par. (3) as (1) and substituted “Agricultural” for “Agriculture” in heading and “The” for “As used in this section, the” and “agricultural” for “agriculture” in introductory provisions. Former par. (1) redesignated (6).
+
+Subsec. (a)(2). Pub. L. 115–334, § 12301(b)(5)(E), added par. (2). Former par. (2) redesignated (5).
+
+Subsec. (a)(3). Pub. L. 115–334, § 12301(b)(5)(B), redesignated par. (4) as (3). Former par. (3) redesignated (1).
+
+Subsec. (a)(4). Pub. L. 115–334, § 12301(b)(5)(B), redesignated par. (6) as (4). Former par. (4) redesignated (3).
+
+Subsec. (a)(5). Pub. L. 115–334, § 12301(b)(5)(B), (C), redesignated par. (2) as (5) and substituted “The” for “As used in this section, the”.
+
+Pub. L. 115–334, § 12301(b)(4), redesignated par. (5) as subsec. (c)(6).
+
+Pub. L. 115–334, § 12301(b)(2), redesignated subsec. (i) as par. (5) and realigned margins.
+
+Subsec. (a)(6). Pub. L. 115–334, § 12301(b)(5)(B), (C), redesignated par. (1) as (6) and substituted “The” for “As used in this section, the”. Former Par. (6) redesignated (4).
+
+Subsec. (a)(7)(C). Pub. L. 115–334, § 12306(a), added subpar. (C).
+
+Subsec. (b). Pub. L. 115–334, § 12301(b)(6), added subsec. (b). Former subsec. (b) redesignated (g).
+
+Subsec. (c). Pub. L. 115–334, § 12301(b)(7)(A), inserted “for socially disadvantaged and veteran farmers and ranchers” after “assistance” in heading.
+
+Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (a) as (c). Former subsec. (c) redesignated (k).
+
+Subsec. (c)(1). Pub. L. 115–334, § 12301(b)(7)(C), (D)(i), redesignated par. (6) as (1) and substituted “In this subsection, the term” for “The term” in introductory provisions. Former par. (1) redesignated (2).
+
+Subsec. (c)(1)(A)(ii). Pub. L. 115–334, § 12301(b)(7)(D)(ii), substituted “this subsection” for “subsection (a)”.
+
+Subsec. (c)(1)(F). Pub. L. 115–334, § 12301(b)(7)(D)(iii), made technical amendment to reference in original act which appears in text as reference to [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+Subsec. (c)(2). Pub. L. 115–334, § 12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted “Using funds made available under subsection (l), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out” for “The Secretary of Agriculture shall carry out”. Former par. (2) redesignated (3).
+
+Subsec. (c)(2)(B). Pub. L. 115–334, § 12301(b)(7)(E)(ii), (iii), substituted “agricultural, forestry, and related” for “agricultural”.
+
+Subsec. (c)(3). Pub. L. 115–334, § 12301(b)(7)(C), (F), redesignated par. (2) as (3) and substituted “(2)” for “(1)” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 115–334, § 12301(b)(7)(B), (C), redesignated par. (3) as (4) and struck out former par. (4) which related to funding.
+
+Subsec. (c)(4)(A). Pub. L. 115–334, § 12301(b)(7)(G)(i), in heading, substituted “Outreach and technical assistance” for “In general” and, in text, substituted “(3)” for “(2)” and inserted “to socially disadvantaged farmers and ranchers and veteran farmers and ranchers” after “assistance”.
+
+Subsec. (c)(4)(C). Pub. L. 115–334, § 12301(b)(7)(G)(ii), substituted “(2)” for “(1)”.
+
+Subsec. (c)(4)(D)(v) to (vii). Pub. L. 115–334, § 12301(b)(7)(G)(iii), added cls. (v) to (vii).
+
+Subsec. (c)(4)(E) to (J). Pub. L. 115–334, § 12301(b)(7)(G)(iv), added subpars. (E) to (J).
+
+Subsec. (c)(6). Pub. L. 115–334, § 12301(b)(7)(C), redesignated par. (6) as (1).
+
+Pub. L. 115–334, § 12301(b)(4), redesignated subsec. (a)(5) as (c)(6).
+
+Subsecs. (d), (e). Pub. L. 115–334, § 12301(b)(8), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (h) and (a), respectively.
+
+Subsec. (f). Pub. L. 115–334, § 12301(b)(9), added subsec. (f) and struck out former subsec. (f) which amended [section 2003 of this title](./chapter-050-agricultural-credit.md#section-2003).
+
+Subsec. (g). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (b) as (g). Former subsec. (g) redesignated (i).
+
+Subsec. (h). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (d) as (h). Former subsec. (h) redesignated (j).
+
+Subsec. (h)(3). Pub. L. 115–334, § 12301(b)(10), inserted “and not later than March 1, 2020,” after “1991,”.
+
+Subsec. (i). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (g) as (i).
+
+Pub. L. 115–334, § 12301(b)(2), redesignated subsec. (i) as (a)(5).
+
+Subsecs. (j), (k). Pub. L. 115–334, § 12301(b)(3), redesignated subsecs. (h) and (c) as (j) and (k), respectively.
+
+Subsec. (l). Pub. L. 115–334, § 12301(b)(11), added subsec. (l).
+
 2014—Pub. L. 113–79, § 12201(a)(1), inserted “and veteran farmers and ranchers” after “ranchers” in section catchline.
 
 Subsec. (a)(1). Pub. L. 113–79, § 12201(a)(2)(A), inserted “and veteran farmers or ranchers” after “ranchers” in introductory provisions.
@@ -3147,7 +3737,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Minority Farmer Advisory Committee
-Pub. L. 110–234, title XIV, § 14008, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, § 4(a), title XIV, § 14008, June 18, 2008, 122 Stat. 1664, 2208, provided that: “(a) Establishment.—Not later than 18 months after the date of the enactment of this Act [June 18, 2008], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Minority Farmers’ (in this section referred to as the ‘Committee’). “(b) Duties.—The Committee shall provide advice to the Secretary on—“(1) the implementation of section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 2279](./chapter-055-department-of-agriculture.md#section-2279)); “(2) methods of maximizing the participation of minority farmers and ranchers in Department of Agriculture programs; and “(3) civil rights activities within the Department as such activities relate to participants in such programs. “(c) Membership.—“(1) In general.—The Committee shall be composed of not more than 15 members, who shall be appointed by the Secretary, and shall include—“(A) not less than four socially disadvantaged farmers or ranchers (as defined in section 2501(e)(2) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 2279(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e/2&num=0&edition=prelim))); “(B) not less than two representatives of nonprofit organizations with a history of working with minority farmers and ranchers; “(C) not less than two civil rights professionals; “(D) not less than two representatives of institutions of higher education with demonstrated experience working with minority farmers and ranchers; and “(E) such other persons as the Secretary considers appropriate. “(2) Ex-officio members.—The Secretary may appoint such employees of the Department of Agriculture as the Secretary considers appropriate to serve as ex-officio members of the Committee.”
+Pub. L. 110–234, title XIV, § 14008, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, § 4(a), title XIV, § 14008, June 18, 2008, 122 Stat. 1664, 2208, provided that: “(a) Establishment.—Not later than 18 months after the date of the enactment of this Act [June 18, 2008], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Minority Farmers’ (in this section referred to as the ‘Committee’). “(b) Duties.—The Committee shall provide advice to the Secretary on—“(1) the implementation of section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 2279](./chapter-055-department-of-agriculture.md#section-2279)); “(2) methods of maximizing the participation of minority farmers and ranchers in Department of Agriculture programs; and “(3) civil rights activities within the Department as such activities relate to participants in such programs. “(c) Membership.—“(1) In general.—The Committee shall be composed of not more than 15 members, who shall be appointed by the Secretary, and shall include—“(A) not less than four socially disadvantaged farmers or ranchers (as defined in section 2501(e)(2) [now 2501(a)(2)] of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 2279(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e/2&num=0&edition=prelim)) [now [7 U.S.C. 2279(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a/2&num=0&edition=prelim)]); “(B) not less than two representatives of nonprofit organizations with a history of working with minority farmers and ranchers; “(C) not less than two civil rights professionals; “(D) not less than two representatives of institutions of higher education with demonstrated experience working with minority farmers and ranchers; and “(E) such other persons as the Secretary considers appropriate. “(2) Ex-officio members.—The Secretary may appoint such employees of the Department of Agriculture as the Secretary considers appropriate to serve as ex-officio members of the Committee.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).]
 
@@ -3495,6 +4085,59 @@ In carrying on the activities of the Department of Agriculture involving coopera
 
 #### Codification
 Section was formerly classified to [section 450b of this title](./chapter-017-miscellaneous-matters.md#section-450b) prior to editorial reclassification and renumbering as this section, and to [section 563 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section563&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+
+<a id="section-2279j"></a>
+## § 2279j. Conversion authority
+
+The Secretary may, notwithstanding subchapter I of chapter 33 of title 5, governing appointments in the competitive or excepted service, noncompetitively convert to an appointment in the competitive service, in an agency or office within the Department of Agriculture, a recent graduate or student who is a United States citizen and has been awarded and successfully completed a scholarship program granted to the individual by the Department through the 1890 National Scholars Program or the 1994 Tribal Scholars Program carried out by the Department, provided the individual meets the requirements for such conversion and meets Office of Personnel Management qualification standards, as determined by the Secretary. Nothing in the preceding sentence shall be construed as requiring the Secretary to convert an individual under the authority under such sentence.
+
+### Statutory Notes
+
+#### Definitions
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+
+<a id="section-2279k"></a>
+## § 2279k. Authorization of protection operations for the Secretary of Agriculture and others
+**(a) In general** The Department of Agriculture is authorized to employ qualified law enforcement officers or special agents to provide—
+
+(1) protection for the Secretary and the Deputy Secretary during the performance of official duties by each such officer and during any activity that is preliminary or postliminary to the performance of official duties by each such officer;
+
+(2) protection, incidental to the protection provided pursuant to paragraph (1), to an individual accompanying each such officer who is participating in an activity or event relating to the official duties of each such officer when there is an articulable threat to such individual;
+
+(3) continuous protection to the Secretary and Deputy Secretary (including during periods not described in paragraph (1)) if there is an articulable threat of physical harm, in accordance with guidelines established by the Secretary; and
+
+(4) protection of another senior officer representing the Secretary (including a person nominated to be the Secretary during the pendency of such nomination) if there is an articulable threat of physical harm, in accordance with guidelines established by the Secretary.
+
+**(b) Authorities of the protective operation**
+
+(1) **In general** — The Secretary may authorize officers or special agents employed pursuant to subsection (a)—
+
+  (A) to carry firearms;
+
+  (B) to conduct criminal investigations into potential threats to the security of persons protected under this section;
+
+  (C) to make arrests without a warrant for any offense against the United States committed in the presence of such officer or special agent;
+
+  (D) to perform protective intelligence work, including identifying and mitigating potential threats and conducting advance work to review security matters relating to sites and events; and
+
+  (E) to coordinate with local law enforcement agencies.
+
+(2) **Guidelines** — The authority conveyed under this section shall be exercised in accordance with any—
+
+  (A) guidelines issued by the Attorney General; and
+
+  (B) such additional guidelines as may be issued by the Secretary.
+
+**(c) Exception** The authorities granted under this section may be exercised notwithstanding [section 1343(b)(1) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343/b/1&num=0&edition=prelim).
+
+**(d) Report** Not later than September 30, 2019, and each September 30 through 2024, the Secretary shall provide to the Committee on Agriculture of the House of Representatives and Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the protection provided, and accounting for the expenditures made, pursuant to this section.
+
+### Statutory Notes
+
+#### Definitions
+“Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
 <a id="section-2279-1"></a>

@@ -161,7 +161,7 @@ As used in this chapter:
 
       (IV) any leverage transaction authorized under [section 23 of this title](./chapter-001-commodity-exchanges.md#section-23);
 
-    (ii) for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the activities referred to in clause (i).
+    (ii) for compensation or profit, and as part of a regular business, issues or promulgates analyses or reports concerning any of the activities referred to in clause (i);
 
     (iii) is registered with the Commission as a commodity trading advisor; or
 

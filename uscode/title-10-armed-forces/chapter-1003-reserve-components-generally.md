@@ -316,7 +316,7 @@ The Air National Guard of the United States is the reserve component of the Air 
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 8077 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8077&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in [section 8077 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8077), prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 #### Effective Date
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
@@ -330,7 +330,7 @@ The Air National Guard while in the service of the United States is a component 
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 8078 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8078&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in [section 8078 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8078), prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 #### Effective Date
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
@@ -344,7 +344,7 @@ When not on active duty, members of the Air National Guard of the United States 
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 8079 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8079&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in [section 8079 of this title](./chapter-809-bureaus-office-of-the-judge-advocate-general.md#section-8079), prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 #### Effective Date
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
@@ -353,9 +353,15 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 <a id="section-10114"></a>
 ## § 10114. Coast Guard Reserve
 
-As provided in [section 701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim), the Coast Guard Reserve is a component of the Coast Guard and is organized, administered, trained, and supplied under the direction of the Commandant of the Coast Guard. Laws applicable to the Coast Guard Reserve are set forth in chapter 21 of title 14 ([14 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) et seq.).
+As provided in section 701 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, the Coast Guard Reserve is a component of the Coast Guard and is organized, administered, trained, and supplied under the direction of the Commandant of the Coast Guard. Laws applicable to the Coast Guard Reserve are set forth in chapter 21 22 See References in Text note below. of title 14 ([14 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
+
+#### References in Text
+Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, § 118(b)(2), Dec. 4, 2018, 132 Stat. 4233.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) redesignated [section 3701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3701&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

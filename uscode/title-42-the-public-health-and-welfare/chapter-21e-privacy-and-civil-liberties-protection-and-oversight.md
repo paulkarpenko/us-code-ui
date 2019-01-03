@@ -96,11 +96,11 @@ source: >-
 
   (E) for the preceding period, any requests submitted under subsection (g)(1)(D) for the issuance of subpoenas that were modified or denied by the Attorney General.
 
-**(f) Informing the public** The Board shall—
+**(f) Informing the public** The Board—
 
-(1) make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
+(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
 
-(2) hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law.
+(2) shall hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law, but may, notwithstanding [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim), meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public.
 
 **(g) Access to information**
 
@@ -164,9 +164,11 @@ source: >-
 
 (1) **Appointment and compensation** — The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim).
 
-(2) **Detailees** — Any Federal employee may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee’s regular employment without interruption.
+(2) **Appointment in absence of chairman** — If the position of chairman of the Board is vacant, during the period of the vacancy, the Board, at the direction of the unanimous vote of the serving members of the Board, may exercise the authority of the chairman under paragraph (1).
 
-(3) **Consultant services** — The Board may procure the temporary or intermittent services of experts and consultants in accordance with [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), at rates that do not exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
+(3) **Detailees** — Any Federal employee may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee’s regular employment without interruption.
+
+(4) **Consultant services** — The Board may procure the temporary or intermittent services of experts and consultants in accordance with [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), at rates that do not exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
 
 **(k) Security clearances**
 
@@ -203,6 +205,14 @@ Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2
 Section was formerly set out as a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–118, § 108(b)(1), substituted “The Board” for “The Board shall” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 115–118, § 108(b)(2), substituted “shall make its” for “make its”.
+
+Subsec. (f)(2). Pub. L. 115–118, § 108(b)(3), substituted “shall hold public” for “hold public” and inserted before period at end “, but may, notwithstanding [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim), meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public”.
+
+Subsec. (j)(2) to (4). Pub. L. 115–118, § 108(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
 2015—Subsec. (g)(5). Pub. L. 114–113 added par. (5).
 
 2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
@@ -306,7 +316,7 @@ George W. Bush.
 
 <a id="section-2000ee-1"></a>
 ## § 2000ee–1. Privacy and civil liberties officers
-**(a) Designation and functions** The Attorney General, the Secretary of Defense, the Secretary of State, the Secretary of the Treasury, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Director of National Intelligence, the Director of the Central Intelligence Agency, and the head of any other department, agency, or element of the executive branch designated by the Privacy and Civil Liberties Oversight Board under [section 2000ee of this title](./chapter-21e-privacy-and-civil-liberties-protection-and-oversight.md#section-2000ee) to be appropriate for coverage under this section shall designate not less than 1 senior officer to serve as the principal advisor to—
+**(a) Designation and functions** The Attorney General, the Secretary of Defense, the Secretary of State, the Secretary of the Treasury, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the Federal Bureau of Investigation, and the head of any other department, agency, or element of the executive branch designated by the Privacy and Civil Liberties Oversight Board under [section 2000ee of this title](./chapter-21e-privacy-and-civil-liberties-protection-and-oversight.md#section-2000ee) to be appropriate for coverage under this section shall designate not less than 1 senior officer to serve as the principal advisor to—
 
 (1) assist the head of such department, agency, or element and other officials of such department, agency, or element in appropriately considering privacy and civil liberties concerns when such officials are proposing, developing, or implementing laws, regulations, policies, procedures, or guidelines related to efforts to protect the Nation against terrorism;
 
@@ -381,6 +391,8 @@ George W. Bush.
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–118 inserted “, the Director of the National Security Agency, the Director of the Federal Bureau of Investigation” after “the Director of the Central Intelligence Agency” in introductory provisions.
+
 2014—Subsec. (f)(1). Pub. L. 113–126 substituted “semiannually” for “quarterly” in introductory provisions.
 
 2007—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: “It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer.”

@@ -9,16 +9,19 @@ source: >-
 <a id="section-3301"></a>
 ## § 3301. Rate of tax
 
-There is hereby imposed on every employer (as defined in section 3306(a)) for each calendar year an excise tax, with respect to having individuals in his employ, equal to—
-
-(1) 6.2 percent in the case of calendar years 1988 through 2010 and the first 6 months of calendar year 2011; or
-
-(2) 6.0 percent in the case of the remainder of calendar year 2011 and each calendar year thereafter;
-of the total wages (as defined in section 3306(b)) paid by him during the calendar year (or portion of the calendar year) with respect to employment (as defined in section 3306(c)).
+There is hereby imposed on every employer (as defined in section 3306(a)) for each calendar year an excise tax, with respect to having individuals in his employ, equal to 6 percent of the total wages (as defined in section 3306(b)) paid by such employer during the calendar year with respect to employment (as defined in section 3306(c)).
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–141 substituted “equal to 6 percent of the total wages (as defined in section 3306(b)) paid by such employer during the calendar year with respect to employment (as defined in section 3306(c)).” for “equal to—
+
+“(1) 6.2 percent in the case of calendar years 1988 through 2010 and the first 6 months of calendar year 2011; or
+
+“(2) 6.0 percent in the case of the remainder of calendar year 2011 and each calendar year thereafter;
+
+of the total wages (as defined in section 3306(b)) paid by him during the calendar year (or portion of the calendar year) with respect to employment (as defined in section 3306(c)).”
+
 2009—Pub. L. 111–92 inserted “(or portion of the calendar year)” after “during the calendar year” in concluding provisions and substituted “through 2010 and the first 6 months of calendar year 2011” for “through 2009” in par. (1) and “the remainder of calendar year 2011” for “calendar year 2010” in par. (2).
 
 2008—Par. (1). Pub. L. 110–343, § 404(a)(1), substituted “through 2009” for “through 2008”.
@@ -102,6 +105,9 @@ Pub. L. 91–373, title III, § 301(a), Aug. 10, 1970, 84 Stat. 713, provided th
 #### Effective Date of 1960 Amendment
 Pub. L. 86–778, title V, § 523(c), Sept. 13, 1960, 74 Stat. 982, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to the calendar year 1961 and calendar years thereafter.”
 
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
@@ -145,7 +151,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
     (i) the 5-year benefit cost rate applicable to such State for such taxable year or (if higher) 2.7 percent, exceeds
 
     (ii) the average employer contribution rate for such State for the calendar year preceding such taxable year.
-  The provisions of the preceding sentence shall not be applicable with respect to the taxable year beginning January 1, 1975, or any succeeding taxable year which begins before January 1, 1980; and, for purposes of such sentence, January 1, 1980, shall be deemed to be the first January 1 occurring after January 1, 1974, and consecutive taxable years in the period commencing January 1, 1980, shall be determined as if the taxable year which begins on January 1, 1980, were the taxable year immediately succeeding the taxable year which began on January 1, 1974. Subparagraph (C) shall not apply with respect to any taxable year to which it would otherwise apply (but subparagraph (B) shall apply to such taxable year) if the Secretary of Labor determines (on or before November 10 of such taxable year) that the State meets the requirements of subsection (f)(2)(B) for such taxable year.
+  Subparagraph (C) shall not apply with respect to any taxable year to which it would otherwise apply (but subparagraph (B) shall apply to such taxable year) if the Secretary of Labor determines (on or before November 10 of such taxable year) that the State meets the requirements of subsection (f)(2)(B) for such taxable year.
 
 (3) If the Secretary of Labor determines that a State, or State agency, has not—
 
@@ -206,8 +212,7 @@ then, for the calendar year in which the acquisition takes place, in addition to
 
   (C) the State unemployment tax rate for the taxable year equals or exceeds the average benefit cost ratio for calendar years in the 5-calendar year period ending with the last calendar year before the taxable year, and
 
-  (D) the outstanding balance for such State of advances under title XII of the Social Security Act on September 30 of such taxable year was not greater than the outstanding balance for such State of such advances on September 30 of the third preceding taxable year (or, for purposes of applying this subparagraph to taxable year 1983, September 30, 1981).
-  The requirements of subparagraphs (C) and (D) shall not apply to taxable years 1981 and 1982.
+  (D) the outstanding balance for such State of advances under title XII of the Social Security Act on September 30 of such taxable year was not greater than the outstanding balance for such State of such advances on September 30 of the third preceding taxable year.
 
 (3) **Credit reductions for subsequent years** — If the credit reduction under subsection (c)(2) is limited by reason of paragraph (1) of this subsection for any taxable year, for purposes of applying subsection (c)(2) to subsequent taxable years (including years after 1987), the taxable year for which the credit reduction was so limited (and January 1 thereof) shall not be taken into account.
 
@@ -285,6 +290,12 @@ The date of the enactment of this subsection, referred to in subsec. (f)(2)(A), 
 The date of the enactment of this subsection, referred to in subsec. (g)(2)(C), means the date of the enactment of Pub. L. 97–248, which was approved Sept. 3, 1982.
 
 #### Amendments
+2018—Subsec. (c)(2). Pub. L. 115–141, § 401(b)(38), struck out at beginning of concluding provisions “The provisions of the preceding sentence shall not be applicable with respect to the taxable year beginning January 1, 1975, or any succeeding taxable year which begins before January 1, 1980; and, for purposes of such sentence, January 1, 1980, shall be deemed to be the first January 1 occurring after January 1, 1974, and consecutive taxable years in the period commencing January 1, 1980, shall be determined as if the taxable year which begins on January 1, 1980, were the taxable year immediately succeeding the taxable year which began on January 1, 1974.”
+
+Subsec. (f)(2). Pub. L. 115–141, § 401(b)(39)(B), struck out concluding provisions which read as follows: “The requirements of subparagraphs (C) and (D) shall not apply to taxable years 1981 and 1982.”
+
+Subsec. (f)(2)(D). Pub. L. 115–141, § 401(b)(39)(A), struck out “(or, for purposes of applying this subparagraph to taxable year 1983, September 30, 1981)” before period at end.
+
 2014—Subsec. (f)(4). Pub. L. 113–295, § 221(a)(101)(A), substituted “subsection, the” for “subsection—”, subpar. (A) designation and heading “In general”, and “The”; redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigned margins; and struck out former subpar. (B) which related to treatment of additional tax under this chapter for taxable years 1983 and 1984.
 
 Subsec. (f)(5)(D), (E). Pub. L. 113–295, § 221(a)(101)(B), redesignated subpar. (E) as (D) and struck out former subpar. (D) which related to special rules for years before 1985.
@@ -394,6 +405,9 @@ Pub. L. 88–173, § 1(d), Nov. 7, 1963, 77 Stat. 306, provided that: “The ame
 
 #### Effective Date of 1961 Amendment
 Pub. L. 87–321, § 1(b), Sept. 26, 1961, 75 Stat. 683, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the calendar year 1961 and each calendar year thereafter.”
+
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 #### Construction
 Pub. L. 113–295, div. B, title II, § 206(h), Dec. 19, 2014, 128 Stat. 4071, provided that: “Nothing contained in this section [enacting sections 3511 and 7705 of this title, amending this section and sections 3303, 6053, 6652, and 7528 of this title, and enacting provisions set out as notes under this section and [section 7705 of this title](./chapter-079-definitions.md#section-7705)] or the amendments made by this section shall be construed to create any inference with respect to the determination of who is an employee or employer— “(1) for Federal tax purposes (other than the purposes set forth in the amendments made by this section), or “(2) for purposes of any other provision of law.”
@@ -563,7 +577,7 @@ Pub. L. 98–21, title V, § 524, Apr. 20, 1983, 97 Stat. 149, as amended by Pub
 
     (i) amounts may be deducted to pay any fees authorized under such section; and
 
-    (ii) the penalties and interest described in section 6402(f)(4)(B) 11 See References in Text note below. may be transferred to the appropriate State fund into which the State would have deposited such amounts had the person owing the debt paid such amounts directly to the State;
+    (ii) the penalties and interest described in section 6402(f)(4)(C) may be transferred to the appropriate State fund into which the State would have deposited such amounts had the person owing the debt paid such amounts directly to the State;
 
 (5) compensation shall not be denied in such State to any otherwise eligible individual for refusing to accept new work under any of the following conditions:
 
@@ -677,8 +691,6 @@ then such provision shall be applied by taking into account for each such portio
 #### References in Text
 The Social Security Act, referred to in subsec. (a)(4)(B), (D), (15)(A)(i)(II), (16)(A), (B), (17), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title IV and title XII of the Act are classified generally to part A (§ 601 et seq.) of subchapter IV and subchapter XII (§ 1321 et seq.), respectively, of chapter 7 of Title 42. Sections 303(g), 453(i), and 903(c)(2), (d)(4) of the Act are classified to sections 503(g), 653(i), and 1103(c)(2), (d)(4), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-Section 6402(f)(4)(B), referred to in subsec. (a)(4)(G)(ii), does not relate to penalties and interest. Provisions relating to penalties and interest are found elsewhere in section 6402(f).
-
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(11) and (c), is Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, as amended, which is set out as a note below.
 
 Section 212(d)(5) of the Immigration and Nationality Act, referred to in subsec. (a)(14)(A), is classified to [section 1182(d)(5) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/5&num=0&edition=prelim), Aliens and Nationality.
@@ -686,6 +698,8 @@ Section 212(d)(5) of the Immigration and Nationality Act, referred to in subsec.
 The Railroad Retirement Act of 1974, referred to in subsec. (a)(15)(A)(i)(II), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
 #### Amendments
+2018—Subsec. (a)(4)(G)(ii). Pub. L. 115–141 substituted “section 6402(f)(4)(C)” for “section 6402(f)(4)(B)”.
+
 2012—Subsec. (a)(4)(D). Pub. L. 112–96, § 2103(a), substituted “shall” for “may”.
 
 Subsec. (a)(4)(E). Pub. L. 112–96, § 2161(b)(1)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor;”.
@@ -1218,11 +1232,11 @@ Pub. L. 86–778, title V, § 531(g), Sept. 13, 1960, 74 Stat. 984, as amended b
 
   (E) under or to an exempt governmental deferred compensation plan (as defined in section 3121(v)(3)),
 
-  (F) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974; 11 So in original. The semicolon probably should be a comma.
+  (F) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974,
 
   (G) under a cafeteria plan (within the meaning of section 125) if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received, or
 
-  (H) under an arrangement to which section 408(p) applies, other than any elective contributions under paragraph (2)(A)(i) thereof,22 So in original. The comma probably should be a semicolon.
+  (H) under an arrangement to which section 408(p) applies, other than any elective contributions under paragraph (2)(A)(i) thereof,11 So in original. The comma probably should be a semicolon.
 
 (6) the payment by an employer (without deduction from the remuneration of the employee)—
 
@@ -1343,7 +1357,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, any thi
 
 (18) service described in section 3121(b)(20);
 
-(19) Service 33 So in original. Probably should not be capitalized. which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended ([8 U.S.C. 1101(a)(15)(F)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/F&num=0&edition=prelim), (J), (M), or (Q)), and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be;
+(19) service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended ([8 U.S.C. 1101(a)(15)(F)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/F&num=0&edition=prelim), (J), (M), or (Q)), and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be;
 
 (20) service performed by a full time student (as defined in subsection (q)) in the employ of an organized camp—
 
@@ -1365,7 +1379,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, any thi
 
 (1) an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration;
 
-(2) the amounts specified by section 903(c)(2) or 903(d)(4) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices,2
+(2) the amounts specified by section 903(c)(2) or 903(d)(4) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices,1
 
 (3) nothing in this subsection shall be construed to prohibit deducting any amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor;
 
@@ -1510,9 +1524,9 @@ For purposes of this chapter, each such general agent shall be considered a lega
 
 (6) the program meets such other requirements as the Secretary of Labor determines to be appropriate.
 
-**(u) Indian tribe** For purposes of this chapter, the term “Indian tribe” has the meaning given to such term by section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)),44 See References in Text note below. and includes any subdivision, subsidiary, or business enterprise wholly owned by such an Indian tribe.
+**(u) Indian tribe** For purposes of this chapter, the term “Indian tribe” has the meaning given to such term by section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)), and includes any subdivision, subsidiary, or business enterprise wholly owned by such an Indian tribe.
 
-**(v) Short-time compensation program** For purposes of this part,55 So in original. This section is not contained in a part. the term “short-time compensation program” means a program under which—
+**(v) Short-time compensation program** For purposes of this section, the term “short-time compensation program” means a program under which—
 
 (1) the participation of an employer is voluntary;
 
@@ -1524,7 +1538,7 @@ For purposes of this chapter, each such general agent shall be considered a lega
 
 (5) such employees meet the availability for work and work search test requirements while collecting short-time compensation benefits, by being available for their workweek as required by the State agency;
 
-(6) eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) 4 to enhance job skills if such program has been approved by the State agency;
+(6) eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) 22 See References in Text note below. to enhance job skills if such program has been approved by the State agency;
 
 (7) the State agency shall require employers to certify that if the employer provides health benefits and retirement benefits under a defined benefit plan (as defined in section 414(j)) or contributions under a defined contribution plan (as defined in section 414(i)) to any employee whose workweek is reduced under the program that such benefits will continue to be provided to employees participating in the short-time compensation program under the same terms and conditions as though the workweek of such employee had not been reduced or to the same extent as other employees not participating in the short-time compensation program;
 
@@ -1547,11 +1561,17 @@ Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, refer
 
 The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (o)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1801&num=0&edition=prelim) and Tables.
 
-Section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)), referred to in subsec. (u), was classified to [section 450b(e) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5304(e) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
-
 The Workforce Investment Act of 1998, referred to in subsec. (v)(6), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101) and Tables.
 
 #### Amendments
+2018—Subsec. (b)(5)(F). Pub. L. 115–141, § 401(a)(212), substituted comma for semicolon at end.
+
+Subsec. (c)(19). Pub. L. 115–141, § 401(a)(213), substituted “service” for “Service”.
+
+Subsec. (u). Pub. L. 115–141, § 401(a)(214), substituted “[25 U.S.C. 5304(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)” for “[25 U.S.C. 450b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)”.
+
+Subsec. (v). Pub. L. 115–141, § 401(a)(215), substituted “this section” for “this part” in introductory provisions.
+
 2015—Subsec. (n). Pub. L. 114–92 substituted “Secretary of Transportation” for “Secretary of Commerce” in par. (2) and concluding provisions.
 
 2014—Subsec. (b)(12). Pub. L. 113–295 struck out par. (12) which read as follows: “any contribution, payment, or service, provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);”.
@@ -2049,17 +2069,16 @@ Applicability of this section to Federal land banks, Federal intermediate credit
 
 **(c) Nonprofit organizations must employ 4 or more** This section shall not apply to service performed during any calendar year in the employ of any organization unless on each of some 20 days during such calendar year or the preceding calendar year, each day being in a different calendar week, the total number of individuals who were employed by such organization in employment (determined without regard to section 3306(c)(8) and by excluding service to which this section does not apply by reason of subsection (b)) for some portion of the day (whether or not at the same moment of time) was 4 or more.
 
-**(d) Election by Indian tribe** The State law shall provide that an Indian tribe may make contributions for employment as if the employment is within the meaning of section 3306 or make payments in lieu of contributions under this section, and shall provide that an Indian tribe may make separate elections for itself and each subdivision, subsidiary, or business enterprise wholly owned by such Indian tribe. State law may require a tribe to post a payment bond or take other reasonable measures to assure the making of payments in lieu of contributions under this section. Notwithstanding the requirements of section 3306(a)(6), if, within 90 days of having received a notice of delinquency, a tribe fails to make contributions, payments in lieu of contributions, or payment of penalties or interest (at amounts or rates comparable to those applied to all other employers covered under the State law) assessed with respect to such failure, or if the tribe fails to post a required payment bond, then service for the tribe shall not be excepted from employment under section 3306(c)(7) until any such failure is corrected. This subsection shall apply to an Indian tribe within the meaning of section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)).11 See References in Text note below.
+**(d) Election by Indian tribe** The State law shall provide that an Indian tribe may make contributions for employment as if the employment is within the meaning of section 3306 or make payments in lieu of contributions under this section, and shall provide that an Indian tribe may make separate elections for itself and each subdivision, subsidiary, or business enterprise wholly owned by such Indian tribe. State law may require a tribe to post a payment bond or take other reasonable measures to assure the making of payments in lieu of contributions under this section. Notwithstanding the requirements of section 3306(a)(6), if, within 90 days of having received a notice of delinquency, a tribe fails to make contributions, payments in lieu of contributions, or payment of penalties or interest (at amounts or rates comparable to those applied to all other employers covered under the State law) assessed with respect to such failure, or if the tribe fails to post a required payment bond, then service for the tribe shall not be excepted from employment under section 3306(c)(7) until any such failure is corrected. This subsection shall apply to an Indian tribe within the meaning of section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)).
 
 ### Statutory Notes
-
-#### References in Text
-Section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)), referred to in subsec. (d), was classified to [section 450b(e) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5304(e) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
 #### Prior Provisions
 A prior section 3309 was renumbered [section 3311 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3311).
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–141 substituted “[25 U.S.C. 5304(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)” for “[25 U.S.C. 450b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)”.
+
 2000—Subsec. (a)(2). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(1)], inserted “, including an Indian tribe,” after “the State law shall provide that a governmental entity”.
 
 Subsec. (b)(3)(B). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(2)], inserted “, or of an Indian tribe” before semicolon at end.

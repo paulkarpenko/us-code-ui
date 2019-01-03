@@ -447,7 +447,7 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
   (A) after December 31, 1996, and before the date which is 7 days after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-  (B) after September 30, 2017.
+  (B) after September 30, 2023.
 
 (3) **Leaking Underground Storage Tank Trust Fund financing rate** — The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2022.
 
@@ -461,6 +461,12 @@ Section 211 of the Clean Air Act, referred to in subsec. (a)(2)(D), is classifie
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+2018—Subsec. (d)(2)(B). Pub. L. 115–254 substituted “September 30, 2023” for “September 30, 2018”.
+
+Pub. L. 115–141 substituted “September 30, 2018” for “March 31, 2018”.
+
+2017—Subsec. (d)(2)(B). Pub. L. 115–63 substituted “March 31, 2018” for “September 30, 2017”.
+
 2016—Subsec. (d)(2)(B). Pub. L. 114–190 substituted “September 30, 2017” for “July 15, 2016”.
 
 Pub. L. 114–141 substituted “July 15, 2016” for “March 31, 2016”.
@@ -1202,7 +1208,7 @@ Pub. L. 108–357, title VIII, § 854(b), Oct. 22, 2004, 118 Stat. 1615, provide
 
   (B) *Transmix* — For purposes of subparagraph (A), the term “transmix” means a byproduct of refined products pipeline operations created by the mixing of different specification products during pipeline transportation.
 
-**(b) Commercial aviation** For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2017, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
+**(b) Commercial aviation** For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2023, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
 
 **(c) Certain uses defined as removal** If any person uses taxable fuel (other than in the production of taxable fuels or special fuels referred to in section 4041), such use shall for the purposes of this chapter be considered a removal.
 
@@ -1231,6 +1237,12 @@ Pub. L. 108–357, title VIII, § 854(b), Oct. 22, 2004, 118 Stat. 1615, provide
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–254 substituted “October 1, 2023” for “October 1, 2018”.
+
+Pub. L. 115–141 substituted “October 1, 2018” for “April 1, 2018”.
+
+2017—Subsec. (b). Pub. L. 115–63 substituted “April 1, 2018” for “October 1, 2017”.
+
 2016—Subsec. (b). Pub. L. 114–190 substituted “October 1, 2017” for “July 16, 2016”.
 
 Pub. L. 114–141 substituted “July 16, 2016” for “April 1, 2016”.
@@ -1553,7 +1565,7 @@ Section effective Dec. 1, 1990, see section 11212(f)(2) of Pub. L. 101–508, se
 ## § 4104. Information reporting for persons claiming certain tax benefits
 **(a) In general** The Secretary shall require any person claiming tax benefits—
 
-(1) under the provisions of section 11 So in original. Probably should be “sections”. 34, 40, and 40A, to file a return at the time such person claims such benefits (in such manner as the Secretary may prescribe), and
+(1) under the provisions of sections 34, 40, and 40A, to file a return at the time such person claims such benefits (in such manner as the Secretary may prescribe), and
 
 (2) under the provisions of section 4041(b)(2), 6426, or 6427(e) to file a quarterly return (in such manner as the Secretary may prescribe).
 
@@ -1562,6 +1574,9 @@ Section effective Dec. 1, 1990, see section 11212(f)(2) of Pub. L. 101–508, se
 **(c) Enforcement** With respect to any person described in subsection (a) and subject to registration requirements under this title, rules similar to rules of section 4222(c) shall apply with respect to any requirement under this section.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–141 substituted “sections 34” for “section 34”.
 
 #### Effective Date
 Pub. L. 108–357, title III, § 303(c), Oct. 22, 2004, 118 Stat. 1466, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2005.”
@@ -1935,7 +1950,7 @@ Pub. L. 105–34, title IX, § 904(e), Aug. 5, 1997, 111 Stat. 874, provided tha
 
       (I) such amount, multiplied by
 
-      (II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “2004” for “1992” in subparagraph (B) thereof.
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “2004” for “2016” in subparagraph (A)(ii) thereof.
 
     (ii) *Rounding* — If any increase determined under clause (i) is not a multiple of 1 cent, such increase shall be rounded to the nearest multiple of 1 cent.
 
@@ -1947,6 +1962,8 @@ Pub. L. 105–34, title IX, § 904(e), Aug. 5, 1997, 111 Stat. 874, provided tha
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
+2017—Subsec. (b)(2)(C)(i)(II). Pub. L. 115–97 substituted “for ‘2016’ in subparagraph (A)(ii)” for “for ‘1992’ in subparagraph (B)”.
+
 2008—Subsec. (b)(2)(B), (C). Pub. L. 110–343 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 2005—Subsec. (a)(1). Pub. L. 109–59, § 11117(a), reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
@@ -1990,6 +2007,9 @@ Subsec. (b)(3). Pub. L. 98–369, § 1017(b)(1), added par. (3).
 Subsec. (b). Pub. L. 92–558, § 201(a)(2), added subsec. (b).
 
 1965—Pub. L. 89–44 removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–343, div. C, title V, § 503(b), Oct. 3, 2008, 122 Stat. 3877, provided that: “The amendments made by this section [amending this section] shall apply to shafts first sold after the date of enactment of this Act [Oct. 3, 2008].”
@@ -2210,7 +2230,7 @@ Pub. L. 91–128, § 1(a), Nov. 26, 1969, 83 Stat. 261, provided that: “This A
 
   (D) any other medical device determined by the Secretary to be of a type which is generally purchased by the general public at retail for individual use.
 
-**(c) Moratorium** The tax imposed under subsection (a) shall not apply to sales during the period beginning on January 1, 2016, and ending on December 31, 2017.
+**(c) Moratorium** The tax imposed under subsection (a) shall not apply to sales during the period beginning on January 1, 2016, and ending on December 31, 2019.
 
 ### Statutory Notes
 
@@ -2221,7 +2241,12 @@ Section 201(h) of the Federal Food, Drug, and Cosmetic Act, referred to in subse
 For prior sections 4191, 4192, 4201, and 4211, see Prior Provisions note set out preceding this section.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–120 substituted “December 31, 2019” for “December 31, 2017”.
+
 2015—Subsec. (c). Pub. L. 114–113 added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–120, div. D, § 4001(b), Jan. 22, 2018, 132 Stat. 38, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2017.”
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title I, § 174(b), Dec. 18, 2015, 129 Stat. 3072, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2015.”
@@ -2601,7 +2626,7 @@ Repeal effective on first day of first calendar quarter which begins more than 6
 (5) to a nonprofit educational organization for its exclusive use, or
 
 (6) to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization’s exclusive use in the collection, storage, or transportation of blood,
-but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,11 So in original. The comma probably should not appear. or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2022. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
+but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051 or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2022. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
 
 **(b) Proof of resale for further manufacture; proof of export** Where an article has been sold free of tax under subsection (a)—
 
@@ -2658,7 +2683,7 @@ subsection (a) shall cease to apply in respect of such sale of such article unle
 
     (ii) such other article is to be sold by such purchaser in a sale which either will satisfy the requirements of paragraph (2), (3), (4), or (5) of subsection (a) for a tax-free sale, or would satisfy such requirements but for the fact that such other article is not subject to tax under this chapter.
 
-  (B) *Proof* — Where a tire has been sold free of tax under this paragraph, this paragraph shall cease to apply unless, within the 6-moth period which begins on the date of the sale by him (or, if earlier on the date of the shipment by him), the manufacturer of such tire receives proof that the other article referred to in clause (ii) of subparagraph (A) has been sold in a manner which satisfies the requirements of such clause (ii) (including in the case of a sale for export, proof of export of such other article).
+  (B) *Proof* — Where a tire has been sold free of tax under this paragraph, this paragraph shall cease to apply unless, within the 6-month period which begins on the date of the sale by him (or, if earlier, on the date of the shipment by him), the manufacturer of such tire receives proof that the other article referred to in clause (ii) of subparagraph (A) has been sold in a manner which satisfies the requirements of such clause (ii) (including in the case of a sale for export, proof of export of such other article).
 
   (C) *Subsection (a)(1) does not apply* — Paragraph (1) of subsection (a) shall not apply with respect to the tax imposed under section 4071 on the sale of a tire.
 
@@ -2673,6 +2698,8 @@ Section 1207(b)(1)–(3)(A) of Pub. L. 109–280, which directed the amendment o
 A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, § 119(a).
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141 deleted comma after “section 4051” in concluding provisions.
+
 2015—Subsec. (a). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016” in concluding provisions.
 
 2014—Subsec. (a). Pub. L. 113–295, § 221(a)(103)(B)(i)(II), struck out “In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.” after “regulations prescribe.” in concluding provisions.

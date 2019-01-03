@@ -110,6 +110,9 @@ Subsec. (b). Pub. L. 114–281, § 2(b), designated existing provisions as par. 
 
 2014—Subsec. (a)(4). Pub. L. 113–154 inserted “desecration of cemeteries,” after “confiscations of property,”.
 
+#### Short Title of 2019 Amendment
+Pub. L. 115–434, § 1, Jan. 14, 2019, 132 Stat. 5526, provided that: “This Act [amending [section 6412 of this title](./chapter-073-international-religious-freedom.md#section-6412) and enacting provisions set out as a note under [section 6412 of this title](./chapter-073-international-religious-freedom.md#section-6412)] may be cited as the ‘Combating European Anti-Semitism Act of 2017’.”
+
 #### Short Title of 2016 Amendment
 Pub. L. 114–281, § 1(a), Dec. 16, 2016, 130 Stat. 1426, provided that: “This Act [enacting sections 6442a, 6473a, 6482, and 6483 of this title and amending this section and sections 4028, 6402, 6411, 6412, 6417, 6442, 6444, 6447, 6448, and 6474 of this title] may be cited as the ‘Frank R. Wolf International Religious Freedom Act’.”
 
@@ -331,6 +334,16 @@ Pub. L. 113–161, Aug. 8, 2014, 128 Stat. 1855, provided that: “SECTION 1. SH
 
     (ii) *Countries of significant improvement in religious freedom* — An identification of foreign countries the governments of which have demonstrated significant improvement in the protection and promotion of the internationally recognized right to freedom of religion during the period covered by the Annual Report. This section of the report shall include a description of the nature of the improvement and an analysis of the factors contributing to such improvement, including actions taken by the United States under this chapter.
 
+  (G) *Anti-Semitism in Europe* — In addition to the information required under clause (vii) of subparagraph (A), with respect to each European country in which verbal or physical threats or attacks are particularly significant against Jewish persons, places of worship, schools, cemeteries, and other religious institutions, a description of—
+
+    (i) the security challenges and needs of European Jewish communities and European law enforcement agencies in such countries to better protect such communities;
+
+    (ii) to the extent practicable, the efforts of the United States Government over the reporting period to partner with European law enforcement agencies and civil society groups regarding the sharing of information and best practices to combat anti-Semitic incidents in Europe;
+
+    (iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of the population that exhibit a high degree of anti-Semitic animus; and
+
+    (iv) efforts by European governments to adopt and apply a working definition of anti-Semitism.
+
 (2) **Classified addendum** — If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required by paragraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
 
 **(c) Preparation of reports regarding violations of religious freedom**
@@ -350,6 +363,8 @@ This chapter, referred to in subsec. (b)(1)(F)(ii), (2), was in the original “
 Section is comprised of section 102 of Pub. L. 105–292. Subsec. (d) of section 102 of Pub. L. 105–292 amended sections 2151n and 2304 of this title.
 
 #### Amendments
+2019—Subsec. (b)(1)(G). Pub. L. 115–434 added subpar. (G).
+
 2016—Subsec. (b)(1). Pub. L. 114–281, § 102(a)(1), substituted “May 1” for “September 1” in introductory provisions.
 
 Subsec. (b)(1)(A)(iii). Pub. L. 114–281, § 102(a)(2)(A), substituted “as well as the routine denial of visa applications for religious workers;” for “; and”.
@@ -371,6 +386,9 @@ Amendment by Pub. L. 108–332 applicable beginning with the first report under 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+#### Findings
+Pub. L. 115–434, § 2, Jan. 14, 2019, 132 Stat. 5526, provided that: “Congress finds the following: “(1) During the past decade, there has been a steady increase in anti-Semitic incidents in Europe, resulting in European Jews being the targets of physical and verbal harassment and even lethal terrorist attacks, all of which has eroded personal and communal security and the quality of daily Jewish life. “(2) According to reporting by the European Union Agency for Fundamental Rights (FRA), between 2005 and 2014, anti-Semitic incidents increased in France from 508 to 851; in Germany from 60 to 173; in Belgium from 58 to 130; in Italy from 49 to 86; and in the United Kingdom from 459 to 1,168. “(3) Anti-Zionism has at times devolved into anti-Semitic attacks, prompting condemnation from many European leaders, including French Prime Minister Manuel Valls, British Prime Minister David Cameron, and German Chancellor Angela Merkel. “(4) Since 2010, the Department of State has adhered to the working definition of Anti-Semitism by the European Monitoring Center on Racism and Xenophobia (EUMC). Some contemporary examples of anti-Semitism include the following:“(A) Calling for, aiding, or justifying the killing or harming of Jews (often in the name of a radical ideology or an extremist view of religion). “(B) Making mendacious, dehumanizing, demonizing, or stereotypical allegations about Jews as such, or the power of Jews as a collective, especially, but not exclusively, the myth about a world Jewish conspiracy or of Jews controlling the media, economy, government, or other societal institutions. “(C) Accusing Jews as a people of being responsible for real or imagined wrongdoing committed by a single Jewish person or group, the State of Israel, or even for acts committed by non-Jews. “(D) Accusing the Jews as a people, or Israel as a state, of inventing or exaggerating the Holocaust. “(E) Accusing Jewish citizens of being more loyal to Israel, or to the alleged priorities of Jews worldwide, than to the interest of their own countries. “(5) On October 16, 2004, the President signed into law the Global Anti-Semitism Review Act of 2004 [see Short Title of 2004 Amendment note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651)]. This law provides the legal foundation for a reporting requirement provided by the Department of State annually on anti-Semitism around the world. “(6) In November 2015, the House of Representatives passed H. Res. 354 by a vote of 418–0, urging the Secretary of State to continue robust United States reporting on anti-Semitism by the Department of State and the Special Envoy to Combat and Monitor Anti-Semitism. “(7) In 2016, the International Holocaust Remembrance Alliance (IHRA), comprised of 31 member countries, adopted a working definition of anti-Semitism which stated: ‘Anti-Semitism is a certain perception of Jews, which may be expressed as hatred toward Jews. Rhetorical and physical manifestations of anti-Semitism are directed toward Jewish or non-Jewish individuals and/or their property, toward Jewish community institutions and religious facilities.’. “(8) The IHRA further clarified that manifestations of anti-Semitism might also target the State of Israel, conceived of as a Jewish collectivity. Anti-Semitism frequently charges Jews with conspiring to harm humanity, and it is often used to blame Jews for ‘why things go wrong’. It is expressed in speech, writing, visual forms, and action, and employs sinister stereotypes and negative character traits.”
 
 
 <a id="section-6415"></a>
@@ -1050,6 +1068,19 @@ Section 3 of this Act, referred to in subsec. (g), means section 3 of Pub. L. 11
 #### Codification
 Section was enacted as part of the Frank R. Wolf International Religious Freedom Act, and not as part of the International Religious Freedom Act of 1998 which comprises this chapter.
 
+#### Delegation of Responsibilities Under the Frank R. Wolf International Religious Freedom Act of 2016
+Memorandum of President of the United States, Jan. 9, 2018, 83 F.R. 3935, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, I hereby delegate to the Secretary of State the functions and authorities vested in the President by section 301 of the Frank R. Wolf International Religious Freedom Act (Public Law 114–281) (the “Act”) [[22 U.S.C. 6442a](./chapter-073-international-religious-freedom.md#section-6442a)].
+
+This memorandum’s reference to the Act shall be deemed to be a reference to the Act as amended from time to time.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 
 <a id="section-6445"></a>
 ## § 6445. Consultations
@@ -1138,7 +1169,7 @@ Section was enacted as part of the Frank R. Wolf International Religious Freedom
 
 (13) Ordering the heads of the appropriate United States agencies not to issue any (or a specified number of) specific licenses, and not to grant any other specific authority (or a specified number of authorities), to export any goods or technology to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title, under—
 
-  (A) the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.];
+  (A) the Export Administration Act of 1979;
 
   (B) the Arms Export Control Act [[22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.];
 
@@ -1158,12 +1189,21 @@ Section was enacted as part of the Frank R. Wolf International Religious Freedom
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(10)
+Pub. L. 115–254, div. F, title VI, § 1470(o), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (a)(10) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
+
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Subsec. (a)(10). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 
 <a id="section-6448"></a>
@@ -1276,9 +1316,14 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 <a id="section-6472"></a>
 ## § 6472. Exports of certain items used in particularly severe violations of religious freedom
-**(a) Mandatory licensing** Notwithstanding any other provision of law, the Secretary of Commerce, with the concurrence of the Secretary of State, shall include on the list of crime control and detection instruments or equipment controlled for export and reexport under [section 4605(n) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/n&num=0&edition=prelim) or under any other provision of law, items being exported or reexported to countries of particular concern for religious freedom that the Secretary of Commerce, with the concurrence of the Secretary of State, and in consultation with appropriate officials including the Assistant Secretary of State for Democracy, Human Rights and Labor and the Ambassador at Large, determines are being used or are intended for use directly and in significant measure to carry out particularly severe violations of religious freedom.
+**(a) Mandatory licensing** Notwithstanding any other provision of law, the Secretary of Commerce, with the concurrence of the Secretary of State, shall include on the list of crime control and detection instruments or equipment controlled for export and reexport under section 4605(n) 11 See References in Text note below. of title 50 or under any other provision of law, items being exported or reexported to countries of particular concern for religious freedom that the Secretary of Commerce, with the concurrence of the Secretary of State, and in consultation with appropriate officials including the Assistant Secretary of State for Democracy, Human Rights and Labor and the Ambassador at Large, determines are being used or are intended for use directly and in significant measure to carry out particularly severe violations of religious freedom.
 
 **(b) Licensing ban** The prohibition on the issuance of a license for export of crime control and detection instruments or equipment under [section 2304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2304/a/2&num=0&edition=prelim) shall apply to the export and reexport of any item included pursuant to subsection (a) on the list of crime control instruments.
+
+### Statutory Notes
+
+#### References in Text
+[Section 4605(n) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/n&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 
 <a id="section-6473"></a>

@@ -138,7 +138,7 @@ Pub. L. 112–194, § 5, Oct. 5, 2012, 126 Stat. 1451, provided that: “In this
 
   (C) a combination of payments described in subparagraphs (A) and (B) of this paragraph.
 
-(2) Any per diem allowance or maximum amount of reimbursement shall be established, to the extent feasible, by locality.
+(2) Any per diem allowance or maximum amount of reimbursement shall be established, to the extent feasible, by locality. The Secretary of Defense shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the travel in the locality of an employee of the Department.
 
 (3) For travel consuming less than a full day, the payment prescribed by regulation shall be allocated in such manner as the Administrator may prescribe.
 
@@ -185,6 +185,8 @@ In subsection (c), the words “Under regulations prescribed under [section 5707
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–232 inserted at end “The Secretary of Defense shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the travel in the locality of an employee of the Department.”
+
 1992—Pub. L. 102–378 substituted “employees” for “employee” in section catchline.
 
 1986—Subsec. (a). Pub. L. 99–234, § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under [section 5707 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5707), an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under [section 5703 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5703), his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
@@ -755,12 +757,15 @@ The date of the enactment of the Travel and Transportation Reform Act of 1998, r
 
   (C) With respect to an employee of the Patent and Trademark Office who voluntarily relocates from the pre-existing duty station of that employee, the operating procedures of the program may include a reasonable maximum number of occasional visits to the pre-existing duty station before that employee is eligible for payment of any accrued travel expenses by the Office.
 
-**(g)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Enhancement Act of 2010.
+**(g)** The authority to conduct test programs under this section shall expire on December 31, 2020.
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of the Telework Enhancement Act of 2010, referred to in subsec. (g), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
+#### Amendments
+2018—Subsec. (g). Pub. L. 115–232 substituted “on December 31, 2020” for “7 years after the date of the enactment of the Telework Enhancement Act of 2010”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. A, title XI, § 1105(b), Aug. 13, 2018, 132 Stat. 2001, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as though enacted on December 1, 2017.”
 
 
 <a id="section-5721"></a>
@@ -1418,7 +1423,7 @@ because of military or other reasons which create imminent danger to life or pro
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
-|  | [5 U.S.C. 73b–1(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section73b–1/d&num=0&edition=prelim). | Sept. 23, 1960, ch. 1010, § 1(c), 64 Stat. 985. |
+|  | [5 U.S.C. 73b–1(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section73b–1/d&num=0&edition=prelim). | Sept. 23, 1950, ch. 1010, § 1(c), 64 Stat. 985. |
 
 The word “employee” is substituted for “civilian officers and employees” in view of the definition of “employee” in sections 5721 and 2105.
 
@@ -2290,6 +2295,11 @@ Section effective on the first day of the first applicable pay period beginning 
 
 #### References in Text
 The General Schedule, referred to in subsecs. (a)(1), (2) and (c)(2), is set out under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
+
+#### Amendments
+2017—Subsec. (b)(2). Pub. L. 115–91 substituted “section 2302(d)” for “section 2302(c)”.
+
+Pub. L. 115–73 substituted “section 2302(c)” for “section 2302(d)”.
 
 #### Effective Date
 Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).

@@ -27,7 +27,7 @@ source: >-
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13902"></a>
@@ -297,6 +297,9 @@ Amendment by sections 32101(a), 32107(a), 32111, and 32915 of Pub. L. 112–141 
 
 Pub. L. 112–141, div. C, title II, § 32921(c), July 6, 2012, 126 Stat. 828, provided that: “The amendments made by this section [amending this section and [section 31144 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31144)] shall take effect 2 years after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways].”
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Regulations
 Pub. L. 109–59, title IV, § 4308, Aug. 10, 2005, 119 Stat. 1774, provided that: “The Secretary [of Transportation] may issue such regulations as the Secretary determines are necessary to carry out this subtitle [subtitle C (§§ 4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under [section 10101 of this title](./chapter-101-general-provisions.md#section-10101)] and the amendments made by this subtitle.”
 
@@ -481,6 +484,9 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Financial Responsibility Requirements
 Pub. L. 112–141, div. C, title II, § 32104, July 6, 2012, 126 Stat. 780, provided that: “Not later than 6 months after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], and every 4 years thereafter, the Secretary shall— “(1) issue a report on the appropriateness of—“(A) the current minimum financial responsibility requirements under sections 31138 and 31139 of title 49, United States Code; and “(B) the current bond and insurance requirements under sections 13904(f), 13903, and 13906 of title 49, United States Code; and “(2) submit the report issued under paragraph (1) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
 
@@ -548,6 +554,9 @@ Subsec. (a)(1). Pub. L. 109–59, § 4142(c)(2), which directed amendment of par
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13905"></a>
@@ -693,6 +702,9 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Relationship to Other Laws
 Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§ 4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under [section 13902 of this title](./chapter-139-registration.md#section-13902).
@@ -874,6 +886,9 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 2012 Amendment
 Pub. L. 112–141, div. C, title II, § 32918(c), July 6, 2012, 126 Stat. 826, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways].”
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Regulations
 Pub. L. 112–141, div. C, title II, § 32918(b), July 6, 2012, 126 Stat. 826, provided that: “Not later than 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall issue regulations to implement and enforce the requirements under subsections (b) and (c) of [section 13906 of title 49](./chapter-139-registration.md#section-13906), United States Code, as amended by subsection (a).”
 
@@ -942,6 +957,9 @@ Provisions similar to those in this section were contained in [section 10934 of 
 
 Subsec. (e)(2). Pub. L. 104–287, § 5(35)(B), substituted “December 31, 1995” for “the day before such effective date”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
@@ -1008,6 +1026,9 @@ Subsec. (e). Pub. L. 104–287, § 5(36)(B), substituted “January 1, 1996” f
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Regulations
 Pub. L. 110–53, title XV, § 1537(b), Aug. 3, 2007, 121 Stat. 467, provided that: “Not later than October 1, 2007, the Federal Motor Carrier Safety Administration shall issue final regulations to establish the Unified Carrier Registration System, as required by [section 13908 of title 49](./chapter-139-registration.md#section-13908), United States Code, and set fees for the unified carrier registration agreement for calendar year 2007 or subsequent calendar years to be charged to motor carriers, motor private carriers, and freight forwarders under such agreement, as required by 14504a of title 49, United States Code.”

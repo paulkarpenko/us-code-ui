@@ -359,12 +359,20 @@ Pub. L. 111–5, div. A, title XIII, § 13423, Feb. 17, 2009, 123 Stat. 276, pro
 
 Section 13101 of this Act, referred to in subsec. (h)(2), means section 13101 of div. A of Pub. L. 111–5.
 
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
+
 
 <a id="section-17934"></a>
 ## § 17934. Education on health information privacy
 **(a) Regional office privacy advisors** Not later than 6 months after February 17, 2009, the Secretary shall designate an individual in each regional office of the Department of Health and Human Services to offer guidance and education to covered entities, business associates, and individuals on their rights and responsibilities related to Federal privacy and security requirements for protected health information.
 
 **(b) Education initiative on uses of health information** Not later than 12 months after February 17, 2009, the Office for Civil Rights within the Department of Health and Human Services shall develop and maintain a multi-faceted national education initiative to enhance public transparency regarding the uses of protected health information, including programs to educate individuals about the potential uses of their protected health information, the effects of such uses, and the rights of individuals with respect to such uses. Such programs shall be conducted in a variety of languages and present information in a clear and understandable manner.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
 
 
 <a id="section-17935"></a>
@@ -381,6 +389,9 @@ Section 13101 of this Act, referred to in subsec. (h)(2), means section 13101 of
 This subchapter, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle D (§ 13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
 
 The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
 
 
 <a id="section-17936"></a>
@@ -486,6 +497,9 @@ Section 13423, referred to in subsec. (b)(3), means section 13423 of div. A of P
 #### Amendments
 2016—Subsec. (e)(2), (3). Pub. L. 114–255 added par. (2) and redesignated former par. (2) as (3).
 
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
+
 
 <a id="section-17937"></a>
 ## § 17937. Conditions on certain contacts as part of health care operations
@@ -526,6 +540,9 @@ Section 13423, referred to in subsec. (b)(3), means section 13423 of div. A of P
 #### References in Text
 Section 13423, referred to in subsec. (c), means section 13423 of div. A of Pub. L. 111–5, which is set out as an Effective Date note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
 
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
+
 
 <a id="section-17938"></a>
 ## § 17938. Temporary breach notification requirement for vendors of personal health records and other non-HIPAA covered entities
@@ -565,6 +582,11 @@ Section 13423, referred to in subsec. (c), means section 13423 of div. A of Pub.
 
 (2) **Sunset** — If Congress enacts new legislation establishing requirements for notification in the case of a breach of security, that apply to entities that are not covered entities or business associates, the provisions of this section shall not apply to breaches of security discovered on or after the effective date of regulations implementing such legislation.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
+
 
 <a id="section-17939"></a>
 ## § 17939. Business associate contracts required for certain entities
@@ -575,6 +597,9 @@ Each organization, with respect to a covered entity, that provides data transmis
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D (§ 13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
+
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
 
 
 <a id="section-17940"></a>
@@ -623,6 +648,9 @@ For reference to “the amendments made by subsection (a)” in subsec. (b)(1) a
 #### Codification
 Section is comprised of section 13410 of Pub. L. 111–5. Subsecs. (a)(1), (d)(1)–(3), (e)(1), (2), and (f) of section 13410 of Pub. L. 111–5 amended [section 1320d–5 of this title](./chapter-007-social-security.md#section-1320d-5).
 
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
+
 
 <a id="section-17951"></a>
 ## § 17951. Audits
@@ -633,6 +661,9 @@ The Secretary shall provide for periodic audits to ensure that covered entities 
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D (§ 13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
+
+#### Effective Date
+Section effective 12 months after Feb. 17, 2009, except as otherwise specifically provided, see section 13423 of Pub. L. 111–5, set out as a note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
 
 
 <a id="section-17952"></a>

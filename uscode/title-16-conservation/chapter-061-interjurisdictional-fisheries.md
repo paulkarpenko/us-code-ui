@@ -79,6 +79,9 @@ Proclamation Numbered 5030, referred to in par. (3)(A), is set out under [sectio
 #### Effective Date of 1996 Amendment
 Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
+#### Effective Date
+Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101).
+
 
 <a id="section-4103"></a>
 ## § 4103. Apportionment
@@ -119,6 +122,9 @@ may not be considered to be apportioned to that State and shall be added to such
 
 #### Amendments
 1990—Subsec. (c)(3)(B). Pub. L. 101–627 inserted “which are managed under an interstate fishery management plan” before semicolon at end.
+
+#### Effective Date
+Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101).
 
 
 <a id="section-4104"></a>
@@ -165,6 +171,9 @@ may not be considered to be apportioned to that State and shall be added to such
 #### References in Text
 This chapter, referred to in subsecs. (a)(2)(C), (F), (3), (4)(B) and (b), was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101) and Tables.
 
+#### Effective Date
+Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101).
+
 
 <a id="section-4105"></a>
 ## § 4105. Property
@@ -178,6 +187,9 @@ This chapter, referred to in subsecs. (a)(2)(C), (F), (3), (4)(B) and (b), was i
 
 #### References in Text
 This chapter, referred to in subsec. (c), was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101) and Tables.
+
+#### Effective Date
+Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101).
 
 
 <a id="section-4106"></a>
@@ -197,6 +209,9 @@ After consultation with the States receiving funds under this chapter and with a
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101) and Tables.
+
+#### Effective Date
+Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101).
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -277,8 +292,10 @@ Public Law 81–66, referred to in subsec. (c)(3), is act May 19, 1949, ch. 128,
 #### Codification
 In subsec. (d)(4)(C), “[section 12113(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12113/a&num=0&edition=prelim)” substituted for “[section 12108(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12108/a&num=0&edition=prelim), United States Code,” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 12113 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12113&num=0&edition=prelim), Shipping.
 
+Section 104 of Pub. L. 111–348, cited as a credit to this section, was repealed, and a new section 104, set out as a note under [section 1826i of this title](./chapter-038-fishery-conservation-and-management.md#section-1826i), was enacted by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628.
+
 #### Amendments
-2011—Subsec. (a). Pub. L. 111–348 substituted “2010, and $2,500,000 for each of fiscal years 2011 and 2012.” for “2012.”
+2011—Subsec. (a). Pub. L. 111–348, § 104, which substituted “2010, and $2,500,000 for each of fiscal years 2011 and 2012.” for “2012.”, was repealed by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628. See Codification note above.
 
 2007—Subsec. (a). Pub. L. 109–479, § 302(g)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
 
@@ -325,3 +342,6 @@ Subsec. (d)(7). Pub. L. 104–297, § 402(b), added par. (7).
 Subsec. (b). Pub. L. 101–627, §§ 502, 503(2), in introductory provisions substituted “the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “fiscal years 1988 and 1989” and added par. (3).
 
 Subsec. (c). Pub. L. 101–627, § 503(3), substituted “the fiscal years 1989, 1990, 1991, 1992, and 1993” for “fiscal years 1988 and 1989”.
+
+#### Effective Date
+Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101).

@@ -2,7 +2,7 @@
 title: 46
 chapter: '43'
 heading: RECREATIONAL VESSELS
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -61,7 +61,7 @@ Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 
 (3) not compel substantial alteration of a recreational vessel or item of associated equipment that is in existence, or the construction or manufacture of which is begun before the effective date of the regulation, but subject to that limitation may require compliance or performance, to avoid a substantial risk of personal injury to the public, that the Secretary considers appropriate in relation to the degree of hazard that the compliance will correct; and
 
-(4) consult with the National Boating Safety Advisory Council established under [section 13110 of this title](./chapter-131-recreational-boating-safety.md#section-13110) about the considerations referred to in clauses (1)–(3) of this subsection.
+(4) consult with the National Boating Safety Advisory Committee established under [section 15105 of this title](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15105) about the considerations referred to in clauses (1)–(3) of this subsection.
 
 **(d)** [Section 8903 of this title](./chapter-089-small-vessel-manning.md#section-8903) does not apply to a vessel being operated for bona fide dealer demonstrations provided without fee to business invitees. However, if on the basis of substantial evidence, the Secretary decides under this section that requiring vessels so operated to be under the control of licensed individuals is necessary for boating safety, then the Secretary may prescribe regulations requiring the licensing of individuals controlling these vessels in the same manner as provided in chapter 89 of this title for individuals in control of vessels carrying passengers for hire.
 
@@ -91,10 +91,21 @@ Section 4302(c) requires the Secretary to consider certain objectives in develop
 Section 4302(d) exempts dealer demonstration boats from the requirement of having to be named by a licensed individual when demonstrating boats to prospective purchasers or other business invitees when no fees are charged. The Secretary may require that boats so used be under control of a licensed individual.
 
 #### Amendments
+2018—Subsec. (c)(4). Pub. L. 115–282 substituted “Committee established under [section 15105 of this title](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15105)” for “Council established under [section 13110 of this title](./chapter-131-recreational-boating-safety.md#section-13110)”.
+
 2016—Subsec. (e). Pub. L. 114–120 added subsec. (e).
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–120, title III, § 303(b), Feb. 8, 2016, 130 Stat. 53, provided that: “This section [amending this section] shall only apply with respect to recreational vessels and associated equipment constructed or manufactured, respectively, on or after the date of enactment of this Act [Feb. 8, 2016].”
+
+#### Equipment Requirements; Exemption From Throwable Personal Flotation Devices Requirement
+Pub. L. 115–282, title VIII, § 827, Dec. 4, 2018, 132 Stat. 4314, provided that: “Not later than one year after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall— “(1) prescribe regulations in part 160 of title 46, Code of Federal Regulations, that treat a marine throw bag, as that term is commonly used in the commercial whitewater rafting industry, as a type of lifesaving equipment; and “(2) revise section 175.17 of title 33, Code of Federal Regulations, to exempt rafts that are 16 feet or more overall in length from the requirement to carry an additional throwable personal flotation device when such a marine throw bag is onboard and accessible.”
+
+#### Visual Distress Signals and Alternative Use
+Pub. L. 115–282, title VIII, § 828, Dec. 4, 2018, 132 Stat. 4314, provided that: “(a) In General.—The Secretary of the department in which the Coast Guard is operating shall develop a performance standard for the alternative use and possession of visual distress alerting and locating signals as mandated by carriage requirements for recreational boats in subpart C of part 175 of title 33, Code of Federal Regulations. “(b) Regulations.—Not later than 180 days after the performance standard for alternative use and possession of visual distress alerting and locating signals is finalized, the Secretary shall revise part 175 of title 33, Code of Federal Regulations, to allow for carriage of such alternative signal devices.”
+
+#### Large Recreational Vessel Regulations
+Pub. L. 115–232, div. C, title XXXV, § 3529(a), Aug. 13, 2018, 132 Stat. 2318, provided that: “(a) In General.—“(1) Issuance.—The Secretary of the department in which the Coast Guard is operating shall issue large recreational vessel regulations applicable to any recreational vessel (as defined in [section 2101 of title 46](./chapter-021-general.md#section-2101), United States Code) over 300 gross tons as measured under section 14502 of such title, or an alternate tonnage measured under section 14302 of such title as prescribed by the Secretary under section 14104 of such title, that does not carry any cargo or passengers for hire. “(2) Scope and content of regulations.—The regulations issued under this subsection—“(A) subject to subparagraph (B), shall be comparable to the code set forth in Merchant Shipping Notice 1851(M) (commonly referred to as the ‘Large Commercial Yacht Code (LY3)’), as published by the Maritime and Coastguard Agency of the United Kingdom on August 20, 2013, or an equivalent code, regulation, or standard that is acceptable to the Secretary; and “(B) shall require that, as part of the review of an application for documentation of a vessel that is subject to the regulations, the owner shall disclose to the Coast Guard—“(i) the identification and place of residence of such owner; and “(ii) if the owner is an entity described in paragraph (2), (3), or (4) of [section 12103(b) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12103/b&num=0&edition=prelim), United States Code, the beneficial owners of such entity. “(3) Deadline.—The Secretary shall issue regulations required by paragraph (1) by not later than one year after the date of the enactment of this Act [Aug. 13, 2018]. “(4) Interim compliance.—Until the effective date of regulations issued under paragraph (1), a recreational vessel described in paragraph (1) shall not be subject to inspection under [section 3301(7) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3301/7&num=0&edition=prelim), United States Code, if the Secretary determines, as part of the review of the application for documentation submitted for the vessel by the owner of the vessel and other materials as considered necessary by the Secretary, that the vessel complies with the code set forth in Merchant Shipping Notice 1851(M) (commonly referred to as the ‘Large Commercial Yacht Code (LY3)’), as published by the Maritime and Coastguard Agency of the United Kingdom on August 20, 2013, or an equivalent code, regulation, or standard that is acceptable to the Secretary. “(5) Definitions.—“(A) Beneficial owner.—In this subsection the term ‘beneficial owner’—“(i) means, with respect to an entity, each natural person who, directly or indirectly— “(I) exercises control over the entity through ownership interests, voting rights, agreements, or otherwise; or “(II) has an interest in or receives substantial economic benefits from the assets of the entity; and “(ii) does not include, with respect to an entity— “(I) a minor child; “(II) a person acting as a nominee, intermediary, custodian, or agent on behalf of another person; “(III) a person acting solely as an employee of the entity and whose control over or economic benefits from the entity derives solely from the employment status of the person; “(IV) a person whose only interest in the entity is through a right of inheritance, unless the person otherwise meets the definition of ‘beneficial owner’ under this subparagraph; and “(V) a creditor of the entity, unless the creditor otherwise meets the requirements of ‘beneficial owner’ under this subparagraph. “(B) Owner.—In this subsection, other than in subparagraph (A) of this paragraph, the term ‘owner’ means the person who is the eligible owner of the vessel for purposes of [section 12103(b) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12103/b&num=0&edition=prelim), United States Code.”
 
 #### Availability and Use of EPIRBs for Recreational Vessels
 Pub. L. 105–383, title III, § 309, Nov. 13, 1998, 112 Stat. 3422, provided that: “The Secretary of Transportation, through the Coast Guard and in consultation with the National Transportation Safety Board and recreational boating organizations, shall, within 24 months of the date of the enactment of this Act [Nov. 13, 1998], assess and report to Congress on the use of emergency position indicating beacons (EPIRBs) and similar devices by operators of recreational vessels on the Intracoastal Waterway and operators of recreational vessels beyond the Boundary Line. The assessment shall at a minimum— “(1) evaluate the current availability and use of EPIRBs and similar devices by the operators of recreational vessels and the actual and potential contribution of such devices to recreational boating safety; and “(2) provide recommendations on policies and programs to encourage the availability and use of EPIRBS [sic] and similar devices by the operators of recreational vessels.”
@@ -259,7 +270,7 @@ Section 4309 requires the establishment and maintenance of certain records by ma
 
 **(e)** Each recreational vessel manufacturer shall provide the Secretary with a copy of all notices, bulletins, and other communications to dealers and distributors of that manufacturer, and to purchasers of recreational vessels or associated equipment of that manufacturer, about a defect related to safety in the recreational vessels or associated equipment, and any failure to comply with the regulation or order applicable to the recreational vessels or associated equipment. The Secretary may publish or otherwise disclose to the public information in the notices or other information the Secretary has that the Secretary considers will assist in carrying out this chapter. However, the Secretary may disclose any information that contains or relates to a trade secret only if the Secretary decides that the information is necessary to carry out this chapter.
 
-**(f)** If, through testing, inspection, investigation, or examination of reports, the Secretary decides that a recreational vessel or associated equipment to which this chapter applies contains a defect related to safety or fails to comply with an applicable regulation prescribed under this chapter and notification under this chapter is appropriate, the Secretary shall notify the recreational vessel manufacturer of the defect or failure. The notice shall contain the findings of the Secretary and shall include a synopsis of the information on which they are based. The manufacturer may then provide the notification required by this chapter to the persons designated in this chapter or dispute the Secretary’s decision. If disputed, the Secretary shall provide the manufacturer with an opportunity to present views and establish that there is no such defect or failure. When the Secretary considers it to be in the public interest, the Secretary may publish notice of the proceeding in the Federal Register and provide interested persons, including the National Boating Safety Advisory Council, with an opportunity to comment. If, after presentation by the manufacturer, the Secretary decides that the recreational vessel or associated equipment contains a defect related to safety or fails to comply with an applicable regulation, the Secretary may direct the manufacturer to provide the notifications specified in this chapter.
+**(f)** If, through testing, inspection, investigation, or examination of reports, the Secretary decides that a recreational vessel or associated equipment to which this chapter applies contains a defect related to safety or fails to comply with an applicable regulation prescribed under this chapter and notification under this chapter is appropriate, the Secretary shall notify the recreational vessel manufacturer of the defect or failure. The notice shall contain the findings of the Secretary and shall include a synopsis of the information on which they are based. The manufacturer may then provide the notification required by this chapter to the persons designated in this chapter or dispute the Secretary’s decision. If disputed, the Secretary shall provide the manufacturer with an opportunity to present views and establish that there is no such defect or failure. When the Secretary considers it to be in the public interest, the Secretary may publish notice of the proceeding in the Federal Register and provide interested persons, including the National Boating Safety Advisory Committee, with an opportunity to comment. If, after presentation by the manufacturer, the Secretary decides that the recreational vessel or associated equipment contains a defect related to safety or fails to comply with an applicable regulation, the Secretary may direct the manufacturer to provide the notifications specified in this chapter.
 
 **(g)** The Secretary may prescribe regulations to carry out this section, including the establishment of procedures that require dealers and distributors to assist manufacturers in obtaining information required by this section. A regulation prescribed under this subsection does not relieve a manufacturer of any obligation imposed by this section.
 
@@ -273,6 +284,8 @@ Section 4309 requires the establishment and maintenance of certain records by ma
 Section 4310 imposes certain requirements on a recreational vessel and associated equipment manufacturer to provide notification of a defect or the failure of compliance after a manufacturer discovers the defect or failure. This section spells out the procedure for notification and who shall be notified. It assures the public of notification while protecting the manufacturer from the potential of damaging and inaccurate disclosures.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–282 substituted “Advisory Committee” for “Advisory Council”.
+
 2002—Subsec. (c)(1)(A) to (C). Pub. L. 107–295, § 433(2), inserted “by first class mail or” before “by certified mail”.
 
 Subsec. (c)(2)(A), (B). Pub. L. 107–295, § 433(1), substituted “10” for “5”.
@@ -342,3 +355,52 @@ Subsec. (f)(1). Pub. L. 98–557, § 8(c), inserted provisions relating to advic
 
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+
+<a id="section-4312"></a>
+## § 4312. Engine cut-off switches
+**(a) Installation Requirement.—** A manufacturer, distributor, or dealer that installs propulsion machinery and associated starting controls on a covered recreational vessel shall equip such vessel with an engine cut-off switch and engine cut-off switch link that meet American Boat and Yacht Council Standard A–33, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2017.
+
+**(b) Education on Cut-off Switches.—** The Commandant of the Coast Guard, through the National Boating Safety Advisory Committee established under section 15105, may initiate a boating safety program on the use and benefits of cut-off switches for recreational vessels.
+
+**(c) Availability of Standard for Inspection.—**
+
+(1) **In general.—** — Not later than 90 days after the date of the enactment of this section, the Commandant shall transmit American Boat and Yacht Council Standard A–33, as in effect on the date of enactment of the Coast Guard Authorization Act of 2017, to—
+
+  (A) the Committee on Transportation and Infrastructure of the House of Representatives;
+
+  (B) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (C) the Coast Guard Office of Design and Engineering Standards; and
+
+  (D) the National Archives and Records Administration.
+
+(2) **Availability.—** — The standard submitted under paragraph (1) shall be kept on file and available for public inspection at such Coast Guard office and the National Archives and Records Administration.
+
+**(d) Definitions.—** In this section:
+
+(1) **Covered recreational vessel.—** — The term “covered recreational vessel” means a recreational vessel that is—
+
+  (A) less than 26 feet overall in length; and
+
+  (B) capable of developing 115 pounds or more of static thrust.
+
+(2) **Dealer.—** — The term “dealer” means any person who is engaged in the sale and distribution of recreational vessels or associated equipment to purchasers whom the seller in good faith believes to be purchasing any such vessel or associated equipment for purposes other than resale.
+
+(3) **Distributor.—** — The term “distributor” means any person engaged in the sale and distribution of recreational vessels and associated equipment for the purposes of resale.
+
+(4) **Manufacturer.—** — The term “equipment manufacturer” means any person engaged in the manufacture, construction, or assembly of recreational vessels or associated equipment, or the importation of recreational vessels into the United States for subsequent sale.
+
+(5) **Propulsion machinery.—** — The term “propulsion machinery” means a self-contained propulsion system, and includes, but is not limited to, inboard engines, outboard motors, and sterndrive engines.
+
+(6) **Static thrust.—** — The term “static thrust” means the forward or backwards thrust developed by propulsion machinery while stationary.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Coast Guard Authorization Act of 2017, referred to in subsecs. (a) and (c)(1), probably means the date of enactment of Pub. L. 115–282, which is the Frank LoBiondo Coast Guard Authorization Act of 2018 and was approved Dec. 4, 2018. No act with the title “Coast Guard Authorization Act of 2017” has been enacted.
+
+The date of the enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 115–282, which was approved Dec. 4, 2018.
+
+#### Effective Date
+Pub. L. 115–282, title V, § 503(c), Dec. 4, 2018, 132 Stat. 4271, provided that: “[Section 4312 of title 46](./chapter-043-recreational-vessels.md#section-4312), United States Code, as amended [probably should be “enacted”] by this section, shall take effect one year after the date of the enactment of this Act [Dec. 4, 2018].”

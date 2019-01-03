@@ -253,7 +253,9 @@ There are authorized to be appropriated sums necessary to carry out the provisio
 The remainder of the authority for this section is implied from the statutes from which this title is derived.
 
 #### Merit Systems Protection Board and Office of Special Counsel; Authorization of Appropriations; Restriction on Appropriations
-Pub. L. 101–12, § 8(a), (b), Apr. 10, 1989, 103 Stat. 34, as amended by Pub. L. 103–424, § 1, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, §§ 641(a), 642(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365; Pub. L. 107–304, § 2(a), (b), Nov. 27, 2002, 116 Stat. 2364, provided that: “(a) Authorization of Appropriations.—There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated—“(1) for each of fiscal years 2003, 2004, 2005, 2006, and 2007 such sums as necessary to carry out subchapter I of chapter 12 of title 5, United States Code (as amended by this Act); and “(2) for each of fiscal years 2003, 2004, 2005, 2006, and 2007 such sums as necessary to carry out subchapter II of chapter 12 of title 5, United States Code (as amended by this Act). “(b) Restriction Relating to Appropriations Under the Civil Service Reform Act of 1978.—No funds may be appropriated to the Merit Systems Protection Board or the Office of Special Counsel pursuant to section 903 of the Civil Service Reform Act of 1978 [Pub. L. 95–454] ([5 U.S.C. 5509](./chapter-055-pay-administration.md#section-5509) note).”
+Pub. L. 101–12, § 8(a), (b), Apr. 10, 1989, 103 Stat. 34, as amended by Pub. L. 103–424, § 1, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, §§ 641(a), 642(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365; Pub. L. 107–304, § 2(a), (b), Nov. 27, 2002, 116 Stat. 2364; Pub. L. 115–91, div. A, title X, § 1097(n)(1), Dec. 12, 2017, 131 Stat. 1626, provided that: “(a) Authorization of Appropriations.—There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated—“(1) for each of fiscal years 2003, 2004, 2005, 2006, and 2007 such sums as necessary to carry out subchapter I of chapter 12 of title 5, United States Code (as amended by this Act); and “(2) for each of fiscal years 2018 through 2023 such sums as necessary to carry out subchapter II of chapter 12 of title 5, United States Code (as amended by this Act). “(b) Restriction Relating to Appropriations Under the Civil Service Reform Act of 1978.—No funds may be appropriated to the Merit Systems Protection Board or the Office of Special Counsel pursuant to section 903 of the Civil Service Reform Act of 1978 [Pub. L. 95–454] ([5 U.S.C. 5509](./chapter-055-pay-administration.md#section-5509) note).”
+
+[Pub. L. 115–91, div. A, title X, § 1097(n)(2), Dec. 12, 2017, 131 Stat. 1626, provided that: “The amendment made by paragraph (1) [amending section 8(a) of Pub. L. 101–12, set out above] shall take effect as though enacted on September 30, 2017.” ]
 
 [Pub. L. 107–304, § 2(c), Nov. 27, 2002, 116 Stat. 2364, provided that: “This section [amending section 8(a) of Pub. L. 101–12, set out above] shall be effective as of October 1, 2002.” ]
 
@@ -357,7 +359,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 (2) For purposes of [section 7117(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7117/a&num=0&edition=prelim), no regulation prescribed to carry out subsection (a)(2) of this section shall be considered to be a Government-wide rule or regulation.
 
-**(c)** Subsection (a) of this section does not modify existing statutes which provide for forfeiture of pay or allowances. This section and [section 3530(d) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3530/d&num=0&edition=prelim) do not repeal, modify, or amend section 4837(d) or 9837(d) of title 10 or section 1007(b), (c) of title 37.
+**(c)** Subsection (a) of this section does not modify existing statutes which provide for forfeiture of pay or allowances. This section and [section 3530(d) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3530/d&num=0&edition=prelim) do not repeal, modify, or amend section 7837(d) or 9837(d) of title 10 or section 1007(b), (c) of title 37.
 
 **(d)** A levy pursuant to the Internal Revenue Code of 1986 shall take precedence over other deductions under this section.
 
@@ -383,6 +385,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(1) and (d), is cl
 Sections 4837(d) and 9837(d) of title 10, referred to in subsec. (c), probably refer to the subsecs. (d) of those sections as originally enacted by act Aug. 10, 1956, ch. 1041, 70A Stat. 274, 594. Sections 4837 and 9837 were subsequently amended, and provisions similar to those in the original subsecs. (d) of those sections are now contained in respective subsecs. (a).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “section 7837(d) or 9837(d) of title 10” for “section 4837(d) or 9837(d) of title 10”.
+
 2008—Subsec. (a)(5)(B). Pub. L. 110–181, § 652(1), inserted “any nonappropriated fund instrumentality described in [section 2105(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105/c&num=0&edition=prelim),” after “Commission,”.
 
 Subsec. (e). Pub. L. 110–181, § 652(2), added subsec. (e).
@@ -412,6 +416,9 @@ Subsec. (b). Pub. L. 97–365, § 5(b), designated existing provisions as par. (
 Pub. L. 97–258 substituted “section 3530(d)” for “section 581d”.
 
 1979—Subsec. (b). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under [section 305 of this title](./chapter-003-powers.md#section-305).
@@ -838,6 +845,9 @@ Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Review and Update of Regulations Governing Debt Collectors Interactions With Unit Commanders of Members of the Armed Forces
+Pub. L. 115–91, div. A, title VI, § 634, Dec. 12, 2017, 131 Stat. 1431, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall review and update Department of Defense Directive 1344.09 and any associated regulations to ensure that such regulations comply with Federal consumer protection laws with respect to the collection of debt.”
+
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 Pub. L. 105–261, div. A, title X, § 1061, Oct. 17, 1998, 112 Stat. 2128, authorized the Secretary of Defense to conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under [section 659 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section659&num=0&edition=prelim), The Public Health and Welfare, required the Secretary to submit to Congress, not later than Jan. 1, 2001, a report describing the experience of the Department of Defense under the authority provided for the program, and provided for termination of pilot program on Sept. 30, 2001.
 
@@ -1224,7 +1234,7 @@ Repeal effective Oct. 1, 1999, see section 651(c) of Pub. L. 106–65, set out a
 
 **(c)**
 
-(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540, in the case of pay disbursed by the Secretary of the Senate).
+(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540,11 See Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate note below. in the case of pay disbursed by the Secretary of the Senate).
 
 (2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives or the Chief of the Capitol Police, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
 
@@ -1268,7 +1278,7 @@ Repeal effective Oct. 1, 1999, see section 651(c) of Pub. L. 106–65, set out a
 
 **(e)**
 
-(1) This section does not apply to an individual employed under sections 174j–1 to 174j–7 or 174k 11 See References in Text note below. of title 40.
+(1) This section does not apply to an individual employed under sections 174j–1 to 174j–7 or 174k 22 See References in Text note below. of title 40.
 
 (2) Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
 
@@ -1350,15 +1360,17 @@ Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub.
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
+2018—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2018, to the figure “$35,949”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim), The Congress.
+
 2017—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2017, to the figure “$35,144”, see section 9 of Salary Directive of President pro tempore of the Senate, May 5, 2017, set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim), The Congress.
 
 2015—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2016, to the figure “$34,160”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 2015, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2014—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure “$33,668”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 2014, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
+2014—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2015, to the figure “$33,668”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 23, 2014, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
 The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2014, to the figure “$33,334”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 27, 2014, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
-2010—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure “$33,003”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim),.
+2010—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2010, to the figure “$33,003”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
 2009—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure “$32,515”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, formerly set out as a note under [section 4571 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4571&num=0&edition=prelim).
 
@@ -1565,7 +1577,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 <a id="section-5538"></a>
 ## § 5538. Nonreduction in pay while serving in the uniformed services or National Guard
-**(a)** An employee who is absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services pursuant to a call or order to active duty under a provision of law referred to in [section 101(a)(13)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim) shall be entitled, while serving on active duty, to receive, for each pay period described in subsection (b), an amount equal to the amount by which—
+**(a)** An employee who is absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services pursuant to a call or order to active duty under [section 12304b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304b&num=0&edition=prelim) or a provision of law referred to in [section 101(a)(13)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13/B&num=0&edition=prelim) shall be entitled, while serving on active duty, to receive, for each pay period described in subsection (b), an amount equal to the amount by which—
 
 (1) the amount of basic pay which would otherwise have been payable to such employee for such pay period if such employee’s civilian employment with the Government had not been interrupted by that service, exceeds (if at all)
 
@@ -1608,6 +1620,8 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 inserted “[section 12304b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304b&num=0&edition=prelim) or” after “under” in introductory provisions.
+
 2009—Subsec. (b). Pub. L. 111–117 added subsec. (b) and struck out former subsec. (b), which read as follows:
 
 “(b)(1) Amounts under this section shall be payable with respect to each pay period (which would otherwise apply if the employee’s civilian employment had not been interrupted)—
@@ -1859,7 +1873,7 @@ Pub. L. 100–690, title VI, § 6401, Nov. 18, 1988, 102 Stat. 4370, as amended 
 
   (A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act ([29 U.S.C. 213(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/f&num=0&edition=prelim)), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
-  (B) Subparagraph (A) shall expire on September 30, 2018.
+  (B) Subparagraph (A) shall expire on September 30, 2021.
 
 **(b)** For the purpose of this subchapter—
 
@@ -1975,6 +1989,10 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), i
 Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred to in subsec. (e), is classified to [section 2709(a)(3) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2709/a/3&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2018—Subsec. (a)(6)(B). Pub. L. 115–232 substituted “September 30, 2021” for “September 30, 2019”.
+
+2017—Subsec. (a)(6)(B). Pub. L. 115–91 substituted “September 30, 2019” for “September 30, 2018”.
+
 2016—Subsec. (a)(6)(B). Pub. L. 114–328 substituted “September 30, 2018” for “September 30, 2017”.
 
 2015—Subsec. (a)(6)(B). Pub. L. 114–92 substituted “September 30, 2017” for “September 30, 2015”.
@@ -2772,12 +2790,16 @@ Amendment by Pub. L. 97–276 effective at 5 o’clock ante meridian eastern day
 Pub. L. 100–523, § 1, Oct. 24, 1988, 102 Stat. 2605, provided: “That this Act [amending this section] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
 
 #### Overtime Pay for Protective Services
-Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Overtime Pay for Protective Services Act of 2016’. “SEC. 2. PREMIUM PAY EXCEPTION IN 2016 FOR PROTECTIVE SERVICES.“(a) Definition.—In this section, the term ‘covered employee’ means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during 2016. “(b) Exception to the Limitation on Premium Pay for Protective Services.—“(1) In general.—Notwithstanding any other provision of law, during 2016, [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code, shall not apply to any covered employee to the extent that its application would prevent a covered employee from receiving premium pay, as provided under the amendment made by paragraph (2). “(2) Technical and conforming amendment.—[Amended section 1(a)(3) [title I, § 118] of Pub. L. 106–554, set out below.] “(c) Treatment of Additional Pay.—If subsection (b) results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code. “(d) Aggregate Limit.—With respect to the application of [section 5307 of title 5](./chapter-053-pay-rates-and-systems.md#section-5307), United States Code, the payment of any additional premium pay to a covered employee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee. “(e) Effective Date.—This section and the amendments made by this section shall take effect as if enacted on December 31, 2015.”
+Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, as amended by Pub. L. 115–160, § 2(a)(1), Apr. 3, 2018, 132 Stat. 1246; Pub. L. 115–383, § 2(a), Dec. 21, 2018, 132 Stat. 5121, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Overtime Pay for Protective Services Act of 2016’. “SEC. 2. PREMIUM PAY EXCEPTION DURING 2016 THROUGH 2020 FOR PROTECTIVE SERVICES.“(a) Definition.—In this section, the term ‘covered employee’ means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during 2016, 2017, 2018, 2019, or 2020. “(b) Exception to the Limitation on Premium Pay for Protective Services.—“(1) In general.—Notwithstanding any other provision of law, including [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code, and only to the extent that an appropriation is provided specifically in an appropriations Act for premium pay in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a), any covered employee may receive premium pay during 2016, 2017, 2018, 2019, and 2020, to the extent provided under section 118 of the Treasury and General Government Appropriations Act, 2001 ([5 U.S.C. 5547](./chapter-055-pay-administration.md#section-5547) note). “(2) Technical and conforming amendment.—[Amended section 1(a)(3) [title I, § 118] of Pub. L. 106–554, set out below.] “(c) Treatment of Additional Pay.—If subsection (b) results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code. “(d) Aggregate Limit.—With respect to the application of [section 5307 of title 5](./chapter-053-pay-rates-and-systems.md#section-5307), United States Code, the payment of any additional premium pay to a covered employee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee. “(e) Effective Date.—This section and the amendments made by this section shall take effect as if enacted on December 31, 2015.”
+
+[Pub. L. 115–160, § 2(b), Apr. 3, 2018, 132 Stat. 1246, provided that: “The amendments made by subsection (a) [amending Pub. L. 114–311, set out above, and section 1(a)(3) [title I, § 118] of Pub. L. 106–554, set out below] shall take effect as if enacted on December 31, 2016.” ]
 
 #### Premium Pay for Protective Services of United States Secret Service
-Pub. L. 106–554, § 1(a)(3) [title I, § 118], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, § 1114(b), Dec. 28, 2001, 115 Stat. 1240; Pub. L. 114–311, § 2(b)(2), Dec. 16, 2016, 130 Stat. 1531, provided that: “Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by [section 3056(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056/a&num=0&edition=prelim), United States Code, without regard to the restrictions contained in [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee’s basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation or, if the employee qualifies for an exception to such limitation under section 2(b)(1) of the Overtime Pay for Protective Services Act of 2016 [Pub. L. 114–311, set out above], to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under [section 5313 of title 5](./chapter-053-pay-rates-and-systems.md#section-5313), United States Code. The term premium pay refers to the provisions of law cited in the first sentence of [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year.”
+Pub. L. 106–554, § 1(a)(3) [title I, § 118], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, § 1114(b), Dec. 28, 2001, 115 Stat. 1240; Pub. L. 114–311, § 2(b)(2), Dec. 16, 2016, 130 Stat. 1531; Pub. L. 115–160, § 2(a)(2), Apr. 3, 2018, 132 Stat. 1246, provided that: “Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by section 3056(a) or 3056A of title 18, United States Code, without regard to the restrictions contained in [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee’s basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation or, if the employee qualifies for an exception to such limitation under section 2(b)(1) of the Overtime Pay for Protective Services Act of 2016 [Pub. L. 114–311, set out above], to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under [section 5313 of title 5](./chapter-053-pay-rates-and-systems.md#section-5313), United States Code. The term premium pay refers to the provisions of law cited in the first sentence of [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year.”
 
 Similar provisions were contained in Pub. L. 106–58, title I, § 118, Sept. 29, 1999, 113 Stat. 441.
+
+[Pub. L. 115–160, § 2(b), Apr. 3, 2018, 132 Stat. 1246, provided that: “The amendments made by subsection (a) [amending Pub. L. 114–311 and section 1(a)(3) [title I, § 118] of Pub. L. 106–554, set out above] shall take effect as if enacted on December 31, 2016.” ]
 
 [For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
 
@@ -3495,7 +3517,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 (1) section 2575, 2733, 4712, 6522, or 9712 of title 10;
 
-(2) [section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim); or
+(2) section 507 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14; or
 
 (3) chapter 171 of title 28.
 
@@ -3552,6 +3574,9 @@ Only that portion of the source law applicable to civilian officers and employee
 1996—Subsec. (h). Pub. L. 104–316 substituted “Administrator of General Services” for “General Accounting Office” wherever appearing.
 
 1991—Subsec. (i)(1). Pub. L. 102–190 substituted “6522, or 9712” for “4713, 6522, 9712, or 9713”.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim) redesignated [section 2710 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2710&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to [section 507 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section507&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-5565"></a>

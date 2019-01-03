@@ -327,7 +327,7 @@ The Act of Congress approved July 17, 1914, referred to in text, is act July 17,
 <a id="section-125"></a>
 ## § 125. Patents in North Platte Reclamation Project; mineral rights; subrogation
 
-Where reclamation homestead entry was made prior to July 17, 1914, pursuant to the Act of June 17, 1902 (32 Stat. 389, 43 U.S.C. sec. 431), as supplemented, for lands in the Northport Division or the Interstate Division of the North Platte Reclamation Project, and after such entry the lands have been or are hereafter withdrawn, classified, or reported as being valuable for any of the minerals named in sections 81 and 121 to 124 of this title, the patent shall not contain a reservation of such minerals. If any such mineral deposits on account of which the lands were withdrawn, classified or reported as being valuable have been leased by the United States, such patent shall be made subject to the rights of the lessee, but the patentee shall be subrogated to the rights of the United States under the lease.
+Where reclamation homestead entry was made prior to July 17, 1914, pursuant to the Act of June 17, 1902 (32 Stat. 389, 43 U.S.C., sec. 431), as amended and supplemented, for lands in the Northport Division or the Interstate Division of the North Platte Reclamation Project, and after such entry the lands have been or are hereafter withdrawn, classified, or reported as being valuable for any of the minerals named in sections 81 and 121 to 124 of this title, the patent shall not contain a reservation of such minerals. If any such mineral deposits on account of which the lands were withdrawn, classified or reported as being valuable have been leased by the United States, such patent shall be made subject to the rights of the lessee, but the patentee shall be subrogated to the rights of the United States under the lease.
 
 ### Statutory Notes
 
@@ -377,9 +377,12 @@ Section 152, act Oct. 2, 1917, ch. 62, § 13, 40 Stat. 300, related to provision
 <a id="section-161"></a>
 ## § 161. Entry of building-stone lands; previous law unaffected
 
-Any person authorized to enter lands under the mining laws of the United States may enter lands that are chiefly valuable for building stone under the provisions of the law in relation to placer mineral claims. Lands reserved for the benefit of the public schools or donated to any States shall not be subject to entry under this section. Nothing contained in this section shall be construed to repeal [section 471 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section471&num=0&edition=prelim) relating to the establishment of national forests.
+Any person authorized to enter lands under the mining laws of the United States may enter lands that are chiefly valuable for building stone under the provisions of the law in relation to placer mineral claims. Lands reserved for the benefit of the public schools or donated to any State shall not be subject to entry under this section. Nothing contained in this section shall be construed to repeal [section 471 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section471&num=0&edition=prelim) relating to the establishment of national forests.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 471 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section471&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, effective on and after Oct. 21, 1976.
 
 #### Codification
 First two sentences of this section are from section 1 and last sentence of this section is from section 3 of act Aug. 4, 1892.

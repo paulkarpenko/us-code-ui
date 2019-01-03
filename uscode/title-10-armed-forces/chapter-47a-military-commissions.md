@@ -1265,6 +1265,18 @@ A prior section 950e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 
 (4) No person may serve as a judge on the Court in any case in which that person acted as a military judge, counsel, or reviewing official.
 
+(5)
+
+  (A) For purposes of sections 203, 205, 207, 208, and 209 of title 18, the term “special Government employee” shall include a judge of the Court appointed under paragraph (3).
+
+  (B) A person appointed as a judge of the Court under paragraph (3) shall be considered to be an officer or employee of the United States with respect to such person’s status as a judge, but only during periods in which such person is performing the duties of such a judge. Any provision of law that prohibits or limits the political or business activities of an employee of the United States shall only apply to such a judge during such periods.
+
+(6) The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3) shall expire on the earlier of the date on which—
+
+  (A) the judge leaves active duty; or
+
+  (B) the judge is reassigned to other duties in accordance with [section 949b(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section949b/b/4&num=0&edition=prelim).
+
 **(c) Cases To Be Reviewed.—** The Court shall, in accordance with procedures prescribed under regulations of the Secretary, review the record in each case that is referred to the Court by the convening authority under [section 950c of this title](./chapter-47a-military-commissions.md#section-950c) with respect to any matter properly raised by the accused.
 
 **(d) Standard and Scope of Review.—** In a case reviewed by the Court under this section, the Court may act only with respect to the findings and sentence as approved by the convening authority. The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the military commission saw and heard the witnesses.
@@ -1277,7 +1289,14 @@ A prior section 950e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 A prior section 950f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2621; amended Pub. L. 110–181, div. A, title X, § 1063(a)(6), Jan. 28, 2008, 122 Stat. 322, related to review by Court of Military Commission Review, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 #### Amendments
+2018—Subsec. (b)(6). Pub. L. 115–232 added par. (6).
+
+2017—Subsec. (b)(5). Pub. L. 115–91 added par. (5).
+
 2011—Subsec. (a). Pub. L. 112–81 substituted “judges on the Court” for “appellate military judges” in second sentence.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. A, title V, § 541(b), Aug. 13, 2018, 132 Stat. 1762, provided that: “The amendment made by subsection (a) [amending this section] shall apply to each judge of the United States Court of Military Commission Review serving on that court on the date of the enactment of this Act [Aug. 13, 2018] and each judge assigned or appointed to that court on or after such date.”
 
 
 <a id="section-950g"></a>
@@ -1456,7 +1475,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (8) **Employing poison or similar weapons.—** — Any person subject to this chapter who intentionally, as a method of warfare, employs a substance or weapon that releases a substance that causes death or serious and lasting damage to health in the ordinary course of events, through its asphyxiating, bacteriological, or toxic properties, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
-(9) **Using protected persons as a shield.—** — Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack.11 So in original. The period probably should be a comma. or to shield, favor, or impede military operations, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+(9) **Using protected persons as a shield.—** — Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 (10) **Using protected property as a shield.—** — Any person subject to this chapter who positions, or otherwise takes advantage of the location of, protected property with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished as a military commission under this chapter may direct.
 
@@ -1486,7 +1505,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (15) **Murder in violation of the law of war.—** — Any person subject to this chapter who intentionally kills one or more persons, including privileged belligerents, in violation of the law of war shall be punished by death or such other punishment as a military commission under this chapter may direct.
 
-(16) **Destruction of property in violation of the law of war.—** — Any person subject to this chapter who intentionally destroys property belonging to another person in violation of the law of war shall 22 So in original. Probably should be followed by “be”. punished as a military commission under this chapter may direct.
+(16) **Destruction of property in violation of the law of war.—** — Any person subject to this chapter who intentionally destroys property belonging to another person in violation of the law of war shall be punished as a military commission under this chapter may direct.
 
 (17) **Using treachery or perfidy.—** — Any person subject to this chapter who, after inviting the confidence or belief of one or more persons that they were entitled to, or obliged to accord, protection under the law of war, intentionally makes use of that confidence or belief in killing, injuring, or capturing such person or persons shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
@@ -1498,7 +1517,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (21) **Rape.—** — Any person subject to this chapter who forcibly or with coercion or threat of force wrongfully invades the body of a person by penetrating, however slightly, the anal or genital opening of the victim with any part of the body of the accused, or with any foreign object, shall be punished as a military commission under this chapter may direct.
 
-(22) **Sexual assault or abuse.—** — Any person subject to this chapter who forcibly or with coercion or threat of force engages in sexual contact with one or more persons, or causes one or more persons to engage in sexual contact, shall be punished as a military commission under this chapter may direct 33 So in original. Probably should be followed by a period.
+(22) **Sexual assault or abuse.—** — Any person subject to this chapter who forcibly or with coercion or threat of force engages in sexual contact with one or more persons, or causes one or more persons to engage in sexual contact, shall be punished as a military commission under this chapter may direct.
 
 (23) **Hijacking or hazarding a vessel or aircraft.—** — Any person subject to this chapter who intentionally seizes, exercises unauthorized control over, or endangers the safe navigation of a vessel or aircraft that is not a legitimate military objective shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
@@ -1542,3 +1561,10 @@ Section 950u, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625
 Section 950v, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to definitions, construction, and crimes triable by military commissions.
 
 Section 950w, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2630, related to perjury, obstruction of justice, and contempt.
+
+#### Amendments
+2018—Par. (9). Pub. L. 115–232, § 1081(a)(12)(A), substituted “attack, or” for “attack. or”.
+
+Par. (16). Pub. L. 115–232, § 1081(a)(12)(B), substituted “shall be punished” for “shall punished”.
+
+Par. (22). Pub. L. 115–232, § 1081(a)(12)(C), added period at end.

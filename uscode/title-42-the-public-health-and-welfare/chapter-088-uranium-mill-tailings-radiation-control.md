@@ -133,7 +133,7 @@ The Atomic Energy Act of 1954, referred to in par. (6)(A)(ii), is act Aug. 1, 19
 
   (B) a reference in this subchapter to November 8, 1978, shall be treated as a reference to October 30, 2000.
 
-(3) **Remediation** — Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([10 U.S.C. 7420](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7420&num=0&edition=prelim) note; Public Law 105–261), including—
+(3) **Remediation** — Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([10 U.S.C. 8720](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8720&num=0&edition=prelim) note; Public Law 105–261), including—
 
   (A) ground water restoration; and
 
@@ -145,9 +145,14 @@ The Atomic Energy Act of 1954, referred to in par. (6)(A)(ii), is act Aug. 1, 19
 Remedial action authorized under Public Law 92–314, referred to in subsec. (a)(3), means the remedial action authorized by title II of Pub. L. 92–314, June 16, 1972, 86 Stat. 222, which is not classified to the Code.
 
 #### Amendments
+2018—Subsec. (f)(3). Pub. L. 115–232 substituted “([10 U.S.C. 8720](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8720&num=0&edition=prelim) note; Public Law 105–261)” for “([10 U.S.C. 7420](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7420&num=0&edition=prelim) note; Public Law 105–261)” in introductory provisions.
+
 2000—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
 1983—Subsec. (e)(3). Pub. L. 97–415 added par. (3).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-7914"></a>

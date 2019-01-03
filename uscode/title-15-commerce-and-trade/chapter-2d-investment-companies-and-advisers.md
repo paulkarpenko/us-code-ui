@@ -1159,6 +1159,11 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
+#### Parity for Closed-End Companies Regarding Offering and Proxy Rules
+Pub. L. 115–174, title V, § 509, May 24, 2018, 132 Stat. 1364, provided that: “(a) Revision to Rules.—Not later than the end of the 1-year period beginning on the date of enactment of this Act [May 24, 2018], the Securities and Exchange Commission shall propose and, not later than 2 years after the date of enactment of this Act, the Securities and Exchange Commission shall finalize any rules, as appropriate, to allow any closed-end company, as defined in section 5(a)(2) of the Investment Company Act of 1940 ([15 U.S.C. 80a–5](./chapter-2d-investment-companies-and-advisers.md#section-80a-5)), that is registered as an investment company under such Act [[15 U.S.C. 80a–1](./chapter-2d-investment-companies-and-advisers.md#section-80a-1) et seq.], and is listed on a national securities exchange or that makes periodic repurchase offers pursuant to section 270.23c–3 of title 17, Code of Federal Regulations, to use the securities offering and proxy rules, subject to conditions the Commission determines appropriate, that are available to other issuers that are required to file reports under section 13 or section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](./chapter-2b-securities-exchanges.md#section-78m); 78o(d)). Any action that the Commission takes pursuant to this subsection shall consider the availability of information to investors, including what disclosures constitute adequate information to be designated as a ‘well-known seasoned issuer’. “(b) Treatment if Revisions Not Completed in a Timely Manner.—If the Commission fails to complete the revisions required by subsection (a) by the time required by such subsection, any registered closed-end company that is listed on a national securities exchange or that makes periodic repurchase offers pursuant to section 270.23c–3 of title 17, Code of Federal Regulations, shall be deemed to be an eligible issuer under the final rule of the Commission titled ‘Securities Offering Reform’ (70 Fed. Reg. 44722; published August 3, 2005). “(c) Rules of Construction.—“(1) No effect on rule 482.—Nothing in this section or the amendments made by this section shall be construed to impair or limit in any way a registered closed-end company from using section 230.482 of title 17, Code of Federal Regulations, to distribute sales material. “(2) References.—Any reference in this section to a section of title 17, Code of Federal Regulations, or to any form or schedule means such rule, section, form, or schedule, or any successor to any such rule, section, form, or schedule.”
+
+[For definition of “company” as used in section 509 of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note under [section 5365 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5365&num=0&edition=prelim), Banks and Banking.]
+
 
 <a id="section-80a-24"></a>
 ## § 80a–24. Registration of securities under Securities Act of 1933
@@ -1610,11 +1615,17 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 **(c) Further exemptions** Notwithstanding subsection (a), none of the following persons is an investment company within the meaning of this subchapter:
 
-(1) Any issuer whose outstanding securities (other than short-term paper) are beneficially owned by not more than one hundred persons and which is not making and does not presently propose to make a public offering of its securities. Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of [section 80a–12(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–12/d/1&num=0&edition=prelim) governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer. For purposes of this paragraph:
+(1) Any issuer whose outstanding securities (other than short-term paper) are beneficially owned by not more than one hundred persons (or, in the case of a qualifying venture capital fund, 250 persons) and which is not making and does not presently propose to make a public offering of its securities. Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of [section 80a–12(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–12/d/1&num=0&edition=prelim) governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer. For purposes of this paragraph:
 
   (A) Beneficial ownership by a company shall be deemed to be beneficial ownership by one person, except that, if the company owns 10 per centum or more of the outstanding voting securities of the issuer, and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company, the beneficial ownership shall be deemed to be that of the holders of such company’s outstanding securities (other than short-term paper).
 
   (B) Beneficial ownership by any person who acquires securities or interests in securities of an issuer described in the first sentence of this paragraph shall be deemed to be beneficial ownership by the person from whom such transfer was made, pursuant to such rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, where the transfer was caused by legal separation, divorce, death, or other involuntary event.
+
+  (C)
+
+    (i) The term “qualifying venture capital fund” means a venture capital fund that has not more than $10,000,000 in aggregate capital contributions and uncalled committed capital, with such dollar amount to be indexed for inflation once every 5 years by the Commission, beginning from a measurement made by the Commission on a date selected by the Commission, rounded to the nearest $1,000,000.
+
+    (ii) The term “venture capital fund” has the meaning given the term in section 275.203(l)–1 of title 17, Code of Federal Regulations, or any successor regulation.
 
 (2)
 
@@ -1749,6 +1760,10 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–174, § 504(1), inserted “(or, in the case of a qualifying venture capital fund, 250 persons)” after “one hundred persons” in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 115–174, § 504(2), added subpar. (C).
+
 2010—Subsec. (c)(8). Pub. L. 111–203 substituted “[Repealed]” for text of par. (8) which read as follows: “Any company subject to regulation under the Public Utility Holding Company Act of 1935.”
 
 2004—Subsec. (c)(11). Pub. L. 108–359, which directed the substitution of “one or more of such trusts, government plans, or church plans, companies or accounts that are excluded from the definition of an investment company under paragraph (14) of this subsection” for “such trusts or government plans, or both”, was executed by making the substitution for “such trusts or governmental plans, or both”, to reflect the probable intent of Congress.
@@ -2474,6 +2489,9 @@ This subchapter may be cited as the “Investment Company Act of 1940”.
 
 ### Statutory Notes
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–141, div. S, title VIII, § 801, Mar. 23, 2018, 132 Stat. 1138, provided that: “This title [amending sections 80a–56, 80a–60, 80a–62, and 80b–5 of this title and enacting provisions set out as a note under under [section 80a–53 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-53)] may be cited as the ‘Small Business Credit Availability Act’.”
+
 #### Short Title of 1996 Amendment
 Pub. L. 104–290, title II, § 201, Oct. 11, 1996, 110 Stat. 3426, provided that: “This title [amending sections 80a–2, 80a–3, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, and 80b–5 of this title and enacting provisions set out as notes under sections 80a–2, 80a–3, and 80a–24 of this title] may be cited as the ‘Investment Company Act Amendments of 1996’.”
 
@@ -2517,6 +2535,9 @@ Pub. L. 91–547, § 30, Dec. 14, 1970, 84 Stat. 1436, provided that: “This Ac
 
 #### Amendments
 1987—Subsec. (a). Pub. L. 100–181 substituted “defined in section” for “defined in sections”.
+
+#### Parity for Business Development Companies Regarding Offering and Proxy Rules
+Pub. L. 115–141, div. S, title VIII, § 803, Mar. 23, 2018, 132 Stat. 1140, provided that: “(a) Definitions.—In this section—“(1) the term ‘business development company’ has the meaning given the term in section 2(a) of the Investment Company Act of 1940 ([15 U.S.C. 80a–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2/a&num=0&edition=prelim)); “(2) the term ‘Commission’ means the Securities and Exchange Commission; “(3) the term ‘Form N–2’ means the form described in section 239.14 of title 17, Code of Federal Regulations; “(4) the term ‘Form S–3’ means the form described in section 239.13 of title 17, Code of Federal Regulations; and “(5) the term ‘Schedule 14A’ means the information required under section 240.14a–101 of title 17, Code of Federal Regulations. “(b) Revision to Rules.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Mar. 23, 2018], the Commission shall make the revisions described in paragraph (2) to allow a business development company that has filed an election under section 54 of the Investment Company Act of 1940 ([15 U.S.C. 80a–53](./chapter-2d-investment-companies-and-advisers.md#section-80a-53)) to use the securities offering and proxy rules that are available to other issuers that are required to file reports under section 13(a) or section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/a&num=0&edition=prelim); 78o(d)). “(2) Required revisions.—The revisions described in this paragraph are revisions to—“(A) section 230.405 of title 17, Code of Federal Regulations—“(i) to remove the exclusion of a business development company from the definition of the term ‘well-known seasoned issuer’ under that section; and “(ii) to add a registration statement filed on Form N–2 to the definition of the term ‘automatic shelf registration statement’ under that section; “(B) sections 230.168 and 230.169 of title 17, Code of Federal Regulations, to remove the exclusion of a business development company from an issuer that is eligible for the exemptions under those sections; “(C) section 230.163 of title 17, Code of Federal Regulations, to remove a business development company from the list of issuers that are ineligible for the exemption under that section; “(D) section 230.163A of title 17, Code of Federal Regulations, to remove the communications made by a business development company from the list of communications that are ineligible for the exemption under that section; “(E) section 230.134 of title 17, Code of Federal Regulations, to remove the exclusion of a communication relating to a business development company from the application of that section; “(F) sections 230.138 and 230.139 of title 17, Code of Federal Regulations, to specifically include a business development company as an issuer to which those sections apply; “(G) section 230.156 of title 17, Code of Federal Regulations, to provide that nothing in that section may be construed to prevent a business development company from qualifying for an exemption under section 230.168 or 230.169 of title 17, Code of Federal Regulations, as amended by the Commission in accordance with the requirements of this section; “(H) section 230.164 of title 17, Code of Federal Regulations, to remove a business development company from the list of issuers that are excluded under that section; “(I) section 230.433 of title 17, Code of Federal Regulations, to specifically include a business development company that is a well-known seasoned issuer as an issuer to which that section applies; “(J) section 230.415 of title 17, Code of Federal Regulations to state that the registration for securities under section 230.415(a)(1)(x) of title 17, Code of Federal Regulations, includes securities registered on Form N–2 by a business development company that would otherwise meet the eligibility requirements of Form S–3; “(K) section 230.497 of title 17, Code of Federal Regulations, to include a process for a business development company to file a form of prospectus in the same manner as the process for filing a form of prospectus under section 230.424(b) of title 17, Code of Federal Regulations; “(L) sections 230.172 and 230.173 of title 17, Code of Federal Regulations, to remove the exclusion of an offering of a business development company from the application of those sections; “(M) section 230.418 of title 17, Code of Federal Regulations, to provide that a business development company that would otherwise meet the eligibility requirements of Form S–3 shall be exempt from paragraph (a)(3) of that section; “(N) Schedule 14A to revise item 13(b)(1) of that Schedule to include a business development company that would otherwise meet the requirements of note E of that Schedule as an issuer to which that item applies; “(O) section 243.103 of title 17, Code of Federal Regulations, to provide that paragraph (a) of that section applies for the purposes of Form N–2; and “(P) item 34 on Form N–2 to require a business development company to provide undertakings that are no more restrictive than the undertakings that are required of a registrant under section 229.512 of title 17, Code of Federal Regulations. “(c) Revision to Form N–2.—Not later than 1 year after the date of enactment of this Act, the Commission shall revise Form N–2—“(1) to include an item or instruction that is similar to item 12 on Form S–3 to provide that a business development company that would otherwise meet the requirements of Form S–3 shall incorporate by reference the reports and documents filed by the business development company under the Securities Exchange Act of 1934 ([15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.) into the registration statement of the business development company filed on Form N–2; and “(2) to include an item or instruction that is similar to the instruction regarding automatic shelf offerings by well-known seasoned issuers on Form S–3 to provide that a business development company that is a well-known seasoned issuer may file automatic shelf offerings on Form N–2. “(d) Treatment if Revisions Not Completed in Timely Manner.—If the Commission fails to complete the revisions required under subsections (b) and (c) by the dates described in those subsections, a business development company, during the period beginning on the date that is 1 day after 1 year after the date of enactment of this Act and ending on the date that the Commission completes those revisions, may deem those revisions to have been completed in accordance with the actions required to be taken by the Commission under those subsections. “(e) Rules of Construction.—“(1) Treatment of successor regulations and forms.—Any reference in this section to a regulation or form shall be construed as a reference to—“(A) that regulation or form, as in effect on the day before the date of enactment of this Act; or “(B) any successor to that regulation or form. “(2) Distribution of sales material.—Nothing in this section, or in the amendments made pursuant to the requirements of this section, may be construed to prevent a business development company from distributing sales material under section 230.482 of title 17, Code of Federal Regulations.”
 
 
 <a id="section-80a-54"></a>
@@ -2635,7 +2656,7 @@ For purposes of this subsection, the term “executive officer” means the pres
 
 **(j) Warrants, options, and rights to purchase voting securities; loans to facilitate executive compensation plans** Notwithstanding subsections (a) and (d) of this section, any director, officer, or employee of, or general partner in, a business development company may—
 
-(1) acquire warrants, options, and rights to purchase voting securities of such business development company, and securities issued upon the exercise or conversion thereof, pursuant to an executive compensation plan offered by such company which meets the requirements of [section 80a–60(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3/B&num=0&edition=prelim); and
+(1) acquire warrants, options, and rights to purchase voting securities of such business development company, and securities issued upon the exercise or conversion thereof, pursuant to an executive compensation plan offered by such company which meets the requirements of [section 80a–60(a)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4/B&num=0&edition=prelim); and
 
 (2) borrow money from such business development company for the purpose of purchasing securities issued by such company pursuant to an executive compensation plan, if each such loan—
 
@@ -2692,7 +2713,7 @@ unless the Commission, by rules and regulations or order in the public interest 
 
   (B) the aggregate amount of benefits which would be paid or accrued under such plan shall not exceed 20 per centum of the business development company’s net income after taxes in any fiscal year.
 
-(2) This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to [section 80a–60(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3/B&num=0&edition=prelim), or has an investment adviser registered or required to be registered under subchapter II of this chapter.
+(2) This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to [section 80a–60(a)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4/B&num=0&edition=prelim), or has an investment adviser registered or required to be registered under subchapter II of this chapter.
 
 **(o) Required majority for approval of proposed transactions** The term “required majority”, when used with respect to the approval of a proposed transaction, plan, or arrangement, means both a majority of a business development company’s directors or general partners who have no financial interest in such transaction, plan, or arrangement and a majority of such directors or general partners who are not interested persons of such company.
 
@@ -2704,6 +2725,8 @@ The Securities Act of 1933, referred to in subsecs. (c)(2) and (f)(2), is act Ma
 The Securities Exchange Act of 1934, referred to in subsecs. (c)(2) and (f)(2), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Amendments
+2018—Subsecs. (j)(1), (n)(2). Pub. L. 115–141 substituted “[section 80a–60(a)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4/B&num=0&edition=prelim)” for “[section 80a–60(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3/B&num=0&edition=prelim)”.
+
 1987—Subsec. (i). Pub. L. 100–181 substituted “subsections (a) and (d) of [section 80a–17 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-17)” for “sections 80a–17(a) and (d) of this title” in two places.
 
 
@@ -2729,15 +2752,13 @@ Notwithstanding the exemption set forth in [section 80a–6(f) of this title](ht
 ## § 80a–6. Exemptions
 **(a) Exemption of specified investment companies** The following investment companies are exempt from the provisions of this subchapter:
 
-(1) Any company organized or otherwise created under the laws of and having its principal office and place of business in Puerto Rico, the Virgin Islands, or any other possession of the United States; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold after the effective date of this subchapter, by such company or an underwriter therefor, to a resident of any State other than the State in which such company is organized.
+(1) Any company which since the effective date of this subchapter or within five years prior to such date has been reorganized under the supervision of a court of competent jurisdiction, if (A) such company was not an investment company at the commencement of such reorganization proceedings, (B) at the conclusion of such proceedings all outstanding securities of such company were owned by creditors of such company or by persons to whom such securities were issued on account of creditors’ claims, and (C) more than 50 per centum of the voting securities of such company, and securities representing more than 50 per centum of the net asset value of such company, are currently owned beneficially by not more than twenty-five persons; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold to the public after the conclusion of such proceedings by the issuer or by or through any underwriter. For the purposes of this paragraph, any new company organized as part of the reorganization shall be deemed the same company as its predecessor; and beneficial ownership shall be determined in the manner provided in [section 80a–3(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/1&num=0&edition=prelim).
 
-(2) Any company which since the effective date of this subchapter or within five years prior to such date has been reorganized under the supervision of a court of competent jurisdiction, if (A) such company was not an investment company at the commencement of such reorganization proceedings, (B) at the conclusion of such proceedings all outstanding securities of such company were owned by creditors of such company or by persons to whom such securities were issued on account of creditors’ claims, and (C) more than 50 per centum of the voting securities of such company, and securities representing more than 50 per centum of the net asset value of such company, are currently owned beneficially by not more than twenty-five persons; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold to the public after the conclusion of such proceedings by the issuer or by or through any underwriter. For the purposes of this paragraph, any new company organized as part of the reorganization shall be deemed the same company as its predecessor; and beneficial ownership shall be determined in the manner provided in [section 80a–3(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/1&num=0&edition=prelim).
+(2) Any issuer as to which there is outstanding a writing filed with the Commission by the Federal Savings and Loan Insurance Corporation stating that exemption of such issuer from the provisions of this subchapter is consistent with the public interest and the protection of investors and is necessary or appropriate by reason of the fact that such issuer holds or proposes to acquire any assets or any product of any assets which have been segregated (A) from assets of any company which at the filing of such writing is an insured institution within the meaning of section 1724(a) 11 See References in Text note below. of title 12, or (B) as a part of or in connection with any plan for or condition to the insurance of accounts of any company by said corporation or the conversion of any company into a Federal savings and loan association. Any such writing shall expire when canceled by a writing similarly filed or at the expiration of two years after the date of its filing, whichever first occurs; but said corporation may, nevertheless, before, at, or after the expiration of any such writing file another writing or writings with respect to such issuer.
 
-(3) Any issuer as to which there is outstanding a writing filed with the Commission by the Federal Savings and Loan Insurance Corporation stating that exemption of such issuer from the provisions of this subchapter is consistent with the public interest and the protection of investors and is necessary or appropriate by reason of the fact that such issuer holds or proposes to acquire any assets or any product of any assets which have been segregated (A) from assets of any company which at the filing of such writing is an insured institution within the meaning of section 1724(a) 11 See References in Text note below. of title 12, or (B) as a part of or in connection with any plan for or condition to the insurance of accounts of any company by said corporation or the conversion of any company into a Federal savings and loan association. Any such writing shall expire when canceled by a writing similarly filed or at the expiration of two years after the date of its filing, whichever first occurs; but said corporation may, nevertheless, before, at, or after the expiration of any such writing file another writing or writings with respect to such issuer.
+(3) Any company which prior to March 15, 1940, was and now is a wholly-owned subsidiary of a registered face-amount certificate company and was prior to said date and now is organized and operating under the insurance laws of any State and subject to supervision and examination by the insurance commissioner thereof, and which prior to March 15, 1940, was and now is engaged, subject to such laws, in business substantially all of which consists of issuing and selling only to residents of such State and investing the proceeds from, securities providing for or representing participations or interests in intangible assets consisting of mortgages or other liens on real estate or notes or bonds secured thereby or in a fund or deposit of mortgages or other liens on real estate or notes or bonds secured thereby or having outstanding such securities so issued and sold.
 
-(4) Any company which prior to March 15, 1940, was and now is a wholly-owned subsidiary of a registered face-amount certificate company and was prior to said date and now is organized and operating under the insurance laws of any State and subject to supervision and examination by the insurance commissioner thereof, and which prior to March 15, 1940, was and now is engaged, subject to such laws, in business substantially all of which consists of issuing and selling only to residents of such State and investing the proceeds from, securities providing for or representing participations or interests in intangible assets consisting of mortgages or other liens on real estate or notes or bonds secured thereby or in a fund or deposit of mortgages or other liens on real estate or notes or bonds secured thereby or having outstanding such securities so issued and sold.
-
-(5)
+(4)
 
   (A) Any company that is not engaged in the business of issuing redeemable securities, the operations of which are subject to regulation by the State in which the company is organized under a statute governing entities that provide financial or managerial assistance to enterprises doing business, or proposing to do business, in that State if—
 
@@ -2785,14 +2806,13 @@ shall be exempt from sections 80a–1 through 80a–52 of this title, except to 
 ### Statutory Notes
 
 #### References in Text
-For the effective date of this subchapter, referred to in subsec. (a)(2), see [section 80a–52 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-52).
+For the effective date of this subchapter, referred to in subsec. (a)(1), see [section 80a–52 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-52).
 
-[Section 1724 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1724&num=0&edition=prelim), referred to in subsec. (a)(3), was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
-
-#### Codification
-Words “Philippine Islands” deleted from subsec. (a)(1) after “Puerto Rico” under the authority of Proc. No. 2695, granting independence to the Philippine Islands, which was issued pursuant to [section 1394 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1394&num=0&edition=prelim), Foreign Relations and Intercourse, and is set out as a note under that section.
+[Section 1724 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1724&num=0&edition=prelim), referred to in subsec. (a)(2), was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–174 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “Any company organized or otherwise created under the laws of and having its principal office and place of business in Puerto Rico, the Virgin Islands, or any other possession of the United States; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold after the effective date of this subchapter, by such company or an underwriter therefor, to a resident of any State other than the State in which such company is organized.”
+
 2010—Subsec. (a)(5)(A)(iv)(I). Pub. L. 111–203 substituted “meets such standards of credit-worthiness as the Commission shall adopt” for “is rated investment grade by not less than 1 nationally recognized statistical rating organization”.
 
 1996—Subsec. (a)(5). Pub. L. 104–290, § 501, added par. (5).
@@ -2801,7 +2821,7 @@ Subsec. (d)(1). Pub. L. 104–290, § 502, substituted “$10,000,000, or such o
 
 1987—Subsec. (a)(1). Pub. L. 100–181, § 608(1), struck out reference to Canal Zone.
 
-Subsec. (a)(2) to (5). Pub. L. 100–181, § 608(2), redesignated former pars. (3) to (5) as (2) to (4), and struck out former par. (2) which read as follows: “Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed or elected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company’s business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver’s or trustee’s certificates.”
+Subsec. (a)(2) to (5). Pub. L. 100–181, § 608(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed or elected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company’s business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver’s or trustee’s certificates.”
 
 1980—Subsec. (f). Pub. L. 96–477 added subsec. (f).
 
@@ -2810,6 +2830,11 @@ Subsec. (a)(2) to (5). Pub. L. 100–181, § 608(2), redesignated former pars. (
 1960—Subsec. (a)(1). Pub. L. 86–624 struck out reference to Hawaii.
 
 1959—Subsec. (a)(1). Pub. L. 86–70 struck out reference to Alaska.
+
+#### Effective Date of 2018 Amendment; Safe Harbor
+Pub. L. 115–174, title V, § 506(b), May 24, 2018, 132 Stat. 1363, provided that: “(1) Effective date.—Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall take effect on the date of enactment of this Act [May 24, 2018]. “(2) Safe harbor.—With respect to a company that is exempt under section 6(a)(1) of the Investment Company Act of 1940 ([15 U.S.C. 80a–6(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–6/a/1&num=0&edition=prelim)) on the day before the date of enactment of this Act, the amendment made by subsection (a) shall take effect on the date that is 3 years after the date of enactment of this Act. “(3) Extension of safe harbor.—The Securities and Exchange Commission, by rule or regulation upon its own motion, or by order upon application, may conditionally or unconditionally, under section 6(c) of the Investment Company Act of 1940 ([15 U.S.C. 80a–6(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–6/c&num=0&edition=prelim)), further delay the effective date for a company described in paragraph (2) for a maximum of 3 years following the initial 3-year period if, before the end of the initial 3-year period, the Commission determines that such a rule, regulation, motion, or order is necessary or appropriate in the public interest and for the protection of investors.”
+
+[For definition of “company” as used in section 506(b) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note under [section 5365 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5365&num=0&edition=prelim), Banks and Banking.]
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, set out as a note under [section 24a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24a&num=0&edition=prelim), Banks and Banking.
@@ -2830,11 +2855,43 @@ Subchapter inapplicable to certain life insurance benefits issued prior to Mar. 
 ## § 80a–60. Capital structure
 **(a) Exceptions for business development company** Notwithstanding the exemption set forth in [section 80a–6(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–6/f&num=0&edition=prelim), [section 80a–18 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-18) shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except as follows:
 
-(1) The asset coverage requirements of section 80a–18(a)(1)(A) and (B) of this title applicable to business development companies shall be 200 per centum.
+(1) Except as provided in paragraph (2), the asset coverage requirements of subparagraphs (A) and (B) of [section 80a–18(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a/1&num=0&edition=prelim) (and any related rule promulgated under this subchapter) applicable to business development companies shall be 200 percent.
 
-(2) Notwithstanding [section 80a–18(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/c&num=0&edition=prelim), a business development company may issue more than one class of senior security representing indebtedness.
+(2) The asset coverage requirements of subparagraphs (A) and (B) of [section 80a–18(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a/1&num=0&edition=prelim) and of subparagraphs (A) and (B) of [section 80a–18(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a/2&num=0&edition=prelim) (and any related rule promulgated under this subchapter) applicable to a business development company shall be 150 percent if—
 
-(3) Notwithstanding [section 80a–18(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/d&num=0&edition=prelim)—
+  (A) not later than 5 business days after the date on which those asset coverage requirements are approved under subparagraph (D) of this paragraph, the business development company discloses that the requirements were approved, and the effective date of the approval, in—
+
+    (i) any filing submitted to the Commission under section 78m(a) or 78o(d) of this title; and
+
+    (ii) a notice on the website of the business development company;
+
+  (B) the business development company discloses, in each periodic filing required under [section 78m(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/a&num=0&edition=prelim)—
+
+    (i) the aggregate outstanding principal amount or liquidation preference, as applicable, of the senior securities issued by the business development company and the asset coverage percentage as of the date of the business development company’s most recent financial statements included in that filing;
+
+    (ii) that the business development company, under subparagraph (D), has approved the asset coverage requirements under this paragraph; and
+
+    (iii) the effective date of the approval described in clause (ii);
+
+  (C) with respect to a business development company that is an issuer of common equity securities, each periodic filing of the company required under [section 78m(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/a&num=0&edition=prelim) includes disclosures that are reasonably designed to ensure that shareholders are informed of—
+
+    (i) the amount of senior securities (and the associated asset coverage ratios) of the company, determined as of the date of the most recent financial statements of the company included in that filing; and
+
+    (ii) the principal risk factors associated with the senior securities described in clause (i), to the extent that risk is incurred by the company; and
+
+  (D) the company—
+
+    (i)
+
+      (I) through a vote of the required majority (as defined in section 80a–56(o) of this title), approves the application of this paragraph to the company, to become effective on the date that is 1 year after the date of the approval; or
+
+      (II) obtains, at a special or annual meeting of shareholders or partners at which a quorum is present, the approval of more than 50 percent of the votes cast for the application of this paragraph to the company, to become effective on the first day after the date of the approval; and
+
+    (ii) if the company is not an issuer of common equity securities that are listed on a national securities exchange, extends, to each person that is a shareholder as of the date of an approval described in subclause (I) or (II) of clause (i), as applicable, the opportunity (which may include a tender offer) to sell the securities held by that shareholder as of that applicable approval date, with 25 percent of those securities to be repurchased in each of the 4 calendar quarters following the calendar quarter in which that applicable approval date takes place.
+
+(3) Notwithstanding [section 80a–18(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/c&num=0&edition=prelim), a business development company may issue more than one class of senior security representing indebtedness.
+
+(4) Notwithstanding [section 80a–18(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/d&num=0&edition=prelim)—
 
   (A) a business development company may issue warrants, options, or rights to subscribe or convert to voting securities of such company, accompanied by securities, if—
 
@@ -2865,16 +2922,20 @@ Subchapter inapplicable to certain life insurance benefits issued prior to Mar. 
     (ii) the proposal to issue such warrants, options, or rights is authorized by the shareholders or partners of such business development company, and such issuance is approved by the required majority (as defined in section 80a–56(o) of this title) of the directors of or general partners in such company on the basis that such issuance is in the best interests of the company and its shareholders or partners.
   Notwithstanding this paragraph, the amount of voting securities that would result from the exercise of all outstanding warrants, options, and rights at the time of issuance shall not exceed 25 per centum of the outstanding voting securities of the business development company, except that if the amount of voting securities that would result from the exercise of all outstanding warrants, options, and rights issued to such company’s directors, officers, employees, and general partners pursuant to any executive compensation plan meeting the requirements of subparagraph (B) of this paragraph would exceed 15 per centum of the outstanding voting securities of such company, then the total amount of voting securities that would result from the exercise of all outstanding warrants, options, and rights at the time of issuance shall not exceed 20 per centum of the outstanding voting securities of such company.
 
-(4) For purposes of measuring the asset coverage requirements of [section 80a–18(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a&num=0&edition=prelim), a senior security created by the guarantee by a business development company of indebtedness issued by another company shall be the amount of the maximum potential liability less the fair market value of the net unencumbered assets (plus the indebtedness which has been guaranteed) available in the borrowing company whose debts have been guaranteed, except that a guarantee issued by a business development company of indebtedness issued by a company which is a wholly-owned subsidiary of the business development company and is licensed as a small business investment company under the Small Business Investment Act of 1958 [[15 U.S.C. 661](./chapter-14b-small-business-investment-program.md#section-661) et seq.] shall not be deemed to be a senior security of such business development company for purposes of [section 80a–18(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a&num=0&edition=prelim) if the amount of the indebtedness at the time of its issuance by the borrowing company is itself taken fully into account as a liability by such business development company, as if it were issued by such business development company, in determining whether such business development company, at that time, satisfies the asset coverage requirements of [section 80a–18(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a&num=0&edition=prelim).
+(5) For purposes of measuring the asset coverage requirements of [section 80a–18(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a&num=0&edition=prelim), a senior security created by the guarantee by a business development company of indebtedness issued by another company shall be the amount of the maximum potential liability less the fair market value of the net unencumbered assets (plus the indebtedness which has been guaranteed) available in the borrowing company whose debts have been guaranteed, except that a guarantee issued by a business development company of indebtedness issued by a company which is a wholly-owned subsidiary of the business development company and is licensed as a small business investment company under the Small Business Investment Act of 1958 [[15 U.S.C. 661](./chapter-14b-small-business-investment-program.md#section-661) et seq.] shall not be deemed to be a senior security of such business development company for purposes of [section 80a–18(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a&num=0&edition=prelim) if the amount of the indebtedness at the time of its issuance by the borrowing company is itself taken fully into account as a liability by such business development company, as if it were issued by such business development company, in determining whether such business development company, at that time, satisfies the asset coverage requirements of [section 80a–18(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–18/a&num=0&edition=prelim).
 
 **(b) Compliance** A business development company shall comply with the provisions of this section at the time it becomes subject to sections 80a–54 through 80a–64 of this title, as if it were issuing a security of each class which it has outstanding at such time.
 
 ### Statutory Notes
 
 #### References in Text
-The Small Business Investment Act of 1958, referred to in subsec. (a)(4), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689), as amended, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
+This subchapter, referred to in subsec. (a)(1), (2), was in the original “this Act”, meaning title I of act Aug. 22, 1940, ch. 686, known as the Investment Company Act of 1940, which is classified generally to this subchapter.
+
+The Small Business Investment Act of 1958, referred to in subsec. (a)(5), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689), which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141 added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which read as follows: “The asset coverage requirements of section 80a–18(a)(1)(A) and (B) of this title applicable to business development companies shall be 200 per centum.”
+
 2010—Subsec. (a)(3)(B)(iii). Pub. L. 111–203 substituted “[section 80b–5(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–5/a/1&num=0&edition=prelim)” for “paragraph (1) of [section 80b–5 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-5)” and “paragraph (1) or (2) of [section 80b–5(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–5/b&num=0&edition=prelim)” for “clause (A) or (B) of that section”.
 
 1996—Subsec. (a)(2). Pub. L. 104–290, § 506(1), substituted a period for “if such business development company does not have outstanding any publicly held indebtedness, and all such securities of each class are—
@@ -2918,7 +2979,12 @@ Notwithstanding the exemption set forth in [section 80a–6(f) of this title](ht
 
   (C) a required majority (as defined in section 80a–56(o) of this title) of the directors of or general partners in such business development company, in consultation with the underwriter or underwriters of the offering if it is to be underwritten, have determined in good faith, and as of a time immediately prior to the first solicitation by or on behalf of such company of firm commitments to purchase such securities or immediately prior to the issuance of such securities, that the price at which such securities are to be sold is not less than a price which closely approximates the market value of those securities, less any distributing commission or discount.
 
-(3) A business development company may sell any common stock of which it is the issuer at a price below the current net asset value of such stock upon the exercise of any warrant, option, or right issued in accordance with [section 80a–60(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3&num=0&edition=prelim).
+(3) A business development company may sell any common stock of which it is the issuer at a price below the current net asset value of such stock upon the exercise of any warrant, option, or right issued in accordance with [section 80a–60(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2018—Par. (3). Pub. L. 115–141 substituted “[section 80a–60(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4&num=0&edition=prelim)” for “[section 80a–60(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3&num=0&edition=prelim)”.
 
 
 <a id="section-80a-63"></a>
@@ -3804,6 +3870,9 @@ This subchapter may be cited as the “Investment Advisers Act of 1940”.
 
 ### Statutory Notes
 
+#### Short Title of 2019 Amendment
+Pub. L. 115–417, § 1, Jan. 3, 2019, 132 Stat. 5438, provided that: “This Act [amending sections 80b–3 and 80b–3a of this title] may be cited as the ‘RBIC Advisers Relief Act of 2018’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–203, title IV, § 401, July 21, 2010, 124 Stat. 1570, provided that: “This title [enacting sections 80b–18b and 80b–18c of this title, amending sections 80b–2, 80b–3, 80b–3a, 80b–4, 80b–5, 80b–10, and 80b–11 of this title, and enacting provisions set out as notes under sections 77b and 80b–2 of this title] may be cited as the ‘Private Fund Investment Advisers Registration Act of 2010’.”
 
@@ -3847,7 +3916,7 @@ This subchapter shall become effective on November 1, 1940.
 
     (ii) a company which has elected to be a business development company pursuant to [section 80a–53 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-53) and has not withdrawn its election; or
 
-  (B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission.11 So in original. The period probably should be “; or”.
+  (B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission;
 
 (7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to [section 80a–53 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-53), who solely advises—
 
@@ -3855,7 +3924,17 @@ This subchapter shall become effective on November 1, 1940.
 
   (B) entities that have received from the Small Business Administration notice to proceed to qualify for a license as a small business investment company under the Small Business Investment Act of 1958, which notice or license has not been revoked; or
 
-  (C) applicants that are affiliated with 1 or more licensed small business investment companies described in subparagraph (A) and that have applied for another license under the Small Business Investment Act of 1958, which application remains pending.
+  (C) applicants that are affiliated with 1 or more licensed small business investment companies described in subparagraph (A) and that have applied for another license under the Small Business Investment Act of 1958, which application remains pending; or
+
+(8) any investment adviser, other than an entity that has elected to be regulated or is regulated as a business development company pursuant to [section 80a–53 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-53), who solely advises—
+
+  (A) rural business investment companies (as defined in [section 2009cc of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009cc&num=0&edition=prelim)); or
+
+  (B) companies that have submitted to the Secretary of Agriculture an application in accordance with [section 2009cc–3(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2009cc–3/b&num=0&edition=prelim) that—
+
+    (i) have received from the Secretary of Agriculture a letter of conditions, which has not been revoked; or
+
+    (ii) are affiliated with 1 or more rural business investment companies described in subparagraph (A).
 
 **(c) Procedure for registration; filing of application; effective date of registration; amendment of registration**
 
@@ -3898,7 +3977,7 @@ This subchapter shall become effective on November 1, 1940.
 
   (C) involves the larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds or securities or substantially equivalent activity however denominated by the laws of the relevant foreign government; or
 
-  (D) involves the violation of section 152, 1341, 1342, or 1343 or chapter 25 or 47 of title 18, or a violation of 22 So in original. Probably should be “of a”. substantially equivalent foreign statute.
+  (D) involves the violation of section 152, 1341, 1342, or 1343 or chapter 25 or 47 of title 18, or a violation of 11 So in original. Probably should be “of a”. substantially equivalent foreign statute.
 
 (3) has been convicted during the 10-year period preceding the date of filing of any application for registration, or at any time thereafter, of—
 
@@ -3924,7 +4003,7 @@ This subchapter shall become effective on November 1, 1940.
 
   (B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
 
-  (C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical 33 So in original. Probably should be “financial”. regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
+  (C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical 22 So in original. Probably should be “financial”. regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
 
 (9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim))), or the National Credit Union Administration, that—
 
@@ -3950,7 +4029,7 @@ This subchapter shall become effective on November 1, 1940.
 
     (iii) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein; or
 
-    (iv) has failed reasonably to supervise, within the meaning of subsection (e)(6), with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; 44 So in original. The semicolon probably should be a period.
+    (iv) has failed reasonably to supervise, within the meaning of subsection (e)(6), with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; 33 So in original. The semicolon probably should be a period.
 
   (B) *Cease-and-desist proceedings* — In any proceeding instituted pursuant to subsection (k) against any person, the Commission may impose a civil penalty if the Commission finds, on the record, after notice and opportunity for hearing, that such person—
 
@@ -4023,13 +4102,17 @@ This subchapter shall become effective on November 1, 1940.
 
 (2) **Advisers of SBICS** — For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to [section 80a–53 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-53)).
 
+(3) **Advisers of RBICS** — For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A) or (B) of subsection (b)(8) (other than an entity that has elected to be regulated as a business development company pursuant to [section 80a–53 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-53)).
+
 **(m) Exemption of and reporting by certain private fund advisers**
 
-(1) **In general** — The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of 55 So in original. The word “of” probably should not appear. such investment adviser acts solely as an adviser to private funds and has assets under management in the United States of less than $150,000,000.
+(1) **In general** — The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of 44 So in original. The word “of” probably should not appear. such investment adviser acts solely as an adviser to private funds and has assets under management in the United States of less than $150,000,000.
 
 (2) **Reporting** — The Commission shall require investment advisers exempted by reason of this subsection to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
 
 (3) **Advisers of SBICS** — For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to [section 80a–53 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-53)) shall be excluded from the limit set forth in paragraph (1).
+
+(4) **Advisers of RBICS** — For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A) or (B) of subsection (b)(8) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to [section 80a–53 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-53)) shall be excluded from the limit set forth in paragraph (1).
 
 **(n) Registration and examination of mid-sized private fund advisers** In prescribing regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.
 
@@ -4045,6 +4128,14 @@ The Securities Act of 1933, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i)
 The Securities Exchange Act of 1934, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Amendments
+2019—Subsec. (b)(6)(B). Pub. L. 115–417, § 2(1)(A), realigned margin and substituted semicolon for period at end.
+
+Subsec. (b)(8). Pub. L. 115–417, § 2(1)(B), (C), added par. (8).
+
+Subsec. (l)(3). Pub. L. 115–417, § 2(2), added par. (3).
+
+Subsec. (m)(4). Pub. L. 115–417, § 2(3), added par. (4).
+
 2015—Subsec. (l). Pub. L. 114–94, § 74001, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (m)(3). Pub. L. 114–94, § 74002, added par. (3).
@@ -4230,9 +4321,11 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
   (A) that is registered under [section 80b–3 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-3) as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State;
 
-  (B) that is not registered under [section 80b–3 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-3) because that person is excepted from the definition of an investment adviser under [section 80b–2(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2/a/11&num=0&edition=prelim); or
+  (B) that is not registered under [section 80b–3 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-3) because that person is excepted from the definition of an investment adviser under [section 80b–2(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2/a/11&num=0&edition=prelim); or 11 So in original. The word “or” probably should not appear.
 
-  (C) that is not registered under [section 80b–3 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-3) because that person is exempt from registration as provided in subsection (b)(7) of such section, or is a supervised person of such person.
+  (C) that is not registered under [section 80b–3 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-3) because that person is exempt from registration as provided in subsection (b)(7) of such section, or is a supervised person of such person; or
+
+  (D) that is not registered under [section 80b–3 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-3) because that person is exempt from registration as provided in subsection (b)(8) of such section, or is a supervised person of such person.
 
 (2) **Limitation** — Nothing in this subsection shall prohibit the securities commission (or any agency or office performing like functions) of any State from investigating and bringing enforcement actions with respect to fraud or deceit against an investment adviser or person associated with an investment adviser.
 
@@ -4246,6 +4339,8 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 #### Amendments
+2019—Subsec. (b)(1)(D). Pub. L. 115–417 added subpar. (D).
+
 2015—Subsec. (b)(1)(C). Pub. L. 114–94 added subpar. (C).
 
 2010—Subsec. (a)(2), (3). Pub. L. 111–203 added par. (2) and redesignated former par. (2) as (3).
@@ -4434,7 +4529,7 @@ Section not applicable to actions occurring before Nov. 19, 1988, see section 9 
   (B) any other person (except a trust, governmental plan, collective trust fund, or separate account referred to in [section 80a–3(c)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/11&num=0&edition=prelim)), provided that the contract relates to the investment of assets in excess of $1 million,
   if the contract provides for compensation based on the asset value of the company or fund under management averaged over a specified period and increasing and decreasing proportionately with the investment performance of the company or fund over a specified period in relation to the investment record of an appropriate index of securities prices or such other measure of investment performance as the Commission by rule, regulation, or order may specify;
 
-(3) apply with respect to any investment advisory contract between an investment adviser and a business development company, as defined in this subchapter, if (A) the compensation provided for in such contract does not exceed 20 per centum of the realized capital gains upon the funds of the business development company over a specified period or as of definite dates, computed net of all realized capital losses and unrealized capital depreciation, and the condition of [section 80a–60(a)(3)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3/B/iii&num=0&edition=prelim) is satisfied, and (B) the business development company does not have outstanding any option, warrant, or right issued pursuant to [section 80a–60(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3/B&num=0&edition=prelim) and does not have a profit-sharing plan described in [section 80a–56(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–56/n&num=0&edition=prelim);
+(3) apply with respect to any investment advisory contract between an investment adviser and a business development company, as defined in this subchapter, if (A) the compensation provided for in such contract does not exceed 20 per centum of the realized capital gains upon the funds of the business development company over a specified period or as of definite dates, computed net of all realized capital losses and unrealized capital depreciation, and the condition of [section 80a–60(a)(4)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4/B/iii&num=0&edition=prelim) is satisfied, and (B) the business development company does not have outstanding any option, warrant, or right issued pursuant to [section 80a–60(a)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4/B&num=0&edition=prelim) and does not have a profit-sharing plan described in [section 80a–56(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–56/n&num=0&edition=prelim);
 
 (4) apply to an investment advisory contract with a company excepted from the definition of an investment company under [section 80a–3(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/7&num=0&edition=prelim); or
 
@@ -4451,6 +4546,8 @@ Section not applicable to actions occurring before Nov. 19, 1988, see section 9 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–141 substituted “[section 80a–60(a)(4)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4/B/iii&num=0&edition=prelim)” for “[section 80a–60(a)(3)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3/B/iii&num=0&edition=prelim)” and “[section 80a–60(a)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4/B&num=0&edition=prelim)” for “[section 80a–60(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3/B&num=0&edition=prelim)”.
+
 2010—Subsec. (a). Pub. L. 111–203, § 928, in introductory provisions, substituted “registered or required to be registered with the Commission” for “, unless exempt from registration pursuant to [section 80b–3(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–3/b&num=0&edition=prelim),” and struck out “make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to” after “shall” and “to” after “in any way”.
 
 Subsec. (e). Pub. L. 111–203, § 418, inserted at end “With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.”

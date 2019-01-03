@@ -67,13 +67,11 @@ George W. Bush.
 
 (1) is a citizen of the United States;
 
-(2) is able to complete 20 years of active commissioned service before his sixty-second birthday;
+(2) is of good moral character;
 
-(3) is of good moral character;
+(3) is physically qualified for active service; and
 
-(4) is physically qualified for active service; and
-
-(5) has such other special qualifications as the Secretary of the military department concerned may prescribe by regulation.
+(4) has such other special qualifications as the Secretary of the military department concerned may prescribe by regulation.
 
 **(b)**
 
@@ -89,13 +87,9 @@ George W. Bush.
 
   (D) have such other qualifications as the Secretary of the military department concerned prescribes after considering the recommendations, if any, of the Surgeon General of the armed force concerned.
 
-**(c)** Original appointments in the Regular Navy or Regular Marine Corps of officers designated for limited duty shall be made under section 5589 or 5596 of this title.
+**(c)** Original appointments in the Regular Navy or Regular Marine Corps of officers designated for limited duty shall be made under section 8139 or 8146 of this title.
 
-**(d)**
-
-(1) A person receiving an original appointment as a medical or dental officer, as a chaplain, or as an officer designated for limited duty in the Regular Navy or Regular Marine Corps is not subject to clause (2) of subsection (a).
-
-(2) A commissioned officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense) is not subject to clause (2) of subsection (a).
+**(d)** Repealed. Pub. L. 115–232, div. A, title V, § 501(b), Aug. 13, 2018, 132 Stat. 1739.]
 
 **(e)** Repealed. Pub. L. 108–375, div. A, title V, § 501(a)(1), Oct. 28, 2004, 118 Stat. 1872.]
 
@@ -104,6 +98,16 @@ George W. Bush.
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(2) to (5). Pub. L. 115–232, § 501(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “is able to complete 20 years of active commissioned service before his sixty-second birthday;”.
+
+Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 8139 or 8146” for “section 5589 or 5596”.
+
+Subsec. (d). Pub. L. 115–232, § 501(b), struck out subsec. (d) which read as follows:
+
+“(1) A person receiving an original appointment as a medical or dental officer, as a chaplain, or as an officer designated for limited duty in the Regular Navy or Regular Marine Corps is not subject to clause (2) of subsection (a).
+
+“(2) A commissioned officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense) is not subject to clause (2) of subsection (a).”
+
 2011—Subsec. (d)(2). Pub. L. 111–383 struck out “reserve” before “commissioned officer”.
 
 2006—Subsec. (f). Pub. L. 109–163 inserted “, or for a United States national otherwise eligible for appointment as a cadet or midshipman under [section 2107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2107/a&num=0&edition=prelim) or as a cadet under [section 2107a of this title](./chapter-103-senior-reserve-officers-training-corps.md#section-2107a),” after “for permanent residence”.
@@ -122,6 +126,11 @@ Subsec. (f). Pub. L. 108–375, § 501(a)(3)(A), added subsec. (f).
 
 1981—Subsec. (d). Pub. L. 97–22 substituted “medical or dental officer, as a chaplain, or as an officer designated for limited duty in the Regular Navy or Regular Marine Corps” for “medical officer or dental officer or as a chaplain”.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. A, title V, § 501(c), Aug. 13, 2018, 132 Stat. 1739, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 13, 2018], and shall apply with respect to original appointments of regular commissioned officers of the Armed Forces made on or after that date.”
+
+Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
 #### Effective Date of 2004 Amendment
 Amendment by section 501(a)(1) of Pub. L. 108–375 effective on May 1, 2005, and amendment by section 501(a)(2), (3)(A) of Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
 
@@ -138,7 +147,7 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 
 (1) For the purpose of determining the grade and rank within grade of a person receiving an original appointment in a commissioned grade (other than a warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, such person shall be credited at the time of such appointment with any active commissioned service (other than service as a commissioned warrant officer) that he performed in any armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service before such appointment.
 
-(2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior active commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b) or (g).
+(2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior active commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b).
 
 **(b)**
 
@@ -154,15 +163,15 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 
   (C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a specialty required by the armed forces.
 
-  (D) Additional credit, in unusual cases, based on special experience in a particular field.
+  (D) Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.
 
   (E) Additional credit for experience as a physician or dentist, if appointed as a medical or dental officer in the Army or Navy or, in the case of the Air Force, with a view to designation as a medical or dental officer.
 
-(2) Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of a medical or dental officer, the amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of major in the Army, Air Force, or Marine Corps or lieutenant commander in the Navy.
+(2) The amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of colonel in the Army, Air Force, or Marine Corps or captain in the Navy.
 
 (3) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer.
 
-**(c)** Constructive service credited an officer under subsection (b) or (g) shall be used only for determining the officer’s—
+**(c)** Constructive service credited an officer under subsection (b) shall be used only for determining the officer’s—
 
 (1) initial grade as a regular officer;
 
@@ -184,23 +193,21 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 
 (2) in the case of an officer not on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank which the officer would have held had the officer been serving on the active-duty list on the date of the appointment as a regular officer.
 
-**(g)**
-
-(1) Under regulations prescribed by the Secretary of Defense, if the Secretary of a military department determines that the number of commissioned officers with cyberspace-related experience or advanced education serving on active duty in an armed force under the jurisdiction of such Secretary is critically below the number needed, such Secretary may credit any person receiving an original appointment with a period of constructive service for the following:
-
-  (A) Special experience or training in a particular cyberspace-related field if such experience or training is directly related to the operational needs of the armed force concerned.
-
-  (B) Any period of advanced education in a cyberspace-related field beyond the baccalaureate degree level if such advanced education is directly related to the operational needs of the armed force concerned.
-
-(2) Constructive service credited an officer under this subsection shall not exceed one year for each year of special experience, training, or advanced education, and not more than three years total constructive service may be credited.
-
-(3) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer.
-
-(4) The authority to award constructive service credit under this subsection expires on December 31, 2018.
-
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–232, § 502(a)(2)(A), struck out “or (g)” after “subsection (b)”.
+
+Subsec. (b)(1)(D). Pub. L. 115–232, § 502(a)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “Additional credit, in unusual cases, based on special experience in a particular field.”
+
+Subsec. (b)(2). Pub. L. 115–232, § 502(a)(1)(B), substituted “The amount” for “Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of a medical or dental officer, the amount” and “in the grade of colonel in the Army, Air Force, or Marine Corps or captain in the Navy” for “in the grade of major in the Army, Air Force, or Marine Corps or lieutenant commander in the Navy”.
+
+Subsec. (c). Pub. L. 115–232, § 502(a)(2)(A), struck out “or (g)” after “subsection (b)” in introductory provisions.
+
+Subsec. (g). Pub. L. 115–232, § 502(a)(2)(B), struck out subsec. (g) which related to constructive service credited to commissioned officers with cyberspace-related experience or advanced education serving on active duty.
+
+2017—Subsec. (g)(4). Pub. L. 115–91 substituted “2023” for “2018”.
+
 2013—Subsec. (a)(2). Pub. L. 113–66, § 502(1), inserted “or (g)” after “subsection (b)”.
 
 Subsec. (c). Pub. L. 113–66, § 502(1), inserted “or (g)” after “subsection (b)” in introductory provisions.

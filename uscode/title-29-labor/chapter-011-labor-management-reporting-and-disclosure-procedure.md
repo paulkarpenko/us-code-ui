@@ -421,11 +421,21 @@ the court shall declare the election, if any, to be void and direct the conduct 
 
 **(d) Review of orders; stay of order directing election** An order directing an election, dismissing a complaint, or designating elected officers of a labor organization shall be appealable in the same manner as the final judgment in a civil action, but an order directing an election shall not be stayed pending appeal.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable ninety days after Sept. 14, 1959, in the case of certain labor organizations, see section 404 of Pub. L. 86–257, set out as a note under [section 481 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-481).
+
 
 <a id="section-483"></a>
 ## § 483. Application of other laws; existing rights and remedies; exclusiveness of remedy for challenging election
 
 No labor organization shall be required by law to conduct elections of officers with greater frequency or in a different form or manner than is required by its own constitution or bylaws, except as otherwise provided by this subchapter. Existing rights and remedies to enforce the constitution and bylaws of a labor organization with respect to elections prior to the conduct thereof shall not be affected by the provisions of this subchapter. The remedy provided by this subchapter for challenging an election already conducted shall be exclusive.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable ninety days after Sept. 14, 1959, in the case of certain labor organizations, see section 404 of Pub. L. 86–257, set out as a note under [section 481 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-481).
 
 
 <a id="section-501"></a>

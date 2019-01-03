@@ -148,6 +148,9 @@ Pub. L. 112–141, div. E, title II, § 52011(b), July 6, 2012, 126 Stat. 895, p
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(4)
+Pub. L. 115–435, title III, § 302(c)(3)(A), title IV, § 403, Jan. 14, 2019, 132 Stat. 5553, 5557, provided that, effective 180 days after Jan. 14, 2019, subsection (d)(4) of this section is amended by striking “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).” and inserting “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” See 2019 Amendment note below.
+
 #### References in Text
 Executive Order 12906, referred to in subsec. (b)(3)(B)(vii), is Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, which is set out as a note under [section 1457 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1457&num=0&edition=prelim), Public Lands.
 
@@ -156,17 +159,25 @@ The Government Performance and Results Act of 1993, referred to in subsec. (b)(3
 The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (d)(4), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, amended [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
 
 #### Amendments
+2019—Subsec. (d)(4). Pub. L. 115–435 substituted “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” for “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).”
+
 2015—Subsec. (a). Pub. L. 114–94, § 6011(d)(2), added subsec. (a) and struck out former subsec. (a) which related to establishment of the Bureau of Transportation Statistics.
 
 Subsec. (b)(3)(B)(vi)(III). Pub. L. 114–94, § 1446(b), substituted “6309” for “6310”.
 
 Subsec. (d). Pub. L. 114–94, § 6017, added subsec. (d).
 
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Transitional and Savings Provisions
+For transitional and savings provisions related to the amendment of this section and other provisions of law by title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under [section 3561 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3561&num=0&edition=prelim), Public Printing and Documents.
 
 #### Office of Airline Information
 Pub. L. 106–181, title I, § 103(b), Apr. 5, 2000, 114 Stat. 67, provided that: “There is authorized to be appropriated from the Airport and Airway Trust Fund to the Secretary [of Transportation] $4,000,000 for fiscal years beginning after September 30, 2000, to fund the activities of the Office of Airline Information in the Bureau of Transportation Statistics of the Department of Transportation.”
@@ -298,6 +309,9 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Termination of Advisory Council on Transportation Statistics
+Advisory Council on Transportation Statistics terminated Oct. 5, 2018, see section 418(g) of Pub. L. 115–254, set out as a note preceding [section 42301 of this title](./chapter-423-passenger-air-service-improvements.md#section-42301).
 
 #### Advisory Council on Transportation Statistics
 Pub. L. 102–240, title VI, § 6007, Dec. 18, 1991, 105 Stat. 2174, required the Director to establish an Advisory Council on Transportation Statistics composed of not more than 6 members to provide advice on the quality of transportation statistics and analysis.
@@ -573,10 +587,22 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(2)
+Pub. L. 115–435, title III, § 302(c)(3)(B), title IV, § 403, Jan. 14, 2019, 132 Stat. 5553, 5557, provided that, effective 180 days after Jan. 14, 2019, subsection (d)(2) this section is amended by striking “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).” and inserting “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” See 2019 Amendment note below.
+
 #### References in Text
 The date of the enactment of the Transportation for Tomorrow Act of 2015, referred to in subsec. (c)(2), (3), is the date of enactment of title VI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (d)(2), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, amended [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
 
+#### Amendments
+2019—Subsec. (d)(2). Pub. L. 115–435 substituted “[section 3572 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3572&num=0&edition=prelim).” for “the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).”
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Transitional and Savings Provisions
+For transitional and savings provisions related to the amendment of this section and other provisions of law by title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under [section 3561 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3561&num=0&edition=prelim), Public Printing and Documents.

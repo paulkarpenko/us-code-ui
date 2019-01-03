@@ -203,7 +203,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 Pub. L. 96–342, title X, § 1004(b), Sept. 8, 1980, 94 Stat. 1120, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act [Sept 8, 1980].”
 
 #### Effective Date of 1972 Amendment
-Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under [section 290 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section290&num=0&edition=prelim), Coast Guard.
+Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under [section 2151 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2151&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–623 intended to restate without substantive change of law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under [section 5334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5334&num=0&edition=prelim), Government Organization and Employees.
@@ -915,7 +915,7 @@ Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L
 
 **(b)** The leader of the United States Navy Band is entitled to the basic pay of a lieutenant in the Navy.
 
-**(c)** A member of the Marine Corps who is appointed as director or assistant director of the United States Marine Band under [section 6222 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6222&num=0&edition=prelim) is entitled, while serving thereunder, only to the basic pay of an officer in the grade in which he is serving. However, his basic pay may not be less that to which he was entitled at the time of his appointment under that section.
+**(c)** A member of the Marine Corps who is appointed as director or assistant director of the United States Marine Band under [section 8287 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8287&num=0&edition=prelim) is entitled, while serving thereunder, only to the basic pay of an officer in the grade in which he is serving. However, his basic pay may not be less that to which he was entitled at the time of his appointment under that section.
 
 **(d)** The leader of the Naval Academy Band is entitled to the basic pay of the grade the Secretary of the Navy prescribes. The second leader is entitled to the basic pay of a warrant officer, W–1.
 
@@ -941,6 +941,8 @@ In subsection (c), the last 22 words of [section 6221(b) of title 10](https://us
 In subsection (e), the 2d sentence of [section 6969(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6969/b&num=0&edition=prelim) is omitted as covered by section 205 of this revised title.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “[section 8287 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8287&num=0&edition=prelim)” for “[section 6222 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6222&num=0&edition=prelim)”.
+
 1978—Subsec. (b). Pub. L. 95–551 redesignated former subsec. (c) as (b). Former subsec. (b), which provided that the director of music at the United States Military Academy be entitled to the basic pay of a commissioned officer of the rank prescribed for the director by the Secretary of the Army, was struck out.
 
 Subsecs. (c) to (e). Pub. L. 95–551 redesignated former subsecs. (d) to (f) as (c) to (e), respectively.
@@ -948,6 +950,9 @@ Subsecs. (c) to (e). Pub. L. 95–551 redesignated former subsecs. (d) to (f) as
 Subsec. (f). Pub. L. 95–551 redesignated former subsec. (f) as (e).
 
 1965—Subsec. (f). Pub. L. 89–189 added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -959,6 +964,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461, provided that an officer furloughed under [section 6406 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6406&num=0&edition=prelim), Armed Forces, was entitled to pay at the rate of one-half of the basic pay to which he was entitled at the time of being furloughed.
+
+#### Pension Continuation Provision
+Pub. L. 91–482, § 3, Oct. 21, 1970, 84 Stat. 1082, provided that: “Notwithstanding the first section of this Act [repealing this section and sections 4539, 4623, 5981, 6159, and 6406 of Title 10, Armed Forces], a person who is entitled to a pension under [former] [section 6159 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6159&num=0&edition=prelim), United States Code, on the day before the date of enactment of this Act [Oct. 21, 1970] shall continue to be entitled to that pension on and after that date of enactment.”
 
 
 <a id="section-209"></a>
@@ -1134,30 +1142,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) Transfer of the member to inactive status, or to a retired list pursuant to any provision of title 10.
 
-**(d) Agency Contributions for Retention in Critical Specialties and First-Time Enlistees.—**
-
-(1) The Secretary concerned may enter into an agreement with a member to make contributions to the Thrift Savings Fund for the benefit of the member if the member—
-
-  (A)
-
-    (i) is in a specialty designated by the Secretary as critical to meet requirements (whether such specialty is designated as critical to meet wartime or peacetime requirements); and
-
-    (ii) commits in such agreement to continue to serve on active duty in that specialty for a period of 6 years; or
-
-  (B) is enlisting in the armed forces for the first time and the period of the member’s enlistment is not less than two years.
-
-(2) Under any agreement entered into with a member under paragraph (1)(A), the Secretary shall make contributions to the Fund for the benefit of the member for each pay period of the 6-year period of the agreement for which the member makes a contribution to the Fund under [section 8440e of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e&num=0&edition=prelim) (other than under subsection (d)(2) thereof).
-
-(3) In the case of a member described by paragraph (1)(B), the Secretary shall make contributions to the Fund for the benefit of the member for each pay period of the enlistment of the member described in that paragraph for which the member makes a contribution to the Fund under [section 8440e of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e&num=0&edition=prelim) (other than under subsection (d)(2) thereof).
-
-(4) Paragraph (2) of [section 8432(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432/c&num=0&edition=prelim) applies to the Secretary’s obligation to make contributions under this subsection, except that the reference in such paragraph (2) to contributions under paragraph (1) of such section 8432(c) does not apply.
-
-**(e) Repayment of Amounts Borrowed From Member Account.—** If a loan is issued to a member under [section 8433(g) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8433/g&num=0&edition=prelim) from funds in the member’s account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under [section 1014(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1014/c&num=0&edition=prelim).
+**(d) Repayment of Amounts Borrowed From Member Account.—** If a loan is issued to a member under [section 8433(g) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8433/g&num=0&edition=prelim) from funds in the member’s account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under [section 1014(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1014/c&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 114–92, div. A, title VI, §§ 632(e)(1), 635, Nov. 25, 2015, 129 Stat. 847, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by striking subsection (d) and redesignating subsection (e) as subsection (d). See 2015 Amendment note below.
 
 #### Amendments
 2015—Subsecs. (d), (e). Pub. L. 114–92 redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to agency contributions for retention in critical specialties and first-time enlistees.
@@ -1179,7 +1166,7 @@ Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementatio
 Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as a note under [section 8440e of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e&num=0&edition=prelim), Government Organization and Employees.
 
 #### Pilot Program on Contributions to Thrift Savings Plan for Initial Enlistees in the Army
-Pub. L. 109–163, div. A, title VI, § 606, Jan. 6, 2006, 119 Stat. 3287, as amended by Pub. L. 109–364, div. A, title VI, § 608, title X, § 1071(e)(3), Oct. 17, 2006, 120 Stat. 2247, 2401, provided that: “(a) Pilot Program Required.—During the period beginning on January 6, 2006, and ending on December 31, 2008, the Secretary of the Army shall use the authority provided by [section 211(d)(1)(B) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211/d/1/B&num=0&edition=prelim), United States Code, as amended by section 605, to carry out within the Army a pilot program in order to assess the extent to which contributions by the Secretary to the Thrift Savings Fund on behalf of members of the Army described in subsection (b) would—“(1) assist the Army in recruiting efforts; and “(2) assist such members in establishing habits of financial responsibility during their initial enlistment in the Armed Forces. “(b) Covered Members.—To be eligible to participate in the pilot program under subsection (a), a member of the Army must be serving under an initial enlistment for a period of not less than two years. “(c) Contributions to Thrift Savings Fund.—“(1) In general.—The Secretary of the Army may make contributions to the Thrift Savings Fund on behalf of any participant in the pilot program under subsection (a) for any pay period during the period of the pilot program. “(2) Limitations.—The amount of any contributions made with respect to a member under paragraph (1) shall be subject to the provisions of [section 8432(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432/c&num=0&edition=prelim), United States Code. “(d) Report.—“(1) In general.—Not later than February 1, 2008, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the pilot program under subsection (a). “(2) Elements.—The report shall include the following:“(A) A description of the pilot program, including the number of members of the Army who participated in the pilot program and the contributions made by the Army to the Thrift Savings Fund on behalf of such members during the period of the pilot program. “(B) An assessment, based on the pilot program and taking into account the views of officers and senior enlisted personnel of the Army, and of field recruiters, of the extent to which contributions by the military departments to the Thrift Savings Fund on behalf of members of the Armed Forces similar to the participants in the pilot program—“(i) would enhance the recruiting efforts of the Armed Forces; and “(ii) would assist such members in establishing habits of financial responsibility during their initial enlistment in the Armed Forces.”
+Pub. L. 109–163, div. A, title VI, § 606, Jan. 6, 2006, 119 Stat. 3287, as amended by Pub. L. 109–364, div. A, title VI, § 608, title X, § 1071(e)(3), Oct. 17, 2006, 120 Stat. 2247, 2401, provided for a pilot program on contributions to the Thrift Savings Plan for initial enlistees in the Army to be carried out between Jan. 6, 2006, and Dec. 31, 2008.
 
 
 <a id="section-212"></a>

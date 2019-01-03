@@ -352,7 +352,7 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
 **(d) Relationship to project-specific authority** This section shall not supersede any existing project-specific funding authority.
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $450,000,000,11 See Funding note below. to remain available until expended.
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $480,000,000 to remain available until expended.
 
 ### Statutory Notes
 
@@ -360,6 +360,8 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–244 substituted “$480,000,000” for “$450,000,000”.
+
 2016—Subsec. (e). Pub. L. 114–322 substituted “$450,000,000” for “$350,000,000”.
 
 2015—Subsec. (e). Pub. L. 114–113 substituted “$350,000,000” for “$300,000,000”.

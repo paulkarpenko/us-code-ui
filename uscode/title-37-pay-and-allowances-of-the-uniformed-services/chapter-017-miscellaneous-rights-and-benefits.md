@@ -166,46 +166,71 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (1) In determining the amount of the pay and allowances of a grade formerly held by an officer, the following special and incentive pays may be considered only so long as the officer continues to perform the duty that creates the entitlement to, or eligibility for, that pay and would otherwise be eligible to receive that pay in the former grade:
 
-  (A) Incentive pay for hazardous duty under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
+  (A) Incentive pay for hazardous duty under section 301 or 351 of this title.
 
-  (B) Submarine duty incentive pay under [section 301c of this title](./chapter-005-special-and-incentive-pays.md#section-301c).
+  (B) Submarine duty incentive pay under section 301c or 352 of this title.
 
-  (C) Special pay for diving duty under [section 304 of this title](./chapter-005-special-and-incentive-pays.md#section-304).
+  (C) Special pay for diving duty under section 304 or 353(a) of this title.
 
-  (D) Hardship duty pay under [section 305 of this title](./chapter-005-special-and-incentive-pays.md#section-305).
+  (D) Hardship duty pay under section 305 or 352 of this title.
 
-  (E) Career sea pay under [section 305a of this title](./chapter-005-special-and-incentive-pays.md#section-305a).
+  (E) Career sea pay under section 305a or 352 of this title.
 
-  (F) Special pay for service as a member of a Weapons of Mass Destruction Civil Support Team under [section 305b of this title](./chapter-005-special-and-incentive-pays.md#section-305b).
+  (F) Special pay for service as a member of a Weapons of Mass Destruction Civil Support Team under section 305b or 352 of this title.
 
-  (G) Assignment incentive pay under [section 307a of this title](./chapter-005-special-and-incentive-pays.md#section-307a).
+  (G) Assignment incentive pay under section 307a or 352 of this title.
 
   (H) Special pay for duty subject to hostile fire or imminent danger under section 310 or 351 of this title.
 
-  (I) Special pay or bonus for an extension of duty at a designated overseas location under [section 314 of this title](./chapter-005-special-and-incentive-pays.md#section-314).
+  (I) Special pay or bonus for an extension of duty at a designated overseas location under section 314 or 352 of this title.
 
-  (J) Foreign language proficiency pay under [section 316 of this title](./chapter-005-special-and-incentive-pays.md#section-316).
+  (J) Foreign language proficiency pay under [section 353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section353/b&num=0&edition=prelim).
 
-  (K) Critical skill retention bonus under section 323 11 See References in Text note below. of this title.
+  (K) Critical skill retention bonus under section section 11 So in original. 355 of this title.
 
 (2) The following special and incentive pays are dependent on a member being in an enlisted status and may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer:
 
-  (A) Special duty assignment pay under [section 307 of this title](./chapter-005-special-and-incentive-pays.md#section-307).
+  (A) Special duty assignment pay under section 307 or 352 of this title.
 
-  (B) Reenlistment bonus under [section 308 of this title](./chapter-005-special-and-incentive-pays.md#section-308).
+  (B) Reenlistment bonus under [section 331 of this title](./chapter-005-special-and-incentive-pays.md#section-331).
 
-  (C) Enlistment bonus under [section 309 of this title](./chapter-005-special-and-incentive-pays.md#section-309).
+  (C) Enlistment bonus under [section 331 of this title](./chapter-005-special-and-incentive-pays.md#section-331).
 
-  (D) Career enlisted flyer incentive pay under [section 320 of this title](./chapter-005-special-and-incentive-pays.md#section-320).
+  (D) Career enlisted flyer incentive pay under section 320 or 353 of this title.
 
 **(e)** The clothing allowance under [section 418 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-418) may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer if the officer is entitled to a uniform allowance under [section 415 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-415).
 
 ### Statutory Notes
 
-#### References in Text
-[Section 323 of this title](./chapter-005-special-and-incentive-pays.md#section-323), referred to in subsec. (d)(1)(K), was renumbered [section 355 of this title](./chapter-005-special-and-incentive-pays.md#section-355) by Pub. L. 110–181, div. A, title VI, § 661(c)(1), Jan. 28, 2008, 122 Stat. 178.
-
 #### Amendments
+2017—Subsec. (d)(1)(A). Pub. L. 115–91, § 618(h)(1)(A), inserted “or 351” after “section 301”.
+
+Subsec. (d)(1)(B). Pub. L. 115–91, § 618(h)(1)(B), inserted “or 352” after “section 301c”.
+
+Subsec. (d)(1)(C). Pub. L. 115–91, § 618(h)(1)(C), inserted “or 353(a)” after “section 304”.
+
+Subsec. (d)(1)(D). Pub. L. 115–91, § 618(h)(1)(D), inserted “or 352” after “section 305”.
+
+Subsec. (d)(1)(E). Pub. L. 115–91, § 618(h)(1)(E), inserted “or 352” after “section 305a”.
+
+Subsec. (d)(1)(F). Pub. L. 115–91, § 618(h)(1)(F), inserted “or 352” after “section 305b”.
+
+Subsec. (d)(1)(G). Pub. L. 115–91, § 618(h)(1)(G), inserted “or 352” after “section 307a”.
+
+Subsec. (d)(1)(I). Pub. L. 115–91, § 618(h)(1)(H), inserted “or 352” after “section 314”.
+
+Subsec. (d)(1)(J). Pub. L. 115–91, § 618(h)(1)(I), substituted “353(b)” for “316”.
+
+Subsec. (d)(1)(K). Pub. L. 115–91, § 618(h)(1)(J), substituted “section 355” for “323”.
+
+Subsec. (d)(2)(A). Pub. L. 115–91, § 618(h)(2)(A), inserted “or 352” after “section 307”.
+
+Subsec. (d)(2)(B). Pub. L. 115–91, § 618(h)(2)(B), substituted “331” for “308”.
+
+Subsec. (d)(2)(C). Pub. L. 115–91, § 618(h)(2)(C), substituted “331” for “309”.
+
+Subsec. (d)(2)(D). Pub. L. 115–91, § 618(h)(2)(D), inserted “or 353” after “section 320”.
+
 2016—Subsec. (d)(1)(H). Pub. L. 114–328 inserted “or 351” after “section 310”.
 
 2006—Subsecs. (a), (b). Pub. L. 109–163, § 686(b)(1), substituted “the officer” for “he” wherever appearing and “the appointment” for “his appointment” wherever appearing.
@@ -328,11 +353,15 @@ Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, p
 
 **(f) Regulations.—** This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 
-**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2017, unless the entitlement of the member to payments under this section commenced on or before that date.
+**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2019, unless the entitlement of the member to payments under this section commenced on or before that date.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (b)(2)(B). Pub. L. 114–328, § 618(h)(5), inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.
 
 Subsec. (g). Pub. L. 114–328, § 611(8), substituted “December 31, 2017” for “December 31, 2016”.

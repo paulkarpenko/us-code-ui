@@ -488,13 +488,22 @@ The medal of honor awarded posthumously to a deceased member of the armed forces
 ## § 1134a. Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll
 **(a) Establishment.—** There shall be in the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Department in which the Coast Guard is operating a roll designated as the “Army, Navy, Air Force, and Coast Guard Medal of Honor Roll”.
 
-**(b) Enrollment.—** The Secretary concerned shall enter and record on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll the name of each person who has served on active duty in the armed forces and who has been awarded a medal of honor pursuant to section 3741, 6241, or 8741 of this title or [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim).
+**(b) Enrollment.—** The Secretary concerned shall enter and record on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll the name of each person who has served on active duty in the armed forces and who has been awarded a medal of honor pursuant to section 7271, 8291, or 9271 of this title or section 491 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
 
 **(c) Issuance of Enrollment Certificate.—** Each living person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be issued a certificate of enrollment on the roll.
 
 **(d) Entitlement to Special Pension; Notice to Secretary of Veterans Affairs.—** The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection (c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by [section 1562 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1562&num=0&edition=prelim) to the person named in the certificate.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “section 7271, 8291, or 9271” for “section 3741, 6241, or 8741”.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) redesignated [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, provided that: “The amendments made by this section [enacting this section, amending [section 1562 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1562&num=0&edition=prelim), Veterans’ Benefits, and repealing sections 1560 and 1561 of Title 38] shall apply with respect to Medals of Honor awarded on or after the date of the enactment of this Act [Dec. 26, 2013].”
@@ -504,7 +513,7 @@ Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, prov
 ## § 1135. Replacement of military decorations
 **(a) Replacement.—** In addition to other authorities available to the Secretary concerned to replace a military decoration, the Secretary concerned shall replace, on a one-time basis and without charge, a military decoration upon the request of the recipient of the military decoration or the immediate next of kin of a deceased recipient.
 
-**(b) Prompt Replacement Required.—** When a request for the replacement of a military decoration is received under this section or section 3747, 3751, 6253, 8747, or 8751 of this title, the Secretary concerned shall ensure that—
+**(b) Prompt Replacement Required.—** When a request for the replacement of a military decoration is received under this section or section 7277, 7281, 8303, 9277, or 9281 of this title, the Secretary concerned shall ensure that—
 
 (1) all actions to be taken with respect to the request, including verification of the service record of the recipient of the military decoration, are completed within one year; and
 
@@ -515,4 +524,9 @@ Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, prov
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “section 7277, 7281, 8303, 9277, or 9281” for “section 3747, 3751, 6253, 8747, or 8751” in introductory provisions.
+
 2013—Subsecs. (b), (c). Pub. L. 113–66 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

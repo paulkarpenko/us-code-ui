@@ -73,9 +73,21 @@ A prior section 2546 was renumbered [section 2556 of this title](./chapter-152-i
 
 (7) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
 
-**(b) Adherence to Requirements in Major Defense Acquisition Programs.—** The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under [section 2448a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2448a/a&num=0&edition=prelim).
+**(b) Adherence to Requirements in Major Defense Acquisition Programs.—**
 
-**(c) Rule of Construction.—** Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or [section 8014(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8014/c/1/A&num=0&edition=prelim), except as explicitly provided in this section.
+(1) The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under [section 2448a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2448a/a&num=0&edition=prelim).
+
+(2) Consistent with the performance of duties under subsection (a), the Chief of the armed force concerned, or in the case of a joint program the chiefs of the armed forces concerned, with respect to major defense acquisition programs, shall—
+
+  (A) concur with the need for a material solution as identified in the Material Development Decision Review prior to entry into the Material Solution Analysis Phase under Department of Defense Instruction 5000.02;
+
+  (B) concur with the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program before Milestone A approval is granted under [section 2366a of this title](./chapter-139-research-and-development.md#section-2366a);
+
+  (C) concur that appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost before Milestone B approval is granted under [section 2366b of this title](./chapter-139-research-and-development.md#section-2366b); and
+
+  (D) concur that the requirements in the program capability document are necessary and realistic in relation to program cost and fielding targets as required by paragraph (1) before Milestone C approval is granted.
+
+**(c) Rule of Construction.—** Nothing in this section shall be construed to affect the assignment of functions under section 7014(c)(1)(A), section 8014(c)(1)(A), or [section 9014(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9014/c/1/A&num=0&edition=prelim), except as explicitly provided in this section.
 
 **(d) Definitions.—** In this section:
 
@@ -97,6 +109,10 @@ A prior section 2546 was renumbered [section 2556 of this title](./chapter-152-i
 A prior section 2547 was renumbered [section 2557 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2557).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “section 7014(c)(1)(A), section 8014(c)(1)(A), or section 9014(c)(1)(A)” for “section 3014(c)(1)(A), section 5014(c)(1)(A), or section 8014(c)(1)(A)”.
+
+2017—Subsec. (b). Pub. L. 115–91 designated existing provisions as par. (1) and added par. (2).
+
 2016—Subsecs. (b), (c). Pub. L. 114–328, § 807(c)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 114–328, § 807(c)(1), redesignated subsec. (c) as (d).
@@ -112,6 +128,9 @@ Subsec. (a)(7). Pub. L. 114–92, § 802(b)(1), redesignated par. (6) as (7).
 2013—Subsec. (a)(1). Pub. L. 112–239, § 951(c)(1), substituted “of requirements for equipping the armed force concerned” for “of requirements relating to the defense acquisition system”.
 
 Subsec. (a)(3) to (6). Pub. L. 112–239, § 951(c)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-2548"></a>
@@ -188,23 +207,19 @@ Subsec. (a)(3) to (6). Pub. L. 112–239, § 951(c)(2), (3), added pars. (3) and
 
 **(d) Performance Goals Under Government Performance and Results Act of 1993.—** The annual performance plan prepared by the Department of Defense pursuant to [section 1115 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115&num=0&edition=prelim) shall include appropriate performance goals for elements of the defense acquisition system.
 
-**(e) Reporting Requirements.—** Beginning with fiscal year 2012—
-
-(1) the annual report prepared by the Secretary of Defense pursuant to [section 1116 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1116&num=0&edition=prelim) shall address the Department’s success in achieving performance goals established pursuant to such section for elements of the defense acquisition system; and
-
-(2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) 11 See References in Text note below. of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
+**(e) Reporting Requirement.—** The annual report prepared by the Secretary of Defense pursuant to [section 1116 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1116&num=0&edition=prelim) shall address the Department’s success in achieving performance goals established pursuant to such section for elements of the defense acquisition system.
 
 ### Statutory Notes
 
 #### References in Text
 The Government Performance and Results Act of 1993, referred to in subsec. (d), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim) and Tables.
 
-[Section 2438(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2438/f&num=0&edition=prelim), referred to in subsec. (e)(2), was repealed by Pub. L. 114–92, div. A, title X, § 1077(b), Nov. 25, 2015, 129 Stat. 998.
-
 #### Prior Provisions
 A prior section 2548 was renumbered [section 2558 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2558).
 
 #### Amendments
+2017—Subsec. (e). Pub. L. 115–91 substituted “Requirement” for “Requirements” in heading, struck out introductory provisions “Beginning with fiscal year 2012—”, substituted “The annual report prepared by the Secretary” for “(1) the annual report prepared by the Secretary”, and struck out par. (2) which read as follows: “the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to [section 2438(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2438/f&num=0&edition=prelim) shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.”
+
 2013—Subsec. (a). Pub. L. 112–239, § 1076(f)(30)(A)(i), substituted “The Secretary” for “Not later than 180 days after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, the Secretary” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 112–239, § 1076(f)(30)(A)(ii), inserted period at end.

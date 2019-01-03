@@ -92,7 +92,7 @@ shall be fined under this title or imprisoned for any term of years or life, or 
 
 (6) the term “high-level radioactive waste” has the meaning given to that term in section 2(12) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10101/12&num=0&edition=prelim));
 
-(7) the term “mass transportation” has the meaning given to that term in section 5302(a)(7) 22 See References in Text note below. of title 49, except that the term includes intercity bus transportation 33 So in original. Probably should be followed by a comma. school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in [section 2101(22) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/22&num=0&edition=prelim), United States Code;
+(7) the term “mass transportation” has the meaning given to that term in section 5302(a)(7) 22 See References in Text note below. of title 49, except that the term includes intercity bus transportation 33 So in original. Probably should be followed by a comma. school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in [section 2101(31) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/31&num=0&edition=prelim), United States Code;
 
 (8) the term “on-track equipment” means a carriage or other contrivance that runs on rails or electromagnetic guideways;
 
@@ -121,6 +121,8 @@ shall be fined under this title or imprisoned for any term of years or life, or 
 A prior section 1992, acts June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, § 60003(a)(8), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, § 402(b), Dec. 29, 1995, 109 Stat. 955; Pub. L. 107–56, title VIII, § 811(e), Oct. 26, 2001, 115 Stat. 381; Pub. L. 107–273, div. B, title IV, § 4002(a)(6), Nov. 2, 2002, 116 Stat. 1807, related to penalties for wrecking a train used by a railroad in interstate or foreign commerce, prior to repeal by Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205.
 
 #### Amendments
+2018—Subsec. (d)(7). Pub. L. 115–232 substituted “section 2101(31)” for “section 2101(22)”.
+
 2007—Subsec. (d)(7). Pub. L. 110–53 inserted “intercity bus transportation” after “includes”.
 
 

@@ -20,7 +20,7 @@ source: >-
 
     (ii) Chapters 61 through 80, to the extent such chapters relate to the enforcement and administration of the provisions referred to in clause (i).
 
-  (B) *Use of existing rulings and interpretations* — Nothing in this Act 11 So in original. alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of the Homeland Security Act of 2002, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
+  (B) *Use of existing rulings and interpretations* — Nothing in the Homeland Security Act of 2002 alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of such Act, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
 
 **(b) Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1078]**
 
@@ -29,9 +29,11 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The effective date of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
+The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (a)(2)(B). Pub. L. 115–141 substituted “the Homeland Security Act of 2002” for “this Act” and “effective date of such Act” for “effective date of the Homeland Security Act of 2002”.
+
 2002—Subsec. (a). Pub. L. 107–296 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 1982—Subsec. (b). Pub. L. 97–258, § 5(b), struck out subsec. (b) which related to Office of General Counsel of Department of the Treasury. See [section 301 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section301&num=0&edition=prelim), Money and Finance.
@@ -73,6 +75,8 @@ Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in par
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–141, div. E, title I, Mar. 23, 2018, 132 Stat. 541.
+
 Pub. L. 115–31, div. E, title I, May 5, 2017, 131 Stat. 332.
 
 Pub. L. 114–113, div. E, title I, Dec. 18, 2015, 129 Stat. 2428.
@@ -84,6 +88,8 @@ Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 889, provided in part: “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. E, title I, Mar. 23, 2018, 132 Stat. 541.
 
 Pub. L. 115–31, div. E, title I, May 5, 2017, 131 Stat. 332.
 
@@ -226,6 +232,41 @@ Sec. 4. Administration. To the extent permitted by law and subject to the availa
 Sec. 5. Judicial Review. This order is intended only to improve the internal management of the Internal Revenue Service and is not intended, and shall not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 William J. Clinton.
+
+#### Ex. Ord. No. 13789. Identifying and Reducing Tax Regulatory Burdens
+Ex. Ord. No. 13789, Apr. 21, 2017, 82 F.R. 19317, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. The Federal tax system should be simple, fair, efficient, and pro-growth. The purposes of tax regulations should be to bring clarity to the already complex Internal Revenue Code (title 26, United States Code) and to provide useful guidance to taxpayers. Contrary to these purposes, numerous tax regulations issued over the last several years have effectively increased tax burdens, impeded economic growth, and saddled American businesses with onerous fines, complicated forms, and frustration. Immediate action is necessary to reduce the burden existing tax regulations impose on American taxpayers and thereby to provide tax relief and useful, simplified tax guidance.
+
+Sec. 2. Addressing Tax Regulatory Burdens. (a) In furtherance of the policy described in section 1 of this order, the Secretary of the Treasury (Secretary) shall immediately review all significant tax regulations issued by the Department of the Treasury on or after January 1, 2016, and, in consultation with the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, identify in an interim report to the President all such regulations that:
+
+(i) impose an undue financial burden on United States taxpayers;
+
+(ii) add undue complexity to the Federal tax laws; or
+
+(iii) exceed the statutory authority of the Internal Revenue Service.
+
+This interim report shall be completed no later than 60 days from the date of this order. In conducting the review required by this subsection, earlier determinations of whether a regulation is significant pursuant to Executive Order 12866 of September 30, 1993, as amended (Regulatory Planning and Review), shall not be controlling.
+
+(b) No later than 150 days from the date of this order, the Secretary shall prepare and submit a report to the President that recommends specific actions to mitigate the burden imposed by regulations identified in the interim report required under subsection (a) of this section. The Secretary shall also publish this report in the Federal Register upon submitting it to the President. The Secretary shall take appropriate steps to cause the effective date of such regulations to be delayed or suspended, to the extent permitted by law, and to modify or rescind such regulations as appropriate and consistent with law, including, if necessary, through notice and comment rulemaking. The Secretary shall submit for publication in the Federal Register a summary of the actions taken in response to the report no later than 10 days following the finalization of such actions. Should all such actions not be finalized within 180 days following the submission of the report to the President, the Secretary shall submit for publication in the Federal Register an initial report summarizing the actions taken to that point.
+
+(c) To ensure that future tax regulations adhere to the policy described in section 1 of this order, the Secretary and the Director of the Office of Management and Budget shall review and, if appropriate, reconsider the scope and implementation of the existing exemption for certain tax regulations from the review process set forth in Executive Order 12866 and any successor order.
+
+(d) The Secretary shall cause section 32.1.5.4.7.5.3 of the Internal Revenue Manual to be revised, if necessary to fulfill the directives in subsection (c) of this section.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-7802"></a>
@@ -902,6 +943,9 @@ Pub. L. 100–647, title VI, § 6232(b), Nov. 10, 1988, 102 Stat. 3735, provided
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under [section 1271 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1271).
 
+#### Form 1040SR for Seniors
+Pub. L. 115–123, div. D, title II, § 41106, Feb. 9, 2018, 132 Stat. 157, provided that: “(a) In General.—The Secretary of the Treasury (or the Secretary’s delegate) shall make available a form, to be known as ‘Form 1040SR’, for use by individuals to file the return of tax imposed by chapter 1 of the Internal Revenue Code of 1986. Such form shall be as similar as practicable to Form 1040EZ, except that—“(1) the form shall be available only to individuals who have attained age 65 as of the close of the taxable year, “(2) the form may be used even if income for the taxable year includes—“(A) social security benefits (as defined in section 86(d) of the Internal Revenue Code of 1986), “(B) distributions from qualified retirement plans (as defined in section 4974(c) of such Code), annuities or other such deferred payment arrangements, “(C) interest and dividends, or “(D) capital gains and losses taken into account in determining adjusted net capital gain (as defined in section 1(h)(3) of such Code), and “(3) the form shall be available without regard to the amount of any item of taxable income or the total amount of taxable income for the taxable year. “(b) Effective Date.—The form required by subsection (a) shall be made available for taxable years beginning after the date of the enactment of this Act [Feb. 9, 2018].”
+
 #### Internet Availability
 Pub. L. 105–206, title II, § 2003(d), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary’s delegate shall establish procedures for all tax forms, instructions, and publications created in the most recent 5-year period to be made available electronically on the Internet in a searchable database at approximately the same time such records are available to the public in paper form. In addition, in the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary’s delegate shall, to the extent practicable, establish procedures for other taxpayer guidance to be made available electronically on the Internet in a searchable database at approximately the same time such guidance is available to the public in paper form.”
 
@@ -962,7 +1006,7 @@ Upon the acceptance of such offer in compromise or offer for the purchase of suc
 
 **(c) Deposit of certain receipts** Moneys received in payment for—
 
-(1) Work 11 So in original. Probably should not be capitalized. or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
+(1) work or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
 
 (2) work or services performed (including materials supplied) pursuant to section 7516 (relating to the supplying of training and training aids on request);
 
@@ -980,6 +1024,8 @@ shall be deposited in a separate account which may be used to reimburse appropri
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–141 substituted “work” for “Work”.
+
 2004—Subsec. (a). Pub. L. 108–357 inserted “6306,” before “7651”.
 
 1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
@@ -1139,9 +1185,9 @@ Pub. L. 100–647, title VI, § 6230(c), Nov. 10, 1988, 102 Stat. 3734, provided
 
 (1) **Subtitle A**
 
-  (A) Chapters 1, 2, 4,11 See References in Text note below. and 6 of this title shall apply only with respect to taxable years beginning after December 31, 1953, and ending after the date of enactment of this title, and with respect to such taxable years, chapters 1 (except sections 143 and 144) and 2, and section 3801, of the Internal Revenue Code of 1939 are hereby repealed.
+  (A) Chapters 1, 2, and 6 of this title shall apply only with respect to taxable years beginning after December 31, 1953, and ending after the date of enactment of this title, and with respect to such taxable years, chapters 1 (except sections 143 and 144) and 2, and section 3801, of the Internal Revenue Code of 1939 are hereby repealed.
 
-  (B) Chapters 3 and 5 1 of this title shall apply with respect to payments and transfers occurring after December 31, 1954, and as to such payments and transfers sections 143 and 144 and chapter 7 of the Internal Revenue Code of 1939 are hereby repealed.
+  (B) Chapter 3 of this title shall apply with respect to payments and transfers occurring after December 31, 1954, and as to such payments and transfers sections 143 and 144 and chapter 7 of the Internal Revenue Code of 1939 are hereby repealed.
 
   (C) Any provision of subtitle A of this title the applicability of which is stated in terms of a specific date (occurring after December 31, 1953), or in terms of taxable years ending after a specific date (occurring after December 31, 1953), shall apply to taxable years ending after such specific date. Each such provision shall, in the case of a taxable year subject to the Internal Revenue Code of 1939, be deemed to be included in the Internal Revenue Code of 1939, but shall be applicable only to taxable years ending after such specific date. The provisions of the Internal Revenue Code of 1939 superseded by provisions of subtitle A of this title the applicability of which is stated in terms of a specific date (occurring after December 31, 1953) shall be deemed to be included in subtitle A of this title, but shall be applicable only to the period prior to the taking effect of the corresponding provision of subtitle A.
 
@@ -1159,7 +1205,7 @@ Pub. L. 100–647, title VI, § 6230(c), Nov. 10, 1988, 102 Stat. 3734, provided
 
 (3) **Subtitle C** — Subtitle C of this title shall apply only with respect to remuneration paid after December 31, 1954, except that chapter 22 of such subtitle shall apply only with respect to remuneration paid after December 31, 1954, which is for services performed after such date. Chapter 9 of the Internal Revenue Code of 1939 is hereby repealed with respect to remuneration paid after December 31, 1954, except that subchapter B of such chapter (and subchapter E of such chapter to the extent it relates to subchapter B) shall remain in force and effect with respect to remuneration paid after December 31, 1954, for services performed on or before such date.
 
-(4) **Subtitle D** — Subtitle D of this title shall take effect on January 1, 1955. Subtitles B and C of the Internal Revenue Code of 1939 (except chapters 7, 9, 15, 26, and 28, subchapter B of chapter 25, and parts VII and VIII of subchapter A of chapter 27 of such code) are hereby repealed effective January 1, 1955. Provisions having the same effect as section 6416(b)(2)(H),1 and so much of section 4082(c) 1 as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of May 1, 1954. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on April 1, 1954, and ending on December 31, 1954.
+(4) **Subtitle D** — Subtitle D of this title shall take effect on January 1, 1955. Subtitles B and C of the Internal Revenue Code of 1939 (except chapters 7, 9, 15, 26, and 28, subchapter B of chapter 25, and parts VII and VIII of subchapter A of chapter 27 of such code) are hereby repealed effective January 1, 1955. Provisions having the same effect as section 6416(b)(2)(H),11 See References in Text note below. and so much of section 4082(c) 1 as refers to special motor fuels, shall be considered to be included in the Internal Revenue Code of 1939 effective as of May 1, 1954. Section 2450(a) of the Internal Revenue Code of 1939 (as amended by the Excise Tax Reduction Act of 1954) applies to the period beginning on April 1, 1954, and ending on December 31, 1954.
 
 (5) **Subtitle E** — Subtitle E shall take effect on January 1, 1955, except that the provisions in section 5411 permitting the use of a brewery under regulations prescribed by the Secretary for the purpose of producing and bottling soft drinks, section 5554, and chapter 53 shall take effect on the day after the date of enactment of this title. Subchapter B of chapter 25, and part VIII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective on the day after the date of enactment of this title. Chapters 15 and 26, and part VII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective January 1, 1955.
 
@@ -1215,8 +1261,6 @@ Pub. L. 100–647, title VI, § 6230(c), Nov. 10, 1988, 102 Stat. 3734, provided
 ### Statutory Notes
 
 #### References in Text
-Chapter 4 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 101–508, title XI, § 11801(a)(37), Nov. 5, 1990, 104 Stat. 1388–521.
-
 The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)(A) to (C), (7), (b)(2), (3), is Aug. 16, 1954.
 
 Various provisions of the Internal Revenue Code of 1939, referred to in text and described below, have corresponding provisions appearing in the Internal Revenue Code of 1986 [formerly I.R.C. 1954]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1). See, also, subsec. (e) of this section for provision that references in the 1986 Code to a provision in the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
@@ -1228,8 +1272,6 @@ Sections 143 and 144 of the Internal Revenue Code of 1939, referred to in subsec
 Chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was comprised of sections 500 to 784 of former Title 26, Internal Revenue Code. Sections 500 to 511 and 650 to 706 were repealed by subsec. (a)(1)(A) of this section, sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, § 202, 59 Stat. 574, sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, § 122(a), 59 Stat. 568, section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§ 224(b), 228(b), 56 Stat. 920, 925, section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, § 229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
 Section 3801 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was classified to section 3801 of former Title 26, Internal Revenue Code. Section 3801 was repealed by subsec. (a)(1)(A) of this section.
-
-Chapter 5 of this title, referred to in subsec. (a)(1)(B), was repealed by Pub. L. 105–34, title XI, § 1131(a), Aug. 5, 1997, 111 Stat. 978.
 
 Chapter 7 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(B), (4), was comprised of sections 1250 to 1254 of former Title 26, Internal Revenue Code.
 
@@ -1274,6 +1316,10 @@ Reorganization Plan Numbered 26 of 1950, referred to in subsec. (b)(3), is Reorg
 Reorganization Plan Numbered 1 of 1952, referred to in subsec. (b)(3), is Reorg. Plan No. 1 of 1952, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, which is set out in Appendix to Title 5.
 
 #### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–141, § 401(a)(335), struck out “, 4” after “Chapters 1, 2”.
+
+Subsec. (a)(1)(B). Pub. L. 115–141, § 401(a)(336), substituted “Chapter 3” for “Chapters 3 and 5”.
+
 1986—Subsecs. (a)(7), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1976—Subsec. (a)(5). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
@@ -1410,7 +1456,7 @@ Pub. L. 87–834, § 31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 99�
 
       (I) *In general* — If, as of the close of any calendar year in the testing period, the requirements of this subparagraph are not met with respect to an establishment, section 103 shall cease to apply to interest received or accrued (on all private activity bonds issued to provide financing for the establishment) after the close of such calendar year.
 
-      (II) *Exception* — Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calender 11 So in original. Probably should be “calendar”. year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
+      (II) *Exception* — Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calendar year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
 
     (iii) *Testing period* — For purposes of this subparagraph, the term “testing period” means, with respect to an issue, each calendar year which begins more than 2 years after the date of issuance of the issue (or, in the case of a refunding obligation, the date of issuance of the original issue).
 
@@ -1464,6 +1510,8 @@ Pub. L. 87–834, § 31, Oct. 16, 1962, 76 Stat. 1069, as amended by Pub. L. 99�
 Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (f)(3)(B)(i), is classified to [section 2703 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2703&num=0&edition=prelim), Indians.
 
 #### Amendments
+2018—Subsec. (c)(3)(D)(ii)(II). Pub. L. 115–141 substituted “the calendar year” for “the calender year”.
+
 2009—Subsec. (f). Pub. L. 111–5 added subsec. (f).
 
 1993—Subsec. (a)(6)(B) to (D). Pub. L. 103–66 redesignated former subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “section 162(e) (relating to appearances, etc., with respect to legislation),”.
@@ -1709,16 +1757,12 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (C) *Nursing homes excluded* — The term “qualified continuing care facility” shall not include any facility which is of a type which is traditionally considered a nursing home.
 
-(5) **Adjustment of limit for inflation**
+(5) **Adjustment of limit for inflation** — In the case of any loan made during any calendar year after 1986, the dollar amount in paragraph (2) shall be increased by an amount equal to—
 
-  (A) *In general* — In the case of any loan made during any calendar year after 1986 to which paragraph (1) applies, the dollar amount in paragraph (2) shall be increased by the inflation adjustment for such calendar year. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or, if such increase is a multiple of $50, such increase shall be increased to the nearest multiple of $100).
+  (A) such amount, multiplied by
 
-  (B) *Inflation adjustment* — For purposes of subparagraph (A), the inflation adjustment for any calendar year is the percentage (if any) by which—
-
-    (i) the CPI for the preceding calendar year exceeds
-
-    (ii) the CPI for calendar year 1985.
-    For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of such calendar year.
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1985” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or, if such increase is a multiple of $50, such increase shall be increased to the nearest multiple of $100).
 
 (6) **Suspension of application** — Paragraph (1) shall not apply for any calendar year to which subsection (h) applies.
 
@@ -1766,6 +1810,18 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g)(5). Pub. L. 115–97 amended par. (5) generally. Prior to amendment, text read as follows:
+
+“(A) In general.—In the case of any loan made during any calendar year after 1986 to which paragraph (1) applies, the dollar amount in paragraph (2) shall be increased by the inflation adjustment for such calendar year. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or, if such increase is a multiple of $50, such increase shall be increased to the nearest multiple of $100).
+
+“(B) Inflation adjustment.—For purposes of subparagraph (A), the inflation adjustment for any calendar year is the percentage (if any) by which—
+
+“(i) the CPI for the preceding calendar year exceeds
+
+“(ii) the CPI for calendar year 1985.
+
+For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of such calendar year.”
+
 2006—Subsec. (g)(6). Pub. L. 109–222, § 209(b)(1), added par. (6).
 
 Subsec. (h). Pub. L. 109–222, § 209(a), added subsec. (h). Former subsec. (h) redesignated (i).
@@ -1808,11 +1864,14 @@ Subsec. (f)(11). Pub. L. 99–514, § 1854(c)(2)(B), added par. (11) relating to
 
 Subsec. (c)(1)(E). Pub. L. 99–121, § 201(c)(2), substituted “(C), or (F)” for “or (C)”.
 
-Subsec. (c)(1)(F). Pub. L. 99–121, § 201(b), added subpar. (f).
+Subsec. (c)(1)(F). Pub. L. 99–121, § 201(b), added subpar. (F).
 
 Subsec. (f)(11). Pub. L. 99–121, § 202, added par. (11) relating to time for determining rate applicable to employee relocation loans.
 
 Subsecs. (g), (h). Pub. L. 99–121, § 201(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–432, div. A, title IV, § 425(b), Dec. 20, 2006, 120 Stat. 2974, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 209 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222].”
@@ -1882,7 +1941,7 @@ Pub. L. 99–514, title XVIII, § 1812(b)(5), Oct. 22, 1986, 100 Stat. 2834, as 
     (iv) substantially all of the management functions of the entity are performed by members of qualified Indian tribes.
     For purposes of clause (iii), equity interests owned by a member (or the spouse of a member) of a qualified Indian tribe shall be treated as owned by the tribe.
 
-  (B) *Qualified indian tribe* — For purposes of subparagraph (A), an Indian tribe is a qualified Indian tribe with respect to an entity if such entity is engaged in a fishing rights-related activity of such tribe.
+  (B) *Qualified Indian tribe* — For purposes of subparagraph (A), an Indian tribe is a qualified Indian tribe with respect to an entity if such entity is engaged in a fishing rights-related activity of such tribe.
 
 **(c) Special rules**
 
@@ -1981,7 +2040,7 @@ Pub. L. 100–647, title III, § 3044, Nov. 10, 1988, 102 Stat. 3642, provided t
 
   (A) the amount of the inversion gain for the taxable year, and
 
-  (B) the highest rate of tax specified in section 11(b)(1).
+  (B) the highest rate of tax specified in section 11(b).
   For purposes of determining the credit allowed by section 901, inversion gain shall be treated as from sources within the United States.
 
 (2) **Special rules for partnerships** — In the case of an expatriated entity which is a partnership—
@@ -2019,7 +2078,12 @@ Pub. L. 100–647, title III, § 3044, Nov. 10, 1988, 102 Stat. 3642, provided t
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (e)(1)(B). Pub. L. 115–97 substituted “section 11(b)” for “section 11(b)(1)”.
+
 2005—Subsec. (a)(3). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any entity which is treated as a domestic corporation under subsection (b).”
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under [section 26 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-26).

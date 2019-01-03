@@ -58,15 +58,12 @@ Pub. L. 105–186, June 23, 1998, 112 Stat. 611, as amended by Pub. L. 106–155
 
 
 <a id="section-1622"></a>
-## § 1622. Establishment of Commission
+## § 1622. Establishment of International Claims Commission
 **(a) , (b) Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 656**
 
-**(c) Rules and regulations; termination date; removal of personnel; reports** The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The President may fix a termination date for the authority of the Commission, and the terms of office of its members under this subchapter. Any member of the Commission may be removed by the Secretary of State, upon notice and hearing, for neglect of duty, or malfeasance in office, but for no other cause. Not later than six months after its organization, and every six months thereafter, the Commission shall make a report, through the Secretary of State, to the Congress concerning its operations under this subchapter. The Commission shall, upon completion of its work, certify in duplicate to the Secretary of State and to the Secretary of the Treasury the following: (1) A list of all claims disallowed; (2) a list of all claims allowed, in whole or in part, together with the amount of each claim and the amount awarded thereon; and (3) a copy of the decision rendered in each case.
+**(c) Rules and regulations; termination date; removal of personnel; reports** The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The President may fix a termination date for the authority of the Commission, and the terms of office of its members under this subchapter. Any member of the Commission may be removed by the Secretary of State, upon notice and hearing, for neglect of duty, or malfeasance in office, but for no other cause. Not later than six months after its organization, and every six months 11 See Modification of Reporting Requirements note below. thereafter, the Commission shall make a report, through the Secretary of State, to the Congress concerning its operations under this subchapter. The Commission shall, upon completion of its work, certify in duplicate to the Secretary of State and to the Secretary of the Treasury the following: (1) A list of all claims disallowed; (2) a list of all claims allowed, in whole or in part, together with the amount of each claim and the amount awarded thereon; and (3) a copy of the decision rendered in each case.
 
 ### Statutory Notes
-
-#### Annual Submission of Report
-Pub. L. 89–348, § 2(7), Nov. 8, 1965, 79 Stat. 1312, modified subsection (c) of this section to require annual submission instead of semiannual submission to the Congress by the Foreign Claims Settlement Commission of its report concerning its operations under the International Claims Settlement Act of 1949.
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under [section 1644 of this title](./chapter-021-settlement-of-international-claims.md#section-1644).
@@ -89,6 +86,9 @@ International Claims Commission of the United States abolished by Reorg. Plan No
 
 #### Abolition of Functions of Secretary of State
 The functions of the Secretary of State under the third and fourth sentences of subsec. (c) of this section were abolished by Reorg. Plan No. 1 of 1954, § 4(b), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note below.
+
+#### Modification of Reporting Requirements
+Pub. L. 89–348, § 2(7), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of subsec. (c) of this section as follows: “From semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the International Claims Settlement Act of 1949 (64 Stat. 13; [22 U.S.C. 1622(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1622/c&num=0&edition=prelim)).”
 
 #### REORGANIZATION PLAN NO. 1 OF 1954Eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1954, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended [see [5 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim) et seq.].

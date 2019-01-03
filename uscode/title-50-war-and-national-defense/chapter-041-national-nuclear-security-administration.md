@@ -139,6 +139,12 @@ Subsec. (c). Pub. L. 113–66 substituted “[section 1702(c) of title 41](https
 
 Pub. L. 106–398, § 1 [div. C, title XXXI, § 3152(b)], added subsec. (e) relating to membership on Joint Nuclear Weapons Council.
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
+#### Infrastructure Modernization Initiative
+Pub. L. 115–91, div. C, title XXXI, § 3111(b), Dec. 12, 2017, 131 Stat. 1881, provided that: “(1) Establishment.—Not later than 30 days after the date of the enactment of this Act [Dec. 12, 2017], the Administrator for Nuclear Security shall establish and carry out a program, to be known as the ‘Infrastructure Modernization Initiative’, to reduce the backlog of deferred maintenance and repair needs of the nuclear security enterprise (as defined in section 4002(6) of the Atomic Energy Defense Act ([50 U.S.C. 2501(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501/6&num=0&edition=prelim))). In carrying out that program, the Administrator shall establish and execute infrastructure modernization milestones that reduce the deferred maintenance and repair needs of the nuclear security enterprise by not less than 30 percent by 2025. “(2) Authorities.—“(A) Process.—“(i) In general.—The Secretary of Energy shall provide to the Administrator a process that will enhance or streamline the ability of the Administrator to carry out the program under paragraph (1) in an efficient and effective manner, including with respect to—“(I) the demolition or construction of non-nuclear facilities of the Administration that have a total estimated project cost of less than $100,000,000; and “(II) the decontamination, decommissioning, and demolition (to be performed in accordance with applicable health and safety standards used by the Defense Environmental Cleanup Program) of process-contaminated facilities of the Administration that have a total estimated project cost of less than $50,000,000. “(ii) Funding.—Clause (i) may be carried out using amounts authorized to be appropriated for fiscal year 2018 or any subsequent fiscal year. “(B) Application of certain requirements.—For purposes of the Management Procedures Memorandum 2015–01 of the Office of Management and Budget, or a successor memorandum, in carrying out the program under paragraph (1), the Administrator may—“(i) perform new construction during a fiscal year that differs from the fiscal year of corresponding facility demolition; “(ii) perform demolition of different facility category codes and have that demolition credit count towards the construction of new facilities with a different facility category code; and “(iii) have the net reduction in infrastructure footprint for the five fiscal years prior to the date of the enactment of this Act [Dec. 12, 2017], and the demolition during the five fiscal years following such date of enactment, considered as a factor for the purpose of meeting the intent of such memorandum. “(3) Initial plan.—Not later than March 1, 2018, the Administrator shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] an initial plan to carry out the program under paragraph (1) to achieve the goal specified in such paragraph. Such plan shall include—“(A) the funding required to carry out the program during the period covered by the future-years nuclear security program under section 3253 of the National Nuclear Security Administration Act ([50 U.S.C. 2453](./chapter-041-national-nuclear-security-administration.md#section-2453)); “(B) the criteria for selecting and prioritizing projects within the program under paragraph (1); “(C) mechanisms for ensuring the robust management and oversight of such projects; “(D) a description of the process provided to the Administrator to carry out the program pursuant to paragraph (2)(A); and “(E) a description of any legislative actions the Administrator recommends to further enhance or streamline authorities or processes relating to the program. “(4) Reassessment.—Not later than February 1, 2024, the Administrator shall reassess the program under paragraph (1) and, as appropriate, develop and establish goals for the program beyond 2025.”
+
 #### Technology Infrastructure Pilot Program
 Pub. L. 106–398, § 1 [div. C, title XXXI, § 3161], Oct. 30, 2000, 114 Stat. 1654, 1654A–470, provided that: “(a) Establishment.—The Administrator for Nuclear Security shall establish a Technology Infrastructure Pilot Program in accordance with this section. “(b) Purpose.—The purpose of the program shall be to explore new methods of collaboration and improvements in the management and effectiveness of collaborative programs carried out by the national security laboratories and nuclear weapons production facilities in partnership with private industry and institutions of higher education and to improve the ability of those laboratories and facilities to support missions of the Administration. “(c) Funding.—(1) Except as provided in paragraph (2), funding shall be available for the pilot program only to the extent of specific authorizations and appropriations enacted after the date of the enactment of this Act [Oct. 30, 2000]. “(2) From amounts available in fiscal years 2001 and 2002 for technology partnership programs of the Administration, the Administrator may allocate to carry out the pilot program not more than $5,000,000. “(d) Project Requirements.—A project may not be approved for the pilot program unless the project meets the following requirements:“(1) The participants in the project include—“(A) a national security laboratory or nuclear weapons production facility; and “(B) one or more of the following:“(i) A business. “(ii) An institution of higher education. “(iii) A nonprofit institution. “(iv) An agency of a State, local, or tribal government. “(2)(A) Not less than 50 percent of the costs of the project are to be provided by non-Federal sources. “(B)(i) The calculation of the amount of the costs of the project provided by non-Federal sources shall include cash, personnel, services, equipment, and other resources expended on the project. “(ii) No funds or other resources expended before the start of the project or outside the project’s scope of work may be credited toward the costs provided by non-Federal sources to the project. “(3) The project (other than in the case of a project under which the participating laboratory or facility receives funding under this section) shall be competitively selected by that laboratory or facility using procedures determined to be appropriate by the Administrator. “(4) No Federal funds shall be made available under this section for—“(A) construction; or “(B) any project for more than five years. “(e) Selection Criteria.—(1) The projects selected for the pilot program shall—“(A) stimulate the development of technology expertise and capabilities in private industry and institutions of higher education that can support the nuclear weapons and nuclear nonproliferation missions of the national security laboratories and nuclear weapons production facilities on a continuing basis; “(B) improve the ability of those laboratories and facilities [to] benefit from commercial research, technology, products, processes, and services that can support the nuclear weapons and nuclear nonproliferation missions of those laboratories and facilities on a continuing basis; and “(C) encourage the exchange of scientific and technological expertise between those laboratories and facilities and—“(i) institutions of higher education; “(ii) technology-related business concerns; “(iii) nonprofit institutions; and “(iv) agencies of State, tribal, or local governments; that can support the missions of those laboratories and facilities. “(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing the project determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration. “(3) The Administrator shall require the director of the laboratory or facility to consider the following criteria in selecting a project to receive Federal funds:“(A) The potential of the project to succeed, based on its technical merit, team members, management approach, resources, and project plan. “(B) The potential of the project to promote the development of a commercially sustainable technology, determined by considering whether the project will derive sufficient demand for its products or services from the private sector to support the nuclear weapons and nuclear nonproliferation missions of the participating laboratory or facility on a continuing basis. “(C) The potential of the project to promote the use of commercial research, technology, products, processes, and services by the participating laboratory or facility to achieve its nuclear weapons and nuclear nonproliferation missions. “(D) The commitment shown by non-Federal organizations to the project, based primarily on the nature and amount of the financial and other resources they will risk on the project. “(E) The extent to which the project involves a wide variety and number of institutions of higher education, nonprofit institutions, and technology-related business concerns that can support the nuclear weapons and nuclear nonproliferation missions of the participating laboratory or facility on a continuing basis and that will make substantive contributions to achieving the goals of the project. “(F) The extent of participation in the project by agencies of State, tribal, or local governments that will make substantive contributions to achieving the goals of the project. “(G) The extent to which the project focuses on promoting the development of technology-related business concerns that are small business concerns or involves small business concerns substantively in the project. “(f) Implementation Plan.—No funds may be allocated for the pilot program until 30 days after the date on which the Administrator submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for the implementation of the pilot program. The plan shall, at a minimum—“(1) identify the national security laboratories and nuclear weapons production facilities that have been designated by the Administrator to participate in the pilot program; and “(2) with respect to each laboratory or facility identified under paragraph (1)—“(A) identify the businesses, institutions of higher education, nonprofit institutions, and agencies of State, local, or tribal government that are expected to participate in the pilot program at that laboratory or facility; “(B) identify the technology areas to be addressed by the pilot program at that laboratory or facility and the manner in which the pilot program will support high-priority missions of that laboratory or facility on a continuing basis; and “(C) describe the management controls that have been put into place to ensure that the pilot program as conducted at that laboratory or facility is conducted in a cost-effective manner consistent with the objectives of the pilot program. “(g) Report on Implementation.—(1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program. The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program. “(2) Not later than 30 days after the date on which the Administrator submits the report required by paragraph (1), the Comptroller General shall submit to the congressional defense committees a report containing the Comptroller General’s assessment of that report.”
 
@@ -178,6 +184,9 @@ A prior section 2403, Pub. L. 106–65, div. C, title XXXII, § 3213, Oct. 5, 19
 #### Amendments
 2001—Subsec. (c). Pub. L. 107–107 struck out heading and text of subsec. (c). Text read as follows: “The head of each national security laboratory and nuclear weapons production facility shall, consistent with applicable contractual obligations, report to the Deputy Administrator for Defense Programs.”
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 
 <a id="section-2405"></a>
 ## § 2405. Deputy Administrator for Defense Nuclear Nonproliferation
@@ -192,6 +201,11 @@ A prior section 2403, Pub. L. 106–65, div. C, title XXXII, § 3213, Oct. 5, 19
 (3) Eliminating inventories of surplus fissile materials usable for nuclear weapons.
 
 (4) Providing for international nuclear safety.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
 <a id="section-2406"></a>
@@ -215,11 +229,19 @@ Executive Order No. 12344, referred to in subsec. (d), is set out as a note unde
 
 Section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525), referred to in subsec. (d), was formerly set out as a note under [section 7158 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7158&num=0&edition=prelim), The Public Health and Welfare, and was renumbered section 4101 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(d)(2), Nov. 24, 2003, 117 Stat. 1757. Section 4101 of Pub. L. 107–314 is classified to [section 2511 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2511).
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 
 <a id="section-2407"></a>
 ## § 2407. General Counsel
 
 There is a General Counsel of the Administration. The General Counsel is the chief legal officer of the Administration.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
 <a id="section-2408"></a>
@@ -242,6 +264,9 @@ There is a General Counsel of the Administration. The General Counsel is the chi
 
 #### Amendments
 2006—Subsec. (b)(4), (5). Pub. L. 109–364 added par. (4) and redesignated former par. (4) as (5).
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
 <a id="section-2409"></a>
@@ -305,6 +330,9 @@ Pub. L. 109–364, § 3117(d), added subsec. (e).
 Subsec. (b). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3157(2)], struck out “, in carrying out any function of the Administration,” after “contractor of the Administration”.
 
 Subsec. (d). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3157(3)], added subsec. (d).
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
 <a id="section-2411"></a>
@@ -391,8 +419,36 @@ Subsec. (d). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3157(3)], added sub
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–232, div. C, title XXXI, § 3113(a), (b), Aug. 13, 2018, 132 Stat. 2290, provided that, effective 18 months after Aug. 13, 2018, this section is amended as follows:
+
+(1) by redesignating subsection (h) as subsection (i);
+
+(2) by inserting after subsection (g) the following new subsection:
+
+“(h) Rule of Construction
+
+“Nothing in this section shall be construed to require duplicate reviews or cost estimates for major atomic energy defense acquisition programs by the Administration or other elements of the Department of Energy.”;
+
+(3) in subsection (i)(2), as redesignated—
+
+(A) by striking the subpar. (A) designation and heading and “Except as provided in subparagraph (B), the term” and inserting “The term”;
+
+(B) by striking subparagraph (B); and
+
+(C) by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and realigning the margins.
+
+See 2018 Amendment notes below.
+
 #### Amendments
-Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+2018—Subsecs. (h), (i). Pub. L. 115–232, § 3113(a)(1), (2), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+Subsec. (i)(2). Pub. L. 115–232, § 3113(a)(3), struck out subpar. (A) designation and heading “In general”, substituted “The term” for “Except as provided in subparagraph (B), the term”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpar. (B) which read as follows: “The term ‘major atomic energy defense acquisition program’ does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.”
+
+2014—Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. C, title XXXI, § 3113(b), Aug. 13, 2018, 132 Stat. 2290, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 18 months after the date of the enactment of this Act [Aug. 13, 2018].”
 
 
 <a id="section-2421"></a>
@@ -400,6 +456,11 @@ Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former 
 **(a) Policies and procedures required** The Administrator shall establish procedures to ensure the maximum protection of classified information in the possession of the Administration.
 
 **(b) Prompt reporting** The Administrator shall establish procedures to ensure prompt reporting to the Administrator of any significant problem, abuse, violation of law or Executive order, or deficiency relating to the management of classified information by personnel of the Administration.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
 <a id="section-2422"></a>
@@ -431,6 +492,9 @@ Subsec. (a). Pub. L. 109–364, § 3117(b)(1)(B), added subsec. (a) and struck o
 
 Subsecs. (b), (c). Pub. L. 109–364, § 3117(b)(1)(C), (D), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to the Chief of Defense Nuclear Counterintelligence.
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 
 <a id="section-2423"></a>
 ## § 2423. Counterintelligence programs
@@ -446,6 +510,9 @@ Subsecs. (b), (c). Pub. L. 109–364, § 3117(b)(1)(C), (D), redesignated subsec
 2006—Pub. L. 109–364, § 3117(a), which, in par. (2), directed amendment of this section by substituting “Administrator” for “Secretary of Energy” in subsecs. (a) and (b) and “Administration” for “Office of Counterintelligence of the Department of Energy” in subsec. (b), effective Sept. 30, 2010, was amended generally by Pub. L. 111–84, and as so amended, no longer contains a par. (2) or amends this section.
 
 Pub. L. 109–364, § 3117(c), substituted “Secretary of Energy” for “Administrator” in subsecs. (a) and (b) and “Office of Counterintelligence of the Department of Energy” for “Office of Defense Nuclear Counterintelligence” in subsec. (b).
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
 <a id="section-2424"></a>
@@ -543,6 +610,9 @@ Provisions similar to those in this section were contained in [section 2122a of 
 #### Amendments
 2014—Subsec. (a)(2)(B)(iv). Pub. L. 113–291 substituted “program for—” for “program for” before subcl. (I) designation, “year;” for “year,” at end of subcl. (I), and “; and” for “, and” at end of subcl. (II) and realigned margins of subcls. (I) to (III).
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 
 <a id="section-2441"></a>
 ## § 2441. Authority to establish certain contracting, program management, scientific, engineering, and technical positions
@@ -558,6 +628,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 2013—Pub. L. 113–66, in last sentence, substituted “positions established” for “excepted positions established”, “a position” for “an excepted position”, and “position not established under this section” for “nonexcepted position”.
 
 Pub. L. 112–239, in section catchline, inserted “contracting, program management,” before “scientific” and, in text, substituted “600 contracting, program management, scientific” for “300 scientific” and inserted at end “To ensure that the excepted positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such an excepted position to replace the vacancy of a nonexcepted position.”
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
 <a id="section-2441a"></a>
@@ -847,6 +920,9 @@ Pub. L. 111–84, div. C, title XXXI, § 3141, Oct. 28, 2009, 123 Stat. 2715, pr
 #### Amendments
 2000—Pub. L. 106–398 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 #### First Report on Assessment of Prior Plans; GAO Report
 Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–469, provided that: “(b) Effective Date of Requirement to Assess Prior Plan.—The first report submitted under paragraph (2) of subsection (c) of such section [subsec. (c)(2) of this section] (as added by subsection (a)) shall be the report on the plan prepared with respect to the budget submitted in calendar year 2001. “(c) GAO Report.—Not later than March 15, 2001, the Comptroller General shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration.”
 
@@ -885,14 +961,6 @@ Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 11
 
 (4) A description of the anticipated workload requirements for each Administration site during that five-fiscal-year period.
 
-(5) A plan, developed in consultation with the Director of the Office of Health, Safety, and Security of the Department of Energy, for the research and development, deployment, and lifecycle sustainment of the technologies employed within the nuclear security enterprise to address physical and cyber security threats during the applicable five-fiscal-year period, together with—
-
-  (A) for each site in the nuclear security enterprise, a description of the technologies deployed to address the physical and cyber security threats posed to that site;
-
-  (B) for each site and for the nuclear security enterprise, the methods used by the Administration to establish priorities among investments in physical and cyber security technologies; and
-
-  (C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
-
 **(c) Consistency in budgeting**
 
 (1) The Administrator shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
@@ -908,6 +976,14 @@ Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 11
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(5). Pub. L. 115–91 struck out par. (5) which read as follows: “A plan, developed in consultation with the Director of the Office of Health, Safety, and Security of the Department of Energy, for the research and development, deployment, and lifecycle sustainment of the technologies employed within the nuclear security enterprise to address physical and cyber security threats during the applicable five-fiscal-year period, together with—
+
+“(A) for each site in the nuclear security enterprise, a description of the technologies deployed to address the physical and cyber security threats posed to that site;
+
+“(B) for each site and for the nuclear security enterprise, the methods used by the Administration to establish priorities among investments in physical and cyber security technologies; and
+
+“(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.”
+
 2013—Subsec. (b). Pub. L. 113–66, § 3145(f)(1), substituted “five-fiscal-year” for “five-fiscal year” wherever appearing.
 
 Subsec. (b)(3). Pub. L. 112–239, § 3132(d)(2), substituted “[section 2522(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2522/a&num=0&edition=prelim)” for “section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([42 U.S.C. 2121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2121&num=0&edition=prelim) note)”.
@@ -927,6 +1003,9 @@ Subsec. (c). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3154(b)(1), (2)], r
 Subsec. (d). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3154(b)(2), (3)], redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3154(b)(2)], redesignated subsec. (e) as (d).
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 #### Technical Base and Facilities Maintenance and Recapitalization Activities
 Pub. L. 108–136, div. C, title XXXI, § 3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C, title XXXI, § 3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, § 3112, Oct. 17, 2006, 120 Stat. 2503, provided that: “(a) Inclusion of Projects in Facilities and Infrastructure Recapitalization Program.—(1) The Administrator for Nuclear Security shall complete the selection of projects for inclusion in the Facilities and Infrastructure Recapitalization Program of the National Nuclear Security Administration not later than December 31, 2004. “(2) Except as provided in paragraph (3), no project may be included in the Facilities and Infrastructure Recapitalization Program after December 31, 2004, unless such project has been selected for inclusion in that program as of that date. “(3)(A) Subject to the provisions of this paragraph, a project described in subparagraph (B) may be carried out under the Facilities and Infrastructure Recapitalization Program after December 31, 2004, if the Administrator approves the project. The Administrator may not delegate the authority to approve projects under the preceding sentence. “(B) A project described in this subparagraph is a project that consists of a specific building, facility, or other improvement (including fences, roads, or similar improvements). “(C) Funds may not be obligated or expended for a project under this paragraph until 60 days after the date on which the Administrator submits to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a notice on the project, including a description of the project and the nature of the project, a statement explaining why the project was not included in the Facilities and Infrastructure Recapitalization Program under paragraph (1), and a statement explaining why the project was not included in any other program under the jurisdiction of the Administrator. “(D) The total number of projects that may be carried out under this paragraph in any fiscal year may not exceed five projects. “(E) The Administrator may not utilize the authority in this paragraph until 60 days after the later of—“(i) the date of the submittal to the congressional defense committees of a list of the projects selected for inclusion in the Facilities and Infrastructure Recapitalization Program under paragraph (1); or “(ii) the date of the submittal to the congressional defense committees of the report required by subsection (c). “(F) A project may not be carried out under this paragraph unless the project will be completed by September 30, 2013. “(b) Termination of Facilities and Infrastructure Recapitalization Program.—The Administrator shall terminate the Facilities and Infrastructure Recapitalization Program not later than September 30, 2013. “(c) Readiness in Technical Base and Facilities Program.—(1) Not later than September 30, 2004, the Administrator shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a report setting forth guidelines on the conduct of the Readiness in Technical Base and Facilities program of the National Nuclear Security Administration. “(2) Such guidelines shall include the following:“(A) Criteria for the inclusion of projects in the program, and for establishing priorities among projects included in the program. “(B) Mechanisms for the management of facilities under the program, including maintenance activities referred to in subparagraph (C). “(C) A description of the scope of maintenance activities under the program, including recurring maintenance, construction of facilities, recapitalization of facilities, and decontamination and decommissioning of facilities. “(3) Such guidelines shall ensure that the maintenance activities referred to in paragraph (2)(C) are carried out in a timely and efficient manner designed to avoid maintenance backlogs. “(d) Operations of Facilities Program.—(1) The Administrator shall continue the Operations of Facilities program of the National Nuclear Security Administration as a subprogram within the Readiness in Technical Base and Facilities program. “(2) The Deputy Administrator for Defense Programs shall designate a single manager to be responsible for overseeing the operations of the Operations of Facilities subprogram within the Readiness in Technical Base and Facilities program. “(3) For fiscal year 2005, and for each fiscal year thereafter, the Secretary of Energy shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives], together with the budget justification materials submitted to Congress in support of the National Nuclear Security Administration budget for that fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code), a separate statement of the amounts requested for such fiscal year for each element of the Operations of Facilities subprogram, as follows:“(A) Maintenance. “(B) Facilities management and support. “(C) Utilities. “(D) Environment, safety, and health. “(E) Each other element of the subprogram.”
@@ -1039,6 +1118,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 #### References in Text
 This chapter, referred to in subsec. (c), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 
 <a id="section-2462"></a>
 ## § 2462. Compliance with Federal Acquisition Regulation
@@ -1050,11 +1132,19 @@ The Administrator shall establish procedures to ensure that the mission and prog
 #### Amendments
 2013—Pub. L. 113–66 substituted “[section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)” for “the Office of Federal Procurement Policy Act ([41 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section401&num=0&edition=prelim) et seq.)”, which had been translated as “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” based on the enactment of Title 41, Public Contracts, by Pub. L. 111–350.
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 
 <a id="section-2463"></a>
 ## § 2463. Sharing of technology with Department of Defense
 
 The Administrator shall, in cooperation with the Secretary of Defense, establish procedures and programs to provide for the sharing of technology, technical capability, and expertise between the Administration and the Department of Defense to further national security objectives.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
 <a id="section-2464"></a>
@@ -1066,6 +1156,9 @@ The Secretary of Energy, in consultation with the Administrator, shall establish
 
 #### Amendments
 2013—Pub. L. 113–66 inserted “of Energy” after “Secretary”.
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 #### Establishment of Microlab Pilot Program
 Pub. L. 114–92, div. C, title XXXI, § 3120, Nov. 25, 2015, 129 Stat. 1198, provided that: “(a) In General.—The Secretary of Energy, in consultation with the directors of the national security laboratories, may establish a microlab pilot program under which the Secretary establishes a microlab for the purposes of—“(1) enhancing collaboration with regional research groups, such as institutions of higher education and industry groups; “(2) accelerating technology transfer from national security laboratories to the marketplace; and “(3) promoting regional workforce development through science, technology, engineering, and mathematics instruction and training. “(b) Criteria.—“(1) In general.—In determining the placement of a microlab under subsection (a), the Secretary shall consider—“(A) the interest of a national security laboratory in establishing a microlab; “(B) the existence of an available facility that has the capability to house a microlab; “(C) whether employees of a national security laboratory and persons from academia, industry, and government are available to be assigned to the microlab; and “(D) cost-sharing or in-kind contributions from State and local governments and private industry. “(2) Cost-sharing.—The Secretary shall, to the extent feasible, require cost-sharing or in-kind contributions described in paragraph (1)(D) to cover the full cost of the microlab under subsection (a). “(c) Timing.—If the Secretary, in consultation with the directors of the national security laboratories, elects to establish a microlab pilot program under this section, the Secretary, in collaboration with such directors, shall—“(1) not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], begin the process of determining the placement of the microlab under subsection (a); and “(2) not later than one year after such date of enactment, implement the microlab pilot program under this section. “(d) Reports Required.—If the Secretary, in consultation with the directors of the national security laboratories, elects to establish a microlab pilot program under this section, the Secretary shall submit to the appropriate congressional committees—“(1) not later than 120 days after the date of the implementation of the program, a report that provides an update on the implementation of the program; and “(2) not later than one year after the date of the implementation of the program, a report on the program, including findings and recommendations of the Secretary with respect to the program. “(e) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services and the Committee on Energy and Natural Resources of the Senate; and “(B) the Committee on Armed Services, the Committee on Science, Space, and Technology, and the Committee on Energy and Commerce of the House of Representatives. “(2) Microlab.—The term ‘microlab’ means a facility that is—“(A) in close proximity to, but outside the perimeter of, a national security laboratory; “(B) an extension of or affiliated with a national security laboratory; and “(C) accessible to the public. “(3) National security laboratory.—The term ‘national security laboratory’ has the meaning given that term in section 3281 of the National Nuclear Security Administration Act ([50 U.S.C. 2471](./chapter-041-national-nuclear-security-administration.md#section-2471)).”
@@ -1140,6 +1233,9 @@ Par. (2)(F). Pub. L. 113–66 substituted “Congress” for “the Congress”.
 
 Par. (6). Pub. L. 112–239, § 3132(a)(3), added par. (6).
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 
 <a id="section-2481"></a>
 ## § 2481. Functions transferred
@@ -1188,6 +1284,9 @@ Subsec. (d)(1). Pub. L. 113–66 realigned margins of concluding provisions.
 
 Subsec. (e). Pub. L. 112–239, § 3132(b)(1)(B), added subsec. (e).
 
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
+
 #### Construction
 Pub. L. 112–239, div. C, title XXXI, § 3132(b)(3), Jan. 2, 2013, 126 Stat. 2186, provided that: “Nothing in section 3291 of the National Nuclear Security Administration Act ([50 U.S.C. 2481](./chapter-041-national-nuclear-security-administration.md#section-2481)), as amended by paragraph (1), may be construed to affect any function or activity transferred by the Secretary of Energy to the Administrator for Nuclear Security before the date of the enactment of this Act [Jan. 2, 2013].”
 
@@ -1217,3 +1316,6 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 2013—Pub. L. 112–239 amended section generally. Prior to amendment, text read as follows: “Unless otherwise provided in this chapter, all provisions of law and regulations in effect immediately before the effective date of this chapter that are applicable to functions of the Department of Energy specified in [section 2481 of this title](./chapter-041-national-nuclear-security-administration.md#section-2481) shall continue to apply to the corresponding functions of the Administration.”
+
+#### Effective Date
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).

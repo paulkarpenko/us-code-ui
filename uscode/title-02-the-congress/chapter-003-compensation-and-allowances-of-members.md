@@ -119,7 +119,7 @@ Section 31b was editorially reclassified as [section 5121 of this title](./chapt
 ### Statutory Notes
 
 #### Codification
-Section 31b–1 was editorially reclassified as [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
+Section 31b–1 was editorially reclassified as former [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
 
 
 <a id="section-31b-2"></a>
@@ -128,7 +128,7 @@ Section 31b–1 was editorially reclassified as [section 5125 of this title](./c
 ### Statutory Notes
 
 #### Codification
-Section 31b–2 was editorially reclassified as [section 5126 of this title](./chapter-051-house-of-representatives-leadership.md#section-5126).
+Section 31b–2 was editorially reclassified as former [section 5126 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5126&num=0&edition=prelim).
 
 
 <a id="section-31b-3"></a>
@@ -145,7 +145,7 @@ Section, based on H. Res. No. 1238, § 3, Dec. 23, 1970, enacted into permanent 
 ### Statutory Notes
 
 #### Codification
-Section 31b–4 was editorially reclassified as [section 5127 of this title](./chapter-051-house-of-representatives-leadership.md#section-5127).
+Section 31b–4 was editorially reclassified as former [section 5127 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5127&num=0&edition=prelim).
 
 
 <a id="section-31b-5"></a>
@@ -154,7 +154,7 @@ Section 31b–4 was editorially reclassified as [section 5127 of this title](./c
 ### Statutory Notes
 
 #### Codification
-Section 31b–5 was editorially reclassified as [section 5128 of this title](./chapter-051-house-of-representatives-leadership.md#section-5128).
+Section 31b–5 was editorially reclassified as former [section 5128 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5128&num=0&edition=prelim).
 
 
 <a id="section-31b-6"></a>
@@ -171,7 +171,7 @@ Section, based on H. Res. No. 1238, § 6, Dec. 23, 1970, enacted into permanent 
 ### Statutory Notes
 
 #### Codification
-Section 31b–7 was editorially reclassified as [section 5129 of this title](./chapter-051-house-of-representatives-leadership.md#section-5129).
+Section 31b–7 was editorially reclassified as former [section 5129 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5129&num=0&edition=prelim).
 
 
 <a id="section-31c"></a>

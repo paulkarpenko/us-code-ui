@@ -2,7 +2,7 @@
 title: 2
 chapter: '51'
 heading: HOUSE OF REPRESENTATIVES LEADERSHIP
-section_count: 22
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -209,141 +209,31 @@ Section is from the Congressional Operations Appropriations Act, 2002, which is 
 
 
 <a id="section-5125"></a>
-## § 5125. Former Speakers of House of Representatives; retention of office, furniture, etc., in Congressional district following expiration of term as Representative; exceptions
-**(a)** Each former Speaker of the House of Representatives (hereafter referred to in sections 5125 to 5129 of this title as the “Speaker”) is entitled to retain, for as long as he determines there is need therefor, commencing at the expiration of his term of office as a Representative in Congress the complete and exclusive use of one office selected by him in order to facilitate the administration, settlement, and conclusion of matters pertaining to or arising out of his incumbency in office as a Representative in Congress and as Speaker of the House of Representatives. Such office shall be located in the United States and shall be furnished and maintained by the Government in a condition appropriate for his use.
-
-**(b)** Sections 5125 to 5129 of this title shall not apply with respect to any former Speaker of the House of Representatives for any period during which such former Speaker holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate or to any former Speaker separated from the service by reason of expulsion from the House.
+## § 5125. Repealed. Pub. L. 115–244, div. B, title I, § 118(a), (b), Sept. 21, 2018, 132 Stat. 2930
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 31b–1 of this title](./chapter-003-compensation-and-allowances-of-members.md#section-31b-1) prior to editorial reclassification and renumbering as this section.
+Section, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1, Dec. 22, 1974, 88 Stat. 1723; Pub. L. 99–225, Dec. 28, 1985, 99 Stat. 1743, related to the right of every former Speaker to retain an office furnished and maintained by the Government in an appropriate condition.
 
-Subsection (a) of this section is based on section 1 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, which was enacted into permanent law by Pub. L. 91–665.
-
-Subsection (b) of this section is based on section 1(b) of Pub. L. 93–532.
-
-As originally enacted into permanent law, section applied to Speaker of House of Representatives in 91st Congress and has been extended to apply to each former Speaker of House of Representatives. See section 1(a) of Pub. L. 93–532, set out as a note under this section.
-
-#### Amendments
-1985—Subsec. (a). Pub. L. 99–225 substituted “one office selected by him in order to facilitate the administration, settlement, and conclusion of matters pertaining to or arising out of his incumbency in office as a Representative in Congress and as Speaker of the House of Representatives. Such office shall be located in the United States and shall be furnished and maintained by the Government in a condition appropriate for his use” for “the Federal office space which is currently made available for his use in the congressional district represented by him and which shall be maintained by the Government in a condition appropriate for his use as he may request, together with all furniture, equipment, and furnishings currently made available by the Government for his use in connection with such office space, including any necessary replacements of such office furniture, equipment, and furnishings, in order to facilitate the administration, settlement, and conclusion of matters pertaining to or arising out of his incumbency in office as a Representative in Congress and as Speaker of the House of Representatives”.
-
-#### Effective Date
-Section 7 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, as enacted into permanent law by Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989, provided that: “The foregoing provisions of this resolution [enacting this section, former sections 31b–3 and 31b–6 of this title, and sections 5126 to 5128 of this title] shall become effective on the date of the enactment of this resolution as permanent law [Jan. 8, 1971].”
-
-#### Extension of House Resolution No. 1238, 91st Congress, to Former Speakers of House of Representatives
-Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723, provided that: “The provisions of H. Res. 1238, Ninety-first Congress, as enacted into permanent law by the Supplemental Appropriations Act, 1971 (84 Stat. 1989) [enacting this section, former sections 31b–3 and 31b–6 of this title, sections 5126 to 5128 of this title, and provisions set out as a note under this section], are hereby extended to, and made applicable with respect to, each former Speaker of the House of Representatives, as long as he determines there is need therefor, commencing at the expiration of his term of office as Representative in Congress.”
+#### Effective Date of Repeal
+Pub. L. 115–244, div. B, title I, § 118(c), Sept. 21, 2018, 132 Stat. 2930, provided that: “The amendments made by this section [repealing this section and sections 5126 to 5129 of this title] shall apply with respect to any individual who serves as a Representative in Congress during the One Hundred Fifteenth Congress or any succeeding Congress.”
 
 
-<a id="section-5126"></a>
-## § 5126. Allowance available to former Speaker for payment of office and other expenses for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker
-
-The Speaker is entitled to have the applicable accounts of the House of Representatives be available for payment of, for as long as he determines there is need therefor, commencing at the expiration of his term of office as a Representative in Congress, an allowance equal to the Members’ Representational Allowance (to be paid in the same manner as such Allowance) for office and other expenses incurred in connection with the administration, settlement, and conclusion of matters pertaining to or arising out of his incumbency in office as a Representative in Congress and as Speaker of the House of Representatives.
+<a id="section-5126-to-5129"></a>
+## § 5126 to 5129. Repealed. Pub. L. 115–244, div. B, title I, § 118(a), Sept. 21, 2018, 132 Stat. 2930
 
 ### Statutory Notes
 
-#### Codification
-Section was formerly classified to [section 31b–2 of this title](./chapter-003-compensation-and-allowances-of-members.md#section-31b-2) prior to editorial reclassification and renumbering as this section.
+Section 5126, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723; Pub. L. 99–151, title I, § 102(b), Nov. 13, 1985, 99 Stat. 797; Pub. L. 104–186, title II, § 203(2), Aug. 20, 1996, 110 Stat. 1725, provided for an allowance for former Speaker for payment of office and other administrative expenses.
 
-Section is based on section 2 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, which was enacted into permanent law by Pub. L. 91–665.
+Section 5127, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723, related to franked mail and printing privileges of former Speaker.
 
-As originally enacted into permanent law, section applied to Speaker of House of Representatives in 91st Congress and has been extended to apply to each former Speaker of House of Representatives. See section 1(a) of Pub. L. 93–532, set out as a note under [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
+Section 5128, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 93–532, § 1(a), Dec. 22, 1974, 88 Stat. 1723; Pub. L. 95–94, title I, § 115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 99–151, title I, § 102(a), Nov. 13, 1985, 99 Stat. 797; Pub. L. 104–186, title II, § 203(3), Aug. 20, 1996, 110 Stat. 1725; Pub. L. 108–447, div. G, title I, § 110, Dec. 8, 2004, 118 Stat. 3177; Pub. L. 110–161, div. H, title I, § 105, Dec. 26, 2007, 121 Stat. 2225, provided for Staff assistance to a former Speaker for administration and compensation and status of staff.
 
-#### Amendments
-1996—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House” and “Members’ Representational Allowance” for “base allowance component of the Official Expenses Allowance then currently in effect for each Member of the House”.
+Section 5129, Pub. L. 103–69, title I, § 101A(a), Aug. 11, 1993, 107 Stat. 699, provided that the entitlements of a former Speaker of the House of Representatives under sections 5125 to 5129 of this title would be available for 5 years.
 
-1985—Pub. L. 99–151 substituted “have the contingent fund of the House be available for payment of” for “reimbursement, from the contingent fund of the House” and “an allowance equal to the base allowance component of the Official Expenses Allowance then currently in effect for each Member of the House (to be paid in the same manner as such Allowance)” for “in the manner provided by applicable provisions of the Legislative Appropriation Act, 1955, as amended by the Act of June 13, 1957 (71 Stat. 82; Public Law 85–54), and by the provisions of House Resolution 831, Eighty-eighth Congress, adopted August 14, 1964, enacted as permanent law by section 103 of the Legislative Branch Appropriation Act, 1966 (79 Stat. 281; Public Law 89–90; [2 U.S.C. 122a](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-122a)), in an aggregate quarterly amount equal to the aggregate quarterly amount to which a Member of the House of Representatives is entitled under such provisions of law as in effect on January 8, 1971, or as amended or supplemented after such date,”.
-
-#### Effective Date
-Section effective Jan. 8, 1971, see Effective Date note set out under [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
-
-#### Cross References
-For establishment of Members’ Representational Allowance, see [section 5341 of this title](./chapter-053-house-of-representatives-members.md#section-5341).
-
-
-<a id="section-5127"></a>
-## § 5127. Franked mail and printing privileges of former Speaker
-**(a)** The Speaker may send mail as franked mail under sections 3210 and 3213 of title 39, and send and receive mail as franked mail under section 3211 of that title, for as long as he determines there is need therefor, commencing at the close of the period specified in those sections following the expiration of his term of office as a Representative in Congress. The postage on such mail, including registry fees if registration is required, shall be paid and credited as provided by [section 3216(a) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3216/a&num=0&edition=prelim).
-
-**(b)** For as long as he determines there is need therefor, commencing at the expiration of his term of office as a Representative in Congress, the Speaker shall be entitled to the benefits afforded by [section 733 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section733&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 31b–4 of this title](./chapter-003-compensation-and-allowances-of-members.md#section-31b-4) prior to editorial reclassification and renumbering as this section.
-
-Section is based on section 4 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, which was enacted into permanent law by Pub. L. 91–665.
-
-As originally enacted into permanent law, section applied to Speaker of House of Representatives in 91st Congress and has been extended to apply to each former Speaker of House of Representatives. See section 1(a) of Pub. L. 93–532, set out as a note under [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
-
-References to sections of Title 39, Postal Service, have been substituted for references to obsolete sections of Title 39, The Postal Service, in view of revision and reenactment of such Title by the Postal Reorganization Act, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
-
-#### Effective Date
-Section effective Jan. 8, 1971, see Effective Date note set out under [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
-
-
-<a id="section-5128"></a>
-## § 5128. Staff assistance to former Speaker for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker; compensation and status of staff
-
-In order to provide staff assistance to the Speaker in connection with the administration, settlement, and conclusion of matters pertaining to or arising out of his incumbency in office as a Representative in Congress and as Speaker of the House of Representatives, the contingent fund of the House is hereby made available, for as long as he determines there is need therefor, commencing at the expiration of the term of office of the Speaker as a Representative in Congress for payment of the salaries of an Administrative Assistant, who shall be paid at a basic per annum rate of not to exceed the then current rate for step 11 of level 13 of the House Employees Schedule, as determined by the Speaker, a Secretary, who shall be paid at a basic per annum rate of not to exceed the then current rate for step 8 of level 12 of such Schedule, as determined by the Speaker, and an additional Secretary, who shall be paid at a gross per annum rate of not to exceed the then current rate for step 7 of level 11 of such Schedule as determined by the Speaker, designated and appointed by the Speaker to serve as members of his office staff in such period. Each person so designated and appointed shall be held and considered, for the duration of such appointment, as—
-
-(1) an “employee” for the purposes of subchapter I of chapter 81 (relating to compensation for work injuries) of title 5, and
-
-(2) a “congressional employee” within the meaning of [section 2107 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2107&num=0&edition=prelim), for the purposes of—
-
-  (A) subchapter III (relating to civil service retirement) of chapter 83 of such title,
-
-  (B) chapter 87 (relating to Federal employees group life insurance) of such title, and
-
-  (C) chapter 89 (relating to Federal employees group health insurance) of such title.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 31b–5 of this title](./chapter-003-compensation-and-allowances-of-members.md#section-31b-5) prior to editorial reclassification and renumbering as this section.
-
-Section is based on section 5 of House Resolution No. 1238, Ninety-first Congress, Dec. 22, 1970, which was enacted into permanent law by Pub. L. 91–665.
-
-Amendment by Pub. L. 95–94 is based on section 2 of House Resolution No. 1576, Ninety-fourth Congress, Sept. 30, 1976, which was enacted into permanent law by Pub. L. 95–94.
-
-As originally enacted into permanent law, section applied to Speaker of House of Representatives in 91st Congress and has been extended to apply to each former Speaker of House of Representatives. See section 1(a) of Pub. L. 93–532, set out as a note under [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
-
-#### Amendments
-2007—Pub. L. 110–161 substituted “step 7 of level 11” for “step 1 of level 6”.
-
-2004—Pub. L. 108–447 substituted “step 11 of level 13” for “step 5 of level 11” and “step 8 of level 12” for “step 9 of level 8”.
-
-1996—Pub. L. 104–186 substituted “for payment of” for “to enable the Clerk of the House to pay”.
-
-1985—Pub. L. 99–151 substituted “not to exceed the then current rate for step 5 of level 11 of the House Employees Schedule” for “not to exceed $3,000” the first place it appeared, “not to exceed the then current rate for step 9 of level 8 of such Schedule” for “not to exceed $3,000” the second place it appeared, and “not to exceed the then current rate for step 1 of level 6 of such Schedule” for “not to exceed $9,000”.
-
-1977—Pub. L. 95–94 inserted reference to an additional Secretary paid at a gross per annum of not to exceed $9,000 as determined by the Speaker and struck out “as Administrative Assistant or Secretary” after “Each person so designated and appointed”.
-
-#### Effective Date of 1977 Amendment
-Section 2 of H. Res. 1576 provided that amendment is effective on the date of enactment of such section 2 into permanent law, Aug. 5, 1977, the date of approval of Pub. L. 95–94. See Codification note above.
-
-#### Effective Date
-Section effective Jan. 8, 1971, see Effective Date note set out under [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
-
-
-<a id="section-5129"></a>
-## § 5129. Availability of entitlements of former Speaker for 5 years
-
-The entitlements of a former Speaker of the House of Representatives under sections 5125 to 5129 of this title shall be available—
-
-(1) in the case of an individual who is a former Speaker on October 1, 1993, for 5 years, commencing on October 1, 1993; and
-
-(2) in the case of an individual who becomes a former Speaker after October 1, 1993, for 5 years, commencing at the expiration of the term of office of the individual as a Representative in Congress.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 31b–7 of this title](./chapter-003-compensation-and-allowances-of-members.md#section-31b-7) prior to editorial reclassification and renumbering as this section.
-
-Section is based on section 8 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, as added by Pub. L. 103–69. House Resolution No. 1238 was enacted into permanent law by Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989.
-
-#### Effective Date
-Pub. L. 103–69, title I, § 101A(b), Aug. 11, 1993, 107 Stat. 699, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect on October 1, 1993.”
+#### Effective Date of Repeal
+Amendment by Pub. L. 115–244 applicable with respect to any individual who serves as a Representative in Congress during the One Hundred Fifteenth Congress or any succeeding Congress, see section 118(c) of Pub. L. 115–244, set out as a note under [section 5125 of this title](./chapter-051-house-of-representatives-leadership.md#section-5125).
 
 
 <a id="section-5141"></a>

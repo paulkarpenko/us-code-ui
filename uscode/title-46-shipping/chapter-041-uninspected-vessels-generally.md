@@ -45,7 +45,7 @@ Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 
 **(f)**
 
-(1) The Secretary, in consultation with the Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
+(1) The Secretary, in consultation with the National Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
 
 (2) The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.
 
@@ -62,6 +62,8 @@ Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 Section 4102 requires uninspected vessels to comply with certain provisions that incorporate minimum safety equipment and construction requirements. The Committee intends that the term life preserver include all types of personal equipment, including exposure suits with floatation characteristics.
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–282 inserted “National” before “Towing Safety”.
+
 2010—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each uninspected vessel propelled by machinery shall carry at least one readily accessible life preserver or other lifesaving device, of the type prescribed by regulation, for each individual on board.”
 
 1998—Subsec. (e). Pub. L. 105–383 substituted “owned in the United States and operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured” for “operating on the high seas”.
@@ -118,7 +120,7 @@ Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529, required Secretary to pre
 
 **(b)**
 
-(1) In applying this title with respect to an uninspected vessel of less than 24 meters overall in length that carries passengers to or from a port in the United States Virgin Islands, the Secretary shall substitute “12 passengers” for “6 passengers” each place it appears in section 2101(42) if the Secretary determines that the vessel complies with, as applicable to the vessel—
+(1) In applying this title with respect to an uninspected vessel of less than 24 meters overall in length that carries passengers to or from a port in the United States Virgin Islands, the Secretary shall substitute “12 passengers” for “6 passengers” each place it appears in section 2101(51) if the Secretary determines that the vessel complies with, as applicable to the vessel—
 
   (A) the Code of Practice for the Safety of Small Commercial Motor Vessels (commonly referred to as the “Yellow Code”), as published by the U.K. Maritime and Coastguard Agency and in effect on January 1, 2014; or
 
@@ -130,7 +132,9 @@ Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529, required Secretary to pre
 
   (B) on any dates before the date on which such standards are in effect, the Codes of Practice referred to in paragraph (1) shall apply with respect to the vessels referred to in paragraph (1).
 
-**(c)** The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in [section 2101(42)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/42/A&num=0&edition=prelim).
+**(c)** In applying this title with respect to an uninspected vessel of less than 25 feet overall in length that carries passengers on Crane Lake or waters contiguous to such lake in St. Louis County, Minnesota, the Secretary shall substitute “12 passengers” for “6 passengers” each place it appears in section 2101(51).
+
+**(d)** The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in [section 2101(51)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/51/A&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -142,6 +146,14 @@ Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529, required Secretary to pre
 Section 4105 provides that an uninspected passenger vessel is subject to Chapter 43, as a recreational vessel even when it is carrying not more than six passengers.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232, § 3541(b)(10)(A), substituted “section 2101(51)” for “section 2101(42)” in introductory provisions.
+
+Subsec. (c). Pub. L. 115–282, § 502(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Pub. L. 115–232, § 3541(b)(10)(B), substituted “section 2101(51)(A)” for “section 2101(42)(A)”.
+
+Subsec. (d). Pub. L. 115–282, § 502(1), redesignated subsec. (c) as (d).
+
 2014—Subsecs. (b), (c). Pub. L. 113–281 added subsec. (b), redesignated former subsec. (b) as (c), and in subsec. (c) substituted “The” for “Within twenty-four months of the date of enactment of this subsection, the”.
 
 1993—Pub. L. 103–206 designated existing provisions as subsec. (a) and added subsec. (b).

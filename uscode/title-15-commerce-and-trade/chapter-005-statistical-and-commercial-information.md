@@ -94,14 +94,25 @@ Any statistical information furnished in confidence to the Bureau of Foreign and
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–435, title III, § 302(c)(4), title IV, § 403, Jan. 14, 2019, 132 Stat. 5553, 5557, provided that, effective 180 days after Jan. 14, 2019, this section is amended by striking “the Confidential Information Protection and Statistical Efficiency Act of 2002” and inserting “subchapter III of chapter 35 of title 44”. See 2019 Amendment note below.
+
 #### References in Text
 The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in text, is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, amended this section, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
 
 #### Amendments
+2019—Pub. L. 115–435 substituted “subchapter III of chapter 35 of title 44” for “the Confidential Information Protection and Statistical Efficiency Act of 2002”.
+
 2002—Pub. L. 107–347 substituted “Except as provided in the Confidential Information Protection and Statistical Efficiency Act of 2002, the” for “The”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees.
 
 #### Transfer of Functions
 For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under [section 172 of this title](./chapter-005-statistical-and-commercial-information.md#section-172).
+
+#### Transitional and Savings Provisions
+For transitional and savings provisions related to the amendment of this section and other provisions of law by title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under [section 3561 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3561&num=0&edition=prelim), Public Printing and Documents.
 
 
 <a id="section-176b"></a>
@@ -109,7 +120,7 @@ For transfer of functions of Bureau of Foreign and Domestic Commerce, see note s
 
 ### Statutory Notes
 
-Section, act June 27, 1938, ch. 11, § 2, 52 Stat. 8, related to disclosure by employee of information. See [section 1905 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), Crimes and Criminal Procedure.
+Section, act Jan. 27, 1938, ch. 11, § 2, 52 Stat. 8, related to disclosure by employee of information. See [section 1905 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Effective Date of Repeal
 Section 20 of act June 25, 1948, provided that the repeal of this section shall be effective Sept. 1, 1948.

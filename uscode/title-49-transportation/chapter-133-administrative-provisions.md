@@ -42,7 +42,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 10321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10321&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13302"></a>
@@ -54,6 +54,9 @@ Under regulations of the Secretary, reasonable notice of, and an opportunity to 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10328 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10328&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13303"></a>
@@ -69,6 +72,9 @@ Provisions similar to those in this section were contained in [section 10328 of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10329 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10329&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-13304"></a>
 ## § 13304. Service of process in court proceedings
@@ -80,3 +86,6 @@ Provisions similar to those in this section were contained in [section 10329 of 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 10330 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10330&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

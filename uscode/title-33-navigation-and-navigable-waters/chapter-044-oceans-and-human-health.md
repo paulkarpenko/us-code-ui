@@ -44,7 +44,7 @@ source: >-
 
   (G) predictive models based on indicators of marine environmental health or public health threats.
 
-(2) Coordination with the National Ocean Research Leadership Council ([10 U.S.C. 7902(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7902/a&num=0&edition=prelim)) to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
+(2) Coordination with the National Ocean Research Leadership Council ([10 U.S.C. 8932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/a&num=0&edition=prelim)) to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
 
 (3) Development through partnerships among Federal agencies, States, academic institutions, or non-profit research organizations of new technologies and approaches for detecting and reducing hazards to human health from ocean sources and to strengthen understanding of the value of marine biodiversity to biomedicine, including—
 
@@ -76,6 +76,12 @@ source: >-
 
 #### References in Text
 [Section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001), referred to in subsec. (b), was in the original “section 603 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 ([16 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) note)”, meaning section 603 of Pub. L. 105–383, which was set out in a note under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), Conservation, prior to transfer to [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001).
+
+#### Amendments
+2018—Subsec. (c)(2). Pub. L. 115–232 substituted “([10 U.S.C. 8932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/a&num=0&edition=prelim))” for “([10 U.S.C. 7902(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7902/a&num=0&edition=prelim))”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Short Title
 Pub. L. 108–447, div. B, title IX, § 901, Dec. 8, 2004, 118 Stat. 2930, provided that: “This title [enacting this chapter] may be cited as the ‘Oceans and Human Health Act’.”

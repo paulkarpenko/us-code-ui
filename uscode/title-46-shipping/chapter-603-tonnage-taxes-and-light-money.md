@@ -109,7 +109,7 @@ The words “In addition to the tonnage-duty above imposed, there shall be paid 
 
   (B) the master if an owner does not reside at the port of entry.
 
-**(c) Exception for Vessels Becoming Documented.—** Subsection (a) section does not apply to a vessel that—
+**(c) Exception for Vessels Becoming Documented.—** Subsection (a) does not apply to a vessel that—
 
 (1) is owned only by citizens of the United States; and
 
@@ -129,6 +129,9 @@ In subsection (a), the word “tax” is substituted for “duty”, and the wor
 In subsection (b)(1), before subparagraph (A), the words “does not apply to” are substituted for “shall not be deemed to operate upon” to eliminate unnecessary words. The word “unregistered” is omitted as unnecessary. The word “only” is added for clarity and for consistency in the revised title. In subparagraph (A), the words “owned only by citizens of the United States” are substituted for “American property” for consistency. In subparagraph (B)(ii), the words “sold or” are omitted as unnecessary. The words “owned only by citizens of the United States” are substituted for “no foreign subject or citizen has . . . any share, by way of trust, confidence, or otherwise” to eliminate unnecessary words.
 
 In subsection (b)(2), subparagraph (A) is substituted for “if the same shall be at the port at which the owner or any of the part owners reside”, and subparagraph (B) is substituted for “If the owner or any part owner does not reside at the port or place at which such vessel shall enter, then the master shall make oath to the like effect”, to eliminate unnecessary words.
+
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “Subsection (a) does” for “Subsection (a) section does”.
 
 
 <a id="section-60304"></a>

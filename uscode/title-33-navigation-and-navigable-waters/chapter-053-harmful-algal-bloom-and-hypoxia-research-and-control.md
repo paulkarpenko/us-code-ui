@@ -2,7 +2,7 @@
 title: 33
 chapter: '53'
 heading: HARMFUL ALGAL BLOOM AND HYPOXIA RESEARCH AND CONTROL
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -32,9 +32,11 @@ source: >-
 
 (11) the Council on Environmental Quality;
 
-(12) the Centers for Disease Control and Prevention; and
+(12) the Centers for Disease Control and Prevention;
 
-(13) other Federal agencies as the President considers appropriate.
+(13) the Army Corps of Engineers; and
+
+(14) other Federal agencies as the President considers appropriate.
 
 **(b) Assessment of harmful algal blooms**
 
@@ -86,19 +88,7 @@ source: >-
 
   (C) other topics the Task Force considers appropriate.
 
-**(f) Scientific assessment of freshwater harmful algal blooms**
-
-(1) Not later than 24 months after December 10, 2004, the Task Force shall complete and submit to Congress a scientific assessment of current knowledge about harmful algal blooms in freshwater, such as the Great Lakes and upper reaches of estuaries, including a research plan for coordinating Federal efforts to better understand freshwater harmful algal blooms.
-
-(2) The freshwater harmful algal bloom scientific assessment shall—
-
-  (A) examine the causes and ecological consequences, and the economic costs, of harmful algal blooms with significant effects on freshwater, including estimations of the frequency and occurrence of significant events;
-
-  (B) establish priorities and guidelines for a competitive, peer-reviewed, merit-based interagency research program, as part of the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project, to better understand the causes, characteristics, and impacts of harmful algal blooms in freshwater locations; and
-
-  (C) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on harmful algal blooms in freshwater locations.
-
-**(g) Scientific assessments of hypoxia**
+**(f) Scientific assessments of hypoxia**
 
 (1) Not less than once every 5 years the Task Force shall complete and submit to the Congress a scientific assessment of hypoxia in United States coastal waters including the Great Lakes. The first such assessment shall be completed not less than 24 months after December 10, 2004.
 
@@ -112,21 +102,9 @@ source: >-
 
   (D) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on hypoxia.
 
-**(h) Scientific assessments of harmful algal blooms**
+**(g) Scientific assessments of marine and freshwater harmful algal blooms** Not less than once every 5 years the Task Force shall complete and submit to Congress a scientific assessment of harmful algal blooms in United States coastal waters and freshwater systems. Each assessment shall examine both marine and freshwater harmful algal blooms, including those in the Great Lakes and upper reaches of estuaries, those in freshwater lakes and rivers, and those that originate in freshwater lakes or rivers and migrate to coastal waters.
 
-(1) Not less than once every 5 years the Task Force shall complete and submit to Congress a scientific assessment of harmful algal blooms in United States coastal waters. The first such assessment shall be completed not later than 24 months after December 10, 2004, and shall consider only marine harmful algal blooms. All subsequent assessments shall examine both marine and freshwater harmful algal blooms, including those in the Great Lakes and upper reaches of estuaries.
-
-(2) The assessments under this subsection shall—
-
-  (A) examine the causes and ecological consequences, and economic costs, of harmful algal blooms;
-
-  (B) describe the potential ecological and economic costs and benefits of possible actions for preventing, controlling, and mitigating harmful algal blooms;
-
-  (C) evaluate progress made by, and the needs of, Federal research programs on the causes, characteristics, and impacts of harmful algal blooms; and
-
-  (D) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on harmful algal blooms.
-
-**(i) National scientific research, development, demonstration, and technology transfer plan on reducing impacts from harmful algal blooms**
+**(h) National scientific research, development, demonstration, and technology transfer plan on reducing impacts from harmful algal blooms**
 
 (1) Not later than 12 months after December 10, 2004, the Task Force shall develop and submit to Congress a plan providing for a comprehensive and coordinated national research program to develop and demonstrate prevention, control, and mitigation methods to reduce the impacts of harmful algal blooms on coastal ecosystems (including the Great Lakes), public health, and the economy.
 
@@ -140,7 +118,7 @@ source: >-
 
 (3) The Secretary of Commerce, in conjunction with other appropriate Federal agencies, shall establish a research, development, demonstration, and technology transfer program that meets the priorities and guidelines established under paragraph (2)(A). The Secretary shall ensure, through consultation with Sea Grant Programs, that the results and findings of the program are communicated to State, Indian tribe, and local governments, and to the general public.
 
-**(j) Report** Not later than 2 years after the date the Action Strategy is submitted under [section 4003 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4003), the Under Secretary shall submit a report to Congress that describes—
+**(i) Report** Not later than 2 years after the date the Action Strategy is submitted under [section 4003 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4003), the Under Secretary shall submit a report to Congress that describes—
 
 (1) the proceedings of the annual Task Force meetings;
 
@@ -161,6 +139,14 @@ This Act, referred to in subsec. (d)(1), probably means title I of Pub. L. 108�
 Section was formerly set out in a note under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), Conservation.
 
 #### Amendments
+2019—Subsec. (a)(13), (14). Pub. L. 115–423, § 9(c), added par. (13) and redesignated former par. (13) as (14).
+
+Subsec. (f). Pub. L. 115–423, § 9(d)(1), (2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to scientific assessment of freshwater harmful algal blooms.
+
+Subsec. (g). Pub. L. 115–423, § 9(d)(2), (3), redesignated subsec. (h) as (g) and amended subsec. (g) generally. Prior to amendment, subsec. (g) related to scientific assessments of hypoxia. Former subsec. (g) redesignated (f).
+
+Subsecs. (h) to (j). Pub. L. 115–423, § 9(d)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively. Former subsec. (h) redesignated (g).
+
 2014—Subsec. (a). Pub. L. 113–124, § 10(b), struck out “(hereinafter referred to as the ‘Task Force’)” after “Hypoxia” in introductory provisions.
 
 Pub. L. 113–124, § 3(1), substituted “a representative from” for “the following representatives from” in introductory provisions.
@@ -179,6 +165,9 @@ Pub. L. 108–456, § 102, struck out subsec. (e) which provided that the Presid
 
 Subsecs. (f) to (i). Pub. L. 108–456, § 104, added subsecs. (f) to (i).
 
+#### Short Title of 2019 Amendment
+Pub. L. 115–423, § 9(a), Jan. 7, 2019, 132 Stat. 5462, provided that: “This section [enacting [section 4010 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4010), and amending this section and sections 4001a, 4002, and 4009 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–124, § 1, June 30, 2014, 128 Stat. 1379, provided that: “This Act [enacting sections 4002, 4003, and 4007 to 4009 of this title and amending this section and sections 4004 and 4005 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2014’.”
 
@@ -195,12 +184,12 @@ Pub. L. 105–383, title VI, § 602, Nov. 13, 1998, 112 Stat. 3447, provided tha
 <a id="section-4001a"></a>
 ## § 4001a. Consultation required
 
-In developing the assessments, reports, and plans under the amendments made by this title,11 See References in Text note below. the Task Force shall consult with the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management.
+In developing the assessments, reports, and plans under the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 the Task Force shall consult with the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management.
 
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, means title I of Pub. L. 108–456, Dec. 10, 2004, 118 Stat. 3630, known as the Harmful Algal Bloom and Hypoxia Amendments Act of 2004, which enacted this section, amended sections 4001 and 4005 of this title, and enacted provisions set out as a note under [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001). For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001) and Tables.
+The Harmful Algal Bloom and Hypoxia Research and Control Act of 1998, referred to in text, is title VI of Pub. L. 105–383, Nov. 13, 1998, 112 Stat. 3447, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note under [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001) and Tables.
 
 #### Codification
 Section is comprised of part of section 102 of Pub. L. 108–456. Remainder of section 102 amended [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001).
@@ -208,6 +197,9 @@ Section is comprised of part of section 102 of Pub. L. 108–456. Remainder of s
 Section was enacted as part of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004, and not as part of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 which comprises this chapter.
 
 Section was formerly set out as a note under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), Conservation.
+
+#### Amendments
+2019—Pub. L. 115–423 substituted “the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998” for “the amendments made by this title”.
 
 
 <a id="section-4002"></a>
@@ -240,7 +232,7 @@ Section was formerly set out as a note under [section 1451 of Title 16](https://
 
 **(e) Program duties** In administering the Program, the Under Secretary shall—
 
-(1) promote the Program;
+(1) promote the Program, including to local and regional stakeholders through the establishment and maintenance of a publicly accessible Internet website that provides information as to Program activities completed under this section;
 
 (2) prepare work and spending plans for implementing the research and activities identified under the Action Strategy;
 
@@ -248,17 +240,19 @@ Section was formerly set out as a note under [section 1451 of Title 16](https://
 
   (A) to maintain and enhance baseline monitoring programs established by the Program;
 
-  (B) to support the projects maintained and established by the Program; and
+  (B) to support the projects maintained and established by the Program;
 
-  (C) to address the research and management needs and priorities identified in the Action Strategy;
+  (C) to address the research and management needs and priorities identified in the Action Strategy; and
 
-(4) coordinate with and work cooperatively with regional, State, tribal, and local government agencies and programs that address marine and freshwater harmful algal blooms and hypoxia;
+  (D) to accelerate the utilization of effective methods of intervention and mitigation to reduce the frequency, severity, and impacts of harmful algal bloom and hypoxia events;
+
+(4) coordinate with, and work cooperatively to provide technical assistance to, regional, State, tribal, and local government agencies and programs that address marine and freshwater harmful algal blooms and hypoxia;
 
 (5) coordinate with the Secretary of State to support international efforts on marine and freshwater harmful algal bloom and hypoxia information sharing, research, prediction, mitigation, control, and response activities;
 
 (6) identify additional research, development, and demonstration needs and priorities relating to monitoring, prevention, control, mitigation, and response to marine and freshwater harmful algal blooms and hypoxia, including methods and technologies to protect the ecosystems affected by marine and freshwater harmful algal blooms and hypoxia;
 
-(7) integrate, coordinate, and augment existing education programs to improve public understanding and awareness of the causes, impacts, and mitigation efforts for marine and freshwater harmful algal blooms and hypoxia;
+(7) integrate, coordinate, and augment existing education and extension programs to improve public understanding and awareness of the causes, impacts, intervention, and mitigation efforts for marine and freshwater harmful algal blooms and hypoxia;
 
 (8) facilitate and provide resources to train State and local coastal and water resource managers in the methods and technologies for monitoring, preventing, controlling, and mitigating marine and freshwater harmful algal blooms and hypoxia;
 
@@ -278,11 +272,11 @@ Section was formerly set out as a note under [section 1451 of Title 16](https://
 
 (2) carry out marine and Great Lakes harmful algal bloom and hypoxia events response activities;
 
-(3) develop and enhance, including with respect to infrastructure as necessary, critical observations, monitoring, modeling, data management, information dissemination, and operational forecasts relevant to harmful algal blooms and hypoxia events;
+(3) develop and enhance, including with respect to infrastructure, which shall include unmanned systems, as necessary, critical observations, monitoring, modeling, data management, information dissemination, and operational forecasts relevant to harmful algal blooms and hypoxia events;
 
 (4) enhance communication and coordination among Federal agencies carrying out marine and freshwater harmful algal bloom and hypoxia activities and research;
 
-(5) to the greatest extent practicable, leverage existing resources and expertise available from local research universities and institutions; and
+(5) to the greatest extent practicable, leverage existing resources and expertise available from local research universities and institutions;
 
 (6) increase the availability to appropriate public and private entities of—
 
@@ -290,7 +284,11 @@ Section was formerly set out as a note under [section 1451 of Title 16](https://
 
   (B) operational forecasts; and
 
-  (C) reference and research materials.
+  (C) reference and research materials;
+
+(7) use cost effective methods in carrying out this Act; and
+
+(8) develop contingency plans for the long-term monitoring of hypoxia.
 
 **(g) Cooperative efforts** The Under Secretary shall work cooperatively and avoid duplication of effort with other offices, centers, and programs within the National Oceanic and Atmospheric Administration, other agencies on the Task Force, and States, tribes, and nongovernmental organizations concerned with marine and freshwater issues to coordinate harmful algal bloom and hypoxia (and related) activities and research.
 
@@ -310,6 +308,19 @@ Section was formerly set out as a note under [section 1451 of Title 16](https://
 
 #### References in Text
 The Integrated Coastal and Ocean Observation System Act of 2009, referred to in subsec. (i), is subtitle C (§ 12301 et seq.) of title XII of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1427, which is classified generally to chapter 49 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-049-integrated-coastal-and-ocean-observation-system.md#section-3601) and Tables.
+
+#### Amendments
+2019—Subsec. (e)(1). Pub. L. 115–423, § 9(e)(1)(A), inserted “, including to local and regional stakeholders through the establishment and maintenance of a publicly accessible Internet website that provides information as to Program activities completed under this section” after “Program”.
+
+Subsec. (e)(3)(D). Pub. L. 115–423, § 9(e)(1)(B), added subpar. (D).
+
+Subsec. (e)(4). Pub. L. 115–423, § 9(e)(1)(C), substituted “, and work cooperatively to provide technical assistance to,” for “and work cooperatively with”.
+
+Subsec. (e)(7). Pub. L. 115–423, § 9(e)(1)(D), inserted “and extension” after “existing education” and “intervention,” after “awareness of the causes, impacts,”.
+
+Subsec. (f)(3). Pub. L. 115–423, § 9(e)(2)(A), inserted “, which shall include unmanned systems,” after “infrastructure”.
+
+Subsec. (f)(7), (8). Pub. L. 115–423, § 9(e)(2)(B)–(D), added pars. (7) and (8).
 
 
 <a id="section-4003"></a>
@@ -537,6 +548,45 @@ In this chapter:
 
 <a id="section-4009"></a>
 ## § 4009. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Under Secretary to carry out sections 4002 and 4003 of this title $20,500,000 for each of fiscal years 2014 through 2018.
+**(a) In general** There is authorized to be appropriated to the Under Secretary to carry out sections 4002 and 4003 of this title $20,500,000 for each of fiscal years 2014 through 2018, and $20,500,000 for each of fiscal years 2019 through 2023.
 
 **(b) Extramural research activities** The Under Secretary shall ensure that a substantial portion of funds appropriated pursuant to subsection (a) that are used for research purposes are allocated to extramural research activities. For each fiscal year, the Under Secretary shall publish a list of all grant recipients and the amounts for all of the funds allocated for research purposes, specifying those allocated for extramural research activities.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a). Pub. L. 115–423 inserted “, and $20,500,000 for each of fiscal years 2019 through 2023” before period at end.
+
+
+<a id="section-4010"></a>
+## § 4010. Hypoxia or harmful algal bloom of national significance
+(1) **Relief**
+
+  (A) *In general* — Upon a determination under paragraph (2) that there is an event of national significance, the appropriate Federal official is authorized to make sums available to the affected State or local government for the purposes of assessing and mitigating the detrimental environmental, economic, subsistence use, and public health effects of the event of national significance.
+
+  (B) *Federal share* — The Federal share of the cost of any activity carried out under this paragraph for the purposes described in subparagraph (A) may not exceed 50 percent of the cost of that activity.
+
+  (C) *Donations* — Notwithstanding any other provision of law, an appropriate Federal official may accept donations of funds, services, facilities, materials, or equipment that the appropriate Federal official considers necessary for the purposes described in subparagraph (A). Any funds donated to an appropriate Federal official under this paragraph may be expended without further appropriation and without fiscal year limitation.
+
+(2) **Determinations**
+
+  (A) *In general* — At the discretion of an appropriate Federal official, or at the request of the Governor of an affected State, an appropriate Federal official shall determine whether a hypoxia or harmful algal bloom event is an event of national significance.
+
+  (B) *Considerations* — In making a determination under subparagraph (A), the appropriate Federal official shall consider the toxicity of the harmful algal bloom, the severity of the hypoxia, its potential to spread, the economic impact, the relative size in relation to the past 5 occurrences of harmful algal blooms or hypoxia events that occur on a recurrent or annual basis, and the geographic scope, including the potential to affect several municipalities, to affect more than 1 State, or to cross an international boundary.
+
+(3) **Definitions** — In this subsection:
+
+  (A) *Appropriate federal official* — The term “appropriate Federal official” means—
+
+    (i) in the case of a marine or coastal hypoxia or harmful algal bloom event, the Under Secretary of Commerce for Oceans and Atmosphere; and
+
+    (ii) in the case of a freshwater hypoxia or harmful algal bloom event, the Administrator of the Environmental Protection Agency.
+
+  (B) *Event of national significance* — The term “event of national significance” means a hypoxia or harmful algal bloom event that has had or will likely have a significant detrimental environmental, economic, subsistence use, or public health impact on an affected State.
+
+  (C) *Hypoxia or harmful algal bloom event* — The term “hypoxia or harmful algal bloom event” means the occurrence of hypoxia or a harmful algal bloom as a result of a natural, anthropogenic, or undetermined cause.
+
+### Statutory Notes
+
+#### Codification
+This section was enacted as part of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017 and also as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 which comprises this chapter.

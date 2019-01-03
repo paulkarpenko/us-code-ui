@@ -271,7 +271,7 @@ Sec. 3. Administration.
 
 Sec. 4. Definitions. As used in this order:
 
-(a) the term “State” has the meaning provided in paragraph (15) of section 2 of the Homeland Security Act of 2002 ([6 U.S.C. 101(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101/15&num=0&edition=prelim)); and
+(a) the term “State” has the meaning provided in paragraph (15) [now (17)] of section 2 of the Homeland Security Act of 2002 ([6 U.S.C. 101(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101/15&num=0&edition=prelim) [now 101(17)]); and
 
 (b) the term “Governor” has the meaning provided in paragraph (5) of section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122/5&num=0&edition=prelim)).
 
@@ -746,7 +746,7 @@ Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended b
 
 (1) Except as provided in paragraph (2), financial assistance may be provided for the performance of an activity by the Army National Guard under subsection (a) only if—
 
-  (A) the activity is carried out in the performance of a responsibility of the Secretary of the Army under paragraph (6), (10), or (11) of [section 3013(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3013/b&num=0&edition=prelim); and
+  (A) the activity is carried out in the performance of a responsibility of the Secretary of the Army under paragraph (6), (10), or (11) of [section 7013(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7013/b&num=0&edition=prelim); and
 
   (B) the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers, subject to the exceptions provided in [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim).
 
@@ -759,11 +759,16 @@ Pub. L. 109–469, title IX, § 901, Dec. 29, 2006, 120 Stat. 3536, as amended b
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1)(A). Pub. L. 115–232 substituted “[section 7013(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7013/b&num=0&edition=prelim)” for “[section 3013(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3013/b&num=0&edition=prelim)”.
+
 2004—Subsec. (b)(1)(B). Pub. L. 108–375 inserted before period at end “, subject to the exceptions provided in [section 2304(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c&num=0&edition=prelim)”.
 
 1999—Subsec. (b)(2). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this subsection”.
 
 1998—Subsec. (b). Pub. L. 105–261 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Activities supported under this section may include only those activities that are carried out by the Army National Guard in the performance of responsibilities of the Secretary of the Army under paragraphs (6), (10), and (11) of [section 3013(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3013/b&num=0&edition=prelim).”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–261, div. A, title III, § 375(b), Oct. 17, 1998, 112 Stat. 1993, provided that: “Subsection (b)(1)(B) of [section 113 of title 32](./chapter-001-organization.md#section-113), United States Code (as added by subsection (a) of this section), does not apply to— “(1) financial assistance provided under that section before October 1, 1998; or “(2) financial assistance for an activity that, before May 9, 1998, the Secretary of the Army identified in writing as being under consideration for supporting with financial assistance under that section.”

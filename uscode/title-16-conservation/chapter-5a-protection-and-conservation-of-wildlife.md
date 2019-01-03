@@ -121,7 +121,7 @@ See Transfer of Functions note set out under [section 661 of this title](./chapt
 ### Statutory Notes
 
 #### References in Text
-Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+Act of March 1, 1911, referred to in subsec. (f), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Amendments
 1958—Subsec. (a). Pub. L. 85–624 designated first sentence of existing provisions as subsec. (a), and, among other changes, inserted “Subject to the exceptions prescribed in [section 662(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section662/h&num=0&edition=prelim)” before “whenever the waters”, substituted “diverted, the channel deepened, or the stream or other body of water otherwise controlled or modified for any purpose whatever, including navigation and drainage” for “diverted, or otherwise controlled for any purpose whatever”, and inserted provisions requiring adequate provision to be made for the development and improvement of wildlife resources pursuant to the provisions of [section 662 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-662).
@@ -891,7 +891,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(1), Dec. 2, 1980, 94 Stat. 2385; Pub. L. 111–11, title VI, §§ 6401–6406, Mar. 30, 2009, 123 Stat. 1177–1182. |
 | Amagansett National Wildlife Refuge, New York.—Pub. L. 104–148, § 1, May 24, 1996, 110 Stat. 1378. |
 | Aransas National Wildlife Refuge, Myrtle Foester Whitmire Division, Texas.—Pub. L. 102–226, § 1, Dec. 11, 1991, 105 Stat. 1685. |
-| Arctic National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(2), Dec. 2, 1980, 94 Stat. 2390. |
+| Arctic National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, § 303(2), Dec. 2, 1980, 94 Stat. 2390; Pub. L. 115–97, title II, § 20001(b)(2)(B), Dec. 22, 2017, 131 Stat. 2236. |
 | Arthur R. Marshall Loxahatchee National Wildlife Refuge, Florida.—Pub. L. 99–615, Nov. 6, 1986, 100 Stat. 3484. |
 | Atchafalaya National Wildlife Refuge, Louisiana.—Pub. L. 98–548, title III, Oct. 26, 1984, 98 Stat. 2776; Pub. L. 99–625, § 2, Nov. 7, 1986, 100 Stat. 3502. |
 | Baca National Wildlife Refuge, Colorado.—Pub. L. 106–530, § 6, Nov. 22, 2000, 114 Stat. 2530. |
@@ -942,6 +942,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Midway Atoll National Wildlife Refuge, Midway Islands.—Ex. Ord. No. 13022, § 3(a), Oct. 31, 1996, 61 F.R. 56875; Pub. L. 107–206, title I, § 703, Aug. 2, 2002, 116 Stat. 864. |
 | Minnesota Valley National Wildlife Refuge, Minnesota.—Pub. L. 94–466, Oct. 8, 1976, 90 Stat. 1992. |
 | Mountain Longleaf National Wildlife Refuge, Alabama.—Pub. L. 107–314, div. B, title XXVIII, § 2821, Dec. 2, 2002, 116 Stat. 2710. |
+| Nathaniel P. Reed Hobe Sound National Wildlife Refuge (former Hobe Sound National Wildlife Refuge), Florida.—Pub. L. 115–282, title VIII, § 837, Dec. 4, 2018, 132 Stat. 4321; Pub. L. 115–432, Jan. 10, 2019, 132 Stat. 5522. |
 | Neal Smith National Wildlife Refuge, Iowa.—Pub. L. 105–83, title III, § 341, Nov. 14, 1997, 111 Stat. 1604. |
 | Ninigret National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(g), (i), June 9, 1998, 112 Stat. 206, 207; Pub. L. 105–206, title IX, § 9006(d), July 22, 1998, 112 Stat. 849. |
 | Nisqually National Wildlife Refuge, Washington (see Billy Frank Jr. Nisqually National Wildlife Refuge). |
@@ -950,7 +951,6 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Oahu National Wildlife Refuge Complex, Hawaii.—Pub. L. 104–209, § 1, Oct. 1, 1996, 110 Stat. 3010. |
 | Ottawa National Wildlife Refuge Complex, Ohio.—Pub. L. 108–23, May 19, 2003, 117 Stat. 704. |
 | Oxbow National Wildlife Refuge, Massachusetts.—Pub. L. 103–337, div. B, title XXVIII, § 2846, Oct. 5, 1994, 108 Stat. 3071; Pub. L. 104–106, div. B, title XXVIII, § 2853, Feb. 10, 1996, 110 Stat. 567. |
-| Pettaquamscutt Cove National Wildlife Refuge, Rhode Island (see John H. Chafee National Wildlife Refuge). |
 | Pocosin Lakes National Wildlife Refuge, North Carolina.—Pub. L. 103–232, title III, Apr. 11, 1994, 108 Stat. 339. |
 | Protection Island National Wildlife Refuge, Washington.—Pub. L. 97–333, Oct. 15, 1982, 96 Stat. 1623. |
 | Quillayute Needles National Wildlife Refuge, Washington.—Ex. Ord. No. 705, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, § 3, Dec. 31, 1987, 101 Stat. 1550. |

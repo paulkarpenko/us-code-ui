@@ -2,14 +2,14 @@
 title: 33
 chapter: '15'
 heading: FLOOD CONTROL
-section_count: 96
+section_count: 99
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-701"></a>
 ## § 701. Flood control generally
 
-Laws applicable to works of improvement relating to flood control—All the provisions of existing law relating to examinations and surveys and to works of improvement of rivers and harbors shall apply, so far as applicable to examinations and surveys and to works of improvement relating to flood control. And all expenditures of funds appropriated for works and projects relating to flood control shall be made in accordance with and subject to the law governing the disbursement and expenditure of funds appropriated for the improvement of rivers and harbors.
+[Laws applicable to works of improvement relating to flood control.] All the provisions of existing law relating to examinations and surveys and to works of improvement of rivers and harbors shall apply, so far as applicable to examinations and surveys and to works of improvement relating to flood control. And all expenditures of funds appropriated for works and projects relating to flood control shall be made in accordance with and subject to the law governing the disbursement and expenditure of funds appropriated for the improvement of rivers and harbors.
 
 ### Statutory Notes
 
@@ -590,7 +590,7 @@ Amendment by Pub. L. 99–662 not applicable to any project under contract for c
 <a id="section-701h"></a>
 ## § 701h. Contributions by States, political subdivisions, and other non-Federal interests
 
-The Secretary of the Army is authorized to receive from States and political subdivisions thereof and other non-Federal interests, such funds as may be contributed by them for work, which includes planning and design, to be expended in connection with funds appropriated by the United States for any authorized water resources development study or project, including a project for navigation on the inland waterways, whenever such work and expenditure may be considered by the Secretary of the Army, on recommendation of the Chief of Engineers, as advantageous in the public interest, and the plans for any reservoir project may, in the discretion of the Secretary of the Army, on recommendation of the Chief of Engineers, be modified to provide additional storage capacity for domestic water supply or other conservation storage, on condition that the cost of such increased storage capacity is contributed by local agencies and that the local agencies agree to utilize such additional storage capacity in a manner consistent with Federal uses and purposes: Provided, That the Secretary is authorized to receive and expend funds from a State or a political subdivision thereof, and other non-Federal interests or private entities, to operate a hurricane barrier project to support recreational activities at or in the vicinity of the project, at no cost to the Federal Government, if the Secretary determines that operation for such purpose is not inconsistent with the operation and maintenance of the project for the authorized purposes of the project: Provided further, That when contributions made by States and political subdivisions thereof and other non-Federal interests, are in excess of the actual cost of the work contemplated and properly chargeable to such contributions, such excess contributions may, with the approval of the Secretary of the Army, be returned to the proper representatives of the contributing interests: Provided further, That the term “States” means the several States, the District of Columbia, the commonwealths, territories, and possessions of the United States, and Federally recognized Indian tribes: Provided further, That the term “non-Federal interest” has the meaning given that term in [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim).
+The Secretary of the Army is authorized to receive from States and political subdivisions thereof and other non-Federal interests, such funds as may be contributed by them for work, which includes planning and design, to be expended in connection with funds appropriated by the United States for any authorized water resources development study or project, including a project for navigation on the inland waterways, whenever such work and expenditure may be considered by the Secretary of the Army, on recommendation of the Chief of Engineers, as advantageous in the public interest, and the plans for any reservoir project may, in the discretion of the Secretary of the Army, on recommendation of the Chief of Engineers, be modified to provide additional storage capacity for domestic water supply or other conservation storage, on condition that the cost of such increased storage capacity is contributed by local agencies and that the local agencies agree to utilize such additional storage capacity in a manner consistent with Federal uses and purposes: Provided, That the Secretary is authorized to receive and expend funds from a State or a political subdivision thereof, and other non-Federal interests or private entities, to operate a hurricane barrier project to support recreational activities at or in the vicinity of the project, at no cost to the Federal Government, if the Secretary determines that operation for such purpose is not inconsistent with the operation and maintenance of the project for the authorized purposes of the project: Provided further, That the Secretary is authorized to receive and expend funds from an owner of a non-Federal reservoir to formulate, review, or revise operational documents for any non-Federal reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to [section 709 of this title](./chapter-015-flood-control.md#section-709): Provided further, That when contributions made by States and political subdivisions thereof and other non-Federal interests, are in excess of the actual cost of the work contemplated and properly chargeable to such contributions, such excess contributions may, with the approval of the Secretary of the Army, be returned to the proper representatives of the contributing interests: Provided further, That the term “States” means the several States, the District of Columbia, the commonwealths, territories, and possessions of the United States, and Federally recognized Indian tribes: Provided further, That the term “non-Federal interest” has the meaning given that term in [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -598,6 +598,8 @@ The Secretary of the Army is authorized to receive from States and political sub
 When originally enacted, section 5 of act June 22, 1936, which consisted of a paragraph (including a proviso) authorizing works of improvement followed by numerous headings and paragraphs describing those authorized works, was not classified to the Code. Act July 19, 1937, amended section 5 of act June 22, 1936, by inserting two additional provisos at the end of the first paragraph. The provisos inserted by the 1937 Act, as amended, form the sole basis for the text appearing in this section, with minor editorial changes to the introductory language of the provisos. Subsequent amendments to section 5 of act June 22, 1936, have generally been directed to the text of section 5 as it has appeared in the Code and have not taken into account the portion of that section that has never been set out. Those amendments have been executed as directed, to reflect the probable intent of Congress, and amendment notes below reflect such execution without further comment.
 
 #### Amendments
+2018—Pub. L. 115–270 inserted “Provided further, That the Secretary is authorized to receive and expend funds from an owner of a non-Federal reservoir to formulate, review, or revise operational documents for any non-Federal reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to [section 709 of this title](./chapter-015-flood-control.md#section-709):” after “authorized purposes of the project:”.
+
 2014—Pub. L. 113–121, § 1015(a)(4), substituted “: Provided further, That the term ‘non-Federal interest’ has the meaning given that term in [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim).” for period at end.
 
 Pub. L. 113–121, § 1015(a)(3), substituted “Provided, That the Secretary is authorized to receive and expend funds from a State or a political subdivision thereof, and other non-Federal interests or private entities, to operate a hurricane barrier project to support recreational activities at or in the vicinity of the project, at no cost to the Federal Government, if the Secretary determines that operation for such purpose is not inconsistent with the operation and maintenance of the project for the authorized purposes of the project: Provided further, That when” for “Provided, That when”.
@@ -620,12 +622,30 @@ Pub. L. 113–121, title I, § 1015(b), June 10, 2014, 128 Stat. 1223, provided 
 <a id="section-701h-1"></a>
 ## § 701h–1. Contributions by States and political subdivisions for immediate use on authorized flood-control work; repayment
 
-Whenever any State or political subdivision thereof shall offer to advance funds for a flood-control project duly adopted and authorized by law the Secretary of the Army may in his discretion, receive such funds and expend the same in the immediate prosecution of such work. The Secretary of the Army is authorized and directed to repay without interest, from appropriations which may be provided by Congress for flood-control work, the moneys so contributed and expended: Provided, however, That no repayment of funds which may be contributed for the purpose of meeting any conditions of local cooperation imposed by Congress, or under the authority of [section 701h of this title](./chapter-015-flood-control.md#section-701h), shall be made.
+Whenever any State or political subdivision thereof shall offer to advance funds for a federally authorized water resources development project, the Secretary of the Army may in his discretion, receive such funds and expend the same in the immediate prosecution of such project. The Secretary of the Army is authorized and directed to repay without interest, if appropriations are provided by Congress for such purpose, the moneys so contributed and expended: Provided, however, That no repayment of funds which may be contributed for the purpose of meeting any conditions of local cooperation imposed by Congress, or under the authority of [section 701h of this title](./chapter-015-flood-control.md#section-701h), shall be made. For purposes of this section, the term “State” means the several States, the District of Columbia, the commonwealths, territories, and possessions of the United States, and Indian tribes (as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)).
 
 ### Statutory Notes
 
+#### Amendments
+2018—Pub. L. 115–270 substituted “a federally authorized water resources development project,” for “a flood-control project duly adopted and authorized by law”, “such project” for “such work”, and “if appropriations are provided by Congress for such purpose” for “from appropriations which may be provided by Congress for flood-control work” and inserted at end “For purposes of this Act, the term ‘State’ means the several States, the District of Columbia, the commonwealths, territories, and possessions of the United States, and Indian tribes (as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)).”
+
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+
+<a id="section-701h-2"></a>
+## § 701h–2. No adverse effect on processes
+
+In implementing any provision of law that authorizes a non-Federal interest to provide, advance, or contribute funds to the Secretary for the development or implementation of a water resources development project (including sections 2231 and 2232 of this title, [section 701h of this title](./chapter-015-flood-control.md#section-701h), and [section 701h–1 of this title](./chapter-015-flood-control.md#section-701h-1)), the Secretary shall ensure, to the maximum extent practicable, that the use by a non-Federal interest of such authorities does not adversely affect—
+
+(1) the process or timeline for development and implementation of other water resources development projects by other non-Federal entities that do not use such authorities; or
+
+(2) the process for including such projects in the President’s annual budget submission to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
 <a id="section-701i"></a>
@@ -690,17 +710,35 @@ In any case where the total authorization for a project heretofore or hereafter 
 ## § 701n. Emergency response to natural disasters
 **(a) Emergency fund**
 
-(1) There is authorized an emergency fund to be expended in preparation for emergency response to any natural disaster, in flood fighting and rescue operations, or in the repair or restoration of any flood control work threatened or destroyed by flood, including the strengthening, raising, extending, or other modification thereof as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the work for flood control and subject to the condition that the Chief of Engineers may include modifications to the structure or project, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor; in the emergency protection of federally authorized hurricane or shore protection being threatened when in the discretion of the Chief of Engineers such protection is warranted to protect against imminent and substantial loss to life and property; in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor. The emergency fund may also be expended for emergency dredging for restoration of authorized project depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters. In any case in which the Chief of Engineers is otherwise performing work under this section in an area for which the Governor of the affected State has requested a determination that an emergency exists or a declaration that a major disaster exists under the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.], the Chief of Engineers is further authorized to perform on public and private lands and waters for a period of ten days following the Governor’s request any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, including, but not limited to, channel clearance, emergency shore protection, clearance and removal of debris and wreckage endangering public health and safety, and temporary restoration of essential public facilities and services. The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean water, on such terms as he determines to be advisable, to any locality which he finds is confronted with a source of contaminated water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality. The appropriation of such moneys for the initial establishment of this fund and for its replenishment on an annual basis, is authorized: Provided, That pending the appropriation of sums to such emergency fund, the Secretary of the Army may allot, from existing flood-control appropriations, such sums as may be necessary for the immediate prosecution of the work herein authorized, such appropriations to be reimbursed from the appropriation herein authorized when made. The Chief of Engineers is authorized, in the prosecution of work in connection with rescue operations, or in conducting other flood emergency work, to acquire on a rental basis such motor vehicles, including passenger cars and buses, as in his discretion are deemed necessary.
+(1) There is authorized an emergency fund to be expended in preparation for emergency response to any natural disaster, in flood fighting and rescue operations, or in the repair or restoration of any flood control work threatened or destroyed by flood, including the strengthening, raising, extending, realigning, or other modification thereof as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the work for flood control and subject to the condition that the Chief of Engineers may include modifications to the structure or project, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor; in the emergency protection of federally authorized hurricane or shore protection being threatened when in the discretion of the Chief of Engineers such protection is warranted to protect against imminent and substantial loss to life and property; in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to either the pre-storm level or the design level of protection, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor. The emergency fund may also be expended for emergency dredging for restoration of authorized project depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters. In any case in which the Chief of Engineers is otherwise performing work under this section in an area for which the Governor of the affected State has requested a determination that an emergency exists or a declaration that a major disaster exists under the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.], the Chief of Engineers is further authorized to perform on public and private lands and waters for a period of ten days following the Governor’s request any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, including, but not limited to, channel clearance, emergency shore protection, clearance and removal of debris and wreckage endangering public health and safety, and temporary restoration of essential public facilities and services. The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean water, on such terms as he determines to be advisable, to any locality which he finds is confronted with a source of contaminated water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality. The appropriation of such moneys for the initial establishment of this fund and for its replenishment on an annual basis, is authorized: Provided, That pending the appropriation of sums to such emergency fund, the Secretary of the Army may allot, from existing flood-control appropriations, such sums as may be necessary for the immediate prosecution of the work herein authorized, such appropriations to be reimbursed from the appropriation herein authorized when made. The Chief of Engineers is authorized, in the prosecution of work in connection with rescue operations, or in conducting other flood emergency work, to acquire on a rental basis such motor vehicles, including passenger cars and buses, as in his discretion are deemed necessary.
 
-(2) In preparing a cost and benefit feasibility assessment for any emergency project described in paragraph (1), the Chief of Engineers shall consider the benefits to be gained by such project for the protection of—
+(2) **Cost and benefit feasibility assessment.—**
 
-  (A) residential establishments;
+  (A) *Consideration of benefits.—* — In preparing a cost and benefit feasibility assessment for any emergency project described in paragraph (1), the Chief of Engineers shall consider the benefits to be gained by such project for the protection of—
 
-  (B) commercial establishments, including the protection of inventory; and
+    (i) residential establishments;
 
-  (C) agricultural establishments, including the protection of crops.
+    (ii) commercial establishments, including the protection of inventory; and
 
-(3) **Nonstructural alternatives defined.—** — In this subsection, the term “nonstructural alternatives” includes efforts to restore or protect natural resources, including streams, rivers, floodplains, wetlands, or coasts, if those efforts will reduce flood risk.
+    (iii) agricultural establishments, including the protection of crops.
+
+  (B) *Special conditions.—*
+
+    (i) *Authority to carry out work.—* — The Chief of Engineers may carry out repair or restoration work described in paragraph (1) that does not produce benefits greater than the cost if—
+
+      (I) the non-Federal sponsor agrees to pay an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and
+
+      (II) the Secretary determines that—
+
+        (aa) the damage to the structure was not a result of negligent operation or maintenance; and
+
+        (bb) repair of the project could benefit another Corps project.
+
+    (ii) *Treatment of payments.—* — Non-Federal payments pursuant to clause (i) shall be in addition to any non-Federal payments required by the Chief of Engineers that are applicable to the remaining costs of the repair or restoration work.
+
+(3) **Extended assistance.—** — Upon request by a locality receiving assistance under the fourth sentence of paragraph (1), the Secretary shall, subject to the availability of appropriations, enter into an agreement with the locality to provide such assistance beyond the time period otherwise provided for by the Secretary under such sentence.
+
+(4) **Nonstructural alternatives defined.—** — In this subsection, the term “nonstructural alternatives” includes efforts to restore or protect natural resources, including streams, rivers, floodplains, wetlands, or coasts, if those efforts will reduce flood risk.
 
 **(b) Emergency supplies of drinking water; drought; well construction and water transportation**
 
@@ -770,6 +808,18 @@ In any case where the total authorization for a project heretofore or hereafter 
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–270, § 1160, in first sentence, substituted “strengthening, raising, extending, realigning, or other modification thereof” for “strengthening, raising, extending, or other modification thereof” and “structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to either the pre-storm level or the design level of protection, whichever provides greater protection, when, in the discretion of the Chief of Engineers,” for “structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers,”.
+
+Subsec. (a)(2). Pub. L. 115–270, § 1161(a), added par. (2) and struck out former par. (2) which read as follows: “In preparing a cost and benefit feasibility assessment for any emergency project described in paragraph (1), the Chief of Engineers shall consider the benefits to be gained by such project for the protection of—
+
+“(A) residential establishments;
+
+“(B) commercial establishments, including the protection of inventory; and
+
+“(C) agricultural establishments, including the protection of crops.”
+
+Subsec. (a)(3), (4). Pub. L. 115–270, § 1162, added par. (3) and redesignated former par. (3) as (4).
+
 2016—Subsec. (a)(3). Pub. L. 114–322, § 1176(1), added par. (3).
 
 Subsecs. (d), (e). Pub. L. 114–322, § 1176(2), added subsecs. (d) and (e).
@@ -808,6 +858,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
+#### Continued Eligibility
+Pub. L. 115–270, title I, § 1161(b), Oct. 23, 2018, 132 Stat. 3796, provided that: “Notwithstanding a non-Federal flood control work’s status in the Rehabilitation and Inspection Program carried out pursuant to section 5 of the Act of August 18, 1941 ([33 U.S.C. 701n](./chapter-015-flood-control.md#section-701n)), any unconstructed emergency project for the non-Federal flood control work that was formulated during the three fiscal years preceding the fiscal year in which this Act was enacted [Oct. 23, 2018] but that was determined to not produce benefits greater than costs shall remain eligible for assistance under such section 5 until the last day of the third fiscal year following the fiscal year in which this Act was enacted if— “(1) the non-Federal sponsor agrees, in accordance with such section 5, as amended by this Act, to pay an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and “(2) the Secretary determines that—“(A) the damage to the structure was not as a result of negligent operation or maintenance; and “(B) repair of the project could benefit another Corps project.”
+
 #### Systemwide Improvement Framework
 Pub. L. 113–121, title III, § 3011, June 10, 2014, 128 Stat. 1284, provided that: “A levee system shall remain eligible for rehabilitation assistance under the authority provided by section 5 of the Act of August 18, 1941 ([33 U.S.C. 701n](./chapter-015-flood-control.md#section-701n)) as long as the levee system sponsor continues to make satisfactory progress, as determined by the Secretary [of the Army], on an approved systemwide improvement framework or letter of intent.”
 
@@ -831,6 +884,17 @@ Pub. L. 104–303, title II, § 202(g), Oct. 12, 1996, 110 Stat. 3676, provided 
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-701n-2"></a>
+## § 701n–2. Monthly report to Congress
+
+In fiscal year 2018, and each fiscal year thereafter, the Chief of Engineers of the U.S. Army Corps of Engineers shall transmit to the Congress, after reasonable opportunity for comment, but without change, by the Assistant Secretary of the Army for Civil Works, a monthly report, the first of which shall be transmitted to Congress not later than 2 days after the date of enactment of this subdivision [subdiv. 1 of div. B of Pub. L. 115–123] and monthly thereafter, which includes detailed estimates of damages to each Corps of Engineers project, caused by natural disasters or otherwise.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this subdivision, referred to in text, is the date of enactment of subdiv. 1 of div. B of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 
 <a id="section-701o"></a>
@@ -862,11 +926,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 <a id="section-701r"></a>
 ## § 701r. Protection of highways, bridge approaches, public works, and nonprofit public services
 
-The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $20,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: Provided, That not more than $5,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year.
+The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $25,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: Provided, That not more than $5,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Federal interest shall be responsible for any such costs that exceed such amount.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–270 substituted “$25,000,000” for “$20,000,000” and inserted “, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Federal interest shall be responsible for any such costs that exceed such amount” before period at end.
+
 2014—Pub. L. 113–121 substituted “$20,000,000” for “$15,000,000” and “$5,000,000” for “$1,500,000”.
 
 2007—Pub. L. 110–114 substituted “$1,500,000” for “$1,000,000”.
@@ -915,11 +981,13 @@ Subsec. (c). Pub. L. 87–874 redesignated former subsec. (b) as (c), substitute
 <a id="section-701s"></a>
 ## § 701s. Small flood control projects; appropriations; amount limitation for single locality; conditions
 
-The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $55,000,000 for any one fiscal year, for the implementation of small structural and nonstructural projects for flood control and related purposes not specifically authorized by Congress, which come within the provisions of [section 701a of this title](./chapter-015-flood-control.md#section-701a), when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in [section 701c of this title](./chapter-015-flood-control.md#section-701c) shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
+The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $68,750,000 for any one fiscal year, for the implementation of small structural and nonstructural projects for flood control and related purposes not specifically authorized by Congress, which come within the provisions of [section 701a of this title](./chapter-015-flood-control.md#section-701a), when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in [section 701c of this title](./chapter-015-flood-control.md#section-701c) shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–270 substituted “$68,750,000” for “$55,000,000” in first sentence.
+
 2014—Pub. L. 113–121 substituted “$10,000,000” for “$7,000,000” in third sentence.
 
 2007—Pub. L. 110–114 substituted “$55,000,000” for “$50,000,000” in first sentence.
@@ -952,7 +1020,7 @@ Pub. L. 97–140, § 2(b), Dec. 29, 1981, 95 Stat. 1717, provided that: “The a
 Amendment by Pub. L. 94–587 not applicable to any project under contract for construction on Oct. 22, 1976, see section 133(c) of Pub. L. 94–587, set out as a note under [section 577 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-577).
 
 #### Ice Jam Prevention and Mitigation
-Pub. L. 114–322, title I, § 1150, Dec. 16, 2016, 130 Stat. 1661, provided that: “(a) In General.—The Secretary [of the Army] may carry out projects under section 205 of the Flood Control Act of 1948 ([33 U.S.C. 701s](./chapter-015-flood-control.md#section-701s)), including planning, design, construction, and monitoring of structural and nonstructural technologies and measures, for preventing and mitigating flood damages associated with ice jams. “(b) Inclusion.—The projects described in subsection (a) may include the development and demonstration of cost-effective technologies and designs developed in consultation with—“(1) the Cold Regions Research and Engineering Laboratory of the Corps of Engineers; “(2) universities; “(3) Federal, State, and local agencies; and “(4) private organizations. “(c) Pilot Program.—“(1) In general.—During fiscal years 2017 through 2022, the Secretary shall identify and carry out not fewer than 10 projects under this section to demonstrate technologies and designs developed in accordance with this section. “(2) Project selection.—The Secretary shall ensure that the projects are selected from all cold regions of the United States, including the Upper Missouri River Basin and the Northeast.”
+Pub. L. 114–322, title I, § 1150, Dec. 16, 2016, 130 Stat. 1661, as amended by Pub. L. 115–270, title I, § 1131, Oct. 23, 2018, 132 Stat. 3780, provided that: “(a) In General.—The Secretary [of the Army] may carry out projects under section 205 of the Flood Control Act of 1948 ([33 U.S.C. 701s](./chapter-015-flood-control.md#section-701s)), including planning, design, construction, and monitoring of structural and nonstructural technologies and measures, for preventing and mitigating flood damages associated with ice jams. “(b) Inclusion.—The projects described in subsection (a) may include the development and demonstration of cost-effective technologies and designs developed in consultation with—“(1) the Cold Regions Research and Engineering Laboratory of the Corps of Engineers; “(2) universities; “(3) Federal, State, and local agencies; and “(4) private organizations. “(c) Pilot Program.—“(1) In general.—The Secretary shall identify and carry out not fewer than 20 projects under this section to demonstrate technologies and designs developed in accordance with this section. “(2) Project selection.—The Secretary shall—“(A) ensure that the projects are selected from all cold regions of the United States, including the Upper Missouri River Basin and the Northeast; and “(B) select not fewer than one project to be carried out on a reservation (as defined in section 3 of the Indian Financing Act of 1974 [[25 U.S.C. 1452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452&num=0&edition=prelim)]) that serves more than one Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)]).”
 
 
 <a id="section-701t"></a>
@@ -1010,7 +1078,7 @@ Provisions of this section as not amended, modified or repealed by the Submerged
 <a id="section-702"></a>
 ## § 702. Mississippi River
 
-Authorization of flood-control work—For controlling the floods of the Mississippi River and continuing its improvement from the Head of the Passes to the mouth of the Ohio River the Secretary of the Army is empowered, authorized, and directed to carry on continuously, by hired labor or otherwise, the plans of the Mississippi River Commission, prior to March 3, 1923, or thereafter adopted, to be paid for as appropriations may from time to time be made by law.
+[Authorization of flood-control work.] For controlling the floods of the Mississippi River and continuing its improvement from the Head of the Passes to the mouth of the Ohio River the Secretary of the Army is empowered, authorized, and directed to carry on continuously, by hired labor or otherwise, the plans of the Mississippi River Commission, prior to March 3, 1923, or thereafter adopted, to be paid for as appropriations may from time to time be made by law.
 
 ### Statutory Notes
 
@@ -1327,7 +1395,7 @@ The project herein authorized shall be prosecuted by the Mississippi River Commi
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables. The “project herein authorized” was specifically authorized by [section 702a of this title](./chapter-015-flood-control.md#section-702a).
+Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables. The “project herein authorized” was specifically authorized by [section 702a of this title](./chapter-015-flood-control.md#section-702a).
 
 #### Codification
 Provisions of the second paragraph, as amended by Pub. L. 106–53, that read: “The salary of the president of the Mississippi River Commission shall hereafter be $10,000 per annum, and the salary of the other members of the commission shall hereafter be $21,500 per annum.” were omitted as obsolete and superseded by the Classification Act of 1949, 63 Stat. 954, 972. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. [Section 5102 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5102&num=0&edition=prelim) contains the applicability provisions of the 1949 Act, and [section 5103 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5103&num=0&edition=prelim) authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
@@ -1454,10 +1522,27 @@ The Secretary of the Army is authorized, out of any money available for carrying
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 
+<a id="section-702o"></a>
+## § 702o. Mississippi River and Tributaries Project
+**(a) In general** After any flood event requiring operation or activation of any floodway or backwater feature within the Mississippi River and Tributaries Project through natural overtopping of a Federal levee or artificial crevassing of a Federal levee to relieve pressure on the levees elsewhere in the system, the Secretary shall expeditiously reset and restore the damaged floodway’s levees.
+
+**(b) Consultation** In carrying out subsection (a), the Secretary shall provide an opportunity for consultation with affected communities.
+
+**(c) Mississippi River and Tributaries Project** The term “Mississippi River and Tributaries Project” means the Mississippi River and Tributaries project authorized by the Act of May 15, 1928 (Chap. 569; 45 Stat. 534).
+
+### Statutory Notes
+
+#### References in Text
+The act of May 15, 1928, referred to in subsec. (c), is act May 15, 1928, ch. 569, 45 Stat. 534, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
 <a id="section-703"></a>
 ## § 703. Sacramento River, California
 
-Flood-control works authorized—For controlling the floods, removing the débris, and continuing the improvement of the Sacramento River, California, in accordance with the plans of the California Débris Commission, the Secretary of the Army is authorized and directed to carry on continuously, by hired labor or otherwise, the plan of said commission contained in its report submitted August 10, 1910, and printed in House Document Numbered 81, Sixty-second Congress, first session, as modified by the report of said commission submitted February 8, 1913, approved by the Chief of Engineers of the United States Army and the Board of Engineers for Rivers and Harbors, and printed in Rivers and Harbors Committee Document Numbered 5, Sixty-third Congress, first session, insofar as said plan provides for the rectification and enlargement of river channels and the construction of weirs, to be paid for as appropriations may from time to time be made by law, not to exceed in the aggregate $5,600,000: Provided, That not more than $1,000,000 shall be expended therefor during any one fiscal year.
+[Flood-control works authorized.] For controlling the floods, removing the débris, and continuing the improvement of the Sacramento River, California, in accordance with the plans of the California Débris Commission, the Secretary of the Army is authorized and directed to carry on continuously, by hired labor or otherwise, the plan of said commission contained in its report submitted August 10, 1910, and printed in House Document Numbered 81, Sixty-second Congress, first session, as modified by the report of said commission submitted February 8, 1913, approved by the Chief of Engineers of the United States Army and the Board of Engineers for Rivers and Harbors, and printed in Rivers and Harbors Committee Document Numbered 5, Sixty-third Congress, first session, insofar as said plan provides for the rectification and enlargement of river channels and the construction of weirs, to be paid for as appropriations may from time to time be made by law, not to exceed in the aggregate $5,600,000: Provided, That not more than $1,000,000 shall be expended therefor during any one fiscal year.
 
 ### Statutory Notes
 

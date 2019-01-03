@@ -18,11 +18,11 @@ source: >-
 
   (A) *In general* — To be certified as a qualifying State, the mediation program of the State must provide mediation services to persons described in paragraph (2) that are involved in agricultural loans (regardless of whether the loans are made or guaranteed by the Secretary or made by a third party).
 
-  (B) *Other issues* — The mediation program of a qualifying State may provide mediation services to persons described in paragraph (2) that are involved in one or more of the following issues under the jurisdiction of the Department of Agriculture:
+  (B) *Other issues* — The mediation program of a qualifying State may provide mediation services to persons described in paragraph (2) that are involved in one or more of the following issues:
 
     (i) Wetlands determinations.
 
-    (ii) Compliance with farm programs, including conservation programs.
+    (ii) Compliance with farm programs, including conservation programs and the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](./chapter-094-organic-certification.md#section-6501) et seq.).
 
     (iii) Agricultural credit.
 
@@ -32,7 +32,19 @@ source: >-
 
     (vi) Pesticides.
 
-    (vii) Such other issues as the Secretary considers appropriate.
+    (vii) Lease issues, including land leases and equipment leases.
+
+    (viii) Family farm transition.
+
+    (ix) Farmer-neighbor disputes.
+
+    (x) Such other issues as the Secretary or the head of the department of agriculture of each participating State considers appropriate for better serving the agricultural community and persons eligible for mediation.
+
+  (C) *Mediation services* — Funding provided for the mediation program of a qualifying State may also be used to provide credit counseling to persons described in paragraph (2)—
+
+    (i) prior to the initiation of any mediation involving the Department of Agriculture; or
+
+    (ii) unrelated to any ongoing dispute or mediation in which the Department of Agriculture is a party.
 
 (2) **Persons eligible for mediation**
 
@@ -40,9 +52,11 @@ source: >-
 
     (i) agricultural producers;
 
-    (ii) creditors of producers (as applicable); and
+    (ii) creditors of producers (as applicable);
 
-    (iii) persons directly affected by actions of the Department of Agriculture.
+    (iii) persons directly affected by actions of the Department of Agriculture; and
+
+    (iv) any other persons involved in an issue for which mediation services are provided by a mediation program described in paragraph (1)(B).
 
   (B) *Voluntary participation*
 
@@ -62,7 +76,11 @@ source: >-
 
   (E) ensures, in the case of agricultural loans, that all lenders and borrowers of agricultural loans receive adequate notification of the mediation program; and
 
-  (F) ensures, in the case of other issues covered by the mediation program, that persons directly affected by actions of the Department of Agriculture receive adequate notification of the mediation program.
+  (F) ensures, in the case of other issues covered by the mediation program, that—
+
+    (i) the Department of Agriculture receives adequate notification of those issues; and
+
+    (ii) persons directly affected by actions of the Department of Agriculture receive adequate notification of the mediation program.
 
 **(d) Definition of mediation services** In this section, the term “mediation services”, with respect to mediation or a request for mediation, may include all activities related to—
 
@@ -77,9 +95,23 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
+The Organic Foods Production Act of 1990, referred to in subsec. (c)(1)(B)(ii), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-094-organic-certification.md#section-6501) and Tables.
+
 This Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, as amended, known as the Agricultural Credit Act of 1987. Provisions relating to mediation services are contained in title V of the Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2018—Subsec. (c)(1)(B). Pub. L. 115–334, § 5402(a)(1)(A)(i), struck out “under the jurisdiction of the Department of Agriculture” after “the following issues” in introductory provisions.
+
+Subsec. (c)(1)(B)(ii). Pub. L. 115–334, § 5402(a)(1)(A)(ii), inserted “and the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](./chapter-094-organic-certification.md#section-6501) et seq.)” before period at end.
+
+Subsec. (c)(1)(B)(vii)–(x). Pub. L. 115–334, § 5402(a)(1)(A)(iii), added cls. (vii) to (x) and struck out former cl. (vii) which read as follows: “Such other issues as the Secretary considers appropriate.”
+
+Subsec. (c)(1)(C). Pub. L. 115–334, § 5402(a)(1)(B), added subpar. (C).
+
+Subsec. (c)(2)(A)(iv). Pub. L. 115–334, § 5402(a)(2), added cl. (iv).
+
+Subsec. (c)(3)(F). Pub. L. 115–334, § 5402(a)(3), inserted dash after “program, that” and cl. (ii) designation before “persons” and added cl. (i).
+
 2000—Subsec. (c)(1), (2). Pub. L. 106–472, § 306(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2), which required State mediation program to provide services for producers, their creditors, and other persons involved in agricultural loans, or involved in agricultural loans and such issues as wetlands determinations, compliance with farm programs, agricultural credit, rural water loan programs, grazing on National Forest System lands, pesticides, or such other issues considered appropriate.
 
 Subsec. (d). Pub. L. 106–472, § 306(a)(2), added subsec. (d).
@@ -220,28 +252,34 @@ The Secretary and the Farm Credit Administration shall prescribe such regulation
 <a id="section-5105"></a>
 ## § 5105. Report
 
-Not later than January 1, 1998, the Secretary of Agriculture shall report to Congress on—
+Not later than 2 years after December 20, 2018, the Secretary shall submit to Congress a report describing—
 
 (1) the effectiveness of the State mediation programs receiving matching grants under this chapter;
 
-(2) recommendations for improving the delivery of mediation services to producers; and
+(2) recommendations for improving the delivery of mediation services to producers;
 
-(3) the savings to the States as a result of having a mediation program.
+(3) the steps being taken to ensure that State mediation programs receive timely funding under this chapter; and
+
+(4) the savings to the States as a result of having a mediation program.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–334 amended section generally. Prior to amendment, section required a report related to mediation programs no later than Jan. 1, 1998.
+
 1994—Pub. L. 103–354 in introductory provisions substituted “1998” for “1990”, in par. (1) struck out “agricultural loan” before “mediation programs”, and in par. (3) substituted “a mediation” for “an agricultural loan mediation”.
 
 
 <a id="section-5106"></a>
 ## § 5106. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter $7,500,000 for each of the fiscal years 1988 through 2018.
+There are authorized to be appropriated to carry out this chapter $7,500,000 for each of the fiscal years 1988 through 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Pub. L. 113–79 substituted “2018” for “2015”.
 
 2010—Pub. L. 111–233 substituted “2015” for “2010”.

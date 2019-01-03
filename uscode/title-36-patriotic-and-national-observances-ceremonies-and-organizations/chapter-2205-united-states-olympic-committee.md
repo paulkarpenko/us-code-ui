@@ -2,7 +2,7 @@
 title: 36
 chapter: '2205'
 heading: UNITED STATES OLYMPIC COMMITTEE
-section_count: 21
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&num=0&edition=prelim
 ---
@@ -18,15 +18,19 @@ source: >-
 
 (3) “amateur sports organization” means a not-for-profit corporation, association, or other group organized in the United States that sponsors or arranges an amateur athletic competition.
 
-(4) “corporation” means the United States Olympic Committee.
+(4) “Center” means the United States Center for Safe Sport designated under section 220541.
 
-(5) “international amateur athletic competition” means an amateur athletic competition between one or more athletes representing the United States, individually or as a team, and one or more athletes representing a foreign country.
+(5) “child abuse” has the meaning given the term in section 212 of the Victims of Child Abuse Act of 1990 ([34 U.S.C. 20302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20302&num=0&edition=prelim)).
 
-(6) “national governing body” means an amateur sports organization that is recognized by the corporation under [section 220521 of this title](./chapter-2205-united-states-olympic-committee.md#section-220521).
+(6) “corporation” means the United States Olympic Committee.
 
-(7) “paralympic sports organization” means an amateur sports organization which is recognized by the corporation under [section 220521 of this title](./chapter-2205-united-states-olympic-committee.md#section-220521).
+(7) “international amateur athletic competition” means an amateur athletic competition between one or more athletes representing the United States, individually or as a team, and one or more athletes representing a foreign country.
 
-(8) “sanction” means a certificate of approval issued by a national governing body.
+(8) “national governing body” means an amateur sports organization that is recognized by the corporation under [section 220521 of this title](./chapter-2205-united-states-olympic-committee.md#section-220521).
+
+(9) “paralympic sports organization” means an amateur sports organization which is recognized by the corporation under [section 220521 of this title](./chapter-2205-united-states-olympic-committee.md#section-220521).
+
+(10) “sanction” means a certificate of approval issued by a national governing body.
 
 ### Statutory Notes
 
@@ -42,6 +46,8 @@ In clause (5), the words “one or more athletes” are substituted for “any a
 In clause (6), a reference to section 220522 (restating 36:391(b) and (c)) is unnecessary because section 220521 incorporates the eligibility requirements of section 220522.
 
 #### Amendments
+2018—Subsec. (b)(4) to (10). Pub. L. 115–126 added pars. (4) and (5) and redesignated former pars. (4) to (8) as (6) to (10), respectively.
+
 2006—Pub. L. 109–284, § 5(13), substituted “Short title and definitions” for “Title and Definitions” in section catchline.
 
 Subsec. (a). Pub. L. 109–284, § 5(14), substituted “Short Title” for “Title” in heading.
@@ -118,9 +124,11 @@ The purposes of the corporation are—
 
 (12) to encourage and provide assistance to amateur athletic activities for women;
 
-(13) to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes; and
+(13) to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes;
 
-(14) to encourage and provide assistance to amateur athletes of racial and ethnic minorities for the purpose of eliciting the participation of those minorities in amateur athletic activities in which they are underrepresented.
+(14) to encourage and provide assistance to amateur athletes of racial and ethnic minorities for the purpose of eliciting the participation of those minorities in amateur athletic activities in which they are underrepresented; and
+
+(15) to promote a safe environment in sports that is free from abuse, including emotional, physical, and sexual abuse, of any amateur athlete.
 
 ### Statutory Notes
 
@@ -134,6 +142,8 @@ Before clause (1), the word “objects” is omitted as included in “purposes�
 In clause (4), the word “competition” is omitted as included in “each event”.
 
 #### Amendments
+2018—Par. (15). Pub. L. 115–126 added par. (15).
+
 1998—Pars. (3), (4). Pub. L. 105–277, § 142(d)(1), substituted “Olympic Games, the Paralympic Games” for “Olympic Games” wherever appearing.
 
 Par. (13). Pub. L. 105–277, § 142(d)(2), added par. (13) and struck out former par. (13) which read as follows: “to encourage and provide assistance to amateur athletic programs and competition for individuals with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by individuals with disabilities in programs of athletic competition for able-bodied individuals; and”.
@@ -719,9 +729,11 @@ In clause (4), the word “by” is substituted for “under its auspices or tha
 
   (D) the competition will be conducted by qualified officials;
 
-  (E) proper medical supervision will be provided for athletes who will participate in the competition; and
+  (E) proper medical supervision will be provided for athletes who will participate in the competition;
 
-  (F) proper safety precautions have been taken to protect the personal welfare of the athletes and spectators at the competition.
+  (F) proper safety precautions have been taken to protect the personal welfare of the athletes and spectators at the competition; and
+
+  (G) the amateur sports organization or person requesting sanction from a national governing body will implement and abide by the policies and procedures to prevent the abuse, including emotional, physical, and child abuse, of amateur athletes participating in amateur athletic activities applicable to such national governing body.
 
 ### Statutory Notes
 
@@ -742,6 +754,9 @@ In clause (4), the word “by” is substituted for “under its auspices or tha
 In subsection (a), the words “and determine whether to grant such sanction, in accordance with the provisions of subsection (b) of this section” and “As a result of its review under subsection (a)(4) of this section” are omitted as unnecessary. Clause (2)(B) is added because of the reorganization of the section.
 
 In subsection (b), the language before paragraph (1) is substituted for 36:392(b)(1) (words before subclause (A)) and (2) (words before subclause (A)) because of the reorganization of the section. Paragraph (1) is substituted for 36:392(b)(1)(A) and (2)(A), and paragraph (4) is substituted for 36:392(b)(1)(B)(i)–(vi) and (2)(B)(i)–(vi), to avoid repeating identical language.
+
+#### Amendments
+2018—Subsec. (b)(4)(G). Pub. L. 115–126 added subpar. (G).
 
 
 <a id="section-220526"></a>
@@ -944,3 +959,136 @@ In subsection (d), the word “involved” is omitted as unnecessary.
 In subsection (e), the word “contesting” is omitted as unnecessary.
 
 In subsection (e)(2), the words “the reopening is based on the motion of a party” are substituted for “any contesting party makes such a motion” for clarity.
+
+
+<a id="section-220530"></a>
+## § 220530. Other amateur sports organizations
+**(a) In General.—** An applicable amateur sports organization shall—
+
+(1) comply with the reporting requirements of section 226 of the Victims of Child Abuse Act of 1990 ([34 U.S.C. 20341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20341&num=0&edition=prelim));
+
+(2) establish reasonable procedures to limit one-on-one interactions between an amateur athlete who is a minor and an adult (who is not the minor’s legal guardian) at a facility under the jurisdiction of the applicable amateur sports organization without being in an observable and interruptible distance from another adult, except under emergency circumstances;
+
+(3) offer and provide consistent training to all adult members who are in regular contact with amateur athletes who are minors, and subject to parental consent, to members who are minors, regarding prevention and reporting of child abuse to allow a complainant to report easily an incident of child abuse to appropriate persons; and
+
+(4) prohibit retaliation, by the applicable amateur sports organization, against any individual who makes a report under paragraph (1).
+
+**(b) Definition of Applicable Amateur Sports Organization.—** In this section, the term “applicable amateur sports organization” means an amateur sports organization—
+
+(1) that is not otherwise subject to the requirements under subchapter III;
+
+(2) that participates in an interstate or international amateur athletic competition; and
+
+(3) whose membership includes any adult who is in regular contact with an amateur athlete who is a minor.
+
+
+<a id="section-220531"></a>
+## § 220531. Grant to protect young athletes from abuse
+**(a) Authority.—** The Attorney General may award a grant to an eligible nonprofit nongovernmental entity in order to support oversight of the United States Olympic Committee, each national governing body, and each paralympic sports organization with regard to safeguarding amateur athletes against abuse, including emotional, physical, and sexual abuse in sports.
+
+**(b) Applications.—** To be eligible to receive a grant under this section, a nonprofit nongovernmental entity shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may require, including information that demonstrates that the entity has—
+
+(1) nationally recognized expertise in preventing and investigating emotional, physical, and sexual abuse in the athletic programs of the United States Olympic Committee, each national governing body, and each paralympic sports organization; and
+
+(2) the capacity to oversee regular and random audits to ensure that the policies and procedures used by the United States Olympic Committee, each national governing body, and each paralympic sports organization to prevent and identify the abuse of an amateur athlete are followed correctly.
+
+**(c) Use of Grant Amount.—** An entity that receives a grant under this section may use such funds—
+
+(1) to develop and test new training materials for emotional, physical, and sexual abuse prevention and identification education in youth athletic programs;
+
+(2) for staff salaries, travel expenses, equipment, printing, and other reasonable expenses necessary to develop, maintain, and disseminate to the United States Olympic Committee, each national governing body, each paralympic sports organization, and other amateur sports organizations information about safeguarding amateur athletes against abuse, including emotional, physical, and sexual abuse in sports; and
+
+(3) to oversee the administration of the procedures described in subsection (b)(2).
+
+**(d) Authorization of Appropriations.—**
+
+(1) **In general.—** — There is authorized to be appropriated to carry out this section $2,500,000 for each of the fiscal years 2018 through 2022.
+
+(2) **Availability of grant funds.—** — Funds appropriated under this section shall remain available until expended.
+
+
+<a id="section-220541"></a>
+## § 220541. Designation of United States Center for Safe Sport
+**(a) In General.—** The United States Center for Safe Sport shall—
+
+(1) serve as the independent national safe sport organization and be recognized worldwide as the independent national safe sport organization for the United States;
+
+(2) exercise jurisdiction over the corporation, each national governing body, and each paralympic sports organization with regard to safeguarding amateur athletes against abuse, including emotional, physical, and sexual abuse, in sports;
+
+(3) maintain an office for education and outreach that shall develop training, oversight practices, policies, and procedures to prevent the abuse, including emotional, physical, and sexual abuse, of amateur athletes participating in amateur athletic activities through national governing bodies and paralympic sports organizations;
+
+(4) maintain an office for response and resolution that shall establish mechanisms that allow for the reporting, investigation, and resolution, pursuant to subsection (c), of alleged sexual abuse in violation of the Center’s policies and procedures; and
+
+(5) ensure that the mechanisms under paragraph (4) provide fair notice and an opportunity to be heard and protect the privacy and safety of complainants.
+
+**(b) Policies and Procedures.—** The policies and procedures developed under subsection (a)(3) shall apply as though they were incorporated in and made a part of [section 220524 of this title](./chapter-2205-united-states-olympic-committee.md#section-220524).
+
+**(c) Binding Arbitration.—**
+
+(1) **In general.—** — The Center may, in its discretion, utilize a neutral arbitration body and develop policies and procedures to resolve allegations of sexual abuse within its jurisdiction to determine the opportunity of any amateur athlete, coach, trainer, manager, administrator, or official, who is the subject of such an allegation, to participate in amateur athletic competition.
+
+(2) **Preservation of rights.—** — Nothing in this section shall be construed as altering, superseding, or otherwise affecting the right of an individual within the Center’s jurisdiction to pursue civil remedies through the courts for personal injuries arising from abuse in violation of the Center’s policies and procedures, nor shall the Center condition the participation of any such individual in a proceeding described in paragraph (1) upon an agreement not to pursue such civil remedies.
+
+**(d) Limitation on Liability.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), an applicable entity shall not be liable for damages in any civil action for defamation, libel, slander, or damage to reputation arising out of any action or communication, if the action arises from the execution of the responsibilities or functions described in this section, section 220542, or section 220543.
+
+(2) **Exception.—** — Paragraph (1) shall not apply in any action in which an applicable entity acted with actual malice, or provided information or took action not pursuant to this section, section 220542, or section 220543.
+
+(3) **Definition of applicable entity.—** — In this subsection, the term “applicable entity” means—
+
+  (A) the Center;
+
+  (B) a national governing body;
+
+  (C) a paralympic sports organization;
+
+  (D) an amateur sports organization or other person sanctioned by a national governing body under section 220525;
+
+  (E) an amateur sports organization reporting under section 220530;
+
+  (F) any officer, employee, agent, or member of an entity described in subparagraph (A), (B), (C), (D), or (E); and
+
+  (G) any individual participating in a proceeding pursuant to this section.
+
+
+<a id="section-220542"></a>
+## § 220542. Additional duties.11 So in original. The period probably should not appear.
+**(a) In General.—** The Center shall—
+
+(1) develop training, oversight practices, policies, and procedures for implementation by a national governing body or paralympic sports organization to prevent the abuse, including emotional, physical, and sexual abuse, of any amateur athlete; and
+
+(2) include in the policies and procedures developed under section 220541(a)(3)—
+
+  (A) a requirement that all adult members of a national governing body, a paralympic sports organization, or a facility under the jurisdiction of a national governing body or paralympic sports organization, and all adults authorized by such members to interact with an amateur athlete, report immediately any allegation of child abuse of an amateur athlete who is a minor to—
+
+    (i) the Center, whenever such members or adults learn of facts leading them to suspect reasonably that an amateur athlete who is a minor has suffered an incident of child abuse; and
+
+    (ii) law enforcement consistent with section 226 of the Victims of Child Abuse Act of 1990 ([34 U.S.C. 20341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20341&num=0&edition=prelim));
+
+  (B) a mechanism, approved by a trained expert on child abuse, that allows a complainant to report easily an incident of child abuse to the Center, a national governing body, law enforcement authorities, or other appropriate authorities;
+
+  (C) reasonable procedures to limit one-on-one interactions between an amateur athlete who is a minor and an adult (who is not the minor’s legal guardian) at a facility under the jurisdiction of a national governing body or paralympic sports organization without being in an observable and interruptible distance from another adult, except under emergency circumstances;
+
+  (D) procedures to prohibit retaliation, by any national governing body or paralympic sports organization, against any individual who makes a report under subparagraph (A) or subparagraph (B);
+
+  (E) oversight procedures, including regular and random audits conducted by subject matter experts unaffiliated with, and independent of, a national governing body or a paralympic sports organization of each national governing body and paralympic sports organization to ensure that policies and procedures developed under that section are followed correctly and that consistent training is offered and given to all adult members who are in regular contact with amateur athletes who are minors, and subject to parental consent, to members who are minors, regarding prevention of child abuse; and
+
+  (F) a mechanism by which a national governing body or paralympic sports organization can—
+
+    (i) share confidentially a report of suspected child abuse of an amateur athlete who is a minor by a member of a national governing body or paralympic sports organization, or an adult authorized by a national governing body, paralympic sports organization, or an amateur sports organization to interact with an amateur athlete who is a minor, with the Center, which in turn, may share with relevant national governing bodies, paralympic sports organizations, and other entities; and
+
+    (ii) withhold providing to an adult who is the subject of an allegation of child abuse authority to interact with an amateur athlete who is a minor until the resolution of such allegation.
+
+**(b) Rule of Construction.—** Nothing in this section shall be construed to limit the ability of a national governing body or paralympic sports organization to impose an interim measure to prevent an individual who is the subject of an allegation of sexual abuse from interacting with an amateur athlete prior to the Center exercising its jurisdiction over a matter.
+
+
+<a id="section-220543"></a>
+## § 220543. Records, audits, and reports
+**(a) Records.—** The Center shall keep correct and complete records of account.
+
+**(b) Report.—** The Center shall submit an annual report to Congress, including—
+
+(1) an audit conducted and submitted in accordance with section 10101; and
+
+(2) a description of the activities of the Center.

@@ -36,7 +36,7 @@ Pub. L. 105–206, title III, § 3421, July 22, 1998, 112 Stat. 758, provided th
 
 (2) **Special rule for tax due in September**
 
-  (A) *Amounts considered collected* — In the case of a person required to make deposits of the tax imposed by sections 11 So in original. Probably should be “section”. 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
+  (A) *Amounts considered collected* — In the case of a person required to make deposits of the tax imposed by section 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
 
   (B) *Special rule where September 29 is on Saturday or Sunday* — If September 29 falls on a Saturday or Sunday, the due date under subparagraph (A) shall be—
 
@@ -86,6 +86,8 @@ Pub. L. 105–206, title III, § 3421, July 22, 1998, 112 Stat. 758, provided th
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (e)(2)(A). Pub. L. 115–141 substituted “section 4251” for “sections 4251”.
+
 2014—Subsec. (e)(2). Pub. L. 113–295, § 221(a)(110)(A), substituted “imposed by sections 4251, 4261, or 4271 with respect to” for “imposed by—
 
 “(i) section 4251, or
@@ -433,13 +435,15 @@ The Secretary shall keep adequate records regarding amounts so retained and used
 The Fair Debt Collection Practices Act, referred to in subsec. (e), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (e)(2). Pub. L. 115–141, § 401(a)(351), made technical amendment to directory language of Pub. L. 114–94, § 32103(a). See 2015 Amendment note below.
+
 2015—Subsec. (c). Pub. L. 114–94, § 32102(a), added subsec. (c). Former subsec. (c) redesignated (e).
 
 Subsec. (d). Pub. L. 114–94, § 32102(b), added subsec. (d). Former subsec. (d) redesignated (f).
 
 Subsec. (e). Pub. L. 114–94, § 32102(a), (b), successively redesignated subsec. (c) as (d) and then as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(2). Pub. L. 114–94, § 32103(a), substituted “to fund the special compliance personnel program account under section 6307” for “for collection enforcement activities of the Internal Revenue Service”.
+Subsec. (e)(2). Pub. L. 114–94, § 32103(a), as amended by Pub. L. 115–141, § 401(a)(351), substituted “to fund the special compliance personnel program account under section 6307” for “for collection enforcement activities of the Internal Revenue Service”.
 
 Subsec. (f). Pub. L. 114–94, § 32102(a), (b), successively redesignated subsec. (d) as (e) and then as (f). Former subsec. (f) redesignated (k).
 
@@ -536,7 +540,7 @@ and such amount shall be paid out of such assets in preference to any other clai
 
   (C) a payment of internal revenue taxes (or a payment for internal revenue stamps) by a person by use of a debit card shall not be subject to section 908 of the Electronic Fund Transfer Act ([15 U.S.C. 1693f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693f&num=0&edition=prelim)), or to any similar provisions of State law, if the error alleged by the person is an error relating to the underlying tax liability, rather than an error relating to the debit card account such as a computational error or numerical transposition in the debit card transaction or an issue as to whether the person authorized payment by use of the debit card,
 
-  (D) the term “creditor” under section 103(f) 11 See References in Text note below. of the Truth in Lending Act ([15 U.S.C. 1602(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/f&num=0&edition=prelim)) shall not include the Secretary with respect to credit card transactions in payment of internal revenue taxes (or payment for internal revenue stamps), and
+  (D) the term “creditor” under section 103(g) of the Truth in Lending Act ([15 U.S.C. 1602(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/g&num=0&edition=prelim)) shall not include the Secretary with respect to credit card transactions in payment of internal revenue taxes (or payment for internal revenue stamps), and
 
   (E) notwithstanding any other provision of law to the contrary, in the case of payment made by credit card or debit card transaction of an amount owed to a person as the result of the correction of an error under section 161 of the Truth in Lending Act ([15 U.S.C. 1666](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1666&num=0&edition=prelim)) or section 908 of the Electronic Fund Transfer Act ([15 U.S.C. 1693f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693f&num=0&edition=prelim)), the Secretary is authorized to provide such amount to such person as a credit to that person’s credit card or debit card account through the applicable credit card or debit card system.
 
@@ -566,10 +570,9 @@ and such amount shall be paid out of such assets in preference to any other clai
 
 ### Statutory Notes
 
-#### References in Text
-Section 103(f) of the Truth in Lending Act, referred to in subsec. (d)(3)(D), was redesignated section 103(g) of the Truth in Lending Act by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
-
 #### Amendments
+2018—Subsec. (d)(3)(D). Pub. L. 115–141 substituted “section 103(g)” for “section 103(f)” and “1602(g)” for “1602(f)”.
+
 1998—Subsec. (d)(2). Pub. L. 105–277 substituted “under any such contract for the use of credit, debit, or charge cards for the payment of taxes imposed by subtitle A” for “under such contracts”.
 
 Subsec. (e)(1). Pub. L. 105–206 substituted “section 6103(k)(9)” for “section 6103(k)(8)”.
@@ -986,7 +989,7 @@ to the extent that, under local law, any such item has the same priority as the 
 
   (A) such dollar amount, multiplied by
 
-  (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 1996” for “calendar year 1992” in subparagraph (B) thereof.
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 1996” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   If any amount as adjusted under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
 
 **(j) Withdrawal of notice in certain circumstances**
@@ -1010,6 +1013,8 @@ to the extent that, under local law, any such item has the same priority as the 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
+2017—Subsec. (i)(4)(B). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
 1998—Subsec. (b)(4). Pub. L. 105–206, § 3435(a)(1)(A), substituted “$1,000” for “$250”.
 
 Subsec. (b)(7). Pub. L. 105–206, § 3435(a)(1)(B), substituted “$5,000” for “$1,000”.
@@ -1083,6 +1088,9 @@ Subsec. (i)(3). Pub. L. 89–719 redesignated provisions of former subsec. (e) a
 1964—Subsec. (a). Pub. L. 88–272, § 236(c)(1), substituted “subsections (c) and (d)” for “subsection (c)”.
 
 Subsecs. (d), (e). Pub. L. 88–272, § 236(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Effective Date of 1998 Amendment
 Amendment by section 1102(d)(1)(A) of Pub. L. 105–206 effective July 22, 1998, see section 1102(f)(1) of Pub. L. 105–206, set out as a note under [section 7803 of this title](./chapter-080-general-rules.md#section-7803).
@@ -1539,16 +1547,18 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proc
 
     (i) the issue was raised and considered at a previous hearing under section 6320 or in any other previous administrative or judicial proceeding; and
 
-    (ii) the person seeking to raise the issue participated meaningfully in such hearing or proceeding; or
+    (ii) the person seeking to raise the issue participated meaningfully in such hearing or proceeding;
 
-  (B) the issue meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A).
-  This paragraph shall not apply to any issue with respect to which subsection (d)(2)(B) applies.
+  (B) the issue meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A); or
+
+  (C) a final determination has been made with respect to such issue in a proceeding brought under subchapter C of chapter 63.
+  This paragraph shall not apply to any issue with respect to which subsection (d)(3)(B) applies.
 
 **(d) Proceeding after hearing**
 
 (1) **Petition for review by Tax Court** — The person may, within 30 days of a determination under this section, petition the Tax Court for review of such determination (and the Tax Court shall have jurisdiction with respect to such matter).
 
-(2) **Suspension of running of period for filing petition in title 11 cases** — In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter, and 11 So in original.
+(2) **Suspension of running of period for filing petition in title 11 cases** — In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter.
 
 (3) **Jurisdiction retained at IRS Office of Appeals** — The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
 
@@ -1583,14 +1593,11 @@ this section shall not apply, except that the taxpayer shall be given the opport
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(4)
-Pub. L. 114–74, title XI, § 1101(d), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c)(4) of this section is amended by striking “or” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “; or”, and by inserting after subparagraph (B) the following new subparagraph:
-
-“(C) a final determination has been made with respect to such issue in a proceeding brought under subchapter C of chapter 63.”
-
-See 2015 Amendment note below.
-
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–141, § 401(a)(281), substituted “subsection (d)(3)(B)” for “subsection (d)(2)(B)” in concluding provisions.
+
+Subsec. (d)(2). Pub. L. 115–141, § 401(a)(282), substituted “thereafter.” for “thereafter, and”.
+
 2015—Subsec. (c)(4)(C). Pub. L. 114–74 added subpar. (C).
 
 Subsec. (d)(1). Pub. L. 114–113, § 424(b)(1)(A), (B), substituted “Petition for review by Tax Court” for “Judicial review of determination” in heading and “petition the Tax Court for review of such determination” for “appeal such determination to the Tax Court” in text.
@@ -1628,7 +1635,7 @@ Subsec. (e)(1). Pub. L. 106–554, § 1(a)(7) [title III, § 313(b)(2)(A)], inse
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title IV, § 424(b)(2), Dec. 18, 2015, 129 Stat. 3124, provided that: “The amendments made by this subsection [amending this section] shall apply to petitions filed under section 6330 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Dec. 18, 2015].”
 
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–240, title II, § 2104(d), Sept. 27, 2010, 124 Stat. 2565, provided that: “The amendments made by this section [amending this section] shall apply to levies issued after the date of the enactment of this Act [Sept. 27, 2010].”
@@ -2037,7 +2044,7 @@ If a levy has been made or is about to be made on any property, or right to prop
 
 (10) **Certain service-connected disability payments** — Any amount payable to an individual as a service-connected (within the meaning of [section 101(16) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/16&num=0&edition=prelim), United States Code) disability benefit under—
 
-  (A) subchapter II, III, IV, V,,11 So in original. or VI of chapter 11 of such title 38, or
+  (A) subchapter II, III, IV, V, or VI of chapter 11 of such title 38, or
 
   (B) chapter 13, 21, 23, 31, 32, 34, 35, 37, or 39 of such title 38.
 
@@ -2084,6 +2091,25 @@ If a levy has been made or is about to be made on any property, or right to prop
 
 (3) **Individuals on basis other than weekly** — In the case of any individual not described in paragraph (1), the amount of the wages, salary, and other income payable to or received by him during any applicable pay period or other fiscal period (as determined under regulations prescribed by the Secretary) which is exempt from levy under subsection (a)(9) shall be an amount (determined under such regulations) which as nearly as possible will result in the same total exemption from levy for such individual over a period of time as he would have under paragraph (1) if (during such period of time) he were paid or received such wages, salary, and other income on a regular weekly basis.
 
+(4) **Years when personal exemption amount is zero**
+
+  (A) *In general* — In the case of any taxable year in which the exemption amount under section 151(d) is zero, paragraph (2) shall not apply and for purposes of paragraph (1) the term “exempt amount” means an amount equal to—
+
+    (i) the sum of the amount determined under subparagraph (B) and the standard deduction, divided by
+
+    (ii) 52.
+
+  (B) *Amount determined* — For purposes of subparagraph (A), the amount determined under this subparagraph is $4,150 multiplied by the number of the taxpayer’s dependents for the taxable year in which the levy occurs.
+
+  (C) *Inflation adjustment* — In the case of any taxable year beginning in a calendar year after 2018, the $4,150 amount in subparagraph (B) shall be increased by an amount equal to—
+
+    (i) such dollar amount, multiplied by
+
+    (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2017” for “2016” in subparagraph (A)(ii) thereof.
+    If any increase determined under the preceding sentence is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
+
+  (D) *Verified statement* — Unless the taxpayer submits to the Secretary a written and properly verified statement specifying the facts necessary to determine the proper amount under subparagraph (A), subparagraph (A) shall be applied as if the taxpayer were a married individual filing a separate return with no dependents.
+
 **(e) Levy allowed on principal residences and certain business assets in certain circumstances**
 
 (1) **Principal residences**
@@ -2107,7 +2133,7 @@ If a levy has been made or is about to be made on any property, or right to prop
 
   (A) such dollar amount, multiplied by
 
-  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1998” for “calendar year 1992” in subparagraph (B) thereof.
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1998” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 
 (2) **Rounding** — If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
@@ -2126,6 +2152,12 @@ The Social Security Act, referred to in subsecs. (a)(11)(A) and (c), is act Aug.
 The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(10)(A). Pub. L. 115–141 substituted “V, or VI” for “V,, or VI”.
+
+2017—Subsec. (d)(4). Pub. L. 115–97, § 11041(d), added par. (4).
+
+Subsec. (g)(1)(B). Pub. L. 115–97, § 11002(d)(1)(II), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
 1998—Subsec. (a)(2). Pub. L. 105–206, § 3431(a), substituted “$6,250” for “$2,500”.
 
 Subsec. (a)(3). Pub. L. 105–206, § 3431(b), substituted “$3,125” for “$1,250”.
@@ -2218,6 +2250,11 @@ Subsec. (a)(6), (7). Pub. L. 89–719, § 104(c)(2), added pars. (6) and (7).
 
 #### Change of Name
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date of 2017 Amendment
+Amendment by section 11002(d)(1)(II) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+Amendment by section 11041(d) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11041(f)(1) of Pub. L. 115–97, set out as a note under [section 151 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-151).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title III, § 3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by this section [amending this section] shall take effect with respect to levies issued after the date of the enactment of this Act [July 22, 1998].”
@@ -2507,7 +2544,7 @@ The Secretary shall determine the expenses to be allowed in all cases of levy an
 
 <a id="section-6342"></a>
 ## § 6342. Application of proceeds of levy
-**(a) Collection of liability** Any money realized by proceedings under this subchapter (whether by seizure, by surrender under section 6332 (except pursuant to subsection (c)(2) 11 See References in Text note below. thereof), or by sale of seized property) or by sale of property redeemed by the United States (if the interest of the United States in such property was a lien arising under the provisions of this title) shall be applied as follows:
+**(a) Collection of liability** Any money realized by proceedings under this subchapter (whether by seizure, by surrender under section 6332 (except pursuant to subsection (d)(2) thereof), or by sale of seized property) or by sale of property redeemed by the United States (if the interest of the United States in such property was a lien arising under the provisions of this title) shall be applied as follows:
 
 (1) **Expense of levy and sale** — First, against the expenses of the proceedings;
 
@@ -2519,10 +2556,9 @@ The Secretary shall determine the expenses to be allowed in all cases of levy an
 
 ### Statutory Notes
 
-#### References in Text
-Section 6332(c), referred to in subsec. (a), was redesignated section 6332(d) by Pub. L. 100–647, title VI, § 6236(e)(1), Nov. 10, 1988, 102 Stat. 3739.
-
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141 substituted “subsection (d)(2)” for “subsection (c)(2)”.
+
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 1966—Subsec. (a). Pub. L. 89–719 inserted in introductory provisions, references to an exception in the case of surrender under section 6332(c)(2) and to sale of property redeemed by the United States if the interest of the United States in such property was a lien arising under the provisions of this title, struck out “under this subchapter” after “proceedings” in par. (1), and inserted “or the sale was conducted” after “levy was made” in par. (3).
@@ -2559,7 +2595,7 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 (2) an amount of money equal to the amount of money levied upon, or
 
 (3) an amount of money equal to the amount of money received by the United States from a sale of such property.
-Property may be returned at any time. An amount equal to the amount of money levied upon or received from such sale may be returned at any time before the expiration of 9 months from the date of such levy. For purposes of paragraph (3), if property is declared purchased by the United States at a sale pursuant to section 6335(e) (relating to manner and conditions of sale), the United States shall be treated as having received an amount of money equal to the minimum price determined pursuant to such section or (if larger) the amount received by the United States from the resale of such property.
+Property may be returned at any time. An amount equal to the amount of money levied upon or received from such sale may be returned at any time before the expiration of 2 years from the date of such levy. For purposes of paragraph (3), if property is declared purchased by the United States at a sale pursuant to section 6335(e) (relating to manner and conditions of sale), the United States shall be treated as having received an amount of money equal to the minimum price determined pursuant to such section or (if larger) the amount received by the United States from the resale of such property.
 
 **(c) Interest** Interest shall be allowed and paid at the overpayment rate established under section 6621—
 
@@ -2584,9 +2620,42 @@ the provisions of subsection (b) shall apply in the same manner as if such prope
 
 **(e) Release of levy upon agreement that amount is not collectible** In the case of a levy on the salary or wages payable to or received by the taxpayer, upon agreement with the taxpayer that the tax is not collectible, the Secretary shall release such levy as soon as practicable.
 
+**(f) Individuals held harmless on wrongful levy, etc.11 So in original. Probably should be followed by a comma. on retirement plan**
+
+(1) **In general** — If the Secretary determines that an individual’s account or benefit under an eligible retirement plan (as defined in section 402(c)(8)(B)) has been levied upon in a case to which subsection (b) or (d)(2)(A) applies and property or an amount of money is returned to the individual—
+
+  (A) the individual may contribute such property or an amount equal to the sum of—
+
+    (i) the amount of money so returned by the Secretary, and
+
+    (ii) interest paid under subsection (c) on such amount of money,
+    into such eligible retirement plan if such contribution is permitted by the plan, or into an individual retirement plan (other than an endowment contract) to which a rollover contribution of a distribution from such eligible retirement plan is permitted, but only if such contribution is made not later than the due date (not including extensions) for filing the return of tax for the taxable year in which such property or amount of money is returned, and
+
+  (B) the Secretary shall, at the time such property or amount of money is returned, notify such individual that a contribution described in subparagraph (A) may be made.
+
+(2) **Treatment as rollover** — The distribution on account of the levy and any contribution under paragraph (1) with respect to the return of such distribution shall be treated for purposes of this title as if such distribution and contribution were described in section 402(c), 402A(c)(3), 403(a)(4), 403(b)(8), 408(d)(3), 408A(d)(3), or 457(e)(16), whichever is applicable; except that—
+
+  (A) the contribution shall be treated as having been made for the taxable year in which the distribution on account of the levy occurred, and the interest paid under subsection (c) shall be treated as earnings within the plan after the contribution and shall not be included in gross income, and
+
+  (B) such contribution shall not be taken into account under section 408(d)(3)(B).
+
+(3) **Refund, etc., of income tax on levy**
+
+  (A) *In general* — If any amount is includible in gross income for a taxable year by reason of a distribution on account of a levy referred to in paragraph (1) and any portion of such amount is treated as a rollover contribution under paragraph (2), any tax imposed by chapter 1 on such portion shall not be assessed, and if assessed shall be abated, and if collected shall be credited or refunded as an overpayment made on the due date for filing the return of tax for such taxable year.
+
+  (B) *Exception* — Subparagraph (A) shall not apply to a rollover contribution under this subsection which is made from an eligible retirement plan which is not a Roth IRA or a designated Roth account (within the meaning of section 402A) to a Roth IRA or a designated Roth account under an eligible retirement plan.
+
+(4) **Interest** — Notwithstanding subsection (d), interest shall be allowed under subsection (c) in a case in which the Secretary makes a determination described in subsection (d)(2)(A) with respect to a levy upon an individual retirement plan.
+
+(5) **Treatment of inherited accounts** — For purposes of paragraph (1)(A), section 408(d)(3)(C) shall be disregarded in determining whether an individual retirement plan is a plan to which a rollover contribution of a distribution from the plan levied upon is permitted.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–123 added subsec. (f).
+
+2017—Subsec. (b). Pub. L. 115–97 substituted “2 years” for “9 months” in concluding provisions.
+
 1998—Subsec. (d)(2)(D). Pub. L. 105–206, § 1102(d)(1)(B), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in two places.
 
 Subsec. (e). Pub. L. 105–206, § 3432(a), added subsec. (e).
@@ -2602,6 +2671,12 @@ Subsec. (e). Pub. L. 105–206, § 3432(a), added subsec. (e).
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 1966—Pub. L. 89–719 inserted “and return property” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–123, div. D, title II, § 41104(b), Feb. 9, 2018, 132 Stat. 157, provided that: “The amendment made by this section [amending this section] shall apply to amounts paid under subsections (b), (c), and (d)(2)(A) of section 6343 of the Internal Revenue Code of 1986 in taxable years beginning after December 31, 2017.”
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–97, title I, § 11071(c), Dec. 22, 2017, 131 Stat. 2092, provided that: “The amendments made by this section [amending this section and [section 6532 of this title](./chapter-066-limitations.md#section-6532)] shall apply to— “(1) levies made after the date of the enactment of this Act [Dec. 22, 2017], and “(2) levies made on or before such date if the 9-month period has not expired under section 6343(b) of the Internal Revenue Code of 1986 (without regard to this section) as of such date.”
 
 #### Effective Date of 1998 Amendment
 Amendment by section 1102 of Pub. L. 105–206 effective July 22, 1998, see section 1102(f) of Pub. L. 105–206, set out as a note under [section 7803 of this title](./chapter-080-general-rules.md#section-7803).

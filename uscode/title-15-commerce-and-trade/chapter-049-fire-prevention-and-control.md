@@ -38,6 +38,9 @@ The Congress finds that—
 #### References in Text
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§ 201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under [section 278f of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278f). The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–98, § 1, Jan. 3, 2018, 131 Stat. 2239, provided that: “This Act [amending sections 2216, 2229, and 2229a of this title and enacting provisions set out as notes under [section 2229 of this title](./chapter-049-fire-prevention-and-control.md#section-2229)] may be cited as the ‘United States Fire Administration, AFG, and SAFER Program Reauthorization Act of 2017’.”
+
 #### Short Title of 2013 Amendment
 Pub. L. 112–239, div. A, title XVIII, § 1801, Jan. 2, 2013, 126 Stat. 2099, provided that: “This subtitle [subtitle A (§§ 1801–1807) of title XVIII of div. A of Pub. L. 112–239, amending sections 2203, 2204, 2206, 2210, 2214, 2215, 2217, 2218, 2224, 2226, 2229, 2229a of this title and [section 290a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290a&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Fire Grants Reauthorization Act of 2012’.”
 
@@ -1082,7 +1085,7 @@ The funds authorized under this subsection shall be in addition to funds authori
 
   (L) $76,490,890 for fiscal year 2016, of which $2,753,672 shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim); and
 
-  (M) $76,490,890 for fiscal year 2017, of which $2,753,672 shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim).
+  (M) $76,490,890 for for 22 So in original. each of fiscal years 2017 through 2023, of which $2,753,672 for each such fiscal year shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim).
 
 (2) Of the amounts referred to in paragraph (1), not more than $4,150,000 is authorized to be appropriated for each fiscal year for National Emergency Training Center site administration.
 
@@ -1110,6 +1113,8 @@ Reorganization Plan Numbered 3 of 1978, referred to in subsec. (b), is set out i
 The National Bureau of Standards Authorization Act for fiscal years 1981 and 1982, referred to in subsec. (d)(1)(A), is Pub. L. 96–461, Oct. 15, 1980, 94 Stat. 2049, which enacted [section 278g of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g), amended sections 278d and 278h of this title, and enacted provisions set out as notes under [section 278g of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2018—Subsec. (g)(1)(M). Pub. L. 115–98 substituted “for each of fiscal years 2017 through 2023” for “fiscal year 2017” and inserted “for each such fiscal year” after “$2,753,672”.
+
 2013—Subsec. (g)(1)(E) to (M). Pub. L. 112–239 added subpars. (I) to (M) and realigned margins in subpars. (E) to (H).
 
 2008—Subsec. (g)(1)(E) to (H). Pub. L. 110–376 added subpars. (E) to (H).
@@ -1888,6 +1893,8 @@ No funds shall be made available to a State or local government under [section 2
 
   (M) To support such other activities, consistent with the purposes of this subsection, as the Administrator of FEMA determines appropriate.
 
+  (N) To provide specialized training to firefighters, paramedics, emergency medical service workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crisis.
+
 **(d) Fire prevention and safety grants**
 
 (1) **In general** — For the purpose of assisting fire prevention programs and supporting firefighter health and safety research and development, the Administrator of FEMA may, on a competitive basis—
@@ -2178,7 +2185,7 @@ No funds shall be made available to a State or local government under [section 2
 
   (A) $750,000,000 for fiscal year 2013; and
 
-  (B) for each of fiscal years 2014 through 2017, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
+  (B) for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
 
     (i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
 
@@ -2188,7 +2195,7 @@ No funds shall be made available to a State or local government under [section 2
 
 (3) **Congressionally directed spending** — Consistent with the requirements in subsections (c)(1) and (d)(1) that grants under those subsections be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally directed spending item (as defined under the rules of the Senate and the House of Representatives).
 
-**(r) Sunset of authorities** The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013.
+**(r) Sunset of authorities** The authority to award assistance and grants under this section shall expire on September 30, 2024.
 
 ### Statutory Notes
 
@@ -2199,6 +2206,12 @@ The Federal Advisory Committee Act, referred to in subsecs. (f)(2) and (l)(3), i
 Another section 33 of Pub. L. 93–498 was renumbered section 35 and is classified to [section 2230 of this title](./chapter-049-fire-prevention-and-control.md#section-2230).
 
 #### Amendments
+2018—Subsec. (c)(3)(N). Pub. L. 115–98, § 3(c), added subpar. (N).
+
+Subsec. (q)(1)(B). Pub. L. 115–98, § 3(b), substituted “2023” for “2017” in introductory provisions.
+
+Subsec. (r). Pub. L. 115–98, § 3(a), substituted “September 30, 2024” for “the date that is 5 years after January 2, 2013”.
+
 2013—Pub. L. 112–239 amended section generally. Prior to amendment, section authorized grants for firefighter assistance.
 
 2004—Subsec. (b)(1)(A). Pub. L. 108–375, § 3602(1), inserted “throughout the Nation” after “personnel” and struck out “and” at end.
@@ -2268,6 +2281,12 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Training on Administration of Fire Grant Programs
+Pub. L. 115–98, § 5, Jan. 3, 2018, 131 Stat. 2240, provided that: “(a) In General.—The Administrator of the Federal Emergency Management Agency, acting through the Administrator of the United States Fire Administration, may develop and make widely available an electronic, online training course for members of the fire and emergency response community on matters relating to the administration of grants under sections 33 and 34 of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2229](./chapter-049-fire-prevention-and-control.md#section-2229) and 2229a). “(b) Requirements.—The Administrator of the Federal Emergency Management Agency shall ensure that any training developed and made available under subsection (a) is—“(1) tailored to the financial and time constraints of members of the fire and emergency response community; and “(2) accessible to all individuals in the career, combination, paid-on-call, and volunteer fire and emergency response community.”
+
+#### Framework for Oversight and Monitoring of the Assistance to Firefighters Grants Program, the Fire Prevention and Safety Grants Program, and the Staffing for Adequate Fire and Emergency Response Grant Program
+Pub. L. 115–98, § 6, Jan. 3, 2018, 131 Stat. 2241, provided that: “(a) Framework.—Not later than 90 days after the date of enactment of this Act [Jan. 3, 2018], the Administrator of the Federal Emergency Management Agency, acting through the Administrator of the United States Fire Administration, shall develop and implement a grant monitoring and oversight framework to mitigate and minimize risks of fraud, waste, abuse, and mismanagement relating to the grants programs under sections 33 and 34 of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2229](./chapter-049-fire-prevention-and-control.md#section-2229) and 2229a). “(b) Elements.—The framework required under subsection (a) shall include the following:“(1) Developing standardized guidance and training for all participants in the grant programs described in subsection (a). “(2) Conducting regular risk assessments. “(3) Conducting desk reviews and site visits. “(4) Enforcement actions to recoup potential questionable costs of grant recipients. “(5) Such other oversight and monitoring tools as the Administrator of the Federal Emergency Management Agency considers necessary to mitigate and minimize fraud, waste, abuse, and mismanagement relating to the grant programs described in subsection (a).”
+
 
 <a id="section-2229a"></a>
 ## § 2229a. Staffing for adequate fire and emergency response
@@ -2277,7 +2296,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (A) The Administrator of FEMA shall make grants directly to career fire departments, combination fire departments, and volunteer fire departments, in consultation with the chief executive of the State in which the applicant is located, for the purpose of increasing the number of firefighters to help communities meet industry minimum standards and attain 24-hour staffing to provide adequate protection from fire and fire-related hazards, and to fulfill traditional missions of fire departments that antedate the creation of the Department of Homeland Security.
 
-  (B) Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises.
+  (B) Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters or to change the status of part-time or paid-on-call (as defined in [section 2229(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2229/a&num=0&edition=prelim)) firefighters to full-time firefighters.
 
   (C) In awarding grants under this subsection, the Administrator of FEMA may give preferential consideration to applications that involve a non-Federal contribution exceeding the minimums under subparagraph (E).
 
@@ -2309,7 +2328,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (A) explain the applicant’s inability to address the need without Federal assistance;
 
-  (B) in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F);
+  (B) in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(F);
 
   (C) specify long-term plans for retaining firefighters following the conclusion of Federal support provided under this section; and
 
@@ -2319,7 +2338,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (1) Funds made available under this section to fire departments for salaries and benefits to hire new, additional firefighters shall not be used to supplant State or local funds, or, in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this section, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
 
-(2) No grant shall be awarded pursuant to this section to a municipality or other recipient whose annual budget at the time of the application for fire-related programs and emergency response has been reduced below 80 percent of the average funding level in the 3 years prior to November 24, 2003.
+(2) No grant shall be awarded pursuant to this section to a municipality or other recipient whose annual budget at the time of the application for fire-related programs and emergency response has been reduced below 80 percent of the average funding level in the 3 years prior to the date of the application for the grant.
 
 (3) Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing firefighting functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this section.
 
@@ -2337,7 +2356,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (A) waive the requirements of subsection (c)(1); or
 
-  (B) waive or reduce the requirements in subsection (a)(1)(E) or subsection (c)(2).
+  (B) waive or reduce the requirements in subsection (a)(1)(E), (c)(2), or (c)(4).
 
 (2) **Guidelines**
 
@@ -2401,7 +2420,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (H) $750,000,000 for fiscal year 2013; and
 
-  (I) for each of fiscal years 2014 through 2017, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
+  (I) for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
 
     (i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
 
@@ -2411,7 +2430,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (3) **Congressionally directed spending** — Consistent with the requirement in subsection (a) that grants under this section be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally direct spending item (as defined under the rules of the Senate and the House of Representatives).
 
-**(k) Sunset of authorities** The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013.
+**(k) Sunset of authorities** The authority to award assistance and grants under this section shall expire on September 30, 2024.
 
 ### Statutory Notes
 
@@ -2422,6 +2441,18 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 A prior section 34 of Pub. L. 93–498 was renumbered section 36 and is classified to [section 2231 of this title](./chapter-049-fire-prevention-and-control.md#section-2231).
 
 #### Amendments
+2018—Subsec. (a)(1)(B). Pub. L. 115–98, § 4(f), substituted “firefighters or to change the status of part-time or paid-on-call (as defined in [section 2229(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2229/a&num=0&edition=prelim)) firefighters to full-time firefighters” for “firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises”.
+
+Subsec. (b)(3)(B). Pub. L. 115–98, § 4(c), substituted “of subsection (a)(1)(F)” for “of subsection (a)(1)(B)(ii) and (F)”.
+
+Subsec. (c)(2). Pub. L. 115–98, § 4(d), substituted “prior to the date of the application for the grant” for “prior to November 24, 2003”.
+
+Subsec. (d)(1)(B). Pub. L. 115–98, § 4(e), substituted “subsection (a)(1)(E), (c)(2), or (c)(4)” for “subsection (a)(1)(E) or subsection (c)(2)”.
+
+Subsec. (j)(1)(I). Pub. L. 115–98, § 4(b), substituted “2023” for “2017” in introductory provisions.
+
+Subsec. (k). Pub. L. 115–98, § 4(a), substituted “September 30, 2024” for “the date that is 5 years after January 2, 2013”.
+
 2016—Subsec. (a)(1)(B). Pub. L. 114–255 inserted before period at end “and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises”.
 
 2013—Pub. L. 112–239, § 1804(j), substituted “Staffing for adequate fire and emergency response” for “Expansion of pre-September 11, 2001, fire grant program” in section catchline.

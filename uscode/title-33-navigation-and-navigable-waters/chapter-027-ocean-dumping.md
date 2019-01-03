@@ -275,6 +275,9 @@ Pub. L. 93–254, § 2, Mar. 22, 1974, 88 Stat. 51, provided in part that: “Th
 
 Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401).
 
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
+
 
 <a id="section-1414"></a>
 ## § 1414. Emergency dumping of industrial waste
@@ -344,6 +347,9 @@ Subsecs. (c), (d). Pub. L. 96–572, § 2(2), added subsecs. (c) and (d).
 Subsec. (c). Pub. L. 102–580, § 504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to the effects of the dumping or with the restrictions established pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d), the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
 
 Subsec. (e). Pub. L. 102–580, § 504(b), inserted before period at end “and section 1414(a) and (d) of this title”.
+
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
 
 
 <a id="section-1414b"></a>
@@ -432,6 +438,9 @@ Subsec. (d). Pub. L. 102–580, § 507(c), inserted “, based upon monitoring d
 1987—Subsec. (i)(4)(D). Pub. L. 100–17 inserted “to _____” after “grant a permit”.
 
 1983—Subsecs. (h), (i). Pub. L. 97–424 added subsecs. (h) and (i).
+
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -939,6 +948,9 @@ Subsec. (i). Pub. L. 102–508, § 508(b), added subsec. (i).
 
 Subsec. (b). Pub. L. 100–688, § 3201(d), designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
+
 
 <a id="section-1418"></a>
 ## § 1418. Relationship to other laws
@@ -990,6 +1002,9 @@ This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classifie
 
 1980—Subsec. (f). Pub. L. 96–572 added subsec. (f).
 
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
+
 #### Territorial Sea of United States
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
@@ -1004,6 +1019,9 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -1014,6 +1032,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 In carrying out the responsibilities and authority conferred by this subchapter, the Administrator, the Secretary, and the Secretary of the department in which the Coast Guard is operating are authorized to issue such regulations as they may deem appropriate.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1028,6 +1049,9 @@ The Secretary of State, in consultation with the Administrator, shall seek effec
 
 #### References in Text
 This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
 
 
 <a id="section-1441"></a>
@@ -1053,6 +1077,9 @@ There are authorized to be appropriated, for purposes of carrying out this subch
 1975—Pub. L. 94–62 substituted “not to exceed $5,500,000 for each of the fiscal years 1974 and 1975” for “and not to exceed $5,500,000 for fiscal years 1974 and 1975”, and inserted provisions authorizing appropriation of an amount not to exceed $5,300,000 for fiscal year 1976, and not to exceed $1,325,000 for the transition period (July 1 through Sept. 30, 1976).
 
 1974—Pub. L. 93–472 substituted “fiscal years 1974 and 1975,” for “fiscal year 1974,”.
+
+#### Effective Date
+Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under [section 1411 of this title](./chapter-027-ocean-dumping.md#section-1411).
 
 
 <a id="section-1442"></a>

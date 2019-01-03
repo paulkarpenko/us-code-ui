@@ -89,6 +89,9 @@ In par. (10), “subsections (c) and (d) of [section 70502 of title 46](https://
 #### Amendments
 2000—Par. (4). Pub. L. 106–562 inserted “or subject to the jurisdiction of the United States” after “United States” in introductory provisions.
 
+#### Effective Date
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under [section 5501 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5501).
+
 
 <a id="section-5503"></a>
 ## § 5503. Permitting
@@ -161,6 +164,9 @@ This chapter, referred to in subsec. (e)(2), was in the original “this Act”,
 #### Effective Date of 1996 Amendment
 Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
+#### Effective Date
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under [section 5501 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5501).
+
 
 <a id="section-5504"></a>
 ## § 5504. Responsibilities of Secretary
@@ -201,6 +207,9 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 #### Effective Date of 1996 Amendment
 Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
+#### Effective Date
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under [section 5501 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5501).
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -229,6 +238,11 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 (9) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any living marine resource taken or retained in violation of this chapter or any regulation or permit issued under this chapter; or
 
 (10) to violate any provision of this chapter or any regulation or permit issued under this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under [section 5501 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5501).
 
 
 <a id="section-5506"></a>
@@ -267,6 +281,9 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 #### References in Text
 This chapter, referred to in subsec. (e), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 104–43, to reflect the probable intent of Congress.
+
+#### Effective Date
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under [section 5501 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5501).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -320,12 +337,22 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by [section 5505 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5505) shall be liable in rem for any civil penalty assessed for such violation under subsection (a) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under [section 5501 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5501).
+
 
 <a id="section-5508"></a>
 ## § 5508. Criminal offenses
 **(a) Offenses** A person is guilty of an offense if the person commits any act prohibited by paragraph (6), (7), (8), or (9) of [section 5505 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5505).
 
 **(b) Punishment** Any offense described in subsection (a) is a class A misdemeanor punishable by a fine under title 18, or imprisonment for not more than one year, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any authorized officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18, or imprisonment for not more than 10 years, or both.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under [section 5501 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5501).
 
 
 <a id="section-5509"></a>
@@ -355,3 +382,8 @@ shall apply to seizures and forfeitures incurred, or alleged to have been incurr
 (2) Any living marine resources seized pursuant to this chapter may be sold, subject to the approval of the appropriate court, for not less than the fair market value thereof. The proceeds of any such sale shall be deposited with such court pending the disposition of the matter involved.
 
 **(e) Rebuttable presumption** For purposes of this section, all living marine resources found on board a high seas fishing vessel and which are seized in connection with an act prohibited by [section 5505 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5505) are presumed to have been taken or retained in violation of this chapter, but the presumption can be rebutted by an appropriate showing of evidence to the contrary.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under [section 5501 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5501).

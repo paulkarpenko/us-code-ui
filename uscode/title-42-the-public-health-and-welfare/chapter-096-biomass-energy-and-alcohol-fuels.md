@@ -803,7 +803,7 @@ This chapter, referred to in subsec. (d), was in the original “this title”, 
 
   (B) amounts paid under this subsection may be required to be repaid to the Secretary of Energy under such terms and conditions as the Secretary may prescribe, including interest at a rate not in excess of the rate prescribed under subsection (a).
 
-**(d) Definitions; sale price of retained fuel; rules relating to fuel displacement** For purposes—
+**(d) Definitions; sale price of retained fuel; rules relating to fuel displacement** For purposes of this section—
 
 (1) The term “new municipal waste energy project” means any municipal waste energy project which—
 

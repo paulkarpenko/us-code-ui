@@ -135,7 +135,7 @@ Section was not enacted as part of the Horse Protection Act of 1970 which compri
 Section was classified to section 466c of the former Appendix to Title 46, prior to the completion of the enactment of Title 46, Shipping, by Pub. L. 109–304, Oct. 6, 2006, 120 Stat. 1485.
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in section 7(j) of the Export Administration Act of 1979, [section 4606(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606/j&num=0&edition=prelim), War and National Defense, prior to the amendment of that Act by the Export Administration Amendments Act of 1985, Pub. L. 99–64, which enacted this section.
+Provisions similar to those in this section were contained in section 7(j) of Pub. L. 96–72, formerly classified to [section 4606(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606/j&num=0&edition=prelim), War and National Defense, prior to the amendment of section 7(j) of that Act by Pub. L. 99–64, which enacted this section.
 
 
 <a id="section-1825"></a>

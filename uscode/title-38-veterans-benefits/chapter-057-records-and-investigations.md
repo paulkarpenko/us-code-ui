@@ -12,7 +12,7 @@ source: >-
 
 **(b)** The Secretary shall make disclosure of such files, records, reports, and other papers and documents as are described in subsection (a) of this section as follows:
 
-(1) To a claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone when, in the judgment of the Secretary, such disclosure would not be injurious to the physical or mental health of the claimant and to an independent medical expert or experts for an advisory opinion pursuant to section 5109 or 7109 of this title.
+(1) To a claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone when, in the judgment of the Secretary, such disclosure would not be injurious to the physical or mental health of the claimant and to an independent medical expert or experts for an advisory opinion pursuant to [section 5109 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5109).
 
 (2) When required by process of a United States court to be produced in any suit or proceeding therein pending.
 
@@ -129,14 +129,25 @@ source: >-
 
 (2) In this subsection, the term “organ procurement organization” has the meaning given the term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act ([42 U.S.C. 273(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section273/b&num=0&edition=prelim)).
 
-**(l)** Under regulations the Secretary shall prescribe, the Secretary shall disclose information about a veteran or the dependent of a veteran to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ([42 U.S.C. 280g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280g–3&num=0&edition=prelim)), to the extent necessary to prevent misuse and diversion of prescription medicines.
+**(l)**
+
+(1) Under regulations the Secretary shall prescribe, the Secretary shall disclose information about a covered individual to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ([42 U.S.C. 280g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280g–3&num=0&edition=prelim)), to the extent necessary to prevent misuse and diversion of prescription medicines.
+
+(2) In this subsection, a “covered individual” is an individual who is dispensed medication prescribed by an employee of the Department or by a non-Department provider authorized to prescribe such medication by the Department.
 
 ### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 2(u)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
 
 #### References in Text
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(1)(A)(ii), is section 264 of title II of Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2017—Subsec. (b)(1). Pub. L. 115–55 struck out “or 7109” after “section 5109”.
+
+Subsec. (l). Pub. L. 115–86 designated existing provisions as par. (1), substituted “about a covered individual” for “about a veteran or the dependent of a veteran”, and added par. (2).
+
 2016—Subsec. (l). Pub. L. 114–198 and Pub. L. 114–223 amended subsec. (l) identically, substituting “shall disclose” for “may disclose”.
 
 2011—Subsec. (l). Pub. L. 112–74 added subsec. (l).
@@ -234,6 +245,9 @@ Subsec. (g). Pub. L. 94–321, § 1(a)(5), added subsec. (g).
 1969—Par. (1). Pub. L. 91–24 substituted “the claimant and to an independent” for “the claimant. And to an independent”.
 
 1962—Par. (1). Pub. L. 87–671 inserted provisions authorizing disclosure to an independent medical expert or experts for an advisory opinion pursuant to [section 4009 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4009&num=0&edition=prelim).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 #### Effective Date of 1989 Amendment
 Pub. L. 101–94, title III, § 302(c), Aug. 16, 1989, 103 Stat. 628, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4092 [now 7292] of this title] shall take effect as if included in the Veterans’ Judicial Review Act [div. A of Pub. L. 100–687].”

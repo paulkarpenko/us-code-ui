@@ -51,13 +51,13 @@ The purposes of the corporation are—
 
 ### Statutory Notes
 
-#### Amendment Subsequent to August 15, 1997
-Section 5201(b) of former Title 36, from which this section was derived, was amended by Pub. L. 105–276, title IV, § 427(a), Oct. 21, 1998, 112 Stat. 2510, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-patriotic-and-national-observances.md#section-101). As subsequently amended by Pub. L. 106–503, this section restated the provisions of section 5201(b) of former Title 36, as amended by Pub. L. 105–276, § 427(a), with the exception that in par. (1)(B), the words “plan, direct, and manage the memorial service referred to in subparagraph (A)” were used instead of “plan, direct, and manage the memorial service referred to in subparagraph (A) and related activities”.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 151302 | 36:5201(b). | Oct. 26, 1992, Pub. L. 102–522, title II, § 202(b), 106 Stat. 3417. |
+
+#### Codification
+Section 5201(b) of former Title 36, from which this section was derived, was amended after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(a), Oct. 21, 1998, 112 Stat. 2510, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-patriotic-and-national-observances.md#section-101). The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the exception that in par. (1)(B), the words “plan, direct, and manage the memorial service referred to in subparagraph (A)” were used instead of “plan, direct, and manage the memorial service referred to in subparagraph (A) and related activities”.
 
 #### Amendments
 2000—Par. (1). Pub. L. 106–503, § 113(a)(1) added par. (1) and struck out former par. (1) which read as follows: “primarily to encourage, accept, and administer private gifts of property for the benefit of the National Fallen Firefighters’ Memorial and the annual memorial service associated with it;”.
@@ -181,9 +181,6 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 ### Statutory Notes
 
-#### Amendment Subsequent to August 15, 1997
-Section 5202(g)(1) of former Title 36, from which this section was derived, was amended by Pub. L. 105–276, title IV, § 427(b), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-patriotic-and-national-observances.md#section-101). As subsequently amended by Pub. L. 106–503, this section restated the provisions of section 5202(g)(1) of former Title 36, as amended by Pub. L. 105–276, § 427(b).
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -196,6 +193,9 @@ In subsection (b)(3), the words “relating to classification and General Schedu
 
 #### References in Text
 The General Schedule, referred to in subsec. (b)(3), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+
+#### Codification
+Section 5202(g)(1) of former Title 36, from which this section was derived, was amended after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(b), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-patriotic-and-national-observances.md#section-101). The subsequent amendment made directly to this section by section 113(c)(1) of Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276.
 
 #### Amendments
 2003—Subsec. (b)(3). Pub. L. 108–169 inserted “15 percent above” after “more than”.
@@ -285,9 +285,6 @@ This section is substituted for the source provisions for consistency in the rev
 
 ### Statutory Notes
 
-#### Amendment Subsequent to August 15, 1997
-Section 5204 of former Title 36, from which subsec. (a) of this section was derived, was amended generally by Pub. L. 105–276, title IV, § 427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-patriotic-and-national-observances.md#section-101). As subsequently amended by Pub. L. 106–503 subsec. (a) of this section restated the provisions of section 5204 of former Title 36, as amended by Pub. L. 105–276, § 427(c), with the following exceptions—(1) in the introductory provisions of subsec. (a)(1), the words “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000” were used instead of “During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999”, (2) in subsec. (a)(1)(A), the words “other administrative services to” were used instead of “other required services for the operation of”, and (3) in subsec. (a)(1)(B), the words “may require and accept reimbursements” were used instead of “may accept reimbursement”.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -295,6 +292,9 @@ Section 5204 of former Title 36, from which subsec. (a) of this section was deri
 | 151307(b) | 36:5205. |  |
 
 In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations” are substituted for “the Federal civil service classification laws, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
+
+#### Codification
+Section 5204 of former Title 36, from which subsec. (a) of this section was derived, was amended generally after the Aug. 15, 1997, cutoff date by Pub. L. 105–276, title IV, § 427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-patriotic-and-national-observances.md#section-101). The subsequent amendment made directly to this section by Pub. L. 106–503 replicated the prior amendment made by Pub. L. 105–276, with the following exceptions—(1) in the introductory provisions of subsec. (a)(1), the words “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000” were used instead of “During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999”, (2) in subsec. (a)(1)(A), the words “other administrative services to” were used instead of “other required services for the operation of”, and (3) in subsec. (a)(1)(B), the words “may require and accept reimbursements” were used instead of “may accept reimbursement”.
 
 #### Amendments
 2003—Subsec. (a)(1). Pub. L. 108–169 substituted “The” for “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the”.

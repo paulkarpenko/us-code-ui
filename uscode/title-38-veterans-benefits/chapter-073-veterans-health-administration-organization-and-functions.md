@@ -2,7 +2,7 @@
 title: 38
 chapter: '73'
 heading: VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS
-section_count: 47
+section_count: 48
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -68,6 +68,9 @@ source: >-
 
 #### Amendments
 2014—Subsec. (e). Pub. L. 113–146 added subsec. (e).
+
+#### Pilot Program on Graduate Medical Education and Residency
+Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, § 211(b)(9), Sept. 29, 2018, 132 Stat. 3177, provided that: “(a) Establishment.—“(1) In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under section 301(b)(2) of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; [38 U.S.C. 7302](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7302) note) at covered facilities. “(2) Covered facilities.—For purposes of this section, a covered facility is any of the following:“(A) A health care facility of the Department of Veterans Affairs. “(B) A health care facility operated by an Indian tribe or a tribal organization, as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(C) A health care facility operated by the Indian Health Service. “(D) A Federally-qualified health center, as defined in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d&num=0&edition=prelim)(l)(2)(B)). “(E) A health care facility operated by the Department of Defense. “(F) Such other health care facility as the Secretary considers appropriate for purposes of this section. “(3) Agreements.—To carry out the pilot program under this section, the Secretary may enter into agreements with entities that operate covered facilities in which the Secretary places residents under paragraph (1). “(4) Parameters for location, affiliate sponsor, and duration.—When determining in which covered facilities to place residents under paragraph (1), the Secretary shall consider the extent to which there is a clinical need for providers in an area, as determined by the following:“(A) The ratio of veterans to health care providers of the Department for a standardized geographic area surrounding a facility, including a separate ratio for general practitioners and specialists. “(B) The range of clinical specialties of providers in standardized geographic areas surrounding a facility. “(C) Whether the specialty of a provider is included in the most recent staffing shortage determination of the Department under [section 7412 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7412), United States Code. “(D) Whether the local community is designated by the Secretary of Veterans Affairs as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note]. “(E) Whether the facility is located in a community that is designated by the Secretary of Health and Human Services as a health professional shortage area under section 332 of the Public Health Service Act ([42 U.S.C. 254e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e&num=0&edition=prelim)). “(F) Whether the facility is located in a rural or remote area. “(G) Such other criteria as the Secretary considers important in determining which facilities are not adequately serving area veterans. “(5) Priority in placements.—During the pilot program under this section, the Secretary shall place no fewer than 100 residents in covered facilities—“(A) operated by the Indian Health Service; “(B) operated by an Indian tribe; “(C) operated by a tribal organization; or “(D) located in communities designated by the Secretary as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note]. “(6) Stipends and benefits.—The Secretary may pay stipends and provide benefits for residents in positions under paragraph (1), regardless of whether they have been assigned in a Department facility. “(b) Reimbursement.—If a covered facility establishes a new residency program in which the Secretary places a resident under the pilot program, the Secretary shall reimburse that covered facility for costs of the following:“(1) Curriculum development. “(2) Recruitment and retention of faculty. “(3) Accreditation of the program by the Accreditation Council for Graduate Medical Education. “(4) The portion of faculty salaries attributable to duties under an agreement under subsection (a)(3). “(5) Expenses relating to educating a resident under the pilot program. “(c) Reporting.—“(1) In general.—Not later than 1 year after the date of the enactment of this Act [June 6, 2018] and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program. “(2) Elements.—Each report submitted under paragraph (1) shall include the following with regard to the immediately preceding year, and in comparison to the year immediately preceding that year:“(A) The number of veterans who received care from residents under the pilot program. “(B) The number of veterans who received care from each resident per position described in subsection (a)(1) under the pilot program. “(C) The number of veterans who received care from residents under the pilot program expressed as a percentage of all individuals who received care from such residents. “(D) The number of clinical appointments for veterans conducted by each resident under the pilot program. “(E) The number of clinical appointments for veterans conducted by residents per position described in subsection (a)(1) under the pilot program. “(F) The number of clinical appointments for veterans expressed as a percentage of all clinical appointments conducted by residents under the pilot program. “(G) The number of positions described in subsection (a)(1) at each covered facility under the pilot program. “(H) For each position described in subsection (a)(1) in a residency program affiliated with a health care facility of the Department, the time a resident under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for that resident position. “(I) For each residency program affiliated with a health care facility of the Department, the time all residents under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for those residents. “(J) The time that all residents under the pilot program who are assigned to programs affiliated with health care facilities of the Department spent training at facilities of the Department, expressed as a percentage of the total training time for those residents. “(K) The cost to the Department of Veterans Affairs under the pilot program in the year immediately preceding the report and since the beginning of the pilot program. “(L) The cost to the Department of Veterans Affairs per resident placed under the pilot program at each covered facility. “(M) The number of residents under the pilot program hired by the Secretary to work in the Veterans Health Administration after completion of residency in the year immediately preceding the report and since the beginning of the pilot program. “(N) The medical specialties pursued by residents under the pilot program. “(d) Duration.—The pilot program under this section shall terminate on August 7, 2024.”
 
 #### Ten-year Increase
 Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as amended by Pub. L. 114–315, title VI, § 617(a), Dec. 16, 2016, 130 Stat. 1577, provided that: “(A) In general.—In carrying out [section 7302(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7302/e&num=0&edition=prelim), United States Code, as added by paragraph (1), during the 10-year period beginning on the day that is 1 year after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall increase the number of graduate medical education residency positions at medical facilities of the Department by up to 1,500 positions. “(B) Priority.—In increasing the number of graduate medical education residency positions at medical facilities of the Department under subparagraph (A), the Secretary shall give priority to medical facilities that—“(i) as of the date of the enactment of this Act, do not have a medical residency program; and “(ii) are located in a community that has a high concentration of veterans.”
@@ -1845,6 +1848,125 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92
 **(c) Definitions.—** In this section, the terms “hospital care”, “medical services”, “nursing home care”, “facilities of the Department”, and “non-Department facilities” have the meanings given those terms in [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).
 
 
+<a id="section-7330c"></a>
+## § 7330C. Quadrennial Veterans Health Administration review
+**(a) Market Area Assessments.—**
+
+(1) Not less frequently than every 4 years, the Secretary shall perform market area assessments regarding the health care services furnished under the laws administered by the Secretary.
+
+(2) Each market area assessment established under paragraph (1) shall include the following:
+
+  (A) An assessment of the demand for health care from the Department, disaggregated by geographic market areas as determined by the Secretary, including the number of requests for health care services under the laws administered by the Secretary.
+
+  (B) An inventory of the health care capacity of the Department across the Department’s system of facilities.
+
+  (C) An assessment of the health care capacity to be provided through contracted community care providers and providers who entered into a provider agreement with the Department under [section 1703A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703a), including the number of providers, the geographic location of the providers, and categories or types of health care services provided by the providers.
+
+  (D) An assessment obtained from other Federal direct delivery systems of their capacity to provide health care to veterans.
+
+  (E) An assessment of the health care capacity of non-contracted providers where there is insufficient network supply.
+
+  (F) An assessment of the health care capacity of academic affiliates and other collaborations of the Department as it relates to providing health care to veterans.
+
+  (G) An assessment of the effects on health care capacity of the access standards and standards for quality established under sections 1703B and 1703C of this title.
+
+  (H) The number of appointments for health care services under the laws administered by the Secretary, disaggregated by—
+
+    (i) appointments at facilities of the Department; and
+
+    (ii) appointments with non-Department health care providers.
+
+(3)
+
+  (A) The Secretary shall submit to the appropriate committees of Congress the market area assessments established in paragraph (1).
+
+  (B) The Secretary also shall submit to the appropriate committees of Congress the market area assessments completed by or being performed on the day before the date of the enactment of the Caring for Our Veterans Act of 2018.
+
+(4)
+
+  (A) The Secretary shall use the market area assessments established under paragraph (1) to—
+
+    (i) determine the capacity of the health care provider networks established under section 1703(h) 11 See References in Text note below. of this title;
+
+    (ii) inform the Department budget, in accordance with subparagraph (B); and
+
+    (iii) inform and assess the appropriateness of the access standards established under [section 1703B of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703b) and standards for quality under [section 1703C of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703c) and to make recommendations for any changes to such standards.
+
+  (B) The Secretary shall ensure that the Department budget for any fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) reflects the findings of the Secretary with respect to the most recent market area assessments under paragraph (1) and health care utilization data from the Department and non-Department entities or providers furnishing care and services to covered veterans as described in section 1703(b) 1 of this title.
+
+**(b) Strategic Plan To Meet Health Care Demand.—**
+
+(1) Not later than 1 year after the date of the enactment of the Caring for Our Veterans Act of 2018 and not less frequently than once every 4 years thereafter, the Secretary shall submit to the appropriate committees of Congress a strategic plan that specifies a 4-year forecast of—
+
+  (A) the demand for health care from the Department, disaggregated by geographic area as determined by the Secretary;
+
+  (B) the health care capacity to be provided at each medical center of the Department; and
+
+  (C) the health care capacity to be provided through community care providers.
+
+(2) In preparing the strategic plan under paragraph (1), the Secretary shall—
+
+  (A) assess the access standards and standards for quality established under sections 1703B and 1703C of this title;
+
+  (B) assess the market area assessments established under subsection (a);
+
+  (C) assess the needs of the Department based on identified services that provide management of conditions or disorders related to military service for which there is limited experience or access in the national market, the overall health of veterans throughout their lifespan, or other services as the Secretary determines appropriate;
+
+  (D) consult with key stakeholders within the Department, the heads of other Federal agencies, and other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, veterans service organizations, private sector representatives, academics, and other policy experts;
+
+  (E) identify emerging issues, trends, problems, and opportunities that could affect health care services furnished under the laws administered by the Secretary;
+
+  (F) develop recommendations regarding both short- and long-term priorities for health care services furnished under the laws administered by the Secretary;
+
+  (G) after consultation with veterans service organizations and other key stakeholders on survey development or modification of an existing survey, consider a survey of veterans who have used hospital care, medical services, or extended care services furnished by the Veterans Health Administration during the most recent 2-year period to assess the satisfaction of the veterans with service and quality of care;
+
+  (H) conduct a comprehensive examination of programs and policies of the Department regarding the delivery of health care services and the demand of health care services for veterans in future years;
+
+  (I) assess the remediation of medical service lines of the Department as described in [section 1706A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1706a) in conjunction with the utilization of non-Department entities or providers to offset remediation; and
+
+  (J) consider such other matters as the Secretary considers appropriate.
+
+**(c) Responsibilities.—** The Secretary shall be responsible for—
+
+(1) overseeing the transformation and organizational change across the Department to achieve a high-performing integrated health care network;
+
+(2) developing the capital infrastructure planning and procurement processes, whether minor or major construction projects or leases; and
+
+(3) developing a multi-year budget process that is capable of forecasting future year budget requirements and projecting the cost of delivering health care services under such a high-performing integrated health care network.
+
+**(d) Appropriate Committees of Congress Defined.—** In this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
+
+(2) the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsecs. (a)(3)(B) and (b), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
+
+[Section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), referred to in subsec. (a)(4)(A)(i), (B), probably means [section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703) as amended by Pub. L. 115–182, title I, § 101(a)(1), June 6, 2018, 132 Stat. 1395, which takes effect on the date specified in section 101(b) of Pub. L. 115–182. See Amendment of Section and Effective Date of 2018 Amendment notes set out under [section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703).
+
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–251, § 211(a)(11)(A)(i), substituted “Secretary shall” for “Secretary of Veterans Affairs shall”.
+
+Subsec. (a)(2)(B). Pub. L. 115–251, § 211(a)(11)(A)(ii)(I), substituted “Department across” for “Department of Veterans Affairs across”.
+
+Subsec. (a)(2)(C). Pub. L. 115–251, § 211(a)(11)(A)(ii)(II), substituted “of this title” for “of title 38, as added by section 102”.
+
+Subsec. (a)(2)(H)(i). Pub. L. 115–251, § 211(a)(11)(A)(ii)(III), substituted “Department” for “Department of Veterans Affairs”.
+
+Subsec. (a)(4)(A)(iii). Pub. L. 115–251, § 211(a)(11)(A)(iii)(I), inserted “of this title” after “section 1703C”.
+
+Subsec. (a)(4)(B). Pub. L. 115–251, § 211(a)(11)(A)(iii)(II), inserted “of this title” after “section 1703(b)”.
+
+Subsec. (b)(2)(I). Pub. L. 115–251, § 211(a)(11)(B), inserted “of this title” after “section 1706A”.
+
+Subsec. (c)(1). Pub. L. 115–251, § 211(a)(11)(C)(i), substituted “a high-performing” for “such high performing”.
+
+Subsec. (c)(3). Pub. L. 115–251, § 211(a)(11)(C)(ii), inserted “such” before “a high-performing”.
+
+
 <a id="section-7331"></a>
 ## § 7331. Informed consent
 
@@ -1903,9 +2025,11 @@ Subchapter effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out
 
   (H)
 
-    (i) To a non-Department entity (including private entities and other Federal agencies) that provides hospital care or medical services to veterans as authorized by the Secretary.
+    (i) To a non-Department entity (including private entities and other Federal agencies) for purposes of providing health care, including hospital care, medical services, and extended care services, to patients or performing other health care-related activities or functions.
 
-    (ii) An entity to which a record is disclosed under this subparagraph may not redisclose or use such record for a purpose other than that for which the disclosure was made.
+    (ii) An entity to which a record is disclosed under this subparagraph may not disclose or use such record for a purpose other than that for which the disclosure was made or as permitted by law.
+
+      (I) To a third party in order to recover or collect reasonable charges for care furnished to, or paid on behalf of, a patient in connection with a non-service connected disability as permitted by [section 1729 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1729) or for a condition for which recovery is authorized or with respect to which the United States is deemed to be a third party beneficiary under the Act entitled “An Act to provide for the recovery from tortiously liable third persons of the cost of hospital and medical care and treatment furnished by the United States” (Public Law 87–693; [42 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2651&num=0&edition=prelim) et seq.; commonly known as the “Federal Medical Care Recovery Act”).
 
 (3) In the event that the patient or subject who is the subject of any record referred to in subsection (a) is deceased, the content of any such record may be disclosed by the Secretary only upon the prior written request of the next of kin, executor, administrator, or other personal representative of such patient or subject and only if the Secretary determines that such disclosure is necessary for such survivor to obtain benefits to which such survivor may be entitled, including the pursuit of legal action, but then only to the extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed pursuant to [section 7334 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7334).
 
@@ -1933,7 +2057,16 @@ Subchapter effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out
 
 ### Statutory Notes
 
+#### References in Text
+Public Law 87–693, commonly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(2)(I), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
+2018—Subsec. (b)(2)(H), (I). Pub. L. 115–182 added subpars. (H) and (I) and struck out former subpar. (H), which read as follows:
+
+“(i) To a non-Department entity (including private entities and other Federal agencies) that provides hospital care or medical services to veterans as authorized by the Secretary.
+
+“(ii) An entity to which a record is disclosed under this subparagraph may not redisclose or use such record for a purpose other than that for which the disclosure was made.”
+
 2017—Subsec. (b)(2)(H). Pub. L. 115–26 added subpar. (H).
 
 2011—Subsec. (b)(2)(G). Pub. L. 112–74 added subpar. (G).

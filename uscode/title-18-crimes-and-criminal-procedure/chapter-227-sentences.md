@@ -41,6 +41,8 @@ Pub. L. 98–473, title II, § 235, Oct. 12, 1984, 98 Stat. 2031, as amended by 
 
 [Pub. L. 104–232, § 3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: “Effective on the date the plan [alternative plan by Attorney General for transfer of United States Parole Commission’s functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under [section 4201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4201&num=0&edition=prelim)] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out above] (98 Stat. 2032) are repealed.” ]
 
+[Pub. L. 115–274, § 2, Oct. 31, 2018, 132 Stat. 4160, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘31 years’ or ‘31-year period’ shall be deemed a reference to ‘33 years’ or ‘33-year period’, respectively.” ]
+
 [Pub. L. 113–47, § 2, Oct. 31, 2013, 127 Stat. 572, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘26 years’ or ‘26-year period’ shall be deemed a reference to ‘31 years’ or ‘31-year period’, respectively.” ]
 
 [Pub. L. 112–44, § 2, Oct. 21, 2011, 125 Stat. 532, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘24 years’ or ‘24-year period’ shall be deemed a reference to ‘26 years’ or ‘26-year period’, respectively.” ]
@@ -189,9 +191,15 @@ Upon motion of the defendant or the Government, or on its own motion, the court 
 
 **(e) Limited Authority To Impose a Sentence Below a Statutory Minimum.—** Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant’s substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to [section 994 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), United States Code.
 
-**(f) Limitation on Applicability of Statutory Minimums in Certain Cases.—** Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act ([21 U.S.C. 841](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841&num=0&edition=prelim), 844, 846) or section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 960](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960&num=0&edition=prelim), 963), the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under [section 994 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim) without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
+**(f) Limitation on Applicability of Statutory Minimums in Certain Cases.—** Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act ([21 U.S.C. 841](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841&num=0&edition=prelim), 844, 846), section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 960](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960&num=0&edition=prelim), 963), or section 70503 or 70506 of title 46, the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under [section 994 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim) without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
 
-(1) the defendant does not have more than 1 criminal history point, as determined under the sentencing guidelines;
+(1) the defendant does not have—
+
+  (A) more than 4 criminal history points, excluding any criminal history points resulting from a 1-point offense, as determined under the sentencing guidelines;
+
+  (B) a prior 3-point offense, as determined under the sentencing guidelines; and
+
+  (C) a prior 2-point violent offense, as determined under the sentencing guidelines;
 
 (2) the defendant did not use violence or credible threats of violence or possess a firearm or other dangerous weapon (or induce another participant to do so) in connection with the offense;
 
@@ -200,6 +208,9 @@ Upon motion of the defendant or the Government, or on its own motion, the court 
 (4) the defendant was not an organizer, leader, manager, or supervisor of others in the offense, as determined under the sentencing guidelines and was not engaged in a continuing criminal enterprise, as defined in section 408 of the Controlled Substances Act; and
 
 (5) not later than the time of the sentencing hearing, the defendant has truthfully provided to the Government all information and evidence the defendant has concerning the offense or offenses that were part of the same course of conduct or of a common scheme or plan, but the fact that the defendant has no relevant or useful other information to provide or that the Government is already aware of the information shall not preclude a determination by the court that the defendant has complied with this requirement.
+Information disclosed by a defendant under this subsection may not be used to enhance the sentence of the defendant unless the information relates to a violent offense.
+
+**(g) Definition of Violent Offense.—** As used in this section, the term “violent offense” means a crime of violence, as defined in section 16, that is punishable by imprisonment.
 
 ### Statutory Notes
 
@@ -212,6 +223,12 @@ Section 408 of the Controlled Substances Act, referred to in subsec. (f)(4), is 
 For information regarding constitutionality of certain provisions of this section, as amended by section 401(a)(1) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–391, § 402(a)(1)(A), (C), in introductory provisions, substituted “, section 1010” for “or section 1010” and inserted “, or section 70503 or 70506 of title 46” after “963)”, and inserted concluding provisions.
+
+Subsec. (f)(1). Pub. L. 115–391, § 402(a)(1)(B), added par. (1) and struck out former par. (1) which read as follows: “the defendant does not have more than 1 criminal history point, as determined under the sentencing guidelines;”.
+
+Subsec. (g). Pub. L. 115–391, § 402(a)(2), added subsec. (g).
+
 2010—Subsec. (c)(2). Pub. L. 111–174 substituted “a statement of reasons form issued under [section 994(w)(1)(B) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/w/1/B&num=0&edition=prelim)” for “the written order of judgment and commitment”.
 
 2003—Subsec. (a)(4)(A). Pub. L. 108–21, § 401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to [section 994(a)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/1&num=0&edition=prelim), United States Code, and that are in effect on the date the defendant is sentenced; or”.
@@ -257,6 +274,9 @@ Subsec. (c). Pub. L. 99–646, § 8(a), substituted “If the court does not ord
 Subsec. (d). Pub. L. 99–646, § 80(a), struck out “or restitution” after “notice” in heading, and struck out “or an order of restitution pursuant to section 3556,” after “section 3555,” in introductory text.
 
 Subsec. (e). Pub. L. 99–570 added subsec. (e).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–391, title IV, § 402(b), Dec. 21, 2018, 132 Stat. 5221, provided that: “The amendments made by this section [amending this section] shall apply only to a conviction entered on or after the date of enactment of this Act [Dec. 21, 2018].”
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–322, title VIII, § 80001(c), Sept. 13, 1994, 108 Stat. 1986, provided that: “The amendment made by subsection (a) [amending this section] shall apply to all sentences imposed on or after the 10th day beginning after the date of enactment of this Act [Sept. 13, 1994].”
@@ -1154,7 +1174,7 @@ a judgment of conviction that includes such a sentence constitutes a final judgm
 
 (1) in any case—
 
-  (A) the court, upon motion of the Director of the Bureau of Prisons, may reduce the term of imprisonment (and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment), after considering the factors set forth in section 3553(a) to the extent that they are applicable, if it finds that—
+  (A) the court, upon motion of the Director of the Bureau of Prisons, or upon motion of the defendant after the defendant has fully exhausted all administrative rights to appeal a failure of the Bureau of Prisons to bring a motion on the defendant’s behalf or the lapse of 30 days from the receipt of such a request by the warden of the defendant’s facility, whichever is earlier, may reduce the term of imprisonment (and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment), after considering the factors set forth in section 3553(a) to the extent that they are applicable, if it finds that—
 
     (i) extraordinary and compelling reasons warrant such a reduction; or
 
@@ -1165,7 +1185,63 @@ a judgment of conviction that includes such a sentence constitutes a final judgm
 
 (2) in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission pursuant to [28 U.S.C. 994](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim)(o), upon motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, the court may reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the extent that they are applicable, if such a reduction is consistent with applicable policy statements issued by the Sentencing Commission.
 
-**(d) Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug Offenders.—** The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than his attorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
+**(d) Notification Requirements.—**
+
+(1) **Terminal illness defined.—** — In this subsection, the term “terminal illness” means a disease or condition with an end-of-life trajectory.
+
+(2) **Notification.—** — The Bureau of Prisons shall, subject to any applicable confidentiality requirements—
+
+  (A) in the case of a defendant diagnosed with a terminal illness—
+
+    (i) not later than 72 hours after the diagnosis notify the defendant’s attorney, partner, and family members of the defendant’s condition and inform the defendant’s attorney, partner, and family members that they may prepare and submit on the defendant’s behalf a request for a sentence reduction pursuant to subsection (c)(1)(A);
+
+    (ii) not later than 7 days after the date of the diagnosis, provide the defendant’s partner and family members (including extended family) with an opportunity to visit the defendant in person;
+
+    (iii) upon request from the defendant or his attorney, partner, or a family member, ensure that Bureau of Prisons employees assist the defendant in the preparation, drafting, and submission of a request for a sentence reduction pursuant to subsection (c)(1)(A); and
+
+    (iv) not later than 14 days of receipt of a request for a sentence reduction submitted on the defendant’s behalf by the defendant or the defendant’s attorney, partner, or family member, process the request;
+
+  (B) in the case of a defendant who is physically or mentally unable to submit a request for a sentence reduction pursuant to subsection (c)(1)(A)—
+
+    (i) inform the defendant’s attorney, partner, and family members that they may prepare and submit on the defendant’s behalf a request for a sentence reduction pursuant to subsection (c)(1)(A);
+
+    (ii) accept and process a request for sentence reduction that has been prepared and submitted on the defendant’s behalf by the defendant’s attorney, partner, or family member under clause (i); and
+
+    (iii) upon request from the defendant or his attorney, partner, or family member, ensure that Bureau of Prisons employees assist the defendant in the preparation, drafting, and submission of a request for a sentence reduction pursuant to subsection (c)(1)(A); and
+
+  (C) ensure that all Bureau of Prisons facilities regularly and visibly post, including in prisoner handbooks, staff training materials, and facility law libraries and medical and hospice facilities, and make available to prisoners upon demand, notice of—
+
+    (i) a defendant’s ability to request a sentence reduction pursuant to subsection (c)(1)(A);
+
+    (ii) the procedures and timelines for initiating and resolving requests described in clause (i); and
+
+    (iii) the right to appeal a denial of a request described in clause (i) after all administrative rights to appeal within the Bureau of Prisons have been exhausted.
+
+(3) **Annual report.—** — Not later than 1 year after December 21, 2018, and once every year thereafter, the Director of the Bureau of Prisons shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on requests for sentence reductions pursuant to subsection (c)(1)(A), which shall include a description of, for the previous year—
+
+  (A) the number of prisoners granted and denied sentence reductions, categorized by the criteria relied on as the grounds for a reduction in sentence;
+
+  (B) the number of requests initiated by or on behalf of prisoners, categorized by the criteria relied on as the grounds for a reduction in sentence;
+
+  (C) the number of requests that Bureau of Prisons employees assisted prisoners in drafting, preparing, or submitting, categorized by the criteria relied on as the grounds for a reduction in sentence, and the final decision made in each request;
+
+  (D) the number of requests that attorneys, partners, or family members submitted on a defendant’s behalf, categorized by the criteria relied on as the grounds for a reduction in sentence, and the final decision made in each request;
+
+  (E) the number of requests approved by the Director of the Bureau of Prisons, categorized by the criteria relied on as the grounds for a reduction in sentence;
+
+  (F) the number of requests denied by the Director of the Bureau of Prisons and the reasons given for each denial, categorized by the criteria relied on as the grounds for a reduction in sentence;
+
+  (G) for each request, the time elapsed between the date the request was received by the warden and the final decision, categorized by the criteria relied on as the grounds for a reduction in sentence;
+
+  (H) for each request, the number of prisoners who died while their request was pending and, for each, the amount of time that had elapsed between the date the request was received by the Bureau of Prisons, categorized by the criteria relied on as the grounds for a reduction in sentence;
+
+  (I) the number of Bureau of Prisons notifications to attorneys, partners, and family members of their right to visit a terminally ill defendant as required under paragraph (2)(A)(ii) and, for each, whether a visit occurred and how much time elapsed between the notification and the visit;
+
+  (J) the number of visits to terminally ill prisoners that were denied by the Bureau of Prisons due to security or other concerns, and the reasons given for each denial; and
+
+  (K) the number of motions filed by defendants with the court after all administrative rights to appeal a denial of a sentence reduction had been exhausted, the outcome of each motion, and the time that had elapsed between the date the request was first received by the Bureau of Prisons and the date the defendant filed the motion with the court.
+
+**(e) Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug Offenders.—** The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than his attorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
 
 ### Statutory Notes
 
@@ -1175,6 +1251,10 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), are set 
 The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (d), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (c)(1)(A). Pub. L. 115–391, § 603(b)(1), in introductory provisions, inserted “or upon motion of the defendant after the defendant has fully exhausted all administrative rights to appeal a failure of the Bureau of Prisons to bring a motion on the defendant’s behalf or the lapse of 30 days from the receipt of such a request by the warden of the defendant’s facility, whichever is earlier,” after “Bureau of Prisons,”.
+
+Subsecs. (d), (e). Pub. L. 115–391, § 603(b)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+
 2002—Subsec. (c)(1)(A). Pub. L. 107–273 inserted “(and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment)” after “may reduce the term of imprisonment” in introductory provisions.
 
 1996—Subsec. (c)(1)(A)(i). Pub. L. 104–294 inserted “or” after semicolon at end.

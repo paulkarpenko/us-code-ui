@@ -22,6 +22,9 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), i
 #### Amendments
 1996—Subsec. (c). Pub. L. 104–295 substituted “phytosanitary” for “phystosanitary” before “measure of the Food and Drug Administration”.
 
+#### Effective Date
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
+
 
 <a id="section-2502"></a>
 ## § 2502. Definitions
@@ -46,6 +49,11 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), i
   (D) established by or developed under any other international organization agreed to by the NAFTA countries (as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)) or by the WTO members (as defined in [section 3501(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/10&num=0&edition=prelim)).
 
 **(b) Other definitions** The definitions set forth in [section 2575b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2575b) apply for purposes of this part except that in applying paragraph (7) of [section 2575b of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2575b) with respect to a sanitary or phytosanitary measure of a foreign country, any reference in such paragraph to the United States shall be deemed to be a reference to that foreign country.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
 
 
 <a id="section-2503"></a>
@@ -504,7 +512,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 42. Office of Personnel Management
 
-43. Overseas Private Investment Corporation
+43. Overseas Private Investment Corporation [now United States International Development Finance Corporation]
 
 44. Panama Canal Commission
 
@@ -662,7 +670,7 @@ National Transportation Safety Board
 
 Nuclear Regulatory Commission
 
-Overseas Private Investment Corporation
+Overseas Private Investment Corporation [now United States International Development Finance Corporation]
 
 Administrative Conference of the United States
 
@@ -797,7 +805,7 @@ In text, “chapter 83 of title 41” substituted for “title III of the Act of
 1994—Pub. L. 103–465 inserted “referred to in [section 2503(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/c&num=0&edition=prelim) and approved under [section 2503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/a&num=0&edition=prelim)” after “Civil Aircraft”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States [Jan. 1, 1995], see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
 
 #### Effective Date
 Section effective July 26, 1979, but authority of President to grant waivers under this section effective on Jan. 1, 1980, see section 309 of Pub. L. 96–39, set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
@@ -843,7 +851,7 @@ Subsec. (c). Pub. L. 103–465, § 342(b)(1), (2), substituted “article XXIV(7
 Subsec. (e). Pub. L. 103–465, § 342(b)(3), substituted “the date it enters into force with respect to the United States” for “July 26, 1979”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States [Jan. 1, 1995], see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
 
 #### Delegation of Functions
 Functions of President under this section delegated to United States Trade Representative, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
@@ -1068,7 +1076,7 @@ the President shall take no action to limit Government procurement from that par
 See Termination Date of 1988 Amendment note below.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States [Jan. 1, 1995], see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
 
 #### Termination Date of 1988 Amendment
 Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former subsec. (k) of this section, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
@@ -1090,7 +1098,7 @@ Functions of President under subsec. (c) delegated to United States Trade Repres
 Section, Pub. L. 96–39, title III, § 306, July 26, 1979, 93 Stat. 240, related to labor surplus area studies.
 
 #### Effective Date of Repeal
-Repeal by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States [Jan. 1, 1995], see section 344(a) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
+Repeal by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
 
 
 <a id="section-2533"></a>
@@ -1107,7 +1115,7 @@ The United States Trade Representative shall make available to the Members of Co
 “United States Trade Representative” substituted in text for “Special Representative for Trade Negotiations” pursuant to Reorg. Plan No. 3 of 1979, § 1(1)(b), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171). See, also, [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171) as amended by Pub. L. 97–456.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States [Jan. 1, 1995], see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
 
 
 <a id="section-2541"></a>
@@ -1335,7 +1343,7 @@ No Federal agency may engage in any standards-related activity that creates unne
 1994—Par. (4). Pub. L. 103–465 substituted “Access” for “Certification access” in heading, and, in text, substituted “conformity assessment procedure” for “certification system” and “an assessment of conformity and the mark of the system, if any” for “certification under that system”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
 
 
 <a id="section-2544"></a>
@@ -1470,7 +1478,7 @@ Functions of President under subsec. (b) of this section delegated to Secretary 
 Subsec. (c). Pub. L. 103–465, § 431(a), added subsec. (c).
 
 #### Effective Date of 1994 Amendment
-Amendment by section 351(d) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
+Amendment by section 351(d) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
 
 Amendment by section 431(a) of Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
 
@@ -1716,7 +1724,7 @@ Pars. (17), (18). Pub. L. 103–465, § 351(e)(9), added par. (17) and redesigna
 “(12) Special representative.—The term ‘Special Representative’ means the Special Representative for Trade Negotiations.”
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
 
 
 <a id="section-2575b"></a>
@@ -1744,7 +1752,7 @@ As soon as practicable after the close of the 3-year period beginning on the dat
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
 
 
 <a id="section-2576a"></a>
@@ -1945,7 +1953,7 @@ Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-
 ### Statutory Notes
 
 #### Effective Date
-Part effective on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
 
 #### Designation of Agency
 Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, see par. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).

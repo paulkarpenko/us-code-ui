@@ -300,7 +300,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 (16) Other incidental goods and services determined by the Secretary to be necessary to accomplish the purposes of a rehabilitation program in an individual case.
 
-**(b)** A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary.
+**(b)** A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary. To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.
 
 **(c)**
 
@@ -308,15 +308,16 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 (2) Not later than 90 days before making any changes to the prioritization of the provision of services under this chapter as authorized under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan describing such changes.
 
-### Statutory Notes
+**(d)** The Secretary may not assist a veteran in acquiring adaptations to the residence of the veteran under this chapter. Any such assistance may be furnished only under [section 2102B of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2102b).
 
-#### Amendment of Subsection (b)
-Pub. L. 114–315, title IV, § 402, Dec. 16, 2016, 130 Stat. 1553, provided that, applicable with respect to a course of education or training pursued by a veteran who first begins a program of rehabilitation under this chapter on or after the date that is 1 year after Dec. 16, 2016, subsection (b) of this section is amended by adding at the end “To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.” See 2016 Amendment note below.
+### Statutory Notes
 
 #### Prior Provisions
 Prior section 3104 was renumbered [section 5304 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5304).
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–177 added subsec. (d).
+
 2016—Subsec. (b). Pub. L. 114–315, § 402(a), inserted at end “To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.”
 
 Subsec. (c). Pub. L. 114–315, § 403, added subsec. (c).
@@ -405,7 +406,7 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
   (B) be counted toward the aggregate period for which [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) limits an individual’s receipt of allowance or assistance.
 
-(2) The payment of the subsistence allowance and other assistance referred to in paragraph (1) is the payment of such an allowance or assistance for the period described in paragraph (3) to a veteran for participation in a vocational rehabilitation program under this chapter if the Secretary finds that the veteran had to suspend or discontinue participation in such vocational rehabilitation program as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10.
+(2) The payment of the subsistence allowance and other assistance referred to in paragraph (1) is the payment of such an allowance or assistance for the period described in paragraph (3) to a veteran for participation in a vocational rehabilitation program under this chapter if the Secretary finds that the veteran had to suspend or discontinue participation in such vocational rehabilitation program as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10.
 
 (3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
@@ -415,6 +416,8 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 Prior section 3105 was renumbered [section 5305 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5305).
 
 #### Amendments
+2018—Subsec. (e)(2). Pub. L. 115–407 substituted “12304, 12304a, or 12304b” for “or 12304”.
+
 2011—Subsec. (b). Pub. L. 112–56 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2) and in subsection (c)” for “Except as provided in subsection (c) of this section”, and added par. (2).
 
 2008—Subsec. (d). Pub. L. 110–389 substituted “(1) Except as provided in paragraph (2),” for “Unless the Secretary determines that a longer period is necessary and likely to result in a substantial increase in a veteran’s level of independence in daily living,” and added par. (2).

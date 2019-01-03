@@ -305,6 +305,9 @@ Subsec. (j). Pub. L. 101–524 redesignated subsec. (g) as (j).
 
 Subsec. (g). Pub. L. 92–191 added subsec. (g).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–334 effective on the date that is one year after Dec. 20, 2018, see section 12616(e) of Pub. L. 115–334, set out as a note under [section 2156 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim), Agriculture.
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
@@ -322,7 +325,7 @@ Amendment by Pub. L. 92–191 effective at beginning of third calendar month fol
 Pub. L. 91–662, § 6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for [section 3001 of title 39](./chapter-030-nonmailable-matter.md#section-3001) of the United States Code, as enacted by the Postal Reorganization Act.
 
 #### Effective Date
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Short Title of 1999 Amendment
 Pub. L. 106–168, title I, § 101, Dec. 12, 1999, 113 Stat. 1806, provided that: “This title [enacting sections 3016 and 3017 of this title, amending this section and sections 3005, 3007, 3011, 3012, and 3013 of this title, repealing [section 3006 of this title](./chapter-030-nonmailable-matter.md#section-3006), and enacting provisions set out as notes under this section and sections 3013, 3016, and 3017 of this title] may be cited as the ‘Deceptive Mail Prevention and Enforcement Act’.”
@@ -352,6 +355,11 @@ Pub. L. 87–793, § 307, Oct. 11, 1962, 76 Stat. 841, provided that: “In orde
 **(b)** The Postal Service is authorized to make such exemptions from the provisions of subsection (a) of this section as it deems necessary.
 
 **(c)** For the purposes of this section, “motor vehicle master key” means any key (other than the key furnished by the manufacturer with the motor vehicle, or the key furnished with a replacement lock, or any exact duplicate of such keys) designed to operate 2 or more motor vehicle ignition, door, or trunk locks of different combinations.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3002a"></a>
@@ -389,11 +397,21 @@ Pub. L. 87–793, § 307, Oct. 11, 1962, 76 Stat. 841, provided that: “In orde
 
 (2) the Postal Service determines that the mail is addressed to a fictitious, false, or assumed name, title, or address.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3004"></a>
 ## § 3004. Delivery of mail to persons not residents of the place of address
 
 Whenever the Postal Service determines that letters or parcels sent in the mail are addressed to places not the residence or regular business address of the person for whom they are intended, to enable the person to escape identification, the Postal Service may deliver the mail only upon identification of the person so addressed.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3005"></a>
@@ -463,6 +481,9 @@ Amendment by Pub. L. 101–524 effective Nov. 6, 1990, and applicable to matter 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–625 effective 18 months after Nov. 7, 1988, see section 5 of Pub. L. 100–625, set out as a note under [section 1304 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1304&num=0&edition=prelim), Crimes and Criminal Procedure.
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 #### Consumer Education Program on Schemes Involving False Representations
 Section 4 of Pub. L. 98–186, as amended by Pub. L. 104–66, title II, § 2211(a), Dec. 21, 1995, 109 Stat. 732, provided that: “(a) As soon as practicable after the date of enactment of this Act [Nov. 30, 1983], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme. “(b) A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
 
@@ -517,6 +538,9 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (a)(1), 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106–168, set out as a note under [section 3001 of this title](./chapter-030-nonmailable-matter.md#section-3001).
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3008"></a>
 ## § 3008. Prohibition of pandering advertisements
@@ -542,6 +566,11 @@ Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see secti
 
 (2) the term “children” includes natural children, stepchildren, adopted children, and children who are wards of or in custody of the addressee or who are living with such addressee in a regular parent-child relationship.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3009"></a>
 ## § 3009. Mailing of unordered merchandise
@@ -552,6 +581,11 @@ Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see secti
 **(c)** No mailer of any merchandise mailed in violation of subsection (a) of this section, or within the exceptions contained therein, shall mail to any recipient of such merchandise a bill for such merchandise or any dunning communications.
 
 **(d)** For the purposes of this section, “un­ordered merchandise” means merchandise mailed without the prior expressed request or consent of the recipient.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3010"></a>

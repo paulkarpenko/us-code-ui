@@ -2,7 +2,7 @@
 title: 46
 chapter: '513'
 heading: UNITED STATES MERCHANT MARINE ACADEMY
-section_count: 19
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -61,6 +61,9 @@ Pub. L. 111–383 inserted “as an institution of higher education” after “
 #### Savings Clause
 Pub. L. 114–328, div. C, title XXXV, § 3506(b), Dec. 23, 2016, 130 Stat. 2777, provided that: “Nothing in this section [amending this section] may be construed to require any change to the current leadership of the United States Merchant Marine Academy.”
 
+#### Concurrent Jurisdiction
+Pub. L. 115–232, div. C, title XXXV, § 3506, Aug. 13, 2018, 132 Stat. 2309, provided that: “Notwithstanding any other law, the Secretary of Transportation may relinquish, at the Secretary’s discretion, to the State of New York, such measure of legislative jurisdiction over the lands constituting the United States Merchant Marine Academy in King’s Point, New York, as is necessary to establish concurrent jurisdiction between the Federal Government and the State of New York. Such partial relinquishment of legislative jurisdiction shall be accomplished— “(1) by filing with the Governor of New York a notice of relinquishment to take effect upon acceptance thereof; or “(2) as the laws of that State may provide.”
+
 #### Class Profiles
 Pub. L. 114–328, div. C, title XXXV, § 3516(b), Dec. 23, 2016, 130 Stat. 2789, provided that: “(1) In general.—Not later than August 31 of each year, the Superintendent of the United States Merchant Marine Academy shall post on the Academy’s public website a profile of each class at the Academy. “(2) Contents.—Each profile posted under paragraph (1) shall include, for the incoming class of the Academy and for the 4 classes that preceded that class at the Academy, the number and percentage of students by—“(A) State; “(B) country; “(C) gender; “(D) race and ethnicity; and “(E) prior military service.”
 
@@ -111,14 +114,9 @@ Pub. L. 114–328, div. C, title XXXV, § 3516(b), Dec. 23, 2016, 130 Stat. 2789
 
 (3) **Remaining unfilled positions.—** — If positions remain unfilled after the appointments are made under paragraph (2), the Secretary shall appoint individuals to fill the positions in the order of merit of the remaining individuals nominated from all jurisdictions.
 
+**(e) Congressional Notification in Advance of Appointments.—** When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 114–328, div. A, title V, § 566(d), (e), Dec. 23, 2016, 130 Stat. 2139, provided that, applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, this section is amended by adding at the end the following new subsection:
-
-(e) Congressional Notification in Advance of Appointments.—When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
-
-See 2016 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -140,7 +138,7 @@ In subsection (b)(6)(A), the words “residents, or sons or daughters of residen
 Subsec. (b)(5), (6). Pub. L. 111–383, § 3503(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The Governor of the Northern Mariana Islands may nominate residents of the Northern Mariana Islands.”
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after January 1, 2018, see section 566(e) of Pub. L. 114–328, set out as a note under [section 4342 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4342&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 114–328 applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, see section 566(e) of Pub. L. 114–328, set out as a note under [section 4342 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4342&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-51303"></a>
@@ -317,16 +315,37 @@ Pub. L. 109–364, div. C, title XXXV, § 3506(b), Oct. 17, 2006, 120 Stat. 2517
 
 <a id="section-51307"></a>
 ## § 51307. Places of training
+**(a) In General.—** The Secretary of Transportation may provide for the training of cadets at the United States Merchant Marine Academy—
 
-The Secretary of Transportation may provide for the training of cadets at the United States Merchant Marine Academy—
-
-(1) on vessels owned or subsidized by the United States Government;
+(1) on vessels owned, subsidized by, or contracted with the United States Government;
 
 (2) on other documented vessels, with the permission of the owner;
 
 (3) in shipyards or plants and with industrial or educational organizations; and
 
 (4) on any other vessel considered by the Secretary to be necessary or appropriate or in the national interest.
+
+**(b) Maritime Security Program Vessels.—** The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title to carry on each Maritime Security Program vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.
+
+**(c) Military Sealift Command Vessels.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), the Commander of the Military Sealift Command shall require an operator of a vessel in the United States Navy’s Military Sealift Command to carry on each such vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage, if the vessel—
+
+  (A) is flagged in the United States; and
+
+  (B) is rated at 10,000 gross tons or higher.
+
+(2) **Waiver.—** — The Commander of the Military Sealift Command may waive the requirement under paragraph (1) at any time if the Commander determines that carrying a cadet from the United States Merchant Marine Academy would place an undue burden on the vessel or the operator of the vessel.
+
+**(d) Definition of Operator.—** In this section, the term “operator” includes a government operator and a non-government operator.
+
+**(e) Savings Clause.—** Nothing in this section may be construed as affecting—
+
+(1) the discretion of the Secretary to determine whether to place a United States Merchant Marine Academy cadet on a vessel;
+
+(2) the authority of the Coast Guard regarding a vessel security plan approved under section 70103; or
+
+(3) the discretion of the master of the vessel to ensure the safety of all crew members.
 
 ### Statutory Notes
 
@@ -338,6 +357,10 @@ The Secretary of Transportation may provide for the training of cadets at the Un
 In paragraph (2), the words “with the permission of the owner” are substituted for “if the owner . . . cooperates in such use” for clarity.
 
 #### Amendments
+2018—Pub. L. 115–232, § 3512(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
+
+Subsec. (a)(1). Pub. L. 115–232, § 3512(2), substituted “owned, subsidized by, or contracted with” for “owned or subsidized by”.
+
 2008—Pub. L. 110–181, § 3525(b), repealed Pub. L. 109–241, § 307. See 2006 Amendment note below.
 
 Par. (4). Pub. L. 110–181, § 3525(a)(3), incorporated the substance of the amendment by Pub. L. 109–241, § 307, into this section by adding par. (4). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -613,7 +636,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 ## § 51314. Limitation on charges and fees for attendance
 **(a) Prohibition.—** Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the United States Merchant Marine Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
 
-**(b) Exception.—** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994, or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees. The Secretary of Transportation shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection. Such fees shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.
+**(b) Exception.—** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994, or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees. The Secretary of Transportation shall present at the next meeting of the Board of Visitors, and post on a publicly available website, any change made by the Academy in the amount of a charge or fee authorized under this subsection. Such fees shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.
 
 ### Statutory Notes
 
@@ -623,6 +646,8 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 | 51314 | 46 App.:1295b(j). | June 29, 1936, ch. 858, title XIII, § 1303(j), as added Pub. L. 108–375, Oct. 28, 2004, div. A, title V, § 545(e), 118 Stat. 1909. |
 
 #### Amendments
+2019—Subsec. (b). Pub. L. 115–420 substituted “shall present at the next meeting of the Board of Visitors, and post on a publicly available website,” for “shall notify Congress of”.
+
 2009—Subsec. (b). Pub. L. 111–117 inserted at end “Such fees shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.”
 
 Pub. L. 111–84 substituted “1994, or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees.” for “1994.”
@@ -648,10 +673,15 @@ Pub. L. 111–84 substituted “1994, or for calculators, computers, personal an
 
 **(e) Deductibility of Gifts.—** Gifts accepted under this section are a gift to or for the use of the Government under the Internal Revenue Code of 1986.
 
+**(f) Payment of Expenses.—** The Maritime Administrator may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
+
 ### Statutory Notes
 
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsec. (e), is classified generally to Title 26, Internal Revenue Code.
+
+#### Amendments
+2017—Subsec. (f). Pub. L. 115–91 added subsec. (f).
 
 
 <a id="section-51316"></a>
@@ -671,68 +701,139 @@ The General Schedule, referred to in text, is set out under [section 5332 of Tit
 
 **(b) Contract Requirements.—** Each contract under the program—
 
-(1) must be approved by the Maritime Administrator; and 11 So in original. The word “and” probably should not appear.
+(1) must be approved by the Maritime Administrator;
 
-(2) shall be for a duration, including options, of not to exceed one year unless the Maritime Administrator finds that exceptional circumstances justify an extension of up to one additional year.22 So in original. The period probably should be “; and”.
+(2) shall be for a duration, including options, of not to exceed one year unless the Maritime Administrator finds that exceptional circumstances justify an extension of up to one additional year; and
 
 (3) shall be subject to the availability of appropriations.
 
-**(c) Limitation on Number of Contractors.—** In awarding contacts 33 So in original. Probably should be “contracts”. under this section, the Maritime Administrator shall ensure that not more than 25 individuals actively provide services in any one academic trimester, or equivalent, as contractors under subsection (a).
+### Statutory Notes
 
-**(d) Reporting Requirements.—** When the authority granted by subsection (a) is used to hire an adjunct professor at the Academy in fiscal year 2010 or fiscal year 2011, the Administrator shall notify the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, and the Committee on Commerce, Science, and Transportation of the Senate, including the need for and the term of employment for the adjunct professor.
+#### Amendments
+2017—Subsec. (b)(1). Pub. L. 115–91, § 3509(1)(A), struck out “and” at end.
+
+Subsec. (b)(2). Pub. L. 115–91, § 3509(1)(B), substituted “; and” for period at end.
+
+Subsecs. (c), (d). Pub. L. 115–91, § 3509(2), struck out subsecs. (c) and (d) which related to limitation on number of contractors and reporting requirements, respectively.
 
 
 <a id="section-51318"></a>
-## § 51318. Policy on sexual harassment and sexual assault
+## § 51318. Policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking
 **(a) Required Policy.—**
 
-(1) **In general.—** — The Secretary of Transportation shall direct the Superintendent of the United States Merchant Marine Academy to prescribe a policy on sexual harassment and sexual assault applicable to the cadets and other personnel of the Academy.
+(1) **In general.—** — The Secretary of Transportation shall direct the Superintendent of the United States Merchant Marine Academy to prescribe a policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking applicable to the cadets and other personnel of the Academy.
 
-(2) **Matters to be specified in policy.—** — The policy on sexual harassment and sexual assault prescribed under this subsection shall include—
+(2) **Matters to be specified in policy.—** — The policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking prescribed under this subsection shall include—
 
-  (A) a program to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
+  (A) a program to promote awareness and prevention of the incidence of rape, acquaintance rape, domestic violence, dating violence, stalking, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
 
-  (B) procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment or sexual assault, including—
+  (B) procedures for documenting, tracking, and maintaining the data required to conduct the annual assessments to determine the effectiveness of the policies, procedures, and training program of the Academy with respect to sexual harassment, dating violence, domestic violence, sexual assault, and stalking involving cadets or other Academy personnel, as required by subsection (c);
 
-    (i) specifying the person or persons to whom an alleged occurrence of sexual harassment or sexual assault should be reported by the victim and the options for confidential reporting;
+  (C) procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, including—
+
+    (i) specifying the person or persons to whom an alleged occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking should be reported by the victim and the options for confidential reporting;
 
     (ii) specifying any other person whom the victim should contact; and
 
-    (iii) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault;
+    (iii) procedures on the preservation of evidence potentially necessary for proof of a criminal sexual offense;
 
-  (C) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
+  (D) procedures for investigating sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving a cadet or other Academy personnel to determine whether disciplinary action is necessary;
 
-  (D) any other sanction authorized to be imposed in a substantiated case of sexual harassment or sexual assault involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible;
+  (E) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
 
-  (E) procedures through which—
+  (F) any other sanction authorized to be imposed in a substantiated case of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible;
 
-    (i) questions regarding sexual harassment or sexual assault can be confidentially asked and confidentially answered;
+  (G) procedures through which—
 
-    (ii) victims can report incidents of sexual assault confidentially; and
+    (i) questions regarding sexual harassment, dating violence, domestic violence, sexual assault, or stalking can be confidentially asked and confidentially answered;
 
-    (iii) the privacy of victims of sexual harassment and sexual assault will be protected; and
+    (ii) victims can report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking confidentially; and
 
-  (F) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual assault involving Academy personnel.
+    (iii) the privacy of victims of sexual harassment, dating violence, domestic violence, sexual assault, or stalking will be protected; and
 
-(3) **Availability of policy.—** — The Secretary shall ensure that the policy developed under this subsection is available to—
+  (H) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving Academy personnel.
+
+(3) **Minimum training requirements for certain individuals regarding sexual harassment, dating violence, domestic violence, sexual assault, and stalking.—**
+
+  (A) *Requirement.—* — The Maritime Administrator shall direct the Superintendent of the United States Merchant Marine Academy to develop a mandatory training program at the Academy for each individual who is involved in implementing the Academy’s student disciplinary grievance procedures, including each individual who is responsible for—
+
+    (i) resolving complaints of reported sexual harassment, dating violence, domestic violence, sexual assault, and stalking;
+
+    (ii) resolving complaints of reported violations of the sexual misconduct policy of the Academy; or
+
+    (iii) conducting an interview with a victim of sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+  (B) *Consultation.—* — The Superintendent shall develop the training program described in subparagraph (A) in consultation with national, State, or local sexual assault, dating violence, domestic violence, or stalking victim advocacy, victim services, or prevention organizations.
+
+  (C) *Elements.—* — The training required by subparagraph (A) shall include the following:
+
+    (i) Information on working with and interviewing persons subjected to sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+    (ii) Information on particular types of conduct that would constitute sexual harassment, dating violence, domestic violence, sexual assault, or stalking, regardless of gender, including same-sex sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+    (iii) Information on consent and the effect that drugs or alcohol may have on an individual’s ability to consent.
+
+    (iv) Information on the effects of trauma, including the neurobiology of trauma.
+
+    (v) Training regarding the use of trauma-informed interview techniques, which means asking questions of an individual who has been a victim of sexual harassment, dating violence, domestic violence, sexual assault, or stalking in a manner that is focused on the experience of the victim, does not judge or blame the victim, and is informed by evidence-based research on the neurobiology of trauma.
+
+    (vi) Training on cultural awareness regarding how dating violence, domestic violence, sexual assault, or stalking may impact midshipmen differently depending on their cultural background.
+
+    (vii) Information on sexual assault dynamics, sexual assault perpetrator behavior, and barriers to reporting.
+
+  (D) *Implementation.—*
+
+    (i) *Development and approval schedule.—* — The training program required by subparagraph (A) shall be developed not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018.
+
+    (ii) *Completion of training.—* — Each individual who is required to complete the training described in subparagraph (A) shall complete such training not later than—
+
+      (I) 270 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018; or
+
+      (II) 180 days after starting a position with responsibilities that include the activities described in clause (i), (ii), or (iii) of subparagraph (A).
+
+(4) **Availability of policy.—** — The Secretary shall ensure that the policy developed under this subsection is available to—
 
   (A) all cadets and employees of the Academy; and
 
   (B) the public.
 
-(4) **Consultation and assistance.—** — In developing the policy under this subsection, the Secretary may consult with or receive assistance from such Federal, State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
+(5) **Consultation and assistance.—** — In developing the policy under this subsection, the Secretary may consult with or receive assistance from such Federal, State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
+
+(6) **Consistency with the higher education act of 1965.—** — The Secretary shall ensure that the policy developed under this subsection meets the requirements set out in section 485(f)(8) of the Higher Education Act of 1965 ([20 U.S.C. 1092(f)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f/8&num=0&edition=prelim)).
 
 **(b) Development Program.—**
 
-(1) **In general.—** — The Secretary shall ensure that the development program of the Academy includes a section that—
+(1) **In general.—** — The Maritime Administrator shall ensure that the development program of the Academy includes a section that—
 
-  (A) describes the relationship between honor, respect, and character development and the prevention of sexual harassment and sexual assault at the Academy;
+  (A) describes the relationship between honor, respect, and character development and the prevention of sexual harassment, dating violence, domestic violence, sexual assault, and stalking at the Academy;
 
-  (B) includes a brief history of the problem of sexual harassment and sexual assault in the merchant marine, in the Armed Forces, and at the Academy; and
+  (B) includes a brief history of the problem of sexual harassment, dating violence, domestic violence, sexual assault, and stalking in the merchant marine, in the Armed Forces, and at the Academy; and
 
-  (C) includes information relating to reporting sexual harassment and sexual assault, victims’ rights, and dismissal for offenders.
+  (C) includes information relating to reporting sexual harassment, dating violence, domestic violence, sexual assault, and stalking, victims’ rights, and dismissal for offenders.
 
-(2) **Minimum training requirements.—** — The Superintendent shall ensure that all cadets receive training on the sexual harassment and sexual assault prevention and response sections of the development program of the Academy, as described in paragraph (1), as follows:
+(2) **Minimum requirements to combat retaliation.—**
+
+  (A) *Requirement for plan.—* — Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the Maritime Administrator shall direct the Superintendent of the United States Merchant Marine Academy to implement and maintain a plan to combat retaliation against cadets at the Academy and other Academy personnel who report sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+  (B) *Violation of code of conduct.—* — The Superintendent shall consider an act of retaliation against a cadet at the Academy who reports sexual harassment, dating violence, domestic violence, sexual assault, or stalking as a Class I violation of the Midshipman Regulations of the Academy or equivalent code of conduct.
+
+  (C) *Retaliation definition.—* — The Superintendent shall work with the sexual assault prevention and response staff of the Academy to define “retaliation” for purposes of this subsection.
+
+(3) **Minimum resource requirements.—**
+
+  (A) *In general.—* — The Maritime Administrator shall ensure the staff at the Academy are provided adequate and appropriate sexual harassment, dating violence, domestic violence, sexual assault, and stalking prevention and response training materials and resources. Such resources shall include staff as follows:
+
+    (i) Sexual assault response coordinator.
+
+    (ii) Prevention educator.
+
+    (iii) Civil rights officer.
+
+    (iv) Staff member to oversee Sea Year.
+
+  (B) *Communication.—* — The Director of the Office of Civil Rights of the Maritime Administration shall create and maintain a direct line of communication to the sexual assault response staff of the Academy that is outside of the chain of command of the Academy.
+
+(4) **Minimum training requirements.—** — The Superintendent shall ensure that all cadets receive training on the sexual harassment, dating violence, domestic violence, sexual assault, and stalking prevention and response sections of the development program of the Academy, as described in paragraph (1), as follows:
 
   (A) An initial training session, which shall occur not later than 7 days after a cadet’s initial arrival at the Academy.
 
@@ -768,7 +869,7 @@ The General Schedule, referred to in text, is set out under [section 5332 of Tit
 
 (2) **Contents.—** — Each report submitted under paragraph (1) shall include, for the Academy program year covered by the report—
 
-  (A) the number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials;
+  (A) the number of sexual assaults, rapes, and other sexual offenses, including sexual harassment, involving cadets or other Academy personnel that have been reported to Academy officials;
 
   (B) the number of the reported cases described in subparagraph (A) that have been substantiated;
 
@@ -790,12 +891,80 @@ The General Schedule, referred to in text, is set out under [section 5332 of Tit
 
     (ii) the Academy’s response to the incident.
 
-  (B) *By the secretary.—* — The Secretary shall submit a copy of each report received under subparagraph (A) and the Secretary’s comments on the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+  (B) *By the secretary.—* — Not later than January 15 of each year, the Secretary shall submit a copy of each report received under subparagraph (A) and the Secretary’s comments on the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+**(e) Data for Aggregate Reporting.—**
+
+(1) **In general.—** — No requirement related to confidentiality in this section or [section 51319 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51319) may be construed to prevent a sexual assault response coordinator from providing information for any report required by law regarding sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+(2) **Identity protection.—** — Any information provided for a report referred to in paragraph (1) shall be provided in a manner that protects the identity of the victim or witness.
+
+**(f) Definitions.—** In this section and [section 51319 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51319):
+
+(1) **Dating violence; domestic violence; stalking.—** — The terms “dating violence”, “domestic violence”, and “stalking” have the meanings given those terms is 11 So in original. Probably should be “in”. section 40002(a) of the Violence Against Women Act of 1994 ([42 U.S.C. 13925(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim)).22 See References in Text note below.
+
+(2) **Sexual assault.—** — The term “sexual assault” means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsecs. (a)(3)(D)(i), (ii)(I) and (b)(2)(A), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
+Section 40002 of the Violence Against Women Act of 1994, referred to in subsec. (f)(1), is section 40002 of title IV of Pub. L. 103–322, which was classified as [section 13925 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+#### Amendments
+2018—Subsec. (a)(2)(A). Pub. L. 115–232, § 3507(a)(1)(A), inserted “and prevention” after “awareness”.
+
+Subsec. (a)(2)(B), (C). Pub. L. 115–232, § 3507(a)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (E).
+
+Subsec. (a)(2)(D) to (H). Pub. L. 115–232, § 3507(a)(1)(B), (D), added subpar. (D) and redesignated former subpars. (C) to (F) as (E) to (H), respectively.
+
+Subsec. (b)(2)(A). Pub. L. 115–232, § 3507(a)(2), inserted “and other Academy personnel” after “cadets at the Academy”.
+
+Subsec. (d)(2)(A). Pub. L. 115–232, § 3507(a)(3)(A), inserted “, including sexual harassment,” after “sexual assaults, rapes, and other sexual offenses”.
+
+Subsec. (d)(4)(B). Pub. L. 115–232, § 3507(a)(3)(B), substituted “Not later than January 15 of each year, the Secretary” for “The Secretary”.
+
+2017—Pub. L. 115–91, § 3514(d)(1), substituted “Policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking” for “Policy on sexual harassment and sexual assault” in section catchline.
+
+Subsec. (a)(1). Pub. L. 115–91, § 3514(a)(1), substituted “harassment, dating violence, domestic violence, sexual assault, and stalking” for “harassment and sexual assault”.
+
+Subsec. (a)(2). Pub. L. 115–91, § 3514(a)(2)(A), substituted “harassment, dating violence, domestic violence, sexual assault, and stalking” for “harassment and sexual assault” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 115–91, § 3514(a)(2)(B), inserted “domestic violence, dating violence, stalking,” after “acquaintance rape,”.
+
+Subsec. (a)(2)(B). Pub. L. 115–91, § 3514(a)(2)(C)(i), substituted “harassment, dating violence, domestic violence, sexual assault, or stalking,” for “harassment or sexual assault,” in introductory provisions.
+
+Subsec. (a)(2)(B)(i). Pub. L. 115–91, § 3514(a)(2)(C)(ii), substituted “harassment, dating violence, domestic violence, sexual assault, or stalking” for “harassment or sexual assault”.
+
+Subsec. (a)(2)(B)(iii). Pub. L. 115–91, § 3514(a)(2)(C)(iii), substituted “a criminal sexual offense” for “criminal sexual assault”.
+
+Subsec. (a)(2)(D). Pub. L. 115–91, § 3514(a)(2)(D), substituted “harassment, dating violence, domestic violence, sexual assault, or stalking” for “harassment or sexual assault”.
+
+Subsec. (a)(2)(E)(i). Pub. L. 115–91, § 3514(a)(2)(E)(i), substituted “harassment, dating violence, domestic violence, sexual assault, or stalking” for “harassment or sexual assault”.
+
+Subsec. (a)(2)(E)(ii). Pub. L. 115–91, § 3514(a)(2)(E)(ii), substituted “sexual harassment, dating violence, domestic violence, sexual assault, or stalking” for “sexual assault”.
+
+Subsec. (a)(2)(E)(iii). Pub. L. 115–91, § 3514(a)(2)(E)(iii), substituted “harassment, dating violence, domestic violence, sexual assault, or stalking” for “harassment and sexual assault”.
+
+Subsec. (a)(2)(F). Pub. L. 115–91, § 3514(a)(2)(F), substituted “harassment, dating violence, domestic violence, sexual assault, or stalking” for “harassment or sexual assault”.
+
+Subsec. (a)(3) to (5). Pub. L. 115–91, § 3514(a)(3), (4), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (a)(6). Pub. L. 115–91, § 3514(a)(5), added par. (6).
+
+Subsec. (b). Pub. L. 115–91, § 3514(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to development program and minimum training requirements regarding the prevention of sexual harassment and sexual assault.
+
+Subsecs. (e), (f). Pub. L. 115–91, § 3514(c), added subsecs. (e) and (f).
+
+#### Implementation
+Pub. L. 115–232, div. C, title XXXV, § 3507(b), Aug. 13, 2018, 132 Stat. 2310, provided that: “The Superintendent of the United States Merchant Marine Academy may implement the amendment to subsection (b)(2)(A) of [section 51318 of title 46](./chapter-513-united-states-merchant-marine-academy.md#section-51318), United States Code, made by subsection (a)(2), by updating an existing plan issued pursuant to the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91).”
+
+#### Access of Academy Cadets to DOD SAFE or Equivalent Helpline
+Pub. L. 115–91, div. C, title XXXV, § 3515(b), Dec. 12, 2017, 131 Stat. 1926, provided that: “(1) In general.—The Secretary of Transportation shall arrange for cadets at the United States Merchant Marine Academy to have access to, and use of, the Department of Defense SAFE Helpline or an equivalent helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking. “(2) Training.—The training provided to personnel of the helpline to which cadets at the Academy are given access shall include training on the resources available to cadets at the Academy in connection with sexual assault, sexual harassment, domestic violence, dating violence, and stalking. “(3) Definitions.—In this section, the terms ‘dating violence’, ‘domestic violence’, ‘sexual assault’, and ‘stalking’ have the meanings given those terms in [section 51318 of title 46](./chapter-513-united-states-merchant-marine-academy.md#section-51318), United States Code.”
+
 #### Sea Year Compliance
-Pub. L. 114–328, div. C, title XXXV, § 3514, Dec. 23, 2016, 130 Stat. 2788, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2016], the Maritime Administrator, in consultation with operators of commercial vessels of the United States, shall establish— “(1) criteria that vessel operators must meet in order to participate in the Sea Year program of the United States Merchant Marine Academy that addresses sexual harassment, sexual assault, and other inappropriate conduct; and “(2) a process for verifying compliance with the criteria.”
+Pub. L. 114–328, div. C, title XXXV, § 3514, Dec. 23, 2016, 130 Stat. 2788, as amended by Pub. L. 115–91, div. C, title XXXV, § 3513, Dec. 12, 2017, 131 Stat. 1919; Pub. L. 115–232, div. C, title XXXV, § 3515(a), Aug. 13, 2018, 132 Stat. 2312, provided that: “(a) Vessel Operator Requirements.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2016], the Maritime Administrator, in consultation with operators of commercial vessels of the United States, shall establish—“(A) criteria that vessel operators must meet in order to participate in the Sea Year program of the United States Merchant Marine Academy that addresses sexual harassment, sexual assault, and other inappropriate conduct; and “(B) a process for verifying compliance with the criteria. “(2) Noncommercial vessels.—For the purposes of this section, vessels operated by any of the following entities shall not be considered commercial vessels:“(A) Any entity or agency of the United States. “(B) The government of a State or territory. “(C) Any political subdivision of a State or territory. “(D) Any other municipal organization. “(b) Provision of Satellite Phone.—“(1) In general.—The Maritime Administrator shall ensure that each cadet from the United States Merchant Marine Academy who is participating in the Sea Year program is provided a functional satellite communication device. A cadet may not be denied from using the device whenever the student determines that use of the device is necessary to prevent or report sexual harassment or sexual assault. “(2) Check-in.—Not less often than once each week during a cadet’s participation in the Sea Year program, the cadet shall check-in with designated personnel at the Academy via the satellite communication device provided under paragraph (1). A text message sent via the satellite device shall meet the requirement for a weekly check-in for purposes of this paragraph.”
 
 #### Actions To Address Sexual Harassment and Violence at the United States Merchant Marine Academy
 Pub. L. 110–417, div. C, title XXXV, § 3507, Oct. 14, 2008, 122 Stat. 4765, provided that: “(a) Required Policy.—The Secretary of Transportation shall direct the Superintendent of the United States Merchant Marine Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy. “(b) Matters To Be Specified in Policy.—The policy on sexual harassment and sexual violence prescribed under this section shall include—“(1) a program to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel; “(2) procedures that a cadet should follow in the case of an occurrence of sexual harassment or sexual violence, including—“(A) a specification of the person or persons to whom an alleged occurrence of sexual harassment or sexual violence should be reported by a cadet and the options for confidential reporting; “(B) a specification of any other person whom the victim should contact; and “(C) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault; “(3) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel; “(4) any other sanction authorized to be imposed in a substantiated case of sexual harassment or sexual violence involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible; and “(5) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel. “(c) Annual Assessment.—“(1) The Secretary shall direct the Superintendent to conduct an assessment at the Academy during each Academy program year, to be administered by the Department of Transportation, to determine the effectiveness of the policies, training, and procedures of the Academy with respect to sexual harassment and sexual violence involving Academy personnel. “(2) For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey, to be administered by the Department, of Academy personnel—“(A) to measure—“(i) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have been reported to officials of the Academy; and “(ii) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have not been reported to officials of the Academy; and “(B) to assess the perceptions of Academy personnel of—“(i) the policies, training, and procedures on sexual harassment and sexual violence involving Academy personnel; “(ii) the enforcement of such policies; “(iii) the incidence of sexual harassment and sexual violence involving Academy personnel; and “(iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel. “(d) Annual Report.—“(1) The Secretary shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year. “(2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:“(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated. “(B) The policies, procedures, and processes implemented by the Superintendent and the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year. “(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel. “(3) Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the survey conducted in that program year under subsection (c)(2). “(4)(A) The Superintendent shall transmit to the Secretary, and to the Board of Visitors of the Academy, each report received by the Superintendent under this subsection, together with the Superintendent’s comments on the report. “(B) The Secretary shall transmit each such report, together with the Secretary’s comments on the report, to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.”
@@ -803,9 +972,93 @@ Pub. L. 110–417, div. C, title XXXV, § 3507, Oct. 14, 2008, 122 Stat. 4765, p
 
 <a id="section-51319"></a>
 ## § 51319. Sexual assault response coordinators and sexual assault victim advocates
-**(a) Sexual Assault Response Coordinators.—** The United States Merchant Marine Academy shall employ or contract with at least 1 full-time sexual assault response coordinator who shall reside at or near the Academy. The Secretary of Transportation may assign additional full-time or part-time sexual assault response coordinators at the Academy as necessary.
+**(a) Sexual Assault Response Coordinators.—**
 
-**(b) Volunteer Sexual Assault Victim Advocates.—**
+(1) **Requirement for coordinators.—** — The United States Merchant Marine Academy shall employ or contract with at least 1 full-time sexual assault response coordinator who shall reside at or near the Academy. The Secretary of Transportation may assign additional full-time or part-time sexual assault response coordinators at the Academy as necessary.
+
+(2) **Selection criteria.—** — Each sexual assault response coordinator shall be selected based on—
+
+  (A) experience and a demonstrated ability to effectively provide victim services related to sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
+
+  (B) protection of the individual under applicable law to provide privileged communication.
+
+(3) **Confidentiality.—** — A sexual assault response coordinator shall, to the extent authorized under applicable law, provide confidential services to a cadet at the Academy who reports being a victim of, or witness to, sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+(4) **Training.—**
+
+  (A) *Verification.—* — Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the Maritime Administrator, in consultation with the Director of the Maritime Administration Office of Civil Rights, shall develop a process to verify that each sexual assault response coordinator has completed proper training.
+
+  (B) *Training requirements.—* — The training referred to in subparagraph (A) shall include training in—
+
+    (i) working with victims of sexual harassment, dating violence, domestic violence, sexual assault, and stalking;
+
+    (ii) the policies, procedures, and resources of the Academy related to responding to sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
+
+    (iii) national, State, and local victim services and resources available to victims of sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+
+  (C) *Completion of training.—* — A sexual assault response coordinator shall complete the training referred to in subparagraphs (A) and (B) not later than—
+
+    (i) 270 days after enactment of the National Defense Authorization Act for Fiscal Year 2018; or
+
+    (ii) 180 days after starting in the role of sexual assault response coordinator.
+
+(5) **Duties.—** — A sexual assault response coordinator shall—
+
+  (A) confidentially receive a report from a victim of sexual harassment, dating violence, domestic violence, sexual assault, or stalking;
+
+  (B) inform the victim of—
+
+    (i) the victim’s rights under applicable law;
+
+    (ii) options for reporting an incident of sexual harassment, dating violence, domestic violence, sexual assault, or stalking to the Academy and law enforcement;
+
+    (iii) how to access available services, including emergency medical care, medical forensic or evidentiary examinations, legal services, services provided by rape crisis centers and other victim service providers, services provided by the volunteer sexual assault victim advocates at the Academy, and crisis intervention counseling and ongoing counseling;
+
+    (iv) such coordinator’s ability to assist in arranging access to such services, with the consent of the victim;
+
+    (v) available accommodations, such as allowing the victim to change living arrangements and obtain accessibility services;
+
+    (vi) such coordinator’s ability to assist in arranging such accommodations, with the consent of the victim;
+
+    (vii) the victim’s rights and the Academy’s responsibilities regarding orders of protection, no contact orders, restraining orders, or similar lawful orders issued by the Academy or a criminal, civil, or tribal court; and
+
+    (viii) privacy limitations under applicable law;
+
+  (C) represent the interests of any cadet at the Academy who reports being a victim of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, even if such interests are in conflict with the interests of the Academy;
+
+  (D) advise the victim of, and provide written materials regarding, the information described in subparagraph (B);
+
+  (E) liaise with appropriate staff at the Academy, with the victim’s consent, to arrange reasonable accommodations through the Academy to allow the victim to change living arrangements, obtain accessibility services, or access other accommodations;
+
+  (F) maintain the privacy and confidentiality of the victim, and shall not notify the Academy or any other authority of the identity of the victim or the alleged circumstances surrounding the reported incident unless—
+
+    (i) otherwise required by applicable law;
+
+    (ii) requested to do so by the victim who has been fully and accurately informed about what procedures shall occur if the information is shared; or
+
+    (iii) notwithstanding clause (i) or clause (ii), there is risk of imminent harm to other individuals;
+
+  (G) assist the victim in contacting and reporting an incident of sexual harassment, dating violence, domestic violence, sexual assault, or stalking to the Academy or law enforcement, if requested to do so by the victim who has been fully and accurately informed about what procedures shall occur if information is shared; and
+
+  (H) submit to the Director of the Maritime Administration Office of Civil Rights an annual report summarizing how the resources supplied to the coordinator were used during the prior year, including the number of victims assisted by the coordinator.
+
+**(b) Oversight.—**
+
+(1) **In general.—**
+
+  (A) *Reporting.—* — Each sexual assault response coordinator shall—
+
+    (i) report directly to the Superintendent; and
+
+    (ii) have concurrent reporting responsibility to the Executive Director of the Maritime Administration on matters related to the Maritime Administration and the Department of Transportation and upon belief that the Academy leadership is acting inappropriately regarding sexual assault prevention and response matters.
+
+  (B) *Support.—* — The Maritime Administration Office of Civil Rights shall provide support to the sexual assault response coordinator at the Academy on all sexual harassment, dating violence, domestic violence, sexual assault, or stalking prevention matters.
+
+(2) **Prohibition on investigation by the academy.—** — Any request by a victim for an accommodation, as described in subsection (a)(5)(E), made by a sexual assault response coordinator shall not trigger an investigation by the Academy, even if such coordinator deals only with matters relating to sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+
+(3) **Prohibition on retaliation.—** — A sexual assault response coordinator, victim advocate, or companion may not be disciplined, penalized, or otherwise retaliated against by the Academy for representing the interests of the victim, even if such interests are in conflict with the interests of the Academy.
+
+**(c) Volunteer Sexual Assault Victim Advocates.—**
 
 (1) **In general.—** — The Secretary, acting through the Superintendent of the Academy, shall designate from among volunteers 1 or more permanent employees of the Academy to serve as advocates for victims of sexual assaults involving cadets of the Academy or other Academy personnel.
 
@@ -829,6 +1082,132 @@ Pub. L. 110–417, div. C, title XXXV, § 3507, Oct. 14, 2008, 122 Stat. 4765, p
 
   (B) *Alternate victim advocates.—* — If requested by the victim, an alternate victim advocate shall be designated under this subsection to act as a companion to the victim, as described in subparagraph (A).
 
-(5) **Hotline.—** — The Secretary shall establish a 24-hour hotline through which the victim of a sexual assault described in paragraph (1) can receive victim support services.
+(5) **Formal relationships with other entities.—** — The Secretary may enter into formal relationships with other entities to make available additional victim advocates or to implement paragraphs (3) and (4).
 
-(6) **Formal relationships with other entities.—** — The Secretary may enter into formal relationships with other entities to make available additional victim advocates or to implement paragraphs (3), (4), and (5).
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 and enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (a)(4)(A), (C)(i), are the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
+#### Amendments
+2017—Subsecs. (a) to (c). Pub. L. 115–91, § 3515(a), added subsecs. (a) and (b), redesignated former subsec. (b) as (c), and struck out former subsec. (a) which read as follows: “Sexual Assault Response Coordinators.—The United States Merchant Marine Academy shall employ or contract with at least 1 full-time sexual assault response coordinator who shall reside at or near the Academy. The Secretary of Transportation may assign additional full-time or part-time sexual assault response coordinators at the Academy as necessary.”
+
+Subsec. (c)(5), (6). Pub. L. 115–91, § 3515(c), redesignated par. (6) as (5), substituted “paragraphs (3) and (4)” for “paragraphs (3), (4), and (5)”, and struck out former par. (5) which read as follows: “Hotline.—The Secretary shall establish a 24-hour hotline through which the victim of a sexual assault described in paragraph (1) can receive victim support services.”
+
+
+<a id="section-51320"></a>
+## § 51320. Acceptance of guarantees with gifts for major projects
+**(a) Definitions.—** In this section:
+
+(1) **Major project.—** — The term “major project” means a project estimated to cost at least $1,000,000 for—
+
+  (A) the purchase or other procurement of real or personal property; or
+
+  (B) the construction, renovation, or repair of real or personal property.
+
+(2) **Major united states commercial bank.—** — The term “major United States commercial bank” means a commercial bank that—
+
+  (A) is an insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/h&num=0&edition=prelim)));
+
+  (B) is headquartered in the United States; and
+
+  (C) has total net assets of an amount considered by the Maritime Administrator to qualify the bank as a major bank.
+
+(3) **Major united states investment management firm.—** — The term “major United States investment management firm” means—
+
+  (A) any broker or dealer (as such terms are defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim)));
+
+  (B) any investment adviser or provider of investment supervisory services (as such terms are defined in section 202 of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2&num=0&edition=prelim))); or
+
+  (C) a major United States commercial bank that—
+
+    (i) is headquartered in the United States; and
+
+    (ii) holds for the account of others investment assets in a total amount considered by the Maritime Administrator to qualify the bank as a major investment management firm.
+
+(4) **Qualified guarantee.—** — The term “qualified guarantee”, with respect to a major project, means a guarantee that—
+
+  (A) is made by 1 or more persons in connection with a donation for the project of a total amount in cash or securities that the Maritime Administrator determines is sufficient to defray a substantial portion of the total cost of the project;
+
+  (B) is made to facilitate or expedite the completion of the project in reasonable anticipation that other donors will contribute sufficient funds or other resources in amounts sufficient to pay for completion of the project;
+
+  (C) is set forth as a written agreement providing that the donor will furnish in cash or securities, in addition to the donor’s other gift or gifts for the project, any additional amount that may become necessary for paying the cost of completing the project by reason of a failure to obtain from other donors or sources funds or other resources in amounts sufficient to pay the cost of completing the project; and
+
+  (D) is accompanied by—
+
+    (i) an irrevocable and unconditional standby letter of credit for the benefit of the United States Merchant Marine Academy that is in the amount of the guarantee and is issued by a major United States commercial bank; or
+
+    (ii) a qualified account control agreement.
+
+(5) **Qualified account control agreement.—** — The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Maritime Administrator, and a major United States investment management firm that—
+
+  (A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
+
+  (B) provides for the perfection of a security interest in the assets of the account for the United States for the benefit of the United States Merchant Marine Academy with the highest priority available for liens and security interests under applicable law;
+
+  (C) requires the donor to maintain in an account with the investment management firm assets having a total value that is not less than 130 percent of the amount guaranteed; and
+
+  (D) requires the investment management firm, whenever the value of the account is less than the value required to be maintained under subparagraph (C), to liquidate any noncash assets in the account and reinvest the proceeds in Treasury bills issued under [section 3104 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3104&num=0&edition=prelim).
+
+**(b) Acceptance Authority.—** Subject to subsection (d), the Maritime Administrator may accept a qualified guarantee from a donor or donors for the completion of a major project for the benefit of the United States Merchant Marine Academy.
+
+**(c) Obligation Authority.—** The amount of a qualified guarantee accepted under this section shall be considered as contract authority to provide obligation authority for purposes of Federal fiscal and contractual requirements. Funds available for a project for which such a guarantee has been accepted may be obligated and expended for the project without regard to whether the total amount of funds and other resources available for the project (not taking into account the amount of the guarantee) is sufficient to pay for completion of the project.
+
+**(d) Notice.—** The Maritime Administrator may not accept a qualified guarantee under this section for the completion of a major project until 30 days after the date on which a report of the facts concerning the proposed guarantee is submitted to Congress.
+
+**(e) Prohibition on Commingling Funds.—** The Maritime Administrator may not enter into any contract or other transaction involving the use of a qualified guarantee and appropriated funds in the same contract or transaction.
+
+
+<a id="section-51321"></a>
+## § 51321. Grants for scientific and educational research
+**(a) Defined Term.—** In this section, the term “qualifying research grant” is a grant that—
+
+(1) is awarded on a competitive basis by the Federal Government (except for the Department of Transportation), a State, a corporation, a fund, a foundation, an educational institution, or a similar entity that is organized and operated primarily for scientific or educational purposes; and
+
+(2) is to be used to carry out a research project with a scientific or educational purpose.
+
+**(b) Acceptance of Qualifying Research Grants.—** The United States Merchant Marine Academy may compete for and accept qualifying research grants if the work under the grant is to be carried out by a professor or instructor of the United States Merchant Marine Academy.
+
+**(c) Administration of Grant Funds.—**
+
+(1) **Establishment of account.—** — The Maritime Administrator shall establish a separate account for administering funds received from research grants under this section.
+
+(2) **Use of grant funds.—** — The Superintendent shall use grant funds deposited into the account established pursuant to paragraph (1) in accordance with applicable regulations and the terms and conditions of the respective grants.
+
+**(d) Related Expenses.—** Subject to such limitations as may be provided in appropriations Acts, appropriations available for the United States Merchant Marine Academy may be used to pay expenses incurred by the Academy in applying for, and otherwise pursuing, a qualifying research grant.
+
+
+<a id="section-51322"></a>
+## § 51322. Protection of cadets from sexual assault onboard vessels
+**(a) Riding Gangs.—**
+
+(1) **Certification of compliance.—** — The Maritime Administrator shall require the owner or operator of any commercial vessel that is carrying a cadet from the United States Merchant Marine Academy to certify compliance of the vessel with the International Convention for Safety of Life at Sea, 1974 (32 UST 47) and [section 8106 of this title](./chapter-081-general.md#section-8106).
+
+(2) **Information for cadets.—** — The Maritime Administrator shall ensure that the Academy informs cadets preparing for Sea Year of the obligations that vessel owners and operators have to provide for the security of individuals aboard a vessel under United States law, including chapter 81 and [section 70103(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103/c&num=0&edition=prelim).
+
+**(b) Checks of Commercial Vessels.—**
+
+(1) **Requirement.—** — Not less frequently than biennially, staff of the Academy or staff of the Maritime Administration shall conduct both random and targeted unannounced checks of not less than 10 percent of the commercial vessels that host a cadet from the Academy.
+
+(2) **Removal of students.—** — If staff of the Academy or staff of the Maritime Administration determine that a commercial vessel is in violation of the sexual assault policy developed by the Academy through a check conducted under paragraph (1), the staff may—
+
+  (A) remove any cadet of the Academy from the vessel; and
+
+  (B) report the violation to the owner or operator of the vessel.
+
+**(c) Maintenance of Sexual Assault Training Records.—** The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for any person required to have such training.
+
+**(d) Sea Year Survey.—**
+
+(1) **Requirement.—** — The Maritime Administrator shall require each cadet from the Academy, upon completion of the cadet’s Sea Year, to complete a survey regarding the environment and conditions during the Sea Year of the vessel to which the cadet was assigned.
+
+(2) **Availability.—** — The Maritime Administrator shall make available to the public for each year—
+
+  (A) the questions used in the survey required by paragraph (1); and
+
+  (B) the aggregated data received from such surveys.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–232 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for the crew and passengers of any vessel hosting a cadet from the Academy.”

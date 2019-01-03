@@ -26,7 +26,7 @@ It is the purpose of this subchapter to provide Federal assistance to States to 
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Short Title of 1978 Amendment
 Pub. L. 95–270, Apr. 27, 1978, 92 Stat. 220, which enacted sections 2566 to 2569 of this title, is known as the Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2566 of this title](./chapter-045-career-education-and-career-development.md#section-2566) and Tables.
@@ -60,6 +60,9 @@ Pub. L. 95–270, Apr. 27, 1978, 92 Stat. 220, which enacted sections 2566 to 25
 
 Subsec. (b)(3)(B). Pub. L. 95–207, § 16(2), substituted “, the District of Columbia, and the Commonwealth of Puerto Rico” for “and the District of Columbia”.
 
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 95–207, § 16, Dec. 13, 1977, 91 Stat. 1474, cited as a credit to this section, was repealed by Pub. L. 97–35, title V, § 587(a)(4), Aug. 13, 1981, 95 Stat. 480, effective Oct. 1, 1982.
 
@@ -79,6 +82,9 @@ The provisions of this subchapter shall be carried out by the Secretary of Educa
 
 #### References in Text
 [Section 2612a of this title](./chapter-046-career-education-incentive.md#section-2612a), referred to in text, has been omitted from the Code.
+
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
@@ -105,6 +111,9 @@ Any State desiring to receive the amount for which it is eligible for any fiscal
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
@@ -128,6 +137,9 @@ Any State desiring to receive the amount for which it is eligible for any fiscal
 #### Change of Name
 “United States International Trade Commission” substituted for “Unites States Tariff Commission” in subsec. (a)(2) pursuant to Pub. L. 93–618, § 171(a), Jan. 3, 1975, 88 Stat. 2009, which is classified to [section 2231(a) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2231/a&num=0&edition=prelim), Customs Duties.
 
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
 #### Transfer of Functions
 “Secretary of Education” substituted for “Commissioner” in text, and “Department of Education” substituted for “Education Division” in subsec. (b)(3), pursuant to sections 301(a)(1), (b)(2) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1), (b)(2) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education and transferred Education Division to Department of Education.
 
@@ -141,6 +153,9 @@ The National Advisory Council for Career Education established pursuant to [sect
 
 #### References in Text
 [Section 2612a of this title](./chapter-046-career-education-incentive.md#section-2612a), referred to in text, has been omitted from the Code.
+
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
@@ -159,6 +174,11 @@ The Congress finds that—
 (2) lack of coordination among guidance and counseling activities supported jointly or separately by Federal programs and by State and local programs has resulted in an underutilization of resources available for such activities; and
 
 (3) increased and improved preparation of education professionals is needed in guidance and counseling, including administration of guidance and counseling programs at the State and local levels, with special emphasis on inservice training which takes educational professionals into the workplaces of business and industry, the professions, and other occupational pursuits, and that increased and improved use of individuals employed in such pursuits are needed for effective guidance and counseling programs, including (A) bringing persons employed in such pursuits into schools, and (B) bringing students into such workplaces for observation of, and participation in, such pursuits, in order to acquaint the students with the nature of the work.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 
 <a id="section-2532"></a>
@@ -190,6 +210,9 @@ Title IV of the Elementary and Secondary Education Act of 1965, referred to in s
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as a note under [section 1221e–3 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221e-3).
 
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
 #### Transfer of Functions
 “Secretary of Education” substituted for “Commissioner” in subsec. (b)(1) and (3) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
@@ -214,6 +237,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Amendments
 1977—Subsec. (a)(1). Pub. L. 95–43 substituted “this subchapter” for “this section”.
 
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
 #### Transfer of Functions
 “Secretary of Education” and “Department of Education” substituted in text for “Commissioner” and “Education Division”, respectively, pursuant to sections 301(a)(1), (b)(2) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1), (b)(2) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education and transferred Education Division to Department of Education.
 
@@ -227,6 +253,9 @@ For authority of Secretary of Education to consolidate, alter, or discontinue th
 **(b) Coordination of programs of guidance and counseling** The Secretary of Education is authorized to make grants to States to assist them in carrying out programs to coordinate new and existing programs of guidance and counseling in the States.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Transfer of Functions
 “Secretary of Education” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
@@ -255,6 +284,9 @@ Notwithstanding any other provision of law, the Secretary of Health and Human Se
 #### Change of Name
 “Secretary of Health and Human Services” and “Department of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim).
 
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
 
 <a id="section-2565"></a>
 ## § 2565. Wayne Morse Chair of Law and Politics
@@ -269,6 +301,9 @@ Notwithstanding any other provision of law, the Secretary of Health and Human Se
 **(c) Authorization of appropriations** There are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary to carry out the provisions of this section. Funds appropriated pursuant to this section shall remain available until expended.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, where section provides for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as an Effective Date of 1976 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Transfer of Functions
 “Secretary” substituted for “Commissioner” in subsecs. (a) and (b) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.

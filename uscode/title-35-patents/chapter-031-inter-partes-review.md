@@ -38,7 +38,7 @@ Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to procee
 Pub. L. 112–29, § 6(c)(2), Sept. 16, 2011, 125 Stat. 304, provided that: “(A) In general.—The amendments made by subsection (a) [enacting [section 319 of this title](./chapter-031-inter-partes-review.md#section-319) and amending this section and sections 312 to 318 of this title] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date. “(B) Graduated implementation.—The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] may impose a limit on the number of inter partes reviews that may be instituted under chapter 31 of title 35, United States Code, during each of the first 4 1-year periods in which the amendments made by subsection (a) are in effect, if such number in each year equals or exceeds the number of inter partes reexaminations that are ordered under chapter 31 of title 35, United States Code, in the last fiscal year ending before the effective date of the amendments made by subsection (a).”
 
 #### Effective Date
-Chapter effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 #### Regulations
 Pub. L. 112–29, § 6(c)(1), Sept. 16, 2011, 125 Stat. 304, provided that: “The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall, not later than the date that is 1 year after the date of the enactment of this Act [Sept. 16, 2011], issue regulations to carry out chapter 31 of title 35, United States Code, as amended by subsection (a) of this section.”
@@ -95,6 +95,9 @@ Pub. L. 112–29, § 6(c)(3)(B), (C), Sept. 16, 2011, 125 Stat. 305, provided th
 #### Effective Date of 2002 Amendment
 Amendment by section 13105(a) of Pub. L. 107–273 applicable with respect to any determination of the Director of the United States Patent and Trademark Office that is made on or after Nov. 2, 2002, see section 13105(b) of Pub. L. 107–273, set out as a note under [section 303 of this title](./chapter-030-prior-art-citations-to-office-and-ex-parte-reexamination-of-patents.md#section-303).
 
+#### Effective Date
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-313"></a>
 ## § 313. Preliminary response to petition
@@ -114,6 +117,9 @@ Pub. L. 112–29, § 6(a), amended section generally. Prior to amendment, text r
 Amendment by section 6(a) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under [section 311 of this title](./chapter-031-inter-partes-review.md#section-311).
 
 Amendment by section 6(c)(3)(A)(ii) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to requests for inter partes reexamination filed on or after Sept. 16, 2011, but before the effective date set forth in section 6(c)(2)(A) of Pub. L. 112–29, with continued applicability of prior provisions, see section 6(c)(3)(B), (C) of Pub. L. 112–29, set out as a note under [section 312 of this title](./chapter-031-inter-partes-review.md#section-312).
+
+#### Effective Date
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-314"></a>
@@ -141,6 +147,9 @@ Subsec. (b). Pub. L. 107–273, § 13202(a)(3), redesignated par. (2) as (1), su
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under [section 311 of this title](./chapter-031-inter-partes-review.md#section-311).
+
+#### Effective Date
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-315"></a>
@@ -194,6 +203,9 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date of 2002 Amendment
 Amendment by section 13106(a) of Pub. L. 107–273 applicable with respect to any reexamination proceeding commenced on or after Nov. 2, 2002, see section 13106(d) of Pub. L. 107–273, set out as a note under [section 134 of this title](./chapter-012-examination-of-application.md#section-134).
+
+#### Effective Date
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 #### Estoppel Effect of Reexamination
 Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4607], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, provided for estoppel from challenging certain facts determined during inter partes reexamination under former [section 311 of this title](./chapter-031-inter-partes-review.md#section-311) and contained a severability provision.
@@ -261,6 +273,9 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4607], Nov. 2
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under [section 311 of this title](./chapter-031-inter-partes-review.md#section-311).
 
+#### Effective Date
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-317"></a>
 ## § 317. Settlement
@@ -282,6 +297,9 @@ Subsec. (b). Pub. L. 107–273, § 13202(a)(5)(B), struck out “United States C
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under [section 311 of this title](./chapter-031-inter-partes-review.md#section-311).
 
+#### Effective Date
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-318"></a>
 ## § 318. Decision of the Board
@@ -302,6 +320,9 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under [section 311 of this title](./chapter-031-inter-partes-review.md#section-311).
+
+#### Effective Date
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-319"></a>

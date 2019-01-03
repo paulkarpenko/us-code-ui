@@ -1520,7 +1520,7 @@ Pub. L. 102–375, title II, § 202(h), Sept. 30, 1992, 106 Stat. 1210, provided
 
 
 <a id="section-3013"></a>
-## § 3013. Federal agency cooperation
+## § 3013. Federal agency consultation
 **(a) In general**
 
 (1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX and with the Corporation for National and Community Service in carrying out this chapter.
@@ -2540,7 +2540,7 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 #### Effective Date
-Part effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 #### Coordination and Consolidation of Services Under Chapter
 Pub. L. 95–478, title I, § 103(a), Oct. 18, 1978, 92 Stat. 1516, provided that: “(1) The Congress finds that—“(A) approximately 3 percent of the eligible population is presently served under community services programs authorized under the Older Americans Act of 1965 [this chapter], 17 percent of whom are minority group members; “(B) approximately 1 percent of the eligible population is presently served by the nutrition program authorized under the Older Americans Act of 1965 [this chapter], 21 percent of whom are minority group members; “(C) there is program fragmentation at the national, State, and local levels which inhibits effective use of existing resources; and “(D) coordination and consolidation of services provided under the Older Americans Act of 1965 [this chapter] allowing greater local determination to assess the need for services will facilitate achieving the goals of the Older Americans Act of 1965. “(2) It is the purpose of the amendments made by subsection (b) [amending sections 3021 to 3029 of this title and enacting sections 3030 to 3030g of this title] to combine within a consolidated title, subject to the modifications imposed by the provisions and requirements of the amendments made by subsection (b), the programs authorized by title III, title V, and title VII of the Older Americans Act of 1965 [former subchapters III, V, and VII of this chapter, respectively, as in effect prior to their revision by Pub. L. 95–478] in the fiscal year 1978, and funds appropriated to carry out such consolidated title shall be used solely for the purposes and for the assistance of the same types of programs authorized under the provisions of such titles.”
@@ -2634,6 +2634,9 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3023"></a>
@@ -2781,6 +2784,9 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3024"></a>
 ## § 3024. Allotment to States
@@ -2912,6 +2918,9 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3025"></a>
@@ -3175,6 +3184,9 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3026"></a>
@@ -3741,6 +3753,9 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b).
@@ -4353,6 +4368,9 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 #### Assessment of Unsatisfied Demand for Supportive Services Provided at Senior Centers and Other Sites
 Pub. L. 100–175, title I, § 111, Nov. 29, 1987, 101 Stat. 932, directed Commissioner on Aging, not later than Sept. 30, 1989, to submit to Congress a report assessing national unmet need for supportive services, nutrition services, and multipurpose senior centers by summarizing in detail for each State the results of the most recent evaluation conducted by the State agency under the then current plan submitted under [42 U.S.C. 3027(a)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/3/A&num=0&edition=prelim) and containing recommendations of the Secretary with respect to need for administrative action and legislation relating to satisfying the demand for supportive services provided at senior centers and other sites.
 
@@ -4533,6 +4551,9 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -4572,6 +4593,9 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3030"></a>
@@ -5202,7 +5226,7 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 #### Effective Date
-Part effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3030d-21"></a>
@@ -5267,7 +5291,7 @@ Par. (3). Pub. L. 109–365, § 313(4), added par. (3) and struck out former par
 1992—Par. (1). Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” and struck out before semicolon at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
 
 #### Effective Date
-Subpart effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 #### Nutrition Projects for Elderly Under Prior Provisions, Qualified Under Successor Provisions, Eligible for Funds Under Such Provisions; Discontinuance of Payments for Ineffective Activities
 Operation of predecessor projects under successor provisions, see section 501(b) of Pub. L. 95–478, set out as a note under [section 3045 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3045&num=0&edition=prelim).
@@ -5294,7 +5318,7 @@ The Assistant Secretary shall establish and carry out a program to make grants t
 1992—Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” and struck out before period at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
 
 #### Effective Date
-Subpart effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3030g-21"></a>
@@ -5317,6 +5341,9 @@ The Assistant Secretary, in consultation with recognized experts in the fields o
 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+#### Effective Date
+Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3030g-22"></a>
@@ -5422,7 +5449,7 @@ Subsec. (b). Pub. L. 103–171, § 3(a)(13), substituted “Assistant Secretary�
 Subsecs. (b), (c). Pub. L. 102–375, § 319(a)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Preventive health services under this part may not include services eligible for reimbursement under Medicare.”
 
 #### Effective Date
-Part effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3030n"></a>
@@ -5451,6 +5478,9 @@ Section 3030r, Pub. L. 89–73, title III, § 383, as added Pub. L. 102–375, t
 
 #### Amendments
 1992—Pub. L. 102–375 substituted “area agencies on aging” for “area agencies” in section catchline.
+
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3030s"></a>
@@ -5496,6 +5526,9 @@ Subsec. (b). Pub. L. 114–144, § 4(k)(2)(B), substituted “this part,” for 
 
 #### Short Title
 For short title of this part as the “National Family Caregiver Support Act”, see section 371 of Pub. L. 89–73, set out as a Short Title note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+#### Recognize, Assist, Include, Support, and Engage Family Caregivers
+Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017’ or the ‘RAISE Family Caregivers Act’. “SEC. 2. DEFINITIONS.“In this Act:“(1) Advisory council.—The term ‘Advisory Council’ means the Family Caregiving Advisory Council convened under section 4. “(2) Family caregiver.—The term ‘family caregiver’ means an adult family member or other individual who has a significant relationship with, and who provides a broad range of assistance to, an individual with a chronic or other health condition, disability, or functional limitation. “(3) Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services. “(4) Strategy.—The term ‘Strategy’ means the Family Caregiving Strategy set forth under section 3. “SEC. 3. FAMILY CAREGIVING STRATEGY.“(a) In General.—The Secretary, in consultation with the heads of other appropriate Federal agencies, shall develop jointly with the Advisory Council and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a Family Caregiving Strategy. “(b) Contents.—The Strategy shall identify recommended actions that Federal (under existing Federal programs), State, and local governments, communities, health care providers, long-term services and supports providers, and others are taking, or may take, to recognize and support family caregivers in a manner that reflects their diverse needs, including with respect to the following:“(1) Promoting greater adoption of person- and family-centered care in all health and long-term services and supports settings, with the person receiving services and supports and the family caregiver (as appropriate) at the center of care teams. “(2) Assessment and service planning (including care transitions and coordination) involving family caregivers and care recipients. “(3) Information, education and training supports, referral, and care coordination, including with respect to hospice care, palliative care, and advance planning services. “(4) Respite options. “(5) Financial security and workplace issues. “(6) Delivering services based on the performance, mission, and purpose of a program while eliminating redundancies. “(c) Duties of the Secretary.—The Secretary, in carrying out subsection (a), shall oversee the following:“(1) Collecting and making publicly available information submitted by the Advisory Council under section 4(d) to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, including evidence-based or promising practices and innovative models (both domestic and foreign) regarding the provision of care by family caregivers or support for family caregivers. “(2) Coordinating and assessing existing Federal Government programs and activities to recognize and support family caregivers while ensuring maximum effectiveness and avoiding unnecessary duplication. “(3) Providing technical assistance, as appropriate, such as disseminating identified best practices and information sharing based on reports provided under section 4(d), to State or local efforts to support family caregivers. “(d) Initial Strategy; Updates.—The Secretary shall—“(1) not later than 18 months after the date of enactment of this Act [Jan. 22, 2018], develop, publish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, an initial Strategy incorporating the items addressed in the Advisory Council’s initial report under section 4(d) and other relevant information, including best practices, for recognizing and supporting family caregivers; and “(2) biennially update, republish, and submit to the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs the Strategy, taking into account the most recent annual report submitted under section 4(d)(1)—“(A) to reflect new developments, challenges, opportunities, and solutions; and “(B) to review progress based on recommendations for recognizing and supporting family caregivers in the Strategy and, based on the results of such review, recommend priority actions for improving the implementation of such recommendations, as appropriate. “(e) Process for Public Input.—The Secretary shall establish a process for public input to inform the development of, and updates to, the Strategy, including a process for the public to submit recommendations to the Advisory Council and an opportunity for public comment on the proposed Strategy. “(f) No Preemption.—Nothing in this Act preempts any authority of a State or local government to recognize or support family caregivers. “(g) Rule of Construction.—Nothing in this Act shall be construed to permit the Secretary (through regulation, guidance, grant criteria, or otherwise) to—“(1) mandate, direct, or control the allocation of State or local resources; “(2) mandate the use of any of the best practices identified in the reports required under this Act; or “(3) otherwise expand the authority of the Secretary beyond that expressly provided to the Secretary in this Act. “SEC. 4. FAMILY CAREGIVING ADVISORY COUNCIL.“(a) Convening.—The Secretary shall convene a Family Caregiving Advisory Council to advise and provide recommendations, including identified best practices, to the Secretary on recognizing and supporting family caregivers. “(b) Membership.—“(1) In general.—The members of the Advisory Council shall consist of—“(A) the appointed members under paragraph (2); and “(B) the Federal members under paragraph (3). “(2) Appointed members.—In addition to the Federal members under paragraph (3), the Secretary shall appoint not more than 15 voting members of the Advisory Council who are not representatives of Federal departments or agencies and who shall include at least 1 representative of each of the following:“(A) Family caregivers. “(B) Older adults with long-term services and supports needs. “(C) Individuals with disabilities. “(D) Health care and social service providers. “(E) Long-term services and supports providers. “(F) Employers. “(G) Paraprofessional workers. “(H) State and local officials. “(I) Accreditation bodies. “(J) Veterans. “(K) As appropriate, other experts and advocacy organizations engaged in family caregiving. “(3) Federal members.—The Federal members of the Advisory Council, who shall be nonvoting members, shall consist of the following:“(A) The Administrator of the Centers for Medicare & Medicaid Services (or the Administrator’s designee). “(B) The Administrator of the Administration for Community Living (or the Administrator’s designee who has experience in both aging and disability). “(C) The Secretary of Veterans Affairs (or the Secretary’s designee). “(D) The heads of other Federal departments or agencies (or their designees), including relevant departments or agencies that oversee labor and workforce, economic, government financial policies, community service, and other impacted populations, as appointed by the Secretary or the Chair of the Advisory Council. “(4) Diverse representation.—The Secretary shall ensure that the membership of the Advisory Council reflects the diversity of family caregivers and individuals receiving services and supports. “(c) Meetings.—The Advisory Council shall meet quarterly during the 1-year period beginning on the date of enactment of this Act [Jan. 22, 2018] and at least three times during each year thereafter. Meetings of the Advisory Council shall be open to the public. “(d) Advisory Council Annual Reports.—“(1) In general.—Not later than 12 months after the date of enactment of this Act, and annually thereafter, the Advisory Council shall submit to the Secretary, the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a report concerning the development, maintenance, and updating of the Strategy, including a description of the outcomes of the recommendations and any priorities included in the initial report pursuant to paragraph (2), as appropriate. “(2) Initial report.—The Advisory Council’s initial report under paragraph (1) shall include—“(A) an inventory and assessment of all federally funded efforts to recognize and support family caregivers and the outcomes of such efforts, including analyses of the extent to which federally funded efforts are reaching family caregivers and gaps in such efforts; “(B) recommendations—“(i) to improve and better coordinate Federal programs and activities to recognize and support family caregivers, as well as opportunities to improve the coordination of such Federal programs and activities with State programs; and “(ii) to effectively deliver services based on the performance, mission, and purpose of a program while eliminating redundancies, avoiding unnecessary duplication and overlap, and ensuring the needs of family caregivers are met; “(C) the identification of challenges faced by family caregivers, including financial, health, and other challenges, and existing approaches to address such challenges; and “(D) an evaluation of how family caregiving impacts the Medicare program, the Medicaid program, and other Federal programs. “(e) Nonapplicability of FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Council. “SEC. 5. FUNDING.“No additional funds are authorized to be appropriated to carry out this Act. This Act shall be carried out using funds otherwise authorized. “SEC. 6. SUNSET PROVISION.“The authority and obligations established by this Act shall terminate on the date that is 3 years after the date of enactment of this Act [Jan. 22, 2018].”
 
 
 <a id="section-3030s-1"></a>
@@ -7516,6 +7549,9 @@ Payments may be made under this subchapter (after necessary adjustments, in the 
 #### Amendments
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3057a"></a>
 ## § 3057a. Authorization of appropriations
@@ -7541,6 +7577,9 @@ Par. (2). Pub. L. 109–365, § 602(2), substituted “$6,500,000 for fiscal yea
 
 1992—Pub. L. 102–375 amended section generally, substituting provisions authorizing appropriations of $30,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, and designating 90 percent of such appropriations to carry out part A of this subchapter and 10 percent of such appropriations to carry out part B of this subchapter for provisions authorizing appropriations of $13,400,000 for fiscal year 1988, $16,265,000 for fiscal year 1989, $19,133,000 for fiscal year 1990, and $22,105,000 for fiscal year 1991, designating over 90 percent of such appropriations to carry out part A of this subchapter and less than 10 percent of such appropriations to carry out part B of this subchapter, along with provisions providing a preference for funding of such part A if actual amounts of appropriations fall below 1987 levels and a preference for funding of such part B if the actual amounts of appropriations exceed 1987 levels.
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3057b"></a>
 ## § 3057b. Statement of purpose
@@ -7555,7 +7594,7 @@ A prior section 3057, Pub. L. 89–73, title VI, § 601, as added Pub. L. 95–4
 A prior section 601 of Pub. L. 89–73, title VI, as added Pub. L. 91–69, § 9, Sept. 17, 1969, 83 Stat. 111; amended Pub. L. 93–29, title VI, § 601, May 3, 1973, 87 Stat. 55, related to grants and contracts for volunteer service projects and was classified to [section 3044 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3044&num=0&edition=prelim), prior to repeal by Pub. L. 93–113, title VI, § 604(a), Oct. 1, 1973, 87 Stat. 417.
 
 #### Effective Date
-Subchapter effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3057c"></a>
@@ -7570,6 +7609,9 @@ A prior section 3057a, Pub. L. 89–73, title VI, § 602, as added Pub. L. 95–
 
 #### Amendments
 1992—Pub. L. 102–375 substituted “older individuals who are Indians, older individuals who are Alaskan Natives, and older individuals who are Native Hawaiians” for “older Indians, older Alaskan Natives, and older Native Hawaiians”.
+
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3057d"></a>
@@ -7608,6 +7650,9 @@ A prior section 603 of Pub. L. 89–73, title VI, as added Pub. L. 91–69, § 9
 
 Subsec. (a)(9). Pub. L. 102–375, § 904(a)(21)(B), substituted “population of older individuals who are Indians” for “Indian elderly population”.
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 #### Task Force
 Pub. L. 100–175, title I, § 134(d), Nov. 29, 1987, 101 Stat. 941, provided that: “(1) The Commissioner on Aging [now Assistant Secretary for Aging] shall establish a permanent interagency task force that is representative of departments and agencies of the Federal Government with an interest in older Indians and their welfare, and is designed to make recommendations with respect to facilitating the coordination of services and the improvement of services to older Indians. “(2) The task force shall be chaired by the Associate Commissioner on [now Director of the Office for] American Indian, Alaskan Native, and Native Hawaiian Aging and shall submit its findings and recommendations to the Commissioner at 6-month intervals beginning after the date of the enactment of this Act [Nov. 29, 1987]. Such findings and recommendations shall be included in the annual report required by section 207(a) of the Older Americans Act of 1965 [[42 U.S.C. 3018(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3018/a&num=0&edition=prelim)] to be submitted by the Commissioner.”
 
@@ -7635,6 +7680,9 @@ A prior section 3057c, Pub. L. 89–73, title VI, § 604, as added Pub. L. 95–
 #### Amendments
 2000—Subsecs. (b), (c). Pub. L. 106–501 added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3057e-1"></a>
 ## § 3057e–1. Grants authorized
@@ -7650,6 +7698,9 @@ A prior section 3057d, Pub. L. 89–73, title VI, § 605, as added Pub. L. 95–
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
 1992—Pub. L. 102–375 inserted “individuals who are” after “older”.
+
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3057f"></a>
@@ -7738,6 +7789,9 @@ Subsec. (a)(12). Pub. L. 102–375, § 601, added par. (12).
 #### Effective Date of 1992 Amendment
 Amendment by section 601 of Pub. L. 102–375 inapplicable to fiscal year 1992, see section 905(b)(5) of Pub. L. 102–375, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3057g"></a>
 ## § 3057g. Distribution of funds among tribal organizations
@@ -7781,6 +7835,9 @@ Pub. L. 109–365, title VI, § 601(b), Oct. 17, 2006, 120 Stat. 2590, provided 
 #### Prior Provisions
 A prior section 3057f, Pub. L. 89–73, title VI, § 607, as added Pub. L. 95–478, title I, § 106, Oct. 18, 1978, 92 Stat. 1551, related to payments, prior to the general amendment of this subchapter by Pub. L. 100–175. See [section 3057m of this title](./chapter-035-programs-for-older-americans.md#section-3057m).
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3057i"></a>
 ## § 3057i. Findings
@@ -7800,6 +7857,9 @@ The Congress finds the older Native Hawaiians—
 #### Prior Provisions
 A prior section 3057g, Pub. L. 89–73, title VI, § 608, as added Pub. L. 95–478, title I, § 106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, § 13(d), Dec. 29, 1981, 95 Stat. 1608; Pub. L. 98–459, title VI, § 603, Oct. 9, 1984, 98 Stat. 1788, authorized appropriations for grants for Indian tribes, prior to the general amendment of this subchapter by Pub. L. 100–175. See [section 3057n of this title](./chapter-035-programs-for-older-americans.md#section-3057n).
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3057j"></a>
 ## § 3057j. Eligibility
@@ -7809,6 +7869,11 @@ A public or nonprofit private organization having the capacity to provide servic
 (1) the organization will serve at least 50 individuals who have attained 60 years of age or older; and
 
 (2) the organization demonstrates the ability to deliver supportive services, including nutrition services.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3057j-1"></a>
@@ -7820,6 +7885,9 @@ The Assistant Secretary may make grants to public and nonprofit private organiza
 
 #### Amendments
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3057k"></a>
@@ -7870,6 +7938,9 @@ Subsec. (a)(7). Pub. L. 102–375, § 102(b)(4), substituted “information and 
 #### Effective Date of 1992 Amendment
 Amendment by section 603 of Pub. L. 102–375 inapplicable to fiscal year 1992, see section 905(b)(5) of Pub. L. 102–375, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3057k-11"></a>
 ## § 3057k–11. Distribution of funds among organizations
@@ -7881,6 +7952,11 @@ Subject to the availability of appropriations to carry out this part, the amount
 ## § 3057l. “Native Hawaiian” defined
 
 For the purpose of this part, the term “Native Hawaiian” means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3057m"></a>
@@ -7905,6 +7981,9 @@ In establishing regulations for the purpose of part A the Assistant Secretary sh
 #### Amendments
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
+#### Effective Date
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under [section 3026(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a&num=0&edition=prelim) or any State plan submitted under [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3058"></a>
 ## § 3058. Establishment
@@ -7924,9 +8003,9 @@ Another prior section 701 of Pub. L. 89–73 was classified to [section 3045 of 
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
 #### Effective Date
-Subchapter inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
-Subchapter inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058a"></a>
@@ -7952,6 +8031,9 @@ Subsec. (c). Pub. L. 114–144, § 8(a)(3), struck out subsec. (c). Text read as
 2006—Pub. L. 109–365 substituted “2007” for “2001” in subsecs. (a) to (c).
 
 2000—Pub. L. 106–501 amended section catchline and text generally, substituting provisions authorizing appropriations for subparts II, III, and IV of this part for fiscal year 2001 and subsequent fiscal years for provisions authorizing appropriations for subparts II, III, IV, and V of this part for fiscal years 1992 through 1995.
+
+#### Effective Date
+Subchapter inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058aa"></a>
@@ -7992,6 +8074,11 @@ Subsec. (d). Pub. L. 109–365, § 703(3), substituted “this part” for “th
 2000—Subsec. (d). Pub. L. 106–501 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $5,000,000 for fiscal year 1992, and such sums as may be necessary for fiscal years 1993, 1994, and 1995.”
 
 1993—Subsecs. (a), (b). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” and “Director of the Office for” for “Associate Commissioner on” in subsec. (a) and “Assistant Secretary” for “Commissioner” in two places in subsec. (b).
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058aa-1"></a>
@@ -8073,6 +8160,11 @@ Subsec. (a)(2)(C)(ii). Pub. L. 106–501, §§ 702, 801(e)(1)(B), substituted �
 
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
+#### Effective Date
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -8090,6 +8182,9 @@ As used in this subchapter:
 
 #### Amendments
 2000—Par. (2). Pub. L. 106–501 substituted “part A” for “subpart II, III, IV, or V of this subchapter”.
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058c"></a>
@@ -8109,6 +8204,9 @@ In order for a State to be eligible to receive allotments under this part—
 A prior section 3058c, Pub. L. 89–73, title VII, § 705, as added Pub. L. 98–459, title VII, § 701, Oct. 9, 1984, 98 Stat. 1791, related to administration of program, prior to repeal by Pub. L. 100–175, title I, § 181, title VII, § 701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
 
 A prior section 704 of Pub. L. 89–73 was classified to [section 3045c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3045c&num=0&edition=prelim) prior to repeal by Pub. L. 95–478.
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058cc"></a>
@@ -8132,6 +8230,9 @@ A State agency may carry out vulnerable elder rights protection activities eithe
 
 #### Amendments
 2000—Pub. L. 106–501 struck out “or an entity described in [section 3058aa(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058aa/c&num=0&edition=prelim)” after “A State agency” in introductory provisions.
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058d"></a>
@@ -8190,6 +8291,11 @@ Subsec. (a)(7), (8). Pub. L. 106–501, § 703(3) to (5), redesignated par. (8) 
 
 1993—Subsec. (a)(7)(D). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
+#### Effective Date
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3058dd"></a>
 ## § 3058dd. Technical assistance
@@ -8203,6 +8309,11 @@ Subsec. (a)(7), (8). Pub. L. 106–501, § 703(3) to (5), redesignated par. (8) 
 1993—Subsec. (a). Pub. L. 103–171, § 3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
 
 Subsec. (b). Pub. L. 103–171, § 13(a)(11), (13), substituted “Assistant Secretary” for “Commissioner” in heading and text.
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058e"></a>
@@ -8244,6 +8355,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 4002(b)(1)(B), (2)(BB) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under [section 1161 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1161&num=0&edition=prelim), The Congress.
 
+#### Effective Date
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3058ee"></a>
 ## § 3058ee. Audits
@@ -8257,6 +8371,11 @@ Amendment by section 4002(b)(1)(B), (2)(BB) of Pub. L. 110–246 effective Oct. 
 2000—Subsec. (b). Pub. L. 106–501 substituted “and area agencies on aging” for “, area agencies on aging, and entities described in [section 3058aa(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058aa/c&num=0&edition=prelim)”.
 
 1993—Subsec. (a). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in two places.
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058f"></a>
@@ -8280,6 +8399,9 @@ As used in this subpart:
 
 #### Amendments
 2016—Par. (6). Pub. L. 114–144 struck out “older” before “individual”.
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058ff"></a>
@@ -8716,6 +8838,11 @@ Subsec. (h)(4)(A). Pub. L. 103–171, § 3(a)(9)(A), substituted “Director of 
 
 Subsec. (j)(1). Pub. L. 103–171, § 3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
 
+#### Effective Date
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
 
 <a id="section-3058h"></a>
 ## § 3058h. Regulations
@@ -8734,6 +8861,11 @@ The Assistant Secretary shall issue and periodically update regulations respecti
 Par. (2). Pub. L. 114–144, § 8(d)(2), substituted “clauses (i) through (vi) of section 3058g(f)(1)(C)” for “subparagraphs (A) through (D) of section 3058g(f)(3)”.
 
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 
 <a id="section-3058i"></a>
@@ -8915,6 +9047,9 @@ Subsec. (b)(5). Pub. L. 106–501, § 705(1)(C), inserted “including caregiver
 Subsec. (d)(8). Pub. L. 106–501, § 705(2), inserted “State and local” before “law enforcement programs” and “, and services provided by agencies and courts of competent jurisdiction” before period at end.
 
 Subsec. (g). Pub. L. 106–501, § 705(3), added subsec. (g).
+
+#### Effective Date
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 
 #### Declaration of Purpose
 Pub. L. 102–375, title VII, § 703(a), Sept. 30, 1992, 106 Stat. 1282, provided that: “The purpose of this section [enacting this subpart] is to assist States in the design, development, and coordination of comprehensive services of the State and local levels to prevent, treat, and remedy elder abuse, neglect, and exploitation.”

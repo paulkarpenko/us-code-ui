@@ -11,6 +11,11 @@ source: >-
 
 The Secretary of Labor shall prescribe such regulations as are necessary to carry out subchapter I and this subchapter not later than 120 days after February 5, 1993.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
+
 
 <a id="section-2611"></a>
 ## § 2611. Findings and purposes
@@ -204,7 +209,7 @@ Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated par. (19) as (18).
 Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), The Congress, see [section 1312(e)(2) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1312/e/2&num=0&edition=prelim). The study required under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
-Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, subchapter applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
 
 #### Regulations
 Pub. L. 111–84, div. A, title V, § 565(a)(5), Oct. 28, 2009, 123 Stat. 2311, provided that: “In prescribing regulations to carry out the amendments made by this subsection [amending this section and sections 2612 and 2613 of this title], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
@@ -320,6 +325,9 @@ Subsec. (e)(3). Pub. L. 110–181, § 585(a)(3)(C)(ii), added par. (3).
 
 Subsec. (f). Pub. L. 110–181, § 585(a)(3)(D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
 
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
+
 
 <a id="section-2614"></a>
 ## § 2614. Certification
@@ -369,6 +377,9 @@ Subsec. (f). Pub. L. 110–181, § 585(a)(3)(D), designated existing provisions 
 2008—Subsec. (a). Pub. L. 110–181, § 585(a)(3)(E)(i), substituted “paragraph (1) or paragraph (3) of section 2612(a)” for “section 2612(a)(1)” and inserted “or of the next of kin of an individual in the case of leave taken under such paragraph (3),” after “parent of the employee,”.
 
 Subsec. (f). Pub. L. 110–181, § 585(a)(3)(E)(ii), added subsec. (f).
+
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
 
 
 <a id="section-2615"></a>
@@ -444,6 +455,9 @@ Subsec. (f). Pub. L. 110–181, § 585(a)(3)(E)(ii), added subsec. (f).
 
 Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii).
 
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
+
 
 <a id="section-2616"></a>
 ## § 2616. Prohibited acts
@@ -461,6 +475,11 @@ Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii).
 
 (3) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
+
 
 <a id="section-2617"></a>
 ## § 2617. Investigative authority
@@ -471,6 +490,11 @@ Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii).
 **(c) Required submissions generally limited to annual basis** The Secretary shall not under the authority of this section require any employer or any plan, fund, or program to submit to the Secretary any books or records more than once during any 12-month period, unless the Secretary has reasonable cause to believe there may exist a violation of this subchapter or any regulation or order issued pursuant to this subchapter, or is investigating a charge pursuant to [section 2617(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2617/b&num=0&edition=prelim).
 
 **(d) Subpoena powers** For the purposes of any investigation provided for in this section, the Secretary shall have the subpoena authority provided for under [section 209 of this title](./chapter-008-fair-labor-standards.md#section-209).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
 
 
 <a id="section-2618"></a>
@@ -545,6 +569,9 @@ Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii).
 
 #### Effective Date of 1995 Amendment
 Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), The Congress, see [section 1312(e)(2) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1312/e/2&num=0&edition=prelim). The study required under [section 1371 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1371&num=0&edition=prelim), dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
 
 
 <a id="section-2619"></a>
@@ -621,12 +648,20 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
+
 
 <a id="section-2631"></a>
 ## § 2631. Notice
 **(a) In general** Each employer shall post and keep posted, in conspicuous places on the premises of the employer where notices to employees and applicants for employment are customarily posted, a notice, to be prepared or approved by the Secretary, setting forth excerpts from, or summaries of, the pertinent provisions of this subchapter and information pertaining to the filing of a charge.
 
 **(b) Penalty** Any employer that willfully violates this section may be assessed a civil money penalty not to exceed $100 for each separate offense.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
 
 
 <a id="section-2632"></a>
@@ -739,7 +774,7 @@ The Commission shall terminate 30 days after the date of the submission of the r
 This Act, referred to in text, is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, known as the Family and Medical Leave Act of 1993, which enacted this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended [section 2105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and enacted provisions set out as notes under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601). For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601) and Tables.
 
 #### Effective Date
-Subchapter effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
 
 
 <a id="section-2653"></a>
@@ -753,6 +788,9 @@ Subchapter effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. 
 #### References in Text
 This Act, referred to in text, is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, known as the Family and Medical Leave Act of 1993, which enacted this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended [section 2105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and enacted provisions set out as notes under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601). For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601) and Tables.
 
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).
+
 
 <a id="section-2654"></a>
 ## § 2654. Encouragement of more generous leave policies
@@ -763,3 +801,6 @@ Nothing in this Act or any amendment made by this Act shall be construed to disc
 
 #### References in Text
 This Act, referred to in text, is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, known as the Family and Medical Leave Act of 1993, which enacted this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended [section 2105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and enacted provisions set out as notes under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601). For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601) and Tables.
+
+#### Effective Date
+Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under [section 2601 of this title](./chapter-028-family-and-medical-leave.md#section-2601).

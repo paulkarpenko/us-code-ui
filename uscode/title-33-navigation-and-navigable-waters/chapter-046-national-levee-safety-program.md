@@ -2,7 +2,7 @@
 title: 33
 chapter: '46'
 heading: NATIONAL LEVEE SAFETY PROGRAM
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -440,7 +440,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
   (E) *Authorization of appropriations*
 
-    (i) *In general* — There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2015 through 2019.
+    (i) *In general* — There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2023.
 
     (ii) *Allocation* — For each fiscal year, amounts made available under this subparagraph shall be allocated among the States, regional districts, and Indian tribes as follows:
 
@@ -547,6 +547,8 @@ The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is t
 A prior section 9005 of Pub. L. 110–114 was renumbered section 9007, and is classified to [section 3304 of this title](./chapter-046-national-levee-safety-program.md#section-3304).
 
 #### Amendments
+2018—Subsec. (g)(2)(E)(i). Pub. L. 115–270 substituted “2019 through 2023” for “2015 through 2019”.
+
 2016—Subsec. (c)(1). Pub. L. 114–322, § 1130(c)(1)(A)(i), substituted “1 year after December 16, 2016,” for “1 year after June 10, 2014,” and “State, regional, local, and tribal governments and organizations” for “State, local, and tribal governments and organizations” in introductory provisions.
 
 Subsec. (c)(1)(A). Pub. L. 114–322, § 1130(c)(1)(A)(ii), substituted “Federal, State, regional, local, and tribal agencies” for “Federal, State, tribal, and local agencies”.
@@ -683,18 +685,44 @@ Nothing in this chapter shall be construed as—
 
 There is authorized to be appropriated to the Secretary—
 
-(1) to carry out sections 3302, 3303a(c), 3303a(d), 3303a(e), and 3303a(f) of this title, $4,000,000 for each of fiscal years 2015 through 2019;
+(1) to carry out sections 3302, 3303a(c), 3303a(d), 3303a(e), and 3303a(f) of this title, $4,000,000 for each of fiscal years 2019 through 2023;
 
-(2) to carry out [section 3303 of this title](./chapter-046-national-levee-safety-program.md#section-3303), $20,000,000 for each of fiscal years 2015 through 2019; and
+(2) to carry out [section 3303 of this title](./chapter-046-national-levee-safety-program.md#section-3303), $20,000,000 for each of fiscal years 2019 through 2023; and
 
-(3) to carry out [section 3303a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3303a/h&num=0&edition=prelim), $30,000,000 for each of fiscal years 2015 through 2019.
+(3) to carry out [section 3303a(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3303a/h&num=0&edition=prelim), $30,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–270 substituted “2019 through 2023” for “2015 through 2019” in pars. (1) to (3).
+
 2014—Pub. L. 113–121, § 3016(f)(2), substituted “Secretary—” for “Secretary to carry out this chapter $20,000,000 for each of fiscal years 2008 through 2013.” and added pars. (1) to (3).
 
 Pub. L. 113–121, § 3016(f)(1), which directed the substitution of “is” for “are”, could not be executed because “are” does not appear in text.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-3306"></a>
+## § 3306. Certain levee improvements
+**(a) In general** Notwithstanding section 211 of the Water Resources Development Act of 2000 ([31 U.S.C. 6505](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6505&num=0&edition=prelim) note), the Secretary, at the request of a local government, is authorized to provide technical services, on a reimbursable basis, to the local government to assess the reasons a federally constructed levee owned or operated by the local government is not accredited by the Federal Emergency Management Agency.
+
+**(b) Federal levees** In carrying out this section, in a case in which a levee owned and operated by the Secretary is hydraulically tied to a levee described in subsection (a), the Secretary is encouraged to cooperate, to the maximum extent practicable, with the relevant local governmental entities in assessing the reasons the levee described in subsection (a) is not accredited.
+
+**(c) Limitation** Nothing in this section—
+
+(1) affects the responsibilities of a local government to operate and maintain its flood control infrastructure; or
+
+(2) obligates the Secretary to expend additional Federal resources on levees owned and operated by the Secretary.
+
+### Statutory Notes
+
+#### References in Text
+Section 211 of the Water Resources Development Act of 2000, referred to in subsec. (a), is section 211 of Pub. L. 106–541, which is set out as a note under [section 6505 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6505&num=0&edition=prelim), Money and Finance.
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2018, and also as part of the America’s Water Infrastructure Act of 2018, and not as part of the National Levee Safety Act of 2007 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

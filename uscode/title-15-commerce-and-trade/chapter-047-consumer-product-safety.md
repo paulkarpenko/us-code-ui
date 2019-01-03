@@ -2786,7 +2786,7 @@ which the agency or authority makes available to any member of the public. No Fe
 
     (iii) with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency’s government; and
 
-  (C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to [section 4605(j)(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/4&num=0&edition=prelim).
+  (C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 11 See References in Text note below. of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
 
 (2) **Abrogation of agreements** — The Commission may abrogate any agreement or memorandum of understanding with another agency if the Commission determines that the other agency has failed to maintain in confidence any information provided under such agreement or memorandum of understanding, or has used any such information for purposes other than those set forth in such agreement or memorandum of understanding.
 
@@ -2809,6 +2809,9 @@ which the agency or authority makes available to any member of the public. No Fe
 **(g) Notification to State health departments** Whenever the Commission is notified of any voluntary corrective action taken by a manufacturer (or a retailer in the case of a retailer selling a product under its own label) in consultation with the Commission, or issues an order under section 2064(c) or (d) of this title with respect to any product, the Commission shall notify each State’s health department (or other agency designated by the State) of such voluntary corrective action or order.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), referred to in subsec. (f)(1)(C), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), see [section 4813(c) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Amendments
 2008—Subsec. (e). Pub. L. 110–314, § 235(c)(7), substituted “Notwithstanding [section 2055(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2055/a/3&num=0&edition=prelim), the Commission” for “The Commission” in introductory provisions.

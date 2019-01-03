@@ -30,7 +30,7 @@ source: >-
 
 (4) **Extension by agreement**
 
-  (A) *In general* — Where, before the expiration of the time prescribed in this section for the assessment of any tax imposed by this title, except the estate tax provided in chapter 11, both the Secretary and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.
+  (A) *In general* — Where, before the expiration of the time prescribed for the assessment of any tax imposed by this title, except the estate tax provided in chapter 11, both the Secretary and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.
 
   (B) *Notice to taxpayer of right to refuse or limit extension* — The Secretary shall notify the taxpayer of the taxpayer’s right to refuse to extend the period of limitations, or to limit such extension to particular issues or to a particular period of time, on each occasion when the taxpayer is requested to provide such consent.
 
@@ -55,6 +55,12 @@ source: >-
   (B) the date that a material advisor meets the requirements of section 6112 with respect to a request by the Secretary under section 6112(b) relating to such transaction with respect to such taxpayer.
 
 (11) **Certain orders of criminal restitution** — In the case of any amount described in section 6201(a)(4), such amount may be assessed, or a proceeding in court for the collection of such amount may be begun without assessment, at any time.
+
+(12) **Certain taxes attributable to partnership adjustments** — In the case of any partnership adjustment determined under subchapter C of chapter 63, the period for assessment of any tax imposed under chapter 2 or 2A which is attributable to such adjustment shall not expire before the date that is 1 year after—
+
+  (A) in the case of an adjustment pursuant to the decision of a court in a proceeding brought under section 6234, such decision becomes final, or
+
+  (B) in any other case, 90 days after the date on which the notice of the final partnership adjustment is mailed under section 6231.
 
 **(d) Request for prompt assessment** Except as otherwise provided in subsection (c), (e), or (f), in the case of any tax (other than the tax imposed by chapter 11 of subtitle B, relating to estate taxes) for which return is required in the case of a decedent, or by his estate during the period of administration, or by a corporation, the tax shall be assessed, and any proceeding in court without assessment for the collection of such tax shall be begun, within 18 months after written request therefor (filed after the return is made and filed in such manner and such form as may be prescribed by regulations of the Secretary) by the executor, administrator, or other fiduciary representing the estate of such decedent, or by the corporation, but not after the expiration of 3 years after the return was filed. This subsection shall not apply in the case of a corporation unless—
 
@@ -132,22 +138,21 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 
 (3) **Certain set-asides described in section 4942(g)(2)** — In the case of a deficiency attributable to the failure of an amount set aside by a private foundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
 
-**(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under 11 So in original. Probably should be followed by “section”. 30B(h)(9), 30C(e)(5), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
+**(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
 
-**(n) Cross references**
-
-(1) For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
-
-(2) For extension of period in the case of partnership items (as defined in section 6231(a)(3)), see section 6229.
-
-(3) For declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return, see section 6234.
+**(n) Cross reference** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
 
 ### Statutory Notes
 
-#### Amendment of Subsection (n)
-Pub. L. 114–74, title XI, § 1101(f)(3), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (n) of this section is amended by striking paragraphs (2) and (3) and by striking “Cross references” and all that follows through “For period of limitations” and inserting “Cross reference” and “For period of limitations”. See 2015 Amendment note below.
-
 #### Amendments
+2018—Subsec. (c)(4)(A). Pub. L. 115–141, § 205(b), struck out “in this section” after “time prescribed”.
+
+Subsec. (c)(12). Pub. L. 115–141, § 201(b)(2), added par. (12).
+
+Subsec. (m). Pub. L. 115–141, § 401(a)(295), subtituted “any election under section 30B(h)(9), 30C(e)(4), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j)” for “any election under 30B(h)(9), 30C(e)(5), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), 45S(h), or 51(j)”.
+
+2017—Subsec. (m). Pub. L. 115–97 inserted “45S(h),” after “45H(g),”.
+
 2015—Subsec. (e)(1)(B)(ii). Pub. L. 114–41, § 2005(a)(1), added cl. (ii). Former cl. (ii) redesignated (iii).
 
 Subsec. (e)(1)(B)(iii). Pub. L. 114–41 redesignated cl. (ii) as (iii) and inserted “(other than in the case of an overstatement of unrecovered cost or other basis)” after “In determining the amount omitted from gross income”.
@@ -390,8 +395,14 @@ Subsec. (g)(2). Pub. L. 85–866, § 81(a), substituted “organization” for �
 
 Subsecs. (h), (i). Pub. L. 85–866, § 81(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
+#### Effective Date of 2018 Amendment
+Amendment by sections 201(b)(2) and 205(b) of Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to wages paid in taxable years beginning after Dec. 31, 2017, see section 13403(e) of Pub. L. 115–97, set out as a note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
+
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 Pub. L. 114–41, title II, § 2005(b), July 31, 2015, 129 Stat. 457, provided that: “The amendments made by this section [amending this section] shall apply to— “(1) returns filed after the date of the enactment of this Act [July 31, 2015], and “(2) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 (determined without regard to such amendments) for assessment of the taxes with respect to which such return relates has not expired as of such date.”
 
@@ -407,7 +418,7 @@ Pub. L. 111–226, title II, § 218(b), Aug. 10, 2010, 124 Stat. 2403, provided 
 
 Amendment by section 501(c)(2), (3) of Pub. L. 111–147 applicable to payments made after Dec. 31, 2012, with certain exceptions, see section 501(d)(1), (2) of Pub. L. 111–147, set out as a note under [section 1471 of this title](./chapter-004-taxes-to-enforce-reporting-on-certain-foreign-accounts.md#section-1471).
 
-Amendment by section 513(a)(1), (2)(A), (b), (c) of Pub. L. 111–147 applicable to returns filed after Mar. 18, 2010, and to certain returns filed on or before Mar. 18, 2010, see section 513(d) of Pub. L. 111–147, set out as a note under [section 6229 of this title](./chapter-063-assessment.md#section-6229).
+Pub. L. 111–147, title V, § 513(d), Mar. 18, 2010, 124 Stat. 112, provided that: “The amendments made by this section [amending this section and [section 6229 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6229&num=0&edition=prelim)] shall apply to— “(1) returns filed after the date of the enactment of this Act [Mar. 18, 2010]; and “(2) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 (determined without regard to such amendments) for assessment of such taxes has not expired as of such date.”
 
 #### Effective Date of 2009 Amendment
 Amendment by section 1141(b)(4) of Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009, see section 1141(c) of Pub. L. 111–5, set out as a note under [section 30B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30b).
@@ -446,7 +457,7 @@ Pub. L. 105–34, title V, § 506(e)(2), Aug. 5, 1997, 111 Stat. 856, provided t
 
 Pub. L. 105–34, title XI, § 1145(b), Aug. 5, 1997, 111 Stat. 985, provided that: “The amendment made by subsection (a) [amending this section] shall apply to information the due date for the reporting of which is after the date of the enactment of this Act [Aug. 5, 1997].”
 
-Amendment by section 1239(e)(2) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6225 of this title](./chapter-063-assessment.md#section-6225).
+Pub. L. 105–34, title XII, § 1239(f), Aug. 5, 1997, 111 Stat. 1028, provided that: “The amendments made by this section [amending this section and sections 6225, 6226, 6230, 6512, 7421, 7459, and 7482 of this title] shall apply to partnership taxable years ending after the date of the enactment of this Act [Aug. 5, 1997].”
 
 Pub. L. 105–34, title XII, § 1284(b), Aug. 5, 1997, 111 Stat. 1038, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
 
@@ -481,7 +492,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 #### Effective Date of 1984 Amendment
 Amendment by section 131(d)(2) of Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984, see section 131(g) of Pub. L. 98–369, set out as a note under [section 367 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-367).
 
-Amendment by section 163(b)(1) of Pub. L. 98–369 applicable to expenditures with respect to which the second taxable year described in [section 118(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section118/b/2/B&num=0&edition=prelim) ends after Dec. 31, 1984, see section 163(c) of Pub. L. 98–369, set out as a note under [section 118 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-118).
+Amendment by section 163(b)(1) of Pub. L. 98–369 applicable to expenditures with respect to which the second taxable year described in former [section 118(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section118/b/2/B&num=0&edition=prelim) ends after Dec. 31, 1984, see section 163(c) of Pub. L. 98–369, set out as a note under [section 118 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-118).
 
 Amendment by section 211(b)(24) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under [section 801 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-801).
 
@@ -496,7 +507,7 @@ Amendment by section 714(p)(2)(F) of Pub. L. 98–369 effective as if included i
 Amendment by section 801(d)(14) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under [section 245 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-245).
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1980 Amendments
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under [section 6161 of this title](./chapter-062-time-and-place-for-paying-tax.md#section-6161).
@@ -562,7 +573,7 @@ Pub. L. 89–721, § 3(b), Nov. 2, 1966, 80 Stat. 1151, provided that: “The am
 Pub. L. 89–44, title VIII, § 810(c), June 21, 1965, 79 Stat. 169, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to returns filed on or after July 1, 1965.”
 
 #### Effective Date of 1964 Amendments
-Pub. L. 88–571, § 3(f), Sept. 2, 1964, 78 Stat. 859, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and sections 815, 6511, 6601, and 6611 of this title] shall apply with respect to amounts added to policyholders surplus accounts (within the meaning of section 815(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) for taxable years beginning after December 31, 1958.”
+Pub. L. 88–571, § 3(f), Sept. 2, 1964, 78 Stat. 859, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and sections 815, 6511, 6601, and 6611 of this title] shall apply with respect to amounts added to policyholders surplus accounts (within the meaning of [former] section 815(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) for taxable years beginning after December 31, 1958.”
 
 Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(l) of Pub. L. 88–272, set out as a note under [section 316 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-316).
 
@@ -640,7 +651,7 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 ## § 6503. Suspension of running of period of limitation
 **(a) Issuance of statutory notice of deficiency**
 
-(1) **General rule** — The running of the period of limitations provided in section 6501 or 6502 (or section 6229, but only with respect to a deficiency described in paragraph (2)(A) or (3) of section 6230(a)).11 So in original. on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+(1) **General rule** — The running of the period of limitations provided in section 6501 or 6502 on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 (2) **Corporation joining in consolidated income tax return** — If a notice under section 6212(a) in respect of a deficiency in tax imposed by subtitle A for any taxable year is mailed to a corporation, the suspension of the running of the period of limitations provided in paragraph (1) of this subsection shall apply in the case of corporations with which such corporation made a consolidated income tax return for such taxable year.
 
@@ -718,9 +729,6 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(1)
-Pub. L. 114–74, title XI, § 1101(f)(4), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, subsection (a)(1) of this section is amended by striking “(or section 6229” and all that follows through “of section 6230(a))”. See 2015 Amendment note below.
-
 #### Codification
 Pub. L. 94–452, § 3(b), redesignated subsec. (i), relating to cross references, as subsec. (j) and added a new subsec. (i), relating to extension of time for collecting certain taxes.
 
@@ -733,6 +741,8 @@ Pub. L. 96–596, § 2(a)(4)(E) and (F), redesignated subsec. (j), relating to c
 Pub. L. 96–589 again redesignated subsec. (i), relating to cross references, as subsec. (j) and added a new subsec. (i), relating to cases under title 11.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–141, which directed amendment of par. (1) by substituting “section 6230(a))” for “section 6230(a)).”, was executed by substituting “section 6501 or 6502” for “section 6501 or 6502.”, to reflect the probable intent of Congress and the amendment made by Pub. L. 114–74. See 2015 Amendment note below.
+
 2015—Subsec. (a)(1). Pub. L. 114–74 struck out “(or section 6229, but only with respect to a deficiency described in paragraph (2)(A) or (3) of section 6230(a))” after “section 6501 or 6502”.
 
 2007—Subsec. (k)(4). Pub. L. 110–28 substituted “Tax return preparers” for “Income tax return preparers”.
@@ -838,13 +848,13 @@ Subsec. (h). Pub. L. 89–719, § 106(c), redesignated former subsec. (g) as (h)
 1956—Subsecs. (e), (f). Act Aug. 6, 1956, added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under [section 6060 of this title](./chapter-061-information-and-returns.md#section-6060).
 
 #### Effective Date of 1997 Amendment
-Amendment by Pub. L. 105–34 effective as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1237(d) of Pub. L. 105–34, set out as a note under [section 6230 of this title](./chapter-063-assessment.md#section-6230).
+Pub. L. 105–34, title XII, § 1237(d), Aug. 5, 1997, 111 Stat. 1026, provided that: “The amendments made by this section [amending this section and [section 6230 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6230&num=0&edition=prelim)] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 [Pu b. L. 97–248].”
 
 #### Effective Date of 1996 Amendments
 Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
@@ -860,7 +870,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 #### Effective Date of 1986 Amendment
 Amendment by section 1235(d) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under [section 1291 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1291).
 
-Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under [section 6230 of this title](./chapter-063-assessment.md#section-6230).
+Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under [section 6213 of this title](./chapter-063-assessment.md#section-6213).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 applicable to taxable events occurring after Dec. 31, 1984, see section 305(c) of Pub. L. 98–369, set out as an Effective Date note under [section 4962 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4962).
@@ -946,12 +956,7 @@ For limitation period in case of—
 
 (10) Assessment of civil penalties under section 6694 or 6695, see section 6696(d)(1).
 
-(11) Assessments of tax attributable to partnership items, see section 6229.
-
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 114–74, title XI, § 1101(f)(5), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (11). See 2015 Amendment note below.
 
 #### Amendments
 2015—Par. (11). Pub. L. 114–74 struck out par. (11) which read as follows: “Assessments of tax attributable to partnership items, see section 6229.”
@@ -1019,7 +1024,7 @@ Par. (15). Pub. L. 94–455, § 1906(a)(32)(B), redesignated par. (15) as (10).
 Par. (14). Act June 29, 1956, added par. (14).
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under [section 121 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-121).
@@ -1031,7 +1036,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under [section 34 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-34).
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1978 Amendments
 Amendment by Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under [section 34 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-34).
@@ -1162,7 +1167,7 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
 **(f) Special rule for chapter 42 and similar taxes** For purposes of any tax imposed by section 4912, chapter 42, or section 4975, the return referred to in subsection (a) shall be the return specified in section 6501(l)(1).
 
-**(g) Special rule for claims with respect to partnership items** In the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section 6231(a)(3)), the provisions of section 6227 and subsections (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter.
+**(g) Repealed. Pub. L. 114–74, title XI, § 1101(f)(6), Nov. 2, 2015, 129 Stat. 638]**
 
 **(h) Running of periods of limitation suspended while taxpayer is unable to manage financial affairs due to disability**
 
@@ -1191,9 +1196,6 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 (7) For a period of limitations for refund of an overpayment of penalties imposed under section 6694 or 6695, see section 6696(d)(2).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 114–74, title XI, § 1101(f)(6), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking subsection (g). See 2015 Amendment note below.
 
 #### References in Text
 Section 218 of the Social Security Act, referred to in subsec. (d)(5), is classified to [section 418 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section418&num=0&edition=prelim), The Public Health and Welfare.
@@ -1334,7 +1336,7 @@ Subsec. (d)(2)(A). Pub. L. 85–866, § 82(d), substituted in first sentence “
 Subsec. (f)(6). Act June 29, 1956, added par. (6).
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–245, title I, § 106(b), June 17, 2008, 122 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall apply to claims for credit or refund filed after the date of the enactment of this Act [June 17, 2008].”
@@ -1366,7 +1368,7 @@ Amendment by section 231(d)(3)(I) of Pub. L. 99–514 applicable to taxable year
 Amendment by section 1847(b)(15) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48).
 
 #### Effective Date of 1984 Amendment
-Amendment by section 163(b)(2) of Pub. L. 98–369 applicable to expenditures with respect to which the second taxable year described in [section 118(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section118/b/2/B&num=0&edition=prelim) ends after Dec. 31, 1984, see section 163(c) of Pub. L. 98–369, set out as a note under [section 118 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-118).
+Amendment by section 163(b)(2) of Pub. L. 98–369 applicable to expenditures with respect to which the second taxable year described in former [section 118(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section118/b/2/B&num=0&edition=prelim) ends after Dec. 31, 1984, see section 163(c) of Pub. L. 98–369, set out as a note under [section 118 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-118).
 
 Amendment by section 211(b)(25) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under [section 801 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-801).
 
@@ -1379,7 +1381,7 @@ Amendment by section 735(c)(14) of Pub. L. 98–369 effective, except as otherwi
 Amendment by section 2663(j)(5)(F) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under [section 401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1981 Amendment
 Amendment by section 221(b)(2)(A) of Pub. L. 97–34 applicable to amounts paid or incurred after June 30, 1981, see section 221(d) of Pub. L. 97–34, as amended, set out as an Effective Date note under [section 41 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-41).
@@ -1432,7 +1434,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 Amendment by Pub. L. 89–331 effective Nov. 8, 1965, see section 14 of Pub. L. 89–331, Nov. 8, 1965, 79 Stat. 1281.
 
 #### Effective Date of 1964 Amendments
-Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts, for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under [section 815 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-815).
+Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts, for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under [section 6501 of this title](./chapter-066-limitations.md#section-6501).
 
 Amendment by Pub. L. 88–272, applicable to taxable years beginning after Dec. 31, 1964, see section 232(g) of Pub. L. 88–272, set out as an Effective Date note under [section 1301 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1301).
 
@@ -1479,7 +1481,7 @@ Pub. L. 85–866, title I, § 96, Sept. 2, 1958, 72 Stat. 1672, authorized refun
 
 **(b) Overpayment determined by Tax Court**
 
-(1) **Jurisdiction to determine** — Except as provided by paragraph (3) and by section 7463, if the Tax Court finds that there is no deficiency and further finds that the taxpayer has made an overpayment of income tax for the same taxable year, of gift tax for the same calendar year, or calendar quarter, of estate tax in respect of the taxable estate of the same decedent, or of tax imposed by chapter 41, 42, 43, or 44 with respect to any act (or failure to act) to which such petition relates, in respect of which the Secretary determined the deficiency, or finds that there is a deficiency but that the taxpayer has made an overpayment of such tax, the Tax Court shall have jurisdiction to determine the amount of such overpayment, and such amount shall, when the decision of the Tax Court has become final, be credited or refunded to the taxpayer. If a notice of appeal in respect of the decision of the Tax Court is filed under section 7483, the Secretary is authorized to refund or credit the overpayment determined by the Tax Court to the extent the overpayment is not contested on appeal.
+(1) **Jurisdiction to determine** — Except as provided by paragraph (3) and by section 7463, if the Tax Court finds that there is no deficiency and further finds that the taxpayer has made an overpayment of income tax for the same taxable year, of gift tax for the same calendar year or calendar quarter, of estate tax in respect of the taxable estate of the same decedent, or of tax imposed by chapter 41, 42, 43, or 44 with respect to any act (or failure to act) to which such petition relates, in respect of which the Secretary determined the deficiency, or finds that there is a deficiency but that the taxpayer has made an overpayment of such tax, the Tax Court shall have jurisdiction to determine the amount of such overpayment, and such amount shall, when the decision of the Tax Court has become final, be credited or refunded to the taxpayer. If a notice of appeal in respect of the decision of the Tax Court is filed under section 7483, the Secretary is authorized to refund or credit the overpayment determined by the Tax Court to the extent the overpayment is not contested on appeal.
 
 (2) **Jurisdiction to enforce** — If, after 120 days after a decision of the Tax Court has become final, the Secretary has failed to refund the overpayment determined by the Tax Court, together with the interest thereon as provided in subchapter B of chapter 67, then the Tax Court, upon motion by the taxpayer, shall have jurisdiction to order the refund of such overpayment and interest. An order of the Tax Court disposing of a motion under this paragraph shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
 
@@ -1496,7 +1498,6 @@ Pub. L. 85–866, title I, § 96, Sept. 2, 1958, 72 Stat. 1672, authorized refun
     (ii) which had been disallowed before that date and in respect of which a timely suit for refund could have been commenced as of that date, or
 
     (iii) in respect of which a suit for refund had been commenced before that date and within the period specified in section 6532.
-  In the case of a credit or refund relating to an affected item (within the meaning of section 6231(a)(5)), the preceding sentence shall be applied by substituting the periods under sections 6229 and 6230(d) for the periods under section 6511(b)(2), (c), and (d).
   In a case described in subparagraph (B) where the date of the mailing of the notice of deficiency is during the third year after the due date (with extensions) for filing the return of tax and no return was filed before such date, the applicable period under subsections (a) and (b)(2) of section 6511 shall be 3 years.
 
 (4) **Denial of jurisdiction regarding certain credits and reductions** — The Tax Court shall have no jurisdiction under this subsection to restrain or review any credit or reduction made by the Secretary under section 6402.
@@ -1509,11 +1510,8 @@ Pub. L. 85–866, title I, § 96, Sept. 2, 1958, 72 Stat. 1672, authorized refun
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(3)
-Pub. L. 114–74, title XI, § 1101(f)(7), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b)(3) of this section is amended by striking the second sentence. See 2015 Amendment note below.
-
 #### Amendments
-2015—Subsec. (b)(3). Pub. L. 114–74 struck out concluding provisions “In the case of a credit or refund relating to an affected item (within the meaning of section 6231(a)(5)), the preceding sentence shall be applied by substituting the periods under sections 6229 and 6230(d) for the periods under section 6511(b)(2), (c), and (d).” before “In a case described in subparagraph (B)”.
+2015—Subsec. (b)(3). Pub. L. 114–74 struck out first set of concluding provisions “In the case of a credit or refund relating to an affected item (within the meaning of section 6231(a)(5)), the preceding sentence shall be applied by substituting the periods under sections 6229 and 6230(d) for the periods under section 6511(b)(2), (c), and (d).” before “In a case described in subparagraph (B)”.
 
 2000—Subsec. (a)(1), (2), (5). Pub. L. 106–554 substituted a comma for a semicolon before “and” at end.
 
@@ -1570,10 +1568,10 @@ Subsec. (b)(1). Pub. L. 91–172, §§ 101(j)(48), 960(b), inserted reference to
 1962—Subsec. (b)(2)(C). Pub. L. 87–870 added subpar. (C).
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
-Amendment by section 1239(c)(2) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6225 of this title](./chapter-063-assessment.md#section-6225).
+Amendment by section 1239(c)(2) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6501 of this title](./chapter-066-limitations.md#section-6501).
 
 Pub. L. 105–34, title XII, § 1282(b), Aug. 5, 1997, 111 Stat. 1038, provided that: “The amendment made by subsection (a) [amending this section] shall apply to claims for credit or refund for taxable years ending after the date of the enactment of this Act [Aug. 5, 1997].”
 
@@ -1589,7 +1587,7 @@ Pub. L. 100–647, title VI, § 6247(c), Nov. 10, 1988, 102 Stat. 3752, provided
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under [section 164 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-164).
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1980 Amendments
 Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under [section 108 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-108).
@@ -1702,12 +1700,7 @@ For limitations in case of—
 
 (5) Deficiency dividends of a regulated investment company or real estate investment trust, see section 860.
 
-(6) Refunds or credits attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.
-
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 114–74, title XI, § 1101(f)(8), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (6).
 
 #### Amendments
 2015—Par. (6). Pub. L. 114–74 struck out par. (6) which read as follows: “Refunds or credits attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.”
@@ -1727,10 +1720,10 @@ Pars. (3) to (7). Pub. L. 94–455, § 1901(b)(37)(E), redesignated pars. (3) to
 Par. (8). Pub. L. 94–455, § 1601(f)(3), added par. (8) which was redesignated par. (6) by section 1901(b)(37)(E) of Pub. L. 94–455.
 
 #### Effective Date of 2015 Amendment
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1982 Amendment
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under [section 702 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-702).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in [section 860(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section860/e&num=0&edition=prelim)) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under [section 860 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-860).
@@ -1811,13 +1804,17 @@ The date of enactment of this title, referred to in text, is Aug. 16, 1986 [form
 
 **(c) Suits by persons other than taxpayers**
 
-(1) **General rule** — Except as provided by paragraph (2), no suit or proceeding under section 7426 shall be begun after the expiration of 9 months from the date of the levy or agreement giving rise to such action.
+(1) **General rule** — Except as provided by paragraph (2), no suit or proceeding under section 7426 shall be begun after the expiration of 2 years from the date of the levy or agreement giving rise to such action.
 
-(2) **Period when claim is filed** — If a request is made for the return of property described in section 6343(b), the 9-month period prescribed in paragraph (1) shall be extended for a period of 12 months from the date of filing of such request or for a period of 6 months from the date of mailing by registered or certified mail by the Secretary to the person making such request of a notice of disallowance of the part of the request to which the action relates, whichever is shorter.
+(2) **Period when claim is filed** — If a request is made for the return of property described in section 6343(b), the 2-year period prescribed in paragraph (1) shall be extended for a period of 12 months from the date of filing of such request or for a period of 6 months from the date of mailing by registered or certified mail by the Secretary to the person making such request of a notice of disallowance of the part of the request to which the action relates, whichever is shorter.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (c)(1). Pub. L. 115–97, § 11071(b)(1), substituted “2 years” for “9 months”.
+
+Subsec. (c)(2). Pub. L. 115–97, § 11071(b)(2), substituted “2-year” for “9-month”.
+
 1980—Subsec. (a)(5). Pub. L. 96–589 added par. (5).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
@@ -1825,6 +1822,9 @@ The date of enactment of this title, referred to in text, is Aug. 16, 1986 [form
 1966—Subsec. (c). Pub. L. 89–719 added subsec. (c).
 
 1958—Subsec. (a)(1), (4). Pub. L. 85–866 inserted “certified mail or” before “registered mail” wherever appearing.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to levies made after Dec. 22, 2017, and levies made on or before Dec. 22, 2017, if the 9-month period has not expired under [section 6343(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6343/b&num=0&edition=prelim) (without regard to section 11071 of Pub. L. 115–97) as of such date, see section 11071(c) of Pub. L. 115–97, set out as a note under [section 6343 of this title](./chapter-064-collection.md#section-6343).
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under [section 108 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-108).

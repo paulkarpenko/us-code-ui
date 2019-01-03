@@ -148,7 +148,7 @@ The prohibition on payment of annuity or retired pay applies—
 
 (2) An offense within the purview of—
 
-  (A) article 104 (aiding the enemy), article 106 (spies), or article 106a (espionage) of the Uniform Code of Military Justice (chapter 47 of title 10) or an earlier article on which article 104 or article 106, as the case may be, is based; or
+  (A) article 104 (aiding the enemy), article 103a (espionage), or article 106 (spies) of the Uniform Code of Military Justice (chapter 47 of title 10) or an earlier article on which article 104 or article 106, as the case may be, is based; or
 
   (B) a current article of the Uniform Code of Military Justice (or an earlier article on which the current article is based) not named by subparagraph (A) of this paragraph (2) on the basis of charges and specifications describing a violation of a statute named by paragraph (1), (3), or (4) of this subsection, if the executed sentence includes death, dishonorable discharge, or dismissal from the service, or if the defendant dies before execution of that sentence as finally approved.
 
@@ -215,6 +215,8 @@ The National Security Act of 1947, referred to in subsec. (c)(1)(C), is act July
 The date of enactment of this subsection, referred to in subsec. (d)(1)(C), is the date of enactment of Pub. L. 103–359, which was approved Oct. 14, 1994.
 
 #### Amendments
+2017—Subsec. (b)(2)(A). Pub. L. 115–91 substituted “article 103a (espionage), or article 106 (spies)” for “article 106 (spies), or article 106a (espionage)”.
+
 1994—Subsec. (b)(2)(A). Pub. L. 103–337 substituted “, article 106 (spies), or article 106a (espionage)” for “or article 106 (spies)”.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
@@ -222,6 +224,9 @@ Subsec. (d). Pub. L. 103–359 added subsec. (d).
 1986—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
 
 1971—Subsec. (c)(1)(C). Pub. L. 92–128 struck out “, 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)” after “classified information)”.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801&num=0&edition=prelim) note) [amendments effective Jan. 1, 2019], see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1994 Amendment
 Section 639(b) of Pub. L. 103–337 provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 5, 1994] and shall apply to persons convicted of espionage under [section 906a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section906a&num=0&edition=prelim), United States Code (article 106a of the Uniform Code of Military Justice), on or after the date of the enactment of this Act.”
@@ -584,7 +589,7 @@ For the purpose of this subchapter—
 
     (i) received by a criminal investigator under [section 5545a of this title](./chapter-055-pay-administration.md#section-5545a); or
 
-    (ii) received after September 11, 2001, by a Federal air marshal of the Department of Transportation, subject to all restrictions and earning limitations imposed on criminal investigators under section 5545a;
+    (ii) received after September 11, 2001, by a Federal air marshal or criminal investigator (as defined in section 5545a(a)(2)) of the Transportation Security Administration, subject to all restrictions and earning limitations imposed on criminal investigators receiving such pay under section 5545a, including the premium pay limitations under section 5547;
 
   (F) pay as provided in section 5545b(b)(2) and (c)(2);
 
@@ -808,6 +813,8 @@ Section 404(d) of the Act of November 6, 1978, referred to in par. (22)(A), is s
 Section 167 of the Federal Courts Improvement Act of 1982, referred to in par. (26), is section 167 of Pub. L. 97–164, which is set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim).
 
 #### Amendments
+2018—Par. (3)(E)(ii). Pub. L. 115–254 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “received after September 11, 2001, by a Federal air marshal of the Department of Transportation, subject to all restrictions and earning limitations imposed on criminal investigators under section 5545a;”.
+
 2016—Par. (1)(K). Pub. L. 114–136 substituted “section 5” for “section 4”.
 
 2014—Par. (3). Pub. L. 113–277, § 2(d)(4), substituted “subparagraphs (B) through (I)” for “subparagraphs (B) through (H)” in concluding provisions.
@@ -963,6 +970,9 @@ Gallaudet College, referred to in par. (1)(H), redesignated Gallaudet University
 
 Commissioned Officer Corps of Environmental Science Services Administration, referred to in par. (13)(C), changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title.
 
+#### Effective Date of 2018 Amendment; Applicability
+Pub. L. 115–254, div. K, title I, § 1908(b), Oct. 5, 2018, 132 Stat. 3549, provided that: “(1) In general.—Subject to paragraph (2), this section [amending this section], and the amendments made by this section, shall take effect on the first day of the first pay period commencing on or after the date of enactment of this section [Oct. 5, 2018]. “(2) Retroactive application.—“(A) In general.—Any availability pay received for any pay period commencing before the date of enactment of this Act by a Federal air marshal or criminal investigator employed by the Transportation Security Administration shall be deemed basic pay under [section 8331(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/3&num=0&edition=prelim), United States Code, if the Transportation Security Administration treated such pay as retirement-creditable basic pay, but the Office of Personnel Management, based on an interpretation of [section 8331(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/3&num=0&edition=prelim), United States Code, did not accept such pay as retirement-creditable basic pay. “(B) Implementation.—Not later than 3 months after the date of enactment of this Act, the Director of the Office of Personnel Management shall commence taking such actions as are necessary to implement the amendments made by this section with respect to availability pay deemed to be basic pay under subparagraph (A).”
+
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–277 effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see section 2(i) of Pub. L. 113–277, set out as a note under [section 5542 of this title](./chapter-055-pay-administration.md#section-5542).
 
@@ -1111,7 +1121,13 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 [Amendment to section 206(c)(3) of Pub. L. 98–168 by section 305(a)(1) of Pub. L. 99–335 directing the substitution of “January 1, 1987” for “January 1, 1986” has been executed by substituting “January 1, 1987” for “April 30, 1986” to reflect the probable intent of Congress.]
 
-[Pub. L. 99–335, title III, § 305(b), June 6, 1986, 100 Stat. 606, provided that: “(1) The amendments made by subsection (a) [amending Pub. L. 98–168 set out above] shall be effective as of May 1, 1986. “(2) Any refund payable to an individual as a result of paragraph (1) shall be paid out of funds of the appropriate retirement system. “(3) For purposes of this subsection, the term ‘retirement system’ means a covered retirement system as defined by section 203(a)(2) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (97 Stat. 1107; [5 U.S.C. 8331](./chapter-083-retirement.md#section-8331) note).” ]
+[Pub. L. 99–335, title III, § 305(b), June 6, 1986, 100 Stat. 606, provided that:
+
+[“(1) The amendments made by subsection (a) [amending Pub. L. 98–168 set out above] shall be effective as of May 1, 1986.
+
+[“(2) Any refund payable to an individual as a result of paragraph (1) shall be paid out of funds of the appropriate retirement system.
+
+[“(3) For purposes of this subsection, the term ‘retirement system’ means a covered retirement system as defined by section 203(a)(2) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (97 Stat. 1107; [5 U.S.C. 8331](./chapter-083-retirement.md#section-8331) note).”]
 
 [Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.]
 
@@ -1885,6 +1901,14 @@ Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwi
 
 (5) Effective with respect to any period of military service after December 31, 1998, the percentage of basic pay under [section 204 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section204&num=0&edition=prelim) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for that same period for service as an employee, subject to paragraph (1)(B).
 
+(6)
+
+  (A) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the employing agency of such employee, Member, or annuitant makes an administrative error, such employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+  (B) For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or Congressional employee.
+
+  (C) The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
+
 **(k)**
 
 (1) Effective with respect to pay periods beginning after December 31, 1986, in administering this section in the case of an individual described in [section 8402(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8402/b/2&num=0&edition=prelim)—
@@ -1940,6 +1964,16 @@ Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwi
 
 (4) Effective with respect to any period of service after December 31, 1998, the percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
 
+(5)
+
+  (A) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if an employing agency of such employee, Member, or annuitant makes an administrative error that causes additional interest assessed to accrue on the deposit, the employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+  (B) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the Office of Personnel Management makes an administrative error that causes additional interest assessed to accrue on the deposit, the Office of Personnel Management may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+  (C) For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or congressional employee.
+
+  (D) The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
+
 **(m)** A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
 
 **(n)** Notwithstanding subsection (c), no deposit may be made with respect to service credited under section 8332(b)(17).
@@ -1985,6 +2019,10 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (l)(1), is Pu
 The Peace Corps Act, referred to in subsec. (l)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (j)(6). Pub. L. 115–352, § 2(a), added par. (6).
+
+Subsec. (l)(5). Pub. L. 115–352, § 3(a), added par. (5).
+
 2009—Subsec. (d)(2)(A)(i). Pub. L. 111–84 substituted “March 1, 1991” for “October 1, 1990” in two places.
 
 2007—Subsec. (a)(1)(A). Pub. L. 110–161, § 535(a)(2)(A), substituted “nuclear materials courier, or customs and border protection officer,” for “or nuclear materials courier,”.
@@ -2200,9 +2238,9 @@ Pub. L. 106–346, § 101(a) [title V, § 505(i)], Oct. 23, 2000, 114 Stat. 1356
 Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
 #### Effective Date of 1997 Amendments
-Section 516(b) of Pub. L. 105–61 provided that: “The amendments made by subsection (a) [amending this section and sections 8337, 8339, 8341, 8343a, 8344, 8415, 8422, and 8468 of this title] shall be applicable to any annuity commencing before, on, or after the date of enactment of this Act [Oct. 10, 1997], and shall be effective with regard to any payment made after the first month following the date of enactment.”
+Pub. L. 105–61, title V, § 516(b), Oct. 10, 1997, 111 Stat. 1307, provided that: “The amendments made by subsection (a) [amending this section and sections 8337, 8339, 8341, 8343a, 8344, 8415, 8422, and 8468 of this title] shall be applicable to any annuity commencing before, on, or after the date of enactment of this Act [Oct. 10, 1997], and shall be effective with regard to any payment made after the first month following the date of enactment.”
 
-Section 7001(f) of Pub. L. 105–33 provided that: “(1) In general.—This section [amending this section, [section 8422 of this title](./chapter-084-federal-employees-retirement-system.md#section-8422), sections 4045, 4071c, and 4071e of Title 22, Foreign Relations and Intercourse, and [section 2082 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2082&num=0&edition=prelim), War and National Defense, and enacting provisions set out as notes under this section, [section 8422 of this title](./chapter-084-federal-employees-retirement-system.md#section-8422), sections 4045 and 4071c of Title 22, and [section 2021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2021&num=0&edition=prelim)] shall take effect on—“(A) October 1, 1997; or “(B) if later, the date of enactment of this Act [Aug. 5, 1997]. “(2) Special rule.—If the date of enactment of this Act is later than October 1, 1997, then any reference to October 1, 1997, in subsection (a)(1), (c)(1), or (d)(1) shall be treated as a reference to the date of enactment of this Act.”
+Pub. L. 105–33, title VII, § 7001(f), Aug. 5, 1997, 111 Stat. 662, provided that: “(1) In general.—This section [amending this section, [section 8422 of this title](./chapter-084-federal-employees-retirement-system.md#section-8422), sections 4045, 4071c, and 4071e of Title 22, Foreign Relations and Intercourse, and [section 2082 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2082&num=0&edition=prelim), War and National Defense, and enacting provisions set out as notes under this section, [section 8422 of this title](./chapter-084-federal-employees-retirement-system.md#section-8422), sections 4045 and 4071c of Title 22, and [section 2021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2021&num=0&edition=prelim)] shall take effect on—“(A) October 1, 1997; or “(B) if later, the date of enactment of this Act [Aug. 5, 1997]. “(2) Special rule.—If the date of enactment of this Act is later than October 1, 1997, then any reference to October 1, 1997, in subsection (a)(1), (c)(1), or (d)(1) shall be treated as a reference to the date of enactment of this Act.”
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under [section 4301 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4301&num=0&edition=prelim), Veterans’ Benefits.
@@ -2218,12 +2256,12 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1990 Amendments
 Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
-Section 7001(b)(3) of Pub. L. 101–508 provided that: “The amendments made by this subsection [amending this section and sections 8339 and 8342 of this title] shall be effective with respect to any annuity having a commencement date later than December 1, 1990.”
+Pub. L. 101–508, title VII, § 7001(b)(3), Nov. 5, 1990, 104 Stat. 1388–329 provided that: “The amendments made by this subsection [amending this section and sections 8339 and 8342 of this title] shall be effective with respect to any annuity having a commencement date later than December 1, 1990.”
 
 #### Effective Date of 1988 Amendments
 Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under [section 377 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section377&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
-Section 108(b)(3) of Pub. L. 100–238 provided that: “The amendments made by this subsection [amending this section and [section 8349 of this title](./chapter-083-retirement.md#section-8349)] shall be effective as of January 1, 1987.”
+Pub. L. 100–238, title I, § 108(b)(3), Jan. 8, 1988, 101 Stat. 1748, provided that: “The amendments made by this subsection [amending this section and [section 8349 of this title](./chapter-083-retirement.md#section-8349)] shall be effective as of January 1, 1987.”
 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–53 effective Oct. 1, 1987, and applicable to bankruptcy judges and United States magistrate judges in office on that date and to individuals subsequently appointed to such positions to whom this chapter otherwise applies, see section 3 of Pub. L. 100–53, as amended, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
@@ -2237,10 +2275,10 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions 
 Amendment by Pub. L. 98–353 effective July 10, 1984, and applicable to bankruptcy judges who retire on or after such date, see section 116(e) of Pub. L. 98–353, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331). See, also, section 122(a) of Pub. L. 98–353, set out as an Effective Date note under [section 151 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section151&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date of 1983 Amendment
-Section 1256(f) of Pub. L. 98–94 provided that: “The increase in deductions from the pay of a judge of the United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] required by [section 8334(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/a&num=0&edition=prelim), United States Code, as amended by subsection (a), shall take effect with respect to the first pay period that begins after the date of the enactment of this Act [Sept. 24, 1983].”
+Pub. L. 98–94, title XII, § 1256(f), Sept. 24, 1983, 97 Stat. 702, provided that: “The increase in deductions from the pay of a judge of the United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] required by [section 8334(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/a&num=0&edition=prelim), United States Code, as amended by subsection (a), shall take effect with respect to the first pay period that begins after the date of the enactment of this Act [Sept. 24, 1983].”
 
 #### Effective Date of 1982 Amendments
-Section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, § 3(j)(1), Oct. 15, 1982, 96 Stat. 1649, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 8339 and 8343 of this title] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and [section 8339(i) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/i&num=0&edition=prelim), United States Code, as in effect the day before the date of the enactment of this Act [Sept. 7, 1982], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding the preceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under [section 8334(j) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/j&num=0&edition=prelim), United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982.”
+Pub. L. 97–253, title III, § 303(d)(1), Sept. 8, 1982, 96 Stat. 794, as amended by Pub. L. 97–346, § 3(j)(1), Oct. 15, 1982, 96 Stat. 1649, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 8339 and 8343 of this title] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and [section 8339(i) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/i&num=0&edition=prelim), United States Code, as in effect the day before the date of the enactment of this Act [Sept. 7, 1982], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding the preceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under [section 8334(j) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/j&num=0&edition=prelim), United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982.”
 
 Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under [section 8334(j)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/j/1&num=0&edition=prelim), and regulations required to be issued under [section 8334(j)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/j/1&num=0&edition=prelim), to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
@@ -2254,7 +2292,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 Amendment by Pub. L. 95–382 effective Oct 1, 1978, and applicable to specified annuities, see section 2 of Pub. L. 95–382, set out as a note under [section 8332 of this title](./chapter-083-retirement.md#section-8332).
 
 #### Effective Date of 1975 Amendment
-Section 3 of Pub. L. 94–126 provided that: “The amendments made by the first section of this Act [amending this section and sections 8339 and 8345 of this title] shall become effective as of January 1, 1969, except that such amendments shall not apply to a person who, on the date of enactment of this Act [Nov. 12, 1975], is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof, unless such person requests, in writing, the office which administers his retirement system to apply such amendments to him. Any additional benefits payable pursuant to such a written request shall commence on the first day of the month [December] following the date of the enactment of this Act.”
+Pub. L. 94–126, § 3, Nov. 12, 1975, 89 Stat. 679, provided that: “The amendments made by the first section of this Act [amending this section and sections 8339 and 8345 of this title] shall become effective as of January 1, 1969, except that such amendments shall not apply to a person who, on the date of enactment of this Act [Nov. 12, 1975], is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof, unless such person requests, in writing, the office which administers his retirement system to apply such amendments to him. Any additional benefits payable pursuant to such a written request shall commence on the first day of the month [December] following the date of the enactment of this Act.”
 
 #### Effective Date of 1974 Amendment
 Amendment by Pub. L. 93–350 effective at beginning of first applicable pay period which begins after Dec. 31, 1974, see section 7 of Pub. L. 93–350, set out as a note under [section 3307 of this title](./chapter-033-examination-selection-and-placement.md#section-3307).
@@ -2263,12 +2301,15 @@ Amendment by Pub. L. 93–350 effective at beginning of first applicable pay per
 Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under [section 3381 of this title](./chapter-033-examination-selection-and-placement.md#section-3381).
 
 #### Effective Date of 1969 Amendment
-Section 102(b) of Pub. L. 91–93 provided that: “The amendment made by subsection (a)(1) of this section [amending this section] shall become effective at the beginning of the first applicable pay period beginning after December 31, 1969.”
+Pub. L. 91–93, title I, § 102(b), Oct. 20, 1969, 83 Stat. 137, provided that: “The amendment made by subsection (a)(1) of this section [amending this section] shall become effective at the beginning of the first applicable pay period beginning after December 31, 1969.”
 
 Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as if such amendment had not been enacted, see section 207(a) of Pub. L. 91–93, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under [section 709 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section709&num=0&edition=prelim), National Guard.
+
+#### Authorization of Payments
+Pub. L. 115–352, § 3(c), Dec. 21, 2018, 132 Stat. 5068, provided that: “All payments from the Office of Personnel Management authorized by subsections (a) and (b) [amending this section and section 8422 of ths title] shall be paid from the Civil Service Retirement and Disability Fund, and together with administrative expenses incurred by the Office in administering these subsections, shall be deemed to have been authorized to be paid from that Fund, which is appropriated for the payment thereof.”
 
 #### Contributions to Federal Civil Service Retirement System
 Pub. L. 106–346, § 101(a) [title V, § 505(f)], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: “Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United States Code, during the period beginning on October 1, 2002, through December 31, 2002, each employing agency (other than the United States Postal Service or the Metropolitan Washington Airports Authority) shall contribute—“(1) 7.5 percent of the basic pay of an employee; “(2) 8 percent of the basic pay of a congressional employee, a law enforcement officer, a member of the Capitol Police, a firefighter, or a nuclear materials courier; and “(3) 8.5 percent of the basic pay of a Member of Congress, a Court of Federal Claims judge, a United States magistrate [now United States magistrate judge], a judge of the United States Court of Appeals for the Armed Forces, or a bankruptcy judge, in lieu of the agency contributions otherwise required under section 8334(a)(1) of such title 5.”

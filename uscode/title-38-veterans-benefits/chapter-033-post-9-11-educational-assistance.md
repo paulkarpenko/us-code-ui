@@ -15,7 +15,7 @@ In this chapter:
 
   (A) In the case of members of the regular components of the Armed Forces, the meaning given such term in section 101(21)(A).
 
-  (B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim).
+  (B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
 
   (C) In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
 
@@ -54,6 +54,9 @@ Par. (2)(A). Pub. L. 111–377, § 101(a)(2), inserted “or One Station Unit Tr
 
 Par. (2)(E). Pub. L. 111–377, § 101(a)(3), inserted “and Skill Training (or so-called ‘A’ School)” before period at end.
 
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Effective Date of 2017 Amendment
 Pub. L. 115–48, title I, § 101(b), Aug. 16, 2017, 131 Stat. 974, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to service in the Armed Forces occurring on or after September 11, 2001.”
 
@@ -64,13 +67,13 @@ Pub. L. 115–48, title IV, § 401(b), Aug. 16, 2017, 131 Stat. 995, provided th
 Pub. L. 115–48, title IV, § 401(c), Aug. 16, 2017, 131 Stat. 995, provided that: “An individual who is entitled to educational assistance by reason of the amendment made by subsection (a) [amending this section] may use such entitlement to pursue a course of education beginning on or after August 1, 2018.”
 
 #### Effective Date of 2013 Amendment
-Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under [section 712 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to [section 5538 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), Government Organization and Employees, and sections 701 and 12731 of Title 10, Armed Forces, see section 681(d) of Pub. L. 112–239, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
+Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under former section 712 (now 3713) of Title 14, Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to [section 5538 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), Government Organization and Employees, and sections 701 and 12731 of Title 10, Armed Forces, see section 681(d) of Pub. L. 112–239, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–377, title I, § 101(d)(1)–(3), Jan. 4, 2011, 124 Stat. 4108, provided that: “(1) Service in national guard as active duty.—The amendment made by subsection (a)(1) [amending this section] shall take effect on August 1, 2009, as if included in the enactment of chapter 33 of title 38, United States Code, pursuant to the Post-9/11 Veterans Educational Assistance Act of 2008 (title V of Public Law 110–252) [see Short Title of 2008 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101)]. However, no benefits otherwise payable by reason of such amendment for the period beginning on August 1, 2009, and ending on September 30, 2011, may be paid before October 1, 2011. “(2) One station unit training.—The amendment made by subsection (a)(2) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 4, 2011]. “(3) Entry level and skill training for the coast guard.—The amendment made by subsection (a)(3) [amending this section] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering service on or after that date.”
 
 #### Effective Date
-Chapter effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 #### Construction of Active Duty
 Pub. L. 115–48, title I, § 106(b), Aug. 16, 2017, 131 Stat. 977, provided that: “[Section 3301(1) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3301/1&num=0&edition=prelim), United States Code, shall be construed to include, in the case of a member of a reserve component of the Armed Forces who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(a)(1) of such title, but lost eligibility for such educational assistance pursuant to section 16167(b) of such title, service on active duty (as defined in section 101 of such title) that satisfies the requirements of section 16163(a)(1) of such title.”
@@ -236,6 +239,8 @@ Barack Obama.
 
 (9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
+(10) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
+
 **(c) Covered Discharges and Releases.—** A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
 
 (1) A discharge from active duty in the Armed Forces with an honorable discharge.
@@ -256,7 +261,7 @@ Barack Obama.
 
 (1) A period of service on active duty of an officer pursuant to an agreement under [section 2107(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2107/b&num=0&edition=prelim).
 
-(2) A period of service on active duty of an officer pursuant to an agreement under section 4348, 6959, or 9348 of title 10 or [section 182 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section182&num=0&edition=prelim).
+(2) A period of service on active duty of an officer pursuant to an agreement under section 7448, 8459, or 9448 of title 10 or section 182 11 See References in Text note below. of title 14.
 
 (3) A period of service that is terminated because of a defective enlistment and induction based on—
 
@@ -295,10 +300,6 @@ Barack Obama.
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 115–48, title I, § 102(a), (c), Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2018, subsection (b) of this section is amended by adding at the end the following new paragraph:
-
-“(10) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).”
-
 Pub. L. 115–48, title I, §105(a), (c)(1), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—
 
 (1) in subsection (b)—
@@ -314,9 +315,13 @@ Pub. L. 115–48, title I, §105(a), (c)(1), (d), Aug. 16, 2017, 131 Stat. 975, 
 See 2017 Amendment notes below.
 
 #### References in Text
+[Section 182 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section182&num=0&edition=prelim), referred to in subsec. (d)(2), was repealed by Pub. L. 115–282, title I, § 110(c)(2), Dec. 4, 2018, 132 Stat. 4215.
+
 The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+2018—Subsec. (d)(2). Pub. L. 115–232 substituted “section 7448, 8459, or 9448 of title 10” for “section 4348, 6959, or 9348 of title 10”.
+
 2017—Subsec. (b)(6)(A). Pub. L. 115–48, § 105(a)(1), substituted “6 months” for “12 months”.
 
 Subsec. (b)(7) to (9). Pub. L. 115–48, § 105(a)(2), (3), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: “An individual who—
@@ -358,6 +363,9 @@ Pub. L. 115–48, title I, § 102(c), Aug. 16, 2017, 131 Stat. 975, provided tha
 
 Pub. L. 115–48, title I, § 105(d), Aug. 16, 2017, 131 Stat. 977, provided that: “The amendments made by this section [amending this section and sections 3313, 3316, 3317, 3321, 3322, and 3679 of this title] shall take effect on August 1, 2020.”
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 2014 Amendment
 Pub. L. 113–146, title VII, § 701(d), Aug. 7, 2014, 128 Stat. 1796, as amended by Pub. L. 114–315, title IV, § 401(a), Dec. 16, 2016, 130 Stat. 1553, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 3321 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3321)] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015. “(2) Deaths that occurred between september 11, 2001, and december 31, 2005.—For purposes of [section 3311(f)(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/f/2&num=0&edition=prelim), United States Code, any member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005, is deemed to have died on January 1, 2006.”
 
@@ -366,6 +374,9 @@ Pub. L. 111–377, title I, § 101(d)(4), (5), Jan. 4, 2011, 124 Stat. 4108, pro
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided that: “(1) Effective date.—The amendments made by this section [amending this section and sections 3313 and 3321 of this title] shall take effect on August 1, 2009. “(2) Applicability.—The Secretary of Veterans Affairs shall begin making payments to individuals entitled to educational assistance by reason of paragraph (9) of [section 3311(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b&num=0&edition=prelim), United States Code, as added by subsection (a), by not later than August 1, 2010. In the case of an individual entitled to educational assistance by reason of such paragraph for the period beginning on August 1, 2009, and ending on July 31, 2010, the Secretary shall make retroactive payments to such individual for such period by not later than August 1, 2010.”
+
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 #### Construction of Covered Individuals
 Pub. L. 115–48, title I, § 106(c), Aug. 16, 2017, 131 Stat. 977, provided that: “[Section 3311(b)(6) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b/6&num=0&edition=prelim), United States Code, shall be construed to include an individual who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(b) of such title, but lost such eligibility pursuant to section 16167(b) of such title.”
@@ -397,6 +408,11 @@ Pub. L. 115–48, title I, § 106(c), Aug. 16, 2017, 131 Stat. 977, provided tha
 
 (3) **Period for which payment not charged.—** — The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of this title](./chapter-036-administration-of-educational-benefits.md#section-3695) shall not exceed the portion of the period of enrollment in the course or courses from which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(B).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-3313"></a>
 ## § 3313. Educational assistance: amount; payment
@@ -406,7 +422,7 @@ Pub. L. 115–48, title I, § 106(c), Aug. 16, 2017, 131 Stat. 977, provided tha
 
 **(c) Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—** The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
-(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), or (9) of section 3311(b), amounts as follows:
+(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (9), or (10) of section 3311(b), amounts as follows:
 
   (A) An amount equal to the following:
 
@@ -434,7 +450,7 @@ Pub. L. 115–48, title I, § 106(c), Aug. 16, 2017, 131 Stat. 977, provided tha
 
     (i) Except as provided in clauses (ii) and (iii), for each month an individual pursues a program of education on more than a half-time basis, a monthly housing stipend equal to the product of—
 
-      (I) the monthly amount of the basic allowance for housing payable under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled, multiplied by
+      (I) the monthly amount of the basic allowance for housing payable under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution of higher learning where the individual physically participates in a majority of classes, multiplied by
 
       (II) the lesser of—
 
@@ -576,7 +592,7 @@ Pub. L. 115–48, title I, § 106(c), Aug. 16, 2017, 131 Stat. 977, provided tha
 
       (I) of—
 
-        (aa) in the case of an individual pursuing resident training, the monthly amount of the basic allowance for housing payable under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution at which the individual is enrolled; or
+        (aa) in the case of an individual pursuing resident training, the monthly amount of the basic allowance for housing payable under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution of where the individual physically participates in a majority of classes; or
 
         (bb) in the case of an individual pursuing a program of education through distance learning, a monthly amount equal to 50 percent of the amount payable under item (aa), multiplied by
 
@@ -682,11 +698,17 @@ Pub. L. 115–48, title I, § 106(c), Aug. 16, 2017, 131 Stat. 977, provided tha
 
 **(i) Determination of Housing Stipend Payments for Academic Years.—** Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) in effect as of January 1 of such calendar year.
 
+**(j) Determination of Monthly Housing Stipends During Active Duty Service.—** For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of such stipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.
+
+**(k) Provision of Housing Stipend Payment Information.—**
+
+(1) **In general.—** — The Secretary shall furnish to individuals receiving educational assistance under this chapter documentation that verifies the amount of the monthly housing stipend the individual receives under this section.
+
+(2) **Manner.—** — The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.
+
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 115–48, title I, § 102(b), (c), Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2018, subsection (c)(1) of this section is amended by striking “or (9)” and inserting “(9), or (10)”.
-
 Pub. L. 115–48, title I, § 105(b), (c)(2), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—
 
 (1) in subsection (c)—
@@ -725,26 +747,14 @@ Pub. L. 115–48, title I, § 105(b), (c)(2), (d), Aug. 16, 2017, 131 Stat. 975,
 
 (6) in subsection (h), by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”.
 
-Pub. L. 115–48, title I, § 107, Aug. 16, 2017, 131 Stat. 977, provided that, applicable with respect to initial enrollment in a program of education on or after Aug. 1, 2018, subsection (c)(1)(B)(i)(I) of this section is amended by striking “the institution of higher learning at which the individual is enrolled” and inserting “the campus of the institution of higher learning where the individual physically participates in a majority of classes”.
-
-Pub. L. 115–48, title I, § 113, Aug. 16, 2017, 131 Stat. 985, provided that, applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2018, this section is amended by adding at the end the following new subsection:
-
-(j) Determination of Monthly Stipends During Certain Active Duty Service.—
-
-(1) Pro rata basis.—In any month in which an individual described in paragraph (2) is performing active duty service described in [section 3301(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3301/1/B&num=0&edition=prelim), the Secretary shall determine the amount of monthly stipends payable under this section for such month on a pro rata basis for the period of such month in which the covered individual is not performing such active duty service.
-
-(2) Individual described.—An individual described in this paragraph is an individual who is—
-
-(A) a member of the reserve components of the Armed Forces; and
-
-(B) pursuing a program of education using educational assistance under this chapter.
-
 See 2017 Amendment notes below.
 
 #### References in Text
 Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(1)(A)(i)(II), (ii)(I)(bb), (e)(2)(A)(i)(II), (ii)(I)(bb), (f)(2)(A)(i)(II), and (g)(3)(A)(i)(I)(bb), (C)(i)(I)(bb), (D)(i)(I)(bb), is classified to [section 1070a(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim), Education.
 
 #### Amendments
+2018—Subsec. (k). Pub. L. 115–407 added subsec. (k).
+
 2017—Subsec. (c)(1). Pub. L. 115–48, § 105(c)(2)(A), substituted “(8), or (9)” for “(9), or (10)”.
 
 Pub. L. 115–48, § 102(b), substituted “(9), or (10)” for “or (9)”.
@@ -759,6 +769,8 @@ Subsec. (e)(2)(C). Pub. L. 115–48, § 105(c)(2)(C), substituted “paragraphs 
 
 Subsec. (f)(2)(A)(ii). Pub. L. 115–48, § 105(c)(2)(D), substituted “paragraphs (2) through (6)” for “paragraphs (2) through (7)”.
 
+Subsec. (g)(3)(A)(ii)(I)(aa). Pub. L. 115–62, § 501(b)(1), substituted “the campus of the institution of where the individual physically participates in a majority of classes” for “the institution at which the individual is enrolled”.
+
 Subsec. (g)(3)(A)(iv), (B)(iii). Pub. L. 115–48, § 105(c)(2)(E)(i), (ii), substituted “paragraphs (3) through (7)” for “paragraphs (3) through (8)” and “paragraphs (2) through (6)” for “paragraphs (2) through (7)”.
 
 Subsec. (g)(3)(C)(ii). Pub. L. 115–48, § 105(c)(2)(E)(iii), in subcl. (I), substituted “(8)” for “(9)” and in subcl. (II), substituted “paragraphs (3) through (7)” for “paragraphs (3) through (8)” and “paragraphs (2) through (6)” for “paragraphs (2) through (7)”.
@@ -767,7 +779,9 @@ Subsec. (g)(3)(D)(ii). Pub. L. 115–48, § 105(c)(2)(E)(iv), in subcl. (I), sub
 
 Subsec. (h). Pub. L. 115–48, § 105(c)(2)(F), substituted “paragraphs (2) through (6)” for “paragraphs (2) through (7)”.
 
-Subsec. (j). Pub. L. 115–48, § 113(a), added subsec. (j).
+Subsec. (j). Pub. L. 115–62, § 501(c)(1), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to determination of monthly stipends during certain active duty service.
+
+Pub. L. 115–48, § 113(a), added subsec. (j).
 
 2015—Pub. L. 114–58, § 601(16), substituted “1070a(b)” for “1070a” wherever appearing.
 
@@ -830,11 +844,15 @@ Subsec. (e)(2)(B). Pub. L. 111–275, § 1001(g)(3), inserted period at end.
 2009—Subsec. (c)(1). Pub. L. 111–32 substituted “paragraph (1), (2), or (9) of section 3311(b)” for “section 3311(b)(1) or 3311(b)(2)”.
 
 #### Effective Date of 2017 Amendment
+Pub. L. 115–62, title V, § 501(b)(2), Sept. 29, 2017, 131 Stat. 1165, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after August 1, 2018.”
+
+Pub. L. 115–62, title V, § 501(c)(2), Sept. 29, 2017, 131 Stat. 1166, provided that: “Such subsection [meaning subsec. (j) of this section], as amended by paragraph (1), shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2018.”
+
 Amendment by section 102(b) of Pub. L. 115–48 effective Aug. 1, 2018, see section 102(c) of Pub. L. 115–48, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
 
 Amendment by section 105(b), (c)(2) of Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
 
-Pub. L. 115–48, title I, § 107(b), Aug. 16, 2017, 131 Stat. 977, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to initial enrollment in a program of education on or after August 1, 2018.”
+Pub. L. 115–48, title I, § 107(b), Aug. 16, 2017, 131 Stat. 977, as amended by Pub. L. 115–62, title V, § 501(b)(3), Sept. 29, 2017, 131 Stat. 1166, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after August 1, 2018.”
 
 Pub. L. 115–48, title I, § 113(b), Aug. 16, 2017, 131 Stat. 985, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2018.”
 
@@ -851,6 +869,9 @@ Pub. L. 111–377, title I, § 106(b), Jan. 4, 2011, 124 Stat. 4118, provided th
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
+
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 #### Duration of Assistance
 Pub. L. 115–48, title I, § 106(d), Aug. 16, 2017, 131 Stat. 977, provided that: “Notwithstanding [section 3312 of title 38](./chapter-033-post-9-11-educational-assistance.md#section-3312), United States Code, an individual who establishes eligibility for educational assistance under chapter 33 of such title by crediting towards such chapter service previously credited towards chapter 1607 of title 10, United States Code, is only entitled to a number of months of educational assistance under [section 3313 of title 38](./chapter-033-post-9-11-educational-assistance.md#section-3313), United States Code, equal to the number of months of entitlement remaining under chapter 1607 of title 10, United States Code, at the time of conversion to chapter 33 of title 38, United States Code.”
@@ -881,6 +902,11 @@ Pub. L. 112–26, § 2, Aug. 3, 2011, 125 Stat. 268, provided that: “(a) In Ge
 
 **(d) No Charge Against Entitlement.—** Any benefits provided an individual under subsection (a) are in addition to any other educational assistance benefits provided the individual under this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-3315"></a>
 ## § 3315. Licensure and certification tests
@@ -894,22 +920,13 @@ Pub. L. 112–26, § 2, Aug. 3, 2011, 125 Stat. 268, provided that: “(a) In Ge
 
 (3) the amount of entitlement available to the individual under this chapter at the time of payment for the test under this section.
 
-**(c) Charge Against Entitlement.—** The charge against an individual’s entitlement under this chapter for payment for a licensing or certification test shall be determined at the rate of one month (rounded to the nearest whole month) for each amount paid that equals—
+**(c) Charge Against Entitlement.—** The charge against an individual’s entitlement under this chapter for payment for a licensing or certification test shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month payable—
 
 (1) for the academic year beginning on August 1, 2011, $1,460; or
 
 (2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 115–48, title I, § 108(a), (d), Aug. 16, 2017, 131 Stat. 978, provided that, applicable to a test taken on or after Aug. 1, 2018, subsection (c) of this section is amended—
-
-(1) by striking “shall be determined at the rate of one month (rounded to the nearest whole month)” and inserting “shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month”; and
-
-(2) by striking “for each amount paid that equals” and inserting “payable”.
-
-See 2017 Amendment note below.
 
 #### Amendments
 2017—Subsec. (c). Pub. L. 115–48, in introductory provisions, substituted “shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month payable” for “shall be determined at the rate of one month (rounded to the nearest whole month) for each amount paid that equals”.
@@ -926,6 +943,9 @@ Pub. L. 115–48, title I, § 108(d), Aug. 16, 2017, 131 Stat. 978, provided tha
 #### Effective Date of 2011 Amendment
 Pub. L. 111–377, title I, § 107(c), Jan. 4, 2011, 124 Stat. 4118, provided that: “The amendments made by this section [amending this section] shall take effect on August 1, 2011, and shall apply with respect to licensure and certification tests taken on or after that date.”
 
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-3315a"></a>
 ## § 3315A. National tests
@@ -935,34 +955,21 @@ Pub. L. 111–377, title I, § 107(c), Jan. 4, 2011, 124 Stat. 4118, provided th
 
 (2) A national test providing an opportunity for course credit at an institution of higher learning as so described.
 
+(3) A national test that evaluates prior learning and knowledge and provides an opportunity for course credit at an institution of higher learning as so described.
+
 **(b) Amount.—** The amount of educational assistance payable under this chapter for a test described in subsection (a) is the lesser of—
 
 (1) the fee charged for the test; or
 
 (2) the amount of entitlement available to the individual under this chapter at the time of payment for the test under this section.
 
-**(c) Charge Against Entitlement.—** The number of months of entitlement charged an individual under this chapter for a test described in subsection (a) shall be determined at the rate of one month (rounded to the nearest whole month) for each amount paid that equals—
+**(c) Charge Against Entitlement.—** The number of months of entitlement charged an individual under this chapter for a test described in subsection (a) shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month payable—
 
 (1) for the academic year beginning on August 1, 2011, $1,460; or
 
 (2) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–48, title I, § 108(b), (d), Aug. 16, 2017, 131 Stat. 978, provided that, applicable to a test taken on or after Aug. 1, 2018, this section is amended as follows—
-
-(1) in subsection (a), by adding at the end the following new paragraph:
-
-“(3) A national test that evaluates prior learning and knowledge and provides an opportunity for course credit at an institution of higher learning as so described.”; and
-
-(2) in subsection (c)—
-
-(A) by striking “shall be determined at the rate of one month (rounded to the nearest whole month)” and inserting “shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month”; and
-
-(B) by striking “for each amount paid that equals” and inserting “payable”.
-
-See 2017 Amendment notes below.
 
 #### Amendments
 2017—Subsec. (a)(3). Pub. L. 115–48, § 108(b)(1), added par. (3).
@@ -1039,10 +1046,13 @@ Amendment by Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub.
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 109(c) of Pub. L. 111–377, set out as a note under [section 2006 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2006&num=0&edition=prelim), Armed Forces.
 
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-3317"></a>
 ## § 3317. Public-private contributions for additional educational assistance
-**(a) Establishment of Program.—** In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1) and (2) of section 3311(b).
+**(a) Establishment of Program.—** In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (9), and (10) of section 3311(b).
 
 **(b) Designation of Program.—** The program under this section shall be known as the “Yellow Ribbon G.I. Education Enhancement Program”.
 
@@ -1067,8 +1077,6 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 109(c) of Pub
 ### Statutory Notes
 
 #### Amendment of Subsection (a)
-Pub. L. 115–48, title I, § 103, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2018, subsection (a) of this section is amended, in the second sentence, by striking “paragraphs (1) and (2)” and inserting “paragraphs (1), (2), (9), and (10)”.
-
 Pub. L. 115–48, title I, § 104, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2022, subsection (a) of this section is amended, in the first sentence, by striking “section 3313(c)(1)(A)” and inserting “subsection (c)(1)(A) or (e)(2)(A) of [section 3313 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3313)”.
 
 Pub. L. 115–48, title I, § 105(c)(4), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (a) of this section is amended, in the second sentence, by striking “paragraphs (1), (2), (9), and (10)” and inserting “paragraphs (1), (2), (8), and (9)”.
@@ -1088,6 +1096,9 @@ Pub. L. 115–48, title I, § 103(b), Aug. 16, 2017, 131 Stat. 975, provided tha
 Pub. L. 115–48, title I, § 104(b), Aug. 16, 2017, 131 Stat. 975, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2022.”
 
 Amendment by section 105(c)(4) of Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
+
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 #### Pat Tillman Veterans’ Scholarship Initiative
 Pub. L. 111–275, title I, § 107, Oct. 13, 2010, 124 Stat. 2872, provided that: “(a) Availability of Scholarship Information.—By not later than June 1, 2011, the Secretary of Veterans Affairs shall include on the Internet website of the Department of Veterans Affairs a list of organizations that provide scholarships to veterans and their survivors and, for each such organization, a link to the Internet website of the organization. “(b) Maintenance of Scholarship Information.—The Secretary of Veterans Affairs shall make reasonable efforts to notify schools and other appropriate entities of the opportunity to be included on the Internet website of the Department of Veterans Affairs pursuant to subsection (a).”
@@ -1123,6 +1134,9 @@ Pub. L. 111–275, title I, § 107, Oct. 13, 2010, 124 Stat. 2872, provided that
 
 #### Amendments
 2010—Subsec. (b)(2)(B). Pub. L. 111–275 substituted “higher learning” for “higher education”.
+
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-3319"></a>
@@ -1308,6 +1322,9 @@ Pub. L. 111–377, title I, § 110(c), Jan. 4, 2011, 124 Stat. 4120, provided th
 
 Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and applicable with respect to preventions and suspension of pursuit of programs of education that commence on or after that date, see section 201(d) of Pub. L. 111–377, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).
 
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-3320"></a>
 ## § 3320. Edith Nourse Rogers STEM Scholarship
@@ -1389,7 +1406,7 @@ Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided tha
 ## § 3321. Time limitation for use of and eligibility for entitlement
 **(a) In General.—** Except as provided in this section, the period during which an individual entitled to educational assistance under this chapter may use such individual’s entitlement—
 
-(1) in the case of an individual whose last discharge or release from active duty is before January, 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
+(1) in the case of an individual whose last discharge or release from active duty is before January,11 So in original. The comma probably should not appear. 1, 2013, expires at the end of the 15-year period beginning on the date of such discharge or release; or
 
 (2) in the case of an individual whose last discharge or release from active duty is on or after January 1, 2013, shall not expire.
 
@@ -1441,6 +1458,9 @@ Amendment by Pub. L. 113–146 applicable with respect to a quarter, semester, o
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
+
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-3322"></a>
@@ -1500,6 +1520,9 @@ Pub. L. 111–377, title I, § 111(e), Jan. 4, 2011, 124 Stat. 4121, provided th
 
 Pub. L. 111–377, title II, § 202(c), Jan. 4, 2011, 124 Stat. 4124, provided that: “The amendments made by this section [amending this section and [section 3681 of this title](./chapter-036-administration-of-educational-benefits.md#section-3681)] shall take effect on August 1, 2011.”
 
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-3323"></a>
 ## § 3323. Administration
@@ -1536,12 +1559,20 @@ Pub. L. 111–377, title II, § 202(c), Jan. 4, 2011, 124 Stat. 4124, provided t
 #### Amendments
 2011—Subsec. (a). Pub. L. 111–377 substituted “sections 3034(a)(1) and 3680(c)” for “section 3034(a)(1)”.
 
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-3324"></a>
 ## § 3324. Allocation of administration and costs
 **(a) Administration.—** Except as otherwise provided in this chapter, the Secretary shall administer the provision of educational assistance under this chapter.
 
 **(b) Costs.—** Payments for entitlement to educational assistance earned under this chapter shall be made from funds appropriated to, or otherwise made available to, the Department for the payment of readjustment benefits.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-3325"></a>
@@ -1568,20 +1599,15 @@ Pub. L. 111–377, title II, § 202(c), Jan. 4, 2011, 124 Stat. 4124, provided t
 
 (1) information concerning the level of utilization of educational assistance and of expenditures under this chapter and under chapter 35 of this title;
 
-(2) appropriate student outcome measures, such as the number of credit hours, certificates, degrees, and other qualifications earned by beneficiaries under this chapter and chapter 35 of this title during the academic year covered by the report; and
+(2) appropriate student outcome measures, such as the number of credit hours, certificates, degrees, and other qualifications earned by beneficiaries under this chapter and chapter 35 of this title during the academic year covered by the report;
 
-(3) such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary considers appropriate.
+(3) the information received by the Secretary under [section 3326 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3326); and
+
+(4) such recommendations for administrative and legislative changes regarding the provision of educational assistance to members of the Armed Forces and veterans, and their dependents, as the Secretary considers appropriate.
 
 **(d) Termination.—** No report shall be required under this section after January 1, 2021.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 114–315, title IV, § 404(a)(1), (c), Dec. 16, 2016, 130 Stat. 1554, provided that, effective 1 year after Dec. 16, 2016, subsection (c) of this section is amended by striking “and” at the end of paragraph (2), redesignating paragraph (3) as (4), and adding after paragraph (2) the following new paragraph (3):
-
-“(3) the information received by the Secretary under [section 3326 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3326); and”.
-
-See 2016 Amendment note below.
 
 #### Amendments
 2016—Subsec. (c)(3), (4). Pub. L. 114–315 added par. (3) and redesignated former par. (3) as (4).

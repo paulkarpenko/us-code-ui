@@ -26,7 +26,7 @@ source: >-
 
 (3) **1974 UMWA Pension Plan** — The term “1974 UMWA Pension Plan” means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired in 1976 and thereafter.
 
-(4) **1992 UMWA Benefit Plan** — The term “1992 UMWA Benefit Plan” means the plan referred to in section 9713A.11 See References in Text note below.
+(4) **1992 UMWA Benefit Plan** — The term “1992 UMWA Benefit Plan” means the plan referred to in section 9712.
 
 (5) **Combined Fund** — The term “Combined Fund” means the United Mine Workers of America Combined Benefit Fund established under section 9702.
 
@@ -96,11 +96,11 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Section 9713A, referred to in subsec. (a)(4), probably should be a reference to section 9712 which provided for the establishment of the United Mine Workers of America 1992 Benefit Plan, referred to in that section as the “1992 UMWA Benefit Plan”. No [section 9713A of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9713A&num=0&edition=prelim) has been enacted.
-
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of the enactment of Pub. L. 102–486, which was approved Oct. 24, 1992.
 
 #### Amendments
+2018—Subsec. (a)(4). Pub. L. 115–141 substituted “section 9712” for “section 9713A”.
+
 2006—Subsec. (c)(8). Pub. L. 109–432 added par. (8).
 
 #### Effective Date of 2006 Amendment
@@ -251,7 +251,7 @@ Any related person with respect to an assigned operator shall be jointly and sev
 
   (A) *In general* — For plan years beginning on or after October 1, 2006, subject to subparagraph (B), there shall be no unassigned beneficiaries premium, and benefit costs with respect to eligible beneficiaries who are not assigned under section 9706 to any person for any such plan year shall be paid from amounts transferred under section 9705(b).
 
-  (B) *Inadequate transfers* — If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim))),11 So in original. Second closing parenthesis probably should not appear. then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator’s applicable percentage of the amount required to be so transferred which was not so transferred.
+  (B) *Inadequate transfers* — If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim)), then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator’s applicable percentage of the amount required to be so transferred which was not so transferred.
 
 **(e) Premium accounts; adjustments**
 
@@ -293,7 +293,7 @@ Any related person with respect to an assigned operator shall be jointly and sev
 
 (2) **Deductibility** — Any premium required by this section shall be deductible without regard to any limitation on deductibility based on the prefunding of health benefits.
 
-**(h) Information** The trustees of the Combined Fund shall, not later than 60 days after the enactment date, furnish to the Commissioner of Social Security information as to the benefits and covered beneficiaries under the fund, and such other information as the Secretary 22 So in original. Probably should be “Commissioner”. may require to compute any premium under this section.
+**(h) Information** The trustees of the Combined Fund shall, not later than 60 days after the enactment date, furnish to the Commissioner of Social Security information as to the benefits and covered beneficiaries under the fund, and such other information as the Secretary 11 So in original. Probably should be “Commissioner”. may require to compute any premium under this section.
 
 **(i) Transition rules**
 
@@ -385,6 +385,8 @@ Any related person with respect to an assigned operator shall be jointly and sev
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (d)(2)(B). Pub. L. 115–141 substituted “1232),” for “1232)),”.
+
 2006—Subsec. (d). Pub. L. 109–432, § 212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.”
 
 Subsec. (e)(1). Pub. L. 109–432, § 212(a)(2)(B)(i), inserted “and amounts transferred under section 9705(b)” after “premiums received”.
@@ -439,13 +441,17 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 **(b) Transfers**
 
-(1) **In general** — The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h&num=0&edition=prelim)).11 So in original. Probably should be “([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim)).”
+(1) **In general** — The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim)).
 
-(2) **Use of funds** — Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Acts 22 So in original. Probably should be “Act”. described in paragraph (1).
+(2) **Use of funds** — Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Act described in paragraph (1).
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–141, § 401(a)(345), substituted “1232” for “1232(h)”.
+
+Subsec. (b)(2). Pub. L. 115–141, § 401(a)(346), substituted “Act” for “Acts”.
+
 2006—Subsec. (b). Pub. L. 109–432, § 212(a)(1)(C), struck out “from abandoned mine reclamation fund” after “Transfers” in heading.
 
 Subsec. (b)(1). Pub. L. 109–432, § 212(a)(1)(A), substituted “subsections (h) and (i) of section 402” for “section 402(h)”.
@@ -660,7 +666,7 @@ All liability for contributions to the Combined Fund that arises on and after Fe
 
   (A) the termination of the obligations of the last signatory operator under this section, or
 
-  (B) the end of the 5-year period described in paragraph (4)(C).11 So in original. Probably should be “paragraph (3)(C).”
+  (B) the end of the 5-year period described in paragraph (3)(C).
 
 **(d) Managed care and cost containment** The last signatory operator shall not be treated as failing to meet the requirements of subsection (a) or (b) if benefits are provided to eligible beneficiaries under managed care and cost containment rules and procedures described in section 9712(c) or agreed to by the last signatory operator and the United Mine Workers of America.
 
@@ -677,6 +683,8 @@ All liability for contributions to the Combined Fund that arises on and after Fe
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(4)(B). Pub. L. 115–141 substituted “paragraph (3)(C)” for “paragraph (4)(C)”.
+
 2006—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Each related person of a last signatory operator to which subsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b).”
 
 
@@ -702,7 +710,7 @@ All liability for contributions to the Combined Fund that arises on and after Fe
 
 (4) **Special rule for 1993 plan**
 
-  (A) *In general* — The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h/2/C&num=0&edition=prelim)) shall include any amount transferred to the plan under subsections (h) and (i) of 11 So in original. Probably should be followed by “section 402 of”. the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim)).
+  (A) *In general* — The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h/2/C&num=0&edition=prelim)) shall include any amount transferred to the plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232&num=0&edition=prelim)).
 
   (B) *Use of funds* — Any amount transferred under subparagraph (A) for any fiscal year shall be used to provide the health benefits described in section 402(h)(2)(C)(i) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(2)(C)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h/2/C/i&num=0&edition=prelim)) to individuals described in section 402(h)(2)(C) of such Act ([30 U.S.C. 1232(h)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/h/2/C&num=0&edition=prelim)).
 
@@ -778,6 +786,8 @@ All liability for contributions to the Combined Fund that arises on and after Fe
 The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(4)(A). Pub. L. 115–141 inserted “section 402 of” after “subsections (h) and (i) of”.
+
 2006—Subsec. (a)(3), (4). Pub. L. 109–432, § 212(b)(1), added pars. (3) and (4).
 
 Subsec. (d)(1). Pub. L. 109–432, § 212(b)(2)(A), amended text of par. (1) generally. Prior to amendment, par. (1) provided that the contribution requirements of all 1988 last signatory operators include the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries, payment of a monthly per beneficiary premium, and provision of security.

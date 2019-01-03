@@ -165,7 +165,7 @@ Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: “That the Congress re
 
 **(f) Funding**
 
-(1) **Authorization of appropriations** — There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2018.
+(1) **Authorization of appropriations** — There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2023.
 
 (2) **Additional funding sources** — In addition to the funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1) to carry out this section, the Secretary may use any other funds made available for planning under this chapter to carry out this section, except that the total amount of combined funding used to carry out this section may not exceed $10,000,000 in any fiscal year.
 
@@ -182,6 +182,8 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (c)(5), (6). Pub. L. 113–79, § 8101(1), added par. (5) and redesignated former par. (5) as (6).
 
 Subsec. (f)(1). Pub. L. 113–79, § 8101(2), substituted “2018” for “2012”.
@@ -1001,7 +1003,7 @@ Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire
 
   (B) prescribing such rules as the Secretary determines necessary to ensure a fair and reasonable application of the limitations established under this subsection; and
 
-  (C) ensuring that no person receives duplicative payments or assistance under this section, the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2101](./chapter-041-cooperative-forestry-assistance.md#section-2101) et seq.), and the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3839aa](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839aa) et seq.], or other Federal program.
+  (C) ensuring that no person receives duplicative payments or assistance under this section, the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2101](./chapter-041-cooperative-forestry-assistance.md#section-2101) et seq.), and the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3839aa](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839aa) et seq.], or other Federal program.
 
 **(d) Definitions** As used in this section—
 
@@ -1038,7 +1040,7 @@ Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire
 
 The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c)(3)(C), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, as amended, which is classified principally to this chapter (§ 2101 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§ 3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1046,6 +1048,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Federal Stewardship Act of 1990 and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (c)(3)(C). Pub. L. 115–334 inserted “subchapter A of” before “chapter 4”.
+
 2014—Subsec. (c)(3)(A). Pub. L. 113–79, § 1609(b)(1), amended language inserted by Pub. L. 110–246, § 1603(g)(5). See 2008 Amendment note below.
 
 2008—Subsec. (c)(3)(A). Pub. L. 110–246, § 1603(g)(5), as amended by Pub. L. 113–79, § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308&num=0&edition=prelim)”.
@@ -1273,45 +1277,123 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-2109a"></a>
-## § 2109a. Competitive allocation of funds to State foresters or equivalent State officials
-**(a) Competition** Beginning not later than 3 years after the date of the enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall competitively allocate a portion, to be determined by the Secretary, of the funds available under this chapter to State foresters or equivalent State officials.
+## § 2109a. State and private forest landscape-scale restoration program
+**(a) Purpose** The purpose of this section is to encourage collaborative, science-based restoration of priority forest landscapes.
 
-**(b) Determination** In determining the competitive allocation of funds under subsection (a), the Secretary shall consult with the Forest Resource Coordinating Committee established by [section 2113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2113/a&num=0&edition=prelim).
+**(b) Definitions** In this section:
 
-**(c) Priority** The Secretary shall give priority for funding to States for which the long-term State-wide forest resource strategies submitted under [section 2101a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101a/a/2&num=0&edition=prelim) will best promote the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim).
+(1) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(2) **Nonindustrial private forest land** — The term “nonindustrial private forest land” means land that—
+
+  (A) is rural, as determined by the Secretary;
+
+  (B) has existing tree cover or is suitable for growing trees; and
+
+  (C) is owned by any private individual, group, association, corporation, Indian tribe, or other private legal entity.
+
+(3) **State forest land** — The term “State forest land” means land that—
+
+  (A) is rural, as determined by the Secretary; and
+
+  (B) is under State or local governmental ownership and considered to be non-Federal forest land.
+
+**(c) Establishment** The Secretary, in consultation with State foresters or appropriate State agencies, shall establish a competitive grant program to provide financial and technical assistance to encourage collaborative, science-based restoration of priority forest landscapes.
+
+**(d) Eligibility** To be eligible to receive a grant under this section, an applicant shall submit to the Secretary, through the State forester or appropriate State agency, a State and private forest landscape-scale restoration proposal based on a restoration strategy that—
+
+(1) is complete or substantially complete;
+
+(2) is for a multiyear period;
+
+(3) covers nonindustrial private forest land or State forest land;
+
+(4) is accessible by wood-processing infrastructure; and
+
+(5) is based on the best available science.
+
+**(e) Plan criteria** A State and private forest landscape-scale restoration proposal submitted under this section shall include plans—
+
+(1) to reduce the risk of uncharacteristic wildfires;
+
+(2) to improve fish and wildlife habitats, including the habitats of threatened and endangered species;
+
+(3) to maintain or improve water quality and watershed function;
+
+(4) to mitigate invasive species, insect infestation, and disease;
+
+(5) to improve important forest ecosystems;
+
+(6) to measure ecological and economic benefits, including air quality and soil quality and productivity; and
+
+(7) to take other relevant actions, as determined by the Secretary.
+
+**(f) Priorities** In making grants under this section, the Secretary shall give priority to plans that—
+
+(1) further a statewide forest assessment and resource strategy;
+
+(2) promote cross boundary landscape collaboration; and
+
+(3) leverage public and private resources.
+
+**(g) Collaboration and consultation** The Chief of the Forest Service, the Chief of the Natural Resources Conservation Service, and relevant stakeholders shall collaborate and consult on an ongoing basis regarding—
+
+(1) administration of the program established under this section; and
+
+(2) identification of other applicable resources for landscape-scale restoration.
+
+**(h) Matching funds required** As a condition of receiving a grant under this section, the Secretary shall require the recipient of the grant to provide funds or in-kind support from non-Federal sources in an amount that is at least equal to the amount of Federal funds.
+
+**(i) Coordination and proximity encouraged** In making grants under this section, the Secretary may consider coordination with and proximity to other landscape-scale projects on other land under the jurisdiction of the Secretary, the Secretary of the Interior, or a Governor of a State, including under—
+
+(1) the Collaborative Forest Landscape Restoration Program established under [section 7303 of this title](./chapter-092-forest-landscape-restoration.md#section-7303);
+
+(2) landscape areas designated for insect and disease treatments under [section 6591a of this title](./chapter-084-healthy-forest-restoration.md#section-6591a);
+
+(3) good neighbor authority under section 2113 11 So in original. See [section 2113a of this title](./chapter-041-cooperative-forestry-assistance.md#section-2113a). of this title;
+
+(4) stewardship end result contracting projects authorized under [section 6591c of this title](./chapter-084-healthy-forest-restoration.md#section-6591c);
+
+(5) appropriate State-level programs; and
+
+(6) other relevant programs, as determined by the Secretary.
+
+**(j) Regulations** The Secretary shall promulgate such regulations as the Secretary determines necessary to carry out this section.
+
+**(k) Report** Not later than 3 years after December 20, 2018, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on—
+
+(1) the status of development, execution, and administration of selected projects;
+
+(2) the accounting of program funding expenditures; and
+
+(3) specific accomplishments that have resulted from landscape-scale projects.
+
+**(l) Fund**
+
+(1) **In general** — There is established in the Treasury a fund, to be known as the “State and Private Forest Landscape-Scale Restoration Fund” (referred to in this subsection as the “Fund”), to be used by the Secretary to make grants under this section.
+
+(2) **Contents** — The Fund shall consist of such amounts as are appropriated to the Fund under paragraph (3).
+
+(3) **Authorization of appropriations** — There is authorized to be appropriated to the Fund $20,000,000 for each fiscal year beginning with the first full fiscal year after December 20, 2018, through fiscal year 2023, to remain available until expended.
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
-
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2018—Pub. L. 115–334 amended section generally. Prior to amendment, section related to competitive allocation of funds to State foresters or equivalent State officials.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-2109b"></a>
-## § 2109b. Competitive allocation of funds for cooperative forest innovation partnership projects
-**(a) Cooperative forest innovation partnership projects** The Secretary may competitively allocate not more than 5 percent of the funds made available under this chapter to support innovative national, regional, or local education, outreach, or technology transfer projects that the Secretary determines would substantially increase the ability of the Department of Agriculture to address the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim).
-
-**(b) Eligibility** Notwithstanding the eligibility limitations contained in this chapter, any State or local government, Indian tribe, land-grant college or university, or private entity shall be eligible to compete for funds to be competitively allocated under subsection (a).
-
-**(c) Cost-share requirement** In carrying out subsection (a), the Secretary shall not cover more than 50 percent of the total cost of a project under such subsection. In calculating the total cost of a project and contributions made with regard to the project, the Secretary shall include in-kind contributions.
+## § 2109b. Repealed. Pub. L. 115–334, title VIII, § 8102(b)(1), Dec. 20, 2018, 132 Stat. 4839
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
-
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
-
-#### Effective Date
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+Section, Pub. L. 95–313, § 13B, as added Pub. L. 110–234, title VIII, § 8008, May 22, 2008, 122 Stat. 1286, and Pub. L. 110–246, § 4(a), title VIII, § 8008, June 18, 2008, 122 Stat. 1664, 2047, related to competitive allocation of funds for cooperative forest innovation partnership projects.
 
 
 <a id="section-2110"></a>
@@ -1416,7 +1498,7 @@ Section, Pub. L. 95–313, § 18, formerly § 15, as added Pub. L. 100–418, ti
 
   (B) clarify individual agency responsibilities of each agency represented on the Coordinating Committee concerning the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim), with specific focus on nonindustrial private forest land;
 
-  (C) provide advice on the allocation of funds, including the competitive funds set-aside by sections 2109a and 2109b of this title; and
+  (C) provide advice on the allocation of funds, including the competitive funds set-aside by [section 2109a of this title](./chapter-041-cooperative-forestry-assistance.md#section-2109a); and
 
   (D) assist the Secretary in developing and reviewing the report required by [section 2101(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/d&num=0&edition=prelim).
 
@@ -1484,6 +1566,8 @@ Section, Pub. L. 95–313, § 18, formerly § 15, as added Pub. L. 100–418, ti
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(4)(C). Pub. L. 115–334 substituted “section 2109a” for “sections 2109a and 2109b”.
+
 2008—Subsec. (a). Pub. L. 110–246, § 8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
 
 Subsec. (b)(1)(B)(i). Pub. L. 110–246, § 7511(c)(37), substituted “National Institute of Food and Agriculture” for “Extension Service”.
@@ -1506,11 +1590,17 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 (1) **Authorized restoration services** — The term “authorized restoration services” means similar and complementary forest, rangeland, and watershed restoration services carried out—
 
-  (A) on Federal land and non-Federal land; and
+  (A) on Federal land, non-Federal land, and land owned by an Indian tribe; and
 
-  (B) by either the Secretary or a Governor pursuant to a good neighbor agreement.
+  (B) by either the Secretary or a Governor or county, as applicable, pursuant to a good neighbor agreement.
 
-(2) **Federal land**
+(2) **County** — The term “county” means—
+
+  (A) the appropriate executive official of an affected county; or
+
+  (B) in any case in which multiple counties are affected, the appropriate executive official of a compact of the affected counties.
+
+(3) **Federal land**
 
   (A) *In general* — The term “Federal land” means land that is—
 
@@ -1526,7 +1616,7 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
     (iii) a wilderness study area.
 
-(3) **Forest, rangeland, and watershed restoration services**
+(4) **Forest, rangeland, and watershed restoration services**
 
   (A) *In general* — The term “forest, rangeland, and watershed restoration services” means—
 
@@ -1538,17 +1628,29 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
   (B) *Exclusions* — The term “forest, rangeland, and watershed restoration services” does not include—
 
-    (i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas; or
+    (i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—
+
+      (I) necessary to carry out authorized restoration services pursuant to a good neighbor agreement; and
+
+      (II) in the case of a National Forest System road that is determined to be unneeded in accordance with section 212.5(b)(2) of title 36, Code of Federal Regulations (as in effect on March 23, 2018), decommissioned in accordance with subparagraph (A)(iii)—
+
+        (aa) in a manner that is consistent with the applicable travel management plan; and
+
+        (bb) not later than 3 years after the date on which the applicable authorized restoration services project is completed; or
 
     (ii) construction, alteration, repair or replacement of public buildings or works.
 
-(4) **Good neighbor agreement** — The term “good neighbor agreement” means a cooperative agreement or contract (including a sole source contract) entered into between the Secretary and a Governor to carry out authorized restoration services under this section.
+(5) **Good neighbor agreement** — The term “good neighbor agreement” means a cooperative agreement or contract (including a sole source contract) entered into between the Secretary and a Governor or county, as applicable, to carry out authorized restoration services under this section.
 
-(5) **Governor** — The term “Governor” means the Governor or any other appropriate executive official of an affected State or the Commonwealth of Puerto Rico.
+(6) **Governor** — The term “Governor” means the Governor or any other appropriate executive official of an affected State or Indian tribe or the Commonwealth of Puerto Rico.
 
-(6) **Road** — The term “road” has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on February 7, 2014).
+(7) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
-(7) **Secretary** — The term “Secretary” means—
+(8) **National Forest System road** — The term “National Forest System road” has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on March 23, 2018).
+
+(9) **Road** — The term “road” has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on February 7, 2014).
+
+(10) **Secretary** — The term “Secretary” means—
 
   (A) the Secretary of Agriculture, with respect to National Forest System land; and
 
@@ -1558,17 +1660,29 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 (1) **Good neighbor agreements**
 
-  (A) *In general* — The Secretary may enter into a good neighbor agreement with a Governor to carry out authorized restoration services in accordance with this section.
+  (A) *In general* — The Secretary may enter into a good neighbor agreement with a Governor or county to carry out authorized restoration services in accordance with this section.
 
   (B) *Public availability* — The Secretary shall make each good neighbor agreement available to the public.
 
 (2) **Timber sales**
 
-  (A) *In general* — Subsections (d) and (g) of [section 472a of this title](./chapter-002-national-forests.md#section-472a) shall not apply to services performed under a cooperative agreement or contract entered into under subsection (a).
+  (A) *In general* — Subsections (d) and (g) of [section 472a of this title](./chapter-002-national-forests.md#section-472a) shall not apply to services performed under a good neighbor agreement.
 
   (B) *Approval of silviculture prescriptions and marking guides* — The Secretary shall provide or approve all silviculture prescriptions and marking guides to be applied on Federal land in all timber sale projects conducted under this section.
 
-(3) **Retention of NEPA responsibilities** — Any decision required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor.
+  (C) *Treatment of revenue*
+
+    (i) *In general* — Funds received from the sale of timber by a Governor of a State under a good neighbor agreement shall be retained and used by the Governor—
+
+      (I) to carry out authorized restoration services on Federal land under the good neighbor agreement; and
+
+      (II) if there are funds remaining after carrying out subclause (I), to carry out authorized restoration services on Federal land within the State under other good neighbor agreements.
+
+    (ii) *Termination of effectiveness* — The authority provided by this subparagraph terminates effective October 1, 2023.
+
+(3) **Retention of NEPA responsibilities** — Any decision required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor or county.
+
+(4) **Receipts** — Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System land or Bureau of Land Management land, as applicable.
 
 ### Statutory Notes
 
@@ -1577,6 +1691,63 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is
 
 #### Codification
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
+
+#### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–334, § 8624(a)(1), substituted “land, non-Federal land, and land owned by an Indian tribe” for “land and non-Federal land”.
+
+Subsec. (a)(1)(B). Pub. L. 115–334, § 8624(b)(1)(A), inserted “or county, as applicable,” after “Governor”.
+
+Subsec. (a)(2). Pub. L. 115–334, § 8624(b)(1)(C), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(3)(B)(i). Pub. L. 115–141, § 212(1), substituted “areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—” and subcls. (I) and (II) for “areas; or”.
+
+Subsec. (a)(4). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(4)(B)(i)(II). Pub. L. 115–334, § 8704(b)(1), made technical amendment to reference in original act which appears in text as reference to March 23, 2018.
+
+Subsec. (a)(5). Pub. L. 115–334, § 8624(b)(1)(B), (D), redesignated par. (4) as (5) and inserted “or county, as applicable,” after “Governor”. Former par. (5) redesignated (6).
+
+Pub. L. 115–334, § 8624(a)(2), inserted “or Indian tribe” after “affected State”.
+
+Subsec. (a)(6). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Pub. L. 115–334, § 8624(a)(4), which directed amendment of subsec. (a) by adding par. (6) after par. (5) “(as so redesignated)”, was executed by making the addition after par. (5), relating to the definition of “Governor”, to reflect the probable intent of Congress.
+
+Pub. L. 115–334, § 8624(a)(3), redesignated par. (6) as (7).
+
+Pub. L. 115–141, § 212(3), added par. (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(7). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Pub. L. 115–334, § 8624(a)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Pub. L. 115–141, § 212(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (a)(8). Pub. L. 115–334, § 8704(b)(2), made technical amendment to reference in original act which appears in text as reference to March 23, 2018.
+
+Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Pub. L. 115–334, § 8624(a)(3), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Pub. L. 115–141, § 212(2), redesignated par. (7) as (8).
+
+Subsec. (a)(9). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Pub. L. 115–334, § 8624(a)(3), redesignated par. (8) as (9).
+
+Subsec. (a)(10). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (9) as (10).
+
+Subsec. (b)(1)(A). Pub. L. 115–334, § 8624(b)(2)(A), inserted “or county” after “Governor”.
+
+Subsec. (b)(2)(A). Pub. L. 115–334, § 8624(b)(2)(B), substituted “good neighbor agreement” for “cooperative agreement or contract entered into under subsection (a)”.
+
+Subsec. (b)(2)(C). Pub. L. 115–334, § 8624(c), added subpar. (C).
+
+Subsec. (b)(3). Pub. L. 115–334, § 8624(b)(2)(C), inserted “or county” after “Governor”.
+
+Subsec. (b)(4). Pub. L. 115–334, § 8624(b)(2)(D), added par. (4).
 
 
 <a id="section-2114"></a>

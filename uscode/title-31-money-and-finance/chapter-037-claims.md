@@ -1178,6 +1178,9 @@ Subsec. (i). Pub. L. 104–134, § 31001(q), added subsec. (i).
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(E), (j), Dec. 12, 2017, 131 Stat. 1796, 1803, provided that, effective Jan. 1, 2020, this section is amended by striking “section 3(p) of the Small Business Act” each place it appears and inserting “section 31(b) of the Small Business Act”. See 2017 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -1202,6 +1205,8 @@ Section 3(p) of the Small Business Act, referred to in subsec. (b)(1)(B), (3)(C)
 The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109 Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (b)(1)(B), (3)(C). Pub. L. 115–91 substituted “section 31(b) of the Small Business Act” for “section 3(p) of the Small Business Act”.
+
 2011—Subsec. (b)(1)(A). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) and following)”.
 
 2004—Subsec. (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
@@ -1235,6 +1240,9 @@ Subsec. (e). Pub. L. 99–578, § 1(1), (3), redesignated former subsec. (c) as 
 Subsec. (f). Pub. L. 99–578, § 1(1), redesignated former subsec. (d) as (f).
 
 1983—Subsec. (c). Pub. L. 98–167 inserted “This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section.”
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under [section 657a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim), Commerce and Trade.
@@ -2336,7 +2344,7 @@ Pub. L. 99–145, title IX, § 931(b), Nov. 8, 1985, 99 Stat. 699, provided that
 
 **(d) Award to Qui Tam Plaintiff.—**
 
-(1) If the Government proceeds with an action brought by a person under subsection (b), such person shall, subject to the second sentence of this paragraph, receive at least 15 percent but not more than 25 percent of the proceeds of the action or settlement of the claim, depending upon the extent to which the person substantially contributed to the prosecution of the action. Where the action is one which the court finds to be based primarily on disclosures of specific information (other than information provided by the person bringing the action) relating to allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government 11 So in original. Probably should be “General”. Accounting Office report, hearing, audit, or investigation, or from the news media, the court may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds, taking into account the significance of the information and the role of the person bringing the action in advancing the case to litigation. Any payment to a person under the first or second sentence of this paragraph shall be made from the proceeds. Any such person shall also receive an amount for reasonable expenses which the court finds to have been necessarily incurred, plus reasonable attorneys’ fees and costs. All such expenses, fees, and costs shall be awarded against the defendant.
+(1) If the Government proceeds with an action brought by a person under subsection (b), such person shall, subject to the second sentence of this paragraph, receive at least 15 percent but not more than 25 percent of the proceeds of the action or settlement of the claim, depending upon the extent to which the person substantially contributed to the prosecution of the action. Where the action is one which the court finds to be based primarily on disclosures of specific information (other than information provided by the person bringing the action) relating to allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government 22 So in original. Probably should be “General”. Accounting Office report, hearing, audit, or investigation, or from the news media, the court may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds, taking into account the significance of the information and the role of the person bringing the action in advancing the case to litigation. Any payment to a person under the first or second sentence of this paragraph shall be made from the proceeds. Any such person shall also receive an amount for reasonable expenses which the court finds to have been necessarily incurred, plus reasonable attorneys’ fees and costs. All such expenses, fees, and costs shall be awarded against the defendant.
 
 (2) If the Government does not proceed with an action under this section, the person bringing the action or settling the claim shall receive an amount which the court decides is reasonable for collecting the civil penalty and damages. The amount shall be not less than 25 percent and not more than 30 percent of the proceeds of the action or settlement and shall be paid out of such proceeds. Such person shall also receive an amount for reasonable expenses which the court finds to have been necessarily incurred, plus reasonable attorneys’ fees and costs. All such expenses, fees, and costs shall be awarded against the defendant.
 
@@ -2367,7 +2375,7 @@ Pub. L. 99–145, title IX, § 931(b), Nov. 8, 1985, 99 Stat. 699, provided that
     (iii) from the news media,
     unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
 
-  (B) For purposes of this paragraph, “original source” means an individual who either (i) prior to a public disclosure under subsection (e)(4)(a), has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the Government before filing an action under this section.
+  (B) For purposes of this paragraph, “original source” means an individual who either (i) prior to a public disclosure under subsection (e)(4)(a), has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has 33 So in original. Probably should be “or (ii) has”. knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the Government before filing an action under this section.
 
 **(f) Government Not Liable for Certain Expenses.—** The Government is not liable for expenses which a person incurs in bringing an action under this section.
 

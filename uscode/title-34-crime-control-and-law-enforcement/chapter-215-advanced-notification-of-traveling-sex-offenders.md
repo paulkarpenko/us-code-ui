@@ -395,7 +395,7 @@ Section was formerly classified to [section 16935g of Title 42](https://uscode.h
 <a id="section-21509"></a>
 ## § 21509. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter $6,000,000 for each of fiscal years 2017 and 2018.
+There are authorized to be appropriated to carry out this chapter $6,000,000 for each of fiscal years 2018 through 2021.
 
 ### Statutory Notes
 
@@ -404,6 +404,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Codification
 Section was formerly classified to [section 16935h of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935h&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2019—Pub. L. 115–425 substituted “2018 through 2021” for “2017 and 2018”.
 
 
 <a id="section-21510"></a>

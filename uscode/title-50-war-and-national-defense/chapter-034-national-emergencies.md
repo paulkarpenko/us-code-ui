@@ -40,7 +40,7 @@ Proc. No. 7463, Sept. 14, 2001, 66 F.R. 48199, provided:
 
 A national emergency exists by reason of the terrorist attacks at the World Trade Center, New York, New York, and the Pentagon, and the continuing and immediate threat of further attacks on the United States.
 
-NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by virtue of the authority vested in me as President by the Constitution and the laws of the United States, I hereby declare that the national emergency has existed since September 11, 2001, and, pursuant to the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), I intend to utilize the following statutes: sections 123, 123a, 527, 2201(c), 12006, and 12302 of title 10, United States Code, and sections 331, 359, and 367 of title 14, United States Code.
+NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by virtue of the authority vested in me as President by the Constitution and the laws of the United States, I hereby declare that the national emergency has existed since September 11, 2001, and, pursuant to the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), I intend to utilize the following statutes: sections 123, 123a, 527, 2201(c), 12006, and 12302 of title 10, United States Code, and sections 331, 359, and 367 [now 2127, 2308, and 2314] of title 14, United States Code.
 
 This proclamation immediately shall be published in the Federal Register or disseminated through the Emergency Federal Register, and transmitted to the Congress.
 
@@ -51,17 +51,19 @@ IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of September
 George W. Bush.
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
-Notice of President of the United States, dated Aug. 30, 2016, 81 F.R. 60579, provided:
+Notice of President of the United States, dated Sept. 11, 2017, 82 F.R. 43153, provided:
 
 Consistent with section 202(d) of the National Emergencies Act, [50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2016. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2017. Therefore, I am continuing in effect for an additional year the national emergency declared on September 14, 2001, in response to certain terrorist attacks.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-Barack Obama.
+Donald J. Trump.
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Aug. 30, 2016, 81 F.R. 60579.
 
 Notice of President of the United States, dated Sept. 10, 2015, 80 F.R. 55013.
 

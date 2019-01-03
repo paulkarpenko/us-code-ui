@@ -22,7 +22,7 @@ This subtitle may be cited as the “Trust Fund Code of 1981”.
 
 **(b) Transfer of certain taxes; other receipts**
 
-(1) **Transfer to Black Lung Disability Trust Fund of amounts equivalent to certain taxes** — There are herby appropriated to the Black Lung Disability Trust Fund amounts equivalent to the taxes received in the Treasury under section 4121 or subchapter B of chapter 42.
+(1) **Transfer to Black Lung Disability Trust Fund of amounts equivalent to certain taxes** — There are hereby appropriated to the Black Lung Disability Trust Fund amounts equivalent to the taxes received in the Treasury under section 4121 or subchapter B of chapter 42.
 
 (2) **Certain repaid amounts, etc.** — The following amounts shall be credited to the Black Lung Disability Trust Fund:
 
@@ -46,7 +46,7 @@ This subtitle may be cited as the “Trust Fund Code of 1981”.
 
   (A) the operator liable for the payment of such benefits—
 
-    (i) has no commenced payment of such benefits within 30 days after the date of an initial determination of eligibility by the Secretary of Labor, or
+    (i) has not commenced payment of such benefits within 30 days after the date of an initial determination of eligibility by the Secretary of Labor, or
 
     (ii) has not made a payment within 30 days after that payment is due,
     except that, in the case of a claim filed on or after the date of the enactment of the Black Lung Benefits Revenue Act of 1981, amounts will be available under this subparagraph only for benefits accruing after the date of such initial determination, or
@@ -98,6 +98,10 @@ Pub. L. 110–343, div. B, title I, § 113(b), Oct. 3, 2008, 122 Stat. 3825, as 
 Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: “In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund (‘Fund’), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 [now 1986]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–245, div. B, title I, Sept. 28, 2018, 132 Stat. 3056.
+
+Pub. L. 115–141, div. H, title I, Mar. 23, 2018, 132 Stat. 704.
 
 Pub. L. 115–31, div. H, title I, May 5, 2017, 131 Stat. 510.
 
@@ -151,9 +155,9 @@ There shall not be taken into account under paragraph (1) so much of the taxes i
 
 **(d) Expenditures from Airport and Airway Trust Fund**
 
-(1) **Airport and airway program** — Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2017, to meet those obligations of the United States—
+(1) **Airport and airway program** — Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2023, to meet those obligations of the United States—
 
-  (A) incurred under title I of the Airport and Airway Development Act of 1970 or of the Airport and Airway Development Act Amendments of 1976 or of the Aviation Safety and Noise Abatement Act of 1979 or under the Fiscal Year 1981 Airport Development Authorization Act or the provisions of the Airport and Airway Improvement Act of 1982 or the Airport and Airway Safety and Capacity Expansion Act of 1987 or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 or the Airport Improvement Program Temporary Extension Act of 1994 or the Federal Aviation Administration Authorization Act of 1994 or the Federal Aviation Reauthorization Act of 1996 or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, Public Law 106–59, or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century or the Aviation and Transportation Security Act or the Vision 100—Century of Aviation Reauthorization Act or any joint resolution making continuing appropriations for the fiscal year 2008 or the Department of Transportation Appropriations Act, 2008 or the Airport and Airway Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008, Part II or the Federal Aviation Administration Extension Act of 2009 or any joint resolution making continuing appropriations for the fiscal year 2010 or the Fiscal Year 2010 Federal Aviation Administration Extension Act or the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II or the Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part II or the Airline Safety and Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part III or the Airport and Airway Extension Act of 2010, Part IV or the Airport and Airway Extension Act of 2011 or the Airport and Airway Extension Act of 2011, Part II or the Airport and Airway Extension Act of 2011, Part III or the Airport and Airway Extension Act of 2011, Part IV or the Airport and Airway Extension Act of 2011, Part V or the Airport and Airway Extension Act of 2012 or the FAA Modernization and Reform Act of 2012 or the Airport and Airway Extension Act of 2015 or the Airport and Airway Extension Act of 2016 or the FAA Extension, Safety, and Security Act of 2016;
+  (A) incurred under title I of the Airport and Airway Development Act of 1970 or of the Airport and Airway Development Act Amendments of 1976 or of the Aviation Safety and Noise Abatement Act of 1979 or under the Fiscal Year 1981 Airport Development Authorization Act or the provisions of the Airport and Airway Improvement Act of 1982 or the Airport and Airway Safety and Capacity Expansion Act of 1987 or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 or the Airport Improvement Program Temporary Extension Act of 1994 or the Federal Aviation Administration Authorization Act of 1994 or the Federal Aviation Reauthorization Act of 1996 or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, Public Law 106–59, or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century or the Aviation and Transportation Security Act or the Vision 100—Century of Aviation Reauthorization Act or any joint resolution making continuing appropriations for the fiscal year 2008 or the Department of Transportation Appropriations Act, 2008 or the Airport and Airway Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008, Part II or the Federal Aviation Administration Extension Act of 2009 or any joint resolution making continuing appropriations for the fiscal year 2010 or the Fiscal Year 2010 Federal Aviation Administration Extension Act or the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II or the Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part II or the Airline Safety and Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part III or the Airport and Airway Extension Act of 2010, Part IV or the Airport and Airway Extension Act of 2011 or the Airport and Airway Extension Act of 2011, Part II or the Airport and Airway Extension Act of 2011, Part III or the Airport and Airway Extension Act of 2011, Part IV or the Airport and Airway Extension Act of 2011, Part V or the Airport and Airway Extension Act of 2012 or the FAA Modernization and Reform Act of 2012 or the Airport and Airway Extension Act of 2015 or the Airport and Airway Extension Act of 2016 or the FAA Extension, Safety, and Security Act of 2016 or the Disaster Tax Relief and Airport and Airway Extension Act of 2017 or the Airport and Airway Extension Act of 2018 or the Airport and Airway Extension Act of 2018, Part II or the FAA Reauthorization Act of 2018;
 
   (B) heretofore or hereafter incurred under part A of subtitle VII of title 49, United States Code, which are attributable to planning, research and development, construction, or operation and maintenance of—
 
@@ -169,7 +173,7 @@ There shall not be taken into account under paragraph (1) so much of the taxes i
   (C) for those portions of the administrative expenses of the Department of Transportation which are attributable to activities described in subparagraph (A) or (B).
   Any reference in subparagraph (A) to an Act shall be treated as a reference to such Act and the corresponding provisions (if any) of title 49, United States Code, as such Act and provisions were in effect on the date of the enactment of the last Act referred to in subparagraph (A).
 
-(2) **Transfers from Airport and Airway Trust Fund on account of certain refunds** — The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after August 31, 1982, in respect of fuel used in aircraft, under section 6420 (relating to amounts paid in respect of gasoline used on farms,11 So in original. A closing parenthesis probably should precede the comma. 6421 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes), or 6427 (relating to fuels not used for taxable purposes) (other than subsection (l)(4) thereof).
+(2) **Transfers from Airport and Airway Trust Fund on account of certain refunds** — The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after August 31, 1982, in respect of fuel used in aircraft, under section 6420 (relating to amounts paid in respect of gasoline used on farms), 6421 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes), or 6427 (relating to fuels not used for taxable purposes) (other than subsection (l)(4) thereof).
 
 (3) **Transfers from the Airport and Airway Trust Fund on account of certain section 34 credits** — The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the credits allowed under section 34 (other than payments made by reason of paragraph (4) of section 6427(l)) with respect to fuel used after August 31, 1982. Such amounts shall be transferred on the basis of estimates by the Secretary of the Treasury, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the credits allowed.
 
@@ -187,7 +191,7 @@ There shall not be taken into account under paragraph (1) so much of the taxes i
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2017, in accordance with the provisions of this section.
+(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2023, in accordance with the provisions of this section.
 
 ### Statutory Notes
 
@@ -276,9 +280,39 @@ The Airport and Airway Extension Act of 2016, referred to in subsec. (d)(1)(A), 
 
 The FAA Extension, Safety, and Security Act of 2016, referred to in subsec. (d)(1)(A), is Pub. L. 114–190, July 15, 2016, 130 Stat. 615. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation, and Tables.
 
-The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of the enactment of the FAA Extension, Safety, and Security Act of 2016, Pub. L. 114–190, which was approved July 15, 2016.
+The Disaster Tax Relief and Airport and Airway Extension Act of 2017, referred to in subsec. (d)(1)(A), is Pub. L. 115–63, Sept. 29, 2017, 131 Stat. 1168. For complete classification of this Act to the Code, see Short Title of 2017 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+
+The Airport and Airway Extension Act of 2018, referred to in subsec. (d)(1)(A), is title I of div. M of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 1046. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+
+The Airport and Airway Extension Act of 2018, Part II, referred to in subsec. (d)(1)(A), is Pub. L. 115–250, Sept. 29, 2018, 132 Stat. 3164. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+
+The FAA Reauthorization Act of 2018, referred to in subsec. (d)(1)(A), is Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3186. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) and Tables.
+
+The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of the enactment of the FAA Reauthorization Act of 2018, Pub. L. 115–254, which was approved Oct. 5, 2018.
 
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–254, § 801(a)(1), substituted “October 1, 2023” for “October 1, 2018”.
+
+Pub. L. 115–141, § 201(a)(1), substituted “October 1, 2018” for “April 1, 2018” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 115–254, § 801(a)(2), inserted “or the FAA Reauthorization Act of 2018” before semicolon at end.
+
+Pub. L. 115–250 inserted “or the Airport and Airway Extension Act of 2018, Part II” before semicolon at end.
+
+Pub. L. 115–141, § 201(a)(2), inserted “or the Airport and Airway Extension Act of 2018” before semicolon at end.
+
+Subsec. (d)(2). Pub. L. 115–141, § 401(a)(340), substituted “farms),” for “farms,”.
+
+Subsec. (e)(2). Pub. L. 115–254, § 801(b), substituted “October 1, 2023” for “October 1, 2018”.
+
+Pub. L. 115–141, § 201(b), substituted “October 1, 2018” for “April 1, 2018”.
+
+2017—Subsec. (d)(1). Pub. L. 115–63, § 201(a)(1), substituted “April 1, 2018” for “October 1, 2017” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 115–63, § 201(a)(2), inserted “or the Disaster Tax Relief and Airport and Airway Extension Act of 2017” before semicolon at end.
+
+Subsec. (e)(2). Pub. L. 115–63, § 201(b), substituted “April 1, 2018” for “October 1, 2017”.
+
 2016—Subsec. (d)(1). Pub. L. 114–190, § 1201(a)(1), substituted “October 1, 2017” for “July 16, 2016” in introductory provisions.
 
 Pub. L. 114–141, § 201(a)(1), substituted “July 16, 2016” for “April 1, 2016” in introductory provisions.
@@ -792,7 +826,7 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
   (B) *Small-engine fuel taxes* — For purposes of this paragraph, the term “small-engine fuel taxes” means the taxes under section 4081 with respect to gasoline used as a fuel in the nonbusiness use of small-engine outdoor power equipment, but only to the extent such taxes are deposited into the Highway Trust Fund.
 
-(5) **Transfers from the Trust Fund for certain aviation fuel taxes** — The Secretary shall pay at least monthly from the Highway Trust Fund into the Airport and Airway Trust Fund amounts (as determined by the Secretary) equivalent to the taxes received on or after October 1, 2005, and before October 1, 2011, under section 4081 with respect to so much of the rate of tax as does not exceed—
+(5) **Transfers from the Trust Fund for certain aviation fuel taxes** — The Secretary shall pay at least monthly from the Highway Trust Fund into the Airport and Airway Trust Fund amounts (as determined by the Secretary) equivalent to the taxes received on or after October 1, 2005, under section 4081 with respect to so much of the rate of tax as does not exceed—
 
   (A) 4.3 cents per gallon of kerosene subject to section 6427(l)(4)(A) with respect to which a payment has been made by the Secretary under section 6427(l), and
 
@@ -858,9 +892,9 @@ Pub. L. 97–248, title II, § 281(d), Sept. 3, 1982, 96 Stat. 566, provided tha
 
   (B) 1.43 cents per gallon in the case of any partially exempt methanol or ethanol fuel (as defined in section 4041(m)) none of the alcohol in which consists of ethanol,
 
-  (C) 1.86 cents per gallon in the case of liquefied natural gas,
+  (C) 1.86 cents per energy equivalent of a gallon of diesel (as defined in section 4041(a)(2)(D)) in the case of liquefied natural gas,
 
-  (D) 2.13 cents per gallon in the case of liquefied petroleum gas, and
+  (D) 2.13 cents per energy equivalent of a gallon of gasoline (as defined in section 4041(a)(2)(C)) in the case of liquefied petroleum gas, and
 
   (E) 9.71 cents per MCF (determined at standard temperature and pressure) in the case of compressed natural gas.
 
@@ -994,6 +1028,12 @@ The Surface Transportation Extension Act of 2015, referred to in former subsecs.
 The Surface Transportation Extension Act of 2015, Part II, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 114–87, Nov. 20, 2015, 129 Stat. 677. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and Tables.
 
 #### Amendments
+2018—Subsec. (c)(5). Pub. L. 115–141, § 401(a)(341), struck out “and before October 1, 2011,” after “October 1, 2005,” in introductory provisions.
+
+Subsec. (e)(2)(C). Pub. L. 115–141, § 104(b)(1), substituted “per energy equivalent of a gallon of diesel (as defined in section 4041(a)(2)(D))” for “per gallon”.
+
+Subsec. (e)(2)(D). Pub. L. 115–141, § 104(b)(2), substituted “per energy equivalent of a gallon of gasoline (as defined in section 4041(a)(2)(C))” for “per gallon”.
+
 2015—Subsec. (b)(1). Pub. L. 114–94, § 31102(e)(1)(A)(i), substituted “October 1, 2022” for “October 1, 2016” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 114–94, § 31102(e)(1)(A), substituted “October 1, 2022” for “October 1, 2016” in heading and “September 30, 2022” for “September 30, 2016”, “July 1, 2023” for “July 1, 2017”, and “October 1, 2022” for “October 1, 2016” in text.
@@ -1578,6 +1618,9 @@ Subsec. (e)(2). Pub. L. 98–369, § 911(d)(1)(A), amended par. (2) generally, s
 
 #### Change of Name
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
+
+#### Effective Date of 2018 Amendment
+Amendments by section 104(b) of Pub. L. 115–141 effective as if included in the provision of Pub. L. 114–41 to which they relate, see section 104(c) of Pub. L. 115–141, set out as a note under [section 6662 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6662).
 
 #### Effective Date of 2015 Amendment
 Amendment by section 31102(e)(1), (2)(A) of Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -2265,7 +2308,7 @@ For purposes of this subsection, there shall not be taken into account the taxes
 
 **(c) Expenditures**
 
-(1) **In general** — Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the 11 So in original. Public Law 109–168.
+(1) **In general** — Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of Public Law 109–168.
 
 (2) **Transfer to Highway Trust Fund** — Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $2,400,000,000 to be transferred under section 9503(f)(3) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
 
@@ -2312,6 +2355,8 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–141 substituted “of Public Law” for “of the Public Law”.
+
 2015—Subsec. (c)(1). Pub. L. 114–94, § 31203(b), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
 Subsec. (c)(4). Pub. L. 114–94, § 31203(a), added par. (4).

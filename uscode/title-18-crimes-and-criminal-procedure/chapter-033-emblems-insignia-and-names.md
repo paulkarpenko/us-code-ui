@@ -132,15 +132,15 @@ Minor changes were made in phraseology.
 
 (2) **Congressional medal of honor defined.—** — In this subsection, the term “Congressional Medal of Honor” means—
 
-  (A) a medal of honor awarded under section 3741, 6241, or 8741 of title 10 or [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim);
+  (A) a medal of honor awarded under section 7271, 8291, or 9271 of title 10 or section 491 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
 
-  (B) a duplicate medal of honor issued under section 3754, 6256, or 8754 of title 10 or [section 504 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section504&num=0&edition=prelim); or
+  (B) a duplicate medal of honor issued under section 7284, 8306, or 9284 of title 10 or section 504 1 of title 14; or
 
-  (C) a replacement of a medal of honor provided under section 3747, 6253, or 8747 of title 10 or [section 501 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section501&num=0&edition=prelim).
+  (C) a replacement of a medal of honor provided under section 7277, 8303, or 9277 of title 10 or section 501 1 of title 14.
 
 **(d) Enhanced Penalty for Offenses Involving Certain Other Medals.—**
 
-(1) **In general.—** — If a decoration or medal involved in an offense described in subsection (a) is a distinguished-service cross awarded under [section 3742 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3742&num=0&edition=prelim), a Navy cross awarded under [section 6242 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6242&num=0&edition=prelim), an Air Force cross awarded under section 8742 of section 11 So in original. Probably should be “title”. 10, a silver star awarded under section 3746, 6244, or 8746 of title 10, a Purple Heart awarded under [section 1129 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1129&num=0&edition=prelim), a combat badge, or any replacement or duplicate medal for such medal as authorized by law, in lieu of the punishment provided in the applicable subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
+(1) **In general.—** — If a decoration or medal involved in an offense described in subsection (a) is a distinguished-service cross awarded under [section 7272 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7272&num=0&edition=prelim), a Navy cross awarded under [section 8292 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8292&num=0&edition=prelim), an Air Force cross awarded under [section 9272 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9272&num=0&edition=prelim), a silver star awarded under section 7276, 8294, or 9276 of title 10, a Purple Heart awarded under [section 1129 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1129&num=0&edition=prelim), a combat badge, or any replacement or duplicate medal for such medal as authorized by law, in lieu of the punishment provided in the applicable subsection, the offender shall be fined under this title, imprisoned not more than 1 year, or both.
 
 (2) **Combat badge defined.—** — In this subsection, the term “combat badge” means a Combat Infantryman’s Badge, Combat Action Badge, Combat Medical Badge, Combat Action Ribbon, or Combat Action Medal.
 
@@ -157,6 +157,14 @@ Minor changes were made in phraseology.
 This section [section 16] clarifies the wording of [section 704 of title 18](./chapter-033-emblems-insignia-and-names.md#section-704), U.S.C., to embrace all service decorations awarded to members of the armed forces whether by the Army, Navy, Air Force, or other branch of such forces. (See note to sec. 5 [of 1949 Act, set out in Legislative History note under [section 244 of title 18](./chapter-013-civil-rights.md#section-244)]).
 
 #### Amendments
+2018—Subsec. (c)(2)(A). Pub. L. 115–232, § 809(e)(1)(A)(i), substituted “section 7271, 8291, or 9271 of title 10” for “section 3741, 6241, or 8741 of title 10”.
+
+Subsec. (c)(2)(B). Pub. L. 115–232, § 809(e)(1)(A)(ii), substituted “section 7284, 8306, or 9284 of title 10” for “section 3754, 6256, or 8754 of title 10”.
+
+Subsec. (c)(2)(C). Pub. L. 115–232, § 809(e)(1)(A)(iii), substituted “section 7277, 8303, or 9277 of title 10” for “section 3747, 6253, or 8747 of title 10”.
+
+Subsec. (d)(1). Pub. L. 115–232, § 809(e)(1)(B), substituted “[section 7272 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7272&num=0&edition=prelim)” for “[section 3742 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3742&num=0&edition=prelim)”, “[section 8292 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8292&num=0&edition=prelim)” for “[section 6242 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6242&num=0&edition=prelim)”, “[section 9272 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9272&num=0&edition=prelim)” for “section 8742 of section 10”, and “section 7276, 8294, or 9276 of title 10” for “section 3746, 6244, or 8746 of title 10”.
+
 2013—Subsec. (a). Pub. L. 113–12, § 2(a)(1), struck out “wears,” after “Whoever knowingly”.
 
 Subsec. (b). Pub. L. 113–12, § 2(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “Whoever falsely represents himself or herself, verbally or in writing, to have been awarded any decoration or medal authorized by Congress for the Armed Forces of the United States, any of the service medals or badges awarded to the members of such forces, the ribbon, button, or rosette of any such badge, decoration, or medal, or any colorable imitation of such item shall be fined under this title, imprisoned not more than six months, or both.”
@@ -192,6 +200,12 @@ Subsec. (b). Pub. L. 103–322, § 320109(3), added subsec. (b).
 Subsec. (b)(2)(B). Pub. L. 103–442 inserted “, 6241, or 8741” after “3741”.
 
 1949—Act May 24, 1949, covered all service decorations awarded members of the armed forces by any of the armed services.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+Sections 491, 501, and 504 of title 14 redesignated sections 2732, 2745, and 2733, respectively, of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to sections 491, 501, and 504 of title 14 deemed to refer to such redesignatedsections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of this title](./chapter-001-general-provisions.md#section-13).
@@ -333,6 +347,9 @@ Whoever, except as permitted by the laws of the United States, uses the words �
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–254, div. F, title VI, § 1470(g), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, this section is amended by striking “ ‘Overseas Private Investment’, ‘Overseas Private Investment Corporation’, or ‘OPIC’,” and inserting “ ‘United States International Development Finance Corporation’ or ‘DFC’ ”. See 2018 Amendment note below.
+
 #### Historical and Revision Notes
 Based on sections 264(v)(1), 583, 584, 585, 586, 587, 1128, 1318, 1441(d), 1731(d) of title 12, U.S.C., 1940 ed., Banks and Banking, [section 616(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section616/d&num=0&edition=prelim), U.S.C., 1940 ed., Commerce and Trade, and [section 1426 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1426&num=0&edition=prelim), U.S.C., 1940 ed., The Public Health and Welfare (R.S. § 5243; Dec. 23, 1913, ch. 6, § 12B(v), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178; July 17, 1916, ch. 245, § 211h, as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1461; Mar. 4, 1923, ch. 252, title II, § 216, 42 Stat. 1471; May 24, 1926, ch. 377, §§ 1–4, 44 Stat. 628; Jan. 22, 1932, ch. 8, § 16(d), 47 Stat. 12; July 22, 1932, ch. 522, § 21, 47 Stat. 738; June 27, 1934, ch. 847, § 512, 48 Stat. 1265; Aug. 23, 1935, ch. 614, §§ 101, 203a, 318, 332, 49 Stat. 684, 704, 712, 719; Apr. 21, 1936, ch. 244, 49 Stat. 1237; Sept. 1, 1937, ch. 896, § 26, 50 Stat. 899; Feb. 3, 1938, ch. 13, §§ 9, 10, 52 Stat. 24, 25; June 28, 1941, ch. 261, § 10, 55 Stat. 365).
 
@@ -360,6 +377,8 @@ The date of enactment of this title, referred to in fifteenth par., means June 2
 The date of enactment of this paragraph, referred to in penultimate par., means July 3, 1952.
 
 #### Amendments
+2018—Pub. L. 115–254, in twelfth par., substituted “ ‘United States International Development Finance Corporation’ or ‘DFC’ ” for “ ‘Overseas Private Investment’, ‘Overseas Private Investment Corporation’, or ‘OPIC’,”.
+
 2002—Pub. L. 107–273, in thirteenth par., substituted “Whoever” for “A person who” and inserted “or” at end.
 
 1998—Pub. L. 105–184 inserted fourteenth par. that extended prohibitions of section to unauthorized use of term “United States Marshals Service” or any colorable imitation, or likeness of a United States Marshals Service badge, logo, or insignia on any item of apparel.
@@ -403,6 +422,9 @@ Act Aug. 2, 1954, in ninth par., inserted references to the Housing and Home Fin
 1951—Act Oct. 31, 1951, in ninth par., inserted “Public Housing Administration” in lieu of “United States Housing Authority”, and inserted “Public Housing Administration,” after “Federal Housing Administration”.
 
 1950—Act Sept. 21, 1950, in third par., made subject to provisions of this section whoever advertises that his or its deposit liabilities, obligations, certificates, or shares are federally insured.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1996 Amendment
 Amendment by section 604(b)(19), (41) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of this title](./chapter-001-general-provisions.md#section-13).

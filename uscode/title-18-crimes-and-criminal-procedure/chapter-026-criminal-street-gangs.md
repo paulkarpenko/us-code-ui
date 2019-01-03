@@ -23,9 +23,11 @@ source: >-
 
 (1) a Federal felony involving a controlled substance (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim))) for which the maximum penalty is not less than 5 years;
 
-(2) a Federal felony crime of violence that has as an element the use or attempted use of physical force against the person of another; and
+(2) a Federal felony crime of violence that has as an element the use or attempted use of physical force against the person of another;
 
-(3) a conspiracy to commit an offense described in paragraph (1) or (2).
+(3) a Federal offense involving human trafficking, sexual abuse, sexual exploitation, or transportation for prostitution or any illegal sexual activity; and
+
+(4) a conspiracy to commit an offense described in paragraph (1), (2), or (3).
 
 **(d) Circumstances.—** The circumstances described in this section are that the offense described in subsection (c) was committed by a person who—
 
@@ -50,6 +52,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(3), (4). Pub. L. 115–392 added par. (3), redesignated former par. (3) as (4), and in par. (4), substituted “(1), (2), or (3)” for “(1) or (2)”.
+
 2002—Subsec. (a). Pub. L. 107–273 realigned margins of par. defining “State”.
 
 1996—Subsec. (a). Pub. L. 104–294 inserted par. defining “State” at end.

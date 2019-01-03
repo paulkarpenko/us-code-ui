@@ -128,6 +128,8 @@ Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853.
 
 Ex. Ord. No. 13764, § 1, Jan. 17, 2017, 82 F.R. 8115.
 
+Ex. Ord. No. 13843, § 3(a), July 10, 2018, 83 F.R. 32756.
+
 #### Executive Order No. 10590
 Ex. Ord. No. 10590, Jan. 18, 1955, 20 F.R. 409, as amended by Ex. Ord. No. 10722, Aug. 7, 1957, 22 F.R. 6287; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971, which established the President’s Committee on Government Employment Policy, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under [section 2000e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -797,6 +799,74 @@ Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impa
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.
+
+#### Ex. Ord. No. 13842. Establishing an Exception to Competitive Examining Rules for Appointment to Certain Positions in the United States Marshals Service, Department of Justice
+Ex. Ord. No. 13842, July 10, 2018, 83 F.R. 32753, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. Providing Appointment Authority. (a) Good administration of the executive branch necessitates that the U.S. Marshals Service (USMS), a component of the Department of Justice, have a hiring authority that is currently available to other Federal law enforcement agencies and that would, among other things, enable the USMS to be competitive in recruiting high-quality Deputy U.S. Marshals and Criminal Investigators, to better hire and retain qualified individuals in certain duty locations, and to more expeditiously fill vacant positions consistent with law enforcement needs. Accordingly, it is appropriate to place Deputy U.S. Marshals and Criminal Investigators of the USMS in Schedule B of the excepted service, as it is impracticable to hold open competition or to apply usual competitive examining procedures for those positions related to Federal law enforcement.
+
+(b) Appointments to the positions identified in subsection (a) of this section:
+
+(i) may not be made to positions of a confidential or policy-determining character or to positions in the Senior Executive Service; and
+
+(ii) shall constitute Schedule B appointments that are:
+
+(A) excepted from the competitive service; and
+
+(B) subject to laws and regulations governing Schedule B appointments, including basic qualification standards established by the Director of the Office of Personnel Management (Director) for the applicable occupation and grade level.
+
+Sec. 2. Providing Conversion Authority. (a) Deputy U.S. Marshals and Criminal Investigators of the USMS appointed under Schedule B may, upon completion of 3 years of substantially continuous, fully satisfactory service, be converted non-competitively to career appointments, provided they meet the qualifications and other requirements established by the Director.
+
+(b) The Director shall prescribe such regulations as may be necessary to implement this order.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 13843. Excepting Administrative Law Judges From the Competitive Service
+Ex. Ord. No. 13843, July 10, 2018, 83 F.R. 32755, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. The Federal Government benefits from a professional cadre of administrative law judges (ALJs) appointed under [section 3105 of title 5](./chapter-031-authority-for-employment.md#section-3105), United States Code, who are impartial and committed to the rule of law. As illustrated by the Supreme Court’s recent decision in Lucia v. Securities and Exchange Commission, No. 17–130 (June 21, 2018), ALJs are often called upon to discharge significant duties and exercise significant discretion in conducting proceedings under the laws of the United States. As part of their adjudications, ALJs interact with the public on issues of significance. Especially given the importance of the functions they discharge—which may range from taking testimony and conducting trials to ruling on the admissibility of evidence and enforcing compliance with their orders—ALJs must display appropriate temperament, legal acumen, impartiality, and sound judgment. They must also clearly communicate their decisions to the parties who appear before them, the agencies that oversee them, and the public that entrusts them with authority.
+
+Previously, appointments to the position of ALJ have been made through competitive examination and competitive service selection procedures. The role of ALJs, however, has increased over time and ALJ decisions have, with increasing frequency, become the final word of the agencies they serve. Given this expanding responsibility for important agency adjudications, and as recognized by the Supreme Court in Lucia, at least some—and perhaps all—ALJs are “Officers of the United States” and thus subject to the Constitution’s Appointments Clause, which governs who may appoint such officials.
+
+As evident from recent litigation, Lucia may also raise questions about the method of appointing ALJs, including whether competitive examination and competitive service selection procedures are compatible with the discretion an agency head must possess under the Appointments Clause in selecting ALJs. Regardless of whether those procedures would violate the Appointments Clause as applied to certain ALJs, there are sound policy reasons to take steps to eliminate doubt regarding the constitutionality of the method of appointing officials who discharge such significant duties and exercise such significant discretion.
+
+Pursuant to my authority under [section 3302(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3302/1&num=0&edition=prelim), United States Code, I find that conditions of good administration make necessary an exception to the competitive hiring rules and examinations for the position of ALJ. These conditions include the need to provide agency heads with additional flexibility to assess prospective appointees without the limitations imposed by competitive examination and competitive service selection procedures. Placing the position of ALJ in the excepted service will mitigate concerns about undue limitations on the selection of ALJs, reduce the likelihood of successful Appointments Clause challenges, and forestall litigation in which such concerns have been or might be raised. This action will also give agencies greater ability and discretion to assess critical qualities in ALJ candidates, such as work ethic, judgment, and ability to meet the particular needs of the agency. These are all qualities individuals should have before wielding the significant authority conferred on ALJs, and each agency should be able to assess them without proceeding through complicated and elaborate examination processes or rating procedures that do not necessarily reflect the agency’s particular needs. This change will also promote confidence in, and the durability of, agency adjudications.
+
+Sec. 2. Excepted Service. Appointments of ALJs shall be made under Schedule E of the excepted service, as established by section 3 of this order.
+
+Sec. 3. Implementation. (a) [Amended Civil Service Rule VI.]
+
+(b) The Director of the Office of Personnel Management (Director) shall:
+
+(i) adopt such regulations as the Director determines may be necessary to implement this order, including, as appropriate, amendments to or rescissions of regulations that are inconsistent with, or that would impede the implementation of, this order, giving particular attention to 5 CFR, part 212, subpart D; 5 CFR, part 213, subparts A and C; 5 CFR 302.101; and 5 CFR, part 930, subpart B; and
+
+(ii) provide guidance on conducting a swift, orderly transition from the existing appointment process for ALJs to the Schedule E process established by this order.
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 #### Improving the Federal Recruitment and Hiring Process
 Memorandum of President of the United States, May 11, 2010, 75 F.R. 27157, provided:
@@ -1587,6 +1657,24 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective not later than one year after Aug. 13, 2018, this section is repealed. See Enactment of Section note below.
+
+#### Enactment of Section
+Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, a new section 3317 is enacted to read as follows: § 3317. Competitive service; certification using numerical ratings
+
+(a) Certification.—
+
+(1) In general.—The Director of the Office of Personnel Management, or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), shall certify a sufficient number of names from the top of the appropriate register or list of eligibles, as determined pursuant to regulations prescribed under subsection (c), and provide a certificate with such names to an appointing authority that has requested a certificate of eligibles to consider when filling a job in the competitive service.
+
+(2) Minimum number of names certified.—Unless otherwise provided for in regulations prescribed under subsection (c), the number of names certified under paragraph (1) shall be not less than three.
+
+(b) Discontinuance of Certification.—When an appointing authority, for reasons considered sufficient by the Director or head of an agency, has three times considered and passed over a preference eligible who was certified from a register, the Director or head of any agency may discontinue certifying the preference eligible for appointment. The Director or the head of an agency shall provide to such preference eligible notice of the intent to discontinue certifying such preference eligible prior to the discontinuance of certification.
+
+(c) Regulations.—The Director shall prescribe regulations for the administration of this section. Such regulations shall include the establishment of mechanisms for identifying the eligibles who will be considered for each vacancy. Such mechanisms may include cut-off scores.
+
+(d) Definition.—In this section, the term “Director” means the Director of the Office of Personnel Management.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
@@ -1604,6 +1692,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 Subsec. (b). Pub. L. 96–54, § 2(a)(15), amended subsec. (b) in same manner as amendment by Pub. L. 95–454. See 1978 Amendment note set out below.
 
 1978—Subsec. (b). Pub. L. 95–454 which purported to amend [section 3317b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3317b&num=0&edition=prelim) by substituting “Office” for “Commission” was executed to subsec. (b) of this section as the probable intent of Congress.
+
+#### Effective Date of Repeal
+Pub. L. 115–232, div. A, title XI, § 1107(d), Aug. 13, 2018, 132 Stat. 2005, provided that: “(1) In general.—The amendments made by this section [enacting sections 3317 and 3318 of this title, amending sections 3319 and 3320 of this title, and repealing former sections 3317 and 3318 of this title] shall take effect on the date on which the Director of the Office of Personnel Management issues final regulations to implement sections 3317, 3318, and 3319 of title 5, United States Code, as amended or added by this section. “(2) Regulations required.—The Director shall issue regulations under paragraph (1) not later than one year after the date of enactment of this section [Aug. 13, 2018].”
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under [section 305 of this title](./chapter-003-powers.md#section-305).
@@ -1660,6 +1751,56 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2002, 2005, provided that, effective not later than one year after Aug. 13, 2018, this section is repealed. See Enactment of Section note below.
+
+#### Enactment of Section
+Pub. L. 115–232, div. A, title XI, § 1107(a), (d), Aug. 13, 2018, 132 Stat. 2003, 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, a new section 3318 is enacted to read as follows: § 3318. Competitive service; selections using numerical ratings
+
+(a) In General.—An appointing authority shall select for appointment from the eligibles certified for appointment on a certificate furnished under section 3317(a), unless objection to one or more of the individuals certified is made to, and sustained by, the Director of the Office of Personnel Management or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), for proper and adequate reason under regulations prescribed by the Director.
+
+(b) Other Appointing Authorities.—
+
+(1) In general.—During the 240-day period beginning on the date of issuance of a certificate of eligibles under section 3317(a), an appointing authority other than the appointing authority requesting the certificate (in this subsection referred to as the “other appointing authority”) may select an individual from that certificate in accordance with this subsection for an appointment to a position that is—
+
+(A) in the same occupational series as the position for which the certification of eligibles was issued (in this subsection referred to as the “original position”); and
+
+(B) at a similar grade level as the original position.
+
+(2) Applicability.—An appointing authority requesting a certificate of eligibles may share the certificate with another appointing authority only if the announcement of the original position provided notice that the resulting list of eligible candidates may be used by another appointing authority.
+
+(3) Requirements.—The selection of an individual under paragraph (1)—
+
+(A) shall be made in accordance with subsection (a); and
+
+(B) subject to paragraph (4), may be made without any additional posting under section 3327.
+
+(4) Internal notice.—Before selecting an individual under paragraph (1), the other appointing authority shall—
+
+(A) provide notice of the available position to employees of the other appointing authority;
+
+(B) provide up to 10 business days for employees of the other appointing authority to apply for the position; and
+
+(C) review the qualifications of employees submitting an application.
+
+(c) Pass Over.—
+
+(1) In general.—Subject to subparagraph (2), if an appointing authority proposes to pass over a preference eligible certified for appointment under subsection (a) and select an individual who is not a preference eligible, the appointing authority shall file written reasons with the Director or the head of the agency for passing over the preference eligible. The Director or the head of the agency shall make the reasons presented by the appointing authority part of the record of the preference eligible and may require the submission of more detailed information from the appointing authority in support of the passing over of the preference eligible. The Director or the head of the agency shall determine the sufficiency or insufficiency of the reasons submitted by the appointing authority, taking into account any response received from the preference eligible under paragraph (2). When the Director or the head of the agency has completed review of the proposed pass-over of the preference eligible, the Director or the head of the agency shall send its findings to the appointing authority and to the preference eligible. The appointing authority shall comply with the findings.
+
+(2) Preference eligible individuals who have a compensable service-connected disability.—In the case of a preference eligible described in section 2108(3)(C) who has a compensable service-connected disability of 30 percent or more, the appointing authority shall notify the Director under paragraph (1) and, at the same time, notify the preference eligible of the proposed pass-over, of the reasons for the proposed pass-over, and of the individual’s right to respond to those reasons to the Director within 15 days of the date of the notification. The Director shall, before completing the review under paragraph (1), require a demonstration by the appointing authority that the notification was timely sent to the preference eligible’s last known address.
+
+(3) Further consideration not required.—When a preference eligible, for reasons considered sufficient by the Director, or in the case of a preference eligible described in paragraph (1), by the head of an agency, has been passed over in accordance with this subsection for the same position, the appointing authority is not required to give further consideration to that preference eligible while selecting from the same list for a subsequent appointment to such position.
+
+(4) Delegation prohibition.—In the case of a preference eligible described in paragraph (2), the functions of the Director under this subsection may not be delegated to an individual who is not an officer or employee of the Office of Personnel Management.
+
+(d) Special Rule Regarding Reemployment Lists.—When the names of preference eligibles are on a reemployment list appropriate for the position to be filled, an appointing authority may appoint from a register of eligibles established after examination only an individual who qualifies as a preference eligible under subparagraph (C), (D), (E), (F), or (G) of section 2108(3).
+
+(e) Consideration Not Required.—In accordance with regulations prescribed by the Director, an appointing officer is not required to consider an eligible who has been considered by the appointing officer for three separate appointments from the same or different certificates for the same position.
+
+(f) Regulations.—The Director shall prescribe regulations for the administration of this section.
+
+(d)[sic] Definition.—In this section, the term “Director” means the Director of the Office of Personnel Management.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
@@ -1683,6 +1824,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 Subsec. (b). Pub. L. 95–454, § 307(d), designated existing provisions as par. (1), substituted provisions respecting authority of the Office with respect to the selection procedures applicable, for provisions respecting authority of the Commission with respect to the selection procedures applicable, and added pars. (2) to (4).
 
 1967—Subsec. (c). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under [section 3305 of this title](./chapter-033-examination-selection-and-placement.md#section-3305).
+
+#### Effective Date of Repeal
+Section effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for its implementation, see section 1107(d) of Pub. L. 115–232, set out as a note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
@@ -1739,6 +1883,23 @@ Pub. L. 114–137, § 2(d), Mar. 18, 2016, 130 Stat. 312, provided that: “Not 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–232, div. A, title XI, § 1107(b)(1), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this section is amended—
+
+(1) by amending the section heading to read as follows: “§ 3319. Competitive service; selection using category rating”; and
+
+(2) in subsection (c), by striking paragraph (6), redesignating paragraph (7) as paragraph (6), and amending paragraph (6) (as so redesignated) to read as follows:
+
+(6) Preference eligibles.—
+
+(A) Satisfaction of certain requirements.—Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of sections 3317(b) and 3318(c), as applicable, are satisfied.
+
+(B) Further consideration not required.—When a preference eligible, for reasons considered sufficient by the Director, or in the case of a preference eligible described in section 3318(c)(1), by the head of an agency, has been passed over in accordance with section 3318(c) for the same position, the appointing authority is not required to give further consideration to that preference eligible while selecting from the same list for a subsequent appointment to such position.
+
+(C) List of eligibles issued from a standing register; discontinuation of certification.—In the case of lists of eligibles issued from a standing register, when an appointing authority, for reasons considered sufficient by the Director or the head of an agency, has three times considered and passed over a preference eligible who was certified from a register, certification of the preference eligible for appointment may be discontinued. However, the preference eligible is entitled to advance notice of discontinuance of certification in accordance with regulations prescribed by the Director.
+
+See 2018 Amendment notes below.
+
 #### References in Text
 The General Schedule, referred to in subsec. (b), is set out under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
 
@@ -1746,11 +1907,18 @@ The General Schedule, referred to in subsec. (b), is set out under [section 5332
 A prior section 3319, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421, related to prohibitions on employment of members of same family in the competitive service, prior to repeal by Pub. L. 95–454, title III, § 307(h)(1), title IX, § 907, Oct. 13, 1978, 92 Stat. 1149, 1227, effective 90 days after Oct. 13, 1978.
 
 #### Amendments
+2018—Pub. L. 115–232, § 1107(b)(1)(A), substituted “Competitive service; selection using category rating” for “Alternative ranking and selection procedures” in section catchline.
+
+Subsec. (c)(6), (7). Pub. L. 115–232, § 1107(b)(1)(B), redesignated par. (7) as (6), amended par. (6) generally, substituting provisions designated subpars. (A) to (C) for undesignated provisions prohibiting pass over of a preference eligible unless requirements of former sections 3317(b) and 3318(c) would be satisfied, and struck out former par. (6), which related to retention of collective bargaining obligations.
+
 2016—Subsec. (c). Pub. L. 114–137 added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(1) An appointing official may select any applicant in the highest quality category or, if fewer than 3 candidates have been assigned to the highest quality category, in a merged category consisting of the highest and the second highest quality categories.
 
 “(2) Notwithstanding paragraph (1), the appointing official may not pass over a preference-eligible in the same category from which selection is made, unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for its implementation, see section 1107(d) of Pub. L. 115–232, set out as an Effective Date of Repeal note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
 
 #### Effective Date
 Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
@@ -1763,6 +1931,9 @@ The nominating or appointing authority shall select for appointment to each vaca
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–232, div. A, title XI, § 1107(b)(2), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this section is amended by striking “sections 3308–3318” and inserting “sections 3308 through 3319”. See 2018 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
@@ -1774,6 +1945,12 @@ Former sections 858 and 869 are combined and restated for clarity and to conform
 This section merely continues, and does not in any way change, the requirements in former section 858 relative to the selection of applicants for positions in the excepted service. Under this section, the Federal Bureau of Investigation and other agencies having positions in the excepted service will continue to fill those positions in the same manner that they have been filled under former section 858. Such excepted appointments are appointments authorized to be made without regard to the statutes, rules, and regulations governing appointments in the competitive service and this is not changed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+2018—Pub. L. 115–232 substituted “sections 3308 through 3319” for “sections 3308–3318”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for its implementation, see section 1107(d) of Pub. L. 115–232, set out as an Effective Date of Repeal note under [section 3317 of this title](./chapter-033-examination-selection-and-placement.md#section-3317).
 
 #### Assistance of United States Civil Service Commission in Developing Merit System for District of Columbia
 Pub. L. 93–198, title VII, § 734, Dec. 24, 1973, 87 Stat. 823, authorized the United States Civil Service Commission to advise and assist the District of Columbia Mayor and Council in the further development of the merit system or systems required by the District of Columbia charter, which was approved on May 7, 1974, and authorized the Commission to enter into agreements with the District government to make available its registers of eligibles as a recruiting source to fill District positions as needed, with the costs of any specific services furnished by the Civil Service Commission to be compensated for under the provisions of section 685a of former Title 31, Money and Finance [[31 U.S.C. 1537](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1537&num=0&edition=prelim)].
@@ -2288,7 +2465,7 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
 
 <a id="section-3330d"></a>
-## § 3330d. Appointment of certain military spouses
+## § 3330d. Appointment of military spouses
 **(a) Definitions.—** In this section:
 
 (1) The term “active duty”—
@@ -2305,25 +2482,7 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
   (B) does not include the Government Accountability Office.
 
-(3) The term “geographic area of the permanent duty station” means the area from which individuals reasonably can be expected to travel daily to and from work at the location of a member’s permanent duty station.
-
-(4) The term “permanent change of station” means the assignment, detail, or transfer of a member of the Armed Forces who is on active duty and serving at a permanent duty station under a competent authorization or order that does not—
-
-  (A) specify the duty as temporary;
-
-  (B) provide for assignment, detail, or transfer, after that different permanent duty station, to a further different permanent duty station; or
-
-  (C) direct return to the initial permanent duty station.
-
-(5) The term “relocating spouse of a member of the Armed Forces” means an individual who—
-
-  (A) is married to a member of the Armed Forces (on or prior to a permanent change of station of the member) who is ordered to active duty for a period of more than 180 consecutive days;
-
-  (B) relocates to the member’s permanent duty station; and
-
-  (C) before relocating as described in subparagraph (B), resided outside the geographic area of the permanent duty station.
-
-(6) The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
+(3) The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
 
   (A) who is married to a member of the Armed Forces who—
 
@@ -2339,31 +2498,89 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
 **(b) Appointment Authority.—** The head of an agency may appoint noncompetitively—
 
-(1) a relocating spouse of a member of the Armed Forces; or
+(1) a spouse of a member of the Armed Forces on active duty; or
 
 (2) a spouse of a disabled or deceased member of the Armed Forces.
 
-**(c) Special Rules Regarding Relocating Spouse.—**
+**(c) Special Rules Regarding Spouse of a Disabled or Deceased Member of the Armed Forces.—**
 
-(1) **In general.—** — An appointment of a relocating spouse of a member of the Armed Forces under this section may only be to a position the duty station for which is within the geographic area of the permanent duty station of the member of the Armed Forces, unless there is no agency with a position with a duty station within the geographic area of the permanent duty station of the member of the Armed Forces.
-
-(2) **Single permanent appointment per duty station.—** — A relocating spouse of a member of the Armed Forces may not receive more than 1 permanent appointment under this section for each time the spouse relocates as described in subparagraphs (B) and (C) of subsection (a)(5).
-
-(3) **No time limitation on appointment.—** — A relocating spouse of a member of the Armed Forces remains eligible for noncompetitive appointment under this section for the duration of the spouse’s relocation to the permanent duty station of the member.
-
-**(d) Special Rules Regarding Spouse of a Disabled or Deceased Member of the Armed Forces.—**
-
-(1) **In general.—** — An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(6) is not restricted to a geographical area.
+(1) **In general.—** — An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(3) is not restricted to a geographical area.
 
 (2) **Single permanent appointment.—** — A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.
 
 ### Statutory Notes
 
+#### Amendment of Section
+For expiration of amendment by Pub. L. 115–232 and revival of section, see Termination Date of 2018 Amendment note below.
+
 #### Amendments
+2018—Pub. L. 115–232, § 573(c), (e), temporarily amended section catchline generally, substituting “Appointment of military spouses” for “Appointment of certain military spouses”. See Termination Date of 2018 Amendment note below.
+
+Subsec. (a)(3) to (6). Pub. L. 115–232, § 573(a)(1), (e), temporarily redesignated par. (6) as (3) and temporarily struck out former pars. (3) to (5) which defined geographic area of the permanent duty station, permanent change of station, and relocating spouse of a member of the Armed Forces, respectively. See Termination Date of 2018 Amendment note below.
+
+Subsecs. (b) to (d). Pub. L. 115–232, § 573(a)(2)–(4), (e), temporarily added subsec. (b) relating to appointment authority, temporarily redesignated subsec. (d) as (c) and substituted “subsection (a)(3)” for “subsection (a)(6)” in par. (1), and temporarily struck out former subsecs. (b) and (c) relating to appointment authority and special rules regarding relocating spouse, respectively. See Termination Date of 2018 Amendment note below.
+
 2016—Subsec. (c)(3). Pub. L. 114–328 added par. (3).
+
+#### Termination Date of 2018 Amendment
+Pub. L. 115–232, div. A, title V, § 573(e), Aug. 13, 2018, 132 Stat. 1779, provided that: “Effective on the date that is 5 years after the date of the enactment of this Act [Aug. 13, 2018]— “(1) the authority provided by this section [amending this section and enacting provisions set out as a note below], and the amendments made by this section [amending this section], shall expire; and “(2) the provisions of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, amended or repealed by such section are restored or revived as if such section had not been enacted.”
 
 #### Regulations
 Pub. L. 112–239, div. A, title V, § 566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: “Not later than 180 after the date of the enactment of this Act [Jan. 2, 2013], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) [enacting this section] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a).”
+
+#### OPM Limitation and Reports
+Pub. L. 115–232, div. A, title V, § 573(d), Aug. 13, 2018, 132 Stat. 1779, provided that: “(1) Relocating spouses.—With respect to the noncompetitive appointment of a relocating spouse of a member of the Armed Forces under subsection (b)(1) of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, as amended by subsection (a), the Director of the Office of Personnel Management—“(A) shall monitor the number of such appointments; “(B) shall require the head of each agency with authority to make such appointments under such section to submit an annual report to the Director on such appointments, including information on the number of individuals so appointed, the types of positions filled, and the effectiveness of the authority for such appointments; and “(C) not later than 18 months after the date of the enactment of this Act [Aug. 13, 2018], shall submit a report to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Government Affairs of the Senate on the use and effectiveness of such authority. “(2) Non-relocating spouses.—With respect to the noncompetitive appointment of a spouse of a member of the Armed Forces other than a relocating spouse described in paragraph (1), the Director of the Office of Personnel Management—“(A) shall treat the spouse as a relocating spouse under paragraph (1); and “(B) may limit the number of such appointments.”
+
+#### Ex. Ord. No. 13832. Enhancing Noncompetitive Civil Service Appointments of Military Spouses
+Ex. Ord. No. 13832, May 9, 2018, 83 F.R. 22343, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 1784 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1784&num=0&edition=prelim), United States Code, and sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. Definitions. (a) “Military spouse” means:
+
+(i) the husband or wife of a member of the Armed Forces who, as determined by the Secretary of Defense, is performing active duty pursuant to orders that authorize a permanent change of station move, if such husband or wife relocates to the member’s new permanent duty station;
+
+(ii) the husband or wife of a totally disabled retired or separated member of the Armed Forces; or
+
+(iii) the unremarried widow or widower of a member of the Armed Forces killed while performing active duty.
+
+(b) “Member of the Armed Forces” has the meaning set forth in 5 CFR 315.612(b)(4).
+
+(c) “Agency” has the meaning set forth in [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code.
+
+(d) “Military spouse hiring authority” shall refer to the appointment authority set forth in [5 U.S.C. 3330d](./chapter-033-examination-selection-and-placement.md#section-3330d) and 5 CFR 315.612.
+
+Sec. 2. Policy. (a) Military spouses make critical contributions to the personal and financial success of our military families. Military service of spouses, however, often impairs the spouse’s ability to obtain and maintain employment, and to achieve career goals. Multiple and frequent relocations make it challenging for military spouses to maintain the home front, to comply with licensure and other job requirements, and to obtain adequate childcare.
+
+(b) It shall be the policy of the United States to enhance employment support for military spouses. This policy will assist agencies in tapping into a pool of talented individuals and will promote the national interest of the United States and the well-being of our military families. It will also help retain members of the Armed Forces, enhance military readiness, recognize the tremendous sacrifices and service of the members of our Armed Forces and their families, and decrease the burden of regulations that can inhibit the entry of military spouses into the workforce.
+
+Sec. 3. Promoting Hiring for Military Spouses. (a) To the greatest extent possible consistent with hiring needs, agencies shall, when filling vacant positions in the competitive service, indicate in job opportunity announcements (JOAs) that they will consider candidates under the military spouse hiring authority in addition to candidates identified on the competitive or merit promotion certificate for the position as well as those candidates identified through any other hiring authority a JOA indicates an agency will consider.
+
+(b) Agencies shall actively advertise and promote the military spouse hiring authority and actively solicit applications from military spouses for posted and other agency positions (including through USAJOBS).
+
+(c) The Office of Personnel Management (OPM) shall consider whether changes to 5 CFR 315.612 are appropriate to account for cases in which there are no agency job openings within the geographic area of the permanent duty station of the member of the Armed Forces for which the member’s spouse is qualified.
+
+(d) OPM shall also periodically circulate notifications concerning the military spouse hiring authority and its eligibility requirements to each agency’s Chief Human Capital Officer or the agency’s equivalent officer, for such officer to transmit to appropriate offices and to notify eligible populations. Within 180 days of the date of this order [May 9, 2018], OPM shall post to its website, and circulate to each agency’s Chief Human Capital Officer or the agency’s equivalent officer, information about the military spouse hiring authority. That posting shall include a discussion of section 1131 of the National Defense Authorization Act for Fiscal Year 2017, Public Law 114–328, which amended [5 U.S.C. 3330d(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3330d/c&num=0&edition=prelim) to eliminate the time limitation on noncompetitive appointment for a relocating spouse of a member of the Armed Forces.
+
+(e) Within 180 days of the date of this order, OPM shall educate agencies concerning the military spouse hiring authority and ensure human resources personnel and hiring managers are briefed on techniques for its effective use. Concurrently, within 180 days of the date of this order, OPM shall provide any additional clarifying guidance it deems appropriate to agencies on provisions of the Telework Enhancement Act of 2010, Public Law 111–292 [enacting chapter 65 and [section 5711 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5711) and provisions set out as a note under [section 6501 of this title](./chapter-065-telework.md#section-6501) and amending provisions set out as a note and provisions listed in a table under [section 6120 of this title](./chapter-061-hours-of-work.md#section-6120)], and agencies shall ensure that human resources personnel and hiring managers are briefed as needed on techniques for the effective use of telework.
+
+(f) Beginning in Fiscal Year 2019, agencies shall report annually (by December 31 of each year) to OPM and the Department of Labor the number of positions made available under the military spouse hiring authority, the number of applications submitted under the military spouse hiring authority, and the number of military spouses appointed under the military spouse hiring authority during the preceding fiscal year. Such report shall also describe actions taken during that period to advertise the military spouse hiring authority, as well as any other actions taken to promote the hiring of military spouses.
+
+Sec. 4. Administrative Provisions. (a) The Director of OPM shall administer this order and shall, in coordination with the Secretary of Labor, through the Assistant to the President for Domestic Policy, provide an annual report to the President regarding the implementation of this order and any recommendations for improving the hiring of military spouses, including steps to enhance the effectiveness of the military spouse hiring authority.
+
+(b) The annual report described in subsection (a) of this section shall also include recommendations, developed in consultation with the Secretary of Defense and the Secretary of Homeland Security, for actions that could be taken to improve license portability and remove barriers to the employment of military spouses.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-3330e"></a>
@@ -2707,7 +2924,9 @@ Ex. Ord. No. 13243, Dec. 18, 2001, 66 F.R. 66262, as amended by Ex. Ord. No. 132
 Ex. Ord. No. 11274, Mar. 30, 1966, 31 F.R. 5243, as amended by Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, revoked by Ex. Ord. No. 13243, § 4, Dec. 18, 2001, 66 F.R. 66263.
 
 #### Department of Justice
-Ex. Ord. No. 13775, Feb. 9, 2017, 82 F.R. 10697.
+Ex. Ord. No. 13787, Mar. 31, 2017, 82 F.R. 16723.
+
+Ex. Ord. No. 13775, Feb. 9, 2017, 82 F.R. 10697, revoked by Ex. Ord. No. 13787, § 3, Mar. 31, 2017, 82 F.R. 16723.
 
 Ex. Ord. No. 13762, Jan. 13, 2017, 82 F.R. 7619, revoked by Ex. Ord. No. 13775, § 3, Feb. 9, 2017, 82 F.R. 10697.
 
@@ -3860,6 +4079,9 @@ Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and
 
 #### Effective Date
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+
+#### Temporary Inapplicability of Certification of Executive Qualifications by Qualification Review Boards of Office of Personnel Management
+Pub. L. 115–232, div. A, title XI, § 1109, Aug. 13, 2018, 132 Stat. 2010, provided that: “(a) Temporary Inapplicability.—Notwithstanding [section 3393(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/c&num=0&edition=prelim), United States Code, or any regulations implementing that section, and subject to the provisions of this section, the Secretary of Defense may appoint individuals for service in the Senior Executive Service of the Department of Defense without such individuals being subject to the certification of executive qualifications by a qualification review board of the Office of Personnel Management in connection with such appointment otherwise required by that section. “(b) Qualifications of Individuals Appointed.—The Secretary shall ensure that individuals appointed under this section possess the necessary qualifications and experience for the position to which appointed. “(c) Limitation.—The total number of appointments made under this section in any year may not exceed 50 appointments. “(d) Reports.—“(1) Initial report.—Not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the number and type of appointments made under this section as of the date of the report, including—“(A) a description of the qualifications of the individuals appointed; and “(B) data on the time required to appoint the individuals. “(2) Final report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the use of the authority in this section. The report shall include the following:“(A) The number and type of appointments made under this section during the one-year period ending on the date of the report. “(B) Data on and an assessment whether appointments under the authority in this section reduced the time to hire when compared with the time to hire under the current review system of the Office of Personnel Management. “(C) An assessment of the utility of the appointment authority and process under this section. “(D) An assessment whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service of the Department when compared with the executives produced under the current review system of the Office of Personnel Management. “(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service. “(3) Committees of congress and official.—The committees of Congress and official specified in this paragraph are—“(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Armed Services and the Committee on Oversight and Government Reform of the House of Representatives; and “(C) the Director of the Office of Personnel Management. “(e) Sunset.—Subsection (a) shall cease to be effective on the date that is two years after the date of the enactment of this Act.”
 
 
 <a id="section-3393a"></a>

@@ -44,7 +44,7 @@ Pub. L. 108–21, title IV, § 401(n)(2), Apr. 30, 2003, 117 Stat. 676, provided
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section13&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Effective Date
-Chapter effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as a note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Composition of Members of Commission During First Five-Year Period
 For provisions directing that, notwithstanding the provisions of this section, during the five-year period following Oct. 12, 1984, the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
@@ -94,6 +94,9 @@ Subsec. (c). Pub. L. 103–322, § 280005(b), (c)(3), amended first sentence gen
 
 Subsec. (d). Pub. L. 99–646, § 6(a), added subsec. (d).
 
+#### Effective Date
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
+
 #### Commencement of Terms of First Members of Commission
 For provisions directing that, for purposes of subsec. (a) of this section, the terms of the first members of the United States Sentencing Commission shall not begin to run until the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of Pub. L. 98–473, see section 235(a)(2) of Pub. L. 98–473, both of which are set out as an Effective Date note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
 
@@ -119,6 +122,9 @@ The Chair shall—
 1986—Subsec. (b)(2). Pub. L. 99–646 struck out provision that, before appointment of first Chairman, Administrative Office of the United States Courts may make requests for appropriations for Commission.
 
 1985—Subsec. (b)(2). Pub. L. 99–22 inserted provision authorizing the Administrative Office of the United States Courts to make requests for appropriations for the Commission before the appointment of the first Chairman of the Commission.
+
+#### Effective Date
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 
 <a id="section-994"></a>
@@ -372,6 +378,9 @@ Subsecs. (v) to (x). Pub. L. 99–570, § 1008(2), redesignated former subsecs. 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under [section 3006A of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3006A&num=0&edition=prelim), Crimes and Criminal Procedure.
 
+#### Effective Date
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
+
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 13 of House Document No. 103–7.
 
@@ -444,7 +453,7 @@ Pub. L. 108–21, title V, § 513(c), Apr. 30, 2003, 117 Stat. 685.—Activities
 
 Pub. L. 108–21, title VI, § 608(e), Apr. 30, 2003, 117 Stat. 691.—Offenses involving gamma hydroxybutyric acid (GHB).
 
-Pub. L. 107–296, title II, § 225(b), Nov. 25, 2002, 116 Stat. 2156.—Computer fraud.
+Pub. L. 107–296, title XXII, § 2207(b), formerly title II, § 225(b), Nov. 25, 2002, 116 Stat. 2156, renumbered § 2207(b), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.—Computer fraud.
 
 Pub. L. 107–273, div. C, title I, § 11008(e), Nov. 2, 2002, 116 Stat. 1819.—Assaults and threats against Federal judges and certain other Federal officials and employees.
 
@@ -666,6 +675,9 @@ Subsec. (a)(24). Pub. L. 100–690, § 7106(b), added par. (24).
 #### Termination Date of 2008 Amendment
 Pub. L. 110–177, title V, § 501(b), Jan. 7, 2008, 121 Stat. 2542, provided that: “The amendment made by subsection (a) [amending this section] shall cease to have force and effect on September 30, 2010.”
 
+#### Effective Date
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
+
 
 <a id="section-996"></a>
 ## § 996. Director and staff
@@ -684,6 +696,9 @@ Pub. L. 110–177, title V, § 501(b), Jan. 7, 2008, 121 Stat. 2542, provided th
 
 1988—Subsec. (b). Pub. L. 100–690 inserted reference to chapter 45 (Incentive Awards).
 
+#### Effective Date
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
+
 #### Savings Provision
 Pub. L. 106–518, title III, § 302(b), Nov. 13, 2000, 114 Stat. 2417, provided that: “Any leave that an individual accrued or accumulated (or that otherwise became available to such individual) under the leave system of the United States Sentencing Commission and that remains unused as of the date of the enactment of this Act [Nov. 13, 2000] shall, on and after such date, be treated as leave accrued or accumulated (or that otherwise became available to such individual) under chapter 63 of title 5, United States Code.”
 
@@ -694,6 +709,9 @@ Pub. L. 106–518, title III, § 302(b), Nov. 13, 2000, 114 Stat. 2417, provided
 The Commission shall report annually to the Judicial Conference of the United States, the Congress, and the President of the United States on the activities of the Commission.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in this section relating to requirement to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 13 of House Document No. 103–7.
@@ -711,3 +729,8 @@ As used in this chapter—
 **(c)** “guidelines” means the guidelines promulgated by the Commission pursuant to [section 994(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a&num=0&edition=prelim); and
 
 **(d)** “rules and regulations” means rules and regulations promulgated by the Commission pursuant to [section 995 of this title](./chapter-058-united-states-sentencing-commission.md#section-995).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.

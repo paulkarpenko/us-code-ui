@@ -2,7 +2,7 @@
 title: 18
 chapter: '117'
 heading: TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES
-section_count: 8
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -20,6 +20,24 @@ source: >-
 
 #### Prior Provisions
 A prior section 2421, act June 25, 1948, ch. 645, 62 Stat. 812; May 24, 1949, ch. 139, § 47, 63 Stat. 96; Pub. L. 99–628, § 5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 105–314, title I, § 106, Oct. 30, 1998, 112 Stat. 2977, related to transportation of individuals generally, prior to repeal by Pub. L. 114–22, title III, § 303, May 29, 2015, 129 Stat. 255.
+
+
+<a id="section-2421a"></a>
+## § 2421A. Promotion or facilitation of prostitution and reckless disregard of sex trafficking
+**(a) In General.—** Whoever, using a facility or means of interstate or foreign commerce or in or affecting interstate or foreign commerce, owns, manages, or operates an interactive computer service (as such term is defined in defined in 11 So in original. section 230(f) the Communications Act of 1934 ([47 U.S.C. 230(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230/f&num=0&edition=prelim))), or conspires or attempts to do so, with the intent to promote or facilitate the prostitution of another person shall be fined under this title, imprisoned for not more than 10 years, or both.
+
+**(b) Aggravated Violation.—** Whoever, using a facility or means of interstate or foreign commerce or in or affecting interstate or foreign commerce, owns, manages, or operates an interactive computer service (as such term is defined in defined in 1 section 230(f) the Communications Act of 1934 ([47 U.S.C. 230(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230/f&num=0&edition=prelim))), or conspires or attempts to do so, with the intent to promote or facilitate the prostitution of another person and—
+
+(1) promotes or facilitates the prostitution of 5 or more persons; or
+
+(2) acts in reckless disregard of the fact that such conduct contributed to sex trafficking, in violation of 22 So in original. Probably should be followed by “section”. 1591(a),
+shall be fined under this title, imprisoned for not more than 25 years, or both.
+
+**(c) Civil Recovery.—** Any person injured by reason of a violation of section 2421A(b) may recover damages and reasonable attorneys’ fees in an action before any appropriate United States district court.
+
+**(d) Mandatory Restitution.—** Notwithstanding sections 33 So in original. Probably should be “section”. 3663 or 3663A and in addition to any other civil or criminal penalties authorized by law, the court shall order restitution for any violation of subsection (b)(2). The scope and nature of such restitution shall be consistent with section 2327(b).
+
+**(e) Affirmative Defense.—** It shall be an affirmative defense to a charge of violating subsection (a), or subsection (b)(1) where the defendant proves, by a preponderance of the evidence, that the promotion or facilitation of prostitution is legal in the jurisdiction where the promotion or facilitation was targeted.
 
 
 <a id="section-2422"></a>
@@ -65,11 +83,11 @@ Subsec. (b). Pub. L. 105–314, § 102(2), added subsec. (b) and struck out form
 ## § 2423. Transportation of minors
 **(a) Transportation With Intent To Engage in Criminal Sexual Activity.—** A person who knowingly transports an individual who has not attained the age of 18 years in interstate or foreign commerce, or in any commonwealth, territory or possession of the United States, with intent that the individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title and imprisoned not less than 10 years or for life.
 
-**(b) Travel With Intent To Engage in Illicit Sexual Conduct.—** A person who travels in interstate commerce or travels into the United States, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, for the purpose of engaging in any illicit sexual conduct with another person shall be fined under this title or imprisoned not more than 30 years, or both.
+**(b) Travel With Intent To Engage in Illicit Sexual Conduct.—** A person who travels in interstate commerce or travels into the United States, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, with a motivating purpose of engaging in any illicit sexual conduct with another person shall be fined under this title or imprisoned not more than 30 years, or both.
 
 **(c) Engaging in Illicit Sexual Conduct in Foreign Places.—** Any United States citizen or alien admitted for permanent residence who travels in foreign commerce or resides, either temporarily or permanently, in a foreign country, and engages in any illicit sexual conduct with another person shall be fined under this title or imprisoned not more than 30 years, or both.
 
-**(d) Ancillary Offenses.—** Whoever, for the purpose of commercial advantage or private financial gain, arranges, induces, procures, or facilitates the travel of a person knowing that such a person is traveling in interstate commerce or foreign commerce for the purpose of engaging in illicit sexual conduct shall be fined under this title, imprisoned not more than 30 years, or both.
+**(d) Ancillary Offenses.—** Whoever, for the purpose of commercial advantage or private financial gain, arranges, induces, procures, or facilitates the travel of a person knowing that such a person is traveling in interstate commerce or foreign commerce with a motivating purpose of engaging in illicit sexual conduct shall be fined under this title, imprisoned not more than 30 years, or both.
 
 **(e) Attempt and Conspiracy.—** Whoever attempts or conspires to violate subsection (a), (b), (c), or (d) shall be punishable in the same manner as a completed violation of that subsection.
 
@@ -97,6 +115,10 @@ Words “Possession of the United States” were inserted twice. (See reviser’
 Minor changes were made in phraseology.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–392, § 14(1), substituted “with a motivating purpose” for “for the purpose”.
+
+Subsec. (d). Pub. L. 115–392, § 14(2), substituted “with a motivating purpose of engaging” for “for the purpose of engaging”.
+
 2015—Subsec. (f). Pub. L. 114–22, § 111(a), inserted a dash after “means”, designated existing provisions containing designations (1) and (2) as pars. (1) and (2), and added par. (3).
 
 Subsec. (g). Pub. L. 114–22, § 111(b), substituted “clear and convincing evidence” for “a preponderance of the evidence”.
@@ -189,7 +211,7 @@ Whoever, using the mail or any facility or means of interstate or foreign commer
 
 <a id="section-2426"></a>
 ## § 2426. Repeat offenders
-**(a) Maximum Term of Imprisonment.—** The maximum term of imprisonment for a violation of this chapter after a prior sex offense conviction shall be twice the term of imprisonment otherwise provided by this chapter, unless section 3559(e) applies.
+**(a) Maximum Term of Imprisonment.—** The maximum term of imprisonment for a violation of this chapter after a prior sex offense conviction shall be 3 times the term of imprisonment otherwise provided by this chapter, unless section 3559(e) applies.
 
 **(b) Definitions.—** In this section—
 
@@ -197,13 +219,17 @@ Whoever, using the mail or any facility or means of interstate or foreign commer
 
   (A) under this chapter, chapter 109A, chapter 110, or section 1591; or
 
-  (B) under State law for an offense consisting of conduct that would have been an offense under a chapter referred to in paragraph (1) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States; and
+  (B) under State law for an offense consisting of conduct that would have been an offense under a chapter referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States; and
 
 (2) the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–392, § 11(2)(A), substituted “3 times” for “twice”.
+
+Subsec. (b)(1)(B). Pub. L. 115–392, § 11(2)(B), substituted “subparagraph (A)” for “paragraph (1)”.
+
 2008—Subsec. (b)(1)(A). Pub. L. 110–457 substituted “chapter 110, or section 1591” for “or chapter 110”.
 
 2003—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
@@ -232,3 +258,20 @@ In this chapter, the term “sexual activity for which any person can be charged
   (B) Any property, real or personal, that constitutes or is derived from proceeds traceable to any violation of this chapter.
 
 (2) **Applicability of chapter 46.—** — The provisions of chapter 46 of this title relating to civil forfeitures shall apply to any seizure or civil forfeiture under this subsection.
+
+
+<a id="section-2429"></a>
+## § 2429. Mandatory restitution
+**(a)** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
+
+**(b)**
+
+(1) The order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim’s losses, as determined by the court under paragraph (3), and shall additionally require the defendant to pay the greater of the gross income or value to the defendant of the victim’s services, if the services constitute commercial sex acts as defined under section 1591.
+
+(2) An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
+
+(3) As used in this subsection, the term “full amount of the victim’s losses” has the same meaning as provided in section 2259(b)(3).
+
+**(c)** The forfeiture of property under this section shall be governed by the provisions of section 413 (other than subsection (d) of such section) of the Controlled Substances Act ([21 U.S.C. 853](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim)).
+
+**(d)** As used in this section, the term “victim” means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of the victim’s estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.

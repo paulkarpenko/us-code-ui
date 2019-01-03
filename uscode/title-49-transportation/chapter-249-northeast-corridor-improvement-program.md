@@ -482,9 +482,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
   (G) other individuals and organizations the Secretary decides have a significant interest in rail safety or security.
 
-(2) **Function; meetings.—** — The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security.
-
-(3) **Report.—** — At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations.
+(2) **Sunset.—** — The Committee established under this subsection ceases to exist on the date that the Secretary determines positive train control, as required by section 20157, is fully implemented along the Northeast Corridor.
 
 ### Statutory Notes
 
@@ -512,6 +510,10 @@ Section 203 of the Passenger Rail Investment and Improvement Act of 2008, referr
 Section 11101(g) of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (d), is section 11101(g) of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1623, which is not classified to the Code.
 
 #### Amendments
+2019—Subsec. (e)(2). Pub. L. 115–420, § 6(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security.”
+
+Subsec. (e)(3). Pub. L. 115–420, § 4(a), struck out par. (3). Text read as follows: “At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations.”
+
 2015—Pub. L. 114–94, § 11305(d)(1)(A), struck out “Infrastructure and Operations Advisory” after “Corridor” in section catchline.
 
 Subsec. (a). Pub. L. 114–94, § 11305(d)(1)(B)(i), struck out “Infrastructure and Operations Advisory” after “Corridor” in heading.
@@ -835,6 +837,8 @@ Pub. L. 113–158, Aug. 8, 2014, 128 Stat. 1838, provided that: “SECTION 1. RE
 
   (C) representatives of Amtrak, the Alaska Railroad, freight railroads, transit operating agencies, intercity rail passenger agencies, railway labor organizations, and environmental organizations.
 
+(3) **Sunset.—** — The advisory board established under this subsection ceases to exist effective January 1, 2019.
+
 **(d) National Academy of Sciences.—** The Secretary may make grants to, and enter into cooperative agreements with, the National Academy of Sciences to carry out such activities relating to the research, technology, and technology transfer activities described in subsection (b) as the Secretary deems appropriate.
 
 **(e) Authorization of Appropriations.—** There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 for carrying out this section.
@@ -842,6 +846,8 @@ Pub. L. 113–158, Aug. 8, 2014, 128 Stat. 1838, provided that: “SECTION 1. RE
 ### Statutory Notes
 
 #### Amendments
+2019—Subsec. (c)(3). Pub. L. 115–420 added par. (3).
+
 2015—Subsec. (b)(14). Pub. L. 114–94 added par. (14).
 
 #### Effective Date of 2015 Amendment
@@ -944,7 +950,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 **(e) Northeast Corridor Projects.—**
 
-(1) **Compliance with usage agreements.—** — Grant funds may not be provided under this section to an eligible recipient for an eligible project located on the Northeast Corridor unless Amtrak and the public authorities providing commuter rail passenger transportation on the Northeast Corridor are in compliance with section 24905(c)(2).
+(1) **Compliance with usage agreements.—** — Grant funds may not be provided under this section to an eligible recipient for an eligible project located on the Northeast Corridor unless Amtrak and the public authorities providing commuter rail passenger transportation at the eligible project location on the Northeast Corridor are in compliance with section 24905(c)(2).
 
 (2) **Capital investment plan.—** — When selecting projects located on the Northeast Corridor, the Secretary shall consider the appropriate sequence and phasing of projects as contained in the Northeast Corridor capital investment plan developed pursuant to section 24904(a).
 
@@ -992,12 +998,17 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 **(h) Availability.—** Amounts appropriated for carrying out this section shall remain available until expended.
 
-**(i) Grant Conditions.—** Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under section 24405.
+**(i) Grant Conditions.—** Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under section 22905.
 
 ### Statutory Notes
 
 #### References in Text
 The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a)(5)(C), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Amendments
+2019—Subsec. (i). Pub. L. 115–420 substituted “22905” for “24405”.
+
+2018—Subsec. (e)(1). Pub. L. 115–141 substituted “transportation at the eligible project location” for “transportation”.
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

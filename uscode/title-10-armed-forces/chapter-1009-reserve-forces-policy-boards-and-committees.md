@@ -94,11 +94,11 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 (1) five members of the Regular Army on duty with the Army General Staff;
 
-(2) five members of the Army National Guard of the United States not on active duty; and
+(2) five members of the Army National Guard of the United States; and
 
-(3) five members of the Army Reserve not on active duty.
+(3) five members of the Army Reserve.
 
-**(c)** The members of the Committee shall select the Chairman from among the members on the Committee not on active duty.
+**(c)** The members of the Committee shall select the Chairman from among the members of the reserve components on the Committee.
 
 **(d)** A majority of the members of the Committee shall act whenever matter affecting both the Army National Guard of the United States and Army Reserve are being considered. However, when any matter solely affecting one of the reserve components of the Army is being considered, it shall be acted upon only by the Subcommittee on Army National Guard Policy or the Subcommittee on Army Reserve Policy, as appropriate.
 
@@ -128,9 +128,13 @@ In subsection (e), the words “For the purpose specified herein” are omitted 
 The change is necessary to make subsection (d) coextensive with subsection (c), to which it was a proviso in the source law, the Act of June 3, 1916, chapter 134, section 5 (1st sentence of 2d par.) (formerly [10 U.S.C. 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section38&num=0&edition=prelim) (1st sentence of 2d par.)).
 
 #### Amendments
-1994—Pub. L. 103–337 renumbered [section 3021 of this title](./chapter-303-department-of-the-army.md#section-3021) as this section.
+2018—Subsec. (b)(2), (3). Pub. L. 115–232, § 516(1), struck out “not on active duty” after “United States” in par. (2) and after “Army Reserve” in par. (3).
 
-1986—Pub. L. 99–433, § 501(a)(8)(C), renumbered [section 3033 of this title](./chapter-305-the-army-staff.md#section-3033) as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
+Subsec. (c). Pub. L. 115–232, § 516(2), inserted “of the reserve components” after “among the members” and struck out “not on active duty” before period at end.
+
+1994—Pub. L. 103–337 renumbered [section 3021 of this title](./chapter-203-general-matters.md#section-3021) as this section.
+
+1986—Pub. L. 99–433, § 501(a)(8)(C), renumbered [section 3033 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3033&num=0&edition=prelim) as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
 
 Subsec. (a). Pub. L. 99–433, § 501(a)(8)(A), substituted “Office” for “office” and “Committee. The Committee” for “Committee which”, inserted “and the mobilization preparedness”, and substituted “Army. The” for “Army, and the” and “Secretary of the Army and the Chief of Staff” for “Chief of Staff and the Assistant Secretary responsible for reserve affairs”.
 
@@ -225,9 +229,9 @@ In subsection (g), the word “perform” is substituted for the words “be cha
 The change is necessary to make subsection (d) coextensive with subsection (c), to which it was a proviso in the source law, the Act of June 3, 1916, chapter 134, section 5 (1st sentence of 2d par.) (formerly [10 U.S.C. 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section38&num=0&edition=prelim) (1st sentence of 2d par.)).
 
 #### Amendments
-1994—Pub. L. 103–337 renumbered [section 8021 of this title](./chapter-803-department-of-the-air-force.md#section-8021) as this section.
+1994—Pub. L. 103–337 renumbered [section 8021 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8021&num=0&edition=prelim) as this section.
 
-1986—Pub. L. 99–433, § 521(a)(6)(C), renumbered [section 8033 of this title](./chapter-805-the-air-staff.md#section-8033) as this section, and substituted “Air Force Reserve Forces Policy Committee” for “Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard” in section catchline.
+1986—Pub. L. 99–433, § 521(a)(6)(C), renumbered [section 8033 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8033) as this section, and substituted “Air Force Reserve Forces Policy Committee” for “Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard” in section catchline.
 
 Subsec. (a). Pub. L. 99–433, § 521(a)(6)(A), substituted “Policy. The Committee” for “Policy which”, inserted “and the mobilization preparedness”, and substituted “Air Force. The” for “Air Force and the” and “Secretary of the Air Force and the Chief of Staff” for “Chief of Staff, and the Assistant Secretary responsible for reserve affairs”.
 

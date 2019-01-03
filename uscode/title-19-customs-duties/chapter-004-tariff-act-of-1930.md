@@ -2,7 +2,7 @@
 title: 19
 chapter: '4'
 heading: TARIFF ACT OF 1930
-section_count: 306
+section_count: 309
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19&num=0&edition=prelim
 ---
@@ -4240,6 +4240,189 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
+<a id="section-1415"></a>
+## § 1415. Mandatory advance electronic information for cargo and other improved customs reporting procedures
+**(a) Cargo information**
+
+(1) **In general**
+
+  (A) Subject to paragraphs (2) and (3), the Secretary is authorized to promulgate regulations providing for the transmission to the Customs Service, through an electronic data interchange system, of information pertaining to cargo to be brought into the United States or to be sent from the United States, prior to the arrival or departure of the cargo.
+
+  (B) The Secretary shall endeavor to promulgate an initial set of regulations under subparagraph (A) not later than October 1, 2003.
+
+(2) **Information required** — The cargo information required by the regulations promulgated pursuant to paragraph (1) under the parameters set forth in paragraph (3) shall be such information on cargo as the Secretary determines to be reasonably necessary to ensure cargo safety and security pursuant to those laws enforced and administered by the Customs Service. The Secretary shall provide to appropriate Federal departments and agencies cargo information obtained pursuant to paragraph (1).
+
+(3) **Parameters** — In developing regulations pursuant to paragraph (1), the Secretary shall adhere to the following parameters:
+
+  (A) The Secretary shall solicit comments from and consult with a broad range of parties likely to be affected by the regulations, including importers, exporters, carriers, customs brokers, and freight forwarders, among other interested parties.
+
+  (B) In general, the requirement to provide particular information shall be imposed on the party most likely to have direct knowledge of that information. Where requiring information from the party with direct knowledge of that information is not practicable, the regulations shall take into account how, under ordinary commercial practices, information is acquired by the party on which the requirement is imposed, and whether and how such party is able to verify the information. Where information is not reasonably verifiable by the party on which a requirement is imposed, the regulations shall permit that party to transmit information on the basis of what it reasonably believes to be true.
+
+  (C) The Secretary shall take into account the existence of competitive relationships among the parties on which requirements to provide particular information are imposed.
+
+  (D) Where the regulations impose requirements on carriers of cargo, they shall take into account differences among different modes of transportation, including differences in commercial practices, operational characteristics, and technological capacity to collect and transmit information electronically.
+
+  (E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
+
+  (F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security, preventing smuggling, and commercial risk assessment targeting, and shall not be used for any commercial enforcement purposes, including for determining merchandise entry. Notwithstanding the preceding sentence, nothing in this section shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 [[19 U.S.C. 1401](./chapter-004-tariff-act-of-1930.md#section-1401) et seq.] or regulations promulgated thereunder.
+
+  (G) The regulations shall protect the privacy of business proprietary and any other confidential cargo information provided to the Customs Service pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 [[19 U.S.C. 1431](./chapter-004-tariff-act-of-1930.md#section-1431)] and required to be available for public disclosure pursuant to section 431(c) of such Act..11 So in original.
+
+  (H) In determining the timing for transmittal of any information, the Secretary shall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
+
+  (I) Where practicable, the regulations shall avoid imposing requirements that are redundant with one another or that are redundant with requirements in other provisions of law.
+
+  (J) The Secretary shall determine whether it is appropriate to provide transition periods between promulgation of the regulations and the effective date of the regulations and shall prescribe such transition periods in the regulations, as appropriate. The Secretary may determine that different transition periods are appropriate for different classes of affected parties.
+
+  (K)
+
+    (i) The Secretary shall prescribe regulations requiring the United States Postal Service to transmit the information described in paragraphs (1) and (2) to the Commissioner of U.S. Customs and Border Protection for international mail shipments by the Postal Service (including shipments to the Postal Service from foreign postal operators that are transported by private carrier) consistent with the requirements of this subparagraph.
+
+    (ii) In prescribing regulations under clause (i), the Secretary shall impose requirements for the transmission to the Commissioner of information described in paragraphs (1) and (2) for mail shipments described in clause (i) that are comparable to the requirements for the transmission of such information imposed on similar non-mail shipments of cargo, taking into account the parameters set forth in subparagraphs (A) through (J).
+
+    (iii) The regulations prescribed under clause (i) shall require the transmission of the information described in paragraphs (1) and (2) with respect to a shipment as soon as practicable in relation to the transportation of the shipment, consistent with subparagraph (H).
+
+    (iv) Regulations prescribed under clause (i) shall allow for the requirements for the transmission to the Commissioner of information described in paragraphs (1) and (2) for mail shipments described in clause (i) to be implemented in phases, as appropriate, by—
+
+      (I) setting incremental targets for increasing the percentage of such shipments for which information is required to be transmitted to the Commissioner; and
+
+      (II) taking into consideration—
+
+        (aa) the risk posed by such shipments;
+
+        (bb) the volume of mail shipped to the United States by or through a particular country; and
+
+        (cc) the capacities of foreign postal operators to provide that information to the Postal Service.
+
+    (v)
+
+      (I) Notwithstanding clause (iv), the Postal Service shall, not later than December 31, 2018, arrange for the transmission to the Commissioner of the information described in paragraphs (1) and (2) for not less than 70 percent of the aggregate number of mail shipments, including 100 percent of mail shipments from the People’s Republic of China, described in clause (i).
+
+      (II) If the requirements of subclause (I) are not met, the Comptroller General of the United States shall submit to the appropriate congressional committees, not later than June 30, 2019, a report—
+
+        (aa) assessing the reasons for the failure to meet those requirements; and
+
+        (bb) identifying recommendations to improve the collection by the Postal Service of the information described in paragraphs (1) and (2).
+
+    (vi)
+
+      (I) Notwithstanding clause (iv), the Postal Service shall, not later than December 31, 2020, arrange for the transmission to the Commissioner of the information described in paragraphs (1) and (2) for 100 percent of the aggregate number of mail shipments described in clause (i).
+
+      (II) The Commissioner, in consultation with the Postmaster General, may determine to exclude a country from the requirement described in subclause (I) to transmit information for mail shipments described in clause (i) from the country if the Commissioner determines that the country—
+
+        (aa) does not have the capacity to collect and transmit such information;
+
+        (bb) represents a low risk for mail shipments that violate relevant United States laws and regulations; and
+
+        (cc) accounts for low volumes of mail shipments that can be effectively screened for compliance with relevant United States laws and regulations through an alternate means.
+
+      (III) The Commissioner shall, at a minimum on an annual basis, re-evaluate any determination made under subclause (II) to exclude a country from the requirement described in subclause (I). If, at any time, the Commissioner determines that a country no longer meets the requirements under subclause (II), the Commissioner may not further exclude the country from the requirement described in subclause (I).
+
+      (IV) The Commissioner shall, on an annual basis, submit to the appropriate congressional committees—
+
+        (aa) a list of countries with respect to which the Commissioner has made a determination under subclause (II) to exclude the countries from the requirement described in subclause (I); and
+
+        (bb) information used to support such determination with respect to such countries.
+
+    (vii)
+
+      (I) The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020, for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II).
+
+      (II) If remedial action is warranted in lieu of refusal of shipments pursuant to subclause (I), the Postmaster General and the Commissioner shall take remedial action with respect to the shipments, including destruction, seizure, controlled delivery or other law enforcement initiatives, or correction of the failure to provide the information described in paragraphs (1) and (2) with respect to the shipments.
+
+    (viii) Nothing in this subparagraph shall be construed to limit the authority of the Secretary to obtain information relating to international mail shipments from private carriers or other appropriate parties.
+
+    (ix) In this subparagraph, the term “appropriate congressional committees” means—
+
+      (I) the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+      (II) the Committee on Ways and Means, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives.
+
+  (L) Not later than 15 days prior to publication of a final rule pursuant to this section, the Secretary shall transmit to the Committees on Finance and Commerce, Science, and Transportation of the Senate and the Committees on Ways and Means and Transportation and Infrastructure of the House of Representatives a report setting forth—
+
+    (i) the proposed regulations;
+
+    (ii) an explanation of how particular requirements in the proposed regulations meet the needs of cargo safety and security;
+
+    (iii) an explanation of how the Secretary expects the proposed regulations to affect the commercial practices of affected parties;
+
+    (iv) an explanation of how the proposed regulations address particular comments received from interested parties; and
+
+    (v) if the Secretary determines to amend the proposed regulations after they have been transmitted to the Committees pursuant to this subparagraph, the Secretary shall transmit the amended regulations to such Committees no later than 5 days prior to the publication of the final rule.
+
+(4) **Transmission of data** — Pursuant to paragraph (2), not later than 1 year after August 10, 2005, the Secretary of Homeland Security, after consultation with the Secretary of the Treasury, shall establish an electronic data interchange system through which the United States Customs and Border Protection shall transmit to the Internal Revenue Service information pertaining to cargoes of any taxable fuel (as defined in [section 4083 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4083&num=0&edition=prelim)) that the United States Customs and Border Protection has obtained electronically under its regulations adopted in accordance with paragraph (1). For this purpose, not later than 1 year after August 10, 2005, all filers of required cargo information for such taxable fuels (as so defined) must provide such information to the United States Customs and Border Protection through such electronic data interchange system.
+
+(5) **Capacity building**
+
+  (A) *In general* — The Secretary, with the concurrence of the Secretary of State, and in coordination with the Postmaster General and the heads of other Federal agencies, as appropriate, may provide technical assistance, equipment, technology, and training to enhance the capacity of foreign postal operators—
+
+    (i) to gather and provide the information required by paragraph (3)(K); and
+
+    (ii) to otherwise gather and provide postal shipment information related to—
+
+      (I) terrorism;
+
+      (II) items the importation or introduction of which into the United States is prohibited or restricted, including controlled substances; and
+
+      (III) such other concerns as the Secretary determines appropriate.
+
+  (B) *Provision of equipment and technology* — With respect to the provision of equipment and technology under subparagraph (A), the Secretary may lease, loan, provide, or otherwise assist in the deployment of such equipment and technology under such terms and conditions as the Secretary may prescribe, including nonreimbursable loans or the transfer of ownership of equipment and technology.
+
+**(b) Omitted**
+
+**(c) Secretary** For purposes of this section, the term “Secretary” means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located.
+
+### Statutory Notes
+
+#### References in Text
+The Tariff Act of 1930, referred to in subsec. (a)(3)(F), is act June 17, 1930, ch. 497, 46 Stat. 590. Title IV of the Act is classified generally to this subtitle. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+
+#### Codification
+Subsections (a) and (c) of this section were formerly set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071).
+
+Section was enacted as part of the Customs Border Security Act of 2002, and also as part of the Trade Adjustment Assistance Reform Act of 2002 and as part of the Trade Act of 2002, and not as part of the Tariff Act of 1930 which comprises this chapter.
+
+Section is comprised of section 343 of Pub. L. 107–210. Subsec. (b) of section 343 of Pub. L. 107–210 enacted [section 1431a of this title](./chapter-004-tariff-act-of-1930.md#section-1431a).
+
+#### Amendments
+2018—Pub. L. 115–271, § 8003(e), substituted “advance” for “advanced” in section catchline.
+
+Subsec. (a)(3)(K). Pub. L. 115–271, § 8003(a)(1), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “With respect to requirements imposed on carriers, the Secretary, in consultation with the Postmaster General, shall determine whether it is appropriate to impose the same or similar requirements on shipments by the United States Postal Service. If the Secretary determines that such requirements are appropriate, then they shall be set forth in the regulations.”
+
+Subsec. (a)(5). Pub. L. 115–271, § 8003(b)(1), added par. (5).
+
+2016—Subsec. (a)(3)(F). Pub. L. 114–125 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security and preventing smuggling, and shall not be used for determining merchandise entry or for any other commercial enforcement purposes. Notwithstanding the preceding sentence, nothing in this section shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 or regulations promulgated thereunder.”
+
+2005—Subsec. (a)(4). Pub. L. 109–59 added par. (4).
+
+2002—Subsec. (a)(1). Pub. L. 107–295, § 108(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Subject to paragraphs (2) and (3), not later than 1 year after August 6, 2002, the Secretary shall promulgate regulations providing for the transmission to the Customs Service, through an electronic data interchange system, of information pertaining to cargo destined for importation into the United States or exportation from the United States, prior to such importation or exportation.”
+
+Subsec. (a)(2). Pub. L. 107–295, § 108(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The information required by the regulations promulgated pursuant to paragraph (1) under the parameters set forth in paragraph (3) shall be such information as the Secretary determines to be reasonably necessary to ensure aviation, maritime, and surface transportation safety and security pursuant to those laws enforced and administered by the Customs Service.”
+
+Subsec. (a)(3)(F). Pub. L. 107–295, § 108(b)(3)(A), (B), substituted “cargo safety and security” for “aviation, maritime, and surface transportation safety and security”, inserted “and preventing smuggling” after “security” and “merchandise” after “determining”, and inserted at end “Notwithstanding the preceding sentence, nothing in this section shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 or regulations promulgated thereunder.”
+
+Subsec. (a)(3)(G). Pub. L. 107–295, § 108(b)(3)(C), inserted “cargo” after “confidential” and “pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 and required to be available for public disclosure pursuant to section 431(c) of such Act.” after “Customs Service” and struck out at end “However, this parameter does not repeal, amend, or otherwise modify other provisions of law relating to the public disclosure of information transmitted to the Customs Service.”
+
+Subsec. (a)(3)(H). Pub. L. 107–295, § 108(b)(3)(A), substituted “cargo safety and security” for “aviation, maritime, and surface transportation safety and security”.
+
+Subsec. (a)(3)(L). Pub. L. 107–295, § 108(b)(3)(D)(i)(II), which directed the substitution of “publication of a final rule pursuant to this section” for “promulgation of regulations” in introductory provisions, was executed by making the substitution for “promulgation of the regulations” to reflect the probable intent of Congress.
+
+Pub. L. 107–295, § 108(b)(3)(D)(i)(I), substituted “15 days” for “60 days” in introductory provisions.
+
+Subsec. (a)(3)(L)(ii). Pub. L. 107–295, § 108(b)(3)(A), substituted “cargo safety and security” for “aviation, maritime, and surface transportation safety and security”.
+
+Subsec. (a)(3)(L)(v). Pub. L. 107–295, § 108(b)(3)(D)(ii)–(iv), added cl. (v).
+
+#### Effective Date of 2005 Amendment
+Pub. L. 109–59, title XI, § 11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 10, 2005].”
+
+#### International Postal Agreements
+Pub. L. 115–271, title VIII, § 8004, Oct. 24, 2018, 132 Stat. 4079, provided that: “(a) Existing Agreements.—“(1) In general.—In the event that any provision of this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)], or any amendment made by this subtitle, is determined to be in violation of obligations of the United States under any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, the Secretary of State should negotiate to amend the relevant provisions of the agreement so that the United States is no longer in violation of the agreement. “(2) Rule of construction.—Nothing in this subsection shall be construed to permit delay in the implementation of this subtitle or any amendment made by this subtitle. “(b) Future Agreements.—“(1) Consultations.—Before entering into, on or after the date of the enactment of this Act [Oct. 24, 2018], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) [Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Government Reform, and Committee on Homeland Security of the House of Representatives]. “(2) Expedited negotiation of new agreement.—To the extent that any new postal treaty, convention, or other international agreement related to international postal services would improve the ability of the United States to secure the provision of advance electronic information by foreign postal operators as required by regulations prescribed under section 343(a)(3)(K) of the Trade Act of 2002 [[19 U.S.C. 1415(a)(3)(K)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K&num=0&edition=prelim)], as amended by section 8003(a)(1), the Secretary of State should expeditiously conclude such an agreement.”
+
+#### Cost Recoupment
+Pub. L. 115–271, title VIII, § 8005, Oct. 24, 2018, 132 Stat. 4079, provided that: “(a) In General.—The United States Postal Service shall, to the extent practicable and otherwise recoverable by law, ensure that all costs associated with complying with this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)] and amendments made by this subtitle are charged directly to foreign shippers or foreign postal operators. “(b) Costs Not Considered Revenue.—The recovery of costs under subsection (a) shall not be deemed revenue for purposes of subchapter I and II of chapter 36 of title 39, United States Code, or regulations prescribed under that chapter.”
+
+
 <a id="section-1431"></a>
 ## § 1431. Manifests
 **(a) In general** Every vessel required to make entry under [section 1434 of this title](./chapter-004-tariff-act-of-1930.md#section-1434) or obtain clearance under [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) shall have a manifest that complies with the requirements prescribed under subsection (d).
@@ -4356,7 +4539,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(b) Documentation required**
 
-(1) No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in [section 40102(16) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/16&num=0&edition=prelim)) may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
+(1) No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B)) 11 See References in Text note below. may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
 
 (2) For the purposes of this subsection, cargo shall be considered properly documented if the shipper submits to the vessel carrier or its agent a complete set of shipping documents no later than 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
 
@@ -4370,7 +4553,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(c) Loading undocumented cargo prohibited**
 
-(1) No marine terminal operator (as defined in [section 40102(14) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/14&num=0&edition=prelim)) may load, or cause to be loaded, any cargo subject to this section on a vessel unless instructed by the vessel carrier operating the vessel that such cargo has been properly documented in accordance with this section.
+(1) No marine terminal operator (as defined in section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14)) 1 may load, or cause to be loaded, any cargo subject to this section on a vessel unless instructed by the vessel carrier operating the vessel that such cargo has been properly documented in accordance with this section.
 
 (2) When cargo is booked by 1 vessel carrier to be transported on the vessel of another vessel carrier, the booking carrier shall notify the operator of the vessel that the cargo has been properly documented in accordance with this section. The operator of the vessel may rely on such notification in releasing the cargo for loading aboard the vessel.
 
@@ -4396,8 +4579,10 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 ### Statutory Notes
 
-#### Codification
-In subsec. (b)(1), “(as defined in [section 40102(16) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/16&num=0&edition=prelim))” substituted for “(as defined in section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B))” and in subsec. (c)(1), “[section 40102(14) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/14&num=0&edition=prelim)” substituted for “section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 40102 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102&num=0&edition=prelim), Shipping.
+#### References in Text
+Section 3(17)(B) of the Shipping Act of 1984 (46 U.S.C. App. 1702(17)(B)), referred to in subsec. (b)(1), is section 3(17)(B) of Pub. L. 98–237, which was classified to section 1702(17)(B) of the former Appendix to Title 46, Shipping, prior to repeal and restatement as [section 40102(16) of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/16&num=0&edition=prelim) by Pub. L. 109–304, §§ 7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. Par. (16) of section 40102 was redesignated par. (17) by Pub. L. 115–282, title VII, § 704(1), Dec. 4, 2018, 132 Stat. 4294.
+
+Section 3(14) of the Shipping Act of 1984 (46 U.S.C. App. 1702(14)), referred to in subsec. (c)(1), is section 3(14) of Pub. L. 98–237, which was classified to section 1702(14) of the former Appendix to Title 46, Shipping, prior to repeal and restatement as [section 40102(14) of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/14&num=0&edition=prelim) by Pub. L. 109–304, §§ 7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. Par. (14) of section 40102 was redesignated par. (15) by Pub. L. 115–282, title VII, § 704(1), Dec. 4, 2018, 132 Stat. 4294.
 
 #### Amendments
 2002—Subsec. (d). Pub. L. 107–295 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal. For vessel carriers that are members of vessel sharing agreements (or any other arrangement whereby a carrier moves cargo on another carrier’s vessel), the vessel carrier accepting the booking shall be responsible for reporting undocumented cargo, without regard to whether it operates the vessel on which the transportation is to be made.”
@@ -4598,6 +4783,31 @@ Section, acts June 16, 1937, ch. 362, 50 Stat. 303; 1946 Reorg. Plan No. 3, §§
 
 **(d) Additional civil penalty** If any merchandise (other than sea stores or the equivalent for conveyances other than a vessel) is imported or brought into the United States in or aboard a conveyance which was not properly reported or entered, the master, person in charge of a vehicle, or aircraft pilot shall be liable for a civil penalty equal to the value of the merchandise and the merchandise may be seized and forfeited unless properly entered by the importer or consignee. If the merchandise consists of any controlled substance listed in [section 1584 of this title](./chapter-004-tariff-act-of-1930.md#section-1584), the master, individual in charge of a vehicle, or pilot shall be liable to the penalties prescribed in that section.
 
+**(e) Civil penalties for postal shipments**
+
+(1) **Civil penalty** — A civil penalty shall be imposed against the United States Postal Service if the Postal Service accepts a shipment in violation of [section 1415(a)(3)(K)(vii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K/vii/I&num=0&edition=prelim).
+
+(2) **Modification of civil penalty**
+
+  (A) *In general* — U.S. Customs and Border Protection shall reduce or dismiss a civil penalty imposed pursuant to paragraph (1) if U.S. Customs and Border Protection determines that the United States Postal Service—
+
+    (i) has a low error rate in compliance with [section 1415(a)(3)(K) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K&num=0&edition=prelim);
+
+    (ii) is cooperating with U.S. Customs and Border Protection with respect to the violation of [section 1415(a)(3)(K)(vii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K/vii/I&num=0&edition=prelim); or
+
+    (iii) has taken remedial action to prevent future violations of [section 1415(a)(3)(K)(vii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K/vii/I&num=0&edition=prelim).
+
+  (B) *Written notification* — U.S. Customs and Border Protection shall issue a written notification to the Postal Service with respect to each exercise of the authority of subparagraph (A) to reduce or dismiss a civil penalty imposed pursuant to paragraph (1).
+
+(3) **Ongoing lack of compliance** — If U.S. Customs and Border Protection determines that the United States Postal Service—
+
+  (A) has repeatedly committed violations of [section 1415(a)(3)(K)(vii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K/vii/I&num=0&edition=prelim),
+
+  (B) has failed to cooperate with U.S. Customs and Border Protection with respect to violations of [section 1415(a)(3)(K)(vii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K/vii/I&num=0&edition=prelim), and
+
+  (C) has an increasing error rate in compliance with [section 1415(a)(3)(K) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K&num=0&edition=prelim),
+  civil penalties may be imposed against the United States Postal Service until corrective action, satisfactory to U.S. Customs and Border Protection, is taken.
+
 ### Statutory Notes
 
 #### Codification
@@ -4609,6 +4819,8 @@ In subsec. (a)(3), “section 1644a(b)(1) or (c)(1) of this title” substituted
 Provisions similar to those in this section were contained in R.S. § 2834, as amended by act Mar. 3, 1897, ch. 389, § 15, 29 Stat. 691, which was superseded by act Sept. 21, 1922, ch. 356, title IV, § 436, 42 Stat. 951, and was repealed by section 642 thereof. Section 436 of the 1922 act was superseded by section 436 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–271 added subsec. (e).
+
 1996—Subsec. (a)(2). Pub. L. 104–295 substituted “1431” for “1431(e)” and struck out “or” after semicolon at end.
 
 1993—Pub. L. 103–182, § 611(2), substituted “entry, and clearance” for “and entry” in section catchline.
@@ -4627,8 +4839,50 @@ Subsec. (a)(2), (3). Pub. L. 103–182, § 611(1)(B), (C), amended pars. (2) and
 
 1935—Act Aug. 5, 1935, inserted provisions relating to additional penalty for vessel carrying nonimportable merchandise or liquor and added second par.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–271, title VIII, § 8009(a), Oct. 24, 2018, 132 Stat. 4081, provided that: “This subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)] and the amendments made by this subtitle (other than the amendments made by section 8002 [amending [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c)]) shall take effect on the date of the enactment of this Act [Oct. 24, 2018].”
+
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+
+
+<a id="section-1436a"></a>
+## § 1436a. Report on violations of arrival, reporting, entry, and clearance requirements and falsity or lack of manifest
+**(a) In general** The Commissioner of U.S. Customs and Border Protection shall submit to the appropriate congressional committees an annual report that contains the information described in subsection (b) with respect to each violation of [section 1436 of this title](./chapter-004-tariff-act-of-1930.md#section-1436), as amended by section 8007, and [section 1584 of this title](./chapter-004-tariff-act-of-1930.md#section-1584) that occurred during the previous year.
+
+**(b) Information described** The information described in this subsection is the following:
+
+(1) The name and address of the violator.
+
+(2) The specific violation that was committed.
+
+(3) The location or port of entry through which the items were transported.
+
+(4) An inventory of the items seized, including a description of the items and the quantity seized.
+
+(5) The location from which the items originated.
+
+(6) The entity responsible for the apprehension or seizure, organized by location or port of entry.
+
+(7) The amount of penalties assessed by U.S. Customs and Border Protection, organized by name of the violator and location or port of entry.
+
+(8) The amount of penalties that U.S. Customs and Border Protection could have levied, organized by name of the violator and location or port of entry.
+
+(9) The rationale for negotiating lower penalties, organized by name of the violator and location or port of entry.
+
+**(c) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(2) the Committee on Ways and Means, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives.
+
+### Statutory Notes
+
+#### References in Text
+[Section 1436 of this title](./chapter-004-tariff-act-of-1930.md#section-1436), as amended by section 8007, referred to in subsec. (a), is [section 1436 of this title](./chapter-004-tariff-act-of-1930.md#section-1436) as amended by section 8007 of Pub. L. 115–271.
+
+#### Codification
+Section was enacted as part of the Synthetics Trafficking and Overdose Prevention Act of 2018, also known as the STOP Act of 2018, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
 
 
 <a id="section-1437"></a>
@@ -5290,7 +5544,7 @@ Pub. L. 109–280, title XIV, § 1631(c), Aug. 17, 2006, 120 Stat. 1165, provide
 Pub. L. 108–429, title I, § 1554(c), Dec. 3, 2004, 118 Stat. 2578, provided that: “The amendments made by this section [amending this section] apply to vessel equipment, repair parts, and materials installed on or after April 25, 2001.”
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 116(a) of Pub. L. 103–465, set out as an Effective Date note under [section 3521 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3521).
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 116(a) of Pub. L. 103–465, set out as an Effective Date note under [section 3521 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3521).
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–382, title III, § 484E(b), (c), Aug. 20, 1990, 104 Stat. 710, as amended by Pub. L. 103–465, title I, § 112(a), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 104–295, § 27, Oct. 11, 1996, 110 Stat. 3533, provided that: “(b) Effective Date.—The amendment made by this section [amending this section] shall apply to—“(1) any entry made before the date of enactment of this Act [Aug. 20, 1990] that is not liquidated on the date of enactment of this Act, “(2) any entry made—“(A) on or after the date of enactment of this Act, and “(B) on or before December 31, 1992, “(3) any entry listed in subsection (c) that was made during the period beginning on January 1, 1993, and ending on December 31, 1994, to the extent such entry involves the purchase of equipment, the use of materials, or the expense of repairs in a foreign country for 66 LASH (Lighter Aboard Ship) barges documented under the laws of the United States if—“(A) such entry was not liquidated on January 1, 1995; and “(B) such entry, had it been made on or after January 1, 1995, would otherwise be eligible for the exemption provided in section 466(h)(1) of the Tariff Act of 1930 ([19 U.S.C. 1466(h)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1466/h/1&num=0&edition=prelim)), and “(4) any entry made pursuant to section 466(h)(1) or (2) of the Tariff Act of 1930 ([19 U.S.C. 1466(h)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1466/h/1&num=0&edition=prelim) or (2)), on or after the date of the entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995]. “(c) Entries.—The entries referred to in subsection (b)(3) are the following:“(1) Numbered entries.— Entry NumberDate of Entry C14–0025455–8August 18, 1993 C14–0025456–6August 18, 1993 C14–0025457–4August 18, 1993 C14–0025473–1August 27, 1993 C14–0025478–0September 13, 1993 C14–0025479–8September 13, 1993 C14–0025480–6September 13, 1993 C14–0025481–4September 13, 1993 C14–0025511–8April 16, 1993 C14–0025533–2April 30, 1993 C14–0025545–6May 21, 1993 C14–0025546–4May 21, 1993 C14–0025547–2May 21, 1993 C14–0025558–9June 15, 1993 C14–0025560–5June 15, 1993 C14–0025574–6July 21, 1993 C14–0025575–3July 21, 1993 C14–0025603–3July 23, 1993 C14–0025604–1July 23, 1993 C14–0025605–8July 23, 1993 C14–0025623–1October 25, 1993 C14–0025624–9October 25, 1993 C14–0025625–6October 25, 1993 C14–0025635–5November 8, 1993 C14–0025636–3November 8, 1993 C14–0025637–1November 8, 1993 C14–0025653–8November 30, 1993 C14–0025654–6November 30, 1993 C14–0025655–3November 30, 1993 C14–0025657–9November 30, 1993 C14–0025679–3January 3, 1994 C14–0025680–1January 3, 1994 C14–0025688–4February 14, 1994 C14–0025689–2February 14, 1994 C14–0025690–0February 14, 1994 C14–0025691–8February 14, 1994 C14–0025692–6February 14, 1994 C14–0026803–8January 24, 1994 C14–0026804–6January 24, 1994 C14–0026805–3January 24, 1994 C14–0026807–9January 24, 1994 C14–0026808–7January 24, 1994 C14–0026809–5January 24, 1994 C14–0026810–3January 24, 1994 C14–0026811–1January 24, 1994 C14–0026826–9March 10, 1994 C14–0026827–7March 10, 1994 C14–0026828–5March 10, 1994 C14–0026829–3March 10, 1994 C14–0026830–1March 10, 1994 C14–0026831–9March 10, 1994 C14–0026832–7March 10, 1994 C14–0026833–5March 10, 1994 C14–0026841–8March 31, 1994 C14–0026843–4March 31, 1994 C14–0026852–5May 5, 1994 C14–0026853–3May 5, 1994 C14–0026854–1May 5, 1994 C14–0026867–3May 18, 1994 C14–0026869–9May 18, 1994 C14–0026874–9June 8, 1994 C14–0026875–6June 8, 1994 C14–0026898–8August 2, 1994 C14–0026899–6August 2, 1994 C14–0040625–7October 5, 1994. “(2) Additional entry.—The entry of a 66th LASH barge (No. CG E69), for which no entry number is available, if, within 60 days after the date of the enactment of this subsection [Oct. 11, 1996], a proper entry is filed with the Customs Service.”
@@ -6712,7 +6966,7 @@ Amendment by section 2102 of Pub. L. 108–429 applicable to merchandise entered
 Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under [section 1321 of this title](./chapter-004-tariff-act-of-1930.md#section-1321).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 applicable with respect to articles entered on or after 15th day after Oct. 30, 1984, see section 195(a) of Pub. L. 98–573, set out as a note under [section 1322 of this title](./chapter-004-tariff-act-of-1930.md#section-1322).
@@ -8389,9 +8643,9 @@ Subsec. (d). Pub. L. 96–417, §§ 601(7), 608(d), redesignated the United Stat
 Subsec. (e). Pub. L. 96–417, § 601(7), redesignated the United States Customs Court as the United States Court of International Trade.
 
 #### Effective Date of 1994 Amendment
-Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 130 of Pub. L. 103–465, set out as an Effective Date note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
+Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as an Effective Date note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
-Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of this title](./chapter-021-north-american-free-trade.md#section-3431).
@@ -9862,7 +10116,7 @@ Provisions similar to those in this section were contained in R.S. § 3064, whic
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(F) and (c)(1)(I), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
@@ -9886,6 +10140,18 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Certification by Secretary
 Pub. L. 107–210, div. A, title III, § 344(b), Aug. 6, 2002, 116 Stat. 987, provided that: “Not later than 3 months after the date of enactment of this section [Aug. 6, 2002], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 [this section] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States.”
+
+
+<a id="section-1583a"></a>
+## § 1583a. Development of technology to detect illicit narcotics
+**(a) In general** The Postmaster General and the Commissioner of U.S. Customs and Border Protection, in coordination with the heads of other agencies as appropriate, shall collaborate to identify and develop technology for the detection of illicit fentanyl, other synthetic opioids, and other narcotics and psychoactive substances entering the United States by mail.
+
+**(b) Outreach to private sector** The Postmaster General and the Commissioner shall conduct outreach to private sector entities to gather information regarding the current state of technology to identify areas for innovation relating to the detection of illicit fentanyl, other synthetic opioids, and other narcotics and psychoactive substances entering the United States.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Synthetics Trafficking and Overdose Prevention Act of 2018, also known as the STOP Act of 2018, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
 
 
 <a id="section-1584"></a>
@@ -10602,7 +10868,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 1996—Subsec. (a)(3). Pub. L. 104–295 substituted “list under paragraph (1)” for “list under paragraph (2)”.
 
 #### Effective Date
-Section effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 335 of Pub. L. 103–465, set out as a note under [section 3591 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3591).
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 335 of Pub. L. 103–465, set out as a note under [section 3591 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3591).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -10876,7 +11142,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 
 <a id="section-1595a"></a>
-## § 1595a. Forfeitures and other penalties
+## § 1595a. Aiding unlawful importation
 **(a) Importation, removal, etc. contrary to laws of United States** Except as specified in subsection (b) or (c) of [section 1594 of this title](./chapter-004-tariff-act-of-1930.md#section-1594), every vessel, vehicle, animal, aircraft, or other thing used in, to aid in, or to facilitate, by obtaining information or in any other way, the importation, bringing in, unlading, landing, removal, concealing, harboring, or subsequent transportation of any article which is being or has been introduced, or attempted to be introduced, into the United States contrary to law, whether upon such vessel, vehicle, animal, aircraft, or other thing or otherwise, may be seized and forfeited together with its tackle, apparel, furniture, harness, or equipment.
 
 **(b) Penalty for aiding unlawful importation** Every person who directs, assists financially or otherwise, or is in any way concerned in any unlawful activity mentioned in the preceding subsection shall be liable to a penalty equal to the value of the article or articles introduced or attempted to be introduced.
@@ -11425,9 +11691,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
-Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Customs, referred to in text, was an officer in Department of the Treasury. Functions of Coast Guard and Commandant of Coast Guard excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Customs, referred to in text, was an officer in Department of the Treasury. Functions of Coast Guard and Commandant of Coast Guard excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
 By Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees, functions of Secretary of Commerce relating to remission and mitigation of fines, penalties and forfeitures incurred for violation of navigation laws were transferred to Commandant of Coast Guard and Commissioner of Customs, subject to direction and control of Secretary of the Treasury, except as otherwise required by law with respect to United States Coast Guard whenever it operates as a part of Navy. Accordingly, references to Commandant of Coast Guard and Commissioner of Customs substituted in text for “the Secretary of Commerce”.
 
@@ -13156,7 +13422,7 @@ Subsec. (e). Pub. L. 100–418, § 1324(a)(1), added subsec. (e).
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in subsec. (e) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -13373,7 +13639,7 @@ Subsec. (h). Pub. L. 98–573, § 613(c), added subsec. (h).
 1983—Subsec. (b). Pub. L. 98–181 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by section 1324(a)(2) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -13629,7 +13895,7 @@ Subsec. (k). Pub. L. 98–573, § 604(a)(5), added subsec. (k).
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (i)(1)(D) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -13792,7 +14058,7 @@ Subsec. (c)(3)(A). Pub. L. 98–573, § 605(a)(3), inserted reference to par. (4
 Subsec. (c)(4). Pub. L. 98–573, § 605(a)(2), added par. (4).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(a)(3) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -13847,7 +14113,7 @@ Subsec. (c). Pub. L. 103–465, § 218(b)(1), added subsec. (c).
 1984—Subsec. (a)(2) to (4). Pub. L. 98–573 added par. (2) and redesignated pars. (2) and (3) as (3) and (4), respectively.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -13877,7 +14143,7 @@ together with interest as provided by [section 1677g of this title](./chapter-00
 1994—Subsec. (a). Pub. L. 103–465 substituted “1671b(d)(1)(B)” for “1671b(d)(2)” in heading and text.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-1671g"></a>
@@ -13893,7 +14159,7 @@ Nothing in this subtitle shall be interpreted as superseding the provisions of [
 1986—Pub. L. 99–514 added section catchline.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -13944,7 +14210,7 @@ then there shall be imposed upon such merchandise an antidumping duty, in additi
 1984—Pub. L. 98–573 inserted “or by reason of sales (or the likelihood of sales) of that merchandise for importation” after “by reason of imports of that merchandise” in par. (2), and inserted sentence at end providing that for purposes of this section and [section 1673d(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/b/1&num=0&edition=prelim), a reference to the sale of foreign merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -14096,7 +14362,7 @@ Subsec. (e). Pub. L. 100–418, § 1324(b)(1), added subsec. (e).
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in subsec. (e) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by section 1324(b)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -14289,7 +14555,7 @@ Pub. L. 100–418, § 1323(b)(3), inserted sentence at end relating to investiga
 1986—Subsec. (b)(2). Pub. L. 99–514 inserted reference to subpar. (F) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) in two places.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by section 1323(b) of Pub. L. 100–418 effective Aug. 23, 1988, amendment by section 1324(b)(2) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(a) to (c) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -14523,7 +14789,7 @@ Subsec. (k). Pub. L. 98–573, § 604(b)(5), added subsec. (k).
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (i)(1)(D) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -14687,7 +14953,7 @@ Subsec. (c)(3)(A). Pub. L. 98–573, § 605(b)(3), inserted reference to par. (4
 Subsec. (c)(4). Pub. L. 98–573, § 605(b)(2), added par. (4).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(b)(3) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -14783,7 +15049,7 @@ Subsec. (c)(4). Pub. L. 100–418, § 1325(b), added par. (4).
 1986—Subsec. (c)(1). Pub. L. 99–514 inserted “, and was sold to any person that is not related to such manufacturer, producer, or exporter,” before “on or after the date”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -14819,7 +15085,7 @@ Subsec. (a)(2). Pub. L. 104–295, § 40(3), substituted “refunded or released
 1994—Subsec. (a). Pub. L. 103–465 substituted “1673b(d)(1)(B)” for “1673b(d)(2)” in heading and text.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-1673g"></a>
@@ -14844,7 +15110,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 Subsec. (b)(3). Pub. L. 103–465, § 233(a)(2)(B), substituted “constructed export price” for “exporter’s sales price”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-1673h"></a>
@@ -14954,7 +15220,7 @@ A prior section, act June 17, 1930, ch. 497, title VII, § 739, as added July 26
 1990—Subsec. (a)(1)(B)(v). Pub. L. 101–382 substituted “Harmonized Tariff Schedule” for “Tariff Schedules”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-1673i"></a>
@@ -15220,7 +15486,7 @@ Subsec. (b)(1). Pub. L. 98–573, § 611(a)(2)(B), substituted “1671c of this 
 Subsec. (c). Pub. L. 98–573, § 611(a)(3), inserted provision that the administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of merchandise to the United States specifically intended to offset the subsidy received.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -15335,7 +15601,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### Effective Date
-Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-1675b"></a>
@@ -15438,7 +15704,7 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 Subsecs. (a)(2), (c). Pub. L. 104–295 inserted “or [section 1671(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671/c&num=0&edition=prelim)” after “[section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303)” and struck out “under [section 1303(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1303/a/2&num=0&edition=prelim)” after “material injury”.
 
 #### Effective Date
-Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Uruguay Round Agreements: Entry Into Force
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in [section 3511(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d&num=0&edition=prelim), entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).
@@ -15485,7 +15751,7 @@ Pub. L. 109–171, title VII, § 7601(b), Feb. 8, 2006, 120 Stat. 154, provided 
 Subsec. (a)(1), (2). Pub. L. 103–465, § 270(a)(1)(I), inserted “countervailable” before “subsidy”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date
 Section applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -15515,7 +15781,7 @@ Section applicable with respect to investigations initiated by petition or by th
 Subsec. (b)(2). Pub. L. 103–465, § 233(a)(5)(AA), substituted “subject merchandise” for “merchandise subject to the order”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date
 Section applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, or reviews begun under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -16327,7 +16593,7 @@ Par. (17). Pub. L. 98–573, § 612(a)(5), substituted “commercial quantities�
 “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in par. (18)(E) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1993 Amendment
 Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of this title](./chapter-021-north-american-free-trade.md#section-3431).
@@ -16440,7 +16706,7 @@ If there is not a sufficient quantity of sales to provide a reasonable basis for
 1984—Subsec. (b). Pub. L. 98–573 inserted “a reseller or” before “the manufacturer”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -16683,7 +16949,7 @@ Subsec. (f). Pub. L. 98–573, § 620(b), struck out subsec. (f) which related t
 Subsec. (g). Pub. L. 98–573, § 615(3), added subsec. (g).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by sections 1316(a) and 1318 of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and amendment by section 1319 of Pub. L. 100–418 applicable with respect to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and to reviews initiated under such sections which are pending on Aug. 23, 1988, and in which a request for revocation is pending on Aug. 23, 1988, see section 1337(b), (f) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -16704,7 +16970,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### Effective Date
-Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-1677c"></a>
@@ -16749,7 +17015,7 @@ If, in the course of a proceeding under this subtitle, the administering authori
 1984—Pub. L. 98–573 substituted “proceeding” for “investigation” wherever appearing.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -16841,7 +17107,7 @@ Subsec. (c). Pub. L. 100–418, § 1331(1), redesignated former subsec. (b) as (
 1984—Subsec. (a). Pub. L. 98–573 amended subsec. (a) generally, which prior to amendment read as follows: “Except with respect to information the verification of which is waived under [section 1673b(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b/2&num=0&edition=prelim), the administering authority shall verify all information relied upon in making a final determination in an investigation. In publishing such a determination, the administering authority shall report the methods and procedures used to verify such information. If the administering authority is unable to verify the accuracy of the information submitted, it shall use the best information available to it as the basis for its determination, which may include the information submitted in support of the petition.”
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -17106,7 +17372,7 @@ Pub. L. 98–573, § 619(3), as amended by Pub. L. 99–514, § 1889(8), amended
 Subsec. (c)(1)(A). Pub. L. 98–573, § 619(4), inserted “(before or after receipt of the information requested)”.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under [section 3431 of this title](./chapter-021-north-american-free-trade.md#section-3431).
@@ -17210,7 +17476,7 @@ Pub. L. 103–465, § 229(a), amended section generally, substituting present pr
 Pub. L. 112–99, § 2(b), Mar. 13, 2012, 126 Stat. 266, provided that: “Subsection (f) of section 777A of the Tariff Act of 1930 [[19 U.S.C. 1677f–1(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677f–1/f&num=0&edition=prelim)], as added by subsection (a) of this section, applies to— “(1) all investigations and reviews initiated pursuant to title VII of that Act ([19 U.S.C. 1671](./chapter-004-tariff-act-of-1930.md#section-1671) et seq.) on or after the date of the enactment of this Act [Mar. 13, 2012]; and “(2) subject to subsection (c) of section 129 of the Uruguay Round Agreements Act ([19 U.S.C. 3538](./chapter-022-uruguay-round-trade-agreements.md#section-3538)), all determinations issued under subsection (b)(2) of that section on or after the date of the enactment of this Act.”
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date
 Section applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -17342,7 +17608,7 @@ Subsec. (d)(1)(A)(ii). Pub. L. 103–465, § 270(a)(1)(M), inserted “counterva
 Pub. L. 103–465, § 233(a)(1)(E), (2)(A)(vi), substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price”.
 
 #### Effective Date of 1994 Amendment
-Amendment by sections 233(a)(1)(E), (2)(A)(vi) and 270(a)(1)(M) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by sections 233(a)(1)(E), (2)(A)(vi) and 270(a)(1)(M) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 Amendment by section 261(d)(1)(B)(iv) of Pub. L. 103–465 effective on the effective date of title II of Pub. L. 103–465, Jan. 1, 1995, see section 261(d)(2) of Pub. L. 103–465, set out as a note under [section 1315 of this title](./chapter-004-tariff-act-of-1930.md#section-1315).
 
@@ -17499,7 +17765,7 @@ The Antidumping Act, 1921, referred to in subsecs. (a)(1)(A)(ii), (b)(1)(A)(ii),
 Subsec. (f). Pub. L. 103–465, § 230(b), added subsec. (f).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date
 Section applicable with respect to articles entered, or withdrawn from warehouse for consumption, on or after Aug. 23, 1988, see section 1337(d) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -17549,7 +17815,7 @@ Section was enacted as part of the Omnibus Trade and Competitiveness Act of 1988
 1994—Subsec. (a)(1). Pub. L. 103–465 designated existing provisions as subpar. (A), substituted “GATT 1994” for “General Agreement on Tariffs and Trade”, and added subpar. (B).
 
 #### Effective Date of 1994 Amendment
-Pub. L. 103–465, title VI, § 621(b), Dec. 8, 1994, 108 Stat. 4993, provided that: “The amendments made by this section [amending this section and sections 2171, 2411, 2702, 2905, 2906, 3107, 3111, and 3202 of this title] shall take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
+Pub. L. 103–465, title VI, § 621(b), Dec. 8, 1994, 108 Stat. 4993, provided that: “The amendments made by this section [amending this section and sections 2171, 2411, 2702, 2905, 2906, 3107, 3111, and 3202 of this title] shall take effect on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995).”
 
 
 <a id="section-1677l"></a>
@@ -17648,7 +17914,7 @@ then the administering authority or the Commission (as the case may be) may, sub
 2015—Subsec. (a). Pub. L. 114–27 designated existing provisions as par. (1) and inserted heading, redesignated former par. (1) and subpars. (A) and (B) as subpar. (A) and cls. (i) and (ii), respectively, added par. (2), and redesignated former par. (2) as subpar. (B) of par. (1) and amended it generally. Prior to amendment, subpar. (B) of par. (1) read as follows: “the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation.”
 
 #### Effective Date
-Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-1677n"></a>
@@ -17685,7 +17951,7 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 1996—Subsec. (f). Pub. L. 104–295 substituted “subsection (e)” for “subsection (d)”.
 
 #### Effective Date
-Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-1677-1"></a>
@@ -17727,7 +17993,7 @@ Pub. L. 103–465, § 233(a)(5)(GG), substituted “subject merchandise” for �
 1986—Subsec. (a). Pub. L. 99–514 substituted “(ii), (iii), or (iv)” for “(ii), or (iii)” in introductory provisions.
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date
 Section effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
@@ -17754,7 +18020,7 @@ countervailable subsidies found to be provided to either producers or processors
 1988—Pub. L. 100–647 amended section generally. Prior to amendment, section read as follows: “In the case of an agricultural product processed from a raw agricultural product in which (1) the demand for the prior stage product is substantially dependent on the demand for the latter stage product, and (2) the processing operation adds only limited value to the raw commodity, subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.”
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
@@ -17911,6 +18177,9 @@ Subsec. (d). Pub. L. 109–432, § 401(c), added subsec. (d).
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–432 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 20, 2006, see section 401(g) of Pub. L. 109–432, set out as a note under [section 1681 of this title](./chapter-004-tariff-act-of-1930.md#section-1681).
 
+#### Effective Date
+Section effective 30 days after Nov. 9, 2000, see section 4004(b) of Pub. L. 106–476, set out as a note under [section 1681 of this title](./chapter-004-tariff-act-of-1930.md#section-1681).
+
 
 <a id="section-1681b"></a>
 ## § 1681b. Enforcement
@@ -17933,6 +18202,9 @@ Subsec. (b). Pub. L. 109–432, § 401(d), (e)(3), in first sentence, inserted �
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–432 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 20, 2006, see section 401(g) of Pub. L. 109–432, set out as a note under [section 1681 of this title](./chapter-004-tariff-act-of-1930.md#section-1681).
+
+#### Effective Date
+Section effective 30 days after Nov. 9, 2000, see section 4004(b) of Pub. L. 106–476, set out as a note under [section 1681 of this title](./chapter-004-tariff-act-of-1930.md#section-1681).
 
 
 <a id="section-1683"></a>
@@ -18062,6 +18334,9 @@ Pub. L. 110–246, title III, § 3301(b), June 18, 2008, 122 Stat. 1853, provide
 #### Codification
 Another section 803 of act June 17, 1930, is classified to [section 1681b of this title](./chapter-004-tariff-act-of-1930.md#section-1681b).
 
+#### Effective Date
+Section effective 60 days after June 18, 2008, see section 3301(b) of Pub. L. 110–246, set out as a note under [section 1683 of this title](./chapter-004-tariff-act-of-1930.md#section-1683).
+
 
 <a id="section-1683b"></a>
 ## § 1683b. Scope of softwood lumber importer declaration program
@@ -18176,12 +18451,20 @@ Another section 803 of act June 17, 1930, is classified to [section 1681b of thi
 #### References in Text
 [Section 1683a of this title](./chapter-004-tariff-act-of-1930.md#section-1683a), referred to in subsecs. (a) to (c), was in the original section “803”, and was translated as meaning the section 803 of act June 17, 1930, as added by section 3301(a) of Pub. L. 110–246, to reflect the probable intent of Congress.
 
+#### Effective Date
+Section effective 60 days after June 18, 2008, see section 3301(b) of Pub. L. 110–246, set out as a note under [section 1683 of this title](./chapter-004-tariff-act-of-1930.md#section-1683).
+
 
 <a id="section-1683c"></a>
 ## § 1683c. Export charge determination and publication
 **(a) Determination** The Under Secretary for International Trade of the Department of Commerce shall determine, on a monthly basis, any export charges (expressed as a percentage of export price) to be collected by a country of export from exporters of softwood lumber or softwood lumber products described in [section 1683b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1683b/a&num=0&edition=prelim) in order to ensure compliance with any international agreement entered into by that country and the United States.
 
 **(b) Publication** The Under Secretary for International Trade shall immediately publish any determination made under subsection (a) on the website of the International Trade Administration of the Department of Commerce, and in any other manner the Under Secretary considers appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after June 18, 2008, see section 3301(b) of Pub. L. 110–246, set out as a note under [section 1683 of this title](./chapter-004-tariff-act-of-1930.md#section-1683).
 
 
 <a id="section-1683d"></a>
@@ -18197,6 +18480,9 @@ The Secretary of the Treasury shall conduct reconciliations to ensure the proper
 
 #### References in Text
 [Section 1683a of this title](./chapter-004-tariff-act-of-1930.md#section-1683a), referred to in pars. (1) and (2), was in the original section “803”, and was translated as meaning the section 803 of act June 17, 1930, as added by section 3301(a) of Pub. L. 110–246, to reflect the probable intent of Congress.
+
+#### Effective Date
+Section effective 60 days after June 18, 2008, see section 3301(b) of Pub. L. 110–246, set out as a note under [section 1683 of this title](./chapter-004-tariff-act-of-1930.md#section-1683).
 
 
 <a id="section-1683e"></a>
@@ -18219,6 +18505,9 @@ The Secretary of the Treasury shall conduct reconciliations to ensure the proper
 Section 1683a, referred to in text, was in the original section “803”, and was translated as meaning the section 803 of act June 17, 1930, as added by section 3301(a) of Pub. L. 110–246, to reflect the probable intent of Congress.
 
 This Act, referred to in subsec. (b)(1), is act June 17, 1930, ch. 497, 46 Stat. 590, known as the Tariff Act of 1930, which is classified generally to this chapter. The Act does not contain a title V. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+
+#### Effective Date
+Section effective 60 days after June 18, 2008, see section 3301(b) of Pub. L. 110–246, set out as a note under [section 1683 of this title](./chapter-004-tariff-act-of-1930.md#section-1683).
 
 
 <a id="section-1683f"></a>
@@ -18245,6 +18534,9 @@ This Act, referred to in subsec. (b)(1), is act June 17, 1930, ch. 497, 46 Stat.
 
 #### References in Text
 [Section 1683a of this title](./chapter-004-tariff-act-of-1930.md#section-1683a), referred to in subsec. (f), was in the original section “803”, and was translated as meaning the section 803 of act June 17, 1930, as added by section 3301(a) of Pub. L. 110–246, to reflect the probable intent of Congress.
+
+#### Effective Date
+Section effective 60 days after June 18, 2008, see section 3301(b) of Pub. L. 110–246, set out as a note under [section 1683 of this title](./chapter-004-tariff-act-of-1930.md#section-1683).
 
 
 <a id="section-1683g"></a>
@@ -18273,3 +18565,6 @@ This Act, referred to in subsec. (b)(1), is act June 17, 1930, ch. 497, 46 Stat.
 
 #### References in Text
 For the effective date of this subtitle, referred to in subsec. (a), see section 3301(b) of Pub. L. 110–246, set out as an Effective Date note under [section 1683 of this title](./chapter-004-tariff-act-of-1930.md#section-1683).
+
+#### Effective Date
+Section effective 60 days after June 18, 2008, see section 3301(b) of Pub. L. 110–246, set out as a note under [section 1683 of this title](./chapter-004-tariff-act-of-1930.md#section-1683).

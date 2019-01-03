@@ -470,7 +470,17 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 <a id="section-2021"></a>
 ## § 2021. Homeless veterans reintegration programs
-**(a) In General.—** Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration of homeless veterans into the labor force.
+**(a) In General.—** Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration into the labor force of—
+
+(1) homeless veterans (including veterans who were homeless but found housing during the 60-day period preceding the date on which the veteran begins to participate in a program under this section);
+
+(2) veterans participating in the Department of Veterans Affairs supported housing program for which rental assistance is provided pursuant to section 1437f(o)(19) of title 42 or the Tribal HUD–VA Supportive Housing (Tribal HUD–VASH) program;
+
+(3) Indians who are veterans and receiving assistance under the Native American Housing Assistance and Self Determination Act of 1996 ([25 U.S.C. 4101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) et seq.);
+
+(4) veterans described in [section 2023(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2023/e&num=0&edition=prelim) or any other veterans who are transitioning from being incarcerated; and
+
+(5) veterans participating in the Department of Veterans Affairs rapid rehousing and prevention program authorized in [section 2044 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2044).
 
 **(b) Requirement To Monitor Expenditures of Funds.—**
 
@@ -496,16 +506,25 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
   (E) $50,000,000 for fiscal year 2006.
 
-  (F) $50,000,000 for each of fiscal years 2007 through 2017.
+  (F) $50,000,000 for each of fiscal years 2007 through 2020.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
 ### Statutory Notes
 
+#### References in Text
+The Native American Housing Assistance and Self Determination Act of 1996, referred to in subsec. (a)(3), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+
 #### Prior Provisions
 A prior section 2021 was renumbered [section 4301 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4301) and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–407 substituted “reintegration into the labor force of—” for “reintegration of homeless veterans into the labor force.reintegration of homeless veterans into the labor force.reintegration of homeless veterans into the labor force.” and added pars. (1) to (5).
+
+Subsec. (e)(1)(F). Pub. L. 115–251 substituted “2020” for “2018”.
+
+2017—Subsec. (e)(1)(F). Pub. L. 115–62 substituted “2018” for “2017”.
+
 2016—Subsec. (e)(1)(F). Pub. L. 114–228 substituted “2017” for “2016”.
 
 2015—Subsec. (e)(1)(F). Pub. L. 114–58 substituted “2016” for “2015”.
@@ -544,13 +563,17 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **(f) Authorization of Appropriations.—**
 
-(1) In addition to any amount authorized to be appropriated to carry out [section 2021 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2021), there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2017.
+(1) In addition to any amount authorized to be appropriated to carry out [section 2021 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2021), there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2020.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (f)(1). Pub. L. 115–251 substituted “2020” for “2018”.
+
+2017—Subsec. (f)(1). Pub. L. 115–62 substituted “2018” for “2017”.
+
 2016—Subsec. (f)(1). Pub. L. 114–228 substituted “2017” for “2016”.
 
 2015—Subsec. (f)(1). Pub. L. 114–58 substituted “2016” for “2015”.
@@ -645,7 +668,7 @@ A prior section 2022 was renumbered [section 4302 of this title](./chapter-043-e
 
 (4) In developing the program, the Secretaries shall consult with officials of the Bureau of Prisons, officials of penal institutions of States and political subdivisions of States, and such other officials as the Secretaries determine appropriate.
 
-**(d) Duration.—** The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2017.
+**(d) Duration.—** The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2020.
 
 **(e) Definition.—** In this section, the term “eligible veteran” means a veteran who—
 
@@ -659,6 +682,10 @@ A prior section 2022 was renumbered [section 4302 of this title](./chapter-043-e
 Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title, respectively, and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–251 substituted “September 30, 2020” for “September 30, 2018”.
+
+2017—Subsec. (d). Pub. L. 115–62 substituted “September 30, 2018” for “September 30, 2017”.
+
 2016—Subsec. (d). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
 
 2015—Subsec. (d). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
@@ -697,11 +724,15 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 (3) therapeutic transitional housing assistance under [section 2032 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2032), in conjunction with work therapy under subsection (a) or (b) of [section 1718 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1718) and outpatient care.
 
-**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2017.
+**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2020.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–251 substituted “September 30, 2020” for “September 30, 2019”.
+
+2017—Subsec. (b). Pub. L. 115–62 substituted “September 30, 2019” for “September 30, 2017”.
+
 2016—Subsec. (b). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
 
 2015—Subsec. (b). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
@@ -791,11 +822,15 @@ Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for 
 
 **(c)** The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-**(d)** The program under this section shall terminate on September 30, 2017.
+**(d)** The program under this section shall terminate on September 30, 2020.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–251 substituted “September 30, 2020” for “September 30, 2019”.
+
+2017—Subsec. (d). Pub. L. 115–62 substituted “September 30, 2019” for “September 30, 2017”.
+
 2016—Subsec. (d). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
 
 2015—Subsec. (d). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
@@ -1111,6 +1146,10 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
   (E) $320,000,000 for each of fiscal years 2015 through 2017.
 
+  (F) $340,000,000 for fiscal year 2018.
+
+  (G) $380,000,000 for fiscal year 2019.
+
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
 (3) There is authorized to be appropriated $1,000,000 for each of the fiscal years 2009 through 2012 to carry out the provisions of subsection (d).
@@ -1161,6 +1200,10 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38](./chapter-020-benefits-for-homeless-veterans.md#section-2044), Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+2018—Subsec. (e)(1)(F), (G). Pub. L. 115–251 added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “$320,000,000 for each of fiscal years 2018 through 2019.”
+
+2017—Subsec. (e)(1)(F). Pub. L. 115–62 added subpar. (F).
+
 2016—Subsec. (e)(1)(E). Pub. L. 114–228 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “$300,000,000 for each of fiscal years 2015 through 2016.”
 
 2015—Subsec. (b)(1)(D). Pub. L. 114–58, § 601(9), substituted “Federal” for “federal” in introductory provisions.
@@ -1229,7 +1272,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (d)(2),
 Subsec. (d)(1). Pub. L. 107–95, § 5(d)(2)(B), substituted “[section 2052 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2052)” for “[section 3773 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3773&num=0&edition=prelim)”.
 
 #### Effective Date
-Subchapter effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under [section 2106 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2106).
+Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under [section 2106 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2106).
 
 
 <a id="section-2052"></a>
@@ -1306,6 +1349,9 @@ Section 107 of Public Law 102–405, referred to in subsec. (d)(2), is set out a
 
 Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “[section 2051 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2051)” for “[section 3772 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3772&num=0&edition=prelim)” in introductory provisions.
 
+#### Effective Date
+Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under [section 2106 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2106).
+
 
 <a id="section-2053"></a>
 ## § 2053. Default
@@ -1326,6 +1372,9 @@ Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “[section 2051 of th
 #### Amendments
 2001—Pub. L. 107–95 renumbered [section 3774 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3774&num=0&edition=prelim) as this section.
 
+#### Effective Date
+Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under [section 2106 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2106).
+
 
 <a id="section-2054"></a>
 ## § 2054. Audit
@@ -1339,6 +1388,9 @@ Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “[section 2051 of th
 2001—Pub. L. 107–95 renumbered [section 3775 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3775&num=0&edition=prelim) as this section.
 
 1999—Pub. L. 106–117 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date
+Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under [section 2106 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2106).
 
 
 <a id="section-2061"></a>
@@ -1361,13 +1413,17 @@ Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “[section 2051 of th
 
 **(d) Funding.—**
 
-(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2017, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
+(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2020, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
 
 (2) The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–251 substituted “2020” for “2019”.
+
+2017—Subsec. (d)(1). Pub. L. 115–62 substituted “2019” for “2017”.
+
 2016—Subsec. (d)(1). Pub. L. 114–228 substituted “2017” for “2016”.
 
 2015—Subsec. (d)(1). Pub. L. 114–58 substituted “2016” for “2015”.
@@ -1620,7 +1676,7 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to [section 529 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-529) a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
 
-**(d) Termination.—** The Committee shall cease to exist December 31, 2017.
+**(d) Termination.—** The Committee shall cease to exist September 30, 2022.
 
 ### Statutory Notes
 
@@ -1628,6 +1684,10 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§ 11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–251 substituted “September 30, 2022” for “September 30, 2018”.
+
+2017—Subsec. (d). Pub. L. 115–62 substituted “September 30, 2018” for “December 31, 2017”.
+
 2016—Subsec. (d). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (d). Pub. L. 114–58 substituted “December 31, 2016” for “December 31, 2015”.

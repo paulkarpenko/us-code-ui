@@ -52,7 +52,7 @@ Pub. L. 98–94, title IX, § 925(b)(3), Sept. 24, 1983, 97 Stat. 648, required 
 ## § 1463. Payments from the Fund
 **(a)** There shall be paid from the Fund—
 
-(1) retired pay payable to members on the retired lists of the Army, Navy, Air Force, and Marine Corps and payments under section 1413a or 1414 of this title paid to such members;
+(1) retired pay payable to members on the retired lists of the Army, Navy, Air Force, and Marine Corps and payments under section 1413a, 1414, or 1415 of this title paid to such members;
 
 (2) retired pay payable under chapter 1223 of this title to former members of the armed forces (other than retired pay payable by the Secretary of Homeland Security);
 
@@ -65,9 +65,6 @@ Pub. L. 98–94, title IX, § 925(b)(3), Sept. 24, 1983, 97 Stat. 648, required 
 **(b)** The assets of the Fund are hereby made available for payments under subsection (a).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(1)
-Pub. L. 114–92, div. A, title VI, §§ 633(a)(3), 635, Nov. 25, 2015, 129 Stat. 850, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(1) of this section is amended by striking “or 1414” and inserting “, 1414, or 1415”. See 2015 Amendment note below.
 
 #### References in Text
 Section 4 of Public Law 92–425, referred to in subsec. (a)(4), is set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).

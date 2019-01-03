@@ -44,7 +44,7 @@ Section 10701a, added Pub. L. 96–448, title II, § 201(a), Oct. 14, 1980, 94 S
 1996—Subsec. (d)(3). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this paragraph”.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Abolition of Interstate Commerce Commission
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
@@ -64,6 +64,9 @@ A rail carrier providing transportation or service subject to the jurisdiction o
 #### Prior Provisions
 A prior section 10702, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1372; Pub. L. 103–180, § 6(a), Dec. 3, 1993, 107 Stat. 2050; Pub. L. 103–311, title II, § 206(a), Aug. 26, 1994, 108 Stat. 1684, related to authority for carriers to establish rates, classifications, rules, and practices, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 10702 and 15502 of this title.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10703"></a>
 ## § 10703. Authority for rail carriers to establish through routes
@@ -78,6 +81,9 @@ Rail carriers providing transportation subject to the jurisdiction of the Board 
 
 #### Prior Provisions
 A prior section 10703, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1372; Pub. L. 96–296, § 22(a), (h), July 1, 1980, 94 Stat. 812, 814; Pub. L. 97–449, § 5(g)(5), Jan. 12, 1983, 96 Stat. 2443; Pub. L. 98–216, § 2(11), Feb. 14, 1984, 98 Stat. 5; Pub. L. 99–521, § 7(a), Oct. 22, 1986, 100 Stat. 2994; Pub. L. 103–272, § 5(m)(21), July 5, 1994, 108 Stat. 1377, related to authority for carriers to establish through routes, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 10703 and 13705 of this title.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10704"></a>
@@ -132,6 +138,9 @@ Subsec. (d). Pub. L. 114–110, § 11(b), designated existing provisions as par.
 
 1996—Subsec. (d). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10705"></a>
 ## § 10705. Authority: through routes, joint classifications, rates, and divisions prescribed by Board
@@ -160,6 +169,9 @@ Prior sections 10705 and 10705a were omitted in the general amendment of this su
 Section 10705, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1375; Pub. L. 96–296, § 22(b)–(g), July 1, 1980, 94 Stat. 813; Pub. L. 96–448, title II, § 218, Oct. 14, 1980, 94 Stat. 1925; Pub. L. 97–449, § 5(g)(4), Jan. 12, 1983, 96 Stat. 2443, related to authority for through routes, joint classifications, rates, and divisions prescribed by Interstate Commerce Commission. See sections 10705 and 13701 of this title.
 
 Section 10705a, added Pub. L. 96–448, title II, § 217(a)(1), Oct. 14, 1980, 94 Stat. 1916; amended Pub. L. 103–272, § 4(j)(20), July 5, 1994, 108 Stat. 1369, related to joint rate surcharges and cancellations.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10706"></a>
@@ -267,6 +279,9 @@ A prior section 10706, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1377; Pub. L. 9
 #### Amendments
 1996—Subsec. (a)(5)(C). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10707"></a>
 ## § 10707. Determination of market dominance in rail rate proceedings
@@ -301,6 +316,9 @@ Section 10707, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1380; Pub. L. 96–448,
 
 Section 10707a, added Pub. L. 96–448, title II, § 203(a), Oct. 14, 1980, 94 Stat. 1901; amended Pub. L. 103–272, § 4(j)(22), July 5, 1994, 108 Stat. 1369, related to zone of rail carrier flexibility.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10708"></a>
 ## § 10708. Rail cost adjustment factor
@@ -314,6 +332,9 @@ Section 10707a, added Pub. L. 96–448, title II, § 203(a), Oct. 14, 1980, 94 S
 Provisions similar to those in this section were contained in [section 10712 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10712&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 10708, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1382; Pub. L. 96–296, § 11, July 1, 1980, 94 Stat. 801; Pub. L. 97–261, §§ 11, 12(a), Sept. 20, 1982, 96 Stat. 1112, 1113; Pub. L. 99–521, § 7(d), Oct. 22, 1986, 100 Stat. 2995, related to investigation and suspension of new nonrail carrier rates, classifications, rules, and practices, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10709"></a>
@@ -387,6 +408,9 @@ Section 10713, added Pub. L. 96–448, title II, § 208(a), Oct. 14, 1980, 94 St
 
 1996—Subsec. (e). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10721"></a>
 ## § 10721. Government traffic
@@ -400,6 +424,9 @@ A prior section 10721, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383; Pub. L. 9
 
 #### Amendments
 2011—Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))”.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10722"></a>
@@ -446,6 +473,9 @@ Another prior section 10734 was renumbered [section 10735 of this title](https:/
 
 Section 10735, added Pub. L. 96–454, § 4(a), Oct. 15, 1980, 94 Stat. 2012, § 10734; renumbered § 10735, Pub. L. 98–554, title II, § 227(b)(1), Oct. 30, 1984, 98 Stat. 2852; amended Pub. L. 103–272, § 5(m)(23), July 5, 1994, 108 Stat. 1378, related to household goods rates, estimates, and guarantees of service. See [section 13704 of this title](./chapter-137-rates-and-through-routes.md#section-13704).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10741"></a>
 ## § 10741. Prohibitions against discrimination by rail carriers
@@ -470,6 +500,9 @@ Section 10735, added Pub. L. 96–454, § 4(a), Oct. 15, 1980, 94 Stat. 2012, §
 #### Prior Provisions
 A prior section 10741, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1390; Pub. L. 96–296, § 33(d), July 1, 1980, 94 Stat. 825; Pub. L. 96–448, title II, § 212, Oct. 14, 1980, 94 Stat. 1912; Pub. L. 99–521, § 7(h), Oct. 22, 1986, 100 Stat. 2995, related to prohibitions against discrimination by common carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 10741 and 15505 of this title.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10742"></a>
 ## § 10742. Facilities for interchange of traffic
@@ -480,6 +513,9 @@ A rail carrier providing transportation subject to the jurisdiction of the Board
 
 #### Prior Provisions
 A prior section 10742, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1391, related to facilities for interchange of traffic, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 10742 and 15506 of this title.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10743"></a>
@@ -514,6 +550,9 @@ Provisions similar to those in this section were contained in [section 10744 of 
 
 A prior section 10743, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1391; Pub. L. 99–521, § 7(i), Oct. 22, 1986, 100 Stat. 2995, related to payment of rates, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 13707 of this title](./chapter-137-rates-and-through-routes.md#section-13707).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10744"></a>
 ## § 10744. Continuous carriage of freight
@@ -527,6 +566,9 @@ Provisions similar to those in this section were contained in [section 10745 of 
 
 A prior section 10744, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1391, related to liability for payment of rates, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 10743 and 13706 of this title.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-10745"></a>
 ## § 10745. Transportation services or facilities furnished by shipper
@@ -539,6 +581,9 @@ A rail carrier providing transportation or service subject to the jurisdiction o
 Provisions similar to those in this section were contained in [section 10747 of this title](./chapter-107-rates.md#section-10747) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 10745, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1392, related to continuous carriage of freight, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See [section 10744 of this title](./chapter-107-rates.md#section-10744).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10746"></a>
@@ -556,6 +601,9 @@ A rail carrier providing transportation subject to the jurisdiction of the Board
 Provisions similar to those in this section were contained in [section 10750 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10750&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 10746, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1393, related to transportation of commodities manufactured or produced by rail carrier, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10747"></a>
@@ -616,3 +664,6 @@ Section 10784, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1400; Pub. L. 96–258,
 Section 10785, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1401, related to finality of valuations, notices, protests, and review.
 
 Section 10786, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1401, related to applicability of sections 10781 to 10786 of this title.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

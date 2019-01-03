@@ -2,7 +2,7 @@
 title: 7
 chapter: '54'
 heading: 'TRANSPORTATION, SALE, AND HANDLING OF CERTAIN ANIMALS'
-section_count: 29
+section_count: 30
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -769,12 +769,43 @@ Section, Pub. L. 89–544, § 25, as added Pub. L. 91–579, § 22, Dec. 24, 197
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–334, title XII, § 12616(a)–(c), (e), Dec. 20, 2018, 132 Stat. 5015, 5016, provided that, effective on the date that is one year after Dec. 20, 2018, this section is amended as follows:
+
+(1) in subsection (a)—
+
+(A) in paragraph (1), by striking “Except as provided in paragraph (3), it” and inserting “It”; and
+
+(B) by striking paragraph (3);
+
+(2) in subsection (c), by striking “(e)” and inserting “(d)”;
+
+(3) by redesignating paragraphs (e) to (j) as (d) to (i), respectively; and
+
+(4) in subsection (i), as so redesignated, by striking “(e)” and inserting “(d)”.
+
+See 2018 Amendment notes below.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279. Subsec. (i)(2) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279, amended [section 3001(a) of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3001/a&num=0&edition=prelim), Postal Service.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334, § 12616(a)(1)(A), substituted “It” for “Except as provided in paragraph (3), it”.
+
+Subsec. (a)(3). Pub. L. 115–334, § 12616(a)(1)(B), struck out par. (3). Text read as follows: “With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.”
+
+Subsec. (c). Pub. L. 115–334, § 12616(b), substituted “(d)” for “(e)”.
+
+Subsecs. (d) to (h). Pub. L. 115–334, § 12616(a)(2), (3), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “Notwithstanding the provisions of subsection (c), the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.”
+
+Subsec. (i). Pub. L. 115–334, § 12616(c), substituted “(d)” for “(e)”.
+
+Pub. L. 115–334, § 12616(a)(3), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+
+Subsec. (j). Pub. L. 115–334, § 12616(a)(3), redesignated subsec. (j) as (i).
+
 2014—Subsec. (a). Pub. L. 113–79, § 12308(b)(1)(A), substituted “Sponsoring or exhibiting an animal in, attending, or causing an individual who has not attained the age of 16 to attend,” for “Sponsoring or exhibiting an animal in” in heading.
 
 Subsec. (a)(1). Pub. L. 113–79, § 12308(b)(1)(B)(i), (ii), substituted “Sponsoring or exhibiting” for “In general” in heading and “paragraph (3)” for “paragraph (2)” in text.
@@ -835,6 +866,9 @@ Subsec. (g)(2)(B). Pub. L. 107–171, § 10303(a)(2), inserted “or from any St
 
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title XII, § 12616(e), Dec. 20, 2018, 132 Stat. 5016, provided that: “The amendments made by this section [amending this section, [section 49 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section49&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 3001 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3001&num=0&edition=prelim), Postal Service] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 20, 2018].”
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -952,3 +986,37 @@ Section effective one year after Dec. 23, 1985, see section 1759 of Pub. L. 99�
 **(a) Request** Whenever the Secretary has reason to believe that any dealer, carrier, exhibitor, or intermediate handler is dealing in stolen animals, or is placing the health of any animal in serious danger in violation of this chapter or the regulations or standards promulgated thereunder, the Secretary shall notify the Attorney General, who may apply to the United States district court in which such dealer, carrier, exhibitor, or intermediate handler resides or conducts business for a temporary restraining order or injunction to prevent any such person from operating in violation of this chapter or the regulations and standards prescribed under this chapter.
 
 **(b) Issuance** The court shall, upon a proper showing, issue a temporary restraining order or injunction under subsection (a) without bond. Such injunction or order shall remain in effect until a complaint pursuant to [section 2149 of this title](./chapter-054-transportation-sale-and-handling-of-certain-animals.md#section-2149) is issued and dismissed by the Secretary or until an order to cease and desist made thereon by the Secretary has become final and effective or is set aside on appellate review. Attorneys of the Department of Agriculture may, with the approval of the Attorney General, appear in the United States district court representing the Secretary in any action brought under this section.
+
+
+<a id="section-2160"></a>
+## § 2160. Prohibition on slaughter of dogs and cats for human consumption
+**(a) In general** Except as provided in subsection (c), no person may—
+
+(1) knowingly slaughter a dog or cat for human consumption; or
+
+(2) knowingly ship, transport, move, deliver, receive, possess, purchase, sell, or donate—
+
+  (A) a dog or cat to be slaughtered for human consumption; or
+
+  (B) a dog or cat part for human consumption.
+
+**(b) Scope** Subsection (a) shall apply only with respect to conduct—
+
+(1) in or affecting interstate commerce or foreign commerce; or
+
+(2) within the special maritime and territorial jurisdiction of the United States.
+
+**(c) Exception for Indian tribes** The prohibition in subsection (a) shall not apply to an Indian (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) carrying out any activity described in subsection (a) for the purpose of a religious ceremony.
+
+**(d) Penalty** Any person who violates subsection (a) shall be subject to a fine in an amount not greater than $5,000 for each violation.
+
+**(e) Effect On State law** Nothing in this section—
+
+(1) limits any State or local law or regulation protecting the welfare of animals; or
+
+(2) prevents a State or unit of local government from adopting and enforcing an animal welfare law or regulation that is more stringent than this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Animal Welfare Act which comprises this chapter.

@@ -2,7 +2,7 @@
 title: 21
 chapter: '13'
 heading: DRUG ABUSE PREVENTION AND CONTROL
-section_count: 103
+section_count: 105
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21&num=0&edition=prelim
 ---
@@ -38,6 +38,22 @@ This subchapter, referred to in par. (1), was in the original “this title”, 
 
 #### Effective Date
 Pub. L. 91–513, title II, § 704, Oct. 27, 1970, 84 Stat. 1284, provided that: “(a) Except as otherwise provided in this section, this title [see Short Title note below] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment [Oct. 27, 1970]. “(b) Parts A, B, E, and F of this title [Parts A, B, E, and F of this subchapter], section 702 [set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)], this section, and sections 705 through 709 [sections 901 to 904 of this title and note set out below], shall become effective upon enactment [Oct. 27, 1970]. “(c) Sections 305 (relating to labels and labeling) [[section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825)], and 306 (relating to manufacturing quotas) [[section 826 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-826)] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title [see Short Title note below].”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–271, title III, § 3211, Oct. 24, 2018, 132 Stat. 3947, provided that: “This chapter [chapter 2 (§§ 3211, 3212) of subtitle B of title III of Pub. L. 115–271, enacting provisions set out as a note under [section 829 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-829)] may be cited as the ‘Empowering Pharmacists in the Fight Against Opioid Abuse Act’.”
+
+Pub. L. 115–271, title III, § 3221, Oct. 24, 2018, 132 Stat. 3947, provided that: “This chapter [chapter 3 (§§ 3221–3223) of subtitle B of title III of Pub. L. 115–271, amending [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822) and enacting provisions set out as notes under [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822)] may be cited as the ‘Safe Disposal of Unused Medication Act’.”
+
+Pub. L. 115–271, title III, § 3231, Oct. 24, 2018, 132 Stat. 3949, provided that: “This chapter [chapter 4 (§§ 3231, 3232) of subtitle B of title III of Pub. L. 115–271, amending [section 831 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-831)] may be cited as the ‘Special Registration for Telemedicine Clarification Act of 2018’.”
+
+Pub. L. 115–271, title III, § 3271, Oct. 24, 2018, 132 Stat. 3952, provided that: “This chapter [chapter 7 (§§ 3271–3274) of subtitle B of title III of Pub. L. 115–271, amending sections 827, 842, and 873 of this title and enacting provisions set out as a note under [section 827 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-827)] may be cited as the ‘Using Data To Prevent Opioid Diversion Act of 2018’.”
+
+Pub. L. 115–271, title III, § 3281, Oct. 24, 2018, 132 Stat. 3954, provided that: “This chapter [chapter 8 (§§ 3281, 3282) of subtitle B of title III of Pub. L. 115–271, amending [section 826 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-826) and enacting provisions set out as a note under [section 826 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-826)] may be cited as the ‘Opioid Quota Reform Act’.”
+
+Pub. L. 115–271, title III, § 3291, Oct. 24, 2018, 132 Stat. 3956, provided that: “This chapter [chapter 9 (§§ 3291, 3292) of subtitle B of title III of Pub. L. 115–271, enacting [section 832 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-832) and amending [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802)] may be cited as the ‘Preventing Drug Diversion Act of 2018’.”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–83, § 1, Nov. 17, 2017, 131 Stat. 1267, provided that: “This Act [amending [section 823 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-823)] may be cited as the ‘Protecting Patient Access to Emergency Medications Act of 2017’.”
 
 #### Short Title of 2016 Amendment
 Pub. L. 114–145, § 1, Apr. 19, 2016, 130 Stat. 354, provided that: “This Act [amending sections 823 and 824 of this title] may be cited as the ‘Ensuring Patient Access and Effective Drug Enforcement Act of 2016’.”
@@ -240,6 +256,35 @@ Sec. 6. This order shall be effective as of July 1, 1973.
 
 Richard Nixon.
 
+#### Combatting the National Drug Demand and Opioid Crisis
+Memorandum of President of the United States, Oct. 26, 2017, 82 F.R. 50305, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby directed as follows:
+
+Section 1. Policy. It shall be the policy of the United States to use all lawful means to combat the drug demand and opioid crisis currently afflicting our country. Individuals, families, and communities across the United States continue to be devastated by an unprecedented epidemic of drug abuse and overdose, including of prescription opioids, heroin, and illicit synthetic opioids. Last year, we lost at least 64,000 of our fellow Americans to drug overdose, primarily from opioids. This is an increase of approximately 12,000 people over the year before and more than ever recorded in United States history. Drug overdoses now kill more Americans than motor vehicle crashes or gun-related incidents, and more than 300,000 Americans have died of an opioid overdose since 2000. Further, more than 2.1 million of our fellow citizens are addicted to opioids, and in 2014 more than 1,500 people were treated each day in emergency departments for opioid-related emergencies.
+
+This crisis has devastated our communities. It has been particularly harmful for children affected by their parents’ drug abuse. The number of infants born drug-dependent increased by nearly 500 percent from 2000 to 2012. The number of children being placed into foster care due, at least in part, to parental drug abuse is increasing, and accounted for almost a third of all child removals in Fiscal Year 2015. Serious drug users are also more likely to be arrested for crimes such as burglary, robbery, and handling stolen goods. Moreover, the drug trafficking that supplies illegal drugs to our country is associated with other illegal activities, including murder and other violent crimes. All of this devastates lives and harms communities in both the United States and foreign countries involved in the illegal drug supply chain. Federal, State, and local governments; law enforcement; first responders; the medical, public health, and substance abuse treatment community; and faith-based and community organizations are working tirelessly and have even expanded their efforts to combat the drug demand and opioid crisis.
+
+Three factors are driving the opioid aspect of this crisis in particular. First, since the 1990s, there has been a dramatic rise in opioid pain medication prescriptions. Second, heroin from Mexico has flooded the country. Third, the illicit manufacture and illegal importation of fentanyl—an extremely deadly synthetic opioid—and its analogues and related compounds have proliferated. Fentanyl is currently manufactured almost exclusively in China, and it is either shipped into the United States or smuggled across the southern border by drug traffickers. Between 2013 and 2016, the amount of fentanyl seized by Customs and Border Protection at the border increased more than 200 times over. Dealers are increasingly lacing fentanyl into other drugs and pressing it into counterfeit opioid pills. Because fentanyl is lethal in even miniscule doses, this is an extremely deadly tactic, as it too often causes users to ingest a fatal amount unknowingly.
+
+Sec. 2. Agency Action. The Secretary of Health and Human Services shall, consistent with section 319 of the Public Health Service Act, [42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim), consider declaring that the drug demand and opioid crisis described in section 1 of this memorandum constitutes a Public Health Emergency. Additionally, the heads of executive departments and agencies, as appropriate and consistent with law, shall exercise all appropriate emergency authorities, as well as other relevant authorities, to reduce the number of deaths and minimize the devastation the drug demand and opioid crisis inflicts upon American communities.
+
+Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Health and Human Services is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 
 <a id="section-801a"></a>
 ## § 801a. Congressional findings and declarations: psychotropic substances
@@ -317,7 +362,15 @@ As used in this subchapter:
 
 (15) The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
 
-(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
+(16)
+
+  (A) Subject to subparagraph (B), the term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
+
+  (B) The term “marihuana” does not include—
+
+    (i) hemp, as defined in section 1639o of title 7; or
+
+    (ii) the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
 
 (17) The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
@@ -885,6 +938,26 @@ As used in this subchapter:
 
   (C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
+(57) 11 So in original. Two pars. (57) have been enacted. The term “suspicious order” may include, but is not limited to—
+
+  (A) an order of a controlled substance of unusual size;
+
+  (B) an order of a controlled substance deviating substantially from a normal pattern; and
+
+  (C) orders of controlled substances of unusual frequency.
+
+(57) 1 The term “serious drug felony” means an offense described in [section 924(e)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section924/e/2&num=0&edition=prelim) for which—
+
+  (A) the offender served a term of imprisonment of more than 12 months; and
+
+  (B) the offender’s release from any term of imprisonment was within 15 years of the commencement of the instant offense.
+
+(58) The term “serious violent felony” means—
+
+  (A) an offense described in [section 3559(c)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3559/c/2&num=0&edition=prelim) for which the offender served a term of imprisonment of more than 12 months; and
+
+  (B) any offense that would be a felony violation of [section 113 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section113&num=0&edition=prelim), if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
+
 ### Statutory Notes
 
 #### References in Text
@@ -901,6 +974,16 @@ This chapter, referred to in par. (41)(C)(i), was in the original “this Act”
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Par. (16). Pub. L. 115–334 redesignated the first sentence as subpar. (A), substituted “Subject to subparagraph (B), the” for “The”, inserted subpar. (B) designation, introductory provisions and cl. (i), redesignated the second sentence as cl. (ii) of subpar. (B), and struck out “Such term does not include” before “the mature stalks”.
+
+Par. (24). Pub. L. 115–271, § 3202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+Par. (57). Pub. L. 115–391, § 401(a)(1), added par. (57) defining the term “serious drug felony”.
+
+Pub. L. 115–271, § 3292(a), added par. (57) defining the term “suspicious order”.
+
+Par. (58). Pub. L. 115–391, § 401(a)(1), added par. (58).
+
 2016—Par. (18). Pub. L. 114–198 inserted “or ‘opioid’ ” after “The term ‘opiate’ ”.
 
 2014—Par. (41)(A)(l) to (lxxv). Pub. L. 113–260, § 2(a)(1), added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
@@ -1049,8 +1132,8 @@ Par. (30). Pub. L. 98–473, § 507(a), redesignated former par. (29) as (30).
 
 1974—Pars. (27), (28). Pub. L. 93–281 added pars. (27) and (28).
 
-#### Change of Name
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (24) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+#### Effective Date of 2018 Amendment
+Pub. L. 115–391, title IV, § 401(c), Dec. 21, 2018, 132 Stat. 5221, provided that: “This section [amending this section and sections 841 and 960 of this title], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act [Dec. 21, 2018], if a sentence for the offense has not been imposed as of such date of enactment.”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–425, § 3(j), Oct. 15, 2008, 122 Stat. 4832, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this Act [enacting [section 831 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-831) and amending this section and sections 823, 827, 829, 841, 843, 882 and 960 of this title] shall take effect 180 days after the date of enactment of this Act [Oct. 15, 2008]. “(2) Definition of practice of telemedicine.—“(A) In general.—Until the earlier of 3 months after the date on which regulations are promulgated to carry out section 311(h) of the Controlled Substances Act [[21 U.S.C. 831(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section831/h&num=0&edition=prelim)], as amended by this Act, or 15 months after the date of enactment of this Act—“(i) the definition of the term ‘practice of telemedicine’ in subparagraph (B) of this paragraph shall apply for purposes of the Controlled Substances Act [[21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.]; and “(ii) the definition of the term ‘practice of telemedicine’ in section 102(54) of the Controlled Substances Act [[21 U.S.C. 802(54)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/54&num=0&edition=prelim)], as amended by this Act, shall not apply. “(B) Temporary phase-in of telemedicine regulation.—During the period specified in subparagraph (A), the term ‘practice of telemedicine’ means the practice of medicine in accordance with applicable Federal and State laws by a practitioner (as that term is defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802](./chapter-013-drug-abuse-prevention-and-control.md#section-802))) (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1834(m) of the Social Security Act ([42 U.S.C. 1395m(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/m&num=0&edition=prelim)), if the practitioner is using an interactive telecommunications system that satisfies the requirements of section 410.78(a)(3) of title 42, Code of Federal Regulations. “(C) Rule of construction.—Nothing in this subsection may be construed to create a precedent that any specific course of conduct constitutes the ‘practice of telemedicine’ (as that term is defined in section 102(54) of the Controlled Substances Act, as amended by this Act) after the end of the period specified in subparagraph (A).”
@@ -1298,7 +1381,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 <a id="section-812"></a>
 ## § 812. Schedules of controlled substances
-**(a) Establishment** There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970, and shall be updated and republished on an annual basis thereafter.
+**(a) Establishment** There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970, and shall be updated and republished on an annual basis thereafter.11 See Amendment of Schedules of Controlled Substances note below.
 
 **(b) Placement on schedules; findings required** Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October 27, 1970, and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
 
@@ -1342,7 +1425,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
   (C) Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.
 
-**(c) Initial schedules of controlled substances** Schedules I, II, III, IV, and V shall, unless and until amended pursuant to [section 811 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-811),11 See Amendment of Schedules of Controlled Substances note below. consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
+**(c) Initial schedules of controlled substances** Schedules I, II, III, IV, and V shall, unless and until amended pursuant to [section 811 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-811), consist of the following drugs or other substances,1 by whatever official name, common or usual name, chemical name, or brand name designated:
 Schedule I
 
 **(a)** Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
@@ -1511,7 +1594,7 @@ Schedule I
 
 (16) Psilocyn.
 
-(17) Tetrahydrocannabinols.
+(17) Tetrahydrocannabinols, except for tetrahydrocannabinols in hemp (as defined under section 1639o of title 7).
 
 (18) 4-methylmethcathinone (Mephedrone).
 
@@ -1724,10 +1807,9 @@ Schedule IV
 
 ### Statutory Notes
 
-#### Amendment of Schedules of Controlled Substances
-For updated and republished schedules of controlled substances established by this section, see Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.
-
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–334 inserted “, except for tetrahydrocannabinols in hemp (as defined under section 1639o of title 7)” after “Tetrahydrocannabinols” in schedule I(c)(17).
+
 2012—Subsec. (c). Pub. L. 112–144, § 1152(b), added schedule I(c)(18) to (28).
 
 Pub. L. 112–144, § 1152(a), added schedule I(d).
@@ -1750,6 +1832,9 @@ Amendment by Pub. L. 101–647 effective 90 days after Nov. 29, 1990, see sectio
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States [July 15, 1980], see section 112 of Pub. L. 95–633, set out as an Effective Date note under [section 801a of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801a).
 
+#### Amendment of Schedules of Controlled Substances
+For updated and republished schedules of controlled substances established by this section, see Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.
+
 #### Congressional Finding; Emergency Scheduling of GHB in Controlled Substances Act
 Pub. L. 106–172, §§ 2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that: “SEC. 2. FINDINGS.“Congress finds as follows:“(1) Gamma hydroxybutyric acid (also called G, Liquid X, Liquid Ecstasy, Grievous Bodily Harm, Georgia Home Boy, Scoop) has become a significant and growing problem in law enforcement. At least 20 States have scheduled such drug in their drug laws and law enforcement officials have been experiencing an increased presence of the drug in driving under the influence, sexual assault, and overdose cases especially at night clubs and parties. “(2) A behavioral depressant and a hypnotic, gamma hydroxybutyric acid (‘GHB’) is being used in conjunction with alcohol and other drugs with detrimental effects in an increasing number of cases. It is difficult to isolate the impact of such drug’s ingestion since it is so typically taken with an ever-changing array of other drugs and especially alcohol which potentiates its impact. “(3) GHB takes the same path as alcohol, processes via alcohol dehydrogenase, and its symptoms at high levels of intake and as impact builds are comparable to alcohol ingestion/intoxication. Thus, aggression and violence can be expected in some individuals who use such drug. “(4) If taken for human consumption, common industrial chemicals such as gamma butyrolactone and 1.4-butanediol are swiftly converted by the body into GHB. Illicit use of these and other GHB analogues and precursor chemicals is a significant and growing law enforcement problem. “(5) A human pharmaceutical formulation of gamma hydroxybutyric acid is being developed as a treatment for cataplexy, a serious and debilitating disease. Cataplexy, which causes sudden and total loss of muscle control, affects about 65 percent of the estimated 180,000 Americans with narcolepsy, a sleep disorder. People with cataplexy often are unable to work, drive a car, hold their children or live a normal life. “(6) Abuse of illicit GHB is an imminent hazard to public safety that requires immediate regulatory action under the Controlled Substances Act ([21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.). “SEC. 3. EMERGENCY SCHEDULING OF GAMMA HYDROXYBUTYRIC ACID AND LISTING OF GAMMA BUTYROLACTONE AS LIST I CHEMICAL.“(a) Emergency Scheduling of GHB.—“(1) In general.—The Congress finds that the abuse of illicit gamma hydroxybutyric acid is an imminent hazard to the public safety. Accordingly, the Attorney General, notwithstanding sections 201(a), 201(b), 201(c), and 202 of the Controlled Substances Act [[21 U.S.C. 811(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section811/a&num=0&edition=prelim)–(c), 812], shall issue, not later than 60 days after the date of the enactment of this Act [Feb. 18, 2000], a final order that schedules such drug (together with its salts, isomers, and salts of isomers) in the same schedule under section 202(c) of the Controlled Substances Act as would apply to a scheduling of a substance by the Attorney General under section 201(h)(1) of such Act (relating to imminent hazards to the public safety), except as follows:“(A) For purposes of any requirements that relate to the physical security of registered manufacturers and registered distributors, the final order shall treat such drug, when the drug is manufactured, distributed, or possessed in accordance with an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim)] (whether the exemption involved is authorized before, on, or after the date of the enactment of this Act [Feb. 18, 2000]), as being in the same schedule as that recommended by the Secretary of Health and Human Services for the drug when the drug is the subject of an authorized investigational new drug application (relating to such section 505(i)). The recommendation referred to in the preceding sentence is contained in the first paragraph of the letter transmitted on May 19, 1999, by such Secretary (acting through the Assistant Secretary for Health) to the Attorney General (acting through the Deputy Administrator of the Drug Enforcement Administration), which letter was in response to the letter transmitted by the Attorney General (acting through such Deputy Administrator) on September 16, 1997. In publishing the final order in the Federal Register, the Attorney General shall publish a copy of the letter that was transmitted by the Secretary of Health and Human Services. “(B) In the case of gamma hydroxybutyric acid that is contained in a drug product for which an application is approved under section 505 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)] (whether the application involved is approved before, on, or after the date of the enactment of this Act [Feb. 18, 2000]), the final order shall schedule such drug in the same schedule as that recommended by the Secretary of Health and Human Services for authorized formulations of the drug. The recommendation referred to in the preceding sentence is contained in the last sentence of the fourth paragraph of the letter referred to in subparagraph (A) with respect to May 19, 1999. “(2) Failure to issue order.—If the final order is not issued within the period specified in paragraph (1), gamma hydroxybutyric acid (together with its salts, isomers, and salts of isomers) is deemed to be scheduled under section 202(c) of the Controlled Substances Act [[21 U.S.C. 812(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim)] in accordance with the policies described in paragraph (1), as if the Attorney General had issued a final order in accordance with such paragraph.”
 
@@ -1761,15 +1846,32 @@ Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the
 
 <a id="section-813"></a>
 ## § 813. Treatment of controlled substance analogues
+**(a) In general** A controlled substance analogue shall, to the extent intended for human consumption, be treated, for the purposes of any Federal law as a controlled substance in schedule I.
 
-A controlled substance analogue shall, to the extent intended for human consumption, be treated, for the purposes of any Federal law as a controlled substance in schedule I.
+**(b) Determination** In determining whether a controlled substance analogue was intended for human consumption under subsection (a), the following factors may be considered, along with any other relevant factors:
+
+(1) The marketing, advertising, and labeling of the substance.
+
+(2) The known efficacy or usefulness of the substance for the marketed, advertised, or labeled purpose.
+
+(3) The difference between the price at which the substance is sold and the price at which the substance it is purported to be or advertised as is normally sold.
+
+(4) The diversion of the substance from legitimate channels and the clandestine importation, manufacture, or distribution of the substance.
+
+(5) Whether the defendant knew or should have known the substance was intended to be consumed by injection, inhalation, ingestion, or any other immediate means.
+
+(6) Any controlled substance analogue that is manufactured, formulated, sold, distributed, or marketed with the intent to avoid the provisions of existing drug laws.
+
+**(c) Limitation** For purposes of this section, evidence that a substance was not marketed, advertised, or labeled for human consumption, by itself, shall not be sufficient to establish that the substance was not intended for human consumption.
 
 ### Statutory Notes
 
 #### References in Text
-Schedule I, referred to in text, is set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
+Schedule I, referred to in subsec. (a), is set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 #### Amendments
+2018—Pub. L. 115–271 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
 1988—Pub. L. 100–690 substituted “any Federal law” for “this subchapter and subchapter II of this chapter”.
 
 
@@ -1844,6 +1946,9 @@ The Attorney General is authorized to promulgate rules and regulations and to ch
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 
 <a id="section-822"></a>
 ## § 822. Persons required to register
@@ -1887,6 +1992,58 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 (4) If a person dies while lawfully in possession of a controlled substance for personal use, any person lawfully entitled to dispose of the decedent’s property may deliver the controlled substance to another person for the purpose of disposal under the same conditions as provided in paragraph (1) for an ultimate user.
 
+(5)
+
+  (A) In the case of a person receiving hospice care, an employee of a qualified hospice program, acting within the scope of employment, may handle, without being registered under this section, any controlled substance that was lawfully dispensed to the person receiving hospice care, for the purpose of disposal of the controlled substance so long as such disposal occurs onsite in accordance with all applicable Federal, State, Tribal, and local law and—
+
+    (i) the disposal occurs after the death of a person receiving hospice care;
+
+    (ii) the controlled substance is expired; or
+
+    (iii)
+
+      (I) the employee is—
+
+        (aa) the physician of the person receiving hospice care; and
+
+        (bb) registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim); and
+
+      (II) the hospice patient no longer requires the controlled substance because the plan of care of the hospice patient has been modified.
+
+  (B) For the purposes of this paragraph:
+
+    (i) The terms “hospice care” and “hospice program” have the meanings given to those terms in [section 1395x(dd) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd&num=0&edition=prelim).
+
+    (ii) The term “employee of a qualified hospice program” means a physician, physician assistant, nurse, or other person who—
+
+      (I) is employed by, or pursuant to arrangements made by, a qualified hospice program;
+
+      (II)
+
+        (aa) is licensed to perform medical or nursing services by the jurisdiction in which the person receiving hospice care was located; and
+
+        (bb) is acting within the scope of such employment in accordance with applicable State law; and
+
+      (III) has completed training through the qualified hospice program regarding the disposal of controlled substances in a secure and responsible manner so as to discourage abuse, misuse, or diversion.
+
+    (iii) The term “qualified hospice program” means a hospice program that—
+
+      (I) has written policies and procedures for assisting in the disposal of the controlled substances of a person receiving hospice care after the person’s death;
+
+      (II) at the time when the controlled substances are first ordered—
+
+        (aa) provides a copy of the written policies and procedures to the patient or patient representative and family;
+
+        (bb) discusses the policies and procedures with the patient or representative and the family in a language and manner that they understand to ensure that these parties are educated regarding the safe disposal of controlled substances; and
+
+        (cc) documents in the patient’s clinical record that the written policies and procedures were provided and discussed; and
+
+      (III) at the time following the disposal of the controlled substances—
+
+        (aa) documents in the patient’s clinical record the type of controlled substance, dosage, route of administration, and quantity so disposed; and
+
+        (bb) the time, date, and manner in which that disposal occurred.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1895,6 +2052,8 @@ This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the origin
 [Section 802(25) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/25&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated [section 802(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/26&num=0&edition=prelim) by Pub. L. 98–473, title II, § 507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated [section 802(27) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/27&num=0&edition=prelim) by Pub. L. 99–570, title I, § 1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
 #### Amendments
+2018—Subsec. (g)(5). Pub. L. 115–271 added par. (5).
+
 2014—Subsec. (e). Pub. L. 113–143 designated existing provisions as par. (1) and added par. (2).
 
 2010—Subsec. (g). Pub. L. 111–273 added subsec. (g).
@@ -1911,6 +2070,15 @@ Subsec. (e). Pub. L. 103–200, § 3(b)(4), inserted “or list I chemicals” a
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
+#### Rule of Construction Relating to State and Local Law
+Pub. L. 115–271, title III, § 3222(c), Oct. 24, 2018, 132 Stat. 3949, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note below] or the amendments made by this section shall be construed to prevent a State or local government from imposing additional controls or restrictions relating to the regulation of the disposal of controlled substances in hospice care or hospice programs.”
+
+#### Guidance
+Pub. L. 115–271, title III, § 3222(b), Oct. 24, 2018, 132 Stat. 3949, provided that: “The Attorney General may issue guidance to hospice programs (as defined in paragraph (5) of section 302(g) of the Controlled Substances Act ([21 U.S.C. 822(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section822/g&num=0&edition=prelim)), as added by subsection (a)) to assist the programs in satisfying the requirements under such paragraph (5).”
 
 #### Findings
 Pub. L. 111–273, § 2, Oct. 12, 2010, 124 Stat. 2858, provided that: “Congress finds the following: “(1) The nonmedical use of prescription drugs is a growing problem in the United States, particularly among teenagers. “(2) According to the Department of Justice’s 2009 National Prescription Drug Threat Assessment—“(A) the number of deaths and treatment admissions for controlled prescription drugs (CPDs) has increased significantly in recent years; “(B) unintentional overdose deaths involving prescription opioids, for example, increased 114 percent from 2001 to 2005, and the number of treatment admissions for prescription opioids increased 74 percent from 2002 to 2006; and “(C) violent crime and property crime associated with abuse and diversion of CPDs has increased in all regions of the United States over the past 5 years. “(3) According to the Office of National Drug Control Policy’s 2008 Report ‘Prescription for Danger’, prescription drug abuse is especially on the rise for teens—“(A) one-third of all new abusers of prescription drugs in 2006 were 12- to 17-year-olds; “(B) teens abuse prescription drugs more than any illicit drug except marijuana—more than cocaine, heroin, and methamphetamine combined; and “(C) responsible adults are in a unique position to reduce teen access to prescription drugs because the drugs often are found in the home. “(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called ‘take-back’ programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers. “(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them. “(C) Individuals seeking to reduce the amount of unwanted controlled substances in their household consequently have few disposal options beyond discarding or flushing the substances, which may not be appropriate means of disposing of the substances. Drug take-back programs are also a convenient and effective means for individuals in various communities to reduce the introduction of some potentially harmful substances into the environment, particularly into water. “(D) Long-term care facilities face a distinct set of obstacles to the safe disposal of controlled substances due to the increased volume of controlled substances they handle. “(5) This Act [see Short Title of 2010 Amendment note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801)] gives the Attorney General authority to promulgate new regulations, within the framework of the Controlled Substances Act [[21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.], that will allow patients to deliver unused pharmaceutical controlled substances to appropriate entities for disposal in a safe and effective manner consistent with effective controls against diversion. “(6) The goal of this Act is to encourage the Attorney General to set controlled substance diversion prevention parameters that will allow public and private entities to develop a variety of methods of collection and disposal of controlled substances, including some pharmaceuticals, in a secure, convenient, and responsible manner. This will also serve to reduce instances of diversion and introduction of some potentially harmful substances into the environment.”
@@ -1943,6 +2111,9 @@ Pub. L. 91–513, title II, § 703, Oct. 27, 1970, 84 Stat. 1283, as amended by 
 
 #### Codification
 Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+#### Access to Increased Drug Disposal
+Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, provided that: “SEC. 3251. SHORT TITLE.“This chapter may be cited as the ‘Access to Increased Drug Disposal Act of 2018’. “SEC. 3252. DEFINITIONS.“In this chapter—“(1) the term ‘Attorney General’ means the Attorney General, acting through the Assistant Attorney General for the Office of Justice Programs; “(2) the term ‘authorized collector’ means a narcotic treatment program, a hospital or clinic with an on-site pharmacy, a retail pharmacy, or a reverse distributor, that is authorized as a collector under section 1317.40 of title 21, Code of Federal Regulations (or any successor regulation); “(3) the term ‘covered grant’ means a grant awarded under section 3003 [probably means section 3253; no section 3003 of Pub. L. 115–271 has been enacted]; and “(4) the term ‘eligible collector’ means a person who is eligible to be an authorized collector. “SEC. 3253. AUTHORITY TO MAKE GRANTS.“The Attorney General shall award grants to States to enable the States to increase the participation of eligible collectors as authorized collectors. “SEC. 3254. APPLICATION.“A State desiring a covered grant shall submit to the Attorney General an application that, at a minimum—“(1) identifies the single State agency that oversees pharmaceutical care and will be responsible for complying with the requirements of the grant; “(2) details a plan to increase participation rates of eligible collectors as authorized collectors; and “(3) describes how the State will select eligible collectors to be served under the grant. “SEC. 3255. USE OF GRANT FUNDS.“A State that receives a covered grant, and any subrecipient of the grant, may use the grant amounts only for the costs of installation, maintenance, training, purchasing, and disposal of controlled substances associated with the participation of eligible collectors as authorized collectors. “SEC. 3256. ELIGIBILITY FOR GRANT.“The Attorney General shall award a covered grant to 5 States, not less than 3 of which shall be States in the lowest quartile of States based on the participation rate of eligible collectors as authorized collectors, as determined by the Attorney General. “SEC. 3257. DURATION OF GRANTS.“The Attorney General shall determine the period of years for which a covered grant is made to a State. “SEC. 3258. ACCOUNTABILITY AND OVERSIGHT.“A State that receives a covered grant shall submit to the Attorney General a report, at such time and in such manner as the Attorney General may reasonably require, that—“(1) lists the ultimate recipients of the grant amounts; “(2) describes the activities undertaken by the State using the grant amounts; and “(3) contains performance measures relating to the effectiveness of the grant, including changes in the participation rate of eligible collectors as authorized collectors. “SEC. 3259. DURATION OF PROGRAM.“The Attorney General may award covered grants for each of the first 5 fiscal years beginning after the date of enactment of this Act [Oct. 24, 2018]. “SEC. 3260. AUTHORIZATION OF APPROPRIATIONS.“There is authorized to be appropriated to the Attorney General such sums as may be necessary to carry out this chapter.”
 
 
 <a id="section-823"></a>
@@ -2042,7 +2213,15 @@ Separate registration under this part for practitioners engaging in research wit
 
       (I) The total number of such patients of the practitioner at any one time will not exceed the applicable number. Except as provided in subclause (II), the applicable number is 30.
 
-      (II) The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.
+      (II) The applicable number is—
+
+        (aa) 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients;
+
+        (bb) 100 if the practitioner holds additional credentialing, as defined in section 8.2 of title 42, Code of Federal Regulations (or successor regulations);
+
+        (cc) 100 if the practitioner provides medication-assisted treatment (MAT) using covered medications (as such terms are defined in section 8.2 of title 42, Code of Federal Regulations (or successor regulations)) in a qualified practice setting (as described in section 8.615 of title 42, Code of Federal Regulations (or successor regulations)); or
+
+        (dd) 275 if the practitioner meets the requirements specified in sections 8.610 through 8.655 of title 42, Code of Federal Regulations (or successor regulations).
 
       (III) The Secretary may by regulation change such applicable number.
 
@@ -2120,23 +2299,35 @@ Separate registration under this part for practitioners engaging in research wit
 
       (VII) The physician has such other training or experience as the Secretary considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients. Any criteria of the Secretary under this subclause shall be established by regulation. Any such criteria are effective only for 3 years after the date on which the criteria are promulgated, but may be extended for such additional discrete 3-year periods as the Secretary considers appropriate for purposes of this subclause. Such an extension of criteria may only be effectuated through a statement published in the Federal Register by the Secretary during the 30-day period preceding the end of the 3-year period involved.
 
+      (VIII) The physician graduated in good standing from an accredited school of allopathic medicine or osteopathic medicine in the United States during the 5-year period immediately preceding the date on which the physician submits to the Secretary a written notification under subparagraph (B) and successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency that—
+
+        (aa) included not less than 8 hours of training on treating and managing opioid-dependent patients; and
+
+        (bb) included, at a minimum—
+
+          (AA) the training described in items (aa) through (gg) of subclause (IV); and
+
+          (BB) training with respect to any other best practice the Secretary determines should be included in the curriculum, which may include training on pain management, including assessment and appropriate use of opioid and non-opioid alternatives.
+
     (iii) The term “qualifying practitioner” means—
 
-      (I) a qualifying physician, as defined in clause (ii); or
+      (I) a qualifying physician, as defined in clause (ii);
 
-      (II) during the period beginning on July 22, 2016, and ending on October 1, 2021, a qualifying other practitioner, as defined in clause (iv).
+      (II) a qualifying other practitioner, as defined in clause (iv), who is a nurse practitioner or physician assistant; or
 
-    (iv) The term “qualifying other practitioner” means a nurse practitioner or physician assistant who satisfies each of the following:
+      (III) for the period beginning on October 1, 2018, and ending on October 1, 2023, a qualifying other practitioner, as defined in clause (iv), who is a clinical nurse specialist, certified registered nurse anesthetist, or certified nurse midwife.
 
-      (I) The nurse practitioner or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
+    (iv) The term “qualifying other practitioner” means a nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant who satisfies each of the following:
 
-      (II) The nurse practitioner or physician assistant has—
+      (I) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
+
+      (II) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant has—
 
         (aa) completed not fewer than 24 hours of initial training addressing each of the topics listed in clause (ii)(IV) (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Assistants, or any other organization that the Secretary determines is appropriate for purposes of this subclause; or
 
-        (bb) has such other training or experience as the Secretary determines will demonstrate the ability of the nurse practitioner or physician assistant to treat and manage opiate-dependent patients.
+        (bb) has such other training or experience as the Secretary determines will demonstrate the ability of the nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant to treat and manage opiate-dependent patients.
 
-      (III) The nurse practitioner or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
+      (III) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
       The Secretary may, by regulation, revise the requirements for being a qualifying other practitioner under this clause.
 
   (H)
@@ -2176,18 +2367,182 @@ Separate registration under this part for practitioners engaging in research wit
 
 (2) For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with [section 824(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/c&num=0&edition=prelim), unless the Attorney General has granted a hearing on the application under [section 958(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section958/i&num=0&edition=prelim).
 
-**(j) “Factors as may be relevant to and consistent with the public health and safety” defined** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+**(j) Emergency medical services that administer controlled substances**
+
+(1) **Registration** — For the purpose of enabling emergency medical services professionals to administer controlled substances in schedule II, III, IV, or V to ultimate users receiving emergency medical services in accordance with the requirements of this subsection, the Attorney General—
+
+  (A) shall register an emergency medical services agency if the agency submits an application demonstrating it is authorized to conduct such activity under the laws of each State in which the agency practices; and
+
+  (B) may deny an application for such registration if the Attorney General determines that the issuance of such registration would be inconsistent with the requirements of this subsection or the public interest based on the factors listed in subsection (f).
+
+(2) **Option for single registration** — In registering an emergency medical services agency pursuant to paragraph (1), the Attorney General shall allow such agency the option of a single registration in each State where the agency administers controlled substances in lieu of requiring a separate registration for each location of the emergency medical services agency.
+
+(3) **Hospital-based agency** — If a hospital-based emergency medical services agency is registered under subsection (f), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
+
+(4) **Administration outside physical presence of medical director or authorizing medical professional** — Emergency medical services professionals of a registered emergency medical services agency may administer controlled substances in schedule II, III, IV, or V outside the physical presence of a medical director or authorizing medical professional in the course of providing emergency medical services if the administration is—
+
+  (A) authorized by the law of the State in which it occurs; and
+
+  (B) pursuant to—
+
+    (i) a standing order that is issued and adopted by one or more medical directors of the agency, including any such order that may be developed by a specific State authority; or
+
+    (ii) a verbal order that is—
+
+      (I) issued in accordance with a policy of the agency; and
+
+      (II) provided by a medical director or authorizing medical professional in response to a request by the emergency medical services professional with respect to a specific patient—
+
+        (aa) in the case of a mass casualty incident; or
+
+        (bb) to ensure the proper care and treatment of a specific patient.
+
+(5) **Delivery** — A registered emergency medical services agency may deliver controlled substances from a registered location of the agency to an unregistered location of the agency only if the agency—
+
+  (A) designates the unregistered location for such delivery; and
+
+  (B) notifies the Attorney General at least 30 days prior to first delivering controlled substances to the unregistered location.
+
+(6) **Storage** — A registered emergency medical services agency may store controlled substances—
+
+  (A) at a registered location of the agency;
+
+  (B) at any designated location of the agency or in an emergency services vehicle situated at a registered or designated location of the agency; or
+
+  (C) in an emergency medical services vehicle used by the agency that is—
+
+    (i) traveling from, or returning to, a registered or designated location of the agency in the course of responding to an emergency; or
+
+    (ii) otherwise actively in use by the agency under circumstances that provide for security of the controlled substances consistent with the requirements established by regulations of the Attorney General.
+
+(7) **No treatment as distribution** — The delivery of controlled substances by a registered emergency medical services agency pursuant to this subsection shall not be treated as distribution for purposes of [section 828 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-828).
+
+(8) **Restocking of emergency medical services vehicles at a hospital** — Notwithstanding paragraph (13)(J), a registered emergency medical services agency may receive controlled substances from a hospital for purposes of restocking an emergency medical services vehicle following an emergency response, and without being subject to the requirements of [section 828 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-828), provided all of the following conditions are satisfied:
+
+  (A) The registered or designated location of the agency where the vehicle is primarily situated maintains a record of such receipt in accordance with paragraph (9).
+
+  (B) The hospital maintains a record of such delivery to the agency in accordance with [section 827 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-827).
+
+  (C) If the vehicle is primarily situated at a designated location, such location notifies the registered location of the agency within 72 hours of the vehicle receiving the controlled substances.
+
+(9) **Maintenance of records**
+
+  (A) *In general* — A registered emergency medical services agency shall maintain records in accordance with subsections (a) and (b) of [section 827 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-827) of all controlled substances that are received, administered, or otherwise disposed of pursuant to the agency’s registration, without regard to sub[section 827(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section827/c/1/B&num=0&edition=prelim).
+
+  (B) *Requirements* — Such records—
+
+    (i) shall include records of deliveries of controlled substances between all locations of the agency; and
+
+    (ii) shall be maintained, whether electronically or otherwise, at each registered and designated location of the agency where the controlled substances involved are received, administered, or otherwise disposed of.
+
+(10) **Other requirements** — A registered emergency medical services agency, under the supervision of a medical director, shall be responsible for ensuring that—
+
+  (A) all emergency medical services professionals who administer controlled substances using the agency’s registration act in accordance with the requirements of this subsection;
+
+  (B) the recordkeeping requirements of paragraph (9) are met with respect to a registered location and each designated location of the agency;
+
+  (C) the applicable physical security requirements established by regulation of the Attorney General are complied with wherever controlled substances are stored by the agency in accordance with paragraph (6); and
+
+  (D) the agency maintains, at a registered location of the agency, a record of the standing orders issued or adopted in accordance with paragraph (9).
+
+(11) **Regulations** — The Attorney General may issue regulations—
+
+  (A) specifying, with regard to delivery of controlled substances under paragraph (5)—
+
+    (i) the types of locations that may be designated under such paragraph; and
+
+    (ii) the manner in which a notification under paragraph (5)(B) must be made;
+
+  (B) specifying, with regard to the storage of controlled substances under paragraph (6), the manner in which such substances must be stored at registered and designated locations, including in emergency medical service vehicles; and
+
+  (C) addressing the ability of hospitals, emergency medical services agencies, registered locations, and designated locations to deliver controlled substances to each other in the event of—
+
+    (i) shortages of such substances;
+
+    (ii) a public health emergency; or
+
+    (iii) a mass casualty event.
+
+(12) **Rule of construction** — Nothing in this subsection shall be construed—
+
+  (A) to limit the authority vested in the Attorney General by other provisions of this subchapter to take measures to prevent diversion of controlled substances; or
+
+  (B) to override the authority of any State to regulate the provision of emergency medical services consistent with this subsection.
+
+(13) **Definitions** — In this section:
+
+  (A) The term “authorizing medical professional” means an emergency or other physician, or another medical professional (including an advanced practice registered nurse or physician assistant)—
+
+    (i) who is registered under this chapter;
+
+    (ii) who is acting within the scope of the registration; and
+
+    (iii) whose scope of practice under a State license or certification includes the ability to provide verbal orders.
+
+  (B) The term “designated location” means a location designated by an emergency medical services agency under paragraph (5).
+
+  (C) The term “emergency medical services” means emergency medical response and emergency mobile medical services provided outside of a fixed medical facility.
+
+  (D) The term “emergency medical services agency” means an organization providing emergency medical services, including such an organization that—
+
+    (i) is governmental (including fire-based and hospital-based agencies), nongovernmental (including hospital-based agencies), private, or volunteer-based;
+
+    (ii) provides emergency medical services by ground, air, or otherwise; and
+
+    (iii) is authorized by the State in which the organization is providing such services to provide emergency medical care, including the administering of controlled substances, to members of the general public on an emergency basis.
+
+  (E) The term “emergency medical services professional” means a health care professional (including a nurse, paramedic, or emergency medical technician) licensed or certified by the State in which the professional practices and credentialed by a medical director of the respective emergency medical services agency to provide emergency medical services within the scope of the professional’s State license or certification.
+
+  (F) The term “emergency medical services vehicle” means an ambulance, fire apparatus, supervisor truck, or other vehicle used by an emergency medical services agency for the purpose of providing or facilitating emergency medical care and transport or transporting controlled substances to and from the registered and designated locations.
+
+  (G) The term “hospital-based” means, with respect to an agency, owned or operated by a hospital.
+
+  (H) The term “medical director” means a physician who is registered under subsection (f) and provides medical oversight for an emergency medical services agency.
+
+  (I) The term “medical oversight” means supervision of the provision of medical care by an emergency medical services agency.
+
+  (J) The term “registered emergency medical services agency” means—
+
+    (i) an emergency medical services agency that is registered pursuant to this subsection; or
+
+    (ii) a hospital-based emergency medical services agency that is covered by the registration of the hospital under subsection (f).
+
+  (K) The term “registered location” means a location that appears on the certificate of registration issued to an emergency medical services agency under this subsection or subsection (f), which shall be where the agency receives controlled substances from distributors.
+
+  (L) The term “specific State authority” means a governmental agency or other such authority, including a regional oversight and coordinating body, that, pursuant to State law or regulation, develops clinical protocols regarding the delivery of emergency medical services in the geographic jurisdiction of such agency or authority within the State that may be adopted by medical directors.
+
+  (M) The term “standing order” means a written medical protocol in which a medical director determines in advance the medical criteria that must be met before administering controlled substances to individuals in need of emergency medical services.
+
+  (N) The term “verbal order” means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
+
+**(k) “Factors as may be relevant to and consistent with the public health and safety” defined** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
 ### Statutory Notes
 
 #### References in Text
-Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (f) and (g)(2), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
+Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (f), (g)(2), and (j)(1), (4), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
+
+This subchapter, referred to in subsecs. (f) and (j)(12)(A), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 The date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, referred to in subsec. (g)(2)(H)(ii), probably means the date of enactment of Pub. L. 114–198, known as the Comprehensive Addiction and Recovery Act of 2016, which was approved July 22, 2016. The Opioid Use Disorder Treatment Expansion and Modernization Act was H.R. 4981 of the 114th Congress, as introduced on Apr. 18, 2016. Amendatory provisions of H.R. 4981 were incorporated into Pub. L. 114–198, but no such Short Title was enacted.
 
+This chapter, referred to in subsec. (j)(13)(A)(i), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+
 #### Amendments
+2018—Subsec. (g)(2)(B)(iii)(II). Pub. L. 115–271, § 3201(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.”
+
+Subsec. (g)(2)(G)(ii)(VIII). Pub. L. 115–271, § 3202(a), added subcl. (VIII).
+
+Subsec. (g)(2)(G)(iii)(II). Pub. L. 115–271, § 3201(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “during the period beginning on July 22, 2016, and ending on October 1, 2021, a qualifying other practitioner, as defined in clause (iv).”
+
+Subsec. (g)(2)(G)(iii)(III). Pub. L. 115–271, § 3201(b)(1), (c), added subcl. (III).
+
+Subsec. (g)(2)(G)(iv). Pub. L. 115–271, § 3201(d), substituted “nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant” for “nurse practitioner or physician assistant” wherever appearing.
+
+2017—Subsecs. (j), (k). Pub. L. 115–83 added subsec. (j) and redesignated former subsec. (j) as (k).
+
 2016—Subsec. (g)(2)(B). Pub. L. 114–198, § 303(a)(1)(A), added cls. (i) to (iii) and struck out former cls. (i) to (iii) which read as follows:
 
 “(i) The practitioner is a qualifying physician (as defined in subparagraph (G)).
@@ -2262,8 +2617,17 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States [July 15, 1980], see section 112 of Pub. L. 95–633, set out as an Effective Date note under [section 801a of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801a).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 #### Update Regulations
 Pub. L. 114–198, title III, § 303(c), July 22, 2016, 130 Stat. 723, provided that: “Not later than 18 months after the date of enactment of this Act [July 22, 2016], the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) [probably means subsec. (a)(3)(B)(vii) “of this section”, set out as a note below] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion.”
+
+#### Treatment for Children
+Pub. L. 115–271, title III, § 3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: “The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in subparagraph (G)(ii) of section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)), who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders.”
+
+#### Grants To Enhance Access to Substance Use Disorder Treatment
+Pub. L. 115–271, title III, § 3203, Oct. 24, 2018, 132 Stat. 3945, provided that: “(a) In General.—The Secretary of Health and Human Services shall establish a grant program under which the Secretary may make grants to accredited schools of allopathic medicine or osteopathic medicine and teaching hospitals located in the United States to support the development of curricula that meet the requirements under subclause (VIII) of section 303(g)(2)(G)(ii) of the Controlled Substances Act [[21 U.S.C. 823(g)(2)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2/G/ii&num=0&edition=prelim)], as added by section 3202(a) of this Act. “(b) Authorization of Appropriations.—There is authorized to be appropriated, for grants under subsection (a), $4,000,000 for each of fiscal years 2019 through 2023.”
 
 #### Reports to Congress
 Pub. L. 114–198, title III, § 303(a)(3), July 22, 2016, 130 Stat. 722, provided that: “(A) In general.—Not later than 3 years after the date of enactment of this Act [July 22, 2016] and not later than 3 years thereafter, the Secretary of Health and Human Services, in consultation with the Drug Enforcement Administration and experts in opioid use disorder research and treatment, shall—“(i) perform a thorough review of the provision of opioid use disorder treatment services in the United States, including services provided in opioid treatment programs and other specialty and nonspecialty settings; and “(ii) submit a report to the Congress on the findings and conclusions of such review. “(B) Contents.—Each report under subparagraph (A) shall include an assessment of—“(i) compliance with the requirements of section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)), as amended by this section; “(ii) the measures taken by the Secretary of Health and Human Services to ensure such compliance; “(iii) whether there is further need to increase or decrease the number of patients a practitioner, pursuant to a waiver under section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)), is permitted to treat; “(iv) the extent to which, and proportions with which, the full range of Food and Drug Administration-approved treatments for opioid use disorder are used in routine health care settings and specialty substance use disorder treatment settings; “(v) access to, and use of, counseling and recovery support services, including the percentage of patients receiving such services; “(vi) changes in State or local policies and legislation relating to opioid use disorder treatment; “(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver described in clause (iii); “(viii) the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in clause (vii); and “(ix) the effectiveness of cross-agency collaboration between [the] Department of Health and Human Services and the Drug Enforcement Administration for expanding effective opioid use disorder treatment.”
@@ -2368,6 +2732,9 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under [section 1320a–7 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7&num=0&edition=prelim), The Public Health and Welfare.
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 #### Provisional Registration
 Applicability of this section to provisional registrations, see section 703 of Pub. L. 91–513, set out as a note under [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822).
 
@@ -2419,11 +2786,15 @@ Pub. L. 113–260, § 4, Dec. 18, 2014, 128 Stat. 2932, provided that: “(a) In
 
 <a id="section-826"></a>
 ## § 826. Production quotas for controlled substances
-**(a) Establishment of total annual needs** The Attorney General shall determine the total quantity and establish production quotas for each basic class of controlled substance in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine to be manufactured each calendar year to provide for the estimated medical, scientific, research, and industrial needs of the United States, for lawful export requirements, and for the establishment and maintenance of reserve stocks. Production quotas shall be established in terms of quantities of each basic class of controlled substance and not in terms of individual pharmaceutical dosage forms prepared from or containing such a controlled substance.
+**(a) Establishment of total annual needs**
 
-**(b) Individual production quotas; revised quotas** The Attorney General shall limit or reduce individual production quotas to the extent necessary to prevent the aggregate of individual quotas from exceeding the amount determined necessary each year by the Attorney General under subsection (a). The quota of each registered manufacturer for each basic class of controlled substance in schedule I or II or for ephedrine, pseudoephedrine, or phenylpropanolamine shall be revised in the same proportion as the limitation or reduction of the aggregate of the quotas. However, if any registrant, before the issuance of a limitation or reduction in quota, has manufactured in excess of his revised quota, the amount of the excess shall be subtracted from his quota for the following year.
+(1) The Attorney General shall determine the total quantity and establish production quotas for each basic class of controlled substance in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine to be manufactured each calendar year to provide for the estimated medical, scientific, research, and industrial needs of the United States, for lawful export requirements, and for the establishment and maintenance of reserve stocks. Except as provided in paragraph (2), production quotas shall be established in terms of quantities of each basic class of controlled substance and not in terms of individual pharmaceutical dosage forms prepared from or containing such a controlled substance.
 
-**(c) Manufacturing quotas for registered manufacturers** On or before October 1 of each year, upon application therefor by a registered manufacturer, the Attorney General shall fix a manufacturing quota for the basic classes of controlled substances in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine that the manufacturer seeks to produce. The quota shall be subject to the provisions of subsections (a) and (b) of this section. In fixing such quotas, the Attorney General shall determine the manufacturer’s estimated disposal, inventory, and other requirements for the calendar year; and, in making his determination, the Attorney General shall consider the manufacturer’s current rate of disposal, the trend of the national disposal rate during the preceding calendar year, the manufacturer’s production cycle and inventory position, the economic availability of raw materials, yield and stability problems, emergencies such as strikes and fires, and other factors.
+(2) The Attorney General may, if the Attorney General determines it will assist in avoiding the overproduction, shortages, or diversion of a controlled substance, establish an aggregate or individual production quota under this subsection, or a procurement quota established by the Attorney General by regulation, in terms of pharmaceutical dosage forms prepared from or containing the controlled substance.
+
+**(b) Individual manufacturing quotas; revised quotas** The Attorney General shall limit or reduce individual manufacturing quotas to the extent necessary to prevent the aggregate of individual quotas from exceeding the amount determined necessary each year by the Attorney General under subsection (a). The quota of each registered manufacturer for each basic class of controlled substance in schedule I or II or for ephedrine, pseudoephedrine, or phenylpropanolamine shall be revised in the same proportion as the limitation or reduction of the aggregate of the quotas. However, if any registrant, before the issuance of a limitation or reduction in quota, has manufactured in excess of his revised quota, the amount of the excess shall be subtracted from his quota for the following year.
+
+**(c) Manufacturing quotas for registered manufacturers** On or before December 1 of each year, upon application therefor by a registered manufacturer, the Attorney General shall fix a manufacturing quota for the basic classes of controlled substances in schedules I and II and for ephedrine, pseudoephedrine, and phenylpropanolamine that the manufacturer seeks to produce. The quota shall be subject to the provisions of subsections (a) and (b) of this section. In fixing such quotas, the Attorney General shall determine the manufacturer’s estimated disposal, inventory, and other requirements for the calendar year; and, in making his determination, the Attorney General shall consider the manufacturer’s current rate of disposal, the trend of the national disposal rate during the preceding calendar year, the manufacturer’s production cycle and inventory position, the economic availability of raw materials, yield and stability problems, emergencies such as strikes and fires, and other factors.
 
 **(d) Quotas for registrants who have not manufactured controlled substance during one or more preceding years** The Attorney General shall, upon application and subject to the provisions of subsections (a) and (b) of this section, fix a quota for a basic class of controlled substance in schedule I or II for any registrant who has not manufactured that basic class of controlled substance or ephedrine, pseudoephedrine, or phenylpropanolamine during one or more preceding calendar years. In fixing such quota, the Attorney General shall take into account the registrant’s reasonably anticipated requirements for the current year; and, in making his determination of such requirements, he shall consider such factors specified in subsection (c) of this section as may be relevant.
 
@@ -2454,12 +2825,50 @@ Pub. L. 113–260, § 4, Dec. 18, 2014, 128 Stat. 2932, provided that: “(a) In
 
   (C) the controlled substance is in schedule II.
 
+**(i) Strengthening considerations for DEA opioid quotas**
+
+(1)
+
+  (A) In establishing any quota under this section, or any procurement quota established by the Attorney General by regulation, for fentanyl, oxycodone, hydrocodone, oxymorphone, or hydromorphone (in this subsection referred to as a “covered controlled substance”), the Attorney General shall estimate the amount of diversion of the covered controlled substance that occurs in the United States.
+
+  (B) In estimating diversion under this paragraph, the Attorney General—
+
+    (i) shall consider information the Attorney General, in consultation with the Secretary of Health and Human Services, determines reliable on rates of overdose deaths and abuse and overall public health impact related to the covered controlled substance in the United States; and
+
+    (ii) may take into consideration whatever other sources of information the Attorney General determines reliable.
+
+  (C) After estimating the amount of diversion of a covered controlled substance, the Attorney General shall make appropriate quota reductions, as determined by the Attorney General, from the quota the Attorney General would have otherwise established had such diversion not been considered.
+
+(2)
+
+  (A) For any year for which the approved aggregate production quota for a covered controlled substance is higher than the approved aggregate production quota for the covered controlled substance for the previous year, the Attorney General, in consultation with the Secretary of Health and Human Services, shall include in the final order an explanation of why the public health benefits of increasing the quota clearly outweigh the consequences of having an increased volume of the covered controlled substance available for sale, and potential diversion, in the United States.
+
+  (B) Not later than 1 year after October 24, 2018, and every year thereafter, the Attorney General shall submit to the Committee on the Judiciary, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on the Judiciary, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives the following information with regard to each covered controlled substance:
+
+    (i) An anonymized count of the total number of manufacturers issued individual manufacturing quotas that year for the covered controlled substance.
+
+    (ii) An anonymized count of how many such manufacturers were issued an approved manufacturing quota that was higher than the quota issued to that manufacturer for the covered controlled substance in the previous year.
+
+(3) Not later than 1 year after October 24, 2018, the Attorney General shall submit to Congress a report on how the Attorney General, when fixing and adjusting production and manufacturing quotas under this section for covered controlled substances, will—
+
+  (A) take into consideration changes in the accepted medical use of the covered controlled substances; and
+
+  (B) work with the Secretary of Health and Human Services on methods to appropriately and anonymously estimate the type and amount of covered controlled substances that are submitted for collection from approved drug collection receptacles, mail-back programs, and take-back events.
+
 ### Statutory Notes
 
 #### References in Text
 Schedules I and II, referred to in text, are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–271, § 3282(a)(1), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), production” for “Production” in second sentence, and added par. (2).
+
+Subsec. (b). Pub. L. 115–271, § 3282(a)(2), substituted “reduce individual manufacturing” for “reduce individual production”.
+
+Subsec. (c). Pub. L. 115–271, § 3282(a)(3), substituted “December” for “October”.
+
+Subsec. (i). Pub. L. 115–271, § 3282(a)(4), added subsec. (i).
+
 2012—Subsec. (h). Pub. L. 112–144 added subsec. (h).
 
 2006—Subsec. (a). Pub. L. 109–177, § 713(1), inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for each basic class of controlled substance in schedules I and II”.
@@ -2480,6 +2889,9 @@ Subsec. (g). Pub. L. 109–177, § 713(7), added subsec. (g).
 
 #### Effective Date
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with Attorney General authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
+#### Change to Editorial Heading in United States Code
+Pub. L. 115–271, title III, § 3282(b), Oct. 24, 2018, 132 Stat. 3955, provided that: “The Law Revision Counsel is directed to amend the heading for subsection (b) of [section 826 of title 21](./chapter-013-drug-abuse-prevention-and-control.md#section-826), United States Code, by striking ‘Production’ and inserting ‘Manufacturing’.”
 
 #### Coordination With United States Trade Representative
 Pub. L. 109–177, title VII, § 718, Mar. 9, 2006, 120 Stat. 267, provided that: “In implementing sections 713 through 717 and [section 721 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section721&num=0&edition=prelim) [amending this section and sections 830, 842, 952, 960, and 971 of this title], the Attorney General shall consult with the United States Trade Representative to ensure implementation complies with all applicable international treaties and obligations of the United States.”
@@ -2549,11 +2961,27 @@ Nothing in the Convention on Psychotropic Substances shall be construed as super
 
 **(e) Reporting and recordkeeping requirements of drug conventions** In addition to the reporting and recordkeeping requirements under any other provision of this subchapter, each manufacturer registered under [section 823 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-823) shall, with respect to narcotic and nonnarcotic controlled substances manufactured by it, make such reports to the Attorney General, and maintain such records, as the Attorney General may require to enable the United States to meet its obligations under articles 19 and 20 of the Single Convention on Narcotic Drugs and article 16 of the Convention on Psychotropic Substances. The Attorney General shall administer the requirements of this subsection in such a manner as to avoid the unnecessary imposition of duplicative requirements under this subchapter on manufacturers subject to the requirements of this subsection.
 
-**(f) Investigational uses of drugs; procedures** Regulations under sections 355(i) and 360(j) of this title, relating to investigational use of drugs, shall include such procedures as the Secretary, after consultation with the Attorney General, determines are necessary to insure the security and accountability of controlled substances used in research to which such regulations apply.
+**(f) Records and reports of registrants**
 
-**(g) Change of address** Every registrant under this subchapter shall be required to report any change of professional or business address in such manner as the Attorney General shall by regulation require.
+(1) The Attorney General shall, not less frequently than quarterly, make the following information available to manufacturer and distributor registrants through the Automated Reports and Consolidated Orders System, or any subsequent automated system developed by the Drug Enforcement Administration to monitor selected controlled substances:
 
-**(h) Reporting requirements for GHB** In the case of a drug product containing gamma hydroxybutyric acid for which an application has been approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), the Attorney General may, in addition to any other requirements that apply under this section with respect to such a drug product, establish any of the following as reporting requirements:
+  (A) The total number of distributor registrants that distribute controlled substances to a pharmacy or practitioner registrant, aggregated by the name and address of each pharmacy and practitioner registrant.
+
+  (B) The total quantity and type of opioids distributed, listed by Administration Controlled Substances Code Number, to each pharmacy and practitioner registrant described in subparagraph (A).
+
+(2) The information required to be made available under paragraph (1) shall be made available not later than the 30th day of the first month following the quarter to which the information relates.
+
+(3)
+
+  (A) All registered manufacturers and distributors shall be responsible for reviewing the information made available by the Attorney General under this subsection.
+
+  (B) In determining whether to initiate proceedings under this subchapter against a registered manufacturer or distributor based on the failure of the registrant to maintain effective controls against diversion or otherwise comply with the requirements of this subchapter or the regulations issued thereunder, the Attorney General may take into account that the information made available under this subsection was available to the registrant.
+
+**(g) Investigational uses of drugs; procedures** Regulations under sections 355(i) and 360(j) of this title, relating to investigational use of drugs, shall include such procedures as the Secretary, after consultation with the Attorney General, determines are necessary to insure the security and accountability of controlled substances used in research to which such regulations apply.
+
+**(h) Change of address** Every registrant under this subchapter shall be required to report any change of professional or business address in such manner as the Attorney General shall by regulation require.
+
+**(i) Reporting requirements for GHB** In the case of a drug product containing gamma hydroxybutyric acid for which an application has been approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), the Attorney General may, in addition to any other requirements that apply under this section with respect to such a drug product, establish any of the following as reporting requirements:
 
 (1) That every person who is registered as a manufacturer of bulk or dosage form, as a packager, repackager, labeler, relabeler, or distributor shall report acquisition and distribution transactions quarterly, not later than the 15th day of the month succeeding the quarter for which the report is submitted, and annually report end-of-year inventories.
 
@@ -2567,12 +2995,18 @@ Nothing in the Convention on Psychotropic Substances shall be construed as super
 
 (6) That [section 830(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/b/3&num=0&edition=prelim) (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to the same extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
 
+**(j) Electronic reporting format** All of the reports required under this section shall be provided in an electronic format.
+
 ### Statutory Notes
 
 #### References in Text
 Schedules II, III, IV, and V, referred to in subsec. (c), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsecs. (f) to (i). Pub. L. 115–271, § 3273(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+
+Subsec. (j). Pub. L. 115–271, § 3273(a)(3), added subsec. (j).
+
 2008—Subsec. (d). Pub. L. 110–425 designated existing provisions as par. (1) and added par. (2).
 
 2000—Subsec. (h). Pub. L. 106–172 added subsec. (h).
@@ -2594,6 +3028,12 @@ Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States [July 15, 1980], see section 112 of Pub. L. 95–633, set out as an Effective Date note under [section 801a of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801a).
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
+#### Purpose
+Pub. L. 115–271, title III, § 3272, Oct. 24, 2018, 132 Stat. 3952, provided that: “(a) In General.—The purpose of this chapter [see section 3271 of Pub. L. 115–271, set out as a Short Title of 2018 Amendment note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801)] is to provide drug manufacturers and distributors with access to anonymized information through the Automated Reports and Consolidated Orders System to help drug manufacturers and distributors identify, report, and stop suspicious orders of opioids and reduce diversion rates. “(b) Rule of Construction.—Nothing in this chapter should be construed to absolve a drug manufacturer, drug distributor, or other Drug Enforcement Administration registrant from the responsibility of the manufacturer, distributor, or other registrant to—“(1) identify, stop, and report suspicious orders; or “(2) maintain effective controls against diversion in accordance with section 303 of the Controlled Substances Act ([21 U.S.C. 823](./chapter-013-drug-abuse-prevention-and-control.md#section-823)) or any successor law or associated regulation.”
 
 
 <a id="section-828"></a>
@@ -2629,6 +3069,9 @@ Schedules I and II, referred to in subsec. (a), are set out in [section 812(c) o
 
 #### Amendments
 2010—Subsec. (b)(3). Pub. L. 111–273 added par. (3).
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
 
 <a id="section-829"></a>
@@ -2714,11 +3157,55 @@ Schedules II, III, IV, and V, referred to in subsecs. (a) to (c), are set out in
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 #### Construction of 2016 Amendment
 Pub. L. 114–198, title VII, § 702(b), July 22, 2016, 130 Stat. 741, provided that: “Nothing in this section [amending this section] shall be construed to affect the authority of the Attorney General to allow a prescription for a controlled substance in schedule III, IV, or V of section 202(c) of the Controlled Substances Act ([21 U.S.C. 812(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim)) to be partially filled.”
 
+#### Programs and Materials for Training on Certain Circumstances Under Which a Pharmacist May Decline To Fill a Prescription
+Pub. L. 115–271, title III, § 3212, Oct. 24, 2018, 132 Stat. 3947, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate, as appropriate, materials for pharmacists, health care providers, and patients on—“(1) circumstances under which a pharmacist may, consistent with section 309 of the Controlled Substances Act ([21 U.S.C. 829](./chapter-013-drug-abuse-prevention-and-control.md#section-829)) and regulations thereunder, including section 1306.04 of title 21, Code of Federal Regulations, decline to fill a prescription for a controlled substance because the pharmacist suspects the prescription is fraudulent, forged, or of doubtful, questionable, or suspicious origin; and “(2) other Federal requirements pertaining to declining to fill a prescription under such circumstances, including the partial fill of prescriptions for certain controlled substances. “(b) Materials Included.—In developing materials under subsection (a), the Secretary of Health and Human Services shall include information for—“(1) pharmacists on how to decline to fill a prescription and actions to take after declining to fill a prescription; and “(2) other health care practitioners and the public on a pharmacist’s ability to decline to fill prescriptions in certain circumstances and a description of those circumstances (as described in the materials developed under subsection (a)(1)). “(c) Stakeholder Input.—In developing the programs and materials required under subsection (a), the Secretary of Health and Human Services shall seek input from relevant national, State, and local associations, boards of pharmacy, medical societies, licensing boards, health care practitioners, and patients, including individuals with chronic pain.”
+
 #### Effect of Scheduling on Prescriptions
 Pub. L. 101–647, title XIX, § 1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that: “Any prescription for anabolic steroids subject to refill on or after the date of enactment of the amendments made by this section [Nov. 29, 1990] may be refilled without restriction under section 309(a) of the Controlled Substances Act ([21 U.S.C. 829(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section829/a&num=0&edition=prelim)).”
+
+
+<a id="section-829a"></a>
+## § 829a. Delivery of a controlled substance by a pharmacy to an administering practitioner
+**(a) In general** Notwithstanding [section 802(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/10&num=0&edition=prelim), a pharmacy may deliver a controlled substance to a practitioner in accordance with a prescription that meets the requirements of this subchapter and the regulations issued by the Attorney General under this subchapter, for the purpose of administering the controlled substance by the practitioner if—
+
+(1) the controlled substance is delivered by the pharmacy to the prescribing practitioner or the practitioner administering the controlled substance, as applicable, at the location listed on the practitioner’s certificate of registration issued under this subchapter;
+
+(2) the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under [section 823(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim) and—
+
+  (A) the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
+
+  (B) the controlled substance is to be administered by injection or implantation;
+
+(3) the pharmacy and the practitioner are authorized to conduct the activities specified in this section under the law of the State in which such activities take place;
+
+(4) the prescription is not issued to supply any practitioner with a stock of controlled substances for the purpose of general dispensing to patients;
+
+(5) except as provided in subsection (b), the controlled substance is to be administered only to the patient named on the prescription not later than 14 days after the date of receipt of the controlled substance by the practitioner; and
+
+(6) notwithstanding any exceptions under [section 827 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-827), the prescribing practitioner, and the practitioner administering the controlled substance, as applicable, maintain complete and accurate records of all controlled substances delivered, received, administered, or otherwise disposed of under this section, including the persons to whom controlled substances were delivered and such other information as may be required by regulations of the Attorney General.
+
+**(b) Modification of number of days before which controlled substance shall be administered**
+
+(1) **Initial 2-year period** — During the 2-year period beginning on October 24, 2018, the Attorney General, in coordination with the Secretary, may reduce the number of days described in subsection (a)(5) if the Attorney General determines that such reduction will—
+
+  (A) reduce the risk of diversion; or
+
+  (B) protect the public health.
+
+(2) **Modifications after submission of report** — After the date on which the report described in section 3204(b) of the SUPPORT for Patients and Communities Act is submitted, the Attorney General, in coordination with the Secretary, may modify the number of days described in subsection (a)(5).
+
+(3) **Minimum number of days** — Any modification under this subsection shall be for a period of not less than 7 days.
+
+### Statutory Notes
+
+#### References in Text
+Section 3204(b) of the SUPPORT for Patients and Communities Act, referred to in subsec. (b)(2), is section 3204(b) of Pub. L. 115–271, title III, Oct. 24, 2018, 132 Stat. 3946, which is not classified to the Code.
 
 
 <a id="section-830"></a>
@@ -3056,7 +3543,11 @@ Pub. L. 95–633, title II, § 203(c), Nov. 10, 1978, 92 Stat. 3777, required th
 
     (ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim).
 
-(2) **Regulations** — The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration.
+(2) **Regulations** — Not later than 1 year after October 24, 2018, in consultation with the Secretary, the Attorney General shall promulgate final regulations specifying—
+
+  (A) the limited circumstances in which a special registration under this subsection may be issued; and
+
+  (B) the procedure for obtaining a special registration under this subsection.
 
 (3) **Denials** — Proceedings to deny an application for registration under this subsection shall be conducted in accordance with [section 824(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/c&num=0&edition=prelim).
 
@@ -3079,8 +3570,36 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 This chapter, referred to in subsec. (j), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
+#### Amendments
+2018—Subsec. (h)(2). Pub. L. 115–271 amended par. (2) generally. Prior to amendment, text read as follows: “The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration.”
+
 #### Effective Date
 Section effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as an Effective Date of 2008 Amendment note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
+
+
+<a id="section-832"></a>
+## § 832. Suspicious orders
+**(a) Reporting** Each registrant shall—
+
+(1) design and operate a system to identify suspicious orders for the registrant;
+
+(2) ensure that the system designed and operated under paragraph (1) by the registrant complies with applicable Federal and State privacy laws; and
+
+(3) upon discovering a suspicious order or series of orders, notify the Administrator of the Drug Enforcement Administration and the Special Agent in Charge of the Division Office of the Drug Enforcement Administration for the area in which the registrant is located or conducts business.
+
+**(b) Suspicious order database**
+
+(1) **In general** — Not later than 1 year after October 24, 2018, the Attorney General shall establish a centralized database for collecting reports of suspicious orders.
+
+(2) **Satisfaction of reporting requirements** — If a registrant reports a suspicious order to the centralized database established under paragraph (1), the registrant shall be considered to have complied with the requirement under subsection (a)(3) to notify the Administrator of the Drug Enforcement Administration and the Special Agent in Charge of the Division Office of the Drug Enforcement Administration for the area in which the registrant is located or conducts business.
+
+**(c) Sharing information with the States**
+
+(1) **In general** — The Attorney General shall prepare and make available information regarding suspicious orders in a State, including information in the database established under subsection (b)(1), to the point of contact for purposes of administrative, civil, and criminal oversight relating to the diversion of controlled substances for the State, as designated by the Governor or chief executive officer of the State.
+
+(2) **Timing** — The Attorney General shall provide information in accordance with paragraph (1) within a reasonable period of time after obtaining the information.
+
+(3) **Coordination** — In establishing the process for the provision of information under this subsection, the Attorney General shall coordinate with States to ensure that the Attorney General has access to information, as permitted under State law, possessed by the States relating to prescriptions for controlled substances that will assist in enforcing Federal law.
 
 
 <a id="section-841"></a>
@@ -3120,7 +3639,7 @@ Section effective 180 days after Oct. 15, 2008, except as otherwise provided, se
     (vii) 1000 kilograms or more of a mixture or substance containing a detectable amount of marihuana, or 1,000 or more marihuana plants regardless of weight; or
 
     (viii) 50 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers;
-    such person shall be sentenced to a term of imprisonment which may not be less than 10 years or more than life and if death or serious bodily injury results from the use of such substance shall be not less than 20 years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $10,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment which may not be less than 20 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $20,000,000 if the defendant is an individual or $75,000,000 if the defendant is other than an individual, or both. If any person commits a violation of this subparagraph or of section 849, 859, 860, or 861 of this title after two or more prior convictions for a felony drug offense have become final, such person shall be sentenced to a mandatory term of life imprisonment without release and fined in accordance with the preceding sentence. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence under this subparagraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 5 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 10 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this subparagraph. No person sentenced under this subparagraph shall be eligible for parole during the term of imprisonment imposed therein.
+    such person shall be sentenced to a term of imprisonment which may not be less than 10 years or more than life and if death or serious bodily injury results from the use of such substance shall be not less than 20 years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $10,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $20,000,000 if the defendant is an individual or $75,000,000 if the defendant is other than an individual, or both. If any person commits a violation of this subparagraph or of section 849, 859, 860, or 861 of this title after 2 or more prior convictions for a serious drug felony or serious violent felony have become final, such person shall be sentenced to a term of imprisonment of not less than 25 years and fined in accordance with the preceding sentence. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence under this subparagraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 5 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 10 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this subparagraph. No person sentenced under this subparagraph shall be eligible for parole during the term of imprisonment imposed therein.
 
   (B) In the case of a violation of subsection (a) of this section involving—
 
@@ -3147,7 +3666,7 @@ Section effective 180 days after Oct. 15, 2008, except as otherwise provided, se
     (vii) 100 kilograms or more of a mixture or substance containing a detectable amount of marihuana, or 100 or more marihuana plants regardless of weight; or
 
     (viii) 5 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 50 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers;
-    such person shall be sentenced to a term of imprisonment which may not be less than 5 years and not more than 40 years and if death or serious bodily injury results from the use of such substance shall be not less than 20 years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $5,000,000 if the defendant is an individual or $25,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment which may not be less than 10 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $8,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence imposed under this subparagraph shall, in the absence of such a prior conviction, include a term of supervised release of at least 4 years in addition to such term of imprisonment and shall, if there was such a prior conviction, include a term of supervised release of at least 8 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this subparagraph. No person sentenced under this subparagraph shall be eligible for parole during the term of imprisonment imposed therein.
+    such person shall be sentenced to a term of imprisonment which may not be less than 5 years and not more than 40 years and if death or serious bodily injury results from the use of such substance shall be not less than 20 years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $5,000,000 if the defendant is an individual or $25,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment which may not be less than 10 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $8,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence imposed under this subparagraph shall, in the absence of such a prior conviction, include a term of supervised release of at least 4 years in addition to such term of imprisonment and shall, if there was such a prior conviction, include a term of supervised release of at least 8 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this subparagraph. No person sentenced under this subparagraph shall be eligible for parole during the term of imprisonment imposed therein.
 
   (C) In the case of a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or 1 gram of flunitrazepam, except as provided in subparagraphs (A), (B), and (D), such person shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years or more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this subparagraph which provide for a mandatory term of imprisonment if death or serious bodily injury results, nor shall a person so sentenced be eligible for parole during the term of such a sentence.
 
@@ -3262,7 +3781,7 @@ shall be fined in accordance with title 18 or imprisoned not more than 20 years 
 
   (A) delivering, distributing, or dispensing a controlled substance by means of the Internet by an online pharmacy that is not validly registered with a modification authorizing such activity as required by [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) (unless exempt from such registration);
 
-  (B) writing a prescription for a controlled substance for the purpose of delivery, distribution, or dispensation by means of the Internet in violation of section 829(e) of the title;
+  (B) writing a prescription for a controlled substance for the purpose of delivery, distribution, or dispensation by means of the Internet in violation of [section 829(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section829/e&num=0&edition=prelim);
 
   (C) serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 22 So in original. Probably should be “section”. 823(f) or 829(e) of this title;
 
@@ -3300,6 +3819,10 @@ Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibit
 This chapter, referred to in subsec. (g)(2)(B), (3), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
+2018—Subsec. (b)(1)(A). Pub. L. 115–391, § 401(a)(2)(A), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment which may not be less than 20 years” and “after 2 or more prior convictions for a serious drug felony or serious violent felony have become final, such person shall be sentenced to a term of imprisonment of not less than 25 years” for “after two or more prior convictions for a felony drug offense have become final, such person shall be sentenced to a mandatory term of life imprisonment without release”.
+
+Subsec. (b)(1)(B). Pub. L. 115–391, § 401(a)(2)(B), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final”.
+
 2010—Subsec. (b)(1)(A). Pub. L. 111–220, § 4(a)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
 
 Subsec. (b)(1)(A)(iii). Pub. L. 111–220, § 2(a)(1), substituted “280 grams” for “50 grams”.
@@ -3480,6 +4003,9 @@ Subsec. (b)(5). Pub. L. 95–633, § 201(2), added par. (5).
 
 Subsec. (d). Pub. L. 95–633, § 201(3), added subsec. (d).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–391 applicable to any offense that was committed before Dec. 21, 2018, if a sentence for the offense has not been imposed as of Dec. 21, 2018, see section 401(c) of Pub. L. 115–391, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
 
@@ -3495,8 +4021,14 @@ Amendment by section 224(a) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–633 effective Nov. 10, 1978, see section 203(a) of Pub. L. 95–633 set out as an Effective Date note under [section 830 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-830).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 #### Repeals
 Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (d) of this section effective Jan. 1, 1981.
+
+#### Application of Fair Sentencing Act
+Pub. L. 115–391, title IV, § 404, Dec. 21, 2018, 132 Stat. 5222, provided that: “(a) Definition of Covered Offense.—In this section, the term ‘covered offense’ means a violation of a Federal criminal statute, the statutory penalties for which were modified by section 2 or 3 of the Fair Sentencing Act of 2010 (Public Law 111–220; 124 Stat. 2372) [amending this section and sections 844 and 960 of this title], that was committed before August 3, 2010. “(b) Defendants Previously Sentenced.—A court that imposed a sentence for a covered offense may, on motion of the defendant, the Director of the Bureau of Prisons, the attorney for the Government, or the court, impose a reduced sentence as if sections 2 and 3 of the Fair Sentencing Act of 2010 (Public Law 111–220; 124 Stat. 2372) were in effect at the time the covered offense was committed. “(c) Limitations.—No court shall entertain a motion made under this section to reduce a sentence if the sentence was previously imposed or previously reduced in accordance with the amendments made by sections 2 and 3 of the Fair Sentencing Act of 2010 (Public Law 111–220; 124 Stat. 2372) or if a previous motion made under this section to reduce the sentence was, after the date of enactment of this Act [Dec. 21, 2018], denied after a complete review of the motion on the merits. Nothing in this section shall be construed to require a court to reduce any sentence pursuant to this section.”
 
 
 <a id="section-842"></a>
@@ -3535,9 +4067,11 @@ Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d
 
 (14) who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of [section 830(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1&num=0&edition=prelim), information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities;
 
-(15) to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in [section 830(b)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/b/3/B&num=0&edition=prelim), unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim); or
+(15) to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in [section 830(b)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/b/3/B&num=0&edition=prelim), unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim);
 
-(16) to violate subsection (e) of [section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825).22 See References in Text note below.
+(16) to violate subsection (e) of [section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825); 22 See References in Text note below. or
+
+(17) in the case of a registered manufacturer or distributor of opioids, to fail to review the most recent information, directly related to the customers of the manufacturer or distributor, made available by the Attorney General in accordance with [section 827(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section827/f&num=0&edition=prelim).
 As used in paragraph (11), the term “laboratory supply” means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer. For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim), the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under [section 830(e)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830/e/1/B/v&num=0&edition=prelim).
 
 **(b) Manufacture** It shall be unlawful for any person who is a registrant to manufacture a controlled substance in schedule I or II, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical, which is—
@@ -3552,7 +4086,11 @@ As used in paragraph (11), the term “laboratory supply” means a listed chemi
 
   (A) Except as provided in subparagraph (B), (C), or (D) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with [section 1355 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1355&num=0&edition=prelim) to enforce this paragraph.
 
-  (B) In the case of a violation of paragraph (5) or (10) of subsection (a), the civil penalty shall not exceed $10,000.
+  (B)
+
+    (i) Except as provided in clause (ii), in the case of a violation of paragraph (5), (10), or (17) of subsection (a), the civil penalty shall not exceed $10,000.
+
+    (ii) In the case of a violation described in clause (i) committed by a registered manufacturer or distributor of opioids and related to the reporting of suspicious orders for opioids, failing to maintain effective controls against diversion of opioids, or failing to review the most recent information made available by the Attorney General in accordance with [section 827(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section827/f&num=0&edition=prelim), the penalty shall not exceed $100,000.
 
   (C) In the case of a violation of paragraph (16) of subsection (a) of this section by an importer, exporter, manufacturer, or distributor (other than as provided in subparagraph (D)), up to $500,000 per violation. For purposes of this subparagraph, a violation is defined as each instance of importation, exportation, manufacturing, distribution, or possession with intent to manufacture or distribute, in violation of paragraph (16) of subsection (a).
 
@@ -3560,11 +4098,13 @@ As used in paragraph (11), the term “laboratory supply” means a listed chemi
 
 (2)
 
-  (A) If a violation of this section is prosecuted by an information or indictment which alleges that the violation was committed knowingly and the trier of fact specifically finds that the violation was so committed, such person shall, except as otherwise provided in subparagraph (B) of this paragraph, be sentenced to imprisonment of not more than one year or a fine under title 18, or both.
+  (A) If a violation of this section is prosecuted by an information or indictment which alleges that the violation was committed knowingly and the trier of fact specifically finds that the violation was so committed, such person shall, except as otherwise provided in subparagraph (B) or (D) of this paragraph, be sentenced to imprisonment of not more than one year or a fine under title 18, or both.
 
   (B) If a violation referred to in subparagraph (A) was committed after one or more prior convictions of the offender for an offense punishable under this paragraph (2), or for a crime under any other provision of this subchapter or subchapter II or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 2 years, a fine under title 18, or both.
 
   (C) In addition to the penalties set forth elsewhere in this subchapter or subchapter II, any business that violates paragraph (11) of subsection (a) shall, with respect to the first such violation, be subject to a civil penalty of not more than $250,000, but shall not be subject to criminal penalties under this section, and shall, for any succeeding violation, be subject to a civil fine of not more than $250,000 or double the last previously imposed penalty, whichever is greater.
+
+  (D) In the case of a violation described in subparagraph (A) that was a violation of paragraph (5), (10), or (17) of subsection (a) committed by a registered manufacturer or distributor of opioids that relates to the reporting of suspicious orders for opioids, failing to maintain effective controls against diversion of opioids, or failing to review the most recent information made available by the Attorney General in accordance with [section 827(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section827/f&num=0&edition=prelim), the criminal fine under title 18 shall not exceed $500,000.
 
 (3) Except under the conditions specified in paragraph (2) of this subsection, a violation of this section does not constitute a crime, and a judgment for the United States and imposition of a civil penalty pursuant to paragraph (1) shall not give rise to any disability or legal disadvantage based on conviction for a criminal offense.
 
@@ -3582,6 +4122,14 @@ As used in paragraph (11), the term “laboratory supply” means a listed chemi
 Schedules I and II, referred to in subsec. (b), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (a)(17). Pub. L. 115–271, § 3273(c)(1), added par. (17).
+
+Subsec. (c)(1)(B). Pub. L. 115–271, § 3273(c)(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “In the case of a violation of paragraph (5) or (10) of subsection (a), the civil penalty shall not exceed $10,000.”
+
+Subsec. (c)(2)(A). Pub. L. 115–271, § 3273(c)(2)(B)(i), inserted “or (D)” after “subparagraph (B)”.
+
+Subsec. (c)(2)(D). Pub. L. 115–271, § 3273(c)(2)(B)(ii), added subpar. (D).
+
 2014—Subsec. (a)(16). Pub. L. 113–260, § 3(c)(1), added par. (16).
 
 Subsec. (c)(1)(A). Pub. L. 113–260, § 3(c)(2)(A), inserted “, (C), or (D)” after “subparagraph (B)”.
@@ -3636,6 +4184,9 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–633 effective Nov. 10, 1978, see section 203(a) of Pub. L. 95–633 set out as an Effective Date note under [section 830 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-830).
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
 #### Repeals
 Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsecs. (a)(9) and (c)(2)(C) of this section effective Jan. 1, 1981.
@@ -3770,6 +4321,9 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–633 effective Nov. 10, 1978, except as otherwise provided, see section 203(a) of Pub. L. 95–633, set out as an Effective Date note under [section 830 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-830).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 #### Repeals
 Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (a)(4)(B) of this section effective Jan. 1, 1981.
 
@@ -3816,6 +4370,9 @@ Pub. L. 109–177, title VII, § 711(e)(2), Mar. 9, 2006, 120 Stat. 262, provide
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
 
 <a id="section-844a"></a>
@@ -3885,11 +4442,19 @@ Any person who attempts or conspires to commit any offense defined in this subch
 #### Amendments
 1988—Pub. L. 100–690 substituted “shall be subject to the same penalties as those prescribed for the offense” for “is punishable by imprisonment or fine or both which may not exceed the maximum punishment prescribed for the offense”.
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 
 <a id="section-847"></a>
 ## § 847. Additional penalties
 
 Any penalty imposed for violation of this subchapter shall be in addition to, and not in lieu of, any civil or administrative penalty or sanction authorized by law.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
 
 <a id="section-848"></a>
@@ -3992,6 +4557,9 @@ Amendment by section 903(b) of Pub. L. 104–132 effective as to cases commenced
 #### Effective Date of 1984 Amendment
 Amendment by section 224(b) of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 #### GAO Study of Cost of Executions
 Pub. L. 100–690, title VII, § 7002, Nov. 18, 1988, 102 Stat. 4395, directed Comptroller General to conduct a study of cost of executions and report to Congress, prior to repeal by Pub. L. 104–66, title I, § 1091(d), Dec. 21, 1995, 109 Stat. 722.
 
@@ -4032,6 +4600,9 @@ Except as otherwise provided in this subchapter or section 242a(a) 11 See Refere
 #### References in Text
 [Section 242a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242a&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 106–310, div. B, title XXXII, § 3201(b)(1), Oct. 17, 2000, 114 Stat. 1190.
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
 
 <a id="section-851"></a>
 ## § 851. Proceedings to establish prior convictions
@@ -4056,6 +4627,11 @@ Except as otherwise provided in this subchapter or section 242a(a) 11 See Refere
 (2) If the court determines that the person has not been convicted as alleged in the information, that a conviction alleged in the information is invalid, or that the person is otherwise not subject to an increased sentence as a matter of law, the court shall, at the request of the United States attorney, postpone sentence to allow an appeal from that determination. If no such request is made, the court shall impose sentence as provided by this part. The person may appeal from an order postponing sentence as if sentence had been pronounced and a final judgment of conviction entered.
 
 **(e) Statute of limitations** No person who stands convicted of an offense under this part may challenge the validity of any prior conviction alleged under this section which occurred more than five years before the date of the information alleging such prior conviction.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
 
 <a id="section-852"></a>
@@ -4385,6 +4961,9 @@ Pub. L. 98–473, § 224(b), which directed amendment of this section effective 
 
 #### Effective Date of 1986 Amendment
 Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of [section 3583 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under [section 841 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-841).
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
 
 <a id="section-860"></a>
@@ -5028,7 +5607,11 @@ Subsec. (b)(2). Pub. L. 111–211, § 232(b)(2), inserted “, tribal,” after 
 
 **(b) Requests by Attorney General for assistance from Federal agencies or instrumentalities** When requested by the Attorney General, it shall be the duty of any agency or instrumentality of the Federal Government to furnish assistance, including technical advice, to him for carrying out his functions under this subchapter; except that no such agency or instrumentality shall be required to furnish the name of, or other identifying information about, a patient or research subject whose identity it has undertaken to keep confidential.
 
-**(c) Descriptive and analytic reports by Attorney General to State agencies of distribution patterns of schedule II substances having highest rates of abuse** The Attorney General shall annually (1) select the controlled substance (or controlled substances) contained in schedule II which, in the Attorney General’s discretion, is determined to have the highest rate of abuse, and (2) prepare and make available to regulatory, licensing, and law enforcement agencies of States descriptive and analytic reports on the actual distribution patterns in such States of each such controlled substance.
+**(c) Descriptive and analytic reports; limitation on court challenges**
+
+(1) The Attorney General shall, once every 6 months, prepare and make available to regulatory, licensing, attorneys general, and law enforcement agencies of States a standardized report containing descriptive and analytic information on the actual distribution patterns, as gathered through the Automated Reports and Consolidated Orders System, or any subsequent automated system, pursuant to [section 827 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-827) and which includes detailed amounts, outliers, and trends of distributor and pharmacy registrants, in such States for the controlled substances contained in schedule II, which, in the discretion of the Attorney General, are determined to have the highest abuse.
+
+(2) If the Attorney General publishes the report described in paragraph (1) once every 6 months as required under paragraph (1), nothing in this subsection shall be construed to bring an action in any court to challenge the sufficiency of the information or to compel the Attorney General to produce any documents or reports referred to in this subsection.
 
 **(d) Grants by Attorney General**
 
@@ -5058,6 +5641,8 @@ This chapter, referred to in subsec. (a)(7), was in the original as added by Pub
 Schedule II, referred to in subsec. (c), is set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–271 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Attorney General shall annually (1) select the controlled substance (or controlled substances) contained in schedule II which, in the Attorney General’s discretion, is determined to have the highest rate of abuse, and (2) prepare and make available to regulatory, licensing, and law enforcement agencies of States descriptive and analytic reports on the actual distribution patterns in such States of each such controlled substance.”
+
 2010—Subsec. (a). Pub. L. 111–211, § 232(c)(1)(A), inserted “tribal,” after “State,” wherever appearing in introductory provisions and pars. (3) and (4).
 
 Subsec. (a)(6), (7). Pub. L. 111–211, § 232(c)(1)(B), inserted “, tribal,” after “State” wherever appearing.
@@ -5235,7 +5820,7 @@ A search warrant relating to offenses involving controlled substances may be ser
 
 (2) A warrant shall issue only upon an affidavit of an officer or employee having knowledge of the facts alleged, sworn to before the judge or magistrate judge and establishing the grounds for issuing the warrant. If the judge or magistrate judge is satisfied that grounds for the application exist or that there is probable cause to believe they exist, he shall issue a warrant identifying the area, premises, building, or conveyance to be inspected, the purpose of such inspection, and, where appropriate, the type of property to be inspected, if any. The warrant shall identify the items or types of property to be seized, if any. The warrant shall be directed to a person authorized under subsection (b)(2) to execute it. The warrant shall state the grounds for its issuance and the name of the person or persons whose affidavit has been taken in support thereof. It shall command the person to whom it is directed to inspect the area, premises, building, or conveyance identified for the purpose specified, and, where appropriate, shall direct the seizure of the property specified. The warrant shall direct that it be served during normal business hours. It shall designate the judge or magistrate judge to whom it shall be returned.
 
-(3) A warrant issued pursuant to this section must be executed and returned within ten days of its date unless, upon a showing by the United States of a need therefor, the judge or magistrate judge allows additional time in the warrant. If property is seized pursuant to a warrant, the person executing the warrant shall give to the person from whom or from whose premises the property was taken a copy of the warrant and a receipt for the property taken or shall leave the copy and receipt at the place from which the property was taken. The return of the warrant shall be made promptly and shall be accompanied by a written inventory of any property taken. The inventory shall be made in the presence of the person executing the warrant and of the person from whose possession or premises the property was taken, if they are present, or in the presence of at least one credible person other than the person making such inventory, and shall be verified by the person executing the warrant. The judge or magistrate judge, upon request, shall deliver a copy of the inventory to the person from whom or from whose premises the property was taken and the applicant for the warrant.
+(3) A warrant issued pursuant to this section must be executed and returned within ten days of its date unless, upon a showing by the United States of a need therefor, the judge or magistrate judge allows additional time in the warrant. If property is seized pursuant to a warrant, the person executing the warrant shall give to the person from whom or from whose premises the property was taken a copy of the warrant and a receipt for the property taken or shall leave the copy and receipt at the place from which the property was taken. The return of the warrant shall be made promptly and shall be accompanied by a written inventory of any property taken. The inventory shall be made in the presence of the person executing the warrant and of the person from whose possession or premises the property was taken, if they are present, or in the presence of at least one credible person other than the person making such inventory, and shall be verified by the person executing the warrant. The judge or magistrate judge, upon request, shall deliver a copy of the inventory to the person from whom or from whose premises the property was taken and to the applicant for the warrant.
 
 (4) The judge or magistrate judge who has issued a warrant under this section shall attach to the warrant a copy of the return and all papers filed in connection therewith and shall file them with the clerk of the district court of the United States for the judicial district in which the inspection was made.
 
@@ -5897,6 +6482,9 @@ Subsec. (b)(2). Pub. L. 98–473, § 521, substituted “is imported pursuant to
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States [July 15, 1980], see section 112 of Pub. L. 95–633, set out as an Effective Date note under [section 801a of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801a).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
+
 
 <a id="section-953"></a>
 ## § 953. Exportation of controlled substances
@@ -6003,6 +6591,9 @@ Subsec. (g). Pub. L. 114–89, § 4(2), added subsec. (g).
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States [July 15, 1980], see section 112 of Pub. L. 95–633, set out as an Effective Date note under [section 801a of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801a).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
+
 
 <a id="section-954"></a>
 ## § 954. Transshipment and in-transit shipment of controlled substances
@@ -6023,6 +6614,9 @@ Notwithstanding sections 952, 953, and 957 of this title—
 #### References in Text
 Schedules I, II, III, and IV, referred to in text, are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
+
 
 <a id="section-955"></a>
 ## § 955. Possession on board vessels, etc., arriving in or departing from United States
@@ -6033,6 +6627,9 @@ It shall be unlawful for any person to bring or possess on board any vessel or a
 
 #### References in Text
 Schedules I, II, III, and IV, referred to in text, are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
 
 
 <a id="section-955a-to-955d"></a>
@@ -6111,6 +6708,9 @@ Subsec. (b)(2). Pub. L. 103–200, § 3(e)(2)(B), inserted “or list I chemical
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
+
 #### Provisional Registration
 Pub. L. 91–513, title III, § 1104, Oct. 27, 1970, 84 Stat. 1294, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(a)(1) Any person—“(A) who is engaged in importing or exporting any controlled substance on the day before the effective date of section 1007 [May 1, 1971], “(B) who notifies the Attorney General that he is so engaged, and “(C) who is registered on such day under section 510 of the Federal Food, Drug, and Cosmetic Act [[section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360)] or under section 4722 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954, [section 4722 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4722&num=0&edition=prelim)], shall, with respect to each establishment for which such registration is in effect under any such section, be deemed to have a provisional registration under section 1008 [[section 958 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-958)] for the import or export (as the case may be) of controlled substances. “(2) During the period his provisional registration is in effect under this section, the registration number assigned such person under such section 510 or under such section 4722 (as the case may be) shall be his registration number for purposes of part A of this title [this subchapter]. “(b) The provisions of section 304 [[section 824 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-824)], relating to suspension and revocation of registration, shall apply to a provisional registration under this section. “(c) Unless sooner suspended or revoked under subsection (b), a provisional registration of a person under subsection (a)(1) of this section shall be in effect until—“(1) the date on which such person has registered with the Attorney General under section 1008 [[section 958 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-958)] or has had his registration denied under such section, or “(2) such date as may be prescribed by the Attorney General for registration of importers or exporters, as the case may be, whichever occurs first.”
 
@@ -6187,6 +6787,9 @@ Subsecs. (d) to (i). Pub. L. 98–473, § 525, added subsec. (d), redesignated f
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
+
 
 <a id="section-959"></a>
 ## § 959. Possession, manufacture, or distribution of controlled substance
@@ -6204,7 +6807,7 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 (2) possess a controlled substance or listed chemical with intent to distribute.
 
-**(d) Acts committed outside territorial jurisdiction of United States; venue** This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States. Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.
+**(d) Acts committed outside territorial jurisdiction of United States** This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States.
 
 ### Statutory Notes
 
@@ -6212,6 +6815,8 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 Schedules I and II, referred to in subsec. (a), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–91 struck out “; venue” after “United States” in heading and “Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.” after “United States.” in text.
+
 2016—Subsec. (a). Pub. L. 114–154, § 2(2), substituted “It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or a listed chemical intending, knowing, or having reasonable cause to believe that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.” for “It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or listed chemical—
 
 “(1) intending that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States; or
@@ -6227,6 +6832,9 @@ Pub. L. 104–237, § 102(a), inserted “or listed chemical” after “schedul
 Subsec. (b). Pub. L. 104–237, § 102(b), inserted “or listed chemical” after “controlled substance” in pars. (1) and (2).
 
 1986—Pub. L. 99–570 designated first sentence as subsec. (a) and inserted “or into waters within a distance of 12 miles of the coast of the United States” in pars. (1) and (2), added subsec. (b), and designated last two sentences as subsec. (c).
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
 
 
 <a id="section-960"></a>
@@ -6267,7 +6875,7 @@ shall be punished as provided in subsection (b).
   (G) 1000 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
 
   (H) 50 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers.11 So in original. The period probably should be a semicolon.
-  the person committing such violation shall be sentenced to a term of imprisonment of not less than 10 years and not more than life and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than 20 years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $10,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 20 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $20,000,000 if the defendant is an individual or $75,000,000 if the defendant is other than an individual, or both. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 5 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 10 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
+  the person committing such violation shall be sentenced to a term of imprisonment of not less than 10 years and not more than life and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than 20 years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $10,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $20,000,000 if the defendant is an individual or $75,000,000 if the defendant is other than an individual, or both. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 5 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 10 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
 
 (2) In the case of a violation of subsection (a) of this section involving—
 
@@ -6294,7 +6902,7 @@ shall be punished as provided in subsection (b).
   (G) 100 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
 
   (H) 5 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 50 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers.1
-  the person committing such violat ion shall be sentenced to a term of imprisonment of not less than 5 years and not more than 40 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $5,000,000 if the defendant is an individual or $25,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 10 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $8,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence imposed under this paragraph shall, in the absence of such a prior conviction, include a term of supervised release of at least 4 years in addition to such term of imprisonment and shall, if there was such a prior conviction, include a term of supervised release of at least 8 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
+  the person committing such violation shall be sentenced to a term of imprisonment of not less than 5 years and not more than 40 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $5,000,000 if the defendant is an individual or $25,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 10 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $8,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence imposed under this paragraph shall, in the absence of such a prior conviction, include a term of supervised release of at least 4 years in addition to such term of imprisonment and shall, if there was such a prior conviction, include a term of supervised release of at least 8 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
 
 (3) In the case of a violation under subsection (a) of this section involving a controlled substance in schedule I or II, gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000), or flunitrazepam, the person committing such violation shall, except as provided in paragraphs (1), (2), and (4), be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Notwithstanding [section 3583 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results.
 
@@ -6333,6 +6941,10 @@ Schedules I, II, III, IV, and V, referred to in subsec. (b), are set out in [sec
 Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibition Act of 2000, referred to in subsec. (b)(3), is section 3(a)(1)(B) of Pub. L. 106–172, which is set out in a note under [section 812 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-812).
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–391, § 401(b)(1), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 20 years”.
+
+Subsec. (b)(2). Pub. L. 115–391, § 401(b)(2), substituted “serious drug felony or serious violent felony” for “felony drug offense” in concluding provisions.
+
 2014—Subsec. (a)(1). Pub. L. 113–260 inserted “825,” before “952”.
 
 2010—Subsec. (b)(1). Pub. L. 111–220, § 4(b)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
@@ -6445,6 +7057,9 @@ Subsec. (b)(3). Pub. L. 98–473, § 504(1), (3), redesignated former par. (2) a
 
 Subsec. (c). Pub. L. 98–473, § 225, as amended by Pub. L. 99–570, § 1005(c), struck out subsec. (c) which related to special parole terms imposed under this section or [section 962 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-962). Notwithstanding directory language that the amendment be made to “Section 1515 of the Controlled Substances Import and Export Act ([21 U.S.C. 960](./chapter-013-drug-abuse-prevention-and-control.md#section-960))”, the amendment was executed to this section as the probable intent of Congress.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–391 applicable to any offense that was committed before Dec. 21, 2018, if a sentence for the offense has not been imposed as of Dec. 21, 2018, see section 401(c) of Pub. L. 115–391, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
+
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
 
@@ -6462,6 +7077,9 @@ Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking eff
 
 #### Effective Date of 1984 Amendment
 Amendment by section 225 of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
 
 
 <a id="section-960a"></a>
@@ -6507,6 +7125,9 @@ Any person who violates [section 954 of this title](./chapter-013-drug-abuse-pre
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
+
 
 <a id="section-962"></a>
 ## § 962. Second or subsequent offenses
@@ -6532,6 +7153,9 @@ Subsec. (b). Pub. L. 98–473, § 505, inserted references to laws of a State or
 #### Effective Date of 1986 Amendment
 Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of [section 3583 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583&num=0&edition=prelim), Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under [section 841 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-841).
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
+
 
 <a id="section-963"></a>
 ## § 963. Attempt and conspiracy
@@ -6543,11 +7167,19 @@ Any person who attempts or conspires to commit any offense defined in this subch
 #### Amendments
 1988—Pub. L. 100–690 substituted “shall be subject to the same penalties as those prescribed for the offense” for “is punishable by imprisonment or fine or both which may not exceed the maximum punishment prescribed for the offense”.
 
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
+
 
 <a id="section-964"></a>
 ## § 964. Additional penalties
 
 Any penalty imposed for violation of this subchapter shall be in addition to, and not in lieu of, any civil or administrative penalty or sanction authorized by law.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951).
 
 
 <a id="section-965"></a>

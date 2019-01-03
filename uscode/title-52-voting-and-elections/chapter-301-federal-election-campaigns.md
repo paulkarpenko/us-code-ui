@@ -353,15 +353,7 @@ Pub. L. 96–187, title III, § 302, Jan. 8, 1980, 93 Stat. 1368, as amended by 
 
 (2) Each principal campaign committee shall receive all designations, statements, and reports required to be filed with it under paragraph (1) and shall compile and file such designations, statements, and reports in accordance with this Act.
 
-**(g) Filing with and receipt of designations, statements, and reports by Secretary of Senate; forwarding to Commission; filing requirements with Commission; public inspection and preservation of designations, etc.**
-
-(1) Designations, statements, and reports required to be filed under this Act by a candidate for the office of Senator, by the principal campaign committee of such candidate, and by the Republican and Democratic Senatorial Campaign Committees shall be filed with the Secretary of the Senate, who shall receive such designations, statements, and reports, as custodian for the Commission.
-
-(2) The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission as soon as possible (but no later than 2 working days) after receiving such designation, statement, or report.
-
-(3) All designations, statements, and reports required to be filed under this Act, except designations, statements, and reports filed in accordance with paragraph (1), shall be filed with the Commission.
-
-(4) The Secretary of the Senate shall make the designations, statements, and reports received under this subsection available for public inspection and copying in the same manner as the Commission under [section 30111(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30111/a/4&num=0&edition=prelim), and shall preserve such designations, statements, and reports in the same manner as the Commission under [section 30111(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30111/a/5&num=0&edition=prelim).
+**(g) Filing with the Commission** All designations, statements, and reports required to be filed under this Act shall be filed with the Commission.
 
 **(h) Campaign depositories; designations, maintenance of accounts, etc.; petty cash fund for disbursements; record of disbursements**
 
@@ -380,6 +372,16 @@ This Act, referred to in text, means the Federal Election Campaign Act of 1971, 
 Section was formerly classified to [section 432 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section432&num=0&edition=prelim), The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–244 amended subsec. (g) generally. Prior to amendment, text read as follows:
+
+“(1) Designations, statements, and reports required to be filed under this Act by a candidate for the office of Senator, by the principal campaign committee of such candidate, and by the Republican and Democratic Senatorial Campaign Committees shall be filed with the Secretary of the Senate, who shall receive such designations, statements, and reports, as custodian for the Commission.
+
+“(2) The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission as soon as possible (but no later than 2 working days) after receiving such designation, statement, or report.
+
+“(3) All designations, statements, and reports required to be filed under this Act, except designations, statements, and reports filed in accordance with paragraph (1), shall be filed with the Commission.
+
+“(4) The Secretary of the Senate shall make the designations, statements, and reports received under this subsection available for public inspection and copying in the same manner as the Commission under [section 30111(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30111/a/4&num=0&edition=prelim), and shall preserve such designations, statements, and reports in the same manner as the Commission under [section 30111(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30111/a/5&num=0&edition=prelim).”
+
 2004—Subsec. (e)(3)(B). Pub. L. 108–447 substituted “$2,000” for “$1,000”.
 
 1997—Subsec. (g)(1). Pub. L. 105–61 struck out “and” after “Senator,” and inserted “and by the Republican and Democratic Senatorial Campaign Committees” after “candidate,”.
@@ -1372,7 +1374,7 @@ Pub. L. 94–283, title I, § 108(b), May 11, 1976, 90 Stat. 482, provided that:
 
       (II) [section 30105 of this title](./chapter-301-federal-election-campaigns.md#section-30105).
 
-    (v) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2018.
+    (v) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2023.
 
 (5)
 
@@ -1470,6 +1472,8 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 308, and wa
 Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is classified to [section 30113 of this title](./chapter-301-federal-election-campaigns.md#section-30113).
 
 #### Amendments
+2018—Subsec. (a)(4)(C)(v). Pub. L. 115–386 substituted “December 31, 2023” for “December 31, 2018”.
+
 2013—Subsec. (a)(4)(C)(i). Pub. L. 113–72, § 2(a), substituted “a qualified disclosure requirement” for “any requirement of [section 434(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section434/a&num=0&edition=prelim)” in introductory provisions.
 
 Subsec. (a)(4)(C)(i)(II). Pub. L. 113–72, § 2(b), inserted “, for violations of each qualified disclosure requirement,” before “under a schedule of penalties”.
@@ -1505,6 +1509,9 @@ Subsec. (a)(6)(A). Pub. L. 106–58, § 640(b), substituted “paragraph (4)” 
 1976—Subsec. (a). Pub. L. 94–283, § 109, generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
 
 Subsecs. (b), (c). Pub. L. 94–283, § 109, reenacted subsec. (b) without change and added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–386, § 1(b), Dec. 21, 2018, 132 Stat. 5161, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the earlier of— “(1) December 31, 2018; or “(2) the date of the enactment of this Act [Dec. 21, 2018].”
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–72, § 3, Dec. 26, 2013, 127 Stat. 1211, provided that: “The amendments made by this Act [amending this section] shall take effect on the earlier of— “(1) December 31, 2013; or “(2) the date of the enactment of this Act [Dec. 26, 2013].”
@@ -2154,11 +2161,11 @@ This Act, referred to in subsecs. (a)(5) and (h), means the Federal Election Cam
 
 For effective date of the Bipartisan Campaign Reform Act of 2002, referred to in subsec. (j), see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of this title](./chapter-301-federal-election-campaigns.md#section-30101).
 
-#### Constitutionality
-For information regarding constitutionality of certain provisions of section 315 of Pub. L. 92–225, as added by section 112(2) of Pub. L. 94–283 and amended by section 213 of Pub. L. 107–155, and information regarding constitutionality of certain provisions of section 307(b) of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Codification
 Section was formerly classified to [section 441a of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441a&num=0&edition=prelim), The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
+
+#### Constitutionality
+For information regarding constitutionality of certain provisions of section 315 of Pub. L. 92–225, as added by section 112(2) of Pub. L. 94–283 and amended by section 213 of Pub. L. 107–155, and information regarding constitutionality of certain provisions of section 307(b) of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Prior Provisions
 A prior section 315 of Pub. L. 92–225 was renumbered section 311, and is classified to [section 30111 of this title](./chapter-301-federal-election-campaigns.md#section-30111).

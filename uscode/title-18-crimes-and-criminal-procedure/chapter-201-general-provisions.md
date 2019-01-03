@@ -490,7 +490,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 <a id="section-3014"></a>
 ## § 3014. Additional special assessment
-**(a) In General.—** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on September 30, 2019, in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
+**(a) In General.—** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on September 30, 2021, in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
 
 (1) chapter 77 (relating to peonage, slavery, and trafficking in persons);
 
@@ -510,7 +510,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 **(e) Use of Funds.—**
 
-(1) **In general.—** — From amounts in the Fund, in addition to any other amounts available, and without further appropriation, the Attorney General, in coordination with the Secretary of Health and Human Services shall, for each of fiscal years 2016 through 2019, use amounts available in the Fund to award grants or enhance victims’ programming under—
+(1) **In general.—** — From amounts in the Fund, in addition to any other amounts available, and without further appropriation, the Attorney General, in coordination with the Secretary of Health and Human Services shall, for each of fiscal years 2016 through 2023, use amounts available in the Fund to award grants or enhance victims’ programming under—
 
   (A) section 204 of the Trafficking Victims Protection Reauthorization Act of 2005 ([42 U.S.C. 14044c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044c&num=0&edition=prelim)); 11 See References in Text note below.
 
@@ -522,13 +522,13 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 (2) **Limitation.—** — Except as provided in subsection (h)(2), none of the amounts in the Fund may be used to provide health care or medical items or services.
 
-**(f) Collection Method.—** The amount assessed under subsection (a) shall, subject to subsection (b), be collected in the manner that fines are collected in criminal cases.
+**(f) Collection Method.—** The amount assessed under subsection (a) shall, subject to subsection (b), be collected in the manner that fines are collected in criminal cases, including the mandatory imposition of civil remedies for satisfaction of an unpaid fine as authorized under section 3613, where appropriate.
 
 **(g) Duration of Obligation.—** Subject to section 3613(b), the obligation to pay an assessment imposed on or after the date of enactment of the Justice for Victims of Trafficking Act of 2015 shall not cease until the assessment is paid in full.
 
 **(h) Health or Medical Services.—**
 
-(1) **Transfer of funds.—** — From amounts appropriated under section 10503(b)(1)(E) of the Patient Protection and Affordable Care Act ([42 U.S.C. 254b–2(b)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1/E&num=0&edition=prelim)), as amended by section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, there shall be transferred to the Fund an amount equal to the amount transferred under subsection (d) for each fiscal year, except that the amount transferred under this paragraph shall not be less than $5,000,000 or more than $30,000,000 in each such fiscal year, and such amounts shall remain available until expended.
+(1) **Transfer of funds.—** — From amounts appropriated under subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act ([42 U.S.C. 254b–2(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1&num=0&edition=prelim)), there shall be transferred to the Fund an amount equal to the amount transferred under subsection (d) for each fiscal year, except that the amount transferred under this paragraph shall not be less than $5,000,000 or more than $30,000,000 in each such fiscal year, and such amounts shall remain available until expended.
 
 (2) **Use of funds.—** — The Attorney General, in coordination with the Secretary of Health and Human Services, shall use amounts transferred to the Fund under paragraph (1) to award grants that may be used for the provision of health care or medical items or services to victims of trafficking under—
 
@@ -538,9 +538,9 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
   (C) section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).1
 
-(3) **Grants.—** — Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims under section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).1
+(3) **Grants.—** — Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim))) under section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).1
 
-(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015 shall continue to apply to the amounts transferred pursuant to paragraph (1).
+(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015 and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
 ### Statutory Notes
 
@@ -555,5 +555,21 @@ Section 106 of the PROTECT Our Children Act of 2008, referred to in subsec. (e)(
 
 Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(1), (4), is section 221 of Pub. L. 114–10, title II, Apr. 16, 2015, 129 Stat. 154. Section 221(a)(1) of the Act amended [section 254b–2(b)(1)(E) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1/E&num=0&edition=prelim), The Public Health and Welfare. Section 221(c) of the Act provided for a condition on certain appropriations and is not classified to the Code.
 
+Section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (h)(4), is section 50901(e) of Pub. L. 115–123, div. E, title IX, Feb. 9, 2018, 132 Stat. 289. Section 50901(e) of the Act related to application of amounts appropriated pursuant to that section and is not classified to the Code.
+
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–392, § 2(b)(1), substituted “September 30, 2021” for “September 30, 2019” in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 115–392, § 2(b)(2), substituted “2023” for “2019” in introductory provisions.
+
+Subsec. (f). Pub. L. 115–392, § 2(b)(3), inserted “, including the mandatory imposition of civil remedies for satisfaction of an unpaid fine as authorized under section 3613, where appropriate” after “criminal cases”.
+
+Subsec. (h)(3). Pub. L. 115–392, § 2(b)(4), inserted “and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)))” after “child pornography victims”.
+
+Subsec. (h)(4). Pub. L. 115–123 substituted “and section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act” for “and section 3101(d) of the CHIP and Public Health Funding Extension Act”.
+
+2017—Subsec. (h)(1). Pub. L. 115–96, § 3101(e)(1), substituted “subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act ([42 U.S.C. 254b–2(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1&num=0&edition=prelim))” for “section 10503(b)(1)(E) of the Patient Protection and Affordable Care Act ([42 U.S.C. 254b–2(b)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1/E&num=0&edition=prelim)), as amended by section 221 of the Medicare Access and CHIP Reauthorization Act of 2015”.
+
+Subsec. (h)(4). Pub. L. 115–96, § 3101(e)(2), inserted “and section 3101(d) of the CHIP and Public Health Funding Extension Act” after “section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015”.
+
 2015—Subsec. (e)(1)(D). Pub. L. 114–22, § 905, added subpar. (D).

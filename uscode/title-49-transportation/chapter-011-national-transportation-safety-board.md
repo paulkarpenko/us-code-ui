@@ -2,14 +2,14 @@
 title: 49
 chapter: '11'
 heading: NATIONAL TRANSPORTATION SAFETY BOARD
-section_count: 24
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
 <a id="section-1101"></a>
 ## § 1101. Definitions
 
-Section 2101(17a) of title 46 and [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) apply to this chapter. In this chapter, the term “accident” includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
+[Section 2101(23) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/23&num=0&edition=prelim) and [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) apply to this chapter. In this chapter, the term “accident” includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
 
 ### Statutory Notes
 
@@ -23,6 +23,8 @@ A number of the source provisions of the chapter are taken from 49 App.:ch. 20. 
 This section is included to ensure that the identical definitions that are relevant are used without repeating them. The source provisions for the definitions are found in the revision note for section 40102(a) of the revised title.
 
 #### Amendments
+2018—Pub. L. 115–232 substituted “Section 2101(23)” for “Section 2101(17a)”.
+
 2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: “[Section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) applies to this chapter.”
 
 #### Short Title of 2015 Amendment
@@ -40,6 +42,9 @@ Pub. L. 106–424, § 1(a), Nov. 1, 2000, 114 Stat. 1883, provided that: “This
 #### Short Title of 1996 Amendment
 Pub. L. 104–291, title I, § 101, Oct. 11, 1996, 110 Stat. 3452, provided that: “This title [amending sections 1114, 1115, and 1118 of this title] may be cited as the ‘National Transportation Safety Board Amendments of 1996’.”
 
+#### Definitions of Terms in Division C of Pub. L. 115–254
+Pub. L. 115–254, div. C, § 1102, Oct. 5, 2018, 132 Stat. 3429, provided that: “In this division [enacting [section 1140 of this title](./chapter-011-national-transportation-safety-board.md#section-1140), amending sections 1111, 1113, 1114, 1116, 1117, 1118, 1131, 1134, 1136, 1138, 1139, 1154, 41113, and 41313 of this title, and enacting provisions set out as notes under sections 1116, 1119, and 40101 of this title], the following definitions apply: “(1) Board.—The term ‘Board’ means the National Transportation Safety Board. “(2) Chairman.—The term ‘Chairman’ means the Chairman of the National Transportation Safety Board. “(3) Most wanted list.—The term ‘Most Wanted List’ means the Board publication entitled ‘Most Wanted List’.”
+
 
 <a id="section-1111"></a>
 ## § 1111. General organization
@@ -49,7 +54,7 @@ Pub. L. 104–291, title I, § 101, Oct. 11, 1996, 110 Stat. 3452, provided that
 
 **(c) Terms of Office and Removal.—** The term of office of each member is 5 years. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, is appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
 
-**(d) Chairman and Vice Chairman.—** The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 2 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
+**(d) Chairman and Vice Chairman.—** The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 3 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
 
 **(e) Duties and Powers of Chairman.—** The Chairman is the chief executive and administrative officer of the Board. Subject to the general policies and decisions of the Board, the Chairman shall—
 
@@ -87,6 +92,40 @@ Pub. L. 104–291, title I, § 101, Oct. 11, 1996, 110 Stat. 3452, provided that
 
 **(j) Seal.—** The Board shall have a seal that shall be judicially recognized.
 
+**(k) Open Meetings.—**
+
+(1) **In general.—** — The Board shall be deemed to be an agency for purposes of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim).
+
+(2) **Nonpublic collaborative discussions.—**
+
+  (A) *In general.—* — Notwithstanding [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim), a majority of the members may hold a meeting that is not open to public observation to discuss official agency business if—
+
+    (i) no formal or informal vote or other official agency action is taken at the meeting;
+
+    (ii) each individual present at the meeting is a member or an employee of the Board;
+
+    (iii) at least 1 member of the Board from each political party is present at the meeting, if applicable; and
+
+    (iv) the General Counsel of the Board is present at the meeting.
+
+  (B) *Disclosure of nonpublic collaborative discussions.—* — Except as provided under subparagraphs (C) and (D), not later than 2 business days after the conclusion of a meeting under subparagraph (A), the Board shall make available to the public, in a place easily accessible to the public—
+
+    (i) a list of the individuals present at the meeting; and
+
+    (ii) a summary of the matters, including key issues, discussed at the meeting, except for any matter the Board properly determines may be withheld from the public under [section 552b(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b/c&num=0&edition=prelim).
+
+  (C) *Summary.—* — If the Board properly determines a matter may be withheld from the public under [section 552b(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b/c&num=0&edition=prelim), the Board shall provide a summary with as much general information as possible on each matter withheld from the public.
+
+  (D) *Active investigations.—* — If a discussion under subparagraph (A) directly relates to an active investigation, the Board shall make the disclosure under subparagraph (B) on the date the Board adopts the final report.
+
+  (E) *Preservation of open meetings requirements for agency action.—* — Nothing in this paragraph may be construed to limit the applicability of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) with respect to a meeting of the members other than that described in this paragraph.
+
+  (F) *Statutory construction.—* — Nothing in this paragraph may be construed—
+
+    (i) to limit the applicability of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) with respect to any information which is proposed to be withheld from the public under subparagraph (B)(ii); or
+
+    (ii) to authorize the Board to withhold from any individual any record that is accessible to that individual under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -117,6 +156,10 @@ In subsection (g), the text of 49 App.:1902(c)(1) is omitted as unnecessary beca
 GS–15, referred to in subsec. (i), is contained in the General Schedule, which is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–254, § 1112(a), substituted “3 years” for “2 years”.
+
+Subsec. (k). Pub. L. 115–254, § 1112(b), added subsec. (k).
+
 2006—Subsec. (e)(1). Pub. L. 109–443, § 9(d)(1), added par. (1) and struck out former par. (1) which read as follows: “appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;”.
 
 Subsec. (e)(2) to (4). Pub. L. 109–443, § 9(d)(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
@@ -165,7 +208,7 @@ In subsection (c), the words “when convened to investigate an accident certifi
 ## § 1113. Administrative
 **(a) General Authority.—**
 
-(1) The National Transportation Safety Board, and when authorized by it, a member of the Board, an administrative law judge employed by or assigned to the Board, or an officer or employee designated by the Chairman of the Board, may conduct hearings to carry out this chapter, administer oaths, and require, by subpena or otherwise, necessary witnesses and evidence.
+(1) The National Transportation Safety Board, and when authorized by it, a member of the Board, an administrative law judge employed by or assigned to the Board, or an officer or employee designated by the Chairman of the Board, may conduct hearings to carry out this chapter, administer oaths, and require, by subpoena or otherwise, necessary witnesses and evidence.
 
 (2) A witness or evidence in a hearing under paragraph (1) of this subsection may be summoned or required to be produced from any place in the United States to the designated place of the hearing. A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
@@ -191,9 +234,11 @@ In subsection (c), the words “when convened to investigate an accident certifi
 
   (G) accept gifts of money and other property;
 
-  (H) make contracts with nonprofit entities to carry out studies related to duties and powers of the Board; and
+  (H) make contracts with nonprofit entities to carry out studies related to duties and powers of the Board;
 
-  (I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board.
+  (I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board; and
+
+  (J) notwithstanding [section 1343 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343&num=0&edition=prelim), acquire 1 or more small unmanned aircraft (as defined in section 44801) for use in investigations under this chapter.
 
 (2) The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited as offsetting collections to the appropriation of the Board. The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.
 
@@ -216,8 +261,6 @@ In subsection (c), the words “when convened to investigate an accident certifi
 (4) **Basic pay defined.—** — In this subsection, the term “basic pay” includes any applicable locality-based comparability payment under [section 5304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304&num=0&edition=prelim) (or similar provision of law) and any special rate of pay under [section 5305 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5305&num=0&edition=prelim) (or similar provision of law).
 
 (5) **Annual report.—** — Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).
-
-**(h) Investigative Officers.—** The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from the nearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State.
 
 ### Statutory Notes
 
@@ -273,6 +316,12 @@ In subsection (f), the words “prescribe regulations to carry out this chapter�
 GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–254, § 1112(e), substituted “subpoena” for “subpena”.
+
+Subsec. (b)(1)(J). Pub. L. 115–254, § 1112(c), added subpar. (J).
+
+Subsec. (h). Pub. L. 115–254, § 1112(d), struck out subsec. (h). Text read as follows: “The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from the nearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State.”
+
 2011—Subsec. (b)(1)(B). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))”.
 
 2006—Subsec. (a)(3). Pub. L. 109–443, § 9(e), substituted “subpoena” for “subpena”.
@@ -322,23 +371,27 @@ Pub. L. 106–424, § 9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Cha
 
 **(c) Cockpit Recordings and Transcripts.—**
 
-(1) The Board may not disclose publicly any part of a cockpit voice or video recorder recording or transcript of oral communications by and between flight crew members and ground stations related to an accident or incident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
+(1) **Confidentiality of recordings.—** — Except as provided in paragraph (2), the Board may not disclose publicly any part of a cockpit voice or video recorder recording or transcript of oral communications by and between flight crew members and ground stations related to an accident or incident investigated by the Board.
+
+(2) **Exception.—** — Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visual information obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident or incident—
 
   (A) if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
 
   (B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident or incident are placed in the public docket.
 
-(2) This subsection does not prevent the Board from referring at any time to cockpit voice or video recorder information in making safety recommendations.
+(3) **References to information in making safety recommendations.—** — This subsection does not prevent the Board from referring at any time to cockpit voice or video recorder information in making safety recommendations.
 
 **(d) Surface Vehicle Recordings and Transcripts.—**
 
-(1) **Confidentiality of recordings.—** — The Board may not disclose publicly any part of a surface vehicle voice or video recorder recording or transcript of oral communications by or among drivers, train employees, or other operating employees responsible for the movement and direction of the vehicle or vessel, or between such operating employees and company communication centers, related to an accident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
+(1) **Confidentiality of recordings.—** — Except as provided in paragraph (2), the Board may not disclose publicly any part of a surface vehicle voice or video recorder recording or transcript of oral communications by or among drivers, train employees, or other operating employees responsible for the movement and direction of the vehicle or vessel, or between such operating employees and company communication centers, related to an accident investigated by the Board.
+
+(2) **Exception.—** — Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visual information obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident—
 
   (A) if the Board holds a public hearing on the accident, at the time of the hearing; or
 
   (B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket.
 
-(2) **References to information in making safety recommendations.—** — This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
+(3) **References to information in making safety recommendations.—** — This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
 
 **(e) Drug Tests.—**
 
@@ -370,6 +423,8 @@ Pub. L. 106–424, § 9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Cha
 
 (2) **Safety recommendations.—** — Nothing in this subsection shall restrict the Board at any time from referring to foreign accident investigation information in making safety recommendations.
 
+**(g) Privacy Protections.—** Before making public any still image obtained from a video recorder under subsection (c)(2) or subsection (d)(2), the Board shall take such action as appropriate to protect from public disclosure any information that readily identifies an individual, including a decedent.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -396,6 +451,32 @@ In subsection (d)(3), the words “laboratory record made available under paragr
 Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (e)(1), is section 503(e) of Pub. L. 100–71, which is set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–254, § 1104(a)(1)(C)(i), inserted heading and substituted “Except as provided in paragraph (2), the Board” for “The Board”.
+
+Subsec. (c)(2). Pub. L. 115–254, § 1104(a)(1)(C)(ii), designated second sentence of par. (1) as par. (2) and amended par. (2) generally. Prior to amendement, second sentence of par. (1) read as follows: “However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
+
+“(A) if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
+
+“(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident or incident are placed in the public docket.”
+
+Former par. (2) redesignated (3).
+
+Subsec. (c)(3). Pub. L. 115–254, § 1104(a)(1)(A), (B), redesignated par. (2) as (3) and inserted heading.
+
+Subsec. (d)(1). Pub. L. 115–254, § 1104(a)(2)(B)(i), substituted “Except as provided in paragraph (2), the Board” for “The Board”.
+
+Subsec. (d)(2). Pub. L. 115–254, § 1104(a)(2)(B)(ii), designated second sentence of par. (1) as par. (2) and amended par. (2) generally. Prior to amendement, second sentence of par. (1) read as follows: “However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
+
+“(A) if the Board holds a public hearing on the accident, at the time of the hearing; or
+
+“(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket.”
+
+Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 115–254, § 1104(a)(2)(A), redesignated par. (2) as (3).
+
+Subsec. (g). Pub. L. 115–254, § 1104(a)(3), added subsec. (g).
+
 2000—Subsec. (a). Pub. L. 106–424, §§ 3(b)(2), 5(b)(2), designated existing provisions as par. (1), substituted “(d), and (f)” for “and (e)” in first sentence, and added par. (2).
 
 Subsec. (c). Pub. L. 106–424, § 5(a)(1), struck out “Voice” after “Cockpit” in heading.
@@ -459,7 +540,7 @@ In subsection (c)(1), before clause (A), the words “the Secretary shall deposi
 
 
 <a id="section-1116"></a>
-## § 1116. Reports and studies
+## § 1116. Reports, studies, and retrospective reviews
 **(a) Periodic Reports.—** The National Transportation Safety Board shall report periodically to Congress, departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities concerned with transportation safety, and other interested persons. The report shall—
 
 (1) advocate meaningful responses to reduce the likelihood of transportation accidents similar to those investigated by the Board; and
@@ -481,6 +562,46 @@ In subsection (c)(1), before clause (A), the words “the Secretary shall deposi
 (4) evaluate, examine the effectiveness of, and publish the findings of the Board about the transportation safety consciousness of other departments, agencies, and instrumentalities of the Government and their effectiveness in preventing accidents; and
 
 (5) evaluate the adequacy of safeguards and procedures for the transportation of hazardous material and the performance of other departments, agencies, and instrumentalities of the Government responsible for the safe transportation of that material.
+
+**(c) Annual Report.—** The National Transportation Safety Board shall submit a report to Congress on July 1 of each year. The report shall include—
+
+(1) a statistical and analytical summary of the transportation accident investigations conducted and reviewed by the Board during the prior calendar year;
+
+(2) a survey and summary of the recommendations made by the Board to reduce the likelihood of recurrence of those accidents together with the observed response to each recommendation;
+
+(3) a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State;
+
+(4) a description of the activities and operations of the National Transportation Safety Board Training Center during the prior calendar year;
+
+(5) a list of accidents, during the prior calendar year, that the Board was required to investigate under section 1131 but did not investigate and an explanation of why they were not investigated; and
+
+(6) a list of ongoing investigations that have exceeded the expected time allotted for completion by Board order and an explanation for the additional time required to complete each such investigation.
+
+**(d) Retrospective Reviews.—**
+
+(1) **In general.—** — Subject to paragraph (2), not later than June 1, 2019, and at least every 5 years thereafter, the Chairman shall complete a retrospective review of recommendations issued by the Board that are classified as open by the Board.
+
+(2) **Contents.—** — A review under paragraph (1) shall include—
+
+  (A) a determination of whether the recommendation should be updated, closed, or reissued in light of—
+
+    (i) changed circumstances;
+
+    (ii) more recently issued recommendations;
+
+    (iii) the availability of new technologies; or
+
+    (iv) new information making the recommendation ineffective or insufficient for achieving its objective; and
+
+  (B) a justification for each determination under subparagraph (A).
+
+(3) **Report.—** — Not later than 180 days after the date a review under paragraph (1) is complete, the Chairman shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
+
+  (A) the findings of the review under paragraph (1);
+
+  (B) each determination under paragraph (2)(A) and justification under paragraph (2)(B); and
+
+  (C) if applicable, a schedule for updating, closing, or reissuing a recommendation.
 
 ### Statutory Notes
 
@@ -508,23 +629,46 @@ In subsection (b)(3), the words “by regulation” are omitted as unnecessary b
 
 In subsection (b)(4), the word “effectiveness” is substituted for “efficacy” for clarity.
 
+#### Amendments
+2018—Pub. L. 115–254, § 1111(a)(1), substituted “, studies, and retrospective reviews” for “and studies” in section catchline.
+
+Subsec. (c). Pub. L. 115–254, § 1107(a), added subsec. (c).
+
+Subsec. (d). Pub. L. 115–254, § 1111(a)(2), added subsec. (d).
+
+#### Savings Clause
+Pub. L. 115–254, div. C, § 1111(c), Oct. 5, 2018, 132 Stat. 3436, provided that: “Nothing in this section [amending this section] or the amendments made by this section may be construed to limit or otherwise affect the authority of the [National Transportation Safety] Board to update, close, or reissue a recommendation.”
+
 
 <a id="section-1117"></a>
-## § 1117. Annual report
+## § 1117. Methodology
+**(a) In General.—** Not later than 2 years after the date of enactment of the National Transportation Safety Board Reauthorization Act, the Chairman shall include with each investigative report in which a recommendation is issued by the Board a methodology section detailing the process and information underlying the selection of each recommendation.
 
-The National Transportation Safety Board shall submit a report to Congress on July 1 of each year. The report shall include—
+**(b) Elements.—** Except as provided in subsection (c), the methodology section under subsection (a) shall include, for each recommendation—
 
-(1) a statistical and analytical summary of the transportation accident investigations conducted and reviewed by the Board during the prior calendar year;
+(1) a brief summary of the Board’s collection and analysis of the specific accident investigation information most relevant to the recommendation;
 
-(2) a survey and summary of the recommendations made by the Board to reduce the likelihood of recurrence of those accidents together with the observed response to each recommendation;
+(2) a description of the Board’s use of external information, including studies, reports, and experts, other than the findings of a specific accident investigation, if any were used to inform or support the recommendation, including a brief summary of the specific safety benefits and other effects identified by each study, report, or expert; and
 
-(3) a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State;
+(3) a brief summary of any examples of actions taken by regulated entities before the publication of the safety recommendation, to the extent such actions are known to the Board, that were consistent with the recommendation.
 
-(4) a description of the activities and operations of the National Transportation Safety Board Academy during the prior calendar year;
+**(c) Acceptable Limitation.—** If the Board knows of more than 3 examples taken by regulated entities before the publication of the safety recommendation that were consistent with the recommendation, the brief summary under subsection (b)(3) may be limited to only 3 of those examples.
 
-(5) a list of accidents, during the prior calendar year, that the Board was required to investigate under section 1131 but did not investigate and an explanation of why they were not investigated; and
+**(d) Exception.—** Subsection (a) shall not apply if the recommendation is only for a person to disseminate information on—
 
-(6) a list of ongoing investigations that have exceeded the expected time allotted for completion by Board order and an explanation for the additional time required to complete each such investigation.
+(1) an existing agency best practices document; or
+
+(2) an existing regulatory requirement.
+
+**(e) Rule of Construction.—** Nothing in this section may be construed to require any change to a recommendation made by the Board before the date of enactment of the National Transportation Safety Board Reauthorization Act, unless the recommendation is a repeat recommendation issued on or after the date of enactment of such Act.
+
+**(f) Savings Clause.—** Nothing in this section may be construed—
+
+(1) to delay publication of the findings, cause, or probable cause of a Board investigation;
+
+(2) to delay the issuance of an urgent recommendation that the Board has determined must be issued to avoid immediate loss, death, or injury; or
+
+(3) to limit the number of examples the Board may consider before issuing a recommendation.
 
 ### Statutory Notes
 
@@ -535,7 +679,12 @@ The National Transportation Safety Board shall submit a report to Congress on Ju
 
 In this section, before clause (1), the words “but need not be limited to” are omitted as surplus. In clause (2), the words “in such detail as the Board deems advisable” are omitted as surplus. In clause (3), the words “departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities” are substituted for “other government agencies” for clarity and consistency in the revised title and with other titles of the United States Code. The words “for those activities” are substituted for “in this field” for clarity. In clause (4), the word “evaluation” is substituted for “appraisal and evaluation and review” because it is inclusive.
 
+#### References in Text
+The date of enactment of the National Transportation Safety Board Reauthorization Act and the date of enactment of such Act, referred to in subsecs. (a) and (e), are the date of enactment of div. C of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
 #### Amendments
+2018—Pub. L. 115–254 amended section generally. Prior to amendment, section related to annual report.
+
 2006—Pars. (4) to (6). Pub. L. 109–443 added pars. (4) to (6).
 
 1995—Par. (4). Pub. L. 104–66 struck out par. (4) which read as follows: “an evaluation conducted every 2 years of transportation safety and recommendations for legislative and administrative action and change.”
@@ -546,7 +695,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 <a id="section-1118"></a>
 ## § 1118. Authorization of appropriations
-**(a) In General.—** There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended.
+**(a) In General.—** There are authorized to be appropriated for the purposes of this chapter $111,400,000 for fiscal year 2019, $112,400,000 for fiscal year 2020, $113,400,000 for fiscal year 2021, and $114,400,000 for fiscal year 2022. Such sums shall remain available until expended.
 
 **(b) Emergency Fund.—** The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
 
@@ -578,6 +727,8 @@ In subsection (a), the words “to the National Transportation Safety Board” a
 In subsection (b)(2), the words “amounts equal to amounts expended annually out of the fund” are substituted for “to replenish the fund annually” for clarity.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254 amended subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended.”
+
 2006—Subsec. (a). Pub. L. 109–443, § 8(a), struck out “and” after “2005,” and substituted “2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.” for “2006.”
 
 Subsec. (c). Pub. L. 109–443, § 8(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to appropriations and fees for the National Transportation Safety Board Academy.
@@ -645,6 +796,9 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b)(1
 #### Effective Date
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
+#### Multimodal Accident Database Management System
+Pub. L. 115–254, div. C, § 1108, Oct. 5, 2018, 132 Stat. 3433, provided that: “(a) Establishment.—Not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], the [National Transportation Safety] Board shall establish and maintain a multimodal accident database management system for Board investigators. “(b) Purposes.—The purposes of the system shall be to support the Board in improving—“(1) the quality of accident data the Board makes available to the public; and “(2) the selection of accidents for investigation and allocation of limited resources. “(c) Requirements.—The system shall—“(1) maintain a historical record of accidents that are investigated by the Board; and “(2) be capable of the secure storage, retrieval, and management of information associated with the investigations of such accidents.”
+
 
 <a id="section-1131"></a>
 ## § 1131. General authority
@@ -652,7 +806,7 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 (1) The National Transportation Safety Board shall investigate or have investigated (in detail the Board prescribes) and establish the facts, circumstances, and cause or probable cause of—
 
-  (A) an aircraft accident the Board has authority to investigate under [section 1132 of this title](./chapter-011-national-transportation-safety-board.md#section-1132) or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) 11 See References in Text note below. of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
+  (A) an aircraft accident the Board has authority to investigate under [section 1132 of this title](./chapter-011-national-transportation-safety-board.md#section-1132) or an aircraft accident involving a public aircraft as defined by [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
 
   (B) a highway accident, including a railroad grade crossing accident, the Board selects in cooperation with a State;
 
@@ -660,7 +814,7 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
   (D) a pipeline accident in which there is a fatality, substantial property damage, or significant injury to the environment;
 
-  (E) a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988, or involving a vessel of the United States (as defined in section 2101(46) 1 of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
+  (E) a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988, or involving a vessel of the United States (as defined in section 2101(46) 11 See References in Text note below. of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
 
   (F) any other accident related to the transportation of individuals or property when the Board decides—
 
@@ -733,13 +887,13 @@ In subsection (c), the text of 49 App.:1441(f) is omitted as superseded by 49 Ap
 In subsection (d), the words “in writing” in 49 App.:1903(a)(2) are omitted as surplus. The words “by it” are added for clarity. The text of 49 App.:1441(a)(4) is omitted as superseded by 49 App.:1903(a)(1)(A) and (2).
 
 #### References in Text
-[Section 40102(a)(37) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a/37&num=0&edition=prelim), referred to in subsec. (a)(1)(A), was redesignated section 40102(a)(41) by Pub. L. 108–176, title II, § 225(a)(3), Dec. 12, 2003, 117 Stat. 2528.
-
 Presidential Proclamation No. 5928, referred to in subsec. (a)(1)(E), is set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 [Section 2101(46) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/46&num=0&edition=prelim), referred to in subsec. (a)(1)(E), was repealed and reenacted as [section 116 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section116&num=0&edition=prelim) by Pub. L. 109–304, §§ 4, 15(2)(A), Oct. 6, 2006, 120 Stat. 1486, 1702.
 
 #### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–254 substituted “a public aircraft as defined by [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim)” for “a public aircraft as defined by [section 40102(a)(37) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a/37&num=0&edition=prelim)”.
+
 2006—Subsec. (a)(1)(E). Pub. L. 109–443, § 9(b), substituted “on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988,” for “on the navigable waters or territorial sea of the United States,” and inserted “(as defined in [section 2101(46) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/46&num=0&edition=prelim))” after “vessel of the United States”.
 
 Subsec. (c)(1). Pub. L. 109–443, § 9(c), inserted “or the Secretary of the department in which the Coast Guard is operating” after “Transportation” in introductory provisions.
@@ -858,7 +1012,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (1) on display of appropriate credentials and written notice of inspection authority, may enter property where a transportation accident has occurred or wreckage from the accident is located and do anything necessary to conduct an investigation; and
 
-(2) during reasonable hours, may inspect any record, process, control, or facility related to an accident investigation under this chapter.
+(2) during reasonable hours, may inspect any record, including an electronic record, process, control, or facility related to an accident investigation under this chapter.
 
 **(b) Inspection, Testing, Preservation, and Moving of Aircraft and Parts.—**
 
@@ -909,6 +1063,9 @@ In subsection (d), the word “individuals” is substituted for “persons” t
 In subsection (e), the word “promptly” is substituted for “with reasonable promptness” to eliminate unnecessary words.
 
 In subsection (f)(1), the words “In the case of any fatal accident” in 49 App.:1441(c) are omitted as surplus. The words “to examine the remains of any deceased person aboard the aircraft at the time of the accident, who dies as a result of the accident” are omitted as unnecessary because of the authority of the Board to conduct autopsies.
+
+#### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–254 inserted “including an electronic record,” after “record,”.
 
 
 <a id="section-1135"></a>
@@ -995,7 +1152,7 @@ Pub. L. 107–355, § 19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 1
 
 <a id="section-1136"></a>
 ## § 1136. Assistance to families of passengers involved in aircraft accidents
-**(a) In General.—** As soon as practicable after being notified of an aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
+**(a) In General.—** As soon as practicable after being notified of an aircraft accident involving an air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
 
 (1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the air carrier or foreign air carrier and the families; and
 
@@ -1043,13 +1200,15 @@ Pub. L. 107–355, § 19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 1
 
 **(h) Definitions.—** In this section, the following definitions apply:
 
-(1) **Aircraft accident.—** — The term “aircraft accident” means any aviation disaster regardless of its cause or suspected cause.
+(1) **Aircraft accident.—** — The term “aircraft accident” means any aviation disaster, regardless of its cause or suspected cause, for which the National Transportation Safety Board is the lead investigative agency.
 
 (2) **Passenger.—** — The term “passenger” includes—
 
-  (A) an employee of an air carrier or foreign air carrier aboard an aircraft; and
+  (A) an employee of an air carrier or foreign air carrier aboard an aircraft;
 
-  (B) any other person aboard the aircraft without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the flight.
+  (B) any other person aboard the aircraft without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the flight; and
+
+  (C) any other person injured or killed in the aircraft accident, as determined appropriate by the Board.
 
 **(i) Statutory Construction.—** Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
 
@@ -1062,6 +1221,12 @@ Pub. L. 107–355, § 19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 1
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254, § 1109(c)(1), in introductory provisions, substituted “aircraft accident involving an air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency” for “aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life”.
+
+Subsec. (h)(1). Pub. L. 115–254, § 1109(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘aircraft accident’ means any aviation disaster regardless of its cause or suspected cause.”
+
+Subsec. (h)(2)(C). Pub. L. 115–254, § 1109(c)(2)(B), added subpar. (C).
+
 2003—Subsec. (j). Pub. L. 108–168 added subsec. (j).
 
 2000—Subsec. (g)(2). Pub. L. 106–181, § 401(a)(1), substituted “transportation and in the event of an accident involving a foreign air carrier that occurs within the United States,” for “transportation,”, inserted “(including any associate, agent, employee, or other representative of an attorney)” after “attorney”, and substituted “45th day” for “30th day”.
@@ -1122,21 +1287,27 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is s
 
 (4) procurement and contracting planning, practices and policies;
 
-(5) the extent to which the Board follows leading practices in selected management areas; and
+(5) the process and procedures to select an accident to investigate;
 
-(6) the extent to which the Board addresses management challenges in completing accident investigations.
+(6) the extent to which the Board follows leading practices in selected management areas; and
 
-**(c) Appropriate Congressional Committees.—** For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+(7) the extent to which the Board addresses management challenges in completing accident investigations.
+
+**(c) Appropriate Congressional Committees.—** For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(5) to (7). Pub. L. 115–254, § 1110(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
+
 2014—Subsec. (a). Pub. L. 113–188 struck out “at least annually, but may be conducted” after “Such evaluation and audit shall be conducted”.
 
 
 <a id="section-1139"></a>
 ## § 1139. Assistance to families of passengers involved in rail passenger accidents
-**(a) In General.—** As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
+**(a) In General.—** As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
 
 (1) designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
 
@@ -1192,12 +1363,17 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is s
 
 **(h) Definitions.—** In this section:
 
-(1) **Rail passenger accident.—** — The term “rail passenger accident” means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
+(1) **Rail passenger accident.—** — The term “rail passenger accident” means any rail passenger disaster that—
 
-  (A) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
+  (A) results in any loss of life;
 
-  (B) interstate or intrastate high-speed rail (as such term is defined in section 26105) transportation,
-  regardless of its cause or suspected cause.
+  (B) the National Transportation Safety Board will serve as the lead investigative agency for; and
+
+  (C) occurs in the provision of—
+
+    (i) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
+
+    (ii) high-speed rail (as such term is defined in section 26105) transportation, regardless of its cause or suspected cause.
 
 (2) **Rail passenger carrier.—** — The term “rail passenger carrier” means a rail carrier providing—
 
@@ -1227,6 +1403,16 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is s
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254, § 1109(d)(1), substituted “resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency” for “resulting in a major loss of life” in introductory provisions.
+
+Subsec. (h)(1). Pub. L. 115–254, § 1109(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “The term “rail passenger accident” means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
+
+“(A) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
+
+“(B) interstate or intrastate high-speed rail (as such term is defined in section 26105) transportation,
+
+regardless of its cause or suspected cause.”
+
 2015—Subsec. (a)(1). Pub. L. 114–94, § 11316(a)(1), substituted “telephone number” for “phone number”.
 
 Subsec. (a)(2). Pub. L. 114–94, § 11316(a)(2), substituted “post-trauma communication with families” for “post trauma communication with families”.
@@ -1238,6 +1424,18 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 #### Establishment of Task Force
 Pub. L. 110–432, div. A, title V, § 503, Oct. 16, 2008, 122 Stat. 4899, provided that: “(a) Establishment.—The Secretary [of Transportation], in cooperation with the National Transportation Safety Board, organizations potentially designated under [section 1139(a)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1139/a/2&num=0&edition=prelim), United States Code, rail passenger carriers (as defined in [section 1139(h)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1139/h/2&num=0&edition=prelim), United States Code), and families which have been involved in rail accidents, shall establish a task force consisting of representatives of such entities and families, representatives of rail passenger carrier employees, and representatives of such other entities as the Secretary considers appropriate. “(b) Model Plan and Recommendations.—The task force established pursuant to subsection (a) shall develop—“(1) a model plan to assist rail passenger carriers in responding to passenger rail accidents; “(2) recommendations on methods to improve the timeliness of the notification provided by passenger rail carriers to the families of passengers involved in a passenger rail accident; “(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and “(4) recommendations on methods to ensure that emergency services personnel have as immediate and accurate a count of the number of passengers onboard the train as possible. “(c) Report.—Not later than 1 year after the date of the enactment of this Act [Oct. 16, 2008], the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b).”
+
+
+<a id="section-1140"></a>
+## § 1140. Information for families of individuals involved in accidents
+
+In the course of an investigation of an accident described in section 1131(a)(1), except an aircraft accident described in section 1136 or a rail passenger accident described in section 1139, the Board may, to the maximum extent practicable, ensure that the families of individuals involved in the accident, and other individuals the Board deems appropriate—
+
+(1) are informed as to the roles, with respect to the accident and the post-accident activities, of the Board;
+
+(2) are briefed, before any public briefing, about the accident, its causes, and any other findings from the investigation; and
+
+(3) are individually informed of and allowed to attend any public hearings and meetings of the Board about the accident.
 
 
 <a id="section-1151"></a>
@@ -1362,13 +1560,15 @@ In subsection (c), the source provisions are combined to eliminate unnecessary w
 
 <a id="section-1154"></a>
 ## § 1154. Discovery and use of cockpit and surface vehicle recordings and transcripts
-**(a) Transcripts and Recordings.—**
+**(a) In General.—**
 
 (1) Except as provided by this subsection, a party in a judicial proceeding may not use discovery to obtain—
 
-  (A) any part of a cockpit or surface vehicle recorder transcript that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title; and
+  (A) any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title;
 
-  (B) a cockpit or surface vehicle recorder recording.
+  (B) any part of a cockpit or surface vehicle recorder transcript that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title; and
+
+  (C) a cockpit or surface vehicle recorder recording.
 
 (2)
 
@@ -1380,21 +1580,21 @@ In subsection (c), the source provisions are combined to eliminate unnecessary w
 
   (B) A court may allow discovery, or require production for an in camera review, of a cockpit or surface vehicle recorder transcript that the Board has not made available under section 1114(c) or 1114(d) of this title only if the cockpit or surface vehicle recorder recording is not available.
 
-(3) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit or surface vehicle recorder recording if, after an in camera review of the recording, the court decides that—
+(3) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit or surface vehicle recorder recording, including with regard to a video recording any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title, if, after an in camera review of the recording, the court decides that—
 
   (A) the parts of the transcript made available to the public under section 1114(c) or 1114(d) of this title and to the party through discovery under paragraph (2) of this subsection do not provide the party with sufficient information for the party to receive a fair trial; and
 
-  (B) discovery of the cockpit or surface vehicle recorder recording is necessary to provide the party with sufficient information for the party to receive a fair trial.
+  (B) discovery of the cockpit or surface vehicle recorder recording, including with regard to a video recording any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title, is necessary to provide the party with sufficient information for the party to receive a fair trial.
 
 (4)
 
-  (A) When a court allows discovery in a judicial proceeding of a part of a cockpit or surface vehicle recorder transcript not made available to the public under section 1114(c) or 1114(d) of this title or a cockpit or surface vehicle recorder recording, the court shall issue a protective order—
+  (A) When a court allows discovery in a judicial proceeding of a still image or a part of a cockpit or surface vehicle recorder transcript not made available to the public under section 1114(c) or 1114(d) of this title or a cockpit or surface vehicle recorder recording, the court shall issue a protective order—
 
-    (i) to limit the use of the part of the transcript or the recording to the judicial proceeding; and
+    (i) to limit the use of the still image, the part of the transcript, or the recording to the judicial proceeding; and
 
-    (ii) to prohibit dissemination of the part of the transcript or the recording to any person that does not need access to the part of the transcript or the recording for the proceeding.
+    (ii) to prohibit dissemination of the still image, the part of the transcript, or the recording to any person that does not need access to the still image, the part of the transcript, or the recording for the proceeding.
 
-  (B) A court may allow a part of a cockpit or surface vehicle recorder transcript not made available to the public under section 1114(c) or 1114(d) of this title or a cockpit or surface vehicle recorder recording to be admitted into evidence in a judicial proceeding, only if the court places the part of the transcript or the recording under seal to prevent the use of the part of the transcript or the recording for purposes other than for the proceeding.
+  (B) A court may allow a still image or a part of a cockpit or surface vehicle recorder transcript not made available to the public under section 1114(c) or 1114(d) of this title or a cockpit or surface vehicle recorder recording to be admitted into evidence in a judicial proceeding, only if the court places the still image, the part of the transcript, or the recording under seal to prevent the use of the still image, the part of the transcript, or the recording for purposes other than for the proceeding.
 
 (5) This subsection does not prevent the Board from referring at any time to cockpit or surface vehicle recorder information in making safety recommendations.
 
@@ -1402,7 +1602,9 @@ In subsection (c), the source provisions are combined to eliminate unnecessary w
 
   (A) *Recorder.—* — The term “recorder” means a voice or video recorder.
 
-  (B) *Transcript.—* — The term “transcript” includes any written depiction of visual information obtained from a video recorder.
+  (B) *Still image.—* — The term “still image” means any still image obtained from a video recorder.
+
+  (C) *Transcript.—* — The term “transcript” includes any written depiction of visual information obtained from a video recorder.
 
 **(b) Reports.—** No part of a report of the Board, related to an accident or an investigation of an accident, may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
 
@@ -1425,6 +1627,18 @@ In subsection (a)(2)(B), the words “prepared by or under the direction of the 
 In subsection (b), the words “civil action” are substituted for “suit or action” in 49 App.:1441(e) and 1903(c) for consistency with the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254, § 1104(b)(1), substituted “In General” for “Transcripts and Recordings” in heading.
+
+Subsec. (a)(1). Pub. L. 115–254, § 1104(b)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+
+Subsec. (a)(3). Pub. L. 115–254, § 1104(b)(3), substituted “recorder recording, including with regard to a video recording any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title,” for “recorder recording” in introductory provisions and in subpar. (B).
+
+Subsec. (a)(4)(A). Pub. L. 115–254, § 1104(b)(4), inserted “a still image or” before “a part of a cockpit” in introductory provisions and substituted “the still image, the part of the transcript, or the recording” for “the part of the transcript or the recording” wherever appearing.
+
+Subsec. (a)(4)(B). Pub. L. 115–254, § 1104(b)(4)(B), inserted “a still image or” before “a part of a cockpit” and substituted “the still image, the part of the transcript, or the recording” for “the part of the transcript or the recording” in two places.
+
+Subsec. (a)(6)(B), (C). Pub. L. 115–254, § 1104(b)(5), added subpar. (B) and redesignated former subpar. (B) as (C).
+
 2000—Pub. L. 106–424, § 5(c)(1)(A), substituted “and surface vehicle recordings and transcripts” for “voice and other material” in section catchline.
 
 Subsec. (a). Pub. L. 106–424, § 5(c)(1)(B), substituted “cockpit or surface vehicle recorder” for “cockpit voice recorder” wherever appearing.

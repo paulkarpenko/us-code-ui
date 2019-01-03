@@ -61,7 +61,17 @@ In this part:
 
 (4) **Bulk cargo.—** — The term “bulk cargo” means cargo that is loaded and carried in bulk without mark or count.
 
-(5) **Chemical parcel-tanker.—** — The term “chemical parcel-tanker” means a vessel that has—
+(5) **Certain covered services.—** — For purposes of sections 41105 and 41307, the term “certain covered services” means, with respect to a vessel—
+
+  (A) the berthing or bunkering of the vessel;
+
+  (B) the loading or unloading of cargo to or from the vessel to or from a point on a wharf or terminal;
+
+  (C) the positioning, removal, or replacement of buoys related to the movement of the vessel; and
+
+  (D) with respect to injunctive relief under section 41307, towing vessel services provided to such a vessel.
+
+(6) **Chemical parcel-tanker.—** — The term “chemical parcel-tanker” means a vessel that has—
 
   (A) a cargo-carrying capability consisting of individual cargo tanks for bulk chemicals that—
 
@@ -71,7 +81,7 @@ In this part:
 
   (B) a valid certificate of fitness under the International Maritime Organization Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk.
 
-(6) **Common carrier.—** — The term “common carrier”—
+(7) **Common carrier.—** — The term “common carrier”—
 
   (A) means a person that—
 
@@ -87,19 +97,19 @@ In this part:
 
     (ii) only with respect to the carriage of those commodities.
 
-(7) **Conference.—** — The term “conference”—
+(8) **Conference.—** — The term “conference”—
 
   (A) means an association of ocean common carriers permitted, pursuant to an approved or effective agreement, to engage in concerted activity and to use a common tariff; but
 
   (B) does not include a joint service, consortium, pooling, sailing, or transshipment agreement.
 
-(8) **Controlled carrier.—** — The term “controlled carrier” means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—
+(9) **Controlled carrier.—** — The term “controlled carrier” means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—
 
   (A) a majority of the interest in the carrier is owned or controlled in any manner by that government, an agency of that government, or a public or private person controlled by that government; or
 
   (B) that government has the right to appoint or disapprove the appointment of a majority of the directors, the chief operating officer, or the chief executive officer of the carrier.
 
-(9) **Deferred rebate.—** — The term “deferred rebate” means a return by a common carrier of any freight money to a shipper, where the return is—
+(10) **Deferred rebate.—** — The term “deferred rebate” means a return by a common carrier of any freight money to a shipper, where the return is—
 
   (A) consideration for the shipper giving all or any portion of its shipments to that or any other common carrier over a fixed period of time;
 
@@ -107,21 +117,21 @@ In this part:
 
   (C) made only if the shipper has agreed to make a further shipment with that or any other common carrier.
 
-(10) **Forest products.—** — The term “forest products” includes lumber in bundles, rough timber, ties, poles, piling, laminated beams, bundled siding, bundled plywood, bundled core stock or veneers, bundled particle or fiber boards, bundled hardwood, wood pulp in rolls, wood pulp in unitized bales, and paper and paper board in rolls or in pallet or skid-sized sheets.
+(11) **Forest products.—** — The term “forest products” includes lumber in bundles, rough timber, ties, poles, piling, laminated beams, bundled siding, bundled plywood, bundled core stock or veneers, bundled particle or fiber boards, bundled hardwood, wood pulp in rolls, wood pulp in unitized bales, and paper and paper board in rolls or in pallet or skid-sized sheets.
 
-(11) **Inland division.—** — The term “inland division” means the amount paid by a common carrier to an inland carrier for the inland portion of through transportation offered to the public by the common carrier.
+(12) **Inland division.—** — The term “inland division” means the amount paid by a common carrier to an inland carrier for the inland portion of through transportation offered to the public by the common carrier.
 
-(12) **Inland portion.—** — The term “inland portion” means the charge to the public by a common carrier for the non-ocean portion of through transportation.
+(13) **Inland portion.—** — The term “inland portion” means the charge to the public by a common carrier for the non-ocean portion of through transportation.
 
-(13) **Loyalty contract.—** — The term “loyalty contract” means a contract with an ocean common carrier or agreement providing for—
+(14) **Loyalty contract.—** — The term “loyalty contract” means a contract with an ocean common carrier or agreement providing for—
 
   (A) a shipper to obtain lower rates by committing all or a fixed portion of its cargo to that carrier or agreement; and
 
   (B) a deferred rebate arrangement.
 
-(14) **Marine terminal operator.—** — The term “marine terminal operator” means a person engaged in the United States in the business of providing wharfage, dock, warehouse, or other terminal facilities in connection with a common carrier, or in connection with a common carrier and a water carrier subject to subchapter II of chapter 135 of title 49.
+(15) **Marine terminal operator.—** — The term “marine terminal operator” means a person engaged in the United States in the business of providing wharfage, dock, warehouse, or other terminal facilities in connection with a common carrier, or in connection with a common carrier and a water carrier subject to subchapter II of chapter 135 of title 49.
 
-(15) **Maritime labor agreement.—** — The term “maritime labor agreement”—
+(16) **Maritime labor agreement.—** — The term “maritime labor agreement”—
 
   (A) means—
 
@@ -133,31 +143,31 @@ In this part:
 
   (B) does not include an assessment agreement.
 
-(16) **Non-vessel-operating common carrier.—** — The term “non-vessel-operating common carrier” means a common carrier that—
+(17) **Non-vessel-operating common carrier.—** — The term “non-vessel-operating common carrier” means a common carrier that—
 
   (A) does not operate the vessels by which the ocean transportation is provided; and
 
   (B) is a shipper in its relationship with an ocean common carrier.
 
-(17) **Ocean common carrier.—** — The term “ocean common carrier” means a vessel-operating common carrier.
+(18) **Ocean common carrier.—** — The term “ocean common carrier” means a vessel-operating common carrier.
 
-(18) **Ocean freight forwarder.—** — The term “ocean freight forwarder” means a person that—
+(19) **Ocean freight forwarder.—** — The term “ocean freight forwarder” means a person that—
 
   (A) in the United States, dispatches shipments from the United States via a common carrier and books or otherwise arranges space for those shipments on behalf of shippers; and
 
   (B) processes the documentation or performs related activities incident to those shipments.
 
-(19) **Ocean transportation intermediary.—** — The term “ocean transportation intermediary” means an ocean freight forwarder or a non-vessel-operating common carrier.
+(20) **Ocean transportation intermediary.—** — The term “ocean transportation intermediary” means an ocean freight forwarder or a non-vessel-operating common carrier.
 
-(20) **Service contract.—** — The term “service contract” means a written contract, other than a bill of lading or receipt, between one or more shippers, on the one hand, and an individual ocean common carrier or an agreement between or among ocean common carriers, on the other, in which—
+(21) **Service contract.—** — The term “service contract” means a written contract, other than a bill of lading or receipt, between one or more shippers, on the one hand, and an individual ocean common carrier or an agreement between or among ocean common carriers, on the other, in which—
 
   (A) the shipper or shippers commit to providing a certain volume or portion of cargo over a fixed time period; and
 
   (B) the ocean common carrier or the agreement commits to a certain rate or rate schedule and a defined service level, such as assured space, transit time, port rotation, or similar service features.
 
-(21) **Shipment.—** — The term “shipment” means all of the cargo carried under the terms of a single bill of lading.
+(22) **Shipment.—** — The term “shipment” means all of the cargo carried under the terms of a single bill of lading.
 
-(22) **Shipper.—** — The term “shipper” means—
+(23) **Shipper.—** — The term “shipper” means—
 
   (A) a cargo owner;
 
@@ -169,11 +179,11 @@ In this part:
 
   (E) a non-vessel-operating common carrier that accepts responsibility for payment of all charges applicable under the tariff or service contract.
 
-(23) **Shippers’ association.—** — The term “shippers’ association” means a group of shippers that consolidates or distributes freight on a nonprofit basis for the members of the group to obtain carload, truckload, or other volume rates or service contracts.
+(24) **Shippers’ association.—** — The term “shippers’ association” means a group of shippers that consolidates or distributes freight on a nonprofit basis for the members of the group to obtain carload, truckload, or other volume rates or service contracts.
 
-(24) **Through rate.—** — The term “through rate” means the single amount charged by a common carrier in connection with through transportation.
+(25) **Through rate.—** — The term “through rate” means the single amount charged by a common carrier in connection with through transportation.
 
-(25) **Through transportation.—** — The term “through transportation” means continuous transportation between origin and destination for which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
+(26) **Through transportation.—** — The term “through transportation” means continuous transportation between origin and destination for which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
 
 ### Statutory Notes
 
@@ -221,7 +231,13 @@ Act of June 19, 1936, referred to in par. (2)(D), is act June 19, 1936, ch. 592,
 
 The Federal Trade Commission Act, referred to in par. (2)(E), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
-The Antitrust Civil Process Act, referred to in par. (2)(F), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified generally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) and Tables.
+The Antitrust Civil Process Act, referred to in par. (2)(F), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Pars. (5) to (26). Pub. L. 115–282 added par. (5) and redesignated former pars. (5) to (25) as (6) to (26), respectively.
+
+#### Agreements Unaffected
+Pub. L. 115–282, title VII, § 714, Dec. 4, 2018, 132 Stat. 4299, provided that: “Nothing in this Act [probably should be “this title”, enacting [section 41105A of this title](./chapter-411-prohibitions-and-penalties.md#section-41105a), amending sections 303, 306, 308, 40102, 40104, 40304, 40307, 40901, 40902, 41104, 41105, and 41307 of this title, and enacting provisions set out as notes under sections 305, 40304, 41104, and 41307 of this title] may be construed— “(1) to limit or amend the definition of ‘agreement’ in [section 40102(1) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section40102/1&num=0&edition=prelim), United States Code, with respect to the exclusion of maritime labor agreements; or “(2) to apply to a maritime labor agreement (as defined in section 40102(15) of that title).”
 
 
 <a id="section-40103"></a>
@@ -240,7 +256,21 @@ The Antitrust Civil Process Act, referred to in par. (2)(F), is Pub. L. 87–664
 
 <a id="section-40104"></a>
 ## § 40104. Reports filed with the Commission
-**(a) In General.—** The Federal Maritime Commission may require a common carrier or an officer, receiver, trustee, lessee, agent, or employee of the carrier to file with the Commission a periodical or special report, an account, record, rate, or charge, or a memorandum of facts and transactions related to the business of the carrier. The report, account, record, rate, charge, or memorandum shall be made under oath if the Commission requires, and shall be filed in the form and within the time prescribed by the Commission.
+**(a) Reports.—**
+
+(1) **In general.—** — The Federal Maritime Commission may require a common carrier or marine terminal operator, or an officer, receiver, trustee, lessee, agent, or employee of the common carrier or marine terminal operator to file with the Commission a periodical or special report, an account, record, rate, or charge, or a memorandum of facts and transactions related to the business of the common carrier or marine terminal operator, as applicable.
+
+(2) **Requirements.—** — Any report, account, record, rate, charge, or memorandum required to be filed under paragraph (1) shall—
+
+  (A) be made under oath if the Commission requires; and
+
+  (B) be filed in the form and within the time prescribed by the Commission.
+
+(3) **Limitation.—** — The Commission shall—
+
+  (A) limit the scope of any filing ordered under this section to fulfill the objective of the order; and
+
+  (B) provide a reasonable period of time for respondents to respond based upon their capabilities and the scope of the order.
 
 **(b) Conference Minutes.—** Conference minutes required to be filed with the Commission under this section may not be released to third parties or published by the Commission.
 
@@ -250,3 +280,6 @@ The Antitrust Civil Process Act, referred to in par. (2)(F), is Pub. L. 87–664
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 40104 | 46 App.:1714. | Pub. L. 98–237, § 15, Mar. 20, 1984, 98 Stat. 84; Pub. L. 98–595, § 3(b)(3), Oct. 30, 1984, 98 Stat. 3133; Pub. L. 105–258, title I, § 113, Oct. 14, 1998, 112 Stat. 1912. |
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–282 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Federal Maritime Commission may require a common carrier or an officer, receiver, trustee, lessee, agent, or employee of the carrier to file with the Commission a periodical or special report, an account, record, rate, or charge, or a memorandum of facts and transactions related to the business of the carrier. The report, account, record, rate, charge, or memorandum shall be made under oath if the Commission requires, and shall be filed in the form and within the time prescribed by the Commission.”

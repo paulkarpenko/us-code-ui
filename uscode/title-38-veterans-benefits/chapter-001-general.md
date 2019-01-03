@@ -176,12 +176,23 @@ For the purposes of this title—
 
 (33) The term “Persian Gulf War” means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
+(34) The term “agency of original jurisdiction” means the activity which entered the original determination with regard to a claim for benefits under laws administered by the Secretary.
+
+(35) The term “relevant evidence” means evidence that tends to prove or disprove a matter in issue.
+
+(36) The term “supplemental claim” means a claim for benefits under laws administered by the Secretary filed by a claimant who had previously filed a claim for the same or similar benefits on the same or similar basis.
+
 ### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 2(a) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
 
 #### References in Text
 For definition of Canal Zone, referred to in par. (20), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2017—Pars. (34) to (36). Pub. L. 115–55 added pars. (34) to (36).
+
 2008—Par. (4)(A). Pub. L. 110–389 substituted “subparagraph (B) or (C) of section 1965(10)” for “section 1965(10)(B)” in introductory provisions.
 
 2006—Par. (25)(D). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note below.
@@ -306,6 +317,11 @@ Par. (26). Pub. L. 87–815 substituted “ ‘Reserve’ means a member” for 
 
 1959—Par. (4). Pub. L. 86–195 provided that a person shall be deemed, as of the date of death of a veteran, to be the legally adopted child of the veteran if such person was at the time of the veteran’s death living in the veteran’s household and was legally adopted by the surviving spouse of the veteran within two years after the veteran’s death or Aug. 25, 1959, the date of enactment of Pub. L. 86–195, provided that such person was not receiving regular contributions toward his support from some individual other than the veteran or his spouse, or from any public or private welfare organization.
 
+#### Effective Date of 2017 Amendment
+Pub. L. 115–55, § 2(x), Aug. 23, 2017, 131 Stat. 1115, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting sections 5104A to 5104C and 7113 of this title, amending this section and sections 5103 to 5104, 5108, 5109, 5109B, 5110, 5111, 5701, 5904, 7103 to 7105A, 7107, and 7111 of this title, and repealing sections 7106 and 7109 of this title] shall apply to all claims for which notice of a decision under [section 5104 of title 38](./chapter-051-claims-effective-dates-and-payments.md#section-5104), United States Code, is provided by the Secretary of Veterans Affairs on or after the later of—“(A) the date that is 540 days after the date of the enactment of this Act [Aug. 23, 2017]; and “(B) the date that is 30 days after the date on which the Secretary of Veterans Affairs submits to the appropriate committees of Congress—“(i) a certification that the Secretary confirms, without delegation, that the Department of Veterans Affairs has the resources, personnel, office space, procedures, and information technology required—“(I) to carry out the new appeals system; “(II) to timely address appeals under the new appeals system; and “(III) to timely address appeals of decisions on legacy claims; and “(ii) a summary of the expectations for performance outcomes that the Secretary used in making the certification under clause (i)(III) and a comparison of such expected performance outcomes with actual performance outcomes with respect to appeals of legacy claims before the effective date of the new appeals system. “(2) Collaboration.—In determining whether and when to make a certification under paragraph (1)(B), the Secretary shall collaborate with, partner with, and give weight to the advice of veterans service organizations and such other stakeholders as the Secretary considers appropriate. “(3) Early applicability.—The Secretary may apply the new appeals system to a claim with respect to which the claimant—“(A) receives a notice of a decision under section 5104 of such title after the date of the enactment of this Act and before the applicability date set forth in paragraph (1); and “(B) elects to subject the claim to the new appeals system. “(4) Phased rollout.—The Secretary may begin implementation of the new appeals system in phases, with the first phase of such phased implementation beginning on the applicability date set forth in paragraph (1). “(5) Treatment of legacy claims.—With respect to legacy claims, upon the issuance to a claimant of a statement of the case or supplemental statement of the case occurring on or after the applicability date specified in paragraph (1), a claimant may elect to participate in the new appeals system. “(6) Publication of applicability date.—Not later than the date on which the new appeals system goes into effect (or the first phase of the new appeals system goes into effect under paragraph (4), as the case may be), the Secretary shall publish in the Federal Register such date. “(7) Definitions.—In this subsection:“(A) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(i) the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and “(ii) the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives. “(B) Veterans service organization.—The term ‘veterans service organization’ means any organization recognized by the Secretary for the representation of veterans under [section 5902 of title 38](./chapter-059-agents-and-attorneys.md#section-5902), United States Code.”
+
+[For definitions of “claimant”, “legacy claims”, and “new appeals system” as used in section 2(x) of Pub. L. 115–55, set out above, see section 6 of Pub. L. 115–55, set out in a note under [section 5101 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5101).]
+
 #### Effective Date of 2006 Amendment
 Pub. L. 109–461, title X, § 1004(b), Dec. 22, 2006, 120 Stat. 3466, provided that the amendment made by section 1004(b) is effective Nov. 25, 2002.
 
@@ -349,7 +365,38 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–407, § 1(a), Dec. 31, 2018, 132 Stat. 5368, provided that: “This Act [enacting [section 728 of this title](./chapter-007-employees.md#section-728), amending sections 2021, 2306, 2402, 3105, 3313, 3679, 3698, and 7463 of this title and sections 3955, 3956, 4001, and 4025 of Title 50, War and National Defense, enacting provisions set out as notes preceding sections 5301 and 5701 of this title and under sections 1701, 3679, 3680, and 8125 of this title and sections 4001 and 4025 of Title 50, and amending provisions set out as notes under sections 3001 and 5101 of this title] may be cited as the ‘Veterans Benefits and Transition Act of 2018’.”
+
+Pub. L. 115–258, § 1, Oct. 9, 2018, 132 Stat. 3662, provided that: This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2018’.”
+
+Pub. L. 115–251, § 1(a), Sept. 29, 2018, 132 Stat. 3166, provided that: “This Act [see Tables for classification] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2018’.”
+
+Pub. L. 115–188, § 1, June 21, 2018, 132 Stat. 1490, provided that: “This Act [enacting [section 727 of this title](./chapter-007-employees.md#section-727)] may be cited as the ‘Department of Veterans Affairs Senior Executive Accountability Act of 2018’ or the ‘SEA Act of 2018’.”
+
+Pub. L. 115–184, § 1, June 15, 2018, 132 Stat. 1483, provided that: “This Act [amending [section 2306 of this title](./chapter-023-burial-benefits.md#section-2306)] may be cited as the ‘Veterans Cemetery Benefit Correction Act’.”
+
+Pub. L. 115–182, § 1(a), June 6, 2018, 132 Stat. 1393, provided that: “This Act [see Tables for classification] may be cited as the ‘John S. McCain III, Daniel K. Akaka, and Samuel R. Johnson VA Maintaining Internal Systems and Strengthening Integrated Outside Networks Act of 2018’ or the ‘VA MISSION Act of 2018’.”
+
+Pub. L. 115–182, title I, § 100(a), June 6, 2018, 132 Stat. 1395, provided that: “This title [see Tables for classification] may be cited as the ‘Caring for Our Veterans Act of 2018’.”
+
+Pub. L. 115–159, § 1, Mar. 27, 2018, 132 Stat. 1244, provided that: “This Act [amending [section 1745 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1745) and enacting provisions set out as a note under [section 1745 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1745)] may be cited as the ‘State Veterans Home Adult Day Health Care Improvement Act of 2017’.”
+
+Pub. L. 115–131, § 1, Mar. 9, 2018, 132 Stat. 334, provided that: “This Act [enacting provisions set out as a note under [section 1501 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1501)] may be cited as the ‘Veterans Care Financial Protection Act of 2017’.”
+
 #### Short Title of 2017 Amendment
+Pub. L. 115–95, § 1, Dec. 20, 2017, 131 Stat. 2042, provided that: “This Act [enacting provisions set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701)] may be cited as the ‘Enhancing Veteran Care Act’.”
+
+Pub. L. 115–89, § 1, Nov. 21, 2017, 131 Stat. 1279, provided that: “This Act [amending sections 3672 and 3680 of this title] may be cited as the ‘Veterans Apprenticeship and Labor Opportunity Reform Act’ or the ‘VALOR Act’.”
+
+Pub. L. 115–86, § 1, Nov. 21, 2017, 131 Stat. 1276, provided that: “This Act [amending [section 5701 of this title](./chapter-057-records-and-investigations.md#section-5701)] may be cited as the ‘VA Prescription Data Accountability Act 2017’.”
+
+Pub. L. 115–75, § 1, Nov. 2, 2017, 131 Stat. 1244, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2017’.”
+
+Pub. L. 115–62, § 1(a), Sept. 29, 2017, 131 Stat. 1159, provided that: “This Act [amending sections 111A, 315, 322, 503, 521A, 544, 1710, 1710A, 1720G, 1729, 2021, 2021A, 2023, 2031, 2033, 2044, 2061, 2066, 2101, 2108, 3313, 3673, 3720, 3732, and 3733 of this title, enacting provisions set out as notes under sections 1710C, 3313, and 3684 of this title, and amending provisions set out as notes under sections 1116, 1710, 1710C, 1712A, 3313, 3684, and 3699 of this title and [section 1071 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1071&num=0&edition=prelim), Armed Forces] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2017’.”
+
+Pub. L. 115–55, § 1, Aug. 23, 2017, 131 Stat. 1105, provided that: “This Act [enacting sections 5104A to 5104C and 7113 of this title, amending this section and sections 5103 to 5104, 5108, 5109, 5109B, 5110, 5111, 5701, 5904, 7103 to 7105A, and 7111 of this title, repealing sections 7106 and 7109 of this title, and enacting provisions set out as notes under this section and sections 5101 and 5108 of this title] may be cited as the ‘Veterans Appeals Improvement and Modernization Act of 2017’.”
+
 Pub. L. 115–48, § 1(a), Aug. 16, 2017, 131 Stat. 973, provided that: “This Act [see Tables for classification] may be cited as the ‘Harry W. Colmery Veterans Educational Assistance Act of 2017’.”
 
 Pub. L. 115–46, § 1(a), Aug. 12, 2017, 131 Stat. 958, provided that: “This Act [enacting subchapter III of chapter 7 and [section 725 of this title](./chapter-007-employees.md#section-725), amending sections 3729, 5317, 5503, 7412, and 7451 of this title and [section 3304 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as notes under sections 701, 741, and 7401 of this title] may be cited as the ‘VA Choice and Quality Employment Act of 2017’.”
@@ -799,6 +846,11 @@ Pub. L. 89–358, § 1, Mar. 3, 1966, 80 Stat. 12, provided that: “This Act [s
 
 #### Short Title of 1959 Amendment
 Pub. L. 86–211, § 1, Aug. 29, 1959, 73 Stat. 432, provided: “That this Act [see Tables for classification] may be cited as the ‘Veterans’ Pension Act of 1959’.”
+
+#### Construction of 2017 Amendment
+Pub. L. 115–55, § 2(y), Aug. 23, 2017, 131 Stat. 1116, provided that: “Nothing in this section [enacting sections 5104A to 5104C and 7113 of this title, amending this section and sections 5103 to 5104, 5108, 5109, 5109B, 5110, 5111, 5701, 5904, 7103 to 7105A, and 7111 of this title, repealing sections 7106 and 7109 of this title, and enacting provisions set out as notes under this section and [section 5108 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5108)] or any of the amendments made by this section shall be construed to limit the ability of a claimant to request a revision of a decision under section 5109A or 7111 of title 38, United States Code.”
+
+[For definition of “claimant” as used in section 2(y) of Pub. L. 115–55, set out above, see section 6 of Pub. L. 115–55, set out in a note under [section 5101 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5101).]
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1606,13 +1658,17 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 
 (1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
-(2) The authority granted by paragraph (1) shall expire on December 31, 2017.
+(2) The authority granted by paragraph (1) shall expire on September 30, 2020.
 
 **(b) Transportation by Third-parties.—** The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–251 substituted “September 30, 2020” for “September 30, 2019”.
+
+2017—Subsec. (a)(2). Pub. L. 115–62 substituted “September 30, 2019” for “December 31, 2017”.
+
 2016—Subsec. (a)(2). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (a)(2). Pub. L. 114–58 substituted “December 31, 2016” for “December 31, 2015”.

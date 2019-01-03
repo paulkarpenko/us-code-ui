@@ -64,17 +64,20 @@ Section was formerly classified to [section 14663 of Title 42](https://uscode.ho
 
 (6) to establish and maintain a national clearinghouse for missing adults.
 
-**(b) Regulations** The Attorney General may make such rules and regulations as may be necessary to carry out this Act.
+**(b) Regulations** The Attorney General may make such rules and regulations as may be necessary to carry out this title.11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), is Pub. L. 106–468, Nov. 9, 2000, 114 Stat. 2027, known as Kristen’s Act, which enacted this section and provisions set out as notes under this section and [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101). For complete classification of this Act to the Code, see Tables.
+This title, referred to in subsec. (b), is title I of Pub. L. 106–468, Nov. 9, 2000, 114 Stat. 2027, which enacted this section and provisions set out as a note under this section. For complete classification of title I to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of Kristen’s Act, and not as part of Jennifer’s Law which comprises this chapter.
 
 Section was formerly classified to [section 14665 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14665&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–401 substituted “this title” for “this Act”.
+
 #### Authorization of Appropriations
-Pub. L. 106–468, § 3, Nov. 9, 2000, 114 Stat. 2028, provided that: “There are authorized to be appropriated to carry out this Act [enacting this section and provisions set out as a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] $1,000,000 each year for fiscal years 2001 through 2004.”
+Pub. L. 106–468, title I, § 102, formerly § 3, Nov. 9, 2000, 114 Stat. 2028, renumbered title I, § 102, and amended by Pub. L. 115–401, § 2(1), (2), (4), Dec. 31, 2018, 132 Stat. 5336, provided that: “There are authorized to be appropriated to carry out this title [enacting this section] $1,000,000 each year for fiscal years 2001 through 2004.”

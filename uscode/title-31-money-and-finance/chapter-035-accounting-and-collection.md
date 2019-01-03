@@ -1465,11 +1465,15 @@ Amendment by Pub. L. 108–375 not to be construed to authorize the use of a pro
 
     (ii) after the Comptroller General is notified of that finding.
 
-(4) The period referred to in paragraphs (2) and (3)(A), with respect to a contract, is the period beginning on the date of the contract award and ending on the later of—
+(4)
 
-  (A) the date that is 10 days after the date of the contract award; or
+  (A) The period referred to in paragraphs (2) and (3)(A), with respect to a contract, is the period beginning on the date of the contract award and ending on the later of—
 
-  (B) the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
+    (i) the date that is 10 days after the date of the contract award; or
+
+    (ii) the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
+
+  (B) For procurements conducted by any component of the Department of Defense, the 5-day period described in subparagraph (A)(ii) does not commence until the day the Government delivers to a disappointed offeror the written responses to any questions submitted pursuant to [section 2305(b)(5)(B)(vii) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2305/b/5/B/vii&num=0&edition=prelim).
 
 **(e)** The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 
@@ -1490,6 +1494,8 @@ Amendment by Pub. L. 108–375 not to be construed to authorize the use of a pro
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (d)(4). Pub. L. 115–91 redesignated existing provisions as subpar. (A) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and added subpar. (B).
+
 2004—Subsec. (g). Pub. L. 108–375 added subsec. (g).
 
 1996—Subsec. (b)(2)(A). Pub. L. 104–106, § 5501(1), substituted “30 days” for “35 days”.

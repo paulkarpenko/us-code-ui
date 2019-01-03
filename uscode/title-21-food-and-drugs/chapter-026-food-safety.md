@@ -40,11 +40,9 @@ Congress finds that—
 ## § 2102. Ensuring the safety of pet food
 **(a) Processing and ingredient standards** Not later than 2 years after September 27, 2007, the Secretary of Health and Human Services (referred to in this chapter as the “Secretary”), in consultation with the Association of American Feed Control Officials and other relevant stakeholder groups, including veterinary medical associations, animal health organizations, and pet food manufacturers, shall by regulation establish—
 
-(1) ingredient standards and definitions with respect to pet food;
+(1) processing standards for pet food; and
 
-(2) processing standards for pet food; and
-
-(3) updated standards for the labeling of pet food that include nutritional and ingredient information.
+(2) updated standards for the labeling of pet food that include nutritional and ingredient information.
 
 **(b) Early warning surveillance systems and notification during pet food recalls** Not later than 1 year after September 27, 2007, the Secretary shall establish an early warning and surveillance system to identify adulteration of the pet food supply and outbreaks of illness associated with pet food. In establishing such system, the Secretary shall—
 
@@ -60,6 +58,9 @@ Congress finds that—
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title X of Pub. L. 110–85, Sept. 27, 2007, 121 Stat. 962, which enacted this chapter and [section 350f of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-350f), amended sections 321 and 331 of this title, and enacted provisions set out as notes under sections 350f and 2110 of this title. For complete classification of title X to the Code, see Tables.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–234 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “ingredient standards and definitions with respect to pet food;”.
 
 
 <a id="section-2103"></a>

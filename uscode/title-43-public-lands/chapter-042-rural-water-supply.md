@@ -475,7 +475,7 @@ In this subchapter:
 
   (A) a non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulation 11 So in original. Probably should be “Regulations”. (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 ([15 U.S.C. 77a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) et seq.)); or
 
-  (B) a clean renewable energy bond lender (as defined in [section 54(j)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section54/j/2&num=0&edition=prelim) (as in effect on December 22, 2006)).
+  (B) a clean renewable energy bond lender (as defined in section 54(j)(2) 22 See References in Text note below. of title 26 (as in effect on December 22, 2006)).
 
 (3) **Loan guarantee** — The term “loan guarantee” has the meaning given the term “loan guarantee” in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim).
 
@@ -509,6 +509,8 @@ In this subchapter:
 
 #### References in Text
 The Securities Act of 1933, referred to in par. (2)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+
+[Section 54 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section54&num=0&edition=prelim), referred to in par. (2)(B), was repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 #### Short Title
 This subchapter known as the “Twenty-First Century Water Works Act”, see Short Title note set out under [section 2401 of this title](./chapter-042-rural-water-supply.md#section-2401).

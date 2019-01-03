@@ -20,7 +20,7 @@ For termination of section by section 1(b) of Pub. L. 102–551, see Termination
 A prior section 950aaa, Pub. L. 101–624, title XXIII, § 2331, Nov. 28, 1990, 104 Stat. 4017, provided purposes of chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Termination of Chapter
-Pub. L. 102–551, § 1(b), Oct. 28, 1992, 106 Stat. 4100, as amended by Pub. L. 107–171, title VI, § 6203(b), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, § 6201(c), May 22, 2008, 122 Stat. 1206, and Pub. L. 110–246, § 4(a), title VI, § 6201(c), June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6201(b), Feb. 7, 2014, 128 Stat. 856, provided that: “Notwithstanding any other provision of law, chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation and Trade Act of 1990 ([7 U.S.C. 950aaa](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa) et seq.), including the amendments made by this section [enacting [section 950aaa–5 of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-5) and amending [section 950aaa–4 of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-4)], shall be effective until September 30, 2018.”
+Pub. L. 102–551, § 1(b), Oct. 28, 1992, 106 Stat. 4100, as amended by Pub. L. 107–171, title VI, § 6203(b), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, § 6201(c), May 22, 2008, 122 Stat. 1206, and Pub. L. 110–246, § 4(a), title VI, § 6201(c), June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6201(b), Feb. 7, 2014, 128 Stat. 856; Pub. L. 115–334, title VI, § 6102(b), Dec. 20, 2018, 132 Stat. 4728, provided that: “Notwithstanding any other provision of law, chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation and Trade Act of 1990 ([7 U.S.C. 950aaa](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa) et seq.), including the amendments made by this section [enacting [section 950aaa–5 of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-5) and amending [section 950aaa–4 of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa-4)], shall be effective until September 30, 2023.”
 
 
 <a id="section-950aaa-1"></a>
@@ -34,6 +34,8 @@ In this chapter:
 
 (3) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
 
+(4) **Rural area** — The term “rural area” has the meaning given the term in [section 950bb(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section950bb/b/3&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Termination of Section
@@ -41,6 +43,9 @@ For termination of section by section 1(b) of Pub. L. 102–551, see Termination
 
 #### Prior Provisions
 A prior section 950aaa–1, Pub. L. 101–624, title XXIII, § 2332, Nov. 28, 1990, 104 Stat. 4017; Pub. L. 102–237, title VII, § 702(g), Dec. 13, 1991, 105 Stat. 1880, provided goal of Federal Government to make affordable advanced telecommunications available to rural residents, prior to the general amendment of this chapter by Pub. L. 104–127.
+
+#### Amendments
+2018—Par. (4). Pub. L. 115–334 added par. (4).
 
 
 <a id="section-950aaa-2"></a>
@@ -205,7 +210,7 @@ Pub. L. 101–624, title XXIII, § 2385, Nov. 28, 1990, 104 Stat. 4051, provided
 <a id="section-950aaa-5"></a>
 ## § 950aaa–5. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter $75,000,000 for each of fiscal years 2014 through 2018.
+There are authorized to be appropriated to carry out this chapter $82,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -219,6 +224,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 950aaa–5, Pub. L. 101–624, title XXIII, § 2335A, as added Pub. L. 102–551, § 1(a), Oct. 28, 1992, 106 Stat. 4098; amended Pub. L. 103–354, title II, § 235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to special health care and distance learning program for qualified service areas, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “$82,000,000 for each of fiscal years 2019 through 2023” for “$75,000,000 for each of fiscal years 2014 through 2018”.
+
 2014—Pub. L. 113–79 substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$100,000,000 for each of fiscal years 1996 through 2012”.
 
 2008—Pub. L. 110–246, § 6201(b), substituted “2012” for “2007”.

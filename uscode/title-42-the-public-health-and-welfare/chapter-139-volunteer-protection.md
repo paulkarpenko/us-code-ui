@@ -62,7 +62,7 @@ Pub. L. 105–19, § 1, June 18, 1997, 111 Stat. 218, provided that: “This Act
 
 <a id="section-14503"></a>
 ## § 14503. Limitation on liability for volunteers
-**(a) Liability protection for volunteers** Except as provided in subsections (b) and (d), no volunteer of a nonprofit organization or governmental entity shall be liable for harm caused by an act or omission of the volunteer on behalf of the organization or entity if—
+**(a) Liability protection for volunteers** Except as provided in subsections (b), (c), and (e), no volunteer of a nonprofit organization or governmental entity shall be liable for harm caused by an act or omission of the volunteer on behalf of the organization or entity if—
 
 (1) the volunteer was acting within the scope of the volunteer’s responsibilities in the nonprofit organization or governmental entity at the time of the act or omission;
 
@@ -76,11 +76,21 @@ Pub. L. 105–19, § 1, June 18, 1997, 111 Stat. 218, provided that: “This Act
 
   (B) maintain insurance.
 
-**(b) Concerning responsibility of volunteers to organizations and entities** Nothing in this section shall be construed to affect any civil action brought by any nonprofit organization or any governmental entity against any volunteer of such organization or entity.
+**(b) Liability protection for pilots that fly for public benefit** Except as provided in subsections (c) and (e), no volunteer of a volunteer pilot nonprofit organization that arranges flights for public benefit shall be liable for harm caused by an act or omission of the volunteer on behalf of the organization if, at the time of the act or omission, the volunteer—
 
-**(c) No effect on liability of organization or entity** Nothing in this section shall be construed to affect the liability of any nonprofit organization or governmental entity with respect to harm caused to any person.
+(1) was operating an aircraft in furtherance of the purpose of, and acting within the scope of the volunteer’s responsibilities on behalf of, the nonprofit organization to provide patient and medical transport (including medical transport for veterans), disaster relief, humanitarian assistance, or other similar charitable missions;
 
-**(d) Exceptions to volunteer liability protection** If the laws of a State limit volunteer liability subject to one or more of the following conditions, such conditions shall not be construed as inconsistent with this section:
+(2) was properly licensed and insured for the operation of the aircraft;
+
+(3) was in compliance with all requirements of the Federal Aviation Administration for recent flight experience; and
+
+(4) did not cause the harm through willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed by the volunteer.
+
+**(c) Concerning responsibility of volunteers to organizations and entities** Nothing in this section shall be construed to affect any civil action brought by any nonprofit organization or any governmental entity against any volunteer of such organization or entity.
+
+**(d) No effect on liability of organization or entity** Nothing in this section shall be construed to affect the liability of any nonprofit organization or governmental entity with respect to harm caused to any person.
+
+**(e) Exceptions to volunteer liability protection** If the laws of a State limit volunteer liability subject to one or more of the following conditions, such conditions shall not be construed as inconsistent with this section:
 
 (1) A State law that requires a nonprofit organization or governmental entity to adhere to risk management procedures, including mandatory training of volunteers.
 
@@ -90,13 +100,13 @@ Pub. L. 105–19, § 1, June 18, 1997, 111 Stat. 218, provided that: “This Act
 
 (4) A State law that makes a limitation of liability applicable only if the nonprofit organization or governmental entity provides a financially secure source of recovery for individuals who suffer harm as a result of actions taken by a volunteer on behalf of the organization or entity. A financially secure source of recovery may be an insurance policy within specified limits, comparable coverage from a risk pooling mechanism, equivalent assets, or alternative arrangements that satisfy the State that the organization or entity will be able to pay for losses up to a specified amount. Separate standards for different types of liability exposure may be specified.
 
-**(e) Limitation on punitive damages based on actions of volunteers**
+**(f) Limitation on punitive damages based on actions of volunteers**
 
 (1) **General rule** — Punitive damages may not be awarded against a volunteer in an action brought for harm based on the action of a volunteer acting within the scope of the volunteer’s responsibilities to a nonprofit organization or governmental entity unless the claimant establishes by clear and convincing evidence that the harm was proximately caused by an action of such volunteer which constitutes willful or criminal misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed.
 
 (2) **Construction** — Paragraph (1) does not create a cause of action for punitive damages and does not preempt or supersede any Federal or State law to the extent that such law would further limit the award of punitive damages.
 
-**(f) Exceptions to limitations on liability**
+**(g) Exceptions to limitations on liability**
 
 (1) **In general** — The limitations on the liability of a volunteer under this chapter shall not apply to any misconduct that—
 
@@ -110,12 +120,19 @@ Pub. L. 105–19, § 1, June 18, 1997, 111 Stat. 218, provided that: “This Act
 
   (E) where the defendant was under the influence (as determined pursuant to applicable State law) of intoxicating alcohol or any drug at the time of the misconduct.
 
-(2) **Rule of construction** — Nothing in this subsection shall be construed to effect subsection (a)(3) or (e).
+(2) **Rule of construction** — Nothing in this subsection shall be construed to effect subsection (a)(3) or (f).
 
 ### Statutory Notes
 
 #### References in Text
-The Hate Crime Statistics Act, referred to in subsec. (f)(1)(B), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which was set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification as [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim), Crime Control and Law Enforcement, and as provisions set out as a note under [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim).
+The Hate Crime Statistics Act, referred to in subsec. (g)(1)(B), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which was set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification as [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim), Crime Control and Law Enforcement, and as provisions set out as a note under [section 41305 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41305&num=0&edition=prelim).
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–254, § 584(2), in introductory provisions, substituted “subsections (b), (c), and (e)” for “subsections (b) and (d)”.
+
+Subsecs. (b) to (g). Pub. L. 115–254, § 584(1), (3), added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+
+Subsec. (g)(2). Pub. L. 115–254, § 584(4), substituted “(f)” for “(e)”.
 
 
 <a id="section-14504"></a>

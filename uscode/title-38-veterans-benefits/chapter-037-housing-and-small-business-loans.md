@@ -2,7 +2,7 @@
 title: 38
 chapter: '37'
 heading: HOUSING AND SMALL BUSINESS LOANS
-section_count: 48
+section_count: 49
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -798,6 +798,9 @@ The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27
 
 1993—Subsec. (b)(2). Pub. L. 103–78 struck out before semicolon at end “on the anniversary of the date on which the loan was closed”.
 
+#### Annual Report on Document Disclosure and Consumer Education
+Pub. L. 115–174, title III, § 309(d), May 24, 2018, 132 Stat. 1351, provided that: “Not less frequently than once each year, the Secretary of Veterans Affairs shall issue a publicly available report that— “(1) examines, with respect to loans provided to veterans under chapter 37 of title 38, United States Code—“(A) the refinancing of fixed-rate mortgage loans to adjustable rate mortgage loans; “(B) whether veterans are informed of the risks and disclosures associated with that refinancing; and “(C) whether advertising materials for that refinancing are clear and do not contain misleading statements or assertions; and “(2) includes findings based on any complaints received by veterans and on an ongoing assessment of the refinancing market by the Secretary.”
+
 #### Annual Reports on Adjustable Rate Mortgages Guaranteed Under This Section
 Section 3(b) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, § 201(b), Feb. 13, 1996, 110 Stat. 770.
 
@@ -902,6 +905,55 @@ Pub. L. 108–454, title IV, § 405(c), Dec. 10, 2004, 118 Stat. 3616, provided 
 
 #### Authority of Secretary of Defense
 Pub. L. 104–106, div. B, title XXVIII, § 2822(c), Feb. 10, 1996, 110 Stat. 557, directed the Secretary of Defense to reimburse the Secretary of Veterans Affairs for interest rate buy down costs paid to mortgagees under this section and authorized the Secretary of Defense to designate housing shortage areas with respect to housing loans guaranteed on or before Sept. 30, 1998.
+
+
+<a id="section-3709"></a>
+## § 3709. Refinancing of housing loans
+**(a) Fee Recoupment.—** Except as provided in subsection (d) and notwithstanding [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703) or any other provision of law, a loan to a veteran for a purpose specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) that is being refinanced may not be guaranteed or insured under this chapter unless—
+
+(1) the issuer of the refinanced loan provides the Secretary with a certification of the recoupment period for fees, closing costs, and any expenses (other than taxes, amounts held in escrow, and fees paid under this chapter) that would be incurred by the borrower in the refinancing of the loan;
+
+(2) all of the fees and incurred costs are scheduled to be recouped on or before the date that is 36 months after the date of loan issuance; and
+
+(3) the recoupment is calculated through lower regular monthly payments (other than taxes, amounts held in escrow, and fees paid under this chapter) as a result of the refinanced loan.
+
+**(b) Net Tangible Benefit Test.—** Except as provided in subsection (d) and notwithstanding [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703) or any other provision of law, a loan to a veteran for a purpose specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) that is refinanced may not be guaranteed or insured under this chapter unless—
+
+(1) the issuer of the refinanced loan provides the borrower with a net tangible benefit test;
+
+(2) in a case in which the original loan had a fixed rate mortgage interest rate and the refinanced loan will have a fixed rate mortgage interest rate, the refinanced loan has a mortgage interest rate that is not less than 50 basis points less than the previous loan;
+
+(3) in a case in which the original loan had a fixed rate mortgage interest rate and the refinanced loan will have an adjustable rate mortgage interest rate, the refinanced loan has a mortgage interest rate that is not less than 200 basis points less than the previous loan; and
+
+(4) the lower interest rate is not produced solely from discount points, unless—
+
+  (A) such points are paid at closing; and
+
+  (B) such points are not added to the principal loan amount, unless—
+
+    (i) for discount point amounts that are less than or equal to one discount point, the resulting loan balance after any fees and expenses allows the property with respect to which the loan was issued to maintain a loan to value ratio of 100 percent or less; and
+
+    (ii) for discount point amounts that are greater than one discount point, the resulting loan balance after any fees and expenses allows the property with respect to which the loan was issued to maintain a loan to value ratio of 90 percent or less.
+
+**(c) Loan Seasoning.—** Except as provided in subsection (d) and notwithstanding [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703) or any other provision of law, a loan to a veteran for a purpose specified in [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) that is refinanced may not be guaranteed or insured under this chapter until the date that is the later of—
+
+(1) the date that is 210 days after the date on which the first monthly payment is made on the loan; and
+
+(2) the date on which the sixth monthly payment is made on the loan.
+
+**(d) Cash-out Refinances.—**
+
+(1) Subsections (a) through (c) shall not apply in a case of a loan refinancing in which the amount of the principal for the new loan to be guaranteed or insured under this chapter is larger than the payoff amount of the refinanced loan.
+
+(2) Not later than 180 days after the date of the enactment of this section, the Secretary shall promulgate such rules as the Secretary considers appropriate with respect to refinancing described in paragraph (1) to ensure that such refinancing is in the financial interest of the borrower, including rules relating to recoupment, seasoning, and net tangible benefits.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 115–174, which was approved May 24, 2018.
+
+#### Regulations
+Pub. L. 115–174, title III, § 309(a)(2), May 24, 2018, 132 Stat. 1349, provided that: “(A) In general.—In prescribing any regulation to carry out [section 3709 of title 38](./chapter-037-housing-and-small-business-loans.md#section-3709), United States Code, as added by paragraph (1), the Secretary of Veterans Affairs may waive the requirements of sections 551 through 559 of title 5, United States Code, if—“(i) the Secretary determines that urgent or compelling circumstances make compliance with such requirements impracticable or contrary to the public interest; “(ii) the Secretary submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, and publishes in the Federal Register, notice of such waiver, including a description of the determination made under clause (i); and “(iii) a period of 10 days elapses following the notification under clause (ii). “(B) Public notice and comment.—If a regulation prescribed pursuant to a waiver made under subparagraph (A) is in effect for a period exceeding 1 year, the Secretary shall provide the public an opportunity for notice and comment regarding such regulation. “(C) Effective date.—This paragraph shall take effect on the date of the enactment of this Act [May 24, 2018]. “(D) Termination date.—The authorities under this paragraph shall terminate on the date that is 1 year after the date of the enactment of this Act.”
 
 
 <a id="section-3710"></a>
@@ -2028,11 +2080,7 @@ Section 1819 was renumbered [section 1812 of this title](./chapter-018-benefits-
 
 **(g)** The Secretary shall, at the request of the Secretary of Housing and Urban Development and without reimbursement, certify to such Secretary whether an applicant for assistance under any law administered by the Department of Housing and Urban Development is a veteran.
 
-**(h)**
-
-(1) The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
-
-(2) The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2017.
+**(h)** The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
 
 ### Statutory Notes
 
@@ -2040,6 +2088,10 @@ Section 1819 was renumbered [section 1812 of this title](./chapter-018-benefits-
 The Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (h). Pub. L. 115–251 struck out par. (1) designation before “The Secretary may, upon” and struck out par. (2) which read as follows: “The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after September 30, 2018.”
+
+2017—Subsec. (h)(2). Pub. L. 115–62 substituted “September 30, 2018” for “December 31, 2017”.
+
 2016—Subsec. (h)(2). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”.
 
 2012—Subsec. (h)(2). Pub. L. 112–154 substituted “December 31, 2016” for “December 31, 2011”.
@@ -2327,7 +2379,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 (1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
 
-(2) The loan fee table referred to in paragraph (1) is as follows: LOAN FEE TABLE Type of loanActive dutyveteranReservistOtherobligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004)2.002.75NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004)2.202.40NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before September 30, 2027)2.152.40NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after September 30, 2027)1.401.65NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before September 30, 2027)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after September 30, 2027)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before September 30, 2027)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after September 30, 2027)0.751.00NA (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before September 30, 2027)1.251.50NA (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after September 30, 2027)0.500.75NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25
+(2) The loan fee table referred to in paragraph (1) is as follows: LOAN FEE TABLE Type of loanActive dutyveteranReservistOtherobligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004)2.002.75NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004)2.202.40NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before September 30, 2028)2.152.40NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after September 30, 2028)1.401.65NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before September 30, 2028)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after September 30, 2028)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before September 30, 2028)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after September 30, 2028)0.751.00NA (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before September 30, 2028)1.251.50NA (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after September 30, 2028)0.500.75NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25
 
 (3) Any reference to a section in the “Type of loan” column in the loan fee table in paragraph (2) refers to a section of this title.
 
@@ -2368,6 +2420,8 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–182 substituted “2028” for “2027” wherever appearing in table.
+
 2017—Subsec. (b)(2). Pub. L. 115–46 substituted “September 30, 2027” for “September 30, 2024” wherever appearing in table.
 
 2014—Subsec. (b)(2). Pub. L. 113–146 substituted “September 30, 2024” for “October 1, 2017” wherever appearing in table.
@@ -2755,11 +2809,13 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
   (D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
-(11) This subsection shall apply to loans closed before October 1, 2017.
-
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c)(11). Pub. L. 115–251 struck out par. (11) which read as follows: “This subsection shall apply to loans closed before September 30, 2018.”
+
+2017—Subsec. (c)(11). Pub. L. 115–62 substituted “September 30, 2018” for “October 1, 2017”.
+
 2016—Subsec. (c)(11). Pub. L. 114–228 substituted “October 1, 2017” for “October 1, 2016”.
 
 2015—Subsec. (c)(11). Pub. L. 114–58 substituted “October 1, 2016” for “October 1, 2015”.
@@ -2908,13 +2964,13 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 
 (6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by [section 3722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3722/a&num=0&edition=prelim).
 
-(7) During the period that begins on December 16, 2003, and ends on September 30, 2017, the Secretary shall carry out the provisions of this subsection as if—
+(7) During the period that begins on December 16, 2003, and ends on September 30, 2019, the Secretary shall carry out the provisions of this subsection as if—
 
   (A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
 
   (B) the second sentence of paragraph (1) were repealed; and
 
-  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2017,”.
+  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2019,”.
 
 **(b)** The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under [section 3710(g)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/g/2/A&num=0&edition=prelim).
 
@@ -2933,6 +2989,10 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(7). Pub. L. 115–251 substituted “September 30, 2019” for “September 30, 2018” in introductory provisions and in subpar. (C).
+
+2017—Subsec. (a)(7). Pub. L. 115–62 substituted “September 30, 2018” for “September 30, 2017” in introductory provisions and in subpar. (C).
+
 2016—Subsec. (a)(7). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016” in introductory provisions and in subpar. (C).
 
 2015—Subsec. (a)(7). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015” in introductory provisions and in subpar. (C).

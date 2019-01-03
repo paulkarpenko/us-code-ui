@@ -117,6 +117,9 @@ Chapter 311 of this title, referred to in subsec. (c), which consisted of sectio
 
 1986—Subsec. (a). Pub. L. 99–646 substituted “probationers or parolees, as the case may be” for “parolees”.
 
+#### Effective Date
+Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
+
 
 <a id="section-3523"></a>
 ## § 3523. Civil judgments
@@ -144,6 +147,9 @@ Chapter 311 of this title, referred to in subsec. (c), which consisted of sectio
 
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(5), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date
+Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
 
 
 <a id="section-3524"></a>
@@ -193,6 +199,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(5), are set out
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (d)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date
+Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
+
 
 <a id="section-3525"></a>
 ## § 3525. Victims Compensation Fund
@@ -213,6 +222,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(3), are set out
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of enactment of Pub. L. 98–473, which was approved Oct. 12, 1984.
 
+#### Effective Date
+Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
+
 #### Restitution to Estate of Victims Killed Before October 12, 1984; Limitation
 Pub. L. 99–180, title II, § 200, Dec. 13, 1985, 99 Stat. 1142, provided: “That restitution of not to exceed $25,000 shall be paid to the estate of victims killed before October 12, 1984 as a result of crimes committed by persons who have been enrolled in the Federal witness protection program, if such crimes were committed within two years after protection was terminated, notwithstanding any limitations contained in part (a) of [section 3525 of title 18](./chapter-224-protection-of-witnesses.md#section-3525) of the United States Code.”
 
@@ -232,14 +244,29 @@ Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 303.
 
 (2) the Attorney General shall enter into an agreement with that State government in which that government agrees to cooperate with the Attorney General in carrying out the provisions of this chapter with respect to all persons.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
+
 
 <a id="section-3527"></a>
 ## § 3527. Additional authority of Attorney General
 
 The Attorney General may enter into such contracts or other agreements as may be necessary to carry out this chapter. Any such contract or agreement which would result in the United States being obligated to make outlays may be entered into only to the extent and in such amount as may be provided in advance in an appropriation Act.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
+
 
 <a id="section-3528"></a>
 ## § 3528. Definition
 
 For purposes of this chapter, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1984, see section 1210 of Pub. L. 98–473, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).

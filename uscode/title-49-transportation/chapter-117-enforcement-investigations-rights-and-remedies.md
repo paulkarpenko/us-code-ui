@@ -59,7 +59,7 @@ A prior section 11701, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1449; Pub. L. 9
 Subsecs. (d), (e). Pub. L. 114–110, § 12(b), added subsecs. (d) and (e).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Rulemakings for Investigations of the Board’s Initiative
 Pub. L. 114–110, § 12(c), Dec. 18, 2015, 129 Stat. 2235, provided that: “Not later than 1 year after the date of the enactment of this Act [Dec. 18, 2015], the Board shall issue rules, after notice and comment rulemaking, for investigations commenced on its own initiative that— “(1) comply with the requirements of [section 11701(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11701/d&num=0&edition=prelim), United States Code, as added by subsection (b); “(2) satisfy due process requirements; and “(3) take into account ex parte constraints.”
@@ -81,6 +81,9 @@ The Board may bring a civil action—
 #### Prior Provisions
 A prior section 11702, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1450; Pub. L. 96–296, §§ 15(c), 16(c), July 1, 1980, 94 Stat. 809, 810; Pub. L. 97–261, § 25(e), Sept. 20, 1982, 96 Stat. 1125; Pub. L. 98–554, title II, § 226(c)(5), Oct. 30, 1984, 98 Stat. 2851; Pub. L. 100–690, title IX, § 9111(j), Nov. 18, 1988, 102 Stat. 4534, related to authority of Interstate Commerce Commission to bring a civil action to enforce various provisions of this subtitle, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11702, 14702, and 15902 of this title.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11703"></a>
 ## § 11703. Enforcement by the Attorney General
@@ -92,6 +95,9 @@ A prior section 11702, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1450; Pub. L. 9
 
 #### Prior Provisions
 A prior section 11703, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1450, related to authority of Attorney General and United States Government to bring civil actions to enforce this subtitle, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11703, 14703, and 15903 of this title.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11704"></a>
@@ -128,6 +134,9 @@ Provisions similar to those in this section were contained in [section 11705 of 
 
 A prior section 11704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1451, related to actions by private persons to enjoin abandonment of service, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11705"></a>
 ## § 11705. Limitation on actions by and against rail carriers
@@ -157,6 +166,9 @@ A prior section 11704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1451, related t
 Provisions similar to those in this section were contained in [section 11706 of this title](./chapter-117-enforcement-investigations-rights-and-remedies.md#section-11706) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 A prior section 11705, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1451; Pub. L. 99–521, § 12(b), Oct. 22, 1986, 100 Stat. 2998, related to rights and remedies of persons injured by certain carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11704, 14704, and 15904 of this title.
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11706"></a>
@@ -213,6 +225,9 @@ Provisions similar to those in this section were contained in [section 11707 of 
 
 A prior section 11706, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1452; Pub. L. 97–258, § 3(n), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–521, § 12(c), Oct. 22, 1986, 100 Stat. 2998; Pub. L. 103–180, § 3, Dec. 3, 1993, 107 Stat. 2049; Pub. L. 103–429, § 6(18), Oct. 31, 1994, 108 Stat. 4379, related to limitation on actions by and against common carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11705, 14705, and 15905 of this title.
 
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
 
 <a id="section-11707"></a>
 ## § 11707. Liability when property is delivered in violation of routing instructions
@@ -244,6 +259,9 @@ Section 11710, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1455, related to liabil
 Section 11711, added Pub. L. 96–454, § 7(a)(1), Oct. 15, 1980, 94 Stat. 2016; amended Pub. L. 97–261, § 6(d)(2), Sept. 20, 1982, 96 Stat. 1107, related to dispute settlement program for household goods carriers. See [section 14708 of this title](./chapter-147-enforcement-investigations-rights-remedies.md#section-14708).
 
 Section 11712, added Pub. L. 103–180, § 4(a), Dec. 3, 1993, 107 Stat. 2049, related to tariff reconciliation rules for motor common carriers of property. See [section 14709 of this title](./chapter-147-enforcement-investigations-rights-remedies.md#section-14709).
+
+#### Effective Date
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11708"></a>

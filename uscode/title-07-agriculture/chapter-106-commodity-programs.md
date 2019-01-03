@@ -1501,7 +1501,7 @@ This subchapter, referred to in subsec. (g), was in the original “this subtitl
 
     (ii) 3 producers from the Southwest (Texas, Oklahoma, and New Mexico) peanut producing region; and
 
-    (iii) 3 producers from the Virginia/Carolina (Virginia and North Carolina) peanut producing region.
+    (iii) 3 producers from the Virginia/Carolina (Virginia, North Carolina, and South Carolina) peanut producing region.
 
   (C) *Appointment process for industry representatives* — The Secretary shall appoint 3 peanut industry representatives from each of the 3 peanut producing regions in the United States.
 
@@ -1551,6 +1551,9 @@ This subchapter, referred to in subsec. (g), was in the original “this subtitl
 The Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (b), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2018—Subsec. (c)(2)(B)(iii). Pub. L. 115–334 substituted “Virginia, North Carolina, and South Carolina” for “Virginia and North Carolina”.
 
 
 <a id="section-7960"></a>

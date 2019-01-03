@@ -2,7 +2,7 @@
 title: 10
 chapter: '135'
 heading: SPACE PROGRAMS
-section_count: 12
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -25,6 +25,15 @@ source: >-
 #### Prior Provisions
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Space Warfighting Policy, Review of Space Capabilities, and Plan on Space Warfighting Readiness
+Pub. L. 115–232, div. A, title XVI, § 1607, Aug. 13, 2018, 132 Stat. 2108, provided that: “(a) Space Warfighting Policy.—Not later than March 29, 2019, the Secretary of Defense shall develop a space warfighting policy. “(b) Review of Space Capabilities.—“(1) In general.—The Secretary shall conduct a review relating to the national security space enterprise that evaluates the following:“(A) The resiliency of the national security space enterprise with respect to a conflict. “(B) The ability of the national security space enterprise to attribute an attack on a space system in a timely manner. “(C) The ability of the United States—“(i) to resolve a conflict in space; and “(ii) to determine the material means by which such conflict may be resolved. “(D) Specific options for the national security space enterprise to provide the ability—“(i) to defend against aggressive behavior in space at all levels of conflict; “(ii) to defeat any adversary that demonstrates aggressive behavior in space at all levels of conflict; “(iii) to deter aggressive behavior in space at all levels of conflict; and “(iv) to develop a declassification strategy, if required to demonstrate deterrence. “(E) The effectiveness and efficiency of the national security space enterprise to rapidly research, develop, acquire, and deploy space capabilities and capacities—“(i) to deter and defend the national security space assets of the United States; and “(ii) to respond to any new threat to such space assets. “(F) The roles, responsibilities, and authorities of the Department of Defense with respect to space control activities. “(G) Any emerging space threat the Secretary expects the United States to confront during the 10-year period beginning on the date of the enactment of this Act [Aug. 13, 2018]. “(H) Such other matters as the Secretary considers appropriate. “(2) Report.—“(A) In general.—Not later than March 29, 2019, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the findings of the review under paragraph (1). “(B) Form.—The report under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex. “(c) Plan on Space Warfighting Readiness.—“(1) In general.—Not later than March 29, 2019, the Secretary of Defense shall develop, and commence the implementation of, a plan that—“(A) identifies joint mission-essential tasks for space as a warfighting domain; “(B) identifies any additional authorities, or delegated authorities, that would need to accompany the employment of forces to meet such mission-essential tasks; “(C) meets the readiness requirements for space warfighting, including with respect to equipment, training, and personnel, to meet such mission-essential tasks; and “(D) considers the contributions by allies and partners of the United States with respect to defense space capabilities to increase burden sharing across space systems, as appropriate. “(2) Briefing.—Not later than March 29, 2019, the Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate, and to any other congressional defense committee upon request, a briefing describing the authorities identified under paragraph (1)(B) that the Secretary determines require legislative action.”
+
+#### Designation of Component of Department of Defense Responsible for Coordination of Hosted Payload Information
+Pub. L. 115–232, div. A, title XVI, § 1611, Aug. 13, 2018, 132 Stat. 2112, provided that: “Not later than 30 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, in coordination with the Secretary of the Air Force, and other Secretaries of the military departments and the heads of Defense Agencies the Secretary determines appropriate, shall designate a component of the Department of Defense or a military department to be responsible for coordinating information, processes, and lessons learned relating to using commercially hosted payloads across the military departments, Defense Agencies, and other appropriate elements of the Department of Defense. The functions of such designated component shall include, at a minimum, the following: “(1) Systematically collecting information from past and planned hosted payload arrangements to inform future acquisition planning and space system architecture design, including integration test data, lessons learned, and design solutions. “(2) Creating a centralized database for cost, technical data, and lessons learned on commercially hosted payloads and sharing such information with other elements of the Department.”
+
+#### Air Force Space Contractor Responsibility Watch List
+Pub. L. 115–91, div. A, title XVI, § 1612, Dec. 12, 2017, 131 Stat. 1729, provided that: “(a) In General.—The Commander of the Air Force Space and Missile Systems Center shall establish and maintain a watch list of contractors with a history of poor performance on space procurement contracts or research, development, test, and evaluation space program contracts. “(b) Basis for Inclusion on List.—“(1) Determination.—The Commander may place a contractor on the watch list established under subsection (a) upon determining that the ability of the contractor to perform a contract specified in such subsection is uncertain because of any of the following issues:“(A) Poor performance or award fee scores below 50 percent. “(B) Financial concerns. “(C) Felony convictions or civil judgements. “(D) Security or foreign ownership and control issues. “(2) Discretion of the commander.—The Commander shall be responsible for determining which contractors to place on the watch list, whether an entire company or a specific division should be included, and when to remove a contractor from the list. “(c) Effect of Listing.—“(1) Prime contracts.—The Commander may not solicit an offer from, award a contract to, execute an engineering change proposal with, or exercise an option on any space program of the Air Force with a contractor included on the list established under subsection (a) without the prior approval of the Commander. “(2) Subcontracts.—A prime contractor on a contract entered into with the Air Force Space and Missile Systems Center may not enter into a subcontract valued in excess of $3,000,000 or five percent of the prime contract value, whichever is lesser, with a contractor included on the watch list established under subsection (a) without the prior approval of the Commander. “(d) Request for Removal From List.—A contractor may submit to the Commander a written request for removal from the watch list, including evidence that the contractor has resolved the issue that was the basis for inclusion on the list. “(e) Rule of Construction.—Nothing in this section shall be construed as preventing the suspension or debarment of a contractor, but inclusion on the watch list shall not be construed as a punitive measure or de facto suspension or debarment of a contractor.”
+
 #### Briefings on the Joint Interagency Combined Space Operations Center
 Pub. L. 115–31, div. N, title VI, § 605(e)(2), May 5, 2017, 131 Stat. 832, provided that: “The Director of the National Reconnaissance Office and the Commander of the United States Strategic Command, in coordination with the Director of National Intelligence and Under Secretary of Defense for Intelligence, shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the Joint Interagency Combined Space Operations Center to begin 30 days after the date of the enactment of this Act [May 5, 2017]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter.”
 
@@ -37,18 +46,16 @@ Pub. L. 114–328, div. A, title XVI, § 1607, Dec. 23, 2016, 130 Stat. 2586, pr
 Pub. L. 114–92, div. A, title XVI, § 1610, Nov. 25, 2015, 129 Stat. 1102, provided that: “(a) Plan.—“(1) Consolidation.—Not later than one year after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for the consolidation, during the one-year period beginning on the date on which the plan is submitted, of the acquisition of wideband satellite communications necessary to meet the requirements of the Department of Defense for such communications, including with respect to military and commercial satellite communications. “(2) Elements.—The plan under paragraph (1) shall include—“(A) an assessment of the management and overhead costs relating to the acquisition of commercial satellite communications services across the Department of Defense; “(B) an estimate of—“(i) the costs of implementing the consolidation of the acquisition of such services described in paragraph (1); and “(ii) the projected savings of the consolidation; “(C) the identification and designation of a single acquisition agent pursuant to paragraph (3)(A); and “(D) the roles and responsibilities of officials of the Department, including pursuant to paragraph (3). “(3) Single acquisition agent.—“(A) Except as provided by subparagraph (B), under the plan under paragraph (1), the Secretary of Defense shall identify and designate a single senior official of the Department of Defense to procure wideband satellite communications necessary to meet the requirements of the Department of Defense for such communications, including with respect to military and commercial satellite communications. “(B) Notwithstanding subparagraph (A), under the plan under paragraph (1), an official described in subparagraph (C) may carry out the procurement of commercial wideband satellite communications if the official determines that such procurement is required to meet an urgent need. “(C) An official described in this subparagraph is any of the following:“(i) A Secretary of a military department. “(ii) The Under Secretary of Defense for Acquisition, Technology, and Logistics. “(iii) The Chief Information Office[r] of the Department of Defense. “(iv) A commander of a combatant command. “(4) Validation.—The Director of Cost Assessment and Program Evaluation shall validate the assessment required by subparagraph (A) of paragraph (2) and the estimates required by subparagraph (B) of such paragraph. “(b) Implementation.—“(1) In general.—Except as provided by paragraph (2), the Secretary of Defense shall complete the implementation of the plan under subsection (a) by not later than one year after the date on which the Secretary submits the plan under such paragraph. “(2) Waiver.—The Secretary may waive the implementation of the plan under subsection (a) if the Secretary—“(A) determines that—“(i) such implementation will require significant additional funding; or “(ii) such waiver is in the interests of national security; and “(B) submits to the congressional defense committees notice of such waiver and the justifications for such waiver.”
 
 #### Satellite Communications Responsibilities of Executive Agent for Space
-Pub. L. 113–291, div. A, title XVI, § 1603, Dec. 19, 2014, 128 Stat. 3622, provided that: “The Secretary of Defense shall, not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], revise Department of Defense directives and guidance to require the Department of Defense Executive Agent for Space to ensure that in developing space strategies, architectures, and programs for satellite communications, the Executive Agent shall— “(1) conduct strategic planning to ensure the Department of Defense is effectively and efficiently meeting the satellite communications requirements of the military departments and commanders of the combatant commands; “(2) coordinate with the secretaries of the military departments, the commanders of the combatant commands, and the heads of Defense Agencies to eliminate duplication of effort and to ensure that resources are used to achieve the maximum effort in related satellite communication science and technology; research, development, test and evaluation; production; and operations and sustainment; “(3) coordinate with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Chief Information Officer of the Department to ensure that effective and efficient acquisition approaches are being used to acquire military and commercial satellite communications for the Department, including space, ground, and user terminal integration; and “(4) coordinate with the chairman of the Joint Requirements Oversight Council to develop a process to identify the current and projected satellite communications requirements of the Department.”
+Pub. L. 113–291, div. A, title XVI, § 1603, Dec. 19, 2014, 128 Stat. 3622, directed the revision of Department of Defense guidance relating to acquisition of satellite communications no later than 180 days after Dec. 19, 2014.
 
-#### Prohibition on Contracting With Russian Suppliers of Rocket Engines for the Evolved Expendable Launch Vehicle Program
-Pub. L. 113–291, div. A, title XVI, § 1608, Dec. 19, 2014, 128 Stat. 3626, as amended by Pub. L. 114–92, div. A, title XVI, § 1607, Nov. 25, 2015, 129 Stat. 1100; Pub. L. 114–328, div. A, title XVI, § 1602, Dec. 23, 2016, 130 Stat. 2582, provided that: “(a) In General.—Except as provided by subsections (b) and (c), beginning on the date of the enactment of this Act [Dec. 19, 2014], the Secretary of Defense may not award or renew a contract for the procurement of property or services for space launch activities under the evolved expendable launch vehicle program if such contract carries out such space launch activities using rocket engines designed or manufactured in the Russian Federation. “(b) Waiver.—The Secretary may waive the prohibition under subsection (a) with respect to a contract for the procurement of property or services for space launch activities if the Secretary determines, and certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 30 days before the waiver takes effect, that—“(1) the waiver is necessary for the national security interests of the United States; and “(2) the space launch services and capabilities covered by the contract could not be obtained at a fair and reasonable price without the use of rocket engines designed or manufactured in the Russian Federation. “(c) Exception.—The prohibition in subsection (a) shall not apply to any of the following:“(1) The placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013. “(2) Contracts that are awarded during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017 [Dec. 23, 2016] and ending December 31, 2022, for the procurement of property or services for space launch activities that include the use of a total of 18 rocket engines designed or manufactured in the Russian Federation, in addition to the Russian-designed or Russian-manufactured engines to which paragraph (1) applies.”
+#### Prohibition on Contracting With Russian Suppliers of Rocket Engines for the National Security Space Launch Program
+Pub. L. 113–291, div. A, title XVI, § 1608, Dec. 19, 2014, 128 Stat. 3626, as amended by Pub. L. 114–92, div. A, title XVI, § 1607, Nov. 25, 2015, 129 Stat. 1100; Pub. L. 114–328, div. A, title XVI, § 1602, Dec. 23, 2016, 130 Stat. 2582, provided that: “(a) In General.—Except as provided by subsections (b) and (c), beginning on the date of the enactment of this Act [Dec. 19, 2014], the Secretary of Defense may not award or renew a contract for the procurement of property or services for space launch activities under the evolved expendable launch vehicle program [now the National Security Space Launch program] if such contract carries out such space launch activities using rocket engines designed or manufactured in the Russian Federation. “(b) Waiver.—The Secretary may waive the prohibition under subsection (a) with respect to a contract for the procurement of property or services for space launch activities if the Secretary determines, and certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 30 days before the waiver takes effect, that—“(1) the waiver is necessary for the national security interests of the United States; and “(2) the space launch services and capabilities covered by the contract could not be obtained at a fair and reasonable price without the use of rocket engines designed or manufactured in the Russian Federation. “(c) Exception.—The prohibition in subsection (a) shall not apply to any of the following:“(1) The placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013. “(2) Contracts that are awarded during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017 [Dec. 23, 2016] and ending December 31, 2022, for the procurement of property or services for space launch activities that include the use of a total of 18 rocket engines designed or manufactured in the Russian Federation, in addition to the Russian-designed or Russian-manufactured engines to which paragraph (1) applies.”
 
 #### Integrated Space Architectures
 Pub. L. 111–383, div. A, title IX, § 911, Jan. 7, 2011, 124 Stat. 4328, as amended by Pub. L. 113–291, div. A, title X, § 1071(d)(1)(A), Dec. 19, 2014, 128 Stat. 3509, provided that: “The Secretary of Defense and the Director of National Intelligence shall develop an integrated process for national security space architecture planning, development, coordination, and analysis that— “(1) encompasses defense and intelligence space plans, programs, budgets, and organizations; “(2) provides mid-term to long-term recommendations to guide space-related defense and intelligence acquisitions, requirements, and investment decisions; “(3) is independent of, but coordinated with, the space architecture planning, development, coordination, and analysis activities of each military department and each element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))); and “(4) makes use of, to the maximum extent practicable, joint duty assignment (as defined in [section 668 of title 10](./chapter-038-joint-officer-management.md#section-668), United States Code) positions.”
 
 #### Space Protection Strategy
-Pub. L. 110–181, div. A, title IX, § 911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66, div. A, title IX, § 912(c), Dec. 26, 2013, 127 Stat. 824; Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B), title XVI, § 1606(e), Dec. 19, 2014, 128 Stat. 3509, 3625, provided that: “(a) Sense of Congress.—It is the Sense of Congress that the United States should place greater priority on the protection of national security space systems. “(b) Strategy.—The Secretary of Defense, in conjunction with the Director of National Intelligence, shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States. “(c) Matters Included.—The strategy required by subsection (b) shall include each of the following:“(1) An identification of the threats to, and the vulnerabilities of, the national security space systems of the United States. “(2) A description of the capabilities currently contained in the program of record of the Department of Defense and the intelligence community that ensure freedom of action in space. “(3) For each period covered by the strategy, a description of the capabilities that are needed for the period, including—“(A) the hardware, software, and other materials or services to be developed or procured; “(B) the management and organizational changes to be achieved; and “(C) concepts of operations, tactics, techniques, and procedures to be employed. “(4) For each period covered by the strategy, an assessment of the gaps and shortfalls between the capabilities that are needed for the period and the capabilities currently contained in the program of record. “(5) For each period covered by the strategy, a comprehensive plan for investment in capabilities that identifies specific program and technology investments to be made in that period. “(6) A description of the current processes by which the systems protection requirements of the Department of Defense and the intelligence community are addressed in space acquisition programs and during key milestone decisions, an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes. “(7) A description of the current processes by which the Department of Defense and the intelligence community program and budget for capabilities (including capabilities that are incorporated into single programs and capabilities that span multiple programs), an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes. “(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in that structure. “(d) Periods Covered.—The strategy required by subsection (b) shall cover the following periods:“(1) Fiscal years 2008 through 2013. “(2) Fiscal years 2014 through 2019. “(3) Fiscal years 2020 through 2025. “(4) Fiscal years 2026 through 2030. “(e) Definitions.—In this section—“(1) the term ‘capabilities’ means space, airborne, and ground systems and capabilities for space situational awareness and for space systems protection; and “(2) the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)). “(f) Report; Biennial Update.—“(1) Report.—Not later than six months after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress a report on the strategy required by subsection (b), including—“(A) each of the matters required by subsection (c); and “(B) a description of how the Department of Defense and the intelligence community plan to provide necessary national security capabilities, through alternative space, airborne, or ground systems, if a foreign actor degrades, denies access to, or destroys United States national security space capabilities. “(2) Biennial update.—Not later than March 15 of each even-numbered year after 2008, the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress an update to the report required by paragraph (1). “(3) Classification.—The report required by paragraph (1), and each update required by paragraph (2), shall be in unclassified form, but may include a classified annex.”
-
-[For termination, effective Dec. 31, 2021, of reporting provisions in section 911(f)(2) of Pub. L. 110–181, set out above, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).]
+Pub. L. 110–181, div. A, title IX, § 911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66, div. A, title IX, § 912(c), Dec. 26, 2013, 127 Stat. 824; Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B), title XVI, § 1606(e), Dec. 19, 2014, 128 Stat. 3509, 3625; Pub. L. 115–232, div. A, title VIII, § 813(b)(1), Aug. 13, 2018, 132 Stat. 1851, provided that: “(a) Sense of Congress.—It is the Sense of Congress that the United States should place greater priority on the protection of national security space systems. “(b) Strategy.—The Secretary of Defense, in conjunction with the Director of National Intelligence, shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States. “(c) Matters Included.—The strategy required by subsection (b) shall include each of the following:“(1) An identification of the threats to, and the vulnerabilities of, the national security space systems of the United States. “(2) A description of the capabilities currently contained in the program of record of the Department of Defense and the intelligence community that ensure freedom of action in space. “(3) For each period covered by the strategy, a description of the capabilities that are needed for the period, including—“(A) the hardware, software, and other materials or services to be developed or procured; “(B) the management and organizational changes to be achieved; and “(C) concepts of operations, tactics, techniques, and procedures to be employed. “(4) For each period covered by the strategy, an assessment of the gaps and shortfalls between the capabilities that are needed for the period and the capabilities currently contained in the program of record. “(5) For each period covered by the strategy, a comprehensive plan for investment in capabilities that identifies specific program and technology investments to be made in that period. “(6) A description of the current processes by which the systems protection requirements of the Department of Defense and the intelligence community are addressed in space acquisition programs and during key milestone decisions, an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes. “(7) A description of the current processes by which the Department of Defense and the intelligence community program and budget for capabilities (including capabilities that are incorporated into single programs and capabilities that span multiple programs), an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes. “(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in that structure. “(d) Periods Covered.—The strategy required by subsection (b) shall cover the following periods:“(1) Fiscal years 2008 through 2013. “(2) Fiscal years 2014 through 2019. “(3) Fiscal years 2020 through 2025. “(4) Fiscal years 2026 through 2030. “(e) Definitions.—In this section—“(1) the term ‘capabilities’ means space, airborne, and ground systems and capabilities for space situational awareness and for space systems protection; and “(2) the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)). “(f) Report.—“(1) Report.—Not later than six months after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress a report on the strategy required by subsection (b), including—“(A) each of the matters required by subsection (c); and “(B) a description of how the Department of Defense and the intelligence community plan to provide necessary national security capabilities, through alternative space, airborne, or ground systems, if a foreign actor degrades, denies access to, or destroys United States national security space capabilities. “(2) Classification.—The report required by paragraph (1) shall be in unclassified form, but may include a classified annex.”
 
 #### Maintenance of Capability for Space-Based Nuclear Detection
 Pub. L. 110–181, div. A, title X, § 1065, Jan. 28, 2008, 122 Stat. 324, provided that: “The Secretary of Defense shall maintain the capability for space-based nuclear detection at a level that meets or exceeds the level of capability as of the date of the enactment of this Act [Jan. 28, 2008].”
@@ -57,7 +64,7 @@ Pub. L. 110–181, div. A, title X, § 1065, Jan. 28, 2008, 122 Stat. 324, provi
 Pub. L. 109–163, div. A, title IX, § 911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to develop a “Space Situational Awareness Strategy” for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, § 911(g), Jan. 28, 2008, 122 Stat. 280.
 
 #### Space Personnel Career Fields
-Pub. L. 108–136, div. A, title V, § 547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “(a) Strategy Required.—The Secretary of Defense shall develop a strategy for the Department of Defense that will—“(1) promote the development of space personnel career fields within each of the military departments; and “(2) ensure that the space personnel career fields developed by the military departments are integrated with each other to the maximum extent practicable. “(b) Report.—Not later than February 1, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the strategy developed under subsection (a). The report shall include the following:“(1) A statement of the strategy developed under subsection (a), together with an explanation of that strategy. “(2) An assessment of the measures required for the Department of Defense and the military departments to integrate the space personnel career fields of the military departments. “(3) A comprehensive assessment of the adequacy of the actions of the Secretary of Air Force pursuant to [section 8084 of title 10](./chapter-807-the-air-force.md#section-8084), United States Code, to establish for Air Force officers a career field for space. “(c) Government Accountability Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields. “(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:“(A) Not later than June 15, 2004, the Comptroller General shall submit a report that assesses how effective that Department of Defense strategy and the efforts by the military departments, when implemented, are likely to be for developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and operation of space systems. “(B) Not later than March 15, 2005, the Comptroller General shall submit a report that assesses, as of the date of the report—“(i) the effectiveness of that Department of Defense strategy and the efforts by the military departments in developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and in operation of space systems; and “(ii) progress made in integrating the space career fields of the military departments.”
+Pub. L. 108–136, div. A, title V, § 547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “(a) Strategy Required.—The Secretary of Defense shall develop a strategy for the Department of Defense that will—“(1) promote the development of space personnel career fields within each of the military departments; and “(2) ensure that the space personnel career fields developed by the military departments are integrated with each other to the maximum extent practicable. “(b) Report.—Not later than February 1, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the strategy developed under subsection (a). The report shall include the following:“(1) A statement of the strategy developed under subsection (a), together with an explanation of that strategy. “(2) An assessment of the measures required for the Department of Defense and the military departments to integrate the space personnel career fields of the military departments. “(3) A comprehensive assessment of the adequacy of the actions of the Secretary of Air Force pursuant to section 808 [now 9084]4 of title 10, United States Code, to establish for Air Force officers a career field for space. “(c) Government Accountability Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields. “(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:“(A) Not later than June 15, 2004, the Comptroller General shall submit a report that assesses how effective that Department of Defense strategy and the efforts by the military departments, when implemented, are likely to be for developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and operation of space systems. “(B) Not later than March 15, 2005, the Comptroller General shall submit a report that assesses, as of the date of the report—“(i) the effectiveness of that Department of Defense strategy and the efforts by the military departments in developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and in operation of space systems; and “(ii) progress made in integrating the space career fields of the military departments.”
 
 #### Comptroller General Assessment of Implementation of Recommendations of Space Commission
 Pub. L. 107–107, div. A, title IX, § 914, Dec. 28, 2001, 115 Stat. 1197, directed the Comptroller General to carry out an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to Pub. L. 106–65, § 1623, formerly set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111), that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
@@ -66,7 +73,7 @@ Pub. L. 107–107, div. A, title IX, § 914, Dec. 28, 2001, 115 Stat. 1197, dire
 <a id="section-2272"></a>
 ## § 2272. Space science and technology strategy: coordination
 
-The Secretary of Defense and the Director of National Intelligence shall jointly develop and implement a space science and technology strategy and shall review and, as appropriate, revise the strategy biennially. Functions of the Secretary under this section shall be carried out jointly by the Assistant Secretary of Defense for Research and Engineering and the official of the Department of Defense designated as the Department of Defense Executive Agent for Space.
+The Secretary of Defense and the Director of National Intelligence shall jointly develop and implement a space science and technology strategy and shall review and, as appropriate, revise the strategy biennially. Functions of the Secretary under this section shall be carried out jointly by the Assistant Secretary of Defense for Research and Engineering and the official of the Department of Defense designated as the Department of Defense Executive Agent for Space.11 See Transfer of Functions note below.
 
 ### Statutory Notes
 
@@ -87,6 +94,9 @@ Subsec. (a)(5). Pub. L. 111–84, § 911(a)(3), amended par. (5) generally. Prio
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
 
+#### Transfer of Functions
+For termination and transfer of functions of the Department of Defense Executive Agent for Space, see section 1601(b)(1) of Pub. L. 115–91, set out as a Termination of Certain Positions and Entities note under former [section 2279a of this title](./chapter-135-space-programs.md#section-2279a).
+
 #### Initial Report
 Pub. L. 111–84, div. A, title IX, § 911(a)(4), Oct. 28, 2009, 123 Stat. 2429, required the first space science and technology strategy required to be submitted under former [10 U.S.C. 2272(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2272/a/5&num=0&edition=prelim) to be submitted on the date on which the President submitted to Congress the budget for fiscal year 2012 under [31 U.S.C. 1105](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
 
@@ -97,11 +107,19 @@ Pub. L. 111–84, div. A, title IX, § 911(a)(4), Oct. 28, 2009, 123 Stat. 2429,
 
 **(b) Included Actions.—** The appropriate actions referred to in subsection (a) shall include, at a minimum, providing resources and policy guidance to sustain—
 
-(1) the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload; and
+(1) the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload 11 So in original. Probably should be followed by a semicolon.
 
-(2) a robust space launch infrastructure and industrial base.
+(2) a robust space launch infrastructure and industrial base; and
 
-**(c) Coordination.—** The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration.
+(3) the availability of rapid, responsive, and reliable space launches for national security space programs to—
+
+  (A) improve the responsiveness and flexibility of a national security space system;
+
+  (B) lower the costs of launching a national security space system; and
+
+  (C) maintain risks of mission success at acceptable levels.
+
+**(c) Coordination.—** The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration and the Director of National Intelligence.
 
 ### Statutory Notes
 
@@ -109,6 +127,10 @@ Pub. L. 111–84, div. A, title IX, § 911(a)(4), Oct. 28, 2009, 123 Stat. 2429,
 A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982, Pub. L. 97–164, title I, § 160(a)(4), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, § 902(b)(1), 106 Stat. 4516, related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–232, § 1603(a)(1), added par. (3).
+
+Subsec. (c). Pub. L. 115–232, § 1603(a)(2), inserted “and the Director of National Intelligence” before period at end.
+
 2009—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(11). See 2008 Amendment note below.
 
 2008—Subsec. (b)(1). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(11), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(11), was repealed by Pub. L. 111–84.
@@ -116,100 +138,76 @@ A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982,
 #### Effective Date of 2009 Amendment
 Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
-#### Acquisition Strategy for Evolved Expendable Launch Vehicle Program
-Pub. L. 114–92, div. A, title XVI, § 1608, Nov. 25, 2015, 129 Stat. 1100, provided that: “(a) Treatment of Certain Arrangement.—“(1) Discontinuation.—The Secretary of the Air Force shall discontinue the evolved expendable launch vehicle launch capability arrangement, as structured as of the date of the enactment of this Act [Nov. 25, 2015], for—“(A) existing contracts using rocket engines designed or manufactured in the Russian Federation by not later than December 31, 2019; and “(B) existing contracts using domestic rocket engines by not later than December 31, 2020. “(2) Waiver.—The Secretary may waive paragraph (1) if the Secretary—“(A) determines that such waiver is necessary for the national security interests of the United States; “(B) notifies the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of such waiver; and “(C) a period of 90 days has elapsed following the date of such notification. “(b) Consistent Standards.—In accordance with [section 2306a of title 10](./chapter-137-procurement-generally.md#section-2306a), United States Code, the Secretary shall—“(1) apply consistent and appropriate standards to certified evolved expendable launch vehicle providers with respect to certified cost and pricing data; and “(2) conduct the appropriate audits. “(c) Acquisition Strategy.—In accordance with subsections (a) and (b) and [section 2273 of title 10](./chapter-135-space-programs.md#section-2273), United States Code, the Secretary shall develop and carry out a 10-year phased acquisition strategy, including near and long term, for the evolved expendable launch vehicle program. “(d) Elements.—The acquisition strategy under subsection (c) for the evolved expendable launch vehicle program shall—“(1) provide the necessary—“(A) stability in budgeting and acquisition of capabilities; “(B) flexibility to the Federal Government; and “(C) procedures for fair competition; and “(2) specifically take into account, as appropriate per competition, the effect of—“(A) contracts or agreements for launch services or launch capability entered into by the Department of Defense and the National Aeronautics and Space Administration with certified evolved expendable launch vehicle providers; “(B) the requirements of the Department of Defense, including with respect to launch capabilities and pricing data, that are met by such providers; “(C) the cost of integrating a satellite onto a launch vehicle; and “(D) any other matters the Secretary considers appropriate. “(e) Competition.—In awarding any contract for launch services in a national security space mission pursuant to a competitive acquisition, the evaluation shall account for the value of the evolved expendable launch vehicle launch capability arrangement per contract line item numbers in the bid price of the offeror as appropriate per launch. “(f) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a report on the acquisition strategy developed under subsection (c).”
+#### Use of Reusable Launch Vehicles
+Pub. L. 115–232, div. A, title XVI, § 1603, Aug. 13, 2018, 132 Stat. 2105, provided that: “(a) Assured Access to Space.—[Amended this section.] “(b) Reusability of Launch Vehicles.—“(1) Designation.—Effective March 1, 2019, the Evolved Expendable Launch Vehicle program of the Department of Defense shall be known as the ‘National Security Space Launch program’. Any reference in Federal law, regulations, guidance, instructions, or other documents of the Federal Government to the Evolved Expendable Launch Vehicle program shall be deemed to be a reference to the National Security Space Launch program. “(2) Requirement.—In carrying out the National Security Space Launch program, the Secretary of Defense shall provide for consideration of both reusable and expendable launch vehicles with respect to any solicitation occurring on or after March 1, 2019, for which the use of a reusable launch vehicle is technically capable and maintains risk at acceptable levels. “(3) Notification of solicitations for non-reusable launch vehicles.—Beginning March 1, 2019, if the Secretary proposes to issue a solicitation for a contract for space launch services for which the use of reusable launch vehicles is not eligible for the award of the contract, the Secretary shall notify in writing the appropriate congressional committees of such proposed solicitation, including justifications for such ineligibility, by not later than 10 days after issuing such solicitation. “(c) Risk and Cost Impact Analysis.—“(1) In general.—The Secretary shall conduct a risk and cost impact analysis with respect to launch services that use reusable launch vehicles. Such analysis shall include—“(A) an assessment of how the inspection and certification regime of the Air Force for previously flown launch vehicles will ensure increased responsiveness and operational flexibility while maintaining acceptable risk; and “(B) an assessment of the anticipated cost savings to the Department of Defense realized by using a previously flown launch vehicle or components. “(2) Submission.—Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary shall submit to the appropriate congressional committees the analysis conducted under paragraph (1). “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means the following:“(1) The congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]. “(2) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
+
+#### Launch Support and Infrastructure Modernization
+Pub. L. 115–91, div. A, title XVI, § 1609, Dec. 12, 2017, 131 Stat. 1727, provided that: “(a) In General.—In support of the policy specified in [section 2273 of title 10](./chapter-135-space-programs.md#section-2273), United States Code, the Secretary of Defense shall carry out a program to modernize infrastructure and improve support activities for the processing and launch of United States national security space vehicles launching from Federal ranges. “(b) Elements.—The program under subsection (a) shall include—“(1) investments in infrastructure to improve operations at the Eastern and Western Ranges that may benefit all users, to enhance the overall capabilities of ranges, to improve safety, and to reduce the long-term cost of operations and maintenance; “(2) measures to normalize processes, systems, and products across the Eastern and Western ranges to minimize the burden on launch providers; and “(3) improvements in transparency, flexibility, and, [sic] responsiveness for launch scheduling. “(c) Consultation.—In carrying out the program under subsection (a), the Secretary may consult with current and anticipated users of the Eastern and Western Ranges. “(d) Cooperation.—In carrying out the program under subsection (a), the Secretary may consider partnerships authorized under [section 2276 of title 10](./chapter-135-space-programs.md#section-2276), United States Code. “(e) Report.—“(1) Report required.—Not later than 120 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the plan for the implementation of the program under subsection (a). “(2) Elements.—The report under paragraph (1) shall include—“(A) a description of plans and the resources needed to improve launch support infrastructure, utilities, support equipment, and range operations; “(B) a description of plans to streamline and normalize processes, systems, and products at the Eastern and Western ranges, to ensure consistency for range users; and “(C) recommendations for improving transparency, flexibility, and responsiveness in launch scheduling.”
+
+#### Acquisition Strategy for National Security Space Launch Program
+Pub. L. 114–92, div. A, title XVI, § 1608, Nov. 25, 2015, 129 Stat. 1100, provided that: “(a) Treatment of Certain Arrangement.—“(1) Discontinuation.—The Secretary of the Air Force shall discontinue the evolved expendable launch vehicle launch capability arrangement, as structured as of the date of the enactment of this Act [Nov. 25, 2015], for—“(A) existing contracts using rocket engines designed or manufactured in the Russian Federation by not later than December 31, 2019; and “(B) existing contracts using domestic rocket engines by not later than December 31, 2020. “(2) Waiver.—The Secretary may waive paragraph (1) if the Secretary—“(A) determines that such waiver is necessary for the national security interests of the United States; “(B) notifies the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of such waiver; and “(C) a period of 90 days has elapsed following the date of such notification. “(b) Consistent Standards.—In accordance with [section 2306a of title 10](./chapter-137-procurement-generally.md#section-2306a), United States Code, the Secretary shall—“(1) apply consistent and appropriate standards to certified evolved expendable launch vehicle providers with respect to certified cost and pricing data; and “(2) conduct the appropriate audits. “(c) Acquisition Strategy.—In accordance with subsections (a) and (b) and [section 2273 of title 10](./chapter-135-space-programs.md#section-2273), United States Code, the Secretary shall develop and carry out a 10-year phased acquisition strategy, including near and long term, for the evolved expendable launch vehicle program [now the National Security Space Launch program]. “(d) Elements.—The acquisition strategy under subsection (c) for the evolved expendable launch vehicle program [now the National Security Space Launch program] shall—“(1) provide the necessary—“(A) stability in budgeting and acquisition of capabilities; “(B) flexibility to the Federal Government; and “(C) procedures for fair competition; and “(2) specifically take into account, as appropriate per competition, the effect of—“(A) contracts or agreements for launch services or launch capability entered into by the Department of Defense and the National Aeronautics and Space Administration with certified evolved expendable launch vehicle providers; “(B) the requirements of the Department of Defense, including with respect to launch capabilities and pricing data, that are met by such providers; “(C) the cost of integrating a satellite onto a launch vehicle; and “(D) any other matters the Secretary considers appropriate. “(e) Competition.—In awarding any contract for launch services in a national security space mission pursuant to a competitive acquisition, the evaluation shall account for the value of the evolved expendable launch vehicle launch capability arrangement per contract line item numbers in the bid price of the offeror as appropriate per launch. “(f) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a report on the acquisition strategy developed under subsection (c).”
 
 #### Rocket Propulsion System Development Program
 Pub. L. 113–291, div. A, title XVI, § 1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, § 1606(a), Nov. 25, 2015, 129 Stat. 1099; Pub. L. 114–328, div. A, title XVI, § 1603, Dec. 23, 2016, 130 Stat. 2582, provided that: “(a) Development.—“(1) In general.—The Secretary of Defense shall develop a next-generation rocket propulsion system that enables the effective, efficient, and expedient transition from the use of non-allied space launch engines to a domestic alternative for national security space launches. “(2) Requirements.—The system developed under paragraph (1) shall—“(A) be made in the United States; “(B) meet the requirements of the national security space community; “(C) be developed by not later than 2019; “(D) be developed using full and open competition; and “(E) be available for purchase by all space launch providers of the United States. “(b) Report.—Not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], the Secretary shall submit to the appropriate congressional committees a report that includes—“(1) a plan to carry out the development of the rocket propulsion system under subsection (a), including an analysis of the benefits of using public-private partnerships; “(2) the requirements of the program to develop such system; and “(3) the estimated cost of such system. “(c) Streamlined Acquisition.—In developing the rocket propulsion system required under subsection (a), the Secretary shall—“(1) use a streamlined acquisition approach, including tailored documentation and review processes, that enables the effective, efficient, and expedient transition from the use of non-allied space launch engines to a domestic alternative for national security space launches; and “(2) prior to establishing such acquisition approach, establish well-defined requirements with a clear acquisition strategy. “(d) Use of Funds Under Development Program.—“(1) Development of rocket propulsion system.—The funds described in paragraph (2)—“(A) may be obligated or expended for—“(i) the development of the rocket propulsion system to replace non-allied space launch engines pursuant to subsection (a); and “(ii) the necessary interfaces to, or integration of, the rocket propulsion system with an existing or new launch vehicle; and “(B) except as provided by paragraph (3), may not be obligated or expended to develop or procure a launch vehicle, an upper stage, a strap-on motor, or related infrastructure. “(2) Funds described.—The funds described in this paragraph are the following:“(A) Funds authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2017 [Pub. L. 114–328, see Tables for classification] or otherwise made available for fiscal year 2017 for the Department of Defense for the development of the rocket propulsion system under subsection (a). “(B) Funds authorized to be appropriated by this Act [see Tables for classification] or the National Defense Authorization Act for Fiscal Year 2016 [Pub. L. 114–92, see Tables for classification] or otherwise made available for fiscal years 2015 or 2016 for the Department of Defense for the development of the rocket propulsion system under subsection (a) that are unobligated as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017 [Dec. 23, 2016]. “(3) Other purposes.—The Secretary may obligate or expend not more than a total of the amount calculated under paragraph (4) of the funds that are authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2017 or otherwise made available for fiscal year 2017 for the rocket propulsion system and launch system investment for activities not authorized by paragraph (1)(A), including for developing a launch vehicle, an upper stage, a strap-on motor, or related infrastructure. The Secretary may exceed such limit calculated under paragraph (4) in fiscal year 2017 for such purposes if—“(A) the Secretary certifies to the appropriate congressional committees that, as of the date of the certification—“(i) the development of the rocket propulsion system is being carried out pursuant to paragraph (1)(A) in a manner that ensures that the rocket propulsion system will meet each requirement under subsection (a)(2); and “(ii) such obligation or expenditure will not negatively affect the development of the rocket propulsion system, including with respect to meeting such requirements; and “(B) the reprogramming or transfer is carried out in accordance with established procedures for reprogramming or transfers, including with respect to presenting a request for a reprogramming of funds. “(4) Calculation of amounts for other purposes.—In carrying out paragraph (3), the Secretary shall calculate the amount of the funds specified in such paragraph as follows:“(A) If the total amount of funds that are authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2017 or otherwise made available for fiscal year 2017 for the rocket propulsion system and launch system investment is equal to or less than $320,000,000, such amount shall equal 31 percent. “(B) If the total amount of funds that are authorized to be appropriated by the National Defense Authorization Act for Fiscal Year 2017 or otherwise made available for fiscal year 2017 for the rocket propulsion system and launch system investment is greater than $320,000,000, such amount shall equal the difference of—“(i) the amount of funds so authorized to be appropriated, minus “(ii) $220,000,000. “(e) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(2) The term ‘rocket propulsion system’ means, with respect to the development authorized by subsection (a), a main booster, first-stage rocket engine or motor. The term does not include a launch vehicle, an upper stage, a strap-on motor, or related infrastructure.”
 
 
 <a id="section-2273a"></a>
-## § 2273a. Operationally Responsive Space Program Office
-**(a) In General.—** There is within the Air Force Space and Missile Systems Center of the Department of Defense a joint program office known as the Operationally Responsive Space Program Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
+## § 2273a. Space Rapid Capabilities Office
+**(a) In General.—** There is within the Air Force Space Command a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
 
-**(b) Head of Office.—** The head of the Office shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.
+**(b) Head of Office.—** The head of the Office shall be the designee of the Secretary of the Air Force. The head of the Office shall report to the Commander of the Air Force Space Command.
 
 **(c) Mission.—** The mission of the Office shall be—
 
-(1) to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution; and
+(1) to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution;
 
-(2) to coordinate and execute operationally responsive space efforts across the Department of Defense with respect to planning, acquisition, and operations.
+(2) to coordinate and execute space rapid capabilities efforts across the Department of Defense with respect to planning, acquisition, and operations; and
 
-**(d) Elements.—** The Secretary of Defense shall select the elements of the Department of Defense to be included in the Office so as to contribute to the development of capabilities for operationally responsive space and to achieve a balanced representation of the military departments in the Office to ensure proper acknowledgment of joint considerations in the activities of the Office, except that the Office shall include the following:
+(3) to rapidly develop and field new classified space capabilities.
 
-(1) A science and technology element that shall pursue innovative approaches to the development of capabilities for operationally responsive space through basic and applied research focused on (but not limited to) payloads, bus, and launch equipment.
+**(d) Acquisition Authority.—** The acquisition activities of the Office shall be subject to the following:
 
-(2) An acquisition element that shall undertake the acquisition of systems necessary to integrate, sustain, and launch assets for operationally responsive space.
+(1) The Secretary of the Air Force shall designate the acquisition executive of the Office who shall provide streamlined acquisition authorities for projects of the Office.
 
-(3) An operations element that shall—
+(2) The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office.
 
-  (A) sustain and maintain assets for operationally responsive space prior to launch;
+(3) The Commander of the United States Strategic Command, acting through the United States Space Command, shall—
 
-  (B) integrate and launch such assets; and
+  (A) establish and validate capability requirements; and
 
-  (C) operate such assets in orbit.
+  (B) recommend priorities as the Commander determines appropriate.
 
-(4) A combatant command support element that shall serve as the primary intermediary between the military departments and the combatant commands in order to—
+**(e) Required Program Element.—**
 
-  (A) ascertain the needs of the commanders of the combatant commands; and
+(1) The Secretary of the Air Force shall ensure, within budget program elements for space programs, that—
 
-  (B) integrate operationally responsive space capabilities into—
+  (A) there are separate, dedicated unclassified and classified program elements for space rapid capabilities; and
 
-    (i) operations plans of the combatant commands;
+  (B) the Office executes the responsibilities of the Office through such program elements.
 
-    (ii) techniques, tactics, and procedures of the military departments; and
+(2) The Office shall manage the program elements required by paragraph (1).
 
-    (iii) military exercises, demonstrations, and war games.
-
-(5) Such other elements as the Secretary of Defense may consider necessary.
-
-**(e) Acquisition Authority.—** The acquisition activities of the Office shall be subject to the following:
-
-(1) The Program Executive Officer for Space shall be the Acquisition Executive of the Office and shall provide streamlined acquisition authorities for projects of the Office.
-
-(2) The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office for operational experimentation.
-
-(3) The commander of the United States Strategic Command, or the designee of the commander, shall—
-
-  (A) validate all system requirements for systems to be acquired by the Office; and
-
-  (B) participate in the approval of any acquisition program initiated by the Office.
-
-(4) To the maximum extent practicable, the procurement unit cost of a launch vehicle procured by the Office for launch to low earth orbit should not exceed $20,000,000 (in constant dollars).
-
-(5) To the maximum extent practicable, the procurement unit cost of an integrated satellite procured by the Office should not exceed $40,000,000 (in constant dollars).
-
-**(f) Required Program Element.—**
-
-(1) The Secretary of Defense shall ensure that, within budget program elements for space programs of the Department of Defense, that—
-
-  (A) there is a separate, dedicated program element for operationally responsive space;
-
-  (B) to the extent applicable, relevant program elements should be consolidated into the program element required by subparagraph (A); and
-
-  (C) the Office executes its responsibilities through this program element.
-
-(2) The Office shall manage the program element required by paragraph (1)(A).
-
-**(g) Executive Committee.—**
-
-(1) The Secretary of Defense shall establish for the Office an Executive Committee (to be known as the “Operationally Responsive Space Executive Committee”) to provide coordination, oversight, and approval of projects of the Office.
-
-(2) The Executive Committee shall consist of the officials (and their duties) as follows:
-
-  (A) The Department of Defense Executive Agent for Space, who shall serve as Chair of the Executive Committee and provide oversight, prioritization, coordination, and resources for the Office.
-
-  (B) The Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall provide coordination and oversight of the Office and recommend funding sources for programs of the Office that exceed the approved program baseline.
-
-  (C) The Commander of the United States Strategic Command, who shall validate requirements for systems to be acquired by the Office and participate in approval of any acquisition program initiated by the Office.
-
-  (D) The Commander of the Air Force Space Command, the Commander of the Army Space and Missile Defense Command, and the Commander of the Space and Naval Warfare Systems Command, who shall jointly organize, train, and equip forces to support the acquisition programs of the Office.
-
-  (E) Such other officials (and their duties) as the Secretary of Defense considers appropriate.
+**(f) Board of Directors.—** The Secretary of the Air Force shall establish for the Office a Board of Directors (to be known as the “Space Rapid Capabilities Board of Directors”) to provide coordination, oversight, and approval of projects of the Office.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–232 amended section generally. Prior to amendment, section related to: in subsec. (a) the Space Rapid Capabilities Office, in subsec. (b) the head of the Office, in subsec. (c) the mission of the Office, in subsec. (d) elements of the Department of Defense to be included in the Office, in subsec. (e) acquisition activities of the Office, in subsec. (f) required program elements, and in subsec. (g) establishment of an Executive Committee to provide coordination, oversight, and approval of projects.
+
+2017—Pub. L. 115–91, § 1601(b)(1)(A), substituted “Space Rapid Capabilities” for “Operationally Responsive Space Program” in section catchline.
+
+Subsec. (a). Pub. L. 115–91, § 1601(b)(1)(B), substituted “Air Force Space Command” for “Air Force Space and Missile Systems Center of the Department of Defense” and “Space Rapid Capabilities” for “Operationally Responsive Space Program”.
+
+Subsec. (b). Pub. L. 115–91, § 1601(b)(1)(C), substituted “Air Force Space Command” for “Air Force Space and Missile Systems Center”.
+
+Subsec. (c)(2). Pub. L. 115–91, § 1601(b)(1)(D), substituted “space rapid capabilities” for “operationally responsive space”.
+
+Subsec. (d). Pub. L. 115–91, § 1601(b)(1)(E), substituted “space rapid capabilities” for “operationally responsive space” in introductory provisions and pars. (2) and (3)(A), “space rapid capabilities” for “capabilities for operationally responsive space” in par. (1), and “space rapid capabilities” for “operationally responsive space capabilities” in introductory provisions of par. (4)(B).
+
+Subsec. (f)(1)(A). Pub. L. 115–91, § 1601(b)(1)(D), substituted “space rapid capabilities” for “operationally responsive space”.
+
+Subsec. (g)(1). Pub. L. 115–91, § 1601(b)(1)(F), substituted “Space Rapid Capabilities” for “Operationally Responsive Space”.
+
 2013—Subsec. (a). Pub. L. 112–239, § 914(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ‘Office’).”
 
 Subsec. (b). Pub. L. 112–239, § 914(b), substituted “shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.” for “shall be—
@@ -229,6 +227,9 @@ Subsec. (g). Pub. L. 112–239, § 914(e), added subsec. (g).
 #### Effective Date
 Pub. L. 108–375, div. A, title IX, § 913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: “Subsection (a) of [section 2273a of title 10](./chapter-135-space-programs.md#section-2273a), United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005.”
 
+#### Transfer of Functions
+For termination and transfer of functions of the Department of Defense Executive Agent for Space, see section 1601(b)(1) of Pub. L. 115–91, set out as a Termination of Certain Positions and Entities note under former [section 2279a of this title](./chapter-135-space-programs.md#section-2279a).
+
 #### United States Policy on Operationally Responsive Space
 Pub. L. 109–364, div. A, title IX, § 913(a), Oct. 17, 2006, 120 Stat. 2355, provided that: “It is the policy of the United States to demonstrate, acquire, and deploy an effective capability for operationally responsive space to support military users and operations from space, which shall consist of— “(1) responsive satellite payloads and busses built to common technical standards; “(2) low-cost space launch vehicles and supporting range operations that facilitate the timely launch and on-orbit operations of satellites; “(3) responsive command and control capabilities; and “(4) concepts of operations, tactics, techniques, and procedures that permit the use of responsive space assets for combat and military operations other than war.”
 
@@ -238,7 +239,11 @@ Pub. L. 109–163, div. A, title IX, § 913(a), Jan. 6, 2006, 119 Stat. 3408, wh
 
 <a id="section-2274"></a>
 ## § 2274. Space situational awareness services and information: provision to non-United States Government entities
-**(a) Authority.—** The Secretary of Defense may provide space situational awareness services and information to, and may obtain space situational awareness data and information from, non-United States Government entities in accordance with this section. Any such action may be taken only if the Secretary determines that such action is consistent with the national security interests of the United States.
+**(a) Authority.—**
+
+(1) Except as provided by paragraph (2), the Secretary of Defense may provide space situational awareness services and information to, and may obtain space situational awareness data and information from, non-United States Government entities in accordance with this section. Any such action may be taken only if the Secretary determines that such action is consistent with the national security interests of the United States.
+
+(2) Beginning January 1, 2024, the Secretary may provide space situational awareness services and information to, and may obtain space situational awareness data and information from, non-United States Government entities under paragraph (1) only to the extent that the Secretary determines such actions are necessary to meet the national security interests of the United States.
 
 **(b) Eligible Entities.—** The Secretary may provide services and information under subsection (a) to, and may obtain data and information under subsection (a) from, any non-United States Government entity, including any of the following:
 
@@ -288,6 +293,8 @@ Pub. L. 109–163, div. A, title IX, § 913(a), Jan. 6, 2006, 119 Stat. 3408, wh
 A prior section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to procurement for experimental purposes, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 designated existing provisions as par. (1), substituted “Except as provided by paragraph (2), the Secretary of Defense may” for “The Secretary of Defense may”, and added par. (2).
+
 2009—Pub. L. 111–84 amended section generally. Prior to amendment, section related to space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government.
 
 2008—Subsec. (i). Pub. L. 110–417 substituted “September 30, 2010” for “September 30, 2009”.
@@ -296,6 +303,9 @@ A prior section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–84, div. A, title IX, § 912(c), Oct. 28, 2009, 123 Stat. 2431, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2009, or the date of the enactment of this Act [Oct. 28, 2009], whichever is later.”
+
+#### Limitation on Availability of Funding for Joint Space Operations Center Mission System
+Pub. L. 115–91, div. A, title XVI, § 1610, Dec. 12, 2017, 131 Stat. 1728, provided that: “(a) Limitation.—Of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2018 for the Joint Space Operations Center mission system, not more than 75 percent may be obligated or expended until the date on which the Secretary of the Air Force certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the Secretary has developed the plan under subsection (b). “(b) Plan.—The Secretary shall develop and implement a plan to operationalize existing commercial space situational awareness capabilities to address warfighter requirements, consistent with the best-in-breed concept. Except as provided by subsection (c), the Secretary shall commence such implementation by not later than May 30, 2018. “(c) Waiver.—The Secretary may waive the implementation of the plan developed under subsection (b) if the Secretary determines that existing commercial capabilities will not address national security requirements or existing space situational awareness capability gaps. The authority under this subsection may not be delegated below the Deputy Secretary of Defense.”
 
 
 <a id="section-2275"></a>
@@ -433,7 +443,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 (3) **Use of funds.—** — Funds deposited in the Defense Cooperation Space Launch Account under paragraph (2) are authorized to be appropriated and shall be available for obligation only to the extent provided in advance in an appropriation Act for costs incurred by the Department of Defense in carrying out subsection (b). Funds in the Account shall remain available until expended.
 
-**(e) Annual Report.—** Not later than January 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the funds, services, and equipment accepted and used by the Secretary under this section during the preceding fiscal year.
+**(e)** Repealed. Pub. L. 115–232, div. A, title VIII, § 813(a)(2), Aug. 13, 2018, 132 Stat. 1851.]
 
 **(f) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
@@ -456,37 +466,20 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 #### Prior Provisions
 A prior section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962, Pub. L. 87–651, title I, § 131, 76 Stat. 514, which related to inspection and audit of plants and books of contractors and provided criminal penalties for violations, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Amendments
+2018—Subsec. (e). Pub. L. 115–232 struck out subsec. (e). Text read as follows: “Not later than January 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the funds, services, and equipment accepted and used by the Secretary under this section during the preceding fiscal year.”
+
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 
 <a id="section-2277"></a>
-## § 2277. Report on foreign counter-space programs
-**(a) Report Required.—** Not later than January 1 of each year, the Secretary of Defense and the Director of National Intelligence shall jointly submit to Congress a report on the counter-space programs of foreign countries.
-
-**(b) Contents.—** Each report required under subsection (a) shall include—
-
-(1) an explanation of whether any foreign country has a counter-space program that could be a threat to the national security or commercial space systems of the United States; and
-
-(2) the name of each country with a counter-space program described in paragraph (1).
-
-**(c) Form.—**
-
-(1) **In general.—** — Except as provided in paragraphs (2) and (3), each report required under subsection (a) shall be submitted in unclassified form.
-
-(2) **Classified annex.—** — The Secretary of Defense and the Director of National Intelligence may submit to the covered congressional committees a classified annex to a report required under subsection (a) containing any classified information required to be submitted for such report.
-
-(3) **Foreign country names.—**
-
-  (A) *Unclassified form.—* — Subject to subparagraph (B), each report required under subsection (a) shall include the information required under subsection (b)(2) in unclassified form.
-
-  (B) *National security waiver.—* — The Secretary of Defense and the Director of National Intelligence may waive the requirement under subparagraph (A) if the Secretary and the Director of National Intelligence jointly determine it is in the interests of national security to waive such requirement and submits to Congress an explanation of why the Secretary and the Director waived such requirement.
-
-**(d) Covered Congressional Committees Defined.—** In this section, the term “covered congressional committees” means the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate.
+## § 2277. Repealed. Pub. L. 115–91, div. A, title X, § 1051(a)(13)(A), Dec. 12, 2017, 131 Stat. 1561]
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, added Pub. L. 112–239, div. A, title IX, § 913(c)(1), Jan. 2, 2013, 126 Stat. 1875, related to report on foreign counter-space programs.
+
 A prior section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to availability of appropriations, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 
@@ -519,14 +512,32 @@ A prior section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to pur
 
 
 <a id="section-2279"></a>
-## § 2279. Foreign commercial satellite services
-**(a) Prohibition.—** Except as provided in subsection (b), the Secretary of Defense may not enter into a contract for satellite services with a foreign entity if the Secretary reasonably believes that—
+## § 2279. Foreign commercial satellite services and foreign launches
+**(a) Prohibition.—** Except as provided in subsection (c), the Secretary of Defense may not enter into a contract for satellite services with a foreign entity if the Secretary reasonably believes that—
 
-(1) the foreign entity is an entity in which the government of a covered foreign country has an ownership interest that enables that government to affect satellite operations; or
+(1) the foreign entity is an entity in which the government of a covered foreign country has an ownership interest that enables that government to affect satellite operations;
 
-(2) the foreign entity plans to or is expected to provide launch or other satellite services under the contract from a covered foreign country.
+(2) the foreign entity plans to or is expected to provide satellite services under the contract from a covered foreign country; or
 
-**(b) Notice and Exception.—** The prohibition in subsection (a) shall not apply to a contract if—
+(3) entering into such contract would create an unacceptable cybersecurity risk for the Department of Defense.
+
+**(b) Launches and Manufacturers.—**
+
+(1) **Limitation.—** — In addition to the prohibition in subsection (a), and except as provided in paragraph (2) and in subsection (c), the Secretary may not enter into a contract for satellite services with any entity if the Secretary reasonably believes that such satellite services will be provided using satellites that will be—
+
+  (A) designed or manufactured in a covered foreign country, or by an entity controlled in whole or in part by, or acting on behalf of, the government of a covered foreign country; or
+
+  (B) launched using a launch vehicle that is designed or manufactured in a covered foreign country, or that is provided by the government of a covered foreign country or by an entity controlled in whole or in part by, or acting on behalf of, the government of a covered foreign country, regardless of the location of the launch (unless such location is in the United States).
+
+(2) **Exception.—** — The limitation in paragraph (1) shall not apply with respect to—
+
+  (A) a launch that occurs prior to December 31, 2022; or
+
+  (B) a contract or other agreement relating to launch services that, prior to the date that is 180 days after the date of the enactment of this subsection, was either fully paid for by the contractor or covered by a legally binding commitment of the contractor to pay for such services.
+
+(3) **Launch vehicle defined.—** — In this subsection, the term “launch vehicle” means a fully integrated space launch vehicle.
+
+**(c) Notice and Exception.—** The prohibitions in subsections (a) and (b) shall not apply to a contract if—
 
 (1) the Secretary determines it is in the national security of the United States to enter into such contract; and
 
@@ -540,32 +551,64 @@ A prior section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to pur
 
   (D) A risk assessment of entering into a contract with such foreign entity, including an assessment of mission assurance and security of information and a description of any measures necessary to mitigate risks found by such risk assessment.
 
-**(c) Delegation of Notice and Exception Authority.—** The Secretary of Defense may only delegate the authority under subsection (b) to enter into a contract subject to the prohibition under subsection (a) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition, Technology, and Logistics and such authority may not be further delegated.
+**(d) Delegation of Notice and Exception Authority.—** The Secretary of Defense may only delegate the authority under subsection (c) to enter into a contract subject to the prohibition under subsection (a) or (b) to the Deputy Secretary of Defense, the Under Secretary of Defense for Policy, or the Under Secretary of Defense for Acquisition, Technology, and Logistics and such authority may not be further delegated.
 
-**(d) Form of Assessments.—** Each assessment under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
+**(e) Form of Assessments.—** Each assessment under subsection (c) shall be submitted in unclassified form, but may include a classified annex.
 
-**(e) Covered Foreign Country Defined.—** In this section, the term “covered foreign country” means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019).
+**(f) Definitions.—** In this section:
+
+(1) The term “covered foreign country” means any of the following:
+
+  (A) A country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019).
+
+  (B) The Russian Federation.
+
+(2) The term “cybersecurity risk” means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism.
 
 ### Statutory Notes
 
 #### References in Text
-Section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (e), is section 1261(c)(2) of Pub. L. 112–239, which is set out in a note under [section 2778 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim), Foreign Relations and Intercourse.
+The date of the enactment of this subsection, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
+Section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (f)(1)(A), is section 1261(c)(2) of Pub. L. 112–239, which is set out in a note under [section 2778 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Prior Provisions
 A prior section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restrictions on alien employees of contractors as to access to plans and specifications, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Amendments
+2018—Subsec. (c). Pub. L. 115–232 substituted “subsections (a) and (b)” for “subsection (a) and (b)” in introductory provisions.
+
+2017—Pub. L. 115–91, § 1603(d)(1)(A), substituted “services and foreign launches” for “services” in section catchline.
+
+Subsec. (a). Pub. L. 115–91, § 1603(d)(1)(B), substituted “subsection (c)” for “subsection (b)” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 115–91, § 1603(d)(1)(C), struck out “launch or other” before “satellite services”.
+
+Subsec. (a)(3). Pub. L. 115–91, § 1603(a), added par. (3).
+
+Subsec. (b). Pub. L. 115–91, § 1603(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 115–91, § 1603(b)(1), (d)(1)(D), redesignated subsec. (b) as (c) and substituted “prohibitions in subsection (a) and (b)” for “prohibition in subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 115–91, § 1603(b)(1), (d)(1)(B), (E), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)” and “prohibition under subsection (a) or (b)” for “prohibition under subsection (a)”. Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 115–91, § 1603(b)(1), (d)(1)(B), redesignated subsec. (d) as (e) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 115–91, § 1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: “In this section, the term ‘covered foreign country’ means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019).”
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title XVI, § 1603(e), Dec. 12, 2017, 131 Stat. 1723, provided that: “Except as otherwise specifically provided, the amendments made by this section [amending this section] shall apply with respect to contracts for satellite services awarded by the Secretary of Defense on or after the date of the enactment of this Act [Dec. 12, 2017].”
+
 
 <a id="section-2279a"></a>
-## § 2279a. Principal Advisor on Space Control
-**(a) In General.—** The Secretary of Defense shall designate a senior official of the Department of Defense or a military department to serve as the Principal Space Control Advisor, who, in addition to the other duties of such senior official, shall act as the principal advisor to the Secretary on space control activities.
+## § 2279a. Repealed. Pub. L. 115–91, div. A, title XVI, § 1601(b)(2)(A), Dec. 12, 2017, 131 Stat. 1719]
 
-**(b) Responsibilities.—** The Principal Space Control Advisor shall be responsible for the following:
+### Statutory Notes
 
-(1) Supervision of space control activities related to the development, procurement, and employment of, and strategy relating to, space control capabilities.
+Section, added Pub. L. 114–92, div. A, title XVI, § 1602(a), Nov. 25, 2015, 129 Stat. 1096, related to principal advisor on space control.
 
-(2) Oversight of policy, resources, personnel, and acquisition and technology relating to space control activities.
-
-**(c) Cross-functional Team.—** The Principal Space Control Advisor shall integrate the space control expertise and perspectives of appropriate organizational entities of the Office of the Secretary of Defense, the Joint Staff, the military departments, the Defense Agencies, and the combatant commands, by establishing and maintaining a cross-functional team of subject-matter experts who are otherwise assigned or detailed to those entities.
+#### Termination of Certain Positions and Entities
+Pub. L. 115–91, div. A, title XVI, § 1601(b)(1), Dec. 12, 2017, 131 Stat. 1719, provided that: “(1) In general.—Effective 30 days after the date of the enactment of this Act [Dec. 12, 2017]—“(A) the position, and the office of, the Principal Department of Defense Space Advisor (previously known as the Department of Defense Executive Agent for Space) shall be terminated; “(B) the duties, responsibilities, and personnel of such office specified in subparagraph (A) shall be transferred to a single official selected by the Deputy Secretary of Defense, without delegation, except the Deputy Secretary may not select the Secretary of the Air Force nor the Under Secretary of Defense for Intelligence; “(C) any reference in Federal law, regulations, guidance, instructions, or other documents of the Federal Government to the Principal Department of Defense Space Advisor or the Department of Defense Executive Agent for Space shall be deemed to be a reference to the official selected by the Deputy Secretary under subparagraph (B); “(D) the position, and the office of, the Deputy Chief of Staff of the Air Force for Space Operations shall be terminated; and “(E) the Defense Space Council shall be terminated.”
 
 
 <a id="section-2279b"></a>
@@ -650,3 +693,98 @@ A prior section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to res
 
 #### References in Text
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (h), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
+
+
+<a id="section-2279c"></a>
+## § 2279c. Air Force Space Command
+**(a) Commander.—**
+
+(1) The head of the Air Force Space Command shall be the Commander of the Air Force Space Command, who shall be appointed in accordance with [section 601 of this title](./chapter-035-temporary-appointments-in-officer-grades.md#section-601). The officer serving as Commander, while so serving, has the grade of general without vacating the permanent grade of the officer.
+
+(2) The Commander shall be appointed to serve a term of six years. The Secretary may propose to promote the individual serving as the Commander during that term of appointment.
+
+(3) The incumbent Commander may serve as the first Commander after December 12, 2017.
+
+**(b) Authorities.—** In addition to the authorities and responsibilities assigned to the Commander before December 12, 2017, the Commander has the sole authority with respect to each of the following:
+
+(1) Organizing, training, and equipping personnel and operations of the space forces of the Air Force.
+
+(2) Subject to the direction of the Secretary of the Air Force, serving as the service acquisition executive under [section 1704 of this title](./chapter-087-defense-acquisition-workforce.md#section-1704) for defense space acquisitions.
+
+(3) In consultation with the Chief Information Officer of the Department of Defense, procurement of commercial satellite communications services for the Department of Defense for such services entered into after December 11, 2018.
+
+### Statutory Notes
+
+#### Prior Provisions
+Another section 2279c was renumbered [section 2279d of this title](./chapter-135-space-programs.md#section-2279d).
+
+#### Amendments
+2018—Subsec. (a)(3). Pub. L. 115–232, § 1081(a)(17)(A), substituted “December 12, 2017” for “the date of the enactment of this Act”.
+
+Subsec. (b). Pub. L. 115–232, § 1081(a)(17)(B)(i), substituted “December 12, 2017” for “the date of the enactment of this section” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 115–232, § 1081(a)(17)(B)(ii), substituted “after December 11, 2018” for “on or after the date that is one year after the date of the enactment of this section”.
+
+#### Construction
+Pub. L. 115–91, div. A, title XVI, § 1601(a)(3), Dec. 12, 2017, 131 Stat. 1719, provided that: “Nothing in subsection (b)(1) of [section 2279c of title 10](./chapter-135-space-programs.md#section-2279c), United States Code, as added by paragraph (1), may be construed to prohibit or otherwise affect the authority of the Secretary of the Air Force to provide to the space forces of the Air Force the services of the Department of the Air Force relating to basic personnel functions, the United States Air Force Academy, recruitment, and basic training.”
+
+
+<a id="section-2279d"></a>
+## § 2279d. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments.11 So in original. The period probably should not appear.
+**(a) Limitation.—**
+
+(1) **Certification.—**
+
+  (A) *In general.—* — The President may not authorize or permit the construction of a global navigation satellite system ground monitoring station directly or indirectly controlled by a foreign government (including a ground monitoring station owned, operated, or controlled on behalf of a foreign government) in the territory of the United States unless the Secretary of Defense and the Director of National Intelligence jointly certify to the appropriate congressional committees that such ground monitoring station will not possess the capability or potential to be used for the purpose of gathering intelligence in the United States or improving any foreign weapon system.
+
+  (B) *Form.—* — Each certification under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
+
+(2) **National security waiver.—** — The Secretary of Defense and the Director of National Intelligence may jointly waive the certification requirement in paragraph (1) for a ground monitoring station if—
+
+  (A) the Secretary and the Director jointly determine that the waiver is in the vital interests of the national security of the United States; and
+
+  (B) the Secretary and the Director ensure that—
+
+    (i) all data collected or transmitted from ground monitoring stations covered by the waiver are not encrypted;
+
+    (ii) all persons involved in the construction, operation, and maintenance of such ground monitoring stations are United States persons;
+
+    (iii) such ground monitoring stations are not located in geographic proximity to sensitive United States national security sites;
+
+    (iv) the United States approves all equipment to be located at such ground monitoring stations;
+
+    (v) appropriate actions are taken to ensure that any such ground monitoring stations do not pose a cyber espionage or other threat, including intelligence or counterintelligence, to the national security of the United States; and
+
+    (vi) any improvements to such ground monitoring stations do not reduce or compete with the advantages of Global Positioning System technology for users.
+
+(3) **Waiver report.—** — For each waiver under paragraph (2), the Secretary of Defense and the Director of National Intelligence, in consultation with the Secretary of State, shall jointly submit to the appropriate congressional committees a report containing—
+
+  (A) the reason why it is not possible to provide the certification under paragraph (1) for the ground monitoring stations covered by such waiver;
+
+  (B) an assessment of the impact of the exercise of authority under paragraph (2) with respect to such ground monitoring stations on the national security of the United States;
+
+  (C) a description of the means to be used to mitigate any such impact to the United States for the duration that such ground monitoring stations are operated in the territory of the United States; and
+
+  (D) any other information in connection with the waiver that the Secretary of Defense and the Director of National Intelligence, in consultation with the Secretary of State, consider appropriate.
+
+(4) **Notice.—** — Not later than 30 days before the exercise of the authority to waive under paragraph (2) the certification requirement under paragraph (1) for a ground monitoring station, the Secretary of Defense and the Director of National Intelligence shall jointly provide to the appropriate congressional committees notice of the exercise of such authority and the report required under paragraph (3) with respect to such ground monitoring station.
+
+(5) **Appropriate congressional committees defined.—** — In this subsection, the term “appropriate congressional committees” means—
+
+  (A) the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
+
+  (B) the Committee on Armed Services, the committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+**(b) Exception.—** The limitation in subsection (a) shall not apply to foreign governments that are allies of the United States.
+
+**(c) Sunset.—** The limitation in subsection (a) shall terminate on December 31, 2023.
+
+### Statutory Notes
+
+#### Codification
+Subsec. (a) of this section was based on Pub. L. 113–66, div. A, title XVI, § 1602(b), Dec. 26, 2013, 127 Stat. 943, which was formerly set out as a note under [section 2281 of this title](./chapter-136-provisions-relating-to-specific-programs.md#section-2281), prior to transfer to former [section 2279c of this title](./chapter-135-space-programs.md#section-2279c), designation as subsec. (a) of such section and amendment by Pub. L. 115–91, § 1602(b), and renumbering of former [section 2279c of this title](./chapter-135-space-programs.md#section-2279c) as this section by Pub. L. 115–232, § 1081(a)(18)(A).
+
+#### Amendments
+2018—Pub. L. 115–232 renumbered [section 2279c of this title](./chapter-135-space-programs.md#section-2279c) as this section.
+
+2017—Subsec. (a). Pub. L. 115–91, § 1602(b), transferred section 1602(b) of Pub. L. 113–66 to this section, inserted it as the first subsection of this section, designated it as subsec. (a), substituted “Limitation” for “Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments” in heading, and struck out par. (6). Prior to amendment, text of par. (6) read as follows: “Effective on the date that is five years after the date of the enactment of this Act, paragraphs (1) through (5) are repealed.” See Codification note above.

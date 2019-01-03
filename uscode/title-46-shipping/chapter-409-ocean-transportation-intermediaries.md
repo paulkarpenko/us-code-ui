@@ -8,9 +8,11 @@ source: >-
 ---
 <a id="section-40901"></a>
 ## § 40901. License requirement
-**(a) In General.—** A person in the United States may not act as an ocean transportation intermediary unless the person holds an ocean transportation intermediary’s license issued by the Federal Maritime Commission. The Commission shall issue a license to a person that the Commission determines to be qualified by experience and character to act as an ocean transportation intermediary.
+**(a) In General.—** A person in the United States may not advertise, hold oneself out, or act as an ocean transportation intermediary unless the person holds an ocean transportation intermediary’s license issued by the Federal Maritime Commission. The Commission shall issue a license to a person that the Commission determines to be qualified by experience and character to act as an ocean transportation intermediary.
 
 **(b) Exception.—** A person whose primary business is the sale of merchandise may forward shipments of the merchandise for its own account without an ocean transportation intermediary’s license.
+
+**(c) Applicability.—** Subsection (a) and section 40902 do not apply to a person that performs ocean transportation intermediary services on behalf of an ocean transportation intermediary for which it is a disclosed agent.
 
 ### Statutory Notes
 
@@ -20,10 +22,15 @@ source: >-
 | 40901(a) | 46 App.:1718(a). | Pub. L. 98–237, § 19(a), (d), Mar. 20, 1984, 98 Stat. 87, 88; Pub. L. 105–258, title I, § 116, Oct. 14, 1998, 112 Stat. 1912. |
 | 40901(b) | 46 App.:1718(d). |  |
 
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–282, § 707(a), inserted “advertise, hold oneself out, or” after “may not”.
+
+Subsec. (c). Pub. L. 115–282, § 707(b), added subsec. (c).
+
 
 <a id="section-40902"></a>
 ## § 40902. Financial responsibility
-**(a) In General.—** A person may not act as an ocean transportation intermediary unless the person furnishes a bond, proof of insurance, or other surety—
+**(a) In General.—** A person may not advertise, hold oneself out, or act as an ocean transportation intermediary unless the person furnishes a bond, proof of insurance, or other surety—
 
 (1) in a form and amount determined by the Federal Maritime Commission to insure financial responsibility; and
 
@@ -53,6 +60,9 @@ source: >-
 | 40902 | 46 App.:1718(b). | Pub. L. 98–237, § 19(b), Mar. 20, 1984; added Pub. L. 105–258, title I, § 116(4), Oct. 14, 1998, 112 Stat. 1913. |
 
 In subsection (b), in paragraphs (2) and (3), the words “described in section 1702(17) of this Appendix” are omitted as unnecessary.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–282 inserted “advertise, hold oneself out, or” after “may not” in introductory provisions.
 
 
 <a id="section-40903"></a>

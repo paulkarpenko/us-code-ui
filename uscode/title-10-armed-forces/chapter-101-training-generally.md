@@ -197,13 +197,13 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and rede
 
 (2) that if such person fails to complete the education requirements specified in the agreement, such person will serve on active duty for a period specified in the agreement;
 
-(3) that if such person does not complete the period of active duty specified in the agreement, or does not fulfill any term or condition prescribed pursuant to paragraph (4), such person shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim); and
+(3) that if such person does not complete the period of active duty specified in the agreement, or does not fulfill any term or condition prescribed pursuant to paragraph (4), such person shall be subject to the repayment provisions of section 303a(e) or 373 of title 37; and
 
 (4) to such other terms and conditions as the Secretary concerned may prescribe to protect the interest of the United States.
 
 **(b)** The Secretary concerned shall determine the period of active duty to be served by any person for advanced education assistance to be provided such person by an armed force, except that if the period of active duty required to be served is specified under another provision of law with respect to the advanced education assistance to be provided, the period specified in the agreement referred to in subsection (a) shall be the same as the period specified in such other provision of law.
 
-**(c)** As a condition of the Secretary concerned providing financial assistance under section 2107 or 2107a of this title to any person, the Secretary concerned shall require that the person enter into the agreement described in subsection (a). In addition to the requirements of paragraphs (1) through (4) of such subsection, the agreement shall specify that, if the person does not complete the education requirements specified in the agreement or does not fulfill any term or condition prescribed pursuant to paragraph (4) of such subsection, the person shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim) without the Secretary first ordering such person to active duty as provided for under subsection (a)(2) and sections 2107(f) and 2107a(f) of this title.
+**(c)** As a condition of the Secretary concerned providing financial assistance under section 2107 or 2107a of this title to any person, the Secretary concerned shall require that the person enter into the agreement described in subsection (a). In addition to the requirements of paragraphs (1) through (4) of such subsection, the agreement shall specify that, if the person does not complete the education requirements specified in the agreement or does not fulfill any term or condition prescribed pursuant to paragraph (4) of such subsection, the person shall be subject to the repayment provisions of section 303a(e) or 373 of title 37 without the Secretary first ordering such person to active duty as provided for under subsection (a)(2) and sections 2107(f) and 2107a(f) of this title.
 
 **(d)** In this section:
 
@@ -216,6 +216,8 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and rede
 ### Statutory Notes
 
 #### Amendments
+2017—Subsecs. (a)(3), (c). Pub. L. 115–91 inserted “or 373” before “of title 37”.
+
 2006—Subsec. (a)(3). Pub. L. 109–163, § 687(c)(2)(A), added par. (3) and struck out former par. (3) which read as follows: “that if such person, voluntarily or because of misconduct, fails to complete the period of active duty specified in the agreement, or fails to fulfill any term or condition prescribed pursuant to clause (4), such person will reimburse the United States in an amount that bears the same ratio to the total cost of advanced education provided such person as the unserved portion of active duty bears to the total period of active duty such person agreed to serve; and”.
 
 Subsecs. (c) to (h). Pub. L. 109–163, § 687(c)(2)(B)–(D), added subsec. (c), redesignated former subsec. (e) as (d), and struck out former subsecs. (c), (d), and (f) to (h) relating to the obligation to reimburse the United States under an advanced education assistance agreement in subsec. (c), the effect of a discharge in bankruptcy under title 11 in subsec. (d), requirements for providing financial assistance in subsec. (f), failure to complete a period of active duty specified in an agreement in subsec. (g), and modification of agreements by the Secretary concerned in subsec. (h).
@@ -405,7 +407,7 @@ Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed t
 
 (2) was not an eligible program described in subsection (a) at any time during the most recent two-year period;
 
-(3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under the such 11 So in original. programs or authorities; and
+(3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under such programs or authorities; and
 
 (4) the institution providing the program does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
 
@@ -428,6 +430,8 @@ Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed t
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–232 substituted “such programs” for “the such programs”.
+
 2015—Subsec. (a). Pub. L. 114–92 substituted “August 1” for “August, 1” in introductory provisions.
 
 #### Effective Date
@@ -470,9 +474,9 @@ Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, prov
 
 **(e)**
 
-(1) If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+(1) If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(2) If a member of the Ready Reserve who enters into an agreement under subsection (c) does not complete the period of service specified in the agreement, the member shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+(2) If a member of the Ready Reserve who enters into an agreement under subsection (c) does not complete the period of service specified in the agreement, the member shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security.
 
@@ -544,6 +548,8 @@ July 13, 1955, ch. 358, title VI, § 628, 69 Stat. 320.
 June 30, 1954, ch. 432, title VII, § 730, 68 Stat. 355.
 
 #### Amendments
+2017—Subsec. (e). Pub. L. 115–91 inserted “or 373” before “of title 37” in pars. (1) and (2).
+
 2008—Subsec. (a). Pub. L. 110–181, § 521(a), substituted “Subject to subsections (b) and (c), the Secretary concerned” for “Subject to subsection (b), the Secretary of a military department”.
 
 Subsec. (b)(1). Pub. L. 110–181, § 521(b)(1), struck out “or full-time National Guard duty” after “active duty” in two places, inserted “(other than a member of the Ready Reserve)” after “commissioned officer on active duty”, and substituted “the Secretary concerned” for “the Secretary of the military department”.
@@ -905,11 +911,7 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 2493,
 
 <a id="section-2015"></a>
 ## § 2015. Program to assist members in obtaining professional credentials
-**(a) Program Required.—** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials related to military training and skills that—
-
-(1) are acquired during service in the armed forces; and
-
-(2) translate into civilian occupations.
+**(a) Program Required.—** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials that translate into civilian occupations.
 
 **(b) Payment of Expenses.—**
 
@@ -959,6 +961,12 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 2493,
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 substituted “that translate into civilian occupations.” for “related to military training and skills that—
+
+“(1) are acquired during service in the armed forces; and
+
+“(2) translate into civilian occupations.”
+
 2016—Subsec. (a)(1). Pub. L. 114–328, § 561(a), struck out “incident to the performance of their military duties” after “in the armed forces”.
 
 Subsec. (c)(1). Pub. L. 114–328, § 561(b)(1), substituted “meets one of the requirements specified in paragraph (2).” for “is accredited by an accreditation body that meets the requirements specified in paragraph (2).”
@@ -982,6 +990,9 @@ Subsec. (c)(2). Pub. L. 114–328, § 561(b)(2), added par. (2) and struck out f
 2015—Subsecs. (c) to (e). Pub. L. 114–92 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 2014—Pub. L. 113–291 amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
+
+#### Pilot Program on Earning by Special Operations Forces Medics of Credit Toward a Physician Assistant Degree
+Pub. L. 115–232, div. A, title VII, § 735, Aug. 13, 2018, 132 Stat. 1819, provided that: “(a) In General.—The Assistant Secretary of Defense for Health Affairs may conduct a pilot program to assess the feasibility and advisability of partnerships between special operations forces and institutions of higher education, and health care systems if determined appropriate by the Assistant Secretary for purposes of the pilot program, through which special operations forces medics earn credit toward the master’s degree of physician assistant for military operational work and training performed by the medics. “(b) Duration.—The Assistant Secretary shall conduct the pilot program for a period not to exceed five years. “(c) Clinical Training.—Partnerships under subsection (a) shall permit medics participating in the pilot program to conduct clinical training at medical facilities of the Department of Defense and the civilian sector. “(d) Evaluation.—The evaluation of work and training performed by medics for which credits are earned under the pilot program shall comply with civilian clinical evaluation standards applicable to the awarding of the master’s degree of physician assistant. “(e) Reports.—“(1) Initial report.—Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program that shall include the following:“(A) A comprehensive framework for the military education to be provided to special operations forces medics under the pilot program, including courses of instruction at institutions of higher education and any health care systems participating in the pilot program. “(B) Metrics to be used to assess the effectiveness of the pilot program. “(C) A description of the mechanisms to be used by the Department, medics, or both to cover the costs of education received by medics under the pilot program through institutions of higher education or health care systems, including payment by the Department in return for a military service commitment, tuition or other educational assistance by the Department, use by medics of post-9/11 educational assistance available through the Department of Veterans Affairs, and any other mechanisms the Secretary considers appropriate for purposes of the pilot program. “(2) Final report.—Not later than 180 days after completion of the pilot program, the Secretary shall submit to the committees of Congress referred to in paragraph (1) a final report on the pilot program. The report shall include the following:“(A) An evaluation of the pilot program using the metrics of assessment set forth pursuant to paragraph (1)(B). “(B) An assessment of the utility of the funding mechanisms set forth pursuant to paragraph (1)(C). “(C) An assessment of the effects of the pilot program on recruitment and retention of medics for special operations forces. “(D) An assessment of the feasibility and advisability of extending one or more authorities for joint professional military education under chapter 107 of title 10, United States Code, to warrant officers or enlisted personnel, and if the Secretary considers the extension of any such authorities feasible and advisable, recommendations for legislative or administrative action to so extend such authorities. “(f) Construction of Authorities.—Nothing in this section may be construed to—“(1) authorize an officer or employee of the Federal Government to create, endorse, or otherwise incentivize a particular curriculum or degree track; or “(2) require, direct, review, or control a State or educational institution, or the instructional content, curriculum, and related activities of a State or educational institution.”
 
 #### Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses
 Pub. L. 113–66, div. A, title V, § 542, Dec. 26, 2013, 127 Stat. 762, provided that: “(a) Improvement of Information Available to Members of the Armed Forces About Correlation.—“(1) In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable, make information on civilian credentialing opportunities available to members of the Armed Forces beginning with, and at every stage of, training of members for military occupational specialties, in order to permit members—“(A) to evaluate the extent to which such training correlates with the skills and training required in connection with various civilian certifications and licenses; and “(B) to assess the suitability of such training for obtaining or pursuing such civilian certifications and licenses. “(2) Coordination with transition goals plans success program.—Information shall be made available under paragraph (1) in a manner consistent with the Transition Goals Plans Success (GPS) program. “(3) Types of information.—The information made available under paragraph (1) shall include, but not be limited to, the following:“(A) Information on the civilian occupational equivalents of military occupational specialties (MOS). “(B) Information on civilian license or certification requirements, including examination requirements. “(C) Information on the availability and opportunities for use of educational benefits available to members of the Armed Forces, as appropriate, corresponding training, or continuing education that leads to a certification exam in order to provide a pathway to credentialing opportunities. “(4) Use and adaptation of certain programs.—In making information available under paragraph (1), the Secretaries of the military departments may use and adapt appropriate portions of the Credentialing Opportunities On-Line (COOL) programs of the Army and the Navy and the Credentialing and Educational Research Tool (CERT) of the Air Force. “(b) Improvement of Access of Accredited Civilian Credentialing and Related Entities to Military Training Content.—“(1) In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as military course training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed. “(2) Entities.—The entities specified in this paragraph are the following:“(A) Civilian credentialing agencies. “(B) Entities approved by the Secretary of Veterans Affairs, or by State approving agencies, for purposes of the use of educational assistance benefits under the laws administered by the Secretary of Veterans Affairs. “(3) Central repository.—The actions taken pursuant to paragraph (1) may include the establishment of a central repository of information on training and training materials provided members in connection with military occupational specialities that is readily accessible by entities specified in paragraph (2) in order to meet requests described in paragraph (1).”

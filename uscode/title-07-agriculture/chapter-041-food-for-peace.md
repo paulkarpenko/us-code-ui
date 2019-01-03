@@ -2,7 +2,7 @@
 title: 7
 chapter: '41'
 heading: FOOD FOR PEACE
-section_count: 88
+section_count: 89
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -1009,7 +1009,7 @@ Program under this subchapter to provide for donation of agricultural commoditie
 
 (6) periodically evaluate the effectiveness of projects undertaken under this subchapter.
 
-**(g) Labeling** Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
+**(g) Labeling of assistance** Agricultural commodities and other assistance provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such agricultural commodities or food procured outside of the United States, or on printed material that accompanies other assistance, in the language of the locality in which such commodities and other assistance are distributed, as being furnished by the people of the United States of America.
 
 **(h) Food aid quality**
 
@@ -1037,11 +1037,15 @@ Program under this subchapter to provide for donation of agricultural commoditie
 
   (C) shall consult with the Food Aid Consultative Group on how to carry out this subsection.
 
-(3) **Funding limitation** — Of the funds made available under [section 1726a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1726a/f&num=0&edition=prelim),11 So in original. The comma probably should not appear. for fiscal years 2014 through 2018, not more than $4,500,000 may be used to carry out this subsection.
+(3) **Funding limitation** — Of the funds made available under [section 1726a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1726a/f&num=0&edition=prelim),11 So in original. The comma probably should not appear. for fiscal years 2014 through 2023, not more than $4,500,000 may be used to carry out this subsection.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–334, § 3101, amended subsec. (g) generally. Prior to amendment, text read as follows: “Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.”
+
+Subsec. (h)(3). Pub. L. 115–334, § 3102, substituted “2023” for “2018”.
+
 2014—Subsec. (e)(1). Pub. L. 113–79, § 3002(1)(A), substituted “20 percent” for “13 percent” in introductory provisions.
 
 Subsec. (e)(1)(A). Pub. L. 113–79, § 3002(1)(B), substituted “and enhancing” for “new”.
@@ -1119,10 +1123,10 @@ Subsec. (b). Pub. L. 95–88, § 207(3), added subsec. (b).
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
-#### Effective Date of 1990 Amendments
+#### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 940d of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-940d).
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 1994 of this title](./chapter-050-agricultural-credit.md#section-1994).
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151–1&num=0&edition=prelim), Foreign Relations and Intercourse.
@@ -1145,13 +1149,11 @@ Pub. L. 86–472, ch. VI, § 601(a)(2), May 14, 1960, 74 Stat. 140, which provid
 
 <a id="section-1725"></a>
 ## § 1725. Generation and use of currencies by private voluntary organizations and cooperatives
-**(a) Local sale and barter of commodities** An agreement entered into between the Administrator and a private voluntary organization or cooperative to provide food assistance through such organization or cooperative under this subchapter may provide for the sale or barter in 1 or more recipient countries, or 1 or more countries in the same region, of the commodities to be provided under such agreement.
+**(a) Local sale and barter of commodities** An agreement entered into between the Administrator and a private voluntary organization or cooperative to provide food assistance through such organization or cooperative under this subchapter may provide for the sale or barter in 1 or more recipient countries, or 1 or more countries in the same region, of the commodities to be provided under such agreement to generate proceeds to be used as provided in this section.
 
-**(b) Minimum level of local sales** In carrying out agreements of the type referred to in subsection (a), the Administrator shall permit private voluntary organizations and cooperatives to sell, in 1 or more recipient countries, or in 1 or more countries in the same region, an amount of commodities equal to not less than 15 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate proceeds to be used as provided in this section.
+**(b) Description of intended uses** A private voluntary organization or cooperative submitting a proposal to enter into a non-emergency food assistance agreement under this subchapter shall include in such proposal a description of the intended uses of any proceeds that may be generated through the sale, in 1 or more recipient countries, or in 1 or more countries in the same region, of any commodities provided under an agreement entered into between the Administrator and the organization or cooperative.
 
-**(c) Description of intended uses** A private voluntary organization or cooperative submitting a proposal to enter into a non-emergency food assistance agreement under this subchapter shall include in such proposal a description of the intended uses of any proceeds that may be generated through the sale, in 1 or more recipient countries, or in 1 or more countries in the same region, of any commodities provided under an agreement entered into between the Administrator and the organization or cooperative.
-
-**(d) Use** Proceeds generated from any partial or full sale or barter of commodities by a private voluntary organization or cooperative under a non-emergency food assistance agreement under this subchapter may—
+**(c) Use** Proceeds generated from any partial or full sale or barter of commodities by a private voluntary organization or cooperative under a non-emergency food assistance agreement under this subchapter may—
 
 (1) be used to transport, store, distribute, and otherwise enhance the effectiveness of the use of agricultural commodities provided under this subchapter;
 
@@ -1162,6 +1164,10 @@ Pub. L. 86–472, ch. VI, § 601(a)(2), May 14, 1960, 74 Stat. 140, which provid
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 3103(1), inserted “to generate proceeds to be used as provided in this section” before period at end.
+
+Subsecs. (b) to (d). Pub. L. 115–334, § 3103(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “In carrying out agreements of the type referred to in subsection (a), the Administrator shall permit private voluntary organizations and cooperatives to sell, in 1 or more recipient countries, or in 1 or more countries in the same region, an amount of commodities equal to not less than 15 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate proceeds to be used as provided in this section.”
+
 2008—Subsec. (b). Pub. L. 110–246 inserted “in” before “1 or more recipient countries”.
 
 2002—Pub. L. 107–171, § 3003(1), struck out “foreign” before “currencies” in section catchline.
@@ -1229,9 +1235,9 @@ Pub. L. 86–341, title I, § 3, Sept. 21, 1959, 73 Stat. 606, provided that the
 ## § 1726. Levels of assistance
 **(a) Minimum levels**
 
-(1) **Minimum assistance** — Except as provided in paragraph (3), the Administrator shall make agricultural commodities available for food distribution under this subchapter in an amount that for each of fiscal years 2008 through 2018 is not less than 2,500,000 metric tons.
+(1) **Minimum assistance** — Except as provided in paragraph (3), the Administrator shall make agricultural commodities available for food distribution under this subchapter in an amount that for each of fiscal years 2008 through 2023 is not less than 2,500,000 metric tons.
 
-(2) **Minimum non-emergency assistance** — Of the amounts specified in paragraph (1), and except as provided in paragraph (3), the Administrator shall make agricultural commodities available for non-emergency food distribution through eligible organizations under [section 1722 of this title](./chapter-041-food-for-peace.md#section-1722) in an amount that for each of fiscal years 2008 through 2018 is not less than 1,875,000 metric tons.
+(2) **Minimum non-emergency assistance** — Of the amounts specified in paragraph (1), and except as provided in paragraph (3), the Administrator shall make agricultural commodities available for non-emergency food distribution through eligible organizations under [section 1722 of this title](./chapter-041-food-for-peace.md#section-1722) in an amount that for each of fiscal years 2008 through 2023 is not less than 1,875,000 metric tons.
 
 (3) **Exception** — The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
 
@@ -1244,6 +1250,8 @@ Pub. L. 86–341, title I, § 3, Sept. 21, 1959, 73 Stat. 606, provided that the
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1), (2). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (a)(1), (2). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Subsec. (a)(1), (2). Pub. L. 110–246 substituted “2008 through 2012” for “2002 through 2007”.
@@ -1332,7 +1340,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 (1) the Administrator;
 
-(2) the Under Secretary of Agriculture for Farm and Foreign Agricultural Services;
+(2) the Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs;
 
 (3) the Inspector General of the Agency for International Development;
 
@@ -1350,13 +1358,13 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 **(d) Consultations**
 
-(1) **Consultation in advance of issuance of implementation regulations, handbooks, and guidelines** — Not later than 45 days before a proposed regulation, handbook, or guideline implementing this subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment. The Administrator shall consult and, when appropriate (but at least twice per year), meet with the Group regarding such proposed regulations, handbooks, guidelines, or revisions thereto prior to the issuance of such.
+(1) **Consultation in advance of issuance of implementation regulations, handbooks, and guidelines** — Not later than 30 days before a proposed regulation, handbook, or guideline implementing this subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment. The Administrator shall consult and, when appropriate (but at least twice per year), meet with the Group regarding such proposed regulations, handbooks, guidelines, or revisions thereto prior to the issuance of such.
 
 (2) **Consultation regarding food aid quality efforts** — The Administrator shall seek input from and consult with the Group on the implementation of [section 1722(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1722/h&num=0&edition=prelim).
 
 **(e) Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Group.
 
-**(f) Termination** The Group shall terminate on December 31, 2018.
+**(f) Termination** The Group shall terminate on December 31, 2023.
 
 ### Statutory Notes
 
@@ -1364,6 +1372,12 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–334, § 12405(c), substituted “Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
+
+Subsec. (d)(1). Pub. L. 115–334, § 3105(1), substituted “30 days” for “45 days”.
+
+Subsec. (f). Pub. L. 115–334, § 3105(2), substituted “2023” for “2018”.
+
 2014—Subsec. (b)(7), (8). Pub. L. 113–79, § 3005(a), added par. (7) and redesignated former par. (7) as (8).
 
 Subsec. (d). Pub. L. 113–79, § 3005(b), designated existing provisions as par. (1), substituted “Not later than 45 days before a proposed regulation, handbook, or guideline implementing this subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment.” for “In preparing regulations, handbooks, or guidelines implementing this subchapter, or significant revisions thereto, the Administrator shall provide such proposals to the Group for review and comment.”, and added par. (2).
@@ -1426,7 +1440,7 @@ Section, act July 10, 1954, ch. 469, title II, § 206, as added Pub. L. 94–161
 
 **(c) Regulations and guidance**
 
-(1) **In general** — The Administrator shall promptly issue all necessary regulations and make revisions to agency guidelines with respect to changes in the operation or implementation of the program established under this subchapter. Not later than 270 days after the date of the enactment of the Agricultural Act of 2014, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.
+(1) **In general** — The Administrator shall promptly issue all necessary regulations and make revisions to agency guidelines with respect to changes in the operation or implementation of the program established under this subchapter. Not later than 270 days after the date of the enactment of the Agriculture Improvement Act of 2018, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.
 
 (2) **Requirements** — The Administrator shall develop regulations and guidance with the intent of—
 
@@ -1474,13 +1488,13 @@ Section, act July 10, 1954, ch. 469, title II, § 206, as added Pub. L. 94–161
 
 (4) **Funding**
 
-  (A) *In general* — Subject to [section 1722(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1722/h/3&num=0&edition=prelim), in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $17,000,000 of the funds made available under this subchapter for each of fiscal years 2014 through 2018, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2018.
+  (A) *In general* — Subject to [section 1722(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1722/h/3&num=0&edition=prelim), in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to 1.5 percent, but not less than $17,000,000, of the funds made available under this subchapter for each of fiscal years 2014 through 2023, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2023.
 
   (B) *Limitations*
 
-    (i) *In general* — Subject to clause (ii), of the funds made available under subparagraph (A), for each of fiscal years 2009 through 2018, not more than $8,000,000 may be used by the Administrator to carry out paragraph (2)(E).
+    (i) *In general* — Subject to clause (ii), of the funds made available under subparagraph (A), for each of fiscal years 2009 through 2023, not more than $8,000,000 may be used by the Administrator to carry out paragraph (2)(E).
 
-    (ii) *Condition* — No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under chapter 1 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) et seq.) for such purposes for such fiscal year.
+    (ii) *Condition* — No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) et seq.) for such purposes for such fiscal year.
 
 **(g) Project reporting**
 
@@ -1491,11 +1505,19 @@ Section, act July 10, 1954, ch. 469, title II, § 206, as added Pub. L. 94–161
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 2014, referred to in subsec. (c)(1), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
+The Agriculture Improvement Act of 2018 and such Act, referred to in subsec. (c)(1), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (f)(4)(B)(ii), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I of the Act is classified generally to part I (§ 2151 et seq.) of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (f)(4)(B)(ii), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–334, § 3106, substituted “the Agriculture Improvement Act of 2018” for “the Agricultural Act of 2014”.
+
+Subsec. (f)(4)(A). Pub. L. 115–334, § 3107(1), substituted “1.5 percent, but not less than $17,000,000,” for “$17,000,000” and “2023” for “2018” in two places.
+
+Subsec. (f)(4)(B)(i). Pub. L. 115–334, § 3107(2)(A), substituted “2023” for “2018”.
+
+Subsec. (f)(4)(B)(ii). Pub. L. 115–334, § 3107(2)(B), struck out “chapter 1 of part I of” before “the Foreign Assistance Act of 1961”.
+
 2014—Subsec. (c). Pub. L. 113–79, § 3006(a)(1), inserted “and guidance” after “Regulations” in heading.
 
 Subsec. (c)(1). Pub. L. 113–79, § 3006(a)(2), inserted at end “Not later than 270 days after the date of the enactment of the Agricultural Act of 2014, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.”
@@ -1563,7 +1585,7 @@ Pub. L. 99–198, title XI, § 1104(b), Dec. 23, 1985, 99 Stat. 1466, as amended
 
 
 <a id="section-1727"></a>
-## § 1727. Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods
+## § 1727. International food relief partnership
 **(a) In general** The Administrator may provide grants to—
 
 (1) United States nonprofit organizations (described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim)) for the preparation of shelf-stable prepackaged foods requested by eligible organizations and the establishment and maintenance of stockpiles of the foods in the United States; and
@@ -1589,7 +1611,7 @@ Pub. L. 99–198, title XI, § 1104(b), Dec. 23, 1985, 99 Stat. 1466, as amended
 
 **(e) Regulations or guidelines** Not later than 180 days after November 9, 2000, the Administrator, in consultation with the Secretary, shall issue such regulations or guidelines as the Administrator determines to be necessary to carry out this section, including regulations or guidelines that provide to United States nonprofit organizations eligible to receive grants under subsection (a)(1) guidance with respect to the requirements for qualified shelf-stable prepackaged foods and the quantity of the foods to be stockpiled by the organizations.
 
-**(f) Authorization of appropriations** There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+**(f) Authorization of appropriations** There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
 
 ### Statutory Notes
 
@@ -1597,6 +1619,10 @@ Pub. L. 99–198, title XI, § 1104(b), Dec. 23, 1985, 99 Stat. 1466, as amended
 A prior section 1726b, act July 10, 1954, ch. 469, title II, § 208, as added Dec. 22, 1987, Pub. L. 100–202, § 15, 101 Stat. 1329–449, which related to periods for review of proposals for famine relief and promulgation of guidelines for such proposals, was omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
 
 #### Amendments
+2018—Pub. L. 115–334, § 3108(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods”.
+
+Subsec. (f). Pub. L. 115–334, § 3108(2), substituted “2023” for “2018”.
+
 2014—Subsec. (f). Pub. L. 113–79 substituted “$10,000,000 for each of fiscal years 2014 through 2018” for “$8,000,000 for each of fiscal years 2001 through 2012”.
 
 2008—Subsec. (f). Pub. L. 110–246 substituted “$8,000,000” for “$3,000,000” and “2012” for “2007”.
@@ -1699,7 +1725,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **(e) Funding**
 
-(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $80,000,000 for each of fiscal years 2014 through 2018.
+(1) **Authorization of appropriations** — There is authorized to be appropriated to the Secretary to carry out this section $80,000,000 for each of fiscal years 2019 through 2023.
 
 (2) **Preference** — In carrying out this section, the Secretary may give a preference to eligible organizations that have, or are working toward, projects under the McGovern-Dole International Food for Education and Child Nutrition Program established under section 1736o–1 of this title.
 
@@ -1719,6 +1745,8 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Food for Peace Act which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (e)(1). Pub. L. 115–334 inserted “to the Secretary” after “appropriated” and substituted “2019 through 2023” for “2014 through 2018”.
+
 2014—Subsec. (b). Pub. L. 113–79, § 3207(1)(A), (B), substituted “Field-based projects” for “Study; field-based projects” in heading, struck out par. (2) designation and heading, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and struck out former par. (1) which required a study of prior local and regional procurements for food aid programs and a report to Congress.
 
 Subsec. (b)(1). Pub. L. 113–79, § 3207(1)(C), substituted “paragraph (2)” for “subparagraph (B)”.
@@ -2197,13 +2225,13 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 <a id="section-1735"></a>
 ## § 1735. General provisions
-**(a) Prohibition** No agricultural commodity shall be made available under this chapter unless it is determined that—
+**(a) Prohibition** No agricultural commodity, food procured outside of the United States, food voucher, or cash transfer for food shall be made available under this chapter unless it is determined that—
 
-(1) adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
+(1) in the case of the provision of an agricultural commodity, adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
 
-(2) the distribution of the commodity in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
+(2) the distribution of the agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
 
-**(b) Impact on local farmers and economy** The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country.
+**(b) Impact on local farmers and economy** The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities, the use of food procured outside of the United States, food vouchers, and cash transfers for food, and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy within the recipient country.
 
 **(c) Transshipment** The Secretary or the Administrator, as appropriate, shall, under such terms and conditions as are determined to be appropriate, require commitments designed to prevent or restrict the resale or transshipment to other countries, or use for other than domestic purposes, of agricultural commodities donated or purchased under this chapter.
 
@@ -2274,34 +2302,22 @@ Small businesses shall be provided adequate and fair opportunity to participate 
 
 (2) **Currency** — A sale described in paragraph (1) may be made in United States dollars or other currencies.
 
-**(m) Report on use of funds**
-
-(1) **Report required** — Not later than 180 days after February 7, 2014, and annually thereafter, the Administrator shall submit to Congress a report that—
-
-  (A) specifies the amount of funds (including funds for administrative costs, indirect cost recovery, internal transportation, storage, and handling, and associated distribution costs) provided to each eligible organization that received assistance under this chapter in the previous fiscal year;
-
-  (B) describes how those funds were used by the eligible organization;
-
-  (C) describes the actual rate of return for each commodity made available under this chapter, including—
-
-    (i) factors that influenced the rate of return; and
-
-    (ii) for the commodity, the costs of bagging or further processing, ocean transportation, inland transportation in the recipient country, storage costs, and any other information that the Administrator determines to be necessary; and
-
-  (D) for each instance in which a commodity was made available under this chapter at a rate of return less than 70 percent, describes the reasons for the rate of return realized.
-
-(2) **Rate of return described** — For purposes of applying paragraph (1)(C), the rate of return for a commodity shall be equal to the proportion that—
-
-  (A) the proceeds the implementing partners generate through monetization; bears to
-
-  (B) the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.
-
 ### Statutory Notes
 
 #### References in Text
 The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736o of this title.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 3109(a)(1), inserted “, food procured outside of the United States, food voucher, or cash transfer for food” after “agricultural commodity” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 115–334, § 3109(a)(2), inserted “in the case of the provision of an agricultural commodity,” before “adequate”.
+
+Subsec. (a)(2). Pub. L. 115–334, § 3109(a)(3), substituted “agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food” for “commodity”.
+
+Subsec. (b). Pub. L. 115–334, § 3109(b), in first sentence, inserted “, the use of food procured outside of the United States, food vouchers, and cash transfers for food,” after “agricultural commodities” and, in second sentence, struck out “of sales of agricultural commodities” after “benefits to the local economy”.
+
+Subsec. (m). Pub. L. 115–334, § 3112(b), struck out subsec. (m) which related to annual report on use of funds.
+
 2014—Subsec. (b). Pub. L. 113–79, § 3008(a), inserted at end “The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country.”
 
 Subsec. (m). Pub. L. 113–79, § 3008(b), added subsec. (m).
@@ -2439,7 +2455,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
   (D) of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports;
 
-(6) in the case of commodities for urgent and extraordinary relief requirements (including pre-positioned commodities) the transportation costs incurred in moving the commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs; and
+(6) in the case of commodities for urgent and extraordinary relief requirements (including pre-positioned commodities) the transportation costs incurred in moving the commodities from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage, distribution, and program implementation costs to use the commodities; and
 
 (7) the charges for general average contributions arising out of the ocean transport of commodities transferred pursuant thereto.
 
@@ -2450,6 +2466,8 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(6). Pub. L. 115–334 substituted “storage, distribution, and program implementation costs to use the commodities” for “storage and distribution costs”.
+
 2008—Subsec. (a). Pub. L. 110–246, § 3014(b)(1), struck out “(that have been determined to be available under [section 1731(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1731/a&num=0&edition=prelim))” after “commodities”.
 
 Subsec. (b)(2). Pub. L. 110–246, § 3016, inserted “, including the costs of carrying out [section 1736g–2 of this title](./chapter-041-food-for-peace.md#section-1736g-2)” before semicolon at end.
@@ -2482,7 +2500,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 #### Effective Date of 1990 Amendments
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 940d of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-940d).
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 1994 of this title](./chapter-050-agricultural-credit.md#section-1994).
 
 #### Effective Date of 1966 Amendment
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
@@ -2552,14 +2570,14 @@ It is hereby declared to be the policy of the United States—
 
 (2) not to restrict or limit the export of such commodities and products except under the most compelling circumstances;
 
-(3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.]; and
+(3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act; and
 
 (4) that contracts for the export of such commodities or products entered into before the imposition of any prohibition or limitation on the export of such commodities or products should not be abrogated.
 
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act, referred to in par. (3), probably means the Export Administration Act of 1979, Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act, referred to in par. (3), probably means the Export Administration Act of 1979, Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 #### Codification
 Section is comprised of section 1133(a) of Pub. L. 99–198. Section 1133(b) of Pub. L. 99–198 amended [section 1736j of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736j&num=0&edition=prelim).
@@ -2613,7 +2631,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 (4) **Prepositioning**
 
-  (A) *In general* — Funds made available for fiscal years 2001 through 2018 to carry out subchapters III and III-A may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+  (A) *In general* — Funds made available for fiscal years 2001 through 2023 to carry out subchapters III and III-A may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2023 not more than $15,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
   (B) *Additional prepositioning sites* — The Administrator may establish additional sites for prepositioning in foreign countries or change the location of current sites for prepositioning in foreign countries after conducting, and based on the results of, assessments of need, the availability of appropriate technology for long-term storage, feasibility, and cost.
 
@@ -2632,57 +2650,67 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 (2) 60 days after the date of enactment of the annual Rural Development, Agriculture, and Related Agencies Appropriations Act for the first fiscal year in which agricultural commodities are to be shipped under the agreement,
 whichever is later.
 
-**(f) Annual reports**
+**(f) Annual report regarding food aid programs and activities**
 
-(1) **Annual report regarding food aid programs and activities**
+(1) **Annual report** — Not later than April 1 of each fiscal year, the Administrator and the Secretary shall jointly, or each separately, prepare and submit to the appropriate committees of Congress a report regarding each program and activity carried out under this chapter by the Administrator, the Secretary, or both, as applicable, during the prior fiscal year.
 
-  (A) *Annual report* — Not later than April 1 of each fiscal year, the Administrator and the Secretary shall jointly prepare and submit to the appropriate committees of Congress a report regarding each program and activity carried out under this chapter during the prior fiscal year.
+(2) **Contents** — An annual report described in paragraph (1) shall include, with respect to the prior fiscal year, the following:
 
-  (B) *Contents* — An annual report described in subparagraph (A) shall include, with respect to the prior fiscal year—
+  (A) A list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization).
 
-    (i) a list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization);
+  (B) A general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies) and the total number of beneficiaries of the project.
 
-    (ii) a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies) and the total number of beneficiaries of the project and the activities carried out through such project;
+  (C) A statement describing the quantity of agricultural commodities made available to, and the total number of beneficiaries in, each country pursuant to—
 
-    (iii) a statement describing the quantity of agricultural commodities made available to, and the total number of beneficiaries in, each country pursuant to—
+    (i) this chapter;
 
-      (I) [section 1431(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b&num=0&edition=prelim);
+    (ii) [section 1431(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b&num=0&edition=prelim);
 
-      (II) the Food for Progress Act of 1985 ([7 U.S.C. 1736](./chapter-041-food-for-peace.md#section-1736)o); and
+    (iii) the Food for Progress Act of 1985 ([7 U.S.C. 1736](./chapter-041-food-for-peace.md#section-1736)o); and
 
-      (III) the McGovern-Dole International Food for Education and Child Nutrition Program established by section 1736o–1 of this title;
+    (iv) the McGovern-Dole International Food for Education and Child Nutrition Program established by section 1736o–1 of this title.
 
-    (iv) an assessment of the progress made through programs under this chapter towards reducing food insecurity in the populations receiving food assistance from the United States;
+  (D) An assessment of the progress made through programs under this chapter towards reducing food insecurity in the populations receiving food assistance from the United States.
 
-    (v) a description of efforts undertaken by the Food Aid Consultative Group under [section 1725 of this title](./chapter-041-food-for-peace.md#section-1725) to achieve an integrated and effective food assistance program;
+  (E) A description of efforts undertaken by the Food Aid Consultative Group under [section 1725 of this title](./chapter-041-food-for-peace.md#section-1725) to achieve an integrated and effective food assistance program.
 
-    (vi) an assessment of—
+  (F) An assessment of—
 
-      (I) each program oversight, monitoring, and evaluation system implemented under [section 1726a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1726a/f&num=0&edition=prelim); and
+    (i) each program oversight, monitoring, and evaluation system implemented under [section 1726a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1726a/f&num=0&edition=prelim); and
 
-      (II) the impact of each program oversight, monitoring, and evaluation system on the effectiveness and efficiency of assistance provided under this subchapter; and
+    (ii) the impact of each program oversight, monitoring, and evaluation system on the effectiveness and efficiency of assistance provided under this subchapter.
 
-    (vii) an assessment of the progress made by the Administrator in addressing issues relating to quality with respect to the provision of food assistance.
+  (G) An assessment of the progress made by the Administrator in addressing issues relating to quality with respect to the provision of food assistance.
 
-(2) **Annual report regarding the provision of agricultural commodities to foreign countries**
+  (H) A statement of the amount of funds (including funds for administrative costs, indirect cost recovery, internal transportation, storage and handling, and associated distribution costs) provided to each eligible organization that received assistance under this chapter, that further describes the following:
 
-  (A) *Annual report* — Not later than February 1 of each fiscal year, the Administrator shall prepare and submit to the appropriate committees of Congress a report regarding the administration of food assistance programs under subchapter III to benefit foreign countries during the prior fiscal year.
+    (i) How such funds were used by the eligible organization.
 
-  (B) *Contents* — An annual report described in subparagraph (A) shall include, with respect to the prior fiscal year—
+    (ii) The actual rate of return for each commodity made available under this chapter, including factors that influenced the rate of return, and, for the commodity, the costs of bagging or further processing, ocean transportation, inland transportation in the recipient country, storage costs, and any other information that the Administrator and the Secretary determine to be necessary.
 
-    (i) a list that contains a description of each program, country, and commodity approved for assistance under [section 1726a of this title](./chapter-041-food-for-peace.md#section-1726a); and
+    (iii) For each instance in which a commodity was made available under this chapter at a rate of return less than 70 percent, the reasons for the rate of return realized.
 
-    (ii) a statement that contains a description of the total amount of funds approved for transportation and administrative costs under [section 1726a of this title](./chapter-041-food-for-peace.md#section-1726a).
+  (I) For funds expended for purposes of section 11 So in original. Probably should be “sections”. 1722(e), 1736(b)(6), and 1736a(c)(1)(B) of this title, a detailed accounting of the expenditures and purposes of such expenditures with respect to each such section.
+
+(3) **Rate of return described** — For purposes of applying subparagraph (H) of paragraph (2), the rate of return for a commodity shall be equal to the proportion that—
+
+  (A) the proceeds the implementing partners generate through monetization; bears to
+
+  (B) the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.
 
 ### Statutory Notes
 
 #### References in Text
-The Food for Progress Act of 1985, referred to in subsec. (f)(1)(B)(iii)(II), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
+The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C)(iii), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
 
 #### Codification
 In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2018—Subsec. (c)(4)(A). Pub. L. 115–334, § 3111, substituted “2023” for “2018” in two places.
+
+Subsec. (f). Pub. L. 115–334, § 3112(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual report regarding each program and activity carried out under this chapter and annual report regarding the administration of food assistance programs under subchapter III to benefit foreign countries.
+
 2014—Subsec. (c)(4)(A). Pub. L. 113–79, § 3009(1), substituted “2018” for “2012” and “for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds” for “for each such fiscal year not more than $10,000,000 of such funds”.
 
 Subsec. (c)(4)(B). Pub. L. 113–79, § 3009(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows:
@@ -2757,7 +2785,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 #### Effective Date of 1990 Amendments
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 940d of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-940d).
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under [section 1994 of this title](./chapter-050-agricultural-credit.md#section-1994).
 
 #### Effective Date
 Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an Effective Date of 1966 Amendment note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
@@ -2776,10 +2804,33 @@ Section 1736z, Pub. L. 99–198, title XI, § 1162, Dec. 23, 1985, 99 Stat. 1499
 Section 1736aa, Pub. L. 99–198, title XI, § 1167(d), Dec. 23, 1985, 99 Stat. 1503, provided for barter by exporters of agricultural commodities and products for foreign products needed by exporters.
 
 
+<a id="section-1736dd"></a>
+## § 1736dd. Repealed. Pub. L. 104–127, title II, § 271(a), Apr. 4, 1996, 110 Stat. 976
+
+### Statutory Notes
+
+Section 1736bb, Pub. L. 100–202, § 1, Dec. 22, 1987, 101 Stat. 1329–445; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to establishment of agricultural aid and trade missions.
+
+Section 1736bb–1, Pub. L. 100–202, § 2, Dec. 22, 1987, 101 Stat. 1329–445, related to required and additional missions and eligible countries.
+
+Section 1736bb–2, Pub. L. 100–202, § 3, Dec. 22, 1987, 101 Stat. 1329–446, related to functions of members of missions to eligible countries.
+
+Section 1736bb–3, Pub. L. 100–202, § 4, Dec. 22, 1987, 101 Stat. 1329–446; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to mission reports.
+
+Section 1736bb–4, Pub. L. 100–202, § 5, Dec. 22, 1987, 101 Stat. 1329–446; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to quarterly progress reports on implementing recommendations of missions.
+
+Section 1736bb–5, Pub. L. 100–202, § 6, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to authorization of appropriations.
+
+Section 1736bb–6, Pub. L. 100–202, § 7, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411; Pub. L. 101–624, title XV, § 1515(b), Nov. 28, 1990, 104 Stat. 3663; Pub. L. 102–237, title III, § 307, Dec. 13, 1991, 105 Stat. 1856, provided definitions for former sections 1736bb to 1736bb–6.
+
+#### Inapplicability of Federal Advisory Committee Act to Agricultural Aid and Trade Missions
+Pub. L. 100–277, § 7, Apr. 4, 1988, 102 Stat. 69, provided that any agricultural aid and trade mission established under this section and any other activity under sections 1736bb to 1736bb–6 of this title were not to be considered advisory committee for purposes of Federal Advisory Committee Act, 5 App. U.S.C., prior to repeal by Pub. L. 104–127, title II, § 271(b), Apr. 4, 1996, 110 Stat. 976.
+
+
 <a id="section-1736e"></a>
 ## § 1736e. Expiration date
 
-No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 2018.
+No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 2023.
 
 ### Statutory Notes
 
@@ -2787,6 +2838,8 @@ No agreements to finance sales or to provide other assistance under this chapter
 Provisions covering the termination date for agreements to finance sales under subchapter II and programs of assistance under subchapter III were covered by [section 1736c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736c&num=0&edition=prelim) prior to amendment of that section by Pub. L. 101–624, and by sections 1709, 1724 of this title prior to the amendment of those sections by Pub. L. 89–808.
 
 #### Amendments
+2018—Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Pub. L. 110–246 substituted “2012” for “2007”.
@@ -2917,13 +2970,20 @@ Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 
 
 **(e) Minimum level of nonemergency food assistance**
 
-(1) **In general** — Subject to paragraph (2), of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter III, not less than 20 nor more than 30 percent for each of fiscal years 2014 through 2018 shall be expended for nonemergency food assistance programs under subchapter III.
+(1) **In general** — For each of fiscal years 2019 through 2023, not less than $365,000,000 of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter II, nor more than 30 percent of such amounts, shall be expended for nonemergency food assistance programs under such subchapter.
 
-(2) **Minimum level** — The amount made available to carry out nonemergency food assistance programs under subchapter III shall not be less than $350,000,000 for any fiscal year.
+(2) **Community development funds** — Funds appropriated each year to carry out part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) et seq.) that are made available through grants or cooperative agreements to strengthen food security in developing countries and that are consistent with [section 1722(e)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1722/e/1/C&num=0&edition=prelim) may be considered amounts expended for nonemergency food assistance programs for purposes of paragraph (1).
+
+(3) **Farmer-to-farmer program** — In determining the amount expended for a fiscal year for nonemergency food assistance programs under paragraph (1), amounts expended for that year to carry out programs under [section 1737 of this title](./chapter-041-food-for-peace.md#section-1737) may be considered amounts expended for nonemergency food assistance programs.
 
 ### Statutory Notes
 
+#### References in Text
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2346&num=0&edition=prelim), and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to minimum level of nonemergency food assistance for each of fiscal years 2014 through 2018.
+
 2014—Subsec. (e). Pub. L. 113–79 amended subsec. (e) generally. Prior to amendment, subsec. (e) specified minimum amounts to be expended for nonemergency food assistance programs under subchapter III for fiscal years 2009 to 2012, provided an exception allowing the President to use less than the amount specified, and required notification to Congress if the President determined that there was an urgent need for additional emergency food assistance.
 
 2008—Subsec. (a). Pub. L. 110–246, § 3020, added subsec. (a) and struck out former subsec. (a) which authorized appropriations for programs under subchapters II, III, and III–A of this chapter.
@@ -3001,7 +3061,7 @@ Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
 
   (B) *Funds* — Any funds used to acquire eligible commodities through purchases from producers or in the market to replenish the trust shall be derived—
 
-    (i) with respect to fiscal years 2000 through 2018 from funds made available to carry out the Food for Peace Act ([7 U.S.C. 1691](./chapter-041-food-for-peace.md#section-1691) et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2), except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2018;
+    (i) with respect to fiscal years 2000 through 2023 from funds made available to carry out the Food for Peace Act ([7 U.S.C. 1691](./chapter-041-food-for-peace.md#section-1691) et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2), except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2023;
 
     (ii) from funds authorized for that use by an appropriations Act; or
 
@@ -3083,7 +3143,7 @@ Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
 
 (1) considered a part of the total domestic supply (including carryover) for the purpose of subsection (c) or for the purpose of administering the Food for Peace Act ([7 U.S.C. 1691](./chapter-041-food-for-peace.md#section-1691) et seq.); and
 
-(2) subject to any quantitative limitation on exports that may be imposed under [section 4606 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606&num=0&edition=prelim).
+(2) subject to any quantitative limitation on exports that may be imposed under section 4606 33 See References in Text note below. of title 50.
 
 **(f) Use of Commodity Credit Corporation**
 
@@ -3105,9 +3165,9 @@ Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
 
 **(h) Termination of authority**
 
-(1) **In general** — The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2018.
+(1) **In general** — The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2023.
 
-(2) **Disposal of eligible commodities** — Eligible commodities remaining in the trust after September 30, 2018, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
+(2) **Disposal of eligible commodities** — Eligible commodities remaining in the trust after September 30, 2023, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
 ### Statutory Notes
 
@@ -3115,6 +3175,8 @@ Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
 The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2578, which enacted former [section 1736f–1 of this title](./chapter-041-food-for-peace.md#section-1736f-1) and provisions set out as notes under that section, prior to the general amendment of title III by Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959.
 
 The Food for Peace Act, referred to in subsecs. (b)(2)(B)(i), (c)(1)(B), (C), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§ 1691 et seq.). Title II of the Act is classified to subchapter III (§ 1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691) and Tables.
+
+[Section 4606 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606&num=0&edition=prelim), referred to in subsec. (e)(2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -3125,6 +3187,10 @@ Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is 
 A prior section 1736f–1, Pub. L. 96–494, title III, § 302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, § 1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, § 1143, title XV, § 1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
 
 #### Amendments
+2018—Subsec. (b)(2)(B)(i). Pub. L. 115–334, § 3303(1), substituted “2023” for “2018” in two places.
+
+Subsec. (h). Pub. L. 115–334, § 3303(2), substituted “2023” for “2018” in pars. (1) and (2).
+
 2014—Subsec. (b)(2)(B)(i). Pub. L. 113–79, § 3202(1), substituted “2018” for “2012” in two places.
 
 Subsec. (h). Pub. L. 113–79, § 3202(2), substituted “2018” for “2012” in pars. (1) and (2).
@@ -3251,7 +3317,7 @@ Section effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out a
 
 **(b) Fortification** Under a program, grains and other commodities made available to a developing country selected to participate in a program may be fortified with 1 or more micronutrients (such as vitamin A, iron, iodine, and folic acid) with respect to which a substantial portion of the population in the country is deficient. The commodity may be fortified in the United States or in the developing country.
 
-**(c) Termination of authority** The authority to carry out programs established under this section shall terminate on September 30, 2018.
+**(c) Termination of authority** The authority to carry out programs established under this section shall terminate on September 30, 2023.
 
 ### Statutory Notes
 
@@ -3259,6 +3325,8 @@ Section effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out a
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (a)(2)(B). Pub. L. 113–79, § 3013(a), struck out “, using recommendations included in the report entitled ‘Micronutrient Compliance Review of Fortified Public Law 480 Commodities’, published in October 2001, with implementation by independent entities with proven experience and expertise in food aid commodity quality enhancements” before period at end.
 
 Subsec. (c). Pub. L. 113–79, § 3013(b), substituted “2018” for “2012”.
@@ -3360,7 +3428,7 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
 (3) **Developing country** — The term “developing country” has the meaning given the term in section 402 of the Food for Peace Act ([7 U.S.C. 1732](./chapter-041-food-for-peace.md#section-1732)).
 
-(4) **Eligible commodity** — The term “eligible commodity” means an agricultural commodity, or a product of an agricultural commodity, in inventories of the Corporation or acquired by the President or the Corporation for disposition through commercial purchases under a program authorized under this section.
+(4) **Eligible commodity** — The term “eligible commodity” means an agricultural commodity, or a product of an agricultural commodity, in inventories of the Corporation or acquired by the Secretary or the Corporation for disposition through commercial purchases under a program authorized under this section.
 
 (5) **Eligible entity** — The term “eligible entity” means—
 
@@ -3372,9 +3440,11 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
   (D) a nonprofit agricultural organization or cooperative;
 
-  (E) a nongovernmental organization; and
+  (E) a nongovernmental organization;
 
-  (F) any other private entity.
+  (F) a college or university (as such terms are defined in [section 3103(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103/4&num=0&edition=prelim)); and
+
+  (G) any other private entity.
 
 (6) **Food security** — The term “food security” means access by all people at all times to sufficient food and nutrition for a healthy and productive life.
 
@@ -3382,11 +3452,19 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
 (8) **Private voluntary organization** — The term “private voluntary organization” has the meaning given the term in section 402 of the Food for Peace Act ([7 U.S.C. 1732](./chapter-041-food-for-peace.md#section-1732)).
 
-(9) **Program** — The term “program” means a food assistance or development initiative proposed by an eligible entity and approved by the President under this section.
+(9) **Program** — The term “program” means a food assistance or development initiative proposed by an eligible entity and approved by the Secretary under this section.
 
-**(c) Program** In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President shall enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f).
+(10) **Rate of return** — For purposes of applying subsection (j)(3), the rate of return for an eligible commodity shall be equal to the proportion that—
 
-**(d) Consideration for agreements** In determining whether to enter into an agreement under this section, the President shall consider whether a potential recipient country is committed to carry out, or is carrying out, policies that promote economic freedom, private, domestic production of eligible commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of such eligible commodities. Such policies may provide for, among other things—
+  (A) the proceeds eligible entities generate through monetization of such commodity, bears to
+
+  (B) the cost to the Federal Government to procure and ship the commodity to the country where it is monetized.
+
+(11) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+**(c) Program** In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the Secretary shall enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f).
+
+**(d) Consideration for agreements** In determining whether to enter into an agreement under this section, the Secretary shall consider whether a potential recipient country is committed to carry out, or is carrying out, policies that promote economic freedom, private, domestic production of eligible commodities for domestic consumption, and the creation and expansion of efficient domestic markets for the purchase and sale of such eligible commodities. Such policies may provide for, among other things—
 
 (1) access, on the part of farmers in the country, to private, competitive markets for their product;
 
@@ -3402,7 +3480,7 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
 **(e) Funding of eligible commodities**
 
-(1) The Corporation shall make available to the President such eligible commodities as the President may request for purposes of furnishing eligible commodities under this section.
+(1) The Corporation shall make available to the Secretary such eligible commodities as the Secretary may request for purposes of furnishing eligible commodities under this section.
 
 (2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Food for Peace Act [[7 U.S.C. 1701](./chapter-041-food-for-peace.md#section-1701) et seq.] in carrying out this section with respect to eligible commodities made available under that Act [[7 U.S.C. 1691](./chapter-041-food-for-peace.md#section-1691)], and subsection (g) does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
 
@@ -3410,7 +3488,7 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
 (4) In the case of eligible commodities made available under the Food for Peace Act for purposes of this section, section 406 of that Act [[7 U.S.C. 1736](./chapter-041-food-for-peace.md#section-1736)] shall apply to eligible commodities furnished on a grant basis under this section and sections 402, 403(a), 403(c), and 403(i) of that Act [[7 U.S.C. 1732](./chapter-041-food-for-peace.md#section-1732), 1733(a), (c), (i)] shall apply to all eligible commodities furnished under this section.
 
-(5) **No effect on domestic programs.—** — The President shall not make an eligible commodity available for disposition under this section in any amount that will reduce the amount of the eligible commodity that is traditionally made available through donations to domestic feeding programs or agencies, as determined by the President.
+(5) **No effect on domestic programs.—** — The Secretary shall not make an eligible commodity available for disposition under this section in any amount that will reduce the amount of the eligible commodity that is traditionally made available through donations to domestic feeding programs or agencies, as determined by the Secretary.
 
 **(f) Provision of eligible commodities to developing countries**
 
@@ -3427,39 +3505,49 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
   (B) Corporation stocks are insufficient to satisfy commitments made in agreements entered into under this section and such eligible commodities are needed to fulfill such commitments.
 
-(3) No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2018 to carry out this section with respect to eligible commodities made available under [section 1431(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b&num=0&edition=prelim) unless authorized in advance in appropriation Acts.
+(3) No funds of the Corporation in excess of $40,000,000 (exclusive of the cost of eligible commodities) may be used for each of fiscal years 1996 through 2023 to carry out this section with respect to eligible commodities made available under [section 1431(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b&num=0&edition=prelim) unless authorized in advance in appropriation Acts.
 
 (4) The cost of eligible commodities made available under [section 1431(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/b&num=0&edition=prelim) which are furnished under this section, and the expenses incurred in connection with furnishing such eligible commodities, shall be in addition to the level of assistance programmed under the Food for Peace Act [[7 U.S.C. 1691](./chapter-041-food-for-peace.md#section-1691) et seq.] and may not be considered expenditures for international affairs and finance.
 
 (5) **Sale procedure.—** — In making sales of eligible eligible 11 So in original. commodities under this section, the Secretary shall follow the sale procedure described in section 403(l) of the Food for Peace Act [[7 U.S.C. 1733](./chapter-041-food-for-peace.md#section-1733)(l)].
 
-**(g) Minimum tonnage** Subject to subsection (f)(3), not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2018.
+**(g) Minimum tonnage** Subject to subsection (f)(3), not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2023.
 
 **(h) Prohibition on resale or transshipment of eligible commodities** An agreement entered into under this section shall prohibit the resale or transshipment of the eligible commodities provided under the agreement to other countries.
 
-**(i) Displacement of United States commercial sales** In entering into agreements under this section, the President shall take reasonable steps to avoid displacement of any sales of United States commodities that would otherwise be made to such countries.
+**(i) Displacement of United States commercial sales** In entering into agreements under this section, the Secretary shall take reasonable steps to avoid displacement of any sales of United States commodities that would otherwise be made to such countries.
 
 **(j) Multicountry or multiyear basis**
 
-(1) **In general** — In carrying out this section, the President, on request and subject to the availability of eligible commodities, is encouraged to approve agreements that provide for eligible commodities to be made available for distribution or sale by the recipient on a multicountry or multiyear basis if the agreements otherwise meet the requirements of this section.
+(1) **In general** — In carrying out this section, the Secretary, on request and subject to the availability of eligible commodities, is encouraged to approve agreements that provide for eligible commodities to be made available for distribution or sale by the recipient on a multicountry or multiyear basis if the agreements otherwise meet the requirements of this section.
 
-(2) **Deadline for program announcements** — Before the beginning of any fiscal year, the President shall, to the maximum extent practicable—
+(2) **Deadline for program announcements** — Before the beginning of any fiscal year, the Secretary shall, to the maximum extent practicable—
 
   (A) make all determinations concerning program agreements and resource requests for programs under this section; and
 
   (B) announce those determinations.
 
-(3) **Report** — Not later than December 1 of each fiscal year, the President shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a list of programs, countries, and eligible commodities, and the total amount of funds for transportation and administrative costs, approved to date for the fiscal year under this section.
+(3) **Report** — Not later than April 1 of each fiscal year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
 
-**(k) Effective and termination dates** This section shall be effective during the period beginning October 1, 1985, and ending December 31, 2018.
+  (A) a list of programs, countries, and eligible commodities, and the total amount of funds for transportation and administrative costs, approved during the prior fiscal year under this section;
+
+  (B) a description of the actual rate of return for each commodity made available under this section for the previous fiscal year including—
+
+    (i) factors that influenced the rate of return; and
+
+    (ii) with respect to the commodity, the costs of bagging or further processing, ocean transportation, inland transportation, storage costs, and any other information that the Secretary determines to be necessary; and
+
+  (C) for each instance in which a commodity was made available under this section at a rate of return less than 70 percent, an explanation for the rate of return realized.
+
+**(k) Effective and termination dates** This section shall be effective during the period beginning October 1, 1985, and ending December 31, 2023.
 
 **(l) Administrative expenses**
 
-(1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2018, use in addition to any amounts or eligible commodities otherwise made available under this section for such activities, not to exceed $15,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Corporation funds (or eligible commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
+(1) To enhance the development of private sector agriculture in countries receiving assistance under this section the Secretary may, in each of the fiscal years 1996 through 2023, use in addition to any amounts or eligible commodities otherwise made available under this section for such activities, not to exceed $15,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Corporation funds (or eligible commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
 
-(2) To carry out this subsection, the President may provide eligible commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such eligible commodities.
+(2) To carry out this subsection, the Secretary may provide eligible commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such eligible commodities.
 
-(3) The President may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities under paragraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
+(3) The Secretary may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities under paragraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
 
 (4) **Humanitarian or development purposes.—** — The Secretary may authorize the use of proceeds to pay the costs incurred by an eligible entity under this section for—
 
@@ -3473,7 +3561,7 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
   (C) administration, sales, monitoring, and technical assistance.
 
-**(m) Presidential approval** In carrying out this section, the President shall approve, as determined appropriate by the President, agreements with agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives that provide for—
+**(m) Secretarial approval** In carrying out this section, the Secretary shall approve, as determined appropriate by the Secretary, agreements with agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives that provide for—
 
 (1) the sale of eligible commodities, including the marketing of eligible commodities through the private sector; and
 
@@ -3481,7 +3569,7 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
 **(n) Program management**
 
-(1) **In general** — The President shall ensure, to the maximum extent practicable, that each eligible entity participating in 1 or more programs under this section—
+(1) **In general** — The Secretary shall ensure, to the maximum extent practicable, that each eligible entity participating in 1 or more programs under this section—
 
   (A) uses eligible commodities made available under this section—
 
@@ -3495,13 +3583,13 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
   (C) works with recipient countries, and indigenous institutions or groups in recipient countries, to design and carry out mutually acceptable programs authorized under this section; and
 
-  (D) monitors and reports on the distribution or sale of eligible commodities provided under this section using methods that, as determined by the President, facilitate accurate and timely reporting.
+  (D) monitors and reports on the distribution or sale of eligible commodities provided under this section using methods that, as determined by the Secretary, facilitate accurate and timely reporting.
 
 (2) **Requirements**
 
-  (A) *In general* — Not later than 270 days after May 13, 2002, the President shall review and, as necessary, make changes in regulations and internal procedures designed to streamline, improve, and clarify the application, approval, and implementation processes pertaining to agreements under this section.
+  (A) *In general* — Not later than 270 days after May 13, 2002, the Secretary shall review and, as necessary, make changes in regulations and internal procedures designed to streamline, improve, and clarify the application, approval, and implementation processes pertaining to agreements under this section.
 
-  (B) *Considerations* — In conducting the review, the President shall consider—
+  (B) *Considerations* — In conducting the review, the Secretary shall consider—
 
     (i) revising procedures for submitting proposals;
 
@@ -3517,15 +3605,31 @@ Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280
 
     (vii) ensuring that evaluation and monitoring methods are sufficient.
 
-  (C) *Consultations* — Not later than 1 year after May 13, 2002, the President shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on changes made in regulations and procedures.
+  (C) *Consultations* — Not later than 1 year after May 13, 2002, the Secretary shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on changes made in regulations and procedures.
 
-(3) **Reports** — Each eligible entity that enters into an agreement under this section shall submit to the President, at such time as the President may request, a report containing such information as the President may request relating to the use of eligible commodities and funds furnished to the eligible entity under this section.
+(3) **Reports** — Each eligible entity that enters into an agreement under this section shall submit to the Secretary, at such time as the Secretary may request, a report containing such information as the Secretary may request relating to the use of eligible commodities and funds furnished to the eligible entity under this section.
 
-**(o) Private voluntary organizations and other private entities** In entering into agreements described in subsection (c), the President (acting through the Secretary)—
+**(o) Private voluntary organizations and other private entities** In entering into agreements described in subsection (c), the Secretary—
 
-(1) shall enter into agreements with eligible entities described in subparagraphs (C) and (F) of subsection (b)(5); and
+(1) shall enter into agreements with eligible entities described in subparagraphs (C) and (G) of subsection (b)(5); and
 
 (2) shall not discriminate against such eligible entities.
+
+**(p) Pilot agreements**
+
+(1) **In general** — For each of fiscal years 2019 through 2023, subject to the availability of appropriations pursuant to the authorization in paragraph (3), the Secretary shall enter into 1 or more pilot agreements with 1 or more eligible entities through which the Secretary shall provide financial assistance to the eligible entities to carry out activities consistent with subsection (l)(4)(A).
+
+(2) **Report required** — In each of fiscal years 2020 through 2024, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing, with respect to the previous fiscal year—
+
+  (A) the amount provided to eligible entities under each pilot agreement pursuant to paragraph (1) and how the funds were used;
+
+  (B) the activities carried out under each pilot agreement;
+
+  (C) the number of direct and indirect beneficiaries of those activities; and
+
+  (D) the effectiveness of the pilot agreements, including as applicable the impact on food security and agricultural productivity.
+
+(3) **Authorization of appropriations** — There is authorized to be appropriated to carry out pilot agreements pursuant to this subsection $10,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -3536,6 +3640,30 @@ The Food for Peace Act, referred to in subsecs. (e) and (f)(4), is act July 10, 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Food for Peace Act which comprises this chapter.
 
 #### Amendments
+2018—Pub. L. 115–334, § 3302(1), substituted “Secretary” for “President” wherever appearing, except in subsecs. (f)(5) and (l)(4).
+
+Subsec. (b)(5)(F), (G). Pub. L. 115–334, § 3302(2)(A), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (b)(10), (11). Pub. L. 115–334, § 3302(2)(B), added pars. (10) and (11).
+
+Subsec. (f)(3). Pub. L. 115–334, § 3302(3), substituted “2023” for “2018”.
+
+Subsec. (g). Pub. L. 115–334, § 3302(4), substituted “2023” for “2018”.
+
+Subsec. (j)(3). Pub. L. 115–334, § 3302(5), substituted “April 1” for “December 1”, inserted dash after “the Senate” and subpar. (A) designation before“a list”, substituted “approved during the prior fiscal year” for “approved to date for the fiscal year”, and added subpars. (B) and (C).
+
+Subsec. (k). Pub. L. 115–334, § 3302(6), substituted “2023” for “2018”.
+
+Subsec. (l)(1). Pub. L. 115–334, § 3302(7), substituted “2023” for “2018”.
+
+Subsec. (m). Pub. L. 115–334, § 3302(8), substituted “Secretarial” for “Presidential” in heading.
+
+Subsec. (o). Pub. L. 115–334, § 3302(9), struck out “(acting through the Secretary)” before dash at end of introductory provisions.
+
+Subsec. (o)(1). Pub. L. 115–334, § 3302(10), substituted “subparagraphs (C) and (G)” for “subparagraphs (C) and (F)”.
+
+Subsec. (p). Pub. L. 115–334, § 3302(11), added subsec. (p).
+
 2014—Subsec. (f)(3). Pub. L. 113–79, § 3201(a)(1), substituted “2018” for “2012”.
 
 Subsec. (f)(6). Pub. L. 113–79, § 3201(b), struck out par. (6) which related to approval of project for Malawi during fiscal year 2009.
@@ -3664,16 +3792,25 @@ Committee on International Relations of House of Representatives changed to Comm
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Agriculture, by section 4(g) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
-
 #### Executive Order No. 12583
 Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation of functions relating to entering into agreements with developing countries and waiving minimum tonnage requirements, was revoked by section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691).
 
 
 <a id="section-1736q"></a>
 ## § 1736q. McGovern-Dole International Food for Education and Child Nutrition Program
-**(a) Definition of agricultural commodity** In this section, the term “agricultural commodity” means an agricultural commodity, or a product of an agricultural commodity, that is produced in the United States.
+**(a) Definition of agricultural commodity** In this section, the term “agricultural commodity” means an agricultural commodity, or a product of an agricultural commodity, that—
+
+(1) is produced in the United States; or
+
+(2)
+
+  (A) is produced in and procured from—
+
+    (i) a developing country that is a recipient country; or
+
+    (ii) a developing country in the same region as a recipient country; and
+
+  (B) at a minimum, meets each nutritional, quality, and labeling standard of the recipient country, as determined by the Secretary.
 
 **(b) Program** Subject to subsection (l), the Secretary may establish a program, to be known as “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
 
@@ -3705,9 +3842,11 @@ Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation
 
       (III) of the unavailability of carriers to a specific country; or
 
-      (IV) of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports; and
+      (IV) of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports;
 
-    (vi) the charges for general average contributions arising out of the ocean transport of agricultural commodities transferred pursuant thereto;
+    (vi) the costs associated with transporting the commodities described in subsection (a)(2) from a developing country described in subparagraph (A)(ii) of that subsection to any designated point of entry within the recipient country; and
+
+    (vii) the charges for general average contributions arising out of the ocean transport of agricultural commodities transferred pursuant thereto;
 
   (B) all or any part of the internal transportation, storage, and handling costs incurred in moving the eligible commodity, if the Secretary determines that—
 
@@ -3745,9 +3884,15 @@ Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation
 
   (D) provide for the expedited development, review, and approval of proposals submitted in accordance with this section;
 
-  (E) ensure monitoring and reporting by eligible entities on the use of commodities and other assistance provided under this section; and
+  (E) ensure to the maximum extent practicable that assistance—
 
-  (F) allow for the sale or barter of commodities by eligible entities to acquire funds to implement activities that improve the food security of women and children or otherwise enhance the effectiveness of programs and activities authorized under this section.
+    (i) is provided under this section in a timely manner; and
+
+    (ii) is available when needed throughout the applicable school year;
+
+  (F) ensure monitoring and reporting by eligible entities on the use of commodities and other assistance provided under this section; and
+
+  (G) allow for the sale or barter of commodities by eligible entities to acquire funds to implement activities that improve the food security of women and children or otherwise enhance the effectiveness of programs and activities authorized under this section.
 
 (2) **Priorities for program funding** — In carrying out paragraph (1) with respect to criteria for determining the use of commodities and other assistance provided for programs and activities authorized under this section, the Secretary may consider the ability of eligible entities to—
 
@@ -3789,9 +3934,11 @@ Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation
 
 (1) **Use of Commodity Credit Corporation funds** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $84,000,000 for fiscal year 2009, to remain available until expended.
 
-(2) **Authorization of appropriations** — There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2018.
+(2) **Authorization of appropriations** — There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2023.
 
 (3) **Administrative expenses** — Funds made available to carry out this section may be used to pay the administrative expenses of the Department of Agriculture or any other Federal agency assisting in the implementation of this section.
+
+(4) **Purchase of commodities** — Of the funds made available to carry out this section, not more than 10 percent shall be used to purchase agricultural commodities described in subsection (a)(2).
 
 ### Statutory Notes
 
@@ -3799,6 +3946,16 @@ Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Food for Peace Act which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 3309(1), inserted dash after “that” and par. (1) designation before “is produced” and added par. (2).
+
+Subsec. (c)(2)(A)(vi), (vii). Pub. L. 115–334, § 3309(2), added cl. (vi) and redesignated former cl. (vi) as (vii).
+
+Subsec. (f)(1)(E) to (G). Pub. L. 115–334, § 3309(3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+Subsec. (l)(2). Pub. L. 115–334, § 3309(4)(A), substituted “2023” for “2018”.
+
+Subsec. (l)(4). Pub. L. 115–334, § 3309(4)(B), added par. (4).
+
 2014—Subsec. (d). Pub. L. 113–79, § 3204(b), struck out “to” after “shall” in introductory provisions.
 
 Subsec. (l)(2). Pub. L. 113–79, § 3204(a), substituted “2018” for “2012”.
@@ -3997,34 +4154,43 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 
 <a id="section-1737"></a>
-## § 1737. Repealed. Pub. L. 104–127, title II, § 271(a), Apr. 4, 1996, 110 Stat. 976
-
-### Statutory Notes
-
-Section 1736bb, Pub. L. 100–202, § 1, Dec. 22, 1987, 101 Stat. 1329–445; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to establishment of agricultural aid and trade missions.
-
-Section 1736bb–1, Pub. L. 100–202, § 2, Dec. 22, 1987, 101 Stat. 1329–445, related to required and additional missions and eligible countries.
-
-Section 1736bb–2, Pub. L. 100–202, § 3, Dec. 22, 1987, 101 Stat. 1329–446, related to functions of members of missions to eligible countries.
-
-Section 1736bb–3, Pub. L. 100–202, § 4, Dec. 22, 1987, 101 Stat. 1329–446; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to mission reports.
-
-Section 1736bb–4, Pub. L. 100–202, § 5, Dec. 22, 1987, 101 Stat. 1329–446; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to quarterly progress reports on implementing recommendations of missions.
-
-Section 1736bb–5, Pub. L. 100–202, § 6, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to authorization of appropriations.
-
-Section 1736bb–6, Pub. L. 100–202, § 7, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411; Pub. L. 101–624, title XV, § 1515(b), Nov. 28, 1990, 104 Stat. 3663; Pub. L. 102–237, title III, § 307, Dec. 13, 1991, 105 Stat. 1856, provided definitions for former sections 1736bb to 1736bb–6.
-
-#### Inapplicability of Federal Advisory Committee Act to Agricultural Aid and Trade Missions
-Pub. L. 100–277, § 7, Apr. 4, 1988, 102 Stat. 69, provided that any agricultural aid and trade mission established under this section and any other activity under sections 1736bb to 1736bb–6 of this title were not to be considered advisory committee for purposes of Federal Advisory Committee Act, 5 App. U.S.C., prior to repeal by Pub. L. 104–127, title II, § 271(b), Apr. 4, 1996, 110 Stat. 976.
-
-
-<a id="section-1738"></a>
-## § 1738. Repealed. Pub. L. 101–624, title XV, § 1577, Nov. 28, 1990, 104 Stat. 3702
+## § 1737. Repealed. Pub. L. 101–624, title XV, § 1577, Nov. 28, 1990, 104 Stat. 3702
 
 ### Statutory Notes
 
 Section, Pub. L. 101–220, § 13, Dec. 12, 1989, 103 Stat. 1884, prohibited duty drawback claims by exporters who used certain export promotion programs.
+
+
+<a id="section-1738"></a>
+## § 1738. International food security technical assistance
+**(a) Definition of international food security** In this section, the term “international food security” means access by any person at any time to food and nutrition that is sufficient for a healthy and productive life.
+
+**(b) Collection of information** The Secretary of Agriculture (referred to in this section as the “Secretary”) shall compile information from appropriate mission areas of the Department of Agriculture (including the Food, Nutrition, and Consumer Services mission area) relating to the improvement of international food security.
+
+**(c) Public availability** To benefit programs for the improvement of international food security, the Secretary shall organize the information described in subsection (b) and make the information available in a format suitable for—
+
+(1) public education; and
+
+(2) use by—
+
+  (A) a Federal, State, or local agency;
+
+  (B) an agency or instrumentality of the government of a foreign country;
+
+  (C) a domestic or international organization, including a domestic or international nongovernmental organization; and
+
+  (D) an intergovernmental organization.
+
+**(d) Technical assistance** On request by an entity described in subsection (c)(2), the Secretary may provide technical assistance to the entity to implement a program for the improvement of international food security.
+
+**(e) Program priority** In carrying out this section, the Secretary shall give priority to programs relating to the development of food and nutrition safety net systems with a focus on food insecure countries.
+
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2019 through 2023.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Food for Peace Act which comprises this chapter.
 
 
 <a id="section-1738a"></a>
@@ -4043,15 +4209,15 @@ Section, Pub. L. 101–220, § 13, Dec. 12, 1989, 103 Stat. 1884, prohibited dut
 
 (4) **Sub-Saharan African country** — The term “sub-Saharan African country” has the meaning given the term in [section 3706 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3706&num=0&edition=prelim).
 
-**(b) Provision** Notwithstanding any other provision of law, to further assist developing countries, middle-income countries, emerging markets, sub-Saharan African countries, and Caribbean Basin countries to increase farm production and farmer incomes, the President may—
+**(b) Provision** Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim) or any other provision of law, to further assist developing countries, middle-income countries, emerging markets, sub-Saharan African countries, and Caribbean Basin countries to increase farm production and farmer incomes, the President may—
 
-(1) establish and administer a program, to be known as the “John Ogonowski and Doug Bereuter Farmer-to-Farmer Program”, of farmer-to-farmer assistance between the United States and such countries to assist in—
+(1) establish and administer a program, to be known as the “John Ogonowski and Doug Bereuter Farmer-to-Farmer Program”, of farmer-to-farmer technical assistance between the United States and such countries to assist in—
 
   (A) increasing food production and distribution; and
 
   (B) improving the effectiveness of the farming and marketing operations of agricultural producers in those countries;
 
-(2) use United States agricultural producers, agriculturalists, colleges and universities (including historically black colleges and universities, land grant colleges or universities, and foundations maintained by colleges or universities), private agribusinesses, private organizations (including grassroots organizations with an established and demonstrated capacity to carry out such a bilateral exchange program), private corporations, and nonprofit farm organizations to work in conjunction with agricultural producers and farm organizations in those countries, on a voluntary basis—
+(2) use United States agricultural producers, agriculturalists, colleges and universities (including historically black colleges and universities, land grant colleges or universities, and foundations maintained by colleges or universities), private agribusinesses, private organizations (including grassroots organizations with an established and demonstrated capacity to carry out such a bilateral exchange program), private corporations, employees or staff of a State cooperative institution (as such term is defined in paragraph 18 of [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103), except that subparagraphs (E), (F), and (G) of such paragraph shall not apply), and nonprofit farm organizations to work in conjunction with agricultural producers and farm organizations in those countries, on a voluntary basis—
 
   (A) to improve agricultural and agribusiness operations and agricultural systems in those countries, including improving—
 
@@ -4069,9 +4235,17 @@ Section, Pub. L. 101–220, § 13, Dec. 12, 1989, 103 Stat. 1884, prohibited dut
 
     (vii) marketing;
 
-    (viii) inputs; and
+    (viii) inputs 11 So in original. Probably should be followed by a semicolon.
 
-    (ix) agricultural extension; and
+    (ix) agricultural education and extension;
+
+    (x) selection of seed varieties and plant stocks;
+
+    (xi) knowledge of insecticide and sanitation procedures to prevent crop destruction;
+
+    (xii) use and maintenance of agricultural equipment and irrigation systems; and
+
+    (xiii) selection of fertilizers and methods of soils treatment; and
 
   (B) to strengthen cooperatives and other agricultural groups in those countries;
 
@@ -4141,7 +4315,7 @@ Section, Pub. L. 101–220, § 13, Dec. 12, 1989, 103 Stat. 1884, prohibited dut
 
   (D) to maximize the number of beneficiaries of the programs in sub-Saharan African and Caribbean Basin countries.
 
-**(d) Minimum funding** Notwithstanding any other provision of law, in addition to any funds that may be specifically appropriated to carry out this section, not less than the greater of $10,000,000 or 0.5 percent of the amounts made available for each of fiscal years 2008 through 2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018, to carry out this chapter shall be used to carry out programs under this section, with—
+**(d) Minimum funding** Notwithstanding any other provision of law, in addition to any funds that may be specifically appropriated to carry out this section, not less than the greater of $10,000,000 or 0.5 percent of the amounts made available for each of fiscal years 2008 through 2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2023, to carry out this chapter shall be used to carry out programs under this section, with—
 
 (1) not less than 0.2 percent to be used for programs in developing countries; and
 
@@ -4149,7 +4323,7 @@ Section, Pub. L. 101–220, § 13, Dec. 12, 1989, 103 Stat. 1884, prohibited dut
 
 **(e) Authorization of appropriations**
 
-(1) **In general** — There are authorized to be appropriated for each of fiscal years 2008 through 2018 to carry out the programs under this section—
+(1) **In general** — There are authorized to be appropriated for each of fiscal years 2008 through 2023 to carry out the programs under this section—
 
   (A) $10,000,000 for sub-Saharan African and Caribbean Basin countries; and
 
@@ -4157,9 +4331,37 @@ Section, Pub. L. 101–220, § 13, Dec. 12, 1989, 103 Stat. 1884, prohibited dut
 
 (2) **Administrative costs** — Not more than 5 percent of the funds made available for a fiscal year under paragraph (1) may be used to pay administrative costs incurred in carrying out programs in sub-Saharan African and Caribbean Basin countries.
 
+**(f) Grant program to create new partners and innovation**
+
+(1) **In general** — The Administrator of the Agency for International Development shall develop a grant program to be carried out in fiscal years 2019 through 2023 to facilitate new and innovative partnerships and activities under this subchapter.
+
+(2) **Use of funds** — A grant recipient under this subsection shall use funds received under this subsection to—
+
+  (A) prioritize new implementing partners;
+
+  (B) develop innovative volunteer models;
+
+  (C) develop, improve, or maintain strategic partnerships with other United States development programs; and
+
+  (D) expand the footprint and impact of the programs and activities under this subchapter, and diversity among program participants, including land-grant colleges and universities and cooperative extension services (as such terms are defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)).
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–334, § 3116(1)(A), inserted “[section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim) or” after “Notwithstanding” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–334, § 3116(1)(B), inserted “technical” before “assistance”.
+
+Subsec. (b)(2). Pub. L. 115–334, § 3116(1)(C)(i), in introductory provisions, inserted “employees or staff of a State cooperative institution (as such term is defined in paragraph 18 of [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103), except that subparagraphs (E), (F), and (G) of such paragraph shall not apply),” after “private corporations,”.
+
+Subsec. (b)(2)(A)(viii). Pub. L. 115–334, § 3116(1)(C)(ii)(I), struck out “; and” at end.
+
+Subsec. (b)(2)(A)(ix) to (xiii). Pub. L. 115–334, § 3116(1)(C)(ii)(II), added cls. (ix) to (xiii) and struck out former cl. (ix) which read as follows: “agricultural extension; and”.
+
+Subsecs. (d), (e)(1). Pub. L. 115–334, § 3116(2), (3), in introductory provisions, substituted “2023” for “2018”.
+
+Subsec. (f). Pub. L. 115–334, § 3116(4), added subsec. (f).
+
 2014—Subsec. (d). Pub. L. 113–79, § 3014(a)(1), substituted “2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018,” for “2012” in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 113–79, § 3014(a)(2), substituted “2018” for “2012” in introductory provisions.
@@ -4240,7 +4442,7 @@ Section 1. Functions to be Performed by the Secretary of the Treasury. (a) The S
 
 (3) consult, as appropriate, with the Secretary of State, the Administrator of USAID, the Council, the Secretary of Agriculture, the Director of the Office of Management and Budget, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, the Director of the Office of National Drug Control Policy, and the Chairman of the Council of Economic Advisers in the performance of all other functions under the provisions listed in section 1(a) of this order.
 
-Sec. 2. Functions to be Performed by the Secretary of State. (a) The Secretary of State is hereby designated to perform the functions of the President under sections 607 and 614 of the ATDA Act ([7 U.S.C. 1738f](./chapter-041-food-for-peace.md#section-1738f) and 1738m) and section 813(a) of the Foreign Assistance Act ([22 U.S.C. 2431k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2431k&num=0&edition=prelim)).
+Sec. 2. Functions to be Performed by the Secretary of State. (a) The Secretary of State is hereby designated to perform the functions of the President under sections 607 and 614 of the ATDA Act ([7 U.S.C. 1738f](./chapter-041-food-for-peace.md#section-1738f) and 1738m) and section 813(a) [now 813] of the Foreign Assistance Act ([22 U.S.C. 2431k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2431k&num=0&edition=prelim)).
 
 (b) The Secretary of State shall consult, as appropriate, with the Secretary of the Treasury and the Administrator of USAID, in the performance of functions under the provisions listed in subsection 2(a) of this order.
 
@@ -4250,7 +4452,7 @@ Sec. 2. Functions to be Performed by the Secretary of State. (a) The Secretary o
 
 (1) section 610(c)(1) of the ATDA Act ([7 U.S.C. 1738i(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1738i/c/1&num=0&edition=prelim)); and
 
-(2) section 813(b) of the Foreign Assistance Act ([22 U.S.C. 2431k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2431k&num=0&edition=prelim)).
+(2) [former] section 813(b) of the Foreign Assistance Act ([22 U.S.C. 2431k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2431k&num=0&edition=prelim)).
 
 Sec. 3. Recommendation by USAID. The Administrator of USAID shall make recommendations with respect to 803(5)(B) of the Foreign Assistance Act ([22 U.S.C. 2431a(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2431a/5/B&num=0&edition=prelim)[)], in cooperation with the Secretary of Agriculture and the Secretary of State.
 

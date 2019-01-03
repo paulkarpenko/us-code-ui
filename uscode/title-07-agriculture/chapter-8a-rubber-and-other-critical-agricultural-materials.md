@@ -245,7 +245,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (8) establishing and maintaining a bank of all pertinent research data on native latex including extant United States Government publications and records from the emergency rubber project. Such data shall be made available to other Federal and State agencies and private persons who are interested or involved in native latex research, development, or manufacture; and
 
-(9) studying the economic feasibility of developing other native agricultural crops (in addition to Parthenium and other hydrocarbon-containing plants) that would supply critical agricultural materials for strategic and industrial purposes, carrying out demonstration projects to promote the development or commercialization of such crops (including projects designed to expand domestic or foreign markets for such crops), and, to the extent appropriate, carrying out research activities with respect to such crops in the manner specified in paragraphs (1) through (8).
+(9) studying the economic feasibility of developing other native agricultural crops (in addition to Parthenium and other hydrocarbon-containing plants, and including hemp (as defined in section 1639o of this title)) that would supply critical agricultural materials for strategic and industrial purposes, carrying out demonstration projects to promote the development or commercialization of such crops (including projects designed to expand domestic or foreign markets for such crops), and, to the extent appropriate, carrying out research activities with respect to such crops in the manner specified in paragraphs (1) through (8).
 
 **(c) Office of Critical Agricultural Materials** The Secretary of Agriculture shall establish within the Department of Agriculture an Office of Critical Agricultural Materials, as a central location where such Department can address research and development with respect to agricultural crops that have the potential of producing critical materials for strategic and industrial purposes.
 
@@ -260,6 +260,8 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(9). Pub. L. 115–334 inserted “, and including hemp (as defined in section 1639o of this title)” after “hydrocarbon-containing plants”.
+
 1991—Subsec. (b)(9). Pub. L. 102–237 substituted “industrial purposes,” for “industrial purposes,,”.
 
 1985—Subsec. (b)(9). Pub. L. 99–198, § 1439(a), extended research program to carrying out demonstration projects to promote the development or commercialization of native agricultural crops, including projects designed to expand domestic or foreign markets for such crops.
@@ -465,7 +467,7 @@ The Secretaries shall submit to the President and the Congress, no later than De
 
 (1) such sums as are necessary for each of fiscal years 1991 through 2013; and
 
-(2) $2,000,000 for each of fiscal years 2014 through 2018.
+(2) $2,000,000 for each of fiscal years 2014 through 2023.
 
 **(b) Administration and management** No more than 3 per centum of funds authorized under subsection (a) shall be available for administration and management of the program.
 
@@ -479,6 +481,8 @@ The Secretaries shall submit to the President and the Congress, no later than De
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–334 substituted “2023” for “2018”.
+
 2014—Subsec. (a). Pub. L. 113–79 struck out “such sums as are necessary” after “Agriculture”, substituted “subchapter—” for “subchapter in each of the fiscal years 1991 through 2012.”, and added pars. (1) and (2).
 
 2008—Subsec. (a). Pub. L. 110–246, § 7401, substituted “2012” for “2007”.

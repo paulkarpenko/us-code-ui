@@ -94,6 +94,9 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
 
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
+
 
 <a id="section-4303"></a>
 ## § 4303. Authorities of Secretary of State
@@ -141,6 +144,9 @@ Pub. L. 98–618, title VI, § 601(d), Nov. 8, 1984, 98 Stat. 3303, provided tha
 
 #### Effective Date of 1983 Amendment
 Pub. L. 98–164, title VI, § 604(c), Nov. 22, 1983, 97 Stat. 1044, provided that: “The amendments made by this section [amending this section] shall apply with respect to any Director of the Office of Foreign Missions, and to any Deputy Director of the Office of Foreign Missions, appointed after the date of enactment of this Act [Nov. 22, 1983].”
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
 
 #### New Spending Authority
 Any new spending authority provided by amendment by section 173(a)(2) of Pub. L. 100–204 effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts, see section 173(c) of Pub. L. 100–204, set out as a note under [section 2707 of this title](./chapter-038-department-of-state.md#section-2707).
@@ -219,6 +225,9 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 #### Effective Date of 1985 Amendment
 Amendment by section 126(b) of Pub. L. 99–93 effective Oct. 1, 1985, see section 126(e) of Pub. L. 99–93, set out as an Effective Date note under [section 4314 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4314).
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
 
 #### Transfer of Functions
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -354,7 +363,7 @@ Section 1 of Pub. L. 105–375, which directed amendment of title I of the State
 
   (A) any country listed as a Communist country in [section 2370(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/f&num=0&edition=prelim);
 
-  (B) any country determined by the Secretary of State, for purposes of [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), to be a country which has repeatedly provided support for acts of international terrorism; and
+  (B) any country determined by the Secretary of State, for purposes of section 4605(j) 11 See References in Text note below. of title 50, to be a country which has repeatedly provided support for acts of international terrorism; and
 
   (C) any other country which engages in intelligence activities in the United States which are adverse to the national security interests of the United States.
 
@@ -365,6 +374,9 @@ Section 1 of Pub. L. 105–375, which directed amendment of title I of the State
   (B) with respect to a city in the United States, did not maintain a mission in that city.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), referred to in subsec. (d)(4)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
 1994—Subsec. (a). Pub. L. 103–236, § 162(o)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
@@ -379,6 +391,9 @@ Subsec. (b)(3). Pub. L. 99–93, § 127(d), added par. (3).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
 
 
 <a id="section-4306"></a>
@@ -448,11 +463,21 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 **(j) Application of other laws** Provisions of law (other than this chapter) applicable with respect to the location, replacement, or expansion of real property in the District of Columbia shall apply with respect to chanceries only to the extent that they are consistent with this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
+
 
 <a id="section-4307"></a>
 ## § 4307. Preemption
 
 Notwithstanding any other law, no act of any Federal agency shall be effective to confer or deny any benefit with respect to any foreign mission contrary to this chapter. Nothing in section 4302, 4303, 4304, or 4305 of this title may be construed to preempt any State or municipal law or governmental authority regarding zoning, land use, health, safety, or welfare, except that a denial by the Secretary involving a benefit for a foreign mission within the jurisdiction of a particular State or local government shall be controlling.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
 
 
 <a id="section-4308"></a>
@@ -501,6 +526,9 @@ Subsec. (h)(2). Pub. L. 103–236, § 162(o)(6)(C), struck out “Director or th
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
 
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
+
 
 <a id="section-4309"></a>
 ## § 4309. Application to public international organizations and official missions to such organizations
@@ -517,6 +545,9 @@ including any real property of such an organization or mission and including the
 
 #### References in Text
 The International Organizations Immunities Act, referred to in subsec. (b)(1), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
 
 
 <a id="section-4309a"></a>
@@ -561,6 +592,11 @@ Public Law 80–357, referred to in subsec. (a)(1), is act Aug. 4, 1947, ch. 482
 
 Nothing in this chapter shall be construed to limit the authority of the United States to carry out its international obligations, or to supersede or limit immunities otherwise available by law. No act or omission by any foreign mission, public international organization, or official mission to such an organization, in compliance with this chapter shall be deemed to be an implied waiver of any immunity otherwise provided for by law.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
+
 
 <a id="section-4311"></a>
 ## § 4311. Enforcement
@@ -568,17 +604,32 @@ Nothing in this chapter shall be construed to limit the authority of the United 
 
 **(b) Advice of Secretary concerning transactions with foreign missions** Upon the request of any Federal agency, any State or local government agency, or any business or other person that proposes to enter into a contract or other transaction with a foreign mission, the Secretary shall advise whether the proposed transaction is prohibited by any regulation or determination of the Secretary under this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
+
 
 <a id="section-4312"></a>
 ## § 4312. Presidential guidelines
 
 The authorities granted to the Secretary pursuant to the provisions of this chapter shall be exercised in accordance with procedures and guidelines approved by the President.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
+
 
 <a id="section-4313"></a>
 ## § 4313. Severability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to any other person or circumstance shall not be affected thereby.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
 
 
 <a id="section-4314"></a>

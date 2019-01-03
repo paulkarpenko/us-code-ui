@@ -105,6 +105,9 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(26)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(18)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
+
 
 <a id="section-2103"></a>
 ## § 2103. Exemptions
@@ -119,6 +122,9 @@ This chapter shall not apply to a plant closing or mass layoff if—
 
 #### References in Text
 The National Labor Relations Act, referred to in par. (2), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
+
+#### Effective Date
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
 
 
 <a id="section-2104"></a>
@@ -157,11 +163,21 @@ The National Labor Relations Act, referred to in par. (2), is act July 5, 1935, 
 
 **(b) Exclusivity of remedies** The remedies provided for in this section shall be the exclusive remedies for any violation of this chapter. Under this chapter, a Federal court shall not have authority to enjoin a plant closing or mass layoff.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
+
 
 <a id="section-2105"></a>
 ## § 2105. Procedures in addition to other rights of employees
 
 The rights and remedies provided to employees by this chapter are in addition to, and not in lieu of, any other contractual or statutory rights and remedies of the employees, and are not intended to alter or affect such rights and remedies, except that the period of notification required by this chapter shall run concurrently with any period of notification required by contract or by any other statute.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
 
 
 <a id="section-2106"></a>
@@ -169,12 +185,22 @@ The rights and remedies provided to employees by this chapter are in addition to
 
 It is the sense of Congress that an employer who is not required to comply with the notice requirements of [section 2102 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2102) should, to the extent possible, provide notice to its employees about a proposal to close a plant or permanently reduce its workforce.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
+
 
 <a id="section-2107"></a>
 ## § 2107. Authority to prescribe regulations
 **(a)** The Secretary of Labor shall prescribe such regulations as may be necessary to carry out this chapter. Such regulations shall, at a minimum, include interpretative regulations describing the methods by which employers may provide for appropriate service of notice as required by this chapter.
 
 **(b)** The mailing of notice to an employee’s last known address or inclusion of notice in the employee’s paycheck will be considered acceptable methods for fulfillment of the employer’s obligation to give notice to each affected employee under this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 6 months after Aug. 4, 1988, except that the authority of the Secretary of Labor under this section is effective on Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
 
 
 <a id="section-2108"></a>
@@ -188,6 +214,9 @@ The giving of notice pursuant to this chapter, if done in good faith compliance 
 The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
 
 The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
 
 
 <a id="section-2109"></a>
@@ -203,3 +232,6 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date
+Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).

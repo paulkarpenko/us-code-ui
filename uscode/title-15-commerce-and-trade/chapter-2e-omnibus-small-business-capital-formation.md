@@ -31,9 +31,21 @@ Pub. L. 96–477, title V, § 501, Oct. 21, 1980, 94 Stat. 2291, provided that: 
 
 **(d) Transmittal of proceedings and findings** A summary of the proceedings of such forums and any findings or recommendations thereof shall be prepared and transmitted to the participants, appropriate committees of the Congress, and others who may be interested in the subject matter.
 
+**(e) Review of findings and recommendations** The Commission shall—
+
+(1) review the findings and recommendations of the forum; and
+
+(2) each time the forum submits a finding or recommendation to the Commission, promptly issue a public statement—
+
+  (A) assessing the finding or recommendation of the forum; and
+
+  (B) disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–174 added subsec. (e).
+
 2016—Subsec. (a). Pub. L. 114–284 inserted “(acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee)” after “the Securities and Exchange Commission”.
 
 #### Effective Date

@@ -612,9 +612,14 @@ Pub. L. 114–113, div. N, title II, § 221, Dec. 18, 2015, 129 Stat. 2963, prov
 
 (3) to authorize regulatory actions that would duplicate or conflict with regulatory requirements, mandatory standards, or related processes under another provision of Federal law.
 
-**(m) Authority of Secretary of Defense to respond to malicious cyber activity carried out by foreign powers** Nothing in this subchapter shall be construed to limit the authority of the Secretary of Defense under [section 130g of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section130g&num=0&edition=prelim).
+**(m) Authority of Secretary of Defense to respond to malicious cyber activity carried out by foreign powers** Nothing in this subchapter shall be construed to limit the authority of the Secretary of Defense under [section 394 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section394&num=0&edition=prelim).
 
 **(n) Criminal prosecution** Nothing in this subchapter shall be construed to prevent the disclosure of a cyber threat indicator or defensive measure shared under this subchapter in a case of criminal prosecution, when an applicable provision of Federal, State, tribal, or local law requires disclosure in such case.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (m). Pub. L. 115–232 substituted “section 394” for “section 130g”.
 
 
 <a id="section-1508"></a>
@@ -663,7 +668,7 @@ In this subchapter:
 
 (1) **Agency** — The term “agency” has the meaning given the term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim).
 
-(2) **Agency information system** — The term “agency information system” has the meaning given the term in [section 149 of this title](./chapter-001-homeland-security-organization.md#section-149).
+(2) **Agency information system** — The term “agency information system” has the meaning given the term in [section 660 of this title](./chapter-001-homeland-security-organization.md#section-660).
 
 (3) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
 
@@ -671,7 +676,7 @@ In this subchapter:
 
   (B) the Committee on Homeland Security of the House of Representatives.
 
-(4) **Cybersecurity risk; information system** — The terms “cybersecurity risk” and “information system” have the meanings given those terms in [section 148 of this title](./chapter-001-homeland-security-organization.md#section-148).
+(4) **Cybersecurity risk; information system** — The terms “cybersecurity risk” and “information system” have the meanings given those terms in [section 659 of this title](./chapter-001-homeland-security-organization.md#section-659).
 
 (5) **Director** — The term “Director” means the Director of the Office of Management and Budget.
 
@@ -685,6 +690,11 @@ In this subchapter:
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+
+#### Amendments
+2018—Par. (2). Pub. L. 115–278, § 2(h)(1)(D)(i), substituted “[section 660 of this title](./chapter-001-homeland-security-organization.md#section-660)” for “[section 149 of this title](./chapter-001-homeland-security-organization.md#section-149)”.
+
+Par. (4). Pub. L. 115–278, § 2(h)(1)(D)(ii), substituted “[section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)” for “[section 148 of this title](./chapter-001-homeland-security-organization.md#section-148)”.
 
 
 <a id="section-1522"></a>
@@ -758,15 +768,15 @@ Section is comprised of section 224 of title II of div. N of Pub. L. 114–113. 
 ## § 1524. Assessment; reports
 **(a) Definitions** In this section:
 
-(1) **Agency information** — The term “agency information” has the meaning given the term in section 230 of the Homeland Security Act of 2002 [[6 U.S.C. 151](./chapter-001-homeland-security-organization.md#section-151)], as added by section 223(a)(6) of this division.
+(1) **Agency information** — The term “agency information” has the meaning given the term in section 2213 of the Homeland Security Act of 2002 [[6 U.S.C. 663](./chapter-001-homeland-security-organization.md#section-663)].
 
 (2) **Cyber threat indicator; defensive measure** — The terms “cyber threat indicator” and “defensive measure” have the meanings given those terms in [section 1501 of this title](./chapter-006-cybersecurity.md#section-1501).
 
 (3) **Intrusion assessments** — The term “intrusion assessments” means actions taken under the intrusion assessment plan to identify and remove intruders in agency information systems.
 
-(4) **Intrusion assessment plan** — The term “intrusion assessment plan” means the plan required under section 228(b)(1) of the Homeland Security Act of 2002 [[6 U.S.C. 149(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section149/b/1&num=0&edition=prelim)], as added by section 223(a)(4) of this division.
+(4) **Intrusion assessment plan** — The term “intrusion assessment plan” means the plan required under section 2210(b)(1) of the Homeland Security Act of 2002 [[6 U.S.C. 660(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section660/b/1&num=0&edition=prelim)].
 
-(5) **Intrusion detection and prevention capabilities** — The term “intrusion detection and prevention capabilities” means the capabilities required under section 230(b) of the Homeland Security Act of 2002 [[6 U.S.C. 151(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/b&num=0&edition=prelim)], as added by section 223(a)(6) of this division.
+(5) **Intrusion detection and prevention capabilities** — The term “intrusion detection and prevention capabilities” means the capabilities required under section 2213(b) of the Homeland Security Act of 2002 [[6 U.S.C. 663(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/b&num=0&edition=prelim)].
 
 **(b) Third-party assessment** Not later than 3 years after December 18, 2015, the Comptroller General of the United States shall conduct a study and publish a report on the effectiveness of the approach and strategy of the Federal Government to securing agency information systems, including the intrusion detection and prevention capabilities and the intrusion assessment plan.
 
@@ -786,7 +796,7 @@ Section is comprised of section 224 of title II of div. N of Pub. L. 114–113. 
 
     (v) the number of instances in which the intrusion detection and prevention capabilities detected a cybersecurity risk in network traffic transiting or traveling to or from agency information systems and the number of times the intrusion detection and prevention capabilities blocked network traffic associated with cybersecurity risk; and
 
-    (vi) a description of the pilot established under section 230(c)(5) of the Homeland Security Act of 2002 [[6 U.S.C. 151(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/c/5&num=0&edition=prelim)], as added by section 223(a)(6) of this division, including the number of new technologies tested and the number of participating agencies.
+    (vi) a description of the pilot established under section 2213(c)(5) of the Homeland Security Act of 2002 [[6 U.S.C. 663(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/c/5&num=0&edition=prelim)], including the number of new technologies tested and the number of participating agencies.
 
   (B) *OMB report* — Not later than 18 months after December 18, 2015, and annually thereafter, the Director shall submit to Congress, as part of the report required under [section 3553(c) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553/c&num=0&edition=prelim), an analysis of agency application of the intrusion detection and prevention capabilities, including—
 
@@ -802,7 +812,7 @@ Section is comprised of section 224 of title II of div. N of Pub. L. 114–113. 
 
     (i) the effectiveness of the system in detecting, disrupting, and preventing cyber-threat actors, including advanced persistent threats, from accessing agency information and agency information systems;
 
-    (ii) whether the intrusion detection and prevention capabilities, continuous diagnostics and mitigation, and other systems deployed under subtitle D of title II of the Homeland Security Act of 2002 ([6 U.S.C. 231](./chapter-001-homeland-security-organization.md#section-231) 11 See References in Text note below. et seq.) are effective in securing Federal information systems;
+    (ii) whether the intrusion detection and prevention capabilities, continuous diagnostics and mitigation, and other systems deployed under subtitle D 11 See References in Text note below. of title II of the Homeland Security Act of 2002 ([6 U.S.C. 231](./chapter-001-homeland-security-organization.md#section-231) et seq.) are effective in securing Federal information systems;
 
     (iii) the costs and benefits of the intrusion detection and prevention capabilities, including as compared to commercial technologies and tools and including the value of classified cyber threat indicators; and
 
@@ -833,16 +843,30 @@ Section is comprised of section 224 of title II of div. N of Pub. L. 114–113. 
 ### Statutory Notes
 
 #### References in Text
-Section 223 of this division, referred to in subsecs. (a)(1), (4), (5) and (c)(1)(A)(vi), means section 223 of title II of div. N of Pub. L. 114–113.
+Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2159, which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 10102 and 10122 of Title 34, Crime Control and Law Enforcement. Subtitle D was redesignated subtitle C of title II of the Homeland Security Act of 2002 by Pub. L. 115–278, § 2(g)(2)(K), Nov. 16, 2018, 132 Stat. 4178, and is classified principally to part C (§ 161 et seq.) of subchapter II of chapter 1 of this title. For complete classification of subtitle C to the Code, see Tables.
 
-Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2159, which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 10102 and 10122 of Title 34, Crime Control and Law Enforcement. For complete classification of subtitle D to the Code, see Tables.
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–278, § 2(h)(1)(F)(i)(I), substituted “section 2213” for “section 230” and struck out before period at end “, as added by section 223(a)(6) of this division”.
+
+Subsec. (a)(4). Pub. L. 115–278, § 2(h)(1)(F)(i)(II), substituted “section 2210(b)(1)” for “section 228(b)(1)” and struck out before period at end “, as added by section 223(a)(4) of this division”.
+
+Subsec. (a)(5). Pub. L. 115–278, § 2(h)(1)(F)(i)(III), substituted “section 2213(b)” for “section 230(b)” and struck out before period at end “, as added by section 223(a)(6) of this division”.
+
+Subsec. (c)(1)(A)(vi). Pub. L. 115–278, § 2(h)(1)(F)(ii), substituted “section 2213(c)(5)” for “section 230(c)(5)” and struck out “, as added by section 223(a)(6) of this division” after “Homeland Security Act of 2002”.
 
 
 <a id="section-1525"></a>
 ## § 1525. Termination
-**(a) In general** The authority provided under [section 151 of this title](./chapter-001-homeland-security-organization.md#section-151), and the reporting requirements under [section 1524(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1524/c&num=0&edition=prelim) shall terminate on the date that is 7 years after December 18, 2015.
+**(a) In general** The authority provided under [section 663 of this title](./chapter-001-homeland-security-organization.md#section-663), and the reporting requirements under [section 1524(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1524/c&num=0&edition=prelim) shall terminate on the date that is 7 years after December 18, 2015.
 
-**(b) Rule of construction** Nothing in subsection (a) shall be construed to affect the limitation of liability of a private entity for assistance provided to the Secretary under [section 151(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/d/2&num=0&edition=prelim), if such assistance was rendered before the termination date under subsection (a) or otherwise during a period in which the assistance was authorized.
+**(b) Rule of construction** Nothing in subsection (a) shall be construed to affect the limitation of liability of a private entity for assistance provided to the Secretary under [section 663(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/d/2&num=0&edition=prelim), if such assistance was rendered before the termination date under subsection (a) or otherwise during a period in which the assistance was authorized.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(G)(i), substituted “[section 663 of this title](./chapter-001-homeland-security-organization.md#section-663)” for “[section 151 of this title](./chapter-001-homeland-security-organization.md#section-151)”.
+
+Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “[section 663(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/d/2&num=0&edition=prelim)” for “[section 151(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/d/2&num=0&edition=prelim)”.
 
 
 <a id="section-1531"></a>
@@ -892,9 +916,9 @@ Subtitle D of title II of the Homeland Security Act of 2002, referred to in subs
 
 <a id="section-1532"></a>
 ## § 1532. Enhancement of emergency services
-**(a) Collection of data** Not later than 90 days after December 18, 2015, the Secretary of Homeland Security, acting through the center established under [section 148 of this title](./chapter-001-homeland-security-organization.md#section-148), in coordination with appropriate Federal entities and the Director for Emergency Communications, shall establish a process by which a Statewide Interoperability Coordinator may report data on any cybersecurity risk or incident involving any information system or network used by emergency response providers (as defined in [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)) within the State.
+**(a) Collection of data** Not later than 90 days after December 18, 2015, the Secretary of Homeland Security, acting through the center established under [section 659 of this title](./chapter-001-homeland-security-organization.md#section-659), in coordination with appropriate Federal entities and the Assistant Director for Emergency Communications, shall establish a process by which a Statewide Interoperability Coordinator may report data on any cybersecurity risk or incident involving any information system or network used by emergency response providers (as defined in [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)) within the State.
 
-**(b) Analysis of data** Not later than 1 year after December 18, 2015, the Secretary of Homeland Security, acting through the Director of the National Cybersecurity and Communications Integration Center, in coordination with appropriate entities and the Director for Emergency Communications, and in consultation with the Secretary of Commerce, acting through the Director of the National Institute of Standards and Technology, shall conduct integration and analysis of the data reported under subsection (a) to develop information and recommendations on security and resilience measures for any information system or network used by State emergency response providers.
+**(b) Analysis of data** Not later than 1 year after December 18, 2015, the Secretary of Homeland Security, acting through the Director of the National Cybersecurity and Communications Integration Center, in coordination with appropriate entities and the Assistant Director for Emergency Communications, and in consultation with the Secretary of Commerce, acting through the Director of the National Institute of Standards and Technology, shall conduct integration and analysis of the data reported under subsection (a) to develop information and recommendations on security and resilience measures for any information system or network used by State emergency response providers.
 
 **(c) Best practices**
 
@@ -911,6 +935,13 @@ Subtitle D of title II of the Homeland Security Act of 2002, referred to in subs
   (A) adopt a recommended measure developed under subsection (b); or
 
   (B) follow the result of the activities carried out under subsection (c), including any methods developed under such subsection.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(H), substituted “[section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)” for “[section 148 of this title](./chapter-001-homeland-security-organization.md#section-148)” and “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
+
+Subsec. (b). Pub. L. 115–278, § 2(h)(1)(H)(ii), substituted “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
 
 
 <a id="section-1533"></a>

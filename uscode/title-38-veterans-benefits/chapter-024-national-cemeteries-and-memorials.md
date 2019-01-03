@@ -126,7 +126,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 (4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
+(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7), and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before October 1, 2024.
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 
@@ -150,6 +150,14 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
     (iii) at the time of the person’s parent’s death, did not have a spouse, surviving spouse, or child who is buried or who, upon death, may be eligible for burial in a national cemetery pursuant to paragraph (5).
 
+(10) Any individual—
+
+  (A) 11 So in original. No subpar. (B) has been enacted. who—
+
+    (i) was naturalized pursuant to section 2(1) of the Hmong Veterans’ Naturalization Act of 2000 (Public Law 106–207; [8 U.S.C. 1423](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1423&num=0&edition=prelim) note); and
+
+    (ii) at the time of the individual’s death resided in the United States.
+
 **(b)** For purposes of subsection (a)(9) of this section:
 
 (1) The term “parent” means a biological father or a biological mother or, in the case of adoption, a father through adoption or a mother through adoption.
@@ -160,7 +168,14 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 ### Statutory Notes
 
+#### References in Text
+Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000, referred to in subsec. (a)(10)(A)(i), is section 2(1) of Pub. L. 106–207, May 26, 2000, 114 Stat. 316, which is set out as a note under [section 1423 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1423&num=0&edition=prelim), Aliens and Nationality.
+
 #### Amendments
+2018—Subsec. (a)(5). Pub. L. 115–407 inserted “, and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before October 1, 2024” after “paragraph (7)”.
+
+Subsec. (a)(10). Pub. L. 115–141 added par. (10).
+
 2010—Pub. L. 111–275 designated existing provisions as subsec. (a), realigned margins, added par. (9) of subsec. (a), and added subsec. (b).
 
 2003—Par. (5). Pub. L. 108–183, § 502(a), substituted “(which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage)” for “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)”.
@@ -191,6 +206,9 @@ Pub. L. 102–40 substituted “6105” for “3505” in introductory provision
 
 Par. (5). Pub. L. 99–576, § 701(54)(B), struck out “wife, husband,” before “surviving spouse”.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–141, div. J, title II, § 251(b), Mar. 23, 2018, 132 Stat. 825, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to an individual dying on or after the date of the enactment of this Act [Mar. 23, 2018].”
+
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–275 applicable with respect to the death, on or after Oct. 13, 2010, of the parent of a person described in [section 2402(a)(9)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a/9/B&num=0&edition=prelim), who dies on or after October 7, 2001, see section 502(e) of Pub. L. 111–275, set out as a note under [section 107 of this title](./chapter-001-general.md#section-107).
 
@@ -201,6 +219,9 @@ Pub. L. 108–183, title V, § 502(b), Dec. 16, 2003, 117 Stat. 2667, provided t
 
 #### Effective Date of 2000 Amendment
 Amendment by section 331(a) of Pub. L. 106–419 applicable with respect to deaths occurring on or after Nov. 1, 2000, see section 331(c) of Pub. L. 106–419, set out as a note under [section 107 of this title](./chapter-001-general.md#section-107).
+
+#### Criteria for Interment at Arlington National Cemetery
+Pub. L. 115–232, div. A, title V, § 598, Aug. 13, 2018, 132 Stat. 1791, provided that: “(a) Criteria.—The Secretary of the Army, in consultation with the Secretary of Defense, shall prescribe revised criteria for interment at Arlington National Cemetery that preserve Arlington National Cemetery as an active burial ground ‘well into the future,’ as that term is used in the report submitted by the Secretary of the Army to the Committees on Veterans’ Affairs and the Committees on Armed Services of the House of Representatives and the Senate, dated February 14, 2017, and titled ‘The Future of Arlington National Cemetery: Report on the Cemetery’s Interment and Inurnment Capacity 2017’. “(b) Deadline.—The Secretary of the Army shall establish the criteria under subsection (a) not later than September 30, 2019.”
 
 #### Identification of Unclaimed or Abandoned Human Remains
 Pub. L. 112–260, title I, § 104(a), Jan. 10, 2013, 126 Stat. 2420, provided that: “The Secretary of Veterans Affairs shall cooperate with veterans service organizations to assist entities in possession of unclaimed or abandoned human remains in determining if any such remains are the remains of veterans or other individuals eligible for burial in a national cemetery under the jurisdiction of the Secretary.”
@@ -616,6 +637,9 @@ Pub. L. 110–157, title II, § 202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provid
 1991—Pub. L. 102–83 renumbered [section 1009 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1009&num=0&edition=prelim) as this section.
 
 1989—Subsec. (b). Pub. L. 101–237 inserted “of the Army” after “Secretary”.
+
+#### Construction of Memorial to the Crew of the Apollo I Launch Test Accident at Arlington National Cemetery
+Pub. L. 115–91, div. A, title X, § 1087, Dec. 12, 2017, 131 Stat. 1604, provided that: “Subject to applicable requirements of [section 2409(b)(2)(E) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2409/b/2/E&num=0&edition=prelim), United States Code, the Secretary of the Army, in consultation with the Administrator of the National Aeronautics and Space Administration, the Commission of Fine Arts, and the Advisory Committee on Arlington National Cemetery, shall authorize the construction, at an appropriate place in Arlington National Cemetery, Virginia, of a memorial marker honoring the three members of the crew of the Apollo I who died during a launch rehearsal test on January 27, 1967, in Cape Canaveral, Florida. The memorial may not be constructed in a location that is otherwise suitable as an interment site.”
 
 #### Columbia Orbiter Memorial
 Pub. L. 108–11, title III, Apr. 16, 2003, 117 Stat. 603, provided that: “SEC. 301. SHORT TITLE.“This title may be cited as the ‘Columbia Orbiter Memorial Act’. “SEC. 302. CONSTRUCTION OF MEMORIAL TO CREW OF COLUMBIA ORBITER AT ARLINGTON NATIONAL CEMETERY.“(a) Construction Required.—The Secretary of the Army shall, in consultation with the Administrator of the National Aeronautics and Space Administration, construct at an appropriate place in Arlington National Cemetery, Virginia, a memorial marker honoring the seven members of the crew of the Columbia Orbiter who died on February 1, 2003, over the State of Texas during the landing of space shuttle mission STS–107. “(b) Availability of Funds.—Of the amount appropriated or otherwise made available by title II of the Department of Defense Appropriations Act, 2003 (Public Law 107–248) under the heading ‘Operation and Maintenance, Army’ [116 Stat. 1521], $500,000 shall be available for the construction of the memorial marker required by subsection (a). “SEC. 303. DONATIONS FOR MEMORIAL FOR CREW OF COLUMBIA ORBITER.“(a) Authority To Accept Donations.—The Administrator of the National Aeronautics and Space Administration may accept gifts and donations of services, money, and property (including personal, tangible, or intangible property) for the purpose of an appropriate memorial or monument to the seven members of the crew of the Columbia Orbiter who died on February 1, 2003, over the State of Texas during the landing of space shuttle mission STS–107, whether such memorial or monument is constructed by the Administrator or is the memorial marker required by section 302. “(b) Transfer.—(1) The Administrator may transfer to the Secretary of the Army any services, money, or property accepted by the Administrator under subsection (a) for the purpose of the construction of the memorial marker required by section 302. “(2) Any moneys transferred to the Secretary under paragraph (1) shall be merged with amounts in the account referred to in subsection (b) of section 302, and shall be available for the purpose referred to in that subsection. “(c) Expiration of Authority.—The authority of the Administrator to accept gifts and donations under subsection (a) shall expire 5 years after the date of the enactment of this Act [Apr. 16, 2003].”

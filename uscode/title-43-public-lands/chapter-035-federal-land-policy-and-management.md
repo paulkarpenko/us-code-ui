@@ -2,7 +2,7 @@
 title: 43
 chapter: '35'
 heading: FEDERAL LAND POLICY AND MANAGEMENT
-section_count: 61
+section_count: 66
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -44,6 +44,9 @@ source: >-
 This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to [section 21a of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section21a&num=0&edition=prelim), Mineral Lands and Mining.
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–141, div. O, § 101, Mar. 23, 2018, 132 Stat. 1059, provided that: “This division [see Tables for classification] may be cited as the ‘Wildfire Suppression Funding and Forest Management Activities Act’.”
 
 #### Short Title of 2009 Amendment
 Pub. L. 111–88, div. A, title V, § 501, Oct. 30, 2009, 123 Stat. 2968, provided that: “This title [enacting sections 1748a and 1748b of this title] may be cited as the ‘Federal Land Assistance, Management, and Enhancement Act of 2009’ or ‘FLAME Act of 2009’.”
@@ -702,7 +705,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 ## § 1735. Forfeitures and deposits
 **(a) Credit to separate account in Treasury; appropriation and availability** Any moneys received by the United States as a result of the forfeiture of a bond or other security by a resource developer or purchaser or permittee who does not fulfill the requirements of his contract or permit or does not comply with the regulations of the Secretary; or as a result of a compromise or settlement of any claim whether sounding in tort or in contract involving present or potential damage to the public lands shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available, until expended as the Secretary may direct, to cover the cost to the United States of any improvement, protection, or rehabilitation work on those public lands which has been rendered necessary by the action which has led to the forfeiture, compromise, or settlement.
 
-**(b) Expenditure of moneys collected administering Oregon and California Railroad and Coos Bay Wagon Road Grant lands** Any moneys collected under this Act in connection with lands administered under the Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), 11 See References in Text note below. shall be expended for the benefit of such land only.
+**(b) Expenditure of moneys collected administering Oregon and California Railroad and Coos Bay Wagon Road Grant lands** Any moneys collected under this Act in connection with lands administered under the Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j),11 See References in Text note below. shall be expended for the benefit of such land only.
 
 **(c) Refunds** If any portion of a deposit or amount forfeited under this Act is found by the Secretary to be in excess of the cost of doing the work authorized under this Act, the Secretary, upon application or otherwise, may cause a refund of the amount in excess to be made from applicable funds.
 
@@ -717,6 +720,8 @@ Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.hou
 Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–158; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of the Act of October 21, 1976 ([43 U.S.C. 1735(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1735/a&num=0&edition=prelim)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act ([43 U.S.C. 1735(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1735/c&num=0&edition=prelim)), shall be available and may be expended under the authority of this or subsequent appropriations Acts by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such forfeiture, compromise, or settlement are used on the exact lands damage to which led to the forfeiture, compromise, or settlement: Provided further, That such moneys are in excess of amounts needed to repair damage to the exact land for which collected.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 637.
 
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 437.
 
@@ -1163,6 +1168,68 @@ In subsec. (b), “[section 1110 of title 31](https://uscode.house.gov/view.xhtm
 Section was enacted as part of the Federal Land Assistance, Management, and Enhancement Act of 2009, also known as the FLAME Act of 2009, and also as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
 
+<a id="section-1748a-1"></a>
+## § 1748a–1. Request for additional wildfire suppression funds
+
+If the amount provided for wildfire suppression operations for that fiscal year will be exhausted within 30 calendar days, the Secretary of the Interior or the Secretary of Agriculture (as applicable), in consultation with the Director of the Office of Management and Budget, shall promptly submit a request to Congress for supplemental appropriations.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+
+<a id="section-1748a-2"></a>
+## § 1748a–2. Reporting requirements
+**(a) In general** Not later than 90 days after the end of the fiscal year for which additional new budget authority is used, pursuant to [section 901(b)(2)(F)(i) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/F/i&num=0&edition=prelim), as added by section 102 of this division, the Secretary of the Interior or the Secretary of Agriculture (as applicable), in consultation with the Director of the Office of Management and Budget, shall—
+
+(1) prepare an annual report with respect to the additional new budget authority;
+
+(2) submit to the Committees on Appropriations, the Budget, and Natural Resources of the House of Representatives and the Committees on Appropriations, the Budget, and Energy and Natural Resources of the Senate the annual report prepared under paragraph (1); and
+
+(3) make the report prepared under paragraph (1) available to the public.
+
+**(b) Components** The annual report prepared under subsection (a)(1) shall—
+
+(1) document obligations and outlays of the additional new budget authority for wildfire suppression operations;
+
+(2) identify risk-based factors that influenced management decisions with respect to wildfire suppression operations;
+
+(3) analyze a statistically significant sample of large fires, including an analysis for each fire of—
+
+  (A) cost drivers;
+
+  (B) the effectiveness of risk management techniques and whether fire operations strategy tracked the risk assessment;
+
+  (C) any resulting ecological or other benefits to the landscape;
+
+  (D) the impact of investments in wildfire suppression operations preparedness;
+
+  (E) effectiveness of wildfire suppression operations, including an analysis of resources lost versus dollars invested;
+
+  (F) effectiveness of any fuel treatments on fire behavior and suppression expenditures;
+
+  (G) levels of exposure experienced by firefighters;
+
+  (H) suggested corrective actions; and
+
+  (I) any other factors the Secretary of the Interior or Secretary of Agriculture (as applicable) determines to be appropriate;
+
+(4) include an accounting of overall fire management and spending by the Department of the Interior or the Department of Agriculture, which shall be analyzed by fire size, cost, regional location, and other factors;
+
+(5) describe any lessons learned in the conduct of wildfire suppression operations; and
+
+(6) include any other elements that the Secretary of the Interior or the Secretary of Agriculture (as applicable) determines to be necessary.
+
+### Statutory Notes
+
+#### References in Text
+Section 102 of this division, referred to in subsec. (a), means section 102 of div. O of Pub. L. 115–141.
+
+#### Codification
+Section was enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+
 <a id="section-1748b"></a>
 ## § 1748b. Cohesive wildfire management strategy
 **(a) Strategy required** Not later than one year after October 30, 2009, the Secretary of the Interior and the Secretary of Agriculture, acting jointly, shall submit to Congress a report that contains a cohesive wildfire management strategy, consistent with the recommendations described in recent reports of the Government Accountability Office regarding management strategies.
@@ -1307,7 +1374,7 @@ Section was enacted as part of the Federal Land Assistance, Management, and Enha
 
 (8) **General powers** — The Board may—
 
-  (A) *appoint officers and employees in accordance with paragraph (9);*
+  (A) appoint officers and employees in accordance with paragraph (9);
 
   (B) adopt a constitution and bylaws consistent with the purposes of the Foundation and this section; and
 
@@ -1417,6 +1484,42 @@ Section was enacted as part of the Federal Land Assistance, Management, and Enha
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
 
+<a id="section-1748d"></a>
+## § 1748d. Report on wildfire, insect infestation, and disease prevention on Federal land
+
+Not later than 180 days after December 20, 2018, and every year thereafter, the Secretary and the Secretary of Interior shall submit to the Committee on Agriculture of the House of Representatives, the Committee on Natural Resources of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committee on Energy and Natural Resources of the Senate a jointly written report on—
+
+(1) the number of acres of Federal land treated by the Secretary or the Secretary of the Interior for wildfire, insect infestation, or disease prevention;
+
+(2) the number of acres of Federal land categorized as a high or extreme fire risk;
+
+(3) the total timber production from Federal land;
+
+(4) the number of acres and average fire intensity of wildfires affecting Federal land treated for wildfire, insect infestation, or disease prevention;
+
+(5) the number of acres and average fire intensity of wildfires affecting Federal land not treated for wildfire, insect infestation, or disease prevention;
+
+(6) the Federal response time for each fire on greater than 25,000 acres;
+
+(7) the number of miles of roads and trails on Federal land in need of maintenance;
+
+(8) the number of miles of roads on Federal land in need of decommissioning;
+
+(9) the maintenance backlog, as of the date of the report, for roads, trails, and recreational facilities on Federal land;
+
+(10) other measures needed to maintain, improve, or restore water quality on Federal land; and
+
+(11) other measures needed to improve ecosystem function or resiliency on Federal land.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+#### Definitions
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
+
+
 <a id="section-1751"></a>
 ## § 1751. Grazing fees; feasibility study; contents; submission of report; annual distribution and use of range betterment funds; nature of distributions
 **(a)** The Secretary of Agriculture and the Secretary of the Interior shall jointly cause to be conducted a study to determine the value of grazing on the lands under their jurisdiction in the eleven Western States with a view to establishing a fee to be charged for domestic livestock grazing on such lands which is equitable to the United States and to the holders of grazing permits and leases on such lands. In making such study, the Secretaries shall take into consideration the costs of production normally associated with domestic livestock grazing in the eleven Western States, differences in forage values, and such other factors as may relate to the reasonableness of such fees. The Secretaries shall report the result of such study to the Congress not later than one year from and after October 21, 1976, together with recommendations to implement a reasonable grazing fee schedule based upon such study. If the report required herein has not been submitted to the Congress within one year after October 21, 1976, the grazing fee charge then in effect shall not be altered and shall remain the same until such report has been submitted to the Congress. Neither Secretary shall increase the grazing fee in the 1977 grazing year.
@@ -1441,7 +1544,11 @@ Subsec. (b)(2) of this section is comprised of second and third sentences of sec
 1978—Subsec. (b)(1). Pub. L. 95–514 inserted “or $10,000,000 per annum, whichever is greater” after “50 per centum” and substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 
 #### Credit on Grazing Fee for Approved Conservation Practices
-Pub. L. 115–31, div. G, title III, May 5, 2017, 131 Stat. 477, provided in part: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred. And, that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary.”
+Pub. L. 115–141, div. G, title III, Mar. 23, 2018, 132 Stat. 671, provided in part: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred. And, that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 115–31, div. G, title III, May 5, 2017, 131 Stat. 477.
 
 #### Moratorium on Increase of Grazing Fee for 1978 Grazing Year
 Pub. L. 95–321, July 21, 1978, 92 Stat. 394, in order to allow the Congress sufficient time to analyze the report and recommendations of the Secretaries of Interior and Agriculture under subsec. (a) of this section and to take appropriate action, provided that the 1978 grazing year fee was not to be raised by the Secretary of the Interior for the grazing of livestock on public lands nor by the Secretary of Agriculture for such grazing on lands under the jurisdiction of the Forest Service.
@@ -1669,6 +1776,130 @@ Subsec. (c). Pub. L. 99–545, § 1(b), added subsec. (c).
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with land use permits for other associated land uses issued under sections 1761, and 1763 to 1771 of this title, and such functions of Secretary or other official in Department of the Interior related to compliance with land use permits for temporary use of public lands and other associated land uses, issued under sections 1732, 1761, and 1763 to 1771 of this title, with respect to pre-construction, construction, and initial operation of transportation systems for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 
+<a id="section-1761a"></a>
+## § 1761a. Streamlining the Forest Service process for consideration of communications facility location applications
+**(a) Definitions** In this section:
+
+(1) **Communications facility** — The term “communications facility” includes—
+
+  (A) any infrastructure, including any transmitting device, tower, or support structure, and any equipment, switches, wiring, cabling, power sources, shelters, or cabinets, associated with the licensed or permitted unlicensed wireless or wireline transmission of writings, signs, signals, data, images, pictures, and sounds of all kinds; and
+
+  (B) any antenna or apparatus that—
+
+    (i) is designed for the purpose of emitting radio frequency;
+
+    (ii) is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
+
+    (iii) is added to a tower, building, or other structure.
+
+(2) **Communications site** — The term “communications site” means an area of covered land designated for communications uses.
+
+(3) **Communications use** — The term “communications use” means the placement and operation of a communications facility.
+
+(4) **Communications use authorization** — The term “communications use authorization” means an easement, right-of-way, lease, license, or other authorization to locate or modify a communications facility on covered land by the Forest Service for the primary purpose of authorizing the occupancy and use of the covered land for communications use.
+
+(5) **Covered land** — The term “covered land” means National Forest System land.
+
+(6) **Forest Service** — The term “Forest Service” means the United States Forest Service of the Department of Agriculture.
+
+(7) **Organizational unit** — The term “organizational unit” means, within the Forest Service—
+
+  (A) a regional office;
+
+  (B) the headquarters;
+
+  (C) a management unit; or
+
+  (D) a ranger district office.
+
+**(b) Regulations** Notwithstanding [section 1455 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1455&num=0&edition=prelim) or section 606 of the Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018 (Public Law 115–141), not later than 1 year after December 20, 2018, the Secretary shall issue regulations—
+
+(1) to streamline the process for considering applications to locate or modify communications facilities on covered land;
+
+(2) to ensure, to the maximum extent practicable, that the process is uniform and standardized across the organizational units of the Forest Service; and
+
+(3) to require that the applications described in paragraph (1) be considered and granted on a competitively neutral, technology neutral, and non-discriminatory basis.
+
+**(c) Requirements** The regulations issued under subsection (b) shall include the following:
+
+(1) Procedures for the tracking of applications described in subsection (b)(1), including—
+
+  (A) identifying the number of applications—
+
+    (i) received;
+
+    (ii) approved; and
+
+    (iii) denied;
+
+  (B) in the case of an application that is denied, describing the reasons for the denial; and
+
+  (C) describing the amount of time between the receipt of an application and the issuance of a final decision on an application.
+
+(2) Provision for minimum lease terms of not less than 15 years for leases with respect to the location of communications facilities on covered land.
+
+(3) A structure of fees for—
+
+  (A) submitting an application described in subsection (b)(1), based on the cost to the Forest Service of considering such an application; and
+
+  (B) issuing communications use authorizations, based on the cost to the Forest Service of any maintenance or other activities required to be performed by the Forest Service as a result of the location or modification of the communications facility.
+
+(4) Provision for prioritization or streamlining of the consideration of applications to locate or modify communications facilities on covered land in a previously disturbed right-of-way.
+
+**(d) Additional considerations** In issuing regulations under subsection (b), the Secretary shall consider—
+
+(1) how discrete reviews in considering an application described in subsection (b)(1) can be conducted simultaneously, rather than sequentially, by any organizational units of the Forest Service that must approve the location or modification; and
+
+(2) how to eliminate overlapping requirements among the organizational units of the Forest Service with respect to the location or modification of a communications facility on covered land administered by those organizational units.
+
+**(e) Communication of streamlined process to organizational units** The Secretary shall, with respect to the regulations issued under subsection (b)—
+
+(1) communicate the regulations to the organizational units of the Forest Service; and
+
+(2) ensure that the organizational units of the Forest Service follow the regulations.
+
+**(f) Deposit and availability of fees**
+
+(1) **Special account** — The Secretary of the Treasury shall establish a special account in the Treasury for the Forest Service for the deposit of fees collected by the Forest Service under subsection (c)(3) for communications use authorizations on covered land granted, issued, or executed by the Forest Service.
+
+(2) **Requirements for fees collected** — Fees collected by the Forest Service under subsection (c)(3) shall be—
+
+  (A) based on the costs described in subsection (c)(3); and
+
+  (B) competitively neutral, technology neutral, and nondiscriminatory with respect to other users of the communications site.
+
+(3) **Deposit of fees** — Fees collected by the Forest Service under subsection (c)(3) shall be deposited in the special account established for the Forest Service under paragraph (1).
+
+(4) **Availability of fees** — Amounts deposited in the special account for the Forest Service shall be available, to the extent and in such amounts as are provided in advance in appropriation Acts, to the Secretary to cover costs incurred by the Forest Service described in subsection (c)(3), including the following:
+
+  (A) Preparing needs assessments or other programmatic analyses necessary to designate communications sites and issue communications use authorizations.
+
+  (B) Developing management plans for communications sites.
+
+  (C) Training for management of communications sites.
+
+  (D) Obtaining or improving access to communications sites.
+
+(5) **No additional appropriations authorized** — Except as provided in paragraph (4), no other amounts are authorized to be appropriated to carry out this section.
+
+**(g) Savings provisions**
+
+(1) **Real property authorities** — Nothing in this section, or the amendments made by this section, shall be construed as providing any executive agency with any new leasing or other real property authorities not existing prior to December 20, 2018.
+
+(2) **Effect on other laws** — Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelop any Federal real property pursuant to title 40, the Federal Assets Sale and Transfer Act of 2016 ([40 U.S.C. 1303](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1303&num=0&edition=prelim) note; Public Law 114–287), or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could otherwise be sold, leased, or redeveloped.
+
+### Statutory Notes
+
+#### References in Text
+Section 606 of the Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018, referred to in subsec. (b), is section 606 of div. P of Pub. L. 115–141, which amended [section 1455 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1455&num=0&edition=prelim), Telecommunications, and enacted provisions set out as notes under [section 1455 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1455&num=0&edition=prelim).
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+#### Definitions
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
+
+
 <a id="section-1762"></a>
 ## § 1762. Roads
 **(a) Authority to acquire, construct, and maintain; financing arrangements** The Secretary, with respect to the public lands, is authorized to provide for the acquisition, construction, and maintenance of roads within and near the public lands in locations and according to specifications which will permit maximum economy in harvesting timber from such lands tributary to such roads and at the same time meet the requirements for protection, development, and management of such lands for utilization of the other resources thereof. Financing of such roads may be accomplished (1) by the Secretary utilizing appropriated funds, (2) by requirements on purchasers of timber and other products from the public lands, including provisions for amortization of road costs in contracts, (3) by cooperative financing with other public agencies and with private agencies or persons, or (4) by a combination of these methods: Provided, That, where roads of a higher standard than that needed in the harvesting and removal of the timber and other products covered by the particular sale are to be constructed, the purchaser of timber and other products from public lands shall not, except when the provisions of the second proviso of this subsection apply, be required to bear that part of the costs necessary to meet such higher standard, and the Secretary is authorized to make such arrangements to this end as may be appropriate: Provided further, That when timber is offered with the condition that the purchaser thereof will build a road or roads in accordance with standards specified in the offer, the purchaser of the timber will be responsible for paying the full costs of construction of such roads.
@@ -1848,6 +2079,202 @@ Applicants before Federal departments and agencies other than the Department of 
 
 #### Transfer of Functions
 See note set out under [section 1763 of this title](./chapter-035-federal-land-policy-and-management.md#section-1763).
+
+
+<a id="section-1772"></a>
+## § 1772. Vegetation managment, facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way
+**(a) Definitions** In this section:
+
+(1) **Hazard tree** — The term “hazard tree” means any tree or part thereof (whether located inside or outside a right-of-way) that has been designated, prior to tree failure, by a certified or licensed arborist or forester under the supervision of the Secretary concerned or the owner or operator of a transmission or distribution facility to be—
+
+  (A) dead, likely to die within the routine vegetation management cycle, or likely to fail within the routine vegetation management cycle; and
+
+  (B) if the tree or part of the tree failed, likely to—
+
+    (i) cause substantial damage or disruption to a transmission or distribution facility; or
+
+    (ii) come within 10 feet of an electric power line.
+
+(2) **Owner; operator** — The terms “owner” and “operator” include contractors or other agents engaged by the owner or operator of an electric transmission or distribution facility.
+
+(3) **Plan** — The term “plan” means a vegetation management, facility inspection, and operation and maintenance plan that—
+
+  (A) is prepared by the owner or operator of 1 or more electric transmission or distribution facilities to cover 1 or more electric transmission and distribution rights-of-way; and
+
+  (B) provides for the long-term, cost-effective, efficient, and timely management of facilities and vegetation within the width of the right-of-way and abutting Federal land, including hazard trees, to enhance electric reliability, promote public safety, and avoid fire hazards.
+
+(4) **Secretary concerned** — The term “Secretary concerned” means—
+
+  (A) the Secretary, with respect to public lands; and
+
+  (B) the Secretary of Agriculture, with respect to National Forest System land.
+
+**(b) Guidance**
+
+(1) **In general** — To enhance the reliability of the electric grid and reduce the threat of wildfire damage to, and wildfire caused by vegetation-related conditions within, electric transmission and distribution rights-of-way and abutting Federal land, including hazard trees, the Secretary concerned shall issue and periodically update guidance to ensure that provisions are appropriately developed and implemented for utility vegetation management, facility inspection, and operation and maintenance of rights-of-way, regardless of the means by which the rights-of-way are established (including by grant, special use authorization, and easement).
+
+(2) **Limitation** — The guidance issued under paragraph (1) shall be compatible with mandatory reliability standards established by the Electric Reliability Organization.
+
+(3) **Considerations** — The guidance issued under paragraph (1) shall take into account—
+
+  (A) all applicable law, including fire safety and electric system reliability requirements (including reliability standards established by the Electric Reliability Organization under section 824o of title 16); and
+
+  (B) the Memorandum of Understanding on Vegetation Management for Powerline Rights-of-Way between the Edison Electric Institute, Utility Arborist Association, the Department of the Interior, the Department of Agriculture, and the Environmental Protection Agency signed in 2016.
+
+(4) **Requirements** — The guidance issued under paragraph (1) shall—
+
+  (A) be developed in consultation with the owners of transmission and distribution facilities that hold rights-of-way;
+
+  (B) seek to minimize the need for case-by-case approvals for—
+
+    (i) routine vegetation management, facility inspection, and operation and maintenance activities; and
+
+    (ii) utility vegetation management activities that are necessary to control hazard trees; and
+
+  (C) provide for prompt and timely review of requests to conduct vegetation management activities that require approval of the Secretary concerned, especially activities requiring expedited or immediate action.
+
+**(c) Vegetation management, facility inspection, and operation and maintenance plans**
+
+(1) **Development and submission** — Consistent with subsection (b), the Secretary concerned shall provide owners and operators of electric transmission or distribution facilities located on public lands and National Forest System land, as applicable, with the option to develop and submit a plan.
+
+(2) **ERO standards** — Owners and operators subject to mandatory reliability standards established by the Electric Reliability Organization (or superseding standards) may use those standards as part of the plan.
+
+(3) **Plan requirements** — A plan developed under paragraph (1) shall—
+
+  (A) identify the applicable transmission or distribution facilities to be maintained;
+
+  (B) take into account operations and maintenance plans for the applicable transmission or distribution line;
+
+  (C) describe the vegetation management, inspection, and operation and maintenance methods that may be used to comply with all applicable law, including fire safety requirements and reliability standards established by the Electric Reliability Organization;
+
+  (D) include schedules for—
+
+    (i) the applicable owner or operator to notify the Secretary concerned about routine and major maintenance;
+
+    (ii) the applicable owner or operator to request approval from the Secretary concerned about undertaking routine and major maintenance; and
+
+    (iii) the Secretary concerned to respond to a request by an owner or operator under clause (ii); and
+
+  (E) describe processes for—
+
+    (i) identifying changes in conditions; and
+
+    (ii) modifying the approved plan, if necessary.
+
+(4) **Review and approval process**
+
+  (A) *In general* — The Secretary concerned shall jointly develop a consolidated and coordinated process for the review and approval of plans submitted under paragraph (1) that—
+
+    (i) includes timelines and benchmarks for—
+
+      (I) the submission of agency comments on the plans and schedules for final decision; and
+
+      (II) the timely review of modifications of the plans in cases in which modifications are necessary;
+
+    (ii) is consistent with applicable law; and 11 So in original.
+
+    (iii) includes a process for modifications to a plan in a prompt manner if changed conditions necessitate a modification to a plan; and
+
+    (iv) ensures, to the maximum extent practicable, a prompt review and approval process not to exceed 120 days.
+
+  (B) *Plan modification* — Upon reasonable advance notice to an owner or operator of an electric transmission or distribution facility of any changed conditions that warrant a modification to a plan, the Secretary concerned shall—
+
+    (i) provide an opportunity for the owner or operator to submit a proposed plan modification, consistent with the process described under subparagraph (A)(iii), to address the changed condition identified by the Secretary concerned;
+
+    (ii) consider the proposed plan modification consistent with the process described under paragraph (4)(A); and
+
+    (iii) allow the owner or operator to continue to implement any element of the approved plan that does not directly and adversely affect the condition precipitating the need for modification.
+
+(5) **Categories of actions not requiring environmental analysis** — With respect to the development and approval of plans submitted under paragraph (1), as well as with respect to actions carried out under such plans, the Secretary concerned shall identify categories of actions for which neither an environmental impact statement nor an environmental assessment shall be required under section 1508.4 of title 40, Code of Federal Regulations (or a successor regulation).
+
+**(d) Certain owners and operators**
+
+(1) **In general** — The owner or operator of an electric transmission or distribution facility that is not subject to the mandatory reliability standards established by the Electric Reliability Organization or that sold less than or equal to 1,000,000 megawatt hours of electric energy for purposes other than resale during each of the 3 calendar years immediately preceding March 23, 2018, may enter into an agreement with the Secretary concerned in lieu of a plan under subsection (c).
+
+(2) **Minimum requirements** — The Secretary concerned shall ensure that the minimum requirements for an agreement under paragraph (1)—
+
+  (A) reflect the relative financial resources of the applicable owner or operator compared to other owners or operators of an electric transmission or distribution facility;
+
+  (B) include schedules as described in subsection (c)(3)(D);
+
+  (C) are subject to modification requirements as described in subsection (c)(4)(B); and
+
+  (D) comply with applicable law.
+
+**(e) Emergency conditions** If vegetation or hazard trees have contacted or present an imminent danger of contacting an electric transmission or distribution line from within or adjacent to an electric transmission or distribution right-of-way, the owner or operator of the electric transmission or distribution lines—
+
+(1) may prune or remove the vegetation or hazard tree—
+
+  (A) to avoid the disruption of electric service; and
+
+  (B) to eliminate immediate fire and safety hazards; and
+
+(2) shall notify the appropriate local agent of the Secretary concerned not later than 1 day after the date of the response to emergency conditions.
+
+**(f) Activities that require approval**
+
+(1) **In general** — Except as provided under paragraph (3), the owner or operator of an electric transmission or distribution facility may conduct vegetation management activities that require approval of the Secretary concerned in accordance with a plan approved under subsection (c) or an agreement entered into under subsection (d) only with the approval of the Secretary concerned.
+
+(2) **Requirement to respond** — The Secretary concerned shall respond to a request for approval to conduct vegetation management activities in accordance with the applicable schedules in a plan approved under subsection (c) or an agreement entered into under subsection (d).
+
+(3) **Authorized activities** — The owner or operator of an electric transmission or distribution facility may conduct vegetation management activities that require approval of the Secretary concerned in accordance with a plan approved under subsection (c) or an agreement entered into under subsection (d) without the approval of the Secretary concerned if—
+
+  (A) the owner or operator submitted a request to the Secretary concerned in accordance with the applicable schedule in a plan approved under subsection (c) or an agreement entered into under subsection (d);
+
+  (B) the vegetation management activities, including the removal of hazard trees, proposed in the request under subparagraph (A) are in accordance with a plan approved under subsection (c) or an agreement entered into under subsection (d); and
+
+  (C) the Secretary concerned fails to respond to the request under subparagraph (A) in accordance with the applicable schedule in a plan approved under subsection (c) or an agreement entered into under subsection (d).
+
+**(g) Liability**
+
+(1) **In general** — The Secretary concerned shall not impose strict liability for damages or injury resulting from—
+
+  (A) the Secretary concerned unreasonably withholding or delaying—
+
+    (i) approval of a plan under subsection (c); or
+
+    (ii) entrance into an agreement under subsection (d); or
+
+  (B) the Secretary concerned unreasonably failing to adhere to an applicable schedule in a plan approved under subsection (c) or an agreement entered into under subsection (d).
+
+(2) **Damages** — For the period ending 10 years after March 23, 2018, the Secretary concerned shall not impose strict liability in an amount greater than $500,000 per incident for damages or injury resulting from activities conducted by an owner or operator in accordance with an approved agreement under subsection (d).
+
+(3) **Rule of construction** — Nothing in paragraph (2) shall be construed to effect 1 any liability imposed by the Secretary concerned under section 251.56(d) of title 36, Code of Federal Regulations (as in effect on March 23, 2018) and section 2807.12 of title 43, Code of Federal Regulations (as in effect on March 23, 2018), for activities conducted by an owner or operator in accordance with an approved plan under subsection (c).
+
+**(h) Reporting requirement**
+
+(1) **Activities that require approval** — The Secretary concerned shall report requests and actions made under subsection (f) annually on the website of the Secretary concerned.
+
+(2) **Liability** — Not later than four years after March 23, 2018, the Secretary concerned shall prepare and submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate that describes the effect on the Treasury of the strict liability limitation established by subsection (g)(2).
+
+**(i) Training and guidance** In consultation with the electric utility industry, the Secretary concerned is encouraged to develop a program to train personnel of the Department of the Interior and the Forest Service involved in vegetation management decisions relating to electric transmission and distribution facilities to ensure that the personnel—
+
+(1) understand electric system reliability requirements as the requirements relate to vegetation management of transmission and distribution rights-of-way on Federal land, including reliability standards established by the Electric Reliability Organization and fire safety requirements;
+
+(2) assist owners and operators of electric transmission and distribution facilities in complying with applicable electric reliability and fire safety requirements;
+
+(3) encourage and assist willing owners and operators of electric transmission and distribution facilities to incorporate on a voluntary basis vegetation management practices to enhance habitats and forage for pollinators and for other wildlife if the practices are compatible with the integrated vegetation management practices necessary for reliability and safety; and
+
+(4) understand how existing and emerging unmanned technologies can help electric utilities, the Federal Government, State and local governments, and private landowners—
+
+  (A) to more efficiently identify vegetation management needs;
+
+  (B) to reduce the risk of wildfires; and
+
+  (C) to lower ratepayer energy costs.
+
+**(j) Implementation** The Secretary concerned shall—
+
+(1) not later than 1 year after March 23, 2018, propose regulations, or amend existing regulations, to implement this section; and
+
+(2) not later than 2 years after March 23, 2018, finalize regulations, or amend existing regulations, to implement this section.
+
+**(k) Existing vegetation management, facility inspection, and operation and maintenance plans** Nothing in this section requires an owner or operator to develop and submit a new plan under this section if a plan consistent with this section has already been approved by the Secretary concerned before March 23, 2018.
+
+### Statutory Notes
+
+#### Utility Infrastructure Rights-of-Way Vegetation Management Pilot Program
+Pub. L. 115–334, title VIII, § 8630, Dec. 20, 2018, 132 Stat. 4865, provided that: “(a) Definitions.—In this section:“(1) National forest system land.—“(A) In general.—The term ‘National Forest System land’ means land within the National Forest System, as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1609(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1609/a&num=0&edition=prelim)). “(B) Exclusions.—The term ‘National Forest System land’ does not include—“(i) a National Grassland; or “(ii) a land utilization project on land designated as a National Grassland and administered pursuant to sections 31, 32, and 33 of the Bankhead-Jones Farm Tenant Act ([7 U.S.C. 1010](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1010&num=0&edition=prelim), 1011, 1012). “(2) Passing wildfire.—The term ‘passing wildfire’ means a wildfire that originates outside of a right-of-way. “(3) Pilot program.—The term ‘pilot program’ means the pilot program established by the Secretary [of Agriculture] under subsection (b). “(4) Right-of-way.—The term ‘right-of-way’ means a special use authorization issued by the Forest Service allowing the placement of utility infrastructure. “(5) Utility infrastructure.—The term ‘utility infrastructure’ means electric transmission lines, natural gas infrastructure, or related structures. “(b) Establishment.—“(1) In general.—To encourage owners or operators of rights-of-way on National Forest System land to partner with the Forest Service to voluntarily conduct vegetation management projects on a proactive basis to better protect utility infrastructure from potential passing wildfires, the Secretary may establish a limited, voluntary pilot program, in the manner described in this section, to conduct vegetation management projects on National Forest System land adjacent to those rights-of-way. “(2) Application.—The pilot program shall not apply in a right-of-way described in paragraph (1). “(c) Eligible Participants.—“(1) In general.—A participant in the pilot program shall be the owner or operator of a right-of-way on National Forest System land. “(2) Selection priority.—In selecting participants for the pilot program, the Secretary shall give priority to an owner or operator of a right-of-way that has developed the utility infrastructure protection prescriptions of the owner or operator in coordination with Forest Service fire scientists or fire managers. “(d) Vegetation Management Projects.—“(1) In general.—A vegetation management project conducted under the pilot program shall involve only limited vegetation management activities that—“(A) shall create the least ground disturbance and least disturbance to wildlife reasonably necessary to protect utility infrastructure from passing wildfires based on applicable models, including Forest Service fuel models; “(B) may include thinning and treatment of surface fuels, ladder fuels, and activity fuels to create or maintain shaded fuel breaks or other appropriate measures recommended by Forest Service fire scientists or fire managers; “(C)(i) shall only be conducted on National Forest System land; and “(ii) shall not—“(I) extend for more than 150 feet from the electric transmission line for which the applicable participant has a right-of-way; or “(II) comprise an overall width, for both sides of that electric transmission line, that totals more than 200 feet; and “(D) shall not be conducted on—“(i) a component of the National Wilderness Preservation System; “(ii) a designated wilderness study area; “(iii) an inventoried roadless area; or “(iv) Federal land on which, by Act of Congress or Presidential proclamation, the removal of vegetation is restricted or prohibited. “(2) Approval.—Each vegetation management project described in paragraph (1) shall be subject to approval by the Forest Service in accordance with this section. “(3) Fire prevention.—In carrying out a vegetation management project under the pilot program, a participant shall adhere to—“(A) Forest Service regulations relating to spark arresting devices; “(B) Forest Service regulations limiting and prohibiting certain activities conducted by contractors in an area, based on weather conditions and fire danger; “(C) Forest Service regulations that apply to contractors removing vegetation on National Forest System land pursuant to a timber sale or stewardship contract, including regulations relating to—“(i) protection of residual trees and timber damaged by contractors; “(ii) protection measures needed for plants, animals, cultural resources, and cave resources; “(iii) streamcourse protection and erosion control; “(iv) fire plans, precautions, and precautionary periods; “(v) fire suppression costs; and “(vi) employment of eligible workers; and “(D) State regulations relating to the prevention of wildfires and contractors removing vegetation. “(4) Treatment of slash.—In carrying out a vegetation management project under the pilot program, a participant shall treat any activity fuels in a manner that—“(A) is satisfactory to the Forest Service; “(B) does not result in a fire hazard; and “(C) reduces the risk of an insect or disease outbreak. “(e) Project Costs.—“(1) In general.—Except as provided in paragraph (2) and subsection (f)(2), a participant in the pilot program shall be responsible for all costs, as determined by the Secretary, incurred in participating in the pilot program. “(2) Federal funding.—The Secretary may contribute funds for a vegetation management project conducted under the pilot program if the Secretary determines that the contribution is in the public interest. “(f) Liability.—“(1) Activities within rights-of-way.—Participation in the pilot program shall not affect any legal obligations or liability standards that arise under the right-of-way for activities in the right-of-way. “(2) Wildfires.—“(A) Operations fires.—“(i) In general.—With respect to fire suppression costs for a wildfire caused by the operations of a participant in the pilot program (other than an operation or activity of a participant described in subparagraph (B) or (C)), the participant shall reimburse the Forest Service for those costs, subject to a maximum dollar amount to which the Forest Service and the participant shall agree prior to the commencement of the project. “(ii) Credit for actions by participants.— “(I) In general.—If a participant in the pilot program provides actions, supplies, or equipment for use to suppress a wildfire described in clause (i) or at the request of the Forest Service, the cost of those actions, supplies, or equipment shall be credited toward the maximum dollar amount described in that clause. “(II) Reimbursement.—If the actual cost of a participant described in subclause (I) exceeds the maximum dollar amount described in clause (i), the Forest Service shall reimburse the participant for the excess. “(B) Negligent fires.—“(i) In general.—Subject to clause (ii), if a wildfire is caused by the negligence of a participant in the pilot program, or an agent of the participant, including a wildfire caused by smoking by persons engaged in the operations of the participant, the participant shall bear the cost of damages to Forest Service resources and the fire suppression costs resulting from the wildfire. “(ii) Limitation.—Except as provided in clause (iii), the costs borne by a participant under clause (i) shall not exceed $500,000. “(iii) Failure to comply.—If the start or spread of a wildfire described in clause (i) is caused by the failure of the participant to comply with specific safety requirements expressly imposed by the Forest Service as a condition of conducting a vegetation management project under the pilot program or by this section, the participant shall bear the cost of damages to Forest Service resources and the fire suppression costs resulting from the wildfire. “(C) Exceptions.—This paragraph shall not apply in the case of a wildfire caused by the felling of a tree by a participant in the pilot program, or an agent of the participant, onto an electric transmission line. “(3) Effect.—Nothing in this subsection relieves a participant in the pilot program of any liabilities to which the participant is subject—“(A) under State laws; or “(B) with regard to damages to property other than Forest Service property. “(g) Implementation.—“(1) In general.—Except as provided in paragraph (3), the Secretary shall use the authority of the Secretary under other laws (including regulations) to carry out the pilot program. “(2) Compliance with existing laws.—Except as provided in paragraph (3), a vegetation management project under the pilot program shall be—“(A) consistent with the applicable land management plan for the area in which the project is located; and “(B) carried out in accordance with all applicable laws, including the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.). “(3) Modification of regulations.—In order to implement the pilot program in an efficient and expeditious manner, the Secretary may waive or modify specific provisions of the Federal Acquisition Regulation, including waivers or modifications to allow for the formation of contracts or agreements on a noncompetitive basis. “(h) Treatment of Proceeds.—Notwithstanding any other provision of law, the Secretary may—“(1) retain any funds provided to the Forest Service by a participant in the pilot program; and “(2) use funds retained under paragraph (1), in such amounts as may be appropriated, to carry out the pilot program. “(i) Report to Congress.—Not later than December 31, 2020, and 2 years thereafter, the Secretary shall submit a report describing the status of the pilot program and vegetation management projects conducted under the pilot program to—“(1) the Committees on Agriculture, Nutrition, and Forestry and Energy and Natural Resources of the Senate; and “(2) the Committees on Agriculture and Natural Resources of the House of Representatives. “(j) Duration.—The authority to carry out the pilot program, including any vegetation management project conducted under the pilot program, expires on October 1, 2023.”
 
 
 <a id="section-1781"></a>

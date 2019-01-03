@@ -89,11 +89,23 @@ The reference to territories is omitted as unnecessary because of the definition
 
   (C) $300,000 for fiscal year 2008 and each fiscal year thereafter.
 
-**(g) Removing Vessels From Service and Vessel Sharing.—** The Secretary may not—
+**(g) Vessel Sharing.—**
 
-(1) take a vessel, currently in use as a training vessel under this section, out of service to implement an alternative program (including vessel sharing) unless the vessel is incapable of being maintained in good repair as required by subsection (d); or
+(1) **In general.—** — Not later than 90 days after the date of enactment of the National Defense Authorization Act for Fiscal Year 2019, the Secretary, acting through the Maritime Administrator, shall upon consultation with the maritime academies, and to the extent feasible with the consent of the maritime academies, implement a program of training vessel sharing, requiring maritime academies to share training vessel 11 So in original. Probably should be “vessels”. provided by the Secretary among maritime academies, as necessary to ensure that training needs of each academy are met.
 
-(2) implement a program requiring a State maritime academy to share its training vessel with another State maritime academy, except with the express consent of Congress.
+(2) **Program of vessel sharing.—** — For purposes of this subsection, a program of vessel sharing shall include—
+
+  (A) ways to maximize the available underway training available in the fleet of training vessels;
+
+  (B) coordinating the dates and duration of training cruises with the academic calendars of maritime academies;
+
+  (C) coordinating academic programs designed to be implemented aboard training vessels among maritime academies; and
+
+  (D) identifying ways to minimize costs.
+
+(3) **Additional funding.—** — Subject to the availability of appropriations, the Maritime Administrator may provide additional funding to State maritime academies during periods of limited training vessel capacity, for costs associated with training vessel sharing.
+
+(4) **Evaluation.—** — Not later than 30 days after the beginning of each fiscal year, the Secretary, acting through the Maritime Administrator, shall evaluate the vessel sharing program under this subsection to determine the optimal utilization of State maritime training vessels, and modify the program as necessary to improve utilization.
 
 ### Statutory Notes
 
@@ -117,7 +129,12 @@ In subsection (e), before paragraph (1), the word “agency” is substituted fo
 
 In subsection (g), the 1st–3d sentences of section 4 of Public Law 101–115 are omitted as obsolete.
 
+#### References in Text
+The date of enactment of the National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
+
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–232 amended subsec. (g) generally. Prior to amendment, subsec. (g) related to removing vessels from service and vessel sharing.
+
 2008—Pub. L. 110–181, § 3523(b), repealed Pub. L. 109–163, § 3502(b). See 2006 Amendment note below.
 
 Subsec. (f). Pub. L. 110–181, § 3523(a)(2), incorporated the substance of the amendment by Pub. L. 109–163, § 3502(b), by amending heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary may pay to a State maritime academy the costs of fuel used by a vessel provided under this section while used for training.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -137,11 +154,7 @@ Subsec. (f). Pub. L. 110–181, § 3523(a)(2), incorporated the substance of the
 
 (1) **In general.—** — Subject to paragraph (2), an annual payment to an academy under subsection (a) shall be at least equal to the amount given to the academy for its maintenance and support by the State in which it is located, or, for a regional maritime academy, by all States cooperating to sponsor the academy.
 
-(2) **Maximum.—** — The amount under paragraph (1) may not be more than $25,000. However, if the academy satisfies [section 51506(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section51506/b&num=0&edition=prelim), the amount shall be—
-
-  (A) $100,000 for a State maritime academy; and
-
-  (B) $300,000 for fiscal year 2006, $400,000 for fiscal year 2007, and $500,000 for fiscal year 2008 and each fiscal year thereafter for a regional maritime academy.
+(2) **Maximum.—** — The amount under paragraph (1) may not be more than $25,000, unless the academy satisfies [section 51506(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section51506/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -153,6 +166,12 @@ Subsec. (f). Pub. L. 110–181, § 3523(a)(2), incorporated the substance of the
 In subsection (b)(1), the reference to territories is omitted as unnecessary because of the definition of “State” in chapter 1 of the revised title.
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–232 amended par. (2) generally. Prior to amendment, text read as follows: “The amount under paragraph (1) may not be more than $25,000. However, if the academy satisfies [section 51506(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section51506/b&num=0&edition=prelim), the amount shall be—
+
+“(A) $100,000 for a State maritime academy; and
+
+“(B) $300,000 for fiscal year 2006, $400,000 for fiscal year 2007, and $500,000 for fiscal year 2008 and each fiscal year thereafter for a regional maritime academy.”
+
 2008—Pub. L. 110–181, § 3523(b), repealed Pub. L. 109–163, § 3502(a). See 2006 Amendment note below.
 
 Subsec. (b)(2)(B). Pub. L. 110–181, § 3523(a)(3), incorporated the substance of the amendment by Pub. L. 109–163, § 3502(a), into this section by substituting “$300,000 for fiscal year 2006, $400,000 for fiscal year 2007, and $500,000 for fiscal year 2008 and each fiscal year thereafter” for “$200,000”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).

@@ -40,6 +40,8 @@ source: >-
 
 (12) when a marine casualty occurs, a statement about the casualty and the circumstances under which it occurred, made immediately after the casualty when practicable to do so.
 
+(13) when a vessel fails to carry out ballast water management requirements as applicable and pursuant to regulations promulgated by the Secretary, including when the vessel fails to carry out ballast water management requirements due to an allowed safety exemption, a statement regarding the failure to comply and the circumstances under which the failure occurred, made immediately after the failure, when practicable to do so.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |
@@ -50,6 +52,8 @@ source: >-
 Section 11301 requires United States vessels on certain types of voyages to have an official logbook and lists the types of entries that must be made in the logbook.
 
 #### Amendments
+2018—Subsec. (b)(13). Pub. L. 115–282 added par. (13).
+
 1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)” after “100 gross tons”.
 
 1984—Subsec. (a). Pub. L. 98–557 amended subsec. (a) generally, which prior to amendment read as follows: “A vessel of the United States on a voyage between a port in the United States and a port in a foreign country, and a vessel of the United States of at least 75 gross tons on a voyage between a port of the United States on the Atlantic Ocean and a port of the United States on the Pacific Ocean, shall have an official logbook.”
@@ -104,12 +108,21 @@ Section 11303 provides a penalty for violation of the provisions about logbooks 
 
 <a id="section-11304"></a>
 ## § 11304. Additional logbook and entry requirements
-**(a)** A vessel of the United States that is subject to inspection under [section 3301 of this title](./chapter-033-inspection-generally.md#section-3301), except a vessel on a voyage from a port in the United States to a port in Canada, shall have an official logbook, which shall be kept available for review by the Secretary on request.
+**(a)** A vessel of the United States that is subject to inspection under [section 3301 of this title](./chapter-033-inspection-generally.md#section-3301), except a vessel on a voyage from a port in the United States to a port in Canada, shall have a logbook, which may be in any form, including electronic, and shall be kept available for review by the Secretary on request.
 
-**(b)** The log book required by subsection (a) shall include the following entries:
+**(b)** The logbook required by subsection (a) shall include the following entries:
 
 (1) The time when each seaman and each officer assumed or relieved the watch.
 
 (2) The number of hours in service to the vessels of each seaman and each officer.
 
-(3) An account of each accident, illness, and injury that occurs during each watch.
+(3) Each illness of, and injury to, a seaman of the vessel, the nature of the illness or injury, and the medical treatment provided for the injury or illness.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–282, § 511(a)(1), substituted “a logbook, which may be in any form, including electronic, and” for “an official logbook, which”.
+
+Subsec. (b). Pub. L. 115–282, § 511(b), which directed amendment of section 11304(b), without specifying the title to be amended, by substituting “logbook” for “log book”, was executed to this section in the introductory provisions of subsec. (b), to reflect the probable intent of Congress.
+
+Subsec. (b)(3). Pub. L. 115–282, § 511(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An account of each accident, illness, and injury that occurs during each watch.”

@@ -369,29 +369,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (3) The Secretary shall transmit the final report under paragraph (1) not later than 120 days following the completion of activities under this section.
 
-**(j) Semiannual reports**
+**(j) Quarterly briefing**
 
-(1) Not later than March 1 and September 1 each year until the year in which the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
+(1) Not later than 90 days after August 13, 2018, and every 90 days thereafter until the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall brief the members and committees of Congress referred to in paragraph (3) on the progress made by the United States toward fulfilling its chemical weapons destruction obligations under the Chemical Weapons Convention.
 
-(2) Each report under paragraph (1) shall include the following:
-
-  (A) The anticipated schedule at the time of such report for the completion of destruction of chemical agents, munitions, and materiel at each chemical weapons demilitarization facility in the United States.
-
-  (B) A description of the options and alternatives for accelerating the completion of chemical weapons destruction at each such facility, particularly in time to meet the stockpile elimination deadline.
-
-  (C) A description of the funding required to achieve each of the options for destruction described under subparagraph (B), and a detailed life-cycle cost estimate for each of the affected facilities included in each such funding profile.
-
-  (D) A description of all actions being taken by the United States to accelerate the destruction of its entire stockpile of chemical weapons, agents, and materiel in order to meet the current stockpile elimination deadline under the Chemical Weapons Convention of April 29, 2012, or as soon thereafter as possible.
-
-  (E) A description and justification for the use of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolysates. Such description and justification shall outline—
-
-    (i) the need for the use of supplemental destruction technologies and technologies developed for the treatment and disposal of energetic or agent hydrolystates;
-
-    (ii) site-by-site descriptions of the problematic aspects of the stockpile requiring the use of supplemental technologies;
-
-    (iii) the type of supplemental destruction technologies used at each site; and
-
-    (iv) any planned future use of other supplemental destruction technologies for each site.
+(2) Each briefing under paragraph (1) shall include a description of contractor costs and performance relative to schedule, the progress to date toward the complete destruction of the stockpile, and any other information the Secretary determines to be relevant.
 
 (3) The members and committees of Congress referred to in this paragraph are—
 
@@ -510,6 +492,12 @@ Pub. L. 109–163, § 921, which directed amendment of subsec. (c)(4) of this se
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+2018—Subsec. (j). Pub. L. 115–232, § 1424(1), substituted “Quarterly briefing” for “Semiannual reports” in heading.
+
+Subsec. (j)(1). Pub. L. 115–232, § 1424(2), substituted “Not later than 90 days after August 13, 2018, and every 90 days thereafter until” for “Not later than March 1 and September 1 each year until the year in which”, “brief the members” for “submit to the members”, “on the progress made” for “a report on the implementation”, and “toward fulfilling its chemical weapons destruction obligations” for “of its chemical weapons destruction obligations”.
+
+Subsec. (j)(2). Pub. L. 115–232, § 1424(3), added par. (2) and struck out former par. (2) which required each report under par. (1) to include the anticipated schedule at the time of such report for the completion of destruction of chemical weapons at each facility, a description of options for accelerating such completion, a description of the funding required to achieve each of the options, a description of all actions being taken to accelerate the destruction of the entire United States stockpile, and a justification for the use of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report.
+
 2015—Subsec. (b)(3). Pub. L. 114–92 substituted “December 31, 2023” for “December 31, 2017”.
 
 2013—Subsec. (i)(2)(E). Pub. L. 112–239, § 1421(a)(1), added subpar. (E).
@@ -629,6 +617,9 @@ Pub. L. 109–163, div. A, title IX, § 921(b), Jan. 6, 2006, 119 Stat. 3410, pr
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsecs. (i) and (j) of this section requiring submittal of annual and semiannual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
+
+#### Acquisition Reporting on Major Chemical Demilitarization Programs of the Department of Defense
+Pub. L. 115–91, div. A, title XIV, § 1415, Dec. 12, 2017, 131 Stat. 1708, provided that: “(a) Reporting on Major Programs.—Acquisition reporting on each major program within the chemical demilitarization programs of the Department of Defense, including construction in connection with such program, shall—“(1) comply with reporting guidelines for an Acquisition Category 1 (ACAT 1) system; and “(2) be reported separately from acquisition reporting on the other major program within the chemical demilitarization programs of the Department of Defense. “(b) Major Program Within the Chemical Demilitarization Programs of the Department of Defense Defined.—In this section, the term ‘major program within the chemical demilitarization programs of the Department of Defense’ means each program as follows:“(1) Pueblo Chemical Agent Destruction Pilot Plant program, Colorado. “(2) Blue Grass Chemical Agent Destruction Pilot Plant program, Kentucky.”
 
 #### Sense of Congress on Completion of Destruction of United States Chemical Weapons Stockpile
 Pub. L. 110–181, div. A, title IX, § 922, Jan. 28, 2008, 122 Stat. 282, as amended by Pub. L. 111–383, div. A, title XIV, § 1421(b)(10), Jan. 7, 2011, 124 Stat. 4420, provided that: “(a) Findings.—Congress makes the following findings:“(1) The Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, done at Paris on January 13, 1993 (commonly referred to as the ‘Chemical Weapons Convention’), requires that destruction of the entire United States chemical weapons stockpile be completed by not later than April 29, 2007. “(2) In 2006, under the terms of the Chemical Weapons Convention, the United States requested and received a one-time, 5-year extension of its chemical weapons destruction deadline to April 29, 2012. “(3) On April 10, 2006, the Secretary of Defense notified Congress that the United States would not meet even the extended deadline under the Chemical Weapons Convention for destruction of the United States chemical weapons stockpile, but would ‘continue working diligently to minimize the time to complete destruction without sacrificing safety and security’ and would also ‘continue requesting resources needed to complete destruction as close to April 2012 as practicable’. “(4) The United States chemical demilitarization program has met its one percent, 20 percent, and extended 45 percent destruction deadlines under the Chemical Weapons Convention. “(5) Destroying the remaining stockpile of United States chemical weapons is imperative for public safety and homeland security, and doing so by April 2012, in accordance with the current destruction deadline provided under the Chemical Weapons Convention, is required by United States law. “(6) The elimination of chemical weapons anywhere they exist in the world, and the prevention of their proliferation, is of utmost importance to the national security of the United States. “(7) Section 921(b)(3) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2359) contained a sense of Congress urging the Secretary of Defense to ensure the elimination of the United States chemical weapons stockpile in the shortest time possible, consistent with the requirement to protect public health, safety, and the environment. “(8) Section 921(b)(4) of that Act contained a sense of Congress urging the Secretary of Defense to propose a credible treatment and disposal process with the support of affected communities. In this regard, any such process should provide for sufficient communication and consultation between representatives of the Department of Defense and representatives of affected States and communities. “(b) Sense of Congress.—It is the sense of Congress that—“(1) the United States is, and must remain, committed to making every effort to safely dispose of its entire chemical weapons stockpile by April 2012, the current destruction deadline provided under the Chemical Weapons Convention, or as soon thereafter as possible, and must carry out all of its other obligations under the Convention; and “(2) the Secretary of Defense should make every effort to plan for, and to request in the annual budget of the President submitted to Congress adequate funding to complete, the elimination of the United States chemical weapons stockpile in accordance with United States obligations under the Chemical Weapons Convention and in a manner that will protect public health, safety, and the environment, as required by law. “[(c) Repealed. Pub. L. 111–383, div. A, title XIV, § 1421(b)(10), Jan. 7, 2011, 124 Stat. 4420.]”

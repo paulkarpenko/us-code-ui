@@ -285,7 +285,7 @@ Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referr
 
 (2) an employee of any person, except as provided in a collective bargaining agreement, used by such eligible petitioner in the operation of a route under this section shall be considered an employee of that eligible petitioner and subject to the applicable Federal laws and regulations governing similar crafts or classes of employees of Amtrak; and
 
-(3) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder, and shall be subject to the grant conditions under section 24405.
+(3) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder, and shall be subject to the grant conditions under section 22905.
 
 **(d) Cessation of Service.—** If an eligible petitioner awarded a route under this section ceases to operate the service or fails to fulfill an obligation under a contract required under subsection (b)(1)(E), the Secretary, in collaboration with the Surface Transportation Board, shall take any necessary action consistent with this title to enforce the contract and ensure the continued provision of service, including—
 
@@ -337,6 +337,8 @@ The date of enactment of the Passenger Rail Reform and Investment Act of 2015, r
 Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (e), is section 11101 of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1622, which is not classified to the Code.
 
 #### Amendments
+2019—Subsec. (c)(3). Pub. L. 115–420 substituted “22905” for “24405”.
+
 2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to alternate passenger rail service pilot program.
 
 #### Effective Date of 2015 Amendment

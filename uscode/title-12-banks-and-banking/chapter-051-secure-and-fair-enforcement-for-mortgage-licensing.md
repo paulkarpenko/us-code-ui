@@ -2,7 +2,7 @@
 title: 12
 chapter: '51'
 heading: SECURE AND FAIR ENFORCEMENT FOR MORTGAGE LICENSING
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -457,8 +457,23 @@ The Bureau, any State official or agency, or any organization serving as the adm
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–174, title I, § 106(c), (d), May 24, 2018, 132 Stat. 1304, provided that, effective 18 months after May 24, 2018, this section is amended by striking “persons who are loan originators or are applying for licensing or registration as loan originators.” and inserting “persons who—
+
+“(1) have applied, are applying, or are licensed or registered through the Nationwide Mortgage Licensing System and Registry; and
+
+“(2) work in an industry with respect to which persons were licensed or registered through the Nationwide Mortgage Licensing System and Registry on May 24, 2018.”
+
+See 2018 Amendment note below.
+
 #### Prior Provisions
 A prior section 5112, Pub. L. 110–289, div. A, title V, § 1513, July 30, 2008, 122 Stat. 2820, which barred liability for good faith actions or omissions by certain entities’ officers or employees, was repealed by Pub. L. 111–203, title X, § 1100(8), July 21, 2010, 124 Stat. 2107.
+
+#### Amendments
+2018—Pub. L. 115–174 substituted “persons who—” for “persons who are loan originators or are applying for licensing or registration as loan originators.” and added pars. (1) and (2).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–174, title I, § 106(d), May 24, 2018, 132 Stat. 1304, provided that: “This section [enacting [section 5117 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5117) and amending this section] and the amendments made by this section shall take effect on the date that is 18 months after the date of enactment of this Act [May 24, 2018].”
 
 #### Effective Date
 Section effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
@@ -569,3 +584,75 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-5117"></a>
+## § 5117. Employment transition of loan originators
+**(a) Definitions** In this section:
+
+(1) **Application State** — The term “application State” means a State in which a registered loan originator or a State-licensed loan originator seeks to be licensed.
+
+(2) **State-licensed mortgage company** — The term “State-licensed mortgage company” means an entity that is licensed or registered under the law of any State to engage in residential mortgage loan origination and processing activities.
+
+**(b) Temporary authority to originate loans for loan originators moving from a depository institution to a non-depository institution**
+
+(1) **In general** — Upon becoming employed by a State-licensed mortgage company, an individual who is a registered loan originator shall be deemed to have temporary authority to act as a loan originator in an application State for the period described in paragraph (2) if the individual—
+
+  (A) has not had—
+
+    (i) an application for a loan originator license denied; or
+
+    (ii) a loan originator license revoked or suspended in any governmental jurisdiction;
+
+  (B) has not been subject to, or served with, a cease and desist order—
+
+    (i) in any governmental jurisdiction; or
+
+    (ii) under [section 5113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5113/c&num=0&edition=prelim);
+
+  (C) has not been convicted of a misdemeanor or felony that would preclude licensure under the law of the application State;
+
+  (D) has submitted an application to be a State-licensed loan originator in the application State; and
+
+  (E) was registered in the Nationwide Mortgage Licensing System and Registry as a loan originator during the 1-year period preceding the date on which the information required under [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5104/a&num=0&edition=prelim) is submitted.
+
+(2) **Period** — The period described in this paragraph shall begin on the date on which an individual described in paragraph (1) submits the information required under [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5104/a&num=0&edition=prelim) and shall end on the earliest of the date—
+
+  (A) on which the individual withdraws the application to be a State-licensed loan originator in the application State;
+
+  (B) on which the application State denies, or issues a notice of intent to deny, the application;
+
+  (C) on which the application State grants a State license; or
+
+  (D) that is 120 days after the date on which the individual submits the application, if the application is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
+
+**(c) Temporary authority to originate loans for State-licensed loan originators moving interstate**
+
+(1) **In general** — A State-licensed loan originator shall be deemed to have temporary authority to act as a loan originator in an application State for the period described in paragraph (2) if the State-licensed loan originator—
+
+  (A) meets the requirements of subparagraphs (A), (B), (C), and (D) of subsection (b)(1);
+
+  (B) is employed by a State-licensed mortgage company in the application State; and
+
+  (C) was licensed in a State that is not the application State during the 30-day period preceding the date on which the information required under [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5104/a&num=0&edition=prelim) was submitted in connection with the application submitted to the application State.
+
+(2) **Period** — The period described in this paragraph shall begin on the date on which the State-licensed loan originator submits the information required under [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5104/a&num=0&edition=prelim) in connection with the application submitted to the application State and end on the earliest of the date—
+
+  (A) on which the State-licensed loan originator withdraws the application to be a State-licensed loan originator in the application State;
+
+  (B) on which the application State denies, or issues a notice of intent to deny, the application;
+
+  (C) on which the application State grants a State license; or
+
+  (D) that is 120 days after the date on which the State-licensed loan originator submits the application, if the application is listed on the Nationwide Mortgage Licensing System and Registry as incomplete.
+
+**(d) Applicability**
+
+(1) **Employer of loan originators** — Any person employing an individual who is deemed to have temporary authority to act as a loan originator in an application State under this section shall be subject to the requirements of this chapter and to applicable State law to the same extent as if that individual was a State-licensed loan originator licensed by the application State.
+
+(2) **Engaging in mortgage loan activities** — Any individual who is deemed to have temporary authority to act as a loan originator in an application State under this section and who engages in residential mortgage loan origination activities shall be subject to the requirements of this chapter and to applicable State law to the same extent as if that individual was a State-licensed loan originator licensed by the application State.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 18 months after May 24, 2018, see section 106(d) of Pub. L. 115–174, set out as an Effective Date of 2018 Amendment note under [section 5112 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5112).

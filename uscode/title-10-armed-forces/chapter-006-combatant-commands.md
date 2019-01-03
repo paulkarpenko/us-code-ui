@@ -2,7 +2,7 @@
 title: 10
 chapter: '6'
 heading: COMBATANT COMMANDS
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -37,6 +37,9 @@ source: >-
 (3) The term “combatant command” means a unified combatant command or a specified combatant command.
 
 ### Statutory Notes
+
+#### Change of Name
+Pub. L. 115–232, div. A, title XII, § 1251(a), Aug. 13, 2018, 132 Stat. 2053, provided that: “The combatant command known as the United States Pacific Command shall be known as the ‘United States Indo-Pacific Command’. Any reference to the United States Pacific Command in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the United States Indo-Pacific Command.”
 
 #### Matters To Be Considered in Next Assessment of Current Missions, Responsibilities, and Force Structure of Unified Combatant Commands
 Pub. L. 104–201, div. A, title IX, § 905, Sept. 23, 1996, 110 Stat. 2619, required the Chairman of the Joint Chiefs of Staff to consider, as part of the next periodic review after Sept. 23, 1996, pursuant to subsec. (b) of this section: (1) whether there was an adequate distribution of responsibilities among the regional unified combatant commands; (2) whether fewer or differently configured commands would permit the United States to better execute warfighting plans; (3) whether any assets or activities were redundant; (4) whether warfighting requirements were adequate to justify current commands; (5) whether exclusion of certain nations from the Areas of Responsibility presented difficulties with respect to national security objectives in those areas; and (6) whether the boundary between the United States Central and European Commands could create command conflicts in the context of a major regional conflict in the Middle East.
@@ -77,7 +80,7 @@ Barack Obama.
 
 (1) As directed by the Secretary of Defense, the Secretaries of the military departments shall assign specified forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
 
-(2) A force not assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under paragraph (1) shall remain assigned to the military department concerned for carrying out the responsibilities of the Secretary of the military department concerned as specified in section 3013, 5013, or 8013 of this title, as applicable.
+(2) A force not assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under paragraph (1) shall remain assigned to the military department concerned for carrying out the responsibilities of the Secretary of the military department concerned as specified in section 7013, 8013, or 9013 of this title, as applicable.
 
 (3) A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under this section may be transferred from the command to which it is assigned only—
 
@@ -85,7 +88,7 @@ Barack Obama.
 
   (B) under procedures prescribed by the Secretary and approved by the President.
 
-(4) Except as otherwise directed by the Secretary of Defense, all forces assigned to a unified combatant command shall be under the command of,11 So in original. The comma probably should not appear. the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
+(4) Except as otherwise directed by the Secretary of Defense, all forces assigned to a unified combatant command shall be under the command of the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
 
 **(b) Chain of Command.—** Unless otherwise directed by the President, the chain of command to a unified or specified combatant command runs—
 
@@ -96,6 +99,10 @@ Barack Obama.
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–232 substituted “section 7013, 8013, or 9013” for “section 3013, 5013, or 8013”.
+
+2017—Subsec. (a)(4). Pub. L. 115–91 struck out comma after “command of”.
+
 2016—Subsec. (a)(1). Pub. L. 114–328, § 924(1), substituted “As directed by the Secretary of Defense” for “Except as provided in paragraph (2)” and “specified forces” for “all forces” and struck out “Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned.” before “The Secretary of Defense”.
 
 Subsec. (a)(2). Pub. L. 114–328, § 924(2), added par. (2) and struck out former par. (2) which read as follows: “Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.”
@@ -109,6 +116,9 @@ Pub. L. 114–328, § 924(3)(A), which directed striking out “operating with t
 1988—Subsec. (a)(1) to (3). Pub. L. 100–456 inserted “or to the United States element of the North American Air Defense Command”.
 
 1987—Subsec. (a)(2). Pub. L. 100–180 inserted before period at end “or forces assigned to multinational peacekeeping organizations”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Implementation of Assignment of Forces to Combatant Commands
 Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided that [section 162(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section162/a&num=0&edition=prelim) shall be implemented not later than 90 days after Oct. 1, 1986.
@@ -145,7 +155,7 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided th
 
   (A) has the joint specialty under [section 661 of this title](./chapter-038-joint-officer-management.md#section-661); and
 
-  (B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) 11 See References in Text note below. of this title) as a general or flag officer.
+  (B) has completed a full tour of duty in a joint duty assignment (as defined in [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim)) as a general or flag officer.
 
 (2) The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
 
@@ -239,10 +249,9 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided th
 
 ### Statutory Notes
 
-#### References in Text
-[Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(1)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
-
 #### Amendments
+2017—Subsec. (a)(1)(B). Pub. L. 115–91 substituted “section 664(d)” for “section 664(f)”.
+
 2016—Subsec. (b)(3). Pub. L. 114–328, § 921(e)(1), added par. (3).
 
 Subsec. (e)(4). Pub. L. 114–328, § 516, substituted “a reserve component of the armed forces” for “the National Guard” and “a reserve component officer” for “a National Guard officer”.
@@ -289,14 +298,13 @@ Pub. L. 99–433, title II, § 214(b), Oct. 1, 1986, 100 Stat. 1018, authorized 
 
 (4) Selected operations.
 
-**(c) SOF Training With Foreign Forces.—** A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in [section 2011 of this title](./chapter-101-training-generally.md#section-2011).11 See References in Text note below.
+**(c) SOF Training With Foreign Forces.—** A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in [section 322 of this title](./chapter-016-security-cooperation.md#section-322).
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2011 of this title](./chapter-101-training-generally.md#section-2011), referred to in subsec. (c), was renumbered [section 322 of this title](./chapter-016-security-cooperation.md#section-322) by Pub. L. 114–328, div. A, title XII, § 1244(b), Dec. 23, 2016, 130 Stat. 2518.
-
 #### Amendments
+2017—Subsec. (c). Pub. L. 115–91 substituted “section 322” for “section 2011”.
+
 1991—Subsec. (c). Pub. L. 102–190 added subsec. (c).
 
 #### Effective Date
@@ -402,7 +410,7 @@ Pub. L. 102–396, § 9128(c), inserted before period at end “(c) Priority.—
 
 “(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States.”
 
-Subsec. (e)(1)(C). Pub. L. 102–484, § 934(d), amended subpar. (C) generally. Prior to amendment, subsec. (C) read as follows: “not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
+Subsec. (e)(1)(C). Pub. L. 102–484, § 934(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
 
 Pub. L. 102–396, § 9128(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not more than $500,000 may be used to provide military education and training to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
 
@@ -660,7 +668,7 @@ Pub. L. 102–484, div. A, title IX, § 936(a), (b), Oct. 23, 1992, 106 Stat. 24
 
 Pub. L. 100–180, div. A, title XII, § 1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, § 1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
 
-Pub. L. 99–661, div. A, title XIII, § 1311(c)–(e), Nov. 14, 1986, 100 Stat. 3985, 3986, provided that: “(c) Major Force Program Category.—The Secretary of Defense shall create for the special operations forces a major force program category for the Five-Year Defense Plan of the Department of Defense. The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, with the advice and assistance of the commander of the special operations command, shall provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category. “(d) Program and Budget Execution.—To the extent that there is authority to revise programs and budgets approved by Congress for special operations forces, such authority may be exercised only by the Secretary of Defense, after consulting with the commander of the special operations command. “(e) Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command, and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade.”
+Pub. L. 99–661, div. A, title XIII, § 1311(c)–(e), Nov. 14, 1986, 100 Stat. 3985, 3986, provided that: “(c) Major Force Program Category.—The Secretary of Defense shall create for the special operations forces a major force program category for the Five-Year Defense Plan of the Department of Defense. The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, with the advice and assistance of the commander of the special operations command, shall provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category. “(d) Program and Budget Execution.—To the extent that there is authority to revise programs and budgets approved by Congress for special operations forces, such authority may be exercised only by the Secretary of Defense, after consulting with the commander of the special operations command. “(e) Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command [now United States Indo-Pacific Command], and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade.”
 
 [Identical provisions were contained in section 101(c) [§ 9115(c)–(e)] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, § 936(c), Oct. 23, 1992, 106 Stat. 2479.]
 
@@ -669,46 +677,11 @@ Pub. L. 99–500, § 101(c) [title IX, § 9115(h)(2)], Oct. 18, 1986, 100 Stat. 
 
 
 <a id="section-167a"></a>
-## § 167a. Unified combatant command for joint warfighting experimentation: acquisition authority
-**(a) Limited Acquisition Authority for Commander of Certain Unified Combatant Command.—** The Secretary of Defense may delegate to the commander of the unified combatant command referred to in subsection (b) authority of the Secretary under chapter 137 of this title sufficient to enable the commander to develop, acquire, and maintain equipment described in subsection (c). The exercise of authority so delegated is subject to the authority, direction, and control of the Secretary.
-
-**(b) Command Described.—** The commander to whom authority is delegated under subsection (a) is the commander of the unified combatant command that has the mission for joint warfighting experimentation, as assigned by the Secretary of Defense.
-
-**(c) Equipment.—** The equipment referred to in subsection (a) is as follows:
-
-(1) Equipment for battle management command, control, communications, and intelligence.
-
-(2) Any other equipment that the commander referred to in subsection (b) determines necessary and appropriate for—
-
-  (A) facilitating the use of joint forces in military operations; or
-
-  (B) enhancing the interoperability of equipment used by the various components of joint forces.
-
-**(d) Exceptions.—** The authority delegated under subsection (a) does not apply to the development or acquisition of a system for which—
-
-(1) the total expenditure for research, development, test, and evaluation is estimated to be $10,000,000 or more; or
-
-(2) the total expenditure for procurement is estimated to be $50,000,000 or more.
-
-**(e) Internal Audits and Inspections.—** The commander referred to in subsection (b) shall require the inspector general of that command to conduct internal audits and inspections of purchasing and contracting administered by the commander under the authority delegated under subsection (a).
-
-**(f) Limitation on Authority To Maintain Equipment.—** The authority delegated under subsection (a) to maintain equipment is subject to the availability of funds authorized and appropriated specifically for that purpose.
-
-**(g) Termination.—** The Secretary may delegate the authority referred to in subsection (a) only during fiscal years 2004 through 2010, and any authority so delegated shall not be in effect after September 30, 2010.
+## § 167a. Repealed. Pub. L. 115–232, div. A, title VIII, § 812(a)(1)(A), Aug. 13, 2018, 132 Stat. 1846]
 
 ### Statutory Notes
 
-#### Amendments
-2008—Subsec. (a). Pub. L. 110–181, § 825(a)(1), substituted “, acquire, and maintain” for “and acquire”.
-
-Subsec. (f). Pub. L. 110–181, § 825(a)(3), added subsec. (f). Former subsec. (f) redesignated (g).
-
-Subsec. (g). Pub. L. 110–181, § 825(a)(2), (b), redesignated subsec. (f) as (g) and substituted “through 2010” for “through 2008” and “September 30, 2010” for “September 30, 2008”.
-
-2006—Subsec. (f). Pub. L. 109–163 substituted “through 2008” for “through 2006” and “September 30, 2008” for “September 30, 2006”.
-
-#### Comptroller General Report
-Pub. L. 108–136, div. A, title VIII, § 848(b), Nov. 24, 2003, 117 Stat. 1555, required the Comptroller General to review the implementation of this section and submit to Congress a report on such review not later than two years after Nov. 24, 2003.
+Section, added Pub. L. 108–136, div. A, title VIII, § 848(a)(1), Nov. 24, 2003, 117 Stat. 1554; amended Pub. L. 109–163, div. A, title VIII, § 846(a), Jan. 6, 2006, 119 Stat. 3391; Pub. L. 110–181, div. A, title VIII, § 825, Jan. 28, 2008, 122 Stat. 227, provided for delegation of limited acquisition authority to the commander of the unified combatant command for joint warfighting experimentation.
 
 
 <a id="section-167b"></a>
@@ -719,13 +692,7 @@ Pub. L. 108–136, div. A, title VIII, § 848(b), Nov. 24, 2003, 117 Stat. 1555,
 
 **(c) Grade of Commander.—** The commander of the cyber command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating that officer’s permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 
-**(d) Command of Activity or Mission.—**
-
-(1) Unless otherwise directed by the President or the Secretary of Defense, a cyber operations activity or mission shall be conducted under the command of the commander of the unified combatant command in whose geographic area the activity or mission is to be conducted.
-
-(2) The commander of the cyber command shall exercise command of a selected cyber operations mission if directed to do so by the President or the Secretary of Defense.
-
-**(e) Authority of Combatant Commander.—**
+**(d) Authority of Combatant Commander.—**
 
 (1) In addition to the authority prescribed in [section 164(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section164/c&num=0&edition=prelim), the commander of the cyber command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to cyber operations activities.
 
@@ -741,7 +708,7 @@ Pub. L. 108–136, div. A, title VIII, § 848(b), Nov. 24, 2003, 117 Stat. 1555,
 
       (I) for forces assigned directly to the cyber command; and
 
-      (II) for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 11 So in original. Probably should be “2016”. (Public Law 114–92; 129 Stat. 886; [10 U.S.C. 2224](./chapter-131-planning-and-coordination.md#section-2224) note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
+      (II) for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 886; [10 U.S.C. 2224](./chapter-131-planning-and-coordination.md#section-2224) note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
 
     (iv) Training and certification of assigned joint forces.
 
@@ -769,12 +736,38 @@ Pub. L. 108–136, div. A, title VIII, § 848(b), Nov. 24, 2003, 117 Stat. 1555,
 
   (C) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the cyber operations command and such other inspector general functions as may be assigned.
 
-**(f) Intelligence and Special Activities.—** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.).
+**(e) Intelligence and Special Activities.—** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsec. (f), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of this title. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+2017—Subsec. (d). Pub. L. 115–91, § 1635, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to command of activity or mission.
+
+Subsec. (e). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, § 1081(a)(12), substituted “Fiscal Year 2016” for “Fiscal Year 2014”.
+
+Subsec. (f). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e).
+
+#### Elevation of U.S. Cyber Command to a Unified Combatant Command
+Memorandum of President of the United States, Aug. 15, 2017, 82 F.R. 39953, provided:
+
+Memorandum for the Secretary of Defense
+
+Pursuant to my authority as the Commander in Chief and under sections 161 and 167b of title 10, United States Code, and in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, I direct that U.S. Cyber Command be established as a Unified Combatant Command. I also direct the Secretary of Defense to recommend an officer for my nomination and Senate confirmation as commander in order to establish U.S. Cyber Command as a Unified Combatant Command.
+
+I assign to U.S. Cyber Command: (1) all the general responsibilities of a Unified Combatant Command; (2) the cyberspace-related responsibilities previously assigned to the Commander, U.S. Strategic Command; (3) the responsibilities of Joint Force Provider and Joint Force Trainer; and (4) all other responsibilities identified in [section 167b of title 10](./chapter-006-combatant-commands.md#section-167b), United States Code. The comprehensive list of authorities and responsibilities for U.S. Cyber Command will be included in the next update to the Unified Command Plan.
+
+I further direct that the Secretary of Defense, in coordination with the Director of National Intelligence, provide a recommendation and, as appropriate, a plan to me regarding the future command relationship between the U.S. Cyber Command and the National Security Agency.
+
+Consistent with [section 161(b)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section161/b/2&num=0&edition=prelim), United States Code, and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, you are directed to notify the Congress on my behalf.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-168"></a>
@@ -797,3 +790,63 @@ Pub. L. 111–84, div. A, title XII, § 1207, Oct. 28, 2009, 123 Stat. 2514, as 
 
 #### Agreements for Exchange of Defense Personnel Between United States and Foreign Countries
 Pub. L. 104–201, div. A, title X, § 1082, Sept. 23, 1996, 110 Stat. 2672, which related to agreements for exchange of defense personnel between the United States and foreign countries, was repealed by Pub. L. 114–328, div. A, title XII, § 1242(c)(1), Dec. 23, 2016, 130 Stat. 2513. See [section 311 of this title](./chapter-016-security-cooperation.md#section-311).
+
+
+<a id="section-169"></a>
+## § 169. Subordinate unified command of the United States Strategic Command
+**(a) Establishment.—** With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under the United States Strategic Command a subordinate unified command to be known as the United States Space Command (in this section referred to as “space command”) for carrying out joint space warfighting operations.
+
+**(b) Assignment of Forces.—** Unless otherwise directed by the Secretary of Defense, all active and reserve space warfighting operational forces of the armed forces shall be assigned to the space command.
+
+**(c) Commander.—**
+
+(1) The commander of the space command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating the permanent grade of the officer. The commander shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position. The position shall be designated, pursuant to subsection (b) of [section 526 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526), as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
+
+(2) During the three-year period following the date on which the space command is established, the commander of the Air Force Space Command may also serve as the commander of the space command so established. After such period, one individual may not concurrently serve as both such commanders.
+
+**(d) Authority of Commander.—**
+
+(1) Subject to the authority, direction, and control of the commander of the United States Strategic Command, the commander of the space command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to joint space warfighting operations.
+
+(2)
+
+  (A) Subject to the authority, direction, and control of the Deputy Secretary of Defense, the commander of the space command shall be responsible for, and shall have the authority to conduct, the following functions relating to joint space warfighting operations (whether or not relating to the space command):
+
+    (i) Developing strategy, doctrine, and tactics.
+
+    (ii) Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for space operations forces and for other forces assigned to the space command.
+
+    (iii) Exercising authority, direction, and control over the expenditure of funds for forces assigned directly to the space command.
+
+    (iv) Training and certification of assigned joint forces.
+
+    (v) Conducting specialized courses of instruction for commissioned and noncommissioned officers.
+
+    (vi) Validating requirements.
+
+    (vii) Establishing priorities for requirements.
+
+    (viii) Ensuring the interoperability of equipment and forces.
+
+    (ix) Formulating and submitting requirements for intelligence support.
+
+    (x) Monitoring the promotion of space operation forces and coordinating with the military departments regarding the assignment, retention, training, professional military education, and special and incentive pays of space operation forces.
+
+  (B) The authority, direction, and control exercised by the Deputy Secretary of Defense for purposes of this paragraph is authority, direction, and control with respect to the administration and support of the space command, including readiness and organization of space operations forces, space operations-peculiar equipment and resources, and civilian personnel.
+
+  (C) Nothing in this paragraph shall be construed as providing the Deputy Secretary of Defense authority, direction, and control of operational matters that are subject to the operational chain of command of the combatant commands or the exercise of authority, direction, and control of personnel, resources, equipment, and other matters that are not space-operations peculiar and that are in the purview of the armed forces.
+
+(3) The commander of the space command shall be responsible for—
+
+  (A) ensuring the combat readiness of forces assigned to the space command; and
+
+  (B) monitoring the preparedness to carry out assigned missions of space forces assigned to unified combatant commands other than the United States Strategic Command.
+
+(4) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the space command and such other inspector general functions as may be assigned.
+
+**(e) Intelligence and Special Activities.—** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.

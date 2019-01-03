@@ -244,7 +244,7 @@ For the purpose of this chapter—
 
 **(e) Any other weapon** The term “any other weapon” means any weapon or device capable of being concealed on the person from which a shot can be discharged through the energy of an explosive, a pistol or revolver having a barrel with a smooth bore designed or redesigned to fire a fixed shotgun shell, weapons with combination shotgun and rifle barrels 12 inches or more, less than 18 inches in length, from which only a single discharge can be made from either barrel without manual reloading, and shall include any such weapon which may be readily restored to fire. Such term shall not include a pistol or a revolver having a rifled bore, or rifled bores, or weapons designed, made, or intended to be fired from the shoulder and not capable of firing fixed ammunition.
 
-**(f) Destructive device** The term “destructive device” means (1) any explosive, incendiary, or poison gas (A) bomb, (B) grenade, (C) rocket having a propellent charge of more than four ounces, (D) missile having an explosive or incendiary charge of more than one-quarter ounce, (E) mine, or (F) similar device; (2) any type of weapon by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, the barrel or barrels of which have a bore of more than one-half inch in diameter, except a shotgun or shotgun shell which the Secretary finds is generally recognized as particularly suitable for sporting purposes; and (3) any combination of parts either designed or intended for use in converting any device into a destructive device as defined in subparagraphs (1) and (2) and from which a destructive device may be readily assembled. The term “destructive device” shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10 of the United States Code; or any other device which the Secretary finds is not likely to be used as a weapon, or is an antique or is a rifle which the owner intends to use solely for sporting purposes.
+**(f) Destructive device** The term “destructive device” means (1) any explosive, incendiary, or poison gas (A) bomb, (B) grenade, (C) rocket having a propellent charge of more than four ounces, (D) missile having an explosive or incendiary charge of more than one-quarter ounce, (E) mine, or (F) similar device; (2) any type of weapon by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, the barrel or barrels of which have a bore of more than one-half inch in diameter, except a shotgun or shotgun shell which the Secretary finds is generally recognized as particularly suitable for sporting purposes; and (3) any combination of parts either designed or intended for use in converting any device into a destructive device as defined in subparagraphs (1) and (2) and from which a destructive device may be readily assembled. The term “destructive device” shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 7684(2), 7685, or 7686 of title 10, United States Code; or any other device which the Secretary finds is not likely to be used as a weapon, or is an antique or is a rifle which the owner intends to use solely for sporting purposes.
 
 **(g) Antique firearm** The term “antique firearm” means any firearm not designed or redesigned for using rim fire or conventional center fire ignition with fixed ammunition and manufactured in or before 1898 (including any matchlock, flintlock, percussion cap, or similar type of ignition system or replica thereof, whether actually manufactured before or after the year 1898) and also any firearm using fixed ammunition manufactured in or before 1898, for which ammunition is no longer manufactured in the United States and is not readily available in the ordinary channels of commercial trade.
 
@@ -268,6 +268,8 @@ A prior section 5845, act Aug. 16, 1954, ch. 736, 68A Stat. 725, related to the 
 Provisions similar to those comprising this section were contained in prior section 5848, act Aug. 16, 1954, ch. 736, 68A Stat. 727, as amended by acts Sept. 2, 1958, Pub. L. 85–859, title II, § 203(f), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 3, 74 Stat. 149, prior to the general revision of this chapter by Pub. L. 90–618.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–232 substituted “section 7684(2), 7685, or 7686 of title 10, United States Code” for “section 4684(2), 4685, or 4686 of title 10 of the United States Code”.
+
 1986—Subsec. (a)(7). Pub. L. 99–308, § 109(b), substituted “any silencer (as defined in [section 921 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921&num=0&edition=prelim), United States Code)” for “a muffler or a silencer for any firearm whether or not such firearm is included within this definition”.
 
 Subsec. (b). Pub. L. 99–308, § 109(a), substituted “any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun,” for “any combination of parts designed and intended for use in converting a weapon into a machinegun,”.
@@ -275,6 +277,9 @@ Subsec. (b). Pub. L. 99–308, § 109(a), substituted “any part designed and i
 1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (f). Pub. L. 94–455, § 1906(b)(13)(A), (J), struck out “or his delegate” after “shotgun or shotgun shell which the Secretary” and “of the Treasury or his delegate” after “or any other device which the Secretary”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section 110(a) of Pub. L. 99–308, set out as a note under [section 921 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921&num=0&edition=prelim), Crimes and Criminal Procedure.
@@ -297,15 +302,15 @@ A prior section 5846, act Aug. 16, 1954, ch. 736, 68A Stat. 726, consisted of pr
 <a id="section-5847"></a>
 ## § 5847. Effect on other laws
 
-Nothing in this chapter shall be construed as modifying or affecting the requirements of section 414 of the Mutual Security Act of 1954, as amended, with respect to the manufacture, exportation, and importation of arms, ammunition, and implements of war.
+Nothing in this chapter shall be construed as modifying or affecting the requirements of section 38 of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)), as amended, with respect to the manufacture, exportation, and importation of arms, ammunition, and implements of war.
 
 ### Statutory Notes
 
-#### References in Text
-Section 414 of the Mutual Security Act of 1954, as amended, referred to in text, was classified to [section 1934 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1934&num=0&edition=prelim), Foreign Relations and Intercourse, and was repealed by section 212(b)(1) of Pub. L. 94–329, title II, 90 Stat. 745. Section 212(b)(1) of Pub. L. 94–329, also provided that any reference to section 414 of the Mutual Security Act of 1954 shall be deemed to be a reference to section 38 of the Arms Export Control Act. Section 38 of the Arms Export Control Act is classified to [section 2778 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim).
-
 #### Prior Provisions
 A prior section 5847, act Aug. 16, 1954, ch. 736, 68A Stat. 726, related to regulations which the Secretary or his delegate may prescribe, prior to the general revision of this chapter by Pub. L. 90–618.
+
+#### Amendments
+2018—Pub. L. 115–141 substituted “section 38 of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim))” for “section 414 of the Mutual Security Act of 1954”.
 
 
 <a id="section-5848"></a>
@@ -465,7 +470,7 @@ Section effective on first day of first month following October 1968, see sectio
 <a id="section-5871"></a>
 ## § 5871. Penalties
 
-Any person who violates or fails to comply with any provisions of this chapter shall, upon conviction, be fined not more than $10,000, or be imprisoned not more than ten years, or both.
+Any person who violates or fails to comply with any provision of this chapter shall, upon conviction, be fined not more than $10,000, or be imprisoned not more than ten years, or both.
 
 ### Statutory Notes
 
@@ -488,7 +493,7 @@ Section effective on first day of first month following October 1968, see sectio
 ## § 5872. Forfeitures
 **(a) Laws applicable** Any firearm involved in any violation of the provisions of this chapter shall be subject to seizure and forfeiture, and (except as provided in subsection (b)) all the provisions of internal revenue laws relating to searches, seizures, and forfeitures of unstamped articles are extended to and made to apply to the articles taxed under this chapter, and the persons to whom this chapter applies.
 
-**(b) Disposal** In the case of the forfeiture of any firearm by reason of a violation of this chapter, no notice of public sale shall be required; no such firearm shall be sold at a public sale; if such firearm is forfeited for a violation of this chapter and there is no remission or mitigation of forfeiture thereof, it shall be delivered by the Secretary to the Administrator of General Services, General Services Administration, who may order such firearm destroyed or may sell it to any State, or possession, or political subdivision thereof, or at the request of the Secretary, may authorize its retention for official use of the Treasury Department, or may transfer it without charge to any executive department or independent establishment of the Government for use by it.
+**(b) Disposal** In the case of the forfeiture of any firearm by reason of a violation of this chapter, no notice of public sale shall be required; no such firearm shall be sold at public sale; if such firearm is forfeited for a violation of this chapter and there is no remission or mitigation of forfeiture thereof, it shall be delivered by the Secretary to the Administrator of General Services, General Services Administration, who may order such firearm destroyed or may sell it to any State, or possession, or political subdivision thereof, or at the request of the Secretary, may authorize its retention for official use of the Treasury Department, or may transfer it without charge to any executive department or independent establishment of the Government for use by it.
 
 ### Statutory Notes
 

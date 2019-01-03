@@ -50,6 +50,9 @@ Pub. L. 100–504, title II, § 205, Oct. 18, 1988, 102 Stat. 2531, provided tha
 #### Amendments
 2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
 
+#### Effective Date
+Section effective 180 days after Oct. 18, 1988, see section 206 of 100–504, set out as a note under [section 3901 of this title](./chapter-039-government-publishing-office-office-of-inspector-general.md#section-3901).
+
 
 <a id="section-3903"></a>
 ## § 3903. Duties, responsibilities, authority, and reports
@@ -71,3 +74,6 @@ Sections 4, 5, 6, and 7 of the Inspector General Act of 1978, referred to in sub
 
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” wherever appearing in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+
+#### Effective Date
+Section effective 180 days after Oct. 18, 1988, see section 206 of 100–504, set out as a note under [section 3901 of this title](./chapter-039-government-publishing-office-office-of-inspector-general.md#section-3901).

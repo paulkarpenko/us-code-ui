@@ -366,7 +366,11 @@ Pub. L. 103–311, title I, § 122, Aug. 26, 1994, 108 Stat. 1681, provided that
 ## § 5103a. Limitation on issuance of hazmat licenses
 **(a) Limitation.—**
 
-(1) **Issuance of licenses.—** — A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary of Homeland Security has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
+(1) **Issuance of licenses.—** — A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless—
+
+  (A) “the Secretary of Homeland Security”; 11 So in original. The quotation marks and semicolon probably should not appear. has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license; or
+
+  (B) the individual holds a valid transportation security card issued under [section 70105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105&num=0&edition=prelim).
 
 (2) **Renewals included.—** — For the purposes of this section, the term “issue”, with respect to a license, includes renewal of the license.
 
@@ -376,7 +380,7 @@ Pub. L. 103–311, title I, § 122, Aug. 26, 1994, 108 Stat. 1681, provided that
 
 **(d) Background Records Check.—**
 
-(1) **In general.—** — Upon the request of a State regarding issuance of a license described in subsection (a)(1) to an individual, the Attorney General—
+(1) **In general.—** — Upon the request of a State regarding issuance of a license under subsection (a)(1)(A) to an individual, the Attorney General—
 
   (A) shall carry out a background records check regarding the individual; and
 
@@ -457,6 +461,10 @@ Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec.
 The date of enactment of this subsection, referred to in subsecs. (g) and (h), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–254, § 1978(a), substituted “unless—” for “unless”, “(A) ‘the Secretary of Homeland Security’;” for “the Secretary of Homeland Security”, and “; or” for period at end and added subpar. (B).
+
+Subsec. (d)(1). Pub. L. 115–254, § 1978(b), substituted “under subsection (a)(1)(A)” for “described in subsection (a)(1)” in introductory provisions.
+
 2008—Subsec. (g)(1)(B)(ii). Pub. L. 110–244 substituted “subsection” for “Act”.
 
 2007—Subsec. (a)(1). Pub. L. 110–53, § 1556(a)(1), substituted “Secretary of Homeland Security” for “Secretary”.
@@ -1680,7 +1688,7 @@ Pub. L. 114–94, div. A, title VII, § 7203(c), Dec. 4, 2015, 129 Stat. 1591, p
 
   (B) a vessel exempted under [section 3702 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3702&num=0&edition=prelim) from chapter 37 of title 46; and
 
-  (C) a vessel to the extent it is regulated under the Ports and Waterways Safety Act of 1972 ([33 U.S.C. 1221](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1221&num=0&edition=prelim) et seq.).
+  (C) a vessel to the extent it is regulated under the Ports and Waterways Safety Act of 1972 11 See References in Text note below. ([33 U.S.C. 1221](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1221&num=0&edition=prelim) et seq.).
 
 (2) This chapter and regulations prescribed under this chapter do not prohibit—
 
@@ -1736,7 +1744,7 @@ In subsection (c)(2), before clause (A), the word “prescribed” is substitute
 In subsection (d), the words “by which”, “the requirements of”, and “or relieved of the obligation to meet any requirements imposed under” are omitted as surplus.
 
 #### References in Text
-The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is Pub. L. 92–340, July 10, 1972, 86 Stat. 424, as amended, which is classified generally to chapter 25 (§ 1221 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1221 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1221&num=0&edition=prelim) and Tables.
+The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is Pub. L. 92–340, July 10, 1972, 86 Stat. 424, which was renamed the Ports and Waterways Safety Act by Pub. L. 95–474, § 2, Oct. 17, 1978, 92 Stat. 1471, and was classified generally to chapter 25 (§ 1221 et seq.) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding [section 101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section101&num=0&edition=prelim), Shipping, and chapter 700 (§ 70001 et seq.) of Title 46.
 
 #### Amendments
 2015—Subsec. (b). Pub. L. 114–94, § 7204(1), substituted “an application for a new special permit or a modification to an existing special permit” for “an application for a special permit” and inserted “The Secretary shall make available to the public on the Department of Transportation’s Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days.” before “This subsection”.

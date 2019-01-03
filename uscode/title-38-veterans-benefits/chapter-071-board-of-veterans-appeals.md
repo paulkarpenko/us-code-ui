@@ -2,7 +2,7 @@
 title: 38
 chapter: '71'
 heading: BOARD OF VETERANS’ APPEALS
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -244,9 +244,9 @@ Subsec. (c). Pub. L. 98–223, § 208(d)(4), designated provision relating to th
 
 (1) Upon the order of the Chairman for reconsideration of the decision in a case, the case shall be referred—
 
-  (A) in the case of a matter originally heard by a single member of the Board, to a panel of not less than three members of the Board; or
+  (A) in the case of a matter originally decided by a single member of the Board, to a panel of not less than three members of the Board; or
 
-  (B) in the case of a matter originally heard by a panel of members of the Board, to an enlarged panel of the Board.
+  (B) in the case of a matter originally decided by a panel of members of the Board, to an enlarged panel of the Board.
 
 (2) A panel referred to in paragraph (1) may not include the member, or any member of the panel, that made the decision subject to reconsideration.
 
@@ -256,7 +256,12 @@ Subsec. (c). Pub. L. 98–223, § 208(d)(4), designated provision relating to th
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 2(o) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment below.
+
 #### Amendments
+2017—Subsec. (b)(1). Pub. L. 115–55 substituted “decided” for “heard” in subpars. (A) and (B).
+
 1994—Pub. L. 103–271 amended section generally. Prior to amendment, text read as follows:
 
 “(a) Decisions by a section of the Board shall be made by a majority of the members of the section. The decision of the section is final unless the Chairman orders reconsideration of the case.
@@ -269,6 +274,9 @@ Subsec. (c). Pub. L. 98–223, § 208(d)(4), designated provision relating to th
 
 1988—Pub. L. 100–687, in amending section generally, added subsec. (a), struck out former subsec. (a) which provided that determination of section, when unanimous, be final determination of Board, added subsec. (b), struck out former subsec. (b) which provided that when there is disagreement among members of section, concurrence of Chairman with majority of members of section shall constitute final determination of Board, and added subsec. (c).
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub. L. 100–687, set out as an Effective Date note under [section 7251 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7251).
 
@@ -277,15 +285,21 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 ## § 7104. Jurisdiction of the Board
 **(a)** All questions in a matter which under [section 511(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section511/a&num=0&edition=prelim) is subject to decision by the Secretary shall be subject to one review on appeal to the Secretary. Final decisions on such appeals shall be made by the Board. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.
 
-**(b)** Except as provided in [section 5108 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5108), when a claim is disallowed by the Board, the claim may not thereafter be reopened and allowed and a claim based upon the same factual basis may not be considered.
+**(b)** Except as provided in [section 5108 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5108), when a claim is disallowed by the Board, the claim may not thereafter be readjudicated and allowed and a claim based upon the same factual basis may not be considered.
 
 **(c)** The Board shall be bound in its decisions by the regulations of the Department, instructions of the Secretary, and the precedent opinions of the chief legal officer of the Department.
 
 **(d)** Each decision of the Board shall include—
 
-(1) a written statement of the Board’s findings and conclusions, and the reasons or bases for those findings and conclusions, on all material issues of fact and law presented on the record; and
+(1) a written statement of the Board’s findings and conclusions, and the reasons or bases for those findings and conclusions, on all material issues of fact and law presented on the record;
 
-(2) an order granting appropriate relief or denying relief.
+(2) a general statement—
+
+  (A) reflecting whether evidence was not considered in making the decision because the evidence was received at a time when not permitted under [section 7113 of this title](./chapter-071-board-of-veterans-appeals.md#section-7113); and
+
+  (B) noting such options as may be available for having the evidence considered by the Department; and
+
+(3) an order granting appropriate relief or denying relief.
 
 **(e)**
 
@@ -299,7 +313,14 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 2(p), (w)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment notes below.
+
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–55, § 2(p), substituted “readjudicated” for “reopened”.
+
+Subsec. (d)(2), (3). Pub. L. 115–55, § 2(w)(2), added par. (2) and redesignated former par. (2) as (3).
+
 1996—Subsec. (e). Pub. L. 104–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “After reaching a decision in a case, the Board shall promptly mail a copy of its written decision to the claimant and the claimant’s authorized representative (if any) at the last known address of the claimant and at the last known address of such representative (if any).”
 
 1994—Subsec. (a). Pub. L. 103–271, § 8, substituted “511(a)” for “211(a)”.
@@ -330,6 +351,9 @@ Subsecs. (d), (e). Pub. L. 100–687, § 205, added subsecs. (d) and (e) and str
 
 1961—Subsec. (d). Pub. L. 87–97 added subsec. (d).
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+
 #### Effective Date of 1991 Amendment
 Pub. L. 102–54, § 14(g)(2), June 13, 1991, 105 Stat. 288, provided that the amendment made by that section is effective Nov. 18, 1988.
 
@@ -341,44 +365,73 @@ Pub. L. 87–97, § 2, July 20, 1961, 75 Stat. 215, provided that: “The amendm
 
 
 <a id="section-7105"></a>
-## § 7105. Filing of notice of disagreement and appeal
-**(a)** Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
+## § 7105. Filing of appeal
+**(a)** Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
 
 **(b)**
 
-(1) Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereinafter referred to as the “agency of original jurisdiction”). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
+(1)
 
-(2) Notices of disagreement, and appeals, must be in writing and may be filed by the claimant, the claimant’s legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian. Not more than one recognized organization, attorney, or agent will be recognized at any one time in the prosecution of a claim.
+  (A) Except in the case of simultaneously contested claims, a notice of disagreement shall be filed within one year from the date of the mailing of notice of the decision of the agency of original jurisdiction pursuant to section 5104, 5104B, or 5108 of this title.
 
-**(c)** If no notice of disagreement is filed in accordance with this chapter within the prescribed period, the action or determination shall become final and the claim will not thereafter be reopened or allowed, except as may otherwise be provided by regulations not inconsistent with this title.
+  (B) A notice of disagreement postmarked before the expiration of the one-year period shall be accepted as timely filed.
 
-**(d)**
+  (C) A question as to timeliness or adequacy of the notice of disagreement shall be decided by the Board.
 
-(1) Where the claimant, or the claimant’s representative, within the time specified in this chapter, files a notice of disagreement with the decision of the agency of original jurisdiction, such agency will take such development or review action as it deems proper under the provisions of regulations not inconsistent with this title. If such action does not resolve the disagreement either by granting the benefit sought or through withdrawal of the notice of disagreement, such agency shall prepare a statement of the case. A statement of the case shall include the following:
+(2)
 
-  (A) A summary of the evidence in the case pertinent to the issue or issues with which disagreement has been expressed.
+  (A) Notices of disagreement shall be in writing, shall identify the specific determination with which the claimant disagrees, and may be filed by the claimant, the claimant’s legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian.
 
-  (B) A citation to pertinent laws and regulations and a discussion of how such laws and regulations affect the agency’s decision.
+  (B) Not more than one recognized organization, attorney, or agent may be recognized at any one time in the prosecution of a claim.
 
-  (C) The decision on each issue and a summary of the reasons for such decision.
+  (C) Notices of disagreement shall be filed with the Board.
 
-(2) A statement of the case, as required by this subsection, will not disclose matters that would be contrary to [section 5701 of this title](./chapter-057-records-and-investigations.md#section-5701) or otherwise contrary to the public interest. Such matters may be disclosed to a designated representative unless the relationship between the claimant and the representative is such that disclosure to the representative would be as harmful as if made to the claimant.
+(3) The notice of disagreement shall indicate whether the claimant requests—
 
-(3) Copies of the “statement of the case” prescribed in paragraph (1) of this subsection will be submitted to the claimant and to the claimant’s representative, if there is one. The claimant will be afforded a period of sixty days from the date the statement of the case is mailed to file the formal appeal. This may be extended for a reasonable period on request for good cause shown. The appeal should set out specific allegations of error of fact or law, such allegations related to specific items in the statement of the case. The benefits sought on appeal must be clearly identified. The agency of original jurisdiction may close the case for failure to respond after receipt of the statement of the case, but questions as to timeliness or adequacy of response shall be determined by the Board of Veterans’ Appeals.
+  (A) a hearing before the Board, which shall include an opportunity to submit evidence in accordance with [section 7113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7113/b&num=0&edition=prelim);
 
-(4) The claimant in any case may not be presumed to agree with any statement of fact contained in the statement of the case to which the claimant does not specifically express agreement.
+  (B) an opportunity to submit additional evidence without a hearing before the Board, which shall include an opportunity to submit evidence in accordance with [section 7113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7113/c&num=0&edition=prelim); or
 
-(5) The Board of Veterans’ Appeals may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed.
+  (C) a review by the Board without a hearing or the submittal of additional evidence.
 
-**(e)**
+(4) The Secretary shall develop a policy to permit a claimant to modify the information identified in the notice of disagreement after the notice of disagreement has been filed under this section pursuant to such requirements as the Secretary may prescribe.
 
-(1) If, either at the time or after the agency of original jurisdiction receives a substantive appeal, the claimant or the claimant’s representative, if any, submits evidence to either the agency of original jurisdiction or the Board of Veterans’ Appeals for consideration in connection with the issue or issues with which disagreement has been expressed, such evidence shall be subject to initial review by the Board unless the claimant or the claimant’s representative, as the case may be, requests in writing that the agency of original jurisdiction initially review such evidence.
+**(c)** If no notice of disagreement is filed in accordance with this chapter within the prescribed period, the action or decision of the agency of original jurisdiction shall become final and the claim shall not thereafter be readjudicated or allowed, except—
 
-(2) A request for review of evidence under paragraph (1) shall accompany the submittal of the evidence.
+(1) in the case of a readjudication or allowance pursuant to a higher-level review that was requested in accordance with [section 5104B of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104b);
+
+(2) as may otherwise be provided by [section 5108 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5108); or
+
+(3) as may otherwise be provided in such regulations as are consistent with this title.
+
+**(d)** The Board may dismiss any appeal which fails to identify the specific determination with which the claimant disagrees.
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 2(q)(1) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment notes below.
+
 #### Amendments
+2017—Pub. L. 115–55, § 2(q)(1)(F), struck out “notice of disagreement and” before “appeal” in section catchline.
+
+Subsec. (a). Pub. L. 115–55, § 2(q)(1)(A), substituted “Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary.” for “Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section.”
+
+Subsec. (b). Pub. L. 115–55, § 2(q)(1)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+
+“(1) Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereinafter referred to as the “agency of original jurisdiction”). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
+
+“(2) Notices of disagreement, and appeals, must be in writing and may be filed by the claimant, the claimant’s legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian. Not more than one recognized organization, attorney, or agent will be recognized at any one time in the prosecution of a claim.”
+
+Subsec. (c). Pub. L. 115–55, § 2(q)(1)(C), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If no notice of disagreement is filed in accordance with this chapter within the prescribed period, the action or determination shall become final and the claim will not thereafter be reopened or allowed, except as may otherwise be provided by regulations not inconsistent with this title.”
+
+Subsec. (d). Pub. L. 115–55, § 2(q)(1)(D), added subsec. (d) and struck out former subsec. (d) which related to development and review actions, statement of the case, and dismissal of appeal.
+
+Subsec. (e). Pub. L. 115–55, § 2(q)(1)(E), struck out subsec. (e) which read as follows:
+
+“(1) If, either at the time or after the agency of original jurisdiction receives a substantive appeal, the claimant or the claimant’s representative, if any, submits evidence to either the agency of original jurisdiction or the Board of Veterans’ Appeals for consideration in connection with the issue or issues with which disagreement has been expressed, such evidence shall be subject to initial review by the Board unless the claimant or the claimant’s representative, as the case may be, requests in writing that the agency of original jurisdiction initially review such evidence.
+
+“(2) A request for review of evidence under paragraph (1) shall accompany the submittal of the evidence.”
+
 2012—Subsec. (e). Pub. L. 112–154 added subsec. (e).
 
 2001—Subsec. (b)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
@@ -405,6 +458,9 @@ Subsec. (d)(5). Pub. L. 100–687, § 203(b), struck out “will base its decisi
 
 Subsec. (d)(1), (3). Pub. L. 99–576, § 701(85)(A), substituted “the claimant’s” for “his”.
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+
 #### Effective Date of 2012 Amendment
 Pub. L. 112–154, title V, § 501(b), Aug. 6, 2012, 126 Stat. 1190, provided that: “Subsection (e) of such section [[38 U.S.C. 7105(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7105/e&num=0&edition=prelim)], as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012], and shall apply with respect to claims for which a substantive appeal is filed on or after the date that is 180 days after the date of the enactment of this Act.”
 
@@ -419,77 +475,72 @@ Pub. L. 87–666, § 3, Sept. 19, 1962, 76 Stat. 554, provided that: “The amen
 ## § 7105A. Simultaneously contested claims
 **(a)** In simultaneously contested claims where one is allowed and one rejected, the time allowed for the filing of a notice of disagreement shall be sixty days from the date notice of the adverse action is mailed. In such cases the agency of original jurisdiction shall promptly notify all parties in interest at the last known address of the action taken, expressly inviting attention to the fact that notice of disagreement will not be entertained unless filed within the sixty-day period prescribed by this subsection.
 
-**(b)** Upon the filing of a notice of disagreement, all parties in interest will be furnished with a statement of the case in the same manner as is prescribed in section 7105. The party in interest who filed a notice of disagreement will be allowed thirty days from the date of mailing of such statement of the case in which to file a formal appeal. Extension of time may be granted for good cause shown but with consideration to the interests of the other parties involved. The substance of the appeal will be communicated to the other party or parties in interest and a period of thirty days will be allowed for filing a brief or argument in answer thereto. Such notice shall be forwarded to the last known address of record of the parties concerned, and such action shall constitute sufficient evidence of notice.
+**(b)**
+
+(1) The substance of the notice of disagreement shall be communicated to the other party or parties in interest and a period of thirty days shall be allowed for filing a brief or argument in response thereto.
+
+(2) Such notice shall be forwarded to the last known address of record of the parties concerned, and such action shall constitute sufficient evidence of notice.
 
 ### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 2(r) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
 
 #### Prior Provisions
 Provisions similar to those comprising this section were contained in former [section 4007 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4007&num=0&edition=prelim), prior to the general amendment of sections 4005 to 4007 by Pub. L. 87–666.
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–55 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon the filing of a notice of disagreement, all parties in interest will be furnished with a statement of the case in the same manner as is prescribed in section 7105. The party in interest who filed a notice of disagreement will be allowed thirty days from the date of mailing of such statement of the case in which to file a formal appeal. Extension of time may be granted for good cause shown but with consideration to the interests of the other parties involved. The substance of the appeal will be communicated to the other party or parties in interest and a period of thirty days will be allowed for filing a brief or argument in answer thereto. Such notice shall be forwarded to the last known address of record of the parties concerned, and such action shall constitute sufficient evidence of notice.”
+
 1991—Pub. L. 102–40 renumbered [section 4005A of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4005A&num=0&edition=prelim) as this section and substituted “7105” for “4005” in subsec. (b).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 #### Effective Date
 Section effective Jan. 1, 1963, see section 3 of Pub. L. 87–666, set out as a note under [section 7105 of this title](./chapter-071-board-of-veterans-appeals.md#section-7105).
 
 
 <a id="section-7106"></a>
-## § 7106. Administrative appeals
-
-Application for review on appeal may be made within the one-year period prescribed in [section 7105 of this title](./chapter-071-board-of-veterans-appeals.md#section-7105) by such officials of the Department as may be designated by the Secretary. An application entered under this paragraph shall not operate to deprive the claimant of the right of review on appeal as provided in this chapter.
+## § 7106. Repealed. Pub. L. 115–55, § 2(s)(1), Aug. 23, 2017, 131 Stat. 1112]
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, added Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 554, § 4006; renumbered § 7106 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to application for administrative appeals.
+
 Provisions similar to those comprising this section were contained in subsec. (c)(2) of former [section 4005 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4005&num=0&edition=prelim), prior to the general amendment of sections 4005 to 4007 by Pub. L. 87–666.
 
-#### Amendments
-1991—Pub. L. 102–40 renumbered [section 4006 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4006&num=0&edition=prelim) as this section and substituted “7105” for “4005”.
-
-Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department” for “Veterans’ Administration”.
+#### Effective Date of Repeal
+Repeal applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 
 <a id="section-7107"></a>
 ## § 7107. Appeals: dockets; hearings
-**(a)**
+**(a) Dockets.—**
 
-(1) Except as provided in paragraphs (2) and (3) and in subsection (f), each case received pursuant to application for review on appeal shall be considered and decided in regular order according to its place upon the docket.
+(1) Subject to paragraph (2), the Board shall maintain at least two separate dockets.
 
-(2) A case referred to in paragraph (1) may, for cause shown, be advanced on motion for earlier consideration and determination. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+(2) The Board may not maintain more than two separate dockets unless the Board notifies the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives of any additional docket, including a justification for maintaining such additional docket.
 
-  (A) if the case involves interpretation of law of general application affecting other claims;
+(3)
 
-  (B) if the appellant is seriously ill or is under severe financial hardship; or
+  (A) The Board may assign to each docket maintained under paragraph (1) such cases as the Board considers appropriate, except that cases described in clause (i) of subparagraph (B) may not be assigned to any docket to which cases described in clause (ii) of such paragraph are assigned.
 
-  (C) for other sufficient cause shown.
+  (B) Cases described in this paragraph are the following:
 
-(3) A case referred to in paragraph (1) may be postponed for later consideration and determination if such postponement is necessary to afford the appellant a hearing.
+    (i) Cases in which no Board hearing is requested.
 
-**(b)** The Board shall decide any appeal only after affording the appellant an opportunity for a hearing.
+    (ii) Cases in which a Board hearing is requested in the notice of disagreement.
 
-**(c)** A hearing docket shall be maintained and formal recorded hearings shall be held by such member or members of the Board as the Chairman may designate. Such member or members designated by the Chairman to conduct the hearing shall, except in the case of a reconsideration of a decision under [section 7103 of this title](./chapter-071-board-of-veterans-appeals.md#section-7103), participate in making the final determination of the claim.
+(4) Except as provided in subsection (b), each case before the Board will be decided in regular order according to its respective place on the docket to which it is assigned by the Board.
 
-**(d)**
+**(b) Advancement on the Docket.—**
 
-(1)
+(1) A case on one of the dockets of the Board maintained under subsection (a) may, for cause shown, be advanced on motion for earlier consideration and determination.
 
-  (A)
+(2) Any such motion shall set forth succinctly the grounds upon which the motion is based.
 
-    (i) Upon request for a hearing, the Board shall determine, for purposes of scheduling the hearing for the earliest possible date, whether a hearing before the Board will be held at its principal location or at a facility of the Department or other appropriate Federal facility located within the area served by a regional office of the Department.
-
-    (ii) The Board shall also determine whether to provide a hearing through the use of the facilities and equipment described in subsection (e)(1) or by the appellant personally appearing before a Board member or panel.
-
-  (B)
-
-    (i) The Board shall notify the appellant of the determinations of the location and type of hearing made under subparagraph (A).
-
-    (ii) Upon notification, the appellant may request a different location or type of hearing as described in such subparagraph.
-
-    (iii) If so requested, the Board shall grant such request and ensure that the hearing is scheduled at the earliest possible date without any undue delay or other prejudice to the appellant.
-
-(2) A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.
-
-(3) A hearing to be held within an area served by a regional office of the Department may, for cause shown, be advanced on motion for an earlier hearing. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+(3) Such a motion may be granted only—
 
   (A) if the case involves interpretation of law of general application affecting other claims;
 
@@ -497,21 +548,36 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
   (C) for other sufficient cause shown.
 
-**(e)**
+**(c) Manner and Scheduling of Hearings for Cases on a Docket That May Include a Hearing.—**
 
-(1) At the request of the Chairman, the Secretary may provide suitable facilities and equipment to the Board or other components of the Department to enable an appellant located at a facility within the area served by a regional office to participate, through voice transmission or through picture and voice transmission, by electronic or other means, in a hearing with a Board member or members sitting at the Board’s principal location.
+(1) For cases on a docket maintained by the Board under subsection (a) that may include a hearing, in which a hearing is requested in the notice of disagreement, the Board shall notify the appellant whether a Board hearing will be held—
 
-(2) Any hearing provided through the use of the facilities and equipment described in paragraph (1) shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing.
+  (A) at its principal location; or
 
-**(f)** Nothing in this section shall preclude the screening of cases for purposes of—
+  (B) by picture and voice transmission at a facility of the Department where the Secretary has provided suitable facilities and equipment to conduct such hearings.
+
+(2)
+
+  (A) Upon notification of a Board hearing at the Board’s principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph. If so requested, the Board shall grant such request.
+
+  (B) Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph. If so requested, the Board shall grant such request.
+
+**(d) Screening of Cases.—** Nothing in this section shall be construed to preclude the screening of cases for purposes of—
 
 (1) determining the adequacy of the record for decisional purposes; or
 
 (2) the development, or attempted development, of a record found to be inadequate for decisional purposes.
 
+**(e) Policy on Changing Dockets.—** The Secretary shall develop and implement a policy allowing an appellant to move the appellant’s case from one docket to another docket.
+
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 2(t) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
+
 #### Amendments
+2017—Pub. L. 115–55 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to order of cases, opportunity for hearing, maintenance of hearing docket and holding of hearings by the Board, location and type of hearings, hearings conducted by electronic or other means, and screening of cases, respectively.
+
 2016—Subsec. (d)(1). Pub. L. 114–315, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.”
 
 Subsec. (e)(2). Pub. L. 114–315, § 102(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any such hearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.”
@@ -534,6 +600,9 @@ Pub. L. 103–271 amended section generally. Prior to amendment, text read as fo
 
 1962—Pub. L. 87–666 renumbered [section 4006 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4006&num=0&edition=prelim) as this section.
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+
 
 <a id="section-7108"></a>
 ## § 7108. Rejection of applications
@@ -547,33 +616,14 @@ An application for review on appeal shall not be entertained unless it is in con
 
 
 <a id="section-7109"></a>
-## § 7109. Independent medical opinions
-**(a)** When, in the judgment of the Board, expert medical opinion, in addition to that available within the Department, is warranted by the medical complexity or controversy involved in an appeal case, the Board may secure an advisory medical opinion from one or more independent medical experts who are not employees of the Department.
-
-**(b)** The Secretary shall make necessary arrangements with recognized medical schools, universities, or clinics to furnish such advisory medical opinions at the request of the Chairman of the Board. Any such arrangement shall provide that the actual selection of the expert or experts to give the advisory opinion in an individual case shall be made by an appropriate official of such institution.
-
-**(c)** The Board shall furnish a claimant with notice that an advisory medical opinion has been requested under this section with respect to the claimant’s case and shall furnish the claimant with a copy of such opinion when it is received by the Board.
+## § 7109. Repealed. Pub. L. 115–55, § 2(u)(1), Aug. 23, 2017, 131 Stat. 1113]
 
 ### Statutory Notes
 
-#### Amendments
-1991—Pub. L. 102–40 renumbered [section 4009 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4009&num=0&edition=prelim) as this section.
+Section, added Pub. L. 87–671, § 1, Sept. 19, 1962, 76 Stat. 557, § 4009; amended Pub. L. 100–687, div. A, title I, § 103(b), Nov. 18, 1988, 102 Stat. 4107; renumbered § 7109, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to advisory medical opinions from one or more independent medical experts who are not employees of the Department.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
-
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
-
-1988—Subsec. (a). Pub. L. 100–687, § 103(b)(1), substituted “Board may” for “Board is authorized to”.
-
-Subsec. (b). Pub. L. 100–687, § 103(b)(2), substituted “Any such arrangement shall” for “Such arrangement will”, and “an individual case shall” for “any individual case will”.
-
-Subsec. (c). Pub. L. 100–687, § 103(b)(3), added subsec. (c).
-
-#### Effective Date of 1988 Amendment
-Amendment by Pub. L. 100–687 effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set out as an Effective Date note under [section 7251 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7251).
-
-#### Effective Date
-Section effective Jan. 1, 1963, see section 4 of Pub. L. 87–671, set out as an Effective Date of 1962 Amendment note under [section 5701 of this title](./chapter-057-records-and-investigations.md#section-5701).
+#### Effective Date of Repeal
+Repeal applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 
 <a id="section-7110"></a>
@@ -594,11 +644,20 @@ Section, added Pub. L. 100–687, div. A, title II, § 207(a), Nov. 18, 1988, 10
 
 **(d)** A request for revision of a decision of the Board based on clear and unmistakable error may be made at any time after that decision is made.
 
-**(e)** Such a request shall be submitted directly to the Board and shall be decided by the Board on the merits, without referral to any adjudicative or hearing official acting on behalf of the Secretary.
+**(e)** Such a request shall be submitted directly to the Board and shall be decided by the Board on the merits.
 
 **(f)** A claim filed with the Secretary that requests reversal or revision of a previous Board decision due to clear and unmistakable error shall be considered to be a request to the Board under this section, and the Secretary shall promptly transmit any such request to the Board for its consideration under this section.
 
 ### Statutory Notes
+
+#### Applicability of Amendment
+Amendment of section by section 2(v) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
+
+#### Amendments
+2017—Subsec. (e). Pub. L. 115–55 struck out “, without referral to any adjudicative or hearing official acting on behalf of the Secretary” after “merits”.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 #### Effective Date
 Section applicable to any determination made before, on, or after Nov. 21, 1997, see section 1(c)(1) of Pub. L. 105–111, set out as a note under [section 5109A of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5109a).
@@ -608,3 +667,33 @@ Section applicable to any determination made before, on, or after Nov. 21, 1997,
 ## § 7112. Expedited treatment of remanded claims
 
 The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the Board of any claim that is remanded to the Secretary by the Court of Appeals for Veterans Claims.
+
+
+<a id="section-7113"></a>
+## § 7113. Evidentiary record before the Board of Veterans’ Appeals
+**(a) Cases With No Request for a Hearing or Additional Evidence.—** For cases in which a hearing before the Board of Veterans’ Appeals is not requested in the notice of disagreement and no request was made to submit evidence, the evidentiary record before the Board shall be limited to the evidence of record at the time of the decision of the agency of original jurisdiction on appeal.
+
+**(b) Cases With a Request for a Hearing.—**
+
+(1) Except as provided in paragraph (2), for cases in which a hearing is requested in the notice of disagreement, the evidentiary record before the Board shall be limited to the evidence of record at the time of the decision of the agency of original jurisdiction on appeal.
+
+(2) The evidentiary record before the Board for cases described in paragraph (1) shall include each of the following, which the Board shall consider in the first instance:
+
+  (A) Evidence submitted by the appellant and his or her representative, if any, at the Board hearing.
+
+  (B) Evidence submitted by the appellant and his or her representative, if any, within 90 days following the Board hearing.
+
+**(c) Cases With No Request for a Hearing and With a Request for Additional Evidence.—**
+
+(1) Except as provided in paragraph (2), for cases in which a hearing is not requested in the notice of disagreement but an opportunity to submit evidence is requested, the evidentiary record before the Board shall be limited to the evidence considered by the agency of original jurisdiction in the decision on appeal.
+
+(2) The evidentiary record before the Board for cases described in paragraph (1) shall include each of the following, which the Board shall consider in the first instance:
+
+  (A) Evidence submitted by the appellant and his or her representative, if any, with the notice of disagreement.
+
+  (B) Evidence submitted by the appellant and his or her representative, if any, within 90 days following receipt of the notice of disagreement.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101).

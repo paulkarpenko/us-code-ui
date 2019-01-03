@@ -31,7 +31,7 @@ source: >-
 Pub. L. 112–29, § 6(g)(3), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendments made by this subsection [amending this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date.”
 
 #### Effective Date
-Chapter effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-302"></a>
@@ -55,6 +55,9 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-1).
+
+#### Effective Date
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-303"></a>
@@ -101,6 +104,9 @@ Pub. L. 107–273, div. C, title III, § 13105(b), Nov. 2, 2002, 116 Stat. 1900,
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-1).
 
+#### Effective Date
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-304"></a>
 ## § 304. Reexamination order by Director
@@ -121,6 +127,9 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-1).
+
+#### Effective Date
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-305"></a>
@@ -145,6 +154,9 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
+#### Effective Date
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-306"></a>
 ## § 306. Appeal
@@ -162,6 +174,9 @@ Pub. L. 112–29, § 6(h)(2)(A), substituted “144” for “145”.
 Pub. L. 112–29, § 6(h)(2)(B), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendment made by this paragraph [amending this section] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any appeal of a reexamination before the Board of Patent Appeals and Interferences or the Patent Trial and Appeal Board that is pending on, or brought on or after, the date of the enactment of this Act.”
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under [section 2 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-2).
+
+#### Effective Date
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-307"></a>
@@ -189,3 +204,6 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under [section 154 of this title](./chapter-014-issue-of-patent.md#section-154).
+
+#### Effective Date
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).

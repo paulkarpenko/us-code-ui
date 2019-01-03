@@ -112,6 +112,11 @@ George W. Bush.
 
 The Secretary of the Treasury shall instruct the United States executive director to each of the international financial institutions described in [section 262d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262d/a&num=0&edition=prelim) to use the voice and vote of the United States to oppose any use of the institution’s funds to promote the acquisition of unsafeguarded special nuclear material or the development, stockpiling, or use of any nuclear explosive device by any non-nuclear-weapon state.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301).
+
 
 <a id="section-6303"></a>
 ## § 6303. Prohibition on assisting nuclear proliferation through provision of financing
@@ -200,6 +205,9 @@ Subsec. (e). Pub. L. 104–164, § 157(b)(2), (3), redesignated subsec. (f) as (
 
 Subsecs. (f) to (k). Pub. L. 104–164, § 157(b)(3), redesignated subsecs. (g) to (k) as (f) to (j), respectively. Former subsec. (f) redesignated (e).
 
+#### Effective Date
+Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301).
+
 
 <a id="section-6304"></a>
 ## § 6304. Reporting on demarches
@@ -212,6 +220,11 @@ Subsecs. (f) to (k). Pub. L. 104–164, § 157(b)(3), redesignated subsecs. (g) 
   (B) a request for the recipient government to counter such action or activity; or
 
   (C) both the concern and request described in subparagraphs (A) and (B).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301).
 
 
 <a id="section-6305"></a>
@@ -251,6 +264,9 @@ For purposes of this subchapter—
 
 #### References in Text
 This subchapter, referred to in text, was in the original a reference to this part, meaning part B of title VIII of Pub. L. 103–236, which is classified principally to this subchapter. For complete classification of part B to the Code, see Effective Date note set out under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301) and Tables.
+
+#### Effective Date
+Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301).
 
 
 <a id="section-6321"></a>

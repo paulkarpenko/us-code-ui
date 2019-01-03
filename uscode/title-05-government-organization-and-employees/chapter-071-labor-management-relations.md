@@ -379,121 +379,11 @@ Sec. 26. Effective date. This Order is effective on January 1, 1970, except sect
 #### Executive Order No. 12871
 Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, § 1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
 
-#### Ex. Ord. No. 13522. Creating Labor-Management Forums to Improve Delivery of Government Services
-Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish a cooperative and productive form of labor-management relations throughout the executive branch, it is hereby ordered as follows:
-
-Section 1. Policy. Federal employees and their union representatives are an essential source of front-line ideas and information about the realities of delivering Government services to the American people. A nonadversarial forum for managers, employees, and employees’ union representatives to discuss Government operations will promote satisfactory labor relations and improve the productivity and effectiveness of the Federal Government. Labor-management forums, as complements to the existing collective bargaining process, will allow managers and employees to collaborate in continuing to deliver the highest quality services to the American people. Management should discuss workplace challenges and problems with labor and endeavor to develop solutions jointly, rather than advise union representatives of predetermined solutions to problems and then engage in bargaining over the impact and implementation of the predetermined solutions.
-
-The purpose of this order is to establish a cooperative and productive form of labor-management relations throughout the executive branch.
-
-Sec. 2. The National Council on Federal Labor-Management Relations. There is established the National Council on Federal Labor-Management Relations (Council).
-
-(a) Membership. The Council shall be composed of the following members appointed or designated by the President:
-
-(i) the Director of the Office of Personnel Management (OPM) and Deputy Director for Management of the Office of Management and Budget (OMB), who shall serve as Co-Chairs of the Council;
-
-(ii) the Chair of the Federal Labor Relations Authority;
-
-(iii) a Deputy Secretary or other officer with department- or agency-wide authority from each of five executive departments or agencies not otherwise represented on the Council, who shall serve for terms of 2 years;
-
-(iv) the President of the American Federation of Government Employees, AFL-CIO;
-
-(v) the President of the National Federation of Federal Employees;
-
-(vi) the President of the National Treasury Employees Union;
-
-(vii) the President of the International Federation of Professional and Technical Engineers, AFL-CIO;
-
-(viii) the heads of three other labor unions that represent Federal employees and are not otherwise represented on the Council, who shall serve for terms of 2 years;
-
-(ix) the President of the Senior Executives Association; and
-
-(x) the President of the Federal Managers Association.
-
-(b) Responsibilities and Functions. The Council shall advise the President on matters involving labor-management relations in the executive branch. Its activities shall include, to the extent permitted by law:
-
-(i) supporting the creation of department- or agency-level labor-management forums and promoting partnership efforts between labor and management in the executive branch;
-
-(ii) developing suggested measurements and metrics for the evaluation of the effectiveness of the Council and department or agency labor-management forums in order to promote consistent, appropriate, and administratively efficient measurement and evaluation processes across departments and agencies;
-
-(iii) collecting and disseminating information about, and providing guidance on, labor-management relations improvement efforts in the executive branch, including results achieved;
-
-(iv) utilizing the expertise of individuals both within and outside the Federal Government to foster successful labor-management relations, including through training of department and agency personnel in methods of dispute resolution and cooperative methods of labor-management relations;
-
-(v) developing recommendations for innovative ways to improve delivery of services and products to the public while cutting costs and advancing employee interests;
-
-(vi) serving as a venue for addressing systemic failures of department- or agency-level forums established pursuant to section 3 of this order; and
-
-(vii) providing recommendations to the President for the implementation of several pilot programs within the executive branch, described in section 4 of this order, for bargaining over subjects set forth in [5 U.S.C. 7106(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/1&num=0&edition=prelim).
-
-(c) Administration.
-
-(i) The Co-Chairs shall convene and preside at meetings of the Council, determine its agenda, and direct its work.
-
-(ii) The Council shall seek input from nonmember executive departments and agencies, particularly smaller agencies. It also may, from time to time, invite persons from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments, Federal employees, and customers of Federal services, as needed.
-
-(iii) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide such facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
-
-(iv) Members of the Council shall serve without compensation for their work on the Council, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7), consistent with the availability of funds.
-
-(v) The heads of executive departments and agencies shall, to the extent permitted by law, provide to the Council such assistance, information, and advice as the Council may require for purposes of carrying out its functions.
-
-(vi) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Council, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Director of OPM in accordance with the guidelines that have been issued by the Administrator of General Services.
-
-(d) Termination. The Council shall terminate 2 years after the date of this order unless extended by the President.
-
-Sec. 3. Implementation of Labor-Management Forums Throughout the Executive Branch.
-
-(a) The head of each executive department or agency that is subject to the provisions of the Federal Service Labor-Management Relations Act ([5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) et seq.), or any other authority permitting employees of such department or agency to select an exclusive representative shall, to the extent permitted by law:
-
-(i) establish department- or agency-level labor-management forums by creating labor-management committees or councils at the levels of recognition and other appropriate levels agreed to by labor and management, or adapting existing councils or committees if such groups exist, to help identify problems and propose solutions to better serve the public and agency missions;
-
-(ii) allow employees and their union representatives to have pre-decisional involvement in all workplace matters to the fullest extent practicable, without regard to whether those matters are negotiable subjects of bargaining under [5 U.S.C. 7106](./chapter-071-labor-management-relations.md#section-7106); provide adequate information on such matters expeditiously to union representatives where not prohibited by law; and make a good-faith attempt to resolve issues concerning proposed changes in conditions of employment, including those involving the subjects set forth in [5 U.S.C. 7106(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/1&num=0&edition=prelim), through discussions in its labor-management forums; and
-
-(iii) evaluate and document, in consultation with union representatives and consistent with the purposes of this order and any further guidance provided by the Council, changes in employee satisfaction, manager satisfaction, and organizational performance resulting from the labor-management forums.
-
-(b) Each head of an executive department or agency in which there exists one or more exclusive representatives shall, in consultation with union representatives, prepare and submit for approval, within 90 days of the date of this order, a written implementation plan to the Council. The plan shall:
-
-(i) describe how the department or agency will conduct a baseline assessment of the current state of labor relations within the department or agency;
-
-(ii) report the extent to which the department or agency has established labor-management forums, as set forth in subsection (a)(i) of this section, or may participate in the pilot projects described in section 4 of this order;
-
-(iii) address how the department or agency will work with the exclusive representatives of its employees through its labor-management forums to develop department-, agency-, or bargaining unit-specific metrics to monitor improvements in areas such as labor-management satisfaction, productivity gains, cost savings, and other areas as identified by the relevant labor-management forum’s participants; and
-
-(iv) explain the department’s or agency’s plan for devoting sufficient resources to the implementation of the plan.
-
-(c) The Council shall review each executive department or agency implementation plan within 30 days of receipt and provide a recommendation to the Co-Chairs as to whether to certify that the plan satisfies all requirements of this order. Plans that are determined by the Co-Chairs to be insufficient will be returned to the department or agency with guidance for improvement and resubmission within 30 days. Each department or agency covered by subsection (b) of this section must have a certified implementation plan in place no later than 150 days after the date of this order, unless the Co-Chairs of the Council authorize an extension of the deadline.
-
-Sec. 4. Negotiation over Permissive Subjects of Bargaining.
-
-(a) In order to evaluate the impact of bargaining over permissive subjects, several pilot projects of specified duration shall be established in which some executive departments or agencies elect to bargain over some or all of the subjects set forth in [5 U.S.C. 7106(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/1&num=0&edition=prelim) and waive any objection to participating in impasse procedures set forth in [5 U.S.C. 7119](./chapter-071-labor-management-relations.md#section-7119) that is based on the subjects being permissive. The Council shall develop recommendations for establishing the pilot projects, including (i) recommendations for evaluating such pilot projects on the basis, among other things, of their impacts on organizational performance, employee satisfaction, and labor relations of the affected departments or agencies; (ii) recommended methods for evaluating the effectiveness of dispute resolution procedures adopted and followed in the course of the pilot projects; and (iii) a recommended timeline for expeditious implementation of the pilot programs.
-
-(b) The Council shall present its recommendations to the President within 150 days after the date of this order.
-
-(c) No later than 18 months after implementation of the pilot projects, the Council shall submit a report to the President evaluating the results of the pilots and recommending appropriate next steps with respect to agency bargaining over the subjects set forth in [5 U.S.C. 7106(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/1&num=0&edition=prelim).
-
-Sec. 5. General Provisions.
-
-(a) Nothing in this order shall abrogate any collective bargaining agreements in effect on the date of this order.
-
-(b) Nothing in this order shall be construed to limit, preclude, or prohibit any head of an executive department or agency from electing to negotiate over any or all of the subjects set forth in [5 U.S.C. 7106(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/1&num=0&edition=prelim) in any negotiation.
-
-(c) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) authority granted by law to an executive department, agency, or the head thereof; or
-
-(ii) functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
-
-(d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(e) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.
+#### Executive Order No. 13522
+Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, which related to the establishment of the National Council on Federal Labor-Management Relations and implementation of labor-management forums, was revoked by Ex. Ord. No. 13812, Sept. 29, 2017, 82 F.R. 46367.
 
 #### Extension of Term of National Council on Federal Labor-Management Relations
-Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Previous extensions of term of National Council on Federal Labor-Management Relations were contained in the following prior Executive Orders:
 
@@ -502,7 +392,98 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
 #### Extension of Term of U.S. General Services Administration Labor-Management Relations Council
-Term of U.S. General Services Administration Labor-Management Relations Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of U.S. General Services Administration Labor-Management Relations Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+#### Ex. Ord. No. 13836. Developing Efficient, Effective, and Cost-Reducing Approaches To Federal Sector Collective Bargaining
+Ex. Ord. No. 13836, May 25, 2018, 83 F.R. 25329, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to assist executive departments and agencies (agencies) in developing efficient, effective, and cost-reducing collective bargaining agreements (CBAs), as described in chapter 71 of title 5, United States Code [[5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) et seq.], it is hereby ordered as follows:
+
+Section 1. Policy. (a) [Section 7101(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7101/b&num=0&edition=prelim), United States Code, requires the Federal Service Labor-Management Relations Statute (the Statute) [see [5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) et seq.] to be interpreted in a manner consistent with the requirement of an effective and efficient Government. Unfortunately, implementation of the Statute has fallen short of these goals. CBAs, and other agency agreements with collective bargaining representatives, often make it harder for agencies to reward high performers, hold low-performers accountable, or flexibly respond to operational needs. Many agencies and collective bargaining representatives spend years renegotiating CBAs, with taxpayers paying for both sides’ negotiators. Agencies must also engage in prolonged negotiations before making even minor operational changes, like relocating office space.
+
+(b) The Federal Government must do more to apply the Statute in a manner consistent with effective and efficient Government. To fulfill this obligation, agencies should secure CBAs that: promote an effective and efficient means of accomplishing agency missions; encourage the highest levels of employee performance and ethical conduct; ensure employees are accountable for their conduct and performance on the job; expand agency flexibility to address operational needs; reduce the cost of agency operations, including with respect to the use of taxpayer-funded union time; are consistent with applicable laws, rules, and regulations; do not cover matters that are not, by law, subject to bargaining; and preserve management rights under [section 7106(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/a&num=0&edition=prelim), United States Code (management rights). Further, agencies that form part of an effective and efficient Government should not take more than a year to renegotiate CBAs.
+
+Sec. 2. Definitions. For purposes of this order:
+
+(a) The phrase “term CBA” means a CBA of a fixed or indefinite duration reached through substantive bargaining, as opposed to (i) agreements reached through impact and implementation bargaining pursuant to sections 7106(b)(2) and 7106(b)(3) of title 5, United States Code, or (ii) mid-term agreements, negotiated while the basic comprehensive labor contract is in effect, about subjects not included in such contract.
+
+(b) The phrase “taxpayer-funded union time” means time granted to a Federal employee to perform non-agency business during duty hours pursuant to [section 7131 of title 5](./chapter-071-labor-management-relations.md#section-7131), United States Code.
+
+Sec. 3. Interagency Labor Relations Working Group. (a) There is hereby established an Interagency Labor Relations Working Group (Labor Relations Group).
+
+(b) Organization. The Labor Relations Group shall consist of the Director of the Office of Personnel Management (OPM Director), representatives of participating agencies determined by their agency head in consultation with the OPM Director, and OPM staff assigned by the OPM Director. The OPM Director shall chair the Labor Relations Group and, subject to the availability of appropriations and to the extent permitted by law, provide administrative support for the Labor Relations Group.
+
+(c) Agencies. Agencies with at least 1,000 employees represented by a collective bargaining representative pursuant to chapter 71 of title 5, United States Code, shall participate in the Labor Relations Group. Agencies with a smaller number of employees represented by a collective bargaining representative may, at the election of their agency head and with the concurrence of the OPM Director, participate in the Labor Relations Group. Agencies participating in the Labor Relations Group shall provide assistance helpful in carrying out the responsibilities outlined in subsection (d) of this section. Such assistance shall include designating an agency employee to serve as a point of contact with OPM responsible for providing the Labor Relations Group with sample language for proposals and counter-proposals on significant matters proposed for inclusion in term CBAs, as well as for analyzing and discussing with OPM and the Labor Relations Group the effects of significant CBA provisions on agency effectiveness and efficiency. Participating agencies should provide other assistance as necessary to support the Labor Relations Group in its mission.
+
+(d) Responsibilities and Functions. The Labor Relations Group shall assist the OPM Director on matters involving labor-management relations in the executive branch. To the extent permitted by law, its responsibilities shall include the following:
+
+(i) Gathering information to support agency negotiating efforts, including the submissions required under section 8 of this order, and creating an inventory of language on significant subjects of bargaining that have relevance to more than one agency and that have been proposed for inclusion in at least one term CBA;
+
+(ii) Developing model ground rules for negotiations that, if implemented, would minimize delay, set reasonable limits for good-faith negotiations, call for Federal Mediation and Conciliation Service (FMCS) to mediate disputed issues not resolved within a reasonable time, and, as appropriate, promptly bring remaining unresolved issues to the Federal Service Impasses Panel (the Panel) for resolution;
+
+(iii) Analyzing provisions of term CBAs on subjects of bargaining that have relevance to more than one agency, particularly those that may infringe on, or otherwise affect, reserved management rights. Such analysis should include an assessment of term CBA provisions that cover comparable subjects, without infringing, or otherwise affecting, reserved management rights. The analysis should also assess the consequences of such CBA provisions on Federal effectiveness, efficiency, cost of operations, and employee accountability and performance. The analysis should take particular note of how certain provisions may impede the policies set forth in section 1 of this order or the orderly implementation of laws, rules, or regulations. The Labor Relations Group may examine general trends and commonalities across term CBAs, and their effects on bargaining-unit operations, but need not separately analyze every provision of each CBA in every Federal bargaining unit;
+
+(iv) Sharing information and analysis, as appropriate and permitted by law, including significant proposals and counter-proposals offered in bargaining, in order to reduce duplication of efforts and encourage common approaches across agencies, as appropriate;
+
+(v) Establishing ongoing communications among agencies engaging with the same labor organizations in order to facilitate common solutions to common bargaining initiatives; and
+
+(vi) Assisting the OPM Director in developing, where appropriate, Government-wide approaches to bargaining issues that advance the policies set forth in section 1 of this order.
+
+(e) Within 18 months of the first meeting of the Labor Relations Group, the OPM Director, as the Chair of the group, shall submit to the President, through the Office of Management and Budget (OMB), a report proposing recommendations for meeting the goals set forth in section 1 of this order and for improving the organization, structure, and functioning of labor relations programs across agencies.
+
+Sec. 4. Collective Bargaining Objectives. (a) The head of each agency that engages in collective bargaining under chapter 71 of title 5, United States Code, shall direct appropriate officials within each agency to prepare a report on all operative term CBAs at least 1 year before their expiration or renewal date. The report shall recommend new or revised CBA language the agency could seek to include in a renegotiated agreement that would better support the objectives of section 1 of this order. The officials preparing the report shall consider the analysis and advice of the Labor Relations Group in making recommendations for revisions. To the extent permitted by law, these reports shall be deemed guidance and advice for agency management related to collective bargaining under [section 7114(b)(4)(C) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7114/b/4/C&num=0&edition=prelim), United States Code, and thus not subject to disclosure to the exclusive representative or its authorized representative.
+
+(b) Consistent with the requirements and provisions of chapter 71 of title 5, United States Code, and other applicable laws and regulations, an agency, when negotiating with a collective bargaining representative, shall:
+
+(i) establish collective bargaining objectives that advance the policies of section 1 of this order, with such objectives informed, as appropriate, by the reports required by subsection (a) of this section;
+
+(ii) consider the analysis and advice of the Labor Relations Group in establishing these collective bargaining objectives and when evaluating collective bargaining representative proposals;
+
+(iii) make every effort to secure a CBA that meets these objectives; and
+
+(iv) ensure management and supervisor participation in the negotiating team representing the agency.
+
+Sec. 5. Collective Bargaining Procedures. (a) To achieve the purposes of this order, agencies shall begin collective bargaining negotiations by making their best effort to negotiate ground rules that minimize delay, set reasonable time limits for good-faith negotiations, call for FMCS mediation of disputed issues not resolved within those time limits, and, as appropriate, promptly bring remaining unresolved issues to the Panel for resolution. For collective bargaining negotiations, a negotiating period of 6 weeks or less to achieve ground rules, and a negotiating period of between 4 and 6 months for a term CBA under those ground rules, should ordinarily be considered reasonable and to satisfy the “effective and efficient” goal set forth in section 1 of this order. Agencies shall commit the time and resources necessary to satisfy these temporal objectives and to fulfill their obligation to bargain in good faith. Any negotiations to establish ground rules that do not conclude after a reasonable period should, to the extent permitted by law, be expeditiously advanced to mediation and, as necessary, to the Panel.
+
+(b) During any collective bargaining negotiations under chapter 71 of title 5, United States Code, and consistent with section 7114(b) of that chapter, the agency shall negotiate in good faith to reach agreement on a term CBA, memorandum of understanding (MOU), or any other type of binding agreement that promotes the policies outlined in section 1 of this order. If such negotiations last longer than the period established by the CBA ground rules -- or, absent a pre-set deadline, a reasonable time -- the agency shall consider whether requesting assistance from the FMCS and, as appropriate, the Panel, would better promote effective and efficient Government than would continuing negotiations. Such consideration should evaluate the likelihood that continuing negotiations without FMCS assistance or referral to the Panel would produce an agreement consistent with the goals of section 1 of this order, as well as the cost to the public of continuing to pay for both agency and collective bargaining representative negotiating teams. Upon the conclusion of the sixth month of any negotiation, the agency head shall receive notice from appropriate agency staff and shall receive monthly notifications thereafter regarding the status of negotiations until they are complete. The agency head shall notify the President through OPM of any negotiations that have lasted longer than 9 months, in which the assistance of the FMCS either has not been requested or, if requested, has not resulted in agreement or advancement to the Panel.
+
+(c) If the commencement or any other stage of bargaining is delayed or impeded because of a collective bargaining representative’s failure to comply with the duty to negotiate in good faith pursuant to [section 7114(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7114/b&num=0&edition=prelim), United States Code, the agency shall, consistent with applicable law consider whether to:
+
+(i) file an unfair labor practice (ULP) complaint under [section 7118 of title 5](./chapter-071-labor-management-relations.md#section-7118), United States Code, after considering evidence of bad-faith negotiating, including refusal to meet to bargain, refusal to meet as frequently as necessary, refusal to submit proposals or counterproposals, undue delays in bargaining, undue delays in submission of proposals or counterproposals, inadequate preparation for bargaining, and other conduct that constitutes bad-faith negotiating; or
+
+(ii) propose a new contract, memorandum, or other change in agency policy and implement that proposal if the collective bargaining representative does not offer counter-proposals in a timely manner.
+
+(d) An agency’s filing of a ULP complaint against a collective bargaining representative shall not further delay negotiations. Agencies shall negotiate in good faith or request assistance from the FMCS and, as appropriate, the Panel, while a ULP complaint is pending.
+
+(e) In developing proposed ground rules, and during any negotiations, agency negotiators shall request the exchange of written proposals, so as to facilitate resolution of negotiability issues and assess the likely effect of specific proposals on agency operations and management rights. To the extent that an agency’s CBAs, ground rules, or other agreements contain requirements for a bargaining approach other than the exchange of written proposals addressing specific issues, the agency should, at the soonest opportunity, take steps to eliminate them. If such requirements are based on now-revoked Executive Orders, including Executive Order 12871 of October 1, 1993 (Labor-Management Partnerships) [formerly set out above] and Executive Order 13522 of December 9, 2009 (Creating Labor-Management Forums to Improve Delivery of Government Services) [formerly set out above], agencies shall take action, consistent with applicable law, to rescind these requirements.
+
+(f) Pursuant to [section 7114(c)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7114/c/2&num=0&edition=prelim), United States Code, the agency head shall review all binding agreements with collective bargaining representatives to ensure that all their provisions are consistent with all applicable laws, rules, and regulations. When conducting this review, the agency head shall ascertain whether the agreement contains any provisions concerning subjects that are non-negotiable, including provisions that violate Government-wide requirements set forth in any applicable Executive Order or any other applicable Presidential directive. If an agreement contains any such provisions, the agency head shall disapprove such provisions, consistent with applicable law. The agency head shall take all practicable steps to render the determinations required by this subsection within 30 days of the date the agreement is executed, in accordance with [section 7114(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7114/c&num=0&edition=prelim), United States Code, so as not to permit any part of an agreement to become effective that is contrary to applicable law, rule, or regulation.
+
+Sec. 6. Permissive Bargaining. The heads of agencies subject to the provisions of chapter 71 of title 5, United States Code, may not negotiate over the substance of the subjects set forth in [section 7106(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/1&num=0&edition=prelim), United States Code, and shall instruct subordinate officials that they may not negotiate over those same subjects.
+
+Sec. 7. Efficient Bargaining over Procedures and Appropriate Arrangements. (a) Before beginning negotiations during a term CBA over matters addressed by sections 7106(b)(2) or 7106(b)(3) of title 5, United States Code, agencies shall evaluate whether or not such matters are already covered by the term CBA and therefore are not subject to the duty to bargain. If such matters are already covered by a term CBA, the agency shall not bargain over such matters.
+
+(b) Consistent with section 1 of this order, agencies that engage in bargaining over procedures pursuant to [section 7106(b)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/2&num=0&edition=prelim), United States Code, shall, consistent with their obligation to negotiate in good faith, bargain over only those items that constitute procedures associated with the exercise of management rights, which do not include measures that excessively interfere with the exercise of such rights. Likewise, consistent with section 1 of this order, agencies that engage in bargaining over appropriate arrangements pursuant to [section 7106(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/3&num=0&edition=prelim), United States Code, shall, consistent with their obligation to negotiate in good faith, bargain over only those items that constitute appropriate arrangements for employees adversely affected by the exercise of management rights. In such negotiations, agencies shall ensure that a resulting appropriate arrangement does not excessively interfere with the exercise of management rights.
+
+Sec. 8. Public Accessibility. (a) Each agency subject to chapter 71 of title 5, United States Code, that engages in any negotiation with a collective bargaining representative, as defined therein, shall submit to the OPM Director each term CBA currently in effect and its expiration date. Such agency shall also submit any new term CBA and its expiration date to the OPM Director within 30 days of its effective date, and submit new arbitral awards to the OPM Director within 10 business days of receipt. The OPM Director shall make each term CBA publicly accessible on the Internet as soon as practicable.
+
+(b) Within 90 days of the date of this order [May 25, 2018], the OPM Director shall prescribe a reporting format for submissions required by subsection (a) of this section. Within 30 days of the OPM Director’s having prescribed the reporting format, agencies shall use this reporting format and make the submissions required under subsection (a) of this section.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the OMB Director relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Nothing in this order shall abrogate any CBA in effect on the date of this order.
+
+(d) The failure to produce a report for the agency head prior to the termination or renewal of a CBA under section 4(a) of this order shall not prevent an agency from opening a CBA for renegotiation.
+
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-7102"></a>
@@ -901,7 +882,7 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 (d) United States European Command (USEUCOM).
 
-(e) United States Pacific Command (USPACOM).
+(e) United States Pacific Command (USPACOM) [now United States Indo-Pacific Command].
 
 (f) United States Southern Command (USSOUTHCOM).
 
@@ -987,7 +968,7 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 (e) Office of Intelligence and Analysis.
 
-(f) Domestic Nuclear Detection Office.
+(f) Domestic Nuclear Detection Office [now Countering Weapons of Mass Destruction Office].
 
 (g) The following offices and subdivisions within the United States Coast Guard:
 
@@ -1304,7 +1285,7 @@ Sec. 2. Department of Defense. Executive Order 12171 of November 19, 1979, as am
 
 [“](d) United States European Command (USEUCOM).
 
-[“](e) United States Pacific Command (USPACOM).
+[“](e) United States Pacific Command (USPACOM) [now United States Indo-Pacific Command].
 
 [“](f) United States Southern Command (USSOUTHCOM).
 
@@ -2234,6 +2215,143 @@ shall be granted official time in any amount the agency and the exclusive repres
 
 #### Effective Date
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
+#### Ex. Ord. No. 13837. Ensuring Transparency, Accountability, and Efficiency in Taxpayer-Funded Union Time Use
+Ex. Ord. No. 13837, May 25, 2018, 83 F.R. 25335, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and [section 7301 of title 5](./chapter-073-suitability-security-and-conduct.md#section-7301), United States Code, and to ensure the effective functioning of the executive branch, it is hereby ordered as follows:
+
+Section 1. Purpose. An effective and efficient government keeps careful track of how it spends the taxpayers’ money and eliminates unnecessary, inefficient, or unreasonable expenditures. To advance this policy, executive branch employees should spend their duty hours performing the work of the Federal Government and serving the public.
+
+Federal law allows Federal employees to represent labor organizations and perform other non-agency business while being paid by American taxpayers (taxpayer-funded union time). The Congress, however, has also instructed the executive branch to interpret the law in a manner consistent with the requirements of an effective and efficient government.
+
+To that end, agencies should ensure that taxpayer-funded union time is used efficiently and authorized in amounts that are reasonable, necessary, and in the public interest. Federal employees should spend the clear majority of their duty hours working for the public. No agency should pay for Federal labor organizations’ expenses, except where required by law. Agencies should eliminate unrestricted grants of taxpayer-funded union time and instead require employees to obtain specific authorization before using such time. Agencies should also monitor use of taxpayer-funded union time, ensure it is used only for authorized purposes, and make information regarding its use readily available to the public.
+
+Sec. 2. Definitions. For purposes of this order, the following definitions shall apply:
+
+(a) Except for purposes of section 4 of this order, “agency” has the meaning given the term in [section 7103(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a/3&num=0&edition=prelim), United States Code, but includes only executive agencies. For purposes of section 4 of this order, “agency” has the meaning given to “Executive agency” in [section 105 of title 5](./chapter-001-organization.md#section-105), United States Code, but excludes the Government Accountability Office.
+
+(b) “Agency business” shall mean work performed by Federal employees, including detailees or assignees, on behalf of an agency, but does not include work performed on taxpayer-funded union time.
+
+(c) “Bargaining unit” shall mean a group of employees represented by an exclusive representative in an appropriate unit for collective bargaining under subchapter II of chapter 71 of title 5, United States Code [[5 U.S.C. 7111](./chapter-071-labor-management-relations.md#section-7111) et seq.].
+
+(d) “Discounted use of government property” means charging less to use government property than the value of the use of such property, as determined by the General Services Administration, where applicable, or otherwise by the generally prevailing commercial cost of using such property.
+
+(e) “Employee” has the meaning given the term in [section 7103(a)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a/2&num=0&edition=prelim), United States Code, except for purposes of section 4 of this order, in which case it means an individual employed in an “Executive agency,” according to the meaning given that term in [section 105 of title 5](./chapter-001-organization.md#section-105), United States Code, but excluding the Government Accountability Office.
+
+(f) “Grievance” has the meaning given the term in [section 7103(a)(9) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a/9&num=0&edition=prelim), United States Code.
+
+(g) “Labor organization” has the meaning given the term in [section 7103(a)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a/4&num=0&edition=prelim), United States Code.
+
+(h) “Paid time” shall mean time for which an employee is paid by the Federal Government, including both duty time, in which the employee performs agency business, and taxpayer-funded union time. It does not include time spent on paid or unpaid leave, or an employee’s off-duty hours.
+
+(i) “Taxpayer-funded union time” shall mean official time granted to an employee pursuant to [section 7131 of title 5](./chapter-071-labor-management-relations.md#section-7131), United States Code.
+
+(j) “Union time rate” shall mean the total number of duty hours in the fiscal year that employees in a bargaining unit used for taxpayer-funded union time, divided by the number of employees in such bargaining unit.
+
+Sec. 3. Standards for Reasonable and Efficient Taxpayer-Funded Union Time Usage. (a) No agency shall agree to authorize any amount of taxpayer-funded union time under [section 7131(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7131/d&num=0&edition=prelim), United States Code, unless such time is reasonable, necessary, and in the public interest. Agreements authorizing taxpayer-funded union time under [section 7131(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7131/d&num=0&edition=prelim), United States Code, that would cause the union time rate in a bargaining unit to exceed 1 hour should, taking into account the size of the bargaining unit, and the amount of taxpayer-funded union time anticipated to be granted under sections 7131(a) and 7131(c) of title 5, United States Code, ordinarily not be considered reasonable, necessary, and in the public interest, or to satisfy the “effective and efficient” goal set forth in section 1 of this order and [section 7101(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7101/b&num=0&edition=prelim), United States Code. Agencies shall commit the time and resources necessary to strive for a negotiated union time rate of 1 hour or less, and to fulfill their obligation to bargain in good faith.
+
+(b)(i) If an agency agrees to authorize amounts of taxpayer-funded union time under [section 7131(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7131/d&num=0&edition=prelim), United States Code, that would cause the union time rate in a bargaining unit to exceed 1 hour (or proposes to the Federal Service Impasses Panel or an arbitrator engaging in interest arbitration an amount that would cause the union time rate in a bargaining unit to exceed 1 hour), the agency head shall report this agreement or proposal to the President through the Director of the Office of Personnel Management (OPM Director) within 15 days of such an agreement or proposal. Such report shall explain why such expenditures are reasonable, necessary, and in the public interest, describe the benefit (if any) the public will receive from the activities conducted by employees on such taxpayer-funded union time, and identify the total cost of such time to the agency. This reporting duty cannot be delegated.
+
+(ii) Each agency head shall require relevant subordinate agency officials to inform the agency head 5 business days in advance of presenting or accepting a proposal that would result in a union time rate of greater than 1 hour for any bargaining unit, if the subordinate agency officials anticipate they will present or agree to such a provision.
+
+(iii) The requirements of this subsection shall not apply to a union time rate established pursuant to an order of the Federal Service Impasses Panel or an arbitrator engaging in interest arbitration, provided that the agency had proposed that the Impasses Panel or arbitrator establish a union time rate of 1 hour or less.
+
+(c) Nothing in this section shall be construed to prohibit any agency from authorizing taxpayer-funded union time as required under sections 7131(a) and 7131(c) of title 5, United States Code, or to direct an agency to negotiate to include in a collective bargaining agreement a term that precludes an agency from granting taxpayer-funded union time pursuant to those provisions.
+
+Sec. 4. Employee Conduct with Regard to Agency Time and Resources. (a) To ensure that Federal resources are used effectively and efficiently and in a manner consistent with both the public interest and section 8 of this order, all employees shall adhere to the following requirements:
+
+(i) Employees may not engage in lobbying activities during paid time, except in their official capacities as an employee.
+
+(ii)(1) Except as provided in subparagraph (2) of this subsection, employees shall spend at least three-quarters of their paid time, measured each fiscal year, performing agency business or attending necessary training (as required by their agency), in order to ensure that they develop and maintain the skills necessary to perform their agency duties efficiently and effectively.
+
+(2) Employees who have spent one-quarter of their paid time in any fiscal year on non-agency business may continue to use taxpayer-funded union time in that fiscal year for purposes covered by sections 7131(a) or 7131(c) of title 5, United States Code.
+
+(3) Any time in excess of one-quarter of an employee’s paid time used to perform non-agency business in a fiscal year shall count toward the limitation set forth in subparagraph (1) of this subsection in subsequent fiscal years.
+
+(iii) No employee, when acting on behalf of a Federal labor organization, may be permitted the free or discounted use of government property or any other agency resources if such free or discounted use is not generally available for non-agency business by employees when acting on behalf of non-Federal organizations. Such property and resources include office or meeting space, reserved parking spaces, phones, computers, and computer systems.
+
+(iv) Employees may not be permitted reimbursement for expenses incurred performing non-agency business, unless required by law or regulation.
+
+(v)(1) Employees may not use taxpayer-funded union time to prepare or pursue grievances (including arbitration of grievances) brought against an agency under procedures negotiated pursuant to [section 7121 of title 5](./chapter-071-labor-management-relations.md#section-7121), United States Code, except where such use is otherwise authorized by law or regulation.
+
+(2) The prohibition in subparagraph (1) of this subsection does not apply to:
+
+(A) an employee using taxpayer-funded union time to prepare for, confer with an exclusive representative regarding, or present a grievance brought on the employee’s own behalf; or to appear as a witness in any grievance proceeding; or
+
+(B) an employee using taxpayer-funded union time to challenge an adverse personnel action taken against the employee in retaliation for engaging in federally protected whistleblower activity, including for engaging in activity protected under [section 2302(b)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/8&num=0&edition=prelim), United States Code, under [section 78u–6(h)(1) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78u–6/h/1&num=0&edition=prelim), United States Code [section 21F(h)(1) of act June 6, 1934, ch. 404], under [section 3730(h) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3730/h&num=0&edition=prelim), United States Code, or under any other similar whistleblower law.
+
+(b) Employees may not use taxpayer-funded union time without advance written authorization from their agency, except where obtaining prior approval is deemed impracticable under regulations or guidance adopted pursuant to subsection (c) of this section.
+
+(c)(i) The requirements of this section shall become effective 45 days from the date of this order [May 25, 2018]. The Office of Personnel Management (OPM) shall be responsible for administering the requirements of this section. Within 45 days of the date of this order, the OPM Director shall examine whether existing regulations are consistent with the rules set forth in this section. If the regulations are not, the OPM Director shall propose for notice and public comment, as soon as practicable, appropriate regulations to clarify and assist agencies in implementing these rules, consistent with applicable law.
+
+(ii) The head of each agency is responsible for ensuring compliance by employees within such agency with the requirements of this section, to the extent consistent with applicable law and existing collective bargaining agreements. Each agency head shall examine whether existing regulations, policies, and practices are consistent with the rules set forth in this section. If they are not, the agency head shall take all appropriate steps consistent with applicable law to bring them into compliance with this section as soon as practicable.
+
+(e) Nothing in this order shall be construed to prohibit agencies from permitting employees to take unpaid leave to perform representational activities under chapter 71 of title 5, United States Code [[5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) et seq.], including for purposes covered by [section 7121(b)(1)(C) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7121/b/1/C&num=0&edition=prelim), United States Code.
+
+Sec. 5. Preventing Unlawful or Unauthorized Expenditures. (a) Any employee who uses taxpayer-funded union time without advance written agency authorization required by section 4(b) of this order, or for purposes not specifically authorized by the agency, shall be considered absent without leave and subject to appropriate disciplinary action. Repeated misuse of taxpayer-funded union time may constitute serious misconduct that impairs the efficiency of the Federal service. In such instances, agencies shall take appropriate disciplinary action to address such misconduct.
+
+(b) As soon as practicable, but not later than 180 days from the date of this order, to the extent permitted by law, each agency shall develop and implement a procedure governing the authorization of taxpayer-funded union time under section 4(b) of this order. Such procedure shall, at a minimum, require a requesting employee to specify the number of taxpayer-funded union time hours to be used and the specific purposes for which such time will be used, providing sufficient detail to identify the tasks the employee will undertake. That procedure shall also allow the authorizing official to assess whether it is reasonable and necessary to grant such amount of time to accomplish such tasks. For continuing or ongoing requests, each agency shall require requests for authorization renewals to be submitted not less than once per pay period. Each agency shall further require separate advance authorization for any use of taxpayer-funded union time in excess of previously authorized hours or for purposes for which such time was not previously authorized.
+
+(c) As soon as practicable, but not later than 180 days from the date of this order, each agency shall develop and implement a system to monitor the use of taxpayer-funded union time to ensure that it is used only for authorized purposes, and that it is not used contrary to law or regulation. In developing these systems, each agency shall give special attention to ensuring taxpayer-funded union time is not used for:
+
+(i) internal union business in violation of [section 7131(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7131/b&num=0&edition=prelim), United States Code;
+
+(ii) lobbying activities in violation of [section 1913 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1913&num=0&edition=prelim), United States Code, or in violation of section 4(a)(i) of this order; or
+
+(iii) political activities in violation of subchapter III of chapter 73 of title 5, United States Code [[5 U.S.C. 7321](./chapter-073-suitability-security-and-conduct.md#section-7321) et seq.].
+
+Sec. 6. Agency Reporting Requirements. (a) To the extent permitted by law, each agency shall submit an annual report to OPM on the following:
+
+(i) The purposes for which the agency has authorized the use of taxpayer-funded union time, and the amounts of time used for each such purpose;
+
+(ii) The job title and total compensation of each employee who has used taxpayer-funded union time in the fiscal year, as well as the total number of hours each employee spent on these activities and the proportion of each employee’s total paid hours that number represents;
+
+(iii) If the agency has allowed labor organizations or individuals on taxpayer-funded union time the free or discounted use of government property, the total value of such free or discounted use;
+
+(iv) Any expenses the agency paid for activities conducted on taxpayer-funded union time; and
+
+(v) The amount of any reimbursement paid by the labor organizations for the use of government property.
+
+(b) Agencies shall notify the OPM Labor Relations Group established pursuant to the Executive Order entitled “Developing Efficient, Effective, and Cost-Reducing Approaches to Federal Sector Collective Bargaining” of May 25, 2018 [Ex. Ord. No. 13836, [5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) note], if a bargaining unit’s union time rate exceeds 1 hour.
+
+(c) If an agency’s aggregate union time rate (i.e., the average of the union time rates in each agency bargaining unit, weighted by the number of employees in each unit) has increased overall from the last fiscal year, the agency shall explain this increase in the report required under subsection (a) of this section.
+
+(d) The OPM Director shall set a date by which agency submissions under this section are due.
+
+Sec. 7. Public Disclosure and Transparency. (a) Within 180 days of the date of this order, the OPM Director shall publish a standardized form that each agency shall use in preparing the reports required by section 6 of this order.
+
+(b) OPM shall analyze the agency submissions under section 6 of this order and produce an annual report detailing:
+
+(i) for each agency and for agencies in the aggregate, the number of employees using taxpayer-funded union time, the number of employees using taxpayer-funded union time separately listed by intervals of the proportion of paid time spent on such activities, the number of hours spent on taxpayer-funded union time, the cost of taxpayer-funded union time (measured by the compensation of the employees involved), the aggregate union time rate, the number of bargaining unit employees, and the percentage change in each of these values from the previous fiscal year;
+
+(ii) for each agency and in the aggregate, the value of the free or discounted use of any government property the agency has provided to labor organizations, and any expenses, such as travel or per diems, the agency paid for activities conducted on taxpayer-funded union time, as well as the amount of any reimbursement paid for such use of government property, and the percentage change in each of these values from the previous fiscal year;
+
+(iii) the purposes for which taxpayer-funded union time was granted; and
+
+(iv) the information required by section 6(a)(ii) of this order for employees using taxpayer-funded union time, sufficiently aggregated that such disclosure would not unduly risk disclosing information protected by law, including personally identifiable information.
+
+(c) The OPM Director shall publish the annual report required by this section by June 30 of each year. The first report shall cover fiscal year 2019 and shall be published by June 30, 2020.
+
+(d) The OPM Director shall, after consulting with the Chief Human Capital Officers designated under chapter 14 of title 5, United States Code [[5 U.S.C. 1401](./chapter-014-agency-chief-human-capital-officers.md#section-1401) et seq.], promulgate any additional guidance that may be necessary or appropriate to assist the heads of agencies in complying with the requirements of this order.
+
+Sec. 8. Implementation and Renegotiation of Collective Bargaining Agreements. (a) Each agency shall implement the requirements of this order within 45 days of the date of this order, except for subsection 4(b) of this order, which shall be effective for employees at an agency when such agency implements the procedure required by section 5(b) of this order, to the extent permitted by law and consistent with their obligations under collective bargaining agreements in force on the date of this order. The head of each agency shall designate an official within the agency tasked with ensuring implementation of this order, and shall report the identity of such official to OPM within 30 days of the date of this order.
+
+(b) Each agency shall consult with employee labor representatives about the implementation of this order. On the earliest date permitted by law, and to effectuate the terms of this order, any agency that is party to a collective bargaining agreement that has at least one provision that is inconsistent with any part of this order shall give any contractually required notice of its intent to alter the terms of such agreement and either reopen negotiations and negotiate to obtain provisions consistent with this order, or subsequently terminate such provision and implement the requirements of this order, as applicable under law.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall abrogate any collective bargaining agreement in effect on the date of this order.
+
+(b) Nothing in this order shall be construed to interfere with, restrain, or coerce any employee in the exercise by the employee of any right under chapter 71 of title 5, United States Code, or encourage or discourage membership in any labor organization by discrimination in connection with hiring, tenure, promotion, or other conditions of employment.
+
+(c) Nothing in this order shall be construed to impair or otherwise affect the authority granted by law to an executive department or agency, or the head thereof.
+
+(d) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(f) If any provision of this order, including any of its applications, is held to be invalid, the remainder of this order and all of its other applications shall not be affected thereby.
+
+Donald J. Trump.
 
 
 <a id="section-7132"></a>

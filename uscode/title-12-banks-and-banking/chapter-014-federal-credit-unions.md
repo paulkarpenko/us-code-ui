@@ -155,6 +155,41 @@ Pub. L. 95–630, title V, § 509, Nov. 10, 1978, 92 Stat. 3683, provided that: 
 #### Repeals
 Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section, was repealed at the close of Mar. 31, 1980, by section 307 of Pub. L. 96–221, and substantially identical provisions were enacted by section 305 of Pub. L. 96–221, such amendments to take effect at the close of Mar. 31, 1980.
 
+#### Ex. Ord. No. 13816. Revising the Seal for the National Credit Union Administration
+Ex. Ord. No. 13816, Dec. 8, 2017, 82 F.R. 58701, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Revision. (a) The National Credit Union Administration Board has caused to be made, and has recommended approval of, a new seal of office for the National Credit Union Administration (NCUA), the design of which accompanies and is hereby made a part of this order [not set out in the Code], and which is described as follows:
+
+(i) The eagle overlaid by the shield conveys the NCUA’s role as an agency of the Federal Government. The text, “NCUA,” in white on a blue background on the crest of the shield is the core of the sign that federally insured credit unions are required to display.
+
+(ii) The three stars above the eagle represent the NCUA’s three-member Board, appointed by the President of the United States by and with the advice and consent of the Senate.
+
+(iii) The oak branch the eagle is holding in its left talon symbolizes the NCUA’s strength, honor, and longevity in carrying out its mission of promoting confidence in the national system of cooperative credit.
+
+(iv) The olive branch the eagle is holding in its right talon symbolizes the peace and prosperity facilitated by the economic growth and access to affordable financial services that the Nation’s credit unions have long provided to millions of Americans.
+
+(v) The upper portion of the circle that forms the border of the seal sets forth the agency’s title, “National Credit Union Administration.” The date “1934” in the lower portion of the circle reflects the creation of the Federal credit union system by the Congress in 1934 and the long unbroken line of Federal credit union regulation that evolved into the NCUA.
+
+(b) This seal is of suitable design and appropriate for adoption as the official seal of the NCUA.
+
+(c) I hereby approve this seal as the official seal of the NCUA.
+
+Sec. 2. Revocation. Executive Order 11580 of January 20, 1971 (Establishing a Seal for the National Credit Union Administration), as amended, is hereby revoked.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-1754"></a>
 ## § 1754. National Credit Union Administration
@@ -661,7 +696,7 @@ Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section,
 
   (B) does not include an extension of credit—
 
-    (i) that is fully secured by a lien on a 1- to 4-family dwelling that is the primary residence of a member;
+    (i) that is fully secured by a lien on a 1- to 4-family dwelling;
 
     (ii) that is fully secured by shares in the credit union making the extension of credit or deposits in other financial institutions;
 
@@ -688,6 +723,12 @@ Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section,
 **(e) Consultation and cooperation with State credit union supervisors** In implementing this section, the Board shall consult and seek to work cooperatively with State officials having jurisdiction over State-chartered insured credit unions.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (c)(1)(B)(i). Pub. L. 115–174 struck out “that is the primary residence of a member” after “dwelling”.
+
+#### Rule of Construction
+Pub. L. 115–174, title I, § 105(b), May 24, 2018, 132 Stat. 1301, provided that: “Nothing in this section [amending this section] or the amendment made by this section shall preclude the National Credit Union Administration from treating an extension of credit that is fully secured by a lien on a 1- to 4-family dwelling that is not the primary residence of a member as a member business loan for purposes other than the member business loan limitation requirements under section 107A of the Federal Credit Union Act ([12 U.S.C. 1757a](./chapter-014-federal-credit-unions.md#section-1757a)).”
 
 #### Study and Report
 Pub. L. 105–219, title II, § 203(b), Aug. 7, 1998, 112 Stat. 922, provided that: “(1) Study.—The Secretary [of the Treasury] shall conduct a study of member business lending by insured credit unions, including—“(A) an examination of member business lending over $500,000 and under $50,000, and a breakdown of the types and sizes of businesses that receive member business loans; “(B) a review of the effectiveness and enforcement of regulations applicable to insured credit union member business lending; “(C) whether member business lending by insured credit unions could affect the safety and soundness of insured credit unions or the National Credit Union Share Insurance Fund; “(D) the extent to which member business lending by insured credit unions helps to meet financial services needs of low- and moderate-income individuals within the field of membership of insured credit unions; “(E) whether insured credit unions that engage in member business lending have a competitive advantage over other insured depository institutions, and if any such advantage could affect the viability and profitability of such other insured depository institutions; and “(F) the effect of enactment of this Act [see Short Title of 1998 Amendment note set out under [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751)] on the number of insured credit unions involved in member business lending and the overall amount of commercial lending. “(2) NCUA cooperation.—The National Credit Union Administration shall, upon request, provide such information as the Secretary may require to conduct the study required under paragraph (1). “(3) Report.—Not later than 12 months after the date of enactment of this Act [Aug. 7, 1998], the Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1).”
@@ -1284,7 +1325,7 @@ The Federal credit unions organized hereunder, their property, their franchises,
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 1769, act June 26, 1934, ch. 750, § 19, 48 Stat. 1222, made available not more than $50,000 of the funds available to the Governor, under [section 1404 of this title](./chapter-010-local-agricultural-credit-corporations-livestock-loan-companies-and-like-organizations-loans-to-individuals-to-aid-in-formation-or-to-increase-capital-stock.md#section-1404), for administrative expenses in administering this chapter, prior to the amendment of act June 26, 1934, by Pub. L. 86–354.
+A prior section 1769, act June 26, 1934, ch. 750, § 19, 48 Stat. 1222, made available not more than $50,000 of the funds available to the Governor of the Farm Credit Administration, under former [section 1404 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1404&num=0&edition=prelim), for administrative expenses in administering this chapter, prior to the amendment of act June 26, 1934, by Pub. L. 86–354.
 
 Provisions similar to those comprising this section were contained in section 20 of act June 26, 1934, ch. 750, 48 Stat. 1222 (formerly classified to [section 1770 of this title](./chapter-014-federal-credit-unions.md#section-1770)), prior to the amendment and renumbering of act June 26, 1934, by Pub. L. 86–354.
 
@@ -4325,21 +4366,29 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **(b)** With respect to the financial operations arising by reason of this subchapter, the Board shall—
 
-(1) prepare annually and submit a business-type budget as provided for wholly owned Government corporations by chapter 91 of title 31; and
+(1) on an annual basis and prior to the submission of the detailed business-type budget required under paragraph (2)—
 
-(2) maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 11 See References in Text note below. of title 31.
+  (A) make publicly available and publish in the Federal Register a draft of the detailed business-type budget; and
+
+  (B) hold a public hearing, with public notice provided of the hearing, during which the public may submit comments on the draft of the detailed business-type budget;
+
+(2) prepare annually and submit a detailed business-type budget as provided for wholly owned Government corporations by chapter 91 of title 31, which shall address any comment submitted by the public under paragraph (1)(B); and
+
+(3) maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 11 See References in Text note below. of title 31.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 9105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105&num=0&edition=prelim), referred to in subsec. (b)(2), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and as so amended no longer directs audits to be conducted in accordance with principles and procedures applicable to commercial corporate transactions.
+[Section 9105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105&num=0&edition=prelim), referred to in subsec. (b)(3), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and as so amended no longer directs audits to be conducted in accordance with principles and procedures applicable to commercial corporate transactions.
 
 #### Codification
 In subsec. (a)(5), “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” substituted for “section 15 of the Administrative Expenses Act of 1946 ([5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim))” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (b), “chapter 91 of title 31” and “[section 9105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105&num=0&edition=prelim)” substituted for “the Government Corporation Control Act [[31 U.S.C. 841](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section841&num=0&edition=prelim) et seq.]” and “section 105 of the Government Corporation Control Act [[31 U.S.C. 850](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section850&num=0&edition=prelim)]”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(2), (3), “chapter 91 of title 31” and “[section 9105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105&num=0&edition=prelim)” substituted for “the Government Corporation Control Act [[31 U.S.C. 841](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section841&num=0&edition=prelim) et seq.]” and “section 105 of the Government Corporation Control Act [[31 U.S.C. 850](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section850&num=0&edition=prelim)]”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–174 added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (2), inserted “detailed” after “submit a” and “, which shall address any comment submitted by the public under paragraph (1)(B)” after “title 31”.
+
 2006—Subsec. (a)(8). Pub. L. 109–351 substituted a semicolon for period at end.
 
 2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.

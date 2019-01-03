@@ -290,15 +290,11 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 (3) Foreign corporations.
 
-(4) Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year.
+(4) Regulated investment companies and real estate investment trusts subject to tax under subchapter M of chapter 1.
 
-(5) Repealed. Pub. L. 94–455, title X, § 1053(d)(2), Oct. 4, 1976, 90 Stat. 1649.]
+(5) A DISC (as defined in section 992(a)(1)).
 
-(6) Regulated investment companies and real estate investment trusts subject to tax under subchapter M of chapter 1.
-
-(7) A DISC (as defined in section 992(a)(1)).
-
-(8) An S corporation.
+(6) An S corporation.
 
 **(c) Includible insurance companies** Notwithstanding the provisions of paragraph (2) of subsection (b)—
 
@@ -333,6 +329,8 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section 805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under [section 991 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-991).
 
 #### Amendments
+2018—Subsec. (b)(4) to (8). Pub. L. 115–141 redesignated pars. (6) to (8) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year.”
+
 2014—Subsec. (a)(3)(A). Pub. L. 113–295 struck out “for a taxable year which includes any period after December 31, 1984” after “affiliated group” in cl. (i) and struck out “in a taxable year beginning after December 31, 1984” after “such group” in cl. (ii).
 
 1996—Subsec. (b)(8). Pub. L. 104–188, § 1308(d)(2), added par. (8).
@@ -450,6 +448,8 @@ Amendment by Pub. L. 85–866 applicable only with respect to taxable years begi
 Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note set out under [section 316 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-316).
 
 #### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
 #### Repeal of Rules Permitting Loss Transfers by Alaska Native Corporations
@@ -470,75 +470,14 @@ Pub. L. 94–455, title XV, § 1507(c)(2), Oct. 4, 1976, 90 Stat. 1740, as amend
 
 
 <a id="section-1551"></a>
-## § 1551. Disallowance of the benefits of the graduated corporate rates and accumulated earnings credit
-**(a) In general** If—
-
-(1) any corporation transfers, directly or indirectly, all or part of its property (other than money) to a transferee corporation, or
-
-(2) five or fewer individuals who are in control of a corporation transfer, directly or indirectly, property (other than money) to a transferee corporation,
-and the transferee corporation was created for the purpose of acquiring such property or was not actively engaged in business at the time of such acquisition, and if after such transfer the transferor or transferors are in control of such transferee corporation during any part of the taxable year of such transferee corporation, then for such taxable year of such transferee corporation the Secretary may (except as may be otherwise determined under subsection (c)) disallow the benefits of the rates contained in section 11(b) which are lower than the highest rate specified in such section, or the accumulated earnings credit provided in paragraph (2) or (3) of section 535(c), unless such transferee corporation shall establish by the clear preponderance of the evidence that the securing of such benefits or credit was not a major purpose of such transfer.
-
-**(b) Control** For purposes of subsection (a), the term “control” means—
-
-(1) With respect to a transferee corporation described in subsection (a)(1), the ownership by the transferor corporation, its shareholders, or both, of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock; or
-
-(2) With respect to each corporation described in subsection (a)(2), the ownership by the five or fewer individuals described in such subsection of stock possessing—
-
-  (A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and
-
-  (B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such individual only to the extent such stock ownership is identical with respect to each such corporation.
-For purposes of this subsection, section 1563(e) shall apply in determining the ownership of stock.
-
-**(c) Authority of the Secretary under this section** The provisions of section 269(c) and the authority of the Secretary under such section, shall, to the extent not inconsistent with the provisions of this section, be applicable to this section.
+## § 1551. Repealed. Pub. L. 115–97, title I, § 13001(b)(5)(A), Dec. 22, 2017, 131 Stat. 2098]
 
 ### Statutory Notes
 
-#### Amendments
-2014—Subsec. (a). Pub. L. 113–295, § 221(a)(94)(A), redesignated pars. (2) and (3) as (1) and (2), respectively, struck out “after June 12, 1963,” after “indirectly,” in pars. (1) and (2), as so redesignated, and struck out former par. (1) which read as follows: “any corporation transfers, on or after January 1, 1951, and on or before June 12, 1963, all or part of its property (other than money) to a transferee corporation,”.
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 85–866, title II, § 205(a), Sept. 2, 1958, 72 Stat. 1680; Pub. L. 88–272, title II, § 235(b), Feb. 26, 1964, 78 Stat. 125; Pub. L. 94–12, title III, § 304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title XIX, §§ 1901(a)(158), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834; Pub. L. 95–600, title III, § 301(b)(18)(A), (B), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 97–34, title II, § 232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 99–514, title XVIII, § 1899A(36), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 113–295, div. A, title II, § 221(a)(94), Dec. 19, 2014, 128 Stat. 4051, related to disallowance of the benefits of the graduated corporate rates and accumulated earnings credit. Repeal was executed to this section, which is in part I of subchapter B of chapter 6, to reflect the probable intent of Congress, notwithstanding directory language of Pub. L. 115–97, which repealed section 1551 in part I of subchapter B of chapter 5.
 
-Subsec. (b)(1). Pub. L. 113–295, § 221(a)(94)(B)(i), struck out “or (2)” after “(a)(1)”.
-
-Subsec. (b)(2). Pub. L. 113–295, § 221(a)(94)(B)(ii), substituted “(a)(2)” for “(a)(3)” in introductory provisions.
-
-1986—Subsec. (c). Pub. L. 99–514 substituted “section 269(c)” for “section 269(b)”.
-
-1981—Subsec. (a). Pub. L. 97–34 struck out “$150,000” before “accumulated earnings credit”.
-
-1978—Pub. L. 95–600, § 301(b)(18)(B), substituted “the benefits of the graduated corporate rates” for “surtax exemption” in section catchline.
-
-Subsec. (a). Pub. L. 95–600, § 301(b)(18)(A), in provisions following par. (3) substituted “disallow the benefits of the rates contained in section 11(b) which are lower than the highest rate specified in such section” for “disallow the surtax exemption (as defined in section 11(d))” and “such benefits or” for “such exemption or”.
-
-1976—Subsec. (a). Pub. L. 94–455 §§ 1901(a)(158), 1906(b)(13)(A), substituted “subsection (c)” for “subsection (d)” after “determined under” and struck out “or his delegate” after “Secretary”.
-
-1975—Subsec. (a). Pub. L. 94–12 substituted “$150,000” for “$100,000”.
-
-1964—Pub. L. 88–272 amended section generally, and among other changes, designated provisions as subsecs. (a) to (c), included among corporations who are disallowed surtax exemption and accumulated earnings credit, corporations, and five or fewer individuals in charge of a corporation who, directly or indirectly, transfer property in contravention of subsec. (a) after June 12, 1963, substituted provisions permitting the Secretary or his delegate to disallow the exemption or the earnings credit, for provisions which disallowed the exemption and the credit except as otherwise determined by the Secretary of his delegate, provisions that for purposes of determining ownership of stock, section 1563(e) shall apply, for provisions which determined ownership in accordance with section 544, and defined control, with respect to corporations described in subsec. (a)(3), to include the additional test as stated in subsec. (b)(2)(B).
-
-1958—Pub. L. 85–866 substituted “$100,000” for “$60,000”.
-
-#### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
-
-#### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 232(c) of Pub. L. 97–34, set out as a note under [section 535 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-535).
-
-#### Effective Date of 1978 Amendment
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
-
-#### Effective Date of 1976 Amendment
-Amendment by section 1901(a)(158) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under [section 2 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-2).
-
-#### Effective Date of 1975 Amendment
-Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31, 1974, see section 305(c) of Pub. L. 94–12, set out as a note under [section 535 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-535).
-
-#### Effective Date of 1964 Amendment
-Pub. L. 88–272, title II, § 235(d), Feb. 26, 1964, 78 Stat. 127, provided that: “The amendments made by subsections (a) and (c) [enacting sections 1561 to 1563 of this title and amending sections 269, 441, and 802 of this title] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) [amending this section] shall apply with respect to transfers made after June 12, 1963.”
-
-#### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–866 applicable with respect to taxable years beginning after Dec. 31, 1957, see section 205(b) of Pub. L. 85–866, set out as a note under [section 535 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-535).
-
-#### Plan Amendments Not Required Until January 1, 1989
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+#### Effective Date of Repeal
+Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 
 <a id="section-1552"></a>
@@ -570,26 +509,20 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 
 <a id="section-1561"></a>
-## § 1561. Limitations on certain multiple tax benefits in the case of certain controlled corporations
-**(a) General rule** The component members of a controlled group of corporations on a December 31 shall, for their taxable years which include such December 31, be limited for purposes of this subtitle to—
+## § 1561. Limitation on accumulated earnings credit in the case of certain controlled corporations
+**(a) In general** The component members of a controlled group of corporations on a December 31 shall, for their taxable years which include such December 31, be limited for purposes of this subtitle to one $250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B)) amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3). Such amount shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amount.
 
-(1) amounts in each taxable income bracket in the tax table in section 11(b)(1) which do not aggregate more than the maximum amount in such bracket to which a corporation which is not a component member of a controlled group is entitled,
-
-(2) one $250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B)) amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and
-
-(3) one $40,000 exemption amount for purposes of computing the amount of the minimum tax.
-The amounts specified in paragraph (1) and the amount specified in paragraph (3) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last 2 sentences of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last 2 sentences shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
-
-**(b) Certain short taxable years** If a corporation has a short taxable year which does not include a December 31 and is a component member of a controlled group of corporations with respect to such taxable year, then for purposes of this subtitle—
-
-(1) the amount in each taxable income bracket in the tax table in section 11(b), and
-
-(2) the amount to be used in computing the accumulated earnings credit under section 535(c)(2) and (3),
-of such corporation for such taxable year shall be the amount specified in subsection (a)(1) or (2), as the case may be, divided by the number of corporations which are component members of such group on the last day of such taxable year. For purposes of the preceding sentence, section 1563(b) shall be applied as if such last day were substituted for December 31.
+**(b) Certain short taxable years** If a corporation has a short taxable year which does not include a December 31 and is a component member of a controlled group of corporations with respect to such taxable year, then for purposes of this subtitle, the amount to be used in computing the accumulated earnings credit under section 535(c)(2) and (3) of such corporation for such taxable year shall be the amount specified in subsection (a) with respect to such group, divided by the number of corporations which are component members of such group on the last day of such taxable year. For purposes of the preceding sentence, section 1563(b) shall be applied as if such last day were substituted for December 31.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Pub. L. 115–97, § 13001(b)(6)(A), amended section generally. Prior to amendment, section related to limitations on certain multiple tax benefits in the case of certain controlled corporations.
+
+Subsec. (a). Pub. L. 115–97, § 12001(b)(16)(B), struck out at end “In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).”
+
+Subsec. (a)(3). Pub. L. 115–97, § 12001(b)(16)(A), struck out par. (3) which read as follows: “one $40,000 exemption amount for purposes of computing the amount of the minimum tax.”
+
 2014—Subsec. (a). Pub. L. 113–295, § 221(a)(12)(H)(ii), substituted “and the amount specified in paragraph (3)” for “, the amount specified in paragraph (3), and the amount specified in paragraph (4)” in concluding provisions.
 
 Subsec. (a)(2) to (4). Pub. L. 113–295, § 221(a)(12)(H)(i), inserted “and” at end of par. (2), substituted a period for “, and” at end of par. (3), and struck out par. (4) which read as follows: “one $2,000,000 amount for purposes of computing the tax imposed by section 59A.”
@@ -631,6 +564,11 @@ Pub. L. 94–12, § 303(c)(1), substituted “$50,000” for “$25,000”.
 Subsec. (a)(2). Pub. L. 94–12, § 304(b), substituted “$150,000” for “$100,000”.
 
 1969—Pub. L. 91–172 provided, with respect to taxable years beginning after Dec. 31, 1974, that a controlled group of corporations is limited to one $25,000 surtax exemption under section 11(d), one $100,000 amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and one $25,000 amount for purposes of computing the limitation on the small business deduction of life insurance companies under sections 804(a)(4) and 809(d)(10).
+
+#### Effective Date of 2017 Amendment
+Amendment by section 12001(b)(16) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
+
+Amendment by section 13001(b)(6)(A) of Pub. L. 115–97 applicable to transfers made after Dec. 31, 2017, see section 13001(c)(3) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -678,7 +616,7 @@ Amendment by section 304(b) of Pub. L. 94–12 applicable to taxable years begin
 Pub. L. 91–172, title IV, § 401(h), Dec. 30, 1969, 83 Stat. 604, provided that: “(1) The amendments made by subsection (a) [amending this section and repealing [section 1562 of this title](./chapter-006-consolidated-returns.md#section-1562)] shall apply with respect to taxable years beginning after December 31, 1974. “(2) The amendments made by subsection (b) [enacting section 1564 and amending sections 11, 535, 804, and 1562] shall apply with respect to taxable years beginning after December 31, 1969. “(3) The amendments made by subsections (c), (d), (e), and (f) [amending sections 46, 48, 179, and 1563] shall apply with respect to taxable years ending on or after December 31, 1970.”
 
 #### Effective Date
-Section applicable with respect to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under [section 1551 of this title](./chapter-006-consolidated-returns.md#section-1551).
+Section applicable with respect to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under [section 269 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-269).
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 For applicability of amendment by section 701(e)(2) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under [section 861 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-861).
@@ -915,7 +853,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 Amendment by Pub. L. 91–172 applicable with respect to taxable years ending on or after Dec. 31, 1970, see section 401(h)(3) of Pub. L. 91–172, set out as a note under [section 1561 of this title](./chapter-006-consolidated-returns.md#section-1561).
 
 #### Effective Date
-Section applicable with respect to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under [section 1551 of this title](./chapter-006-consolidated-returns.md#section-1551).
+Section applicable with respect to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under [section 269 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-269).
 
 
 <a id="section-1564"></a>

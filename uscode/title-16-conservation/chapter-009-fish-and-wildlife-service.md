@@ -47,6 +47,9 @@ The Congress declares that the fish, shellfish, and wildlife resources of the Na
 #### References in Text
 This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–168, § 1, Apr. 23, 2018, 132 Stat. 1284, provided that: “This Act [amending [section 742f of this title](./chapter-009-fish-and-wildlife-service.md#section-742f)] may be cited as the ‘Keep America’s Refuges Operational Act’.”
+
 #### Short Title of 2011 Amendment
 Pub. L. 111–357, § 1, Jan. 4, 2011, 124 Stat. 3979, provided that: “This Act [amending sections 742f and 742f–1 of this title] may be cited as the ‘National Wildlife Refuge Volunteer Improvement Act of 2010’.”
 
@@ -382,7 +385,7 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 (2) making recommendations to improve the effectiveness of such programs, including regarding implementing subparagraphs (A), (B), and (C) of paragraph (1) of subsection (e).
 
-**(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2011 through 2014.
+**(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2018 through 2022.
 
 ### Statutory Notes
 
@@ -392,6 +395,8 @@ This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as
 The National Wildlife Refuge System Administration Act of 1966, referred to in subsecs. (b)(2)(B)(ii) and (d)(2)(B), (C)(i), consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–168 substituted “2018 through 2022” for “2011 through 2014”.
+
 2011—Subsec. (b)(2)(B)(ii). Pub. L. 111–357, § 2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.
 
 Subsec. (d)(2)(C)(i). Pub. L. 111–357, § 2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.

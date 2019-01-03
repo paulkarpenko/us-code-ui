@@ -109,7 +109,7 @@ It is the sense of Congress that the President—
 
 
 <a id="section-9522"></a>
-## § 9522. Congressional review of certain actions relating to sanctions imposed with respect to the Russian federation
+## § 9522. Congressional review of certain actions relating to sanctions imposed with respect to the Russian Federation
 **(a) Submission to Congress of proposed action**
 
 (1) **In general** — Notwithstanding any other provision of law, before taking any action described in paragraph (2), the President shall submit to the appropriate congressional committees and leadership a report that describes the proposed action and the reasons for that action.
@@ -281,7 +281,7 @@ In this part:
 
   (B) the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Ways and Means of the House of Representatives.
 
-(2) **Good** — The term “good” has the meaning given that term in [section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
+(2) **Good** — The term “good” has the meaning given that term in section 4618 11 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
 
 (3) **International financial institution** — The term “international financial institution” has the meaning given that term in [section 262r(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c&num=0&edition=prelim).
 
@@ -300,7 +300,130 @@ In this part:
 #### References in Text
 This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, and 8924 of this title. For complete classification of part 2 to the Code, see Tables.
 
+[Section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim), referred to in par. (2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
 The International Emergency Economic Powers Act, referred to in par. (2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+#### Ex. Ord. No. 13849. Authorizing the Implementation of Certain Sanctions Set Forth in the Countering America’s Adversaries Through Sanctions Act
+Ex. Ord. No. 13849, Sept. 20, 2018, 83 F.R. 48195, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) (IEEPA), the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), the Countering America’s Adversaries Through Sanctions Act (Public Law 115–44) (CAATSA), the Ukraine Freedom Support Act of 2014 (Public Law 113–272), as amended [[22 U.S.C. 8921](./chapter-96a-ukraine-freedom-support.md#section-8921) et seq.] (UFSA), section 212(f) of the Immigration and Nationality Act of 1952 ([8 U.S.C. 1182(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/f&num=0&edition=prelim)), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code,
+
+I, DONALD J. TRUMP, President of the United States of America, in order to take additional steps with respect to the national emergencies declared in Executive Order 13660 of March 6, 2014, as expanded in scope and relied upon for additional steps taken in subsequent Executive Orders, and Executive Order 13694 of April 1, 2015, as relied upon for additional steps taken in Executive Order 13757 of December 28, 2016 [listed in a table under [50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim)], hereby order:
+
+Section 1. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to sections 224(a)(2), 231(a), 232(a), or 233(a) of CAATSA [[22 U.S.C. 9524(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9524/a/2&num=0&edition=prelim), 9525(a), 9526(a), or 9527(a)] and has selected from section 235 of CAATSA [[22 U.S.C. 9529](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9529)] any of the sanctions set forth below to impose on that person, the Secretary of the Treasury, in consultation with the Secretary of State, shall take the following actions where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
+
+(i) prohibit any United States financial institution from making loans or providing credits to the sanctioned person totaling more than $10,000,000 in any 12-month period, unless the person is engaged in activities to relieve human suffering and the loans or credits are provided for such activities;
+
+(ii) prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the sanctioned person has any interest;
+
+(iii) prohibit any transfers of credit or payments between financial institutions, or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person;
+
+(iv) block all property and interests in property of the sanctioned person that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, and provide that such property and interests in property may not be transferred, paid, exported, withdrawn, or otherwise dealt in;
+
+(v) prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of the sanctioned person; or
+
+(vi) impose on the principal executive officer or officers of the sanctioned person, or on persons performing similar functions and with similar authorities as such officer or officers, the sanctions described in subsections (a)(i)–(a)(v) of this section, as selected by the President, the Secretary of State, or the Secretary of the Treasury.
+
+(b) The prohibitions in subsection (a)(iv) of this section include:
+
+(i) the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any sanctioned person whose property and interests in property are blocked pursuant to this order; and
+
+(ii) the receipt of any contribution or provision of funds, goods, or services from any such sanctioned person.
+
+(c) The prohibitions in this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order [Sept. 20, 2018].
+
+Sec. 2. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to sections 224(a)(2), 231(a), 232(a), or 233(a) of CAATSA and has selected from section 235 of CAATSA any of the sanctions set forth below to impose on that person, the heads of relevant departments and agencies, in consultation with the Secretary of State and the Secretary of the Treasury, as appropriate, shall ensure that the following actions are taken where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
+
+(i) The Export-Import Bank shall deny approval of the issuance of any guarantee, insurance, extension of credit, or participation in an extension of credit in connection with the export of any goods or services to the sanctioned person;
+
+(ii) Departments and agencies shall not issue any specific license or grant any other specific permission or authority under any statute that requires the prior review or approval of the United States Government as a condition for the export or reexport of goods or technology to the sanctioned person;
+
+(iii) The United States executive director of each international financial institution shall use the voice and vote of the United States to oppose any loan from the international financial institution that would benefit the sanctioned person;
+
+(iv) With respect to a sanctioned person that is a financial institution: the Board of Governors of the Federal Reserve System and the Federal Reserve Bank of New York shall not designate, or permit the continuation of any prior designation of, the sanctioned person as a primary dealer in United States Government debt instruments; and departments and agencies shall prevent the sanctioned person from serving as an agent of the United States Government or serving as a repository for United States Government funds;
+
+(v) Departments and agencies shall not procure, or enter into a contract for the procurement of, any goods or services from the sanctioned person;
+
+(vi) The Secretary of State shall deny a visa to, and the Secretary of Homeland Security shall exclude from the United States, any alien that the President, the Secretary of State, or the Secretary of the Treasury determines is a corporate officer or principal of, or a shareholder with a controlling interest in, the sanctioned person by treating the person as covered by section 1 of Proclamation 8693 of July 24, 2011 (Suspension of Entry of Aliens Subject to United Nations Security Council Travel Bans and International Emergency Economic Powers Act Sanctions) [[8 U.S.C. 1182](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim) note]; or
+
+(vii) The heads of the relevant departments and agencies, as appropriate, shall impose on the principal executive officer or officers of the sanctioned person, or on persons performing similar functions and with similar authorities as such officer or officers, the sanctions described in subsections (a)(i)–(a)(vi) of this section, as selected by the President, the Secretary of State, or the Secretary of the Treasury.
+
+(b) The prohibitions in this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order.
+
+Sec. 3. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to section 224(a)(3) of CAATSA [[22 U.S.C. 9524(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9524/a/3&num=0&edition=prelim)] or sections 4(a) or 4(b) of UFSA [[22 U.S.C. 8923(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/a&num=0&edition=prelim), (b)] and has selected from section 4(c) of UFSA [[22 U.S.C. 8923(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/c&num=0&edition=prelim)] any of the sanctions set forth below to impose on that person, the Secretary of the Treasury, in consultation with the Secretary of State, shall take the following actions where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
+
+(i) block all property and interests in property of the sanctioned person that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, and provide that such property and interests in property may not be transferred, paid, exported, withdrawn, or otherwise dealt in;
+
+(ii) prohibit any transfers of credit or payments between financial institutions, or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person;
+
+(iii) prohibit any United States person from transacting in, providing financing for, or otherwise dealing in certain debt or equity of the sanctioned person, in accordance with section 4(c)(7) of UFSA; or
+
+(iv) impose on the principal executive officer or officers of the sanctioned person, or on persons performing similar functions and with similar authorities as such officer or officers, the sanctions described in subsections (a)(i)–(a)(iii) of this section, as selected by the President, the Secretary of State, or the Secretary of the Treasury.
+
+(b) The prohibitions in subsection (a)(i) of this section include:
+
+(i) the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any sanctioned person whose property and interests in property are blocked pursuant to this order; and
+
+(ii) the receipt of any contribution or provision of funds, goods, or services from any such sanctioned person.
+
+(c) The prohibitions in this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order.
+
+Sec. 4. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to section 224(a)(3) of CAATSA or sections 4(a) or 4(b) of UFSA and has selected from section 4(c) of UFSA any of the sanctions set forth below to impose on that person, the heads of relevant departments and agencies, in consultation with the Secretary of State and the Secretary of the Treasury, as appropriate, shall ensure that the following actions are taken where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
+
+(i) The Export-Import Bank shall deny approval of the issuance of any guarantee, insurance, extension of credit, or participation in an extension of credit in connection with the export of any goods or services to the sanctioned person;
+
+(ii) Departments and agencies shall not procure, or enter into a contract for the procurement of, any goods or services from the sanctioned person;
+
+(iii) Departments and agencies shall prohibit the exportation, or provision by sale, lease or loan, grant, or other means, directly or indirectly, of any defense article or defense service to the sanctioned person and shall not issue any license or other approval to the sanctioned person under section 38 of the Arms Export Control Act ([22 U.S.C. 2778](./chapter-039-arms-export-control.md#section-2778));
+
+(iv) Departments and agencies shall not issue any license, and shall suspend any license, for the transfer to the sanctioned person of any item the export of which is controlled under the Export Control Reform Act of 2018 (subtitle B of title XVII of Public Law 115–232) [[50 U.S.C. 4801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4801&num=0&edition=prelim) et seq.], or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations;
+
+(v) The Secretary of State shall deny a visa to, and the Secretary of Homeland Security shall exclude from the United States, the sanctioned person by treating the person as covered by section 1 of Proclamation 8693; or
+
+(vi) The heads of the relevant departments and agencies, as appropriate, shall impose on the principal executive officer or officers of the sanctioned person, or on persons performing similar functions and with similar authorities as such officer or officers, the sanctions described in subsections (a)(i)–(a)(v) of this section, as selected by the President, the Secretary of State, or the Secretary of the Treasury.
+
+(b) The prohibitions in this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order.
+
+Sec. 5. (a) Any transaction that evades or avoids, has the purpose of evading or avoiding, causes a violation of, or attempts to violate any of the prohibitions set forth in this order is prohibited.
+
+(b) Any conspiracy formed to violate any of the prohibitions set forth in this order is prohibited.
+
+Sec. 6. I hereby determine that, to the extent section 203(b)(2) of IEEPA ([50 U.S.C. 1702(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702/b/2&num=0&edition=prelim)) may apply, the making of donations of the types of articles specified in such section by, to, or for the benefit of any sanctioned person whose property and interests in property are blocked pursuant to this order would seriously impair my ability to deal with the national emergencies declared in Executive Orders 13660 and 13694 [listed in a table under [50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim)], and I hereby prohibit such donations as provided by sections 1(a)(iv) and 3(a)(i) of this order.
+
+Sec. 7. For the purposes of this order:
+
+(a) the term “person” means an individual or entity;
+
+(b) the term “entity” means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization;
+
+(c) the term “United States person” means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person within the United States;
+
+(d) the term “financial institution” includes: (i) a depository institution (as defined in section 3(c)(1) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/c/1&num=0&edition=prelim))), including a branch or agency of a foreign bank (as defined in section 1(b)(7) of the International Banking Act of 1978 ([12 U.S.C. 3101(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3101/7&num=0&edition=prelim))); (ii) a credit union; (iii) a securities firm, including a broker or dealer; (iv) an insurance company, including an agency or underwriter; and (v) any other company that provides financial services;
+
+(e) the term “international financial institution” has the meaning given that term in section 1701(c) of the International Financial Institutions Act ([22 U.S.C. 262r(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c&num=0&edition=prelim));
+
+(f) the term “United States financial institution” means a financial institution (including its foreign branches) organized under the laws of the United States or of any jurisdiction within the United States or located in the United States; and
+
+(g) the term “sanctioned person” means a person that the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined is a person on whom sanctions shall be imposed pursuant to sections 224(a)(2), 224(a)(3), 231(a), 232(a), or 233(a) of CAATSA or sections 4(a) or 4(b) of UFSA and on whom the President, the Secretary of State, or the Secretary of the Treasury has imposed any of the sanctions in section 235 of CAATSA or section 4(c) of UFSA.
+
+Sec. 8. For those persons whose property and interests in property are blocked pursuant to this order who might have a constitutional presence in the United States, I find that because of the ability to transfer funds or other assets instantaneously, prior notice to such persons of measures to be taken with respect to such property or interests in property pursuant to this order would render those measures ineffectual. I therefore determine that for these measures to be effective in addressing the national emergencies declared in Executive Orders 13660 and 13694, there need be no prior notice of an action taken pursuant to this order with respect to such property or interests in property.
+
+Sec. 9. The unrestricted immigrant and nonimmigrant entry into the United States of aliens on whom sanctions described in sections 1(a)(iv) or 3(a)(i) of this order have been imposed would be detrimental to the interests of the United States, and the entry of such persons into the United States, as immigrants or nonimmigrants, is hereby suspended. Such persons shall be treated as persons covered by section 1 of Proclamation 8693.
+
+Sec. 10. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA, and sections 224(a)(2), 224(a)(3), 231(a), 231(e), 232(a), 233(a), and 235 of CAATSA and sections 4(a)–(c) and 4(h) of UFSA with respect to powers to impose sanctions, as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may, consistent with applicable law, redelegate any of these functions within the Department of the Treasury. All departments and agencies of the United States Government shall take all appropriate measures within their authority to carry out the provisions of this order.
+
+Sec. 11. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-9524"></a>
@@ -422,9 +545,6 @@ Executive Order No. 13662, referred to in section catchline and text, is Ex. Ord
 #### References in Text
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
-#### References in Text
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
-
 This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
 
 
@@ -444,14 +564,92 @@ This chapter, referred to in subsec. (c)(1)(B), was in the original “this titl
 
 **(c) Delay of imposition of sanctions** The President may delay the imposition of sanctions under subsection (a) with respect to a person if the President certifies to the appropriate congressional committees, not less frequently than every 180 days while the delay is in effect, that the person is substantially reducing the number of significant transactions described in subsection (a) in which that person engages.
 
-**(d) Requirement to issue guidance** Not later than 60 days after August 2, 2017, the President shall issue regulations or other guidance to specify the persons that are part of, or operate for or on behalf of, the defense and intelligence sectors of the Government of the Russian Federation.
+**(d) Modified waiver authority for certain sanctionable transactions under this section**
 
-**(e) Penalties** A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out subsection (a) shall be subject to the penalties set forth in subsections (b) and (c) of [section 1705 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+(1) **In general** — The President may use the authority under [section 9530(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9530/b&num=0&edition=prelim) to waive the application of sanctions with respect to a person under this section without regard to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511) if, not later than 30 days prior to the waiver taking effect, the President certifies in writing to the appropriate congressional committees and the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that—
+
+  (A) the waiver is in the national security interests of the United States;
+
+  (B) the significant transaction described in subsection (a) that the person engaged in with respect to which the waiver is being exercised—
+
+    (i) is not a significant transaction with—
+
+      (I) the Main Intelligence Agency of the General Staff of the Armed Forces of the Russian Federation;
+
+      (II) the Federal Security Service of the Russian Federation;
+
+      (III) the Foreign Intelligence Service of the Russian Federation;
+
+      (IV) Autonomous Noncommercial Professional Organization/Professional Association of Designers of Data Processing (ANO PO KSI);
+
+      (V) the Special Technology Center;
+
+      (VI) Zorsecurity; or
+
+      (VII) any person that the Secretary of State, in consultation with the Director of National Intelligence, determines—
+
+        (aa) to be part of, or operating for or on behalf of, the defense or intelligence sector of the Government of the Russian Federation; and
+
+        (bb) has directly participated in or facilitated cyber intrusions by the Government of the Russian Federation; and
+
+    (ii) would not—
+
+      (I) endanger the integrity of any multilateral alliance of which the United States is a part;
+
+      (II) adversely affect ongoing operations of the Armed Forces of the United States, including coalition operations in which the Armed Forces of the United States participate;
+
+      (III) result in a significant negative impact to defense cooperation between the United States and the country whose government has primary jurisdiction over the person; and
+
+      (IV) significantly increase the risk of compromising United States defense systems and operational capabilities; and
+
+  (C) the government with primary jurisdiction over the person—
+
+    (i) is taking or will take steps to reduce its inventory of major defense equipment and advanced conventional weapons produced by the defense sector of the Russian Federation as a share of its total inventory of major defense equipment and advanced conventional weapons over a specified period; or
+
+    (ii) is cooperating with the United States Government on other security matters that are critical to United States strategic interests.
+
+(2) **Form** — The certification described in paragraph (1) shall be transmitted in an unclassified form, and may contain a classified annex.
+
+(3) **Report**
+
+  (A) *In general* — Not later than 120 days after the date on which the President submits a certification described in paragraph (1) with respect to the waiver of the application of sanctions with respect to a person under this section, and annually thereafter for two years, the Secretary of State and the Secretary of Defense shall jointly submit to the appropriate congressional committees and the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the waiver.
+
+  (B) *Matters to be included* — The report required by subparagraph (A) shall include—
+
+    (i) the extent to which such waiver has or has not resulted in the compromise of United States systems and operational capabilities, including through the diversion of United States sensitive technology to a person that is part of, or operates for or on behalf of, the defense or intelligence sectors of the Government of the Russian Federation; and
+
+    (ii) the extent to which the government with primary jurisdiction over the person is taking specific actions to further the enforcement of this title.
+
+**(e) Requirement to issue guidance** Not later than 60 days after August 2, 2017, the President shall issue regulations or other guidance to specify the persons that are part of, or operate for or on behalf of, the defense and intelligence sectors of the Government of the Russian Federation.
+
+**(f) Penalties** A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out subsection (a) shall be subject to the penalties set forth in subsections (b) and (c) of [section 1705 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (b)(1)(B), was in the original “this title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
+
+#### Amendments
+2018—Subsecs. (d) to (f). Pub. L. 115–232 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### Construction
+Pub. L. 115–232, div. A, title XII, § 1294(b), Aug. 13, 2018, 132 Stat. 2087, provided that: “Nothing in subsection (d) of section 231 of the Countering America’s Adversaries Through Sanctions Act (Public Law 115–44; [22 U.S.C. 9525](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9525)), as added by subsection (a) of this section, shall be construed to modify, waive, or terminate any existing sanctions with respect to the Russian Federation, including any Russian person or entity, that are in effect on the date of the enactment of this Act [Aug. 13, 2018].”
+
+#### Exception Relating to Importation of Goods
+Pub. L. 115–232, div. A, title XII, § 1294(d), Aug. 13, 2018, 132 Stat. 2088, provided that: “No provision affecting sanctions under this section [amending this section and enacting provisions set out as notes under this section] or an amendment made by this section shall apply to any portion of a sanction that affects the importation of goods.”
+
+#### Delegation of Authorities Under Section 1294 of the National Defense Authorization Act for Fiscal Year 2019
+Memorandum of President of the United States, Oct. 26, 2018, 83 F.R. 57671, provided:
+
+Memorandum for the Secretary of State[,] the Secretary of the Treasury[,] the Secretary of Defense[, and] the Assistant to the President for National Security Affairs
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of State, in coordination with the Secretary of the Treasury, the Secretary of Defense, and the Assistant to the President for National Security Affairs, the functions and authorities vested in the President by section 1294 of the [John S. McCain] National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) [probably means [22 U.S.C. 9525(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9525/d&num=0&edition=prelim), as added by section 1294(a) of Pub. L. 115–232].
+
+The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
 
 
 <a id="section-9528"></a>
@@ -569,7 +767,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1), 
 
   (A) *Prohibition on designation as primary dealer* — Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, the financial institution as a primary dealer in United States Government debt instruments.
 
-  (B) *Prohibition on service as a repository of government funds* — The financial institution may not serve as agent of the United States Government or serve as repository for United States Government funds.
+  (B) *Prohibition on service as a repository of Government funds* — The financial institution may not serve as agent of the United States Government or serve as repository for United States Government funds.
   The imposition of either sanction under subparagraph (A) or (B) shall be treated as one sanction for purposes of subsection (b), and the imposition of both such sanctions shall be treated as two sanctions for purposes of subsection (b).
 
 (6) **Procurement sanction** — The United States Government may not procure, or enter into any contract for the procurement of, any goods or services from the sanctioned person.
@@ -597,7 +795,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1), 
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (a)(2)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(2)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
@@ -704,9 +902,9 @@ It is the sense of Congress that—
 ### Statutory Notes
 
 #### References in Text
-The Sergei Magnitsky Rule of Law Accountability Act of 2012, referred to in par. (10)(A), is title IV of Pub. L. 112–208, title IV, Dec. 14, 2012, 126 Stat. 1502, which is set out as a note under [section 5811 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5811).
+The Sergei Magnitsky Rule of Law Accountability Act of 2012, referred to in par. (10)(A), is title IV of Pub. L. 112–208, Dec. 14, 2012, 126 Stat. 1502, which is set out as a note under [section 5811 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5811).
 
-The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§ 1261–1265) of title XII of div. A of Pub. L. 114–328, div. A, title XII, subtitle F, Dec. 23, 2016, 130 Stat. 2533, which is set out as a note under [section 2656 of this title](./chapter-038-department-of-state.md#section-2656).
+The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§ 1261–1265) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is set out as a note under [section 2656 of this title](./chapter-038-department-of-state.md#section-2656).
 
 
 <a id="section-9543"></a>
@@ -826,7 +1024,7 @@ The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B
 
 (3) to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion of Ukrainian territory through the use of military force;
 
-(4) to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses;
+(4) to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses; 11 So in original. Probably should be “Caucasus;”.
 
 (5) to assist in promoting reform in regulatory oversight and operations in Ukraine’s energy sector, including the establishment and empowerment of an independent regulatory organization;
 
@@ -906,8 +1104,17 @@ The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(2)(B)
+Pub. L. 115–254, div. F, title VI, § 1470(t), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (c)(2)(B) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
+
 #### References in Text
 The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8921 of this title](./chapter-96a-ukraine-freedom-support.md#section-8921) and Tables.
+
+#### Amendments
+2018—Subsec. (c)(2)(B). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 
 <a id="section-9547"></a>

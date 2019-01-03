@@ -23,7 +23,7 @@ The effective date of this chapter, referred to in par. (1), is July 1, 1971. Se
 Former [section 3514 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3514&num=0&edition=prelim), referred to in par. (1), means section 3514 of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 #### Effective Date
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Noninterference With Collective Bargaining Agreements
 Pub. L. 109–435, title V, § 505(b), Dec. 20, 2006, 120 Stat. 3236, provided that: “Except as otherwise provided by the amendment made by subsection (a) [amending [section 1207 of this title](./chapter-012-employee-management-agreements.md#section-1207)], nothing in this Act [see Tables for classification] shall restrict, expand, or otherwise affect any of the rights, privileges, or benefits of either employees of or labor organizations representing employees of the United States Postal Service under chapter 12 of title 39, United States Code, the National Labor Relations Act [[29 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section151&num=0&edition=prelim) et seq.], any handbook or manual affecting employee labor relations within the United States Postal Service, or any collective bargaining agreement.”
@@ -46,6 +46,11 @@ The National Labor Relations Board shall decide in each case the unit appropriat
 (3) both professional employees and employees who are not professional employees unless a majority of such professional employees vote for inclusion in such unit; or
 
 (4) together with other employees, any individual employed as a security guard to enforce against employees and other persons, rules to protect property of the Postal Service or to protect the safety of property, mail, or persons on the premises of the Postal Service; but no labor organization shall be certified as the representative of employees in a bargaining unit of security guards if such organization admits to membership, or is affiliated directly or indirectly with an organization which admits to membership, employees other than guards.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-1203"></a>
@@ -70,6 +75,9 @@ the National Labor Relations Board shall investigate such petition and, if it ha
 #### References in Text
 The date of enactment of this section, referred to in subsec. (b), means the date of enactment of Pub. L. 91–375, which was approved Aug. 12, 1970.
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-1204"></a>
 ## § 1204. Elections
@@ -78,6 +86,11 @@ The date of enactment of this section, referred to in subsec. (b), means the dat
 **(b)** In any election where none of the choices on the ballot receives a majority, a runoff shall be conducted, the ballot providing for a selection between the 2 choices receiving the largest and second largest number of valid votes cast in the election. In the event of a tie vote, additional runoff elections shall be conducted until one of the choices has received a majority of the votes.
 
 **(c)** No election shall be held in any bargaining unit within which, in the preceding 12-month period, a valid election has been held.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-1205"></a>
@@ -91,6 +104,9 @@ The date of enactment of this section, referred to in subsec. (b), means the dat
 #### References in Text
 The date of enactment of the Postal Reorganization Act, referred to in subsec. (b), means the date of enactment of Pub. L. 91–375, which was approved Aug. 12, 1970.
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-1206"></a>
 ## § 1206. Collective-bargaining agreements
@@ -101,6 +117,9 @@ The date of enactment of the Postal Reorganization Act, referred to in subsec. (
 **(c)** The Postal Service and bargaining representatives recognized under section 1203 may by mutual agreement adopt procedures for the resolution of disputes or impasses arising in the negotiation of a collective-bargaining agreement.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Use of Funds for Restructuring of Employee Compensation Practices
 Pub. L. 98–396, title III, § 303, Aug. 22, 1984, 98 Stat. 1422, provided that: “None of the funds made available to the United States Postal Service under this Act [see Tables for classification] or any other Act may be used to restructure employee compensation practices as in effect under the most recently effective collective bargaining agreement under [section 1206 of title 39](./chapter-012-employee-management-agreements.md#section-1206), United States Code, except in accordance with the results of procedures set forth in section 1207 of such title.”
@@ -127,6 +146,9 @@ Pub. L. 98–396, title III, § 303, Aug. 22, 1984, 98 Stat. 1422, provided that
 #### Amendments
 2006—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to labor disputes between the Postal Service and bargaining representatives.
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-1208"></a>
 ## § 1208. Suits
@@ -140,6 +162,11 @@ Pub. L. 98–396, title III, § 303, Aug. 22, 1984, 98 Stat. 1422, provided that
 
 **(e)** The service of summons, subpena, or other legal process of any court of the United States upon an officer or agent of a labor organization, in his capacity as such, shall constitute service upon the labor organization.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-1209"></a>
 ## § 1209. Applicability of Federal labor laws
@@ -148,3 +175,8 @@ Pub. L. 98–396, title III, § 303, Aug. 22, 1984, 98 Stat. 1422, provided that
 **(b)** The provisions of chapter 11 of title 29 shall be applicable to labor organizations that have or are seeking to attain recognition under [section 1203 of this title](./chapter-012-employee-management-agreements.md#section-1203), and to such organizations, officers, agents, shop stewards, other representatives, and members to the extent to which such provisions would be applicable if the Postal Service were an employer under [section 402 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section402&num=0&edition=prelim). In addition to the authority conferred on him under [section 438 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section438&num=0&edition=prelim), the Secretary of Labor shall have authority, by regulation issued with the written concurrence of the Postal Service, to prescribe simplified reports for any such labor organization. The Secretary of Labor may revoke such provision for simplified forms of any such labor organization if he determines, after such investigation as he deems proper and after due notice and opportunity for a hearing, that the purposes of this chapter and of chapter 11 of title 29 would be served thereby.
 
 **(c)** Each employee of the Postal Service shall have the right, freely and without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).

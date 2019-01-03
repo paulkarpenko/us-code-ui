@@ -128,7 +128,7 @@ Pub. L. 104–106, § 561(a), designated existing provisions as subsec. (a), ins
 “(4) is confined for more than one day under a sentence that has become final; or”.
 
 #### Effective Date of 1996 Amendment
-Pub. L. 104–106, div. A, title V, § 561(e), Feb. 10, 1996, 110 Stat. 323, provided that: “The amendments made by this section [enacting [section 6328 of this title](./chapter-571-voluntary-retirement.md#section-6328) and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title] shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any period of time covered by [section 972 of title 10](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-972), United States Code, that occurs after that date.”
+Pub. L. 104–106, div. A, title V, § 561(e), Feb. 10, 1996, 110 Stat. 323, provided that: “The amendments made by this section [enacting [section 6328 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6328&num=0&edition=prelim) and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title] shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any period of time covered by [section 972 of title 10](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-972), United States Code, that occurs after that date.”
 
 
 <a id="section-973"></a>
@@ -276,8 +276,6 @@ Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, pr
 
 (2) Any contribution of money under paragraph (1) shall be credited to the appropriation or account providing the funds for such military musical unit. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
 
-(3) Not later than January 30 of each year, the Secretary concerned shall submit to Congress a report on any contributions of money, personal property, and services accepted under paragraph (1) during the fiscal year preceding the fiscal year during which the report is submitted.
-
 **(e) Performances at Foreign Locations.—** Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
 
 **(f) Military Musical Unit Defined.—** In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
@@ -288,6 +286,8 @@ Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, pr
 A prior section 974, added Pub. L. 90–235, § 6(a)(6)(A), Jan. 2, 1968, 81 Stat. 762; amended Pub. L. 101–510, div. A, title III, § 327(e), Nov. 5, 1990, 104 Stat. 1532, related to civilian employment by enlisted members, prior to repeal by Pub. L. 105–261, div. A, title V, § 569(a), Oct. 17, 1998, 112 Stat. 2032.
 
 #### Amendments
+2017—Subsec. (d)(3). Pub. L. 115–91 struck out par. (3) which read as follows: “Not later than January 30 of each year, the Secretary concerned shall submit to Congress a report on any contributions of money, personal property, and services accepted under paragraph (1) during the fiscal year preceding the fiscal year during which the report is submitted.”
+
 2013—Subsecs. (d) to (f). Pub. L. 113–66 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 2009—Pub. L. 111–84 amended section generally. Prior to amendment, section related to uniform performance policies for military bands and other musical units.
@@ -782,7 +782,7 @@ Pub. L. 106–79, title VIII, § 8120, Oct. 25, 1999, 113 Stat. 1260, provided t
 
 (2) A person who is a veteran (as defined in [section 1491(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1491/h&num=0&edition=prelim)) or who died while on active duty or a member of a reserve component, when the circumstances surrounding the person’s death or other circumstances as specified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person’s service (or former service).
 
-**(b) Disqualification From Burial in Military Cemeteries.—** A person who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of [section 2411(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411/b&num=0&edition=prelim) is not entitled to or eligible for, and may not be provided, burial in—
+**(b) Disqualification From Burial in Military Cemeteries.—** Except as provided in subsection (c), a person who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of [section 2411(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411/b&num=0&edition=prelim) is not entitled to or eligible for, and may not be provided, burial in—
 
 (1) Arlington National Cemetery;
 
@@ -790,11 +790,17 @@ Pub. L. 106–79, title VIII, § 8120, Oct. 25, 1999, 113 Stat. 1260, provided t
 
 (3) any other cemetery administered by the Secretary of a military department or the Secretary of Defense.
 
-**(c) Definition.—** In this section, the term “burial” includes inurnment.
+**(c) Unclaimed Remains of Military Prisoners.—** Subsection (b) shall not preclude the burial at the United States Disciplinary Barracks Cemetery at Fort Leavenworth, Kansas, of a military prisoner, including a military prisoner who is a person described in [section 2411(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411/b&num=0&edition=prelim), who dies while in custody of a military department and whose remains are not claimed by the person authorized to direct disposition of the remains or by other persons legally authorized to dispose of the remains.
+
+**(d) Definition.—** In this section, the term “burial” includes inurnment.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–232, § 592(1), substituted “Except as provided in subsection (c), a person who is ineligible” for “A person who is ineligible” in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 115–232, § 592(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+
 2006—Pub. L. 109–163, § 662(c)(1), substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, § 662(b)(1)(B), substituted “any of the following persons:” for “a person who has been convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole.” and added pars. (1) and (2).

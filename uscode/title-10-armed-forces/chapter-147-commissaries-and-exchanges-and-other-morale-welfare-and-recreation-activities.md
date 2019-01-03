@@ -353,6 +353,9 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 ### Statutory Notes
 
+#### Amendment of Subsection (f)
+Pub. L. 115–232, div. A, title VIII, § 836(e)(11), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (f) of this section is amended by striking “Commercial Items” in the heading and inserting “Commercial Products” and by striking “commercial item” and inserting “commercial product”. See 2018 Amendment note below.
+
 #### References in Text
 The date of the enactment of this subsection, referred to in subsec. (j)(3)(C), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
@@ -360,6 +363,8 @@ The date of the enactment of this subsection, referred to in subsec. (j)(3)(C), 
 A prior section 2484 was renumbered [section 2483 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2483).
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–232 substituted “Commercial Products” for “Commercial Items” in heading and substituted “commercial product” for “commercial item” in text.
+
 2016—Subsecs. (i) to (k). Pub. L. 114–328 added subsecs. (i) to (k).
 
 2014—Subsec. (f). Pub. L. 113–291 amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of Defense may not use the exception provided in [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim) regarding the procurement of a brand-name commercial item for resale in, at, or by commissary stores unless the commercial item is regularly sold outside of commissary stores under the same brand name as the name by which the commercial item will be sold in, at, or by commissary stores. In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.”
@@ -442,6 +447,9 @@ Subsec. (f). Pub. L. 105–85, § 372(d), added subsec. (f).
 
 Subsec. (d). Pub. L. 100–180, § 313(a)(1), added subsec. (d).
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 2006 Amendment
 Pub. L. 109–364, div. A, title X, § 1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(6) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
 
@@ -460,9 +468,13 @@ Pub. L. 114–328, div. A, title VI, § 661(g), Dec. 23, 2016, 130 Stat. 2172, p
 #### Competitive Pricing of Legal Consumer Tobacco Products Sold in Department of Defense Retail Stores
 Pub. L. 113–291, div. A, title VI, § 633, Dec. 19, 2014, 128 Stat. 3405, provided that: “(a) Prohibition on Banning Sale of Legal Consumer Tobacco Products.—The Secretary of Defense and the Secretaries of the military departments may not take any action to implement any new policy that would ban the sale of any legal consumer tobacco product category sold as of January 1, 2014, within the defense retail systems or on any Department of Defense vessel at sea. “(b) Use of Prices Comparable to Local Prices.—The Secretary of Defense shall issue regulations regarding the pricing of tobacco and tobacco-related products sold in an outlet of the defense retail systems inside the United States, including territories and possessions of the United States, to prohibit the sale of a product at a price below the most competitive price for that product in the local community. “(c) Application to Overseas Defense Retail Systems.—The regulations required by subsection (b) shall direct that the price of a tobacco or tobacco-related product sold in an outlet of the defense retail systems outside of the United States shall be within the range of prices established for that product in outlets of the defense retail systems inside the United States. “(d) Defense Retail Systems Defined.—In this section, the term ‘defense retail systems’ has the meaning given that term in [section 2487(b)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2487/b/2&num=0&edition=prelim), United States Code.”
 
-Pub. L. 115–31, div. C, title VIII, § 8034, May 5, 2017, 131 Stat. 254, provided that: “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: Provided, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
+Pub. L. 115–245, div. A, title VIII, § 8034, Sept. 28, 2018, 132 Stat. 3007, provided that: “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: Provided, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. C, title VIII, § 8033, Mar. 23, 2018, 132 Stat. 471.
+
+Pub. L. 115–31, div. C, title VIII, § 8034, May 5, 2017, 131 Stat. 254.
 
 Pub. L. 114–113, div. C, title VIII, § 8033, Dec. 18, 2015, 129 Stat. 2358.
 

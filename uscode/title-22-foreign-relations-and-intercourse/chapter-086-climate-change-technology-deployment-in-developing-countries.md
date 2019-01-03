@@ -69,6 +69,20 @@ Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1
 
 **(d) Priority** In providing assistance under subsection (b), the Secretary of State shall give priority to projects in the 25 developing countries identified in the report submitted under subsection (a)(2)(A).
 
+### Statutory Notes
+
+#### Amendment of Subsection (b)
+Pub. L. 115–254, div. F, title VI, § 1470(q), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), subsection (b) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681), see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
+
+#### Effective Date
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under [section 7901 of this title](./chapter-086-climate-change-technology-deployment-in-developing-countries.md#section-7901).
+
 
 <a id="section-7903"></a>
 ## § 7903. Technology inventory for developing countries
@@ -84,6 +98,11 @@ Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1
 
 (4) includes an analysis of market forces related to the inventoried technologies.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under [section 7901 of this title](./chapter-086-climate-change-technology-deployment-in-developing-countries.md#section-7901).
+
 
 <a id="section-7904"></a>
 ## § 7904. Trade-related barriers to export of greenhouse gas intensity reducing technologies
@@ -94,6 +113,11 @@ Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1
 (2) negotiate with foreign countries for the removal of those barriers.
 
 **(b) Annual report** Not later than 1 year after the date on which a report is submitted under subsection (a)(1) and annually thereafter, the United States Trade Representative shall submit to Congress a report that describes any progress made with respect to removing the barriers identified by the United States Trade Representative under subsection (a)(1).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under [section 7901 of this title](./chapter-086-climate-change-technology-deployment-in-developing-countries.md#section-7901).
 
 
 <a id="section-7905"></a>
@@ -127,6 +151,11 @@ Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1
 (1) conduct a performance review of actions taken and results achieved by the Federal Government (including each of the agencies represented on the interagency working group) to promote the export of greenhouse gas intensity reducing technologies and practices from the United States; and
 
 (2) submit to the appropriate authorizing and appropriating committees of Congress a report that describes the results of the performance reviews and evaluates progress in promoting the export of greenhouse gas intensity reducing technologies and practices from the United States, including any recommendations for increasing the export of the technologies and practices.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under [section 7901 of this title](./chapter-086-climate-change-technology-deployment-in-developing-countries.md#section-7901).
 
 
 <a id="section-7906"></a>
@@ -175,17 +204,32 @@ Pub. L. 101–240, title VII, § 739, as added Pub. L. 109–58, title XVI, § 1
 
   (E) lower emission transportation.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under [section 7901 of this title](./chapter-086-climate-change-technology-deployment-in-developing-countries.md#section-7901).
+
 
 <a id="section-7907"></a>
 ## § 7907. Fellowship and exchange programs
 
 The Secretary of State, in coordination with the Secretary of Energy, the Secretary of Commerce, and the Administrator of the Environmental Protection Agency, shall carry out fellowship and exchange programs under which officials from developing countries visit the United States to acquire expertise and knowledge of best practices to reduce greenhouse gas intensity in their countries.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under [section 7901 of this title](./chapter-086-climate-change-technology-deployment-in-developing-countries.md#section-7901).
+
 
 <a id="section-7908"></a>
 ## § 7908. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2005, except as otherwise provided, see section 739 of Pub. L. 101–240, set out as a note under [section 7901 of this title](./chapter-086-climate-change-technology-deployment-in-developing-countries.md#section-7901).
 
 
 <a id="section-7909"></a>

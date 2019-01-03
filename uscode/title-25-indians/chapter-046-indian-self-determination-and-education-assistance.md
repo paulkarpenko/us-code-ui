@@ -2,7 +2,7 @@
 title: 25
 chapter: '46'
 heading: INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE
-section_count: 69
+section_count: 70
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -476,6 +476,9 @@ Section was formerly classified to [section 458ddd–2 of this title](./chapter-
 #### Codification
 Section was formerly classified to [section 450 of this title](./chapter-014-miscellaneous.md#section-450) prior to editorial reclassification and renumbering as this section.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–404, § 1, Dec. 31, 2018, 132 Stat. 5349, provided that: “This Act [enacting [section 5348 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5348)] may be cited as the ‘Johnson-O’Malley Supplemental Indian Education Program Modernization Act’.”
+
 #### Short Title of 2000 Amendment
 Pub. L. 106–568, title VIII, § 801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title [see Tables for classification] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
 
@@ -503,7 +506,7 @@ Pub. L. 93–638, title I, § 101, Jan. 4, 1975, 88 Stat. 2206, provided that: �
 
 Pub. L. 93–638, title II, § 201, Jan. 4, 1975, 88 Stat. 2213, provided that: “This title [enacting subchapter III (§ 5351 et seq.) of this chapter, sections 5345 to 5347 of this title, and provisions set out as a note under [section 5347 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5347)] may be cited as the ‘Indian Education Assistance Act’.”
 
-Act April 16, 1934, ch. 147, 48 Stat. 596, which enacted sections 5342 to 5347 of this title, is popularly known as the “Johnson-O’Malley Act”.
+Act April 16, 1934, ch. 147, 48 Stat. 596, which enacted sections 5342 to 5348 of this title, is popularly known as the “Johnson-O’Malley Act”.
 
 #### Savings Provisions
 Pub. L. 100–472, title II, § 210, Oct. 5, 1988, 102 Stat. 2298, provided that: “Nothing in this Act [see Tables for classification] shall be construed as— “(1) affecting, modifying, diminishing, or otherwise impairing the sovereign immunity from suit enjoyed by an Indian tribe; or “(2) authorizing or requiring the termination of any existing trust responsibility of the United States with respect to Indian people.”
@@ -2003,7 +2006,7 @@ A prior section 108 of Pub. L. 93–638 was renumbered section 5(f) and was clas
 2000—Subsec. (c). Pub. L. 106–568 substituted “, section 16 of the Act of June 18, 1934” for “and section 16 of the Act of June 18, 1934” and “and the Act of July 3, 1952 ([25 U.S.C. 82a](./chapter-003-agreements-with-indians.md#section-82a)), shall not apply” for “shall not apply” in section 1(b)(15)(A) of the provisions setting out the model agreement.
 
 #### Quarterly Payments of Funds to Tribes
-Pub. L. 105–83, title III, § 311, Nov. 14, 1997, 111 Stat. 1590, provided that: “Notwithstanding Public Law 103–413 [see Short Title of 1994 Amendment note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301)], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to section 108 of Public Law 93–638 [[25 U.S.C. 5329](./chapter-046-indian-self-determination-and-education-assistance.md#section-5329)], as amended, beginning in fiscal year 1998 and therafter, may be made on the first business day following the first day of a fiscal quarter.”
+Pub. L. 105–83, title III, § 311, Nov. 14, 1997, 111 Stat. 1590, provided that: “Notwithstanding Public Law 103–413 [see Short Title of 1994 Amendment note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301)], quarterly payments of funds to tribes and tribal organizations under annual funding agreements pursuant to section 108 of Public Law 93–638 [[25 U.S.C. 5329](./chapter-046-indian-self-determination-and-education-assistance.md#section-5329)], as amended, beginning in fiscal year 1998 and therafter [sic], may be made on the first business day following the first day of a fiscal quarter.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -2187,8 +2190,8 @@ Pub. L. 104–134, title I, § 101(c) [title III, § 311], Apr. 26, 1996, 110 St
   (B) *Incorporation by reference.—* — The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2.”
 
 
-<a id="section-5351"></a>
-## § 5351. Rescission of contract or grant and assumption of control of program, etc.; authority; grounds; procedure; correction of violation as prerequisite to new contract or grant agreement; construction with occupational safety and health requirements
+<a id="section-5348"></a>
+## § 5348. Rescission of contract or grant and assumption of control of program, etc.; authority; grounds; procedure; correction of violation as prerequisite to new contract or grant agreement; construction with occupational safety and health requirements
 
 Each contract or grant agreement entered into pursuant to sections 5321 and 5322 11 See Codification note below. of this title shall provide that in any case where the appropriate Secretary determines that the tribal organization’s performance under such contract or grant agreement involves (1) the violation of the rights or endangerment of the health, safety, or welfare of any persons; or (2) gross negligence or mismanagement in the handling or use of funds provided to the tribal organization pursuant to such contract or grant agreement, or in the management of trust fund, trust lands or interests in such lands pursuant to such contract or grant agreement, such Secretary may, under regulations prescribed by him and after providing notice and a hearing on the record to such tribal organization, rescind such contract or grant agreement, in whole or in part, and assume or resume control or operation of the program, activity, or service involved if he determines that the tribal organization has not taken corrective action as prescribed by the Secretary to remedy the contract deficiency, except that the appropriate Secretary may, upon written notice to a tribal organization, and the tribe served by the tribal organization, immediately rescind a contract or grant, in whole or in part, and resume control or operation of a program, activity, function, or service, if the Secretary finds that (i) there is an immediate threat of imminent harm to the safety of any person, or imminent substantial and irreparable harm to trust funds, trust lands, or interests in such lands, and (ii) such threat arises from the failure of the contractor to fulfill the requirements of the contract. In such cases, the Secretary shall provide the tribal organization with a hearing on the record within ten days or such later date as the tribal organization may approve. Such Secretary may decline to enter into a new contract or grant agreement and retain control of such program, activity, or service until such time as he is satisfied that the violations of rights or endangerment of health, safety, or welfare which necessitated the rescission has been corrected. In any hearing or appeal provided for under this section, the Secretary shall have the burden of proof to establish, by clearly demonstrating the validity of the grounds for rescinding, assuming, or reassuming the contract that is the subject of the hearing. Nothing in this section shall be construed as contravening the Occupational Safety and Health Act of 1970, as amended [[29 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) et seq.].
 
@@ -2212,8 +2215,8 @@ Section was formerly classified to [section 450m of this title](./chapter-014-mi
 Pub. L. 100–581 which directed amendment of this section by substituting “in such cases, he shall provide the tribal organization with a hearing on the record within ten days or such later date as the tribal organization may approve.” for “in such cases, he shall hold a hearing within ten days thereof” was executed by substituting the new language for “in such cases, he shall hold a hearing on such action within ten days thereof” to reflect the probable intent of Congress.
 
 
-<a id="section-5352"></a>
-## § 5352. Contract disputes and claims
+<a id="section-5351"></a>
+## § 5351. Contract disputes and claims
 **(a) Civil actions; concurrent jurisdiction; relief** The United States district courts shall have original jurisdiction over any civil action or claim against the appropriate Secretary arising under this chapter and, subject to the provisions of subsection (d) of this section and concurrent with the United States Court of Claims, over any civil action or claim against the Secretary for money damages arising under contracts authorized by this chapter. In an action brought under this paragraph, the district courts may order appropriate relief including money damages, injunctive relief against any action by an officer of the United States or any agency thereof contrary to this chapter or regulations promulgated thereunder, or mandamus to compel an officer or employee of the United States, or any agency thereof, to perform a duty provided under this chapter or regulations promulgated hereunder (including immediate injunctive relief to reverse a declination finding under [section 5321(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321/a/2&num=0&edition=prelim) or to compel the Secretary to award and fund an approved self-determination contract).
 
 **(b) Revision of contracts** The Secretary shall not revise or amend a self-determination contract with a tribal organization without the tribal organization’s consent.
@@ -2263,8 +2266,8 @@ Subsec. (b). Pub. L. 100–581, § 212(b), substituted “of tribal organization
 Subsec. (c). Pub. L. 100–581, § 212(c), as amended by Pub. L. 101–301, § 1(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Equal Access to Justice Act (Public Law 96–481, Act of October 1 [21], 1980; 94 Stat. 2325, as amended) shall apply to administrative appeals by tribal organizations regarding self-determination contracts.”
 
 
-<a id="section-5353"></a>
-## § 5353. Sovereign immunity and trusteeship rights unaffected
+<a id="section-5352"></a>
+## § 5352. Sovereign immunity and trusteeship rights unaffected
 
 Nothing in this chapter shall be construed as—
 
@@ -2281,8 +2284,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 Section was formerly classified to [section 450n of this title](./chapter-014-miscellaneous.md#section-450n) prior to editorial reclassification and renumbering as this section.
 
 
-<a id="section-5354"></a>
-## § 5354. Donations for Indians; use of gifts; annual report to Congress
+<a id="section-5353"></a>
+## § 5353. Donations for Indians; use of gifts; annual report to Congress
 
 The Secretary of the Interior may accept donations of funds or other property for the advancement of the Indian race, and he may use the donated property in accordance with the terms of the donation in furtherance of any program authorized by other provision of law for the benefit of Indians. An annual report shall be made to the Congress on donations received and allocations made from such donations. This report shall include administrative costs and other pertinent data.
 
@@ -2300,8 +2303,8 @@ Section was formerly classified to [section 451 of this title](./chapter-014-mis
 For termination, effective May 15, 2000, of provisions in this section relating to making an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 113 of House Document No. 103–7.
 
 
-<a id="section-5355"></a>
-## § 5355. Contracts for education, medical attention, relief and social welfare of Indians
+<a id="section-5354"></a>
+## § 5354. Contracts for education, medical attention, relief and social welfare of Indians
 
 The Secretary of the Interior is authorized, in his discretion, to enter into a contract or contracts with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution, for the education, medical attention, agricultural assistance, and social welfare, including relief of distress, of Indians in such State or Territory, through the agencies of the State or Territory or of the corporations and organizations hereinbefore named, and to expend under such contract or contracts, moneys appropriated by Congress for the education, medical attention, agricultural assistance, and social welfare, including relief of distress, of Indians in such State or Territory.
 
@@ -2314,7 +2317,7 @@ Section was formerly classified to [section 452 of this title](./chapter-014-mis
 1936—Act June 4, 1936, substituted “with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution”, “through the agencies of the State or Territory or of the corporations and organizations hereinbefore named,”, and “such State or Territory” for “any State or Territory having legal authority so to do,”, “through the qualified agencies of such State or Territory,”, and “such State”, respectively.
 
 #### Short Title
-Sections 5342 to 5347 of this title popularly known as the “Johnson-O’Malley Act”, see note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301).
+Sections 5342 to 5348 of this title popularly known as the “Johnson-O’Malley Act”, see note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301).
 
 #### Distribution of Public School Assistance
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1795, provided that: “notwithstanding any other provision of law, the amounts available for assistance to public schools under the Act of April 16, 1934 (48 Stat. 596), as amended ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.) [now [25 U.S.C. 5342](./chapter-046-indian-self-determination-and-education-assistance.md#section-5342) et seq.], shall be distributed on the basis of the formula recommended by the Assistant Secretary of Indian Affairs in a letter to the Committees on Appropriations dated June 27, 1988, except that for the fiscal year ending September 30, 1989, the minimum weight factor shall be 1.1 rather than 1.3 and for the fiscal year ending September 30, 1990, the minimum weight factor shall be 1.2 rather than 1.3”.
@@ -2327,10 +2330,10 @@ Pub. L. 100–202, § 101(g) [title I], Dec. 22, 1987, 101 Stat. 1329–213, 132
 Pub. L. 99–190, § 101(d) [title I], Dec. 19, 1985, 99 Stat. 1224, 1235, provided that: “notwithstanding any law or regulation, in allocating funds for aid to public schools under the Act of April 16, 1934, as amended [[25 U.S.C. 5342](./chapter-046-indian-self-determination-and-education-assistance.md#section-5342) et seq.], the Secretary shall enter into contracts only for the provision of supplementary educational services for Indian children”.
 
 
-<a id="section-5356"></a>
-## § 5356. Use of Government property by States and Territories
+<a id="section-5355"></a>
+## § 5355. Use of Government property by States and Territories
 
-The Secretary of the Interior, in making any contract authorized by sections 5342 to 5347 of this title, may permit such contracting party to utilize, for the purposes of said sections, existing school buildings, hospitals, and other facilities, and all equipment therein or appertaining thereto, including livestock and other personal property owned by the Government, under such terms and conditions as may be agreed upon for their use and maintenance.
+The Secretary of the Interior, in making any contract authorized by sections 5342 to 5348 of this title, may permit such contracting party to utilize, for the purposes of said sections, existing school buildings, hospitals, and other facilities, and all equipment therein or appertaining thereto, including livestock and other personal property owned by the Government, under such terms and conditions as may be agreed upon for their use and maintenance.
 
 ### Statutory Notes
 
@@ -2341,10 +2344,10 @@ Section was formerly classified to [section 453 of this title](./chapter-014-mis
 1936—Act June 4, 1936, substituted “, may permit such contracting party” for “with any State or Territory, may permit such State or Territory”.
 
 
-<a id="section-5361"></a>
-## § 5361. Rules and regulations; minimum standards of service
+<a id="section-5356"></a>
+## § 5356. Rules and regulations; minimum standards of service
 
-The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations, including minimum standards of service, as may be necessary and proper for the purpose of carrying the provisions of sections 5342 to 5347 of this title into effect: Provided, That such minimum standards of service are not less than the highest maintained by the States or Territories within which said contract or contracts, as herein provided, are to be effective.
+The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations, including minimum standards of service, as may be necessary and proper for the purpose of carrying the provisions of sections 5342 to 5348 of this title into effect: Provided, That such minimum standards of service are not less than the highest maintained by the States or Territories within which said contract or contracts, as herein provided, are to be effective.
 
 ### Statutory Notes
 
@@ -2355,8 +2358,8 @@ Section was formerly classified to [section 454 of this title](./chapter-014-mis
 1936—Act June 4, 1936, substituted “within which” for “with which”.
 
 
-<a id="section-5362"></a>
-## § 5362. Contracts for education in public schools; submission of education plan by contractor as prerequisite; criteria for approval of plan by Secretary of the Interior; participation by non-Indian students
+<a id="section-5361"></a>
+## § 5361. Contracts for education in public schools; submission of education plan by contractor as prerequisite; criteria for approval of plan by Secretary of the Interior; participation by non-Indian students
 
 The Secretary of the Interior shall not enter into any contract for the education of Indians unless the prospective contractor has submitted to, and has had approved by the Secretary of the Interior, an education plan, which plan, in the determination of the Secretary, contains educational objectives which adequately address the educational needs of the Indian students who are to be beneficiaries of the contract and assures that the contract is capable of meeting such objectives: Provided, That where students other than Indian students participate in such programs, money expended under such contract shall be prorated to cover the participation of only the Indian students.
 
@@ -2369,9 +2372,9 @@ Section was formerly classified to [section 455 of this title](./chapter-014-mis
 A prior section 4 of act Apr. 16, 1934, ch. 147, 48 Stat. 596; June 4, 1936, ch. 490, 49 Stat. 1458, directed Secretary of the Interior to report to Congress any contracts made under provisions of sections 5342 to 5344 of this title, prior to repeal by Pub. L. 86–533, § 1(15), June 29, 1960, 74 Stat. 248.
 
 
-<a id="section-5363"></a>
-## § 5363. Local committee of Indian parents in school districts having school boards composed of non-Indian majority
-**(a) Election; functions** Whenever a school district affected by a contract or contracts for the education of Indians pursuant to sections 5342 to 5347 of this title has a local school board not composed of a majority of Indians, the parents of the Indian children enrolled in the school or schools affected by such contract or contracts shall elect a local committee from among their number. Such committee shall fully participate in the development of, and shall have the authority to approve or disapprove programs to be conducted under such contract or contracts, and shall carry out such other duties, and be so structured, as the Secretary of the Interior shall by regulation provide: Provided, however, That, whenever a local Indian committee or committees established pursuant to [section 7424(c)(4) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7424/c/4&num=0&edition=prelim) or an Indian advisory school board or boards established pursuant to sections 5342 to 5347 of this title prior to January 4, 1975, exists in such school district, such committee or board may, in the discretion of the affected tribal governing body or bodies, be utilized for the purposes of this section.
+<a id="section-5362"></a>
+## § 5362. Local committee of Indian parents in school districts having school boards composed of non-Indian majority
+**(a) Election; functions** Whenever a school district affected by a contract or contracts for the education of Indians pursuant to sections 5342 to 5348 of this title has a local school board not composed of a majority of Indians, the parents of the Indian children enrolled in the school or schools affected by such contract or contracts shall elect a local committee from among their number. Such committee shall fully participate in the development of, and shall have the authority to approve or disapprove programs to be conducted under such contract or contracts, and shall carry out such other duties, and be so structured, as the Secretary of the Interior shall by regulation provide: Provided, however, That, whenever a local Indian committee or committees established pursuant to [section 7424(c)(4) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7424/c/4&num=0&edition=prelim) or an Indian advisory school board or boards established pursuant to sections 5342 to 5348 of this title prior to January 4, 1975, exists in such school district, such committee or board may, in the discretion of the affected tribal governing body or bodies, be utilized for the purposes of this section.
 
 **(b) Revocation of contracts** The Secretary of the Interior may, in his discretion, revoke any contract if the contractor fails to permit a local committee to perform its duties pursuant to subsection (a) of this section.
 
@@ -2394,8 +2397,8 @@ A prior section 5 of act Apr. 16, 1934, ch. 147, 48 Stat. 596, which excluded Ok
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
-<a id="section-5364"></a>
-## § 5364. Reimbursement to school districts for educating non-resident students
+<a id="section-5363"></a>
+## § 5363. Reimbursement to school districts for educating non-resident students
 
 Any school district educating Indian students who are members of recognized Indian tribes, who do not normally reside in the State in which such school district is located, and who are residing in Federal boarding facilities for the purposes of attending public schools within such district may, in the discretion of the Secretary of the Interior, be reimbursed by him for the full per capita costs of educating such Indian students.
 
@@ -2403,6 +2406,182 @@ Any school district educating Indian students who are members of recognized Indi
 
 #### Codification
 Section was formerly classified to [section 457 of this title](./chapter-014-miscellaneous.md#section-457) prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-5364"></a>
+## § 5364. Computation of student count
+**(a) Definitions** For the purposes of sections 5342 to 5348 of this title, the following definitions apply:
+
+(1) **Contracting party** — The term “contracting party” means an entity that has a contract through a program authorized under sections 5342 to 5348 of this title.
+
+(2) **Eligible entity** — The term “eligible entity” means an entity that is eligible to apply for a contract for a supplemental or operational support program under sections 5342 to 5348 of this title, as outlined in [section 5342 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5342).
+
+(3) **Existing contracting party** — The term “existing contracting party” means a contracting party that has a contract under sections 5342 to 5348 of this title that is in effect on December 31, 2018.
+
+(4) **JOM Modernization Act** — The term “JOM Modernization Act” means the Johnson-O’Malley Supplemental Indian Education Program Modernization Act.
+
+(5) **New contracting party** — The term “new contracting party” means an entity that enters into a contract under sections 5342 to 5348 of this title after December 31, 2018.
+
+(6) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+**(b) Determination of the number of eligible Indian students**
+
+(1) **Initial determinations**
+
+  (A) *In general* — The Secretary shall make an initial determination of the number of eligible Indian students served or potentially served by each eligible entity in accordance with subparagraph (B).
+
+  (B) *Process for making the initial determination*
+
+    (i) *Preliminary report* — Not later than 180 days after December 31, 2018, the Secretary shall publish a preliminary report describing the number of eligible Indian students served or potentially served by each eligible entity, using the most applicable and accurate data (as determined by the Secretary in consultation with eligible entities) from the fiscal year preceding the fiscal year for which the initial determination is to be made from—
+
+      (I) the Bureau of the Census;
+
+      (II) the National Center for Education Statistics; or
+
+      (III) the Office of Indian Education of the Department of Education.
+
+    (ii) *Data reconciliation* — To improve the accuracy of the preliminary report described in clause (i) prior to publishing, the Secretary shall reconcile the data described in the preliminary report with—
+
+      (I) each existing contracting party’s data regarding the number of eligible Indian students served by the existing contracting party for the fiscal year preceding the fiscal year for which the initial determination is made; and
+
+      (II) identifiable tribal enrollment information.
+
+    (iii) *Comment period* — After publishing the preliminary report under clause (i) in accordance with clause (ii), the Secretary shall establish a 60-day comment period to gain feedback about the preliminary report from eligible entities, which the Secretary shall take into consideration in preparing the final report described in clause (iv).
+
+    (iv) *Final report* — Not later than 120 days after concluding the consultation described in clause (iii), the Secretary shall publish a final report on the initial determination of the number of eligible Indian students served or potentially served by each eligible entity, including justification for not including any feedback gained during such consultation, if applicable.
+
+(2) **Subsequent academic years** — For each academic year following the fiscal year for which an initial determination is made under paragraph (1) to determine the number of eligible Indian students served or potentially served by a contracting party, the Secretary shall determine the number of eligible Indian students served by the contracting party based on the reported eligible Indian student count numbers identified through the reporting process described in subsection (c).
+
+**(c) Contracting party student count reporting compliance**
+
+(1) **In general** — For each academic year following the fiscal year for which an initial determination is made under subsection (b) to determine the number of eligible Indian students served or potentially served by a contracting party, the contracting party shall submit to the Secretary a report describing the number of eligible Indian students who were served using amounts allocated to such party under sections 5342 to 5348 of this title during the previous fiscal year. The report shall also include an accounting of the amounts and purposes for which the contract funds were expended.
+
+(2) **Failure to comply** — A contracting party that fails to submit a report under paragraph (1) shall receive no amounts under sections 5342 to 5348 of this title for the fiscal year following the academic year for which the report should have been submitted.
+
+(3) **Notice** — The Secretary shall provide contracting parties with timely information relating to—
+
+  (A) initial and final reporting deadlines; and
+
+  (B) the consequences of failure to comply outlined in paragraph (2).
+
+(4) **Technical assistance** — The Secretary, acting through the Director of the Bureau of Indian Education, shall provide technical assistance and training on compliance with the reporting requirements of this subsection to contracting parties.
+
+**(d) Annual report**
+
+(1) **In general** — The Secretary shall prepare an annual report, including the most recent determination of the number of eligible Indian students served by each contracting party, recommendations on appropriate funding levels for the program based on such determination, and an assessment of the contracts under sections 5342 to 5348 of this title that the Secretary—
+
+  (A) may include in the budget request of the Department of the Interior for each fiscal year;
+
+  (B) shall submit to—
+
+    (i) the Committee on Indian Affairs of the Senate;
+
+    (ii) the Subcommittee on Interior, Environment, and Related Agencies of the Committee on Appropriations of the Senate;
+
+    (iii) the Committee on Education and the Workforce of the House of Representatives; and
+
+    (iv) the Subcommittee on Interior, Environment, and Related Agencies of the Committee on Appropriations of the House of Representatives; and
+
+  (C) shall make publicly available.
+
+(2) **Manner of preparation** — The Secretary shall prepare the report under paragraph (1) in a manner so as to prevent or minimize new administrative burdens on contracting parties receiving funds under sections 5342 to 5348 of this title.
+
+**(e) Hold harmless**
+
+(1) **Initial hold harmless**
+
+  (A) *In general* — Except as provided under subparagraph (B) and subject to subparagraphs (C) and (D), for a fiscal year, an existing contracting party shall not receive an amount under sections 5342 to 5348 of this title that is less than the amount that such existing contracting party received under sections 5342 to 5348 of this title for the fiscal year preceding December 31, 2018.
+
+  (B) *Exceptions*
+
+    (i) *In general* — An existing contracting party shall receive an amount under sections 5342 to 5348 of this title for a fiscal year that is less than the amount that the existing contracting party received under sections 5342 to 5348 of this title for the fiscal year preceding December 31, 2018, if one or more of the following conditions is met:
+
+      (I) *Failure to report* — The existing contracting party failed to submit a complete report described in subsection (c) that was most recently due from the date of the determination.
+
+      (II) *Violations of contract or law* — The Secretary has found that the existing contracting party has violated the terms of a contract entered into under sections 5342 to 5348 of this title or has otherwise violated Federal law.
+
+      (III) *Student count decrease* — The number of eligible Indian students reported by such existing contracting party under subsection (c) has decreased below the number of eligible Indian students served by the existing contracting party in the fiscal year preceding December 31, 2018.
+
+    (ii) *Amount of funding reduction for existing contracting parties reporting decreased student counts* — A reduction in an amount pursuant to clause (i)(III) shall not be done in such a manner that the existing contracting party receives an amount of funding per eligible Indian student that is less than the amount of funding per eligible Indian student such party received for the fiscal year preceding December 31, 2018.
+
+  (C) *Ratable reductions in appropriations* — If the funds available under sections 5342 to 5348 of this title for a fiscal year are insufficient to pay the full amounts that all existing contracting parties are eligible to receive under subparagraph (A) for the fiscal year, the Secretary shall ratably reduce those amounts for the fiscal year.
+
+  (D) *Sunset* — This paragraph shall cease to be effective 4 years after December 31, 2018.
+
+(2) **Maximum decrease after 4 years** — Beginning 4 years after December 31, 2018, no contracting party shall receive for a fiscal year more than a 10 percent decrease in funding per eligible Indian student from the previous fiscal year.
+
+**(f) Funding allocation and reform**
+
+(1) **Funding reform** — The Secretary may make recommendations for legislation to increase the amount of funds available per eligible Indian student through contracts under sections 5342 to 5348 of this title to equal to or greater than the amount of funds that were available per eligible Indian student through contracts under sections 5342 to 5348 of this title for fiscal year 1995, and attempt to identify additional sources of funding that do not reallocate existing funds otherwise utilized by Indian students served—
+
+  (A) by the Bureau of Indian Education; or
+
+  (B) under title VI of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7401&num=0&edition=prelim) et seq.).
+
+(2) **Increases in program funding**
+
+  (A) *In general* — Subject to subsection (e) and subparagraph (B), for any fiscal year for which the amount appropriated to carry out sections 5342 to 5348 of this title exceeds the amount appropriated to carry out sections 5342 to 5348 of this title for the preceding fiscal year, the excess amounts shall—
+
+    (i) be allocated only to those contracting parties that did not receive their full per student funding allocation for the previous fiscal year; and
+
+    (ii) be allocated first to new contracting parties that did not receive their full per student funding allocation for the previous fiscal year.
+
+  (B) *Parity in funding* — Subparagraph (A) shall have no effect after the first fiscal year for which each contracting party receives their full per student funding allocation.
+
+**(g) Increased geographical and tribal participation in the Johnson-O’Malley supplementary education program** To the maximum extent practicable, the Secretary shall consult with Indian tribes and contact State educational agencies, local educational agencies, and Alaska Native organizations that have not previously entered into a contract under sections 5342 to 5348 of this title—
+
+(1) to determine the interest of the Indian tribes, State educational agencies, local educational agencies, and Alaska Native organizations, in entering into such contracts; and
+
+(2) to share information relating to the process for entering into a contract under sections 5342 to 5348 of this title.
+
+**(h) Rulemaking**
+
+(1) **In general** — Not later than 1 year after December 31, 2018, the Secretary, acting through the Director of the Bureau of Indian Education, shall undertake and complete a rulemaking process, following the provisions of subchapter II of chapter 5 of title 5, to—
+
+  (A) determine how the regulatory definition of “eligible Indian student” may be revised to clarify eligibility requirements for contracting parties under sections 5342 to 5348 of this title;
+
+  (B) determine, as necessary, how the funding formula described in section 273.31 of title 25, Code of Federal Regulations (as in effect on the day before December 31, 2018) may be clarified and revised to ensure full participation of contracting parties and provide clarity on the funding process under sections 5342 to 5348 of this title; and
+
+  (C) otherwise reconcile and modernize the rules to comport with the activities of the contracting parties under sections 5342 to 5348 of this title as of December 31, 2018.
+
+(2) **Report** — Not later than 30 days after the date the rulemaking under paragraph (1) is complete, the Secretary shall submit a report to Congress describing the results of such rulemaking and necessary recommendations to ensure the full implementation of such rulemaking.
+
+**(i) Student privacy** The Secretary shall ensure that data is collected and each report is prepared under this section in a manner that protects the rights of eligible Indian students in accordance with [section 1232g of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim) (commonly referred to as the Family Educational Rights and Privacy Act of 1974).
+
+**(j) GAO Report** Not later than 18 months after the final report described in subsection (b)(1)(B)(iv) is published, the Comptroller General shall—
+
+(1) conduct a review of the implementation of this section during the preceding 2-year period, including any factors impacting—
+
+  (A) the accuracy of the determinations of the number of eligible Indian students under this section;
+
+  (B) the communication between the Bureau of Indian Education and contracting parties; and
+
+  (C) the efforts by the Bureau of Indian Education to ensure accurate and sufficient distribution of funding for Indian students;
+
+(2) submit a report describing the results of the review under paragraph (1) to—
+
+  (A) the Committee on Indian Affairs of the Senate;
+
+  (B) the Subcommittee on Interior, Environment, and Related Agencies of the Committee on Appropriations of the Senate;
+
+  (C) the Subcommittee on Indian, Insular and Alaska Native Affairs of the Committee on Natural Resources of the House of Representatives; and
+
+  (D) the Subcommittee on Interior, Environment, and Related Agencies of the Committee on Appropriations of the House of Representatives; and
+
+(3) make such report publicly available.
+
+**(k) Effect** Nothing in this section—
+
+(1) creates a new program or duplicates program activities under sections 5342 to 5348 of this title; or
+
+(2) replaces or diminishes the effect of regulations to carry out sections 5342 to 5348 of this title existing on the day before December 31, 2018, unless expressly provided in this section.
+
+### Statutory Notes
+
+#### References in Text
+The Johnson-O’Malley Supplemental Indian Education Program Modernization Act, referred to subsec. (a)(4), is Pub. L. 115–404, Dec. 31, 2018, 132 Stat. 5349, which enacted this section and provisions set out as a note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301). For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-5365"></a>

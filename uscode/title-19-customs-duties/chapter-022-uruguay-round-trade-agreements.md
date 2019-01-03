@@ -24,6 +24,9 @@ under [section 902 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid
 #### References in Text
 The Federal Crop Insurance Reform Act of 1994, referred to in subsec. (b), is title I of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3179. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 1501 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1501&num=0&edition=prelim), Agriculture, and Tables.
 
+#### Effective Date
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
+
 
 <a id="section-3511"></a>
 ## § 3511. Definitions
@@ -524,6 +527,9 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 116(a) of Pub. L. 103–465, set out as a note under [section 3521 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3521).
+
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
@@ -539,6 +545,11 @@ The President—
 (1) shall proclaim duty-free entry for octadecyl isocyanate and 5-Chloro-2-(2,4-dichloro-phenoxy)phenol, to be effective on the effective date of the proclamation issued by the President under [section 3513(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3513/a&num=0&edition=prelim) to carry out Schedule XX, and
 
 (2) shall take such actions as are necessary to reflect such tariff treatment in Schedule XX.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 116(a) of Pub. L. 103–465, set out as a note under [section 3521 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3521).
 
 
 <a id="section-3531"></a>
@@ -606,7 +617,7 @@ For purposes of this part:
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 121 to 130) of title I of Pub. L. 103–465, which enacted this part, amended sections 1516a, 2155, and 2254 of this title, and enacted provisions set out below. For complete classification of subtitle C to the Code, see Tables.
 
 #### Effective Date
-Pub. L. 103–465, title I, § 130, Dec. 8, 1994, 108 Stat. 4839, provided that: “This subtitle [subtitle C (§§ 121–130) of title I of Pub. L. 103–465, enacting this part and amending sections 1516a, 2155, and 2254 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
+Pub. L. 103–465, title I, § 130, Dec. 8, 1994, 108 Stat. 4839, provided that: “This subtitle [subtitle C (§§ 121–130) of title I of Pub. L. 103–465, enacting this part and amending sections 1516a, 2155, and 2254 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995).”
 
 
 <a id="section-3533"></a>
@@ -649,6 +660,11 @@ if the action described in paragraph (1), (2), (3), (4), (5), or (6) would subst
   (B) *Accession* — In the case of a decision on accession described in subsection (b)(5), the report under paragraph (1) shall state whether the United States intends to invoke Article XIII of the WTO Agreement.
 
 **(d) Consultation on report** Promptly after the submission of a report under subsection (c), the Trade Representative shall consult with the appropriate congressional committees with respect to the report.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
 
 <a id="section-3534"></a>
@@ -709,6 +725,11 @@ if the action described in paragraph (1), (2), (3), (4), (5), or (6) would subst
 
 **(h) Consultations regarding review of WTO rules and procedures** Before the review is conducted of the dispute settlement rules and procedures of the WTO that is provided for in the Decision on the Application of the Understanding on Rules and Procedures Governing the Settlement of Disputes, as such decision is set forth in the Ministerial Declarations and Decisions adopted on April 15, 1994, together with the Uruguay Round Agreements, the Trade Representative shall consult with the congressional committees regarding the policy of the United States concerning the review.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
+
 
 <a id="section-3535"></a>
 ## § 3535. Annual report on WTO
@@ -730,6 +751,11 @@ Not later than March 1 of each year beginning in 1996, the Trade Representative 
 (7) the status of consultations with any State whose law was the subject of a report adverse to the United States that was issued by a panel or the Appellate Body; and
 
 (8) any progress achieved in increasing the transparency of proceedings of the Ministerial Conference and the General Council, and of dispute settlement proceedings conducted pursuant to the Dispute Settlement Understanding.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
 
 <a id="section-3536"></a>
@@ -788,6 +814,9 @@ shall include an analysis of the effects of the WTO Agreement on the interests o
 #### References in Text
 Sections 101(a) and 2(9) of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), are classified to sections 3511(a) and 3501(9), respectively, of this title.
 
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
+
 #### Uruguay Round Agreements: Entry Into Force
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in [section 3511(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d&num=0&edition=prelim), entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).
 
@@ -796,6 +825,11 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 ## § 3537. Increased transparency
 
 The Trade Representative shall seek the adoption by the Ministerial Conference and General Council of procedures that will ensure broader application of the principle of transparency and clarification of the costs and benefits of trade policy actions, through the observance of open and equitable procedures in trade matters by the Ministerial Conference and the General Council, and by the dispute settlement panels and the Appellate Body under the Dispute Settlement Understanding.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
 
 <a id="section-3538"></a>
@@ -832,6 +866,9 @@ The Trade Representative shall seek the adoption by the Ministerial Conference a
 
 #### Codification
 Section is comprised of section 127 of Pub. L. 103–465. Subsec. (f) of section 127 of Pub. L. 103–465 amended [section 2155 of this title](./chapter-012-trade-act-of-1974.md#section-2155).
+
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
 
 <a id="section-3539"></a>
@@ -889,6 +926,9 @@ The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub
 
 #### Codification
 Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465 amended sections 2254 and 1516a, respectively, of this title.
+
+#### Effective Date
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under [section 3531 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3531).
 
 
 <a id="section-3551"></a>
@@ -961,13 +1001,18 @@ For effective date of this section, referred to in text, see Effective Date note
 1996—Pub. L. 104–295 substituted “effective date of this section” for “effective date of this title”.
 
 #### Effective Date
-Section effective on date on which WTO Agreement enters into force with respect to United States [Jan. 1, 1995], see section 138(b) of Pub. L. 103–465, set out as a note under [section 3551 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3551).
+Section effective on date on which WTO Agreement enters into force with respect to United States (Jan. 1, 1995), see section 138(b) of Pub. L. 103–465, set out as a note under [section 3551 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3551).
 
 
 <a id="section-3554"></a>
 ## § 3554. Membership in WTO of boycotting countries
 
 It is the sense of the Congress that the Trade Representative should vigorously oppose the admission into the World Trade Organization of any country which, through its laws, regulations, official policies, or governmental practices, fosters, imposes, complies with, furthers, or supports any boycott described in [section 4607(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4607/a&num=0&edition=prelim) (as in effect on August 20, 1994), including requiring or encouraging entities within that country to refuse to do business with persons who do not comply with requests to take any action prohibited under that section.
+
+### Statutory Notes
+
+#### References in Text
+[Section 4607(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4607/a&num=0&edition=prelim) (as in effect on August 20, 1994), referred to in text, means [section 4607(a) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4607/a&num=0&edition=prelim), War and National Defense, prior to its repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 
 <a id="section-3555"></a>
@@ -1019,7 +1064,7 @@ It is the sense of the Congress that the Trade Representative should vigorously 
 1998—Subsec. (a)(2). Pub. L. 105–206 substituted “normal trade relations” for “most-favored-nation”.
 
 #### Effective Date
-Section effective on date on which WTO Agreement enters into force with respect to United States [Jan. 1, 1995], see section 138(b) of Pub. L. 103–465, set out as a note under [section 3551 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3551).
+Section effective on date on which WTO Agreement enters into force with respect to United States (Jan. 1, 1995), see section 138(b) of Pub. L. 103–465, set out as a note under [section 3551 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3551).
 
 
 <a id="section-3571"></a>
@@ -1155,7 +1200,7 @@ This subchapter, referred to in subsec. (i), was in the original “this part”
 1996—Subsec. (h)(4). Pub. L. 104–295 struck out “(A),” after “1677(9)”.
 
 #### Effective Date
-Subchapter effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§ 1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
+Subchapter effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§ 1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 
 <a id="section-3581"></a>
@@ -1470,6 +1515,9 @@ the President shall, consistent with Article 5 as determined by the President, d
 
 Subsec. (b)(2). Pub. L. 104–295, § 11(2), substituted “1(a)” for “1(b)”.
 
+#### Effective Date
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
+
 #### Uruguay Round Agreements: Entry Into Force
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in [section 3511(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d&num=0&edition=prelim), entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).
 
@@ -1491,6 +1539,11 @@ Section, Pub. L. 103–465, title IV, § 411(e), Dec. 8, 1994, 108 Stat. 4963, r
 
 **(b) Effective date** This section shall take effect on December 8, 1994.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
+
 
 <a id="section-3623"></a>
 ## § 3623. Repealed. Pub. L. 105–362, title XIV, § 1401(c), Nov. 10, 1998, 112 Stat. 3294
@@ -1506,6 +1559,9 @@ Section, Pub. L. 103–465, title IV, § 424, Dec. 8, 1994, 108 Stat. 4965, rela
 The Secretary of Agriculture shall conduct a study to determine the effects of the Uruguay Round Agreements on the Federal milk marketing order system. Not later than 6 months after the date of entry into force of the WTO Agreement with respect to the United States, the Secretary of Agriculture shall report to the Congress on the results of the study.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
 
 #### Uruguay Round Agreements: Entry Into Force
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in [section 3511(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d&num=0&edition=prelim), entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).

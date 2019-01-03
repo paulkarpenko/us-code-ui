@@ -2,7 +2,7 @@
 title: 49
 chapter: '445'
 heading: 'FACILITIES, PERSONNEL, AND RESEARCH'
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -52,7 +52,7 @@ source: >-
 
   (B) The plan shall—
 
-    (i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119, 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
+    (i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119,11 See References in Text note below. 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
 
     (ii) specify the goals and the priorities for allocation of resources among the major categories of research and development activities, including the rationale for the priorities identified;
 
@@ -64,7 +64,7 @@ source: >-
 
     (vi) highlight the research and development technology transfer activities that promote technology sharing among government, industry, and academia through the Stevenson-Wydler Technology Innovation Act of 1980.
 
-(3) Subject to [section 40119(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40119/b&num=0&edition=prelim) and regulations prescribed under section 40119(b), the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of [section 1116 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1116&num=0&edition=prelim).
+(3) Subject to section 40119(b) 1 of this title and regulations prescribed under section 40119(b),1 the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of [section 1116 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1116&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -89,6 +89,8 @@ In subsection (d)(2)(B), before clause (i), the words “an appropriation” are
 In subsection (d)(3), the words “beginning with the date of transmission of the first aviation research plan as required by paragraph (1)” are omitted as obsolete.
 
 #### References in Text
+[Section 40119 of this title](./chapter-401-general-provisions.md#section-40119), as referred to in subsec. (c)(2)(B)(i), (3), was repealed by Pub. L. 115–254, div. K, title I, § 1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
+
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 #### Amendments
@@ -116,7 +118,9 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
 #### Consolidation and Realignment of FAA Services and Facilities
-Pub. L. 112–95, title VIII, § 804, Feb. 14, 2012, 126 Stat. 119, provided that: “(a) National Facilities Realignment and Consolidation Report.—“(1) In general.—The Administrator of the Federal Aviation Administration shall develop a report, to be known as the National Facilities Realignment and Consolidation Report, in accordance with the requirements of this subsection. “(2) Purpose.—The purpose of the report shall be—“(A) to support the transition to the Next Generation Air Transportation System; and “(B) to reduce capital, operating, maintenance, and administrative costs of the FAA where such cost reductions can be implemented without adversely affecting safety. “(3) Contents.—The report shall include—“(A) recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and “(B) for each of the recommendations, a description of—“(i) the Administrator’s justification; “(ii) the projected costs and savings; and “(iii) the proposed timing for implementation. “(4) Input.—The report shall be developed by the Administrator (or the Administrator’s designee)—“(A) in coordination with the Chief NextGen Officer and the Chief Operating Officer of the Air Traffic Organization of the FAA; and “(B) with the participation of—“(i) representatives of labor organizations representing operations and maintenance employees of the air traffic control system; and “(ii) industry stakeholders. “(5) Submission to congress.—Not later than 120 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator shall submit the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. “(6) Public notice and comment.—The Administrator shall publish the report in the Federal Register and allow 45 days for the submission of public comments. “(b) Report to Congress Containing Recommendations of Administrator.—Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—“(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and “(2) copies of any public comments received by the Administrator under subsection (a)(6). “(c) Realignment and Consolidation of FAA Services and Facilities.—Except as provided in subsection (d), the Administrator shall realign and consolidate the services and facilities of the FAA in accordance with the recommendations included in the report submitted under subsection (b). “(d) Congressional Disapproval.—“(1) In general.—The Administrator may not carry out a recommendation for realignment or consolidation of services or facilities of the FAA that is included in the report submitted under subsection (b) if a joint resolution of disapproval is enacted disapproving such recommendation before the earlier of—“(A) the last day of the 30-day period beginning on the date of submission of the report; or “(B) the adjournment of Congress sine die for the session during which the report is transmitted. “(2) Computation of 30-day period.—For purposes of paragraph (1)(A), the days on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in computation of the 30-day period. “(e) Definitions.—In this section, the following definitions apply:“(1) FAA.—The term ‘FAA’ means the Federal Aviation Administration. “(2) Realignment; consolidation.—“(A) In general.—The terms ‘realignment’ and ‘consolidation’ include any action that—“(i) relocates functions, services, or personnel positions; “(ii) discontinues or severs existing facility functions or services; or “(iii) combines the results described in clauses (i) and (ii). “(B) Exclusion.—The terms do not include a reduction in personnel resulting from workload adjustments.”
+Pub. L. 112–95, title VIII, § 804, Feb. 14, 2012, 126 Stat. 119, as amended by Pub. L. 115–254, div. B, title V, §§ 510, 545(b)(2), Oct. 5, 2018, 132 Stat. 3355, 3376, provided that: “(a) National Facilities Realignment and Consolidation Report.—“(1) In general.—The Administrator of the Federal Aviation Administration shall develop a report, to be known as the National Facilities Realignment and Consolidation Report, in accordance with the requirements of this subsection. “(2) Purpose.—The purpose of the report shall be to reduce capital, operating, maintenance, and administrative costs of the FAA where such cost reductions can be implemented without adversely affecting safety. “(3) Contents.—The report shall include—“(A) recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and “(B) for each of the recommendations, a description of—“(i) the Administrator’s justification; “(ii) the projected costs and savings; and “(iii) the proposed timing for implementation. “(4) Input.—The report shall be prepared by the Administrator (or the Administrator’s designee) with the participation of—“(A) representatives of labor organizations representing air traffic control system employees of the FAA; and “(B) industry stakeholders. “(5) Submission to congress.—Not later than 120 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator shall submit the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. “(6) Public notice and comment.—The Administrator shall publish the report in the Federal Register and allow 45 days for the submission of public comments. “(b) Report to Congress Containing Recommendations of Administrator.—Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—“(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and “(2) copies of any public comments received by the Administrator under subsection (a)(6). “(c) Realignment and Consolidation of FAA Services and Facilities.—Except as provided in subsection (d), the Administrator shall realign and consolidate the services and facilities of the FAA in accordance with the recommendations included in the report submitted under subsection (b). “(d) Congressional Disapproval.—“(1) In general.—The Administrator may not carry out a recommendation for realignment or consolidation of services or facilities of the FAA that is included in the report submitted under subsection (b) if a joint resolution of disapproval is enacted disapproving such recommendation before the earlier of—“(A) the last day of the 30-day period beginning on the date of submission of the report; or “(B) the adjournment of Congress sine die for the session during which the report is transmitted. “(2) Computation of 30-day period.—For purposes of paragraph (1)(A), the days on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in computation of the 30-day period. “(e) Military Operations Exclusion.—“(1) In general.—The Administrator may not realign or consolidate a combined TRACON and tower with radar facility of the FAA under this section if, in 2015, the total annual military operations at the facility comprised at least 40 percent of the total annual TRACON operations at the facility. “(2) TRACON defined.—In this subsection, the term ‘TRACON’ means terminal radar approach control. “(f) Definitions.—In this section, the following definitions apply:“(1) FAA.—The term ‘FAA’ means the Federal Aviation Administration. “(2) Realignment; consolidation.—“(A) In general.—The terms ‘realignment’ and ‘consolidation’ include any action that—“(i) relocates functions, services, or personnel positions; “(ii) discontinues or severs existing facility functions or services; or “(iii) combines the results described in clauses (i) and (ii). “(B) Exclusion.—The terms do not include a reduction in personnel resulting from workload adjustments.”
+
+[Section 545(b)(2) of Pub. L. 115–254, which directed amendment of section 804 of Pub. L. 112–95, set out above, by substituting “Chief Technology Officer” for “Chief NextGen Officer” in subsec. (a)(4)(A), could not be executed because the words “Chief NextGen Officer” did not appear after the intervening amendment of subsec. (a)(4) by section 510(a)(2) of Pub. L. 115–254.]
 
 #### Program Authorizations
 Pub. L. 112–95, title IX, § 901(c), Feb. 14, 2012, 126 Stat. 137, provided that: “From the other accounts described in the national aviation research plan required under [section 44501(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44501/c&num=0&edition=prelim), United States Code, the following research and development activities are authorized: “(1) Runway Incursion Reduction. “(2) System Capacity, Planning, and Improvement. “(3) Operations Concept Validation. “(4) NAS Weather Requirements. “(5) Airspace Management Program. “(6) NextGen—Air Traffic Control/Technical Operations Human Factors. “(7) NextGen—Environment and Energy—Environmental Management System and Advanced Noise and Emissions Reduction. “(8) NextGen—New Air Traffic Management Requirements. “(9) NextGen—Operations Concept Validation—Validation Modeling. “(10) NextGen—System Safety Management Transformation. “(11) NextGen—Wake Turbulence—Recategorization. “(12) NextGen—Operational Assessments. “(13) NextGen—Staffed NextGen Towers. “(14) Center for Advanced Aviation System Development. “(15) Airports Technology Research Program—Capacity. “(16) Airports Technology Research Program—Safety. “(17) Airports Technology Research Program—Environment. “(18) Airport Cooperative Research—Capacity. “(19) Airport Cooperative Research—Environment. “(20) Airport Cooperative Research—Safety.”
@@ -164,7 +168,33 @@ Pub. L. 112–95, title IX, § 901(c), Feb. 14, 2012, 126 Stat. 137, provided th
 
 (2) The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, to allow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decides is equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
 
-**(e) Transfers of Instrument Landing Systems.—** An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator.
+**(e) Transfers of Air Traffic Systems.—**
+
+(1) **In general.—** — An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration, an eligible air traffic system or equipment that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system or equipment.
+
+(2) **Acceptance.—** — The Administrator shall accept the eligible air traffic system or equipment and operate and maintain it under criteria of the Administrator.
+
+(3) **Definition.—** — In this subsection, the term “eligible air traffic system or equipment” means—
+
+  (A) an instrument landing system consisting of a glide slope and localizer (if the Administrator has determined that a satellite navigation system cannot provide a suitable approach to an airport);
+
+  (B) an Automated Weather Observing System weather observation system; or
+
+  (C) a Remote Communication Air/Ground and Remote Communication Outlet communications facility.
+
+**(f) Airport Space.—**
+
+(1) **Restriction.—** — The Administrator may not require an airport owner or sponsor (as defined in section 47102) to provide to the Federal Aviation Administration without cost any of the following:
+
+  (A) Building construction, maintenance, utilities, or expenses for services relating to air traffic control, air navigation, or weather reporting.
+
+  (B) Space in a facility owned by the airport owner or sponsor for services relating to air traffic control, air navigation, or weather reporting.
+
+(2) **Rule of construction.—** — Nothing in this subsection may be construed to affect—
+
+  (A) any agreement the Secretary may have or make with an airport owner or sponsor for the airport owner or sponsor to provide any of the items described in paragraph (1)(A) or (1)(B) at below-market rates; or
+
+  (B) any grant assurance that requires an airport owner or sponsor to provide land to the Administration without cost for an air traffic control facility.
 
 ### Statutory Notes
 
@@ -223,6 +253,10 @@ This amends 49:44502(c)(1) to correct an error in the codification enacted by se
 This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of the restatement of former 49:44502(e) as 49:40121.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–254, § 147(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator.”
+
+Subsec. (f). Pub. L. 115–254, § 147(2), added subsec. (f).
+
 2000—Subsec. (a)(4)(B). Pub. L. 106–181, § 153, substituted “each of fiscal years 2000 through 2002” for “each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
 
 Subsec. (a)(5). Pub. L. 106–181, § 712, added par. (5).
@@ -247,9 +281,11 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 Pub. L. 112–95, title V, § 508, Feb. 14, 2012, 126 Stat. 106, provided that: “The Administrator of the Federal Aviation Administration may implement, to the extent practicable, sustainable practices for the incorporation of energy-efficient design, equipment, systems, and other measures in the construction and major renovation of air traffic control facilities of the Administration in order to reduce energy consumption at, improve the environmental performance of, and reduce the cost of maintenance for such facilities.”
 
 #### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
-Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator [of the Federal Aviation Administration] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 977, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator [of the Federal Aviation Administration] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730.
 
 Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839.
 
@@ -476,8 +512,11 @@ Subsecs. (d), (e). Pub. L. 112–95, § 905, added subsec. (d) and redesignated 
 
 1994—Subsec. (d). Pub. L. 103–305 added subsec. (d).
 
+#### Research and Deployment of Certain Airfield Pavement Technologies
+Pub. L. 115–254, div. B, title VII, § 744, Oct. 5, 2018, 132 Stat. 3413, provided that: “Using amounts made available under [section 48102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section48102/a&num=0&edition=prelim), United States Code, the Administrator of the Federal Aviation Administration may carry out a program for the research and development of aircraft pavement technologies under which the Administrator makes grants to, and enters into cooperative agreements with, institutions of higher education and nonprofit organizations that— “(1) research concrete and asphalt airfield pavement technologies that extend the life of airfield pavements; “(2) develop and conduct training; “(3) provide for demonstration projects; and “(4) promote the latest airfield pavement technologies to aid in the development of safer, more cost effective, and more durable airfield pavements.”
+
 #### Aircraft Departure Queue Management Pilot Program
-Pub. L. 112–95, title V, § 507, Feb. 14, 2012, 126 Stat. 106, provided that: “(a) In General.—The Secretary of Transportation shall carry out a pilot program at not more than 5 public-use airports under which the Federal Aviation Administration shall use funds made available under section 48101(a) [probably means [section 48101(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section48101/a&num=0&edition=prelim), United States Code] to test air traffic flow management tools, methodologies, and procedures that will allow air traffic controllers of the Administration to better manage the flow of aircraft on the ground and reduce the length of ground holds and idling time for aircraft. “(b) Selection Criteria.—In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program. “(c) Maximum Amount.—Not more than a total of $2,500,000 may be expended under the pilot program at any single public-use airport.”
+Pub. L. 112–95, title V, § 507, Feb. 14, 2012, 126 Stat. 106, as amended by Pub. L. 115–254, div. B, title V, § 539(t), Oct. 5, 2018, 132 Stat. 3372, provided that: “(a) In General.—The Secretary of Transportation shall carry out a pilot program at not more than 5 public-use airports under which the Federal Aviation Administration shall use funds made available under [section 48101(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section48101/a&num=0&edition=prelim), United States Code, to test air traffic flow management tools, methodologies, and procedures that will allow air traffic controllers of the Administration to better manage the flow of aircraft on the ground and reduce the length of ground holds and idling time for aircraft. “(b) Selection Criteria.—In selecting from among airports at which to conduct the pilot program, the Secretary shall give priority consideration to airports at which improvements in ground control efficiencies are likely to achieve the greatest fuel savings or air quality or other environmental benefits, as measured by the amount of reduced fuel, reduced emissions, or other environmental benefits per dollar of funds expended under the pilot program. “(c) Maximum Amount.—Not more than a total of $2,500,000 may be expended under the pilot program at any single public-use airport.”
 
 #### Research Program on Runways
 Pub. L. 112–95, title IX, § 904, Feb. 14, 2012, 126 Stat. 139, provided that: “Using amounts made available under [section 48102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section48102/a&num=0&edition=prelim), United States Code, the Administrator [of the Federal Aviation Administration] shall continue to carry out a research program under which the Administrator may make grants to and enter into cooperative agreements with institutions of higher education and pavement research organizations for research and technology demonstrations related to— “(1) the design, construction, rehabilitation, and repair of airfield pavements to aid in the development of safer, more cost effective, and more durable airfield pavements; and “(2) engineered material restraining systems for runways at both general aviation airports and airports with commercial air carrier operations.”
@@ -613,6 +652,14 @@ Pub. L. 106–181, title IX, § 905, Apr. 5, 2000, 114 Stat. 196, provided that:
 
     (iii) *Pool 2.—* — Pool 2 applicants are individuals who apply under a vacancy announcement recruiting from all United States citizens.
 
+  (C) *Special rule.—*
+
+    (i) *In general.—* — Notwithstanding subparagraph (B), after giving preferential consideration to applicants under subparagraph (A) and if, after consulting with the labor organization recognized as the exclusive representative of air traffic controllers under [section 7111 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7111&num=0&edition=prelim), the Administrator determines there are unique circumstances affecting a covered facility that warrant a vacancy announcement with a limited area of consideration, the Administrator may consider applicants for the position of air traffic controller who apply under a vacancy announcement recruiting from the local commuting area for that covered facility.
+
+    (ii) *Biographical assessments.—* — The Administrator shall not use any biographical assessment with respect to an applicant under this subparagraph who would otherwise qualify as a Pool 1 applicant under subparagraph (B)(ii).
+
+    (iii) *Covered facility defined.—* — In this subparagraph the term “covered facility” means a radar facility with at least 1,000,000 operations annually that is located in a metropolitan statistical area (as defined by the Office of Management and Budget) with a population estimate by the Bureau of the Census of more than 15,000,000 (as of July 1, 2016).
+
 (2) **Use of biographical assessments.—**
 
   (A) *Biographical assessments.—* — The Administrator shall not use any biographical assessment when hiring under paragraph (1)(A) or paragraph (1)(B)(ii).
@@ -627,7 +674,13 @@ Pub. L. 106–181, title IX, § 905, Apr. 5, 2000, 114 Stat. 196, provided that:
 
       (II) met the maximum age requirement on the date of the individual’s previous application for the position during the interim hiring process.
 
-(3) **Maximum entry age for experienced controllers.—** — Notwithstanding [section 3307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3307&num=0&edition=prelim), the maximum limit of age for an original appointment to a position as an air traffic controller shall be 35 years of age for those maintaining 52 weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating in a civilian or military air traffic control facility.
+(3) **Maximum entry age for experienced controllers.—** — Notwithstanding [section 3307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3307&num=0&edition=prelim), except for individuals covered by the program described in paragraph (4), the maximum limit of age for an original appointment to a position as an air traffic controller shall be 35 years of age for those maintaining 52 weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating in a civilian or military air traffic control facility.
+
+(4) **Retired military controllers.—** — The Administrator may establish a program to provide an original appointment to a position as an air traffic controller for individuals who—
+
+  (A) are on terminal leave pending retirement from active duty military service or have retired from active duty military service within 5 years of applying for the appointment; and
+
+  (B) have held either an air traffic certification or air traffic control facility rating according to Administration standards within 5 years of applying for the appointment.
 
 ### Statutory Notes
 
@@ -646,6 +699,12 @@ In subsection (c), the words “institutions of higher education” are substitu
 The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
+2018—Subsec. (f)(1)(C). Pub. L. 115–141, § 108(1), added subpar. (C).
+
+Subsec. (f)(3). Pub. L. 115–141, § 108(2)(A), inserted “except for individuals covered by the program described in paragraph (4),” after “[section 3307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3307&num=0&edition=prelim),”.
+
+Subsec. (f)(4). Pub. L. 115–141, § 108(2)(B), added par. (4).
+
 2016—Subsec. (f). Pub. L. 114–190 added subsec. (f).
 
 2012—Subsecs. (d), (e). Pub. L. 112–95 added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -662,9 +721,11 @@ Pub. L. 112–95, title II, § 224, Feb. 14, 2012, 126 Stat. 55, provided that: 
 Pub. L. 112–95, title VI, § 609(b), Feb. 14, 2012, 126 Stat. 116, provided that: “Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator [of the Federal Aviation Administration] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall— “(1) clarify responsibility for oversight and direction of the Academy’s facility training program at the national level; “(2) communicate information concerning that responsibility to facility managers; and “(3) establish standards to identify the number of developmental air traffic controllers that can be accommodated at each facility, based on—“(A) the number of available on-the-job training instructors; “(B) available classroom space; “(C) the number of available simulators; “(D) training requirements; and “(E) the number of recently placed new personnel already in training.”
 
 #### Controller Staffing
-Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 [set out below]”.
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 977, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 [set out below]”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730.
 
 Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839.
 
@@ -684,9 +745,8 @@ Pub. L. 108–176, title II, § 221, Dec. 12, 2003, 117 Stat. 2526, provided tha
 
 
 <a id="section-44507"></a>
-## § 44507. Civil aeromedical research
-
-The Civil Aeromedical Institute established by [section 106(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section106/j&num=0&edition=prelim) may—
+## § 44507. Regions and centers
+**(a) Civil Aeromedical Institute.—** The Civil Aeromedical Institute established by [section 106(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section106/j&num=0&edition=prelim) may—
 
 (1) conduct civil aeromedical research, including research related to—
 
@@ -712,6 +772,8 @@ The Civil Aeromedical Institute established by [section 106(j) of this title](ht
 
 (5) provide medical consultation services to the Administrator about medical certification of airmen.
 
+**(b) William J. Hughes Technical Center.—** The Secretary of Transportation shall define the roles and responsibilities of the William J. Hughes Technical Center in a manner that is consistent with the defined roles and responsibilities of the Civil Aeromedical Institute under subsection (a).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -721,6 +783,9 @@ The Civil Aeromedical Institute established by [section 106(j) of this title](ht
 
 In clause (4), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Government agencies” for consistency in the revised title and with other titles of the United States Code.
 
+#### Amendments
+2018—Pub. L. 115–254 substituted “Regions and centers” for “Civil aeromedical research” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+
 
 <a id="section-44508"></a>
 ## § 44508. Research advisory committee
@@ -728,7 +793,7 @@ In clause (4), the words “departments, agencies, and instrumentalities of the 
 
 (1) There is a research advisory committee in the Federal Aviation Administration. The committee shall—
 
-  (A) provide advice and recommendations to the Administrator of the Federal Aviation Administration about needs, objectives, plans, approaches, content, and accomplishments of the aviation research program carried out under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title;
+  (A) provide advice and recommendations to the Administrator of the Federal Aviation Administration and Congress about needs, objectives, plans, approaches, content, and accomplishments of all aviation research and development activities and programs carried out, including those under sections 40119,11 See References in Text note below. 44504, 44505, 44507, 44511–44513, and 44912 of this title;
 
   (B) assist in ensuring that the research is coordinated with similar research being conducted outside the Administration;
 
@@ -736,7 +801,7 @@ In clause (4), the words “departments, agencies, and instrumentalities of the 
 
   (D) annually review the allocation made by the Administrator of the amounts authorized by [section 48102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section48102/a&num=0&edition=prelim) among the major categories of research and development activities carried out by the Administration and provide advice and recommendations to the Administrator on whether such allocation is appropriate to meet the needs and objectives identified under subparagraph (A).
 
-(2) The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title.
+(2) The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 40119,1 44504, 44505, 44507, 44511–44513, and 44912 of this title.
 
 **(b) Members, Chairman, Pay, and Expenses.—**
 
@@ -752,9 +817,29 @@ In clause (4), the words “departments, agencies, and instrumentalities of the 
 
 **(e) Use and Limitation of Amounts.—**
 
-(1) Not more than .1 percent of the amounts made available to conduct research under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
+(1) Not more than .1 percent of the amounts made available to conduct research under sections 40119,1 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
 
 (2) A limitation on amounts available for obligation by or for the committee does not apply to amounts made available to carry out this section.
+
+**(f) Written Reply.—**
+
+(1) **In general.—** — Not later than 60 days after receiving any recommendation from the research advisory committee, the Administrator shall provide a written reply to the research advisory committee that, at a minimum—
+
+  (A) clearly states whether the Administrator accepts or rejects the recommendation;
+
+  (B) explains the rationale for the Administrator’s decision;
+
+  (C) sets forth the timeframe in which the Administrator will implement the recommendation; and
+
+  (D) describes the steps the Administrator will take to implement the recommendation.
+
+(2) **Transparency.—** — The written reply to the research advisory committee, when transmitted to the research advisory committee, shall be—
+
+  (A) made publicly available on the research advisory committee website; and
+
+  (B) transmitted to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(3) **National aviation research plan.—** — The national aviation research plan required under section 44501(c) shall include a summary of all research advisory committee recommendations and a description of the status of their implementation.
 
 ### Statutory Notes
 
@@ -779,9 +864,15 @@ In subsection (b)(3), the words “travel or transportation” are omitted as su
 In subsection (e), the words “for fiscal years beginning after September 30, 1988” are omitted as obsolete.
 
 #### References in Text
+[Section 40119 of this title](./chapter-401-general-provisions.md#section-40119), as referred to in subsecs. (a)(1)(A), (2) and (e)(1), was repealed by Pub. L. 115–254, div. K, title I, § 1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
+
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–254, § 712(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “provide advice and recommendations to the Administrator of the Federal Aviation Administration about needs, objectives, plans, approaches, content, and accomplishments of the aviation research program carried out under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title;”.
+
+Subsec. (f). Pub. L. 115–254, § 712(b), added subsec. (f).
+
 1996—Subsec. (a)(1)(D). Pub. L. 104–264 added subpar. (D).
 
 #### Effective Date of 1996 Amendment
@@ -1033,6 +1124,9 @@ In subsection (b), the text of section 9115(b) of the Omnibus Budget Reconciliat
 
 The words “vocational technical educational institution” are used throughout this section for consistency in this section.
 
+#### Aviation Maintenance Industry Technical Workforce
+Pub. L. 115–254, div. B, title VI, § 624, Oct. 5, 2018, 132 Stat. 3404, provided that: “(a) Regulations.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator of the Federal Aviation Administration shall issue a final rule to modernize training programs at aviation maintenance technician schools governed by part 147 of title 14, Code of Federal Regulations. “(b) Guidance.—Not later than 180 days after the date of enactment of this Act, the Administrator shall coordinate with government, educational institutions, labor organizations representing aviation maintenance workers, and businesses to develop and publish guidance or model curricula for aviation maintenance technician schools referred to in subsection (a) to ensure workforce readiness for industry needs, including curricula related to training in avionics, troubleshooting, and other areas of industry needs. “(c) Review and Periodic Updates.—The Administrator shall—“(1) ensure training programs referred to in subsection (a) are revised and updated in correlation with aviation maintenance technician airman certification standards as necessary to reflect current technology and maintenance practices; and “(2) publish updates to the guidance or model curricula required under subsection (b) at least once every 2 years, as necessary, from the date of initial publication. “(d) Report to Congress.—If the Administrator does not issue such final rule by the deadline specified in subsection (a), the Administrator shall, not later than 30 days after such deadline, submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] a report containing—“(1) an explanation as to why such final rule was not issued by such deadline; and “(2) a schedule for issuing such final rule. “(e) Study.—The Comptroller General of the United States shall conduct a study on technical workers in the aviation maintenance industry. “(f) Contents.—In conducting the study under subsection (e), the Comptroller General shall—“(1) analyze the current Standard Occupational Classification system with regard to the aviation profession, particularly technical workers in the aviation maintenance industry; “(2) analyze how changes to the Federal employment classification of aviation maintenance industry workers might affect government data on unemployment rates and wages; “(3) analyze how changes to the Federal employment classification of aviation maintenance industry workers might affect projections for future aviation maintenance industry workforce needs and project technical worker shortfalls; “(4) analyze the impact of Federal regulation, including Federal Aviation Administration oversight of certification, testing, and education programs, on employment of technical workers in the aviation maintenance industry; “(5) develop recommendations on how Federal Aviation Administration regulations and policies could be improved to modernize training programs at aviation maintenance technical schools and address aviation maintenance industry needs for technical workers; “(6) develop recommendations for better coordinating actions by government, educational institutions, and businesses to support workforce growth in the aviation maintenance industry; and “(7) develop recommendations for addressing the needs for government funding, private investment, equipment for training purposes, and other resources necessary to strengthen existing training programs or develop new training programs to support workforce growth in the aviation industry. “(g) Report.—Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the appropriate committees of Congress a report on the results of the study. “(h) Definitions.—In this section, the following definitions apply:“(1) Aviation maintenance industry.—The term ‘aviation maintenance industry’ means repair stations certificated under part 145 of title 14, Code of Federal Regulations. “(2) Technical worker.—The term ‘technical worker’ means an individual authorized under part 43 of title 14, Code of Federal Regulations, to maintain, rebuild, alter, or perform preventive maintenance on an aircraft, airframe, aircraft engine, propeller, appliance, or component part or employed by an entity so authorized to perform such a function.”
+
 #### Improvement of Curriculum Standards for Aviation Maintenance Technicians
 Pub. L. 108–176, title V, § 504, Dec. 12, 2003, 117 Stat. 2559, provided that: “(a) In General.—The Administrator of the Federal Aviation Administration shall ensure that the training standards for airframe and powerplant mechanics under part 65 of title 14, Code of Federal Regulations, are updated and revised in accordance with this section. The Administrator may update and revise the training standards through the initiation of a formal rulemaking or by issuing an advisory circular or other agency guidance. “(b) Elements for Consideration.—The updated and revised standards required under subsection (a) shall include those curriculum adjustments that are necessary to more accurately reflect current technology and maintenance practices. “(c) Certification.—Any adjustment or modification of current curriculum standards made pursuant to this section shall be reflected in the certification examinations of airframe and powerplant mechanics. “(d) Completion.—The revised and updated training standards required by subsection (a) shall be completed not later than 12 months after the date of enactment of this Act [Dec. 12, 2003]. “(e) Periodic Reviews and Updates.—The Administrator shall review the content of the curriculum standards for training airframe and powerplant mechanics referred to in subsection (a) every 3 years after completion of the revised and updated training standards required under subsection (a) as necessary to reflect current technology and maintenance practices.”
 
@@ -1105,3 +1199,14 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 #### Effective Date
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under [section 106 of this title](./chapter-001-organization.md#section-106).
+
+
+<a id="section-44518"></a>
+## § 44518. Advanced Materials Center of Excellence
+**(a) In General.—** The Administrator of the Federal Aviation Administration shall continue operation of the Advanced Materials Center of Excellence (referred to in this section as the “Center”) under its structure as in effect on March 1, 2016, which shall focus on applied research and training on the durability and maintainability of advanced materials in transport airframe structures.
+
+**(b) Responsibilities.—** The Center shall—
+
+(1) promote and facilitate collaboration among academia, the Transportation Division of the Federal Aviation Administration, and the commercial aircraft industry, including manufacturers, commercial air carriers, and suppliers; and
+
+(2) establish goals set to advance technology, improve engineering practices, and facilitate continuing education in relevant areas of study.

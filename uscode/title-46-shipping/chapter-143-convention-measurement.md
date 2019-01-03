@@ -178,7 +178,7 @@ Section 14304(b) provides that except as provided in section 14504, a vessel tha
 
 (3) section 4 of the Bridge to Bridge Radiotelephone Act ([33 U.S.C. 1203(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1203/a&num=0&edition=prelim));
 
-(4) section 4(a)(3) of the Ports and Waterways Safety Act ([33 U.S.C. 1223(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/3&num=0&edition=prelim));
+(4) section 4(a)(3) 11 See References in Text note below. of the Ports and Waterways Safety Act ([33 U.S.C. 1223(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/3&num=0&edition=prelim));
 
 (5) [section 30506 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30506);
 
@@ -255,6 +255,8 @@ Section 14305(b) provides that if a vessel is measured under the regulatory tonn
 
 #### References in Text
 Section 4 of the Bridge to Bridge Radiotelephone Act ([33 U.S.C. 1203(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1203/a&num=0&edition=prelim)), referred to in subsec. (a)(3), probably means section 4(a) of the Vessel Bridge-to-Bridge Radiotelephone Act, which is classified to [section 1203(a) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1203/a&num=0&edition=prelim), Navigation and Navigable Waters.
+
+Section 4(a)(3) of the Ports and Waterways Safety Act ([33 U.S.C. 1223(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/3&num=0&edition=prelim)), referred to in subsec. (a)(4), is section 4(a)(3) of Pub. L. 92–340, which was classified to [section 1223(a)(3) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/3&num=0&edition=prelim), Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding [section 101 of this title](./chapter-001-definitions.md#section-101) and [section 70001 of this title](./chapter-700-ports-and-waterways-safety.md#section-70001).
 
 Sections 351, 352, 355, and 356 of the Ship Radio Act ([47 U.S.C. 351](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section351&num=0&edition=prelim), 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telecommunications.
 

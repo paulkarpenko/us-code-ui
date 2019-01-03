@@ -54,7 +54,25 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 #### Effective Date of 1966 Amendment
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2019 Amendment
+Pub. L. 115–435, § 1(a), Jan. 14, 2019, 132 Stat. 5529, provided that: “This Act [enacting subchapter II of chapter 3 of this title, subchapter III of chapter 35 of Title 44, Public Printing and Documents, and [section 3520A of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3520A&num=0&edition=prelim), amending [section 306 of this title](./chapter-003-powers.md#section-306), [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, sections 3502, 3504, 3506, 3511, and 3520 of Title 44, and sections 6302 and 6314 of Title 49, Transportation, enacting provisions set out as notes under sections 306 and 311 of this title and sections 101, 3506, and 3561 of Title 44, amending provisions set out as a note under setion 20155 of Title 49, and repealing provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim)] may be cited as the ‘Foundations for Evidence-Based Policymaking Act of 2018’.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–383, § 1, Dec. 21, 2018, 132 Stat. 5121, provided that: “This Act [amending provisions set out as a note under [section 5547 of this title](./chapter-055-pay-administration.md#section-5547)] may be cited as the ‘Secret Service Overtime Pay Extension Act’.”
+
+Pub. L. 115–352, § 1, Dec. 21, 2018, 132 Stat. 5067, provided that: “This Act [amending sections 8334 and 8422 of this title and enacting provisions set out as a note under [section 8334 of this title](./chapter-083-retirement.md#section-8334)], may be cited as the ‘Correcting Miscalculations in Veterans’ Pensions Act’.”
+
+Pub. L. 115–238, § 1, Sept. 7, 2018, 132 Stat. 2450, provided that: “This Act [amending [section 6329 of this title](./chapter-063-leave.md#section-6329) and enacting provisions set out as a note under [section 6329 of this title](./chapter-063-leave.md#section-6329)] may be cited as the ‘Veterans Providing Healthcare Transition Improvement Act’.”
+
+Pub. L. 115–195, § 1, July 7, 2018, 132 Stat. 1510, provided that: “This Act [amending [section 7703 of this title](./chapter-077-appeals.md#section-7703) and enacting provisions set out as a note under [section 7703 of this title](./chapter-077-appeals.md#section-7703)] may be cited as the ‘All Circuit Review Act’.”
+
+Pub. L. 115–160, § 1, Apr. 3, 2018, 132 Stat. 1246, provided that: “This Act [enacting and amending provisions set out as notes under [section 5547 of this title](./chapter-055-pay-administration.md#section-5547)] may be cited as the ‘Secret Service Recruitment and Retention Act of 2018’.”
+
 #### Short Title of 2017 Amendment
+Pub. L. 115–84, § 1, Nov. 17, 2017, 131 Stat. 1272, provided that: “This Act [amending sections 8432b and 8433 of this title and enacting provisions set out as notes under sections 8432b and 8433 of this title] may be cited as the ‘TSP Modernization Act of 2017’.”
+
+Pub. L. 115–73, § 1(a), Oct. 26, 2017, 131 Stat. 1235, provided that: “This Act [enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under sections 1212 and 2301 of this title and [section 703 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section703&num=0&edition=prelim), Veterans’ Benefits, and amending provisions set out as a note under [section 2302 of this title](./chapter-023-merit-system-principles.md#section-2302)] may be cited as the ‘Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017’.”
+
 Pub. L. 115–40, § 1, June 14, 2017, 131 Stat. 861, provided that: “This Act [amending [section 2302 of this title](./chapter-023-merit-system-principles.md#section-2302)] may be cited as the ‘Follow the Rules Act’.”
 
 Pub. L. 115–34, § 1, May 16, 2017, 131 Stat. 846, provided that: “This Act [amending [section 5707 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5707) and enacting provisions set out as a note under [section 5707 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5707)] may be cited as the ‘Modernizing Government Travel Act’.”

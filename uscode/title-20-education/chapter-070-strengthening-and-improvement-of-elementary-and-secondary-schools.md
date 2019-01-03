@@ -2,7 +2,7 @@
 title: 20
 chapter: '70'
 heading: STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
-section_count: 364
+section_count: 365
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
@@ -171,6 +171,9 @@ Pub. L. 114–95, § 5, Dec. 10, 2015, 129 Stat. 1806, provided that: “(a) In 
 
 #### Effective Date
 Pub. L. 107–110, § 5, Jan. 8, 2002, 115 Stat. 1427, provided that: “(a) In General.—Except as otherwise provided in this Act [see Tables for classification], this Act, and the amendments made by this Act, shall be effective upon the date of enactment of this Act [Jan. 8, 2002]. “(b) Noncompetitive Programs.—With respect to noncompetitive programs under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, this Act, and the amendments made by this Act, shall take effect on July 1, 2002. “(c) Competitive Programs.—With respect to programs that are conducted by the Secretary on a competitive basis, this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under those programs for fiscal year 2002. “(d) Impact Aid.—With respect to title VIII (Impact Aid) [probably meant title VIII (now VII) of Pub. L. 89–10, [20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–64, § 1, Sept. 29, 2017, 131 Stat. 1187, provided that: “This Act [amending [section 7881 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7881)] may be cited as the ‘Hurricanes Harvey, Irma, and Maria Education Relief Act of 2017’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–95, § 1, Dec. 10, 2015, 129 Stat. 1802, provided that: “This Act [see Tables for classification] may be cited as the ‘Every Student Succeeds Act’.”
@@ -1559,6 +1562,9 @@ The Secretary shall transmit annually to the Committee on Education and the Work
 
 ### Statutory Notes
 
+#### Amendment of Subsection (h)(1)(C)(xiv)
+Pub. L. 115–224, § 4, title III, § 302(1), July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (h)(1)(C)(xiv) of this section is amended by substituting “meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2323(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/A&num=0&edition=prelim)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act ([20 U.S.C. 2323(b)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/C&num=0&edition=prelim))” for “attaining career and technical proficiencies (as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2323(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b&num=0&edition=prelim)) and reported by States only in a manner consistent with section 113(c) of such Act ([20 U.S.C. 2323(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/c&num=0&edition=prelim))”. See 2018 Amendment note below.
+
 #### References in Text
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1)(B) and (b)(1)(E)(i)(II), (2)(B)(vii)(II), (D)(i)(III), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
@@ -1592,6 +1598,8 @@ A prior section 6311, Pub. L. 89–10, title I, § 1111, as added Pub. L. 103–
 A prior section 1111 of Pub. L. 89–10 was classified to [section 2768 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2768&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+2018—Subsec. (h)(1)(C)(xiv). Pub. L. 115–224 substituted “meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2323(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/A&num=0&edition=prelim)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act ([20 U.S.C. 2323(b)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/C&num=0&edition=prelim))” for “attaining career and technical proficiencies (as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2323(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b&num=0&edition=prelim)) and reported by States only in a manner consistent with section 113(c) of such Act ([20 U.S.C. 2323(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/c&num=0&edition=prelim))”.
+
 2015—Pub. L. 114–95 amended section generally. Prior to amendment, section related to State plan to adopt challenging academic standards to be applied to all schools and children in the State and penalties for failure to meet deadlines enacted in 1994 and 2001.
 
 2006—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
@@ -1599,6 +1607,9 @@ A prior section 1111 of Pub. L. 89–10 was classified to [section 2768 of this 
 2004—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted “section 612(a)(16)(A)” for “section 612(a)(17)(A)”.
 
 2002—Subsec. (c)(2). Pub. L. 107–279 substituted “[section 9622(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9622/b/2&num=0&edition=prelim)” for “[section 9010(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9010/b/2&num=0&edition=prelim)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, with separate effective dates for subsecs. (b)(2), (c), and (d) and with special rules for implementation of interventions at certain schools and local educational agencies, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -13651,6 +13662,9 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(6)
+Pub. L. 115–224, § 4, title III, § 302(2), July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (b)(6) of this section is amended by substituting “mentoring” for “tech-prep education, mentoring,”. See 2018 Amendment note below.
+
 #### References in Text
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(6), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
 
@@ -13658,6 +13672,8 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 A prior section 7425, Pub. L. 89–10, title VII, § 7115, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3722, related to systemwide improvement grants, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 
 #### Amendments
+2018—Subsec. (b)(6). Pub. L. 115–224 substituted “mentoring” for “tech-prep education, mentoring,”.
+
 2015—Subsec. (a). Pub. L. 114–95, § 6001(b)(5)(A)(i), made technical amendment to reference in original act which appears in text of introductory provisions as reference to [section 7421 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7421).
 
 Subsec. (a)(1). Pub. L. 114–95, § 6002(g)(1)(A), inserted “solely for the services and activities described in such application” before semicolon.
@@ -13677,6 +13693,9 @@ Subsec. (c)(3). Pub. L. 114–95, § 6002(g)(3), added par. (3).
 Subsec. (e). Pub. L. 114–95, § 6002(g)(4), added subsec. (e).
 
 2006—Subsec. (b)(5). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -15339,6 +15358,9 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(3)(K)
+Pub. L. 115–224, § 4, title III, § 302(3), July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (a)(3)(K) of this section is amended by striking out “tech-prep,” before “mentoring,”. See 2018 Amendment note below.
+
 #### References in Text
 The Head Start Act, referred to in subsec. (a)(3)(C)(iv), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
@@ -15346,9 +15368,14 @@ The Head Start Act, referred to in subsec. (a)(3)(C)(iv), is subchapter B (§ 63
 A prior section 7544, Pub. L. 89–10, title VII, § 7304, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3740, related to State allocations, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 
 #### Amendments
+2018—Subsec. (a)(3)(K). Pub. L. 115–224 struck out “tech-prep,” before “mentoring,”.
+
 2015—Pub. L. 114–95, § 6004(c), amended section generally. Prior to amendment, section related to program authorized, consisting of subsecs. (a) to (d).
 
 2003—Subsec. (a)(2)(P). Pub. L. 108–11 substituted “operated by” for “such as”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -15920,15 +15947,17 @@ Pub. L. 113–76, div. H, title III, § 309, Jan. 17, 2014, 128 Stat. 400, allow
 
       (III) is a local educational agency that—
 
-        (aa) has a tax rate for general fund purposes which is not less than 125 percent of the average tax rate for general fund purposes for comparable local educational agencies in the State; and
+        (aa) has a tax rate for general fund purposes which is not less than 125 percent of the average tax rate for general fund purposes for comparable local educational agencies in the State;
 
         (bb)
 
           (AA) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 30 percent; or
 
-          (BB) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 20 percent, and for the 3 fiscal years preceding the fiscal year for which the determination is made, the average enrollment of children who are not described in subsection (a)(1) and who are eligible for a free or reduced price lunch under the Richard B. Russell National School Lunch Act [[42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.] constitutes a percentage of the total student enrollment of the agency that is not less than 65 percent;
+          (BB) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 20 percent, and for the 3 fiscal years preceding the fiscal year for which the determination is made, the average enrollment of children who are not described in subsection (a)(1) and who are eligible for a free or reduced price lunch under the Richard B. Russell National School Lunch Act [[42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.] constitutes a percentage of the total student enrollment of the agency that is not less than 65 percent and received assistance for fiscal year 2017 pursuant to subparagraph (G); and
 
-      (IV) is a local educational agency that received a payment for fiscal year 2015 under section 7703(b)(2)(E) 11 See References in Text note below. of this title (as such section was in effect for such fiscal year) and has a total student enrollment of not less than 25,000 students, of which—
+        (cc) received assistance under subparagraph (A) of [section 7703(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim),11 See References in Text note below. as such section was in effect on the day before December 10, 2015, for a fiscal year prior to fiscal year 2017;
+
+      (IV) is a local educational agency that received a payment for fiscal year 2015 under section 7703(b)(2)(E) 1 of this title (as such section was in effect for such fiscal year) and has a total student enrollment of not less than 25,000 students, of which—
 
         (aa) not less than 35 percent are children described in subsection (a)(1); and
 
@@ -15954,7 +15983,11 @@ Pub. L. 113–76, div. H, title III, § 309, Jan. 17, 2014, 128 Stat. 400, allow
 
       (III) *Taken over by State board of education* — In the case of a heavily impacted local educational agency that is eligible to receive a basic support payment under subparagraph (A), but that has been taken over by a State board of education in any 2 previous years, such agency shall be deemed to maintain heavily impacted status for 2 fiscal years following December 10, 2015.
 
-    (iii) *Resumption of eligibility* — A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
+    (iii) *Eligibility*
+
+      (I) *First time* — A local educational agency seeking a payment under this paragraph for the first time shall apply for and be determined eligible under clause (i) for 2 consecutive years before receiving such a payment, and shall not receive such a payment for the first year of eligibility.
+
+      (II) *Resumption of eligibility* — A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
 
   (C) *Maximum amount for heavily impacted local educational agencies*
 
@@ -16189,9 +16222,9 @@ Act of September 30, 1950, referred to in subsec. (b)(1)(C)(iii), is act Sept. 3
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2)(B)(i)(III)(bb)(BB), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
 
-[Section 7703(b)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/E&num=0&edition=prelim) (as such section was in effect for such fiscal year), referred to in subsec. (b)(2)(B)(i)(IV), (D)(i)(II), was in the original “8003(b)(2)(E) (as such section was in effect for such fiscal year)”, meaning former section 8003(b)(2)(E) of Pub. L. 89–10, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3752, as such section was in effect for fiscal year 2015. Former section 8003 of Pub. L. 89–10 was renumbered section 7003 by Pub. L. 114–95, title VII, § 7001(c)(1), Dec. 10, 2015, 129 Stat. 2074, and is classified to this section.
+[Section 7703(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim), as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(2)(B)(i)(III)(cc), was in the original “section 8003(b)(2), as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802)”, meaning former section 8003(b)(2) of Pub. L. 89–10, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3752, as such section was in effect prior to the date of enactment of Pub. L. 114–95, which was approved Dec. 10, 2015. Former section 8003 of Pub. L. 89–10 was renumbered section 7003 by Pub. L. 114–95, title VII, § 7001(c)(1), Dec. 10, 2015, 129 Stat. 2074, and is classified to this section.
 
-[Section 7703(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/3&num=0&edition=prelim) (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(3)(B)(iii), means [section 7703(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/3&num=0&edition=prelim) prior to amendment by Pub. L. 114–95, title VII, §§ 7001(c)(1), (d)(10), 7004(2)(C), Dec. 10, 2015, 129 Stat. 2074, 2075, 2082. See 2015 Amendment notes below.
+[Section 7703(b)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/E&num=0&edition=prelim) (as such section was in effect for such fiscal year), referred to in subsec. (b)(2)(B)(i)(IV), (D)(i)(II), was in the original “8003(b)(2)(E) (as such section was in effect for such fiscal year)”, meaning former section 8003(b)(2)(E) of Pub. L. 89–10, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3752, as such section was in effect for fiscal year 2015. Former section 8003 of Pub. L. 89–10 was renumbered section 7003 by Pub. L. 114–95, title VII, § 7001(c)(1), Dec. 10, 2015, 129 Stat. 2074, and is classified to this section.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
@@ -16201,6 +16234,12 @@ Section 386 of the National Defense Authorization Act for Fiscal Year 1993, refe
 A prior section 7003 of Pub. L. 89–10 was classified to [section 3283 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3283&num=0&edition=prelim) prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+2018—Subsec. (b)(2)(B)(i)(III)(bb)(BB). Pub. L. 115–141, § 311(d)(1)(B)(i), inserted “and received assistance for fiscal year 2017 pursuant to subparagraph (G)” after “not less than 65 percent”.
+
+Subsec. (b)(2)(B)(i)(III)(cc). Pub. L. 115–141, § 311(d)(1)(A), (B)(ii), (C), added item (cc).
+
+Subsec. (b)(2)(B)(iii). Pub. L. 115–141, § 311(d)(2), added cl. (iii) and struck out former cl. (iii) which read as follows: “In the case of a local educational agency providing a free public education to students enrolled in kindergarten through grade 12, that enrolls students described in subparagraphs (A), (B), and (D) of subsection (a)(1) only in grades 9 through 12, and that received a final payment for fiscal year 2009 calculated under [section 7703(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/3&num=0&edition=prelim) (as such section was in effect on the day before December 10, 2015) for students in grades 9 through 12, the Secretary shall, in calculating the agency’s payment, consider only that portion of such agency’s total enrollment of students in grades 9 through 12 when calculating the percentage under clause (i)(I) and only that portion of the total current expenditures attributed to the operation of grades 9 through 12 in such agency when calculating the percentage under clause (i)(II).”
+
 2016—Subsec. (b)(2)(B)(i)(I). Pub. L. 114–328, § 579(b)(1), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “is a local educational agency—
 
 “(aa) whose boundaries are the same as a Federal military installation or an island property designated by the Secretary of the Interior to be property that is held in trust by the Federal Government; and
@@ -16414,11 +16453,16 @@ Pub. L. 104–195, § 4(b), Sept. 16, 1996, 110 Stat. 2381, provided that: “Pa
 
 Pub. L. 104–195, § 5(c), Sept. 16, 1996, 110 Stat. 2382, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to fiscal years after fiscal year 1996.”
 
+#### Calculation of Basic Support Payments
+Pub. L. 115–245, div. B, title III, § 315, Sept. 28, 2018, 132 Stat. 3108, provided that: “(a) For any local educational agency that for fiscal year 2018, had an enrollment of eligible Federally connected children that was at least 35 percent of the agency’s total student enrollment and a per-pupil expenditure that was less than the average per-pupil expenditure of the State or of all the States, and was determined ineligible to receive a payment under section 7003(b)(2)(A) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7703(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/A&num=0&edition=prelim)] for failing to meet the average tax rate requirement for general fund purposes in section 7003(b)(2)(B)(i)(V)(bb), and whose calculated payment amount under section 7003(b) for the three years following fiscal year 2019 is less than 80 percent of the amount received for fiscal year 2019, the Secretary [of Education] shall pay the local educational agency for the following three years not less than 90 percent of the total amount the local educational agency received under section 7003(b)(2) for fiscal year 2017 if such local educational agency—“(1) previously received a payment under section 7003(b)(2)(A) but did not receive a payment under section 7003(b)(2)(B)(ii) (or any predecessor of such provision) for each of fiscal years 2015 through 2017; and “(2) was considered a local educational agency described in section 7003(b)(2)(B)(i)(V) (or any predecessor of such provision) for each such fiscal year. “(b) For fiscal year 2020 and succeeding fiscal years, if a local educational agency described in subsection (a) is eligible to receive a basic support payment pursuant to section 7003(b)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)), the payment received by the local educational agency shall be calculated under section 7003(b)(2) of such Act and not under subsection (a).”
+
+Pub. L. 115–141, div. H, title III, § 311(a)–(c), Mar. 23, 2018, 132 Stat. 750, provided that: “(a) Notwithstanding any other provision of law except as provided under subsection (c), with respect to a local educational agency that was notified by the Secretary [of Education] in fiscal year 2017 of the agency’s eligibility to receive a basic support payment pursuant to section 7003(b)(2)(B)(i)(III) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)(B)(i)(III)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/B/i/III&num=0&edition=prelim)) for fiscal year 2017 but did not receive a payment under section 7003(b)(2) of such Act [[20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)] for fiscal year 2017, in addition to payments received by the local educational agency under section 7003(b)(1) of such Act [[20 U.S.C. 7703(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/1&num=0&edition=prelim)], the Secretary shall reserve from funds appropriated to carry out section 7003(b) [[20 U.S.C. 7703(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b&num=0&edition=prelim)] of such Act and make payments from such funds to such local educational agency for fiscal years 2017, 2018, 2019, and 2020 in the following amounts:“(1) $3,000,000 for fiscal year 2017. “(2) $5,000,000 for fiscal year 2018. “(3) $4,000,000 for fiscal year 2019. “(4) $4,000,000 for fiscal year 2020. “(b) For fiscal year 2017, a local educational agency described in subsection (a) shall not be eligible for a basic support payment pursuant to section 7003(b)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)). “(c) For fiscal year 2018 and succeeding fiscal years, if a local educational agency described in subsection (a) is eligible to receive a basic support payment pursuant to section 7003(b)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)), the payment received by the local educational agency shall be calculated under section 7003(b)(2) of such Act and not under subsection (a).”
+
 #### Impact Aid Amendments
 Pub. L. 114–328, div. A, title V, § 579(a), Dec. 23, 2016, 130 Stat. 2145, provided that: “(a) Military ‘Build to Lease’ Program Housing.—Notwithstanding section 5(d) of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1806), the amendment made by section 7004(1) of such Act (Public Law 114–95; 129 Stat. 2077) [amending this section]—“(1) for fiscal year 2016—“(A) shall be applied as if amending section 8003(a)(5)(A) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7703(a)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/a/5/A&num=0&edition=prelim)], as in effect on the day before the date of enactment of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802) [Dec. 10, 2015]; and “(B) shall be applicable with respect to appropriations for use under title VIII of the Elementary and Secondary Education Act of 1965 (Public Law 114–95; 129 Stat. 1802) [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) et seq.]; and “(2) for fiscal year 2017 and each succeeding fiscal year, shall be in effect with respect to appropriations for use under title VII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.], as amended by the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802).”
 
 #### Special Rule Regarding the Per-Pupil Expenditure Requirement
-Pub. L. 114–328, div. A, title V, § 579(c), Dec. 23, 2016, 130 Stat. 2145, provided that: “(1) References.—Except as otherwise expressly provided, any reference in this subsection to a section or other provision of title VII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.] shall be considered to be a reference to the section or other provision of such title VII as amended by the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802). “(2) In general.—Notwithstanding section 5(d) of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1806) or section 7003(b)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)), with respect to any application submitted under section 7005 of such Act ([20 U.S.C. 7705](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7705)) for eligibility consideration under subclause (II) or (V) of section 7003(b)(2)(B)(i) of such Act [[20 U.S.C. 7703(b)(2)(B)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/B/i&num=0&edition=prelim)] for fiscal year 2017, 2018, or 2019, the Secretary of Education shall determine that a local educational agency meets the per-pupil expenditure requirement for purposes of such subclause (II) or (V), as applicable, only if—“(A) in the case of a local educational agency that received a basic support payment for fiscal year 2001 under section 8003(b)(2)(B) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/B&num=0&edition=prelim)) (as such section was in effect for such fiscal year), the agency, for the year for which the application is submitted, has a per-pupil expenditure that is less than the average per-pupil expenditure of the State in which the agency is located or the average per-pupil expenditure of all States (whichever average per-pupil expenditure is greater), except that a local educational agency with a total student enrollment of less than 350 students shall be deemed to have satisfied such per-pupil expenditure requirement; or “(B) in the case of a local educational agency that did not receive a basic support payment for fiscal year 2015 under such section 8003(b)(2)(B), as so in effect, the agency, for the year for which the application is submitted—“(i) has a total student enrollment of 350 or more students and a per-pupil expenditure that is less than the average per-pupil expenditure of the State in which the agency is located; or “(ii) has a total student enrollment of less than 350 students and a per-pupil expenditure that is less than the average per-pupil expenditure of a comparable local educational agency or 3 comparable local educational agencies (whichever average per-pupil expenditure is greater), in the State in which the agency is located.”
+Pub. L. 114–328, div. A, title V, § 579(c), Dec. 23, 2016, 130 Stat. 2145, as amended by Pub. L. 115–141, div. H, title III, § 311(e), Mar. 23, 2018, 132 Stat. 751, provided that: “(1) References.—Except as otherwise expressly provided, any reference in this subsection to a section or other provision of title VII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.] shall be considered to be a reference to the section or other provision of such title VII as amended by the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802). “(2) In general.—Notwithstanding section 5(d) of the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1806) or section 7003(b)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)), with respect to any application submitted under section 7005 of such Act ([20 U.S.C. 7705](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7705)) for eligibility consideration under subclause (II) or (V) of section 7003(b)(2)(B)(i) of such Act [[20 U.S.C. 7703(b)(2)(B)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/B/i&num=0&edition=prelim)] for fiscal year 2017 and any succeeding fiscal year, the Secretary of Education shall determine that a local educational agency meets the per-pupil expenditure requirement for purposes of such subclause (II) or (V), as applicable, only if—“(A) in the case of a local educational agency that received a basic support payment for fiscal year 2001 under section 8003(b)(2)(B) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/B&num=0&edition=prelim)) (as such section was in effect for such fiscal year), the agency, for the year for which the application is submitted, has a per-pupil expenditure that is less than the average per-pupil expenditure of the State in which the agency is located or the average per-pupil expenditure of all States (whichever average per-pupil expenditure is greater), except that a local educational agency with a total student enrollment of less than 350 students shall be deemed to have satisfied such per-pupil expenditure requirement; or “(B) in the case of a local educational agency that did not receive a basic support payment for fiscal year 2015 under such section 8003(b)(2)(B), as so in effect, the agency, for the year for which the application is submitted—“(i) has a total student enrollment of 350 or more students and a per-pupil expenditure that is less than the average per-pupil expenditure of the State in which the agency is located; or “(ii) has a total student enrollment of less than 350 students and a per-pupil expenditure that is less than the average per-pupil expenditure of a comparable local educational agency or 3 comparable local educational agencies (whichever average per-pupil expenditure is greater), in the State in which the agency is located.”
 
 #### Special Rules
 Pub. L. 114–328, div. A, title V, § 579(d)(3), Dec. 23, 2016, 130 Stat. 2148, provided that: “(A) Applicability for fiscal year 2016.—Notwithstanding any other provision of law, in making basic support payments under section 8003(b)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)) for fiscal year 2016, the Secretary of Education shall carry out subparagraphs (B)(i) and (E) of such section as if the amendments made to subparagraphs (B)(i)(IV) and (D) of section 7003(b)(2) of such Act [[20 U.S.C. 7703(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2&num=0&edition=prelim)] (as amended and redesignated by this subsection and the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802)) had also been made to the corresponding provisions of section 8003(b)(2) of the Elementary and Secondary Education Act of 1965, as in effect on the day before the date of enactment of the Every Student Succeeds Act [Dec. 10, 2015]. “(B) Loss of eligibility.—For fiscal year 2016 or any succeeding fiscal year, if a local educational agency is eligible for a basic support payment under subclause (IV) of section 7003(b)(2)(B)(i) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7703(b)(2)(B)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/B/i&num=0&edition=prelim)] (as amended by this section and the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802)) or through a corresponding provision under subparagraph (A), such local educational agency shall be ineligible to apply for a payment for such fiscal year under any other subclause of such section (or, for fiscal year 2016, any other item of section 8003(b)(2)(B)(i)(II) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7703(b)(2)(B)(i)(II)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/B/i/II&num=0&edition=prelim)]). “(C) Payment amounts.—If, before the date of enactment of this Act [Dec. 23, 2016], a local educational agency receives 1 or more payments under section 8003(b)(2)(E) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7703(b)(2)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/E&num=0&edition=prelim)) for fiscal year 2016, the sum of which is greater than the amount the Secretary of Education determines the local educational agency is entitled to receive under such section in accordance with subparagraph (A)—“(i) the Secretary shall allow the local educational agency to retain the larger amount; and “(ii) such local educational agency shall not be eligible to receive any additional payment under such section for fiscal year 2016.”
@@ -16585,9 +16629,107 @@ Subsecs. (e), (f). Pub. L. 112–239, § 561(c), redesignated subsec. (f) as (e)
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments
-Pub. L. 114–328, div. A, title V, § 572(b), Dec. 23, 2016, 130 Stat. 2141, provided that: “The budget justification materials that accompany any budget of the President for a fiscal year after fiscal year 2017 (as submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code) that includes a request for the extension of section 574(c) of the John Warner National Defense Authorization Act for Fiscal Year 2007 [section 574(c) of Pub. L. 109–364, set out below] shall include the following: “(1) A full accounting of the expenditure of funds pursuant to such section 574(c) during the last fiscal year ending before the date of the submittal of the budget. “(2) An assessment of the impact of the expenditure of such funds on the quality of opportunities for elementary and secondary education made available for military dependent students.”
+Pub. L. 114–328, div. A, title V, § 572(b), Dec. 23, 2016, 130 Stat. 2141, as amended by Pub. L. 115–91, div. A, title V, § 552(b), Dec. 12, 2017, 131 Stat. 1401, formerly set out as a note under this section, was transferred and is set out as a note under [section 7703c of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703c).
 
-Pub. L. 109–364, div. A, title V, § 574, Oct. 17, 2006, 120 Stat. 2226, as amended by Pub. L. 110–181, div. A, title V, § 573, Jan. 28, 2008, 122 Stat. 120; Pub. L. 110–417, [div. A], title V, § 553, Oct. 14, 2008, 122 Stat. 4469; Pub. L. 112–81, div. A, title V, § 573, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–92, div. A, title X, § 1072(h), Nov. 25, 2015, 129 Stat. 995; Pub. L. 114–328, div. A, title V, § 572(a), Dec. 23, 2016, 130 Stat. 2141, provided that: “(a) Plan Required.—Not later than January 1, 2007, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth a plan to provide assistance to local educational agencies that experience growth in the enrollment of military dependent students as a result of any of the following events:“(1) Force structure changes. “(2) The relocation of a military unit. “(3) The closure or realignment of military installations pursuant to defense base closure and realignment under the base closure laws. “(b) Elements.—The report required by subsection (a), and each updated report required by [former] subsection (c), shall include the following:“(1) An identification, current as of the date of the report, of the total number of military dependent students who are anticipated to be arriving at or departing from military installations as a result of any event described in subsection (a), including—“(A) an identification of the military installations affected by such arrivals and departures; “(B) an estimate of the number of such students arriving at or departing from each such installation; and “(C) the anticipated schedule of such arrivals and departures. “(2) Such recommendations as the Office of Economic Adjustment of the Department of Defense considers appropriate for means of assisting affected local educational agencies in accommodating increases in enrollment of military dependent students as a result of any such event. “(3) A plan for outreach to be conducted to affected local educational agencies, commanders of military installations, and members of the Armed Forces and civilian personnel of the Department of Defense regarding information on the assistance to be provided under the plan under subsection (a). “(c) Transition of Military Dependents Among Local Educational Agencies.—(1) The Secretary of Defense shall work collaboratively with the Secretary of Education in any efforts to ease the transitions of military dependent students from Department of Defense dependent schools to other schools and among schools of local educational agencies. “(2) The Secretary of Defense may use funds of the Department of Defense Education Activity for the following purposes:“(A) To share expertise and experience of the Activity with local educational agencies as military dependent students make the transitions described in paragraph (1), including transitions resulting from the closure or realignment of military installations under a base closure law, global rebasing, and force restructuring. “(B) To provide grant assistance programs for local educational agencies with military dependent students undergoing the transitions described in paragraph (1), including programs on the following:“(i) Access to virtual and distance learning capabilities and related applications. “(ii) Training for teachers. “(iii) Academic strategies to increase academic achievement. “(iv) Curriculum development. “(v) Support for practices that minimize the impact of transition and deployment. “(vi) Other appropriate services to improve the academic achievement of such students. “(3) The authority provided by this subsection expires September 30, 2017. “(d) Definitions.—In this section:“(1) The term ‘base closure law’ has the meaning given that term in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), United States Code. “(2) The term ‘local educational agency’ has the meaning given that term in section 8013(9) [now 7013(9)] of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/9&num=0&edition=prelim)). “(3) The term ‘military dependent students’ refers to—“(A) elementary and secondary school students who are dependents of members of the Armed Forces; “(B) elementary and secondary school students who are dependents of civilian employees of the Department of Defense; and “(C) elementary and secondary school students who are dependents of personnel who are not members of the Armed Forces or civilian employees of the Department of Defense but who are employed on Federal property.”
+Pub. L. 109–364, div. A, title V, § 574, Oct. 17, 2006, 120 Stat. 2226, as amended by Pub. L. 110–181, div. A, title V, § 573, Jan. 28, 2008, 122 Stat. 120; Pub. L. 110–417, [div. A], title V, § 553, Oct. 14, 2008, 122 Stat. 4469; Pub. L. 112–81, div. A, title V, § 573, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–92, div. A, title X, § 1072(h), Nov. 25, 2015, 129 Stat. 995; Pub. L. 114–328, div. A, title V, § 572(a), Dec. 23, 2016, 130 Stat. 2141; Pub. L. 115–91, div. A, title V, § 552(a), Dec. 12, 2017, 131 Stat. 1401, formerly set out as a note under this section, was transferred to [section 7703c of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703c).
+
+
+<a id="section-7703c"></a>
+## § 7703c. Plan and authority to assist local educational agencies experiencing growth in enrollment due to force structure changes, relocation of military units, or base closures and realignments
+**(a) Plan required** Not later than January 1, 2007, the Secretary of Defense shall submit to the congressional defense committees a report setting forth a plan to provide assistance to local educational agencies that experience growth in the enrollment of military dependent students as a result of any of the following events:
+
+(1) Force structure changes.
+
+(2) The relocation of a military unit.
+
+(3) The closure or realignment of military installations pursuant to defense base closure and realignment under the base closure laws.
+
+**(b) Elements** The report required by subsection (a), and each updated report required by subsection (c),11 See References in Text note below. shall include the following:
+
+(1) An identification, current as of the date of the report, of the total number of military dependent students who are anticipated to be arriving at or departing from military installations as a result of any event described in subsection (a), including—
+
+  (A) an identification of the military installations affected by such arrivals and departures;
+
+  (B) an estimate of the number of such students arriving at or departing from each such installation; and
+
+  (C) the anticipated schedule of such arrivals and departures.
+
+(2) Such recommendations as the Office of Economic Adjustment of the Department of Defense considers appropriate for means of assisting affected local educational agencies in accommodating increases in enrollment of military dependent students as a result of any such event.
+
+(3) A plan for outreach to be conducted to affected local educational agencies, commanders of military installations, and members of the Armed Forces and civilian personnel of the Department of Defense regarding information on the assistance to be provided under the plan under subsection (a).
+
+**(c) Transition of military dependents among local educational agencies**
+
+(1) The Secretary of Defense shall work collaboratively with the Secretary of Education in any efforts to ease the transitions of military dependent students from Department of Defense dependent schools to other schools and among schools of local educational agencies.
+
+(2) The Secretary of Defense may use funds of the Department of Defense Education Activity for the following purposes:
+
+  (A) To share expertise and experience of the Activity with local educational agencies as military dependent students make the transitions described in paragraph (1), including transitions resulting from the closure or realignment of military installations under a base closure law, global rebasing, and force restructuring.
+
+  (B) To provide grant assistance programs for local educational agencies with military dependent students undergoing the transitions described in paragraph (1), including programs on the following:
+
+    (i) Access to virtual and distance learning capabilities and related applications.
+
+    (ii) Training for teachers.
+
+    (iii) Academic strategies to increase academic achievement.
+
+    (iv) Curriculum development.
+
+    (v) Support for practices that minimize the impact of transition and deployment.
+
+    (vi) Other appropriate services to improve the academic achievement of such students.
+
+**(d) Definitions** In this section:
+
+(1) The term “base closure law” has the meaning given that term in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
+
+(2) The term “local educational agency” has the meaning given that term in [section 7713(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/9&num=0&edition=prelim).
+
+(3) The term “military dependent students” refers to—
+
+  (A) elementary and secondary school students who are dependents of members of the Armed Forces;
+
+  (B) elementary and secondary school students who are dependents of civilian employees of the Department of Defense; and
+
+  (C) elementary and secondary school students who are dependents of personnel who are not members of the Armed Forces or civilian employees of the Department of Defense but who are employed on Federal property.
+
+### Statutory Notes
+
+#### References in Text
+Subsection (c), referred to in subsec. (b), was repealed, and former subsec. (d) was redesignated (c), by Pub. L. 114–92, div. A, title X, § 1072(h), Nov. 25, 2015, 129 Stat. 995.
+
+[Section 7713 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7713), referred to in subsec. (d)(2), was in the original a reference to section 8013 of Pub. L. 89–10, which was renumbered section 7013 of that Act by Pub. L. 114–95, title VII, § 7001(c)(2), Dec. 10, 2015, 129 Stat. 2074.
+
+#### Codification
+Section was formerly set out as a note under [section 7703b of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703b).
+
+Section was enacted as part of the John Warner National Defense Authorization Act for Fiscal Year 2007, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+
+#### Amendments
+2017—Subsec. (c)(3). Pub. L. 115–91, § 552(a), struck out par. (3) which read as follows: “The authority provided by this subsection expires September 30, 2017.”
+
+2016—Subsec. (c)(3). Pub. L. 114–328 substituted “September 30, 2017” for “September 30, 2016”
+
+2015—Subsecs. (c) to (e). Pub. L. 114–92 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Not later than March 1, 2008, and annually thereafter to coincide with the submission of the budget of the President for a fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary of Defense shall submit to the congressional defense committees an update of the report required by subsection (a).”
+
+2011—Subsec. (d)(2)(B). Pub. L. 112–81, § 573(a), inserted “grant assistance” after “To provide”, substituted “including programs on the following:” for “including—”, added cls. (i) to (vi), and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) distance learning programs; and
+
+“(ii) training programs to improve the ability of military dependent students who attend public schools in the United States and their teachers to meet the educational needs of such students.”.
+
+Subsec. (d)(3). Pub. L. 112–81, § 573(b), substituted “September 30, 2016” for “September 30, 2013”.
+
+2008—Subsec. (d). Pub. L. 110–417 amended subsec. (d) generally. Prior to amendment, text read as follows: “During the period beginning on October 17, 2006, and ending on September 30, 2011, the Secretary of Defense shall work collaboratively with the Secretary of Education in any efforts to ease the transition of military dependent students from attendance in Department of Defense dependent schools to attendance in schools of local educational agencies. The Secretary of Defense may use funds of the Department of Defense Education Activity to share expertise and experience of the Activity with local educational agencies as military dependent students make such transition, including such a transition resulting from the closure or realignment of military installations under a base closure law, global rebasing, and force restructuring.”
+
+Subsec. (e)(3)(C). Pub. L. 110–181 added subpar. (C).
+
+#### Information To Be Included With Future Requests for Extension
+Pub. L. 114–328, div. A, title V, § 572(b), Dec. 23, 2016, 130 Stat. 2141, as amended by Pub. L. 115–91, div. A, title V, § 552(b), Dec. 12, 2017, 131 Stat. 1401, provided that: “The budget justification materials that accompany any budget of the President for a fiscal year after fiscal year 2017 (as submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code) shall include, with respect to section 574(c) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; [20 U.S.C. 7703b](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703b) note [now [20 U.S.C. 7703c](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703c)]), the following: “(1) A full accounting of the expenditure of funds pursuant to such section 574(c) during the last fiscal year ending before the date of the submittal of the budget. “(2) An assessment of the impact of the expenditure of such funds on the quality of opportunities for elementary and secondary education made available for military dependent students.”
+
+#### “Congressional Defense Committees” Defined
+For definition of “congressional defense committees”, see section 3 of Pub. L. 109–364, listed in a table under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-7704"></a>
@@ -18754,9 +18896,11 @@ Section effective Dec. 10, 2015, except with respect to certain noncompetitive p
 
   (C) part A of subchapter III;
 
-  (D) part A of subchapter IV; and
+  (D) part A of subchapter IV;
 
-  (E) part B of subchapter IV.
+  (E) part B of subchapter IV; and
+
+  (F) [section 7281 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7281), with regard to Project SERV.
 
 (2) **Definition** — For the purpose of this section, the term “eligible children” means children eligible for services under a program described in paragraph (1).
 
@@ -18826,6 +18970,8 @@ Section effective Dec. 10, 2015, except with respect to certain noncompetitive p
 A prior section 7881, Pub. L. 89–10, title IX, § 9161, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3793; amended Pub. L. 105–220, title II, § 251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
+2017—Subsec. (b)(1)(F). Pub. L. 115–64 added subpar. (F).
+
 2015—Subsec. (a)(3). Pub. L. 114–95, § 8015(1)(A), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Educational services and other benefits provided under this section for private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.”
 
 Subsec. (a)(4). Pub. L. 114–95, § 8015(1)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Expenditures for educational services and other benefits provided under this section for eligible private school children, their teachers, and other educational personnel serving those children shall be equal, taking into account the number and educational needs of the children to be served, to the expenditures for participating public school children.”

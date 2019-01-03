@@ -80,9 +80,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] relating to reasonableness of tolls and to location and clearances of bridges and causeways in navigable waters of United States under this section transferred to and vested in Secretary of Transportation by section 6(g)(4)(A), (6)(B) of Pub. L. 89–670. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(4)(A), (6)(B) of Pub. L. 89–670, and repealed section 6(g)(4)(A), (6)(B).
 
-Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when the President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when the President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
 “Commandant of the Coast Guard” substituted in text for “Secretary of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§ 101 to 104, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -110,7 +110,7 @@ Act of March 23, 1906 ([33 U.S.C. 491](./chapter-011-bridges-over-navigable-wate
 ## § 495. Violations of orders respecting bridges and accessory works
 **(a) Criminal penalties for violation; misdemeanor; fine; new offenses; jurisdiction: suits for recovery of removal expenses, enforcement of removal, and obstruction-to-navigation causes or questions** Any persons who shall willfully fail or refuse to comply with the lawful order of the Secretary of the department in which the Coast Guard is operating or the Chief of Engineers, made in accordance with the provisions of sections 491 to 494 and 495 to 498 of this title, shall be deemed guilty of a misdemeanor and on conviction thereof shall be punished in any court of competent jurisdiction by a fine not exceeding $5,000, and every month such persons shall remain in default shall be deemed a new offense and subject such persons to additional penalties therefor; and in addition to the penalties above described the Secretary of the department in which the Coast Guard is operating and the Chief of Engineers may, upon refusal of the persons owning or controlling any such bridge and accessory works to comply with any lawful order issued by the Secretary of the department in which the Coast Guard is operating or Chief of Engineers in regard thereto, cause the removal of such bridge and accessory works at the expense of the persons owning or controlling such bridge, and suit for such expense may be brought in the name of the United States against such persons, and recovery had for such expense in any court of competent jurisdiction; and the removal of any structures erected or maintained in violation of the provisions of said sections, or the order or direction of the Secretary of the department in which the Coast Guard is operating or Chief of Engineers made in pursuance thereof may be enforced by injunction, mandamus, or other summary process, upon application to the district court in the district in which such structure may, in whole or in part, exist, and proper proceedings to this end may be instituted under the direction of the Attorney General of the United States at the request of the Secretary of the department in which the Coast Guard is operating; and in case of any litigation arising from any obstruction or alleged obstruction to navigation created by the construction of any bridge under said sections, the cause or question arising may be tried before the district court of the United States in any district which any portion of said obstruction or bridge touches.
 
-**(b) Civil penalties for violation; separate offenses; notice and hearing; assessment, collection, and remission; civil actions** Whoever violates any provision of sections 491 to 494 and 495 to 498 of this title, or any order issued under sections 491 to 494 and 495 to 498 of this title, shall be liable to a civil penalty of not more than $5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of the department in which the Coast Guard is operating may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
+**(b) Civil penalties for violation; separate offenses; notice and hearing; assessment, collection, and remission; civil actions** Whoever violates any provision of sections 491 to 494 and 495 to 498 of this title, or any order issued under sections 491 to 494 and 495 to 498 of this title, shall be liable to a civil penalty of not more than $25,000 for a violation occurring in 2008 and any year thereafter. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of the department in which the Coast Guard is operating may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
 ### Statutory Notes
 
@@ -118,6 +118,8 @@ Act of March 23, 1906 ([33 U.S.C. 491](./chapter-011-bridges-over-navigable-wate
 The words “district court” were substituted for “circuit court,” upon incorporation into the Code, the Circuit Courts being abolished by act Mar. 3, 1911, and their powers and duties transferred to the district courts by section 291 of that act.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–232 struck out “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and” after “civil penalty of not more than”.
+
 2016—Pub. L. 114–120 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation” wherever appearing.
 
 2004—Subsec. (b). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
@@ -174,6 +176,88 @@ Section, act June 27, 1930, ch. 640, § 1, 46 Stat. 821, provided that, in case 
 
 **(c) Civil penalties for violation; notice and hearing; assessment, collection, and remission; civil actions** Whoever violates any rule or regulation issued under subsection (a) or (b), shall be liable to a civil penalty of not more than $5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of the department in which the Coast Guard is operating may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
+**(d) Temporary changes to drawbridge operating schedules** Notwithstanding [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), whenever a temporary change to the operating schedule of a drawbridge, lasting 180 days or less—
+
+(1) is approved—
+
+  (A) the Secretary of the department in which the Coast Guard is operating shall—
+
+    (i) issue a deviation approval letter to the bridge owner; and
+
+    (ii) announce the temporary change in—
+
+      (I) the Local Notice to Mariners;
+
+      (II) a broadcast notice to mariners and through radio stations; or
+
+      (III) such other local media as the Secretary considers appropriate; and
+
+  (B) the bridge owner, except a railroad bridge owner, shall notify—
+
+    (i) the public by publishing notice of the temporary change in a newspaper of general circulation published in the place where the bridge is located;
+
+    (ii) the department, agency, or office of transportation with jurisdiction over the roadway that abuts the approaches to the bridge; and
+
+    (iii) the law enforcement organization with jurisdiction over the roadway that abuts the approaches to the bridge; or
+
+(2) is denied, the Secretary of the department in which the Coast Guard is operating shall—
+
+  (A) not later than 10 days after the date of receipt of the request, provide the bridge owner in writing the reasons for the denial, including any supporting data and evidence used to make the determination; and
+
+  (B) provide the bridge owner a reasonable opportunity to address each reason for the denial and resubmit the request.
+
+**(e) Drawbridge movements** The Secretary of the department in which the Coast Guard is operating—
+
+(1) shall require a drawbridge operator to record each movement of the drawbridge in a logbook;
+
+(2) may inspect the logbook to ensure drawbridge movement is in accordance with the posted operating schedule;
+
+(3) shall review whether deviations from the posted operating schedule are impairing vehicular and pedestrian traffic; and
+
+(4) may determine if the operating schedule should be adjusted for efficiency of maritime or vehicular and pedestrian traffic.
+
+**(f) Requirements**
+
+(1) **Logbooks** — An operator of a drawbridge built across a navigable river or other water of the United States—
+
+  (A) that opens the draw of such bridge for the passage of a vessel, shall record in a logbook—
+
+    (i) the bridge identification and date of each opening;
+
+    (ii) the bridge tender or operator for each opening;
+
+    (iii) each time it is opened for navigation;
+
+    (iv) each time it is closed for navigation;
+
+    (v) the number and direction of vessels passing through during each opening;
+
+    (vi) the types of vessels passing through during each opening;
+
+    (vii) an estimated or known size (height, length, and beam) of the largest vessel passing through during each opening;
+
+    (viii) for each vessel, the vessel name and registration number if easily observable; and
+
+    (ix) all maintenance openings, malfunctions, or other comments; and
+
+  (B) that remains open to navigation but closes to allow for trains to cross, shall record in a logbook—
+
+    (i) the bridge identification and date of each opening and closing;
+
+    (ii) the bridge tender or operator;
+
+    (iii) each time it is opened to navigation;
+
+    (iv) each time it is closed to navigation; and
+
+    (v) all maintenance openings, closings, malfunctions, or other comments.
+
+(2) **Maintenance of logbooks** — A drawbridge operator shall maintain logbooks required under paragraph (1) for not less than 5 years.
+
+(3) **Submission of logbooks** — At the request of the Secretary of the department in which the Coast Guard is operating, a drawbridge operator shall submit to the Secretary the logbook required under paragraph (1) as the Secretary considers necessary to carry out this section.
+
+(4) **Exemption** — The requirements under paragraph (1) shall be exempt from sections 3501 to 3521 of title 44.
+
 ### Statutory Notes
 
 #### Codification
@@ -184,6 +268,8 @@ The last paragraph of [section 1 of this title](./chapter-001-navigable-waters-g
 Except for the last proviso of subsec. (a), this section was from act Aug. 18, 1894.
 
 #### Amendments
+2018—Subsecs. (d) to (f). Pub. L. 115–282 added subsecs. (d) to (f).
+
 2016—Pub. L. 114–120 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation” wherever appearing.
 
 2004—Subsec. (c). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.

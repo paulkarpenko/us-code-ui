@@ -198,7 +198,7 @@ In subsection (d), the words “or advance” are added in 2 places for consiste
 <a id="section-23107"></a>
 ## § 23107. Principal office
 
-The principal office of the corporation shall be in Dayton, Ohio, or another place decided by the board of trustees. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
+The principal office of the corporation shall be in Ohio. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
 ### Statutory Notes
 
@@ -208,6 +208,9 @@ The principal office of the corporation shall be in Dayton, Ohio, or another pla
 | 23107 | 36:4305(a). | July 14, 1964, Pub. L. 88–372, § 5(a), 78 Stat. 316. |
 
 The word “various” is omitted as unnecessary. The words “the Commonwealth of Puerto Rico” are omitted as included in “territories, and possessions of the United States”.
+
+#### Amendments
+2017—Pub. L. 115–91 substituted “Ohio” for “Dayton, Ohio, or another place decided by the board of trustees”.
 
 
 <a id="section-23108"></a>

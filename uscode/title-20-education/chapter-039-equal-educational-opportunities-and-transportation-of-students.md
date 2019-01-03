@@ -19,7 +19,7 @@ source: >-
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 #### Short Title
 Pub. L. 93–380, title II, § 201, Aug. 21, 1974, 88 Stat. 514, provided that: “This title [enacting this chapter and [section 1228 of this title](./chapter-031-general-provisions-concerning-education.md#section-1228) and amending [section 1608 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1608&num=0&edition=prelim)] may be cited as the ‘Equal Educational Opportunities Act of 1974’.”
@@ -43,6 +43,11 @@ Pub. L. 93–380, title II, § 201, Aug. 21, 1974, 88 Stat. 514, provided that: 
 
 **(b) Necessity of Congress to specify appropriate remedies for elimination of dual school systems** For the foregoing reasons, it is necessary and proper that the Congress, pursuant to the powers granted to it by the Constitution of the United States, specify appropriate remedies for the elimination of the vestiges of dual school systems, except that the provisions of this chapter are not intended to modify or diminish the authority of the courts of the United States to enforce fully the fifth and fourteenth amendments to the Constitution of the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1703"></a>
 ## § 1703. Denial of equal educational opportunity prohibited
@@ -61,11 +66,21 @@ No State shall deny equal educational opportunity to an individual on account of
 
 **(f)** the failure by an educational agency to take appropriate action to overcome language barriers that impede equal participation by its students in its instructional programs.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1704"></a>
 ## § 1704. Balance not required
 
 The failure of an educational agency to attain a balance, on the basis of race, color, sex, or national origin, of students among its schools shall not constitute a denial of equal educational opportunity, or equal protection of the laws.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1705"></a>
@@ -73,11 +88,21 @@ The failure of an educational agency to attain a balance, on the basis of race, 
 
 Subject to the other provisions of this subchapter, the assignment by an educational agency of a student to the school nearest his place of residence which provides the appropriate grade level and type of education for such student is not a denial of equal educational opportunity or of equal protection of the laws unless such assignment is for the purpose of segregating students on the basis of race, color, sex, or national origin, or the school to which such student is assigned was located on its site for the purpose of segregating students on such basis.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1706"></a>
 ## § 1706. Civil actions by individuals denied equal educational opportunities or by Attorney General
 
 An individual denied an equal educational opportunity, as defined by this subchapter may institute a civil action in an appropriate district court of the United States against such parties, and for such relief, as may be appropriate. The Attorney General of the United States (hereinafter in this chapter referred to as the “Attorney General”), for or in the name of the United States, may also institute such a civil action on behalf of such an individual.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1707"></a>
@@ -85,17 +110,32 @@ An individual denied an equal educational opportunity, as defined by this subcha
 
 When a court of competent jurisdiction determines that a school system is desegregated, or that it meets the constitutional requirements, or that it is a unitary system, or that it has no vestiges of a dual system, and thereafter residential shifts in population occur which result in school population changes in any school within such a desegregated school system, such school population changes so occurring shall not, per se, constitute a cause for civil action for a new plan of desegregation or for modification of the court approved plan.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1708"></a>
 ## § 1708. Jurisdiction of district courts
 
 The appropriate district court of the United States shall have and exercise jurisdiction of proceedings instituted under [section 1706 of this title](./chapter-039-equal-educational-opportunities-and-transportation-of-students.md#section-1706).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1709"></a>
 ## § 1709. Intervention by Attorney General
 
 Whenever a civil action is instituted under [section 1706 of this title](./chapter-039-equal-educational-opportunities-and-transportation-of-students.md#section-1706) by an individual, the Attorney General may intervene in such action upon timely application.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1710"></a>
@@ -107,11 +147,21 @@ The Attorney General shall not institute a civil action under [section 1706 of t
 
 **(b)** certifies to the appropriate district court of the United States that he is satisfied that such educational agency has not, within a reasonable time after such notice, undertaken appropriate remedial action.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1712"></a>
 ## § 1712. Formulating remedies; applicability
 
 In formulating a remedy for a denial of equal educational opportunity or a denial of the equal protection of the laws, a court, department, or agency of the United States shall seek or impose only such remedies as are essential to correct particular denials of equal educational opportunity or equal protection of the laws.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1713"></a>
@@ -133,6 +183,11 @@ In formulating a remedy for a denial of equal educational opportunity or a denia
 
 **(g)** the development and implementation of any other plan which is educationally sound and administratively feasible, subject to the provisions of sections 1714 and 1715 of this title.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1714"></a>
 ## § 1714. Transportation of students
@@ -142,17 +197,32 @@ In formulating a remedy for a denial of equal educational opportunity or a denia
 
 **(c) School population changes resulting from population changes** When a court of competent jurisdiction determines that a school system is desegregated, or that it meets the constitutional requirements, or that it is a unitary system, or that it has no vestiges of a dual system, and thereafter residential shifts in population occur which result in school population changes in any school within such a desegregated school system, no educational agency because of such shifts shall be required by any court, department, or agency of the United States to formulate, or implement any new desegregation plan, or modify or implement any modification of the court approved desegregation plan, which would require transportation of students to compensate wholly or in part for such shifts in school population so occurring.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1715"></a>
 ## § 1715. District lines
 
 In the formulation of remedies under section 1712 or 1713 of this title the lines drawn by a State, subdividing its territory into separate school districts, shall not be ignored or altered except where it is established that the lines were drawn for the purpose, and had the effect, of segregating children among public schools on the basis of race, color, sex, or national origin.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1716"></a>
 ## § 1716. Voluntary adoption of remedies
 
 Nothing in this subchapter prohibits an educational agency from proposing, adopting, requiring, or implementing any plan of desegregation, otherwise lawful, that is at variance with the standards set out in this subchapter nor shall any court, department, or agency of the United States be prohibited from approving implementation of a plan which goes beyond what can be required under this subchapter, if such plan is voluntarily proposed by the appropriate educational agency.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1717"></a>
@@ -165,11 +235,19 @@ A parent or guardian of a child, or parents or guardians of children similarly s
 #### References in Text
 The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1718"></a>
 ## § 1718. Limitation on court orders; termination of orders conditioned upon compliance with fifth and fourteenth amendments; statement of basis for termination orders; stay of termination orders
 
 Any court order requiring, directly or indirectly, the transportation of students for the purpose of remedying a denial of the equal protection of the laws may, to the extent of such transportation, be terminated if the court finds the defendant educational agency has satisfied the requirements of the fifth or fourteenth amendments to the Constitution, whichever is applicable, and will continue to be in compliance with the requirements thereof. The court of initial jurisdiction shall state in its order the basis for any decision to terminate an order pursuant to this section, and the termination of any order pursuant to this section shall be stayed pending a final appeal or, in the event no appeal is taken, until the time for any such appeal has expired. No additional order requiring such educational agency to transport students for such purpose shall be entered unless such agency is found not to have satisfied the requirements of the fifth or fourteenth amendments to the Constitution, whichever is applicable.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1720"></a>
@@ -192,6 +270,9 @@ For the purposes of this subchapter—
 #### References in Text
 Section 801 of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (a) and (b), is section 801, title VIII, of Pub. L. 89–10, which was formerly classified to [section 881 of this title](./chapter-024-grants-for-educational-materials-facilities-and-services-and-strengthening-of-educational-agencies.md#section-881). Section 801 of that Act was renumbered section 1001 of title X by Pub. L. 95–561, title VIII, § 801(1), (2), Nov. 1, 1978, 92 Stat. 2284, and was reclassified to [section 3381 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3381&num=0&edition=prelim). Section 1001 was subsequently renumbered section 8001 and amended generally by Pub. L. 100–297, title I, § 1002, Apr. 28, 1988, 102 Stat. 293, and, as so amended, did not contain subsections or specific definitions. Section 8001 was subsequently omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519. For definitions, see [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
 
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1721"></a>
 ## § 1721. Separability
@@ -202,6 +283,9 @@ If any provision of this subchapter or of any amendment made by this subchapter,
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this part”, meaning part A of title II of Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 519, which is classified generally to this subchapter.
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1751"></a>
@@ -214,11 +298,19 @@ No provision of this Act shall be construed to require the assignment or transpo
 #### References in Text
 This Act, referred to in text, is Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484, as amended, known as the Education Amendments of 1974. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1752"></a>
 ## § 1752. Appeals from Federal district court transfer or transportation orders affecting school attendance areas and achieving balancing of students; postponement of Federal court orders pending exercise of appellate remedy; expiration of section
 
 Notwithstanding any other law or provision of law, in the case of any order on the part of any United States district court which requires the transfer or transportation of any student or students from any school attendance area prescribed by competent State or local authority for the purposes of achieving a balance among students with respect to race, sex, religion, or socioeconomic status, the effectiveness of such order shall be postponed until all appeals in connection with such order have been exhausted or, in the event no appeals are taken, until the time for such appeals has expired. This section shall expire at midnight on June 30, 1978.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1753"></a>
@@ -226,11 +318,21 @@ Notwithstanding any other law or provision of law, in the case of any order on t
 
 The rules of evidence required to prove that State or local authorities are practicing racial discrimination in assigning students to public schools shall be uniform throughout the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1754"></a>
 ## § 1754. Provisions respecting transportation of pupils to achieve racial balance and judicial power to insure compliance with constitutional standards applicable to the entire United States
 
 The proviso of section 407(a) of the Civil Rights Act of 1964 [[42 U.S.C. 2000c–6(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000c–6/a&num=0&edition=prelim)] providing in substance that no court or official of the United States shall be empowered to issue any order seeking to achieve a racial balance in any school by requiring the transportation of pupils or students from one school to another or one school district to another in order to achieve such racial balance, or otherwise enlarge the existing power of the court to insure compliance with constitutional standards shall apply to all public school pupils and to every public school system, public school and public school board, as defined by title IV [[42 U.S.C. 2000c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000c&num=0&edition=prelim) et seq.], under all circumstances and conditions and at all times in every State, district, territory, Commonwealth, or possession of the United States, regardless of whether the residence of such public school pupils or the principal offices of such public school system, public school or public school board is situated in the northern, eastern, western, or southern part of the United States.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1755"></a>
@@ -238,11 +340,21 @@ The proviso of section 407(a) of the Civil Rights Act of 1964 [[42 U.S.C. 2000c�
 
 Notwithstanding any other provision of law, after June 30, 1974 no court of the United States shall order the implementation of any plan to remedy a finding of de jure segregation which involves the transportation of students, unless the court first finds that all alternative remedies are inadequate.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 
 <a id="section-1756"></a>
 ## § 1756. Remedies with respect to school district lines
 
 In the formulation of remedies under this chapter the lines drawn by a State subdividing its territory into separate school districts, shall not be ignored or altered except where it is established that the lines were drawn, or maintained or crossed for the purpose, and had the effect of segregating children among public schools on the basis of race, color, sex, or national origin, or where it is established that, as a result of discriminatory actions within the school districts, the lines have had the effect of segregating children among public schools on the basis of race, color, sex, or national origin.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
 
 
 <a id="section-1757"></a>
@@ -261,6 +373,9 @@ In the formulation of remedies under this chapter the lines drawn by a State sub
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
+
 #### Transfer of Functions
 “Secretary”, meaning the Secretary of Education, substituted for “Commissioner” in subsec. (c) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
@@ -269,3 +384,8 @@ In the formulation of remedies under this chapter the lines drawn by a State sub
 ## § 1758. Reasonable time for developing voluntary school desegregation plans following detailed notice of violations
 
 Notwithstanding any other law or provision of law, no court or officer of the United States shall enter, as a remedy for a denial of equal educational opportunity or a denial of equal protection of the laws, any order for enforcement of a plan of desegregation or modification of a court-approved plan, until such time as the local educational agency to be affected by such order has been provided notice of the details of the violation and given a reasonable opportunity to develop a voluntary remedial plan. Such time shall permit the local educational agency sufficient opportunity for community participation in the development of a remedial plan.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).

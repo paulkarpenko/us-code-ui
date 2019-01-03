@@ -2,324 +2,12 @@
 title: 14
 chapter: '5'
 heading: FUNCTIONS AND POWERS
-section_count: 23
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
-<a id="section-81"></a>
-## § 81. Aids to navigation authorized
-
-In order to aid navigation and to prevent disasters, collisions, and wrecks of vessels and aircraft, the Coast Guard may establish, maintain, and operate:
-
-(1) aids to maritime navigation required to serve the needs of the armed forces or of the commerce of the United States;
-
-(2) aids to air navigation required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense and as required by any of those officials; and
-
-(3) electronic aids to navigation systems (a) required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or any department within the Department of Defense; or (b) required to serve the needs of the maritime commerce of the United States; or (c) required to serve the needs of the air commerce of the United States as requested by the Administrator of the Federal Aviation Administration.
-These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Based on title 14, U.S.C., 1946 ed.; §§ 50m, 50o, and on title 33, U.S.C., 1946 ed., §§ 720, 720a, 739, 740, 740a, 740b, 769 (R.S. 4668; June 23, 1874, ch. 455, § 1, 18 Stat. 220; June 17, 1910, ch. 301, § 7, 36 Stat. 538; Mar. 3, 1915, ch. 81, § 5, 38 Stat. 927; Aug. 28, 1916, ch. 414, § 3, 39 Stat. 538; May 22, 1926, ch. 371, § 6, 44 Stat. 626; Feb. 25, 1925, ch. 313, § 3, 45 Stat. 1262; Aug. 16, 1937, ch. 665, § 3, 50 Stat. 667; June 26, 1948, ch. 672, §§ 1, 3, 62 Stat. 1050).
-
-Changes were made in phraseology. 81st Congress, House Report No. 557.
-
-#### Amendments
-1982—Pub. L. 97–322 authorized the Coast Guard to contractually establish, maintain, and operate aids to maritime navigation.
-
-1976—Pub. L. 94–546 substituted “Federal Aviation Administration” for “Federal Aviation Agency” in cl. (3)(c).
-
-1966—Pub. L. 89–662 expanded authorization for establishment, maintenance, and operation of aids to air navigation and electronic aids to navigation systems required to serve the needs of the armed forces to include needs peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense, substituted “electronic aids to navigation systems” for “Loran stations”, and altered the list of locations where aids to navigation other than electronic aids to navigation could be located by adding the waters above the Continental Shelf and by striking out places where such aids to navigation had been established prior to June 26, 1948.
-
-1958—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics”.
-
-1954—Act Sept. 3, 1954, substituted “Department of Defense” for “National Military Establishment”.
-
-1951—Act June 22, 1951, extended Coast Guard’s authority to include the Trust Territory of the Pacific Islands.
-
-#### Effective Date of 1958 Amendment
-Pub. L. 85–726, title XV, § 1505(2), Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency [Federal Aviation Administration] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
-
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
-#### Discontinuance of an Aid to Navigation
-Pub. L. 114–120, title II, § 210, Feb. 8, 2016, 130 Stat. 41, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish a process for the discontinuance of an aid to navigation (other than a seasonal or temporary aid) established, maintained, or operated by the Coast Guard. “(b) Requirement.—The process established under subsection (a) shall include procedures to notify the public of any discontinuance of an aid to navigation described in that subsection. “(c) Consultation.—In establishing a process under subsection (a), the Secretary shall consult with and consider any recommendations of the Navigation Safety Advisory Council. “(d) Notification.—Not later than 30 days after establishing a process under subsection (a), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the process established.”
-
-#### Improved Safety Information for Vessels
-Pub. L. 113–281, title II, § 228, Dec. 18, 2014, 128 Stat. 3040, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 18, 2014], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels.”
-
-#### Aids to Navigation Report
-Pub. L. 105–383, title II, § 208, Nov. 13, 1998, 112 Stat. 3416, provided that: “Not later than 18 months after the date of the enactment of this Act [Nov. 13, 1998], the Commandant of the Coast Guard shall submit to Congress a report on the use of the Coast Guard’s aids to navigation system. The report shall include an analysis of the respective use of the aids to navigation system by commercial interests, members of the general public for personal recreation, Federal and State government for public safety, defense, and other similar purposes. To the extent practicable within the time allowed, the report shall include information regarding degree of use of the various portions of the system.”
-
-#### Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees
-Pub. L. 97–322, title I, § 105(b), Oct. 15, 1982, 96 Stat. 1582, provided that: “Not later than one year after the date of enactment of this title [Oct. 15, 1982], the Secretary of the department in which the Coast Guard is operating shall submit a report to the Congress evaluating— “(1) the exercise by contract of the authority of the Coast Guard under [section 81 of title 14](./chapter-005-functions-and-powers.md#section-81), United States Code, to establish, maintain, and operate aids to navigation, including a discussion of any problems involved in exercising such authority by contract, the reasons for exercising or failing to exercise such authority by contract in particular areas, and the feasibility of expanding the exercise of such authority by contract; and “(2) the advantages and disadvantages of increasing the ratio of civilian to military employees assigned to the establishment, maintenance, and operation of aids to navigation on the inland waterways of the United States.”
-
-#### Contractual Authority Dependent Upon Availability of Appropriated Funds
-Pub. L. 97–322, title I, § 105(c), Oct. 15, 1982, 96 Stat. 1582, provided that: “Any authority to enter into contracts provided in this section [amending this section and enacting provision set out as Report to Congress note under this section] shall be available only to the extent that appropriated funds are available for that purpose.”
-
-#### Ex. Ord. No. 7521. Use of Vessels for Ice-Breaking Operations in Channels and Harbors
-Ex. Ord. No. 7521, Dec. 21, 1936, 1 F.R. 2527, provided:
-
-1. The Coast Guard, operating under the direction of the Secretary of the Treasury, is hereby directed to assist in keeping open to navigation by means of ice-breaking operations, in so far as practicable and as the exigencies may require, channels and harbors in accordance with the reasonable demands of commerce; and to use for that purpose such vessels subject to its control and jurisdiction or which may be made available to it under paragraph 2 hereof as are necessary and are reasonably suitable for such operations.
-
-2. The Secretary of War [Army], the Secretary of the Navy, and the Secretary of Commerce are hereby directed to cooperate with the Coast Guard in such ice-breaking operations, and to furnish the Coast Guard, upon the request of the Commandant thereof, for this service such vessels under their jurisdiction and control as in the opinion of the Commandant, with the concurrence of the head of the Department concerned, are available and are, or may readily be made, suitable for this service.
-
-
-<a id="section-82"></a>
-## § 82. Repealed. Pub. L. 112–213, title II, § 216(b), Dec. 20, 2012, 126 Stat. 1555]
-
-### Statutory Notes
-
-Section, act Aug. 4, 1949, ch. 393, 63 Stat. 500; Sept. 3, 1954, ch. 1263, § 31, 68 Stat. 1237; Pub. L. 85–726, title XIV, § 1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 89–662, § 2, Oct. 14, 1966, 80 Stat. 912; Pub. L. 94–546, § 1(4), (5), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–295, § 2(3), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–640, § 10(a)(3), Nov. 10, 1986, 100 Stat. 3549; Pub. L. 103–272, § 5(d), July 5, 1994, 108 Stat. 1373; Pub. L. 104–201, div. A, title XI, § 1122(c), Sept. 23, 1996, 110 Stat. 2687, related to cooperation with Administrator of the Federal Aviation Administration with respect to aids to air navigation.
-
-
-<a id="section-83"></a>
-## § 83. Unauthorized aids to maritime navigation; penalty
-
-No person, or public body, or instrumentality, excluding the armed services, shall establish, erect, or maintain any aid to maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority to do so from the Coast Guard in accordance with applicable regulations. Whoever violates the provisions of this section or any of the regulations issued by the Secretary in accordance herewith shall be guilty of a misdemeanor and shall be fined not more than $1,500 for each offense. Each day during which such violation continues shall be considered as a new offense.
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Based on title 33, U.S.C., 1946 ed., § 759 (June 20, 1906, ch. 3447, § 3, 34 Stat. 324; June 17, 1910, ch. 301, § 6, 36 Stat. 538; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432).
-
-Changes were made in phraseology. 81st Congress, House Report No. 557.
-
-#### Amendments
-2014—Pub. L. 113–281 substituted “$1,500” for “$100”.
-
-1974—Pub. L. 93–283 substituted “maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority” for “maritime navigation without first obtaining authority”.
-
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
-
-
-<a id="section-84"></a>
-## § 84. Interference with aids to navigation; penalty
-
-It shall be unlawful for any person, or public body, or instrumentality, excluding the armed forces, to remove, change the location of, obstruct, wilfully damage, make fast to, or interfere with any aid to navigation established, installed, operated, or maintained by the Coast Guard pursuant to [section 81 of this title](./chapter-005-functions-and-powers.md#section-81), or with any aid to navigation lawfully maintained under authority granted by the Coast Guard pursuant to [section 83 of this title](./chapter-005-functions-and-powers.md#section-83), or to anchor any vessel in any of the navigable waters of the United States so as to obstruct or interfere with range lights maintained therein. Whoever violates the provisions of this section shall be guilty of a misdemeanor and shall be fined not more than $1,500 for each offense. Each day during which such violation shall continue shall be considered as a new offense.
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Based on title 33, U.S.C., 1946, ed., §§ 761, 762 (May 14, 1908, ch. 168, § 6, 35 Stat. 162; June 17, 1910, ch. 301, § 6, 36 Stat. 538; Mar. 3, 1915, ch. 81, § 8, 38 Stat. 928; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432).
-
-Changes were made in phraseology. 81st Congress, House Report No. 557.
-
-#### Amendments
-2014—Pub. L. 113–281 substituted “$1,500” for “$500”.
-
-
-<a id="section-85"></a>
-## § 85. Aids to maritime navigation; penalty
-
-The Secretary shall prescribe and enforce necessary and reasonable rules and regulations, for the protection of maritime navigation, relative to the establishment, maintenance, and operation of lights and other signals on fixed and floating structures in or over waters subject to the jurisdiction of the United States and in the high seas for structures owned or operated by persons subject to the jurisdiction of the United States. Any owner or operator of such a structure, excluding an agency of the United States, who violates any of the rules or regulations prescribed hereunder, commits a misdemeanor and shall be punished, upon conviction thereof, by a fine of not exceeding $1,500 for each day which such violation continues.
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Based on title 33, U.S.C., 1946 ed., § 760 (May 14, 1908, ch. 168, § 5, 35 Stat. 162).
-
-Changes were made in phraseology. 81st Congress, House Report No. 557.
-
-#### Amendments
-2014—Pub. L. 113–281 substituted “$1,500” for “$100”.
-
-1974—Pub. L. 93–283 struck out “on fixed structures” after “maritime navigation” in section catchline and in text substituted “fixed and floating structures in or over waters subject to the jurisdiction of the United States and in the high seas for structures owned or operated by persons subject to the jurisdiction of the United States” for “fixed structures in or over navigable waters of the United States”.
-
-1956—Act June 4, 1956, amended section generally, vesting in Secretary rule-making authority, for the protection of maritime navigation, relative to the establishment, maintenance, and operation of lights and other signals on fixed structures in or over navigable waters of the United States, and excluding agencies of United States from its provisions.
-
-
-<a id="section-86"></a>
-## § 86. Marking of obstructions
-
-The Secretary may mark for the protection of navigation any sunken vessel or other obstruction existing on the navigable waters or waters above the continental shelf of the United States in such manner and for so long as, in his judgment, the needs of maritime navigation require. The owner of such an obstruction shall be liable to the United States for the cost of such marking until such time as the obstruction is removed or its abandonment legally established or until such earlier time as the Secretary may determine. All moneys received by the United States from the owners of obstructions, in accordance with this section, shall be covered into the Treasury of the United States as miscellaneous receipts. This section shall not be construed so as to relieve the owner of any such obstruction from the duty and responsibility suitably to mark the same and remove it as required by law.
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Based on title 33, U.S.C., 1946 ed., § 736 (R.S. 4676; June 17, 1910, ch. 301, § 6, 36 Stat. 538; Aug. 16, 1937, ch. 665, § 1, 50 Stat. 666; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432).
-
-Changes were made in phraseology. 81st Congress, House Report No. 557.
-
-#### Amendments
-1974—Pub. L. 93–283 substituted “the navigable waters or waters above the continental shelf of the United States” for “any navigable waters of the United States”.
-
-1965—Pub. L. 89–191 vested sole responsibility for wreck marking in the Coast Guard by giving the Secretary discretionary authority to mark wrecks or other similar obstructions for as long as in his judgment the needs of maritime navigation may require, by removing reference to responsibility of the Department of the Army to mark wrecks, after abandonment and before removal, and by giving the Secretary the authority to terminate an owner’s liability to pay the cost of marking a wreck.
-
-
-<a id="section-87"></a>
-## § 87. Icebreaking in polar regions
-
-The President shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers as needed to support the statutory missions of the Coast Guard in the polar regions by allocating all funds to support icebreaking operations in such regions, except for recurring incremental costs associated with specific projects, to the Coast Guard.
-
-### Statutory Notes
-
-#### Prior Provisions
-A prior section 87, act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 501, related to color and numbering of buoys along coast, or in bays, harbors, sounds, or channels, as indicating whether such buoys were to be passed on the starboard or port hand and prescribed the coloring for buoys in channel ways, prior to repeal by Pub. L. 94–546, § 1(6), (7), Oct. 18, 1976, 90 Stat. 2519.
-
-#### Incremental Funding Authority for Polar Icebreakers
-Pub. L. 114–120, title II, § 207(a), Feb. 8, 2016, 130 Stat. 37, provided that: “In fiscal year 2016 and each fiscal year thereafter, the Commandant of the Coast Guard may enter into a contract or contracts for the acquisition of polar icebreakers and associated equipment using incremental funding.”
-
-
-<a id="section-88"></a>
-## § 88. Saving life and property
-**(a)** In order to render aid to distressed persons, vessels, and aircraft on and under the high seas and on and under the waters over which the United States has jurisdiction and in order to render aid to persons and property imperiled by flood, the Coast Guard may:
-
-(1) perform any and all acts necessary to rescue and aid persons and protect and save property;
-
-(2) take charge of and protect all property saved from marine or aircraft disasters, or floods, at which the Coast Guard is present, until such property is claimed by persons legally authorized to receive it or until otherwise disposed of in accordance with law or applicable regulations, and care for bodies of those who may have perished in such catastrophes;
-
-(3) furnish clothing, food, lodging, medicines, and other necessary supplies and services to persons succored by the Coast Guard; and
-
-(4) destroy or tow into port sunken or floating dangers to navigation.
-
-**(b)**
-
-(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
-
-(2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to [section 8904(b) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section8904/b&num=0&edition=prelim), United States Code, in rendering aid under this subsection in nonemergency cases.
-
-**(c)** An individual who knowingly and willfully communicates a false distress message to the Coast Guard or causes the Coast Guard to attempt to save lives and property when no help is needed is—
-
-(1) guilty of a class D felony;
-
-(2) subject to a civil penalty of not more than $10,000; and
-
-(3) liable for all costs the Coast Guard incurs as a result of the individual’s action.
-
-**(d)** The Secretary shall establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills, which may include rescue diver training.
-
-**(e)** An individual who knowingly and willfully operates a device with the intention of interfering with the broadcast or reception of a radio, microwave, or other signal (including a signal from a global positioning system) transmitted, retransmitted, or augmented by the Coast Guard for the purpose of maritime safety is—
-
-(1) guilty of a class E felony; and
-
-(2) subject to a civil penalty of not more than $1,000 per day for each violation.
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Derived from title 14, U.S.C., 1946 ed., §§ 29, 53, 55, 60, 61, 62, 63, 104, and title 34, U.S.C., 1946 ed., § 471 (R.S. 1536, R.S. 2759; June 18, 1878, ch. 265, § 4, 20 Stat. 163; Apr. 19, 1906, ch. 1640, §§ 1–3, 34 Stat. 123; May 12, 1906, ch. 2454, 34 Stat. 190; June 24, 1914, ch. 124, 38 Stat. 387; Aug. 29, 1916, ch. 417, 39 Stat. 601; Aug. 6, 1947, ch. 502, 61 Stat. 786).
-
-This section broadens existing law in that it authorizes the Coast Guard to engage in saving life and property in the broadest possible terms, without limitation as to place. This section reflects existing sentiment as to Coast Guard functions in relation to saving life and property. There is no intention to supersede or conflict with the present authority of the Civil Aeronautics Board to investigate certain aircraft wrecks. 81st Congress, House Report No. 557.
-
-#### Amendments
-2014—Subsec. (c)(2). Pub. L. 113–281 substituted “$10,000” for “$5,000”.
-
-2012—Subsec. (e). Pub. L. 112–213 added subsec. (e).
-
-1996—Subsec. (d). Pub. L. 104–324 added subsec. (d).
-
-1990—Subsec. (c). Pub. L. 101–595 added subsec. (c).
-
-1988—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2).
-
-1970—Subsec. (a). Pub. L. 91–278 substituted “on and under the high seas and on and under the waters” for “on the high seas and on waters” in introductory text.
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-#### Modernization of National Distress and Response System
-Pub. L. 107–295, title III, § 346, Nov. 25, 2002, 116 Stat. 2107, which required annual reports on the modernization of the National Distress and Response System, was repealed by Pub. L. 113–188, title X, § 1001(d)(1), Nov. 26, 2014, 128 Stat. 2022.
-
-#### Helicopter Rescue Swimming Program
-Pub. L. 98–557, § 9, Oct. 30, 1984, 98 Stat. 2862, required Secretary of department in which Coast Guard was operating to use such sums as necessary, from amounts appropriated for operation and maintenance of Coast Guard, to establish helicopter rescue swimming program for purpose of training selected Coast Guard personnel in rescue swimming skills, prior to repeal by Pub. L. 104–324, title II, § 213(b), Oct. 19, 1996, 110 Stat. 3915.
-
-#### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
-Pub. L. 97–322, title I, § 113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, § 30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: “The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise.”
-
-
-<a id="section-89"></a>
-## § 89. Law enforcement
-**(a)** The Coast Guard may make inquiries, examinations, inspections, searches, seizures, and arrests upon the high seas and waters over which the United States has jurisdiction, for the prevention, detection, and suppression of violations of laws of the United States. For such purposes, commissioned, warrant, and petty officers may at any time go on board of any vessel subject to the jurisdiction, or to the operation of any law, of the United States, address inquiries to those on board, examine the ship’s documents and papers, and examine, inspect, and search the vessel and use all necessary force to compel compliance. When from such inquiries, examination, inspection, or search it appears that a breach of the laws of the United States rendering a person liable to arrest is being, or has been committed, by any person, such person shall be arrested or, if escaping to shore, shall be immediately pursued and arrested on shore, or other lawful and appropriate action shall be taken; or, if it shall appear that a breach of the laws of the United States has been committed so as to render such vessel, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel, liable to forfeiture, or so as to render such vessel liable to a fine or penalty and if necessary to secure such fine or penalty, such vessel or such merchandise, or both, shall be seized.
-
-**(b)** The officers of the Coast Guard insofar as they are engaged, pursuant to the authority contained in this section, in enforcing any law of the United States shall:
-
-(1) be deemed to be acting as agents of the particular executive department or independent establishment charged with the administration of the particular law; and
-
-(2) be subject to all the rules and regulations promulgated by such department or independent establishment with respect to the enforcement of that law.
-
-**(c)** The provisions of this section are in addition to any powers conferred by law upon such officers, and not in limitation of any powers conferred by law upon such officers, or any other officers of the United States.
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Based on title 14, U.S.C., 1946 ed., §§ 45–47, 51, 52, 66, 67, 104, and on title 33, U.S.C., 1946 ed., § 755 (R.S. 2747, 2758, 2760, 2762; June 18, 1878, ch. 265, § 4, 20 Stat. 163; June 16, 1880, ch. 235, 21 Stat. 263; June 22, 1936, ch. 705, §§ 1–3, 49 Stat. 1820; July 11, 1941, ch. 290, § 7, 55 Stat. 585).
-
-The words “or such merchandise” are inserted in the last clause of subsection (a) in order to provide for situations where it may be desirable to seize merchandise without seizing the vessel.
-
-Changes were made in phraseology. 81st Congress, House Report No. 557.
-
-#### Amendments
-1950—Subsec. (a). Act Aug. 3, 1950, struck out “to” before “examine” in second sentence.
-
-#### Annual Report on Drug Interdiction
-Pub. L. 104–324, title I, § 103, Oct. 19, 1996, 110 Stat. 3905, as amended by Pub. L. 109–241, title IX, § 901(p)(1), July 11, 2006, 120 Stat. 565, which required annual report to congressional committees on all expenditures related to drug interdiction activities of the Coast Guard, was repealed by Pub. L. 113–281, title II, § 221(a)(3), Dec. 18, 2014, 128 Stat. 3037.
-
-#### Enhanced Drug-Interdiction Assistance
-Pub. L. 99–145, title XIV, § 1421, Nov. 8, 1985, 99 Stat. 750, required assignment of a member of the Coast Guard to each surface naval vessel at sea in a drug-interdiction area to perform law enforcement functions, prior to repeal by Pub. L. 99–570, title III, § 3053(b)(3), Oct. 27, 1986, 100 Stat. 3207–76. See [section 279 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section279&num=0&edition=prelim), Armed Forces.
-
-
-<a id="section-90"></a>
-## § 90. Arctic maritime transportation
-**(a) Purpose.—** The purpose of this section is to ensure safe and secure maritime shipping in the Arctic including the availability of aids to navigation, vessel escorts, spill response capability, and maritime search and rescue in the Arctic.
-
-**(b) International Maritime Organization Agreements.—** To carry out the purpose of this section, the Secretary is encouraged to enter into negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States, Russia, Canada, Iceland, Norway, and Denmark and other seafaring and Arctic nations to ensure, in the Arctic—
-
-(1) placement and maintenance of aids to navigation;
-
-(2) appropriate marine safety, tug, and salvage capabilities;
-
-(3) oil spill prevention and response capability;
-
-(4) maritime domain awareness, including long-range vessel tracking; and
-
-(5) search and rescue.
-
-**(c) Coordination by Committee on the Maritime Transportation System.—** The Committee on the Maritime Transportation System established under [section 55501 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55501&num=0&edition=prelim), United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
-
-**(d) Agreements and Contracts.—** The Secretary may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to, individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
-
-**(e) Icebreaking.—** The Secretary shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
-
-**(f) Arctic Definition.—** In this section, the term “Arctic”? 11 So in original. has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4111&num=0&edition=prelim)).
-
-### Statutory Notes
-
-#### Prior Provisions
-A prior section 90, act Aug. 4, 1949, ch. 393, 63 Stat. 502; Pub. L. 85–726, title XIV, § 1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 94–546, § 1(8), Oct. 18, 1976, 90 Stat. 2519, authorized the Coast Guard to operate and maintain floating ocean stations, prior to repeal by Pub. L. 112–213, title II, § 216(c), Dec. 20, 2012, 126 Stat. 1555.
-
-
-<a id="section-91"></a>
-## § 91. Safety of naval vessels
-**(a)** The Secretary may control the anchorage and movement of any vessel in the navigable waters of the United States to ensure the safety or security of any United States naval vessel in those waters.
-
-**(b)** If the Secretary does not exercise the authority in subsection (a) of this section and immediate action is required, the senior naval officer present in command may control the anchorage or movement of any vessel in the navigable waters of the United States to ensure the safety and security of any United States naval vessel under the officer’s command.
-
-**(c)** If a person violates, or a vessel is operated in violation of, this section or a regulation or order issued under this section, the person or vessel is subject to the enforcement provisions in section 13 of the Ports and Waterways Safety Act ([33 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1232&num=0&edition=prelim)).
-
-**(d)** As used in this section “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Based on title 14, U.S.C., 1946 ed., § 48a (Nov. 15, 1941, ch. 471, § 1, 55 Stat. 763).
-
-Changes were made in phraseology. 81st Congress, House Report No. 557.
-
-#### References in Text
-Presidential Proclamation No. 5928, referred to in subsec. (d), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
-#### Amendments
-2006—Subsec. (d). Pub. L. 109–241 added subsec. (d).
-
-1986—Pub. L. 99–640 amended section generally. Prior to amendment, section read as follows: “The captain of the port, Coast Guard district commander, or other officer of the Coast Guard designated by the Commandant thereof, or the Governor of the Panama Canal in the case of the territory and waters of the Canal Zone, shall so control the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, as to insure the safety or security of such United States naval vessels as may be present in his jurisdiction. In territorial waters of the United States where immediate action is required, or where representatives of the Coast Guard are not present, or not present in sufficient force to exercise effective control of shipping as provided herein, the senior naval officer present in command of any naval force may control the anchorage or movement of any vessel, foreign or domestic, to the extent deemed necessary to insure the safety and security of his command.”
-
-
-<a id="section-92"></a>
-## § 92. Secretary; general powers
+<a id="section-501"></a>
+## § 501. Secretary; general powers
 
 For the purpose of executing the duties and functions of the Coast Guard the Secretary may within the limits of appropriations made therefor:
 
@@ -329,17 +17,15 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 
 **(c)** construct, or cause to be constructed, Coast Guard shore establishments;
 
-**(d)** design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
+**(d)** design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, aircraft, and systems, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
 
-**(e)** Repealed. Oct. 31, 1951, ch. 654, § 1(32), 65 Stat. 702.]
+**(e)** acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
 
-**(f)** acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
+**(f)** exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
 
-**(g)** exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
+**(g)** exercise any of the powers vested by this title in the Commandant in any case in which the Secretary deems it appropriate; and
 
-**(h)** exercise any of the powers vested by this title in the Commandant in any case in which the Secretary deems it appropriate; and
-
-**(i)** do any and all things necessary to carry out the purposes of this title.
+**(h)** do any and all things necessary to carry out the purposes of this title.
 
 ### Statutory Notes
 
@@ -366,7 +52,16 @@ Subsection (i) is based in part on title 14, U.S.C., 1946 ed., §§ 51, 131 (R.S
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### Prior Provisions
+A prior section 501 was renumbered [section 2745 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2745).
+
 #### Amendments
+2018—Pub. L. 115–282, § 105(b), renumbered [section 92 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section92&num=0&edition=prelim) as this section.
+
+Subsec. (d). Pub. L. 115–282, § 311(a), inserted “aircraft, and systems,” after “vessels,”.
+
+Subsecs. (e) to (i). Pub. L. 115–232 redesignated subsecs. (f) to (i) as (e) to (h), respectively.
+
 2011—Subsec. (d). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
 
 2002—Subsec. (d). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” for “([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)”.
@@ -383,9 +78,6 @@ Subsec. (e). Act Oct. 31, 1951, § 1(32), repealed subsec. (e) which empowered t
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-#### Arctic Marine Shipping Assessment Implementation
-Pub. L. 111–281, title III, § 307, Oct. 15, 2010, 124 Stat. 2927, which related to encouragement of negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States and other seafaring and Arctic nations to ensure safe and secure maritime shipping in the Arctic, was repealed by Pub. L. 113–281, title V, § 501(c), Dec. 18, 2014, 128 Stat. 3057.
 
 #### Conveyance of Coast Guard Vessels for Public Purposes
 Pub. L. 111–281, title IX, § 914, Oct. 15, 2010, 124 Stat. 3018, provided that: “(a) In General.—Whenever the transfer of ownership of a Coast Guard vessel or aircraft to an eligible entity for use for educational, cultural, historical, charitable, recreational, or other public purposes is authorized by law or declared excess by the Commandant, the Coast Guard shall transfer the vessel or aircraft to the General Services Administration for conveyance to the eligible entity. “(b) Conditions of Conveyance.—The General Services Administration may not convey a vessel or aircraft to an eligible entity as authorized by law unless the eligible entity agrees—“(1) to provide the documentation needed by the General Services Administration to process a request for aircraft or vessels under section 102.37.225 of title 41, Code of Federal Regulations; “(2) to comply with the special terms, conditions, and restrictions imposed on aircraft and vessels under section 102.37.460 of such title; “(3) to make the vessel available to the United States Government if it is needed for use by the Commandant of the Coast Guard in time of war or a national emergency; and “(4) to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel, except for claims arising from use of the vessel by the United States Government under paragraph (3). “(c) Other Obligations Unaffected.—Nothing in this section amends or affects any obligation of the Coast Guard or any other person under the Toxic Substances Control Act ([15 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) et seq.) or any other law regarding use or disposal of hazardous materials including asbestos and polychlorinated biphenyls. “(d) Eligible Entity Defined.—In this section, the term ‘eligible entity’ means a State or local government, nonprofit corporation, educational agency, community development organization, or other entity that agrees to comply with the conditions established under this section.”
@@ -416,9 +108,6 @@ Pub. L. 101–225, title II, § 213, Dec. 12, 1989, 103 Stat. 1914, provided tha
 
 #### Lifesaving Equipment on Passenger Ferries
 Pub. L. 98–557, § 10, Oct. 30, 1984, 98 Stat. 2863, provided that: “The Secretary of the department in which the Coast Guard is operating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries.”
-
-#### Leasing of Existing Housing for Assignment as Public Quarters to Military Personnel and Dependents
-Pub. L. 89–381, § 2, Mar. 30, 1966, 80 Stat. 97, during fiscal years 1967 through and including 1968, authorized the Secretary of the Department in which the Coast Guard was operating to lease existing housing facilities at or near Coast Guard installations in the United States and Puerto Rico for assignment as public quarters to military personnel and their dependents.
 
 #### Aircraft
 Provisions specifying the maximum number of aircraft on hand at any one time, exclusive of planes and parts stored to meet future attrition, were contained in the following appropriation acts:
@@ -473,7 +162,7 @@ Pub. L. 93–391, title I, Aug. 28, 1974, 88 Stat. 769.
 
 Pub. L. 93–98, title I, Aug. 16, 1973, 87 Stat. 330.
 
-Pub. L. 93–398, title I, Aug. 22, 1972, 86 Stat. 581.
+Pub. L. 92–398, title I, Aug. 22, 1972, 86 Stat. 581.
 
 Pub. L. 92–74, title I, Aug. 10, 1971, 85 Stat. 202.
 
@@ -525,12 +214,52 @@ July 1, 1947, ch. 186, title I, 61 Stat. 227.
 
 July 12, 1946, ch. 569, § 1, 60 Stat. 531.
 
-#### Appropriation Authorization for Construction of Shore or Offshore Establishments or for Procurement of Vessels or Aircraft
-Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal year 1964, funds could not be appropriated to or for the use of the Coast Guard for the construction of shore or offshore establishments, or for the procurement of vessels or aircraft, unless the appropriation of such funds had been authorized by legislation enacted after Dec. 31, 1963, prior to repeal by Pub. L. 99–640, § 10(a)(9), Nov. 10, 1986, 100 Stat. 3549.
+
+<a id="section-502"></a>
+## § 502. Delegation of powers by the Secretary
+
+The Secretary is authorized to confer or impose upon the Commandant any of the rights, privileges, powers, or duties, in respect to the administration of the Coast Guard, vested in or imposed upon the Secretary by this title or other provisions of law.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+This section authorizes the Secretary to delegate to the Commandant any of the authority granted to him in respect to the administration of the Coast Guard. Such power to delegate is granted by other statutes to the heads of many of the executive departments. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+A prior section 502 was renumbered [section 2746 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2746).
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 631 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section631&num=0&edition=prelim) as this section.
+
+1976—Pub. L. 94–546 substituted “Secretary” for “Secretary of the Treasury” wherever appearing and substituted “Commandant” for “Commandant of the Coast Guard”.
+
+#### Administrative Advisory Committees; Solicitation of Nominations for Membership; Publication in Federal Register; Disclosures to Congress; Compensation and Travel Expenses
+Pub. L. 97–322, title I, § 118(e), Oct. 15, 1982, 96 Stat. 1587, provided that: “(1) The Secretary of the department in which the Coast Guard is operating shall, not less often than once a year, publish notice in the Federal Register for solicitation of nominations for membership on any advisory committee established administratively for the purpose of giving advice and recommendations to such Secretary or the Commandant of the Coast Guard with respect to functions of the Coast Guard. “(2) Any advisory committee described in paragraph (1) of this subsection is authorized to make available to Congress any information, advice, and recommendations which the committee is authorized to give to the Secretary of the department in which the Coast Guard is operating or the Commandant of the Coast Guard. “(3) Members of any advisory committee described in paragraph (1) of this subsection who are not officers or employees of the United States shall serve without pay and members of any such committee who are officers or employees of the United States shall receive no additional pay on account of their service on such committee. While away from their homes or regular places of business, members of any such committee may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), United States Code.”
 
 
-<a id="section-93"></a>
-## § 93. Commandant; general powers
+<a id="section-503"></a>
+## § 503. Regulations
+
+In addition to the authority conferred by other provisions of this title the Secretary may promulgate such regulations and orders as he deems appropriate to carry out the provisions of this title or any other law applicable to the Coast Guard.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., §§ 92, 185e (June 20, 1874, ch. 344, § 8, 18 Stat. 127; May 26, 1906, ch. 2556, § 1, 34 Stat. 200; May 24, 1939, ch. 146, § 6, 53 Stat. 756).
+
+This section enlarges said sections to prescribe what is generally understood in a military organization, that the promulgation of regulations is a function of the head of the Department.
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+A prior section 503 was renumbered [section 2747 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2747).
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 633 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section633&num=0&edition=prelim) as this section.
+
+
+<a id="section-504"></a>
+## § 504. Commandant; general powers
 **(a)** For the purpose of executing the duties and functions of the Coast Guard the Commandant may:
 
 (1) maintain water, land, and air patrols, and ice-breaking facilities;
@@ -545,7 +274,7 @@ Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal ye
 
 (6) collect, publish, and distribute information concerning Coast Guard operations;
 
-(7) conduct or make available to personnel of the Coast Guard, and to eligible spouses as defined under section 542, such specialized training and courses of instruction, including correspondence courses and the textbooks, manuals, and other materials required as part of such training or course of instruction, as may be necessary or desirable for the good of the service;
+(7) conduct or make available to personnel of the Coast Guard, and to eligible spouses as defined under section 2904, such specialized training and courses of instruction, including correspondence courses and the textbooks, manuals, and other materials required as part of such training or course of instruction, as may be necessary or desirable for the good of the service;
 
 (8) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
 
@@ -557,7 +286,7 @@ Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal ye
 
 (12) accept and utilize, in times of emergency in order to save life or protect property, such voluntary services as may be offered to the Coast Guard;
 
-(13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the fund established under section 687;
+(13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the fund established under section 2946;
 
 (14) grant, under such terms and conditions as are deemed advisable, permits, licenses, easements, and rights-of-way over, across, in, and upon lands under the control of the Coast Guard when in the public interest and without substantially injuring the interests of the United States in the property thereby affected;
 
@@ -577,7 +306,7 @@ Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal ye
 
 (20) enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
 
-(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in [section 30304(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30304/a&num=0&edition=prelim), be made available to the Commandant under [section 30305(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/a&num=0&edition=prelim), may receive that information, and upon receipt, shall make the information available to the individual;
+(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in [section 30304(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30304/a&num=0&edition=prelim), be made available to the Commandant under [section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim), may receive that information, and upon receipt, shall make the information available to the individual;
 
 (22) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
 
@@ -595,9 +324,9 @@ Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal ye
 
   (A) to the United States Coast Guard Academy Alumni Association for the construction of an Alumni Center on the grounds of the United States Coast Guard Academy; or
 
-  (B) to an entity with which the Commandant has a cooperative agreement under section 4(e) of the Ports and Waterways Safety Act, and for which a term longer than 5 years is necessary to carry out the agreement.
+  (B) to an entity with which the Commandant has a cooperative agreement under section 4(e) 11 See References in Text note below. of the Ports and Waterways Safety Act, and for which a term longer than 5 years is necessary to carry out the agreement.
 
-**(c) Marine Safety Responsibilities.—** In exercising the Commandant’s duties and responsibilities with regard to marine safety, the individual with the highest rank who meets the experience qualifications set forth in section 50(a)(3) shall serve as the principal advisor to the Commandant regarding—
+**(c) Marine Safety Responsibilities.—** In exercising the Commandant’s duties and responsibilities with regard to marine safety, the individual with the highest rank who meets the experience qualifications set forth in section 305(a)(3) shall serve as the principal advisor to the Commandant regarding—
 
 (1) the operation, regulation, inspection, identification, manning, and measurement of vessels, including plan approval and the application of load lines;
 
@@ -633,9 +362,9 @@ Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal ye
 
 **(d) Other Authority Not Affected.—** Nothing in subsection (c) affects—
 
-(1) the authority of Coast Guard officers and members to enforce marine safety regulations using authority under [section 89 of this title](./chapter-005-functions-and-powers.md#section-89); or
+(1) the authority of Coast Guard officers and members to enforce marine safety regulations using authority under [section 522 of this title](./chapter-005-functions-and-powers.md#section-522); or
 
-(2) the exercise of authority under [section 91 of this title](./chapter-005-functions-and-powers.md#section-91) and the provisions of law codified at sections 191 through 195 of title 50 on the date of enactment of this paragraph.
+(2) the exercise of authority under [section 527 of this title](./chapter-005-functions-and-powers.md#section-527) and the provisions of law codified at sections 191 through 195 of title 50 on the date of enactment of this paragraph.
 
 **(e) Operation and Maintenance of Coast Guard Assets and Facilities.—** All authority, including programmatic budget authority, for the operation and maintenance of Coast Guard vessels, aircraft, systems, aids to navigation, infrastructure, and other assets or facilities shall be allocated to and vested in the Coast Guard and the department in which the Coast Guard is operating.
 
@@ -651,7 +380,7 @@ Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal ye
 
   (C) the lease does not provide authority to or commit the Coast Guard to use or support any improvements to such submerged lands and tidelands, or obtain goods and services from the lessee; and
 
-  (D) proceeds from the lease are deposited in the Coast Guard Housing Fund established under section 687.
+  (D) proceeds from the lease are deposited in the Coast Guard Housing Fund established under section 2946.
 
 ### Statutory Notes
 
@@ -664,7 +393,7 @@ Subsection (b) is derived from R.S. 4242 and title 14, U.S.C., 1946 ed., §§ 29
 
 Subsection (c) is derived from title 14, U.S.C., 1946 ed., §§ 54, 97, 112 (May 4, 1882, ch. 117, § 3, 22 Stat. 56; May 30, 1908, ch. 231, 35 Stat. 553; Apr. 21, 1910, ch. 182, § 2, 36 Stat. 326), and specifically grants to the Commandant authority in regard to the assignment of vessels, vehicles, aids to navigation, and other equipment. This power is inherent to the proper functioning of any Service.
 
-Subsection (d) is based on title 14, U.S.C., 1946 ed., § 91 (June 18, 1878, ch. 265, § 7, 20 Stat. 164; June 10, 1921, ch. 18, § 304, 42 Stat. 24; July 3, 1926, ch. 742, § 9, 44 Stat. 817). Said section has been divided. The part dealing with investigation of plans and inventions is covered in this subsection in broader terms, and the other parts are covered in general terms in [section 632 of this title](./chapter-017-administration.md#section-632).
+Subsection (d) is based on title 14, U.S.C., 1946 ed., § 91 (June 18, 1878, ch. 265, § 7, 20 Stat. 164; June 10, 1921, ch. 18, § 304, 42 Stat. 24; July 3, 1926, ch. 742, § 9, 44 Stat. 817). Said section has been divided. The part dealing with investigation of plans and inventions is covered in this subsection in broader terms, and the other parts are covered in general terms in [section 632 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section632&num=0&edition=prelim).
 
 Subsection (e) is based on title 14, U.S.C., 1946 ed., § 111 (June 18, 1878, ch. 265, § 9, 20 Stat. 164). This section has been rewritten to broaden the authority to include any investigation or study that may be of assistance to the Coast Guard, the limitation as to investigation of shipwrecks having been eliminated.
 
@@ -697,11 +426,32 @@ Subsection (q) is new and is necessary in order to provide clear authority for t
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### References in Text
-Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2)(B), is section 4(e) of Pub. L. 92–340, which is classified to [section 1223(e) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/e&num=0&edition=prelim), Navigation and Navigable Waters.
+Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2)(B), is section 4(e) of Pub. L. 92–340, which was classified to [section 1223(e) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/e&num=0&edition=prelim), Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding [section 101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section101&num=0&edition=prelim), Shipping, and [section 70001 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70001&num=0&edition=prelim).
 
 The date of enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
+#### Prior Provisions
+A prior section 504 was renumbered [section 2733 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2733).
+
+Another prior section 504, act Aug. 4, 1949, ch. 393, 63 Stat. 537, related to disposition of the remains of deceased Coast Guard personnel, prior to repeal by act July 15, 1954, ch. 507, § 14(c)(5), 68 Stat. 481. For provisions relating to recovery, care, and disposition of the remains of deceased personnel of the uniformed services and deceased civilian personnel, see [section 1481 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1481&num=0&edition=prelim), Armed Forces.
+
 #### Amendments
+2018—Pub. L. 115–282, § 105(b)(2), renumbered [section 93 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93&num=0&edition=prelim) as this section.
+
+Subsec. (a)(7). Pub. L. 115–282, § 123(b)(2), substituted “section 2904” for “section 542”.
+
+Subsec. (a)(13). Pub. L. 115–282, § 123(b)(2), substituted “section 2946” for “section 687”.
+
+Subsec. (a)(21). Pub. L. 115–232 substituted “section 30305(b)(7)” for “section 30305(a)”.
+
+Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “section 305(a)(3)” for “section 50(a)(3)” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 522” for “section 89”.
+
+Subsec. (d)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 527” for “section 91”.
+
+Subsec. (f)(2)(D). Pub. L. 115–282, § 123(b)(2), substituted “section 2946” for “section 687”.
+
 2016—Subsec. (a)(25). Pub. L. 114–120, § 610(b), added par. (25).
 
 Subsec. (f)(2). Pub. L. 114–120, § 209(4), added par. (2) and struck out former par. (2) which related to limitation on leasing of tidelands and submerged lands.
@@ -769,11 +519,19 @@ Subsec. (p). Act Aug. 3, 1950, substituted “; and” for the period at end.
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Electronic Health Records
+Pub. L. 115–282, title III, § 305(c), Dec. 4, 2018, 132 Stat. 4246, provided that: “(1) System.—The Commandant of the Coast Guard is authorized to procure for the Coast Guard an electronic health record system that—“(A) has been competitively awarded by the Department of Defense; and “(B) ensures full integration with the Department of Defense electronic health record systems. “(2) Support services.—“(A) In general.—The Commandant is authorized to procure support services for the electronic health record system procured under paragraph (1) necessary to ensure full integration with the Department of Defense electronic health record systems. “(B) Scope.—Support services procured pursuant to this paragraph may include services for the following:“(i) System integration support. “(ii) Hosting support. “(iii) Training, testing, technical, and data migration support. “(iv) Hardware support. “(v) Any other support the Commandant considers appropriate. “(3) Authorized procurement actions.—The Commandant is authorized to procure an electronic health record system under this subsection through the following:“(A) A task order under the Department of Defense electronic health record contract. “(B) A sole source contract award. “(C) An agreement made pursuant to sections 1535 and 1536 of title 31, United States Code. “(D) A contract or other procurement vehicle otherwise authorized. “(4) Competition in contracting; exemption.—Procurement of an electronic health record system and support services pursuant to this subsection shall be exempt from the competition requirements of [section 2304 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), United States Code.”
+
+#### Training of Coast Guard Personnel
+Pub. L. 115–265, title II, § 210, Oct. 11, 2018, 132 Stat. 3748, provided that: “(a) Prospective Sector Commander Training.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall implement an Officer in Charge, Marine Inspections segment to the sector commander indoctrination course for prospective sector commanders without a Coast Guard prevention ashore officer specialty code. “(b) Steamship Inspections.—Not later than 1 year after the date of the enactment of this Act, the Commandant shall implement steam plant inspection training for Coast Guard marine inspectors and, subject to availability, recognized organizations to which authority is delegated under [section 3316 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3316&num=0&edition=prelim), United States Code. “(c) Advanced Journeyman Inspector Training.—“(1) In general.—Not later than 2 years after the date of the enactment of this Act, the Commandant shall establish advanced training to provide instruction on the oversight of recognized organizations to which authority is delegated under [section 3316 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3316&num=0&edition=prelim), United States Code, auditing responsibilities, and the inspection of unique vessel types. “(2) Recipients.—The Commandant shall—“(A) require that such training be completed by senior Coast Guard marine inspectors; and “(B) subject to availability of training capacity, make such training available to recognized organization surveyors authorized by the Coast Guard to conduct inspections. “(d) Coast Guard Inspections Staff; Briefing.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing detailing—“(1) the estimated time and funding necessary to triple the current size of the Coast Guard’s traveling inspector staff; and “(2) other options available to the Coast Guard to enhance and maintain marine safety knowledge, including discussion of increased reliance on—“(A) civilian marine inspectors; “(B) experienced licensed mariners; “(C) retired members of the Coast Guard; “(D) arranging for Coast Guard inspectors to ride onboard commercial oceangoing vessels documented under chapter 121 of title 46, United States Code, to gain experience and insight; and “(E) extending tour-lengths for Coast Guard marine safety officers assigned to inspection billets. “(e) Audits; Coast Guard Attendance and Performance.—Not later than 180 days after the date of the enactment of this Act, the Commandant shall—“(1) update Coast Guard policy to utilize risk analysis to target the attendance of Coast Guard personnel during external safety management certificate and document of compliance audits; and “(2) perform a quality assurance audit of recognized organization representation and performance regarding United States-flagged vessels.”
+
+[For definition of “recognized organizations” as used in section 210 of Pub. L. 115–265, set out above, see section 203 of Pub. L. 115–265, set out as a note under [section 2101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim), Shipping.]
+
 #### Days Away From Homeport
-Pub. L. 114–120, title II, § 204(c), Feb. 8, 2016, 130 Stat. 35, provided that: “Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Commandant of the Coast Guard shall— “(1) implement a standard for tracking operational days at sea for Coast Guard cutters that does not include days during which such cutters are undergoing maintenance or repair; and “(2) notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the standard implemented under paragraph (1).”
+Pub. L. 114–120, title II, § 204(c), Feb. 8, 2016, 130 Stat. 35, as amended by Pub. L. 115–282, title VIII, § 818(b)(2), Dec. 4, 2018, 132 Stat. 4308, provided that: “Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Commandant of the Coast Guard shall— “[(1) Repealed. Pub. L. 115–282, title VIII, § 818(b)(2), Dec. 4, 2018, 132 Stat. 4308.] “(2) notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the standard implemented under paragraph (1).”
 
 #### Report on Sexual Assaults in the Coast Guard
-Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, provided that: “(a) In General.—Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. “(b) Contents.—The report required under subsection (a) shall contain the following:“(1) The number of sexual assaults against members of the Coast Guard, and the number of sexual assaults by members of the Coast Guard, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated. “(2) A synopsis of, and the disciplinary action taken in, each substantiated case. “(3) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault involving members of the Coast Guard concerned. “(4) A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault involving members of the Coast Guard concerned.”
+Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, as amended by Pub. L. 115–232, div. C, title XXXV, § 3521(a)(2), Aug. 13, 2018, 132 Stat. 2314, provided that: “(a) In General.—Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults and incidents of sexual harassment involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. “(b) Contents.—The report required under subsection (a) shall contain the following:“(1) The number of sexual assaults and incidents of sexual harassment against members of the Coast Guard, and the number of sexual assaults and incidents of sexual harassment by members of the Coast Guard, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated. “(2) A synopsis of, and the disciplinary action taken in, each substantiated case. “(3) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault and sexual harassment involving members of the Coast Guard concerned. “(4) A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault and sexual harassment involving members of the Coast Guard concerned.”
 
 #### Marine Vessel and Cold Water Safety Education
 Pub. L. 109–241, title IV, § 405, July 11, 2006, 120 Stat. 535, provided that: “The Coast Guard shall continue cooperative agreements and partnerships with organizations in effect on the date of enactment of this Act [July 11, 2006] that provide marine vessel safety training and cold water immersion education and outreach programs for fishermen and children.”
@@ -795,18 +553,239 @@ Pub. L. 107–295, title IV, § 430, Nov. 25, 2002, 116 Stat. 2128, provided tha
 #### Conveyance of Lighthouses; Notification
 Pub. L. 105–383, title IV, § 416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: “Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 ([former] [16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard.”
 
-#### Small Waterplane Area Twin Hull (SWATH) Technology
-Pub. L. 105–383, title IV, § 425(a), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Commandant of the Coast Guard shall, within 18 months after the date of the enactment of this Act [Nov. 13, 1998], report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure on the applicability of Small Waterplane Area Twin Hull (SWATH) technology, including concepts developed by the United States Office of Naval Research, to the design of Coast Guard vessels.”
+
+<a id="section-505"></a>
+## § 505. Functions and powers vested in the Commandant
+
+All powers and functions conferred upon the Coast Guard, or the Commandant, by or pursuant to this title or any other law shall, unless otherwise specifically stated, be executed by the Commandant subject to the general supervision of the Secretary. In order to execute the powers and functions vested in him, the Commandant may assign personnel of the Coast Guard to duty in the District of Columbia, elsewhere in the United States, in any territory of the United States, and in any foreign country, but such personnel shall not be assigned to duties in any foreign country without the consent of the government of that country; assign to such personnel such duties and authority as he deems necessary; and issue rules, orders, and instructions, not inconsistent with law, relating to the organization, internal administration, and personnel of the Coast Guard.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 5, U.S.C., 1946 ed., § 41, and on title 14, U.S.C., 1946 ed. §§ 22, 58, 91, 99, 103 (R.S. 2749; June 18, 1878, ch. 265, §§ 7, 8, 22 Stat. 164; May 4, 1882, ch. 117, § 5, 22 Stat. 57; Mar. 4, 1907, ch. 2918, 34 Stat. 1309; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; Aug. 29, 1916, ch. 417, 39 Stat. 601; June 10, 1921, ch. 18, § 304, 42 Stat. 23; July 3, 1926, ch. 742, § 9, 44 Stat. 817).
+
+Said section 91 has been divided. That part dealing with investigation of plans and inventions is covered in [section 93(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section93/d&num=0&edition=prelim). The remainder is covered in general terms. It has been rewritten in broad terms, making clear that the Commandant is granted the necessary authority to administer the Coast Guard under the Secretary, including authority to issue rules, orders, and instructions.
+
+This section is primarily a consolidation of existing functions rather than a codification of existing laws. It does not, for the most part, grant new authority to the Coast Guard as an organization. It merely clarifies the method by which Coast Guard functions shall be administered. Under existing statutes, functions relating to the Coast Guard have been conferred upon the President, the Secretary of the Treasury, and the Commandant, and sometimes upon the Secretary of the Treasury in times of peace and the Secretary of the Navy in times of war. This revision confers some functions directly upon the Coast Guard, and this section provides for the execution of those functions by the Commandant, the military head of the organization, thereby making for consistency and uniformity. The functions are to be executed “subject to the general supervision of the Secretary”. Title 14, U.S.C., 1946 ed., § 91 now grants authority to the Commandant to prescribe regulations; this is changed to the issuance of rules, orders, and instructions as the promulgation of regulations in a military organization is properly a function of the Secretary.
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+A prior section 505 was renumbered [section 2734 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2734).
+
+Another prior section 505, act Aug. 4, 1949, ch. 393, 63 Stat. 537, related to escorts to the place of burial for the bodies of deceased Coast Guard personnel, prior to repeal by act July 15, 1954, ch. 507, § 14(c)(5), 68 Stat. 481. For provisions relating to recovery, care, and disposition of the remains of deceased personnel of the uniformed services and deceased civilian personnel. See [section 1481 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1481&num=0&edition=prelim), Armed Forces.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 632 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section632&num=0&edition=prelim) as this section.
 
 
-<a id="section-94"></a>
-## § 94. Oceanographic research
+<a id="section-506"></a>
+## § 506. Prospective payment of funds necessary to provide medical care
+**(a) Prospective Payment Required.—** In lieu of the reimbursement required under [section 1085 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1085&num=0&edition=prelim), the Secretary of Homeland Security shall make a prospective payment to the Secretary of Defense of an amount that represents the actuarial valuation of treatment or care—
 
-The Coast Guard shall conduct such oceanographic research, use such equipment or instruments, and collect and analyze such oceanographic data, in cooperation with other agencies of the Government, or not, as may be in the national interest.
+(1) that the Department of Defense shall provide to members of the Coast Guard, former members of the Coast Guard, and dependents of such members and former members (other than former members and dependents of former members who are a Medicare-eligible beneficiary or for whom the payment for treatment or care is made from the Medicare-Eligible Retiree Health Care Fund) at facilities under the jurisdiction of the Department of Defense or a military department; and
+
+(2) for which a reimbursement would otherwise be made under section 1085.
+
+**(b) Amount.—** The amount of the prospective payment under subsection (a) shall be—
+
+(1) in the case of treatment or care to be provided to members of the Coast Guard and their dependents, derived from amounts appropriated for the operating expenses of the Coast Guard;
+
+(2) in the case of treatment or care to be provided former members of the Coast Guard and their dependents, derived from amounts appropriated for retired pay;
+
+(3) determined under procedures established by the Secretary of Defense;
+
+(4) paid during the fiscal year in which treatment or care is provided; and
+
+(5) subject to adjustment or reconciliation as the Secretaries determine appropriate during or promptly after such fiscal year in cases in which the prospective payment is determined excessive or insufficient based on the services actually provided.
+
+**(c) No Prospective Payment When Service in Navy.—** No prospective payment shall be made under this section for any period during which the Coast Guard operates as a service in the Navy.
+
+**(d) Relationship to TRICARE.—** This section shall not be construed to require a payment for, or the prospective payment of an amount that represents the value of, treatment or care provided under any TRICARE program.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 506, act Aug. 4, 1949, ch. 393, 63 Stat. 537, related to the issue of the national flag to be used for draping the coffin of any deceased member of the Coast Guard. For provisions relating to recovery, care, and disposition of the remains of deceased personnel of the uniformed services and deceased civilian personnel, prior to repeal by act July 15, 1954, ch. 507, § 14(c)(5), 68 Stat. 481. See [section 1481 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1481&num=0&edition=prelim), Armed Forces.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 520 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section520&num=0&edition=prelim) as this section.
 
 
-<a id="section-95"></a>
-## § 95. Special agents of the Coast Guard Investigative Service law enforcement authority
+<a id="section-507"></a>
+## § 507. Appointment of judges
+
+The Secretary may appoint civilian employees of the department in which the Coast Guard is operating as appellate military judges, available for assignment to the Coast Guard Court of Criminal Appeals as provided for in [section 866(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 507 was renumbered [section 2710 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2710).
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 153 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section153&num=0&edition=prelim) as this section.
+
+
+<a id="section-508"></a>
+## § 508. Coast Guard health-care professionals; licensure portability
+**(a) In General.—** Notwithstanding any other provision of law regarding the licensure of health-care providers, a health-care professional described in subsection (b) may practice the health profession or professions of the health-care professional at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of where such health-care professional or the patient is located, if the practice is within the scope of the authorized Federal duties of such health-care professional.
+
+**(b) Described Individuals.—** A health-care professional described in this subsection is an individual—
+
+(1) who is—
+
+  (A) a member of the Coast Guard;
+
+  (B) a civilian employee of the Coast Guard;
+
+  (C) a member of the Public Health Service who is assigned to the Coast Guard; or
+
+  (D) any other health-care professional credentialed and privileged at a Federal health-care institution or location specially designated by the Secretary; and
+
+(2) who—
+
+  (A) has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
+
+  (B) is performing authorized duties for the Coast Guard.
+
+**(c) Definitions.—** In this section, the terms “license” and “health-care professional” have the meanings given those terms in [section 1094(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1094/e&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 508 was renumbered [section 2711 of this title](./chapter-027-pay-allowances-awards-and-other-rights-and-benefits.md#section-2711).
+
+For redesignation of prior sections 509 to 520, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding [section 101 of this title](./chapter-001-establishment-and-duties.md#section-101).
+
+
+<a id="section-521"></a>
+## § 521. Saving life and property
+**(a)** In order to render aid to distressed persons, vessels, and aircraft on and under the high seas and on and under the waters over which the United States has jurisdiction and in order to render aid to persons and property imperiled by flood, the Coast Guard may:
+
+(1) perform any and all acts necessary to rescue and aid persons and protect and save property;
+
+(2) take charge of and protect all property saved from marine or aircraft disasters, or floods, at which the Coast Guard is present, until such property is claimed by persons legally authorized to receive it or until otherwise disposed of in accordance with law or applicable regulations, and care for bodies of those who may have perished in such catastrophes;
+
+(3) furnish clothing, food, lodging, medicines, and other necessary supplies and services to persons succored by the Coast Guard; and
+
+(4) destroy or tow into port sunken or floating dangers to navigation.
+
+**(b)**
+
+(1) Subject to paragraph (2), the Coast Guard may render aid to persons and protect and save property at any time and at any place at which Coast Guard facilities and personnel are available and can be effectively utilized.
+
+(2) The Commandant shall make full use of all available and qualified resources, including the Coast Guard Auxiliary and individuals licensed by the Secretary pursuant to [section 8904(b) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section8904/b&num=0&edition=prelim), United States Code, in rendering aid under this subsection in nonemergency cases.
+
+**(c)** An individual who knowingly and willfully communicates a false distress message to the Coast Guard or causes the Coast Guard to attempt to save lives and property when no help is needed is—
+
+(1) guilty of a class D felony;
+
+(2) subject to a civil penalty of not more than $10,000; and
+
+(3) liable for all costs the Coast Guard incurs as a result of the individual’s action.
+
+**(d)** The Secretary shall establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills, which may include rescue diver training.
+
+**(e)** An individual who knowingly and willfully operates a device with the intention of interfering with the broadcast or reception of a radio, microwave, or other signal (including a signal from a global positioning system) transmitted, retransmitted, or augmented by the Coast Guard for the purpose of maritime safety is—
+
+(1) guilty of a class E felony; and
+
+(2) subject to a civil penalty of not more than $1,000 per day for each violation.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Derived from title 14, U.S.C., 1946 ed., §§ 29, 53, 55, 60, 61, 62, 63, 104, and title 34, U.S.C., 1946 ed., § 471 (R.S. 1536, R.S. 2759; June 18, 1878, ch. 265, § 4, 20 Stat. 163; Apr. 19, 1906, ch. 1640, §§ 1–3, 34 Stat. 123; May 12, 1906, ch. 2454, 34 Stat. 190; June 24, 1914, ch. 124, 38 Stat. 387; Aug. 29, 1916, ch. 417, 39 Stat. 601; Aug. 6, 1947, ch. 502, 61 Stat. 786).
+
+This section broadens existing law in that it authorizes the Coast Guard to engage in saving life and property in the broadest possible terms, without limitation as to place. This section reflects existing sentiment as to Coast Guard functions in relation to saving life and property. There is no intention to supersede or conflict with the present authority of the Civil Aeronautics Board to investigate certain aircraft wrecks. 81st Congress, House Report No. 557.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 88 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section88&num=0&edition=prelim) as this section.
+
+2014—Subsec. (c)(2). Pub. L. 113–281 substituted “$10,000” for “$5,000”.
+
+2012—Subsec. (e). Pub. L. 112–213 added subsec. (e).
+
+1996—Subsec. (d). Pub. L. 104–324 added subsec. (d).
+
+1990—Subsec. (c). Pub. L. 101–595 added subsec. (c).
+
+1988—Subsec. (b). Pub. L. 100–448 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Coast Guard” for “The Coast Guard”, and added par. (2).
+
+1970—Subsec. (a). Pub. L. 91–278 substituted “on and under the high seas and on and under the waters” for “on the high seas and on waters” in introductory text.
+
+#### Transfer of Functions
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Survival and Locating Equipment
+Pub. L. 115–265, title II, § 209, Oct. 11, 2018, 132 Stat. 3747, provided that: “Not later than 2 years after the date of the enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall, subject to the availability of appropriations, identify and procure equipment that will provide search-and-rescue units the ability to attach a radio or Automated Identification System strobe or beacon to an object that is not immediately retrievable.”
+
+#### Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise
+Pub. L. 97–322, title I, § 113, Oct. 15, 1982, 96 Stat. 1585, as amended by Pub. L. 100–448, § 30(b), Sept. 28, 1988, 102 Stat. 1850, provided that: “The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise.”
+
+
+<a id="section-522"></a>
+## § 522. Law enforcement
+**(a)** The Coast Guard may make inquiries, examinations, inspections, searches, seizures, and arrests upon the high seas and waters over which the United States has jurisdiction, for the prevention, detection, and suppression of violations of laws of the United States. For such purposes, commissioned, warrant, and petty officers may at any time go on board of any vessel subject to the jurisdiction, or to the operation of any law, of the United States, address inquiries to those on board, examine the ship’s documents and papers, and examine, inspect, and search the vessel and use all necessary force to compel compliance. When from such inquiries, examination, inspection, or search it appears that a breach of the laws of the United States rendering a person liable to arrest is being, or has been committed, by any person, such person shall be arrested or, if escaping to shore, shall be immediately pursued and arrested on shore, or other lawful and appropriate action shall be taken; or, if it shall appear that a breach of the laws of the United States has been committed so as to render such vessel, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel, liable to forfeiture, or so as to render such vessel liable to a fine or penalty and if necessary to secure such fine or penalty, such vessel or such merchandise, or both, shall be seized.
+
+**(b)** The officers of the Coast Guard insofar as they are engaged, pursuant to the authority contained in this section, in enforcing any law of the United States shall:
+
+(1) be deemed to be acting as agents of the particular executive department or independent establishment charged with the administration of the particular law; and
+
+(2) be subject to all the rules and regulations promulgated by such department or independent establishment with respect to the enforcement of that law.
+
+**(c)** The provisions of this section are in addition to any powers conferred by law upon such officers, and not in limitation of any powers conferred by law upon such officers, or any other officers of the United States.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., §§ 45–47, 51, 52, 66, 67, 104, and on title 33, U.S.C., 1946 ed., § 755 (R.S. 2747, 2758, 2760, 2762; June 18, 1878, ch. 265, § 4, 20 Stat. 163; June 16, 1880, ch. 235, 21 Stat. 263; June 22, 1936, ch. 705, §§ 1–3, 49 Stat. 1820; July 11, 1941, ch. 290, § 7, 55 Stat. 585).
+
+The words “or such merchandise” are inserted in the last clause of subsection (a) in order to provide for situations where it may be desirable to seize merchandise without seizing the vessel.
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 89 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) as this section.
+
+1950—Subsec. (a). Act Aug. 3, 1950, struck out “to” before “examine” in second sentence.
+
+#### Currency Detection Canine Team Program
+Pub. L. 115–282, title VIII, § 806, Dec. 4, 2018, 132 Stat. 4300, provided that: “(a) Definitions.—In this section:“(1) Canine currency detection team.—The term ‘canine currency detection team’ means a canine and a canine handler that are trained to detect currency. “(2) Secretary.—The term ‘Secretary’ means the Secretary of the department in which the Coast Guard is operating. “(b) Establishment.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Secretary shall establish a program to allow the use of canine currency detection teams for purposes of Coast Guard maritime law enforcement, including underway vessel boardings. “(c) Operation.—The Secretary may cooperate with, or enter into an agreement with, the head of another Federal agency to meet the requirements under subsection (b).”
+
+
+<a id="section-523"></a>
+## § 523. Enforcement authority
+
+Subject to guidelines approved by the Secretary, members of the Coast Guard, in the performance of official duties, may—
+
+(1) carry a firearm; and
+
+(2) while at a facility (as defined in [section 70101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101&num=0&edition=prelim))—
+
+  (A) make an arrest without warrant for any offense against the United States committed in their presence; and
+
+  (B) seize property as otherwise provided by law.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 99 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section99&num=0&edition=prelim) as this section.
+
+
+<a id="section-524"></a>
+## § 524. Enforcement of coastwise trade laws
+
+Officers and members of the Coast Guard are authorized to enforce chapter 551 of title 46. The Secretary shall establish a program for these officers and members to enforce that chapter.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 100 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section100&num=0&edition=prelim) as this section.
+
+
+<a id="section-525"></a>
+## § 525. Special agents of the Coast Guard Investigative Service law enforcement authority
 **(a)**
 
 (1) A special agent of the Coast Guard Investigative Service designated under subsection (b) has the following authority:
@@ -830,6 +809,8 @@ The Coast Guard shall conduct such oceanographic research, use such equipment or
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–282 renumbered [section 95 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section95&num=0&edition=prelim) as this section.
+
 2012—Subsec. (c). Pub. L. 112–213 struck out “of Homeland Security” after “Secretary”.
 
 2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -840,84 +821,372 @@ The Coast Guard shall conduct such oceanographic research, use such equipment or
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
 
-<a id="section-96"></a>
-## § 96. Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards
+<a id="section-526"></a>
+## § 526. Stopping vessels; indemnity for firing at or into vessel
+**(a)**
 
-A Coast Guard vessel the home port of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
+(1) Whenever any vessel liable to seizure or examination does not stop on being ordered to do so or on being pursued by an authorized vessel or authorized aircraft which has displayed the ensign, pennant, or other identifying insignia prescribed for an authorized vessel or authorized aircraft, the person in command or in charge of the authorized vessel or authorized aircraft may, subject to paragraph (2), fire at or into the vessel which does not stop.
 
-### Statutory Notes
+(2) Before firing at or into a vessel as authorized in paragraph (1), the person in command or in charge of the authorized vessel or authorized aircraft shall fire a gun as a warning signal, except that the prior firing of a gun as a warning signal is not required if that person determines that the firing of a warning signal would unreasonably endanger persons or property in the vicinity of the vessel to be stopped.
 
-#### Amendments
-2010—Pub. L. 111–281 substituted “in the United States or Guam” for “in a State of the United States” and inserted “or Guam” after “outside the United States”.
+**(b)** The person in command of an authorized vessel or authorized aircraft and all persons acting under that person’s direction shall be indemnified from any penalties or actions for damages for firing at or into a vessel pursuant to subsection (a). If any person is killed or wounded by the firing, and the person in command of the authorized vessel or authorized aircraft or any person acting pursuant to their orders is prosecuted or arrested therefor, they shall be forthwith admitted to bail.
 
+**(c)** A vessel or aircraft is an authorized vessel or authorized aircraft for purposes of this section if—
 
-<a id="section-97"></a>
-## § 97. Procurement of buoy chain
-**(a)** Except as provided in subsection (b), the Coast Guard may not procure buoy chain—
+(1) it is a Coast Guard vessel or aircraft;
 
-(1) that is not manufactured in the United States; or
+(2) it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to [section 379 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section379&num=0&edition=prelim); 11 See References in Text note below. or
 
-(2) substantially all of the components of which are not produced or manufactured in the United States.
+(3) it is any other vessel or aircraft on government noncommercial service when—
 
-**(b)** The Coast Guard may procure buoy chain that is not manufactured in the United States if the Secretary determines that—
+  (A) the vessel or aircraft is under the tactical control of the Coast Guard; and
 
-(1) the price of buoy chain manufactured in the United States is unreasonable; or
-
-(2) emergency circumstances exist.
-
-
-<a id="section-98"></a>
-## § 98. National Coast Guard Museum
-**(a) Establishment.—** The Commandant may establish a National Coast Guard Museum, on lands which will be federally owned and administered by the Coast Guard, and are located in New London, Connecticut, at, or in close proximity to, the Coast Guard Academy.
-
-**(b) Limitation on Expenditures.—**
-
-(1) Except as provided in paragraph (2), the Secretary shall not expend any funds appropriated to the Coast Guard on the engineering, design, or construction of any museum established under this section.
-
-(2) The Secretary shall fund the operation and maintenance of the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal operation and maintenance funds should be to preserve and protect historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
-
-**(c) Funding Plan.—** Before the date on which the Commandant establishes a museum under subsection (a), the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a plan for constructing, operating, and maintaining such a museum, including—
-
-(1) estimated planning, engineering, design, construction, operation, and maintenance costs;
-
-(2) the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent to which there is any shortfall in funding for engineering, design, or construction; and
-
-(3) a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
-
-**(d) Authority.—** The Commandant may not establish a Coast Guard museum except as set forth in this section.
+  (B) at least one member of the Coast Guard is assigned and conducting a Coast Guard mission on the vessel or aircraft.
 
 ### Statutory Notes
 
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 68 (R.S. 2765).
+
+Aircraft are included within the protective terms of this section which permits aircraft to stop vessels but makes no provision for stopping aircraft.
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### References in Text
+[Section 379 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section379&num=0&edition=prelim), referred to in subsec. (c)(2), was renumbered [section 279 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section279&num=0&edition=prelim) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+
 #### Amendments
-2016—Subsec. (b)(1). Pub. L. 114–120, § 219(1), substituted “any funds appropriated to the Coast Guard on” for “any appropriated Federal funds for”.
+2018—Pub. L. 115–282 renumbered [section 637 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section637&num=0&edition=prelim) as this section.
 
-Subsec. (b)(2). Pub. L. 114–120, § 219(2), substituted “artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.” for “artifacts.”
+2016—Subsec. (c)(3). Pub. L. 114–120 inserted “it is” before “any” in introductory provisions.
+
+2010—Subsec. (c)(3). Pub. L. 111–281 added par. (3).
+
+2004—Pub. L. 108–293, § 205(e)(1), substituted “indemnity” for “immunity” in section catchline.
+
+Subsec. (a). Pub. L. 108–293, § 205(a), designated existing provisions as par. (1), substituted “subject to paragraph (2),” for “after a gun has been fired by the authorized vessel or authorized aircraft as a warning signal,”, and added par. (2).
+
+Subsec. (c). Pub. L. 108–293, § 205(b), inserted “or” after the semicolon at end of par. (1), inserted “or military aircraft” after “surface naval vessel” and substituted a period for “; or” in par. (2), and struck out par. (3) which read as follows: “subject to subsection (d), it is a naval aircraft that has one or more members of the Coast Guard on board and is operating from a surface naval vessel described in paragraph (2).”
+
+Subsec. (d). Pub. L. 108–293, § 205(c), struck out subsec. (d) which related to inclusion of naval aircraft as authorized aircraft for purposes of this section.
+
+1999—Subsec. (c)(3). Pub. L. 106–65, § 1022(a), added par. (3).
+
+Subsec. (d). Pub. L. 106–65, § 1022(b), added subsec. (d).
+
+1988—Pub. L. 100–690 substituted “immunity for firing at or into vessel” for “immunity of Coast Guard officer” in section catchline, and amended text generally. Prior to amendment, text read as follows:
+
+“(a) Whenever any vessel liable to seizure or examination does not bring-to, on being ordered to do so or on being chased by any Coast Guard vessel or aircraft which has displayed the ensign, pennant, or other identifying insignia prescribed for vessels or aircraft of the Coast Guard, the person in command or in charge of such Coast Guard vessel or such Coast Guard aircraft may, after a gun has been fired by the Coast Guard vessel or aircraft as a warning signal, fire at or into such vessel which does not bring-to.
+
+“(b) The person in command of such Coast Guard vessel or such Coast Guard aircraft and all persons acting by or under his direction shall be indemnified from any penalties or actions for damages for so doing. If any person is killed or wounded by such firing, and the person in command of the Coast Guard vessel or aircraft or any person acting pursuant to his orders is prosecuted or arrested therefor, he shall be forthwith admitted to bail.”
 
 
-<a id="section-99"></a>
-## § 99. Enforcement authority
+<a id="section-527"></a>
+## § 527. Safety of vessels of the Armed Forces
+**(a)** The Secretary may control the anchorage and movement of any vessel in the navigable waters of the United States to ensure the safety or security of any vessel of the Armed Forces in those waters.
 
-Subject to guidelines approved by the Secretary, members of the Coast Guard, in the performance of official duties, may—
+**(b)** If the Secretary does not exercise the authority in subsection (a) of this section and immediate action is required, the senior officer present in command may control the anchorage or movement of any vessel in the navigable waters of the United States to ensure the safety and security of any vessel of the Armed Forces under the officer’s command.
 
-(1) carry a firearm; and
+**(c)** If a person violates, or a vessel is operated in violation of, this section or a regulation or order issued under this section, the person or vessel is subject to the enforcement provisions in section 13 11 See References in Text note below. of the Ports and Waterways Safety Act ([33 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1232&num=0&edition=prelim)).
 
-(2) while at a facility (as defined in [section 70101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101&num=0&edition=prelim))—
+**(d)** As used in this section “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
 
-  (A) make an arrest without warrant for any offense against the United States committed in their presence; and
+**(e)** For purposes of this title, the term “vessel of the Armed Forces” means—
 
-  (B) seize property as otherwise provided by law.
+(1) any vessel owned or operated by the Department of Defense or the Coast Guard, other than a time- or voyage-chartered vessel; and
+
+(2) any vessel owned and operated by the Department of Transportation that is designated by the Secretary of the department in which the Coast Guard is operating as a vessel equivalent to a vessel described in paragraph (1).
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 48a (Nov. 15, 1941, ch. 471, § 1, 55 Stat. 763).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### References in Text
+Section 13 of the Ports and Waterways Safety Act, referred to in subsec. (c), was repealed by Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding [section 101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section101&num=0&edition=prelim), Shipping, and [section 70036 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70036&num=0&edition=prelim).
+
+Presidential Proclamation No. 5928, referred to in subsec. (d), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+#### Amendments
+2018—Pub. L. 115–282, § 318(a)(1), substituted “vessels of the Armed Forces” for “naval vessels” in section catchline.
+
+Pub. L. 115–282, § 105(b), renumbered [section 91 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section91&num=0&edition=prelim) as this section.
+
+Subsec. (a). Pub. L. 115–282, § 318(a)(2), substituted “vessel of the Armed Forces” for ‘United States naval vessel”.
+
+Subsec. (b). Pub. L. 115–282, § 318(a)(3), substituted “senior officer present in command” for “senior naval officer present in command” and “vessel of the Armed Forces” for “United States naval vessel”.
+
+Subsec. (e). Pub. L. 115–282, § 318(a)(4), added subsec. (e).
+
+2006—Subsec. (d). Pub. L. 109–241 added subsec. (d).
+
+1986—Pub. L. 99–640 amended section generally. Prior to amendment, section read as follows: “The captain of the port, Coast Guard district commander, or other officer of the Coast Guard designated by the Commandant thereof, or the Governor of the Panama Canal in the case of the territory and waters of the Canal Zone, shall so control the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, as to insure the safety or security of such United States naval vessels as may be present in his jurisdiction. In territorial waters of the United States where immediate action is required, or where representatives of the Coast Guard are not present, or not present in sufficient force to exercise effective control of shipping as provided herein, the senior naval officer present in command of any naval force may control the anchorage or movement of any vessel, foreign or domestic, to the extent deemed necessary to insure the safety and security of his command.”
 
 
-<a id="section-100"></a>
-## § 100. Enforcement of coastwise trade laws
+<a id="section-528"></a>
+## § 528. Protecting against unmanned aircraft
 
-Officers and members of the Coast Guard are authorized to enforce chapter 551 of title 46. The Secretary shall establish a program for these officers and members to enforce that chapter.
+For the purposes of section 210G(k)(3)(C)(iv) of the Homeland Security Act of 2002, the missions authorized to be performed by the United States Coast Guard shall be those related to—
+
+(1) functions of the U.S. Coast Guard relating to security or protection of facilities and assets assessed to be high-risk and a potential target for unlawful unmanned aircraft activity, including the security and protection of—
+
+  (A) a facility, including a facility that is under the administrative control of the Commandant; and
+
+  (B) a vessel (whether moored or underway) or an aircraft, including a vessel or aircraft—
+
+    (i) that is operated by the Coast Guard, or that the Coast Guard is assisting or escorting; and
+
+    (ii) that is directly involved in a mission of the Coast Guard pertaining to—
+
+      (I) assisting or escorting a vessel of the Department of Defense;
+
+      (II) assisting or escorting a vessel of national security significance, a high interest vessel, a high capacity passenger vessel, or a high value unit, as those terms are defined by the Secretary;
+
+      (III) [section 527(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section527/a&num=0&edition=prelim);
+
+      (IV) assistance in protecting the President or the Vice President (or other officer next in order of succession to the Office of the President) pursuant to the Presidential Protection Assistance Act of 1976 ([18 U.S.C. 3056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim) note);
+
+      (V) protection of a National Special Security Event and Special Event Assessment Rating events;
+
+      (VI) air defense of the United States, including air sovereignty, ground-based air defense, and the National Capital Region integrated air defense system; or
+
+      (VII) a search and rescue operation; and
+
+(2) missions directed by the Secretary pursuant to 210G(k)(3)(C)(iii) 11 So in original. Probably should be preceded by “section”. of the Homeland Security Act of 2002.
+
+### Statutory Notes
+
+#### References in Text
+Section 210G(k)(3)(C)(iii), (iv) of the Homeland Security Act of 2002, referred to in text, is classified to section 124n(k)(3)(C)(iii), (iv) of Title 6, Domestic Security.
+
+The Presidential Protection Assistance Act of 1976, referred to in par. (1)(B)(ii)(IV), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under [section 3056 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
+
+#### Prior Provisions
+Prior sections 531 and 532 were redesignated sections 2901 and 2902 of this title, respectively.
+
+#### Amendments
+2018—Pub. L. 115–282, § 105(b), renumbered [section 104 of this title](./chapter-001-establishment-and-duties.md#section-104) as this section.
+
+Par. (1)(B)(ii)(III). Pub. L. 115–282, § 123(b)(2), substituted “section 527(a)” for “section 91(a)”.
 
 
-<a id="section-101"></a>
-## § 101. Appeals and waivers
+<a id="section-541"></a>
+## § 541. Aids to navigation authorized
 
-Except for the Commandant of the Coast Guard, any individual adjudicating an appeal or waiver of a decision regarding marine safety, including inspection or manning and threats to the environment, shall—
+In order to aid navigation and to prevent disasters, collisions, and wrecks of vessels and aircraft, the Coast Guard may establish, maintain, and operate:
+
+(1) aids to maritime navigation required to serve the needs of the armed forces or of the commerce of the United States;
+
+(2) aids to air navigation required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense and as required by any of those officials; and
+
+(3) electronic aids to navigation systems (a) required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or any department within the Department of Defense; or (b) required to serve the needs of the maritime commerce of the United States; or (c) required to serve the needs of the air commerce of the United States as requested by the Administrator of the Federal Aviation Administration.
+These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed.; §§ 50m, 50o, and on title 33, U.S.C., 1946 ed., §§ 720, 720a, 739, 740, 740a, 740b, 769 (R.S. 4668; June 23, 1874, ch. 455, § 1, 18 Stat. 220; June 17, 1910, ch. 301, § 7, 36 Stat. 538; Mar. 3, 1915, ch. 81, § 5, 38 Stat. 927; Aug. 28, 1916, ch. 414, § 3, 39 Stat. 538; May 22, 1926, ch. 371, § 6, 44 Stat. 626; Feb. 25, 1925, ch. 313, § 3, 45 Stat. 1262; Aug. 16, 1937, ch. 665, § 3, 50 Stat. 667; June 26, 1948, ch. 672, §§ 1, 3, 62 Stat. 1050).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+A prior section 541 was renumbered [section 2903 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2903).
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 81 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section81&num=0&edition=prelim) as this section.
+
+1982—Pub. L. 97–322 authorized the Coast Guard to contractually establish, maintain, and operate aids to maritime navigation.
+
+1976—Pub. L. 94–546 substituted “Federal Aviation Administration” for “Federal Aviation Agency” in cl. (3)(c).
+
+1966—Pub. L. 89–662 expanded authorization for establishment, maintenance, and operation of aids to air navigation and electronic aids to navigation systems required to serve the needs of the armed forces to include needs peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or the Secretary of any department within the Department of Defense, substituted “electronic aids to navigation systems” for “Loran stations”, and altered the list of locations where aids to navigation other than electronic aids to navigation could be located by adding the waters above the Continental Shelf and by striking out places where such aids to navigation had been established prior to June 26, 1948.
+
+1958—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics”.
+
+1954—Act Sept. 3, 1954, substituted “Department of Defense” for “National Military Establishment”.
+
+1951—Act June 22, 1951, extended Coast Guard’s authority to include the Trust Territory of the Pacific Islands.
+
+#### Effective Date of 1958 Amendment
+Pub. L. 85–726, title XV, § 1505(2), Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency [Federal Aviation Administration] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+
+#### Discontinuance of an Aid to Navigation
+Pub. L. 114–120, title II, § 210, Feb. 8, 2016, 130 Stat. 41, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish a process for the discontinuance of an aid to navigation (other than a seasonal or temporary aid) established, maintained, or operated by the Coast Guard. “(b) Requirement.—The process established under subsection (a) shall include procedures to notify the public of any discontinuance of an aid to navigation described in that subsection. “(c) Consultation.—In establishing a process under subsection (a), the Secretary shall consult with and consider any recommendations of the Navigation Safety Advisory Council. “(d) Notification.—Not later than 30 days after establishing a process under subsection (a), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the process established.”
+
+#### Improved Safety Information for Vessels
+Pub. L. 113–281, title II, § 228, Dec. 18, 2014, 128 Stat. 3040, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 18, 2014], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels.”
+
+#### Aids to Navigation Report
+Pub. L. 105–383, title II, § 208, Nov. 13, 1998, 112 Stat. 3416, provided that: “Not later than 18 months after the date of the enactment of this Act [Nov. 13, 1998], the Commandant of the Coast Guard shall submit to Congress a report on the use of the Coast Guard’s aids to navigation system. The report shall include an analysis of the respective use of the aids to navigation system by commercial interests, members of the general public for personal recreation, Federal and State government for public safety, defense, and other similar purposes. To the extent practicable within the time allowed, the report shall include information regarding degree of use of the various portions of the system.”
+
+#### Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees
+Pub. L. 97–322, title I, § 105(b), Oct. 15, 1982, 96 Stat. 1582, provided that: “Not later than one year after the date of enactment of this title [Oct. 15, 1982], the Secretary of the department in which the Coast Guard is operating shall submit a report to the Congress evaluating— “(1) the exercise by contract of the authority of the Coast Guard under section 81 [now 541] of title 14, United States Code, to establish, maintain, and operate aids to navigation, including a discussion of any problems involved in exercising such authority by contract, the reasons for exercising or failing to exercise such authority by contract in particular areas, and the feasibility of expanding the exercise of such authority by contract; and “(2) the advantages and disadvantages of increasing the ratio of civilian to military employees assigned to the establishment, maintenance, and operation of aids to navigation on the inland waterways of the United States.”
+
+#### Contractual Authority Dependent Upon Availability of Appropriated Funds
+Pub. L. 97–322, title I, § 105(c), Oct. 15, 1982, 96 Stat. 1582, provided that: “Any authority to enter into contracts provided in this section [amending this section and enacting provision set out as Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees note under this section] shall be available only to the extent that appropriated funds are available for that purpose.”
+
+#### Ex. Ord. No. 7521. Use of Vessels for Ice-Breaking Operations in Channels and Harbors
+Ex. Ord. No. 7521, Dec. 21, 1936, 1 F.R. 2527, provided:
+
+1. The Coast Guard, operating under the direction of the Secretary of the Treasury, is hereby directed to assist in keeping open to navigation by means of ice-breaking operations, in so far as practicable and as the exigencies may require, channels and harbors in accordance with the reasonable demands of commerce; and to use for that purpose such vessels subject to its control and jurisdiction or which may be made available to it under paragraph 2 hereof as are necessary and are reasonably suitable for such operations.
+
+2. The Secretary of War [Army], the Secretary of the Navy, and the Secretary of Commerce are hereby directed to cooperate with the Coast Guard in such ice-breaking operations, and to furnish the Coast Guard, upon the request of the Commandant thereof, for this service such vessels under their jurisdiction and control as in the opinion of the Commandant, with the concurrence of the head of the Department concerned, are available and are, or may readily be made, suitable for this service.
+
+
+<a id="section-542"></a>
+## § 542. Unauthorized aids to maritime navigation; penalty
+
+No person, or public body, or instrumentality, excluding the armed services, shall establish, erect, or maintain any aid to maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority to do so from the Coast Guard in accordance with applicable regulations. Whoever violates the provisions of this section or any of the regulations issued by the Secretary in accordance herewith shall be guilty of a misdemeanor and shall be fined not more than $1,500 for each offense. Each day during which such violation continues shall be considered as a new offense.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 33, U.S.C., 1946 ed., § 759 (June 20, 1906, ch. 3447, § 3, 34 Stat. 324; June 17, 1910, ch. 301, § 6, 36 Stat. 538; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+A prior section 542 was renumbered [section 2904 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2904).
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 83 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section83&num=0&edition=prelim) as this section.
+
+2014—Pub. L. 113–281 substituted “$1,500” for “$100”.
+
+1974—Pub. L. 93–283 substituted “maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority” for “maritime navigation without first obtaining authority”.
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
+
+
+<a id="section-543"></a>
+## § 543. Interference with aids to navigation; penalty
+
+It shall be unlawful for any person, or public body, or instrumentality, excluding the armed forces, to remove, change the location of, obstruct, wilfully damage, make fast to, or interfere with any aid to navigation established, installed, operated, or maintained by the Coast Guard pursuant to [section 541 of this title](./chapter-005-functions-and-powers.md#section-541), or with any aid to navigation lawfully maintained under authority granted by the Coast Guard pursuant to [section 542 of this title](./chapter-005-functions-and-powers.md#section-542), or to anchor any vessel in any of the navigable waters of the United States so as to obstruct or interfere with range lights maintained therein. Whoever violates the provisions of this section shall be guilty of a misdemeanor and shall be fined not more than $1,500 for each offense. Each day during which such violation shall continue shall be considered as a new offense.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 33, U.S.C., 1946, ed., §§ 761, 762 (May 14, 1908, ch. 168, § 6, 35 Stat. 162; June 17, 1910, ch. 301, § 6, 36 Stat. 538; Mar. 3, 1915, ch. 81, § 8, 38 Stat. 928; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+A prior section 543 was renumbered [section 2905 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2905).
+
+#### Amendments
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 541” for “section 81” and “section 542” for “section 83”.
+
+Pub. L. 115–282, § 105(b), renumbered [section 84 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section84&num=0&edition=prelim) as this section.
+
+2014—Pub. L. 113–281 substituted “$1,500” for “$500”.
+
+
+<a id="section-544"></a>
+## § 544. Aids to maritime navigation; penalty
+
+The Secretary shall prescribe and enforce necessary and reasonable rules and regulations, for the protection of maritime navigation, relative to the establishment, maintenance, and operation of lights and other signals on fixed and floating structures in or over waters subject to the jurisdiction of the United States and in the high seas for structures owned or operated by persons subject to the jurisdiction of the United States. Any owner or operator of such a structure, excluding an agency of the United States, who violates any of the rules or regulations prescribed hereunder, commits a misdemeanor and shall be punished, upon conviction thereof, by a fine of not exceeding $1,500 for each day which such violation continues.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 33, U.S.C., 1946 ed., § 760 (May 14, 1908, ch. 168, § 5, 35 Stat. 162).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+A prior section 544 was renumbered [section 2906 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2906).
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 85 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section85&num=0&edition=prelim) as this section.
+
+2014—Pub. L. 113–281 substituted “$1,500” for “$100”.
+
+1974—Pub. L. 93–283 struck out “on fixed structures” after “maritime navigation” in section catchline and in text substituted “fixed and floating structures in or over waters subject to the jurisdiction of the United States and in the high seas for structures owned or operated by persons subject to the jurisdiction of the United States” for “fixed structures in or over navigable waters of the United States”.
+
+1956—Act June 4, 1956, amended section generally, vesting in Secretary rule-making authority, for the protection of maritime navigation, relative to the establishment, maintenance, and operation of lights and other signals on fixed structures in or over navigable waters of the United States, and excluding agencies of United States from its provisions.
+
+
+<a id="section-545"></a>
+## § 545. Marking of obstructions
+
+The Secretary may mark for the protection of navigation any sunken vessel or other obstruction existing on the navigable waters or waters above the continental shelf of the United States in such manner and for so long as, in his judgment, the needs of maritime navigation require. The owner of such an obstruction shall be liable to the United States for the cost of such marking until such time as the obstruction is removed or its abandonment legally established or until such earlier time as the Secretary may determine. All moneys received by the United States from the owners of obstructions, in accordance with this section, shall be covered into the Treasury of the United States as miscellaneous receipts. This section shall not be construed so as to relieve the owner of any such obstruction from the duty and responsibility suitably to mark the same and remove it as required by law.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 33, U.S.C., 1946 ed., § 736 (R.S. 4676; June 17, 1910, ch. 301, § 6, 36 Stat. 538; Aug. 16, 1937, ch. 665, § 1, 50 Stat. 666; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 86 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section86&num=0&edition=prelim) as this section.
+
+1974—Pub. L. 93–283 substituted “the navigable waters or waters above the continental shelf of the United States” for “any navigable waters of the United States”.
+
+1965—Pub. L. 89–191 vested sole responsibility for wreck marking in the Coast Guard by giving the Secretary discretionary authority to mark wrecks or other similar obstructions for as long as in his judgment the needs of maritime navigation may require, by removing reference to responsibility of the Department of the Army to mark wrecks, after abandonment and before removal, and by giving the Secretary the authority to terminate an owner’s liability to pay the cost of marking a wreck.
+
+
+<a id="section-546"></a>
+## § 546. Deposit of damage payments
+
+Whenever an aid to navigation or other property belonging to the Coast Guard is damaged or destroyed by a private person, and such private person or his agent shall pay to the satisfaction of the proper official of the Coast Guard for the cost of repair or replacement of such property, the Commandant may accept and deposit such payments, through proper officers of the Fiscal Service, Treasury Department, in special deposit accounts in the Treasury, for payment therefrom to the person or persons repairing or replacing the damaged property and refundment of amounts collected in excess of the cost of the repairs or replacements concerned. In the event that repair or replacement of the damaged property is effected by the Coast Guard, the appropriations bearing the cost thereof and current at the time collection is made shall be reimbursed from the special deposit account.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 33, U.S.C., 1946 ed., § 721a (Aug. 16, 1937, ch. 665, § 2, 50 Stat. 667).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 642 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section642&num=0&edition=prelim) as this section.
+
+
+<a id="section-547"></a>
+## § 547. Rewards for apprehension of persons interfering with aids to navigation
+
+The Coast Guard may offer and pay rewards for the apprehension and conviction, or for information helpful therein, of persons found interfering in violation of law with aids to navigation maintained by the Coast Guard; or for information leading to the discovery of missing Coast Guard property or to recovery thereof.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 50c (Aug. 2, 1946, ch. 756, § 32, 60 Stat. 857).
+
+Section is enlarged to provide for payment of rewards for information leading to the discovery or recovery of missing Coast Guard property. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+Prior sections 551 to 555 were renumbered sections 2921 to 2925 of this title, respectively.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 643 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section643&num=0&edition=prelim) as this section.
+
+
+<a id="section-561"></a>
+## § 561. Icebreaking in polar regions
+
+The President shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers as needed to support the statutory missions of the Coast Guard in the polar regions by allocating all funds to support icebreaking operations in such regions, except for recurring incremental costs associated with specific projects, to the Coast Guard.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 561 was renumbered [section 1101 of this title](./chapter-011-acquisitions.md#section-1101).
+
+Another prior section 561, act Aug. 4, 1949, ch. 393, 63 Stat. 538, related to limitations on punishment by commanding officer, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 87 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section87&num=0&edition=prelim) as this section.
+
+
+<a id="section-562"></a>
+## § 562. Appeals and waivers
+
+Except for the Commandant, any individual adjudicating an appeal or waiver of a decision regarding marine safety, including inspection or manning and threats to the environment, shall—
 
 (1) be a qualified specialist with the training, experience, and qualifications in marine safety to effectively judge the facts and circumstances involved in the appeal and make a judgment regarding the merits of the appeal; or
 
@@ -931,32 +1200,24 @@ Except for the Commandant of the Coast Guard, any individual adjudicating an app
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 562 was renumbered [section 1102 of this title](./chapter-011-acquisitions.md#section-1102).
+
+Another prior section 562, act Aug. 4, 1949, ch. 393, 63 Stat. 539; Aug. 3, 1950, ch. 536, § 27, 64 Stat. 407, related to deck courts, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
 #### Amendments
-2010—Pub. L. 111–330 renumbered [section 102 of this title](./chapter-005-functions-and-powers.md#section-102) as this section.
+2018—Pub. L. 115–282 renumbered [section 101 of this title](./chapter-001-establishment-and-duties.md#section-101) as this section.
+
+Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.
+
+2010—Pub. L. 111–330 renumbered [section 102 of this title](./chapter-001-establishment-and-duties.md#section-102) as this section.
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(6)(A) is effective with the enactment of Pub. L. 111–281.
 
 
-<a id="section-102"></a>
-## § 102. Agreements
-**(a) In General.—** In carrying out section 93(a)(4), the Commandant may—
-
-(1) enter into cooperative agreements, contracts, and other agreements with—
-
-  (A) Federal entities;
-
-  (B) other public or private entities in the United States, including academic entities; and
-
-  (C) foreign governments with the concurrence of the Secretary of State; and
-
-(2) impose on and collect from an entity subject to an agreement or contract under paragraph (1) a fee to assist with expenses incurred in carrying out such section.
-
-**(b) Deposit and Use of Fees.—** Fees collected under this section shall be deposited in the general fund of the Treasury as offsetting receipts. The fees may be used, to the extent provided in advance in an appropriation law, only to carry out activities under section 93(a)(4).
-
-
-<a id="section-103"></a>
-## § 103. Notification of certain determinations
+<a id="section-563"></a>
+## § 563. Notification of certain determinations
 **(a) In General.—** At least 90 days prior to making a final determination that a waterway, or a portion thereof, is navigable for purposes of the jurisdiction of the Coast Guard, the Commandant shall provide notification regarding the proposed determination to—
 
 (1) the Governor of each State in which such waterway, or portion thereof, is located;
@@ -972,3 +1233,85 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 (2) an analysis of whether operators of commercial vessels on such waterway, or portion thereof, are subject to licensing or similar regulation by State or local officials; and
 
 (3) an estimate of the annual costs that the Coast Guard may incur in conducting operations on such waterway, or portion thereof.
+
+### Statutory Notes
+
+#### Prior Provisions
+For redesignation of prior sections 564 to 688 not listed below as having been previously repealed or renumbered, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding [section 101 of this title](./chapter-001-establishment-and-duties.md#section-101).
+
+Prior sections 563 to 567 were repealed by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+Section 563, act Aug. 4, 1949, ch. 393, 63 Stat. 539; Aug. 3, 1950, ch. 536, § 28, 64 Stat. 407, related to summary courts-martial.
+
+Section 564, act Aug. 4, 1949, ch. 393, 63 Stat. 540; Aug. 3, 1950, ch. 536, § 29, 64 Stat. 407, related to general courts-martial.
+
+Section 565, act Aug. 4, 1949, ch. 393, 63 Stat. 540, related to Public Health Service officers as court members.
+
+Section 566, act Aug. 4, 1949, ch. 393, 63 Stat. 541, related to reviewing authorities.
+
+Section 567, act Aug. 4, 1949, ch. 393, 63 Stat. 541, related to jurisdiction of offenses.
+
+A prior section 568, added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2940; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569, related to guidance on excessive pass-through charges, prior to repeal by Pub. L. 115–232, div. C, title XXXV, § 3535, Aug. 13, 2018, 132 Stat. 2322.
+
+Another prior section 568, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to time limitations between offense and prosecution, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+A prior section 569, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to trial by civil authorities for offenses against United States, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+A prior section 569a was renumbered [section 2903 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2903) and subsequently renumbered as [section 5103 of this title](./chapter-051-reports.md#section-5103).
+
+Prior sections 570 to 576 were repealed by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+Section 570, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to designation of any Federal prison for execution of sentence.
+
+Section 571, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to Treasury and Navy Department jurisdiction.
+
+Section 572, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to courts of inquiry.
+
+Section 573, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to contempt of court.
+
+Section 574, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to issuance of and penalties for failure to comply with subpoenas.
+
+Section 575, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to arrest of deserters.
+
+Section 576, act Aug. 4, 1949, ch. 393, 63 Stat. 544, related to allowances to and transportation of prisoners.
+
+Section 634, act Aug. 4, 1949, ch. 393, 63 Stat. 545; Pub. L. 86–70, § 11, June 25, 1959, 73 Stat. 143; Pub. L. 97–295, § 2(18), Oct. 12, 1982, 96 Stat. 1302, related to officers designated as captain of the port or ports or adjacent high seas or waters over which the United States has jurisdiction, or appointed as United States Deputy Marshals in Alaska, prior to repeal by Pub. L. 115–282, title I, § 104(c)(2), Dec. 4, 2018, 132 Stat. 4199.
+
+A prior section 640, acts Aug. 4, 1949, ch. 393, 63 Stat. 546; June 15, 1955, ch. 142, 69 Stat. 134, related to interchange of supplies between armed forces, prior to repeal by Pub. L. 85–861, § 36A, C(1), Sept. 2, 1958, 72 Stat. 1569, 1571. See [section 2571 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2571&num=0&edition=prelim), Armed Forces.
+
+A prior section 645, acts Aug. 4, 1949, ch. 393, § 1, 63 Stat. 547; Sept. 3, 1954, ch. 1263, § 34, 68 Stat. 1239; Aug. 23, 1958, Pub. L. 85–738, §§ 4, 5, 72 Stat. 833, provided for settlement of claims incident to activities of Coast Guard, prior to repeal by Pub. L. 90–525, § 2, Sept. 26, 1968, 82 Stat. 877, effective two years after Sept. 26, 1968. See [section 2733 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2733&num=0&edition=prelim), Armed Forces.
+
+A prior section 651, act Aug. 4, 1949, ch. 393, 63 Stat. 550; Pub. L. 94–546, § 1(36), Oct. 18, 1976, 90 Stat. 2522; Pub. L. 99–509, title V, § 5102(a)(2), Oct. 21, 1986, 100 Stat. 1926, related to annual report on operations and expenditures of the Coast Guard during the preceding fiscal year, prior to repeal by Pub. L. 113–281, title II, § 221(a)(2), Dec. 18, 2014, 128 Stat. 3037.
+
+A prior section 657 was renumbered [section 544 of this title](./chapter-005-functions-and-powers.md#section-544) and subsequently renumbered as [section 2906 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2906).
+
+A prior section 659, added Pub. L. 95–61, § 4(1), July 1, 1977, 91 Stat. 259; amended Pub. L. 97–258, § 3(d), Sept. 13, 1982, 96 Stat. 1064, directed the merger of obligated balances with current appropriations, prior to repeal by Pub. L. 97–295, § 2(19)(A), Oct. 12, 1982, 96 Stat. 1302.
+
+Prior sections 661, 662, 662a, 663, and 674 were renumbered sections 2703, 2701, 2901, 2902, and 675 of this title, respectively, and subsequently renumbered as sections 4903, 4901, 5101, 5102, and 910 of this title, respectively.
+
+Prior sections 682 to 684 were repealed by Pub. L. 111–281, title II, § 221(a)(3), Oct. 15, 2010, 124 Stat. 2919.
+
+Section 682, added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3910; amended Pub. L. 108–293, title II, § 207(b), Aug. 9, 2004, 118 Stat. 1034, related to direct loans and loan guarantees.
+
+Section 683, added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3910, related to leasing of housing to be constructed.
+
+Section 684, added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3911; amended Pub. L. 108–293, title II, § 207(c), Aug. 9, 2004, 118 Stat. 1034, related to limited partnerships with eligible entities.
+
+A prior section 686, added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3912; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to assignment of members of the armed forces to housing units, prior to repeal by Pub. L. 111–281, title II, § 221(a)(5), Oct. 15, 2010, 124 Stat. 2919.
+
+A prior section 687a, added Pub. L. 108–293, title II, § 207(e), Aug. 9, 2004, 118 Stat. 1035, related to differential lease payments, prior to repeal by Pub. L. 111–281, title II, § 221(a)(7), Oct. 15, 2010, 124 Stat. 2920.
+
+A prior section 689, added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3913; amended Pub. L. 107–295, title IV, § 402(d), Nov. 25, 2002, 116 Stat. 2114, provided that the authority to enter into a transaction under former chapter 18 of this title expired Oct. 1, 2007, prior to repeal by Pub. L. 111–281, title II, § 221(a)(9), Oct. 15, 2010, 124 Stat. 2920.
+
+Prior sections 690 to 693 were repealed by Pub. L. 115–282, title I, § 104(c)(2), Dec. 4, 2018, 132 Stat. 4199.
+
+Section 690, added Pub. L. 101–225, title II, § 222(a), Dec. 12, 1989, 103 Stat. 1917, defined terms for purposes of former sections 690 to 693 of this title.
+
+Section 691, added Pub. L. 101–225, title II, § 222(a), Dec. 12, 1989, 103 Stat. 1917; amended Pub. L. 114–120, title II, § 209(11), Feb. 8, 2016, 130 Stat. 41, related to a program of environmental compliance and restoration at current and former Coast Guard facilities.
+
+Section 692, added Pub. L. 101–225, title II, § 222(a), Dec. 12, 1989, 103 Stat. 1918, related to the Coast Guard Environmental Compliance and Restoration Account.
+
+Section 693, added Pub. L. 101–225, title II, § 222(a), Dec. 12, 1989, 103 Stat. 1918; amended Pub. L. 112–213, title II, § 213(b), Dec. 20, 2012, 126 Stat. 1553; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(3), Aug. 13, 2018, 132 Stat. 2320, required the Commandant to submit a prioritized list of projects eligible for environmental compliance and restoration funding for each fiscal year.
+
+#### Amendments
+2018—Pub. L. 115–282 renumbered [section 103 of this title](./chapter-001-establishment-and-duties.md#section-103) as this section.

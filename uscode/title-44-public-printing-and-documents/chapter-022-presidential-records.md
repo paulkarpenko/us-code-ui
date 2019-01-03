@@ -44,7 +44,7 @@ Par. (2). Pub. L. 113–187, § 8(2), substituted “the President’s” for �
 Pub. L. 113–187, § 2(b)(2), substituted “advise or assist” for “advise and assist” in introductory provisions.
 
 #### Effective Date
-Pub. L. 95–591, § 3, Nov. 4, 1978, 92 Stat. 2528, provided that: “The amendments made by this Act [enacting this chapter, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under this section] shall be effective with respect to any Presidential rec­ords (as defined in [section 2201(2) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2201/2&num=0&edition=prelim), as amended by section 2 of this Act) created during a term of office of the President beginning on or after January 20, 1981.”
+Pub. L. 95–591, § 3, Nov. 4, 1978, 92 Stat. 2528, provided that: “The amendments made by this Act [enacting this chapter, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under this section] shall be effective with respect to any Presidential records (as defined in [section 2201(2) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2201/2&num=0&edition=prelim), as amended by section 2 of this Act) created during a term of office of the President beginning on or after January 20, 1981.”
 
 #### Short Title of 1978 Amendment
 For short title of Pub. L. 95–591, which enacted this chapter, as the “Presidential Records Act of 1978”, see section 1 of Pub. L. 95–591, set out as a note under [section 101 of this title](./chapter-001-joint-committee-on-printing.md#section-101).
@@ -57,6 +57,11 @@ Pub. L. 95–591, § 4, Nov. 4, 1978, 92 Stat. 2528, provided that: “If any pr
 ## § 2202. Ownership of Presidential records
 
 The United States shall reserve and retain complete ownership, possession, and control of Presidential records; and such records shall be administered in accordance with the provisions of this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under [section 2201 of this title](./chapter-022-presidential-records.md#section-2201).
 
 
 <a id="section-2203"></a>
@@ -128,6 +133,9 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date
+Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under [section 2201 of this title](./chapter-022-presidential-records.md#section-2201).
 
 #### Classified National Security Information
 For provisions authorizing Archivist to review, downgrade, and declassify information of former Presidents under control of Archivist pursuant to this section, see Ex. Ord. No. 13526, § 3.5(b), Dec. 29, 2009, 75 F.R. 718, set out as a note under [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim), War and National Defense.
@@ -205,6 +213,9 @@ Subsec. (f). Pub. L. 113–187, § 2(d), added subsec. (f).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
+
+#### Effective Date
+Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under [section 2201 of this title](./chapter-022-presidential-records.md#section-2201).
 
 #### Executive Order No. 12667
 Ex. Ord. No. 12667, Jan. 18, 1989, 54 F.R. 3403, which established policies and procedures governing the assertion of Executive privilege by incumbent and former Presidents in connection with the release of Presidential records by the National Archives and Records Administration pursuant to this chapter, was revoked by Ex. Ord. No. 13233, § 13, Nov. 1, 2001, 66 F.R. 56029, formerly set out below.
@@ -299,6 +310,9 @@ Par. (3). Pub. L. 113–187, § 8(5)(B), substituted “the former President’s
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
 
+#### Effective Date
+Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under [section 2201 of this title](./chapter-022-presidential-records.md#section-2201).
+
 
 <a id="section-2206"></a>
 ## § 2206. Regulations
@@ -318,6 +332,9 @@ The Archivist shall promulgate in accordance with [section 553 of title 5](https
 #### References in Text
 Section 2203(f)(3), referred to in par. (1), was redesignated [section 2203(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2203/g/3&num=0&edition=prelim) by Pub. L. 113–187, § 2(c)(3), Nov. 26, 2014, 128 Stat. 2006, and subsequently redesignated [section 2203(g)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2203/g/4&num=0&edition=prelim) by Pub. L. 114–136, § 3(1), Mar. 18, 2016, 130 Stat. 305.
 
+#### Effective Date
+Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under [section 2201 of this title](./chapter-022-presidential-records.md#section-2201).
+
 
 <a id="section-2207"></a>
 ## § 2207. Vice-Presidential records
@@ -328,6 +345,9 @@ Vice-Presidential records shall be subject to the provisions of this chapter in 
 
 #### Amendments
 2014—Pub. L. 113–187 inserted “, except section 2208,” after “chapter” in second sentence.
+
+#### Effective Date
+Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under [section 2201 of this title](./chapter-022-presidential-records.md#section-2201).
 
 #### Construction
 Pub. L. 113–187, § 2(a)(4), Nov. 26, 2014, 128 Stat. 2005, provided that: “Nothing in the amendment made by paragraph (2)(C) [amending this section] shall be construed to— “(A) affect the requirement of [section 2207 of title 44](./chapter-022-presidential-records.md#section-2207), United States Code, that Vice Presidential records shall be subject to chapter 22 of that title in the same manner as Presidential records; or “(B) affect any claim of constitutionally based privilege by a President or former President with respect to a Vice Presidential record.”

@@ -2,7 +2,7 @@
 title: 18
 chapter: '307'
 heading: EMPLOYMENT
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -249,7 +249,7 @@ Other changes of phraseology were made.
 
 (3) in the vocational training of inmates without regard to their industrial or other assignments;
 
-(4) in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations, and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution in which the inmates are confined.
+(4) in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations, not less than 15 percent of such compensation for any inmate shall be reserved in the fund or a separate account and made available to assist the inmate with costs associated with release from prison, and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution in which the inmates are confined.
 In no event may compensation for such injuries be paid in an amount greater than that provided in chapter 81 of title 5.
 
 **(d)** Accounts of all receipts and disbursements of the corporation shall be rendered to the Government Accountability Office for settlement and adjustment, as required by the Comptroller General.
@@ -283,6 +283,8 @@ Other changes in phraseology were made.
 This section [section 64] incorporates in [section 4126 of title 18](./chapter-307-employment.md#section-4126), U.S.C., provisions of act of May 11, 1948 (ch. 276, 62 Stat. 230), which was not incorporated in title 18 when the revision was enacted. The remainder of such act is incorporated in section 4122 of such title by another section of this bill.
 
 #### Amendments
+2018—Subsec. (c)(4). Pub. L. 115–391 inserted “not less than 15 percent of such compensation for any inmate shall be reserved in the fund or a separate account and made available to assist the inmate with costs associated with release from prison,” after “operations,”.
+
 2004—Subsecs. (a), (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1988—Subsecs. (a), (b). Pub. L. 100–690, § 7094(1), designated first and second pars. as subsecs. (a) and (b), respectively.
@@ -350,3 +352,31 @@ Words “Federal Prison Industries” were substituted for “the corporation”
 
 #### References in Text
 The date of the enactment of this section, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 100–690 which was approved Nov. 18, 1988.
+
+
+<a id="section-4130"></a>
+## § 4130. Additional markets
+**(a) In General.—** Except as provided in subsection (b), notwithstanding any other provision of law, Federal Prison Industries may sell products to—
+
+(1) public entities for use in penal or correctional institutions;
+
+(2) public entities for use in disaster relief or emergency response;
+
+(3) the government of the District of Columbia; and
+
+(4) any organization described in subsection (c)(3), (c)(4), or (d) of section 501 of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
+
+**(b) Office Furniture.—** Federal Prison Industries may not sell office furniture to the organizations described in subsection (a)(4).
+
+**(c) Definitions.—** In this section:
+
+(1) The term “office furniture” means any product or service offering intended to meet the furnishing needs of the workplace, including office, healthcare, educational, and hospitality environments.
+
+(2) The term “public entity” means a State, a subdivision of a State, an Indian tribe, and an agency or governmental corporation or business of any of the foregoing.
+
+(3) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the United States Virgin Islands.
+
+### Statutory Notes
+
+#### References in Text
+Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(4), is classified to [section 501 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), Internal Revenue Code.

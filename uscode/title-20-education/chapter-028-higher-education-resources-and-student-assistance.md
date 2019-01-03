@@ -882,7 +882,7 @@ A prior section 1011b, Pub. L. 89–329, title I, § 123, as added Pub. L. 102�
 
   (D) a list of the functions of the Committee, including any additional functions established by the Secretary through regulation.
 
-**(f) Termination** The Committee shall terminate on September 30, 2017.
+**(f) Termination** The Committee shall terminate on September 30, 2019.
 
 ### Statutory Notes
 
@@ -895,6 +895,10 @@ Provisions similar to this section were contained in [section 1145 of this title
 A prior section 1011c, Pub. L. 89–329, title I, § 124, as added Pub. L. 102–325, title I, § 101, July 23, 1992, 106 Stat. 463, related to local applications for grants, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–245 substituted “2019” for “2018”.
+
+Pub. L. 115–141 substituted “2018” for “2017”.
+
 2017—Subsec. (f). Pub. L. 115–31 substituted “2017” for “2016”.
 
 2015—Subsec. (f). Pub. L. 114–113 substituted “2016” for “2015”.
@@ -2450,6 +2454,81 @@ Pub. L. 105–244, title VIII, § 801, Oct. 7, 1998, 112 Stat. 1803, which direc
 
 ### Statutory Notes
 
+#### Amendment of Subsections (e), (f), (h), and (l)
+Pub. L. 115–232, div. A, title VIII, § 836(g)(2), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, made amendments to subsections (e), (f), (h) and (l) of this section, effective Jan. 1, 2020, subject to a savings provision. After Jan. 1, 2020, subsections (e), (f), (h) and (l) of this section will read as follows:
+
+(e) Use of simplified procedures for commercial products and commercial services
+
+Whenever the PBO anticipates that commercial products or commercial services will be offered for a procurement, the PBO may use (consistent with the special rules for commercial products and commercial services) the special simplified procedures for the procurement without regard to any dollar limitation otherwise applicable to the use of those procedures.
+
+(f) Flexible wait periods and deadlines for submission of offers of noncommercial products and services
+
+(1) Authority
+
+In carrying out a procurement, the PBO may—
+
+(A) apply a shorter waiting period for the issuance of a solicitation after the publication of a notice under [section 1708 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1708&num=0&edition=prelim) than is required under subsection (a)(3)(A) of such section; and
+
+(B) notwithstanding subsection (a)(3) of such section, establish any deadline for the submission of bids or proposals that affords potential offerors a reasonable opportunity to respond to the solicitation.
+
+(2) Inapplicability to commercial products and services
+
+Paragraph (1) does not apply to a procurement of a commercial product or a commercial service.
+
+(3) Consistency with applicable international agreements
+
+If an international agreement is applicable to the procurement, any exercise of authority under paragraph (1) shall be consistent with the international agreement.
+
+(h) Use of simplified procedures for small business set-asides for services other than commercial services
+
+(1) Authority
+
+The PBO may use special simplified procedures for a procurement of services that are not commercial services if—
+
+(A) the procurement is in an amount not greater than $1,000,000;
+
+(B) the procurement is conducted as a small business set-aside pursuant to [section 644(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/a&num=0&edition=prelim); and
+
+(C) the price charged for supplies associated with the services procured are items of supply expected to be less than 20 percent of the total contract price.
+
+(2) Inapplicability to certain procurements
+
+The authority set forth in paragraph (1) may not be used for—
+
+(A) an award of a contract on a single-source basis; or
+
+(B) a contract for construction.
+
+(l) Definitions
+
+In this section:
+
+(1) Commercial product
+
+The term “commercial product” has the meaning given the term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim).
+
+(2) Commercial service
+
+The term “commercial service” has the meaning given the term in [section 103a of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103a&num=0&edition=prelim).
+
+(3) Competitive procedures
+
+The term “competitive procedures” has the meaning given the term in [section 152 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section152&num=0&edition=prelim).
+
+(4) Single-source basis
+
+The term “single-source basis”, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only such source (although such source is not the only source in the marketplace capable of meeting the need) because such source is the most advantageous source for purposes of the award.
+
+(5) Special rules for commercial products and commercial services
+
+The term “special rules for commercial products and commercial services” means the regulations set forth in the Federal Acquisition Regulation pursuant to sections 1901 and 3305(a) of title 41.
+
+(6) Special simplified procedures
+
+The term “special simplified procedures” means the procedures applicable to purchases of property and services for amounts not greater than the simplified acquisition threshold that are set forth in the Federal Acquisition Regulation pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41.
+
+See 2018 Amendment notes below.
+
 #### References in Text
 Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L. 104–106, which is set out as a note under [section 2304 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), Armed Forces.
 
@@ -2476,6 +2555,26 @@ In subsec. (l)(5), “sections 1901(a)(1) and 3305(a)(1) of title 41” substitu
 A prior section 1018a, Pub. L. 89–329, title I, § 142, as added Pub. L. 100–418, title VI, § 6201, Aug. 23, 1988, 102 Stat. 1515, related to grants for literacy corps programs, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–232, § 836(g)(2)(A), in heading, substituted “commercial products and commercial services” for “commercial items” and, in text, substituted “that commercial products or commercial services will be offered for a procurement, the PBO may use (consistent with the special rules for commercial products and commercial services) the special simplified procedures for the procurement without regard to” for “that commercial items will be offered for a procurement, the PBO may use (consistent with the special rules for commercial items) the special simplified procedures for the procurement without regard to—”, struck out par. (1) designation, substituted period for “; and”, and struck out par. (2). Prior to amendment, par. (2) read as follows: “the expiration of the authority to use special simplified procedures under section 4202(e) of the Clinger-Cohen Act of 1996 (110 Stat. 654; [10 U.S.C. 2304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim) note).”
+
+Subsec. (f). Pub. L. 115–232, § 836(g)(2)(B)(i), substituted “products and services” for “items” in heading.
+
+Subsec. (f)(2). Pub. L. 115–232, § 836(g)(2)(B)(ii), (iii), substituted “products and services” for “items” in heading and “a commercial product or a commercial service” for “a commercial item” in text.
+
+Subsec. (h). Pub. L. 115–232, § 836(g)(2)(C)(i), substituted “services” for “items” in heading.
+
+Subsec. (h)(1). Pub. L. 115–232, § 836(g)(2)(C)(ii), substituted “commercial services” for “commercial items” in introductory provisions.
+
+Subsec. (l)(1), (2). Pub. L. 115–232, § 836(g)(2)(D)(ii), added pars. (1) and (2) and struck out former par. (1) which defined “commercial item”. Former par. (2) redesignated (3).
+
+Subsec. (l)(3). Pub. L. 115–232, § 836(g)(2)(D)(i), (iii), redesignated par. (2) as (3) and substituted “in [section 152 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section152&num=0&edition=prelim).” for “in section 309(b) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 259(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section259/b&num=0&edition=prelim)).” Former par. (3) redesignated (4).
+
+Subsec. (l)(4). Pub. L. 115–232, § 836(g)(2)(D)(i), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (l)(5). Pub. L. 115–232, § 836(g)(2)(D)(i), (iv), redesignated par. (4) as (5) and substituted, in heading, “commercial products and commercial services” for “commercial items” and, in text, “commercial products and commercial services” for “commercial items” and “pursuant to sections 1901 and 3305(a) of title 41.” for “pursuant to section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/g/1&num=0&edition=prelim)) and section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section427&num=0&edition=prelim)).” Former par. (5) redesignated (6).
+
+Subsec. (l)(6). Pub. L. 115–232, § 836(g)(2)(D)(i), (v), redesignated par. (5) as (6) and substituted “pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41.” for “pursuant to section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/g/1/A&num=0&edition=prelim)) and section 31(a)(1) of the Office of Federal Procurement Policy Act ([41 U.S.C. 427(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section427/a/1&num=0&edition=prelim)).”
+
 2008—Subsec. (b)(1). Pub. L. 110–315, § 118(1)(A), struck out “for information systems supporting the programs authorized under subchapter IV” after “enter into contracts” and “and” after semicolon.
 
 Subsec. (b)(2), (3). Pub. L. 110–315, § 118(1)(B), (C), substituted “; and” for period at end of par. (2) and added par. (3).
@@ -2491,6 +2590,9 @@ Subsec. (g)(7). Pub. L. 110–315, § 118(4)(B), substituted “single-source”
 Subsec. (h)(2)(A). Pub. L. 110–315, § 118(5), substituted “single-source” for “sole-source”.
 
 Subsec. (l)(3). Pub. L. 110–315, § 118(6), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘sole-source basis’, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only that source.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 
 <a id="section-1018b"></a>
@@ -5668,78 +5770,95 @@ Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, which established in the Depart
 #### Executive Order No. 13256
 Ex. Ord. No. 13256, Feb. 12, 2002, 67 F.R. 6823, which established in the Office of the Secretary of Education the President’s Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee, was revoked by Ex. Ord. No. 13532, § 4(g), Feb. 26, 2010, 75 F.R. 9752, set out below.
 
-#### Ex. Ord. No. 13532. Promoting Excellence, Innovation, and Sustainability at Historically Black Colleges and Universities
-Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, § 4, Apr. 5, 2011, 76 F.R. 19891, provided:
+#### Executive Order No. 13532
+Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, § 4, Apr. 5, 2011, 76 F.R. 19891, which established the White House Initiative on Historically Black Colleges and Universities and the President’s Board of Advisors on Historically Black Colleges and Universities, was revoked by Ex. Ord. No. 13779, § 4, Feb. 28, 2017, 82 F.R. 12501, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to advance the development of the Nation’s full human potential and to advance equal opportunity in higher education, strengthen the capacity of historically black colleges and universities to provide the highest quality education, increase opportunities for these institutions to participate in and benefit from Federal programs, and ensure that our Nation has the highest proportion of college graduates in the world by the year 2020, it is hereby ordered as follows:
+#### Ex. Ord. No. 13779. White House Initiative To Promote Excellence and Innovation at Historically Black Colleges and Universities
+Ex. Ord. No. 13779, Feb. 28, 2017, 82 F.R. 12499, provided:
 
-Section 1. Policy. Historically black colleges and universities (HBCUs) have made historic and ongoing contributions to the general welfare and prosperity of our country. Established by visionary leaders, America’s HBCUs, for over 150 years, have produced many of the Nation’s leaders in business, government, academia, and the military and have provided generations of American men and women with hope and educational opportunity. The Nation’s 105 HBCUs are located in 20 States, the District of Columbia, and the U.S. Virgin Islands and serve more than 300,000 undergraduate and graduate students. These institutions continue to be important engines of economic growth and community service, and they are proven ladders of intergenerational advancement for men and women of all ethnic, racial, and economic backgrounds, especially African Americans. These institutions also produce a high number of baccalaureate recipients who go on to assume leadership and service roles in their communities and who successfully complete graduate and professional degree programs.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance opportunities in higher education, it is hereby ordered as follows:
+
+Section 1. Policy. Historically black colleges and universities (HBCUs) have made, and continue to make, extraordinary contributions to the general welfare and prosperity of our country. Established by visionary leaders, America’s HBCUs have, for more than 150 years, produced many of our Nation’s leaders in business, government, academia, and the military, and have helped create a black middle class. The Nation’s more than 100 HBCUs are located in 20 States, the District of Columbia, and the U.S. Virgin Islands, and serve more than 300,000 undergraduate, graduate, and professional students. These institutions are important engines of economic growth and public service, and they are proven ladders of intergenerational advancement.
+
+A White House Initiative on HBCUs would: advance America’s full human potential; foster more and better opportunities in higher education; strengthen the capacity of HBCUs to provide the highest-quality education; provide equitable opportunities for HBCUs to participate in Federal programs; and increase the number of college-educated Americans who feel empowered and able to advance the common good at home and abroad.
 
 Sec. 2. White House Initiative on HBCUs.
 
-(a) Establishment. There is established the White House Initiative on Historically Black Colleges and Universities (Initiative), to be housed in the Department of Education (Department).
+(a) Establishment. There is established the White House Initiative on Historically Black Colleges and Universities (Initiative), housed in the Executive Office of the President and led by an Executive Director designated by the President.
 
-(b) Mission and Functions. The Initiative shall work with executive departments, agencies, and offices, the private sector, educational associations, philanthropic organizations, and other partners to increase the capacity of HBCUs to provide the highest-quality education to a greater number of students, and to take advantage of these institutions’ capabilities in serving the Nation’s needs through five core tasks:
+(b) Mission and Functions. The Initiative shall work with agencies, private-sector employers, educational associations, philanthropic organizations, and other partners to increase the capacity of HBCUs to provide the highest-quality education to an increasing number of students. The Initiative shall have two primary missions:
 
-(i) strengthening the capacity of HBCUs to participate in Federal programs;
+(i) increasing the private-sector role, including the role of private foundations, in:
 
-(ii) fostering enduring private-sector initiatives and public-private partnerships while promoting specific areas and centers of academic research and programmatic excellence throughout all HBCUs;
+(A) strengthening HBCUs through enhanced institutional planning and development, fiscal stability, and financial management; and
 
-(iii) improving the availability, dissemination, and quality of information concerning HBCUs to inform public policy and practice;
+(B) upgrading institutional infrastructure, including the use of technology, to ensure the long-term viability of these institutions; and
 
-(iv) sharing administrative and programmatic practices within the HBCU community for the benefit of all; and
+(ii) enhancing HBCUs’ capabilities to serve our Nation’s young adults by:
 
-(v) exploring new ways of improving the relationship between the Federal Government and HBCUs.
+(A) strengthening HBCUs’ ability to equitably participate in Federal programs and exploring new ways of improving the relationship between the Federal Government and HBCUs;
 
-(c) Administration. There shall be an Executive Director of the Initiative. The Department shall provide the staff, resources, and assistance for the Initiative, and shall assist the Initiative in fulfilling its mission and responsibilities under this order.
+(B) fostering private-sector initiatives and public-private partnerships while promoting specific areas and centers of academic research and program-based excellence throughout HBCUs;
 
-(d) Federal Agency Plans. (1) Each executive department and agency designated by the Secretary of Education (Secretary) shall prepare an annual plan (agency plan) of its efforts to strengthen the capacity of HBCUs through increased participation in appropriate Federal programs and initiatives. Where appropriate, each agency plan shall address, among other things, the agency’s proposed efforts to:
+(C) improving the availability, dissemination, and quality of information concerning HBCUs in the public policy sphere;
 
-(i) establish how the department or agency intends to increase the capacity of HBCUs to compete effectively for grants, contracts, or cooperative agreements and to encourage HBCUs to participate in Federal programs;
+(D) sharing administrative and programmatic best practices within the HBCU community;
 
-(ii) identify Federal programs and initiatives in which HBCUs may be either underserved or underused as national resources, and improve HBCUs’ participation therein; and
+(E) partnering with elementary and secondary education stakeholders to build a “cradle-to-college” pipeline; and
 
-(iii) encourage public-sector, private-sector, and community involvement in improving the overall capacity of HBCUs.
+(F) convening an annual White House Summit on HBCUs to address, among other topics, matters related to the Initiative’s missions and functions.
 
-(2) Each department and agency, in its agency plan, shall provide appropriate measurable objectives and, after the first year, shall annually assess that department’s or agency’s performance on the goals set in the previous year’s agency plan.
+(c) Federal Agency Plans.
 
-(3) The Secretary shall establish a date by which agency plans shall be submitted to the Secretary. The Secretary and the Executive Director shall review the agency plans in consultation with the President’s Board of Advisors on HBCUs, established in section 3 of this order, and shall submit to the President an annual plan to strengthen the overall capacity of HBCUs.
+(i) The Secretary of Education (Secretary), in consultation with the Executive Director, shall identify those agencies that regularly interact with HBCUs.
 
-(4) To help fulfill the objectives of these plans, the head of each department and agency identified by the Secretary shall provide, as appropriate, technical assistance and information to the Executive Director for purposes of communicating with HBCUs concerning program activities of the department or agency and the preparation of applications or proposals for grants, contracts, or cooperative agreements.
+(ii) Each agency identified by the Secretary under subsection (c)(i) of this section shall prepare an annual plan (Agency Plan) describing its efforts to strengthen the capacity of HBCUs to participate in applicable Federal programs and initiatives. Where appropriate, each Agency Plan shall address, among other things, the agency’s proposed efforts to:
 
-(5) To help fulfill the goals of this order, each executive department and agency identified by the Secretary shall appoint a senior official to report directly to the department or agency head with respect to that department’s or agency’s activities under this order, and to serve as liaison to the President’s Board of Advisors on HBCUs and to the Initiative.
+(A) establish how the agency intends to increase the capacity of HBCUs to compete effectively for grants, contracts, or cooperative agreements;
 
-(e) Interagency Working Group. There is established the Interagency Working Group, which shall be convened by the Executive Director and that shall consist of representatives from agencies designated by the Secretary, to help advance and coordinate the work of Federal agencies pursuant to this order, where appropriate.
+(B) identify Federal programs and initiatives where HBCUs are not well represented, and improve HBCUs’ participation in those programs and initiatives; and
+
+(C) encourage public-sector, private-sector, and community involvement in improving the overall capacity of HBCUs.
+
+(iii) The head of each agency identified in subsection (c)(i) of this section shall submit its Agency Plan to the Secretary and the Executive Director no later than 90 days after being so identified, and submit an updated Agency Plan annually thereafter.
+
+(iv) To help fulfill the objectives of the Agency Plans, the head of each agency identified by the Secretary may provide, as appropriate, technical assistance and information to the Executive Director to enhance communication with HBCUs concerning the agency’s program activities and the preparation of applications or proposals for grants, contracts, or cooperative agreements.
+
+(v) Each agency identified by the Secretary shall appoint a senior official to report directly to the agency head on that agency’s progress under this order, and to serve as liaison to the Initiative.
+
+(d) Interagency Working Group. There is established an Interagency Working Group, which shall be chaired by the Executive Director and shall consist of one representative from each agency identified by the Secretary pursuant to subsection (c)(i) of this section, to help advance and coordinate the work required by this order.
 
 Sec. 3. President’s Board of Advisors on HBCUs.
 
-(a) Establishment. There is established in the Department the President’s Board of Advisors on Historically Black Colleges and Universities (the Board). The Board shall consist of not more than 25 members appointed by the President. The President shall designate one member of the Board to serve as Chair, who shall coordinate with the Executive Director to convene meetings and help direct the work of the Board. The Board shall include representatives of a variety of sectors, including philanthropy, education, business, finance, entrepreneurship, innovation, and private foundations, as well as sitting HBCU presidents.
+(a) Establishment. There is established in the Department of Education the President’s Board of Advisors on Historically Black Colleges and Universities (Board). The Board shall consist of not more than 25 members appointed by the President. The Board shall include the Secretary, the Executive Director, representatives of a variety of sectors—such as philanthropy, education, business, finance, entrepreneurship, innovation, and private foundations—and sitting HBCU presidents. The President shall designate one member of the Board to serve as its Chair, who shall help direct the Board’s work in coordination with the Secretary and in consultation with the Executive Director. The Chair shall also consult with the Executive Director regarding the time and location of the Board’s meetings, which shall take place at least once every 6 months.
 
-(b) Mission and Functions. Through the Initiative, the Board shall advise the President and the Secretary on all matters pertaining to strengthening the educational capacity of HBCUs. In particular, the Board shall advise the President and the Secretary in the following areas:
+(b) Mission and Functions. The Board shall advise the President, through the Initiative, on all matters pertaining to strengthening the educational capacity of HBCUs. In particular, the Board shall advise the President in the following areas:
 
-(i) improving the identity, visibility, and distinctive capabilities and overall competitiveness of HBCUs;
+(i) improving the identity, visibility, distinctive capabilities, and overall competitiveness of HBCUs;
 
 (ii) engaging the philanthropic, business, government, military, homeland-security, and education communities in a national dialogue regarding new HBCU programs and initiatives;
 
-(iii) improving the ability of HBCUs to remain fiscally secure institutions that can assist the Nation in reaching its goal of having the highest proportion of college graduates by 2020;
+(iii) improving the ability of HBCUs to remain fiscally secure institutions that can assist the Nation in achieving its educational goals and in advancing the interests of all Americans;
 
-(iv) elevating the public awareness of HBCUs; and
+(iv) elevating the public awareness of, and fostering appreciation of, HBCUs; and
 
 (v) encouraging public-private investments in HBCUs.
 
-(c) Administration. The Executive Director of the Initiative shall also serve as the Executive Director of the Board. The Department shall provide funding and administrative support for the Board to the extent permitted by law and within existing appropriations. Members of the Board shall serve without compensation, but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Board, any functions of the President under that Act, except for those of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
+(c) Administration. The Department of Education shall provide funding and administrative support for the Board, consistent with applicable law and subject to the availability of appropriations. Members of the Board shall serve without compensation, but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Board, any functions of the President under that Act, except for those of reporting to the Congress, shall be performed by the Chair, in accordance with guidelines issued by the Administrator of General Services.
 
-(d) Report. As part of the annual report of the Initiative, the Board shall report to the President and the Secretary on their progress in carrying out its duties under this section.
+(d) Report. The Board shall report annually to the President on the Board’s progress in carrying out its duties under this section.
 
-Sec. 4. General Provisions. (a) For the purposes of this order, “historically black colleges and universities” shall mean those institutions listed in 34 C.F.R. 608.2.
+Sec. 4. Revocation of Executive Order. Executive Order 13532 of February 26, 2010 (Promoting Excellence, Innovation, and Sustainability at Historically Black Colleges and Universities), as amended, is revoked.
+
+Sec. 5. General Provisions. (a) For the purposes of this order, “historically black colleges and universities” shall mean those institutions listed in 34 CFR 608.2.
 
 (b) This order shall apply to executive departments and agencies designated by the Secretary. Those departments and agencies shall provide timely reports and such information as is required to effectively carry out the objectives of this order.
 
-(c) The heads of executive departments and agencies shall assist and provide information through the White House Initiative to the Board, consistent with applicable law, as may be necessary to carry out the functions of the Board. Each executive department and agency shall bear its own expenses of participating in the Initiative.
+(c) The heads of executive departments and agencies shall assist and provide information to the Board, consistent with applicable law, as may be necessary to carry out the functions of the Board. Each executive department and agency shall bear its own expenses of participating in the Initiative.
 
 (d) Nothing in this order shall be construed to impair or otherwise affect:
 
-(i) the authority granted by law to an executive department, agency, or the head thereof; or
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
 
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
@@ -5747,14 +5866,14 @@ Sec. 4. General Provisions. (a) For the purposes of this order, “historically 
 
 (f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(g) Executive Order 13256 of February 12, 2002, is hereby revoked.
-
-Barack Obama.
+Donald J. Trump.
 
 #### Extension of Term of President’s Board of Advisors on Historically Black Colleges and Universities
-Term of President’s Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President’s Board of Advisors on Historically Black Colleges and Universities were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
@@ -8090,9 +8209,9 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
       (VII) $1,320,000,000 for fiscal year 2017;
 
-      (VIII) $1,382,000,000 for fiscal year 2018;
+      (VIII) $1,334,000,000 for fiscal year 2018;
 
-      (IX) $1,409,000,000 for fiscal year 2019;
+      (IX) $1,370,000,000 for fiscal year 2019;
 
       (X) $1,430,000,000 for fiscal year 2020; and
 
@@ -8226,6 +8345,10 @@ A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 40
 Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, § 131(b)(1), title X, § 1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, § 125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, § 401, title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to [section 1070 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070), prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2018—Subsec. (b)(7)(A)(iv)(VIII). Pub. L. 115–141 substituted “$1,334,000,000” for “$1,382,000,000”.
+
+Subsec. (b)(7)(A)(iv)(IX). Pub. L. 115–245 substituted “$1,370,000,000” for “$1,409,000,000”.
+
 2017—Subsec. (b)(7)(A)(iv)(VII). Pub. L. 115–31, § 310(b), substituted “$1,320,000,000” for “$1,574,000,000”.
 
 Subsec. (b)(8). Pub. L. 115–31, § 310(a), added par. (8).
@@ -8522,6 +8645,10 @@ Pub. L. 99–498, title XIII, § 1306, Oct. 17, 1986, 100 Stat. 1582, directed S
 
 #### Maximum Pell Grants
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 115–245, div. B, title III, Sept. 28, 2018, 132 Stat. 3101.
+
+Pub. L. 115–141, div. H, title III, Mar. 23, 2018, 132 Stat. 746.
 
 Pub. L. 115–31, div. H, title III, May 5, 2017, 131 Stat. 549.
 
@@ -12584,9 +12711,11 @@ A prior section 1076, Pub. L. 89–329, title IV, § 426, Nov. 8, 1965, 79 Stat.
       (II) is pursuing a course of study pursuant to a graduate fellowship program approved by the Secretary, or pursuant to a rehabilitation training program for individuals with disabilities approved by the Secretary,
     except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program;
 
-    (ii) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment; or
+    (ii) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
-    (iii) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship;
+    (iii) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship; or
+
+    (iv) in which the borrower is receiving treatment for cancer and the 6 months after such period.11 So in original. The period probably should be a semicolon.
     and provides that any such period shall not be included in determining the 10-year period described in subparagraph (B);
 
   (D) provides for interest on the unpaid principal balance of the loan at a yearly rate, not exceeding the applicable maximum rate prescribed in [section 1077a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1077a), which interest shall be payable in installments over the period of the loan except that, if provided in the note or other written agreement, any interest payable by the student may be deferred until not later than the date upon which repayment of the first installment of principal falls due, in which case interest accrued during that period may be added on that date to the principal;
@@ -12597,7 +12726,7 @@ A prior section 1076, Pub. L. 89–329, title IV, § 426, Nov. 8, 1965, 79 Stat.
 
   (G)
 
-    (i) contains a notice of the system,11 So in original. The comma probably should not appear. of disclosure of information concerning such loan to consumer reporting agencies under [section 1080a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1080a), and (ii) provides that the lender on request of the borrower will provide information on the repayment status of the note to such consumer reporting agencies;
+    (i) contains a notice of the system,22 So in original. The comma probably should not appear. of disclosure of information concerning such loan to consumer reporting agencies under [section 1080a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1080a), and (ii) provides that the lender on request of the borrower will provide information on the repayment status of the note to such consumer reporting agencies;
 
   (H) provides that, no more than 6 months prior to the date on which the borrower’s first payment on a loan is due, the lender shall offer the borrower the option of repaying the loan in accordance with a graduated or income-sensitive repayment schedule established by the lender and in accordance with the regulations of the Secretary; and
 
@@ -12631,6 +12760,8 @@ A prior section 1076, Pub. L. 89–329, title IV, § 426, Nov. 8, 1965, 79 Stat.
 A prior section 1077, Pub. L. 89–329, title IV, § 427, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 89–794, title XI, § 1101(b)(1), Nov. 8, 1966, 80 Stat. 1476; Pub. L. 90–460, § 2(a)(1), Aug. 3, 1968, 82 Stat. 635; Pub. L. 90–575, title I, §§ 113(b)(2), 116(b)(2), 117(c), 120(c)(2), Oct. 16, 1968, 82 Stat. 1021, 1023, 1026, 1027; Pub. L. 92–318, title I, §§ 132B(b), 132C(c), June 23, 1972, 86 Stat. 262, 263; Pub. L. 94–482, title I, § 127(a), Oct. 12, 1976, 90 Stat. 2106; Pub. L. 95–43, § 1(a)(9), (18), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–566, § 5(a)(1), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §§ 413(a), (c), 415(a)(2), (b)(1), 416(a)(2), 423(a)(1), title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1417–1421, 1432, 1503; Pub. L. 97–35, title V, § 537(b)(1), (d)(2), (e)(1), Aug. 13, 1981, 95 Stat. 456, 457; Pub. L. 98–79, § 10[(a)], Aug. 15, 1983, 97 Stat. 484; Pub. L. 99–272, title XVI, §§ 16012(a), 16013(b), 16017(b)(1), Apr. 7, 1986, 100 Stat. 339, 340, 347, set out conditions for Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2018—Subsec. (a)(2)(C)(iv). Pub. L. 115–245 added cl. (iv).
+
 2008—Subsec. (a)(2)(G)(i). Pub. L. 110–315, § 432(b)(1)(A), substituted “consumer reporting agencies” for “credit bureau organizations”.
 
 Subsec. (a)(2)(G)(ii). Pub. L. 110–315, § 432(b)(1)(B), substituted “consumer reporting agencies” for “organizations”.
@@ -12670,6 +12801,9 @@ Subsec. (b)(2). Pub. L. 100–369, § 5(b)(1), substituted “section 1078–2 o
 Subsec. (a)(2)(C)(vii). Pub. L. 100–50, § 10(b)(2), inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
 
 Subsec. (a)(4). Pub. L. 100–50, § 10(c), substituted “$1,000 or more” for “more than $1,000”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–245, div. B, title III, § 309(f), Sept. 28, 2018, 132 Stat. 3106, provided that: “The amendments made by this Act [probably means “this section”, amending this section and sections 1078, 1078–8, 1087e, and 1087dd of this title] shall apply with respect to loans— “(1) made on or after the date of the enactment of this Act [Sept. 28, 2018]; or “(2) in repayment on the date of the enactment of this Act.”
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under [section 1003 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003).
@@ -13248,9 +13382,11 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
       (I) is serving on active duty during a war or other military operation or national emergency; or
 
       (II) is performing qualifying National Guard duty during a war or other military operation or national emergency,
-    and for the 180-day period following the demobilization date for the service described in subclause (I) or (II); or
+    and for the 180-day period following the demobilization date for the service described in subclause (I) or (II);
 
-    (iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship;
+    (iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship; or
+
+    (v) during which the borrower is receiving treatment for cancer and the 6 months after such period;
 
   (N) provides that funds borrowed by a student—
 
@@ -13858,6 +13994,8 @@ A prior section 1078, Pub. L. 89–329, title IV, § 428, Nov. 8, 1965, 79 Stat.
 A prior section 1078a, Pub. L. 91–95, § 2, Oct. 22, 1969, 83 Stat. 141; Pub. L. 92–318, title I, § 134(a), June 23, 1972, 86 Stat. 270; Pub. L. 93–269, § 5, Apr. 18, 1974, 88 Stat. 89; Pub. L. 94–328, § 2(c), June 30, 1976, 90 Stat. 727; Pub. L. 94–482, title I, § 127(c)(1), Oct. 12, 1976, 90 Stat. 2142, related to special allowances for insured student loans, prior to repeal by Pub. L. 94–482, title I, § 127(c)(2), Oct. 12, 1976, 90 Stat. 2142.
 
 #### Amendments
+2018—Subsec. (b)(1)(M)(v). Pub. L. 115–245 added cl. (v).
+
 2015—Subsec. (c)(1)(A). Pub. L. 114–113, which directed substitution of “100 percent” for “95 percent” in subsec. (c)(1), was executed by making the substitution the first time “95 percent” appeared to reflect the probable intent of Congress.
 
 2011—Subsec. (a)(3)(A)(i)(I). Pub. L. 112–74 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “which accrues prior to the beginning of the repayment period of the loan, or”.
@@ -14547,6 +14685,9 @@ Subsec. (i)(1). Pub. L. 100–50, § 10(l), struck out “multiple” after “a
 Subsec. (j). Pub. L. 100–50, § 10(m), inserted provision at end that the guaranty agency consider the request of an eligible lender to serve as the lender-of-last-resort pursuant to this subsection.
 
 Subsec. (k)(1). Pub. L. 100–203, § 3003, substituted “Notwithstanding any other provision of law, in” for “In”, “guaranty agency shall” for “guaranty agency may”, and “subsection shall include” for “subsection may include”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under [section 1077 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1077).
 
 #### Effective Date of 2011 Amendment
 Pub. L. 112–74, div. F, title III, § 309(d)(2), Dec. 23, 2011, 125 Stat. 1101, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to new Federal Direct Stafford Loans made on or after July 1, 2012 and before July 1, 2014.”
@@ -16081,7 +16222,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Selection of Student Loan Servicer
-Pub. L. 115–31, div. H, title III, May 5, 2017, 131 Stat. 549, provided in part: “That the Secretary [of Education] shall, no later than September 30, 2017, allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan.”
+Pub. L. 115–31, div. H, title III, May 5, 2017, 131 Stat. 549, which provided in part that the Secretary of Education must, no later than September 30, 2017, allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan, was transferred and is classified as a note under [section 1087f of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087f).
 
 #### Pending Applicants
 Pub. L. 105–78, title VI, § 609(f), Nov. 13, 1997, 111 Stat. 1523, provided that: “The consolidation loans authorized by the amendments made by this section [amending this section] shall be available notwithstanding any pending application by a student for a consolidation loan under part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.), upon withdrawal of such application by the student at any time prior to receipt of such a consolidation loan.”
@@ -16434,7 +16575,7 @@ Section applicable with respect to loans made to cover cost of instruction for p
 
 (2) **Capitalization of interest**
 
-  (A) Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender—
+  (A) Except as provided in subparagraph (C), interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender—
 
     (i) be paid monthly or quarterly; or
 
@@ -16449,6 +16590,8 @@ Section applicable with respect to loans made to cover cost of instruction for p
       (IV) when the borrower defaults.
 
   (B) The capitalization of interest described in subparagraph (A) shall not be deemed to exceed the annual insurable limit on account of the student.
+
+  (C) Interest shall not accrue on a loan deferred under section 1078(b)(1)(M)(v) or 1077(a)(2)(C)(iv) of this title.
 
 (3) **Subsidies prohibited** — No payments to reduce interest costs shall be paid pursuant to [section 1078(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/a&num=0&edition=prelim) on loans made pursuant to this section.
 
@@ -16477,6 +16620,10 @@ Section applicable with respect to loans made to cover cost of instruction for p
 Amendments by section 2(c)(42), (45) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Amendments
+2018—Subsec. (e)(2)(A). Pub. L. 115–245, § 309(e)(1), substituted “Except as provided in subparagraph (C), interest” for “Interest” in introductory provisions.
+
+Subsec. (e)(2)(C). Pub. L. 115–245, § 309(e)(2), added subpar. (C).
+
 2010—Subsec. (a). Pub. L. 111–152, § 2207(1), inserted “that are first disbursed before July 1, 2010,” after “under this part”.
 
 Subsec. (b). Pub. L. 111–152, § 2207(2), substituted “Prior to July 1, 2010, any student” for “Any student” and inserted “for which the first disbursement is made before such date” after “unsubsidized Federal Stafford Loan” in introductory provisions.
@@ -16568,6 +16715,9 @@ Subsec. (h). Pub. L. 103–208, § 2(c)(45), redesignated subsec. (l) as (h). Se
 Subsec. (l). Pub. L. 103–208, § 2(c)(45), redesignated subsec. (l) as (h). See Codification note above.
 
 Pub. L. 103–66, § 4102(b)(2), added subsec. (l).
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under [section 1077 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1077).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -18115,6 +18265,9 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date
 Section effective Oct. 17, 1986, with subsec. (d)(5) of this section effective 30 days after Oct. 17, 1986, see section 402(b) of Pub. L. 99–498, set out as a note under [section 1071 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1071).
 
+#### Waiver of Mitigating Circumstances Requirement for Student Loan Insurance Program Eligibility
+Pub. L. 115–141, div. H, title III, § 314, Mar. 23, 2018, 132 Stat. 752, provided that: “(a) In General.—For the purpose of carrying out section 435(a)(2) of the Higher Education Act of 1965 ([20 U.S.C. 1085(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1085/a/2&num=0&edition=prelim)), the Secretary of Education may waive the requirements under sections 435(a)(5)(A)(i) and 435(a)(5)(A)(ii) of such Act ([20 U.S.C. 1085(a)(5)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1085/a/5/A/i&num=0&edition=prelim) and [20 U.S.C. 1085(a)(5)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1085/a/5/A/ii&num=0&edition=prelim))—“(1) for an institution of higher education that offers an associate degree, is a public institution, and is located in an economically distressed county, defined as a county that ranks in the lowest 5 percent of all counties in the United States based on a national index of county economic status; and “(2) for an institution—“(A) that is a public institution of higher education or a Tribal College or University (as defined in section 316(b) of such Act ([20 U.S.C. 1059c](./chapter-028-higher-education-resources-and-student-assistance.md#section-1059c)[(b)])); and “(B) whose fall enrollment for the most recently completed academic year was comprised of a majority of students who are Indian (as defined in such section) or Alaska Natives (as defined in section 317(b) of such Act ([20 U.S.C. 1059d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059d/b&num=0&edition=prelim))[)]. “(b) Applicability.—Subsection (a) shall apply to an institution of higher education that otherwise would be ineligible to participate in a program under part A of title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.] on or after the date of enactment of this Act [Mar. 23, 2018] due to the application of section 435(a)(2) of the Higher Education Act of 1965 ([20 U.S.C. 1085(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1085/a/2&num=0&edition=prelim)). “(c) Coverage.—This section shall be in effect for the period covered by this Act [div. H of Pub. L. 114–141, 132 Stat. 696] and for the succeeding fiscal year.”
+
 #### Definition of Institution of Higher Education
 Pub. L. 102–325, title IV, § 427(b)(2), July 23, 1992, 106 Stat. 549, provided that: “With respect to reference in any other provision of law to the definition of institution of higher education contained in section 435(b) of the Act [former [20 U.S.C. 1085(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1085/b&num=0&edition=prelim)], such provision shall be deemed to refer to section 481(a) of the Act [former [20 U.S.C. 1088(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/a&num=0&edition=prelim)].”
 
@@ -19328,9 +19481,11 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
       (II) is performing qualifying National Guard duty during a war or other military operation or national emergency,
       and for the 180-day period following the demobilization date for the service described in subclause (I) or (II);
 
-    (iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship; or
+    (iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship;
 
-    (v) during which the borrower is engaged in service described in [section 1087ee(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087ee/a/2&num=0&edition=prelim);
+    (v) during which the borrower is engaged in service described in [section 1087ee(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087ee/a/2&num=0&edition=prelim); or
+
+    (vi) during which the borrower is receiving treatment for cancer and the 6 months after such period;
     and provides that any such period shall not be included in determining the 10-year period described in subparagraph (A) of paragraph (1).
 
   (B) No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
@@ -19449,6 +19604,8 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 A prior section 1087dd, Pub. L. 89–329, title IV, § 464, as added Pub. L. 92–318, title I, § 137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, § 130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, § 1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§ 442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, § 539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, § 16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2018—Subsec. (c)(2)(A)(vi). Pub. L. 115–245 added cl. (vi).
+
 2009—Subsec. (c). Pub. L. 111–39, § 405(4)(A), substituted “(i)” for “(I)” and “(ii)” for “(II)” in par. (1)(D) and realigned margins in par. (2)(A)(iii).
 
 Subsec. (g)(5). Pub. L. 111–39, § 405(4)(B), substituted “consumer reporting agencies” for “credit bureaus”.
@@ -19534,6 +19691,9 @@ Subsecs. (e), (f). Pub. L. 102–325, § 464(h), added subsecs. (e) and (f).
 1988—Subsec. (c)(2)(A)(v). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1987—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under [section 1077 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1077).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -19878,9 +20038,25 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
   (D) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(o) of this title, that the borrower has experienced or will experience an economic hardship.
 
-(3) **“Borrower” defined** — For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993.
+(3) **Deferment for borrowers receiving cancer treatment**
 
-(4) **Deferments for previous part B loan borrowers** — A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993, shall be eligible for a deferment under [section 1077(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1077/a/2/C&num=0&edition=prelim) or [section 1078(b)(1)(M) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/1/M&num=0&edition=prelim) as such sections were in effect on July 22, 1992.
+  (A) *Effect on principal and interest* — A borrower of a loan made under this part who meets the requirements of subparagraph (B) shall be eligible for a deferment, during which periodic installments of principal need not be paid, and interest shall not accrue.
+
+  (B) *Eligibility* — A borrower of a loan made under this part shall be eligible for a deferment during—
+
+    (i) any period in which such borrower is receiving treatment for cancer; and
+
+    (ii) the 6 months after such period.
+
+  (C) *Applicability* — This paragraph shall apply with respect to loans—
+
+    (i) made on or after September 28, 2018; or
+
+    (ii) in repayment on September 28, 2018.
+
+(4) **“Borrower” defined** — For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993.
+
+(5) **Deferments for previous part B loan borrowers** — A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993, shall be eligible for a deferment under [section 1077(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1077/a/2/C&num=0&edition=prelim) or [section 1078(b)(1)(M) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/1/M&num=0&edition=prelim) as such sections were in effect on July 22, 1992.
 
 **(g) Federal Direct Consolidation Loans** A borrower of a loan made under this part may consolidate such loan with the loans described in [section 1078–3(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/4&num=0&edition=prelim), including any loan made under part B and first disbursed before July 1, 2010. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in [section 1078–3(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3&num=0&edition=prelim).
 
@@ -19998,6 +20174,8 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+2018—Subsec. (f)(3) to (5). Pub. L. 115–245 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
 2016—Subsec. (o)(3)(B). Pub. L. 114–328 inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.
 
 2013—Subsec. (b)(7). Pub. L. 113–28, § 2(a)(1)(A), inserted “and before July 1, 2013” after “on or after July 1, 2006” in heading.
@@ -20109,6 +20287,9 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, § 401(g)(6), substituted “Federal
 1993—Pub. L. 103–66 amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under [section 1077 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1077).
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–28, § 2(b), Aug. 9, 2013, 127 Stat. 507, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if enacted on July 1, 2013.”
@@ -20385,6 +20566,15 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
+#### Selection of Student Loan Servicer
+Pub. L. 115–245, div. B, title III, Sept. 28, 2018, 132 Stat. 3102, provided in part: “That for student loan contracts awarded prior to October 1, 2017, the Secretary [of Education] shall allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan”.
+
+Pub. L. 115–141, div. H, title III, Mar. 23, 2018, 132 Stat. 746, provided in part: “That the Secretary [of Education] shall, no later than September 30, 2017, allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan under the current student loan servicing contracts”.
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 115–31, div. H, title III, May 5, 2017, 131 Stat. 549.
+
 
 <a id="section-1087ff"></a>
 ## § 1087ff. Distribution of assets from student loan funds
@@ -20508,7 +20698,7 @@ Pub. L. 105–244, title IV, § 467(b), Oct. 7, 1998, 112 Stat. 1728, provided t
 
 (3) **Authorization for administrative costs beginning in fiscal years 2007 through 2014** — For each of the fiscal years 2007 through 2014, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
 
-(4) **Continuing mandatory funds for account maintenance fees** — For each of the fiscal years 2007 through 2017, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
+(4) **Continuing mandatory funds for account maintenance fees** — For each of the fiscal years 2007 through 2019, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
 
 (5) **Account maintenance fees** — Account maintenance fees under paragraph (3) 11 See References in Text note below. shall be paid quarterly and deposited in the Agency Operating Fund established under [section 1072b of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1072b).
 
@@ -20538,6 +20728,10 @@ Pub. L. 105–244, title IV, § 467(b), Oct. 7, 1998, 112 Stat. 1728, provided t
 Paragraph (3), referred to in subsec. (a)(5), was redesignated par. (4) by Pub. L. 111–152, § 2212(b)(1)(B).
 
 #### Amendments
+2018—Subsec. (a)(4). Pub. L. 115–245 substituted “2019” for “2018”.
+
+Pub. L. 115–141 substituted “2018” for “2017”.
+
 2017—Subsec. (a)(4). Pub. L. 115–31 substituted “2017” for “2016”.
 
 2015—Subsec. (a)(4). Pub. L. 114–113 substituted “2016” for “2014”.
@@ -21037,11 +21231,15 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 
 (1) **In general** — Notwithstanding any other provision of this subchapter, the family contribution of each student described in paragraph (2) shall be deemed to be zero for the academic year for which the determination is made.
 
-(2) **Applicability** — Paragraph (1) shall apply to any dependent or independent student with respect to determinations of need for academic year 2009–2010 and succeeding academic years—
+(2) **Applicability** — Paragraph (1) shall apply to any dependent or independent student with respect to determinations of need for academic year 2009–2010 (in the case of a student who meets the requirement of subparagraph (B)(i)), or academic year 2018–2019 (in the case of a student who meets the requirement of subparagraph (B)(ii)), and succeeding academic years—
 
   (A) who is eligible to receive a Federal Pell Grant for the academic year for which the determination is made;
 
-  (B) whose parent or guardian was a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001; and
+  (B) whose parent or guardian was—
+
+    (i) a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001; or
+
+    (ii) actively serving as a public safety officer and died in the line of duty while performing as a public safety officer; and
 
   (C) who, at the time of the parent or guardian’s death, was—
 
@@ -21049,11 +21247,50 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 
     (ii) enrolled at an institution of higher education on a part-time or full-time basis.
 
-(3) **Information** — Notwithstanding any other provision of law, the Secretary of Veterans Affairs and the Secretary of Defense, as appropriate, shall provide the Secretary of Education with information necessary to determine which students meet the requirements of paragraph (2).
+(3) **Information**
+
+  (A) *Armed Forces* — Notwithstanding any other provision of law, the Secretary of Veterans Affairs and the Secretary of Defense, as appropriate, shall provide the Secretary of Education with information necessary to determine which students meet the requirements of subparagraphs (A), (B)(i), and (C) of paragraph (2).
+
+  (B) *Public safety officers* — Notwithstanding any other provision of law, unless the Secretary establishes an alternate method to adjust the expected family contribution, for each student who meets the requirements of subparagraphs (A), (B)(ii), and (C) of paragraph (2), a financial aid administrator shall—
+
+    (i) verify with the student that the student is eligible for the adjustment;
+
+    (ii) adjust the expected family contribution in accordance with this subsection; and
+
+    (iii) notify the Secretary of the adjustment and the student’s eligibility for the adjustment.
+
+(4) **Treatment of Pell amount** — Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796d–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796d–1&num=0&edition=prelim)),1 in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student’s educational assistance benefits under the Public Safety Officers’ Benefits program under subpart 2 of part L of title I of such Act.1 See References in Text note below.
+
+(5) **Definition of public safety officer** — For purposes of this subsection, the term “public safety officer” means—
+
+  (A) a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b&num=0&edition=prelim)); 1 or
+
+  (B) a fire police officer, defined as an individual who—
+
+    (i) is serving in accordance with State or local law as an officially recognized or designated member of a legally organized public safety agency;
+
+    (ii) is not a law enforcement officer, a firefighter, a chaplain, or a member of a rescue squad or ambulance crew; and
+
+    (iii) provides scene security or directs traffic—
+
+      (I) in response to any fire drill, fire call, or other fire, rescue, or police emergency; or
+
+      (II) at a planned special event.
 
 ### Statutory Notes
 
+#### References in Text
+The Omnibus Crime Control and Safe Streets Act of 1968 and such Act, referred to in subsec. (b)(4), (5)(A), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 2 of part L of title I of the Act is classified to part B (§ 10301 et seq.) of subchapter XI of chapter 101 of subtitle I of Title 34, Crime Control and Law Enforcement. Sections 1204 and 1212 of the Act were classified to sections 3796b and 3796d–1, respectively, of Title 42, The Public Health and Welfare, prior to editorial reclassification as sections 10284 and 10302, respectively, of Title 34. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–141, § 317(1)(A), inserted “(in the case of a student who meets the requirement of subparagraph (B)(i)), or academic year 2018–2019 (in the case of a student who meets the requirement of subparagraph (B)(ii)),” after “academic year 2009–2010” in introductory provisions.
+
+Subsec. (b)(2)(B). Pub. L. 115–141, § 317(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “whose parent or guardian was a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001; and”.
+
+Subsec. (b)(3). Pub. L. 115–141, § 317(2), designated existing provisions as subpar. (A), inserted heading, substituted “subparagraphs (A), (B)(i), and (C) of paragraph (2)” for paragraph (2)”, and added subpar. (B).
+
+Subsec. (b)(4), (5). Pub. L. 115–141, § 317(3), added pars. (4) and (5).
+
 2009—Pub. L. 111–39 designated existing provisions as subsec. (a), inserted heading, substituted “For the purpose of this subchapter, other than subpart 2 of part A, and except as provided in subsection (b),” for “For the purpose of this subchapter, except subpart 2 of part A,”, and added subsec. (b).
 
 1998—Pub. L. 105–244 substituted “subpart 2” for “subpart 4”.
@@ -24141,7 +24378,7 @@ Another prior section 443 of Pub. L. 89–329, title IV, formerly Pub. L. 88–4
 A prior section 123 of Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 514, which served as the origin of this section, provided for grants for work-study programs, prior to repeal by Pub. L. 89–329, title IV, § 441(3), Nov. 8, 1965, 79 Stat. 1249.
 
 #### Amendments
-2009—Subsec. (b)(2). Pub. L. 111–39, § 403(1), made technical amendment to reference in original act which appears in text as reference to this section in introductory provisions.
+2009—Subsec. (b)(2). Pub. L. 111–39, § 403(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this section.
 
 Subsec. (d)(1). Pub. L. 111–39, § 403(2), substituted “subsection (b)(2)(A)” for “subsection (b)(2)(B)”.
 
@@ -26167,7 +26404,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
   (C) performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
 
-    (i) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+    (i) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 251, 252, 359, 360, 367, or 712 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14;
 
     (ii) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -26175,7 +26412,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
     (iv) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the Armed Forces (including the National Guard or Reserve); or
 
-    (v) called into Federal service as a member of the National Guard under chapter 15 of title 10 or [section 12406 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12406&num=0&edition=prelim).
+    (v) called into Federal service as a member of the National Guard under chapter 13 of title 10 or [section 12406 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12406&num=0&edition=prelim).
 
 (4) **Notification of intent to return**
 
@@ -26217,6 +26454,14 @@ Section 1091d, Pub. L. 89–329, title V, § 505, as added Pub. L. 90–35, § 2
 Section 1091e, Pub. L. 89–329, title V, § 506, as added Pub. L. 90–35, § 2(c), June 29, 1967, 81 Stat. 84, authorized transfer of funds for programs for education professions development.
 
 Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2(c), June 29, 1967, 81 Stat. 84, authorized employment of experts and consultants and set forth provisions for compensation and travel expenses.
+
+#### Amendments
+2018—Subsec. (c)(3)(C)(i). Pub. L. 115–232, § 1204(b)(2), substituted “section 251, 252,” for “section 331, 332,”.
+
+Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 13” for “chapter 15”.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+Sections 251, 252, 359, 360, 367, and 712 of title 14 redesignated sections 2106, 2107, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§ 112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to sections 251, 252, 359, 360, 367, and 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-1092"></a>
@@ -32394,7 +32639,7 @@ A prior section 624 of Pub. L. 89–329 was renumbered section 625 and is classi
 
 (1) **Establishment** — There is established in the executive branch of the Federal Government an Interagency Committee on Minority Careers in International Affairs composed of not less than 7 members, including—
 
-  (A) the Under Secretary for Farm and Foreign Agricultural Services of the Department of Agriculture, or the Under Secretary’s designee;
+  (A) the Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs, or the designee of that Under Secretary;
 
   (B) the Assistant Secretary and Director General, of the United States and Foreign Commercial Service of the Department of Commerce, or the Assistant Secretary and Director General’s designee;
 
@@ -32416,10 +32661,17 @@ A prior section 624 of Pub. L. 89–329 was renumbered section 625 and is classi
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 115–254, div. F, title VI, § 1470(i), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (a) of this section is amended by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”. See 2018 Amendment note below.
+
 #### Prior Provisions
 A prior section 625 of Pub. L. 89–329 was renumbered section 626 and is classified to [section 1131d of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1131d).
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
+Subsec. (c)(1)(A). Pub. L. 115–334 substituted “Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs, or the designee of that Under Secretary” for “Under Secretary for Farm and Foreign Agricultural Services of the Department of Agriculture, or the Under Secretary’s designee”.
+
 2008—Subsec. (a). Pub. L. 110–315, § 616(1), struck out “as defined in [section 1061 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1061)” after “Black colleges and universities” and substituted “tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions” for “tribally controlled Indian community colleges as defined in the Tribally Controlled Community College Assistance Act of 1978”, “international,” for “an international”, and “the Department of State” for “the United States Information Agency” after “Development,”.
 
 Subsec. (b)(2) to (4). Pub. L. 110–315, § 616(2), inserted “and” after semicolon at end of par. (2), substituted a period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “be assisted by the Interagency Committee on Minority Careers in International Affairs established under subsection (c) of this section.”
@@ -32429,6 +32681,9 @@ Subsec. (c)(1)(E) to (G). Pub. L. 110–315, § 616(3), inserted “and” after
 1998—Pub. L. 105–244, § 603(d), designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 Subsec. (a). Pub. L. 105–277, which directed the amendment of “section 624 of Pub. L. 89–329 ([20 U.S.C. 1131c](./chapter-028-higher-education-resources-and-student-assistance.md#section-1131c))” by striking “the United States Information Agency,” after “Agency for International Development,”, could not be executed because of the intervening amendment by Pub. L. 105–244 which renumbered section 624 of Pub. L. 89–329 as section 625.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1998 Amendments
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6531&num=0&edition=prelim).
@@ -34941,6 +35196,9 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 In this subpart, the term “student with a print disability” means a student with a disability who experiences barriers to accessing instructional material in nonspecialized formats, including an individual described in [section 121(d)(2) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section121/d/2&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 121(d) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section121/d&num=0&edition=prelim), referred to in text, was amended by Pub. L. 115–261, § 2(a)(1)(D), Oct. 9, 2018, 132 Stat. 3667, and no longer defines blind or other persons with disabilities. However, [section 121(d) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section121/d&num=0&edition=prelim), as amended, does define “eligible person” to include blind persons, persons with visual impairment or perceptual or reading disability, and persons with other physical disabilities that inhibit reading skills.
 
 #### Prior Provisions
 A prior section 771 of Pub. L. 89–329 was renumbered section 781, and is classified to [section 1141 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1141).

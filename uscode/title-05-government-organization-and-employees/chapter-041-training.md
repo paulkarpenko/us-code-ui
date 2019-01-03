@@ -477,7 +477,7 @@ An agency program for the training of employees by, in, and through Government f
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
-|  | [5 U.S.C. 2307](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2307&num=0&edition=prelim). | July 7, 1958, Pub. L. 85–507, § 8, 72 Stat. 331. |
+|  | [5 U.S.C. 2307](./chapter-023-merit-system-principles.md#section-2307). | July 7, 1958, Pub. L. 85–507, § 8, 72 Stat. 331. |
 
 In paragraph (2), the words “other agencies in any branch of the Government” and “the other agencies” are coextensive with and substituted for “other departments, and with other agencies in any branch of the Government” and “such other departments and agencies”. This is so because “other agencies in any branch of the Government” is broader than “agency” as defined for the purpose of this chapter in section 4101(1).
 

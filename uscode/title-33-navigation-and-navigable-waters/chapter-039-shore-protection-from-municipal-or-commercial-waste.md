@@ -182,7 +182,7 @@ Pub. L. 100–688, title IV, § 4204(c), Nov. 18, 1988, 102 Stat. 4160, provided
 
 <a id="section-2605"></a>
 ## § 2605. Enforcement
-**(a) General authority** The Secretary of Transportation shall enforce this chapter under [section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim). The Secretary may authorize other officers or employees of the United States Government to enforce this chapter under that section.
+**(a) General authority** The Secretary of Transportation shall enforce this chapter under section 89 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14. The Secretary may authorize other officers or employees of the United States Government to enforce this chapter under that section.
 
 **(b) Periodic examinations** The Secretary shall conduct periodic examinations of vessels operating under this chapter transporting municipal or commercial waste to determine that each of these vessels has a permit issued under [section 2602 of this title](./chapter-039-shore-protection-from-municipal-or-commercial-waste.md#section-2602).
 
@@ -200,6 +200,9 @@ Pub. L. 100–688, title IV, § 4204(c), Nov. 18, 1988, 102 Stat. 4160, provided
 
 #### Codification
 In subsec. (c), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) redesignated [section 522 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section522&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and reference to [section 89 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section89&num=0&edition=prelim) deemed to refer to such redesignatedsection, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 
 <a id="section-2606"></a>

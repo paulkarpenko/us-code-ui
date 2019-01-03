@@ -2,7 +2,7 @@
 title: 19
 chapter: '23'
 heading: EXTENSION OF CERTAIN TRADE BENEFITS TO SUB-SAHARAN AFRICA
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19&num=0&edition=prelim
 ---
@@ -39,6 +39,9 @@ Congress finds that—
 #### Effective Date of 2012 Amendment
 Pub. L. 112–163, § 1(d), Aug. 10, 2012, 126 Stat. 1274, provided that: “The amendments made by this section [amending this section and sections 3706 and 3721 of this title] shall take effect on the date of the enactment of this Act [Aug. 10, 2012].”
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–167, § 1, Apr. 23, 2018, 132 Stat. 1276, provided that: “This Act [enacting [section 3707 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3707), amending sections 7703, 7705, 7706, 7708, 7709, 7711, 7712, and 7715 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, [section 3707 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3707), and [section 7708 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7708&num=0&edition=prelim)] may be cited as the ‘African Growth and Opportunity Act and Millennium Challenge Act Modernization Act’ or the ‘AGOA and MCA Modernization Act’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114–27, title I, § 101, June 29, 2015, 129 Stat. 363, provided that: “This title [amending sections 2466a, 2466b, 3702, 3703, and 3721 of this title, enacting provisions set out as notes under this section and sections 2466a and 3705 of this title, and amending provisions set out as a note under this section] may be cited as the ‘AGOA Extension and Enhancement Act of 2015’.”
 
@@ -49,6 +52,9 @@ Pub. L. 109–432, div. D, title VI, § 6001, Dec. 20, 2006, 120 Stat. 3190, pro
 Pub. L. 106–200, § 1(a), May 18, 2000, 114 Stat. 251, provided that: “This Act [see Tables for classification] may be cited as the ‘Trade and Development Act of 2000’.”
 
 Pub. L. 106–200, title I, § 101, May 18, 2000, 114 Stat. 252, provided that: “This title [enacting this chapter and sections 2466a and 2466b of this title and amending [section 2463 of this title](./chapter-012-trade-act-of-1974.md#section-2463) and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘African Growth and Opportunity Act’.”
+
+#### Statement of Policy
+Pub. L. 115–167, title I, § 101, Apr. 23, 2018, 132 Stat. 1276, provided that: “It is the policy of the United States to support efforts to— “(1) improve the rule of law, promote free and fair elections, strengthen and expand the private sector, and fight corruption in sub-Saharan Africa; and “(2) promote the role of women in social, political, and economic development in sub-Saharan Africa.”
 
 #### Findings Relating to Extension and Enhancement of African Growth and Opportunity Act
 Pub. L. 114–27, title I, § 102, June 29, 2015, 129 Stat. 363, provided that: “Congress finds the following: “(1) Since its enactment, the African Growth and Opportunity Act [[19 U.S.C. 3701](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) et seq.] has been the centerpiece of trade relations between the United States and sub-Saharan Africa and has enhanced trade, investment, job creation, and democratic institutions throughout Africa. “(2) Trade and investment, as facilitated by the African Growth and Opportunity Act, promote economic growth, development, poverty reduction, democracy, the rule of law, and stability in sub-Saharan Africa. “(3) Trade between the United States and sub-Saharan Africa has more than tripled since the enactment of the African Growth and Opportunity Act in 2000, and United States direct investment in sub-Saharan Africa has grown almost sixfold. “(4) It is in the interest of the United States to engage and compete in emerging markets in sub-Saharan African countries, to boost trade and investment between the United States and sub-Saharan African countries, and to renew and strengthen the African Growth and Opportunity Act. “(5) The long-term economic security of the United States is enhanced by strong economic and political ties with the fastest-growing economies in the world, many of which are in sub-Saharan Africa. “(6) It is a goal of the United States to further integrate sub-Saharan African countries into the global economy, stimulate economic development in Africa, and diversify sources of growth in sub-Saharan Africa. “(7) To that end, implementation of the Agreement on Trade Facilitation of the World Trade Organization would strengthen regional integration efforts in sub-Saharan Africa and contribute to economic growth in the region. “(8) The elimination of barriers to trade and investment in sub-Saharan Africa, including high tariffs, forced localization requirements, restrictions on investment, and customs barriers, will create opportunities for workers, businesses, farmers, and ranchers in the United States and sub-Saharan African countries. “(9) The elimination of such barriers will improve utilization of the African Growth and Opportunity Act and strengthen regional and global integration, accelerate economic growth in sub-Saharan Africa, and enhance the trade relationship between the United States and sub-Saharan Africa.”
@@ -201,6 +207,44 @@ For purposes of this chapter, the terms “sub-Saharan Africa”, “sub-Saharan
 
 #### Amendments
 2012—Pub. L. 112–163 inserted item relating to the Republic of South Sudan.
+
+
+<a id="section-3707"></a>
+## § 3707. Activities in support of transparency
+**(a) AGOA Website**
+
+(1) **In general** — The President shall establish a publicly available website for the collection and dissemination of information regarding the African Growth and Opportunity Act ([19 U.S.C. 3701](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) et seq.).
+
+(2) **Contents** — The President shall publish on the AGOA Website the information described in paragraph (1), including—
+
+  (A) information and technical assistance provided at United States Agency for International Development regional trade hubs; and
+
+  (B) a link to the websites of United States embassies located in eligible sub-Saharan African countries.
+
+(3) **Actions by United States embassies** — The Secretary of State should direct United States embassies located in eligible sub-Saharan African countries to—
+
+  (A) encourage individuals and businesses in such countries to use the benefits available under the African Growth and Opportunity Act; and
+
+  (B) include a link to the AGOA Website on the websites of such diplomatic missions.
+
+**(b) AGOA Forum** After each meeting of the United States–Sub-Saharan Africa Trade and Economic Cooperation Forum, the President should publish on the AGOA Website the following:
+
+(1) The outcomes of the meeting of the Forum, including any commitments made by member countries and the private sector.
+
+(2) An assessment of progress made with respect to any commitments made by member countries and the private sector from the previous meeting of the Forum.
+
+**(c) Other information** The President should disseminate the information required under this section in a digital format to the public and publish such information on the AGOA Website.
+
+### Statutory Notes
+
+#### References in Text
+The African Growth and Opportunity Act, referred to in subsec. (a)(1), (3)(A), is title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) and Tables.
+
+#### Codification
+Section was enacted as part of the African Growth and Opportunity Act and Millennium Challenge Act Modernization Act, also known as the AGOA and MCA Modernization Act, and not as part of the African Growth and Opportunity Act which enacted this chapter.
+
+#### Definitions
+Pub. L. 115–167, title I, § 102, Apr. 23, 2018, 132 Stat. 1277, provided that: “In this title [enacting this section and provisions set out as a note under [section 3701 of this title](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701)]— “(1) Agoa website.—The term ‘AGOA Website’ means the website established pursuant to section 103(a) [[19 U.S.C. 3707(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3707/a&num=0&edition=prelim)]. “(2) Eligible sub-saharan african country.—The term ‘eligible sub-Saharan African country’ means a country that the President has determined meets the eligibility requirements set forth in section 104 of the African Growth and Opportunity Act ([19 U.S.C. 3703](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3703)).”
 
 
 <a id="section-3721"></a>
@@ -614,7 +658,7 @@ Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (4) that the Unite
 ### Statutory Notes
 
 #### Coordination of Efforts To Develop Free Trade Agreements With Sub-Saharan African Countries
-Pub. L. 114–328, div. A, title XII, § 1293, Dec. 23, 2016, 130 Stat. 2560, provided that: “(a) Coordination Between the United States Trade Representative and Other Agencies.—The United States Trade Representative shall consult and coordinate with other relevant Federal agencies to assist countries identified under paragraph (1) of section 110(b) of the Trade Preferences Extension Act of 2015 (Public Law 114–27; 129 Stat. 370; [19 U.S.C. 3705](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3705) note) in the most recent report required by that section, including through the deployment of resources from those agencies to such countries and through trade capacity building, in addressing the plan developed under paragraph (3) of that section. “(b) Coordination of USAID With Free Trade Agreement Policy.—“(1) Authorization of funds.—Funds made available to the United States Agency for International Development under section 496 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2293](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293&num=0&edition=prelim)) after the date of the enactment of this Act [Dec. 23, 2016] may be used, in consultation with the United States Trade Representative—“(A) to assist eligible countries, including by deploying resources to such countries, in addressing the plan developed under section 116(b) of the African Growth and Opportunity Act ([19 U.S.C. 3723(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3723/b&num=0&edition=prelim)); and “(B) to assist eligible countries in the implementation of the commitments of those countries under agreements with the United States and under the WTO Agreement (as defined in section 2(9) of the Uruguay Round Agreements Act ([19 U.S.C. 3501(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/9&num=0&edition=prelim))) and agreements annexed to the WTO Agreement. “(2) Definitions.—In this subsection:“(A) Eligible country.—The term ‘eligible country’ means a sub-Saharan African country that receives—“(i) benefits under the African Growth and Opportunity Act ([19 U.S.C. 3701](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) et seq.); and “(ii) funding from the United States Agency for International Development. “(B) Sub-saharan african country.—The term ‘sub-Saharan African country’ has the meaning given that term in section 107 of the African Growth and Opportunity Act ([19 U.S.C. 3706](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3706)).”
+Pub. L. 114–328, div. A, title XII, § 1293, Dec. 23, 2016, 130 Stat. 2560, as amended by Pub. L. 115–232, div. A, title XII, § 1289, Aug. 13, 2018, 132 Stat. 2081, provided that: “(a) Coordination Between the United States Trade Representative and Other Agencies.—The United States Trade Representative shall consult and coordinate with other relevant Federal agencies to assist countries identified under paragraph (1) of section 110(b) of the Trade Preferences Extension Act of 2015 (Public Law 114–27; 129 Stat. 370; [19 U.S.C. 3705](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3705) note) in the most recent report required by that section, including through the deployment of resources from those agencies to such countries and through trade capacity building, in addressing the plan developed under paragraph (3) of that section. “(b) Coordination of USAID With Free Trade Agreement Policy.—“(1) Authorization of funds.—Funds made available to the United States Agency for International Development under section 496 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2293](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293&num=0&edition=prelim)) after the date of the enactment of this Act [Dec. 23, 2016] may be used, in consultation with the United States Trade Representative—“(A) to assist eligible countries, including by deploying resources to such countries, in addressing the plan developed under section 116(b) of the African Growth and Opportunity Act ([19 U.S.C. 3723(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3723/b&num=0&edition=prelim)); and “(B) to assist eligible countries in the implementation of the commitments of those countries under agreements with the United States and under the WTO Agreement (as defined in section 2(9) of the Uruguay Round Agreements Act ([19 U.S.C. 3501(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/9&num=0&edition=prelim))) and agreements annexed to the WTO Agreement. “(2) Definitions.—In this subsection:“(A) Eligible country.—The term ‘eligible country’ means a sub-Saharan African country that receives—“(i) benefits under the African Growth and Opportunity Act ([19 U.S.C. 3701](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3701) et seq.); and “(ii) funding from the United States Agency for International Development. “(B) Sub-saharan african country.—The term ‘sub-Saharan African country’ has the meaning given that term in section 107 of the African Growth and Opportunity Act ([19 U.S.C. 3706](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3706)). “(c) Coordination With Millennium Challenge Corporation.—“(1) In general.—After the date of the enactment of this subsection [Aug. 13, 2018], with respect to those countries identified under section 110(b)(1) of the Trade Preferences Extension Act of 2015 (Public Law 114–27; 129 Stat. 370; [19 U.S.C. 3705](./chapter-023-extension-of-certain-trade-benefits-to-sub-saharan-africa.md#section-3705) note) that also meet the country description in paragraph (2), the United States Trade Representative shall consult and coordinate with the Millennium Challenge Corporation and the United States Agency for International Development for the purpose of developing and carrying out the plan required by section 116(b) of the African Growth and Opportunity Act ([19 U.S.C. 3723(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3723/b&num=0&edition=prelim)). “(2) Country description.—A country is described in this paragraph if the country—“(A) has entered into a Millennium Challenge Compact pursuant to section 609 of the Millennium Challenge Act of 2003 ([22 U.S.C. 7708](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7708&num=0&edition=prelim)); or “(B) is selected by the Board of Directors of the Millennium Challenge Corporation under subsection (c) of section 607 of that Act ([22 U.S.C. 7706](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7706&num=0&edition=prelim)) from among the countries determined to be eligible countries under subsection (a) of that section.”
 
 
 <a id="section-3724"></a>
@@ -718,6 +762,9 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 #### Codification
 Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of section 123 of Pub. L. 106–200 amended [section 2193 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2193&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of Title 22, Foreign Relations and Intercourse.
 
 
 <a id="section-3734"></a>

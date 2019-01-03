@@ -156,9 +156,9 @@ Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” fo
 
 **(c)**
 
-(1) Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a notice of disagreement is filed with respect to the case. The limitation in the preceding sentence does not apply to fees charged, allowed, or paid for services provided with respect to proceedings before a court.
+(1) Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a claimant is provided notice of the agency of original jurisdiction’s initial decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) with respect to the case. The limitation in the preceding sentence does not apply to fees charged, allowed, or paid for services provided with respect to proceedings before a court.
 
-(2) A person who, acting as agent or attorney in a case referred to in paragraph (1) of this subsection, represents a person before the Department or the Board of Veterans’ Appeals after a notice of disagreement is filed with respect to the case shall file a copy of any fee agreement between them with the Secretary pursuant to regulations prescribed by the Secretary.
+(2) A person who, acting as agent or attorney in a case referred to in paragraph (1) of this subsection, represents a person before the Department or the Board of Veterans’ Appeals after a claimant is provided notice of the agency of original jurisdiction’s initial decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) with respect to the case shall file a copy of any fee agreement between them with the Secretary pursuant to regulations prescribed by the Secretary.
 
 (3)
 
@@ -188,7 +188,12 @@ Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” fo
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 2(n) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
+
 #### Amendments
+2017—Subsec. (c)(1), (2). Pub. L. 115–55 substituted “claimant is provided notice of the agency of original jurisdiction’s initial decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104)” for “notice of disagreement is filed”.
+
 2006—Subsec. (a). Pub. L. 109–461, § 101(a)(1)(A), inserted heading.
 
 Subsec. (a)(1). Pub. L. 109–461, § 101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted “Except as provided in paragraph (4), the Secretary may recognize” for “The Secretary may recognize”, and struck out last sentence which read as follows: “The Secretary may require that individuals, before being recognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims.”
@@ -256,6 +261,9 @@ Subsec. (d)(2)(A), (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Sec
 “(3) shall be deducted from monetary benefits claimed and allowed.”
 
 1986—Subsec. (b). Pub. L. 99–576 substituted “the Administrator” for “he” in introductory text.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–461, title I, § 101(h), Dec. 22, 2006, 120 Stat. 3408, provided that: “The amendments made by subsections (c)(1) and (d) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006] and shall apply with respect to services of agents and attorneys that are provided with respect to cases in which notices of disagreement are filed on or after that date.”

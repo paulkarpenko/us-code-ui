@@ -1050,7 +1050,7 @@ Notwithstanding any other provision in law, senior executives at the Federal Nat
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Stop Trading on Congressional Knowledge Act of 2012, also known as the STOCK Act, and not as part of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 which comprises this chapter.
+Section was enacted as part of the Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act, also known as the STOCK Act, and not as part of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 which comprises this chapter.
 
 
 <a id="section-4522"></a>
@@ -1582,11 +1582,18 @@ A prior section 4547, Pub. L. 102–550, title XIII, § 1327, Oct. 28, 1992, 106
 
 
 <a id="section-4563"></a>
-## § 4563. Repealed. Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008, 122 Stat. 2667
+## § 4563. Regulations for use of credit scores
+
+The Director shall—
+
+(1) by regulation, establish standards and criteria for any process used by an enterprise to validate and approve credit scoring models pursuant to [section 1717(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1717/b/7&num=0&edition=prelim) and [section 1454(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1454/d&num=0&edition=prelim); and
+
+(2) ensure that any credit scoring model that is validated and approved by an enterprise under [section 1717(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1717/b/7&num=0&edition=prelim) or [section 1454(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1454/d&num=0&edition=prelim) meets the requirements of clauses (i), (ii), and (iii) of [section 1717(b)(7)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1717/b/7/C&num=0&edition=prelim) and subparagraphs (A), (B), and (C) of [section 1454(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1454/d&num=0&edition=prelim), respectively.
 
 ### Statutory Notes
 
-Section, Pub. L. 102–550, title XIII, § 1328, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, § 1122(a)(1), July 30, 2008, 122 Stat. 2689, related to required annual reports.
+#### Prior Provisions
+A prior section 4548, Pub. L. 102–550, title XIII, § 1328, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, § 1122(a)(1), July 30, 2008, 122 Stat. 2689, related to required annual reports, prior to repeal by Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
 
 
 <a id="section-4564"></a>

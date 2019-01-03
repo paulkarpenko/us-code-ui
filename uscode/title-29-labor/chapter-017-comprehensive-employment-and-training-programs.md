@@ -328,7 +328,7 @@ Section, Pub. L. 93–203, title II, § 221, as added Pub. L. 95–524, § 2, Oc
 
 
 <a id="section-871-to-878"></a>
-## § 871 to 878. Repealed, Pub. L. 97–300, title I, § 184(a)(1), Oct. 13, 1982, 96 Stat. 1357
+## § 871 to 878. Repealed. Pub. L. 97–300, title I, § 184(a)(1), Oct. 13, 1982, 96 Stat. 1357
 
 ### Statutory Notes
 

@@ -282,6 +282,8 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 
 (3) **Notification to Congress** — In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 days from the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
 
+**(d) Work Defined** For the purposes of this section, the term “work” shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.
+
 ### Statutory Notes
 
 #### References in Text
@@ -296,6 +298,8 @@ Section superseded act Sept. 19, 1890, ch. 907, § 9, 26 Stat. 426, which prohib
 Act Aug. 14, 1876, ch. 267, § 3, 19 Stat. 139, penalizing persons injuring any pier breakwater, or other work of the United States for the improvement of rivers or harbors or navigation, was probably omitted from the Code as superseded by this section.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–270 added subsec. (d).
+
 2016—Pub. L. 114–322 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 1985—Pub. L. 99–88 inserted further proviso empowering Secretary, on recommendation of Chief of Engineers, to grant permission for alteration or permanent occupation or use of any of public works mentioned in this section when in judgment of Secretary such occupation or use will not be injurious to public interest and will not impair usefulness of such work.
@@ -1052,7 +1056,7 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 
 **(c) Authorization of appropriations**
 
-(1) **In general** — Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $30,000,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
+(1) **In general** — Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $37,500,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
 
 (2) **Limitation** — The total amount expended for a project under this section shall—
 
@@ -1066,6 +1070,8 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is Pub. L. 93–251, title I, § 54, Mar. 7, 1974, 88 Stat. 26, formerly set out as a note under [section 1962d–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–270 substituted “$37,500,000” for “$30,000,000”.
+
 2016—Subsec. (c)(2)(B). Pub. L. 114–322 substituted “$10,000,000” for “$5,000,000”.
 
 2007—Pub. L. 110–114 amended section generally. Prior to amendment, section related to authorization of small shore and beach restoration and protection projects not specifically authorized by Congress.
@@ -1095,6 +1101,9 @@ Pub. L. 91–611, title I, § 112(c), Dec. 31, 1970, 84 Stat. 1821, provided tha
 
 #### Transfer of Functions
 Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended [section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+
+#### Hurricane and Storm Damage Protection Program
+Pub. L. 115–270, title I, § 1112, Oct. 23, 2018, 132 Stat. 3775, provided that: “(a) In General.—The Secretary [of the Army] is authorized to carry out a pilot program to award single contracts for more than one authorized hurricane and storm damage reduction project in a geographical region, including projects across more than one Corps of Engineers district, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on a project-by-project basis. “(b) Project Selection.—In carrying out the pilot program under subsection (a), the Secretary shall consult with relevant State agencies in selecting projects. “(c) Criteria.—In carrying out the pilot program under subsection (a), the Secretary shall establish criteria and other considerations that—“(1) foster Federal, State, and local collaboration; “(2) evaluate the performance of projects being carried out under a single contract with respect to whether such projects yield any regional or multi-district benefits; and “(3) include other criteria and considerations that the Secretary determines to be appropriate. “(d) Report.—Not later than 1 year after the date of enactment of this Act [Oct. 23, 2018], and annually thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes findings and recommendations of the Secretary with respect to the projects completed under the pilot program carried out under subsection (a). “(e) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $75,000,000. “(f) Termination.—The authority of the Secretary to enter into contracts pursuant to the pilot program carried out under subsection (a) shall expire on the date that is 10 years after the date of enactment of this Act.”
 
 
 <a id="section-426g-1"></a>
@@ -1146,7 +1155,7 @@ In sections 426e and 426f to 426h–1 of this title, the following definitions a
 
 **(b) Cost sharing** The costs of implementing measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project causing the shore damage.
 
-**(c) Requirement for specific authorization** No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $10,000,000.
+**(c) Requirement for specific authorization** No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $12,500,000.
 
 **(d) Coordination** The Secretary shall—
 
@@ -1159,6 +1168,8 @@ In sections 426e and 426f to 426h–1 of this title, the following definitions a
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–270 substituted “$12,500,000” for ‘$10,000,000”.
+
 2016—Subsec. (b). Pub. L. 114–322, § 1169(1), substituted “measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project” for “measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project”.
 
 Subsec. (e). Pub. L. 114–322, § 1169(2), added subsec. (e).
@@ -1173,6 +1184,9 @@ Pub. L. 99–662, § 915(f), substituted “$2,000,000” for “$1,000,000”.
 
 #### Effective Date of 1986 Amendment
 Amendment by section 915(f) of Pub. L. 99–662 not applicable to any project under contract for construction on Nov. 17, 1986, see section 915(i) of Pub. L. 99–662, set out as a note under [section 426g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426g).
+
+#### Coastal Erosion
+Pub. L. 115–270, title I, § 1172, Oct. 23, 2018, 132 Stat. 3799, provided that: “(a) In General.—Pursuant to section 111 of the River and Harbor Act of 1968 ([33 U.S.C. 426i](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426i)), the Secretary [of the Army] shall, to the maximum extent practicable, complete operation and maintenance renourishment to mitigate coastal erosion attributed to Federal project structures in the upper northeast United States. “(b) Project Selection.—In carrying out the work under subsection (a), the Secretary shall—“(1) identify and carry out not more than five projects—“(A) located in any of the States of Maine, New Hampshire, Massachusetts, Connecticut, Rhode Island, or New York; and “(B) for which a feasibility study has been completed by December 31, 2019, that includes findings that a Federal project structure is interrupting the natural flow of sediment and causing coastal erosion; and “(2) consult with relevant State agencies in selecting projects.”
 
 
 <a id="section-426i-1"></a>
@@ -2483,7 +2497,7 @@ The Disaster Mitigation Act of 2000, referred to in subsec. (d)(2)(B)(ii), is Pu
 Pub. L. 114–322, title IV, § 5006(c), Dec. 16, 2016, 130 Stat. 1896, provided that: “(1) Proposed rulemaking.—Not later than 90 days after the date of enactment of this Act [Dec. 16, 2016], the Administrator of the Federal Emergency Management Agency shall issue a notice of proposed rulemaking regarding applications for grants of assistance under the amendments made by subsection (b) to the National Dam Safety Program Act ([33 U.S.C. 467](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467) et seq.) [enacting this section]. “(2) Final rule.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency shall promulgate a final rule regarding the amendments described in paragraph (1).”
 
 #### Rehabilitation of Corps of Engineers Constructed Dams
-Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, provided that: “(a) In General.—If the Secretary [of the Army] determines that the project is feasible, the Secretary may carry out a project for the rehabilitation of a dam described in subsection (b). “(b) Eligible Dams.—A dam eligible for assistance under this section is a dam—“(1) that has been constructed, in whole or in part, by the Corps of Engineers for flood control purposes; “(2) for which construction was completed before 1940; “(3) that is classified as ‘high hazard potential’ by the State dam safety agency of the State in which the dam is located; and “(4) that is operated by a non-Federal entity. “(c) Cost Sharing.—Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all land, easements, rights-of-way, and necessary relocations. “(d) Agreements.—Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary [of the Army]—“(1) to pay the non-Federal share of the costs of construction under subsection (c); and “(2) to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary. “(e) Cost Limitation.—The Secretary shall not expend more than $10,000,000 for a project at any single dam under this section. “(f) Funding.—There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2017 through 2026.”
+Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, § 1132, Oct. 23, 2018, 132 Stat. 3781, provided that: “(a) In General.—If the Secretary [of the Army] determines that the project is feasible, the Secretary may carry out a project for the rehabilitation of a dam described in subsection (b). “(b) Eligible Dams.—A dam eligible for assistance under this section is a dam—“(1) that has been constructed, in whole or in part, by the Corps of Engineers for flood control purposes; “(2) for which construction was completed before 1940; “(3) that is classified as ‘high hazard potential’ by the State dam safety agency of the State in which the dam is located; and “(4) that is operated by a non-Federal entity. “(c) Cost Sharing.—Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all land, easements, rights-of-way, and necessary relocations. “(d) Agreements.—Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary [of the Army]—“(1) to pay the non-Federal share of the costs of construction under subsection (c); and “(2) to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary. “(e) Cost Limitation.—The Secretary shall not expend more than $40,000,000 for a project at any single dam under this section. “(f) Funding.—There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2017 through 2026.”
 
 
 <a id="section-467g"></a>
@@ -2597,7 +2611,7 @@ Another prior section 13 of Pub. L. 92–367 was classified to section 467l of t
 ## § 467j. Authorization of appropriations
 **(a) National dam safety program**
 
-(1) **Annual amounts** — There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2015 through 2019, to remain available until expended.
+(1) **Annual amounts** — There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2019 through 2023, to remain available until expended.
 
 (2) **Allocation**
 
@@ -2619,15 +2633,15 @@ Another prior section 13 of Pub. L. 92–367 was classified to section 467l of t
 
   (C) *Determination* — The Administrator and the Board shall determine the amount allocated to States.
 
-**(b) National dam inventory** There is authorized to be appropriated to carry out [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d) $500,000 for each of fiscal years 2015 through 2019.
+**(b) National dam inventory** There is authorized to be appropriated to carry out [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d) $500,000 for each of fiscal years 2019 through 2023.
 
-**(c) Public awareness** There is authorized to be appropriated to carry out [section 467g–2 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-2) $1,000,000 for each of fiscal years 2015 through 2019.
+**(c) Public awareness** There is authorized to be appropriated to carry out [section 467g–2 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-2) $1,000,000 for each of fiscal years 2019 through 2023.
 
-**(d) Research** There is authorized to be appropriated to carry out [section 467g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g) $1,450,000 for each of fiscal years 2015 through 2019, to remain until expended.
+**(d) Research** There is authorized to be appropriated to carry out [section 467g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g) $1,450,000 for each of fiscal years 2019 through 2023, to remain until expended.
 
-**(e) Dam safety training** There is authorized to be appropriated to carry out [section 467g–1 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-1) $750,000 for each of fiscal years 2015 through 2019.
+**(e) Dam safety training** There is authorized to be appropriated to carry out [section 467g–1 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-1) $750,000 for each of fiscal years 2019 through 2023.
 
-**(f) Staff** There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2015 through 2019.
+**(f) Staff** There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2019 through 2023.
 
 **(g) Limitation on use of amounts** Amounts made available under this subchapter may not be used to construct or repair any Federal or non-Federal dam.
 
@@ -2639,6 +2653,8 @@ A prior section 467j, Pub. L. 92–367, § 11, as added Pub. L. 99–662, title 
 A prior section 14 of Pub. L. 92–367 was classified to [section 467m of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467m&num=0&edition=prelim) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2018—Pub. L. 115–270 substituted “2019 through 2023” for “2015 through 2019” wherever appearing.
+
 2014—Subsec. (a)(1). Pub. L. 113–121, § 3001(f), made technical amendment to reference in original act which appears in text as reference to [section 467h of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467h).
 
 Pub. L. 113–121, § 3001(e)(1)(A), substituted “$9,200,000 for each of fiscal years 2015 through 2019” for “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011”.

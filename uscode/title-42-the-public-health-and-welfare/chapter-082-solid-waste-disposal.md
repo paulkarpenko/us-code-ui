@@ -2401,9 +2401,19 @@ and continues, without interruption, as long as the waste is stored on the origi
 
 (1) The term “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a foreign nation, except when the vessel is engaged in commerce.
 
-(2) The terms “in reserve” and “in service” have the meanings applicable to those terms under section 7293 and sections 7304 through 7308 of title 10 and regulations prescribed under those sections.
+(2) The terms “in reserve” and “in service” have the meanings applicable to those terms under section 8663 and sections 8674 through 8678 of title 10 and regulations prescribed under those sections.
 
-**(d) Relationship to other law** Nothing in this section shall be construed as altering or otherwise affecting the provisions of [section 7311 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7311&num=0&edition=prelim).
+**(d) Relationship to other law** Nothing in this section shall be construed as altering or otherwise affecting the provisions of [section 8681 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8681&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (c)(2). Pub. L. 115–232, § 809(n)(2)(A), substituted “section 8663 and sections 8674 through 8678 of title 10” for “section 7293 and sections 7304 through 7308 of title 10”.
+
+Subsec. (d). Pub. L. 115–232, § 809(n)(2)(B), substituted “[section 8681 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8681&num=0&edition=prelim)” for “[section 7311 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7311&num=0&edition=prelim)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-6939e"></a>

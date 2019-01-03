@@ -310,7 +310,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 The Retired Reserve consists of the following Reserves:
 
-(1) Reserves who are or have been retired under section 3911, 6323, or 8911 of this title or under [section 291 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section291&num=0&edition=prelim).
+(1) Reserves who are or have been retired under section 7311, 8323, or 9311 of this title or under section 291 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
 
 (2) Reserves who have been transferred to the Retired Reserve, retain their status as Reserves, and are otherwise qualified.
 
@@ -320,7 +320,15 @@ The Retired Reserve consists of the following Reserves:
 Provisions similar to those in this section were contained in [section 274 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-274), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–232 substituted “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
+
 2001—Par. (2). Pub. L. 107–107 struck out “upon their request” after “Retired Reserve”.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 291 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section291&num=0&edition=prelim) redesignated [section 2152 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2152&num=0&edition=prelim) by Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216, and references to [section 291 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section291&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title V, § 517(g), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments made by this section [enacting sections 12108 and 12244 of this title and amending this section and sections 14513 to 14515 of this title] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act [Dec. 28, 2001].”

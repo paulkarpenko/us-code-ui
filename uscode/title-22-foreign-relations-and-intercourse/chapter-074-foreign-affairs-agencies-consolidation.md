@@ -379,6 +379,9 @@ Pub. L. 114–113, div. K, title VII, § 7034(k)(12), Dec. 18, 2015, 129 Stat. 2
 #### Effective Date
 Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1401, Oct. 21, 1998, 112 Stat. 2681–790, provided that: “This title [see Tables for classification], and the amendments made by this title, shall take effect on the earlier of— “(1) April 1, 1999; or “(2) the date of abolition [Apr. 1, 1999] of the United States International Development Cooperation Agency pursuant to the reorganization plan described in section 1601 [[22 U.S.C. 6601](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6601)].”
 
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.
+
 
 <a id="section-6562"></a>
 ## § 6562. Transfer of functions and authorities
@@ -400,6 +403,9 @@ Executive Order No. 12163, referred to in subsec. (a), is Ex. Ord. No. 12163, Se
 For the effective date of this subchapter, referred to in subsecs. (a)(1) and (b), meaning the effective date of title XIV of subdiv. A of div. G of Pub. L. 105–277, see section 1401 of Pub. L. 105–277, set out as a note under [section 6561 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6561).
 
 Reorganization Plan Numbered 2 of 1979, referred to in subsec. (c), is Reorg. Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, effective Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, which was set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381), prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§ 1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792.
+
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.
 
 
 <a id="section-6563"></a>

@@ -509,7 +509,7 @@ Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, se
 <a id="section-8522"></a>
 ## § 8522. Assignment of Federal service and wages
 
-Notwithstanding [section 8504 of this title](./chapter-085-unemployment-compensation.md#section-8504), Federal service and Federal wages not previously assigned shall be assigned to the State in which the claimant first files claim for unemployment compensation after his latest discharge or release from Federal service. This assignment is deemed as assignment under [section 8504 of this title](./chapter-085-unemployment-compensation.md#section-8504) for the purpose of this subchapter.
+Notwithstanding [section 8504 of this title](./chapter-085-unemployment-compensation.md#section-8504), Federal service and Federal wages not previously assigned shall be assigned to the State in which the claimant first files claim for unemployment compensation after his latest discharge or release from Federal service. This assignment is deemed an assignment under [section 8504 of this title](./chapter-085-unemployment-compensation.md#section-8504) for the purpose of this subchapter.
 
 ### Statutory Notes
 

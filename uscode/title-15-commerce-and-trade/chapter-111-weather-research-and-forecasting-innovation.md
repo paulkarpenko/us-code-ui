@@ -2,19 +2,38 @@
 title: 15
 chapter: '111'
 heading: WEATHER RESEARCH AND FORECASTING INNOVATION
-section_count: 24
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
 <a id="section-8501"></a>
-## § 8501. Hurricane hunter aircraft
-**(a) Backup capability** The Under Secretary shall acquire backup for the capabilities of the WP–3D Orion and G–IV hurricane aircraft of the National Oceanic and Atmospheric Administration that is sufficient to prevent a single point of failure.
+## § 8501. Improvements to Cooperative Observer Program of National Weather Service
+**(a) In general** The Under Secretary of Commerce for Oceans and Atmosphere, acting through the National Weather Service, shall improve the Cooperative Observer Program by—
 
-**(b) Authority to enter agreements** In order to carry out subsection (a), the Under Secretary shall negotiate and enter into 1 or more agreements or contracts, to the extent practicable and necessary, with governmental and non-governmental entities.
+(1) providing support to—
 
-**(c) Future technology** The Under Secretary shall continue the development of Airborne Phased Array Radar under the United States Weather Research Program.
+  (A) State-coordinated programs relating to the Program; and
 
-**(d) Authorization of appropriations** For each of fiscal years 2017 through 2020, support for implementing subsections (a) and (b) is authorized out of funds appropriated to the Office of Marine and Aviation Operations.
+  (B) States and regions where observations provided through the Program are scarce;
+
+(2) working with State weather service headquarters to increase participation in the Program and to add stations in States and regions described in paragraph (1)(B);
+
+(3) where feasible, ensuring that data streams from stations that have been contributing data to the Program for more than 50 years are maintained and continually staffed by volunteers;
+
+(4) prioritizing the recruitment of new volunteers for the Program;
+
+(5) ensuring that opportunities exist for automated reporting to lessen the burden on volunteers to collect and report data by hand; and
+
+(6) ensuring that integrated reporting is available for qualitative observations that cannot be automated, such as drought conditions, snow observations, and hazardous weather events, to ensure that volunteers in the Program can report and upload observations quickly and easily.
+
+**(b) Coordination with states and regions** Not less frequently than every 180 days, the National Weather Service shall coordinate with State and regional offices with respect to the status of Cooperative Observer Program stations.
+
+**(c) Coordination with Federal agencies** The National Weather Service shall coordinate with other Federal agencies, including the Forest Service, the Department of Agriculture, and the United States Geological Survey, to leverage opportunities to grow the Cooperative Observer Program network and to more effectively use existing infrastructure, weather stations, and staff of the Program.
+
+### Statutory Notes
+
+#### Codification
+This section was enacted as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Weather Research and Forecasting Innovation Act of 2017, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
 
 
 <a id="section-8511"></a>
@@ -36,6 +55,9 @@ In this chapter:
 
 #### References in Text
 This chapter, referred to in text, is Pub. L. 115–25, April 18, 2017, 131 Stat. 91, known as the Weather Research and Forecasting Innovation Act of 2017, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title of 2019 Amendment
+Pub. L. 115–423, § 1, Jan. 7, 2019, 132 Stat. 5454, provided that: “This Act [enacting [section 8550 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8550) and [section 4010 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4010&num=0&edition=prelim), Navigation and Navigable Waters, amending sections 313d, 8512, 8518 to 8521, 8531, and 8532 of this title and sections 4001 to 4002 and 4009 of Title 33, enacting provisions set out as a note under [section 4001 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4001&num=0&edition=prelim), and amending provisions set out as a note under [section 313d of this title](./chapter-009-national-weather-service.md#section-313d)] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2018’.”
 
 #### Short Title
 Pub. L. 115–25, § 1(a), Apr. 18, 2017, 131 Stat. 91, provided that: “This Act [enacting this chapter and sections 3206a and 3208 of Title 33, Navigation and Navigable Waters, amending sections 3201 to 3207 of Title 33, and enacting and repealing provisions set out as notes under [section 3201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3201&num=0&edition=prelim)] may be cited as the ‘Weather Research and Forecasting Innovation Act of 2017’.”
@@ -81,7 +103,25 @@ In conducting research, the Under Secretary shall prioritize improving weather d
 
   (G) additional sources of weather data and information, including commercial observing systems.
 
-(4) A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
+(4) 11 So in original. Two pars. (4) have been enacted. A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
+
+(4) 1 Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—
+
+  (A) leveraging the weather enterprise to provide expertise on removing barriers to improving numerical weather prediction;
+
+  (B) enabling scientists and engineers to effectively collaborate in areas important for improving operational global numerical weather prediction skill, including model development, data assimilation techniques, systems architecture integration, and computational efficiencies;
+
+  (C) strengthening the National Oceanic and Atmospheric Administration’s ability to undertake research projects in pursuit of substantial advancements in weather forecast skill;
+
+  (D) utilizing and leverage existing resources across the National Oceanic and Atmospheric Administration enterprise; and
+
+  (E) creating a community global weather research modeling system that—
+
+    (i) is accessible by the public;
+
+    (ii) meets basic end-user requirements for running on public computers and networks located outside of secure National Oceanic and Atmospheric Administration information and technology systems; and
+
+    (iii) utilizes, whenever appropriate and cost-effective, innovative strategies and methods, including cloud-based computing capabilities, for hosting and management of part or all of the system described in this subsection.
 
 **(c) Extramural research**
 
@@ -90,6 +130,11 @@ In conducting research, the Under Secretary shall prioritize improving weather d
 (2) **Sense of Congress** — It is the sense of Congress that not less than 30 percent of the funds for weather research and development at the Office of Oceanic and Atmospheric Research should be made available for the purpose described in paragraph (1).
 
 **(d) Annual report** Each year, concurrent with the annual budget request submitted by the President to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (b)(4). Pub. L. 115–423 added par. (4) relating to advancing weather modeling skill.
 
 
 <a id="section-8514"></a>
@@ -188,39 +233,106 @@ The Under Secretary shall—
 
 
 <a id="section-8519"></a>
-## § 8519. Annual report on computing resources prioritization
+## § 8519. Computing resource efficiency improvement and annual report
+**(a) Computing resources**
 
-Not later than 1 year after April 18, 2017, and not less frequently than once each year thereafter, the Under Secretary, acting through the Chief Information Officer of the National Oceanic and Atmospheric Administration and in coordination with the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the National Weather Service, shall produce and make publicly available a report that explains how the Under Secretary intends—
+(1) **In general** — In acquiring computing capabilities, including high performance computing technologies and supercomputing technologies, that enable the National Oceanic and Atmospheric Administration to meet its mission requirements, the Under Secretary shall, when appropriate and cost-effective, assess and prioritize options for entering into multi-year lease agreements for computing capabilities over options for purchasing computing hardware outright.
+
+(2) **Acquisition** — In carrying out the requirements of paragraph (1), the Under Secretary shall structure multi-year lease agreements in such a manner that the expiration of the lease is set for a date on or around—
+
+  (A) the expected degradation point of the computing resources; or
+
+  (B) the point at which significantly increased computing capabilities are expected to be available for lease.
+
+(3) **Pilot programs**
+
+  (A) *In general* — In order to more efficiently and effectively meet the mission requirements of the National Oceanic and Atmospheric Administration, the Under Secretary may create 1 or more pilot programs for assessing new or innovative information and technology capabilities and services.
+
+  (B) *Program requirements* — Any program created under paragraph (3) shall assess only those capabilities and services that—
+
+    (i) meet or exceed the standards and requirements of the National Oceanic and Atmospheric Administration, including for processing speed, cybersecurity, and overall reliability; or
+
+    (ii) meet or exceed, or are expected to meet or exceed, the performance of similar, in-house information and technology capabilities and services that are owned and operated by the National Oceanic and Atmospheric Administration prior to the establishment of the pilot program.
+
+  (C) *Authorization of appropriations* — There is authorized to be appropriated, out of funds appropriated to the National Environmental Satellite, Data, and Information Service, to carry out this paragraph $5,000,000 for fiscal year 2019, $10,000,000 for fiscal year 2020, and $5,000,000 for each of fiscal years 2021 through 2023, to remain available until expended.
+
+**(b) Reports** Not later than 1 year after January 7, 2019, and triennially thereafter until the date that is 6 years after the date on which the first report is submitted, the Under Secretary, acting through the Chief Information Officer of the National Oceanic and Atmospheric Administration and in coordination with the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the National Weather Service, shall produce and make publicly available a report that explains how the Under Secretary intends—
 
 (1) to continually support upgrades to pursue the fastest, most powerful, and cost-effective high performance computing technologies in support of its weather prediction mission;
 
 (2) to ensure a balance between the research to operations requirements to develop the next generation of regional and global models as well as highly reliable operational models;
 
-(3) to take advantage of advanced development concepts to, as appropriate, make next generation weather prediction models available in beta-test mode to operational forecasters, the United States weather industry, and partners in academic and Government research; and
+(3) to take advantage of advanced development concepts to, as appropriate, make next generation weather prediction models available in beta-test mode to operational forecasters, the United States weather industry, and partners in academic and Government research;
 
-(4) to use existing computing resources to improve advanced research and operational weather prediction.
+(4) to use existing computing resources to improve advanced research and operational weather prediction;
+
+(5) to utilize non-Federal contracts to obtain the necessary expertise for advanced weather computing, if appropriate;
+
+(6) to utilize cloud computing; and
+
+(7) to create a long-term strategy to transition the programming language of weather model code to current and broadly-used coding language.
+
+### Statutory Notes
+
+#### Amendments
+2019—Pub. L. 115–423 amended section generally. Prior to amendment, section related to annual report on computing resources prioritization.
 
 
 <a id="section-8520"></a>
 ## § 8520. Authorization of appropriations
-**(a) Fiscal Years 2017 and 2018** For each of fiscal years 2017 and 2018, there are authorized to be appropriated to Office of Oceanic and Atmospheric Research—
+**(a) In general** There are authorized to be appropriated to the Office of Oceanic and Atmospheric Research to carry out this subchapter—
 
-(1) $111,516,000 to carry out this subchapter, of which—
+(1) $136,516,000 for fiscal year 2019, of which—
 
-  (A) $85,758,000 is authorized for weather laboratories and cooperative institutes; and
+  (A) $85,758,000 is authorized for weather laboratories and cooperative institutes;
 
-  (B) $25,758,000 is authorized for weather and air chemistry research programs; and
+  (B) $30,758,000 is authorized for weather and air chemistry research programs; and
 
-(2) an additional amount of $20,000,000 for the joint technology transfer initiative described in [section 8512(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b/4&num=0&edition=prelim).
+  (C) $20,000,000 is authorized for the joint technology transfer initiative described in [section 8512(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b/4&num=0&edition=prelim);
+
+(2) $148,154,000 for fiscal year 2020, of which—
+
+  (A) $87,258,000 is authorized for weather laboratories and cooperative institutes;
+
+  (B) $40,896,000 is authorized for weather and air chemistry research programs; and
+
+  (C) $20,000,000 is authorized for the joint technology transfer initiative described in [section 8512(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b/4&num=0&edition=prelim);
+
+(3) $150,154,000 for fiscal year 2021, of which—
+
+  (A) $88,758,000 is authorized for weather laboratories and cooperative institutes;
+
+  (B) $41,396,000 is authorized for weather and air chemistry research programs; and
+
+  (C) $20,000,000 is authorized for the joint technology transfer initiative described in [section 8512(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b/4&num=0&edition=prelim);
+
+(4) $152,154,000 for fiscal year 2022, of which—
+
+  (A) $90,258,000 is authorized for weather laboratories and cooperative institutes;
+
+  (B) $41,896,000 is authorized for weather and air chemistry research programs; and
+
+  (C) $20,000,000 is authorized for the joint technology transfer initiative described in [section 8512(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b/4&num=0&edition=prelim); and
+
+(5) $154,154,000 for fiscal year 2023, of which—
+
+  (A) $91,758,000 is authorized for weather laboratories and cooperative institutes;
+
+  (B) $42,396,000 is authorized for weather and air chemistry research programs; and
+
+  (C) $20,000,000 is authorized for the joint technology transfer initiative described in [section 8512(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b/4&num=0&edition=prelim).
 
 **(b) Limitation** No additional funds are authorized to carry out this subchapter and the amendments made by this title.11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (a)(1) and (b), was in the original “this title”, meaning title I of Pub. L. 115–25, which enacted this subchapter and amended provisions formerly set out as a note under [section 313 of this title](./chapter-009-national-weather-service.md#section-313), which is now classified to [section 8520 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8520). For complete classification of title I to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 115–25, which enacted this subchapter and amended provisions formerly set out as a note under [section 313 of this title](./chapter-009-national-weather-service.md#section-313), which is now classified to [section 8520 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8520). For complete classification of title I to the Code, see Tables.
 
 The amendments made by this title, referred to in subsec. (b), mean the amendments made by title I of Pub. L. 115–25, which amended provisions formerly set out as a note under [section 313 of this title](./chapter-009-national-weather-service.md#section-313) and which is now classified to [section 8520 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8520).
+
+#### Amendments
+2019—Pub. L. 115–423 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2017 and 2018.
 
 
 <a id="section-8521"></a>
@@ -259,11 +371,13 @@ The amendments made by this title, referred to in subsec. (b), mean the amendmen
 
 (9) develop and implement a system to track whether extramural research grant goals were accomplished;
 
-(10) provide facilities for products developed by the Office of Oceanic and Atmospheric Research to be tested in operational simulations, such as test beds; and
+(10) provide facilities for products developed by the Office of Oceanic and Atmospheric Research to be tested in operational simulations, such as test beds;
 
-(11) encourage academic collaboration with the Office of Oceanic and Atmospheric Research and the National Weather Service by facilitating visiting scholars.
+(11) encourage academic collaboration with the Office of Oceanic and Atmospheric Research and the National Weather Service by facilitating visiting scholars; and
 
-**(b) Implementation Plan** The Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—
+(12) carry out the activities of the Earth Prediction Innovation Center as described in [section 8512(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b/2&num=0&edition=prelim).
+
+**(b) Implementation plan** The Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—
 
 (1) establish, for the 10-year period beginning in the year the plan is submitted, the goals and priorities for Federal weather research which most effectively advance the scientific understanding of weather processes and provide information to improve weather warning and forecast systems in the United States;
 
@@ -283,6 +397,8 @@ Section was formerly set out as a note under [section 313 of this title](./chapt
 Section was enacted as part of the National Oceanic and Atmospheric Administration Authorization Act of 1992, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
 
 #### Amendments
+2019—Subsec. (a)(12). Pub. L. 115–423 added par. (12)
+
 2017—Subsec. (a)(5) to (11). Pub. L. 115–25, § 109(1), added pars. (5) to (11). See Codification note above.
 
 Subsec. (b). Pub. L. 115–25, § 109(2), substituted “The” for “Not later than 90 days after October 29, 1992, the” in introductory provisions. See Codification note above.
@@ -376,7 +492,19 @@ Subsec. (c). Pub. L. 115–25, § 109(3), added subsec. (c). See Codification no
 
 (7) **Weather industry and weather enterprise** — The terms “weather industry” and “weather enterprise” are interchangeable in this section and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
 
-**(j) Authorization of Appropriations** For each of fiscal years 2017 and 2018, there are authorized out of funds appropriated to the National Weather Service, $26,500,000 to carry out the activities of this section.
+**(j) Authorization of appropriations** There are authorized to be appropriated to carry out the activities under this section—
+
+(1) $26,500,000 for fiscal year 2019;
+
+(2) $27,000,000 for fiscal year 2020;
+
+(3) $27,500,000 for fiscal year 2021;
+
+(4) $28,000,000 for fiscal year 2022; and
+
+(5) $28,500,000 for fiscal year 2023.
+
+**(k) Derivation of funds** Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Weather Service.
 
 ### Statutory Notes
 
@@ -386,6 +514,10 @@ Section was formerly set out as a note under [section 313 of this title](./chapt
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
 
 #### Amendments
+2019—Subsec. (j). Pub. L. 115–423, § 3(a)(1), amended subsec. (j) generally. Prior to amendment, text read as follows: “For each of fiscal years 2017 and 2018, there are authorized out of funds appropriated to the National Weather Service, $26,500,000 to carry out the activities of this section.”
+
+Subsec. (k). Pub. L. 115–423, § 3(a)(2), added subsec. (k).
+
 2017—Subsecs. (a), (b). Pub. L. 115–25, § 201(1), (2), inserted headings.
 
 Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
@@ -409,9 +541,11 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 
 (2) **Integration of ocean and coastal data from the Integrated Ocean Observing System** — In National Weather Service Regions where the Director of the National Weather Service determines that ocean and coastal data would improve forecasts, the Director, in consultation with the Assistant Administrator for Oceanic and Atmospheric Research and the Assistant Administrator of the National Ocean Service, shall—
 
-  (A) integrate additional coastal and ocean observations, and other data and research, from the Integrated Ocean Observing System (IOOS) into regional weather forecasts to improve weather forecasts and forecasting decision support systems; and
+  (A) integrate additional coastal and ocean observations, and other data and research, from the Integrated Ocean Observing System (IOOS) into regional weather forecasts to improve weather forecasts and forecasting decision support systems;
 
-  (B) support the development of real-time data sharing products and forecast products in collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts.
+  (B) support the development of real-time data sharing products and forecast products in collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts; and
+
+  (C) support increasing use of autonomous, mobile surface, sub-surface, and submarine vehicle ocean and fresh water sensor systems and the infrastructure necessary to share and analyze these data in real-time and feed them into predictive early warning systems.
 
 (3) **Existing monitoring and observation-capability** — The Under Secretary shall identify degradation of existing monitoring and observation capabilities that could lead to a reduction in forecast quality.
 
@@ -458,6 +592,93 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
   (B) *Treatment* — If the Under Secretary enters into an agreement with another organization as described in subparagraph (A), any reference in this subsection to the National Academy of Sciences shall be treated as a reference to the other organization.
 
 (4) **Authorization of appropriations** — There are authorized to be appropriated, out of funds appropriated to National 11 So in original. Probably should be preceded by “the”. Environmental Satellite, Data, and Information Service, to carry out this subsection $1,000,000 for the period encompassing fiscal years 2018 through 2019.
+
+**(c) Next generation satellite architecture**
+
+(1) **In general** — The Under Secretary shall analyze, test, and plan the procurement of future data sources and satellite architectures, including respective ground system elements, identified in the National Oceanic and Atmospheric Administration’s Satellite Observing System Architecture Study that—
+
+  (A) lower the cost of observations used to meet the National Oceanic and Atmospheric Administration’s mission requirements;
+
+  (B) disaggregate current satellite systems, where appropriate;
+
+  (C) include new, value-adding technological advancements; and
+
+  (D) improve weather forecasting and predictions.
+
+(2) **Quantitative assessments and partnership authority** — In meeting the requirements described in paragraph (1), the Under Secretary—
+
+  (A) may partner with the commercial and academic sectors, non-governmental and not-for-profit organizations, and other Federal agencies; and
+
+  (B) shall, consistent with [section 8517 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8517), undertake quantitative assessments for objective analyses, as the Under Secretary considers appropriate, to evaluate relative value and benefits of future data sources and satellite architectures described in paragraph (1).
+
+**(d) Additional forms of transaction authorized**
+
+(1) **In general** — Subject to paragraph (2), in order to enhance the effectiveness of data and satellite systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1).
+
+(2) **Method and scope**
+
+  (A) *In general* — A transaction agreement under paragraph (1) shall be limited to research and development activities.
+
+  (B) *Permissible uses* — A transaction agreement under paragraph (1) may be used—
+
+    (i) for the construction, use, operation, or procurement of new, improved, innovative, or value-adding satellites, instrumentation, ground stations, and data;
+
+    (ii) to make determinations on how to best use existing or planned data, systems, and assets of the National Oceanic and Atmospheric Administration; and
+
+    (iii) only when the objectives of the National Oceanic and Atmospheric Administration cannot be met using a cooperative research and development agreement, grants procurement contract, or cooperative agreement.
+
+(3) **Termination of effectiveness** — The authority provided in this subsection terminates effective September 30, 2023.
+
+**(e) Transparency** Not later than 60 days after the date that a transaction agreement is made under subsection (d), the Under Secretary shall make publicly available, in a searchable format, on the website of the National Oceanic and Atmospheric Administration all uses of the authority under subsection (d), including an estimate of committed National Oceanic and Atmospheric Administration resources and the expected benefits to National Oceanic and Atmospheric Administration objectives for the transaction agreement, with appropriate redactions for proprietary, sensitive, or classified information.
+
+**(f) Reports**
+
+(1) **In general** — Not later than 90 days after September 30 of each fiscal year through September 30, 2023, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of additional transaction authority by the National Oceanic and Atmospheric Administration during the previous fiscal year.
+
+(2) **Contents** — Each report shall include—
+
+  (A) for each transaction agreement in effect during the fiscal year covered by the report—
+
+    (i) an indication of whether the transaction agreement is a reimbursable, non-reimbursable, or funded agreement;
+
+    (ii) a description of—
+
+      (I) the subject and terms;
+
+      (II) the parties;
+
+      (III) the responsible National Oceanic and Atmospheric Administration line office;
+
+      (IV) the value;
+
+      (V) the extent of the cost sharing among Federal Government and non-Federal sources;
+
+      (VI) the duration or schedule; and
+
+      (VII) all milestones;
+
+    (iii) an indication of whether the transaction agreement was renewed during the previous fiscal year;
+
+    (iv) the technology areas in which research projects were conducted under that agreement;
+
+    (v) the extent to which the use of that agreement—
+
+      (I) has contributed to a broadening of the technology and industrial base available for meeting National Oceanic and Atmospheric Administration needs; and
+
+      (II) has fostered within the technology and industrial base new relationships and practices that support the United States; and
+
+    (vi) the total value received by the Federal Government under that agreement for that fiscal year; and
+
+  (B) a list of all anticipated reimbursable, non-reimbursable, and funded transaction agreements for the upcoming fiscal year.
+
+**(g) Rule of construction** Nothing in this section may be construed as limiting the authority of the National Oceanic and Atmospheric Administration to use cooperative research and development agreements, grants, procurement contracts, or cooperative agreements.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (a)(2)(C). Pub. L. 115–423, § 7(a), added subpar. (C).
+
+Subsec. (c) to (g). Pub. L. 115–423, § 6, added subsecs. (c) to (g).
 
 
 <a id="section-8533"></a>
@@ -506,7 +727,7 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 
     (iii) the accuracy, quality, timeliness, validity, reliability, usability, information technology security, and cost-effectiveness of obtaining commercial weather data from private sector providers.
 
-(3) **Authorization of appropriations** — For each of fiscal years 2017 through 2020, there are authorized to be appropriated for procurement, acquisition, and construction at National 1 Environmental Satellite, Data, and Information Service, $6,000,000 to carry out this subsection.
+(3) **Authorization of appropriations** — For each of fiscal years 2019 through 2023, there are authorized to be appropriated for procurement, acquisition, and construction at the National Environmental Satellite, Data, and Information Service, $6,000,000 to carry out this subsection.
 
 **(d) Obtaining future data** If an assessment under subsection (c)(2)(B) demonstrates the ability of commercial weather data to meet data and metadata standards and specifications published under subsection (c)(1), the Under Secretary shall—
 
@@ -519,6 +740,11 @@ Subsecs. (c) to (j). Pub. L. 115–25, § 201(3), added subsecs. (c) to (j).
 (4) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report detailing any determination made under paragraphs (2) and (3).
 
 **(e) Data sharing practices** The Under Secretary shall continue to meet the international meteorological agreements into which the Under Secretary has entered, including practices set forth through World Meteorological Organization Resolution 40.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (c)(3). Pub. L. 115–423 substituted “2019 through 2023” for “2017 through 2020” and inserted “the” before “National”.
 
 
 <a id="section-8541"></a>
@@ -597,7 +823,7 @@ In meeting the requirements under this subchapter, the Under Secretary shall avo
 
 (3) **Performance by other employees** — Performance of the responsibilities outlined in this section is not limited to the warning coordination meteorologist position.
 
-**(b) Primary Role of warning coordination meteorologists** The primary role of the warning coordination meteorologist shall be to carry out the responsibilities required by this section.
+**(b) Primary role of warning coordination meteorologists** The primary role of the warning coordination meteorologist shall be to carry out the responsibilities required by this section.
 
 **(c) Responsibilities**
 
@@ -713,3 +939,14 @@ The General Schedule, referred to in subsec. (b), is set out under [section 5332
 (8) Professional societies that focus on meteorology.
 
 (9) Such other stakeholder groups as the Under Secretary considers appropriate.
+
+
+<a id="section-8550"></a>
+## § 8550. Hurricane hunter aircraft
+**(a) Backup capability** The Under Secretary shall acquire backup for the capabilities of the WP–3D Orion and G–IV hurricane aircraft of the National Oceanic and Atmospheric Administration that is sufficient to prevent a single point of failure.
+
+**(b) Authority to enter agreements** In order to carry out subsection (a), the Under Secretary shall negotiate and enter into 1 or more agreements or contracts, to the extent practicable and necessary, with governmental and non-governmental entities.
+
+**(c) Future technology** The Under Secretary shall continue the development of Airborne Phased Array Radar under the United States Weather Research Program.
+
+**(d) Authorization of appropriations** For each of fiscal years 2017 through 2020, support for implementing subsections (a) and (b) is authorized out of funds appropriated to the Office of Marine and Aviation Operations.

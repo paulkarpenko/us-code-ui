@@ -2,7 +2,7 @@
 title: 46
 chapter: '31'
 heading: GENERAL
-section_count: 4
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -84,7 +84,7 @@ The Secretary may rely, as evidence of compliance with this subtitle, on—
 
 (2) provides an equal or higher standard of safety than is provided by such requirements as in effect before such date of the enactment.
 
-**(d) Built Defined.—** In this section, the term “built” has the meaning that term has under section 4503(e).
+**(d) Built Defined.—** In this section, the term “built” has the meaning that term has under section 4503(d).
 
 ### Statutory Notes
 
@@ -92,16 +92,55 @@ The Secretary may rely, as evidence of compliance with this subtitle, on—
 The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsecs. (b) and (c), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 #### Amendments
-2016—Subsecs. (b), (c). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
+2018—Subsec. (d). Pub. L. 115–282 substituted “section 4503(d)” for “section 4503(e)”.
 
-Pub. L. 114–120 amended section generally. Prior to amendment, section related to survival craft.
+2016—Pub. L. 114–120 amended section generally. Prior to amendment, section related to survival craft.
+
+Subsecs. (b), (c). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
 
 2012—Subsec. (b). Pub. L. 112–213, § 303(1), substituted “the date that is 30 months after the date on which the report described in subsection (c) is submitted” for “January 1, 2015” in introductory provisions.
 
 Subsec. (c). Pub. L. 112–213, § 303(2), added subsec. (c).
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 60 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section60&num=0&edition=prelim), Coast Guard.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 315 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section315&num=0&edition=prelim), Coast Guard.
 
 #### Review; Revision of Regulations
 Pub. L. 114–120, title III, § 301(b), Feb. 8, 2016, 130 Stat. 50, provided that: “(1) Review.—Not later than December 31, 2016, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a review of—“(A) the number of casualties for individuals with disabilities, children, and the elderly as a result of immersion in water, reported to the Coast Guard over the preceding 30-year period, by vessel type and area of operation; “(B) the risks to individuals with disabilities, children, and the elderly as a result of immersion in water, by passenger vessel type and area of operation; “(C) the effect that carriage of survival craft that ensure that no part of an individual is immersed in water has on—“(i) passenger vessel safety, including stability and safe navigation; “(ii) improving the survivability of individuals, including individuals with disabilities, children, and the elderly; and “(iii) the costs, the incremental cost difference to vessel operators, and the cost effectiveness of requiring the carriage of such survival craft to address the risks to individuals with disabilities, children, and the elderly; “(D) the efficacy of alternative safety systems, devices, or measures in improving survivability of individuals with disabilities, children, and the elderly; and “(E) the number of small businesses and nonprofit vessel operators that would be affected by requiring the carriage of such survival craft on passenger vessels to address the risks to individuals with disabilities, children, and the elderly. “(2) Scope.—In conducting the review under paragraph (1), the Secretary shall include an examination of passenger vessel casualties that have occurred in the waters of other nations. “(3) Updates.—The Secretary shall update the review required under paragraph (1) every 5 years. “(4) Revision.—Based on the review conducted under paragraph (1), including updates thereto, the Secretary shall revise regulations concerning the carriage of survival craft under [section 3104(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3104/c&num=0&edition=prelim), United States Code.”
+
+
+<a id="section-3105"></a>
+## § 3105. Electronic charts
+**(a) System Requirements.—**
+
+(1) **Requirements.—** — Subject to paragraph (2), the following vessels, while operating on the navigable waters of the United States, shall be equipped with and operate electronic charts under regulations prescribed by the Secretary of the department in which the Coast Guard is operating:
+
+  (A) A self-propelled commercial vessel of at least 65 feet overall length.
+
+  (B) A vessel carrying more than a number of passengers for hire determined by the Secretary.
+
+  (C) A towing vessel of more than 26 feet in overall length and 600 horsepower.
+
+  (D) Any other vessel for which the Secretary decides that electronic charts are necessary for the safe navigation of the vessel.
+
+(2) **Exemptions and waivers.—** — The Secretary may—
+
+  (A) exempt a vessel from paragraph (1), if the Secretary finds that electronic charts are not necessary for the safe navigation of the vessel on the waters on which the vessel operates; and
+
+  (B) waive the application of paragraph (1) with respect to operation of vessels on navigable waters of the United States specified by the Secretary, if the Secretary finds that electronic charts are not needed for safe navigation on those waters.
+
+**(b) Limitation on Application.—** Except pursuant to an international treaty, convention, or agreement, to which the United States is a party, this section shall not apply to any foreign vessel that is not destined for, or departing from, a port or place subject to the jurisdiction of the United States and that is in—
+
+(1) innocent passage through the territorial sea of the United States; or
+
+(2) transit through the navigable waters of the United States that form a part of an international strait.
+
+### Statutory Notes
+
+#### Codification
+Section, as added and amended by Pub. L. 115–282, is based on Pub. L. 92–340, § 4A, as added Pub. L. 108–293, title IV, § 410, Aug. 9, 2004, 118 Stat. 1045, which was formerly classified to [section 1223a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223a&num=0&edition=prelim), Navigation and Navigable Waters, before being transferred to this chapter and renumbered as this section.
+
+#### Amendments
+2018—Pub. L. 115–282, § 402(a)(1)(A), transferred section 4A of Pub. L. 92–340 to this chapter and renumbered it as this section. See Codification note above.
+
+Subsec. (b). Pub. L. 115–282, § 402(a)(1)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary of the department in which the Coast Guard is operating shall prescribe regulations implementing subsection (a) before January 1, 2007, including requirements for the operation and maintenance of the electronic charts required under subsection (a).”

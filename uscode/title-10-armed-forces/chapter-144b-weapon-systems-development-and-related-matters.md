@@ -86,9 +86,9 @@ Pub. L. 114–328, div. A, title VIII, § 805(a)(4), Dec. 23, 2016, 130 Stat. 22
 
 **(d) Request for Proposals.—** The milestone decision authority for a major defense acquisition program that uses a modular open system approach shall ensure that a request for proposals for the development or production phases of the program shall describe the modular open system approach and the minimum set of major system components that must be included in the design of the major defense acquisition program.
 
-**(e) Milestone B.—** A major defense acquisition program may not receive Milestone B approval under [section 2366b of this title](./chapter-139-research-and-development.md#section-2366b) until the milestone decision authority determines in writing that—
+**(e) Milestone B.—** A major defense acquisition program may not receive Milestone B approval under [section 2366b of this title](./chapter-139-research-and-development.md#section-2366b) until the milestone decision authority determines in writing—
 
-(1) in the case of a program that uses a modular open system approach—
+(1) in the case of a program that uses a modular open system approach, that—
 
   (A) the program incorporates clearly defined major system interfaces between the major system platform and major system components, between major system components, and between major system platforms;
 
@@ -99,6 +99,9 @@ Pub. L. 114–328, div. A, title VIII, § 805(a)(4), Dec. 23, 2016, 130 Stat. 22
 (2) in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.
 
 ### Statutory Notes
+
+#### Amendments
+2017—Subsec. (e). Pub. L. 115–91 substituted “in writing—” for “in writing that—” in introductory provisions and inserted “, that” after “open system approach” in introductory provisions of par. (1).
 
 #### Effective Date
 Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under [section 2446a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2446a).
@@ -144,6 +147,21 @@ Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set 
 **(c) Definitions.—** In this section, the terms “budget” and “defense budget materials” have the meaning given those terms in [section 234 of this title](./chapter-009-defense-budget-matters.md#section-234).
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 115–232, div. A, title VIII, § 836(e)(8), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
+
+(1) in subsection (a)(2), by striking “commercial items and technologies” and inserting “commercial products and technologies”; and
+
+(2) in subsection (c), by inserting before the period at the end the following: “and the term ‘commercial product’ has the meaning given that term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)”.
+
+#### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–232, § 836(e)(8)(A), substituted “commercial products and technologies” for “commercial items and technologies”.
+
+Subsec. (c). Pub. L. 115–232, § 836(e)(8)(B), inserted before period at end “and the term ‘commercial product’ has the meaning given that term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date
 Pub. L. 114–328, div. A, title VIII, § 806(a)(2), Dec. 23, 2016, 130 Stat. 2259, provided that: “Subchapter II of chapter 144B of title 10, United States Code, as added by paragraph (1), shall take effect on January 1, 2017.”
@@ -272,7 +290,7 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 ## § 2448a. Program cost, fielding, and performance goals in planning major defense acquisition programs
 **(a) Program Cost and Fielding Targets.—**
 
-(1) Before funds are obligated for technology development, systems development, or production of a major defense acquisition program, the Secretary of Defense shall ensure, by establishing the goals described in paragraph (2), that the milestone decision authority for the major defense acquisition program approves a program that will—
+(1) Before funds are obligated for technology development, systems development, or production of a major defense acquisition program, the designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program will—
 
   (A) be affordable;
 
@@ -288,9 +306,7 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 
   (C) technology maturation, prototyping, and a modular open system approach to evolve system capabilities and improve interoperability.
 
-**(b) Delegation.—** The responsibilities of the Secretary of Defense in subsection (a) may be delegated only to the Deputy Secretary of Defense.
-
-**(c) Definitions.—** In this section:
+**(b) Definitions.—** In this section:
 
 (1) The term “procurement unit cost” has the meaning provided in [section 2432(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2432/a/2&num=0&edition=prelim).
 
@@ -298,11 +314,16 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 
 ### Statutory Notes
 
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232, § 831(a)(1), (2), in introductory provisions, substituted “designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program” for “Secretary of Defense shall ensure, by establishing the goals described in paragraph (2), that the milestone decision authority for the major defense acquisition program approves a program that”.
+
+Subsecs. (b), (c). Pub. L. 115–232, § 831(a)(3), (4), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The responsibilities of the Secretary of Defense in subsection (a) may be delegated only to the Deputy Secretary of Defense.”.
+
 #### Effective Date
 Pub. L. 114–328, div. A, title VIII, § 807(a)(2), Dec. 23, 2016, 130 Stat. 2261, provided that: “Subchapter III of chapter 144B of title 10, United States Code, as added by paragraph (1), shall apply with respect to major defense acquisition programs that reach Milestone A after October 1, 2017.”
 
 #### Program Cost and Field Targets
-Pub. L. 114–328, div. A, title IX, § 925(b), Dec. 23, 2016, 130 Stat. 2361, provided that: “The Secretary of Defense shall establish a process to develop program cost and fielding targets pursuant to [section 2448a of title 10](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2448a), United States Code, that— “(1) is co-chaired by the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff; “(2) is supported by—“(A) the Joint Staff, to provide expertise on joint military capabilities, capability gaps, and performance requirements; “(B) the Office of Cost Assessment and Program Evaluation, to provide expertise in resource allocation, operations research, systems analysis, and cost estimation; and “(C) other Department of Defense organizations determined appropriate by the Secretary; and “(3) ensures that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives and procurement quantity objectives.”
+Pub. L. 114–328, div. A, title IX, § 925(b), Dec. 23, 2016, 130 Stat. 2361, as amended by Pub. L. 115–232, div. A, title VIII, § 831(b)(4), Aug. 13, 2018, 132 Stat. 1857, provided that: “The Secretary of Defense shall establish a process to develop program cost and fielding targets pursuant to [section 2448a of title 10](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2448a), United States Code, that— “(1) is co-chaired by the designated milestone decision authority for the major defense acquisition program and the Vice Chief of Staff of the armed force concerned or, in the case of a program for which an alternate milestone decision authority is designated under section 2430(d)(2) of such title, the Vice Chairman of the Joint Chiefs of Staff; “(2) is supported by—“(A) the Joint Staff, to provide expertise on joint military capabilities, capability gaps, and performance requirements; “(B) the Office of Cost Assessment and Program Evaluation, to provide expertise in resource allocation, operations research, systems analysis, and cost estimation; and “(C) other Department of Defense organizations determined appropriate by the Secretary; and “(3) ensures that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives and procurement quantity objectives.”
 
 
 <a id="section-2448b"></a>

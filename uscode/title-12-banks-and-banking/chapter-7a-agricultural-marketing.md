@@ -2,7 +2,7 @@
 title: 12
 chapter: 7A
 heading: AGRICULTURAL MARKETING
-section_count: 12
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -48,214 +48,25 @@ Functions of Farm Credit Administration or any agency, officer, or entity of, un
 Section, act June 15, 1929, ch. 24, § 2, 46 Stat. 11; Ex. Ord. No. 6084, Mar. 27, 1943; act Oct. 15, 1949, ch. 695, § 6(a), 63 Stat. 881, related to appointment, compensation, qualifications, term of office, and expenses of the Governor of the Farm Credit Administration. See section 2244 et seq. of this title.
 
 
-<a id="section-1141b"></a>
-## § 1141b. General powers of Farm Credit Administration
-
-The Farm Credit Administration—
-
-(1) shall maintain its principal office within the Washington, D.C.-Maryland-Virginia standard metropolitan statistical area, and such other offices in the United States as in its judgment are necessary.
-
-(2) shall have an official seal which shall be judicially noticed.
-
-(3) shall make an annual report to Congress upon the administration of this chapter and any other matter relating to the better effectuation of the policy declared in [section 1141 of this title](./chapter-7a-agricultural-marketing.md#section-1141), including recommendations for legislation.
-
-(4) may make such regulations as are necessary to execute the functions vested in it by this chapter.
-
-(5) may appoint and fix the salaries of a secretary and such experts, and, in accordance with chapter 51 and subchapter III of chapter 53 of title 5, and subject to the provisions of the civil service laws, such other officers and employees as are necessary to execute such functions.
-
-(6) may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding) as are necessary to execute such functions. Expenditures by the administration shall be allowed and paid upon the presentation of itemized vouchers therefor approved by the governor of the administration.
-
-(7) may sell at public or private sale to the highest responsible bidder, upon such terms and after such public advertisement as the Farm Credit Administration may deem in the public interest, any property, real or personal, or any interest therein, acquired by the United States on account of or as a result of any loans made from the revolving fund authorized by [section 1141d of this title](./chapter-7a-agricultural-marketing.md#section-1141d); may lease any such property, pending its sale, on such terms and for such period, not in excess of five years, as the Farm Credit Administration may deem in the public interest; and may incur and pay, from the said revolving fund, obligations and expenses for the operation, upkeep, maintenance, repair, disposition, insurance, and protection of any such property: Provided, That [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) shall not be construed to apply to any purchase or service on account of such property.
+<a id="section-1141b-to-1141f"></a>
+## § 1141b to 1141f. Repealed. Pub. L. 115–334, title V, § 5411(52)–(56), (58), Dec. 20, 2018, 132 Stat. 4685
 
 ### Statutory Notes
 
-#### Codification
-In par. (5), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees.
+Section 1141b, act June 15, 1929, ch. 24, § 4, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, § 37, 50 Stat. 717; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 96–592, title V, § 510, Dec. 24, 1980, 94 Stat. 3451, set out general powers of the Farm Credit Administration.
 
-In par. (7), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+Section 1141c, act June 15, 1929, ch. 24, § 5, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 50(a), 48 Stat. 265, set out special powers of the Farm Credit Administration.
 
-Section was formerly classified to [section 524 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section524&num=0&edition=prelim), Agriculture.
+Section 1141d, act June 15, 1929, ch. 24, § 6, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title III, §§ 33, 34, title IV, §§ 40, 41, 48 Stat. 262, 264; Aug. 19, 1937, ch. 704, § 38, 50 Stat. 718; Pub. L. 87–494, June 25, 1962, 76 Stat. 109, established and authorized an appropriation for a revolving fund.
 
-#### Amendments
-1980—Par. (1). Pub. L. 96–592 substituted provisions requiring the principal office to be within the Washington, D.C.–Maryland–Virginia standard metropolitan statistical area for provisions requiring the principal office to be in the District of Columbia.
+Section 1141d–1, act June 22, 1939, ch. 239, 53 Stat. 853, related to limits on interest rates charged on loans made from the revolving fund.
 
-1949—Act Oct. 28, 1949, substituted the “Classification Act of 1949” for the “Classification Act of 1923”.
+Section 1141e, act June 15, 1929, ch. 24, § 7, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §§ 50–53, 48 Stat. 265; June 3, 1935, ch. 164, §§ 9, 10, 49 Stat. 316, related to loans made to cooperative associations.
 
-1937—Par. (7). Act Aug. 19, 1937, added par. (7).
-
-#### Change of Name
-“Farm Credit Administration” and “administration” substituted in text for “board” and “governor” substituted for “chairman” pursuant to Ex. Ord. No. 6084, set out preceding [section 2241 of this title](./chapter-023-farm-credit-system.md#section-2241).
-
-#### Repeals
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
-
-#### Repeal of Authority
-Repeal of authority of the Farm Credit Administration to make emergency crop production, feed, seed, drought, and rehabilitation loans on Aug. 14, 1946, see note set out under sections 1001 to 1005d of Title 7, Agriculture.
-
-#### Separability
-Act Aug. 19, 1937, ch. 704, § 40, 50 Stat. 718, provided as follows: “Sec. 40. (a) If any provision of this Act, or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby. “(b) The right to alter, amend, or repeal this Act is hereby expressly reserved.”
-
-#### Termination of Reporting Requirements
-For termination, effective May 15, 2000, of reporting provisions in par. (3) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 166 of House Document No. 103–7.
-
-#### Transfer of Functions
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
-
-#### Exceptions From Transfer of Functions
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-
-<a id="section-1141c"></a>
-## § 1141c. Special powers of administration
-
-The administration is authorized and directed—
-
-(1) to promote education in the principles and practices of cooperative marketing of agricultural commodities and food products thereof.
-
-(2) to encourage the organization, improvement in methods, and development of effective cooperative associations.
-
-(3) to keep advised from any available sources and make reports as to crop prices, experiences, prospects, supply, and demand, at home and abroad.
-
-### Statutory Notes
+Section 1141f, act June 15, 1929, ch. 24, § 8, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 54, 48 Stat. 266; June 3, 1935, ch. 164, § 11, 49 Stat. 316; Aug. 19, 1937, ch. 704, § 5(a), 50 Stat. 704; Aug. 11, 1955, ch. 785, title I, § 109, 69 Stat. 662; Pub. L. 89–525, § 4(b), Aug. 2, 1966, 80 Stat. 334, set out miscellaneous loan provisions.
 
 #### Codification
-Section was formerly classified to [section 525 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section525&num=0&edition=prelim), Agriculture.
-
-#### Amendments
-1933—Act June 16, 1933, repealed pars. (4) and (5) relating to powers of the Farm Board to investigate overproduction and to miscellaneous investigations by the Farm Board.
-
-#### Change of Name
-“Administration” substituted in text for “board” pursuant to Ex. Ord. No. 6084, set out preceding [section 2241 of this title](./chapter-023-farm-credit-system.md#section-2241).
-
-#### Transfer of Functions
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
-
-#### Exceptions From Transfer of Functions
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-
-<a id="section-1141d"></a>
-## § 1141d. Revolving fund
-
-There is authorized to be appropriated the sum of $500,000,000 which shall be made available by the Congress as soon as practicable after the approval of this chapter and shall constitute a revolving fund to be administered by the administration as provided in this chapter. Any and all funds derived from the sale, lease, operation, or other disposition of any property, real or personal, acquired by the United States on account of or as a result of any loan made pursuant to the provisions of this chapter, shall be covered into and become a part of said revolving fund. Effective June 25, 1962, the sum authorized to be appropriated for the aforesaid revolving fund is reduced from $500,000,000 to $150,000,000 and any amount in said fund in excess of $150,000,000 (including any amount thereof used to purchase capital stock in the central and regional banks for cooperatives) shall be credited to miscellaneous receipts of the Treasury.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 526 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section526&num=0&edition=prelim), Agriculture.
-
-#### Amendments
-1962—Pub. L. 87–494 reduced sum authorized to be appropriated to $150,000,000.
-
-1937—Act Aug. 19, 1937, inserted second sentence.
-
-1933—Act June 16, 1933, amended provision pertaining to administration of the fund.
-
-#### Change of Name
-“Administration” substituted in text for “board” pursuant to Ex. Ord. No. 6084, set out preceding [section 2241 of this title](./chapter-023-farm-credit-system.md#section-2241).
-
-#### Transfer of Functions
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
-
-#### Exceptions From Transfer of Functions
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-
-<a id="section-1141d-1"></a>
-## § 1141d–1. Interest rates on loans made from revolving fund
-
-Interest rates in excess of the rates set forth in notes or other obligations taken by the Federal Farm Board or the Farm Credit Administration for loans made from the revolving fund authorized by [section 1141d of this title](./chapter-7a-agricultural-marketing.md#section-1141d) shall not be charged or collected on any of said loans, whether such loans have been heretofore or are hereafter paid in whole or in part, except that in those cases where a borrower by specific contract has agreed to pay a higher rate of interest, the contract rate shall be charged for the period agreed upon; and the amount of any interest collected in excess of the rates thus set forth or contracted for shall be refunded out of said fund or credited on the borrower’s indebtedness.
-
-### Statutory Notes
-
-#### Codification
-Section was not enacted as part of the Agricultural Marketing Act which comprises this chapter.
-
-#### Change of Name
-Federal Farm Board changed in 1933 to Farm Credit Administration by Ex. Ord. No. 6084, set out preceding [section 2241 of this title](./chapter-023-farm-credit-system.md#section-2241).
-
-#### Transfer of Functions
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
-
-#### Exceptions From Transfer of Functions
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-
-<a id="section-1141e"></a>
-## § 1141e. Loans to cooperative associations
-**(a)** Upon application by any cooperative association the administration is authorized to make loans to it from the revolving fund to assist in—
-
-(1) the effective merchandising of agricultural commodities and food products thereof and the financing of its operations;
-
-(2) the construction or acquisition by purchase or lease, or refinancing the cost of such construction or acquisition, of physical facilities.
-
-**(b)** No loan shall be made to any cooperative association unless, in the judgment of the administration, the loan is in furtherance of the policy declared in [section 1141 of this title](./chapter-7a-agricultural-marketing.md#section-1141), and the cooperative association applying for the loan has an organization and management, and business policies, of such character as to insure the reasonable safety of the loan and the furtherance of such policy.
-
-**(c)** Loans for the construction or acquisition by purchase or lease of physical facilities, or for refinancing the cost of such construction or acquistion,11 So in original. Probably should be “acquisition,”. shall be subject to the following conditions:
-
-(1) No loan shall be made in an amount in excess of 60 per centum of the appraised value of the security therefor.
-
-(2) No loan for the purchase or lease of such facilities shall be made unless the Governor of the Farm Credit Administration finds that the purchase price or rent to be paid is reasonable.
-
-**(d)** Loans for the construction or purchase of physical facilities, together with interest on the loans, shall be repaid upon an amortization plan over a period not in excess of twenty years.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 527 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section527&num=0&edition=prelim), Agriculture.
-
-#### Amendments
-1935—Subsecs. (a)(2), (c)(1). Act June 3, 1935, amended subsecs. (a)(2) and (c)(1).
-
-1933—Act June 16, 1933, repealed provisions authorizing loans to form clearing house associations; for education of producers in advantages of cooperative marketing; and to enable cooperatives to advance a greater share of the market price of commodities than was practicable under other credit facilities.
-
-#### Change of Name
-“Administration” substituted in text for “board” pursuant to Ex. Ord. No. 6084, set out preceding [section 2241 of this title](./chapter-023-farm-credit-system.md#section-2241).
-
-#### Transfer of Functions
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
-
-#### Exceptions From Transfer of Functions
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-
-<a id="section-1141f"></a>
-## § 1141f. Miscellaneous loan provisions
-**(a)** Repealed. Pub. L. 89–525, § 4(b), Aug. 2, 1966, 80 Stat. 334.
-
-**(b)** Payments of principal or interest upon any such loan or advance shall be covered into the revolving fund.
-
-**(c)** Loans to any cooperative association or stabilization corporation shall be made upon the terms specified in this chapter and upon such other terms not inconsistent therewith and upon such security as the administration deems necessary.
-
-**(d)** No loan or insurance agreement shall be made by the administration if in its judgment the agreement is likely to increase unduly the production of any agricultural commodity of which there is commonly produced a surplus in excess of the annual marketing requirements.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 528 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section528&num=0&edition=prelim), Agriculture.
-
-#### Amendments
-1966—Subsec. (a). Pub. L. 89–525 repealed subsec. (a) which provided that loans to cooperative associations made by any bank for cooperatives shall bear such rates of interest as the board of directors of the bank shall from time to time determine with the approval of the Farm Credit Administration, but in no case shall the rate of interest exceed 6 per centum per annum on the unpaid principal of a loan. See [section 2122 of this title](./chapter-023-farm-credit-system.md#section-2122).
-
-1955—Subsec. (a). Act Aug. 11, 1955, provided that boards of directors for banks would prescribe interest rates on loans in place of requirements relating interest rates on loans made by banks for cooperatives to interest rates charged by Federal intermediate credit banks and Federal land banks.
-
-1937—Subsec. (a). Act Aug. 19, 1937, substituted “farm credit district” for “land bank district”.
-
-1935—Subsec. (a). Act June 3, 1935, among other changes, inserted proviso.
-
-1933—Subsec. (a). Act June 16, 1933, among other changes, modified interest rates.
-
-#### Change of Name
-“Administration” substituted in text for “board” pursuant to Ex. Ord. No. 6084, set out preceding [section 2241 of this title](./chapter-023-farm-credit-system.md#section-2241).
-
-#### Effective Date of 1955 Amendment
-Amendment by act Aug. 11, 1955, effective on first day of month next following 120 days after Aug. 11, 1955, see section 112 of act Aug. 11, 1955, set out as a note under [section 1138f of this title](./chapter-007-farm-credit-administration.md#section-1138f).
-
-#### Transfer of Functions
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
-
-#### Exceptions From Transfer of Functions
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2, of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 1141b to 1141d, 1141e, and 1141f were formerly classified to sections 524 to 526, 527, and 528, respectively, of Title 7, Agriculture.
 
 
 <a id="section-1141g"></a>
@@ -295,31 +106,14 @@ Functions of Farm Credit Administration or any agency, officer, or entity of, un
 
 
 <a id="section-1141i"></a>
-## § 1141i. Examination of books and accounts
-
-Vouchers approved by the Governor of the Farm Credit Administration for expenditures from the revolving fund pursuant to any loan or advance or from insurance moneys pursuant to any insurance agreement, shall be final and conclusive upon all officers of the Government; except that all financial transactions of the administration shall, subject to the above limitations, be examined by the Government Accountability Office at such times and in such manner as the Comptroller General of the United States may by regulation prescribe.
+## § 1141i. Repealed. Pub. L. 115–334, title V, § 5411(57), Dec. 20, 2018, 132 Stat. 4685
 
 ### Statutory Notes
 
+Section, act June 15, 1929, ch. 24, § 14, 46 Stat. 18; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 30, 1954, ch. 1076, § 1(30), 68 Stat. 968; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, related to finality of certain vouchers approved for expenditures and examination of financial transactions.
+
 #### Codification
 Section was formerly classified to [section 534 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section534&num=0&edition=prelim), Agriculture.
-
-#### Amendments
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
-
-1954—Act Aug. 30, 1954, repealed former second sentence which required the Comptroller General to make reports to Congress on examinations of Farm Credit Administration transactions under the agricultural marketing revolving fund, in violation of law, together with his recommendations. See chapter 91 of Title 31, Money and Finance.
-
-#### Change of Name
-“Governor of the Farm Credit Administration” and “administration” substituted in text for “chairman of the board” and “board”, respectively, pursuant to Ex. Ord. No. 6084, set out preceding [section 2241 of this title](./chapter-023-farm-credit-system.md#section-2241).
-
-#### Transfer of Functions
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
-
-#### Exceptions From Transfer of Functions
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Insurance Agreements
-Insurance agreements, referred to in the text, were authorized to be made by section 11 of act June 15, 1929, which section was repealed by act June 16, 1933, ch. 98, title V, § 50(a), 48 Stat. 265. Section 11 authorized the former Federal Farm Board, upon application of cooperative associations, to enter into agreements subject to specified conditions, for the insurance of the associations against loss through price decline in the agricultural commodity handled by the associations and produced by the members thereof.
 
 
 <a id="section-1141j"></a>

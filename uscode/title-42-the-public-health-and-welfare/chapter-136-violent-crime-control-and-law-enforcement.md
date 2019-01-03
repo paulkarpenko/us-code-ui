@@ -2,7 +2,7 @@
 title: 42
 chapter: '136'
 heading: VIOLENT CRIME CONTROL AND LAW ENFORCEMENT
-section_count: 236
+section_count: 235
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -291,7 +291,7 @@ Section 13758, Pub. L. 103–322, title III, § 30208, Sept. 13, 1994, 108 Stat.
 Pub. L. 109–162, title XI, § 1199, Jan. 5, 2006, 119 Stat. 3132, which authorized the Attorney General to make up to 5 grants for the purpose of carrying out Youth Violence Demonstration Projects, was editorially reclassified and is set out as a note under [section 11313 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11313&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### National Police Athletic/Activities League Youth Enrichment
-Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–248, title VI, §§ 612–617, July 27, 2006, 120 Stat. 632, 633, known as the National Police Athletic/Activivies League Youth Enrichment Act of 2000, which authorized the Assistant Attorney General for the Office of Justice Programs of the Department of Justice to award grants to the Police Athletic/Activities League, was editorially reclassified and is set out as a note under [section 11313 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11313&num=0&edition=prelim), Crime Control and Law Enforcement.
+Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–248, title VI, §§ 612–617, July 27, 2006, 120 Stat. 632, 633, known as the National Police Athletic/Activities League Youth Enrichment Act of 2000, which authorized the Assistant Attorney General for the Office of Justice Programs of the Department of Justice to award grants to the Police Athletic/Activities League, was editorially reclassified and is set out as a note under [section 11313 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11313&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Kids 2000 Crime Prevention and Computer Education Initiative
 Pub. L. 106–313, title I, § 112, Oct. 17, 2000, 114 Stat. 1260, known as the Kids 2000 Act, which authorized the Attorney General to make grants to the Boys and Girls Clubs of America for the purpose of funding effective after-school technology programs, was editorially reclassified and is set out as a note under [section 11313 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11313&num=0&edition=prelim), Crime Control and Law Enforcement.
@@ -2059,33 +2059,6 @@ Section 14181 was editorially reclassified as [section 12621 of Title 34](https:
 
 #### Codification
 Section, Pub. L. 103–322, title XXVII, § 270001, Sept. 13, 1994, 108 Stat. 2089, which related to Presidential summit on violence in America, was omitted as obsolete.
-
-
-<a id="section-14191-to-14199"></a>
-## § 14191 to 14199. Omitted
-
-### Statutory Notes
-
-#### Codification
-Sections 14191 to 14199 were omitted as obsolete.
-
-Section 14191, Pub. L. 103–322, title XXVII, § 270001, Sept. 13, 1994, 108 Stat. 2089, related to Presidential summit on violence in America.
-
-Section 14192, Pub. L. 103–322, title XXVII, § 270002, Sept. 13, 1994, 108 Stat. 2089, related to the National Commission on Crime Control and Prevention.
-
-Section 14193, Pub. L. 103–322, title XXVII, § 270003, Sept. 13, 1994, 108 Stat. 2091, related to purposes of the Commission.
-
-Section 14194, Pub. L. 103–322, title XXVII, § 270004, Sept. 13, 1994, 108 Stat. 2092, related to responsibilities of the Commission.
-
-Section 14195, Pub. L. 103–322, title XXVII, § 270005, Sept. 13, 1994, 108 Stat. 2094, related to chair, pay and benefits of members, vacancy of members, and meetings of the Commission.
-
-Section 14196, Pub. L. 103–322, title XXVII, § 270006, Sept. 13, 1994, 108 Stat. 2094, related to Commission staff and support services.
-
-Section 14197, Pub. L. 103–322, title XXVII, § 270007, Sept. 13, 1994, 108 Stat. 2095, related to powers of the Commission.
-
-Section 14198, Pub. L. 103–322, title XXVII, § 270008, Sept. 13, 1994, 108 Stat. 2095, related to report to Congress and the President and termination of the Commission.
-
-Section 14199, Pub. L. 103–322, title XXVII, § 270009, Sept. 13, 1994, 108 Stat. 2095, authorized appropriations for fiscal year 1996.
 
 
 <a id="section-14192"></a>

@@ -2,7 +2,7 @@
 title: 43
 chapter: '44'
 heading: OREGON AND CALIFORNIA RAILROAD AND COOS BAY WAGON ROAD GRANT LANDS
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -44,7 +44,7 @@ The Secretary of the Interior is authorized, in his discretion, to lease for gra
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 28, 1937, ch. 876,50 Stat. 874, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 1181d of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181d) prior to editorial reclassification and renumbering as this section.
@@ -58,7 +58,7 @@ The Secretary of the Interior is authorized to perform any and all acts and to m
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 28, 1937, ch. 876,50 Stat. 874, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 1181e of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181e) prior to editorial reclassification and renumbering as this section.
@@ -93,6 +93,33 @@ Section comprises all of title II of act Aug. 28, 1937, except the last par. whi
 1976—Subsec. (b). Pub. L. 94–273 substituted “September” for “June”.
 
 1954—Subsec. (a). Act June 24, 1954, inserted proviso relating to determination of assessment.
+
+
+<a id="section-2606"></a>
+## § 2606. Oregon and California Railroad revested lands and Coos Bay Wagon Road reconveyed lands
+**(a) In general** Notwithstanding any other provision of law, with respect to the Oregon and California Railroad grant land revested in the United States by the Act of June 9, 1916 (39 Stat. 218, chapter 137), and the Coos Bay Wagon Road grant land reconveyed to the United States by the first section of the Act of February 26, 1919 (40 Stat. 1179, chapter 47), that is managed under the Act of August 28, 1937 ([43 U.S.C. 2601](./chapter-044-oregon-and-california-railroad-and-coos-bay-wagon-road-grant-lands.md#section-2601) et seq.), the Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall not be required to engage in consultation under any law (including section 7 of Public Law 93–205 ([16 U.S.C. 1536](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1536&num=0&edition=prelim)) and section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)), with respect to—
+
+(1) the listing of a species as threatened or endangered, or a designation of critical habitat, pursuant to Public Law 93–205 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), if a land use plan has been adopted by the Secretary of the Interior as of the date of listing or designation; and
+
+(2) any provision of a land use plan adopted as described in paragraph (1).
+
+**(b) Effect of section** Nothing in this section affects any applicable requirement of the Secretary of the Interior to consult with the head of any other Federal department or agency—
+
+(1) regarding a project carried out, or proposed to be carried out, pursuant to Public Law 93–205 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), including any requirement to consult regarding the consideration of the cumulative impacts of completed, ongoing, and planned projects; or
+
+(2) with respect to the development of a new land use plan or the revision of or other significant change to an existing land use plan.
+
+### Statutory Notes
+
+#### References in Text
+Acts of June 9, 1916, and February 26, 1919, referred to in subsec. (a), are acts June 9, 1916, ch. 137, 39 Stat. 218, and Feb. 26, 1919, ch. 47, 40 Stat. 1179, respectively, which are not classified to the Code.
+
+The Act of August 28, 1937, referred to in subsec. (a), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Tables.
+
+Public Law 93–205, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Act of August 28, 1937, which comprises this subchapter.
 
 
 <a id="section-2621"></a>

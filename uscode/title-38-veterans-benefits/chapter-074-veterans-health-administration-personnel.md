@@ -2,7 +2,7 @@
 title: 38
 chapter: '74'
 heading: VETERANS HEALTH ADMINISTRATION—PERSONNEL
-section_count: 39
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -71,7 +71,7 @@ Pub. L. 115–46, title II, § 207, Aug. 12, 2017, 131 Stat. 964, provided that:
 Pub. L. 115–46, title II, § 209, Aug. 12, 2017, 131 Stat. 965, provided that: “(a) In General.—The Secretary of Veterans Affairs shall provide to human resources professionals of the Veterans Health Administration training on how to best recruit and retain employees of the Veterans Health Administration, including with respect to any recruitment and retention matters that are unique to the Veterans Health Administration pursuant to chapter 74 of title 38, United States Code, or other provisions of law. “(b) Virtual Training.—Training provided under this section shall be provided virtually. “(c) Amount of Training.—The Secretary shall ensure that each human resources professional of the Veterans Health Administration receives the training described in subsection (a)—“(1) as soon as practicable after being hired by the Secretary as a human resources professional; and “(2) annually thereafter. “(d) Certification.—The Secretary shall require that each human resources professional of the Veterans Health Administration, upon the completion of the training described in subsection (a), certifies that the professional received the training and understands the information provided by the training. “(e) Annual Report.—Not less frequently than annually, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the training described in subsection (a), including the cost of providing such training and the number of human resources professionals who received such training during the year covered by the report.”
 
 #### Plan To Hire Directors of Medical Centers of Department of Veterans Affairs
-Pub. L. 115–46, title II, § 210, Aug. 12, 2017, 131 Stat. 965, provided that: “(a) Plan.—Not later than 120 days after the date of the enactment of this Act [Aug. 12, 2017], the Secretary of Veterans Affairs shall develop and implement a plan to hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan. “(b) Priority.—The Secretary shall prioritize under the plan developed under subsection (a) the hiring of directors for medical centers that have not had a permanent director for the longest periods. “(c) Matters Included.—The plan developed under subsection (a) shall include the following:“(1) A deadline to hire directors of medical centers of the Department as described in such subsection. “(2) Identification of the possible impediments to such hiring. “(3) Identification of opportunities to promote and train candidates from within the Department to senior executive positions in the Department, including as directors of medical centers. “(d) Submittal of Plan.—Not later than 120 days after the date of the enactment of this Act [Aug. 12, 2017], the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives the plan developed under subsection (a). “(e) Semiannual Reports.—Not later than 180 days after the date of the enactment of this Act, and not later than 180 days thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing a list of each medical center of the Department that lacks a permanent director as of the date of the report.”
+Pub. L. 115–46, title II, § 210, Aug. 12, 2017, 131 Stat. 965, provided that: “(a) Plan.—Not later than 120 days after the date of the enactment of this Act [Aug. 12, 2017], the Secretary of Veterans Affairs shall develop and implement a plan to hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan. “(b) Priority.—The Secretary shall prioritize under the plan developed under subsection (a) the hiring of directors for medical centers that have not had a permanent director for the longest periods. “(c) Matters Included.—The plan developed under subsection (a) shall include the following:“(1) A deadline to hire directors of medical centers of the Department as described in such subsection. “(2) Identification of the possible impediments to such hiring. “(3) Identification of opportunities to promote and train candidates from within the Department to senior executive positions in the Department, including as directors of medical centers. “(d) Submittal of Plan.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives the plan developed under subsection (a). “(e) Semiannual Reports.—Not later than 180 days after the date of the enactment of this Act, and not later than 180 days thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing a list of each medical center of the Department that lacks a permanent director as of the date of the report.”
 
 #### Licensed Hearing Aid Specialists Appointment and Services
 Pub. L. 114–256, § 4(b), (c), Dec. 14, 2016, 130 Stat. 1347, 1348, provided that: “(b) Requirements.—With respect to appointing hearing aid specialists under sections 7401 and 7402 of title 38, United States Code, as amended by subsection (a), and providing services furnished by such specialists, the Secretary [of Veterans Affairs] shall ensure that—“(1) a hearing aid specialist may only perform hearing services consistent with the hearing aid specialist’s State license related to the practice of fitting and dispensing hearing aids without excluding other qualified professionals, including audiologists, from rendering services in overlapping practice areas; “(2) services provided to veterans by hearing aid specialists shall be provided as part of the non-medical treatment plan developed by an audiologist; and “(3) the medical facilities of the Department of Veterans Affairs provide to veterans access to the full range of professional services provided by an audiologist. “(c) Consultation.—In determining the qualifications required for hearing aid specialists and in carrying out subsection (b), the Secretary shall consult with veterans service organizations, audiologists, otolaryngologists, hearing aid specialists, and other stakeholder and industry groups as the Secretary determines appropriate.”
@@ -395,8 +395,8 @@ Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day per
   (C) Notwithstanding the provisions of subsection (d) of [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
 
 **(b)** The grades for positions provided for in paragraph (1) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
-physician and dentist schedule
-Physician grade.
+physician and surgeon (md/do), podiatric surgeon (dpm), and dentist and oral surgeon (dds, dmd) schedule
+Physician and surgeon grade.
 Dentist grade.
 nurse schedule
 Nurse V.
@@ -404,7 +404,7 @@ Nurse IV.
 Nurse III.
 Nurse II.
 Nurse I.
-clinical podiatrist, chiropractor, and optometrist schedule
+clinical chiropractor and optometrist schedule
 Chief grade.
 Senior grade.
 Intermediate grade.
@@ -424,10 +424,15 @@ Level III of the Executive Schedule, referred to in subsec. (a)(3)(B)(i), is set
 
 Level II of the Executive Schedule, referred to in subsec. (a)(3)(B)(ii), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
+#### Codification
+Pub. L. 115–182, title V, § 502(b)(1), June 6, 2018, 132 Stat. 1475, which directed amendment of “section 7404(b) of such title” without specifying the Code title to be amended, was executed to this section, which is [section 7404 of Title 38](./chapter-074-veterans-health-administration-personnel.md#section-7404), Veterans’ Benefits, to reflect the probable intent of Congress. See 2018 Amendment note below.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in section 4107(a)–(d) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–182 substituted “physician and surgeon (md/do), podiatric surgeon (dpm), and dentist and oral surgeon (dds, dmd) schedule” for “physician and dentist schedule” as first heading in table and “Physician and surgeon grade” for “Physician grade” as first item under that heading and substituted “chiropractor, and” for “podiatrist, chiropractor, and” in third heading in table. See Codification note above.
+
 2017—Subsec. (a)(1). Pub. L. 115–41 designated existing provisions as subpar. (A), inserted “and 7401(4)” after “section 7306”, and added subpar. (B).
 
 2010—Subsec. (a). Pub. L. 111–163 designated first sentence as par. (1) and second sentence as par. (2), substituted “under paragraph (1)” for “under the preceding sentence” in par. (2), and added par. (3).
@@ -464,6 +469,9 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–585, title III, § 308, Nov. 4, 1992, 106 Stat. 4953, provided that: “The amendments made by sections 301, 302, 303, and 304 [amending this section and sections 7451 and 7452 of this title] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act [Nov. 4, 1992].”
+
+#### Application
+Pub. L. 115–182, title V, § 502(b)(2), June 6, 2018, 132 Stat. 1475, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to a pay period of the Department of Veterans Affairs beginning on or after the date that is 30 days after the date of the enactment of this Act [June 6, 2018].”
 
 #### Adjustment of Pay Rates
 For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
@@ -789,6 +797,18 @@ Pub. L. 102–40, title I, § 103(b), May 7, 1991, 105 Stat. 199, provided that:
 
 #### Deadline for First Determination
 Pub. L. 113–146, title III, § 301(a)(3), Aug. 7, 2014, 128 Stat. 1784, provided that: “Notwithstanding the deadline under [section 7412 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7412), United States Code, as added by paragraph (1), for the annual determination of staffing shortages in the Veterans Health Administration, the Inspector General of the Department of Veterans Affairs shall make the first determination required under such section, and the Secretary of Veterans Affairs shall publish in the Federal Register such determination, by not later than the date that is 180 days after the date of the enactment of this Act [Aug. 7, 2014].”
+
+
+<a id="section-7413"></a>
+## § 7413. Treatment of podiatrists; clinical oversight standards
+**(a) Podiatrists.—** Except as provided by subsection (b), a doctor of podiatric medicine who is appointed as a podiatrist under [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim) is eligible for any supervisory position in the Veterans Health Administration to the same degree that a physician appointed under such section is eligible for the position.
+
+**(b) Establishment of Clinical Oversight Standards.—** The Secretary, in consultation with appropriate stakeholders, shall establish standards to ensure that specialists appointed in the Veterans Health Administration to supervisory positions do not provide direct clinical oversight for purposes of peer review or practice evaluation for providers of other clinical specialties.
+
+### Statutory Notes
+
+#### Codification
+Section 502(a)(1) of Pub. L. 115–182, which directed that this section be added at the end of subchapter I of chapter 74, without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
 
 <a id="section-7421"></a>
@@ -2174,7 +2194,7 @@ Disciplinary Appeals Boards shall not have jurisdiction to review such matters, 
 
   (A) written notice stating the specific reason for the proposed action, and
 
-  (B) time to answer to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
+  (B) time to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
 
 (3)
 
@@ -2200,6 +2220,8 @@ Disciplinary Appeals Boards shall not have jurisdiction to review such matters, 
 Provisions similar to those in this subchapter were contained in [section 4110 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4110) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2018—Subsec. (c)(2)(B). Pub. L. 115–407 substituted “to answer” for “to answer to answer”.
+
 2017—Subsec. (c)(1). Pub. L. 115–41, § 208(c)(1), substituted “notice and an opportunity to answer with respect to those charges in accordance with subparagraphs (A) and (B) of [section 7462(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7462/b/1&num=0&edition=prelim), but within the time periods specified in paragraph (3)” for “the same notice and opportunity to answer with respect to those charges as provided in subparagraphs (A) and (B) of [section 7462(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7462/b/1&num=0&edition=prelim)”.
 
 Subsec. (c)(2). Pub. L. 115–41, § 208(c)(2)(A), in introductory provisions, inserted “, within the aggregate time period specified in paragraph (3)(A),” after “is entitled”.

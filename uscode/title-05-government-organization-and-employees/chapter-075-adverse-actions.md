@@ -2,7 +2,7 @@
 title: 5
 chapter: '75'
 heading: ADVERSE ACTIONS
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -67,6 +67,9 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Effective Date
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
+#### Information on Appeal Rights
+Pub. L. 115–91, div. A, title X, § 1097(b)(2), Dec. 12, 2017, 131 Stat. 1617, provided that: “(A) In general.—Any notice provided to an employee under section 7503(b)(1), section 7513(b)(1), or [section 7543(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7543/b/1&num=0&edition=prelim), United States Code, shall include detailed information with respect to—“(i) the right of the employee to appeal an action brought under the applicable section; “(ii) the forums in which the employee may file an appeal described in clause (i); and “(iii) any limitations on the rights of the employee that would apply because of the forum in which the employee decides to file an appeal. “(B) Development of information.—The information described in subparagraph (A) shall be developed by the Director of the Office of Personnel Management, in consultation with the Special Counsel, the Merit Systems Protection Board, and the Equal Employment Opportunity Commission.”
 
 
 <a id="section-7504"></a>
@@ -292,6 +295,66 @@ The Office of Personnel Management may prescribe regulations to carry out the pu
 
 #### Effective Date
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
+
+<a id="section-7515"></a>
+## § 7515. Discipline of supervisors based on retaliation against whistleblowers
+**(a) Definitions.—** In this section—
+
+(1) the term “agency”—
+
+  (A) has the meaning given the term in section 2302(a)(2)(C), without regard to whether any other provision of this chapter is applicable to the entity; and
+
+  (B) does not include any entity that is an element of the intelligence community, as defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim));
+
+(2) the term “prohibited personnel action” means taking or failing to take an action in violation of paragraph (8), (9), or (14) of section 2302(b) against an employee of an agency; and
+
+(3) the term “supervisor” means an employee who would be a supervisor, as defined in section 7103(a), if the entity employing the employee was an agency.
+
+**(b) Proposed Disciplinary Actions.—**
+
+(1) **In general.—** — Subject to section 1214(f), if the head of the agency in which a supervisor is employed, an administrative law judge, the Merit Systems Protection Board, the Special Counsel, a judge of the United States, or the Inspector General of the agency in which a supervisor is employed has determined that the supervisor committed a prohibited personnel action, the head of the agency in which the supervisor is employed, consistent with the procedures required under paragraph (2)—
+
+  (A) for the first prohibited personnel action committed by the supervisor—
+
+    (i) shall propose suspending the supervisor for a period that is not less than 3 days; and
+
+    (ii) may propose an additional action determined appropriate by the head of the agency, including a reduction in grade or pay; and
+
+  (B) for the second prohibited personnel action committed by the supervisor, shall propose removing the supervisor.
+
+(2) **Procedures.—**
+
+  (A) *Notice.—* — A supervisor against whom an action is proposed to be taken under paragraph (1) is entitled to written notice that—
+
+    (i) states the specific reasons for the proposed action; and
+
+    (ii) informs the supervisor about the right of the supervisor to review the material that is relied on to support the reasons given in the notice for the proposed action.
+
+  (B) *Answer and evidence.—*
+
+    (i) *In general.—* — A supervisor who receives notice under subparagraph (A) may, not later than 14 days after the date on which the supervisor receives the notice, submit an answer and furnish evidence in support of that answer.
+
+    (ii) *No evidence furnished; insufficient evidence furnished.—* — If, after the end of the 14-day period described in clause (i), a supervisor does not furnish any evidence as described in that clause, or if the head of the agency in which the supervisor is employed determines that the evidence furnished by the supervisor is insufficient, the head of the agency shall carry out the action proposed under subparagraph (A) or (B) of paragraph (1), as applicable.
+
+  (C) *Scope of procedures.—* — An action carried out under this section—
+
+    (i) except as provided in clause (ii), shall be subject to the same requirements and procedures, including those with respect to an appeal, as an action under section 7503, 7513, or 7543; and
+
+    (ii) shall not be subject to—
+
+      (I) paragraphs (1) and (2) of section 7503(b);
+
+      (II) paragraphs (1) and (2) of subsection (b) and subsection (c) of section 7513; and
+
+      (III) paragraphs (1) and (2) of subsection (b) and subsection (c) of section 7543.
+
+(3) **Non-delegation.—** — If the head of an agency is responsible for determining whether a supervisor has committed a prohibited personnel action for purposes of paragraph (1), the head of the agency may not delegate that responsibility.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 7515, Pub. L. 115–73, title I, § 104(a), Oct. 26, 2017, 131 Stat. 1236, related to discipline of supervisors based on retaliation against whistleblowers, prior to repeal by Pub. L. 115–91, div. A, title X, § 1097(e)(1)(A), Dec. 12, 2017, 131 Stat. 1621.
 
 
 <a id="section-7521"></a>

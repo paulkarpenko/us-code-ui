@@ -63,12 +63,15 @@ Grant by Secretary of the Interior of oil, gas, and other mineral leases on subm
 <a id="section-353"></a>
 ## § 353. Sale of lands unaffected; reservation of mineral rights; sale subject to prior lease; naval petroleum reserves unaffected
 
-Nothing herein contained shall be deemed or construed to (a) amend, modify, or change any existing law authorizing or requiring the sale of acquired lands, or (b) empower any commission, bureau, or agency of the Government to make a reservation of the minerals in the sale of any acquired land: Provided, That any such sale or conveyance of lands shall be made by the agency having jurisdiction thereof, subject to any lease theretofore made, covering the mineral deposits underlying such lands: Provided further, That nothing in this chapter is intended, or shall be construed to affect in any manner any provision of chapter 641 of title 10.
+Nothing herein contained shall be deemed or construed to (a) amend, modify, or change any existing law authorizing or requiring the sale of acquired lands, or (b) empower any commission, bureau, or agency of the Government to make a reservation of the minerals in the sale of any acquired land: Provided, That any such sale or conveyance of lands shall be made by the agency having jurisdiction thereof, subject to any lease theretofore made, covering the mineral deposits underlying such lands: Provided further, That nothing in this chapter is intended, or shall be construed to affect in any manner any provision of chapter 869 of title 10.
 
 ### Statutory Notes
 
-#### Codification
-“Chapter 641 of title 10” substituted in text for “the Act of June 30, 1938 (32 Stat. 1252), amending the Act of June 4, 1920 (41 Stat. 813)”, which had been classified to section 524 of former Title 34, Navy, on authority of act Aug. 10, 1956, ch. 1041, § 49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.
+#### Amendments
+2018—Pub. L. 115–232 substituted “chapter 869 of title 10” for “the Act of June 30, 1938 (32 Stat. 1252), amending the Act of June 4, 1920 (41 Stat. 813)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-354"></a>

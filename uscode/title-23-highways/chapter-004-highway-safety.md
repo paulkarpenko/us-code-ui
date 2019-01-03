@@ -369,11 +369,7 @@ Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, A
 
       (II) State graduated driving license requirements, including behind-the-wheel training required to meet those requirements.
 
-**(n) Biennial Report to Congress.—** Not later than October 1, 2015, and biennially thereafter, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that contains—
-
-(1) an evaluation of each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans; and
-
-(2) such recommendations as the Secretary may have for improvements to activities carried out under subsection (k).
+**(n) Public Transparency.—** The Secretary shall publicly release on its website information that contains each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans. Such information shall be posted on the website within 45 calendar days of approval of a State’s highway safety plan.
 
 ### Statutory Notes
 
@@ -385,6 +381,12 @@ This Act, referred to in subsec. (d), probably means Pub. L. 93–87, Aug. 13, 1
 The date of enactment of this subsection, referred to in subsec. (j), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+2019—Subsec. (n). Pub. L. 115–420 added subsec. (n) and struck out former subsec. (n). Prior to amendment, text read as follows: “Not later than October 1, 2015, and biennially thereafter, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that contains—
+
+“(1) an evaluation of each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans; and
+
+“(2) such recommendations as the Secretary may have for improvements to activities carried out under subsection (k).”
+
 2015—Subsec. (a)(2)(A)(viii). Pub. L. 114–94, § 4002(1), added cl. (viii).
 
 Subsec. (b)(1)(C). Pub. L. 114–94, § 4014(1)(A)(i), substituted “paragraph (2)” for “paragraph (3)”.

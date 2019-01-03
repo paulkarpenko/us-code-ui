@@ -2,7 +2,7 @@
 title: 49
 chapter: '453'
 heading: FEES
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -10,7 +10,7 @@ source: >-
 ## § 45301. General provisions
 **(a) Schedule of Fees.—** The Administrator shall establish a schedule of new fees, and a collection process for such fees, for the following services provided by the Administration:
 
-(1) Air traffic control and related services provided to aircraft other than military and civilian aircraft of the United States government 11 So in original. Probably should be capitalized. or of a foreign government that neither take off from, nor land in, the United States.
+(1) Air traffic control and related services provided to aircraft other than military and civilian aircraft of the United States Government or of a foreign government that neither take off from, nor land in, the United States.
 
 (2) Services (other than air traffic control services) provided to a foreign government or services provided to any entity obtaining services outside the United States, except that the Administrator shall not impose fees in any manner for production-certification related service performed outside the United States pertaining to aeronautical products manufactured outside the United States.
 
@@ -44,6 +44,8 @@ source: >-
 A prior section 45301, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, § 209, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–287, § 5(76), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, § 3(d)(1)(C), Nov. 20, 1997, 111 Stat. 2215, related to authority to impose fees, prior to repeal by Pub. L. 104–264, title II, §§ 203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–254 substituted “United States Government” for “United States government”.
+
 2012—Subsec. (b). Pub. L. 112–95, § 121(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to limitations on fees.
 
 Subsec. (e). Pub. L. 112–95, § 121(b), added subsec. (e).
@@ -82,11 +84,11 @@ Pub. L. 108–176, title II, § 229, Dec. 12, 2003, 117 Stat. 2532, provided tha
 
 **(c) Adjustments.—** The Administrator shall adjust the maximum fees established by subsection (b) of this section for changes in the Consumer Price Index of All Urban Consumers published by the Secretary of Labor.
 
-**(d) Credit to Account and Availability.—** Money collected from fees imposed under this section shall be credited to the account in the Treasury from which the Administrator incurs expenses in carrying out chapter 441 and sections 44701–44716 of this title (except sections 44701(c), 44703(f)(2),11 See References in Text note below. and 44713(d)(2)). The money is available to the Administrator to pay expenses for which the fees are collected.
+**(d) Credit to Account and Availability.—** Money collected from fees imposed under this section shall be credited to the account in the Treasury from which the Administrator incurs expenses in carrying out chapter 441 and sections 44701–44716 of this title (except sections 44701(c), 44703(g)(2), and 44713(d)(2)). The money is available to the Administrator to pay expenses for which the fees are collected.
 
 **(e) Effective Date.—**
 
-(1) **In general.—** — A fee may not be imposed under this section before the date on which the regulations prescribed under sections 44111(d), 44703(f)(2),1 and 44713(d)(2) of this title take effect.
+(1) **In general.—** — A fee may not be imposed under this section before the date on which the regulations prescribed under sections 44111(d), 44703(g)(2), and 44713(d)(2) of this title take effect.
 
 (2) **Effect of imposition of other fees.—** — A fee may not be imposed for a service or activity under this section during any period in which a fee for the same service or activity is imposed under section 45305.
 
@@ -107,10 +109,9 @@ In subsection (d), the words “Money collected from fees imposed” are substit
 #### Pub. L. 103–429
 This amends 49:45302 because the final regulations are not yet effective.
 
-#### References in Text
-[Section 44703(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44703/f/2&num=0&edition=prelim), referred to in subsecs. (d) and (e)(1), was redesignated section 44703(g)(2) by Pub. L. 106–181, title VII, § 715(1), Apr. 5, 2000, 114 Stat. 162.
-
 #### Amendments
+2018—Subsecs. (d), (e)(1). Pub. L. 115–254 substituted “44703(g)(2)” for “44703(f)(2)”.
+
 2012—Subsec. (e). Pub. L. 112–95 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1994—Subsec. (e). Pub. L. 103–429 added subsec. (e).
@@ -154,13 +155,104 @@ Pub. L. 100–690, title VII, § 7207(c)(4), Nov. 18, 1988, 102 Stat. 4428, as a
 
 **(f) Compensation to Carriers for Acting as Collection Agents.—** The Administration shall prescribe regulations to ensure that any air carrier required, pursuant to the Air Traffic Management System Performance Improvement Act of 1996 or any amendments made by that Act, to collect a fee imposed on another party by the Administrator may collect from such other party an additional uniform amount that the Administrator determines reflects the necessary and reasonable expenses (net of interest accruing to the carrier after collection and before remittance) incurred in collecting and handling the fee.
 
+**(g) Data Transparency.—**
+
+(1) **Air traffic services initial data report.—**
+
+  (A) *Initial report.—* — Not later than 6 months after the date of enactment of the FAA Reauthorization Act of 2018, the Administrator and the Chief Operating Officer of the Air Traffic Organization shall, based upon the most recently available full fiscal year data, complete the following calculations for each segment of air traffic services users:
+
+    (i) The total costs allocable to the use of air traffic services for that segment during such fiscal year.
+
+    (ii) The total revenues received from that segment during such fiscal year.
+
+  (B) *Validation of model.—*
+
+    (i) *Review and determination.—* — Not later than 3 months after completion of the initial report required under subparagraph (A), the inspector general of the Department of Transportation shall review and determine the validity of the model used by the Administrator and the Chief Operating Officer to complete the calculations required under subparagraph (A).
+
+    (ii) *Validation process.—* — In the event that the inspector general determines that the model used by the Administrator and the Chief Operating Officer to complete the calculations required by subparagraph (A) is not valid—
+
+      (I) the inspector general shall provide the Administrator and Chief Operating Officer recommendations on how to revise the model;
+
+      (II) the Administrator and the Chief Operating Officer shall complete the calculations required by subparagraph (A) utilizing the revised model and resubmit the revised initial report required under subparagraph (A) to the inspector general; and
+
+      (III) not later than 3 months after completion of the revised initial report required under subparagraph (A), the inspector general shall review and determine the validity of the revised model used by the Administrator and the Chief Operating Officer to complete the calculations required by subparagraph (A).
+
+    (iii) *Access to data.—* — The Administrator and the Chief Operating Officer shall provide the inspector general of the Department of Transportation with unfettered access to all data produced by the cost accounting system operated and maintained pursuant to subsection (e).
+
+  (C) *Report to congress.—* — Not later than 60 days after completion of the review and receiving a determination that the model used is valid under subparagraph (B), the Administrator and the Chief Operating Officer shall submit to the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on Ways and Means of the House of Representatives, and the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on Finance of the Senate a report describing the results of the calculations completed under subparagraph (A).
+
+  (D) *Publication.—* — Not later than 60 days after submission of the report required under subparagraph (C), the Administrator and Chief Operating Officer shall publish the initial report, including any revision thereto if required as a result of the validation process for the model.
+
+(2) **Air traffic services biennial data reporting.—**
+
+  (A) *Biennial data reporting.—* — Not later than March 31, 2019, and biennially thereafter for 8 years, the Administrator and the Chief Operating Officer shall, using the validated model, complete the following calculations for each segment of air traffic services users for the most recent full fiscal year:
+
+    (i) The total costs allocable to the use of the air traffic services for that segment.
+
+    (ii) The total revenues received from that segment.
+
+  (B) *Report to congress.—* — Not later than 15 days after completing the calculations under subparagraph (A), the Administrator and the Chief Operating Officer shall complete and submit to the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on Ways and Means of the House of Representatives, and the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on Finance of the Senate a report containing the results of such calculations.
+
+  (C) *Publication.—* — Not later than 60 days after completing the calculations pursuant to subparagraph (A), the Administrator and the Chief Operating Officer shall publish the results of such calculations.
+
+(3) **Segments of air traffic services users.—**
+
+  (A) *In general.—* — For purposes of this subsection, each of the following shall constitute a separate segment of air traffic services users:
+
+    (i) Passenger air carriers conducting operations under part 121 of title 14, Code of Federal Regulations.
+
+    (ii) All-cargo air carriers conducting operations under part 121 of such title.
+
+    (iii) Operators covered by part 125 of such title.
+
+    (iv) Air carriers and operators of piston-engine aircraft operating under part 135 of such title.
+
+    (v) Air carriers and operators of turbine-engine aircraft operating under part 135 of such title.
+
+    (vi) Foreign air carriers providing passenger air transportation.
+
+    (vii) Foreign air carriers providing all-cargo air transportation.
+
+    (viii) Operators of turbine-engine aircraft operating under part 91 of such title, excluding those operating under subpart (K) of such part.
+
+    (ix) Operators of piston-engine aircraft operating under part 91 of such title, excluding those operating under subpart (K) of such part.
+
+    (x) Operators covered by subpart (K) of part 91 of such title.
+
+    (xi) Operators covered by part 133 of such title.
+
+    (xii) Operators covered by part 136 of such title.
+
+    (xiii) Operators covered by part 137 of such title.
+
+    (xiv) Operators of public aircraft that qualify under section 40125.
+
+    (xv) Operators of aircraft that neither take off from, nor land in, the United States.
+
+  (B) *Additional segments.—* — The Secretary may identify and include additional segments of air traffic users under subparagraph (A) as revenue and air traffic services cost data become available for that additional segment of air traffic services users.
+
+(4) **Definitions.—** — For purposes of this subsection:
+
+  (A) *Air traffic services.—* — The term “air traffic services” means services—
+
+    (i) used for the monitoring, directing, control, and guidance of aircraft or flows of aircraft and for the safe conduct of flight, including communications, navigation, and surveillance services and provision of aeronautical information; and
+
+    (ii) provided directly, or contracted for, by the Federal Aviation Administration.
+
+  (B) *Air traffic services user.—* — The term “air traffic services user” means any individual or entity using air traffic services provided directly, or contracted for, by the Federal Aviation Administration within United States airspace or international airspace delegated to the United States.
+
 ### Statutory Notes
 
 #### References in Text
 The Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (f), is title II of Pub. L. 104–264, Oct. 9, 1996, 110 Stat. 3227. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101) and Tables.
 
+The date of enactment of the FAA Reauthorization Act of 2018, referred to in subsec. (g)(1)(A), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
 #### Prior Provisions
 A prior section 45303 was renumbered [section 45304 of this title](./chapter-453-fees.md#section-45304).
+
+#### Amendments
+2018—Subsec. (g). Pub. L. 115–254 added subsec. (g).
 
 #### Effective Date
 Section effective on date that is 30 days after Oct. 9, 1996, see section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under [section 106 of this title](./chapter-001-organization.md#section-106).
@@ -186,7 +278,7 @@ In this section, the word “Administrator” in section 314(a) of the Federal A
 
 <a id="section-45305"></a>
 ## § 45305. Registration, certification, and related fees
-**(a) General Authority and Fees.—** Subject to subsection (b), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
+**(a) General Authority and Fees.—** Subject to subsection (c), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
 
 (1) Registering an aircraft.
 
@@ -210,9 +302,15 @@ In this section, the word “Administrator” in section 314(a) of the Federal A
 
 (11) Providing a legal opinion pertaining to aircraft registration or recordation.
 
-**(b) Limitation on Collection.—** No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
+**(b) Certification Services.—** Subject to subsection (c), and notwithstanding section 45301(a), the Administrator may establish and collect a fee from a foreign government or entity for services related to certification, regardless of where the services are provided, if the fee—
 
-**(c) Fees Credited as Offsetting Collections.—**
+(1) is established and collected in a manner consistent with aviation safety agreements; and
+
+(2) does not exceed the estimated costs of the services.
+
+**(c) Limitation on Collection.—** No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
+
+**(d) Fees Credited as Offsetting Collections.—**
 
 (1) **In general.—** — Notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), any fee authorized to be collected under this section shall—
 
@@ -225,3 +323,30 @@ In this section, the word “Administrator” in section 314(a) of the Federal A
 (2) **Continuing appropriations.—** — The Administrator may continue to assess, collect, and spend fees established under this section during any period in which the funding for the Federal Aviation Administration is provided under an Act providing continuing appropriations in lieu of the Administration’s regular appropriations.
 
 (3) **Adjustments.—** — The Administrator shall adjust a fee established under subsection (a) for a service or activity if the Administrator determines that the actual cost of the service or activity is higher or lower than was indicated by the cost data used to establish such fee.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–254, § 244(1), substituted “Subject to subsection (c)” for “Subject to subsection (b)” in introductory provisions.
+
+Subsecs. (b) to (d). Pub. L. 115–254, § 244(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+
+<a id="section-45306"></a>
+## § 45306. Manual surcharge
+**(a) In General.—** Not later 3 years after the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall impose and collect a surcharge on a Civil Aviation Registry transaction that—
+
+(1) is conducted in person at the Civil Aviation Registry;
+
+(2) could be conducted, as determined by the Administrator, with the same or greater level of efficiency by electronic or other remote means; and
+
+(3) is not related to research or other non-commercial activities.
+
+**(b) Maximum Surcharge.—** A surcharge imposed and collected under subsection (a) shall not exceed twice the maximum fee the Administrator is authorized to charge for the registration of an aircraft, not used to provide air transportation, after the transfer of ownership under section 45302(b)(2).
+
+**(c) Credit to Account and Availability.—** Monies collected from a surcharge imposed under subsection (a) shall be treated as monies collected under section 45302 and subject to the terms and conditions set forth in section 45302(d).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the FAA Reauthorization Act of 2018, referred to in subsec. (a), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.

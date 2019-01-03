@@ -24,7 +24,7 @@ The words “(except chapter 3041) and chapter 3121” are added for clarity. Th
 <a id="section-303102"></a>
 ## § 303102. Funding
 
-For each of fiscal years 2012 to 2023, $150,000,000 shall be deposited in the Historic Preservation Fund from revenues due and payable to the United States under section 9 of the Outer Continental Shelf Lands Act ([43 U.S.C. 1338](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1338&num=0&edition=prelim)), [section 7433(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7433/b&num=0&edition=prelim), or both, notwithstanding any provision of law that those proceeds shall be credited to miscellaneous receipts of the Treasury.
+For each of fiscal years 2012 to 2023, $150,000,000 shall be deposited in the Historic Preservation Fund from revenues due and payable to the United States under section 9 of the Outer Continental Shelf Lands Act ([43 U.S.C. 1338](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1338&num=0&edition=prelim)), [section 8733(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8733/b&num=0&edition=prelim), or both, notwithstanding any provision of law that those proceeds shall be credited to miscellaneous receipts of the Treasury.
 
 ### Statutory Notes
 
@@ -36,7 +36,12 @@ For each of fiscal years 2012 to 2023, $150,000,000 shall be deposited in the Hi
 Reference to fiscal years 1977–2011 is omitted as obsolete.
 
 #### Amendments
+2018—Pub. L. 115–232 substituted “[section 8733(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8733/b&num=0&edition=prelim)” for “[section 7433(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7433/b&num=0&edition=prelim)”.
+
 2016—Pub. L. 114–289 substituted “Funding” for “Contents” in section catchline and “2023” for “2015” in text.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-303103"></a>

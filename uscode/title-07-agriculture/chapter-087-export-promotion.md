@@ -2,7 +2,7 @@
 title: 7
 chapter: '87'
 heading: EXPORT PROMOTION
-section_count: 42
+section_count: 41
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -220,6 +220,53 @@ Not later than September 30 of each year, the Secretary shall evaluate whether t
 To provide a comprehensive source of information to facilitate exports of United States agricultural commodities, the Secretary shall maintain on a website on the Internet information to assist exporters and potential exporters of United States agricultural commodities.
 
 
+<a id="section-5608"></a>
+## § 5608. Foreign trade missions
+**(a) Tribal representation on trade missions**
+
+(1) **In general** — The Secretary, in consultation with the Tribal Advisory Committee established under subsection (b)(2) of [section 6921 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6921) (referred to in this section as the “Advisory Committee”), shall seek—
+
+  (A) to support the greater inclusion of Tribal agricultural and food products in Federal trade-related activities; and
+
+  (B) to increase the collaboration between Federal trade promotion efforts and other Federal trade-related activities in support of the greater inclusion sought under subparagraph (A).
+
+(2) **Interdepartmental coordination** — In carrying out activities to increase the collaboration described in paragraph (1)(B), the Secretary shall coordinate with—
+
+  (A) the Secretary of Commerce;
+
+  (B) the Secretary of State;
+
+  (C) the Secretary of the Interior; and
+
+  (D) the heads of any other relevant Federal agencies.
+
+**(b) Report; goals**
+
+(1) **Report** — Not later than 2 years after December 20, 2018, the Secretary shall submit a report describing the efforts of the Department of Agriculture and other Federal agencies under this section to—
+
+  (A) the Advisory Committee;
+
+  (B) the Committee on Agriculture of the House of Representatives;
+
+  (C) the Committee on Energy and Commerce of the House of Representatives;
+
+  (D) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+
+  (E) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (F) the Committee on Indian Affairs of the Senate.
+
+(2) **Goals** — Not later than 90 days after December 20, 2018, the Secretary shall establish goals for measuring, in an objective and quantifiable format, the extent to which Indian Tribes and Tribal agricultural and food products are included in the trade-related activities of the Department of Agriculture.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
+
+#### Definition of “Secretary”
+“Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+
 <a id="section-5621"></a>
 ## § 5621. Direct credit sales program
 **(a) Short-term program** To promote the sale of agricultural commodities, the Commodity Credit Corporation may finance the commercial export sale of such commodities from privately owned stocks on credit terms for not to exceed a 3-year period.
@@ -419,7 +466,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 Pub. L. 104–127, title II, § 243(d), Apr. 4, 1996, 110 Stat. 967, provided that: “Not later than 180 days after the date of enactment of this Act [Apr. 4, 1996], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section [amending this section and sections 5602 and 5641 of this title].”
 
 #### Promotion of Agricultural Exports to Emerging Markets
-Pub. L. 101–624, title XV, § 1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, § 338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, § 706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, § 321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§ 277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, § 3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, § 3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, § 3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, § 101(b), Nov. 26, 2014, 128 Stat. 2017, provided that: “(a) Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2018 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 ([7 U.S.C. 5621](./chapter-087-export-promotion.md#section-5621) and 5622), in addition to the amounts acquired or authorized under section 211 of the Act ([7 U.S.C. 5641](./chapter-087-export-promotion.md#section-5641)) for the program. “(b) Facilities and Services.—“(1) In general.—A portion of such export credit guarantees shall be made available for—“(A) the establishment or improvement of facilities, or “(B) the provision of services or United States produced goods, in emerging markets by United States persons to improve handling, marketing, processing, storage, or distribution of imported agricultural commodities and products thereof if the Secretary of Agriculture determines that such guarantees will primarily promote the export of United States agricultural commodities (as defined in section 102(7) of the Agricultural Trade Act of 1978 [[7 U.S.C. 5602(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5602/7&num=0&edition=prelim)]). “(2) Priority.—The Commodity Credit Corporation shall give priority under this subsection to—“(A) projects that encourage the privatization of the agricultural sector or that benefit private farms or cooperatives in emerging markets; and “(B) projects for which nongovernmental persons agree to assume a relatively larger share of the costs. “(3) Construction waiver.—The Secretary may waive any applicable requirements relating to the use of United States goods in the construction of a proposed facility, if the Secretary determines that—“(A) goods from the United States are not available; or “(B) the use of goods from the United States is not practicable. “(4) Term of guarantee.—A facility payment guarantee under this subsection shall be for a term that is not more than the lesser of—“(A) the term of the depreciation schedule of the facility assisted; or “(B) 20 years. “(c) Consultations.—Before the authority under this section is exercised, the Secretary of Agriculture shall consult with exporters of United States agricultural commodities (as defined in section 102(7) of the Agricultural Trade Act of 1978 [[7 U.S.C. 5602(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5602/7&num=0&edition=prelim)]), nongovernmental experts, and other Federal Government agencies in order to ensure that facilities in an emerging market for which financing is guaranteed under paragraph (1)(B) do not primarily benefit countries which are in close geographic proximity to that emerging market. “(d) E (Kika) de la Garza Agricultural Fellowship Program.—The Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) shall establish a program, to be known as the ‘E (Kika) de la Garza Agricultural Fellowship Program’, to develop agricultural markets in emerging markets and to promote cooperation and exchange of information between agricultural institutions and agribusinesses in the United States and emerging markets, as follows:“(1) Development of agricultural systems.—“(A) In general.—“(i) Establishment of program.—For each of the fiscal years 1991 through 2018, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies [markets], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems. “(ii) Extent of program.—The Secretary shall implement this paragraph with respect to at least 3 emerging markets in each fiscal year. “(B) Experts from the united states.—The Secretary may implement the requirements of subparagraph (A)—“(i) by providing assistance to teams consisting primarily of agricultural consultants, farmers, other persons from the private sector, and government officials expert in assessing the food and rural business systems of other countries to enable such teams to conduct the assessments, make the recommendations, and identify the opportunities and projects specified in subparagraph (A) in emerging markets; “(ii) by providing necessary subsistence expenses in the United States and necessary transportation expenses by individuals designated by emerging markets to enable such individuals to consult with food and rural business system experts in the United States to enhance such systems of such emerging markets; and “(iii) by providing for necessary subsistence expenses in emerging markets and necessary transportation expenses of United States agricultural producers and other individuals knowledgeable in agricultural and agribusiness matters to assist in transferring their knowledge and expertise to entities in emerging markets. “(C) Cost-sharing.—The Secretary shall encourage the nongovernmental experts described in subparagraph (B) to share the costs of, and otherwise assist in, the participation of such experts in the program under this paragraph. “(D) Technical assistance.—The Secretary is authorized to provide, or pay the necessary costs for, technical assistance (including the establishment of extension services) to enable individuals or other entities to implement the recommendations or to carry out the opportunities and projects identified under paragraph (1)(A). Notwithstanding any other provision of law, the assistance shall include assistance for administrative and overhead expenses of the International Cooperation and Development Program Area of the Foreign Agriculture Service, to the extent that the expenses were incurred pursuant to reimbursable agreements entered into prior to September 30, 1993, the expenses do not exceed $2,000,000 per year, and the expenses are not incurred for information technology systems. “(E) Reports to secretary.—A team that receives assistance under subparagraph (B) shall prepare such reports as the Secretary may designate. “(F) Advisory committee.—To provide the Secretary with information that may be useful to the Secretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States. “(G) Use of ccc.—The Secretary shall implement this paragraph through the funds and facilities of the Commodity Credit Corporation. The authority provided under this paragraph shall be in addition to and not in place of any other authority of the Secretary or the Commodity Credit Corporation. “(H) Level of assistance.—The Secretary shall provide assistance under this paragraph of not more than $10,000,000 in any fiscal year. “(2) Agricultural information program.—“(A) Establishment of program.—The Secretary shall establish a program, administered to complement the emerging markets export promotion program developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in emerging markets in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of free market food production and distribution systems in emerging markets and the enhancement of agricultural trade with the United States. “(B) Implementation.—The Secretary shall draw on the Department of Agriculture’s experience to design, implement, and evaluate, on a cost-sharing basis with cooperating agricultural institutions, a program to—“(i) compile, through contacts with the governments of emerging markets and private sector officials in emerging markets, a list of their agricultural institutions, including the location, capabilities, and needs of the institutions; “(ii) make such information available through an appropriate agency of the Department of Agriculture to agribusinesses and agricultural institutions in the United States and other agencies of the United States Government; and “(iii) carry out a program— “(I) to review available agricultural information resources, to determine which would be useful for the purposes of this program; “(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i); “(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, which may include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and “(IV) to provide for the exchange of administrators and faculty members from agricultural and other institutions to strengthen and revise educational programs in agricultural economics, agribusiness, and agrarian law, to support change towards a free market economy in emerging markets. “(C) Consultation and coordination.—The Secretary shall consult and coordinate with the Secretary of State and the Agency for International Development in the formulation and implementation of this program in conjunction with overall assistance to emerging markets. “(D) Authorization for appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the program established under this paragraph. “(e) Foreign Debt Burdens.—In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries. “(f) Emerging Market.—In this section and section 1543 [[7 U.S.C. 3293](./chapter-064-agricultural-research-extension-and-teaching.md#section-3293)], the term ‘emerging market’ means any country that the Secretary determines—“(1) is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of the economy of the country; and “(2) has the potential to provide a viable and significant market for United States agricultural commodities or products of United States agricultural commodities.”
+Pub. L. 101–624, title XV, § 1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, § 338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, § 706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, § 321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§ 277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, § 3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, § 3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, § 3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, § 101(b), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title III, §§ 3201(b)(3)(A), 3304, Dec. 20, 2018, 132 Stat. 4616, 4619, provided that: “(a) Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2023 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 ([7 U.S.C. 5621](./chapter-087-export-promotion.md#section-5621) and 5622), in addition to the amounts acquired or authorized under section 211 of the Act ([7 U.S.C. 5641](./chapter-087-export-promotion.md#section-5641)) for the program. “(b) Facilities and Services.—“(1) In general.—A portion of such export credit guarantees shall be made available for—“(A) the establishment or improvement of facilities, or “(B) the provision of services or United States produced goods, in emerging markets by United States persons to improve handling, marketing, processing, storage, or distribution of imported agricultural commodities and products thereof if the Secretary of Agriculture determines that such guarantees will primarily promote the export of United States agricultural commodities (as defined in section 102(7) of the Agricultural Trade Act of 1978 [[7 U.S.C. 5602(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5602/7&num=0&edition=prelim)]). “(2) Priority.—The Commodity Credit Corporation shall give priority under this subsection to—“(A) projects that encourage the privatization of the agricultural sector or that benefit private farms or cooperatives in emerging markets; and “(B) projects for which nongovernmental persons agree to assume a relatively larger share of the costs. “(3) Construction waiver.—The Secretary may waive any applicable requirements relating to the use of United States goods in the construction of a proposed facility, if the Secretary determines that—“(A) goods from the United States are not available; or “(B) the use of goods from the United States is not practicable. “(4) Term of guarantee.—A facility payment guarantee under this subsection shall be for a term that is not more than the lesser of—“(A) the term of the depreciation schedule of the facility assisted; or “(B) 20 years. “(c) Consultations.—Before the authority under this section is exercised, the Secretary of Agriculture shall consult with exporters of United States agricultural commodities (as defined in section 102(7) of the Agricultural Trade Act of 1978 [[7 U.S.C. 5602(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5602/7&num=0&edition=prelim)]), nongovernmental experts, and other Federal Government agencies in order to ensure that facilities in an emerging market for which financing is guaranteed under paragraph (1)(B) do not primarily benefit countries which are in close geographic proximity to that emerging market. “(d) Foreign Debt Burdens.—In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries. “(e) Emerging Market.—In this section and section 1543 [[7 U.S.C. 3293](./chapter-064-agricultural-research-extension-and-teaching.md#section-3293)], the term ‘emerging market’ means any country, foreign territory, customs union, or other economic market that the Secretary determines—“(1) is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of its economy; and “(2) has the potential to provide a viable and significant market for United States agricultural commodities or products of United States agricultural commodities.”
 
 #### Presidential Determination of Emerging Democracies
 Determination of President of the United States, No. 95–35, Aug. 10, 1995, 60 F.R. 44723, provided:
@@ -436,97 +483,255 @@ William J. Clinton.
 
 
 <a id="section-5623"></a>
-## § 5623. Market access program
-**(a) In general** The Commodity Credit Corporation shall establish and carry out a program to encourage the development, maintenance, and expansion of commercial export markets for agricultural commodities (including commodities that are organically produced (as defined in [section 6502 of this title](./chapter-094-organic-certification.md#section-6502))) through cost-share assistance to eligible trade organizations that implement a foreign market development program.
+## § 5623. Agricultural trade promotion and facilitation
+**(a) Establishment** The Secretary shall carry out activities under this section—
 
-**(b) Type of assistance** Assistance under this section may be provided in the form of funds of, or commodities owned by, the Commodity Credit Corporation, as determined appropriate by the Secretary.
+(1) to access, develop, maintain, and expand markets for United States agricultural commodities; and
 
-**(c) Requirements for participation** To be eligible for cost-share assistance under this section, an organization shall—
+(2) to promote cooperation and the exchange of information.
 
-(1) be an eligible trade organization;
+**(b) Market Access Program**
 
-(2) prepare and submit a marketing plan to the Secretary that meets the guidelines governing such plans established by the Secretary; and
+(1) **Definition of eligible trade organization** — In this subsection, the term “eligible trade organization” means—
 
-(3) meet any other requirements established by the Secretary.
+  (A) a United States agricultural trade organization or regional State-related organization that promotes the export and sale of United States agricultural commodities and that does not stand to profit directly from specific sales of United States agricultural commodities;
 
-**(d) Eligible trade organizations** An eligible trade organization shall be—
+  (B) a cooperative organization or State agency that promotes the sale of United States agricultural commodities; or
 
-(1) a United States agricultural trade organization or regional State-related organization that promotes the export and sale of agricultural commodities and that does not stand to profit directly from specific sales of agricultural commodities;
+  (C) a private organization that promotes the export and sale of United States agricultural commodities if the Secretary determines that such organization would significantly contribute to United States export market development.
 
-(2) a cooperative organization or State agency that promotes the sale of agricultural commodities; or
+(2) **In general** — The Commodity Credit Corporation shall establish and carry out a program, to be known as the “Market Access Program”, to encourage the development, maintenance, and expansion of commercial export markets for United States agricultural commodities (including commodities that are organically produced (as defined in [section 6502 of this title](./chapter-094-organic-certification.md#section-6502))) through cost-share assistance to eligible trade organizations that implement a foreign market development program.
 
-(3) a private organization that promotes the export and sale of agricultural commodities if the Secretary determines that such organization would significantly contribute to United States export market development.
+(3) **Participation requirements**
 
-**(e) Approved marketing plan**
+  (A) *Marketing plan and other requirements* — To be eligible for cost-share assistance under this subsection, an eligible trade organization shall—
 
-(1) **In general** — A marketing plan submitted by an eligible trade organization under this section shall describe the advertising or other market oriented export promotion activities to be carried out by the eligible trade organization with respect to which assistance under this section is being requested.
+    (i) prepare and submit a marketing plan to the Secretary that meets the guidelines governing such a marketing plan specified in this paragraph or otherwise established by the Secretary;
 
-(2) **Requirements** — To be approved by the Secretary, a marketing plan submitted under this subsection shall—
+    (ii) meet any other requirements established by the Secretary; and
 
-  (A) specifically describe the manner in which assistance received by the eligible trade organization in conjunction with funds and services provided by the eligible trade organization will be expended in implementing the marketing plan;
+    (iii) enter into an agreement with the Secretary.
 
-  (B) establish specific market goals to be achieved as a result of the market access program; and
+  (B) *Purpose of marketing plan* — A marketing plan submitted under this paragraph shall describe the advertising or other market oriented export promotion activities to be carried out by the eligible trade organization with respect to which assistance under this subsection is being requested.
 
-  (C) contain whatever additional requirements are determined by the Secretary to be necessary.
+  (C) *Specific elements* — To be approved by the Secretary, a marketing plan submitted under this paragraph shall—
 
-(3) **Amendments** — A marketing plan may be amended by the eligible trade organization at any time, with the approval of the Secretary.
+    (i) specifically describe the manner in which assistance received by the eligible trade organization, in conjunction with funds and services provided by the eligible trade organization, will be expended in implementing the marketing plan;
 
-(4) **Branded promotion** — An agreement entered into under this section may provide for the use of branded advertising to promote the sale of agricultural commodities in a foreign country under such terms and conditions as may be established by the Secretary.
+    (ii) establish specific market goals to be achieved under the marketing plan; and
 
-**(f) Other terms and conditions**
+    (iii) contain whatever additional requirements are determined by the Secretary to be necessary.
 
-(1) **Multi-year basis** — The Secretary may provide assistance under this section on a multi-year basis, subject to annual review by the Secretary for compliance with the approved marketing plan.
+  (D) *Branded promotion* — A marketing plan approved by the Secretary may provide for the use of branded advertising to promote the sale of United States agricultural commodities in a foreign country under such terms and conditions as may be established by the Secretary.
 
-(2) **Termination of assistance** — The Secretary may terminate any assistance made, or to be made, available under this section if the Secretary determines that—
+  (E) *Amendments* — An approved marketing plan may be amended by the eligible trade organization at any time, subject to the approval of the amendment by the Secretary.
 
-  (A) the eligible trade organization is not adhering to the terms and conditions of the program established under this section;
+(4) **Level of assistance and cost-share requirements**
 
-  (B) the eligible trade organization is not implementing the approved marketing plan or is not adequately meeting the established goals of the market access program;
+  (A) *In general* — The Secretary shall justify in writing the level of assistance to be provided to an eligible trade organization under this subsection and the level of cost sharing required of the organization.
 
-  (C) the eligible trade organization is not adequately contributing its own resources to the market access program; or
+  (B) *Limitation on branded promotion* — Assistance provided under this subsection for activities described in paragraph (3)(D) shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of United States agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under [section 2411 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2411&num=0&edition=prelim). Criteria used by the Secretary for determining that the limitation shall not apply shall be consistent and documented.
 
-  (D) the Secretary determines that termination of assistance in a particular instance is in the best interests of the program.
+(5) **Other terms and conditions**
 
-(3) **Evaluations** — The Secretary shall monitor the expenditure of funds received under this section by recipients of such funds. The Secretary shall make evaluations of such expenditure, including—
+  (A) *Multiyear basis* — The Secretary may provide assistance under this subsection on a multiyear basis, subject to annual review by the Secretary for compliance with the approved marketing plan.
 
-  (A) an evaluation of the effectiveness of the program in developing or maintaining markets for United States agricultural commodities;
+  (B) *Termination of assistance* — The Secretary may terminate any assistance made, or to be made, available under this subsection if the Secretary determines that—
 
-  (B) an evaluation of whether assistance provided under this section is necessary to maintain such markets; and
+    (i) the eligible trade organization is not adhering to the terms and conditions applicable to the provision of the assistance;
 
-  (C) a thorough accounting of the expenditure of such funds by the recipient.
-  The Secretary shall make an initial evaluation of expenditures of a recipient not later than 15 months after the initial provision of funds to the recipient.
+    (ii) the eligible trade organization is not implementing the approved marketing plan or is not adequately meeting the established goals of the plan;
 
-(4) **Use of funds** — Funds made available to carry out this section—
+    (iii) the eligible trade organization is not adequately contributing its own resources to the implementation of the plan; or
 
-  (A) shall not be used to provide direct assistance to any foreign for-profit corporation for the corporation’s use in promoting foreign-produced products;
+    (iv) the Secretary determines that termination of assistance in a particular instance is in the best interests of the Market Access Program.
 
-  (B) shall not be used to provide direct assistance to any for-profit corporation that is not recognized as a small-business concern described in [section 632(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim), excluding—
+  (C) *Evaluations* — Beginning not later than 15 months after the initial provision of assistance under this subsection to an eligible trade organization, the Secretary shall monitor the expenditures by the eligible trade organization of such assistance, including the following:
+
+    (i) An evaluation of the effectiveness of the marketing plan of the eligible trade organization in developing or maintaining markets for United States agricultural commodities.
+
+    (ii) An evaluation of whether assistance provided under this subsection is necessary to maintain such markets.
+
+    (iii) A thorough accounting of the expenditure by the eligible trade organization of the assistance provided under this subsection.
+
+(6) **Restrictions on use of funds** — Assistance provided under this subsection to an eligible trade organization may not be used—
+
+  (A) to provide direct assistance to any foreign for-profit corporation for the corporation’s use in promoting foreign-produced products; or
+
+  (B) to provide direct assistance to any for-profit corporation that is not recognized as a small business concern (as described in [section 632(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim)), excluding—
 
     (i) a cooperative;
 
-    (ii) an association described in [section 291 of this title](./chapter-012-associations-of-agricultural-products-producers.md#section-291); and
+    (ii) an association described in [section 291 of this title](./chapter-012-associations-of-agricultural-products-producers.md#section-291); or
 
-    (iii) a nonprofit trade association; and
+    (iii) a nonprofit trade association.
 
-  (C) may be used by a United States trade association, cooperative, or small business for individual branded promotional activity related to a United States branded product, if the beneficiaries of the activity have provided funds for the activity in an amount that is at least equivalent to the amount of assistance provided under this section.
+(7) **Permissive use of funds** — Assistance provided under this subsection to a United States agricultural trade association, cooperative, or small business may be used for individual branded promotional activity related to a United States branded product, if the beneficiaries of the activity have provided funds for the activity in an amount that is at least equivalent to the amount of such assistance.
 
-**(g) Level of marketing assistance**
+(8) **Priority** — In providing assistance for branded promotion, the Secretary should give priority to small-sized entities.
 
-(1) **In general** — The Secretary shall justify in writing the level of assistance provided to an eligible trade organization under the program under this section and the level of cost-sharing required of such organization.
+(9) **Contribution level**
 
-(2) **Limitation** — Assistance provided under this section for activities described in subsection (e)(4) shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under [section 2411 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2411&num=0&edition=prelim). Criteria for determining that the limitation shall not apply shall be consistent and documented.
+  (A) *In general* — The Secretary should require a minimum contribution level of 10 percent from an eligible trade organization that receives assistance for nonbranded promotion.
 
-(3) **Staged reduction in assistance** — In the case of participants that received assistance under [section 1736s of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736s&num=0&edition=prelim) prior to November 28, 1990, and with respect to which assistance under this section would be limited under paragraph (2), any such reduction in assistance shall be phased down in equal increments over a 5-year period.
+  (B) *Increases in contribution level* — The Secretary may increase the contribution level in any subsequent year that an eligible trade organization receives assistance for nonbranded promotion.
+
+(10) **Additionality** — The Secretary should require each participant in the Market Access Program to certify that any Federal funds received supplement, but do not supplant, private or third party participant funds or other contributions to Program activities.
+
+(11) **Independent audits** — If as a result of an evaluation or audit of activities of a participant under the Market Access Program, the Secretary determines that a further review is justified in order to ensure compliance with the requirements of the Program, the Secretary should require the participant to contract for an independent audit of the Program activities, including activities of any subcontractor.
+
+(12) **Tobacco** — No funds made available under the Market Access Program may be used for activities to develop, maintain, or expand foreign markets for tobacco.
+
+**(c) Foreign Market Development Cooperator Program**
+
+(1) **Definition of eligible trade organization** — In this subsection, the term “eligible trade organization” means a United States trade organization that—
+
+  (A) promotes the export of 1 or more United States agricultural commodities; and
+
+  (B) does not have a business interest in or receive remuneration from specific sales of agricultural commodities.
+
+(2) **Establishment** — The Secretary shall establish and, in cooperation with eligible trade organizations, carry out a program to be known as the “Foreign Market Development Cooperator Program” to maintain and develop foreign markets for United States agricultural commodities.
+
+(3) **Use of funds** — Funds made available to carry out this subsection shall be used only to provide—
+
+  (A) cost-share assistance to an eligible trade organization under a contract or agreement with the eligible trade organization; and
+
+  (B) assistance for other costs that are appropriate to carry out the Foreign Market Development Cooperator Program, including contingent liabilities that are not otherwise funded.
+
+**(d) E (Kika) de la Garza Emerging Markets Program**
+
+(1) **Definition of emerging market** — In this subsection, the term “emerging market” means any country, foreign territory, customs union, or other economic market that the Secretary determines—
+
+  (A) is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of its economy; and
+
+  (B) has the potential to provide a viable and significant market for United States agricultural commodities.
+
+(2) **Establishment** — The Secretary shall establish and carry out a program, to be known as the “E (Kika) de la Garza Emerging Markets Program”—
+
+  (A) to develop agricultural markets in emerging markets; and
+
+  (B) to promote cooperation and exchange of information between agricultural institutions and agribusinesses in the United States and emerging markets.
+
+(3) **Development of agricultural systems**
+
+  (A) *In general*
+
+    (i) *Implementation* — To develop, maintain, or expand markets for exports of United States agricultural commodities, the Secretary shall make available to emerging markets the expertise of the United States—
+
+      (I) to make assessments of food and rural business systems needs;
+
+      (II) to make recommendations on measures necessary to enhance the effectiveness of the food and rural business systems described in subclause (I), including potential reductions in trade barriers; and
+
+      (III) to identify and carry out specific opportunities and projects to enhance the effectiveness of the food and rural business systems described in subclause (I).
+
+    (ii) *Extent of program* — The Secretary shall implement this subparagraph with respect to at least 3 emerging markets in each fiscal year.
+
+  (B) *Experts from the United States* — The Secretary may implement subparagraph (A) by providing—
+
+    (i) assistance to teams (consisting primarily of agricultural consultants, agricultural producers, other persons from the private sector, and government officials expert in assessing the food and rural business systems of other countries) to enable those teams to conduct the assessments, make the recommendations, and identify the opportunities and projects described in subparagraph (A)(i) in emerging markets;
+
+    (ii) for necessary subsistence and transportation expenses of—
+
+      (I) United States food and rural business system experts, including United States agricultural producers and other United States individuals knowledgeable in agricultural and agribusiness matters, to enable such United States food and rural business system experts to assist in transferring knowledge and expertise to entities from emerging markets; and
+
+      (II) individuals designated by emerging markets to enable such designated individuals to consult with such United States experts to enhance food and rural business systems of such emerging markets and to transfer knowledge and expertise to such emerging markets.
+
+  (C) *Cost-sharing* — The Secretary shall encourage the nongovernmental experts described in subparagraph (B) to share the costs of, and otherwise assist in, the participation of those experts in the E (Kika) de la Garza Emerging Markets Program.
+
+  (D) *Technical assistance* — The Secretary is authorized to provide, or pay the necessary costs for, technical assistance (including the establishment of extension services) to enable individuals or other entities to carry out recommendations, projects, and opportunities in emerging markets, including recommendations, projects, and opportunities described in subclauses (II) and (III) of subparagraph (A)(i).
+
+  (E) *Reports to Secretary* — A team that receives assistance under subparagraph (B)(i) shall prepare and submit to the Secretary such reports as the Secretary may require.
+
+  (F) *Advisory committee* — To provide the Secretary with information that may be useful to the Secretary in carrying out this subsection, the Secretary may establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
+
+  (G) *Effect* — The authority provided under this subsection shall be in addition to and not in place of any other authority of the Secretary or the Commodity Credit Corporation.
+
+**(e) Technical assistance for specialty crops**
+
+(1) **Establishment** — The Secretary of Agriculture shall establish an export assistance program, in this subsection referred to as the “program”, to address existing or potential unique barriers that prohibit or threaten the export of United States specialty crops.
+
+(2) **Purpose** — The program shall provide direct assistance through public and private sector projects and technical assistance, including through the program under [section 3157(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3157/e&num=0&edition=prelim), to remove, resolve, or mitigate existing or potential sanitary, phytosanitary, and technical barriers to trade.
+
+(3) **Priority** — The program shall address time sensitive and strategic market access projects based on—
+
+  (A) trade effect on market retention, market access, and market expansion; and
+
+  (B) trade impact.
+
+(4) **Multiyear projects** — The Secretary may provide assistance under the program to a project for longer than a 5-year period if the Secretary determines that further assistance would effectively support the purpose described in paragraph (2).
+
+(5) **Outreach and technical assistance** — The Secretary shall—
+
+  (A) conduct outreach to inform eligible organizations of the requirements of the program and the process by which such organizations may submit proposals for funding;
+
+  (B) provide technical assistance to eligible organizations to assist in developing proposals and complying with the requirements of the program; and
+
+  (C) solicit input from eligible organizations on improvements to streamline and facilitate the provision of assistance under this subsection.
+
+(6) **Regulations and procedures**
+
+  (A) *In general* — Not later than 1 year after December 20, 2018, the Secretary shall review program regulations, procedures, and guidelines for assistance under this subsection and make revisions to streamline, improve, and clarify the application, approval and compliance processes for such assistance, including revisions to implement the requirements of paragraph (5).
+
+  (B) *Considerations* — In reviewing and making revisions under subparagraph (A), the Secretary shall consider—
+
+    (i) establishing accountability standards that are appropriate for the size and scope of a project; and
+
+    (ii) establishing streamlined application and approval processes, including for smaller-scale projects or projects to address time-sensitive trade barriers.
+
+(7) **Annual report** — Each year, the Secretary shall submit to the appropriate committees of Congress a report that contains, for the period covered by the report, a description of—
+
+  (A) each factor that affects the export of specialty crops, including each factor relating to any—
+
+    (i) significant sanitary or phytosanitary issue;
+
+    (ii) trade barrier; or
+
+    (iii) emerging sanitary or phytosanitary issue or trade barrier; and
+
+  (B)
+
+    (i) any funds provided under subsection (f)(3)(A)(iv) that were not obligated in a fiscal year; and
+
+    (ii) the reason such funds were not obligated.
+
+**(f) Funding and administration**
+
+(1) **Commodity Credit Corporation** — The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.
+
+(2) **Funding amount** — For each of fiscal years 2019 through 2023, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation, the Secretary shall use to carry out this section $255,000,000, to remain available until expended.
+
+(3) **Allocation**
+
+  (A) *In general* — For each of fiscal years 2019 through 2023, the Secretary shall allocate funds to carry out this section in accordance with the following:
+
+    (i) *Market access program* — For market access activities authorized under subsection (b), of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation, not less than $200,000,000 for each fiscal year.
+
+    (ii) *Foreign market development cooperator program* — To carry out subsection (c), of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation, not less than $34,500,000 for each fiscal year.
+
+    (iii) *E (Kika) de la Garza Emerging Markets Program* — To provide assistance under subsection (d), of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation, not more than $8,000,000 for each fiscal year.
+
+    (iv) *Technical assistance for specialty crops* — To carry out subsection (e), of the funds of, or an equal value of the commodities owned by, the Commodity Credit Corporation, $9,000,000 for each fiscal year.
+
+    (v) *Priority trade fund*
+
+      (I) *In general* — In addition to the amounts allocated under clauses (i) through (iv), and notwithstanding any limitations in those clauses, as determined by the Secretary, for 1 or more programs under this section for authorized activities to access, develop, maintain, and expand markets for United States agricultural commodities, $3,500,000 for each fiscal year.
+
+      (II) *Considerations* — In allocating funds made available under subclause (I), the Secretary may consider providing a greater allocation to 1 or more programs under this section for which the amounts requested under applications exceed available funding for the 1 or more programs.
+
+  (B) *Reallocation* — Any funds allocated under clauses (i) through (iv) of subparagraph (A) that remain unobligated one year after the end of the fiscal year in which they are first made available shall be reallocated to the priority trade fund under subparagraph (A)(v). To the maximum extent practicable, the Secretary shall allocate such reallocated funds to support exports of those types of United States agricultural commodities eligible for assistance under the program for which the funds were originally allocated under subparagraph (A).
+
+(4) **Cuba** — Notwithstanding [section 7207 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7207&num=0&edition=prelim) or any other provision of law, funds made available under this section may be used to carry out the programs authorized under subsections (b) and (c) in Cuba. Funds may not be used as described in the previous sentence in contravention with directives set forth under the National Security Presidential Memorandum entitled “Strengthening the Policy of the United States Toward Cuba” issued by the President on June 16, 2017, during the period in which that memorandum is in effect.
+
+(5) **Authorization of appropriations** — In addition to any other amounts provided under this subsection, there are authorized to be appropriated such sums as are necessary to carry out the programs and authorities under paragraph (3)(A)(v) and subsections (b) through (e).
 
 ### Statutory Notes
-
-#### References in Text
-[Section 1736s of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736s&num=0&edition=prelim), referred to in subsec. (g)(3), was repealed by Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702.
 
 #### Prior Provisions
 A prior section 203 of Pub. L. 95–501 enacted [section 1707d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1707d&num=0&edition=prelim) prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
 
 #### Amendments
+2018—Pub. L. 115–334 amended section generally. Prior to amendment, section related to market access program.
+
 2008—Subsec. (a). Pub. L. 110–246 inserted “(including commodities that are organically produced (as defined in [section 6502 of this title](./chapter-094-organic-certification.md#section-6502)))” after “agricultural commodities”.
 
 1996—Pub. L. 104–127, § 244(a)(1)(A), substituted “access” for “promotion” in section catchline.
@@ -550,10 +755,10 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3601&num=0&edition=prelim), Customs Duties.
 
 #### Prohibition on Assistance to Mink Associations
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 718], Oct. 21, 1998, 112 Stat. 2681, 2681–27, as amended by Pub. L. 106–31, title V, § 5001(b), May 21, 1999, 113 Stat. 109, provided that: “Hereafter, none of the funds made available in annual appropriations Acts may be used to provide assistance to, or to pay the salaries of personnel to carry out a market promotion/market access program pursuant to section 203 of the Agricultural Trade Act of 1978 ([7 U.S.C. 5623](./chapter-087-export-promotion.md#section-5623)) that provides assistance to the United States Mink Export Development Council or any mink industry trade association.”
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 718], Oct. 21, 1998, 112 Stat. 2681, 2681–27, as amended by Pub. L. 106–31, title V, § 5001(b), May 21, 1999, 113 Stat. 109; Pub. L. 115–334, title III, § 3201(b)(1)(D), Dec. 20, 2018, 132 Stat. 4616, provided that: “Hereafter, none of the funds made available in annual appropriations Acts may be used to provide assistance to, or to pay the salaries of personnel to carry out a market promotion/market access program pursuant to section 203(b) of the Agricultural Trade Act of 1978 ([7 U.S.C. 5623(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5623/b&num=0&edition=prelim)[)] that provides assistance to the United States Mink Export Development Council or any mink industry trade association.”
 
 #### Secretarial Actions To Achieve Savings in Market Access Program; Regulations
-Pub. L. 103–66, title I, § 1302(b), (c), Aug. 10, 1993, 107 Stat. 330, 331, as amended by Pub. L. 104–127, title II, § 244(a)(2)(A)(ii), Apr. 4, 1996, 110 Stat. 968, provided that: “(b) Secretarial Actions To Achieve Savings.—In order to enable the Secretary of Agriculture to achieve the savings required in the market access program established by section 203 of the Agricultural Trade Act of 1978 ([7 U.S.C. 5623](./chapter-087-export-promotion.md#section-5623)) as a result of the amendments made by this section [amending this section and [section 5641 of this title](./chapter-087-export-promotion.md#section-5641)]:“(1) Unfair trade practices.—[Amended subsec. (c)(2) of this section.] “(2) Guidelines.—The Secretary of Agriculture should implement changes in the market access program established by section 203 of such Act, beginning with fiscal year 1994, in order to improve the effectiveness of the program and to meet the following objectives:“(A) Priority.—In providing assistance for branded promotion, the Secretary should give priority to small-sized entities. “(B) Graduation.—The Secretary should not provide assistance under the program to promote a specific branded product in a single market for more than 5 years unless the Secretary determines that further assistance is necessary in order to meet the objectives of the program. “(C) Contribution level.—“(i) In general.—The Secretary should require a minimum contribution level of 10 percent from an eligible trade organization that receives assistance for nonbranded promotion. “(ii) Increases in contribution level.—The Secretary may increase the contribution level in any subsequent year that an eligible trade organization receives assistance for nonbranded promotion. “(D) Additionality.—The Secretary should require each participant in the program to certify that any Federal funds received supplement, but do not supplant, private or third party participant funds or other contributions to program activities. “(E) Independent audits.—If as a result of an evaluation or audit of activities of a participant under the program, the Secretary determines that a further review is justified in order to ensure compliance with the requirements of the program, the Secretary should require the participant to contract for an independent audit of the program activities, including activities of any subcontractor. “(3) Tobacco.—No funds made available under the market access program may be used for activities to develop, maintain, or expand foreign markets for tobacco. “(c) Regulations.—Not later than 90 days after the date of enactment of this Act [Aug. 10, 1993], the Secretary of Agriculture shall issue regulations to implement this section [amending this section and [section 5641 of this title](./chapter-087-export-promotion.md#section-5641)] and the amendments made by this section.”
+Pub. L. 103–66, title I, § 1302(b), (c), Aug. 10, 1993, 107 Stat. 330, 331, as amended by Pub. L. 104–127, title II, § 244(a)(2)(A)(ii), Apr. 4, 1996, 110 Stat. 968, which directed the Secretary of Agriculture to implement changes in the market access program beginning with fiscal year 1994 in order to improve the effectiveness of the program and to meet stated objectives, and required issuance of regulations not later than 90 days after Aug. 10, 1993, was repealed by Pub. L. 115–334, title III, § 3201(b)(1)(E), Dec. 20, 2018, 132 Stat. 4616.
 
 
 <a id="section-5624"></a>
@@ -608,31 +813,11 @@ The Commodity Credit Corporation may carry out a program under which commercial 
 
 **(b) Export credit guarantee program** The Commodity Credit Corporation shall make available for each fiscal year $5,500,000,000 of credit guarantees under [section 5622(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5622/a&num=0&edition=prelim).
 
-**(c) Market access programs**
-
-(1) **In general** — The Commodity Credit Corporation or the Secretary shall make available for market access activities authorized to be carried out by the Commodity Credit Corporation under [section 5623 of this title](./chapter-087-export-promotion.md#section-5623)—
-
-  (A) in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2008 through 2018, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
-
-  (B) any funds that may be specifically appropriated to carry out a market access program under [section 5623 of this title](./chapter-087-export-promotion.md#section-5623).
-
-(2) **Program priorities** — In providing any amount of funds made available under paragraph (1)(A) for any fiscal year that is in excess of the amount made available under paragraph (1)(A) for fiscal year 2001, the Secretary shall, to the maximum extent practicable—
-
-  (A) give equal consideration to—
-
-    (i) proposals submitted by organizations that were participating organizations in prior fiscal years; and
-
-    (ii) proposals submitted by eligible trade organizations that have not previously participated in the program established under this subchapter; and
-
-  (B) give equal consideration to—
-
-    (i) proposals submitted for activities in emerging markets; and
-
-    (ii) proposals submitted for activities in markets other than emerging markets.
-
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–334 struck out subsec. (c) which related to funding for market access programs under [section 5623 of this title](./chapter-087-export-promotion.md#section-5623) and program priorities.
+
 2014—Subsec. (b). Pub. L. 113–79, § 3101(b), amended subsec. (b) generally. Prior to amendment, subsec (b) related to credit guarantees under [section 5622(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5622/a&num=0&edition=prelim) for fiscal years 1996 to 2012.
 
 Subsec. (c)(1)(A). Pub. L. 113–79, § 3102, substituted “2018” for “2012”.
@@ -746,7 +931,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 ## § 5662. Compliance provisions
 **(a) Records**
 
-(1) **In general** — In the administration of the programs established under sections 5621, 5622, and 5623 of this title the Secretary shall require by regulation each exporter or other participant under the program to maintain all records concerning a program transaction for a period of not to exceed 5 years after completion of the program transaction, and to permit the Secretary to have full and complete access, for such 5-year period, to such records.
+(1) **In general** — In the administration of the programs established under sections 5621, 5622, and 5623(b) of this title the Secretary shall require by regulation each exporter or other participant under the program to maintain all records concerning a program transaction for a period of not to exceed 5 years after completion of the program transaction, and to permit the Secretary to have full and complete access, for such 5-year period, to such records.
 
 (2) **Confidentiality** — The personally identifiable information contained in reports under subsection (a) may be withheld in accordance with [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim). Any officer or employee of the Department of Agriculture who knowingly discloses confidential information as defined by [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim) shall be subject to [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim). Nothing in this subsection shall be construed to authorize the withholding of information from Congress.
 
@@ -766,6 +951,8 @@ The provisions of this subsection shall be without prejudice to any other remedy
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334 substituted “and 5623(b)” for “and 5623”.
+
 2008—Subsec. (a)(1). Pub. L. 110–246 substituted “sections 5621, 5622, and 5623” for “sections 5621, 5622, 5623, and 5651”.
 
 1996—Subsec. (a)(2), (3). Pub. L. 104–127 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary may require by regulation an exporter or other participant in the programs to make records available to the Secretary with respect to non-program transactions if such records would pertain directly to the review of program-related transactions undertaken by such exporter or participant, as determined by the Secretary.”
@@ -801,7 +988,7 @@ Section, Pub. L. 95–501, title IV, § 404, as added Pub. L. 101–624, title X
 ## § 5671. Agricultural embargo protection
 **(a) Prerequisites; scope of compensation** Notwithstanding any other provision of law, if—
 
-(1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) [now [50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.] or under any other provision of law;
+(1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 11 See References in Text note below. or under any other provision of law;
 
 (2) such suspension or restriction of the export of such agricultural commodity is imposed other than in connection with a suspension or restriction of all exports from the United States to such country or area of the world; and
 
@@ -829,7 +1016,7 @@ the Secretary shall compensate producers of the commodity involved by making pay
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
@@ -1028,7 +1215,7 @@ Section was enacted as part of the Federal Agriculture Improvement and Reform Ac
 
 (1) quick response intervention regarding nontariff barriers to United States exports involving—
 
-  (A) United States agricultural commodities produced through biotechnology;
+  (A) United States agricultural commodities produced through biotechnology or new agricultural production technologies;
 
   (B) food safety;
 
@@ -1042,11 +1229,11 @@ Section was enacted as part of the Federal Agriculture Improvement and Reform Ac
 
 (1) this section;
 
-(2) the emerging markets program under section 1542; 11 See References in Text note below. or
+(2) the emerging markets program under section 154211 See References in Text note below. and [section 5623(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5623/d&num=0&edition=prelim); or
 
 (3) the Cochran Fellowship Program under [section 3293 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3293).
 
-**(d) Funding** There is authorized to be appropriated $6,000,000 for each of fiscal years 2002 through 2007.
+**(d) Funding** There is authorized to be appropriated $2,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
@@ -1056,57 +1243,20 @@ Section 1542, referred to in subsec. (c)(2), is section 1542 of title XV of Pub.
 #### Codification
 Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
 
+#### Amendments
+2018—Subsec. (b)(1)(A). Pub. L. 115–334, § 3301(1), inserted “or new agricultural production technologies” after “biotechnology”.
+
+Subsec. (c)(2). Pub. L. 115–334, § 3201(b)(3)(C), inserted “and [section 5623(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5623/d&num=0&edition=prelim)” after “section 1542”.
+
+Subsec. (d). Pub. L. 115–334, § 3301(2), substituted “$2,000,000 for each of fiscal years 2019 through 2023” for “$6,000,000 for each of fiscal years 2002 through 2007”.
+
 
 <a id="section-5680"></a>
-## § 5680. Technical assistance for specialty crops
-**(a) Establishment** The Secretary of Agriculture shall establish an export assistance program (referred to in this section as the “program”) to address unique barriers that prohibit or threaten the export of United States specialty crops.
-
-**(b) Purpose** The program shall provide direct assistance through public and private sector projects and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and technical barriers to trade.
-
-**(c) Priority** The program shall address time sensitive and strategic market access projects based on—
-
-(1) trade effect on market retention, market access, and market expansion; and
-
-(2) trade impact.
-
-**(d) Annual report** Not later than 180 days after June 18, 2008, and annually thereafter, the Secretary shall submit to the appropriate committees of Congress a report that contains, for the period covered by the report, a description of each factor that affects the export of specialty crops, including each factor relating to any—
-
-(1) significant sanitary or phytosanitary issue; or
-
-(2) trade barrier.
-
-**(e) Funding**
-
-(1) **Commodity Credit Corporation** — The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.
-
-(2) **Funding amounts** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
-
-  (A) $4,000,000 for fiscal year 2008;
-
-  (B) $7,000,000 for fiscal year 2009;
-
-  (C) $8,000,000 for fiscal year 2010; and
-
-  (D) $9,000,000 for each of fiscal years 2011 through 2018.
+## § 5680. Repealed. Pub. L. 115–334, title III, § 3201(b)(4), Dec. 20, 2018, 132 Stat. 4617
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
-
-#### Amendments
-2014—Subsec. (b). Pub. L. 113–79, § 3205(a), substituted “technical barriers to trade” for “related barriers to trade”.
-
-Subsec. (e)(2)(C) to (E). Pub. L. 113–79, § 3205(b), inserted “and” at end of subpar. (C), added subpar. (D), and struck out former subpars. (D) and (E) which read as follows:
-
-“(D) $9,000,000 for fiscal year 2011; and
-
-“(E) $9,000,000 for fiscal year 2012.”
-
-2008—Subsecs. (d), (e). Pub. L. 110–246 added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text read as follows: “For each of fiscal years 2002 through 2007, the Secretary shall make available $2,000,000 of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation.”
-
-#### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Section, Pub. L. 107–171, title III, § 3205, May 13, 2002, 116 Stat. 301; Pub. L. 110–246, title III, § 3203, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, § 3205(a), (b), Feb. 7, 2014, 128 Stat. 780, related to program to provide direct and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and technical barriers that prohibit or threaten the export of United States specialty crops.
 
 
 <a id="section-5691"></a>
@@ -1256,67 +1406,13 @@ Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pu
 Section, Pub. L. 95–501, title VI, § 603, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3689; amended Pub. L. 104–127, title II, §§ 241(c)(2), 251, Apr. 4, 1996, 110 Stat. 964, 971; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820, required quarterly reports specifying the cumulative amount of export assistance provided by the Commodity Credit Corporation and the Secretary under certain programs.
 
 
-<a id="section-5721"></a>
-## § 5721. “Eligible trade organization” defined
-
-In this subchapter, the term “eligible trade organization” means a United States trade organization that—
-
-(1) promotes the export of 1 or more United States agricultural commodities or products; and
-
-(2) does not have a business interest in or receive remuneration from specific sales of agricultural commodities or products.
-
-
-<a id="section-5722"></a>
-## § 5722. Foreign market development cooperator program
-**(a) In general** The Secretary shall establish and, in cooperation with eligible trade organizations, carry out a foreign market development cooperator program to maintain and develop foreign markets for United States agricultural commodities and products, with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets.
-
-**(b) Administration** Funds made available to carry out this subchapter shall be used only to provide—
-
-(1) cost-share assistance to an eligible trade organization under a contract or agreement with the organization; and
-
-(2) assistance for other costs that are necessary or appropriate to carry out the foreign market development cooperator program, including contingent liabilities that are not otherwise funded.
+<a id="section-5721-to-5723"></a>
+## § 5721 to 5723. Repealed. Pub. L. 115–334, title III, § 3201(b)(2), Dec. 20, 2018, 132 Stat. 4616
 
 ### Statutory Notes
 
-#### Amendments
-2014—Subsec. (c). Pub. L. 113–188 struck out subsec. (c) which required the Secretary to submit annual reports to Congress on certain activities under this section.
+Section 5721, Pub. L. 95–501, title VII, § 701, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 971, defined “eligible trade organization” for this subchapter.
 
-2008—Subsec. (c). Pub. L. 110–246 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+Section 5722, Pub. L. 95–501, title VII, § 702, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 971; amended Pub. L. 107–171, title III, § 3105(a), May 13, 2002, 116 Stat. 290; Pub. L. 110–246, title III, § 3104(a), June 18, 2008, 122 Stat. 1833; Pub. L. 113–188, title I, § 101(f), Nov. 26, 2014, 128 Stat. 2018, related to foreign market development cooperator program to maintain and develop foreign markets for United States agricultural commodities and products.
 
-2002—Subsec. (a). Pub. L. 107–171, § 3105(a)(1), inserted “, with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets” after “products”.
-
-Subsec. (c). Pub. L. 107–171, § 3105(a)(2), added subsec. (c).
-
-#### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-
-<a id="section-5723"></a>
-## § 5723. Funding
-**(a) In general** To carry out this subchapter, the Secretary shall use funds of the Commodity Credit Corporation, or commodities of the Commodity Credit Corporation of a comparable value, in the amount of $34,500,000 for each of fiscal years 2008 through 2018.
-
-**(b) Program priorities** In providing any amount of funds or commodities made available under subsection (a) for any fiscal year that is in excess of the amount made available under this section for fiscal year 2001, the Secretary shall, to the maximum extent practicable—
-
-(1) give equal consideration to—
-
-  (A) proposals submitted by organizations that were participating organizations in prior fiscal years; and
-
-  (B) proposals submitted by eligible trade organizations that have not previously participated in the program established under this subchapter; and
-
-(2) give equal consideration to—
-
-  (A) proposals submitted for activities in emerging markets; and
-
-  (B) proposals submitted for activities in markets other than emerging markets.
-
-### Statutory Notes
-
-#### Amendments
-2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
-
-2008—Subsec. (a). Pub. L. 110–246 substituted “2008 through 2012” for “2002 through 2007”.
-
-2002—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of fiscal years 1996 through 2002.”
-
-#### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Section 5723, Pub. L. 95–501, title VII, § 703, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 972; amended Pub. L. 107–171, title III, § 3105(b), May 13, 2002, 116 Stat. 291; Pub. L. 110–246, title III, § 3104(b), June 18, 2008, 122 Stat. 1833; Pub. L. 113–79, title III, § 3103, Feb. 7, 2014, 128 Stat. 779, related to funding to carry out this subchapter and program priorities.

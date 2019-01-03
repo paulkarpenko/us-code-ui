@@ -128,13 +128,13 @@ The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–6
 
 <a id="section-6004"></a>
 ## § 6004. Support for Cuban people
-**(a) Provisions of law affected** The provisions of this section apply notwithstanding any other provision of law, including [section 2370(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/a&num=0&edition=prelim), and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act [[50 U.S.C. 4305(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim)], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.].
+**(a) Provisions of law affected** The provisions of this section apply notwithstanding any other provision of law, including [section 2370(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/a&num=0&edition=prelim), and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act [[50 U.S.C. 4305(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim)], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979.
 
 **(b) Donations of food** Nothing in this or any other Act shall prohibit donations of food to nongovernmental organizations or individuals in Cuba.
 
 **(c) Exports of medicines and medical supplies** Exports of medicines or medical supplies, instruments, or equipment to Cuba shall not be restricted—
 
-(1) except to the extent such restrictions would be permitted under section 5(m) of the Export Administration Act of 1979 [50 U.S.C. App. 2404(m)] or section 203(b)(2) of the International Emergency Economic Powers Act [[50 U.S.C. 1702(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702/b/2&num=0&edition=prelim)];
+(1) except to the extent such restrictions would be permitted under section 5(m) 11 See References in Text note below. of the Export Administration Act of 1979 or section 203(b)(2) of the International Emergency Economic Powers Act [[50 U.S.C. 1702(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702/b/2&num=0&edition=prelim)];
 
 (2) except in a case in which there is a reasonable likelihood that the item to be exported will be used for purposes of torture or other human rights abuses;
 
@@ -182,7 +182,7 @@ Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provide
 #### References in Text
 The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsecs. (a) and (c)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613). Section 5 of the Act was classified to [section 4604 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4604&num=0&edition=prelim) prior to repeal.
 
 #### Amendments
 1996—Subsec. (e)(5), (6). Pub. L. 104–114, § 102(g), added pars. (5) and (6).

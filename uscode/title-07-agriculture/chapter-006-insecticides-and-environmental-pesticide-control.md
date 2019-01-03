@@ -587,6 +587,110 @@ For provisions relating to the responsibility of the head of each Executive agen
 
   (C) The Administrator, not later than 30 days after receipt of an application for expedited review, shall notify the applicant whether the application is complete. If it is found to be incomplete, the Administrator may either reject the request for expedited review or ask the applicant for additional information to satisfy the guidelines developed under subparagraph (A).
 
+(11) **Interagency working group**
+
+  (A) *Definition of covered agency* — In this paragraph, the term “covered agency” means any of the following:
+
+    (i) The Department of Agriculture.
+
+    (ii) The Department of Commerce.
+
+    (iii) The Department of the Interior.
+
+    (iv) The Council on Environmental Quality.
+
+    (v) The Environmental Protection Agency.
+
+  (B) *Establishment* — The Administrator shall establish an interagency working group, to be comprised of representatives from each covered agency, to provide recommendations regarding, and to implement a strategy for improving, the consultation process required under section 7 of the Endangered Species Act of 1973 ([16 U.S.C. 1536](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1536&num=0&edition=prelim)) for pesticide registration and registration review.
+
+  (C) *Duties* — The interagency working group established under subparagraph (B) shall—
+
+    (i) analyze relevant Federal law (including regulations) and case law for purposes of providing an outline of the legal and regulatory framework for the consultation process referred to in that subparagraph, including—
+
+      (I) requirements under this subchapter and the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.);
+
+      (II) Federal case law regarding the intersection of this subchapter and the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.); and
+
+      (III) Federal regulations relating to the pesticide consultation process;
+
+    (ii) provide advice regarding methods of—
+
+      (I) defining the scope of actions of the covered agencies that are subject to the consultation requirement referred to in subparagraph (B); and
+
+      (II) properly identifying and classifying effects of actions of the covered agencies with respect to that consultation requirement;
+
+    (iii) identify the obligations and limitations under Federal law of each covered agency for purposes of providing a legal and regulatory framework for developing the recommendations referred to in subparagraph (B);
+
+    (iv) review practices for the consultation referred to in subparagraph (B) to identify problem areas, areas for improvement, and best practices for conducting that consultation among the covered agencies;
+
+    (v) develop scientific and policy approaches to increase the accuracy and timeliness of the process for that consultation, in accordance with requirements of this subchapter and the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), including—
+
+      (I) processes to efficiently share data and coordinate analyses among the Department of Agriculture, the Department of Commerce, the Department of the Interior, and the Environmental Protection Agency;
+
+      (II) a streamlined process for identifying which actions require no consultation, informal consultation, or formal consultation;
+
+      (III) an approach that will provide clarity with respect to what constitutes the best scientific and commercial data available in the fields of pesticide use and ecological risk assessment, pursuant to section 7(a)(2) of the Endangered Species Act of 1973 ([16 U.S.C. 1536(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1536/a/2&num=0&edition=prelim)); and
+
+      (IV) approaches that enable the Environmental Protection Agency to better assist the Department of the Interior and the Department of Commerce in carrying out obligations under that section in a timely and efficient manner; and
+
+    (vi) propose and implement a strategy to implement approaches to consultations under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) and document that strategy in a memorandum of understanding, revised regulations, or another appropriate format to promote durable cooperation among the covered agencies.
+
+  (D) *Reports*
+
+    (i) *Progress reports*
+
+      (I) *In general* — Not later than 18 months after December 20, 2018, the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress of the working group in developing the recommendations under subparagraph (B).
+
+      (II) *Requirements* — The report under this clause shall—
+
+        (aa) reflect the perspectives of each covered agency; and
+
+        (bb) identify areas of new consensus and continuing topics of disagreement and debate.
+
+    (ii) *Results*
+
+      (I) *In general* — Not later than 1 year after December 20, 2018, the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
+
+        (aa) the recommendations developed under subparagraph (B); and
+
+        (bb) plans for implementation of those recommendations.
+
+      (II) *Requirements* — The report under this clause shall—
+
+        (aa) reflect the perspectives of each covered agency; and
+
+        (bb) identify areas of consensus and continuing topics of disagreement and debate, if any.
+
+    (iii) *Implementation* — Not later than 1 year after the date of submission of the report under clause (i), the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
+
+      (I) the implementation of the recommendations referred to in that clause;
+
+      (II) the extent to which that implementation improved the consultation process referred to in subparagraph (B); and
+
+      (III) any additional recommendations for improvements to the process described in subparagraph (B).
+
+    (iv) *Other reports* — Not later than the date that is 180 days after the date of submission of the report under clause (iii), and not less frequently than once every 180 days thereafter during the 5-year period beginning on that date, the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
+
+      (I) the implementation of the recommendations referred to in that clause;
+
+      (II) the extent to which that implementation improved the consultation process referred to in subparagraph (B); and
+
+      (III) any additional recommendations for improvements to the process described in subparagraph (B).
+
+  (E) *Consultation with private sector* — In carrying out the duties under this paragraph, the working group shall, as appropriate—
+
+    (i) consult with, representatives of interested industry stakeholders and nongovernmental organizations; and
+
+    (ii) take into consideration factors, such as actual and potential differences in interest between, and the views of, those stakeholders and organizations.
+
+  (F) *Federal Advisory Committee Act* — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this paragraph.
+
+  (G) *Savings clause* — Nothing in this paragraph supersedes any provision of—
+
+    (i) this subchapter; or
+
+    (ii) the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), including the requirements under section 7 of that Act ([16 U.S.C. 1536](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1536&num=0&edition=prelim)).
+
 **(d) Classification of pesticides**
 
 (1) **Classification for general use, restricted use, or both**
@@ -774,10 +878,17 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 ### Statutory Notes
 
+#### References in Text
+The Endangered Species Act of 1973, referred to in subsec. (c)(11)(C)(i)(I), (II), (v), (vi), (G)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+
+The Federal Advisory Committee Act, referred to in subsec. (c)(11)(F), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
 #### Prior Provisions
 A prior section 3 of act June 25, 1947, was classified to [section 135a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section135a&num=0&edition=prelim) prior to amendment of act June 25, 1947, by Pub. L. 92–516.
 
 #### Amendments
+2018—Subsec. (c)(11). Pub. L. 115–334 added par. (11).
+
 2007—Subsec. (c)(3)(B)(ii)(I). Pub. L. 110–94, § 2(1), substituted “review the application in accordance with [section 136w–8(f)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136w–8/f/4/B&num=0&edition=prelim) and,” for “within 45 days after receiving the application, notify the registrant whether or not the application is complete and,”.
 
 Subsec. (c)(3)(B)(ii)(II). Pub. L. 110–94, § 2(2), substituted “not later than the applicable decision review time established pursuant to [section 136w–8(f)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136w–8/f/4/B&num=0&edition=prelim), or, if no review time is established, not later than” for “within”.
@@ -908,7 +1019,7 @@ Pub. L. 95–396, § 2(b), Sept. 30, 1978, 92 Stat. 824, provided that: “The a
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136).
 
 #### Biological Pesticide Handling Study
-Pub. L. 101–624, title XIV, § 1498, Nov. 28, 1990, 104 Stat. 3631, provided that: “(a) Study.—Not later than September 30, 1992, the National Academy of Sciences shall conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency. “(b) Development of Procedures.—Not later than 1 year after the completion of the study under subsection (a), the agencies and offices described in such subsection shall develop and implement a common process for reviewing and approving biological control applications that are submitted to such agencies and offices that shall be based on the study conducted under such subsection and the recommendation of the National Academy of Sciences, and other public comment.”
+Pub. L. 101–624, title XIV, § 1498, Nov. 28, 1990, 104 Stat. 3631, provided that the National Academy of Sciences would conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency, and within 1 year after completion of the study, develop and implement a common process for reviewing and approving biological control applications submitted to such agencies and offices based on the study conducted the recommendation of the National Academy of Sciences and other public comment.
 
 #### Education, Study, and Report
 Pub. L. 100–478, title I, § 1010, Oct. 7, 1988, 102 Stat. 2313, provided that: “(a) Education.—The Administrator of the Environmental Protection Agency in cooperation with the Secretary of Agriculture and the Secretary of the Interior, promptly upon enactment of this Act [Oct. 7, 1988], shall conduct a program to inform and educate fully persons engaged in agricultural food and fiber commodity production of any proposed pesticide labeling program or requirements that may be imposed by the Administrator in compliance with the Endangered Species Act [of 1973] ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.). The Administrator also shall provide the public with notice of, and opportunity for comment on, the elements of any such program and requirements based on compliance with the Endangered Species Act [of 1973], including (but not limited to) an identification of any pesticides affected by the program; an explanation of the restriction or prohibition on the user or applicator of any such pesticide; an identification of those geographic areas affected by any pesticide restriction or prohibition; an identification of the effects of any restricted or prohibited pesticide on endangered or threatened species; and an identification of the endangered or threatened species along with a general description of the geographic areas in which such species are located wherein the application of a pesticide will be restricted, prohibited, or its use otherwise limited, unless the Secretary of the Interior determines that the disclosure of such information may create a substantial risk of harm to such species or its habitat. “(b) Study.—The Administrator of the Environmental Protection Agency, jointly with the Secretary of Agriculture and the Secretary of the Interior, shall conduct a study to identify reasonable and prudent means available to the Administrator to implement the endangered species pesticides labeling program which would comply with the Endangered Species Act of 1973, as amended, and which would allow persons to continue production of agricultural food and fiber commodities. Such study shall include investigation by the Administrator of the best available methods to develop maps and the best available alternatives to mapping as means of identifying those circumstances in which use of pesticides may be restricted; identification of alternatives to prohibitions on pesticide use, including, but not limited to, alternative pesticides and application methods and other agricultural practices which can be used in lieu of any pesticides whose use may be restricted by the labeling program; examination of methods to improve coordination among the Environmental Protection Agency, Department of Agriculture, and Department of the Interior in administration of the labeling program; and analysis of the means of implementing the endangered species pesticides labeling program or alternatives to such a program, if any, to promote the conservation of endangered or threatened species and to minimize the impacts to persons engaged in agricultural food and fiber commodity production and other affected pesticide users and applicators. “(c) Report.—The Administrator of the Environmental Protection Agency in cooperation with the Secretary of Agriculture and the Secretary of the Interior shall submit a report within one year of the date of enactment of this Act [Oct. 7, 1988], presenting the results of the study conducted pursuant to subsection (b) of this section to the Committee on Merchant Marine and Fisheries and the Committee on Agriculture of the United States House of Representatives, and the Committee on Environment and Public Works and the Committee on Agriculture, Nutrition, and Forestry of the United States Senate.”
@@ -1596,6 +1707,11 @@ Amendment by Pub. L. 108–199 effective on the date that is 60 days after Jan. 
 
 #### Effective Date
 Section effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as an Effective Date of 1988 Amendment note under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136).
+
+#### Extension of Limitations on Fee Amounts and Usage of Fees
+Pub. L. 115–141, div. M, title IV, § 401(a), Mar. 23, 2018, 132 Stat. 1049, provided that: “The following sections of the Federal Insecticide, Fungicide, and Rodenticide Act shall continue in effect through September 30, 2018— “(1) subparagraphs (C) through (E) of section 4(i)(1) ([7 U.S.C. 136a–1(i)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a–1/i/1/C&num=0&edition=prelim)–(E)); “(2) section 4(k)(3) ([7 U.S.C. 136a–1(k)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a–1/k/3&num=0&edition=prelim)); “(3) section 4(k)(4) ([7 U.S.C. 136a–1(k)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a–1/k/4&num=0&edition=prelim)); and “(4) section 33(c)(3)(B) ([7 U.S.C. 136w–8(c)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136w–8/c/3/B&num=0&edition=prelim)).”
+
+Pub. L. 115–141, div. M, title IV, § 401(b)(1), Mar. 23, 2018, 132 Stat. 1050, provided that: “Section 4(i)(1)(I) of the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136a–1(i)(1)(I)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a–1/i/1/I&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2018’ for ‘September 30, 2017’.”
 
 #### Relationship of Pub. L. 112–177 to Other Law
 Pub. L. 112–177, § 2(d), Sept. 28, 2012, 126 Stat. 1407, provided that: “In the case of any conflict between this section [amending this section, [section 136w–8 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136w-8), and [section 346a of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section346a&num=0&edition=prelim), Food and Drugs, and enacting provisions set out as a note under this section] (including the amendments made by this section) and a joint resolution making continuing appropriations for fiscal year 2013 (including any amendments made by such a joint resolution), this section and the amendments made by this section shall control.”
@@ -3809,6 +3925,11 @@ Amendment by Pub. L. 110–94 effective Oct. 1, 2007, see section 6 of Pub. L. 1
 
 #### Effective Date
 Section effective on the date that is 60 days after Jan. 23, 2004, except as otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under [section 136a of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136a).
+
+#### Extension of Limitations on Fee Amounts and Usage of Fees
+Subsection (c)(3)(B) of this section to continue in effect through Sept. 30, 2018, see section 401(a) of Pub. L. 115–141, set out as a note under [section 136a–1 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136a-1).
+
+Pub. L. 115–141, div. M, title IV, § 401(b)(2), Mar. 23, 2018, 132 Stat. 1050, provided that: “Notwithstanding section 33(m)(2) of the Federal Insecticide, Fungicide, and Rodenticide Act ([7 U.S.C. 136w–8(m)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136w–8/m/2&num=0&edition=prelim)), section 33(m)(1) of such Act ([7 U.S.C. 136w–8(m)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136w–8/m/1&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2018’ for ‘September 30, 2017’.”
 
 
 <a id="section-136x"></a>

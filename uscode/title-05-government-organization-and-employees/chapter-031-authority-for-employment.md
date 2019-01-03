@@ -2,7 +2,7 @@
 title: 5
 chapter: '31'
 heading: AUTHORITY FOR EMPLOYMENT
-section_count: 26
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -40,9 +40,11 @@ Pub. L. 91–47, title V, § 503, July 22, 1969, 83 Stat. 83, repealed section 2
 Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9907, provided for a freeze on the hiring of Federal civilian employees in the executive branch.
 
 #### Citizenship Requirement for Employees Compensated From Appropriated Funds
-Pub. L. 115–31, div. E, title VII, § 704, May 5, 2017, 131 Stat. 377, provided that: “Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in [8 U.S.C. 1324b(a)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324b/a/3/B&num=0&edition=prelim); (3) is a person who is admitted as a refugee under [8 U.S.C. 1157](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1157&num=0&edition=prelim) or is granted asylum under [8 U.S.C. 1158](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1158&num=0&edition=prelim) and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: Provided, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: Provided further, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: Provided further, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: Provided further, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: Provided further, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: Provided further, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act [May 5, 2017], or to international broadcasters employed by the Broadcasting Board of Governors, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: Provided further, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country.”
+Pub. L. 115–141, div. E, title VII, § 704, Mar. 23, 2018, 132 Stat. 588, provided that: “Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in [8 U.S.C. 1324b(a)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324b/a/3/B&num=0&edition=prelim); (3) is a person who is admitted as a refugee under [8 U.S.C. 1157](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1157&num=0&edition=prelim) or is granted asylum under [8 U.S.C. 1158](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1158&num=0&edition=prelim) and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: Provided, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: Provided further, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: Provided further, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: Provided further, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: Provided further, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: Provided further, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act [Mar. 23, 2018], or to international broadcasters employed by the Broadcasting Board of Governors, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: Provided further, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country.”
 
 Similar provisions to those in the Citizenship Requirement for Employees Compensated From Appropriated Funds note above were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. E, title VII, § 704, May 5, 2017, 131 Stat. 377.
 
 Pub. L. 114–113, div. E, title VII, § 704, Dec. 18, 2015, 129 Stat. 2473.
 
@@ -519,7 +521,7 @@ Except as otherwise authorized by law, the head of an Executive department or mi
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
 |  | [5 U.S.C. 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section49&num=0&edition=prelim). | R.S. § 189. Sept. 2, 1958, Pub. L. 85–861, § 7(a), 72 Stat. 1555. |
-|  | [5 U.S.C. 314](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section314&num=0&edition=prelim). | R.S. § 365. Sept. 2, 1958, Pub. L. 85–861, § 7(b), 72 Stat. 1555. |
+|  | [5 U.S.C. 314](./chapter-003-powers.md#section-314). | R.S. § 365. Sept. 2, 1958, Pub. L. 85–861, § 7(b), 72 Stat. 1555. |
 
 Sections 189 and 365 of the Revised Statutes, as amended, are combined and the section is revised to express the effect of the law since department heads have long employed, with the approval of Congress, attorneys to advise them in the conduct of their official duties. The law which concentrates the authority for the conduct of litigation in the Department of Justice is codified in [section 516 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section516&num=0&edition=prelim) by this bill.
 
@@ -941,6 +943,170 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
 
+<a id="section-3115"></a>
+## § 3115. Expedited hiring authority for college graduates; competitive service
+**(a) Definitions.—** In this section:
+
+(1) **Director.—** — The term “Director” means the Director of the Office of Personnel Management.
+
+(2) **Institution of higher education.—** — The term “institution of higher education” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)).
+
+**(b) Appointment.—**
+
+(1) **In general.—** — The head of an agency may appoint, without regard to any provision of sections 3309 through 3319 and 3330, a qualified individual to a position in the competitive service classified in a professional or administrative occupational category at the GS–11 level, or an equivalent level, or below.
+
+(2) **Restrictions.—** — An appointment under paragraph (1) shall be made in accordance with regulations prescribed by the Director.
+
+**(c) Qualifications for Appointment.—** The head of an agency may make an appointment under subsection (b) only if the individual being appointed—
+
+(1) has received a baccalaureate or graduate degree from an institution of higher education;
+
+(2) applies for the position—
+
+  (A) not later than 2 years after the date on which the individual being appointed received the degree described in paragraph (1); or
+
+  (B) in the case of an individual who has completed a period of not less than 4 years of obligated service in a uniformed service, not later than 2 years after the date of the discharge or release of the individual from that service; and
+
+(3) meets each minimum qualification standard prescribed by the Director for the position to which the individual is being appointed.
+
+**(d) Public Notice and Advertising.—**
+
+(1) **In general.—** — The head of an agency making an appointment under subsection (b) shall publicly advertise positions under this section.
+
+(2) **Requirements.—** — In carrying out paragraph (1), the head of an agency shall—
+
+  (A) adhere to merit system principles;
+
+  (B) advertise positions in a manner that provides for diverse and qualified applicants; and
+
+  (C) ensure potential applicants have appropriate information relevant to the positions available.
+
+**(e) Limitation on Appointments.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), the total number of employees that the head of an agency may appoint under this section during a fiscal year may not exceed the number equal to 15 percent of the number of individuals that the agency head appointed during the previous fiscal year to a position in the competitive service classified in a professional or administrative occupational category, at the GS–11 level, or an equivalent level, or below, under a competitive examining procedure.
+
+(2) **Exceptions.—** — Under a regulation prescribed under subsection (f), the Director may establish a lower limit on the number of individuals that may be appointed under paragraph (1) of this subsection during a fiscal year based on any factor the Director considers appropriate.
+
+**(f) Regulations.—** Not later than 180 days after the date of enactment of this section, the Director shall issue interim regulations, with an opportunity for comment, for the administration of this section.
+
+**(g) Reporting.—**
+
+(1) **In general.—** — Not later than September 30 of each of the first 3 fiscal years beginning after the date of enactment of this section, the head of an agency that makes an appointment under this section shall submit a report to—
+
+  (A) Congress that assesses the impact of the use of the authority provided under this section during the fiscal year in which the report is submitted; and
+
+  (B) the Director that contains data that the Director considers necessary for the Director to assess the impact and effectiveness of the authority described in subparagraph (A).
+
+(2) **Content.—** — The head of an agency shall include in each report under paragraph (1)—
+
+  (A) the total number of individuals appointed by the agency under this section, as well as the number of such individuals who are—
+
+    (i) minorities or members of other underrepresented groups; or
+
+    (ii) veterans;
+
+  (B) recruitment sources;
+
+  (C) the total number of individuals appointed by the agency during the applicable fiscal year to a position in the competitive service classified in a professional or administrative occupational category at the GS–11 level, or an equivalent level, or below; and
+
+  (D) any additional data specified by the Director.
+
+**(h) Special Provision Regarding the Department of Defense.—**
+
+(1) **Authority.—** — Nothing in this section shall preclude the Secretary of Defense from exercising any authority to appoint a recent graduate under section 1106 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. note prec. 1580), or any applicable successor statute.
+
+(2) **Regulations.—** — Any regulations prescribed by the Director for the administration of this section shall not apply to the Department of Defense during the period ending on the date on which the appointment authority of the Secretary of Defense under section 1106 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. note prec. 1580), or any applicable successor statute, terminates.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (f) and (g)(1), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
+
+Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (h), is section 1106 of Pub. L. 114–328, which is set out as a note preceding [section 1580 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1580&num=0&edition=prelim), Armed Forces.
+
+
+<a id="section-3116"></a>
+## § 3116. Expedited hiring authority for post-secondary students; competitive service
+**(a) Definitions.—** In this section:
+
+(1) **Director.—** — The term “Director” means the Director of the Office of Personnel Management.
+
+(2) **Institution of higher education.—** — The term “institution of higher education” has the meaning given the term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)).
+
+(3) **Student.—** — The term “student” means an individual enrolled or accepted for enrollment in an institution of higher education who is pursuing a baccalaureate or graduate degree on at least a part-time basis as determined by the institution of higher education.
+
+**(b) Appointment.—**
+
+(1) **In general.—** — The head of an agency may make a time-limited appointment of a student, without regard to any provision of sections 3309 through 3319 and 3330, to a position in the competitive service at the GS–11 level, or an equivalent level, or below for which the student is qualified.
+
+(2) **Restrictions.—** — An appointment under paragraph (1) shall be made in accordance with regulations prescribed by the Director.
+
+**(c) Public Notice.—**
+
+(1) **In general.—** — The head of an agency making an appointment under subsection (b) shall publicly advertise positions available under this section.
+
+(2) **Requirements.—** — In carrying out paragraph (1), the head of an agency shall—
+
+  (A) adhere to merit system principles;
+
+  (B) advertise positions in a manner that provides for diverse and qualified applicants; and
+
+  (C) ensure potential applicants have appropriate information relevant to the positions available.
+
+**(d) Limitation on Appointments.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), the total number of students that the head of an agency may appoint under this section during a fiscal year may not exceed the number equal to 15 percent of the number of students that the agency head appointed during the previous fiscal year to a position in the competitive service at the GS–11 level, or an equivalent level, or below.
+
+(2) **Exceptions.—** — Under a regulation prescribed under subsection (g), the Director may establish a lower limit on the number of students that may be appointed under paragraph (1) of this subsection during a fiscal year based on any factor the Director considers appropriate.
+
+**(e) Conversion.—** The head of an agency may, without regard to any provision of chapter 33 or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, convert a student serving in an appointment under subsection (b) to a permanent appointment in the competitive service within the agency without further competition if the student—
+
+(1) has completed the course of study leading to the baccalaureate or graduate degree;
+
+(2) has completed not less than 640 hours of current continuous employment in an appointment under subsection (b); and
+
+(3) meets the qualification standards for the position to which the student will be converted.
+
+**(f) Termination.—** The head of an agency shall, without regard to any provision of chapter 35 or 75, terminate the appointment of a student appointed under subsection (b) upon completion of the designated academic course of study unless the student is selected for conversion under subsection (e).
+
+**(g) Regulations.—** Not later than 180 days after the date of enactment of this section, the Director shall issue interim regulations, with an opportunity for comment, for the administration of this section.
+
+**(h) Reporting.—**
+
+(1) **In general.—** — Not later than September 30 of each of the first 3 fiscal years beginning after the date of enactment of this section, the head of an agency that makes an appointment under this section shall submit a report to—
+
+  (A) Congress that assesses the impact of the use of the authority provided under this section during the fiscal year in which the report is submitted; and
+
+  (B) the Director that contains data that the Director considers necessary for the Director to assess the impact and effectiveness of the authority described in subparagraph (A).
+
+(2) **Content.—** — The head of an agency shall include in each report under paragraph (1)—
+
+  (A) the total number of individuals appointed by the agency under this section, as well as the number of such individuals who are—
+
+    (i) minorities or members of other underrepresented groups; or
+
+    (ii) veterans;
+
+  (B) recruitment sources;
+
+  (C) the total number of individuals appointed by the agency during the applicable fiscal year to a position in the competitive service at the GS–11 level, or an equivalent level, or below; and
+
+  (D) any additional data specified by the Director.
+
+**(i) Special Provision Regarding the Department of Defense.—**
+
+(1) **Authority.—** — Nothing in this section shall preclude the Secretary of Defense from exercising any authority to appoint a post-secondary student under section 1106 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. note prec. 1580), or any applicable successor statute.
+
+(2) **Regulations.—** — Any regulations prescribed by the Director for the administration of this section shall not apply to the Department of Defense during the period ending on the date on which the appointment authority of the Secretary of Defense under section 1106 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. note prec. 1580), or any applicable successor statute, terminates.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (g) and (h)(1), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
+
+Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (i), is section 1106 of Pub. L. 114–328, which is set out as a note preceding [section 1580 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1580&num=0&edition=prelim), Armed Forces.
+
+
 <a id="section-3131"></a>
 ## § 3131. The Senior Executive Service
 
@@ -1127,7 +1293,7 @@ the Office shall, within 30 days after the action, transmit to the Congress writ
 #### References in Text
 Level IV or V of the Executive Schedule, referred to in subsec. (a)(2), are set out in sections 5315 and 5316 of this title.
 
-Section 226 of the Homeland Security Act of 2002, referred to in cl. (iii) of concluding provisions of subsec. (a)(2), probably means the section 226 of Pub. L. 107–296 as added by Pub. L. 113–277, § 3(a), Dec. 18, 2014, 128 Stat. 3005, which is classified to [section 147 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section147&num=0&edition=prelim), Domestic Security.
+Section 226 of the Homeland Security Act of 2002, referred to in cl. (iii) of concluding provisions of subsec. (a)(2), probably means the section 226 of Pub. L. 107–296 as added by Pub. L. 113–277, § 3(a), Dec. 18, 2014, 128 Stat. 3005, which was renumbered section 2208 of Pub. L. 107–296 by Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and is classified to [section 658 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section658&num=0&edition=prelim), Domestic Security.
 
 The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsec. (b)(3), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 

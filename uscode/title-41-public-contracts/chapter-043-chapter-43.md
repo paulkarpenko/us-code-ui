@@ -29,6 +29,15 @@ In this chapter:
 | 4301(3) | 41:256(m)(3). |  |
 | 4301(4) | 41:256(m)(2). |  |
 
+#### Amendment of Paragraph (2)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(17), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (2) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Par. (2). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
 
 <a id="section-4302"></a>
 ## § 4302. Adjustment of threshold amount of covered contract

@@ -1128,6 +1128,97 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 
 (2) prevent the implementation of the Commission’s “White Spaces” Second Report and Order and Memorandum Opinion and Order (FCC 08–260, adopted November 4, 2008) in the spectrum that remains allocated for broadcast television use after the reorganization required by such subsection.
 
+**(j) Reserve source for payment of relocation costs**
+
+(1) **Funding** — There are hereby authorized to be appropriated, and appropriated, to the TV Broadcaster Relocation Fund established by subsection (d), out of any monies in the Treasury not otherwise appropriated—
+
+  (A) for fiscal year 2018, $600,000,000, to remain available, notwithstanding subsection (d)(4), until not later than July 3, 2023, pursuant to this subsection; and
+
+  (B) for fiscal year 2019, $400,000,000, to remain available, notwithstanding subsection (d)(4), until not later than July 3, 2023, pursuant to this subsection.
+
+(2) **Availability of funds**
+
+  (A) *In general* — If the Commission makes the certification described in subparagraph (B), amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) shall be available to the Commission to make—
+
+    (i) reimbursements pursuant to subsection (b)(4)(A)(i) or (b)(4)(A)(ii), including not more than $350,000,000 for this purpose from funds made available by paragraph (1)(A);
+
+    (ii) payments required by subsection (k), including not more than $150,000,000 for this purpose from funds made available by paragraph (1)(A);
+
+    (iii) payments required by subsection (l), including not more than $50,000,000 for this purpose from funds made available by paragraph (1)(A); and
+
+    (iv) payments solely for the purposes of consumer education relating to the reorganization of broadcast television spectrum under subsection (b), including $50,000,000 for this purpose from funds made available by paragraph (1)(A).
+
+  (B) *Certification* — The certification described in this subparagraph is a certification from the Commission to the Secretary of the Treasury that the funds available prior to March 23, 2018, in the TV Broadcaster Relocation Fund are likely to be insufficient to reimburse reasonably incurred costs described in subsection (b)(4)(A)(i) or (b)(4)(A)(ii).
+
+  (C) *Availability for payments after April 13, 2020*
+
+    (i) *For payments to broadcast television licensees and mvpds* — Notwithstanding subsection (b)(4)(D), the Commission may make payments pursuant to subsection (b)(4)(A)(i) or (b)(4)(A)(ii) from amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) after April 13, 2020, if, before making any such payments after such date, the Commission submits to Congress a certification that such payments are necessary to reimburse reasonably incurred costs described in such subsection.
+
+    (ii) *For payments to television translator stations and low power television stations* — Amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) shall not be available to the Commission to make payments required by subsection (k) after April 13, 2020, unless, before making any such payments after such date, the Commission submits to Congress a certification that such payments are necessary to reimburse costs reasonably incurred by a television translator station or low power television station (as such terms are defined in subsection (k)) on or after January 1, 2017, in order for such station to relocate its television service from one channel to another channel or otherwise modify its facility as a result of the reorganization of broadcast television spectrum under subsection (b).
+
+    (iii) *For payments to fm broadcast stations* — Amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) shall not be available to the Commission to make payments required by subsection (l) after April 13, 2020, unless, before making any such payments after such date, the Commission submits to Congress a certification that such payments are necessary to reimburse costs reasonably incurred by an FM broadcast station (as defined in subsection (l)) for facilities necessary for such station to reasonably minimize disruption of service as a result of the reorganization of broadcast television spectrum under subsection (b).
+
+(3) **Unused funds rescinded and deposited into the general fund of the treasury**
+
+  (A) *Rescission and deposit* — If any unobligated amounts made available to the TV Broadcaster Relocation Fund by paragraph (1) remain in the Fund after the date described in subparagraph (B), such amounts shall be rescinded and deposited into the general fund of the Treasury, where such amounts shall be dedicated for the sole purpose of deficit reduction.
+
+  (B) *Date described* — The date described in this subparagraph is the earlier of—
+
+    (i) the date of a certification by the Commission under subparagraph (C) that all reimbursements pursuant to subsections (b)(4)(A)(i) and (b)(4)(A)(ii) have been made and that all reimbursements pursuant to subsections (k) and (l) have been made; or
+
+    (ii) July 3, 2023.
+
+  (C) *Certification* — If all reimbursements pursuant to subsections (b)(4)(A)(i) and (b)(4)(A)(ii) and all reimbursements pursuant to subsections (k) and (l) have been made before July 3, 2023, the Commission shall submit to the Secretary of the Treasury a certification that all such reimbursements have been made.
+
+(4) **Administrative costs** — The amount of auction proceeds that the salaries and expenses account of the Commission is required to retain under [section 309(j)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/8/B&num=0&edition=prelim), including from the proceeds of the forward auction under this section, shall be sufficient to cover the administrative costs incurred by the Commission in making any reimbursements out of the TV Broadcaster Relocation Fund from amounts made available to that Fund by paragraph (1).
+
+**(k) Payment of relocation costs of television translator stations and low power television stations**
+
+(1) **Payment required** — From amounts made available under subsection (j)(2), the Commission shall reimburse costs reasonably incurred by a television translator station or low power television station on or after January 1, 2017, in order for such station to relocate its television service from one channel to another channel or otherwise modify its facility as a result of the reorganization of broadcast television spectrum under subsection (b). Only stations that are eligible to file and do file an application in the Commission’s Special Displacement Window are eligible to seek reimbursement under this paragraph.
+
+(2) **Limitation** — The Commission may not make reimbursements under paragraph (1) for lost revenues.
+
+(3) **Duplicative payments prohibited** — In the case of a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations—
+
+  (A) if the licensee of such station has received reimbursement with respect to such station under subsection (b)(4)(A)(i) (including from amounts made available under subsection (j)(2)(A)(i)), or from any other source, such station may not receive reimbursement under paragraph (1); and
+
+  (B) if such station has received reimbursement under paragraph (1), the licensee of such station may not receive reimbursement with respect to such station under subsection (b)(4)(A)(i).
+
+(4) **Additional limitation** — The Commission may not make reimbursement under paragraph (1) for costs incurred to resolve mutually exclusive applications, including costs incurred in any auction of available channels.
+
+(5) **Definitions** — In this subsection:
+
+  (A) *Low power television station* — The term “low power television station” means a low power TV station (as defined in section 74.701 of title 47, Code of Federal Regulations) that was licensed and transmitting for at least 9 of the 12 months prior to April 13, 2017. For purposes of the preceding sentence, the operation of analog and digital companion facilities may be combined.
+
+  (B) *Television translator station* — The term “television translator station” means a television broadcast translator station (as defined in section 74.701 of title 47, Code of Federal Regulations) that was licensed and transmitting for at least 9 of the 12 months prior to April 13, 2017. For purposes of the preceding sentence, the operation of analog and digital companion facilities may be combined.
+
+**(l) Payment of Relocation Costs of Fm Broadcast Stations**
+
+(1) **Payment required**
+
+  (A) *In general* — From amounts made available under subsection (j)(2), the Commission shall reimburse costs reasonably incurred by an FM broadcast station for facilities necessary for such station to reasonably minimize disruption of service as a result of the reorganization of broadcast television spectrum under subsection (b).
+
+  (B) *Limitation* — The Commission may not make reimbursements under subparagraph (A) for lost revenues.
+
+  (C) *Duplicative payments prohibited* — If an FM broadcast station has received a payment for interim facilities from the licensee of a television broadcast station that was reimbursed for such payment under subsection (b)(4)(A)(i) (including from amounts made available under subsection (j)(2)(A)(i)), or from any other source, such FM broadcast station may not receive any reimbursements under subparagraph (A).
+
+(2) **Fm broadcast station defined** — In this subsection, the term ‘FM broadcast station’ has the meaning given such term in section 73.310 of title 47, Code of Federal Regulations, and includes an FM translator, which has the meaning given the term “FM translator” in section 74.1201 of such title.
+
+**(m) Rulemaking**
+
+(1) **In general** — Not later than 1 year after March 23, 2018, the Commission shall complete a rulemaking to implement subsections (k) and (l).
+
+(2) **Matters for inclusion** — The rulemaking completed under paragraph (1) shall include the development of lists of reasonable eligible costs to be reimbursed by the Commission pursuant to subsections (k) and (l), and procedures for the submission and review of cost estimates and other materials related to those costs consistent with the regulations developed by the Commission pursuant to subsection (b)(4).
+
+**(n) Rule of construction**
+
+(1) Nothing in subsections (j) through (m) shall alter the final transition phase completion date established by the Commission for full power and Class A television stations.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (j) to (n). Pub. L. 115–141 added subsecs. (j) to (n).
+
 
 <a id="section-1457"></a>
 ## § 1457. Unlicensed use in the 5 GHZ band
@@ -1187,37 +1278,61 @@ Section is comprised of section 6401 of Pub. L. 112–96. Subsec. (c) of section
 
 (3) **Applicability of environmental laws** — Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act 11 See References in Text note below. or the National Environmental Policy Act of 1969.
 
-**(b) Federal easements and rights-of-way**
+**(b) Federal easements, rights-of-way, and leases**
 
-(1) **Grant** — If an executive agency, a State, a political subdivision or agency of a State, or a person, firm, or organization applies for the grant of an easement or right-of-way to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, and maintain wireless service antenna structures and equipment and backhaul transmission equipment, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, an easement or right-of-way to perform such installation, construction, and maintenance.
+(1) **Grant** — If an executive agency, a State, a political subdivision or agency of a State, or a person, firm, or organization applies for the grant of an easement, right-of-way, or lease to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, modify, or maintain a communications facility installation, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, subject to paragraph (3), an easement, right-of-way, or lease to perform such installation, construction, modification, or maintenance.
 
-(2) **Application** — The Administrator of General Services shall develop a common form for applications for easements and rights-of-way under paragraph (1) for all executive agencies that shall be used by applicants with respect to the buildings or other property of each such agency.
+(2) **Application**
 
-(3) **Fee**
+  (A) *In general* — The Administrator of General Services shall develop a common form for applications for easements, rights-of-way, and leases under paragraph (1) for all executive agencies that, except as provided in subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings or other property of each such agency.
 
-  (A) *In general* — Notwithstanding any other provision of law, the Administrator of General Services shall establish a fee for the grant of an easement or right-of-way pursuant to paragraph (1) that is based on direct cost recovery.
+  (B) *Exception* — The requirement under subparagraph (A) for an executive agency to use the common form developed by the Administrator of General Services shall not apply to an executive agency if the head of an executive agency notifies the Administrator that the executive agency uses a substantially similar application.
 
-  (B) *Exceptions* — The Administrator of General Services may establish exceptions to the fee amount required under subparagraph (A)—
+(3) **Timely consideration of applications**
 
-    (i) in consideration of the public benefit provided by a grant of an easement or right-of-way; and
+  (A) *In general* — Not later than 270 days after the date on which an executive agency receives a duly filed application for an easement, right-of-way, or lease under this subsection, the executive agency shall—
 
-    (ii) in the interest of expanding wireless and broadband coverage.
+    (i) grant or deny, on behalf of the Federal Government, the application; and
 
-(4) **Use of fees collected** — Any fee amounts collected by an executive agency pursuant to paragraph (3) may be made available, as provided in appropriations Acts, to such agency to cover the costs of granting the easement or right-of-way.
+    (ii) notify the applicant of the grant or denial.
 
-**(c) Master contracts for wireless facility sitings**
+  (B) *Explanation of denial* — If an executive agency denies an application under subparagraph (A), the executive agency shall notify the applicant in writing, including a clear statement of the reasons for the denial.
 
-(1) **In general** — Notwithstanding section 704 of the Telecommunications Act of 1996 or any other provision of law, and not later than 60 days after February 22, 2012, the Administrator of General Services shall—
+  (C) *Applicability of environmental laws* — Nothing in this paragraph shall be construed to relieve an executive agency of the requirements of division A of subtitle III of title 54 or the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
 
-  (A) develop 1 or more master contracts that shall govern the placement of wireless service antenna structures on buildings and other property owned by the Federal Government; and
+  (D) *Point of contact* — Upon receiving an application under subparagraph (A), an executive agency shall designate one or more appropriate individuals within the executive agency to act as a point of contact with the applicant.
 
-  (B) in developing the master contract or contracts, standardize the treatment of the placement of wireless service antenna structures on building rooftops or facades, the placement of wireless service antenna equipment on rooftops or inside buildings, the technology used in connection with wireless service antenna structures or equipment placed on Federal buildings and other property, and any other key issues the Administrator of General Services considers appropriate.
+**(c) Master contracts for communications facility installation sitings**
 
-(2) **Applicability** — The master contract or contracts developed by the Administrator of General Services under paragraph (1) shall apply to all publicly accessible buildings and other property owned by the Federal Government, unless the Administrator of General Services decides that issues with respect to the siting of a wireless service antenna structure on a specific building or other property warrant nonstandard treatment of such building or other property.
+(1) **In general** — Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law 104–104; 110 Stat. 151) or any other provision of law, the Administrator of General Services shall—
 
-(3) **Application** — The Administrator of General Services shall develop a common form or set of forms for wireless service antenna structure siting applications under this subsection for all executive agencies that shall be used by applicants with respect to the buildings and other property of each such agency.
+  (A) develop one or more master contracts that shall govern the placement of communications facility installations on buildings and other property owned by the Federal Government; and
 
-**(d) Executive agency defined** In this section, the term “executive agency” has the meaning given such term in [section 102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section102&num=0&edition=prelim).
+  (B) in developing the master contract or contracts, standardize the treatment of the placement of communications facility installations on building rooftops or facades, the placement of communications facility installations on rooftops or inside buildings, the technology used in connection with communications facility installations placed on Federal buildings and other property, and any other key issues the Administrator of General Services considers appropriate.
+
+(2) **Applicability** — The master contract or contracts developed by the Administrator of General Services under paragraph (1) shall apply to all publicly accessible buildings and other property owned by the Federal Government, unless the Administrator of General Services decides that issues with respect to the siting of a communications facility installation on a specific building or other property warrant nonstandard treatment of such building or other property.
+
+(3) **Application**
+
+  (A) *In general* — The Administrator of General Services shall develop a common form or set of forms for communications facility installation siting applications that, except as provided in subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings and other property of each such agency.
+
+  (B) *Exception* — The requirement under subparagraph (A) for an executive agency to use the common form or set of forms developed by the Administrator of General Services shall not apply to an executive agency if the head of the executive agency notifies the Administrator that the executive agency uses a substantially similar application.
+
+**(d) Definitions** In this section:
+
+(1) **Communications facility installation** — The term “communications facility installation” includes—
+
+  (A) any infrastructure, including any transmitting device, tower, or support structure, and any equipment, switches, wiring, cabling, power sources, shelters, or cabinets, associated with the licensed or permitted unlicensed wireless or wireline transmission of writings, signs, signals, data, images, pictures, and sounds of all kinds; and
+
+  (B) any antenna or apparatus that—
+
+    (i) is designed for the purpose of emitting radio frequency;
+
+    (ii) is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
+
+    (iii) is added to a tower, building, or other structure.
+
+(2) **Executive agency** — The term “executive agency” has the meaning given such term in [section 102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section102&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1226,7 +1341,15 @@ Section 704 of the Telecommunications Act of 1996, referred to in subsecs. (a)(1
 
 The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of Title 16, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(3) and (b)(3)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2018—Subsecs. (b) to (d). Pub. L. 115–141 added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Federal easements and rights-of-way, master contracts for wireless facility sitings, and definition of executive agency, respectively.
+
+#### Savings Provisions
+Pub. L. 115–141, div. P, title VI, § 606(b), Mar. 23, 2018, 132 Stat. 1103, provided that: “An application for an easement, right-of-way, or lease that was made or granted under section 6409 of the Middle Class Tax Relief and Job Creation Act of 2012 ([47 U.S.C. 1455](./chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions.md#section-1455)) before the date of enactment of this Act [Mar. 23, 2018] shall continue, subject to that section as in effect on the day before such date of enactment.”
+
+Pub. L. 115–141, div. P, title VI, § 606(d), Mar. 23, 2018, 132 Stat. 1104, provided that: “(1) Real property authorities.—Nothing in this section [amending this section and enacting provisions set out as a note under this section], or the amendments made by this section, shall be construed as providing any executive agency with any new leasing or other real property authorities not existing prior to the date of enactment of this Act [Mar. 23, 2018]. “(2) Effect on other laws.—Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelop any Federal real property pursuant to title 40, United States Code, the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287) [[40 U.S.C. 1303](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1303&num=0&edition=prelim) note], or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could be otherwise sold, leased, or redeveloped.”
 
 
 <a id="section-1473"></a>

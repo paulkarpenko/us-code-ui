@@ -12,7 +12,7 @@ source: >-
 
 (1) A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
 
-  (A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or [section 47133 of this title](./chapter-471-airport-development.md#section-47133);
+  (A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or [section 47133 of this title](./chapter-471-airport-development.md#section-47133);
 
   (B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -30,7 +30,7 @@ source: >-
 
   (A) An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-    (i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), or 11 So in original. The word “or” probably should not appear. chapter 451, or [section 46314(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46314/a&num=0&edition=prelim); or
+    (i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), chapter 451, or [section 46314(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46314/a&num=0&edition=prelim); or
 
     (ii) a regulation prescribed or order issued under any provision to which clause (i) applies.
 
@@ -48,9 +48,15 @@ source: >-
 
   (C) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41719 committed by an individual or small business concern shall be $5,000 instead of $1,000.
 
-  (D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
+  (D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary of Transportation by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
 
 (6) **Failure To 22 So in original. Probably should not be capitalized. Collect 2 Airport 2 Security 2 Badges 2.—** — Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
+
+(7) **Penalties Relating 2 to Harm 2 to Passengers 2 With 2 Disabilities 2.—**
+
+  (A) *Penalty for bodily harm or damage to wheelchair or other mobility aid.—* — The amount of a civil penalty assessed under this section for a violation of section 41705 that involves damage to a passenger’s wheelchair or other mobility aid or injury to a passenger with a disability may be increased above the otherwise applicable maximum amount under this section for a violation of section 41705 to an amount not to exceed 3 times the maximum penalty otherwise allowed.
+
+  (B) *Each act constitutes separate offense.—* — Notwithstanding paragraph (2), a separate violation of section 41705 occurs for each act of discrimination prohibited by that section.
 
 **(b) Smoke Alarm Device Penalty.—**
 
@@ -84,11 +90,11 @@ source: >-
 
   (D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title](./chapter-463-penalties.md#section-46303) or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary of Transportation under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title](./chapter-463-penalties.md#section-46303) or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator of the Federal Aviation Administration shall give written notice of the finding of a violation and the penalty.
 
-(3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
+(3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator of the Federal Aviation Administration under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
-(4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Secretary of Homeland Security or Administrator initiates if—
+(4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Secretary of Homeland Security or Administrator of the Federal Aviation Administration initiates if—
 
   (A) the amount in controversy is more than—
 
@@ -106,21 +112,21 @@ source: >-
 
 (5)
 
-  (A) The Administrator may issue an order imposing a penalty under this subsection against an individual acting as a pilot, flight engineer, mechanic, or repairman only after advising the individual of the charges or any reason the Administrator relied on for the proposed penalty and providing the individual an opportunity to answer the charges and be heard about why the order shall not be issued.
+  (A) The Administrator of the Federal Aviation Administration may issue an order imposing a penalty under this subsection against an individual acting as a pilot, flight engineer, mechanic, or repairman only after advising the individual of the charges or any reason the Administrator of the Federal Aviation Administration relied on for the proposed penalty and providing the individual an opportunity to answer the charges and be heard about why the order shall not be issued.
 
   (B) An individual acting as a pilot, flight engineer, mechanic, or repairman may appeal an order imposing a penalty under this subsection to the National Transportation Safety Board. After notice and an opportunity for a hearing on the record, the Board shall affirm, modify, or reverse the order. The Board may modify a civil penalty imposed to a suspension or revocation of a certificate.
 
-  (C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+  (C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration but is bound by all validly adopted interpretations of laws and regulations the Administrator of the Federal Aviation Administration carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
 
-  (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator is stayed.
+  (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator of the Federal Aviation Administration is stayed.
 
-(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under [section 46110 of this title](./chapter-461-investigations-and-proceedings.md#section-46110). The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator of the Federal Aviation Administration when the Administrator of the Federal Aviation Administration decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under [section 46110 of this title](./chapter-461-investigations-and-proceedings.md#section-46110). The Administrator of the Federal Aviation Administration shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (7)
 
-  (A) The Administrator may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
+  (A) The Administrator of the Federal Aviation Administration may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
 
-  (B) In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator shall consider only whether—
+  (B) In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator of the Federal Aviation Administration shall consider only whether—
 
     (i) each finding of fact is supported by a preponderance of reliable, probative, and substantial evidence;
 
@@ -138,7 +144,7 @@ source: >-
 
     (iii) judicial review of any order assessing a civil penalty may be obtained only pursuant to [section 46110 of this title](./chapter-461-investigations-and-proceedings.md#section-46110).
 
-(8) The maximum civil penalty the Under Secretary, Administrator, or Board may impose under this subsection is—
+(8) The maximum civil penalty the Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, or Board may impose under this subsection is—
 
   (A) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
 
@@ -148,7 +154,7 @@ source: >-
 
 (9) This subsection applies only to a violation occurring after August 25, 1992.
 
-**(e) Penalty Considerations.—** In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary shall consider—
+**(e) Penalty Considerations.—** In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary of Transportation shall consider—
 
 (1) the nature, circumstances, extent, and gravity of the violation;
 
@@ -162,7 +168,7 @@ source: >-
 
   (A) The Secretary may compromise the amount of a civil penalty imposed for violating—
 
-    (i) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or chapter 451 of this title; or
+    (i) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or chapter 451 of this title; or
 
     (ii) a regulation prescribed or order issued under any provision to which clause (i) of this subparagraph applies.
 
@@ -170,7 +176,7 @@ source: >-
 
 (2) The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
 
-**(g) Judicial Review.—** An order of the Secretary or the Administrator imposing a civil penalty may be reviewed judicially only under [section 46110 of this title](./chapter-461-investigations-and-proceedings.md#section-46110).
+**(g) Judicial Review.—** An order of the Secretary or the Administrator of the Federal Aviation Administration imposing a civil penalty may be reviewed judicially only under [section 46110 of this title](./chapter-461-investigations-and-proceedings.md#section-46110).
 
 **(h) Nonapplication.—**
 
@@ -180,7 +186,7 @@ source: >-
 
   (B) a civilian employee of the Department of Defense subject to the Uniform Code of Military Justice.
 
-(2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
+(2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) a timely report on action taken.
 
 **(i) Small Business Concern Defined.—** In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
 
@@ -269,6 +275,32 @@ The date of enactment of this paragraph, referred to in subsec. (a)(6), is the d
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (d)(4)(A), (8), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–254, § 372(e)(1), inserted “chapter 448,” after “chapter 447 (except sections 44717 and 44719–44723),”.
+
+Subsec. (a)(5)(A)(i). Pub. L. 115–254, § 1991(g)(1)(A)(i), substituted “chapter 451” for “or chapter 451”.
+
+Pub. L. 115–254, § 372(e)(2), inserted “chapter 448,” after “chapter 447 (except sections 44717–44723),”.
+
+Subsec. (a)(5)(D). Pub. L. 115–254, § 1991(g)(1)(A)(ii), inserted “of Transportation” after “Secretary”.
+
+Subsec. (a)(7). Pub. L. 115–254, § 436, added par. (7).
+
+Subsec. (d)(2). Pub. L. 115–254, § 1991(g)(1)(B)(i), substituted “defined by the Secretary of Transportation” for “defined by the Secretary” and “Administrator of the Federal Aviation Administration shall” for “Administrator shall”.
+
+Pub. L. 115–254, § 372(e)(3), inserted “chapter 448,” after “chapter 447 (except sections 44717 and 44719–44723),”.
+
+Subsec. (d)(3) to (7). Pub. L. 115–254, § 1991(g)(1)(B)(ii), substituted “Administrator of the Federal Aviation Administration” for “Administrator” wherever appearing.
+
+Subsec. (d)(8). Pub. L. 115–254, § 1991(g)(1)(B)(ii), (iii), substituted “Administrator of the Transportation Security Administration” for “Under Secretary” and “Administrator of the Federal Aviation Administration” for “Administrator” in introductory provisions.
+
+Subsec. (e). Pub. L. 115–254, § 1991(g)(1)(C), inserted “of Transportation” after “Secretary” in introductory provisions.
+
+Subsec. (f)(1)(A)(i). Pub. L. 115–254, § 372(e)(4), inserted “chapter 448,” after “chapter 447 (except sections 44717 and 44719–44723),”.
+
+Subsec. (g). Pub. L. 115–254, § 1991(g)(1)(D), substituted “Administrator of the Federal Aviation Administration” for “Administrator”.
+
+Subsec. (h)(2). Pub. L. 115–254, § 1991(g)(1)(E), substituted “Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration” for “Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator”.
+
 2016—Subsec. (d)(2). Pub. L. 114–190 inserted “section 46320,” after “section 46319,”.
 
 2014—Subsec. (d)(2). Pub. L. 113–188 substituted “section 47107(k)” for “section 47107(l)”.
@@ -462,9 +494,6 @@ Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see sec
 #### Savings Provision
 Pub. L. 102–345, § 2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 [Pub. L. 85–726] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
 
-#### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
 #### Laser Pointer Incidents
 Pub. L. 114–190, title II, § 2104, July 15, 2016, 130 Stat. 620, provided that: “(a) In General.—Beginning 90 days after the date of enactment of this Act [July 15, 2016], the Administrator of the Federal Aviation Administration, in coordination with appropriate Federal law enforcement agencies, shall provide quarterly updates to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] regarding—“(1) the number of incidents involving the beam from a laser pointer (as defined in [section 39A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section39A&num=0&edition=prelim), United States Code) being aimed at, or in the flight path of, an aircraft in the airspace jurisdiction of the United States; “(2) the number of civil or criminal enforcement actions taken by the Federal Aviation Administration, the Department of Transportation, or another Federal agency with regard to the incidents described in paragraph (1), including the amount of the civil or criminal penalties imposed on violators; “(3) the resolution of any incidents described in paragraph (1) that did not result in a civil or criminal enforcement action; and “(4) any actions the Department of Transportation or another Federal agency has taken on its own, or in conjunction with other Federal agencies or local law enforcement agencies, to deter the type of activity described in paragraph (1). “(b) Civil Penalties.—The Administrator shall revise the maximum civil penalty that may be imposed on an individual who aims the beam of a laser pointer at an aircraft in the airspace jurisdiction of the United States, or at the flight path of such an aircraft, to be $25,000.”
 
@@ -544,7 +573,7 @@ Subsec. (c)(2). Pub. L. 108–458, § 4027(c)(2), substituted “Secretary of Ho
 ## § 46304. Liens on aircraft
 **(a) Aircraft Subject to Liens.—** When an aircraft is involved in a violation referred to in section 46301(a)(1)(A)–(C) of this title and the violation is by the owner of, or individual commanding, the aircraft, the aircraft is subject to a lien for the civil penalty.
 
-**(b) Seizure.—** An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator). A report on the seizure shall be submitted to the Attorney General. The Attorney General promptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
+**(b) Seizure.—** An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration). A report on the seizure shall be submitted to the Attorney General. The Attorney General promptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
 
 **(c) Release.—** An aircraft seized under subsection (b) of this section shall be released from custody when—
 
@@ -580,6 +609,8 @@ In subsection (b), the words “report on the seizure” are substituted for “
 In subsection (c)(3), the words “under a civil action in rem” are substituted for “in pursuance of process of any court in proceedings in rem” to eliminate unnecessary words and for consistency.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–254 substituted “or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration” for “or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator”.
+
 2003—Subsec. (a). Pub. L. 108–176 struck out “, (2), or (3)” after “section 46301(a)(1)(A)–(C)”.
 
 #### Effective Date of 2003 Amendment
@@ -840,19 +871,19 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 <a id="section-46311"></a>
 ## § 46311. Unlawful disclosure of information
-**(a) Criminal Penalty.—** The Secretary of Transportation, the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary, the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator, or an officer or employee of the Secretary, Under Secretary, or Administrator shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Under Secretary, Administrator, officer, or employee knowingly and willfully discloses information that—
+**(a) Criminal Penalty.—** The Secretary of Transportation, the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration, or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration, or an officer or employee of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, officer, or employee knowingly and willfully discloses information that—
 
-(1) the Secretary, Under Secretary, Administrator, officer, or employee acquires when inspecting the records of an air carrier; or
+(1) the Secretary, Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, officer, or employee acquires when inspecting the records of an air carrier; or
 
 (2) is withheld from public disclosure under [section 40115 of this title](./chapter-401-general-provisions.md#section-40115).
 
 **(b) Nonapplication.—** Subsection (a) of this section does not apply if—
 
-(1) the officer or employee is directed by the Secretary, Under Secretary, or Administrator to disclose information that the Secretary, Under Secretary, or Administrator had ordered withheld; or
+(1) the officer or employee is directed by the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration to disclose information that the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration had ordered withheld; or
 
-(2) the Secretary, Under Secretary, Administrator, officer, or employee is directed by a court of competent jurisdiction to disclose the information.
+(2) the Secretary, Administrator of the Transportation Security Administration, Administrator of the Federal Aviation Administration, officer, or employee is directed by a court of competent jurisdiction to disclose the information.
 
-**(c) Withholding Information From Congress.—** This section does not authorize the Secretary, Under Secretary, or Administrator to withhold information from a committee of Congress authorized to have the information.
+**(c) Withholding Information From Congress.—** This section does not authorize the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration to withhold information from a committee of Congress authorized to have the information.
 
 ### Statutory Notes
 
@@ -875,6 +906,14 @@ In subsection (b)(2), the words “or a judge thereof” are omitted as surplus.
 In subsection (c), the word “duly” is omitted as surplus.
 
 #### Amendments
+2018—Pub. L. 115–254, § 1991(g)(3)(C), substituted “Administrator of the Transportation Security Administration” for “Under Secretary” wherever appearing.
+
+Subsec. (a). Pub. L. 115–254, § 1991(g)(3)(A)(i), in introductory provisions, substituted “Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration, or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration” for “Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary, the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator”, “Administrator of the Federal Aviation Administration shall” for “Administrator shall”, and “Administrator of the Federal Aviation Administration,” for “Administrator,”.
+
+Subsec. (a)(1). Pub. L. 115–254, § 1991(g)(3)(A)(ii), substituted “Administrator of the Federal Aviation Administration” for “Administrator”.
+
+Subsecs. (b), (c). Pub. L. 115–254, § 1991(g)(3)(B), substituted “Administrator of the Federal Aviation Administration” for “Administrator” wherever appearing.
+
 2001—Subsec. (a). Pub. L. 107–71, § 140(d)(6), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary,” after “Transportation,” and “Under Secretary,” after “Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
 Subsec. (a)(1). Pub. L. 107–71, § 140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
@@ -884,9 +923,6 @@ Subsec. (b)(1). Pub. L. 107–71, § 140(d)(6)(C), substituted “, Under Secret
 Subsec. (b)(2). Pub. L. 107–71, § 140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
 
 Subsec. (c). Pub. L. 107–71, § 140(d)(6)(C), substituted “, Under Secretary, or Administrator” for “or Administrator”.
-
-#### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
 <a id="section-46312"></a>
@@ -922,7 +958,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 <a id="section-46313"></a>
 ## § 46313. Refusing to appear or produce records
 
-A person not obeying a subpena or requirement of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
+A person not obeying a subpoena or requirement of the Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
 
 ### Statutory Notes
 
@@ -936,10 +972,9 @@ A person not obeying a subpena or requirement of the Secretary of Transportation
 The word “Administrator” in section 902(g) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 785) is retained on authority of 49:106(g). The words “not obeying” are substituted for “who shall neglect or refuse . . . or to answer any lawful inquiry . . . in obedience to” to eliminate surplus words. The word “lawful” is omitted as surplus. The word “appear” is substituted for “attend” for clarity. The word “records” is substituted for “books, papers, or documents” for consistency in the revised title and with other titles of the United States Code. The words “if in his power to do so” are omitted as surplus. The words “shall be guilty of a misdemeanor” are omitted for consistency with title 18. The words “and, upon conviction thereof” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not less than $100 nor more than $5,000” for consistency with title 18.
 
 #### Amendments
-2001—Pub. L. 107–71 inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+2018—Pub. L. 115–254 substituted “subpoena” for “subpena” and “Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration” for “Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator”.
 
-#### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+2001—Pub. L. 107–71 inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 
 <a id="section-46314"></a>
@@ -1006,7 +1041,7 @@ In subsection (b), before clause (1), the words “fined under title 18” are s
 
 <a id="section-46316"></a>
 ## § 46316. General criminal penalty when specific penalty not provided
-**(a) Criminal Penalty.—** Except as provided by subsection (b) of this section, when another criminal penalty is not provided under this chapter, a person that knowingly and willfully violates this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) under this part, or any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title shall be fined under title 18. A separate violation occurs for each day the violation continues.
+**(a) Criminal Penalty.—** Except as provided by subsection (b) of this section, when another criminal penalty is not provided under this chapter, a person that knowingly and willfully violates this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) under this part, or any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title shall be fined under title 18. A separate violation occurs for each day the violation continues.
 
 **(b) Nonapplication.—** Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
 
@@ -1028,6 +1063,8 @@ In subsection (b), reference to 49 App.:ch. 20, subch. VII is omitted as unneces
 This amends 49:46316(b) to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254 substituted “Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration” for “Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator”.
+
 2001—Subsec. (a). Pub. L. 107–71 inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 1997—Subsec. (b). Pub. L. 105–102 amended directory language of Pub. L. 104–287. See 1996 Amendment note below.
@@ -1074,7 +1111,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 <a id="section-46318"></a>
 ## § 46318. Interference with cabin or flight crew
-**(a) General Rule.—** An individual who physically assaults or threatens to physically assault a member of the flight crew or cabin crew of a civil aircraft or any other individual on the aircraft, or takes any action that poses an imminent threat to the safety of the aircraft or other individuals on the aircraft is liable to the United States Government for a civil penalty of not more than $25,000.
+**(a) General Rule.—** An individual who physically or sexually assaults or threatens to physically or sexually assault a member of the flight crew or cabin crew of a civil aircraft or any other individual on the aircraft, or takes any action that poses an imminent threat to the safety of the aircraft or other individuals on the aircraft is liable to the United States Government for a civil penalty of not more than $35,000.
 
 **(b) Compromise and Setoff.—**
 
@@ -1083,6 +1120,9 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 (2) **Setoff.—** — The United States Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts the Government owes the person liable for the penalty.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–254 inserted “or sexually” after “physically” in two places and substituted “$35,000” for “$25,000”.
 
 #### Effective Date
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under [section 106 of this title](./chapter-001-organization.md#section-106).

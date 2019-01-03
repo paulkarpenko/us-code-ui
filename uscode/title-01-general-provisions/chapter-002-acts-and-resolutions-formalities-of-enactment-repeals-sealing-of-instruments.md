@@ -211,6 +211,9 @@ The Archivist of the United States shall cause to be compiled, edited, indexed, 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2102&num=0&edition=prelim), Public Printing and Documents.
 
+#### Publishing Pub. L. 115–141 in Statutes at Large
+Pub. L. 115–141, div. G, title I, § 121(c), Mar. 23, 2018, 132 Stat. 662, provided that: “In publishing this Act in slip form and in the United States Statutes at large pursuant to [section 112 of title 1](./chapter-002-acts-and-resolutions-formalities-of-enactment-repeals-sealing-of-instruments.md#section-112), United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the sections of the bill and the bills referred to in subsections (a) [enacting into law from the 115th Congress sections 7130 and 7134 of S. 1460, as placed on the calendar of the Senate on June 29, 2017] and (b) [enacting into law from the 115th Congress H.R. 1281, as introduced on Mar. 1, 2017, and H.R. 4134, as introduced on Oct. 25, 2017], respectively.”
+
 #### Publishing Pub. L. 115–31 in Statutes at Large
 Pub. L. 115–31, div. G, title IV, § 431(b), May 5, 2017, 131 Stat. 502, provided that: “In publishing this Act in slip form and in the United States Statutes at Large pursuant to [section 112 of title 1](./chapter-002-acts-and-resolutions-formalities-of-enactment-repeals-sealing-of-instruments.md#section-112), United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bills referred to in subsection (a) [enacting into law from the 115th Congress H.R. 2104, as introduced on Apr. 20, 2017; S. 131, as ordered to be reported on Mar. 30, 2017, by the Committee on Energy and Natural Resources of the Senate; and S. 847, as introduced on Apr. 5, 2017].”
 
@@ -306,14 +309,14 @@ Copies of United States Treaties and Other International Agreements not availabl
 
     (i) A bilateral or multilateral counterterrorism agreement.
 
-    (ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)),11 See References in Text note below. section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim)), or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim)).
+    (ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) 11 See References in Text note below. of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim)), or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim)).
 
 **(f)** The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
 ### Statutory Notes
 
 #### References in Text
-Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j)(1)(A) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim).
+Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), which was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j)(1)(A) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
 2004—Subsec. (a). Pub. L. 108–458, § 7121(b), substituted “Committee on International Relations” for “Committee on Foreign Affairs”.

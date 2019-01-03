@@ -758,7 +758,7 @@ Subsec. (d). Pub. L. 99–592, § 6(a), (b), temporarily added subsec. (d) which
 
 1984—Subsec. (c)(1). Pub. L. 98–459 substituted “$44,000” for “$27,000”.
 
-Pub. L. 95–256, § 3(a), designated existing provisions as subsec. (a), substituted “40 years of age but less than 70 years of age” for “forty years of age but less than sixty-five years of age”, added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
+1978—Pub. L. 95–256, § 3(a), designated existing provisions as subsec. (a), substituted “40 years of age but less than 70 years of age” for “forty years of age but less than sixty-five years of age”, added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under [section 162 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section162&num=0&edition=prelim), Internal Revenue Code.

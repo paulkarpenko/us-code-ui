@@ -2,7 +2,7 @@
 title: 21
 chapter: '9'
 heading: 'FEDERAL FOOD, DRUG, AND COSMETIC ACT'
-section_count: 269
+section_count: 277
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21&num=0&edition=prelim
 ---
@@ -18,6 +18,34 @@ Act June 23, 1939, ch. 242, §§ 1, 2, 53 Stat. 853, 854, provided that: “[Sec
 
 #### Effective Date
 Act June 25, 1938, ch. 675, § 1002(a), formerly § 902(a), 52 Stat. 1059; renumbered § 1002(a), Pub. L. 111–31, div. A, title I, § 101(b)(2), June 22, 2009, 123 Stat. 1784, provided that: “This Act [enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title], shall take effect twelve months after the date of its enactment [June 25, 1938]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: Provided, That the provisions of section 701 [[section 371 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-371)] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) [[section 343(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/i&num=0&edition=prelim)] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 [[section 341 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-341)]: Provided further, That sections 502(j), 505, and 601(a) [sections 352(j), 355, 361(a), respectively of this title], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) [[section 361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section361/a&num=0&edition=prelim)], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: Provided further, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 [[section 321a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321a)]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 [[section 321b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321b)]; 41 Stat. 271, ch. 26], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a [[section 372a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-372a)]) shall remain in force and effect and be applicable to the provisions of this Act.”
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–271, § 1(a), Oct. 24, 2018, 132 Stat. 3894, provided that: “This Act [see Tables for classification] may be cited as the ‘Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act’ or the ‘SUPPORT for Patients and Communities Act’.”
+
+Pub. L. 115–271, title III, § 3011, Oct. 24, 2018, 132 Stat. 3935, provided that: “This chapter [chapter 2 (§§ 3011–3014) of subtitle A of title III of Pub. L. 115–271, enacting sections 360bbb–8d and 384f of this title, amending sections 331 and 381 of this title, and enacting provisions set out as a note under [section 331 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-331)] may be cited as the ‘Stop Counterfeit Drugs by Regulating and Enhancing Enforcement Now Act’ or the ‘SCREEN Act’.”
+
+Pub. L. 115–271, title III, § 3021, Oct. 24, 2018, 132 Stat. 3938, provided that: “This chapter [chapter 3 (§§ 3021, 3022) of subtitle A of title III of Pub. L. 115–271, enacting [section 384g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384g) and amending sections 331, 335a, and 381 of this title] may be cited as the ‘Stop Illicit Drug Importation Act of 2018’.”
+
+Pub. L. 115–271, title III, § 3031, Oct. 24, 2018, 132 Stat. 3940, provided that: “This chapter [chapter 4 (§§ 3031, 3032) of subtitle A of title III of Pub. L. 115–271, amending [section 355–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355-1)] may be cited as the ‘Securing Opioids and Unused Narcotics with Deliberate Disposal and Packaging Act of 2018’ or the ‘SOUND Disposal and Packaging Act’.”
+
+Pub. L. 115–234, § 1, Aug. 14, 2018, 132 Stat. 2427, provided that: “This Act [amending sections 348, 352, 360b, 360ccc, 360ccc–1, 379j–11 to 379j–13, 379–21, 379j–22, and 2102 of this title, enacting provisions set out as notes under this section and sections 348, 352, 360b, 360ccc–1, 379j–11 to 379j–13, 379j–21, and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–12, 379j–13, 379j–21, and 379j–22 of this title] may be cited as the ‘Animal Drug and Animal Generic Drug User Fee Amendments of 2018’.”
+
+Pub. L. 115–234, title I, § 101(a), Aug. 14, 2018, 132 Stat. 2428, provided that: “This title [amending sections 379j–11 to 379j–13 of this title, enacting provisions set out as notes under sections 379j–11 to 379j–13 of this title, and repealing provisions set out as notes under sections 379j–12 and 379j–13 of this title] may be cited as the ‘Animal Drug User Fee Amendments of 2018’.”
+
+Pub. L. 115–234, title II, § 201(a), Aug. 14, 2018, 132 Stat. 2432, provided that: “This title [amending sections 379j–21 and 379j–22 of this title, enacting provisions set out as notes under sections 379j–21 and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–21 and 379j–22 of this title] may be cited as the ‘Animal Generic Drug User Fee Amendments of 2018’.”
+
+Pub. L. 115–176, § 1, May 30, 2018, 132 Stat. 1372, provided that: “This Act [enacting [section 360bbb–0a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-0a) and provisions set out as a note under [section 360bbb–0a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-0a)] may be cited as the ‘Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017’.”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–52, § 1, Aug. 18, 2017, 131 Stat. 1005, provided that: “This Act [see Tables for classification] may be cited as the ‘FDA Reauthorization Act of 2017’.”
+
+Pub. L. 115–52, title I, § 101(a), Aug. 18, 2017, 131 Stat. 1006, provided that: “This title [amending sections 379h, 379h–2, and 379j–12 of this title, enacting provisions set out as notes under sections 379g and 379h–2 of this title, and repealing provisions set out as notes under sections 379g and 379h–2 of this title] may be cited as the ‘Prescription Drug User Fee Amendments of 2017’.”
+
+Pub. L. 115–52, title II, § 201(a), Aug. 18, 2017, 131 Stat. 1013, provided that: “This title [amending sections 360d, 360e, 360m, 379d–3, 379i, 379j, 379j–1, and 379k–1 of this title, enacting provisions set out as notes under sections 379i and 379j–1 of this title, and repealing provisions set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i)] may be cited as the ‘Medical Device User Fee Amendments of 2017’.”
+
+Pub. L. 115–52, title III, § 301(a), Aug. 18, 2017, 131 Stat. 1020, provided that: “This title [amending sections 379j–41 to 379j–43 of this title, enacting provisions set out as notes under sections 379j–41 and 379j–43 of this title, and repealing provisions set out as notes under sections 379j–41 and 379j–43 of this title] may be cited as the ‘Generic Drug User Fee Amendments of 2017’.”
+
+Pub. L. 115–52, title IV, § 401(a), Aug. 18, 2017, 131 Stat. 1028, provided that: “This title [amending sections 379j–51 to 379j–53 of this title, enacting provisions set out as notes under sections 379j–51 and 379j–53 of this title, and repealing provisions set out as notes under sections 379j–51 and 379j–53 of this title] may be cited as the ‘Biosimilar User Fee Amendments of 2017’.”
 
 #### Short Title of 2016 Amendment
 Pub. L. 114–229, § 1, Sept. 30, 2016, 130 Stat. 943, provided that: “This Act [amending [section 360ff of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ff) and enacting provisions set out as a note under [section 360ff of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ff)] may be cited as the ‘Advancing Hope Act of 2016’.”
@@ -515,7 +543,7 @@ The Meat Inspection Act of March 4, 1907, as amended and extended, referred to i
 Section 101(4) of the Food and Drug Administration Modernization Act of 1997, referred to in par. (kk), is section 101(4) of Pub. L. 105–115, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Amendments
-2016—Subsec. (h). Pub. L. 114–255 inserted at end of concluding provisions “The term ‘device’ does not include software functions excluded pursuant to section 360j(o) of this title.”
+2016—Par. (h). Pub. L. 114–255 inserted at end of concluding provisions “The term ‘device’ does not include software functions excluded pursuant to section 360j(o) of this title.”
 
 2009—Par. (rr). Pub. L. 111–31 added par. (rr).
 
@@ -880,7 +908,7 @@ The following acts and the causing thereof are prohibited:
 
 **(bb)** The transfer of an article of food in violation of an order under [section 334(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section334/h&num=0&edition=prelim), or the removal or alteration of any mark or label required by the order to identify the article as detained.
 
-**(cc)** The importing or offering for import into the United States of an article of food by, with the assistance of, or at the direction of, a person debarred under [section 335a(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section335a/b/3&num=0&edition=prelim).
+**(cc)** The importing or offering for import into the United States of an article of food or a drug by, with the assistance of, or at the direction of, a person debarred from such activity under [section 335a(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section335a/b/3&num=0&edition=prelim).
 
 **(dd)** The failure to register in accordance with [section 350d of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-350d).
 
@@ -993,6 +1021,8 @@ including any such statement or representation rendering the product misbranded 
 
   (B) the term “rinse-off cosmetic” includes toothpaste.
 
+**(eee)** The failure to comply with any order issued under [section 360bbb–8d of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-8d).
+
 ### Statutory Notes
 
 #### References in Text
@@ -1004,6 +1034,10 @@ including any such statement or representation rendering the product misbranded 
 For information regarding constitutionality of certain provisions of section 301 of act June 25, 1938, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+2018—Par. (cc). Pub. L. 115–271, § 3022(b)(1), inserted “or a drug” after “food” and “from such activity” after “person debarred”.
+
+Par. (eee). Pub. L. 115–271, § 3012(a), added par. (eee).
+
 2016—Subsec. (r). Pub. L. 114–255 inserted “, drug,” after “device” in two places.
 
 2015—Par. (ddd). Pub. L. 114–114 added par. (ddd).
@@ -1206,6 +1240,9 @@ Par. (j). Pub. L. 86–618, § 104, inserted reference to [section 376 of this t
 
 1941—Par. (i). Act Dec. 22, 1941, inserted reference to [section 356 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356).
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–271, title III, § 3012(d), Oct. 24, 2018, 132 Stat. 3936, provided that: “Sections 301(eee) [[21 U.S.C. 331(eee)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/eee&num=0&edition=prelim)] and 569D [[21 U.S.C. 360bbb–8d](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-8d)] of the Federal Food, Drug, and Cosmetic Act, as added by subsections (a) and (b), shall be effective beginning on the date of enactment of this Act [Oct. 24, 2018].”
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–114, § 2(b), Dec. 28, 2015, 129 Stat. 3129, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] applies—“(A) with respect to manufacturing, beginning on July 1, 2017, and with respect to introduction or delivery for introduction into interstate commerce, beginning on July 1, 2018; and “(B) notwithstanding subparagraph (A), in the case of a rinse-off cosmetic that is a nonprescription drug, with respect to manufacturing, beginning on July 1, 2018, and with respect to the introduction or delivery for introduction into interstate commerce, beginning on July 1, 2019. “(2) Nonprescription drug.—For purposes of this subsection, the term ‘nonprescription drug’ means a drug not subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim)).”
 
@@ -1375,6 +1412,8 @@ Pub. L. 87–781, title II, § 203, Oct. 10, 1962, 76 Stat. 793, provided that: 
 
 (7) Notwithstanding subsection (a)(2), any person that knowingly and intentionally adulterates a drug such that the drug is adulterated under subsection (a)(1), (b), (c), or (d) of [section 351 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-351) and has a reasonable probability of causing serious adverse health consequences or death to humans or animals shall be imprisoned for not more than 20 years or fined not more than $1,000,000, or both.
 
+(8) Notwithstanding subsection (a), any person who violates [section 331(i)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/i/3&num=0&edition=prelim) by knowingly making, selling or dispensing, or holding for sale or dispensing, a counterfeit drug shall be imprisoned for not more than 10 years or fined in accordance with title 18, or both.
+
 **(c) Exceptions in certain cases of good faith, etc.** No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of [section 331(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/a&num=0&edition=prelim), that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of [section 331(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/d&num=0&edition=prelim), that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated [section 331(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/a&num=0&edition=prelim), where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with [section 352(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section352/f&num=0&edition=prelim) in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated [section 331(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/i/2&num=0&edition=prelim) if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated [section 331(i)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/i/3&num=0&edition=prelim) if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
 
 **(d) Exceptions involving misbranded food** No person shall be subject to the penalties of subsection (a)(1) of this section for a violation of [section 331 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-331) involving misbranded food if the violation exists solely because the food is misbranded under [section 343(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/a/2&num=0&edition=prelim) because of its advertising.
@@ -1527,6 +1566,8 @@ The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub
 [Section 353c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353c), referred to in subsec. (g)(3)(B), was in the original a reference to section 503B of act June 25, 1938, and was translated as if it referred to section 503C of that Act, to reflect the probable intent of Congress and the renumbering of section 503B as 503C by Pub. L. 113–54, title I, § 102(a)(1), Nov. 27, 2013, 127 Stat. 587, and its transfer to [section 353c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353c). A new section 503B, which was enacted by section 102(a)(2) of Pub. L. 113–54, is classified to [section 353b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-353b) and does not relate to television advertisements.
 
 #### Amendments
+2017—Subsec. (b)(8). Pub. L. 115–52 added par. (8).
+
 2013—Subsec. (b)(1)(D). Pub. L. 113–54 substituted “353(e)(1)” for “353(e)(2)(A)”.
 
 2012—Subsec. (b)(7). Pub. L. 112–144 added par. (7).
@@ -1911,13 +1952,15 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 **(b) Permissive debarment; certain drug applications; food imports**
 
-(1) **In general** — The Secretary, on the Secretary’s own initiative or in response to a petition, may, in accordance with paragraph (2), debar—
+(1) **In general** — The Secretary, on the Secretary’s own initiative or in response to a petition, may, in accordance with paragraph (2) or (3), debar—
 
-  (A) a person other than an individual from submitting or assisting in the submission of any abbreviated drug application,
+  (A) a person other than an individual from submitting or assisting in the submission of any abbreviated drug application;
 
-  (B) an individual from providing services in any capacity to a person that has an approved or pending drug product application, or
+  (B) an individual from providing services in any capacity to a person that has an approved or pending drug product application;
 
-  (C) a person from importing an article of food or offering such an article for import into the United States.
+  (C) a person from importing an article of food or offering such an article for import into the United States; or
+
+  (D) a person from importing or offering for import into the United States a drug.
 
 (2) **Persons subject to permissive debarment; certain drug applications** — The following persons are subject to debarment under subparagraph (A) or (B) of paragraph (1):
 
@@ -1960,13 +2003,27 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
       (IV) did not report such actions, or did not cause such actions to be reported, to an officer, employee, or agent of the Department or to an appropriate law enforcement officer, or failed to take other appropriate action that would have ensured that the process for the regulation of drugs was not undermined, within a reasonable time after such agent first knew of such actions,
       if the Secretary finds that the type of conduct which served as the basis for such other individual’s conviction undermines the process for the regulation of drugs.
 
-(3) **Persons subject to permissive debarment; food importation** — A person is subject to debarment under paragraph (1)(C) if—
+(3) **Persons subject to permissive debarment; food or drug importation** — A person is subject to debarment under paragraph (1)(C) if—
 
-  (A) the person has been convicted of a felony for conduct relating to the importation into the United States of any food; or
+  (A) the person has been convicted of a felony for conduct relating to the importation into the United States of any food;
 
-  (B) the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals.
+  (B) the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals;
+
+  (C) the person has been convicted of a felony for conduct relating to the importation into the United States of any drug or controlled substance (as defined in [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802));
+
+  (D) the person has engaged in a pattern of importing or offering for import—
+
+    (i) controlled substances that are prohibited from importation under [section 1401(m) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1401/m&num=0&edition=prelim); or
+
+    (ii) adulterated or misbranded drugs that are—
+
+      (I) not designated in an authorized electronic data interchange system as a product that is regulated by the Secretary; or
+
+      (II) knowingly or intentionally falsely designated in an authorized electronic data interchange system as a product that is regulated by the Secretary.
 
 (4) **Stay of certain orders** — An order of the Secretary under clause (iii) or (iv) of paragraph (2)(B) shall not take effect until 30 days after the order has been issued.
+
+(5) **Definition** — For purposes of paragraph (3)(D), the term “pattern of importing or offering for import” means importing or offering for import a drug described in clause (i) or (ii) of paragraph (3)(D) in an amount, frequency, or dosage that is inconsistent with personal or household use by the importer.
 
 **(c) Debarment period and considerations**
 
@@ -2168,6 +2225,16 @@ The Secretary shall act on a submission of a petition under this subsection with
 A prior section 306 of act June 25, 1938, was renumbered section 309 and is classified to [section 336 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-336).
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–271, § 3022(b)(2)(A)(i), inserted “or (3)” after “paragraph (2)” in introductory provisions.
+
+Subsec. (b)(1)(D). Pub. L. 115–271, § 3022(b)(2)(A)(ii)–(v), added subpar. (D).
+
+Subsec. (b)(3). Pub. L. 115–271, § 3022(b)(2)(B)(i), inserted “or drug” after “food” in heading.
+
+Subsec. (b)(3)(C), (D). Pub. L. 115–271, § 3022(b)(2)(B)(ii)–(iv), added subpars. (C) and (D).
+
+Subsec. (b)(5). Pub. L. 115–271, § 3022(b)(2)(C), added par. (5).
+
 2002—Subsec. (a). Pub. L. 107–188, § 304(b)(1), substituted “Mandatory debarment; certain drug applications” for “Mandatory debarment” in heading.
 
 Subsec. (b). Pub. L. 107–188, § 304(b)(2)(A), substituted “Permissive debarment; certain drug applications; food imports” for “Permissive debarment” in heading.
@@ -3183,9 +3250,6 @@ Nothing in amendment by Pub. L. 107–188 to be construed to limit authority of 
 #### Construction of Amendments by Pub. L. 101–535
 Pub. L. 101–535, § 9, Nov. 8, 1990, 104 Stat. 2365, provided that: “The amendments made by this Act [enacting [section 343–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-343-1) and amending this section and sections 321, 337, 345, and 371 of this title] shall not be construed to alter the authority of the Secretary of Health and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.], the Federal Meat Inspection Act [[21 U.S.C. 601](./chapter-012-meat-inspection.md#section-601) et seq.], the Poultry Products Inspection Act [[21 U.S.C. 451](./chapter-010-poultry-and-poultry-products-inspection.md#section-451) et seq.], and the Egg Products Inspection Act [[21 U.S.C. 1031](./chapter-015-egg-products-inspection.md#section-1031) et seq.].”
 
-#### Findings
-Pub. L. 108–282, title II, § 202, Aug. 2, 2004, 118 Stat. 905, provided that: “Congress finds that— “(1) it is estimated that—“(A) approximately 2 percent of adults and about 5 percent of infants and young children in the United States suffer from food allergies; and “(B) each year, roughly 30,000 individuals require emergency room treatment and 150 individuals die because of allergic reactions to food; “(2)(A) eight major foods or food groups—milk, eggs, fish, Crustacean shellfish, tree nuts, peanuts, wheat, and soybeans—account for 90 percent of food allergies; “(B) at present, there is no cure for food allergies; and “(C) a food allergic consumer must avoid the food to which the consumer is allergic; “(3)(A) in a review of the foods of randomly selected manufacturers of baked goods, ice cream, and candy in Minnesota and Wisconsin in 1999, the Food and Drug Administration found that 25 percent of sampled foods failed to list peanuts or eggs as ingredients on the food labels; and “(B) nationally, the number of recalls because of unlabeled allergens rose to 121 in 2000 from about 35 a decade earlier; “(4) a recent study shows that many parents of children with a food allergy were unable to correctly identify in each of several food labels the ingredients derived from major food allergens; “(5)(A) ingredients in foods must be listed by their ‘common or usual name’; “(B) in some cases, the common or usual name of an ingredient may be unfamiliar to consumers, and many consumers may not realize the ingredient is derived from, or contains, a major food allergen; and “(C) in other cases, the ingredients may be declared as a class, including spices, flavorings, and certain colorings, or are exempt from the ingredient labeling requirements, such as incidental additives; and “(6)(A) celiac disease is an immune-mediated disease that causes damage to the gastrointestinal tract, central nervous system, and other organs; “(B) the current recommended treatment is avoidance of glutens in foods that are associated with celiac disease; and “(C) a multicenter, multiyear study estimated that the prevalence of celiac disease in the United States is 0.5 to 1 percent of the general population.”
-
 #### Regulations
 Pub. L. 101–535, § 2(b), Nov. 8, 1990, 104 Stat. 2356, as amended by Pub. L. 102–571, title II, § 202(a)(2)(A), (B), Oct. 29, 1992, 106 Stat. 4500, 4501, provided that: “(1) The Secretary of Health and Human Services shall issue proposed regulations to implement section 403(q) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 343(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/q&num=0&edition=prelim)] within 12 months after the date of the enactment of this Act [Nov. 8, 1990], except that the Secretary shall issue, not later than June 15, 1993, proposed regulations that are applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances to implement such section. Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement the requirements of such section, except that the Secretary shall issue, not later than December 31, 1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..[sic] Such regulations shall—“(A) require the required information to be conveyed to the public in a manner which enables the public to readily observe and comprehend such information and to understand its relative significance in the context of a total daily diet, “(B) include regulations which establish standards, in accordance with paragraph (1)(A), to define serving size or other unit of measure for food, “(C) permit the label or labeling of food to include nutrition information which is in addition to the information required by such section 403(q) and which is of the type described in subparagraph (1) or (2) of such section, and “(D) permit the nutrition information on the label or labeling of a food to remain the same or permit the information to be stated as a range even though (i) there are minor variations in the nutritional value of the food which occur in the normal course of the production or processing of the food, or (ii) the food is comprised of an assortment of similar foods which have variations in nutritional value. “(2) If the Secretary of Health and Human Services does not promulgate final regulations under paragraph (1) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of new status of the proposed regulations [see 57 F.R. 56347]. “(3) If the Secretary of Health and Human Services does not promulgate final regulations under section 403(q)(4) of the Federal Food, Drug, and Cosmetic Act upon the expiration of 6 months after the date on which the Secretary makes a finding that there has been no substantial compliance with section 403(q)(4)(C) of such Act, the proposed regulations issued in accordance with such section shall be considered as the final regulations upon the expiration of such 6 months. There shall be promptly published in the Federal Register notice of new status of the proposed regulations.”
 
@@ -3197,6 +3261,12 @@ Pub. L. 101–535, § 3(b), Nov. 8, 1990, 104 Stat. 2360, as amended by Pub. L. 
 
 #### Transfer of Functions
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare [now Health and Human Services], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
+
+#### Labeling Exemption for Single Ingredient Foods and Products
+Pub. L. 115–334, title XII, § 12516, Dec. 20, 2018, 132 Stat. 5000, provided that: “The food labeling requirements under section 403(q) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 343(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/q&num=0&edition=prelim)) shall not require that the nutrition facts label of any single-ingredient sugar, honey, agave, or syrup, including maple syrup, that is packaged and offered for sale as a single-ingredient food bear the declaration ‘Includes X g Added Sugars.’.”
+
+#### Findings
+Pub. L. 108–282, title II, § 202, Aug. 2, 2004, 118 Stat. 905, provided that: “Congress finds that— “(1) it is estimated that—“(A) approximately 2 percent of adults and about 5 percent of infants and young children in the United States suffer from food allergies; and “(B) each year, roughly 30,000 individuals require emergency room treatment and 150 individuals die because of allergic reactions to food; “(2)(A) eight major foods or food groups—milk, eggs, fish, Crustacean shellfish, tree nuts, peanuts, wheat, and soybeans—account for 90 percent of food allergies; “(B) at present, there is no cure for food allergies; and “(C) a food allergic consumer must avoid the food to which the consumer is allergic; “(3)(A) in a review of the foods of randomly selected manufacturers of baked goods, ice cream, and candy in Minnesota and Wisconsin in 1999, the Food and Drug Administration found that 25 percent of sampled foods failed to list peanuts or eggs as ingredients on the food labels; and “(B) nationally, the number of recalls because of unlabeled allergens rose to 121 in 2000 from about 35 a decade earlier; “(4) a recent study shows that many parents of children with a food allergy were unable to correctly identify in each of several food labels the ingredients derived from major food allergens; “(5)(A) ingredients in foods must be listed by their ‘common or usual name’; “(B) in some cases, the common or usual name of an ingredient may be unfamiliar to consumers, and many consumers may not realize the ingredient is derived from, or contains, a major food allergen; and “(C) in other cases, the ingredients may be declared as a class, including spices, flavorings, and certain colorings, or are exempt from the ingredient labeling requirements, such as incidental additives; and “(6)(A) celiac disease is an immune-mediated disease that causes damage to the gastrointestinal tract, central nervous system, and other organs; “(B) the current recommended treatment is avoidance of glutens in foods that are associated with celiac disease; and “(C) a multicenter, multiyear study estimated that the prevalence of celiac disease in the United States is 0.5 to 1 percent of the general population.”
 
 #### Rulemaking on Labeling
 Pub. L. 108–282, title II, § 206, Aug. 2, 2004, 118 Stat. 910, provided that: “Not later than 2 years after the date of enactment of this Act [Aug. 2, 2004], the Secretary of Health and Human Services, in consultation with appropriate experts and stakeholders, shall issue a proposed rule to define, and permit use of, the term ‘gluten-free’ on the labeling of foods. Not later than 4 years after the date of enactment of this Act, the Secretary shall issue a final rule to define, and permit use of, the term ‘gluten-free’ on the labeling of foods.”
@@ -3945,6 +4015,9 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if regulations are necessary for implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of Title 7, Agriculture, and regulations thereunder, relating to control of economic poisons, as in existence prior to Oct. 21, 1972, until superseded by provisions of Pub. L. 92–516 and regulations thereunder, see section 4 of Pub. L. 92–516, set out as an Effective Date note under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim).
 
+#### Extension of Prohibition of Tolerance Fees
+Pub. L. 115–141, div. M, title IV, § 401(c), Mar. 23, 2018, 132 Stat. 1050, provided that: “Section 408(m)(3) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 346a(m)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section346a/m/3&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2018’ for ‘September 30, 2017’.”
+
 #### Regulation of Sulfuryl Fluoride
 Pub. L. 113–79, title X, § 10015, Feb. 7, 2014, 128 Stat. 952, provided that: “Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 346a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-346a)) when assessing tolerances associated with residues from the pesticide.”
 
@@ -4168,9 +4241,25 @@ While such a regulation relating to a food additive, or such a notification unde
 
 **(j) Exemptions for investigational use** Without regard to subsections (b) to (i), inclusive, of this section, the Secretary shall by regulation provide for exempting from the requirements of this section any food additive, and any food bearing or containing such additive, intended solely for investigational use by qualified experts when in his opinion such exemption is consistent with the public health.
 
+**(k) Food additives intended for use in animal food**
+
+(1) In taking action on a petition under subsection (c) for, or for recognition of, a food additive intended for use in animal food, the Secretary shall review reports of investigations conducted in foreign countries, provided by the petitioner.
+
+(2) Not later than 12 months after August 14, 2018, the Secretary shall post on the internet website of the Food and Drug Administration—
+
+  (A) the number of petitions for food additives intended for use in animal food filed under subsection (b) that are pending;
+
+  (B) how long each such petition submitted under subsection (b) has been pending, including such petitions the Secretary has extended under subsection (c)(2); and
+
+  (C) the number of study protocols that have been pending review for over 50 days, and the number that have received an extension.
+
+(3) In the case of a food additive petition intended for use in animal food, the Secretary shall provide information to the petitioner on the required contents of such petition. If the Secretary requires additional studies beyond what the petitioner proposed, the Secretary shall provide the scientific rationale for such requirement.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (k). Pub. L. 115–234 added subsec. (k).
+
 1997—Subsec. (a). Pub. L. 105–115, § 309(a)(4), in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i), a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under [section 342(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section342/a/1&num=0&edition=prelim).” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of [section 342(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section342/a&num=0&edition=prelim).”
 
 Subsec. (a)(1). Pub. L. 105–115, § 309(a)(1), substituted “subsection (j)” for “subsection (i)”.
@@ -4205,6 +4294,9 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 107 of Pub. L
 
 #### Effective Date
 Section effective Sept. 6, 1958, see section 6(a) of Pub. L. 85–929, set out as an Effective Date of 1958 Amendment note under [section 342 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-342).
+
+#### Guidance on Pre-Petition Consultation Process for Animal Food Additives
+Pub. L. 115–234, title III, § 306(c), Aug. 14, 2018, 132 Stat. 2441, provided that: “(1) In general.—Not later than 18 months after the date of enactment of this Act [Aug. 14, 2018], the Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall publish draft guidance relating to the voluntary pre-petition consultation process for food additives intended for use in animal food. “(2) Contents.—The guidance under paragraph (1) shall include—“(A) the recommended format to submit to the Food and Drug Administration existing data, including any applicable foreign data, for assessment prior to submission of a food additive petition for animal food under section 409(b) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 348(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section348/b&num=0&edition=prelim)]; “(B) the manner and the number of days by which the Food and Drug Administration intends to review and respond to such existing data, including with respect to providing a scientific rationale for any additional data request; “(C) circumstances under which the submission of study protocols is recommended prior to submission of a food additive petition under such section 409(b); “(D) the manner in which the Secretary intends to inform the person submitting a study protocol for a food additive if the review of such study protocol will take longer than 50 days; and “(E) best practices for communication between the Food and Drug Administration and industry on the development of pre-petition submissions of study protocols and existing data for food additives. “(3) Final guidance.—The guidance under paragraph (1) shall be finalized, withdrawn, or reissued not later than 1 year after the close of the comment period on the draft guidance.”
 
 #### Glass and Ceramic Ware
 Pub. L. 105–115, title III, § 308, Nov. 21, 1997, 111 Stat. 2353, provided that: “(a) In General.—The Secretary may not implement any requirement which would ban, as an unapproved food additive, lead and cadmium based enamel in the lip and rim area of glass and ceramic ware before the expiration of one year after the date such requirement is published. “(b) Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on available data, that lead and cadmium based enamel on glass and ceramic ware—“(1) which has less than 60 millimeters of decorating area below the external rim, and “(2) which is not, by design, representation, or custom of usage intended for use by children, is unsafe, the Secretary shall not take any action before January 1, 2003, to ban lead and cadmium based enamel on such glass and ceramic ware. Any action taken after January 1, 2003, to ban such enamel on such glass and ceramic ware as an unapproved food additive shall be taken by regulation and such regulation shall provide that such products shall not be removed from the market before 1 year after publication of the final regulation.”
@@ -5728,11 +5820,13 @@ A drug or device shall be deemed to be adulterated—
 
 **(i) Failure to comply with requirements under which device was exempted for investigational use** If it is a device for which an exemption has been granted under [section 360j(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/g&num=0&edition=prelim) for investigational use and the person who was granted such exemption or any investigator who uses such device under such exemption fails to comply with a requirement prescribed by or under such section.
 
-**(j) Delayed, denied, or limited inspection; refusal to permit entry or inspection** If it is a drug and it has been manufactured, processed, packed, or held in any factory, warehouse, or establishment and the owner, operator, or agent of such factory, warehouse, or establishment delays, denies, or limits an inspection, or refuses to permit entry or inspection. For purposes of paragraph (a)(2)(B), the term “current good manufacturing practice” includes the implementation of oversight and controls over the manufacture of drugs to ensure quality, including managing the risk of and establishing the safety of raw materials, materials used in the manufacturing of drugs, and finished drug products.
+**(j) Delayed, denied, or limited inspection; refusal to permit entry or inspection** If it is a drug or device and it has been manufactured, processed, packed, or held in any factory, warehouse, or establishment and the owner, operator, or agent of such factory, warehouse, or establishment delays, denies, or limits an inspection, or refuses to permit entry or inspection. For purposes of paragraph (a)(2)(B), the term “current good manufacturing practice” includes the implementation of oversight and controls over the manufacture of drugs to ensure quality, including managing the risk of and establishing the safety of raw materials, materials used in the manufacturing of drugs, and finished drug products.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Par. (j). Pub. L. 115–52 inserted “or device” after “drug”.
+
 2012—Pub. L. 112–144, § 711, inserted concluding provisions.
 
 Par. (f)(1)(A)(i). Pub. L. 112–144, § 608(b)(2)(A)(i), substituted “an order issued” for “a regulation promulgated”.
@@ -5871,9 +5965,11 @@ A drug or device shall be deemed to be misbranded—
 
 **(w) New animal drugs** If it is a new animal drug—
 
-(1) that is conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc) and its labeling does not conform with the approved application or [section 360ccc(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc/f&num=0&edition=prelim), or that is not conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc) and its label bears the statement set forth in [section 360ccc(f)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc/f/1/A&num=0&edition=prelim); or
+(1) that is conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc) and its labeling does not conform with the approved application or [section 360ccc(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc/f&num=0&edition=prelim), or that is not conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc) and its label bears the statement set forth in [section 360ccc(f)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc/f/1/A&num=0&edition=prelim);
 
-(2) that is indexed under [section 360ccc–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc-1) and its labeling does not conform with the index listing under [section 360ccc–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc–1/e&num=0&edition=prelim) or 360ccc–1(h) of this title, or that has not been indexed under [section 360ccc–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc-1) and its label bears the statement set forth in [section 360ccc–1(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc–1/h&num=0&edition=prelim).
+(2) that is indexed under [section 360ccc–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc-1) and its labeling does not conform with the index listing under [section 360ccc–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc–1/e&num=0&edition=prelim) or 360ccc–1(h) of this title, or that has not been indexed under [section 360ccc–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc-1) and its label bears the statement set forth in [section 360ccc–1(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc–1/h&num=0&edition=prelim); or
+
+(3) for which an application has been approved under [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b) and the labeling of such drug does not include the application number in the format: “Approved by FDA under (A)NADA # xxx–xxx”, except that this subparagraph shall not apply to representative labeling required under section 514.1(b)(3)(v)(b) of title 21, Code of Federal Regulations (or any successor regulation) for animal feed bearing or containing a new animal drug.
 
 **(x) Nonprescription drugs** If it is a nonprescription drug (as defined in [section 379aa of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379aa)) that is marketed in the United States, unless the label of such drug includes a domestic address or domestic phone number through which the responsible person (as described in [section 379aa of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379aa)) may receive a report of a serious adverse event (as defined in [section 379aa of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379aa)) with such drug.
 
@@ -5891,7 +5987,12 @@ A drug or device shall be deemed to be misbranded—
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 303(a) of Pub. L. 115–234 applicable beginning on Sept. 30, 2023. See 2018 Amendment note below.
+
 #### Amendments
+2018—Subsec. (w)(3). Pub. L. 115–234 added par. (3).
+
 2016—Subsec. (a). Pub. L. 114–255, § 3037, designated existing provisions as par. (1), substituted “a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis, carrying out its responsibilities for the selection of drugs for coverage or reimbursement” for “a formulary committee, or other similar entity, in the course of the committee or the entity carrying out its responsibilities for the selection of drugs for managed care or other similar organizations”, “relates” for “directly relates”, and “, is based on competent and reliable scientific evidence, and includes, where applicable, a conspicuous and prominent statement describing any material differences between the health care economic information and the labeling approved for the drug under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim). The requirements set forth in [section 355(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/a&num=0&edition=prelim) or in subsections (a) and (k) of [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) shall not apply to health care economic information provided to such a payor, committee, or entity in accordance with this paragraph” for “and is based on competent and reliable scientific evidence. The requirements set forth in [section 355(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/a&num=0&edition=prelim) or in [section 262(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim) shall not apply to health care economic information provided to such a committee or entity in accordance with this paragraph”, struck out “In this paragraph, the term ‘health care economic information’ means any analysis that identifies, measures, or compares the economic consequences, including the costs of the represented health outcomes, of the use of a drug to the use of another drug, to another health care intervention, or to no intervention.” at end, and added par. (2).
 
 Subsec. (dd). Pub. L. 114–255, § 3044(b)(2), added subsec. (dd).
@@ -5991,6 +6092,9 @@ Par. (o). Pub. L. 87–781, § 305, added par. (o).
 1941—Par. (k). Act Dec. 22, 1941, added par. (k).
 
 1939—Par. (d). Act June 29, 1939, substituted “name, and quality or proportion” for “name, quantity, and percentage”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–234, title III, § 303(b), Aug. 14, 2018, 132 Stat. 2436, provided that: “Section 502(w)(3) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 352(w)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section352/w/3&num=0&edition=prelim)], as added by subsection (a), shall apply beginning on September 30, 2023.”
 
 #### Effective Date of 2012 Amendment
 Amendment by section 306 of Pub. L. 112–144 effective Oct. 1, 2012, see section 305 of Pub. L. 112–144, set out as an Effective and Termination Dates note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
@@ -7457,6 +7561,28 @@ Subsecs. (a)(2)(B), (b). Pub. L. 108–282, § 102(b)(5)(H), substituted “360b
 
           (BB) *Limitation.—* — A drug that is granted tentative approval by the Secretary is not an approved drug and shall not have an effective approval until the Secretary issues an approval after any necessary additional review of the application.
 
+    (v) *180-day exclusivity period for competitive generic therapies.—*
+
+      (I) *Effectiveness of application.—* — Subject to subparagraph (D)(iv), if the application is for a drug that is the same as a competitive generic therapy for which any first approved applicant has commenced commercial marketing, the application shall be made effective on the date that is 180 days after the date of the first commercial marketing of the competitive generic therapy (including the commercial marketing of the listed drug) by any first approved applicant.
+
+      (II) *Limitation.—* — The exclusivity period under subclause (I) shall not apply with respect to a competitive generic therapy that has previously received an exclusivity period under subclause (I).
+
+      (III) *Definitions.—* — In this clause and subparagraph (D)(iv):
+
+        (aa) The term “competitive generic therapy” means a drug—
+
+          (AA) that is designated as a competitive generic therapy under [section 356h of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356h); and
+
+          (BB) for which there are no unexpired patents or exclusivities on the list of products described in [section 355(j)(7)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/7/A&num=0&edition=prelim) at the time of submission.
+
+        (bb) The term “first approved applicant” means any applicant that has submitted an application that—
+
+          (AA) is for a competitive generic therapy that is approved on the first day on which any application for such competitive generic therapy is approved;
+
+          (BB) is not eligible for a 180-day exclusivity period under clause (iv) for the drug that is the subject of the application for the competitive generic therapy; and
+
+          (CC) is not for a drug for which all drug versions have forfeited eligibility for a 180-day exclusivity period under clause (iv) pursuant to subparagraph (D).
+
   (C) *Civil action to obtain patent certainty.—*
 
     (i) *Declaratory judgment absent infringement action.—*
@@ -7522,6 +7648,8 @@ Subsecs. (a)(2)(B), (b). Pub. L. 108–282, § 102(b)(5)(H), substituted “360b
       (I) approval of any application containing a certification described in paragraph (2)(A)(vii)(IV) shall be made effective in accordance with subparagraph (B)(iii); and
 
       (II) no applicant shall be eligible for a 180-day exclusivity period.
+
+    (iv) *Special forfeiture rule for competitive generic therapy.—* — The 180-day exclusivity period described in subparagraph (B)(v) shall be forfeited by a first approved applicant if the applicant fails to market the competitive generic therapy within 75 days after the date on which the approval of the first approved applicant’s application for the competitive generic therapy is made effective.
 
   (E) If the Secretary decides to disapprove an application, the Secretary shall give the applicant notice of an opportunity for a hearing before the Secretary on the question of whether such application is approvable. If the applicant elects to accept the opportunity for hearing by written request within thirty days after such notice, such hearing shall commence not more than ninety days after the expiration of such thirty days unless the Secretary and the applicant otherwise agree. Any such hearing shall thereafter be conducted on an expedited basis and the Secretary’s order thereon shall be issued within ninety days after the date fixed by the Secretary for filing final briefs.
 
@@ -7608,6 +7736,24 @@ Subsecs. (a)(2)(B), (b). Pub. L. 108–282, § 102(b)(5)(H), substituted “360b
     (iv) such application otherwise meets the applicable requirements for approval under this subsection.
 
   (B) If, after a labeling revision described in subparagraph (A)(i), the Secretary determines that the continued presence in interstate commerce of the labeling of the listed drug (as in effect before the revision described in subparagraph (A)(i)) adversely impacts the safe use of the drug, no application under this subsection shall be eligible for approval with such labeling.
+
+(11)
+
+  (A) Subject to subparagraph (B), the Secretary shall prioritize the review of, and act within 8 months of the date of the submission of, an original abbreviated new drug application submitted for review under this subsection that is for a drug—
+
+    (i) for which there are not more than 3 approved drug products listed under paragraph (7) and for which there are no blocking patents and exclusivities; or
+
+    (ii) that has been included on the list under [section 356e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356e).
+
+  (B) To qualify for priority review under this paragraph, not later than 60 days prior to the submission of an application described in subparagraph (A) or that the Secretary may prioritize pursuant to subparagraph (D), the applicant shall provide complete, accurate information regarding facilities involved in manufacturing processes and testing of the drug that is the subject of the application, including facilities in corresponding Type II active pharmaceutical ingredients drug master files referenced in an application and sites or organizations involved in bioequivalence and clinical studies used to support the application, to enable the Secretary to make a determination regarding whether an inspection of a facility is necessary. Such information shall include the relevant (as determined by the Secretary) sections of such application, which shall be unchanged relative to the date of the submission of such application, except to the extent that a change is made to such information to exclude a facility that was not used to generate data to meet any application requirements for such submission and that is not the only facility intended to conduct one or more unit operations in commercial production. Information provided by an applicant under this subparagraph shall not be considered the submission of an application under this subsection.
+
+  (C) The Secretary may expedite an inspection or reinspection under [section 374 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374) of an establishment that proposes to manufacture a drug described in subparagraph (A).
+
+  (D) Nothing in this paragraph shall prevent the Secretary from prioritizing the review of other applications as the Secretary determines appropriate.
+
+(12) The Secretary shall publish on the internet website of the Food and Drug Administration, and update at least once every 6 months, a list of all drugs approved under subsection (c) for which all patents and periods of exclusivity under this chapter have expired and for which no application has been approved under this subsection.
+
+(13) Upon the request of an applicant regarding one or more specified pending applications under this subsection, the Secretary shall, as appropriate, provide review status updates indicating the categorical status of the applications by each relevant review discipline.
 
 **(k) Records and reports; required information; regulations and orders; access to records**
 
@@ -7895,19 +8041,19 @@ Subsecs. (a)(2)(B), (b). Pub. L. 108–282, § 102(b)(5)(H), substituted “360b
 
 (4) **Safety labeling changes requested by Secretary**
 
-  (A) *New safety information* — If the Secretary becomes aware of new safety information that the Secretary believes should be included in the labeling of the drug, the Secretary shall promptly notify the responsible person or, if the same drug approved under subsection (b) is not currently marketed, the holder of an approved application under subsection (j).
+  (A) *New safety or new effectiveness information* — If the Secretary becomes aware of new information, including any new safety information or information related to reduced effectiveness, that the Secretary determines should be included in the labeling of the drug, the Secretary shall promptly notify the responsible person or, if the same drug approved under subsection (b) is not currently marketed, the holder of an approved application under subsection (j).
 
   (B) *Response to notification* — Following notification pursuant to subparagraph (A), the responsible person or the holder of the approved application under subsection (j) shall within 30 days—
 
-    (i) submit a supplement proposing changes to the approved labeling to reflect the new safety information, including changes to boxed warnings, contraindications, warnings, precautions, or adverse reactions; or
+    (i) submit a supplement proposing changes to the approved labeling to reflect the new safety information, including changes to boxed warnings, contraindications, warnings, precautions, or adverse reactions, or new effectiveness information; or
 
     (ii) notify the Secretary that the responsible person or the holder of the approved application under subsection (j) does not believe a labeling change is warranted and submit a statement detailing the reasons why such a change is not warranted.
 
-  (C) *Review* — Upon receipt of such supplement, the Secretary shall promptly review and act upon such supplement. If the Secretary disagrees with the proposed changes in the supplement or with the statement setting forth the reasons why no labeling change is necessary, the Secretary shall initiate discussions to reach agreement on whether the labeling for the drug should be modified to reflect the new safety information, and if so, the contents of such labeling changes.
+  (C) *Review* — Upon receipt of such supplement, the Secretary shall promptly review and act upon such supplement. If the Secretary disagrees with the proposed changes in the supplement or with the statement setting forth the reasons why no labeling change is necessary, the Secretary shall initiate discussions to reach agreement on whether the labeling for the drug should be modified to reflect the new safety or new effectiveness information, and if so, the contents of such labeling changes.
 
   (D) *Discussions* — Such discussions shall not extend for more than 30 days after the response to the notification under subparagraph (B), unless the Secretary determines an extension of such discussion period is warranted.
 
-  (E) *Order* — Within 15 days of the conclusion of the discussions under subparagraph (D), the Secretary may issue an order directing the responsible person or the holder of the approved application under subsection (j) to make such a labeling change as the Secretary deems appropriate to address the new safety information. Within 15 days of such an order, the responsible person or the holder of the approved application under subsection (j) shall submit a supplement containing the labeling change.
+  (E) *Order* — Within 15 days of the conclusion of the discussions under subparagraph (D), the Secretary may issue an order directing the responsible person or the holder of the approved application under subsection (j) to make such a labeling change as the Secretary deems appropriate to address the new safety or new effectiveness information. Within 15 days of such an order, the responsible person or the holder of the approved application under subsection (j) shall submit a supplement containing the labeling change.
 
   (F) *Dispute resolution* — Within 5 days of receiving an order under subparagraph (E), the responsible person or the holder of the approved application under subsection (j) may appeal using dispute resolution procedures established by the Secretary in regulation and guidance.
 
@@ -8128,7 +8274,7 @@ Subsecs. (a)(2)(B), (b). Pub. L. 108–282, § 102(b)(5)(H), substituted “360b
 
   (B) *Publication by Secretary* — The Secretary shall publish the list described in subparagraph (A) and may amend such list by regulation.
 
-(4) **Availability** — The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007, and before October 1, 2017.
+(4) **Availability** — The election referred to in paragraph (1) may be made only in an application that is submitted to the Secretary after September 27, 2007, and before October 1, 2022.
 
 **(v) Antibiotic drugs submitted before November 21, 1997**
 
@@ -8180,6 +8326,22 @@ Subsecs. (a)(2)(B), (b). Pub. L. 108–282, § 102(b)(5)(H), substituted “360b
 
   (B) the date of issuance of the interim final rule controlling the drug.
 
+**(y) Contrast agents intended for use with applicable medical imaging devices**
+
+(1) **In general** — The sponsor of a contrast agent for which an application has been approved under this section may submit a supplement to the application seeking approval for a new use following the authorization of a premarket submission for an applicable medical imaging device for that use with the contrast agent pursuant to [section 360j(p)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/p/1&num=0&edition=prelim).
+
+(2) **Review of supplement** — In reviewing a supplement submitted under this subsection, the agency center charged with the premarket review of drugs may—
+
+  (A) consult with the center charged with the premarket review of devices; and
+
+  (B) review information and data submitted to the Secretary by the sponsor of an applicable medical imaging device pursuant to section 360e, 360(k), or 360c(f)(2) of this title so long as the sponsor of such applicable medical imaging device has provided to the sponsor of the contrast agent a right of reference.
+
+(3) **Definitions** — For purposes of this subsection—
+
+  (A) the term “new use” means a use of a contrast agent that is described in the approved labeling of an applicable medical imaging device described in [section 360j(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/p&num=0&edition=prelim), but that is not described in the approved labeling of the contrast agent; and
+
+  (B) the terms “applicable medical imaging device” and “contrast agent” have the meanings given such terms in [section 360j(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/p&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
@@ -8198,24 +8360,44 @@ The Controlled Substances Act, referred to in subsec. (x)(1), is title II of Pub
 #### Codification
 In subsec. (k)(4)(H), “[section 132 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section132&num=0&edition=prelim)” substituted for “section 4(5) of the Federal Procurement Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-Amendments made by section 3075(a) of Pub. L. 114–255 were executed as directed to subsec. (k)(5) of this section as amended by section 3102 of Pub. L. 114–255, notwithstanding directory language referring to the amendments made by section “2074”. There is no section 2074 of Pub. L. 114–255. See 2016 Amendment notes below.
-
 #### Amendments
+2018—Subsec. (o)(4)(A). Pub. L. 115–271, § 3041(b)(1), substituted “safety or new effectiveness information” for “safety information” in heading and “If the Secretary becomes aware of new information, including any new safety information or information related to reduced effectiveness, that the Secretary determines should be included in the labeling of the drug” for “If the Secretary becomes aware of new safety information that the Secretary believes should be included in the labeling of the drug” in text. Amendment to heading was executed to reflect the probable intent of Congress, notwithstanding error in text directed to be stricken.
+
+Subsec. (o)(4)(B)(i). Pub. L. 115–271, § 3041(b)(2), inserted “, or new effectiveness information” after “adverse reactions”.
+
+Subsec. (o)(4)(C). Pub. L. 115–271, § 3041(b)(3), substituted “safety or new effectiveness information” for “safety information”.
+
+Subsec. (o)(4)(E). Pub. L. 115–271, § 3041(b)(4), substituted “safety or new effectiveness information” for “safety information”.
+
+2017—Subsec. (j)(5)(B)(v). Pub. L. 115–52, § 808(1), added cl. (v).
+
+Subsec. (j)(5)(D)(iv). Pub. L. 115–52, § 808(2), added cl. (iv).
+
+Subsec. (j)(11), (12). Pub. L. 115–52, § 801, added pars. (11) and (12).
+
+Subsec. (j)(13). Pub. L. 115–52, § 802, added par. (13).
+
+Subsec. (k)(5). Pub. L. 115–52, § 901(a), made technical amendments to directory language of Pub. L. 114–255, § 3075(a). See 2016 Amendment notes below.
+
+Subsec. (u)(4). Pub. L. 115–52, § 601, substituted “2022” for “2017”.
+
+Subsec. (y). Pub. L. 115–52, § 706(b), added subsec. (y).
+
 2016—Subsec. (c)(5). Pub. L. 114–255, § 3031(a), added par. (5).
 
 Subsec. (d). Pub. L. 114–255, § 3101(a)(2)(B)(i), substituted “marketing approval” for “premarket approval” in last sentence.
 
 Subsec. (i)(4). Pub. L. 114–255, § 3024(b), substituted “except where it is not feasible, it is contrary to the best interests of such human beings, or the proposed clinical testing poses no more than minimal risk to such human beings and includes appropriate safeguards as prescribed to protect the rights, safety, and welfare of such human beings” for “except where it is not feasible or it is contrary to the best interests of such human beings”.
 
-Subsec. (k)(5)(A). Pub. L. 114–255, § 3075(a)(1), substituted “screenings” for “, bi-weekly screening”. See Codification note above.
+Subsec. (k)(5)(A). Pub. L. 114–255, § 3075(a)(1), as amended by Pub. L. 115–52, § 901(a)(1), substituted “screenings” for “, bi-weekly screening”.
 
 Pub. L. 114–255, § 3102(1)(A), inserted “and” after the semicolon.
 
-Subsec. (k)(5)(B). Pub. L. 114–255, § 3075(a)(2), substituted “; and” for period at end. See Codification note above.
+Subsec. (k)(5)(B). Pub. L. 114–255, § 3075(a)(2), as amended by Pub. L. 115–52, § 901(a), substituted “; and” for period at end.
 
 Pub. L. 114–255, § 3102(1)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “report to Congress not later than 2 year after September 27, 2007, on procedures and processes of the Food and Drug Administration for addressing ongoing post market safety issues identified by the Office of Surveillance and Epidemiology and how recommendations of the Office of Surveillance and Epidemiology are handled within the agency; and”.
 
-Subsec. (k)(5)(C). Pub. L. 114–255, § 3075(a)(3), added subpar. (C). See Codification note above.
+Subsec. (k)(5)(C). Pub. L. 114–255, § 3075(a)(3), as amended by Pub. L. 115–52, § 901(a)(1), added subpar. (C).
 
 Pub. L. 114–255, § 3102(1)(C), redesignated subpar. (C) as (B).
 
@@ -8462,6 +8644,15 @@ Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or adm
 #### Transfer of Functions
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare [now Health and Human Services], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
 
+#### Clarifying FDA Regulation of Non-Addictive Pain Products
+Pub. L. 115–271, title III, § 3001, Oct. 24, 2018, 132 Stat. 3932, provided that: “(a) Public Meetings.—Not later than one year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), acting through the Commissioner of Food and Drugs, shall hold not less than one public meeting to address the challenges and barriers of developing non-addictive medical products intended to treat acute or chronic pain or addiction, which may include—“(1) the manner by which the Secretary may incorporate the risks of misuse and abuse of a controlled substance (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802](./chapter-013-drug-abuse-prevention-and-control.md#section-802))) into the risk benefit assessments under subsections (d) and (e) of section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)), section 510(k) of such Act ([21 U.S.C. 360(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim)), or section 515(c) of such Act ([21 U.S.C. 360e(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360e/c&num=0&edition=prelim)), as applicable; “(2) the application of novel clinical trial designs (consistent with section 3021 of the 21st Century Cures Act (Public Law 114–255) [set out as a note below]), use of real world evidence (consistent with section 505F of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355g))), and use of patient experience data (consistent with section 569C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–8c](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-8c))) for the development of non-addictive medical products intended to treat pain or addiction; “(3) the evidentiary standards and the development of opioid-sparing data for inclusion in the labeling of medical products intended to treat acute or chronic pain; and “(4) the application of eligibility criteria under sections 506 and 515B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 356](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356), 360e–3) for non-addictive medical products intended to treat pain or addiction. “(b) Guidance.—Not less than one year after the public meetings are conducted under subsection (a) the Secretary shall issue one or more final guidance documents, or update existing guidance documents, to help address challenges to developing non-addictive medical products to treat pain or addiction. Such guidance documents shall include information regarding—“(1) how the Food and Drug Administration may apply sections 506 and 515B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 356](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356), 360e–3) to non-addictive medical products intended to treat pain or addiction, including the circumstances under which the Secretary—“(A) may apply the eligibility criteria under such sections 506 and 515B to non-addictive medical products intended to treat pain or addiction; “(B) considers the risk of addiction of controlled substances approved to treat pain when establishing unmet medical need; and “(C) considers pain, pain control, or pain management in assessing whether a disease or condition is a serious or life-threatening disease or condition; “(2) the methods by which sponsors may evaluate acute and chronic pain, endpoints for non-addictive medical products intended to treat pain, the manner in which endpoints and evaluations of efficacy will be applied across and within review divisions, taking into consideration the etiology of the underlying disease, and the manner in which sponsors may use surrogate endpoints, intermediate endpoints, and real world evidence; “(3) the manner in which the Food and Drug Administration will assess evidence to support the inclusion of opioid-sparing data in the labeling of non-addictive medical products intended to treat acute or chronic pain, including—“(A) alternative data collection methodologies, including the use of novel clinical trial designs (consistent with section 3021 of the 21st Century Cures Act (Public Law 114–255) [set out as a note below]) and real world evidence (consistent with section 505F of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355g))), including patient registries and patient reported outcomes, as appropriate, to support product labeling; “(B) ethical considerations of exposing subjects to controlled substances in clinical trials to develop opioid-sparing data and considerations on data collection methods that reduce harm, which may include the reduction of opioid use as a clinical benefit; “(C) endpoints, including primary, secondary, and surrogate endpoints, to evaluate the reduction of opioid use; “(D) best practices for communication between sponsors and the agency on the development of data collection methods, including the initiation of data collection; and “(E) the appropriate format in which to submit such data results to the Secretary; and “(4) the circumstances under which the Food and Drug Administration considers misuse and abuse of a controlled substance (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802](./chapter-013-drug-abuse-prevention-and-control.md#section-802))) in making the risk benefit assessment under paragraphs (2) and (4) of subsection (d) of section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)) and in finding that a drug is unsafe under paragraph (1) or (2) of subsection (e) of such section. “(c) Definitions.—In this section—“(1) the term ‘medical product’ means a drug (as defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321(g)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/g/1&num=0&edition=prelim))), biological product (as defined in section 351(i) of the Public Health Service Act ([42 U.S.C. 262(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim))), or device (as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/h&num=0&edition=prelim))); and “(2) the term ‘opioid-sparing’ means reducing, replacing, or avoiding the use of opioids or other controlled substances intended to treat acute or chronic pain.”
+
+#### Guidance Regarding Reduction in Drug Effectiveness
+Pub. L. 115–271, title III, § 3041(c), Oct. 24, 2018, 132 Stat. 3943, provided that: “Not less than one year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services shall issue guidance regarding the circumstances under which the Food and Drug Administration may require postmarket studies or clinical trials to assess the potential reduction in effectiveness of a drug and how such reduction in effectiveness could result in a change to the benefits of the drug and the risks to the patient. Such guidance shall also address how the Food and Drug Administration may apply this section [amending this section and [section 355–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355-1)] and the amendments made thereby with respect to circumstances under which the Food and Drug Administration may require postmarket studies or clinical trials and safety labeling changes related to the use of controlled substances for acute or chronic pain.”
+
+#### Annual Report on Inspections
+Pub. L. 115–52, title IX, § 902, Aug. 18, 2017, 131 Stat. 1077, provided that: “Not later than March 1 of each year, the Secretary of Health and Human Services shall post on the internet website of the Food and Drug Administration information related to inspections of facilities necessary for approval of a drug under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)), approval of a device under section 515 of such Act ([21 U.S.C. 360e](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e)), or clearance of a device under section 510(k) of such Act ([21 U.S.C. 360(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim)) that were conducted during the previous calendar year. Such information shall include the following: “(1) The median time following a request from staff of the Food and Drug Administration reviewing an application or report to the beginning of the inspection, and the median time from the beginning of an inspection to the issuance of a report pursuant to section 704(b) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 374(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section374/b&num=0&edition=prelim)). “(2) The median time from the issuance of a report pursuant to such section 704(b) to the sending of a warning letter, issuance of an import alert, or holding of a regulatory meeting for inspections for which the Secretary concluded that regulatory or enforcement action was indicated. “(3) The median time from the sending of a warning letter, issuance of an import alert, or holding of a regulatory meeting to resolution of the regulatory or enforcement action indicated for inspections for which the Secretary concluded that such action was indicated. “(4) The number of times that a facility was issued a report pursuant to such section 704(b) and approval of an application was delayed due to the issuance of a withhold recommendation.”
+
 #### Report on Patient Experience Drug Development
 Pub. L. 114–255, div. A, title III, § 3004, Dec. 13, 2016, 130 Stat. 1085, provided that: “Not later than June 1 of 2021, 2026, and 2031, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall prepare and publish on the Internet website of the Food and Drug Administration a report assessing the use of patient experience data in regulatory decisionmaking, in particular with respect to the review of patient experience data and information on patient-focused drug development tools as part of applications approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim)) or section 351(a) of the Public Health Service Act ([42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)).”
 
@@ -8493,7 +8684,7 @@ Pub. L. 110–85, title IX, § 907, Sept. 27, 2007, 121 Stat. 950, provided that
 Pub. L. 108–173, title XI, § 1103(b), Dec. 8, 2003, 117 Stat. 2461, provided that: “The amendment made by subsection (a) [amending this section] does not alter the standards for approval of drugs under section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)).”
 
 #### Federal Trade Commission Review
-Pub. L. 108–173, title XI, subtitle B, Dec. 8, 2003, 117 Stat. 2461, provided that: “SEC. 1111. DEFINITIONS.“In this subtitle:“(1) ANDA.—The term ‘ANDA’ means an abbreviated drug application, as defined under section 201(aa) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 321(aa)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/aa&num=0&edition=prelim)]. “(2) Assistant attorney general.—The term ‘Assistant Attorney General’ means the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice. “(3) Brand name drug.—The term ‘brand name drug’ means a drug for which an application is approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim)], including an application referred to in section 505(b)(2) of such Act [[21 U.S.C. 355(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/2&num=0&edition=prelim)]. “(4) Brand name drug company.—The term ‘brand name drug company’ means the party that holds the approved application referred to in paragraph (3) for a brand name drug that is a listed drug in an ANDA, or a party that is the owner of a patent for which information is submitted for such drug under subsection (b) or (c) of section 505 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b&num=0&edition=prelim), (c)]. “(5) Commission.—The term ‘Commission’ means the Federal Trade Commission. “(6) Generic drug.—The term ‘generic drug’ means a drug for which an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)] is approved. “(7) Generic drug applicant.—The term ‘generic drug applicant’ means a person who has filed or received approval for an ANDA under section 505(j) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)]. “(8) Listed drug.—The term ‘listed drug’ means a brand name drug that is listed under section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/7&num=0&edition=prelim)]. “SEC. 1112. NOTIFICATION OF AGREEMENTS.“(a) Agreement With Brand Name Drug Company.—“(1) Requirement.—A generic drug applicant that has submitted an ANDA containing a certification under section 505(j)(2)(A)(vii)(IV) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(2)(A)(vii)(IV)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/2/A/vii/IV&num=0&edition=prelim)] and a brand name drug company that enter into an agreement described in paragraph (2) shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of the generic drug that is the subject of the ANDA. “(2) Subject matter of agreement.—An agreement described in this paragraph between a generic drug applicant and a brand name drug company is an agreement regarding—“(A) the manufacture, marketing or sale of the brand name drug that is the listed drug in the ANDA involved; “(B) the manufacture, marketing, or sale of the generic drug for which the ANDA was submitted; or “(C) the 180-day period referred to in section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(5)(B)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B/iv&num=0&edition=prelim)] as it applies to such ANDA or to any other ANDA based on the same brand name drug. “(b) Agreement With Another Generic Drug Applicant.—“(1) Requirement.—A generic drug applicant that has submitted an ANDA containing a certification under section 505(j)(2)(A)(vii)(IV) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(2)(A)(vii)(IV)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/2/A/vii/IV&num=0&edition=prelim)] with respect to a listed drug and another generic drug applicant that has submitted an ANDA containing such a certification for the same listed drug shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of either of the generic drugs for which such ANDAs were submitted. “(2) Subject matter of agreement.—An agreement described in this paragraph between two generic drug applicants is an agreement regarding the 180-day period referred to in section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(5)(B)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B/iv&num=0&edition=prelim)] as it applies to the ANDAs with which the agreement is concerned. “(c) Filing.—“(1) Agreement.—The parties that are required in subsection (a) or (b) to file an agreement in accordance with this subsection shall file with the Assistant Attorney General and the Commission the text of any such agreement, except that such parties are not required to file an agreement that solely concerns—“(A) purchase orders for raw material supplies; “(B) equipment and facility contracts; “(C) employment or consulting contracts; or “(D) packaging and labeling contracts. “(2) Other agreements.—The parties that are required in subsection (a) or (b) to file an agreement in accordance with this subsection shall file with the Assistant Attorney General and the Commission the text of any agreements between the parties that are not described in such subsections and are contingent upon, provide a contingent condition for, or are otherwise related to an agreement that is required in subsection (a) or (b) to be filed in accordance with this subsection. “(3) Description.—In the event that any agreement required in subsection (a) or (b) to be filed in accordance with this subsection has not been reduced to text, each of the parties involved shall file written descriptions of such agreement that are sufficient to disclose all the terms and conditions of the agreement. “SEC. 1113. FILING DEADLINES.“Any filing required under section 1112 shall be filed with the Assistant Attorney General and the Commission not later than 10 business days after the date the agreements are executed. “SEC. 1114. DISCLOSURE EXEMPTION.“Any information or documentary material filed with the Assistant Attorney General or the Commission pursuant to this subtitle shall be exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of the Congress or to any duly authorized committee or subcommittee of the Congress. “SEC. 1115. ENFORCEMENT.“(a) Civil Penalty.—Any brand name drug company or generic drug applicant which fails to comply with any provision of this subtitle shall be liable for a civil penalty of not more than $11,000, for each day during which such entity is in violation of this subtitle. Such penalty may be recovered in a civil action brought by the United States, or brought by the Commission in accordance with the procedures established in section 16(a)(1) of the Federal Trade Commission Act ([15 U.S.C. 56(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section56/a&num=0&edition=prelim) [[15 U.S.C. 56(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section56/a/1&num=0&edition=prelim)]). “(b) Compliance and Equitable Relief.—If any brand name drug company or generic drug applicant fails to comply with any provision of this subtitle, the United States district court may order compliance, and may grant such other equitable relief as the court in its discretion determines necessary or appropriate, upon application of the Assistant Attorney General or the Commission. “SEC. 1116. RULEMAKING.“The Commission, with the concurrence of the Assistant Attorney General and by rule in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, consistent with the purposes of this subtitle—“(1) may define the terms used in this subtitle; “(2) may exempt classes of persons or agreements from the requirements of this subtitle; and “(3) may prescribe such other rules as may be necessary and appropriate to carry out the purposes of this subtitle. “SEC. 1117. SAVINGS CLAUSE.“Any action taken by the Assistant Attorney General or the Commission, or any failure of the Assistant Attorney General or the Commission to take action, under this subtitle shall not at any time bar any proceeding or any action with respect to any agreement between a brand name drug company and a generic drug applicant, or any agreement between generic drug applicants, under any other provision of law, nor shall any filing under this subtitle constitute or create a presumption of any violation of any competition laws. “SEC. 1118. EFFECTIVE DATE.“This subtitle shall—“(1) take effect 30 days after the date of the enactment of this Act [Dec. 8, 2003]; and “(2) shall apply to agreements described in section 1112 that are entered into 30 days after the date of the enactment of this Act.”
+Pub. L. 108–173, title XI, subtitle B, Dec. 8, 2003, 117 Stat. 2461, as amended by Pub. L. 115–263, § 3, Oct. 10, 2018, 132 Stat. 3673; Pub. L. 115–271, title IV, § 4004, Oct. 24, 2018, 132 Stat. 3960, provided that: “SEC. 1111. DEFINITIONS.“In this subtitle:“(1) ANDA.—The term ‘ANDA’ means an abbreviated drug application, as defined under section 201(aa) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 321(aa)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/aa&num=0&edition=prelim)]. “(2) Assistant attorney general.—The term ‘Assistant Attorney General’ means the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice. “(3) Biosimilar biological product.—The term ‘biosimilar biological product’ means a biological product for which a biosimilar biological product application under section 351(k) of the Public Health Service Act [[42 U.S.C. 262(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim)] is approved. “(4) Biosimilar biological product applicant.—The term ‘biosimilar biological product applicant’ means a person who has filed or received approval for a biosimilar biological product application under section 351(k) of the Public Health Service Act [[42 U.S.C. 262(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim)]. “(5) Biosimilar biological product application.—The term ‘biosimilar biological product application’ means an application under section 351(k) of the Public Health Service Act [[42 U.S.C. 262(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim)] for licensure of a biological product as biosimilar to, or interchangeable with, a reference product. “(6) Brand name drug.—The term ‘brand name drug’ means a drug for which an application is approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim)], including an application referred to in section 505(b)(2) of such Act [[21 U.S.C. 355(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/2&num=0&edition=prelim)], or a biological product for which an application is approved under section 351(a) of the Public Health Service Act [[42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)]. “(7) Brand name drug company.—The term ‘brand name drug company’ means the party that holds the approved application referred to in paragraph (6) for a brand name drug that is a listed drug in an ANDA or a reference product in a biosimilar biological product application, or a party that is the owner of a patent for which information is submitted for such drug under subsection (b) or (c) of section 505 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b&num=0&edition=prelim), (c)] or the owner, or exclusive licensee, of a patent included in a list provided under section 351(l)(3) of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)(l)(3)]. “(8) Commission.—The term ‘Commission’ means the Federal Trade Commission. “(9) Generic drug.—The term ‘generic drug’ means a drug for which an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)] is approved. “(10) Generic drug applicant.—The term ‘generic drug applicant’ means a person who has filed or received approval for an ANDA under section 505(j) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)]. “(11) Listed drug.—The term ‘listed drug’ means a brand name drug that is listed under section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/7&num=0&edition=prelim)]. “(12) Reference product.—The term ‘reference product’ has the meaning given such term in section 351(i) of the Public Health Service Act [[42 U.S.C. 262(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim)]. “SEC. 1112. NOTIFICATION OF AGREEMENTS.“(a) Agreement With Brand Name Drug Company.—“(1) Requirement.—A generic drug applicant that has submitted an ANDA containing a certification under section 505(j)(2)(A)(vii)(IV) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(2)(A)(vii)(IV)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/2/A/vii/IV&num=0&edition=prelim)] or a biosimilar biological product applicant who has submitted a biosimilar biological product application and a brand name drug company that enter into an agreement described in paragraph (2) shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of the generic drug that is the subject of the ANDA or the biosimilar biological product that is the subject of the biosimilar biological product application, as applicable. “(2) Subject matter of agreement.—An agreement described in this paragraph between a generic drug applicant or a biosimilar biological product applicant and a brand name drug company is an agreement regarding—“(A) the manufacture, marketing, or sale of the brand name drug that is the listed drug in the ANDA or the reference product in the biosimilar biological product application involved; “(B) the manufacture, marketing, or sale of the generic drug for which the ANDA was submitted or of the biosimilar biological product for which the biosimilar biological product application was submitted; or “(C) as applicable—“(i) the 180-day period referred to in section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(5)(B)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B/iv&num=0&edition=prelim)] as it applies to such ANDA or to any other ANDA based on the same listed drug; or “(ii) any of the time periods referred to in section 351(k)(6) of the Public Health Service Act [[42 U.S.C. 262(k)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k/6&num=0&edition=prelim)] as such period applies to such biosimilar biological product application or to any other biosimilar biological product application based on the same reference product. “(b) Agreement With Another Generic Drug Applicant or Biosimilar Biological Product Applicant.—“(1) Requirement.—“(A) Generic drugs.—A generic drug applicant that has submitted an ANDA containing a certification under section 505(j)(2)(A)(vii)(IV) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(2)(A)(vii)(IV)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/2/A/vii/IV&num=0&edition=prelim)] with respect to a listed drug and another generic drug applicant that has submitted an ANDA containing such a certification for the same listed drug shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of either of the generic drugs for which such ANDAs were submitted. “(B) Biosimilar biological products.—A biosimilar biological product applicant that has submitted a biosimilar biological product application that references a reference product and another biosimilar biological product applicant that has submitted a biosimilar biological product application that references the same reference product shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of either of the biosimilar biological products for which such biosimilar biological product applications were submitted. “(2) Subject matter of agreement.—An agreement described in this paragraph is, as applicable, an agreement between 2 or more generic drug applicants regarding the 180-day period referred to in section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(j)(5)(B)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B/iv&num=0&edition=prelim)] as it applies to the ANDAs with which the agreement is concerned,, [sic] an agreement between 2 or more biosimilar biological product applicants regarding a time period referred to in section 351(k)(6) of the Public Health Service Act [[42 U.S.C. 262(k)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k/6&num=0&edition=prelim)] as it applies to the biosimilar biological product, or an agreement between 2 or more biosimilar biological product applicants regarding the manufacture, marketing, or sale of a biosimilar biological product. “(c) Filing.—“(1) Agreement.—The parties that are required in subsection (a) or (b) to file an agreement in accordance with this subsection shall file with the Assistant Attorney General and the Commission the text of any such agreement, except that such parties are not required to file an agreement that solely concerns—“(A) purchase orders for raw material supplies; “(B) equipment and facility contracts; “(C) employment or consulting contracts; or “(D) packaging and labeling contracts. “(2) Other agreements.—The parties that are required in subsection (a) or (b) to file an agreement in accordance with this subsection shall file with the Assistant Attorney General and the Commission the text of any agreements between the parties that are not described in such subsections and are contingent upon, provide a contingent condition for, were entered into within 30 days of, or are otherwise related to an agreement that is required in subsection (a) or (b) to be filed in accordance with this subsection. “(3) Description.—In the event that any agreement required in subsection (a) or (b) to be filed in accordance with this subsection has not been reduced to text, each of the parties involved shall file written descriptions of such agreement that are sufficient to disclose all the terms and conditions of the agreement. “SEC. 1113. FILING DEADLINES.“Any filing required under section 1112 shall be filed with the Assistant Attorney General and the Commission not later than 10 business days after the date the agreements are executed. “SEC. 1114. DISCLOSURE EXEMPTION.“Any information or documentary material filed with the Assistant Attorney General or the Commission pursuant to this subtitle shall be exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of the Congress or to any duly authorized committee or subcommittee of the Congress. “SEC. 1115. ENFORCEMENT.“(a) Civil Penalty.—Any brand name drug company, generic drug applicant, or biosimilar biological product applicant which fails to comply with any provision of this subtitle shall be liable for a civil penalty of not more than $11,000, for each day during which such entity is in violation of this subtitle. Such penalty may be recovered in a civil action brought by the United States, or brought by the Commission in accordance with the procedures established in section 16(a)(1) of the Federal Trade Commission Act ([15 U.S.C. 56(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section56/a&num=0&edition=prelim) [[15 U.S.C. 56(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section56/a/1&num=0&edition=prelim)]). “(b) Compliance and Equitable Relief.—If any brand name drug company, generic drug applicant, or biosimilar biological product applicant fails to comply with any provision of this subtitle, the United States district court may order compliance, and may grant such other equitable relief as the court in its discretion determines necessary or appropriate, upon application of the Assistant Attorney General or the Commission. “SEC. 1116. RULEMAKING.“The Commission, with the concurrence of the Assistant Attorney General and by rule in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, consistent with the purposes of this subtitle—“(1) may define the terms used in this subtitle; “(2) may exempt classes of persons or agreements from the requirements of this subtitle; and “(3) may prescribe such other rules as may be necessary and appropriate to carry out the purposes of this subtitle. “SEC. 1117. SAVINGS CLAUSE.“Any action taken by the Assistant Attorney General or the Commission, or any failure of the Assistant Attorney General or the Commission to take action, under this subtitle shall not at any time bar any proceeding or any action with respect to any agreement between a brand name drug company and a generic drug applicant or a biosimilar biological product applicant, any agreement between generic drug applicants, or any agreement between biosimilar biological product applicants, under any other provision of law, nor shall any filing under this subtitle constitute or create a presumption of any violation of any competition laws. “SEC. 1118. EFFECTIVE DATE.“This subtitle shall—“(1) take effect 30 days after the date of the enactment of this Act [Dec. 8, 2003]; and “(2) shall apply to agreements described in section 1112 that are entered into 30 days after the date of the enactment of this Act.”
 
 #### Report on Patient Access to New Therapeutic Agents for Pediatric Cancer
 Pub. L. 107–109, § 15(d), Jan. 4, 2002, 115 Stat. 1421, provided that: “Not later than January 31, 2003, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs and in consultation with the Director of the National Institutes of Health, shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on patient access to new therapeutic agents for pediatric cancer, including access to single patient use of new therapeutic agents.”
@@ -8532,7 +8723,7 @@ Pub. L. 87–781, title I, § 104(d)(3), Oct. 10, 1962, 76 Stat. 785, made amend
 
 **(b) Market exclusivity for new drugs**
 
-(1) **In general** — Except as provided in paragraph (2), if, prior to approval of an application that is submitted under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim), the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(3)—
+(1) **In general** — Except as provided in paragraph (2), if, prior to approval of an application that is submitted under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim), the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(4)—
 
   (A)
 
@@ -8555,11 +8746,11 @@ Pub. L. 87–781, title I, § 104(d)(3), Oct. 10, 1962, 76 Stat. 785, made amend
 
     (ii) if the drug is the subject of a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), and in the patent infringement litigation resulting from the certification the court determines that the patent is valid and would be infringed, the period during which an application may not be approved under [section 355(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/3&num=0&edition=prelim) or [section 355(j)(5)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B&num=0&edition=prelim) shall be extended by a period of six months after the date the patent expires (including any patent extensions).
 
-(2) **Exception** — The Secretary shall not extend the period referred to in paragraph (1)(A) or (1)(B) if the determination made under subsection (d)(3) is made later than 9 months prior to the expiration of such period.
+(2) **Exception** — The Secretary shall not extend the period referred to in paragraph (1)(A) or (1)(B) if the determination made under subsection (d)(4) is made later than 9 months prior to the expiration of such period.
 
 **(c) Market exclusivity for already-marketed drugs**
 
-(1) **In general** — Except as provided in paragraph (2), if the Secretary determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim) for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(3)—
+(1) **In general** — Except as provided in paragraph (2), if the Secretary determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim) for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(4)—
 
   (A)
 
@@ -8582,7 +8773,7 @@ Pub. L. 87–781, title I, § 104(d)(3), Oct. 10, 1962, 76 Stat. 785, made amend
 
     (ii) if the drug is the subject of a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), and in the patent infringement litigation resulting from the certification the court determines that the patent is valid and would be infringed, the period during which an application may not be approved under [section 355(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/3&num=0&edition=prelim) or [section 355(j)(5)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B&num=0&edition=prelim) shall be extended by a period of six months after the date the patent expires (including any patent extensions).
 
-(2) **Exception** — The Secretary shall not extend the period referred to in paragraph (1)(A) or (1)(B) if the determination made under subsection (d)(3) is made later than 9 months prior to the expiration of such period.
+(2) **Exception** — The Secretary shall not extend the period referred to in paragraph (1)(A) or (1)(B) if the determination made under subsection (d)(4) is made later than 9 months prior to the expiration of such period.
 
 **(d) Conduct of pediatric studies**
 
@@ -8610,11 +8801,13 @@ Pub. L. 87–781, title I, § 104(d)(3), Oct. 10, 1962, 76 Stat. 785, made amend
 
   (B) *Adverse event reports* — An applicant or holder that, on or after September 27, 2007, agrees to the request for such studies shall provide the Secretary, at the same time as the submission of the reports of such studies, with all postmarket adverse event reports regarding the drug that is the subject of such studies and are available prior to submission of such reports.
 
-(3) **Meeting the studies requirement** — Not later than 180 days after the submission of the reports of the studies, the Secretary shall accept or reject such reports and so notify the sponsor or holder. The Secretary’s only responsibility in accepting or rejecting the reports shall be to determine, within the 180-day period, whether the studies fairly respond to the written request, have been conducted in accordance with commonly accepted scientific principles and protocols, and have been reported in accordance with the requirements of the Secretary for filing.
+(3) **Action on submissions** — The Secretary shall review and act upon a submission by a sponsor or holder of a proposed pediatric study request or a proposed amendment to a written request for pediatric studies within 120 calendar days of the submission.
 
-(4) **Effect of subsection** — Nothing in this subsection alters or amends [section 331(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/j&num=0&edition=prelim) or [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).
+(4) **Meeting the studies requirement** — Not later than 180 days after the submission of the reports of the studies, the Secretary shall accept or reject such reports and so notify the sponsor or holder. The Secretary’s only responsibility in accepting or rejecting the reports shall be to determine, within the 180-day period, whether the studies fairly respond to the written request, have been conducted in accordance with commonly accepted scientific principles and protocols, and have been reported in accordance with the requirements of the Secretary for filing.
 
-(5) **Consultation** — With respect to a drug that is a qualified countermeasure (as defined in [section 247d–6a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6a&num=0&edition=prelim)), a security countermeasure (as defined in [section 247d–6b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b&num=0&edition=prelim)), or a qualified pandemic or epidemic product (as defined in [section 247d–6d of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6d&num=0&edition=prelim)), the Secretary shall solicit input from the Assistant Secretary for Preparedness and Response regarding the need for and, from the Director of the Biomedical Advanced Research and Development Authority regarding the conduct of, pediatric studies under this section.
+(5) **Effect of subsection** — Nothing in this subsection alters or amends [section 331(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/j&num=0&edition=prelim) or [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).
+
+(6) **Consultation** — With respect to a drug that is a qualified countermeasure (as defined in [section 247d–6a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6a&num=0&edition=prelim)), a security countermeasure (as defined in [section 247d–6b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b&num=0&edition=prelim)), or a qualified pandemic or epidemic product (as defined in [section 247d–6d of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6d&num=0&edition=prelim)), the Secretary shall solicit input from the Assistant Secretary for Preparedness and Response regarding the need for and, from the Director of the Biomedical Advanced Research and Development Authority regarding the conduct of, pediatric studies under this section.
 
 **(e) Notice of determinations on studies requirement**
 
@@ -8628,7 +8821,7 @@ Pub. L. 87–781, title I, § 104(d)(3), Oct. 10, 1962, 76 Stat. 785, made amend
 
 (2) **Review of written requests** — The committee referred to in paragraph (1) shall review all written requests issued pursuant to this section prior to being issued.
 
-(3) **Review of pediatric studies** — The committee referred to in paragraph (1) may review studies conducted pursuant to this section to make a recommendation to the Secretary whether to accept or reject such reports under subsection (d)(3).
+(3) **Review of pediatric studies** — The committee referred to in paragraph (1) may review studies conducted pursuant to this section to make a recommendation to the Secretary whether to accept or reject such reports under subsection (d)(4).
 
 (4) **Activity by committee** — The committee referred to in paragraph (1) may operate using appropriate members of such committee and need not convene all members of the committee.
 
@@ -8650,13 +8843,15 @@ Pub. L. 87–781, title I, § 104(d)(3), Oct. 10, 1962, 76 Stat. 785, made amend
 
   (G) information regarding reports submitted on or after September 27, 2007.
 
+(7) **Informing internal review committee** — The Secretary shall provide to the committee referred to in paragraph (1) any response issued to an applicant or holder with respect to a proposed pediatric study request.
+
 **(g) Limitations** Notwithstanding subsection (c)(2), a drug to which the six-month period under subsection (b) or (c) has already been applied—
 
 (1) may receive an additional six-month period under subsection (c)(1)(A)(i)(II) for a supplemental application if all other requirements under this section are satisfied, except that such drug may not receive any additional such period under subsection (c)(1)(B); and
 
 (2) may not receive any additional such period under subsection (c)(1)(A)(ii).
 
-**(h) Relationship to pediatric research requirements** Exclusivity under this section shall only be granted for the completion of a study or studies that are the subject of a written request and for which reports are submitted and accepted in accordance with subsection (d)(3). Written requests under this section may consist of a study or studies required under [section 355c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c).
+**(h) Relationship to pediatric research requirements** Exclusivity under this section shall only be granted for the completion of a study or studies that are the subject of a written request and for which reports are submitted and accepted in accordance with subsection (d)(4). Written requests under this section may consist of a study or studies required under [section 355c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c).
 
 **(i) Labeling changes**
 
@@ -8726,11 +8921,11 @@ Pub. L. 87–781, title I, § 104(d)(3), Oct. 10, 1962, 76 Stat. 785, made amend
 
 (3) **Effect of subsection** — Nothing in this subsection alters or amends [section 331(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/j&num=0&edition=prelim) or [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).
 
-**(o) Prompt approval of drugs under section 355(j) when pediatric information is added to labeling**
+**(o) Prompt approval of drugs when pediatric information is added to labeling**
 
-(1) **General rule** — A drug for which an application has been submitted or approved under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim) shall not be considered ineligible for approval under that section or misbranded under [section 352 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-352) on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent or by exclusivity under clause (iii) or (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim).
+(1) **General rule** — A drug for which an application has been submitted or approved under subsection (b)(2) or (j) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) shall not be considered ineligible for approval under that section or misbranded under [section 352 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-352) on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent, or by exclusivity under clause (iii) or (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim), clause (iii) or (iv) of [section 355(c)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/3/E&num=0&edition=prelim), or [section 360cc(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360cc/a&num=0&edition=prelim), or by an extension of such exclusivity under this section or [section 355f of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355f).
 
-(2) **Labeling** — Notwithstanding clauses (iii) and (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim), the Secretary may require that the labeling of a drug approved under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim) that omits a pediatric indication or other aspect of labeling as described in paragraph (1) include—
+(2) **Labeling** — Notwithstanding clauses (iii) and (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim), clauses (iii) and (iv) of [section 355(c)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/3/E&num=0&edition=prelim), or [section 360cc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360cc), the Secretary may require that the labeling of a drug approved pursuant to an application submitted under subsection (b)(2) or (j) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) that omits a pediatric indication or other aspect of labeling as described in paragraph (1) include—
 
   (A) a statement that, because of marketing exclusivity for a manufacturer—
 
@@ -8740,19 +8935,57 @@ Pub. L. 87–781, title I, § 104(d)(3), Oct. 10, 1962, 76 Stat. 785, made amend
 
   (B) a statement of any appropriate pediatric contraindications, warnings, precautions, or other information that the Secretary considers necessary to assure safe use.
 
-(3) **Preservation of pediatric exclusivity and other provisions** — This subsection does not affect—
+(3) **Preservation of pediatric exclusivity and extensions** — This subsection does not affect—
 
-  (A) the availability or scope of exclusivity under this section;
+  (A) the availability or scope of exclusivity under—
 
-  (B) the availability or scope of exclusivity under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) for pediatric formulations;
+    (i) this section;
 
-  (C) the question of the eligibility for approval of any application under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim) that omits any other conditions of approval entitled to exclusivity under clause (iii) or (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim); or
+    (ii) [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) for pediatric formulations; or
 
-  (D) except as expressly provided in paragraphs (1) and (2), the operation of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355).
+    (iii) [section 360cc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360cc);
+
+  (B) the availability or scope of an extension to any such exclusivity, including an extension under this section or [section 355f of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355f);
+
+  (C) the question of the eligibility for approval under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) of any application described in subsection (b)(2) or (j) of such section that omits any other aspect of labeling protected by exclusivity under—
+
+    (i) clause (iii) or (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim);
+
+    (ii) clause (iii) or (iv) of [section 355(c)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/3/E&num=0&edition=prelim); or
+
+    (iii) [section 360cc(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360cc/a&num=0&edition=prelim); or
+
+  (D) except as expressly provided in paragraphs (1) and (2), the operation of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or [section 360cc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360cc).
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsecs. (b), (c). Pub. L. 115–52, § 505(b)(2)(A), substituted “subsection (d)(4)” for “subsection (d)(3)” in introductory provisions of par. (1) and in par. (2).
+
+Subsec. (d)(3) to (6). Pub. L. 115–52, § 505(b)(1), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+
+Subsec. (f)(3). Pub. L. 115–52, § 505(b)(2)(A), substituted “subsection (d)(4)” for “subsection (d)(3)”.
+
+Subsec. (f)(7). Pub. L. 115–52, § 505(a), added par. (7).
+
+Subsec. (h). Pub. L. 115–52, § 505(b)(2)(A), substituted “subsection (d)(4)” for “subsection (d)(3)”.
+
+Subsec. (o). Pub. L. 115–52, § 608(1), struck out “under section 355(j)” after “approval of drugs” in heading.
+
+Subsec. (o)(1). Pub. L. 115–52, § 608(2), substituted “under subsection (b)(2) or (j) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)” for “under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)” and “, or by exclusivity under clause (iii) or (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim), clause (iii) or (iv) of [section 355(c)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/3/E&num=0&edition=prelim), or [section 360cc(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360cc/a&num=0&edition=prelim), or by an extension of such exclusivity under this section or [section 355f of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355f)” for “or by exclusivity under clause (iii) or (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim)”.
+
+Subsec. (o)(2). Pub. L. 115–52, § 608(3), in introductory provisions, inserted “clauses (iii) and (iv) of [section 355(c)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/3/E&num=0&edition=prelim), or [section 360cc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360cc),” after “[section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim),” and substituted “drug approved pursuant to an application submitted under subsection (b)(2) or (j) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)” for “drug approved under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)”.
+
+Subsec. (o)(3). Pub. L. 115–52, § 608(4), amended par. (3) generally. Prior to amendment, text read as follows: “This subsection does not affect—
+
+“(A) the availability or scope of exclusivity under this section;
+
+“(B) the availability or scope of exclusivity under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) for pediatric formulations;
+
+“(C) the question of the eligibility for approval of any application under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim) that omits any other conditions of approval entitled to exclusivity under clause (iii) or (iv) of [section 355(j)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/F&num=0&edition=prelim); or
+
+“(D) except as expressly provided in paragraphs (1) and (2), the operation of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355).”
+
 2016—Subsec. (p). Pub. L. 114–255 struck out subsec. (p) which related to Institute of Medicine study.
 
 2013—Subsec. (d)(5). Pub. L. 113–5, § 307(a)(1), added par. (5).
@@ -8894,6 +9127,12 @@ Pub. L. 107–109, § 11(b), Jan. 4, 2002, 115 Stat. 1416, provided that: “The
 #### Construction of 2007 Amendments on Pediatric Studies
 Pub. L. 110–85, title IX, § 901(e), Sept. 27, 2007, 121 Stat. 942, provided that: “This title [enacting sections 353c, 355–1, 355e, 360a, and 360bbb–6 of this title, amending sections 331, 333, 334, 352, 355, and 381 of this title and [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under sections 331, 352, and 355 of this title] and the amendments made by this title may not be construed as affecting the authority of the Secretary of Health and Human Services to request pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a)] or to require such studies under section 505B of such Act [[21 U.S.C. 355c](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c)].”
 
+#### Plan for Earlier Submission of Pediatric Studies
+Pub. L. 115–52, title V, § 505(c), Aug. 18, 2017, 131 Stat. 1046, provided that: “The Secretary of Health and Human Services, acting through the internal review committee established under section 505C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355d](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355d)) shall, not later than one year after the date of enactment of this Act [Aug. 18, 2017], develop and implement a plan to achieve, when appropriate, earlier submission of pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a)) or section 351(m) of the Public Health Service Act ([42 U.S.C. 262(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/m&num=0&edition=prelim)). Such plan shall include recommendations to achieve— “(1) earlier discussion of proposed pediatric study requests and written requests with sponsors, and if appropriate, discussion of such requests at the meeting required under section 505B(e)(2)(C) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355c(e)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/e/2/C&num=0&edition=prelim)), as amended by section 503(a); “(2) earlier issuance of written requests for a pediatric study under such section 505A, including for investigational new drugs prior to the submission of an application under section 505(b)(1) of such Act ([21 U.S.C. 355(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim)); and “(3) shorter timelines, when appropriate, for the completion of studies pursuant to a written request under such section 505A or such section 351(m).”
+
+#### Draft Guidance for Neonatal Studies
+Pub. L. 115–52, title V, § 505(d)(2), Aug. 18, 2017, 131 Stat. 1047, provided that: “Not later than 2 years after the date of enactment of this Act [Aug. 18, 2017], the Secretary shall issue draft guidance on clinical pharmacology considerations for neonatal studies for drugs and biological products.”
+
 #### Communication With Pediatric Review Committee
 Pub. L. 112–144, title V, § 503, July 9, 2012, 126 Stat. 1040, provided that: “Not later than 1 year after the date of enactment of this Act [July 9, 2012], the Secretary of Health and Human Services (referred to in this title [see Tables for classification] as the ‘Secretary’) shall issue internal standard operating procedures that provide for the review by the internal review committee established under section 505C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355d](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355d)) of any significant modifications to initial pediatric study plans, agreed initial pediatric study plans, and written requests under sections 505A and 505B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a), 355c). Such internal standard operating procedures shall be made publicly available on the Internet Web site of the Food and Drug Administration.”
 
@@ -8942,16 +9181,24 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 ## § 355c. Research into pediatric uses for drugs and biological products
 **(a) New drugs and biological products**
 
-(1) **In general** — A person that submits, on or after September 27, 2007, an application (or supplement to an application) for a drug—
+(1) **In general**
 
-  (A) under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration, or
+  (A) *General requirements* — Except with respect to an application for which subparagraph (B) applies, a person that submits, on or after September 27, 2007, an application (or supplement to an application) for a drug—
 
-  (B) under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration,
-  shall submit with the application the assessments described in paragraph (2).
+    (i) under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration; or
+
+    (ii) under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration,
+    shall submit with the application the assessments described in paragraph (2).
+
+  (B) *Certain molecularly targeted cancer indications* — A person that submits, on or after the date that is 3 years after August 18, 2017, an original application for a new active ingredient under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), shall submit with the application reports on the investigation described in paragraph (3) if the drug or biological product that is the subject of the application is—
+
+    (i) intended for the treatment of an adult cancer; and
+
+    (ii) directed at a molecular target that the Secretary determines to be substantially relevant to the growth or progression of a pediatric cancer.
 
 (2) **Assessments**
 
-  (A) *In general* — The assessments referred to in paragraph (1) shall contain data, gathered using appropriate formulations for each age group for which the assessment is required, that are adequate—
+  (A) *In general* — The assessments referred to in paragraph (1)(A) shall contain data, gathered using appropriate formulations for each age group for which the assessment is required, that are adequate—
 
     (i) to assess the safety and effectiveness of the drug or the biological product for the claimed indications in all relevant pediatric subpopulations; and
 
@@ -8965,9 +9212,17 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
     (iii) *Information on extrapolation* — A brief documentation of the scientific data supporting the conclusion under clauses (i) and (ii) shall be included in any pertinent reviews for the application under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim).
 
-(3) **Deferral**
+(3) **Molecularly targeted pediatric cancer investigation**
 
-  (A) *In general* — On the initiative of the Secretary or at the request of the applicant, the Secretary may defer submission of some or all assessments required under paragraph (1) until a specified date after approval of the drug or issuance of the license for a biological product if—
+  (A) *In general* — With respect to a drug or biological product described in paragraph (1)(B), the investigation described in this paragraph is a molecularly targeted pediatric cancer investigation, which shall be designed to yield clinically meaningful pediatric study data, gathered using appropriate formulations for each age group for which the study is required, regarding dosing, safety, and preliminary efficacy to inform potential pediatric labeling.
+
+  (B) *Extrapolation of data* — Paragraph (2)(B) shall apply to investigations described in this paragraph to the same extent and in the same manner as paragraph (2)(B) applies with respect to the assessments required under paragraph (1)(A).
+
+  (C) *Deferrals and waivers* — Deferrals and waivers under paragraphs (4) and (5) shall apply to investigations described in this paragraph to the same extent and in the same manner as such deferrals and waivers apply with respect to the assessments under paragraph (2)(B).
+
+(4) **Deferral**
+
+  (A) *In general* — On the initiative of the Secretary or at the request of the applicant, the Secretary may defer submission of some or all assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B) until a specified date after approval of the drug or issuance of the license for a biological product if—
 
     (i) the Secretary finds that—
 
@@ -8979,7 +9234,7 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
     (ii) the applicant submits to the Secretary—
 
-      (I) certification of the grounds for deferring the assessments;
+      (I) certification of the grounds for deferring the assessments or reports on the investigation;
 
       (II) a pediatric study plan as described in subsection (e);
 
@@ -8989,13 +9244,13 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
   (B) *Deferral extension*
 
-    (i) *In general* — On the initiative of the Secretary or at the request of the applicant, the Secretary may grant an extension of a deferral approved under subparagraph (A) for submission of some or all assessments required under paragraph (1) if—
+    (i) *In general* — On the initiative of the Secretary or at the request of the applicant, the Secretary may grant an extension of a deferral approved under subparagraph (A) for submission of some or all assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B) if—
 
       (I) the Secretary determines that the conditions described in subclause (II) or (III) of subparagraph (A)(i) continue to be met; and
 
       (II) the applicant submits a new timeline under subparagraph (A)(ii)(IV) and any significant updates to the information required under subparagraph (A)(ii).
 
-    (ii) *Timing and information* — If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
+    (ii) *Timing and information* — If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
 
   (C) *Annual review*
 
@@ -9013,15 +9268,15 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
       (I) such information;
 
-      (II) the name of the applicant for the product subject to the assessment;
+      (II) the name of the applicant for the product subject to the assessment or investigation;
 
       (III) the date on which the product was approved; and
 
       (IV) the date of each deferral or deferral extension under this paragraph for the product.
 
-(4) **Waivers**
+(5) **Waivers**
 
-  (A) *Full waiver* — On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a full waiver, as appropriate, of the requirement to submit assessments for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
+  (A) *Full waiver* — On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a full waiver, as appropriate, of the requirement to submit assessments or reports on the investigation for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
 
     (i) necessary studies are impossible or highly impracticable (because, for example, the number of patients is so small or the patients are geographically dispersed);
 
@@ -9033,7 +9288,7 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
       (II) is not likely to be used in a substantial number of pediatric patients.
 
-  (B) *Partial waiver* — On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a partial waiver, as appropriate, of the requirement to submit assessments for a drug or biological product under this subsection with respect to a specific pediatric age group if the applicant certifies and the Secretary finds that—
+  (B) *Partial waiver* — On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a partial waiver, as appropriate, of the requirement to submit assessments or reports on the investigation for a drug or biological product under this subsection with respect to a specific pediatric age group if the applicant certifies and the Secretary finds that—
 
     (i) necessary studies are impossible or highly impracticable (because, for example, the number of patients in that age group is so small or patients in that age group are geographically dispersed);
 
@@ -9103,11 +9358,11 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
 (2) the drug or biological product is in a class of products or for an indication for which there is a need for additional options.
 
-**(d) Submission of assessments** If a person fails to submit a required assessment described in subsection (a)(2), fails to meet the applicable requirements in subsection (a)(3), or fails to submit a request for approval of a pediatric formulation described in subsection (a) or (b), in accordance with applicable provisions of subsections (a) and (b), the following shall apply:
+**(d) Submission of assessments and reports on the investigation** If a person fails to submit a required assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), fails to meet the applicable requirements in subsection (a)(4), or fails to submit a request for approval of a pediatric formulation described in subsection (a) or (b), in accordance with applicable provisions of subsections (a) and (b), the following shall apply:
 
-(1) Beginning 270 days after July 9, 2012, the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person’s request for a deferral extension if applicable. Such letter and the person’s written response to such letter shall be made publicly available on the Internet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply.
+(1) Beginning 270 days after July 9, 2012, the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person’s request for a deferral extension if applicable. Such letter and the person’s written response to such letter shall be made publicly available on the Internet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply. The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters.
 
-(2) The drug or biological product that is the subject of an assessment described in subsection (a)(2), applicable requirements in subsection (a)(3), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under [section 333 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-333)), but such failure shall not be the basis for a proceeding—
+(2) The drug or biological product that is the subject of an assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), applicable requirements in subsection (a)(4), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under [section 333 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-333)), but such failure shall not be the basis for a proceeding—
 
   (A) to withdraw approval for a drug under [section 355(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/e&num=0&edition=prelim); or
 
@@ -9115,13 +9370,13 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
 **(e) Pediatric study plans**
 
-(1) **In general** — An applicant subject to subsection (a) shall submit to the Secretary an initial pediatric study plan prior to the submission of the assessments described under subsection (a)(2).
+(1) **In general** — An applicant subject to subsection (a) shall submit to the Secretary an initial pediatric study plan prior to the submission of the assessments described under subsection (a)(2) or the investigation described in subsection (a)(3).
 
-(2) **Timing; content; meeting**
+(2) **Timing; content; meetings**
 
   (A) *Timing* — An applicant shall submit the initial pediatric study plan under paragraph (1)—
 
-    (i) before the date on which the applicant submits the assessments under subsection (a)(2); and
+    (i) before the date on which the applicant submits the assessments under subsection (a)(2) or the investigation described in subsection (a)(3); and
 
     (ii) not later than—
 
@@ -9138,15 +9393,21 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
     (iii) other information specified in the regulations promulgated under paragraph (7).
 
-  (C) *Meeting* — The Secretary—
+  (C) *Meetings* — The Secretary—
 
-    (i) shall meet with the applicant to discuss the initial pediatric study plan as soon as practicable, but not later than 90 calendar days after the receipt of such plan under subparagraph (A);
+    (i) shall meet with the applicant—
 
-    (ii) may determine that a written response to the initial pediatric study plan is sufficient to communicate comments on the initial pediatric study plan, and that no meeting is necessary; and
+      (I) if requested by the applicant with respect to a drug or biological product that is intended to treat a serious or life-threatening disease or condition, to discuss preparation of the initial pediatric study plan, not later than the end-of-Phase 1 meeting (as such term is used in section 312.82(b) of title 21, Code of Federal Regulations, or successor regulations) or within 30 calendar days of receipt of such request, whichever is later;
 
-    (iii) if the Secretary determines that no meeting is necessary, shall so notify the applicant and provide written comments of the Secretary as soon as practicable, but not later than 90 calendar days after the receipt of the initial pediatric study plan.
+      (II) to discuss the initial pediatric study plan as soon as practicable, but not later than 90 calendar days after the receipt of such plan under subparagraph (A); and
 
-(3) **Agreed initial pediatric study plan** — Not later than 90 calendar days following the meeting under paragraph (2)(C)(i) or the receipt of a written response from the Secretary under paragraph (2)(C)(iii), the applicant shall document agreement on the initial pediatric study plan in a submission to the Secretary marked “Agreed Initial Pediatric Study Plan”, and the Secretary shall confirm such agreement to the applicant in writing not later than 30 calendar days of receipt of such agreed initial pediatric study plan.
+      (III) to discuss the bases for the deferral under subsection (a)(4) or a full or partial waiver under subsection (a)(5);
+
+    (ii) may determine that a written response to the initial pediatric study plan is sufficient to communicate comments on the initial pediatric study plan, and that no meeting under clause (i)(II) is necessary; and
+
+    (iii) if the Secretary determines that no meeting under clause (i)(II) is necessary, shall so notify the applicant and provide written comments of the Secretary as soon as practicable, but not later than 90 calendar days after the receipt of the initial pediatric study plan.
+
+(3) **Agreed initial pediatric study plan** — Not later than 90 calendar days following the meeting under paragraph (2)(C)(i)(II) or the receipt of a written response from the Secretary under paragraph (2)(C)(iii), the applicant shall document agreement on the initial pediatric study plan in a submission to the Secretary marked “Agreed Initial Pediatric Study Plan”, and the Secretary shall confirm such agreement to the applicant in writing not later than 30 calendar days of receipt of such agreed initial pediatric study plan.
 
 (4) **Deferral and waiver** — If the agreed initial pediatric study plan contains a request from the applicant for a deferral, partial waiver, or waiver under this section, the written confirmation under paragraph (3) shall include a recommendation from the Secretary as to whether such request meets the standards under paragraphs (3) or (4) of subsection (a).
 
@@ -9242,7 +9503,11 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
 **(j) Scope of authority** Nothing in this section provides to the Secretary any authority to require a pediatric assessment of any drug or biological product, or any assessment regarding other populations or uses of a drug or biological product, other than the pediatric assessments described in this section.
 
-**(k) Orphan drugs** Unless the Secretary requires otherwise by regulation, this section does not apply to any drug for an indication for which orphan designation has been granted under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb).
+**(k) Relation to orphan drugs**
+
+(1) **In general; exemption for orphan indications** — Unless the Secretary requires otherwise by regulation and except as provided in paragraph (2), this section does not apply to any drug or biological product for an indication for which orphan designation has been granted under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb).
+
+(2) **Applicability despite orphan designation of certain indications** — This section shall apply with respect to a drug or biological product for which an indication has been granted orphan designation under 360bb 11 So in original. Probably should be preceded by “section”. of this title if the investigation described in subsection (a)(3) applies to the drug or biological product as described in subsection (a)(1)(B).
 
 **(l) New active ingredient**
 
@@ -9250,9 +9515,71 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
 (2) **Interchangeable biosimilar biological product** — A biological product that is interchangeable with a reference product under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) shall not be considered to have a new active ingredient under this section.
 
+**(m) List of primary molecular targets**
+
+(1) **In general** — Within one year of August 18, 2017, the Secretary shall establish and update regularly, and shall publish on the internet website of the Food and Drug Administration—
+
+  (A) a list of molecular targets considered, on the basis of data the Secretary determines to be adequate, to be substantially relevant to the growth and progression of a pediatric cancer, and that may trigger the requirements under this section; and
+
+  (B) a list of molecular targets of new cancer drugs and biological products in development for which pediatric cancer study requirements under this section will be automatically waived.
+
+(2) **Consultation** — In establishing the lists described in paragraph (1), the Secretary shall consult the National Cancer Institute, members of the internal committee under [section 355d of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355d), and the Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee, and shall take into account comments from the meeting under subsection (c).
+
+(3) **Rule of construction** — Nothing in paragraph (1) shall be construed—
+
+  (A) to require the inclusion of a molecular target on the list published under such paragraph as a condition for triggering the requirements under subsection (a)(1)(B) with respect to a drug or biological product directed at such molecular target; or
+
+  (B) to authorize the disclosure of confidential commercial information, as prohibited under [section 331(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/j&num=0&edition=prelim) or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–52, § 504(a)(1)(A), designated existing provisions as subpar. (A) and inserted heading, substituted “Except with respect to an application for which subparagraph (B) applies, a person” for “A person”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted “; or” for “, or” at end of subpar. (A)(i), and added subpar. (B).
+
+Subsec. (a)(2)(A). Pub. L. 115–52, § 504(a)(1)(B), substituted “paragraph (1)(A)” for “paragraph (1)” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 115–52, § 504(a)(1)(D), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 115–52, § 504(a)(1)(C), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(4)(A). Pub. L. 115–52, § 504(a)(1)(E)(i), substituted “assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B)” for “assessments required under paragraph (1)” in introductory provisions.
+
+Subsec. (a)(4)(A)(ii)(I). Pub. L. 115–52, § 504(a)(1)(E)(ii), inserted “or reports on the investigation” after “assessments”.
+
+Subsec. (a)(4)(B)(i). Pub. L. 115–52, § 504(a)(1)(E)(i), substituted “assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B)” for “assessments required under paragraph (1)” in introductory provisions.
+
+Subsec. (a)(4)(B)(ii). Pub. L. 115–52, § 504(a)(1)(E)(iii), substituted “assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B)” for “assessment under paragraph (1)”.
+
+Subsec. (a)(4)(C)(ii)(II). Pub. L. 115–52, § 504(a)(1)(E)(iv), inserted “or investigation” after “assessment”.
+
+Subsec. (a)(5). Pub. L. 115–52, § 504(a)(1)(C), redesignated par. (4) as (5).
+
+Subsec. (a)(5)(A), (B). Pub. L. 115–52, § 504(a)(1)(F), inserted “or reports on the investigation” after “assessments” in introductory provisions.
+
+Subsec. (d). Pub. L. 115–52, § 504(a)(2), inserted “and reports on the investigation” after “Submission of assessments” in heading and, in introductory provisions, inserted “or the investigation described in subsection (a)(3)” after “assessment described in subsection (a)(2)” and substituted “subsection (a)(4)” for “subsection (a)(3)”.
+
+Subsec. (d)(1). Pub. L. 115–52, § 505(e), inserted at end “The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters.”
+
+Subsec. (d)(2). Pub. L. 115–52, § 504(a)(2)(A), (C), in introductory provisions, inserted “or the investigation described in subsection (a)(3)” after “assessment described in subsection (a)(2)” and substituted “subsection (a)(4)” for “subsection (a)(3)”.
+
+Subsec. (e)(1). Pub. L. 115–52, § 504(a)(3)(A), inserted “or the investigation described in subsection (a)(3)” after “under subsection (a)(2)”.
+
+Subsec. (e)(2). Pub. L. 115–52, § 503(b)(1), substituted “meetings” for “meeting” in heading.
+
+Subsec. (e)(2)(A)(i). Pub. L. 115–52, § 504(a)(3)(B), inserted “or the investigation described in subsection (a)(3)” after “under subsection (a)(2)”.
+
+Subsec. (e)(2)(C). Pub. L. 115–52, § 503(b)(2), substituted “Meetings” for “Meeting” in heading.
+
+Subsec. (e)(2)(C)(i). Pub. L. 115–52, § 503(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “shall meet with the applicant to discuss the initial pediatric study plan as soon as practicable, but not later than 90 calendar days after the receipt of such plan under subparagraph (A);”.
+
+Subsec. (e)(2)(C)(ii), (iii). Pub. L. 115–52, § 503(b)(3), substituted “no meeting under clause (i)(II)” for “no meeting”.
+
+Subsec. (e)(3). Pub. L. 115–52, § 503(b)(4), substituted “meeting under paragraph (2)(C)(i)(II)” for “meeting under paragraph (2)(C)(i)”.
+
+Subsec. (k). Pub. L. 115–52, § 504(b), amended subsec. (k) generally. Prior to amendment, text read as follows: “Unless the Secretary requires otherwise by regulation, this section does not apply to any drug for an indication for which orphan designation has been granted under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb).”
+
+Subsec. (m). Pub. L. 115–52, § 504(a)(4), added subsec. (m).
+
 2016—Subsec. (e)(2)(A). Pub. L. 114–255, § 3101(a)(2)(D)(i)(I)(aa), inserted “study” after “initial pediatric” in introductory and concluding provisions.
 
 Subsec. (e)(2)(B). Pub. L. 114–255, § 3101(a)(2)(D)(i)(I)(bb), substituted “Content of initial pediatric study plan” for “Content of initial plan” in heading.
@@ -9332,6 +9659,12 @@ Pub. L. 110–85, title IV, § 402(b), Sept. 27, 2007, 121 Stat. 875, provided t
 #### Effective Date
 Pub. L. 108–155, § 4, Dec. 3, 2003, 117 Stat. 1942, provided that: “(a) In General.—Subject to subsection (b), this Act [enacting this section, amending sections 355, 355a, and 355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301), and amending provisions set out as notes under [section 355a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a) and [section 284m of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section284m&num=0&edition=prelim)] and the amendments made by this Act take effect on the date of enactment of this Act [Dec. 3, 2003]. “(b) Applicability to New Drugs and Biological Products.—“(1) In general.—Subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/a&num=0&edition=prelim)] (as added by section 2) shall apply to an application described in paragraph (1) of that subsection submitted to the Secretary of Health and Human Services on or after April 1, 1999. “(2) Waivers and deferrals.—“(A) Waiver or deferral granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act [Dec. 3, 2003], a waiver or deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the waiver or deferral shall be a waiver or deferral under subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/a&num=0&edition=prelim)], except that any date specified in such a deferral shall be extended by the number of days that is equal to the number of days between October 17, 2002, and the date of enactment of this Act. “(B) Waiver and deferral not granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act [Dec. 3, 2003], neither a waiver nor deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the person that submitted the application shall be required to submit assessments under subsection (a)(2) of section 505B of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355c(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/a/2&num=0&edition=prelim)] on the date that is the later of—“(i) the date that is 1 year after the date of enactment of this Act; or “(ii) such date as the Secretary may specify under subsection (a)(3) of that section; unless the Secretary grants a waiver under subsection (a)(4) of that section. “(c) No Limitation of Authority.—Neither the lack of guidance or regulations to implement this Act or the amendments made by this Act nor the pendency of the process for issuing guidance or regulations shall limit the authority of the Secretary of Health and Human Services under, or defer any requirement under, this Act or those amendments.”
 
+#### Rule of Construction
+Pub. L. 115–52, title V, § 504(e), Aug. 18, 2017, 131 Stat. 1045, provided that: “Nothing in this section [amending this section and [section 355c–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c-1) and enacting provisions set out as a note below], including the amendments made by this section, shall limit the authority of the Secretary of Health and Human Services to issue written requests under section 505A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a)) or section 351(m) of the Public Health Service Act ([42 U.S.C. 262(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/m&num=0&edition=prelim)), or to negotiate or implement amendments to such requests proposed by the an [sic] applicant.”
+
+#### Meeting, Consultation, and Guidance
+Pub. L. 115–52, title V, § 504(c), Aug. 18, 2017, 131 Stat. 1041, provided that: “(1) Meeting.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), acting through the Commissioner of Food and Drugs and in collaboration with the Director of the National Cancer Institute, shall convene a public meeting not later than 1 year after the date of enactment of this Act [Aug. 18, 2017] to solicit feedback from physicians and researchers (including pediatric oncologists and rare disease specialists), patients, and other stakeholders to provide input on development of the guidance under paragraph (2) and the list under subsection (m) of section 505B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355c](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c)), as added by subsection (a). The Secretary shall seek input at such meeting on—“(A) the data necessary to determine that there is scientific evidence that a drug or biological product is directed at a molecular target that is considered to be substantially relevant to the growth or progression of a pediatric cancer; “(B) the data necessary to determine that there is scientific evidence that a molecular target is considered to be substantially relevant to the growth or progression of a pediatric cancer; “(C) the data needed to meet the requirement of conducting an investigation described in section 505B(a)(3) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355c(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/a/3&num=0&edition=prelim)], as amended by subsection (a); “(D) considerations when developing the list under section 505B(m) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355c(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/m&num=0&edition=prelim)] that contains molecular targets shared between different tumor types; “(E) the process the Secretary shall utilize to update regularly a list of molecular targets that may trigger a pediatric study under section 505B of the Federal Food, Drug, and Cosmetic Act, as so amended, and how often such updates shall occur; “(F) how to overcome the challenges related to pediatric cancer drug and biological product development, including issues related to the ethical, practical, and other barriers to conducting clinical trials in pediatric cancer with small patient populations; “(G) scientific or operational challenges associated with performing an investigation described in section 505B(a)(1)(B) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355c(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/a/1/B&num=0&edition=prelim)], including the effect on pediatric studies currently underway in a pediatric patient population, treatment of a pediatric patient population, and the ability to complete adult clinical trials; “(H) the advantages and disadvantages of innovative clinical trial designs in addressing the development of cancer drugs or biological products directed at molecular targets in pediatric cancer patients; “(I) the ways in which the Secretary can improve the current process outlined under sections 505A and 505B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a), 355c) to encourage additional research and development of pediatric cancer treatments; “(J) the ways in which the Secretary might streamline and improve the written request process, including when studies contained in a request under such section 505A are not feasible due to the ethical, practical, or other barriers to conducting clinical trials in pediatric cancer populations; “(K) how the Secretary will facilitate collaboration among pediatric networks, academic centers and experts in pediatric cancer to conduct an investigation described in such section 505B(a)(3); “(L) how the Secretary may facilitate collaboration among sponsors of same-in-class drugs and biological products that would be subject to the requirements for an investigation under such section 505B based on shared molecular targets; and “(M) the ways in which the Secretary will help to mitigate the risks, if any, of discouraging the research and development of orphan drugs when implementing such section 505B as amended. “(2) Guidance.—Not later than 2 years after the date of enactment of this Act [Aug. 18, 2017], the Secretary, acting through the Commissioner of Food and Drugs, shall issue final guidance on implementation of the amendments to section 505B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355c](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c)) regarding molecularly targeted cancer drugs made by this section, including—“(A) the scientific criteria, types of data, and regulatory considerations for determining whether a molecular target is substantially relevant to the growth or progression of a pediatric cancer and would trigger an investigation under section 505B of the Federal Food, Drug, and Cosmetic Act, as amended; “(B) the process by which the Secretary will engage with sponsors to discuss determinations, investigation requirements, deferrals, waivers, and any other issues that need to be resolved to ensure that any required investigation based on a molecular target can be reasonably conducted; “(C) the scientific or operational challenges for which the Secretary may issue deferrals or waivers for an investigation described in subsection (a)(3) of such section 505B, including adverse impacts on current pediatric studies underway in a pediatric patient population, studies involving drugs designated as orphan drugs, treatment of a pediatric patient population, or the ability to complete adult clinical trials; “(D) how the Secretary and sponsors will facilitate collaboration among pediatric networks, academic centers, and experts in pediatric cancer to conduct an investigation described in subsection (a)(3) of such section 505B; “(E) scientific and regulatory considerations for study designs, including the applicability of innovative clinical trial designs for pediatric cancer drug and biological product developments under sections 505A and 505B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a), 355c); “(F) approaches to streamline and improve the amendment process, including when studies contained in a request under such section 505A are not feasible due to the ethical, practical, or other barriers to conducting clinical trials in pediatric cancer populations; “(G) the process for submission of an initial pediatric study plan for the investigation described in section 505B(a)(3) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355c(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/a/3&num=0&edition=prelim)), including the process for a sponsor to meet and reach agreement with the Secretary on the initial pediatric study plan; and “(H) considerations for implementation of such section 505B, as so amended, and waivers of the requirements of such section 505B with regard to molecular targets for which several drugs or biological products may be under investigation.”
+
 
 <a id="section-355c-1"></a>
 ## § 355c–1. Report
@@ -9371,20 +9704,51 @@ Pub. L. 108–155, § 4, Dec. 3, 2003, 117 Stat. 1942, provided that: “(a) In 
 
 (9) any recommendations for modification to such programs that would improve pediatric drug research and increase pediatric labeling of drugs and biological products;
 
-(10) an assessment of the successes of and limitations to studying drugs for rare diseases under such sections 355a and 355c of this title; and
+(10) an assessment of the successes of and limitations to studying drugs for rare diseases under such sections 355a and 355c of this title;
 
-(11) an assessment of the Secretary’s efforts to address the suggestions and options described in any prior report issued by the Comptroller General, Institute of Medicine, or the Secretary, and any subsequent reports, including recommendations therein, regarding the topics addressed in the reports under this section, including with respect to—
+(11) an assessment of the impact of the amendments to such [section 355c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c) made by the FDA Reauthorization Act of 2017 on pediatric research and labeling of drugs and biological products and pediatric labeling of molecularly targeted drugs and biological products for the treatment of cancer;
 
-  (A) improving public access to information from pediatric studies conducted under such sections 355a and 355c of this title; and
+(12) an assessment of the efforts of the Secretary to implement the plan developed under section 505C–1 of the Federal Food, Drug, and Cosmetic Act,11 See References in Text note below. regarding earlier submission of pediatric studies under sections 355a and 355c of this title and [section 262(m) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/m&num=0&edition=prelim), including—
 
-  (B) improving the timeliness of pediatric studies and pediatric study planning under such sections 355a and 355c of this title.
+  (A) the average length of time after the approval of an application under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim) or [section 262(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim) before studies conducted pursuant to such [section 355a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a), 355c of this title, or [section 262(m) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/m&num=0&edition=prelim) are completed, submitted, and incorporated into labeling;
+
+  (B) the average length of time after the receipt of a proposed pediatric study request before the Secretary responds to such request;
+
+  (C) the average length of time after the submission of a proposed pediatric study request before the Secretary issues a written request for such studies;
+
+  (D) the number of written requests issued for each investigational new drug or biological product prior to the submission of an application under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim) or [section 262(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim); and
+
+  (E) the average number, and range of numbers, of amendments to written requests issued, and the time the Secretary requires to review and act on proposed amendments to written requests;
+
+(13) a list of sponsors of applications or holders of approved applications who received exclusivity under such [section 355a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a) or such [section 262(m) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/m&num=0&edition=prelim) after receiving a letter issued under such [section 355c(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355c/d/1&num=0&edition=prelim) for any drug or biological product before the studies referred to in such letter were completed and submitted;
+
+(14) a list of assessments and investigations required under such [section 355c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c);
+
+(15) how many requests under such [section 355a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a) for molecular targeted cancer drugs, as defined by subsection (a)(1)(B) of such [section 355c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c), approved prior to 3 years after August 18, 2017, have been issued by the Food and Drug Administration, and how many such requests have been completed; and
+
+(16) the Secretary’s assessment of the overall impact of the amendments made by section 504 of the FDA Reauthorization Act of 2017 on the conduct and effectiveness of pediatric cancer research and the orphan drug program, as well any subsequent recommendations.
 
 **(c) Stakeholder comment** At least 180 days prior to the submission of each report under subsection (a), the Secretary shall consult with representatives of patient groups (including pediatric patient groups), consumer groups, regulated industry, academia, and other interested parties to obtain any recommendations or information relevant to the report including suggestions for modifications that would improve pediatric drug research and pediatric labeling of drugs and biological products.
 
 ### Statutory Notes
 
+#### References in Text
+The FDA Reauthorization Act of 2017, referred to in subsec. (b)(11), (16), is Pub. L. 115–52, Aug. 18, 2017, 131 Stat. 1005. Section 504 of the Act amended this section and [section 355c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c). For complete classification of this Act to the Code, see Short Title of 2017 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+
+Section 505C–1 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(12), probably means section 505(c) of Pub. L. 115–52, the FDA Reauthorization Act of 2017, which is set out as a note under [section 355a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a). The Federal Food, Drug, and Cosmetic Act does not contain a section 505C–1, and section 505(c) of the FDA Reauthorization Act of 2017 relates to the development and implementation of a plan for earlier submission of pediatric studies under sections 355a and 355c of this title and [section 262(m) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/m&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Codification
 Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+#### Amendments
+2017—Subsec. (b)(11) to (16). Pub. L. 115–52 added pars. (11) to (16) and struck out former par. (11) which read as follows: “an assessment of the Secretary’s efforts to address the suggestions and options described in any prior report issued by the Comptroller General, Institute of Medicine, or the Secretary, and any subsequent reports, including recommendations therein, regarding the topics addressed in the reports under this section, including with respect to—
+
+“(A) improving public access to information from pediatric studies conducted under such sections 355a and 355c of this title; and
+
+“(B) improving the timeliness of pediatric studies and pediatric study planning under such sections 355a and 355c of this title.”
+
+#### Rule of Construction
+Nothing in amendment by Pub. L. 115–52 to limit the authority of the Secretary of Health and Human Services to issue written requests under [section 355a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a) or [section 262(m) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/m&num=0&edition=prelim), The Public Health and Welfare, or to negotiate or implement amendments to such requests proposed by applicants, see section 504(e) of Pub. L. 115–52, set out as a note under [section 355c of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355c).
 
 #### Definition of “Secretary”
 The term “Secretary” as used in this section means the Secretary of Health and Human Services, see section 503 of Pub. L. 112–144, set out as a note under [section 355a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355a).
@@ -9393,11 +9757,13 @@ The term “Secretary” as used in this section means the Secretary of Health a
 <a id="section-355d"></a>
 ## § 355d. Internal committee for review of pediatric plans, assessments, deferrals, deferral extensions, and waivers
 
-The Secretary shall establish an internal committee within the Food and Drug Administration to carry out the activities as described in sections 355a(f) and 355c(f) of this title. Such internal committee shall include employees of the Food and Drug Administration, with expertise in pediatrics (including representation from the Office of Pediatric Therapeutics), biopharmacology, statistics, chemistry, legal issues, pediatric ethics, neonatology, and the appropriate expertise pertaining to the pediatric product under review, such as expertise in child and adolescent psychiatry, and other individuals designated by the Secretary.
+The Secretary shall establish an internal committee within the Food and Drug Administration to carry out the activities as described in sections 355a(f) and 355c(f) of this title. Such internal committee shall include employees of the Food and Drug Administration, with expertise in pediatrics (including representation from the Office of Pediatric Therapeutics), biopharmacology, statistics, chemistry, legal issues, pediatric ethics, neonatology, and the appropriate expertise pertaining to the pediatric product under review, such as expertise in child and adolescent psychiatry or pediatric rare diseases, and other individuals designated by the Secretary.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Pub. L. 115–52 inserted “or pediatric rare diseases” after “psychiatry”.
+
 2012—Pub. L. 112–144 inserted “deferral extensions,” after “deferrals,” in section catchline and “neonatology,” after “pediatric ethics,” in text.
 
 
@@ -9530,7 +9896,7 @@ Pub. L. 112–144, title VIII, § 801(b), July 9, 2012, 126 Stat. 1079, provided
 
 (2) to help to support or satisfy postapproval study requirements.
 
-**(b) Real world evidence defined** In this section, the term “real world evidence” means data regarding the usage, or the potential benefits or risks, of a drug derived from sources other than randomized clinical trials.
+**(b) Real world evidence defined** In this section, the term “real world evidence” means data regarding the usage, or the potential benefits or risks, of a drug derived from sources other than traditional clinical trials.
 
 **(c) Program framework**
 
@@ -9558,7 +9924,7 @@ Pub. L. 112–144, title VIII, § 801(b), July 9, 2012, 126 Stat. 1079, provided
 
     (iii) public workshops with the entities described in such subparagraph.
 
-**(d) Program implementation** The Secretary shall, not later than 2 years after December 13, 2016, and in accordance with the framework established under subsection (c), implement the program to evaluate the potential use of real world evidence.
+**(d) Program implementation** The Secretary shall, not later than 3 years after December 13, 2016, and in accordance with the framework established under subsection (c), implement the program to evaluate the potential use of real world evidence.
 
 **(e) Guidance for industry** The Secretary shall—
 
@@ -9585,6 +9951,13 @@ Pub. L. 112–144, title VIII, § 801(b), July 9, 2012, 126 Stat. 1079, provided
     (ii) [section 262(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim); or
 
   (B) the Secretary’s authority to require postapproval studies or clinical trials, or the standards of evidence under which studies or trials are evaluated.
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (b). Pub. L. 115–52, § 901(c), substituted “traditional” for “randomized”.
+
+Subsec. (d). Pub. L. 115–52, § 901(d), substituted “3 years” for “2 years”.
 
 
 <a id="section-355-1"></a>
@@ -9627,7 +10000,7 @@ Pub. L. 112–144, title VIII, § 801(b), July 9, 2012, 126 Stat. 1079, provided
 
   (D) an adverse event occurring from withdrawal of the drug; and
 
-  (E) any failure of expected pharmacological action of the drug.
+  (E) any failure of expected pharmacological action of the drug, which may include reduced effectiveness under the conditions of use prescribed in the labeling of such drug, but which may not include reduced effectiveness that is in accordance with such labeling.
 
 (2) **Covered application** — The term “covered application” means an application referred to in [section 355(p)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/p/1/A&num=0&edition=prelim).
 
@@ -9709,9 +10082,17 @@ Pub. L. 112–144, title VIII, § 801(b), July 9, 2012, 126 Stat. 1079, provided
 
   (A) sending letters to health care providers;
 
-  (B) disseminating information about the elements of the risk evaluation and mitigation strategy to encourage implementation by health care providers of components that apply to such health care providers, or to explain certain safety protocols (such as medical monitoring by periodic laboratory tests); or
+  (B) disseminating information about the elements of the risk evaluation and mitigation strategy to encourage implementation by health care providers of components that apply to such health care providers, or to explain certain safety protocols (such as medical monitoring by periodic laboratory tests) 11 So in original. Probably should be followed by a semicolon.
 
-  (C) disseminating information to health care providers through professional societies about any serious risks of the drug and any protocol to assure safe use.
+  (C) disseminating information to health care providers through professional societies about any serious risks of the drug and any protocol to assure safe use; or
+
+  (D) disseminating information to health care providers about drug formulations or properties, including information about the limitations or patient care implications of such formulations or properties, and how such formulations or properties may be related to serious adverse drug events associated with use of the drug.
+
+(4) **Packaging and disposal** — The Secretary may require a risk evaluation mitigation strategy for a drug for which there is a serious risk of an adverse drug experience described in subparagraph (B) or (C) of subsection (b)(1), taking into consideration the factors described in subparagraphs (C) and (D) of subsection (f)(2) and in consultation with other relevant Federal agencies with authorities over drug disposal packaging, which may include requiring that—
+
+  (A) the drug be made available for dispensing to certain patients in unit dose packaging, packaging that provides a set duration, or another packaging system that the Secretary determines may mitigate such serious risk; or
+
+  (B) the drug be dispensed to certain patients with a safe disposal packaging or safe disposal system for purposes of rendering drugs nonretrievable (as defined in section 1300.05 of title 21, Code of Federal Regulations (or any successor regulation)) if the Secretary determines that such safe disposal packaging or system may mitigate such serious risk and is sufficiently available.
 
 **(f) Providing safe access for patients to drugs with known serious risks that would otherwise be unavailable**
 
@@ -9729,9 +10110,11 @@ Pub. L. 112–144, title VIII, § 801(b), July 9, 2012, 126 Stat. 1079, provided
 
   (C) considering such risk, not be unduly burdensome on patient access to the drug, considering in particular—
 
-    (i) patients with serious or life-threatening diseases or conditions; and
+    (i) patients with serious or life-threatening diseases or conditions;
 
     (ii) patients who have difficulty accessing health care (such as patients in rural or medically underserved areas); and
+
+    (iii) patients with functional limitations; and
 
   (D) to the extent practicable, so as to minimize the burden on the health care delivery system—
 
@@ -9931,18 +10314,22 @@ Pub. L. 112–144, title VIII, § 801(b), July 9, 2012, 126 Stat. 1079, provided
 
   (A) A Medication Guide or patient package insert, if required under subsection (e) for the applicable listed drug.
 
-  (B) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
+  (B) A packaging or disposal requirement, if required under subsection (e)(4) for the applicable listed drug.
 
-    (i) the burden of creating a single, shared system outweighs the benefit of a single, system,11 So in original. Probably should be “single, shared system,”. taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
+  (C) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
+
+    (i) the burden of creating a single, shared system outweighs the benefit of a single, system,22 So in original. Probably should be “single, shared system,”. taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
 
     (ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
     A certification under clause (ii) shall include a description of the efforts made by the applicant for the abbreviated new drug application to obtain a license. In a case described in clause (ii), the Secretary may seek to negotiate a voluntary agreement with the owner of the patent, method, or process for a license under which the applicant for such abbreviated new drug application may use an aspect of the elements to assure safe use, if required under subsection (f) for the applicable listed drug, that is claimed by a patent that has not expired or is a method or process that as a trade secret is entitled to protection.
 
 (2) **Action by Secretary** — For an applicable listed drug for which a drug is approved under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim), the Secretary—
 
-  (A) shall undertake any communication plan to health care providers required under subsection (e)(3) for the applicable listed drug; and
+  (A) shall undertake any communication plan to health care providers required under subsection (e)(3) for the applicable listed drug;
 
-  (B) shall inform the responsible person for the drug that is so approved if the risk evaluation and mitigation strategy for the applicable listed drug is modified.
+  (B) shall permit packaging systems and safe disposal packaging or safe disposal systems that are different from those required for the applicable listed drug under subsection (e)(4); and
+
+  (C) shall inform the responsible person for the drug that is so approved if the risk evaluation and mitigation strategy for the applicable listed drug is modified.
 
 **(j) Drug Safety Oversight Board**
 
@@ -9974,6 +10361,20 @@ For the effective date of this section, referred to in subsec. (a)(2)(A), see Ef
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (h)(3), (4)(C)(i), is section 101(c) of Pub. L. 110–85, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Amendments
+2018—Subsec. (b)(1)(E). Pub. L. 115–271, § 3041(a), substituted “of the drug, which may include reduced effectiveness under the conditions of use prescribed in the labeling of such drug, but which may not include reduced effectiveness that is in accordance with such labeling” for “of the drug”.
+
+Subsec. (e)(4). Pub. L. 115–271, § 3032(a), added par. (4).
+
+Subsec. (f)(2)(C)(iii). Pub. L. 115–271, § 3032(b), added cl. (iii).
+
+Subsec. (i)(1)(B), (C). Pub. L. 115–271, § 3032(c)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (i)(2)(B), (C). Pub. L. 115–271, § 3032(c)(2), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+2017—Subsec. (e)(3)(B). Pub. L. 115–52, § 606(1), struck out “; or” at end.
+
+Subsec. (e)(3)(D). Pub. L. 115–52, § 606(2), (3), added subpar. (D).
+
 2016—Subsec. (f)(5). Pub. L. 114–255, § 3075(c)(1), inserted “or other advisory committee” after “(or successor committee)” in introductory provisions.
 
 Subsec. (f)(5)(B). Pub. L. 114–255, § 3075(c)(2), substituted “periodically” for “at least annually,” in introductory provisions.
@@ -10034,6 +10435,9 @@ Subsec. (h)(8), (9). Pub. L. 112–144, § 1132(b)(4), (8), redesignated par. (9
 
 #### Effective Date
 Section effective 180 days after Sept. 27, 2007, see section 909 of Pub. L. 110–85, set out as an Effective Date of 2007 Amendment note under [section 331 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-331).
+
+#### Evidence-Based Opioid Analgesic Prescribing Guidelines and Report
+Pub. L. 115–271, title III, § 3002, Oct. 24, 2018, 132 Stat. 3934, provided that: “(a) Guidelines.—The Commissioner of Food and Drugs shall develop evidence-based opioid analgesic prescribing guidelines for the indication-specific treatment of acute pain only for the relevant therapeutic areas where such guidelines do not exist. “(b) Public Input.—In developing the guidelines under subsection (a), the Commissioner of Food and Drugs shall—“(1) consult with stakeholders, which may include conducting a public meeting of medical professional societies (including any State-based societies), health care providers, State medical boards, medical specialties including pain medicine specialty societies, patient groups, pharmacists, academic or medical research entities, and other entities with experience in health care, as appropriate; “(2) collaborate with the Director of the Centers for Disease Control and Prevention, as applicable and appropriate, and other Federal agencies with relevant expertise as appropriate; and “(3) provide for a notice and comment period consistent with section 701(h) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 371(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section371/h&num=0&edition=prelim)) for the submission of comments by the public. “(c) Report.—Not later than 1 year after the date of enactment of this Act [Oct. 24, 2018], or, if earlier, at the time the guidelines under subsection (a) are finalized, the Commissioner of Food and Drugs shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, and post on the public website of the Food and Drug Administration, a report on how the Food and Drug Administration will utilize the guidelines under subsection (a) to protect the public health and a description of the public health need with respect to each such indication-specific treatment guideline. “(d) Updates.—The Commissioner of Food and Drugs shall periodically—“(1) update the guidelines under subsection (a), informed by public input described in subsection (b); and “(2) submit to the committees specified in subsection (c) and post on the public website of the Food and Drug Administration an updated report under such subsection. “(e) Statement To Accompany Guidelines and Recommendations.—The Commissioner of Food and Drugs shall ensure that opioid analgesic prescribing guidelines and other recommendations developed under this section are accompanied by a clear statement that such guidelines or recommendations, as applicable—“(1) are intended to help inform clinical decisionmaking by prescribers and patients; and “(2) are not intended to be used for the purposes of restricting, limiting, delaying, or denying coverage for, or access to, a prescription issued for a legitimate medical purpose by an individual practitioner acting in the usual course of professional practice.”
 
 #### Prescriber Education
 Pub. L. 114–198, title I, § 106(b), July 22, 2016, 130 Stat. 703, provided that: “Not later than 1 year after the date of the enactment of this Act [July 22, 2016], the Secretary [of Health and Human Services], acting through the Commissioner of Food and Drugs, as part of the Food and Drug Administration’s evaluation of the Extended-Release/Long-Acting Opioid Analgesics Risk Evaluation and Mitigation Strategy, and in consultation with relevant stakeholders, shall develop recommendations regarding education programs for prescribers of opioids pursuant to section 505–1 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355–1](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355-1)), including recommendations on— “(1) which prescribers should participate in such programs; and “(2) how often participation in such programs is necessary.”
@@ -10672,7 +11076,7 @@ Barack Obama.
 
 (1) **In general** — In carrying out this section, the Secretary shall continue to—
 
-  (A) identity 11 So in original. Probably should be “identify”. opportunities to help advance the development of regenerative medicine therapies and regenerative advanced therapies;
+  (A) identify opportunities to help advance the development of regenerative medicine therapies and regenerative advanced therapies;
 
   (B) identify opportunities for the development of laboratory regulatory science research and documentary standards that the Secretary determines would help support the development, evaluation, and review of regenerative medicine therapies and regenerative advanced therapies through regulatory predictability; and
 
@@ -10684,8 +11088,104 @@ Barack Obama.
 
 ### Statutory Notes
 
+#### Amendments
+2017—Subsec. (b)(1)(A). Pub. L. 115–52 substituted “identify” for “identity”.
+
 #### Guidance Regarding Devices Used in the Recovery, Isolation, or Delivery of Regenerative Advanced Therapies
 Pub. L. 114–255, div. A, title III, § 3034, Dec. 13, 2016, 130 Stat. 1103, provided that: “(a) Draft Guidance.—Not later than 1 year after the date of enactment of the 21st Century Cures Act [Dec. 13, 2016], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall issue draft guidance clarifying how, in the context of regenerative advanced therapies, the Secretary will evaluate devices used in the recovery, isolation, or delivery of regenerative advanced therapies. In doing so, the Secretary shall specifically address—“(1) how the Food and Drug Administration intends to simplify and streamline regulatory requirements for combination device and cell or tissue products; “(2) what, if any, intended uses or specific attributes would result in a device used with a regenerative therapy product to be classified as a class III device; “(3) when the Food and Drug Administration considers it is necessary, if ever, for the intended use of a device to be limited to a specific intended use with only one particular type of cell; and “(4) application of the least burdensome approach to demonstrate how a device may be used with more than one cell type. “(b) Final Guidance.—Not later than 12 months after the close of the period for public comment on the draft guidance under subsection (a), the Secretary of Health and Human Services shall finalize such guidance.”
+
+
+<a id="section-356h"></a>
+## § 356h. Competitive generic therapies
+**(a) In general** The Secretary may, at the request of an applicant of a drug that is designated as a competitive generic therapy pursuant to subsection (b), expedite the development and review of an abbreviated new drug application under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim) for such drug.
+
+**(b) Designation process**
+
+(1) **Request** — The applicant may request the Secretary to designate the drug as a competitive generic therapy.
+
+(2) **Timing** — A request under paragraph (1) may be made concurrently with, or at any time prior to, the submission of an abbreviated new drug application for the drug under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim).
+
+(3) **Criteria** — A drug is eligible for designation as a competitive generic therapy under this section if the Secretary determines that there is inadequate generic competition.
+
+(4) **Designation** — Not later than 60 calendar days after the receipt of a request under paragraph (1), the Secretary may—
+
+  (A) determine whether the drug that is the subject of the request meets the criteria described in paragraph (3); and
+
+  (B) if the Secretary finds that the drug meets such criteria, designate the drug as a competitive generic therapy.
+
+**(c) Actions** In expediting the development and review of an application under subsection (a), the Secretary may, as requested by the applicant, take actions including the following:
+
+(1) Hold meetings with the applicant and the review team throughout the development of the drug prior to submission of the application for such drug under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim).
+
+(2) Provide timely advice to, and interactive communication with, the applicant regarding the development of the drug to ensure that the development program to gather the data necessary for approval is as efficient as practicable.
+
+(3) Involve senior managers and experienced review staff, as appropriate, in a collaborative, coordinated review of such application, including with respect to drug-device combination products and other complex products.
+
+(4) Assign a cross-disciplinary project lead—
+
+  (A) to facilitate an efficient review of the development program and application, including manufacturing inspections; and
+
+  (B) to serve as a scientific liaison between the review team and the applicant.
+
+**(d) Reporting requirement** Not later than one year after the date of the approval of an application under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim) with respect to a drug for which the development and review is expedited under this section, the sponsor of such drug shall report to the Secretary on whether the drug has been marketed in interstate commerce since the date of such approval.
+
+**(e) Definitions** In this section:
+
+(1) The term “generic drug” means a drug that is approved pursuant to [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim).
+
+(2) The term “inadequate generic competition” means, with respect to a drug, there is not more than one approved drugs 11 So in original. Probably should be “drug”. on the list of drugs described in [section 355(j)(7)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/7/A&num=0&edition=prelim) (not including drugs on the discontinued section of such list) that is—
+
+  (A) the reference listed drug; or
+
+  (B) a generic drug with the same reference listed drug as the drug for which designation as a competitive generic therapy is sought.
+
+(3) The term “reference listed drug” means the listed drug (as such term is used in [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)) for the drug involved.
+
+### Statutory Notes
+
+#### Guidance; Amended Regulations
+Pub. L. 115–52, title VIII, § 803(b), Aug. 18, 2017, 131 Stat. 1071, provided that: “(1) In general.—“(A) Issuance.—The Secretary of Health and Human Services shall—“(i) not later than 18 months after the date of enactment of this Act [Aug. 18, 2017], issue draft guidance on section 506H of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 356h](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356h)], as added by subsection (a); and “(ii) not later than 1 year after the close of the comment period for the draft guidance, issue final guidance on such section 506H. “(B) Contents.—The guidance issued under this paragraph shall—“(i) specify the process and criteria by which the Secretary makes a designation under section 506H of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a); “(ii) specify the actions the Secretary may take to expedite the development and review of a competitive generic therapy pursuant to such a designation; and “(iii) include good review management practices for competitive generic therapies. “(2) Amended regulations.—The Secretary of Health and Human Services shall issue or revise any regulations as may be necessary to carry out this section not later than 2 years after the date of enactment of this Act [Aug. 18, 2017].”
+
+
+<a id="section-356i"></a>
+## § 356i. Prompt reports of marketing status
+**(a) Notification of withdrawal** The holder of an application approved under subsection (c) or (j) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) shall notify the Secretary in writing 180 days prior to withdrawing the approved drug from sale, or if 180 days is not practicable as soon as practicable but not later than the date of withdrawal. The holder shall include with such notice the—
+
+(1) National Drug Code;
+
+(2) identity of the drug by established name and by proprietary name, if any;
+
+(3) new drug application number or abbreviated application number;
+
+(4) strength of the drug;
+
+(5) date on which the drug is expected to no longer be available for sale; and
+
+(6) reason for withdrawal of the drug.
+
+**(b) Notification of drug not available for sale** The holder of an application approved under subsection (c) or (j) 11 So in original. Probably means subsection (c) or (j) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355). shall notify the Secretary in writing within 180 calendar days of the date of approval of the drug if the drug will not be available for sale within 180 calendar days of such date of approval. The holder shall include with such notice the—
+
+(1) identity of the drug by established name and by proprietary name, if any;
+
+(2) new drug application number or abbreviated application number;
+
+(3) strength of the drug;
+
+(4) date on which the drug will be available for sale, if known; and
+
+(5) reason for not marketing the drug after approval.
+
+**(c) Additional one-time report** Within 180 days of August 18, 2017, all holders of applications approved under subsection (c) or (j) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) shall review the information in the list published under subsection 22 So in original. Probably should be “section”. 355(j)(7)(A) of this title and shall notify the Secretary in writing that—
+
+(1) all of the application holder’s drugs in the active section of the list published under subsection 2 355(j)(7)(A) of this title are available for sale; or
+
+(2) one or more of the application holder’s drugs in the active section of the list published under subsection 2 355(j)(7)(A) of this title have been withdrawn from sale or have never been available for sale, and include with such notice the information required pursuant to subsection (a) or (b), as applicable.
+
+**(d) Failure to meet requirements** If a holder of an approved application fails to submit the information required under subsection (a), (b), or (c), the Secretary may move the application holder’s drugs from the active section of the list published under subsection 2 355(j)(7)(A) of this title to the discontinued section of the list, except that the Secretary shall remove from the list in accordance with subsection 2 355(j)(7)(C) of this title drugs the Secretary determines have been withdrawn from sale for reasons of safety of 33 So in original. Probably should be “or”. effectiveness.
+
+**(e) Updates** The Secretary shall update the list published under subsection 2 355(j)(7)(A) of this title based on the information provided under subsections (a), (b), and (c) by moving drugs that are not available for sale from the active section to the discontinued section of the list, except that drugs the Secretary determines have been withdrawn from sale for reasons of safety or effectiveness shall be removed from the list in accordance with subsection 2 355(j)(7)(C) of this title. The Secretary shall make monthly updates to the list based on the information provided pursuant to subsections (a) and (b), and shall update the list based on the information provided under subsection (c) as soon as practicable.
+
+**(f) Limitation on use of notices** Any notice submitted under this section shall not be made public by the Secretary and shall be used solely for the purpose of the updates described in subsection (e).
 
 
 <a id="section-356-1"></a>
@@ -10965,17 +11465,25 @@ In this subsection, the term “wholesale distributor” means any person (other
 
 (1) **In general** — Every establishment that is required to be registered with the Secretary under this section shall be subject to inspection pursuant to [section 374 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374).
 
-(2) **Biennial inspections for devices** — Every establishment described in paragraph (1), in any State, that is engaged in the manufacture, propagation, compounding, or processing of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under [section 374(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section374/g&num=0&edition=prelim), at least once in the 2-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive 2-year period thereafter.
+(2) **Risk-based schedule for devices**
+
+  (A) *In general* — The Secretary, acting through one or more officers or employees duly designated by the Secretary, shall inspect establishments described in paragraph (1) that are engaged in the manufacture, propagation, compounding, or processing of a device or devices (referred to in this subsection as “device establishments”) in accordance with a risk-based schedule established by the Secretary.
+
+  (B) *Factors and considerations* — In establishing the risk-based schedule under subparagraph (A), the Secretary shall—
+
+    (i) apply, to the extent applicable for device establishments, the factors identified in paragraph (4); and
+
+    (ii) consider the participation of the device establishment, as applicable, in international device audit programs in which the United States participates or the United States recognizes for purposes of inspecting device establishments.
 
 (3) **Risk-based schedule for drugs** — The Secretary, acting through one or more officers or employees duly designated by the Secretary, shall inspect establishments described in paragraph (1) that are engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs (referred to in this subsection as “drug establishments”) in accordance with a risk-based schedule established by the Secretary.
 
-(4) **Risk factors** — In establishing a risk-based schedule under paragraph (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
+(4) **Risk factors** — In establishing a risk-based schedule under paragraph (2) or (3), the Secretary shall inspect establishments according to the known safety risks of such establishments, which shall be based on the following factors:
 
   (A) The compliance history of the establishment.
 
   (B) The record, history, and nature of recalls linked to the establishment.
 
-  (C) The inherent risk of the drug manufactured, prepared, propagated, compounded, or processed at the establishment.
+  (C) The inherent risk of the drug or device manufactured, prepared, propagated, compounded, or processed at the establishment.
 
   (D) The inspection frequency and history of the establishment, including whether the establishment has been inspected pursuant to [section 374 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374) within the last 4 years.
 
@@ -10985,7 +11493,7 @@ In this subsection, the term “wholesale distributor” means any person (other
 
 (5) **Effect of status** — In determining the risk associated with an establishment for purposes of establishing a risk-based schedule under paragraph (3), the Secretary shall not consider whether the drugs manufactured, prepared, propagated, compounded, or processed by such establishment are drugs described in [section 353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b&num=0&edition=prelim).
 
-(6) **Annual report on inspections of establishments** — Beginning in 2014, not later than February 1 of each year, the Secretary shall make available on the Internet Web site of the Food and Drug Administration a report regarding—
+(6) **Annual report on inspections of establishments** — Beginning in 2014, not later than May 1 of each year, the Secretary shall make available on the Internet Web site of the Food and Drug Administration a report regarding—
 
   (A)
 
@@ -11155,6 +11663,14 @@ A notification submitted under this subsection that contains clinical trial data
 The effective date of this subsection, referred to in subsec. (o)(2)(C), probably means the date of the enactment of Pub. L. 107–250, which enacted subsec. (o) of this section and was approved Oct. 26, 2002.
 
 #### Amendments
+2017—Subsec. (h)(2). Pub. L. 115–52, § 701(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Every establishment described in paragraph (1), in any State, that is engaged in the manufacture, propagation, compounding, or processing of a device or devices classified in class II or III shall be so inspected by one or more officers or employees duly designated by the Secretary, or by persons accredited to conduct inspections under [section 374(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section374/g&num=0&edition=prelim), at least once in the 2-year period beginning with the date of registration of such establishment pursuant to this section and at least once in every successive 2-year period thereafter.”
+
+Subsec. (h)(4). Pub. L. 115–52, § 701(a)(2)(A), substituted “paragraph (2) or (3)” for “paragraph (3)” in introductory provisions.
+
+Subsec. (h)(4)(C). Pub. L. 115–52, § 701(a)(2)(B), inserted “or device” after “drug”.
+
+Subsec. (h)(6). Pub. L. 115–52, § 901(e), substituted “May 1” for “February 1” in introductory provisions.
+
 2016—Subsec. (h)(4). Pub. L. 114–255, § 3101(a)(2)(H)(i), substituted “establishing a risk-based schedule” for “establishing the risk-based scheduled” in introductory provisions.
 
 Subsec. (h)(6)(A). Pub. L. 114–255, § 3101(a)(2)(H)(ii)(I), substituted “calendar” for “fiscal” in cls. (i) and (ii).
@@ -11705,6 +12221,8 @@ Pub. L. 114–255, div. A, title III, § 3044(d), Dec. 13, 2016, 130 Stat. 1121,
 
 (3) Any person intending to file an application under paragraph (1), [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc), or a request for an investigational exemption under subsection (j) shall be entitled to one or more conferences prior to such submission to reach an agreement acceptable to the Secretary establishing a submission or an investigational requirement, which may include a requirement for a field investigation. A decision establishing a submission or an investigational requirement shall bind the Secretary and the applicant or requestor unless (A) the Secretary and the applicant or requestor mutually agree to modify the requirement, or (B) the Secretary by written order determines that a substantiated scientific requirement essential to the determination of safety or effectiveness of the animal drug involved has appeared after the conference. No later than 25 calendar days after each such conference, the Secretary shall provide a written order setting forth a scientific justification specific to the animal drug and intended uses under consideration if the agreement referred to in the first sentence requires more than one field investigation as being essential to provide substantial evidence of effectiveness for the intended uses of the drug. Nothing in this paragraph shall be construed as compelling the Secretary to require a field investigation.
 
+(4) Beginning on October 1, 2018, all applications or submissions pursuant to this subsection shall be submitted by electronic means in such format as the Secretary may require.
+
 **(c) Period for submission and approval of application; period for notice and expedition of hearing; period for issuance of order; abbreviated applications; withdrawal periods; effective date of approval; relationship to other applications; withdrawal or suspension of approval; bioequivalence; filing of additional patent information**
 
 (1) Within one hundred and eighty days after the filing of an application pursuant to subsection (b), or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either (A) issue an order approving the application if he then finds that none of the grounds for denying approval specified in subsection (d) applies, or (B) give the applicant notice of an opportunity for a hearing before the Secretary under subsection (d) on the question whether such application is approvable. If the applicant elects to accept the opportunity for a hearing by written request within thirty days after such notice, such hearing shall commence not more than ninety days after the expiration of such thirty days unless the Secretary and the applicant otherwise agree. Any such hearing shall thereafter be conducted on an expedited basis and the Secretary’s order thereon shall be issued within ninety days after the date fixed by the Secretary for filing final briefs.
@@ -12142,6 +12660,8 @@ Pub. L. 114–255, div. A, title III, § 3044(d), Dec. 13, 2016, 130 Stat. 1121,
 The Controlled Substances Act, referred to in subsec. (q)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
+2018—Subsec. (b)(4). Pub. L. 115–234 added par. (4).
+
 2016—Subsec. (a)(1)(D). Pub. L. 114–255 added subpar. (D).
 
 2015—Subsec. (q). Pub. L. 114–89 added subsec. (q).
@@ -12272,6 +12792,9 @@ Pub. L. 103–396, § 2(c), Oct. 22, 1994, 108 Stat. 4154, provided that: “Not
 
 Pub. L. 100–670, title I, § 103, Nov. 16, 1988, 102 Stat. 3982, provided that: “(a) General Rule.—The Secretary of Health and Human Services shall promulgate, in accordance with the notice and comment requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, such regulations as may be necessary for the administration of section 512 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360b](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b)], as amended by sections 101 through 103 of this title, within one year of the date of enactment of this Act [Nov. 16, 1988]. “(b) Transition.—During the period beginning 60 days after the date of enactment of this Act [Nov. 16, 1988] and ending on the date regulations promulgated under subsection (a) take effect, abbreviated new animal drug applications may be submitted in accordance with the provisions of section 314.55 and part 320 of title 21 of the Code of Federal Regulations and shall be considered as suitable for any drug which has been approved for safety and effectiveness under section 512(c) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360b(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/c&num=0&edition=prelim)] before the date of enactment of this Act. If any such provision of section 314.55 or part 320 is inconsistent with the requirements of section 512 of the Federal Food, Drug, and Cosmetic Act (as amended by this title), the Secretary shall consider the application under the applicable requirements of section 512 (as so amended).”
 
+#### Guidance Addressing Investigation Designs
+Pub. L. 115–234, title III, § 305, Aug. 14, 2018, 132 Stat. 2440, provided that: “(a) In General.—For purposes of assisting sponsors in incorporating complex adaptive and other novel investigation designs, data from foreign countries, real world evidence (including ongoing surveillance activities, observational studies, and registry data), biomarkers, and surrogate endpoints (referred to in this section as ‘elements of investigations’) into proposed clinical investigation protocols and applications for new animal drugs under sections 512 and 571 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360b](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b); 360ccc), the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall issue guidance addressing the use of such elements of investigations in the development and regulatory review of such new animal drugs. “(b) Contents.—The guidance under subsection (a) shall address how the Secretary will evaluate the elements of investigations proposed or submitted pursuant to section 512(b)(1)(A) of the Federal Food, Drug, and Cosmetic Act or to meet the commitment under section 571(a)(2)(F) of such Act, and how sponsors of such applications may obtain feedback from the Secretary on technical issues related to such investigations prior to the submission of an application to the Secretary. “(c) Meeting.—Prior to issuing the guidance under subsection (a), the Secretary shall consult with stakeholders, including representatives of regulated industry, consumer groups, academia, veterinarians, and food producers, through a public meeting to be held not later than 1 year after the date of enactment of this Act [Aug. 14, 2018]. “(d) Timing.—The Secretary shall issue a draft guidance under subsection (a) not later than 1 year after the date of the public meeting under subsection (c), and shall finalize such guidance not later than 1 year after the date on which the public comment period on such draft guidance ends.”
+
 #### Antimicrobial Animal Drug Distribution Reports
 Pub. L. 110–316, title I, § 105(b), (c), Aug. 14, 2008, 122 Stat. 3514, provided that: “(b) First Report.—For each new animal drug that is subject to the reporting requirement under section 512(l)(3) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360b](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b)(l)(3)], as added by subsection (a), and for which an approval of an application filed pursuant to section 512(b) or 571 of such Act [[21 U.S.C. 360b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b&num=0&edition=prelim), 360ccc] is in effect on the date of the enactment of this title [Aug. 14, 2008], the Secretary of Health and Human Services shall require the sponsor of the drug to submit the first report under such section 512(l)(3) for the drug not later than March 31, 2010. “(c) Separate Report.—The reports required under section 512(l)(3) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), shall be separate from periodic drug experience reports that are required under section 514.80(b)(4) of title 21, Code of Federal Regulations (as in effect on the date of the enactment of this title).”
 
@@ -12379,6 +12902,9 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 #### Effective Date
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
 
+#### Investigational Drugs
+Pub. L. 115–52, title VI, § 610(a), (b), Aug. 18, 2017, 131 Stat. 1051, 1053, provided that: “(a) Patient Access to Investigational Drugs.—“(1) Public meeting.—“(A) In general.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), acting through the Commissioner of Food and Drugs, in coordination with the Director of the National Institutes of Health, and in consultation with patients, health care providers, drug sponsors, bioethicists, and other stakeholders, shall, not later than 270 days after the date of enactment of this Act [Aug. 18, 2007], convene a public meeting to discuss clinical trial inclusion and exclusion criteria to inform the guidance under paragraph (3). The Secretary shall inform the Comptroller General of the United States of the date when the public meeting will take place. “(B) Topics.—The Secretary shall make available on the internet website of the Food and Drug Administration a report on the topics discussed at the meeting described in subparagraph (A) within 90 days of such meeting. Such topics shall include discussion of—“(i) the rationale for, and potential barriers for patients created by, research clinical trial inclusion and exclusion criteria; “(ii) how appropriate patient populations can benefit from the results of trials that employ alternative designs; “(iii) barriers to participation in clinical trials, including— “(I) information regarding any potential risks and benefits of participation; “(II) regulatory, geographical, and socioeconomic barriers; and “(III) the impact of exclusion criteria on the enrollment in clinical trials of particular populations, including infants and children, pregnant and lactating women, seniors, individuals with advanced disease, and individuals with co-morbid conditions; “(iv) clinical trial designs and methods, including expanded access trials, that increase enrollment of more diverse patient populations, when appropriate, while facilitating the collection of data to establish safe use and support substantial evidence of effectiveness, including data obtained from expanded access trials; and “(v) how changes to clinical trial inclusion and exclusion criteria may impact the complexity and length of clinical trials, the data necessary to demonstrate safety and effectiveness, and potential approaches to mitigating those impacts. “(2) Report.—Not later than 1 year after the Secretary issues the report under paragraph (1)(B), the Comptroller General of the United States shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on individual access to investigational drugs through the expanded access program under section 561(b) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb/b&num=0&edition=prelim)). The report shall include—“(A) a description of actions taken by manufacturers and distributors under section 561A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–0](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-0)); “(B) consideration of whether Form FDA 3926 and the guidance documents titled ‘Expanded Access to Investigational Drugs for Treatment Use—Questions and Answers’ and ‘Individual Patient Expanded Access Applications: Form FDA 3926’, issued by the Food and Drug Administration in June 2016, have reduced application burden with respect to individuals and physicians seeking access to investigational new drugs pursuant to section 561(b) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb)) and improved clarity for patients, physicians, and drug manufacturers about such process; “(C) consideration of whether the guidance or regulations issued to implement section 561 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb)) have improved access for individual patients to investigational drugs who do not qualify for clinical trials of such investigational drugs, and what barriers to such access remain; “(D) an assessment of methods patients and health care providers use to engage with the Food and Drug Administration or drug sponsors on expanded access; and “(E) an analysis of the Secretary’s report under paragraph (1)(B). “(3) Guidance.—“(A) In general.—Not later than 1 year after the publication of the report under paragraph (1)(B), the Secretary, acting through the Commissioner of Food and Drugs, shall issue one or more draft guidances regarding eligibility criteria for clinical trials. Not later than 1 year after the public comment period on each such draft guidance ends, the Secretary shall issue a revised draft guidance or final guidance. “(B) Contents.—The guidance documents described in subparagraph (A) shall address methodological approaches that a manufacturer or sponsor of an investigation of a new drug may take to—“(i) broaden eligibility criteria for clinical trials and expanded access trials, especially with respect to drugs for the treatment of serious and life-threatening conditions or diseases for which there is an unmet medical need; “(ii) develop eligibility criteria for, and increase trial recruitment to, clinical trials so that enrollment in such trials more accurately reflects the patients most likely to receive the drug, as applicable and as appropriate, while establishing safe use and supporting findings of substantial evidence of effectiveness; and “(iii) use the criteria described in clauses (i) and (ii) in a manner that is appropriate for drugs intended for the treatment of rare diseases or conditions. “(b) Improving Institutional Review Board Review of Single Patient Expanded Access Protocol.—Not later than 1 year after the date of enactment of this Act [Aug. 18, 2017], the Secretary, acting through the Commissioner of Food and Drugs, shall issue guidance or regulations, or revise existing guidance or regulations, to streamline the institutional review board review of individual patient expanded access protocols submitted under [section] 561(b) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb/b&num=0&edition=prelim)). To facilitate the use of expanded access protocols, any guidance or regulations so issued or revised may include a description of the process for any person acting through a physician licensed in accordance with State law to request that an institutional review board chair (or designated member of the institutional review board) review a single patient expanded access protocol submitted under such section 561(b) for a drug. The Secretary shall update any relevant forms associated with individual patient expanded access requests under such section 561(b) as necessary.”
+
 
 <a id="section-360bbb-0"></a>
 ## § 360bbb–0. Expanded access policy required for investigational drugs
@@ -12402,11 +12928,85 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 **(e) Revised policy** Nothing in this section shall prevent a manufacturer or distributor from revising a policy required under this section at any time.
 
-**(f) Application** This section shall apply to a manufacturer or distributor with respect to an investigational drug beginning on the later of—
+**(f) Application** This section shall apply to a manufacturer or distributor with respect to an investigational drug beginning on the earlier of—
 
-(1) the date that is 60 calendar days after December 13, 2016; or
+(1) the first initiation of a phase 2 or phase 3 study (as such terms are defined in section 312.21(b) and (c) of title 21, Code of Federal Regulations (or any successor regulations)) with respect to such investigational drug; or
 
-(2) the first initiation of a phase 2 or phase 3 study (as such terms are defined in section 312.21(b) and (c) of title 21, Code of Federal Regulations (or any successor regulations)) with respect to such investigational drug.
+(2) as applicable, 15 days after the drug receives a designation as a breakthrough therapy, fast track product, or regenerative advanced therapy under subsection (a), (b), or (g), respectively, of [section 356 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356).
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (f). Pub. L. 115–52 substituted “earlier” for “later” in introductory provisions, added par. (2), redesignated former par. (2) as (1), and struck out former par. (1) which read as follows: “the date that is 60 calendar days after December 13, 2016; or”.
+
+
+<a id="section-360bbb-0a"></a>
+## § 360bbb–0a. Investigational drugs for use by eligible patients
+**(a) Definitions** For purposes of this section—
+
+(1) the term “eligible patient” means a patient—
+
+  (A) who has been diagnosed with a life-threatening disease or condition (as defined in section 312.81 of title 21, Code of Federal Regulations (or any successor regulations));
+
+  (B) who has exhausted approved treatment options and is unable to participate in a clinical trial involving the eligible investigational drug, as certified by a physician, who—
+
+    (i) is in good standing with the physician’s licensing organization or board; and
+
+    (ii) will not be compensated directly by the manufacturer for so certifying; and
+
+  (C) who has provided to the treating physician written informed consent regarding the eligible investigational drug, or, as applicable, on whose behalf a legally authorized representative of the patient has provided such consent;
+
+(2) the term “eligible investigational drug” means an investigational drug (as such term is used in [section 360bbb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb))—
+
+  (A) for which a Phase 1 clinical trial has been completed;
+
+  (B) that has not been approved or licensed for any use under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)];
+
+  (C)
+
+    (i) for which an application has been filed under [section 355(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b&num=0&edition=prelim) or section 351(a) of the Public Health Service Act [[42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)]; or
+
+    (ii) that is under investigation in a clinical trial that—
+
+      (I) is intended to form the primary basis of a claim of effectiveness in support of approval or licensure under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)]; and
+
+      (II) is the subject of an active investigational new drug application under [section 355(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim) or section 351(a)(3) of the Public Health Service Act [[42 U.S.C. 262(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a/3&num=0&edition=prelim)], as applicable; and
+
+  (D) the active development or production of which is ongoing and has not been discontinued by the manufacturer or placed on clinical hold under [section 355(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim); and
+
+(3) the term “phase 1 trial” means a phase 1 clinical investigation of a drug as described in section 312.21 of title 21, Code of Federal Regulations (or any successor regulations).
+
+**(b) Exemptions** Eligible investigational drugs provided to eligible patients in compliance with this section are exempt from sections 352(f), 353(b)(4), 355(a), and 355(i) of this title, section 351(a) of the Public Health Service Act [[42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)], and parts 50, 56, and 312 of title 21, Code of Federal Regulations (or any successor regulations), provided that the sponsor of such eligible investigational drug or any person who manufactures, distributes, prescribes, dispenses, introduces or delivers for introduction into interstate commerce, or provides to an eligible patient an eligible investigational drug pursuant to this section is in compliance with the applicable requirements set forth in sections 312.6, 312.7, and 312.8(d)(1) of title 21, Code of Federal Regulations (or any successor regulations) that apply to investigational drugs.
+
+**(c) Use of clinical outcomes**
+
+(1) **In general** — Notwithstanding any other provision of this chapter, the Public Health Service Act [[42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.], or any other provision of Federal law, the Secretary may not use a clinical outcome associated with the use of an eligible investigational drug pursuant to this section to delay or adversely affect the review or approval of such drug under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)] unless—
+
+  (A) the Secretary makes a determination, in accordance with paragraph (2), that use of such clinical outcome is critical to determining the safety of the eligible investigational drug; or
+
+  (B) the sponsor requests use of such outcomes.
+
+(2) **Limitation** — If the Secretary makes a determination under paragraph (1)(A), the Secretary shall provide written notice of such determination to the sponsor, including a public health justification for such determination, and such notice shall be made part of the administrative record. Such determination shall not be delegated below the director of the agency center that is charged with the premarket review of the eligible investigational drug.
+
+**(d) Reporting**
+
+(1) **In general** — The manufacturer or sponsor of an eligible investigational drug shall submit to the Secretary an annual summary of any use of such drug under this section. The summary shall include the number of doses supplied, the number of patients treated, the uses for which the drug was made available, and any known serious adverse events. The Secretary shall specify by regulation the deadline of submission of such annual summary and may amend section 312.33 of title 21, Code of Federal Regulations (or any successor regulations) to require the submission of such annual summary in conjunction with the annual report for an applicable investigational new drug application for such drug.
+
+(2) **Posting of information** — The Secretary shall post an annual summary report of the use of this section on the internet website of the Food and Drug Administration, including the number of drugs for which clinical outcomes associated with the use of an eligible investigational drug pursuant to this section was—
+
+  (A) used in accordance with subsection (c)(1)(A);
+
+  (B) used in accordance with subsection (c)(1)(B); and
+
+  (C) not used in the review of an application under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)].
+
+### Statutory Notes
+
+#### References in Text
+The Public Health Service Act, referred to in subsec. (c)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+#### Limitation of Liability
+Pub. L. 115–176, § 2(b), May 30, 2018, 132 Stat. 1374, provided that: “(1) Alleged acts or omissions.—With respect to any alleged act or omission with respect to an eligible investigational drug provided to an eligible patient pursuant to section 561B of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360bbb–0a](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-0a)] and in compliance with such section, no liability in a cause of action shall lie against—“(A) a sponsor or manufacturer; or “(B) a prescriber, dispenser, or other individual entity (other than a sponsor or manufacturer), unless the relevant conduct constitutes reckless or willful misconduct, gross negligence, or an intentional tort under any applicable State law. “(2) Determination not to provide drug.—No liability shall lie against a sponsor manufacturer, prescriber, dispenser or other individual entity for its determination not to provide access to an eligible investigational drug under section 561B of the Federal Food, Drug, and Cosmetic Act. “(3) Limitation.—Except as set forth in paragraphs (1) and (2), nothing in this section shall be construed to modify or otherwise affect the right of any person to bring a private action under any State or Federal product liability, tort, consumer protection, or warranty law.”
 
 
 <a id="section-360bbb-1"></a>
@@ -12469,7 +13069,11 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
   (A) a determination by the Secretary of Homeland Security that there is a domestic emergency, or a significant potential for a domestic emergency, involving a heightened risk of attack with a biological, chemical, radiological, or nuclear agent or agents;
 
-  (B) a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces of attack with a biological, chemical, radiological, or nuclear agent or agents;
+  (B) a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces, including personnel operating under the authority of title 10 or title 50, of attack with—
+
+    (i) a biological, chemical, radiological, or nuclear agent or agents; or
+
+    (ii) an agent or agents that may cause, or are otherwise associated with, an imminently life-threatening and specific risk to United States military forces;
 
   (C) a determination by the Secretary that there is a public health emergency, or a significant potential for a public health emergency, that affects, or has a significant potential to affect, national security or the health and security of United States citizens living abroad, and that involves a biological, chemical, radiological, or nuclear agent or agents, or a disease or condition that may be attributable to such agent or agents; or
 
@@ -12495,6 +13099,8 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 (5) **Explanation by Secretary** — If an authorization under this section with respect to an unapproved product or an unapproved use of an approved product has been in effect for more than 1 year, the Secretary shall provide in writing to the sponsor of such product an explanation of the scientific, regulatory, or other obstacles to approval, licensure, or clearance of such product or use, including specific actions to be taken by the Secretary and the sponsor to overcome such obstacles.
 
+(6) **Military emergencies** — In the case of a determination described in paragraph (1)(B), the Secretary shall determine, within 45 calendar days of such determination, whether to make a declaration under paragraph (1), and, if appropriate, shall promptly make such a declaration.
+
 **(c) Criteria for issuance of authorization** The Secretary may issue an authorization under this section with respect to the emergency use of a product only if, after consultation with the Assistant Secretary for Preparedness and Response, the Director of the National Institutes of Health, and the Director of the Centers for Disease Control and Prevention (to the extent feasible and appropriate given the applicable circumstances described in subsection (b)(1)), the Secretary concludes—
 
 (1) that an agent referred to in a declaration under subsection (b) can cause a serious or life-threatening disease or condition;
@@ -12509,9 +13115,11 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
   (B) the known and potential benefits of the product, when used to diagnose, prevent, or treat such disease or condition, outweigh the known and potential risks of the product, taking into consideration the material threat posed by the agent or agents identified in a declaration under subsection (b)(1)(D), if applicable;
 
-(3) that there is no adequate, approved, and available alternative to the product for diagnosing, preventing, or treating such disease or condition; and
+(3) that there is no adequate, approved, and available alternative to the product for diagnosing, preventing, or treating such disease or condition;
 
-(4) that such other criteria as the Secretary may by regulation prescribe are satisfied.
+(4) in the case of a determination described in subsection (b)(1)(B)(ii), that the request for emergency use is made by the Secretary of Defense; and
+
+(5) that such other criteria as the Secretary may by regulation prescribe are satisfied.
 
 **(d) Scope of authorization** An authorization of a product under this section shall state—
 
@@ -12645,6 +13253,12 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (b)(1)(B). Pub. L. 115–92, § 1(a)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces of attack with a biological, chemical, radiological, or nuclear agent or agents;”.
+
+Subsec. (b)(6). Pub. L. 115–92, § 1(a)(1)(B), added par. (6).
+
+Subsec. (c)(4), (5). Pub. L. 115–92, § 1(a)(2), added par. (4) and redesignated former par. (4) as (5).
+
 2016—Subsec. (a)(2)(A). Pub. L. 114–255, § 3088(a)(1)(A), substituted “360b, or 360e” for “or 360e” and inserted “or conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc)” after “Public Health Service Act”.
 
 Subsec. (a)(2)(B). Pub. L. 114–255, § 3088(a)(1)(B), inserted “conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc),” after “approved,” in two places.
@@ -12825,6 +13439,41 @@ The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373
 2016—Par. (2)(A). Pub. L. 114–255, § 3088(d)(1), substituted “360b, or 360e of this title” for “or 360e of this title” and inserted “or conditionally approved under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc)” after “Public Health Service Act”.
 
 Par. (2)(B). Pub. L. 114–255, § 3088(d)(2), substituted “360b, or 360j of this title” for “or 360j of this title”.
+
+
+<a id="section-360bbb-3c"></a>
+## § 360bbb–3c. Expedited development and review of medical products for emergency uses
+(1) **In general** — The Secretary of Defense may request that the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, take actions to expedite the development of a medical product, review of investigational new drug applications under [section 355(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim), review of investigational device exemptions under [section 360j(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/g&num=0&edition=prelim), and review of applications for approval and clearance of medical products under sections 355, 360(k), and 360e of this title and [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), including applications for licensing of vaccines or blood as biological products under such [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), or applications for review of regenerative medicine advanced therapy products under [section 356(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section356/g&num=0&edition=prelim), if there is a military emergency, or significant potential for a military emergency, involving a specific and imminently life-threatening risk to United States military forces of attack with an agent or agents, and the medical product that is the subject of such application, submission, or notification would be reasonably likely to diagnose, prevent, treat, or mitigate such life-threatening risk.
+
+(2) **Actions** — Upon a request by the Secretary of Defense under paragraph (1), the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall take action to expedite the development and review of an applicable application or notification with respect to a medical product described in paragraph (1), which may include, as appropriate—
+
+  (A) holding meetings with the sponsor and the review team throughout the development of the medical product;
+
+  (B) providing timely advice to, and interactive communication with, the sponsor regarding the development of the medical product to ensure that the development program to gather the nonclinical and clinical data necessary for approval or clearance is as efficient as practicable;
+
+  (C) involving senior managers and experienced review staff, as appropriate, in a collaborative, cross-disciplinary review;
+
+  (D) assigning a cross-disciplinary project lead for the review team to facilitate an efficient review of the development program and to serve as a scientific liaison between the review team and the sponsor;
+
+  (E) taking steps to ensure that the design of the clinical trials is as efficient as practicable, when scientifically appropriate, such as by minimizing the number of patients exposed to a potentially less efficacious treatment;
+
+  (F) applying any applicable Food and Drug Administration program intended to expedite the development and review of a medical product; and
+
+  (G) in appropriate circumstances, permitting expanded access to the medical product during the investigational phase, in accordance with applicable requirements of the Food and Drug Administration.
+
+(3) **Enhanced collaboration and communication** — In order to facilitate enhanced collaboration and communication with respect to the most current priorities of the Department of Defense—
+
+  (A) the Food and Drug Administration shall meet with the Department of Defense and any other appropriate development partners, such as the Biomedical Advanced Research and Development Authority, on a semi-annual basis for the purposes of conducting a full review of the relevant products in the Department of Defense portfolio; and
+
+  (B) the Director of the Center for Biologics Evaluation and Research shall meet quarterly with the Department of Defense to discuss the development status of regenerative medicine advanced therapy, blood, and vaccine medical products and projects that are the highest priorities to the Department of Defense (which may include freeze dried plasma products and platelet alternatives),
+  unless the Secretary of Defense determines that any such meetings are not necessary.
+
+(4) **Medical product** — In this subsection, the term “medical product” means a drug (as defined in [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)), a device (as defined in such [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)), or a biological product (as defined in [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 115–92, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 
 <a id="section-360bbb-4"></a>
@@ -13110,11 +13759,13 @@ The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, 
 
 **(e) Definition** In this section, the term “medical product” includes a drug, a biological product as defined in [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), a device, and any combination of such products.
 
-**(f) Authorization of appropriations** To carry out this section, there is authorized to be appropriated $6,000,000 for each of fiscal years 2013 through 2017.
+**(f) Authorization of appropriations** To carry out this section, there is authorized to be appropriated $6,000,000 for each of fiscal years 2018 through 2022.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–52 substituted “2018 through 2022” for “2013 through 2017”.
+
 2012—Subsec. (f). Pub. L. 112–144 amended subsec. (f) generally. Prior to amendment, text read as follows: “To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2008 and such sums as may be necessary for each of fiscal years 2009 through 2012.”
 
 
@@ -13326,7 +13977,7 @@ The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, 
 
 (2) are intended to provide information about patients’ experiences with a disease or condition, including—
 
-  (A) the impact of such disease or condition, or a related therapy, on patients’ lives; and
+  (A) the impact (including physical and psychosocial impacts) of such disease or condition, or a related therapy or clinical investigation on patients’ lives; and
 
   (B) patient preferences with respect to treatment of such disease or condition.
 
@@ -13336,6 +13987,8 @@ The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(4), is section 101(b) of Pub. L. 112–144, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Amendments
+2017—Subsec. (c)(2)(A). Pub. L. 115–52 substituted “impact (including physical and psychosocial impacts) of such disease or condition, or a related therapy or clinical investigation” for “impact of such disease or condition, or a related therapy,”.
+
 2016—Subsec. (a). Pub. L. 114–255, § 3001(1), (2), substituted “Patient engagement in drugs and devices” for “In general” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated subsecs. (b) to (e) as as pars. (2) to (5), respectively, and realigned margins.
 
 Subsecs. (b), (c). Pub. L. 114–255, § 3001(3), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated pars. (2) and (3), respectively, of subsec. (a).
@@ -13347,6 +14000,42 @@ Pub. L. 114–255, div. A, title III, § 3002, Dec. 13, 2016, 130 Stat. 1084, pr
 
 #### Streamlining Patient Input
 Pub. L. 114–255, div. A, title III, § 3003, Dec. 13, 2016, 130 Stat. 1085, provided that: “Chapter 35 of title 44, United States Code, shall not apply to the collection of information to which a response is voluntary, that is initiated by the Secretary under section 569C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–8c](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-8c)) (as amended by section 3001) or section 3002 [set out as a note above].”
+
+
+<a id="section-360bbb-8d"></a>
+## § 360bbb–8d. Notification, nondistribution, and recall of controlled substances
+**(a) Order to cease distribution and recall**
+
+(1) **In general** — If the Secretary determines there is a reasonable probability that a controlled substance would cause serious adverse health consequences or death, the Secretary may, after providing the appropriate person with an opportunity to consult with the agency, issue an order requiring manufacturers, importers, distributors, or pharmacists, who distribute such controlled substance to immediately cease distribution of such controlled substance.
+
+(2) **Hearing** — An order under paragraph (1) shall provide the person subject to the order with an opportunity for an informal hearing, to be held not later than 10 days after the date of issuance of the order, on whether adequate evidence exists to justify an amendment to the order, and what actions are required by such amended order pursuant to subparagraph (3).
+
+(3) **Order resolution** — After an order is issued according to the process under paragraphs (1) and (2), the Secretary shall, except as provided in paragraph (4)—
+
+  (A) vacate the order, if the Secretary determines that inadequate grounds exist to support the actions required by the order;
+
+  (B) continue the order ceasing distribution of the controlled substance until a date specified in such order; or
+
+  (C) amend the order to require a recall of the controlled substance, including any requirements to notify appropriate persons, a timetable for the recall to occur, and a schedule for updates to be provided to the Secretary regarding such recall.
+
+(4) **Risk assessment** — If the Secretary determines that the risk of recalling a controlled substance presents a greater health risk than the health risk of not recalling such controlled substance from use, an amended order under subparagraph (B) or (C) of paragraph (3) shall not include either a recall order for, or an order to cease distribution of, such controlled substance, as applicable.
+
+(5) **Action following order** — Any person who is subject to an order pursuant to subparagraph (B) or (C) of paragraph (3) shall immediately cease distribution of or recall, as applicable, the controlled substance and provide notification as required by such order.
+
+**(b) Notice to persons affected** If the Secretary determines necessary, the Secretary may require the person subject to an order pursuant to paragraph (1) or an amended order pursuant to subparagraph (B) or (C) of paragraph (3) to provide either a notice of a recall order for, or an order to cease distribution of, such controlled substance, as applicable, under this section to appropriate persons, including persons who manufacture, distribute, import, or offer for sale such product that is the subject of an order and to the public. In providing such notice, the Secretary may use the assistance of health professionals who prescribed or dispensed such controlled substances.
+
+**(c) Nondelegation** An order described in subsection (a)(3) shall be ordered by the Secretary or an official designated by the Secretary. An official may not be so designated under this section unless the official is the Director of the Center for Drug Evaluation and Research or an official senior to such Director.
+
+**(d) Savings clause** Nothing contained in this section shall be construed as limiting—
+
+(1) the authority of the Secretary to issue an order to cease distribution of, or to recall, any drug under any other provision of this chapter or the Public Health Service Act [[42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.]; or
+
+(2) the ability of the Secretary to request any person to perform a voluntary activity related to any drug subject to this chapter or the Public Health Service Act.
+
+### Statutory Notes
+
+#### References in Text
+The Public Health Service Act, referred to in subsec. (d), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 
 <a id="section-360c"></a>
@@ -13448,7 +14137,7 @@ Pub. L. 114–255, div. A, title III, § 3003, Dec. 13, 2016, 130 Stat. 1085, pr
 
     (ii) at least one voting member who is knowledgeable about the technology of the device.
 
-  (D) The Secretary shall provide an annual opportunity for patients, representatives of patients, and sponsors of medical device submissions to provide recommendations for individuals with appropriate expertise to fill voting member positions on classification panels.
+  (D) The Secretary shall provide an annual opportunity for patients, representatives of patients, and sponsors of medical devices that may be specifically the subject of a review by a classification panel to provide recommendations for individuals with appropriate expertise to fill voting member positions on classification panels.
 
 (6)
 
@@ -13477,8 +14166,6 @@ Pub. L. 114–255, div. A, title III, § 3003, Dec. 13, 2016, 130 Stat. 1085, pr
 (7) After receiving from a classification panel the conclusions and recommendations of the panel on a matter that the panel has reviewed, the Secretary shall review the conclusions and recommendations, shall make a final decision on the matter in accordance with [section 360e(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360e/d/2&num=0&edition=prelim), and shall notify the affected persons of the decision in writing and, if the decision differs from the conclusions and recommendations of the panel, shall include the reasons for the difference.
 
 (8) A classification panel under this subsection shall not be subject to the annual chartering and annual report requirements of the Federal Advisory Committee Act.
-
-(9) The Secretary shall classify an accessory under this section based on the intended use of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used.
 
 **(c) Classification panel organization and operation**
 
@@ -13603,6 +14290,36 @@ Pub. L. 114–255, div. A, title III, § 3003, Dec. 13, 2016, 130 Stat. 1085, pr
 
 (5) The Secretary may not withhold a determination of the initial classification of a device under paragraph (1) because of a failure to comply with any provision of this chapter unrelated to a substantial equivalence decision, including a finding that the facility in which the device is manufactured is not in compliance with good manufacturing requirements as set forth in regulations of the Secretary under [section 360j(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/f&num=0&edition=prelim) (other than a finding that there is a substantial likelihood that the failure to comply with such regulations will potentially present a serious risk to human health).
 
+(6)
+
+  (A) Subject to the succeeding subparagraphs of this paragraph, the Secretary shall, by written order, classify an accessory under this section based on the risks of the accessory when used as intended and the level of regulatory controls necessary to provide a reasonable assurance of safety and effectiveness of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used.
+
+  (B) The classification of any accessory distinct from another device by regulation or written order issued prior to December 13, 2016, shall continue to apply unless and until the accessory is reclassified by the Secretary, notwithstanding the classification of any other device with which such accessory is intended to be used. Nothing in this paragraph shall preclude the Secretary’s authority to initiate the classification of an accessory through regulation or written order, as appropriate.
+
+  (C)
+
+    (i) In the case of a device intended to be used with an accessory, where the accessory has been included in an application for premarket approval of such device under [section 360e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e) or a report under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim) for clearance of such device and the Secretary has not classified such accessory distinctly from another device in accordance with subparagraph (A), the person filing the application or report (as applicable) at the time such application or report is filed—
+
+      (I) may include a written request for the proper classification of the accessory pursuant to subparagraph (A);
+
+      (II) shall include in any such request such information as may be necessary for the Secretary to evaluate, based on the least burdensome approach, the appropriate class for the accessory under subsection (a); and
+
+      (III) shall, if the request under subclause (I) is requesting classification of the accessory in class II, include in the application an initial draft proposal for special controls, if special controls would be required pursuant to subsection (a)(1)(B).
+
+    (ii) The Secretary’s response under section 360e(d) or [section 360(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/n&num=0&edition=prelim) (as applicable) to an application or report described in clause (i) shall also contain the Secretary’s granting or denial of the request for classification of the accessory involved.
+
+    (iii) The Secretary’s evaluation of an accessory under clause (i) shall constitute an order establishing a new classification for such accessory for the specified intended use or uses of such accessory and for any accessory with the same intended use or uses as such accessory.
+
+  (D) For accessories that have been granted marketing authorization as part of a submission for another device with which the accessory involved is intended to be used, through an application for such other device under [section 360e(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360e/c&num=0&edition=prelim), a report under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim), or a request for classification under paragraph (2) of this subsection, the following shall apply:
+
+    (i) Not later than the date that is one year after August 18, 2017, and at least once every 5 years thereafter, and as the Secretary otherwise determines appropriate, pursuant to this paragraph, the Secretary shall publish in the Federal Register a notice proposing a list of such accessories that the Secretary determines may be suitable for a distinct classification in class I and the proposed regulations for such classifications. In developing such list, the Secretary shall consider recommendations from sponsors of device submissions and other stakeholders for accessories to be included on such list. The notices shall provide for a period of not less than 60 calendar days for public comment. Within 180 days after the end of the comment period, the Secretary shall publish in the Federal Register a final action classifying such suitable accessories into class I.
+
+    (ii) A manufacturer or importer of an accessory that has been granted such marketing authorization may submit to the Secretary a written request for the appropriate classification of the accessory based on the risks and appropriate level of regulatory controls as described in subparagraph (A), and shall, if the request is requesting classification of the accessory in class II, include in the submission an initial draft proposal for special controls, if special controls would be required pursuant to subsection (a)(1)(B). Such request shall include such information as may be necessary for the Secretary to evaluate, based on the least burdensome approach, the appropriate class for the accessory under subsection (a). The Secretary shall provide an opportunity for a manufacturer or importer to meet with appropriate personnel of the Food and Drug Administration to discuss the appropriate classification of such accessory prior to submitting a written request under this clause for classification of the accessory.
+
+    (iii) The Secretary shall respond to a request made under clause (ii) not later than 85 calendar days after receiving such request by issuing a written order classifying the accessory or denying the request. If the Secretary does not agree with the recommendation for classification submitted by the manufacturer or importer, the response shall include a detailed description and justification for such determination. Within 30 calendar days after granting such a request, the Secretary shall publish a notice in the Federal Register announcing such response.
+
+  (E) Nothing in this paragraph may be construed as precluding a manufacturer of an accessory of a new type from using the classification process described in subsection (f)(2) to obtain classification of such accessory in accordance with the criteria and requirements set forth in that subsection.
+
 **(g) Information** Within sixty days of the receipt of a written request of any person for information respecting the class in which a device has been classified or the requirements applicable to a device under this chapter, the Secretary shall provide such person a written statement of the classification (if any) of such device and the requirements of this chapter applicable to the device.
 
 **(h) Definitions** For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 360j of this title
@@ -13695,6 +14412,12 @@ Pub. L. 114–255, div. A, title III, § 3003, Dec. 13, 2016, 130 Stat. 1085, pr
 The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2017—Subsec. (b)(5)(D). Pub. L. 115–52, § 901(h), substituted “medical devices that may be specifically the subject of a review by a classification panel” for “medical device submissions”.
+
+Subsec. (b)(9). Pub. L. 115–52, § 707(b), struck out par. (9) which read as follows: “The Secretary shall classify an accessory under this section based on the intended use of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used.”
+
+Subsec. (f)(6). Pub. L. 115–52, § 707(a), added par. (6).
+
 2016—Subsec. (b)(5). Pub. L. 114–255, § 3055(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
 Subsec. (b)(6)(A)(iii). Pub. L. 114–255, § 3055(b)(1), inserted before period at end “, including, subject to the discretion of the panel chairperson, by designating a representative who will be provided a time during the panel meeting to address the panel for the purpose of correcting misstatements of fact or providing clarifying information, and permitting the person or representative to call on experts within the person’s organization to address such specific issues in the time provided”.
@@ -13767,6 +14490,9 @@ Subsec. (f)(3). Pub. L. 101–629, § 4(a), added par. (3).
 
 Subsec. (i). Pub. L. 101–629, § 12(a), added subsec. (i).
 
+#### Effective Date of 2017 Amendment
+Pub. L. 115–52, title VII, § 707(c), Aug. 18, 2017, 131 Stat. 1062, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date that is 60 days after the date of enactment of this Act [Aug. 18, 2017].”
+
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
 
@@ -13793,17 +14519,44 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 (1) approves an application filed pursuant to [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355), or
 
 (2) issues a license under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)
-for a drug designated under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) for a rare disease or condition, the Secretary may not approve another application under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or issue another license under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) for such drug for such disease or condition for a person who is not the holder of such approved application or of such license until the expiration of seven years from the date of the approval of the approved application or the issuance of the license. [Section 355(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/2&num=0&edition=prelim) does not apply to the refusal to approve an application under the preceding sentence.
+for a drug designated under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) for a rare disease or condition, the Secretary may not approve another application under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or issue another license under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) for the same drug for the same disease or condition for a person who is not the holder of such approved application or of such license until the expiration of seven years from the date of the approval of the approved application or the issuance of the license. [Section 355(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c/2&num=0&edition=prelim) does not apply to the refusal to approve an application under the preceding sentence.
 
-**(b) Exceptions** If an application filed pursuant to [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) is approved for a drug designated under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) for a rare disease or condition or if a license is issued under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) for such a drug, the Secretary may, during the seven-year period beginning on the date of the application approval or of the issuance of the license, approve another application under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or issue a license under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), for such drug for such disease or condition for a person who is not the holder of such approved application or of such license if—
+**(b) Exceptions** During the 7-year period described in subsection (a) for an approved application under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or license under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), the Secretary may approve an application or issue a license for a drug that is otherwise the same, as determined by the Secretary, as the already approved drug for the same rare disease or condition if—
 
-(1) the Secretary finds, after providing the holder notice and opportunity for the submission of views, that in such period the holder of the approved application or of the license cannot assure the availability of sufficient quantities of the drug to meet the needs of persons with the disease or condition for which the drug was designated; or
+(1) the Secretary finds, after providing the holder of exclusive approval or licensure notice and opportunity for the submission of views, that during such period the holder of the exclusive approval or licensure cannot ensure the availability of sufficient quantities of the drug to meet the needs of persons with the disease or condition for which the drug was designated; or
 
-(2) such holder provides the Secretary in writing the consent of such holder for the approval of other applications or the issuance of other licenses before the expiration of such seven-year period.
+(2) the holder provides the Secretary in writing the consent of such holder for the approval of other applications or the issuance of other licenses before the expiration of such seven-year period.
+
+**(c) Condition of clinical superiority**
+
+(1) **In general** — If a sponsor of a drug that is designated under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) and is otherwise the same, as determined by the Secretary, as an already approved or licensed drug is seeking exclusive approval or exclusive licensure described in subsection (a) for the same rare disease or condition as the already approved drug, the Secretary shall require such sponsor, as a condition of such exclusive approval or licensure, to demonstrate that such drug is clinically superior to any already approved or licensed drug that is the same drug.
+
+(2) **Definition** — For purposes of paragraph (1), the term “clinically superior” with respect to a drug means that the drug provides a significant therapeutic advantage over and above an already approved or licensed drug in terms of greater efficacy, greater safety, or by providing a major contribution to patient care.
+
+**(d) Regulations** The Secretary may promulgate regulations for the implementation of subsection (c). Beginning on August 18, 2017, until such time as the Secretary promulgates regulations in accordance with this subsection, the Secretary may apply any definitions set forth in regulations that were promulgated prior to such date, to the extent such definitions are not inconsistent with the terms of this section, as amended by such Act.
+
+**(e) Demonstration of clinical superiority standard** To assist sponsors in demonstrating clinical superiority as described in subsection (c), the Secretary—
+
+(1) upon the designation of any drug under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb), shall notify the sponsor of such drug in writing of the basis for the designation, including, as applicable, any plausible hypothesis offered by the sponsor and relied upon by the Secretary that the drug is clinically superior to a previously approved drug; and
+
+(2) upon granting exclusive approval or licensure under subsection (a) on the basis of a demonstration of clinical superiority as described in subsection (c), shall publish a summary of the clinical superiority findings.
 
 ### Statutory Notes
 
+#### References in Text
+This section, as amended by such Act, referred to in subsec. (d), means this section as amended by the FDA Reauthorization Act of 2017, Pub. L. 115–52.
+
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–52, § 607(a)(1), substituted “the same drug for the same disease or condition” for “such drug for such disease or condition” in concluding provisions.
+
+Subsec. (b). Pub. L. 115–52, § 607(a)(2)(A), in introductory provisions, substituted “During the 7-year period described in subsection (a) for an approved application under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or license under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), the Secretary may approve an application or issue a license for a drug that is otherwise the same, as determined by the Secretary, as the already approved drug for the same rare disease or condition if” for “If an application filed pursuant to [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) is approved for a drug designated under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) for a rare disease or condition or if a license is issued under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) for such a drug, the Secretary may, during the seven-year period beginning on the date of the application approval or of the issuance of the license, approve another application under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or issue a license under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), for such drug for such disease or condition for a person who is not the holder of such approved application or of such license if”.
+
+Subsec. (b)(1). Pub. L. 115–52, § 607(a)(2)(B), substituted “of exclusive approval or licensure notice and opportunity for the submission of views, that during such period the holder of the exclusive approval or licensure cannot ensure” for “notice and opportunity for the submission of views, that in such period the holder of the approved application or of the license cannot assure”.
+
+Subsec. (b)(2). Pub. L. 115–52, § 607(a)(2)(C), substituted “the holder provides” for “such holder provides”.
+
+Subsecs. (c) to (e). Pub. L. 115–52, § 607(a)(3), added subsecs. (c) to (e).
+
 2002—Subsec. (a). Pub. L. 107–281, in concluding provisions, struck out “, of such certification,” after “such approved application” and “, the issuance of the certification,” after “approval of the approved application”.
 
 1997—Subsec. (a). Pub. L. 105–115, § 125(b)(2)(J), struck out “, issue another certification under [section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357),” before “or issue another license” in closing provisions, inserted “or” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “issues a certification under [section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), or”.
@@ -13827,12 +14580,31 @@ Subsec. (b). Pub. L. 99–91, §§ 2(2), 3(a)(3)(E)–(K), struck out “and if 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L. 99–91, set out as a note under [section 360aa of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360aa).
 
+#### Construction
+Pub. L. 115–52, title VI, § 607(b), Aug. 18, 2017, 131 Stat. 1050, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall affect any determination under sections 526 and 527 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bb](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb), 360cc) made prior to the date of enactment of the FDA Reauthorization Act of 2017 [Aug. 18, 2017].”
+
 
 <a id="section-360ccc"></a>
-## § 360ccc. Conditional approval of new animal drugs for minor use and minor species
-**(a) Application requirements; contents; restrictions**
+## § 360ccc. Conditional approval of new animal drugs for minor use and minor species and certain new animal drugs
+**(a) Application requirements**
 
-(1) Except as provided in paragraph (3) of this section,11 So in original. Probably should be “this subsection,”. any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b). Such application must comply in all respects with the provisions of [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b) except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of the same safety standards that would be applied to such drugs under [section 360b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/d&num=0&edition=prelim) (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).
+(1)
+
+  (A) Except as provided in paragraph (3), any person may file with the Secretary an application for conditional approval of—
+
+    (i) a new animal drug intended for a minor use or a minor species; or
+
+    (ii) a new animal drug not intended for a minor use or minor species—
+
+      (I) that is intended to treat a serious or life-threatening disease or condition or addresses an unmet animal or human health need; and
+
+      (II) for which the Secretary determines that a demonstration of effectiveness would require a complex or particularly difficult study or studies.
+
+  (B) The Secretary shall, not later than September 30, 2019, issue guidance or regulations further clarifying the criteria specified in subparagraph (A)(ii).
+
+  (C) An application under this paragraph shall comply in all respects with the provisions of [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b) except for subsections (a)(4), (b)(2), (c)(1), (c)(2), (c)(3), (d)(1), (e), (h), and (n) of such section unless otherwise stated in this section, and any additional provisions of this section.
+
+  (D) New animal drugs for which conditional approval is sought under this section are subject to the same safety standards that would be applied to new animal drugs under [section 360b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/d&num=0&edition=prelim) (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).
 
 (2) The applicant shall submit to the Secretary as part of an application for the conditional approval of a new animal drug—
 
@@ -13848,13 +14620,19 @@ Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L
 
   (F) a commitment that the applicant will conduct additional investigations to meet the requirements for the full demonstration of effectiveness under [section 360b(d)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/d/1/E&num=0&edition=prelim) within 5 years.
 
-(3) A person may not file an application under paragraph (1) if—
+(3)
 
-  (A) the application seeks conditional approval of a new animal drug that is contained in, or is a product of, a transgenic animal.22 So in original. The period probably should be a comma.
+  (A) A person may not file an application under paragraph (1) if—
 
-  (B) the person has previously filed an application for conditional approval under paragraph (1) for the same drug in the same dosage form for the same intended use whether or not subsequently conditionally approved by the Secretary under subsection (b), or
+    (i) the application seeks conditional approval of a new animal drug that is contained in, or is a product of, a transgenic animal.11 So in original. The period probably should be a semicolon.
 
-  (C) the person obtained the application, or data or other information contained therein, directly or indirectly from the person who filed for conditional approval under paragraph (1) for the same drug in the same dosage form for the same intended use whether or not subsequently conditionally approved by the Secretary under subsection (b).
+    (ii) the person has previously filed an application for conditional approval under paragraph (1) for the same drug in the same dosage form for the same intended use whether or not subsequently conditionally approved by the Secretary under subsection (b); or
+
+    (iii) the person obtained the application, or data or other information contained therein, directly or indirectly from the person who filed for conditional approval under paragraph (1) for the same drug in the same dosage form for the same intended use whether or not subsequently conditionally approved by the Secretary under subsection (b).
+
+  (B) A person may not file an application under paragraph (1)(A)(ii) if the application seeks conditional approval of a new animal drug that contains an antimicrobial active ingredient.
+
+(4) Beginning on October 1, 2018, all applications or submissions pursuant to this subsection shall be submitted by electronic means in such format as the Secretary may require.
 
 **(b) Order of approval or hearing** Within 180 days after the filing of an application pursuant to subsection (a), or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either—
 
@@ -13915,13 +14693,13 @@ the Secretary shall issue an order refusing to conditionally approve the applica
 
 **(f) Labeling**
 
-(1) The label and labeling of a new animal drug with a conditional approval under this section shall—
+(1) The label and labeling of a new animal drug with a conditional approval under this section shall for the conditionally approved use—
 
   (A) bear the statement, “conditionally approved by FDA pending a full demonstration of effectiveness under application number”; and
 
   (B) contain such other information as prescribed by the Secretary.
 
-(2) An intended use that is the subject of a conditional approval under this section shall not be included in the same product label with any intended use approved under [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b).
+(2) The Secretary shall, through regulation or guidance, determine under what conditions an intended use that is the subject of a conditional approval under this section may be included in the same product label with any intended use approved under [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b).
 
 **(g) Amendment of application** A conditionally approved new animal drug application may not be amended or supplemented to add indications for use.
 
@@ -13936,12 +14714,38 @@ Upon issuance of an order approving the application, product labeling and admini
 
 **(j) Definition** In this section and [section 360ccc–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc-1), the term “transgenic animal” means an animal whose genome contains a nucleotide sequence that has been intentionally modified in vitro, and the progeny of such an animal; Provided that the term “transgenic animal” does not include an animal of which the nucleotide sequence of the genome has been modified solely by selective breeding.
 
+**(k) Sunset**
+
+(1) The Secretary’s authority to grant conditional approval of new animal drugs not intended for a minor use or minor species pursuant to subsection (a)(1)(A)(ii) terminates on October 1, 2028.
+
+(2) The Secretary—
+
+  (A) may not accept any new applications for such conditional approval pursuant to subsection (a)(1)(A)(ii) on or after such date; and
+
+  (B) may continue all activities under this section with respect to drugs that were conditionally approved pursuant to 22 So in original. The word “subsection” probably should appear. (a)(1)(A)(ii) prior to such date.
+
+(3) The Secretary may, until October 1, 2032, accept applications for approval under 33 So in original. The word “section” probably should appear. 360b of this title of drugs conditionally approved pursuant to 2 (a)(1)(A)(ii).
+
 ### Statutory Notes
 
 #### References in Text
 The Controlled Substances Act, referred to in subsec. (d)(4)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
+2018—Pub. L. 115–234, § 304(a)(1), substituted “species and certain new animal drugs” for “species” in section catchline.
+
+Subsec. (a)(1). Pub. L. 115–234, § 304(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (3) of this section, any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b). Such application must comply in all respects with the provisions of [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b) except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of the same safety standards that would be applied to such drugs under [section 360b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/d&num=0&edition=prelim) (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).”
+
+Subsec. (a)(3). Pub. L. 115–234, § 304(a)(2)(B), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (a)(4). Pub. L. 115–234, § 301(b), added par. (4).
+
+Subsec. (f)(1). Pub. L. 115–234, § 304(a)(3)(A), inserted “for the conditionally approved use” after “shall” in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 115–234, § 304(a)(3)(B), substituted “The Secretary shall, through regulation or guidance, determine under what conditions an intended use” for “An intended use” and “may be included” for “shall not be included”.
+
+Subsec. (k). Pub. L. 115–234, § 304(a)(4), added subsec. (k).
+
 2015—Subsec. (d)(4). Pub. L. 114–89 added par. (4).
 
 #### Findings
@@ -14089,9 +14893,9 @@ Pub. L. 108–282, title I, § 102(b)(6), Aug. 2, 2004, 118 Stat. 905, provided 
 
 **(h) Labeling contents** The labeling of a new animal drug that is the subject of an index listing shall state, prominently and conspicuously—
 
-(1) **“Not approved by fda.—** — Legally marketed as an FDA indexed product. Extra-label use is prohibited.”;
+(1) “LEGAL STATUS—In order to be legally marketed, a new animal drug intended for a minor species must be Approved, Conditionally Approved, or Indexed by the Food and Drug Administration. THIS PRODUCT IS INDEXED—MIF #” (followed by the applicable minor species index file number and a period) “Extra-label use is prohibited.”;
 
-(2) except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, “This product is not to be used in animals intended for use as food for humans or other animals.”; and
+(2) except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, “This product is not to be used in animals intended for use as food for humans or food-producing animals.”; and
 
 (3) such other information as may be prescribed by the Secretary in the index listing.
 
@@ -14131,7 +14935,14 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(3)(C), is Pub. L.
 The Controlled Substances Act, referred to in subsec. (k), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
+2018—Subsec. (h)(1). Pub. L. 115–234, § 302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.’;”
+
+Subsec. (h)(2). Pub. L. 115–234, § 302(2), substituted “or food-producing animals” for “or other animals”.
+
 2015—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–234, title III, § 302, Aug. 14, 2018, 132 Stat. 2436, provided that the amendment made by section 302 is effective Oct. 1, 2018.
 
 
 <a id="section-360ccc-2"></a>
@@ -14329,9 +15140,53 @@ Section was enacted as part of the Food and Drug Administration Safety and Innov
 
 (4) The Secretary shall provide to all employees of the Food and Drug Administration who review premarket submissions for devices periodic training on the concept and use of recognized standards for purposes of meeting a premarket submission requirement or other applicable requirement under this chapter, including standards relevant to an employee’s area of device review.
 
+**(d) Pilot accreditation scheme for conformity assessment**
+
+(1) **In general** — The Secretary shall establish a pilot program under which—
+
+  (A) testing laboratories may be accredited, by accreditation bodies meeting criteria specified by the Secretary, to assess the conformance of a device with certain standards recognized under this section; and
+
+  (B) subject to paragraph (2), determinations by testing laboratories so accredited that a device conforms with such standard or standards shall be accepted by the Secretary for purposes of demonstrating such conformity under this section unless the Secretary finds that a particular such determination shall not be so accepted.
+
+(2) **Secretarial review of accredited laboratory determinations** — The Secretary may—
+
+  (A) review determinations by testing laboratories accredited pursuant to this subsection, including by conducting periodic audits of such determinations or processes of accredited bodies or testing laboratories and, following such review, taking additional measures under this chapter, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A) or requesting additional information with respect to such device, as the Secretary determines appropriate; and
+
+  (B) if the Secretary becomes aware of information materially bearing on safety or effectiveness of a device assessed for conformity by a testing laboratory so accredited, take such additional measures under this chapter as the Secretary determines appropriate, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A), or requesting additional information with regard to such device.
+
+(3) **Implementation and reporting**
+
+  (A) *Public meeting* — The Secretary shall publish in the Federal Register a notice of a public meeting to be held no later than September 30, 2018, to discuss and obtain input and recommendations from stakeholders regarding the goals and scope of, and a suitable framework and procedures and requirements for, the pilot program under this subsection.
+
+  (B) *Pilot program guidance* — The Secretary shall—
+
+    (i) not later than September 30, 2019, issue draft guidance regarding the goals and implementation of the pilot program under this subsection; and
+
+    (ii) not later than September 30, 2021, issue final guidance with respect to the implementation of such program.
+
+  (C) *Pilot program initiation* — Not later than September 30, 2020, the Secretary shall initiate the pilot program under this subsection.
+
+  (D) *Report* — The Secretary shall make available on the internet website of the Food and Drug Administration an annual report on the progress of the pilot program under this subsection.
+
+(4) **Sunset** — As of October 1, 2022—
+
+  (A) the authority for accreditation bodies to accredit testing laboratories pursuant to paragraph (1)(A) shall cease to have force or effect;
+
+  (B) the Secretary—
+
+    (i) may not accept a determination pursuant to paragraph (1)(B) made by a testing laboratory after such date; and
+
+    (ii) may accept such a determination made prior to such date;
+
+  (C) except for purposes of accepting a determination described in subparagraph (B)(ii), the Secretary shall not continue to recognize the accreditation of testing laboratories accredited under paragraph (1)(A); and
+
+  (D) the Secretary may take actions in accordance with paragraph (2) with respect to the determinations made prior to such date and recognition of the accreditation of testing laboratories pursuant to determinations made prior to such date.
+
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–52 added subsec. (d).
+
 2016—Subsec. (c)(1)(A). Pub. L. 114–255, § 3044(b)(3), inserted “(or, with respect to a susceptibility test interpretive criteria standard under [section 360a–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360a-2), by posting on the Interpretive Criteria Website in accordance with such section)” after “the Secretary shall, by publication in the Federal Register”.
 
 Subsec. (c)(1)(C), (D). Pub. L. 114–255, § 3053(a)(1), added subpars. (C) and (D).
@@ -14387,6 +15242,9 @@ Subsecs. (c) to (f). Pub. L. 101–629, § 6(a)(2), struck out subsec. (c) relat
 Subsec. (g). Pub. L. 101–629, § 6(a)(3), redesignated subsec. (g) as (b).
 
 1976—Subsec. (a). Pub. L. 94–460 redesignated pars. (4) and (5) as (3) and (4), respectively. Section as originally enacted contained no par. (3).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in [section 379j(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim) received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
@@ -14651,7 +15509,7 @@ is required to have, unless exempt under [section 360j(g) of this title](https:/
 
 (4)
 
-  (A) Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under [section 379j(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/h&num=0&edition=prelim), the Secretary does not have the authority to collect fees under [section 379j(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a&num=0&edition=prelim).
+  (A) Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under [section 379j(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/g&num=0&edition=prelim), the Secretary does not have the authority to collect fees under [section 379j(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a&num=0&edition=prelim).
 
   (B) Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless a significant issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
 
@@ -14804,7 +15662,7 @@ is required to have, unless exempt under [section 360j(g) of this title](https:/
 
 (6)
 
-  (A) The Secretary may, after providing the person who has an approved protocol and opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
+  (A) The Secretary may, after providing the person who has an approved protocol an opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
 
     (i) such person has failed substantially to comply with the requirements of the protocol,
 
@@ -14866,6 +15724,8 @@ is required to have, unless exempt under [section 360j(g) of this title](https:/
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (c)(4)(A). Pub. L. 115–52 substituted “section 379j(g)” for “section 379j(h)”.
+
 2016—Subsec. (a)(1). Pub. L. 114–255, § 3101(a)(2)(J), substituted “subject to an order” for “subject to a an order”.
 
 Subsec. (c)(5). Pub. L. 114–255, § 3058(b), added par. (5).
@@ -14944,6 +15804,9 @@ Subsec. (e)(3). Pub. L. 101–629, § 9(a)(1), added par. (3).
 
 Subsec. (i). Pub. L. 101–629, § 4(b)(1), added subsec. (i).
 
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in [section 379j(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim) received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
+
 #### Effective Date of 2012 Amendment
 Amendment by section 203(g) of Pub. L. 112–144 effective Oct. 1, 2012, with additional provision for assessment of certain fees, see section 206 of Pub. L. 112–144, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
@@ -14986,7 +15849,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (3) The term “medical food” means a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.
 
-**(c) Authorization of appropriations** For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2013 through 2017.
+**(c) Authorization of appropriations** For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
 
 ### Statutory Notes
 
@@ -14994,6 +15857,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments
+2017—Subsec. (c). Pub. L. 115–52 substituted “2018 through 2022” for “2013 through 2017”.
+
 2016—Subsec. (a)(1). Pub. L. 114–255, § 3015(1), added par. (1) and struck out former par. (1) which read as follows: “defraying the costs of qualified testing expenses incurred in connection with the development of drugs for rare diseases and conditions,”.
 
 Subsec. (b)(1)(C). Pub. L. 114–255, § 3015(2), added subpar. (C).
@@ -16032,11 +16897,20 @@ Section effective Jan. 1, 2015, see section 204(c) of Pub. L. 113–54, set out 
 
   (A) the number of devices approved in the year preceding the year in which the report is submitted, for which there is a pediatric subpopulation that suffers from the disease or condition that the device is intended to treat, diagnose, or cure;
 
-  (B) the number of devices approved in the year preceding the year in which the report is submitted, labeled for use in pediatric patients;
+  (B) any information, based on a review of data available to the Secretary, regarding devices used in pediatric patients but not labeled for such use for which the Secretary determines that approved pediatric labeling could confer a benefit to pediatric patients;
 
-  (C) the number of pediatric devices approved in the year preceding the year in which the report is submitted, exempted from a fee pursuant to [section 379j(a)(2)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/B/v&num=0&edition=prelim); and
+  (C) the number of pediatric devices that receive a humanitarian use exemption under [section 360j(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/m&num=0&edition=prelim);
 
-  (D) the review time for each device described in subparagraphs (A), (B), and (C).
+  (D) the number of devices approved in the year preceding the year in which the report is submitted, labeled for use in pediatric patients;
+
+  (E) the number of pediatric devices approved in the year preceding the year in which the report is submitted, exempted from a fee pursuant to [section 379j(a)(2)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/B/v&num=0&edition=prelim);
+
+  (F) the review time for each device described in subparagraphs (A), (C), (D), and (E);
+
+  (G) the number of devices for which the Secretary relied on data with respect to adults to support a determination of a reasonable assurance of safety and effectiveness in pediatric patients; and
+
+  (H) the number of devices for which the Secretary relied on data from one pediatric subpopulation to support a determination of a reasonable assurance of safety and effectiveness in another pediatric subpopulation.
+For the items described in this paragraph, such report shall disaggregate the number of devices by pediatric subpopulation.
 
 **(b) Determination of pediatric effectiveness based on similar course of disease or condition or similar effect of device on adults**
 
@@ -16047,6 +16921,9 @@ Section effective Jan. 1, 2015, see section 204(c) of Pub. L. 113–54, set out 
 **(c) Pediatric subpopulation** For purposes of this section, the term “pediatric subpopulation” has the meaning given the term in [section 360j(m)(6)(E)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/m/6/E/ii&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendments
+2017—Subsec. (a)(3). Pub. L. 115–52 added subpars. (B), (C), (G), and (H), redesignated former subpars. (B) to (D) as (D) to (F), respectively, substituted “(C), (D), and (E);” for “(B), and (C).” in subpar. (F), and inserted concluding provisions.
 
 #### Final Rule Relating to Tracking of Pediatric Uses of Devices
 Pub. L. 112–144, title VI, § 620(b), July 9, 2012, 126 Stat. 1064, provided that: “The Secretary of Health and Human Services shall issue— “(1) a proposed rule implementing section 515A(a)(2) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360e–1(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360e–1/a/2&num=0&edition=prelim)) not later than December 31, 2012; and “(2) a final rule implementing such section not later than December 31, 2013.”
@@ -16130,7 +17007,7 @@ Pub. L. 112–144, title VI, § 620(b), July 9, 2012, 126 Stat. 1064, provided t
 
   (D) identify the criteria and processes the Secretary will use to assign a team of staff, including team leaders, to review devices designated for expedited development and priority review, including any training required for such personnel to ensure effective and efficient review.
 
-(2) **Process** — Prior to finalizing the guidance under paragraph (1), the Secretary shall seek public comment on a proposed guidance.
+(2) **Process** — Prior to finalizing the guidance under paragraph (1), the Secretary shall seek public comment on a draft version of that guidance.
 
 **(g) Rule of construction** Nothing in this section shall be construed to affect—
 
@@ -16144,8 +17021,13 @@ Pub. L. 112–144, title VI, § 620(b), July 9, 2012, 126 Stat. 1064, provided t
 
 ### Statutory Notes
 
-#### Codification
-Section 3051(a) of Pub. L. 114–255, which directed amendment of chapter V of the Federal Food, Drug, and Cosmetic Act by adding section 515C “after section 515B, as added by section 3034(b)”, was executed by adding section 515C after section 515A of such Act to reflect the probable intent of Congress. Neither section 3034(b) nor any other provision of Pub. L. 114–255 added a section 515B.
+#### Amendments
+2017—Pub. L. 115–52, § 901(f)(1), made technical amendment to directory language of Pub. L. 114–255, § 3051(a), which added this section.
+
+Subsec. (f)(2). Pub. L. 115–52, § 901(g), substituted “a draft version of that guidance” for “a proposed guidance”.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–52, title IX, § 901(f), Aug. 18, 2017, 131 Stat. 1076, provided that the renumbering and amendment made by section 901(f) is effective as of the enactment of Pub. L. 114–255.
 
 
 <a id="section-360f"></a>
@@ -17229,9 +18111,108 @@ In prescribing such regulations, the Secretary shall have due regard for the pro
 
 (4) **Voluntary surveys** — Chapter 35 of title 44 shall not apply to the collection of voluntary information from health care providers, such as voluntary surveys or questionnaires, initiated by the Secretary for purposes of postmarket risk identification, mitigation, and analysis for devices.
 
+**(i) Postmarket pilot**
+
+(1) **In general** — In order to provide timely and reliable information on the safety and effectiveness of devices approved under [section 360e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e), cleared under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim), or classified under [section 360c(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360c/f/2&num=0&edition=prelim), including responses to adverse events and malfunctions, and to advance the objectives of part 803 of title 21, Code of Federal Regulations (or successor regulations), and advance the objectives of, and evaluate innovative new methods of compliance with, this section and section 360l of this title, the Secretary shall, within one year of August 18, 2017, initiate one or more pilot projects for voluntary participation by a manufacturer or manufacturers of a device or device type, or continue existing projects, in accordance with paragraph (3), that—
+
+  (A) are designed to efficiently generate reliable and timely safety and active surveillance data for use by the Secretary or manufacturers of the devices that are involved in the pilot project;
+
+  (B) inform the development of methods, systems, data criteria, and programs that could be used to support safety and active surveillance activities for devices included or not included in such project;
+
+  (C) may be designed and conducted in coordination with a comprehensive system for evaluating medical device technology that operates under a governing board with appropriate representation of stakeholders, including patient groups and device manufacturers;
+
+  (D) use electronic health data including claims data, patient survey data, or any other data, as the Secretary determines appropriate; and
+
+  (E) prioritize devices and device types that meet one or more of the following criteria:
+
+    (i) Devices and device types for which the collection and analysis of real world evidence regarding a device’s safety and effectiveness is likely to advance public health.
+
+    (ii) Devices and device types that are widely used.
+
+    (iii) Devices and device types, the failure of which has significant health consequences.
+
+    (iv) Devices and device types for which the Secretary—
+
+      (I) has received public recommendations in accordance with paragraph (2)(B); and
+
+      (II) has determined to meet one or more of the criteria under clause (i), (ii), or (iii) and is appropriate for such a pilot project.
+
+(2) **Participation** — The Secretary shall establish the conditions and processes—
+
+  (A) under which a manufacturer of a device may voluntarily participate in a pilot project described in paragraph (1); and
+
+  (B) for facilitating public recommendations for devices to be prioritized under such a pilot project, including requirements for the data necessary to support such a recommendation.
+
+(3) **Continuation of ongoing projects** — The Secretary may continue or expand projects, with respect to providing timely and reliable information on the safety and effectiveness of devices approved under [section 360e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e), cleared under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim), or classified under [section 360c(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360c/f/2&num=0&edition=prelim), that are being carried out as of August 18, 2017. The Secretary shall, beginning on such date, take such steps as may be necessary—
+
+  (A) to ensure such projects meet the requirements of subparagraphs (A) through (E) of paragraph (1); and
+
+  (B) to increase the voluntary participation in such projects of manufacturers of devices and facilitate public recommendations for any devices prioritized under such a project.
+
+(4) **Implementation**
+
+  (A) *Contracting authority* — The Secretary may carry out a pilot project meeting the criteria specified in subparagraphs (A) through (E) of paragraph (1) or a project continued or expanded under paragraph (3) by entering into contracts, cooperative agreements, grants, or other appropriate agreements with public or private entities that have a significant presence in the United States and meet the following conditions:
+
+    (i) If such an entity is a component of another organization, the entity and the organization have established an agreement under which appropriate security measures are implemented to maintain the confidentiality and privacy of the data described in paragraph (1)(D) and such agreement ensures that the entity will not make an unauthorized disclosure of such data to the other components of the organization in breach of requirements with respect to confidentiality and privacy of such data established under such security measures.
+
+    (ii) In the case of the termination or nonrenewal of such a contract, cooperative agreement, grant, or other appropriate agreement, the entity or entities involved shall comply with each of the following:
+
+      (I) The entity or entities shall continue to comply with the requirements with respect to confidentiality and privacy referred to in clause (i) with respect to all data disclosed to the entity under such an agreement.
+
+      (II) The entity or entities shall return any data disclosed to such entity pursuant to this subsection and to which it would not otherwise have access or, if returning such data is not practicable, destroy the data.
+
+    (iii) The entity or entities shall have one or more qualifications with respect to—
+
+      (I) research, statistical, epidemiologic, or clinical capability and expertise to conduct and complete the activities under this subsection, including the capability and expertise to provide the Secretary access to de-identified data consistent with the requirements of this subsection;
+
+      (II) an information technology infrastructure to support electronic data and operational standards to provide security for such data, as appropriate;
+
+      (III) experience with, and expertise on, the development of research on, and surveillance of, device safety and effectiveness using electronic health data; or
+
+      (IV) such other expertise which the Secretary determines necessary to carry out such a project.
+
+  (B) *Review of contract in the event of a merger or acquisition* — The Secretary shall review any contract, cooperative agreement, grant, or other appropriate agreement entered into under this paragraph with an entity meeting the conditions specified in subparagraph (A) in the event of a merger or acquisition of the entity in order to ensure that the requirements specified in this subsection will continue to be met.
+
+(5) **Compliance with requirements for records or reports on devices** — The participation of a manufacturer in pilot projects under this subsection or a project continued or expanded under paragraph (3) shall not affect the eligibility of such manufacturer to participate in any quarterly reporting program with respect to devices carried out under this section 360i 33 So in original. The section number probably should not appear. or section 360l of this title. The Secretary may determine that, for a specified time period to be determined by the Secretary, a manufacturer’s participation in a pilot project under this subsection or a project continued or expanded under paragraph (3) may meet the applicable requirements of this section or section 360l of this title, if—
+
+  (A) the project has demonstrated success in capturing relevant adverse event information; and
+
+  (B) the Secretary has established procedures for making adverse event and safety information collected from such project public, to the extent possible.
+
+(6) **Privacy requirements** — With respect to the disclosure of any health information collected through a project conducted under this subsection—
+
+  (A) individually identifiable health information so collected shall not be disclosed when presenting any information from such project; and
+
+  (B) any such disclosure shall be made in compliance with regulations issued pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ([42 U.S.C. 1320d–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim) note) and sections 552 and 552a of title 5.
+
+(7) **Limitations** — No pilot project under this subsection, or in coordination with the comprehensive system described in paragraph (1)(C), may allow for an entity participating in such project, other than the Secretary, to make determinations of safety or effectiveness, or substantial equivalence, for purposes of this chapter.
+
+(8) **Other projects required to comply** — Paragraphs (1)(B), (4)(A)(i), (4)(A)(ii), (5), (6), and (7) shall apply with respect to any pilot project undertaken in coordination with the comprehensive system described in paragraph (1)(C) that relates to the use of real world evidence for devices in the same manner and to the same extent as such paragraphs apply with respect to pilot projects conducted under this subsection.
+
+(9) **Report to Congress** — Not later than 18 months after August 18, 2017, and annually thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report containing a description of the pilot projects being conducted under this subsection and projects continued or expanded pursuant to paragraph (3), including for each such project—
+
+  (A) how the project is being implemented in accordance with paragraph (4), including how such project is being implemented through a contract, cooperative agreement, grant, or other appropriate agreement, if applicable;
+
+  (B) the number of manufacturers that have agreed to participate in such project;
+
+  (C) the data sources used to conduct such project;
+
+  (D) the devices or device categories involved in such project;
+
+  (E) the number of patients involved in such project; and
+
+  (F) the findings of the project in relation to device safety, including adverse events, malfunctions, and other safety information.
+
+(10) **Sunset** — The Secretary may not carry out a pilot project initiated by the Secretary under this subsection after October 1, 2022.
+
 ### Statutory Notes
 
+#### References in Text
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(6)(B), is section 264(c) of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Amendments
+2017—Subsec. (i). Pub. L. 115–52 added subsec. (i).
+
 2016—Subsec. (f). Pub. L. 114–255 substituted “or life sustaining” for “and life sustaining”.
 
 2012—Subsec. (f). Pub. L. 112–144, § 614, substituted “Not later than December 31, 2012, the Secretary shall issue proposed” for “The Secretary shall promulgate” and inserted at end “The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies.”
@@ -17718,8 +18699,8 @@ Enactment of this section not to be construed to supersede or limit the function
 
   (A) in facilities in which clinical testing of devices is supervised by an institutional review committee established in accordance with the regulations of the Secretary; and
 
-  (B) if, before the use of a device, an institutional review committee approves the use in the treatment or diagnosis of a disease or condition referred to in paragraph (2)(A), unless a physician determines in an emergency situation that approval from an institutional review committee can not be obtained in time to prevent serious harm or death to a patient.
-  In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee, the physician shall, after the use of the device, notify the chairperson of the institutional review committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.
+  (B) if, before the use of a device, an institutional review committee or an appropriate local committee approves the use in the treatment or diagnosis of a disease or condition referred to in paragraph (2)(A), unless a physician determines in an emergency situation that approval from an institutional review committee or an appropriate local committee can not be obtained in time to prevent serious harm or death to a patient.
+  In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee or an appropriate local committee, the physician shall, after the use of the device, notify the chairperson of the institutional review committee or an appropriate local committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.
 
 (5) The Secretary may require a person granted an exemption under paragraph (2) to demonstrate continued compliance with the requirements of this subsection if the Secretary believes such demonstration to be necessary to protect the public health, if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met, or if the Secretary has reason to believe that the criteria for the exemption are no longer met. If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.
 
@@ -17737,7 +18718,7 @@ Enactment of this section not to be construed to supersede or limit the function
 
     (iii) Such person immediately notifies the Secretary if the number of such devices distributed during any calendar year exceeds the annual distribution number referred to in clause (ii).
 
-    (iv) The request for such exemption is submitted on or before October 1, 2017.
+    (iv) The request for such exemption is submitted on or before October 1, 2022.
 
   (B) The Secretary may inspect the records relating to the number of devices distributed during any calendar year of a person granted an exemption under paragraph (2) for which the prohibition in paragraph (3) does not apply.
 
@@ -17836,6 +18817,60 @@ Enactment of this section not to be construed to supersede or limit the function
 
   (C) regulate software as a device under this chapter if such software meets the criteria under [section 360c(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360c/a/1/C&num=0&edition=prelim).
 
+**(p) Diagnostic imaging devices intended for use with contrast agents**
+
+(1) **In general** — The Secretary may, subject to the succeeding provisions of this subsection, approve an application (or a supplement to such an application) submitted under [section 360e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e) with respect to an applicable medical imaging device, or, in the case of an applicable medical imaging device for which a notification is submitted under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim), may make a substantial equivalence determination with respect to an applicable medical imaging device, or may grant a request submitted under [section 360c(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360c/f/2&num=0&edition=prelim) for an applicable medical imaging device, if such application, notification, or request involves the use of a contrast agent that is not—
+
+  (A) in a concentration, rate of administration, or route of administration that is different from those described in the approved labeling of the contrast agent, except that the Secretary may approve such application, make such substantial equivalence determination, or grant such request if the Secretary determines that such differences in concentration, rate of administration, or route of administration exist but do not adversely affect the safety and effectiveness of the contrast agent when used with the device;
+
+  (B) in a region, organ, or system of the body that is different from those described in the approved labeling of the contrast agent, except that the Secretary may approve such application, make such substantial equivalence determination, or grant such request if the Secretary determines that such differences in region, organ, or system of the body exist but do not adversely affect the safety and effectiveness of the contrast agent when used with the device;
+
+  (C) in a patient population that is different from those described in the approved labeling of the contrast agent, except that the Secretary may approve such application, make such substantial equivalence determination, or grant such request if the Secretary determines such differences in patient population exist but do not adversely affect the safety and effectiveness of the contrast agent when used with the device; or
+
+  (D) in an imaging modality that is different from those described in the approved labeling of the contrast agent.
+
+(2) **Premarket review** — The agency center charged with premarket review of devices shall have primary jurisdiction with respect to the review of an application, notification, or request described in paragraph (1). In conducting such review, such agency center may—
+
+  (A) consult with the agency center charged with the premarket review of drugs or biological products; and
+
+  (B) review information and data provided to the Secretary by the sponsor of a contrast agent in an application submitted under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), so long as the sponsor of such contrast agent has provided to the sponsor of the applicable medical imaging device that is the subject of such review a right of reference and the application is submitted in accordance with this subsection.
+
+(3) **Applicable requirements** — An application submitted under [section 360e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e), a notification submitted under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim), or a request submitted under [section 360c(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360c/f/2&num=0&edition=prelim), as described in paragraph (1), with respect to an applicable medical imaging device shall be subject to the requirements of such respective section. Such application, notification, or request shall only be subject to the requirements of this chapter applicable to devices.
+
+(4) **Definitions** — For purposes of this subsection—
+
+  (A) the term “applicable medical imaging device” means a device intended to be used in conjunction with a contrast agent (or class of contrast agents) for an imaging use that is not described in the approved labeling of such contrast agent (or the approved labeling of any contrast agent in the same class as such contrast agent); and
+
+  (B) the term “contrast agent” means a drug that is approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or licensed under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), is intended for use in conjunction with an applicable medical imaging device, and—
+
+    (i) is a diagnostic radiopharmaceutical, as defined in section 22 So in original. Probably should be “sections”. 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
+
+    (ii) is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
+
+**(q) Regulation of over-the-counter hearing aids**
+
+(1) **Definition**
+
+  (A) *In general* — In this subsection, the term “over-the-counter hearing aid” means a device that—
+
+    (i) uses the same fundamental scientific technology as air conduction hearing aids (as defined in section 874.3300 of title 21, Code of Federal Regulations) (or any successor regulation) or wireless air conduction hearing aids (as defined in section 874.3305 of title 21, Code of Federal Regulations) (or any successor regulation);
+
+    (ii) is intended to be used by adults age 18 and older to compensate for perceived mild to moderate hearing impairment;
+
+    (iii) through tools, tests, or software, allows the user to control the over-the-counter hearing aid and customize it to the user’s hearing needs;
+
+    (iv) may—
+
+      (I) use wireless technology; or
+
+      (II) include tests for self-assessment of hearing loss; and
+
+    (v) is available over-the-counter, without the supervision, prescription, or other order, involvement, or intervention of a licensed person, to consumers through in-person transactions, by mail, or online.
+
+  (B) *Exception* — Such term does not include a personal sound amplification product intended to amplify sound for nonhearing impaired consumers in situations including hunting and bird-watching.
+
+(2) **Regulation** — An over-the-counter hearing aid shall be subject to the regulations promulgated in accordance with section 709(b) of the FDA Reauthorization Act of 2017 and shall be exempt from sections 801.420 and 801.421 of title 21, Code of Federal Regulations (or any successor regulations).
+
 ### Statutory Notes
 
 #### References in Text
@@ -17843,10 +18878,22 @@ July 9, 2012, referred to in subsec. (b)(3), was in the original “the date of 
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+Section 709(b) of the FDA Reauthorization Act of 2017, referred to in subsec. (q)(2), is section 709(b) of Pub. L. 115–52, which is set out as a note below.
+
 #### Codification
 In subsec. (k), “section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim), [41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2017—Subsec. (m)(4). Pub. L. 115–52, § 502(b)(1)(B), inserted “or an appropriate local committee” after “review committee” in two places in concluding provisions.
+
+Subsec. (m)(4)(B). Pub. L. 115–52, § 502(b)(1)(A), inserted “or an appropriate local committee” after “review committee” in two places.
+
+Subsec. (m)(6)(A)(iv). Pub. L. 115–52, § 502(b)(2), substituted “2022” for “2017”.
+
+Subsec. (p). Pub. L. 115–52, § 706(a), added subsec. (p).
+
+Subsec. (q). Pub. L. 115–52, § 709(a), added subsec. (q). Amendment was executed to this section as amended by section 706(a) of Pub. L. 115–52, notwithstanding directory language referring to section as amended by section 708 of Pub. L. 115–52, which did not amend this section.
+
 2016—Subsec. (g)(3). Pub. L. 114–255, § 3024(a)(2), substituted “subparagraph (D)(ii)” for “subparagraph (D)” in concluding provisions.
 
 Subsec. (g)(3)(A)(i). Pub. L. 114–255, § 3056(1)(A), struck out “local” before “institutional review committee” and “which has been” before “established in accordance with”.
@@ -17960,6 +19007,9 @@ Amendment by sections 201(a), 203, 216(a)(1), and 410(a) of Pub. L. 105–115 ef
 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–629, § 14(b), Nov. 28, 1990, 104 Stat. 4525, provided that: “Subsection (m) of section 520 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360j(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/m&num=0&edition=prelim)], as added by the amendment made by subsection (a), shall take effect on the effective date of the regulations issued by the Secretary under paragraph (6) of such subsection.”
+
+#### Regulations and Guidance Concerning Over-the-Counter Hearing Aids
+Pub. L. 115–52, title VII, § 709(b), (c), Aug. 18, 2017, 131 Stat. 1066, 1067, provided that: “(b) Regulations To Establish Category.—“(1) In general.—The Secretary of Health and Human Services (referred to in this section [amending this section and enacting this note] as the ‘Secretary’), not later than 3 years after the date of enactment of this Act [Aug. 18, 2017], shall promulgate proposed regulations to establish a category of over-the-counter hearing aids, as defined in subsection (q) of section 520 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360j](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360j)) as amended by subsection (a), and, not later than 180 days after the date on which the public comment period on the proposed regulations closes, shall issue such final regulations. “(2) Requirements.—In promulgating the regulations under paragraph (1), the Secretary shall—“(A) include requirements that provide reasonable assurances of the safety and effectiveness of over-the-counter hearing aids; “(B) include requirements that establish or adopt output limits appropriate for over-the-counter hearing aids; “(C) include requirements for appropriate labeling of over-the-counter hearing aids, including requirements that such labeling include a conspicuous statement that the device is only intended for adults age 18 and older, information on how consumers may report adverse events, information on any contraindications, conditions, or symptoms of medically treatable causes of hearing loss, and advisements to consult promptly with a licensed health care practitioner; and “(D) describe the requirements under which the sale of over-the-counter hearing aids is permitted, without the supervision, prescription, or other order, involvement, or intervention of a licensed person, to consumers through in-person transactions, by mail, or online. “(3) Premarket notification.—The Secretary shall make findings under section 510(m) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/m&num=0&edition=prelim)) to determine whether over-the-counter hearing aids (as defined in section 520(q) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360j](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360j)[(q)]), as amended by subsection (a)) require a report under section 510(k) [[21 U.S.C. 360(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim)] to provide reasonable assurance of safety and effectiveness. “(4) Effect on state law.—No State or local government shall establish or continue in effect any law, regulation, order, or other requirement specifically related to hearing products that would restrict or interfere with the servicing, marketing, sale, dispensing, use, customer support, or distribution of over-the-counter hearing aids (as defined in section 520(q) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360j](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360j)[(q)]), as amended by subsection (a)) through in-person transactions, by mail, or online, that is different from, in addition to, or otherwise not identical to, the regulations promulgated under this subsection, including any State or local requirement for the supervision, prescription, or other order, involvement, or intervention of a licensed person for consumers to access over-the-counter hearing aids. “(5) No effect on private remedies.—Nothing in this section shall be construed to modify or otherwise affect the ability of any person to exercise a private right of action under any State or Federal product liability, tort, warranty, contract, or consumer protection law. “(c) New Guidance Issued.—Not later than the date on which final regulations are issued under subsection (b), the Secretary shall update and finalize the draft guidance of the Department of Health and Human Services entitled ‘Regulatory Requirements for Hearing Aid Devices and Personal Sound Amplification Products’, issued on November 7, 2013. Such updated and finalized guidance shall clarify which products, on the basis of claims or other marketing, advertising, or labeling material, meet the definition of a device in section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)) and which products meet the definition of a personal sound amplification product, as set forth in such guidance.”
 
 #### Guidance Document on Probable Benefit
 Pub. L. 114–255, div. A, title III, § 3052(b), Dec. 13, 2016, 130 Stat. 1125, provided that: “Not later than 18 months after the date of enactment of this Act [Dec. 13, 2016], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall publish a draft guidance that defines the criteria for establishing ‘probable benefit’ as that term is used in section 520(m)(2)(C) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360j(m)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/m/2/C&num=0&edition=prelim)).”
@@ -18257,11 +19307,25 @@ Enactment of this section not to be construed to supersede or limit the function
 
     (i) a class III device;
 
-    (ii) a class II device which is intended to be permanently implantable or life sustaining or life supporting; or
+    (ii) a device classified under [section 360c(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360c/f/2&num=0&edition=prelim) or designated under section 360e–3(d) 11 See References in Text note below. of this title;
 
-    (iii) a class II device which requires clinical data in the report submitted under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim) for the device, except that the number of class II devices to which the Secretary applies this clause for a year, less the number of such reports to which clauses (i) and (ii) apply, may not exceed 6 percent of the number that is equal to the total number of reports submitted to the Secretary under such section for such year less the number of such reports to which such clauses apply for such year.
+    (iii) a device that is intended to be permanently implantable, life sustaining, or life supporting, unless otherwise determined by the Secretary in accordance with subparagraph (B)(i)(II) and listed as eligible for review under subparagraph (B)(iii); or
 
-  (B) *Adjustment* — In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim) were not required to be submitted by reason of the operation of [section 360(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/m&num=0&edition=prelim).
+    (iv) a device that is of a type, or subset of a type, listed as not eligible for review under subparagraph (B)(iii).
+
+  (B) *Designation for review* — The Secretary shall—
+
+    (i) issue draft guidance on the factors the Secretary will use in determining whether a class I or class II device type, or subset of such device types, is eligible for review by an accredited person, including—
+
+      (I) the risk of the device type, or subset of such device type; and
+
+      (II) whether the device type, or subset of such device type, is permanently implantable, life sustaining, or life supporting, and whether there is a detailed public health justification for permitting the review by an accredited person of such device type or subset;
+
+    (ii) not later than 24 months after the date on which the Secretary issues such draft guidance, finalize such guidance; and
+
+    (iii) beginning on the date such guidance is finalized, designate and post on the internet website of the Food and Drug Administration, an updated list of class I and class II device types, or subsets of such device types, and the Secretary’s determination with respect to whether each such device type, or subset of a device type, is eligible or not eligible for review by an accredited person under this section based on the factors described in clause (i).
+
+  (C) *Interim rule* — Until the date on which the updated list is designated and posted in accordance with subparagraph (B)(iii), the list in effect on August 18, 2017, shall be in effect.
 
 **(b) Accreditation**
 
@@ -18279,9 +19343,7 @@ Enactment of this section not to be construed to supersede or limit the function
 
     (ii) take such additional measures as the Secretary determines to be appropriate.
 
-  (D) *Annual report* — The Secretary shall include in the annual report required under [section 393(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section393/g&num=0&edition=prelim) the names of all accredited persons and the particular activities under subsection (a) for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
-
-  (E) *Periodic reaccreditation*
+  (D) *Periodic reaccreditation*
 
     (i) *Period* — Subject to suspension or withdrawal under subparagraph (B), any accreditation under this section shall be valid for a period of 3 years after its issuance.
 
@@ -18299,7 +19361,9 @@ Enactment of this section not to be construed to supersede or limit the function
 
   (D) Such person shall not engage in the design, manufacture, promotion, or sale of devices.
 
-  (E) The operations of such person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will—
+  (E) The operations of such person shall be in accordance with generally accepted professional and ethical business practices.
+
+  (F) Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section—
 
     (i) certify that reported information accurately reflects data reviewed;
 
@@ -18315,11 +19379,32 @@ Enactment of this section not to be construed to supersede or limit the function
 
 (5) **Compensation of accredited persons** — Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engages the services of the accredited person, and shall be paid by the person who engages such services.
 
-**(c) Duration** The authority provided by this section terminates October 1, 2017.
+**(c) Duration** The authority provided by this section terminates October 1, 2022.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 360e–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e-3), referred to in subsec. (a)(3)(A)(ii), was in the original a reference to section 515C of act June 25, 1938, which was renumbered section 515B by Pub. L. 115–52, title IX, § 901(f)(2), Aug. 18, 2017, 131 Stat. 1077.
+
 #### Amendments
+2017—Subsec. (a)(3)(A)(ii) to (iv). Pub. L. 115–52, § 206(1)(A), added cls. (ii) to (iv) and struck out former cls. (ii) and (iii) which read as follows:
+
+“(ii) a class II device which is intended to be permanently implantable or life sustaining or life supporting; or
+
+“(iii) a class II device which requires clinical data in the report submitted under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim) for the device, except that the number of class II devices to which the Secretary applies this clause for a year, less the number of such reports to which clauses (i) and (ii) apply, may not exceed 6 percent of the number that is equal to the total number of reports submitted to the Secretary under such section for such year less the number of such reports to which such clauses apply for such year.”
+
+Subsec. (a)(3)(B). Pub. L. 115–52, § 206(1)(B), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim) were not required to be submitted by reason of the operation of [section 360(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/m&num=0&edition=prelim).”
+
+Subsec. (a)(3)(C). Pub. L. 115–52, § 206(1)(C), added subpar. (C).
+
+Subsec. (b)(2)(D), (E). Pub. L. 115–52, § 206(2)(A), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: “The Secretary shall include in the annual report required under [section 393(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section393/g&num=0&edition=prelim) the names of all accredited persons and the particular activities under subsection (a) for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.”
+
+Subsec. (b)(3)(E). Pub. L. 115–52, § 206(2)(B)(iii), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Subsec. (b)(3)(F). Pub. L. 115–52, § 206(2)(B)(i), (ii), redesignated subpar. (E) as (F) and substituted “Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section” for “The operations of such person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will” in introductory provisions.
+
+Subsec. (c). Pub. L. 115–52, § 206(3), substituted “2022’ for “2017”.
+
 2016—Subsec. (d). Pub. L. 114–255 struck out subsec. (d) which related to report to Congress.
 
 2012—Subsec. (b)(2)(E). Pub. L. 112–144, § 611(a), added subpar. (E).
@@ -18339,6 +19424,9 @@ Subsec. (c). Pub. L. 112–144, § 611(b), substituted “October 1, 2017” for
 whichever occurs first.”
 
 Subsec. (d). Pub. L. 107–250, § 202(2), added subsec. (d).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in [section 379j(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim) received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
 #### Effective Date
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
@@ -18429,9 +19517,13 @@ Enactment of this section not to be construed to supersede or limit the function
 
   (A) is a human drug application as defined in [section 379g(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/1&num=0&edition=prelim)—
 
-    (i) for prevention or treatment of a tropical disease; and
+    (i) for prevention or treatment of a tropical disease;
 
     (ii) the Secretary deems eligible for priority review;
+
+    (iii) that contains reports of one or more new clinical investigations (other than bioavailability studies) that are essential to the approval of the application and conducted or sponsored by the sponsor of such application; and
+
+    (iv) that contains an attestation from the sponsor of the application that such reports were not submitted as part of an application for marketing approval or licensure by a regulatory authority in India, Brazil, Thailand, or any country that is a member of the Pharmaceutical Inspection Convention or the Pharmaceutical Inspection Cooperation Scheme prior to September 27, 2007.11 So in original. The period probably should be a semicolon.
 
   (B) is approved after September 27, 2007, by the Secretary for use in the prevention, detection, or treatment of a tropical disease; and
 
@@ -18479,6 +19571,8 @@ Enactment of this section not to be construed to supersede or limit the function
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Amendments
+2017—Subsec. (a)(4)(A)(iii), (iv). Pub. L. 115–52 added cls. (iii) and (iv).
+
 2016—Subsec. (a)(3)(Q). Pub. L. 114–146, § 2(2), substituted “Filovirus Diseases” for “Filoviruses”.
 
 Subsec. (a)(3)(R), (S). Pub. L. 114–146, § 2(1), (3), added subpar. (R) and redesignated former subpar. (R) as (S).
@@ -18490,6 +19584,9 @@ Subsec. (c)(4)(A). Pub. L. 114–255 made technical amendment to reference in or
 Subsec. (b)(2). Pub. L. 113–233, § 2(2)(A), inserted at end “There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.”
 
 Subsec. (b)(4). Pub. L. 113–233, § 2(2)(B), substituted “90 days” for “365 days”.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–52, title VI, § 611(b), Aug. 18, 2017, 131 Stat. 1054, provided that: “The amendments made by subsection (a) [amending this section] shall apply to human drug applications submitted after September 30, 2017.”
 
 
 <a id="section-360nn"></a>
@@ -18868,7 +19965,7 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare [now Health and Human Services], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
 
 #### Notification of FDA Intent To Regulate Laboratory-Developed Tests
-Pub. L. 112–144, title XI, § 1143, July 9, 2012, 126 Stat. 1130, provided that: “(a) In General.—The Food and Drug Administration may not issue any draft or final guidance on the regulation of laboratory-developed tests under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.) without, at least 60 days prior to such issuance—“(1) notifying the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate of the Administration’s intent to take such action; and “(2) including in such notification the anticipated details of such action. “(b) Sunset.—Subsection (a) shall cease to have force or effect on the date that is 5 years after the date of enactment of this Act [July 9, 2012].”
+Pub. L. 112–144, title XI, § 1143, July 9, 2012, 126 Stat. 1130, provided that the Food and Drug Administration could not issue any draft or final guidance on the regulation of laboratory-developed tests under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.) without, at least 60 days prior to such issuance, notifying the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate of the Administration’s intent to take such action and including in such notification the anticipated details of such action, and that such provision ceased to have force or effect on the date that was 5 years after the date of enactment of Pub. L. 112–144, which was approved July 9, 2012.
 
 #### Approval of Supplemental Applications for Approved Products
 Pub. L. 105–115, title IV, § 403, Nov. 21, 1997, 111 Stat. 2367, provided that: “(a) Standards.—Not later than 180 days after the date of enactment of this Act [Nov. 21, 1997], the Secretary of Health and Human Services shall publish in the Federal Register standards for the prompt review of supplemental applications submitted for approved articles under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.) or section 351 of the Public Health Service Act ([42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)). “(b) Guidance to Industry.—Not later than 180 days after the date of enactment of this Act [Nov. 21, 1997], the Secretary shall issue final guidances to clarify the requirements for, and facilitate the submission of data to support, the approval of supplemental applications for the approved articles described in subsection (a). The guidances shall—“(1) clarify circumstances in which published matter may be the basis for approval of a supplemental application; “(2) specify data requirements that will avoid duplication of previously submitted data by recognizing the availability of data previously submitted in support of an original application; and “(3) define supplemental applications that are eligible for priority review. “(c) Responsibilities of Centers.—The Secretary shall designate an individual in each center within the Food and Drug Administration (except the Center for Food Safety and Applied Nutrition) to be responsible for—“(1) encouraging the prompt review of supplemental applications for approved articles; and “(2) working with sponsors to facilitate the development and submission of data to support supplemental applications. “(d) Collaboration.—The Secretary shall implement programs and policies that will foster collaboration between the Food and Drug Administration, the National Institutes of Health, professional medical and scientific societies, and other persons, to identify published and unpublished studies that may support a supplemental application, and to encourage sponsors to make supplemental applications or conduct further research in support of a supplemental application based, in whole or in part, on such studies.”
@@ -19189,7 +20286,7 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
     (iii) The term “adjusted base amount”, with respect to applicability to fiscal year 2004 or any subsequent fiscal year, means the adjusted base amount applicable to the preceding year increased by 5 percent.
 
-(11) The authority provided by this subsection terminates on October 1, 2017.
+(11) The authority provided by this subsection terminates on October 1, 2022.
 
 (12) No later than four years after October 26, 2002, the Comptroller General shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate—
 
@@ -19211,9 +20308,53 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 (14) Notwithstanding any provision of this subsection, this subsection does not have any legal effect on any agreement described in [section 383(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section383/b&num=0&edition=prelim) between the Secretary and a foreign country.
 
+(15)
+
+  (A) Notwithstanding any other provision of this subsection, the Secretary may recognize auditing organizations that are recognized by organizations established by governments to facilitate international harmonization for purposes of conducting inspections of—
+
+    (i) establishments that manufacture, prepare, propagate, compound, or process devices (other than types of devices licensed under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)), as required under [section 360(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/h&num=0&edition=prelim); or
+
+    (ii) establishments required to register pursuant to [section 360(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/i&num=0&edition=prelim).
+
+  (B) Nothing in this paragraph affects—
+
+    (i) the authority of the Secretary to inspect any device establishment pursuant to this chapter; or
+
+    (ii) the authority of the Secretary to determine the official classification of an inspection.
+
+**(h) Improvements to inspections process for device establishments**
+
+(1) In the case of inspections other than for-cause inspections, the Secretary shall review processes and standards applicable to inspections of domestic and foreign device establishments in effect as of August 18, 2017, and update such processes and standards through the adoption of uniform processes and standards applicable to such inspections. Such uniform processes and standards shall provide for—
+
+  (A) exceptions to such processes and standards, as appropriate;
+
+  (B) announcing the inspection of the establishment within a reasonable time before such inspection occurs, including by providing to the owner, operator, or agent in charge of the establishment a notification regarding the type and nature of the inspection;
+
+  (C) a reasonable estimate of the timeframe for the inspection, an opportunity for advance communications between the officers or employees carrying out the inspection under subsection (a)(1) and the owner, operator, or agent in charge of the establishment concerning appropriate working hours during the inspection, and, to the extent feasible, advance notice of some records that will be requested; and
+
+  (D) regular communications during the inspection with the owner, operator, or agent in charge of the establishment regarding inspection status, which may be recorded by either party with advance notice and mutual consent.
+
+(2)
+
+  (A) The Secretary shall, with respect to a request described in subparagraph (B), provide nonbinding feedback with respect to such request not later than 45 days after the Secretary receives such request.
+
+  (B) A request described in this subparagraph is a request for feedback—
+
+    (i) that is made by the owner, operator, or agent in charge of such establishment in a timely manner; and
+
+    (ii) with respect to actions proposed to be taken by a device establishment in a response to a report received by such establishment pursuant to subsection (b) that involve a public health priority, that implicate systemic or major actions, or relate to emerging safety issues (as determined by the Secretary).
+
+(3) Nothing in this subsection affects the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
+
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g)(11). Pub. L. 115–52, § 703, substituted “October 1, 2022” for “October 1, 2017”.
+
+Subsec. (g)(15). Pub. L. 115–52, § 705, added par. (15).
+
+Subsec. (h). Pub. L. 115–52, § 702(a), added subsec. (h).
+
 2012—Subsec. (a)(4). Pub. L. 112–144, § 706, added par. (4).
 
 Subsec. (g)(11). Pub. L. 112–144, § 612, substituted “October 1, 2017” for “October 1, 2012”.
@@ -19323,6 +20464,12 @@ Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain al
 
 #### Transfer of Functions
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare [now Health and Human Services], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321).
+
+#### Guidance
+Pub. L. 115–52, title VII, § 702(b), Aug. 18, 2017, 131 Stat. 1055, provided that: “(1) Draft guidance.—Not later than 18 months after the date of enactment of this Act [Aug. 18, 2017], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall issue draft guidance that—“(A) specifies how the Food and Drug Administration will implement the processes and standards described in paragraph (1) of subsection (h) of section 704 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 374](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374)), as added by subsection (a), and the requirements described in paragraph (2) of such subsection (h); “(B) provides for standardized methods for communications described in such paragraphs; “(C) establishes, with respect to inspections of both domestic and foreign device establishments (as referred to in section 510(h)(2) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/h/2&num=0&edition=prelim)], as amended by subsection (a) [of section 701 of Pub. L. 115–52]), a standard timeframe for such inspections—“(i) that occurs over consecutive days; and “(ii) to which each investigator conducting such an inspection shall adhere unless the investigator identifies to the establishment involved a reason that more time is needed to conduct such investigation; and “(D) identifies practices for investigators and device establishments to facilitate the continuity of inspections of such establishments. “(2) Final guidance.—Not later than 1 year after providing notice and opportunity for public comment on the draft guidance issued under paragraph (1), the Secretary of Health and Human Services shall issue final guidance to implement subsection (h) of section 704 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 374](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374)), as added by subsection (a).”
+
+#### Inspections
+Pub. L. 115–52, title VIII, § 806, Aug. 18, 2017, 131 Stat. 1073, provided that: “Within 6 months of the date of enactment of this Act [Aug. 18, 2017], the Secretary of Health and Human Services shall develop and implement a protocol for expediting review of timely responses to reports of observations from an inspection under section 704 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 374](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-374)). Such protocol shall— “(1) apply to responses to such reports pertaining to applications submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355))—“(A) for which the approval is dependent upon remediation of conditions identified in the report; “(B) for which concerns related to observations from an inspection under such section 704 are the only barrier to approval; and “(C) where the drug that is the subject of the application is a drug—“(i) for which there are not more than 3 other approved applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)) that reference the same listed drug and for which there are less than 6 abbreviated new drug applications tentatively approved; or “(ii) that is included on the list under section 506E of such Act ([21 U.S.C. 356e](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356e)); “(2) address expedited re-inspection of facilities, as appropriate; and “(3) establish a 6-month timeline for completion of review of such responses to such reports.”
 
 #### Authority of Secretary Prior to October 10, 1962
 Pub. L. 87–781, title II, § 201(d), Oct. 10, 1962, 76 Stat. 793, provided that: “Nothing in the amendments made by subsections (a) and (b) of this section [amending this section] shall be construed to negate or derogate from any authority of the Secretary existing prior to the enactment of this Act [Oct. 10, 1962].”
@@ -19614,7 +20761,7 @@ Pub. L. 109–462, § 2(b), Dec. 22, 2006, 120 Stat. 3472, provided that: “The
 #### Guidance
 Pub. L. 109–462, § 2(e)(3), Dec. 22, 2006, 120 Stat. 3472, provided that: “Not later than 270 days after the date of enactment of this Act [Dec. 22, 2006], the Secretary of Health and Human Services shall issue guidance on the minimum data elements that should be included in a serious adverse event report described under the amendments made by this Act [see Short Title of 2006 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)].”
 
-Pub. L. 109–462, § 3(d)(3), Dec. 22, 2006, 120 Stat. 3475, enacted provisions substantially identical to those enacted by Pub. L. 109–462, § 2(b), set out above.
+Pub. L. 109–462, § 3(d)(3), Dec. 22, 2006, 120 Stat. 3475, enacted provisions substantially identical to those enacted by Pub. L. 109–462, § 2(e)(3), set out above.
 
 
 <a id="section-379aa-1"></a>
@@ -20115,7 +21262,7 @@ Section effective Oct. 1, 2007, see section 701(c) of Pub. L. 110–85, set out 
 
 **(b) Activities described** The activities described in this subsection are—
 
-(1) activities under this chapter related to the process for the review of device applications (as defined in [section 379i(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379i/8&num=0&edition=prelim)); and
+(1) activities under this chapter related to the process for the review of device applications (as defined in [section 379i(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379i/9&num=0&edition=prelim)); and
 
 (2) activities under this chapter related to human generic drug activities (as defined in [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41)).
 
@@ -20132,9 +21279,14 @@ Section effective Oct. 1, 2007, see section 701(c) of Pub. L. 110–85, set out 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (b)(1). Pub. L. 115–52 substituted “379i(9)” for “379i(8)”.
+
 2012—Subsec. (b). Pub. L. 112–144, § 307(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The activities described in this subsection are activities under this chapter related to the process for the review of device applications (as defined in [section 379i(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379i/8&num=0&edition=prelim)).”
 
 Subsec. (c). Pub. L. 112–144, § 307(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “The objectives specified in this subsection are with respect to the activities under subsection (b), the goals referred to in [section 379j–1(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–1/a/1&num=0&edition=prelim).”
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of this subchapter to be assessed for all submissions listed in [section 379j(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim) received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
 #### Effective Date of 2012 Amendment
 Amendment by section 307 of Pub. L. 112–144 effective Oct. 1, 2012, see section 305 of Pub. L. 112–144, set out as an Effective and Termination Dates note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
@@ -20443,7 +21595,7 @@ For purposes of this subpart:
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 105(a) of Pub. L. 112–144, see Termination Date note below.
+For termination of section by section 104(a) of Pub. L. 115–52, see Termination Date note below.
 
 #### Amendments
 2012—Par. (1)(B). Pub. L. 112–144, § 407, struck out “or (k)” after “subsection (a)”.
@@ -20508,6 +21660,9 @@ Par. (8)(B). Pub. L. 105–115, § 102(6)(B), substituted “section 254(c)” f
 
 Par. (9). Pub. L. 105–115, § 102(7), added par. (9).
 
+#### Effective Date of 2017 Amendment
+Pub. L. 115–52, title I, § 105, Aug. 18, 2017, 131 Stat. 1012, provided that: “The amendments made by this title [see section 101(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] shall take effect on October 1, 2017, or the date of the enactment of this Act [Aug. 18, 2017], whichever is later, except that fees under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g) et seq.] shall be assessed for all human drug applications received on or after October 1, 2017, regardless of the date of the enactment of this Act.”
+
 #### Effective Date of 2012 Amendment
 Pub. L. 112–144, title I, § 106, July 9, 2012, 126 Stat. 1002, provided that: “The amendments made by this title [amending this section and sections 379h and 379h–2 of this title and repealing provisions set out as notes under this section and [section 379h–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h-2)] shall take effect on October 1, 2012, or the date of the enactment of this Act [July 9, 2012], whichever is later, except that fees under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] shall be assessed for all human drug applications received on or after October 1, 2012, regardless of the date of the enactment of this Act.”
 
@@ -20533,13 +21688,19 @@ Pub. L. 105–115, title I, § 107, Nov. 21, 1997, 111 Stat. 2305, which provide
 [Pub. L. 112–144, title I, § 105(d)(2), July 9, 2012, 126 Stat. 1001, provided that the repeal of section 107 of Pub. L. 105–115, formerly set out above, is effective Sept. 30, 2002.]
 
 #### Termination Date
-Pub. L. 112–144, title I, § 105(a), July 9, 2012, 126 Stat. 1001, provided that: “Sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g); 379h) shall cease to be effective October 1, 2017.”
+Pub. L. 115–52, title I, § 104(a), Aug. 18, 2017, 131 Stat. 1012, provided that: “Sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g); 379h) shall cease to be effective October 1, 2022.”
+
+Pub. L. 112–144, title I, § 105(a), July 9, 2012, 126 Stat. 1001, which provided that sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g); 379h) would cease to be effective Oct. 1, 2017, was repealed by Pub. L. 115–52, title I, § 104(c), Aug. 18, 2017, 131 Stat. 1012.
+
+[Pub. L. 115–52, title I, § 104(c), Aug. 18, 2017, 131 Stat. 1012, provided that the repeal of section 105(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.]
 
 Pub. L. 102–571, title I, § 105, Oct. 29, 1992, 106 Stat. 4498, which provided that the amendment by section 103 of Pub. L. 102–571 (enacting this subpart) would not be in effect after Oct. 1, 1997, and the amendment by section 104 of Pub. L. 102–571 (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 1997, was repealed by Pub. L. 112–144, title I, § 105(d)(3), July 9, 2012, 126 Stat. 1002.
 
 [Pub. L. 112–144, title I, § 105(d)(3), July 9, 2012, 126 Stat. 1002, provided that the repeal of section 105 of Pub. L. 102–571, formerly set out above, is effective Sept. 30, 1997.]
 
 #### Savings Provision
+Pub. L. 115–52, title I, § 106, Aug. 18, 2017, 131 Stat. 1013, provided that: “Notwithstanding the amendments made by this title [see section 101(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g) et seq.], as in effect on the day before the date of the enactment of this title [Aug. 18, 2017], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that on or after October 1, 2012, but before October 1, 2017, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018.”
+
 Pub. L. 112–144, title I, § 107, July 9, 2012, 126 Stat. 1002, provided that: “Notwithstanding the amendments made by this title [amending this section and section 379h and 379h–2 of this title and repealing provisions set out as notes under this section and [section 379h–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h-2)], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart], as in effect on the day before the date of the enactment of this title [July 9, 2012], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2012.”
 
 Pub. L. 112–144, title IV, § 406, July 9, 2012, 126 Stat. 1039, provided that: “Notwithstanding the amendments made by this title [enacting sections 379j–51 to 379j–53 of this title and amending this section and [section 379d–4 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379d-4)], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart], as in effect on the day before the date of the enactment of this title [July 9, 2012], shall continue to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that were accepted by the Food and Drug Administration for filing on or after October 1, 2007, but before October 1, 2012, with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2013.”
@@ -20554,6 +21715,8 @@ Pub. L. 105–115, title I, § 105, Nov. 21, 1997, 111 Stat. 2305, provided that
 Pub. L. 107–188, title V, § 505, June 12, 2002, 116 Stat. 692, provided that: “(a) Public Accountability.—“(1) Consultation.—In developing recommendations to the Congress for the goals and plans for meeting the goals for the process for the review of human drug applications for the fiscal years after fiscal year 2007, and for the reauthorization of sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g), 379h], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, health care professionals, representatives of patient and consumer advocacy groups, and the regulated industry. “(2) Recommendations.—The Secretary shall publish in the Federal Register recommendations under paragraph (1), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may present its views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations. “(b) Performance Report.—Beginning with fiscal year 2003, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g) et seq.), the Secretary of Health and Human Services shall prepare and submit to the President, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 502(4) [section 502(4) of Pub. L. 107–188, set out below] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. “(c) Fiscal Report.—Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
 
 #### Congressional Findings Concerning Fees Relating to Drugs
+Pub. L. 115–52, title I, § 101(b), Aug. 18, 2017, 131 Stat. 1006, provided that: “The Congress finds that the fees authorized by the amendments made in this title [see section 101(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] will be dedicated toward expediting the drug development process and the process for the review of human drug applications, including postmarket drug safety activities, as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g) et seq.], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
+
 Pub. L. 112–144, title I, § 101(b), July 9, 2012, 126 Stat. 996, provided that: “The Congress finds that the fees authorized by the amendments made in this title [amending this section and sections 379h and 379h–2 of this title and repealing sections set out as notes under this section and [section 379h–2 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h-2)] will be dedicated toward expediting the drug development process and the process for the review of human drug applications, including postmarket drug safety activities, as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
 Pub. L. 110–85, title I, § 101(c), Sept. 27, 2007, 121 Stat. 825, provided that: “The Congress finds that the fees authorized by the amendments made in this title [enacting sections 379h–1 and 379h–2 of this title and amending this section and sections 379h and 379j–11 of this title] will be dedicated toward expediting the drug development process and the process for the review of human drug applications, including postmarket drug safety activities, as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
@@ -20575,61 +21738,33 @@ Pub. L. 102–571, title I, § 108, Oct. 29, 1992, 106 Stat. 4500, directed Secr
 
 <a id="section-379h"></a>
 ## § 379h. Authority to assess and use drug fees
-**(a) Types of fees** Beginning in fiscal year 2013, the Secretary shall assess and collect fees in accordance with this section as follows:
+**(a) Types of fees** Beginning in fiscal year 2018, the Secretary shall assess and collect fees in accordance with this section as follows:
 
-(1) **Human drug application and supplement fee**
+(1) **Human drug application fee**
 
-  (A) *In general* — Each person that submits, on or after September 1, 1992, a human drug application or a supplement shall be subject to a fee as follows:
+  (A) *In general* — Each person that submits, on or after September 1, 1992, a human drug application shall be subject to a fee as follows:
 
-    (i) A fee established under subsection (c)(4) for a human drug application for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required for approval.
+    (i) A fee established under subsection (c)(5) for a human drug application for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required for approval.
 
-    (ii) A fee established under subsection (c)(4) for a human drug application for which clinical data with respect to safety or effectiveness are not required or a supplement for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required. Such fee shall be half of the amount of the fee established under clause (i).
+    (ii) A fee established under subsection (c)(5) for a human drug application for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are not required for approval. Such fee shall be half of the amount of the fee established under clause (i).
 
-  (B) *Payment* — The fee required by subparagraph (A) shall be due upon submission of the application or supplement.
+  (B) *Payment* — The fee required by subparagraph (A) shall be due upon submission of the application.
 
-  (C) *Exception for previously filed application or supplement* — If a human drug application or supplement was submitted by a person that paid the fee for such application or supplement, was accepted for filing, and was not approved or was withdrawn (without a waiver), the submission of a human drug application or a supplement for the same product by the same person (or the person’s licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+  (C) *Exception for previously filed application* — If a human drug application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn (without a waiver), the submission of a human drug application for the same product by the same person (or the person’s licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
 
-  (D) *Refund of fee if application refused for filing or withdrawn before filing* — The Secretary shall refund 75 percent of the fee paid under subparagraph (B) for any application or supplement which is refused for filing or withdrawn without a waiver before filing.
+  (D) *Refund of fee if application refused for filing or withdrawn before filing* — The Secretary shall refund 75 percent of the fee paid under subparagraph (B) for any application which is refused for filing or withdrawn without a waiver before filing.
 
-  (E) *Fees for applications previously refused for filing or withdrawn before filing* — A human drug application or supplement that was submitted but was refused for filing, or was withdrawn before being accepted or refused for filing, shall be subject to the full fee under subparagraph (A) upon being resubmitted or filed over protest, unless the fee is waived or reduced under subsection (d).
+  (E) *Fees for applications previously refused for filing or withdrawn before filing* — A human drug application that was submitted but was refused for filing, or was withdrawn before being accepted or refused for filing, shall be subject to the full fee under subparagraph (A) upon being resubmitted or filed over protest, unless the fee is waived or reduced under subsection (d).
 
-  (F) *Exception for designated orphan drug or indication* — A human drug application for a prescription drug product that has been designated as a drug for a rare disease or condition pursuant to [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) shall not be subject to a fee under subparagraph (A), unless the human drug application includes an indication for other than a rare disease or condition. A supplement proposing to include a new indication for a rare disease or condition in a human drug application shall not be subject to a fee under subparagraph (A), if the drug has been designated pursuant to [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) as a drug for a rare disease or condition with regard to the indication proposed in such supplement.
+  (F) *Exception for designated orphan drug* — A human drug application for a prescription drug product that has been designated as a drug for a rare disease or condition pursuant to [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) shall not be subject to a fee under subparagraph (A), unless the human drug application includes an indication for other than a rare disease or condition.
 
-  (G) *Refund of fee if application withdrawn* — If an application or supplement is withdrawn after the application or supplement was filed, the Secretary may refund the fee or a portion of the fee if no substantial work was performed on the application or supplement after the application or supplement was filed. The Secretary shall have the sole discretion to refund a fee or a portion of the fee under this subparagraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.
+  (G) *Refund of fee if application withdrawn* — If an application is withdrawn after the application was filed, the Secretary may refund the fee or a portion of the fee if no substantial work was performed on the application after the application was filed. The Secretary shall have the sole discretion to refund a fee or a portion of the fee under this subparagraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.
 
-(2) **Prescription drug establishment fee**
+(2) **Prescription drug program fee**
 
-  (A) *In general* — Except as provided in subparagraphs (B) and (C), each person that—
+  (A) *In general* — Except as provided in subparagraphs (B) and (C), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay the annual prescription drug program fee established for a fiscal year under subsection (c)(5) for each prescription drug product that is identified in such a human drug application approved as of October 1 of such fiscal year. Such fee shall be due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.
 
-    (i) is named as the applicant in a human drug application; and
-
-    (ii) after September 1, 1992, had pending before the Secretary a human drug application or supplement,
-    shall be assessed an annual fee established under subsection (c)(4) for each prescription drug establishment listed in its approved human drug application as an establishment that manufactures the prescription drug product named in the application. The annual establishment fee shall be assessed in each fiscal year in which the prescription drug product named in the application is assessed a fee under paragraph (3) unless the prescription drug establishment listed in the application does not engage in the manufacture of the prescription drug product during the fiscal year. The establishment fee shall be due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section. Each such establishment shall be assessed only one fee per establishment, notwithstanding the number of prescription drug products manufactured at the establishment. In the event an establishment is listed in a human drug application by more than one applicant, the establishment fee for the fiscal year shall be divided equally and assessed among the applicants whose prescription drug products are manufactured by the establishment during the fiscal year and assessed product fees under paragraph (3).
-
-  (B) *Exception* — If, during the fiscal year, an applicant initiates or causes to be initiated the manufacture of a prescription drug product at an establishment listed in its human drug application—
-
-    (i) that did not manufacture the product in the previous fiscal year; and
-
-    (ii) for which the full establishment fee has been assessed in the fiscal year at a time before manufacture of the prescription drug product was begun;
-    the applicant will not be assessed a share of the establishment fee for the fiscal year in which the manufacture of the product began.
-
-  (C) *Special rules for positron emission tomography drugs*
-
-    (i) *In general* — Except as provided in clause (ii), each person who is named as the applicant in an approved human drug application for a positron emission tomography drug shall be subject under subparagraph (A) to one-sixth of an annual establishment fee with respect to each such establishment identified in the application as producing positron emission tomography drugs under the approved application.
-
-    (ii) *Exception from annual establishment fee* — Each person who is named as the applicant in an application described in clause (i) shall not be assessed an annual establishment fee for a fiscal year if the person certifies to the Secretary, at a time specified by the Secretary and using procedures specified by the Secretary, that—
-
-      (I) the person is a not-for-profit medical center that has only 1 establishment for the production of positron emission tomography drugs; and
-
-      (II) at least 95 percent of the total number of doses of each positron emission tomography drug produced by such establishment during such fiscal year will be used within the medical center.
-
-    (iii) *Definition* — For purposes of this subparagraph, the term “positron emission tomography drug” has the meaning given to the term “compounded positron emission tomography drug” in [section 321(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/ii&num=0&edition=prelim), except that paragraph (1)(B) of such section shall not apply.
-
-(3) **Prescription drug product fee**
-
-  (A) *In general* — Except as provided in subparagraph (B), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay for each such prescription drug product the annual fee established under subsection (c)(4). Such fee shall be due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.
-
-  (B) *Exception* — A prescription drug product shall not be assessed a fee under subparagraph (A) if such product is—
+  (B) *Exception for certain prescription drug products* — A prescription drug program fee shall not be assessed for a prescription drug product under subparagraph (A) if such product is—
 
     (i) identified on the list compiled under [section 355(j)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/7&num=0&edition=prelim) with a potency described in terms of per 100 mL;
 
@@ -20643,64 +21778,127 @@ Pub. L. 102–571, title I, § 108, Oct. 29, 1992, 106 Stat. 4500, directed Secr
 
     (iv) the same product as another product that was approved under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.
 
+  (C) *Limitation* — A person who is named as the applicant in an approved human drug application shall not be assessed more than 5 prescription drug program fees for a fiscal year for prescription drug products identified in such approved human drug application.
+
 **(b) Fee revenue amounts**
 
-(1) **In general** — For each of the fiscal years 2013 through 2017, fees under subsection (a) shall, except as provided in subsections (c), (d), (f), and (g), be established to generate a total revenue amount under such subsection that is equal to the sum of—
+(1) **In general** — For each of the fiscal years 2018 through 2022, fees under subsection (a) shall, except as provided in subsections (c), (d), (f), and (g), be established to generate a total revenue amount under such subsection that is equal to the sum of—
 
-  (A) $693,099,000;
+  (A) the annual base revenue for the fiscal year (as determined under paragraph (3));
 
-  (B) the dollar amount equal to the inflation adjustment for fiscal year 2013 (as determined under paragraph (3)(A)); and
+  (B) the dollar amount equal to the inflation adjustment for the fiscal year (as determined under subsection (c)(1));
 
-  (C) the dollar amount equal to the workload adjustment for fiscal year 2013 (as determined under paragraph (3)(B)).
+  (C) the dollar amount equal to the capacity planning adjustment for the fiscal year (as determined under subsection (c)(2));
+
+  (D) the dollar amount equal to the operating reserve adjustment for the fiscal year, if applicable (as determined under subsection (c)(3));
+
+  (E) the dollar amount equal to the additional direct cost adjustment for the fiscal year (as determined under subsection (c)(4)); and
+
+  (F) additional dollar amounts for each fiscal year as follows:
+
+    (i) $20,077,793 for fiscal year 2018.
+
+    (ii) $21,317,472 for fiscal year 2019.
+
+    (iii) $16,953,329 for fiscal year 2020.
+
+    (iv) $5,426,896 for fiscal year 2021.
+
+    (v) $2,769,609 for fiscal year 2022.
 
 (2) **Types of fees** — Of the total revenue amount determined for a fiscal year under paragraph (1)—
 
-  (A) one-third shall be derived from fees under subsection (a)(1) (relating to human drug applications and supplements);
+  (A) 20 percent shall be derived from human drug application fees under subsection (a)(1); and
 
-  (B) one-third shall be derived from fees under subsection (a)(2) (relating to prescription drug establishments); and
+  (B) 80 percent shall be derived from prescription drug program fees under subsection (a)(2).
 
-  (C) one-third shall be derived from fees under subsection (a)(3) (relating to prescription drug products).
+(3) **Annual base revenue** — For purposes of paragraph (1), the dollar amount of the annual base revenue for a fiscal year shall be—
 
-(3) **Fiscal year 2013 inflation and workload adjustments** — For purposes of paragraph (1), the dollar amount of the inflation and workload adjustments for fiscal year 2013 shall be determined as follows:
+  (A) for fiscal year 2018, $878,590,000; and
 
-  (A) *Inflation adjustment* — The inflation adjustment for fiscal year 2013 shall be the sum of—
+  (B) for fiscal years 2019 through 2022, the dollar amount of the total revenue amount established under paragraph (1) for the previous fiscal year, not including any adjustments made under subsection (c)(3) or (c)(4).
 
-    (i) $652,709,000 multiplied by the result of an inflation adjustment calculation determined using the methodology described in subsection (c)(1)(B); and
+**(c) Adjustments; annual fee setting**
 
-    (ii) $652,709,000 multiplied by the result of an inflation adjustment calculation determined using the methodology described in subsection (c)(1)(C).
+(1) **Inflation adjustment**
 
-  (B) *Workload adjustment* — Subject to subparagraph (C), the workload adjustment for fiscal 2013 shall be—
+  (A) *In general* — For purposes of subsection (b)(1)(B), the dollar amount of the inflation adjustment to the annual base revenue for each fiscal year shall be equal to the product of—
 
-    (i) $652,709,000 plus the amount of the inflation adjustment calculated under subparagraph (A); multiplied by
+    (i) such annual base revenue for the fiscal year under subsection (b)(1)(A); and
 
-    (ii) the amount (if any) by which a percentage workload adjustment for fiscal year 2013, as determined using the methodology described in subsection (c)(2)(A), would exceed the percentage workload adjustment (as so determined) for fiscal year 2012, if both such adjustment percentages were calculated using the 5-year base period consisting of fiscal years 2003 through 2007.
+    (ii) the inflation adjustment percentage under subparagraph (B).
 
-  (C) *Limitation* — Under no circumstances shall the adjustment under subparagraph (B) result in fee revenues for fiscal year 2013 that are less than the sum of the amount under paragraph (1)(A) and the amount under paragraph (1)(B).
+  (B) *Inflation adjustment percentage* — The inflation adjustment percentage under this subparagraph for a fiscal year is equal to the sum of—
 
-**(c) Adjustments**
+    (i) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in [section 379g(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/6&num=0&edition=prelim)) for the first 3 years of the preceding 4 fiscal years; and
 
-(1) **Inflation adjustment** — For fiscal year 2014 and subsequent fiscal years, the revenues established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year by the amount equal to the sum of—
+    (ii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in [section 379g(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/6&num=0&edition=prelim)) for the first 3 years of the preceding 4 fiscal years.
 
-  (A) one;
+(2) **Capacity planning adjustment**
 
-  (B) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in [section 379g(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/6&num=0&edition=prelim)) for the first 3 years of the preceding 4 fiscal years, and
+  (A) *In general* — For each fiscal year, after the annual base revenue established in subsection (b)(1)(A) is adjusted for inflation in accordance with paragraph (1), such revenue shall be adjusted further for such fiscal year, in accordance with this paragraph, to reflect changes in the resource capacity needs of the Secretary for the process for the review of human drug applications.
 
-  (C) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in [section 379g(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/6&num=0&edition=prelim)) for the first 3 years of the preceding 4 fiscal years.
-  The adjustment made each fiscal year under this paragraph shall be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2013 under this paragraph.
+  (B) *Interim methodology*
 
-(2) **Workload adjustment** — For fiscal year 2014 and subsequent fiscal years, after the fee revenues established in subsection (b) are adjusted for a fiscal year for inflation in accordance with paragraph (1), the fee revenues shall be adjusted further for such fiscal year to reflect changes in the workload of the Secretary for the process for the review of human drug applications. With respect to such adjustment:
+    (i) *In general* — Until the capacity planning methodology described in subparagraph (C) is effective, the adjustment under this paragraph for a fiscal year shall be based on the product of—
 
-  (A) The adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of human drug applications (adjusted for changes in review activities, as described in the notice that the Secretary is required to publish in the Federal Register under this subparagraph), efficacy supplements, and manufacturing supplements submitted to the Secretary, and the change in the total number of active commercial investigational new drug applications (adjusted for changes in review activities, as so described) during the most recent 12-month period for which data on such submissions is available. The Secretary shall publish in the Federal Register the fee revenues and fees resulting from the adjustment and the supporting methodologies.
+      (I) the annual base revenue for such year, as adjusted for inflation under paragraph (1); and
 
-  (B) Under no circumstances shall the adjustment result in fee revenues for a fiscal year that are less than the sum of the amount under subsection (b)(1)(A) and the amount under subsection (b)(1)(B), as adjusted for inflation under paragraph (1).
+      (II) the adjustment percentage under clause (ii).
 
-  (C) The Secretary shall contract with an independent accounting or consulting firm to periodically review the adequacy of the adjustment and publish the results of those reviews. The first review shall be conducted and published by the end of fiscal year 2013 (to examine the performance of the adjustment since fiscal year 2009), and the second review shall be conducted and published by the end of fiscal year 2015 (to examine the continued performance of the adjustment). The reports shall evaluate whether the adjustment reasonably represents actual changes in workload volume and complexity and present options to discontinue, retain, or modify any elements of the adjustment. The reports shall be published for public comment. After review of the reports and receipt of public comments, the Secretary shall, if warranted, adopt appropriate changes to the methodology. If the Secretary adopts changes to the methodology based on the first report, the changes shall be effective for the first fiscal year for which fees are set after the Secretary adopts such changes and each subsequent fiscal year.
+    (ii) *Adjustment percentage* — The adjustment percentage under this clause for a fiscal year is the weighted change in the 3-year average ending in the most recent year for which data are available, over the 3-year average ending in the previous year, for—
 
-(3) **Final year adjustment** — For fiscal year 2017, the Secretary may, in addition to adjustments under this paragraph and paragraphs (1) and (2), further increase the fee revenues and fees established in subsection (b) if such an adjustment is necessary to provide for not more than 3 months of operating reserves of carryover user fees for the process for the review of human drug applications for the first 3 months of fiscal year 2018. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2017. If the Secretary has carryover balances for such process in excess of 3 months of such operating reserves, the adjustment under this paragraph shall not be made.
+      (I) the total number of human drug applications, efficacy supplements, and manufacturing supplements submitted to the Secretary;
 
-(4) **Annual fee setting** — The Secretary shall, not later than 60 days before the start of each fiscal year that begins after September 30, 2012, establish, for the next fiscal year, application, product, and establishment fees under subsection (a), based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
+      (II) the total number of active commercial investigational new drug applications; and
 
-(5) **Limit** — The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of human drug applications.
+      (III) the total number of formal meetings scheduled by the Secretary, and written responses issued by the Secretary in lieu of such formal meetings, as identified in section I.H of the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017.
+
+  (C) *Capacity planning methodology*
+
+    (i) *Development; evaluation and report* — The Secretary shall obtain, through a contract with an independent accounting or consulting firm, a report evaluating options and recommendations for a new methodology to accurately assess changes in the resource and capacity needs of the process for the review of human drug applications. The capacity planning methodological options and recommendations presented in such report shall utilize and be informed by personnel time reporting data as an input. The report shall be published for public comment no later than the end of fiscal year 2020.
+
+    (ii) *Establishment and implementation* — After review of the report described in clause (i) and any public comments thereon, the Secretary shall establish a capacity planning methodology for purposes of this paragraph, which shall—
+
+      (I) replace the interim methodology under subparagraph (B);
+
+      (II) incorporate such approaches and attributes as the Secretary determines appropriate; and
+
+      (III) be effective beginning with the first fiscal year for which fees are set after such capacity planning methodology is established.
+
+  (D) *Limitation* — Under no circumstances shall an adjustment under this paragraph result in fee revenue for a fiscal year that is less than the sum of the amounts under subsections (b)(1)(A) (the annual base revenue for the fiscal year) and (b)(1)(B) (the dollar amount of the inflation adjustment for the fiscal year).
+
+  (E) *Publication in Federal Register* — The Secretary shall publish in the Federal Register notice under paragraph (5) of the fee revenue and fees resulting from the adjustment and the methodologies under this paragraph.
+
+(3) **Operating reserve adjustment**
+
+  (A) *Increase* — For fiscal year 2018 and subsequent fiscal years, the Secretary may, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenue and fees if such an adjustment is necessary to provide for not more than 14 weeks of operating reserves of carryover user fees for the process for the review of human drug applications.
+
+  (B) *Decrease* — If the Secretary has carryover balances for such process in excess of 14 weeks of such operating reserves, the Secretary shall decrease such fee revenue and fees to provide for not more than 14 weeks of such operating reserves.
+
+  (C) *Notice of rationale* — If an adjustment under subparagraph (A) or (B) is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5) establishing fee revenue and fees for the fiscal year involved.
+
+(4) **Additional direct cost adjustment**
+
+  (A) *In general* — The Secretary shall, in addition to adjustments under paragraphs (1), (2), and (3), further increase the fee revenue and fees—
+
+    (i) for fiscal year 2018, by $8,730,000; and
+
+    (ii) for fiscal year 2019 and subsequent fiscal years, by the amount determined under subparagraph (B).
+
+  (B) *Amount* — The amount determined under this subparagraph is—
+
+    (i) $8,730,000, multiplied by
+
+    (ii) the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All Items; Annual Index) for the most recent year of available data, divided by such Index for 2016.
+
+(5) **Annual fee setting** — The Secretary shall, not later than 60 days before the start of each fiscal year that begins after September 30, 2017—
+
+  (A) establish, for each such fiscal year, human drug application fees and prescription drug program fees under subsection (a), based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection; and
+
+  (B) publish such fee revenue and fees in the Federal Register.
+
+(6) **Limit** — The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of human drug applications.
 
 **(d) Fee waiver or reduction**
 
@@ -20708,33 +21906,27 @@ Pub. L. 102–571, title I, § 108, Oct. 29, 1992, 106 Stat. 4500, directed Secr
 
   (A) such waiver or reduction is necessary to protect the public health,
 
-  (B) the assessment of the fee would present a significant barrier to innovation because of limited resources available to such person or other circumstances,
+  (B) the assessment of the fee would present a significant barrier to innovation because of limited resources available to such person or other circumstances, or
 
-  (C) the fees to be paid by such person will exceed the anticipated present and future costs incurred by the Secretary in conducting the process for the review of human drug applications for such person, or
-
-  (D) the applicant involved is a small business submitting its first human drug application to the Secretary for review.
+  (C) the applicant involved is a small business submitting its first human drug application to the Secretary for review.
 
 (2) **Considerations** — In determining whether to grant a waiver or reduction of a fee under paragraph (1), the Secretary shall consider only the circumstances and assets of the applicant involved and any affiliate of the applicant.
 
-(3) **Use of standard costs** — In making the finding in paragraph (1)(C), the Secretary may use standard costs.
+(3) **Rules relating to small businesses**
 
-(4) **Rules relating to small businesses**
+  (A) *“Small business” defined* — In paragraph (1)(C), the term “small business” means an entity that has fewer than 500 employees, including employees of affiliates, and that does not have a drug product that has been approved under a human drug application and introduced or delivered for introduction into interstate commerce.
 
-  (A) *“Small business” defined* — In paragraph (1)(D), the term “small business” means an entity that has fewer than 500 employees, including employees of affiliates, and that does not have a drug product that has been approved under a human drug application and introduced or delivered for introduction into interstate commerce.
+  (B) *Waiver of application fee* — The Secretary shall waive under paragraph (1)(C) the application fee for the first human drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay application fees for all subsequent human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business.
 
-  (B) *Waiver of application fee* — The Secretary shall waive under paragraph (1)(D) the application fee for the first human drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
-
-    (i) application fees for all subsequent human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business; and
-
-    (ii) all supplement fees for all supplements to human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business.
-
-**(e) Effect of failure to pay fees** A human drug application or supplement submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid.
+**(e) Effect of failure to pay fees** A human drug application or supplement submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all such fees owed by such person have been paid.
 
 **(f) Limitations**
 
 (1) **In general** — Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 1997 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
-(2) **Authority** — If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for human drug applications and supplements, prescription drug establishments, and prescription drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+(2) **Authority** — If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for human drug applications and prescription drug program fees at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+
+(3) **Limitation** — Beginning on October 1, 2023, the authorities under [section 379g(7)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/7/C&num=0&edition=prelim) shall include only expenditures for leasing and necessary scientific equipment.
 
 **(g) Crediting and availability of fees**
 
@@ -20760,9 +21952,7 @@ Pub. L. 102–571, title I, § 108, Oct. 29, 1992, 106 Stat. 4500, directed Secr
 
   (C) *Provision for early payments* — Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
 
-(3) **Authorization of appropriations** — For each of the fiscal years 2013 through 2017, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under subsection (c) and paragraph (4) of this subsection.
-
-(4) **Offset** — If the sum of the cumulative amount of fees collected under this section for the fiscal years 2013 through 2015 and the amount of fees estimated to be collected under this section for fiscal year 2016 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2013 through 2016, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017.
+(3) **Authorization of appropriations** — For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under subsection (c).
 
 **(h) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
@@ -20772,9 +21962,9 @@ Pub. L. 102–571, title I, § 108, Oct. 29, 1992, 106 Stat. 4500, directed Secr
 
 **(k) Orphan drugs**
 
-(1) **Exemption** — A drug designated under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) for a rare disease or condition and approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) shall be exempt from product and establishment fees under this section, if the drug meets all of the following conditions:
+(1) **Exemption** — A drug designated under [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) for a rare disease or condition and approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or under [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) shall be exempt from prescription drug program fees under this section, if the drug meets all of the following conditions:
 
-  (A) The drug meets the public health requirements contained in this chapter as such requirements are applied to requests for waivers for product and establishment fees.
+  (A) The drug meets the public health requirements contained in this chapter as such requirements are applied to requests for waivers for prescription drug program fees.
 
   (B) The drug is owned or licensed and is marketed by a company that had less than $50,000,000 in gross worldwide revenue during the previous year.
 
@@ -20783,14 +21973,64 @@ Pub. L. 102–571, title I, § 108, Oct. 29, 1992, 106 Stat. 4500, directed Secr
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 105(a) of Pub. L. 112–144, see Termination Date note below.
+For termination of section by section 104(a) of Pub. L. 115–52, see Termination Date note below.
 
 #### References in Text
-[Section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), referred to in subsec. (a)(3)(B)(iii), was repealed by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
+[Section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), referred to in subsec. (a)(2)(B)(iii), was repealed by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
-The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (a)(3)(B)(iv), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (a)(2)(B)(iv), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+
+Section 101(b) of the Prescription Drug User Fee Amendments of 2017, referred to in subsec. (c)(2)(B)(ii)(III), is section 101(b) of Pub. L. 115–52, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–52, § 102(a)(1)(A), substituted “fiscal year 2018” for “fiscal year 2013” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 115–52, § 102(a)(1)(B), (C), struck out “and supplement” before “fee” in heading and struck out “or a supplement” and “or supplement” wherever appearing in text.
+
+Subsec. (a)(1)(A)(i). Pub. L. 115–52, § 102(a)(1)(D)(i), substituted “(c)(5)” for “(c)(4)”.
+
+Subsec. (a)(1)(A)(ii). Pub. L. 115–52, § 102(a)(1)(C), (D)(ii), substituted “A fee established under subsection (c)(5) for a human drug application for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are not required for approval.” for “A fee established under subsection (c)(4) for a human drug application for which clinical data with respect to safety or effectiveness are not required for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required.”
+
+Subsec. (a)(1)(C). Pub. L. 115–52, § 102(a)(1)(E), struck out “or supplement” after “application” in heading.
+
+Subsec. (a)(1)(F). Pub. L. 115–52, § 102(a)(1)(F), struck out “or indication” after “drug” in heading and “A supplement proposing to include a new indication for a rare disease or condition in a human drug application shall not be subject to a fee under subparagraph (A), if the drug has been designated pursuant to [section 360bb of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bb) as a drug for a rare disease or condition with regard to the indication proposed in such supplement.” in text.
+
+Subsec. (a)(2). Pub. L. 115–52, § 102(a)(1)(G)–(I), redesignated par. (3) as (2), substituted “Prescription drug program fee” for “Prescription drug product fee” in heading, and struck out former par. (2) which related to prescription drug establishment fee.
+
+Subsec. (a)(2)(A). Pub. L. 115–52, § 102(a)(1)(J), substituted “Except as provided in subparagraphs (B) and (C), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay the annual prescription drug program fee established for a fiscal year under subsection (c)(5) for each prescription drug product that is identified in such a human drug application approved as of October 1 of such fiscal year.” for “Except as provided in subparagraph (B), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay for each such prescription drug product the annual fee established under subsection (c)(4).”
+
+Subsec. (a)(2)(B). Pub. L. 115–52, § 102(a)(1)(K), inserted “for certain prescription drug products” after “Exception” in heading and substituted “A prescription drug program fee shall not be assessed for a prescription drug product” for “A prescription drug product shall not be assessed a fee” in introductory provisions.
+
+Subsec. (a)(2)(C). Pub. L. 115–52, § 102(a)(1)(L), added subpar. (C).
+
+Subsec. (a)(3). Pub. L. 115–52, § 102(a)(1)(H), redesignated par. (3) as (2).
+
+Subsec. (b). Pub. L. 115–52, § 102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to fee revenue amounts for fiscal years 2013 through 2017.
+
+Subsec. (c). Pub. L. 115–52, § 102(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to adjustment of revenues for inflation and changes in workload, final year adjustment, setting of annual fee, and limit on total amount of fees charged.
+
+Subsec. (d)(1)(C), (D). Pub. L. 115–52, § 102(d)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “the fees to be paid by such person will exceed the anticipated present and future costs incurred by the Secretary in conducting the process for the review of human drug applications for such person, or”.
+
+Subsec. (d)(3). Pub. L. 115–52, § 102(d)(2), (3), redesignated par. (4) as (3) and struck out former par. (3). Text read as follows: “In making the finding in paragraph (1)(C), the Secretary may use standard costs.”
+
+Subsec. (d)(3)(A). Pub. L. 115–52, § 102(d)(4)(A), substituted “paragraph (1)(C)” for “paragraph (1)(D)”.
+
+Subsec. (d)(3)(B). Pub. L. 115–52, § 102(d)(4), substituted “paragraph (1)(C)” for “paragraph (1)(D)”, struck out cl. (i) designation before “application fees”, substituted a period for “; and” after “qualify as a small business”, and struck out cl. (ii), which read as follows: “all supplement fees for all supplements to human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business.”
+
+Subsec. (d)(4). Pub. L. 115–52, § 102(d)(3), redesignated par. (4) as (3).
+
+Subsec. (e). Pub. L. 115–52, § 102(e), substituted “all such fees” for “all fees”.
+
+Subsec. (f)(2). Pub. L. 115–52, § 102(f), substituted “prescription drug program fees” for “supplements, prescription drug establishments, and prescription drug products”.
+
+Subsec. (f)(3). Pub. L. 115–52, § 905(b)(1), added par. (3).
+
+Subsec. (g)(3). Pub. L. 115–52, § 102(g)(1), substituted “2018 through 2022” for “2013 through 2017” and struck out “and paragraph (4) of this subsection” after “subsection (c)”.
+
+Subsec. (g)(4). Pub. L. 115–52, § 102(g)(2), struck out par. (4). Prior to amendment, text read as follows: “If the sum of the cumulative amount of fees collected under this section for the fiscal years 2013 through 2015 and the amount of fees estimated to be collected under this section for fiscal year 2016 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2013 through 2016, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017.”
+
+Subsec. (k)(1). Pub. L. 115–52, § 102(h), substituted “prescription drug program fees” for “product and establishment fees” in two places.
+
 2012—Subsec. (a). Pub. L. 112–144, § 103(1)(A), substituted “fiscal year 2013” for “fiscal year 2008” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 112–144, § 103(1)(B), substituted “(c)(4)” for “(c)(5)” in cls. (i) and (ii).
@@ -20993,6 +22233,9 @@ as adjusted to reflect increases in the total fee revenues made under subsection
 
 Subsecs. (i), (j). Pub. L. 105–115, § 103(g), added subsec. (i) and redesignated former subsec. (i) as (j).
 
+#### Effective Date of 2017 Amendment
+Amendment by section 102 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2017, see section 105 of Pub. L. 115–52, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2012, see section 106 of Pub. L. 112–144, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
@@ -21008,7 +22251,7 @@ Amendment by Pub. L. 107–188 effective Oct. 1, 2002, see section 508 of Pub. L
 Amendment by Pub. L. 105–115 effective Oct. 1, 1997, see section 106 of Pub. L. 105–115, set out as an Effective and Termination Dates of 1997 Amendment note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Termination Date
-Section to terminate Oct. 1, 2017, see section 105(a) of Pub. L. 112–144, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
+Section to terminate Oct. 1, 2022, see section 104(a) of Pub. L. 115–52, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Special Rule for Waivers and Refunds
 Pub. L. 105–115, title I, § 103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: “Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act ([42 U.S.C. 379h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section379h&num=0&edition=prelim)) prior to the date of enactment of this Act [Nov. 21, 1997] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 [see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379g](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g) et seq.] (as in effect on September 30, 1997). The term “person” in such Acts shall continue to include an affiliate thereof.”
@@ -21187,9 +22430,9 @@ Section effective Oct. 1, 2007, with fees under this subpart to be assessed for 
 ## § 379h–2. Reauthorization; reporting requirements
 **(a) Performance report**
 
-(1) **In general** — Beginning with fiscal year 2013, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning—
+(1) **In general** — Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning—
 
-  (A) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, including the status of the independent assessment described in such letters; and
+  (A) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, including the status of the independent assessment described in such letters; and
 
   (B) the progress of the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research in achieving the goals, and future plans for meeting the goals, including, for each review division—
 
@@ -21211,13 +22454,63 @@ Section effective Oct. 1, 2007, with fees under this subpart to be assessed for 
 
 (2) **Inclusion** — The report under this subsection for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort.
 
-**(b) Fiscal report** Beginning with fiscal year 2013, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+(3) **Real time reporting**
 
-**(c) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
+  (A) *In general* — Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual performance report under this subsection.
 
-**(d) Reauthorization**
+  (B) *Data* — The Secretary shall post the following data in accordance with subparagraph (A):
 
-(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of human drug applications for the first 5 fiscal years after fiscal year 2017, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+    (i) The number and titles of draft and final guidance on topics related to the process for the review of human drug applications, and whether such guidances were issued as required by statute or pursuant to a commitment under the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017.
+
+    (ii) The number and titles of public meetings held on topics related to the process for the review of human drug applications, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017.
+
+    (iii) The number of new drug applications and biological licensing applications approved.
+
+    (iv) The number of new drug applications and biological licensing applications filed.
+
+(4) **Rationale for PDUFA program changes** — Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
+
+  (A) data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+
+  (B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of human drugs, including identifying drivers of such changes; and
+
+  (C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+
+(5) **Analysis** — For each fiscal year, the Secretary shall include in the report under paragraph (1) an analysis of the following:
+
+  (A) The difference between the aggregate number of human drug applications filed and the aggregate number of approvals, accounting for—
+
+    (i) such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year;
+
+    (ii) the aggregate number of applications for each fiscal year that did not meet the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year.
+
+  (B) Relevant data to determine whether the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research have met performance enhancement goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year.
+
+  (C) The most common causes and trends of external or other circumstances affecting the ability of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, Office of Regulatory Affairs, and the Food and Drug Administration to meet the review time and performance enhancement goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017.
+
+**(b) Fiscal report** Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+
+**(c) Corrective action report** Beginning with fiscal year 2018, for each fiscal year for which fees are collected under this part, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
+
+(1) **Goals met** — For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(5), that each of the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the human drug application review process.
+
+(2) **Goals missed** — For any of the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+
+  (A) a detailed justification for such determination and a description, as applicable, of the types of circumstances and trends under which human drug applications that missed the review goal time were approved during the first cycle review, or application review goals were missed; and
+
+  (B) with respect to performance enhancement goals that were not achieved, a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such fiscal year.
+
+**(d) Enhanced communication**
+
+(1) **Communications with Congress** — Each fiscal year, as applicable and requested, representatives from the Centers with expertise in the review of human drugs shall meet with representatives from the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives to report on the contents described in the reports under this section.
+
+(2) **Participation in congressional hearing** — Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this part.
+
+**(e) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
+
+**(f) Reauthorization**
+
+(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of human drug applications for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
   (A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -21255,7 +22548,7 @@ Section effective Oct. 1, 2007, with fees under this subpart to be assessed for 
 
   (E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-(5) **Transmittal of recommendations** — Not later than January 15, 2017, the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+(5) **Transmittal of recommendations** — Not later than January 15, 2022, the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
 (6) **Minutes of negotiation meetings**
 
@@ -21266,23 +22559,48 @@ Section effective Oct. 1, 2007, with fees under this subpart to be assessed for 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 105(b) of Pub. L. 112–144, see Effective and Termination Dates note below.
+For termination of section by section 104(b) of Pub. L. 115–52, see Effective and Termination Dates note below.
 
 #### References in Text
-Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1)(A), is section 101(b) of Pub. L. 112–144, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
+Section 101(b) of the Prescription Drug User Fee Amendments of 2017, referred to in subsecs. (a) and (c), is section 101(b) of Pub. L. 115–52, which is set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–52, § 103(a)(1), substituted “2018” for “2013”.
+
+Subsec. (a)(1)(A). Pub. L. 115–52, § 103(1)(B), substituted “Prescription Drug User Fee Amendments of 2017” for “Prescription Drug User Fee Amendments of 2012”.
+
+Subsec. (a)(3), (4). Pub. L. 115–52, § 903(a), added pars. (3) and (4).
+
+Subsec. (a)(5). Pub. L. 115–52, § 904(a)(1), added par. (5).
+
+Subsec. (b). Pub. L. 115–52, § 103(2), substituted “2018” for “2013”.
+
+Subsec. (c). Pub. L. 115–52, § 904(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (e).
+
+Subsec. (d). Pub. L. 115–52, § 904(a)(2)(B), added subsec. (d). Former subsec. (d) redesignated (f).
+
+Pub. L. 115–52, § 103(3), substituted “2022” for “2017” in pars. (1) and (5).
+
+Subsecs. (e), (f). Pub. L. 115–52, § 904(a)(2)(A), redesignated subsecs. (c) and (d) as (e) and (f), respectively.
+
 2012—Subsec. (a). Pub. L. 112–144, § 104(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort.”
 
 Subsec. (b). Pub. L. 112–144, § 104(2), substituted “2013” for “2008”.
 
 Subsec. (d)(1), (5). Pub. L. 112–144, § 104(3), substituted “2017” for “2012”.
 
+#### Effective Date of 2017 Amendment
+Amendment by section 103 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2017, see section 105 of Pub. L. 115–52, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2012, see section 106 of Pub. L. 112–144, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Effective and Termination Dates
-Pub. L. 112–144, title I, § 105(b), July 9, 2012, 126 Stat. 1001, provided that: “Section 736B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379h–2](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h-2)) shall cease to be effective January 31, 2018.”
+Pub. L. 115–52, title I, § 104(b), Aug. 18, 2017, 131 Stat. 1012, provided that: “Section 736B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379h–2](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h-2)) shall cease to be effective January 31, 2023.”
+
+Pub. L. 112–144, title I, § 105(b), July 9, 2012, 126 Stat. 1001, which provided that section 736B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379h–2](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379h-2)) would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title I, § 104(c), Aug. 18, 2017, 131 Stat 1012.
+
+[Pub. L. 115–52, title I, § 104(c), Aug. 18, 2017, 131 Stat. 1012, provided that the repeal of section 105(b) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.]
 
 Pub. L. 110–85, title I, § 106(b), Sept. 27, 2007, 121 Stat. 842, which provided that the amendment made by section 105 of Pub. L. 110–85 (enacting this section) would cease to be effective Jan. 31, 2013, was repealed by Pub. L. 112–144, title I, § 105(c)(1), July 9, 2012, 126 Stat. 1001.
 
@@ -21327,7 +22645,9 @@ For purposes of this subpart:
 
 (7) The term “annual fee”, for periodic reporting concerning a class III device, means the annual fee associated with periodic reports required by a premarket application approval order.
 
-(8) The term “process for the review of device applications” means the following activities of the Secretary with respect to the review of premarket applications, premarket reports, supplements, and premarket notification submissions:
+(8) The term “de novo classification request” means a request made under [section 360c(f)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360c/f/2/A&num=0&edition=prelim) with respect to the classification of a device.
+
+(9) The term “process for the review of device applications” means the following activities of the Secretary with respect to the review of premarket applications, premarket reports, supplements, and premarket notification submissions:
 
   (A) The activities necessary for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
 
@@ -21351,7 +22671,7 @@ For purposes of this subpart:
 
   (K) Compiling, developing, and reviewing information on relevant devices to identify safety and effectiveness issues for devices subject to premarket applications, premarket reports, supplements, or premarket notification submissions.
 
-(9) The term “costs of resources allocated for the process for the review of device applications” means the expenses in connection with the process for the review of device applications for—
+(10) The term “costs of resources allocated for the process for the review of device applications” means the expenses in connection with the process for the review of device applications for—
 
   (A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees and to contracts with such contractors;
 
@@ -21359,26 +22679,36 @@ For purposes of this subpart:
 
   (C) leasing, maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, scientific equipment, and other necessary materials and supplies; and
 
-  (D) collecting fees and accounting for resources allocated for the review of premarket applications, premarket reports, supplements, and submissions.
+  (D) collecting fees and accounting for resources allocated for the review of premarket applications, premarket reports, supplements, submissions, and de novo classification requests.
 
-(10) The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by such Index for October 2011.
+(11) The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by such Index for October 2016.
 
-(11) The term “person” includes an affiliate thereof.
+(12) The term “person” includes an affiliate thereof.
 
-(12) The term “affiliate” means a business entity that has a relationship with a second business entity (whether domestic or international) if, directly or indirectly—
+(13) The term “affiliate” means a business entity that has a relationship with a second business entity (whether domestic or international) if, directly or indirectly—
 
   (A) one business entity controls, or has the power to control, the other business entity; or
 
   (B) a third party controls, or has power to control, both of the business entities.
 
-(13) The term “establishment subject to a registration fee” means an establishment that is registered (or is required to register) with the Secretary under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
+(14) The term “establishment subject to a registration fee” means an establishment that is registered (or is required to register) with the Secretary under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 207(a) of Pub. L. 112–144, see Effective and Termination Dates note below.
+For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.
 
 #### Amendments
+2017—Par. (8). Pub. L. 115–52, § 202(a)(2), added par. (8). Former par. (8) redesignated (9).
+
+Par. (9). Pub. L. 115–52, § 202(a)(1), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Par. (10). Pub. L. 115–52, § 202(a)(1), (3), redesignated par. (9) as (10) and substituted “submissions, and de novo classification requests” for “and submissions” in subpar. (D). Former par. (10) redesignated (11).
+
+Par. (11). Pub. L. 115–52, § 202(a)(1), (4), redesignated par. (10) as (11) and substituted “2016” for “2011”.
+
+Pars. (12) to (14). Pub. L. 115–52, § 202(a)(1), redesignated pars. (11) to (13) as (12) to (14), respectively.
+
 2016—Par. (5). Pub. L. 114–255 substituted “360e(d)(5)” for “360e(d)(6)”.
 
 2012—Par. (9). Pub. L. 112–144, § 202(1), struck out “incurred” after “expenses” in introductory provisions.
@@ -21409,6 +22739,9 @@ Par. (5)(J). Pub. L. 108–214, § 2(a)(1)(C), substituted “a premarket applic
 
 Par. (8). Pub. L. 108–214, § 2(a)(1)(D), substituted “The term ‘affiliate’ means a business entity that has a relationship with a second business entity (whether domestic or international)” for “The term ‘affiliate’ means a business entity that has a relationship with a second business entity”.
 
+#### Effective Date of 2017 Amendment
+Pub. L. 115–52, title II, § 209, Aug. 18, 2017, 131 Stat. 1020, provided that: “The amendments made by this title [see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] shall take effect on October 1, 2017, or the date of the enactment of this Act [Aug. 18, 2017], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379i](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i) et seq.] shall be assessed for all submissions listed in section 738(a)(2)(A) of such Act [[21 U.S.C. 379j(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim)] received on or after October 1, 2017, regardless of the date of the enactment of this Act.”
+
 #### Effective Date of 2012 Amendment
 Pub. L. 112–144, title II, § 206, July 9, 2012, 126 Stat. 1007, provided that: “The amendments made by this title [enacting [section 379d–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379d-3), amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section] shall take effect on October 1, 2012, or the date of the enactment of this Act [July 9, 2012], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] shall be assessed for all submissions listed in section 738(a)(2)(A) of such Act [[21 U.S.C. 379j(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim)] received on or after October 1, 2012, regardless of the date of the enactment of this Act.”
 
@@ -21418,7 +22751,11 @@ Pub. L. 110–85, title II, § 216, Sept. 27, 2007, 121 Stat. 852, provided that
 Pub. L. 110–85, title II, § 217, Sept. 27, 2007, 121 Stat. 852, which provided that the amendments by sections 211 to 217 of Pub. L. 110–85 (amending this section and [section 379j of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j)) would cease to be effective Oct. 1, 2012, and that [section 379j–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-1) would cease to be effective Jan. 31, 2013, was repealed by Pub. L. 112–144, title II, § 207(b)(1), July 9, 2012, 126 Stat. 1007.
 
 #### Effective and Termination Dates
-Pub. L. 112–144, title II, § 207(a), July 9, 2012, 126 Stat. 1007, provided that: “Sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 739i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section739i&num=0&edition=prelim) [379i]; 739j [379j]) shall cease to be effective October 1, 2017. Section 738A ([21 U.S.C. 739j–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section739j–1&num=0&edition=prelim) [379j–1]) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) shall cease to be effective January 31, 2018.”
+Pub. L. 115–52, title II, § 210(a), Aug. 18, 2017, 131 Stat. 1020, provided that: “Sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 739i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section739i&num=0&edition=prelim) [379i]; 739j [379j]) shall cease to be effective October 1, 2022.”
+
+Pub. L. 112–144, title II, § 207(a), July 9, 2012, 126 Stat. 1007, which provided that sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379i](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i); 379j) would cease to be effective Oct. 1, 2017, and that section 738A ([21 U.S.C. 379j–1](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-1)) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title II, § 210(c), Aug. 18, 2017, 131 Stat. 1020.
+
+[Pub. L. 115–52, title II, § 210(c), Aug. 18, 2017, 131 Stat. 1020, provided that the repeal of section 207(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.]
 
 Pub. L. 107–250, title I, § 106, Oct. 26, 2002, 116 Stat. 1602, provided that: “The amendments made by this title [enacting this subpart] shall take effect on the date of the enactment of this Act [Oct. 26, 2002], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment.”
 
@@ -21427,14 +22764,18 @@ Pub. L. 107–250, title I, § 107, Oct. 26, 2002, 116 Stat. 1602, which provide
 [Pub. L. 112–144, title II, § 207(c), July 9, 2012, 126 Stat. 1007, provided that the repeal of section 107 of Pub. L. 107–250, formerly set out above, is effective Sept. 30, 2007.]
 
 #### Savings Provision
+Pub. L. 115–52, title II, § 208, Aug. 18, 2017, 131 Stat. 1019, provided that: “Notwithstanding the amendments made by this title [see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379i](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i) et seq.), as in effect on the day before the date of the enactment of this title [Aug. 18, 2017], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act [[21 U.S.C. 379j(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim)] (as defined in such part as of such day) that on or after October 1, 2012, but before October 1, 2017, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018.”
+
 Pub. L. 112–144, title II, § 205, July 9, 2012, 126 Stat. 1007, provided that: “Notwithstanding the amendments made by this title [enacting [section 379d–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379d-3), amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379i](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i) et seq.), as in effect on the day before the date of the enactment of this title [July 9, 2012], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act [[21 U.S.C. 379j(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim)] (in effect as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2013.”
 
 Pub. L. 110–85, title II, § 214, Sept. 27, 2007, 121 Stat. 852, provided that: “Notwithstanding section 107 of the Medical Device User Fee and Modernization Act of 2002 (Public Law 107–250) [formerly set out as an Effective and Termination Dates note above], and notwithstanding the amendments made by this subtitle [subtitle A (§§ 211–217) of title II of Pub. L. 110–85, enacting [section 379j–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-1) and amending this section and [section 379j of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j)], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379i](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i) et seq.), as in effect on the day before the date of the enactment of this subtitle [Sept. 27, 2007], shall continue to be in effect with respect to premarket applications, premarket reports, premarket notification submissions, and supplements (as defined in such part as of such day) that on or after October 1, 2002, but before October 1, 2007, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2008.”
 
 #### Findings
+Pub. L. 115–52, title II, § 201(b), Aug. 18, 2017, 131 Stat. 1013, provided that: “The Congress finds that the fees authorized under the amendments made by this title [see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
+
 Pub. L. 112–144, title II, § 201(b), July 9, 2012, 126 Stat. 1002, provided that: “The Congress finds that the fees authorized under the amendments made by this title [enacting [section 379d–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379d-3), amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
-Pub. L. 110–85, title II, § 201(c), Sept. 27, 2007, 121 Stat. 842, provided that: “The Congress finds that the fees authorized under the amendments made by this title [enacting [section 379j–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-1) and amending this section and sections 333, 360, 360i, 360m, 374, and 379j of this title] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
+Pub. L. 110–85, title II, § 201(c), Sept. 27, 2007, 121 Stat. 842, provided that: “The Congress finds that the fees authorized under the amendments made by this title [enacting [section 379j–1 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-1) and amending this section and sections 333, 360, 360i, 360m, 374, and 379j of this title] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379i](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i) et seq.] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
 Pub. L. 107–250, title I, § 101, Oct. 26, 2002, 116 Stat. 1589, provided that: “The Congress finds that— “(1) prompt approval and clearance of safe and effective devices is critical to the improvement of the public health so that patients may enjoy the benefits of devices to diagnose, treat, and prevent disease; “(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of devices and the assurance of device safety and effectiveness so that statutorily mandated deadlines may be met; and “(3) the fees authorized by this title [enacting this subpart and provisions set out as notes under this section and [section 379j of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j)] will be dedicated to meeting the goals identified in the letters from the Secretary of Health and Human Services to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, as set forth in the Congressional Record.”
 
@@ -21452,11 +22793,11 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 ## § 379j. Authority to assess and use device fees
 **(a) Types of fees**
 
-(1) **In general** — Beginning in fiscal year 2013, the Secretary shall assess and collect fees in accordance with this section.
+(1) **In general** — Beginning in fiscal year 2018, the Secretary shall assess and collect fees in accordance with this section.
 
 (2) **Premarket application, premarket report, supplement, and submission fee, and annual fee for periodic reporting concerning a class III device**
 
-  (A) *In general* — Except as provided in subparagraph (B) and subsections (d), (e), and (f), each person who submits any of the following, on or after October 1, 2012, shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
+  (A) *In general* — Except as provided in subparagraph (B) and subsections (d) and (e), each person who submits any of the following, on or after October 1, 2017, shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
 
     (i) A premarket application.
 
@@ -21472,11 +22813,13 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
     (vii) For an efficacy supplement, a fee equal to the fee that applies under clause (i).
 
-    (viii) For a premarket notification submission, a fee equal to 2 percent of the fee that applies under clause (i).
+    (viii) For a premarket notification submission, a fee equal to 3.4 percent of the fee that applies under clause (i).
 
     (ix) For a request for classification information, a fee equal to 1.35 percent of the fee that applies under clause (i).
 
     (x) For periodic reporting concerning a class III device, an annual fee equal to 3.5 percent of the fee that applies under clause (i).
+
+    (xi) For a de novo classification request, a fee equal to 30 percent of the fee that applies under clause (i).
 
   (B) *Exceptions*
 
@@ -21490,7 +22833,7 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
     (v) *Pediatric conditions of use*
 
-      (I) *In general* — No fee shall be required under subparagraph (A) for a premarket application, premarket report, or premarket notification submission if the proposed conditions of use for the device involved are solely for a pediatric population. No fee shall be required under such subparagraph for a supplement if the sole purpose of the supplement is to propose conditions of use for a pediatric population.
+      (I) *In general* — No fee shall be required under subparagraph (A) for a premarket application, premarket report, premarket notification submission, or de novo classification request if the proposed conditions of use for the device involved are solely for a pediatric population. No fee shall be required under such subparagraph for a supplement if the sole purpose of the supplement is to propose conditions of use for a pediatric population.
 
       (II) *Subsequent proposal of adult conditions of use* — In the case of a person who submits a premarket application or premarket report for which, under subclause (I), a fee under subparagraph (A) is not required, any supplement to such application that proposes conditions of use for any adult population is subject to the fee that applies under such subparagraph for a premarket application.
 
@@ -21512,7 +22855,7 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
 (3) **Annual establishment registration fee**
 
-  (A) *In general* — Except as provided in subparagraph (B) and subsection (f), each establishment subject to a registration fee shall be subject to a fee for each initial or annual registration under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) beginning with its registration for fiscal year 2008.
+  (A) *In general* — Except as provided in subparagraph (B), each establishment subject to a registration fee shall be subject to a fee for each initial or annual registration under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) beginning with its registration for fiscal year 2008.
 
   (B) *Exception* — No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act 11 See References in Text note below. [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
 
@@ -21522,43 +22865,39 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
     (ii) the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section.
 
-**(b) Fee amounts**
+**(b) Fee Amounts**
 
-(1) **In general** — Subject to subsections (c), (d), (e), (f), and (i), for each of fiscal years 2013 through 2017, fees under subsection (a) shall be derived from the base fee amounts specified in paragraph (2), to generate the total revenue amounts specified in paragraph (3).
+(1) **In general** — Subject to subsections (c), (d), (e), and (h), for each of fiscal years 2018 through 2022, fees under subsection (a) shall be derived from the base fee amounts specified in paragraph (2), to generate the total revenue amounts specified in paragraph (3).
 
-(2) **Base fee amounts specified** — For purposes of paragraph (1), the base fee amounts specified in this paragraph are as follows: Fee TypeFiscal Year 2013Fiscal Year 2014Fiscal Year 2015Fiscal Year 2016Fiscal Year 2017 Premarket Application$248,000$252,960$258,019$263,180$268,443 Establishment Registration$2,575$3,200$3,750$3,872$3,872
+(2) **Base fee amounts specified** — For purposes of paragraph (1), the base fee amounts specified in this paragraph are as follows: Fee TypeFiscal Year 2018Fiscal Year 2019Fiscal Year 2020Fiscal Year 2021Fiscal Year 2022 Premarket Application$294,000$300,000$310,000$328,000$329,000 Establishment Registration$4,375$4,548$4,760$4,975$4,978
 
 (3) **Total revenue amounts specified** — For purposes of paragraph (1), the total revenue amounts specified in this paragraph are as follows:
 
-  (A) $97,722,301 for fiscal year 2013.
+  (A) $183,280,756 for fiscal year 2018.
 
-  (B) $112,580,497 for fiscal year 2014.
+  (B) $190,654,875 for fiscal year 2019.
 
-  (C) $125,767,107 for fiscal year 2015.
+  (C) $200,132,014 for fiscal year 2020.
 
-  (D) $129,339,949 for fiscal year 2016.
+  (D) $211,748,789 for fiscal year 2021.
 
-  (E) $130,184,348 for fiscal year 2017.
+  (E) $213,687,660 for fiscal year 2022.
 
 **(c) Annual fee setting; adjustments**
 
-(1) **In general** — The Secretary shall, 60 days before the start of each fiscal year after September 30, 2012, establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale for any adjustments to such fees, in the Federal Register.
+(1) **In general** — The Secretary shall, 60 days before the start of each fiscal year after September 30, 2017, establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale for any adjustments to such fees, in the Federal Register.
 
 (2) **Inflation adjustments**
 
-  (A) *Adjustment to total revenue amounts* — For fiscal year 2014 and each subsequent fiscal year, the Secretary shall adjust the total revenue amount specified in subsection (b)(3) for such fiscal year by multiplying such amount by the applicable inflation adjustment under subparagraph (B) for such year.
+  (A) *Adjustment to total revenue amounts* — For fiscal year 2018 and each subsequent fiscal year, the Secretary shall adjust the total revenue amount specified in subsection (b)(3) for such fiscal year by multiplying such amount by the applicable inflation adjustment under subparagraph (B) for such year.
 
-  (B) *Applicable inflation adjustment to total revenue amounts* — The applicable inflation adjustment for a fiscal year is—
+  (B) *Applicable inflation adjustment* — The applicable inflation adjustment for fiscal year 2018 and each subsequent fiscal year is the product of—
 
-    (i) for fiscal year 2014, the base inflation adjustment under subparagraph (C) for such fiscal year; and
+    (i) the base inflation adjustment under subparagraph (C) for such fiscal year; and
 
-    (ii) for fiscal year 2015 and each subsequent fiscal year, the product of—
+    (ii) the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2016.
 
-      (I) the base inflation adjustment under subparagraph (C) for such fiscal year; and
-
-      (II) the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2014.
-
-  (C) *Base inflation adjustment to total revenue amounts*
+  (C) *Base inflation adjustment*
 
     (i) *In general* — Subject to further adjustment under clause (ii), the base inflation adjustment for a fiscal year is the sum of one plus—
 
@@ -21572,9 +22911,13 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
       (II) is greater than 1.04, such adjustment shall be considered to be equal to 1.04.
 
-  (D) *Adjustment to base fee amounts* — For each of fiscal years 2014 through 2017, the base fee amounts specified in subsection (b)(2) shall be adjusted as needed, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A).
+  (D) *Adjustment to base fee amounts* — For each of fiscal years 2018 through 2022, the Secretary shall—
 
-(3) **Volume-based adjustments to establishment registration base fees** — For each of fiscal years 2014 through 2017, after the base fee amounts specified in subsection (b)(2) are adjusted under paragraph (2)(D), the base establishment registration fee amounts specified in such subsection shall be further adjusted, as the Secretary estimates is necessary in order for total fee collections for such fiscal year to generate the total revenue amounts, as adjusted under paragraph (2).
+    (i) adjust the base fee amounts specified in subsection (b)(2) for such fiscal year by multiplying such amounts by the applicable inflation adjustment under subparagraph (B) for such year; and
+
+    (ii) if the Secretary determines necessary, increase (in addition to the adjustment under clause (i)) such base fee amounts, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A).
+
+(3) **Volume-based adjustments to establishment registration base fees** — For each of fiscal years 2018 through 2022, after the base fee amounts specified in subsection (b)(2) are adjusted under paragraph (2)(D), the base establishment registration fee amounts specified in such subsection shall be increased, as the Secretary estimates is necessary in order for total fee collections for such fiscal year to generate the total revenue amounts, as adjusted under paragraph (2).
 
 (4) **Limit** — The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of device applications.
 
@@ -21586,7 +22929,7 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
 **(d) Small businesses; fee waiver and fee reduction regarding premarket approval fees**
 
-(1) **In general** — The Secretary shall grant a waiver of the fee required under subsection (a) for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term “small business” means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
+(1) **In general** — The Secretary shall grant a waiver of the fee required under subsection (a) for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term “small business” means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (vii) and clauses (ix), (x), and (xi) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 (2) **Rules relating to premarket approval fees**
 
@@ -21602,7 +22945,7 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
   (C) *Reduced fees* — Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) may be paid at a reduced rate of—
 
-    (i) 25 percent of the fee established under such subsection for a premarket application, a premarket report, a supplement, or periodic reporting concerning a class III device; and
+    (i) 25 percent of the fee established under such subsection for a premarket application, a premarket report, a supplement, periodic reporting concerning a class III device, or a de novo classification request; and
 
     (ii) 50 percent of the fee established under such subsection for a 30-day notice or a request for classification information.
 
@@ -21624,35 +22967,29 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
     (iii) *Firms not submitting tax returns to the United States Internal Revenue Service* — In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant’s or affiliate’s gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant’s firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
-  (C) *Reduced fees* — For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 50 percent of the fee that applies under subsection (a)(2)(A)(viii), and as established under subsection (c)(1).
+  (C) *Reduced fees* — For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 25 percent of the fee that applies under subsection (a)(2)(A)(viii), and as established under subsection (c)(1).
 
   (D) *Request for reduction* — An applicant seeking a fee reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a). The decision of the Secretary regarding whether an entity qualifies for such a reduction is not reviewable.
 
-**(f) Fee waiver or reduction**
+**(f) Effect of failure to pay fees**
 
-(1) **In general** — The Secretary may, at the Secretary’s sole discretion, grant a waiver or reduction of fees under subsection (a)(2) or (a)(3) if the Secretary finds that such waiver or reduction is in the interest of public health.
-
-(2) **Limitation** — The sum of all fee waivers or reductions granted by the Secretary in any fiscal year under paragraph (1) shall not exceed 2 percent of the total fee revenue amounts established for such year under subsection (c).
-
-(3) **Duration** — The authority provided by this subsection terminates October 1, 2017.
-
-**(g) Effect of failure to pay fees**
-
-(1) **No acceptance of submissions** — A premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device submitted by a person subject to fees under subsections (a)(2) and (a)(3) shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.
+(1) **No acceptance of submissions** — A premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, periodic reporting concerning a class III device, or de novo classification request submitted by a person subject to fees under subsections (a)(2) and (a)(3) shall be considered incomplete and shall not be accepted by the Secretary until all such fees owed by such person have been paid.
 
 (2) **No registration** — Registration information submitted under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) by an establishment subject to a registration fee shall be considered incomplete and shall not be accepted by the Secretary until the registration fee under subsection (a)(3) owed for the establishment has been paid. Until the fee is paid and the registration is complete, the establishment is deemed to have failed to register in accordance with [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360).
 
-**(h) Conditions**
+**(g) Conditions**
 
 (1) **Performance goals; termination of program** — With respect to the amount that, under the salaries and expenses account of the Food and Drug Administration, is appropriated for a fiscal year for devices and radiological products, fees may not be assessed under subsection (a) for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if—
 
-  (A) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $280,587,000 multiplied by the adjustment factor applicable to such fiscal year; or
+  (A) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $320,825,000 multiplied by the adjustment factor applicable to such fiscal year; or
 
   (B) fees were not assessed under subsection (a) for the previous fiscal year.
 
 (2) **Authority** — If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
-**(i) Crediting and availability of fees**
+(3) **Limitation** — Beginning on October 1, 2023, the authorities under [section 379i(9)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379i/9/C&num=0&edition=prelim) shall include only leasing and necessary scientific equipment.
+
+**(h) Crediting and availability of fees**
 
 (1) **In general** — Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
 
@@ -21680,25 +23017,83 @@ Pub. L. 107–250, title I, § 105, Oct. 26, 2002, 116 Stat. 1601, provided that
 
   (C) *Provision for early payments* — Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
 
-(3) **Authorizations of appropriations** — For each of the fiscal years 2013 through 2017, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount specified under subsection (b)(3) for the fiscal year, as adjusted under subsection (c) and, for fiscal year 2017 only, as further adjusted under paragraph (4).
+(3) **Authorizations of appropriations** — For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount specified under subsection (b)(3) for the fiscal year, as adjusted under subsection (c).
 
-(4) **Offset** — If the cumulative amount of fees collected during fiscal years 2013, 2014, and 2015, added to the amount estimated to be collected for fiscal year 2016, which estimate shall be based upon the amount of fees received by the Secretary through June 30, 2016, exceeds the cumulative amount appropriated pursuant to paragraph (3) for these four fiscal years, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017.
+**(i) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
-**(j) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+**(j) Written requests for refunds** To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
 
-**(k) Written requests for refunds** To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
-
-**(l) Construction** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
+**(k) Construction** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 207(a) of Pub. L. 112–144, see Effective and Termination Dates note below.
+For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.
 
 #### References in Text
 The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–52, § 203(a)(1), substituted “fiscal year 2018” for “fiscal year 2013”.
+
+Subsec. (a)(2)(A). Pub. L. 115–52, § 203(f)(2)(B)(ii), substituted “(d) and (e)” for “(d), (e), and (f)” in introductory provisions.
+
+Pub. L. 115–52, § 203(a)(2)(A)(i), substituted “October 1, 2017” for “October 1, 2012” in introductory provisions.
+
+Subsec. (a)(2)(A)(viii). Pub. L. 115–52, § 203(a)(2)(A)(ii), substituted “3.4 percent” for “2 percent”.
+
+Subsec. (a)(2)(A)(xi). Pub. L. 115–52, § 203(a)(2)(A)(iii), added cl. (xi).
+
+Subsec. (a)(2)(B)(v)(I). Pub. L. 115–52, § 203(a)(2)(B), substituted “premarket notification submission, or de novo classification request” for “or premarket notification submission”.
+
+Subsec. (a)(3)(A). Pub. L. 115–52, § 203(f)(2)(B)(iii), struck out “and subsection (f)” after “subparagraph (B)”.
+
+Subsec. (b). Pub. L. 115–52, § 203(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) listed fee amounts for fiscal years 2013 to 2017.
+
+Subsec. (c)(1). Pub. L. 115–52, § 203(c)(1), substituted “2017” for “2012”.
+
+Subsec. (c)(2)(A). Pub. L. 115–52, § 203(c)(2)(A), substituted “2018” for “2014”.
+
+Subsec. (c)(2)(B). Pub. L. 115–52, § 203(c)(2)(B), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The applicable inflation adjustment for a fiscal year is—
+
+“(i) for fiscal year 2014, the base inflation adjustment under subparagraph (C) for such fiscal year; and
+
+“(ii) for fiscal year 2015 and each subsequent fiscal year, the product of—
+
+“(I) the base inflation adjustment under subparagraph (C) for such fiscal year; and
+
+“(II) the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2014.”
+
+Subsec. (c)(2)(C). Pub. L. 115–52, § 203(c)(2)(C), struck out “to total revenue amounts” after “adjustment” in heading.
+
+Subsec. (c)(2)(D). Pub. L. 115–52, § 203(c)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: “For each of fiscal years 2014 through 2017, the base fee amounts specified in subsection (b)(2) shall be adjusted as needed, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A).”
+
+Subsec. (c)(3). Pub. L. 115–52, § 203(c)(3), substituted “2018 through 2022” for “2014 through 2017” and “increased” for “further adjusted”.
+
+Subsec. (d)(1). Pub. L. 115–52, § 203(d)(1), substituted “specified in clauses (i) through (vii) and clauses (ix), (x), and (xi)” for “specified in clauses (i) through (v) and clauses (vii), (ix), and (x)”.
+
+Subsec. (d)(2)(C)(i). Pub. L. 115–52, § 203(d)(2), substituted “supplement,” for “supplement, or” and inserted “, or a de novo classification request” after “class III device”.
+
+Subsec. (e)(2)(C). Pub. L. 115–52, § 203(e), substituted “25 percent” for “50 percent”.
+
+Subsec. (f). Pub. L. 115–52, § 203(f)(1), (2)(B)(i), redesignated subsec. (g) as (f) and struck out former subsec. (f) which authorized the Secretary to grant waivers or reductions of fees under subsec. (a)(2) or (3) until Oct. 1, 2017.
+
+Subsec. (f)(1). Pub. L. 115–52, § 203(g), substituted “periodic reporting concerning a class III device, or de novo classification request” for “or periodic reporting concerning a class III device” and “all such fees” for “all fees”.
+
+Subsec. (g). Pub. L. 115–52, § 203(f)(2)(B)(i), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+Subsec. (g)(1)(A). Pub. L. 115–52, § 203(h), substituted “$320,825,000” for “$280,587,000”.
+
+Subsec. (h). Pub. L. 115–52, § 203(f)(2)(B)(i), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+
+Subsec. (h)(3). Pub. L. 115–52, § 203(i)(1), substituted “2018 through 2022” for “2013 through 2017” and “subsection (c).” for “subsection (c) and, for fiscal year 2017 only, as further adjusted under paragraph (4).”
+
+Pub. L. 115–52, § 905(b)(2), added par. (3), effective Aug. 18, 2017. Subsec. (h) subsequently redesignated (g) effective Oct. 1, 2017, by Pub. L. 115–52, § 203(f)(2)(B)(i). See Amendment note above.
+
+Subsec. (h)(4). Pub. L. 115–52, § 203(i)(2), struck out par. (4). Text read as follows: “If the cumulative amount of fees collected during fiscal years 2013, 2014, and 2015, added to the amount estimated to be collected for fiscal year 2016, which estimate shall be based upon the amount of fees received by the Secretary through June 30, 2016, exceeds the cumulative amount appropriated pursuant to paragraph (3) for these four fiscal years, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017.”
+
+Subsecs. (i) to (l). Pub. L. 115–52, § 203(f)(2)(B)(i), redesignated subsecs. (j) to (l) as (i) to (k), respectively. Former subsec. (i) redesignated (h).
+
 2012—Subsec. (a)(1). Pub. L. 112–144, § 203(a)(1), substituted “fiscal year 2013” for “fiscal year 2008”.
 
 Subsec. (a)(2)(A). Pub. L. 112–144, § 203(a)(2)(A), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)”, “October 1, 2012” for “October 1, 2002”, and “subsection (c)” for “subsection (c)(1)” in introductory provisions.
@@ -21875,6 +23270,9 @@ Subsec. (h)(2)(B). Pub. L. 108–214, § 2(a)(2)(E), designated existing provisi
 
 Subsec. (j). Pub. L. 108–214, § 2(d)(2)(B)(iv), substituted “subsection (a)(2)(D)” for “subsection (a)(1)(D)”.
 
+#### Effective Date of 2017 Amendment
+Amendment by section 203 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all submissions listed in subsec. (a)(2)(A) of this section received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for all submissions listed in subsection (a)(2)(A) of this section received on or after Oct. 1, 2012, see section 206 of Pub. L. 112–144, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
@@ -21882,7 +23280,7 @@ Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subp
 Amendment by Pub. L. 110–85 effective Oct. 1, 2007, except for certain premarket fees under this subpart, see section 216 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
 #### Effective and Termination Dates
-Section ceases to be effective Oct. 1, 2017, see section 207(a) of Pub. L. 112–144, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
+Section ceases to be effective Oct. 1, 2022, see section 210(a) of Pub. L. 115–52, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
 Section effective Oct. 26, 2002, except for certain premarket fees, see section 106 of Pub. L. 107–250, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
@@ -21896,19 +23294,79 @@ Pub. L. 107–250, title I, § 102(b), Oct. 26, 2002, 116 Stat. 1600, as amended
 
 (1) **Performance report**
 
-  (A) *In general* — Beginning with fiscal year 2013, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives annual reports concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(b) of the Medical Device User Fee Amendments of 2012 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+  (A) *In general*
 
-  (B) *Publication* — With regard to information to be reported by the Food and Drug Administration to industry on a quarterly and annual basis pursuant to the letters described in section 201(b) of the Medical Device User Fee Amendments Act of 2012, the Secretary shall make such information publicly available on the Internet Web site of the Food and Drug Administration not later than 60 days after the end of each quarter or 120 days after the end of each fiscal year, respectively, to which such information applies. This information shall include the status of the independent assessment identified in the letters described in such section 201(b).
+    (i) *General requirements* — Beginning with fiscal year 2018, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives annual reports concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+
+    (ii) *Additional information* — Beginning with fiscal year 2018, the annual report under this subparagraph shall include the progress of the Center for Devices and Radiological Health in achieving the goals, and future plans for meeting the goals, including—
+
+      (I) the number of premarket applications filed under [section 360e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e) per fiscal year for each review division;
+
+      (II) the number of reports submitted under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim) per fiscal year for each review division; and
+
+      (III) the number of expedited development and priority review designations under section 360e–3 11 See References in Text note below. of this title per fiscal year.
+
+    (iii) *Real time reporting*
+
+      (I) *In general* — Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subclause (II) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual report under this subparagraph.
+
+      (II) *Data* — The Secretary shall post the following data in accordance with subclause (I):
+
+        (aa) The number and titles of draft and final guidance on topics related to the process for the review of devices, and whether such guidances were issued as required by statute or pursuant to the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017; and
+
+        (bb) The number and titles of public meetings held on topics related to the process for the review of devices, and if such meetings were required by statute or pursuant to a commitment under the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017.
+
+    (iv) *22 So in original. Two cls. (iv) have been enacted. Rationale for MDUFA program changes* — Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
+
+      (I) data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+
+      (II) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of devices, including identifying drivers of such changes; and
+
+      (III) for each of the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+
+    (iv) *2 Analysis* — For each fiscal year, the Secretary shall include in the report under clause (i) an analysis of the following:
+
+      (I) The difference between the aggregate number of premarket applications filed under [section 360e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e) and aggregate reports submitted under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim) and the aggregate number of major deficiency letters, not approvable letters, and denials for such applications issued by the agency, accounting for—
+
+        (aa) the number of applications filed and reports submitted during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
+
+        (bb) the aggregate number of applications for each fiscal year that did not meet the goals as identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 for the applicable fiscal year.
+
+      (II) Relevant data to determine whether the Center for Devices and Radiological Health has met performance enhancement goals identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 for the applicable fiscal year.
+
+      (III) The most common causes and trends for external or other circumstances affecting the ability of the Center for Devices and Radiological Health, the Office of Regulatory Affairs, or the Food and Drug Administration to meet review time and performance enhancement goals identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017.
+
+  (B) *Publication* — With regard to information to be reported by the Food and Drug Administration to industry on a quarterly and annual basis pursuant to the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017, the Secretary shall make such information publicly available on the Internet Web site of the Food and Drug Administration not later than 60 days after the end of each quarter or 120 days after the end of each fiscal year, respectively, to which such information applies. This information shall include the status of the independent assessment identified in the letters described in such section 201(b).
 
   (C) *Updates* — The Secretary shall include in each report under subparagraph (A) information on all previous cohorts for which the Secretary has not given a complete response on all device premarket applications and reports, supplements, and premarket notifications in the cohort.
 
-(2) **Fiscal report** — For fiscal years 2013 through 2017, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
+(2) **Corrective action report** — Beginning with fiscal year 2018, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
 
-(3) **Public availability** — The Secretary shall make the reports required under paragraphs (1) and (2) available to the public on the Internet Web site of the Food and Drug Administration.
+  (A) *Goals met* — For each fiscal year, if the Secretary determines, based on the analysis under paragraph (1)(A)(iv), that each of the goals identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the medical device application review process.
+
+  (B) *Goals missed* — For each of the goals identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+
+    (i) a justification for such determination;
+
+    (ii) a description of the types of circumstances, in the aggregate, under which applications or reports submitted under [section 360e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e) or notifications submitted under [section 360(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/k&num=0&edition=prelim) missed the review goal times but were approved during the first cycle review, as applicable;
+
+    (iii) a summary and any trends with regard to the circumstances for which a review goal was missed; and
+
+    (iv) the performance enhancement goals that were not achieved during the previous fiscal year and a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such 33 So in original. fiscal year.
+
+(3) **Enhanced communication**
+
+  (A) *Communications with Congress* — Each fiscal year, as applicable and requested, representatives from the Centers with expertise in the review of devices shall meet with representatives from the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives to report on the contents described in the reports under this section.
+
+  (B) *Participation in congressional hearing* — Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+
+(4) **Fiscal report** — For fiscal years 2018 through 2022, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
+
+(5) **Public availability** — The Secretary shall make the reports required under paragraphs (1) and (2) available to the public on the Internet Web site of the Food and Drug Administration.
 
 **(b) Reauthorization**
 
-(1) **Consultation** — In developing recommendations to present to Congress with respect to the goals, and plans for meeting the goals, for the process for the review of device applications for the first 5 fiscal years after fiscal year 2017, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+(1) **Consultation** — In developing recommendations to present to Congress with respect to the goals, and plans for meeting the goals, for the process for the review of device applications for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
   (A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -21946,7 +23404,7 @@ Pub. L. 107–250, title I, § 102(b), Oct. 26, 2002, 116 Stat. 1600, as amended
 
   (E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-(5) **Transmittal of recommendations** — Not later than January 15, 2017, the Secretary shall transmit to Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+(5) **Transmittal of recommendations** — Not later than January 15, 2022, the Secretary shall transmit to Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
 (6) **Minutes of negotiation meetings**
 
@@ -21957,12 +23415,34 @@ Pub. L. 107–250, title I, § 102(b), Oct. 26, 2002, 116 Stat. 1600, as amended
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 207(a) of Pub. L. 112–144, see Effective and Termination Dates note below.
+For termination of section by section 210(b) of Pub. L. 115–52, see Effective and Termination Dates note below.
 
 #### References in Text
-Section 201(b) of the Medical Device User Fee Amendments of 2012, referred to in subsec. (a)(1)(A), (B), is section 201(b) of Pub. L. 112–144, which is set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
+Section 201(b) of the Medical Device User Fee Amendments of 2017, referred to in subsec. (a)(1)(A), (B), (2), is section 201(b) of Pub. L. 115–52, which is set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
+
+[Section 360e–3 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360e-3), referred to in subsec. (a)(1)(A)(ii)(III), was in the original a reference to section 515C of act June 25, 1938, which was renumbered section 515B by Pub. L. 115–52, title IX, § 901(f)(2), Aug. 18, 2017, 131 Stat. 1077.
 
 #### Amendments
+2017—Subsec. (a)(1)(A). Pub. L. 115–52, § 903(b), designated existing provisions as cl. (i), inserted heading, and added cls. (ii), (iii), and (iv) related to rationale for MDUFA program changes.
+
+Subsec. (a)(1)(A)(i). Pub. L. 115–52, § 204(a)(1)(A), substituted “2018” for “2013” and “the Medical Device User Fee Amendments of 2017” for “the Medical Device User Fee Amendments of 2012”.
+
+Subsec. (a)(1)(A)(iv). Pub. L. 115–52, § 904(b)(1), added cl. (iv) relating to analysis to be included in report.
+
+Subsec. (a)(1)(B). Pub. L. 115–52, § 204(a)(1)(B), substituted “the Medical Device User Fee Amendments of 2017” for “the Medical Device User Fee Amendments Act of 2012”.
+
+Subsec. (a)(2), (3). Pub. L. 115–52, § 904(b)(2)(B), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
+
+Subsec. (a)(4). Pub. L. 115–52, § 904(b)(2)(A), redesignated par. (2) as (4).
+
+Pub. L. 115–52, § 204(a)(2), which directed amendment of par. (2), effective Oct. 1, 2017, by substituting “2018 through 2022” for “2013 through 2017”, was executed by making the substitution in par. (4) to reflect the probable intent of Congress and the redesignation of par. (2) as (4), effective Aug. 18, 2017, by Pub. L. 115–52, § 904(b)(2)(A). See Amendment note above.
+
+Subsec. (a)(5). Pub. L. 115–52, § 904(b)(2)(A), redesignated par. (3) as (5).
+
+Subsec. (b)(1). Pub. L. 115–52, § 204(b)(1), substituted “2022” for “2017” in introductory provisions.
+
+Subsec. (b)(5). Pub. L. 115–52, § 204(b)(2), substituted “2022” for “2017”.
+
 2012—Subsec. (a)(1). Pub. L. 112–144, § 204(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “For fiscal years 2008 through 2012, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all device premarket applications and reports, supplements, and premarket notifications in the cohort.”
 
 Subsec. (a)(2). Pub. L. 112–144, § 204(b)(2), substituted “2013 through 2017” for “2008 through 2012”.
@@ -21971,11 +23451,14 @@ Subsec. (b)(1). Pub. L. 112–144, § 204(a)(1), substituted “2017” for “2
 
 Subsec. (b)(5). Pub. L. 112–144, § 204(a)(2), substituted “2017” for “2012”.
 
+#### Effective Date of 2017 Amendment
+Amendment by section 204 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all submissions listed in [section 379j(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim) received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for all submissions listed in [section 379j(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim) received on or after Oct. 1, 2012, see section 206 of Pub. L. 112–144, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
 #### Effective and Termination Dates
-Section ceases to be effective Jan. 31, 2018, see section 207(a) of Pub. L. 112–144, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
+Pub. L. 115–52, title II, § 210(b), Aug. 18, 2017, 131 Stat. 1020, provided that: “Section 738A ([21 U.S.C. 739j–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section739j–1&num=0&edition=prelim) [379j–1]) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) shall cease to be effective January 31, 2023.”
 
 Section effective Oct. 1, 2007, except for certain premarket fees under this subpart, see section 216 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
 
@@ -21985,7 +23468,15 @@ Section effective Oct. 1, 2007, except for certain premarket fees under this sub
 
 For purposes of this subpart:
 
-(1) The term “animal drug application” means an application for approval of any new animal drug submitted under [section 360b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/1&num=0&edition=prelim). Such term does not include either a new animal drug application submitted under [section 360b(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/2&num=0&edition=prelim) or a supplemental animal drug application.
+(1)
+
+  (A) The term “animal drug application” means—
+
+    (i) an application for approval of any new animal drug submitted under [section 360b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/1&num=0&edition=prelim); or
+
+    (ii) an application for conditional approval of a new animal drug submitted under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc).
+
+  (B) Such term does not include either a new animal drug application submitted under [section 360b(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/2&num=0&edition=prelim) or a supplemental animal drug application.
 
 (2) The term “supplemental animal drug application” means—
 
@@ -22025,6 +23516,8 @@ For purposes of this subpart:
 
   (H) Review of advertising and labeling prior to approval of an animal drug application or supplemental animal drug application, but not after such application has been approved.
 
+  (I) The activities necessary for implementation of the United States and European Union Good Manufacturing Practice Mutual Inspection Agreement with respect to animal drug products subject to review, including implementation activities prior to and following product approval.
+
 (9) The term “costs of resources allocated for the process for the review of animal drug applications” means the expenses in connection with the process for the review of animal drug applications for—
 
   (A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific animal drug applications, supplemental animal drug applications, or investigational animal drug submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
@@ -22044,6 +23537,10 @@ For purposes of this subpart:
 ### Statutory Notes
 
 #### Amendments
+2018—Par. (1). Pub. L. 115–234, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘animal drug application’ means an application for approval of any new animal drug submitted under [section 360b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/1&num=0&edition=prelim). Such term does not include either a new animal drug application submitted under [section 360b(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/2&num=0&edition=prelim) or a supplemental animal drug application.”
+
+Par. (8)(I). Pub. L. 115–234, § 102(2), added subpar. (I).
+
 2013—Pub. L. 113–14 amended section generally. Prior to amendment, section consisted of pars. (1) to (12) defining similar terms for this subpart.
 
 2008—Par. (6). Pub. L. 110–316, § 102(1), substituted “that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary” for “, except for an approved application for which all subject products have been removed from listing under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360)”.
@@ -22058,6 +23555,9 @@ Pars. (11), (12). Pub. L. 110–316, § 102(4), (5), added par. (11) and redesig
 
 Par. (11). Pub. L. 110–85, § 109(b), substituted “379g(11)” for “379g(9)”.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–234, title I, § 106, Aug. 14, 2018, 132 Stat. 2432, provided that: “The amendments made by this title [see section 101(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] shall take effect on October 1, 2018, or the date of the enactment of this Act [Aug. 14, 2018], whichever is later, except that fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.], as amended by this title, shall be assessed for animal drug applications and supplemental animal drug applications received on or after October 1, 2018, regardless of the date of the enactment of this Act.”
+
 #### Effective Date of 2013 Amendment
 Pub. L. 113–14, title I, § 106, June 13, 2013, 127 Stat. 464, provided that: “The amendments made by this title [amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section] shall take effect on October 1, 2013, or the date of enactment of this Act [June 13, 2013], whichever is later, except that fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.], as amended by this title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after October 1, 2013, regardless of the date of the enactment of this Act.”
 
@@ -22070,16 +23570,18 @@ Pub. L. 110–316, title I, § 108, Aug. 14, 2008, 122 Stat. 3515, which provide
 Amendment by Pub. L. 110–85 effective Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Termination Date
-Pub. L. 108–130, § 5, Nov. 18, 2003, 117 Stat. 1371, which provided that the amendments made by section 3 of Pub. L. 108–130 (enacting this subpart) would not be in effect after Oct. 1, 2008, and that section 4 of Pub. L. 108–130 (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 2008, was repealed by Pub. L. 113–14, title I, § 107(d), June 13, 2013, 127 Stat. 464.
-
-[Pub. L. 113–14, title I, § 107(d), June 13, 2013, 127 Stat. 464, provided that the repeal of section 5 of Pub. L. 108–130, formerly set out above, is effective Nov. 18, 2003.]
+Pub. L. 108–130, § 5, Nov. 18, 2003, 117 Stat. 1371, which provided that the amendments made by section 3 of Pub. L. 108–130 (enacting this subpart) would not be in effect after Oct. 1, 2008, and that section 4 of Pub. L. 108–130 (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 2008, was repealed by Pub. L. 113–14, title I, § 107(d), June 13, 2013, 127 Stat. 464, effective Nov. 18, 2003.
 
 #### Savings Provisions
+Pub. L. 115–234, title I, § 105, Aug. 14, 2018, 132 Stat. 2431, provided that: “Notwithstanding the amendments made by this title [see section 101(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)], part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.), as in effect on the day before the date of enactment of this title [Aug. 14, 2018], shall continue to be in effect with respect to animal drug applications and supplemental animal drug applications (as defined in such part as of such day) that on or after October 1, 2013, but before October 1, 2018, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2019.”
+
 Pub. L. 113–14, title I, § 105, June 13, 2013, 127 Stat. 463, provided that: “Notwithstanding the amendments made by this title [amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section], part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.), as in effect on the day before the date of the enactment of this title [June 13, 2013], shall continue to be in effect with respect to animal drug applications and supplemental animal drug applications (as defined in such part as of such day) that on or after October 1, 2008, but before October 1, 2013, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2014.”
 
 Pub. L. 110–316, title I, § 106, Aug. 14, 2008, 122 Stat. 3514, provided that: “Notwithstanding section 5 of the Animal Drug User Fee Act of 2003 [Pub. L. 108–130] ([former] [21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) note), and notwithstanding the amendments made by this title [enacting [section 379j–13 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-13) and amending this section and sections 360b and 379j–12 of this title], part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.), as in effect on the day before the date of the enactment of this title [Aug. 14, 2008], shall continue to be in effect with respect to animal drug applications and supplemental animal drug applications (as defined in such part as of such day) that on or after September 1, 2003, but before October 1, 2008, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2009.”
 
 #### Findings
+Pub. L. 115–234, title I, § 101(b), Aug. 14, 2018, 132 Stat. 2428, provided that: “Congress finds that the fees authorized by the amendments made in this title [see section 101(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
+
 Pub. L. 113–14, title I, § 101(b), June 13, 2013, 127 Stat. 451, provided that: “Congress finds that the fees authorized by the amendments made in this title [amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
 
 Pub. L. 110–316, title I, § 101(b), Aug. 14, 2008, 122 Stat. 3509, provided that: “Congress finds that the fees authorized by the amendments made in this title [enacting [section 379j–13 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-13) and amending this section and sections 360b and 379j–12 of this title] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
@@ -22108,7 +23610,11 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
 
   (B) *Payment* — The fee required by subparagraph (A) shall be due upon submission of the animal drug application or supplemental animal drug application.
 
-  (C) *Exception for previously filed application or supplement* — If an animal drug application or a supplemental animal drug application was submitted by a person that paid the fee for such application or supplement, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an animal drug application or a supplemental animal drug application for the same product by the same person (or the person’s licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+  (C) *Exceptions for previously filed application or supplement*
+
+    (i) If an animal drug application or a supplemental animal drug application was submitted by a person that paid the fee for such application or supplement, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an animal drug application or a supplemental animal drug application for the same product by the same person (or the person’s licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+
+    (ii) Beginning with fiscal year 2019, in the case of an animal drug application submitted by a person under [section 360b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/1&num=0&edition=prelim), where such person (or their licensor, assignor, or predecessor-in-interest) previously submitted an application for conditional approval under [section 360ccc of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360ccc) for the same product and paid the applicable fee under subparagraph (A), the application under [section 360b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/b/1&num=0&edition=prelim) shall not be subject to a fee under subparagraph (A) if submitted within the timeframe specified in [section 360ccc(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360ccc/h&num=0&edition=prelim).
 
   (D) *Refund of fee if application refused for filing* — The Secretary shall refund 75 percent of the fee paid under subparagraph (B) for any animal drug application or supplemental animal drug application which is refused for filing.
 
@@ -22148,11 +23654,7 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
 
     (ii) January 31 of each year.
 
-  (C) *Limitation*
-
-    (i) *In general* — An establishment shall be assessed only one fee per fiscal year under this section, subject to clause (ii).
-
-    (ii) *Certain manufacturers* — If a single establishment manufactures both animal drug products and prescription drug products, as defined in [section 379g(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/3&num=0&edition=prelim), such establishment shall be assessed both the animal drug establishment fee and the prescription drug establishment fee, as set forth in [section 379h(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/a/2&num=0&edition=prelim), within a single fiscal year.
+  (C) *Limitation* — An establishment shall be assessed only one fee per fiscal year under this section.
 
 (4) **Animal drug sponsor fee**
 
@@ -22175,11 +23677,11 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
 
 (1) **In general** — Subject to subsections (c), (d), (f), and (g)—
 
-  (A) for fiscal year 2014, the fees required under subsection (a) shall be established to generate a total revenue amount of $23,600,000; and
+  (A) for fiscal year 2019, the fees required under subsection (a) shall be established to generate a total revenue amount of $30,331,240; and
 
-  (B) for each of fiscal years 2015 through 2018, the fees required under subsection (a) shall be established to generate a total revenue amount of $21,600,000.
+  (B) for each of fiscal years 2020 through 2023, the fees required under subsection (a) shall be established to generate a total revenue amount of $29,931,240.
 
-(2) **Types of fees** — Of the total revenue amount determined for a fiscal year under paragraph (1)—
+(2) **Types of fees** — Of the total revenue amount established for a fiscal year under paragraph (1)—
 
   (A) 20 percent shall be derived from fees under subsection (a)(1) (relating to animal drug applications and supplements);
 
@@ -22193,30 +23695,37 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
 
 (1) **Annual fee setting** — The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2003, for that fiscal year, animal drug application fees, supplemental animal drug application fees, animal drug sponsor fees, animal drug establishment fees, and animal drug product fees based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
 
-(2) **Inflation adjustment** — For fiscal year 2015 and subsequent fiscal years, the revenue amounts established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, by an amount equal to the sum of—
+(2) **Inflation adjustment**
 
-  (A) one;
+  (A) For fiscal year 2020 and subsequent fiscal years, the revenue amounts established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, by multiplying such revenue amounts by an amount equal to the sum of—
 
-  (B) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 of the preceding 4 fiscal years for which data are available, multiplied by the average proportion of personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 years of the preceding 4 fiscal years for which data are available; and
+    (i) one;
 
-  (C) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; not seasonally adjusted; all items less food and energy; annual index) for the first 3 years of the preceding 4 years for which data are available multiplied by the average proportion of all costs other than personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 years of the preceding 4 fiscal years for which data are available.
-  The adjustment made each fiscal year under this paragraph shall be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2014 under this paragraph.
+    (ii) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 of the preceding 4 fiscal years for which data are available, multiplied by the average proportion of personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 years of the preceding 4 fiscal years for which data are available; and
 
-(3) **Workload adjustment** — For fiscal year 2015 and subsequent fiscal years, after the revenue amounts established in subsection (b) are adjusted for inflation in accordance with paragraph (2), the revenue amounts shall be further adjusted for such fiscal year to reflect changes in the workload of the Secretary for the process for the review of animal drug applications. With respect to such adjustment—
+    (iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; not seasonally adjusted; all items less food and energy; annual index) for the first 3 years of the preceding 4 years for which data are available multiplied by the average proportion of all costs other than personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 years of the preceding 4 fiscal years for which data are available.
 
-  (A) such adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animal drug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary;
+  (B) *Compounded basis.—* — The adjustment made each fiscal year after fiscal year 2020 under this paragraph shall be applied on a compounded basis to the revenue amount calculated under this paragraph for the most recent previous fiscal year.
 
-  (B) the Secretary shall publish in the Federal Register the fees resulting from such adjustment and the supporting methodologies; and
+(3) **Workload adjustments**
 
-  (C) under no circumstances shall such adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b), as adjusted for inflation under paragraph (2).
+  (A) *In general* — For fiscal year 2020 and subsequent fiscal years, after the fee revenue amounts established under subsection (b) are adjusted for inflation in accordance with paragraph (2), the fee revenue amounts shall be further adjusted for such fiscal year to reflect changes in the workload of the Secretary for the process for the review of animal drug applications, subject to subparagraphs (B) and (C). With respect to such adjustment—
 
-(4) **Final year adjustment** — For fiscal year 2018, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2019. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2018.
+    (i) such adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animal drug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary; and
+
+    (ii) the Secretary shall publish in the Federal Register the fees resulting from such adjustment and the supporting methodologies.
+
+  (B) *Reduction of workload-based increase by amount of certain excess collections* — For each of fiscal years 2021 through 2023, if application of the workload adjustment under subparagraph (A) increases the fee revenue amounts otherwise established for the fiscal year under subsection (b), as adjusted for inflation under paragraph (2), such fee revenue increase shall be reduced by the amount of any excess collections, as described in subsection (g)(4), for the second preceding fiscal year, up to the amount of such fee revenue increase.
+
+  (C) *Rule of application* — Under no circumstances shall the workload adjustments under this paragraph result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established under subsection (b), as adjusted for inflation under paragraph (2).
+
+(4) **Final year adjustment** — For fiscal year 2023, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2024. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2023.
 
 (5) **Limit** — The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of animal drug applications.
 
-**(d) Fee waiver or reduction**
+**(d) Fee waiver or reduction; exemptions from fees**
 
-(1) **In general** — The Secretary shall grant a waiver from or a reduction of one or more fees assessed under subsection (a) where the Secretary finds that—
+(1) **Waiver or reduction** — The Secretary shall grant a waiver from or a reduction of one or more fees assessed under subsection (a) where the Secretary finds that—
 
   (A) the assessment of the fee would present a significant barrier to innovation because of limited resources available to such person or other circumstances;
 
@@ -22241,6 +23750,16 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
   (B) *Waiver of application fee* — The Secretary shall waive under paragraph (1)(E) the application fee for the first animal drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay application fees for all subsequent animal drug applications and supplemental animal drug applications for which safety or effectiveness data are required in the same manner as an entity that does not qualify as a small business.
 
   (C) *Certification* — The Secretary shall require any person who applies for a waiver under paragraph (1)(E) to certify their qualification for the waiver. The Secretary shall periodically publish in the Federal Register a list of persons making such certifications.
+
+(4) **Exemptions from fees**
+
+  (A) *Certain labeling supplements to add number of approved application* — Fees under this section shall not apply with respect to any person who—
+
+    (i) not later than September 30, 2023, submits a supplemental animal drug application relating to a new animal drug application approved under [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b), solely to add the new animal drug application number to the labeling of the drug in the manner specified in [section 352(w)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section352/w/3&num=0&edition=prelim); and
+
+    (ii) otherwise would be subject to fees under this section solely on the basis of such supplemental application.
+
+  (B) *Certain animal drug applications* — Fees under paragraphs (2), (3), and (4) of subsection (a) shall not apply with respect to any person who is the named applicant or sponsor of an animal drug application, supplemental animal drug application, or investigational animal drug submission if such application or submission involves the intentional genomic alteration of an animal that is intended to produce a drug, device, or biological product subject to fees under section 379h, 379j, 379j–42, or 379j–52 of this title.
 
 **(e) Effect of failure to pay fees** An animal drug application or supplemental animal drug application submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under [section 379j–11(5)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–11/5/B&num=0&edition=prelim) that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animal drug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
 
@@ -22274,19 +23793,27 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
 
   (C) *Provision for early payments* — Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
 
-(3) **Authorization of appropriations** — For each of the fiscal years 2014 through 2018, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under subsection (c) and paragraph (4).
+(3) **Authorization of appropriations** — For each of the fiscal years 2019 through 2023, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount established under subsection (b) for the fiscal year, as adjusted or otherwise affected under subsection (c) and paragraph (5).
 
-(4) **Offset of overcollections; recovery of collection shortfalls**
+(4) **Excess collections** — If the sum total of fees collected under this section for a fiscal year exceeds the amount of fees authorized to be appropriated for such year under paragraph (3), the excess collections shall be credited to the appropriations account of the Food and Drug Administration as provided in paragraph (1).
 
-  (A) *Offset of overcollections* — If the sum of the cumulative amount of fees collected under this section for fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 (including any increased fee collections attributable to subparagraph (B)), exceeds the cumulative amount appropriated pursuant to paragraph (3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018.
+(5) **Recovery of collection shortfalls**
 
-  (B) *Recovery of collection shortfalls*
+  (A) *In general* — Subject to subparagraph (B)—
 
-    (i) *Fiscal year 2016* — For fiscal year 2016, the amount of fees otherwise authorized to be collected under this section shall be increased by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2014 falls below the amount of fees authorized for fiscal year 2014 under paragraph (3).
+    (i) for fiscal year 2021, the amount of fees otherwise authorized to be collected under this section shall be increased by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2019 falls below the amount of fees authorized for fiscal year 2019 under paragraph (3);
 
-    (ii) *Fiscal year 2017* — For fiscal year 2017, the amount of fees otherwise authorized to be collected under this section shall be increased by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2015 falls below the amount of fees authorized for fiscal year 2015 under paragraph (3).
+    (ii) for fiscal year 2022, the amount of fees otherwise authorized to be collected under this section shall be increased by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2020 falls below the amount of fees authorized for fiscal year 2020 under paragraph (3); and
 
-    (iii) *Fiscal year 2018* — For fiscal year 2018, the amount of fees otherwise authorized to be collected under this section (including any reduction in the authorized amount under subparagraph (A)), shall be increased by the cumulative amount, if any, by which the amount collected under this section and appropriated for fiscal years 2016 and 2017 (including estimated collections for fiscal year 2017) falls below the cumulative amount of fees authorized under paragraph (3) for fiscal years 2016 and 2017.
+    (iii) for fiscal year 2023, the amount of fees otherwise authorized to be collected under this section shall be increased by the cumulative amount, if any, by which the amount collected under this section and appropriated for fiscal years 2021 and 2022 (including estimated collections for fiscal year 2022) falls below the cumulative amount of fees authorized for such fiscal years under paragraph (3).
+
+  (B) *Reduction of shortfall-based fee increase by prior year excess collections*
+
+    (i) *In general* — Subject to clause (ii), the Secretary shall, in such manner as the Secretary determines appropriate, reduce any fee increase otherwise applicable for a fiscal year under subparagraph (A) by the amount of any excess collections under this section for preceding fiscal years (after fiscal year 2018).
+
+    (ii) *Workload-based fee accounting* — In applying clause (i), the Secretary shall account for the reduction of workload-based fee revenue increases by excess collections under subsection (c)(3)(B), in such manner as needed to provide that no portion of any excess collections described in clause (i) is applied for purposes of reducing fee increases under both such subsection (c)(3)(B) and this paragraph.
+
+  (C) *Rule of application* — Under no circumstances shall adjustments under this paragraph result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b), as adjusted or otherwise affected under subsection (c).
 
 **(h) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
@@ -22303,9 +23830,45 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 107(a) of Pub. L. 113–14, see Termination Date note below.
+For termination of section by section 107(a) of Pub. L. 115–234, see Termination Date note below.
 
 #### Amendments
+2018—Subsec. (a)(1)(C). Pub. L. 115–234, § 304(b), substituted “Exceptions” for “Exception” in heading, designated existing provisions as cl. (i), and added cl. (ii).
+
+Subsec. (b)(1)(A). Pub. L. 115–234, § 103(a)(1)(A), substituted “2019” for “2014” and “$30,331,240” for “$23,600,000”.
+
+Subsec. (b)(1)(B). Pub. L. 115–234, § 103(a)(1)(B), substituted “2020 through 2023” for “2015 through 2018” and “$29,931,240” for “$21,600,000”.
+
+Subsec. (b)(2). Pub. L. 115–234, § 103(a)(2), substituted “established” for “determined” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 115–234, § 103(b)(1), substituted “(A) For fiscal year 2020” for “For fiscal year 2015”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), added subpar. (B), and struck out concluding provisions which read as follows: “The adjustment made each fiscal year under this paragraph shall be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2014 under this paragraph.”
+
+Subsec. (c)(3). Pub. L. 115–234, § 103(b)(2), amended par. (3) generally. Prior to amendment, text read as follows: “For fiscal year 2015 and subsequent fiscal years, after the revenue amounts established in subsection (b) are adjusted for inflation in accordance with paragraph (2), the revenue amounts shall be further adjusted for such fiscal year to reflect changes in the workload of the Secretary for the process for the review of animal drug applications. With respect to such adjustment—
+
+“(A) such adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animal drug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary;
+
+“(B) the Secretary shall publish in the Federal Register the fees resulting from such adjustment and the supporting methodologies; and
+
+“(C) under no circumstances shall such adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b), as adjusted for inflation under paragraph (2).”
+
+Subsec. (c)(4). Pub. L. 115–234, § 103(b)(3), substituted “2023” for “2018” in two places and “2024” for “2019”.
+
+Subsec. (d). Pub. L. 115–234, § 103(c)(1), inserted “; exemptions from fees” after “reduction” in heading.
+
+Subsec. (d)(1). Pub. L. 115–234, § 103(c)(2), substituted “Waiver or reduction” for “In general” in heading.
+
+Subsec. (d)(4). Pub. L. 115–234, § 103(c)(3), added par. (4).
+
+Subsec. (g)(3). Pub. L. 115–234, § 103(d)(1), substituted “2019 through 2023” for “2014 through 2018”, “established” for “determined”, and “paragraph (5)” for “paragraph (4)”.
+
+Subsec. (g)(4), (5). Pub. L. 115–234, § 103(d)(2), added pars. (4) and (5) and struck out former par. (4) which related to offset of overcollections and recovery of collection shortfalls for certain fiscal years.
+
+2017—Subsec. (a)(3)(C). Pub. L. 115–52 amended subpar. (C) generally. Prior to amendment, text read as follows:
+
+“(i) In general.—An establishment shall be assessed only one fee per fiscal year under this section, subject to clause (ii).
+
+“(ii) Certain manufacturers.—If a single establishment manufactures both animal drug products and prescription drug products, as defined in [section 379g(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379g/3&num=0&edition=prelim), such establishment shall be assessed both the animal drug establishment fee and the prescription drug establishment fee, as set forth in [section 379h(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/a/2&num=0&edition=prelim), within a single fiscal year.”
+
 2013—Pub. L. 113–14 amended section generally. Prior to amendment, section related to authority to assess and use animal drug fees.
 
 2008—Subsec. (a)(1)(A)(i). Pub. L. 110–316, § 103(a)(1), inserted “, except an animal drug application subject to the criteria set forth in [section 360b(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360b/d/4&num=0&edition=prelim)” after “for an animal drug application”.
@@ -22340,6 +23903,12 @@ Subsec. (g)(3)(A) to (E). Pub. L. 110–316, § 103(d), amended subpars. (A) to 
 
 Subsec. (g)(4). Pub. L. 110–316, § 103(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriations Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.”
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–234 effective Oct. 1, 2018, and fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.) to be assessed for animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2018, see section 106 of Pub. L. 115–234, set out as a note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 2 of this part to be assessed for all human drug applications received on or after Oct. 1, 2017, see section 105 of Pub. L. 115–52, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
+
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–14 effective Oct. 1, 2013, see section 106 of Pub. L. 113–14, set out as a note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
 
@@ -22347,20 +23916,22 @@ Amendment by Pub. L. 113–14 effective Oct. 1, 2013, see section 106 of Pub. L.
 Amendment by Pub. L. 110–316 effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2008, see section 107 of Pub. L. 110–316, set out as an Effective and Termination Dates of 2008 Amendment note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
 
 #### Termination Date
-Pub. L. 113–14, title I, § 107(a), June 13, 2013, 127 Stat. 464, provided that: “Section 740 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–12](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-12)) shall cease to be effective October 1, 2018.”
+Pub. L. 115–234, title I, § 107(a), Aug. 14, 2018, 132 Stat. 2432, provided that: “Section 740 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–12](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-12)) shall cease to be effective October 1, 2023.”
+
+Pub. L. 113–14, title I, § 107(a), June 13, 2013, 127 Stat. 464, which provided that section 740 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–12](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-12)) would cease to be effective Oct. 1, 2018, was repealed by Pub. L. 115–234, title I, § 107(c), Aug. 14, 2018, 132 Stat. 2432, effective Oct. 1, 2018.
 
 
 <a id="section-379j-13"></a>
 ## § 379j–13. Reauthorization; reporting requirements
-**(a) Performance report** Beginning with fiscal year 2014, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(b) of the Animal Drug User Fee Amendments of 2013 toward expediting the animal drug development process and the review of the new and supplemental animal drug applications and investigational animal drug submissions during such fiscal year, the future plans of the Food and Drug Administration for meeting the goals, the review times for abbreviated new animal drug applications, and the administrative procedures adopted by the Food and Drug Administration to ensure that review times for abbreviated new animal drug applications are not increased from their current level due to activities under the user fee program.
+**(a) Performance report** Beginning with fiscal year 2019, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(b) of the Animal Drug User Fee Amendments of 2018 toward expediting the animal drug development process and the review of the new and supplemental animal drug applications and investigational animal drug submissions during such fiscal year, the future plans of the Food and Drug Administration for meeting the goals, the review times for abbreviated new animal drug applications, and the administrative procedures adopted by the Food and Drug Administration to ensure that review times for abbreviated new animal drug applications are not increased from their current level due to activities under the user fee program.
 
-**(b) Fiscal report** Beginning with fiscal year 2014, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
+**(b) Fiscal report** Beginning with fiscal year 2019, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
 
 **(c) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
 
 **(d) Reauthorization**
 
-(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of animal drug applications for the first 5 fiscal years after fiscal year 2018, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of animal drug applications for the first 5 fiscal years after fiscal year 2023, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
   (A) the Committee on Health, Education, Labor, and Pensions of the Senate;
 
@@ -22398,7 +23969,7 @@ Pub. L. 113–14, title I, § 107(a), June 13, 2013, 127 Stat. 464, provided tha
 
   (E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-(5) **Transmittal of recommendations** — Not later than January 15, 2018, the Secretary shall transmit to Congress the revised recommendations under paragraph (4) 11 So in original. Probably should be followed by a comma. a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+(5) **Transmittal of recommendations** — Not later than January 15, 2023, the Secretary shall transmit to Congress the revised recommendations under paragraph (4) 11 So in original. Probably should be followed by a comma. a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
 (6) **Minutes of negotiation meetings**
 
@@ -22409,19 +23980,30 @@ Pub. L. 113–14, title I, § 107(a), June 13, 2013, 127 Stat. 464, provided tha
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 107(b) of Pub. L. 113–14, see Effective and Termination Dates note below.
+For termination of section by section 107(b) of Pub. L. 115–234, see Effective and Termination Dates note below.
 
 #### References in Text
-Section 101(b) of the Animal Drug User Fee Amendments of 2013, referred to in subsec. (a), is section 101(b) of Pub. L. 113–14, which is set out as a note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
+Section 101(b) of the Animal Drug User Fee Amendments of 2018, referred to in subsec. (a), is section 101(b) of Pub. L. 115–234, which is set out as a note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–234, § 104(1), (2), substituted “2019” for “2014” and “2018” for “2013”.
+
+Subsec. (b). Pub. L. 115–234, § 104(2), substituted “2019” for “2014”.
+
+Subsec. (d)(1), (5). Pub. L. 115–234, § 104(3), substituted “2023” for “2018”.
+
 2013—Pub. L. 113–14 amended section generally. Prior to amendment, section related to reauthorization of this subpart and reporting requirements.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–234 effective Oct. 1, 2018, and fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–11](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11) et seq.) to be assessed for animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2018, see section 106 of Pub. L. 115–234, set out as a note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–14 effective Oct. 1, 2013, see section 106 of Pub. L. 113–14, set out as a note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
 
 #### Effective and Termination Dates
-Pub. L. 113–14, title I, § 107(b), June 13, 2013, 127 Stat. 464, provided that: “Section 740A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–13](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-13)) shall cease to be effective January 31, 2019.”
+Pub. L. 115–234, title I, § 107(b), Aug. 14, 2018, 132 Stat. 2432, provided that: “Section 740A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–13](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-13)) shall cease to be effective January 31, 2024.”
+
+Pub. L. 113–14, title I, § 107(b), June 13, 2013, 127 Stat. 464, which provided that section 740A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–13](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-13)) would cease to be effective Jan. 31, 2019, was repealed by Pub. L. 115–234, title I, § 107(c), Aug. 14, 2018, 132 Stat. 2432, effective Oct. 1, 2018.
 
 Section effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2008, see section 107 of Pub. L. 110–316, set out as an Effective and Termination Dates of 2008 Amendment note under [section 379j–11 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-11).
 
@@ -22486,29 +24068,59 @@ Section effective Oct. 1, 2008, with fees under this subpart to be assessed for 
 
     (iii) 50 percent of the amount of the generic new animal drug sponsor fee published for that fiscal year under subsection (c) for an applicant with 1 or fewer approved abbreviated applications.
 
-**(b) Fee amounts** Subject to subsections (c), (d), (f), and (g), the fees required under subsection (a) shall be established to generate fee revenue amounts as follows:
+**(b) Fee revenue amounts**
 
-(1) **Total fee revenues for application fees** — The total fee revenues to be collected in abbreviated application fees under subsection (a)(1) shall be $1,832,000 for fiscal year 2014, $1,736,000 for fiscal year 2015, $1,857,000 for fiscal year 2016, $1,984,000 for fiscal year 2017, and $2,117,000 for fiscal year 2018.
+(1) **In general** — Subject to subsections (c), (d), (f), and (g), for each of fiscal years 2019 through 2023, the fees required under subsection (a) shall be established to generate a total revenue amount of $18,336,340.
 
-(2) **Total fee revenues for product fees** — The total fee revenues to be collected in generic new animal drug product fees under subsection (a)(2) shall be $2,748,000 for fiscal year 2014, $2,604,000 for fiscal year 2015, $2,786,000 for fiscal year 2016, $2,976,000 for fiscal year 2017, and $3,175,000 for fiscal year 2018.
+(2) **Types of fees** — Of the total revenue amount established for a fiscal year under paragraph (1)—
 
-(3) **Total fee revenues for sponsor fees** — The total fee revenues to be collected in generic new animal drug sponsor fees under subsection (a)(3) shall be $2,748,000 for fiscal year 2014, $2,604,000 for fiscal year 2015, $2,786,000 for fiscal year 2016, $2,976,000 for fiscal year 2017, and $3,175,000 for fiscal year 2018.
+  (A) 25 percent shall be derived from fees under subsection (a)(1) (relating to abbreviated applications for a generic new animal drug);
+
+  (B) 37.5 percent shall be derived from fees under subsection (a)(2) (relating to generic new animal drug products); and
+
+  (C) 37.5 percent shall be derived from fees under subsection (a)(3) (relating to generic new animal drug sponsors).
 
 **(c) Annual fee setting; adjustments**
 
 (1) **Annual fee setting** — The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2008, for that fiscal year, abbreviated application fees, generic new animal drug sponsor fees, and generic new animal drug product fees, based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
 
-(2) **Workload adjustment** — The fee revenues shall be adjusted each fiscal year after fiscal year 2014 to reflect changes in review workload. With respect to such adjustment:
+(2) **Inflation adjustment**
 
-  (A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of abbreviated applications for generic new animal drugs, manufacturing supplemental abbreviated applications for generic new animal drugs, investigational generic new animal drug study submissions, and investigational generic new animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
+  (A) *In general* — For fiscal year 2020 and subsequent fiscal years, the revenue amounts established under subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, by multiplying such revenue amounts by an amount equal to the sum of—
 
-  (B) Under no circumstances shall this workload adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b).
+    (i) one;
 
-(3) **Final year adjustment** — For fiscal year 2018, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of abbreviated applications for generic new animal drugs for the first 3 months of fiscal year 2019. If the Food and Drug Administration has carryover balances for the process for the review of abbreviated applications for generic new animal drugs in excess of 3 months of such operating reserves, then this adjustment shall not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2018.
+    (ii) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 of the preceding 4 fiscal years for which data are available, multiplied by the average proportion of personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 of the preceding 4 fiscal years for which data are available; and
 
-(4) **Limit** — The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of abbreviated applications for generic new animal drugs.
+    (iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; not seasonally adjusted; all items less food and energy; annual index) for the first 3 of the preceding 4 years for which data are available multiplied by the average proportion of all costs other than personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 of the preceding 4 fiscal years for which data are available.
 
-**(d) Fee waiver or reduction** The Secretary shall grant a waiver from or a reduction of 1 or more fees assessed under subsection (a) where the Secretary finds that the generic new animal drug is intended solely to provide for a minor use or minor species indication.
+  (B) *Compounded basis* — The adjustment made each fiscal year after fiscal year 2020 under this paragraph shall be applied on a compounded basis to the revenue amount calculated under this paragraph for the most recent previous fiscal year.
+
+(3) **Workload adjustments**
+
+  (A) *In general* — For fiscal year 2020 and subsequent fiscal years, after the fee revenue amounts established under subsection (b) are adjusted for inflation in accordance with paragraph (2), the fee revenue amounts shall be further adjusted for each such fiscal year to reflect changes in the workload of the Secretary for the process for the review of abbreviated applications for generic new animal drugs, subject to subparagraphs (B) and (C). With respect to such adjustment—
+
+    (i) this adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of abbreviated applications for generic new animal drugs, manufacturing supplemental abbreviated applications for generic new animal drugs, investigational generic new animal drug study submissions, and investigational generic new animal drug protocol submissions submitted to the Secretary; and
+
+    (ii) the Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
+
+  (B) *Reduction of workload-based increase by amount of certain excess collections* — For each of fiscal years 2021 through 2023, if application of the workload adjustment under subparagraph (A) increases the fee revenue amounts otherwise established for the fiscal year under subsection (b), as adjusted for inflation under paragraph (2), such fee revenue increase shall be reduced by the amount of any excess collections, as described in subsection (g)(4), for the second preceding fiscal year, up to the amount of such fee revenue increase.
+
+  (C) *Rule of application* — Under no circumstances shall workload adjustments under this paragraph result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established under subsection (b), as adjusted for inflation under paragraph (2).
+
+(4) **Final year adjustment** — For fiscal year 2023, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of abbreviated applications for generic new animal drugs for the first 3 months of fiscal year 2024. If the Food and Drug Administration has carryover balances for the process for the review of abbreviated applications for generic new animal drugs in excess of 3 months of such operating reserves, then this adjustment shall not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2023.
+
+(5) **Limit** — The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of abbreviated applications for generic new animal drugs.
+
+**(d) Fee waiver or reduction; exemption from fees**
+
+(1) **Fee waiver or reduction** — The Secretary shall grant a waiver from or a reduction of one or more fees assessed under subsection (a) where the Secretary finds that the generic new animal drug is intended solely to provide for a minor use or minor species indication.
+
+(2) **Exemption from fees** — Fees under this section shall not apply with respect to any person who—
+
+  (A) not later than September 30, 2023, submits a supplemental abbreviated application for a generic new animal drug approved under [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b), solely to add the application number to the labeling of the drug in the manner specified in [section 352(w)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section352/w/3&num=0&edition=prelim); and
+
+  (B) otherwise would be subject to fees under this section solely on the basis of such supplemental abbreviated application.
 
 **(e) Effect of failure to pay fees** An abbreviated application for a generic new animal drug submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational submission for a generic new animal drug that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any abbreviated application for a generic new animal drug, supplemental abbreviated application for a generic new animal drug, or investigational submission for a generic new animal drug from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
 
@@ -22542,20 +24154,11 @@ Section effective Oct. 1, 2008, with fees under this subpart to be assessed for 
 
   (C) *Provision for early payments* — Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
 
-(3) **Authorization of appropriations** — There are authorized to be appropriated for fees under this section—
+(3) **Authorization of appropriations** — For each of the fiscal years 2019 through 2023, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount established under subsection (b) for the fiscal year, as adjusted or otherwise affected under subsection (c).
 
-  (A) $7,328,000 for fiscal year 2014;
+(4) **1 Excess collections** — If the sum total of fees collected under this section for a fiscal year exceeds the amount of fees authorized to be appropriated for such year under paragraph (3), the excess collections shall be credited to the appropriations account of the Food and Drug Administration as provided in paragraph (1).
 
-  (B) $6,944,000 for fiscal year 2015;
-
-  (C) $7,429,000 for fiscal year 2016;
-
-  (D) $7,936,000 for fiscal year 2017; and
-
-  (E) $8,467,000 for fiscal year 2018;
-  as adjusted to reflect adjustments in the total fee revenues made under this section and changes in the total amounts collected by abbreviated application fees, generic new animal drug sponsor fees, and generic new animal drug product fees.
-
-(4) **Offset** — If the sum of the cumulative amount of fees collected under this section for the fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018.
+(4) **1 Offset** — If the sum of the cumulative amount of fees collected under this section for the fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018.
 
 **(h) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
@@ -22622,26 +24225,55 @@ Section effective Oct. 1, 2008, with fees under this subpart to be assessed for 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 206(a) of Pub. L. 113–14, see Termination Date note below.
+For termination of section by section 206(a) of Pub. L. 115–234, see Termination Date note below.
 
 #### Prior Provisions
 A prior section 741 of act June 25, 1938, was renumbered section 745 and is classified to [section 379k of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379k).
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–234, § 202(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to fee amounts for fiscal years 2014 to 2018.
+
+Subsec. (c)(2). Pub. L. 115–234, § 202(b)(1)(B), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (c)(3). Pub. L. 115–234, § 202(b)(1)(A), (2), redesignated par. (2) as (3) and amended it generally. Prior to amendment, text read as follows: “The fee revenues shall be adjusted each fiscal year after fiscal year 2014 to reflect changes in review workload. With respect to such adjustment:
+
+“(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of abbreviated applications for generic new animal drugs, manufacturing supplemental abbreviated applications for generic new animal drugs, investigational generic new animal drug study submissions, and investigational generic new animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
+
+“(B) Under no circumstances shall this workload adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b).”
+
+Former par. (3) redesignated (4).
+
+Subsec. (c)(4). Pub. L. 115–234, § 202(b)(1)(A), (3), redesignated par. (3) as (4) and substituted “2023” for “2018” in two places and “2024” for “2019”. Former par. (4) redesignated (5).
+
+Subsec. (c)(5). Pub. L. 115–234, § 202(b)(1)(A), redesignated par. (4) as (5).
+
+Subsec. (d). Pub. L. 115–234, § 202(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall grant a waiver from or a reduction of 1 or more fees assessed under subsection (a) where the Secretary finds that the generic new animal drug is intended solely to provide for a minor use or minor species indication.”
+
+Subsec. (g)(3), (4). Pub. L. 115–234, § 202(d), added par. (3) and par. (4) relating to excess collections and struck out former par. (3) which related to authorization of appropriations for fiscal years 2014 to 2018.
+
 2013—Pub. L. 113–14 amended section generally. Prior to amendment, section related to authority to assess and use generic new animal drug fees.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–234, title II, § 205, Aug. 14, 2018, 132 Stat. 2435, provided that: “The amendments made by this title [see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] shall take effect on October 1, 2018, or the date of the enactment of this Act [Aug. 14, 2018], whichever is later, except that fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21) et seq.], as amended by this title, shall be assessed for abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after October 1, 2018, regardless of the date of enactment of this Act.”
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–14, title II, § 205, June 13, 2013, 127 Stat. 474, provided that: “The amendments made by this title [amending this section and [section 379j–22 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-22) and repealing provisions set out as notes under this section and [section 379j–22 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-22)] shall take effect on October 1, 2013, or the date of enactment of this Act [June 13, 2013], whichever is later, except that fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21) et seq.], as amended by this title, shall be assessed for all abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after October 1, 2013, regardless of the date of enactment of this Act.”
 
 #### Termination Date
-Pub. L. 113–14, title II, § 206(a), June 13, 2013, 127 Stat. 474, provided that: “Section 741 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21)) shall cease to be effective October 1, 2018.”
+Pub. L. 115–234, title II, § 206(a), Aug. 14, 2018, 132 Stat. 2435, provided that: “Section 741 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21)) shall cease to be effective October 1, 2023.”
+
+Pub. L. 113–14, title II, § 206(a), June 13, 2013, 127 Stat. 474, which provided that section 741 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21)) would cease to be effective Oct. 1, 2018, was repealed by Pub. L. 115–234, title II, § 206(c), Aug. 14, 2018, 132 Stat. 2435, effective Oct. 1, 2018.
 
 Pub. L. 110–316, title II, § 204(a), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendments made by section 202 of Pub. L. 110–316 (enacting this section and amending sections 379k, 379l, and 379o of this title) would cease to be effective Oct. 1, 2013, was repealed by Pub. L. 113–14, title II, § 206(c)(1), June 13, 2013, 127 Stat. 474.
 
 #### Savings Provisions
+Pub. L. 115–234, title II, § 204, Aug. 14, 2018, 132 Stat. 2435, provided that: “Notwithstanding the amendments made by this title [see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)], part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21) et seq.), as in effect on the day before the date of enactment of this title [Aug. 14, 2018], shall continue to be in effect with respect to abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug (as defined in such part as of such day) that on or after October 1, 2013, but before October 1, 2018, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2019.”
+
 Pub. L. 113–14, title II, § 204, June 13, 2013, 127 Stat. 474, provided that: “Notwithstanding the amendments made by this title [amending this section and [section 379j–22 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-22) and repealing provisions set out as notes under this section and [section 379j–22 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-22)], part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21) et seq.], as in effect on the day before the date of enactment of this title [June 13, 2013], shall continue to be in effect with respect to abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug (as defined in such part as of such day) that on or after October 1, 2008, but before October 1, 2013, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2014.”
 
 #### Findings
+Pub. L. 115–234, title II, § 201(b), Aug. 14, 2018, 132 Stat. 2432, provided that: “Congress finds that the fees authorized by the amendments made in this title [see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified for purposes of part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21) et seq.], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor and Pensions of the Senate as set forth in the Congressional Record.”
+
 Pub. L. 113–14, title II, § 201(b), June 13, 2013, 127 Stat. 464, provided that: “The fees authorized by this title [see Short Title of 2013 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
 
 Pub. L. 110–316, title II, § 201(b), Aug. 14, 2008, 122 Stat. 3515, provided that: “Congress finds as follows: “(1) Prompt approval of abbreviated applications for safe and effective generic new animal drugs will reduce animal healthcare costs and promote the well-being of animal health and the public health. “(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of abbreviated applications for the approval of generic new animal drugs. “(3) The fees authorized by this title [see Short Title of 2008 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
@@ -22649,15 +24281,15 @@ Pub. L. 110–316, title II, § 201(b), Aug. 14, 2008, 122 Stat. 3515, provided 
 
 <a id="section-379j-22"></a>
 ## § 379j–22. Reauthorization; reporting requirements
-**(a) Performance reports** Beginning with fiscal year 2014, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(b) of the Animal Generic Drug User Fee Amendments of 2013 toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs during such fiscal year.
+**(a) Performance reports** Beginning with fiscal year 2019, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(b) of the Animal Generic Drug User Fee Amendments of 2018 toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs during such fiscal year.
 
-**(b) Fiscal report** Beginning with fiscal year 2014, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to Committee 11 So in original. Probably should be preceded by “the”. on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
+**(b) Fiscal report** Beginning with fiscal year 2019, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
 
 **(c) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
 
 **(d) Reauthorization**
 
-(1) **Consultation** — In developing recommendations to present to Congress with respect to the goals, and plans for meeting the goals, for the process for the review of abbreviated applications for generic new animal drugs for the first 5 fiscal years after fiscal year 2018, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+(1) **Consultation** — In developing recommendations to present to Congress with respect to the goals, and plans for meeting the goals, for the process for the review of abbreviated applications for generic new animal drugs for the first 5 fiscal years after fiscal year 2023, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
   (A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -22695,7 +24327,7 @@ Pub. L. 110–316, title II, § 201(b), Aug. 14, 2008, 122 Stat. 3515, provided 
 
   (E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-(5) **Transmittal of recommendations** — Not later than January 15, 2018, the Secretary shall transmit to Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+(5) **Transmittal of recommendations** — Not later than January 15, 2023, the Secretary shall transmit to Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
 (6) **Minutes of negotiation meetings**
 
@@ -22706,22 +24338,33 @@ Pub. L. 110–316, title II, § 201(b), Aug. 14, 2008, 122 Stat. 3515, provided 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 206(b) of Pub. L. 113–14, see Termination Date note below.
+For termination of section by section 206(b) of Pub. L. 115–234, see Termination Date note below.
 
 #### References in Text
-Section 201(b) of the Animal Generic Drug User Fee Amendments of 2013, referred to in subsec. (a), is section 201(b) of Pub. L. 113–14, which is set out as a note under [section 379j–21 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21).
+Section 201(b) of the Animal Generic Drug User Fee Amendments of 2018, referred to in subsec. (a), is section 201(b) of Pub. L. 115–234, which is set out as a note under [section 379j–21 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21).
 
 #### Prior Provisions
 A prior section 742 of act June 25, 1938, was renumbered section 746 and is classified to section 379l of this title.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–234, § 203(1), (3), substituted “2019” for “2014” and “2018” for “2013”.
+
+Subsec. (b). Pub. L. 115–234, § 203(2), (3), substituted “2019” for “2014” and “to the Committee on Health, Education, Labor and Pensions” for “to Committee on Health, Education, Labor, and Pensions”.
+
+Subsec. (d)(1), (5). Pub. L. 115–234, § 203(4), substituted “2023” for “2018”.
+
 2013—Pub. L. 113–14 amended section generally. Prior to amendment, section related to reauthorization of this subpart and reporting requirements.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–234 effective on Oct. 1, 2018, and fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–21](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21) et seq.), as amended, to be assessed for abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after Oct. 1, 2018, see section 205 of Pub. L. 115–234, set out as a note under [section 379j–21 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–14 effective Oct. 1, 2013, see section 205 of Pub. L. 113–14, set out as a note under [section 379j–21 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-21).
 
 #### Termination Date
-Pub. L. 113–14, title II, § 206(b), June 13, 2013, 127 Stat. 474, provided that: “Section 742 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–22](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-22)) shall cease to be effective January 31, 2019.”
+Pub. L. 115–234, title II, § 206(b), Aug. 14, 2018, 132 Stat. 2435, provided that: “Section 742 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–22](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-22)) shall cease to be effective January 31, 2024.”
+
+Pub. L. 113–14, title II, § 206(b), June 13, 2013, 127 Stat. 474, which provided that section 742 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–22](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-22)) would cease to be effective Jan. 31, 2019, was repealed by Pub. L. 115–234, title II, § 206(c), Aug. 14, 2018, 132 Stat. 2435, effective Oct. 1, 2018.
 
 Pub. L. 110–316, title II, § 204(b), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendment made by section 203 of Pub. L. 110–316 (enacting this section) would cease to be effective Jan. 31, 2014, was repealed by Pub. L. 113–14, title II, § 206(c)(1), June 13, 2013, 127 Stat. 474.
 
@@ -22836,7 +24479,11 @@ For purposes of this subpart:
 
   (A) means an application submitted under [section 355(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim), an abbreviated application submitted under [section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357) (as in effect on the day before November 21, 1997), or an abbreviated new drug application submitted pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984; and
 
-  (B) does not include an application for a positron emission tomography drug.
+  (B) does not include an application—
+
+    (i) for a positron emission tomography drug; or
+
+    (ii) submitted by a State or Federal governmental entity for a drug that is not distributed commercially.
 
 (2) The term “active pharmaceutical ingredient” means—
 
@@ -22856,7 +24503,9 @@ For purposes of this subpart:
 
   (B) a third party controls, or has power to control, both of the business entities.
 
-(5)
+(5) The term “contract manufacturing organization facility” means a manufacturing facility of a finished dosage form of a drug approved pursuant to an abbreviated new drug application, where such manufacturing facility is not identified in an approved abbreviated new drug application held by the owner of such facility or an affiliate of such owner or facility.
+
+(6)
 
   (A) The term “facility”—
 
@@ -22878,7 +24527,7 @@ For purposes of this subpart:
 
   (C) If a business or other entity would meet the definition of a facility under this paragraph but for being under multiple management, the business or other entity is deemed to constitute multiple facilities, one per management entity, for purposes of this paragraph.
 
-(6) The term “finished dosage form” means—
+(7) The term “finished dosage form” means—
 
   (A) a drug product in the form in which it will be administered to a patient, such as a tablet, capsule, solution, or topical application;
 
@@ -22886,9 +24535,9 @@ For purposes of this subpart:
 
   (C) any combination of an active pharmaceutical ingredient with another component of a drug product for purposes of production of a drug product described in subparagraph (A) or (B).
 
-(7) The term “generic drug submission” means an abbreviated new drug application, an amendment to an abbreviated new drug application, or a prior approval supplement to an abbreviated new drug application.
+(8) The term “generic drug submission” means an abbreviated new drug application, an amendment to an abbreviated new drug application, or a prior approval supplement to an abbreviated new drug application.
 
-(8) The term “human generic drug activities” means the following activities of the Secretary associated with generic drugs and inspection of facilities associated with generic drugs:
+(9) The term “human generic drug activities” means the following activities of the Secretary associated with generic drugs and inspection of facilities associated with generic drugs:
 
   (A) The activities necessary for the review of generic drug submissions, including review of drug master files referenced in such submissions.
 
@@ -22922,11 +24571,11 @@ For purposes of this subpart:
 
   (G) Regulatory science activities related to generic drugs.
 
-(9) The term “positron emission tomography drug” has the meaning given to the term “compounded positron emission tomography drug” in [section 321(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/ii&num=0&edition=prelim), except that paragraph (1)(B) of such section shall not apply.
+(10) The term “positron emission tomography drug” has the meaning given to the term “compounded positron emission tomography drug” in [section 321(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/ii&num=0&edition=prelim), except that paragraph (1)(B) of such section shall not apply.
 
-(10) The term “prior approval supplement” means a request to the Secretary to approve a change in the drug substance, drug product, production process, quality controls, equipment, or facilities covered by an approved abbreviated new drug application when that change has a substantial potential to have an adverse effect on the identity, strength, quality, purity, or potency of the drug product as these factors may relate to the safety or effectiveness of the drug product.
+(11) The term “prior approval supplement” means a request to the Secretary to approve a change in the drug substance, drug product, production process, quality controls, equipment, or facilities covered by an approved abbreviated new drug application when that change has a substantial potential to have an adverse effect on the identity, strength, quality, purity, or potency of the drug product as these factors may relate to the safety or effectiveness of the drug product.
 
-(11) The term “resources allocated for human generic drug activities” means the expenses for—
+(12) The term “resources allocated for human generic drug activities” means the expenses for—
 
   (A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers and employees and to contracts with such contractors;
 
@@ -22936,30 +24585,48 @@ For purposes of this subpart:
 
   (D) collecting fees under subsection (a) and accounting for resources allocated for the review of abbreviated new drug applications and supplements and inspection related to generic drugs.
 
-(12) The term “Type II active pharmaceutical ingredient drug master file” means a submission of information to the Secretary by a person that intends to authorize the Food and Drug Administration to reference the information to support approval of a generic drug submission without the submitter having to disclose the information to the generic drug submission applicant.
+(13) The term “Type II active pharmaceutical ingredient drug master file” means a submission of information to the Secretary by a person that intends to authorize the Food and Drug Administration to reference the information to support approval of a generic drug submission without the submitter having to disclose the information to the generic drug submission applicant.
 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 304(a) of Pub. L. 112–144, see Effective and Termination Dates note set out below.
+For termination of section by section 305(a) of Pub. L. 115–52, see Effective and Termination Dates note set out below.
 
 #### References in Text
 [Section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), referred to in par. (1)(A), was repealed by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in par. (1)(A), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
+#### Amendments
+2017—Par. (1)(B). Pub. L. 115–52, § 302(1), substituted “application—” for “application for a positron emission tomography drug.” and added cls. (i) and (ii).
+
+Pars. (5) to (13). Pub. L. 115–52, § 302(2), (3), added par. (5) and redesignated former pars. (5) to (12) as (6) to (13), respectively.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–52, title III, § 306, Aug. 18, 2017, 131 Stat. 1027, provided that: “The amendments made by this title [see section 301(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] shall take effect on October 1, 2017, or the date of the enactment of this Act [Aug. 18, 2017], whichever is later, except that fees under part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–41](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41) et seq.] shall be assessed for all abbreviated new drug applications received on or after October 1, 2017, regardless of the date of the enactment of this Act.”
+
 #### Effective and Termination Dates
-Pub. L. 112–144, title III, § 304(a), July 9, 2012, 126 Stat. 1024, provided that: “Sections 744A and 744B of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–41](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41), 379j–42], as added by section 302 of this Act, shall cease to be effective October 1, 2017.”
+Pub. L. 115–52, title III, § 305(a), Aug. 18, 2017, 131 Stat. 1027, provided that: “Sections 744A and 744B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–41](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41); 379j–42) shall cease to be effective October 1, 2022.”
+
+Pub. L. 112–144, title III, § 304(a), July 9, 2012, 126 Stat. 1024, which provided that this section and [section 379j–42 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-42) would cease to be effective Oct. 1, 2017, was repealed by Pub. L. 115–52, title III, § 305(c)(1), Aug. 18, 2017, 131 Stat. 1027.
+
+[Pub. L. 115–52, title III, § 305(c)(1), Aug. 18, 2017, 131 Stat. 1027, provided that the repeal of section 304(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.]
 
 Pub. L. 112–144, title III, § 305, July 9, 2012, 126 Stat. 1024, provided that: “The amendments made by this title [enacting this section and sections 379d–4, 379j–42, and 379j–43 of this title and amending sections 352 and 379d–3 of this title] shall take effect on October 1, 2012, or the date of the enactment of this title [July 9, 2012], whichever is later, except that fees under section 302 [enacting this section and sections 379j–42 and 379j–43 of this title] shall be assessed for all human generic drug submissions and Type II active pharmaceutical drug master files received on or after October 1, 2012, regardless of the date of enactment of this title.”
 
-#### Finding
+#### Savings Clause
+Pub. L. 115–52, title III, § 307, Aug. 18, 2017, 131 Stat. 1027, provided that: “Notwithstanding the amendments made by this title [amending this section and sections 379j–42 and 379j–43 of this title and repealing provisions set out as notes under this section and [section 379j–43 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-43)], part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–41](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41) et seq.], as in effect on the day before the date of the enactment of this title [Aug. 18, 2017], shall continue to be in effect with respect to abbreviated new drug applications (as defined in such part as of such day) that were received by the Food and Drug Administration within the meaning of section 505(j)(5)(A) of such Act ([21 U.S.C. 355(j)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim)), prior approval supplements that were submitted, and drug master files for Type II active pharmaceutical ingredients that were first referenced on or after October 1, 2012, but before October 1, 2017, with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018.”
+
+#### Finding of 2017 Amendment
+Pub. L. 115–52, title III, § 301(b), Aug. 18, 2017, 131 Stat. 1020, provided that: “The Congress finds that the fees authorized by the amendments made in this title [amending this section and sections 379j–42 and 379j–43 of this title and repealing provisions set out as notes under this section and [section 379j–43 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-43)] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–41](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41) et seq.], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
+
+#### Finding of 2012 Amendment
 Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided that: “The Congress finds that the fees authorized by the amendments made in this title [enacting this section and sections 379d–4, 379j–42, and 379j–43 of this title and amending sections 352 and 379d–3 of this title] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
 
 <a id="section-379j-42"></a>
 ## § 379j–42. Authority to assess and use human generic drug fees
-**(a) Types of fees** Beginning in fiscal year 2013, the Secretary shall assess and collect fees in accordance with this section as follows:
+**(a) Types of fees** Beginning in fiscal year 2018, the Secretary shall assess and collect fees in accordance with this section as follows:
 
 (1) **One-time backlog fee for abbreviated new drug applications pending on October 1, 2012**
 
@@ -22971,17 +24638,15 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
   (D) *Fee due date* — The fee required by subparagraph (A) shall be due no later than 30 calendar days after the date of the publication of the notice specified in subparagraph (C).
 
+  (E) *Sunset* — This paragraph shall cease to be effective October 1, 2022.
+
 (2) **Drug master file fee**
 
   (A) *In general* — Each person that owns a Type II active pharmaceutical ingredient drug master file that is referenced on or after October 1, 2012, in a generic drug submission by any initial letter of authorization shall be subject to a drug master file fee.
 
   (B) *One-time payment* — If a person has paid a drug master file fee for a Type II active pharmaceutical ingredient drug master file, the person shall not be required to pay a subsequent drug master file fee when that Type II active pharmaceutical ingredient drug master file is subsequently referenced in generic drug submissions.
 
-  (C) *Notice*
-
-    (i) *Fiscal year 2013* — Not later than October 31, 2012, the Secretary shall publish in the Federal Register a notice announcing the amount of the drug master file fee for fiscal year 2013.
-
-    (ii) *Fiscal year 2014 through 2017* — Not later than 60 days before the start of each of fiscal years 2014 through 2017, the Secretary shall publish in the Federal Register the amount of the drug master file fee established by this paragraph for such fiscal year.
+  (C) *Notice* — Not later than 60 days before the start of each of fiscal years 2018 through 2022, the Secretary shall publish in the Federal Register the amount of the drug master file fee established by this paragraph for such fiscal year.
 
   (D) *Availability for reference*
 
@@ -22997,41 +24662,35 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
   (E) *Fee due date*
 
-    (i) *In general* — Subject to clause (ii), a drug master file fee shall be due no later than the date on which the first generic drug submission is submitted that references the associated Type II active pharmaceutical ingredient drug master file.
+    (i) *In general* — Subject to clause (ii), a drug master file fee shall be due on the earlier of—
+
+      (I) the date on which the first generic drug submission is submitted that references the associated Type II active pharmaceutical ingredient drug master file; or
+
+      (II) the date on which the drug master file holder requests the initial completeness assessment.
 
     (ii) *Limitation* — No fee shall be due under subparagraph (A) for a fiscal year until the later of—
 
-      (I) 30 calendar days after publication of the notice provided for in clause (i) or (ii) of subparagraph (C), as applicable; or
+      (I) 30 calendar days after publication of the notice provided for in subparagraph (C); or
 
       (II) 30 calendar days after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section.
 
-(3) **Abbreviated new drug application and prior approval supplement filing fee**
+(3) **Abbreviated new drug application filing fee**
 
-  (A) *In general* — Each applicant that submits, on or after October 1, 2012, an abbreviated new drug application or a prior approval supplement to an abbreviated new drug application shall be subject to a fee for each such submission in the amount established under subsection (d).
+  (A) *In general* — Each applicant that submits, on or after October 1, 2012, an abbreviated new drug application shall be subject to a fee for each such submission in the amount established under subsection (d).
 
-  (B) *Notice*
+  (B) *Notice* — Not later than 60 days before the start of each of fiscal years 2018 through 2022, the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
-    (i) *Fiscal year 2013* — Not later than October 31, 2012, the Secretary shall publish in the Federal Register a notice announcing the amount of the fees under subparagraph (A) for fiscal year 2013.
+  (C) *Fee due date* — The fees required by subparagraphs (A) and (F) shall be due no later than the date of submission of the abbreviated new drug application or prior approval supplement for which such fee applies.
 
-    (ii) *Fiscal years 2014 through 2017* — Not later than 60 days before the start of each of fiscal years 2014 through 2017, the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
+  (D) *Refund of fee if abbreviated new drug application is not considered to have been received, is withdrawn prior to being received, or is no longer received*
 
-  (C) *Fee due date*
+    (i) *Applications not considered to have been received and applications withdrawn prior to being received* — The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any abbreviated new drug application that the Secretary considers not to have been received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) for a cause other than failure to pay fees, or that has been withdrawn prior to being received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim).
 
-    (i) *In general* — Except as provided in clause (ii), the fees required by subparagraphs (A) and (F) shall be due no later than the date of submission of the abbreviated new drug application or prior approval supplement for which such fee applies.
+    (ii) *Applications no longer received* — The Secretary shall refund 100 percent of the fee paid under subparagraph (A) for any abbreviated new drug application if the Secretary initially receives the application under [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) and subsequently determines that an exclusivity period for a listed drug should have prevented the Secretary from receiving such application, such that the abbreviated new drug application is no longer received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim).
 
-    (ii) *Special rule for 2013* — For fiscal year 2013, such fees shall be due on the later of—
+  (E) *Fee for an application the Secretary considers not to have been received, or that has been withdrawn* — An abbreviated new drug application that was submitted on or after October 1, 2012, and that the Secretary considers not to have been received, or that has been withdrawn, shall, upon resubmission of the application or a subsequent new submission following the applicant’s withdrawal of the application, be subject to a full fee under subparagraph (A).
 
-      (I) the date on which the fee is due under clause (i);
-
-      (II) 30 calendar days after publication of the notice referred to in subparagraph (B)(i); or
-
-      (III) if an appropriations Act is not enacted providing for the collection and obligation of fees for such year under this section by the date of submission of the application or prior approval supplement for which the fees under subparagraphs (A) and (F) apply, 30 calendar days after the date that such an appropriations Act is enacted.
-
-  (D) *Refund of fee if abbreviated new drug application is not considered to have been received* — The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any abbreviated new drug application or prior approval supplement to an abbreviated new drug application that the Secretary considers not to have been received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) for a cause other than failure to pay fees.
-
-  (E) *Fee for an application the Secretary considers not to have been received, or that has been withdrawn* — An abbreviated new drug application or prior approval supplement that was submitted on or after October 1, 2012, and that the Secretary considers not to have been received, or that has been withdrawn, shall, upon resubmission of the application or a subsequent new submission following the applicant’s withdrawal of the application, be subject to a full fee under subparagraph (A).
-
-  (F) *Additional fee for active pharmaceutical ingredient information not included by reference to Type II active pharmaceutical ingredient drug master file* — An applicant that submits a generic drug submission on or after October 1, 2012, shall pay a fee, in the amount determined under subsection (d)(3), in addition to the fee required under subparagraph (A), if—
+  (F) *Additional fee for active pharmaceutical ingredient information not included by reference to Type II active pharmaceutical ingredient drug master file* — An applicant that submits a generic drug submission on or after October 1, 2017, shall pay a fee, in the amount determined under subsection (d)(2), in addition to the fee required under subparagraph (A), if—
 
     (i) such submission contains information concerning the manufacture of an active pharmaceutical ingredient at a facility by means other than reference by a letter of authorization to a Type II active pharmaceutical drug master file; and
 
@@ -23039,37 +24698,39 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
 (4) **Generic drug facility fee and active pharmaceutical ingredient facility fee**
 
-  (A) *In general* — Facilities identified, or intended to be identified, in at least one generic drug submission that is pending or approved to produce a finished dosage form of a human generic drug or an active pharmaceutical ingredient contained in a human generic drug shall be subject to fees as follows:
+  (A) *In general* — Facilities identified in at least one generic drug submission that is approved to produce a finished dosage form of a human generic drug or an active pharmaceutical ingredient contained in a human generic drug shall be subject to fees as follows:
 
-    (i) *Generic drug facility* — Each person that owns a facility which is identified or intended to be identified in at least one generic drug submission that is pending or approved to produce one or more finished dosage forms of a human generic drug shall be assessed an annual fee for each such facility.
+    (i) *Generic drug facility* — Each person that owns a facility which is identified in at least one generic drug submission that is approved to produce one or more finished dosage forms of a human generic drug shall be assessed an annual fee for each such facility.
 
-    (ii) *Active pharmaceutical ingredient facility* — Each person that owns a facility which produces, or which is pending review to produce, one or more active pharmaceutical ingredients identified, or intended to be identified, in at least one generic drug submission that is pending or approved or in a Type II active pharmaceutical ingredient drug master file referenced in such a generic drug submission, shall be assessed an annual fee for each such facility.
+    (ii) *Active pharmaceutical ingredient facility* — Each person that owns a facility which is identified in at least one generic drug submission in which the facility is approved to produce one or more active pharmaceutical ingredients or in a Type II active pharmaceutical ingredient drug master file referenced in at least one such generic drug submission, shall be assessed an annual fee for each such facility.
 
-    (iii) *Facilities producing both active pharmaceutical ingredients and finished dosage forms* — Each person that owns a facility identified, or intended to be identified, in at least one generic drug submission that is pending or approved to produce both one or more finished dosage forms subject to clause (i) and one or more active pharmaceutical ingredients subject to clause (ii) shall be subject to fees under both such clauses for that facility.
+    (iii) *Facilities producing both active pharmaceutical ingredients and finished dosage forms* — Each person that owns a facility identified in at least one generic drug submission that is approved to produce both one or more finished dosage forms subject to clause (i) and one or more active pharmaceutical ingredients subject to clause (ii) shall be subject only to the fee attributable to the manufacture of the finished dosage forms for that facility.
 
   (B) *Amount* — The amount of fees established under subparagraph (A) shall be established under subsection (d).
 
-  (C) *Notice*
+  (C) *Notice* — Within the timeframe specified in subsection (d)(1), the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
-    (i) *Fiscal year 2013* — For fiscal year 2013, the Secretary shall publish in the Federal Register a notice announcing the amount of the fees provided for in subparagraph (A) within the timeframe specified in subsection (d)(1)(B).
+  (D) *Fee due date* — For each of fiscal years 2018 through 2022, the fees under subparagraph (A) for such fiscal year shall be due on the later of—
 
-    (ii) *Fiscal years 2014 through 2017* — Within the timeframe specified in subsection (d)(2), the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
+    (i) the first business day on or after October 1 of each such year; or
 
-  (D) *Fee due date*
+    (ii) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section for such year.
 
-    (i) *Fiscal year 2013* — For fiscal year 2013, the fees under subparagraph (A) shall be due on the later of—
+(5) **Generic drug applicant program fee**
 
-      (I) not later than 45 days after the publication of the notice under subparagraph (B); or
+  (A) *In general* — A generic drug applicant program fee shall be assessed annually as described in subsection (b)(2)(E).
 
-      (II) if an appropriations Act is not enacted providing for the collection and obligation of fees for such year under this section by the date of the publication of such notice, 30 days after the date that such an appropriations Act is enacted.
+  (B) *Amount* — The amount of fees established under subparagraph (A) shall be established under subsection (d).
 
-    (ii) *Fiscal years 2014 through 2017* — For each of fiscal years 2014 through 2017, the fees under subparagraph (A) for such fiscal year shall be due on the later of—
+  (C) *Notice* — Within the timeframe specified in subsection (d)(1), the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
-      (I) the first business day on or after October 1 of each such year; or
+  (D) *Fee due date* — For each of fiscal years 2018 through 2022, the fees under subparagraph (A) for such fiscal year shall be due on the later of—
 
-      (II) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section for such year.
+    (i) the first business day on or after October 1 of each such fiscal year; or
 
-(5) **Date of submission** — For purposes of this chapter, a generic drug submission or Type II pharmaceutical master file is deemed to be “submitted” to the Food and Drug Administration—
+    (ii) the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section for such fiscal year.
+
+(6) **Date of submission** — For purposes of this chapter, a generic drug submission or Type II pharmaceutical master file is deemed to be “submitted” to the Food and Drug Administration—
 
   (A) if it is submitted via a Food and Drug Administration electronic gateway, on the day when transmission to that electronic gateway is completed, except that a submission or master file that arrives on a weekend, Federal holiday, or day when the Food and Drug Administration office that will review that submission is not otherwise open for business shall be deemed to be submitted on the next day when that office is open for business; or
 
@@ -23079,48 +24740,49 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
 (1) **In general**
 
-  (A) *Fiscal year 2013* — For fiscal year 2013, fees under subsection (a) shall be established to generate a total estimated revenue amount under such subsection of $299,000,000. Of that amount—
+  (A) *Fiscal year 2018* — For fiscal year 2018, fees under subsection (a) shall be established to generate a total estimated revenue amount under such subsection of $493,600,000.
 
-    (i) $50,000,000 shall be generated by the one-time backlog fee for generic drug applications pending on October 1, 2012, established in subsection (a)(1); and
+  (B) *Fiscal years 2019 through 2022* — For each of the fiscal years 2019 through 2022, fees under paragraphs (2) through (5) of subsection (a) shall be established to generate a total estimated revenue amount under such subsection that is equal to $493,600,000, as adjusted pursuant to subsection (c).
 
-    (ii) $249,000,000 shall be generated by the fees under paragraphs (2) through (4) of subsection (a).
+(2) **Types of fees** — In establishing fees under paragraph (1) to generate the revenue amounts specified in such paragraph for a fiscal year, such fees shall be derived from the fees under paragraphs (2) through (5) of subsection (a) as follows:
 
-  (B) *Fiscal years 2014 through 2017* — For each of the fiscal years 2014 through 2017, fees under paragraphs (2) through (4) of subsection (a) shall be established to generate a total estimated revenue amount under such subsection that is equal to $299,000,000, as adjusted pursuant to subsection (c).
+  (A) Five percent shall be derived from fees under subsection (a)(2) (relating to drug master files).
 
-(2) **Types of fees** — In establishing fees under paragraph (1) to generate the revenue amounts specified in paragraph (1)(A)(ii) for fiscal year 2013 and paragraph (1)(B) for each of fiscal years 2014 through 2017, such fees shall be derived from the fees under paragraphs (2) through (4) of subsection (a) as follows:
+  (B) Thirty-three percent shall be derived from fees under subsection (a)(3) (relating to abbreviated new drug applications).
 
-  (A) Six percent shall be derived from fees under subsection (a)(2) (relating to drug master files).
+  (C) Twenty percent shall be derived from fees under subsection (a)(4)(A)(i) (relating to generic drug facilities). The amount of the fee for a contract manufacturing organization facility shall be equal to one-third the amount of the fee for a facility that is not a contract manufacturing organization facility. The amount of the fee for a facility located outside the United States and its territories and possessions shall be $15,000 higher than the amount of the fee for a facility located in the United States and its territories and possessions.
 
-  (B) Twenty-four percent shall be derived from fees under subsection (a)(3) (relating to abbreviated new drug applications and supplements). The amount of a fee for a prior approval supplement shall be half the amount of the fee for an abbreviated new drug application.
+  (D) Seven percent shall be derived from fees under subsection (a)(4)(A)(ii) (relating to active pharmaceutical ingredient facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be $15,000 higher than the amount of the fee for a facility located in the United States, including its territories and possessions.
 
-  (C) Fifty-six percent shall be derived from fees under subsection (a)(4)(A)(i) (relating to generic drug facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility located in the United States and its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States, including its territories and possessions, and those located outside of the United States and its territories and possessions.
+  (E)
 
-  (D) Fourteen percent shall be derived from fees under subsection (a)(4)(A)(ii) (relating to active pharmaceutical ingredient facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility located in the United States, including its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States and its territories and possessions and those located outside of the United States and its territories and possessions.
+    (i) Thirty-five percent shall be derived from fees under subsection (a)(5) (relating to generic drug applicant program fees). For purposes of this subparagraph, if a person has affiliates, a single program fee shall be assessed with respect to that person, including its affiliates, and may be paid by that person or any one of its affiliates. The Secretary shall determine the fees as follows:
+
+      (I) If a person (including its affiliates) owns at least one but not more than 5 approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a small business generic drug applicant program fee equal to one-tenth of the large size operation generic drug applicant program fee.
+
+      (II) If a person (including its affiliates) owns at least 6 but not more than 19 approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a medium size operation generic drug applicant program fee equal to two-fifths of the large size operation generic drug applicant program fee.
+
+      (III) If a person (including its affiliates) owns 20 or more approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a large size operation generic drug applicant program fee.
+
+    (ii) For purposes of this subparagraph, an abbreviated new drug application shall be deemed not to be approved if the applicant has submitted a written request for withdrawal of approval of such abbreviated new drug application by April 1 of the previous fiscal year.
 
 **(c) Adjustments**
 
-(1) **Inflation adjustment** — For fiscal year 2014 and subsequent fiscal years, the revenues established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, by an amount equal to the sum of—
+(1) **Inflation adjustment** — For fiscal year 2019 and subsequent fiscal years, the revenues established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, to equal the product of the total revenues established in such notice for the prior fiscal year multiplied by an amount equal to the sum of—
 
   (A) one;
 
   (B) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years multiplied by the proportion of personnel compensation and benefits costs to total costs of human generic drug activities for the first 3 years of the preceding 4 fiscal years; and
 
   (C) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of human generic drug activities for the first 3 years of the preceding 4 fiscal years.
-  The adjustment made each fiscal year under this subsection shall be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2013 under this subsection.
 
-(2) **Final year adjustment** — For fiscal year 2017, the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenues and fees established in subsection (b) if such an adjustment is necessary to provide for not more than 3 months of operating reserves of carryover user fees for human generic drug activities for the first 3 months of fiscal year 2018. Such fees may only be used in fiscal year 2018. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2017. If the Secretary has carryover balances for such activities in excess of 3 months of such operating reserves, the adjustment under this subparagraph shall not be made.
+(2) **Final year adjustment** — For fiscal year 2022, the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenues and fees established in subsection (b) if such an adjustment is necessary to provide for not more than 3 months of operating reserves of carryover user fees for human generic drug activities for the first 3 months of fiscal year 2023. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2022. If the Secretary has carryover balances for such activities in excess of 3 months of such operating reserves, the adjustment under this subparagraph shall not be made.
 
 **(d) Annual fee setting**
 
-(1) **Fiscal year 2013** — For fiscal year 2013—
+(1) **Fiscal years 2018 through 2022** — Not more than 60 days before the first day of each of fiscal years 2018 through 2022, the Secretary shall establish the fees described in paragraphs (2) through (5) of subsection (a), based on the revenue amounts established under subsection (b) and the adjustments provided under subsection (c).
 
-  (A) the Secretary shall establish, by October 31, 2012, the one-time generic drug backlog fee for generic drug applications pending on October 1, 2012, the drug master file fee, the abbreviated new drug application fee, and the prior approval supplement fee under subsection (a), based on the revenue amounts established under subsection (b); and
-
-  (B) the Secretary shall establish, not later than 45 days after the date to comply with the requirement for identification of facilities in subsection (f)(2), the generic drug facility fee and active pharmaceutical ingredient facility fee under subsection (a) based on the revenue amounts established under subsection (b).
-
-(2) **Fiscal years 2014 through 2017** — Not more than 60 days before the first day of each of fiscal years 2014 through 2017, the Secretary shall establish the drug master file fee, the abbreviated new drug application fee, the prior approval supplement fee, the generic drug facility fee, and the active pharmaceutical ingredient facility fee under subsection (a) for such fiscal year, based on the revenue amounts established under subsection (b) and the adjustments provided under subsection (c).
-
-(3) **Fee for active pharmaceutical ingredient information not included by reference to Type II active pharmaceutical ingredient drug master file** — In establishing the fees under paragraphs (1) and (2), the amount of the fee under subsection (a)(3)(F) shall be determined by multiplying—
+(2) **Fee for active pharmaceutical ingredient information not included by reference to Type II active pharmaceutical ingredient drug master file** — In establishing the fee under paragraph (1), the amount of the fee under subsection (a)(3)(F) shall be determined by multiplying—
 
   (A) the sum of—
 
@@ -23130,31 +24792,31 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
   (B) the amount equal to the drug master file fee established in subsection (a)(2) for such submission.
 
-**(e) Limit** The total amount of fees charged, as adjusted under subsection (c), for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for human generic drug activities.
+**(e) Limitations**
+
+(1) **In general** — The total amount of fees charged, as adjusted under subsection (c), for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for human generic drug activities.
+
+(2) **Leasing and necessary equipment** — Beginning on October 1, 2023, the authorities under section 379j–41(11)(C) 11 See References in Text note below. of this title shall include only leasing and necessary scientific equipment.
 
 **(f) Identification of facilities**
 
-(1) **Publication of notice; deadline for compliance** — Not later than October 1, 2012, the Secretary shall publish in the Federal Register a notice requiring each person that owns a facility described in subsection (a)(4)(A), or a site or organization required to be identified by paragraph (4), to submit to the Secretary information on the identity of each such facility, site, or organization. The notice required by this paragraph shall specify the type of information to be submitted and the means and format for submission of such information.
+(1) **Required submission of facility identification** — Each person that owns a facility described in subsection (a)(4)(A) or a site or organization required to be identified by paragraph (3) shall submit to the Secretary the information required under this subsection each year. Such information shall, for each fiscal year, be submitted, updated, or reconfirmed on or before June 1 of the previous fiscal year.
 
-(2) **Required submission of facility identification** — Each person that owns a facility described in subsection (a)(4)(A) or a site or organization required to be identified by paragraph (4) shall submit to the Secretary the information required under this subsection each year. Such information shall—
+(2) **Information required to be submitted** — At a minimum, the submission required by paragraph (1) shall include for each such facility—
 
-  (A) for fiscal year 2013, be submitted not later than 60 days after the publication of the notice under paragraph (1); and
-
-  (B) for each subsequent fiscal year, be submitted, updated, or reconfirmed on or before June 1 of the previous year.
-
-(3) **Contents of notice** — At a minimum, the submission required by paragraph (2) shall include for each such facility—
-
-  (A) identification of a facility identified or intended to be identified in an approved or pending generic drug submission;
+  (A) identification of a facility identified in an approved or pending generic drug submission;
 
   (B) whether the facility manufactures active pharmaceutical ingredients or finished dosage forms, or both;
 
   (C) whether or not the facility is located within the United States and its territories and possessions;
 
-  (D) whether the facility manufactures positron emission tomography drugs solely, or in addition to other drugs; and
+  (D) whether the facility manufactures positron emission tomography drugs solely, or in addition to other drugs;
 
-  (E) whether the facility manufactures drugs that are not generic drugs.
+  (E) whether the facility manufactures drugs that are not generic drugs; and
 
-(4) **Certain sites and organizations**
+  (F) whether the facility is a contract manufacturing organization facility.
+
+(3) **Certain sites and organizations**
 
   (A) *In general* — Any person that owns or operates a site or organization described in subparagraph (B) shall submit to the Secretary information concerning the ownership, name, and address of the site or organization.
 
@@ -23174,7 +24836,7 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
 **(g) Effect of failure to pay fees**
 
-(1) **Generic drug backlog fee** — Failure to pay the fee under subsection (a)(1) shall result in the Secretary placing the person that owns the abbreviated new drug application subject to that fee on a publicly available arrears list, such that no new abbreviated new drug applications or supplement submitted on or after October 1, 2012, from that person, or any affiliate of that person, will be received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) until such outstanding fee is paid.
+(1) **Generic drug backlog fee** — Failure to pay the fee under subsection (a)(1) shall result in the Secretary placing the person that owns the abbreviated new drug application subject to that fee on a publicly available arrears list, such that no new abbreviated new drug applications or supplement submitted on or after October 1, 2012, from that person, or any affiliate of that person, will be received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) until such outstanding fee is paid. This paragraph shall cease to be effective on October 1, 2022.
 
 (2) **Drug master file fee**
 
@@ -23190,7 +24852,7 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
     (i) If an abbreviated new drug application or supplement to an abbreviated new drug application references a Type II active pharmaceutical ingredient drug master file for which a fee under subsection (a)(2)(A) has not been paid by the applicable date under subsection (a)(2)(E), the Secretary shall notify the sponsor of the abbreviated new drug application or supplement of the failure of the owner of the Type II active pharmaceutical ingredient drug master file to pay the applicable fee.
 
-    (ii) If such fee is not paid within 20 calendar days of the Secretary providing the notification, the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of 355(j)(5)(A) of this title.
+    (ii) If such fee is not paid within 20 calendar days of the Secretary providing the notification, the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim).
 
 (3) **Abbreviated new drug application fee and prior approval supplement fee** — Failure to pay a fee under subparagraph (A) or (F) of subsection (a)(3) within 20 calendar days of the applicable due date under subparagraph (C) of such subsection shall result in the abbreviated new drug application or the prior approval supplement to an abbreviated new drug application not being received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) until such outstanding fee is paid.
 
@@ -23212,11 +24874,23 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
     (ii) *Nonreceival* — If the facility fee is not paid within 20 calendar days of the Secretary providing the notification under clause (i), the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim).
 
+(5) **Generic drug applicant program fee**
+
+  (A) *In general* — A person who fails to pay a fee as required under subsection (a)(5) by the date that is 20 calendar days after the due date, as specified in subparagraph (D) of such subsection, shall be subject to the following:
+
+    (i) The Secretary shall place the person on a publicly available arrears list.
+
+    (ii) Any abbreviated new drug application submitted by the generic drug applicant or an affiliate of such applicant shall not be received, within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim).
+
+    (iii) All drugs marketed pursuant to any abbreviated new drug application held by such applicant or an affiliate of such applicant shall be deemed misbranded under [section 352(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section352/aa&num=0&edition=prelim).
+
+  (B) *Application of penalties* — The penalties under subparagraph (A) shall apply until the fee required under subsection (a)(5) is paid.
+
 **(h) Limitations**
 
 (1) **In general** — Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 2012, unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor (as defined in [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41)) applicable to the fiscal year involved.
 
-(2) **Authority** — If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for Type II active pharmaceutical ingredient drug master files, abbreviated new drug applications and prior approval supplements, and generic drug facilities and active pharmaceutical ingredient facilities at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+(2) **Authority** — If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 **(i) Crediting and availability of fees**
 
@@ -23226,17 +24900,15 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
   (A) *In general* — The fees authorized by this section—
 
-    (i) subject to subparagraphs (C) and (D), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year; and
+    (i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year; and
 
     (ii) shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of human generic drug activities (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such activities), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $97,000,000 multiplied by the adjustment factor defined in [section 379j–41(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–41/3&num=0&edition=prelim) applicable to the fiscal year involved.
 
   (B) *Compliance* — The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for human generic activities are not more than 10 percent below the level specified in such subparagraph.
 
-  (C) *Fee collection during first program year* — Until the date of enactment of an Act making appropriations through September 30, 2013, for the salaries and expenses account of the Food and Drug Administration, fees authorized by this section for fiscal year 2013 may be collected and shall be credited to such account and remain available until expended.
+  (C) *Provision for early payments* — Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
 
-  (D) *Provision for early payments in subsequent years* — Payment of fees authorized under this section for a fiscal year (after fiscal year 2013), prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
-
-(3) **Authorization of appropriations** — For each of the fiscal years 2013 through 2017, there is authorized to be appropriated for fees under this section an amount equivalent to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted under subsection (c), if applicable, or as otherwise affected under paragraph (2) of this subsection.
+(3) **Authorization of appropriations** — For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equivalent to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted under subsection (c), if applicable, or as otherwise affected under paragraph (2) of this subsection.
 
 **(j) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 calendar days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
@@ -23252,18 +24924,138 @@ Pub. L. 112–144, title III, § 301(b), July 9, 2012, 126 Stat. 1008, provided 
 
 **(n) Substantially complete applications** An abbreviated new drug application that is not considered to be received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) because of failure to pay an applicable fee under this provision within the time period specified in subsection (g) shall be deemed not to have been “substantially complete” on the date of its submission within the meaning of [section 355(j)(5)(B)(iv)(II)(cc) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B/iv/II/cc&num=0&edition=prelim). An abbreviated new drug application that is not substantially complete on the date of its submission solely because of failure to pay an applicable fee under the preceding sentence shall be deemed substantially complete and received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) as of the date such applicable fee is received.
 
+**(o) Information on abbreviated new drug applications owned by applicants and their affiliates**
+
+(1) **In general** — By April 1 of each year, each person that owns an abbreviated new drug application, or a designated affiliate of such person, shall submit, on behalf of the person and the affiliates of such person, to the Secretary a list of—
+
+  (A) all approved abbreviated new drug applications owned by such person; and
+
+  (B) if any affiliate of such person also owns an abbreviated new drug application, all affiliates that own any such abbreviated new drug application and all approved abbreviated new drug applications owned by any such affiliate.
+
+(2) **Format and method** — The Secretary shall specify in guidance the format and method for submission of lists under this subsection.
+
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 304(a) of Pub. L. 112–144, see Effective and Termination Dates note below.
+For termination of section by section 305(a) of Pub. L. 115–52, see Effective and Termination Dates note below.
+
+#### References in Text
+Section 379j–41(11)(C), referred to in subsec. (e)(2), was redesignated section 379j–41(12)(C) by Pub. L. 115–52, title III, § 302(2), Aug. 18, 2017, 131 Stat. 1020.
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–52, § 303(a)(1), substituted “fiscal year 2018” for “fiscal year 2013” in introductory provisions.
+
+Subsec. (a)(1)(E). Pub. L. 115–52, § 303(a)(2), added subpar. (E).
+
+Subsec. (a)(2)(C). Pub. L. 115–52, § 303(a)(3)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to publication of notice for fiscal years 2013 to 2017.
+
+Subsec. (a)(2)(E)(i). Pub. L. 115–52, § 303(a)(3)(B)(i), substituted “on the earlier of—” for “no later than”, inserted subcl. (I) designation before “the date”, substituted “; or” for period at end, and added subcl. (II).
+
+Subsec. (a)(2)(E)(ii)(I). Pub. L. 115–52, § 303(a)(3)(B)(ii), substituted “notice provided for in subparagraph (C)” for “notice provided for in clause (i) or (ii) of subparagraph (C), as applicable”.
+
+Subsec. (a)(3). Pub. L. 115–52, § 303(a)(4)(A), struck out “and prior approval supplement” after “application” in heading.
+
+Subsec. (a)(3)(A). Pub. L. 115–52, § 303(a)(4)(B), struck out “or a prior approval supplement to an abbreviated new drug application” after “application”.
+
+Subsec. (a)(3)(B), (C). Pub. L. 115–52, § 303(a)(4)(C), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) related to notice for fiscal years 2013 to 2017 and fee due dates, respectively.
+
+Subsec. (a)(3)(D). Pub. L. 115–52, § 303(a)(4)(D), inserted in heading “, is withdrawn prior to being received, or is no longer received” after “received” and in text substituted cls. (i) and (ii) for “The Secretary shall refund 75 percent of the fee paid under subparagraph (A) for any abbreviated new drug application or prior approval supplement to an abbreviated new drug application that the Secretary considers not to have been received within the meaning of [section 355(j)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/A&num=0&edition=prelim) for a cause other than failure to pay fees.”
+
+Subsec. (a)(3)(E). Pub. L. 115–52, § 303(a)(4)(E), struck out “or prior approval supplement” after “new drug application”.
+
+Subsec. (a)(3)(F). Pub. L. 115–52, § 303(a)(4)(F), substituted “2017” for “2012” and “subsection (d)(2)” for “subsection (d)(3)” in introductory provisions.
+
+Subsec. (a)(4)(A). Pub. L. 115–52, § 303(a)(5)(A)(i), substituted “in at least one generic drug submission that is” for “, or intended to be identified, in at least one generic drug submission that is pending or” in introductory provisions.
+
+Subsec. (a)(4)(A)(i). Pub. L. 115–52, § 303(a)(5)(A)(ii), substituted “in at least one generic drug submission that is” for “or intended to be identified in at least one generic drug submission that is pending or”.
+
+Subsec. (a)(4)(A)(ii). Pub. L. 115–52, § 303(a)(5)(A)(iii), substituted “is identified in at least one generic drug submission in which the facility is approved to produce one or more active pharmaceutical ingredients or in a Type II active pharmaceutical ingredient drug master file referenced in at least one such” for “produces, or which is pending review to produce, one or more active pharmaceutical ingredients identified, or intended to be identified, in at least one generic drug submission that is pending or approved or in a Type II active pharmaceutical ingredient drug master file referenced in such a”.
+
+Subsec. (a)(4)(A)(iii). Pub. L. 115–52, § 303(a)(5)(A)(i), (iv), substituted “in at least one generic drug submission that is” for “, or intended to be identified, in at least one generic drug submission that is pending or” and “only to the fee attributable to the manufacture of the finished dosage forms” for “to fees under both such clauses”.
+
+Subsec. (a)(4)(C), (D). Pub. L. 115–52, § 303(a)(5)(B), amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) related to notice and fee due date for fiscal years 2013 to 2017, respectively.
+
+Subsec. (a)(5), (6). Pub. L. 115–52, § 303(a)(6), (7), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (b)(1)(A). Pub. L. 115–52, § 303(b)(1)(A), substituted “2018” for “2013” in heading and “2018” for “2013” and “$493,600,000” for “$299,000,000” in text and struck out at end “Of that amount—
+
+“(i) $50,000,000 shall be generated by the one-time backlog fee for generic drug applications pending on October 1, 2012, established in subsection (a)(1); and
+
+“(ii) $249,000,000 shall be generated by the fees under paragraphs (2) through (4) of subsection (a).”
+
+Subsec. (b)(1)(B). Pub. L. 115–52, § 303(b)(1)(B), substituted “2019 through 2022” for “2014 through 2017” in heading and “2019 through 2022” for “2014 through 2017”, “paragraphs (2) through (5)” for “paragraphs (2) through (4)”, and “$493,600,000” for “$299,000,000” in text.
+
+Subsec. (b)(2). Pub. L. 115–52, § 303(b)(2)(A), substituted “such paragraph for a fiscal year” for “paragraph (1)(A)(ii) for fiscal year 2013 and paragraph (1)(B) for each of fiscal years 2014 through 2017” and “through (5)” for “through (4)” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 115–52, § 303(b)(2)(B), substituted “Five percent” for “Six percent”.
+
+Subsec. (b)(2)(B), (C). Pub. L. 115–52, § 303(b)(2)(C), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
+
+“(B) Twenty-four percent shall be derived from fees under subsection (a)(3) (relating to abbreviated new drug applications and supplements). The amount of a fee for a prior approval supplement shall be half the amount of the fee for an abbreviated new drug application.
+
+“(C) Fifty-six percent shall be derived from fees under subsection (a)(4)(A)(i) (relating to generic drug facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility located in the United States and its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States, including its territories and possessions, and those located outside of the United States and its territories and possessions.”
+
+Subsec. (b)(2)(D). Pub. L. 115–52, § 303(b)(2)(D), substituted “Seven percent” for “Fourteen percent”, “$15,000” for “not less than $15,000 and not more than $30,000”, and “possessions.” for “possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States and its territories and possessions and those located outside of the United States and its territories and possessions.”
+
+Subsec. (b)(2)(E). Pub. L. 115–52, § 303(b)(2)(E), added subpar. (E).
+
+Subsec. (c)(1). Pub. L. 115–52, § 303(c)(1), substituted “2019” for “2014” and inserted “to equal the product of the total revenues established in such notice for the prior fiscal year multiplied” after “a fiscal year,” in introductory provisions and struck out concluding provisions which read as follows: “The adjustment made each fiscal year under this subsection shall be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2013 under this subsection.”
+
+Subsec. (c)(2). Pub. L. 115–52, § 303(c)(2), substituted “2022” for “2017” in two places, substituted “the first 3 months of fiscal year 2023” for “the first 3 months of fiscal year 2018”, and struck out “Such fees may only be used in fiscal year 2018.” before “If such an adjustment”.
+
+Subsec. (d)(1). Pub. L. 115–52, § 303(d)(1), added par. (1) and struck out former par. (1) which related to setting fees for fiscal year 2013.
+
+Subsec. (d)(2), (3). Pub. L. 115–52, § 303(d), redesignated par. (3) as (2), substituted “fee under paragraph (1)” for “fees under paragraphs (1) and (2)” in introductory provisions, and struck out former par. (2) which related to setting fees for fiscal years 2014 through 2017.
+
+Subsec. (e). Pub. L. 115–52, § 905(b)(3), substituted “Limitations” for “Limit” in heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+
+Subsec. (f)(1). Pub. L. 115–52, § 303(e)(3), substituted “paragraph (3)” for “paragraph (4)” and “Such information shall, for each fiscal year, be submitted, updated, or reconfirmed on or before June 1 of the previous fiscal year.” for “Such information shall—
+
+“(A) for fiscal year 2013, be submitted not later than 60 days after the publication of the notice under paragraph (1); and
+
+“(B) for each subsequent fiscal year, be submitted, updated, or reconfirmed on or before June 1 of the previous year.”
+
+Pub. L. 115–52, § 303(e)(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “Not later than October 1, 2012, the Secretary shall publish in the Federal Register a notice requiring each person that owns a facility described in subsection (a)(4)(A), or a site or organization required to be identified by paragraph (4), to submit to the Secretary information on the identity of each such facility, site, or organization. The notice required by this paragraph shall specify the type of information to be submitted and the means and format for submission of such information.”
+
+Subsec. (f)(2). Pub. L. 115–52, § 303(e)(4)(A), (B), substituted “Information required to be submitted” for “Contents of notice” in heading and “paragraph (1)” for “paragraph (2)” in introductory provisions.
+
+Pub. L. 115–52, § 303(e)(2), redesignated par. (3) as (2). Former par. (2) redesignated (1).
+
+Subsec. (f)(2)(A). Pub. L. 115–52, § 303(e)(4)(C), struck out “or intended to be identified” after “facility identified”.
+
+Subsec. (f)(2)(F). Pub. L. 115–52, § 303(e)(4)(D)–(F), added subpar. (F).
+
+Subsec. (f)(3), (4). Pub. L. 115–52, § 303(e)(2), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Subsec. (g)(1). Pub. L. 115–52, § 303(f)(1), inserted at end “This paragraph shall cease to be effective on October 1, 2022.”
+
+Subsec. (g)(2)(C)(ii). Pub. L. 115–52, § 303(f)(2), substituted “of section 355(j)(5)(A)” for “of 355(j)(5)(A)”.
+
+Subsec. (g)(5). Pub. L. 115–52, § 303(f)(3), added par. (5).
+
+Subsec. (h)(2). Pub. L. 115–52, § 303(g), struck out “for Type II active pharmaceutical ingredient drug master files, abbreviated new drug applications and prior approval supplements, and generic drug facilities and active pharmaceutical ingredient facilities” after “in the rate,”.
+
+Subsec. (i)(2)(A)(i). Pub. L. 115–52, § 303(h)(1)(A), substituted “subparagraph (C)” for “subparagraphs (C) and (D)”.
+
+Subsec. (i)(2)(C). Pub. L. 115–52, § 303(h)(1)(B), (D), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: “Until the date of enactment of an Act making appropriations through September 30, 2013, for the salaries and expenses account of the Food and Drug Administration, fees authorized by this section for fiscal year 2013 may be collected and shall be credited to such account and remain available until expended.”
+
+Subsec (i)(2)(D). Pub. L. 115–52, § 303(h)(1)(D), redesignated subpar. (D) as (C).
+
+Pub. L. 115–52, § 303(h)(1)(C), struck out “in subsequent years” after “payments” in heading and “(after fiscal year 2013)” after “fiscal year” in text.
+
+Subsec. (i)(3). Pub. L. 115–52, § 303(h)(2), substituted “fiscal years 2018 through 2022” for “fiscal years 2013 through 2017”.
+
+Subsec. (o). Pub. L. 115–52, § 303(i), added subsec. (o).
+
 2012—Subsec. (a). Pub. L. 112–193, § 2(b)(2), inserted “for such year” after “obligation of fees” wherever appearing.
 
 Subsec. (i)(2)(C). Pub. L. 112–193, § 2(b)(3), inserted comma after “September 30, 2013” and struck out comma after “for fiscal year 2013”.
 
+#### Effective Date of 2017 Amendment
+Amendment by section 303 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all abbreviated new drug applications received on or after Oct. 1, 2017, see section 306 of Pub. L. 115–52, set out as a note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
+
 #### Effective and Termination Dates
-Section ceases to be effective Oct. 1, 2017, see section 304(a) of Pub. L. 112–144, set out as a note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
+Section ceases to be effective Oct. 1, 2022, see section 305(a) of Pub. L. 115–52, set out as a note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
 
 Section effective Oct. 1, 2012, with fees under this section and [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41) to be assessed for all human generic drug submissions and Type II active pharmaceutical drug master files received on or after Oct. 1, 2012, see section 305 of Pub. L. 112–144, set out as a note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
 
@@ -23273,15 +25065,63 @@ Pub. L. 112–193, § 2(c), Oct. 5, 2012, 126 Stat. 1443, provided that: “(1) 
 
 <a id="section-379j-43"></a>
 ## § 379j–43. Reauthorization; reporting requirements
-**(a) Performance report** Beginning with fiscal year 2013, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2012 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+**(a) Performance report**
 
-**(b) Fiscal report** Beginning with fiscal year 2013, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+(1) **General requirements** — Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
 
-**(c) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
+(2) **Real time reporting**
 
-**(d) Reauthorization**
+  (A) *In general* — Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration, and may remove duplicative data from the annual report under this subsection.
 
-(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for human generic drug activities for the first 5 fiscal years after fiscal year 2017, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+  (B) *Data* — The Secretary shall post the following data in accordance with subparagraph (A):
+
+    (i) The number and titles of draft and final guidance on topics related to human generic drug activities and whether such guidances were issued as required by statute or pursuant to a commitment under the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017.
+
+    (ii) The number and titles of public meetings held on topics related to human generic drug activities and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017.
+
+(3) **Rationale for GDUFA program changes** — Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
+
+  (A) data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+
+  (B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for human generic drug activities, including identifying drivers of such changes; and
+
+  (C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+
+(4) **Analysis** — For each fiscal year, the Secretary shall include in the report an analysis of the following:
+
+  (A) The difference between the aggregate number of abbreviated new drug applications filed and the aggregate number of approvals or aggregate number of complete response letters issued by the agency, accounting for—
+
+    (i) such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
+
+    (ii) the aggregate number of applications for each fiscal year that did not meet the goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 for the applicable fiscal year.
+
+  (B) Relevant data to determine whether the Food and Drug Administration has met the performance enhancement goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 for the applicable fiscal year.
+
+  (C) The most common causes and trends for external or other circumstances that affected the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017.
+
+**(b) Fiscal report** Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+
+**(c) Corrective action report** Beginning with fiscal year 2018, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
+
+(1) **Goals met** — For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(4), that each of the goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the abbreviated new drug application review process.
+
+(2) **Goals missed** — For each of the goals identified by the letters described in section 301(b) of the Generic Drug User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+
+  (A) a detailed justification for such determination and a description, as applicable, of the types of circumstances and trends under which abbreviated new drug applications missed the review goal times but were approved during the first cycle review, or review goals were missed; and
+
+  (B) with respect to performance enhancement goals that were not achieved, a detailed description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such 11 So in original. fiscal year.
+
+**(d) Enhanced communication**
+
+(1) **Communications with Congress** — Each fiscal year, as applicable and requested, representatives from the Centers with expertise in the review of human drugs shall meet with representatives from the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives to report on the contents described in the reports under this section.
+
+(2) **Participation in congressional hearing** — Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+
+**(e) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
+
+**(f) Reauthorization**
+
+(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for human generic drug activities for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
   (A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -23319,7 +25159,7 @@ Pub. L. 112–193, § 2(c), Oct. 5, 2012, 126 Stat. 1443, provided that: “(1) 
 
   (E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-(5) **Transmittal of recommendations** — Not later than January 15, 2017, the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+(5) **Transmittal of recommendations** — Not later than January 15, 2022, the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
 (6) **Minutes of negotiation meetings**
 
@@ -23330,13 +25170,35 @@ Pub. L. 112–193, § 2(c), Oct. 5, 2012, 126 Stat. 1443, provided that: “(1) 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 304(b) of Pub. L. 112–144, see Effective and Termination Dates note set out below.
+For termination of section by section 305(b) of Pub. L. 115–52, see Effective and Termination Dates note set out below.
 
 #### References in Text
-Section 301(b) of the Generic Drug User Fee Amendments of 2012, referred to in subsec. (a), is section 301(b) of Pub. L. 112–144, which is set out as a note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
+Section 301(b) of the Generic Drug User Fee Amendments of 2017, referred to in subsecs. (a) and (c), is section 301(b) of Pub. L. 115–52, which is set out as a note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–52, § 903(c), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+Pub. L. 115–52, § 304(1), substituted “2018” for “2013” and “Generic Drug User Fee Amendments of 2017” for “Generic Drug User Fee Amendments of 2012”.
+
+Subsec. (a)(4). Pub. L. 115–52, § 904(c)(1), added par. (4).
+
+Subsec. (b). Pub. L. 115–52, § 304(2), substituted “2018” for “2013”.
+
+Subsecs. (c) to (e). Pub. L. 115–52, § 904(c)(2), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e). Former subsec. (d) redesignated (f).
+
+Subsec. (f). Pub. L. 115–52, § 904(c)(2)(A), redesignated subsec. (d) as (f).
+
+Pub. L. 115–52, § 304(3), which directed amendment of subsec. (d), effective Oct. 1, 2017, by substituting “2022” for “2017” wherever appearing, was executed by making the substitution in subsec. (f) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (f), effective Aug. 18, 2017, by Pub. L. 115–52, § 904(c)(2). See Amendment note above.
+
+#### Effective Date of 2017 Amendment
+Amendment by section 304 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all abbreviated new drug applications received on or after Oct. 1, 2017, see section 306 of Pub. L. 115–52, set out as a note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
 
 #### Effective and Termination Dates
-Pub. L. 112–144, title III, § 304(b), July 9, 2012, 126 Stat. 1024, provided that: “Section 744C of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–43](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-43)], as added by section 303 of this Act, shall cease to be effective January 31, 2018.”
+Pub. L. 115–52, title III, § 305(b), Aug. 18, 2017, 131 Stat. 1027, provided that: “Section 744C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–43](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-43)) shall cease to be effective January 31, 2023.”
+
+Pub. L. 112–144, title III, § 304(b), July 9, 2012, 126 Stat. 1024, which provided that this section would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title III, § 305(c)(1), Aug. 18, 2017, 131 Stat. 1027.
+
+[Pub. L. 115–52, title III, § 305(c)(1), Aug. 18, 2017, 131 Stat. 1027, provided that the repeal of section 304(b) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.]
 
 Section effective Oct. 1, 2012, see section 305 of Pub. L. 112–144, set out as a note under [section 379j–41 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-41).
 
@@ -23346,7 +25208,7 @@ Section effective Oct. 1, 2012, see section 305 of Pub. L. 112–144, set out as
 
 For purposes of this subpart:
 
-(1) The term “adjustment factor” applicable to a fiscal year that is the Consumer Price Index for all urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) of the preceding fiscal year divided by such Index for September 2011.
+(1) The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) for October of the preceding fiscal year divided by such Index for October 2011.
 
 (2) The term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
 
@@ -23354,7 +25216,7 @@ For purposes of this subpart:
 
   (B) a third party controls, or has power to control, both of the business entities.
 
-(3) The term “biosimilar biological product” means a product for which a biosimilar biological product application has been approved.
+(3) The term “biosimilar biological product” means a specific strength of a biological product in final dosage form for which a biosimilar biological product application has been approved.
 
 (4)
 
@@ -23451,26 +25313,44 @@ For purposes of this subpart:
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 404(a) of Pub. L. 112–144, see Effective and Termination Dates note set out below.
+For termination of section by section 405(a) of Pub. L. 115–52, see Effective and Termination Dates note set out below.
+
+#### Amendments
+2017—Par. (1). Pub. L. 115–52, § 402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘adjustment factor’ applicable to a fiscal year that is the Consumer Price Index for all urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) of the preceding fiscal year divided by such Index for September 2011.”
+
+Par. (3). Pub. L. 115–52, § 402(b), substituted “means a specific strength of a biological product in final dosage form” for “means a product”.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–52, title IV, § 406, Aug. 18, 2017, 131 Stat. 1035, provided that: “The amendments made by this title [see section 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] shall take effect on October 1, 2017, or the date of the enactment of this Act [Aug. 18, 2017], whichever is later, except that fees under part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–51](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51) et seq.] shall be assessed for all biosimilar biological product applications received on or after October 1, 2017, regardless of the date of the enactment of this Act.”
 
 #### Effective and Termination Dates
-Pub. L. 112–144, title IV, § 404(a), July 9, 2012, 126 Stat. 1038, provided that: “Sections 744G and 744H of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–51](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51), 379j–52], as added by section 402 of this Act, shall cease to be effective October 1, 2017.”
+Pub. L. 115–52, title IV, § 405(a), Aug. 18, 2017, 131 Stat. 1035, provided that: “Sections 744G and 744H of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–51](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51), 379j–52] shall cease to be effective October 1, 2022.”
+
+Pub. L. 112–144, title IV, § 404(a), July 9, 2012, 126 Stat. 1038, which provided that this section and [section 379j–52 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-52) would cease to be effective Oct. 1, 2017, was repealed by Pub. L. 115–52, title IV, § 405(c)(1), Aug. 18, 2017, 131 Stat. 1035.
+
+[Pub. L. 115–52, title III, § 405(c)(1), Aug. 18, 2017, 131 Stat. 1035, provided that the repeal of section 404(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.]
 
 Pub. L. 112–144, title IV, § 405, July 9, 2012, 126 Stat. 1039, provided that: “(a) In General.—Except as provided under subsection (b), the amendments made by this title [enacting this section and sections 379j–52 and 379j–53 of this title and amending sections 379d–4 and 379g of this title] shall take effect on the later of—“(1) October 1, 2012; or “(2) the date of the enactment of this title [July 9, 2012]. “(b) Exception.—Fees under part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart], as added by this title, shall be assessed for all biosimilar biological product applications received on or after October 1, 2012, regardless of the date of the enactment of this title.”
 
-#### Finding
+#### Savings
+Pub. L. 115–52, title IV, § 407, Aug. 18, 2017, 131 Stat. 1035, provided that: “Notwithstanding the amendments made by this title [see section 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)], part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–51](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51) et seq.], as in effect on the day before the date of the enactment of this title [Aug. 18, 2017], shall continue to be in effect with respect to biosimilar biological product applications and supplements (as defined in such part as of such day) that were accepted by the Food and Drug Administration for filing on or after October 1, 2012, but before October 1, 2017, with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018.”
+
+#### Finding of 2017 Amendment
+Pub. L. 115–52, title IV, § 401(b), Aug. 18, 2017, 131 Stat. 1028, provided that: “The Congress finds that the fees authorized by the amendments made in this title [see section 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301)] will be dedicated to expediting the process for the review of biosimilar biological product applications, including postmarket safety activities, as set forth in the goals identified for purposes of part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–51](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51) et seq.], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
+
+#### Finding of 2012 Amendment
 Pub. L. 112–144, title IV, § 401(b), July 9, 2012, 126 Stat. 1026, provided that: “The Congress finds that the fees authorized by the amendments made in this title [enacting this section and sections 379j–52 and 379j–53 of this title and amending sections 379d–4 and 379g of this title] will be dedicated to expediting the process for the review of biosimilar biological product applications, including postmarket safety activities, as set forth in the goals identified for purposes of part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
 
 <a id="section-379j-52"></a>
 ## § 379j–52. Authority to assess and use biosimilar biological product fees
-**(a) Types of fees** Beginning in fiscal year 2013, the Secretary shall assess and collect fees in accordance with this section as follows:
+**(a) Types of fees** Beginning in fiscal year 2018, the Secretary shall assess and collect fees in accordance with this section as follows:
 
-(1) **Biosimilar development program fees**
+(1) **Biosimilar biological product development program fees**
 
   (A) *Initial biosimilar biological product development fee*
 
-    (i) *In general* — Each person that submits to the Secretary a meeting request described under clause (ii) or a clinical protocol for an investigational new drug protocol described under clause (iii) shall pay for the product named in the meeting request or the investigational new drug application the initial biosimilar biological product development fee established under subsection (b)(1)(A).
+    (i) *In general* — Each person that submits to the Secretary a meeting request described under clause (ii) or a clinical protocol for an investigational new drug protocol described under clause (iii) shall pay for the product named in the meeting request or the investigational new drug application the initial biosimilar biological product development fee established under subsection (c)(5).
 
     (ii) *Meeting request* — The meeting request described in this clause is a request for a biosimilar biological product development meeting for a product.
 
@@ -23490,21 +25370,23 @@ Pub. L. 112–144, title IV, § 401(b), July 9, 2012, 126 Stat. 1026, provided t
 
   (B) *Annual biosimilar biological product development fee*
 
-    (i) *In general* — A person that pays an initial biosimilar biological product development fee for a product shall pay for such product, beginning in the fiscal year following the fiscal year in which the initial biosimilar biological product development fee was paid, an annual fee established under subsection (b)(1)(B) for biosimilar biological product development (referred to in this section as “annual biosimilar biological product development fee”).
+    (i) *In general* — A person that pays an initial biosimilar biological product development fee for a product shall pay for such product, beginning in the fiscal year following the fiscal year in which the initial biosimilar biological product development fee was paid, an annual fee established under subsection (c)(5) for the biosimilar biological product development program (referred to in this section as “annual biosimilar biological product development fee”).
 
-    (ii) *Due date* — The annual biosimilar biological product development program fee for each fiscal year will be due on the later of—
+    (ii) *Due date* — The annual biosimilar biological product development fee for each fiscal year will be due on the later of—
 
       (I) the first business day on or after October 1 of each such year; or
 
       (II) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section.
 
-    (iii) *Exception* — The annual biosimilar development program fee for each fiscal year will be due on the date specified in clause (ii), unless the person has—
+    (iii) *Exception* — The annual biosimilar biological product development fee for each fiscal year will be due on the date specified in clause (ii), unless the person has—
 
       (I) submitted a marketing application for the biological product that was accepted for filing; or
 
       (II) discontinued participation in the biosimilar biological product development program for the product under subparagraph (C).
 
-  (C) *Discontinuation of fee obligation* — A person may discontinue participation in the biosimilar biological product development program for a product effective October 1 of a fiscal year by, not later than August 1 of the preceding fiscal year—
+    (iv) *Refund* — If a person submits a marketing application for a biosimilar biological product before October 1 of a fiscal year and such application is accepted for filing on or after October 1 of such fiscal year, the person may request a refund equal to the annual biosimilar biological product development fee paid by the person for the product for such fiscal year. To qualify for consideration for a refund under this clause, a person shall submit to the Secretary a written request for such refund not later than 180 days after the marketing application is accepted for filing.
+
+  (C) *Discontinuation of fee obligation* — A person may discontinue participation in the biosimilar biological product development program for a product, effective October 1 of a fiscal year, by, not later than August 1 of the preceding fiscal year—
 
     (i) if no investigational new drug application concerning the product has been submitted, submitting to the Secretary a written declaration that the person has no present intention of further developing the product as a biosimilar biological product; or
 
@@ -23512,15 +25394,15 @@ Pub. L. 112–144, title IV, § 401(b), July 9, 2012, 126 Stat. 1026, provided t
 
   (D) *Reactivation fee*
 
-    (i) *In general* — A person that has discontinued participation in the biosimilar biological product development program for a product under subparagraph (C) shall pay a fee (referred to in this section as “reactivation fee”) by the earlier of the following:
+    (i) *In general* — A person that has discontinued participation in the biosimilar biological product development program for a product under subparagraph (C) shall, if the person seeks to resume participation in such program, pay a fee (referred to in this section as “reactivation fee”) by the earlier of the following:
 
-      (I) Not later than 5 days after the Secretary grants a request for a biosimilar biological product development meeting for the product (after the date on which such participation was discontinued).
+      (I) Not later than 5 days after the Secretary grants a request by such person for a biosimilar biological product development meeting for the product (after the date on which such participation was discontinued).
 
-      (II) Upon the date of submission (after the date on which such participation was discontinued) of an investigational new drug application describing an investigation that the Secretary determines is intended to support a biosimilar biological product application for that product.
+      (II) Upon the date of submission (after the date on which such participation was discontinued) by such person of an investigational new drug application describing an investigation that the Secretary determines is intended to support a biosimilar biological product application for that product.
 
     (ii) *Application of annual fee* — A person that pays a reactivation fee for a product shall pay for such product, beginning in the next fiscal year, the annual biosimilar biological product development fee under subparagraph (B).
 
-  (E) *Effect of failure to pay biosimilar development program fees*
+  (E) *Effect of failure to pay fees*
 
     (i) *No biosimilar biological product development meetings* — If a person has failed to pay an initial or annual biosimilar biological product development fee as required under subparagraph (A) or (B), or a reactivation fee as required under subparagraph (D), the Secretary shall not provide a biosimilar biological product development meeting relating to the product for which fees are owed.
 
@@ -23538,68 +25420,55 @@ Pub. L. 112–144, title IV, § 401(b), July 9, 2012, 126 Stat. 1026, provided t
 
     (iv) *No acceptance of biosimilar biological product applications or supplements* — If a person has failed to pay an initial or annual biosimilar biological product development fee as required under subparagraph (A) or (B), or a reactivation fee as required under subparagraph (D), any biosimilar biological product application or supplement submitted by that person shall be considered incomplete and shall not be accepted for filing by the Secretary until all such fees owed by such person have been paid.
 
-  (F) *Limits regarding biosimilar development program fees*
+  (F) *Limits regarding fees*
 
-    (i) *No refunds* — The Secretary shall not refund any initial or annual biosimilar biological product development fee paid under subparagraph (A) or (B), or any reactivation fee paid under subparagraph (D).
+    (i) *Refunds* — Except as provided in subparagraph (B)(iv), the Secretary shall not refund any initial or annual biosimilar biological product development fee paid under subparagraph (A) or (B), or any reactivation fee paid under subparagraph (D).
 
     (ii) *No waivers, exemptions, or reductions* — The Secretary shall not grant a waiver, exemption, or reduction of any initial or annual biosimilar biological product development fee due or payable under subparagraph (A) or (B), or any reactivation fee due or payable under subparagraph (D).
 
-(2) **Biosimilar biological product application and supplement fee**
+(2) **Biosimilar biological product application fee**
 
-  (A) *In general* — Each person that submits, on or after October 1, 2012, a biosimilar biological product application or a supplement shall be subject to the following fees:
+  (A) *In general* — Each person that submits, on or after October 1, 2017, a biosimilar biological product application shall be subject to the following fees:
 
-    (i) A fee for a biosimilar biological product application that is equal to—
+    (i) A fee established under subsection (c)(5) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required for approval.
 
-      (I) the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required for approval; minus
+    (ii) A fee established under subsection (c)(5) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are not required for approval. Such fee shall be equal to half of the amount of the fee described in clause (i).
 
-      (II) the cumulative amount of fees paid, if any, under subparagraphs (A), (B), and (D) of paragraph (1) for the product that is the subject of the application.
+  (B) *Rule of applicability; treatment of certain previously paid fees* — Any person who pays a fee under subparagraph (A), (B), or (D) of paragraph (1) for a product before October 1, 2017, but submits a biosimilar biological product application for that product after such date, shall—
 
-    (ii) A fee for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are not required, that is equal to—
+    (i) be subject to any biosimilar biological product application fees that may be assessed at the time when such biosimilar biological product application is submitted; and
 
-      (I) half of the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application; minus
+    (ii) be entitled to no reduction of such application fees based on the amount of fees paid for that product before October 1, 2017, under such subparagraph (A), (B), or (D).
 
-      (II) the cumulative amount of fees paid, if any, under subparagraphs (A), (B), and (D) of paragraph (1) for that product.
+  (C) *Payment due date* — Any fee required by subparagraph (A) shall be due upon submission of the application for which such fee applies.
 
-    (iii) A fee for a supplement for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required, that is equal to half of the amount of the fee established under subsection (b)(1)(D) for a biosimilar biological product application.
+  (D) *Exception for previously filed application* — If a biosimilar biological product application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn (without a waiver), the submission of a biosimilar biological product application for the same product by the same person (or the person’s licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
 
-  (B) *Reduction in fees* — Notwithstanding section 404 of the Biosimilar User Fee Act of 2012, any person who pays a fee under subparagraph (A), (B), or (D) of paragraph (1) for a product before October 1, 2017, but submits a biosimilar biological product application for that product after such date, shall be entitled to the reduction of any biosimilar biological product application fees that may be assessed at the time when such biosimilar biological product application is submitted, by the cumulative amount of fees paid under subparagraphs (A), (B), and (D) of paragraph (1) for that product.
+  (E) *Refund of application fee if application refused for filing or withdrawn before filing* — The Secretary shall refund 75 percent of the fee paid under this paragraph for any application which is refused for filing or withdrawn without a waiver before filing.
 
-  (C) *Payment due date* — Any fee required by subparagraph (A) shall be due upon submission of the application or supplement for which such fee applies.
+  (F) *Fees for applications previously refused for filing or withdrawn before filing* — A biosimilar biological product application that was submitted but was refused for filing, or was withdrawn before being accepted or refused for filing, shall be subject to the full fee under subparagraph (A) upon being resubmitted or filed over protest, unless the fee is waived under subsection (d).
 
-  (D) *Exception for previously filed application or supplement* — If a biosimilar biological product application or supplement was submitted by a person that paid the fee for such application or supplement, was accepted for filing, and was not approved or was withdrawn (without a waiver), the submission of a biosimilar biological product application or a supplement for the same product by the same person (or the person’s licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+(3) **Biosimilar biological product program fee**
 
-  (E) *Refund of application fee if application refused for filing or withdrawn before filing* — The Secretary shall refund 75 percent of the fee paid under this paragraph for any application or supplement which is refused for filing or withdrawn without a waiver before filing.
+  (A) *In general* — Each person who is named as the applicant in a biosimilar biological product application shall pay the annual biosimilar biological product program fee established for a fiscal year under subsection (c)(5) for each biosimilar biological product that—
 
-  (F) *Fees for applications previously refused for filing or withdrawn before filing* — A biosimilar biological product application or supplement that was submitted but was refused for filing, or was withdrawn before being accepted or refused for filing, shall be subject to the full fee under subparagraph (A) upon being resubmitted or filed over protest, unless the fee is waived under subsection (c).
+    (i) is identified in such a biosimilar biological product application approved as of October 1 of such fiscal year; and
 
-(3) **Biosimilar biological product establishment fee**
+    (ii) as of October 1 of such fiscal year, does not appear on a list, developed and maintained by the Secretary, of discontinued biosimilar biological products.
 
-  (A) *In general* — Except as provided in subparagraph (E), each person that is named as the applicant in a biosimilar biological product application shall be assessed an annual fee established under subsection (b)(1)(E) for each biosimilar biological product establishment that is listed in the approved biosimilar biological product application as an establishment that manufactures the biosimilar biological product named in such application.
+  (B) *Due date* — The biosimilar biological product program fee for a fiscal year shall be due on the later of—
 
-  (B) *Assessment in fiscal years* — The establishment fee shall be assessed in each fiscal year for which the biosimilar biological product named in the application is assessed a fee under paragraph (4) unless the biosimilar biological product establishment listed in the application does not engage in the manufacture of the biosimilar biological product during such fiscal year.
+    (i) the first business day on or after October 1 of each such year; or
 
-  (C) *Due date* — The establishment fee for a fiscal year shall be due on the later of—
+    (ii) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such year under this section.
 
-    (i) the first business day on or after October 1 of such fiscal year; or
+  (C) *One fee per product per year* — The biosimilar biological product program fee shall be paid only once for each product for each fiscal year.
 
-    (ii) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section.
-
-  (D) *Application to establishment*
-
-    (i) Each biosimilar biological product establishment shall be assessed only one fee per biosimilar biological product establishment, notwithstanding the number of biosimilar biological products manufactured at the establishment, subject to clause (ii).
-
-    (ii) In the event an establishment is listed in a biosimilar biological product application by more than one applicant, the establishment fee for the fiscal year shall be divided equally and assessed among the applicants whose biosimilar biological products are manufactured by the establishment during the fiscal year and assessed biosimilar biological product fees under paragraph (4).
-
-  (E) *Exception for new products* — If, during the fiscal year, an applicant initiates or causes to be initiated the manufacture of a biosimilar biological product at an establishment listed in its biosimilar biological product application—
-
-    (i) that did not manufacture the biosimilar biological product in the previous fiscal year; and
-
-    (ii) for which the full biosimilar biological product establishment fee has been assessed in the fiscal year at a time before manufacture of the biosimilar biological product was begun,
-    the applicant shall not be assessed a share of the biosimilar biological product establishment fee for the fiscal year in which the manufacture of the product began.
+  (D) *Limitation* — A person who is named as the applicant in a biosimilar biological product application shall not be assessed more than 5 biosimilar biological product program fees for a fiscal year for biosimilar biological products identified in such biosimilar biological product application.
 
 (4) **Biosimilar biological product fee**
 
-  (A) *In general* — Each person who is named as the applicant in a biosimilar biological product application shall pay for each such biosimilar biological product the annual fee established under subsection (b)(1)(F).
+  (A) *In general* — Each person who is named as the applicant in a biosimilar biological product application shall pay for each such biosimilar biological product the annual fee established under subsection (c)(5).
 
   (B) *Due date* — The biosimilar biological product fee for a fiscal year shall be due on the later of—
 
@@ -23609,39 +25478,115 @@ Pub. L. 112–144, title IV, § 401(b), July 9, 2012, 126 Stat. 1026, provided t
 
   (C) *One fee per product per year* — The biosimilar biological product fee shall be paid only once for each product for each fiscal year.
 
-**(b) Fee setting and amounts**
+**(b) Fee revenue amounts**
 
-(1) **In general** — Subject to paragraph (2), the Secretary shall, 60 days before the start of each fiscal year that begins after September 30, 2012, establish, for the next fiscal year, the fees under subsection (a). Except as provided in subsection (c), such fees shall be in the following amounts:
+(1) **Fiscal year 2018** — For fiscal year 2018, fees under subsection (a) shall be established to generate a total revenue amount equal to the sum of—
 
-  (A) *Initial biosimilar biological product development fee* — The initial biosimilar biological product development fee under subsection (a)(1)(A) for a fiscal year shall be equal to 10 percent of the amount established under [section 379h(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/c/4&num=0&edition=prelim) for a human drug application described in [section 379h(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/a/1/A/i&num=0&edition=prelim) for that fiscal year.
+  (A) $45,000,000; and
 
-  (B) *Annual biosimilar biological product development fee* — The annual biosimilar biological product development fee under subsection (a)(1)(B) for a fiscal year shall be equal to 10 percent of the amount established under [section 379h(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/c/4&num=0&edition=prelim) for a human drug application described in [section 379h(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/a/1/A/i&num=0&edition=prelim) for that fiscal year.
+  (B) the dollar amount equal to the fiscal year 2018 adjustment (as determined under subsection (c)(4)).
 
-  (C) *Reactivation fee* — The reactivation fee under subsection (a)(1)(D) for a fiscal year shall be equal to 20 percent of the amount of the fee established under [section 379h(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/c/4&num=0&edition=prelim) for a human drug application described in [section 379h(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/a/1/A/i&num=0&edition=prelim) for that fiscal year.
+(2) **Subsequent fiscal years** — For each of the fiscal years 2019 through 2022, fees under subsection (a) shall, except as provided in subsection (c), be established to generate a total revenue amount equal to the sum of—
 
-  (D) *Biosimilar biological product application fee* — The biosimilar biological product application fee under subsection (a)(2) for a fiscal year shall be equal to the amount established under [section 379h(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/c/4&num=0&edition=prelim) for a human drug application described in [section 379h(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/a/1/A/i&num=0&edition=prelim) for that fiscal year.
+  (A) the annual base revenue for the fiscal year (as determined under paragraph (4));
 
-  (E) *Biosimilar biological product establishment fee* — The biosimilar biological product establishment fee under subsection (a)(3) for a fiscal year shall be equal to the amount established under [section 379h(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/c/4&num=0&edition=prelim) for a prescription drug establishment for that fiscal year.
+  (B) the dollar amount equal to the inflation adjustment for the fiscal year (as determined under subsection (c)(1));
 
-  (F) *Biosimilar biological product fee* — The biosimilar biological product fee under subsection (a)(4) for a fiscal year shall be equal to the amount established under [section 379h(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379h/c/4&num=0&edition=prelim) for a prescription drug product for that fiscal year.
+  (C) the dollar amount equal to the capacity planning adjustment for the fiscal year (as determined under subsection (c)(2)); and
 
-(2) **Limit** — The total amount of fees charged for a fiscal year under this section may not exceed the total amount for such fiscal year of the costs of resources allocated for the process for the review of biosimilar biological product applications.
+  (D) the dollar amount equal to the operating reserve adjustment for the fiscal year, if applicable (as determined under subsection (c)(3)).
 
-**(c) Application fee waiver for small business**
+(3) **Allocation of revenue amount among fees; limitations on fee amounts**
 
-(1) **Waiver of application fee** — The Secretary shall grant to a person who is named in a biosimilar biological product application a waiver from the application fee assessed to that person under subsection (a)(2)(A) for the first biosimilar biological product application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
+  (A) *Allocation* — The Secretary shall determine the percentage of the total revenue amount for a fiscal year to be derived from, respectively—
 
-  (A) application fees for all subsequent biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business; and
+    (i) initial and annual biosimilar biological product development fees and reactivation fees under subsection (a)(1);
 
-  (B) all supplement fees for all supplements to biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business.
+    (ii) biosimilar biological product application fees under subsection (a)(2); and
+
+    (iii) biosimilar biological product program fees under subsection (a)(3).
+
+  (B) *Limitations on fee amounts* — Until the first fiscal year for which the capacity planning adjustment under subsection (c)(2) is effective, the amount of any fee under subsection (a) for a fiscal year after fiscal year 2018 shall not exceed 125 percent of the amount of such fee for fiscal year 2018.
+
+  (C) *Biosimilar biological product development fees* — The initial biosimilar biological product development fee under subsection (a)(1)(A) for a fiscal year shall be equal to the annual biosimilar biological product development fee under subsection (a)(1)(B) for that fiscal year.
+
+  (D) *Reactivation fee* — The reactivation fee under subsection (a)(1)(D) for a fiscal year shall be equal to twice the amount of the annual biosimilar biological product development fee under subsection (a)(1)(B) for that fiscal year.
+
+(4) **Annual base revenue** — For purposes of paragraph (2), the dollar amount of the annual base revenue for a fiscal year shall be the dollar amount of the total revenue amount for the previous fiscal year, excluding any adjustments to such revenue amount under subsection (c)(3).
+
+**(c) Adjustments; annual fee setting**
+
+(1) **Inflation adjustment**
+
+  (A) *In general* — For purposes of subsection (b)(2)(B), the dollar amount of the inflation adjustment to the annual base revenue for each fiscal year shall be equal to the product of—
+
+    (i) such annual base revenue for the fiscal year under subsection (b); and
+
+    (ii) the inflation adjustment percentage under subparagraph (B).
+
+  (B) *Inflation adjustment percentage* — The inflation adjustment percentage under this subparagraph for a fiscal year is equal to the sum of—
+
+    (i) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of the process for the review of biosimilar biological product applications (as defined in [section 379j–51(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–51/13&num=0&edition=prelim)) for the first 3 years of the preceding 4 fiscal years; and
+
+    (ii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of the process for the review of biosimilar biological product applications (as defined in [section 379j–51(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–51/13&num=0&edition=prelim)) for the first 3 years of the preceding 4 fiscal years.
+
+(2) **Capacity planning adjustment**
+
+  (A) *In general* — Beginning with the fiscal year described in subparagraph (B)(ii)(II), the Secretary shall, in addition to the adjustment under paragraph (1), further increase the fee revenue and fees under this section for a fiscal year to reflect changes in the resource capacity needs of the Secretary for the process for the review of biosimilar biological product applications.
+
+  (B) *Capacity planning methodology*
+
+    (i) *Development; evaluation and report* — The Secretary shall obtain, through a contract with an independent accounting or consulting firm, a report evaluating options and recommendations for a new methodology to accurately assess changes in the resource and capacity needs of the process for the review of biosimilar biological product applications. The capacity planning methodological options and recommendations presented in such report shall utilize and be informed by personnel time reporting data as an input. The report shall be published for public comment not later than September 30, 2020.
+
+    (ii) *Establishment and implementation* — After review of the report described in clause (i) and receipt and review of public comments thereon, the Secretary shall establish a capacity planning methodology for purposes of this paragraph, which shall—
+
+      (I) incorporate such approaches and attributes as the Secretary determines appropriate; and
+
+      (II) be effective beginning with the first fiscal year for which fees are set after such capacity planning methodology is established.
+
+  (C) *Limitation* — Under no circumstances shall an adjustment under this paragraph result in fee revenue for a fiscal year that is less than the sum of the amounts under subsections (b)(2)(A) (the annual base revenue for the fiscal year) and (b)(2)(B) (the dollar amount of the inflation adjustment for the fiscal year).
+
+  (D) *Publication in Federal Register* — The Secretary shall publish in the Federal Register notice under paragraph (5) the fee revenue and fees resulting from the adjustment and the methodologies under this paragraph.
+
+(3) **Operating reserve adjustment**
+
+  (A) *Interim application; fee reduction* — Until the first fiscal year for which the capacity planning adjustment under paragraph (2) is effective, the Secretary may, in addition to the adjustment under paragraph (1), reduce the fee revenue and fees under this section for a fiscal year as the Secretary determines appropriate for long-term financial planning purposes.
+
+  (B) *General application and methodology* — Beginning with the first fiscal year for which the capacity planning adjustment under paragraph (2) is effective, the Secretary may, in addition to the adjustments under paragraphs (1) and (2)—
+
+    (i) reduce the fee revenue and fees under this section as the Secretary determines appropriate for long-term financial planning purposes; or
+
+    (ii) increase the fee revenue and fees under this section if such an adjustment is necessary to provide for not more than 21 weeks of operating reserves of carryover user fees for the process for the review of biosimilar biological product applications.
+
+  (C) *Federal Register notice* — If an adjustment under subparagraph (A) or (B) is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5)(B) establishing fee revenue and fees for the fiscal year involved.
+
+(4) **Fiscal year 2018 adjustment**
+
+  (A) *In general* — For fiscal year 2018, the Secretary shall adjust the fee revenue and fees under this section in such amount (if any) as needed to reflect an updated assessment of the workload for the process for the review of biosimilar biological product applications.
+
+  (B) *Methodology* — The Secretary shall publish under paragraph (5)(B) a description of the methodology used to calculate the fiscal year 2018 adjustment under this paragraph in the Federal Register notice establishing fee revenue and fees for fiscal year 2018.
+
+  (C) *Limitation* — No adjustment under this paragraph shall result in an increase in fee revenue and fees under this section in excess of $9,000,000.
+
+(5) **Annual fee setting** — For fiscal year 2018 and each subsequent fiscal year, the Secretary shall, not later than 60 days before the start of each such fiscal year—
+
+  (A) establish, for the fiscal year, initial and annual biosimilar biological product development fees and reactivation fees under subsection (a)(1), biosimilar biological product application fees under subsection (a)(2), and biosimilar biological product program fees under subsection (a)(3), based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection; and
+
+  (B) publish such fee revenue and fees in the Federal Register.
+
+(6) **Limit** — The total amount of fees assessed for a fiscal year under this section may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of biosimilar biological product applications.
+
+**(d) Application fee waiver for small business**
+
+(1) **Waiver of application fee** — The Secretary shall grant to a person who is named in a biosimilar biological product application a waiver from the application fee assessed to that person under subsection (a)(2)(A) for the first biosimilar biological product application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay application fees for all subsequent biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business.
 
 (2) **Considerations** — In determining whether to grant a waiver of a fee under paragraph (1), the Secretary shall consider only the circumstances and assets of the applicant involved and any affiliate of the applicant.
 
 (3) **Small business defined** — In this subsection, the term “small business” means an entity that has fewer than 500 employees, including employees of affiliates, and does not have a drug product that has been approved under a human drug application (as defined in [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g)) or a biosimilar biological product application (as defined in [section 379j–51(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–51/4&num=0&edition=prelim)) and introduced or delivered for introduction into interstate commerce.
 
-**(d) Effect of failure to pay fees** A biosimilar biological product application or supplement submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid.
+**(e) Effect of failure to pay fees** A biosimilar biological product application or supplement submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all such fees owed by such person have been paid.
 
-**(e) Crediting and availability of fees**
+**(f) Crediting and availability of fees**
 
 (1) **In general** — Subject to paragraph (2), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of biosimilar biological product applications.
 
@@ -23649,58 +25594,186 @@ Pub. L. 112–144, title IV, § 401(b), July 9, 2012, 126 Stat. 1026, provided t
 
   (A) *In general* — Subject to subparagraphs (C) and (D), the fees authorized by this section shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year.
 
-  (B) *Use of fees and limitation* — The fees authorized by this section shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
+  (B) *Use of fees and limitations*
 
-  (C) *Fee collection during first program year* — Until the date of enactment of an Act making appropriations through September 30, 2013, for the salaries and expenses account of the Food and Drug Administration, fees authorized by this section for fiscal year 2013 may be collected and shall be credited to such account and remain available until expended.
+    (i) *In general* — The fees authorized by this section shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
 
-  (D) *Provision for early payments in subsequent years* — Payment of fees authorized under this section for a fiscal year (after fiscal year 2013), prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
+    (ii) *Leasing and necessary equipment* — Beginning on October 1, 2023, the authorities under [section 379j–51(9)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–51/9/C&num=0&edition=prelim) shall include only leasing and necessary scientific equipment.
 
-(3) **Authorization of appropriations** — For each of fiscal years 2013 through 2017, there is authorized to be appropriated for fees under this section an amount equivalent to the total amount of fees assessed for such fiscal year under this section.
+  (C) *Compliance* — The Secretary shall be considered to have met the requirements of subparagraph (B) in any fiscal year if the costs described in such subparagraph are not more than 15 percent below the level specified in such subparagraph.
 
-**(f) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+  (D) *Provision for early payments* — Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
 
-**(g) Written requests for waivers and refunds** To qualify for consideration for a waiver under subsection (c), or for a refund of any fee collected in accordance with subsection (a)(2)(A), a person shall submit to the Secretary a written request for such waiver or refund not later than 180 days after such fee is due.
+(3) **Authorization of appropriations** — For each of fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equivalent to the total amount of fees assessed for such fiscal year under this section.
 
-**(h) Construction** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of biosimilar biological product applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
+**(g) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+
+**(h) Written requests for waivers and refunds** To qualify for consideration for a waiver under subsection (d), or for a refund of any fee collected in accordance with subsection (a)(2)(A), a person shall submit to the Secretary a written request for such waiver or refund not later than 180 days after such fee is due.
+
+**(i) Construction** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of biosimilar biological product applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 404(a) of Pub. L. 112–144, see Effective and Termination Dates note below.
-
-#### References in Text
-Section 404 of the Biosimilar User Fee Act of 2012, referred to in subsec. (a)(2)(B), is section 404 of title IV of Pub. L. 112–144, July 9, 2012, 126 Stat. 1038. Section 404(a) is set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51), and section 404(b) is set out as a note under [section 379j–53 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-53).
+For termination of section by section 405(a) of Pub. L. 115–52, see Effective and Termination Dates note below.
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–52, § 403(a)(1), substituted “fiscal year 2018” for “fiscal year 2013” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 115–52, § 403(a)(2), substituted “Biosimilar biological product” for “Biosimilar” in heading.
+
+Subsec. (a)(1)(A)(i). Pub. L. 115–52, § 403(a)(3), substituted “(c)(5)” for “(b)(1)(A)”.
+
+Subsec. (a)(1)(B)(i). Pub. L. 115–52, § 403(a)(4), substituted “(c)(5) for the biosimilar biological product development program” for “(b)(1)(B) for biosimilar biological product development”.
+
+Subsec. (a)(1)(B)(ii). Pub. L. 115–52, § 403(a)(5), substituted “annual biosimilar biological product development fee” for “annual biosimilar biological product development program fee” in introductory provisions.
+
+Subsec. (a)(1)(B)(iii). Pub. L. 115–52, § 403(a)(6), substituted “annual biosimilar biological product development fee” for “annual biosimilar development program fee”.
+
+Subsec. (a)(1)(B)(iv). Pub. L. 115–52, § 403(a)(7), added cl. (iv).
+
+Subsec. (a)(1)(C). Pub. L. 115–52, § 403(a)(8), substituted “for a product, effective October 1 of a fiscal year, by,” for “for a product effective October 1 of a fiscal year by,” in introductory provisions.
+
+Subsec. (a)(1)(D)(i). Pub. L. 115–52, § 403(a)(9)(A), inserted “, if the person seeks to resume participation in such program,” before “pay a fee” in introductory provisions.
+
+Subsec. (a)(1)(D)(i)(I). Pub. L. 115–52, § 403(a)(9)(B), inserted “by such person” after “grants a request”.
+
+Subsec. (a)(1)(D)(i)(II). Pub. L. 115–52, § 403(a)(9)(C), inserted “by such person” after “discontinued)”.
+
+Subsec. (a)(1)(E). Pub. L. 115–52, § 403(a)(10), struck out “biosimilar development program” after “pay” in heading.
+
+Subsec. (a)(1)(F). Pub. L. 115–52, § 403(a)(11)(A), struck out “biosimilar development program” after “regarding” in heading.
+
+Subsec. (a)(1)(F)(i). Pub. L. 115–52, § 403(a)(11)(B), amended cl. (i) generally. Prior to amendment, text read as follows: “The Secretary shall not refund any initial or annual biosimilar biological product development fee paid under subparagraph (A) or (B), or any reactivation fee paid under subparagraph (D).”
+
+Subsec. (a)(2). Pub. L. 115–52, § 403(a)(12)(A), struck out “and supplement” after “application” in heading.
+
+Subsec. (a)(2)(A), (B). Pub. L. 115–52, § 403(a)(12)(B), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) related to the fee for a biosimilar biological product application or a supplement submitted on or after Oct. 1, 2012, and to a reduction in certain fees, respectively.
+
+Subsec. (a)(2)(C). Pub. L. 115–52, § 403(a)(12)(D), struck out “or supplement” after “application”.
+
+Subsec. (a)(2)(D). Pub. L. 115–52, § 403(a)(12)(C)–(E), in heading, struck out “or supplement” after “application” and in text, substituted “application was submitted” for “application or supplement was submitted”, “application, was accepted” for “application or supplement, was accepted”, and “application for the same product” for “application or a supplement for the same product”.
+
+Subsec. (a)(2)(E). Pub. L. 115–52, § 403(a)(12)(D), struck out “or supplement” after “application”.
+
+Subsec. (a)(2)(F). Pub. L. 115–52, § 403(c)(2), substituted “subsection (d)” for “subsection (c)”.
+
+Pub. L. 115–52, § 403(a)(12)(D), struck out “or supplement” after “application”.
+
+Subsec. (a)(3). Pub. L. 115–52, § 403(a)(13), amended par. (3) generally. Prior to amendment, par. (3) consisted of subpars. (A) to (E) which related to biosimilar biological product establishment fee, assessment, due date, assessment and division of fee for a biosimilar biological product establishment that manufactures for multiple applicants, and exception for new products, respectively.
+
+Subsec. (a)(4)(A). Pub. L. 115–52, § 403(c)(3), substituted “subsection (c)(5)” for “subsection (b)(1)(F)”.
+
+Subsec. (b). Pub. L. 115–52, § 403(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) which related to fee amounts and limit to total amount of fees, respectively.
+
+Subsec. (c). Pub. L. 115–52, § 403(c)(4), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 115–52, § 403(c)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 115–52, § 403(d), substituted “affiliate shall pay” for “affiliate shall pay—” and “not a small business.” for “not a small business; and”, struck out subpar. (A) designation before “application fees for all”, and struck out subpar. (B) which read as follows: “all supplement fees for all supplements to biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business.”
+
+Subsec. (e). Pub. L. 115–52, § 403(e), substituted “all such fees” for “all fees”.
+
+Pub. L. 115–52, § 403(c)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(2)(B). Pub. L. 115–52, § 905(b)(4), substituted “limitations” for “limitation” in heading, designated existing provisions as cl. (i) and inserted heading, and added cl. (ii), effective Aug. 18, 2017. Subsec. (e) subsequently redesignated (f) effective Oct. 1, 2017, by Pub. L. 115–52, § 403(c)(1). See Amendment note below.
+
+Subsec. (f). Pub. L. 115–52, § 403(c)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(2)(C). Pub. L. 115–52, § 403(f)(1)(A), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “Until the date of enactment of an Act making appropriations through September 30, 2013, for the salaries and expenses account of the Food and Drug Administration, fees authorized by this section for fiscal year 2013 may be collected and shall be credited to such account and remain available until expended.”
+
+Subsec. (f)(2)(D). Pub. L. 115–52, § 403(f)(1)(B), struck out “in subsequent years” after “payments” in heading and “(after fiscal year 2013)” after “fiscal year” in text.
+
+Subsec. (f)(3). Pub. L. 115–52, § 403(f)(2), substituted “2018 through 2022” for “2013 through 2017”.
+
+Subsec. (g). Pub. L. 115–52, § 403(c)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 115–52, § 403(c)(2), substituted “subsection (d)” for “subsection (c)”.
+
+Pub. L. 115–52, § 403(c)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 115–52, § 403(c)(1), redesignated subsec. (h) as (i).
+
 2016—Subsec. (a)(1)(A)(v). Pub. L. 114–255, § 3101(a)(2)(V)(i), which directed technical amendment in paragraph (1)(A)(v) to reference in original act which appears in text as reference to July 9, 2012, was executed by making the amendment in introductory provisions and in subcl. (I), to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(B). Pub. L. 114–255, § 3101(a)(2)(V)(ii), substituted “Biosimilar User Fee Act of 2012” for “Biosimilars User Fee Act of 2012”.
 
+#### Effective Date of 2017 Amendment
+Amendment by section 403 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all biosimilar biological product applications received on or after Oct. 1, 2017, see section 406 of Pub. L. 115–52, set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
+
 #### Effective and Termination Dates
-Section ceases to be effective Oct. 1, 2017, see section 404(a) of Pub. L. 112–144, set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
+Section ceases to be effective Oct. 1, 2022, see section 405(a) of Pub. L. 115–52, set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
 
 Section effective Oct. 1, 2012, with fees under this subpart to be assessed for all biosimilar biological product applications received on or after Oct. 1, 2012, see section 405 of Pub. L. 112–144, set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
 
 
 <a id="section-379j-53"></a>
 ## § 379j–53. Reauthorization; reporting requirements
-**(a) Performance report** Beginning with fiscal year 2013, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 401(b) of the Biosimilar User Fee Act of 2012 during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort.
+**(a) Performance report**
 
-**(b) Fiscal report** Not later than 120 days after the end of fiscal year 2013 and each subsequent fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+(1) **General requirements** — Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort.
 
-**(c) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
+(2) **Additional information** — Beginning with fiscal year 2018, the report under this subsection shall include the progress of the Food and Drug Administration in achieving the goals, and future plans for meeting the goals, including—
 
-**(d) Study**
+  (A) information on all previous cohorts for which the Secretary has not given a complete response on all biosimilar biological product applications and supplements in the cohort;
 
-(1) **In general** — The Secretary shall contract with an independent accounting or consulting firm to study the workload volume and full costs associated with the process for the review of biosimilar biological product applications.
+  (B) the number of original biosimilar biological product applications filed per fiscal year, and the number of approvals issued by the agency for such applications; and
 
-(2) **Interim results** — Not later than June 1, 2015, the Secretary shall publish, for public comment, interim results of the study described under paragraph (1).
+  (C) the number of resubmitted original biosimilar biological product applications filed per fiscal year and the number of approvals 11 So in original. letters issued by the agency for such applications.
 
-(3) **Final results** — Not later than September 30, 2016, the Secretary shall publish, for public comment, the final results of the study described under paragraph (1).
+(3) **Real time reporting**
 
-**(e) Reauthorization**
+  (A) *In general* — Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) for such quarter and on a cumulative basis for the fiscal year on the internet website of the Food and Drug Administration, and may remove duplicative data from the annual report under this subsection.
 
-(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals described in subsection (a), and plans for meeting the goals, for the process for the review of biosimilar biological product applications for the first 5 fiscal years after fiscal year 2017, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+  (B) *Data* — The Secretary shall post the following data in accordance with subparagraph (A):
+
+    (i) The number and titles of draft and final guidance on topics related to the process for the review of biosimilars, and whether such guidances were required by statute or pursuant to a commitment under the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
+
+    (ii) The number and titles of public meetings held on topics related to the process for the review of biosimilars, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
+
+(4) **Rationale for BSUFA program changes** — Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
+
+  (A) data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+
+  (B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of biosimilar biological product applications, including identifying drivers of such changes; and
+
+  (C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+
+(5) **Analysis** — For each fiscal year, the Secretary shall include in the report an analysis of the following:
+
+  (A) The difference between the aggregate number of biosimilar biological product applications and supplements filed and the aggregate number of approvals issued by the agency, accounting for—
+
+    (i) such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
+
+    (ii) the aggregate number of applications for each fiscal year that did not meet the goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 for the applicable fiscal year.
+
+  (B) Relevant data to determine whether the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research have met the performance enhancement goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 for the applicable fiscal year.
+
+  (C) The most common causes and trends for external or other circumstances affecting the ability of the Secretary to meet review time and performance enhancement goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017.
+
+**(b) Fiscal report** Not later than 120 days after the end of fiscal year 2018 and each subsequent fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+
+**(c) Corrective action report** Beginning with fiscal year 2018, and for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
+
+(1) **Goals met** — For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(5), that each of the goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the biosimilar biological product application review process.
+
+(2) **Goals missed** — For each of the goals identified by the letters described in section 401(b) of the Biosimilar User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+
+  (A) a justification for such determination and a description of the types of circumstances and trends, as applicable, under which biosimilar biological product applications missed the review goal times but were approved during the first cycle review, or review goals were missed; and
+
+  (B) with respect to performance enhancement goals that were not achieved, a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such 1 fiscal year.
+
+**(d) Enhanced communication**
+
+(1) **Communications with Congress** — Each fiscal year, as applicable and requested, representatives from the Centers with expertise in the review of human drugs shall meet with representatives from the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives to report on the contents described in the reports under this section.
+
+(2) **Participation in congressional hearing** — Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+
+**(e) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the Internet Web site of the Food and Drug Administration.
+
+**(f) Reauthorization**
+
+(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals described in subsection (a), and plans for meeting the goals, for the process for the review of biosimilar biological product applications for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
   (A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -23726,18 +25799,45 @@ Section effective Oct. 1, 2012, with fees under this subpart to be assessed for 
 
   (E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-(3) **Transmittal of recommendations** — Not later than January 15, 2017, the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+(3) **Transmittal of recommendations** — Not later than January 15, 2022, the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section by section 404(b) of Pub. L. 112–144, see Effective and Termination Dates note set out below.
+For termination of section by section 405(b) of Pub. L. 115–52, see Effective and Termination Dates note set out below.
 
 #### References in Text
-Section 401(b) of the Biosimilar User Fee Act of 2012, referred to in subsec. (a), is section 401(b) of Pub. L. 112–144, which is set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
+Section 401(b) of the Biosimilar User Fee Amendments of 2017, referred to in subsecs. (a) and (c), is section 401(b) of Pub. L. 115–52, which is set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
+
+#### Codification
+Amendments made by section 904(d)(2) of Pub. L. 115–52, effective Aug. 18, 2017, were executed after the amendments made by section 404(3)–(5) of Pub. L. 115–52, effective Oct. 1, 2017, to reflect the probable intent of Congress and the directory language of section 904(d)(2) of Pub. L. 115–52, which expressly amended this section “as amended by section 404” of Pub. L. 115–52. See 2017 Amendment notes below.
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–52, § 903(d), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
+
+Pub. L. 115–52, § 404(1), substituted “2018” for “2013” and “Biosimilar User Fee Amendments of 2017” for “Biosimilar User Fee Act of 2012”.
+
+Subsec. (a)(5). Pub. L. 115–52, § 904(d)(1), added par. (5).
+
+Subsec. (b). Pub. L. 115–52, § 404(2), substituted “2018” for “2013”.
+
+Subsec. (c). Pub. L. 115–52, § 904(d)(2), added subsec. (c). Former subsec. (c) redesignated (e).
+
+Subsecs. (d), (e). Pub. L. 115–52, § 904(d)(2), added subsec. (d) and redesignated subsec. (c) as (e). Former subsec. (d), as redesignated by section 404(4) of Pub. L. 115–52, redesignated (f). See Amendment notes below.
+
+Pub. L. 115–52, § 404(3)–(5), redesignated subsec. (e) as (d), substituted “2022” for “2017” in pars. (1) and (3), and struck out former subsec. (d) which related to a study of the workload volume and full costs associated with the process for the review of biosimilar biological product applications.
+
+Subsec. (f). Pub. L. 115–52, § 904(d)(2), redesignated subsec. (d) as (f).
+
+#### Effective Date of 2017 Amendment
+Amendment by section 404 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all biosimilar biological product applications received on or after Oct. 1, 2017, see section 406 of Pub. L. 115–52, set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
 
 #### Effective and Termination Dates
-Pub. L. 112–144, title IV, § 404(b), July 9, 2012, 126 Stat. 1038, provided that: “Section 744I of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–53](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-53)], as added by section 403 of this Act, shall cease to be effective January 31, 2018.”
+Pub. L. 115–52, title IV, § 405(b), Aug. 18, 2017, 131 Stat. 1035, provided that: “Section 744I of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 379j–53](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-53)] shall cease to be effective January 31, 2023.”
+
+Pub. L. 112–144, title IV, § 404(b), July 9, 2012, 126 Stat. 1038, which provided that this section would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title IV, § 405(c)(1), Aug. 18, 2017, 131 Stat. 1035.
+
+[Pub. L. 115–52, title III, § 405(c)(1), Aug. 18, 2017, 131 Stat. 1035, provided that the repeal of section 404(b) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.]
 
 Section effective Oct. 1, 2012, see section 405 of Pub. L. 112–144, set out as a note under [section 379j–51 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-51).
 
@@ -23879,6 +25979,28 @@ Pub. L. 105–115, title IV, § 407(b), Nov. 21, 1997, 111 Stat. 2370, provided 
 
   (B) set forth criteria for waivers of and exemptions from the requirements of this subsection.
 
+(3) **Presubmissions and submissions solely in electronic format**
+
+  (A) *In general* — Beginning on such date as the Secretary specifies in final guidance issued under subparagraph (C), presubmissions and submissions for devices described in paragraph (1) (and any appeals of action taken by the Secretary with respect to such presubmissions or submissions) shall be submitted solely in such electronic format as specified by the Secretary in such guidance.
+
+  (B) *Draft guidance* — The Secretary shall, not later than October 1, 2019, issue draft guidance providing for—
+
+    (i) any further standards for the submission by electronic format required under subparagraph (A);
+
+    (ii) a timetable for the establishment by the Secretary of such further standards; and
+
+    (iii) criteria for waivers of and exemptions from the requirements of this subsection.
+
+  (C) *Final guidance* — The Secretary shall, not later than 1 year after the close of the public comment period on the draft guidance issued under subparagraph (B), issue final guidance.
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (b)(3). Pub. L. 115–52 added par. (3).
+
+#### Effective Date of 2017 Amendment
+Amendment by title II of Pub. L. 115–52, effective Oct. 1, 2017, except that fees under subpart 3 of part C of this subchapter to be assessed for all submissions listed in [section 379j(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j/a/2/A&num=0&edition=prelim) received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under [section 379i of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379i).
+
 
 <a id="section-379l"></a>
 ## § 379l. Education
@@ -24014,15 +26136,19 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 <a id="section-381"></a>
 ## § 381. Imports and exports
-**(a) Imports; list of registered foreign establishments; samples from unregistered foreign establishments; examination and refusal of admission** The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon his request, samples of food, drugs, devices, tobacco products, and cosmetics which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. The Secretary of Health and Human Services shall furnish to the Secretary of the Treasury a list of establishments registered pursuant to subsection (i) of section 360 or [section 387e(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section387e/h&num=0&edition=prelim) and shall request that if any drugs, devices, or tobacco products manufactured, prepared, propagated, compounded, or processed in an establishment not so registered are imported or offered for import into the United States, samples of such drugs, devices, or tobacco products be delivered to the Secretary of Health and Human Services, with notice of such delivery to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. If it appears from the examination of such samples or otherwise that (1) such article has been manufactured, processed, or packed under insanitary conditions or, in the case of a device, the methods used in, or the facilities or controls used for, the manufacture, packing, storage, or installation of the device do not conform to the requirements of [section 360j(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/f&num=0&edition=prelim), or (2) such article is forbidden or restricted in sale in the country in which it was produced or from which it was exported, or (3) such article is adulterated, misbranded, or in violation of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or the importer (as defined in [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a)) is in violation of such [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a), or prohibited from introduction or delivery for introduction into interstate commerce under section 331(ll) of this title, or (4) the recordkeeping requirements under [section 2223 of this title](./chapter-027-food-safety-modernization.md#section-2223) (other than the requirements under subsection (f) of such section) have not been complied with regarding such article, then such article shall be refused admission, except as provided in subsection (b) of this section. With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission. If such article is subject to a requirement under section 379aa or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in such section 379aa or 379aa–1 of this title) has not complied with a requirement of such section 379aa or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 379aa or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section. The Secretary of the Treasury shall cause the destruction of any such article refused admission unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within ninety days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498(a)(1) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1498/a/1&num=0&edition=prelim)) and was not brought into compliance as described under subsection (b)..11 So in original. The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug under the sixth sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee. Clause (2) of the third sentence of this paragraph 22 So in original. Probably should be “subsection”. shall not be construed to prohibit the admission of narcotic drugs the importation of which is permitted under the Controlled Substances Import and Export Act [[21 U.S.C. 951](./chapter-013-drug-abuse-prevention-and-control.md#section-951) et seq.].
+**(a) Imports; list of registered foreign establishments; samples from unregistered foreign establishments; examination and refusal of admission** The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon his request, samples of food, drugs, devices, tobacco products, and cosmetics which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. The Secretary of Health and Human Services shall furnish to the Secretary of the Treasury a list of establishments registered pursuant to subsection (i) of section 360 or [section 387e(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section387e/h&num=0&edition=prelim) and shall request that if any drugs, devices, or tobacco products manufactured, prepared, propagated, compounded, or processed in an establishment not so registered are imported or offered for import into the United States, samples of such drugs, devices, or tobacco products be delivered to the Secretary of Health and Human Services, with notice of such delivery to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. If it appears from the examination of such samples or otherwise that (1) such article has been manufactured, processed, or packed under insanitary conditions or, in the case of a device, the methods used in, or the facilities or controls used for, the manufacture, packing, storage, or installation of the device do not conform to the requirements of [section 360j(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/f&num=0&edition=prelim), or (2) such article is forbidden or restricted in sale in the country in which it was produced or from which it was exported, or (3) such article is adulterated, misbranded, or in violation of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or the importer (as defined in [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a)) is in violation of such [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a), or prohibited from introduction or delivery for introduction into interstate commerce under section 331(ll) of this title, or is a controlled substance subject to an order under [section 360bbb–8d of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-8d), or (4) the recordkeeping requirements under [section 2223 of this title](./chapter-027-food-safety-modernization.md#section-2223) (other than the requirements under subsection (f) of such section) have not been complied with regarding such article or 11 So in original. Probably should be preceded by a comma. (5) such article is being imported or offered for import in violation of [section 331(cc) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/cc&num=0&edition=prelim), then any such article described in any of clauses (1) through (5) shall be refused admission, except as provided in subsection (b) of this section. If it appears from the examination of such samples or otherwise that the article is a counterfeit drug, such article shall be refused admission. With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission. If such article is subject to a requirement under section 379aa or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in such section 379aa or 379aa–1 of this title) has not complied with a requirement of such section 379aa or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 379aa or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section. The Secretary of the Treasury shall cause the destruction of any such article refused admission unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within ninety days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug refused admission under this section, if such drug is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498(a)(1) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1498/a/1&num=0&edition=prelim)) and was not brought into compliance as described under subsection (b)..22 So in original. The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug under the sixth sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee. Neither clause (2) nor clause (5) of the third sentence of this subsection shall be construed to prohibit the admission of narcotic drugs, the importation of which is permitted under the Controlled Substances Import and Export Act [[21 U.S.C. 951](./chapter-013-drug-abuse-prevention-and-control.md#section-951) et seq.].
 
-**(b) Disposition of refused articles** Pending decision as to the admission of an article being imported or offered for import, the Secretary of the Treasury may authorize delivery of such article to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Secretary of Health and Human Services that (1) an article included within the provisions of clause (3) of subsection (a) of this section can, by relabeling or other action, be brought into compliance with this chapter or rendered other than a food, drug, device, or cosmetic, or (2) with respect to an article described in subsection (a) relating to the requirements of sections 33 So in original. Probably should be “section”. 379aa or 379aa–1 of this title,,1 the responsible person (as defined in section 379aa or 379aa–1 of this title) can take action that would assure that the responsible person is in compliance with section 379aa or 379aa–1 of this title, as the case may be, final determination as to admission of such article may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary may, in accordance with regulations, authorize the applicant, or, with respect to clause (2), the responsible person, to perform such relabeling or other action specified in such authorization (including destruction or export of rejected articles or portions thereof, as may be specified in the Secretary’s authorization). All such relabeling or other action pursuant to such authorization shall in accordance with regulations be under the supervision of an officer or employee of the Department of Health and Human Services designated by the Secretary, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
+**(b) Disposition of refused articles** Pending decision as to the admission of an article being imported or offered for import, the Secretary of the Treasury may authorize delivery of such article to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Secretary of Health and Human Services that (1) an article included within the provisions of clause (3) of subsection (a) of this section can, by relabeling or other action, be brought into compliance with this chapter or rendered other than a food, drug, device, or cosmetic, or (2) with respect to an article described in subsection (a) relating to the requirements of sections 33 So in original. Probably should be “section”. 379aa or 379aa–1 of this title,,2 the responsible person (as defined in section 379aa or 379aa–1 of this title) can take action that would assure that the responsible person is in compliance with section 379aa or 379aa–1 of this title, as the case may be, final determination as to admission of such article may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary may, in accordance with regulations, authorize the applicant, or, with respect to clause (2), the responsible person, to perform such relabeling or other action specified in such authorization (including destruction or export of rejected articles or portions thereof, as may be specified in the Secretary’s authorization). All such relabeling or other action pursuant to such authorization shall in accordance with regulations be under the supervision of an officer or employee of the Department of Health and Human Services designated by the Secretary, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
 
 **(c) Charges concerning refused articles** All expenses (including travel, per diem or subsistence, and salaries of officers or employees of the United States) in connection with the destruction provided for in subsection (a) of this section and the supervision of the relabeling or other action authorized under the provisions of subsection (b) of this section, the amount of such expenses to be determined in accordance with regulations, and all expenses in connection with the storage, cartage, or labor with respect to any article refused admission under subsection (a) of this section, shall be paid by the owner or consignee and, in default of such payment, shall constitute a lien against any future importations made by such owner or consignee.
 
 **(d) Reimportation**
 
-(1) Except as provided in paragraph (2) and [section 384 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384), no drug subject to [section 353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b&num=0&edition=prelim) or composed wholly or partly of insulin which is manufactured in a State and exported may be imported into the United States unless the drug is imported by the manufacturer of the drug.
+(1)
+
+  (A) Except as provided in paragraph (2) and [section 384 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384), no drug subject to [section 353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b&num=0&edition=prelim) or composed wholly or partly of insulin which is manufactured in a State and exported may be imported into the United States unless the drug is imported by the manufacturer of the drug.
+
+  (B) Except as authorized by the Secretary in the case of a drug that appears on the drug shortage list under [section 356e of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-356e) or in the case of importation pursuant to [section 384 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384), no drug that is subject to [section 353(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim) may be imported into the United States for commercial use if such drug is manufactured outside the United States, unless the manufacturer has authorized the drug to be marketed in the United States and has caused the drug to be labeled to be marketed in the United States.
 
 (2) The Secretary may authorize the importation of a drug the importation of which is prohibited by paragraph (1) if the drug is required for emergency medical care.
 
@@ -24093,6 +26219,34 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
     (i) Such fees shall be collected and available solely for the costs of the Food and Drug Administration associated with issuing such certifications.
 
     (ii) Such fees may not be retained in an amount that exceeds such costs for the respective fiscal year.
+
+  (E)
+
+    (i)
+
+      (I) If the Secretary denies a request for certification under subparagraph (A)(ii) with respect to a device manufactured in an establishment (foreign or domestic) registered under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360), the Secretary shall provide in writing to the person seeking such certification the basis for such denial, and specifically identify the finding upon which such denial is based.
+
+      (II) If the denial of a request as described in subclause (I) is based on grounds other than an injunction proceeding pursuant to [section 332 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-332), seizure action pursuant to [section 334 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-334), or a recall designated Class I or Class II pursuant to part 7, title 21, Code of Federal Regulations, and is based on the facility being out of compliance with part 820 of title 21, Code of Federal Regulations, the Secretary shall provide a substantive summary of the specific grounds for noncompliance identified by the Secretary.
+
+      (III) With respect to a device manufactured in an establishment that has received a report under [section 374(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section374/b&num=0&edition=prelim), the Secretary shall not deny a request for certification as described in subclause (I) with respect to a device based solely on the issuance of that report if the owner, operator, or agent in charge of such establishment has agreed to a plan of correction in response to such report.
+
+    (ii)
+
+      (I) The Secretary shall provide a process for a person who is denied a certification as described in clause (i)(I) to request a review that conforms to the standards of [section 360g–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360g–1/b&num=0&edition=prelim).
+
+      (II) Notwithstanding any previous review conducted pursuant to subclause (I), a person who has been denied a certification as described in clause (i)(I) may at any time request a review in order to present new information relating to actions taken by such person to address the reasons identified by the Secretary for the denial of certification, including evidence that corrective actions are being or have been implemented to address grounds for noncompliance identified by the Secretary.
+
+      (III) Not later than 1 year after August 18, 2017, the Secretary shall issue guidance providing for a process to carry out this subparagraph. Not later than 1 year after the close of the comment period for such guidance, the Secretary shall issue final guidance.
+
+    (iii)
+
+      (I) Subject to subclause (II), this subparagraph applies to requests for certification on behalf of any device establishment registered under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360), whether the establishment is located inside or outside of the United States, and regardless of whether such devices are to be exported from the United States.
+
+      (II) If an establishment described in subclause (I) is not located within the United States and does not demonstrate that the devices manufactured, prepared, propagated, compounded, or processed at such establishment are to be exported from the United States, this subparagraph shall apply only if—
+
+        (aa) the establishment has been inspected by the Secretary within 3 years of the date of the request; or
+
+        (bb) the establishment participates in an audit program in which the United States participates or the United States recognizes, an audit under such program has been conducted, and the findings of such audit are provided to the Secretary within 3 years of the date of the request.
 
 **(f) Labeling of exported drugs**
 
@@ -24310,6 +26464,34 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 (5) **Exemptions** — The Secretary, by notice in the Federal Register, may establish exemptions from the requirements of this subsection.
 
+**(t) Single source pattern of imported illegal drugs** If the Secretary determines that a person subject to debarment as a result of engaging in a pattern of importing or offering for import controlled substances or drugs as described in [section 335a(b)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section335a/b/3/D&num=0&edition=prelim), and such pattern is identified by the Secretary as being offered for import from the same manufacturer, distributor, or importer, the Secretary may by order determine all drugs being offered for import from such person as adulterated or misbranded, unless such person can provide evidence otherwise.
+
+**(u) Illicit articles containing active pharmaceutical ingredients**
+
+(1) **In general** — For purposes of this section, an article that is being imported or offered for import into the United States may be treated by the Secretary as a drug if the article—
+
+  (A) is not—
+
+    (i) accompanied by an electronic import entry for such article submitted using an authorized electronic data interchange system; and
+
+    (ii) designated in such a system as an article regulated by the Secretary (which may include regulation as a drug, a device, a dietary supplement, or other product that is regulated under this chapter); and
+
+  (B) is an ingredient that presents significant public health concern and is, or contains—
+
+    (i) an active ingredient in a drug—
+
+      (I) that is approved under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or licensed under section 351 of the Public Health Service Act [[42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)]; or
+
+      (II) for which—
+
+        (aa) an investigational use exemption has been authorized under [section 355(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim) or section 351(a) of the Public Health Service Act [[42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)]; and
+
+        (bb) a substantial clinical investigation has been instituted, and such investigation has been made public; or
+
+    (ii) a substance that has a chemical structure that is substantially similar to the chemical structure of an active ingredient in a drug or biological product described in subclause (I) or (II) of clause (i).
+
+(2) **Effect** — This subsection shall not be construed to bear upon any determination of whether an article is a drug within the meaning of [section 321(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/g&num=0&edition=prelim), other than for the purposes described in paragraph (1).
+
 ### Statutory Notes
 
 #### References in Text
@@ -24324,6 +26506,22 @@ The Egg Products Inspection Act, referred to in subsec. (m)(3)(B), is Pub. L. 91
 The Public Health Service Act, referred to in subsec. (s)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–271, § 3022(c)(2), (3), inserted “If it appears from the examination of such samples or otherwise that the article is a counterfeit drug, such article shall be refused admission.” after third sentence, and substituted “Neither clause (2) nor clause (5) of the third sentence of this subsection shall be construed to prohibit the admission of narcotic drugs, the importation of which is permitted under the Controlled Substances Import and Export Act.” for “Clause (2) of the third sentence of this paragraph shall not be construed to prohibit the admission of narcotic drugs the importation of which is permitted under the Controlled Substances Import and Export Act.”
+
+Pub. L. 115–271, § 3022(c)(1), which directed substitution of “or (5) such article is being imported or offered for import in violation of [section 331(cc) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/cc&num=0&edition=prelim), then any such article described in any of clauses (1) through (5) shall be refused admission” for “, then such article shall be refused admission”, was executed by making the substitution only in the third sentence, to reflect the probable intent of Congress.
+
+Pub. L. 115–271, § 3012(c), inserted “, or is a controlled substance subject to an order under [section 360bbb–8d of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-8d)” before “or (4)” in third sentence.
+
+Subsec. (t). Pub. L. 115–271, § 3013, added subsec. (t).
+
+Subsec. (u). Pub. L. 115–271, § 3022(d), added subsec. (u).
+
+2017—Subsec. (d)(1). Pub. L. 115–52, § 604(a), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (e)(4)(C), (D). Pub. L. 115–52, § 704(2), realigned margins.
+
+Subsec. (e)(4)(E). Pub. L. 115–52, § 704(1), added subpar. (E).
+
 2016—Subsec. (s)(2)(D). Pub. L. 114–255 added subpar. (D).
 
 2012—Subsec. (a). Pub. L. 112–144, § 708(b), inserted “The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug under the sixth sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee.” after “described under subsection (b)..”
@@ -25252,7 +27450,7 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 ## § 384e. Recognition of foreign government inspections
 **(a) Inspection** The Secretary—
 
-(1) may enter into arrangements and agreements with a foreign government or an agency of a foreign government to recognize the inspection of foreign establishments registered under [section 360(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/i&num=0&edition=prelim) in order to facilitate risk-based inspections in accordance with the schedule established in [section 360(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/h/3&num=0&edition=prelim);
+(1) may enter into arrangements and agreements with a foreign government or an agency of a foreign government to recognize the inspection of foreign establishments registered under [section 360(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/i&num=0&edition=prelim) in order to facilitate risk-based inspections in accordance with the schedule established in paragraph (2) or (3) of [section 360(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/h&num=0&edition=prelim);
 
 (2) may enter into arrangements and agreements with a foreign government or an agency of a foreign government under this section only with a foreign government or an agency of a foreign government that the Secretary has determined as having the capability of conducting inspections that meet the applicable requirements of this chapter; and
 
@@ -25267,7 +27465,62 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–52 substituted “paragraph (2) or (3) of section 360(h)” for “section 360(h)(3)”.
+
 2016—Subsec. (a)(2). Pub. L. 114–255 substituted “conducting” for “conduction”.
+
+
+<a id="section-384f"></a>
+## § 384f. Strengthening FDA and CBP coordination and capacity
+**(a) In general** The Secretary of Health and Human Services (referred to in this section as the “Secretary”), acting through the Commissioner of Food and Drugs, shall coordinate with the Secretary of Homeland Security to carry out activities related to customs and border protection and in response to illegal controlled substances and drug imports, including at sites of import (such as international mail facilities), that will provide improvements to such facilities, technologies, and inspection capacity. Such Secretaries may carry out such activities through a memorandum of understanding between the Food and Drug Administration and the U.S. Customs and Border Protection.
+
+**(b) FDA import facilities and inspection capacity**
+
+(1) **In general** — In carrying out this section, the Secretary shall, in collaboration with the Secretary of Homeland Security and the Postmaster General of the United States Postal Service, provide that import facilities in which the Food and Drug Administration operates or carries out activities related to drug imports within the international mail facilities include—
+
+  (A) facility upgrades and improved capacity in order to increase and improve inspection and detection capabilities, which may include, as the Secretary determines appropriate—
+
+    (i) improvements to facilities, such as upgrades or renovations, and support for the maintenance of existing import facilities and sites to improve coordination between Federal agencies;
+
+    (ii) improvements in equipment and information technology enhancement to identify unapproved, counterfeit, or other unlawful controlled substances for destruction;
+
+    (iii) the construction of, or upgrades to, laboratory capacity for purposes of detection and testing of imported goods;
+
+    (iv) upgrades to the security of import facilities; and
+
+    (v) innovative technology and equipment to facilitate improved and near-real-time information sharing between the Food and Drug Administration, the Department of Homeland Security, and the United States Postal Service; and
+
+  (B) innovative technology, including controlled substance detection and testing equipment and other applicable technology, in order to collaborate with the U.S. Customs and Border Protection to share near-real-time information, including information about test results, as appropriate.
+
+(2) **Innovative technology** — Any technology used in accordance with paragraph (1)(B) shall be interoperable with technology used by other relevant Federal agencies, including the U.S. Customs and Border Protection, as the Secretary determines appropriate and practicable.
+
+**(c) Report** Not later than 6 months after October 24, 2018, the Secretary, in consultation with the Secretary of Homeland Security and the Postmaster General of the United States Postal Service, shall report to the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate on the implementation of this section, including a summary of progress made toward near-real-time information sharing and the interoperability of such technologies.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Stop Counterfeit Drugs by Regulating and Enhancing Enforcement Now Act, also known as the SCREEN Act, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+
+<a id="section-384g"></a>
+## § 384g. Restricting entrance of illicit drugs
+**(a) Food and Drug Administration and U.S. Customs and Border Protection cooperation**
+
+(1) **In general** — The Secretary of Health and Human Services (referred to in this section as the “Secretary”), acting through the Commissioner of Food and Drugs and in consultation with the U.S. Customs and Border Protection, shall develop and periodically update a mutually agreed upon list of the controlled substances that the Secretary will refer to U.S. Customs and Border Protection, unless the Secretary and U.S. Customs and Border Protection agree otherwise, when such substances are offered for import via international mail and appear to violate the Controlled Substances Act ([21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.), the Controlled Substances Import and Export Act ([21 U.S.C. 951](./chapter-013-drug-abuse-prevention-and-control.md#section-951) et seq.), the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.), or any other applicable law. The Secretary shall transfer controlled substances on such list to the U.S. Customs and Border Protection. If the Secretary identifies additional packages that appear to be the same as such package containing a controlled substance, such additional packages may also be transferred to U.S. Customs and Border Protection. The U.S. Customs and Border Protection shall receive such packages consistent with the requirements of the Controlled Substances Act ([21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.).
+
+(2) **Report** — Not later than 9 months after October 24, 2018, the Secretary, acting through the Commissioner of Food and Drugs and in consultation with the Secretary of Homeland Security, shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the implementation of this section.
+
+### Statutory Notes
+
+#### References in Text
+The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+
+The Controlled Substances Import and Export Act, referred to in subsec. (a)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951) and Tables.
+
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+
+#### Codification
+Section was enacted as part of the Stop Counterfeit Drugs by Regulating and Enhancing Enforcement Now Act, also known as the SCREEN Act, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 
 <a id="section-387"></a>
@@ -26896,7 +29149,7 @@ The Import Milk Act of February 15, 1927, referred to in subsec. (b), is act Feb
 Subsecs. (a) and (b) of this section comprise respectively subsecs. (b) and (c) of section 1002 of act June 25, 1938. Subsecs. (a) and (d) of section 1002 of act June 25, 1938, which prescribed the effective date of this chapter and made appropriations available, are set out as notes under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and this section, respectively.
 
 #### Amendments
-1968—Subsec. (b). Pub. L. 90–399 substituted “[section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim) (relating to viruses, serums, toxins, and analogous products applicable to man)” for “the virus serum, and toxin Act of July 1, 1902” and inserted reference to “the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913”.
+1968—Subsec. (b). Pub. L. 90–399 substituted “section 351 of Public Health Service Act (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 (37 Stat. 832–833);” for “the virus, serum, and toxin Act of July 1, 1902 (U.S.C., 1934 ed., title 42, chap. 4);”.
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under [section 360b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360b).
@@ -27071,7 +29324,7 @@ Pub. L. 100–607, title V, § 502, Nov. 4, 1988, 102 Stat. 3120, provided that:
 
 (4) one or more additional individuals with expertise in pediatrics as may be necessary to perform the activities described in subsection (b).
 
-**(d) Neonatology expertise** For the 5-year period beginning on July 9, 2012, at least one of the individuals described in subsection (c)(2) shall have expertise in neonatology.
+**(d) Neonatology expertise** At least one of the individuals described in subsection (c)(2) shall have expertise in neonatology.
 
 ### Statutory Notes
 
@@ -27079,6 +29332,8 @@ Pub. L. 100–607, title V, § 502, Nov. 4, 1988, 102 Stat. 3120, provided that:
 Section was enacted as part of the Best Pharmaceuticals for Children Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–52 substituted “At least” for “For the 5-year period beginning on July 9, 2012, at least”.
+
 2012—Subsec. (c)(2) to (4). Pub. L. 112–144, § 511(1), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
 Subsec. (d). Pub. L. 112–144, § 511(2), added subsec. (d).
@@ -27538,3 +29793,22 @@ Section was enacted as part of the Food and Drug Administration Safety and Innov
 
 #### Codification
 Section was enacted as part of the 21st Century Cures Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+
+<a id="section-399i"></a>
+## § 399i. Food and Drug Administration Working Capital Fund
+**(a) In general** There is hereby established in the Treasury of the United States a Working Capital Fund (the Fund) to be administered by the Food and Drug Administration (FDA), without fiscal year limitation, for the payment of salaries, travel, and other expenses necessary to the maintenance and operation of (1) a supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, materials, equipment, and blank forms, for which stocks may be maintained to meet, in whole or in part, the needs of the FDA and requisitions of other Government Offices, and (2) such other services as the Commissioner of the FDA, subject to review by the Secretary of Health and Human Services, determines may be performed more advantageously as central services. The Fund shall be reimbursed from applicable discretionary resources, notwithstanding any otherwise applicable purpose limitations, available when services are performed or stock furnished, or in advance, on a basis of rates which shall include estimated or actual charges for personal services, materials, equipment, information technology, and other expenses. Charges for equipment and information technology shall include costs associated with maintenance, repair, and depreciation (including improvement and replacement).
+
+**(b) Appropriations** Of any discretionary resources appropriated in this Act for fiscal year 2018 for “Department of Health and Human Services, Food and Drug Administration, Salaries and Expenses”, not to exceed $5,000,000 of amounts available as of September 30 may be transferred to and merged with the Fund established under subsection (a), notwithstanding any otherwise applicable purpose limitations.
+
+**(c) Emergency funds excluded** No amounts may be transferred pursuant to this section that are designated by the Congress as an emergency requirement pursuant to a concurrent resolution on the budget or the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.].
+
+### Statutory Notes
+
+#### References in Text
+“This Act”, referred to in subsec. (b), is div. A of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 351, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018. For complete classification of this Act to the Code, see Tables.
+
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

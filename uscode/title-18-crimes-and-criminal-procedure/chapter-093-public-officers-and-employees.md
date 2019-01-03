@@ -87,7 +87,7 @@ The provisions of [section 216 of title 18](./chapter-011-bribery-graft-and-conf
 Minor changes were made in translations and phraseology.
 
 #### References in Text
-The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) and Tables.
+The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1311&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight”.
@@ -536,7 +536,7 @@ Clauses (1) and (2) are substituted for the words “under this Act” to reflec
 
 <a id="section-1924"></a>
 ## § 1924. Unauthorized removal and retention of classified documents or material
-**(a)** Whoever, being an officer, employee, contractor, or consultant of the United States, and, by virtue of his office, employment, position, or contract, becomes possessed of documents or materials containing classified information of the United States, knowingly removes such documents or materials without authority and with the intent to retain such documents or materials at an unauthorized location shall be fined under this title or imprisoned for not more than one year, or both.
+**(a)** Whoever, being an officer, employee, contractor, or consultant of the United States, and, by virtue of his office, employment, position, or contract, becomes possessed of documents or materials containing classified information of the United States, knowingly removes such documents or materials without authority and with the intent to retain such documents or materials at an unauthorized location shall be fined under this title or imprisoned for not more than five years, or both.
 
 **(b)** For purposes of this section, the provision of documents and materials to the Congress shall not constitute an offense under subsection (a).
 
@@ -545,4 +545,6 @@ Clauses (1) and (2) are substituted for the words “under this Act” to reflec
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–118 substituted “five years” for “one year”.
+
 2002—Subsec. (a). Pub. L. 107–273 substituted “under this title” for “not more than $1,000,”.

@@ -88,11 +88,11 @@ Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e) which re
 ## § 152. Chairman: appointment; grade and rank
 **(a) Appointment; Term of Office.—**
 
-(1) There is a Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces. The Chairman serves at the pleasure of the President for a term of two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.
+(1) There is a Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces. The Chairman serves at the pleasure of the President for a term of four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.
 
 (2) In the event of the death, retirement, resignation, or reassignment of the officer serving as Chairman before the end of the term for which the officer was appointed, an officer appointed to fill the vacancy shall serve as Chairman only for the remainder of the original term, but may be reappointed as provided in paragraph (1).
 
-(3) An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war.
+(3) The President may extend to eight years the combined period of service of an officer as Chairman and Vice Chairman if the President determines that such action is in the national interest. The limitation in this paragraph does not apply in time of war.
 
 **(b) Requirement for Appointment.—**
 
@@ -110,17 +110,6 @@ Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e) which re
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)
-Pub. L. 114–328, div. A, title IX, § 921(b), Dec. 23, 2016, 130 Stat. 2351, provided that, effective Jan. 1, 2019, and applicable to individuals appointed as Chairman of the Joint Chiefs of Staff on or after that date, subsection (a) of this section is amended as follows:
-
-(1) in paragraph (1), by striking “two years, beginning on October 1 of odd-numbered years” and all that follows and inserting “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.”; and
-
-(2) by striking paragraph (3) and inserting the following new paragraph (3):
-
-“(3) The President may extend to eight years the combined period of service of an officer as Chairman and Vice Chairman if the President determines that such action is in the national interest. The limitation in this paragraph does not apply in time of war.”
-
-See 2016 Amendment notes below.
-
 #### Amendments
 2016—Subsec. (a)(1). Pub. L. 114–328, § 921(b)(1)(A), substituted “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.” for “two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
 
@@ -134,7 +123,7 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 
 <a id="section-153"></a>
 ## § 153. Chairman: functions
-**(a) Planning; Advice; Policy Formulation.—** Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following 11 So in original. Probably should be “following:”.
+**(a) Planning; Advice; Policy Formulation.—** Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
 
 (1) **Strategic direction.—** — Assisting the President and the Secretary in providing for the strategic direction of the armed forces.
 
@@ -192,7 +181,7 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 
   (C) formulating policies for coordinating the military education of members of the armed forces;
 
-  (D) formulating policies for concept development and experimentation for the joint employment of the armed forces;
+  (D) formulating policies for development and experimentation on both urgent and long-term concepts for joint force employment, including establishment of a process within the Joint Staff for analyzing and prioritizing gaps in capabilities that could potentially be addressed by joint concept development using existing or modified joint force capabilities;
 
   (E) formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces; and
 
@@ -232,7 +221,7 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 
     (ii) assess military ends, ways, and means to support the objectives referred to in subparagraph (C);
 
-    (iii) provide the framework for the assessment by the Chairman of military strategic and operational risks, and for the development of risk mitigation options;
+    (iii) provide the framework for the assessment by the Chairman of military risk, and for the development of risk mitigation options;
 
     (iv) develop military options to address threats and opportunities;
 
@@ -248,7 +237,7 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 
     (i) As the Chairman considers appropriate, update any changes to the strategic environment, threats, objectives, force planning and sizing constructs, assessments, and assumptions that informed the National Military Strategy (or update) required by this section.
 
-    (ii) Identify and define the military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update).
+    (ii) Identify and define the military strategic risks to United States interests and military risks in executing the National Military Strategy (or update).
 
     (iii) Identify and define levels of risk, including an identification of what constitutes “significant” risk in the judgment of the Chairman.
 
@@ -297,7 +286,17 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351
 ### Statutory Notes
 
 #### Amendments
-2016—Subsec. (a). Pub. L. 114–328, § 921(c), which directed general amendment of text of [section 153 of title 10](./chapter-005-joint-chiefs-of-staff.md#section-153), was executed in subsec. (a) of this section, to reflect the probable intent of Congress and the subsequent amendments by Pub. L. 114–328, §§ 943 and 1064(c). Prior to amendment, subsec. (a) related to Chairman’s functions of planning, advice, and policy formulation.
+2018—Subsec. (a)(6)(D). Pub. L. 115–232, § 912, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “formulating policies for concept development and experimentation for the joint employment of the armed forces;”.
+
+Subsec. (b)(1)(D)(iii). Pub. L. 115–232, § 913(1), substituted “military risk” for “military strategic and operational risks”.
+
+Subsec. (b)(2)(B)(ii). Pub. L. 115–232, § 913(2), substituted “military strategic risks to United States interests and military risks in executing the National Military Strategy (or update)” for “military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update)”.
+
+2017—Subsec. (a). Pub. L. 115–91, § 1081(d)(10), made technical amendment to directory language of Pub. L. 114–328, § 921(c). See 2016 Amendment note below.
+
+Pub. L. 115–91, § 1081(a)(8), in introductory provisions, inserted colon after “the following”.
+
+2016—Subsec. (a). Pub. L. 114–328, § 921(c), as amended by Pub. L. 115–91, § 1081(d)(10), amended the text of subsec. (a) generally. Prior to amendment, subsec. (a) related to Chairman’s functions of planning, advice, and policy formulation.
 
 Subsec. (b)(1). Pub. L. 114–328, § 943(a), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (F) and related to national military strategy.
 
@@ -386,6 +385,9 @@ Subsec. (b). Pub. L. 107–107, § 921(b)(2), struck out heading and text of sub
 Subsec. (d)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title IX, § 905(a)], added subpars. (C) and (D).
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsecs. (c) and (d).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(10) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(3) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
@@ -571,6 +573,9 @@ Pub. L. 103–35, title II, § 202(b), May 31, 1993, 107 Stat. 102, provided tha
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Establishment of Chairman’s Controlled Activity Within Joint Staff for Intelligence, Surveillance, and Reconnaissance
+Pub. L. 115–91, div. A, title XVI, § 1627, Dec. 12, 2017, 131 Stat. 1734, provided that: “(a) Chairman’s Controlled Activity.—The Chairman of the Joint Chiefs of Staff shall—“(1) undertake the roles, missions, and responsibilities of, and preserve an equal or greater number of personnel billets than the amount of such billets previously prescribed for, the Joint Functional Component Command for Intelligence, Surveillance, and Reconnaissance of the United States Strategic Command; and “(2) not later than 30 days after the date of the enactment of this Act [Dec. 12, 2017], establish an organization within the Joint Staff—“(A) that is designated as the Joint Staff Intelligence, Surveillance, and Reconnaissance Directorate and Supporting Chairman’s Controlled Activity; “(B) for which the Chairman of the Joint Chiefs of Staff shall serve as the joint functional manager; and “(C) that shall synchronize cross-combatant command intelligence, surveillance, and reconnaissance plans and develop strategies integrating all intelligence, surveillance, and reconnaissance capabilities provided by joint services, the National Reconnaissance Office, combat support intelligence agencies of the Department of Defense, and allies, to satisfy the intelligence needs of the combatant commands for the Department of Defense. “(b) Lead Agent.—The Secretary of Defense shall designate the Secretary of the Air Force as the lead agent and sponsor for funding for the organization established under subsection (a)(2). “(c) Data Collection and Analysis to Support ISR Allocation and Synchronization Processes.—In coordination with the Director of Cost Analysis and Program Evaluation, the Chairman of the Joint Chiefs of Staff shall issue guidance to the commanders of the geographical combatant commands that requires the commanders to collect sufficient and relevant data regarding the effectiveness of intelligence, surveillance, and reconnaissance measures in a manner that will—“(1) enable the standardized, objective evaluation and analysis of that data with respect to the use and effectiveness of the intelligence, surveillance, and reconnaissance capabilities provided to the commanders; and “(2) support recommendations made by the organization established under subsection (a)(2) to the Secretary of Defense regarding the allocation of intelligence, surveillance, and reconnaissance resources of the Department of Defense.”
+
 #### Increased Flexibility in Use of Funds for Joint Staff Exercises
 Pub. L. 109–364, div. A, title X, § 1052, Oct. 17, 2006, 120 Stat. 2396, provided that: “(a) In General.—Amounts available to the Chairman of the Joint Chiefs of Staff for joint staff exercises may be available for any expenses as follows:“(1) Expenses of the Armed Forces in connection with such exercises, including expense relating to self-deploying watercraft under the jurisdiction of a military department. “(2) Expenses relating to the costs of port support activities in connection with such exercises, including transportation and port handling. “(3) Expenses relating to the breakout and operation of prepositioned watercraft and lighterage for joint logistics and over the shore exercises in connection with such exercises. “(b) Supplement Not Supplant.—Any amounts made available by the Chairman of the Joint Chiefs of Staff under subsection (a) for expenses covered by that subsection are in addition to any other amounts available under law for such expenses.”
 
@@ -587,6 +592,11 @@ Section, added Pub. L. 112–239, div. A, title V, § 511(a), Jan. 2, 2013, 126 
 
 #### Prior Provisions
 Provisions similar to those formerly contained in this section were contained in Pub. L. 105–85, div. A, title IX, § 901, Nov. 18, 1997, 111 Stat. 1853, which was set out as a note under [section 155 of this title](./chapter-005-joint-chiefs-of-staff.md#section-155), prior to repeal by Pub. L. 112–239, § 511(c).
+
+#### Retention of Grade of Incumbents in Positions on Effective Date
+Pub. L. 114–328, div. A, title V, § 502(tt), as added by Pub. L. 115–91, div. A, title V, § 506(a)(1), Dec. 12, 2017, 131 Stat. 1374, provided that: “The grade of service of an officer serving as of the date of the enactment of this Act [Dec. 23, 2016, see below] in a position whose statutory grade is affected by an amendment made by this section [see Tables for classification] may not be reduced after that date by reason of such amendment as long as the officer remains in continuous service in such position after that date.”
+
+[Pub. L. 115–91, div. A, title V, § 506(a)(2), Dec. 12, 2017, 131 Stat. 1374, provided that: “The amendment made by paragraph (1) [enacting section 502(tt) of Pub. L. 114–328, set out above] shall take effect as of December 23, 2016, and be treated as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328).” ]
 
 
 <a id="section-156"></a>

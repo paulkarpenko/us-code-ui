@@ -148,7 +148,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
   (B) any Federal home loan bank; or
 
-  (C) any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 CFR part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”.
+  (C) any bank holding company or savings and loan holding company that is subject to the application of appendix C to part 225 of title 12, Code of Federal Regulations (commonly known as the “Small Bank Holding Company and Savings and Loan Holding Company Policy Statement”).
 
 (6) **Study and report on small institution access to capital**
 
@@ -187,11 +187,11 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 #### References in Text
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of this title](./chapter-052-emergency-economic-stabilization.md#section-5201) and Tables.
 
-Section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”, referred to in subsec. (b)(5)(C), is section 1 of Pub. L. 113–250, which is set out as a note below.
-
 The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2018—Subsec. (b)(5)(C). Pub. L. 115–174 added subpar. (C) and struck out former subpar. (C) which read as follows: “any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 CFR part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled ‘To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes’.”
+
 2015—Subsec. (b)(4)(C). Pub. L. 114–94 inserted “or March 31, 2010,” after “December 31, 2009,”.
 
 2014—Subsec. (a)(4) to (7). Pub. L. 113–279, § 2(1), added pars. (4) to (7).
@@ -199,6 +199,16 @@ The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1
 Subsec. (b)(5)(C). Pub. L. 113–250 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.”
 
 Subsec. (c). Pub. L. 113–279, § 2(2), added subsec. (c).
+
+#### Capital Simplification for Qualifying Community Banks
+Pub. L. 115–174, title II, § 201, May 24, 2018, 132 Stat. 1306, provided that: “(a) Definitions.—In this section:“(1) Community bank leverage ratio.—The term ‘Community Bank Leverage Ratio’ means the ratio of the tangible equity capital of a qualifying community bank, as reported on the qualifying community bank’s applicable regulatory filing with the qualifying community bank’s appropriate Federal banking agency, to the average total consolidated assets of the qualifying community bank, as reported on the qualifying community bank’s applicable regulatory filing with the qualifying community bank’s appropriate Federal banking agency. “(2) Generally applicable leverage capital requirements; generally applicable risk-based capital requirements.—The terms ‘generally applicable leverage capital requirements’ and ‘generally applicable risk-based capital requirements’ have the meanings given those terms in section 171(a) of the Financial Stability Act of 2010 ([12 U.S.C. 5371(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5371/a&num=0&edition=prelim)). “(3) Qualifying community bank.—“(A) Asset threshold.—The term ‘qualifying community bank’ means a depository institution or depository institution holding company with total consolidated assets of less than $10,000,000,000. “(B) Risk profile.—The appropriate Federal banking agencies may determine that a depository institution or depository institution holding company (or a class of depository institutions or depository institution holding companies) described in subparagraph (A) is not a qualifying community bank based on the depository institution’s or depository institution holding company’s risk profile, which shall be based on consideration of—“(i) off-balance sheet exposures; “(ii) trading assets and liabilities; “(iii) total notional derivatives exposures; and “(iv) such other factors as the appropriate Federal banking agencies determine appropriate. “(b) Community Bank Leverage Ratio.—The appropriate Federal banking agencies shall, through notice and comment rule making under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code—“(1) develop a Community Bank Leverage Ratio of not less than 8 percent and not more than 10 percent for qualifying community banks; and “(2) establish procedures for treatment of a qualifying community bank that has a Community Bank Leverage Ratio that falls below the percentage developed under paragraph (1) after exceeding the percentage developed under paragraph (1). “(c) Capital Compliance.—“(1) In general.—Any qualifying community bank that exceeds the Community Bank Leverage Ratio developed under subsection (b)(1) shall be considered to have met—“(A) the generally applicable leverage capital requirements and the generally applicable risk-based capital requirements; “(B) in the case of a qualifying community bank that is a depository institution, the capital ratio requirements that are required in order to be considered well capitalized under section 38 of the Federal Deposit Insurance Act ([12 U.S.C. 1831](./chapter-016-federal-deposit-insurance-corporation.md#section-1831)o) and any regulation implementing that section; and “(C) any other capital or leverage requirements to which the qualifying community bank is subject. “(2) Existing authorities.—Nothing in paragraph (1) shall limit the authority of the appropriate Federal banking agencies as in effect on the date of enactment of this Act [May 24, 2018]. “(d) Consultation.—The appropriate Federal banking agencies shall—“(1) consult with the applicable State bank supervisors in carrying out this section; and “(2) notify the applicable State bank supervisor of any qualifying community bank that it supervises that exceeds, or does not exceed after previously exceeding, the Community Bank Leverage ratio developed under subsection (b)(1).”
+
+[For definitions of “appropriate Federal banking agency”, “depository institution”, and “depository institution holding company”, as used in section 201 of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).]
+
+#### Small Bank Holding Company Policy Statement
+Pub. L. 115–174, title II, § 207(a)–(c), May 24, 2018, 132 Stat. 1312, provided that: “(a) Definitions.—In this section [enacting this note and amending this section]:“(1) Board.—The term ‘Board’ means the Board of Governors of the Federal Reserve System. “(2) Savings and loan holding company.—The term ‘savings and loan holding company’ has the meaning given the term in section 10(a) of the Home Owners’ Loan Act ([12 U.S.C. 1467a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/a&num=0&edition=prelim)). “(b) Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors.—Not later than 180 days after the date of enactment of this Act [May 24, 2018], the Board shall revise appendix C to part 225 of title 12, Code of Federal Regulations (commonly known as the ‘Small Bank Holding Company and Savings and Loan Holding Company Policy Statement’), to raise the consolidated asset threshold under that appendix from $1,000,000,000 to $3,000,000,000 for any bank holding company or savings and loan holding company that—“(1) is not engaged in significant nonbanking activities either directly or through a nonbank subsidiary; “(2) does not conduct significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; and “(3) does not have a material amount of debt or equity securities outstanding (other than trust preferred securities) that are registered with the Securities and Exchange Commission. “(c) Exclusions.—The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the revision under subsection (b) if the Board determines that such action is warranted for supervisory purposes.”
+
+[For definition of “bank holding company” as used in section 207(a)–(c) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).]
 
 #### Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors
 Pub. L. 113–250, Dec. 18, 2014, 128 Stat. 2886, provided that: “SECTION 1. CHANGES REQUIRED TO SMALL BANK HOLDING COMPANY POLICY STATEMENT ON ASSESSMENT OF FINANCIAL AND MANAGERIAL FACTORS.“(a) In General.—Before the end of the 6-month period beginning on the date of the enactment of this Act [Dec. 18, 2014], the Board of Governors of the Federal Reserve System (hereafter in this Act referred to as the ‘Board’) shall publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors (12 CFR part 225 appendix C) that provide that the policy shall apply to bank holding companies and savings and loan holding companies which have pro forma consolidated assets of less than $1,000,000,000 and that—“(1) are not engaged in significant nonbanking activities either directly or through a nonbank subsidiary; “(2) do not conduct significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; and “(3) do not have a material amount of debt or equity securities outstanding (other than trust preferred securities) that are registered with the Securities and Exchange Commission. “(b) Exclusions.—The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the policy statement under subsection (a) if the Board determines that such action is warranted for supervisory purposes. “SEC. 2. CONFORMING AMENDMENT.“(a) In General.—[Amended this section.] “(b) Transition Period.—Any small bank holding company that was excepted from the provisions of section 171 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [[12 U.S.C. 5371](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5371)] pursuant to subparagraph (C) of section 171(b)(5) (as such subparagraph was in effect on the day before the date of enactment of this Act [Dec. 18, 2014]), and any small savings and loan holding company that would have been excepted from the provisions of section 171 pursuant to subparagraph (C) [of section 171(b)(5)] (as such subparagraph was in effect on the day before the date of enactment of this Act) if it had been a small bank holding company, shall be excepted from the provisions of section 171 until the effective date of the Small Bank Holding Company Policy Statement issued by the Board as required by section 1 of this Act. “SEC. 3. DEFINITIONS.“For the purposes of this Act:“(a) Bank Holding Company.—The term ‘bank holding company’ has the same meaning as in section 2 of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841)). “(b) Savings and Loan Holding Company.—The term ‘savings and loan holding company’ has the same meaning as in section 10(a) of the Home Owners’ Loan Act ([12 U.S.C. 1467a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/a&num=0&edition=prelim)).”
@@ -344,6 +354,9 @@ The Commodity Exchange Act, referred to in par. (12)(C), is act Sept. 21, 1922, 
 
 #### Effective Date
 Pub. L. 111–203, § 4, July 21, 2010, 124 Stat. 1390, provided that: “Except as otherwise specifically provided in this Act [see Short Title note below] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act [July 21, 2010].”
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–61, § 1, Sept. 27, 2017, 131 Stat. 1158, provided that: “This Act [amending [section 5321 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5321)] may be cited as the ‘Financial Stability Oversight Council Insurance Member Continuity Act’.”
 
 #### Short Title of 2014 Amendment
 Pub. L. 113–279, § 1, Dec. 18, 2014, 128 Stat. 3017, provided that: “This Act [amending [section 5371 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5371)] may be cited as the ‘Insurance Capital Standards Clarification Act of 2014’.”
@@ -537,6 +550,12 @@ This subchapter known as the “Financial Stability Act of 2010”, see Short Ti
 
 (3) **Acting officials may serve** — In the event of a vacancy in the office of the head of a member agency or department, and pending the appointment of a successor, or during the absence or disability of the head of a member agency or department, the acting head of the member agency or department shall serve as a member of the Council in the place of that agency or department head.
 
+(4) **Term of independent member** — Notwithstanding paragraph (1), if a successor to the independent member of the Council serving under subsection (b)(1)(J) is not appointed and confirmed by the end of the term of service of such member, such member may continue to serve until the earlier of—
+
+  (A) 18 months after the date on which the term of service ends; or
+
+  (B) the date on which a successor to such member is appointed and confirmed.
+
 **(d) Technical and professional advisory committees** The Council may appoint such special advisory, technical, or professional committees as may be useful in carrying out the functions of the Council, including an advisory committee consisting of State regulators, and the members of such committees may be members of the Council, or other persons, or both.
 
 **(e) Meetings**
@@ -566,6 +585,9 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Codification
 Section is comprised of section 111 of Pub. L. 111–203. Subsec. (i)(2) of section 111 of Pub. L. 111–203 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2017—Subsec. (c)(4). Pub. L. 115–61 added par. (4).
 
 
 <a id="section-5326"></a>
@@ -833,7 +855,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
   (A) differentiate among companies that are subject to heightened standards on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Council deems appropriate; or
 
-  (B) recommend an asset threshold that is higher than $50,000,000,000 for the application of any standard described in subsections (c) through (g).
+  (B) recommend an asset threshold that is higher than the applicable threshold for the application of any standard described in subsections (c) through (g).
 
 **(b) Development of prudential standards**
 
@@ -929,10 +951,24 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 **(g) Short-term debt limits** The Council may make recommendations to the Board of Governors to require short-term debt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
 
+### Statutory Notes
+
+#### Delayed Effective Date of Amendment
+For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Amendments
+2018—Subsec. (a)(2)(B). Pub. L. 115–174 substituted “the applicable threshold” for “$50,000,000,000”.
+
+#### Effective Date of 2018 Amendment
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Construction of 2018 Amendment
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
 
 <a id="section-5330"></a>
 ## § 5330. Reports
-**(a) In general** Subject to subsection (b), the Council, acting through the Office of Financial Research, may require a bank holding company with total consolidated assets of $50,000,000,000 or greater or a nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, to submit certified reports to keep the Council informed as to—
+**(a) In general** Subject to subsection (b), the Council, acting through the Office of Financial Research, may require a bank holding company with total consolidated assets of $250,000,000,000 or greater or a nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, to submit certified reports to keep the Council informed as to—
 
 (1) the financial condition of the company;
 
@@ -955,6 +991,20 @@ This subchapter, referred to in text, was in the original “this title”, mean
 (2) **Availability** — Each bank holding company described in subsection (a) and nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, shall provide to the Council, at the request of the Council, copies of all reports referred to in paragraph (1).
 
 (3) **Confidentiality** — The Council shall maintain the confidentiality of the reports obtained under subsection (a) and paragraph (1)(A) of this subsection.
+
+### Statutory Notes
+
+#### Delayed Effective Date of Amendment
+For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–174 substituted “$250,000,000,000” for “$50,000,000,000” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Construction of 2018 Amendment
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 
 <a id="section-5331"></a>
@@ -1084,7 +1134,7 @@ Title X, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21
 
 <a id="section-5342"></a>
 ## § 5342. Mitigation of risks to financial stability
-**(a) Mitigatory actions** If the Board of Governors determines that a bank holding company with total consolidated assets of $50,000,000,000 or more, or a nonbank financial company supervised by the Board of Governors, poses a grave threat to the financial stability of the United States, the Board of Governors, upon an affirmative vote of not fewer than ⅔ of the voting members of the Council then serving, shall—
+**(a) Mitigatory actions** If the Board of Governors determines that a bank holding company with total consolidated assets of $250,000,000,000 or more, or a nonbank financial company supervised by the Board of Governors, poses a grave threat to the financial stability of the United States, the Board of Governors, upon an affirmative vote of not fewer than ⅔ of the voting members of the Council then serving, shall—
 
 (1) limit the ability of the company to merge with, acquire, consolidate with, or otherwise become affiliated with another company;
 
@@ -1111,6 +1161,20 @@ Title X, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21
 (1) giving due regard to the principle of national treatment and equality of competitive opportunity; and
 
 (2) taking into account the extent to which the foreign nonbank financial company or foreign-based bank holding company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
+
+### Statutory Notes
+
+#### Delayed Effective Date of Amendment
+For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–174 substituted “$250,000,000,000” for “$50,000,000,000” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Construction of 2018 Amendment
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 
 <a id="section-5343"></a>
@@ -1402,7 +1466,24 @@ This Act, referred to in subsec. (a)(7), is Pub. L. 111–203, July 21, 2010, 12
 
 **(c) Interim funding** During the 2-year period following July 21, 2010, the Board of Governors shall provide to the Office an amount sufficient to cover the expenses of the Office.
 
-**(d) Permanent self-funding** Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $50,000,000,000 or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), to collect assessments equal to the total expenses of the Office.
+**(d) Permanent self-funding** Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $$250,000,000,000 22 See Codification and 2018 Amendment notes below. or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), to collect assessments equal to the total expenses of the Office.
+
+### Statutory Notes
+
+#### Delayed Effective Date of Amendment
+For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Codification
+Amendment by Pub. L. 115–174 was executed to subsec. (d) of this section as it appeared in the enrolled bill for H.R. 4173 (111th Congress, 2d session), which contained the text “$50,000,000,000”. As published in the Statutes at Large for Pub. L. 111–203, text appeared as “50,000,000,000”.
+
+#### Amendments
+2018—Subsec. (d). Pub. L. 115–174 substituted “$250,000,000,000” for “50,000,000,000”. See Codification note above.
+
+#### Effective Date of 2018 Amendment
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Construction of 2018 Amendment
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 
 <a id="section-5364"></a>
@@ -1542,33 +1623,59 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 111–203, July 21, 2010, 12
 
 **(b) Acquisition of nonbank companies**
 
-(1) **Prior notice for large acquisitions** — Notwithstanding [section 1843(k)(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k/6/B&num=0&edition=prelim), a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors shall not acquire direct or indirect ownership or control of any voting shares of any company (other than an insured depository institution) that is engaged in activities described in [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim) having total consolidated assets of $10,000,000,000 or more, without providing written notice to the Board of Governors in advance of the transaction.
+(1) **Prior notice for large acquisitions** — Notwithstanding [section 1843(k)(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k/6/B&num=0&edition=prelim), a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 or a nonbank financial company supervised by the Board of Governors shall not acquire direct or indirect ownership or control of any voting shares of any company (other than an insured depository institution) that is engaged in activities described in [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim) having total consolidated assets of $10,000,000,000 or more, without providing written notice to the Board of Governors in advance of the transaction.
 
 (2) **Exemptions** — The prior notice requirement in paragraph (1) shall not apply with regard to the acquisition of shares that would qualify for the exemptions in [section 1843(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/c&num=0&edition=prelim) or [section 1843(k)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k/4/E&num=0&edition=prelim).
 
-(3) **Notice procedures** — The notice procedures set forth in [section 1843(j)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/j/1&num=0&edition=prelim), without regard to [section 1843(j)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/j/3&num=0&edition=prelim), shall apply to an acquisition of any company (other than an insured depository institution) by a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors, as described in paragraph (1), including any such company engaged in activities described in [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim).
+(3) **Notice procedures** — The notice procedures set forth in [section 1843(j)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/j/1&num=0&edition=prelim), without regard to [section 1843(j)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/j/3&num=0&edition=prelim), shall apply to an acquisition of any company (other than an insured depository institution) by a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 or a nonbank financial company supervised by the Board of Governors, as described in paragraph (1), including any such company engaged in activities described in [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim).
 
 (4) **Standards for review** — In addition to the standards provided in [section 1843(j)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/j/2&num=0&edition=prelim), the Board of Governors shall consider the extent to which the proposed acquisition would result in greater or more concentrated risks to global or United States financial stability or the United States economy.
 
 (5) **Hart-Scott-Rodino filing requirement** — Solely for purposes of [section 18a(c)(8) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section18a/c/8&num=0&edition=prelim), the transactions subject to the requirements of paragraph (1) shall be treated as if Board of Governors approval is not required.
 
+### Statutory Notes
+
+#### Delayed Effective Date of Amendment
+For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Amendments
+2018—Subsec. (b)(1), (3). Pub. L. 115–174 substituted “$250,000,000,000” for “$50,000,000,000”.
+
+#### Effective Date of 2018 Amendment
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Construction of 2018 Amendment
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
 
 <a id="section-5368"></a>
 ## § 5368. Prohibition against management interlocks between certain financial companies
 
-A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions 11 So in original. Probably should be “Institution”. Management Interlocks Act ([12 U.S.C. 3201](./chapter-033-depository-institution-management-interlocks.md#section-3201) et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 22 So in original. There is no section 7 of such Act. of that Act ([12 U.S.C. 3207](./chapter-033-depository-institution-management-interlocks.md#section-3207)) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $50,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
+A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions 11 So in original. Probably should be “Institution”. Management Interlocks Act ([12 U.S.C. 3201](./chapter-033-depository-institution-management-interlocks.md#section-3201) et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 22 So in original. There is no section 7 of such Act. of that Act ([12 U.S.C. 3207](./chapter-033-depository-institution-management-interlocks.md#section-3207)) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $250,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
 
 ### Statutory Notes
 
+#### Delayed Effective Date of Amendment
+For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
 #### References in Text
 The Depository Institution Management Interlocks Act, referred to in text, is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-033-depository-institution-management-interlocks.md#section-3201) and Tables.
+
+#### Amendments
+2018—Pub. L. 115–174 substituted “$250,000,000,000” for “$50,000,000,000”.
+
+#### Effective Date of 2018 Amendment
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+#### Construction of 2018 Amendment
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 
 <a id="section-5369"></a>
 ## § 5369. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
 **(a) In general**
 
-(1) **Purpose** — In order to prevent or mitigate risks to the financial stability of the United States that could arise from the material financial distress or failure, or ongoing activities, of large, interconnected financial institutions, the Board of Governors shall, on its own or pursuant to recommendations by the Council under [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), establish prudential standards for nonbank financial companies supervised by the Board of Governors and bank holding companies with total consolidated assets equal to or greater than $50,000,000,000 that—
+(1) **Purpose** — In order to prevent or mitigate risks to the financial stability of the United States that could arise from the material financial distress or failure, or ongoing activities, of large, interconnected financial institutions, the Board of Governors shall, on its own or pursuant to recommendations by the Council under [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), establish prudential standards for nonbank financial companies supervised by the Board of Governors and bank holding companies with total consolidated assets equal to or greater than $250,000,000,000 that—
 
   (A) are more stringent than the standards and requirements applicable to nonbank financial companies and bank holding companies that do not present similar risks to the financial stability of the United States; and
 
@@ -1576,9 +1683,19 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
 (2) **Tailored application**
 
-  (A) *In general* — In prescribing more stringent prudential standards under this section, the Board of Governors may, on its own or pursuant to a recommendation by the Council in accordance with [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), differentiate among companies on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Board of Governors deems appropriate.
+  (A) *In general* — In prescribing more stringent prudential standards under this section, the Board of Governors shall, on its own or pursuant to a recommendation by the Council in accordance with [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), differentiate among companies on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Board of Governors deems appropriate.
 
-  (B) *Adjustment of threshold for application of certain standards* — The Board of Governors may, pursuant to a recommendation by the Council in accordance with [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), establish an asset threshold above $50,000,000,000 for the application of any standard established under subsections (c) through (g).
+  (B) *Adjustment of threshold for application of certain standards* — The Board of Governors may, pursuant to a recommendation by the Council in accordance with [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), establish an asset threshold above the applicable threshold for the application of any standard established under subsections (c) through (g).
+
+  (C) *Risks to financial stability and safety and soundness* — The Board of Governors may by order or rule promulgated pursuant to [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) apply any prudential standard established under this section to any bank holding company or bank holding companies with total consolidated assets equal to or greater than $100,000,000,000 to which the prudential standard does not otherwise apply provided that the Board of Governors—
+
+    (i) determines that application of the prudential standard is appropriate—
+
+      (I) to prevent or mitigate risks to the financial stability of the United States, as described in paragraph (1); or
+
+      (II) to promote the safety and soundness of the bank holding company or bank holding companies; and
+
+    (ii) takes into consideration the bank holding company’s or bank holding companies’ capital structure, riskiness, complexity, financial activities (including financial activities of subsidiaries), size, and any other risk-related factors that the Board of Governors deems appropriate.
 
 **(b) Development of prudential standards**
 
@@ -1592,7 +1709,7 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
     (iii) overall risk management requirements;
 
-    (iv) resolution plan and credit exposure report requirements; and
+    (iv) resolution plan requirements; and
 
     (v) concentration limits.
 
@@ -1600,7 +1717,7 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
     (i) a contingent capital requirement;
 
-    (ii) enhanced public disclosures;
+    (ii) enhanced public disclosures, including credit exposure reports;
 
     (iii) short-term debt limits; and
 
@@ -1662,7 +1779,7 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
   (D) any other information that the Board of Governors and the Corporation jointly require by rule or order.
 
-(2) **Credit exposure report** — The Board of Governors shall require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to report periodically to the Board of Governors, the Council, and the Corporation on—
+(2) **Credit exposure report** — The Board of Governors may require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to report periodically to the Board of Governors, the Council, and the Corporation on—
 
   (A) the nature and extent to which the company has credit exposure to other significant nonbank financial companies and significant bank holding companies; and
 
@@ -1744,9 +1861,9 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
 (2) **Certain bank holding companies**
 
-  (A) *Mandatory regulations* — The Board of Governors shall issue regulations requiring each bank holding company that is a publicly traded company and that has total consolidated assets of not less than $10,000,000,000 to establish a risk committee, as set forth in paragraph (3).
+  (A) *Mandatory regulations* — The Board of Governors shall issue regulations requiring each bank holding company that is a publicly traded company and that has total consolidated assets of not less than $50,000,000,000 to establish a risk committee, as set forth in paragraph (3).
 
-  (B) *Permissive regulations* — The Board of Governors may require each bank holding company that is a publicly traded company and that has total consolidated assets of less than $10,000,000,000 to establish a risk committee, as set forth in paragraph (3), as determined necessary or appropriate by the Board of Governors to promote sound risk management practices.
+  (B) *Permissive regulations* — The Board of Governors may require each bank holding company that is a publicly traded company and that has total consolidated assets of less than $50,000,000,000 to establish a risk committee, as set forth in paragraph (3), as determined necessary or appropriate by the Board of Governors to promote sound risk management practices.
 
 (3) **Risk committee** — A risk committee required by this subsection shall—
 
@@ -1766,7 +1883,7 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
   (B) *Test parameters and consequences* — The Board of Governors—
 
-    (i) shall provide for at least 3 different sets of conditions under which the evaluation required by this subsection shall be conducted, including baseline, adverse, and severely adverse;
+    (i) shall provide for at least 2 different sets of conditions under which the evaluation required by this subsection shall be conducted, including baseline and severely adverse;
 
     (ii) may require the tests described in subparagraph (A) at bank holding companies and nonbank financial companies, in addition to those for which annual tests are required under subparagraph (A);
 
@@ -1778,7 +1895,7 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
 (2) **By the company**
 
-  (A) *Requirement* — A nonbank financial company supervised by the Board of Governors and a bank holding company described in subsection (a) shall conduct semiannual stress tests. All other financial companies that have total consolidated assets of more than $10,000,000,000 and are regulated by a primary Federal financial regulatory agency shall conduct annual stress tests. The tests required under this subparagraph shall be conducted in accordance with the regulations prescribed under subparagraph (C).
+  (A) *Requirement* — A nonbank financial company supervised by the Board of Governors and a bank holding company described in subsection (a) shall conduct periodic stress tests. All other financial companies that have total consolidated assets of more than $250,000,000,000 and are regulated by a primary Federal financial regulatory agency shall conduct periodic stress tests. The tests required under this subparagraph shall be conducted in accordance with the regulations prescribed under subparagraph (C).
 
   (B) *Report* — A company required to conduct stress tests under subparagraph (A) shall submit a report to the Board of Governors and to its primary financial regulatory agency at such time, in such form, and containing such information as the primary financial regulatory agency shall require.
 
@@ -1786,7 +1903,7 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
     (i) define the term “stress test” for purposes of this paragraph;
 
-    (ii) establish methodologies for the conduct of stress tests required by this paragraph that shall provide for at least 3 different sets of conditions, including baseline, adverse, and severely adverse;
+    (ii) establish methodologies for the conduct of stress tests required by this paragraph that shall provide for at least 2 different sets of conditions, including baseline and severely adverse;
 
     (iii) establish the form and content of the report required by subparagraph (B); and
 
@@ -1794,7 +1911,7 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
 **(j) Leverage limitation**
 
-(1) **Requirement** — The Board of Governors shall require a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors to maintain a debt to equity ratio of no more than 15 to 1, upon a determination by the Council that such company poses a grave threat to the financial stability of the United States and that the imposition of such requirement is necessary to mitigate the risk that such company poses to the financial stability of the United States. Nothing in this paragraph shall apply to a Federal home loan bank.
+(1) **Requirement** — The Board of Governors shall require a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 or a nonbank financial company supervised by the Board of Governors to maintain a debt to equity ratio of no more than 15 to 1, upon a determination by the Council that such company poses a grave threat to the financial stability of the United States and that the imposition of such requirement is necessary to mitigate the risk that such company poses to the financial stability of the United States. Nothing in this paragraph shall apply to a Federal home loan bank.
 
 (2) **Considerations** — In making a determination under this subsection, the Council shall consider the factors described in subsections (a) and (b) of [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) and any other risk-related factors that the Council deems appropriate.
 
@@ -1832,10 +1949,63 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 
 ### Statutory Notes
 
+#### Delayed Effective Date of Amendment
+For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note below.
+
 #### References in Text
 Subchapter II, referred to in subsec. (d)(6), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
 
 The Bank Holding Company Act of 1956, referred to in subsec. (g)(5), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+
+#### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–174, § 401(a)(1)(A), substituted “$250,000,000,000” for “$50,000,000,000” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 115–174, § 401(a)(1)(B)(i), substituted “the Board of Governors shall” for “the Board of Governors may”.
+
+Subsec. (a)(2)(B). Pub. L. 115–174, § 401(a)(1)(B)(ii), substituted “the applicable threshold” for “$50,000,000,000”.
+
+Subsec. (a)(2)(C). Pub. L. 115–174, § 401(a)(1)(B)(iii), added subpar. (C).
+
+Subsec. (b)(1)(A)(iv). Pub. L. 115–174, § 401(a)(2)(A), struck out “and credit exposure report” after “resolution plan”.
+
+Subsec. (b)(1)(B)(ii). Pub. L. 115–174, § 401(a)(2)(B), inserted “, including credit exposure reports” before semicolon at end.
+
+Subsec. (d)(2). Pub. L. 115–174, § 401(a)(3), substituted “The Board of Governors may” for “The Board of Governors shall” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 115–174, § 401(a)(4), substituted “$50,000,000,000” for “$10,000,000,000” in two places.
+
+Subsec. (i)(1)(B)(i). Pub. L. 115–174, § 401(a)(5)(A), substituted “2 different sets” for “3 different sets” and struck out “, adverse,” after “baseline”.
+
+Subsec. (i)(2)(A). Pub. L. 115–174, § 401(a)(5)(B)(i), in first sentence, substituted “periodic” for “semiannual” and, in second sentence, substituted “$250,000,000,000” for “$10,000,000,000” and “periodic” for “annual”.
+
+Subsec. (i)(2)(C)(ii). Pub. L. 115–174, § 401(a)(5)(B)(ii), substituted “2 different sets” for “3 different sets” and struck out “, adverse,” after “baseline”.
+
+Subsec. (j)(1). Pub. L. 115–174, § 401(a)(6), substituted “$250,000,000,000” for “$50,000,000,000”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–174, title IV, § 401(d), May 24, 2018, 132 Stat. 1358, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 248, 5325, 5326, 5331, 5345, 5363, and 5364 of this title] shall take effect on the date that is 18 months after the date of enactment of this Act [May 24, 2018]. “(2) Exception.—Notwithstanding paragraph (1), the amendments made by this section shall take effect on the date of enactment of this Act with respect to any bank holding company with total consolidated assets of less than $100,000,000,000. “(3) Additional authority.—Before the effective date described in paragraph (1), the Board of Governors of the Federal Reserve System may by order exempt any bank holding company with total consolidated assets of less than $250,000,000,000 from any prudential standard under section 165 of the Financial Stability Act of 2010 ([12 U.S.C. 5365](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365)). “(4) Rule of construction.—Nothing in this section [amending this section and sections 248, 5325, 5326, 5331, 5345, 5363, and 5364 of this title and enacting provisions set out as notes under this section] shall be construed to prohibit the Board of Governors of the Federal Reserve System from issuing an order or rule making under section 165(a)(2)(C) of the Financial Stability Act of 2010 ([12 U.S.C. 5365(a)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5365/a/2/C&num=0&edition=prelim)), as added by this section, before the effective date described in paragraph (1).”
+
+[For definition of “bank holding company” as used in section 401(d) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note below.]
+
+#### Construction of 2018 Amendment
+Pub. L. 115–174, title IV, § 401(b), May 24, 2018, 132 Stat. 1357, provided that: “Nothing in subsection (a) [amending this section] shall be construed to limit— “(1) the authority of the Board of Governors of the Federal Reserve System, in prescribing prudential standards under section 165 of the Financial Stability Act of 2010 ([12 U.S.C. 5365](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365)) or any other law, to tailor or differentiate among companies on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including financial activities of their subsidiaries), size, and any other risk-related factors that the Board of Governors deems appropriate; or “(2) the supervisory, regulatory, or enforcement authority of an appropriate Federal banking agency to further the safe and sound operation of an institution under the supervision of the appropriate Federal banking agency.”
+
+[For definitions of “appropriate Federal banking agency” and “companies” as used in section 401(b) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note below.]
+
+Pub. L. 115–174, title IV, § 401(g), May 24, 2018, 132 Stat. 1359, provided that: “Nothing in this section [amending this section and sections 248, 5325, 5326, 5331, 5345, 5363, 5364 of this title and enacting provisions set out as notes under this section] shall be construed to— “(1) affect the legal effect of the final rule of the Board of Governors of the Federal Reserve System entitled ‘Enhanced Prudential Standards for Bank Holding Companies and Foreign Banking Organizations’ (79 Fed. Reg. 17240 (March 27, 2014)) as applied to foreign banking organizations with total consolidated assets equal to or greater than $100,000,000,000; or “(2) limit the authority of the Board of Governors of the Federal Reserve System to require the establishment of an intermediate holding company under, implement enhanced prudential standards with respect to, or tailor the regulation of a foreign banking organization with total consolidated assets equal to or greater than $100,000,000,000.”
+
+#### Supervisory Stress Test
+Pub. L. 115–174, title IV, § 401(e), May 24, 2018, 132 Stat. 1359, provided that: “Beginning on the effective date described in subsection (d)(1) [of section 401 of Pub. L. 115–174, set out above], the Board of Governors of the Federal Reserve System shall, on a periodic basis, conduct supervisory stress tests of bank holding companies with total consolidated assets equal to or greater than $100,000,000,000 and total consolidated assets of less than $250,000,000,000 to evaluate whether such bank holding companies have the capital, on a total consolidated basis, necessary to absorb losses as a result of adverse economic conditions.”
+
+[For definition of “bank holding companies” as used in section 401(e) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note below.]
+
+#### Global Systemically Important Bank Holding Companies
+Pub. L. 115–174, title IV, § 401(f), May 24, 2018, 132 Stat. 1359, provided that: “Any bank holding company, regardless of asset size, that has been identified as a global systemically important BHC under section 217.402 of title 12, Code of Federal Regulations, shall be considered a bank holding company with total consolidated assets equal to or greater than $250,000,000,000 with respect to the application of standards or requirements under— “(1) this section [amending this section and sections 248, 5325, 5326, 5331, 5345, 5363, and 5364 of this title and enacting provisions set out as notes under this section]; “(2) sections 116(a), 121(a), 155(d), 163(b), 164, and 165 of the Financial Stability Act of 2010 ([12 U.S.C. 5326(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5326/a&num=0&edition=prelim), 5331(a), 5345(d), 5363(b), 5364, 5365); and “(3) paragraph (2)(A) of the second subsection (s) (relating to assessments) of section 11 of the Federal Reserve Act ([12 U.S.C. 248(s)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section248/s/2&num=0&edition=prelim)[(A)]).”
+
+[For definition of “bank holding company” as used in section 401(f) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note below.]
+
+#### Definitions
+Pub. L. 115–174, § 2, May 24, 2018, 132 Stat. 1297, provided that: “In this Act [see Short Title of 2018 Amendment note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim), Commerce and Trade]: “(1) Appropriate federal banking agency; company; depository institution; depository institution holding company.—The terms ‘appropriate Federal banking agency’, ‘company’, ‘depository institution’, and ‘depository institution holding company’ have the meanings given those terms in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)). “(2) Bank holding company.—The term ‘bank holding company’ has the meaning given the term in section 2 of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841)).”
 
 
 <a id="section-5370"></a>
@@ -8355,7 +8525,7 @@ Part effective 1 day after July 21, 2010, except as otherwise provided, see sect
 ## § 5586. Designated transfer date
 **(a) In general** Not later than 60 days after July 21, 2010, the Secretary shall—
 
-(1) in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date for the transfer of functions to the Bureau under [section 5581 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5581); and
+(1) in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date 11 See Definition of Designated Transfer Date note below. for the transfer of functions to the Bureau under [section 5581 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5581); and
 
 (2) publish notice of that designated date in the Federal Register.
 
@@ -8371,7 +8541,7 @@ Part effective 1 day after July 21, 2010, except as otherwise provided, see sect
 
 (2) **Extension of time** — The Secretary may designate a date that is later than 12 months after July 21, 2010, if the Secretary transmits to appropriate committees of Congress—
 
-  (A) a written determination that orderly implementation of this title 11 See References in Text note below. is not feasible before the date that is 12 months after July 21, 2010;
+  (A) a written determination that orderly implementation of this title 22 See References in Text note below. is not feasible before the date that is 12 months after July 21, 2010;
 
   (B) an explanation of why an extension is necessary for the orderly implementation of this title; 1 and
 
@@ -8381,11 +8551,11 @@ Part effective 1 day after July 21, 2010, except as otherwise provided, see sect
 
 ### Statutory Notes
 
-#### Definition of Designated Transfer Date
-Notice of Secretary of the Treasury, Sept. 20, 2010, 75 F.R. 57252, provided that the designated transfer date is July 21, 2011.
-
 #### References in Text
 This title, referred to in subsec. (c)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Definition of Designated Transfer Date
+Notice of Secretary of the Treasury, Sept. 20, 2010, 75 F.R. 57252, provided that the designated transfer date is July 21, 2011.
 
 
 <a id="section-5587"></a>

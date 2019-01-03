@@ -43,7 +43,7 @@ source: >-
 
 **(g)** The Secretary of Homeland Security may repay loans described in subsection (a)(1) and otherwise administer this section in the case of members of the Selected Reserve of the Coast Guard Reserve when the Coast Guard is not operating as a service in the Navy.
 
-**(h)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under [section 2171 of this title](./chapter-109-educational-loan-repayment-programs.md#section-2171), a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+**(h)** Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under [section 2171 of this title](./chapter-109-educational-loan-repayment-programs.md#section-2171), a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 **(i)** The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.
 
@@ -53,6 +53,8 @@ source: >-
 The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (h). Pub. L. 115–91 inserted “or 373” before “of title 37”.
+
 2011—Subsecs. (h), (i). Pub. L. 111–383 added subsecs. (h) and (i).
 
 2008—Pub. L. 110–181, § 672(c)(1), substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in section catchline.
@@ -110,7 +112,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 (2) The annual maximum amount of a loan that may be repaid under this section shall be the same as the maximum amount in effect for the same year under subsection (e)(2) of [section 2173 of this title](./chapter-109-educational-loan-repayment-programs.md#section-2173) for the education loan repayment program under such section.
 
-**(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2017.
+**(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2019.
 
 ### Statutory Notes
 
@@ -120,6 +122,10 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. 
 The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§ 297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (d). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (d). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (d). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -230,13 +236,15 @@ Pub. L. 99–145, title VI, § 671(b)(2), Nov. 8, 1985, 99 Stat. 663, provided t
 
 (2) The amount of any repayment of a loan made under subsection (a) on behalf of a person may not exceed $20,000 for each three year period of obligated service that the person agrees to serve in an agreement described in subsection (a)(3). Of such amount, not more than an amount equal to 50 percent of such amount may be paid before the completion by the person of the first year of obligated service pursuant to the agreement. The balance of such amount shall be payable at such time or times as are prescribed in regulations.
 
-**(d) Effect of Failure to Complete Obligation.—** A person on whose behalf a loan is repaid under subsection (a) who fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3) shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+**(d) Effect of Failure to Complete Obligation.—** A person on whose behalf a loan is repaid under subsection (a) who fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3) shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 **(e) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–91 inserted “or 373” before “of title 37”.
+
 2006—Subsec. (d). Pub. L. 109–163, § 687(c)(14), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to the amount of the loan repayments made on behalf of the person in connection with the agreement.”
 
 #### Savings Provision

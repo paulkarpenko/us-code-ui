@@ -7,14 +7,30 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-2911"></a>
-## § 2911. Energy performance goals and master plan for the Department of Defense
-**(a) Energy Performance Goals.—**
+## § 2911. Energy policy of the Department of Defense
+**(a) General Energy Policy.—** The Secretary of Defense shall ensure the readiness of the armed forces for their military missions by pursuing energy security and energy resilience.
+
+**(b) Authorities.—** In order to achieve the policy set forth in subsection (a), the Secretary of Defense may—
+
+(1) establish metrics and standards for the assessment of energy resilience;
+
+(2) require the Secretary of a military department to perform mission assurance and readiness assessments of energy power systems for mission critical assets and supporting infrastructure, applying uniform mission standards established by the Secretary of Defense;
+
+(3) require the Secretary of a military department to establish and maintain an energy resilience master plan for an installation;
+
+(4) authorize the use of energy security and energy resilience, including the benefits of on-site generation resources that reduce or avoid the cost of backup power, as factors in the cost-benefit analysis for procurement of energy; and
+
+(5) in selecting facility energy projects that will use renewable energy sources, pursue energy security and energy resilience by giving favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network.
+
+**(c) Energy Performance Goals.—**
 
 (1) The Secretary of Defense shall submit to the congressional defense committees the energy performance goals for the Department of Defense regarding transportation systems, support systems, utilities, and infrastructure and facilities.
 
 (2) The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
 
-**(b) Energy Performance Master Plan.—**
+(3) The Secretary of Defense shall include the energy security and resilience goals of the Department of Defense in the installation energy report submitted under [section 2925(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2925/a&num=0&edition=prelim) for fiscal year 2018 and every fiscal year thereafter. In the development of energy security and resilience goals, the Department of Defense shall conform with the definitions of energy security and resilience under this title. The report shall include the amount of critical energy load, together with the level of availability and reliability by fiscal year the Department of Defense deems necessary to achieve energy security and resilience.
+
+**(d) Energy Performance Master Plan.—**
 
 (1) The Secretary of Defense shall develop a comprehensive master plan for the achievement of the energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
 
@@ -34,11 +50,11 @@ source: >-
 
 (3) Not later than 30 days after the date on which the budget of the President is submitted to Congress for a fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Secretary shall submit the current version of the master plan to Congress.
 
-**(c) Special Considerations.—** For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
+**(e) Special Considerations.—** For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
 
-(1) Opportunities to reduce the current rate of consumption of energy.
+(1) Opportunities to reduce the current rate of consumption of energy, the future demand for energy, and the requirement for the use of energy.
 
-(2) Opportunities to reduce the future demand and the requirements for the use of energy.
+(2) Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that impact mission assurance on military installations.
 
 (3) Opportunities to implement conservation measures to improve the efficient use of energy.
 
@@ -60,7 +76,9 @@ source: >-
 
 (12) Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
 
-**(d) Selection of Energy Conservation Measures.—** For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that—
+(13) Opportunities to leverage third-party financing to address installation energy needs.
+
+**(f) Selection of Energy Conservation Measures.—** For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that—
 
 (1) are readily available;
 
@@ -70,7 +88,7 @@ source: >-
 
 (4) are supported by the special considerations specified in subsection (c).
 
-**(e) Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—**
+**(g) Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—**
 
 (1) It shall be the goal of the Department of Defense—
 
@@ -102,7 +120,28 @@ source: >-
 
 ### Statutory Notes
 
+#### Codification
+Section 312 of Pub. L. 115–91 amended subsec. (c) of this section, and section 2831(a)(2) and (4) of Pub. L. 115–91 respectively redesignated subsec. (c) as (e) and made amendments substantially identical to those made by section 312. Text is based on the amendments made by section 2831(a)(4) of Pub. L. 115–91. See 2017 Amendment notes below.
+
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–232, § 312(a), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
+
+Subsec. (c)(3). Pub. L. 115–232, § 312(b), added par. (3).
+
+2017—Pub. L. 115–91, § 2831(a)(1), substituted “policy of” for “performance goals and master plan for” in section catchline.
+
+Subsecs. (a) to (d). Pub. L. 115–91, § 2831(a)(2), (3), added subsecs. (a) and (b) and redesignated former subsecs. (a) and (b) as (c) and (d), respectively. Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+
+Subsec. (e). Pub. L. 115–91, § 2831(a)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+
+Subsec. (e)(1). Pub. L. 115–91, § 2831(a)(4)(A), inserted “, the future demand for energy, and the requirement for the use of energy” after “consumption of energy”. See Codification note above.
+
+Subsec. (e)(2). Pub. L. 115–91, § 2831(a)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Opportunities to reduce the future demand and the requirements for the use of energy.” See Codification note above.
+
+Subsec. (e)(13). Pub. L. 115–91, § 2831(a)(4)(C), added par. (13). See Codification note above.
+
+Subsecs. (f), (g). Pub. L. 115–91, § 2831(a)(2), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
+
 2011—Pub. L. 111–383, § 2832(a)(3), substituted “Energy performance goals and master plan for the Department of Defense” for “Energy performance goals and plan for Department of Defense” in section catchline.
 
 Pub. L. 111–383, § 2832(a)(2), substituted “master plan” for “plan” wherever appearing in subsecs. (c) to (e).
@@ -133,6 +172,12 @@ Pub. L. 111–84, § 2842(a), (b), designated existing provisions as par. (1), r
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b)(3) of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+#### Aggregation of Energy Efficiency and Energy Resilience Projects in Life Cycle Cost Analyses
+Pub. L. 115–91, div. B, title XXVIII, § 2837, Dec. 12, 2017, 131 Stat. 1859, provided that: “The Secretary of Defense or the Secretary of a military department, when conducting life cycle cost analyses with respect to investments designed to lower costs and reduce energy and water consumption, shall aggregate energy efficiency projects and energy resilience improvements as appropriate.”
+
+#### Energy Security for Military Installations in Europe
+Pub. L. 115–91, div. B, title XXVIII, § 2880, Dec. 12, 2017, 131 Stat. 1875, provided that: “(a) Authority.—The Secretary of Defense shall take appropriate measures, to the extent practicable, to—“(1) reduce the dependency of all United States military installations in Europe on energy sourced inside Russia; and “(2) ensure that all United States military installations in Europe are able to sustain operations in the event of a supply disruption. “(b) Certification Requirement.—Not later than December 31, 2021, the Secretary of Defense shall certify to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] whether or not at United States military installations in Europe the Department of Defense—“(1) has taken significant steps to minimize to the extent practicable the dependency on energy sourced inside the Russian Federation at such installations; and “(2) has the ability to sustain mission critical operations during an energy supply disruption. “(c) Definition of Energy Sources Inside Russia.—In this section, the term ‘energy sourced inside Russia’ means energy that is produced, owned, or facilitated by companies that are located in the Russian Federation or owned or controlled by the Government of the Russian Federation.”
 
 #### Business Case Analysis of any Plan To Design, Refurbish, or Construct a Biofuel Refinery
 Pub. L. 113–291, div. A, title III, § 314, Dec. 19, 2014, 128 Stat. 3338, provided that: “Not later than 30 days before entering into a contract for the planning, design, refurbishing, or construction of a biofuel refinery, or of any other facility or infrastructure used to refine biofuels, the Secretary of Defense or the Secretary of the military department concerned shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a business case analysis for such planning, design, refurbishing, or construction.”
@@ -189,7 +234,7 @@ Pub. L. 107–107, div. A, title III, § 317, Dec. 28, 2001, 115 Stat. 1054, pro
 
 **(b) Use.—** The Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under [section 2916(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2916/b/2&num=0&edition=prelim) shall be used as follows:
 
-(1) One-half of the amount shall be used for the implementation of additional energy conservation and energy security measures at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
+(1) One-half of the amount shall be used for the implementation of additional energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and energy security measures, including energy resilience and energy conservation construction projects, at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
 
 (2) One-half of the amount shall be used at the installation at which the savings were realized, as determined by the commanding officer of such installation consistent with applicable law and regulations, for—
 
@@ -201,11 +246,15 @@ Pub. L. 107–107, div. A, title III, § 317, Dec. 28, 2001, 115 Stat. 1054, pro
 
 **(c) Treatment of Certain Financial Incentives.—** Financial incentives received from gas or electric utilities under [section 2913 of this title](./chapter-173-energy-security.md#section-2913) shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
 
-**(d) Congressional Notification.—** The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) a separate statement of the amounts available for obligation under this section in that fiscal year.
-
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232 inserted “, including energy resilience and energy conservation construction projects,” after “energy security measures”.
+
+2017—Subsec. (b)(1). Pub. L. 115–91, § 2832, substituted “energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and” for “energy conservation and”.
+
+Subsec. (d). Pub. L. 115–91, § 1051(a)(26), struck out subsec. (d). Text read as follows: “The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) a separate statement of the amounts available for obligation under this section in that fiscal year.”
+
 2013—Subsec. (b)(1). Pub. L. 112–239 inserted “and energy security” after “additional energy conservation”.
 
 #### Transfer of Funds for Energy and Water Efficiency in Federal Buildings
@@ -256,7 +305,7 @@ Pub. L. 103–139, title VIII, § 8149, Nov. 11, 1993, 107 Stat. 1475.
 
 **(b) Participation in Gas or Electric Utility Programs.—** The Secretary of Defense shall permit and encourage each military department, Defense Agency, and other instrumentality of the Department of Defense to participate in programs conducted by any gas or electric utility for the management of energy demand or for energy conservation.
 
-**(c) Acceptance of Financial Incentive, Goods, or Services.—** The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
+**(c) Acceptance of Financial Incentive, Goods, or Services.—** The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a State or local government a 11 So in original. gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
 
 **(d) Agreements With Gas or Electric Utilities.—**
 
@@ -271,6 +320,8 @@ Pub. L. 103–139, title VIII, § 8149, Nov. 11, 1993, 107 Stat. 1475.
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232 inserted “a State or local government” after “generally available from”.
+
 2008—Subsec. (e). Pub. L. 110–181, which directed the amendment of this section by striking out subsec. (e), could not be executed because subsec. (e) was previously repealed by Pub. L. 110–140, § 511(c). See 2007 Amendment note below.
 
 2007—Subsec. (e). Pub. L. 110–140 struck out heading and text of subsec. (e). Text read as follows: “When a decision is made to award an energy savings performance contract that contains a clause setting forth a cancellation ceiling in excess of $7,000,000, the Secretary of Defense shall submit to the appropriate committees of Congress written notification of the proposed contract and of the proposed cancellation ceiling for the contract. The notification shall include the justification for the proposed cancellation ceiling. The contract may then be awarded only after the end of the 30-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 15-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).”
@@ -282,18 +333,18 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 
 <a id="section-2914"></a>
-## § 2914. Energy resiliency and conservation construction projects
-**(a) Projects Authorized.—** The Secretary of Defense may carry out a military construction project for energy resiliency, energy security, or energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
+## § 2914. Energy resilience and conservation construction projects
+**(a) Projects Authorized.—** The Secretary of Defense may carry out a military construction project for energy resilience, energy security, or energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
 
 **(b) Congressional Notification.—**
 
-(1) When a decision is made to carry out a project under this section, the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+(1) When a decision is made to carry out a project under this section, the Secretary of Defense shall notify the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
 (2) The Secretary of Defense shall include in each notification submitted under paragraph (1) the following information:
 
   (A) In the case of a military construction project for energy conservation, the justification and current cost estimate for the project, the expected savings-to-investment ratio, simple payback estimates, and the project’s measurement and verification cost estimate.
 
-  (B) In the case of a military construction project for energy resiliency or energy security, the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
+  (B) In the case of a military construction project for energy resilience or energy security, the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
 
 **(c) Annual Report.—** Not later than 90 days after the end of each fiscal year (beginning with fiscal year 2017), the Secretary of Defense shall submit to the appropriate committees of Congress a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
 
@@ -307,13 +358,19 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
   (C) a brief description of the measurement and verification plan and planned funding source.
 
-(3) In the case of a military construction project for energy resiliency or energy security, the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
+(3) In the case of a military construction project for energy resilience or energy security, the rationale for how the project would enhance mission assurance, support mission critical functions, and address known vulnerabilities.
 
 (4) Such other information as the Secretary considers appropriate.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–232 substituted “resilience” for “resiliency” in section catchline.
+
+2017—Pub. L. 115–91, § 2831(c)(1), substituted “energy resilience” for “energy resiliency” wherever appearing in text.
+
+Subsec. (b)(1). Pub. L. 115–91, § 2801(e)(1), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by such committees” and substituted “14-day period” for “21-day period”.
+
 2016—Pub. L. 114–328, § 2805(a)(1)(A), inserted “resiliency and” before “conservation construction projects” in section catchline. Text quoted in directory language of amendment was editorially conformed to the style of the catchline.
 
 Subsec. (a). Pub. L. 114–328, § 2805(a)(1)(B), substituted “military construction project for energy resiliency, energy security, or energy conservation” for “military construction project for energy conservation”.
@@ -328,7 +385,7 @@ Pub. L. 114–328, div. B, title XXVIII, § 2805(b)(1)(B), Dec. 23, 2016, 130 St
 
 <a id="section-2915"></a>
 ## § 2915. Facilities: use of renewable forms of energy and energy efficient products
-**(a) Use of Renewable Forms of Energy Encouraged.—** The Secretary of Defense shall encourage the use of energy systems using solar energy or other renewable forms of energy as a source of energy for military construction projects (including military family housing projects) and facility repairs and renovations where use of such form of energy is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911) and supported by the special considerations specified in subsection (c) of such section.
+**(a) Use of Renewable Forms of Energy Encouraged.—** The Secretary of Defense shall encourage the use of energy systems using solar energy or other renewable forms of energy as a source of energy for military construction projects (including military family housing projects) and facility repairs and renovations where use of such form of energy is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911) and supported by the special considerations specified in subsection (e) of such section.
 
 **(b) Consideration During Design Phase of Projects.—**
 
@@ -336,7 +393,7 @@ Pub. L. 114–328, div. B, title XXVIII, § 2805(b)(1)(B), Dec. 23, 2016, 130 St
 
   (A) is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911); and
 
-  (B) supported by the special considerations specified in subsection (c) of such section.
+  (B) supported by the special considerations specified in subsection (e) of such section.
 
 (2) The Secretary concerned shall require that contracts for construction resulting from such design include a requirement that energy systems using solar energy or other renewable forms of energy be installed if such systems can be shown to be cost effective.
 
@@ -350,7 +407,7 @@ Pub. L. 114–328, div. B, title XXVIII, § 2805(b)(1)(B), Dec. 23, 2016, 130 St
 
 **(e) Use of Energy Efficient Products in Facilities.—**
 
-(1) The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911) and supported by the special considerations specified in subsection (c) of such section.
+(1) The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911) and supported by the special considerations specified in subsection (e) of such section.
 
 (2)
 
@@ -358,7 +415,7 @@ Pub. L. 114–328, div. B, title XXVIII, § 2805(b)(1)(B), Dec. 23, 2016, 130 St
 
   (B) The Secretary shall modify the definition and list of energy-efficient products as necessary to account for emerging or changing technologies.
 
-  (C) The list of energy-efficient products shall be included as part of the energy performance master plan developed pursuant to [section 2911(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/b/2&num=0&edition=prelim).
+  (C) The list of energy-efficient products shall be included as part of the energy performance master plan developed pursuant to [section 2911(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/d/2&num=0&edition=prelim).
 
 (3) In determining the energy efficiency of products, the Secretary shall consider products that—
 
@@ -369,6 +426,10 @@ Pub. L. 114–328, div. B, title XXVIII, § 2805(b)(1)(B), Dec. 23, 2016, 130 St
 ### Statutory Notes
 
 #### Amendments
+2017—Subsecs. (a), (b)(1)(B), (e)(1). Pub. L. 115–91, § 2831(c)(2)(A), substituted “subsection (e)” for “subsection (c)”.
+
+Subsec. (e)(2)(C). Pub. L. 115–91, § 2831(c)(2)(B), substituted “2911(d)(2)” for “2911(b)(2)”.
+
 2011—Pub. L. 111–383, § 2832(b)(4), substituted “Facilities: use of renewable forms of energy and energy efficient products” for “New construction: use of renewable forms of energy and energy efficient products” in section catchline.
 
 Subsec. (a). Pub. L. 111–383, § 2832(b)(1), inserted “and facility repairs and renovations” after “military family housing projects)” and substituted “energy performance master plan” for “energy performance plan”.
@@ -442,18 +503,34 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **(b)**
 
-(1) Proceeds from sales under subsection (a) shall be credited to the appropriation account currently available to the military department concerned for the supply of electrical energy.
+(1) Except as provided in paragraph (3), proceeds from sales under subsection (a) shall be credited to the appropriation account currently available to the military department concerned for the supply of electrical energy.
 
-(2) Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defense under [section 2911(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/b&num=0&edition=prelim), including minor military construction projects authorized under [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805) that are designed to increase energy conservation.
+(2) Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defense under section 2911(c) 11 See References in Text note below. of this title, including minor military construction projects authorized under [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805) that are designed to increase energy conservation.
 
-**(c)** Before carrying out a military construction project described in subsection (b) using proceeds from sales under subsection (a), the Secretary concerned shall notify Congress in writing of the project, the justification for the project, and the estimated cost of the project. The project may be carried out only after the end of the 21-day period beginning on the date the notification is received by Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+(3) In the case of proceeds from a sale of electrical energy generated from any geothermal energy resource—
+
+  (A) 50 percent shall be credited to the appropriation account described in paragraph (1); and
+
+  (B) 50 percent shall be deposited in a special account in the Treasury established by the Secretary concerned which shall be available, for military construction projects described in paragraph (2) or for installation energy or water security projects directly coordinated with local area energy or groundwater governing authorities, for the military installation in which the geothermal energy resource is located.
+
+**(c)** Before carrying out a military construction project described in subsection (b) using proceeds from sales under subsection (a), the Secretary concerned shall notify Congress of the project, the justification for the project, and the estimated cost of the project. The project may be carried out only after the end of the 14-day period beginning on the date the notification is received by Congress in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
 ### Statutory Notes
 
 #### References in Text
 The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
 
+[Section 2911(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/c&num=0&edition=prelim), referred to in subsec. (b)(2), was, prior to amendment by Pub. L. 115–91, a reference to [section 2911(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/b&num=0&edition=prelim). Pub. L. 115–91 redesignated subsec. (b) of section 2911, relating to the development of an energy performance master plan, as (d), not (c).
+
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232, § 313(1), substituted “Except as provided in paragraph (3), proceeds” for “Proceeds”.
+
+Subsec. (b)(3). Pub. L. 115–232, § 313(2), added par. (3).
+
+2017—Subsec. (b)(2). Pub. L. 115–91, § 2831(c)(3), substituted “2911(c)” for “2911(b)”.
+
+Subsec. (c). Pub. L. 115–91, § 2801(e)(2), struck out “in writing” after “notify Congress” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by Congress” and substituted “14-day period” for “21-day period”.
+
 2006—Pub. L. 109–364, § 2851(b)(1), renumbered [section 2867 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2867) as this section.
 
 Subsec. (b)(2). Pub. L. 109–364, § 2851(b)(3)(B), substituted “2911(b)” for “2865(a)”.
@@ -546,7 +623,7 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 ## § 2922. Liquid fuels and natural gas: contracts for storage, handling, or distribution
 **(a) Authority To Contract.—** The Secretary of Defense and the Secretary of a military department may each contract for storage facilities for, or the storage, handling, or distribution of, liquid fuels or natural gas.
 
-**(b) Period of Contract.—** The period of a contract entered into under subsection (a) may not exceed 5 years. However, the contract may provide options for the Secretary to renew the contract for additional periods of not more than 5 years each, but not for more than a total of 20 years.
+**(b) Period of Contract.—** The period of a contract entered into under subsection (a) may not exceed 5 years. However, the contract may provide options for the Secretary to renew the contract for additional periods of not more than 5 years each, but not for more than a total of 30 years.
 
 **(c) Option To Purchase Facility.—** A contract under this section may contain an option for the purchase by the United States of the facility covered by the contract at the expiration or termination of the contract, without regard to subsections (a) and (b) of [section 3324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3324&num=0&edition=prelim), and before approval of title to the underlying land by the Attorney General.
 
@@ -568,6 +645,8 @@ In subsection (c), the words “A contract under this section” are substituted
 In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted title 31.
 
 #### Amendments
+2017—Subsec. (b). Pub. L. 115–91 substituted “30 years” for “20 years”.
+
 2006—Pub. L. 109–364 renumbered [section 2388 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2388) as this section.
 
 1994—Subsec. (a). Pub. L. 103–355 substituted “liquid fuels or natural gas” for “liquid fuels and natural gas”.
@@ -592,6 +671,9 @@ Pub. L. 97–258, § 3(b)(6), directed the substitution of “section 3324(a) an
 
 Pub. L. 97–214, § 10(a)(3), substituted “section 3648 of the Revised Statutes ([31 U.S.C. 529](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim))” for “section 4774(d) or 9774(d) of this title, [section 529 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim), or section 259 or 267 of title 40,”.
 
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title VIII, § 881(b), Dec. 12, 2017, 131 Stat. 1504, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to contracts entered into on or after the date of the enactment of this Act [Dec. 12, 2017], and may be applied to a contract entered into before that date if the total contract period under the contract (including options) has not expired as of the date of any extension of such contract period by reason of such amendment.”
+
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
@@ -614,9 +696,15 @@ Pub. L. 96–107, title VIII, § 815, Nov. 9, 1979, 93 Stat. 817, which had auth
 
 **(c)** The costs of contracts under this section for any year may be paid from annual appropriations for that year.
 
+**(d)** The Secretary concerned shall ensure energy security and resilience are prioritized and included in the provision and operation of energy production facilities under this section.
+
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–232 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary concerned shall prioritize energy security and resilience.”
+
+2017—Subsec. (d). Pub. L. 115–91 added subsec. (d).
+
 2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2394 of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2394) as this section.
 
 Subsec. (a)(1). Pub. L. 109–364, § 2851(b)(3)(C), substituted “section 2917” for “section 2689”.
@@ -639,13 +727,15 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 <a id="section-2922b"></a>
 ## § 2922b. Procurement of energy systems using renewable forms of energy
-**(a)** In procuring energy systems the Secretary of a military department shall procure systems that use solar energy or other renewable forms of energy whenever the Secretary determines that such procurement is possible, suited to supplying the energy needs of the military department under the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911), and supported by the special considerations specified in subsection (c) of such section.
+**(a)** In procuring energy systems the Secretary of a military department shall procure systems that use solar energy or other renewable forms of energy whenever the Secretary determines that such procurement is possible, suited to supplying the energy needs of the military department under the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911), and supported by the special considerations specified in subsection (e) of such section.
 
 **(b)** The Secretary of Defense shall from time to time study uses for solar energy and other renewable forms of energy to determine what uses of such forms of energy may be reliable in supplying the energy needs of the Department of Defense. The Secretary of Defense, based upon the results of such studies, shall from time to time issue policy guidelines to be followed by the Secretaries of the military departments in carrying out subsection (a) and [section 2915 of this title](./chapter-173-energy-security.md#section-2915).
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “subsection (e)” for “subsection (c)”.
+
 2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2394a of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2394a) as this section.
 
 Subsec. (a). Pub. L. 109–364, § 2851(b)(3)(D)(i), substituted “possible, suited” for “possible and will be cost effective, reliable, and otherwise suited” and “the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911), and supported by the special considerations specified in subsection (c) of such section” for “his jurisdiction”.
@@ -787,7 +877,7 @@ Subsec. (e). Pub. L. 103–160, § 826(c)(1), (d)(1)(C), redesignated subsec. (d
 
 <a id="section-2922f"></a>
 ## § 2922f. Preference for energy efficient electric equipment
-**(a)** In establishing a new requirement for electric equipment referred to in subsection (b) and in procuring electric equipment referred to in that subsection, the Secretary of a military department or the head of a Defense Agency, as the case may be, shall provide a preference for the procurement of the most energy efficient electric equipment available that meets the requirement or the need for the procurement, if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911) and supported by the special considerations specified in subsection (c) of such section.
+**(a)** In establishing a new requirement for electric equipment referred to in subsection (b) and in procuring electric equipment referred to in that subsection, the Secretary of a military department or the head of a Defense Agency, as the case may be, shall provide a preference for the procurement of the most energy efficient electric equipment available that meets the requirement or the need for the procurement, if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911) and supported by the special considerations specified in subsection (e) of such section.
 
 **(b)** Subsection (a) applies to the following electric equipment:
 
@@ -802,6 +892,8 @@ Subsec. (e). Pub. L. 103–160, § 826(c)(1), (d)(1)(C), redesignated subsec. (d
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “subsection (e)” for “subsection (c)”.
+
 2006—Pub. L. 109–364, § 2851(b)(2), renumbered [section 2410c of this title](./chapter-141-miscellaneous-procurement-provisions.md#section-2410c) as this section.
 
 Subsec. (a). Pub. L. 109–364, § 2851(b)(3)(E), substituted “In” for “When cost effective, in” and “if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title](./chapter-173-energy-security.md#section-2911) and supported by the special considerations specified in subsection (c) of such section” for “as the case may be”.
@@ -890,23 +982,17 @@ In this chapter:
 
   (B) improvements in an operation or maintenance process, such as improved training or improved controls, that result in energy savings.
 
-(3)
-
-  (A) The term “energy security” means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
-
-  (B) In selecting facility energy projects that will use renewable energy sources, pursuit of energy security means the installation will give favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network. In such cases, projects should be prioritized to provide power for assets critical to mission essential requirements on the installation in the event of a disruption in the commercial grid.
-
-(4) The term “hybrid”, with respect to a motor vehicle, means a motor vehicle that draws propulsion energy from onboard sources of stored energy that are both—
+(3) The term “hybrid”, with respect to a motor vehicle, means a motor vehicle that draws propulsion energy from onboard sources of stored energy that are both—
 
   (A) an internal combustion or heat engine using combustible fuel; and
 
   (B) a rechargeable energy storage system.
 
-(5) The term “operational energy” means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.
+(4) The term “operational energy” means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.
 
-(6) The term “petroleum” means natural or synthetic crude, blends of natural or synthetic crude, and products refined or derived from natural or synthetic crude or from such blends.
+(5) The term “petroleum” means natural or synthetic crude, blends of natural or synthetic crude, and products refined or derived from natural or synthetic crude or from such blends.
 
-(7) The term “renewable energy source” means energy generated from renewable sources, including the following:
+(6) The term “renewable energy source” means energy generated from renewable sources, including the following:
 
   (A) Solar, including electricity.
 
@@ -926,22 +1012,43 @@ In this chapter:
 
   (I) Thermal energy generated by any of the preceding sources.
 
+### Statutory Notes
+
+#### Amendments
+2017—Pars. (3) to (7). Pub. L. 115–91 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which defined “energy security”.
+
 
 <a id="section-2925"></a>
 ## § 2925. Annual Department of Defense energy management reports
-**(a) Annual Report Related to Installations Energy Management, Resiliency, and Mission Assurance.—** Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under [section 2911 of this title](./chapter-173-energy-security.md#section-2911). Each report shall contain the following:
+**(a) Annual Report Related to Installations Energy Management, Energy Resilience, and Mission Assurance.—** Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under [section 2911 of this title](./chapter-173-energy-security.md#section-2911), including progress on energy resilience at military installations according to metrics developed by the Secretary. Each report shall contain the following:
 
-(1) A description of the progress made to achieve the goals of the Energy Policy Act of 2005 (Public Law 109–58), [section 2911(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/e&num=0&edition=prelim), section 553 of the National Energy Conservation Policy Act ([42 U.S.C. 8259b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8259b&num=0&edition=prelim)), the Energy Independence and Security Act of 2007 (Public Law 110–140), and the energy performance goals for the Department of Defense during the preceding fiscal year.
+(1) A description of the progress made to achieve the goals of the Energy Policy Act of 2005 (Public Law 109–58), [section 2911(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/g&num=0&edition=prelim), section 553 of the National Energy Conservation Policy Act ([42 U.S.C. 8259b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8259b&num=0&edition=prelim)), the Energy Independence and Security Act of 2007 (Public Law 110–140), and the energy performance goals for the Department of Defense during the preceding fiscal year, including progress on energy resilience at military installations according to metrics developed by the Secretary.
 
 (2) A description of the energy savings, return on investment, and enhancements to installation mission assurance realized by the fulfillment of the goals described in paragraph (1).
 
-(3) Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense.
+(3) Details of all utility outages impacting energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number and location of outage, the duration of the outage, the financial impact of the outage, whether or not the mission was impacted, the downtimes (in minutes or hours) these missions can afford based on their mission requirements and risk tolerances, the responsible authority managing the utility, and measure taken to mitigate the outage by the responsible authority.
 
-(4) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
+(4) Details of a military installation’s total energy requirements and critical energy requirements (including critical energy loads in megawatts and the associated downtime tolerances for critical energy loads), and the current energy resilience and emergency backup systems servicing critical energy requirements, including, at a minimum—
+
+  (A) energy resilience and emergency backup system power requirements;
+
+  (B) the critical missions, facility, or facilities serviced;
+
+  (C) system service life;
+
+  (D) capital, operations, maintenance, and testing costs; and
+
+  (E) other information the Secretary determines necessary.
+
+(5) A list of energy resilience projects awarded by the Department of Defense by military department and military installation, whether appropriated or alternative financed for the reporting fiscal year, including project description, award date, the critical energy requirements serviced (including critical energy loads in megawatts), expected reliability of the project (as indicated in the awarded contract), life cycle costs, savings to investment, fuel type, and the type of appropriation or alternative financing used.
+
+(6) A list of energy resilience projects planned by the Department of Defense by military department and military installation, whether appropriated or alternative financed for the next two fiscal years, including project description, fuel type, expected award date, and the type of appropriation or alternative financing expected for use.
+
+(7) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 
 **(b) Annual Report Related to Operational Energy.—**
 
-(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 138c 11 See References in Text note below. of this title.
+(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to [section 2926(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2926/d&num=0&edition=prelim).
 
 (2) The annual report under this subsection shall address and include the following:
 
@@ -972,9 +1079,29 @@ The Energy Policy Act of 2005, referred to in subsec. (a)(1), is Pub. L. 109–5
 
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under [section 6834 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6834&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17001&num=0&edition=prelim) and Tables.
 
-[Section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), referred to in subsec. (b)(1), was repealed by Pub. L. 113–291, div. A, title IX, § 901(g)(2), Dec. 19, 2014, 128 Stat. 3466. See now [section 2926 of this title](./chapter-173-energy-security.md#section-2926), enacted by Pub. L. 113–291, which relates to operational energy activities and is largely comprised of provisions transferred from former section 138c.
-
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232, § 312(c)(1), inserted “, including progress on energy resilience at military installations according to metrics developed by the Secretary” after “under [section 2911 of this title](./chapter-173-energy-security.md#section-2911)” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 115–232, § 312(c)(2), substituted “the downtimes (in minutes or hours) these missions can afford based on their mission requirements and risk tolerances” for “the mission requirements associated with disruption tolerances based on risk to mission”.
+
+Subsec. (a)(4). Pub. L. 115–232, § 312(c)(3), inserted “(including critical energy loads in megawatts and the associated downtime tolerances for critical energy loads)” after “energy requirements and critical energy requirements” in introductory provisions.
+
+Subsec. (a)(5) to (7). Pub. L. 115–232, § 312(c)(4), (5), added pars. (5) and (6) and redesignated former par. (5) as (7).
+
+Subsec. (b)(1). Pub. L. 115–232, § 314(b)(1), substituted “section 2926(d)” for “section 2926(b)”.
+
+2017—Subsec. (a). Pub. L. 115–91, § 2831(c)(7)(A), substituted “Energy Resilience” for “Resiliency” in heading.
+
+Subsec. (a)(1). Pub. L. 115–91, § 2836(1), inserted “, including progress on energy resilience at military installations according to metrics developed by the Secretary” before period at end.
+
+Pub. L. 115–91, § 2831(c)(7)(B), substituted “2911(g)” for “2911(e)”.
+
+Subsec. (a)(3). Pub. L. 115–91, § 2836(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense.”
+
+Subsec. (a)(4), (5). Pub. L. 115–91, § 2836(3), (4), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (b)(1). Pub. L. 115–91, § 1081(a)(48), substituted “section 2926(b)” for “section 138c”.
+
 2016—Subsec. (a). Pub. L. 114–328, § 311(1), inserted “, Resiliency, and Mission Assurance” after “Annual Report Related to Installations Energy Management” in heading.
 
 Subsec. (a)(2) to (11). Pub. L. 114–328, § 311(2)–(4), added par. (2), redesignated pars. (9) and (11) as pars. (3) and (4), respectively, and struck out former pars. (2) to (8) and (10), which required various tables and descriptions in reports.
@@ -1051,19 +1178,29 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 <a id="section-2926"></a>
 ## § 2926. Operational energy activities
-**(a) Alternative Fuel Activities.—** The Assistant Secretary of Defense for Energy, Installations, and Environment, in consultation with the heads of the military departments and the Assistant Secretary of Defense for Research and Engineering, shall—
+**(a) Operational Energy Policy.—** In carrying out [section 2911(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2911/a&num=0&edition=prelim), the Secretary of Defense shall ensure the types, availability, and use of operational energy promote the readiness of the armed forces for their military missions.
 
-(1) lead the alternative fuel activities of the Department of Defense and oversee the investments of the Department in such activities;
+**(b) Authorities.—** The Secretary of Defense may—
 
-(2) make recommendations to the Secretary regarding the development of alternative fuels by the military departments and the Office of the Secretary of Defense;
+(1) require the Secretary of a military department or the commander of a combatant command to assess the energy supportability of systems, capabilities, and plans;
 
-(3) establish guidelines and prescribe policy to streamline the investments in alternative fuel activities across the Department of Defense;
+(2) authorize the use of energy security, cost of backup power, and energy resilience as factors in the cost-benefit analysis for procurement of operational equipment; and
+
+(3) in selecting equipment that will use operational energy, give favorable consideration to the acquisition of equipment that enhances energy security, energy resilience, energy conservation, and reduces logistical vulnerabilities.
+
+**(c) Functions of the Assistant Secretary of Defense for Energy, Installations, and Environment.—** The Assistant Secretary of Defense for Energy, Installations, and Environment, in consultation with the heads of the appropriate Department of Defense components, shall—
+
+(1) oversee the operational energy activities of the Department of Defense and oversee the investments of the Department in such activities;
+
+(2) make recommendations to the Secretary regarding the policies and investments that affect the use of operational energy across the Department of Defense;
+
+(3) establish guidelines and recommend to the Secretary policy to improve warfighting capability through energy security and energy resilience;
 
 (4) encourage collaboration with and leveraging of investments made by the Department of Energy, the Department of Agriculture, and other relevant Federal agencies to advance alternative fuel development to the benefit of the Department of Defense; and
 
-(5) certify the budget associated with the investment of the Department of Defense in alternative fuel activities in accordance with subsection (c)(4).
+(5) certify the budget associated with the investment of the Department of Defense in alternative fuel activities in accordance with subsection (e)(4).
 
-**(b) Operational Energy Strategy.—**
+**(d) Operational Energy Strategy.—**
 
 (1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
 
@@ -1075,7 +1212,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 (5) Updates to the strategy required by paragraph (1) shall be submitted to the congressional defense committees as soon as practicable after the modifications to the strategy are made.
 
-**(c) Budgetary and Financial Matters.—**
+**(e) Budgetary and Financial Matters.—**
 
 (1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
 
@@ -1105,7 +1242,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 (6) For each proposed budget covered by a report under paragraph (4) for which the certification of the Assistant Secretary under paragraph (3) is that the budget is adequate for implementation of the strategy, the report shall include the items set forth in subparagraphs (C), (D), and (E) of paragraph (5).
 
-**(d) Access to Initiative Results and Records.—**
+**(f) Access to Initiative Results and Records.—**
 
 (1) The Secretary of a military department shall submit to the Assistant Secretary of Defense for Energy, Installations, and Environment the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
 
@@ -1114,9 +1251,25 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 ### Statutory Notes
 
 #### Codification
-Subsec. (c)(3) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), which was transferred to subsec. (a) of this section by Pub. L. 113–291, § 901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, § 314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs. (d) to (f) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), which were transferred to subsecs. (b) to (d), respectively, of this section by Pub. L. 113–291, § 901(g)(1)(D), were based on Pub. L. 110–417, [div. A], title IX, § 902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, § 901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, § 311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, § 311, Dec. 26, 2013, 127 Stat. 728.
+Subsec. (c)(3) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), which was transferred to subsec. (a) (now (c)) of this section by Pub. L. 113–291, § 901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, § 314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs. (d) to (f) of [section 138c of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138c), which were transferred to subsecs. (b) to (d) (now (d) to (f)), respectively, of this section by Pub. L. 113–291, § 901(g)(1)(D), were based on Pub. L. 110–417, [div. A], title IX, § 902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, § 901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, § 311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, § 311, Dec. 26, 2013, 127 Stat. 728.
 
 #### Amendments
+2018—Subsecs. (a), (b). Pub. L. 115–232, § 314(a)(2), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
+
+Subsec. (c). Pub. L. 115–232, § 314(a)(3)(A), (B), substituted “Functions of the Assistant Secretary of Defense for Energy, Installations, and Environment” for “Alternative Fuel Activities” in heading and “heads of the appropriate Department of Defense components” for “heads of the military departments and the Assistant Secretary of Defense for Research and Engineering” in introductory provisions.
+
+Pub. L. 115–232, § 314(a)(1), redesignated subsec. (a) as (c). Former subsec. (c) redesignated (e).
+
+Subsec. (c)(1). Pub. L. 115–232, § 314(a)(3)(C), substituted “oversee the operational energy activities” for “lead the alternative fuel activities”.
+
+Subsec. (c)(2). Pub. L. 115–232, § 314(a)(3)(D), substituted “regarding the policies and investments that affect the use of operational energy across the Department of Defense” for “regarding the development of alternative fuels by the military departments and the Office of the Secretary of Defense”.
+
+Subsec. (c)(3). Pub. L. 115–232, § 314(a)(3)(E), substituted “recommend to the Secretary policy to improve warfighting capability through energy security and energy resilience” for “prescribe policy to streamline the investments in alternative fuel activities across the Department of Defense”.
+
+Subsec. (c)(5). Pub. L. 115–232, § 314(a)(3)(F), substituted “subsection (e)(4)” for “subsection (c)(4)”.
+
+Subsecs. (d) to (f). Pub. L. 115–232, § 314(a)(1), redesignated subsecs. (b) to (d) as (d) to (f), respectively.
+
 2015—Pub. L. 114–92, § 1081(a)(12), substituted “for Energy, Installations, and Environment” for “for Installations, Energy, and Environment” in subsecs. (a) to (d).
 
 Subsec. (b)(4). Pub. L. 114–92, § 1081(b)(2), amended directory language of Pub. L. 113–291, § 901(g)(1)(F). See 2014 Amendment note below.

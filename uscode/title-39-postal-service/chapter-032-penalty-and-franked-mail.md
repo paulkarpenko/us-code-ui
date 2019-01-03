@@ -32,7 +32,7 @@ Section 403 of the Juvenile Justice and Delinquency Prevention Act of 1974, refe
 1985—Par. (6). Pub. L. 99–87 added par. (6).
 
 #### Effective Date
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3202"></a>
@@ -78,6 +78,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L. 94–553, set out as an Effective Date note preceding [section 101 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim), Copyrights.
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
@@ -140,6 +143,11 @@ June 16, 1948, ch. 472, title I, 62 Stat. 445.
 
 **(b)** The Postal Service shall prescribe the endorsement to be placed on covers mailed under clauses (1)(E), (2), and (3) of [section 3202(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3202/a&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3204"></a>
 ## § 3204. Restrictions on use of penalty mail
@@ -172,6 +180,9 @@ June 16, 1948, ch. 472, title I, 62 Stat. 445.
 #### Amendments
 1985—Subsec. (a). Pub. L. 99–87 substituted “section or [section 3220(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3220/a&num=0&edition=prelim),” for “section,” in introductory provisions.
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 #### Transfer of Functions
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
@@ -180,6 +191,11 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 ## § 3205. Accounting for penalty covers
 
 Executive departments and agencies, independent establishments of the Government of the United States, and organizations and persons authorized by law to use penalty mail, shall account for all penalty covers through the Postal Service.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3206"></a>
@@ -205,6 +221,9 @@ Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L.
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as a note under [section 3210 of this title](./chapter-032-penalty-and-franked-mail.md#section-3210).
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3207"></a>
 ## § 3207. Limit of weight of penalty mail; postage on overweight matter
@@ -223,17 +242,32 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L.
 (3) otherwise mailable;
 is mailable at rates for that class of mail entitled to the lowest priority in handling and delivery, even though it may include written matter and may be sealed.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3208"></a>
 ## § 3208. Shipment by most economical means
 
 Shipments of official matter other than franked mail shall be sent by the most economical means of transportation practicable. The Postal Service may refuse to accept official matter for shipment by mail when in its judgment it may be shipped by other means at less expense, or it may provide for its transportation by freight or express whenever a saving to the Government of the United States will result therefrom without detriment to the public service.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3209"></a>
 ## § 3209. Executive departments to supply information
 
 Persons and governmental organizations authorized to use penalty mail shall supply all information requested by the Postal Service necessary to carry out the provisions of this chapter as soon as practicable after request therefor.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3210"></a>
@@ -442,6 +476,9 @@ Amendment by Pub. L. 95–521 effective Jan. 3, 1979, see section 717 of Pub. L.
 #### Effective Date of 1973 Amendment
 Pub. L. 93–191, § 14, Dec. 18, 1973, 87 Stat. 746, provided that: “(a) Except as provided in subsection (b) of this section, the provisions of this Act [enacting [section 3219 of this title](./chapter-032-penalty-and-franked-mail.md#section-3219) and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3215, 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing [section 277 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section277&num=0&edition=prelim)] shall become effective on the date of enactment of this Act [Dec. 18, 1973]. “(b) The provisions of [section 3214 of title 39](./chapter-032-penalty-and-franked-mail.md#section-3214), United States Code, as amended by section 4 of this Act; and the provisions of subsection (b) of [section 3216 of title 39](./chapter-032-penalty-and-franked-mail.md#section-3216), United States Code, as amended by section 7 of this Act, shall take effect as of December 27, 1972.”
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 #### Separability
 Pub. L. 93–191, § 15, Dec. 18, 1973, 87 Stat. 746, provided that: “If a provision of this Act [enacting [section 3219 of this title](./chapter-032-penalty-and-franked-mail.md#section-3219) and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3214 to 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing [section 277 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section277&num=0&edition=prelim)] is held invalid, all valid provisions severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, such provision remains in effect in all valid applications severable from the invalid application or applications.”
 
@@ -468,6 +505,9 @@ The Vice President, Members of Congress, the Secretary of the Senate, the Sergea
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as a note under [section 3210 of this title](./chapter-032-penalty-and-franked-mail.md#section-3210).
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3212"></a>
 ## § 3212. Congressional Record under frank of Members of Congress
@@ -485,6 +525,9 @@ Subsec. (b). Pub. L. 93–191 incorporated existing text in provisions designate
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as a note under [section 3210 of this title](./chapter-032-penalty-and-franked-mail.md#section-3210).
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3213"></a>
 ## § 3213. Seeds and reports from Department of Agriculture
@@ -499,6 +542,9 @@ Seeds and agricultural reports emanating from the Department of Agriculture may 
 
 #### Amendments
 1981—Par. (2). Pub. L. 97–69 substituted “during the 90-day period immediately” for “until the thirtieth day of June”.
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3214"></a>
@@ -529,6 +575,9 @@ Pub. L. 103–123, title IV, § 6(c), Oct. 28, 1993, 107 Stat. 1247, provided th
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–191 effective Dec. 27, 1972, see section 14 of Pub. L. 93–191, set out as a note under [section 3210 of this title](./chapter-032-penalty-and-franked-mail.md#section-3210).
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3215"></a>
 ## § 3215. Lending or permitting use of frank unlawful
@@ -542,6 +591,9 @@ A person entitled to use a frank may not lend it or permit its use by any commit
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as a note under [section 3210 of this title](./chapter-032-penalty-and-franked-mail.md#section-3210).
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3216"></a>
@@ -610,6 +662,9 @@ Amendment by Pub. L. 95–521 effective Jan. 3, 1979, see section 717 of Pub. L.
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, except that subsec. (b) of this section effective Dec. 27, 1972, see section 14 of Pub. L. 93–191, set out as a note under [section 3210 of this title](./chapter-032-penalty-and-franked-mail.md#section-3210).
 
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
+
 
 <a id="section-3217"></a>
 ## § 3217. Correspondence of members of diplomatic corps and consuls of countries of Postal Union of Americas and Spain
@@ -617,6 +672,9 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, except that subsec. (b) o
 Correspondence of the members of the diplomatic corps of the countries of the Postal Union of the Americas and Spain stationed in the United States may be reciprocally transmitted in the domestic mails free of postage, and be entitled to free registration without right to indemnity in case of loss. The same privilege is accorded consuls and vice consuls when they are discharging the function of consuls of countries stationed in the United States, for official correspondence among themselves, and with the Government of the United States.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Free Mailing Privileges Continue Unchanged
 Pub. L. 109–435, title V, § 505(c), Dec. 20, 2006, 120 Stat. 3236, provided that: “Nothing in this Act [see Tables for classification] or any amendment made by this Act shall affect any free mailing privileges accorded under section 3217 or sections 3403 through 3406 of title 39, United States Code.”
@@ -636,6 +694,9 @@ Upon the death of a Member of Congress during his term of office, the surviving 
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14 of Pub. L. 93–191, set out as a note under [section 3210 of this title](./chapter-032-penalty-and-franked-mail.md#section-3210).
+
+#### Effective Date
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 
 <a id="section-3219"></a>

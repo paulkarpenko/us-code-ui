@@ -17,7 +17,7 @@ It is the policy and objective of the Congress to use the patent system to promo
 2000—Pub. L. 106–404 substituted “enterprise without unduly encumbering future research and discovery;” for “enterprise;”.
 
 #### Effective Date
-Chapter effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 #### Short Title
 This chapter is popularly known as the Bayh-Dole Act. Section 6(a) of Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3018, which enacted this chapter, is also popularly known as the Bayh-Dole Act and also as the University and Small Business Patent Procedures Act of 1980. For complete classification of section 6(a) of Pub. L. 96–517 to the Code, see Tables.
@@ -61,6 +61,9 @@ Section 41 of the Plant Variety Protection Act ([7 U.S.C. 2401(d)](https://uscod
 1984—Subsec. (d). Pub. L. 98–620, § 501(1), inserted “or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act ([7 U.S.C. 2321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2321&num=0&edition=prelim) et seq.)” after “title”.
 
 Subsec. (e). Pub. L. 98–620, § 501(2), inserted “: Provided, That in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act ([7 U.S.C. 2401(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2401/d&num=0&edition=prelim))) must also occur during the period of contract performance” after “agreement”.
+
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-202"></a>
@@ -175,6 +178,9 @@ Amendment by section 20(i)(2) of Pub. L. 112–29 effective upon the expiration 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-1).
 
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-203"></a>
 ## § 203. March-in rights
@@ -207,17 +213,30 @@ Section 202(b)(4), referred to in subsec. (b), was redesignated [section 202(b)(
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-204"></a>
 ## § 204. Preference for United States industry
 
 Notwithstanding any other provision of this chapter, no small business firm or nonprofit organization which receives title to any subject invention and no assignee of any such small business firm or nonprofit organization shall grant to any person the exclusive right to use or sell any subject invention in the United States unless such person agrees that any products embodying the subject invention or produced through the use of the subject invention will be manufactured substantially in the United States. However, in individual cases, the requirement for such an agreement may be waived by the Federal agency under whose funding agreement the invention was made upon a showing by the small business firm, nonprofit organization, or assignee that reasonable but unsuccessful efforts have been made to grant licenses on similar terms to potential licensees that would be likely to manufacture substantially in the United States or that under the circumstances domestic manufacture is not commercially feasible.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-205"></a>
 ## § 205. Confidentiality
 
 Federal agencies are authorized to withhold from disclosure to the public information disclosing any invention in which the Federal Government owns or may own a right, title, or interest (including a nonexclusive license) for a reasonable time in order for a patent application to be filed. Furthermore, Federal agencies shall not be required to release copies of any document which is part of an application for patent filed with the United States Patent and Trademark Office or with any foreign patent office.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-206"></a>
@@ -229,6 +248,9 @@ The Secretary of Commerce may issue regulations which may be made applicable to 
 
 #### Amendments
 1984—Pub. L. 98–620 amended section generally. Prior to amendment, section read as follows: “The Office of Federal Procurement Policy, after receiving recommendations of the Office of Science and Technology Policy, may issue regulations which may be made applicable to Federal agencies implementing the provisions of sections 202 through 204 of this chapter and the Office of Federal Procurement Policy shall establish standard funding agreement provisions required under this chapter.”
+
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-207"></a>
@@ -264,6 +286,9 @@ Subsec. (a)(3). Pub. L. 106–404, § 6(2)(B), inserted “, including acquiring
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under [section 2 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-2).
+
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 #### Ex. Ord. No. 9424. Establishment of a Register of Government Interests in Patents
 Ex. Ord. No. 9424, Feb. 18, 1944, 9 F.R. 1959, provided:
@@ -381,6 +406,9 @@ The Secretary of Commerce is authorized to promulgate regulations specifying the
 #### Amendments
 1984—Pub. L. 98–620 substituted “Secretary of Commerce” for “Administrator of General Services”.
 
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-209"></a>
 ## § 209. Licensing federally owned inventions
@@ -435,6 +463,9 @@ The Secretary of Commerce is authorized to promulgate regulations specifying the
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under [section 2 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-2).
+
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-210"></a>
@@ -542,11 +573,19 @@ Reference to the Director of Central Intelligence or the Director of the Central
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under [section 2 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-2).
 
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
 
 <a id="section-211"></a>
 ## § 211. Relationship to antitrust laws
 
 Nothing in this chapter shall be deemed to convey to any person immunity from civil or criminal liability, or to create any defenses to actions, under any antitrust law.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
 
 
 <a id="section-212"></a>

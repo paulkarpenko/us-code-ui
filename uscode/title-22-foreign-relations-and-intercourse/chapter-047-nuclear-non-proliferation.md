@@ -31,6 +31,9 @@ source: >-
 
 [Section 2151q of this title](./chapter-032-foreign-assistance.md#section-2151q), referred to in subsec. (e), was repealed by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of this title.
 
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
+
 #### Feasibility of Expanding Cooperative Activities Into International Cooperative Effort; Presidential Report to Congress Not Later Than March 10, 1979
 Pub. L. 95–242, title V, § 503, Mar. 10, 1978, 92 Stat. 149, directed President, not later than twelve months after Mar. 10, 1978, to report to Congress on feasibility of expanding cooperative activities established pursuant to subsec. (c) of this section into an international cooperative effort to include a scientific peace corps designed to encourage large numbers of technically trained volunteers to live and work in developing countries for varying periods of time for purpose of engaging in projects to aid in meeting the energy needs of such countries through search for and utilization of indigenous energy resources and application of suitable technology, including widespread utilization of renewable and unconventional energy technologies, and to also include in report a discussion of other mechanisms to conduct a coordinated international effort to develop, demonstrate, and encourage utilization of such technologies in developing countries.
 
@@ -75,7 +78,7 @@ Pub. L. 95–242, title V, § 503, Mar. 10, 1978, 92 Stat. 149, directed Preside
 
     (ii) an export license was issued under [section 2139(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2139/b&num=0&edition=prelim);
 
-    (iii) approvals were issued under the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.], or [section 2139(b)(3) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2139/b/3&num=0&edition=prelim), for the retransfer of any item, technical data, component, or substance; or
+    (iii) approvals were issued under the Export Administration Act of 1979, or [section 2139(b)(3) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2139/b/3&num=0&edition=prelim), for the retransfer of any item, technical data, component, or substance; or
 
     (iv) authorizations were made as required by [section 2077(b)(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b/2&num=0&edition=prelim) to engage, directly or indirectly, in the production of special nuclear material;
 
@@ -98,7 +101,7 @@ Pub. L. 95–242, title V, § 503, Mar. 10, 1978, 92 Stat. 149, directed Preside
       (IV) [section 2364 of this title](./chapter-032-foreign-assistance.md#section-2364) with respect to [section 2375 of this title](./chapter-032-foreign-assistance.md#section-2375) or [section 2753(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2753/f&num=0&edition=prelim), the last sentence of [section 2780(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim), or 2799aa–1(b)(1) 22 So in original. Probably should be preceded by “section”. of this title; and
 
   (C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
-Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 [[50 U.S.C. 4614(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4614/c/1&num=0&edition=prelim)] shall be submitted as confidential.
+Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) 33 See References in Text note below. of the Export Administration Act of 1979 shall be submitted as confidential.
 
 **(b) Analysis of civil agreements for cooperation** In the first report required by this section, the President shall analyze each civil agreement for cooperation negotiated pursuant to [section 2153 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2153&num=0&edition=prelim), and shall discuss the scope and adequacy of the requirements and obligations relating to safeguards and other controls therein.
 
@@ -107,7 +110,7 @@ Portions of the information required by paragraph (6) may be submitted in classi
 #### References in Text
 This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201) and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613). Section 12 of the Act was classified to [section 4614 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4614&num=0&edition=prelim) prior to repeal.
 
 #### Amendments
 1994—Subsec. (a). Pub. L. 103–236 struck out “and” after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions.
@@ -116,7 +119,7 @@ The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is
 Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under [section 6301 of this title](./chapter-072-nuclear-proliferation-prevention.md#section-6301).
 
 #### Effective Date
-Subchapter effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the President annually report to Congress on the Government’s efforts to prevent proliferation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 15 of House Document No. 103–7.
@@ -179,6 +182,9 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under [section 6511 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6511).
+
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 #### Provision of Certain Information to Congress
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1134], Nov. 29, 1999, 113 Stat. 1536, 1501A–494, provided that: “(a) Requirement to Provide Information.—The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 ([22 U.S.C. 3282(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3282/c&num=0&edition=prelim)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act [[22 U.S.C. 3282(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3282/c&num=0&edition=prelim), (d)]. “(b) Issuance of Directives.—Not later than February 1, 2000, the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of Central Intelligence, and the Chairman of the Nuclear Regulatory Commission shall issue directives, which shall provide access to information, including information contained in special access programs, to implement their responsibilities under subsections (c) and (d) of section 602 of the Nuclear Non-Proliferation Act of 1978 ([22 U.S.C. 3282(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3282/c&num=0&edition=prelim) and (d)). Copies of such directives shall be forwarded promptly to the Committee on Foreign Relations of the Senate and the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives upon the issuance of the directives.”
@@ -265,6 +271,9 @@ It is the purpose of this chapter to promote the policies set forth above by—
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201) and Tables.
 
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
+
 
 <a id="section-3223"></a>
 ## § 3223. Definitions
@@ -301,6 +310,9 @@ The Energy Reorganization Act of 1974, referred to in subsec. (b), is Pub. L. 93
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under [section 6511 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6511).
 
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
+
 
 <a id="section-3224"></a>
 ## § 3224. Congressional declaration of policy
@@ -310,7 +322,7 @@ The United States, as a matter of national policy, shall take such actions and i
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 
 <a id="section-3224a"></a>
@@ -328,6 +340,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under [section 6511 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6511).
+
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 
 <a id="section-3241"></a>
@@ -365,6 +380,9 @@ Subsec. (b) of this section, directed the President to submit to Congress not la
 
 Subsec. (c) of this section, which directed the President, in the report required by section 103 of Pub. L. 95–242, title I, Mar. 10, 1978, 92 Stat. 122, formerly set out as a note under [section 3222 of this title](./chapter-047-nuclear-non-proliferation.md#section-3222), to also address the desirability of and options for foreign participation, including investment, in new United States uranium enrichment facilities, the arrangements that would be required to implement such participation, and the commitments that would be required as a condition of such participation, was omitted in view of the omission of section 103 of Pub. L. 95–242.
 
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
+
 #### Delegation of Functions
 Secretary of State responsible for performing functions vested in President under subsecs. (a) and (d), see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
@@ -375,6 +393,9 @@ Secretary of State responsible for performing functions vested in President unde
 The President shall take immediate initiatives to invite all nuclear supplier and recipient nations to reevaluate all aspects of the nuclear fuel cycle, with emphasis on alternatives to an economy based on the separation of pure plutonium or the presence of high enriched uranium, methods to deal with spent fuel storage, and methods to improve the safeguards for existing nuclear technology. The President shall, in the first report required by [section 3281 of this title](./chapter-047-nuclear-non-proliferation.md#section-3281), detail the progress of such international reevaluation.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 #### Delegation of Functions
 Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
@@ -423,13 +444,18 @@ The United States is committed to continued strong support for the principles of
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 
 <a id="section-3261"></a>
 ## § 3261. Training program
 
 The Department of Energy, in consultation with the Commission, shall establish and operate a safeguards and physical security training program to be made available to persons from nations and groups of nations which have developed or acquired, or may be expected to develop or acquire, nuclear materials and equipment for use for peaceful purposes. Any such program shall include training in the most advanced safeguards and physical security techniques and technology, consistent with the national security interests of the United States.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 
 <a id="section-3262"></a>
@@ -440,6 +466,11 @@ The United States shall seek to negotiate with other nations and groups of natio
 (1) adopt general principles and procedures, including common international sanctions, to be followed in the event that a nation violates any material obligation with respect to the peaceful use of nuclear materials and equipment or nuclear technology, or in the event that any nation violates the principles of the Treaty, including the detonation by a non-­nuclear-weapon state of a nuclear explosive device; and
 
 (2) establish international procedures to be followed in the event of diversion, theft, or sabotage of nuclear materials or sabotage of nuclear facilities, and for recovering nuclear materials that have been lost or stolen, or obtained or used by a nation or by any person or group in contravention of the principles of the Treaty.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 
 <a id="section-3281"></a>
@@ -487,7 +518,7 @@ The United States shall endeavor to cooperate with other nations, international 
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201).
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in this section requiring the President to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 126 of House Document No. 103–7.

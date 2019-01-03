@@ -2,7 +2,7 @@
 title: 29
 chapter: '32'
 heading: WORKFORCE INNOVATION AND OPPORTUNITY
-section_count: 93
+section_count: 94
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29&num=0&edition=prelim
 ---
@@ -80,6 +80,117 @@ Pub. L. 113–128, title II, § 201, July 22, 2014, 128 Stat. 1608, provided tha
 
 #### Declaration of Policy
 Pub. L. 102–367, title I, § 101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to— “(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment; “(2) increase the funds available for programs under title II of the Job Training Partnership Act ([former] [29 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1601&num=0&edition=prelim) et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and “(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels.”
+
+#### Ex. Ord. No. 13845. Establishing the President’s National Council for the American Worker
+Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a coordinated process for developing a national strategy to ensure that America’s students and workers have access to affordable, relevant, and innovative education and job training that will equip them to compete and win in the global economy, and for monitoring the implementation of that strategy, it is hereby ordered as follows:
+
+Section 1. Purpose. Our Nation is facing a skills crisis. There are currently more than 6.7 million unfilled jobs in the United States, and American workers, who are our country’s most valuable resource, need the skills training to fill them. At the same time, the economy is changing at a rapid pace because of the technology, automation, and artificial intelligence that is shaping many industries, from manufacturing to healthcare to retail. For too long, our country’s education and job training programs have prepared Americans for the economy of the past. The rapidly changing digital economy requires the United States to view education and training as encompassing more than a single period of time in a traditional classroom. We need to prepare Americans for the 21st century economy and the emerging industries of the future. We must foster an environment of lifelong learning and skills-based training, and cultivate a demand-driven approach to workforce development. My Administration will champion effective, results-driven education and training so that American students and workers can obtain the skills they need to succeed in the jobs of today and of the future.
+
+Sec. 2. Policy. It shall be the policy of the executive branch to work with private employers, educational institutions, labor unions, other non-profit organizations, and State, territorial, tribal, and local governments to update and reshape our education and job training landscape so that it better meets the needs of American students, workers, and businesses.
+
+Sec. 3. Establishment and Composition of the President’s National Council for the American Worker. (a) There is hereby established the President’s National Council for the American Worker (Council), co-chaired by the Secretary of Commerce, the Secretary of Labor, the Assistant to the President for Domestic Policy, and the Advisor to the President overseeing the Office of Economic Initiatives (Co-Chairs).
+
+(b) In addition to the Co-Chairs, the Council shall include the following officials, or their designees:
+
+(i) the Secretary of the Treasury;
+
+(ii) the Secretary of Education;
+
+(iii) the Secretary of Veterans Affairs;
+
+(iv) the Director of the Office of Management and Budget;
+
+(v) the Administrator of the Small Business Administration;
+
+(vi) the Assistant to the President and Deputy Chief of Staff for Policy Coordination;
+
+(vii) the Director of the National Economic Council;
+
+(viii) the Chairman of the Council of Economic Advisers;
+
+(ix) the Director of the National Science Foundation; and
+
+(x) the Director of the Office of Science and Technology Policy.
+
+Sec. 4. Additional Invitees. As appropriate and consistent with applicable law, the Co-Chairs may, from time to time, invite the heads of other executive departments and agencies (agencies), or other senior officials in the White House Office, to attend meetings of the Council.
+
+Sec. 5. Council Meetings. The Co-Chairs shall convene meetings of the Council at least once per quarter.
+
+Sec. 6. Functions of the Council. (a) The Council shall develop recommendations for the President on policy and strategy related to the American workforce, and perform such other duties as the President may from time to time prescribe.
+
+(b) The Council shall develop recommendations for:
+
+(i) a national strategy for empowering American workers, which shall include recommendations on how the Federal Government can work with private employers, educational institutions, labor unions, other non-profit organizations, and State, territorial, tribal, and local governments to create and promote workforce development strategies that provide evidence-based, affordable education and skills-based training for youth and adults to prepare them for the jobs of today and of the future;
+
+(ii) fostering close coordination, cooperation, and information exchange among the Federal Government, private employers, educational institutions, labor unions, other non-profit organizations, and State, territorial, tribal, and local governments as related to issues concerning the education and training of Americans; and
+
+(iii) working with agencies to foster consistency in implementing policies and actions developed under this order.
+
+Sec. 7. Initial Tasks of Council. Within 180 days of the date of this order [July 19, 2018], the Council shall:
+
+(a) develop a national campaign to raise awareness of matters considered by the Council, such as the urgency of the skills crisis; the importance of science, technology, engineering, and mathematics education; the creation of new industries and job opportunities spurred by emerging technologies, such as artificial intelligence; the nature of many careers in the trades and manufacturing; and the need for companies to invest in the training and re-training of their workers and more clearly define the skills and competencies that jobs require;
+
+(b) develop a plan for recognizing companies that demonstrate excellence in workplace education, training, and re-training policies and investments, in order to galvanize industries to identify and adopt best practices, innovate their workplace policies, and invest in their workforces;
+
+(c) examine how the Congress and the executive branch can work with private employers, educational institutions, labor unions, other non-profit organizations, and State, territorial, tribal, and local governments to support the implementation of recommendations from the Task Force on Apprenticeship Expansion established in Executive Order 13801 of June 15, 2017 (Expanding Apprenticeships in America) [[29 U.S.C. 50](./chapter-4c-apprentice-labor.md#section-50) note], including recommendations related to:
+
+(i) developing and increasing the use of industry-recognized, portable credentials by experienced workers seeking further education, displaced workers seeking skills to secure new jobs, students enrolled in postsecondary education, and younger Americans who are exploring career and education options before entering the workforce;
+
+(ii) increasing apprenticeship, earn-and-learn, and work-based learning opportunities;
+
+(iii) expanding the use of online learning resources; and
+
+(iv) increasing the number of partnerships around the country between companies, local educational institutions, and other entities, including local governments, labor unions, workforce development boards, and other non-profit organizations, in an effort to understand the types of skills that are required by employers so that educational institutions can recalibrate their efforts toward the development and delivery of more effective training programs.
+
+(d) consider the recommendations of the American Workforce Policy Advisory Board (Board) established in section 8 of this order and, as appropriate, adopt recommendations that would significantly advance the objectives of the Council. The Council shall continue to consider and, as appropriate, adopt the Board’s recommendations beyond the initial 180-day period provided by this section;
+
+(e) recommend a specific course of action for increasing transparency related to education and job-training program options, including those offered at 4-year institutions and community colleges. The Council shall also propose ways to increase access to available job data, including data on industries and geographic locations with the greatest numbers of open jobs and projected future opportunities, as well as the underlying skills required to fill open jobs, so that American students and workers can make the most informed decisions possible regarding their education, job selection, and career paths. The Council shall also propose strategies for how best to use existing data tools to support informed decision making for American students and workers;
+
+(f) develop recommendations on how the public sector should engage with the private sector in worker re-training, including through the use of online learning resources. In developing these recommendations, the Council shall examine existing private sector efforts to re-train workers or develop them professionally, and consider how investments in worker training and re-training programs compare to investments in other human-resource related areas, such as recruitment, health benefits, and retirement benefits; and
+
+(g) examine public and private-sector expenditures, including tax expenditures, related to providing Americans with knowledge and skills that will enable them to succeed in the workplace at various stages of life (such as during primary and secondary education, postsecondary education, continuing professional development, and re-training), consider the effectiveness of those expenditures, and make suggestions for reforms in order to serve American workers and students better.
+
+Sec. 8. Establishment of the American Workforce Policy Advisory Board. (a) There is hereby established the American Workforce Policy Advisory Board.
+
+(b) The Board shall be composed and function as follows:
+
+(i) The Board shall be composed of the Secretary of Commerce and the Advisor to the President overseeing the Office of Economic Initiatives, and up to 25 members appointed by the President from among citizens outside the Federal Government, and shall include individuals chosen to serve as representatives of the various sectors of the economy, including the private sector, employers, educational institutions, and States, to offer diverse perspectives on how the Federal Government can improve education, training, and re-training for American workers;
+
+(ii) The Board shall be co-chaired by the Secretary of Commerce and the Advisor to the President overseeing the Office of Economic Initiatives;
+
+(iii) Members appointed to the Board shall serve for a term of 2 years. If the term of the Board established in subsection (a) of this section is extended, members shall be eligible for reappointment, and may continue to serve after the expiration of their terms until the appointment of a successor;
+
+(iv) The Board shall advise the Council on the workforce policy of the United States. Specific activities of the Board shall include, to the extent permitted by law, recommending steps to encourage the private sector and educational institutions to combat the skills crisis by investing in and increasing demand-driven education, training, and re-training, including through apprenticeships and work-based learning opportunities;
+
+(v) Members of the Board shall serve without any compensation for their work on the Board. Members of the Board, while engaged in the work of the Board, may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7), consistent with the availability of funds;
+
+(vi) The Board shall terminate 2 years after the date of this order, unless extended by the President; and
+
+(vii) Insofar as the Federal Advisory Committee Act, as amended [Pub. L. 92–463] (5 U.S.C. App.), may apply to the Board, any functions of the President under that Act, except for those in section 6 and section 14 of that Act, shall be performed by the Secretary of Commerce, in accordance with the guidelines issued by the Administrator of General Services.
+
+Sec. 9. Administrative Provisions. (a) The Department of Commerce shall provide the Council and the Board with funding and administrative support as may be necessary for the performance of their functions.
+
+(b) The Secretary of Commerce, in consultation with the Co-Chairs of the Council, shall designate an official to serve as Executive Director, to coordinate the day-to-day functions of the Council.
+
+(c) To the extent permitted by law, including the Economy Act ([31 U.S.C. 1535](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim)), and subject to the availability of appropriations, other agencies may detail staff to the Council, or otherwise provide administrative support, in order to advance the Council’s functions.
+
+(d) Agencies shall cooperate with the Council and provide such information regarding its current and planned activities related to policies that affect the American workforce as the Co-Chairs shall reasonably request, to the extent permitted by law.
+
+Sec. 10. Termination of Council. The Council shall terminate 2 years after the date of this order, unless extended by the President.
+
+Sec. 11. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-3112"></a>
@@ -848,7 +959,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (J) Employment and training activities carried out under the Community Services Block Grant Act ([42 U.S.C. 9901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) et seq.).
 
-  (K) Programs authorized under [section 60532 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60532&num=0&edition=prelim).
+  (K) Programs authorized under section 60532 11 See References in Text note below. of title 34.
 
 **(b) Requirements**
 
@@ -896,6 +1007,8 @@ The Trade Act of 1974, referred to in subsec. (a)(2)(E), is Pub. L. 93–618, Ja
 The Older Americans Act of 1965, referred to in subsec. (a)(2)(H), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
 The Community Services Block Grant Act, referred to in subsec. (a)(2)(J), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) and Tables.
+
+[Section 60532 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60532&num=0&edition=prelim), referred to in subsec. (a)(2)(K), was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
@@ -1781,7 +1894,7 @@ Section effective on the first day of the first full program year after July 22,
 
     (xi) programs authorized under State unemployment compensation laws (in accordance with applicable Federal law);
 
-    (xii) programs authorized under [section 60532 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60532&num=0&edition=prelim); and
+    (xii) programs authorized under section 60532 22 See References in Text note below. of title 34; and
 
     (xiii) programs authorized under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.), subject to subparagraph (C).
 
@@ -1999,7 +2112,7 @@ Section effective on the first day of the first full program year after July 22,
 
         (dd) 1.5 percent of the amount provided to carry out such program in the State for the fifth and each succeeding full program year that begins after such date.
 
-    (iii) *Federal direct spending programs* — For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in [section 900(c)(8) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c/8&num=0&edition=prelim), as in effect on February 15, 2014 22 So in original. Probably should be “2014,”. shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
+    (iii) *Federal direct spending programs* — For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in [section 900(c)(8) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c/8&num=0&edition=prelim), as in effect on February 15, 2014 33 So in original. Probably should be “2014,”. shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
 
     (iv) *Native American programs* — One-stop partners for Native American programs established under [section 3221 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3221) shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
 
@@ -2035,6 +2148,8 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 The Trade Act of 1974, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§ 2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
 The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(ix), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under [section 9901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) and Tables.
+
+[Section 60532 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60532&num=0&edition=prelim), referred to in subsec. (b)(1)(B)(xii), was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
 
 The Social Security Act, referred to in subsec. (b)(1)(B)(xiii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -2282,7 +2397,7 @@ Section effective on the first day of the first full program year after July 22,
 
 (2) **Definitions** — For the purpose of the formula specified in paragraph (1)(C):
 
-  (A) *Allotment percentage* — The term “allotment percentage”, used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the remainder described in paragraph (1)(C)(i) that is received through an allotment made under paragraph (1)(C) for the fiscal year. The term, used with respect to fiscal year 2014, means the percentage of the amount allotted to States under section 127(b)(1)(C) of the Workforce Investment Act of 1998 [[29 U.S.C. 2852(b)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2852/b/1/C&num=0&edition=prelim)] (as in effect on July 22, 2014) that is received under such section by the State involved for fiscal year 2014.
+  (A) *Allotment percentage* — The term “allotment percentage”, used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the remainder described in paragraph (1)(C)(i) that is received through an allotment made under paragraph (1)(C) for the fiscal year. The term, used with respect to fiscal year 2014, means the percentage of the amount allotted to States under section 127(b)(1)(C) of the Workforce Investment Act of 1998 [[29 U.S.C. 2852(b)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2852/b/1/C&num=0&edition=prelim)] (as in effect on the day before July 22, 2014) that is received under such section by the State involved for fiscal year 2014.
 
   (B) *Area of substantial unemployment* — The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this part and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by the Secretary. For purposes of this subparagraph, determinations of areas of substantial unemployment shall be made once each fiscal year.
 
@@ -3396,6 +3511,9 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(2)(A)(vii)
+Pub. L. 115–224, § 4, title III, § 303, July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (c)(2)(A)(vii) of this section is amended by substituting “out-of-school youth” for “school dropouts”. See 2018 Amendment note below.
+
 #### References in Text
 This Act, referred to in subsecs. (a)(2)(B)(i)(I) and (c)(2)(A)(xi), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
@@ -3414,7 +3532,12 @@ The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(A)(ix)(I), is 
 The Higher Education Act of 1965, referred to in subsec. (c)(3)(B)(i)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (c)(2)(A)(vii). Pub. L. 115–224 substituted “out-of-school youth” for “school dropouts”.
+
 2015—Subsec. (a)(2)(B)(ii). Pub. L. 114–18 substituted “section 3121(b)(7)” for “section 3121(b)(6)”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
@@ -4385,7 +4508,7 @@ Section effective on the first day of the first full program year after July 22,
 
 (5) describe, after the entity submitting the plan consults with the Secretary, the performance accountability measures to be used to assess the performance of entities in carrying out the activities assisted under this section, which shall include the primary indicators of performance described in [section 3141(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/b/2/A&num=0&edition=prelim) and expected levels of performance for such indicators, in accordance with subsection (h).
 
-**(f) Consolidation of funds** Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 ([25 U.S.C. 3401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3401&num=0&edition=prelim) et seq.).
+**(f) Consolidation of funds** Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 ([25 U.S.C. 3401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3401&num=0&edition=prelim) et seq.).1
 
 **(g) Nonduplicative and nonexclusive services** Nothing in this section shall be construed—
 
@@ -4478,7 +4601,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 [Section 1671 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1671&num=0&edition=prelim), referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I, § 199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
-The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§ 3401 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3401&num=0&edition=prelim) and Tables.
+The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§ 3401 et seq.) of Title 25, Indians. The Act was renamed the Indian Employment, Training and Related Services Act of 1992 by Pub. L. 115–93, § 2, Dec. 18, 2017, 131 Stat. 2026. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3401&num=0&edition=prelim) and Tables.
 
 This Act, referred to in subsec. (g)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
@@ -4736,8 +4859,8 @@ This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 
-<a id="section-3226"></a>
-## § 3226. Job training grants
+<a id="section-3225a"></a>
+## § 3225a. Job training grants
 (1) **In general** — The Secretary of Labor shall use funds available under [section 1356(s)(2) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1356/s/2&num=0&edition=prelim) to award grants to eligible entities to provide job training and related activities for workers to assist them in obtaining or upgrading employment in industries and economic sectors identified pursuant to paragraph (4) that are projected to experience significant growth and ensure that job training and related activities funded by such grants are coordinated with the public workforce investment system.
 
 (2) **Use of funds**
@@ -4809,8 +4932,8 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 Amendment by Pub. L. 108–447 effective 90 days after Dec. 8, 2004, see section 430(a) of Pub. L. 108–447, set out as a note under [section 1182 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim), Aliens and Nationality.
 
 
-<a id="section-3226a"></a>
-## § 3226a. National dislocated worker grants
+<a id="section-3226"></a>
+## § 3226. National dislocated worker grants
 **(a) Definitions** In this section:
 
 (1) **Emergency or disaster** — The term “emergency or disaster” means—
@@ -4918,6 +5041,389 @@ This Act, referred to in subsec. (d)(5), is Pub. L. 113–128, July 22, 2014, 12
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+
+<a id="section-3226a"></a>
+## § 3226a. Addressing economic and workforce impacts of the opioid crisis
+**(a) Definitions** Except as otherwise expressly provided, in this section:
+
+(1) **WIOA definitions** — The terms “core program”, “individual with a barrier to employment”, “local area”, “local board”, “one-stop operator”, “outlying area”, “State”, “State board”, and “supportive services” have the meanings given the terms in section 3 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)).
+
+(2) **Education provider** — The term “education provider” means—
+
+  (A) an institution of higher education, as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim); or
+
+  (B) a postsecondary vocational institution, as defined in [section 1002(c) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/c&num=0&edition=prelim).
+
+(3) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State workforce agency;
+
+  (B) an outlying area; or
+
+  (C) a Tribal entity.
+
+(4) **Participating partnership** — The term “participating partnership” means a partnership—
+
+  (A) evidenced by a written contract or agreement; and
+
+  (B) including, as members of the partnership, a local board receiving a subgrant under subsection (d) and 1 or more of the following:
+
+    (i) The eligible entity.
+
+    (ii) A treatment provider.
+
+    (iii) An employer or industry organization.
+
+    (iv) An education provider.
+
+    (v) A legal service or law enforcement organization.
+
+    (vi) A faith-based or community-based organization.
+
+    (vii) Other State or local agencies, including counties or local governments.
+
+    (viii) Other organizations, as determined to be necessary by the local board.
+
+    (ix) Indian Tribes or tribal organizations.
+
+(5) **Program participant** — The term “program participant” means an individual who—
+
+  (A) is a member of a population of workers described in subsection (e)(2) that is served by a participating partnership through the pilot program under this section; and
+
+  (B) enrolls with the applicable participating partnership to receive any of the services described in subsection (e)(3).
+
+(6) **Provider of peer recovery support services** — The term “provider of peer recovery support services” means a provider that delivers peer recovery support services through an organization described in [section 290ee–2(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290ee–2/a&num=0&edition=prelim).
+
+(7) **Secretary** — The term “Secretary” means the Secretary of Labor.
+
+(8) **State workforce agency** — The term “State workforce agency” means the lead State agency with responsibility for the administration of a program under chapter 2 or 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3161](./chapter-032-workforce-innovation-and-opportunity.md#section-3161) et seq., 3171 et seq.).
+
+(9) **Substance use disorder** — The term “substance use disorder” has the meaning given such term by the Assistant Secretary for Mental Health and Substance Use.
+
+(10) **Treatment provider** — The term “treatment provider”—
+
+  (A) means a health care provider that—
+
+    (i) offers services for treating substance use disorders and is licensed in accordance with applicable State law to provide such services; and
+
+    (ii) accepts health insurance for such services, including coverage under title XIX of the Social Security Act ([42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.); and
+
+  (B) may include—
+
+    (i) a nonprofit provider of peer recovery support services;
+
+    (ii) a community health care provider;
+
+    (iii) a Federally qualified health center (as defined in section 1861(aa) of the Social Security Act ([42 U.S.C. 1395x](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x&num=0&edition=prelim)));
+
+    (iv) an Indian health program (as defined in section 3 11 See References in Text note below. of the Indian Health Care Improvement Act ([25 U.S.C. 1603](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim))), including an Indian health program that serves an urban center (as defined in such section); and
+
+    (v) a Native Hawaiian health center (as defined in [section 11711 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11711&num=0&edition=prelim)).
+
+(11) **Tribal entity** — The term “Tribal entity” includes any Indian Tribe, tribal organization, Indian-controlled organization serving Indians, Native Hawaiian organization, or Alaska Native entity, as such terms are defined or used in section 166 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3221](./chapter-032-workforce-innovation-and-opportunity.md#section-3221)).
+
+**(b) Pilot program and grants authorized**
+
+(1) **In general** — The Secretary, in consultation with the Secretary of Health and Human Services, shall carry out a pilot program to address economic and workforce impacts associated with a high rate of a substance use disorder. In carrying out the pilot program, the Secretary shall make grants, on a competitive basis, to eligible entities to enable such entities to make subgrants to local boards to address the economic and workforce impacts associated with a high rate of a substance use disorder.
+
+(2) **Grant amounts** — The Secretary shall make each such grant in an amount that is not less than $500,000, and not more than $5,000,000, for a fiscal year.
+
+**(c) Grant applications**
+
+(1) **In general** — An eligible entity applying for a grant under this section shall submit an application to the Secretary at such time and in such form and manner as the Secretary may reasonably require, including the information described in this subsection.
+
+(2) **Significant impact on community by opioid and substance use disorder-related problems**
+
+  (A) *Demonstration* — An eligible entity shall include in the application—
+
+    (i) information that demonstrates significant impact on the community by problems related to opioid abuse or another substance use disorder, by—
+
+      (I) identifying the counties, communities, regions, or local areas that have been significantly impacted and will be served through the grant (each referred to in this section as a “service area”); and
+
+      (II) demonstrating for each such service area, an increase equal to or greater than the national increase in such problems, between—
+
+        (aa) 1999; and
+
+        (bb) 2016 or the latest year for which data are available; and
+
+    (ii) a description of how the eligible entity will prioritize support for significantly impacted service areas described in clause (i)(I).
+
+  (B) *Information* — To meet the requirements described in subparagraph (A)(i)(II), the eligible entity may use information including data on—
+
+    (i) the incidence or prevalence of opioid abuse and other substance use disorders;
+
+    (ii) the age-adjusted rate of drug overdose deaths, as determined by the Director of the Centers for Disease Control and Prevention;
+
+    (iii) the rate of non-fatal hospitalizations related to opioid abuse or other substance use disorders;
+
+    (iv) the number of arrests or convictions, or a relevant law enforcement statistic, that reasonably shows an increase in opioid abuse or another substance use disorder; or
+
+    (v) in the case of an eligible entity described in subsection (a)(3)(C), other alternative relevant data as determined appropriate by the Secretary.
+
+  (C) *Support for state strategy* — The eligible entity may include in the application information describing how the proposed services and activities are aligned with the State, outlying area, or Tribal strategy, as applicable, for addressing problems described in subparagraph (A) in specific service areas or across the State, outlying area, or Tribal land.
+
+(3) **Economic and employment conditions demonstrate additional federal support needed**
+
+  (A) *Demonstration* — An eligible entity shall include in the application information that demonstrates that a high rate of a substance use disorder has caused, or is coincident to—
+
+    (i) an economic or employment downturn in the service area; or
+
+    (ii) persistent economically depressed conditions in such service area.
+
+  (B) *Information* — To meet the requirements of subparagraph (A), an eligible entity may use information including—
+
+    (i) documentation of any layoff, announced future layoff, legacy industry decline, decrease in an employment or labor market participation rate, or economic impact, whether or not the result described in this clause is overtly related to a high rate of a substance use disorder;
+
+    (ii) documentation showing decreased economic activity related to, caused by, or contributing to a high rate of a substance use disorder, including a description of how the service area has been impacted, or will be impacted, by such a decrease;
+
+    (iii) information on economic indicators, labor market analyses, information from public announcements, and demographic and industry data;
+
+    (iv) information on rapid response activities (as defined in section 3 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3102](./chapter-032-workforce-innovation-and-opportunity.md#section-3102))) that have been or will be conducted, including demographic data gathered by employer or worker surveys or through other methods;
+
+    (v) data or documentation, beyond anecdotal evidence, showing that employers face challenges filling job vacancies due to a lack of skilled workers able to pass a drug test; or
+
+    (vi) any additional relevant data or information on the economy, workforce, or another aspect of the service area to support the application.
+
+**(d) Subgrant authorization and application process**
+
+(1) **Subgrants authorized**
+
+  (A) *In general* — An eligible entity receiving a grant under subsection (b)—
+
+    (i) may use not more than 5 percent of the grant funds for the administrative costs of carrying out the grant;
+
+    (ii) in the case of an eligible entity described in subparagraph (A) or (B) of subsection (a)(3), shall use the remaining grant funds to make subgrants to local entities in the service area to carry out the services and activities described in subsection (e); and
+
+    (iii) in the case of an eligible entity described in subsection (a)(3)(C), shall use the remaining grant funds to carry out the services and activities described in subsection (e).
+
+  (B) *Equitable distribution* — In making subgrants under this subsection, an eligible entity shall ensure, to the extent practicable, the equitable distribution of subgrants, based on—
+
+    (i) geography (such as urban and rural distribution); and
+
+    (ii) significantly impacted service areas as described in subsection (c)(2).
+
+  (C) *Timing of subgrant funds distribution* — An eligible entity making subgrants under this subsection shall disburse subgrant funds to a local board receiving a subgrant from the eligible entity by the later of—
+
+    (i) the date that is 90 days after the date on which the Secretary makes the funds available to the eligible entity; or
+
+    (ii) the date that is 15 days after the date that the eligible entity makes the subgrant under subparagraph (A)(ii).
+
+(2) **Subgrant application**
+
+  (A) *In general* — A local board desiring to receive a subgrant under this subsection from an eligible entity shall submit an application at such time and in such manner as the eligible entity may reasonably require, including the information described in this paragraph.
+
+  (B) *Contents* — Each application described in subparagraph (A) shall include—
+
+    (i) an analysis of the estimated performance of the local board in carrying out the proposed services and activities under the subgrant—
+
+      (I) based on—
+
+        (aa) primary indicators of performance described in section 116(c)(1)(A)(i) of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3141(c)(1)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/c/1/A/i&num=0&edition=prelim),22 So in original. Another closing parenthesis probably should precede the comma. to assess estimated effectiveness of the proposed services and activities, including the estimated number of individuals with a substance use disorder who may be served by the proposed services and activities;
+
+        (bb) the record of the local board in serving individuals with a barrier to employment; and
+
+        (cc) the ability of the local board to establish a participating partnership; and
+
+      (II) which may include or utilize—
+
+        (aa) data from the National Center for Health Statistics of the Centers for Disease Control and Prevention;
+
+        (bb) data from the Center for Behavioral Health Statistics and Quality of the Substance Abuse and Mental Health Services Administration;
+
+        (cc) State vital statistics;
+
+        (dd) municipal police department records;
+
+        (ee) reports from local coroners; or
+
+        (ff) other relevant data; and
+
+    (ii) in the case of a local board proposing to serve a population described in subsection (e)(2)(B), a demonstration of the workforce shortage in the professional area to be addressed under the subgrant (which may include substance use disorder treatment and related services, non-addictive pain therapy and pain management services, mental health care treatment services, emergency response services, or mental health care), which shall include information that can demonstrate such a shortage, such as—
+
+      (I) the distance between—
+
+        (aa) communities affected by opioid abuse or another substance use disorder; and
+
+        (bb) facilities or professionals offering services in the professional area; or
+
+      (II) the maximum capacity of facilities or professionals to serve individuals in an affected community, or increases in arrests related to opioid or another substance use disorder, overdose deaths, or nonfatal overdose emergencies in the community.
+
+**(e) Subgrant services and activities**
+
+(1) **In general** — Each local board that receives a subgrant under subsection (d) shall carry out the services and activities described in this subsection through a participating partnership.
+
+(2) **Selection of population to be served** — A participating partnership shall elect to provide services and activities under the subgrant to one or both of the following populations of workers:
+
+  (A) Workers, including dislocated workers, individuals with barriers to employment, new entrants in the workforce, or incumbent workers (employed or underemployed), each of whom—
+
+    (i) is directly or indirectly affected by a high rate of a substance use disorder; and
+
+    (ii) voluntarily confirms that the worker, or a friend or family member of the worker, has a history of opioid abuse or another substance use disorder.
+
+  (B) Workers, including dislocated workers, individuals with barriers to employment, new entrants in the workforce, or incumbent workers (employed or underemployed), who—
+
+    (i) seek to transition to professions that support individuals with a substance use disorder or at risk for developing such disorder,33 So in original. Probably should be “such a disorder,”. such as professions that provide—
+
+      (I) substance use disorder treatment and related services;
+
+      (II) services offered through providers of peer recovery support services;
+
+      (III) non-addictive pain therapy and pain management services;
+
+      (IV) emergency response services; or
+
+      (V) mental health care; and
+
+    (ii) need new or upgraded skills to better serve such a population of struggling or at-risk individuals.
+
+(3) **Services and activities** — Each participating partnership shall use funds available through a subgrant under this subsection to carry out 1 or more of the following:
+
+  (A) *Engaging employers* — Engaging with employers to—
+
+    (i) learn about the skill and hiring requirements of employers;
+
+    (ii) learn about the support needed by employers to hire and retain program participants, and other individuals with a substance use disorder, and the support needed by such employers to obtain their commitment to testing creative solutions to employing program participants and such individuals;
+
+    (iii) connect employers and workers to on-the-job or customized training programs before or after layoff to help facilitate reemployment;
+
+    (iv) connect employers with an education provider to develop classroom instruction to complement on-the-job learning for program participants and such individuals;
+
+    (v) help employers develop the curriculum design of a work-based learning program for program participants and such individuals;
+
+    (vi) help employers employ program participants or such individuals engaging in a work-based learning program for a transitional period before hiring such a program participant or individual for full-time employment of not less than 30 hours a week; or
+
+    (vii) connect employers to program participants receiving concurrent outpatient treatment and job training services.
+
+  (B) *Screening services* — Providing screening services, which may include—
+
+    (i) using an evidence-based screening method to screen each individual seeking participation in the pilot program to determine whether the individual has a substance use disorder;
+
+    (ii) conducting an assessment of each such individual to determine the services needed for such individual to obtain or retain employment, including an assessment of strengths and general work readiness; or
+
+    (iii) accepting walk-ins or referrals from employers, labor organizations, or other entities recommending individuals to participate in such program.
+
+  (C) *Individual treatment and employment plan* — Developing an individual treatment and employment plan for each program participant—
+
+    (i) in coordination, as appropriate, with other programs serving the participant such as the core programs within the workforce development system under the Workforce Innovation and Opportunity Act ([29 U.S.C. 3101](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) et seq.); and
+
+    (ii) which shall include providing a case manager to work with each participant to develop the plan, which may include—
+
+      (I) identifying employment and career goals;
+
+      (II) exploring career pathways that lead to in-demand industries and sectors, as determined by the State board and the head of the State workforce agency or, as applicable, the Tribal entity;
+
+      (III) setting appropriate achievement objectives to attain the employment and career goals identified under subclause (I); or
+
+      (IV) developing the appropriate combination of services to enable the participant to achieve the employment and career goals identified under subclause (I).
+
+  (D) *Outpatient treatment and recovery care* — In the case of a participating partnership serving program participants described in paragraph (2)(A) with a substance use disorder, providing individualized and group outpatient treatment and recovery services for such program participants that are offered during the day and evening, and on weekends. Such treatment and recovery services—
+
+    (i) shall be based on a model that utilizes combined behavioral interventions and other evidence-based or evidence-informed interventions; and
+
+    (ii) may include additional services such as—
+
+      (I) health, mental health, addiction, or other forms of outpatient treatment that may impact a substance use disorder and co-occurring conditions;
+
+      (II) drug testing for a current substance use disorder prior to enrollment in career or training services or prior to employment;
+
+      (III) linkages to community services, including services offered by partner organizations designed to support program participants; or
+
+      (IV) referrals to health care, including referrals to substance use disorder treatment and mental health services.
+
+  (E) *Supportive services* — Providing supportive services, which shall include services such as—
+
+    (i) coordinated wraparound services to provide maximum support for program participants to assist the program participants in maintaining employment and recovery for not less than 12 months, as appropriate;
+
+    (ii) assistance in establishing eligibility for assistance under Federal, State, Tribal, and local programs providing health services, mental health services, vocational services, housing services, transportation services, social services, or services through early childhood education programs (as defined in [section 1003 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1003&num=0&edition=prelim));
+
+    (iii) services offered through providers of peer recovery support services;
+
+    (iv) networking and mentorship opportunities; or
+
+    (v) any supportive services determined necessary by the local board.
+
+  (F) *Career and job training services* — Offering career services and training services, and related services, concurrently or sequentially with the services provided under subparagraphs (B) through (E). Such services shall include the following:
+
+    (i) Services provided to program participants who are in a pre-employment stage of the program, which may include—
+
+      (I) initial education and skills assessments;
+
+      (II) traditional classroom training funded through individual training accounts under chapter 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3171](./chapter-032-workforce-innovation-and-opportunity.md#section-3171) et seq.);
+
+      (III) services to promote employability skills such as punctuality, personal maintenance skills, and professional conduct;
+
+      (IV) in-depth interviewing and evaluation to identify employment barriers and to develop individual employment plans;
+
+      (V) career planning that includes—
+
+        (aa) career pathways leading to in-demand, high-wage jobs; and
+
+        (bb) job coaching, job matching, and job placement services;
+
+      (VI) provision of payments and fees for employment and training-related applications, tests, and certifications; or
+
+      (VII) any other appropriate career service or training service described in section 134(c) of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3174(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3174/c&num=0&edition=prelim)).
+
+    (ii) Services provided to program participants during their first 6 months of employment to ensure job retention, which may include—
+
+      (I) case management and support services, including a continuation of the services described in clause (i);
+
+      (II) a continuation of skills training, and career and technical education, described in clause (i) that is conducted in collaboration with the employers of such participants;
+
+      (III) mentorship services and job retention support for such participants; or
+
+      (IV) targeted training for managers and workers working with such participants (such as mentors), and human resource representatives in the business in which such participants are employed.
+
+    (iii) Services to assist program participants in maintaining employment for not less than 12 months, as appropriate.
+
+  (G) *Proven and promising practices* — Leading efforts in the service area to identify and promote proven and promising strategies and initiatives for meeting the needs of employers and program participants.
+
+(4) **Limitations** — A participating partnership may not use—
+
+  (A) more than 10 percent of the funds received under a subgrant under subsection (d) for the administrative costs of the partnership;
+
+  (B) more than 10 percent of the funds received under such subgrant for the provision of treatment and recovery services, as described in paragraph (3)(D); and
+
+  (C) more than 10 percent of the funds received under such subgrant for the provision of supportive services described in paragraph (3)(E) to program participants.
+
+**(f) Performance accountability**
+
+(1) **Reports** — The Secretary shall establish quarterly reporting requirements for recipients of grants and subgrants under this section that, to the extent practicable, are based on the performance accountability system under section 116 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3141](./chapter-032-workforce-innovation-and-opportunity.md#section-3141)) and, in the case of a grant awarded to an eligible entity described in subsection (a)(3)(C), section 166(h) of such Act ([29 U.S.C. 3221(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3221/h&num=0&edition=prelim)), including the indicators described in subsection (c)(1)(A)(i) of such section 116 and the requirements for local area performance reports under subsection (d) of such section 116.
+
+(2) **Evaluations**
+
+  (A) *Authority to enter into agreements* — The Secretary shall ensure that an independent evaluation is conducted on the pilot program carried out under this section to determine the impact of the program on employment of individuals with substance use disorders. The Secretary shall enter into an agreement with eligible entities receiving grants under this section to pay for all or part of such evaluation.
+
+  (B) *Methodologies to be used* — The independent evaluation required under this paragraph shall use experimental designs using random assignment or, when random assignment is not feasible, other reliable, evidence-based research methodologies that allow for the strongest possible causal inferences.
+
+**(g) Funding**
+
+(1) **Covered fiscal year** — In this subsection, the term “covered fiscal year” means any of fiscal years 2019 through 2023.
+
+(2) **Using funding for national dislocated worker grants** — Subject to paragraph (4) and notwithstanding section 132(a)(2)(A) and subtitle D 1 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3172(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3172/a/2/A&num=0&edition=prelim), 3221 et seq.), the Secretary may use, to carry out the pilot program under this section for a covered fiscal year—
+
+  (A) funds made available to carry out section 170 of such Act ([29 U.S.C. 3225](./chapter-032-workforce-innovation-and-opportunity.md#section-3225)) for that fiscal year;
+
+  (B) funds made available to carry out section 170 of such Act that remain available for that fiscal year; and
+
+  (C) funds that remain available under section 172(f) of such Act ([29 U.S.C. 3227(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3227/f&num=0&edition=prelim)).
+
+(3) **Availability of funds** — Funds appropriated under section 136(c) of such Act ([29 U.S.C. 3181(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3181/c&num=0&edition=prelim)) and made available to carry out section 170 of such Act for a fiscal year shall remain available for use under paragraph (2) for a subsequent fiscal year until expended.
+
+(4) **Limitation** — The Secretary may not use more than $100,000,000 of the funds described in paragraph (2) for any covered fiscal year under this section.
+
+### Statutory Notes
+
+#### References in Text
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(8), (e)(3)(C)(i), (F)(i)(II), and (g)(2), are Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.) of part B of subchapter I of this chapter. Subtitle D of the Act probably means subtitle D of title I of the Act, which is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
+
+The Social Security Act, referred to in subsec. (a)(10)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+Section 3 of the Indian Health Care Improvement Act, referred to in subsec. (a)(10)(B)(iv), probably means section 4 of that Act, which is classified to [section 1603 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim), Indians, and defines terms, including “Indian health program” and “urban center”.
+
+#### Codification
+Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of title I of the Workforce Innovation and Opportunity Act which comprises this subchapter.
 
 
 <a id="section-3227"></a>
@@ -6161,7 +6667,7 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 (10) No funds available under this subchapter may be used for public service employment except as specifically authorized under this subchapter.
 
-(11) The Federal requirements governing the subchapter, use, and disposition of real property, equipment, and supplies purchased with funds provided under this subchapter shall be the corresponding Federal requirements generally applicable to such items purchased through Federal grants to States and local governments.
+(11) The Federal requirements governing the title, use, and disposition of real property, equipment, and supplies purchased with funds provided under this subchapter shall be the corresponding Federal requirements generally applicable to such items purchased through Federal grants to States and local governments.
 
 (12) Nothing in this subchapter shall be construed to provide an individual with an entitlement to a service under this subchapter.
 

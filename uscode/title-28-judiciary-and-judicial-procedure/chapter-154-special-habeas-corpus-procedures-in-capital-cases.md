@@ -56,6 +56,11 @@ Pub. L. 104–132, title I, § 107(c), Apr. 24, 1996, 110 Stat. 1226, provided t
 
 **(c)** If one of the conditions in subsection (b) has occurred, no Federal court thereafter shall have the authority to enter a stay of execution in the case, unless the court of appeals approves the filing of a second or successive application under section 2244(b).
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c) of Pub. L. 104–132, set out as a note under [section 2261 of this title](./chapter-154-special-habeas-corpus-procedures-in-capital-cases.md#section-2261).
+
 
 <a id="section-2263"></a>
 ## § 2263. Filing of habeas corpus application; time requirements; tolling rules
@@ -73,6 +78,11 @@ Pub. L. 104–132, title I, § 107(c), Apr. 24, 1996, 110 Stat. 1226, provided t
 
   (B) a showing of good cause is made for the failure to file the habeas corpus application within the time period established by this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c) of Pub. L. 104–132, set out as a note under [section 2261 of this title](./chapter-154-special-habeas-corpus-procedures-in-capital-cases.md#section-2261).
+
 
 <a id="section-2264"></a>
 ## § 2264. Scope of Federal review; district court adjudications
@@ -85,6 +95,11 @@ Pub. L. 104–132, title I, § 107(c), Apr. 24, 1996, 110 Stat. 1226, provided t
 (3) based on a factual predicate that could not have been discovered through the exercise of due diligence in time to present the claim for State or Federal post-conviction review.
 
 **(b)** Following review subject to subsections (a), (d), and (e) of section 2254, the court shall rule on the claims properly before it.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c) of Pub. L. 104–132, set out as a note under [section 2261 of this title](./chapter-154-special-habeas-corpus-procedures-in-capital-cases.md#section-2261).
 
 
 <a id="section-2265"></a>
@@ -213,3 +228,6 @@ Section applicable to cases pending on or after Mar. 9, 2006, with special rule 
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–177 applicable to cases pending on or after Mar. 9, 2006, with special rule for certain cases pending on that date, see section 507(d) of Pub. L. 109–177, set out as a note under [section 2251 of this title](./chapter-153-habeas-corpus.md#section-2251).
+
+#### Effective Date
+Section applicable to cases pending on or after Apr. 24, 1996, see section 107(c) of Pub. L. 104–132, set out as a note under [section 2261 of this title](./chapter-154-special-habeas-corpus-procedures-in-capital-cases.md#section-2261).

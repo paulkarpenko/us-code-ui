@@ -18,6 +18,9 @@ There is established a board to be known as the Congressional Award Board (herei
 
 Pub. L. 106–533, § 1(b)(3)(B), made technical amendment to reference in original act which appears in text as reference to [section 802 of this title](./chapter-019-congressional-award-program.md#section-802).
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–268, § 1, Oct. 11, 2018, 132 Stat. 3762, provided that: “This Act [amending [section 808 of this title](./chapter-019-congressional-award-program.md#section-808) and enacting provisions set out as a note under [section 808 of this title](./chapter-019-congressional-award-program.md#section-808)] may be cited as the ‘Congressional Award Program Reauthorization Act of 2018’.”
+
 #### Short Title of 2013 Amendment
 Pub. L. 113–43, § 1, Oct. 4, 2013, 127 Stat. 554, provided that: “This Act [amending [section 808 of this title](./chapter-019-congressional-award-program.md#section-808) and enacting provisions set out as a note under [section 808 of this title](./chapter-019-congressional-award-program.md#section-808)] may be cited as the ‘Congressional Award Program Reauthorization Act of 2013’.”
 
@@ -474,11 +477,13 @@ Amendment by Pub. L. 113–188 effective Oct. 1, 2014, see section 902(c)(3) of 
 <a id="section-808"></a>
 ## § 808. Termination
 
-The Board shall terminate October 1, 2018.
+The Board shall terminate October 1, 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Pub. L. 115–268 substituted “October 1, 2023” for “October 1, 2018”.
+
 2013—Pub. L. 113–43 substituted “October 1, 2018” for “October 1, 2013”.
 
 2010—Pub. L. 111–200 substituted “October 1, 2013” for “October 1, 2009”.
@@ -496,6 +501,9 @@ The Board shall terminate October 1, 2018.
 1988—Pub. L. 100–674 amended section generally. Prior to amendment, section read as follows: “The Board shall terminate on November 16, 1988. Upon termination of the Board, the Board shall take such actions as may be required to provide for the dissolution of any corporation established by the Board under [section 806(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section806/g&num=0&edition=prelim). The Board shall set forth, in its bylaws, the procedures for dissolution to be followed by the Board.”
 
 1985—Pub. L. 99–161 substituted “on November 16, 1988” for “six years after November 16, 1979”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–268, § 2(b), Oct. 11, 2018, 132 Stat. 3762, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2018.”
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–43, § 3, Oct. 4, 2013, 127 Stat. 554, provided that: “This Act [amending this section and enacting provisions set out as a note under [section 801 of this title](./chapter-019-congressional-award-program.md#section-801)] shall take effect as of October 1, 2013.”

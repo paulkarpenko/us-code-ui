@@ -85,6 +85,9 @@ As used in this chapter:
 #### References in Text
 Section 303 of the Consumer Credit Protection Act, referred to in par. (9), is classified to [section 1673 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1673&num=0&edition=prelim), Commerce and Trade.
 
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3003"></a>
 ## § 3003. Rules of construction
@@ -145,6 +148,9 @@ Section 303 of the Consumer Credit Protection Act, referred to in par. (9), is c
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsecs. (c)(8)(A) and (f), are set out in the Appendix to this title.
 
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3004"></a>
 ## § 3004. Service of process; enforcement; notice
@@ -167,6 +173,9 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(8)(A) and (f),
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
 
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3005"></a>
 ## § 3005. Application of chapter to judgments
@@ -178,11 +187,19 @@ This chapter shall not apply with respect to a judgment on a debt if such judgme
 #### References in Text
 For effective date of this chapter, referred to in text, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3006"></a>
 ## § 3006. Affidavit requirements
 
 Any affidavit required of the United States by this chapter may be made on information and belief, if reliable and reasonably necessary, establishing with particularity, to the court’s satisfaction, facts supporting the claim of the United States.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3007"></a>
@@ -192,6 +209,11 @@ Any affidavit required of the United States by this chapter may be made on infor
 **(b) Deposit of Sale Proceeds.—** Within 5 days after such sale, the proceeds shall be deposited with the clerk of the court, accompanied by a statement in writing and signed by the United States marshal, to be filed in the action or proceeding, stating the time and place of sale, the name of the purchaser, the amount received, and an itemized account of expenses.
 
 **(c) Presumption.—** For purposes of liability on the part of the United States, there shall be a presumption that the price paid at a sale under subsection (a) is the fair market value of the property or portion.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3008"></a>
@@ -204,11 +226,19 @@ A district court of the United States may assign its duties in proceedings under
 #### Change of Name
 “United States magistrate judges” substituted for “United States magistrates” in catchline and “United States magistrate judge” substituted for “United States magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of this title](./chapter-043-united-states-magistrate-judges.md#section-631).
 
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3009"></a>
 ## § 3009. United States marshals’ authority to designate keeper
 
 Whenever a United States marshal is authorized to seize property pursuant to this chapter, the United States marshal may designate another person or Federal agency to hold for safekeeping such property seized.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3010"></a>
@@ -228,6 +258,9 @@ Sections 401(a), 403(a), and 409 of the Internal Revenue Code of 1986, referred 
 
 Section 205 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(2), is classified to [section 1055 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1055&num=0&edition=prelim), Labor.
 
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3011"></a>
 ## § 3011. Assessment of surcharge on a debt
@@ -239,17 +272,32 @@ Section 205 of the Employee Retirement Income Security Act of 1974, referred to 
 
 (2) the law pursuant to which the action on the claim is based provides any other amount to cover such costs.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3012"></a>
 ## § 3012. Joinder of additional defendant
 
 The United States or the debtor may join as an additional defendant in an action or proceeding under this chapter any person reasonably believed to owe money (including money owed on account of a requirement to provide goods or services pursuant to a loan or loan guarantee extended under Federal law) to the debtor arising out of the transaction or occurrence giving rise to a debt.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3013"></a>
 ## § 3013. Modification or protective order; supervision of enforcement
 
 The court may at any time on its own initiative or the motion of any interested person, and after such notice as it may require, make an order denying, limiting, conditioning, regulating, extending, or modifying the use of any enforcement procedure under this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3014"></a>
@@ -274,6 +322,11 @@ The court may at any time on its own initiative or the motion of any interested 
 
 **(c) Debtors in Joint Cases.—** Subject to the limitation in subsection (a), this section shall apply separately with respect to each debtor in a joint case.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3015"></a>
 ## § 3015. Discovery as to debtor’s financial condition
@@ -285,6 +338,9 @@ The court may at any time on its own initiative or the motion of any interested 
 
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3101"></a>
@@ -344,6 +400,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
   (D) the inadequacy of alternative remedies (if any) to protect the interests of the United States.
 
 **(e) Issuance of Writ.—** On the court’s determination that the requirements of subsections (a), (b), and (c) have been met, the court shall issue all process sufficient to put into effect the prejudgment remedy sought.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3102"></a>
@@ -447,6 +508,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 (3) **Restoration of property and exoneration of replevin bond.—** — If the attachment is vacated or if the judgment on the claim for the debt is for the person against whom the writ attachment is issued, the court shall order the property, or proceeds of perishable property sold under section 3007, restored to the debtor and shall exonerate any replevin bond.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3103"></a>
 ## § 3103. Receivership
@@ -479,6 +545,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 (3) At the termination of a receivership, the receiver shall file a final accounting of the receipts and disbursements and apply for compensation setting forth the amount sought and the services rendered by the receiver.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3104"></a>
 ## § 3104. Garnishment
@@ -503,6 +574,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 (1) property securing the debt; and
 
 (2) property attached or in receivership, or income sequestered, under this subchapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3105"></a>
@@ -586,6 +662,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 (2) **Restoration of income.—** — If the sequestration is vacated or if the judgment on the claim for the debt is for the person against whom the writ of sequestration is issued, the court shall order the income restored to the debtor.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3201"></a>
 ## § 3201. Judgment liens
@@ -618,6 +699,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 #### References in Text
 Section 6323(f) of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to [section 6323(f) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6323/f&num=0&edition=prelim), Internal Revenue Code.
 
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3202"></a>
 ## § 3202. Enforcement of judgments
@@ -646,6 +730,9 @@ Section 6323(f) of the Internal Revenue Code of 1986, referred to in subsec. (a)
 
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3203"></a>
@@ -795,6 +882,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 (2) **Further levy if execution not satisfied.—** — If the proceeds of the execution sale of the property levied on are insufficient to satisfy the execution, the United States marshal shall proceed on the same writ of execution to levy other property of the judgment debtor.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3204"></a>
 ## § 3204. Installment payment order
@@ -812,6 +904,11 @@ then upon motion of the United States and notice to the judgment debtor, the cou
 (1) An order may not be issued under subsection (a), and if so issued shall have no force or effect, against a judgment debtor with respect to whom there is in effect a writ of garnishment of earnings issued under this chapter and based on the same debt.
 
 (2) An order may not be issued under subsection (a) with respect to any earnings of the debtor except nonexempt disposable earnings.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3205"></a>
@@ -897,11 +994,21 @@ then upon motion of the United States and notice to the judgment debtor, the cou
 
   (C) satisfaction of the debt with respect to which the writ is issued.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3206"></a>
 ## § 3206. Discharge
 
 A person who pursuant to an execution or order issued under this chapter by a court pays or delivers to the United States, a United States marshal, or a receiver, money or other personal property in which a judgment debtor has or will have an interest, or so pays a debt such person owes the judgment debtor, is discharged from such debt to the judgment debtor to the extent of the payment or delivery.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3301"></a>
@@ -989,6 +1096,11 @@ As used in this subchapter:
 
 (7) 55 So in original. Probably should be “(9)”. “Valid lien” means a lien that is effective against the holder of a judicial lien subsequently obtained in legal or equitable proceeding.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3302"></a>
 ## § 3302. Insolvency
@@ -1006,6 +1118,11 @@ As used in this subchapter:
 
 **(e) Debts.—** For purposes of this section, debts do not include an obligation to the extent such obligation is secured by a valid lien on property of the debtor not included as an asset.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3303"></a>
 ## § 3303. Value for transfer or obligation
@@ -1014,6 +1131,11 @@ As used in this subchapter:
 **(b) Reasonably Equivalent Value.—** For the purposes of sections 3304 and 3307, a person gives a reasonably equivalent value if the person acquires an interest of the debtor in an asset pursuant to a regularly conducted, noncollusive foreclosure sale or execution of a power of sale for the acquisition or disposition of such interest upon default under a mortgage, deed of trust, or security agreement.
 
 **(c) Present Value.—** A transfer is made for present value if the exchange between the debtor and the transferee is intended by them to be contemporaneous and is in fact substantially contemporaneous.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3304"></a>
@@ -1068,6 +1190,11 @@ As used in this subchapter:
 
   (K) the debtor transferred the essential assets of the business to a lienor who transferred the assets to an insider of the debtor.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3305"></a>
 ## § 3305. When transfer is made or obligation is incurred
@@ -1092,6 +1219,11 @@ For the purposes of this subchapter:
 
   (B) if evidenced by a writing executed by the obligor, when such writing is delivered to or for the benefit of the obligee.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3306"></a>
 ## § 3306. Remedies of the United States
@@ -1115,6 +1247,9 @@ For the purposes of this subchapter:
 
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
 
 
 <a id="section-3307"></a>
@@ -1151,8 +1286,18 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 (3) if made pursuant to a good-faith effort to rehabilitate the debtor and the transfer secured both present value given for that purpose and an antecedent debt of the debtor.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).
+
 
 <a id="section-3308"></a>
 ## § 3308. Supplementary provision
 
 Except as provided in this subchapter, the principles of law and equity, including the law merchant and the law relating to principal and agent, estoppel, laches, fraud, misrepresentation, duress, coercion, mistake, insolvency, or other validating or invalidating cause shall apply to actions and proceedings under this subchapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under [section 3001 of this title](./chapter-176-federal-debt-collection-procedure.md#section-3001).

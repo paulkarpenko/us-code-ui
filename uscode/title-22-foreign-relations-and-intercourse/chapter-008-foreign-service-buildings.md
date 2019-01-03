@@ -486,7 +486,7 @@ Section, act May 7, 1926, ch. 250, § 12, as added Pub. L. 105–277, div. G, su
 
 <a id="section-304"></a>
 ## § 304. Annual report on embassy construction costs
-**(a) In general** Not later than 180 days after December 16, 2016, and annually thereafter, the Secretary shall submit to the appropriate congressional committees a comprehensive report regarding all ongoing embassy construction projects and major embassy security upgrade projects.
+**(a) In general** Not later than 180 days after December 16, 2016, and annually thereafter, the Secretary shall submit to the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives a comprehensive report regarding all ongoing embassy construction projects and major embassy security upgrade projects.
 
 **(b) Contents** Each report required under subsection (a) shall include the following with respect to each ongoing embassy construction projects and major embassy security upgrade projects:
 
@@ -512,6 +512,9 @@ Section, act May 7, 1926, ch. 250, § 12, as added Pub. L. 105–277, div. G, su
 
 #### Codification
 Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–94 inserted “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”.
 
 #### Definitions
 For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).

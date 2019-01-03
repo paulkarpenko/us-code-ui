@@ -138,12 +138,14 @@ Proc. July 13, 1917, 40 Stat. 1684, declared and proclaimed that branch establis
 
 (3) As used in this subdivision the term “United States” means the United States and any place subject to the jurisdiction thereof: Provided, however, That the foregoing shall not be construed as a limitation upon the power of the President, which is hereby conferred, to prescribe from time to time, definitions, not inconsistent with the purposes of this subdivision, for any or all of the terms used in this subdivision. As used in this subdivision the term “person” means an individual, partnership, association, or corporation.
 
-(4) The authority granted to the President by this section does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under [section 4604 of this title](./chapter-056-export-administration.md#section-4604), or under [section 4605 of this title](./chapter-056-export-administration.md#section-4605) to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18.
+(4) The authority granted to the President by this section does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 4604 11 See References in Text note below. of this title, or under section 4605 1 of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4301 of this title](./chapter-053-trading-with-the-enemy.md#section-4301) and Tables.
+
+Sections 4604 and 4605 of this title, referred to in subsec. (b)(4), were repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
 Words “, including the Philippine Islands, and the several courts of first instance of the Commonwealth of the Philippine Islands shall have jurisdiction in all cases, civil or criminal, arising under this subdivision in the Philippine Islands and concurrent jurisdiction with the district courts of the United States of all cases, civil or criminal, arising upon the high seas” following “to the jurisdiction thereof:” in subsec. (b)(3) were omitted upon the authority of 1946 Proc. No. 2695, which granted the Philippine Islands independence, and which was issued pursuant to [section 1394 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1394&num=0&edition=prelim), Foreign Relations and Intercourse. Proc. No. 2695 is set out as a note under [section 1394 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1394&num=0&edition=prelim).
@@ -159,7 +161,7 @@ Subsec. (b) was also formerly classified to [section 95a of Title 12](https://us
 
 1977—Subsec. (b)(1). Pub. L. 95–223, §§ 101(a), 102, substituted “During the time of war, the President may, through any agency that he may designate, and under such rules and regulations” for “During the time of war or during any other period of national emergency declared by the President, the President may, through any agency, that he may designate, or otherwise, and under such rules and regulations” in provisions preceding subpar. (A), and, in provisions following subpar. (B), struck out “; and the President may, in the manner hereinabove provided, take other and further measures not inconsistent herewith for the enforcement of this subdivision” after “control of such person”.
 
-Subsec. (b)(3). Pub. L. 95–22, § 103(b), struck out provisions that whoever willfully violated any of the provisions of this subdivision or of any license, order, rule, or regulation issued thereunder, could be fined not more than $10,000, or, if a natural person, could be imprisoned for not more than ten years, or both; and that any officer, director, or agent of any corporation who knowingly participated in that violation could be punished by a like fine, imprisonment, or both.
+Subsec. (b)(3). Pub. L. 95–223, § 103(b), struck out provisions that whoever willfully violated any of the provisions of this subdivision or of any license, order, rule, or regulation issued thereunder, could be fined not more than $10,000, or, if a natural person, could be imprisoned for not more than ten years, or both; and that any officer, director, or agent of any corporation who knowingly participated in that violation could be punished by a like fine, imprisonment, or both.
 
 1941—Subsec. (b). Act Dec. 18, 1941, considerably broadened the powers of the President to take, administer, control, use and liquidate foreign-owned property and added a flexibility of control which enabled the President and the agencies designated by him to cope with the problems surrounding alien property, its ownership or control, on the basis of the particular facts in each case.
 
@@ -389,21 +391,25 @@ Ex. Ord. No. 9747, July 3, 1946, 11 F.R. 7518, provided:
 The terms and provisions of Executive Order 9095 of March 11, 1942, as amended [formerly set out as a note under section 6 of the Appendix to Title 50, War and National Defense], and Executive Order No. 8389 of April 10, 1940, as amended [set out above], shall continue in force in the Philippines after July 4, 1946, and all powers and authority delegated by the said Executive Orders to the Alien Property Custodian and to the Secretary of the Treasury, respectively, shall after July 4, 1946, continue to be exercised in the Philippines by the said officers, respectively, as therein provided.
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
-Determination of President of the United States, No. 2016–11, Sept. 13, 2016, 81 F.R. 64047, provided:
+Determination of President of the United States, No. 2018–11, Sept. 10, 2018, 83 F.R. 46347, provided:
 
 Memorandum for the Secretary of State [and] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; [50 U.S.C. 4305](./chapter-053-trading-with-the-enemy.md#section-4305) note), and a previous determination on September 11, 2015 (80 FR 55503, September 16, 2015), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to terminate on September 14, 2016.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; [50 U.S.C. 4305](./chapter-053-trading-with-the-enemy.md#section-4305) note), and a previous determination on September 8, 2017 (82 FR 42927, September 13, 2017), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2018.
 
-I hereby determine that the continuation for 1 year of the exercise of those authorities with respect to Cuba is in the national interest of the United States.
+I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2017, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2019, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
-Barack Obama.
+Donald J. Trump.
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2017–11, Sept. 8, 2017, 82 F.R. 42927.
+
+Determination of President of the United States, No. 2016–11, Sept. 13, 2016, 81 F.R. 64047.
 
 Determination of President of the United States, No. 2015–11, Sept. 11, 2015, 80 F.R. 55503.
 

@@ -101,6 +101,9 @@ Amendment by Pub. L. 100–689 effective Jan. 1, 1989, see section 108(c) of Pub
 #### Effective Date of 1980 Amendment
 Pub. L. 96–466, title VIII, § 802(d)(1), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by section 401 [amending this section] shall take effect as of January 1, 1977.”
 
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -136,6 +139,9 @@ Subsecs. (c), (e). Pub. L. 101–237, § 423(b)(1)(A), (4)(A), substituted “Se
 Subsec. (f). Pub. L. 101–237, § 410, added subsec. (f).
 
 1986—Subsec. (a). Pub. L. 99–576 inserted “and before July 1, 1985,” and “before July 1, 1985” in first sentence.
+
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
 
 #### Enrollment in Program Before April 1, 1987
 For provisions for continued eligibility for enrollment in the program established by this chapter until Apr. 1, 1987, of individuals on active duty in the Armed Forces who were eligible therefor on June 30, 1985, and requiring notice of such continued eligibility to affected individuals, see section 309(c), (d) of Pub. L. 99–576, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
@@ -194,6 +200,9 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of P
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–502 effective Jan. 1, 1982, because new enrollments after Dec. 31, 1981, in the educational assistance program provided by this chapter, were authorized after application of provisions of section 408(a) of Pub. L. 94–502, see section 408(b) of Pub. L. 94–502, set out as a note under [section 3221 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3221).
 
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
+
 #### Refunds for Certain Service Academy Graduates
 Pub. L. 101–366, title II, § 207, Aug. 15, 1990, 104 Stat. 442, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, directed Secretary of Veterans Affairs to refund, on receipt before Jan. 1, 1992, of an application from an individual, not later than 60 days after receiving such application, the amount, if any, of the individual’s unused contributions to the VEAP Account; if the individual has received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the readjustment benefits account) a sum equal to the amount by which the amount of the educational assistance that the individual would have received under chapter 34 of this title for the pursuit of such program exceeds the amount of the educational assistance that the individual did receive under this chapter for the pursuit of such program; or if the individual has not received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the Department of Veterans Affairs Readjustment Benefits account) a sum equal to the amount of educational assistance that the individual would have received under chapter 34 of this title for the pursuit of a program of education if the individual had been entitled to assistance under such program during the period ending on Dec. 31, 1989; and to refund to the Secretary of Defense the unused contributions by such Secretary to the VEAP Account on behalf of such individual.
 
@@ -231,6 +240,9 @@ Subsec. (d). Pub. L. 101–237, § 423(b)(7), inserted “of Defense” after fi
 
 Subsec. (d). Pub. L. 98–160 inserted “of this title” after “section 1622(c)”.
 
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
+
 
 <a id="section-3224"></a>
 ## § 3224. Death of participant
@@ -258,6 +270,9 @@ If there is no such person living, such amount shall be paid to such participant
 #### Effective Date of 1980 Amendment
 Pub. L. 96–466, title VIII, § 802(d)(2), Oct. 17, 1980, 94 Stat. 2218, provided that: “The amendments made by sections 402 through 406 [amending this section and sections 1622, 1631, and 1641 [now 3222, 3231, and 3241] of this title] shall become effective on October 1, 1980.”
 
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
+
 
 <a id="section-3225"></a>
 ## § 3225. Discharge or release under conditions which would bar the use of benefits
@@ -270,6 +285,9 @@ If a participant in the program is discharged or released from active duty under
 1991—Pub. L. 102–83 renumbered [section 1625 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1625&num=0&edition=prelim) as this section.
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
 
 
 <a id="section-3231"></a>
@@ -410,6 +428,9 @@ Pub. L. 97–35, title XX, § 2006, Aug. 13, 1981, 95 Stat. 783, provided that: 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of Pub. L. 96–466, set out as a note under [section 3224 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3224).
 
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
+
 
 <a id="section-3232"></a>
 ## § 3232. Duration; limitations
@@ -482,6 +503,9 @@ Subsec. (a)(4). Pub. L. 101–237, § 420(a)(2)(A), added par. (4).
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–419 effective Mar. 1, 2001, and applicable with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date, see section 122(d) of Pub. L. 106–419, set out as a note under [section 3032 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3032).
+
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
 
 
 <a id="section-3233"></a>
@@ -624,6 +648,9 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise provide
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of Pub. L. 96–466, set out as a note under [section 3224 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3224).
 
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).
+
 #### Savings Provision
 Amendment by Pub. L. 102–586 not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under [section 16136 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16136&num=0&edition=prelim), Armed Forces.
 
@@ -655,3 +682,6 @@ Prior sections 3401 to 3405, which comprised chapter 59, were renumbered section
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing and inserted “of Defense” after “Secretary” in four places.
 
 1983—Pub. L. 98–160 inserted “of this title” after “section 1622(c)”.
+
+#### Effective Date
+Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as a note under [section 3201 of this title](./chapter-032-post-vietnam-era-veterans-educational-assistance.md#section-3201).

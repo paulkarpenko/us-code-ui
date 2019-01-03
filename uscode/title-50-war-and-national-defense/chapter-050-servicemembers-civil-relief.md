@@ -85,6 +85,9 @@ Section was formerly classified to section 502 of the former Appendix to this ti
 #### Prior Provisions
 Provisions similar to this section were contained in section 100 of act Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3913"></a>
 ## § 3913. Definitions
@@ -138,7 +141,7 @@ For the purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-[Section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim), referred to in par. (8), was redesignated [section 30102(a)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/7&num=0&edition=prelim) by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
+[Section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim), referred to in par. (8), was redesignated [section 30102(a)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/7&num=0&edition=prelim) by Pub. L. 114–94, div. B, title XXIV, § 24109(b)(2), Dec. 4, 2015, 129 Stat. 1706.
 
 #### Codification
 Section was formerly classified to section 511 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -148,6 +151,9 @@ A prior section 101 of act Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Pub. L
 
 #### Amendments
 2004—Par. (9). Pub. L. 108–454 added par. (9).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3914"></a>
@@ -172,6 +178,9 @@ Section was formerly classified to section 512 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 102 of act Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Pub. L. 102–12, § 9(2), Mar. 18, 1991, 105 Stat. 39, related to territorial application, jurisdiction of courts, and form of procedure, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3915"></a>
 ## § 3915. Protection of persons secondarily liable
@@ -195,6 +204,9 @@ Section was formerly classified to section 513 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 103 of acts Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Oct. 6, 1942, ch. 581, §§ 2, 3, 56 Stat. 769; Pub. L. 102–12, § 9(3), Mar. 18, 1991, 105 Stat. 39, related to protection of persons secondarily liable, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3916"></a>
 ## § 3916. Extension of protections to citizens serving with allied forces
@@ -209,6 +221,9 @@ Section was formerly classified to section 514 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 104 of act Oct. 17, 1940, ch. 888, art. I, as added Oct. 6, 1942, ch. 581, § 4, 56 Stat. 770, related to extension of benefits to citizens serving with forces of war allies, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3917"></a>
 ## § 3917. Notification of benefits
@@ -222,6 +237,9 @@ Section was formerly classified to section 515 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 105 of act Oct. 17, 1940, ch. 888, art. I, as added Oct. 6, 1942, ch. 581, § 4, 56 Stat. 770; amended Pub. L. 102–12, § 9(4), Mar. 18, 1991, 105 Stat. 39, related to notice of benefits to persons in and persons entering military service, prior to the general amendment of this Act by Pub. L. 108–189.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3918"></a>
@@ -271,6 +289,9 @@ Section was formerly classified to section 516 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 106 of act Oct. 17, 1940, ch. 888, art. I, as added Oct. 6, 1942, ch. 581, § 4, 56 Stat. 770; amended Pub. L. 102–12, § 9(5), Mar. 18, 1991, 105 Stat. 39, related to extension of benefits to persons ordered to report for induction or military service, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3920"></a>
 ## § 3920. Waiver of rights pursuant to written agreement
@@ -311,6 +332,9 @@ A prior section 107 of act Oct. 17, 1940, ch. 888, art. I, as added Oct. 6, 1942
 
 Subsecs. (c), (d). Pub. L. 108–454, § 702(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3931"></a>
 ## § 3931. Exercise of rights under chapter not to affect certain future financial transactions
@@ -343,6 +367,9 @@ Section was formerly classified to section 518 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 108 of act Oct. 17, 1940, ch. 888, art. I, as added Pub. L. 102–12, § 7, Mar. 18, 1991, 105 Stat. 38, related to the effect of certain future financial transactions on the exercise of rights, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3932"></a>
 ## § 3932. Legal representatives
@@ -358,6 +385,9 @@ A prior section 108 of act Oct. 17, 1940, ch. 888, art. I, as added Pub. L. 102�
 
 #### Codification
 Section was formerly classified to section 519 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3933"></a>
@@ -415,6 +445,9 @@ Provisions similar to this section were contained in section 200 of act Oct. 17,
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–181 inserted “, including any child custody proceeding,” after “proceeding”.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3934"></a>
 ## § 3934. Stay of proceedings when servicemember has notice
@@ -459,6 +492,9 @@ A prior section 202 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1181, relat
 
 2004—Subsec. (a). Pub. L. 108–454 inserted “plaintiff or” before “defendant” in introductory provisions.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 #### Stay of Judicial Proceedings
 Pub. L. 102–12, § 6, Mar. 18, 1991, 105 Stat. 37, provided that: “(a) Stay of Action or Proceeding.—In any judicial action or proceeding (other than a criminal proceeding) in which a member of the Armed Forces described in subsection (b) is involved (either as plaintiff or defendant), the court shall, upon application by such member (or some other person on the member’s behalf) at any stage before final judgment is entered, stay the action or proceeding until a date after June 30, 1991. “(b) Members Covered.—A member of the Armed Forces is covered by subsection (a) if at the time of application for the stay of a judicial action or proceeding the member—“(1) is on active duty; and “(2) is serving outside the State in which the court having jurisdiction over the action or proceeding is located. “(c) Definition.—For purposes of this section, the term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.”
 
@@ -481,6 +517,9 @@ Section was formerly classified to section 523 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 203 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1181, related to stay or vacation of execution of judgments and attachments, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3934 of this title](./chapter-050-servicemembers-civil-relief.md#section-3934).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3936"></a>
 ## § 3936. Stay or vacation of execution of judgments, attachments, and garnishments
@@ -500,6 +539,9 @@ Section was formerly classified to section 524 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 204 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1181, related to duration and term of stays and codefendants not in service, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3935 of this title](./chapter-050-servicemembers-civil-relief.md#section-3935).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3937"></a>
 ## § 3937. Duration and term of stays; codefendants not in service
@@ -516,6 +558,9 @@ Section was formerly classified to section 525 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 205 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1181; Oct. 6, 1942, ch. 581, § 5, 56 Stat. 770; Pub. L. 102–12, § 9(6), Mar. 18, 1991, 105 Stat. 39, related to statutes of limitations as affected by period of service, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3936 of this title](./chapter-050-servicemembers-civil-relief.md#section-3936).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3938"></a>
@@ -534,6 +579,9 @@ Section was formerly classified to section 526 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 206 of act Oct. 17, 1940, ch. 888, art. II, as added Oct. 6, 1942, ch. 581, § 6, 56 Stat. 771; amended Pub. L. 102–12, § 9(7), Mar. 18, 1991, 105 Stat. 39, related to maximum rate of interest, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3937 of this title](./chapter-050-servicemembers-civil-relief.md#section-3937).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3938a"></a>
 ## § 3938a. Maximum rate of interest on debts incurred before military service
@@ -551,7 +599,23 @@ A prior section 206 of act Oct. 17, 1940, ch. 888, art. II, as added Oct. 6, 194
 
 **(b) Implementation of limitation**
 
-(1) **Written notice to creditor** — In order for an obligation or liability of a servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember’s termination or release from military service.
+(1) **Proof of military service**
+
+  (A) *In general* — Not later than 180 days after the date of a servicemember’s termination or release from military service, in order for an obligation or liability of the servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of—
+
+    (i) the military orders calling the servicemember to military service and any orders further extending military service; or
+
+    (ii) any other appropriate indicator of military service, including a certified letter from a commanding officer.
+
+  (B) *Independent verification by creditor*
+
+    (i) *In general* — A creditor may use, in lieu of notice and documentation under subparagraph (A), information retrieved from the Defense Manpower Data Center through the creditor’s normal business reviews of such Center for purposes of obtaining information indicating that the servicemember is on active duty.
+
+    (ii) *Safe harbor* — A creditor that uses the information retrieved from the Defense Manpower Data Center under clause (i) with respect to a servicemember has not failed to treat the debt of the servicemember in accordance with subsection (a) if—
+
+      (I) such information indicates that, on the date the creditor retrieves such information, the servicemember is not on active duty; and
+
+      (II) the creditor has not, by the end of the 180-day period under subparagraph (A), received the written notice and documentation required under that subparagraph with respect to the servicemember.
 
 (2) **Limitation effective as of date of order to active duty** — Upon receipt of written notice and a copy of orders calling a servicemember to military service, the creditor shall treat the debt in accordance with subsection (a), effective as of the date on which the servicemember is called to military service.
 
@@ -574,6 +638,8 @@ Section was formerly classified to section 527 of the former Appendix to this ti
 A prior section 207 of act Oct. 17, 1940, ch. 888, art. II, as added Oct. 21, 1942, ch. 619, title V, § 507(b)(2)(B), 56 Stat. 964, related to limitations prescribed by internal revenue laws as affected by period of service, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3936 of this title](./chapter-050-servicemembers-civil-relief.md#section-3936).
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232 amended par. (1) generally. Prior to amendment, text read as follows: “In order for an obligation or liability of a servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember’s termination or release from military service.”
+
 2010—Subsec. (f). Pub. L. 111–275 struck out subsec. (f). Text read as follows: “The penalties provided under subsection (e) are in addition to and do not preclude any other remedy available under law to a person claiming relief under this section, including any award for consequential or punitive damages.”
 
 2008—Subsec. (a)(1). Pub. L. 110–289, § 2203(b)(1), substituted “in excess of 6 percent—” for “in excess of 6 percent per year during the period of military service.” and added subpars. (A) and (B).
@@ -581,6 +647,9 @@ A prior section 207 of act Oct. 17, 1940, ch. 888, art. II, as added Oct. 21, 19
 Subsec. (d). Pub. L. 110–289, § 2203(b)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “As used in this section, the term ‘interest’ includes service charges, renewal charges, fees, or any other charges (except bona fide insurance) with respect to an obligation or liability.”
 
 Subsecs. (e), (f). Pub. L. 110–389 added subsecs. (e) and (f).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3951"></a>
@@ -680,6 +749,9 @@ Provisions similar to this section were contained in section 300 of act Oct. 17,
 #### Amendments
 2010—Subsec. (c). Pub. L. 111–275 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to penalties.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3954"></a>
 ## § 3954. Protection under installment contracts for purchase or lease
@@ -715,6 +787,9 @@ A prior section 302 of act Oct. 17, 1940, ch. 888, art. III, 54 Stat. 1182; Oct.
 #### Amendments
 2010—Subsec. (b). Pub. L. 111–275 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to penalties.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3955"></a>
 ## § 3955. Mortgages and trust deeds
@@ -740,9 +815,6 @@ A prior section 302 of act Oct. 17, 1940, ch. 888, art. III, 54 Stat. 1182; Oct.
 
 ### Statutory Notes
 
-#### Amendment of Subsections (b) and (c)
-For termination of amendment and revival of prior provisions by section 710(d)(1), (3) of Pub. L. 112–154, see Effective and Termination Dates of 2012 Amendment; Revival notes below.
-
 #### Codification
 Section was formerly classified to section 533 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
@@ -752,11 +824,11 @@ A prior section 303 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 19
 Another prior section 303 of act Oct. 17, 1940, ch. 888, art. III, 54 Stat. 1183, related to stay of action to resume possession of motor vehicle, tractor, or their accessories, encumbered by purchase money mortgage, conditional sales contract, etc., prior to repeal by act Oct. 6, 1942, ch. 581, § 11, 56 Stat. 772.
 
 #### Amendments
-2016—Subsecs. (b), (c). Pub. L. 114–142, § 2(2), amended Pub. L. 112–154, § 710(d)(3). See 2012 Amendment note below.
+2018—Subsecs. (b), (c). Pub. L. 115–174 repealed Pub. L. 112–154, § 710(d)(1), (3). See 2012 Amendment notes below.
 
-2012—Subsecs. (b), (c). Pub. L. 112–154, § 710(d)(3), as amended, revived the provisions of subsecs. (b) and (c) as in effect on July 29, 2008. Effective Jan. 1, 2016, “within 90 days” substituted for “within one year” in introductory provisions. Amendment by Pub. L. 114–142, § 2(2), which was enacted Mar. 31, 2016, substituted Jan. 1, 2018, for Jan. 1, 2016, as the effective date of the revival. See Effective and Termination Dates of 2012 Amendment; Revival note below.
+2012—Subsecs. (b), (c). Pub. L. 112–154, § 710(d)(3), as amended, which would have revived the provisions of subsecs. (b) and (c) as in effect on July 29, 2008, was repealed by Pub. L. 115–174, § 313.
 
-Pub. L. 112–154, § 710(a), (b), (d)(1), as amended, temporarily substituted “within one year” for “within 9 months” in introductory provisions. See Effective and Termination Dates of 2012 Amendment; Revival note below.
+Pub. L. 112–154, § 710(a), (b), substituted “within one year” for “within 9 months” in introductory provisions.
 
 2010—Subsec. (d). Pub. L. 111–275 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to penalties.
 
@@ -765,12 +837,15 @@ Pub. L. 112–154, § 710(a), (b), (d)(1), as amended, temporarily substituted �
 #### Effective and Termination Dates of 2012 Amendment; Revival
 Pub. L. 112–154, title VII, § 710(c), Aug. 6, 2012, 126 Stat. 1208, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012].”
 
-Pub. L. 112–154, title VII, § 710(d)(1), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, § 2(1), Dec. 18, 2014, 128 Stat. 3093; Pub. L. 114–142, § 2(1), Mar. 31, 2016, 130 Stat. 326, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall expire on December 31, 2017.”
+Pub. L. 112–154, title VII, § 710(d)(1), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, § 2(1), Dec. 18, 2014, 128 Stat. 3093; Pub. L. 114–142, § 2(1), Mar. 31, 2016, 130 Stat. 326; Pub. L. 115–91, div. A, title V, § 557(1), Dec. 12, 2017, 131 Stat. 1405, which provided that the amendments made by subsecs. (a) and (b) of section 710 of Pub. L. 112–154 (amending this section) would expire on Dec. 31, 2019, was repealed by Pub. L. 115–174, title III, § 313, May 24, 2018, 132 Stat. 1356.
 
-Pub. L. 112–154, title VII, § 710(d)(3), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, § 2(2), Dec. 18, 2014, 128 Stat. 3093; Pub. L. 114–142, § 2(2), Mar. 31, 2016, 130 Stat. 326, provided that: “Effective January 1, 2018, the provisions of subsections (b) and (c) of section 303 of the Servicemembers Civil Relief Act (50 U.S.C. App. 533) [now [50 U.S.C. 3953](./chapter-050-servicemembers-civil-relief.md#section-3953)], as in effect on July 29, 2008, are hereby revived.”
+Pub. L. 112–154, title VII, § 710(d)(3), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, § 2(2), Dec. 18, 2014, 128 Stat. 3093; Pub. L. 114–142, § 2(2), Mar. 31, 2016, 130 Stat. 326; Pub. L. 115–91, div. A, title V, § 557(2), Dec. 12, 2017, 131 Stat. 1405, which provided that, effective Jan. 1, 2020, the provisions of subsecs. (b) and (c) of this section, as in effect on July 29, 2008, would be revived, was repealed by Pub. L. 115–174, title III, § 313, May 24, 2018, 132 Stat. 1356.
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–289, div. B, title II, § 2203(c), July 30, 2008, 122 Stat. 2850, as amended by Pub. L. 111–346, § 2, Dec. 29, 2010, 124 Stat. 3622; Pub. L. 112–154, title VII, § 710(d)(2), Aug. 6, 2012, 126 Stat. 1208, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [July 30, 2008].”
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3956"></a>
@@ -787,18 +862,23 @@ Section was formerly classified to section 534 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 304 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 1942, ch. 581, § 12, 56 Stat. 772; amended Pub. L. 102–12, § 9(9), Mar. 18, 1991, 105 Stat. 40, related to termination of leases by lessees, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3955 of this title](./chapter-050-servicemembers-civil-relief.md#section-3955).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3957"></a>
 ## § 3957. Termination of residential or motor vehicle leases
-**(a) Termination by lessee**
+**(a) Termination**
 
-(1) **In general** — The lessee on a lease described in subsection (b) may, at the lessee’s option, terminate the lease at any time after—
+(1) **Termination by lessee** — The lessee on a lease described in subsection (b) may, at the lessee’s option, terminate the lease at any time after—
 
   (A) the lessee’s entry into military service; or
 
   (B) the date of the lessee’s military orders described in paragraph (1)(B) or (2)(B) of subsection (b), as the case may be.
 
 (2) **Joint leases** — A lessee’s termination of a lease pursuant to this subsection shall terminate any obligation a dependent of the lessee may have under the lease.
+
+(3) **Death of lessee** — The spouse of the lessee on a lease described in subsection (b)(1) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).
 
 **(b) Covered leases** This section applies to the following leases:
 
@@ -871,6 +951,12 @@ Section was formerly classified to section 535 of the former Appendix to this ti
 A prior section 305 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 1942, ch. 581, § 12, 56 Stat. 773; amended Pub. L. 102–12, § 9(9), Mar. 18, 1991, 105 Stat. 40, related to protection of assignor of life insurance policy, enforcement of storage liens, and penalties, prior to the general amendment of this Act by Pub. L. 108–189. See sections 3957 and 3958 of this title.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–407, § 301(1), struck out “by lessee” after “Termination” in heading.
+
+Subsec. (a)(1). Pub. L. 115–407, § 301(2), substituted “Termination by lessee” for “In general” in heading.
+
+Subsec. (a)(3). Pub. L. 115–407, § 301(3), added par. (3).
+
 2010—Subsec. (e). Pub. L. 111–275, § 301, amended subsec. (e) generally. Prior to amendment, text read as follows: “Rents or lease amounts unpaid for the period preceding the effective date of the lease termination shall be paid on a prorated basis. In the case of the lease of a motor vehicle, the lessor may not impose an early termination charge, but any taxes, summonses, and title and registration fees and any other obligation and liability of the lessee in accordance with the terms of the lease, including reasonable charges to the lessee for excess wear, use and mileage, that are due and unpaid at the time of termination of the lease shall be paid by the lessee.”
 
 Subsec. (h). Pub. L. 111–275, § 303(b)(5), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to penalties.
@@ -885,9 +971,12 @@ Subsec. (b)(2)(B)(ii). Pub. L. 108–454, § 704(c), inserted “, or as an indi
 
 Subsec. (i). Pub. L. 108–454, § 704(b)(2), added subsec. (i).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3958"></a>
-## § 3958. Termination of telephone service contracts
+## § 3958. Termination of telephone, multichannel video programming, and internet access service contracts
 **(a) Termination by servicemember**
 
 (1) **Termination** — A servicemember may terminate a contract described in subsection (b) at any time after the date the servicemember receives military orders to relocate for a period of not less than 90 days to a location that does not support the contract.
@@ -896,25 +985,35 @@ Subsec. (i). Pub. L. 108–454, § 704(b)(2), added subsec. (i).
 
 (3) **Manner of termination** — Termination of a contract under paragraph (1) shall be made by delivery of a written or electronic notice of such termination and a copy of the servicemember’s military orders to the service provider, delivered in accordance with industry standards for notification of terminations, together with the date on which the service is to be terminated.
 
-**(b) Covered contracts** A contract described in this subsection is a contract for cellular telephone service or telephone exchange service entered into by the servicemember before receiving the military orders referred to in subsection (a)(1).
+**(b) Covered contracts** A contract described in this subsection is a contract for commercial mobile service, telephone exchange service, internet access service, or multichannel video programming service entered into by the servicemember before receiving the military orders referred to in subsection (a)(1).
 
-**(c) Retention of telephone number** In the case of a contract terminated under subsection (a) by a servicemember whose period of relocation is for a period of three years or less, the service provider under the contract shall, notwithstanding any other provision of law, allow the servicemember to keep the telephone number the servicemember has under the contract if the servicemember re-subscribes to the service during the 90-day period beginning on the last day of such period of relocation.
+**(c) Retention of telephone number** In the case of a contract for commercial mobile service or telephone exchange service terminated under subsection (a) by a servicemember whose period of relocation is for a period of three years or less, the service provider under the contract shall, notwithstanding any other provision of law, allow the servicemember to keep the telephone number the servicemember has under the contract if the servicemember re-subscribes to the service during the 90-day period beginning on the last day of such period of relocation.
 
-**(d) Family plans** In the case of a contract for cellular telephone service entered into by any individual in which a servicemember is a designated beneficiary of the contract, the individual who entered into the contract may terminate the contract—
+**(d) Family plans** In the case of a contract for commercial mobile service entered into by any individual in which a servicemember is a designated beneficiary of the contract, the individual who entered into the contract may terminate the contract—
 
 (1) with respect to the servicemember if the servicemember is eligible to terminate contracts pursuant to subsection (a); and
 
 (2) with respect to all of the designated beneficiaries of such contract if all such beneficiaries accompany the servicemember during the servicemember’s period of relocation.
 
-**(e) Other obligations and liabilities** For any contract terminated under this section, the service provider under the contract may not impose an early termination charge, but any tax or any other obligation or liability of the servicemember that, in accordance with the terms of the contract, is due and unpaid or unperformed at the time of termination of the contract shall be paid or performed by the servicemember. If the servicemember re-subscribes to the service provided under a covered contract during the 90-day period beginning on the last day of the servicemember’s period of relocation, the service provider may not impose a charge for reinstating service, other than the usual and customary charges for the installation or acquisition of customer equipment imposed on any other subscriber.
+**(e) Other obligations and liabilities**
+
+(1) **In general** — For any contract terminated under this section, the service provider under the contract may not impose an early termination charge, but any tax or any other obligation or liability of the servicemember that, in accordance with the terms of the contract, is due and unpaid or unperformed at the time of termination of the contract shall be paid or performed by the servicemember.
+
+(2) **Reinstatement of service** — If the servicemember re-subscribes to the service provided under a covered contract during the 90-day period beginning on the last day of the servicemember’s period of relocation, the service provider may not impose a charge for reinstating service, other than the usual and customary charges for the installation or acquisition of customer equipment imposed on any other subscriber.
+
+(3) **Return of provider-owned equipment** — If a servicemember terminates a contract under subsection (a), the servicemember shall return any provider-owned consumer premises equipment to the service provider not later than 10 days after the date on which service is disconnected.
 
 **(f) Return of advance payments** Not later than 60 days after the effective date of the termination of a contract under this section, the service provider under the contract shall refund to the servicemember any fee or other amount to the extent paid for a period extending until after such date, except for the remainder of the monthly or similar billing period in which the termination occurs.
 
 **(g) Definitions** For purposes of this section:
 
-(1) The term “cellular telephone service” means commercial mobile service, as that term is defined in [section 332(d) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim).
+(1) The term “commercial mobile service” has the meaning given that term in [section 332(d) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim).
 
-(2) The term “telephone exchange service” has the meaning given that term under [section 153 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section153&num=0&edition=prelim).
+(2) The term “multichannel video programming service” means a subscription video service offered by a multichannel video programming distributor, as that term is defined in [section 522 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section522&num=0&edition=prelim), over a system the distributor owns or controls.
+
+(3) The term “provider-owned consumer premises equipment” means any equipment that a provider of internet access service or multichannel video programming service rents or loans to a customer during the provision of that service, including gateways, routers, cable modems, voice-capable modems, CableCARDs, converters, digital adapters, remote controls, and any other equipment provided.
+
+(4) The term “telephone exchange service” has the meaning given that term under [section 153 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section153&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -922,6 +1021,18 @@ Subsec. (i). Pub. L. 108–454, § 704(b)(2), added subsec. (i).
 Section was formerly classified to section 535a of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Pub. L. 115–407, § 304(a)(1), inserted “, multichannel video programming, and internet access” after “telephone” in section catchline.
+
+Subsec. (b). Pub. L. 115–407, § 304(a)(2), substituted “commercial mobile service, telephone exchange service, internet access service, or multichannel video programming service” for “cellular telephone service or telephone exchange service”.
+
+Subsec. (c). Pub. L. 115–407, § 304(a)(3), inserted “for commercial mobile service or telephone exchange service” before “terminated”.
+
+Subsec. (d). Pub. L. 115–407, § 304(a)(4), substituted “commercial mobile service” for “cellular telephone service” in introductory provisions.
+
+Subsec. (e). Pub. L. 115–407, § 304(a)(5), designated first sentence of existing provisions as par. (1) and second sentence of existing provisions as par. (2), inserted headings, and added par. (3).
+
+Subsec. (g). Pub. L. 115–407, § 304(a)(6), added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “The term ‘cellular telephone service’ means commercial mobile service, as that term is defined in [section 332(d) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim).”
+
 2010—Pub. L. 111–275 amended section generally, substituting provisions relating to termination of telephone service contracts for provisions relating to termination or suspension of contracts for cellular telephone service.
 
 
@@ -954,6 +1065,9 @@ A prior section 306 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 19
 #### Amendments
 2010—Subsec. (e). Pub. L. 111–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to penalties.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3971"></a>
 ## § 3971. Enforcement of storage liens
@@ -980,6 +1094,9 @@ Section was formerly classified to section 537 of the former Appendix to this ti
 #### Amendments
 2010—Subsec. (c). Pub. L. 111–275 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to penalties.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3972"></a>
 ## § 3972. Extension of protections to dependents
@@ -990,6 +1107,9 @@ Upon application to a court, a dependent of a servicemember is entitled to the p
 
 #### Codification
 Section was formerly classified to section 538 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3973"></a>
@@ -1023,6 +1143,9 @@ A prior section 401 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1183; Oct. 
 
 Provisions similar to this section were contained in section 400 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1183; Oct. 6, 1942, ch. 581, § 13, 56 Stat. 773; July 11, 1956, ch. 570, § 1, 70 Stat. 528; Pub. L. 102–12, § 9(11), Mar. 18, 1991, 105 Stat. 40, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3974"></a>
 ## § 3974. Insurance rights and protections
@@ -1046,6 +1169,9 @@ Section was formerly classified to section 542 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 402 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1183; Oct. 6, 1942, ch. 581, § 13, 56 Stat. 774; Pub. L. 102–12, § 9(13), Mar. 18, 1991, 105 Stat. 40, related to form of application, reports to Secretary of Veterans Affairs by insurer, and deeming of policy modified upon application for protection, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3973 of this title](./chapter-050-servicemembers-civil-relief.md#section-3973).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3975"></a>
@@ -1072,6 +1198,9 @@ Section was formerly classified to section 543 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 403 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1184; Oct. 6, 1942, ch. 581, § 13, 56 Stat. 775; Pub. L. 102–12, § 9(14), Mar. 18, 1991, 105 Stat. 40, related to determination of policies entitled to protection, notice to parties, and lapse of policies for nonpayment of premiums, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3974 of this title](./chapter-050-servicemembers-civil-relief.md#section-3974).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3976"></a>
 ## § 3976. Policies entitled to protection and lapse of policies
@@ -1089,6 +1218,9 @@ Section was formerly classified to section 544 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 404 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1184; Oct. 6, 1942, ch. 581, § 13, 56 Stat. 775; Pub. L. 102–12, § 9(15), Mar. 18, 1991, 105 Stat. 40, related to restrictions on payment of dividends and insured’s right to change beneficiary, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3975 of this title](./chapter-050-servicemembers-civil-relief.md#section-3975).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3977"></a>
 ## § 3977. Policy restrictions
@@ -1103,6 +1235,9 @@ Section was formerly classified to section 545 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 405 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1184; Oct. 6, 1942, ch. 581, § 13, 56 Stat. 775; Pub. L. 102–12, § 9(16), Mar. 18, 1991, 105 Stat. 40, related to deduction of unpaid premiums upon settlement of policies maturing during protection, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3976 of this title](./chapter-050-servicemembers-civil-relief.md#section-3976).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3978"></a>
@@ -1120,6 +1255,9 @@ Section was formerly classified to section 546 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 406 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1184; Oct. 6, 1942, ch. 581, § 13, 56 Stat. 775; Apr. 3, 1948, ch. 170, § 6, 62 Stat. 160, related to guaranty of premiums and interest by United States, settlement of amounts due upon expiration of protection, subrogation of United States, and crediting debt repayments, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3977 of this title](./chapter-050-servicemembers-civil-relief.md#section-3977).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3979"></a>
@@ -1148,6 +1286,9 @@ Section was formerly classified to section 547 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 407 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1185; Oct. 6, 1942, ch. 581, § 13, 56 Stat. 775; Pub. L. 85–857, § 14(76), Sept. 2, 1958, 72 Stat. 1272; Pub. L. 102–12, § 9(17), Mar. 18, 1991, 105 Stat. 40, related to regulations and finality of determinations, prior to the general amendment of this Act by Pub. L. 108–189. See sections 3978 and 3979 of this title.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3991"></a>
 ## § 3991. Regulations
@@ -1161,6 +1302,9 @@ Section was formerly classified to section 548 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 408 of act Oct. 17, 1940, ch. 888, art. IV, 54 Stat. 1185; Oct. 6, 1942, ch. 581, § 13, 56 Stat. 776, related to law governing applications for protection prior to Oct. 6, 1942, prior to repeal by Pub. L. 102–12, § 9(18), Mar. 18, 1991, 105 Stat. 40.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3992"></a>
@@ -1187,6 +1331,9 @@ Section 412 related to payment of balances due insurers by Secretary of the Trea
 Section 413 related to policies excepted from application of article.
 
 Section 414 related to insurers within application of article.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3993"></a>
@@ -1223,6 +1370,9 @@ A prior section 501 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1187, relate
 
 Provisions similar to this section were contained in section 500 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1186; Oct. 6, 1942, ch. 581, § 14, 56 Stat. 776, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3994"></a>
 ## § 3994. Rights in public lands
@@ -1242,6 +1392,9 @@ Section was formerly classified to section 562 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 502 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1187, related to homestead entries and settlement claims, prior to the general amendment of this Act by Pub. L. 108–189.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3995"></a>
@@ -1267,6 +1420,9 @@ Section was formerly classified to section 563 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 503 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1187, related to death or incapacity during or resulting from service as affecting rights and perfection of rights, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3996 of this title](./chapter-050-servicemembers-civil-relief.md#section-3996).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3996"></a>
 ## § 3996. Mining claims
@@ -1286,6 +1442,9 @@ Section was formerly classified to section 564 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 504 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1187; Pub. L. 102–12, § 9(19), Mar. 18, 1991, 105 Stat. 40, related to desert-land entries and the suspension of requirements, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3993 of this title](./chapter-050-servicemembers-civil-relief.md#section-3993).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3997"></a>
 ## § 3997. Mineral permits and leases
@@ -1302,6 +1461,9 @@ Section was formerly classified to section 565 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 505 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1188; Pub. L. 102–12, § 9(20), Mar. 18, 1991, 105 Stat. 41, related to mining claims and the suspension of requirements, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3994 of this title](./chapter-050-servicemembers-civil-relief.md#section-3994).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-3998"></a>
@@ -1322,6 +1484,9 @@ Section was formerly classified to section 566 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 506 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1188; Pub. L. 102–12, § 9(21), Mar. 18, 1991, 105 Stat. 41, related to mineral permits and leases and the suspension of operations and term of permits and leases, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3995 of this title](./chapter-050-servicemembers-civil-relief.md#section-3995).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-3999"></a>
 ## § 3999. Distribution of information concerning benefits of subchapter
@@ -1338,6 +1503,9 @@ Section was formerly classified to section 567 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 507 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1188; Pub. L. 102–12, § 9(22), Mar. 18, 1991, 105 Stat. 41, related to right to take action for perfection and defense of rights as unaffected, and affidavits and proofs, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3996 of this title](./chapter-050-servicemembers-civil-relief.md#section-3996).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-4000"></a>
@@ -1362,6 +1530,9 @@ A prior section 508 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1189, relate
 #### Effective Date of 2009 Amendment
 Pub. L. 111–97, § 4(b), Nov. 11, 2009, 123 Stat. 3008, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to servicemembers in military service (as defined in section 101 of such Act (50 U.S.C. App. 511) [now [50 U.S.C. 3911](./chapter-050-servicemembers-civil-relief.md#section-3911)]) on or after the date of the enactment of this Act [Nov. 11, 2009].”
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-4001"></a>
 ## § 4001. Regulations
@@ -1375,6 +1546,9 @@ Section was formerly classified to section 569 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 509 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1189; Oct. 6, 1942, ch. 581, § 15, 56 Stat. 776, related to distribution of information concerning benefits of tax and public lands provisions and forms, prior to the general amendment of this Act by Pub. L. 108–189. See [section 3997 of this title](./chapter-050-servicemembers-civil-relief.md#section-3997).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-4011"></a>
@@ -1395,6 +1569,9 @@ Section was formerly classified to section 570 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 510 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1189; Pub. L. 102–12, § 9(23), Mar. 18, 1991, 105 Stat. 41, related to leave of absence for homestead entrymen to perform farm labor, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-4012"></a>
 ## § 4012. Residence for tax purposes
@@ -1402,7 +1579,11 @@ A prior section 510 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1189; Pub. L
 
 (1) **In general** — A servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the servicemember by reason of being absent or present in any tax jurisdiction of the United States solely in compliance with military orders.
 
-(2) **Spouses** — A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember’s military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.
+(2) **Spouses**
+
+  (A) *In general* — A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember’s military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.
+
+  (B) *Election* — For any taxable year of the marriage, the spouse of a servicemember may elect to use the same residence for purposes of taxation as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
 
 **(b) Military service compensation** Compensation of a servicemember for military service shall not be deemed to be income for services performed or from sources within a tax jurisdiction of the United States if the servicemember is not a resident or domiciliary of the jurisdiction in which the servicemember is serving in compliance with military orders.
 
@@ -1447,6 +1628,8 @@ Section 513, act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1190, related to defer
 Section 514, act Oct. 17, 1940, ch. 888, art. V, as added Oct. 6, 1942, ch. 581, § 17, 56 Stat. 777; amended July 3, 1944, ch. 397, § 1, 58 Stat. 722; Pub. L. 87–771, Oct. 9, 1962, 76 Stat. 768; Pub. L. 102–12, § 9(24), Mar. 18, 1991, 105 Stat. 41, related to residence for tax purposes. See [section 4001 of this title](./chapter-050-servicemembers-civil-relief.md#section-4001).
 
 #### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–407 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
 2009—Subsec. (a). Pub. L. 111–97, § 3(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (c). Pub. L. 111–97, § 3(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
@@ -1459,8 +1642,14 @@ Subsec. (d)(2). Pub. L. 111–97, § 3(a)(4)(B), inserted “or the spouse’s�
 
 Subsecs. (e) to (g). Pub. L. 111–97, § 3(a)(2), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–407, title III, § 302(b), Dec. 31, 2018, 132 Stat. 5373, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any return of State or local income tax filed for any taxable year beginning with the taxable year that includes the date of the enactment of this Act [Dec. 31, 2018].”
+
 #### Effective Date of 2009 Amendment
 Pub. L. 111–97, § 3(b), Nov. 11, 2009, 123 Stat. 3008, provided that: “Subsections (a)(2) and (c) of section 511 of such Act [Servicemembers Civil Relief Act] (50 U.S.C. App. 571) [now [50 U.S.C. 4001](./chapter-050-servicemembers-civil-relief.md#section-4001)], as added by subsection (a) of this section, and the amendments made to such section 511 by subsection (a)(4) of this section [amending this section], shall apply with respect to any return of State or local income tax filed for any taxable year beginning with the taxable year that includes the date of the enactment of this Act [Nov. 11, 2009].”
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-4013"></a>
@@ -1477,6 +1666,9 @@ Section was formerly classified to section 581 of the former Appendix to this ti
 A prior section 601 of act Oct. 17, 1940, ch. 888, art. VI, 54 Stat. 1190; Jan. 20, 1942, ch. 10, §§ 1, 2, 56 Stat. 10; Pub. L. 102–12, § 9(26), Mar. 18, 1991, 105 Stat. 41, related to certificates of service and persons reported missing, prior to the general amendment of this Act by Pub. L. 108–189. See [section 4012 of this title](./chapter-050-servicemembers-civil-relief.md#section-4012).
 
 Provisions similar to this section were contained in section 600 of act Oct. 17, 1940, ch. 888, art. VI, 54 Stat. 1190; Pub. L. 102–12, § 9(25), Mar. 18, 1991, 105 Stat. 41, prior to the general amendment of this Act by Pub. L. 108–189.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-4021"></a>
@@ -1509,6 +1701,9 @@ Section was formerly classified to section 582 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 602 of act Oct. 17, 1940, ch. 888, art. VI, 54 Stat. 1191, related to revocation of interlocutory orders, prior to the general amendment of this Act by Pub. L. 108–189. See [section 4013 of this title](./chapter-050-servicemembers-civil-relief.md#section-4013).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-4022"></a>
 ## § 4022. Interlocutory orders
@@ -1528,6 +1723,9 @@ Prior sections 604 and 605 of act Oct. 17, 1940, ch. 888, were omitted in the ge
 Section 604 of act Oct. 17, 1940, ch. 888, art. VI, 54 Stat. 1191; Pub. L. 102–12, § 9(27), Mar. 18, 1991, 105 Stat. 41, related to termination date.
 
 Section 605 of act Oct. 17, 1940, ch. 888, art. VI, 54 Stat. 1191, related to the inapplicability of act Mar. 8, 1918, ch. 20, 40 Stat. 440, to military service performed after Oct. 17, 1940.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-4023"></a>
@@ -1580,6 +1778,9 @@ A prior section 701 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 92
 
 Provisions similar to this section were contained in section 700 of act Oct. 17, 1940, ch. 888, art. VII, as added Oct. 6, 1942, ch. 581, § 18, 56 Stat. 777, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-4024"></a>
 ## § 4024. Power of attorney
@@ -1608,6 +1809,9 @@ Section was formerly classified to section 592 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 702 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 102–12, § 4, Mar. 18, 1991, 105 Stat. 34; amended Pub. L. 104–106, div. A, title XV, § 1501(e)(3), Feb. 10, 1996, 110 Stat. 501, related to professional liability protection for certain persons ordered to active duty in armed forces, prior to the general amendment of this Act by Pub. L. 108–189. See [section 4023 of this title](./chapter-050-servicemembers-civil-relief.md#section-4023).
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-4025"></a>
@@ -1692,6 +1896,9 @@ Section was formerly classified to section 593 of the former Appendix to this ti
 #### Prior Provisions
 A prior section 703 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 102–12, § 5(b), Mar. 18, 1991, 105 Stat. 37, related to reinstatement of health coverage upon release from service, prior to the general amendment of this Act by Pub. L. 108–189. See [section 4024 of this title](./chapter-050-servicemembers-civil-relief.md#section-4024).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-4026"></a>
 ## § 4026. Health insurance reinstatement
@@ -1732,6 +1939,9 @@ A prior section 704 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 10
 
 Subsec. (e). Pub. L. 109–233, § 302(a), added subsec. (e).
 
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
 
 <a id="section-4041"></a>
 ## § 4041. Guarantee of residency for military personnel and spouses of military personnel
@@ -1753,14 +1963,43 @@ Subsec. (e). Pub. L. 109–233, § 302(a), added subsec. (e).
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 115–407, title III, § 303, Dec. 31, 2018, 132 Stat. 5373, provided that, effective on the date that is 90 days after December 31, 2018, subsection (b) of this section is amended by substituting “State or local office—” for “State or local office, a person who is absent from a State because the person is accompanying the person’s spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—” in introductory provisions, striking paragraphs (1) to (3), and inserting the following new paragraphs:
+
+(1) a person who is absent from a State because the person is accompanying the person’s spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—
+
+(A) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
+
+(B) be deemed to have acquired a residence or domicile in any other State; or
+
+(C) be deemed to have become a resident in or a resident of any other State; and
+
+(2) the spouse of a servicemember may elect to use the same residence as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
+
+See 2018 Amendment note below.
+
 #### Codification
 Section was formerly classified to section 595 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–407 substituted “State or local office—” for “State or local office, a person who is absent from a State because the person is accompanying the person’s spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+
+“(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
+
+“(2) be deemed to have acquired a residence or domicile in any other State; or
+
+“(3) be deemed to have become a resident in or a resident of any other State.”
+
 2009—Pub. L. 111–97 inserted “and spouses of military personnel” after “military personnel” in section catchline, designated existing provisions as subsec.(a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–407, title III, § 303(b), Dec. 31, 2018, 132 Stat. 5374, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 31, 2018].”
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–97, § 2(c), Nov. 11, 2009, 123 Stat. 3007, provided that: “Subsection (b) of section 705 of such Act [Servicemembers Civil Relief Act] (50 U.S.C. App. 595) [now [50 U.S.C. 4025](./chapter-050-servicemembers-civil-relief.md#section-4025)], as added by subsection (a) of this section, shall apply with respect to absences from States described in such subsection (b) on or after the date of the enactment of this Act [Nov. 11, 2009], regardless of the date of the military or naval order concerned.”
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-4042"></a>
@@ -1773,6 +2012,9 @@ Pub. L. 111–97, § 2(c), Nov. 11, 2009, 123 Stat. 3007, provided that: “Subs
 
 #### Codification
 Section was formerly classified to section 596 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### Effective Date
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
 <a id="section-4043"></a>

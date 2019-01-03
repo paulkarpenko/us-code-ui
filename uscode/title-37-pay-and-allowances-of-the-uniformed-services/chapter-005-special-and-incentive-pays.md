@@ -2,7 +2,7 @@
 title: 37
 chapter: '5'
 heading: SPECIAL AND INCENTIVE PAYS
-section_count: 84
+section_count: 85
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37&num=0&edition=prelim
 ---
@@ -306,7 +306,7 @@ George W. Bush.
 
   (C) The term “proficiency flying duty” means flying performed under competent orders by rated or designated members while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
 
-  (D) The term “officer” includes an individual enlisted, and designated, as an aviation cadet under [section 6911 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6911&num=0&edition=prelim).
+  (D) The term “officer” includes an individual enlisted, and designated, as an aviation cadet under [section 8411 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8411&num=0&edition=prelim).
 
 **(b)**
 
@@ -333,6 +333,8 @@ George W. Bush.
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(6)(D). Pub. L. 115–232 substituted “[section 8411 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8411&num=0&edition=prelim)” for “[section 6911 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6911&num=0&edition=prelim)”.
+
 2006—Subsec. (f). Pub. L. 109–364 struck out subsec. (f), which required the Secretary of Defense to submit annually to Congress a report specifying for the year covered by the report the total number of officers who were determined under subsection (a)(5) to have failed to perform the minimum operational flying duty requirements, the number of those officers who continued to receive continuous monthly incentive pay and the extent to which they failed to perform those requirements, and the reasons for the exercise of the authority under the second sentence of subsection (a)(5) in the case of each officer specified.
 
 2004—Subsec. (b)(4). Pub. L. 108–375 substituted “section 301(a)(13)” for “section 301(a)(11)”.
@@ -412,6 +414,9 @@ Subsec. (b)(2). Pub. L. 96–343, § 2(b)(3), substituted “$125”, “$138”
 
 1976—Subsec. (e). Pub. L. 94–273 substituted “October” for “July”.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
@@ -454,7 +459,7 @@ Ex. Ord. No. 11800, Aug. 17, 1974, 39 F.R. 30103, as amended by Ex. Ord. No. 126
 
 <a id="section-301b"></a>
 ## § 301b. Special pay: aviation career officers extending period of active duty
-**(a) Bonus Authorized.—** An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 2017, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+**(a) Bonus Authorized.—** An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 2018, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
 **(b) Covered Officers.—** An aviation officer referred to in subsection (a) is an officer of a uniformed service who—
 
@@ -493,6 +498,8 @@ Ex. Ord. No. 11800, Aug. 17, 1974, 39 F.R. 30103, as amended by Ex. Ord. No. 126
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (a). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (a). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -1573,11 +1580,13 @@ Pub. L. 101–189, div. A, title VII, § 704(d), Nov. 29, 1989, 103 Stat. 1471, 
 
 (2) **Retention bonus.—** — An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b) shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(f) Termination of Authority.—** No agreement under subsection (a) or (b) may be entered into after December 31, 2017.
+**(f) Termination of Authority.—** No agreement under subsection (a) or (b) may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (f). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (f). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -1599,7 +1608,7 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 ## § 302d. Special pay: accession bonus for registered nurses
 **(a) Accession Bonus Authorized.—**
 
-(1) A person who is a registered nurse and who, during the period beginning on November 29, 1989, and ending on December 31, 2017, executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than three years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+(1) A person who is a registered nurse and who, during the period beginning on November 29, 1989, and ending on December 31, 2018, executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than three years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $30,000.
 
@@ -1616,6 +1625,8 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (a)(1). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (a)(1). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -1698,7 +1709,7 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 ## § 302e. Special pay: nurse anesthetists
 **(a) Special Pay Authorized.—**
 
-(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2017, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
+(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2018, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
 
 (2) The Secretary concerned shall determine the amount of incentive special pay to be paid to an officer under paragraph (1). In determining that amount, the Secretary concerned shall consider the period of obligated service provided for in the agreement under that paragraph.
 
@@ -1727,6 +1738,8 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (a)(1). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (a)(1). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -1872,7 +1885,7 @@ Pub. L. 102–25, title III, § 304, Apr. 25, 1991, 105 Stat. 81, as amended by 
 
 **(d) Repayment.—** An officer who does not complete the period of service in the Selected Reserve specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(e) Termination of Agreement Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(e) Termination of Agreement Authority.—** No agreement under this section may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
@@ -1880,6 +1893,8 @@ Pub. L. 102–25, title III, § 304, Apr. 25, 1991, 105 Stat. 81, as amended by 
 Provisions similar to those in this section were contained in Pub. L. 100–456, div. A, title VI, § 613, Sept. 29, 1988, 102 Stat. 1981, which was set out as a note under [section 302 of this title](./chapter-005-special-and-incentive-pays.md#section-302), prior to repeal by Pub. L. 104–106, § 614(c)(1).
 
 #### Amendments
+2017—Subsec. (e). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (e). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (e). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -1944,7 +1959,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 ## § 302h. Special pay: accession bonus for dental officers
 **(a) Accession Bonus Authorized.—**
 
-(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2017, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2018, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $200,000.
 
@@ -1961,6 +1976,8 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(1). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (a)(1). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (a)(1). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -2054,7 +2071,7 @@ In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amo
 
 <a id="section-302j"></a>
 ## § 302j. Special pay: accession bonus for pharmacy officers
-**(a) Accession Bonus Authorized.—** A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2017, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+**(a) Accession Bonus Authorized.—** A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2018, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 **(b) Limitation on Amount of Bonus.—** The amount of an accession bonus under subsection (a) may not exceed $30,000.
 
@@ -2071,6 +2088,8 @@ In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amo
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (a). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (a). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -2124,11 +2143,13 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(e) Repayment.—** A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a doctor or osteopath, as the case may be, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(f) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(f) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (f). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (f). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -2174,11 +2195,13 @@ Section effective Oct. 1, 2006, and applicable to agreements entered into on or 
 
 **(f) Coordination With Other Accession Bonus Authority.—** A person eligible to execute an agreement under both subsection (a) and [section 302h of this title](./chapter-005-special-and-incentive-pays.md#section-302h) shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -3024,11 +3047,13 @@ Pub. L. 98–525, title VI, § 623(b)(3), Oct. 19, 1984, 98 Stat. 2542, provided
 
 (2) absence of the member for authorized leave, other than leave authorized for a period ending upon the discharge of the member or the release of the member from active duty.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -3139,7 +3164,7 @@ may, under regulations prescribed by the Secretary concerned, be considered as p
 
 **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-**(g)** No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2017.
+**(g)** No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2018.
 
 ### Statutory Notes
 
@@ -3153,6 +3178,8 @@ In subsection (a), the words “reenlists . . . after . . . compulsory or volunt
 In subsection (b), the words “a total of” are omitted as surplusage.
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -3398,11 +3425,13 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 624(c)(2)], Oct. 30, 2000, 114 S
 
 **(f) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
-**(g) Termination of Authority.—** No bonus may be paid under this section to any enlisted member who, after December 31, 2017, reenlists or voluntarily extends his enlistment in a reserve component.
+**(g) Termination of Authority.—** No bonus may be paid under this section to any enlisted member who, after December 31, 2018, reenlists or voluntarily extends his enlistment in a reserve component.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -3615,11 +3644,13 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 
 **(h) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
-**(i) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any agreement entered into under subsection (a) or (c) after December 31, 2017.
+**(i) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any agreement entered into under subsection (a) or (c) after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (i). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (i). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (i). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -3735,7 +3766,7 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 
 **(b)** The Secretary concerned may designate a unit, for the purposes of subsection (a) and under such terms and conditions as the Secretary considers appropriate, as a high priority unit if that unit has experienced, or reasonably might be expected to experience, critical personnel shortages. The Secretary may vacate a designation made under this subsection at any time he considers the designation no longer necessary.
 
-**(c)** Additional compensation may not be paid under this section for inactive duty performed after December 31, 2017.
+**(c)** Additional compensation may not be paid under this section for inactive duty performed after December 31, 2018.
 
 ### Statutory Notes
 
@@ -3743,6 +3774,8 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 A prior section 308d, added Pub. L. 96–342, title VIII, § 805(a)(1), Sept. 8, 1980, 94 Stat. 1092, related to special pay and to a bonus for enlistment, reenlistment, or extension of enlistment in elements of the Ready Reserve other than the Selected Reserve, prior to repeal by Pub. L. 98–94, title X, § 1011(b)(1), Sept. 24, 1983, 97 Stat. 664, effective Oct. 1, 1983. See sections 308g and 308h of this title.
 
 #### Amendments
+2017—Subsec. (c). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (c). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (c). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -3857,11 +3890,13 @@ Repeal effective Oct. 1, 2000, and not to affect the validity or terms of any bo
 
 (1) during the period beginning on October 1, 1992, and ending on September 30, 2005; or
 
-(2) after December 31, 2017.
+(2) after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f)(2). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (f)(2). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (f)(2). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -3983,11 +4018,13 @@ Reserve Forces Readiness provisions, including amendment of subsec. (b) of this 
 
 (2) Regulations under this section may require that as a condition of receiving a bonus under this section the person receiving the bonus agree to participate in an annual muster of the Reserves, or in active duty for training, as may be required by the Secretary concerned.
 
-**(e) Termination of Authority.—** A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2017.
+**(e) Termination of Authority.—** A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (e). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (e). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (e). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -4169,11 +4206,13 @@ Reserve Forces Readiness provisions, including amendment of subsec. (b) of this 
 
 **(e) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-**(f) Termination of Authority.—** No bonus may be paid under this section to any person for an enlistment after December 31, 2017.
+**(f) Termination of Authority.—** No bonus may be paid under this section to any person for an enlistment after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (f). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (f). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -4406,7 +4445,7 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g) and struck out former subsec. (
 
 **(d) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-**(e) Duration of Authority.—** No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2017.
+**(e) Duration of Authority.—** No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2018.
 
 ### Statutory Notes
 
@@ -4414,6 +4453,8 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g) and struck out former subsec. (
 A prior section 309, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 468, related to authority of Secretary concerned to provide for additional pay for performance of administrative functions by officers of the National Guard and reserve components, prior to repeal by Pub. L. 96–107, title IV, § 404(a)(1), (b), Nov. 9, 1979, 93 Stat. 808, 809, applicable only with respect to administrative functions performed after Sept. 30, 1980.
 
 #### Amendments
+2017—Subsec. (e). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (e). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (e). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -4666,11 +4707,13 @@ Repeal effective Oct. 1, 1985, see section 639(f) of Pub. L. 99–145, set out a
 
 (2) This subsection shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-**(f) Duration of Authority.—** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2017, execute the required written agreement to remain in active service.
+**(f) Duration of Authority.—** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2018, execute the required written agreement to remain in active service.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (f). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (f). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -4846,11 +4889,13 @@ Section, added Pub. L. 92–581, § 1(3), Oct. 27, 1972, 86 Stat. 1277; amended 
 
 (2) upon successful completion, as a commissioned officer, of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-**(c)** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2017, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
+**(c)** The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2018, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (c). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (c). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (c). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -5024,11 +5069,13 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(c)** Under regulations prescribed by the Secretary of the Navy, an officer of the naval service who is not on active duty on the last day of a nuclear service year or who, on or before the last day of a nuclear service year, loses his technical qualifications or advances from the pay grade of O–6 to a higher pay grade may be paid a bonus in accordance with subsection (a) or (b) on a pro rata basis, if otherwise qualified, unless termination of active duty or loss of technical qualifications was voluntary or was the result of his own misconduct.
 
-**(d)** For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2017.
+**(d)** For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (d). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (d). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -5378,7 +5425,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(e) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-**(f) Termination of Authority.—** No incentive pay may be paid under this section after December 31, 2017.
+**(f) Termination of Authority.—** No incentive pay may be paid under this section after December 31, 2018.
 
 ### Statutory Notes
 
@@ -5386,6 +5433,8 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 A prior section 316a, added Pub. L. 102–190, div. A, title VI, § 636(a), Dec. 5, 1991, 105 Stat. 1382, related to waiver of certification requirement, prior to repeal by Pub. L. 108–375, div. A, title VI, § 620(b)(1), Oct. 28, 2004, 118 Stat. 1954.
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91, which directed amendment of this section by substituting “December 31, 2018” for “December 31, 2017” in subsec. (g), was executed by making the substitution in subsec. (f) to reflect the probable intent of Congress and the redesignation of subsec. (g) as (f) by Pub. L. 114–92, § 1072(a)(2). See 2015 Amendment note below.
+
 2016—Subsec. (f). Pub. L. 114–328, which directed amendment of this section by substituting “December 31, 2017” for “December 31, 2016” in subsec. (g), was executed by making the substitution in subsec. (f) to reflect the probable intent of Congress and the redesignation of subsec. (g) as (f) by Pub. L. 114–92, § 1072(a)(2). See 2015 Amendment note below.
 
 2015—Subsec. (f). Pub. L. 114–92, § 1072(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual reports on the payment of incentive pay under this section.
@@ -5585,7 +5634,7 @@ Pub. L. 106–65, div. A, title VI, § 628(b), Oct. 5, 1999, 113 Stat. 659, prov
 
   (A) the active duty service obligation incurred through the officer’s original commissioning program; or
 
-  (B) in the case of an officer detailed under [section 2004 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2004&num=0&edition=prelim) or [section 470 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim), the active duty service obligation incurred as part of that detail.
+  (B) in the case of an officer detailed under [section 2004 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2004&num=0&edition=prelim) or section 470 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, the active duty service obligation incurred as part of that detail.
 
 **(b) Special Pay Authorized.—** An eligible judge advocate who executes a written agreement to remain on active duty for a period of obligated service specified in the agreement may, upon the acceptance of the agreement by the Secretary concerned, be paid continuation pay under this section. The total amount paid to an officer under one or more agreements under this section may not exceed $60,000.
 
@@ -5603,6 +5652,9 @@ Pub. L. 106–65, div. A, title VI, § 628(b), Oct. 5, 1999, 113 Stat. 659, prov
 
 #### Amendments
 2006—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer fails to complete total period of agreed upon active duty.
+
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 470 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim) redesignated [section 2770 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2770&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to [section 470 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Effective Date
 Pub. L. 106–65, div. A, title VI, § 629(c), Oct. 5, 1999, 113 Stat. 661, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on October 1, 1999.”
@@ -5637,11 +5689,13 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(f) Repayment.—** An individual who, having received all or part of the bonus under an agreement referred to in subsection (a), is not thereafter commissioned as an officer or does not commence or complete the total period of active duty service specified in the agreement shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -5768,11 +5822,13 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(f) Regulations.—** The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -5850,11 +5906,13 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(g) Regulations.—** The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department under this subsection shall be subject to the approval of the Secretary of Defense.
 
-**(h) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(h) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (h). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (h). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (h). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -5956,11 +6014,13 @@ Pub. L. 109–364, div. A, title VI, § 621(e), Oct. 17, 2006, 120 Stat. 2255, p
 
 **(e) Repayment.—** A person who, having received all or part of the bonus under a written agreement under subsection (a), does not complete the total period of active duty as a commissioned officer as specified in such agreement shall be subject to the repayment provisions of [section 303a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
 
-**(f) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(f) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (f). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (f). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (f). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -6044,11 +6104,15 @@ Pub. L. 109–364, div. A, title VI, § 622(a)(3), Oct. 17, 2006, 120 Stat. 2256
 
 **(g) Repayment.—** A person or member who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2017.
+**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (h). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (h). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (h). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (h). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -6118,11 +6182,15 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(f) Repayment.—** A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2017.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (c)(1)(B). Pub. L. 114–328, § 617, substituted “$20,000” for “$12,000”.
 
 Subsec. (g). Pub. L. 114–328, § 614(2), substituted “December 31, 2017” for “December 31, 2016”.
@@ -6190,11 +6258,15 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(h) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of the Navy.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2017.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (i). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (i). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (i). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (d)(1)(A). Pub. L. 114–92, § 616, substituted “$50,000” for “$35,000”.
@@ -6298,13 +6370,19 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (3) The term “proficiency flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
 
-(4) The term “officer” includes an individual enlisted and designated as an aviation cadet under [section 6911 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6911&num=0&edition=prelim).
+(4) The term “officer” includes an individual enlisted and designated as an aviation cadet under [section 8411 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8411&num=0&edition=prelim).
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2017.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (h)(4). Pub. L. 115–232, § 809(m)(3), substituted “[section 8411 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8411&num=0&edition=prelim)” for “[section 6911 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6911&num=0&edition=prelim)”.
+
+Subsec. (i). Pub. L. 115–232, § 611(d)(3), substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (i). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (c)(1)(A), (B). Pub. L. 114–328, § 616(a), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) aviation incentive pay under subsection (a) shall be paid at a monthly rate, not to exceed—
@@ -6350,6 +6428,88 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 2009—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
 2008—Subsec. (f)(1). Pub. L. 110–417 substituted “section 351(a)(2)” for “section 351”.
+
+#### Effective Date of 2018 Amendment
+Amendment by section 809(m)(3) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
+
+
+<a id="section-334a"></a>
+## § 334a. Special aviation incentive pay and bonus authorities: enlisted members who operate remotely piloted aircraft
+**(a) Aviation Incentive Pay.—**
+
+(1) **Incentive pay authorized.—** — The Secretary concerned may pay aviation incentive pay under this section to an enlisted member in a regular or reserve component of a uniformed service who—
+
+  (A) is entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204) or compensation under 206 of this title;
+
+  (B) is designated as a remotely piloted aircraft pilot, or is in training leading to such a designation;
+
+  (C) engages in, or is in training leading to, frequent and regular performance of operational flying duty or proficiency flying duty;
+
+  (D) engages in or remains in aviation service for a specified period; and
+
+  (E) meets such other criteria as the Secretary concerned determines appropriate.
+
+(2) **Enlisted members not currently engaged in flying duty.—** — The Secretary concerned may pay aviation incentive pay under this section to an enlisted member who is otherwise qualified for such pay but who is not currently engaged in the performance of operational flying duty or proficiency flying duty if the Secretary determines, under regulations prescribed under [section 374 of this title](./chapter-005-special-and-incentive-pays.md#section-374), that payment of aviation pay to that enlisted member is in the best interests of the service.
+
+**(b) Aviation Bonus.—** The Secretary concerned may pay an aviation bonus under this section to an enlisted member in a regular or reserve component of a uniformed service who—
+
+(1) is entitled to aviation incentive pay under subsection (a);
+
+(2) is within one year of completing the enlistment of the member;
+
+(3) reenlists or voluntarily extends the enlistment of the member—
+
+  (A) for a period of at least one year; or
+
+  (B) in the case of an enlisted member serving pursuant to an indefinite reenlistment, executes a written agreement—
+
+    (i) to remain on active duty for a period of at least one year; or
+
+    (ii) to remain in an active status in a reserve component for a period of at least one year; and
+
+(4) meets such other criteria as the Secretary concerned determines appropriate.
+
+**(c) Maximum Amount and Method of Payment.—**
+
+(1) **Maximum amount.—** — The Secretary concerned shall determine the amount of a bonus or incentive pay to be paid under this section, except that—
+
+  (A) aviation incentive pay under subsection (a) shall be paid at a monthly rate not to exceed $1,000 per month; and
+
+  (B) an aviation bonus under subsection (b) may not exceed $35,000 for each 12-month period of obligated service agreed to under subsection (d).
+
+(2) **Lump sum or installments.—** — A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
+
+(3) **Fixing bonus amount.—** — Upon acceptance by the Secretary concerned of the written agreement required by subsection (d), the total amount of the bonus to be paid under the agreement shall be fixed.
+
+**(d) Written Agreement for Bonus.—** To receive an aviation bonus under this section, an enlisted member determined to be eligible for the bonus shall enter into a written agreement with the Secretary concerned that specifies—
+
+(1) the amount of the bonus;
+
+(2) the method of payment of the bonus under subsection (c)(2);
+
+(3) the period of obligated service; and
+
+(4) the type or conditions of the service.
+
+**(e) Reserve Component Enlisted Members Performing Inactive Duty Training.—** An enlisted member of reserve component who is entitled to compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206) and who is authorized aviation incentive pay under this section may be paid an amount of incentive pay that is proportionate to the compensation received under [section 206 of this title](./chapter-003-basic-pay.md#section-206) for inactive-duty training.
+
+**(f) Relationship to Other Pay and Allowances.—**
+
+(1) **Aviation incentive pay.—** — Aviation incentive pay paid to an enlisted member under subsection (a) shall be in addition to any other pay and allowance to which the enlisted member is entitled, except that an enlisted member may not receive a payment under such subsection and section 351(a)(2) or 353(a) of this title for the same skill and period of service.
+
+(2) **Aviation bonus.—** — An aviation bonus paid to an enlisted member under subsection (b) shall be in addition to any other pay and allowance to which the enlisted member is entitled, except that an enlisted member may not receive a bonus payment under such subsection and section 331 or 353(b) of this title for the same skill and period of service.
+
+**(g) Repayment.—** An enlisted member who receives aviation incentive pay or an aviation bonus under this section and who fails to fulfill the eligibility requirements for the receipt of the incentive pay or bonus or complete the period of service for which the incentive pay or bonus is paid, as specified in the written agreement under subsection (d) in the case of a bonus, shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
+
+**(h) Definitions.—** In this section:
+
+(1) **Aviation service.—** — The term “aviation service” means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible enlisted member who is a remotely piloted aircraft pilot.
+
+(2) **Operational flying duty.—** — The term “operational flying duty” means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which basic flying skills are normally maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to designation as a remotely piloted aircraft pilot by the Secretary concerned.
+
+(3) **Proficiency flying duty.—** — The term “proficiency flying duty” means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
+
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2018.
 
 
 <a id="section-335"></a>
@@ -6442,11 +6602,15 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (8) Any health profession performed by officers in the regular or reserve corps of the Public Health Service.
 
-**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2017.
+**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (k). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (k). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (k). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (k). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -6491,11 +6655,15 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 **(f) Regulations.—** The Secretary concerned shall issue such regulations as may be necessary to carry out this section.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2017.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -6547,11 +6715,15 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 **(g) Prohibition on Variable Rates.—** The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
 
-**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2017.
+**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (h). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (h). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (h). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (h). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -6623,11 +6795,15 @@ Subsec. (f). Pub. L. 110–417, § 618(e), substituted “in connection with det
 
 **(f) Repayment.—** A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2017.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (g). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -6704,7 +6880,7 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 
 **(h) Relationship to Other Pays and Allowances.—** A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under [section 351 of this title](./chapter-005-special-and-incentive-pays.md#section-351) for the same period of service in the same career field or skill.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2017.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2019.
 
 ### Statutory Notes
 
@@ -6712,6 +6888,10 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, § 618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
+2018—Subsec. (i). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (i). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (i). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (i). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
@@ -6799,24 +6979,19 @@ Pub. L. 110–417, [div. A], title VI, § 619(d), Oct. 14, 2008, 122 Stat. 4489,
 
   (B) An explanation of the effects under sections 1401a, 1409, and 1410 of title 10 that such an election has on the computation of any retired or retainer pay that the member may become eligible to receive.
 
-**(f) Repayment.—** If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
+**(f) Repayment.—**
 
-### Statutory Notes
+(1) If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-#### Amendment of Section
-Pub. L. 114–92, div. A, title VI, §§ 631(c)(2), 635, Nov. 25, 2015, 129 Stat. 844, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:
+(2) If a person who is paid a bonus under this section subsequently makes an election described in [section 1409(b)(4)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b/4/B&num=0&edition=prelim), the person shall repay any bonus payments received under this section in the same manner as repayments are made under [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-(1) in subsection (f), by striking “If a” and inserting “(1) If a” and by adding at the end the following new paragraph:
+**(g) Sunset and Continuation of Payments.—**
 
-“(2) If a person who is paid a bonus under this section subsequently makes an election described in [section 1409(b)(4)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b/4/B&num=0&edition=prelim), the person shall repay any bonus payments received under this section in the same manner as repayments are made under [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).”; and
-
-(2) by adding at the end the following new subsection:
-
-(g) Sunset and Continuation of Payments.—(1) A Secretary concerned may not pay a new bonus under this section after December 31, 2017.
+(1) A Secretary concerned may not pay a new bonus under this section after December 31, 2017.
 
 (2) Subject to subsection (f)(2), the Secretary concerned may continue to make payments for bonuses that were awarded under this section on or before the date specified in paragraph (1).
 
-See 2015 Amendment notes below.
+### Statutory Notes
 
 #### Amendments
 2015—Subsec. (f). Pub. L. 114–92, § 631(c)(2)(A), designated existing provisions as par. (1) and added par. (2).
@@ -6892,11 +7067,15 @@ Pub. L. 107–107, div. A, title VI, § 620(b), Dec. 28, 2001, 115 Stat. 1139, p
 
 **(g) Repayment.—** A member paid a bonus under this section who fails, during the period of service covered by the member’s agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2017, and no agreement under this section may be entered into after that date.
+**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2019, and no agreement under this section may be entered into after that date.
 
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (h). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
+
+2017—Subsec. (h). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
+
 2016—Subsec. (h). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (h). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.

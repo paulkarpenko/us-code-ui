@@ -536,7 +536,7 @@ shall be dismissed from office or discharged from employment and, upon convictio
 
 **(b) Interest of internal revenue officer or employee in tobacco or liquor production** Any internal revenue officer or employee interested, directly or indirectly, in the manufacture of tobacco, snuff, or cigarettes, or in the production, rectification, or redistillation of distilled spirits, shall be dismissed from office; and each such officer or employee so interested in any such manufacture or production, rectification, or redistillation or production of fermented liquors shall be fined not more than $5,000.
 
-**(c) Cross reference** For penalty on collecting or disbursing officers trading in public funds or debts of property, see [18 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1901&num=0&edition=prelim).
+**(c) Cross reference** For penalty on collecting or disbursing officers trading in public funds or debts or property, see [18 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1901&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -899,7 +899,7 @@ Any person who with respect to any tax payable by stamps—
 
   (A) Transfers or receives (whether by sale, gift, or otherwise) such container knowing it to be empty or to contain such other contents; or
 
-  (B) Stamps, brands, or marks such container, or otherwise produces such as stamped, branded, or marked container, knowing it to be empty or to contain such other contents;
+  (B) Stamps, brands, or marks such container, or otherwise produces such a stamped, branded, or marked container, knowing it to be empty or to contain such other contents;
   shall be liable for each such offense to a penalty of $50.
 
 ### Statutory Notes
@@ -995,7 +995,7 @@ Repeal effective on first day of first month which begins more than 90 days afte
 
 (1) state such cost as the total of (A) the amount to be paid for such transportation, and (B) the taxes imposed by sections 4261(a), (b), and (c), and
 
-(2) if any such advertising states separately the amount to be paid for such transportation or the amount of such taxes, shall 11 So in original. The word “shall” probably should not appear. state such total at least as prominently as the more prominently stated of the amount to be paid for such transportation or the amount of such taxes and shall describe such taxes substantially as: “user taxes to pay for airport construction and airway safety and operations.”
+(2) if any such advertising states separately the amount to be paid for such transportation or the amount of such taxes, state such total at least as prominently as the more prominently stated of the amount to be paid for such transportation or the amount of such taxes and shall describe such taxes substantially as: “user taxes to pay for airport construction and airway safety and operations”.
 
 **(c) Non-tax charges**
 
@@ -1011,6 +1011,8 @@ Repeal effective on first day of first month which begins more than 90 days afte
 A prior section 7275, act Aug. 16, 1954, ch. 736, 68 Stat. 866, related to cross references, prior to repeal by Pub. L. 89–44, title VI, § 601(i), June 21, 1965, 79 Stat. 155.
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–141 substituted “taxes, state” for “taxes, shall state”.
+
 2012—Subsecs. (c), (d). Pub. L. 112–95 added subsec. (c), redesignated former subsec. (c) as (d), and, in subsec. (d), substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
 
 1982—Subsec. (a). Pub. L. 97–248 redesignated former par. (1) as pars. (1) and (2) and struck out former par. (2) which provided that a ticket for transportation, if it showed amounts paid with respect to any segment of such transportation, had to comply with former par. (1) with respect to such segments as well as with respect to the sum of the segments.
@@ -1222,43 +1224,14 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 
 <a id="section-7326"></a>
-## § 7326. Disposal of forfeited or abandoned property in special cases
-**(a) Coin-operated gaming devices** Any coin-operated gaming device as defined in section 4462 11 See References in Text note below. upon which a tax is imposed by section 4461 1 and which has been forfeited under any provision of this title shall be destroyed, or otherwise disposed of, in such manner as may be prescribed by the Secretary.
-
-**(b) Firearms** For provisions relating to disposal of forfeited firearms, see section 5872(b).
+## § 7326. Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(50), Mar. 23, 2018, 132 Stat. 1205]
 
 ### Statutory Notes
 
-#### References in Text
-Sections 4461 and 4462, referred to in subsec. (a), were repealed by Pub. L. 95–600, title V, § 521(b), Nov. 6, 1978, 92 Stat. 2884.
-
-#### Amendments
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
-
-Subsecs. (b), (c). Pub. L. 94–455, § 1906(a)(43), redesignated subsec. (c) as (b) and in subsec. (b) as so redesignated substituted “section 5872(b)” for “section 5862(b)”. Former subsec. (b), relating to narcotic drugs, was repealed. See 1970 Amendment note below.
-
-1970—Subsec. (b). Pub. L. 91–513 struck out subsec. (b) which related to narcotic drugs and which made reference to sections 4714, 4733, and 4745(d) of this title.
-
-1965—Subsec. (a). Pub. L. 89–44 substituted “section 4462” for “section 4462(a)(2)”.
-
-1958—Subsec. (a). Pub. L. 85–859 added subsec. (a).
-
-Subsecs. (b), (c). Pub. L. 85–859 redesignated former pars. (1) and (2) as subsecs. (b) and (c), respectively.
-
-#### Effective Date of 1976 Amendment
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under [section 6013 of this title](./chapter-061-information-and-returns.md#section-6013).
-
-#### Effective Date of 1970 Amendment
-Amendment by Pub. L. 91–513 effective first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim), Food and Drugs.
-
-#### Effective Date of 1965 Amendment
-Amendment by Pub. L. 89–44 to take effect in a manner consistent with effective date of change of tax provision to which related, see section 701(e) of Pub. L. 89–44, set out as a note under [section 6103 of this title](./chapter-061-information-and-returns.md#section-6103).
-
-#### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under [section 5001 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5001).
+Section, Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 85–859, title II, § 204(13), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 89–44, title VI, § 601(j), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, § 1102(f), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§ 1906(a)(43), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1830, 1834, related to disposal of certain forfeited property.
 
 #### Savings Provision
-Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as note under sections 171 to 174 of Title 21, Food and Drugs.
+For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 
 <a id="section-7327"></a>
@@ -1363,15 +1336,15 @@ All provisions of law imposing fines, penalties, or other punishment for offense
 
 **(e) Judicial review of certification**
 
-(1) **In general** — After the Commissioner notifies an individual under subsection (d), the taxpayer may bring a civil action against the United States in a district court of the United States or the Tax Court to determine whether the certification was erroneous or whether the Commissioner has failed to reverse the certification.
+(1) **In general** — After the Commissioner notifies an individual under subsection (d), the taxpayer may bring a civil action against the United States in a district court of the United States, or against the Commissioner in the Tax Court, to determine whether the certification was erroneous or whether the Commissioner has failed to reverse the certification. For purposes of the preceding sentence, the court first acquiring jurisdiction over such an action shall have sole jurisdiction.
 
 (2) **Determination** — If the court determines that such certification was erroneous, then the court may order the Secretary to notify the Secretary of State that such certification was erroneous.
 
-**(f) Adjustment for inflation** In the case of a calendar year beginning after 2016, the dollar amount in subsection (a) shall be increased by an amount equal to—
+**(f) Adjustment for inflation** In the case of a calendar year beginning after 2016, the dollar amount in subsection (b)(1)(B) shall be increased by an amount equal to—
 
 (1) such dollar amount, multiplied by
 
-(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
 
 **(g) Delegation of certification** A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.
@@ -1383,3 +1356,16 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### References in Text
 Section 32101 of the FAST Act, referred to in subsec. (a), is section 32101 of Pub. L. 114–94, which enacted this section and [section 2714a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2714a&num=0&edition=prelim), Foreign Relations and Intercourse, and amended sections 6103, 6320, 6331, and 7508 of this title.
+
+#### Amendments
+2018—Subsec. (e)(1). Pub. L. 115–141, § 103(a)(1), substituted “, or against the Commissioner in the Tax Court,” for “or the Tax Court” and inserted at end “For purposes of the preceding sentence, the court first acquiring jurisdiction over such an action shall have sole jurisdiction.”
+
+Subsec. (f). Pub. L. 115–141, § 103(a)(2), substituted “subsection (b)(1)(B)” for “subsection (a)” in introductory provisions.
+
+2017—Subsec. (f)(2). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–141, div. U, title I, § 103(b), Mar. 23, 2018, 132 Stat. 1170, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 32101 of the Fixing America’s Surface Transportation Act [Pub. L. 114–94].”
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

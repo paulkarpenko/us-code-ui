@@ -1762,7 +1762,7 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 (2) **Definitions** — In this subsection—
 
-  (A) the term “House Leadership office” 11 So in original. Probably should be capitalized. means an office of the House of Representatives for which the appropriation for salaries and expenses of the office for the year involved is provided under the heading “House Leadership Offices” in the act making appropriations for the Legislative Branch for the fiscal year involved;
+  (A) the term “House Leadership office” 11 So in original. The word “office” probably should be capitalized. means an office of the House of Representatives for which the appropriation for salaries and expenses of the office for the year involved is provided under the heading “House Leadership Offices” in the act making appropriations for the Legislative Branch for the fiscal year involved;
 
   (B) the term “Member of the House of Representatives” includes a Delegate or Resident Commissioner to the Congress; and
 

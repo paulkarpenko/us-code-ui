@@ -10,21 +10,21 @@ source: >-
 ## § 3401. Definitions
 **(a) Wages** For purposes of this chapter, the term “wages” means all remuneration (other than fees paid to a public official) for services performed by an employee for his employer, including the cash value of all remuneration (including benefits) paid in any medium other than cash; except that such term shall not include remuneration paid—
 
-(1) for active service performed in a month for which such employee is entitled to the benefits of section 112 (relating to certain combat zone compensation of members of the Armed Forces of the United States) to the extent remuneration for such service is excludable from gross income under such section; or
+(1) for active service performed in a month for which such employee is entitled to the benefits of section 112 (relating to certain combat zone compensation of members of the Armed Forces of the United States) to the extent remuneration for such service is excludable from gross income under such section,
 
-(2) for agricultural labor (as defined in section 3121(g)) unless the remuneration paid for such labor is wages (as defined in section 3121(a)); or
+(2) for agricultural labor (as defined in section 3121(g)) unless the remuneration paid for such labor is wages (as defined in section 3121(a)),
 
-(3) for domestic service in a private home, local college club, or local chapter of a college fraternity or sorority; or
+(3) for domestic service in a private home, local college club, or local chapter of a college fraternity or sorority,
 
 (4) for service not in the course of the employer’s trade or business performed in any calendar quarter by an employee, unless the cash remuneration paid for such service is $50 or more and such service is performed by an individual who is regularly employed by such employer to perform such service. For purposes of this paragraph, an individual shall be deemed to be regularly employed by an employer during a calendar quarter only if—
 
-  (A) on each of some 24 days during such quarter such individual performs for such employer for some portion of the day service not in the course of the employer’s trade or business; or
+  (A) on each of some 24 days during such quarter such individual performs for such employer for some portion of the day service not in the course of the employer’s trade or business, or
 
-  (B) such individual was regularly employed (as determined under subparagraph (A)) by such employer in the performance of such service during the preceding calendar quarter; or
+  (B) such individual was regularly employed (as determined under subparagraph (A)) by such employer in the performance of such service during the preceding calendar quarter,
 
-(5) for services by a citizen or resident of the United States for a foreign government or an international organization; or
+(5) for services by a citizen or resident of the United States for a foreign government or an international organization,
 
-(6) for such services, performed by a nonresident alien individual, as may be designated by regulations prescribed by the Secretary; or
+(6) for such services, performed by a nonresident alien individual, as may be designated by regulations prescribed by the Secretary,
 
 (7) Repealed. Pub. L. 89–809, title I, § 103(k), Nov. 13, 1966, 80 Stat. 1554]
 
@@ -32,66 +32,66 @@ source: >-
 
   (A) for services for an employer (other than the United States or any agency thereof)—
 
-    (i) performed by a citizen of the United States if, at the time of the payment of such remuneration, it is reasonable to believe that such remuneration will be excluded from gross income under section 911; or
+    (i) performed by a citizen of the United States if, at the time of the payment of such remuneration, it is reasonable to believe that such remuneration will be excluded from gross income under section 911, or
 
-    (ii) performed in a foreign country or in a possession of the United States by such a citizen if, at the time of the payment of such remuneration, the employer is required by the law of any foreign country or possession of the United States to withhold income tax upon such remuneration; or
+    (ii) performed in a foreign country or in a possession of the United States by such a citizen if, at the time of the payment of such remuneration, the employer is required by the law of any foreign country or possession of the United States to withhold income tax upon such remuneration,
 
-  (B) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within a possession of the United States (other than Puerto Rico), if it is reasonable to believe that at least 80 percent of the remuneration to be paid to the employee by such employer during the calendar year will be for such services; or
+  (B) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within a possession of the United States (other than Puerto Rico), if it is reasonable to believe that at least 80 percent of the remuneration to be paid to the employee by such employer during the calendar year will be for such services,
 
-  (C) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believe that during the entire calendar year the employee will be a bona fide resident of Puerto Rico; or
+  (C) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believe that during the entire calendar year the employee will be a bona fide resident of Puerto Rico, or
 
-  (D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States (or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
+  (D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States (or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession,
 
-(9) for services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order; or
+(9) for services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order,
 
 (10)
 
-  (A) for services performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution; or
+  (A) for services performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution, or
 
-  (B) for services performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such services, or is entitled to be credited with the unsold newspapers or magazines turned back; or
+  (B) for services performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such services, or is entitled to be credited with the unsold newspapers or magazines turned back,
 
-(11) for services not in the course of the employer’s trade or business, to the extent paid in any medium other than cash; or
+(11) for services not in the course of the employer’s trade or business, to the extent paid in any medium other than cash,
 
 (12) to, or on behalf of, an employee or his beneficiary—
 
-  (A) from or to a trust described in section 401(a) which is exempt from tax under section 501(a) at the time of such payment unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust; or
+  (A) from or to a trust described in section 401(a) which is exempt from tax under section 501(a) at the time of such payment unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust,
 
-  (B) under or to an annuity plan which, at the time of such payment, is a plan described in section 403(a); or
+  (B) under or to an annuity plan which, at the time of such payment, is a plan described in section 403(a),
 
-  (C) for a payment described in section 402(h)(1) and (2) if, at the time of such payment, it is reasonable to believe that the employee will be entitled to an exclusion under such section for payment; or
+  (C) for a payment described in section 402(h)(1) and (2) if, at the time of such payment, it is reasonable to believe that the employee will be entitled to an exclusion under such section for payment,
 
-  (D) under an arrangement to which section 408(p) applies; or
+  (D) under an arrangement to which section 408(p) applies, or
 
-  (E) under or to an eligible deferred compensation plan which, at the time of such payment, is a plan described in section 457(b) which is maintained by an eligible employer described in section 457(e)(1)(A),11 So in original. The comma probably should be a semicolon. or
+  (E) under or to an eligible deferred compensation plan which, at the time of such payment, is a plan described in section 457(b) which is maintained by an eligible employer described in section 457(e)(1)(A),
 
-(13) pursuant to any provision of law other than section 5(c) or 6(1) of the Peace Corps Act, for service performed as a volunteer or volunteer leader within the meaning of such Act; or
+(13) pursuant to any provision of law other than section 5(c) or 6(1) of the Peace Corps Act, for service performed as a volunteer or volunteer leader within the meaning of such Act,
 
-(14) in the form of group-term life insurance on the life of an employee; or
+(14) in the form of group-term life insurance on the life of an employee,
 
-(15) to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n)); or
+(15) to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n)),
 
 (16)
 
-  (A) as tips in any medium other than cash;
+  (A) as tips in any medium other than cash,
 
-  (B) as cash tips to an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is $20 or more; 22 So in original. Probably should be followed by “or”.
+  (B) as cash tips to an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is $20 or more,
 
-(17) for service described in section 3121(b)(20); 2
+(17) for service described in section 3121(b)(20),
 
-(18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5); 2
+(18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5),
 
-(19) for any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132; 2
+(19) for any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132,
 
-(20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)); 2
+(20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)),
 
-(21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); 2
+(21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b),
 
-(22) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d); or
+(22) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d), or
 
 (23) for any benefit or payment which is excludable from the gross income of the employee under section 139B(b).
 The term “wages” includes any amount includible in gross income of an employee under section 409A and payment of such amount shall be treated as having been made in the taxable year in which the amount is so includible.
 
-**(b) Payroll period** For purposes of this chapter, the term “payroll period” means a period for which a payment of wages is ordinarily made to the employee by his employer, and the term “miscellaneous payroll period” means a payroll period other than a daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannual or annual payroll period.
+**(b) Payroll period** For purposes of this chapter, the term “payroll period” means a period for which a payment of wages is ordinarily made to the employee by his employer, and the term “miscellaneous payroll period” means a payroll period other than a daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannual, or annual payroll period.
 
 **(c) Employee** For purposes of this chapter, the term “employee” includes an officer, employee, or elected official of the United States, a State, or any political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing. The term “employee” also includes an officer of a corporation.
 
@@ -101,7 +101,7 @@ The term “wages” includes any amount includible in gross income of an employ
 
 (2) in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term “employer” (except for purposes of subsection (a)) means such person.
 
-**(e) Number of withholding exemptions claimed** For purposes of this chapter, the term “number of withholding exemptions claimed” means the number of withholding exemptions claimed in a withholding exemption certificate in effect under section 3402(f), or in effect under the corresponding section of prior law, except that if no such certificate is in effect, the number of withholding exemptions claimed shall be considered to be zero.
+**(e) Repealed. Pub. L. 115–97, title I, § 11041(c)(2)(A), Dec. 22, 2017, 131 Stat. 2082]**
 
 **(f) Tips** For purposes of subsection (a), the term “wages” includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
 
@@ -117,12 +117,24 @@ The term “wages” includes any amount includible in gross income of an employ
 
   (B) represents all or a portion of the wages the individual would have received from the employer if the individual were performing service for the employer.
 
+**(i) Qualified stock for which an election is in effect under section 83(i)** For purposes of subsection (a), qualified stock (as defined in section 83(i)) with respect to which an election is made under section 83(i) shall be treated as wages—
+
+(1) received on the earliest date described in section 83(i)(1)(B), and
+
+(2) in an amount equal to the amount included in income under section 83 for the taxable year which includes such date.
+
 ### Statutory Notes
 
 #### References in Text
 Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), are classified to sections 2504(c) and 2505(1), respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–141 made numerous technical amendments to pars. and subpars. throughout subsec. (a), resulting in the appearance of a comma or “, or” at end.
+
+2017—Subsec. (e). Pub. L. 115–97, § 11041(c)(2)(A), struck out subsec. (e). Text read as follows: “For purposes of this chapter, the term ‘number of withholding exemptions claimed’ means the number of withholding exemptions claimed in a withholding exemption certificate in effect under section 3402(f), or in effect under the corresponding section of prior law, except that if no such certificate is in effect, the number of withholding exemptions claimed shall be considered to be zero.”
+
+Subsec. (i). Pub. L. 115–97, § 13603(b)(1), added subsec. (i).
+
 2008—Subsec. (a)(23). Pub. L. 110–245, § 115(c), added par. (23).
 
 Subsec. (h). Pub. L. 110–245, § 105(a)(1), added subsec. (h).
@@ -222,6 +234,11 @@ Subsec. (a)(15). Pub. L. 88–272, § 213(c), added par. (15).
 Subsec. (a)(13). Pub. L. 87–293 added par. (13).
 
 1955—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
+
+#### Effective Date of 2017 Amendment
+Amendment by section 11041(c)(2)(A) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11041(f)(1) of Pub. L. 115–97, set out as a note under [section 151 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-151).
+
+Amendment by section 13603(b)(1) of Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stock units settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under [section 83 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-83).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–245, title I, § 105(a)(2), June 17, 2008, 122 Stat. 1628, provided that: “The amendment made by this subsection [amending this section] shall apply to remuneration paid after December 31, 2008.”
@@ -361,13 +378,13 @@ Pub. L. 95–600, title V, § 530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pu
 
   (B) be in such form, and provide for such amounts to be deducted and withheld, as the Secretary determines to be most appropriate to carry out the purposes of this chapter and to reflect the provisions of chapter 1 applicable to such periods.
 
-(2) **Amount of wages** — For purposes of applying tables or procedures prescribed under paragraph (1), the term “the amount of wages” means the amount by which the wages exceed the number of withholding exemptions claimed multiplied by the amount of one such exemption. The amount of each withholding exemption shall be equal to the amount of one personal exemption provided in section 151(b), prorated to the payroll period. The maximum number of withholding exemptions permitted shall be calculated in accordance with regulations prescribed by the Secretary under this section, taking into account any reduction in withholding to which an employee is entitled under this section.
+(2) **Amount of wages** — For purposes of applying tables or procedures prescribed under paragraph (1), the term “the amount of wages” means the amount by which the wages exceed the taxpayer’s withholding allowance, prorated to the payroll period.
 
 **(b) Percentage method of withholding**
 
-(1) If wages are paid with respect to a period which is not a payroll period, the withholding exemption allowable with respect to each payment of such wages shall be the exemption allowed for a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
+(1) If wages are paid with respect to a period which is not a payroll period, the withholding allowance allowable with respect to each payment of such wages shall be the allowance allowed for a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
 
-(2) In any case in which wages are paid by an employer without regard to any payroll period or other period, the withholding exemption allowable with respect to each payment of such wages shall be the exemption allowed for a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
+(2) In any case in which wages are paid by an employer without regard to any payroll period or other period, the withholding allowance allowable with respect to each payment of such wages shall be the allowance allowed for a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
 
 (3) In any case in which the period, or the time described in paragraph (2), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to compute the tax to be deducted and withheld as if the aggregate of the wages paid to the employee during the calendar week were paid for a weekly payroll period.
 
@@ -391,48 +408,49 @@ Pub. L. 95–600, title V, § 530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pu
 
 **(e) Included and excluded wages** If the remuneration paid by an employer to an employee for services performed during one-half or more of any payroll period of not more than 31 consecutive days constitutes wages, all the remuneration paid by such employer to such employee for such period shall be deemed to be wages; but if the remuneration paid by an employer to an employee for services performed during more than one-half of any such payroll period does not constitute wages, then none of the remuneration paid by such employer to such employee for such period shall be deemed to be wages.
 
-**(f) Withholding exemptions**
+**(f) Withholding allowance**
 
-(1) **In general** — An employee receiving wages shall on any day be entitled to the following withholding exemptions:
+(1) **In general** — Under rules determined by the Secretary, an employee receiving wages shall on any day be entitled to a withholding allowance determined based on—
 
-  (A) an exemption for himself unless he is an individual described in section 151(d)(2);
+  (A) whether the employee is an individual for whom a deduction is allowable with respect to another taxpayer under section 151;
 
-  (B) if the employee is married, any exemption to which his spouse is entitled, or would be entitled if such spouse were an employee receiving wages, under subparagraph (A) or (D), but only if such spouse does not have in effect a withholding exemption certificate claiming such exemption;
+  (B) if the employee is married, whether the employee’s spouse is entitled to an allowance, or would be so entitled if such spouse were an employee receiving wages, under subparagraph (A) or (D), but only if such spouse does not have in effect a withholding allowance certificate claiming such allowance;
 
-  (C) an exemption for each individual with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable an exemption under section 151(c) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
+  (C) the number of individuals with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable a credit under section 24(a) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
 
-  (D) any allowance to which he is entitled under subsection (m), but only if his spouse does not have in effect a withholding exemption certificate claiming such allowance; and
+  (D) any additional amounts to which the employee elects to take into account under subsection (m), but only if the employee’s spouse does not have in effect a withholding allowance certificate making such an election;
 
-  (E) a standard deduction allowance which shall be an amount equal to one exemption (or more than one exemption if so prescribed by the Secretary) unless (i) he is married (as determined under section 7703) and his spouse is an employee receiving wages subject to withholding or (ii) he has withholding exemption certificates in effect with respect to more than one employer.
-  For purposes of this title, any standard deduction allowance under subparagraph (E) shall be treated as if it were denominated a withholding exemption.
+  (E) the standard deduction allowable to such employee (one-half of such standard deduction in the case of an employee who is married (as determined under section 7703) and whose spouse is an employee receiving wages subject to withholding); and
 
-(2) **Exemption certificates**
+  (F) whether the employee has withholding allowance certificates in effect with respect to more than 1 employer.
 
-  (A) *On commencement of employment* — On or before the date of the commencement of employment with an employer, the employee shall furnish the employer with a signed withholding exemption certificate relating to the number of withholding exemptions which he claims, which shall in no event exceed the number to which he is entitled.
+(2) **Allowance certificates**
 
-  (B) *Change of status* — If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is less than the number of withholding exemptions claimed by the employee on the withholding exemption certificate then in effect with respect to him, the employee shall within 10 days thereafter furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day. If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is greater than the number of withholding exemptions claimed, the employee may furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day.
+  (A) *On commencement of employment* — On or before the date of the commencement of employment with an employer, the employee shall furnish the employer with a signed withholding allowance certificate relating to the withholding allowance claimed by the employee, which shall in no event exceed the amount to which the employee is entitled.
 
-  (C) *Change of status which affects next calendar year* — If on any day during the calendar year the number of withholding exemptions to which the employee will be, or may reasonably be expected to be, entitled at the beginning of his next taxable year under subtitle A is different from the number to which the employee is entitled on such day, the employee shall, in such cases and at such times as the Secretary may by regulations prescribe, furnish the employer with a withholding exemption certificate relating to the number of withholding exemptions which he claims with respect to such next taxable year, which shall in no event exceed the number to which he will be, or may reasonably be expected to be, so entitled.
+  (B) *Change of status* — If, on any day during the calendar year, an employee’s withholding allowance is in excess of the withholding allowance to which the employee would be entitled had the employee submitted a true and accurate withholding allowance certificate to the employer on that day, the employee shall within 10 days thereafter furnish the employer with a new withholding allowance certificate. If, on any day during the calendar year, an employee’s withholding allowance is greater than the withholding allowance claimed, the employee may furnish the employer with a new withholding allowance certificate relating to the withholding allowance to which the employee is so entitled, which shall in no event exceed the amount to which the employee is entitled on such day.
+
+  (C) *Change of status which affects next calendar year* — If on any day during the calendar year the withholding allowance to which the employee will be, or may reasonably be expected to be, entitled at the beginning of the employee’s next taxable year under subtitle A is different from the allowance to which the employee is entitled on such day, the employee shall, in such cases and at such times as the Secretary shall by regulations prescribe, furnish the employer with a withholding allowance certificate relating to the withholding allowance which the employee claims with respect to such next taxable year, which shall in no event exceed the withholding allowance to which the employee will be, or may reasonably be expected to be, so entitled.
 
 (3) **When certificate takes effect**
 
-  (A) *First certificate furnished* — A withholding exemption certificate furnished the employer in cases in which no previous such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.
+  (A) *First certificate furnished* — A withholding allowance certificate furnished the employer in cases in which no previous such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.
 
   (B) *Furnished to take place of existing certificate*
 
-    (i) *In general* — Except as provided in clauses (ii) and (iii), a withholding exemption certificate furnished to the employer in cases in which a previous such certificate is in effect shall take effect as of the beginning of the 1st payroll period ending (or the 1st payment of wages made without regard to a payroll period) on or after the 30th day after the day on which such certificate is so furnished.
+    (i) *In general* — Except as provided in clauses (ii) and (iii), a withholding allowance certificate furnished to the employer in cases in which a previous such certificate is in effect shall take effect as of the beginning of the 1st payroll period ending (or the 1st payment of wages made without regard to a payroll period) on or after the 30th day after the day on which such certificate is so furnished.
 
     (ii) *Employer may elect earlier effective date* — At the election of the employer, a certificate described in clause (i) may be made effective beginning with any payment of wages made on or after the day on which the certificate is so furnished and before the 30th day referred to in clause (i).
 
     (iii) *Change of status which affects next year* — Any certificate furnished pursuant to paragraph (2)(C) shall not take effect, and may not be made effective, with respect to any payment of wages made in the calendar year in which the certificate is furnished.
 
-(4) **Period during which certificate remains in effect** — A withholding exemption certificate which takes effect under this subsection, or which on December 31, 1954, was in effect under the corresponding subsection of prior law, shall continue in effect with respect to the employer until another such certificate takes effect under this subsection.
+(4) **Period during which certificate remains in effect** — A withholding allowance certificate which takes effect under this subsection, or which on December 31, 1954, was in effect under the corresponding subsection of prior law, shall continue in effect with respect to the employer until another such certificate takes effect under this subsection.
 
-(5) **Form and contents of certificate** — Withholding exemption certificates shall be in such form and contain such information as the Secretary may by regulations prescribe.
+(5) **Form and contents of certificate** — Withholding allowance certificates shall be in such form and contain such information as the Secretary may by regulations prescribe.
 
-(6) **Exemption of certain nonresident aliens** — Notwithstanding the provisions of paragraph (1), a nonresident alien individual (other than an individual described in section 3401(a)(6)(A) or (B)) shall be entitled to only one withholding exemption.
+(6) **Exemption of certain nonresident aliens** — Notwithstanding the provisions of paragraph (1), a nonresident alien individual (other than an individual described in section 3401(a)(6)(A) or (B) 11 See References in Text note below. ) shall be entitled to only one withholding exemption.
 
-(7) **Exemption where certificate with another employer is in effect** — If a withholding exemption certificate is in effect with respect to one employer, an employee shall not be entitled under a certificate in effect with any other employer to any withholding exemption which he has claimed under such first certificate.
+(7) **Allowance where certificate with another employer is in effect** — If a withholding allowance certificate is in effect with respect to one employer, an employee shall not be entitled under a certificate in effect with any other employer to any withholding allowance which he has claimed under such first certificate.
 
 **(g) Overlapping pay periods, and payment by agent or fiduciary** If a payment of wages is made to an employee by an employer—
 
@@ -443,7 +461,7 @@ Pub. L. 95–600, title V, § 530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pu
 (3) with respect to a period beginning in one and ending in another calendar year, or
 
 (4) through an agent, fiduciary, or other person who also has the control, receipt, custody, or disposal of, or pays, the wages payable by another employer to such employee,
-the manner of withholding and the amount to be deducted and withheld under this chapter shall be determined in accordance with regulations prescribed by the Secretary under which the withholding exemption allowed to the employee in any calendar year shall approximate the withholding exemption allowable with respect to an annual payroll period.
+the manner of withholding and the amount to be deducted and withheld under this chapter shall be determined in accordance with regulations prescribed by the Secretary under which the withholding allowance allowed to the employee in any calendar year shall approximate the withholding allowance allowable with respect to an annual payroll period.
 
 **(h) Alternative methods of computing amount to be withheld** The Secretary may, under regulations prescribed by him, authorize—
 
@@ -489,9 +507,9 @@ the manner of withholding and the amount to be deducted and withheld under this 
 
 **(l) Determination and disclosure of marital status**
 
-(1) **Determination of status by employer** — For purposes of applying the tables in subsections (a) and (c) to a payment of wages, the employer shall treat the employee as a single person unless there is in effect with respect to such payment of wages a withholding exemption certificate furnished to the employer by the employee after the date of the enactment of this subsection indicating that the employee is married.
+(1) **Determination of status by employer** — For purposes of applying the tables in subsections (a) and (c) to a payment of wages, the employer shall treat the employee as a single person unless there is in effect with respect to such payment of wages a withholding allowance certificate furnished to the employer by the employee after the date of the enactment of this subsection indicating that the employee is married.
 
-(2) **Disclosure of status by employee** — An employee shall be entitled to furnish the employer with a withholding exemption certificate indicating he is married only if, on the day of such furnishing, he is married (determined with the application of the rules in paragraph (3)). An employee whose marital status changes from married to single shall, at such time as the Secretary may by regulations prescribe, furnish the employer with a new withholding exemption certificate.
+(2) **Disclosure of status by employee** — An employee shall be entitled to furnish the employer with a withholding allowance certificate indicating he is married only if, on the day of such furnishing, he is married (determined with the application of the rules in paragraph (3)). An employee whose marital status changes from married to single shall, at such time as the Secretary may by regulations prescribe, furnish the employer with a new withholding allowance certificate.
 
 (3) **Determination of marital status** — For purposes of paragraph (2), an employee shall on any day be considered—
 
@@ -499,15 +517,15 @@ the manner of withholding and the amount to be deducted and withheld under this 
 
   (B) as married, if (i) his spouse (other than a spouse referred to in subparagraph (A)) died within the portion of his taxable year which precedes such day, or (ii) his spouse died during one of the two taxable years immediately preceding the current taxable year and, on the basis of facts existing at the beginning of such day, the employee reasonably expects, at the close of his taxable year, to be a surviving spouse (as defined in section 2(a)).
 
-**(m) Withholding allowances** Under regulations prescribed by the Secretary, an employee shall be entitled to additional withholding allowances or additional reductions in withholding under this subsection. In determining the number of additional withholding allowances or the amount of additional reductions in withholding under this subsection, the employee may take into account (to the extent and in the manner provided by such regulations)—
+**(m) Withholding allowances** Under regulations prescribed by the Secretary, an employee shall be entitled to an additional withholding allowance or additional reductions in withholding under this subsection. In determining the additional withholding allowance or the amount of additional reductions in withholding under this subsection, the employee may take into account (to the extent and in the manner provided by such regulations)—
 
-(1) estimated itemized deductions allowable under chapter 1 (other than the deductions referred to in section 151 and other than the deductions required to be taken into account in determining adjusted gross income under section 62(a) (other than paragraph (10) thereof)),
+(1) 22 See Amendment of Subsection (m)(1) note below. estimated itemized deductions allowable under chapter 1 and the estimated deduction allowed under section 199A (other than the deductions referred to in section 151 and other than the deductions required to be taken into account in determining adjusted gross income under section 62(a) (other than paragraph (10) thereof)),
 
 (2) estimated tax credits allowable under chapter 1, and
 
 (3) such additional deductions (including the additional standard deduction under section 63(c)(3) for the aged and blind) and other items as may be specified by the Secretary in regulations.
 
-**(n) Employees incurring no income tax liability** Notwithstanding any other provision of this section, an employer shall not be required to deduct and withhold any tax under this chapter upon a payment of wages to an employee if there is in effect with respect to such payment a withholding exemption certificate (in such form and containing such other information as the Secretary may prescribe) furnished to the employer by the employee certifying that the employee—
+**(n) Employees incurring no income tax liability** Notwithstanding any other provision of this section, an employer shall not be required to deduct and withhold any tax under this chapter upon a payment of wages to an employee if there is in effect with respect to such payment a withholding allowance certificate (in such form and containing such other information as the Secretary may prescribe) furnished to the employer by the employee certifying that the employee—
 
 (1) incurred no liability for income tax imposed under subtitle A for his preceding taxable year, and
 
@@ -567,13 +585,13 @@ The Secretary shall by regulations provide for the coordination of the provision
 
   (A) *In general* — If, at the time a specified Federal payment is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee.
 
-  (B) *Amount withheld* — The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7 percent, any percentage applicable to any of the 3 lowest income brackets in the table under section 1(c), or such other percentage as is permitted under regulations prescribed by the Secretary.
+  (B) *Amount withheld* — The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7 percent, any percentage applicable to any of the 3 lowest income brackets in the table under section 1(c),1 or such other percentage as is permitted under regulations prescribed by the Secretary.
 
   (C) *Specified Federal payments* — For purposes of this paragraph, the term “specified Federal payment” means—
 
     (i) any payment of a social security benefit (as defined in section 86(d)),
 
-    (ii) any payment referred to in the second sentence of section 451(d) which is treated as insurance proceeds,
+    (ii) any payment referred to in the second sentence of section 451(d) 1 which is treated as insurance proceeds,
 
     (iii) any amount which is includible in gross income under section 77(a), and
 
@@ -592,7 +610,7 @@ The Secretary shall by regulations provide for the coordination of the provision
 
 **(q) Extension of withholding to certain gambling winnings**
 
-(1) **General rule** — Every person, including the Government of the United States, a State, or a political subdivision thereof, or any instrumentalities of the foregoing, making any payment of winnings which are subject to withholding shall deduct and withhold from such payment a tax in an amount equal to the product of the third lowest rate of tax applicable under section 1(c) and such payment.
+(1) **General rule** — Every person, including the Government of the United States, a State, or a political subdivision thereof, or any instrumentalities of the foregoing, making any payment of winnings which are subject to withholding shall deduct and withhold from such payment a tax in an amount equal to the product of the third lowest rate of tax applicable under section 1(c) 1 and such payment.
 
 (2) **Exemption where tax otherwise withheld** — In the case of any payment of winnings which are subject to withholding made to a nonresident alien individual or a foreign corporation, the tax imposed under paragraph (1) shall not apply to any such payment subject to tax under section 1441(a) (relating to withholding on nonresident aliens) or tax under section 1442(a) (relating to withholding on foreign corporations).
 
@@ -614,7 +632,7 @@ The Secretary shall by regulations provide for the coordination of the provision
 
   (B) proceeds which are not money shall be taken into account at their fair market value.
 
-(5) **Exception for bingo, keno, and slot machines** — The tax imposed under paragraph (1) shall not apply to winnings from a slot machine, keno, and bingo.
+(5) **Exemption for bingo, keno, and slot machines** — The tax imposed under paragraph (1) shall not apply to winnings from a slot machine, keno, and bingo.
 
 (6) **Statement by recipient** — Every person who is to receive a payment of winnings which are subject to withholding shall furnish the person making such payment a statement, made under the penalties of perjury, containing the name, address, and taxpayer identification number of the person receiving the payment and of each person entitled to any portion of such payment.
 
@@ -626,11 +644,11 @@ The Secretary shall by regulations provide for the coordination of the provision
 
 (2) **Exception** — The tax imposed by paragraph (1) shall not apply to any payment to the extent that the payment, when annualized, does not exceed an amount equal to the sum of—
 
-  (A) the basic standard deduction (as defined in section 63(c)) for an individual to whom section 63(c)(2)(C) 11 See References in Text note below. applies, and
+  (A) the basic standard deduction (as defined in section 63(c)) for an individual to whom section 63(c)(2)(C) 1 applies, and
 
   (B) the exemption amount (as defined in section 151(d)).
 
-(3) **Annualized tax** — For purposes of paragraph (1), the term “annualized tax” means, with respect to any payment, the amount of tax which would be imposed by section 1(c) (determined without regard to any rate of tax in excess of the fourth lowest rate of tax applicable under section 1(c)) on an amount of taxable income equal to the excess of—
+(3) **Annualized tax** — For purposes of paragraph (1), the term “annualized tax” means, with respect to any payment, the amount of tax which would be imposed by section 1(c) 1 (determined without regard to any rate of tax in excess of the fourth lowest rate of tax applicable under section 1(c) 1 ) on an amount of taxable income equal to the excess of—
 
   (A) the annualized amount of such payment, over
 
@@ -656,10 +674,29 @@ The Secretary shall by regulations provide for the coordination of the provision
 
   (B) which consists of providing a highway motor vehicle for the use of the employee.
 
+**(t) Rate of withholding for certain stock** In the case of any qualified stock (as defined in section 83(i)(2)) with respect to which an election is made under section 83(i)—
+
+(1) the rate of tax under subsection (a) shall not be less than the maximum rate of tax in effect under section 1, and
+
+(2) such stock shall be treated for purposes of section 3501(b) in the same manner as a non-cash fringe benefit.
+
 ### Statutory Notes
 
+#### Amendment of Subsection (m)(1)
+Pub. L. 115–97, title I, § 11051(b)(2)(B), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, amended subsection (m)(1) of this section, applicable to any divorce or separation instrument (as defined in former [section 71(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section71/b/2&num=0&edition=prelim) as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (m)(1) reads as follows:
+
+(1) estimated itemized deductions allowable under chapter 1 and the estimated deduction allowed under section 199A (other than the deductions referred to in section 151 and other than the deductions required to be taken into account in determining adjusted gross income under section 62(a)),
+
+See 2017 Amendment note below.
+
 #### References in Text
+Paragraph (6) of section 3401(a), referred to in subsec. (f)(6), was struck out and a new paragraph (6) was added by Pub. L. 89–809, title I, § 103(k), Nov. 13, 1966, 80 Stat. 1554.
+
 The date of the enactment of this subsection, referred to in subsec. (l)(1), is the date of enactment of Pub. L. 89–368, which was approved Mar. 15, 1966.
+
+Section 1(c), referred to in subsecs. (p)(1)(B), (q)(1), and (r)(3), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under [section 1(j)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1/j/2/C&num=0&edition=prelim), with additional exception for reference in subsec. (q)(1), see [section 1(j)(2)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1/j/2/F&num=0&edition=prelim).
+
+Section 451(d), referred to in subsec. (p)(1)(C)(ii), was redesignated section 451(f) by Pub. L. 115–97, title I, § 13221(a), (b), Dec. 22, 2017, 131 Stat. 2113, 2115.
 
 Section 63(c)(2)(C), referred to in subsec. (r)(2)(A), was redesignated section 63(c)(2)(D), and a new section 63(c)(2)(C) was added, by Pub. L. 107–147, title IV, § 411(e)(1)(C), (D), Mar. 9, 2002, 116 Stat. 46.
 
@@ -668,6 +705,34 @@ Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (r)(4), is
 The date of the enactment of this subsection, referred to in subsec. (r)(4), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+2017—Subsec. (a)(2). Pub. L. 115–97, § 11041(c)(1), substituted “means the amount by which the wages exceed the taxpayer’s withholding allowance, prorated to the payroll period.” for “means the amount by which the wages exceed the number of withholding exemptions claimed multiplied by the amount of one such exemption. The amount of each withholding exemption shall be equal to the amount of one personal exemption provided in section 151(b), prorated to the payroll period. The maximum number of withholding exemptions permitted shall be calculated in accordance with regulations prescribed by the Secretary under this section, taking into account any reduction in withholding to which an employee is entitled under this section.”
+
+Subsec. (b)(1), (2). Pub. L. 115–97, § 11041(c)(2)(C), substituted “allowance” for “exemption” in two places.
+
+Subsec. (f). Pub. L. 115–97, § 11041(c)(2)(D), substituted “allowance” for “exemptions” in heading.
+
+Subsec. (f)(1), (2). Pub. L. 115–97, § 11041(c)(2)(B), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) related to allowed withholding exemptions and withholding exemption certificates, respectively.
+
+Subsec. (f)(3) to (5). Pub. L. 115–97, § 11041(c)(2)(C), substituted “allowance” for “exemption” wherever appearing.
+
+Subsec. (f)(7). Pub. L. 115–97, § 11041(c)(2)(C), which directed substitution of “allowance” for “exemption” in heading, was executed by substituting “Allowance” for “Exemption” to reflect the probable intent of Congress.
+
+Pub. L. 115–97, § 11041(c)(2)(C), substituted “allowance” for “exemption” in two places.
+
+Subsec. (g). Pub. L. 115–97, § 11041(c)(2)(C), which directed amendment of par. (4) of subsec. (g) by substituting “allowance” for “exemption” wherever appearing, was executed to concluding provisions of subsec. (g) in two places to reflect the probable intent of Congress.
+
+Subsec. (l)(1), (2). Pub. L. 115–97, § 11041(c)(2)(C), substituted “allowance” for “exemption” wherever appearing.
+
+Subsec. (m). Pub. L. 115–97, § 11041(c)(2)(E), substituted “an additional withholding allowance or additional reductions in withholding under this subsection. In determining the additional withholding allowance” for “additional withholding allowances or additional reductions in withholding under this subsection. In determining the number of additional withholding allowances”.
+
+Subsec. (m)(1). Pub. L. 115–97, § 11051(b)(2)(B), struck out “(other than paragraph (10) thereof)” after “section 62(a)”.
+
+Pub. L. 115–97, § 11011(b)(4), inserted “and the estimated deduction allowed under section 199A” after “chapter 1”.
+
+Subsec. (n). Pub. L. 115–97, § 11041(c)(2)(C), substituted “allowance” for “exemption” in introductory provisions.
+
+Subsec. (t). Pub. L. 115–97, § 13603(b)(2), added subsec. (t).
+
 2011—Subsec. (t). Pub. L. 112–56 struck out subsec. (t) which related to extension of 3 percent withholding to certain payments made by Government entities for property or services.
 
 2006—Subsec. (t). Pub. L. 109–222 added subsec. (t).
@@ -916,6 +981,15 @@ Subsec. (c)(1). Pub. L. 88–272, § 302(b), substituted new tables reflecting l
 
 Subsec. (j). Act Aug. 9, 1955, § 2(b), added subsec. (j).
 
+#### Effective Date of 2017 Amendment
+Amendment by section 11011(b)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
+
+Amendment by section 11041(c)(1), (2)(B)–(E) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with allowance for Secretary of the Treasury to administer this section for taxable years beginning before Jan. 1, 2019, without regard to the amendments made by subsecs. (a) and (c) of Pub. L. 115–97, see section 11041(f) of Pub. L. 115–97, set out as a note under [section 151 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-151).
+
+Amendment by section 11051(b)(2)(B) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former [section 71(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section71/b/2&num=0&edition=prelim) as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under [section 61 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-61).
+
+Amendment by section 13603(b)(2) of Pub. L. 115–97 applicable to stock attributable to options exercised, or restricted stock units settled, after Dec. 31, 2017, see section 13603(f)(1) of Pub. L. 115–97, set out as a note under [section 83 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-83).
+
 #### Effective Date of 2011 Amendment
 Pub. L. 112–56, title I, § 102(b), Nov. 21, 2011, 125 Stat. 712, provided that: “The amendment made by this section [amending this section] shall apply to payments made after December 31, 2011.”
 
@@ -1075,9 +1149,9 @@ If the employer is the United States, or a State, or political subdivision there
 
 (2) **Election of no withholding** — An individual may elect to have paragraph (1) not apply with respect to periodic payments made to such individual. Such an election shall remain in effect until revoked by such individual.
 
-(3) **When election takes effect** — Any election under this subsection (and any revocation of such an election) shall take effect as provided by subsection (f)(3) of section 3402 for withholding exemption certificates.
+(3) **When election takes effect** — Any election under this subsection (and any revocation of such an election) shall take effect as provided by subsection (f)(3) of section 3402 for withholding allowance certificates.
 
-(4) **Amount withheld where no withholding exemption certificate in effect** — In the case of any payment with respect to which a withholding exemption certificate is not in effect, the amount withheld under paragraph (1) shall be determined by treating the payee as a married individual claiming 3 withholding exemptions.
+(4) **Amount withheld where no withholding allowance certificate in effect** — In the case of any payment with respect to which a withholding allowance certificate is not in effect, the amount withheld under paragraph (1) shall be determined under rules prescribed by the Secretary.
 
 **(b) Nonperiodic distribution**
 
@@ -1215,6 +1289,10 @@ If the employer is the United States, or a State, or political subdivision there
 Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B)(iii), is section 301(d) of Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, relating to plan requirements for taxpayers electing additional credits, which was set out as a note under [section 46 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-46) and was repealed by Pub. L. 95–600, title I, § 141(f)(1), Nov. 6, 1978, 92 Stat. 2795.
 
 #### Amendments
+2017—Subsec. (a)(3). Pub. L. 115–97, § 11041(c)(2)(F), substituted “allowance” for “exemption”.
+
+Subsec. (a)(4). Pub. L. 115–97, in heading, substituted “allowance” for “exemption” and in text, substituted “allowance” for “exemption” and “shall be determined under rules prescribed by the Secretary” for “shall be determined by treating the payee as a married individual claiming 3 withholding exemptions”.
+
 2001—Subsec. (c)(3). Pub. L. 107–16, § 641(a)(1)(D)(ii), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘eligible rollover distribution’ has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A)).”
 
 Subsec. (d)(2)(B)(iv). Pub. L. 107–16, § 641(a)(1)(D)(iii), added cl. (iv).
@@ -1264,6 +1342,9 @@ Pub. L. 98–369, § 542(c), added cl. (iii) relating to distributions described
 Subsec. (d)(8). Pub. L. 98–369, § 714(j)(5), freed from withholding requirement any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.
 
 Subsec. (d)(12). Pub. L. 98–369, § 722(h)(4), added par. (12).
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11041(f)(1) of Pub. L. 115–97, set out as a note under [section 151 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-151).
 
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402).
@@ -1316,7 +1397,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
   (C) there has been a notified payee underreporting described in subsection (c), or
 
   (D) there has been a payee certification failure described in subsection (d),
-  then the payor shall deduct and withhold from such payment a tax equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment.
+  then the payor shall deduct and withhold from such payment a tax equal to the product of the fourth lowest rate of tax applicable under section 1(c) 11 See References in Text note below. and such payment.
 
 (2) **Subparagraphs (C) and (D) of paragraph (1) apply only to interest and dividend payments** — Subparagraphs (C) and (D) of paragraph (1) shall apply only to reportable interest or dividend payments.
 
@@ -1394,7 +1475,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (B) the payee may be required to file a return for such year and to include a reportable interest or dividend payment in such return, but failed to file such return.
 
-(3) **Determination by secretary to stop (or not to start) withholding**
+(3) **Determination by Secretary to stop (or not to start) withholding**
 
   (A) *In general* — If the Secretary determines that—
 
@@ -1590,6 +1671,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 **(i) Regulations** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
 ### Statutory Notes
+
+#### References in Text
+Section 1(c), referred to in subsec. (a)(1), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under [section 1(j)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1/j/2/C&num=0&edition=prelim), see [section 1(j)(2)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1/j/2/F&num=0&edition=prelim).
 
 #### Amendments
 2008—Subsec. (b)(3)(F). Pub. L. 110–289 added subpar. (F).

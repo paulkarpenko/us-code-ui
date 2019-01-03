@@ -119,9 +119,6 @@ For penalties and other administrative provisions applicable to this subchapter,
 
 ### Statutory Notes
 
-#### Constitutionality
-For information regarding constitutionality of section 4411 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 1982—Pub. L. 97–362 designated existing provisions as subsec. (a), in subsec. (a), as so designated, substituted “liable for the tax imposed” for “liable for tax”, and added subsec. (b).
 
@@ -152,9 +149,6 @@ Pub. L. 93–499, § 3(d)(2), Oct. 29, 1974, 88 Stat. 1551, as amended by Pub. L
 **(c) Supplemental information** In accordance with regulations prescribed by the Secretary, the Secretary may require from time to time such supplemental information from any person required to register under this section as may be needful to the enforcement of this chapter.
 
 ### Statutory Notes
-
-#### Constitutionality
-For information regarding constitutionality of section 4412 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 1976—Subsec. (c). Pub. L. 94–455 substituted “the Secretary may” for “he or his delegate may”.

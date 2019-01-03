@@ -2,7 +2,7 @@
 title: 7
 chapter: '98'
 heading: DEPARTMENT OF AGRICULTURE REORGANIZATION
-section_count: 58
+section_count: 66
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -77,36 +77,22 @@ Except where the context requires otherwise, for purposes of this chapter:
 This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6901) and Tables.
 
 
-<a id="section-6913"></a>
-## § 6913. Transfer of Department functions to Secretary of Agriculture
-**(a) Transfer of functions** Except as provided in subsection (b), there are transferred to the Secretary of Agriculture all functions of all agencies, offices, officers, and employees of the Department that are not already vested in the Secretary on October 13, 1994.
-
-**(b) Exceptions** Subsection (a) shall not apply to the following functions:
-
-(1) Functions vested by subchapter II of chapter 5 of title 5 in administrative law judges employed by the Department.
-
-(2) Functions vested by the Inspector General Act of 1978 (5 U.S.C. App.) in the Inspector General of the Department.
-
-(3) Functions vested by chapter 9 of title 31 in the Chief Financial Officer of the Department.
-
-(4) Functions vested in the corporations of the Department or the boards of directors and officers of such corporations.
+<a id="section-6913-6914"></a>
+## § 6913, 6914. Repealed. Pub. L. 115–334, title XII, § 12414(a)(1), Dec. 20, 2018, 132 Stat. 4981
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section, Pub. L. 103–354, title II, § 211, Oct. 13, 1994, 108 Stat. 3209; Pub. L. 104–127, title VII, § 722(c), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 107–171, title VI, § 6201(d)(3), May 13, 2002, 116 Stat. 419, related to transfer of Department functions to Secretary of Agriculture.
 
-#### Amendments
-2002—Subsec. (b)(5). Pub. L. 107–171 struck out par. (5) which read as follows: “Functions vested in the Corporate Board of the Alternative Agricultural Research and Commercialization Corporation by the Alternative Agricultural Research and Commercialization Act of 1990 ([7 U.S.C. 5901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5901&num=0&edition=prelim) et seq.).”
-
-1996—Subsec. (b)(5). Pub. L. 104–127 substituted “Corporate Board of the Alternative Agricultural Research and Commercialization Corporation” for “Alternative Agricultural Research and Commercialization Board”.
+#### Construction of 2018 Amendment
+Pub. L. 115–334, title XII, § 12414(c), Dec. 20, 2018, 132 Stat. 4981, provided that: “Nothing in the amendments made by this section [repealing sections 6911, 6913, 6914, 6917, 6935, 6963, 6972, and 7013 of this title] shall be construed as affecting— “(1) the authority of the Secretary to continue to carry out a function vested in, and performed by, the Secretary as of the date of enactment of this Act [Dec. 20, 2018] under any provision of Federal law other than the provisions repealed by subsections (a) and (b); or “(2) the authority of an agency, office, officer, or employee of the Department of Agriculture to continue to perform all functions delegated or assigned to the agency, office, officer, or employee as of the date of enactment of this Act any provision of Federal law other than the provisions repealed by subsections (a) and (b).”
 
 
-<a id="section-6914"></a>
-## § 6914. Authority of Secretary to delegate transferred functions
+<a id="section-6915"></a>
+## § 6915. Authority of Secretary to delegate transferred functions
 **(a) Delegation of authority**
 
-(1) **Delegation authorized** — Subject to paragraph (2), the Secretary may delegate to any agency, office, officer, or employee of the Department the authority to perform any function transferred to the Secretary under [section 6911(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6911/a&num=0&edition=prelim) or any other function vested in the Secretary as of October 13, 1994. The authority provided in the preceding sentence includes the authority to establish, consolidate, alter, or discontinue any agency, office, or other administrative unit of the Department.
+(1) **Delegation authorized** — Subject to paragraph (2), the Secretary may delegate to any agency, office, officer, or employee of the Department the authority to perform any function transferred to the Secretary under section 6911(a) 11 See References in Text note below. of this title or any other function vested in the Secretary as of October 13, 1994. The authority provided in the preceding sentence includes the authority to establish, consolidate, alter, or discontinue any agency, office, or other administrative unit of the Department.
 
 (2) **Condition on authority** — The delegation authority provided by paragraph (1) shall be subject to—
 
@@ -149,6 +135,8 @@ The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95�
 ### Statutory Notes
 
 #### References in Text
+[Section 6911 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6911), referred to in subsec. (a)(1), was repealed by Pub. L. 115–334, title XII, § 12414(a)(1), Dec. 20, 2018, 132 Stat. 4981.
+
 This chapter, referred to in subsecs. (b)(2), (c), and (d)(1), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6901) and Tables.
 
 #### Codification
@@ -163,29 +151,14 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Amendment by section 7511(c)(27) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under [section 1522 of this title](./chapter-036-crop-insurance.md#section-1522).
 
 
-<a id="section-6915"></a>
-## § 6915. Reductions in number of Department personnel
-**(a) Definitions** For purposes of this section:
-
-(1) **Headquarters offices** — The term “headquarters offices”, with respect to agencies, offices, or other administrative units of the Department, means the offices, functions, and employee positions that are located or performed—
-
-  (A) in Washington, District of Columbia; or
-
-  (B) in such other locations as are identified by the Secretary for purposes of this section.
-
-(2) **Field structure** — The term “field structure” means the offices, functions, and employee positions of all agencies, offices, or other administrative units of the Department, other than the headquarters offices, except that the term does not include State, county, or area committees established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim). The term includes the physical and geographic locations of such agencies, offices, or other administrative units.
-
-**(b) Number of reductions required** The Secretary shall achieve Federal employee reductions of at least 7,500 staff years within the Department by the end of fiscal year 1999. Reductions in the number of full-time equivalent positions within the Department achieved under section 5 of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 108 Stat. 115; [5 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim) note) shall be counted toward the employee reductions required under this section.
-
-**(c) Emphasis on headquarters offices reductions** In achieving the employee reductions required by subsection (b), the Secretary shall pursue a goal so that the percentage of the total number of employee staff years reduced in headquarters offices is at least twice the percentage of the total number of employee staff years reduced in the field structure.
-
-**(d) Schedule** The personnel reductions in headquarters offices and in the field structure should be accomplished concurrently in a manner determined by the Secretary.
-
-
 <a id="section-6916"></a>
-## § 6916. Consolidation of headquarters offices
+## § 6916. Repealed. Pub. L. 115–334, title XII, § 12414(a)(2), (3), Dec. 20, 2018, 132 Stat. 4981
 
-Subject to the availability of appropriated funds for this purpose, the Secretary shall develop and carry out a plan to consolidate offices located in Washington, District of Columbia, of agencies, offices, and other administrative units of the Department.
+### Statutory Notes
+
+Section 6913, Pub. L. 103–354, title II, § 213, Oct. 13, 1994, 108 Stat. 3211, related to reductions in number of Department personnel.
+
+Section 6914, Pub. L. 103–354, title II, § 214, Oct. 13, 1994, 108 Stat. 3211, related to consolidation of headquarters offices.
 
 
 <a id="section-6917"></a>
@@ -202,19 +175,18 @@ Whenever the Secretary procures or uses computer systems, as may be provided for
 
 
 <a id="section-6919"></a>
-## § 6919. Reports by Secretary
-**(a) In general** Subject to subsection (b), notwithstanding any other provision of law, the Secretary may, but shall not be required to, prepare and submit any report solely to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+## § 6919. Repealed. Pub. L. 115–334, title XII, § 12414(a)(4), Dec. 20, 2018, 132 Stat. 4981
 
-**(b) Limitation** For each fiscal year, the Secretary may not prepare and submit more than 30 reports referred to in subsection (a).
+### Statutory Notes
 
-**(c) Selection of reports** In consultation with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary shall determine which reports, if any, the Secretary will prepare and submit in accordance with subsection (b).
+Section, Pub. L. 103–354, title II, § 217, Oct. 13, 1994, 108 Stat. 3212, related to reports by Secretary.
 
 
 <a id="section-6920"></a>
 ## § 6920. Assistant Secretaries of Agriculture
 **(a) Authorization** The Secretary is authorized to establish in the Department the positions of—
 
-(1) Assistant Secretary of Agriculture for Congressional Relations;
+(1) Assistant Secretary of Agriculture for Congressional Relations and Intergovernmental Affairs;
 
 (2) Assistant Secretary of Agriculture for Administration; and
 
@@ -233,6 +205,10 @@ Whenever the Secretary procures or uses computer systems, as may be provided for
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–334, § 12401(a), substituted “Relations and Intergovernmental Affairs” for “Relations”.
+
+Subsecs. (c), (d). Pub. L. 115–334, § 12415(b)(1), amended this section, as in effect on the day before the effective date of the amendments made by section 2(a)(1) of Pub. L. 112–166, by redesignating subsec. (d) as (c) and striking out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Any official who is serving as Assistant Secretary of Agriculture for Administration or Assistant Secretary of Agriculture for Congressional Relations on October 13, 1994, and who was appointed as such Assistant Secretary by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).” See 2012 Amendment note and Effective Date of 2012 Amendment note below.
+
 2012—Subsec. (b). Pub. L. 112–166, § 2(a)(1)(A), substituted “paragraph (1) or (3) of subsection (a)” for “subsection (a)”.
 
 Subsecs. (c), (d). Pub. L. 112–166, § 2(a)(1)(B), (C), which directed that subsec. (b) be amended by striking out subsec. (c) and redesignating subsec. (d) as (c), was executed by making the amendment to the entire section, striking out subsec. (c) and redesignating subsec. (d) as (c), to reflect the probable intent of Congress. Prior to amendment, text of subsec. (c) read as follows: “Any official who is serving as Assistant Secretary of Agriculture for Administration or Assistant Secretary of Agriculture for Congressional Relations on October 13, 1994, and who was appointed as such Assistant Secretary by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) of this section to the successor position authorized under subsection (a) of this section if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).”
@@ -243,8 +219,14 @@ Subsecs. (d), (e). Pub. L. 107–171, § 10704(a)(2), added subsec. (d) and stru
 
 1998—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “Assistant Secretary of Agriculture for Marketing and Regulatory Programs.”
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title XII, § 12415(b)(2), Dec. 20, 2018, 132 Stat. 4981, provided that: “The amendments made by paragraph (1) [amending this section] take effect on the effective date described in section 6(a) of the Presidential Appointment Efficiency and Streamlining Act of 2011 (Public Law 112–166; 126 Stat. 1295) [see Effective Date of 2012 Amendment note below].”
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
+
+#### Succession of Assistant Secretary of Agriculture for Congressional Relations
+Pub. L. 115–334, title XII, § 12401(b), Dec. 20, 2018, 132 Stat. 4971, provided that: “Any official who is serving as the Assistant Secretary of Agriculture for Congressional Relations on the date of enactment of this Act [Dec. 20, 2018] and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed as a result of the change made to the name of that position under the amendment made by subsection (a) [amending this section].”
 
 
 <a id="section-6921"></a>
@@ -257,9 +239,13 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 (2) provide information to veterans concerning the availability of, and eligibility requirements for, participation in agricultural programs, with particular emphasis on beginning farmer and rancher programs;
 
-(3) serve as a resource for assisting veteran farmers and ranchers, and potential farmers and ranchers, in applying for participation in agricultural programs; and
+(3) serve as a resource for assisting veteran farmers and ranchers, and potential farmers and ranchers, in applying for participation in agricultural programs;
 
-(4) advocate on behalf of veterans in interactions with employees of the Department.
+(4) advocate on behalf of veterans in interactions with employees of the Department;
+
+(5) establish and periodically update the website described in subsection (d); and
+
+(6) in carrying out the duties described in paragraphs (1) through (5), consult with and provide technical assistance to any Federal agency, including the Department of Defense, the Department of Veterans Affairs, the Small Business Administration, and the Department of Labor.
 
 **(c) Contracts and cooperative agreements** For purposes of carrying out the duties under subsection (b), the Military Veterans Agricultural Liaison may enter into contracts or cooperative agreements with the research centers of the Agricultural Research Service, institutions of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)), or nonprofit organizations for—
 
@@ -273,54 +259,575 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 (5) the provision of internship opportunities.
 
+**(d) Website required**
+
+(1) **In general** — The website required under subsection (b)(5) shall include the following:
+
+  (A) Positions identified within the Department of Agriculture that are available to veterans for apprenticeships.
+
+  (B) Apprenticeships, programs of training on the job, and programs of education that are approved for purposes of chapter 36 of title 38.
+
+  (C) Employment skills training programs for members of the Armed Forces carried out pursuant to [section 1143(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1143/e&num=0&edition=prelim).
+
+  (D) Information designed to assist businesses, nonprofit entities, educational institutions, and farmers interested in developing apprenticeships, on-the-job training, educational, or entrepreneurial programs for veterans in navigating the process of having a program approved by a State approving agency for purposes of chapter 36 of title 38, including—
+
+    (i) contact information for relevant offices in the Department of Defense, Department of Veterans Affairs, Department of Labor, and Small Business Administration;
+
+    (ii) basic requirements for approval by each State approving agency;
+
+    (iii) recommendations with respect to training and coursework to be used during apprenticeships or on-the-job training that will enable a veteran to be eligible for agricultural programs; and
+
+    (iv) examples of successful programs and curriculums that have been approved for purposes of chapter 36 of title 38 (with consent of the organization and without any personally identifiable information).
+
+(2) **Review of website**
+
+  (A) *In general* — Not later than 5 years after December 20, 2018, and once every 5 years thereafter, the Secretary shall conduct a study to determine if the website required under subsection (b)(5) is effective in providing veterans the information required under paragraph (1).
+
+  (B) *Ineffective website* — If the Secretary determines that the website is not effective under subparagraph (A), the Secretary shall—
+
+    (i) notify the agriculture and veterans committees described in subparagraph (C) of that determination; and
+
+    (ii) not earlier than 180 days after the date on which the Secretary provides notice under clause (i), terminate the website.
+
+  (C) *Agriculture and veterans committees* — The agriculture and veterans committees referred to in subparagraph (B)(i) are—
+
+    (i) the Committee on Agriculture of the House of Representatives;
+
+    (ii) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+
+    (iii) the Committee on Veterans’ Affairs of the House of Representatives; and
+
+    (iv) the Committee on Veterans’ Affairs of the Senate.
+
+**(e) Consultation required** In carrying out this section, the Secretary shall consult with organizations that serve veterans.
+
+**(f) Report**
+
+(1) **In general** — Not later than 1 year after December 20, 2018, and annually thereafter, the Military Veterans Agricultural Liaison shall submit a report on beginning farmer training for veterans and agricultural vocational and rehabilitation programs for veterans to—
+
+  (A) the Committee on Agriculture of the House of Representatives;
+
+  (B) the Committee on Veterans’ Affairs of the House of Representatives;
+
+  (C) the Committee on Agriculture, Nutrition, and Forestry of the Senate; and
+
+  (D) the Committee on Veterans’ Affairs of the Senate.
+
+(2) **Contents of report** — The report submitted under paragraph (1) shall include—
+
+  (A) a summary of the measures taken to carry out subsections (b) and (c);
+
+  (B) a description of the information provided to veterans under paragraphs (1) and (2) of subsection (b);
+
+  (C) recommendations for best informing veterans of the programs described in paragraphs (1) and (2) of subsection (b);
+
+  (D) a summary of the contracts or cooperative agreements entered into under subsection (c);
+
+  (E) a description of the programs implemented under subsection (c);
+
+  (F) a summary of the employment outreach activities directed to veterans;
+
+  (G) recommendations for how opportunities for veterans in agriculture should be developed or expanded;
+
+  (H) a summary of veteran farm lending data and a summary of shortfalls, if any, identified by the Military Veterans Agricultural Liaison in collecting data with respect to veterans engaged in agriculture; and
+
+  (I) recommendations, if any, on how to improve activities under subsection (b).
+
+**(g) Public dissemination of information**
+
+(1) **In general** — Not later than 1 year after December 20, 2018, and annually thereafter, the Military Veterans Agricultural Liaison shall make publicly available and share broadly, including by posting on the website of the Department—
+
+  (A) the report of the Military Veterans Agricultural Liaison on beginning farmer training for veterans and agricultural vocational and rehabilitation programs; and
+
+  (B) the information disseminated under paragraphs (1) and (2) of subsection (b).
+
+(2) **Further dissemination** — Not later than the day before the date on which the Military Veterans Agricultural Liaison makes publicly available the information under paragraph (1), the Military Veterans Agricultural Liaison shall provide that information to the Department of Defense, the Department of Veterans Affairs, the Small Business Administration, and the Department of Labor.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 6919, Pub. L. 103–354, title II, § 219, Oct. 13, 1994, 108 Stat. 3213, provided that compensation of any officer or employee of the Department on Oct. 13, 1994, was not to be increased as a result of enactment of this chapter, prior to repeal by Pub. L. 105–277, div. A, § 101(e) [title III, § 362], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305.
 
+#### Amendments
+2018—Subsec. (b)(5), (6). Pub. L. 115–334, § 12402(1), added pars. (5) and (6).
 
-<a id="section-6931"></a>
-## § 6931. Office of Energy Policy and New Uses
+Subsecs. (d) to (g). Pub. L. 115–334, § 12402(2), added subsecs. (d) to (g).
+
+
+<a id="section-6922"></a>
+## § 6922. Office of Energy Policy and New Uses
 
 The Secretary shall establish for the Department, in the Office of the Secretary, an Office of Energy Policy and New Uses.
 
 
-<a id="section-6932"></a>
-## § 6932. Office of Tribal Relations
+<a id="section-6923"></a>
+## § 6923. Office of Tribal Relations
+**(a) In general** The Secretary shall maintain in the Office of the Secretary an Office of Tribal Relations, which shall advise the Secretary on policies related to Indian tribes and carry out such other functions as the Secretary considers appropriate.
 
-The Secretary shall maintain in the Office of the Secretary an Office of Tribal Relations, which shall advise the Secretary on policies related to Indian tribes and carry out such other functions as the Secretary considers appropriate.
+**(b) Tribal Advisory Committee**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Indian tribe* — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+  (B) *Relevant committees of Congress* — The term “relevant committees of Congress” means—
+
+    (i) the Committee on Agriculture of the House of Representatives;
+
+    (ii) the Committee on Agriculture, Nutrition, and Forestry of the Senate; and
+
+    (iii) the Committee on Indian Affairs of the Senate.
+
+  (C) *Tribal organization* — The term “tribal organization” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(2) **Establishment of committee**
+
+  (A) *In general* — The Secretary shall establish an advisory committee, to be known as the Tribal Advisory Committee (referred to in this subsection as the “Committee”) to provide advice and guidance to the Secretary on matters relating to Tribal and Indian affairs.
+
+  (B) *Facilitation* — The Committee shall facilitate, but not supplant, government-to-government consultation between the Department of Agriculture (referred to in this subsection as the “Department”) and Indian tribes.
+
+(3) **Membership**
+
+  (A) *Composition* — The Committee shall be composed of 11 members, of whom—
+
+    (i) 3 shall be appointed by the Secretary;
+
+    (ii) 1 shall be appointed by the chairperson of the Committee on Indian Affairs of the Senate;
+
+    (iii) 1 shall be appointed by the ranking member of the Committee on Indian Affairs of the Senate;
+
+    (iv) 1 shall be appointed by the chairperson of the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+
+    (v) 1 shall be appointed by the ranking member of the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+
+    (vi) 2 shall be appointed by the chairperson of the Committee on Agriculture of the House of Representatives; and
+
+    (vii) 2 shall be appointed by the ranking member of the Committee on Agriculture of the House of Representatives.
+
+  (B) *Nominations* — The Secretary shall accept nominations for members of the Committee from any of the following:
+
+    (i) An Indian tribe.
+
+    (ii) A tribal organization.
+
+    (iii) A national or regional organization with expertise in issues relating to the duties of the Committee described in paragraph (4).
+
+  (C) *Diversity* — To the maximum extent feasible, the Secretary shall ensure that the members of the Committee represent a diverse set of expertise on issues relating to geographic regions, Indian tribes, and the agricultural industry.
+
+  (D) *Limitation* — No member of the Committee shall be an officer or employee of the Federal Government.
+
+  (E) *Period of appointment; vacancies*
+
+    (i) *In general* — Each member of the Committee—
+
+      (I) subject to clause (ii), shall be appointed to a 3-year term; and
+
+      (II) may be reappointed to not more than 3 consecutive terms.
+
+    (ii) *Initial staggering* — The first 3 appointments by the Secretary under paragraph (3)(A)(i) shall be for a 2-year term.
+
+    (iii) *Vacancies* — Any vacancy in the Committee shall be filled in the same manner as the original appointment not more than 90 days after the date on which the position becomes vacant.
+
+  (F) *Meetings*
+
+    (i) *In general* — The Committee shall meet in person not less than twice each year.
+
+    (ii) *Office of Tribal Relations representative* — Not fewer than 1 representative from the Office of Tribal Relations of the Department shall be present at each meeting of the Committee.
+
+    (iii) *Department of Interior representative* — The Assistant Secretary for Indian Affairs of the Department of the Interior (or a designee) shall be present at each meeting of the Committee.
+
+    (iv) *Nonvoting representatives* — The individuals described in clauses (ii) and (iii) shall be nonvoting representatives at meetings of the Committee.
+
+(4) **Duties of committee** — The Committee shall—
+
+  (A) identify evolving issues of relevance to Indian tribes relating to programs of the Department;
+
+  (B) communicate to the Secretary the issues identified under subparagraph (A);
+
+  (C) submit to the Secretary recommendations for, and solutions to—
+
+    (i) the issues identified under subparagraph (A);
+
+    (ii) issues raised at the Tribal, regional, or national level; and
+
+    (iii) issues relating to any Tribal consultation carried out by the Department;
+
+  (D) discuss issues and proposals for changes to the regulations, policies, and procedures of the Department that impact Indian tribes;
+
+  (E) identify priorities and provide advice on appropriate strategies for Tribal consultation on issues at the Tribal, regional, or national level regarding the Department;
+
+  (F) ensure that pertinent issues of the Department are brought to the attention of an Indian tribe in a timely manner so that timely feedback from an Indian tribe can be obtained; and
+
+  (G) identify and propose solutions to any interdepartmental barrier between the Department and other Federal agencies.
+
+(5) **Reports**
+
+  (A) *In general* — Not less frequently than once each year, the Committee shall submit to the Secretary and the relevant committees of Congress a report that describes—
+
+    (i) the activities of the Committee during the previous year; and
+
+    (ii) recommendations for legislative or administrative action for the following year.
+
+  (B) *Response from Secretary* — Not more than 45 days after the date on which the Secretary receives a report under subparagraph (A), the Secretary shall submit a written response to that report to—
+
+    (i) the Committee; and
+
+    (ii) the relevant committees of Congress.
+
+(6) **Compensation of members** — Members of the Committee shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) for each day (including travel time) during which the member is engaged in the performance of the duties of the Committee.
+
+(7) **Federal Advisory Committee Act exemption** — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 
 ### Statutory Notes
+
+#### References in Text
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section was enacted as part of the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994, and not as part of the Department of Agriculture Reorganization Act of 1994 which in part comprises this chapter.
 
+#### Amendments
+2018—Pub. L. 115–334 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+
+<a id="section-6924"></a>
+## § 6924. Office of Homeland Security
+**(a) Definition of agriculture and food defense** In this section, the term “agriculture and food defense” means any action to prevent, protect against, mitigate the effects of, respond to, or recover from a naturally occurring, unintentional, or intentional threat to the agriculture and food system.
+
+**(b) Authorization** The Secretary shall establish in the Department the Office of Homeland Security.
+
+**(c) Executive Director** The Office of Homeland Security shall be headed by an Executive Director, who shall be known as the Executive Director of Homeland Security.
+
+**(d) Duties** The Executive Director of Homeland Security shall—
+
+(1) serve as the principal advisor to the Secretary on homeland security, including emergency management and agriculture and food defense;
+
+(2) coordinate activities of the Department, including policies, processes, budget needs, and oversight relating to homeland security, including emergency management and agriculture and food defense;
+
+(3) act as the primary liaison on behalf of the Department with other Federal departments and agencies in activities relating to homeland security, including emergency management and agriculture and food defense, and provide for interagency coordination and data sharing;
+
+(4)
+
+  (A) coordinate in the Department the gathering of information relevant to early warning and awareness of threats and risks to the food and agriculture critical infrastructure sector; and
+
+  (B) share that information with, and provide assistance with interpretation and risk characterization of that information to, the intelligence community (as defined in 3003 of title 50), law enforcement agencies, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and State fusion centers (as defined in [section 124h(j) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124h/j&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis. ;
+
+(5) liaise with the Director of National Intelligence to assist in the development of periodic assessments and intelligence estimates, or other intelligence products, that support the defense of the food and agriculture critical infrastructure sector;
+
+(6) coordinate the conduct, evaluation, and improvement of exercises to identify and eliminate gaps in preparedness and response;
+
+(7) produce a Department-wide centralized strategic coordination plan to provide a high-level perspective of the operations of the Department relating to homeland security, including emergency management and agriculture and food defense; and
+
+(8) carry out other appropriate duties, as determined by the Secretary.
+
+**(e) Agriculture and food threat awareness partnership program**
+
+(1) **Interagency exchange program** — The Secretary, in partnership with the intelligence community (as defined in [section 3003 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)) and fusion centers (as defined in [section 124h(j) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124h/j&num=0&edition=prelim) 1 that have analysis and intelligence capabilities relating to the defense of the food and agriculture critical infrastructure sector, shall establish and carry out an interagency exchange program of personnel and information to improve communication and analysis for the defense of the food and agriculture critical infrastructure sector.
+
+(2) **Collaboration with Federal, State, and local authorities** — To carry out the program established under paragraph (1), the Secretary may—
+
+  (A) enter into 1 or more cooperative agreements or contracts with Federal, State, or local authorities that have analysis and intelligence capabilities and expertise relating to the defense of the food and agriculture critical infrastructure sector; and
+
+  (B) carry out any other activity under any other authority of the Secretary that is appropriate to engage the authorities described in subparagraph (A) for the defense of the food and agriculture critical infrastructure sector, as determined by the Secretary.
+
+
+<a id="section-6925"></a>
+## § 6925. Office of Urban Agriculture and Innovative Production
+**(a) Office**
+
+(1) **In general** — The Secretary shall establish in the Department an Office of Urban Agriculture and Innovative Production.
+
+(2) **Director** — The Secretary shall appoint a senior official to serve as the Director of the Office of Urban Agriculture and Innovative Production (referred to in this section as the “Director”).
+
+(3) **Mission** — The mission of the Office of Urban Agriculture and Innovative Production shall be to encourage and promote urban, indoor, and other emerging agricultural practices, including—
+
+  (A) community gardens and farms located in urban areas, suburbs, and urban clusters;
+
+  (B) rooftop farms, outdoor vertical production, and green walls;
+
+  (C) indoor farms, greenhouses, and high-tech vertical technology farms;
+
+  (D) hydroponic, aeroponic, and aquaponic farm facilities; and
+
+  (E) other innovations in agricultural production, as determined by the Secretary.
+
+(4) **Responsibilities** — The Director shall be responsible for engaging in activities to carry out the mission described in paragraph (3), including by—
+
+  (A) managing programs, including for community gardens, urban farms, rooftop agriculture, and indoor vertical production;
+
+  (B) advising the Secretary;
+
+  (C) coordinating with the agencies and officials of the Department to update relevant programs;
+
+  (D) engaging in stakeholder relations and developing external partnerships;
+
+  (E) identifying common State and municipal best practices for navigating local policies;
+
+  (F) coordinating networks of community gardens and facilitating connections to local food banks, in partnership with the Food and Nutrition Service; and
+
+  (G) collaborating with other Federal agencies.
+
+**(b) Urban Agriculture and Innovative Production Advisory Committee**
+
+(1) **In general** — Not later than 180 days after December 20, 2018, the Secretary shall establish an Urban Agriculture and Innovative Production Advisory Committee (referred to in this subsection as the “Committee”) to advise the Secretary on—
+
+  (A) the development of policies and outreach relating to urban, indoor, and other emerging agricultural production practices; and
+
+  (B) any other aspects of the implementation of this section.
+
+(2) **Membership**
+
+  (A) *In general* — The Committee shall be composed of 12 members, of whom—
+
+    (i) 4 shall be individuals who are agricultural producers, of whom—
+
+      (I) 2 individuals shall be agricultural producers located in an urban area or urban cluster; and
+
+      (II) 2 individuals shall be farmers that use innovative technology;
+
+    (ii) 2 shall be representatives from an institution of higher education or extension program;
+
+    (iii) 1 shall be an individual who represents a nonprofit organization, which may include a public health, environmental, or community organization;
+
+    (iv) 1 shall be an individual who represents business and economic development, which may include a business development entity, a chamber of commerce, a city government, or a planning organization;
+
+    (v) 1 shall be an individual with supply chain experience, which may include a food aggregator, wholesale food distributor, food hub, or an individual who has direct-to-consumer market experience;
+
+    (vi) 1 shall be an individual from a financing entity; and
+
+    (vii) 2 shall be individuals with related experience or expertise in urban, indoor, and other emerging agriculture production practices, as determined by the Secretary.
+
+  (B) *Initial appointments* — The Secretary shall appoint the members of the Committee not later than 180 days after December 20, 2018.
+
+(3) **Period of appointment; vacancies**
+
+  (A) *In general* — Except as provided in subparagraph (B), a member of the Committee shall be appointed for a term of 3 years.
+
+  (B) *Initial appointments* — Of the members first appointed to the Committee—
+
+    (i) 4 of the members, as determined by the Secretary, shall be appointed for a term of 3 years;
+
+    (ii) 4 of the members, as determined by the Secretary, shall be appointed for a term of 2 years; and
+
+    (iii) 4 of the members, as determined by the Secretary, shall be appointed for a term of 1 year.
+
+  (C) *Vacancies* — Any vacancy in the Committee—
+
+    (i) shall not affect the powers of the Committee; and
+
+    (ii) shall be filled as soon as practicable in the same manner as the original appointment.
+
+  (D) *Consecutive terms* — An initial appointee of the committee may serve an additional consecutive term if the member is reappointed by the Secretary.
+
+(4) **Meetings**
+
+  (A) *Frequency* — The Committee shall meet not fewer than 3 times per year.
+
+  (B) *Initial meeting* — Not later than 180 days after the date on which the members are appointed under paragraph (2)(B), the Committee shall hold the first meeting of the Committee.
+
+(5) **Duties**
+
+  (A) *In general* — The Committee shall—
+
+    (i) develop recommendations and advise the Director on policies, initiatives, and outreach administered by the Office of Urban Agriculture and Innovative Production;
+
+    (ii) evaluate and review ongoing research and extension activities relating to urban, indoor, and other innovative agricultural practices;
+
+    (iii) identify new and existing barriers to successful urban, indoor, and other emerging agricultural production practices; and
+
+    (iv) provide additional assistance and advice to the Director as appropriate.
+
+  (B) *Reports* — Not later than 1 year after the date on which the Committee is established, and every 2 years through 2023, the Committee shall submit to the Secretary, the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the recommendations developed under subparagraph (A).
+
+(6) **Personnel matters**
+
+  (A) *Compensation* — A member of the Committee shall serve without compensation.
+
+  (B) *Travel expenses* — A member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+
+(7) **Termination**
+
+  (A) *In general* — Subject to subparagraph (B), the Committee shall terminate on the date that is 5 years after the date on which the members are appointed under paragraph (2)(B).
+
+  (B) *Extensions* — Before the date on which the Committee terminates, the Secretary may renew the Committee for 1 or more 2-year periods.
+
+**(c) Grants** The Director shall award competitive grants to support the development of urban agriculture and innovative production to any of the following eligible entities:
+
+(1) A nonprofit organization.
+
+(2) A unit of local government.
+
+(3) A Tribal government.
+
+(4) Any school that serves any of grades kindergarten through grade 12.
+
+**(d) Pilot projects**
+
+(1) **Urban and suburban county committees**
+
+  (A) *In general* — Not later than 1 year after December 20, 2018, the Secretary shall establish a pilot program for not fewer than 5 years that establishes 10 county committees in accordance with [section 590h(b)(5)(B)(ii)(II) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5/B/ii/II&num=0&edition=prelim) to operate in counties located in urban or suburban areas with a high concentration of urban or suburban farms.
+
+  (B) *Effect* — Nothing in this paragraph requires or precludes the establishment of a Farm Service Agency office in a county in which a county committee is established under subparagraph (A).
+
+  (C) *Report* — For fiscal year 2019 and each fiscal year thereafter through fiscal year 2023, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing a summary of—
+
+    (i) the status of the pilot program under subparagraph (A);
+
+    (ii) meetings and other activities of the committees established under that subparagraph; and
+
+    (iii) the types and volume of assistance and services provided to farmers in counties in which county committees are established under that subparagraph.
+
+(2) **Increasing community compost and reducing food waste**
+
+  (A) *In general* — The Secretary, acting through the Director, shall carry out pilot projects under which the Secretary shall offer to enter into cooperative agreements with local or municipal governments in not fewer than 10 States to develop and test strategies for planning and implementing municipal compost plans and food waste reduction plans.
+
+  (B) *Eligible entities and purposes of pilot projects* — Under a cooperative agreement entered into under this paragraph, the Secretary shall provide assistance to municipalities, counties, local governments, or city planners, as appropriate, to carry out planning and implementing activities that will—
+
+    (i) generate compost;
+
+    (ii) increase access to compost for agricultural producers;
+
+    (iii) reduce reliance on, and limit the use of, fertilizer;
+
+    (iv) improve soil quality;
+
+    (v) encourage waste management and permaculture business development;
+
+    (vi) increase rainwater absorption;
+
+    (vii) reduce municipal food waste; and
+
+    (viii) divert food waste from landfills.
+
+  (C) *Evaluation and ranking of applications*
+
+    (i) *Criteria* — Not later than 180 days after December 20, 2018, the Secretary shall establish criteria for the selection of pilot projects under this paragraph.
+
+    (ii) *Consideration* — In selecting, undertaking, or funding pilot projects under this paragraph, the Secretary shall consider any commonly known significant impact on existing food waste recovery and disposal by commercial, marketing, or business relationships.
+
+    (iii) *Priority* — In selecting a pilot project under this paragraph, the Secretary shall give priority to an application for a pilot project that—
+
+      (I) anticipates or demonstrates economic benefits;
+
+      (II) incorporates plans to make compost easily accessible to agricultural producers, including community gardeners;
+
+      (III) integrates other food waste strategies, including food recovery efforts; and
+
+      (IV) provides for collaboration with multiple partners.
+
+  (D) *Matching requirement* — The recipient of assistance for a pilot project under this paragraph shall provide funds, in-kind contributions, or a combination of both from sources other than funds provided through the grant in an amount equal to not less than 25 percent of the amount of the grant.
+
+  (E) *Evaluation* — The Secretary shall conduct an evaluation of the pilot projects funded under this paragraph to assess different solutions for increasing access to compost and reducing municipal food waste, including an evaluation of—
+
+    (i) the amount of Federal funds used for each project; and
+
+    (ii) a measurement of the outcomes of each project.
+
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section and the amendments made by this section $25,000,000 for each of fiscal years 2019 through 2023.
+
+
+<a id="section-6931"></a>
+## § 6931. Food Loss and Waste Reduction Liaison
+**(a) Establishment** The Secretary shall establish a Food Loss and Waste Reduction Liaison to coordinate Federal, State, local, and nongovernmental programs, and other efforts, to measure and reduce the incidence of food loss and waste in accordance with this section.
+
+**(b) In general** The Food Loss and Waste Reduction Liaison shall—
+
+(1) coordinate food loss and waste reduction efforts within the Department of Agriculture and with other Federal agencies, including the Environmental Protection Agency and the Food and Drug Administration;
+
+(2) support and promote Federal programs to measure and reduce the incidence of food loss and waste and increase food recovery;
+
+(3) provide information to, and serve as a resource for, entities engaged in food loss and waste reduction and food recovery, including information about the availability of, and eligibility requirements for, participation in Federal, State, local, and nongovernmental programs;
+
+(4) raise awareness of the liability protections afforded under the Bill Emerson Good Samaritan Food Donation Act ([42 U.S.C. 1791](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1791&num=0&edition=prelim)) to persons engaged in food loss and waste reduction and food recovery; and
+
+(5) make recommendations with respect to expanding innovative food recovery models and reducing the incidence of food loss and waste.
+
+**(c) Cooperative agreements** For purposes of carrying out the duties under subsection (b), the Food Loss and Waste Reduction Liaison may enter into contracts or cooperative agreements with the research centers of the Research, Education, and Economics mission area, institutions of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)), or nonprofit organizations for—
+
+(1) the development of educational materials;
+
+(2) the conduct of workshops and courses; or
+
+(3) the conduct of research on best practices with respect to food loss and waste reduction and food recovery.
+
+**(d) Study on food waste** The Secretary shall conduct a study, in consultation with the Food Loss and Waste Reduction Liaison, to evaluate and determine—
+
+(1) methods of measuring food waste;
+
+(2) standards for the volume of food waste;
+
+(3) factors that contribute to food waste;
+
+(4) the cost and volume of food loss;
+
+(5) the effectiveness of existing liability protections afforded under the Bill Emerson Good Samaritan Food Donation Act ([42 U.S.C. 1791](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1791&num=0&edition=prelim)); and
+
+(6) measures to ensure that programs contemplated, undertaken, or funded by the Department of Agriculture do not disrupt existing food waste recovery and disposal efforts by commercial, marketing, or business relationships.
+
+**(e) Reports**
+
+(1) **Initial report** — Not later than 1 year after December 20, 2018, the Food Loss and Waste Liaison shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subsection (d).
+
+(2) **Report** — Not later than 1 year after the date of the submission of the report under paragraph (1), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains, with respect to the preceding year—
+
+  (A) an estimate of the quantity of food waste during such year; and
+
+  (B) the results of the food waste reduction and loss prevention activities carried out or led by the Department of Agriculture.
+
+
+<a id="section-6932"></a>
+## § 6932. Food Access Liaison
+**(a) Establishment** The Secretary shall establish the position of Food Access Liaison to coordinate Department programs to reduce barriers to food access and monitor and evaluate the progress of such programs in accordance with this section.
+
+**(b) Duties** The Food Access Liaison shall—
+
+(1) coordinate the efforts of the Department, including regional offices, to experiment and consider programs and policies aimed at reducing barriers to food access for consumers, including but not limited to participants in nutrition assistance programs;
+
+(2) provide outreach to entities engaged in activities to reduce barriers to food access in accordance with the statutory authorization for each program;
+
+(3) provide outreach to entities engaged in activities to reduce barriers to food access, including retailers, markets, producers, and others involved in food production and distribution, with respect to the availability of, and eligibility for, Department programs;
+
+(4) raise awareness of food access issues in interactions with employees of the Department;
+
+(5) make recommendations to the Secretary with respect to efforts to reduce barriers to food access; and
+
+(6) submit to Congress an annual report with respect to the efforts of the Department to reduce barriers to food access.
+
+### Statutory Notes
+
+#### Codification
+Another section 225 of Pub. L. 103–354 is classified to [section 6931 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6931).
+
+#### Technical Assistance
+Pub. L. 115–334, title XII, § 12614(b), Dec. 20, 2018, 132 Stat. 5014, provided that: “The Secretary [of Agriculture] shall provide technical assistance to entities that are participants, or seek to participate, in Department of Agriculture programs related to reduction of barriers to food access.”
+
 
 <a id="section-6932a"></a>
-## § 6932a. Under Secretary of Agriculture for Farm and Foreign Agricultural Services
-**(a) Authorization** The Secretary is authorized to establish in the Department the position of Under Secretary of Agriculture for Farm and Foreign Agricultural Services.
+## § 6932a. Under Secretary of Agriculture for Farm Production and Conservation
+**(a) Authorization** The Secretary is authorized to establish in the Department the position of Under Secretary of Agriculture for Farm Production and Conservation.
 
-**(b) Confirmation required** If the Secretary establishes the position of Under Secretary of Agriculture for Farm and Foreign Agricultural Services authorized under subsection (a), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+**(b) Confirmation required** If the Secretary establishes the position of Under Secretary of Agriculture for Farm Production and Conservation authorized under subsection (a), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
-**(c) Functions of Under Secretary**
+**(c) Functions of Undersecretary 11 So in original. Probably should be “Under Secretary”.** The Under Secretary of Agriculture for Farm Production and Conservation shall perform such functions and duties as the Secretary shall prescribe.
 
-(1) **Principal functions** — Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Farm and Foreign Agricultural Services those functions under the jurisdiction of the Department that are related to farm and foreign agricultural services.
-
-(2) **Additional functions** — The Under Secretary of Agriculture for Farm and Foreign Agricultural Services shall perform such other functions as may be required by law or prescribed by the Secretary.
-
-**(d) Succession** Any official who is serving as Under Secretary of Agriculture for International Affairs and Commodity Programs on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
+**(d) Succession** Any official who is serving as Under Secretary of Agriculture for Farm and Foreign Agricultural Services on March 23, 2018, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a).
 
 ### Statutory Notes
 
 #### Codification
 Section is comprised of section 225 of Pub. L. 103–354. Subsec. (e) of section 225 of Pub. L. 103–354 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees, and repealed [section 5691 of this title](./chapter-087-export-promotion.md#section-5691).
 
+Another section 225 of Pub. L. 103–354 is classified to [section 6925 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6925).
+
+#### Amendments
+2018—Pub. L. 115–141 amended section generally. Prior to amendment, section related to Under Secretary of Agriculture for Farm and Foreign Agricultural Services.
+
 
 <a id="section-6933"></a>
-## § 6933. Consolidated Farm Service Agency
-**(a) Establishment** The Secretary is authorized to establish and maintain in the Department a Consolidated Farm Service Agency.
+## § 6933. Farm Service Agency
+**(a) Establishment** The Secretary is authorized to establish and maintain in the Department a Farm Service Agency.
 
-**(b) Functions of Consolidated Farm Service Agency** If the Secretary establishes the Consolidated Farm Service Agency under subsection (a), the Secretary is authorized to assign to the Agency jurisdiction over the following functions:
+**(b) Functions** If the Secretary establishes the Farm Service Agency under subsection (a), the Secretary is authorized to assign to the Agency jurisdiction over the following functions:
 
 (1) Agricultural price and income support programs, production adjustment programs, and related programs.
 
@@ -330,13 +837,13 @@ Section is comprised of section 225 of Pub. L. 103–354. Subsec. (e) of section
 
 (4) Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3831&num=0&edition=prelim) et seq.].
 
-(5) Such other functions as the Secretary considers appropriate, except for those programs assigned by the Secretary to the Natural Resources Conservation Service or another agency of the Department under [section 6962(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6962/b&num=0&edition=prelim).
+(5) Such other functions as the Secretary considers appropriate, except for those programs assigned by the Secretary to the Natural Resources Conservation Service or another agency of the Department under [section 6936(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6936/b&num=0&edition=prelim).
 
 **(c) Special concurrence requirements for certain functions** In carrying out the programs specified in subsection (b)(4), the Secretary shall—
 
-(1) acting on the recommendations of the Consolidated Farm Service Agency, with the concurrence of the Natural Resources Conservation Service, issue regulations to carry out such programs;
+(1) acting on the recommendations of the Farm Service Agency, with the concurrence of the Natural Resources Conservation Service, issue regulations to carry out such programs;
 
-(2) ensure that the Consolidated Farm Service Agency, in establishing policies, priorities, and guidelines for such programs, does so with the concurrence of the Natural Resources Conservation Service at national, State, and local levels;
+(2) ensure that the Farm Service Agency, in establishing policies, priorities, and guidelines for such programs, does so with the concurrence of the Natural Resources Conservation Service at national, State, and local levels;
 
 (3) ensure that, in reaching such concurrence at the local level, the Natural Resources Conservation Service works in cooperation with Soil and Water Conservation Districts or similar organizations established under State law;
 
@@ -346,11 +853,11 @@ Section is comprised of section 225 of Pub. L. 103–354. Subsec. (e) of section
 
 **(d) Jurisdiction over conservation program appeals**
 
-(1) **In general** — Until such time as an adverse decision described in this paragraph is referred to the National Appeals Division for consideration, the Consolidated Farm Service Agency shall have initial jurisdiction over any administrative appeal resulting from an adverse decision made under title XII of the Food Security Act of 1985 ([16 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3801&num=0&edition=prelim) et seq.), including an adverse decision involving technical determinations made by the Natural Resources Conservation Service.
+(1) **In general** — Until such time as an adverse decision described in this paragraph is referred to the National Appeals Division for consideration, the Farm Service Agency shall have initial jurisdiction over any administrative appeal resulting from an adverse decision made under title XII of the Food Security Act of 1985 ([16 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3801&num=0&edition=prelim) et seq.), including an adverse decision involving technical determinations made by the Natural Resources Conservation Service.
 
 (2) **Treatment of technical determination**
 
-  (A) *In general* — With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Consolidated Farm Service Agency, by rule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Consolidated Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim). If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Consolidated Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
+  (A) *In general* — With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Farm Service Agency, by rule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim). If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
 
   (B) *Economic hardship* — After a technical determination has been made, on a producer’s request, if a county or area committee determines that the application of the producer’s conservation system would impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
 
@@ -358,11 +865,11 @@ Section is comprised of section 225 of Pub. L. 103–354. Subsec. (e) of section
 
 **(e) Use of Federal and non-Federal employees**
 
-(1) **Use authorized** — In the implementation of programs and activities assigned to the Consolidated Farm Service Agency, the Secretary may use interchangeably in local offices of the Agency both Federal employees of the Department and non-Federal employees of county and area committees established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim).
+(1) **Use authorized** — In the implementation of programs and activities assigned to the Farm Service Agency, the Secretary may use interchangeably in local offices of the Agency both Federal employees of the Department and non-Federal employees of county and area committees established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim).
 
 (2) **Exception** — Notwithstanding paragraph (1), no personnel action (as defined in [section 2302(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/A&num=0&edition=prelim)) may be taken with respect to a Federal employee unless such action is taken by another Federal employee.
 
-**(f) Collocation** To the maximum extent practicable, the Secretary shall collocate county offices of the Consolidated Farm Service Agency with county offices of the Natural Resources Conservation Service in order to—
+**(f) Collocation** To the maximum extent practicable, the Secretary shall collocate county offices of the Farm Service Agency with county offices of the Natural Resources Conservation Service in order to—
 
 (1) maximize savings from shared equipment, office space, and administrative support;
 
@@ -374,9 +881,9 @@ Section is comprised of section 225 of Pub. L. 103–354. Subsec. (e) of section
 
 **(g) Savings provision** For purposes of subsections (c) through (f) of this section:
 
-(1) A reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under this section.
+(1) A reference to the “Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under this section.
 
-(2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under [section 6962(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6962/b&num=0&edition=prelim).
+(2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under [section 6936(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6936/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -387,18 +894,117 @@ The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), i
 Section is comprised of section 226 of Pub. L. 103–354. Subsec. (h) of section 226 of Pub. L. 103–354 amended [section 1981 of this title](./chapter-050-agricultural-credit.md#section-1981).
 
 #### Amendments
+2018—Pub. L. 115–334, § 12404(a)(1), (3), substituted “Farm” for “Consolidated Farm” in section catchline and wherever appearing in text.
+
+Subsec. (b). Pub. L. 115–334, § 12404(a)(2), struck out “of Consolidated Farm Service Agency” after “Functions” in heading.
+
+Subsecs. (b)(5), (g)(2). Pub. L. 115–334, § 12410(c)(2)(A), substituted “[section 6936(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6936/b&num=0&edition=prelim)” for “[section 6962(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6962/b&num=0&edition=prelim)”.
+
 1996—Subsec. (b)(2). Pub. L. 104–127, § 194(c), struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
 
 Subsec. (b)(4). Pub. L. 104–127, § 336(a)(2)(C), struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590g&num=0&edition=prelim) et seq.)”.
 
 Subsec. (d)(2). Pub. L. 104–127, § 315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-#### Change of Name
-Consolidated Farm Service Agency redesignated Farm Service Agency by final rule issued by Department of Agriculture, eff. Jan. 16, 1996, 61 F.R. 1109.
+#### Farm Service Agency Accountability
+Pub. L. 115–334, title I, § 1705, Dec. 20, 2018, 132 Stat. 4526, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 20, 2018], the Secretary [of Agriculture] shall establish policies, procedures, and plans to improve program accountability and integrity through targeted and coordinated activities, including utilizing data mining to identify and reduce errors, waste, fraud, and abuse in programs administered by the Farm Service Agency. “(b) Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress and results of the activities conducted under subsection (a).”
 
 
 <a id="section-6934"></a>
-## § 6934. Prohibition on closure or relocation of county offices for the Farm Service Agency
+## § 6934. Beginning farmer and rancher coordination
+**(a) Definitions** In this section:
+
+(1) **Beginning farmer or rancher** — The term “beginning farmer or rancher” has the meaning given such term in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim).
+
+(2) **National Coordinator** — The term “National Coordinator” means the National Beginning Farmer and Rancher Coordinator established under subsection (b)(1).
+
+(3) **State coordinator** — The term “State coordinator” means a State beginning farmer and rancher coordinator designated under subsection (c)(1)(A).
+
+(4) **State office** — The term “State office” means—
+
+  (A) a State office of—
+
+    (i) the Farm Service Agency;
+
+    (ii) the Natural Resources Conservation Service;
+
+    (iii) the Rural Business-Cooperative Service; or
+
+    (iv) the Rural Utilities Service; or
+
+  (B) a regional office of the Risk Management Agency.
+
+**(b) National Beginning Farmer and Rancher Coordinator**
+
+(1) **Establishment** — The Secretary shall establish in the Department the position of National Beginning Farmer and Rancher Coordinator.
+
+(2) **Duties**
+
+  (A) *In general* — The National Coordinator shall—
+
+    (i) advise the Secretary and coordinate activities of the Department on programs, policies, and issues relating to beginning farmers and ranchers; and
+
+    (ii) in consultation with the applicable State food and agriculture council, determine whether to approve a plan submitted by a State coordinator under subsection (c)(3)(B).
+
+  (B) *Discretionary duties* — Additional duties of the National Coordinator may include—
+
+    (i) developing and implementing new strategies—
+
+      (I) for outreach to beginning farmers and ranchers; and
+
+      (II) to assist beginning farmers and ranchers with connecting to owners or operators that have ended, or expect to end within 5 years, actively owning or operating a farm or ranch; and
+
+    (ii) facilitating interagency and interdepartmental collaboration on issues relating to beginning farmers and ranchers.
+
+(3) **Reports** — Not less frequently than once each year, the National Coordinator shall distribute within the Department and make publicly available a report describing the status of steps taken to carry out the duties described in subparagraphs (A) and (B) of paragraph (2).
+
+(4) **Contracts and cooperative agreements** — In carrying out the duties under paragraph (2), the National Coordinator may enter into a contract or cooperative agreement with an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)), cooperative extension services (as defined in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103)), or a nonprofit organization—
+
+  (A) to conduct research on the profitability of new farms in operation for not less than 5 years in a region;
+
+  (B) to develop educational materials;
+
+  (C) to conduct workshops, courses, training, or certified vocational training; or
+
+  (D) to conduct mentoring activities.
+
+**(c) State beginning farmer and rancher coordinators**
+
+(1) **In general**
+
+  (A) *Designation* — The National Coordinator, in consultation with State food and agriculture councils and directors of State offices, shall designate in each State a State beginning farmer and rancher coordinator from among employees of State offices.
+
+  (B) *Requirements* — To be designated as a State coordinator, an employee shall—
+
+    (i) be familiar with issues relating to beginning farmers and ranchers; and
+
+    (ii) have the ability to coordinate with other Federal departments and agencies.
+
+(2) **Training** — The Secretary shall develop a training plan to provide to each State coordinator knowledge of programs and services available from the Department for beginning farmers and ranchers, taking into consideration the needs of all production types and sizes of agricultural operations.
+
+(3) **Duties** — A State coordinator shall—
+
+  (A) coordinate technical assistance at the State level to assist beginning farmers and ranchers in accessing programs of the Department;
+
+  (B) develop and submit to the National Coordinator for approval under subsection (b)(2)(A)(ii) a State plan to improve the coordination, delivery, and efficacy of programs of the Department to beginning farmers and ranchers, taking into consideration the needs of all types of production methods and sizes of agricultural operation, at each county and area office in the State;
+
+  (C) oversee implementation of an approved State plan described in subparagraph (B);
+
+  (D) work with outreach coordinators in the State offices to ensure appropriate information about technical assistance is available at outreach events and activities; and
+
+  (E) coordinate partnerships and joint outreach efforts with other organizations and government agencies serving beginning farmers and ranchers.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 7404 of Pub. L. 107–171 was classified as a note under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101), prior to repeal by Pub. L. 115–334, title VII, § 7506, Dec. 20, 2018, 132 Stat. 4823.
+
+#### Codification
+Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
+
+
+<a id="section-6934a"></a>
+## § 6934a. Prohibition on closure or relocation of county offices for the Farm Service Agency
 **(a) Temporary prohibition**
 
 (1) **In general** — Subject to paragraph (2), until the date that is two years after the date of the enactment of this Act, the Secretary of Agriculture may not close or relocate a county or field office of the Farm Service Agency.
@@ -437,9 +1043,9 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
-<a id="section-6935"></a>
-## § 6935. Office of Risk Management
-**(a) Establishment** Subject to subsection (e),11 So in original. There is no subsection (e). the Secretary shall establish and maintain in the Department an independent Office of Risk Management.
+<a id="section-6934b"></a>
+## § 6934b. Office of Risk Management
+**(a) Establishment** The Secretary shall establish and maintain in the Department an independent Office of Risk Management.
 
 **(b) Functions of Office of Risk Management** The Office of Risk Management shall have jurisdiction over the following functions:
 
@@ -459,7 +1065,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(d) Resources**
 
-(1) **Functional coordination** — Certain functions of the Office of Risk Management, such as human resources, public affairs, and legislative affairs, may be provided by a consolidation of such functions under the Under Secretary of Agriculture for Farm and Foreign Agricultural Services.
+(1) **Functional coordination** — Certain functions of the Office of Risk Management, such as human resources, public affairs, and legislative affairs, may be provided by a consolidation of such functions under the Under Secretary of Agriculture for Farm Production and Conservation.
 
 (2) **Minimum provisions** — Notwithstanding paragraph (1) or any other provision of law or order of the Secretary, the Secretary shall provide the Office of Risk Management with human and capital resources sufficient for the Office to carry out its functions in a timely and efficient manner.
 
@@ -468,36 +1074,91 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### References in Text
 The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see [section 1501 of this title](./chapter-036-crop-insurance.md#section-1501) and Tables.
 
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 12415(a), substituted “The Secretary” for “Subject to subsection (e), the Secretary ”.
 
-<a id="section-6941"></a>
-## § 6941. Office of Advocacy and Outreach
+Subsec. (d)(1). Pub. L. 115–334, § 12405(a), substituted “Under Secretary of Agriculture for Farm Production and Conservation” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
+
+
+<a id="section-6935"></a>
+## § 6935. Agricultural Youth Organization Coordinator
+**(a) Authorization** The Secretary shall establish in the Department the position of Agricultural Youth Organization Coordinator.
+
+**(b) Duties** The Agricultural Youth Organization Coordinator shall—
+
+(1) promote the role of youth-serving organizations and school-based agricultural education in motivating and preparing young people to pursue careers in the agriculture, food, and natural resources systems;
+
+(2) work to help build youth awareness of the reach and importance of agriculture, across a diversity of fields and disciplines;
+
+(3) identify short-term and long-term interests of the Department and provide opportunities, resources, input, and coordination with programs and agencies of the Department to youth-serving organizations and school-based agricultural education, including the development of internship opportunities;
+
+(4) share, internally and externally, the extent to which active steps are being taken to encourage collaboration with, and support of, youth-serving organizations and school-based agricultural education;
+
+(5) provide information to youth involved in food and agriculture organizations concerning the availability of, and eligibility requirements for, participation in agricultural programs, with particular emphasis on beginning farmer and rancher programs;
+
+(6) serve as a resource for assisting youth involved in food and agriculture organizations in applying for participation in agriculture; and
+
+(7) advocate on behalf of youth involved in food and agriculture organizations in interactions with employees of the Department.
+
+**(c) Contracts and cooperative agreements** For purposes of carrying out the duties under subsection (b), the Agricultural Youth Organization Coordinator shall consult with the cooperative extension and the land-grant university systems, and may enter into contracts or cooperative agreements with the research centers of the Agricultural Research Service, cooperative extension and the land-grant university systems, non-land-grant colleges of agriculture, or nonprofit organizations for—
+
+(1) the conduct of regional research on the profitability of small farms;
+
+(2) the development of educational materials;
+
+(3) the conduct of workshops, courses, and certified vocational training;
+
+(4) the conduct of mentoring activities; or
+
+(5) the provision of internship opportunities.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 7405 of Pub. L. 107–171 was classified to [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f), prior to repeal by Pub. L. 115–334, title XII, § 12301(a)(1), Dec. 20, 2018, 132 Stat. 4950.
+
+#### Codification
+Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
+
+#### Definitions
+“Department” means the Department of Agriculture and “Secretary” means the Secretary of Agriculture, see section 7401 of Pub. L. 107–171, set out as a note under [section 5925c of this title](./chapter-088-research.md#section-5925c).
+
+
+<a id="section-6936"></a>
+## § 6936. Office of Partnerships and Public Engagement
 **(a) Definitions** In this section:
 
 (1) **Beginning farmer or rancher** — The term “beginning farmer or rancher” has the meaning given the term in [section 1991(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a&num=0&edition=prelim).
 
-(2) **Office** — The term “Office” means the Office of Advocacy and Outreach established under this section.
+(2) **Office** — The term “Office” means the Office of Partnerships and Public Engagement established under this section.
 
-(3) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in [section 2279(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim).
+(3) **Socially disadvantaged farmer or rancher** — The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 11 See References in Text note below. of this title.
 
 **(b) Establishment and purpose**
 
-(1) **In general** — The Secretary shall establish within the executive operations of the Department an office to be known as the “Office of Advocacy and Outreach”—
+(1) **In general** — The Secretary shall establish within the executive operations of the Department an office to be known as the “Office of Partnerships and Public Engagement”—
 
-  (A) to improve access to programs of the Department; and
+  (A) to improve access to programs of the Department;
 
   (B) to improve the viability and profitability of—
 
     (i) small farms and ranches;
 
-    (ii) beginning farmers or ranchers; and
+    (ii) beginning farmers or ranchers;
 
-    (iii) socially disadvantaged farmers or ranchers.
+    (iii) socially disadvantaged farmers or ranchers;
+
+    (iv) limited resource producers; and
+
+    (v) veteran farmers and ranchers; and
+
+  (C) to promote youth outreach.
 
 (2) **Director** — The Office shall be headed by a Director, to be appointed by the Secretary from among the competitive service.
 
-**(c) Duties** The duties of the Office shall be to ensure small farms and ranches, beginning farmers or ranchers, and socially disadvantaged farmers or ranchers access to, and equitable participation in, programs and services of the Department by—
+**(c) Duties** The duties of the Office shall be to ensure small farms and ranches, beginning farmers or ranchers, veteran farmers and ranchers, and socially disadvantaged farmers or ranchers access to, and equitable participation in, programs and services of the Department by—
 
-(1) establishing and monitoring the goals and objectives of the Department to increase participation in programs of the Department by small, beginning, or socially disadvantaged farmers or ranchers;
+(1) establishing and monitoring the goals and objectives of the Department to increase participation in programs of the Department by small, beginning, socially disadvantaged, or veteran farmers or ranchers;
 
 (2) assessing the effectiveness of Department outreach programs;
 
@@ -505,7 +1166,7 @@ The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle 
 
 (4) providing input to the agencies and offices on programmatic and policy decisions;
 
-(5) measuring outcomes of the programs and activities of the Department on small farms and ranches, beginning farmers or ranchers, and socially disadvantaged farmers or ranchers programs;
+(5) measuring outcomes of the programs and activities of the Department on small farms and ranches, beginning farmers or ranchers, veteran farmers or ranchers, and socially disadvantaged farmers or ranchers programs;
 
 (6) recommending new initiatives and programs to the Secretary; and
 
@@ -519,11 +1180,11 @@ The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle 
 
   (A) shall carry out [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279); and
 
-  (B) in the case of activities described in [section 2279(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim), may conduct such activities through other agencies and offices of the Department.
+  (B) in the case of activities described in section 2279(a) 1 of this title, may conduct such activities through other agencies and offices of the Department.
 
 (3) **Socially disadvantaged farmers and farmworkers** — The Socially Disadvantaged Farmers Group shall oversee the operations of—
 
-  (A) the Advisory Committee on Minority Farmers established under section 14009 of the Food, Conservation, and Energy Act of 2008; 11 See References in Text note below. and
+  (A) the Advisory Committee on Minority Farmers established under section 14009 of the Food, Conservation, and Energy Act of 2008; 1 and
 
   (B) the position of Farmworker Coordinator established under subsection (f).
 
@@ -531,7 +1192,7 @@ The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle 
 
   (A) *In general* — The Socially Disadvantaged Farmers Group may carry out other duties to improve access to, and participation in, programs of the Department by socially disadvantaged farmers or ranchers, as determined by the Secretary.
 
-  (B) *Office of Outreach and Diversity* — The Office of Advocacy and Outreach shall carry out the functions and duties of the Office of Outreach and Diversity carried out by the Assistant Secretary for Civil Rights as such functions and duties existed immediately before the date of the enactment of this section.
+  (B) *Office of Outreach and Diversity* — The Office of Partnerships and Public Engagement shall carry out the functions and duties of the Office of Outreach and Diversity carried out by the Assistant Secretary for Civil Rights as such functions and duties existed immediately before the date of the enactment of this section.
 
 **(e) Small Farms and Beginning Farmers and Ranchers Group**
 
@@ -541,7 +1202,7 @@ The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle 
 
   (A) *Oversee offices* — The Small Farms and Beginning Farmers and Ranchers Group shall oversee the operations of the Office of Small Farms Coordination established by Departmental Regulation 9700–1 (August 3, 2006).
 
-  (B) *Beginning farmer and rancher development program* — The Small Farms and Beginning Farmers and Ranchers Group shall consult with the National Institute for Food and Agriculture on the administration of the beginning farmer and rancher development program established under [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f).
+  (B) *Beginning farmer and rancher development program* — The Small Farms and Beginning Farmers and Ranchers Group shall consult with the National Institute for Food and Agriculture on the administration of the beginning farmer and rancher development grant program established under subsection (d) of [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279).
 
   (C) *Advisory Committee for Beginning Farmers and Ranchers* — The Small Farms and Beginning Farmers and Ranchers Group shall coordinate the activities of the Group with the Advisory Committee for Beginning Farmers and Ranchers established under section 5(b) of the Agricultural Credit Improvement Act of 1992 ([7 U.S.C. 1621](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) 1 note; Public Law 102–554).
 
@@ -569,11 +1230,13 @@ The Federal Crop Insurance Act, referred to in subsec. (b)(2), (3), is subtitle 
 
   (A) such sums as are necessary for each of fiscal years 2009 through 2013; and
 
-  (B) $2,000,000 for each of fiscal years 2014 through 2018.
+  (B) $2,000,000 for each of fiscal years 2014 through 2023.
 
 ### Statutory Notes
 
 #### References in Text
+Subsecs. (a) and (e) of [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279), referred to in subsecs. (a)(3) and (d)(2)(B), were redesignated subsecs. (c) and (a), respectively, of [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279) by section 12301(b)(3) of Pub. L. 115–334.
+
 Section 14009 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(3)(A), probably means section 14008 of Pub. L. 110–246, which is set out as a note under [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279), because section 14008 of the Act established the Advisory Committee on Minority Farmers and section 14009 of the Act amended [section 7000 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-7000).
 
 The date of the enactment of this section, referred to in subsec. (d)(4)(B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -584,58 +1247,146 @@ Section 5(b) of the Agricultural Credit Improvement Act of 1992, referred to in 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Pub. L. 115–334, § 12406(a)(1)(A), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach” in section catchline.
+
+Subsec. (a)(2). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach”.
+
+Subsec. (b)(1). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach” in introductory provisions.
+
+Subsec. (b)(1)(B)(iv), (v), (C). Pub. L. 115–334, § 12406(b)(1), added cls. (iv) and (v) of subpar. (B) and subpar. (C).
+
+Subsec. (c). Pub. L. 115–334, § 12406(b)(2)(A), inserted “veteran farmers and ranchers,” after “beginning farmers or ranchers,” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 115–334, § 12406(b)(2)(B), substituted “socially disadvantaged, or veteran” for “or socially disadvantaged”.
+
+Subsec. (c)(5). Pub. L. 115–334, § 12406(b)(2)(C), inserted “veteran farmers or ranchers,” after “beginning farmers or ranchers,”.
+
+Subsec. (d)(4)(B). Pub. L. 115–334, § 12406(a)(1)(B), substituted “Partnerships and Public Engagement” for “Advocacy and Outreach”.
+
+Subsec. (e)(2)(B). Pub. L. 115–334, § 12406(a)(2)(A), substituted “the beginning farmer and rancher development grant program established under subsection (d) of [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279).” for “the beginning farmer and rancher development program established under [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f).”
+
+Subsec. (f)(3)(B). Pub. L. 115–334, § 12406(c), substituted “2023” for “2018”.
+
 2014—Subsec. (f)(3). Pub. L. 113–79 amended par. (3) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2009 through 2012.”
+
+#### Change of Name
+Pub. L. 115–334, title XII, § 12406(a)(2), Dec. 20, 2018, 132 Stat. 4976, provided that: “Beginning on the date of the enactment of this Act [Dec. 20, 2018], any reference to the Office of Advocacy and Outreach established under section 226B of the Department of Agriculture Reorganization Act of 1994 ([7 U.S.C. 6934](./chapter-098-department-of-agriculture-reorganization.md#section-6934)) in any provision of Federal law shall be deemed to be a reference to the Office of Partnerships and Public Engagement.”
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
-<a id="section-6941a"></a>
-## § 6941a. Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs
-**(a) Definition of agriculture committees and subcommittees** In this section, the term “agriculture committees and subcommittees” means—
-
-(1) the Committee on Agriculture of the House of Representatives;
-
-(2) the Committee on Agriculture, Nutrition, and Forestry of the Senate; and
-
-(3) the subcommittees on agriculture, rural development, food and drug administration, and related agencies 11 So in original. Probably should be “Agriculture, Rural Development, Food and Drug Administration, and Related Agencies”. of the Committees on Appropriations of the House of Representatives and the Senate.
-
-**(b) Proposal**
-
-(1) **In general** — The Secretary, in consultation with the agriculture committees and subcommittees, shall propose a reorganization of international trade functions for imports and exports of the Department of Agriculture.
-
-(2) **Considerations** — In producing the proposal under this section, the Secretary shall—
-
-  (A) in recognition of the importance of agricultural exports to the farm economy and the economy as a whole, include a plan for the establishment of an Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs;
-
-  (B) take into consideration how the Under Secretary described in subparagraph (A) would serve as a multiagency coordinator of sanitary and phytosanitary issues and nontariff trade barriers in agriculture with respect to imports and exports of agricultural products; and
-
-  (C) take into consideration all implications of a reorganization described in paragraph (1) on domestic programs and operations of the Department of Agriculture.
-
-(3) **Report** — Not later than 180 days after February 7, 2014, and before the reorganization described in paragraph (1) can take effect, the Secretary shall submit to the agriculture committees and subcommittees a report that—
-
-  (A) includes the results of the proposal under this section; and
-
-  (B) provides a notice of the reorganization plan.
-
-(4) **Implementation** — Not later than 1 year after the date of the submission of the report under paragraph (3), the Secretary shall implement a reorganization of international trade functions for imports and exports of the Department of Agriculture, including the establishment of an Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.
-
-**(c) Confirmation required** The position of Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs established under subsection (b)(2)(A) shall be appointed by the President, by and with the advice and consent of the Senate.
+<a id="section-6941"></a>
+## § 6941. Repealed. Pub. L. 115–334, title XII, § 12414(b), Dec. 20, 2018, 132 Stat. 4981
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Agricultural Act of 2014, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
+Section, Pub. L. 113–79, title III, § 3208, Feb. 7, 2014, 128 Stat. 781, related to Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.
 
-#### Definition of “Secretary”
-“Secretary” means the Secretary of Agriculture, see [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+<a id="section-6941a"></a>
+## § 6941a. Natural Resources Conservation Service
+**(a) Establishment** The Secretary is authorized to establish and maintain within the Department a Natural Resources Conservation Service.
+
+**(b) Functions** If the Secretary establishes the Natural Resources Conservation Service under subsection (a), the Secretary is authorized to assign to the Service jurisdiction over the following:
+
+(1) The Water Bank Act ([16 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1301&num=0&edition=prelim) et seq.).
+
+(2) Title XII of the Food Security Act of 1985 ([16 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3801&num=0&edition=prelim) et seq.), except subchapter B of chapter 1 of subtitle D of such title [[16 U.S.C. 3831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3831&num=0&edition=prelim) et seq.].
+
+(3) Salinity control measures under [section 1592(c) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1592/c&num=0&edition=prelim).
+
+(4) The Farms for the Future Act of 1990 ([7 U.S.C. 4201](./chapter-073-farmland-protection-policy.md#section-4201) note; Public Law 101–624).
+
+(5) Such other functions as the Secretary considers appropriate, except functions under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3831&num=0&edition=prelim) et seq.).
+
+**(c) Special concurrence requirements for certain functions** In carrying out the programs specified in paragraphs (1) and (3) of subsection (b), the Secretary shall—
+
+(1) acting on the recommendations of the Natural Resources Conservation Service, with the concurrence of the Farm Service Agency, issue regulations to carry out such programs;
+
+(2) ensure that the Natural Resources Conservation Service, in establishing policies, priorities, and guidelines for each such program, does so with the concurrence of the Farm Service Agency at national, State, and local levels;
+
+(3) ensure that, in reaching such concurrence at the local level, the Natural Resources Conservation Service works in cooperation with Soil and Water Conservation Districts or similar organizations established under State law;
+
+(4) ensure that officials of county and area committees established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim) meet annually with officials of such Districts or similar organizations to consider local conservation priorities and guidelines; and
+
+(5) take steps to ensure that the concurrence process does not interfere with the effective delivery of such programs.
+
+**(d) Use of Federal and non-Federal employees**
+
+(1) **Use authorized** — In the implementation of functions assigned to the Natural Resources Conservation Service, the Secretary may use interchangeably in local offices of the Service both Federal employees of the Department and non-Federal employees of county and area committees established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim).
+
+(2) **Exception** — Notwithstanding paragraph (1), no personnel action (as defined in [section 2302(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/A&num=0&edition=prelim)) may be taken with respect to a Federal employee unless such action is taken by another Federal employee.
+
+**(e) Savings provision** For purposes of subsections (c) and (d) of this section:
+
+(1) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under this section.
+
+(2) A reference to the “Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under [section 6932 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6932).
+
+**(f) Omitted**
+
+**(g) Field offices**
+
+(1) **In general** — The Secretary shall not close any field office of the Natural Resources Conservation Service unless, not later than 30 days before the date of the closure, the Secretary submits to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a notification of the closure.
+
+(2) **Employees** — The Secretary shall not permanently relocate any field-based employees of the Natural Resources Conservation Service or the rural development mission area if doing so would result in a field office of the Natural Resources Conservation Service or the rural development mission area with 2 or fewer employees, unless, not later than 30 days before the date of the permanent relocation, the Secretary submits to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a notification of the permanent relocation.
+
+(3) **Sunset** — The requirements under paragraphs (1) and (2) shall cease to be effective on September 30, 2023.
+
+### Statutory Notes
+
+#### References in Text
+The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1301&num=0&edition=prelim) and Tables.
+
+The Food Security Act of 1985, referred to in subsec. (b)(2), (5), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+
+The Farms for the Future Act of 1990, referred to in subsec. (b)(4), is Pub. L. 101–624, title XIV, ch. 2, §§ 1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended, which is set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+
+#### Codification
+Section was formerly part of subtitle E of title II of Pub. L. 103–354 and classified as [section 6962 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6962), prior to being moved so as to appear at the end of subtitle B of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12410(c)(1)(B), Dec. 20, 2018, 132 Stat. 4978, and editorially reclassified as this section.
+
+Section is comprised of section 228 of Pub. L. 103–354. Subsec. (f) of section 228 of Pub. L. 103–354 amended sections 2001, 2002, 2005, and 3862 of Title 16, Conservation, and repealed [section 590e of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590e&num=0&edition=prelim).
+
+#### Amendments
+2018—Subsec. (b)(2), (3). Pub. L. 115–334, § 12410(b)(1)(A), (B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The forest land enhancement program under [section 2103 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2103&num=0&edition=prelim).”
+
+Subsec. (b)(4). Pub. L. 115–334, § 12410(b)(1)(B), (C), redesignated par. (5) as (4) and inserted “; Public Law 101–624” after “note”. Former par. (4) redesignated (3).
+
+Subsec. (b)(5), (6). Pub. L. 115–334, § 12410(b)(1)(B), (D), redesignated par. (6) as (5) and substituted “3831 et seq.” for “3831–3836”. Former par. (5) redesignated (4).
+
+Subsec. (c). Pub. L. 115–334, § 12410(b)(2), substituted “paragraphs (1) and (3) of subsection (b)” for “paragraphs (1), (2), and (4) of subsection (b) and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3837–383](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3837–383&num=0&edition=prelim)7f)” in introductory provisions.
+
+Subsec. (c)(1), (2). Pub. L. 115–334, § 12404(b)(1)(A), substituted “Farm” for “Consolidated Farm”.
+
+Subsec. (e)(2). Pub. L. 115–334, § 12404(b)(1)(B), substituted “Farm” for “Consolidated Farm” in two places.
+
+Subsec. (g). Pub. L. 115–334, § 12410(a), added subsec. (g).
+
+2002—Subsec. (b)(2). Pub. L. 107–171 substituted “forest land enhancement program” for “forestry incentive program”.
+
+1996—Subsec. (b)(1). Pub. L. 104–127, § 336(d)(2)(A), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “The rural environmental conservation program under title X of the Agricultural Act of 1970 ([16 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1501&num=0&edition=prelim) et seq.).”
+
+Subsec. (b)(2). Pub. L. 104–127, § 336(b)(2)(B), (d)(2)(A)(ii), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “The Great Plains Conservation Program under section 16(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590p(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590p/b&num=0&edition=prelim)).”
+
+Subsec. (b)(3). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated par. (5) as (3). Former par. (3) redesignated (1).
+
+Subsec. (b)(4). Pub. L. 104–127, § 336(c)(3), (d)(2)(A)(ii), redesignated par. (6) as (4) and substituted “measures” for “program”. Former par. (4) redesignated (2).
+
+Subsec. (b)(5). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated par. (7) as (5). Former par. (5) redesignated (3).
+
+Subsec. (b)(6). Pub. L. 104–127, § 336(a)(2)(D), (d)(2)(A)(ii), redesignated par. (8) as (6) and struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590g&num=0&edition=prelim) et seq.)”. Former par. (6) redesignated (4).
+
+Subsec. (b)(7), (8). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated pars. (7) and (8) as (5) and (6), respectively.
+
+Subsec. (c). Pub. L. 104–127, § 336(d)(2)(B), in introductory provisions, substituted “(1), (2), and (4)” for “(2), (3), (4), and (6)”.
 
 
 <a id="section-6942"></a>
 ## § 6942. Under Secretary of Agriculture for Rural Development
-**(a) Authorization** The Secretary is authorized to establish in the Department the position of Under Secretary of Agriculture for Rural Development.
+**(a) Authorization** The Secretary shall establish in the Department the position of Under Secretary of Agriculture for Rural Development.
 
-**(b) Confirmation required** If the Secretary establishes the position of Under Secretary of Agriculture for Rural Development authorized under subsection (a), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+**(b) Confirmation required** The Under Secretary of Agriculture for Rural Development shall be appointed by the President, by and with the advice and consent of the Senate.
 
 **(c) Functions of Under Secretary**
 
@@ -656,6 +1407,10 @@ The Rural Electrification Act of 1936, referred to in subsec. (e), is act May 20
 Section is comprised of section 231 of Pub. L. 103–354. Subsec. (f) of section 231 of Pub. L. 103–354 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees, and repealed sections 2006f and 2211b of this title.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–334, § 12407(1), substituted “shall” for “is authorized to”.
+
+Subsec. (b). Pub. L. 115–334, § 12407(2), substituted “The Under Secretary of Agriculture for Rural Development shall” for “If the Secretary establishes the position of Under Secretary of Agriculture for Rural Development authorized under subsection (a), the Under Secretary shall”.
+
 1996—Pub. L. 104–127 struck out “Economic and Community” after “Under Secretary of Agriculture for Rural”, wherever appearing in section catchline and subsecs. (a) to (c).
 
 
@@ -688,7 +1443,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (1) **Appointment** — The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.
 
-(2) **Omitted**
+(2) **Compensation** — The Administrator of the Rural Utilities Service shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of the Senior Executive Service under subsection (b) of [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim).
 
 **(c) Functions** The Secretary shall carry out through the Rural Utilities Service the following functions that are under the jurisdiction of the Department:
 
@@ -716,9 +1471,11 @@ The Rural Electrification Act of 1936, referred to in subsec. (c)(1)(A), is act 
 Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2)(B), is section 2324 of Pub. L. 101–624, which was set out as a note under [section 1926 of this title](./chapter-050-agricultural-credit.md#section-1926) prior to repeal by Pub. L. 104–127, title VII, § 703, Apr. 4, 1996, 110 Stat. 1108.
 
 #### Codification
-Section is comprised of section 232 of Pub. L. 103–354. Subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L. 103–354 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
+Section is comprised of section 232 of Pub. L. 103–354. Prior to amendment of this section by Pub. L. 115–334, subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L. 103–354 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees. See 2018 Amendment note below.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–334 amended subsec. (b) generally. Prior to amendment, par. (2) of subsec. (b) amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and text of par. (1) of subsec. (b) read as follows: “The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.”
+
 2012—Subsec. (b)(1). Pub. L. 112–166, § 2(a)(2)(A), struck out “, by and with the advice and consent of the Senate” before period at end.
 
 Subsec. (b)(2). Pub. L. 112–166, § 2(a)(2)(B), (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: “Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate—
@@ -752,8 +1509,8 @@ The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch
 1996—Subsec. (b)(2), (3). Pub. L. 104–127 redesignated par. (3) as (2), substituted “[section 2008d of this title](./chapter-050-agricultural-credit.md#section-2008d)” for “sections 2008 through 2008d of this title”, and struck out former par. (2) which read as follows: “Programs and activities authorized under [section 1932(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/i&num=0&edition=prelim) and related provisions of law.”
 
 
-<a id="section-6951"></a>
-## § 6951. Rural Business and Cooperative Development Service
+<a id="section-6946"></a>
+## § 6946. Rural Business and Cooperative Development Service
 **(a) Establishment authorized** Notwithstanding any other provision of law, the Secretary is authorized to establish and maintain within the Department the Rural Business and Cooperative Development Service and to assign to the Service such functions as the Secretary considers appropriate.
 
 **(b) Functions** If the Secretary establishes the Rural Business and Cooperative Development Service under subsection (a), the Secretary is authorized to assign to the Service jurisdiction over the following:
@@ -778,8 +1535,8 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 Act of July 2, 1926, referred to in subsec. (b)(5), is act July 2, 1926, ch. 725, 44 Stat. 802, which is classified generally to chapter 18 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 
-<a id="section-6952"></a>
-## § 6952. Rural Development Disaster Assistance Fund
+<a id="section-6951"></a>
+## § 6951. Rural Development Disaster Assistance Fund
 **(a) Rural Development Disaster Assistance Fund** On and after September 30, 2008, there is established in the Treasury a fund entitled the “Rural Development Disaster Assistance Fund”.
 
 **(b) Purpose and availability of Fund** Subject to subsection (d), amounts in the Rural Development Disaster Assistance Fund shall be available to the Secretary of Agriculture, until expended, to provide additional amounts for authorized activities of agencies of the Rural Development Mission Area in areas affected by a disaster declared by the President or the Secretary of Agriculture. Amounts so provided shall be in addition to any other amounts available to carry out the activity. In carrying out this section, the Secretary may transfer funds into existing or new accounts as determined by the Secretary.
@@ -808,6 +1565,31 @@ Section was enacted as part of the Disaster Relief and Recovery Supplemental App
 
 #### Amendments
 2009—Subsec. (b). Pub. L. 111–80 inserted at end “In carrying out this section, the Secretary may transfer funds into existing or new accounts as determined by the Secretary.”
+
+
+<a id="section-6952"></a>
+## § 6952. Rural Health Liaison
+**(a) Authorization** The Secretary shall establish in the Department the position of Rural Health Liaison.
+
+**(b) Duties** The Rural Health Liaison shall—
+
+(1) in consultation with the Secretary of Health and Human Services, coordinate the role of the Department with respect to rural health;
+
+(2) integrate across the Department the strategic planning and activities relating to rural health;
+
+(3) improve communication relating to rural health within the Department and between Federal agencies;
+
+(4) advocate on behalf of the health care and relevant infrastructure needs in rural areas;
+
+(5) provide to stakeholders, potential grant applicants, Federal agencies, State agencies, Indian Tribes, private organizations, and academic institutions relevant data and information, including the eligibility requirements for, and availability and outcomes of, Department programs applicable to the advancement of rural health;
+
+(6) maintain communication with public health, medical, occupational safety, and telecommunication associations, research entities, and other stakeholders to ensure that the Department is aware of current and upcoming issues relating to rural health;
+
+(7) consult on programs, pilot projects, research, training, and other affairs relating to rural health at the Department and other Federal agencies;
+
+(8) provide expertise on rural health to support the activities of the Secretary as Chair of the Council on Rural Community Innovation and Economic Development; and
+
+(9) provide technical assistance and guidance with respect to activities relating to rural health to the outreach, extension, and county offices of the Department.
 
 
 <a id="section-6953"></a>
@@ -844,7 +1626,7 @@ Section is comprised of section 241 of Pub. L. 103–354. Subsec. (e) of section
 
 (2) at least 1 representative from the Agricultural Marketing Service, who shall be appointed by the Under Secretary for Marketing and Regulatory Programs;
 
-(3) at least 1 representative from the Farm Services Agency, who shall be appointed by the Under Secretary for Farm and Foreign Agricultural Services; and
+(3) at least 1 representative from the Farm Services Agency, who shall be appointed by the Under Secretary of Agriculture for Farm Production and Conservation; and
 
 (4) at least 1 representative from the Food Safety and Inspection Service, who shall be appointed by the Under Secretary for Food Safety.
 
@@ -870,10 +1652,15 @@ Section is comprised of section 241 of Pub. L. 103–354. Subsec. (e) of section
 
 (2) policies implemented for the improvement of commodity procurement programs.
 
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–334 substituted “Under Secretary of Agriculture for Farm Production and Conservation” for “Under Secretary for Farm and Foreign Agricultural Services”.
+
 
 <a id="section-6962"></a>
 ## § 6962. Healthy food financing initiative
-**(a) Purpose** The purpose of this section is to enhance the authorities of the Secretary to support efforts to provide access to healthy food by establishing an initiative to improve access to healthy foods in underserved areas, to create and preserve quality jobs, and to revitalize low-income communities by providing loans and grants to eligible fresh, healthy food retailers to overcome the higher costs and initial barriers to entry in underserved areas.
+**(a) Purpose** The purpose of this section is to enhance the authorities of the Secretary to support efforts to provide access to healthy food by establishing an initiative to improve access to healthy foods in underserved areas, to create and preserve quality jobs, and to revitalize low-income communities by providing loans and grants to eligible fresh, healthy food retailers and enterprises to overcome the higher costs and initial barriers to entry in underserved areas.
 
 **(b) Definitions** In this section:
 
@@ -891,7 +1678,7 @@ Section is comprised of section 241 of Pub. L. 103–354. Subsec. (e) of section
 
     (ii) providing financial and technical assistance to partnerships; and
 
-    (iii) funding eligible projects to attract fresh, healthy food retailers to underserved areas, in accordance with this section.
+    (iii) funding eligible projects to attract fresh, healthy food retailers and enterprises to underserved areas, in accordance with this section.
 
 (4) **Partnership** — The term “partnership” means a regional, State, or local public-private partnership that—
 
@@ -947,7 +1734,7 @@ Section is comprised of section 241 of Pub. L. 103–354. Subsec. (e) of section
 
     (i) to expand or preserve the availability of staple foods in underserved areas with moderate- and low-income populations by maintaining or increasing the number of retail outlets that offer an assortment of perishable food and staple food items, as determined by the Secretary, in those areas; and
 
-    (ii) to accept benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) et seq.).
+    (ii) as applicable, to accept benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) et seq.).
 
   (C) *Priorities* — In carrying out the Initiative, priority shall be given to projects that—
 
@@ -974,6 +1761,11 @@ Section is comprised of section 241 of Pub. L. 103–354. Subsec. (e) of section
 #### References in Text
 The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(B)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2011) and Tables.
 
+#### Amendments
+2018—Subsecs. (a), (b)(3)(B)(iii). Pub. L. 115–334, § 4204(1), (2), inserted “and enterprises” after “retailers”.
+
+Subsec. (c)(2)(B)(ii). Pub. L. 115–334, § 4204(3), inserted “as applicable,” before “to accept”.
+
 
 <a id="section-6962a"></a>
 ## § 6962a. Under Secretary of Agriculture for Natural Resources and Environment
@@ -996,79 +1788,12 @@ Section is comprised of section 245 of Pub. L. 103–354. Subsec. (e) of section
 
 
 <a id="section-6963"></a>
-## § 6963. Natural Resources Conservation Service
-**(a) Establishment** The Secretary is authorized to establish and maintain within the Department a Natural Resources Conservation Service.
-
-**(b) Functions** If the Secretary establishes the Natural Resources Conservation Service under subsection (a), the Secretary is authorized to assign to the Service jurisdiction over the following:
-
-(1) The Water Bank Act ([16 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1301&num=0&edition=prelim) et seq.).
-
-(2) The forest land enhancement program under [section 2103 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2103&num=0&edition=prelim).11 See References in Text note below.
-
-(3) Title XII of the Food Security Act of 1985 ([16 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3801&num=0&edition=prelim) et seq.), except subchapter B of chapter 1 of subtitle D of such title [[16 U.S.C. 3831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3831&num=0&edition=prelim) et seq.].
-
-(4) Salinity control measures under [section 1592(c) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1592/c&num=0&edition=prelim).
-
-(5) The Farms for the Future Act of 1990 ([7 U.S.C. 4201](./chapter-073-farmland-protection-policy.md#section-4201) note).
-
-(6) Such other functions as the Secretary considers appropriate, except functions under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3831&num=0&edition=prelim) et seq.].
-
-**(c) Special concurrence requirements for certain functions** In carrying out the programs specified in paragraphs (1), (2), and (4) of subsection (b) and the program under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3837–383](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3837–383&num=0&edition=prelim)7f),1 the Secretary shall—
-
-(1) acting on the recommendations of the Natural Resources Conservation Service, with the concurrence of the Consolidated Farm Service Agency, issue regulations to carry out such programs;
-
-(2) ensure that the Natural Resources Conservation Service, in establishing policies, priorities, and guidelines for each such program, does so with the concurrence of the Consolidated Farm Service Agency at national, State, and local levels;
-
-(3) ensure that, in reaching such concurrence at the local level, the Natural Resources Conservation Service works in cooperation with Soil and Water Conservation Districts or similar organizations established under State law;
-
-(4) ensure that officials of county and area committees established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim) meet annually with officials of such Districts or similar organizations to consider local conservation priorities and guidelines; and
-
-(5) take steps to ensure that the concurrence process does not interfere with the effective delivery of such programs.
-
-**(d) Use of Federal and non-Federal employees**
-
-(1) **Use authorized** — In the implementation of functions assigned to the Natural Resources Conservation Service, the Secretary may use interchangeably in local offices of the Service both Federal employees of the Department and non-Federal employees of county and area committees established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim).
-
-(2) **Exception** — Notwithstanding paragraph (1), no personnel action (as defined in [section 2302(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/A&num=0&edition=prelim)) may be taken with respect to a Federal employee unless such action is taken by another Federal employee.
-
-**(e) Savings provision** For purposes of subsections (c) and (d) of this section:
-
-(1) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under this section.
-
-(2) A reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under [section 6932 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6932).
+## § 6963. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1301&num=0&edition=prelim) and Tables.
-
-[Section 2103 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2103&num=0&edition=prelim), referred to in subsec. (b)(2), was repealed by Pub. L. 113–79, title VIII, § 8001(a), Feb. 7, 2014, 128 Stat. 913.
-
-The Food Security Act of 1985, referred to in subsecs. (b)(3), (6) and (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. Subchapter C of chapter 1 of subtitle D of title XII of the Act was classified generally to subpart C (§ 3837 et seq.) of part I of subchapter IV of chapter 58 of Title 16, prior to repeal by Pub. L. 113–79, title II, § 2703(a), Feb. 7, 2014, 128 Stat. 767. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
-
-The Farms for the Future Act of 1990, referred to in subsec. (b)(5), is Pub. L. 101–624, title XIV, ch. 2, §§ 1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended, which is set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
-
 #### Codification
-Section is comprised of section 246 of Pub. L. 103–354. Subsec. (f) of section 246 of Pub. L. 103–354 amended sections 2001, 2002, 2005, and 3862 of Title 16, Conservation, and repealed [section 590e of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590e&num=0&edition=prelim).
-
-#### Amendments
-2002—Subsec. (b)(2). Pub. L. 107–171 substituted “forest land enhancement program” for “forestry incentive program”.
-
-1996—Subsec. (b)(1). Pub. L. 104–127, § 336(d)(2)(A), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “The rural environmental conservation program under title X of the Agricultural Act of 1970 ([16 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1501&num=0&edition=prelim) et seq.).”
-
-Subsec. (b)(2). Pub. L. 104–127, § 336(b)(2)(B), (d)(2)(A)(ii), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “The Great Plains Conservation Program under section 16(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590p(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590p/b&num=0&edition=prelim)).”
-
-Subsec. (b)(3). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated par. (5) as (3). Former par. (3) redesignated (1).
-
-Subsec. (b)(4). Pub. L. 104–127, § 336(c)(3), (d)(2)(A)(ii), redesignated par. (6) as (4) and substituted “measures” for “program”. Former par. (4) redesignated (2).
-
-Subsec. (b)(5). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated par. (7) as (5). Former par. (5) redesignated (3).
-
-Subsec. (b)(6). Pub. L. 104–127, § 336(a)(2)(D), (d)(2)(A)(ii), redesignated par. (8) as (6) and struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590g&num=0&edition=prelim) et seq.)”. Former par. (6) redesignated (4).
-
-Subsec. (b)(7), (8). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated pars. (7) and (8) as (5) and (6), respectively.
-
-Subsec. (c). Pub. L. 104–127, § 336(d)(2)(B), in introductory provisions, substituted “(1), (2), and (4)” for “(2), (3), (4), and (6)”.
+Section, Pub. L. 103–354, title II, § 228, formerly § 246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, § 336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005, 1006; Pub. L. 107–171, title VIII, § 8002(c), May 13, 2002, 116 Stat. 473; Pub. L. 115–334, title XII, §§ 12404(b)(1), 12410(a)(c)(1)(A), Dec. 20, 2018, 132 Stat. 4975, 4977, 4978, was moved so as to appear at the end of subtitle B of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12410(c)(1)(B), Dec. 20, 2018, 132 Stat. 4978, and editorially reclassified as [section 6936 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6936).
 
 
 <a id="section-6971"></a>
@@ -1083,24 +1808,11 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
 
 <a id="section-6972"></a>
-## § 6972. Reorganization of Forest Service
-**(a) Required elements of reorganization proposals** Reorganization proposals that are developed by the Secretary to carry out the designation by the President of the Forest Service as a Reinvention Lab pursuant to the National Performance Review, dated September 1993, shall include proposals for—
+## § 6972. Repealed. Pub. L. 115–334, title XII, § 12414(a)(5), Dec. 20, 2018, 132 Stat. 4981
 
-(1) reorganizing the Service in a manner that is consistent with the principles of interdisciplinary planning;
+### Statutory Notes
 
-(2) redefining and consolidating the mission and roles of, and research conducted by, employees of the Service in connection with the National Forest System and State and private forestry to facilitate interdisciplinary planning and to eliminate functionalism;
-
-(3) reforming the budget structure of the Service to support interdisciplinary planning, including reducing the number of budget line items;
-
-(4) defining new measures of accountability so that Congress may meet the constitutional obligation of Congress to oversee the Service;
-
-(5) achieving structural and organizational consolidations;
-
-(6) to the extent practicable, sharing office space, equipment, vehicles, and electronic systems with other administrative units of the Department and other Federal field offices, including proposals for using an on-line system by all administrative units of the Department to maximize administrative efficiency; and
-
-(7) reorganizing the Service in a manner that will result in a larger percentage of employees of the Service being retained at organizational levels below regional offices, research stations, and the area office of the Service.
-
-**(b) Report** Not later than March 31, 1995, the Secretary shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that describes actions taken to carry out subsection (a), identifies any disparities in regional funding patterns, and contains the rationale behind the disparities.
+Section, Pub. L. 103–354, title II, § 247, Oct. 13, 1994, 108 Stat. 3225, related to reorganization of Forest Service.
 
 
 <a id="section-6981"></a>
@@ -1135,11 +1847,11 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
 (3) **Additional functions** — The Under Secretary shall perform such other functions and duties as may be required by law or prescribed by the Secretary.
 
-**(e) Research, Education, and Extension Office**
+**(e) Office of the Chief Scientist**
 
-(1) **Establishment** — The Under Secretary shall organize within the office of the Under Secretary 6 Divisions, to be known collectively as the “Research, Education, and Extension Office”, which shall coordinate the research programs and activities of the Department.
+(1) **Establishment** — The Under Secretary shall organize within the office of the Under Secretary 6 Divisions, to be known collectively as the “Office of the Chief Scientist”, which shall coordinate the research programs and activities of the Department.
 
-(2) **Division designations** — The Divisions within the Research, Education, and Extension Office shall be as follows:
+(2) **Division designations** — The Divisions within the Office of the Chief Scientist shall be as follows:
 
   (A) Renewable energy, natural resources, and environment.
 
@@ -1179,7 +1891,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
     (iii) maximizes the ability of the Under Secretary to allow for rotations of Department personnel into the position of Division Chief.
 
-  (C) *Term of service* — Notwithstanding title 5, the maximum length of service for an individual selected as a Division Chief under subparagraph (A) shall not exceed 4 years.
+  (C) *Term of service* — Notwithstanding title 5, the maximum length of service for an individual selected as a Division Chief under clauses (i) and (iii) of subparagraph (A) shall be for not less than 3 years.
 
   (D) *Qualifications* — To be eligible for selection as a Division Chief, an individual shall have—
 
@@ -1201,9 +1913,27 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
     (vi) perform such other duties as the Under Secretary may determine.
 
-(4) **General administration**
+(4) **Additional leadership duties** — In addition to selecting the Division Chiefs under paragraph (3), using available personnel authority under title 5, the Under Secretary shall select personnel—
 
-  (A) *Funding* — Notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph unless the appropriation Act specifically refers to this subsection and specifically includes the administration of funds under this section, the Secretary may transfer funds made available to an agency in the research, education, and economics mission area to fund the costs of Division personnel.
+  (A) to oversee implementation, training, and compliance with the scientific integrity policy of the Department;
+
+  (B)
+
+    (i) to integrate strategic program planning and evaluation functions across the programs of the Department; and
+
+    (ii) to help prepare the annual report to Congress on the relevance and adequacy of programs under the jurisdiction of the Under Secretary;
+
+  (C) to assist the Chief Scientist in coordinating the international engagements of the Department with the Department of State and other international agencies and offices of the Federal Government; and
+
+  (D) to oversee other duties as may be required by Federal law or Department policy.
+
+(5) **General administration**
+
+  (A) *Funding*
+
+    (i) *Authorization of appropriations* — There is authorized to be appropriated such sums as are necessary to fund the costs of Division personnel.
+
+    (ii) *Additional funding* — In addition to amounts made available under clause (i), notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph unless the appropriation Act specifically refers to this subsection and specifically includes the administration of funds under this section, the Secretary may transfer funds made available to an agency in the research, education, and economics mission area to fund the costs of Division personnel.
 
   (B) *Limitation* — To the maximum extent practicable—
 
@@ -1213,11 +1943,13 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (C) *Rotation of personnel* — To the maximum extent practicable, and using the authority described in paragraph (3)(A), the Under Secretary shall rotate personnel among the Divisions, and between the Divisions and agencies of the Department, in a manner that—
 
-    (i) promotes leadership and professional development; and
+    (i) promotes leadership and professional development;
 
-    (ii) enables personnel to interact with other agencies of the Department.
+    (ii) enables personnel to interact with other agencies of the Department; and
 
-(5) **Organization** — The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Research, Education and Extension Office in such form as is required to ensure that administrative duplication does not occur.
+    (iii) provides strong staff continuity to the Office of the Chief Scientist.
+
+(6) **Organization** — The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Office of the Chief Scientist in such form as is required to ensure that administrative duplication does not occur.
 
 **(f) National Institute of Food and Agriculture**
 
@@ -1265,11 +1997,11 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
     (i) The Agriculture and Food Research Initiative established under [section 3157(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3157/b&num=0&edition=prelim).
 
-    (ii) The program providing competitive grants for risk management education established under [section 1524(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1524/a/3&num=0&edition=prelim).
+    (ii) The program providing competitive grants for risk management education established under [section 1524(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1524/a&num=0&edition=prelim).
 
     (iii) The program providing community food project competitive grants established under [section 2034 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2034).
 
-    (iv) The program providing grants for beginning farmer and rancher development established under [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f).
+    (iv) The beginning farmer and rancher development grant program established under subsection (d) of [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279).
 
     (v) The program providing grants under section 1417(j) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3152(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3152/j&num=0&edition=prelim)).
 
@@ -1353,7 +2085,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (A) *In general* — The Director shall organize offices and functions within the Institute to administer fundamental and applied research and extension and education programs.
 
-  (B) *Research priorities* — The Director shall ensure the research priorities established by the Under Secretary through the Research, Education and Extension Office are carried out by the offices and functions of the Institute, where applicable.
+  (B) *Research priorities* — The Director shall ensure the research priorities established by the Under Secretary through the Office of the Chief Scientist are carried out by the offices and functions of the Institute, where applicable.
 
   (C) *Fundamental and applied research* — The Director shall—
 
@@ -1378,7 +2110,7 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of this paragraph and the date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (e)(3)(A)(ii), (4)(A), and (f)(1)(C), (D), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of this paragraph and the date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (e)(3)(A)(ii), (5)(A)(ii), and (f)(1)(C), (D), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 This Act, referred to in subsec. (e)(3)(E), is Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3178, known as the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6901) and Tables.
 
@@ -1396,6 +2128,30 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly (e), of section 251 of Pub. L. 103–354, as redesignated by Pub. L. 110–246, § 7511(a)(3), amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334, § 12411(a)(1), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office” in heading.
+
+Subsec. (e)(1). Pub. L. 115–334, § 12411(a)(2), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
+
+Subsec. (e)(2). Pub. L. 115–334, § 12411(a)(3), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office” in introductory provisions.
+
+Subsec. (e)(3)(C). Pub. L. 115–334, § 12411(a)(4), substituted “clauses (i) and (iii) of subparagraph (A) shall be for not less than 3 years” for “subparagraph (A) shall not exceed 4 years”.
+
+Subsec. (e)(4). Pub. L. 115–334, § 12411(a)(6), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (e)(5). Pub. L. 115–334, § 12411(a)(5), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (e)(5)(A). Pub. L. 115–334, § 12411(a)(7)(A), designated existing provisions as cl. (ii), inserted heading, substituted “In addition to amounts made available under clause (i), notwithstanding” for “Notwithstanding”, and added cl. (i).
+
+Subsec. (e)(5)(C)(iii). Pub. L. 115–334, § 12411(a)(7)(B), added cl. (iii).
+
+Subsec. (e)(6). Pub. L. 115–334, § 12411(a)(5), (8), redesignated par. (5) as (6) and substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
+
+Subsec. (f)(1)(D)(ii). Pub. L. 115–334, § 11125(b), substituted “[section 1524(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1524/a&num=0&edition=prelim)” for “[section 1524(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1524/a/3&num=0&edition=prelim)”.
+
+Subsec. (f)(1)(D)(iv). Pub. L. 115–334, § 12301(a)(2)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “The program providing grants for beginning farmer and rancher development established under [section 3319f of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3319f).”
+
+Subsec. (f)(5)(B). Pub. L. 115–334, § 12411(b)(1), substituted “Office of the Chief Scientist” for “Research, Education and Extension Office”.
+
 2014—Subsec. (f)(1)(C)(vi). Pub. L. 113–79, § 7111(b)(2), inserted “except for the competitive grant program under section 1433(b)” before period at end.
 
 Subsec. (f)(1)(D)(xi) to (xiii). Pub. L. 113–79, § 7212(b), redesignated cls. (xii) and (xiii) as (xi) and (xii), respectively, and struck out former cl. (xi) which read as follows: “The administration and management of the Agricultural Bioenergy Feedstock and Energy Efficiency Research and Extension Initiative carried out under [section 5925e of this title](./chapter-088-research.md#section-5925e).”
@@ -1409,9 +2165,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 
 <a id="section-6982"></a>
-## § 6982. Program staff
+## § 6982. Repealed. Pub. L. 115–334, title XII, § 12414(a)(6), Dec. 20, 2018, 132 Stat. 4981
 
-In making the personnel reductions required under [section 6913 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6913), the Secretary shall reduce the number of Federal research and education personnel of the Department by a percentage equal to at least the percentage of overall Department personnel reductions. The Secretary shall achieve such reduction in research and education personnel in a manner that minimizes duplication and maximizes coordination between Federal and State research and extension activities.
+### Statutory Notes
+
+Section, Pub. L. 103–354, title II, § 252, Oct. 13, 1994, 108 Stat. 3227, related to program staff.
 
 
 <a id="section-6991"></a>
@@ -1464,7 +2222,7 @@ For purposes of this subchapter:
 
 (2) **Agency** — The term “agency” means any agency of the Department designated by the Secretary or a successor agency of the Department, except that the term shall include the following (and any successor to the following):
 
-  (A) The Consolidated Farm Service Agency (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under [section 6932 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6932)).
+  (A) The Farm Service Agency (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under [section 6932 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6932)).
 
   (B) The Commodity Credit Corporation, with respect to domestic programs.
 
@@ -1474,7 +2232,7 @@ For purposes of this subchapter:
 
   (E) The Rural Development Administration.
 
-  (F) The Natural Resources Conservation Service (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under [section 6962(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6962/b&num=0&edition=prelim)).
+  (F) The Natural Resources Conservation Service (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under [section 6936(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6936/b&num=0&edition=prelim)).
 
   (G) A State, county, or area committee established under [section 590h(b)(5) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590h/b/5&num=0&edition=prelim).
 
@@ -1498,6 +2256,11 @@ For purposes of this subchapter:
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle H (§§ 271–283) of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3228, which enacted this subchapter, amended sections 2006 and 5101 to 5106 of this title and [section 2202e of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2202e&num=0&edition=prelim), Banks and Banking, and repealed sections 1433e and 1983b of this title.
 
 This chapter, referred to in par. (6), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6901) and Tables.
+
+#### Amendments
+2018—Par. (2)(A). Pub. L. 115–334, § 12404(b)(2), substituted “Farm” for “Consolidated Farm” in two places.
+
+Par. (2)(F). Pub. L. 115–334, § 12410(c)(2)(B), substituted “[section 6936(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6936/b&num=0&edition=prelim)” for “[section 6962(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6962/b&num=0&edition=prelim)”.
 
 
 <a id="section-6994"></a>
@@ -1526,11 +2289,28 @@ This chapter, referred to in par. (6), was in the original “this title”, mea
 
 **(d) Determination of appealability of agency decisions** If an officer, employee, or committee of an agency determines that a decision is not appealable and a participant appeals the decision to the Director, the Director shall determine whether the decision is adverse to the individual participant and thus appealable or is a matter of general applicability and thus not subject to appeal. The determination of the Director as to whether a decision is appealable shall be administratively final.
 
-**(e) Division personnel** The Director shall appoint such hearing officers and other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter.
+**(e) Division personnel**
+
+(1) **In general** — The Director shall recommend to the Secretary persons for appointment as hearing officers as are necessary for the conduct of hearings under [section 6997 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6997). The Director shall appoint such other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter. Each position of the Division shall be filled by an individual who is not a political appointee.
+
+(2) **Political appointee** — In this subsection, the term “political appointee” means an individual occupying—
+
+  (A) a position described under sections 5312 through 5316 of title 5 (relating to the Executive Schedule);
+
+  (B) a noncareer position in the Senior Executive Service, as described under section 3132(a)(7) of that title;
+
+  (C) a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations; or
+
+  (D) a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
 
 ### Statutory Notes
 
+#### References in Text
+This subchapter, referred to in subsec. (e), was in the original “this subtitle”, meaning subtitle H (§§ 271–283) of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3228, which enacted this subchapter, amended sections 2006 and 5101 to 5106 of this title and [section 2202e of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2202e&num=0&edition=prelim), Banks and Banking, and repealed sections 1433e and 1983b of this title.
+
 #### Amendments
+2018—Subsec. (e). Pub. L. 115–334 amended subsec. (e) generally. Prior to amendment, text read as follows: “The Director shall appoint such hearing officers and other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter.”
+
 2014—Subsec. (c). Pub. L. 113–79 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Director shall be free from the direction and control of any person other than the Secretary. The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary. The Secretary may not delegate to any other officer or employee of the Department, other than the Director, the authority of the Secretary with respect to the Division.”
 
 
@@ -1567,7 +2347,7 @@ Not later than 10 working days after an adverse decision is made that affects th
 ## § 6997. Informal hearings
 **(a) In general** If an officer, employee, or committee of an agency makes an adverse decision, the agency shall hold, at the request of the participant, an informal hearing on the decision.
 
-**(b) Farm Service Agency** With respect to programs carried out through the Consolidated Farm Service Agency (or other office, agency, or administrative unit of the Department assigned to carry out the programs authorized for the Consolidated Farm Service Agency under [section 6932 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6932)), the Secretary shall maintain the informal appeals process applicable to such programs, as in effect on October 13, 1994.
+**(b) Farm Service Agency** With respect to programs carried out through the Farm Service Agency (or other office, agency, or administrative unit of the Department assigned to carry out the programs authorized for the Farm Service Agency under [section 6932 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6932)), the Secretary shall maintain the informal appeals process applicable to such programs, as in effect on October 13, 1994.
 
 **(c) Mediation** If a mediation program is available under title V of the Agricultural Credit Act of 1987 ([7 U.S.C. 5101](./chapter-082-state-agricultural-loan-mediation-programs.md#section-5101) et seq.) as a part of the informal hearing process, the participant shall—
 
@@ -1584,6 +2364,8 @@ The Agricultural Credit Act of 1987, referred to in subsec. (c), is Pub. L. 100�
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b). Pub. L. 115–334 substituted “Farm” for “Consolidated Farm” in two places.
+
 2008—Pub. L. 110–246, § 12032, designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2008 Amendment
@@ -1732,14 +2514,14 @@ Subsec. (a)(2). Pub. L. 107–171, § 1613(i)(3), inserted “, before the end o
 Subsec. (a)(2)(B), (3), (4). Pub. L. 107–171, § 1613(i)(1), substituted “Farm Service Agency” for “Consolidated Farm Service Agency” wherever appearing.
 
 
-<a id="section-7011"></a>
-## § 7011. Authorization of appropriations
+<a id="section-7007"></a>
+## § 7007. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the activities of the Division.
 
 
-<a id="section-7012"></a>
-## § 7012. Under Secretary of Agriculture for Marketing and Regulatory Programs
+<a id="section-7011"></a>
+## § 7011. Under Secretary of Agriculture for Marketing and Regulatory Programs
 **(a) Authorization** The Secretary is authorized to establish in the Department the position of Under Secretary of Agriculture for Marketing and Regulatory Programs.
 
 **(b) Confirmation required** If the Secretary establishes the position of Under Secretary of Agriculture for Marketing and Regulatory Programs authorized under subsection (a), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
@@ -1756,6 +2538,23 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Codification
 Section is comprised of section 285 of Pub. L. 103–354, as added by Pub. L. 105–277. Subsec. (e) of section 285 of Pub. L. 103–354 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-7012"></a>
+## § 7012. Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs
+**(a) Establishment** There is established in the Department the position of Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.
+
+**(b) Appointment** The Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs shall be appointed by the President, by and with the advice and consent of the Senate.
+
+**(c) Functions**
+
+(1) **Principal functions** — The Secretary shall delegate to the Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs those functions and duties under the jurisdiction of the Department that are related to trade and foreign agricultural affairs.
+
+(2) **Additional functions** — The Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs shall perform such other functions and duties as may be—
+
+  (A) required by law; or
+
+  (B) prescribed by the Secretary.
 
 
 <a id="section-7013"></a>
@@ -1817,14 +2616,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 
 <a id="section-7031"></a>
-## § 7031. Proposed conforming amendments
-
-Not later than 180 days after October 13, 1994, the Secretary shall submit to Congress recommended legislation containing additional technical and conforming amendments to Federal laws that are required as a result of the enactment of this chapter.
+## § 7031. Repealed. Pub. L. 115–334, title XII, § 12414(a)(7), Dec. 20, 2018, 132 Stat. 4981
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6901) and Tables.
+Section, Pub. L. 103–354, title II, § 295, Oct. 13, 1994, 108 Stat. 3238, related to proposed conforming amendments.
 
 
 <a id="section-7032"></a>
@@ -1847,7 +2643,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
   (A) the position of Under Secretary of Agriculture for Research, Education, and Economics;
 
-  (B) the Research, Education, and Extension Office; and
+  (B) the Office of the Chief Scientist; and
 
   (C) the National Institute of Food and Agriculture.
 
@@ -1855,19 +2651,31 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 (8) The authority of the Secretary to carry out amendments made to this chapter by the Agricultural Act of 2014.
 
+(9) The authority of the Secretary to carry out the amendments made to this chapter by section 772 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018.
+
+(10) The authority of the Secretary to carry out the amendments made to this chapter by the Agriculture Improvement Act of 2018.
+
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (b)(8), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6901) and Tables.
+This chapter, referred to in subsecs. (a) and (b)(8)–(10), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6901) and Tables.
 
 Reorganization Plan No. 2 of 1953, referred to in subsec. (b)(2), is Reorg. Plan No. 2 of 1953, June 4, 1953, 18 F.R. 3219, 67 Stat. 633, as amended, which is set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 The Agricultural Act of 2014, referred to in subsec. (b)(8), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
 
+Section 772 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018, referred to in subsec. (b)(9), is section 772 of title VII of div. A of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 397. Subsec. (a)(2) of section 772 of Pub. L. 115–141 is classified to [section 6931 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6931). The remainder of section 772 of Pub. L. 115–141 is not classified to the Code.
+
+The Agriculture Improvement Act of 2018, referred to in subsec. (b)(10), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2018—Subsec. (b)(6)(B). Pub. L. 115–334, § 12411(b)(2), substituted “Office of the Chief Scientist” for “Research, Education, and Extension Office”.
+
+Subsec. (b)(9), (10). Pub. L. 115–334, § 12416, added pars. (9) and (10).
+
 2014—Subsec. (b). Pub. L. 113–79, § 1610(b)(2)–(4), substituted “The authority” for “the authority” in pars. (1) to (7), a period for semicolon at end of pars. (1) to (5), and a period for “; or” at end of par. (6)(C).
 
 Pub. L. 113–79, § 1610(b)(1), substituted “affect:” for “affect—” in introductory provisions.
@@ -1881,6 +2689,9 @@ Subsec. (b)(7). Pub. L. 110–246, § 14013(b), added par. (7).
 2002—Subsec. (b)(5). Pub. L. 107–171 added par. (5).
 
 1998—Subsec. (b)(4). Pub. L. 105–277 added par. (4).
+
+#### Change of Name
+Reference to the Office of Advocacy and Outreach deemed to be a reference to the Office of Partnerships and Public Engagement, see section 12406(a)(2) of Pub. L. 115–334, set out as a note under [section 6934 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6934).
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

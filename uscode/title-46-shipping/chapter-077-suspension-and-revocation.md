@@ -44,7 +44,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 **(c)**
 
-(1) The Secretary shall request a holder of a license, certificate of registry, or merchant mariner’s document to make available to the Secretary, under section 206(b)(4) of the National Driver Register Act of 1982 ([23 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim) note),11 See References in Text note below. all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act committed by the individual.
+(1) The Secretary shall request a holder of a license, certificate of registry, or merchant mariner’s document to make available to the Secretary, under [section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim), all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act committed by the individual.
 
 (2) The Secretary shall require the testing of the holder of a license, certificate of registry, or merchant mariner’s document for use of alcohol and dangerous drugs in violation of law or Federal regulation. The testing may include preemployment (with respect to dangerous drugs only), periodic, random, and reasonable cause testing, and shall include post-accident testing.
 
@@ -78,9 +78,11 @@ Section 7702(a) provides that Sections 551–559 of title 5 of the United States
 Subsection (b) allows an individual whose license, certificate, or document has been suspended or revoked to appeal it to the Secretary within 30 days.
 
 #### References in Text
-Sections 205(a)(3)(A) or (B) and 206(b)(4) of the National Driver Register Act of 1982, referred to in subsec. (c)(1), are sections 205(a)(3)(A), (B) and 206(b)(4) of Pub. L. 97–364, which were set out in a note under [section 401 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim), Highways, and were repealed and restated in sections 30304 and 30305 of Title 49, Transportation, by Pub. L. 103–272, §§ 1(e), 7(b), July 5, 1994, 108 Stat. 862, 1379.
+Section 205(a)(3)(A) or (B) of that Act, referred to in subsec. (c)(1), means section 205(a)(3)(A), (B) of the National Driver Register Act of 1982, Pub. L. 97–364, which was set out in a note under [section 401 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim), Highways, and was repealed and restated in [section 30304 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30304&num=0&edition=prelim), Transportation, by Pub. L. 103–272, §§ 1(e), 7(b), July 5, 1994, 108 Stat. 862, 1379.
 
 #### Amendments
+2018—Subsec. (c)(1). Pub. L. 115–232 substituted “[section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim)” for “section 206(b)(4) of the National Driver Register Act of 1982 ([23 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim) note)”.
+
 2004—Subsec. (d)(1). Pub. L. 108–293, § 407(1), substituted “if—” for “if, when acting under the authority of that license, certificate, or document—” in introductory provisions.
 
 Subsec.(d)(1)(B)(i). Pub. L. 108–293, § 407(2), inserted “, while acting under the authority of that license, certificate, or document,” after “has”.
@@ -150,11 +152,9 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 <a id="section-7704"></a>
 ## § 7704. Dangerous drugs as grounds for revocation
-**(a)** Repealed. Pub. L. 101–380, title IV, § 4103(a)(2)(B), Aug. 18, 1990, 104 Stat. 511.]
+**(a)** If it is shown at a hearing under this chapter that a holder of a license, certificate of registry, or merchant mariner’s document issued under this part, within 10 years before the beginning of the proceedings, has been convicted of violating a dangerous drug law of the United States or of a State, the license, certificate, or document shall be suspended or revoked.
 
-**(b)** If it is shown at a hearing under this chapter that a holder of a license, certificate of registry, or merchant mariner’s document issued under this part, within 10 years before the beginning of the proceedings, has been convicted of violating a dangerous drug law of the United States or of a State, the license, certificate, or document shall be suspended or revoked.
-
-**(c)** If it is shown that a holder has been a user of, or addicted to, a dangerous drug, the license, certificate of registry, or merchant mariner’s document shall be revoked unless the holder provides satisfactory proof that the holder is cured.
+**(b)** If it is shown that a holder has been a user of, or addicted to, a dangerous drug, the license, certificate of registry, or merchant mariner’s document shall be revoked unless the holder provides satisfactory proof that the holder is cured.
 
 ### Statutory Notes
 
@@ -172,6 +172,8 @@ This section also provides that anyone who has been a user of or addicted to a d
 In sections 7503(b)(2) and 7704(c), the term “use”, when applying to “narcotic drugs” or “controlled substances”, is not intended to include the use of “off the shelf” drugs or drugs acquired with a prescription lawfully issued by a medical doctor, as long as the drugs are used by the individual in the recommended amounts and the drugs will not impair the individual’s ability to perform duties.
 
 #### Amendments
+2018—Subsecs. (a) to (c). Pub. L. 115–232 redesignated subsecs. (b) and (c) as (a) and (b), respectively.
+
 2004—Subsec. (b). Pub. L. 108–293 inserted “suspended or” after “shall be”.
 
 1990—Subsec. (a). Pub. L. 101–380 struck out subsec. (a) which defined “dangerous drug” for purpose of this section as narcotic drug, controlled substance, and marihuana.
@@ -205,7 +207,7 @@ Section 7705 allows officials designated to investigate or preside at hearings o
 
 <a id="section-7706"></a>
 ## § 7706. Drug testing reporting
-**(a) Release of Drug Test Results to Coast Guard.—** Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an applicant for employment by a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant of the Coast Guard the report.
+**(a) Release of Drug Test Results to Coast Guard.—** Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an applicant for employment by a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant the report.
 
 **(b) Standards, Procedures, and Regulations.—** The head of a Federal agency shall carry out a release under subsection (a) in accordance with the standards, procedures, and regulations applicable to the disclosure and reporting to the Coast Guard of drug tests results and drug test records of individuals employed on vessels documented under the laws of the United States.
 
@@ -217,6 +219,8 @@ Section 7705 allows officials designated to investigate or preside at hearings o
 Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (c), is section 503(e) of Pub. L. 100–71, which is set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 struck out “of the Coast Guard” after “Commandant”.
+
 2014—Subsec. (a). Pub. L. 113–281, § 304(1), inserted “an applicant for employment by a Federal agency,” after “Federal agency,”.
 
 Subsec. (c). Pub. L. 113–281, § 304(2), inserted “or an applicant for employment by a Federal agency” after “an employee” and substituted “the employee or the applicant” for “the employee”.

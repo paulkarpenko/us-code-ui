@@ -170,7 +170,7 @@ Subsec. (f)(2)(B). Pub. L. 111–291, § 831(2), substituted “not more than $6
 
 **(d) Liability**
 
-(1) **In general** — The United States, an Indian tribe, and a tribal organization shall not be liable in any civil action for any damage, injury, or death caused to any person by the donation to or serving of traditional foods through food service programs.
+(1) **In general** — The United States, an Indian tribe, a tribal organization, a State, a county or county equivalent, a local educational agency, and an entity or person authorized to facilitate the donation, storage, preparation, or serving of traditional food by the operator of a food service program shall not be liable in any civil action for any damage, injury, or death caused to any person by the donation to or storage, preparation, or serving of traditional foods through food service programs.
 
 (2) **Rule of construction** — Nothing in paragraph (1) alters any liability or other obligation of the United States under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 1450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1450&num=0&edition=prelim) et seq.).1
 
@@ -183,6 +183,9 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
 
 Section was formerly classified to [section 443d of this title](./chapter-014-miscellaneous.md#section-443d) prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2018—Subsec. (d)(1). Pub. L. 115–334 substituted “a tribal organization, a State, a county or county equivalent, a local educational agency, and an entity or person authorized to facilitate the donation, storage, preparation, or serving of traditional food by the operator of a food service program” for “and a tribal organization” and “donation to or storage, preparation, or serving of traditional foods” for “donation to or serving of traditional foods”.
 
 
 <a id="section-1611"></a>
@@ -1463,7 +1466,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 <a id="section-1616l"></a>
 ## § 1616l. Additional incentives for health professionals
-**(a) Incentive special pay** The Secretary may provide the incentive special pay authorized under [section 302(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section302/b&num=0&edition=prelim) to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) for which recruitment or retention of personnel is difficult.
+**(a) Incentive special pay** The Secretary may provide the incentive special pay authorized under section 302(b) or 335(b) of title 37 to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) for which recruitment or retention of personnel is difficult.
 
 **(b) List of positions; bonus pay**
 
@@ -1480,6 +1483,8 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 115–91 inserted “or 335(b)” after “section 302(b)”.
+
 1992—Subsec. (d). Pub. L. 102–573, § 901(1), struck out subsec. (d) which required a report to Congress by the Secretary no later than 6 months after Nov. 23, 1988, relating to overtime pay for individuals employed by the Service.
 
 Subsec. (e). Pub. L. 102–573, § 117(b)(8), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.

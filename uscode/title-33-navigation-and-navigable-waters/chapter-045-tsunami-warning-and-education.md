@@ -134,7 +134,7 @@ Par. (8). Pub. L. 115–25, § 503(4), redesignated par. (6) as (8).
 
 **(d) Tsunami warning centers**
 
-(1) **In general** — The Administrator shall support or maintain centers to support the tsunami warning system required by subsection (c). The Centers shall include—
+(1) **In general** — The Administrator shall support or maintain centers to support the tsunami warning system required by subsection (c). The Centers 11 So in original. shall include—
 
   (A) the National Tsunami Warning Center, located in Alaska, which is primarily responsible for Alaska and the continental United States;
 
@@ -166,7 +166,7 @@ Par. (8). Pub. L. 115–25, § 503(4), redesignated par. (6) as (8).
 
 (3) **Fail-safe warning capability** — The tsunami warning centers supported or maintained under paragraph (1) shall maintain a fail-safe warning capability and perform back-up duties for each other.
 
-(4) **Coordination with National Weather Service** — The Administrator shall coordinate with the forecast offices of the National Weather Service, the centers supported or maintained under paragraph (1), and such program offices of the Administration as the Administrator or the coordinating committee, as established in section 3204(d) 11 So in original. Probably should be “section 3204(b)”. of this title, consider appropriate to ensure that regional and local forecast offices—
+(4) **Coordination with National Weather Service** — The Administrator shall coordinate with the forecast offices of the National Weather Service, the centers supported or maintained under paragraph (1), and such program offices of the Administration as the Administrator or the coordinating committee, as established in section 3204(d) 22 So in original. Probably should be “section 3204(b)”. of this title, consider appropriate to ensure that regional and local forecast offices—
 
   (A) have the technical knowledge and capability to disseminate tsunami warnings for the communities they serve;
 

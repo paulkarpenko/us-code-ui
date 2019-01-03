@@ -17,7 +17,7 @@ As declared by Congress in the Foreign Assistant 11 So in original. Probably sho
 The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Effective Date
-Chapter effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 
 <a id="section-3502"></a>
@@ -30,6 +30,9 @@ Chapter effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 
 <a id="section-3503"></a>
@@ -75,6 +78,9 @@ The International Development and Food Assistance Act of 1978, referred to in su
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
+
 
 <a id="section-3504"></a>
 ## § 3504. General authorities; fiscal requirement for authorities
@@ -111,6 +117,9 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### References in Text
 This chapter, referred to in subsec. (a)(4), (10), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
+
 
 <a id="section-3505"></a>
 ## § 3505. Director
@@ -123,6 +132,9 @@ This chapter, referred to in subsec. (a)(4), (10), was in the original “this t
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
+
 
 <a id="section-3506"></a>
 ## § 3506. Deputy Director
@@ -131,6 +143,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 **(b) Duties and powers** The Deputy Director shall perform such duties and exercise such powers as the Director may prescribe.
 
 **(c) Additional positions; establishment by President; compensation** The President may establish up to two additional positions in the Institute to be compensated at the rate payable for level V of the Executive Schedule under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 
 <a id="section-3507"></a>
@@ -168,6 +185,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 #### References in Text
 This chapter, referred to in subsecs. (a) and (e), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
@@ -188,6 +208,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### References in Text
 This chapter, referred to in subsec. (c), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
@@ -216,6 +239,9 @@ Members of the Council and Institute Fellows shall avoid any action, in their ac
 #### References in Text
 This chapter, referred to in par. (3), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
+
 
 <a id="section-3510"></a>
 ## § 3510. Authorization of appropriations
@@ -229,6 +255,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 1980—Pub. L. 96–533 substituted appropriations authorization of $12,000,000 for fiscal year 1981 for such authorization of $23,750,000 for fiscal year 1980.
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).
 
 
 <a id="section-3511"></a>
@@ -259,3 +288,6 @@ The authorities contained in this chapter shall expire on September 30, 1984.
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151).

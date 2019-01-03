@@ -39,12 +39,36 @@ Section 31(e) of the Office of Federal Procurement Policy Act ([41 U.S.C. 427(e)
 
 In subsection (e)(2), the reference to [section 253 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253&num=0&edition=prelim) is limited to section 3303(e) of the revised title for clarity.
 
+#### Amendment of Section
+Pub. L. 115–232, div. A, title VIII, § 836(b)(4), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
+
+(1) in subsection (a)(2), by striking “commercial items” and inserting “commercial products or commercial services”; and
+
+(2) in subsection (e)—
+
+(A) by striking “Commercial Items” in the heading and inserting “Commercial Products and Commercial Services”; and
+
+(B) by striking “commercial items” and inserting “commercial products or commercial services”.
+
+See 2018 Amendment notes below.
+
+#### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–232, § 836(b)(4)(A), substituted “commercial products or commercial services” for “commercial items”.
+
+Subsec. (e). Pub. L. 115–232, § 836(b)(4)(B), substituted “Commercial Products and Commercial Services” for “Commercial Items” in heading and, in introductory provisions, substituted “commercial products or commercial services” for “commercial items”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
+#### Procurement Through Commercial E-Commerce Portals
+Pub. L. 115–91, div. A, title VIII, § 846, Dec. 12, 2017, 131 Stat. 1483, as amended by Pub. L. 115–232, div. A, title VIII, § 838(a), Aug. 13, 2018, 132 Stat. 1875, provided that: “(a) Establishment of Program.—The Administrator shall establish a program to procure commercial products through commercial e-commerce portals for purposes of enhancing competition, expediting procurement, enabling market research, and ensuring reasonable pricing of commercial products. The Administrator shall carry out the program in accordance with this section, through multiple contracts with multiple commercial e-commerce portal providers, and shall design the program to be implemented in phases with the objective of enabling Government-wide use of such portals. “(b) Use of Program.—The head of a department or agency may procure, as appropriate, commercial products for the department or agency using the program established pursuant to subsection (a). “(c) Implementation and Reporting Requirements.—The Director of the Office of Management and Budget, in consultation with the Administrator and the heads of other relevant departments and agencies, shall carry out the implementation phases set forth in, and submit to the appropriate congressional committees the items of information required by, the following paragraphs:“(1) Phase i: implementation plan.—Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], an implementation plan and schedule for carrying out the program established pursuant to subsection (a), including a discussion and recommendations regarding whether any changes to, or exemptions from, laws that set forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government are necessary for effective implementation of this section. “(2) Phase ii: market analysis and consultation.—Not later than one year after the date of the submission of the implementation plan and schedule required under paragraph (1), recommendations for any changes to, or exemptions from, laws necessary for effective implementation of this section, and information on the results of the following actions:“(A) Market analysis and initial communications with potential commercial e-commerce portal providers on technical considerations of how the portals function (including the use of standard terms and conditions of the portals by the Government), the degree of customization that can occur without creating a Government-unique portal, the measures necessary to address the considerations for supplier and product screening specified in subsection (e), security of data, considerations pertaining to nontraditional Government contractors, and potential fees, if any, to be charged by the Administrator, the portal provider, or the suppliers for participation in the program established pursuant to subsection (a). “(B) Consultation with affected departments and agencies about their unique procurement needs, such as supply chain risks for health care products, information technology, software, or any other category determined necessary by the Administrator. “(C) An assessment of the products or product categories that are suitable for purchase on the commercial e-commerce portals. “(D) An assessment of the precautions necessary to safeguard any information pertaining to the Federal Government, especially precautions necessary to protect against national security or cybersecurity threats. “(E) A review of standard terms and conditions of commercial e-commerce portals in the context of Government requirements. “(F) An assessment of the impact on existing programs, including schedules, set-asides for small business concerns, and other preference programs. “(3) Phase iii: program implementation guidance.—Not later than two years after the date of the submission of the implementation plan and schedule required under paragraph (1), guidance to implement and govern the use of the program established pursuant to subsection (a), including protocols for oversight of procurement through the program, and compliance with laws pertaining to supplier and product screening requirements, data security, and data analytics. “(4) Additional implementation phases.—A description of additional implementation phases, as determined by the Administrator, that includes a selection of agencies to participate in any such additional implementation phase (which may include the award of contracts to multiple commercial e-commerce portal providers). “(d) Considerations for Commercial e-commerce Portals.—The Administrator shall consider commercial e-commerce portals for use under the program established pursuant to subsection (a) that are widely used in the private sector and have or can be configured to have features that facilitate the execution of program objectives, including features related to supplier and product selection that are frequently updated, an assortment of product and supplier reviews, invoicing payment, and customer service. “(e) Information on Suppliers, Products, and Purchases.—“(1) Supplier participation and product screening.—The Administrator shall provide or ensure electronic availability to a commercial e-commerce portal provider awarded a contract pursuant to subsection (a) on a periodic basis information necessary to ensure compliance with laws pertaining to supplier and product screening as identified during implementation phase III, as described in subsection (c)(3). “(2) Provision of order information.—The Administrator shall require each commercial e-commerce portal provider awarded a contract pursuant to subsection (a) to provide order information as determined by the Administrator during implementation phase II, as described in subsection (c)(2). “(f) Relationship to Other Provisions of Law.—“(1) All laws, including laws that set forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, apply to the program established pursuant to subsection (a) unless otherwise provided in this section. “(2) A procurement of a product made through a commercial e-commerce portal under the program established pursuant to subsection (a) is deemed to be an award of a prime contract for purposes of the goals established under section 15(g) of the Small Business Act ([15 U.S.C. 644(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g&num=0&edition=prelim)), if the purchase is from a supplier that is a small business concern. “(3) Nothing in this section shall be construed as limiting the authority of a department or agency to restrict competition to small business concerns. “(4) Nothing in this section shall be construed as limiting the applicability of [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim), United States Code (popularly referred to as the Anti-Deficiency Act). “(5) A procurement of a product made through a commercial e-commerce portal under the program established pursuant to subsection (a) is deemed to satisfy requirements for full and open competition pursuant to [section 2304 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), United States Code, and [section 3301 of title 41](./chapter-033-chapter-33.md#section-3301), United States Code, if—“(A) there are offers from two or more suppliers of such a product or similar product with substantially the same physical, functional, or performance characteristics on the online marketplace; and “(B) the Administrator establishes procedures to implement subparagraph (A) and notifies Congress at least 30 days before implementing such procedures. “(g) Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a product through a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal. “(h) Disclosure, Protection, and Use of Information.—In any contract awarded to a commercial e-commerce portal provider pursuant to subsection (a), the Administrator shall require that the provider—“(1) agree not to sell or otherwise make available to any third party any information pertaining to a product ordered by the Federal Government through the commercial e-commerce portal in a manner that identifies the Federal Government, or any of its departments or agencies, as the purchaser, except if the information is needed to process or deliver an order or the Administrator provides written consent; “(2) agree to take the necessary precautions to safeguard any information pertaining to the Federal Government, especially precautions necessary to protect against national security or cybersecurity threats; and “(3) agree not to use, for pricing, marketing, competitive, or other purposes, any information, including any Government-owned data, such as purchasing trends or spending habits, related to a product from a third-party supplier featured on the commercial e-commerce portal or the transaction of such product, except as necessary to comply with the requirements of the program established in subsection (a). “(i) Simplified Acquisition Threshold.—A procurement through a commercial e-commerce portal used under the program established pursuant to subsection (a) shall not exceed the simplified acquisition threshold in [section 134 of title 41](./chapter-001-chapter-1.md#section-134), United States Code. “(j) Comptroller General Assessments.—“(1) Assessment of implementation plan.—Not later than 90 days after the Director of the Office of Management and Budget submits the implementation plan described in subsection (c)(1) to the appropriate congressional committees, the Comptroller General of the United States shall submit to the appropriate congressional committees an assessment of the plan, including any other matters the Comptroller General considers relevant to the plan. “(2) Assessment of program implementation.—Not later than three years after the first contract with a commercial e-commerce portal provider is awarded pursuant to subsection (a), the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the challenges and benefits the General Services Administration and participating departments and agencies observe regarding implementation of the program established pursuant to subsection (a). The report shall include the following elements:“(A) A description of the acquisition of the commercial e-commerce portals (including the extent to which the portals had to be configured or otherwise modified to meet the needs of the program) costs, and the implementation schedule. “(B) A description of participation by suppliers, with particular attention to those described under subsection (e), that have registered or that have sold goods with at least one commercial e-commerce portal provider, including numbers, categories, and trends. “(C) The effect, if any, of the program on the ability of agencies to meet goals established for suppliers and products described under subsection (e), including goals established under section 15(g) of the Small Business Act ([15 U.S.C. 644(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g&num=0&edition=prelim)). “(D) A discussion of the limitations, if any, to participation by suppliers in the program. “(E) Any other matters the Comptroller General considers relevant to report. “(k) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of General Services. “(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the following:“(A) The Committees on Armed Services of the Senate and House of Representatives. “(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives. “(C) The Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives. “(3) Commercial e-commerce portal.—The term ‘commercial e-commerce portal’ means a commercial solution providing for the purchase of commercial products aggregated, distributed, sold, or manufactured via an online portal. The term does not include an online portal managed by the Government for, or predominantly for use by, Government agencies. “(4) Commercial product.—The term ‘commercial product’ means a commercially available off-the-shelf item, as defined in [section 104 of title 41](./chapter-001-chapter-1.md#section-104), United States Code, except the term does not include services. “(5) Small business concern.—The term ‘small business concern’ has the meaning given such term under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).”
+
 
 <a id="section-1902"></a>
 ## § 1902. Procedures applicable to purchases below micro-purchase threshold
 **(a) Definition.—**
 
-(1) Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes of this section, the micro-purchase threshold is $3,000.
+(1) Except as provided in paragraph (2) of this subsection, for purposes of this section, the micro-purchase threshold is $10,000.
 
 (2) For purposes of this section, the micro-purchase threshold for procurement activities administered under sections 6303 through 6305 of title 31 by institutions of higher education (as defined in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)), or related or affiliated nonprofit entities, or by nonprofit research organizations or independent research institutes is—
 
@@ -54,7 +78,7 @@ In subsection (e)(2), the reference to [section 253 of this title](https://uscod
 
 **(b) Compliance With Certain Requirements and Nonapplicability of Certain Authority.—**
 
-(1) **Compliance with certain requirements.—** — The head of each executive agency shall ensure that procuring activities of that agency, when awarding a contract with a price exceeding the micro-purchase threshold, comply with the requirements of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim)), [section 2323 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2323&num=0&edition=prelim), and section 7102 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, [15 U.S.C. 644](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644&num=0&edition=prelim) note).
+(1) **Compliance with certain requirements.—** — The head of each executive agency shall ensure that procuring activities of that agency, when awarding a contract with a price exceeding the micro-purchase threshold, comply with the requirements of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim)) and section 7102 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, [15 U.S.C. 644](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644&num=0&edition=prelim) note).
 
 (2) **Nonapplicability of certain authority.—** — The authority under part 13.106(a)(1) of the Federal Acquisition Regulation (48 C.F.R. 13.106(a)(1)), as in effect on November 18, 1993, to make purchases without securing competitive quotations does not apply to a purchase with a price exceeding the micro-purchase threshold.
 
@@ -80,9 +104,18 @@ For adjustment of dollar threshold pursuant to [section 1908 of this title](./ch
 In subsecs. (a), (d), and (e), “$3,000” substituted for “$2,500” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232, § 821(b), struck out “sections 2338 and 2339 of title 10 and” after “Except as provided in”.
+
+Subsec. (b)(1). Pub. L. 115–232, § 812(a)(2)(C)(ix), struck out “, [section 2323 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2323&num=0&edition=prelim),” after “([15 U.S.C. 637(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim))”.
+
+2017—Subsec. (a)(1). Pub. L. 115–91 substituted “$10,000” for “$3,000”.
+
 2016—Subsec. (a). Pub. L. 114–328, § 217(b)(1), designated existing provisions as par. (1), substituted “Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes” for “For purposes” and added par. (2).
 
 Subsecs. (d), (e). Pub. L. 114–328, § 217(b)(2), substituted “with a price not greater than the micro-purchase threshold” for “not greater than $3,000”.
+
+#### Convenience Checks
+Pub. L. 115–91, div. A, title VIII, § 806(b), Dec. 12, 2017, 131 Stat. 1456, provided that: “A convenience check may not be used for an amount in excess of one half of the micro-purchase threshold under [section 1902(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1902/a&num=0&edition=prelim), United States Code, or a lower amount established by the head of the agency.”
 
 #### Micro-Purchase Threshold for Procurement Solicitations by Research Institutions
 Pub. L. 114–329, div. A, title II, § 207, Jan. 6, 2017, 130 Stat. 3001, provided that: “(a) Micro-purchase Threshold.—The micro-purchase threshold for procurement activities administered under sections 6303 through 6305 of title 31, United States Code, awarded by the Foundation, the National Aeronautics and Space Administration, or the National Institute of Standards and Technology to institutions of higher education, or related or affiliated nonprofit entities, or to nonprofit research organizations or independent research institutes is—“(1) $10,000 (as adjusted periodically to account for inflation); or “(2) such higher threshold as determined appropriate by the head of the relevant executive agency and consistent with audit findings under chapter 75 of title 31, United States Code, internal institutional risk assessment, or State law. “(b) Uniform Guidance.—The Uniform Guidance shall be revised to conform with the requirements of this section. For purposes of the preceding sentence, the term ‘Uniform Guidance’ means the uniform administrative requirements, cost principles, and audit requirements for Federal awards contained in part 200 of title 2 of the Code of Federal Regulations.”
@@ -142,10 +175,27 @@ Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided th
 | 1903(b) | 41:428a(b), (c). |  |
 | 1903(c) | 41:428a(d). |  |
 
+#### Amendment of Subsection (c)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(5), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended as follows:
+
+(1) in the heading, by striking “Commercial Item” and inserting “Commercial Product or Commercial Service”;
+
+(2) in paragraph (1), by striking “as a commercial item” and inserting “as a commercial product or a commercial service”; and
+
+(3) in paragraph (2), by striking “for an item or service treated as a commercial item” and inserting “for a product or service treated as a commercial product or a commercial service”.
+
+See 2018 Amendment notes below.
+
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 9 of part I of the Act is classified generally to part IX [§ 2292 et seq.] of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–232, § 836(b)(5)(A), substituted “Commercial Product or Commercial Service” for “Commercial Item” in heading.
+
+Subsec. (c)(1). Pub. L. 115–232, § 836(b)(5)(B), substituted “as a commercial product or a commercial service” for “as a commercial item”.
+
+Subsec. (c)(2). Pub. L. 115–232, § 836(b)(5)(C), substituted “for a product or service treated as a commercial product or a commercial service” for “for an item or service treated as a commercial item” in introductory provisions.
+
 2016—Subsec. (a)(2). Pub. L. 114–328, § 1641, inserted “cyber,” before “nuclear,”.
 
 Subsec. (a)(3), (4). Pub. L. 114–328, § 816, added pars. (3) and (4).
@@ -153,6 +203,9 @@ Subsec. (a)(3), (4). Pub. L. 114–328, § 816, added pars. (3) and (4).
 2015—Subsec. (b)(2)(A). Pub. L. 114–92, § 816(1), substituted “$750,000” for “$250,000”.
 
 Subsec. (b)(2)(B). Pub. L. 114–92, § 816(2), substituted “$1,500,000” for “$1,000,000”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 
 <a id="section-1904"></a>
@@ -239,7 +292,7 @@ Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Publ
 
 **(c) Subcontracts.—**
 
-(1) **Definition.—** — In this subsection, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
+(1) **Definition.—** — In this subsection, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract.
 
 (2) **Inclusion in federal acquisition regulation.—** — The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under a contract or subcontract for the procurement of commercial items. A provision of law properly included on the list pursuant to paragraph (3) does not apply to those subcontracts. This section does not render a provision of law not included on the list inapplicable to subcontracts under a contract for the procurement of commercial items.
 
@@ -262,6 +315,19 @@ Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Publ
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1906(a) | no source. |  |
 | 1906(b)–(e) | 41:430. | Pub. L. 93–400, § 34, as added Pub. L. 103–355, title VIII, § 8003(a), Oct. 13, 1994, 108 Stat. 3388. |
+
+#### Amendment of Section
+Pub. L. 115–232, div. A, title VIII, § 836(b)(6)(A), (B)(i), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by amending the section catchline to read “List of laws inapplicable to procurements of commercial products and commercial services” and, in subsections (b) to (d), by striking “commercial items” each place it appears and inserting “commercial products or commercial services”. See 2018 Amendment notes below.
+
+#### Amendments
+2018—Pub. L. 115–232, § 836(b)(6)(B)(i), substituted “List of laws inapplicable to procurements of commercial products and commercial services” for “List of laws inapplicable to procurements of commercial items” in section catchline.
+
+Subsecs. (b) to (d). Pub. L. 115–232, § 836(b)(6)(A), substituted “commercial products or commercial services” for “commercial items” wherever appearing.
+
+2017—Subsec. (c)(1). Pub. L. 115–91 inserted at end “The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 
 <a id="section-1907"></a>
@@ -328,7 +394,7 @@ Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Publ
 
 (3) **Exclusive means of adjustment.—** — A dollar threshold adjustable under this section shall be adjusted only as provided in this section.
 
-**(d) Publication.—** The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication.
+**(d) Publication.—** The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication and shall apply, in the case of the procurement of property or services by contract, to a contract, and any subcontract at any tier under the contract, in effect on that date without regard to the date of award of the contract or subcontract..11 So in original.
 
 **(e) Calculation.—** An adjustment under this section shall be—
 
@@ -385,6 +451,8 @@ In subsection (e)(1), the words “Secretary of Labor” are substituted for “
 The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. Title III of the Act is classified generally to subchapter I (§ 2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2017—Subsec. (d). Pub. L. 115–91 inserted before period at end “and shall apply, in the case of the procurement of property or services by contract, to a contract, and any subcontract at any tier under the contract, in effect on that date without regard to the date of award of the contract or subcontract.”
+
 2015—Subsec. (e)(2). Pub. L. 114–92, § 817(1), substituted “as calculated under paragraph (1)” for “on the day before the adjustment” in introductory provisions.
 
 Subsec. (e)(2)(D) to (G). Pub. L. 114–92, § 817(2), (3), added subpars. (D) to (G) and struck out former subpar. (D) which read as follows: “$1,000,000 or more, to the nearest $500,000.”

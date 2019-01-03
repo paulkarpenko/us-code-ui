@@ -97,7 +97,7 @@ Pub. L. 106–31, title VI, § 6003, May 21, 1999, 113 Stat. 113, provided that 
 
 <a id="section-41902"></a>
 ## § 41902. Schedules for certain transportation of mail
-**(a) Requirement.—** Except as provided in section 41906 11 See References in Text note below. of this title and [section 5402 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section5402&num=0&edition=prelim), an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+**(a) Requirement.—** Except as provided in [section 41905 of this title](./chapter-419-transportation-of-mail.md#section-41905) and [section 5402 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section5402&num=0&edition=prelim), an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 
 **(b) Statements on Places and Schedules.—** Every air carrier shall file with the United States Postal Service a statement showing—
 
@@ -156,10 +156,9 @@ Subsection (f) is substituted for 49 App.:1375(b) (8th sentence) to reflect the 
 
 Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(l) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
 
-#### References in Text
-[Section 41906 of this title](./chapter-419-transportation-of-mail.md#section-41906), referred to in subsec. (a), was redesignated section 41905 by Pub. L. 110–405, § 2(b)(7)(B), Oct. 13, 2008, 122 Stat. 4289.
-
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–254 substituted “section 41905” for “section 41906”.
+
 2008—Subsec. (a). Pub. L. 110–405, § 2(b)(3)(A), struck out “in foreign air transportation or” after “aircraft”.
 
 Subsec. (b). Pub. L. 110–405, § 2(b)(3)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Every air carrier shall file with the Secretary of Transportation and the United States Postal Service a statement showing—
@@ -326,7 +325,7 @@ A prior section 41906 was renumbered [section 41905 of this title](./chapter-419
 <a id="section-41907"></a>
 ## § 41907. Weighing mail
 
-The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative 11 So in original. computations necessary in the interest of mail service. When the Secretary of Transportation decides that additional or more frequent weighings of mail are advisable or necessary to carry out this part, the Postal Service shall provide the weighings, but it is not required to provide them for continuous periods of more than 30 days.
+The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and administrative computations necessary in the interest of mail service. When the Secretary of Transportation decides that additional or more frequent weighings of mail are advisable or necessary to carry out this part, the Postal Service shall provide the weighings, but it is not required to provide them for continuous periods of more than 30 days.
 
 ### Statutory Notes
 
@@ -342,6 +341,8 @@ The text of 49 App.:1376(f) (2d sentence) is omitted as surplus because of 39:ch
 A prior section 41907, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1155, related to prices for foreign transportation of mail, prior to repeal by Pub. L. 110–405, § 2(b)(7)(A), (c), Oct. 13, 2008, 122 Stat. 4289, 4290, effective Oct. 1, 2008.
 
 #### Amendments
+2018—Pub. L. 115–254 substituted “and administrative” for “and –administrative”.
+
 2008—Pub. L. 110–405, § 2(b)(7)(B), renumbered [section 41910 of this title](./chapter-419-transportation-of-mail.md#section-41910) as this section.
 
 Pub. L. 110–405, § 2(b)(6), substituted “The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative computations necessary in the interest of mail service.” for “The United States Postal Service may weigh mail transported by aircraft and make statistical and administrative computations necessary in the interest of mail service.”

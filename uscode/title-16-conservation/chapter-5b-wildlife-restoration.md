@@ -155,7 +155,7 @@ There is hereby authorized to be appropriated, out of the Federal aid to wildlif
 ### Statutory Notes
 
 #### Codification
-Section was not enacted as part of act Sept. 2, 1937, ch. 899, 50 Stat. 917, which comprises this chapter.
+Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Act which comprises this chapter.
 
 
 <a id="section-669c"></a>

@@ -54,13 +54,13 @@ source: >-
 
 (16) **Withholding agent** — The term “withholding agent” means any person required to deduct and withhold any tax under the provisions of section 1441, 1442, 1443, or 1461.
 
-(17) **Husband and wife** — As used in sections 682 and 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such sections, the term “wife” shall be read “former wife” and the term “husband” shall be read “former husband”; and, if the payments described in such sections are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such sections, the term “husband” shall be read “wife” and the term “wife” shall be read “husband.”
+(17) **11 See Amendment of Subsection (a)(17) note below. Husband and wife** — As used in sections 682 and 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such sections, the term “wife” shall be read “former wife” and the term “husband” shall be read “former husband”; and, if the payments described in such sections are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such sections, the term “husband” shall be read “wife” and the term “wife” shall be read “husband.”
 
 (18) **International organization** — The term “international organization” means a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organization under the International Organizations Immunities Act ([22 U.S.C. 288–288f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288–288f&num=0&edition=prelim)).
 
 (19) **Domestic building and loan association** — The term “domestic building and loan association” means a domestic building and loan association, a domestic savings and loan association, and a Federal savings and loan association—
 
-  (A) which either (i) is an insured institution within the meaning of section 401(a) 11 See References in Text note below. of the National Housing Act (12 U.S.C., sec. 1724(a)), or (ii) is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
+  (A) which is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
 
   (B) the business of which consists principally of acquiring the savings of the public and investing in loans; and
 
@@ -133,11 +133,7 @@ source: >-
 
 (32) **Cooperative bank** — The term “cooperative bank” means an institution without capital stock organized and operated for mutual purposes and without profit, which—
 
-  (A) either—
-
-    (i) is an insured institution within the meaning of section 401(a) 22 See References in Text note below. of the National Housing Act (12 U.S.C., sec. 1724(a)), or
-
-    (ii) is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and
+  (A) is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and
 
   (B) meets the requirements of subparagraphs (B) and (C) of paragraph (19) of this subsection (relating to definition of domestic building and loan association).
   In determining whether an institution meets the requirements referred to in subparagraph (B) of this paragraph, any reference to an association or to a domestic building and loan association contained in paragraph (19) shall be deemed to be a reference to such institution.
@@ -176,7 +172,7 @@ source: >-
 
   (A) *In general* — The term “tax return preparer” means any person who prepares for compensation, or who employs one or more persons to prepare for compensation, any return of tax imposed by this title or any claim for refund of tax imposed by this title. For purposes of the preceding sentence, the preparation of a substantial portion of a return or claim for refund shall be treated as if it were the preparation of such return or claim for refund.
 
-  (B) *Exceptions* — A person shall not be an 33 So in original. Probably should be “a”. “tax return preparer” merely because such person—
+  (B) *Exceptions* — A person shall not be a “tax return preparer” merely because such person—
 
     (i) furnishes typing, reproducing, or other mechanical assistance,
 
@@ -354,7 +350,13 @@ source: >-
 
     (iii) a student, or
 
-    (iv) a professional athlete who is temporarily in the United States to compete in a charitable sports event described in section 274(l)(1)(B).
+    (iv) a professional athlete who is temporarily in the United States to compete in a sports event—
+
+      (I) which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
+
+      (II) all of the net proceeds of which are contributed to such organization, and,22 So in original. The comma probably should not appear.
+
+      (III) which utilizes volunteers for substantially all of the work performed in carrying out such event.
 
   (B) *Foreign government-related individual* — The term “foreign government-related individual” means any individual temporarily present in the United States by reason of—
 
@@ -499,7 +501,7 @@ source: >-
 
   (A) such property is operated by or for an organization described in paragraph (3) or (4) of section 501(c), and
 
-  (B) at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconcilation 44 So in original. Probably should be “Reconciliation”. Act of 1990).
+  (B) at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
 
 (6) **Regulations** — The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the provisions of this subsection.
 
@@ -657,9 +659,16 @@ For purposes of this subsection, a Senator, a Representative in, or a Delegate o
 
 ### Statutory Notes
 
-#### References in Text
-Section 401 of the National Housing Act, referred to in subsec. (a)(19)(A), (32)(A)(i), which was classified to [section 1724 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1724&num=0&edition=prelim), Banks and Banking, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
+#### Amendment of Subsection (a)(17)
+Pub. L. 115–97, title I, § 11051(b)(4), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (a)(17) of this section, applicable to any divorce or separation instrument (as defined in former [section 71(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section71/b/2&num=0&edition=prelim) as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (a)(17) reads as follows:
 
+(17) Husband and wife
+
+As used in section 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such section, the term “wife” shall be read “former wife” and the term “husband” shall be read “former husband”; and, if the payments described in such section are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such section, the term “husband” shall be read “wife” and the term “wife” shall be read “husband.”
+
+See 2017 Amendment note below.
+
+#### References in Text
 Part A and part B of title I of the Housing Act of 1949, referred to in subsec. (a)(19)(C)(vi), which were classified generally to part A (§ 1450 et seq.) and part B (§ 1469 et seq.) of subchapter II of chapter 8A of Title 42, The Public Health and Welfare, were omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim), which terminated authority to make new loans and grants under title I of that Act after Jan. 1, 1975.
 
 Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to [section 3303 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3303&num=0&edition=prelim), was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim), which terminated authority to make new loans and grants under title I (§ 101 et seq.) of that Act after Jan. 1, 1975.
@@ -686,6 +695,22 @@ The date of the enactment of the Commodity Futures Modernization Act of 2000, re
 Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of section 7701 without specifying the act to be amended, were executed to this section, which is section 7701 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2018—Subsec. (a)(19)(A). Pub. L. 115–141, § 401(b)(54), struck out “either (i) is an insured institution within the meaning of section 401(a) of the National Housing Act (12 U.S.C., sec. 1724(a)), or (ii)” after “which”.
+
+Subsec. (a)(32)(A). Pub. L. 115–141, § 401(b)(55), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “either—
+
+“(i) is an insured institution within the meaning of section 401(a) of the National Housing Act (12 U.S.C., sec. 1724(a)), or
+
+“(ii) is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and”.
+
+Subsec. (a)(36)(B). Pub. L. 115–141, § 401(a)(331), substituted “shall not be a” for “shall not be an” in introductory provisions.
+
+Subsec. (e)(5)(B). Pub. L. 115–141, § 401(a)(332), substituted “Reconciliation” for “Reconcilation”.
+
+2017—Subsec. (a)(17). Pub. L. 115–97, § 11051(b)(4), substituted “section 2516” for “sections 682 and 2516” and substituted “such section” for “such sections” wherever appearing.
+
+Subsec. (b)(5)(A)(iv). Pub. L. 115–97, § 13304(a)(2)(F), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “a professional athlete who is temporarily in the United States to compete in a charitable sports event described in section 274(l)(1)(B).”
+
 2014—Subsec. (a)(20). Pub. L. 113–295 substituted “chapter 21.” for “chapter 21, or in the case of services performed before January 1, 1951, who would be considered an employee if his services were performed during 1951.”
 
 2010—Subsec. (a)(47). Pub. L. 111–312 amended subsec. (a) to read as if amendment by Pub. L. 107–16, § 542(e)(3), had never been enacted.
@@ -942,6 +967,11 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 
 Subsec. (a)(10). Pub. L. 86–70, § 22(h), substituted “Territory of Hawaii” for “Territories”.
 
+#### Effective Date of 2017 Amendment
+Amendment by section 11051(b)(4) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former [section 71(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section71/b/2&num=0&edition=prelim) as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under [section 61 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-61).
+
+Amendment by section 13304(a)(2)(F) of Pub. L. 115–97 applicable to amounts incurred or paid after Dec. 31, 2017, see section 13304(e)(1) of Pub. L. 115–97, set out as a note under [section 274 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-274).
+
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -1043,7 +1073,7 @@ Pub. L. 98–369, div. A, title I, § 138(b), July 18, 1984, 98 Stat. 676, as am
 
 Amendment by section 412(b)(11) of Pub. L. 98–369 applicable with respect to taxable years beginning after Dec. 31, 1984, see section 414(a)(1) of Pub. L. 98–369, set out as a note under [section 6654 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6654).
 
-Amendment by section 422(d)(3) of Pub. L. 98–369 applicable with respect to divorce or separation instruments executed after Dec. 31, 1984, or executed before Jan. 1, 1985, but modified on or after Jan. 1, 1985, with express provision for application of amendment to modification, see section 422(e)(1), (2) of Pub. L. 98–369, set out as a note under [section 71 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-71).
+Amendment by section 422(d)(3) of Pub. L. 98–369 applicable with respect to divorce or separation instruments executed after Dec. 31, 1984, or executed before Jan. 1, 1985, but modified on or after Jan. 1, 1985, with express provision for application of amendment to modification, see section 422(e)(1), (2) of Pub. L. 98–369, set out as a note under [section 219 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-219).
 
 Amendment by section 474(r)(29)(K) of Pub. L. 98–369 not applicable with respect to obligations issued before Jan. 1, 1984, see section 475(b) of Pub. L. 98–369, set out as a note under [section 33 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-33).
 
@@ -1111,12 +1141,14 @@ Amendment by Pub. L. 86–624 effective August 21, 1959, see section 18(k) of Pu
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L. 86–70, set out as a note under [section 3121 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3121).
 
 #### Savings Provision
+For provisions that nothing in amendment by section 401(b)(54), (55) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
 For provisions that nothing in amendment by section 11812(b)(13) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
 #### Plan Amendments Not Required Until January 1, 1998
 For provisions directing that if any amendments made by subtitle D [§§ 1401–1465] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -1171,7 +1203,7 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 
   (B) *Basis on which determination is made* — The determination under subparagraph (A) shall be based on—
 
-    (i) reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,
+    (i) reasonable mortality charges which meet the requirements prescribed in regulations to be promulgated by the Secretary or that do not exceed the mortality charges specified in the prevailing commissioners’ standard tables as defined in subsection (f)(10),
 
     (ii) any reasonable charges (other than mortality charges) which (on the basis of the company’s experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
 
@@ -1304,6 +1336,8 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 
 (9) **Special rule for variable life insurance contracts** — In the case of any contract which is a variable contract (as defined in section 817), the determination of whether such contract meets the requirements of subsection (a) shall be made whenever the death benefits under such contract change but not less frequently than once during each 12-month period.
 
+(10) **Prevailing commissioners’ standard tables** — For purposes of subsection (c)(3)(B)(i), the term “prevailing commissioners’ standard tables” means the most recent commissioners’ standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued. If the prevailing commissioners’ standard tables as of the beginning of any calendar year (hereinafter in this paragraph referred to as the “year of change”) are different from the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners’ standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
+
 **(g) Treatment of contracts which do not meet subsection (a) test**
 
 (1) **Income inclusion**
@@ -1371,6 +1405,10 @@ Pub. L. 96–605, title IV, § 402, Dec. 28, 1980, 94 Stat. 3532, as amended by 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (c)(3)(B)(i). Pub. L. 115–97, § 13517(a)(4)(A), added cl. (i) and struck out former cl. (i) which read as follows: “reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners’ standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,”.
+
+Subsec. (f)(10). Pub. L. 115–97, § 13517(a)(4)(B), added par. (10).
+
 1988—Subsec. (c)(3)(B)(i), (ii). Pub. L. 100–647, § 5011(a), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) the mortality charges specified in the contract (or, if none is specified, the mortality charges used in determining the statutory reserves for such contract),
@@ -1398,6 +1436,9 @@ Subsec. (f)(1)(A). Pub. L. 99–514, § 1825(b)(2), substituted “less any exce
 Subsec. (f)(7). Pub. L. 99–514, § 1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: “In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.”, and par. (7)(B), certain changes treated as exchange, read as follows: “In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract.”
 
 Subsec. (g)(1)(B)(ii). Pub. L. 99–514, § 1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year.”
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under [section 807 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-807).
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–647, title V, § 5011(d), Nov. 10, 1988, 102 Stat. 3661, provided that: “The amendments made by this section [amending this section] shall apply to contracts entered into on or after October 21, 1988.”

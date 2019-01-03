@@ -891,6 +891,10 @@ The standards established pursuant to [section 3653 of this title](./chapter-051
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (d)(3). Pub. L. 115–91 substituted “section 2302(d)” for “section 2302(c)”.
+
+Pub. L. 115–73 substituted “section 2302(c)” for “section 2302(d)”.
+
 1998—Subsec. (a). Pub. L. 105–261 struck out subsec. (a) which read as follows: “In addition to basic pay, additional compensation may be paid, in such amounts as the head of the agency concerned determines, as an overseas recruitment or retention differential to any individual who—
 
 “(1) before October 1, 1979, was employed by the Panama Canal Company, by the Canal Zone Government, or by any other agency in the area then known as the Canal Zone;
@@ -1297,6 +1301,11 @@ shall, upon the employee’s request, be accorded appropriate assistance for pla
 
 #### References in Text
 Section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383), referred to in subsec. (a), is set out as a note under [section 5597 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5597&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2017—Subsec. (b). Pub. L. 115–91 substituted “section 2302(d)” for “section 2302(c)”.
+
+Pub. L. 115–73 substituted “section 2302(c)” for “section 2302(d)”.
 
 
 <a id="section-3683"></a>

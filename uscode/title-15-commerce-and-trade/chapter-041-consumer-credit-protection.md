@@ -31,6 +31,9 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 #### Effective Date
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 2018 Amendment
+Pub. L. 115–174, § 1(a), May 24, 2018, 132 Stat. 1296, provided that: “This Act [see Tables for classification] may be cited as the ‘Economic Growth, Regulatory Relief, and Consumer Protection Act’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114–94, div. G, title LXXXIX, § 89001, Dec. 4, 2015, 129 Stat. 1799, provided that: “This title [amending sections 1639c and 1639d of this title and enacting provisions set out as a note under [section 5512 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5512&num=0&edition=prelim), Banks and Banking] may be cited as the ‘Helping Expand Lending Practices in Rural Communities Act of 2015’ or the ‘HELP Rural Communities Act of 2015’.”
 
@@ -276,7 +279,7 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 
 (6) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
 
-**(cc)** 11 So in original. Two subsecs. (cc) have been enacted. The term “reverse mortgage transaction” means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer’s principal dwelling—
+**(cc)** The term “reverse mortgage transaction” means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer’s principal dwelling—
 
 (1) securing one or more advances; and
 
@@ -288,7 +291,7 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 
   (C) the death of the consumer.
 
-**(cc) 1 Definitions Relating to Mortgage Origination and Residential Mortgage Loans.—**
+**(dd) Definitions Relating to Mortgage Origination and Residential Mortgage Loans.—**
 
 (1) **Commission.—** — Unless otherwise specified, the term “Commission” means the Federal Trade Commission.
 
@@ -304,7 +307,21 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 
   (B) includes any person who represents to the public, through advertising or other means of communicating or providing information (including the use of business cards, stationery, brochures, signs, rate lists, or other promotional items), that such person can or will provide any of the services or perform any of the activities described in subparagraph (A);
 
-  (C) does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);
+  (C) does not include any person who is—
+
+    (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph; or
+
+    (ii) a retailer of manufactured or modular homes or an employee of the retailer if the retailer or employee, as applicable—
+
+      (I) does not receive compensation or gain for engaging in activities described in subparagraph (A) that is in excess of any compensation or gain received in a comparable cash transaction;
+
+      (II) discloses to the consumer—
+
+        (aa) in writing any corporate affiliation with any creditor; and
+
+        (bb) if the retailer has a corporate affiliation with any creditor, at least 1 unaffiliated creditor; and
+
+      (III) does not directly negotiate with the consumer or lender on loan terms (including rates, fees, and other costs).
 
   (D) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless such person or entity is compensated by a lender, a mortgage broker, or other mortgage originator or by any agent of such lender, mortgage broker, or other mortgage originator;
 
@@ -334,7 +351,7 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 
 (7) **Servicer.—** — The term “servicer” has the same meaning as in [section 2605(i)(2) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i/2&num=0&edition=prelim).
 
-**(dd) Bona Fide Discount Points and Prepayment Penalties.—** For the purposes of determining the amount of points and fees for purposes of subsection (aa), either the amounts described in paragraph (1) or (2) of the following paragraphs, but not both, shall be excluded:
+**(ee) Bona Fide Discount Points and Prepayment Penalties.—** For the purposes of determining the amount of points and fees for purposes of subsection (aa), either the amounts described in paragraph (1) or (2) of the following paragraphs, but not both, shall be excluded:
 
 (1) Up to and including 2 bona fide discount points payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage’s interest rate will be discounted does not exceed by more than 1 percentage point—
 
@@ -357,11 +374,17 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 #### References in Text
 The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601). For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4701&num=0&edition=prelim), Banks and Banking, and Tables.
 
-The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (cc)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5101&num=0&edition=prelim) and Tables.
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (dd)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5101&num=0&edition=prelim) and Tables.
 
-The National Housing Act, referred to in subsec. (dd)(1)(B), (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Title I of the Act is classified generally to subchapter II (§ 1702 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (ee)(1)(B), (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title I of the Act is classified generally to subchapter II (§ 1702 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsecs. (cc), (dd). Pub. L. 115–174, § 107(1), redesignated subsec. (cc), relating to definitions relating to mortgage origination and residential mortgage loans, as (dd). Former subsec. (dd) redesignated (ee).
+
+Subsec. (dd)(2)(C). Pub. L. 115–174, § 107(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);”.
+
+Subsec. (ee). Pub. L. 115–174, § 107(1), redesignated subsec. (dd) as (ee).
+
 2010—Pub. L. 111–203, § 1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
 
 Subsecs. (b) to (z). Pub. L. 111–203, § 1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (z) as (c) to (aa), respectively.
@@ -472,7 +495,7 @@ This subchapter does not apply to the following:
 
 (2) Transactions in securities or commodities accounts by a broker-dealer registered with the Securities and Exchange Commission.
 
-(3) Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer and other than private education loans (as that term is defined in [section 1650(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650/a&num=0&edition=prelim)), in which the total amount financed exceeds $50,000.
+(3) Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer and other than private education loans (as that term is defined in [section 1650(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650/a&num=0&edition=prelim)), in which the total amount financed exceeds $50,000.11 See Adjustments for Inflation note below.
 
 (4) Transactions under public utility tariffs, if the Bureau determines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
 
@@ -483,9 +506,6 @@ This subchapter does not apply to the following:
 (7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
-
-#### Adjustments for Inflation
-For requirement of inflation adjustment of dollar amounts in par. (3) of this section, see section 1100E(b) of Pub. L. 111–203, set out as a note below.
 
 #### References in Text
 The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
@@ -525,7 +545,7 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 Board of Governors of Federal Reserve System authorized to make exceptions to requirements of this subchapter for transactions within an area in which the President has determined that a major disaster exists, if Board determines that exception can reasonably be expected to alleviate hardships to the public that outweigh possible adverse effects, see section 50002 of Pub. L. 105–18, set out as a note under [section 4008 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4008&num=0&edition=prelim), Banks and Banking, and similar provisions listed thereunder.
 
 #### Adjustments for Inflation
-Pub. L. 111–203, title X, § 1100E(b), July 21, 2010, 124 Stat. 2111, provided that: “On and after December 31, 2011, the Bureau [of Consumer Financial Protection] shall adjust annually the dollar amounts described in sections 104(3) and 181(1) of the Truth in Lending Act [[15 U.S.C. 1603(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1603/3&num=0&edition=prelim), 1667(1)] (as amended by this section), by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $100, or $1,000, as applicable.” See final rule of the Bureau of Consumer Financial Protection, Nov. 30, 2016, 81 F.R. 86256, 86260.
+Pub. L. 111–203, title X, § 1100E(b), July 21, 2010, 124 Stat. 2111, provided that: “On and after December 31, 2011, the Bureau [of Consumer Financial Protection] shall adjust annually the dollar amounts described in sections 104(3) and 181(1) of the Truth in Lending Act [[15 U.S.C. 1603(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1603/3&num=0&edition=prelim), 1667(1)] (as amended by this section), by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $100, or $1,000, as applicable.” Threshold amounts in effect during particular periods of time can be found in Code of Federal Regulations, Title 12, Supplement I to Part 1013, under Section 1013.2—Definitions, under 2(e)—Consumer Lease, paragraph 11.
 
 
 <a id="section-1604"></a>
@@ -2641,7 +2661,9 @@ Section effective on the date on which final regulations implementing such secti
 
       (II) the creditor and consumer certify in writing that the new disclosures were provided by telephone, by not later than 3 days prior to the date of consummation of the transaction.
 
-(3) **Modifications** — The Bureau may, if it finds that such action is necessary to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
+(3) **No wait for lower rate** — If a creditor extends to a consumer a second offer of credit with a lower annual percentage rate, the transaction may be consummated without regard to the period specified in paragraph (1) with respect to the second offer.
+
+(4) **Modifications** — The Bureau may, if it finds that such action is necessary to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of rights created under this subsection, to the extent and under the circumstances set forth in those regulations.
 
 **(c) No prepayment penalty**
 
@@ -2768,6 +2790,8 @@ The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2)
 A prior section 1639, Pub. L. 90–321, title I, § 129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L. 96–221, title VI, § 614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under [section 1602 of this title](./chapter-041-consumer-credit-protection.md#section-1602).
 
 #### Amendments
+2018—Subsec. (b)(3), (4). Pub. L. 115–174 added par. (3) and redesignated former par. (3) as (4).
+
 2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
 Subsec. (c)(2). Pub. L. 111–203, § 1432(a), struck out par. (2) which related to exception to prepayment penalty prohibition.
@@ -3072,6 +3096,52 @@ Pub. L. 111–203, title XIV, § 1415, July 21, 2010, 124 Stat. 2153, provided t
 
       (IV) meets any asset size threshold and any other criteria as the Bureau may establish, consistent with the purposes of this part.
 
+  (F) *Safe harbor*
+
+    (i) *Definitions* — In this subparagraph—
+
+      (I) the term “covered institution” means an insured depository institution or an insured credit union that, together with its affiliates, has less than $10,000,000,000 in total consolidated assets;
+
+      (II) the term “insured credit union” has the meaning given the term in [section 1752 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim);
+
+      (III) the term “insured depository institution” has the meaning given the term in [section 1813 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim);
+
+      (IV) the term “interest-only” means that, under the terms of the legal obligation, one or more of the periodic payments may be applied solely to accrued interest and not to loan principal; and
+
+      (V) the term “negative amortization” means payment of periodic payments that will result in an increase in the principal balance under the terms of the legal obligation.
+
+    (ii) *Safe harbor* — In this section—
+
+      (I) the term “qualified mortgage” includes any residential mortgage loan—
+
+        (aa) that is originated and retained in portfolio by a covered institution;
+
+        (bb) that is in compliance with the limitations with respect to prepayment penalties described in subsections (c)(1) and (c)(3);
+
+        (cc) that is in compliance with the requirements of clause (vii) of subparagraph (A);
+
+        (dd) that does not have negative amortization or interest-only features; and
+
+        (ee) for which the covered institution considers and documents the debt, income, and financial resources of the consumer in accordance with clause (iv); and
+
+      (II) a residential mortgage loan described in subclause (I) shall be deemed to meet the requirements of subsection (a).
+
+    (iii) *Exception for certain transfers* — A residential mortgage loan described in clause (ii)(I) shall not qualify for the safe harbor under clause (ii) if the legal title to the residential mortgage loan is sold, assigned, or otherwise transferred to another person unless the residential mortgage loan is sold, assigned, or otherwise transferred—
+
+      (I) to another person by reason of the bankruptcy or failure of a covered institution;
+
+      (II) to a covered institution so long as the loan is retained in portfolio by the covered institution to which the loan is sold, assigned, or otherwise transferred;
+
+      (III) pursuant to a merger of a covered institution with another person or the acquisition of a covered institution by another person or of another person by a covered institution, so long as the loan is retained in portfolio by the person to whom the loan is sold, assigned, or otherwise transferred; or
+
+      (IV) to a wholly owned subsidiary of a covered institution, provided that, after the sale, assignment, or transfer, the residential mortgage loan is considered to be an asset of the covered institution for regulatory accounting purposes.
+
+    (iv) *Consideration and documentation requirements* — The consideration and documentation requirements described in clause (ii)(I)(ee) shall—
+
+      (I) not be construed to require compliance with, or documentation in accordance with, appendix Q to part 1026 of title 12, Code of Federal Regulations, or any successor regulation; and
+
+      (II) be construed to permit multiple methods of documentation.
+
 (3) **Regulations**
 
   (A) *In general* — The Bureau shall prescribe regulations to carry out the purposes of this subsection.
@@ -3089,6 +3159,18 @@ Pub. L. 111–203, title XIV, § 1415, July 21, 2010, 124 Stat. 2153, provided t
       (III) The Department of Agriculture, with regard 33 So in original. Probably should be followed by “to”. loans guaranteed by the Secretary of Agriculture pursuant to [section 1472(h) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1472/h&num=0&edition=prelim).
 
       (IV) The Rural Housing Service, with regard to loans insured by the Rural Housing Service.
+
+  (C) *Consideration of underwriting requirements for Property Assessed Clean Energy financing*
+
+    (i) *Definition* — In this subparagraph, the term “Property Assessed Clean Energy financing” means financing to cover the costs of home improvements that results in a tax assessment on the real property of the consumer.
+
+    (ii) *Regulations* — The Bureau shall prescribe regulations that carry out the purposes of subsection (a) and apply [section 1640 of this title](./chapter-041-consumer-credit-protection.md#section-1640) with respect to violations under subsection (a) of this section with respect to Property Assessed Clean Energy financing, which shall account for the unique nature of Property Assessed Clean Energy financing.
+
+    (iii) *Collection of information and consultation* — In prescribing the regulations under this subparagraph, the Bureau—
+
+      (I) may collect such information and data that the Bureau determines is necessary; and
+
+      (II) shall consult with State and local governments and bond-issuing authorities.
 
 **(c) Prohibition on certain prepayment penalties**
 
@@ -3184,6 +3266,10 @@ The National Housing Act, referred to in subsec. (b)(3)(B)(ii)(I), is act June 2
 The Mortgage Reform and Anti-Predatory Lending Act, referred to in subsec. (c)(2)(C), is title XIV of Pub. L. 111–203, July 21, 2010, 124 Stat. 2136. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
 
 #### Amendments
+2018—Subsec. (b)(2)(F). Pub. L. 115–174, § 101, added subpar. (F).
+
+Subsec. (b)(3)(C). Pub. L. 115–174, § 307, added subpar. (C).
+
 2015—Subsec. (b)(2)(E)(iv)(I). Pub. L. 114–94 struck out “predominantly” after “operates”.
 
 2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
@@ -3228,15 +3314,25 @@ Pub. L. 111–203, title XIV, § 1411(a)(1), July 21, 2010, 124 Stat. 2142, prov
 
 (4) so required pursuant to regulation.
 
-**(c) Exemptions** The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
+**(c) Exemptions**
 
-(1) operates in rural or underserved areas;
+(1) **In general** — The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
 
-(2) together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
+  (A) operates in rural or underserved areas;
 
-(3) retains its mortgage loan originations in portfolio; and
+  (B) together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
 
-(4) meets any asset size threshold and any other criteria the Bureau may establish, consistent with the purposes of this part.
+  (C) retains its mortgage loan originations in portfolio; and
+
+  (D) meets any asset size threshold and any other criteria the Bureau may establish, consistent with the purposes of this part.
+
+(2) **Treatment of loans held by smaller institutions** — The Bureau shall, by regulation, exempt from the requirements of subsection (a) any loan made by an insured depository institution or an insured credit union secured by a first lien on the principal dwelling of a consumer if—
+
+  (A) the insured depository institution or insured credit union has assets of $10,000,000,000 or less;
+
+  (B) during the preceding calendar year, the insured depository institution or insured credit union and its affiliates originated 1,000 or fewer loans secured by a first lien on a principal dwelling; and
+
+  (C) the transaction satisfies the criteria in sections 1026.35(b)(2)(iii)(A), 1026.35(b)(2)(iii)(D), and 1026.35(b)(2)(v) of title 12, Code of Federal Regulations, or any successor regulation.
 
 **(d) Duration of mandatory escrow or impound account** An escrow or impound account established pursuant to subsection (b) shall remain in existence for a minimum period of 5 years, beginning with the date of the consummation of the loan, unless and until—
 
@@ -3294,6 +3390,10 @@ Pub. L. 111–203, title XIV, § 1411(a)(1), July 21, 2010, 124 Stat. 2142, prov
 
 (2) **Hazard insurance** — The term “hazard insurance” shall have the same meaning as provided for “hazard insurance”, “casualty insurance”, “homeowner’s insurance”, or other similar term under the law of the State where the real property securing the consumer credit transaction is located.
 
+(3) **Insured credit union** — The term “insured credit union” has the meaning given the term in [section 1752 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim).
+
+(4) **Insured depository institution** — The term “insured depository institution” has the meaning given the term in [section 1813 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim).
+
 **(j) Disclosure notice required for consumers who waive escrow services**
 
 (1) **In general** — If—
@@ -3316,7 +3416,7 @@ Pub. L. 111–203, title XIV, § 1411(a)(1), July 21, 2010, 124 Stat. 2142, prov
 ### Statutory Notes
 
 #### References in Text
-This part, referred to in subsec. (c)(4), was in the original “this subtitle”, and was translated as reading “this chapter”, meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
+This part, referred to in subsec. (c)(1)(D), was in the original “this subtitle”, and was translated as reading “this chapter”, meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(2)(A), (4), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) and Tables.
 
@@ -3325,9 +3425,15 @@ The Flood Disaster Protection Act of 1973, referred to in subsec. (g)(2)(B), is 
 The National Flood Insurance Act of 1968, referred to in subsec. (i)(1), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (c). Pub. L. 115–174, § 108(1)(A), (B), (D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Subsec. (c)(1). Pub. L. 115–174, § 108(1)(B), (C), which directed substitution of “The Bureau” for “The Board” in introductory provisions, and “the Bureau” for “the Board” wherever appearing, duplicated the amendment made by Pub. L. 111–203, § 1100A(2), which had already been executed. See 2010 Amendment note below.
+
+Subsec. (i)(3), (4). Pub. L. 115–174, § 108(2), added pars. (3) and (4).
+
 2015—Subsec. (c)(1). Pub. L. 114–94 struck out “predominantly” after “operates”.
 
-2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing in Pub. L. 90–321, was executed to this section, which was added to Pub. L. 90–321 by section 1461(a) of Pub. L. 111–203.
 
 Subsec. (j). Pub. L. 111–203, § 1462, added subsec. (j).
 
@@ -3383,11 +3489,15 @@ Pub. L. 111–203, title XIV, § 1461(b), July 21, 2010, 124 Stat. 2181, provide
 
 (1) **In general** — Lenders and their agents shall compensate fee appraisers at a rate that is customary and reasonable for appraisal services performed in the market area of the property being appraised. Evidence for such fees may be established by objective third-party information, such as government agency fee schedules, academic studies, and independent private sector surveys. Fee studies shall exclude assignments ordered by known appraisal management companies.
 
-(2) **Fee appraiser definition** — For purposes of this section, the term “fee appraiser” means a person who is not an employee of the mortgage loan originator or appraisal management company engaging the appraiser and is—
+(2) **Fee appraiser definition**
 
-  (A) a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
+  (A) *In general* — For purposes of this section, the term “fee appraiser” means a person who is not an employee of the mortgage loan originator or appraisal management company engaging the appraiser and is—
 
-  (B) a company not subject to the requirements of [section 3353 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3353&num=0&edition=prelim) that utilizes the services of State licensed or certified appraisers and receives a fee for performing appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
+    (i) a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
+
+    (ii) a company not subject to the requirements of [section 3353 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3353&num=0&edition=prelim) that utilizes the services of State licensed or certified appraisers and receives a fee for performing appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
+
+  (B) *Rule of construction related to appraisal donations* — If a fee appraiser voluntarily donates appraisal services to an organization eligible to receive tax-deductible charitable contributions, such voluntary donation shall be considered customary and reasonable for the purposes of paragraph (1).
 
 (3) **Exception for complex assignments** — In the case of an appraisal involving a complex assignment, the customary and reasonable fee may reflect the increased time, difficulty, and scope of the work required for such an appraisal and include an amount over and above the customary and reasonable fee for non-complex assignments.
 
@@ -3402,6 +3512,9 @@ Pub. L. 111–203, title XIV, § 1461(b), July 21, 2010, 124 Stat. 2181, provide
 (3) **Assessment** — The agency referred to in subsection (a) or (c) of [section 1607 of this title](./chapter-041-consumer-credit-protection.md#section-1607) with respect to any person described in paragraph (1) shall assess any penalty under this subsection to which such person is subject.
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (i)(2). Pub. L. 115–174 designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
 #### Effective Date
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601).
@@ -4061,13 +4174,21 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009�
 ## § 1650. Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest
 **(a) Definitions** As used in this section—
 
-(1) the term “covered educational institution”—
+(1) the term “cosigner”—
+
+  (A) means any individual who is liable for the obligation of another without compensation, regardless of how designated in the contract or instrument with respect to that obligation, other than an obligation under a private education loan extended to consolidate a consumer’s pre-existing private education loans;
+
+  (B) includes any person the signature of which is requested as condition to grant credit or to forbear on collection; and
+
+  (C) does not include a spouse of an individual described in subparagraph (A), the signature of whom is needed to perfect the security interest in a loan.
+
+(2) the term “covered educational institution”—
 
   (A) means any educational institution that offers a postsecondary educational degree, certificate, or program of study (including any institution of higher education); and
 
   (B) includes an agent, officer, or employee of the educational institution;
 
-(2) the term “gift”—
+(3) the term “gift”—
 
   (A)
 
@@ -4099,13 +4220,13 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009�
 
     (vi) State education grants, scholarships, or financial aid funds administered by or on behalf of a State;
 
-(3) the term “institution of higher education” has the same meaning as in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim));
+(4) the term “institution of higher education” has the same meaning as in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim));
 
-(4) the term “postsecondary educational expenses” means any of the expenses that are included as part of the cost of attendance of a student, as defined under section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087&num=0&edition=prelim)ll);
+(5) the term “postsecondary educational expenses” means any of the expenses that are included as part of the cost of attendance of a student, as defined under section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087&num=0&edition=prelim)ll);
 
-(5) the term “preferred lender arrangement” has the same meaning as in section 151 of the Higher Education Act of 1965 [[20 U.S.C. 1019](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1019&num=0&edition=prelim)];
+(6) the term “preferred lender arrangement” has the same meaning as in section 151 of the Higher Education Act of 1965 [[20 U.S.C. 1019](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1019&num=0&edition=prelim)];
 
-(6) the term “private educational lender” means—
+(7) the term “private educational lender” means—
 
   (A) a financial institution, as defined in [section 1813 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim) that solicits, makes, or extends private education loans;
 
@@ -4113,7 +4234,7 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009�
 
   (C) any other person engaged in the business of soliciting, making, or extending private education loans;
 
-(7) the term “private education loan”—
+(8) the term “private education loan”—
 
   (A) means a loan provided by a private educational lender that—
 
@@ -4123,7 +4244,7 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009�
 
   (B) does not include an extension of credit under an open end consumer credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
 
-(8) the term “revenue sharing” means an arrangement between a covered educational institution and a private educational lender under which—
+(9) the term “revenue sharing” means an arrangement between a covered educational institution and a private educational lender under which—
 
   (A) a private educational lender provides or issues private education loans with respect to students attending the covered educational institution;
 
@@ -4163,15 +4284,34 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009�
 
   (C) That credit card and debt education and counseling sessions be offered as a regular part of any orientation program for new students of such institution.
 
+**(g) Additional protections relating to borrower or cosigner of a private education loan**
+
+(1) **Prohibition on automatic default in case of death or bankruptcy of non-student obligor** — With respect to a private education loan involving a student obligor and 1 or more cosigners, the creditor shall not declare a default or accelerate the debt against the student obligor on the sole basis of a bankruptcy or death of a cosigner.
+
+(2) **Cosigner release in case of death of borrower**
+
+  (A) *Release of cosigner* — The holder of a private education loan, when notified of the death of a student obligor, shall release within a reasonable timeframe any cosigner from the obligations of the cosigner under the private education loan.
+
+  (B) *Notification of release* — A holder or servicer of a private education loan, as applicable, shall within a reasonable time-frame notify any cosigners for the private education loan if a cosigner is released from the obligations of the cosigner for the private education loan under this paragraph.
+
+  (C) *Designation of individual to act on behalf of the borrower* — Any lender that extends a private education loan shall provide the student obligor an option to designate an individual to have the legal authority to act on behalf of the student obligor with respect to the private education loan in the event of the death of the student obligor.
+
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(3)(B)(iv)(II), (8)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–174, § 601(a)(1), added par. (1) and redesignated former pars. (1) to (8) as (2) to (9), respectively.
+
+Subsec. (g). Pub. L. 115–174, § 601(a)(2), added subsec. (g).
+
 2010—Subsec. (f)(2)(B). Pub. L. 111–203 substituted “Bureau” for “Board”.
 
 2009—Subsec. (f). Pub. L. 111–24 added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–174, title VI, § 601(b), May 24, 2018, 132 Stat. 1365, provided that: “The amendments made by subsection (a) [amending this section] shall only apply to private education loan agreements entered into on or after the date that is 180 days after the date of enactment of this Act [May 24, 2018].”
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
@@ -4753,7 +4893,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 For purposes of this part—
 
-(1) The term “consumer lease” means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000, primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) 11 See References in Text note below. of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
+(1) The term “consumer lease” means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,11 See Adjustments for Inflation note below. primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) 22 See References in Text note below. of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
 
 (2) The term “lessee” means a natural person who leases or is offered a consumer lease.
 
@@ -4764,9 +4904,6 @@ For purposes of this part—
 (5) The terms “security” and “security interest” mean any interest in property which secures payment or performance of an obligation.
 
 ### Statutory Notes
-
-#### Adjustments for Inflation
-For requirement of inflation adjustment of dollar amounts in par. (1) of this section, see section 1100E(b) of Pub. L. 111–203, set out as a note under [section 1603 of this title](./chapter-041-consumer-credit-protection.md#section-1603).
 
 #### References in Text
 [Section 1602(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/g&num=0&edition=prelim), referred to in par. (1), was redesignated [section 1602(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/h&num=0&edition=prelim) by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -5704,6 +5841,19 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that: “As used
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–174, title III, § 302(b)(1), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, this section is amended by adding at the end the following new subsections:
+
+(z) Veteran.—The term “veteran” has the meaning given the term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
+
+(aa) Veteran’s Medical Debt.—The term “veteran’s medical debt”—
+
+(1) means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and
+
+(2) includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.
+
+See 2018 Amendment note below.
+
 #### References in Text
 Subsection (x) of this section, referred to in subsec. (d)(2)(D), was redesignated subsection (y) of this section by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
@@ -5712,6 +5862,8 @@ Subsection (x) of this section, referred to in subsec. (d)(2)(D), was redesignat
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (y)(3), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified principally to subchapter I (§ 7211 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7201 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7201) and Tables.
 
 #### Amendments
+2018—Subsecs. (z), (aa). Pub. L. 115–174 added subsecs. (z) and (aa).
+
 2010—Subsec. (k)(2). Pub. L. 111–203, § 1088(a)(3), substituted “Bureau” for “Board of Governors of the Federal Reserve System”.
 
 Subsec. (q)(3), (4). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
@@ -5755,6 +5907,9 @@ Subsec. (o). Pub. L. 104–208, § 2402(f), added subsec. (o).
 Subsec. (p). Pub. L. 104–208, § 2402(g), added subsec. (p).
 
 1992—Subsec. (j). Pub. L. 102–537 added subsec. (j).
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–174, title III, § 302(e), May 24, 2018, 132 Stat. 1335, provided that: “The amendments made by this section [amending this section and sections 1681c, 1681c–1, 1681i, and 1681t of this title and enacting provisions set out as a note under [section 1681c of this title](./chapter-041-consumer-credit-protection.md#section-1681c)] shall take effect on the date that is 1 year after the date of enactment of this Act [May 24, 2018].”
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
@@ -6231,10 +6386,21 @@ Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009�
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 115–174, title III, § 302(b)(2), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, subsection (a) of this section is amended by adding at the end the following new paragraphs:
+
+(7) With respect to a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), any information related to a veteran’s medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+
+(8) With respect to a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), any information related to a fully paid or settled veteran’s medical debt that had been characterized as delinquent, charged off, or in collection if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+
+See 2018 Amendment note below.
+
 #### References in Text
 The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
 
 #### Amendments
+2018—Subsec. (a)(7), (8). Pub. L. 115–174 added pars. (7) and (8).
+
 2010—Subsec. (h)(2)(A). Pub. L. 111–203, § 1088(a)(5), substituted “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,” for “with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s)”.
 
 Pub. L. 111–203, § 1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
@@ -6271,6 +6437,9 @@ Subsecs. (e), (f). Pub. L. 104–208, § 2406(d), added subsecs. (e) and (f).
 
 1978—Subsec. (a)(1). Pub. L. 95–598 substituted “cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years” for “Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years”.
 
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–174 effective 1 year after May 24, 2018, see section 302(e) of Pub. L. 115–174, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
+
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
@@ -6293,6 +6462,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 #### Effective Date
 Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
+#### Verification of Veteran’s Medical Debt
+Pub. L. 115–174, title III, § 302(c), May 24, 2018, 132 Stat. 1334, provided that: “(1) Definitions.—For purposes of this subsection—“(A) the term ‘consumer reporting agency’ means a consumer reporting agency described in section 603(p) of the Fair Credit Reporting Act ([15 U.S.C. 1681a(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim)); and “(B) the terms ‘veteran’ and ‘veteran’s medical debt’ have the meanings given those terms in section 603 of the Fair Credit Reporting Act ([15 U.S.C. 1681a](./chapter-041-consumer-credit-protection.md#section-1681a)), as added by subsection (b)(1). “(2) Establishment.—Not later than 1 year after the date of enactment of this Act [May 24, 2018], the Secretary of Veterans Affairs shall establish a database to allow consumer reporting agencies to verify whether a debt furnished to a consumer reporting agency is a veteran’s medical debt. “(3) Database features.—The Secretary of Veterans Affairs shall ensure that the database established under paragraph (2), to the extent permitted by law, provides consumer reporting agencies with—“(A) sufficiently detailed and specific information to verify whether a debt being furnished to the consumer reporting agency is a veteran’s medical debt; “(B) access to verification information in a secure electronic format; “(C) timely access to verification information; and “(D) any other features that would promote the efficient, timely, and secure delivery of information that consumer reporting agencies could use to verify whether a debt is a veteran’s medical debt. “(4) Stakeholder input.—Prior to establishing the database for verification under paragraph (2), the Secretary of Veterans Affairs shall publish in the Federal Register a notice and request for comment that solicits input from consumer reporting agencies and other stakeholders. “(5) Verification.—Provided the database established under paragraph (2) is fully functional and the data available to consumer reporting agencies, a consumer reporting agency shall use the database as a means to identify a veteran’s medical debt pursuant to paragraphs (7) and (8) of section 605(a) of the Fair Credit Reporting Act ([15 U.S.C. 1681c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681c/a&num=0&edition=prelim)), as added by subsection (b)(2).”
+
 
 <a id="section-1681c-1"></a>
 ## § 1681c–1. Identity theft prevention; fraud alerts and active duty alerts
@@ -6300,7 +6472,7 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 (1) **Initial alerts** — Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who asserts in good faith a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) that maintains a file on the consumer and has received appropriate proof of the identity of the requester shall—
 
-  (A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, for a period of not less than 90 days, beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose; and
+  (A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, for a period of not less than 1 year, beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose; and
 
   (B) refer the information regarding the fraud alert under this paragraph to each of the other consumer reporting agencies described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), in accordance with procedures developed under [section 1681s(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681s/f&num=0&edition=prelim).
 
@@ -6370,13 +6542,235 @@ Section effective upon the expiration of one hundred and eighty days following O
 
   (B) *Limitation on users* — No prospective user of a consumer report or of a credit score generated using the information in the file of a consumer that includes an extended fraud alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) 1 of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, unless the user contacts the consumer in person or using the contact method described in subparagraph (A)(ii) to confirm that the application for a new credit plan or increase in credit limit, or request for an additional card is not the result of identity theft.
 
+**(i) National security freeze**
+
+(1) **Definitions** — For purposes of this subsection:
+
+  (A) The term “consumer reporting agency” means a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim).
+
+  (B) The term “proper identification” has the meaning of such term as used under [section 1681h of this title](./chapter-041-consumer-credit-protection.md#section-1681h).
+
+  (C) The term “security freeze” means a restriction that prohibits a consumer reporting agency from disclosing the contents of a consumer report that is subject to such security freeze to any person requesting the consumer report.
+
+(2) **Placement of security freeze**
+
+  (A) *In general* — Upon receiving a direct request from a consumer that a consumer reporting agency place a security freeze, and upon receiving proper identification from the consumer, the consumer reporting agency shall, free of charge, place the security freeze not later than—
+
+    (i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the consumer; or
+
+    (ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the consumer.
+
+  (B) *Confirmation and additional information* — Not later than 5 business days after placing a security freeze under subparagraph (A), a consumer reporting agency shall—
+
+    (i) send confirmation of the placement to the consumer; and
+
+    (ii) inform the consumer of—
+
+      (I) the process by which the consumer may remove the security freeze, including a mechanism to authenticate the consumer; and
+
+      (II) the consumer’s right described in [section 1681m(d)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/d/1/D&num=0&edition=prelim).
+
+  (C) *Notice to third parties* — A consumer reporting agency may advise a third party that a security freeze has been placed with respect to a consumer under subparagraph (A).
+
+(3) **Removal of security freeze**
+
+  (A) *In general* — A consumer reporting agency shall remove a security freeze placed on the consumer report of a consumer only in the following cases:
+
+    (i) Upon the direct request of the consumer.
+
+    (ii) The security freeze was placed due to a material misrepresentation of fact by the consumer.
+
+  (B) *Notice if removal not by request* — If a consumer reporting agency removes a security freeze under subparagraph (A)(ii), the consumer reporting agency shall notify the consumer in writing prior to removing the security freeze.
+
+  (C) *Removal of security freeze by consumer request* — Except as provided in subparagraph (A)(ii), a security freeze shall remain in place until the consumer directly requests that the security freeze be removed. Upon receiving a direct request from a consumer that a consumer reporting agency remove a security freeze, and upon receiving proper identification from the consumer, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
+
+    (i) in the case of a request that is by toll-free telephone or secure electronic means, 1 hour after receiving the request for removal; or
+
+    (ii) in the case of a request that is by mail, 3 business days after receiving the request for removal.
+
+  (D) *Third-party requests* — If a third party requests access to a consumer report of a consumer with respect to which a security freeze is in effect, where such request is in connection with an application for credit, and the consumer does not allow such consumer report to be accessed, the third party may treat the application as incomplete.
+
+  (E) *Temporary removal of security freeze* — Upon receiving a direct request from a consumer under subparagraph (A)(i), if the consumer requests a temporary removal of a security freeze, the consumer reporting agency shall, in accordance with subparagraph (C), remove the security freeze for the period of time specified by the consumer.
+
+(4) **Exceptions** — A security freeze shall not apply to the making of a consumer report for use of the following:
+
+  (A) A person or entity, or a subsidiary, affiliate, or agent of that person or entity, or an assignee of a financial obligation owed by the consumer to that person or entity, or a prospective assignee of a financial obligation owed by the consumer to that person or entity in conjunction with the proposed purchase of the financial obligation, with which the consumer has or had prior to assignment an account or contract including a demand deposit account, or to whom the consumer issued a negotiable instrument, for the purposes of reviewing the account or collecting the financial obligation owed for the account, contract, or negotiable instrument. For purposes of this subparagraph, “reviewing the account” includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.
+
+  (B) Any Federal, State, or local agency, law enforcement agency, trial court, or private collection agency acting pursuant to a court order, warrant, or subpoena.
+
+  (C) A child support agency acting pursuant to part D of title IV of the Social Security Act ([42 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section651&num=0&edition=prelim) et seq.).
+
+  (D) A Federal agency or a State or its agents or assigns acting to investigate fraud or acting to investigate or collect delinquent taxes or unpaid court orders or to fulfill any of its other statutory responsibilities, provided such responsibilities are consistent with a permissible purpose under [section 1681b of this title](./chapter-041-consumer-credit-protection.md#section-1681b).
+
+  (E) By a person using credit information for the purposes described under [section 1681b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/c&num=0&edition=prelim).
+
+  (F) Any person or entity administering a credit file monitoring subscription or similar service to which the consumer has subscribed.
+
+  (G) Any person or entity for the purpose of providing a consumer with a copy of the consumer’s consumer report or credit score, upon the request of the consumer.
+
+  (H) Any person using the information in connection with the underwriting of insurance.
+
+  (I) Any person using the information for employment, tenant, or background screening purposes.
+
+  (J) Any person using the information for assessing, verifying, or authenticating a consumer’s identity for purposes other than the granting of credit, or for investigating or preventing actual or potential fraud.
+
+(5) **Notice of rights** — At any time a consumer is required to receive a summary of rights required under [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g), the following notice shall be included: “Consumers Have the Right To Obtain a Security Freeze “You have a right to place a ‘security freeze’ on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed to prevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit. “As an alternative to a security freeze, you have the right to place an initial or extended fraud alert on your credit file at no cost. An initial fraud alert is a 1-year alert that is placed on a consumer’s credit file. Upon seeing a fraud alert display on a consumer’s credit file, a business is required to take steps to verify the consumer’s identity before extending new credit. If you are a victim of identity theft, you are entitled to an extended fraud alert, which is a fraud alert lasting 7 years. “A security freeze does not apply to a person or entity, or its affiliates, or collection agencies acting on behalf of the person or entity, with which you have an existing account that requests information in your credit report for the purposes of reviewing or collecting the account. Reviewing the account includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.”.
+
+(6) **Webpage**
+
+  (A) *Consumer reporting agencies* — A consumer reporting agency shall establish a webpage that—
+
+    (i) allows a consumer to request a security freeze;
+
+    (ii) allows a consumer to request an initial fraud alert;
+
+    (iii) allows a consumer to request an extended fraud alert;
+
+    (iv) allows a consumer to request an active duty fraud alert;
+
+    (v) allows a consumer to opt-out of the use of information in a consumer report to send the consumer a solicitation of credit or insurance, in accordance with [section 1681m(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/d&num=0&edition=prelim); and
+
+    (vi) shall not be the only mechanism by which a consumer may request a security freeze.
+
+  (B) *FTC* — The Federal Trade Commission shall establish a single webpage that includes a link to each webpage established under subparagraph (A) within the Federal Trade Commission’s website www.Identitytheft.gov, or a successor website.
+
+**(j) National protection for files and credit records of protected consumers**
+
+(1) **Definitions** — As used in this subsection:
+
+  (A) The term “consumer reporting agency” means a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim).
+
+  (B) The term “protected consumer” means an individual who is—
+
+    (i) under the age of 16 years at the time a request for the placement of a security freeze is made; or
+
+    (ii) an incapacitated person or a protected person for whom a guardian or conservator has been appointed.
+
+  (C) The term “protected consumer’s representative” means a person who provides to a consumer reporting agency sufficient proof of authority to act on behalf of a protected consumer.
+
+  (D) The term “record” means a compilation of information that—
+
+    (i) identifies a protected consumer;
+
+    (ii) is created by a consumer reporting agency solely for the purpose of complying with this subsection; and
+
+    (iii) may not be created or used to consider the protected consumer’s credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living.
+
+  (E) The term “security freeze” means a restriction that prohibits a consumer reporting agency from disclosing the contents of a consumer report that is the subject of such security freeze or, in the case of a protected consumer for whom the consumer reporting agency does not have a file, a record that is subject to such security freeze to any person requesting the consumer report for the purpose of opening a new account involving the extension of credit.
+
+  (F) The term “sufficient proof of authority” means documentation that shows a protected consumer’s representative has authority to act on behalf of a protected consumer and includes—
+
+    (i) an order issued by a court of law;
+
+    (ii) a lawfully executed and valid power of attorney;
+
+    (iii) a document issued by a Federal, State, or local government agency in the United States showing proof of parentage, including a birth certificate; or
+
+    (iv) with respect to a protected consumer who has been placed in a foster care setting, a written communication from a county welfare department or its agent or designee, or a county probation department or its agent or designee, certifying that the protected consumer is in a foster care setting under its jurisdiction.
+
+  (G) The term “sufficient proof of identification” means information or documentation that identifies a protected consumer and a protected consumer’s representative and includes—
+
+    (i) a social security number or a copy of a social security card issued by the Social Security Administration;
+
+    (ii) a certified or official copy of a birth certificate issued by the entity authorized to issue the birth certificate; or
+
+    (iii) a copy of a driver’s license, an identification card issued by the motor vehicle administration, or any other government issued identification.
+
+(2) **Placement of security freeze for a protected consumer**
+
+  (A) *In general* — Upon receiving a direct request from a protected consumer’s representative that a consumer reporting agency place a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, place the security freeze not later than—
+
+    (i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the protected consumer’s representative; or
+
+    (ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the protected consumer’s representative.
+
+  (B) *Confirmation and additional information* — Not later than 5 business days after placing a security freeze under subparagraph (A), a consumer reporting agency shall—
+
+    (i) send confirmation of the placement to the protected consumer’s representative; and
+
+    (ii) inform the protected consumer’s representative of the process by which the protected consumer may remove the security freeze, including a mechanism to authenticate the protected consumer’s representative.
+
+  (C) *Creation of file* — If a consumer reporting agency does not have a file pertaining to a protected consumer when the consumer reporting agency receives a direct request under subparagraph (A), the consumer reporting agency shall create a record for the protected consumer.
+
+(3) **Prohibition on release of record or file of protected consumer** — After a security freeze has been placed under paragraph (2)(A), and unless the security freeze is removed in accordance with this subsection, a consumer reporting agency may not release the protected consumer’s consumer report, any information derived from the protected consumer’s consumer report, or any record created for the protected consumer.
+
+(4) **Removal of a protected consumer security freeze**
+
+  (A) *In general* — A consumer reporting agency shall remove a security freeze placed on the consumer report of a protected consumer only in the following cases:
+
+    (i) Upon the direct request of the protected consumer’s representative.
+
+    (ii) Upon the direct request of the protected consumer, if the protected consumer is not under the age of 16 years at the time of the request.
+
+    (iii) The security freeze was placed due to a material misrepresentation of fact by the protected consumer’s representative.
+
+  (B) *Notice if removal not by request* — If a consumer reporting agency removes a security freeze under subparagraph (A)(iii), the consumer reporting agency shall notify the protected consumer’s representative in writing prior to removing the security freeze.
+
+  (C) *Removal of freeze by request* — Except as provided in subparagraph (A)(iii), a security freeze shall remain in place until a protected consumer’s representative or protected consumer described in subparagraph (A)(ii) directly requests that the security freeze be removed. Upon receiving a direct request from the protected consumer’s representative or protected consumer described in subparagraph (A)(ii) that a consumer reporting agency remove a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
+
+    (i) in the case of a request that is by toll-free telephone or secure electronic means, 1 hour after receiving the request for removal; or
+
+    (ii) in the case of a request that is by mail, 3 business days after receiving the request for removal.
+
+  (D) *Temporary removal of security freeze* — Upon receiving a direct request from a protected consumer or a protected consumer’s representative under subparagraph (A)(i), if the protected consumer or protected consumer’s representative requests a temporary removal of a security freeze, the consumer reporting agency shall, in accordance with subparagraph (C), remove the security freeze for the period of time specified by the protected consumer or protected consumer’s representative.
+
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 115–174, title III, § 302(d)(1), (e), May 24, 2018, 132 Stat. 1334, 1335, provided that, effective 1 year after May 24, 2018, this section is amended by adding at the end the following new subsection:
+
+(k) Credit monitoring
+
+(1) Definitions
+
+In this subsection:
+
+(A) The term “active duty military consumer” includes a member of the National Guard.
+
+(B) The term “National Guard” has the meaning given the term in [section 101(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/c&num=0&edition=prelim).
+
+(2) Credit monitoring
+
+A consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) shall provide a free electronic credit monitoring service that, at a minimum, notifies a consumer of material additions or modifications to the file of the consumer at the consumer reporting agency to any consumer who provides to the consumer reporting agency—
+
+(A) appropriate proof that the consumer is an active duty military consumer; and
+
+(B) contact information of the consumer.
+
+(3) Rulemaking
+
+Not later than 1 year after May 24, 2018, the Federal Trade Commission shall promulgate regulations regarding the requirements of this subsection, which shall at a minimum include—
+
+(A) a definition of an electronic credit monitoring service and material additions or modifications to the file of a consumer; and
+
+(B) what constitutes appropriate proof.
+
+(4) Applicability
+
+(A) Sections 1681n and 1681o of this title shall not apply to any violation of this subsection.
+
+(B) This subsection shall be enforced exclusively under [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s) by the Federal agencies and Federal and State officials identified in that section.
+
+See 2018 Amendment note below.
 
 #### References in Text
 [Section 1602(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/i&num=0&edition=prelim), referred to in subsec. (h), was redesignated [section 1602(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/j&num=0&edition=prelim) by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
+The Social Security Act, referred to in subsec. (i)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title IV of the Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–174, § 301(a)(1), substituted “1 year” for “90 days”.
+
+Subsecs. (i), (j). Pub. L. 115–174, § 301(a)(2), added subsecs. (i) and (j).
+
+Subsec. (k). Pub. L. 115–174, § 302(d)(1), added subsec. (k).
+
 2010—Subsecs. (c)(1), (g). Pub. L. 111–203 substituted “the Bureau” for “the Commission”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–174, title III, § 301(c), May 24, 2018, 132 Stat. 1332, provided that: “The amendments made by this section [amending this section and [section 1681t of this title](./chapter-041-consumer-credit-protection.md#section-1681t)] shall take effect on the date that is 120 days after the date of enactment of this Act [May 24, 2018].”
+
+Amendment by section 302(d)(1) of Pub. L. 115–174 effective 1 year after May 24, 2018, see section 302(e) of Pub. L. 115–174, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
@@ -7125,10 +7519,37 @@ Section effective upon the expiration of one hundred and eighty days following O
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–174, title III, § 302(b)(3), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, this section is amended:
+
+(1) in subsection (a)(1)(A), by inserting “and except as provided in subsection (g)” after “subsection (f)”; and
+
+(2) by adding at the end the following new subsection:
+
+(g) Dispute process for veteran’s medical debt
+
+(1) In general
+
+With respect to a veteran’s medical debt, the veteran may submit a notice described in paragraph (2), proof of liability of the Department of Veterans Affairs for payment of that debt, or documentation that the Department of Veterans Affairs is in the process of making payment for authorized hospital care, medical services, or extended care services rendered to a consumer reporting agency or a reseller to dispute the inclusion of that debt on a consumer report of the veteran.
+
+(2) Notification to veteran
+
+The Department of Veterans Affairs shall submit to a veteran a notice that the Department of Veterans Affairs has assumed liability for part or all of a veteran’s medical debt.
+
+(3) Deletion of information from file
+
+If a consumer reporting agency receives notice, proof of liability, or documentation under paragraph (1), the consumer reporting agency shall delete all information relating to the veteran’s medical debt from the file of the veteran and notify the furnisher and the veteran of that deletion.
+
+See 2018 Amendment notes below.
+
 #### References in Text
 The Consumer Financial Protection Act of 2010, referred to in subsec. (e)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (a)(1)(A). Pub. L. 115–174, § 302(b)(3)(A), inserted “and except as provided in subsection (g)” after “subsection (f)”.
+
+Subsec. (g). Pub. L. 115–174, § 302(b)(3)(B), added subsec. (g).
+
 2010—Subsec. (e)(2). Pub. L. 111–203, § 1088(a)(6), added par. (2) and struck out former par. (2) which read as follows: “Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1).”
 
 Subsec. (e)(3), (5). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
@@ -7154,6 +7575,9 @@ Subsec. (f). Pub. L. 108–159, § 316(b), added subsec. (f).
 1996—Subsec. (a). Pub. L. 104–208, § 2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer’s file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
 
 Subsec. (d). Pub. L. 104–208, § 2409(b), struck out at end “The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer’s statement regarding the disputed information is received.”
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–174 effective 1 year after May 24, 2018, see section 302(e) of Pub. L. 115–174, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
@@ -7979,6 +8403,32 @@ Section effective Jan. 1, 1993, see section 2(d) of Pub. L. 102–537, set out a
 
   (D) *Definition* — For purposes of subparagraph (A), the term “reasonable cause to believe that the information is inaccurate” means having specific knowledge, other than solely allegations by the consumer, that would cause a reasonable person to have substantial doubts about the accuracy of the information.
 
+  (E) *Rehabilitation of private education loans*
+
+    (i) *In general* — Notwithstanding any other provision of this section, a consumer may request a financial institution to remove from a consumer report a reported default regarding a private education loan, and such information shall not be considered inaccurate, if—
+
+      (I) the financial institution chooses to offer a loan rehabilitation program which includes, without limitation, a requirement of the consumer to make consecutive on-time monthly payments in a number that demonstrates, in the assessment of the financial institution offering the loan rehabilitation program, a renewed ability and willingness to repay the loan; and
+
+      (II) the requirements of the loan rehabilitation program described in subclause (I) are successfully met.
+
+    (ii) *Banking agencies*
+
+      (I) *In general* — If a financial institution is supervised by a Federal banking agency, the financial institution shall seek written approval concerning the terms and conditions of the loan rehabilitation program described in clause (i) from the appropriate Federal banking agency.
+
+      (II) *Feedback* — An appropriate Federal banking agency shall provide feedback to a financial institution within 120 days of a request for approval under subclause (I).
+
+    (iii) *Limitation*
+
+      (I) *In general* — A consumer may obtain the benefits available under this subsection with respect to rehabilitating a loan only 1 time per loan.
+
+      (II) *Rule of construction* — Nothing in this subparagraph may be construed to require a financial institution to offer a loan rehabilitation program or to remove any reported default from a consumer report as a consideration of a loan rehabilitation program, except as described in clause (i).
+
+    (iv) *Definitions* — For purposes of this subparagraph—
+
+      (I) the term “appropriate Federal banking agency” has the meaning given the term in [section 1813 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim); and
+
+      (II) the term “private education loan” has the meaning given the term in [section 1650(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650/a&num=0&edition=prelim).
+
 (2) **Duty to correct and update information** — A person who—
 
   (A) regularly and in the ordinary course of business furnishes information to one or more consumer reporting agencies about the person’s transactions or experiences with any consumer; and
@@ -8156,6 +8606,8 @@ Section effective Jan. 1, 1993, see section 2(d) of Pub. L. 102–537, set out a
 A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classified to [section 1681t of this title](./chapter-041-consumer-credit-protection.md#section-1681t).
 
 #### Amendments
+2018—Subsec. (a)(1)(E). Pub. L. 115–174 added subpar. (E).
+
 2010—Subsec. (a)(7)(D). Pub. L. 111–203, § 1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
 
 Subsec. (a)(8)(A). Pub. L. 111–203, § 1088(a)(11)(B), which directed amendment of subpar. (A) by inserting “, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,” before “shall jointly”, was executed by making the insertion before “shall prescribe”, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, § 1088(a)(2)(D). See below.
@@ -8306,9 +8758,11 @@ Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amended
 
   (G) [section 1681g(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681g/e&num=0&edition=prelim), relating to information available to victims under [section 1681g(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681g/e&num=0&edition=prelim);
 
-  (H) [section 1681s–3 of this title](./chapter-041-consumer-credit-protection.md#section-1681s-3), relating to the exchange and use of information to make a solicitation for marketing purposes; or
+  (H) [section 1681s–3 of this title](./chapter-041-consumer-credit-protection.md#section-1681s-3), relating to the exchange and use of information to make a solicitation for marketing purposes;
 
   (I) [section 1681m(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/h&num=0&edition=prelim), relating to the duties of users of consumer reports to provide notice with respect to terms in certain credit transactions;
+
+  (J) subsections (i) and (j) of [section 1681c–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681c-1) relating to security freezes; or 11 So in original. See Amendment of Subsection (b)(1) note below.
 
 (2) with respect to the exchange of information among persons affiliated by common ownership or common corporate control, except that this paragraph shall not apply with respect to subsection (a) or (c)(1) of [section 2480e of title 9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title9-section2480e&num=0&edition=prelim), Vermont Statutes Annotated (as in effect on September 30, 1996);
 
@@ -8362,10 +8816,21 @@ Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amended
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(1)
+Pub. L. 115–174, title III, § 302(d)(2), (e), May 24, 2018, 132 Stat. 1334, 1335, provided that, effective 1 year after May 24, 2018, subsection (b)(1) of this section is amended by adding at the end the following new paragraph:
+
+(K) subsection (k) of [section 1681c–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681c-1), relating to credit monitoring for active duty military consumers, as defined in that subsection;
+
+See 2018 Amendment note below.
+
 #### Prior Provisions
 A prior section 625 of Pub. L. 90–321 was renumbered section 626 and is classified to [section 1681u of this title](./chapter-041-consumer-credit-protection.md#section-1681u).
 
 #### Amendments
+2018—Subsec. (b)(1)(J). Pub. L. 115–174, § 301(b), added subpar. (J).
+
+Subsec. (b)(1)(K). Pub. L. 115–174, § 302(d)(2), added subpar. (K).
+
 2003—Subsec. (a). Pub. L. 108–159, § 711(1), inserted “or for the prevention or mitigation of identity theft,” after “information on consumers,”.
 
 Subsec. (b)(1)(E). Pub. L. 108–159, § 214(c)(2)(A), struck out “or” after semicolon at end.
@@ -8393,6 +8858,11 @@ Subsec. (d). Pub. L. 108–159, § 711(3), substituted “(b) and (c)” for “
 1996—Subsec. (a). Pub. L. 104–208, § 2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c), this subchapter” for “This subchapter”.
 
 Subsecs. (b) to (d). Pub. L. 104–208, § 2419(2), added subsecs. (b) to (d).
+
+#### Effective Date of 2018 Amendment
+Amendment by section 301(b) of Pub. L. 115–174 effective 120 days after May 24, 2018, see section 301(c) of Pub. L. 115–174, set out as a note under [section 1681c–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681c-1).
+
+Amendment by section 302(d)(2) of Pub. L. 115–174 effective 1 year after May 24, 2018, see section 302(e) of Pub. L. 115–174, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).

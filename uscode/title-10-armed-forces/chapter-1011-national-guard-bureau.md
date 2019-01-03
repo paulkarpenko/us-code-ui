@@ -21,7 +21,7 @@ Provisions similar to those in this section were contained in [section 3040(a) o
 2008—Subsec. (a). Pub. L. 110–181 substituted “joint activity of the Department of Defense” for “joint bureau of the Department of the Army and the Department of the Air Force”.
 
 #### Effective Date
-Pub. L. 103–337, div. A, title IX, § 904(d), Oct. 5, 1994, 108 Stat. 2827, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(6), Feb. 10, 1996, 110 Stat. 513, provided that: “The provisions of chapter 1011 of title 10, United States Code, as added by subsection (a), shall become effective, and the repeal made by subsection (b) [repealing [section 3040 of this title](./chapter-305-the-army-staff.md#section-3040)] and the amendment made by subsection (c) [amending [section 108 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section108&num=0&edition=prelim), National Guard] shall take effect, at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title IX, § 904(d), Oct. 5, 1994, 108 Stat. 2827, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(6), Feb. 10, 1996, 110 Stat. 513, provided that: “The provisions of chapter 1011 of title 10, United States Code, as added by subsection (a), shall become effective, and the repeal made by subsection (b) [repealing [section 3040 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3040&num=0&edition=prelim)] and the amendment made by subsection (c) [amending [section 108 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section108&num=0&edition=prelim), National Guard] shall take effect, at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 5, 1994].”
 
 
 <a id="section-10502"></a>
@@ -172,12 +172,79 @@ Pub. L. 104–196, § 123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The
 
 
 <a id="section-10504"></a>
-## § 10504. Chief of National Guard Bureau: annual report
-**(a) Annual Report.—** The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions. The report shall be prepared in conjunction with the Secretary of the Army and the Secretary of the Air Force and may be submitted in classified and unclassified versions.
+## § 10504. Chief of National Guard Bureau: annual reports
+**(a) Annual Report on State of the National Guard.—**
+
+(1) The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions.
+
+(2) The annual report required by paragraph (1) shall be prepared in conjunction with the Secretary of the Army and the Secretary of the Air Force and may be submitted in classified and unclassified versions.
 
 **(b) Submission of Report to Congress.—** The Secretary of Defense shall transmit the annual report of the Chief of the National Guard Bureau to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under [section 113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/c&num=0&edition=prelim) is submitted to Congress.
 
+**(c) Annual Report on Non-federalized Service National Guard Personnel, Training, and Equipment Requirements.—**
+
+(1) Not later than January 31 of each of calendar years 2018 through 2020, the Chief of the National Guard Bureau, in coordination with the Secretary of Defense, shall submit to the recipients described in paragraph (3) a report that identifies the personnel, training, and equipment required by the non-Federalized National Guard—
+
+  (A) to support civilian authorities in connection with natural and man-made disasters during the covered period; and
+
+  (B) to carry out prevention, protection, mitigation, response, and recovery activities relating to such disasters during the covered period.
+
+(2) In preparing each report under paragraph (1), the Chief of the National Guard Bureau shall—
+
+  (A) consult with the chief executive of each State, the Council of Governors, and other appropriate civilian authorities;
+
+  (B) collect and validate information from each State relating to the personnel, training, and equipment requirements described in paragraph (1);
+
+  (C) set forth separately the personnel, training, and equipment requirements for—
+
+    (i) each of the emergency support functions of the National Response Framework; and
+
+    (ii) each of the Federal Emergency Management Agency regions;
+
+  (D) assess core civilian capability gaps relating to natural and man-made disasters, as identified by States in submissions to the Department of Homeland Security;
+
+  (E) take into account threat and hazard identifications and risk assessments of the Department of Defense, the Department of Homeland Security, and the States; and
+
+  (F) assess the budgets of each State to support the personnel, training, and equipment requirements of the non-Federalized National Guard.
+
+(3) The annual report required by paragraph (1) shall be submitted to the following officials:
+
+  (A) The congressional defense committees, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+  (B) The Secretary of Defense.
+
+  (C) The Secretary of Homeland Security.
+
+  (D) The Council of Governors.
+
+  (E) The Secretary of the Army.
+
+  (F) The Secretary of the Air Force.
+
+  (G) The Commander of the United States Northern Command.
+
+  (H) The Commander of the United States Indo-Pacific Command.
+
+  (I) The Commander of the United States Cyber Command.
+
+(4) In this subsection, the term “covered period” means the fiscal year beginning after the date on which a report is submitted under paragraph (1).
+
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–232, § 1081(a)(30)(A), inserted “(1)” before “The Chief”.
+
+Subsecs. (b), (c). Pub. L. 115–232, § 1081(a)(30)(B), redesignated subsec. (b), relating to annual report on non-Federalized service National Guard personnel, training, and equipment requirements, as (c).
+
+Subsec. (c)(3)(H). Pub. L. 115–232, § 1251(b)(1), substituted “United States Indo-Pacific Command” for “United States Pacific Command”.
+
+2017—Pub. L. 115–91, § 333(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Chief of National Guard Bureau: annual report”.
+
+Subsec. (a). Pub. L. 115–91, § 333(a)(1)(A), substituted “Report on State of the National Guard” for “Report” in heading.
+
+Subsec. (a)(2). Pub. L. 115–91, § 333(a)(1)(B), designated second sentence of subsec. (a) as par. (2) and substituted “The annual report required by paragraph (1)” for “The report”.
+
+Subsec. (b). Pub. L. 115–91, § 333(a)(2), added subsec. (b) relating to annual report on non-Federalized service National Guard personnel, training, and equipment requirements.
 
 #### Effective Date
 Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under [section 10501 of this title](./chapter-1011-national-guard-bureau.md#section-10501).
@@ -323,7 +390,7 @@ Subsec. (a)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 507(e)(2)], added
 Pub. L. 113–291, div. A, title V, § 512(d), Dec. 19, 2014, 128 Stat. 3358, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to assignments to the National Guard Bureau under [section 10506 of title 10](./chapter-1011-national-guard-bureau.md#section-10506), United States Code, that occur after the date of the enactment of this Act [Dec. 19, 2014].”
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
-Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under [section 3038 of this title](./chapter-305-the-army-staff.md#section-3038).
+Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under [section 3038 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3038&num=0&edition=prelim).
 
 #### Effective Date
 Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under [section 10501 of this title](./chapter-1011-national-guard-bureau.md#section-10501).
@@ -355,7 +422,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(b) Personnel for Functions of National Guard Bureau.—**
 
-(1) **In general.—** — The Chief of the National Guard Bureau may program for, appoint, employ, administer, detail, and assign persons under sections 2103, 2105, and 3101 of title 5, or [section 328 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section328&num=0&edition=prelim), within the National Guard Bureau and the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands to execute the functions of the National Guard Bureau and the missions of the National Guard, and missions as assigned by the Chief of the National Guard Bureau.
+(1) **In general.—** — The Chief of the National Guard Bureau may program for, appoint, employ, administer, detail, and assign persons under sections 2102, 2103, 2105, and 3101 of title 5, subchapter IV of chapter 53 of title 5, or [section 328 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section328&num=0&edition=prelim), within the National Guard Bureau and the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands to execute the functions of the National Guard Bureau and the missions of the National Guard, and missions as assigned by the Chief of the National Guard Bureau.
 
 (2) **Administration through adjutants general.—** — The Chief of the National Guard Bureau may designate the adjutants general referred to in [section 314 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section314&num=0&edition=prelim) to appoint, employ, and administer the National Guard employees authorized by this subsection.
 
@@ -380,4 +447,9 @@ The Intergovernmental Personnel Act of 1970, referred to in subsec. (b)(3), is P
 A prior section 10508, added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2827, defined “State” for purposes of this chapter, prior to repeal by Pub. L. 104–106, div. A, title XV, § 1501(b)(7)(A), Feb. 10, 1996, 110 Stat. 496.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–232 substituted “sections 2102, 2103, 2105, and 3101 of title 5, subchapter IV of chapter 53 of title 5, or [section 328 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section328&num=0&edition=prelim),” for “sections 2103, 2105, and 3101 of title 5, or [section 328 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section328&num=0&edition=prelim),”.
+
 2016—Pub. L. 114–328 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Number of Members of the National Guard on Full-Time Duty in Support of the Reserves Within the National Guard Bureau
+Pub. L. 115–91, div. A, title IV, § 416, Dec. 12, 2017, 131 Stat. 1370, provided that: “(a) Army National Guard of the United States.—As of the end of fiscal year 2019, and as of the end of each fiscal year thereafter, the number of members of the Army National Guard of the United States serving with the National Guard Bureau on full-time duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components may not exceed the number equal to six percent of the total number of members of the Army National Guard of the United States authorized for service on full-time duty for that purpose in that fiscal year. “(b) Air National Guard of the United States.—As of the end of fiscal year 2019, and as of the end of each fiscal year thereafter, the number of members of the Air National Guard of the United States serving with the National Guard Bureau on full-time duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components may not exceed the number equal to six percent of the total number of members of the Air National Guard of the United States authorized for service on full-time duty for that purpose in that fiscal year.”

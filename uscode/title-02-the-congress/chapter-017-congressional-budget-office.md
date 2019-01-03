@@ -2,7 +2,7 @@
 title: 2
 chapter: '17'
 heading: CONGRESSIONAL BUDGET OFFICE
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -261,6 +261,17 @@ Pub. L. 99–500, § 101(j) [H.R. 5203, title I], Oct. 18, 1986, 100 Stat. 1783�
 Pub. L. 99–151, title I, Nov. 13, 1985, 99 Stat. 800.
 
 Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 482.
+
+
+<a id="section-605a"></a>
+## § 605a. Contracting parity
+
+In fiscal year 2018 and thereafter, for all contracts for goods and services to which the Congressional Budget Office is a party, the following Federal Acquisition Regulation (FAR) clauses will apply: FAR 52.232–39 and FAR 52.233–4.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
 
 <a id="section-606"></a>

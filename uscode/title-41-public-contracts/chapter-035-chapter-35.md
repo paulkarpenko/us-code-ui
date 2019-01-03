@@ -38,6 +38,35 @@ Subsection (a) of Pub. L. 110–417, § 868 is omitted as unnecessary.
 
 In subsection (b)(1), the words “The Federal Acquisition Regulation” are substituted for “The regulations modified pursuant to subsection (a)” for clarity and conformity with the revised title.
 
+#### Amendment of Section
+Pub. L. 115–232, div. A, title VIII, § 836(b)(11), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
+
+(1) in subsection (a)—
+
+(A) by striking paragraph (1);
+
+(B) by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; and
+
+(C) in paragraph (2) (as so redesignated), by striking “commercial items” and inserting “commercial products or commercial services”; and
+
+(2) in subsection (b)—
+
+(A) in the heading for paragraph (1), by striking “item”; and
+
+(B) in paragraphs (1) and (2)(A), by striking “commercial items” and inserting “commercial services”.
+
+See 2018 Amendment notes below.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–232, § 836(b)(11)(A), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted “commercial products or commercial services” for “commercial items” in par. (2), as redesignated, and struck out former par. (1), which defined “commercial item”.
+
+Subsec. (b)(1). Pub. L. 115–232, § 836(b)(11)(B), in heading, struck out “item” before “authority” and, in text, substituted “commercial services” for “commercial items”.
+
+Subsec. (b)(2)(A). Pub. L. 115–232, § 836(b)(11)(B)(ii), substituted “commercial services” for “commercial items”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
 
 <a id="section-3502"></a>
 ## § 3502. Required cost or pricing data and certification
@@ -45,31 +74,31 @@ In subsection (b)(1), the words “The Federal Acquisition Regulation” are sub
 
 (1) **Offeror for prime contract.—** — An offeror for a prime contract under this division to be entered into using procedures other than sealed-bid procedures shall be required to submit cost or pricing data before the award of a contract if—
 
-  (A) in the case of a prime contract entered into after October 13, 1994, the price of the contract to the Federal Government is expected to exceed $500,000; and
+  (A) in the case of a prime contract entered into after June 30, 2018, the price of the contract to the Federal Government is expected to exceed $2,000,000; and
 
-  (B) in the case of a prime contract entered into on or before October 13, 1994, the price of the contract to the Federal Government is expected to exceed $100,000.
+  (B) in the case of a prime contract entered into on or before June 30, 2018, the price of the contract to the Federal Government is expected to exceed $750,000.
 
 (2) **Contractor.—** — The contractor for a prime contract under this division shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if—
 
-  (A) in the case of a change or modification made to a prime contract referred to in paragraph (1)(A), the price adjustment is expected to exceed $500,000;
+  (A) in the case of a change or modification made to a prime contract referred to in paragraph (1)(A), the price adjustment is expected to exceed $2,000,000;
 
-  (B) in the case of a change or modification made to a prime contract that was entered into on or before October 13, 1994, and that has been modified pursuant to subsection (f), the price adjustment is expected to exceed $500,000; and
+  (B) in the case of a change or modification made to a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to subsection (f), the price adjustment is expected to exceed $750,000; and
 
-  (C) in the case of a change or modification not covered by subparagraph (A) or (B), the price adjustment is expected to exceed $100,000.
+  (C) in the case of a change or modification not covered by subparagraph (A) or (B), the price adjustment is expected to exceed $750,000.
 
 (3) **Offeror for subcontract.—** — An offeror for a subcontract (at any tier) of a contract under this division shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this chapter and—
 
-  (A) in the case of a subcontract under a prime contract referred to in paragraph (1)(A), the price of the subcontract is expected to exceed $500,000;
+  (A) in the case of a subcontract under a prime contract referred to in paragraph (1)(A), the price of the subcontract is expected to exceed $2,000,000;
 
-  (B) in the case of a subcontract entered into under a prime contract that was entered into on or before October 13, 1994, and that has been modified pursuant to subsection (f), the price of the subcontract is expected to exceed $500,000; and
+  (B) in the case of a subcontract entered into under a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to subsection (f), the price of the subcontract is expected to exceed $2,000,000; and
 
-  (C) in the case of a subcontract not covered by subparagraph (A) or (B), the price of the subcontract is expected to exceed $100,000.
+  (C) in the case of a subcontract not covered by subparagraph (A) or (B), the price of the subcontract is expected to exceed $750,000.
 
 (4) **Subcontractor.—** — The subcontractor for a subcontract covered by paragraph (3) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if—
 
-  (A) in the case of a change or modification to a subcontract referred to in paragraph (3)(A) or (B), the price adjustment is expected to exceed $500,000; and
+  (A) in the case of a change or modification to a subcontract referred to in paragraph (3)(A) or (B), the price adjustment is expected to exceed $2,000,000; and
 
-  (B) in the case of a change or modification to a subcontract referred to in paragraph (3)(C), the price adjustment is expected to exceed $100,000.
+  (B) in the case of a change or modification to a subcontract referred to in paragraph (3)(C), the price adjustment is expected to exceed $750,000.
 
 **(b) Certification.—** A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under subsection (a) (or required by the head of the procuring activity concerned to submit the data under [section 3504 of this title](./chapter-035-chapter-35.md#section-3504)) shall be required to certify that, to the best of the person’s knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
@@ -83,9 +112,9 @@ In subsection (b)(1), the words “The Federal Acquisition Regulation” are sub
 
 **(e) Subcontracts Not Affected by Waiver.—** A waiver of requirements for submission of certified cost or pricing data that is granted under [section 3503(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3503/a/3&num=0&edition=prelim) in the case of a contract or subcontract does not waive the requirement under subsection (a)(3) of this section for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under subsection (a)(3) of this section should be waived in the case of those subcontracts and justifies in writing the reason for the determination.
 
-**(f) Modifications to Prior Contracts.—** On the request of a contractor that was required to submit cost or pricing data under subsection (a) in connection with a prime contract entered into on or before October 13, 1994, the head of the executive agency that entered into the contract shall modify the contract to reflect paragraphs (2)(B) and (3)(B) of subsection (a). All those modifications shall be made without requiring consideration.
+**(f) Modifications to Prior Contracts.—** On the request of a contractor that was required to submit cost or pricing data under subsection (a) in connection with a prime contract entered into on or before June 30, 2018, the head of the executive agency that entered into the contract shall modify the contract to reflect paragraphs (2)(B) and (3)(B) of subsection (a). All those modifications shall be made without requiring consideration.
 
-**(g) Adjustment of Amounts.—** Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
+**(g) Adjustment of Amounts.—** Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with section 1908.
 
 ### Statutory Notes
 
@@ -93,6 +122,19 @@ In subsection (b)(1), the words “The Federal Acquisition Regulation” are sub
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3502 | 41:254b(a). | June 30, 1949, ch. 288, title III, § 304A(a), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3278; Pub. L. 105–261, div. A, title VIII, § 805(b), Oct. 17, 1998, 112 Stat. 2083. |
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 115–91, § 811(a)(2)(A)(i), (ii), substituted “June 30, 2018” for “October 13, 1994” and “$750,000” for “$100,000” wherever appearing.
+
+Subsec. (a)(1)(A), (2)(A). Pub. L. 115–91, § 811(a)(2)(A)(iii), substituted “$2,000,000” for “$500,000”.
+
+Subsec. (a)(2)(B). Pub. L. 115–91, § 811(a)(2)(A)(iv), substituted “$750,000” for “$500,000”.
+
+Subsec. (a)(3)(A), (B), (4)(A). Pub. L. 115–91, § 811(a)(2)(A)(iii), substituted “$2,000,000” for “$500,000”.
+
+Subsec. (f). Pub. L. 115–91, § 811(a)(2)(B), substituted “June 30, 2018” for “October 13, 1994”.
+
+Subsec. (g). Pub. L. 115–91, § 811(a)(2)(C), substituted “in accordance with section 1908.” for “to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.”
 
 
 <a id="section-3503"></a>
@@ -123,6 +165,27 @@ In subsection (b)(1), the words “The Federal Acquisition Regulation” are sub
 | 3503 | 41:254b(b). | June 30, 1949, ch. 288, title III, § 304A(b), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3279; Pub. L. 104–106, title XLII, § 4201(b)(1), Feb. 10, 1996, 110 Stat. 651. |
 
 In subsection (b)(2), the words “as the case may be” are omitted as unnecessary.
+
+#### Amendment of Section
+Pub. L. 115–232, div. A, title VIII, § 836(b)(12), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:
+
+(1) in subsection (a)(2), by striking “a commercial item” and inserting “a commercial product or a commercial service”; and
+
+(2) in subsection (b)—
+
+(A) in the heading, by striking “Commercial Items” and inserting “Commercial Products or Commercial Services”; and
+
+(B) by striking “a commercial item” each place it appears and inserting “a commercial product or a commercial service”.
+
+See 2018 Amendment notes below.
+
+#### Amendments
+2018—Subsec. (a)(2). Pub. L. 115–232, § 836(b)(12)(A), substituted “a commercial product or a commercial service” for “a commercial item”.
+
+Subsec. (b). Pub. L. 115–232, § 836(b)(12)(B), in heading, substituted “Commercial Products or Commercial Services” for “Commercial Items” and, in text, substituted “a commercial product or a commercial service” for “a commercial item” wherever appearing.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 
 <a id="section-3504"></a>
@@ -159,6 +222,15 @@ In subsection (b)(2), the words “as the case may be” are omitted as unnecess
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 3505 | 41:254b(d). | June 30, 1949, ch. 288, title III, § 304A(d), as added Pub. L. 103–355, title I, § 1251(a)(2), Oct. 13, 1994, 108 Stat. 3281; Pub. L. 104–106, title XLII, §§ 4201(b)(1), 4321(e)(4), Feb. 10, 1996, 110 Stat. 652, 675; Pub. L. 105–261, div. A, title VIII, § 808(b), Oct. 17, 1998, 112 Stat. 2085. |
+
+#### Amendment of Subsection (b)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(13), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” each place it appears and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items” wherever appearing.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 
 <a id="section-3506"></a>
@@ -256,3 +328,12 @@ For the purpose of evaluating the accuracy, completeness, and currency of cost o
 | 3509 | 41:251 note. | Pub. L. 110–252, title VI, §§ 6102, 6103, June 30, 2008, 122 Stat. 2386, 2387. |
 
 In subsection (b), the words “shall include” are substituted for “shall be amended” and “to include” to reflect the permanence of the provision. The words “within 180 days after the date of the enactment of this Act” are omitted as obsolete.
+
+#### Amendment of Subsection (b)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(14), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsec. (b). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.

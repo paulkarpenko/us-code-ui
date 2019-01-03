@@ -27,6 +27,15 @@ source: >-
 
 In subsection (b)(2), the words “in its discretion” are omitted as unnecessary.
 
+#### Amendment of Subsection (b)(3)
+Pub. L. 115–232, div. A, title VIII, § 836(b)(16), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b)(3) of this section is amended by striking “commercial items” and inserting “commercial products or commercial services”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsec. (b)(3). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
 
 <a id="section-3902"></a>
 ## § 3902. Severable services contracts for periods crossing fiscal years

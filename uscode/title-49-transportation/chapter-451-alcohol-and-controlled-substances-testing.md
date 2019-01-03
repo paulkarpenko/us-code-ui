@@ -159,6 +159,9 @@ This amends 49:45105(a) to correct an error in the codification enacted by secti
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
 
+#### Prioritizing and Supporting the Human Intervention Motivation Study (HIMS) Program and the Flight Attendant Drug and Alcohol Program (FADAP)
+Pub. L. 115–254, div. B, title V, § 554(a), Oct. 5, 2018, 132 Stat. 3380, provided that: “The [Federal Aviation] Administration shall continue to prioritize and support the Human Intervention Motivation Study (HIMS) program for flight crewmembers and the Flight Attendant Drug and Alcohol Program (FADAP) for flight attendants.”
+
 #### Human Intervention Motivation Study
 Pub. L. 112–95, title VIII, § 819, Feb. 14, 2012, 126 Stat. 127, provided that: “Not later than 180 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall develop a Human Intervention Motivation Study program for cabin crew members employed by commercial air carriers in the United States.”
 
@@ -198,11 +201,13 @@ In subsection (c) the word “prevent” is substituted for “restrict the disc
 
 <a id="section-45107"></a>
 ## § 45107. Transportation Security Administration
-**(a) Transfer of Functions Relating to Testing Programs With Respect to Airport Security Screening Personnel.—** The authority of the Administrator of the Federal Aviation Administration under this chapter with respect to programs relating to testing of airport security screening personnel are transferred to the Under Secretary of Transportation for Security. Notwithstanding section 45102(a), the regulations prescribed under section 45102(a) shall require testing of such personnel by their employers instead of by air carriers and foreign air carriers.
+**(a) Transfer of Functions Relating to Testing Programs With Respect to Airport Security Screening Personnel.—** The authority of the Administrator of the Federal Aviation Administration under this chapter with respect to programs relating to testing of airport security screening personnel are transferred to the Administrator of the Transportation Security Administration. Notwithstanding section 45102(a), the regulations prescribed under section 45102(a) shall require testing of such personnel by their employers instead of by air carriers and foreign air carriers.
 
-**(b) Applicability of Chapter With Respect to Employees of Administration.—** The provisions of this chapter that apply with respect to employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions shall apply with respect to employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions. The Under Secretary of Transportation for Security, the Transportation Security Administration, and employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions shall be subject to and comply with such provisions in the same manner and to the same extent as the Administrator of the Federal Aviation Administration, the Federal Aviation Administration, and employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions, respectively.
+**(b) Applicability of Chapter With Respect to Employees of Administration.—** The provisions of this chapter that apply with respect to employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions shall apply with respect to employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions.
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–254, § 1991(e)(1), substituted “Administrator of the Transportation Security Administration” for “Under Secretary of Transportation for Security”.
+
+Subsec. (b). Pub. L. 115–254, § 1991(e)(2), struck out at end “The Under Secretary of Transportation for Security, the Transportation Security Administration, and employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions shall be subject to and comply with such provisions in the same manner and to the same extent as the Administrator of the Federal Aviation Administration, the Federal Aviation Administration, and employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions, respectively.”

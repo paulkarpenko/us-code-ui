@@ -60,7 +60,7 @@ source: >-
 
     (iii) If a member described in subparagraph (A) is wounded or otherwise injured or becomes ill while serving on active duty pursuant to a call or order to active duty under a provision of law referred to in the first sentence of clause (i) or in clause (ii), and the member is then ordered to active duty under [section 12301(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12301/h/1&num=0&edition=prelim) to receive medical care for the wound, injury, or illness, each day of active duty under that order for medical care shall be treated as a continuation of the original call or order to active duty for purposes of reducing the eligibility age of the member under this paragraph.
 
-    (iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) for purposes of emergency augmentation of the Regular Coast Guard forces.
+    (iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 11 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
 
   (C) The eligibility age for purposes of subsection (a)(1) may not be reduced below 50 years of age for any person under subparagraph (A).
 
@@ -144,8 +144,11 @@ Subsec. (e). Pub. L. 96–513, § 511(47)(B), struck out “United States Code,�
 
 Subsec. (c). Pub. L. 85–704 made persons who performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, eligible for retired pay under this chapter.
 
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
+[Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
 #### Effective Date of 2013 Amendment
-Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under [section 712 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to this section, [section 701 of this title](./chapter-040-leave.md#section-701), and [section 5538 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), Government Organization and Employees, see section 681(d) of Pub. L. 112–239, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under [section 3713 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim), Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to this section, [section 701 of this title](./chapter-040-leave.md#section-701), and [section 5538 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), Government Organization and Employees, see section 681(d) of Pub. L. 112–239, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
@@ -398,7 +401,7 @@ The word “full-time” is inserted for clarity. The other change reflects the 
 #### References in Text
 Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641.
 
-Women’s Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See [section 3070 of this title](./chapter-307-the-army.md#section-3070). See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
+Women’s Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See [section 3070 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3070&num=0&edition=prelim). See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
 #### Amendments
 2008—Subsec. (b)(8). Pub. L. 110–181 added par. (8).
@@ -685,43 +688,40 @@ Pub. L. 89–652, § 3, Oct. 14, 1966, 80 Stat. 902, provided that: “Notwithst
 
   (C) fails to complete the minimum two years of service solely because the appointment of the member to such position is terminated or vacated as described in [section 324(b) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section324/b&num=0&edition=prelim).
 
+**(f) Modernized Retirement System.—**
+
+(1) **Reduced multiplier for full tsp members.—** — Notwithstanding subsection (a) or (c), in the case of a person who first performs reserve component service on or after January 1, 2018, after not having performed regular or reserve component service on or before that date, or a person who makes the election described in paragraph (2) (referred to as a “full TSP member”)—
+
+  (A) subsection (a)(2) shall be applied by substituting “2 percent” for “2½ percent”;
+
+  (B) subparagraph (A) of subsection (c)(2) shall be applied by substituting “60 percent” for “75 percent”; and
+
+  (C) subparagraph (B)(ii) of such subsection shall be applied by substituting “2 percent” for “2½ percent”.
+
+(2) **Election to participate in modernized retirement system.—**
+
+  (A) *In general.—* — Pursuant to subparagraph (B), a person performing reserve component service on December 31, 2017, who has performed fewer than 12 years of service as of December 31, 2017 (as computed in accordance with [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733)), may elect, in exchange for the reduced multipliers described in paragraph (1) for purposes of calculating the retired pay of the person, to receive Thrift Savings Plan contributions pursuant to [section 8440e(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e/e&num=0&edition=prelim).
+
+  (B) *Election period.—*
+
+    (i) *In general.—* — Except as provided in clauses (ii) and (iii), a person described in subparagraph (A) may make the election described in that subparagraph during the period that begins on January 1, 2018, and ends on December 31, 2018.
+
+    (ii) *Hardship extension.—* — The Secretary concerned may extend the election period described in clause (i) for a person who experiences a hardship as determined by the Secretary concerned.
+
+    (iii) *Persons experiencing break in service.—* — A person returning to reserve component service after a break in reserve component service in which falls the election period specified in clause (i) shall make the election described in subparagraph (A) within 30 days after the date of the reentry into service of the person.
+
+  (C) *No retroactive contributions pursuant to election.—* — Thrift Savings Plan contributions may not be made for a person making an election pursuant to subparagraph (A) for any pay period beginning before the date of the person’s election under that subparagraph by reason of the person’s election.
+
+(3) **Regulations.—** — The Secretary concerned shall prescribe regulations to implement this subsection.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 114–92, div. A, title VI, §§ 631(b), 635, Nov. 25, 2015, 129 Stat. 843, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by adding at the end the following new subsection:
-
-(f) Modernized Retirement System.—
-
-(1) Reduced multiplier for full tsp members.—Notwithstanding subsection (a) or (c), in the case of a person who first performs reserve component service on or after January 1, 2018, after not having performed regular or reserve component service on or before that date, or a person who makes the election described in paragraph (2) (referred to as a “full TSP member”)—
-
-(A) subsection (a)(2) shall be applied by substituting “2 percent” for “2½ percent”;
-
-(B) subparagraph (A) of subsection (c)(2) shall be applied by substituting “60 percent” for “75 percent”; and
-
-(C) subparagraph (B)(ii) of such subsection shall be applied by substituting “2 percent” for “2½ percent”.
-
-(2) Election to participate in modernized retirement system.—
-
-(A) In general.—Pursuant to subparagraph (B), a person performing reserve component service on December 31, 2017, who has performed fewer than 12 years of service as of December 31, 2017 (as computed in accordance with [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733)), may elect, in exchange for the reduced multipliers described in paragraph (1) for purposes of calculating the retired pay of the person, to receive Thrift Savings Plan contributions pursuant to [section 8440e(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e/e&num=0&edition=prelim).
-
-(B) Election period.—
-
-(i) In general.—Except as provided in clauses (ii) and (iii), a person described in subparagraph (A) may make the election described in that subparagraph during the period that begins on January 1, 2018, and ends on December 31, 2018.
-
-(ii) Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a person who experiences a hardship as determined by the Secretary concerned.
-
-(iii) Persons experiencing break in service.—A person returning to reserve component service after a break in reserve component service in which falls the election period specified in clause (i) shall make the election described in subparagraph (A) on the date of the reentry into service of the person.
-
-(C) No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a person making an election pursuant to subparagraph (A) for any pay period beginning before the date of the person’s election under that subparagraph by reason of the person’s election.
-
-(3) Regulations.—The Secretary concerned shall prescribe regulations to implement this subsection.
-
-See 2015 Amendment note below.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in formula 3 of the table in [section 1401(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401/a&num=0&edition=prelim), prior to amendment by Pub. L. 103–337, § 1662(j)(2).
 
 #### Amendments
+2017—Subsec. (f)(2)(B)(iii). Pub. L. 115–91 substituted “within 30 days after the date of the reentry” for “on the date of the reentry”.
+
 2015—Subsec. (f). Pub. L. 114–92 added subsec. (f).
 
 2009—Subsec. (e). Pub. L. 111–84 added subsec. (e).
@@ -733,6 +733,9 @@ Provisions similar to those in this section were contained in formula 3 of the t
 Subsec. (c). Pub. L. 107–314, § 632(a)(1), (b), redesignated subsec. (b) as (c) and substituted “total amount of the monthly retired pay computed under subsections (a) and (b)” for “amount computed under subsection (a)”. Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 107–314, § 632(a)(1), redesignated subsec. (c) as (d).
+
+#### Effective Date of 2017 Amendment
+Pub. L. 115–91, div. A, title VI, § 623(b), Dec. 12, 2017, 131 Stat. 1429, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2018, immediately after the coming into effect of the amendment made by section 631(b) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 843) [amending this section], to which the amendment made by subsection (a) relates.”
 
 #### Effective Date of 2015 Amendment; Implementation
 Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
@@ -764,11 +767,11 @@ Pub. L. 104–106, div. A, title VI, § 632(b), Feb. 10, 1996, 110 Stat. 365, pr
 ## § 12741. Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement
 **(a) Authority to Elect to Receive Reserve Retired Pay.—**
 
-(1) Notwithstanding the requirement in paragraph (4) of [section 12731(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12731/a&num=0&edition=prelim) that a person may not receive retired pay under this chapter when the person is entitled, under any other provision of law, to retired pay or retainer pay, a person may elect to receive retired pay under this chapter, instead of receiving retired or retainer pay under chapter 65, 367, 571, or 867 of this title, if the person—
+(1) Notwithstanding the requirement in paragraph (4) of [section 12731(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12731/a&num=0&edition=prelim) that a person may not receive retired pay under this chapter when the person is entitled, under any other provision of law, to retired pay or retainer pay, a person may elect to receive retired pay under this chapter, instead of receiving retired or retainer pay under chapter 65, 741, 841, or 941 of this title, if the person—
 
   (A) satisfies the requirements specified in paragraphs (1) and (2) of such section for entitlement to retired pay under this chapter;
 
-  (B) served in an active status in the Selected Reserve of the Ready Reserve after becoming eligible for retirement under chapter 65, 367, 571, or 867 of this title (without regard to whether the person actually retired or received retired or retainer pay under one of those chapters); and
+  (B) served in an active status in the Selected Reserve of the Ready Reserve after becoming eligible for retirement under chapter 65, 741, 841, or 941 of this title (without regard to whether the person actually retired or received retired or retainer pay under one of those chapters); and
 
   (C) completed not less than two years of satisfactory service (as determined by the Secretary concerned) in such active status (excluding any period of active service).
 
@@ -780,7 +783,7 @@ Pub. L. 104–106, div. A, title VI, § 632(b), Feb. 10, 1996, 110 Stat. 365, pr
 
 **(b) Actions To Effectuate Election.—** As of the effective date of an election made by a person under subsection (a), the Secretary concerned shall—
 
-(1) terminate the eligibility of the person to retire under chapter 65, 367, 571, or 867 of this title, if the person is not already retired under one of those chapters, and terminate entitlement of the person to retired or retainer pay under one of those chapters, if the person was already receiving retired or retainer pay under one of those chapters; and
+(1) terminate the eligibility of the person to retire under chapter 65, 741, 841, or 941 of this title, if the person is not already retired under one of those chapters, and terminate entitlement of the person to retired or retainer pay under one of those chapters, if the person was already receiving retired or retainer pay under one of those chapters; and
 
 (2) in the case of a reserve commissioned officer, transfer the officer to the Retired Reserve.
 
@@ -799,6 +802,10 @@ Pub. L. 104–106, div. A, title VI, § 632(b), Feb. 10, 1996, 110 Stat. 365, pr
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–232 substituted “chapter 65, 741, 841, or 941” for “chapter 65, 367, 571, or 867” in introductory provisions and in subpar. (B).
+
+Subsec. (b)(1). Pub. L. 115–232 substituted “chapter 65, 741, 841, or 941” for “chapter 65, 367, 571, or 867”.
+
 2009—Pub. L. 111–84, § 643(e)(1), substituted “Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement” for “Retirement from active reserve service performed after regular retirement” in section catchline.
 
 Subsec. (a). Pub. L. 111–84, § 643(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
@@ -820,6 +827,9 @@ Subsec. (d)(2)(A). Pub. L. 111–84, § 643(c)(2), substituted “attains the el
 2006—Subsecs. (c), (d). Pub. L. 109–364 substituted “subsection (a)” for “subsection (b)”.
 
 2001—Subsec. (a)(2). Pub. L. 107–107 substituted “receive” for “received”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
 Pub. L. 106–398, § 1 [[div. A], title VI, § 653(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, provided that: “[Section 12741 of title 10](./chapter-1223-retired-pay-for-non-regular-service.md#section-12741), United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act [Oct. 30, 2000] and shall apply with respect to retired pay payable for months beginning on or after that effective date.”

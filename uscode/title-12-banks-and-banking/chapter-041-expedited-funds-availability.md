@@ -81,13 +81,13 @@ For purposes of this chapter—
 
   (B) exchanges checks through the check clearinghouse association, either directly or through an intermediary.
 
-(20) **Receiving depository institution** — The term “receiving depository institution” means the branch of a depository institution or the proprietary ATM in which a check is first deposited.
+(20) **Receiving depository institution** — The term “receiving depository institution” means the branch of a depository institution or the proprietary ATM, located in the United States, in which a check is first deposited.
 
-(21) **State** — The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands.
+(21) **State** — The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the Virgin Islands.
 
 (22) **Teller’s check** — The term “teller’s check” means any check issued by a depository institution and drawn on another depository institution.
 
-(23) **United States** — The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
+(23) **United States** — The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands.
 
 (24) **Unit of general local government** — The term “unit of general local government” means any city, county, town, township, parish, village, or other general purpose political subdivision of a State.
 
@@ -97,6 +97,14 @@ For purposes of this chapter—
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, known as the Expedited Funds Availability Act, which enacted this chapter, amended [section 248a of this title](./chapter-003-federal-reserve-system.md#section-248a), and enacted provisions set out as notes under sections 248a and 4001 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Amendments
+2018—Par. (20). Pub. L. 115–174, § 208(a)(1)(A), inserted “, located in the United States,” after “ATM”.
+
+Pars. (21), (23). Pub. L. 115–174, § 208(a)(1)(B), (C), inserted “American Samoa, the Commonwealth of the Northern Mariana Islands, Guam,” after “Puerto Rico,”.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–174, title II, § 208(b), May 24, 2018, 132 Stat. 1313, provided that: “The amendments made by this section [amending this section and [section 4002 of this title](./chapter-041-expedited-funds-availability.md#section-4002)] shall take effect on the date that is 30 days after the date of enactment of this Act [May 24, 2018].”
 
 #### Effective Date
 Pub. L. 100–86, title VI, § 613, Aug. 10, 1987, 101 Stat. 652, provided that: “(a) Date of Enactment.—Except as provided in subsection (b), this title [enacting this chapter, amending [section 248a of this title](./chapter-003-federal-reserve-system.md#section-248a), and enacting provisions set out as notes under this section and [section 248a of this title](./chapter-003-federal-reserve-system.md#section-248a)] shall take effect on the date of the enactment of this title [Aug. 10, 1987]. “(b) 1 Year After Date of Enactment.—Sections 603, 604, 605, 606, 610, and 611 [enacting sections 4002 to 4005, 4009, and 4010 of this title] shall take effect on September 1, 1988.”
@@ -199,7 +207,7 @@ If any provision of Pub. L. 100–86 or the application thereof to any person or
 
 (2) **Extension for certain deposits in noncontiguous States or territories** — Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) shall be extended by 1 business day in the case of any deposit which is both—
 
-  (A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
+  (A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the Virgin Islands; and
 
   (B) deposited by a check drawn on an originating depository institution which is not located in the same State, commonwealth, or territory as the receiving depository institution.
 
@@ -232,6 +240,8 @@ If any provision of Pub. L. 100–86 or the application thereof to any person or
 ### Statutory Notes
 
 #### Amendments
+2018—Subsec. (d)(2)(A). Pub. L. 115–174 inserted “American Samoa, the Commonwealth of the Northern Mariana Islands, Guam,” after “Puerto Rico,”.
+
 2010—Subsec. (a)(2)(D). Pub. L. 111–203, § 1086(e)(1), substituted “$200” for “$100”.
 
 Subsecs. (b)(3)(C), (c)(1)(B)(iii). Pub. L. 111–203, § 1086(e)(2), (3), substituted “$200” for “$100” in heading.
@@ -249,6 +259,9 @@ Subsec. (e)(2) to (4). Pub. L. 102–242, § 227(a), (b)(1)(B), redesignated par
 Subsec. (e)(1)(C). Pub. L. 101–625, § 1001(2), substituted “prior to the expiration of the 2-year period beginning on November 28, 1990” for “before September 1, 1990”.
 
 Subsec. (e)(2)(D). Pub. L. 101–625, § 1001(3), substituted “the expiration of the 2-year period beginning on November 28, 1990” for “September 1, 1990”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–174 effective 30 days after May 24, 2018, see section 208(b) of Pub. L. 115–174, set out as a note under [section 4001 of this title](./chapter-041-expedited-funds-availability.md#section-4001).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.

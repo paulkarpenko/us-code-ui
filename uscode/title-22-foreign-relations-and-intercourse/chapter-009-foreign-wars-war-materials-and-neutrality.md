@@ -61,7 +61,7 @@ Except in those cases in which the exportation of arms and munitions of war or o
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act June 15, 1917, ch. 30, title VI, 40 Stat. 223, as amended, which enacted sections 31 to 39, 98, 130 to 133, 288, 343 to 346, 381, 502, 535, 536, 574, and 611 to 633 of former Title 18, Criminal Code and Criminal Procedure, sections 213, 231 to 233, 235, 401 to 408a, 462, and 465 of this title, and sections 30 to 42, 191, and 192 to 195 of Title 50, War and National Defense, and amended sections 25, 27, and 349 of former Title 18. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 15, 1917, ch. 30, title VI, 40 Stat. 223, as amended, which enacted sections 31 to 39, 98, 130 to 133, 288, 343 to 346, 381, 502, 535, 536, 574, and 611 to 633 of former Title 18, Criminal Code and Criminal Procedure, sections 213, 231 to 233, 235, 401 to 408a, 462, and 465 of this title, and sections 30 to 42, former section 191, former sections 192 to 194, and [section 195 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section195&num=0&edition=prelim), War and National Defense, and amended sections 25, 27, and 349 of former Title 18. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-407"></a>
@@ -91,7 +91,7 @@ The term “United States” as used in this Act includes the Canal Zone and all
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act June 15, 1917, ch. 30, 40 Stat. 217, as amended, which enacted sections 31 to 39, 98, 130 to 133, 288, 343 to 346, 381, 502, 535, 536, 574, and 611 to 633 of former Title 18, Criminal Code and Criminal Procedure, sections 213, 231 to 233, 235, 401 to 408a, 462, and 465 of this title, and sections 30 to 42, 191, and 192 to 195 of Title 50, War and National Defense, and amended sections 25, 27, and 349 of former Title 18. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act June 15, 1917, ch. 30, 40 Stat. 217, as amended, which enacted sections 31 to 39, 98, 130 to 133, 288, 343 to 346, 381, 502, 535, 536, 574, and 611 to 633 of former Title 18, Criminal Code and Criminal Procedure, sections 213, 231 to 233, 235, 401 to 408a, 462, and 465 of this title, and sections 30 to 42, former section 191, former sections 192 to 194, and [section 195 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section195&num=0&edition=prelim), War and National Defense, and amended sections 25, 27, and 349 of former Title 18. For complete classification of this Act to the Code, see Tables.
 
 For definition of Canal Zone, referred to in text, see [section 3602(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim).
 

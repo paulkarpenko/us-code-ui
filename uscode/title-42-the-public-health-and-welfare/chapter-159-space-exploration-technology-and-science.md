@@ -197,7 +197,7 @@ In this chapter:
 
   (B) *Qualified foreign entity* — The term “qualified foreign entity” means a foreign entity that is in compliance with all applicable safety standards and is not prohibited from providing space transportation services under other law.
 
-  (C) *United states commercial provider* — The term “United States commercial provider” means a commercial provider, organized under the laws of the United States or of a State, that is more than 50 percent owned by United States nationals.
+  (C) *United States commercial provider* — The term “United States commercial provider” means a commercial provider, organized under the laws of the United States or of a State, that is more than 50 percent owned by United States nationals.
 
 (3) **Arrangements with foreign entities** — Nothing in this subsection shall prevent the Administrator from negotiating or entering into human space flight transportation arrangements with foreign entities to ensure safety of flight and continued ISS operations.
 
@@ -220,7 +220,7 @@ In subsec. (b), “[section 70501(a) of title 51](https://uscode.house.gov/view.
 
 (2) crewed missions and progress toward achieving the goal in paragraph (1) to enable the potential for subsequent human exploration and the extension of human presence throughout the solar system; and
 
-(3) to enable a capability to extend human presence, including potential human habitation on another celestial body and a thriving space economy in the 21st Century.11 So in original. Probably should not be capitalized.
+(3) to enable a capability to extend human presence, including potential human habitation on another celestial body and a thriving space economy in the 21st Century.11 So in original. Probably should be “century.”.
 
 **(b) Key objectives** The key objectives of the United States for human expansion into space shall be—
 
@@ -528,7 +528,7 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (b)(3), i
 
 “(a) Policy of the United States.—It shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least 2024.
 
-“(b) NASA actions.—In furtherance of the policy set forth in subsection (a), NASA shall pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance, and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS.”
+“(b) NASA Actions.—In furtherance of the policy set forth in subsection (a), NASA shall pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance, and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS.”
 
 2015—Pub. L. 114–90, § 114(b)(1)(A), struck out “through 2020” after “Station” in section catchline.
 

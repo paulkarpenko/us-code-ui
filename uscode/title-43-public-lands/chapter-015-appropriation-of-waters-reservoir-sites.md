@@ -13,13 +13,6 @@ Whenever, by priority of possession, rights to the use of water for mining, agri
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, provided that effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System this section is amended to read as follows:
-
-Whenever, by priority of possession, rights to the use of water for mining, agricultural, manufacturing, or other purposes, have vested and accrued, and the same are recognized and acknowledged by the local customs, laws, and the decisions of courts, the possessors and owners of such vested rights shall be maintained and protected in the same.
-
-All patents granted, or preemption or homesteads allowed, shall be subject to any vested and accrued water rights as may have been acquired under or recognized by this section.
-
 #### Codification
 R.S. § 2339 derived from act July 26, 1866, ch. 262, § 9, 14 Stat. 253.
 
@@ -27,8 +20,14 @@ R.S. § 2340 derived from act July 9, 1870, ch. 235, § 17, 16 Stat. 218.
 
 This section is also classified to sections 51 and 52 of Title 30, Mineral Lands and Mining.
 
-#### Savings Provision
-Amendment by Pub. L. 94–579, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Amendment of Section; Savings Provision
+Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, provided that, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System, this section is amended to read as follows:
+
+“Whenever, by priority of possession, rights to the use of water for mining, agricultural, manufacturing, or other purposes, have vested and accrued, and the same are recognized and acknowledged by the local customs, laws, and the decisions of courts, the possessors and owners of such vested rights shall be maintained and protected in the same.
+
+“All patents granted, or preemption or homesteads allowed, shall be subject to any vested and accrued water rights as may have been acquired under or recognized by this section.”
+
+Such amendment not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of this title](./chapter-029-submerged-lands.md#section-1303).
@@ -67,14 +66,11 @@ All reservoir sites reserved or to be reserved shall be open to use and occupati
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
-
 #### References in Text
 Sections 946 to 949 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
-#### Savings Provision
-Repeal by Pub. L. 94–579, insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-665"></a>
@@ -84,11 +80,8 @@ In the form provided by existing law, the Secretary of the Interior may file and
 
 ### Statutory Notes
 
-#### Repeal of Section
-Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, under, and through the public lands and lands in the National Forest Systems.
-
-#### Savings Provision
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
+#### Repeal; Savings Provision
+Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, under, and through the public lands and lands in the National Forest Systems. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
 
 
 <a id="section-666"></a>

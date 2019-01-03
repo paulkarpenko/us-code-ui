@@ -396,15 +396,63 @@ William J. Clinton.
 
     (i) If, for fiscal years 2012 through 2021, appropriations for discretionary accounts are enacted that Congress designates as being for disaster relief in statute, the adjustment for a fiscal year shall be the total of such appropriations for the fiscal year in discretionary accounts designated as being for disaster relief, but not to exceed the total of—
 
-      (I) the average funding provided for disaster relief over the previous 10 years, excluding the highest and lowest years; and
+      (I) the average over the previous 10 years (excluding the highest and lowest years) of the sum of the funding provided for disaster relief (as that term is defined on the date immediately before March 23, 2018);
 
-      (II) the amount, for years when the enacted new discretionary budget authority designated as being for disaster relief for the preceding fiscal year was less than the average as calculated in subclause (I) for that fiscal year, that is the difference between the enacted amount and the allowable adjustment as calculated in such subclause for that fiscal year.
+      (II) notwithstanding clause (iv), starting in fiscal year 2018, five percent of the total appropriations provided after fiscal year 2011 or in the previous 10 years, whichever is less, net of any rescissions of budget authority enacted in the same period, with respect to amounts provided for major disasters declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.) and designated by the Congress and the President as an emergency pursuant to subparagraph (A)(i) of this paragraph; and
 
-    (ii) OMB shall report to the Committees on Appropriations and Budget in each House the average calculated pursuant to clause (i)(II), not later than 30 days after August 2, 2011.
+      (III) the cumulative net total of the unused carryover for fiscal year 2018 and all subsequent fiscal years, where the unused carryover for each fiscal year is calculated as the sum of the amounts in subclauses (I) and (II) less the enacted appropriations for that fiscal year that have been designated as being for disaster relief.
+
+    (ii) OMB shall report to the Committees on Appropriations and Budget in each House the average calculated pursuant to clause (i)(II), not later than 30 days after March 23, 2018.
 
     (iii) For the purposes of this subparagraph, the term “disaster relief” means activities carried out pursuant to a determination under [section 5122(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122/2&num=0&edition=prelim).
 
     (iv) Appropriations considered disaster relief under this subparagraph in a fiscal year shall not be eligible for adjustments under subparagraph (A) for the fiscal year.
+
+  (E) *Reemployment services and eligibility assessments*
+
+    (i) *In general* — If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for grants to States under section 306 of the Social Security Act [[42 U.S.C. 506](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section506&num=0&edition=prelim)], then the adjustment for that fiscal year shall be the additional new budget authority provided in that Act for such grants for that fiscal year, but shall not exceed—
+
+      (I) for fiscal year 2018, $0;
+
+      (II) for fiscal year 2019, $33,000,000;
+
+      (III) for fiscal year 2020, $58,000,000; and
+
+      (IV) for fiscal year 2021, $83,000,000.
+
+    (ii) *Definition* — As used in this subparagraph, the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $117,000,000, in an appropriation Act and specified to pay for grants to States under section 306 of the Social Security Act [[42 U.S.C. 506](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section506&num=0&edition=prelim)].
+
+  (F) *Wildfire suppression*
+
+    (i) *Additional new budget authority* — If, for fiscal years 2020 through 2027, a bill or joint resolution making appropriations for a fiscal year is enacted that provides an amount for wildfire suppression operations in the Wildland Fire Management accounts at the Department of Agriculture or the Department of the Interior, then the adjustments for that fiscal year shall be the amount of additional new budget authority provided in that Act for wildfire suppression operations for that fiscal year, but shall not exceed—
+
+      (I) for fiscal year 2020, $2,250,000,000;
+
+      (II) for fiscal year 2021, $2,350,000,000;
+
+      (III) for fiscal year 2022, $2,450,000,000;
+
+      (IV) for fiscal year 2023, $2,550,000,000;
+
+      (V) for fiscal year 2024, $2,650,000,000;
+
+      (VI) for fiscal year 2025, $2,750,000,000;
+
+      (VII) for fiscal year 2026, $2,850,000,000; and
+
+      (VIII) for fiscal year 2027, $2,950,000,000.
+
+    (ii) *Definitions* — In this subparagraph:
+
+      (I) *Additional new budget authority* — The term “additional new budget authority” means the amount provided for a fiscal year in an appropriation Act that is in excess of the average costs for wildfire suppression operations as reported in the budget of the President submitted under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for fiscal year 2015 and are specified to pay for the costs of wildfire suppression operations in an amount not to exceed the amount specified for that fiscal year in clause (i).
+
+      (II) *Wildfire suppression operations* — The term “wildfire suppression operations” means the emergency and unpredictable aspects of wildland firefighting, including—
+
+        (aa) support, response, and emergency stabilization activities;
+
+        (bb) other emergency management activities; and
+
+        (cc) the funds necessary to repay any transfers needed for the costs of wildfire suppression operations.
 
 **(c) Discretionary spending limit** As used in this subchapter, the term “discretionary spending limit” means—
 
@@ -434,15 +482,15 @@ William J. Clinton.
 
 (5) for fiscal year 2018—
 
-  (A) for the revised security category, $603,000,000,000 in new budget authority; and
+  (A) for the revised security category, $629,000,000,000 in new budget authority; and
 
-  (B) for the revised nonsecurity category, $553,000,000,000 in new budget authority;
+  (B) for the revised nonsecurity category $579,000,000,000 in new budget authority;
 
 (6) for fiscal year 2019—
 
-  (A) for the revised security category, $616,000,000,000 in new budget authority; and
+  (A) for the revised security category, $647,000,000,000 in new budget authority; and
 
-  (B) for the revised nonsecurity category, $566,000,000,000 in new budget authority;
+  (B) for the revised nonsecurity category, $597,000,000,000 in new budget authority;
 
 (7) for fiscal year 2020—
 
@@ -462,10 +510,26 @@ as adjusted in strict conformance with subsection (b).
 #### References in Text
 The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(D)(i)(II), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
 #### Codification
 Pub. L. 101–508, § 13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to [section 907(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section907/e&num=0&edition=prelim).
 
 #### Amendments
+2018—Subsec. (b)(2)(D)(i). Pub. L. 115–141, § 102(a)(1), added subcls. (I) to (III) and struck out former subcls. (I) and (II) which read as follows:
+
+“(I) the average funding provided for disaster relief over the previous 10 years, excluding the highest and lowest years; and
+
+“(II) the amount, for years when the enacted new discretionary budget authority designated as being for disaster relief for the preceding fiscal year was less than the average as calculated in subclause (I) for that fiscal year, that is the difference between the enacted amount and the allowable adjustment as calculated in such subclause for that fiscal year.”
+
+Subsec. (b)(2)(D)(ii). Pub. L. 115–141, § 102(a)(2), as amended by Pub. L. 115–334, § 8704(a)(1)(A), substituted “not later than 30 days after March 23, 2018” for “not later than 30 days after August 2, 2011”.
+
+Subsec. (b)(2)(E). Pub. L. 115–123, § 30206(c), added subpar. (E).
+
+Subsec. (b)(2)(F). Pub. L. 115–141, § 102(a)(3), added subpar. (F).
+
+Subsec. (c)(5), (6). Pub. L. 115–123, § 30101(a), added pars. (5) and (6), and struck out former pars. (5) and (6) which defined discretionary spending limits for fiscal years 2018 and 2019, respectively.
+
 2015—Subsec. (a)(7)(B). Pub. L. 114–113 substituted “both the CBO and OMB estimates of the amount of discretionary new budget authority” for “the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays”.
 
 Subsec. (b)(2)(B)(i). Pub. L. 114–74, § 815(1)(A), in introductory provisions, substituted “, for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys” for “and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act”.
@@ -594,6 +658,11 @@ Subsec. (a)(6)(I). Pub. L. 101–508, § 13101(e)(2), redesignated subsec. (a)(6
 
 Subsec. (a)(6)(B). Pub. L. 100–203, § 8003(f), struck out “and” before “contract authority” and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
 
+#### Effective Date of 2018 Amendment
+Pub. L. 115–334, title VIII, § 8704(a)(2), Dec. 20, 2018, 132 Stat. 4877, provided that: “The amendments made by paragraph (1) [amending this section and [section 7102 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7102&num=0&edition=prelim), Conservation] shall take effect as if enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act ([div. O of] Public Law 115–141).”
+
+Pub. L. 115–141, div. O, title I, § 102(b), Mar. 23, 2018, 132 Stat. 1060, provided that: “The amendment made by paragraph (1) of subsection (a) [amending this section] shall begin to apply in fiscal year 2019.”
+
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under [section 622 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section622&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -667,7 +736,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
     (ii) for the revised nonsecurity category, an amount equal to the nondefense function discretionary reduction calculated pursuant to paragraph (4).
 
-  (B) *Fiscal years 2014–2021* — Except as provided by paragraphs (10) and (11), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim) for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
+  (B) *Fiscal years 2014–2021* — Except as provided by paragraphs (10), (11), and (12), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim) for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
 
     (i) for the revised security category by the amount of the defense function discretionary reduction calculated pursuant to paragraph (3); and
 
@@ -677,13 +746,13 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
   (A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in [section 935 of this title](./chapter-20a-statutory-pay-as-you-go.md#section-935), the exemptions specified in [section 905 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-905), and the special rules specified in [section 906 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-906), except that the percentage reduction for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim) shall not be more than 2 percent for a fiscal year.
 
-  (B) On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, for fiscal year 2024, and for fiscal year 2025, pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), the President shall order a sequestration, effective upon issuance such that—
+  (B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2027, pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), the President shall order a sequestration, effective upon issuance such that—
 
     (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
     (ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
 
-  (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2025 shall be applied to such payments so that—
+  (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2027 shall be applied to such payments so that—
 
     (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
 
@@ -707,6 +776,12 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
   (B) Paragraph (5)(B) shall not be implemented for fiscal years 2016 and 2017.
 
+(12) **Implementing direct spending reductions for fiscal years 2018 and 2019**
+
+  (A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to [section 901(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c&num=0&edition=prelim) revising the discretionary spending limits for fiscal years 2018 and 2019 by the Bipartisan Budget Act of 2018.
+
+  (B) Paragraph (5)(B) shall not be implemented for fiscal years 2018 and 2019.
+
 ### Statutory Notes
 
 #### References in Text
@@ -718,10 +793,20 @@ The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of Pub
 
 The Bipartisan Budget Act of 2015, referred to in par. (11)(A), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code, and Tables.
 
+The Bipartisan Budget Act of 2018, referred to in par. (12)(A), is Pub. L. 115–123, Feb 9, 2018, 132 Stat. 64. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+
 #### Prior Provisions
 A prior section 901a, Pub. L. 99–177, title II, § 251A, as added Pub. L. 103–322, title XXXI, § 310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, § 10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments
+2018—Par. (5)(B). Pub. L. 115–123, § 30101(b)(1), substituted “, (11), and (12)” for “and (11)” in introductory provisions.
+
+Par. (6)(B). Pub. L. 115–123, § 30101(c)(1), substituted “for each of fiscal years 2022 through 2027” for “for fiscal year 2022, for fiscal year 2023, for fiscal year 2024, and for fiscal year 2025” in introductory provisions.
+
+Par. (6)(C). Pub. L. 115–123, § 30101(c)(2), substituted “fiscal year 2027” for “fiscal year 2025” in introductory provisions.
+
+Par. (12). Pub. L. 115–123, § 30101(b)(2), added par. (12).
+
 2015—Par. (5)(B). Pub. L. 114–74, § 101(b)(1), substituted “paragraphs (10) and (11)” for “paragraph (10)”.
 
 Par. (6)(B). Pub. L. 114–74, § 101(c)(1), in introductory provisions, substituted “for fiscal year 2024, and for fiscal year 2025” for “and for fiscal year 2024”.
@@ -777,16 +862,20 @@ Par. (11). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (11) as (9).
 #### 2013 Sequester
 Pub. L. 112–240, title IX, § 901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a)], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [former [2 U.S.C. 901(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c/2&num=0&edition=prelim)] shall be applied as if it read as follows: “ ‘(2) For fiscal year 2013— “ ‘(A) for the security category, $544,000,000,000 in budget authority; and “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
 
-#### Sequestration Order for Fiscal Year 2017 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
-Order of President of the United States, dated Feb. 9, 2016, 81 F.R. 7693, provided:
+#### Sequestration Order for Fiscal Year 2019 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+Order of President of the United States, dated Feb. 12, 2018, 83 F.R. 6789, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2016, direct spending budgetary resources for fiscal year 2017 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 9, 2016.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2018, direct spending budgetary resources for fiscal year 2019 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 12, 2018.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of February 9, 2016, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of February 12, 2018, prepared pursuant to section 251A(9) of the Act.
 
-Barack Obama.
+Donald J. Trump.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+2018—Order of President of the United States, dated May 23, 2017, 82 F.R. 24209.
+
+2017—Order of President of the United States, dated Feb. 9, 2016, 81 F.R. 7693.
 
 2016—Order of President of the United States, dated Feb. 2, 2015, 80 F.R. 6645.
 
@@ -1286,6 +1375,9 @@ Order of the President of the United States, Feb. 1, 1986, 51 F.R. 4291.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (g)(2)
+Pub. L. 115–254, div. F, title VI, § 1470(a), (w), Oct. 5, 2018, 132 Stat. 3515, 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (g)(2) of this section is amended by striking “Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).” and inserting “United States International Development Finance Corporation.” See 2018 Amendment note below.
+
 #### References in Text
 The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -1296,6 +1388,8 @@ The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), whi
 Section 410 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (g)(1)(B), is section 410 of Pub. L. 107–42, which is set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
 
 #### Amendments
+2018—Subsec. (g)(2). Pub. L. 115–254 substituted “United States International Development Finance Corporation.” for “Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).”
+
 2015—Subsec. (g)(1)(B). Pub. L. 114–113 inserted items relating to the September 11th Victim Compensation Fund (15–0340–0–1–754), Victims Compensation Fund established under section 410 of the Air Transportation Safety and System Stabilization Act, United States Victims of State Sponsored Terrorism Fund, and the World Trade Center Health Program Fund (75–0946–0–1–551).
 
 2013—Subsec. (a). Pub. L. 113–67, § 121(5), substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
@@ -1481,6 +1575,11 @@ Subsec. (h). Pub. L. 100–119, § 104(a)(1), inserted item relating to commodit
 1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payments account.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–254, div. F, title VI, § 1470(w), Oct. 5, 2018, 132 Stat. 3519, provided that: “The amendments made by this section [amending this section, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, [section 709 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section709&num=0&edition=prelim), Crimes and Criminal Procedure, [section 4421 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4421&num=0&edition=prelim), Customs Duties, [section 1131c of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1131c&num=0&edition=prelim), Education, sections 2151n, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of Title 22, Foreign Relations and Intercourse, [section 9101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim), Money and Finance, sections 17334 and 17336 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 2293 and 2394c of Title 22] shall take effect at the end of the transition period.”
+
+[For definition of “transition period” as used in section 1470(w) of Pub. L. 115–254, set out above, see [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse.]
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. O, title IV, § 403(b), Dec. 18, 2015, 129 Stat. 3007, provided that: “The amendments made by this section [amending this section] shall apply to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 900](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) et seq.) on or after the date of enactment of this Act [Dec. 18, 2015].”

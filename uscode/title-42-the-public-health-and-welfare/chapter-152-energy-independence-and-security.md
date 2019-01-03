@@ -45,6 +45,9 @@ source: >-
 #### Codification
 December 19, 2007, referred to in subsec. (c), was in the original “enactment” and was translated as meaning the date of enactment of Pub. L. 110–140, to reflect the probable intent of Congress.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17002"></a>
 ## § 17002. Federal matching fund for smart grid investment costs
@@ -144,6 +147,9 @@ Subsec. (c)(1). Pub. L. 111–5, § 405(7), substituted “utilize” for “are
 
 Subsec. (e). Pub. L. 111–5, § 405(8), amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17011"></a>
 ## § 17011. Definitions
@@ -162,7 +168,7 @@ In this Act:
 This Act, referred to in text, is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, known as the Energy Independence and Security Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Effective Date
-Chapter effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–11, § 1(a), Apr. 30, 2015, 129 Stat. 182, provided that: “This Act [enacting sections 17062, 17063, 17084, and 17085 of this title, amending sections 6295, 6302 to 6304, and 17091 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Energy Efficiency Improvement Act of 2015’.”
@@ -190,6 +196,9 @@ Except to the extent expressly provided in this Act or an amendment made by this
 
 #### References in Text
 This Act, referred to in text, is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, known as the Energy Independence and Security Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001) and Tables.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17013"></a>
@@ -298,6 +307,11 @@ This Act, referred to in text, is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 14
 
 (4) **Authorization of appropriations** — There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17021"></a>
 ## § 17021. Advanced battery loan guarantee program
@@ -334,6 +348,11 @@ This Act, referred to in text, is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 14
 **(j) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 **(k) Termination of authority** The authority of the Secretary to issue a loan guarantee under subsection (a) terminates on the date that is 10 years after December 19, 2007.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17022"></a>
@@ -481,6 +500,9 @@ Subsec. (e). Pub. L. 110–329, § 129(c)(2), substituted “Not later than 60 d
 
 Subsec. (j). Pub. L. 110–329, § 129(c)(3), added subsec. (j).
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 #### Reconsideration of Prior Applications
 Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided that: “The Secretary of Energy shall reconsider applications for assistance under section 136 of the Energy Independence and Security Act of 2007 ([42 U.S.C. 17013](./chapter-152-energy-independence-and-security.md#section-17013)) that were— “(1) timely filed under that section before January 1, 2009; “(2) rejected on the basis that the vehicles to which the proposal related were not advanced technology vehicles; and “(3) related to ultra efficient vehicles.”
 
@@ -511,6 +533,11 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 
 (4) **Biomass-based diesel and biodiesel blends** — The terms “biomass-based diesel blend” and “biodiesel blend” means a blend of “biomass-based diesel” or “biodiesel” fuel that is blended with petroleum-based diesel fuel.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17032"></a>
 ## § 17032. Grants for production of advanced biofuels
@@ -529,12 +556,20 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 #### Amendments
 2013—Subsec. (c). Pub. L. 113–40 inserted “, except that the amount authorized to be appropriated to carry out this section not appropriated as of October 2, 2013, shall be reduced by $6,000,000” before period at end.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17033"></a>
 ## § 17033. Biodiesel
 **(a) Biodiesel study** Not later than 180 days after December 19, 2007, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall submit to Congress a report on any research and development challenges inherent in increasing the proportion of diesel fuel sold in the United States that is biodiesel.
 
 **(b) Material for the establishment of standards** The Director of the National Institute of Standards and Technology, in consultation with the Secretary, shall make publicly available the physical property data and characterization of biodiesel and other biofuels as appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17034"></a>
@@ -552,6 +587,11 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 (2) have proven experience and capabilities with relevant technologies.
 
 **(c) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2008 through 2010.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17035"></a>
@@ -592,6 +632,11 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17051"></a>
 ## § 17051. Cellulosic ethanol and biofuels research
@@ -610,6 +655,11 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 **(c) Collaboration** An eligible entity that is selected to receive a grant under subsection (b) shall collaborate with 1 of the Bioenergy Research Centers of the Office of Science of the Department.
 
 **(d) Authorization of appropriations** There is authorized to be appropriated to the Secretary to make grants described in subsection (b) $50,000,000 for fiscal year 2008, to remain available until expended.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17052"></a>
@@ -636,6 +686,11 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 
 (3) **Urbanized area** — The term “urbanized area” has the meaning as defined by the U.S. Bureau of the Census.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17053"></a>
 ## § 17053. Renewable fuel dispenser requirements
@@ -650,6 +705,11 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 (3) The number of retailers whose retail locations are unable to support more than 2 underground storage tank dispensers.
 
 (4) The expense incurred by retailers in the installation and sale of E–85 compatible dispensers and related systems and any potential effects on the price of motor vehicle fuel.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17054"></a>
@@ -804,6 +864,11 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 
 **(f) Authorization of appropriations** There are authorized to be appropriated to the Secretary for carrying out this section $200,000,000 for each of the fiscal years 2008 through 2014.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17061"></a>
 ## § 17061. Energy efficiency for data center buildings
@@ -887,6 +952,9 @@ Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided 
 
 #### References in Text
 The Energy Policy and Conservation Act, referred to in subsec. (b)(2)(D)(ii), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17062"></a>
@@ -982,6 +1050,9 @@ This title, referred to in subsec. (b), is title IV of Pub. L. 110–140, Dec. 1
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17063"></a>
 ## § 17063. Research and development
@@ -1035,6 +1106,11 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out 
 
 (2) in existing facilities.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17071"></a>
 ## § 17071. Federal fleet fueling centers
@@ -1049,6 +1125,11 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out 
 **(c) Department of Defense facility** This section shall not apply to a Department of Defense fueling center with a fuel turnover rate of less than 100,000 gallons of fuel per year.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17081"></a>
@@ -1074,6 +1155,11 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out 
 (8) problems associated with electrical conductivity; and
 
 (9) such other areas as the Secretary considers appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17082"></a>
@@ -1240,6 +1326,9 @@ Title V, referred to in par. (6)(C), is title V of Pub. L. 110–140, Dec. 19, 2
 
 Sections 511 through 525, referred to in par. (6)(C), are sections 511 to 525 of Pub. L. 110–140, which enacted part A (§ 17131) of subchapter IV of this chapter and [section 17141 of this title](./chapter-152-energy-independence-and-security.md#section-17141), amended sections 6834, 8256, 8258, 8259b, 8287, and 8287c of this title and [section 2913 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2913&num=0&edition=prelim), Armed Forces, and enacted provisions set out as a note under [section 8259b of this title](./chapter-091-national-energy-conservation-policy.md#section-8259b).
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17083"></a>
 ## § 17083. Energy efficiency in Federal and other buildings
@@ -1369,6 +1458,11 @@ Section was enacted as part of the Energy Efficiency Improvement Act of 2015, an
 
 **(c) Enforcement** Any manufacturer of manufactured housing that violates a provision of the regulations under subsection (a) is liable to the United States for a civil penalty in an amount not exceeding 1 percent of the manufacturer’s retail list price of the manufactured housing.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17091"></a>
 ## § 17091. Commercial high-performance green buildings
@@ -1473,6 +1567,9 @@ Section was enacted as part of the Energy Efficiency Improvement Act of 2015, an
 #### Change of Name
 Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17092"></a>
 ## § 17092. Zero Net Energy Commercial Buildings Initiative
@@ -1546,6 +1643,11 @@ Office of the Federal Environmental Executive reestablished as the Office of the
 
 (4) $200,000,000 for each of fiscal years 2013 through 2018.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17093"></a>
 ## § 17093. Public outreach
@@ -1579,6 +1681,11 @@ The Commercial Director and Federal Director, in coordination with the Consortiu
 (7) surveying existing research and studies relating to high-performance green buildings; and
 
 (8) coordinating activities of common interest.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17094"></a>
@@ -1704,6 +1811,9 @@ In subsec. (c)(2), “[section 1302(a) of title 41](https://uscode.house.gov/vie
 
 #### Amendments
 2015—Subsec. (b)(2). Pub. L. 114–11 substituted “paragraph (1) is met” for “paragraph (2) is met” and “signing the contract, the following requirements are met:” for “signing the contract, the space will be renovated for all energy efficiency and conservation improvements that would be cost effective over the life of the lease, including improvements in lighting, windows, and heating, ventilation, and air conditioning systems.” and added subpars. (A) and (B).
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17111"></a>
@@ -1840,6 +1950,9 @@ Section 474, referred to in subsec. (c)(3), probably means section 494 of Pub. L
 #### Change of Name
 Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17112"></a>
 ## § 17112. Federal green building performance
@@ -1872,11 +1985,19 @@ This Act, referred to in subsec. (a), is Pub. L. 110–140, which was approved D
 
 This part, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle C (§§ 431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under [section 6834 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6834). For complete classification of subtitle C to the Code, see Tables.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17121"></a>
 ## § 17121. Storm water runoff requirements for Federal development projects
 
 The sponsor of any development or redevelopment project involving a Federal facility with a footprint that exceeds 5,000 square feet shall use site planning, design, construction, and maintenance strategies for the property to maintain or restore, to the maximum extent technically feasible, the predevelopment hydrology of the property with regard to the temperature, rate, volume, and duration of flow.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17122"></a>
@@ -1986,6 +2107,9 @@ Section 525, referred to in subsec. (d)(2), is section 525 of Pub. L. 110–140,
 
 This part, referred to in subsec. (d)(3)(C)(i), was in the original “this subtitle”, meaning subtitle C (§§ 431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under [section 6834 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6834). For complete classification of subtitle C to the Code, see Tables.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17123"></a>
 ## § 17123. Authorization of appropriations
@@ -1996,6 +2120,9 @@ There is authorized to be appropriated to carry out sections 434 through 439 and
 
 #### References in Text
 Sections 434 through 439, referred to in text, are sections 434 to 439 of Pub. L. 110–140, which enacted sections 17091 to 17095 of this title and amended [section 8253 of this title](./chapter-091-national-energy-conservation-policy.md#section-8253). Section 482 is unidentifiable because Pub. L. 110–140 does not contain a section 482.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17124"></a>
@@ -2130,6 +2257,11 @@ Sections 434 through 439, referred to in text, are sections 434 to 439 of Pub. L
 
 (3) **Coordination and nonduplication** — The Secretary shall coordinate efforts under this section with other programs of the Department and other Federal agencies to avoid duplication of effort.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17131"></a>
 ## § 17131. Green Building Advisory Committee
@@ -2172,6 +2304,9 @@ Sections 434 through 436, referred to in subsec. (d), are sections 434 to 436 of
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17141"></a>
 ## § 17141. Advisory Committee on Energy Efficiency Finance
@@ -2204,6 +2339,11 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is
 **(c) Termination** The Advisory Committee on Energy Efficiency Finance shall terminate on the date that is 10 years after December 19, 2007.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to the Secretary for carrying out this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17142"></a>
@@ -2242,6 +2382,11 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is
 
 **(e) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out this section $750,000 for each of fiscal years 2008 through 2012.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17143"></a>
 ## § 17143. Prohibition on incandescent lamps by Coast Guard
@@ -2257,6 +2402,11 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is
 
 **(c) Limitation** In this section, the term “facility” does not include a vessel or aircraft of the Coast Guard.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17144"></a>
 ## § 17144. Procurement and acquisition of alternative fuels
@@ -2264,6 +2414,9 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is
 No Federal agency shall enter into a contract for procurement of an alternative or synthetic fuel, including a fuel produced from nonconventional petroleum sources, for any mobility-related use, other than for research or testing, unless the contract specifies that the lifecycle greenhouse gas emissions associated with the production and combustion of the fuel supplied under the contract must, on an ongoing basis, be less than or equal to such emissions from the equivalent conventional fuel produced from conventional petroleum sources.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 #### Waiver Authority for Alternative Fuel Procurement Requirement
 Pub. L. 114–328, div. A, title III, § 312, Dec. 23, 2016, 130 Stat. 2073, provided that: “(a) In General.—The Secretary of Defense may waive the requirement under section 526 of the Energy Independence and Security Act of 2007 (Public Law 110–140; [42 U.S.C. 17142](./chapter-152-energy-independence-and-security.md#section-17142)) if the Secretary determines it is in the national security interest of the United States. “(b) Notification Requirement.—The Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 15 days after exercising the waiver authority under subsection (a).”
@@ -2292,6 +2445,9 @@ Pub. L. 114–328, div. A, title III, § 312, Dec. 23, 2016, 130 Stat. 2073, pro
 #### References in Text
 This title, referred to in subsec. (a), is title V of Pub. L. 110–140, which enacted this subchapter, part D (§ 8279) of subchapter III of chapter 91 of this title, and sections 1824, 2162a, and 2169 of Title 2, The Congress, amended sections 6325, 6834, 8256, 8258, 8259b, 8287, and 8287c of this title, [section 2162 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2162&num=0&edition=prelim), [section 2913 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2913&num=0&edition=prelim), Armed Forces, [section 3203 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3203&num=0&edition=prelim), Commerce and Trade, and [section 2621 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621&num=0&edition=prelim), Conservation, and enacted provisions set out as a note under [section 8259b of this title](./chapter-091-national-energy-conservation-policy.md#section-8259b). For complete classification of title V to the Code, see Tables.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17152"></a>
 ## § 17152. OMB Government efficiency reports and scorecards
@@ -2309,6 +2465,9 @@ This title, referred to in subsec. (a), is title V of Pub. L. 110–140, which e
 
 #### References in Text
 This title, referred to in text, is title V of Pub. L. 110–140, which enacted this subchapter, part D (§ 8279) of subchapter III of chapter 91 of this title, and sections 1824, 2162a, and 2169 of Title 2, The Congress, amended sections 6325, 6834, 8256, 8258, 8259b, 8287, and 8287c of this title, [section 2162 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2162&num=0&edition=prelim), [section 2913 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2913&num=0&edition=prelim), Armed Forces, [section 3203 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3203&num=0&edition=prelim), Commerce and Trade, and [section 2621 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621&num=0&edition=prelim), Conservation, and enacted provisions set out as a note under [section 8259b of this title](./chapter-091-national-energy-conservation-policy.md#section-8259b). For complete classification of title V to the Code, see Tables.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17153"></a>
@@ -2366,6 +2525,11 @@ In this part:
 
   (D) any other territory or possession of the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17154"></a>
 ## § 17154. Energy Efficiency and Conservation Block Grant Program
@@ -2388,6 +2552,11 @@ In this part:
   (B) the building sector; and
 
   (C) other appropriate sectors.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17155"></a>
@@ -2434,6 +2603,9 @@ In this part:
 Subsec. (a)(2) to (5). Pub. L. 111–5, § 404(a), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 Subsec. (b). Pub. L. 111–5, § 404(b), substituted “subsection (a)(1) or (2)” for “subsection (a)(1)” in introductory provisions.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17156"></a>
@@ -2530,6 +2702,11 @@ An eligible entity may use a grant received under this part to carry out activit
   (B) the Secretary of Transportation; and
 
   (C) the Secretary of Housing and Urban Development.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17157"></a>
@@ -2647,6 +2824,9 @@ An eligible entity may use a grant received under this part to carry out activit
 #### References in Text
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(2)(A), is set out in the Appendix to Title 5, Government Organization and Employees. [Section 903 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section903&num=0&edition=prelim) relates to Presidential authority regarding reorganization plans.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17158"></a>
 ## § 17158. Competitive grants
@@ -2664,6 +2844,11 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(2)(A), is se
 
 (2) that plan to carry out projects that would result in significant energy efficiency improvements or reductions in fossil fuel use.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17171"></a>
 ## § 17171. Review and evaluation
@@ -2674,6 +2859,11 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(2)(A), is se
 (1) any applicable guideline or regulation of the Secretary relating to the program, including the misuse or misappropriation of funds provided under the program; or
 
 (2) the energy efficiency and conservation strategy of the eligible entity.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17172"></a>
@@ -2706,6 +2896,9 @@ The Energy Conservation and Production Act, referred to in subsec. (b)(2), is Pu
 #### Amendments
 2009—Subsec. (a)(1). Pub. L. 111–5 struck out “; provided that 49 percent of the appropriated funds shall be distributed using the definition of eligible unit of local government-alternative 1 in [section 17151(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17151/3/A&num=0&edition=prelim) and 49 percent of the appropriated funds shall be distributed using the definition of eligible unit of local government-alternative 2 in [section 17151(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17151/3/B&num=0&edition=prelim)” after “2012”.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17173"></a>
 ## § 17173. Thermal energy storage research and development program
@@ -2714,6 +2907,9 @@ The Energy Conservation and Production Act, referred to in subsec. (b)(2), is Pu
 **(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary for carrying out this section $5,000,000 for fiscal year 2008, $7,000,000 for fiscal year 2009, $9,000,000 for fiscal year 2010, $10,000,000 for fiscal year 2011, and $12,000,000 for fiscal year 2012.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 #### Short Title
 This part known as the “Solar Energy Research and Advancement Act of 2007”, see Short Title note set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001).
@@ -2745,6 +2941,11 @@ This part known as the “Solar Energy Research and Advancement Act of 2007”, 
 
 **(e) Authorization of appropriations** There are authorized to be appropriated to the Secretary for carrying out this section $10,000,000 for each of the fiscal years 2008 through 2012.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17175"></a>
 ## § 17175. Daylighting systems and direct solar light pipe technology
@@ -2759,6 +2960,11 @@ This part known as the “Solar Energy Research and Advancement Act of 2007”, 
 (2) the term “light pipe” means a device designed to transport visible solar radiation from its collection point to the interior of a building while excluding interior heat gain in the nonheating season.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated to the Secretary for carrying out this section $3,500,000 for each of the fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17191"></a>
@@ -2780,6 +2986,11 @@ This part known as the “Solar Energy Research and Advancement Act of 2007”, 
 **(c) Cost sharing** [Section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352) shall apply to a project carried out under this section.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated to the Secretary for carrying out this section $2,500,000 for each of the fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17192"></a>
@@ -2854,6 +3065,11 @@ This part known as the “Solar Energy Research and Advancement Act of 2007”, 
 
 (5) $70,000,000 for fiscal year 2012.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17193"></a>
 ## § 17193. Definitions
@@ -2882,6 +3098,9 @@ For purposes of this part:
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 #### Short Title
 This part known as the “Advanced Geothermal Energy Research and Development Act of 2007”, see Short Title note set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001).
 
@@ -2895,6 +3114,11 @@ This part known as the “Advanced Geothermal Energy Research and Development Ac
 (1) **Advanced hydrothermal resource tools** — The Secretary, in consultation with other appropriate agencies, shall support a program to develop advanced geophysical, geochemical, and geologic tools to assist in locating hidden hydrothermal resources, and to increase the reliability of site characterization before, during, and after initial drilling. The program shall develop new prospecting techniques to assist in prioritization of targets for characterization. The program shall include a field component.
 
 (2) **Industry coupled exploratory drilling** — The Secretary shall support a program of cost-shared field demonstration programs, to be pursued, simultaneously and independently, in collaboration with industry partners, for the demonstration of advanced technologies and techniques of siting and exploratory drilling for undiscovered resources in a variety of geologic settings. The program shall include incentives to encourage the use of advanced technologies and techniques.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17195"></a>
@@ -2910,6 +3134,11 @@ This part known as the “Advanced Geothermal Energy Research and Development Ac
 (2) in conjunction with the Assistant Administrator for Research and Development at the Environmental Protection Agency, support a research program to identify potential environmental impacts of geothermal energy development, production, and use, and ensure that the program described in paragraph (1) addresses such impacts, including effects on groundwater and local hydrology; and
 
 (3) support a program of research to compare the potential environmental impacts identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gases gained by geothermal energy development, production, and use.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17196"></a>
@@ -2941,6 +3170,11 @@ This part known as the “Advanced Geothermal Energy Research and Development Ac
     (ii) take advantage of an existing site where subsurface characterization has been conducted or existing drill holes can be utilized, if possible.
 
   (B) *Consideration of existing site* — The Desert Peak, Nevada, site, where a Department of Energy and industry cooperative enhanced geothermal systems project is already underway, may be considered for inclusion among the sites selected under subparagraph (A).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17197"></a>
@@ -2996,6 +3230,11 @@ The Secretary shall give preference to assessments that address multiple element
 
 **(f) Well drilling** No funds may be used under this section for the purpose of drilling new wells.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17198"></a>
 ## § 17198. Cost sharing and proposal evaluation
@@ -3010,6 +3249,11 @@ The Secretary shall give preference to assessments that address multiple element
 (3) The Secretary shall coordinate and consult with the appropriate Federal land management agencies in selecting proposals for funding under this part.
 
 (4) Nothing in this part shall be construed to alter or affect any law relating to the management or protection of Federal lands.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17199"></a>
@@ -3036,17 +3280,32 @@ The Secretary shall give preference to assessments that address multiple element
 
   (B) any other requirements specified by the Secretary.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17200"></a>
 ## § 17200. GeoPowering America
 
 The Secretary shall expand the Department of Energy’s GeoPowering the West program to extend its geothermal technology transfer activities throughout the entire United States. The program shall be renamed “GeoPowering America”. The program shall continue to be based in the Department of Energy office in Golden, Colorado.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17201"></a>
 ## § 17201. Educational pilot program
 
 The Secretary shall seek to award grant funding, on a competitive basis, to an institution of higher education for a geothermal-powered energy generation facility on the institution’s campus. The purpose of the facility shall be to provide electricity and space heating. The facility shall also serve as an educational resource to students in relevant fields of study, and the data generated by the facility shall be available to students and the general public. The total funding award shall not exceed $2,000,000.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17202"></a>
@@ -3076,17 +3335,30 @@ The Secretary shall seek to award grant funding, on a competitive basis, to an i
 #### Change of Name
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17203"></a>
 ## § 17203. Applicability of other laws
 
 Nothing in this part shall be construed as waiving, modifying, or superseding the applicability of any requirement under any environmental or other Federal or State law. To the extent that activities authorized in this part take place in coastal and ocean areas, the Secretary shall consult with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, regarding the potential marine environmental impacts and measures to address such impacts.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17204"></a>
 ## § 17204. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary to carry out this part $90,000,000 for each of the fiscal years 2008 through 2012, of which $10,000,000 for each fiscal year shall be for carrying out [section 17195 of this title](./chapter-152-energy-independence-and-security.md#section-17195). There are also authorized to be appropriated to the Secretary for the Intermountain West Geothermal Consortium $5,000,000 for each of the fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17211"></a>
@@ -3100,6 +3372,11 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 (2) provide grants and other financial support for feasibility and resource assessment studies conducted in, or intended to benefit, less developed countries.
 
 **(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17212"></a>
@@ -3136,6 +3413,11 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 
 **(e) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17213"></a>
 ## § 17213. Definition
@@ -3152,6 +3434,9 @@ For purposes of this part, the term “marine and hydrokinetic renewable energy�
 The term “marine and hydrokinetic renewable energy” does not include energy from any source that uses a dam, diversionary structure, or impoundment for electric power purposes.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 #### Short Title
 This part known as the “Marine and Hydrokinetic Renewable Energy Research and Development Act”, see Short Title note set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001).
@@ -3199,6 +3484,11 @@ This part known as the “Marine and Hydrokinetic Renewable Energy Research and 
 
 (4) the necessary components of such an adaptive management program.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17215"></a>
 ## § 17215. National Marine Renewable Energy Research, Development, and Demonstration Centers
@@ -3215,17 +3505,32 @@ The Secretary may give special consideration to historically black colleges and 
 
 **(c) Demonstration of need** When applying for a grant under this section, an applicant shall include a description of why Federal support is necessary for the Center, including evidence that the research of the Center will not be conducted in the absence of Federal support.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17231"></a>
 ## § 17231. Applicability of other laws
 
 Nothing in this part shall be construed as waiving, modifying, or superseding the applicability of any requirement under any environmental or other Federal or State law.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17241"></a>
 ## § 17241. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary to carry out this part $50,000,000 for each of the fiscal years 2008 through 2012, except that no funds shall be appropriated under this section for activities that are receiving funds under [section 16231(a)(2)(E)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16231/a/2/E/i&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17242"></a>
@@ -3473,6 +3778,9 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17243"></a>
 ## § 17243. Lightweight materials research and development
@@ -3487,6 +3795,11 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L.
   (B) materials processing, automated manufacturing, joining, and recycling lightweight materials for high-volume applications.
 
 **(b) Authorization of appropriations** There is authorized to be appropriated to carry out this section $80,000,000 for the period of fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17244"></a>
@@ -3518,6 +3831,11 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L.
 (3) **Cost-sharing** — [Section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352) shall apply to any project carried out under this subsection.
 
 **(d) Authorization of appropriations** There is authorized to be appropriated to carry out this section $8,000,000 for the period of fiscal years 2009 through 2014.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17251"></a>
@@ -3636,6 +3954,11 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L.
 
 **(k) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17252"></a>
 ## § 17252. Renewable Energy Innovation Manufacturing Partnership
@@ -3675,6 +3998,11 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L.
 
 **(j) Authorization of appropriations** There is authorized to be appropriated out of funds already authorized to carry out this section $25,000,000 for each of fiscal years 2008 through 2013, to remain available until expended.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17253"></a>
 ## § 17253. Carbon capture
@@ -3708,6 +4036,9 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L.
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 #### Short Title
 Subtitle A (§§ 701–708) of title VII of Pub. L. 110–140, which is classified principally to this part, is known as the “Department of Energy Carbon Capture and Sequestration Research, Development, and Demonstration Act of 2007”. See Short Title note set out under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001).
 
@@ -3716,6 +4047,11 @@ Subtitle A (§§ 701–708) of title VII of Pub. L. 110–140, which is classifi
 ## § 17254. Review of large-scale programs
 
 The Secretary shall enter into an arrangement with the National Academy of Sciences for an independent review and oversight, beginning in 2011, of the programs under [section 16293(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16293/c/3&num=0&edition=prelim) and under [section 17251 of this title](./chapter-152-energy-independence-and-security.md#section-17251), to ensure that the benefits of such programs are maximized. Not later than January 1, 2012, the Secretary shall transmit to the Congress a report on the results of such review and oversight.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17255"></a>
@@ -3750,6 +4086,11 @@ The Secretary shall enter into an arrangement with the National Academy of Scien
 
 (4) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary for carrying out this subsection such sums as may be necessary.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17256"></a>
 ## § 17256. Relation to Safe Drinking Water Act
@@ -3763,12 +4104,20 @@ This subtitle, referred to in text, is subtitle A (§§ 701–708) of title VII 
 
 The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17271"></a>
 ## § 17271. Safety research
 **(a) Program** The Administrator of the Environmental Protection Agency shall conduct a research program to address public health, safety, and environmental impacts that may be associated with capture, injection, and sequestration of greenhouse gases in geologic reservoirs.
 
 **(b) Authorization of appropriations** There are authorized to be appropriated for carrying out this section $5,000,000 for each fiscal year.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17272"></a>
@@ -3778,6 +4127,11 @@ The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 19
 **(b) Rural and agricultural institutions** The Secretary shall give special consideration to rural or agricultural based institutions in areas that have regional sources of coal and that offer interdisciplinary programs in the area of environmental science to study carbon capture and sequestration.
 
 **(c) Authorization of appropriations** There are to be authorized to be appropriated $10,000,000 to carry out this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17281"></a>
@@ -3859,6 +4213,11 @@ The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 19
 (6) **Periodic updates** — The national assessment developed under this section shall be updated periodically (including at least once every 5 years) to support public and private sector decisionmaking.
 
 **(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section $30,000,000 for the period of fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17282"></a>
@@ -3965,6 +4324,11 @@ The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 19
 
 **(i) Authorization** There is authorized to be appropriated to carry out this section $20,000,000 for the period of fiscal years 2008 through 2012.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17283"></a>
 ## § 17283. National media campaign
@@ -4021,6 +4385,11 @@ The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 19
 (1) **In general** — There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2012.
 
 (2) **Decreased oil consumption** — The Secretary shall use not less than 50 percent of the amount that is made available under this section for each fiscal year to develop and conduct a national media campaign to decrease oil consumption in the United States over the next decade.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17284"></a>
@@ -4100,6 +4469,9 @@ The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 19
 #### References in Text
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (b)(3)(B), is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17285"></a>
 ## § 17285. Repealed. Pub. L. 113–76, div. D, title III, § 314, Jan. 17, 2014, 128 Stat. 177
@@ -4165,6 +4537,11 @@ Section, Pub. L. 110–140, title VIII, § 804, Dec. 19, 2007, 121 Stat. 1720, r
 
 (6) such sums as are necessary for subsequent fiscal years.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17301"></a>
 ## § 17301. Sense of Congress relating to the use of renewable resources to generate energy
@@ -4190,6 +4567,11 @@ Section, Pub. L. 110–140, title VIII, § 804, Dec. 19, 2007, 121 Stat. 1720, r
 
 (2) continue to produce safe, abundant, and affordable food, feed, and fiber.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17302"></a>
 ## § 17302. Geothermal assessment, exploration information, and priority activities
@@ -4207,11 +4589,21 @@ Section, Pub. L. 110–140, title VIII, § 804, Dec. 19, 2007, 121 Stat. 1720, r
 
 (2) such sums as are necessary for each of fiscal years 2013 through 2022.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17303"></a>
 ## § 17303. Prohibition on market manipulation
 
 It is unlawful for any person, directly or indirectly, to use or employ, in connection with the purchase or sale of crude oil 11 So in original. A comma probably should appear. gasoline or petroleum distillates at wholesale, any manipulative or deceptive device or contrivance, in contravention of such rules and regulations as the Federal Trade Commission may prescribe as necessary or appropriate in the public interest or for the protection of United States citizens.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17304"></a>
@@ -4225,6 +4617,11 @@ It is unlawful for any person to report information related to the wholesale pri
 
 (3) the person intended the false or misleading data to affect data compiled by the department or agency for statistical or analytical purposes with respect to the market for crude oil, gasoline, or petroleum distillates.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17305"></a>
 ## § 17305. Enforcement by the Federal Trade Commission
@@ -4236,6 +4633,9 @@ It is unlawful for any person to report information related to the wholesale pri
 
 #### References in Text
 The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17321"></a>
@@ -4272,6 +4672,11 @@ The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1
 
 (2) an unclassified form.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17331"></a>
 ## § 17331. Penalties
@@ -4294,6 +4699,9 @@ The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1
 #### References in Text
 The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17332"></a>
 ## § 17332. Effect on other laws
@@ -4307,6 +4715,9 @@ The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1
 
 #### References in Text
 The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17333"></a>
@@ -4349,6 +4760,9 @@ In this subchapter:
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1725, which enacted this subchapter and amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees, [section 9101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim), Money and Finance, and [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense. For complete classification of title IX to the Code, see Tables.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17334"></a>
 ## § 17334. United States assistance for developing countries
@@ -4370,6 +4784,11 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 **(c) Authorization of appropriations** To carry out this section, there are authorized to be appropriated to the Administrator of the United States Agency for International Development $200,000,000 for each of the fiscal years 2008 through 2012.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17335"></a>
 ## § 17335. United States exports and outreach programs for India, China, and other countries
@@ -4383,6 +4802,11 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 **(c) Authorization of appropriations** To carry out this section, there are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary for each of the fiscal years 2008 through 2012.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17336"></a>
 ## § 17336. United States trade missions to encourage private sector trade and investment
@@ -4395,6 +4819,11 @@ This subchapter, referred to in text, was in the original “this title”, mean
 **(b) Report** The Secretary of Commerce shall submit to the appropriate congressional committees an annual report on the implementation of this section for each of the fiscal years 2008 through 2012.
 
 **(c) Authorization of appropriations** To carry out this section, there are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary for each of the fiscal years 2008 through 2012.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17337"></a>
@@ -4413,6 +4842,32 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 (2) if the Corporation did not carry out any activities to implement this section, an explanation of the reasons therefor.
 
+### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 115–254, div. F, title VI, § 1470(v)(1), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, this section is amended as follows:
+
+(1) in the section catchline, by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”;
+
+(2) in subsection (a), in the matter preceding paragraph (1), by striking “Overseas Private Investment Corporation” and inserting “United States International Development Finance Corporation”; and
+
+(3) in subsection (b), in the matter preceding paragraph (1), by striking “Overseas Private Investment Corporation shall include in its annual report required under [section 2200a of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200a&num=0&edition=prelim)” and inserting “United States International Development Finance Corporation shall include in its annual report required under [section 9653 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9653&num=0&edition=prelim)”.
+
+See 2018 Amendment notes below.
+
+#### Amendments
+2018—Pub. L. 115–254, § 1470(v)(1)(A), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in section catchline.
+
+Subsec. (a). Pub. L. 115–254, § 1470(v)(1)(B), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in introductory provisions.
+
+Subsec. (b). Pub. L. 115–254, § 1470(v)(1)(C), substituted “United States International Development Finance Corporation shall include in its annual report required under [section 9653 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9653&num=0&edition=prelim)” for “Overseas Private Investment Corporation shall include in its annual report required under [section 2200a of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200a&num=0&edition=prelim)” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17351"></a>
 ## § 17351. Actions by United States Trade and Development Agency
@@ -4425,6 +4880,11 @@ This subchapter, referred to in text, was in the original “this title”, mean
 (3) recruit and retain individuals with appropriate expertise or experience in clean, renewable, and efficient energy technologies to identify and evaluate opportunities for projects that involve clean and efficient energy technologies and services.
 
 **(b) Report** The President shall include in the annual report on the activities of the Trade and Development Agency required under [section 2421(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2421/d&num=0&edition=prelim) a description of the activities carried out to implement this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17352"></a>
@@ -4542,6 +5002,20 @@ This subchapter, referred to in text, was in the original “this title”, mean
   (H) A description of programs to disseminate information to the private sector and the public on clean and efficient energy technologies and opportunities to transfer such clean and efficient energy technologies.
 
 **(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2020.
+
+### Statutory Notes
+
+#### Amendment of Subsection (a)(2)(I)
+Pub. L. 115–254, div. F, title VI, § 1470(v)(2), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, subsection (a)(2)(I) of this section is amended by striking “Overseas Private Investment Corporation:” and inserting “United States International Development Finance Corporation;”. See 2018 Amendment note below.
+
+#### Amendments
+2018—Subsec. (a)(2)(I). Pub. L. 115–254 substituted “United States International Development Finance Corporation;” for “Overseas Private Investment Corporation:”.
+
+#### Effective Date of 2018 Amendment
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in [section 9681 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9681&num=0&edition=prelim), Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17353"></a>
@@ -4737,6 +5211,9 @@ Subsec. (d). Pub. L. 113–296, § 12(c)(1)(A), (C), added subsec. (d) and struc
 
 Subsec. (e). Pub. L. 113–296, § 12(c)(1)(B), (D), redesignated subsec. (c) as (e) and substituted “September 30, 2024” for “the date that is 7 years after December 19, 2007”.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17354"></a>
 ## § 17354. Definitions
@@ -4748,6 +5225,11 @@ In this part:
 (2) **Chief Executive Officer** — The term “Chief Executive Officer” means the chief executive officer of the Foundation appointed pursuant to [section 17352(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17352/b&num=0&edition=prelim).
 
 (3) **Foundation** — The term “Foundation” means the International Clean Energy Foundation established by [section 17352(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17352/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17355"></a>
@@ -4839,6 +5321,9 @@ In this part:
 #### Codification
 Section is comprised of section 922 of Pub. L. 110–140. Subsec. (b)(4)(B) of section 922 of Pub. L. 110–140 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17356"></a>
 ## § 17356. Duties of Foundation
@@ -4856,6 +5341,11 @@ The Foundation shall—
 (5) be committed to minimizing administrative costs and to maximizing the availability of funds for grants under this part; and
 
 (6) promote the use of American-made clean and efficient energy technologies, processes, and services by giving preference to entities incorporated in the United States and whose technology will be substantially manufactured in the United States.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17357"></a>
@@ -4879,6 +5369,11 @@ The Foundation shall—
   (C) total travel expenses incurred by Board members and Foundation employees in connection with Foundation activities; and
 
   (D) total representational expenses.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17371"></a>
@@ -4933,6 +5428,9 @@ This subchapter, referred to in subsec. (a)(6), was in the original “this titl
 #### Codification
 Section is comprised of section 925 of Pub. L. 110–140. Subsec. (c)(2) of section 925 of Pub. L. 110–140 amended [section 9101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim), Money and Finance.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17372"></a>
 ## § 17372. General personnel authorities
@@ -4958,6 +5456,11 @@ Section is comprised of section 925 of Pub. L. 110–140. Subsec. (c)(2) of sect
 
 (2) the term “detail” means the assignment or loan of an employee, without a change of position, from the agency by which such employee is employed to the Foundation.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17373"></a>
 ## § 17373. Authorization of appropriations
@@ -4968,6 +5471,11 @@ Section is comprised of section 925 of Pub. L. 110–140. Subsec. (c)(2) of sect
 (1) **In general** — The Foundation may allocate or transfer to any agency of the United States Government any of the funds available for carrying out this part. Such funds shall be available for obligation and expenditure for the purposes for which the funds were authorized, in accordance with authority granted in this part or under authority governing the activities of the United States Government agency to which such funds are allocated or transferred.
 
 (2) **Notification** — The Foundation shall notify the appropriate congressional committees not less than 15 days prior to an allocation or transfer of funds pursuant to paragraph (1).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17374"></a>
@@ -5019,6 +5527,11 @@ Section is comprised of section 925 of Pub. L. 110–140. Subsec. (c)(2) of sect
 (2) the amount of funds spent on each activity within each office described in paragraph (1); and
 
 (3) the number and qualification of personnel in each embassy (or relevant foreign posting) of the United States whose work is dedicated exclusively to energy matters.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17381"></a>
@@ -5278,6 +5791,9 @@ Presidential Proclamation Number 5928, referred to in subsec. (b)(10)(B)(iv), is
 
 Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17382"></a>
 ## § 17382. Transparency in extractive industries resource payments
@@ -5307,6 +5823,11 @@ Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out
 
 **(e) Authorization of appropriations** There is authorized to be appropriated $3,000,000 for the purposes of United States contributions to the Multi-Donor Trust Fund of the EITI.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17383"></a>
 ## § 17383. Statement of policy on modernization of electricity grid
@@ -5333,6 +5854,11 @@ It is the policy of the United States to support the modernization of the Nation
 
 (10) Identification and lowering of unreasonable or unnecessary barriers to adoption of smart grid technologies, practices, and services.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-17384"></a>
 ## § 17384. Smart grid system report
@@ -5343,6 +5869,9 @@ The Secretary, acting through the Assistant Secretary of the Office of Electrici
 
 #### Codification
 December 19, 2007, referred to in text, was in the original “enactment” and was translated as meaning the date of enactment of Pub. L. 110–140 to reflect the probable intent of Congress.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17385"></a>
@@ -5367,6 +5896,9 @@ December 19, 2007, referred to in text, was in the original “enactment” and 
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (a)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-17386"></a>
@@ -5437,3 +5969,6 @@ Subsec. (b)(3)(C). Pub. L. 111–5, § 405(2), amended subpar. (C) generally. Pr
 Subsec. (b)(3)(E), (F). Pub. L. 111–5, § 405(3), added subpars. (E) and (F).
 
 Subsec. (c)(2). Pub. L. 111–5, § 405(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to carry out subsection (b), $100,000,000 for each of fiscal years 2008 through 2012.”
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.

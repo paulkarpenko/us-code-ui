@@ -15,7 +15,7 @@ In this chapter:
 
 (2) The terms “annuitant”, “member of family”, and “dependent” have the meanings as such terms are defined under paragraphs (3), (5), and (9), respectively, of section 8901.
 
-(3) The term “eligible individual” refers to an individual described in paragraph (1) or (2), without regard to whether the individual is enrolled in a health benefits plan under chapter 89.
+(3) The term “eligible individual” refers to an individual described in paragraph (1), (2), or (8), without regard to whether the individual is enrolled in a health benefits plan under chapter 89.
 
 (4) The term “Office” means the Office of Personnel Management.
 
@@ -25,25 +25,24 @@ In this chapter:
 
 (7) The term “State” includes the District of Columbia.
 
+(8) The term “covered TRICARE-eligible individual” means an individual entitled to dental care under chapter 55 of title 10, pursuant to section 1076a or 1076c 11 See Applicability of Amendment note below. of such title, who the Secretary of Defense determines should be an eligible individual for purposes of this chapter.
+
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 114–328, div. A, title VII, § 715(a)(1), (c), Dec. 23, 2016, 130 Stat. 2221, 2223, provided that, applicable with respect to the first contract year for chapter 89A or 89B of this title, as applicable, that begins on or after Jan. 1, 2018, this section is amended:
-
-(1) in paragraph (3), by striking “paragraph (1) or (2)” and inserting “paragraph (1), (2), or (8)”; and
-
-(2) by adding at the end the following new paragraph:
-
-“(8) The term ‘covered TRICARE-eligible individual’ means an individual entitled to dental care under chapter 55 of title 10, pursuant to section 1076c of such title, who the Secretary of Defense determines should be an eligible individual for purposes of this chapter.”
-
-See 2016 Amendment notes below.
+#### Applicability of Amendment
+Amendment of section by section 713(a) of Pub. L. 115–232 applicable with respect to the first contract year for this chapter that begins on or after Jan. 1, 2022. See 2018 Amendment note below.
 
 #### Amendments
+2018—Par. (8). Pub. L. 115–232 substituted “1076a or 1076c” for “1076c”.
+
 2016—Par. (3). Pub. L. 114–328, § 715(a)(1)(A), substituted “paragraph (1), (2), or (8)” for “paragraph (1) or (2)”.
 
 Par. (8). Pub. L. 114–328, § 715(a)(1)(B), added par. (8).
 
 2006—Par. (1). Pub. L. 109–356, which directed insertion of “and an employee of the District of Columbia courts” at end of par. (1), was executed by making the insertion before the period to reflect the probable intent of Congress.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–232, div. A, title VII, § 713(c), Aug. 13, 2018, 132 Stat. 1812, provided that: “The amendments made by this section [amending this section and [section 1076a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1076a&num=0&edition=prelim), Armed Forces, and enacting provisions set out as a note under [section 1076a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1076a&num=0&edition=prelim)] shall apply with respect to the first contract year for chapter 89A of title 5, United States Code, that begins on or after January 1, 2022.”
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title VII, § 715(c), Dec. 23, 2016, 130 Stat. 2223, provided that: “The amendments made by this section [amending this section, sections 8958, 8981, and 8988 of this title and [section 1076c of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1076c&num=0&edition=prelim), Armed Forces] shall apply with respect to the first contract year for chapter 89A or 89B of title 5, United States Code, as applicable, that begins on or after January 1, 2018.”
@@ -213,9 +212,17 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(c)** The amount necessary to pay the premiums for enrollment may—
 
-(1) in the case of an employee, be withheld from the pay of such an employee; or
+(1) in the case of an employee, be withheld from the pay of such an employee;
 
-(2) in the case of an annuitant, be withheld from the annuity of such an annuitant.
+(2) in the case of an annuitant, be withheld from the annuity of such an annuitant;
+
+(3) in the case of a covered TRICARE-eligible individual who receives pay from the Federal Government or an annuity from the Federal Government due to the death of a member of the uniformed services (as defined in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim)), and is not a former spouse of a member of the uniformed services, be withheld from—
+
+  (A) the pay (including retired pay) of such individual; or
+
+  (B) the annuity paid to such individual; or
+
+(4) in the case of a covered TRICARE-eligible individual who is not described in paragraph (3), be billed to such individual directly.
 
 **(d)** All amounts withheld under this section shall be paid directly to the qualified company.
 
@@ -232,25 +239,6 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
   (B) A contract under this chapter shall include appropriate provisions under which the qualified company involved shall, during each year, make such periodic contributions to the Dental Benefits Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year are defrayed.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 114–328, div. A, title VII, § 715(b)(1), (c), Dec. 23, 2016, 130 Stat. 2222, 2223, provided that, applicable with respect to the first contract year for chapter 89A or 89B of this title, as applicable, that begins on or after Jan. 1, 2018, this section is amended:
-
-(1) in paragraph (1), by striking “or” at the end;
-
-(2) in paragraph (2), by striking the period at the end and inserting a semicolon; and
-
-(3) by adding at the end the following new paragraphs:
-
-(3) in the case of a covered TRICARE-eligible individual who receives pay from the Federal Government or an annuity from the Federal Government due to the death of a member of the uniformed services (as defined in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim)), and is not a former spouse of a member of the uniformed services, be withheld from—
-
-(A) the pay (including retired pay) of such individual; or
-
-(B) the annuity paid to such individual; or
-
-(4) in the case of a covered TRICARE-eligible individual who is not described in paragraph (3), be billed to such individual directly.
-
-See 2016 Amendment note below.
 
 #### Amendments
 2016—Subsec. (c)(3), (4). Pub. L. 114–328 added pars. (3) and (4).

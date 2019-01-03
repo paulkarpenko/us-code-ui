@@ -27,5 +27,17 @@ The Bureau of the Census may provide business data to the Bureau of Economic Ana
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 115–435, title III, § 302(c)(2), title IV, § 403, Jan. 14, 2019, 132 Stat. 5553, 5557, provided that, effective 180 days after Jan. 14, 2019, this section is amended by striking “the Confidential Information Protection and Statistical Efficiency Act of 2002” and inserting “[section 3576(e) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3576/e&num=0&edition=prelim)”. See 2019 Amendment note below.
+
 #### References in Text
 The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in text, is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted this section, amended [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents. Provisions defining “Designated Statistical Agency” are contained in section 522 of the Act, which is set out in a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim).
+
+#### Amendments
+2019—Pub. L. 115–435 substituted “[section 3576(e) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3576/e&num=0&edition=prelim)” for “the Confidential Information Protection and Statistical Efficiency Act of 2002”.
+
+#### Effective Date of 2019 Amendment
+Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees.
+
+#### Transitional and Savings Provisions
+For transitional and savings provisions related to the amendment of this section and other provisions of law by title III of Pub. L. 115–435, see section 302(d) of Pub. L. 115–435, set out as a note under [section 3561 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3561&num=0&edition=prelim), Public Printing and Documents.

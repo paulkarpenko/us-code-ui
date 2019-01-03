@@ -2,7 +2,7 @@
 title: 6
 chapter: '2'
 heading: NATIONAL EMERGENCY MANAGEMENT
-section_count: 45
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
@@ -132,6 +132,13 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 ## § 722. Evacuation preparedness technical assistance
 
 The Administrator, in coordination with the heads of other appropriate Federal agencies, shall provide evacuation preparedness technical assistance to State, local, and tribal governments, including the preparation of hurricane evacuation studies and technical assistance in developing evacuation plans, assessing storm surge estimates, evacuation zones, evacuation clearance times, transportation capacity, and shelter capacity.
+
+### Statutory Notes
+
+#### Guidance on Evacuation Routes
+Pub. L. 115–254, div. D, § 1209, Oct. 5, 2018, 132 Stat. 3441, provided that: “(a) In General.—“(1) Identification.—The Administrator [of the Federal Emergency Management Agency], in coordination with the Administrator of the Federal Highway Administration, shall develop and issue guidance for State, local, and Indian tribal governments regarding the identification of evacuation routes. “(2) Guidance.—The Administrator of the Federal Highway Administration, in coordination with the Administrator, shall revise existing guidance or issue new guidance as appropriate for State, local, and Indian tribal governments regarding the design, construction, maintenance, and repair of evacuation routes. “(b) Considerations.—“(1) Identification.—In developing the guidance under subsection (a)(1), the Administrator shall consider—“(A) whether evacuation routes have resisted impacts and recovered quickly from disasters, regardless of cause; “(B) the need to evacuate special needs populations, including—“(i) individuals with a physical or mental disability; “(ii) individuals in schools, daycare centers, mobile home parks, prisons, nursing homes and other long-term care facilities, and detention centers; “(iii) individuals with limited-English proficiency; “(iv) the elderly; and “(v) individuals who are tourists, seasonal workers, or homeless; “(C) the sharing of information and other public communications with evacuees during evacuations; “(D) the sheltering of evacuees, including the care, protection, and sheltering of animals; “(E) the return of evacuees to their homes; and “(F) such other items the Administrator considers appropriate. “(2) Design, construction, maintenance, and repair.—In revising or issuing guidance under subsection (a)(2), the Administrator of the Federal Highway Administration shall consider—“(A) methods that assist evacuation routes to—“(i) withstand likely risks to viability, including flammability and hydrostatic forces; “(ii) improve durability, strength (including the ability to withstand tensile stresses and compressive stresses), and sustainability; and “(iii) provide for long-term cost savings; “(B) the ability of evacuation routes to effectively manage contraflow operations; “(C) for evacuation routes on public lands, the viewpoints of the applicable Federal land management agency regarding emergency operations, sustainability, and resource protection; and “(D) such other items the Administrator of the Federal Highway Administration considers appropriate. “(c) Study.—The Administrator, in coordination with the Administrator of the Federal Highway Administration and State, local, territorial, and Indian tribal governments, may—“(1) conduct a study of the adequacy of available evacuation routes to accommodate the flow of evacuees; and “(2) submit recommendations on how to help with anticipated evacuation route flow, based on the study conducted under paragraph (1), to—“(A) the Federal Highway Administration; “(B) the [Federal Emergency Management] Agency; “(C) State, local, territorial, and Indian tribal governments; and “(D) Congress.”
+
+[For definition of “State”, as used in section 1209 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim), The Public Health and Welfare.]
 
 
 <a id="section-723"></a>
@@ -333,8 +340,8 @@ This Act, referred to in text, means title VI of Pub. L. 109–295, Oct. 4, 2006
 **(c) Consultation with standards organizations** In carrying out this section, the Administrator shall consult with representatives of relevant public and private sector national voluntary consensus standards development organizations.
 
 
-<a id="section-749"></a>
-## § 749. Training and exercises
+<a id="section-748a"></a>
+## § 748a. Training and exercises
 **(a) National training program**
 
 (1) **In general** — Beginning not later than 180 days after October 4, 2006, the Administrator, in coordination with the heads of appropriate Federal agencies, the National Council on Disability, and the National Advisory Council, shall carry out a national training program to implement the national preparedness goal, National Incident Management System, National Response Plan, and other related plans and strategies.
@@ -389,6 +396,26 @@ This Act, referred to in text, means title VI of Pub. L. 109–295, Oct. 4, 2006
 “(v) designed to address the unique requirements of populations with special needs; and”.
 
 Subsec. (b)(2)(B). Pub. L. 110–53, § 403, in introductory provisions, substituted “shall include a selection of model exercises that State, local, and tribal governments can readily adapt for use and provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises (whether a model exercise program or an exercise designed locally)” for “shall provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises”.
+
+
+<a id="section-749"></a>
+## § 749. Prioritization of facilities
+
+Not later than 180 days after October 5, 2018, the Administrator shall provide guidance and training on an annual basis to State, local, and Indian tribal governments, first responders, and utility companies on—
+
+(1) the need to prioritize assistance to hospitals, nursing homes, and other long-term care facilities to ensure that such health care facilities remain functioning or return to functioning as soon as practicable during power outages caused by natural hazards, including severe weather events;
+
+(2) how hospitals, nursing homes and other long-term care facilities should adequately prepare for power outages during a major disaster or emergency, as those terms are defined in [section 5122 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim); and
+
+(3) how State, local, and Indian tribal governments, first responders, utility companies, hospitals, nursing homes, and other long-term care facilities should develop a strategy to coordinate emergency response plans, including the activation of emergency response plans, in anticipation of a major disaster, including severe weather events.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Disaster Recovery Reform Act of 2018 and also as part of the FAA Reauthorization Act of 2018, and not as part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
+
+#### Definitions
+For definitions of “Administrator” and “State” as used in this section, see section 1203 of Pub. L. 115–254, set out as a note under [section 5122 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-750"></a>
@@ -682,12 +709,15 @@ This Act, referred to in text, means title VI of Pub. L. 109–295, Oct. 4, 2006
 
 **(c) Coordination** The Administrator shall consult with the Administrator of the Emergency Management Assistance Compact to ensure effective coordination of efforts in responding to requests for assistance.
 
-**(d) Authorization** There is authorized to be appropriated to carry out this section $4,000,000 for fiscal year 2008. Such sums shall remain available until expended.
+**(d) Authorization** There is authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2018 through 2022. Such sums shall remain available until expended.
 
 ### Statutory Notes
 
 #### References in Text
 The Joint Resolution entitled “Joint Resolution granting the consent of Congress to the Emergency Management Assistance Compact”, referred to in subsec. (a), is Pub. L. 104–321, Oct. 19, 1996, 110 Stat. 3877, which is not classified to the Code.
+
+#### Amendments
+2018—Subsec. (d). Pub. L. 115–254 substituted “for each of fiscal years 2018 through 2022” for “for fiscal year 2008”.
 
 
 <a id="section-763"></a>
@@ -714,17 +744,7 @@ The Joint Resolution entitled “Joint Resolution granting the consent of Congre
 
 **(e) Consistency in allocation** Notwithstanding subsection (d), in any fiscal year before fiscal year 2013 in which the appropriation for grants under this section is equal to or greater than the appropriation for emergency management performance grants in fiscal year 2007, no State shall receive an amount under this section for that fiscal year less than the amount that State received in fiscal year 2007.
 
-**(f) Authorization of appropriations** There is authorized to be appropriated to carry out the program—
-
-(1) for fiscal year 2008, $400,000,000;
-
-(2) for fiscal year 2009, $535,000,000;
-
-(3) for fiscal year 2010, $680,000,000;
-
-(4) for fiscal year 2011, $815,000,000; and
-
-(5) for fiscal year 2012, $950,000,000.
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out the program, for each of fiscal years 2018 through 2022, $950,000,000.
 
 ### Statutory Notes
 
@@ -732,6 +752,18 @@ The Joint Resolution entitled “Joint Resolution granting the consent of Congre
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§ 5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–254 substituted “the program, for each of fiscal years 2018 through 2022” for “the program—
+
+“(1) for fiscal year 2008, $400,000,000;
+
+“(2) for fiscal year 2009, $535,000,000;
+
+“(3) for fiscal year 2010, $680,000,000;
+
+“(4) for fiscal year 2011, $815,000,000; and
+
+“(5) for fiscal year 2012”.
+
 2007—Pub. L. 110–53 amended section catchline and text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated for the Emergency Management Performance Grants Program for fiscal year 2008, an amount equal to the amount appropriated for the program for fiscal year 2007 and an additional $175,000,000.”
 
 

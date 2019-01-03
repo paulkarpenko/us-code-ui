@@ -1584,9 +1584,9 @@ Subsec. (c)(2)(B)(iii). Pub. L. 107–273, § 4002(b)(12)(A), inserted “and”
 
 Subsec. (c)(3)(B). Pub. L. 107–273, § 4005(d)(3), inserted comma after “(a)(4)”.
 
-Subsec. (c)(4)(A), (C). Pub. L. 107–296, § 225(g)(2), inserted “except as provided in paragraph (5),” before “a fine under this title”.
+Subsec. (c)(4)(A), (C). Pub. L. 107–296, § 2207(g)(2), formerly § 225(g)(2), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), inserted “except as provided in paragraph (5),” before “a fine under this title”.
 
-Subsec. (c)(5). Pub. L. 107–296, § 225(g)(1), (3), (4), added par. (5).
+Subsec. (c)(5). Pub. L. 107–296, § 2207(g)(1), (3), (4), formerly § 225(g)(1), (3), (4), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), added par. (5).
 
 Subsec. (e)(4)(I). Pub. L. 107–273, § 4002(b)(12)(B), substituted semicolon for period at end.
 

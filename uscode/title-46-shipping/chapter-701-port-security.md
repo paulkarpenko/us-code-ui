@@ -2,7 +2,7 @@
 title: 46
 chapter: '701'
 heading: PORT SECURITY
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -13,23 +13,30 @@ For the purpose of this chapter:
 
 (1) The term “Area Maritime Transportation Security Plan” means an Area Maritime Transportation Security Plan prepared under section 70103(b).
 
-(2) The term “facility” means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
+(2) The term “cybersecurity risk” has the meaning given the term in section 227 of the Homeland Security Act of 2002 ([6 U.S.C. 148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim)).11 See References in Text note below.
 
-(3) The term “National Maritime Transportation Security Plan” means the National Maritime Transportation Security Plan prepared and published under section 70103(a).
+(3) The term “facility” means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
 
-(4) The term “owner or operator” means—
+(4) The term “National Maritime Transportation Security Plan” means the National Maritime Transportation Security Plan prepared and published under section 70103(a).
+
+(5) The term “owner or operator” means—
 
   (A) in the case of a vessel, any person owning, operating, or chartering by demise, such vessel; and
 
   (B) in the case of a facility, any person owning, leasing, or operating such facility.
 
-(5) The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
+(6) The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
 
-(6) The term “transportation security incident” means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term “economic disruption” does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
+(7) The term “transportation security incident” means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term “economic disruption” does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
 
 ### Statutory Notes
 
+#### References in Text
+Section 227 of the Homeland Security Act of 2002 ([6 U.S.C. 148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim)), referred to in par. (2), was originally section 226 of title II of Pub. L. 107–296, as added Pub. L. 113–282, § 3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered § 227 and amended Pub. L. 114–113, div. N, title II, §§ 203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, § 1841(b), Dec. 23, 2016, 130 Stat. 2663, and was renumbered title XXII, § 2209 of Pub. L. 107–296 by Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to [section 659 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section659&num=0&edition=prelim), Domestic Security.
+
 #### Amendments
+2018—Pars. (2) to (7). Pub. L. 115–254 added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively.
+
 2006—Par. (6). Pub. L. 109–347 inserted at end “In this paragraph, the term ‘economic disruption’ does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.”
 
 #### Regulations
@@ -37,6 +44,9 @@ Pub. L. 107–295, title I, § 102(d), Nov. 25, 2002, 116 Stat. 2084, provided t
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Maritime Border Security Cooperation
+Pub. L. 115–254, div. J, § 1814, Oct. 5, 2018, 132 Stat. 3540, provided that: “The Secretary of the department in which the Coast Guard is operating shall, in accordance with law— “(1) partner with other Federal, State, and local government agencies to leverage existing technology, including existing sensor and camera systems and other sensors, in place along the maritime border to facilitate monitoring of high-risk maritime borders, as determined by the Secretary; and “(2) subject to the availability of appropriations, enter into such agreements as the Secretary considers necessary to ensure the monitoring described in paragraph (1).”
 
 #### Integrated Cross-Border Maritime Law Enforcement Operations Between the United States and Canada
 Pub. L. 112–213, title VII, § 711, Dec. 20, 2012, 126 Stat. 1581, provided that: “(a) Authorization.—The Secretary of Homeland Security, acting through the Commandant of the Coast Guard, may establish an Integrated Cross-Border Maritime Law Enforcement Operations Program to coordinate the maritime security operations of the United States and Canada (in this section referred to as the ‘Program’). “(b) Purpose.—The Secretary, acting through the Commandant, shall administer the Program in a manner that results in a cooperative approach between the United States and Canada to strengthen border security and detect, prevent, suppress, investigate, and respond to terrorism and violations of law related to border security. “(c) Training.—The Secretary, acting through the Commandant and in consultation with the Secretary of State, may—“(1) establish, as an element of the Program, a training program for individuals who will serve as maritime law enforcement officers; and “(2) conduct training jointly with Canada to enhance border security, including training—“(A) on the detection and apprehension of suspected terrorists and individuals attempting to unlawfully cross or unlawfully use the international maritime border between the United States and Canada; “(B) on the integration, analysis, and dissemination of port security information by and between the United States and Canada; “(C) on policy, regulatory, and legal considerations related to the Program; “(D) on the use of force in maritime security; “(E) on operational procedures and protection of sensitive information; and “(F) on preparedness and response to maritime terrorist incidents. “(d) Coordination.—The Secretary, acting through the Commandant, shall coordinate the Program with other similar border security and antiterrorism programs within the Department of Homeland Security. “(e) Memoranda of Agreement.—The Secretary may enter into any memorandum of agreement necessary to carry out the Program.”
@@ -76,13 +86,13 @@ Pub. L. 107–295, title I, § 112, Nov. 25, 2002, 116 Stat. 2092, which require
 
 **(b) Facility and Vessel Assessments.—**
 
-(1) Based on the information gathered under subsection (a) of this section and by not later than December 31, 2004, the Secretary shall conduct a detailed vulnerability assessment of the facilities and vessels that may be involved in a transportation security incident. The vulnerability assessment shall include the following:
+(1) Based on the information gathered under subsection (a) of this section, the Secretary shall conduct a detailed vulnerability assessment of the facilities and vessels that may be involved in a transportation security incident. The vulnerability assessment shall include the following:
 
   (A) Identification and evaluation of critical assets and infrastructures.
 
   (B) Identification of the threats to those assets and infrastructures.
 
-  (C) Identification of weaknesses in physical security, passenger and cargo security, structural integrity, protection systems, procedural policies, communications systems, transportation infrastructure, utilities, contingency response, and other areas as determined by the Secretary.
+  (C) Identification of weaknesses in physical security, security against cybersecurity risks, passenger and cargo security, structural integrity, protection systems, procedural policies, communications systems, transportation infrastructure, utilities, contingency response, and other areas as determined by the Secretary.
 
 (2) Upon completion of an assessment under this subsection for a facility or vessel, the Secretary shall provide the owner or operator with a copy of the vulnerability assessment for that facility or vessel.
 
@@ -98,17 +108,66 @@ Pub. L. 107–295, title I, § 112, Nov. 25, 2002, 116 Stat. 2092, which require
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 1805(d) of Pub. L. 115–254 applicable to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under section 1805(a) of Pub. L. 115–254, set out as a note under [section 70112 of this title](./chapter-701-port-security.md#section-70112). See 2018 Amendment notes below.
+
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–254, § 1805(d)(1)(A), struck out “and by not later than December 31, 2004” after “subsection (a) of this section” in introductory provisions.
+
+Subsec. (b)(1)(C). Pub. L. 115–254, § 1805(d)(1)(B), inserted “security against cybersecurity risks,” after “physical security,”.
+
 2010—Subsec. (c). Pub. L. 111–281 added subsec. (c).
 
 2004—Subsec. (b)(1). Pub. L. 108–458 substituted “and by not later than December 31, 2004, the Secretary” for “, the Secretary” in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+Pub. L. 115–254, div. J, § 1805(d)(3), Oct. 5, 2018, 132 Stat. 3535, provided that: “The amendments made by this subsection [amending this section and [section 70103 of this title](./chapter-701-port-security.md#section-70103)] shall apply to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under subsection (a) [[46 U.S.C. 70112](./chapter-701-port-security.md#section-70112) note].”
+
+#### Coordination with TSA on Maritime Facilities
+Pub. L. 115–254, div. J, § 1803, Oct. 5, 2018, 132 Stat. 3533, provided that: “The Secretary of Homeland Security shall— “(1) provide the Administrator of the TSA [Transportation Security Administration] with updates to vulnerability assessments required under [section 70102(b)(3) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70102/b/3&num=0&edition=prelim), United States Code, to avoid any duplication of effort between the Coast Guard and the TSA; and “(2) identify any security gaps between authorities of operating entities within the Department of Homeland Security that a threat could exploit to cause a transportation security incident (as defined in [section 70101 of title 46](./chapter-701-port-security.md#section-70101), United States Code).”
+
+#### Definitions
+Pub. L. 115–254, div. J, § 1802, Oct. 5, 2018, 132 Stat. 3533, provided that: “In this division [see section 1801 of Pub. L. 115–254, set out as a Short Title of 2018 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101)]: “(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; “(B) the Committee on Homeland Security and Governmental Affairs of the Senate; “(C) the Committee on Homeland Security of the House of Representatives; and “(D) the Committee on Transportation and Infrastructure of the House of Representatives. “(2) TSA.—The term ‘TSA’ means the Transportation Security Administration.”
+
+
+<a id="section-70102a"></a>
+## § 70102a. Port, harbor, and coastal facility security
+**(a) General Authority.—** The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism against—
+
+(1) an individual, vessel, or public or commercial structure, that is—
+
+  (A) subject to the jurisdiction of the United States; and
+
+  (B) located within or adjacent to the marine environment; or
+
+(2) a vessel of the United States or an individual on board that vessel.
+
+**(b) Specific Authority.—** Under subsection (a), the Secretary may—
+
+(1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism;
+
+(2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism; and
+
+(3) dispatch properly trained and qualified armed Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism or transportation security incidents, as defined in [section 70101 of title 46](./chapter-701-port-security.md#section-70101), United States Code.
+
+**(c) Definitions, Administration, and Enforcement.—** This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70034, 70035, and 70036.
+
+### Statutory Notes
+
+#### Codification
+Section, as added and amended by Pub. L. 115–282, is based on subsecs. (a) and (b) of Pub. L. 92–340, § 7, as added Pub. L. 99–399, title IX, § 906, Aug. 27, 1986, 100 Stat. 890; amended Pub. L. 104–324, title III, § 302, Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title I, § 107(a), Nov. 25, 2002, 116 Stat. 2088, which was formerly classified to section 1226(a), (b) of Title 33, Navigation and Navigable Waters, before being transferred to this chapter and renumbered as this section. Subsections (a) and (b) of section 7 of Pub. L. 92–340 were also renumbered as [section 70116 of this title](./chapter-701-port-security.md#section-70116) by Pub. L. 115–282, title IV, § 402(b)(1), Dec. 4, 2018, 132 Stat. 4264.
+
+#### Amendments
+2018—Pub. L. 115–282, § 408(a), transferred section catchline and subsecs. (a) and (b) of section 7 of Pub. L. 92–340 to this chapter and redesignated them as this section. See Codification note above.
+
+Subsec. (c). Pub. L. 115–282, § 408(b), added subsec. (c).
 
 
 <a id="section-70103"></a>
 ## § 70103. Maritime transportation security plans
 **(a) National Maritime Transportation Security Plan.—**
 
-(1) Not later than April 1, 2005, the Secretary shall prepare a National Maritime Transportation Security Plan for deterring and responding to a transportation security incident.
+(1) The Secretary shall prepare a National Maritime Transportation Security Plan for deterring and responding to a transportation security incident.
 
 (2) The National Maritime Transportation Security Plan shall provide for efficient, coordinated, and effective action to deter and minimize damage from a transportation security incident, and shall include the following:
 
@@ -139,6 +198,8 @@ Pub. L. 107–295, title I, § 112, Nov. 25, 2002, 116 Stat. 2092, which require
   (I) A recognition of certified systems of intermodal transportation.
 
   (J) A plan for ensuring that the flow of cargo through United States ports is reestablished as efficiently and quickly as possible after a transportation security incident.
+
+  (K) A plan to detect, respond to, and recover from cybersecurity risks that may cause transportation security incidents.
 
 (3) The Secretary shall, as the Secretary considers advisable, revise or otherwise amend the National Maritime Transportation Security Plan.
 
@@ -172,9 +233,11 @@ Pub. L. 107–295, title I, § 112, Nov. 25, 2002, 116 Stat. 2092, which require
 
     (i) to identify salvage equipment capable of restoring operational trade capacity; and
 
-    (ii) to ensure that the waterways are cleared and the flow of commerce through United States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident; and
+    (ii) to ensure that the waterways are cleared and the flow of commerce through United States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident;
 
-  (H) be updated at least every 5 years by the Federal Maritime Security Coordinator.
+  (H) include a plan for detecting, responding to, and recovering from cybersecurity risks that may cause transportation security incidents; and
+
+  (I) be updated at least every 5 years by the Federal Maritime Security Coordinator.
 
 (3) The Secretary shall—
 
@@ -212,9 +275,11 @@ Pub. L. 107–295, title I, § 112, Nov. 25, 2002, 116 Stat. 2092, which require
 
     (iii) procedural security policies;
 
-    (iv) communications systems; and
+    (iv) communications systems;
 
-    (v) other security systems;
+    (v) detecting, responding to, and recovering from cybersecurity risks that may cause transportation security incidents; and
+
+    (vi) other security systems;
 
   (D) identify, and ensure by contract or other means approved by the Secretary, the availability of security measures necessary to deter to the maximum extent practicable a transportation security incident or a substantial threat of such a security incident;
 
@@ -236,7 +301,7 @@ Pub. L. 107–295, title I, § 112, Nov. 25, 2002, 116 Stat. 2092, which require
 
   (C) approve any plan that meets the requirements of this subsection; and
 
-  (D) subject to the availability of appropriations, verify the effectiveness of each such facility security plan periodically, but not less than 2 times per year, at least 1 of which shall be an inspection of the facility that is conducted without notice to the facility.
+  (D) subject to the availability of appropriations, periodically, but not less than one time per year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan.
 
 (5) A vessel or facility for which a plan is required to be submitted under this subsection may not operate after the end of the 12-month period beginning on the date of the prescription of interim final regulations on vessel and facility security plans, unless—
 
@@ -288,9 +353,31 @@ Pub. L. 107–295, title I, § 112, Nov. 25, 2002, 116 Stat. 2092, which require
 
   (B) *Especially hazardous cargo defined.—* — In this subsection, the term “especially hazardous cargo” means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquiefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
 
+**(f) Nondisclosure of Port Security Plans.—** Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
+
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by section 1805(d) of Pub. L. 115–254 applicable to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under section 1805(a) of Pub. L. 115–254, set out as a note under [section 70112 of this title](./chapter-701-port-security.md#section-70112). See 2018 Amendment notes below.
+
+#### Codification
+[Section 1226(c) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/c&num=0&edition=prelim), Navigation and Navigable Waters, which was transferred and redesignated subsec. (f) of this section by Pub. L. 115–282, title IV, §§ 402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268, was based on Pub. L. 92–340, § 7, as added Pub. L. 99–399, title IX, § 906, Aug. 27, 1986, 100 Stat. 890; amended Pub. L. 104–324, title III, § 302, Oct. 19, 1996, 110 Stat. 3917.
+
 #### Amendments
+2018—Subsec. (a)(1). Pub. L. 115–254, § 1805(d)(2)(A), substituted “The” for “Not later than April 1, 2005, the”.
+
+Subsec. (a)(2)(K). Pub. L. 115–254, § 1805(d)(2)(B), added subpar. (K).
+
+Subsec. (b)(2)(H), (I). Pub. L. 115–254, § 1805(d)(2)(C), added subpar. (H) and redesignated former subpar. (H) as (I).
+
+Subsec. (c)(3)(v), (vi). Pub. L. 115–254, § 1805(d)(2)(D), added cl. (v) and redesignated former cl. (v) as (vi).
+
+Subsec. (c)(4)(D). Pub. L. 115–254, § 1806, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “subject to the availability of appropriations, verify the effectiveness of each such facility security plan periodically, but not less than 2 times per year, at least 1 of which shall be an inspection of the facility that is conducted without notice to the facility.”
+
+Subsec. (f). Pub. L. 115–282, §§ 402(c)(2), 408(d)(2), amended subsec. (f) identically, substituting “this chapter” for “this Act”.
+
+Pub. L. 115–282, §§ 402(c)(1), 408(d)(1), amended section identically, redesignating and transferring subsec. (c) of section 7 of Pub. L. 92–340 as subsec. (f) of this section. See Codification note above.
+
 2010—Subsec. (b)(2)(E) to (H). Pub. L. 111–281, § 826, added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
 Subsec. (e). Pub. L. 111–281, § 812(c), added subsec.(e).
@@ -321,6 +408,9 @@ Subsec. (c)(8). Pub. L. 109–347, § 102(2), added par. (8).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Effective Date of 2018 Amendment
+Amendment of section by section 1805(d) of Pub. L. 115–254 applicable to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under subsection 1805(a) of Pub. L. 115–254, set out as a note under [section 70112 of this title](./chapter-701-port-security.md#section-70112), see section 1805(d)(3) of Pub. L. 115–254, set out as a note under [section 70102 of this title](./chapter-701-port-security.md#section-70102).
 
 #### Seamen’s Shoreside Access
 Pub. L. 111–281, title VIII, § 811, Oct. 15, 2010, 124 Stat. 2995, provided that: “Each facility security plan approved under [section 70103(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103/c&num=0&edition=prelim), United States Code, shall provide a system for seamen assigned to a vessel at that facility, pilots, and representatives of seamen’s welfare and labor organizations to board and depart the vessel through the facility in a timely manner at no cost to the individual.”
@@ -982,75 +1072,20 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 
 <a id="section-70107a"></a>
-## § 70107A. Interagency operational centers for port security
-**(a) In General.—** The Secretary shall establish interagency operational centers for port security at all high-priority ports not later than 3 years after the date of the enactment of the SAFE Port Act.
-
-**(b) Characteristics.—** The interagency operational centers established under this section shall—
-
-(1)
-
-  (A) include—
-
-    (i) information management systems, and
-
-    (ii) sensor management systems; and
-
-  (B) where practicable, provide for the physical co-location of the Coast Guard and, as the Secretary determines appropriate, representatives of the United States Customs and Border Protection, the United States Immigration and Customs Enforcement, the Transportation Security Administration, the Department of Justice, the Department of Defense, and other Federal agencies, State and local law enforcement or port security personnel, members of the Area Maritime Security Committee, and other public and private sector stakeholders adversely affected by a transportation security incident or transportation disruption;
-
-(2) utilize, as appropriate, the compositional and operational characteristics of existing centers;
-
-(3) be organized to fit the security needs, requirements, and resources of the individual port area at which each is operating; and
-
-(4) be incorporated in the implementation and administration of—
-
-  (A) maritime transportation security plans developed under section 70103;
-
-  (B) maritime intelligence activities under section 70113 and information sharing activities consistent with section 1016 of the National Security Intelligence Reform Act of 2004 ([6 U.S.C. 485](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section485&num=0&edition=prelim)) and the Homeland Security Information Sharing Act ([6 U.S.C. 481](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section481&num=0&edition=prelim) et seq.);
-
-  (C) short- and long-range vessel tracking under sections 70114 and 70115;
-
-  (D) protocols under section 201(b)(10) of the SAFE Port Act;
-
-  (E) the transportation security incident response plans required by section 70104; and
-
-  (F) other activities, as determined by the Secretary.
-
-**(c) Security Clearances.—** The Secretary shall sponsor and expedite individuals participating in interagency operational centers in gaining or maintaining their security clearances. Through the Captain of the Port, the Secretary may identify key individuals who should participate. The port or other entities may appeal to the Captain of the Port for sponsorship.
-
-**(d) Security Incidents.—** During a transportation security incident on or adjacent to waters subject to the jurisdiction of the United States, the Coast Guard Captain of the Port designated by the Commandant of the Coast Guard in a maritime security command center described in subsection (a) shall act as the incident commander, unless otherwise directed by the President.
-
-**(e) Deployment of Interoperable Communications Equipment at Interagency Operational Centers.—** The Secretary, subject to the availability of appropriations, shall ensure that interoperable communications technology is deployed at all interagency operational centers established under subsection (a) and that such technology and equipment has been tested in live operational environments before deployment.
-
-**(f) Rule of Construction.—** Nothing in this section shall be construed to affect the normal command and control procedures for operational entities in the Department, unless so directed by the Secretary.
-
-**(g) Authorization of Appropriations.—** There are authorized to be appropriated $60,000,000 for each of the fiscal years 2007 through 2012 to carry out this section.
+## § 70107A. Repealed. Pub. L. 115–254, div. J, § 1809(a)(1), Oct. 5, 2018, 132 Stat. 3537]
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of the SAFE Port Act, referred to in subsec. (a), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
+Section, added Pub. L. 109–347, title I, § 108(a), Oct. 13, 2006, 120 Stat. 1892; amended Pub. L. 111–281, title VIII, §§ 803, 824, Oct. 15, 2010, 124 Stat. 2990, 3003, related to interagency operational centers for port security.
 
-The Homeland Security Information Sharing Act, referred to in subsec. (b)(4)(B), is subtitle I of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2252, which is classified principally to part I (§ 481 et seq.) of subchapter VIII of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see [section 481 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section481&num=0&edition=prelim) and Tables.
+#### Savings Clause
+Pub. L. 115–254, div. J, § 1809(a)(2), Oct. 5, 2018, 132 Stat. 3537, provided that: “A repeal made by this subsection [repealing this section] shall not affect an interagency operational center established before the date of enactment of this Act [Oct. 5, 2018].”
 
-Section 201(b)(10) of the SAFE Port Act, referred to in subsec. (b)(4)(D), is classified to [section 941(b)(10) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section941/b/10&num=0&edition=prelim), Domestic Security.
-
-#### Amendments
-2010—Subsec. (b)(1). Pub. L. 111–281, § 803(3), added par. (1). Former par. (1) redesignated (2).
-
-Subsec. (b)(2). Pub. L. 111–281, § 803(2), (4), redesignated former par. (1) as (2), substituted “existing centers;” for “existing centers, including—” and struck out subpars. (A) and (B) which read as follows:
-
-“(A) the pilot project interagency operational centers for port security in Miami, Florida; Norfolk/Hampton Roads, Virginia; Charleston, South Carolina; and San Diego, California; and
-
-“(B) the virtual operation center of the Port of New York and New Jersey;”.
-
-Former par. (2) redesignated (3).
-
-Subsec. (b)(3). Pub. L. 111–281, § 803(1), (2), (5), redesignated former par. (2) as (3), inserted “and” at end, and struck out former par. (3) which read as follows: “in addition to the Coast Guard, provide, as the Secretary determines appropriate, for participation by representatives of the United States Customs and Border Protection, the United States Immigration and Customs Enforcement, the Transportation Security Administration, the Department of Justice, the Department of Defense, and other Federal agencies, State and local law enforcement or port security personnel, members of the Area Maritime Security Committee, and other public and private sector stakeholders adversely affected by a transportation security incident or transportation disruption; and”.
-
-Subsecs. (e) to (g). Pub. L. 111–281, § 824, added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+#### Notice to Congress
+Pub. L. 115–254, div. J, § 1809(a)(3), Oct. 5, 2018, 132 Stat. 3537, provided that: “The Secretary of Homeland Security shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives at least 1 year before ceasing operations of any interagency operational center established before the date of enactment of the Security and Accountability for Every Port Act of 2006 (Public Law 109–347; 120 Stat. 1884)[Oct. 13, 2006].”
 
 #### Report Requirement
-Pub. L. 109–347, title I, § 108(b), Oct. 13, 2006, 120 Stat. 1893, provided that: “Nothing in this section [enacting this section] or the amendments made by this section relieves the Commandant of the Coast Guard from complying with the requirements of section 807 of the Coast Guard and Maritime Transportation Act of 2004 (Public Law 108–293; 118 Stat. 1082). The Commandant shall utilize the information developed in making the report required by that section in carrying out the requirements of this section.”
+Pub. L. 109–347, title I, § 108(b), Oct. 13, 2006, 120 Stat. 1893, as amended by Pub. L. 115–254, div. J, § 1809(c)(2), Oct. 5, 2018, 132 Stat. 3538, struck out subsec. (b), which related to report required by section 807 of Pub. L. 108–293 [118 Stat. 1082], and reserved subsec. (b) designation.
 
 
 <a id="section-70108"></a>
@@ -1236,29 +1271,63 @@ Pub. L. 107–295, title I, § 103, Nov. 25, 2002, 116 Stat. 2084, provided that
 
 <a id="section-70112"></a>
 ## § 70112. Maritime Security Advisory Committees
-**(a) Establishment of Committees.—**
+**(a) National Maritime Security Advisory Committee.—**
 
-(1) The Secretary shall establish a National Maritime Security Advisory Committee. The Committee—
+(1) **Establishment.—** — There is established a National Maritime Security Advisory Committee (in this subsection referred to as the “Committee”).
 
-  (A) may advise, consult with, report to, and make recommendations to the Secretary on matters relating to national maritime security matters;
+(2) **Function.—** — The Committee shall advise the Secretary on matters relating to national maritime security, including on enhancing the sharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—
 
-  (B) may make available to the Congress recommendations that the Committee makes to the Secretary; and
+  (A) State, local, and tribal governments;
 
-  (C) shall meet at the call of—
+  (B) relevant public safety and emergency response agencies;
 
-    (i) the Secretary, who shall call such a meeting at least once during each calendar year; or
+  (C) relevant law enforcement and security organizations;
 
-    (ii) a majority of the Committee.
+  (D) maritime industry;
 
-(2)
+  (E) port owners and operators; and
 
-  (A) The Secretary may—
+  (F) terminal owners and operators.
+
+(3) **Membership.—**
+
+  (A) *In general.—* — The Committee shall consist of at least 8 members, but not more than 21 members, appointed by the Secretary in accordance with this subsection and [section 15109 of this title](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15109).
+
+  (B) *Expertise.—* — Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+  (C) *Representation.—* — Each of the following shall be represented by at least 1 member of the Committee:
+
+    (i) Port authorities.
+
+    (ii) Facilities owners and operators.
+
+    (iii) Terminal owners and operators.
+
+    (iv) Vessel owners and operators.
+
+    (v) Maritime labor organizations.
+
+    (vi) The academic community.
+
+    (vii) State and local governments.
+
+    (viii) The maritime industry.
+
+  (D) *Distribution.—* — If the Committee consists of at least 8 members who, together, satisfy the minimum representation requirements of subparagraph (C), the Secretary shall, based on the needs of the Coast Guard, determine the number of additional members of the Committee who represent each entity specified in that subparagraph. Neither this subparagraph nor any other provision of law shall be construed to require an equal distribution of members representing each entity specified in subparagraph (C).
+
+(4) **Administration.—** — For purposes of [section 15109 of this title](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15109), the Committee shall be treated as a committee established under chapter 151 of such title.
+
+**(b) Area Maritime Security Advisory Committees.—**
+
+(1) **In general.—**
+
+  (A) *Establishment.—* — The Secretary may—
 
     (i) establish an Area Maritime Security Advisory Committee for any port area of the United States; and
 
-    (ii) request such a committee to review the proposed Area Maritime Transportation Security Plan developed under section 70103(b) and make recommendations to the Secretary that the Committee considers appropriate.
+    (ii) request such a committee to review the proposed Area Maritime Transportation Security Plan developed under section 70103(b) and make recommendations to the Secretary that the committee considers appropriate.
 
-  (B) A committee established under this paragraph for an area—
+  (B) *Additional functions and meetings.—* — A committee established under this subsection for an area—
 
     (i) may advise, consult with, report to, and make recommendations to the Secretary on matters relating to maritime security in that area;
 
@@ -1270,78 +1339,54 @@ Pub. L. 107–295, title I, § 103, Nov. 25, 2002, 116 Stat. 2084, provided that
 
       (II) a majority of the committee.
 
-**(b) Membership.—**
+(2) **Membership.—**
 
-(1) Each of the committees established under subsection (a) shall consist of not less than 7 members appointed by the Secretary, each of whom has at least 5 years practical experience in maritime security operations.
+  (A) *In general.—* — Each committee established under this subsection shall consist of at least 7 members appointed by the Secretary, each of whom has at least 5 years practical experience in maritime security operations.
 
-(2) The term of each member shall be for a period of not more than 5 years, specified by the Secretary.
+  (B) *Terms.—* — The term of each member of a committee established under this subsection shall be for a period of not more than 5 years, specified by the Secretary.
 
-(3) Before appointing an individual to a position on such a committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the committee.
+  (C) *Notice.—* — Before appointing an individual to a position on a committee established under this subsection, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the committee.
 
-(4) The Secretary may require an individual to have passed an appropriate security background examination before appointment to the Committee.
+  (D) *Background examinations.—* — The Secretary may require an individual to have passed an appropriate security background examination before appointment to a committee established under this subsection.
 
-(5)
+  (E) *Representation.—* — Each committee established under this subsection shall be composed of individuals who represent the interests of the port industry, terminal operators, port labor organizations, and other users of the port areas.
 
-  (A) The National Maritime Security Advisory Committee shall be composed of—
+(3) **Chairperson and vice chairperson.—**
 
-    (i) at least 1 individual who represents the interests of the port authorities;
+  (A) *In general.—* — Each committee established under this subsection shall elect 1 of the committee’s members as the Chairperson and 1 of the committee’s members as the Vice Chairperson.
 
-    (ii) at least 1 individual who represents the interests of the facilities owners or operators;
+  (B) *Vice chairperson acting as chairperson.—* — The Vice Chairperson shall act as Chairperson in the absence or incapacity of the Chairperson, or in the event of a vacancy in the office of the Chairperson.
 
-    (iii) at least 1 individual who represents the interests of the terminal owners or operators;
+(4) **Observers.—**
 
-    (iv) at least 1 individual who represents the interests of the vessel owners or operators;
+  (A) *In general.—* — The Secretary shall, and the head of any other interested Federal agency may, designate a representative to participate as an observer with a committee established under this subsection.
 
-    (v) at least 1 individual who represents the interests of the maritime labor organizations;
+  (B) *Role.—* — The Secretary’s designated representative to a committee established under this subsection shall act as the executive secretary of the committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
 
-    (vi) at least 1 individual who represents the interests of the academic community;
+(5) **Consideration of views.—** — The Secretary shall consider the information, advice, and recommendations of each committee established under this subsection in formulating policy regarding matters affecting maritime security.
 
-    (vii) at least 1 individual who represents the interests of State or local governments; and
+(6) **Compensation and expenses.—**
 
-    (viii) at least 1 individual who represents the interests of the maritime industry.
+  (A) *In general.—* — A member of a committee established under this subsection, when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
 
-  (B) Each Area Maritime Security Advisory Committee shall be composed of individuals who represents the interests of the port industry, terminal operators, port labor organizations, and other users of the port areas.
+    (i) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–15 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim) including travel time; and
 
-**(c) Chairperson and Vice Chairperson.—**
+    (ii) travel or transportation expenses under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-(1) Each committee established under subsection (a) shall elect 1 of its members as the Chairman and 1 of its members as the Vice Chairperson.
+  (B) *Status.—* — A member of a committee established under this subsection shall not be considered to be an officer or employee of the United States for any purpose based on the receipt of any payment under this paragraph.
 
-(2) The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
-
-**(d) Observers.—**
-
-(1) The Secretary shall, and the head of any other interested Federal agency may, designate a representative to participate as an observer with the Committee.
-
-(2) The Secretary’s designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
-
-**(e) Consideration of Views.—** The Secretary shall consider the information, advice, and recommendations of the Committee in formulating policy regarding matters affecting maritime security.
-
-**(f) Compensation and Expenses.—**
-
-(1) A member of a committee established under this section, when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
-
-  (A) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–15 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim) including travel time; and
-
-  (B) travel or transportation expenses under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
-
-(2) A member of such a committee shall not be considered to be an officer or employee of the United States for any purpose based on their receipt of any payment under this subsection.
-
-**(g) FACA; Termination.—**
-
-(1) The Federal Advisory Committee Act (5 U.S.C. App.)—
-
-  (A) applies to the National Maritime Security Advisory Committee established under this section, except that such committee terminates on September 30, 2020; and
-
-  (B) does not apply to Area Maritime Security Advisory Committees established under this section.
-
-(2) Not later than September 30, 2018, each committee established under this section shall submit to the Congress its recommendation regarding whether the committee should be renewed and continued beyond the termination date.
+(7) **FACA.—** — The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to a committee established under this subsection.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsecs. (d)(2) and (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(4)(B), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2018—Pub. L. 115–282, § 602(a), amended section generally. Prior to amendment, section required Secretary to establish a National Maritime Security Advisory Committee and authorized Secretary to establish an Area Maritime Security Advisory Committee for any port area of the United States.
+
+Subsec. (a)(1)(A). Pub. L. 115–254 inserted “, including on enhancing the sharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—” in introductory provisions and added cls. (i) to (vi).
+
 2010—Subsec. (b)(5). Pub. L. 111–281, § 810(1), amended par. (5) generally. Prior to amendment par. (5) read as follows: “The membership of an Area Maritime Security Advisory Committee shall include representatives of the port industry, terminal operators, port labor organizations, and other users of the port areas.”
 
 Subsec. (g)(1)(A). Pub. L. 111–281, § 810(2)(A), substituted “2020;” for “2008;”.
@@ -1351,6 +1396,15 @@ Subsec. (g)(2). Pub. L. 111–281, § 810(2)(B), substituted “2018” for “2
 2006—Subsec. (b)(5). Pub. L. 109–241 realigned margins.
 
 2004—Subsec. (b)(5). Pub. L. 108–293 added par. (5).
+
+#### Treatment of Existing Committee
+Pub. L. 115–282, title VI, § 602(b), Dec. 4, 2018, 132 Stat. 4293, provided that: “Notwithstanding any other provision of law— “(1) an advisory committee substantially similar to the National Maritime Security Advisory Committee established under [section 70112(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70112/a&num=0&edition=prelim), United States Code, as amended by this section, and that was in force or in effect on the day before the date of enactment of this section [Dec. 4, 2018], may remain in force or in effect for a period of 2 years from the date of enactment of this section, including that the charter, membership, and other aspects of the committee may remain in force or in effect; and “(2) during the 2-year period referenced in paragraph (1)—“(A) requirements relating to the National Maritime Security Advisory Committee established under [section 70112(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70112/a&num=0&edition=prelim), United States Code, as amended by this section, shall be treated as satisfied by the substantially similar advisory committee; and “(B) the enactment of this section, including the amendments made in this section, shall not be the basis—“(i) to deem, find, or declare such committee, including the charter, membership, and other aspects thereof, void, not in force, or not in effect; “(ii) to suspend the activities of such committee; or “(iii) to bar the members of such committee from meeting.”
+
+#### Cybersecurity Information Sharing and Coordination in Ports
+Pub. L. 115–254, div. J, § 1805(a), Oct. 5, 2018, 132 Stat. 3533, provided that: “(a) Maritime Cybersecurity Risk Assessment Model.—The Secretary of Homeland Security, through the Commandant of the Coast Guard and the Under Secretary responsible for overseeing the critical infrastructure protection, cybersecurity, and other related programs of the Department of Homeland Security, shall—“(1) not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], coordinate with the National Maritime Security Advisory Committee, the Area Maritime Security Advisory Committees, and other maritime stakeholders, as necessary, to develop and implement a maritime cybersecurity risk assessment model, consistent with the activities described in section 2(e) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/e&num=0&edition=prelim)), to evaluate current and future cybersecurity risks that have the potential to affect the marine transportation system or that would cause a transportation security incident (as defined in [section 70101 of title 46](./chapter-701-port-security.md#section-70101), United States Code) in ports; and “(2) not less than biennially thereafter, evaluate the effectiveness of the cybersecurity risk assessment model established under paragraph (1).”
+
+#### Information Sharing
+Pub. L. 115–254, div. J, § 1805(c)(2), Oct. 5, 2018, 132 Stat. 3534, provided that: “The Commandant of the Coast Guard and the Under Secretary responsible for overseeing the critical infrastructure protection, cybersecurity, and other related programs of the Department of Homeland Security shall— “(A) ensure there is a process for each Area Maritime Security Advisory Committee established under [section 70112 of title 46](./chapter-701-port-security.md#section-70112), United States Code—“(i) to facilitate the sharing of information related to cybersecurity risks that may cause transportation security incidents; “(ii) to timely report transportation security incidents to the national level; and “(iii) to disseminate such reports across the entire maritime transportation system via the National Cybersecurity and Communications Integration Center; and “(B) issue voluntary guidance for the management of such cybersecurity risks in each Area Maritime Transportation Security Plan and facility security plan required under [section 70103 of title 46](./chapter-701-port-security.md#section-70103), United States Code, approved after the date that the cybersecurity risk assessment model is developed under subsection (a) of this section [set out as a note above].”
 
 
 <a id="section-70113"></a>
@@ -1415,34 +1469,39 @@ Pub. L. 109–241, title IV, § 404, July 11, 2006, 120 Stat. 535, provided that
 
 
 <a id="section-70116"></a>
-## § 70116. Secure systems of transportation
-**(a) In General.—** The Secretary, in consultation with the Transportation Security Oversight Board, shall establish a program to evaluate and certify secure systems of international intermodal transportation.
+## § 70116. Port, harbor, and coastal facility security
+**(a) General Authority.—** The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism against—
 
-**(b) Elements of Program.—** The program shall include—
+(1) an individual, vessel, or public or commercial structure, that is—
 
-(1) establishing standards and procedures for screening and evaluating cargo prior to loading in a foreign port for shipment to the United States either directly or via a foreign port;
+  (A) subject to the jurisdiction of the United States; and
 
-(2) establishing standards and procedures for securing cargo and monitoring that security while in transit;
+  (B) located within or adjacent to the marine environment; or
 
-(3) developing performance standards to enhance the physical security of shipping containers, including standards for seals and locks;
+(2) a vessel of the United States or an individual on board that vessel.
 
-(4) establishing standards and procedures for allowing the United States Government to ensure and validate compliance with this program; and
+**(b) Specific Authority.—** Under subsection (a), the Secretary may—
 
-(5) any other measures the Secretary considers necessary to ensure the security and integrity of international intermodal transport movements.
+(1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism;
+
+(2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism; and
+
+(3) dispatch properly trained and qualified armed Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism or transportation security incidents, as defined in [section 70101 of title 46](./chapter-701-port-security.md#section-70101), United States Code.
+
+**(c) Definitions, Administration, and Enforcement.—** This section shall be treated as part of chapter 700 for purposes of sections 70031, 70032, 70034, 70035, and 70036.
 
 ### Statutory Notes
 
-#### Report on Secure System of Transportation Program
-Pub. L. 107–295, title I, § 110(c), Nov. 25, 2002, 116 Stat. 2092, provided that: “Within 1 year after the secure system of transportation program is implemented under [section 70116 of title 46](./chapter-701-port-security.md#section-70116), United States Code, as amended by this Act, the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committees on Commerce, Science, and Transportation and Finance and the House of Representatives Committees on Transportation and Infrastructure and Ways and Means that— “(1) evaluates the secure system of transportation program and its components; “(2) states the Secretary’s view as to whether any procedure, system, or technology evaluated as part of the program offers a higher level of security than requiring imported goods to clear customs under existing procedures and for the requirements of the National Maritime Security Plan for reopening of United States ports to commerce; “(3) states the Secretary’s view as to the integrity of the procedures, technology, or systems evaluated as part of the program; “(4) makes a recommendation with respect to whether the program, or any procedure, system, or technology should be incorporated in a nationwide system for preclearance of imports of waterborne goods and for the requirements of the National Maritime Security Plan for the reopening of United States ports to Commerce; “(5) describes the impact of the program on staffing levels at the department in which the Coast Guard is operating, and the Customs Service; and “(6) states the Secretary’s views as to whether there is a method by which the United States could validate foreign ports so that cargo from those ports is preapproved for entry into the United States and for the purpose of the requirements of the National Maritime Security Plan for the reopening of United States ports to commerce.”
+#### Codification
+Section, as added and amended by Pub. L. 115–282, is based on subsecs. (a) and (b) of Pub. L. 92–340, § 7, as added Pub. L. 99–399, title IX, § 906, Aug. 27, 1986, 100 Stat. 890; amended Pub. L. 104–324, title III, § 302, Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title I, § 107(a), Nov. 25, 2002, 116 Stat. 2088, which was formerly classified to section 1226(a), (b) of Title 33, Navigation and Navigable Waters, before being transferred to this chapter and renumbered as this section. Subsections (a) and (b) of section 7 of Pub. L. 92–340 were also renumbered as [section 70102a of this title](./chapter-701-port-security.md#section-70102a) by Pub. L. 115–282, title IV, § 408(a), Dec. 4, 2018, 132 Stat. 4268.
 
-[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+#### Prior Provisions
+A prior section 70116, added Pub. L. 107–295, title I, § 102(a), Nov. 25, 2002, 116 Stat. 2083, related to secure systems of transportation, prior to repeal by Pub. L. 115–254, div. J, § 1809(b), Oct. 5, 2018, 132 Stat. 3538.
 
-[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).]
+#### Amendments
+2018—Pub. L. 115–282, § 402(b)(1), transferred section catchline and subsecs. (a) and (b) of section 7 of Pub. L. 92–340 to this chapter and redesignated them as this section. See Codification note above.
 
-#### Performance Standards
-Pub. L. 107–295, title I, § 111, Nov. 25, 2002, 116 Stat. 2092, provided that: “Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, in consultation with the Transportation Security Oversight Board, shall— “(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system for containerized cargo shipped to and from the United States either directly or via a foreign port; and “(2) develop performance standards to enhance the physical security of shipping containers, including standards for seals and locks.”
-
-[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+Subsec. (c). Pub. L. 115–282, § 402(b)(2), added subsec. (c).
 
 
 <a id="section-70117"></a>
@@ -1460,7 +1519,7 @@ Another prior section 70117 was renumbered [section 70119 of this title](./chapt
 
 <a id="section-70118"></a>
 ## § 70118. Enforcement by State and local officers
-**(a) In General.—** Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 1 of title II of the Act of June 15, 1917 (chapter 30; [50 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim)) or security or safety zone regulation under section 7(b) of the Ports and Waterways Safety Act ([33 U.S.C. 1226(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim)) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 ([33 U.S.C. 1509(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/d&num=0&edition=prelim)) by a Coast Guard official authorized by law to prescribe such regulations, if—
+**(a) In General.—** Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 1 11 See References in Text note below. of title II of the Act of June 15, 1917 (chapter 30; [50 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim)) or security or safety zone regulation under section 7(b) 1 of the Ports and Waterways Safety Act ([33 U.S.C. 1226(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim)) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 ([33 U.S.C. 1509(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/d&num=0&edition=prelim)) by a Coast Guard official authorized by law to prescribe such regulations, if—
 
 (1) such violation is a felony; and
 
@@ -1469,6 +1528,11 @@ Another prior section 70117 was renumbered [section 70119 of this title](./chapt
 **(b) Other Powers not Affected.—** The provisions of this section are in addition to any power conferred by law to such officers. This section shall not be construed as a limitation of any power conferred by law to such officers, or any other officer of the United States or any State. This section does not grant to such officers any powers not authorized by the law of the State in which those officers are employed.
 
 ### Statutory Notes
+
+#### References in Text
+Section 1 of title II of the Act of June 15, 1917, referred to in subsec. (a), which was classified to [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), War and National Defense, was redesignated and transferred to [section 70051 of this title](./chapter-700-ports-and-waterways-safety.md#section-70051) by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
+
+Section 7(b) of the Ports and Waterways Safety Act, referred to in subsec. (a), which was classified to [section 1226(b) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim), Navigation and Navigable Waters, was redesignated and transferred to sections 70102a(b) and 70116(b) of this title by Pub. L. 115–282, title IV, §§ 402(b)(1), 408(a), Dec. 4, 2018, 132 Stat. 4264, 4268.
 
 #### Prior Provisions
 A prior section 70118 was renumbered [section 70117 of this title](./chapter-701-port-security.md#section-70117) and subsequently repealed.
@@ -1700,13 +1764,18 @@ In this subchapter:
 
 (1) **Law enforcement agency.—** — The term “law enforcement agency” means an agency of a State, a political subdivision of a State, or a Federally recognized tribe that is authorized by law to supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
 
-(2) **Security zone.—** — The term “security zone” means a security zone, established by the Commandant of the Coast Guard or the Commandant’s designee pursuant to section 1 of title II of the Act of June 15, 1917 ([50 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim)) or section 7(b) of the Ports and Waterways Safety Act ([33 U.S.C. 1226(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim)), for a vessel carrying especially hazardous cargo when such vessel—
+(2) **Security zone.—** — The term “security zone” means a security zone, established by the Commandant of the Coast Guard or the Commandant’s designee pursuant to section 1 11 See References in Text note below. of title II of the Act of June 15, 1917 ([50 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim)) or section 7(b) 1 of the Ports and Waterways Safety Act ([33 U.S.C. 1226(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim)), for a vessel carrying especially hazardous cargo when such vessel—
 
   (A) enters, or operates within, the internal waters of the United States and the territorial sea of the United States; or
 
   (B) transfers such cargo or residue in any port or place, under the jurisdiction of the United States, within the territorial sea of the United States or the internal waters of the United States.
 
 ### Statutory Notes
+
+#### References in Text
+Section 1 of title II of the Act of June 15, 1917, referred to in par. (2), which was classified to [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), War and National Defense, was redesignated and transferred to [section 70051 of this title](./chapter-700-ports-and-waterways-safety.md#section-70051) by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
+
+Section 7(b) of the Ports and Waterways Safety Act, referred to in par. (2), which was classified to [section 1226(b) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim), Navigation and Navigable Waters, was redesignated and transferred to sections 70102a(b) and 70116(b) of this title by Pub. L. 115–282, title IV, §§ 402(b)(1), 408(a), Dec. 4, 2018, 132 Stat. 4264, 4268.
 
 #### Amendments
 2010—Pub. L. 111–330 amended Pub. L. 111–281, § 828(a), which enacted this section.

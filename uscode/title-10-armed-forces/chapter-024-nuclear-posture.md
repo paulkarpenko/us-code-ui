@@ -2,7 +2,7 @@
 title: 10
 chapter: '24'
 heading: NUCLEAR POSTURE
-section_count: 9
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -58,6 +58,21 @@ Pub. L. 112–239, § 1031(a)(2)(F), added subsec. (c).
 Subsec. (d). Pub. L. 113–66, § 1052(b)(2), redesignated subsec. (d) as (c).
 
 Pub. L. 112–239, § 1032(b), added subsec. (d).
+
+#### Plan To Train Officers in Nuclear Command, Control, and Communications
+Pub. L. 115–232, div. A, title XVI, § 1668, Aug. 13, 2018, 132 Stat. 2156, provided that: “(a) In General.—The Secretary of Defense, in consultation with the Secretary of the Air Force, the Secretary of the Navy, the Chairman of the Joint Chiefs of Staff, and the Commander of the United States Strategic Command, shall develop a plan to train, educate, manage, and track officers of the Armed Forces in nuclear command, control, and communications. “(b) Elements.—The plan required by subsection (a) shall address—“(1) manpower requirements at various grades; “(2) desired career paths and promotion timing; and “(3) any other matters the Secretary of Defense considers relevant to develop a mature cadre of officers with nuclear command, control, and communications expertise. “(c) Submission of Plan.—Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives the plan required by subsection (a). “(d) Implementation.—Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall implement the plan required by subsection (a).”
+
+#### Establishment of Nuclear Command and Control Intelligence Fusion Center
+Pub. L. 115–91, div. A, title XVI, § 1655, Dec. 12, 2017, 131 Stat. 1760, provided that: “(a) Establishment.—Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense and the Director of National Intelligence shall jointly establish an intelligence fusion center to effectively integrate and unify the protection of nuclear command, control, and communications programs, systems, and processes and continuity of government programs, systems, and processes. “(b) Charter.—In establishing the fusion center under subsection (a), the Secretary and the Director shall develop a charter for the fusion center that includes the following:“(1) To carry out the duties of the fusion center, a description of—“(A) the roles and responsibilities of officials and elements of the Federal Government, including a detailed description of the organizational relationships of such officials and the elements of the Federal Government that are key stakeholders; “(B) the organization reporting chain of the fusion center; “(C) the staffing of the fusion center; “(D) the processes of the fusion center; and “(E) how the fusion center integrates with other elements of the Federal Government. “(2) The management and administration processes required to carry out the fusion center, including with respect to facilities and security authorities. “(3) Procedures to ensure that the appropriate number of staff of the fusion center have the security clearance necessary to access information on the programs, systems, and processes that relate, either wholly or substantially, to nuclear command, control, and communications or continuity of government, including with respect to both the programs, systems, and processes that are designated as special access programs (as described in section 4.3 of Executive Order 13526 ([50 U.S.C. 3161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim) note) or any successor Executive order) and the programs, systems, and processes that contain sensitive compartmented information. “(c) Coordination.—In establishing the fusion center under subsection (a), the Secretary and the Director shall coordinate with the elements of the Federal Government that the Secretary and Director determine appropriate. “(d) Reports.—“(1) Initial report.—Not later than 120 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary and the Director shall jointly submit to the appropriate congressional committees a report containing—“(A) the charter for the fusion center developed under subsection (b); and “(B) a plan on the budget and staffing of the fusion center. “(2) Annual reports.—At the same time as the President submits to Congress the annual budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, for fiscal year 2019 and each fiscal year thereafter, the Secretary and the Director shall submit to the appropriate congressional committees a report on the fusion center, including, with respect to the period covered by the report—“(A) any updates to the plan on the budget and staffing of the fusion center; “(B) any updates to the charter developed under subsection (b); and “(C) a summary of the activities and accomplishments of the fusion center. “(3) Sunset.—No report is required under this subsection after December 31, 2021. “(e) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(2) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
+
+#### Security of Nuclear Command, Control, and Communications System From Commercial Dependencies
+Pub. L. 115–91, div. A, title XVI, § 1656, Dec. 12, 2017, 131 Stat. 1761, provided that: “(a) Certification.—Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall certify to the congressional defense committees whether the Secretary uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, to carry out—“(1) the nuclear deterrence mission of the Department of Defense, including with respect to nuclear command, control, and communications, integrated tactical warning and attack assessment, and continuity of government; or “(2) the homeland defense mission of the Department, including with respect to ballistic missile defense. “(b) Prohibition and Mitigation.—“(1) Prohibition.—Except as provided by paragraph (2), beginning on the date that is one year after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense may not procure or obtain, or extend or renew a contract to procure or obtain, any equipment, system, or service to carry out the missions described in paragraphs (1) and (2) of subsection (a) that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system. “(2) Waiver.—The Secretary may waive the prohibition in paragraph (1) on a case-by-case basis for a single one-year period if the Secretary—“(A) determines such waiver to be in the national security interests of the United States; and “(B) certifies to the congressional committees that—“(i) there are sufficient mitigations in place to guarantee the ability of the Secretary to carry out the missions described in paragraphs (1) and (2) of subsection (a); and “(ii) the Secretary is removing the use of covered telecommunications equipment or services in carrying out such missions. “(3) Delegation.—The Secretary may not delegate the authority to make a waiver under paragraph (2) to any official other than the Deputy Secretary of Defense or the co-chairs of the Council on Oversight of the National Leadership Command, Control, and Communications System established by [section 171a of title 10](./chapter-007-boards-councils-and-committees.md#section-171a), United States Code. “(c) Definitions.—In this section:“(1) The term ‘congressional defense committees’ has the meaning given that term in [section 101(a)(16) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim), United States Code. “(2) The term ‘covered foreign country’ means any of the following:“(A) The People’s Republic of China. “(B) The Russian Federation. “(3) The term ‘covered telecommunications equipment or services’ means any of the following:“(A) Telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of such entities). “(B) Telecommunications services provided by such entities or using such equipment. “(C) Telecommunications equipment or services produced or provided by an entity that the Secretary of Defense reasonably believes to be an entity owned or controlled by, or otherwise connected to, the government of a covered foreign country.”
+
+#### Security Classification Guide for Programs Relating to Nuclear Command, Control, and Communications and Nuclear Deterrence
+Pub. L. 115–91, div. A, title XVI, § 1658, Dec. 12, 2017, 131 Stat. 1763, provided that: “(a) Requirement for Security Classification Guide.—Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall require the issuance of a security classification guide for each covered program to ensure the protection of sensitive information from public disclosure. “(b) Requirements.—Each security classification guide issued pursuant to subsection (a) shall be—“(1) approved by—“(A) the Council on Oversight of the National Leadership Command, Control, and Communications System with respect to covered programs under paragraph (1) or (2) of subsection (c) [probably should be “subsection (e)”]; or “(B) the Nuclear Weapons Council with respect to covered programs under paragraph (3) of such subsection; and “(2) issued not later than March 19, 2019, with respect to a covered program in existence as of such date. “(c) Annual Notifications.—On an annual basis during the three-year period beginning on the date of the enactment of this Act [Dec. 12, 2017], the Deputy Secretary of Defense, without delegation, shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the status of implementing subsection (a), including a description of any challenges to such implementation. “(d) Exclusion.—This section shall not apply with respect to restricted data covered by chapter 12 of the Atomic Energy Act of 1954 ([42 U.S.C. 2161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2161&num=0&edition=prelim) et seq.). “(e) Covered Program Defined.—In this section, the term ‘covered program’ means programs of the Department of Defense in existence on or after the date of the enactment of this Act [Dec. 12, 2017] relating to any of the following:“(1) Continuity of government. “(2) Nuclear command, control, and communications. “(3) Nuclear deterrence.”
+
+#### Evaluation and Enhanced Security of Supply Chain for Nuclear Command, Control, and Communications and Continuity of Government Programs
+Pub. L. 115–91, div. A, title XVI, § 1659, Dec. 12, 2017, 131 Stat. 1764, provided that: “(a) Evaluations of Supply Chain Vulnerabilities.—“(1) In general.—Not later than December 31, 2019, and in accordance with the plan under paragraph (2)(A), the Secretary of Defense shall conduct evaluations of the supply chain vulnerabilities of each covered program. “(2) Plan.—“(A) Development.—The Secretary shall develop a plan to carry out the evaluations under paragraph (1), including with respect to the personnel and resources required to carry out such evaluations. “(B) Submission.—Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the plan under subparagraph (A). “(3) Waiver.—The Secretary may waive, on a case-by-case basis with respect to a weapons system, a program, or a system of systems, of a covered program, either the requirement to conduct an evaluation under paragraph (1) or the deadline specified in such paragraph if the Secretary certifies to the congressional defense committees before such date that all known supply chain vulnerabilities of such weapons system, program, or system of systems have minimal consequences for the capability of such weapons system, program, or system of systems to meet operational requirements or otherwise satisfy mission requirements. “(4) Risk mitigation strategies.—In carrying out an evaluation under paragraph (1) with respect to a covered program specified in subparagraph (B) or (C) of subsection (c)(2), the Secretary shall develop strategies for mitigating the risks of supply chain vulnerabilities identified in the course of such evaluation. “(b) Prioritization of Certain Supply Chain Risk Management Efforts.—“(1) Instructions.—Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary shall issue a Department of Defense Instruction, or update such an Instruction, establishing the prioritization of supply chain risk management programs, including supply chain risk management threat assessment reporting, to ensure that acquisition and sustainment programs relating to covered programs receive the highest priority of such supply chain risk management programs and reporting. “(2) Requirements.—“(A) Establishment.—The Secretary shall establish requirements to carry out supply chain risk management threat assessment collections and analyses under acquisition and sustainment programs relating to covered programs. “(B) Submission.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees the requirements established under subparagraph (A). “(c) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(2) The term ‘covered programs’ means programs relating to any of the following:“(A) Nuclear weapons. “(B) Nuclear command, control, and communications. “(C) Continuity of government. “(D) Ballistic missile defense.”
 
 #### Statement of Policy on the Nuclear Triad
 Pub. L. 114–92, div. A, title XVI, § 1664, Nov. 25, 2015, 129 Stat. 1128, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) the triad of strategic nuclear delivery systems plays a critical role in ensuring the national security of the United States; and “(2) retaining all three legs of the nuclear triad is among the highest priorities of the Department of Defense and will best maintain strategic stability at a reasonable cost, while hedging against potential technical problems and vulnerabilities. “(b) Statement of Policy.—It is the policy of the United States—“(1) to operate, sustain, and modernize or replace the triad of strategic nuclear delivery systems consisting of—“(A) heavy bombers equipped with nuclear gravity bombs and air-launched nuclear cruise missiles; “(B) land-based intercontinental ballistic missiles equipped with nuclear warheads that are capable of carrying multiple independently targetable reentry vehicles; and “(C) ballistic missile submarines equipped with submarine launched ballistic missiles and multiple nuclear warheads; “(2) to operate, sustain, and modernize or replace a capability to forward-deploy nuclear weapons and dual-capable fighter-bomber aircraft; “(3) to deter potential adversaries and assure allies and partners of the United States through strong and long-term commitment to the nuclear deterrent of the United States and the personnel, systems, and infrastructure that comprise such deterrent; “(4) to ensure that the members of the Armed Forces who operate the nuclear deterrent of the United States have the training, resources, and national support required to execute the critical national security mission of the members; and “(5) to achieve a modern and responsive nuclear infrastructure to support the full spectrum of deterrence requirements.”
@@ -218,11 +233,11 @@ Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, pro
 
   (B) such investments could enable additional future reductions in the hedge stockpile.
 
-(2) **Report required.—** — Not later than March 1, 2012, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the nuclear weapons stockpile of the United States that includes the following:
+(2) **Report required.—** — Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the nuclear weapons stockpile of the United States that includes the following:
 
   (A) An accounting of the weapons in the stockpile as of the end of the fiscal year preceding the submission of the report that includes all weapons in the active and inactive stockpiles, both deployed and non-deployed, and all categories and readiness states of such weapons.
 
-  (B) The planned force levels for each category of nuclear weapon over the course of the future-years defense program submitted to Congress under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221) for the fiscal year following the fiscal year in which the report is submitted.
+  (B) The planned force levels for each category of nuclear weapon over the course of the future-years defense program submitted to Congress under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) for the fiscal year following the fiscal year in which the report is submitted.
 
 **(c) Net Assessment of Nuclear Force Levels Required With Respect to Certain Proposals To Reduce the Nuclear Weapons Stockpile of the United States.—**
 
@@ -269,6 +284,10 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 The text of this section is based on Pub. L. 112–81, div. A, title X, § 1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, § 1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to [section 2523b of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2523b&num=0&edition=prelim), War and National Defense, was transferred to this section by Pub. L. 112–239, § 1033(b)(1)(A)–(C).
 
 #### Amendments
+2018—Subsec. (b)(2). Pub. L. 115–232 substituted “March 1 of each year” for “March 1, 2012, and annually thereafter” in introductory provisions.
+
+2017—Subsec. (b)(2)(B). Pub. L. 115–91 substituted “of this title” for “of title 10”.
+
 2014—Subsec. (d)(1). Pub. L. 113–291 substituted “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))” for “([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim))”.
 
 2013—Pub. L. 112–239, § 1033(b)(2)(B), made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above.
@@ -328,7 +347,7 @@ Barack Obama.
 
 <a id="section-495"></a>
 ## § 495. Strategic delivery systems
-**(a) Annual Certification.—** Beginning in fiscal year 2013, the President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549), including plans regarding—
+**(a) Annual Certification.—** The President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549), including plans regarding—
 
 (1) a heavy bomber and air-launched cruise missile;
 
@@ -384,6 +403,8 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsecs. (a)(5) and (b), is section 1043 of title X of div. A of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1576, which is not classified to the Code.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–232 substituted “The” for “Beginning in fiscal year 2013, the” in introductory provisions.
+
 2013—Subsec. (c)(3). Pub. L. 112–240 substituted “whether the Russian Federation” for “that the Russian Federation” and inserted “strategic” before “arms control obligations”.
 
 #### Effective Date of 2013 Amendment
@@ -505,3 +526,66 @@ Barack Obama.
 
 #### Amendments
 2013—Pub. L. 113–66 inserted a period after the enumerator in section catchline.
+
+
+<a id="section-499"></a>
+## § 499. Annual assessment of cyber resiliency of nuclear command and control system
+**(a) In General.—** Not less frequently than annually, the Commander of the United States Strategic Command and the Commander of the United States Cyber Command (in this section referred to collectively as the “Commanders”) shall jointly conduct an assessment of the cyber resiliency of the nuclear command and control system.
+
+**(b) Elements.—** In conducting the assessment required by subsection (a), the Commanders shall—
+
+(1) conduct an assessment of the sufficiency and resiliency of the nuclear command and control system to operate through a cyber attack from the Russian Federation, the People’s Republic of China, or any other country or entity the Commanders identify as a potential threat; and
+
+(2) develop recommendations for mitigating any concerns of the Commanders resulting from the assessment.
+
+**(c) Report Required.—**
+
+(1) The Commanders shall jointly submit to the Chairman of the Joint Chiefs of Staff, for submission to the Council on Oversight of the National Leadership Command, Control, and Communications System established under [section 171a of this title](./chapter-007-boards-councils-and-committees.md#section-171a), a report on the assessment required by subsection (a) that includes the following:
+
+  (A) The recommendations developed under subsection (b)(2).
+
+  (B) A statement of the degree of confidence of each of the Commanders in the mission assurance of the nuclear deterrent against a top tier cyber threat.
+
+  (C) A detailed description of the approach used to conduct the assessment required by subsection (a) and the technical basis of conclusions reached in conducting that assessment.
+
+  (D) Any other comments of the Commanders.
+
+(2) The Council shall submit to the Secretary of Defense the report required by paragraph (1) and any comments of the Council on the report.
+
+(3) The Secretary of Defense shall submit to the congressional defense committees the report required by paragraph (1), any comments of the Council on the report under paragraph (2), and any comments of the Secretary on the report.
+
+**(d) Quarterly Briefings.—** Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter.
+
+**(e) Termination.—** The requirements of this section shall terminate on December 31, 2027.
+
+
+<a id="section-499a"></a>
+## § 499a. Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces
+**(a) In General.—** The Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation, and the Administrator for Nuclear Security, acting through the Director for Cost Estimating and Program Evaluation, shall collect and store cost, programmatic, and technical data relating to programs and projects of the nuclear security enterprise and nuclear forces.
+
+**(b) Sharing of Data.—** If the Director of Cost Assessment and Program Evaluation or the Director for Cost Estimating and Program Evaluation requests data relating to programs or projects from any element of the Department of Defense or from any element of the nuclear security enterprise of the National Nuclear Security Administration, that element shall provide that data in a timely manner.
+
+**(c) Storage of Data.—**
+
+(1) Data collected by the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation under this section shall be—
+
+  (A) stored in the data storage system of the Defense Cost and Resource Center, or successor center, or in a data storage system of the National Nuclear Security Administration that is comparable to the data storage system of the Defense Cost and Resource Center; and
+
+  (B) made accessible to other Federal agencies as such Directors consider appropriate.
+
+(2) The Secretary and the Administrator shall ensure that the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation have sufficient information system support, as determined by such Directors, to facilitate the timely hosting, handling, and sharing of data relating to programs and projects of the nuclear security enterprise under this section at the appropriate level of classification.
+
+(3) The Deputy Administrator for Naval Reactors of the National Nuclear Security Administration may coordinate with the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation to ensure that, at the discretion of the Deputy Administrator, data relating to programs and projects of the Office of Naval Reactors are correctly represented in the data storage system pursuant to paragraph (1)(A).
+
+**(d) Contract Requirements.—** The Secretary and the Administrator shall ensure that any relevant contract relating to a program or project of the nuclear security enterprise and nuclear forces that is entered into after December 11, 2017, appropriately includes—
+
+(1) requirements and standards for data collection; and
+
+(2) requirements for reporting on cost, programmatic, and technical data using procedures, standards, and formats approved by the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation.
+
+**(e) Nuclear Security Enterprise Defined.—** In this section, the term “nuclear security enterprise” has the meaning given that term in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (d). Pub. L. 115–232 substituted “after December 11, 2017,” for “on or after the date of the enactment of this section” in introductory provisions.

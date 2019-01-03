@@ -2,7 +2,7 @@
 title: 16
 chapter: '1'
 heading: 'NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES'
-section_count: 2247
+section_count: 2257
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -9642,14 +9642,16 @@ Nothing in this subchapter shall be held to deprive the State of New Jersey, or 
 <a id="section-409g"></a>
 ## § 409g. Additional lands
 
-In order to preserve for the benefit and inspiration of the public certain lands historically associated with the winter encampment of General George Washington’s Continental Army at Jockey Hollow in 1779 and 1780, and to facilitate the administration and interpretation of the Morristown National Historical Park, the Secretary of the Interior is authorized to procure by purchase, donation, purchase with appropriated funds, or otherwise, not to exceed 615 acres of land and interests therein which 615 acres shall include Stark’s Brigade campsite and other lands necessary for the proper administration and interpretation of the Morristown National Historical Park: Provided, That title to the property known as the Cross estate may not be accepted until the property is vacant.
+In order to preserve for the benefit and inspiration of the public certain lands historically associated with the winter encampment of General George Washington’s Continental Army at Jockey Hollow in 1779 and 1780, and to facilitate the administration and interpretation of the Morristown National Historical Park, the Secretary of the Interior is authorized to procure, from a willing owner only, by purchase, donation, purchase with appropriated funds, or otherwise, not to exceed 715 acres of land and interests therein which 715 acres shall include Stark’s Brigade campsite and other lands necessary for the proper administration and interpretation of the Morristown National Historical Park: Provided, That title to the property known as the Cross estate may not be accepted until the property is vacant.
 
 ### Statutory Notes
 
 #### Codification
-Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, as amended, which comprises this subchapter.
+Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, which comprises this subchapter.
 
 #### Amendments
+2018—Pub. L. 115–141 inserted “, from a willing owner only,” after “the Secretary of the Interior is authorized to procure” and substituted “715 acres” for “615 acres” in two places.
+
 1991—Pub. L. 102–118 substituted “615 acres” for “600 acres” in two places.
 
 1976—Pub. L. 94–578 substituted “600 acres” for “465 acres” in two places.
@@ -15239,7 +15241,7 @@ In order to further the administration and use of the Everglades National Park, 
 
   (A) the Secretary has acquired by donation sufficient land or an interest in land within the boundary of the park to constitute a manageable unit;
 
-  (B) the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the East Armory which would include facilities for park administration and visitor services; and
+  (B) the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the Colt Armory Complex which would include facilities for park administration and visitor services; and
 
   (C) the Secretary has entered into a written agreement with the State, city, or other public entity, as appropriate, providing that land owned by the State, city, or other public entity within the Coltsville Historic District shall be managed consistent with this section.
 
@@ -15428,6 +15430,9 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (k)(9),
 
 #### Codification
 In subsec. (j)(1)(A), “[section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim)” substituted for “section 12(b) of Public Law 91–383 (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### Amendments
+2018—Subsec. (b)(2)(B). Pub. L. 115–111 substituted “Colt Armory Complex” for “East Armory”.
 
 
 <a id="section-410qq-1"></a>
@@ -22275,15 +22280,21 @@ Joshua Tree National Monument abolished and incorporated in Joshua Tree National
 <a id="section-450jj"></a>
 ## § 450jj. Jefferson National Expansion Memorial; authorization
 
-There is authorized to be constructed by the Secretary of the Interior upon the Jefferson National Expansion Memorial National Historic Site, Saint Louis, Missouri, an appropriate national memorial to those persons who made possible the territorial expansion of the United States, including President Thomas Jefferson and his aides, Livingston and Monroe, who negotiated the Louisiana Purchase, the great explorers, Lewis and Clark, and the hardy hunters, trappers, frontiersmen, pioneers, and others who contributed to such expansion.
+There is authorized to be constructed by the Secretary of the Interior upon the Jefferson National Expansion Memorial National Historic Site,11 See Change of Name note below. Saint Louis, Missouri, an appropriate national memorial to those persons who made possible the territorial expansion of the United States, including President Thomas Jefferson and his aides, Livingston and Monroe, who negotiated the Louisiana Purchase, the great explorers, Lewis and Clark, and the hardy hunters, trappers, frontiersmen, pioneers, and others who contributed to such expansion.
 
 ### Statutory Notes
+
+#### Change of Name
+Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, § 2, Feb. 22, 2018, 132 Stat. 328, which is classified to [section 450jj–10 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-10).
+
+#### Short Title of 2018 Amendment
+Pub. L. 115–128, § 1, Feb. 22, 2018, 132 Stat. 328, provided that: “This Act [enacting [section 450jj–10 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-10)] may be cited as the ‘Gateway Arch National Park Designation Act’.”
 
 #### Short Title of 1984 Amendment
 Pub. L. 98–398, title II, § 203, Aug. 24, 1984, 98 Stat. 1472, provided that: “This title [enacting sections 450jj–3 to 450jj–9 of this title, enacting provisions set out as a note under [section 450jj–3 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-3), and amending provisions set out as a note under this section] may be cited as the ‘Jefferson National Expansion Memorial Amendments Act of 1984’.”
 
 #### Disposition of Funds Received by National Park Service as Reimbursement for Costs Incurred
-Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–251, and Pub. L. 99–591, § 101(h) [title I, § 100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–251, provided: “That notwithstanding any other provision of law, hereafter funds received by the National Park Service as reimbursement for the cost of providing security, law enforcement, interpretive, and other services with respect to the operation of facilities at the Jefferson National Expansion Memorial National Historic Site shall be credited to the appropriation bearing the cost of providing such services.”
+Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–251, and Pub. L. 99–591, § 101(h) [title I, § 100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–251, provided: “That notwithstanding any other provision of law, hereafter funds received by the National Park Service as reimbursement for the cost of providing security, law enforcement, interpretive, and other services with respect to the operation of facilities at the Jefferson National Expansion Memorial National Historic Site [now Gateway Arch National Park] shall be credited to the appropriation bearing the cost of providing such services.”
 
 #### Authorization of Appropriations; Federal and Non-Federal Ratio of Expenditures
 Section 11, formerly section 4, of act May 17, 1954, as amended by Pub. L. 85–936, Sept. 6, 1958, 72 Stat. 1794; Pub. L. 89–269, Oct. 19, 1965, 79 Stat. 991; Pub. L. 94–578, title II, § 201(6), Oct. 21, 1976, 90 Stat. 2733; and renumbered § 11 and amended by Pub. L. 98–398, title II, § 201(b), Aug. 24, 1984, 98 Stat. 1471; Pub. L. 102–355, § 1(3), Aug. 26, 1992, 106 Stat. 947, provided that: “(a) There is hereby authorized to be appropriated not to exceed $32,750,000 to carry out the purposes of this Act [sections 450jj to 450jj–9 of this title]: Provided, That funds authorized to be appropriated by this Act shall be expended by the United States for construction of the memorial in the ratio of $3 of Federal funds for each $1 of money contributed hereafter by the city of Saint Louis or other non-Federal source for purposes of the memorial, and for such purposes the Secretary is authorized to accept from the said city or other non-Federal sources, and to utilize for purposes of this Act, any money so contributed: Provided further, That the value of any land hereafter contributed by the city of Saint Louis shall be excluded from the computation of the city’s share. “(b)(1) For the purposes of the East St. Louis portion of the memorial, there are authorized to be appropriated $2,000,000 for land acquisition and, subject to the provisions of paragraphs (2) and (3), such sums as may be necessary for development: Provided, That such authorization shall not include any sums for the acquisition, removal, or relocation of the grain elevator and business located within the East St. Louis unit of the Memorial. Such development shall be consistent with the level of development described in phase one of the draft Development and Management Plan and Environmental Assessment, East St. Louis Addition to Jefferson National Expansion Memorial—Illinois/Missouri, dated August 1987. “(2) Federal funds expended under paragraph (1) for development may not exceed 75 percent of the actual cost of such development. The remaining share of such actual costs shall be provided from non-Federal funds, services, or materials, or a combination thereof, fairly valued as determined by the Secretary. Any non-Federal expenditures for the acquisition, removal, or relocation of the grain elevator and business shall be included as part of the non-Federal cost share: Provided, That credit shall not be given for any such expenditures which exceed the cost of acquisition, removal, or relocation of the grain elevator and business located within the East St. Louis unit of the Memorial if such action had been accomplished by the Federal Government as determined by the Secretary under existing law: Provided further, That only those non-Federal funds expended at least sixty days after the transmission of the report referred to in paragraph (3) for the removal of such grain elevator shall be credited towards the non-Federal cost share. For the purposes of this paragraph, the Secretary may accept and utilize for such purposes any non-Federal funds, services, and materials so contributed. “(3) Within one year after the date of enactment of this paragraph [Aug. 26, 1992], the Secretary, in direct consultation with the city of East St. Louis, Gateway Arch Park Expansion, and the Southwestern Illinois Development Authority, shall develop and transmit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs [now Committee on Natural Resources] of the United States House of Representatives a study of alternatives to, and costs associated with, the removal of the grain elevator located within the East St. Louis unit of the Memorial. The study shall contain, but need not be limited to, at least one alternative which would incorporate and retain the existing grain elevator into the draft development and management plan and environmental assessment referred to in paragraph (1). “(c) Funds appropriated under subsection (b) of this section shall remain available until expended.”
@@ -22308,20 +22319,30 @@ In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 In subsec. (a), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 
+<a id="section-450jj-10"></a>
+## § 450jj–10. Designation of Gateway Arch National Park
+**(a) Redesignation** The Jefferson National Expansion Memorial established under sections 450jj to 450jj–9 of this title shall be known and designated as the “Gateway Arch National Park”.
+
+**(b) References** Any reference in a law, map, regulation, document, paper, or other record of the United States to the Jefferson National Expansion Memorial shall be considered to be a reference to the “Gateway Arch National Park”.
+
+
 <a id="section-450jj-2"></a>
 ## § 450jj–2. Railroad agreement as condition precedent to undertaking memorial project
 
-The memorial project authorized herein shall not be undertaken until there shall have been reached an agreement satisfactory to the Secretary of the Interior providing for the relocation of the railroad tracks and structures now situated on lands adjacent to the Jefferson National Expansion Memorial National Historic Site, between the boundary of the site and the river. Such agreement shall contain such terms as may be deemed desirable by the Secretary but shall contain a provision limiting the Federal expenditure of funds in connection with such relocation of the tracks and structures to work undertaken within the historic site area.
+The memorial project authorized herein shall not be undertaken until there shall have been reached an agreement satisfactory to the Secretary of the Interior providing for the relocation of the railroad tracks and structures now situated on lands adjacent to the Jefferson National Expansion Memorial National Historic Site,11 See Change of Name note below. between the boundary of the site and the river. Such agreement shall contain such terms as may be deemed desirable by the Secretary but shall contain a provision limiting the Federal expenditure of funds in connection with such relocation of the tracks and structures to work undertaken within the historic site area.
 
 ### Statutory Notes
 
 #### References in Text
 Herein, referred to in text, means act May 17, 1954, which is generally classified to sections 450jj to 450jj–9 of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Change of Name
+Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, § 2, Feb. 22, 2018, 132 Stat. 328, which is classified to [section 450jj–10 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-10).
+
 
 <a id="section-450jj-3"></a>
 ## § 450jj–3. Designation of additional land by Secretary; manner of acquiring additional land
-**(a)** There is hereby designated for addition to the Jefferson National Expansion Memorial (hereinafter in sections 450jj–3 to 450jj–9 of this title referred to as the “Memorial”) approximately one hundred acres in the city of East Saint Louis, Illinois, contiguous with the Mississippi River and between the Eads Bridge and the Poplar Street Bridge, as generally depicted on the map entitled “Boundary Map, Jefferson National Expansion Memorial”, numbered 366–80013, dated January 1992, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The additional acreage authorized by this section is in recognition of the historical significance of the Memorial site to the westward expansion of the United States and the historical linkage of this site on the Mississippi in both Missouri and Illinois to such expansion, the international recognition of the Gateway Arch, designed by Eero Saarinen, as one of the world’s great sculptural and architectural achievements, and the increasing use of the Memorial site by millions of people from all over the United States and the world.
+**(a)** There is hereby designated for addition to the Jefferson National Expansion Memorial 11 See Change of Name note below. (hereinafter in sections 450jj–3 to 450jj–9 of this title referred to as the “Memorial”) approximately one hundred acres in the city of East Saint Louis, Illinois, contiguous with the Mississippi River and between the Eads Bridge and the Poplar Street Bridge, as generally depicted on the map entitled “Boundary Map, Jefferson National Expansion Memorial 1 ”, numbered 366–80013, dated January 1992, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The additional acreage authorized by this section is in recognition of the historical significance of the Memorial site to the westward expansion of the United States and the historical linkage of this site on the Mississippi in both Missouri and Illinois to such expansion, the international recognition of the Gateway Arch, designed by Eero Saarinen, as one of the world’s great sculptural and architectural achievements, and the increasing use of the Memorial site by millions of people from all over the United States and the world.
 
 **(b)** Within the area designated in accordance with this section, the Secretary of the Interior may acquire lands and interests in lands by donation, purchase with donated or appropriated funds, or exchange, except that lands owned by the State of Illinois or any political subdivision thereof may be acquired only by donation.
 
@@ -22332,6 +22353,9 @@ A prior section 4 of act May 17, 1954, was renumbered section 11 and is set out 
 
 #### Amendments
 1992—Subsec. (a). Pub. L. 102–355 substituted “There is hereby designated” for “The Secretary of the Interior is further authorized to designate”, “approximately” for “not more than”, and “366–80013, dated January 1992,” for “MWR–366/80,004, and dated February 9, 1984,”.
+
+#### Change of Name
+Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, § 2, Feb. 22, 2018, 132 Stat. 328, which is classified to [section 450jj–10 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-10).
 
 #### Compliance With Congressional Budget Act
 Pub. L. 98–398, title II, § 202, Aug. 24, 1984, 98 Stat. 1472, provided that: “Any provision of this title (or any amendment made by this title) [enacting sections 450jj–3 to 450jj–9 of this title and enacting and amending provisions set out as notes under [section 450jj of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj)] which, directly or indirectly, authorizes the enactment of new budget authority described in section 402(a) of the Congressional Budget Act of 1974 [[2 U.S.C. 652(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section652/a&num=0&edition=prelim)] shall be effective only for fiscal years beginning after September 30, 1983.”
@@ -22376,7 +22400,7 @@ The Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461–467](https://uscode.h
 
 <a id="section-450jj-6"></a>
 ## § 450jj–6. Jefferson National Expansion Memorial Commission
-**(a) Establishment** There is hereby established the Jefferson National Expansion Memorial Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the “Commission”).
+**(a) Establishment** There is hereby established the Jefferson National Expansion Memorial 11 See Change of Name note below. Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the “Commission”).
 
 **(b) Composition** The Commission shall be composed of twenty members as follows:
 
@@ -22419,7 +22443,7 @@ Individuals nominated for appointment under paragraphs (14) and (15) shall be in
 
 (1) Except as provided in paragraphs (2) and (3), members of the Commission shall be appointed for terms of three years.
 
-(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)— 11 So in original. Probably should be “subsection (b)—”.
+(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)— 22 So in original. Probably should be “subsection (b)—”.
 
   (A) two shall be appointed for terms of one year;
 
@@ -22434,7 +22458,7 @@ Individuals nominated for appointment under paragraphs (14) and (15) shall be in
 
 **(e) Chairperson** The chairperson of the Commission shall be elected by the members of the Commission.
 
-**(f) Assistance from Federal agencies** Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail any of the personnel or 22 So in original. Probably should be “of”. such agency, or provide administrative services to the Commission to assist the Commission in carrying out the Commission’s duties under [section 450jj–7 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-7).
+**(f) Assistance from Federal agencies** Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail any of the personnel or 33 So in original. Probably should be “of”. such agency, or provide administrative services to the Commission to assist the Commission in carrying out the Commission’s duties under [section 450jj–7 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-7).
 
 **(g) Gifts, bequests, or donations** The Commission may, for the purposes of carrying out the Commission’s duties under [section 450jj–7 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-7), seek, accept, and dispose of gifts, bequests, or donations of money, personal property, or services, received from any source.
 
@@ -22443,6 +22467,11 @@ Individuals nominated for appointment under paragraphs (14) and (15) shall be in
 (1) Except as provided in paragraph (2), the Commission shall terminate on the day occurring ten years after August 24, 1984.
 
 (2) The Secretary of the Interior may extend the life of the Commission for a period of not more than five years beginning on the day referred to in paragraph (1) if the Commission determines that such extension is necessary in order for the Commission to carry out sections 450jj to 450jj–9 of this title.
+
+### Statutory Notes
+
+#### Change of Name
+Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, § 2, Feb. 22, 2018, 132 Stat. 328, which is classified to [section 450jj–10 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-450jj-10).
 
 
 <a id="section-450jj-7"></a>
@@ -24413,6 +24442,9 @@ Subsec. (e). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 137(b)(2)], adde
 
 1972—Subsec. (a). Pub. L. 92–275 increased amount of property authorized to be acquired from one hundred thirty-five to four hundred acres.
 
+#### Gulf Islands National Seashore Land Exchange
+Pub. L. 115–279, Nov. 20, 2018, 132 Stat. 4187, known as the Gulf Islands National Seashore Land Exchange Act, authorized the Secretary of the Interior to exchange certain Federal lands located within the Gulf Islands National Seashore in Jackson County, Mississippi, for non-Federal land identified as “VFW Exchange Area” located in Jackson County, Mississippi, owned by the Veterans of Foreign Wars Post 5699, with the stipulation for equal value exchange and provision for methods of equalizing the exchange, for the conveyance agreement and title approval, and for the modification of the boundary of the Gulf Islands National Seashore to reflect the exchange.
+
 
 <a id="section-459h-10"></a>
 ## § 459h–10. Authorization of appropriations
@@ -25445,7 +25477,7 @@ When in his judgment the public interest will be served thereby, the Secretary o
 ### Statutory Notes
 
 #### References in Text
-The Weeks Law of March 1, 1911 (36 Stat. 961), as amended, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552 and 563 of this title. For complete classification of this Act to the Code, see Short title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+The Weeks Law of March 1, 1911 (36 Stat. 961), referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 
 <a id="section-460a-5"></a>
@@ -25562,6 +25594,179 @@ The Congress finds that—
 
 #### Short Title
 Pub. L. 101–612, § 1, Nov. 16, 1990, 104 Stat. 3209, provided that: “Sections 1 through 14 of this Act [enacting this subchapter, amending [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274), and enacting provisions set out as a note under [section 460bbb–7 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbb-7)] may be cited as the ‘Smith River National Recreation Area Act’.”
+
+
+<a id="section-460bbbb"></a>
+## § 460bbbb. Establishment of Martin Luther King, Jr. National Historical Park
+**(a)** In order to protect and interpret for the benefit, inspiration, and education of present and future generations the places where Martin Luther King, Junior, was born, where he lived, worked, and worshipped, and where he is buried, there is hereby established the Martin Luther King, Jr. National Historical Park in the State of Georgia. The national historical park shall consist of that real property in the city of Atlanta, Georgia, within the boundary generally depicted on the map entitled “Martin Luther King, Jr. National Historical Park Proposed Boundary Revision”, numbered 489/128,786 and dated June 2015, together with the property known as 234 Sunset Avenue, Northwest. The map referred to in this subsection shall be on file and available for public inspection in the local and Washington, District of Columbia offices of the National Park Service, Department of the Interior.
+
+**(b)** In furtherance of the purposes of this subchapter, there is hereby established the Martin Luther King, Junior, Preservation District, which shall consist of the area identified as “Preservation District” in the map referred to in subsection (a) of this section.
+
+### Statutory Notes
+
+#### Codification
+This subchapter is comprised of Pub. L. 96–428, as amended. Pub. L. 96–428 is also listed in a table of National Historic Sites set out under [section 320101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), National Park Service and Related Programs.
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–108 substituted “Martin Luther King, Jr. National Historical Park” for “Martin Luther King, Junior, National Historic Site”, “the map entitled ‘Martin Luther King, Jr. National Historical Park Proposed Boundary Revision’, numbered 489/128,786 and dated June 2015” for “the map entitled ‘Martin Luther King, Junior, National Historic Site Boundary Map’, number 489/80,013B, and dated September 1992”, and “national historical park” for “national historic site”.
+
+1992—Subsec. (a). Pub. L. 102–575 substituted “number 489/80,013B, and dated September 1992” for “numbered NASM/SERO/20, 109–C, and dated May 1980”.
+
+#### Short Title of 2017 Amendment
+Pub. L. 115–108, § 1, Jan. 8, 2018, 131 Stat. 2267, provided that: “This Act [amending this section and sections 460bbbb–1, 460bbbb–2, and 460bbbb–4 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Martin Luther King, Jr. National Historical Park Act of 2017’.
+
+#### Short Title of 2004 Amendment
+Pub. L. 108–314, § 1, Oct. 5, 2004, 118 Stat. 1198, provided that: “This Act [amending [section 460bbbb–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbbb-1) and enacting provisions set out as a note under this section] may be cited as the ‘Martin Luther King, Junior, National Historic Site Land Exchange Act’.”
+
+#### References
+Pub. L. 115–108, § 3, Jan. 8, 2018, 131 Stat. 2267, provided that: “Any reference in a law (other than this Act [See Short Title of 2017 Amendment note above]), map, regulation, document, paper, or other record of the United States to ‘Martin Luther King, Junior, National Historic Site’ shall be deemed to be a reference to ‘Martin Luther King, Jr. National Historical Park’.”
+
+#### Findings and Purpose
+Pub. L. 108–314, § 2, Oct. 5, 2004, 118 Stat. 1198, provided that: “(a) Findings.—Congress finds the following:“(1) Public Law 96–438 [probably means 96–428, enacting this subchapter] established the Martin Luther King, Junior, National Historic Site [now Martin Luther King, Jr. National Historical Park], and allows acquisition, by donation only, of lands owned by the State. “(2) The National Park Service owns a vacant lot that has no historic significance. The City of Atlanta has expressed interest in acquiring this property to encourage commercial development along Edgewood Avenue. “(3) The National Historic Site Visitor Center and Museum is land-locked and has no emergency ingress or egress, making it virtually impossible for firefighting equipment to reach. “(4) The acquisition of city-owned property would enable the National Park Service to establish easy street access to the National Historic Site Visitor Center and Museum, and would benefit the City by exchanging a piece of property that the City could develop. “(b) Purpose.—The purpose of this Act [see Short Title of 2004 Amendment note above] is to authorize the exchange of certain lands within the Martin Luther King, Junior, National Historic Site for lands owned by the City of Atlanta, Georgia.”
+
+
+<a id="section-460bbbb-1"></a>
+## § 460bbbb–1. Administration
+**(a)** The Secretary of the Interior (hereinafter referred to as “the Secretary”) shall administer the Martin Luther King, Jr. National Historical Park and Preservation District in accordance with the provisions of this Act, and the provisions of law generally applicable to national historic sites,11 So in original. Probably should be “to the National Park System,”. including the Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4) and the Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461–7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–7&num=0&edition=prelim)).
+
+**(b)**
+
+(1) Within the national historical park the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer, or exchange, lands and interests therein, except that property owned by the State of Georgia or any political subdivision thereof may be acquired only by donation or exchange.
+
+(2) Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part, by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
+
+  (A) the Secretary may acquire such property in accordance with the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
+
+  (B) with respect to properties owned by the Center for Social Change, the Secretary shall have the first right of refusal to purchase such property for a purchase price not exceeding the fair market value of such property on the date it is offered for sale.
+
+(3) Property may be acquired pursuant to this section subject to such conditions and reservations as in the judgment of the Secretary are not inconsistent with the purposes of this subchapter and the administration of the national historical park, including, in the event that the burial site of Martin Luther King, Junior, is acquired, the condition that his widow may be interred therein.
+
+(4) Any and all legal or equitable title, interests, or encumbrances, if any, held by the Department of Housing and Urban Development in the property designated “Parcel A” on the map referenced in [section 460bbbb of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbbb) are hereby conveyed to the Secretary to be administered in accordance with the purposes of this subchapter.
+
+(5) Structural space requirements of the National Park Service to meet its administrative, operational, and interpretive functions for the national historical park and preservation district shall, to the maximum extent feasible without displacing residents, be met within the district through the adaptive use of existing structures.
+
+### Statutory Notes
+
+#### References in Text
+The Act of August 25, 1916, referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, popularly known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+The Act of August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–108, § 2(2), substituted “Martin Luther King, Jr. National Historical Park” for “Martin Luther King, Junior, National Historic Site”.
+
+Subsec. (b). Pub. L. 115–108, § 2(3), substituted “national historical park” for “national historic site” wherever appearing.
+
+2004—Subsec. (b)(1). Pub. L. 108–314 inserted “or exchange” before period at end.
+
+
+<a id="section-460bbbb-2"></a>
+## § 460bbbb–2. Authority of Secretary regarding property and concessions
+**(a)** Within the national historical park, the Secretary may convey a freehold or leasehold interest in any property, for such sums as he deems appropriate, and subject to such terms and conditions and reservations as will assure the use of the property in a manner which is, in the judgment of the Secretary, consistent with the purposes of this subchapter and the administration of the national historical park. The Secretary shall offer the last owner or tenant of record a reasonable opportunity to purchase or lease, as appropriate, the property proposed to be conveyed prior to any conveyance under this subsection, and in the case of a lease to such tenant of record, the initial rental charge shall not be substantially more than the last rent paid by the tenant for that property, with any future increases not to exceed the general escalation of rental rates in the surrounding area.
+
+**(b)** The Secretary may enter into cooperative agreements with the owners of properties of historical or cultural significance as determined by the Secretary, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement. The authorities in this subsection shall also be available to the Secretary with respect to properties within the Martin Luther King, Junior, Preservation District.
+
+**(c)** The Secretary may, in carrying out his authorities with respect to the interpretation of properties within the national historical park and the preservation district, accept the services and assistance, with or without reimbursement therefor, of qualified persons and entities to the extent he deems necessary and appropriate. Funds appropriated for the purposes of this subchapter may be expended for the improvement, restoration, and maintenance of properties in which the Secretary has acquired a leasehold interest.
+
+**(d)** Notwithstanding any other provision of law, the Secretary shall give first preference to the Martin Luther King, Junior, Center for Social Change with respect to any contract for a concession to sell books, postcards, tapes, or similar types of appropriate mementos related to the purposes of this subchapter, on facilities operated and maintained by the Secretary within the historical park: Provided, That agreement can be reached on terms and conditions acceptable to the Secretary.
+
+**(e)** The Secretary is authorized to take only such actions within and upon the grounds of the Ebenezer Baptist Church as will directly support appropriate public visitation to and within the church in accordance with the purposes of this subchapter, or which will assist in the maintenance or preservation of those portions of said church which are directly related to the purposes of this subchapter.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsecs. (a), (c). Pub. L. 115–108, § 2(3), substituted “national historical park” for “national historic site” wherever appearing.
+
+Subsec. (d). Pub. L. 115–108, § 2(4), substituted “historical park” for “historic site”.
+
+
+<a id="section-460bbbb-3"></a>
+## § 460bbbb–3. Establishment of Advisory Commission
+**(a)** There is hereby established the Martin Luther King, Junior, National Historic Site Advisory Commission (hereinafter referred to in this section as the “Commission”). The Commission shall consist of thirteen members, eleven of whom shall be appointed by the Secretary as follows:
+
+(1) three members appointed for terms of three years from recommendations submitted by the governing body of the Martin Luther King, Junior, Center for Social Change;
+
+(2) two members appointed for terms of four years from recommendations submitted by the Governor of the State of Georgia, one of whom shall have professional expertise in historic preservation matters;
+
+(3) two members appointed for terms of five years from recommendations submitted by the mayor of the city of Atlanta, Georgia, one of whom shall represent the economic and cultural interests of the Sweet Auburn Historic District;
+
+(4) one member appointed for a term of five years from recommendations submitted by the governing body of the Ebenezer Baptist Church;
+
+(5) the Chairman of the Atlanta Urban Design Commission and one additional member from the Commission to be chosen by the Commission; and
+
+(6) one member, appointed for a term of five years by the Secretary, who shall chair the Commission. In addition to the foregoing members, Mrs. Coretta Scott King, or such other appropriate family member as may be designated by the immediate family of Martin Luther King, Junior, and the Director of the National Park Service shall be ex officio members of the Commission.
+
+**(b)** Any vacancy in the membership of the Commission shall be filled in the same manner in which the original appointment was made. Members of the Commission shall serve without compensation as such, but the Secretary may pay expenses of Commission members reasonably incurred by them in carrying out their responsibilities under this section upon presentation of vouchers signed by the chair of the Commission. Necessary administrative services and expenses shall be provided to the Commission by the Department of the Interior.
+
+**(c)** The function of the Commission shall be to:
+
+(1) advise the Secretary with respect to the formulation and execution of plans for and the overall administration of the national historic site and the preservation district, including advice with respect to the consummation of cooperative agreements, and interpretation of properties, and the use and appreciation of the national historic site and the preservation district by the public;
+
+(2) prepare a generalized impact area plan for a one-mile radius outside the District which shall examine overall community development goals, plans, and efforts within that area, including historic preservation, transportation, parking, housing, urban revitalization, and parks and recreation functions, in order to maximize beneficial relationships between these goals, plans, and efforts and the district herein established; and
+
+(3) prepare, on the basis of the findings and recommendations of the impact area plan required by the preceding paragraph, a detailed development plan for the neighborhoods and outlying commercial areas immediately outside the district for such development, conservation, preservation, rehabilitation activities and transportation, parking, and land use planning as would complement and enhance the District and the purposes for which the District is established.
+
+**(d)** The Secretary is directed to provide the appropriate planning agency of the city of Atlanta an amount of the local planning funds authorized by [section 460bbbb–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbbb-5) sufficient for that agency to provide such staff and technical assistance to the Advisory Commission as are required for it to develop the plans required by subsection (c) of this section. Such plans, prepared in full coordination with and opportunities for participation by, all relevant public agencies and private groups, shall be delivered to the Secretary in a timely fashion for use in preparing the general management plan for the district.
+
+**(e)** The Commission shall terminate ten years from the effective date of this Act.
+
+### Statutory Notes
+
+#### References in Text
+The effective date of this Act, referred to in subsec. (e), probably means the date of enactment of Pub. L. 96–428, which was approved Oct. 10, 1980.
+
+#### Codification
+Pub. L. 115–108, which amended this subchapter by substituting references to the Martin Luther King, Jr. National Historical Park for references to the Martin Luther King, Junior, National Historic Site, effective Jan. 8, 2018, was not executed to this section in view of the termination of the Martin Luther King, Junior, National Historic Site Advisory Commission ten years after Oct. 10, 1980, pursuant to subsec. (e) of this section.
+
+
+<a id="section-460bbbb-4"></a>
+## § 460bbbb–4. Entrance or admission fees prohibited
+
+Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to the national historical park or the preservation district established by this subchapter.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–108 substituted “national historical park” for “national historic site”.
+
+
+<a id="section-460bbbb-5"></a>
+## § 460bbbb–5. Authorization of appropriations; limitation on authority
+
+Effective October 1, 1980, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter. Notwithstanding any other provision of this subchapter, authority to enter into contracts, to incur obligations, or to make payments under this subchapter shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.
+
+### Statutory Notes
+
+#### Amendments
+1992—Pub. L. 102–575 struck out “, but not to exceed $1,000,000 for development, $100,000 for local planning, and $3,500,000 for the acquisition of lands and interests therein” before period at end of first sentence.
+
+
+<a id="section-460bbbb-6"></a>
+## § 460bbbb–6. Minimizing adverse impacts on preservation district
+**(a)** In order to better integrate the east and west portions of the Martin Luther King, Junior, Preservation District, the Federal Highway Administration, in cooperation with the Georgia Department of Transportation, is hereby directed to insure that any design and reconstruction of the North Interstate 85 and Interstate 75 Expressway over Auburn and Edgewood Avenues in the city of Atlanta, Georgia, and the interchange at Edgewood Avenue, shall minimize the adverse impacts on the preservation district.
+
+**(b)** In carrying out the provisions of this subsection, the Federal Highway Administration shall require that, where feasible, any major change required for the Auburn Avenue overpass results in a design which permits a wider distance between overpass support structures and the disposition of understructure development rights for appropriate business or recreation uses.
+
+**(c)** Plans for the construction, exterior renovation, or demolition of any structure or change in land use within the preservation district by the National Park Service or any Federal agency must be submitted to the Atlanta Urban Design Commission in a timely fashion for its review and comment.
+
+
+<a id="section-460bbbb-7"></a>
+## § 460bbbb–7. Submission of comprehensive general management plan
+
+Within three complete fiscal years from the effective date of this Act, the Secretary shall submit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a comprehensive general management plan for the historic site and the preservation district consistent with the provisions of this subchapter and pursuant to the provisions of section 12(b) 11 See References in Text note below. of the Act of August 18, 1970 (84 Stat. 825), as amended (16 U.S.C. la–1 et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The effective date of this Act, referred to in text, probably means the date of enactment of Pub. L. 96–428, which was approved Oct. 10, 1980.
+
+Section 12(b) of the Act of August 18, 1970, referred to in text, is section 12(b) of Pub. L. 91–383, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1943, which was formerly classified to [section 1a–7(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim) and was repealed and restated in [section 100502 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim), National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3098, 3272.
+
+#### Codification
+Pub. L. 115–108, which amended this subchapter by substituting references to the “historical park” for references to the “historic site”, effective Jan. 8, 2018, was not executed to this section in view of the requirement to submit the management plan for the historic site within three complete fiscal years from Oct. 10, 1980.
+
+#### Change of Name
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 
 <a id="section-460bbb-1"></a>
@@ -26147,6 +26352,98 @@ For the purposes of this subchapter, the term—
 
 #### Short Title
 Pub. L. 101–621, § 1, Nov. 16, 1990, 104 Stat. 3342, provided that: “This Act [enacting this subchapter] may be cited as the ‘Red Rock Canyon National Conservation Area Establishment Act of 1990’.”
+
+
+<a id="section-460cccc"></a>
+## § 460cccc. Ste. Genevieve National Historical Park
+**(a) Definitions** In this section:
+
+(1) **Historic District** — The term “Historic District” means the Ste. Genevieve Historic District National Historic Landmark, as generally depicted on the Map.
+
+(2) **Historical Park** — The term “Historical Park” means the Ste. Genevieve National Historical Park established by subsection (b).
+
+(3) **Map** — The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary”, numbered 571/132,626, and dated May 2016.
+
+(4) **Special resource study** — The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
+
+(5) **State** — The term “State” means the State of Missouri.
+
+**(b) Establishment**
+
+(1) **In general** — Subject to paragraph (2), there is established the Ste. Genevieve National Historical Park in the State as a unit of the National Park System to preserve, protect, and interpret for the benefit of present and future generations the themes of French settlement, vernacular architecture, and community form and farming on the frontier associated with Ste. Genevieve.
+
+(2) **Conditions for establishment** — The Historical Park shall not be established until the date on which the Secretary determines that—
+
+  (A) sufficient land has been acquired for the Historical Park to constitute a manageable unit; and
+
+  (B) the Secretary has entered into a written agreement providing that land owned by the State, the City of Ste. Genevieve, or other entity within the Historic District shall be managed consistent with the purposes of this section.
+
+**(c) Boundaries** The boundaries of the Historical Park shall be the boundaries generally depicted on the Map.
+
+**(d) Availability of Map** The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+**(e) Acquisition authority**
+
+(1) **In general** — The Secretary may acquire any land or interest in land located within the boundary of the Historical Park or any nationally significant property identified in the special resource study within the Historic District by—
+
+  (A) donation;
+
+  (B) purchase with donated or appropriated funds; or
+
+  (C) exchange.
+
+(2) **Boundary revision** — On the acquisition of any property within the Historic District under paragraph (1), the Secretary shall revise the boundary of the Historical Park to include the property.
+
+**(f) Administration**
+
+(1) **In general** — The Secretary shall administer the Historical Park in accordance with—
+
+  (A) this section; and
+
+  (B) the laws generally applicable to units of the National Park System, including—
+
+    (i) section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54; and
+
+    (ii) chapter 3201 of title 54.
+
+(2) **Management plan**
+
+  (A) *In general* — Not later than 3 years after the date on which funds are made available to prepare a general management plan for the Historical Park, the Secretary shall prepare the general management plan in accordance with [section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim).
+
+  (B) *Submission to Congress* — On completion of the general management plan under subparagraph (A), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate the general management plan.
+
+(3) **Related sites** — The Secretary may provide interpretative tours and educational programs at related historic and cultural sites within the Historic District associated with the purposes for which the Historical Park is established.
+
+**(g) Cooperative agreements**
+
+(1) **In general** — The Secretary may provide technical assistance and enter into cooperative agreements with the owner of a nationally significant property within the Historical Park or the Historic District, to identify, mark, interpret, improve, and restore the property.
+
+(2) **Right of access** — A cooperative agreement entered into under paragraph (1) shall provide that the Secretary, acting through the Director of the National Park Service, shall have the right of access at all reasonable times to all public portions of the property covered by the agreement for the purposes of—
+
+  (A) conducting visitors through the property; and
+
+  (B) interpreting the property for the public.
+
+(3) **Cost-sharing requirement**
+
+  (A) *Federal share* — The Federal share of the total cost of any activity carried out under a cooperative agreement entered into under this subsection shall be not more than 50 percent.
+
+  (B) *Form of non-Federal share* — The non-Federal share of an activity carried out under a cooperative agreement entered into under this subsection may be in the form of donated property, goods, or services fairly valued.
+
+(4) **Changes or alterations** — No changes or alterations shall be made to any property or project covered by a cooperative agreement entered into under paragraph (1) unless the Secretary and the other party to the agreement agree to the changes or alterations.
+
+(5) **Conversion, use, or disposal** — Any payment by the Secretary under this subsection shall be subject to an agreement that the conversion, use, or disposal of a property or project for purposes contrary to the purposes of this section, as determined by the Secretary, shall entitle the United States to reimbursement in any amount equal to the greater of—
+
+  (A) the amounts made available to the property or project by the United States; or
+
+  (B) the portion of the increased value of the property or project attributable to the amounts made available under this subsection, as determined at the time of the conversion, use, or disposal.
+
+**(h) Limited role of the Secretary** Nothing in this section authorizes the Secretary to assume overall financial responsibility for the operation, maintenance, or management of the Historic District.
+
+### Statutory Notes
+
+#### Codification
+Section is based on section 7134 of S. 1460, One Hundred Fifteenth Congress, as placed on the calendar of the Senate on June 29, 2017, which was enacted into law by Pub. L. 115–141.
 
 
 <a id="section-460ccc-1"></a>
@@ -29111,7 +29408,7 @@ The purposes of this subchapter are—
 ### Statutory Notes
 
 #### References in Text
-Act of March 1, 1911, referred to in subsec. (b), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+Act of March 1, 1911, referred to in subsec. (b), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 The National Forest System Drug Control Act of 1986, referred to in subsec. (c), is title XV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–191, which enacted sections 559b to 559g of this title, amended [section 841 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841&num=0&edition=prelim), Food and Drugs, and enacted provisions set out as a note under [section 559b of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-559b). For complete classification of title XV to the Code, see Short Title note set out under [section 559b of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-559b) and Tables.
 
@@ -30219,14 +30516,14 @@ Section was enacted as part of the Agricultural Reconciliation Act of 1993 and a
 
 ### Statutory Notes
 
-#### Repeals
-Section repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to the National Park System. See [section 100905 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100905&num=0&edition=prelim), National Park Service and Related Programs.
-
 #### Codification
 Section was not enacted as part of the Land and Water Conservation Fund Act of 1965.
 
 #### Amendments
 2014—Pub. L. 113–287, § 4(c), amended section generally. Prior to amendment, section related to commercial filming with respect to lands under the jurisdiction of the Secretaries of the Interior and Agriculture.
+
+#### Repeals
+Section repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to the National Park System. See [section 100905 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100905&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-460l-7"></a>
@@ -34893,7 +35190,7 @@ The Secretary shall cooperate with other Federal agencies, with State and local 
 ### Statutory Notes
 
 #### References in Text
-Act of March 1, 1911, commonly referred to as the Weeks Law, referred to in subsec. (d), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
+Act of March 1, 1911, referred to in subsec. (d), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-552) and Tables.
 
 #### Codification
 In subsec. (d), “[section 200306(a)(2) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/2&num=0&edition=prelim)” substituted for “section 7(a)(1) of the Land and Water Conservation Fund Act of 1965” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

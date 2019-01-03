@@ -2,7 +2,7 @@
 title: 25
 chapter: '4'
 heading: PERFORMANCE BY UNITED STATES OF OBLIGATIONS TO INDIANS
-section_count: 81
+section_count: 82
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -569,7 +569,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 <a id="section-140"></a>
 ## § 140. Diversion of appropriations for employees and supplies
 
-The several appropriations made for millers, blacksmiths, engineers, carpenters, physicians, and other persons, and for various articles provided for by treaty stipulation for the several Indian tribes, may be diverted to other uses for the benefit of said tribes, respectively, within the discretion of the President, and with the consent of said tribes, expressed in the usual manner; and he shall cause report to be made to Congress, at its next session thereafter of his action under this provision.
+The several appropriations made for millers, blacksmiths, engineers, carpenters, physicians, and other persons, and for various articles provided for by treaty stipulation for the several Indian tribes, may be diverted to other uses for the benefit of said tribes, respectively, within the discretion of the President, and with the consent of said tribes, expressed in the usual manner; and he shall cause report to be made to Congress, at its next session thereafter, of his action under this provision.
 
 ### Statutory Notes
 
@@ -988,3 +988,22 @@ The activities of the Department of the Interior associated with the Department�
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-167"></a>
+## § 167. Trust status of lease payments
+**(a) Definition of Secretary** In this section, the term “Secretary” means the Secretary of the Interior.
+
+**(b) Treatment of lease payments**
+
+(1) **In general** — Except as provided in paragraph (2) and at the request of the Indian tribe or individual Indian, any advance payments, bid deposits, or other earnest money received by the Secretary in connection with the review and Secretarial approval under any other Federal law (including regulations) of a sale, lease, permit, or any other conveyance of any interest in any trust or restricted land of any Indian tribe or individual Indian shall, upon receipt and prior to Secretarial approval of the contract or conveyance instrument, be held in the trust fund system for the benefit of the Indian tribe and individual Indian from whose land the funds were generated.
+
+(2) **Restriction** — If the advance payment, bid deposit, or other earnest money received by the Secretary results from competitive bidding, upon selection of the successful bidder, only the funds paid by the successful bidder shall be held in the trust fund system.
+
+**(c) Use of funds**
+
+(1) **In general** — On the approval of the Secretary of a contract or other instrument for a sale, lease, permit, or any other conveyance described in subsection (b)(1), the funds held in the trust fund system and described in subsection (b), along with all income generated from the investment of those funds, shall be disbursed to the Indian tribe or individual Indian landowners.
+
+(2) **Administration** — If a contract or other instrument for a sale, lease, permit, or any other conveyance described in subsection (b)(1) is not approved by the Secretary, the funds held in the trust fund system and described in subsection (b), along with all income generated from the investment of those funds, shall be paid to the party identified in, and in such amount and on such terms as set out in, the applicable regulations, advertisement, or other notice governing the proposed conveyance of the interest in the land at issue.
+
+**(d) Applicability** This section shall apply to any advance payment, bid deposit, or other earnest money received by the Secretary in connection with the review and Secretarial approval under any other Federal law (including regulations) of a sale, lease, permit, or any other conveyance of any interest in any trust or restricted land of any Indian tribe or individual Indian on or after December 18, 2018.

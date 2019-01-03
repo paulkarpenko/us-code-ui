@@ -648,6 +648,8 @@ Subsec. (l). Pub. L. 104–304, § 4(f), added subsec. (l).
 Pub. L. 114–183, § 18, June 22, 2016, 130 Stat. 527, provided that: “Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall— “(1) consider the impact of a discharge into or on navigable waters or adjoining shorelines, including those that may be covered in whole or in part by ice; and “(2) include procedures and resources for responding to such discharge in the plan.”
 
 #### Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 1001, provided in part: “That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans within 5 days of enactment of this Act [Mar. 23, 2018].”
+
 Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 752, provided in part: “That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans no later than August 1, 2017”.
 
 Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2861, provided in part: “That no later than 90 days after the date of enactment of this Act [Dec. 18, 2015], the Secretary of Transportation shall initiate a rulemaking to expand the applicability of comprehensive oil spill response plans, and shall issue a final rule no later than one year after the date of enactment of this Act.”

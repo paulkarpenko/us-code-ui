@@ -70,6 +70,11 @@ Guidelines issued by the Attorney General under this subchapter shall have the f
 
 This chapter shall not impair or affect the ability of a government officer or employee, pursuant to otherwise applicable law, to conduct searches and seizures at the borders of, or at international points of, entry into the United States in order to enforce the customs laws of the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the section is effective one year from Oct. 13, 1980, see section 108 of Pub. L. 96–440, set out as a note under [section 2000aa of this title](./chapter-21a-privacy-protection.md#section-2000aa).
+
 
 <a id="section-2000aa-6"></a>
 ## § 2000aa–6. Civil actions by aggrieved persons
@@ -93,6 +98,11 @@ This chapter shall not impair or affect the ability of a government officer or e
 
 **(h) Jurisdiction** The district courts shall have original jurisdiction of all civil actions arising under this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the section is effective one year from Oct. 13, 1980, see section 108 of Pub. L. 96–440, set out as a note under [section 2000aa of this title](./chapter-21a-privacy-protection.md#section-2000aa).
+
 
 <a id="section-2000aa-7"></a>
 ## § 2000aa–7. Definitions
@@ -107,3 +117,8 @@ This chapter shall not impair or affect the ability of a government officer or e
 (3) include mental impressions, conclusions, opinions, or theories of the person who prepared, produced, authored, or created such material.
 
 **(c)** “Any other governmental unit”, as used in this chapter, includes the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any local government, unit of local government, or any unit of State government.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the section is effective one year from Oct. 13, 1980, see section 108 of Pub. L. 96–440, set out as a note under [section 2000aa of this title](./chapter-21a-privacy-protection.md#section-2000aa).

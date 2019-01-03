@@ -452,11 +452,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 (2) whose condition or whose equipment’s condition does not substantially agree with the particulars of the certificate onboard;
 shall be detained by order of the Secretary at the port or terminal where the violation is discovered until, in the opinion of the Secretary, the ship can proceed to sea without presenting an unreasonable threat of harm to the marine environment or the public health and welfare. The detention order may authorize the ship to proceed to the nearest appropriate available shipyard rather than remaining at the place where the violation was discovered.
 
-**(f) Ship clearance or permits; refusal or revocation** If a ship is under a detention order under this section, the Secretary of the Treasury, upon the request of the Secretary, may refuse or revoke—
-
-(1) the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim); or
-
-(2) a permit to proceed under section 4367 of the Revised Statutes of the United States ([46 U.S.C. 313](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section313&num=0&edition=prelim)) 11 See References in Text note below. or section 1443 22 See Codification note below. of title 19.
+**(f) Ship clearance; refusal or revocation** If a ship is under a detention order under this section, the Secretary may refuse or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim).
 
 **(g) Review of detention orders; petition; determination by Secretary** A person whose ship is subject to a detention order under this section may petition the Secretary, in the manner prescribed by regulation, to review the detention order. Upon receipt of a petition under this subsection, the Secretary shall affirm, modify, or withdraw the detention order within the time prescribed by regulation.
 
@@ -464,15 +460,9 @@ shall be detained by order of the Secretary at the port or terminal where the vi
 
 ### Statutory Notes
 
-#### References in Text
-Section 4367 of the Revised Statutes of the United States ([46 U.S.C. 313](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section313&num=0&edition=prelim)), referred to in subsec. (f)(2), was classified to section 313 of the former Appendix to Title 46, Shipping, prior to repeal by Pub. L. 103–182, title VI, § 690(a)(21), Dec. 8, 1993, 107 Stat. 2223.
-
-#### Codification
-In subsec. (f)(1), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States, as amended ([46 U.S.C. 91](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section91&num=0&edition=prelim))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
-
-[Section 1443 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1443&num=0&edition=prelim), referred to in subsec. (f)(2), was in the original section 442 of the Tariff Act of 1930, as amended ([19 U.S.C. 1443](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1443&num=0&edition=prelim)). Although section 442 of the Tariff Act of 1930, June 17, 1930, ch. 497, title IV, 46 Stat. 713, is classified to [section 1442 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1442&num=0&edition=prelim), Customs Duties, the reference was translated as meaning section 443 of the Tariff Act of 1930, which was classified to [section 1443 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1443&num=0&edition=prelim) prior to repeal by Pub. L. 103–182, title VI, § 690(b)(6), Dec. 8, 1993, 107 Stat. 2223.
-
 #### Amendments
+2018—Subsec. (f). Pub. L. 115–232 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to refusal or revocation of ship clearance or permits.
+
 2008—Subsec. (a). Pub. L. 110–280, § 6(1), substituted “Except as provided in [section 1903(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1903/b/1&num=0&edition=prelim), the Secretary” for “The Secretary”.
 
 Subsec. (b). Pub. L. 110–280, § 6(2), substituted “Secretary or the Administrator under the authority of this chapter.” for “Secretary under the authority of the MARPOL Protocol.”

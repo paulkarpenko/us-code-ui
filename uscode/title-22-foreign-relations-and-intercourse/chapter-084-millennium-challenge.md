@@ -111,7 +111,17 @@ Committee on International Relations of House of Representatives changed to Comm
 
   (A) *Officers of the Federal Government* — Each member of the Board described in paragraph (3)(A) shall serve for a term that is concurrent with the term of service of the individual’s position as an officer within the other Federal department or agency.
 
-  (B) *Other members* — Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years.
+  (B) *Other members* — Each member of the Board described in paragraph (3)(B)—
+
+    (i) shall be appointed for a term of 3 years;
+
+    (ii) may be reappointed for a term of an additional 2 years; and
+
+    (iii) may continue to serve in each such appointment until the earlier of—
+
+      (I) the date on which his or her successor is appointed; or
+
+      (II) the date that is 1 year after the expiration of his or her appointment or reappointment, as the case may be.
 
   (C) *Vacancies* — A vacancy in the Board shall be filled in the manner in which the original appointment was made.
 
@@ -146,6 +156,9 @@ This chapter, referred to in subsecs. (a) and (c)(2), (8)(B)(i)(I), was in the o
 
 #### Codification
 Section is comprised of section 604 of div. D of Pub. L. 108–199. Subsec. (b)(4)(B) of section 604 of div. D of Pub. L. 108–199 amended [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2018—Subsec. (c)(4)(B). Pub. L. 115–167 amended subpar. (B) generally. Prior to amendment, text read as follows: “Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years.”
 
 
 <a id="section-7704"></a>
@@ -194,37 +207,68 @@ The provisos of Public Law 108–7, referred to in subsec. (e)(4), are contained
 
   (A) the country is eligible for assistance from the International Development Association, and the per capita income of the country is equal to or less than the historical ceiling of the International Development Association for that year, as defined by the International Bank for Reconstruction and Development; and
 
-  (B) subject to paragraph (3), the country is not ineligible to receive United States economic assistance under part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] by reason of the application of any provision of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] or any other provision of law.
+  (B) subject to paragraph (4), the country is not ineligible to receive United States economic assistance under part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] by reason of the application of any provision of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] or any other provision of law.
 
-(2) **Fiscal year 2005 and subsequent fiscal years** — A country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2005 or a subsequent fiscal year if—
+(2) **Fiscal years 2005 through 2012** — A country shall be a candidate country for purposes of eligibility for assistance for each of fiscal years 2005 through 2012 if—
 
   (A) the per capita income of the country is equal to or less than the historical ceiling of the International Development Association for the fiscal year involved, as defined by the International Bank for Reconstruction and Development; and
 
   (B) the country meets the requirements of paragraph (1)(B).
 
-(3) **Rule of construction** — For the purposes of determining whether a country is eligible for receiving assistance under [section 7704 of this title](./chapter-084-millennium-challenge.md#section-7704) pursuant to paragraph (1)(B), the exercise by the President, the Secretary of State, or any other officer or employee of the United States of any waiver or suspension of any provision of law referred to in such paragraph, and notification to the appropriate congressional committees in accordance with such provision of law, shall be construed as satisfying the requirement of such paragraph.
+(3) **Fiscal year 2013 and subsequent fiscal years** — A country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2013 or a subsequent fiscal year if the country—
+
+  (A) has a per capita income not greater than the lower middle income country threshold established by the International Bank for Reconstruction and Development for such fiscal year;
+
+  (B) is among the 75 countries identified by the International Bank for Reconstruction and Development as having the lowest per capita income; and
+
+  (C) meets the requirements under paragraph (1)(B).
+
+(4) **Rule of construction** — For the purposes of determining whether a country is eligible for receiving assistance under [section 7704 of this title](./chapter-084-millennium-challenge.md#section-7704) pursuant to paragraph (1)(B), the exercise by the President, the Secretary of State, or any other officer or employee of the United States of any waiver or suspension of any provision of law referred to in such paragraph, and notification to the appropriate congressional committees in accordance with such provision of law, shall be construed as satisfying the requirement of such paragraph.
 
 **(b) Lower middle income countries**
 
-(1) **In general** — In addition to countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2006 or a subsequent fiscal year if the country—
+(1) **Fiscal years 2006 through 2012** — In addition to countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal years 2006 through 2012 if the country—
 
   (A) is classified as a lower middle income country in the then most recent edition of the World Development Report for Reconstruction and Development published by the International Bank for Reconstruction and Development and has an income greater than the historical ceiling for International Development Association eligibility for the fiscal year involved; and
 
   (B) meets the requirements of subsection (a)(1)(B).
 
-(2) **Limitation** — The total amount of assistance provided to countries described in paragraph (1) for fiscal year 2006 or any subsequent fiscal year may not exceed 25 percent of the total amount of assistance provided to all countries under [section 7704 of this title](./chapter-084-millennium-challenge.md#section-7704) for fiscal year 2006 or the subsequent fiscal year, as the case may be.
+(2) **Fiscal year 2013 and subsequent fiscal years** — In addition to the countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2013 or a subsequent fiscal year if the country—
 
-**(c) Identification by the Board** The Board shall identify whether a country is a candidate country for purposes of this section.
+  (A) has a per capita income not greater than the lower middle income country threshold established by the International Bank for Reconstruction and Development for the fiscal year;
+
+  (B) is not among the 75 countries identified by the International Bank for Reconstruction and Development as having the lowest per capita income; and
+
+  (C) meets the requirements under subsection (a)(1)(B).
+
+(3) **Limitation** — The total amount of assistance provided to countries described in paragraph (1) for fiscal year 2006 or any subsequent fiscal year may not exceed 25 percent of the total amount of assistance provided to all countries under [section 7704 of this title](./chapter-084-millennium-challenge.md#section-7704) for fiscal year 2006 or the subsequent fiscal year, as the case may be.
+
+**(c) Treatment of countries with per capita income changes** A country qualifying for candidate status under this section with a per capita income that changes during the fiscal year such that the country would be reclassified from a low income country to a lower middle income country or from a lower middle income country to a low income country shall retain its candidacy status in its former income classification for such fiscal year and the 2 subsequent fiscal years.
+
+**(d) Identification by the Board** The Board shall identify whether a country is a candidate country for purposes of this section.
 
 ### Statutory Notes
 
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
+#### Amendments
+2018—Subsec. (a)(1)(B). Pub. L. 115–167, § 201(a)(1), substituted “(4)” for “(3)”.
+
+Subsec. (a)(2). Pub. L. 115–167, § 201(a)(2), substituted “Fiscal years 2005 through 2012” for “Fiscal year 2005 and subsequent fiscal years” in heading and “each of fiscal years 2005 through 2012” for “fiscal year 2005 or a subsequent fiscal year” in introductory provisions.
+
+Subsec. (a)(3), (4). Pub. L. 115–167, § 201(a)(3), (4), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (b)(1). Pub. L. 115–167, § 201(b)(1), substituted “Fiscal years 2006 through 2012” for “In general” in heading and “fiscal years 2006 through 2012” for “fiscal year 2006 or a subsequent fiscal year” in introductory provisions.
+
+Subsec. (b)(2), (3). Pub. L. 115–167, § 201(b)(2), (3), added par. (2) and redesignated former par. (2) as (3).
+
+Subsecs. (c), (d). Pub. L. 115–167, § 201(c), added subsec. (c) and redesignated former subsec. (c) as (d).
+
 
 <a id="section-7706"></a>
 ## § 7706. Eligible countries
-**(a) Determination by the Board** The Board shall determine whether a candidate country is an eligible country for purposes of this section. Such determination shall be based, to the maximum extent possible, upon objective and quantifiable indicators of a country’s demonstrated commitment to the criteria in subsection (b), and shall, where appropriate, take into account and assess the role of women and girls.
+**(a) Determination by the Board** The Board shall determine whether a candidate country is an eligible country for purposes of this section. Such determination shall be based, to the maximum extent possible, upon objective and quantifiable indicators of a country’s demonstrated commitment to the criteria in subsection (b), and shall, where appropriate, take into account and assess the role of women and girls. A determination whether a country is eligible for a subsequent, non-concurrent Millennium Challenge Compact shall also be based, to the extent practicable, on significantly improved performance across the criteria in subsection (b) that, at a minimum, are relevant to the preceding Compact, compared to the country’s performance with respect to such criteria when selected for such preceding Compact.
 
 **(b) Criteria** A candidate country should be considered to be an eligible country for purposes of this section if the Board determines that the country has demonstrated a commitment to—
 
@@ -236,9 +280,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(1)(B), is Pub. L.
 
   (C) protect private property rights;
 
-  (D) encourage transparency and accountability of government; and
+  (D) encourage transparency and accountability of government;
 
-  (E) combat corruption;
+  (E) combat corruption; and
+
+  (F) the quality of the civil society enabling environment;
 
 (2) economic freedom, including a demonstrated commitment to economic policies that—
 
@@ -270,9 +316,21 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(1)(B), is Pub. L.
 
   (C) The availability of amounts to carry out this chapter.
 
-**(d) Establishment of criteria and methodology** The criteria and methodology submitted by the Board to Congress and published in the Federal Register under [section 7707(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7707/b/2&num=0&edition=prelim) with respect to a fiscal year shall remain fixed for purposes of eligibility determinations for such year.
+**(d) Reporting on treatment of civil society** For the 7-year period beginning on April 23, 2018, before the Board selects an eligible country for a Compact under subsection (c), the Corporation shall provide information to the Board regarding the country’s treatment of civil society, including classified information, as appropriate. The information shall include an assessment and analysis of factors including—
 
-**(e) Annual modification of criteria and methodology** As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with [section 7707(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7707/b&num=0&edition=prelim).
+(1) any relevant laws governing the formation or establishment of a civil society organization, particularly laws intended to curb the activities of foreign civil society organizations;
+
+(2) any relevant laws governing the operations of a civil society organization, particularly those laws seeking to define or otherwise regulate the actions of foreign civil society organizations;
+
+(3) laws relating to the legal status of civil society organizations, including laws which effectively discriminate against foreign civil society organizations as compared to similarly situated domestic organizations;
+
+(4) laws regulating the freedom of expression and peaceful assembly; and
+
+(5) laws regulating the usage of the Internet, particularly by foreign civil society organizations.
+
+**(e) Establishment of criteria and methodology** The criteria and methodology submitted by the Board to Congress and published in the Federal Register under [section 7707(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7707/b/2&num=0&edition=prelim) with respect to a fiscal year shall remain fixed for purposes of eligibility determinations for such year.
+
+**(f) Annual modification of criteria and methodology** As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with [section 7707(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7707/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -280,6 +338,12 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(1)(B), is Pub. L.
 This chapter, referred to in subsec. (c)(2)(C), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title](./chapter-084-millennium-challenge.md#section-7701) and Tables.
 
 #### Amendments
+2018—Subsec. (a). Pub. L. 115–167, § 203(1), inserted at end “A determination whether a country is eligible for a subsequent, non-concurrent Millennium Challenge Compact shall also be based, to the extent practicable, on significantly improved performance across the criteria in subsection (b) that, at a minimum, are relevant to the preceding Compact, compared to the country’s performance with respect to such criteria when selected for such preceding Compact.”
+
+Subsec. (b)(1)(F). Pub. L. 115–167, § 203(2), added subpar. (F).
+
+Subsecs. (d) to (f). Pub. L. 115–167, § 203(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
 2007—Subsec. (b)(2)(B). Pub. L. 110–161, § 699I(a)(1), struck out “and the sustainable management of natural resources” after “growth”.
 
 Subsec. (b)(3)(C). Pub. L. 110–161, § 699I(a)(2), added subpar. (C).
@@ -372,27 +436,90 @@ Subsec. (b)(3)(C). Pub. L. 110–161, § 699I(a)(2), added subpar. (C).
 
 **(j) Duration of Compact** The duration of a Compact shall not exceed 5 years.
 
-**(k) Subsequent Compacts** An eligible country and the United States may enter into and have in effect only one Compact at any given time under this section. An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.
+**(k) Concurrent Compacts** An eligible country that has entered into and has in effect a Compact under this section may enter into and have in effect at the same time not more than one additional Compact in accordance with the requirements of this chapter if—
+
+(1) one or both of the Compacts are or will be for purposes of regional economic integration, increased regional trade, or cross-border collaborations; and
+
+(2) the Board determines that the country is making considerable and demonstrable progress in implementing the terms of the existing Compact and supplementary agreements thereto.
+
+**(l) Subsequent Compacts** An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (k), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title](./chapter-084-millennium-challenge.md#section-7701) and Tables.
+This chapter, referred to in subsecs. (a), (k), and (l), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title](./chapter-084-millennium-challenge.md#section-7701) and Tables.
+
+#### Amendments
+2018—Subsecs. (k), (l). Pub. L. 115–167 struck out first sentence of subsec. (k) which read “An eligible country and the United States may enter into and have in effect only one Compact at any given time under this section.”, redesignated the remainder of subsec. (k) as (l), and added a new subsec. (k).
+
+#### Applicability
+Pub. L. 115–167, title II, § 204(c), Apr. 23, 2018, 132 Stat. 1280, provided that: “The amendments made by this section [amending this section and [section 7712 of this title](./chapter-084-millennium-challenge.md#section-7712)] apply with respect to Compacts entered into between the United States and an eligible country under the Millennium Challenge Act of 2003 [[22 U.S.C. 7701](./chapter-084-millennium-challenge.md#section-7701) et seq.] before, on, or after the date of the enactment of this Act [Apr. 23, 2018].”
 
 
 <a id="section-7709"></a>
-## § 7709. Congressional and public notification of Compact
-**(a) Congressional consultation prior to Compact negotiations** Not later than 15 days prior to the start of negotiations of a Compact with an eligible country, the Board, acting through the Chief Executive Officer—
+## § 7709. Congressional and public notification
+**(a) Congressional consultations and notifications**
 
-(1) shall consult with the appropriate congressional committees with respect to the proposed Compact negotiation; and
+(1) **In general** — The Board, acting through the Chief Executive Officer, shall consult with and notify the appropriate congressional committees not later than 15 days before taking any of the actions described in paragraph (2).
 
-(2) shall identify the objectives and mechanisms to be used for the negotiation of the Compact.
+(2) **Actions described** — The actions described in this paragraph are—
 
-**(b) Congressional and public notification after entering into a Compact** Not later than 10 days after entering into a Compact with an eligible country, the Board, acting through the Chief Executive Officer—
+  (A) providing assistance for an eligible country under [section 7708(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7708/g&num=0&edition=prelim);
 
-(1) shall provide notification of the Compact to the appropriate congressional committees, including a detailed summary of the Compact and a copy of the text of the Compact; and
+  (B) commencing negotiations with an eligible country to provide assistance for—
 
-(2) shall publish such detailed summary and the text of the Compact in the Federal Register and on the Internet website of the Corporation.
+    (i) a Compact under [section 7704 of this title](./chapter-084-millennium-challenge.md#section-7704); or
+
+    (ii) an agreement under [section 7715 of this title](./chapter-084-millennium-challenge.md#section-7715);
+
+  (C) signing such a Compact or agreement; and
+
+  (D) terminating assistance under such a Compact or agreement.
+
+(3) **Economic justification** — Any notification relating to the intent to negotiate or sign a Compact shall include a report describing the projected economic justification for the Compact, including, as applicable—
+
+  (A) the expected economic rate of return of the Compact;
+
+  (B) a cost-benefit analysis of the Compact;
+
+  (C) a description of the impact on beneficiary populations;
+
+  (D) the likelihood that the investment will catalyze private sector investments; and
+
+  (E) any other applicable economic factors that justify each project to be funded under such a Compact to the extent practicable and appropriate.
+
+(4) **Risk management plan** — Not later than 60 days before signing each concurrent Compact, as authorized under [section 7708 of this title](./chapter-084-millennium-challenge.md#section-7708), the Board, acting through the Chief Executive Officer, shall consult with and provide to the appropriate congressional committees—
+
+  (A) an assessment and, as appropriate, the identification of potential measures to mitigate risks, of—
+
+    (i) the countries’ commitment to regional integration and cross-border cooperation and capacity to carry out commitments;
+
+    (ii) political and policy risks, including risks that could affect country eligibility;
+
+    (iii) risks associated with realizing economic returns;
+
+    (iv) time and completion risks; and
+
+    (v) cost and financial risks; and
+
+  (B) an assessment of measures to be taken to mitigate any identified risks, including—
+
+    (i) securing other potential donors to finance projects or parts of projects as needed; and
+
+    (ii) partnering with regional organizations to support and oversee effective cross-border cooperation.
+
+**(b) Congressional and public notification after entering into a Compact** Not later than 10 days after entering into a Compact with an eligible country, the Board, acting through the Chief Executive Officer, shall—
+
+(1) publish the text of the Compact on the website of the Corporation;
+
+(2) provide the appropriate congressional committees with a detailed summary of the Compact and, upon request, the text of the Compact; and
+
+(3) publish in the Federal Register a detailed summary of the Compact and a notice of availability of the text of the Compact on the website of the Corporation.
+
+### Statutory Notes
+
+#### Amendments
+2018—Pub. L. 115–167 amended section generally. Prior to amendment, section related to Congressional and public notification of Compact.
 
 
 <a id="section-7710"></a>
@@ -414,7 +541,7 @@ This chapter, referred to in subsecs. (a) and (k), was in the original “this t
 
 <a id="section-7711"></a>
 ## § 7711. Disclosure
-**(a) Requirement for disclosure** The Corporation shall make available to the public on at least a quarterly basis, the following information:
+**(a) Requirement for timely disclosure** Not later than 90 days after the last day of each fiscal quarter, the Corporation shall make available to the public the following information:
 
 (1) For assistance provided under [section 7704 of this title](./chapter-084-millennium-challenge.md#section-7704)—
 
@@ -436,7 +563,20 @@ This chapter, referred to in subsecs. (a) and (k), was in the original “this t
 
   (C) a description of the program or project to be carried out by such agency with such funds.
 
-**(b) Dissemination** The information required to be disclosed under subsection (a) shall be made available to the public by means of publication in the Federal Register and on the Internet website of the Corporation, as well as by any other methods that the Board determines appropriate.
+**(b) Dissemination** The Board, acting through the Chief Executive Officer, shall make the information required to be disclosed under subsection (a) available to the public—
+
+(1) by publishing it on the website of the Corporation;
+
+(2) by providing notice of the availability of such information in the Federal Register; and
+
+(3) by any other methods that the Board determines to be appropriate.
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (a). Pub. L. 115–167, § 206(a), in heading, inserted “timely” before “disclosure”, and in introductory provisions, substituted “Not later than 90 days after the last day of each fiscal quarter, the Corporation” for “The Corporation” and struck out “on at least a quarterly basis,” after “public”.
+
+Subsec. (b). Pub. L. 115–167, § 206(b), amended subsec. (b) generally. Prior to amendment text read as follows: “The information required to be disclosed under subsection (a) shall be made available to the public by means of publication in the Federal Register and on the Internet website of the Corporation, as well as by any other methods that the Board determines appropriate.”
 
 
 <a id="section-7712"></a>
@@ -449,7 +589,7 @@ This chapter, referred to in subsecs. (a) and (k), was in the original “this t
 
 (2) For each eligible country, an assessment of—
 
-  (A) the progress made during each year by the country toward achieving the objectives set out in the Compact entered into by the country; and
+  (A) the progress made during each year by the country toward achieving the objectives set out in any Compact entered into by the country; and
 
   (B) the extent to which assistance provided under [section 7704 of this title](./chapter-084-millennium-challenge.md#section-7704) has been effective in helping the country to achieve such objectives.
 
@@ -460,6 +600,12 @@ This chapter, referred to in subsecs. (a) and (k), was in the original “this t
 (5) Any other information the President considers relevant with respect to assistance provided under [section 7704 of this title](./chapter-084-millennium-challenge.md#section-7704).
 
 ### Statutory Notes
+
+#### Amendments
+2018—Subsec. (b)(2)(A). Pub. L. 115–167 substituted “any Compact” for “the Compact”.
+
+#### Applicability
+Amendment by Pub. L. 115–167 applicable to Compacts entered into between the United States and an eligible country under this chapter before, on, or after Apr. 23, 2018, see section 204(c) of Pub. L. 115–167, set out as a note under [section 7708 of this title](./chapter-084-millennium-challenge.md#section-7708).
 
 #### Assignment of Function To Submit a Report Relating to Millennium Challenge Corporation Activities
 Memorandum of President of the United States, Mar. 31, 2005, 70 F.R. 17195, provided:
@@ -536,7 +682,7 @@ George W. Bush.
 #### References in Text
 This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title](./chapter-084-millennium-challenge.md#section-7701) and Tables.
 
-The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title and chapters 53 (§ 4301 et seq.), 53A (§ 4341 et seq.), and 53B (§ 4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651) and Tables.
+The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, 2715b to 2734, and 2735 of this title and chapters 53 (§ 4301 et seq.), 53A (§ 4341 et seq.), and 53B (§ 4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651) and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
@@ -563,11 +709,20 @@ Section is comprised of section 614 of div. D of Pub. L. 108–199. Subsec. (e)(
 
 **(c) Administration** Assistance under this section may be provided through the United States Agency for International Development.
 
-**(d) Funding** Not more than 10 percent of the amount appropriated pursuant to the authorization of appropriations under [section 7718(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7718/a&num=0&edition=prelim) for fiscal year 2004 is authorized to be made available to carry out this section.
+**(d) Funding**
+
+(1) **Limitation** — Not more than 10 percent of the amounts made available to carry out this chapter for a fiscal year may be made available to carry out this section.
+
+(2) **Restriction relating to assistance** — None of the funds authorized to carry out the purposes of this chapter shall be available for assistance under this section to a country that does not qualify as a candidate country under [section 7705 of this title](./chapter-084-millennium-challenge.md#section-7705) for the fiscal year during which such assistance is provided.
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, known as the Millennium Challenge Act of 2003, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-084-millennium-challenge.md#section-7701) and Tables.
+
 #### Amendments
+2018—Subsec. (d). Pub. L. 115–167 amended subsec. (d) generally. Prior to amendment, text read as follows: “Not more than 10 percent of the amount appropriated pursuant to the authorization of appropriations under [section 7718(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7718/a&num=0&edition=prelim) for fiscal year 2004 is authorized to be made available to carry out this section.”
+
 2005—Subsec. (b)(1). Pub. L. 109–13 substituted “subsection (a) or (b) of section 7705” for “subparagraphs (A) and (B) of section 7705(a)(1)”.
 
 

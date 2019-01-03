@@ -74,10 +74,10 @@ Repeal applicable with respect to dues and membership fees attributable to perio
 
 ### Statutory Notes
 
-#### Repeal
+#### Codification
 This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981.
 
-Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, § 821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, § 282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, § 26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, § 1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, § 10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, § 11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended [section 4251 of this title](./chapter-033-facilities-and-services.md#section-4251), relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.
+Pub. L. 96–499, title XI, § 1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, § 821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, § 282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, § 26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, § 1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, § 10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, § 11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended this section, relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.
 
 #### Amendments
 1998—Subsec. (d)(3). Pub. L. 105–206 substituted “any other similar arrangement” for “other similar arrangement”.
@@ -227,7 +227,7 @@ except that such term does not include any communication service unless a separa
 
 ### Statutory Notes
 
-#### Repeal
+#### Codification
 This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to [section 4251 of this title](./chapter-033-facilities-and-services.md#section-4251) by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 #### Amendments
@@ -285,7 +285,7 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
 **(i) State and local governmental exemption** Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 upon any payment received for services or facilities furnished to the government of any State, or any political subdivision thereof, or the District of Columbia.
 
-**(j) Exception for nonprofit educational organizations** Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term “nonprofit educational organization” means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
+**(j) Exemption for nonprofit educational organizations** Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term “nonprofit educational organization” means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
 
 **(k) Exemption for qualified blood collector organizations** Under regulations provided by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a qualified blood collector organization (as defined in section 7701(a)(49)) for services or facilities furnished to such organization.
 
@@ -302,11 +302,10 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
 ### Statutory Notes
 
-#### Repeal
-This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to [section 4251 of this title](./chapter-033-facilities-and-services.md#section-4251) by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
-
 #### Codification
 Section 1207(c) of Pub. L. 109–280, which directed the amendment of section 4253 without specifying the act to be amended, was executed to this section, which is section 4253 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+
+This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to [section 4251 of this title](./chapter-033-facilities-and-services.md#section-4251) by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 #### Amendments
 2006—Subsec. (k). Pub. L. 109–280, § 1207(c)(1), added subsec. (k). Former subsec. (k) redesignated (l). See Codification note above.
@@ -401,7 +400,7 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
 ### Statutory Notes
 
-#### Repeal
+#### Codification
 This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, § 105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, § 702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, § 201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to [section 4251 of this title](./chapter-033-facilities-and-services.md#section-4251) by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
 #### Amendments
@@ -431,7 +430,7 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
 **(b) Domestic segments of taxable transportation**
 
-(1) **In general** — There is hereby imposed on the amount paid for each domestic segment of taxable transportation by air a tax in the amount determined in accordance with the following table for the period in which the segment begins: In the case of segments beginning:The tax is: After September 30, 1997, and before October 1, 1998$1.00 After September 30, 1998, and before October 1, 1999$2.00 After September 30, 1999, and before January 1, 2000$2.25 During 2000$2.50 During 2001$2.75 During 2002 or thereafter$3.00.
+(1) **In general** — There is hereby imposed on the amount paid for each domestic segment of taxable transportation by air a tax in the amount of $3.00.
 
 (2) **Domestic segment** — For purposes of this section, the term “domestic segment” means any segment consisting of 1 takeoff and 1 landing and which is taxable transportation described in section 4262(a)(1).
 
@@ -486,7 +485,7 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
 
     (i) such dollar amount, multiplied by
 
-    (ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting the year before the last nonindexed year for “calendar year 1992” in subparagraph (B) thereof.
+    (ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting the year before the last nonindexed year for “calendar year 2016” in subparagraph (A)(ii) thereof.
     If any increase determined under the preceding sentence is not a multiple of 10 cents, such increase shall be rounded to the nearest multiple of 10 cents.
 
   (B) *Last nonindexed year* — For purposes of subparagraph (A), the last nonindexed year is—
@@ -498,6 +497,36 @@ For effective date of amendment made by Pub. L. 85–859, see section 133(b) of 
   (C) *Taxable event* — For purposes of subparagraph (A), in the case of the tax imposed by subsection (b), the beginning of the domestic segment shall be treated as the taxable event.
 
   (D) *Special rule for amounts paid for domestic segments beginning after 2002* — If an amount is paid during a calendar year for a domestic segment beginning in a later calendar year, then the rate of tax under subsection (b) on such amount shall be the rate in effect for the calendar year in which such amount is paid.
+
+(5) **Amounts paid for aircraft management services**
+
+  (A) *In general* — No tax shall be imposed by this section or section 4271 on any amounts paid by an aircraft owner for aircraft management services related to—
+
+    (i) maintenance and support of the aircraft owner’s aircraft, or
+
+    (ii) flights on the aircraft owner’s aircraft.
+
+  (B) *Aircraft management services* — For purposes of subparagraph (A), the term “aircraft management services” includes—
+
+    (i) assisting an aircraft owner with administrative and support services, such as scheduling, flight planning, and weather forecasting,
+
+    (ii) obtaining insurance,
+
+    (iii) maintenance, storage and fueling of aircraft,
+
+    (iv) hiring, training, and provision of pilots and crew,
+
+    (v) establishing and complying with safety standards, and
+
+    (vi) such other services as are necessary to support flights operated by an aircraft owner.
+
+  (C) *Lessee treated as aircraft owner*
+
+    (i) *In general* — For purposes of this paragraph, the term “aircraft owner” includes a person who leases the aircraft other than under a disqualified lease.
+
+    (ii) *Disqualified lease* — For purposes of clause (i), the term “disqualified lease” means a lease from a person providing aircraft management services with respect to such aircraft (or a related person (within the meaning of section 465(b)(3)(C)) to the person providing such services), if such lease is for a term of 31 days or less.
+
+  (D) *Pro rata allocation* — In the case of amounts paid to any person which (but for this subsection) are subject to the tax imposed by subsection (a), a portion of which consists of amounts described in subparagraph (A), this paragraph shall apply on a pro rata basis only to the portion which consists of amounts described in such subparagraph.
 
 **(f) Exemption for certain uses** No tax shall be imposed under subsection (a) or (b) on air transportation—
 
@@ -516,7 +545,7 @@ but only if the helicopter or fixed-wing aircraft does not take off from, or lan
 
 **(i) Exemption for seaplanes** No tax shall be imposed by this section or section 4271 on any air transportation by a seaplane with respect to any segment consisting of a takeoff from, and a landing on, water, but only if the places at which such takeoff and landing occur have not received and are not receiving financial assistance from the Airport and Airways Trust Fund.
 
-**(j) Exemption for aircraft in fractional ownership aircraft programs** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2017.
+**(j) Exemption for aircraft in fractional ownership aircraft programs** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2023.
 
 **(k) Application of taxes**
 
@@ -526,7 +555,7 @@ but only if the helicopter or fixed-wing aircraft does not take off from, or lan
 
     (i) beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-    (ii) ending on September 30, 2017, and
+    (ii) ending on September 30, 2023, and
 
   (B) amounts paid during such period for transportation beginning after such period.
 
@@ -545,6 +574,24 @@ The Airport and Airway Development Act of 1970, referred to in subsec. (f), is t
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (k)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+2018—Subsec. (b)(1). Pub. L. 115–141, § 401(b)(42), substituted “a tax in the amount of $3.00.” for “a tax in the amount determined in accordance with the following table for the period in which the segment begins:” and table which set out tax amounts ranging from $1.00 to $3.00 for segments beginning after Sept. 30, 1997, to 2002 and thereafter.
+
+Subsec. (j). Pub. L. 115–254, § 802(c)(3), substituted “September 30, 2023” for “September 30, 2018”.
+
+Pub. L. 115–141, § 202(c)(2), substituted “September 30, 2018” for “March 31, 2018”.
+
+Subsec. (k)(1)(A)(ii). Pub. L. 115–254, § 802(b)(1), substituted “September 30, 2023” for “September 30, 2018”.
+
+Pub. L. 115–141, § 202(b)(1), substituted “September 30, 2018” for “March 31, 2018”.
+
+2017—Subsec. (e)(4)(A)(ii). Pub. L. 115–97, § 11002(d)(1)(FF), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+
+Subsec. (e)(5). Pub. L. 115–97, § 13822(a), added par. (5).
+
+Subsec. (j). Pub. L. 115–63, § 202(c)(2), substituted “March 31, 2018” for “September 30, 2017”.
+
+Subsec. (k)(1)(A)(ii). Pub. L. 115–63, § 202(b)(1), substituted “March 31, 2018” for “September 30, 2017”.
+
 2016—Subsec. (j). Pub. L. 114–190, § 1202(c)(2), substituted “September 30, 2017” for “July 15, 2016”.
 
 Pub. L. 114–141, § 202(c)(2), substituted “July 15, 2016” for “March 31, 2016”.
@@ -727,6 +774,11 @@ Subsec. (b). Act July 25, 1956, § 1, substituted “taxable transportation (as 
 
 Subsec. (d). Act July 25, 1956, § 4(b), substituted “Except as provided in section 4264, the” for “The”.
 
+#### Effective Date of 2017 Amendment
+Amendment by section 11002(d)(1)(FF) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+Pub. L. 115–97, title I, § 13822(b), Dec. 22, 2017, 131 Stat. 2183, provided that: “The amendment made by this section [amending this section] shall apply to amounts paid after the date of the enactment of this Act [Dec. 22, 2017].”
+
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -832,6 +884,9 @@ Pub. L. 87–508, § 5(b), June 28, 1962, 76 Stat. 115, provided that the amendm
 
 #### Effective Date of 1956 Amendment
 Act July 25, 1956, ch. 725, § 6, 70 Stat. 646, provided that: “The amendments made by this Act [amending this section and sections 4262 to 4264, 4291, and 6421 of this title] shall apply to amounts paid on or after the first day of the first month which begins more than sixty days after the date of the enactment of this Act [July 25, 1956] for transportation commencing on or after such first day.”
+
+#### Savings Provision
+For provisions that nothing in amendment by section 401(b)(42) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
 #### Delayed Deposits of Airport Trust Fund Tax Revenues
 Due date for deposits of taxes imposed by this section which would be required to be made after Aug. 14, 1997, and before Oct. 1, 1997, to be Oct. 10, 1997, and due date for deposits of taxes imposed by this section which would be required to be made after Aug. 14, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under [section 6302 of this title](./chapter-064-collection.md#section-6302).
@@ -971,7 +1026,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) Payment of tax** Where any tax imposed by section 4261 is not paid at the time payment for transportation is made, then, under regulations prescribed by the Secretary, to the extent that such tax is not collected under any other provision of this subchapter, such tax shall be paid by the carrier providing the initial segment of such transportation which begins or ends in the United States.
 
-**(d) Application of tax** The tax imposed by section 4261 shall apply to any amount paid within the United States for transportation of any person by air unless the taxpayer establishes, pursuant to regulations prescribed by the Secretary at the time of payment for the transportation, that the transportation is not transportation in respect of which tax is imposed by section 4261.
+**(d) Application of tax** The tax imposed by section 4261 shall apply to any amount paid within the United States for transportation of any person by air unless the taxpayer establishes, pursuant to regulations prescribed by the Secretary, at the time of payment for the transportation, that the transportation is not transportation in respect of which tax is imposed by section 4261.
 
 **(e) Round trips** In applying this subchapter to a round trip, such round trip shall be considered to consist of transportation from the point of departure to the destination, and of separate transportation thereafter.
 
@@ -1039,7 +1094,7 @@ Section applicable to amounts paid on or after first day of first month which be
 
     (i) beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-    (ii) ending on September 30, 2017, and
+    (ii) ending on September 30, 2023, and
 
   (B) amounts paid during such period for transportation beginning after such period.
 
@@ -1054,6 +1109,12 @@ The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement
 A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to tax for the transportation of property, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under [section 6415 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6415).
 
 #### Amendments
+2018—Subsec. (d)(1)(A)(ii). Pub. L. 115–254 substituted “September 30, 2023” for “September 30, 2018”.
+
+Pub. L. 115–141 substituted “September 30, 2018” for “March 31, 2018”.
+
+2017—Subsec. (d)(1)(A)(ii). Pub. L. 115–63 substituted “March 31, 2018” for “September 30, 2017”.
+
 2016—Subsec. (d)(1)(A)(ii). Pub. L. 114–190 substituted “September 30, 2017” for “July 15, 2016”.
 
 Pub. L. 114–141 substituted “July 15, 2016” for “March 31, 2016”.
